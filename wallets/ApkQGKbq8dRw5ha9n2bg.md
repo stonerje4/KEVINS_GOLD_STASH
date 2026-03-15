@@ -1,21 +1,30 @@
 # Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-15 22:50 UTC
+> Generated: 2026-03-15 22:55 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
+| Total Positions | 2 |
 | Open | 1 |
-| Closed | 0 |
-| SOL In (closed) | 0.000000 |
+| Closed | 1 |
+| SOL In (closed) | 0.000600 |
 | SOL Out (sells) | 0.000000 |
-| **P&L** | **+0.000000 SOL** |
-| **ROI** | **+0.0%** |
+| **P&L** | **-0.000600 SOL** |
+| **ROI** | **-100.0%** |
 
 ## Trades
 
+### ⚪ LBELL26
+- **Status:** closed | **Exit:** ghost_close_tp_2x_half
+- **Peak:** 865.94x | **Current:** 865.94x
+- **Mint:** `Ef5MAsDjChg6xDxpejN7cURL78AFnYxY1Q12obm3BAGS`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-15 22:50:23 | BUY | 0.000600 | `3wtMSx28G6EcXbLyEZ1VyGeXCzYGoU...` |
+
 ### 🟢 POKEMAPS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.07x
+- **Peak:** 1.20x | **Current:** 1.03x
 - **Mint:** `4Ehuuwj6KBtcAaE21ahSMErATgiaU2hEFpn5o4Vtpump`
 
 | Time | Action | SOL | TX |

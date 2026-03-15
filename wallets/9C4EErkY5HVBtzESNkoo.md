@@ -1,30 +1,32 @@
 # Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-15 22:50 UTC
+> Generated: 2026-03-15 22:55 UTC
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 2 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000303 |
-| **P&L** | **-0.000297 SOL** |
-| **ROI** | **-49.5%** |
+| Open | 1 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.000700 |
+| **P&L** | **-0.000500 SOL** |
+| **ROI** | **-41.6%** |
 
 ## Trades
 
-### 🟢 SLOPISM
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.71x
+### 🔴 SLOPISM
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.62x
 - **Mint:** `ChwW1RG3UKX9JJeBxf98w2yaBLjfw54ix5PWJtSFpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:43:46 | BUY | 0.000600 | `37y4ZE1C8jex3pneKwcVBPmJVXRPti...` |
+| 2026-03-15 22:50:15 | SELL | 0.000397 | `5XVNmAMAheP4CMbEm9JAmqBJ7yauwy...` |
+| 2026-03-15 22:50:28 | SELL | 0.000000 | `45gAVg27KbiTcZpSenUnowiLn3xQpJ...` |
 
 ### 🟢 AntiAI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.01x
+- **Peak:** 1.07x | **Current:** 0.97x
 - **Mint:** `BV5hWiZ1YJDKhgdXkiWqzE5zoXsy76ZYgkwe3H2Xpump`
 
 | Time | Action | SOL | TX |

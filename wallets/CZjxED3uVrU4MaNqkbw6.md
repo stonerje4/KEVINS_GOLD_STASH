@@ -1,40 +1,42 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-15 22:50 UTC
+> Generated: 2026-03-15 22:55 UTC
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 3 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000736 |
-| **P&L** | **+0.000136 SOL** |
-| **ROI** | **+22.6%** |
+| Open | 2 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.001830 |
+| **P&L** | **+0.000630 SOL** |
+| **ROI** | **+52.5%** |
 
 ## Trades
 
 ### 🟢 MoonNigga
-- **Status:** open | **Exit:** open
-- **Peak:** 1.64x | **Current:** 1.41x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.93x | **Current:** 2.08x
 - **Mint:** `8wT6REomXYdUaknXruiXcRTR1APapg1QcJtowtScpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:47:09 | BUY | 0.000600 | `4kZk3B55n1TcwCajRPQGRFVUztMCLH...` |
+| 2026-03-15 22:50:43 | SELL | 0.000370 | `4jMBEAaZjmCBt88ymGVMq7fzEBdQ3S...` |
 
-### 🟢 MoonNigga
-- **Status:** partial | **Exit:** open
-- **Peak:** 4.37x | **Current:** 2.99x
+### 🔴 MoonNigga
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 4.37x | **Current:** 1.99x
 - **Mint:** `3mN18Y7JoNUWzJakPp8msXiwYZ8V66fi1psD5enwdrA4`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:38:45 | BUY | 0.000600 | `36anMb79DxrS81hH5xRKvjomFVP2Px...` |
 | 2026-03-15 22:45:06 | SELL | 0.000368 | `5XDgxVmdG73wB8qpZfH7jkkzEg9xRq...` |
+| 2026-03-15 22:51:54 | SELL | 0.000725 | `3b3a4wCqup3mEFfY5QBQSfjnX6Y1u1...` |
 
 ### 🟢 DORO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.46x
+- **Peak:** 1.86x | **Current:** 1.31x
 - **Mint:** `EhHXDMC3UwX1SQnSVhETz4AeYRYPShvfBp95uQsApump`
 
 | Time | Action | SOL | TX |
