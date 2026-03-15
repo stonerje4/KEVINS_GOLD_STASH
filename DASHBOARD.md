@@ -1,11 +1,11 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 22:20 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 22:21 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
 | Wallets Tracked | 458 (192 active) |
-| Total Positions | 7,349 (2,236 open / 5,113 closed) |
+| Total Positions | 7,357 (2,244 open / 5,113 closed) |
 | Data Since | 2026-03-14 16:09 (30h) |
 | Closed P&L | **-48.76 SOL** (-6.4% ROI) |
 
@@ -71,12 +71,12 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.7380 SOL |
+| SOL Balance | 1.7352 SOL |
 | Open Positions | 13 (0.0360 SOL deployed) |
 | Closed Positions | 3 |
 | Total Positions | 16 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.3260 SOL (-32.6%)** |
+| **Real P&L (on-chain)** | **-0.3288 SOL (-32.9%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
