@@ -1,21 +1,30 @@
 # Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-15 23:00 UTC
+> Generated: 2026-03-15 23:05 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
+| Total Positions | 6 |
 | Open | 3 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.000700 |
-| **P&L** | **-0.000500 SOL** |
-| **ROI** | **-41.6%** |
+| **P&L** | **-0.001100 SOL** |
+| **ROI** | **-61.1%** |
 
 ## Trades
 
+### 🔴 ルクマ
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.66x
+- **Mint:** `SxxMAbXqqk8hx9z1uZBtsqaUEMwCUksomqYaiM6pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-15 23:04:57 | BUY | 0.000600 | `5CJKJYP5dc2KB69diX2ssZ9mZzceQV...` |
+
 ### 🟢 Multiverse
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.06x
+- **Peak:** 1.07x | **Current:** 0.99x
 - **Mint:** `DKkE1S5uT93enY9D4WCpkwah7DTro39bD9mLzF4spump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +33,7 @@
 
 ### 🟢 Normie
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.07x
+- **Peak:** 1.07x | **Current:** 0.90x
 - **Mint:** `AtpntuRyxyz6ExgiEU9P2fDWE3yhVE8KsRp1PQ9dpump`
 
 | Time | Action | SOL | TX |

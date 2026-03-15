@@ -1,4 +1,4 @@
-# Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
+# Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
 > Generated: 2026-03-15 23:05 UTC
 
 | Metric | Value |
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 WRT
+### 🟢 PEEP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.22x
-- **Mint:** `81aEgEN5GZwbjv4BaTtxHRTPyyKAvGZbGgnng7x6pump`
+- **Peak:** 1.00x | **Current:** 0.95x
+- **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 21:39:09 | BUY | 0.010000 | `NgDtEntW6LBebSnRoN5KhQWGxbt71t...` |
+| 2026-03-15 23:02:10 | BUY | 0.000600 | `4WvYLfqxmmJrQSx6k9gNpFtPmyQo4S...` |
 

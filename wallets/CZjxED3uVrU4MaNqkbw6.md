@@ -1,5 +1,5 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-15 23:00 UTC
+> Generated: 2026-03-15 23:05 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -37,7 +37,7 @@
 
 ### 🟢 DORO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.21x
+- **Peak:** 1.86x | **Current:** 1.36x
 - **Mint:** `EhHXDMC3UwX1SQnSVhETz4AeYRYPShvfBp95uQsApump`
 
 | Time | Action | SOL | TX |

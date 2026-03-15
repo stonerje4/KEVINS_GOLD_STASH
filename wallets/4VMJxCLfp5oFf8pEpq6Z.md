@@ -1,5 +1,5 @@
 # Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-15 23:00 UTC
+> Generated: 2026-03-15 23:05 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Agent Doge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `JB8J7Hp259EkmupJJKnqYuyPZXy1P7z22uwfzgJgpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 JARVIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.81x
+- **Peak:** 1.03x | **Current:** 0.80x
 - **Mint:** `7zhVx65GGkbRsm2j21yBsX1d3ACJKWDKQ2ANvUPcpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 Hero
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.82x
+- **Peak:** 1.05x | **Current:** 0.75x
 - **Mint:** `GfMXBij2Yn62HBxhiwD78Sykp1qQh5YCamMjMja8pump`
 
 | Time | Action | SOL | TX |
@@ -51,7 +51,7 @@
 
 ### 🟢 42
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.87x
+- **Peak:** 1.02x | **Current:** 0.82x
 - **Mint:** `G9uBiZM26J7D3jrD64FuTKZthNXmK9zQPFf3ahVYpump`
 
 | Time | Action | SOL | TX |
