@@ -1,61 +1,75 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 17:13 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 17:23 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
-| Wallets Tracked | 373 (133 active) |
-| Total Positions | 5,183 (1,945 open / 3,238 closed) |
+| Wallets Tracked | 373 (134 active) |
+| Total Positions | 5,221 (1,948 open / 3,273 closed) |
 | Data Since | 2026-03-14 16:09 (25h) |
-| Closed P&L | **+50.96 SOL** (+10.5% ROI) |
+| Closed P&L | **+49.71 SOL** (+10.1% ROI) |
 
 ## ⚠️ Reality Check (STG vs TEST slippage)
 | Metric | Value |
 |--------|-------|
-| Matched Positions | 41 |
+| Matched Positions | 46 |
 | Avg Entry Slippage | **+33.7%** |
-| Median Slippage | +20.1% |
-| Paid More / Paid Less | 33 / 8 |
-| Estimated Real P&L | **~+33.8 SOL** (shadow × 66%) |
+| Median Slippage | +20.9% |
+| Paid More / Paid Less | 38 / 8 |
+| Estimated Real P&L | **~+32.9 SOL** (shadow × 66%) |
 
 > Shadow ROI is inflated by ~34% due to entry price slippage.
 > A shadow wallet needs **+67% ROI** to be profitable with real money.
 
 ## Wallet Leaderboard
-| # | Wallet | Source | Closed | W/L | WR | P&L (SOL) | ROI | Best Peak |
-|---|--------|--------|--------|-----|-----|-----------|-----|-----------|
-| 1 | `56S29mZ3wqvw..` | discovery_v2 | 200 | 63/137 | 32% | 🟢 +15.86 | +53% | 62.2x |
-| 2 | `GN3TuCBq3eKN..` | discovery_v2 | 279 | 72/207 | 26% | 🟢 +15.22 | +36% | 37.2x |
-| 3 | `omegoMAe1AMY..` | discovery_v2 | 340 | 78/262 | 23% | 🟢 +11.21 | +22% | 39.0x |
-| 4 | `Bpbs4PbB9Rh1..` | discovery_v2 | 58 | 21/37 | 36% | 🟢 +4.18 | +48% | 32.6x |
-| 5 | `GCQkB9bsMfcU..` | discovery_v2 | 201 | 44/157 | 22% | 🟢 +3.82 | +13% | 4283.2x |
-| 6 | `DFqB6bCzyRiv..` | discovery_v2 | 297 | 58/239 | 20% | 🟢 +3.58 | +8% | 39.9x |
-| 7 | `6MEtnYcETTCv..` | discovery_v2 | 122 | 31/91 | 25% | 🟢 +3.37 | +18% | 27.1x |
-| 8 | `6E4897rJqKmX..` | discovery_v2 | 6 | 4/2 | 67% | 🟢 +1.50 | +167% | 12.0x |
-| 9 | `BGGJhxGXeTmz..` | cielo_test | 3 | 3/0 | 100% | 🟢 +1.23 | +274% | 14.4x |
-| 10 | `DFNX498a1T1U..` | discovery_v2 | 17 | 6/11 | 35% | 🟢 +1.15 | +45% | 10.8x |
-| 11 | `NCxJdVxpGD7x..` | discovery_v2 | 23 | 7/16 | 30% | 🟢 +1.09 | +32% | 5.8x |
-| 12 | `6J4pufDxsTRM..` | cielo_test | 3 | 2/1 | 67% | 🟢 +1.00 | +223% | 11.6x |
-| 13 | `J1xy6RH9X6oC..` | discovery_v2 | 13 | 4/9 | 31% | 🟢 +0.89 | +46% | 17.5x |
-| 14 | `8yuF1Tfg5Hhy..` | cielo_test | 18 | 6/12 | 33% | 🟢 +0.75 | +28% | 7.3x |
-| 15 | `7sxJ1x7fsSFM..` | mihso_scan | 13 | 4/9 | 31% | 🟢 +0.66 | +34% | 8.3x |
-| 16 | `xuK6AVSpLB1Q..` | discovery_v2 | 4 | 3/1 | 75% | 🟢 +0.58 | +97% | 3.8x |
-| 17 | `3XHiDvWCsaFC..` | cielo_test | 3 | 1/2 | 33% | 🟢 +0.49 | +110% | 9.7x |
-| 18 | `DcfdE6XWgmg9..` | discovery_v2 | 15 | 3/12 | 20% | 🟢 +0.47 | +21% | 4464.7x |
-| 19 | `GvksYkESkCqU..` | discovery_v2 | 27 | 7/20 | 26% | 🟢 +0.45 | +11% | 9.3x |
-| 20 | `4kYiJhK6XBRX..` | discovery_v2 | 6 | 2/4 | 33% | 🟢 +0.44 | +49% | 8.7x |
-| 21 | `7zJUBgLFUDig..` | discovery_v2 | 8 | 3/5 | 38% | 🟢 +0.38 | +32% | 4.7x |
-| 22 | `AqwULJRBktLC..` | discovery_v2 | 4 | 2/2 | 50% | 🟢 +0.33 | +55% | 3.9x |
-| 23 | `9pvR4EGmJ6SL..` | discovery_v2 | 35 | 6/29 | 17% | 🟢 +0.33 | +6% | 19.8x |
-| 24 | `5dd3zjBQQvQq..` | cielo_test | 5 | 1/4 | 20% | 🟢 +0.26 | +34% | 10.9x |
-| 25 | `6uippNoBxaXK..` | discovery_v2 | 10 | 1/9 | 10% | 🟢 +0.25 | +17% | 11.3x |
-| 26 | `ARJXpbguMwd1..` | discovery_v2 | 8 | 2/6 | 25% | 🟢 +0.25 | +21% | 7.3x |
-| 27 | `HV4FmWLESGWG..` | cielo_test | 8 | 2/6 | 25% | 🟢 +0.24 | +20% | 7.2x |
-| 28 | `97jv9pjCf5D7..` | discovery_v2 | 185 | 39/146 | 21% | 🟢 +0.23 | +1% | 16.8x |
-| 29 | `CZjxED3uVrU4..` | discovery_v2 | 18 | 5/13 | 28% | 🟢 +0.23 | +8% | 5.4x |
-| 30 | `2g3ve63Phxaa..` | discovery_v2 | 13 | 3/10 | 23% | 🟢 +0.23 | +12% | 5.0x |
+> Sorted by ROI (highest first) | Adj. ROI = shadow ROI × 66% (slippage discount)
 
-**31 profitable** / **0 losing** (of wallets with 3+ closed positions)
+| # | Wallet | Source | Closed | W/L | WR | ROI | Adj. ROI | P&L (SOL) | Best Peak |
+|---|--------|--------|--------|-----|-----|-----|----------|-----------|-----------|
+| 1 | `A2vZY74JHBBw..` | cielo_test | 3 | 2/1 | 67% | +354% | 🟢 **+235%** | +1.59 | 35.3x |
+| 2 | `BGGJhxGXeTmz..` | cielo_test | 3 | 3/0 | 100% | +274% | 🟢 **+182%** | +1.23 | 14.4x |
+| 3 | `6J4pufDxsTRM..` | cielo_test | 3 | 2/1 | 67% | +223% | 🟢 **+148%** | +1.00 | 11.6x |
+| 4 | `6E4897rJqKmX..` | discovery_v2 | 6 | 4/2 | 67% | +167% | 🟢 **+110%** | +1.50 | 12.0x |
+| 5 | `3XHiDvWCsaFC..` | cielo_test | 3 | 1/2 | 33% | +110% | 🟢 **+73%** | +0.49 | 9.7x |
+| 6 | `xuK6AVSpLB1Q..` | discovery_v2 | 4 | 3/1 | 75% | +97% | 🟢 **+64%** | +0.58 | 3.8x |
+| 7 | `AqwULJRBktLC..` | discovery_v2 | 4 | 2/2 | 50% | +55% | 🟢 **+36%** | +0.33 | 3.9x |
+| 8 | `56S29mZ3wqvw..` | discovery_v2 | 204 | 63/141 | 31% | +51% | 🟢 **+34%** | +15.58 | 62.2x |
+| 9 | `Dd6vj2LzPP11..` | discovery_v2 | 3 | 1/2 | 33% | +48% | 🟢 **+32%** | +0.22 | 6.4x |
+| 10 | `Bpbs4PbB9Rh1..` | discovery_v2 | 59 | 21/38 | 36% | +46% | 🟢 **+31%** | +4.11 | 32.6x |
+| 11 | `DFNX498a1T1U..` | discovery_v2 | 17 | 6/11 | 35% | +45% | 🟢 **+30%** | +1.15 | 10.8x |
+| 12 | `J1xy6RH9X6oC..` | discovery_v2 | 14 | 4/10 | 29% | +39% | 🟢 **+26%** | +0.81 | 17.5x |
+| 13 | `4kYiJhK6XBRX..` | discovery_v2 | 7 | 2/5 | 29% | +36% | 🟢 **+24%** | +0.38 | 8.7x |
+| 14 | `GN3TuCBq3eKN..` | discovery_v2 | 282 | 72/210 | 26% | +35% | 🟢 **+23%** | +14.96 | 37.2x |
+| 15 | `5dd3zjBQQvQq..` | cielo_test | 5 | 1/4 | 20% | +34% | 🟢 **+23%** | +0.26 | 10.9x |
+| 16 | `7sxJ1x7fsSFM..` | mihso_scan | 13 | 4/9 | 31% | +34% | 🟢 **+22%** | +0.66 | 8.3x |
+| 17 | `U3jiDzTcNJv5..` | cielo_test | 4 | 1/3 | 25% | +34% | 🟢 **+22%** | +0.20 | 5.3x |
+| 18 | `7zJUBgLFUDig..` | discovery_v2 | 8 | 3/5 | 38% | +32% | 🟢 **+21%** | +0.38 | 4.7x |
+| 19 | `8yuF1Tfg5Hhy..` | cielo_test | 18 | 6/12 | 33% | +28% | 🟢 **+18%** | +0.75 | 7.3x |
+| 20 | `NCxJdVxpGD7x..` | discovery_v2 | 24 | 7/17 | 29% | +28% | 🟢 **+18%** | +1.00 | 5.8x |
+| 21 | `omegoMAe1AMY..` | discovery_v2 | 340 | 78/262 | 23% | +22% | 🟢 **+15%** | +11.21 | 39.0x |
+| 22 | `TZkcwgk6WrXe..` | discovery_v2 | 7 | 2/5 | 29% | +21% | 🟢 **+14%** | +0.22 | 6.9x |
+| 23 | `DcfdE6XWgmg9..` | discovery_v2 | 15 | 3/12 | 20% | +21% | 🟢 **+14%** | +0.47 | 4464.7x |
+| 24 | `ARJXpbguMwd1..` | discovery_v2 | 8 | 2/6 | 25% | +21% | 🟢 **+14%** | +0.25 | 7.3x |
+| 25 | `FhQkGC3epoGG..` | discovery_v2 | 3 | 1/2 | 33% | +20% | 🟢 **+13%** | +0.09 | 4.5x |
+| 26 | `HV4FmWLESGWG..` | cielo_test | 8 | 2/6 | 25% | +20% | 🟢 **+13%** | +0.24 | 7.2x |
+| 27 | `6MEtnYcETTCv..` | discovery_v2 | 123 | 31/92 | 25% | +18% | 🟢 **+12%** | +3.31 | 27.1x |
+| 28 | `6uippNoBxaXK..` | discovery_v2 | 10 | 1/9 | 10% | +17% | 🟢 **+11%** | +0.25 | 11.3x |
+| 29 | `55hmYMmzT6ty..` | discovery_v2 | 9 | 3/6 | 33% | +16% | 🟢 **+11%** | +0.22 | 7.1x |
+| 30 | `ApkQGKbq8dRw..` | discovery_v2 | 3 | 1/2 | 33% | +14% | 🟡 **+9%** | +0.06 | 3.0x |
+| 31 | `GCQkB9bsMfcU..` | discovery_v2 | 203 | 44/159 | 22% | +12% | 🟡 **+8%** | +3.69 | 4283.2x |
+| 32 | `2g3ve63Phxaa..` | discovery_v2 | 13 | 3/10 | 23% | +12% | 🟡 **+8%** | +0.23 | 5.0x |
+| 33 | `GvksYkESkCqU..` | discovery_v2 | 27 | 7/20 | 26% | +11% | 🟡 **+7%** | +0.45 | 9.3x |
+| 34 | `otq3sTTS5gDg..` | discovery_v2 | 10 | 3/7 | 30% | +11% | 🟡 **+7%** | +0.17 | 3.3x |
+| 35 | `CbmdAeCcPB69..` | mihso_scan | 3 | 1/2 | 33% | +9% | 🟡 **+6%** | +0.04 | 3.9x |
+| 36 | `CZjxED3uVrU4..` | discovery_v2 | 18 | 5/13 | 28% | +8% | 🟡 **+6%** | +0.23 | 5.4x |
+| 37 | `DFqB6bCzyRiv..` | discovery_v2 | 300 | 59/241 | 20% | +8% | 🟡 **+5%** | +3.57 | 39.9x |
+| 38 | `6qTPHgnSZZUy..` | discovery_v2 | 6 | 1/5 | 17% | +7% | 🟡 **+4%** | +0.06 | 8.2x |
+| 39 | `BUiDP9QmZfRn..` | discovery_v2 | 4 | 1/3 | 25% | +6% | 🟡 **+4%** | +0.04 | 3.4x |
+| 40 | `9pvR4EGmJ6SL..` | discovery_v2 | 36 | 6/30 | 17% | +5% | 🟡 **+3%** | +0.27 | 19.8x |
+
+**41 profitable** / **0 losing** (of wallets with 3+ closed positions)
+
+> 🟢 Adj. ROI > +10% (likely profitable in real execution) | 🟡 0-10% (breakeven) | 🔴 negative (losing money)
 
 ---
 *Generated by Pump Alpha STG Dashboard • [Source](https://github.com/stonerje4/KEVINS_GOLD_STASH)*
