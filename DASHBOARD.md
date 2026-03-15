@@ -1,11 +1,11 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 21:45 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 21:46 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
 | Wallets Tracked | 380 (183 active) |
-| Total Positions | 7,037 (2,185 open / 4,852 closed) |
+| Total Positions | 7,060 (2,208 open / 4,852 closed) |
 | Data Since | 2026-03-14 16:09 (30h) |
 | Closed P&L | **-37.72 SOL** (-5.2% ROI) |
 
@@ -82,6 +82,7 @@
 |--------|-------|--------|------|-----|-----|--------|----------|--------|-------------|
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 1 | 0 | 1 | 0/0 | 0% | 0.010 | +4% | 60% | 60% → 0% |
 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 2 | 0 | 2 | 0/0 | 0% | 0.011 | -4% | 67% | 67% → 0% |
+| `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 1 | 0 | 1 | 0/0 | 0% | 0.010 | +9% | 22% | 22% → 0% |
 
 > P&L estimated by splitting on-chain total (-0.3019 SOL) proportionally by SOL spent per wallet.
 > This is the **real execution** test. Compare to shadow predictions to measure slippage impact.
@@ -90,13 +91,13 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `9xMo2sv9tDY5QVjnakjxykx2Qvy9K5FJ2NUNbVgq83c1` |
-| SOL Balance | 4.0101 SOL |
-| Open Positions | 18 (2.7000 SOL deployed) |
+| SOL Balance | 3.8544 SOL |
+| Open Positions | 19 (2.8500 SOL deployed) |
 | Closed Positions | 543 |
 | Total Deposited | ~7.34 SOL |
-| SOL Bought (bot) | 57.10 SOL |
+| SOL Bought (bot) | 57.25 SOL |
 | SOL Sold (bot) | 54.27 SOL |
-| **Real P&L (on-chain)** | **-0.6299 SOL (-8.6%)** |
+| **Real P&L (on-chain)** | **-0.6356 SOL (-8.7%)** |
 
 ### Per-Wallet Breakdown (sorted by ROI)
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | SOL Out | P&L | ROI |
@@ -134,7 +135,7 @@
 | `D3MuDmrs2dm6U9CiZur651CnPjLwUWjs9p1a3PoDs76H` | 1 | 1 | 0 | 0/1 | 0% | 0.15 | 0.08 | 🔴 -0.066 | -44.1% |
 | `42HG8wPULnwoWPCcixwBeYw9kb8Vdci7mQjs9iXV4nVv` | 2 | 2 | 0 | 0/2 | 0% | 0.30 | 0.16 | 🔴 -0.137 | -45.7% |
 | `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ` | 3 | 1 | 2 | 0/1 | 0% | 0.45 | 0.22 | 🔴 -0.225 | -50.0% |
-| `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B` | 44 | 37 | 7 | 18/19 | 49% | 6.60 | 3.10 | 🔴 -3.496 | -53.0% |
+| `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B` | 45 | 37 | 8 | 18/19 | 49% | 6.75 | 3.10 | 🔴 -3.646 | -54.0% |
 | `EyXjj7JMA4ZLWiCVtxRmqa5BqBvF1um5ogcFXJRTvT3M` | 1 | 1 | 0 | 0/1 | 0% | 0.05 | 0.02 | 🔴 -0.031 | -62.4% |
 | `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer` | 8 | 8 | 0 | 0/8 | 0% | 0.40 | 0.14 | 🔴 -0.262 | -65.6% |
 | `H3DXv3EfmFxDgsJ5sXmzW7NG68wMQ1hFTmu2NtNPjVYy` | 10 | 10 | 0 | 3/7 | 30% | 0.50 | 0.17 | 🔴 -0.332 | -66.4% |
