@@ -1,5 +1,5 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 23:50 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 23:55 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
