@@ -5,7 +5,7 @@
 | Metric | Value |
 |--------|-------|
 | Wallets Tracked | 458 (193 active) |
-| Total Positions | 7,391 (2,247 open / 5,144 closed) |
+| Total Positions | 7,395 (2,251 open / 5,144 closed) |
 | Data Since | 2026-03-14 16:09 (30h) |
 | Closed P&L | **-50.41 SOL** (-6.5% ROI) |
 
@@ -72,11 +72,11 @@
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
 | SOL Balance | 1.7324 SOL |
-| Open Positions | 14 (0.0366 SOL deployed) |
-| Closed Positions | 3 |
+| Open Positions | 13 (0.0266 SOL deployed) |
+| Closed Positions | 4 |
 | Total Positions | 17 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.3310 SOL (-33.1%)** |
+| **Real P&L (on-chain)** | **-0.3410 SOL (-34.1%)** |
 
 ### Per-Wallet Breakdown
 
