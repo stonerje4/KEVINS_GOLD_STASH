@@ -1,5 +1,5 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 23:10 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 23:15 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
@@ -101,13 +101,13 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `9xMo2sv9tDY5QVjnakjxykx2Qvy9K5FJ2NUNbVgq83c1` |
-| SOL Balance | 3.9090 SOL |
+| SOL Balance | 4.1722 SOL |
 | Open Positions | 17 (2.5500 SOL deployed) |
 | Closed Positions | 549 |
 | Total Deposited | ~7.34 SOL |
 | SOL Bought (bot) | 57.85 SOL |
 | SOL Sold (bot) | 54.86 SOL |
-| **Real P&L (on-chain)** | **-0.8810 SOL (-12.0%)** |
+| **Real P&L (on-chain)** | **-0.6178 SOL (-8.4%)** |
 
 ### Per-Wallet Breakdown (sorted by ROI)
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | SOL Out | P&L | ROI |
