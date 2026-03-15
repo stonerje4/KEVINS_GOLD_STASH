@@ -1,5 +1,5 @@
 # Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-15 23:05 UTC
+> Generated: 2026-03-15 23:10 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 TWINKLE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 1.37x
+- **Peak:** 1.53x | **Current:** 1.42x
 - **Mint:** `AJa11Um6nQBBtRULwbW7TGxaXNDs3LuimcE9eLAypump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 Baldi
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.53x | **Current:** 2.35x
+- **Peak:** 2.53x | **Current:** 1.87x
 - **Mint:** `GopbzNuDFZnaNMYnzuYSbLc6mKMnLyFQ346sPzq3pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Parliament
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 1.35x
+- **Peak:** 1.66x | **Current:** 1.60x
 - **Mint:** `EuB16g7D9z45htKh12WwQ8p75DiT82C4eQNsswn5qG2M`
 
 | Time | Action | SOL | TX |
