@@ -1,12 +1,12 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 23:35 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 23:40 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
 | Wallets Tracked | 680 (200 active) |
 | Total Positions | 7,735 (2,297 open / 5,438 closed) |
-| Data Since | 2026-03-14 16:09 (31h) |
+| Data Since | 2026-03-14 16:09 (32h) |
 | Closed P&L | **-57.69 SOL** (-7.1% ROI) |
 
 ## ⚠️ Reality Check (STG vs TEST slippage)
