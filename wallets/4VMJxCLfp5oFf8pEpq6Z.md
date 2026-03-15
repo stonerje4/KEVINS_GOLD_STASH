@@ -1,10 +1,10 @@
 # Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-15 22:55 UTC
+> Generated: 2026-03-15 23:00 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 4 |
+| Total Positions | 5 |
+| Open | 5 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.000000 |
@@ -12,6 +12,15 @@
 | **ROI** | **+0.0%** |
 
 ## Trades
+
+### 🟢 Agent Doge
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `JB8J7Hp259EkmupJJKnqYuyPZXy1P7z22uwfzgJgpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-15 22:59:02 | BUY | 0.000600 | `2CHupTUcYhCYweZUGdUGc36GdUneMX...` |
 
 ### 🟢 STARE
 - **Status:** open | **Exit:** open
@@ -24,7 +33,7 @@
 
 ### 🟢 JARVIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.82x
+- **Peak:** 1.03x | **Current:** 0.81x
 - **Mint:** `7zhVx65GGkbRsm2j21yBsX1d3ACJKWDKQ2ANvUPcpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +51,7 @@
 
 ### 🟢 42
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.88x
+- **Peak:** 1.02x | **Current:** 0.87x
 - **Mint:** `G9uBiZM26J7D3jrD64FuTKZthNXmK9zQPFf3ahVYpump`
 
 | Time | Action | SOL | TX |

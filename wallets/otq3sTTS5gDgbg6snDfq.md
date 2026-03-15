@@ -1,5 +1,5 @@
 # Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-15 22:55 UTC
+> Generated: 2026-03-15 23:00 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 
 ### 🟢 ZEBRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `EgPBL3UMV1Ebrmr1HLTd7xggtJ2emgevrYz8P14Qpump`
 
 | Time | Action | SOL | TX |
