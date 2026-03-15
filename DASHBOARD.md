@@ -1,13 +1,13 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 22:08 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 22:09 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
-| Wallets Tracked | 380 (189 active) |
-| Total Positions | 7,266 (2,245 open / 5,021 closed) |
+| Wallets Tracked | 458 (190 active) |
+| Total Positions | 7,272 (2,234 open / 5,038 closed) |
 | Data Since | 2026-03-14 16:09 (30h) |
-| Closed P&L | **-45.86 SOL** (-6.1% ROI) |
+| Closed P&L | **-46.67 SOL** (-6.2% ROI) |
 
 ## ⚠️ Reality Check (STG vs TEST slippage)
 | Metric | Value |
@@ -16,7 +16,7 @@
 | Avg Entry Slippage | **+6.1%** |
 | Median Slippage | +3.3% |
 | Paid More / Paid Less | 9 / 2 |
-| Estimated Real P&L | **~-43.1 SOL** (shadow × 94%) |
+| Estimated Real P&L | **~-43.8 SOL** (shadow × 94%) |
 
 > Shadow ROI is inflated by ~6% due to entry price slippage.
 > A shadow wallet needs **+30% ROI** to be profitable with real money.
@@ -44,7 +44,7 @@
 | 16 | `7sxJ1x7fsSFMa5bhg3YeJFryozxxKX6aoLNE3XbvF4fA` | mihso_scan | 18 | 5/13 | 28% | +23% | 🟢 **+22%** | +0.63 | 8.3x |
 | 17 | `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg` | cielo_test | 19 | 6/13 | 32% | +23% | 🟢 **+22%** | +0.65 | 7.3x |
 | 18 | `Bpbs4PbB9Rh1EH5cp3TxTWzeTUuV6ALB7KsqJnhSEZdS` | discovery_v2 | 94 | 25/69 | 27% | +16% | 🟢 **+15%** | +2.31 | 32.6x |
-| 19 | `GN3TuCBq3eKNo9YjdsSVDC9iYg9MbQviyVdEB5D6jchr` | discovery_v2 | 425 | 97/328 | 23% | +16% | 🟢 **+15%** | +10.03 | 74.9x |
+| 19 | `GN3TuCBq3eKNo9YjdsSVDC9iYg9MbQviyVdEB5D6jchr` | discovery_v2 | 426 | 98/328 | 23% | +16% | 🟢 **+15%** | +10.11 | 74.9x |
 | 20 | `DFNX498a1T1UUPBT4FwkWPNcz85qd9jzrbx9fzMWrC1e` | discovery_v2 | 23 | 6/17 | 26% | +15% | 🟢 **+14%** | +0.50 | 5.3x |
 | 21 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | discovery_v2 | 3 | 1/2 | 33% | +14% | 🟢 **+13%** | +0.06 | 3.5x |
 | 22 | `GvksYkESkCqUocDfPtkA9EzmSBoYmxwgKkb6nr8J37Mf` | discovery_v2 | 27 | 7/20 | 26% | +11% | 🟢 **+10%** | +0.45 | 9.3x |
@@ -82,12 +82,12 @@
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
 |--------|-------|--------|------|-----|-----|--------|-----|-----|
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | 🔴 +0.0000 | +0.0% |
+| `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 +0.0000 | +0.0% |
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 1 | 0 | 1 | 0/0 | 0% | 0.0100 | 🔴 +0.0000 | +0.0% |
+| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 +0.0000 | +0.0% |
 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 2 | 0 | 2 | 0/0 | 0% | 0.0106 | 🔴 +0.0000 | +0.0% |
 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 2 | 0 | 2 | 0/0 | 0% | 0.0106 | 🔴 +0.0000 | +0.0% |
 | `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | 🔴 +0.0000 | +0.0% |
-| `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.0006 | -100.0% |
-| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.0006 | -100.0% |
 
 > P&L per wallet from actual trade results. Sorted by ROI.
 > Wallets shown are currently active in test environment.
