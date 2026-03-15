@@ -1,22 +1,22 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 21:28 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 21:30 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
 | Wallets Tracked | 380 (181 active) |
-| Total Positions | 6,872 (2,114 open / 4,758 closed) |
+| Total Positions | 6,884 (2,115 open / 4,769 closed) |
 | Data Since | 2026-03-14 16:09 (29h) |
-| Closed P&L | **-32.18 SOL** (-4.5% ROI) |
+| Closed P&L | **-33.36 SOL** (-4.7% ROI) |
 
 ## ⚠️ Reality Check (STG vs TEST slippage)
 | Metric | Value |
 |--------|-------|
-| Matched Positions | 116 |
-| Avg Entry Slippage | **+26.2%** |
-| Median Slippage | +9.2% |
-| Paid More / Paid Less | 87 / 29 |
-| Estimated Real P&L | **~-23.7 SOL** (shadow × 74%) |
+| Matched Positions | 117 |
+| Avg Entry Slippage | **+26.0%** |
+| Median Slippage | +8.8% |
+| Paid More / Paid Less | 88 / 29 |
+| Estimated Real P&L | **~-24.7 SOL** (shadow × 74%) |
 
 > Shadow ROI is inflated by ~26% due to entry price slippage.
 > A shadow wallet needs **+52% ROI** to be profitable with real money.
@@ -26,9 +26,9 @@
 
 | # | Wallet | Source | Closed | W/L | WR | ROI | Adj. ROI | P&L (SOL) | Best Peak |
 |---|--------|--------|--------|-----|-----|-----|----------|-----------|-----------|
-| 1 | `A2vZY74JHBBwfjo3F1Bo5iiLXpABfAhmgdyfUGzABY9F` | cielo_test | 4 | 2/2 | 50% | +241% | 🟢 **+177%** | +1.44 | 16.5x |
+| 1 | `A2vZY74JHBBwfjo3F1Bo5iiLXpABfAhmgdyfUGzABY9F` | cielo_test | 4 | 2/2 | 50% | +241% | 🟢 **+178%** | +1.44 | 16.5x |
 | 2 | `6J4pufDxsTRMedej1aSNhzjbScgLqci2cGEqQAs9MJbz` | cielo_test | 3 | 2/1 | 67% | +223% | 🟢 **+165%** | +1.00 | 7.3x |
-| 3 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | discovery_v2 | 8 | 5/3 | 62% | +147% | 🟢 **+108%** | +1.76 | 10.5x |
+| 3 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | discovery_v2 | 8 | 5/3 | 62% | +147% | 🟢 **+109%** | +1.76 | 10.5x |
 | 4 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | cielo_test | 5 | 3/2 | 60% | +135% | 🟢 **+100%** | +1.01 | 6.0x |
 | 5 | `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt` | cielo_test | 3 | 1/2 | 33% | +110% | 🟢 **+81%** | +0.49 | 7.2x |
 | 6 | `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk` | discovery_v2 | 5 | 3/2 | 60% | +71% | 🟢 **+52%** | +0.53 | 3.8x |
@@ -50,9 +50,9 @@
 | 22 | `CbmdAeCcPB6983J52mCLKGD2V7z5XqmBQGf4uRenb5YG` | mihso_scan | 3 | 1/2 | 33% | +9% | 🟡 **+7%** | +0.04 | 2.9x |
 | 23 | `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | discovery_v2 | 23 | 6/17 | 26% | +8% | 🟡 **+6%** | +0.29 | 5.4x |
 | 24 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | discovery_v2 | 32 | 9/23 | 28% | +8% | 🟡 **+6%** | +0.39 | 5.8x |
-| 25 | `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w` | discovery_v2 | 12 | 1/11 | 8% | +7% | 🟡 **+5%** | +0.13 | 15.4x |
+| 25 | `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w` | discovery_v2 | 12 | 1/11 | 8% | +7% | 🟡 **+6%** | +0.13 | 15.4x |
 | 26 | `ARJXpbguMwd1NziwMyVz3dq6PgcFvYHgu6GWzbz4Ek5d` | discovery_v2 | 9 | 2/7 | 22% | +7% | 🟡 **+5%** | +0.10 | 7.3x |
-| 27 | `omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq` | discovery_v2 | 461 | 88/373 | 19% | +7% | 🟡 **+5%** | +4.61 | 3769.1x |
+| 27 | `omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq` | discovery_v2 | 462 | 88/374 | 19% | +7% | 🟡 **+5%** | +4.51 | 3769.1x |
 | 28 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | cielo_test | 9 | 2/7 | 22% | +6% | 🟡 **+5%** | +0.09 | 5.5x |
 | 29 | `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj` | discovery_v2 | 4 | 1/3 | 25% | +6% | 🟡 **+4%** | +0.04 | 3.4x |
 | 30 | `6MEtnYcETTCvY874S3rbH4fhc7ADAMWL1FExAwr1SoDz` | discovery_v2 | 168 | 35/133 | 21% | +6% | 🟡 **+4%** | +1.44 | 3546.1x |
@@ -70,12 +70,12 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.2161 SOL |
-| Open Positions | 46 (0.4600 SOL deployed) |
+| SOL Balance | 1.2039 SOL |
+| Open Positions | 47 (0.4700 SOL deployed) |
 | Closed Positions | 106 |
-| Total Positions | 152 |
+| Total Positions | 153 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.4239 SOL (-42.4%)** |
+| **Real P&L (on-chain)** | **-0.4261 SOL (-42.6%)** |
 
 ### Per-Wallet Breakdown (on-chain truth)
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | Avg Slip | STG WR | Shadow→Real |
@@ -84,11 +84,11 @@
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 6 | 1 | 5 | 0/1 | 0% | 0.060 | +7% | 60% | 60% → 0% |
 | `Bpbs4PbB9Rh1EH5cp3TxTWzeTUuV6ALB7KsqJnhSEZdS` | 42 | 18 | 24 | 3/15 | 17% | 0.420 | +3% | 27% | 27% → 17% |
 | `DFNX498a1T1UUPBT4FwkWPNcz85qd9jzrbx9fzMWrC1e` | 1 | 1 | 0 | 1/0 | 100% | 0.010 | -3% | 26% | 26% → 100% |
-| `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 4 | 1 | 3 | 1/0 | 100% | 0.040 | +3% | 62% | 62% → 100% |
+| `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 5 | 1 | 4 | 1/0 | 100% | 0.050 | +2% | 62% | 62% → 100% |
 | `J1xy6RH9X6oCKKUGgq7MQF8s8SqZxi8Ldbh99YCjDCSq` | 7 | 6 | 1 | 1/5 | 17% | 0.070 | -1% | 22% | 22% → 17% |
 | `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y` | 1 | 1 | 0 | 0/1 | 0% | 0.010 | +2% | 23% | 23% → 0% |
 
-> P&L estimated by splitting on-chain total (-0.4239 SOL) proportionally by SOL spent per wallet.
+> P&L estimated by splitting on-chain total (-0.4261 SOL) proportionally by SOL spent per wallet.
 > This is the **real execution** test. Compare to shadow predictions to measure slippage impact.
 
 ## 🏦 Production Wallet (Real Money)
