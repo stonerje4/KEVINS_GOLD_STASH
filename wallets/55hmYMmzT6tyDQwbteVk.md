@@ -1,4 +1,4 @@
-# Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
+# Wallet: `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog`
 > Generated: 2026-03-15 22:40 UTC
 
 | Metric | Value |
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 Parliament
+### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 1.39x
-- **Mint:** `EuB16g7D9z45htKh12WwQ8p75DiT82C4eQNsswn5qG2M`
+- **Peak:** 1.20x | **Current:** 1.07x
+- **Mint:** `AZ8BgGrdxjFP8yAqGwGGjtCJz31WFSfehHSCSsGMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 22:10:15 | BUY | 0.000600 | `4nfctkScPRJHTrfrPnnC3E27fDrPBk...` |
+| 2026-03-15 22:37:00 | BUY | 0.000600 | `32hmUJ73w9fvdxnXkRyyZcj7Dt13cs...` |
 

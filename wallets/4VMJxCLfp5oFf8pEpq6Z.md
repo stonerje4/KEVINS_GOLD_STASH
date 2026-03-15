@@ -1,10 +1,10 @@
 # Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-15 22:35 UTC
+> Generated: 2026-03-15 22:40 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 3 |
+| Total Positions | 4 |
+| Open | 4 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.000000 |
@@ -12,6 +12,15 @@
 | **ROI** | **+0.0%** |
 
 ## Trades
+
+### 🟢 STARE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 1.00x
+- **Mint:** `3KVLeJjgvYxeCqkMhFHp37V1e2LM8FaWgK2s4t4Hpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-15 22:37:22 | BUY | 0.000600 | `4quX7NRoHbSPPpwFMEczdkc8ugmN4z...` |
 
 ### 🟢 JARVIS
 - **Status:** open | **Exit:** open
@@ -24,7 +33,7 @@
 
 ### 🟢 Hero
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.92x
+- **Peak:** 1.05x | **Current:** 0.89x
 - **Mint:** `GfMXBij2Yn62HBxhiwD78Sykp1qQh5YCamMjMja8pump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +42,7 @@
 
 ### 🟢 42
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.84x
+- **Peak:** 1.02x | **Current:** 0.85x
 - **Mint:** `G9uBiZM26J7D3jrD64FuTKZthNXmK9zQPFf3ahVYpump`
 
 | Time | Action | SOL | TX |

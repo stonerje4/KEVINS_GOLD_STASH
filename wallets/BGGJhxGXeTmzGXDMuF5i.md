@@ -1,5 +1,5 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
-> Generated: 2026-03-15 22:35 UTC
+> Generated: 2026-03-15 22:40 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.28x
+- **Peak:** 1.41x | **Current:** 1.22x
 - **Mint:** `81aEgEN5GZwbjv4BaTtxHRTPyyKAvGZbGgnng7x6pump`
 
 | Time | Action | SOL | TX |

@@ -1,10 +1,10 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-15 22:35 UTC
+> Generated: 2026-03-15 22:40 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
 | SOL Out (sells) | 0.000367 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 MoonNigga
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 0.96x
+- **Mint:** `3mN18Y7JoNUWzJakPp8msXiwYZ8V66fi1psD5enwdrA4`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-15 22:38:45 | BUY | 0.000600 | `36anMb79DxrS81hH5xRKvjomFVP2Px...` |
+
 ### 🟢 DORO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.26x
+- **Peak:** 1.86x | **Current:** 1.31x
 - **Mint:** `EhHXDMC3UwX1SQnSVhETz4AeYRYPShvfBp95uQsApump`
 
 | Time | Action | SOL | TX |

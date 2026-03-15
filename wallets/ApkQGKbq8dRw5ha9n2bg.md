@@ -1,4 +1,4 @@
-# Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
+# Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
 > Generated: 2026-03-15 22:40 UTC
 
 | Metric | Value |
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 Parliament
+### 🟢 POKEMAPS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 1.39x
-- **Mint:** `EuB16g7D9z45htKh12WwQ8p75DiT82C4eQNsswn5qG2M`
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `4Ehuuwj6KBtcAaE21ahSMErATgiaU2hEFpn5o4Vtpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 22:10:15 | BUY | 0.000600 | `4nfctkScPRJHTrfrPnnC3E27fDrPBk...` |
+| 2026-03-15 22:38:04 | BUY | 0.000600 | `27bKnF1wyTqWU8XmKMNRR4xhJAHYLd...` |
 
