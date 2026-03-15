@@ -1,34 +1,34 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 17:07 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 17:13 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
-| Wallets Tracked | 250 (133 active) |
-| Total Positions | 5,151 (1,921 open / 3,230 closed) |
+| Wallets Tracked | 373 (133 active) |
+| Total Positions | 5,183 (1,945 open / 3,238 closed) |
 | Data Since | 2026-03-14 16:09 (25h) |
-| Closed P&L | **+50.91 SOL** (+10.5% ROI) |
+| Closed P&L | **+50.96 SOL** (+10.5% ROI) |
 
 ## ⚠️ Reality Check (STG vs TEST slippage)
 | Metric | Value |
 |--------|-------|
-| Matched Positions | 39 |
-| Avg Entry Slippage | **+34.6%** |
+| Matched Positions | 41 |
+| Avg Entry Slippage | **+33.7%** |
 | Median Slippage | +20.1% |
-| Paid More / Paid Less | 31 / 8 |
-| Estimated Real P&L | **~+33.3 SOL** (shadow × 65%) |
+| Paid More / Paid Less | 33 / 8 |
+| Estimated Real P&L | **~+33.8 SOL** (shadow × 66%) |
 
-> Shadow ROI is inflated by ~35% due to entry price slippage.
-> A shadow wallet needs **+69% ROI** to be profitable with real money.
+> Shadow ROI is inflated by ~34% due to entry price slippage.
+> A shadow wallet needs **+67% ROI** to be profitable with real money.
 
 ## Wallet Leaderboard
 | # | Wallet | Source | Closed | W/L | WR | P&L (SOL) | ROI | Best Peak |
 |---|--------|--------|--------|-----|-----|-----------|-----|-----------|
-| 1 | `56S29mZ3wqvw..` | discovery_v2 | 198 | 63/135 | 32% | 🟢 +16.01 | +54% | 62.2x |
-| 2 | `GN3TuCBq3eKN..` | discovery_v2 | 278 | 72/206 | 26% | 🟢 +15.29 | +37% | 37.2x |
-| 3 | `omegoMAe1AMY..` | discovery_v2 | 339 | 78/261 | 23% | 🟢 +11.29 | +22% | 39.0x |
+| 1 | `56S29mZ3wqvw..` | discovery_v2 | 200 | 63/137 | 32% | 🟢 +15.86 | +53% | 62.2x |
+| 2 | `GN3TuCBq3eKN..` | discovery_v2 | 279 | 72/207 | 26% | 🟢 +15.22 | +36% | 37.2x |
+| 3 | `omegoMAe1AMY..` | discovery_v2 | 340 | 78/262 | 23% | 🟢 +11.21 | +22% | 39.0x |
 | 4 | `Bpbs4PbB9Rh1..` | discovery_v2 | 58 | 21/37 | 36% | 🟢 +4.18 | +48% | 32.6x |
-| 5 | `GCQkB9bsMfcU..` | discovery_v2 | 199 | 43/156 | 22% | 🟢 +3.63 | +12% | 4283.2x |
+| 5 | `GCQkB9bsMfcU..` | discovery_v2 | 201 | 44/157 | 22% | 🟢 +3.82 | +13% | 4283.2x |
 | 6 | `DFqB6bCzyRiv..` | discovery_v2 | 297 | 58/239 | 20% | 🟢 +3.58 | +8% | 39.9x |
 | 7 | `6MEtnYcETTCv..` | discovery_v2 | 122 | 31/91 | 25% | 🟢 +3.37 | +18% | 27.1x |
 | 8 | `6E4897rJqKmX..` | discovery_v2 | 6 | 4/2 | 67% | 🟢 +1.50 | +167% | 12.0x |
@@ -37,7 +37,7 @@
 | 11 | `NCxJdVxpGD7x..` | discovery_v2 | 23 | 7/16 | 30% | 🟢 +1.09 | +32% | 5.8x |
 | 12 | `6J4pufDxsTRM..` | cielo_test | 3 | 2/1 | 67% | 🟢 +1.00 | +223% | 11.6x |
 | 13 | `J1xy6RH9X6oC..` | discovery_v2 | 13 | 4/9 | 31% | 🟢 +0.89 | +46% | 17.5x |
-| 14 | `8yuF1Tfg5Hhy..` | cielo_test | 17 | 6/11 | 35% | 🟢 +0.81 | +32% | 7.3x |
+| 14 | `8yuF1Tfg5Hhy..` | cielo_test | 18 | 6/12 | 33% | 🟢 +0.75 | +28% | 7.3x |
 | 15 | `7sxJ1x7fsSFM..` | mihso_scan | 13 | 4/9 | 31% | 🟢 +0.66 | +34% | 8.3x |
 | 16 | `xuK6AVSpLB1Q..` | discovery_v2 | 4 | 3/1 | 75% | 🟢 +0.58 | +97% | 3.8x |
 | 17 | `3XHiDvWCsaFC..` | cielo_test | 3 | 1/2 | 33% | 🟢 +0.49 | +110% | 9.7x |
