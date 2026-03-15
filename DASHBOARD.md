@@ -1,11 +1,11 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 22:30 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 22:31 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
 | Wallets Tracked | 458 (193 active) |
-| Total Positions | 7,432 (2,245 open / 5,187 closed) |
+| Total Positions | 7,440 (2,253 open / 5,187 closed) |
 | Data Since | 2026-03-14 16:09 (30h) |
 | Closed P&L | **-51.51 SOL** (-6.6% ROI) |
 
@@ -87,8 +87,8 @@
 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 3 | 0 | 3 | 0/0 | 0% | 0.0112 | ⚪ +0.000000 | +0.0% |
 | `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 4 | 0 | 4 | 0/0 | 0% | 0.0024 | ⚪ +0.000000 | +0.0% |
-| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000233 | -19.4% |
-| `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 3 | 2 | 1 | 0/2 | 0% | 0.0112 | 🔴 -0.003500 | -31.3% |
+| `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 3 | 2 | 1 | 0/2 | 0% | 0.0112 | 🔴 -0.003500 | -33.0% |
+| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000233 | -38.8% |
 | `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000297 | -49.5% |
 
 > P&L per wallet from actual trade results. Sorted by ROI.
