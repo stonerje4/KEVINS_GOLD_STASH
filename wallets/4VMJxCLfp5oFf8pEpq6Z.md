@@ -1,5 +1,5 @@
 # Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-15 22:45 UTC
+> Generated: 2026-03-15 22:50 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -33,7 +33,7 @@
 
 ### 🟢 Hero
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.86x
+- **Peak:** 1.05x | **Current:** 0.85x
 - **Mint:** `GfMXBij2Yn62HBxhiwD78Sykp1qQh5YCamMjMja8pump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 42
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.85x
+- **Peak:** 1.02x | **Current:** 0.90x
 - **Mint:** `G9uBiZM26J7D3jrD64FuTKZthNXmK9zQPFf3ahVYpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-15 22:45 UTC
+> Generated: 2026-03-15 22:50 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 SLOPISM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `ChwW1RG3UKX9JJeBxf98w2yaBLjfw54ix5PWJtSFpump`
 
 | Time | Action | SOL | TX |
