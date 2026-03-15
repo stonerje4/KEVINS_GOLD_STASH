@@ -1,10 +1,10 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-15 23:30 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-15 23:35 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
-| Wallets Tracked | 531 (200 active) |
+| Wallets Tracked | 680 (200 active) |
 | Total Positions | 7,735 (2,297 open / 5,438 closed) |
 | Data Since | 2026-03-14 16:09 (31h) |
 | Closed P&L | **-57.69 SOL** (-7.1% ROI) |
@@ -101,13 +101,13 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `9xMo2sv9tDY5QVjnakjxykx2Qvy9K5FJ2NUNbVgq83c1` |
-| SOL Balance | 4.0165 SOL |
-| Open Positions | 18 (2.7000 SOL deployed) |
-| Closed Positions | 549 |
+| SOL Balance | 4.1028 SOL |
+| Open Positions | 17 (2.5500 SOL deployed) |
+| Closed Positions | 550 |
 | Total Deposited | ~7.34 SOL |
 | SOL Bought (bot) | 58.00 SOL |
-| SOL Sold (bot) | 54.86 SOL |
-| **Real P&L (on-chain)** | **-0.6235 SOL (-8.5%)** |
+| SOL Sold (bot) | 55.05 SOL |
+| **Real P&L (on-chain)** | **-0.6872 SOL (-9.4%)** |
 
 ### Per-Wallet Breakdown (sorted by ROI)
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | SOL Out | P&L | ROI |
@@ -122,12 +122,12 @@
 | `r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De` | 10 | 9 | 1 | 4/5 | 44% | 1.10 | 1.97 | 🟢 +0.865 | +78.7% |
 | `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF` | 27 | 27 | 0 | 7/20 | 26% | 2.58 | 4.25 | 🟢 +1.673 | +64.8% |
 | `4yjh9zfyhjqg3tCJbWgMHn4xcot5ogqimhnjJ7qXbixH` | 35 | 34 | 1 | 7/27 | 21% | 5.25 | 8.31 | 🟢 +3.058 | +58.2% |
+| `5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg` | 8 | 8 | 0 | 2/6 | 25% | 0.66 | 1.04 | 🟢 +0.381 | +57.8% |
 | `FGZ72HENqfzUv9RiPAFqF7hCCiMZMAa5MYmWangFnZwD` | 7 | 7 | 0 | 0/7 | 0% | 0.85 | 1.34 | 🟢 +0.489 | +57.5% |
 | `9rb2ChEjkkCYGiHB97yssryBf8sh2W49MeyLUs69cKyS` | 37 | 37 | 0 | 7/30 | 19% | 1.85 | 2.89 | 🟢 +1.037 | +56.1% |
 | `7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D` | 21 | 21 | 0 | 3/18 | 14% | 1.64 | 2.44 | 🟢 +0.803 | +49.0% |
 | `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ` | 21 | 21 | 0 | 5/16 | 24% | 2.78 | 4.05 | 🟢 +1.270 | +45.7% |
 | `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j` | 27 | 27 | 0 | 5/22 | 19% | 2.37 | 3.43 | 🟢 +1.062 | +44.8% |
-| `5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg` | 8 | 7 | 1 | 2/5 | 29% | 0.66 | 0.85 | 🟢 +0.195 | +29.5% |
 | `BJJGTyZBpSoTNrodhiEaRMonCPzAkzZWrzwhwZcn8Cir` | 4 | 4 | 0 | 2/2 | 50% | 0.20 | 0.25 | 🟢 +0.054 | +27.2% |
 | `A5hEhg36kAmkrrKRhVxPrvYK5KLgBgPXbBqL9GUL5jg1` | 8 | 8 | 0 | 1/7 | 12% | 1.20 | 1.46 | 🟢 +0.259 | +21.6% |
 | `ZzZZzPoJxWKern9EMk88aik3P8KwKgptANPdrhERrwr` | 7 | 7 | 0 | 2/5 | 29% | 0.58 | 0.69 | 🟢 +0.108 | +18.7% |
