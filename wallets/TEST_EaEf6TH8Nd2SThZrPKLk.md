@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 08:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 PANDA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `2XDy7GJQNS96HFyMfzNqGg78jS9pFb8U1cJsgWSKpump`
 
 | Time | Action | SOL | TX |
@@ -208,7 +208,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.04x
+- **Peak:** 1.59x | **Current:** 1.03x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

@@ -1,21 +1,21 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 08:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 31 |
-| Open | 24 |
-| Closed | 7 |
-| SOL In (closed) | 0.013600 |
+| Open | 23 |
+| Closed | 8 |
+| SOL In (closed) | 0.014200 |
 | SOL Out (sells) | 0.003427 |
-| **P&L** | **-0.010173 SOL** |
-| **ROI** | **-74.8%** |
+| **P&L** | **-0.010773 SOL** |
+| **ROI** | **-75.9%** |
 
 ## Trades
 
 ### 🟢 RAM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 1.19x
+- **Peak:** 1.47x | **Current:** 0.83x
 - **Mint:** `B8mrS466Jge9JMBSFQUj3PqheLXAtDs3FAhrTqb8pump`
 
 | Time | Action | SOL | TX |
@@ -245,8 +245,8 @@
 |------|--------|-----|----|
 | 2026-03-16 00:25:48 | BUY | 0.000600 | `4L5gMULL67swqjYDAaYqT9zXE11TLg...` |
 
-### 🟢 SolBDay
-- **Status:** open | **Exit:** open
+### 🔴 SolBDay
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.05x | **Current:** 0.89x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 

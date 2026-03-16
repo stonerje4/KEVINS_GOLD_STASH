@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
-> Generated: 2026-03-16 08:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -14,7 +14,7 @@
 ## Trades
 
 ### 🟢 PEEP
-- **Status:** open | **Exit:** open
+- **Status:** partial | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
 

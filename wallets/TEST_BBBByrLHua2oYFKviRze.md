@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 08:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 24 |
-| Open | 0 |
+| Total Positions | 25 |
+| Open | 1 |
 | Closed | 24 |
 | SOL In (closed) | 0.014400 |
 | SOL Out (sells) | 0.011288 |
@@ -12,6 +12,15 @@
 | **ROI** | **-21.6%** |
 
 ## Trades
+
+### 🟢 OIL
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `6Qn4vnptULSSJ8v9tPgjKTHZRBmpQNm72gcy51BhAv7d`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:19:59 | BUY | 0.000600 | `2wNWhANbdnBn1NCwYUszMsd1RgKgWJ...` |
 
 ### 🔴 ANMOO
 - **Status:** closed | **Exit:** ghost_close_stop_loss

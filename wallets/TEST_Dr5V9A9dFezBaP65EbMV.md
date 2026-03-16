@@ -1,10 +1,10 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 08:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 14 |
-| Open | 10 |
+| Total Positions | 15 |
+| Open | 11 |
 | Closed | 4 |
 | SOL In (closed) | 0.002400 |
 | SOL Out (sells) | 0.001585 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 SHIKOKU
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 1.01x
+- **Mint:** `7TvfNnDxstnrfb5eF5pg4PcwXPMfiJLu9eysA7qJpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:19:08 | BUY | 0.000600 | `5c7AjL6MSLNpiC5dSpzU6NJ17LA8sN...` |
+
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 1.09x
+- **Peak:** 1.21x | **Current:** 1.14x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +42,7 @@
 
 ### 🟢 LOCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.24x
+- **Peak:** 1.45x | **Current:** 1.14x
 - **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
 
 | Time | Action | SOL | TX |

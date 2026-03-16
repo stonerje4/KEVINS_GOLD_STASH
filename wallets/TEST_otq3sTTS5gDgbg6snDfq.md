@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 08:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 28 |
-| Open | 22 |
+| Total Positions | 29 |
+| Open | 23 |
 | Closed | 6 |
 | SOL In (closed) | 0.003600 |
 | SOL Out (sells) | 0.002357 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 CITYGIRL
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `C4g6BS4xXiqo7Y6LjiLykMNdVPuJkFfj7SRDQXUBpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:18:59 | BUY | 0.000600 | `3zdd4h3xaZxcUzWeUapE9GYnGCxZ8s...` |
+
 ### 🟢 HIDE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `8AvsABLpk7aoqFTTf2Dym6KoeDbJZ3wTE4qcAmbSpump`
 
 | Time | Action | SOL | TX |

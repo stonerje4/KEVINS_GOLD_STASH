@@ -1,15 +1,15 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 08:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 115 |
-| Open | 29 |
-| Closed | 86 |
-| SOL In (closed) | 0.051600 |
-| SOL Out (sells) | 0.050851 |
-| **P&L** | **-0.000749 SOL** |
-| **ROI** | **-1.5%** |
+| Open | 28 |
+| Closed | 87 |
+| SOL In (closed) | 0.052200 |
+| SOL Out (sells) | 0.051256 |
+| **P&L** | **-0.000944 SOL** |
+| **ROI** | **-1.8%** |
 
 ## Trades
 
@@ -74,18 +74,19 @@
 | 2026-03-16 07:52:18 | BUY | 0.000600 | `3QEXY6t8aHeFVipSgWM26HK4UEfL2z...` |
 | 2026-03-16 08:03:01 | SELL | 0.000378 | `3mMdRf2xmFy3QpVFyoGE7Qn1XfT8xF...` |
 
-### 🟢 MERT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.89x | **Current:** 0.80x
+### 🔴 MERT
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.89x | **Current:** 0.67x
 - **Mint:** `5vHv6q1d6X9qq988NmHsMSmZXPQzVz6vow6aHwHXhpLp`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:48:54 | BUY | 0.000600 | `25oyAKvR9Pj8ygyc4tcrPA19bAim8w...` |
+| 2026-03-16 08:18:38 | SELL | 0.000405 | `4ZgQdjevyWTV34D5ChWr6omeY4sLj5...` |
 
 ### 🟢 RICHIE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.86x
+- **Peak:** 1.48x | **Current:** 1.48x
 - **Mint:** `G4XU9QGZBJbNENSXVU5Tbakn3ya4JhmBVNVEkEBYpump`
 
 | Time | Action | SOL | TX |
@@ -1106,7 +1107,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.52x
+- **Peak:** 1.90x | **Current:** 1.90x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
