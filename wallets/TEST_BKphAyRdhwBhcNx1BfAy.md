@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Carrot
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `9FH52pJeBTuCr8T9yef2qstYDnbfQdaESAKMp6hKpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 LAD
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.53x | **Current:** 2.29x
+- **Peak:** 2.53x | **Current:** 1.87x
 - **Mint:** `62Tx3QaLjD6ox8h32BpNA9voQqB8YHTBihSTXAUfpump`
 
 | Time | Action | SOL | TX |
@@ -45,7 +45,7 @@
 
 ### 🟢 LEGO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
+- **Peak:** 1.00x | **Current:** 0.90x
 - **Mint:** `5za1cR7v7gmaCM6JwpJd95uDMycs2f2ngVDp9DZgpump`
 
 | Time | Action | SOL | TX |
@@ -54,7 +54,7 @@
 
 ### 🟢 Courier
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.74x
+- **Peak:** 1.26x | **Current:** 0.66x
 - **Mint:** `9DvWm4LvkJL8XzPupUn9JFdc65EBXgguxNUW9hMQpump`
 
 | Time | Action | SOL | TX |
@@ -128,7 +128,7 @@
 
 ### 🟢 EXPO
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.14x | **Current:** 1.63x
+- **Peak:** 2.14x | **Current:** 1.80x
 - **Mint:** `Gmv4DEdi3GPLwCLnjJc1C99qbC9iLaZepUwE3pr8pump`
 
 | Time | Action | SOL | TX |
@@ -150,7 +150,7 @@
 
 ### 🟢 ミャク
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.70x
+- **Peak:** 1.13x | **Current:** 0.69x
 - **Mint:** `9WhYFYMtaUYK17GuQ8hNJ8XGFAwV4SHTe9Bkdn56pump`
 
 | Time | Action | SOL | TX |
@@ -301,7 +301,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.11x | **Current:** 1.92x
+- **Peak:** 2.11x | **Current:** 1.74x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -488,7 +488,7 @@
 
 ### 🟢 Warabi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `5p8EuJfXTNr7Us9sYweDAsXBuzm4pLVoNNnLeykDpump`
 
 | Time | Action | SOL | TX |
@@ -693,7 +693,7 @@
 
 ### 🟢 Angela
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.69x | **Current:** 1.81x
+- **Peak:** 2.69x | **Current:** 1.70x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |

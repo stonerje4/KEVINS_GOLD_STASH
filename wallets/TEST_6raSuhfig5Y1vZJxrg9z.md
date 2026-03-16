@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 SWE-agent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.87x
+- **Peak:** 1.05x | **Current:** 0.42x
 - **Mint:** `GkktngyeUNQeC5V1yWSTxoE8GFDj9h7GMm2D2jhPpump`
 
 | Time | Action | SOL | TX |

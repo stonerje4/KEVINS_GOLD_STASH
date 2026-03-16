@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Pigeon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.64x
+- **Peak:** 1.00x | **Current:** 0.59x
 - **Mint:** `2M2H39U6Db842okcJ9gFvmSsvEQcesRDbBgjjAckpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 REDHEAD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.74x
+- **Peak:** 1.06x | **Current:** 1.03x
 - **Mint:** `4vAoDvZzTQrcZQmAmWptpFMPcwCeLQJ6PbGLZX3Fpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 POKEFUN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 1.25x
+- **Peak:** 1.27x | **Current:** 1.17x
 - **Mint:** `G4WzMcvBFVAhNBbb2U9LDvdmX8T2nVNkvHz7siWBpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 LIQUORA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.99x
+- **Peak:** 1.17x | **Current:** 1.17x
 - **Mint:** `FppyXdz1bp6VHvraf7QVkNo7EfdYNqZDunEQ5Gk3pump`
 
 | Time | Action | SOL | TX |
@@ -101,7 +101,7 @@
 | 2026-03-16 16:01:48 | SELL | 0.000035 | `RFT84uMurrNqwTjUFyE11Py8FNvSge...` |
 
 ### 🟢 Dozer
-- **Status:** closing | **Exit:** runner_trailing_stop
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 7.31x | **Current:** 3.74x
 - **Mint:** `JB92sKqTtgyfAaYcpg5x8Jau2m73jUfsyEHkpRRspump`
 
@@ -466,7 +466,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.16x | **Current:** 1.70x
+- **Peak:** 2.16x | **Current:** 1.68x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |

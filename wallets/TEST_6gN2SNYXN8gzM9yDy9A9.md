@@ -1,22 +1,31 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 3 |
+| Total Positions | 7 |
+| Open | 4 |
 | Closed | 3 |
 | W/L | 3/0 |
 | SOL In (closed) | 0.001300 |
 | **Closed P&L** | **+0.000789 SOL** |
 | **Closed ROI** | **+60.7%** |
-| Open Deployed | 0.000800 SOL |
+| Open Deployed | 0.000900 SOL |
 
 ## Trades
 
+### 🟢 DANNY
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `FBtp9XJfzkUkd6gXB1VnEMgZhoZm4hnsRZYRGxzJpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:09:04 | BUY | 0.000100 | `4SfsnYrLNgqAJnhXk4omDa84vGYMha...` |
+
 ### 🟢 Steak
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.26x | **Current:** 1.18x
 - **Mint:** `EqFip97pde7Tpim8Ygp5BRPsP6e2VZd4jC3PcyLmpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 Stare
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.85x
+- **Peak:** 1.02x | **Current:** 0.43x
 - **Mint:** `CGjA6fRxrA1X9UWTzFbNMxTTegkyBRtPgoLHgkzhpump`
 
 | Time | Action | SOL | TX |

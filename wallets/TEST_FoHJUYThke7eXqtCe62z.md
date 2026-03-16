@@ -1,16 +1,16 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 53 |
-| Open | 34 |
-| Closed | 19 |
-| W/L | 10/9 |
-| SOL In (closed) | 0.019800 |
-| **Closed P&L** | **+0.008606 SOL** |
-| **Closed ROI** | **+43.5%** |
-| Open Deployed | 0.018400 SOL |
+| Open | 33 |
+| Closed | 20 |
+| W/L | 11/9 |
+| SOL In (closed) | 0.019900 |
+| **Closed P&L** | **+0.008784 SOL** |
+| **Closed ROI** | **+44.1%** |
+| Open Deployed | 0.018300 SOL |
 
 ## Trades
 
@@ -58,8 +58,8 @@
 | 2026-03-16 15:48:13 | SELL | 0.000064 | `A5X1CPHnaPe1bvM9pdoxSD7kmSomBS...` |
 
 ### 🟢 DroydAI
-- **Status:** partial | **Exit:** open
-- **Peak:** 7.06x | **Current:** 6.19x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 7.06x | **Current:** 1.15x
 - **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
 
 | Time | Action | SOL | TX |
@@ -68,6 +68,7 @@
 | 2026-03-16 15:07:33 | SELL | 0.000021 | `5Sk9RkpZKEvNAhcBypPAxqjWxF91cu...` |
 | 2026-03-16 15:23:01 | SELL | 0.000028 | `5W24v13gr2vWfF4L8biqBUxJUHphj7...` |
 | 2026-03-16 15:43:38 | SELL | 0.000044 | `4GFXKN7xs5BN8nbHMmie9VVRJbhuWa...` |
+| 2026-03-16 16:07:27 | SELL | 0.000084 | `5UHrT46u1o529qrAQdz7jhiYDtCHq8...` |
 
 ### 🟢 Moonigga
 - **Status:** partial | **Exit:** open

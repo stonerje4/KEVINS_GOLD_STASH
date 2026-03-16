@@ -1,5 +1,5 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 16:05 UTC | Environment: **PRD**
+> Generated: 2026-03-16 16:10 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 REDHEAD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.00x
+- **Peak:** 1.65x | **Current:** 0.00x
 - **Mint:** `4vAoDvZzTQrcZQmAmWptpFMPcwCeLQJ6PbGLZX3Fpump`
 
 | Time | Action | SOL | TX |

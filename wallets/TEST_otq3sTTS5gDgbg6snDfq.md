@@ -1,18 +1,27 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 41 |
-| Open | 29 |
+| Total Positions | 42 |
+| Open | 30 |
 | Closed | 12 |
 | W/L | 4/8 |
 | SOL In (closed) | 0.007200 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+44.5%** |
-| Open Deployed | 0.015900 SOL |
+| Open Deployed | 0.016000 SOL |
 
 ## Trades
+
+### 🟢 TRASH
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `4iUob6N4n2mB3oacBHBhMegRZZFgAu7ycdEvCjm4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:08:16 | BUY | 0.000100 | `NsubQJ6EN3hDNyQeJkNud5kFfBTApc...` |
 
 ### 🟢 SAIRI
 - **Status:** open | **Exit:** open
@@ -52,7 +61,7 @@
 
 ### 🟢 $LLAMA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `2mia3Krg7QayRGvAEPidCoWxBhzfjryFsEQ1Dtfhpump`
 
 | Time | Action | SOL | TX |
@@ -234,7 +243,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |
@@ -310,7 +319,7 @@
 
 ### 🟢 OG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.89x
+- **Peak:** 1.02x | **Current:** 0.82x
 - **Mint:** `37JEzbRcfeGAYEeiPMg1gKbK8UZNQG7cjF5Pvse7pump`
 
 | Time | Action | SOL | TX |
