@@ -1,22 +1,22 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 85 |
-| Open | 24 |
-| Closed | 61 |
-| W/L | 59/2 |
-| SOL In (closed) | 0.029600 |
-| **Closed P&L** | **+0.024184 SOL** |
-| **Closed ROI** | **+81.7%** |
-| Open Deployed | 0.003400 SOL |
+| Open | 23 |
+| Closed | 62 |
+| W/L | 60/2 |
+| SOL In (closed) | 0.029700 |
+| **Closed P&L** | **+0.024223 SOL** |
+| **Closed ROI** | **+81.6%** |
+| Open Deployed | 0.003300 SOL |
 
 ## Trades
 
 ### 🟢 Moumou
 - **Status:** open | **Exit:** open
-- **Peak:** 1.35x | **Current:** 0.77x
+- **Peak:** 1.46x | **Current:** 1.46x
 - **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
 
 | Time | Action | SOL | TX |
@@ -25,17 +25,18 @@
 
 ### 🟢 pandas
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.53x | **Current:** 2.50x
+- **Peak:** 3.56x | **Current:** 3.17x
 - **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:41:30 | BUY | 0.000100 | `5QKb3TEJ5vq3EdkCPoNwNkgEnV5CZJ...` |
 | 2026-03-16 17:44:10 | SELL | 0.000025 | `5YPC4suZKsPwmmCGsAfwWaSpT5gucd...` |
+| 2026-03-16 17:45:24 | SELL | 0.000030 | `5vEPryg9PoUN6AfgptiZf2V2huqUro...` |
 
 ### 🟢 ORCA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 0.87x
+- **Peak:** 1.39x | **Current:** 0.88x
 - **Mint:** `3MXwNB5y8Y4vQsRJNTSZ8XZTNsGRn2eCJa3iqBKxpump`
 
 | Time | Action | SOL | TX |
@@ -60,14 +61,15 @@
 |------|--------|-----|----|
 | 2026-03-16 17:24:10 | BUY | 0.000100 | `36rfWNZhrz4mLBnXcdju9rgrzqNe6F...` |
 
-### 🟢 NEMO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.50x
+### 🔴 NEMO
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.01x | **Current:** 0.40x
 - **Mint:** `EDNHXRbAzUfqNeEmZ4zzxVQH8mwsVj2VjzHozGGBfU9f`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:22:40 | BUY | 0.000100 | `3qZm8EAiUrPbzAfR2Ero3GLKhDKRTf...` |
+| 2026-03-16 17:49:27 | SELL | 0.000040 | `5Pw2DBd8LvBAffDAgmAEJGZakHR2XY...` |
 
 ### 🟢 FUNNYBOT
 - **Status:** open | **Exit:** open
@@ -111,7 +113,7 @@
 
 ### 🟢 Rocketman
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 0.46x
+- **Peak:** 1.73x | **Current:** 0.45x
 - **Mint:** `3AVfhVVkgoZxCocQjGrXXZNTZsaGEpJF1ffz1euZpump`
 
 | Time | Action | SOL | TX |
@@ -332,7 +334,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.17x
+- **Peak:** 1.74x | **Current:** 1.19x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

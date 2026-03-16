@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Mixing
 - **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 1.24x
+- **Peak:** 1.48x | **Current:** 1.23x
 - **Mint:** `4BMRtL1z1FjrwzWsoWw7NFnMQ8ocDta1cgxGb6ygpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Skull
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.23x
+- **Peak:** 1.86x | **Current:** 1.09x
 - **Mint:** `JA5zpFxTvyiXXhynuShUEtUZJ33AYS7NjSHnbUKApump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 RealtorGPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.65x
+- **Peak:** 1.26x | **Current:** 0.95x
 - **Mint:** `BXUZJPpjLcEpcTi9XgENFGsRtxhjXueaB9ReyGQJpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 AVA 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.72x
+- **Peak:** 1.02x | **Current:** 0.71x
 - **Mint:** `7xTRj5B3ErWFQ5qKKA2YjabLNQGML3v18UwY21sYpump`
 
 | Time | Action | SOL | TX |
@@ -139,7 +139,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.74x
+- **Peak:** 1.24x | **Current:** 0.73x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |

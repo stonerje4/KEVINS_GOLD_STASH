@@ -1,18 +1,36 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 56 |
-| Open | 33 |
+| Total Positions | 58 |
+| Open | 35 |
 | Closed | 23 |
 | W/L | 13/10 |
 | SOL In (closed) | 0.020700 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+43.8%** |
-| Open Deployed | 0.017800 SOL |
+| Open Deployed | 0.018000 SOL |
 
 ## Trades
+
+### 🟢 NEO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `43Pib7A7PL6XZvB94jTRXrRUzToft8xTGyuttmu3pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:49:40 | BUY | 0.000100 | `5RTu947Ax4PCWkpjex5KCETf8ajdUg...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.89x
+- **Mint:** `8TLJGfW2xjoJK34DaKcP4g1xWVuqWSePEgm885Qnpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:45:11 | BUY | 0.000100 | `4BcG8AaJdyUHYCKbXDu25FZtewDpXQ...` |
 
 ### 🟢 BROOKS
 - **Status:** open | **Exit:** open

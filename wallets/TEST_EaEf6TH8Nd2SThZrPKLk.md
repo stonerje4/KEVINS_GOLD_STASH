@@ -1,37 +1,39 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 91 |
-| Open | 18 |
-| Closed | 73 |
-| W/L | 72/1 |
-| SOL In (closed) | 0.035300 |
-| **Closed P&L** | **+0.029688 SOL** |
-| **Closed ROI** | **+84.1%** |
-| Open Deployed | 0.003300 SOL |
+| Open | 17 |
+| Closed | 74 |
+| W/L | 73/1 |
+| SOL In (closed) | 0.035400 |
+| **Closed P&L** | **+0.029725 SOL** |
+| **Closed ROI** | **+84.0%** |
+| Open Deployed | 0.003200 SOL |
 
 ## Trades
 
-### 🟢 AI Netanyah
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.44x
+### 🔴 AI Netanyah
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.37x
 - **Mint:** `8Ni5tLoVyqz6S6NshA8VoborEyzMvfc6rLi7rEFwpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:43:25 | BUY | 0.000100 | `4BzGqRBbygvZGEKQi7yegPAP7KQcVr...` |
+| 2026-03-16 17:48:33 | SELL | 0.000037 | `2ns4yWpmz2a9ow48u23Cc3XEAmNy2x...` |
 
 ### 🟢 SIRI
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.27x | **Current:** 2.27x
+- **Peak:** 3.10x | **Current:** 3.10x
 - **Mint:** `8S2iD5M7HwE5zXC4u6ReaPLGdztTM24d9JCVREu5pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:28:06 | BUY | 0.000100 | `4AQwuyHwTESQmGutopfrQtDFU9UC2g...` |
 | 2026-03-16 17:37:51 | SELL | 0.000020 | `38WCYzTZPEPczRjDUqaDhNEnCcFhCa...` |
+| 2026-03-16 17:49:29 | SELL | 0.000028 | `3bZNaZtcA6bYgQBhanu9PYZZdzhwLo...` |
 
 ### 🔴 🦞Y🦞
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -94,7 +96,7 @@
 
 ### 🟢 HVAC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.11x
+- **Peak:** 1.36x | **Current:** 1.03x
 - **Mint:** `7USpkp5mgAwTwQw8aMvYJUh4mwFoWoZtuU38j6wLpump`
 
 | Time | Action | SOL | TX |

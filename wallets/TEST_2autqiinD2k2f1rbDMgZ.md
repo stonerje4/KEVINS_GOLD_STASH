@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2autqiinD2k2f1rbDMgZh5fJMrVdnTdB5vWc3Wa7PDZp`
-> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PUMPBAG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.74x
+- **Peak:** 1.30x | **Current:** 0.42x
 - **Mint:** `4fhcEAjV2tW2fepERb8A6YnEk4mDLFNLDFGoyH8vpump`
 
 | Time | Action | SOL | TX |

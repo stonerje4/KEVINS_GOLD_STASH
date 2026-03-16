@@ -1,22 +1,31 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 45 |
-| Open | 32 |
+| Total Positions | 46 |
+| Open | 33 |
 | Closed | 13 |
 | W/L | 4/9 |
 | SOL In (closed) | 0.007800 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+41.1%** |
-| Open Deployed | 0.015700 SOL |
+| Open Deployed | 0.015800 SOL |
 
 ## Trades
 
+### 🟢 ABBAS 
+- **Status:** open | **Exit:** open
+- **Peak:** 1.06x | **Current:** 1.06x
+- **Mint:** `79BVC3EJhHL3CL5madCH6dGt5oddJxk2AMtj6wfapump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:45:07 | BUY | 0.000100 | `GYPsrJqgdKw23UkYXMtvwJw2sfrHu5...` |
+
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.01x
+- **Peak:** 1.20x | **Current:** 0.89x
 - **Mint:** `38eMg7L9Kg8jjrS4XxgYeEP1ByfaNKje9tWJkK4Gpump`
 
 | Time | Action | SOL | TX |
