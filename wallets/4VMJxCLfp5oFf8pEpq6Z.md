@@ -1,21 +1,21 @@
 # Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 00:40 UTC
+> Generated: 2026-03-16 00:45 UTC
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 6 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000351 |
-| **P&L** | **-0.000249 SOL** |
-| **ROI** | **-41.5%** |
+| Open | 5 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.000755 |
+| **P&L** | **-0.000445 SOL** |
+| **ROI** | **-37.1%** |
 
 ## Trades
 
 ### 🟢 Coffeegate
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.89x
+- **Peak:** 1.03x | **Current:** 0.91x
 - **Mint:** `CJYgKNJ9G66YWbpu6FCYh7LVFzRQp1AZ3sqggmXCpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 WhiteBoy 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.96x
+- **Peak:** 1.04x | **Current:** 0.95x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Agent Doge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `JB8J7Hp259EkmupJJKnqYuyPZXy1P7z22uwfzgJgpump`
 
 | Time | Action | SOL | TX |
@@ -58,14 +58,16 @@
 |------|--------|-----|----|
 | 2026-03-15 22:23:46 | BUY | 0.000600 | `63Gtz2dTrN2D3q3xVuAerRVxi8Zj8D...` |
 
-### 🟢 Hero
-- **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.83x
+### 🔴 Hero
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.05x | **Current:** 0.69x
 - **Mint:** `GfMXBij2Yn62HBxhiwD78Sykp1qQh5YCamMjMja8pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:01:54 | BUY | 0.000600 | `2AWTy4fR9ghZn3GRbrU4wRKkcxbkzp...` |
+| 2026-03-16 00:42:08 | SELL | 0.000404 | `3fjcXoFzM3BGNNmmByRU4ZTTK3RwCe...` |
+| 2026-03-16 00:42:22 | SELL | 0.000000 | `4j62yAGcvDd1t6wJH7qMFZRW44dEuK...` |
 
 ### 🔴 42
 - **Status:** closed | **Exit:** stop_loss

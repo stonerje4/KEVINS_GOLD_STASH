@@ -1,5 +1,5 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 00:40 UTC
+> Generated: 2026-03-16 00:45 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 JORDAN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 1.03x
+- **Peak:** 1.14x | **Current:** 1.14x
 - **Mint:** `6nYVpGGGnrKGSHBUcBn7qie8WoApRPHbVG6buZSNpump`
 
 | Time | Action | SOL | TX |
@@ -55,7 +55,7 @@
 
 ### 🟢 DORO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.45x
+- **Peak:** 1.86x | **Current:** 1.38x
 - **Mint:** `EhHXDMC3UwX1SQnSVhETz4AeYRYPShvfBp95uQsApump`
 
 | Time | Action | SOL | TX |

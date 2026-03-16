@@ -1,21 +1,21 @@
 # Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 00:40 UTC
+> Generated: 2026-03-16 00:45 UTC
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 2 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.001545 |
-| **P&L** | **+0.000945 SOL** |
-| **ROI** | **+157.5%** |
+| Open | 1 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.002528 |
+| **P&L** | **+0.001328 SOL** |
+| **ROI** | **+110.6%** |
 
 ## Trades
 
 ### 🟢 TWINKLE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.53x | **Current:** 0.89x
+- **Peak:** 1.53x | **Current:** 0.79x
 - **Mint:** `AJa11Um6nQBBtRULwbW7TGxaXNDs3LuimcE9eLAypump`
 
 | Time | Action | SOL | TX |
@@ -33,13 +33,14 @@
 | 2026-03-15 23:02:53 | SELL | 0.000364 | `4pyP8Nd5SvHcENjhiZyV3YXPzsNewQ...` |
 | 2026-03-16 00:29:08 | SELL | 0.000819 | `3fWLsbHiurP5UbdfCwQCj8uHuvsZgH...` |
 
-### 🟢 Parliament
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.89x | **Current:** 2.49x
+### 🔴 Parliament
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.27x | **Current:** 2.38x
 - **Mint:** `EuB16g7D9z45htKh12WwQ8p75DiT82C4eQNsswn5qG2M`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:10:15 | BUY | 0.000600 | `4nfctkScPRJHTrfrPnnC3E27fDrPBk...` |
 | 2026-03-16 00:36:25 | SELL | 0.000362 | `2pCozxGDS5fUpZthbm137QFgpyfpg8...` |
+| 2026-03-16 00:43:44 | SELL | 0.000983 | `mU1iDkSeFprMSbFbA8ne7ue5egeyCr...` |
 
