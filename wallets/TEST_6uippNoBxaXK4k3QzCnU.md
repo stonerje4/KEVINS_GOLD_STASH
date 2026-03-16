@@ -1,4 +1,4 @@
-# [TEST] Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
+# [TEST] Wallet: `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w`
 > Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 Luusha 
+### 🟢 Shelly
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.51x
-- **Mint:** `4dWrMPMzEH99jm2XDf8STnwbw61ro7KumR6PnpDzpump`
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `BAZBed8AxJyt15KChfnk2o14V8kmUMGHyJVf15eYpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 17:06:41 | BUY | 0.000100 | `eqrUB9p7fyUTL1KF71Vk9rroexoAoY...` |
+| 2026-03-16 18:24:41 | BUY | 0.000100 | `2N4c6gp4xCcY1DEus26aRqr2PrwzJJ...` |
 

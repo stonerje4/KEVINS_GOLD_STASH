@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 18:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -29,7 +29,7 @@
 
 ### 🟢 SME
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.28x | **Current:** 1.70x
+- **Peak:** 2.28x | **Current:** 1.26x
 - **Mint:** `Dh6HtEHN6AmghFNYh3nzR2SPq1h4ub8HEMAC2Abrpump`
 
 | Time | Action | SOL | TX |
@@ -59,7 +59,7 @@
 
 ### 🟢 SIRI
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.83x | **Current:** 3.38x
+- **Peak:** 3.83x | **Current:** 3.19x
 - **Mint:** `8S2iD5M7HwE5zXC4u6ReaPLGdztTM24d9JCVREu5pump`
 
 | Time | Action | SOL | TX |
@@ -129,7 +129,7 @@
 
 ### 🟢 HVAC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 0.80x
+- **Peak:** 1.36x | **Current:** 0.76x
 - **Mint:** `7USpkp5mgAwTwQw8aMvYJUh4mwFoWoZtuU38j6wLpump`
 
 | Time | Action | SOL | TX |

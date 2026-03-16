@@ -1,22 +1,31 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-16 18:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 4 |
+| Total Positions | 5 |
+| Open | 5 |
 | Closed | 0 |
 | W/L | 0/0 |
 | SOL In (closed) | 0.000000 |
 | **Closed P&L** | **+0.000000 SOL** |
 | **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000400 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
+### 🟢 CUDA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.12x | **Current:** 1.04x
+- **Mint:** `6J26Lc4bcMHroKDJ4RqF5Bs7SMtxusZszLxrgazzCjzj`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 18:22:10 | BUY | 0.000100 | `3E6TJLwQ5XWZzinCuKnXRbEb1AtaFo...` |
+
 ### 🟢 PIGEON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `HUvdhx4exbZK9Rp2rfwGvcL6bTPTuYeQqKFER6b5X3aF`
 
 | Time | Action | SOL | TX |
@@ -35,7 +44,7 @@
 
 ### 🟢 MILK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 0.92x
+- **Peak:** 1.38x | **Current:** 0.89x
 - **Mint:** `4G4eWdTrmApqMazmahAdVXwB51rrSBNWMsYJDPJhpump`
 
 | Time | Action | SOL | TX |

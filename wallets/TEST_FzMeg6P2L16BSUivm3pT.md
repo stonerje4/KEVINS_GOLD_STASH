@@ -1,36 +1,37 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 18:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 8 |
-| Open | 4 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.001400 |
-| **Closed P&L** | **+0.000524 SOL** |
-| **Closed ROI** | **+37.4%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.001500 |
+| **Closed P&L** | **+0.000563 SOL** |
+| **Closed ROI** | **+37.5%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
 ### 🟢 Superagent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.90x
+- **Peak:** 1.26x | **Current:** 0.84x
 - **Mint:** `HP17Vmciep1XwGZRTC1jdV1Rb8K7nvQqngMwSU3Fpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:14:10 | BUY | 0.000100 | `4p7y3rfqBxDpY6jWkzhxTuLEZgn1pE...` |
 
-### 🟢 Tekless
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.44x
+### 🔴 Tekless
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.39x
 - **Mint:** `CzLorvm3gf6u5kfcJd427myDPtyZDKZ1eP7akQ3zpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:08:09 | BUY | 0.000100 | `22LpDkuPX7BreMbsvtXNo8krYphecT...` |
+| 2026-03-16 18:22:21 | SELL | 0.000039 | `2Rhncpj1meY87pSgMe7kbMxnA3SexJ...` |
 
 ### 🟢 Octocat
 - **Status:** open | **Exit:** open
@@ -43,7 +44,7 @@
 
 ### 🟢 OpenShell
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.64x
+- **Peak:** 1.13x | **Current:** 0.59x
 - **Mint:** `Gc78hWdJRgEJVUXZvgVLhwcdmmXaVzpKA3NgYb3cpump`
 
 | Time | Action | SOL | TX |

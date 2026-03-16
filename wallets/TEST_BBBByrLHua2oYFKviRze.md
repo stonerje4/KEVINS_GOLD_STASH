@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 18:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ClaudeDog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.14x
+- **Peak:** 1.45x | **Current:** 0.93x
 - **Mint:** `ErSXPiXyRgfg1yKmMrK5unh3mWi52kA9KUX2mNgNpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Angela
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.61x
+- **Peak:** 1.00x | **Current:** 0.58x
 - **Mint:** `2SJK5Z9PzkLYyCQq3iqnqew6wh72apZWYbTQKuAjpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 ClaudeDog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.63x
+- **Peak:** 1.00x | **Current:** 0.58x
 - **Mint:** `DvCD1SrBHB3oZjg36FNkkm61Wk41w1KhD86J7LNgpump`
 
 | Time | Action | SOL | TX |
@@ -43,17 +43,18 @@
 
 ### 🟢 Moumou
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.80x | **Current:** 2.11x
+- **Peak:** 4.00x | **Current:** 4.00x
 - **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:43:46 | BUY | 0.000100 | `d7yT5ybqEAVDpvtqsm1NHTgediUeFm...` |
 | 2026-03-16 18:03:16 | SELL | 0.000023 | `5jADPQAPjPd6W9BnLfs2ucSJb8Wagb...` |
+| 2026-03-16 18:22:50 | SELL | 0.000031 | `4nTcpFFNrJWQkY1j21xJrerjs23Fyh...` |
 
 ### 🟢 pandas
 - **Status:** partial | **Exit:** open
-- **Peak:** 5.98x | **Current:** 5.50x
+- **Peak:** 5.98x | **Current:** 4.47x
 - **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
 
 | Time | Action | SOL | TX |
@@ -74,7 +75,7 @@
 
 ### 🟢 Metacoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.41x
+- **Peak:** 1.00x | **Current:** 0.40x
 - **Mint:** `3uYVyzLJpg1jv6LthEkNhBYVRUrppd2ncDE7e8wopump`
 
 | Time | Action | SOL | TX |
@@ -365,7 +366,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.52x
+- **Peak:** 1.74x | **Current:** 1.65x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

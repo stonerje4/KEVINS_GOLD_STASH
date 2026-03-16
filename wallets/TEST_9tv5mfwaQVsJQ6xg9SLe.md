@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 18:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -26,7 +26,7 @@
 
 ### 🟢 唐某某
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.47x | **Current:** 1.65x
+- **Peak:** 2.47x | **Current:** 1.07x
 - **Mint:** `9aaEaHnNezimeAqzzBuj4ha2uMFc4L17eGDiezS1ANfu`
 
 | Time | Action | SOL | TX |
@@ -44,13 +44,15 @@
 | 2026-03-16 17:42:12 | BUY | 0.000100 | `4cvfVk1hFCK8S3VQqTU98NEwcvMwqd...` |
 
 ### 🟢 OpenHome
-- **Status:** open | **Exit:** open
-- **Peak:** 1.46x | **Current:** 1.46x
+- **Status:** partial | **Exit:** open
+- **Peak:** 3.13x | **Current:** 3.13x
 - **Mint:** `2WovvZ1KJrvWFS3KqPsCDGH8PVQaCmDuz4xDkoFbpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:23:35 | BUY | 0.000100 | `37JE6mZA12tXNvNZ5Q93JNZTpsVHof...` |
+| 2026-03-16 18:22:48 | SELL | 0.000022 | `3VzAHGRicEjvcBqbyx6AfKYhFMnrPp...` |
+| 2026-03-16 18:24:40 | SELL | 0.000028 | `3WKWQQEmiUPrZHy6X8bpcEETkH9r8j...` |
 
 ### 🔴 GIRL
 - **Status:** closed | **Exit:** stop_loss
@@ -64,7 +66,7 @@
 
 ### 🟢 TANG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 0.94x
+- **Peak:** 1.90x | **Current:** 1.05x
 - **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,40 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 18:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 63 |
-| Open | 40 |
+| Total Positions | 65 |
+| Open | 42 |
 | Closed | 23 |
 | W/L | 13/10 |
 | SOL In (closed) | 0.020700 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+43.8%** |
-| Open Deployed | 0.018500 SOL |
+| Open Deployed | 0.018700 SOL |
 
 ## Trades
 
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.11x | **Current:** 0.96x
+- **Mint:** `A3zCrHTYRXZKntHvjzeWrYYj4NG8Aq3dFoU6n4pCpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 18:23:08 | BUY | 0.000100 | `5v7GFb2S8YSebav8RD18zQQuUeTNu4...` |
+
+### 🟢 dokobot
+- **Status:** open | **Exit:** open
+- **Peak:** 1.12x | **Current:** 0.86x
+- **Mint:** `2cKPqPDqJnG5BbCjX5xMsgG4tmNzmLQBFkhWVV7Kpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 18:20:13 | BUY | 0.000100 | `5GDfVoTicLiaWPzJy8Judz5nFJhoU3...` |
+
 ### 🟢 DOSED
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `Do69rsN2ch1XxrLmHNqhmd9Wgru48pQYTy5yAiJBpump`
 
 | Time | Action | SOL | TX |
@@ -194,7 +212,7 @@
 
 ### 🟢 RICH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.71x
+- **Peak:** 1.04x | **Current:** 0.79x
 - **Mint:** `2FPMtPwCuJRSyhQc8isw4bXqvBYRonGBtmbhMc65pump`
 
 | Time | Action | SOL | TX |
