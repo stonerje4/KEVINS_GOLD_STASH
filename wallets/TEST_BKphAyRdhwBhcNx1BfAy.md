@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 10:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 145 |
-| Open | 36 |
+| Total Positions | 146 |
+| Open | 37 |
 | Closed | 109 |
 | SOL In (closed) | 0.065400 |
 | SOL Out (sells) | 0.061173 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 Jorge
+- **Status:** open | **Exit:** open
+- **Peak:** 1.03x | **Current:** 0.96x
+- **Mint:** `3S1NxQXfKmfL4szqJnPS3N8GpA35ncqBdrU4rrAPpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:25:23 | BUY | 0.000600 | `wEaRBDfiUhzfAqyyKc3Jg1HrAHiyzp...` |
+
 ### 🟢 HOSTMAXXING
 - **Status:** open | **Exit:** open
-- **Peak:** 1.53x | **Current:** 1.42x
+- **Peak:** 1.56x | **Current:** 1.56x
 - **Mint:** `AoqYWcBaRQgA7BoqMgAmUYxkCvH4mcdCbdd2iCDopump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +53,7 @@
 
 ### 🟢 NANO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.21x
+- **Peak:** 1.38x | **Current:** 1.38x
 - **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +62,7 @@
 
 ### 🟢 MRLOOT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.06x
+- **Peak:** 1.11x | **Current:** 1.05x
 - **Mint:** `GqCnBbpCDbguey17FFD6BRk7LkAJ8Nok4FmfwgTCpump`
 
 | Time | Action | SOL | TX |
@@ -92,7 +101,7 @@
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.33x
+- **Peak:** 1.69x | **Current:** 1.00x
 - **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
 
 | Time | Action | SOL | TX |
@@ -101,7 +110,7 @@
 
 ### 🟢 Romeo
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.65x | **Current:** 2.42x
+- **Peak:** 2.66x | **Current:** 2.53x
 - **Mint:** `DwVj3NMpvjReojRK6YN6cJeTYdD5EX8WQQK4AEGWpump`
 
 | Time | Action | SOL | TX |
@@ -111,7 +120,7 @@
 
 ### 🟢 礼貌猫
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.76x
+- **Peak:** 1.37x | **Current:** 0.82x
 - **Mint:** `AfirRxnYwoA3hkKoiJdhLaPoa73rvs1enCqtf8Rrpump`
 
 | Time | Action | SOL | TX |
@@ -160,7 +169,7 @@
 
 ### 🟢 三毛
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.84x
+- **Peak:** 1.08x | **Current:** 0.83x
 - **Mint:** `8HPriW3U4HkwaDtbA5Nv1rc7yBjDbGFfbMLpnqkgpump`
 
 | Time | Action | SOL | TX |
@@ -850,7 +859,7 @@
 
 ### 🟢 Oscar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `G1raszDo4V42Mp9dQ39kSPkUWWSDXEg42HAMZCyDpump`
 
 | Time | Action | SOL | TX |
@@ -1174,7 +1183,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.05x
+- **Peak:** 1.43x | **Current:** 1.01x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
