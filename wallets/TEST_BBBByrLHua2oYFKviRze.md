@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Moumou
 - **Status:** open | **Exit:** open
-- **Peak:** 1.46x | **Current:** 1.46x
+- **Peak:** 1.72x | **Current:** 1.12x
 - **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 pandas
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.56x | **Current:** 3.17x
+- **Peak:** 3.82x | **Current:** 2.56x
 - **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
 
 | Time | Action | SOL | TX |
@@ -112,13 +112,14 @@
 | 2026-03-16 17:13:22 | SELL | 0.000055 | `4ZgocQSSMCEjGTVRYozQqZjR5r3xKP...` |
 
 ### 🟢 Rocketman
-- **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 0.45x
+- **Status:** partial | **Exit:** stop_loss
+- **Peak:** 1.73x | **Current:** 0.40x
 - **Mint:** `3AVfhVVkgoZxCocQjGrXXZNTZsaGEpJF1ffz1euZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:10:07 | BUY | 0.000100 | `2Tu3r3SM32eBNuY9Lp5t9J4Yvrk3uu...` |
+| 2026-03-16 17:54:38 | SELL | 0.000040 | `jZeUyWtzcEypVoHjjgCfrUJjecWEVq...` |
 
 ### 🟢 FEP
 - **Status:** open | **Exit:** open
@@ -131,7 +132,7 @@
 
 ### 🟢 K-Dense
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.52x | **Current:** 2.18x
+- **Peak:** 3.52x | **Current:** 2.78x
 - **Mint:** `37oc6mzcT1cLb5yf88mzZnXvccheSTUft3xq92z4pump`
 
 | Time | Action | SOL | TX |
@@ -151,7 +152,7 @@
 
 ### 🟢 Gay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.44x
+- **Peak:** 1.00x | **Current:** 0.43x
 - **Mint:** `6U9wtAniiZw1h5oya9re55RxCYfFyPLHm7VmKCNmpump`
 
 | Time | Action | SOL | TX |
@@ -334,7 +335,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.19x
+- **Peak:** 1.74x | **Current:** 1.17x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

@@ -1,28 +1,29 @@
 # [TEST] Wallet: `2autqiinD2k2f1rbDMgZh5fJMrVdnTdB5vWc3Wa7PDZp`
-> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000600 |
-| **Closed P&L** | **+0.000415 SOL** |
-| **Closed ROI** | **+69.1%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 2 |
+| W/L | 2/0 |
+| SOL In (closed) | 0.000700 |
+| **Closed P&L** | **+0.000453 SOL** |
+| **Closed ROI** | **+64.8%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 PUMPBAG
-- **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.42x
+### 🔴 PUMPBAG
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.30x | **Current:** 0.39x
 - **Mint:** `4fhcEAjV2tW2fepERb8A6YnEk4mDLFNLDFGoyH8vpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:30:14 | BUY | 0.000100 | `?` |
 | 2026-03-16 17:35:51 | BUY | 0.000100 | `5eSynm2HKc56s1FCTREY6mKMUEvJ3f...` |
+| 2026-03-16 17:50:20 | SELL | 0.000039 | `2a5tpHQSJivsUyyv2k2eHzMp35LBEM...` |
 
 ### 🔴 まじイヌ
 - **Status:** closed | **Exit:** ghost_close_stop_loss

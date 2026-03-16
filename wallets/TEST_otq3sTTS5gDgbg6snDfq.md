@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ABBAS 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.06x
+- **Peak:** 1.06x | **Current:** 1.04x
 - **Mint:** `79BVC3EJhHL3CL5madCH6dGt5oddJxk2AMtj6wfapump`
 
 | Time | Action | SOL | TX |
@@ -178,7 +178,7 @@
 
 ### 🟢 HIDE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `8AvsABLpk7aoqFTTf2Dym6KoeDbJZ3wTE4qcAmbSpump`
 
 | Time | Action | SOL | TX |
@@ -337,7 +337,7 @@
 
 ### 🟢 Papua
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 DAWAE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.87x
+- **Peak:** 1.11x | **Current:** 1.01x
 - **Mint:** `BGjQfjXFf9wVwrmVeaMnmzsgzpbJEAkarjzj3pshpump`
 
 | Time | Action | SOL | TX |

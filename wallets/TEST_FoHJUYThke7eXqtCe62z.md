@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 17:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 NEO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.67x | **Current:** 1.66x
 - **Mint:** `43Pib7A7PL6XZvB94jTRXrRUzToft8xTGyuttmu3pump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 A17
 - **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 1.12x
+- **Peak:** 1.40x | **Current:** 0.98x
 - **Mint:** `GsJRsRRapMiDd9Tb3FrTuZPmxQg5RBG52BjWw6Fb1KT5`
 
 | Time | Action | SOL | TX |
