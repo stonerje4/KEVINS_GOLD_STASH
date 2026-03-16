@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi`
-> Generated: 2026-03-16 17:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Solana
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 0.59x
+- **Peak:** 1.84x | **Current:** 0.56x
 - **Mint:** `DmcLfX6HKvYedauGXztf7tKuWnqsyTiRY52vW4bvpump`
 
 | Time | Action | SOL | TX |

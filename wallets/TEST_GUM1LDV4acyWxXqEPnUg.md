@@ -1,4 +1,4 @@
-# [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
+# [TEST] Wallet: `GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW`
 > Generated: 2026-03-16 17:05 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,21 +14,21 @@
 
 ## Trades
 
-### 🟢 GIRL
+### 🟢 TEST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.86x
-- **Mint:** `5nmrpznhrs46WWrKyxb4Liqc41F3msD7A6RLGxwHpump`
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `88jLAVQdGb4e4pUDD9AbaZKVAiLB3FrtC5CwTrnFdCSD`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 16:57:03 | BUY | 0.000100 | `2QQVQz9oXQeTWotco6dqGtVMhBduNM...` |
+| 2026-03-16 17:02:55 | BUY | 0.000100 | `2J4f7M1Son17PdvA8ABZHXDUAGFoSd...` |
 
-### 🟢 TANG
+### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 0.81x
-- **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
+- **Peak:** 1.00x | **Current:** 0.80x
+- **Mint:** `6CKK6YTjgdv2n7U4J78zF97AHASqSQiYvCcoBzyFpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 16:32:10 | BUY | 0.000100 | `52GjieAYpE6fRbGMjQcScJsNU3S7JB...` |
+| 2026-03-16 17:01:27 | BUY | 0.000100 | `4KXqY9pkGUJUtiPcas1qEvG3CY2wt3...` |
 

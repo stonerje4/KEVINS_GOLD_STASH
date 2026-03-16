@@ -1,22 +1,22 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 17:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 4 |
-| Closed | 3 |
-| W/L | 3/0 |
-| SOL In (closed) | 0.000800 |
-| **Closed P&L** | **+0.000697 SOL** |
-| **Closed ROI** | **+87.1%** |
-| Open Deployed | 0.000900 SOL |
+| Open | 3 |
+| Closed | 4 |
+| W/L | 4/0 |
+| SOL In (closed) | 0.000900 |
+| **Closed P&L** | **+0.000736 SOL** |
+| **Closed ROI** | **+81.7%** |
+| Open Deployed | 0.000800 SOL |
 
 ## Trades
 
 ### 🟢 GAUNTLET
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.87x
+- **Peak:** 1.19x | **Current:** 1.07x
 - **Mint:** `88na6xm5jHSTsNSDbPWVSK8zyuc4hHnnLNEHVmm2pump`
 
 | Time | Action | SOL | TX |
@@ -25,21 +25,22 @@
 
 ### 🟢 2024
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.03x
+- **Peak:** 1.24x | **Current:** 1.16x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:30:07 | BUY | 0.000100 | `3CdoEL2Yquh486WkFMDiKioiL7DsH2...` |
 
-### 🟢 TRADES
-- **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.24x
+### 🔴 TRADES
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.45x | **Current:** 0.39x
 - **Mint:** `DPC15FkyULBUTNxQZfaNr42FCQsABteGUAovzGCYpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:24:58 | BUY | 0.000100 | `4Y9ixvU1BonBU6jM4DK42raHbk72Pi...` |
+| 2026-03-16 17:04:42 | SELL | 0.000039 | `sA24yZcYQ4Rzh4ACdsvBLN2NVkhoUi...` |
 
 ### 🔴 SWE-agent
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -66,7 +67,7 @@
 
 ### 🟢 SUBARU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 0.57x
+- **Peak:** 1.63x | **Current:** 0.56x
 - **Mint:** `DExfxh9JyvpP8WH2xCMGcVC3KBCK29CpVMYEEhrvpump`
 
 | Time | Action | SOL | TX |

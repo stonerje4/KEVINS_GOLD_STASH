@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 17:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 pumpfun
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.15x | **Current:** 0.83x
 - **Mint:** `FXuU7LgeNuZAC786YVxzjAAVG4Wf1oxvxphR7Kvnpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -88,7 +88,7 @@
 
 ### 🟢 Safe
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.89x
+- **Peak:** 1.01x | **Current:** 0.80x
 - **Mint:** `D73pXimYCpoSRe3LRcgn6dPQSh6bsu3FdB2vvh3upump`
 
 | Time | Action | SOL | TX |
@@ -310,7 +310,7 @@
 
 ### 🟢 Papua
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 
 | Time | Action | SOL | TX |
@@ -328,7 +328,7 @@
 
 ### 🟢 OG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.89x
+- **Peak:** 1.02x | **Current:** 0.82x
 - **Mint:** `37JEzbRcfeGAYEeiPMg1gKbK8UZNQG7cjF5Pvse7pump`
 
 | Time | Action | SOL | TX |
