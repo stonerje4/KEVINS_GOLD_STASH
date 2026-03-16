@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 21 |
-| Open | 4 |
+| Total Positions | 22 |
+| Open | 5 |
 | Closed | 17 |
 | SOL In (closed) | 0.010200 |
 | SOL Out (sells) | 0.011504 |
@@ -12,6 +12,15 @@
 | **ROI** | **+12.8%** |
 
 ## Trades
+
+### 🟢 GOAT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.25x | **Current:** 1.25x
+- **Mint:** `HfBXtBVP1SHiZeALNczuS3jN4vrjBUPZDFqwogf2pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:23:58 | BUY | 0.000600 | `4mPouwU4f6y7iHUj5kPZ5WfyKuckvn...` |
 
 ### 🟢 TSUZUMI
 - **Status:** open | **Exit:** open
@@ -24,7 +33,7 @@
 
 ### 🟢 alonxbt
 - **Status:** open | **Exit:** open
-- **Peak:** 1.35x | **Current:** 1.11x
+- **Peak:** 1.58x | **Current:** 0.99x
 - **Mint:** `4RKfEKd6H7TDDKGfyp7Xt4qoGiGy56KkR9nLcVaXpump`
 
 | Time | Action | SOL | TX |

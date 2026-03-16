@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo`
-> Generated: 2026-03-16 07:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
+| Total Positions | 4 |
 | Open | 0 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
-| SOL Out (sells) | 0.001145 |
-| **P&L** | **-0.000655 SOL** |
-| **ROI** | **-36.4%** |
+| Closed | 4 |
+| SOL In (closed) | 0.002400 |
+| SOL Out (sells) | 0.001387 |
+| **P&L** | **-0.001013 SOL** |
+| **ROI** | **-42.2%** |
 
 ## Trades
+
+### 🔴 RICHIE
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.08x | **Current:** 0.40x
+- **Mint:** `2m3DLpek4jtJHKP2YKrnyH2Y3DvsY9KtsCybgnKRpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:21:17 | BUY | 0.000600 | `23F17RcCEhD8e6z152r7fRmjsMWENr...` |
+| 2026-03-16 07:23:45 | SELL | 0.000242 | `28GUd3jUQtFrDEFB9QHSmCg7brLTd9...` |
 
 ### 🔴 HiQ
 - **Status:** closed | **Exit:** ghost_close_stop_loss
