@@ -1,10 +1,10 @@
 # [PRD] Wallet: `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`
-> Generated: 2026-03-16 03:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 03:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 1 |
+| Total Positions | 4 |
+| Open | 2 |
 | Closed | 2 |
 | SOL In (closed) | 0.300000 |
 | SOL Out (sells) | 0.224868 |
@@ -12,6 +12,15 @@
 | **ROI** | **-25.0%** |
 
 ## Trades
+
+### 🟢 UGOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 0.00x
+- **Mint:** `J2T2uVGqVuwaVRvBxqUe9Vyz57bTnnpxpwa1AQNjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:00:10 | BUY | 0.150000 | `3ZdJvG7PViWhBAVbeMArLWPUxRTRdt...` |
 
 ### 🟢 GLD
 - **Status:** open | **Exit:** open

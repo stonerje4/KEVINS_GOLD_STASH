@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
+# [TEST] Wallet: `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx`
 > Generated: 2026-03-16 03:05 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 PEEP
+### 🟢 HOSPICE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
-- **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
+- **Peak:** 1.05x | **Current:** 1.05x
+- **Mint:** `6uq3r5mMQL6tKkJd9JpuA3bPbrqitpFfhSQDVPCMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 23:02:10 | BUY | 0.000600 | `4WvYLfqxmmJrQSx6k9gNpFtPmyQo4S...` |
+| 2026-03-16 03:04:36 | BUY | 0.000600 | `5QorPMFZ7nRQFbnBDktLCRB8cnNSJS...` |
 

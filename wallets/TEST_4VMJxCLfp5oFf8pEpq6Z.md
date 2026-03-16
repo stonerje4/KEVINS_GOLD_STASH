@@ -1,21 +1,21 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 03:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 6 |
-| Closed | 4 |
-| SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.002163 |
-| **P&L** | **-0.000237 SOL** |
-| **ROI** | **-9.9%** |
+| Open | 5 |
+| Closed | 5 |
+| SOL In (closed) | 0.003000 |
+| SOL Out (sells) | 0.002575 |
+| **P&L** | **-0.000425 SOL** |
+| **ROI** | **-14.2%** |
 
 ## Trades
 
 ### 🟢 herry
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `AMbTjmCCUoWH96dwAn1ukG5WigK86RBfZZ39K5ubpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.13x
+- **Peak:** 1.15x | **Current:** 1.12x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
@@ -42,18 +42,19 @@
 | 2026-03-16 02:17:59 | SELL | 0.000394 | `5CFwX9BxCDp5sz4XEcAxSe2iUJbuBd...` |
 | 2026-03-16 02:42:50 | SELL | 0.000612 | `3Q4neT3W9ycX2JhNVA9k7UY3pVM73g...` |
 
-### 🟢 Coffeegate
-- **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.82x
+### 🔴 Coffeegate
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.09x | **Current:** 0.68x
 - **Mint:** `CJYgKNJ9G66YWbpu6FCYh7LVFzRQp1AZ3sqggmXCpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 00:30:45 | BUY | 0.000600 | `2ThLzWuAEi6C1moRiByxQG7hS9sJYv...` |
+| 2026-03-16 03:04:33 | SELL | 0.000412 | `GM3s1Ci2DB1CQi46bPcLg5UogoLwJA...` |
 
 ### 🟢 WhiteBoy 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.06x
+- **Peak:** 1.11x | **Current:** 0.89x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |
