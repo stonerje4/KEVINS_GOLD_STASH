@@ -1,5 +1,5 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 13:00 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 13:05 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
 
 ## 🧪 Test Wallet
 
@@ -16,18 +16,18 @@
 | `2autqiinD2k2f1rbDMgZh5fJMrVdnTdB5vWc3Wa7PDZp` | 1 | 0 | 1 | 0/0 | 0% | $+0.00 | +0.0% | $0.06 |
 | `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9` | 3 | 2 | 1 | 1/1 | 50% | $-0.00 | -0.4% | $0.06 |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | $-0.00 | -3.6% | — |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 178 | 134 | 44 | 27/107 | 20% | $-0.75 | -10.0% | $2.46 |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 181 | 135 | 46 | 27/108 | 20% | $-0.77 | -10.2% | $2.57 |
 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 51 | 45 | 6 | 8/37 | 18% | $-0.29 | -11.6% | $0.33 |
-| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 38 | 36 | 2 | 6/30 | 17% | $-0.39 | -19.2% | $0.11 |
+| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 41 | 38 | 3 | 7/31 | 18% | $-0.37 | -17.6% | $0.17 |
 | `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus` | 4 | 4 | 0 | 1/3 | 25% | $-0.05 | -21.3% | — |
 | `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm` | 3 | 2 | 1 | 0/2 | 0% | $-0.03 | -22.9% | $0.06 |
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 19 | 13 | 6 | 2/11 | 15% | $-0.17 | -23.9% | $0.33 |
 | `EfU8P5AZBitRYGQVVkHSPua9CitQWmbz7CM1gc2ATTDX` | 1 | 1 | 0 | 0/1 | 0% | $-0.02 | -32.2% | — |
 | `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 22 | 22 | 0 | 4/18 | 18% | $-0.40 | -32.5% | — |
-| `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi` | 3 | 2 | 1 | 0/2 | 0% | $-0.04 | -32.6% | $0.06 |
 | `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx` | 5 | 5 | 0 | 1/4 | 20% | $-0.09 | -33.1% | — |
 | `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM` | 5 | 1 | 4 | 0/1 | 0% | $-0.02 | -33.2% | $0.22 |
 | `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz` | 2 | 2 | 0 | 0/2 | 0% | $-0.04 | -33.4% | — |
+| `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi` | 3 | 3 | 0 | 0/3 | 0% | $-0.06 | -34.7% | — |
 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 1 | 0 | 0/1 | 0% | $-0.02 | -35.3% | — |
 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 4 | 4 | 0 | 0/4 | 0% | $-0.40 | -36.3% | — |
 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | 1 | 1 | 0 | 0/1 | 0% | $-0.02 | -36.4% | — |
