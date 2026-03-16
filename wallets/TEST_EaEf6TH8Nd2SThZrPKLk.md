@@ -1,18 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 23:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 95 |
-| Open | 15 |
+| Total Positions | 96 |
+| Open | 16 |
 | Closed | 80 |
 | W/L | 79/1 |
 | SOL In (closed) | 0.036000 |
 | **Closed P&L** | **+0.030223 SOL** |
 | **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.003000 SOL |
+| Open Deployed | 0.003100 SOL |
 
 ## Trades
+
+### 🟢 UGOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.35x | **Current:** 1.35x
+- **Mint:** `E98XR94FXG2w4GdCwunGPYx8TbZqe2HiNMPHS1Hmpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:53:20 | BUY | 0.000100 | `5qQN2p18asQV6tc5KqeL5sTkd95HkW...` |
 
 ### 🟢 MOG
 - **Status:** open | **Exit:** open
@@ -649,7 +658,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.16x | **Current:** 1.36x
+- **Peak:** 2.16x | **Current:** 1.37x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |

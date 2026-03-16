@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
-> Generated: 2026-03-16 23:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -98,7 +98,7 @@
 
 ### 🟢 TCAT
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.69x | **Current:** 3.61x
+- **Peak:** 3.69x | **Current:** 3.46x
 - **Mint:** `9n3wWPvb5n2MMsBmALrWaK7iSFALKiTZ5DTRMEJRpump`
 
 | Time | Action | SOL | TX |

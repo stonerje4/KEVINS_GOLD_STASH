@@ -1,27 +1,28 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 23:50 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 13 |
-| Open | 2 |
-| Closed | 11 |
-| W/L | 4/7 |
-| SOL In (closed) | 1.650000 |
-| **Closed P&L** | **-0.417632 SOL** |
-| **Closed ROI** | **-25.3%** |
-| Open Deployed | 0.300000 SOL |
+| Open | 1 |
+| Closed | 12 |
+| W/L | 4/8 |
+| SOL In (closed) | 1.800000 |
+| **Closed P&L** | **-0.531472 SOL** |
+| **Closed ROI** | **-29.5%** |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
 
-### 🟢 promp
-- **Status:** open | **Exit:** open
+### 🔴 promp
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.39x | **Current:** 0.00x
 - **Mint:** `2kHP8x539qqCWVM614KcP5sPKKfh4sHEtN8DXDSEpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:25:45 | BUY | 0.150000 | `UpsJirnE9eFmT6o3FBatynC29bdG7Q...` |
+| 2026-03-16 23:51:06 | SELL | 0.036160 | `23G8rBtoYWR4YYrd1jnKh3cPNLjzTN...` |
 
 ### 🟢 Sanmao
 - **Status:** closed | **Exit:** runner_trailing_stop

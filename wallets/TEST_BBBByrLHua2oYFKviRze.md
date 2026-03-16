@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 23:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 TJR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.42x
+- **Peak:** 1.00x | **Current:** 0.41x
 - **Mint:** `9F3kBJw8JqHksm4D97osB67xKyB1HpjitRytEP6ppump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 FISH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.63x
+- **Peak:** 1.00x | **Current:** 0.62x
 - **Mint:** `Gwkh9VHnQNeUuWFN3QNaaJLXzwQZoYjCxotq4utJiirJ`
 
 | Time | Action | SOL | TX |
@@ -415,7 +415,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.91x
+- **Peak:** 1.74x | **Current:** 0.90x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

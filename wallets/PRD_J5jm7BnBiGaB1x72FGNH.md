@@ -1,5 +1,5 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-16 23:50 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Last
 - **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 0.00x
+- **Peak:** 1.42x | **Current:** 0.00x
 - **Mint:** `F9p1n4vLc6nUYYLV1ZnS2anFtrp53Mu2ns1YanFQpump`
 
 | Time | Action | SOL | TX |

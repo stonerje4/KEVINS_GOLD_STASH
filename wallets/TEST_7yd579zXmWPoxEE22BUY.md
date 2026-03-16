@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-16 23:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,17 +15,18 @@
 ## Trades
 
 ### 🟢 chance
-- **Status:** open | **Exit:** open
-- **Peak:** 1.64x | **Current:** 1.64x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.35x | **Current:** 2.10x
 - **Mint:** `8DJckLTVzCy7u3afeydFXYZGkffiw7HeZ8ujxDRZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:48:17 | BUY | 0.000100 | `PMfvSZnxLZgzvNnfcYeMdBLQaLqoth...` |
+| 2026-03-16 23:52:46 | SELL | 0.000024 | `6tWSx8CAyGGTiucLZacmrDX57zueJ3...` |
 
 ### 🟢 COW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.79x
+- **Peak:** 1.06x | **Current:** 0.86x
 - **Mint:** `BRQn3S6nn4p3GAUsdAxJgJgxuWQpsjQjchiUmkfKpump`
 
 | Time | Action | SOL | TX |
