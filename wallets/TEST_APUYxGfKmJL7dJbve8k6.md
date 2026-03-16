@@ -1,10 +1,10 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 03:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 0 |
+| Total Positions | 10 |
+| Open | 1 |
 | Closed | 9 |
 | SOL In (closed) | 0.005400 |
 | SOL Out (sells) | 0.004142 |
@@ -12,6 +12,15 @@
 | **ROI** | **-23.3%** |
 
 ## Trades
+
+### 🟢 Wife
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.78x
+- **Mint:** `5YEjdkSKGw1WLzGhQur8cWTxEy95Kr7uxfwEwDigpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:11:37 | BUY | 0.000600 | `2coZD5iFGkM34KZ3BYmdEH7GX5G5uj...` |
 
 ### 🔴 Clanker
 - **Status:** closed | **Exit:** ghost_close_stop_loss

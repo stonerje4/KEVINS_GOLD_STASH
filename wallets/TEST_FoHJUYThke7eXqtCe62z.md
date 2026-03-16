@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 03:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 15 |
-| Open | 12 |
+| Total Positions | 16 |
+| Open | 13 |
 | Closed | 3 |
 | SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.002028 |
@@ -12,6 +12,15 @@
 | **ROI** | **+12.6%** |
 
 ## Trades
+
+### 🟢 SCREAM
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `7uy1UjemKCCHkrEMeFgoybRbJVrD2GAbGUED35Xcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:11:40 | BUY | 0.000600 | `Y335nxUTVPYbpqkkoJ2LJZcGU8ekg8...` |
 
 ### 🟢 barviha
 - **Status:** open | **Exit:** open
@@ -100,7 +109,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.80x
+- **Peak:** 1.05x | **Current:** 0.81x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |
@@ -128,7 +137,7 @@
 
 ### 🟢 JJK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `S2ALfUhiYy3JQobKv86KCkDHfQG5gvL4Ujb9FpKpump`
 
 | Time | Action | SOL | TX |
