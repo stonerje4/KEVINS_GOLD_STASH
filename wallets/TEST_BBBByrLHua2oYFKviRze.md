@@ -1,18 +1,36 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 15:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 49 |
-| Open | 2 |
+| Total Positions | 51 |
+| Open | 4 |
 | Closed | 47 |
 | W/L | 45/2 |
 | SOL In (closed) | 0.028200 |
 | **Closed P&L** | **+0.022983 SOL** |
 | **Closed ROI** | **+81.5%** |
-| Open Deployed | 0.001200 SOL |
+| Open Deployed | 0.001400 SOL |
 
 ## Trades
+
+### 🟢 Tradecoin
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.70x
+- **Mint:** `HFxw27PmjDFb1wivouGS8KHAbkobTssmZX53Cytnpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:07:18 | BUY | 0.000100 | `62TEfr7C7HZcC2wj1bffmB7DfNRaPp...` |
+
+### 🟢 artcoin
+- **Status:** open | **Exit:** open
+- **Peak:** 1.16x | **Current:** 0.62x
+- **Mint:** `2mVauTwo4iVpg7x8aMBAXPXP4iUdXpdmwsrRSoBbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:05:05 | BUY | 0.000100 | `dGwEnCGqu1shKukAxgG8K1BDMz5oZk...` |
 
 ### 🟢 Mala
 - **Status:** open | **Exit:** open

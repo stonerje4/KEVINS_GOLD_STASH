@@ -1,18 +1,27 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 15:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000600 |
 | **Closed P&L** | **+0.000410 SOL** |
 | **Closed ROI** | **+68.4%** |
-| Open Deployed | 0.000600 SOL |
+| Open Deployed | 0.000700 SOL |
 
 ## Trades
+
+### 🟢 PokeAgent
+- **Status:** open | **Exit:** open
+- **Peak:** 1.22x | **Current:** 1.19x
+- **Mint:** `3DWpHtjf5o82Y89jiaBqyCHqhh6aKagW8Zn5CuUJpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:07:52 | BUY | 0.000100 | `4paQ29BKxvByYiboTBRoUeDqq7qgMK...` |
 
 ### 🟢 SUBARU
 - **Status:** open | **Exit:** open

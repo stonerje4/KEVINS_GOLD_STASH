@@ -1,18 +1,27 @@
 # [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-16 15:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 0 |
+| Total Positions | 4 |
+| Open | 1 |
 | Closed | 3 |
 | W/L | 3/0 |
 | SOL In (closed) | 0.001800 |
 | **Closed P&L** | **+0.004096 SOL** |
 | **Closed ROI** | **+227.6%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 BOBO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.16x | **Current:** 1.15x
+- **Mint:** `BJwd9vZ2di3RWspBK2jGGKkHdLQ1nqRhfwe1LhHjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:05:17 | BUY | 0.000100 | `aWSAfsRu3BWCAsiwKad1ZQ4zSzmdua...` |
 
 ### 🟢 Roni
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
