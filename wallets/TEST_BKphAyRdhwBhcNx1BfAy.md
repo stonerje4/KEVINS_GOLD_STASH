@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 05:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 74 |
-| Open | 23 |
+| Total Positions | 75 |
+| Open | 24 |
 | Closed | 51 |
 | SOL In (closed) | 0.030600 |
 | SOL Out (sells) | 0.025473 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 NOCOIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.20x | **Current:** 1.17x
+- **Mint:** `FzbfZQpZX7Zw5XhtZav7sQdULfpN6Z7nReiGxpCApump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:28:06 | BUY | 0.000600 | `3GrCBXwWAdAweBt6ptxLp1sB1pN6iP...` |
+
 ### 🟢 Unemployed
 - **Status:** open | **Exit:** open
-- **Peak:** 1.60x | **Current:** 1.52x
+- **Peak:** 1.60x | **Current:** 1.05x
 - **Mint:** `5phXw5QBpNUWKGGiyr5ocjSjwYQWcPkDd1oTyj9cpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +33,7 @@
 
 ### 🟢 plumber
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.25x | **Current:** 2.24x
+- **Peak:** 4.89x | **Current:** 4.19x
 - **Mint:** `2Pah9ZUfpii27ABrWfQorzdW8FSJimxj6izFr4oGpump`
 
 | Time | Action | SOL | TX |
@@ -120,7 +129,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.02x
+- **Peak:** 1.10x | **Current:** 1.01x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -315,7 +324,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.24x
+- **Peak:** 1.62x | **Current:** 1.62x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -362,7 +371,7 @@
 
 ### 🟢 Luna
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 1.04x
+- **Peak:** 1.05x | **Current:** 1.05x
 - **Mint:** `E8YzvLrb5XAWqsLTifnvPjwMfrXkZ5kKCGW35GLXpump`
 
 | Time | Action | SOL | TX |
