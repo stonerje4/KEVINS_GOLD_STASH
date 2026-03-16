@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 15:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Don Tzu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 1.47x
+- **Peak:** 1.47x | **Current:** 1.17x
 - **Mint:** `59VtFUYQ1qsxho2bF72xvt9BuSLkxZzCi4GXkKXEpump`
 
 | Time | Action | SOL | TX |
@@ -124,7 +124,7 @@
 
 ### 🟢 CITYGIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.81x
+- **Peak:** 1.01x | **Current:** 0.80x
 - **Mint:** `C4g6BS4xXiqo7Y6LjiLykMNdVPuJkFfj7SRDQXUBpump`
 
 | Time | Action | SOL | TX |
@@ -142,7 +142,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `BWokmiUXPVnNtMDp4Hy1y1mM9Fy1QntHBye9aZiPpump`
 
 | Time | Action | SOL | TX |
@@ -225,7 +225,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
@@ -234,7 +234,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |
@@ -292,7 +292,7 @@
 
 ### 🟢 Papua
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 
 | Time | Action | SOL | TX |

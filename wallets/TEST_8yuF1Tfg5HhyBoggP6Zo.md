@@ -1,18 +1,27 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 15:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 1 |
+| Total Positions | 6 |
+| Open | 2 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.002400 |
 | **Closed P&L** | **+0.001434 SOL** |
 | **Closed ROI** | **+59.8%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 COALKID
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `4BYp9bPWua2YoijAjWWPDPzUjzMAftjhy9xsCd3wpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:53:17 | BUY | 0.000100 | `4YzRzPCdzNPHPkmMGw3scQtrdzzX1d...` |
 
 ### 🟢 JOHNNY SINS
 - **Status:** open | **Exit:** open

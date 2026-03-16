@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 15:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 51 |
-| Open | 32 |
+| Total Positions | 52 |
+| Open | 33 |
 | Closed | 19 |
 | W/L | 10/9 |
 | SOL In (closed) | 0.019800 |
 | **Closed P&L** | **+0.008606 SOL** |
 | **Closed ROI** | **+43.5%** |
-| Open Deployed | 0.018200 SOL |
+| Open Deployed | 0.018300 SOL |
 
 ## Trades
+
+### 🟢 9FRAUD
+- **Status:** open | **Exit:** open
+- **Peak:** 1.11x | **Current:** 0.91x
+- **Mint:** `Gu6WpV4XSVLovdTD5T6JLFvZ1nvVNXiR3q3dQcGMR7pV`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:50:16 | BUY | 0.000100 | `5ZFWZ4MuANVyVPEJQKzVZVHjXJfip3...` |
 
 ### 🟢 Toly
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -41,7 +50,7 @@
 
 ### 🟢 DroydAI
 - **Status:** partial | **Exit:** open
-- **Peak:** 6.30x | **Current:** 6.30x
+- **Peak:** 7.06x | **Current:** 6.93x
 - **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +62,7 @@
 
 ### 🟢 Moonigga
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.02x | **Current:** 1.38x
+- **Peak:** 2.02x | **Current:** 1.30x
 - **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
 
 | Time | Action | SOL | TX |
@@ -63,7 +72,7 @@
 
 ### 🟢 CL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.09x
+- **Peak:** 1.90x | **Current:** 1.07x
 - **Mint:** `CafXWB7PWgXsPYyQ7A3hqpQhjrZdYPe59TUQnpXWpump`
 
 | Time | Action | SOL | TX |
@@ -186,7 +195,7 @@
 
 ### 🟢 TD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `HvtsgZrABY8uvcMCKg6Kd9y2RXr8pandJHRNBQYBpump`
 
 | Time | Action | SOL | TX |
@@ -279,7 +288,7 @@
 
 ### 🟢 Wife
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.69x
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `RSvkQUEBvN9bQ56cSmnu5wJkdTFXjBqAMpYQcSUpump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,31 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-16 15:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 4 |
+| Total Positions | 6 |
+| Open | 5 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000600 |
 | **Closed P&L** | **+0.000382 SOL** |
 | **Closed ROI** | **+63.6%** |
-| Open Deployed | 0.000400 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
+### 🟢 GRYD
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.69x
+- **Mint:** `D86cPtzhdMvZVKF1Mxwh83CPa49rd58tTu37UMnYpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:50:58 | BUY | 0.000100 | `65UXXEVcGF4ehjJWbSFmufH5aKzAfQ...` |
+
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.60x
+- **Peak:** 1.00x | **Current:** 0.62x
 - **Mint:** `MHuP8t5RrEWxSEQ7VKKoae8HGKFrCbdjcVJJ35Fpump`
 
 | Time | Action | SOL | TX |
@@ -35,7 +44,7 @@
 
 ### 🟢 Heart
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.84x | **Current:** 2.64x
+- **Peak:** 3.84x | **Current:** 2.50x
 - **Mint:** `CddTVmakkpiS2BEzPpyEuNa44zRbC25PF57RAHFVpump`
 
 | Time | Action | SOL | TX |

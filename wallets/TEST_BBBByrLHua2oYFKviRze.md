@@ -1,22 +1,31 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 15:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 59 |
-| Open | 11 |
+| Total Positions | 60 |
+| Open | 12 |
 | Closed | 48 |
 | W/L | 46/2 |
 | SOL In (closed) | 0.028300 |
 | **Closed P&L** | **+0.023016 SOL** |
 | **Closed ROI** | **+81.3%** |
-| Open Deployed | 0.002100 SOL |
+| Open Deployed | 0.002200 SOL |
 
 ## Trades
 
+### 🟢  ルル
+- **Status:** open | **Exit:** open
+- **Peak:** 1.19x | **Current:** 0.96x
+- **Mint:** `Z2MB8qmd2XEx6kNVh5idnn6xsCoVr7VC8q7Zf8oLuLu`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:50:54 | BUY | 0.000100 | `czTst4u2nka8jSsknbkEnE84meK1PM...` |
+
 ### 🟢 GROK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.93x
+- **Peak:** 1.30x | **Current:** 0.64x
 - **Mint:** `5RQapokjW3jZq28qUPnYJihxA5xTrntrEyqeeXMVhRsj`
 
 | Time | Action | SOL | TX |
@@ -24,13 +33,15 @@
 | 2026-03-16 15:47:13 | BUY | 0.000100 | `hAv9WBn82AwLinNdELrh7fwHtNkQ5L...` |
 
 ### 🟢 Coolpunks
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.60x
+- **Status:** partial | **Exit:** open
+- **Peak:** 4.08x | **Current:** 4.08x
 - **Mint:** `XNQWbrnDc7CnUAzwKpLdQoZfosvAJCmGG3Fx1zrpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:46:09 | BUY | 0.000100 | `5nd8i5vgBN4P6ARxy46gAyRCG8gcXP...` |
+| 2026-03-16 15:52:41 | SELL | 0.000027 | `2DuX7gC9QXX8wDEW2j2aVW9EVTnQJm...` |
+| 2026-03-16 15:54:34 | SELL | 0.000037 | `21HXoGe5AJX6nEVKvzkdPZNFmqejkz...` |
 
 ### 🔴 StormBand
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -71,7 +82,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.23x
+- **Peak:** 1.74x | **Current:** 1.20x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

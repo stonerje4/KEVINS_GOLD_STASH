@@ -1,16 +1,16 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 15:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 30 |
-| Open | 3 |
-| Closed | 27 |
-| W/L | 23/4 |
-| SOL In (closed) | 0.013700 |
-| **Closed P&L** | **+0.009089 SOL** |
-| **Closed ROI** | **+66.3%** |
-| Open Deployed | 0.000300 SOL |
+| Open | 2 |
+| Closed | 28 |
+| W/L | 24/4 |
+| SOL In (closed) | 0.013800 |
+| **Closed P&L** | **+0.009128 SOL** |
+| **Closed ROI** | **+66.1%** |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
@@ -35,9 +35,9 @@
 | 2026-03-16 15:31:52 | BUY | 0.000100 | `4E3uCjigDxCjuM4iq5ZTxehDrWwLCJ...` |
 | 2026-03-16 15:33:14 | SELL | 0.000024 | `3tbtE7zq8im3eWtq6poBUtGXBJW5wM...` |
 
-### 🟢 XERAI
-- **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.06x | **Current:** 0.43x
+### 🔴 XERAI
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.06x | **Current:** 0.35x
 - **Mint:** `3CvJ2gNGyG9M8jDKYJTHqn93HQ1j5J3Z88RjaXTnpump`
 
 | Time | Action | SOL | TX |
