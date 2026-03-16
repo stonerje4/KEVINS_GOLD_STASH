@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 10:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 139 |
-| Open | 36 |
-| Closed | 103 |
-| SOL In (closed) | 0.061800 |
-| SOL Out (sells) | 0.058724 |
-| **P&L** | **-0.003076 SOL** |
-| **ROI** | **-5.0%** |
+| Total Positions | 140 |
+| Open | 35 |
+| Closed | 105 |
+| SOL In (closed) | 0.063000 |
+| SOL Out (sells) | 0.059391 |
+| **P&L** | **-0.003609 SOL** |
+| **ROI** | **-5.7%** |
 
 ## Trades
+
+### 🔴 Metacoin
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.25x | **Current:** 0.42x
+- **Mint:** `FmHdRZqQ72GQmdHjUxvj7Z6PqL9ohX44HBhHhnBhpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:05:48 | BUY | 0.000600 | `ScFb6UpjPiac8ctbTD4uGH6KUyi2K7...` |
+| 2026-03-16 10:09:38 | SELL | 0.000250 | `2yvhFz4yLF3qrBnuSV6R4AtqxxEirU...` |
 
 ### 🔴 Rizz
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -35,7 +45,7 @@
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.28x
+- **Peak:** 1.69x | **Current:** 1.23x
 - **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +54,7 @@
 
 ### 🟢 Romeo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.76x | **Current:** 1.75x
+- **Peak:** 1.84x | **Current:** 1.43x
 - **Mint:** `DwVj3NMpvjReojRK6YN6cJeTYdD5EX8WQQK4AEGWpump`
 
 | Time | Action | SOL | TX |
@@ -60,18 +70,19 @@
 |------|--------|-----|----|
 | 2026-03-16 09:53:02 | BUY | 0.000600 | `24CZ6DmrbhjPN7ubhjDPRZxvjLtQRq...` |
 
-### 🟢 AIRI
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+### 🔴 AIRI
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `EAZAHUBCS4uoEGXuYzC6j1fjLTsA5c8hckWwK5FKpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:50:33 | BUY | 0.000600 | `2DJD32MwGxesGUECk5hKyBE76YBsEu...` |
+| 2026-03-16 10:09:00 | SELL | 0.000417 | `X96Yk4VYWYc23xb7ypsRe5RBZC5YeK...` |
 
 ### 🟢 M7
 - **Status:** open | **Exit:** open
-- **Peak:** 1.68x | **Current:** 1.60x
+- **Peak:** 1.69x | **Current:** 1.06x
 - **Mint:** `5kN9Y9K3jqq4g9iJwUVFtPVrnh4oar1XBwgsu3eVpump`
 
 | Time | Action | SOL | TX |
@@ -90,7 +101,7 @@
 
 ### 🟢 KiKi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.02x
+- **Peak:** 1.24x | **Current:** 1.09x
 - **Mint:** `8aPjWzHdoU7wcBoEKPyF3LPT33GQu76NQati6Fbapump`
 
 | Time | Action | SOL | TX |
@@ -770,7 +781,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.81x
+- **Peak:** 1.12x | **Current:** 0.82x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |

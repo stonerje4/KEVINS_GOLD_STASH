@@ -1,10 +1,10 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 10:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 2 |
+| Total Positions | 9 |
+| Open | 3 |
 | Closed | 6 |
 | SOL In (closed) | 0.003600 |
 | SOL Out (sells) | 0.003848 |
@@ -12,6 +12,15 @@
 | **ROI** | **+6.9%** |
 
 ## Trades
+
+### 🟢 PUSHEEN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.20x | **Current:** 1.20x
+- **Mint:** `7ttsZScQAsya7eiUfkG6PoTVNARkkZXccqRviDtTpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:06:53 | BUY | 0.000600 | `BugVE9cSXWRKg5gJ1FGcm1y4uS1yJV...` |
 
 ### 🔴 Kakegurui
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -25,7 +34,7 @@
 
 ### 🟢 BULLS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.89x | **Current:** 1.73x
+- **Peak:** 1.89x | **Current:** 1.41x
 - **Mint:** `GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump`
 
 | Time | Action | SOL | TX |
