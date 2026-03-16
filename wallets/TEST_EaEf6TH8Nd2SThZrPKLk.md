@@ -1,30 +1,41 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 06:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 17 |
+| Total Positions | 18 |
 | Open | 3 |
-| Closed | 14 |
-| SOL In (closed) | 0.008400 |
-| SOL Out (sells) | 0.009863 |
-| **P&L** | **+0.001463 SOL** |
-| **ROI** | **+17.4%** |
+| Closed | 15 |
+| SOL In (closed) | 0.009000 |
+| SOL Out (sells) | 0.010553 |
+| **P&L** | **+0.001553 SOL** |
+| **ROI** | **+17.3%** |
 
 ## Trades
 
-### 🟢 plumber
-- **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.82x
+### 🟢 ROOSTER
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.15x | **Current:** 2.15x
+- **Mint:** `HygKdWWqjBUxP2dSQZLD7qjNCxAWam7VUP3ovD3Rpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:32:16 | BUY | 0.000600 | `66VYkCJyRxXV2guhVGzoKpuhcmMgfF...` |
+| 2026-03-16 06:34:10 | SELL | 0.000374 | `558i7QRtULFX6u4MbGdqRm2WHJDfPh...` |
+
+### 🔴 plumber
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.09x | **Current:** 0.53x
 - **Mint:** `noX6Kv6uD3MxdZc3bvn2vQJ5tTvtwSgReCdzfWMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:28:09 | BUY | 0.000600 | `4GCv5i8geAZTZ17uTyPzLKL3ZQHXMx...` |
+| 2026-03-16 06:30:10 | SELL | 0.000316 | `2XGWTBq1SuKHbwaChd6zcaYYH7bZAS...` |
 
 ### 🟢 M7
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.84x
+- **Peak:** 1.30x | **Current:** 1.04x
 - **Mint:** `DEGhYfd9Cd2prCroFNdjoQ9JBB1XyntCkAK2d2P5pump`
 
 | Time | Action | SOL | TX |

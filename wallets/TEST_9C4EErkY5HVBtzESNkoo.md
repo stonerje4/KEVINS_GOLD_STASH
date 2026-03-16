@@ -1,26 +1,27 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 06:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 5 |
-| Closed | 10 |
-| SOL In (closed) | 0.006000 |
-| SOL Out (sells) | 0.002644 |
-| **P&L** | **-0.003356 SOL** |
-| **ROI** | **-55.9%** |
+| Open | 4 |
+| Closed | 11 |
+| SOL In (closed) | 0.006600 |
+| SOL Out (sells) | 0.002976 |
+| **P&L** | **-0.003624 SOL** |
+| **ROI** | **-54.9%** |
 
 ## Trades
 
-### 🟢 FENTHOUSE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.94x
+### 🔴 FENTHOUSE
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.55x
 - **Mint:** `4bYvQwhNSaEmozyupVP7qMrEFwZHrQ8DpWRJqGZZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:26:04 | BUY | 0.000600 | `67mU9No7bwsWa3VArfAKi42RgrSjuq...` |
+| 2026-03-16 06:31:51 | SELL | 0.000332 | `47Q1zHcoUv6XmAm9Myar7CE5DQFNSN...` |
 
 ### 🔴 cat
 - **Status:** closed | **Exit:** stop_loss

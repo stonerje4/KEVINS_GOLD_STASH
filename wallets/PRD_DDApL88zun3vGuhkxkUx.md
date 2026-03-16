@@ -1,10 +1,10 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 06:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 06:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 26 |
-| Open | 4 |
+| Total Positions | 28 |
+| Open | 6 |
 | Closed | 22 |
 | SOL In (closed) | 2.930000 |
 | SOL Out (sells) | 4.100878 |
@@ -12,6 +12,24 @@
 | **ROI** | **+40.0%** |
 
 ## Trades
+
+### 🟢 BLUECOLLAR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `4Emwkh1Zd2XBFcTs34UeXq7hGQhtckeV6mcURfVqpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:34:16 | BUY | 0.150000 | `2N4yUBfdmHf8DdmJTLt9ztCL8gaGPi...` |
+
+### 🟢 ROOSTER
+- **Status:** open | **Exit:** open
+- **Peak:** 1.13x | **Current:** 0.00x
+- **Mint:** `HygKdWWqjBUxP2dSQZLD7qjNCxAWam7VUP3ovD3Rpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:32:59 | BUY | 0.150000 | `4VstgL1tEZ7RrCFpssaxehayymU5we...` |
 
 ### 🟢 BLACKJACK
 - **Status:** open | **Exit:** open
