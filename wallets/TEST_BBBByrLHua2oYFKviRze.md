@@ -1,26 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 11:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 34 |
-| Open | 2 |
-| Closed | 32 |
-| SOL In (closed) | 0.019200 |
-| SOL Out (sells) | 0.015357 |
-| **P&L** | **-0.003843 SOL** |
-| **ROI** | **-20.0%** |
+| Open | 1 |
+| Closed | 33 |
+| SOL In (closed) | 0.019800 |
+| SOL Out (sells) | 0.015623 |
+| **P&L** | **-0.004177 SOL** |
+| **ROI** | **-21.1%** |
 
 ## Trades
 
-### 🟢 aura
-- **Status:** open | **Exit:** open
-- **Peak:** 1.32x | **Current:** 1.32x
+### 🔴 aura
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.32x | **Current:** 0.44x
 - **Mint:** `72pYvLT9FGhH9NQ6e5ciVDdGSNkPrhRMM4x4bFY4pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 11:24:27 | BUY | 0.000600 | `6598FidG7rDKn9TF3NXsmS4pdmhU6B...` |
+| 2026-03-16 11:25:16 | SELL | 0.000266 | `DgWjRRZQ1zw2RTjFiamNKpGuqMveYE...` |
 
 ### 🔴 BuzzCat
 - **Status:** closed | **Exit:** ghost_close_stop_loss

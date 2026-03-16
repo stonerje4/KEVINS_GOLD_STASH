@@ -1,15 +1,15 @@
 # [PRD] Wallet: `4yjh9zfyhjqg3tCJbWgMHn4xcot5ogqimhnjJ7qXbixH`
-> Generated: 2026-03-16 11:25 UTC | Environment: **PRD**
+> Generated: 2026-03-16 11:30 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 37 |
-| Open | 1 |
-| Closed | 36 |
-| SOL In (closed) | 5.400000 |
+| Open | 0 |
+| Closed | 37 |
+| SOL In (closed) | 5.550000 |
 | SOL Out (sells) | 8.403309 |
-| **P&L** | **+3.003309 SOL** |
-| **ROI** | **+55.6%** |
+| **P&L** | **+2.853309 SOL** |
+| **ROI** | **+51.4%** |
 
 ## Trades
 
@@ -23,14 +23,15 @@
 | 2026-03-16 05:26:32 | BUY | 0.150000 | `4UPLNzkGSzhGb4oCbp1sCjg5jQHKqv...` |
 | 2026-03-16 09:34:13 | SELL | 0.095459 | `4gH5P3Jz2SsrovHKiN1yEDZoxj5Pyt...` |
 
-### 🟢 CLAUDE
-- **Status:** open | **Exit:** open
+### 🔴 CLAUDE
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `DAMGp7EzYz4qVikfmMh5DjFNr9FEpmwCcadWSWCkpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:14:12 | BUY | 0.150000 | `YLJmUr9T7pYe6U4aNmBmhU7AwTTV5g...` |
+| 2026-03-16 11:28:49 | SELL | 0.000000 | `2YjLCWAXjz6Mue2Fa6GrSBwGjkSGrb...` |
 
 ### 🔴 GAZE
 - **Status:** closed | **Exit:** stop_loss

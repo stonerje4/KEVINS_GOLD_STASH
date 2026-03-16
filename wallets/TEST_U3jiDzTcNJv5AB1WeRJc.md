@@ -1,10 +1,10 @@
 # [TEST] Wallet: `U3jiDzTcNJv5AB1WeRJco4aivebfvg5ZsGiyA6ZohYS`
-> Generated: 2026-03-16 11:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 4 |
+| Total Positions | 6 |
+| Open | 5 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
 | SOL Out (sells) | 0.000160 |
@@ -12,6 +12,15 @@
 | **ROI** | **-73.3%** |
 
 ## Trades
+
+### 🟢 FOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.15x | **Current:** 1.14x
+- **Mint:** `7SpDmWXcp9SX9EiYvmzssnQ98oAeUYMjhRBy6vampump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:26:16 | BUY | 0.000600 | `qG8p39nW126nBJCYyjzizrEyoaBuvQ...` |
 
 ### 🟢 XAIC
 - **Status:** open | **Exit:** open

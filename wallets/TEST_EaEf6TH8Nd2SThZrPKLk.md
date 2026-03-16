@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 11:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 TanAI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.08x
+- **Peak:** 1.20x | **Current:** 1.14x
 - **Mint:** `D8mdxZAu348X3z59ghR9fxXZumQe7ZdpB95S8yuQpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+- **Peak:** 1.12x | **Current:** 1.08x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 AgentA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 1.31x
+- **Peak:** 1.48x | **Current:** 1.38x
 - **Mint:** `DYYAhsUW9aEYsGWa5ixZqmFGWR9BzKjKHbXvKmYGpump`
 
 | Time | Action | SOL | TX |

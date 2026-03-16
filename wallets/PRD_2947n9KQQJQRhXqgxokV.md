@@ -1,15 +1,15 @@
 # [PRD] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 11:25 UTC | Environment: **PRD**
+> Generated: 2026-03-16 11:30 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 47 |
-| Open | 2 |
-| Closed | 45 |
-| SOL In (closed) | 6.750000 |
+| Open | 1 |
+| Closed | 46 |
+| SOL In (closed) | 6.900000 |
 | SOL Out (sells) | 3.970468 |
-| **P&L** | **-2.779532 SOL** |
-| **ROI** | **-41.2%** |
+| **P&L** | **-2.929532 SOL** |
+| **ROI** | **-42.5%** |
 
 ## Trades
 
@@ -42,14 +42,15 @@
 | 2026-03-15 21:45:47 | BUY | 0.150000 | `3QWPfQyACYSmS6gU9nY4kc77h8m4un...` |
 | 2026-03-16 02:41:19 | SELL | 0.095815 | `2yMERaxsgtUehFBkm5JTdWQdLyaSRA...` |
 
-### 🟢 WRT
-- **Status:** open | **Exit:** open
+### 🔴 WRT
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 2.00x | **Current:** 0.00x
 - **Mint:** `C5ejPpaAQxigVpCCNdVWU95f2TmuuuPi5AAyfMC4pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 20:06:37 | BUY | 0.150000 | `53b1wMVpwiCY8gyMff3h1X6vZan4uH...` |
+| 2026-03-16 11:28:47 | SELL | 0.000000 | `4SpWgTNBHLgdoW4Ph8SWkuftqxYaUD...` |
 
 ### 🟢 WRT
 - **Status:** closed | **Exit:** runner_trailing_stop
