@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 08:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 27 |
+| Total Positions | 28 |
 | Open | 0 |
-| Closed | 27 |
-| SOL In (closed) | 0.016200 |
-| SOL Out (sells) | 0.013582 |
-| **P&L** | **-0.002618 SOL** |
-| **ROI** | **-16.2%** |
+| Closed | 28 |
+| SOL In (closed) | 0.016800 |
+| SOL Out (sells) | 0.013969 |
+| **P&L** | **-0.002831 SOL** |
+| **ROI** | **-16.8%** |
 
 ## Trades
+
+### 🔴 ACM
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.65x
+- **Mint:** `93i16D9eb1BCu6svrosNP1pEFYYE7WPMvVL17fPhpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:42:41 | BUY | 0.000600 | `4icUS9dYAU9FXokXmvay6NPnPd1EeR...` |
+| 2026-03-16 08:42:54 | SELL | 0.000387 | `25SNK7zZYQGMZwqeMs374QYQnjUhQB...` |
 
 ### 🔴 $Wifi
 - **Status:** closed | **Exit:** ghost_close_stop_loss

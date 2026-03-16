@@ -1,15 +1,15 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 08:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 30 |
-| Open | 24 |
-| Closed | 6 |
-| SOL In (closed) | 0.003600 |
-| SOL Out (sells) | 0.002780 |
-| **P&L** | **-0.000820 SOL** |
-| **ROI** | **-22.8%** |
+| Open | 22 |
+| Closed | 8 |
+| SOL In (closed) | 0.004800 |
+| SOL Out (sells) | 0.003202 |
+| **P&L** | **-0.001598 SOL** |
+| **ROI** | **-33.3%** |
 
 ## Trades
 
@@ -49,14 +49,15 @@
 |------|--------|-----|----|
 | 2026-03-16 07:00:45 | BUY | 0.000600 | `2fKqsR5HPZpheYKRXjSoPEiPViGQhe...` |
 
-### 🟢 T-Nega
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+### 🔴 T-Nega
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.70x
 - **Mint:** `EA5FYJEHwyCbj1cMiic13AuCmqreEeRrue2UxJTbpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:52:46 | BUY | 0.000600 | `2Mq5oAMbPL6whxZraj9P7LgURKLKnu...` |
+| 2026-03-16 08:44:23 | SELL | 0.000423 | `36qxkVMJqEzUxaGmgUrasWX7w67Fa4...` |
 
 ### 🟢 HAPP
 - **Status:** open | **Exit:** open
@@ -103,9 +104,9 @@
 |------|--------|-----|----|
 | 2026-03-16 05:05:12 | BUY | 0.000600 | `3JUTpMBaf1PdFx5s1dZ43YFyeuZfUu...` |
 
-### 🟢 Salary
-- **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.78x
+### 🔴 Salary
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.70x
 - **Mint:** `EskhLZ4UYrPCggC2w2LB4hWS5VzkiagCaeFHxJScpump`
 
 | Time | Action | SOL | TX |

@@ -1,17 +1,17 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 08:40 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 08:45 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 0.8387 SOL |
-| Open Positions | 128 (0.0862 SOL deployed) |
-| Closed Positions | 271 |
-| Total Positions | 399 |
+| SOL Balance | 0.8366 SOL |
+| Open Positions | 126 (0.0850 SOL deployed) |
+| Closed Positions | 274 |
+| Total Positions | 400 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-1.1751 SOL (-117.5%)** |
+| **Real P&L (on-chain)** | **-1.1784 SOL (-117.8%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -32,9 +32,9 @@
 | `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 120 | 89 | 31 | 21/68 | 24% | 0.0720 | 🔴 -0.001445 | -2.7% |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🔴 -0.000044 | -3.6% |
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 15 | 11 | 4 | 2/9 | 18% | 0.0090 | 🔴 -0.001055 | -16.0% |
-| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 27 | 27 | 0 | 5/22 | 19% | 0.0162 | 🔴 -0.002618 | -16.2% |
-| `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 30 | 6 | 24 | 2/4 | 33% | 0.0180 | 🔴 -0.000820 | -22.8% |
+| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 28 | 28 | 0 | 5/23 | 18% | 0.0168 | 🔴 -0.002831 | -16.8% |
 | `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 22 | 22 | 0 | 4/18 | 18% | 0.0132 | 🔴 -0.004287 | -32.5% |
+| `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 30 | 8 | 22 | 2/6 | 25% | 0.0180 | 🔴 -0.001598 | -33.3% |
 | `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz` | 2 | 2 | 0 | 0/2 | 0% | 0.0012 | 🔴 -0.000401 | -33.4% |
 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 15 | 4 | 11 | 0/4 | 0% | 0.0090 | 🔴 -0.000815 | -34.0% |
 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000212 | -35.3% |
