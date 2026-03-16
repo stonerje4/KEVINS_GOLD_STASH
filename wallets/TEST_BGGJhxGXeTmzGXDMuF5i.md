@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
-> Generated: 2026-03-16 16:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -61,7 +61,7 @@
 
 ### 🟢 TCAT
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.19x | **Current:** 1.94x
+- **Peak:** 2.19x | **Current:** 1.99x
 - **Mint:** `9n3wWPvb5n2MMsBmALrWaK7iSFALKiTZ5DTRMEJRpump`
 
 | Time | Action | SOL | TX |
@@ -80,7 +80,7 @@
 
 ### 🟢 XAIC
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.43x | **Current:** 2.09x
+- **Peak:** 2.43x | **Current:** 2.05x
 - **Mint:** `2krfHMNFYcWkSvDcFv1hsGW8cG282f3yPmVaWqxzpump`
 
 | Time | Action | SOL | TX |

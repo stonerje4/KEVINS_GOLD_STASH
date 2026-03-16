@@ -1,27 +1,30 @@
 # [PRD] Wallet: `4yjh9zfyhjqg3tCJbWgMHn4xcot5ogqimhnjJ7qXbixH`
-> Generated: 2026-03-16 16:45 UTC | Environment: **PRD**
+> Generated: 2026-03-16 16:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 38 |
-| Open | 1 |
-| Closed | 37 |
-| W/L | 7/30 |
-| SOL In (closed) | 5.550000 |
-| **Closed P&L** | **-0.696798 SOL** |
-| **Closed ROI** | **-12.6%** |
-| Open Deployed | 0.150000 SOL |
+| Open | 0 |
+| Closed | 38 |
+| W/L | 7/31 |
+| SOL In (closed) | 5.700000 |
+| **Closed P&L** | **-0.795591 SOL** |
+| **Closed ROI** | **-14.0%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 creacher
-- **Status:** open | **Exit:** open
+### 🔴 creacher
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `E7dXBjFH8mv2atX4KQnvdNqwd9r25o9Q5QwzW12pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:43:14 | BUY | 0.150000 | `2CK44Emti28BD2KAvxkiKtnPfgWRkz...` |
+| 2026-03-16 16:46:57 | SELL | 0.051207 | `4L1KS7UCvoNE4KecANsrrV8vxNpenD...` |
+| 2026-03-16 16:47:03 | SELL | 0.051207 | `2xSyxMTA2yrNSc3Y5oDcrViGyuLH5E...` |
+| 2026-03-16 16:47:42 | BUY | 0.150000 | `2HZiaYkGns2jhfmhUMoXNyibJrr1uh...` |
 
 ### 🔴 HERRMANN
 - **Status:** closed | **Exit:** stop_loss

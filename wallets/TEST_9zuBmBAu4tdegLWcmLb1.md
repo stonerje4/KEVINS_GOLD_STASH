@@ -1,4 +1,4 @@
-# [TEST] Wallet: `3VHz3MhvcbdxceVsUGz9Q4DNZLyS4RobbYjg1yXscES8`
+# [TEST] Wallet: `9zuBmBAu4tdegLWcmLb1ksaF9PBvBVkcSALjAwXwPKrU`
 > Generated: 2026-03-16 16:50 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 OpenSquirrel
+### 🟢 PEKEPOME
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.75x
-- **Mint:** `EpJgAWy61Swg915cDiu4qvV7fFtvuC12GsrY3wKDxV4G`
+- **Peak:** 1.00x | **Current:** 0.83x
+- **Mint:** `BHvwMeTtmwxmuZe4umCQ3T9qy3jDSyHGM3H4YRxMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 14:53:24 | BUY | 0.000100 | `2aNPuEXgkwy4e1TkpYfueGVv116AMh...` |
+| 2026-03-16 16:48:15 | BUY | 0.000100 | `2jwf2xEtP1FaS3ie9Dv3Uj63nf4VAj...` |
 

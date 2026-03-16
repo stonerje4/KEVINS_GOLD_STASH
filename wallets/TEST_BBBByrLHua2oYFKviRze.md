@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 16:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CREACHER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.50x
+- **Peak:** 1.50x | **Current:** 0.87x
 - **Mint:** `26AFDXWkkQrJZYwui4roDes5qrggvxyDsKx19R4ppump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 | 2026-03-16 16:44:30 | BUY | 0.000100 | `bfnetc7EEC5QPkVkDTcfJuwV2uJGot...` |
 
 ### 🔴 Escobird
-- **Status:** closing | **Exit:** stop_loss
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.44x | **Current:** 0.39x
 - **Mint:** `A9Bfdts9BgqpBSrw8JreVDBqBKVKeGJg9BNjBkx2pump`
 
@@ -158,7 +158,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.12x
+- **Peak:** 1.74x | **Current:** 1.21x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

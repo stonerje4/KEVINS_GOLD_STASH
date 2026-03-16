@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 16:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 ## Trades
 
 ### 🔴 readyClaw
-- **Status:** closing | **Exit:** stop_loss
+- **Status:** closed | **Exit:** ghost_close_stop_loss
 - **Peak:** 1.00x | **Current:** 0.34x
 - **Mint:** `DA8fLcwcCzh1KnVrc6gdQMbmZfCPirKi9bYyXos2pump`
 
@@ -27,7 +27,7 @@
 
 ### 🟢 HVAC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.95x
+- **Peak:** 1.17x | **Current:** 0.98x
 - **Mint:** `7USpkp5mgAwTwQw8aMvYJUh4mwFoWoZtuU38j6wLpump`
 
 | Time | Action | SOL | TX |
@@ -36,7 +36,7 @@
 
 ### 🟢 RICE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.64x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `3NFYLJMnLYjJMeSm9Pm75UNpGReaBqwVe3ySs5yypump`
 
 | Time | Action | SOL | TX |
@@ -97,7 +97,7 @@
 
 ### 🟢 POKEFUN
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.33x | **Current:** 4.33x
+- **Peak:** 5.02x | **Current:** 5.02x
 - **Mint:** `G4WzMcvBFVAhNBbb2U9LDvdmX8T2nVNkvHz7siWBpump`
 
 | Time | Action | SOL | TX |
@@ -105,6 +105,7 @@
 | 2026-03-16 15:55:13 | BUY | 0.000100 | `5Ru8RdpTAB74MpBgBtw2J4rGBhuN2z...` |
 | 2026-03-16 16:18:59 | SELL | 0.000024 | `wcSBtzMowM4RBmNf5ccFyPX557J4Dw...` |
 | 2026-03-16 16:41:37 | SELL | 0.000034 | `55r5oeAwnKvagHWKvhyfcGgu4v9CiP...` |
+| 2026-03-16 16:49:54 | SELL | 0.000041 | `5d4qQ1ueVtXmqrQeLStbDVcmcbptx3...` |
 
 ### 🟢 LIQUORA
 - **Status:** open | **Exit:** open
@@ -460,7 +461,7 @@
 
 ### 🟢 MATM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.63x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `9gg1QdcoEcqFaYZeA1FhMWw9i2BPJMrx1c6UH6CKpump`
 
 | Time | Action | SOL | TX |

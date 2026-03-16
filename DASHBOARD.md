@@ -1,5 +1,5 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 16:45 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 16:50 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
 
 ## 🧪 Test Wallet
 
@@ -18,13 +18,14 @@
 | ⚪ | `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C` | 3 | 0 | 3 | 0/0 | 0% | $+0.00 | +0.0% | $300.00 |
 | ⚪ | `3VHz3MhvcbdxceVsUGz9Q4DNZLyS4RobbYjg1yXscES8` | 1 | 0 | 1 | 0/0 | 0% | $+0.00 | +0.0% | $100.00 |
 | ⚪ | `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn` | 1 | 0 | 1 | 0/0 | 0% | $+0.00 | +0.0% | $100.00 |
+| ⚪ | `9zuBmBAu4tdegLWcmLb1ksaF9PBvBVkcSALjAwXwPKrU` | 1 | 0 | 1 | 0/0 | 0% | $+0.00 | +0.0% | $100.00 |
 | ⚪ | `E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY` | 1 | 0 | 1 | 0/0 | 0% | $+0.00 | +0.0% | $100.00 |
 | 🔴 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 17 | 8 | 9 | 2/6 | 25% | $-3.16 | -0.4% | $900.00 |
 | 🔴 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | $-7.30 | -3.6% | — |
-| 🔴 | `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 260 | 181 | 79 | 38/143 | 21% | $-2075.72 | -11.5% | $7900.00 |
+| 🔴 | `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 264 | 183 | 81 | 38/145 | 21% | $-2110.70 | -11.5% | $8100.00 |
 | 🔴 | `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA` | 6 | 3 | 3 | 1/2 | 33% | $-38.71 | -12.9% | $300.00 |
 | 🔴 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | 7 | 2 | 5 | 1/1 | 50% | $-27.31 | -13.7% | $500.00 |
-| 🔴 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 84 | 69 | 15 | 13/56 | 19% | $-1023.00 | -14.8% | $1500.00 |
+| 🔴 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 84 | 69 | 15 | 13/56 | 19% | $-1014.97 | -14.7% | $1500.00 |
 | 🔴 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 67 | 55 | 12 | 11/44 | 20% | $-979.22 | -17.8% | $1200.00 |
 | 🔴 | `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus` | 4 | 4 | 0 | 1/3 | 25% | $-85.30 | -21.3% | — |
 | 🔴 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 21 | 13 | 8 | 2/11 | 15% | $-310.30 | -23.9% | $800.00 |
@@ -33,7 +34,7 @@
 | 🔴 | `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx` | 5 | 5 | 0 | 1/4 | 20% | $-165.37 | -33.1% | — |
 | 🔴 | `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM` | 5 | 1 | 4 | 0/1 | 0% | $-33.20 | -33.2% | $400.00 |
 | 🔴 | `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz` | 2 | 2 | 0 | 0/2 | 0% | $-66.89 | -33.4% | — |
-| 🔴 | `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 36 | 31 | 5 | 4/27 | 13% | $-1059.74 | -34.2% | $500.00 |
+| 🔴 | `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 36 | 34 | 2 | 5/29 | 15% | $-1152.12 | -33.9% | $200.00 |
 | 🔴 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 1 | 0 | 0/1 | 0% | $-35.29 | -35.3% | — |
 | 🔴 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 4 | 4 | 0 | 0/4 | 0% | $-145.21 | -36.3% | — |
 | 🔴 | `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi` | 5 | 4 | 1 | 0/4 | 0% | $-145.44 | -36.4% | $100.00 |
@@ -48,12 +49,12 @@
 | 🔴 | `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX` | 2 | 1 | 1 | 0/1 | 0% | $-49.96 | -50.0% | $100.00 |
 | 🔴 | `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq` | 7 | 5 | 2 | 1/4 | 20% | $-259.99 | -52.0% | $200.00 |
 | 🔴 | `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn` | 1 | 1 | 0 | 0/1 | 0% | $-54.39 | -54.4% | — |
-| 🔴 | `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B` | 13 | 7 | 6 | 1/6 | 14% | $-384.98 | -55.0% | $600.00 |
+| 🔴 | `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B` | 14 | 7 | 7 | 1/6 | 14% | $-384.98 | -55.0% | $700.00 |
 | 🔴 | `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 42 | 12 | 30 | 2/10 | 17% | $-666.28 | -55.5% | $3000.00 |
 | 🔴 | `CAmNcBJ82xr1tzXrwZ6tZKwEFs26TG8kT6dJeR1bxjW9` | 4 | 4 | 0 | 0/4 | 0% | $-225.28 | -56.3% | — |
 | 🔴 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 53 | 22 | 31 | 11/11 | 50% | $-1250.46 | -56.8% | $3100.00 |
 | 🔴 | `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog` | 3 | 3 | 0 | 0/3 | 0% | $-176.75 | -58.9% | — |
-| 🔴 | `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj` | 2 | 2 | 0 | 0/2 | 0% | $-132.04 | -66.0% | — |
+| 🔴 | `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj` | 3 | 2 | 1 | 0/2 | 0% | $-132.04 | -66.0% | $100.00 |
 | 🔴 | `FLaEfdxssrDRDr5AhFcfqJdXaWw8tXTP8p7vc9kotcni` | 1 | 1 | 0 | 0/1 | 0% | $-71.47 | -71.5% | — |
 | 🔴 | `U3jiDzTcNJv5AB1WeRJco4aivebfvg5ZsGiyA6ZohYS` | 6 | 1 | 5 | 0/1 | 0% | $-73.26 | -73.3% | $500.00 |
 | 🔴 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 11 | 2 | 9 | 0/2 | 0% | $-185.62 | -92.8% | $900.00 |
@@ -73,14 +74,14 @@
 | 🟢 | `r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De` | 11 | 10 | 1 | 4/6 | 40% | $+80.48 | +78.7% | $13.95 |
 | 🟢 | `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF` | 32 | 30 | 2 | 14/16 | 47% | $+167.66 | +59.5% | $27.90 |
 | 🟢 | `FGZ72HENqfzUv9RiPAFqF7hCCiMZMAa5MYmWangFnZwD` | 7 | 7 | 0 | 3/4 | 43% | $+45.47 | +57.5% | — |
-| 🟢 | `4yjh9zfyhjqg3tCJbWgMHn4xcot5ogqimhnjJ7qXbixH` | 38 | 37 | 1 | 14/23 | 38% | $+265.36 | +51.4% | $13.95 |
+| 🟢 | `4yjh9zfyhjqg3tCJbWgMHn4xcot5ogqimhnjJ7qXbixH` | 38 | 38 | 0 | 14/24 | 37% | $+260.93 | +49.2% | — |
 | 🟢 | `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j` | 27 | 27 | 0 | 11/16 | 41% | $+98.74 | +44.8% | — |
 | 🟢 | `7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D` | 22 | 22 | 0 | 5/17 | 23% | $+69.92 | +42.0% | — |
 | 🟢 | `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ` | 28 | 26 | 2 | 10/16 | 38% | $+68.12 | +20.8% | $27.90 |
 | 🟢 | `ZzZZzPoJxWKern9EMk88aik3P8KwKgptANPdrhERrwr` | 9 | 7 | 2 | 3/4 | 43% | $+10.07 | +18.7% | $27.90 |
+| 🟢 | `EPGrHnQeBPtuCGiJ5qLWaDZDKEf2yKcMKEPCyf2jWTxi` | 6 | 5 | 1 | 2/3 | 40% | $+11.18 | +16.0% | $13.95 |
 | 🟢 | `A5hEhg36kAmkrrKRhVxPrvYK5KLgBgPXbBqL9GUL5jg1` | 9 | 9 | 0 | 1/8 | 11% | $+19.75 | +15.7% | — |
 | 🟢 | `FdscbS4fPUmdfwJ57dkFswvZ6jYwzKXQxJ6cPRfejU4q` | 1 | 1 | 0 | 1/0 | 100% | $+1.50 | +10.7% | — |
-| 🟢 | `EPGrHnQeBPtuCGiJ5qLWaDZDKEf2yKcMKEPCyf2jWTxi` | 5 | 5 | 0 | 2/3 | 40% | $+1.66 | +2.4% | — |
 | 🟢 | `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU` | 39 | 39 | 0 | 10/29 | 26% | $+3.23 | +0.8% | — |
 | 🔴 | `AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g` | 10 | 10 | 0 | 3/7 | 30% | $-4.25 | -3.5% | — |
 | 🔴 | `EJEyPiUfUmx3wDTtVfTzduNyNAWtQdwodFQjnJmjvmCQ` | 19 | 19 | 0 | 3/16 | 16% | $-13.48 | -9.4% | — |

@@ -1,31 +1,32 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 16:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 36 |
-| Open | 5 |
-| Closed | 31 |
-| W/L | 27/4 |
-| SOL In (closed) | 0.014100 |
-| **Closed P&L** | **+0.009206 SOL** |
-| **Closed ROI** | **+65.3%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 2 |
+| Closed | 34 |
+| W/L | 30/4 |
+| SOL In (closed) | 0.014400 |
+| **Closed P&L** | **+0.009520 SOL** |
+| **Closed ROI** | **+66.1%** |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
-### 🟢 CAT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.47x
+### 🔴 CAT
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.27x
 - **Mint:** `AnzYcpP6DcuGGq5rUybRrs3J2Ef8LW8iZXcPMwqnpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:42:56 | BUY | 0.000100 | `2QFv9vSfe3bZwcb637edMgTN1NBQdA...` |
+| 2026-03-16 16:48:55 | SELL | 0.000028 | `4H6NKYZcEKHRNGgGLN7PuYmDojAPR9...` |
 
 ### 🟢 clod
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.31x | **Current:** 3.31x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.31x | **Current:** 1.72x
 - **Mint:** `6Rxnx68LMiuyfeRCpouJ3giG7XyEGCPUVDuBBMuhpump`
 
 | Time | Action | SOL | TX |
@@ -33,6 +34,7 @@
 | 2026-03-16 16:36:09 | BUY | 0.000100 | `4i6Lsudd9QXVA6DjJgZeDUMLWnuqiH...` |
 | 2026-03-16 16:39:22 | SELL | 0.000020 | `321P3wASmqbGkLxysuE7u3EhMPagqb...` |
 | 2026-03-16 16:44:56 | SELL | 0.000030 | `5yv8M5xJy4wbn3CzaKhAZ7X5eVaMdU...` |
+| 2026-03-16 16:49:23 | SELL | 0.000139 | `5VtVzAtN7e5wWbGgNJubpRFgWXWAdm...` |
 
 ### 🔴 VIBECOIN
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -64,15 +66,16 @@
 | 2026-03-16 16:22:25 | BUY | 0.000100 | `2hpR3Y8f6dwFMDE8y5nY2xU1MCCAvb...` |
 | 2026-03-16 16:24:19 | SELL | 0.000026 | `33yBzT5a9GL3oSqTm6dhCuvsdRku5S...` |
 
-### 🟢 DICK
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.38x | **Current:** 1.37x
+### 🔴 DICK
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.38x | **Current:** 0.82x
 - **Mint:** `5ZGbkpfWUNUHgo8WyAweQnNLecj8GfP4ax6uc5ha3JmD`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:01:33 | BUY | 0.000100 | `5uxApHL5ApfYmQDzgqYYFQquU3XCPE...` |
 | 2026-03-16 16:30:22 | SELL | 0.000024 | `51uDmaPEAYRNmmxceZkc2aZkhZJBYX...` |
+| 2026-03-16 16:49:21 | SELL | 0.000074 | `2uUmZf3QgrA6darBwWyFVa8bcQi9Pr...` |
 
 ### 🔴 BUILDER
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

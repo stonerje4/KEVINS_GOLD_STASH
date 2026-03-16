@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 16:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -142,7 +142,7 @@
 
 ### 🟢 HIDE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `8AvsABLpk7aoqFTTf2Dym6KoeDbJZ3wTE4qcAmbSpump`
 
 | Time | Action | SOL | TX |
@@ -151,7 +151,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `BWokmiUXPVnNtMDp4Hy1y1mM9Fy1QntHBye9aZiPpump`
 
 | Time | Action | SOL | TX |
@@ -197,7 +197,7 @@
 
 ### 🟢 MCoins
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.67x
+- **Peak:** 1.00x | **Current:** 0.75x
 - **Mint:** `EYhtmNznq4BF1qJHj2s6SmvQBfA6JDNjococNzCSpump`
 
 | Time | Action | SOL | TX |
@@ -206,7 +206,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
@@ -234,7 +234,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
@@ -243,7 +243,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |
@@ -292,7 +292,7 @@
 
 ### 🟢 MLTFO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `45b7oPA7ex4NJuAFkNegj8xaGhByt5tzYFf1FCD4pump`
 
 | Time | Action | SOL | TX |
@@ -301,7 +301,7 @@
 
 ### 🟢 Papua
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 
 | Time | Action | SOL | TX |
