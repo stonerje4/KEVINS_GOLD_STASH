@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 08:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Subagent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.11x
+- **Peak:** 1.11x | **Current:** 0.92x
 - **Mint:** `9fpxGq9sMsYATQNpzGLtXyXaLBNBbFekaj7oypYhpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 HIDE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `8AvsABLpk7aoqFTTf2Dym6KoeDbJZ3wTE4qcAmbSpump`
 
 | Time | Action | SOL | TX |

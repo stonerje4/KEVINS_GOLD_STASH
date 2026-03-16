@@ -1,20 +1,20 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 08:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 28 |
-| Open | 2 |
-| Closed | 26 |
-| SOL In (closed) | 0.015600 |
+| Open | 1 |
+| Closed | 27 |
+| SOL In (closed) | 0.016200 |
 | SOL Out (sells) | 0.017136 |
-| **P&L** | **+0.001536 SOL** |
-| **ROI** | **+9.8%** |
+| **P&L** | **+0.000936 SOL** |
+| **ROI** | **+5.8%** |
 
 ## Trades
 
-### 🟢 Keiji
-- **Status:** partial | **Exit:** stop_loss
+### 🔴 Keiji
+- **Status:** closed | **Exit:** ghost_close_stop_loss
 - **Peak:** 1.16x | **Current:** 0.67x
 - **Mint:** `7gHRJohddKKd323vGBffb9uuwWcXnrsUbCqBzbAYpump`
 
@@ -219,7 +219,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.03x
+- **Peak:** 1.59x | **Current:** 1.02x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

@@ -1,26 +1,27 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 08:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.000716 |
-| **P&L** | **-0.000484 SOL** |
-| **ROI** | **-40.3%** |
+| Open | 0 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
+| SOL Out (sells) | 0.001110 |
+| **P&L** | **-0.000690 SOL** |
+| **ROI** | **-38.3%** |
 
 ## Trades
 
-### 🟢 NEO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+### 🔴 NEO
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.04x | **Current:** 0.66x
 - **Mint:** `6JzJ2NodhBBRfo6LeFkaoJQSuFrFgxnpq3rkWavUpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 08:54:29 | BUY | 0.000600 | `4UePrT634Jg3u75h6GQ3JR13UWYirq...` |
+| 2026-03-16 08:58:48 | SELL | 0.000394 | `4MSXeneAc436ffeAiB33WL1tQpAPK2...` |
 
 ### 🔴 NORMIE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

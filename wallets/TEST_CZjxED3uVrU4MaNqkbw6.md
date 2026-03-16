@@ -1,10 +1,10 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 08:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 2 |
+| Total Positions | 8 |
+| Open | 3 |
 | Closed | 5 |
 | SOL In (closed) | 0.003000 |
 | SOL Out (sells) | 0.003465 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 Kakegurui
+- **Status:** open | **Exit:** open
+- **Peak:** 1.38x | **Current:** 1.35x
+- **Mint:** `GFo9Ar3No4YKRxW22mzBeSC6X5oBkL1LWWW5rkyFpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:57:51 | BUY | 0.000600 | `2fW6NFP4RPNtNtunCZLNyeq6YQUxyW...` |
+
 ### 🟢 BULLS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.99x
+- **Peak:** 1.05x | **Current:** 0.85x
 - **Mint:** `GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump`
 
 | Time | Action | SOL | TX |
