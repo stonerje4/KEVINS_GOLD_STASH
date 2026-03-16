@@ -1,17 +1,27 @@
 # [PRD] Wallet: `ZzZZzPoJxWKern9EMk88aik3P8KwKgptANPdrhERrwr`
-> Generated: 2026-03-16 12:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 14:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 1 |
+| Total Positions | 9 |
+| Open | 2 |
 | Closed | 7 |
+| W/L | 2/5 |
 | SOL In (closed) | 0.580000 |
-| SOL Out (sells) | 0.688265 |
-| **P&L** | **+0.108265 SOL** |
-| **ROI** | **+18.7%** |
+| **Closed P&L** | **-0.163516 SOL** |
+| **Closed ROI** | **-28.2%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
+
+### 🟢 FOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `7wQonNHtjQfWwnd1XjCiyteGF5F3rsBHByXdoHcbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:47:27 | BUY | 0.150000 | `5U7sJPEnYKgUGMHhiaK3uGLERdmtoj...` |
 
 ### 🟢 CLANKER
 - **Status:** open | **Exit:** open

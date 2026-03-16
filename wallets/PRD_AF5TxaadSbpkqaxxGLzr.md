@@ -1,26 +1,28 @@
 # [PRD] Wallet: `AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g`
-> Generated: 2026-03-16 12:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 14:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 1 |
-| Closed | 9 |
-| SOL In (closed) | 1.150000 |
-| SOL Out (sells) | 1.254303 |
-| **P&L** | **+0.104303 SOL** |
-| **ROI** | **+9.1%** |
+| Open | 0 |
+| Closed | 10 |
+| W/L | 1/9 |
+| SOL In (closed) | 1.300000 |
+| **Closed P&L** | **-0.575944 SOL** |
+| **Closed ROI** | **-44.3%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 GORILLA
-- **Status:** open | **Exit:** open
+### 🔴 GORILLA
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.05x | **Current:** 0.00x
 - **Mint:** `EgXirSgMd673qXKGB9kc2YHJnaQUHiyBTPasXEVJ5zMr`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:23:14 | BUY | 0.150000 | `2pjZE9zb7Ls4Q9BBYYiinyBe6eK7jB...` |
+| 2026-03-16 13:24:07 | SELL | 0.000000 | `5RihibRCrWZXq7jd4DkAMb7DCNX8bH...` |
 
 ### 🔴 tiger
 - **Status:** closed | **Exit:** stop_loss

@@ -1,15 +1,16 @@
 # [PRD] Wallet: `EyXjj7JMA4ZLWiCVtxRmqa5BqBvF1um5ogcFXJRTvT3M`
-> Generated: 2026-03-16 12:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 14:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 1 |
 | Open | 0 |
 | Closed | 1 |
+| W/L | 0/1 |
 | SOL In (closed) | 0.050000 |
-| SOL Out (sells) | 0.018779 |
-| **P&L** | **-0.031221 SOL** |
-| **ROI** | **-62.4%** |
+| **Closed P&L** | **-0.031221 SOL** |
+| **Closed ROI** | **-62.4%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 

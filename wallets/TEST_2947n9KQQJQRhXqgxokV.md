@@ -1,26 +1,38 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 11 |
+| Total Positions | 12 |
 | Open | 6 |
-| Closed | 5 |
-| SOL In (closed) | 0.003000 |
-| SOL Out (sells) | 0.001110 |
-| **P&L** | **-0.001890 SOL** |
-| **ROI** | **-63.0%** |
+| Closed | 6 |
+| W/L | 5/1 |
+| SOL In (closed) | 0.003600 |
+| **Closed P&L** | **+0.001890 SOL** |
+| **Closed ROI** | **+52.5%** |
+| Open Deployed | 0.003600 SOL |
 
 ## Trades
 
-### 🟢 CTR
+### 🟢 ARAMCO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.96x
+- **Mint:** `5sZacjEPnUwfXqRsaJgP1w4iEWkTN9hv7Vmd6tcCpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:04:00 | BUY | 0.000600 | `63MyrFAeWHGjyyUaXfZwsouktD6zQX...` |
+
+### 🟢 CTR
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.74x | **Current:** 0.94x
 - **Mint:** `D6VRMTjXHYxxeHfsUBp7WYkXfU4cz33UTDXswJhzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 12:27:12 | BUY | 0.000600 | `5bkoCCZWwkzSYaKVFXL5HGYoXiM1NP...` |
+| 2026-03-16 12:35:37 | SELL | 0.000383 | `23m7XdJFD6zNed7czW9pHHN8aTKMei...` |
+| 2026-03-16 13:17:12 | SELL | 0.000397 | `38dGLAHmL4gW9Bv61trWnE82tx6f76...` |
 
 ### 🔴 URX
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -34,7 +46,7 @@
 
 ### 🟢 USGR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 0.99x
+- **Peak:** 1.41x | **Current:** 0.98x
 - **Mint:** `Cf5xinWZJqZKtnz3e3ecGWhVAYyYL4xdfTrhDUtjmoon`
 
 | Time | Action | SOL | TX |
@@ -109,8 +121,8 @@
 | 2026-03-16 02:37:11 | SELL | 0.000382 | `4BZ1GhwwftJscgVNQ5H3gHPAeBhnC8...` |
 
 ### 🟢 WRT CTO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Status:** partial | **Exit:** stale_cleanup
+- **Peak:** 1.01x | **Current:** 1.01x
 - **Mint:** `F4eRhkJYkkpzB539QS5EAg5ZEsJ3wR1ioTv5zjv9pump`
 
 | Time | Action | SOL | TX |

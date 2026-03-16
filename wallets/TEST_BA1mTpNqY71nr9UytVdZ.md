@@ -1,15 +1,16 @@
 # [TEST] Wallet: `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
 | Open | 0 |
 | Closed | 4 |
+| W/L | 4/0 |
 | SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.001387 |
-| **P&L** | **-0.001013 SOL** |
-| **ROI** | **-42.2%** |
+| **Closed P&L** | **+0.001387 SOL** |
+| **Closed ROI** | **+57.8%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 

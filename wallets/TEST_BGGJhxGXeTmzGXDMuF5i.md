@@ -1,21 +1,31 @@
 # [TEST] Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 5 |
+| Total Positions | 8 |
+| Open | 6 |
 | Closed | 2 |
+| W/L | 0/2 |
 | SOL In (closed) | 0.010600 |
-| SOL Out (sells) | 0.000373 |
-| **P&L** | **-0.010227 SOL** |
-| **ROI** | **-96.5%** |
+| **Closed P&L** | **+0.000000 SOL** |
+| **Closed ROI** | **+0.0%** |
+| Open Deployed | 0.003600 SOL |
 
 ## Trades
 
+### 🟢 FOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.17x | **Current:** 1.15x
+- **Mint:** `2zvfNSH8MPnYPtf57rkYzPHGtuBEPdX4etZHVcKwpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:45:33 | BUY | 0.000600 | `4GFdF2C5WcmMXuo6d2H5skUkZVWj7d...` |
+
 ### 🟢 XAI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.97x
+- **Peak:** 1.51x | **Current:** 0.97x
 - **Mint:** `9RFQpou2Pfrozvg7xS6LZ7ph4yKTiHRd57YrJDUCASH`
 
 | Time | Action | SOL | TX |
@@ -23,13 +33,14 @@
 | 2026-03-16 10:47:58 | BUY | 0.000600 | `4DPJCxBVPgf4wXAToXBe7NYRwqQ51W...` |
 
 ### 🟢 TCAT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.25x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.19x | **Current:** 1.81x
 - **Mint:** `9n3wWPvb5n2MMsBmALrWaK7iSFALKiTZ5DTRMEJRpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 08:38:57 | BUY | 0.000600 | `kdSHKgiyCuS6pjsTD8aNYeBCDQiqHM...` |
+| 2026-03-16 13:32:35 | SELL | 0.000389 | `495GqNPEbeo6Ukct6uvFh7Z5HmeAVh...` |
 
 ### 🟢 XAIC
 - **Status:** open | **Exit:** open
@@ -42,7 +53,7 @@
 
 ### 🟢 XAIC
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.43x | **Current:** 2.25x
+- **Peak:** 2.43x | **Current:** 2.17x
 - **Mint:** `2krfHMNFYcWkSvDcFv1hsGW8cG282f3yPmVaWqxzpump`
 
 | Time | Action | SOL | TX |

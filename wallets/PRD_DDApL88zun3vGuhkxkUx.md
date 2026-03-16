@@ -1,15 +1,16 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 12:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 14:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 28 |
-| Open | 4 |
-| Closed | 24 |
-| SOL In (closed) | 3.230000 |
-| SOL Out (sells) | 4.262504 |
-| **P&L** | **+1.032504 SOL** |
-| **ROI** | **+32.0%** |
+| Open | 3 |
+| Closed | 25 |
+| W/L | 5/20 |
+| SOL In (closed) | 3.380000 |
+| **Closed P&L** | **-0.741825 SOL** |
+| **Closed ROI** | **-21.9%** |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
 
@@ -42,18 +43,19 @@
 |------|--------|-----|----|
 | 2026-03-16 04:32:15 | BUY | 0.150000 | `56Bp9wdXrEZ26FE7KUXHiXdApJPxum...` |
 
-### 🟢 Oscar
-- **Status:** open | **Exit:** open
+### 🔴 Oscar
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.09x | **Current:** 0.00x
 - **Mint:** `G1raszDo4V42Mp9dQ39kSPkUWWSDXEg42HAMZCyDpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:31:15 | BUY | 0.150000 | `4LHJAVNLnotra5noi7fYgmmh65EEbw...` |
+| 2026-03-16 13:24:05 | SELL | 0.000000 | `2X7ejixPwq2eMEBMbqUaC2of3J8TLe...` |
 
 ### 🟢 STEAK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.00x
+- **Peak:** 1.58x | **Current:** 0.00x
 - **Mint:** `4RZz3rUcfXJjZgwycNUJUDcfTKSFNErXdBwzpLwEpump`
 
 | Time | Action | SOL | TX |

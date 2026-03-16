@@ -1,21 +1,31 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 19 |
-| Open | 6 |
+| Total Positions | 20 |
+| Open | 7 |
 | Closed | 13 |
+| W/L | 12/1 |
 | SOL In (closed) | 0.007800 |
-| SOL Out (sells) | 0.005938 |
-| **P&L** | **-0.001862 SOL** |
-| **ROI** | **-23.9%** |
+| **Closed P&L** | **+0.005938 SOL** |
+| **Closed ROI** | **+76.1%** |
+| Open Deployed | 0.004200 SOL |
 
 ## Trades
 
+### 🟢 OSCAR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 1.02x
+- **Mint:** `3d2rHsvxhQEGX9M9GLNtbLrRRoEgMMbYZP79wmSdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 13:08:00 | BUY | 0.000600 | `3PSxSJhQATwATSFLCMuRsmVkJt6aTP...` |
+
 ### 🟢 RealtorGPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.91x
+- **Peak:** 1.26x | **Current:** 0.87x
 - **Mint:** `BXUZJPpjLcEpcTi9XgENFGsRtxhjXueaB9ReyGQJpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +43,7 @@
 
 ### 🟢 AVA 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.74x
+- **Peak:** 1.02x | **Current:** 0.71x
 - **Mint:** `7xTRj5B3ErWFQ5qKKA2YjabLNQGML3v18UwY21sYpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +52,7 @@
 
 ### 🟢 FIVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.64x | **Current:** 1.05x
+- **Peak:** 1.64x | **Current:** 0.97x
 - **Mint:** `6ScrjJgnV4tWnpY9vQWychPdweW6YWNE7N94iS4Rpump`
 
 | Time | Action | SOL | TX |
@@ -111,7 +121,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.06x
+- **Peak:** 1.24x | **Current:** 0.93x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |

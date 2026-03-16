@@ -1,20 +1,41 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 12:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 14:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 28 |
-| Open | 1 |
-| Closed | 27 |
-| SOL In (closed) | 2.580000 |
-| SOL Out (sells) | 4.344961 |
-| **P&L** | **+1.764961 SOL** |
-| **ROI** | **+68.4%** |
+| Total Positions | 30 |
+| Open | 0 |
+| Closed | 30 |
+| W/L | 8/22 |
+| SOL In (closed) | 3.030000 |
+| **Closed P&L** | **-0.023417 SOL** |
+| **Closed ROI** | **-0.8%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
+### 🔴 Ac7ionMan
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.01x | **Current:** 0.00x
+- **Mint:** `6jbjmeNyLsK5mt1B6QvbPwtNGNUsFTqAkyV1vgdUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 13:24:32 | BUY | 0.150000 | `4xQP6q67p7ie33JkupokxLvZFnwkCU...` |
+| 2026-03-16 13:26:10 | SELL | 0.060134 | `63hPYCwddHooF4NLGf8b8induJ2FTb...` |
+
+### 🔴 Romanus
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.10x | **Current:** 0.00x
+- **Mint:** `CJB4fjgUjSN43QLFTC77UQCmYzky4VzTmedDCZqbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:45:39 | BUY | 0.150000 | `57NhaFFfALeKkWDPGA1MLet4gRieGQ...` |
+| 2026-03-16 13:07:07 | SELL | 0.098589 | `4bkqSmHJcq6nu56AfmbJChhGDViAHe...` |
+
 ### 🟢 ZIO
-- **Status:** partial | **Exit:** open
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 3.28x | **Current:** 0.00x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
@@ -22,6 +43,7 @@
 |------|--------|-----|----|
 | 2026-03-16 08:51:01 | BUY | 0.150000 | `EFybRFtVLAZPM7EY4rpxYXBYiPrYYk...` |
 | 2026-03-16 10:48:38 | SELL | 0.092319 | `3epunuChNWwjWo8AjSAwfTkLHQmWfn...` |
+| 2026-03-16 12:45:41 | SELL | 0.329081 | `2QxSbYbmiTr6Y88nchrGfAGSikqTC4...` |
 
 ### 🔴 Afraid
 - **Status:** closed | **Exit:** stop_loss

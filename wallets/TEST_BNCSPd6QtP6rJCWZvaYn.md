@@ -1,21 +1,22 @@
 # [TEST] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
 | Open | 1 |
 | Closed | 3 |
+| W/L | 3/0 |
 | SOL In (closed) | 0.001800 |
-| SOL Out (sells) | 0.002918 |
-| **P&L** | **+0.001118 SOL** |
-| **ROI** | **+62.1%** |
+| **Closed P&L** | **+0.002918 SOL** |
+| **Closed ROI** | **+162.1%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
 ### 🟢 STEAK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.03x | **Current:** 1.02x
 - **Mint:** `4RZz3rUcfXJjZgwycNUJUDcfTKSFNErXdBwzpLwEpump`
 
 | Time | Action | SOL | TX |

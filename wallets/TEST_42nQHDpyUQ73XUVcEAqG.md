@@ -1,17 +1,32 @@
 # [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
+| Total Positions | 3 |
 | Open | 0 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.000532 |
-| **P&L** | **-0.000668 SOL** |
-| **ROI** | **-55.7%** |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.001800 |
+| **Closed P&L** | **+0.004096 SOL** |
+| **Closed ROI** | **+227.6%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
+
+### 🟢 Roni
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 11.58x | **Current:** 7.82x
+- **Mint:** `BZxTMKcYtfrd1zJWYNVHFknSJrhtF9yZhKe2S2Gmpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:56:24 | BUY | 0.000600 | `5wpAvViF7a9WQceYKSfrahs1rPGATv...` |
+| 2026-03-16 12:59:27 | SELL | 0.000393 | `5Jms4D2S4beMUbTxivbxQBVbjM9pgK...` |
+| 2026-03-16 13:09:57 | SELL | 0.000661 | `wJx7mnVwsX9xgEQvYJfj6xxbn5CNNN...` |
+| 2026-03-16 13:18:30 | SELL | 0.000431 | `5JQT3ijDwHzJwytTaM6AgRyMQ1xqFT...` |
+| 2026-03-16 13:19:45 | SELL | 0.000519 | `4Gu4QoHbn1EKbBEg7LE3Pu6ykKtePe...` |
+| 2026-03-16 13:24:03 | SELL | 0.001560 | `43ZctJACSDMTySofYzeMkkBxKEGoa2...` |
 
 ### 🔴 BANA
 - **Status:** closed | **Exit:** ghost_close_stop_loss

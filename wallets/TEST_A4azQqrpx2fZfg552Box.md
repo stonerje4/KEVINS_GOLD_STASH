@@ -1,17 +1,36 @@
 # [TEST] Wallet: `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 2 |
+| Total Positions | 5 |
+| Open | 4 |
 | Closed | 1 |
+| W/L | 1/0 |
 | SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000401 |
-| **P&L** | **-0.000199 SOL** |
-| **ROI** | **-33.2%** |
+| **Closed P&L** | **+0.000401 SOL** |
+| **Closed ROI** | **+66.8%** |
+| Open Deployed | 0.002400 SOL |
 
 ## Trades
+
+### 🟢 FOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.14x | **Current:** 1.05x
+- **Mint:** `Hz78DwuWA7xgv8G5Ky7VAbgaYbuSZEeETgdR3GJLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:54:22 | BUY | 0.000600 | `3d2bLaQzsbydeh8zXb2Vxr7eoRnd3n...` |
+
+### 🟢 FOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.84x
+- **Mint:** `GhE5GEZJ7FgGZYzyYBHP7SHef7DSV9X1BWiFd9qKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:52:39 | BUY | 0.000600 | `2yzZkK1h31f2gWqNvZjTMVGgodc8VT...` |
 
 ### 🟢 UNIPEP
 - **Status:** open | **Exit:** open

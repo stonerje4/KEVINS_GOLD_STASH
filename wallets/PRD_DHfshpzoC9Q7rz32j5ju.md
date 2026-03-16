@@ -1,26 +1,37 @@
 # [PRD] Wallet: `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf`
-> Generated: 2026-03-16 12:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 14:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 44 |
+| Total Positions | 45 |
 | Open | 3 |
-| Closed | 41 |
-| SOL In (closed) | 3.850000 |
-| SOL Out (sells) | 3.615312 |
-| **P&L** | **-0.234688 SOL** |
-| **ROI** | **-6.1%** |
+| Closed | 42 |
+| W/L | 14/28 |
+| SOL In (closed) | 4.000000 |
+| **Closed P&L** | **-0.002715 SOL** |
+| **Closed ROI** | **-0.1%** |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
 
-### 🟢 BLOCKAID
+### 🟢 XAI
 - **Status:** open | **Exit:** open
+- **Peak:** 1.34x | **Current:** 0.00x
+- **Mint:** `9RFQpou2Pfrozvg7xS6LZ7ph4yKTiHRd57YrJDUCASH`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 13:17:16 | BUY | 0.150000 | `2iw8bBP2tpnHeFuteLAunyfz61gLYd...` |
+
+### 🔴 BLOCKAID
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.21x | **Current:** 0.00x
 - **Mint:** `ApnFJUYikcVEaWXdxD9G2hFfCVc8Fc9uWgrWK3NQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:06:23 | BUY | 0.150000 | `2YiSnh5nXp95ocLhwG3SKBRoQG3P4p...` |
+| 2026-03-16 13:24:09 | SELL | 0.000000 | `5h4KtW17qP84NHErCvu8bNgom75ZYj...` |
 
 ### 🟢 FTR
 - **Status:** open | **Exit:** open

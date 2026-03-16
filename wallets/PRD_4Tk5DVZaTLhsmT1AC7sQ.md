@@ -1,17 +1,28 @@
 # [PRD] Wallet: `4Tk5DVZaTLhsmT1AC7sQNsEnAzmX6FAGN1xaMD2SVbcx`
-> Generated: 2026-03-16 12:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 14:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
+| Total Positions | 2 |
 | Open | 0 |
-| Closed | 1 |
-| SOL In (closed) | 0.050000 |
-| SOL Out (sells) | 0.289043 |
-| **P&L** | **+0.239043 SOL** |
-| **ROI** | **+478.1%** |
+| Closed | 2 |
+| W/L | 1/1 |
+| SOL In (closed) | 0.200000 |
+| **Closed P&L** | **+0.028488 SOL** |
+| **Closed ROI** | **+14.2%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
+
+### 🔴 CHANCE
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.25x | **Current:** 0.00x
+- **Mint:** `H4hWKbfDRMZKSYuALxbbKdBJrPyxPVuiEeHcQacRpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:50:41 | BUY | 0.150000 | `2SKvtKP1Ujzw1Fiu4oydUumrNvYXVY...` |
+| 2026-03-16 13:05:28 | SELL | 0.090108 | `5Ci7TQa39w1phgeGUJND9nvQvSSHCa...` |
 
 ### 🟢 retire
 - **Status:** closed | **Exit:** runner_trailing_stop

@@ -1,17 +1,27 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
+| Total Positions | 11 |
 | Open | 2 |
-| Closed | 8 |
-| SOL In (closed) | 0.004800 |
-| SOL Out (sells) | 0.004661 |
-| **P&L** | **-0.000139 SOL** |
-| **ROI** | **-2.9%** |
+| Closed | 9 |
+| W/L | 7/2 |
+| SOL In (closed) | 0.005400 |
+| **Closed P&L** | **+0.005936 SOL** |
+| **Closed ROI** | **+109.9%** |
+| Open Deployed | 0.001200 SOL |
 
 ## Trades
+
+### 🟢 Bear 
+- **Status:** open | **Exit:** open
+- **Peak:** 1.90x | **Current:** 1.08x
+- **Mint:** `AVuvrHDCk3wQd1id8irp9VovBJ7R21Rbd2Gr6TKupump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 13:36:41 | BUY | 0.000600 | `3GDoQkM6NGjk7cG41KjhWtHjDNoXhb...` |
 
 ### 🔴 Darren
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -25,7 +35,7 @@
 
 ### 🟢 PUSHEEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 0.97x
+- **Peak:** 1.22x | **Current:** 0.89x
 - **Mint:** `7ttsZScQAsya7eiUfkG6PoTVNARkkZXccqRviDtTpump`
 
 | Time | Action | SOL | TX |
@@ -43,14 +53,16 @@
 | 2026-03-16 09:08:23 | SELL | 0.000383 | `37oSymh9xPrTkBwzuqQ1XStFN34RXE...` |
 
 ### 🟢 BULLS
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.03x | **Current:** 3.02x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 5.96x | **Current:** 4.00x
 - **Mint:** `GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 08:52:04 | BUY | 0.000600 | `5FP59xW8pKGrSLA2R5AL6zivoqu15L...` |
 | 2026-03-16 10:54:43 | SELL | 0.000396 | `2kUgGdjXpnw8RRxPSv8USyt1xCF5qQ...` |
+| 2026-03-16 12:40:41 | SELL | 0.000717 | `23J2yPGhFKEzyk8YteQzKTtWNmsiuX...` |
+| 2026-03-16 13:29:55 | SELL | 0.001158 | `3ALFwzLj7mmQ1rceBXJD3tEnZppBxg...` |
 
 ### 🔴 JORDAN
 - **Status:** closed | **Exit:** ghost_close_stop_loss

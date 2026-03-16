@@ -1,15 +1,16 @@
 # [TEST] Wallet: `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
 | Open | 1 |
 | Closed | 2 |
+| W/L | 2/0 |
 | SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.001263 |
-| **P&L** | **+0.000063 SOL** |
-| **ROI** | **+5.3%** |
+| **Closed P&L** | **+0.001263 SOL** |
+| **Closed ROI** | **+105.3%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
