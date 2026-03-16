@@ -1,5 +1,5 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 00:10 UTC
+> Generated: 2026-03-16 00:15 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.96x
+- **Peak:** 1.05x | **Current:** 0.94x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |
@@ -60,7 +60,7 @@
 
 ### 🟢 xaicash
 - **Status:** open | **Exit:** open
-- **Peak:** 1.67x | **Current:** 1.00x
+- **Peak:** 1.67x | **Current:** 1.13x
 - **Mint:** `DtN37CUdr5B2LQtJGG2ktmUGXk27UsTYbDQddCiCpump`
 
 | Time | Action | SOL | TX |

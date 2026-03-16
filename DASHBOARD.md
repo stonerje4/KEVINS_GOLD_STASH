@@ -1,5 +1,5 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-16 00:10 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-16 00:15 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
@@ -72,18 +72,18 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.6893 SOL |
-| Open Positions | 26 (0.0344 SOL deployed) |
-| Closed Positions | 10 |
+| SOL Balance | 1.6907 SOL |
+| Open Positions | 24 (0.0332 SOL deployed) |
+| Closed Positions | 12 |
 | Total Positions | 36 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.3763 SOL (-37.6%)** |
+| **Real P&L (on-chain)** | **-0.3761 SOL (-37.6%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
 |--------|-------|--------|------|-----|-----|--------|-----|-----|
 | `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 4 | 3 | 1 | 0/3 | 0% | 0.0024 | 🟢 +0.000900 | +50.0% |
-| `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 5 | 0 | 5 | 0/0 | 0% | 0.0030 | ⚪ +0.000000 | +0.0% |
+| `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🟢 +0.000266 | +44.3% |
 | `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 1 | 0 | 1 | 0/0 | 0% | 0.0100 | ⚪ +0.000000 | +0.0% |
 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 3 | 0 | 3 | 0/0 | 0% | 0.0018 | ⚪ +0.000364 | +0.0% |
@@ -91,8 +91,8 @@
 | `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 4 | 0 | 4 | 0/0 | 0% | 0.0024 | ⚪ +0.000000 | +0.0% |
 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 3 | 2 | 1 | 0/2 | 0% | 0.0112 | 🔴 -0.003500 | -33.0% |
 | `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000233 | -38.9% |
-| `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J` | 6 | 3 | 3 | 0/3 | 0% | 0.0036 | 🔴 -0.001100 | -61.1% |
-| `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000600 | -100.0% |
+| `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 5 | 1 | 4 | 0/1 | 0% | 0.0030 | 🔴 -0.000249 | -41.5% |
+| `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J` | 6 | 4 | 2 | 0/4 | 0% | 0.0036 | 🔴 -0.001437 | -59.9% |
 
 > P&L per wallet from actual trade results. Sorted by ROI.
 > Wallets shown are currently active in test environment.
