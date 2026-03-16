@@ -1,21 +1,30 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 01:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 17 |
-| Open | 12 |
-| Closed | 5 |
-| SOL In (closed) | 0.003000 |
-| SOL Out (sells) | 0.002854 |
-| **P&L** | **-0.000146 SOL** |
-| **ROI** | **-4.9%** |
+| Total Positions | 18 |
+| Open | 11 |
+| Closed | 7 |
+| SOL In (closed) | 0.004200 |
+| SOL Out (sells) | 0.004119 |
+| **P&L** | **-0.000081 SOL** |
+| **ROI** | **-1.9%** |
 
 ## Trades
 
+### 🟢 Hospice
+- **Status:** open | **Exit:** open
+- **Peak:** 1.13x | **Current:** 0.97x
+- **Mint:** `7RpvnxXy2MciEEC15zRqUGjM9BtmptozJQaWgpkGpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:58:34 | BUY | 0.000600 | `3tDcQvxGt9rJoCtUqPJaUPWEfyAsDi...` |
+
 ### 🟢 HERRMANN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 0.95x
+- **Peak:** 1.17x | **Current:** 1.01x
 - **Mint:** `FgfFDfVcaTHAMY5jZPN45CV31MXjqGXzRBony98ipump`
 
 | Time | Action | SOL | TX |
@@ -23,41 +32,44 @@
 | 2026-03-16 01:50:33 | BUY | 0.000600 | `4eiNg6US2RpBduxsmHbJjKC1sRatpz...` |
 
 ### 🟢 MIDNIGHT
-- **Status:** open | **Exit:** open
+- **Status:** partial | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:48:47 | BUY | 0.000600 | `22XbtCyonHUwmzBJjsHuevZGFuTLoX...` |
+| 2026-03-16 01:55:40 | SELL | 0.000409 | `5ADn7PX7MYhF913DpLVLJ5xDcyuwQw...` |
 
 ### 🟢 6
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.71x | **Current:** 1.71x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.71x | **Current:** 1.41x
 - **Mint:** `6CVdrjKaHRkrKRuNQAt4UUeeumHVEdgNx34QcTVtpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:45:27 | BUY | 0.000600 | `kSReq9FpL9jYXJWqTpxwM5kbAZEo8u...` |
 | 2026-03-16 01:48:52 | SELL | 0.000396 | `12BL1bkFTNz4NH2gBJvQsvnxia45b9...` |
+| 2026-03-16 01:55:25 | SELL | 0.000533 | `3iaBPd86gjMh4bR2MGkNiqM1xdJaSd...` |
 
 ### 🟢 MAIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 1.24x
+- **Peak:** 1.57x | **Current:** 1.57x
 - **Mint:** `BVnDS1m53ZbmK4yaNbyFQShNqH2UyTb2rqaguRcypump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:45:16 | BUY | 0.000600 | `5jCarMRpSd48pDLD93MV42PoyR6tUG...` |
 
-### 🟢 WRAP
-- **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.92x
+### 🔴 WRAP
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.80x | **Current:** 0.54x
 - **Mint:** `9gdCVRcpwJoLUQkFiF8afc9azbbBkjWnAr3PzotHpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:41:25 | BUY | 0.000600 | `2EFzBJEwuXexEJeUHejSjSDf2xZsXv...` |
+| 2026-03-16 01:59:19 | SELL | 0.000323 | `Q1vhmiRyZJJ9qSUMncQH4V3ibAoxFX...` |
 
 ### 🔴 Literally
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -101,7 +113,7 @@
 
 ### 🟢 medieval
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.92x | **Current:** 1.55x
+- **Peak:** 2.92x | **Current:** 1.89x
 - **Mint:** `DFFbJAcaearm5rAarRjKEs6bqbDePTtw677UYqJNpump`
 
 | Time | Action | SOL | TX |
@@ -111,7 +123,7 @@
 
 ### 🟢 TRENCHIES
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.75x
+- **Peak:** 1.06x | **Current:** 0.74x
 - **Mint:** `7sS7LGpwjir1QxA9GoHqjV3u9YmuX4CNELKWLxA8dmcC`
 
 | Time | Action | SOL | TX |
@@ -148,7 +160,7 @@
 
 ### 🟢 TIM
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.08x | **Current:** 2.08x
+- **Peak:** 2.10x | **Current:** 1.84x
 - **Mint:** `GfDfRvhGbvCHrnuUbXB7z6RXosgZzTGCyP59Yvddpump`
 
 | Time | Action | SOL | TX |
@@ -158,7 +170,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.99x
+- **Peak:** 1.37x | **Current:** 1.06x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |

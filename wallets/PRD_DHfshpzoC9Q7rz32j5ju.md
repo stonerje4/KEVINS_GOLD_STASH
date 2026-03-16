@@ -1,17 +1,27 @@
 # [PRD] Wallet: `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf`
-> Generated: 2026-03-16 01:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 02:00 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 38 |
+| Total Positions | 39 |
 | Open | 2 |
-| Closed | 36 |
-| SOL In (closed) | 3.100000 |
-| SOL Out (sells) | 3.448397 |
-| **P&L** | **+0.348397 SOL** |
-| **ROI** | **+11.2%** |
+| Closed | 37 |
+| SOL In (closed) | 3.250000 |
+| SOL Out (sells) | 3.510642 |
+| **P&L** | **+0.260642 SOL** |
+| **ROI** | **+8.0%** |
 
 ## Trades
+
+### 🔴 XAI
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.18x | **Current:** 0.00x
+- **Mint:** `5kgDNcVMcj6QcSb7MJvSEttnsbWLt2RqmhXjeJkUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:55:03 | BUY | 0.150000 | `66EL6w1WTfxyGqMMvyYsp7FPtUtEMm...` |
+| 2026-03-16 01:57:12 | SELL | 0.062245 | `4iuF2yc3fXYw49N3Zy5fG5xVJZNW8Z...` |
 
 ### 🟢 R.S UGOR
 - **Status:** open | **Exit:** open

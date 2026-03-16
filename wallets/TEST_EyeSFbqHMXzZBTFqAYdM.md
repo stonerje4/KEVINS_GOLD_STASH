@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
+# [TEST] Wallet: `EyeSFbqHMXzZBTFqAYdM5E2o6Uv8pPCyLsSCv9Ax8Qgb`
 > Generated: 2026-03-16 02:00 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 PEEP
+### 🟢 AMBER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
-- **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
+- **Peak:** 1.00x | **Current:** 0.95x
+- **Mint:** `UnnrJMnQbdSXTdAEEvjvWFxQgWQ2CcPHdwyjVBYpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 23:02:10 | BUY | 0.000600 | `4WvYLfqxmmJrQSx6k9gNpFtPmyQo4S...` |
+| 2026-03-16 01:56:40 | BUY | 0.000600 | `3RdgcjBiK8Ra1mSwkYhK3YeN51jJqF...` |
 

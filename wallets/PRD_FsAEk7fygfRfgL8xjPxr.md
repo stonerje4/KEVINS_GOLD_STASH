@@ -1,17 +1,38 @@
 # [PRD] Wallet: `FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz`
-> Generated: 2026-03-16 01:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 02:00 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 16 |
-| Open | 1 |
-| Closed | 15 |
-| SOL In (closed) | 1.710000 |
-| SOL Out (sells) | 0.550959 |
-| **P&L** | **-1.159041 SOL** |
-| **ROI** | **-67.8%** |
+| Total Positions | 18 |
+| Open | 2 |
+| Closed | 16 |
+| SOL In (closed) | 1.860000 |
+| SOL Out (sells) | 0.958456 |
+| **P&L** | **-0.901544 SOL** |
+| **ROI** | **-48.5%** |
 
 ## Trades
+
+### 🟢 WRT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `DaMo1LZ6ipoWKZbg6s8CxGpF9HYpXVa12wvnp3vpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:58:53 | BUY | 0.150000 | `4PxJN8Ak5Zs9tJDiJqouJBXSKvESuQ...` |
+
+### 🟢 WRT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `EoJCXartYxs3WYSGw4cvQrdhLHouowhyPBYWb4wNpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-15 20:03:46 | BUY | 0.150000 | `4MNybbWArAUfnPVe7H6Yh2zPZz4fGm...` |
+| 2026-03-15 21:24:57 | SELL | 0.093857 | `31pbj9uD7XR7TEYAJrmyZkq6wHsVgw...` |
+| 2026-03-15 22:27:45 | SELL | 0.223053 | `2yd2ZqZvmVgMvENvyCGVgVZX8bdquH...` |
+| 2026-03-16 01:58:23 | BUY | 0.150000 | `GWiaPRNMdaNXEEypgraqa39FR8jauk...` |
 
 ### 🔴 UGOR
 - **Status:** closed | **Exit:** stop_loss
@@ -24,14 +45,15 @@
 | 2026-03-15 22:02:23 | BUY | 0.150000 | `4two4q5ZUQEJip4dyeNvVAMVQ2KjMi...` |
 | 2026-03-16 01:33:28 | SELL | 0.101848 | `5NbecYcFcXNcqLMySyDi6NjFPxY5mT...` |
 
-### 🟢 WRT
-- **Status:** open | **Exit:** open
+### 🔴 WRT
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `7kmkra4rJWNdq2UXkzcihHAjxiNkRkgmi8tdUyRBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:01:19 | BUY | 0.150000 | `KpXTrn6kefdZ39GyLmTh6E7J474zFY...` |
+| 2026-03-16 01:59:30 | SELL | 0.090587 | `3R5dNdZsVB7BLsMdJBm5nw7gfKTMEG...` |
 
 ### 🔴 SPD
 - **Status:** closed | **Exit:** stale_position_cleanup
