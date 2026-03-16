@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 05:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
-| Open | 1 |
+| Total Positions | 12 |
+| Open | 3 |
 | Closed | 9 |
 | SOL In (closed) | 0.005400 |
 | SOL Out (sells) | 0.007780 |
@@ -12,6 +12,24 @@
 | **ROI** | **+44.1%** |
 
 ## Trades
+
+### 🟢 wild
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.78x
+- **Mint:** `9MpAckk7Bw6piwpDFHNayGpGW3JqzTPz9FsXfhBBpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:24:36 | BUY | 0.000600 | `5tZu1xGWmichsBMMu93ofZT3HqkMU3...` |
+
+### 🟢 Peace
+- **Status:** open | **Exit:** open
+- **Peak:** 1.05x | **Current:** 0.85x
+- **Mint:** `HEeB2bEe8gjE51Lhi11CVUUdUNnsE6HFc4iRYWRjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:20:24 | BUY | 0.000600 | `2K7kYwdq7UaXzwV4LvJQAKHzr5gmSM...` |
 
 ### 🔴 MYRO
 - **Status:** closed | **Exit:** ghost_close_stop_loss

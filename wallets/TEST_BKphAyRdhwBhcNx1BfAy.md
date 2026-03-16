@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 05:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,15 +7,15 @@
 | Open | 23 |
 | Closed | 51 |
 | SOL In (closed) | 0.030600 |
-| SOL Out (sells) | 0.025069 |
-| **P&L** | **-0.005531 SOL** |
-| **ROI** | **-18.1%** |
+| SOL Out (sells) | 0.025473 |
+| **P&L** | **-0.005127 SOL** |
+| **ROI** | **-16.8%** |
 
 ## Trades
 
 ### 🟢 Unemployed
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.20x
+- **Peak:** 1.60x | **Current:** 1.52x
 - **Mint:** `5phXw5QBpNUWKGGiyr5ocjSjwYQWcPkDd1oTyj9cpump`
 
 | Time | Action | SOL | TX |
@@ -23,13 +23,14 @@
 | 2026-03-16 05:16:28 | BUY | 0.000600 | `a7Fh6HGsA9yLsDcMjrKXcUXAtULVLz...` |
 
 ### 🟢 plumber
-- **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.50x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.25x | **Current:** 2.24x
 - **Mint:** `2Pah9ZUfpii27ABrWfQorzdW8FSJimxj6izFr4oGpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:14:13 | BUY | 0.000600 | `3kRhrp4LzQbDoyqknsJT9qRuqNPSjD...` |
+| 2026-03-16 05:24:18 | SELL | 0.000404 | `3pnc9y7XYtMMyUUB21S2Do5es2fDHY...` |
 
 ### 🔴 Dindim
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -91,7 +92,7 @@
 
 ### 🟢 Übermensch
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `651nrR2zXYRXX9qZFMVRfSgv1Faafep78XK65SeXpump`
 
 | Time | Action | SOL | TX |
@@ -314,7 +315,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.18x
+- **Peak:** 1.43x | **Current:** 1.24x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -379,7 +380,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.02x
+- **Peak:** 1.06x | **Current:** 1.03x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |
@@ -460,7 +461,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.97x
+- **Peak:** 1.09x | **Current:** 0.98x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -685,7 +686,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.02x
+- **Peak:** 1.24x | **Current:** 1.09x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |

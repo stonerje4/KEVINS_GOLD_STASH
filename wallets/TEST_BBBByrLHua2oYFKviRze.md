@@ -1,15 +1,15 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 05:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 21 |
-| Open | 1 |
-| Closed | 20 |
-| SOL In (closed) | 0.012000 |
+| Open | 0 |
+| Closed | 21 |
+| SOL In (closed) | 0.012600 |
 | SOL Out (sells) | 0.010240 |
-| **P&L** | **-0.001760 SOL** |
-| **ROI** | **-14.7%** |
+| **P&L** | **-0.002360 SOL** |
+| **ROI** | **-18.7%** |
 
 ## Trades
 
@@ -33,9 +33,9 @@
 | 2026-03-16 05:09:31 | BUY | 0.000600 | `2HtR9SRUXHLUGwzBTXTn2HLG1yvTpB...` |
 | 2026-03-16 05:10:54 | SELL | 0.000335 | `GFA7XykLNEQt8tf2f5YJtJbMfJzda6...` |
 
-### 🟢 GINGER
-- **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.75x
+### 🔴 GINGER
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.57x
 - **Mint:** `5XVABeWf82sx9UHSj6z8hNPFQ21EvfqvKkgqrHr8pump`
 
 | Time | Action | SOL | TX |
