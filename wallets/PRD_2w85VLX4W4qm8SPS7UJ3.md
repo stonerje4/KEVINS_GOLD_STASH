@@ -1,18 +1,27 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 20:40 UTC | Environment: **PRD**
+> Generated: 2026-03-16 20:45 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 35 |
-| Open | 3 |
+| Total Positions | 36 |
+| Open | 4 |
 | Closed | 32 |
 | W/L | 8/24 |
 | SOL In (closed) | 3.330000 |
 | **Closed P&L** | **-0.208374 SOL** |
 | **Closed ROI** | **-6.3%** |
-| Open Deployed | 0.450000 SOL |
+| Open Deployed | 0.600000 SOL |
 
 ## Trades
+
+### 🟢 NEMOCLAW
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 0.00x
+- **Mint:** `4PvZFyaAdViUvwNnHscnZZGBJSp4XhCraLWHK5jeWCtq`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 20:40:34 | BUY | 0.150000 | `12AkMZSsh7pJRJTRNVzbEDMEsgLsce...` |
 
 ### 🟢 SHELLY
 - **Status:** partial | **Exit:** open
