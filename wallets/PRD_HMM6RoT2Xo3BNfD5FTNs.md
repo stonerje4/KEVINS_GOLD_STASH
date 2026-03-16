@@ -1,18 +1,28 @@
 # [PRD] Wallet: `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j`
-> Generated: 2026-03-16 20:15 UTC | Environment: **PRD**
+> Generated: 2026-03-16 20:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 27 |
-| Open | 0 |
+| Total Positions | 28 |
+| Open | 1 |
 | Closed | 27 |
 | W/L | 5/22 |
 | SOL In (closed) | 2.370000 |
 | **Closed P&L** | **-0.695977 SOL** |
 | **Closed ROI** | **-29.4%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
+
+### 🟢 NEMOTRON
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.83x | **Current:** 0.00x
+- **Mint:** `8WG5QoGGqQUxcU3XQhzdao4FHLs4RsDR4WqEo5eJpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 20:17:22 | BUY | 0.150000 | `s2smHyja48oXo9X3eMoKbSGVcHsZxV...` |
+| 2026-03-16 20:18:20 | SELL | 0.042467 | `2MJA6mN55akm3CxwKQAypg2pehKmv4...` |
 
 ### 🔴 jarvis
 - **Status:** closed | **Exit:** stop_loss
