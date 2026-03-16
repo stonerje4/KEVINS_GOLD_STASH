@@ -1,31 +1,32 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 23:05 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:10 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 11 |
-| Open | 3 |
-| Closed | 8 |
-| W/L | 2/6 |
-| SOL In (closed) | 1.200000 |
-| **Closed P&L** | **+0.148165 SOL** |
-| **Closed ROI** | **+12.3%** |
-| Open Deployed | 0.450000 SOL |
+| Open | 2 |
+| Closed | 9 |
+| W/L | 2/7 |
+| SOL In (closed) | 1.350000 |
+| **Closed P&L** | **+0.050611 SOL** |
+| **Closed ROI** | **+3.7%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
-### 🟢 house
-- **Status:** open | **Exit:** open
+### 🔴 house
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.25x | **Current:** 0.00x
 - **Mint:** `BW7VwGs9USMNmHdCMBKb3iKeqkvuh9JDWRVnXmiMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 22:20:16 | BUY | 0.150000 | `4pnYFgkWtGXGZHb3bYRhgZCFPNDfNp...` |
+| 2026-03-16 23:09:09 | SELL | 0.052446 | `2XZsBACuvoVzbWA7e1J7HoanPoYPJ1...` |
 
 ### 🟢 Soulmates
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.00x
+- **Peak:** 1.13x | **Current:** 0.00x
 - **Mint:** `2k1Sxj2ZNpWtvwANBWsN4SNtdRzonHgh7FJFRYympump`
 
 | Time | Action | SOL | TX |
