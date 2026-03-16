@@ -1,5 +1,5 @@
 # [PRD] Wallet: `DqUJZJ6e3sBiMtUbgveCJzqh3JhiLhpuBYmncg1ivwcc`
-> Generated: 2026-03-16 20:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 21:00 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Soulmates
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.00x
+- **Peak:** 1.30x | **Current:** 0.00x
 - **Mint:** `2k1Sxj2ZNpWtvwANBWsN4SNtdRzonHgh7FJFRYympump`
 
 | Time | Action | SOL | TX |
