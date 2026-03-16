@@ -1,57 +1,61 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 08:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 113 |
-| Open | 32 |
-| Closed | 81 |
-| SOL In (closed) | 0.048600 |
-| SOL Out (sells) | 0.047911 |
-| **P&L** | **-0.000689 SOL** |
-| **ROI** | **-1.4%** |
+| Open | 30 |
+| Closed | 83 |
+| SOL In (closed) | 0.049800 |
+| SOL Out (sells) | 0.049482 |
+| **P&L** | **-0.000318 SOL** |
+| **ROI** | **-0.6%** |
 
 ## Trades
 
-### 🟢 CCA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+### 🔴 CCA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.67x
 - **Mint:** `4WJL85EYUT4CJFpQEK56usYu75hUPgonWb7obMoopump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:58:53 | BUY | 0.000600 | `2PoFoHw674Xr4pS1cxjgPfjTV1gS5x...` |
+| 2026-03-16 08:01:19 | SELL | 0.000402 | `3TNE5Yn3ayij3y2v8JeeUPPW3Uox8i...` |
 
-### 🟢 TANDEM
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.00x
+### 🔴 TANDEM
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.03x | **Current:** 0.66x
 - **Mint:** `AjG9ZctERgeF9f34YBFvEdR1LamcYDdnHGPbPf6fpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:58:47 | BUY | 0.000600 | `4ZdaayVneeVHTYAHwky2T9erdSPqC2...` |
+| 2026-03-16 08:02:25 | SELL | 0.000396 | `4EBzdqG89ACnLUgh72dtGdSMs3V8vs...` |
 
 ### 🟢 DUVE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 1.15x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.26x | **Current:** 2.25x
 - **Mint:** `rW5MXzfqLea2oe2z8XNuCe75s6rYPuPKHBbA5PCpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:53:16 | BUY | 0.000600 | `3kuR8iFbEtHDTcLeYkYEoRQQ5SxTPW...` |
+| 2026-03-16 08:03:34 | SELL | 0.000394 | `2Ee6Up12iMxAtR4sA68TckrAsvGDqH...` |
 
 ### 🟢 VEESA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.28x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.11x | **Current:** 1.73x
 - **Mint:** `6k2DjHrx4k7PMs3zC9Z5NEjJ9sL1Npg3Q7P62p8opump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:52:18 | BUY | 0.000600 | `3QEXY6t8aHeFVipSgWM26HK4UEfL2z...` |
+| 2026-03-16 08:03:01 | SELL | 0.000378 | `3mMdRf2xmFy3QpVFyoGE7Qn1XfT8xF...` |
 
 ### 🟢 MERT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.89x | **Current:** 1.08x
+- **Peak:** 1.89x | **Current:** 0.91x
 - **Mint:** `5vHv6q1d6X9qq988NmHsMSmZXPQzVz6vow6aHwHXhpLp`
 
 | Time | Action | SOL | TX |
@@ -60,7 +64,7 @@
 
 ### 🟢 RICHIE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 1.09x
+- **Peak:** 1.19x | **Current:** 0.79x
 - **Mint:** `G4XU9QGZBJbNENSXVU5Tbakn3ya4JhmBVNVEkEBYpump`
 
 | Time | Action | SOL | TX |
@@ -138,7 +142,7 @@
 
 ### 🟢 PLAMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 1.25x
+- **Peak:** 1.47x | **Current:** 1.32x
 - **Mint:** `D1eTUxKkAfTWKEWSYJjaAVugEPTCviLWf637GUDQpump`
 
 | Time | Action | SOL | TX |
@@ -512,7 +516,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.05x
+- **Peak:** 1.12x | **Current:** 1.01x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -855,7 +859,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.00x
+- **Peak:** 1.43x | **Current:** 1.07x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -1081,7 +1085,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.61x
+- **Peak:** 1.87x | **Current:** 1.52x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |

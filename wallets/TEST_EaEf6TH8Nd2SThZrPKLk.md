@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 08:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 25 |
-| Open | 1 |
+| Total Positions | 26 |
+| Open | 2 |
 | Closed | 24 |
 | SOL In (closed) | 0.014400 |
 | SOL Out (sells) | 0.015965 |
@@ -12,6 +12,15 @@
 | **ROI** | **+10.9%** |
 
 ## Trades
+
+### 🟢 JOBLESS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.11x | **Current:** 0.96x
+- **Mint:** `DnuHT413A8Q1JwQDriuVStHKSWQPF3b4ix69HR75pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:02:27 | BUY | 0.000600 | `5FAm5gMd3rjQqHBXrEz3LHvNbLjFvg...` |
 
 ### 🔴 Loom
 - **Status:** closed | **Exit:** ghost_close_stop_loss

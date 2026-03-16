@@ -1,5 +1,5 @@
 # [PRD] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 08:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 08:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -62,6 +62,7 @@
 | 2026-03-15 21:24:57 | SELL | 0.093857 | `31pbj9uD7XR7TEYAJrmyZkq6wHsVgw...` |
 | 2026-03-15 22:27:45 | SELL | 0.223053 | `2yd2ZqZvmVgMvENvyCGVgVZX8bdquH...` |
 | 2026-03-16 01:58:23 | BUY | 0.150000 | `GWiaPRNMdaNXEEypgraqa39FR8jauk...` |
+| 2026-03-16 08:04:09 | SELL | 0.000000 | `579C5yZT1FMQrVpqFmW4AZ8xspr3GS...` |
 
 ### 🔴 USATRADE
 - **Status:** closed | **Exit:** stale_position_cleanup
@@ -151,6 +152,7 @@
 | 2026-03-15 09:29:56 | BUY | 0.150000 | `45dxK9Mqokj9KA4gSduCQki358FqaA...` |
 | 2026-03-15 20:43:48 | SELL | 0.095672 | `5LkDMG2ZsjmsAXhGDjJzoznSmdoSkf...` |
 | 2026-03-16 00:56:41 | BUY | 0.150000 | `5HWTgDM2S6enUofzJmhJ1UmESnZcVU...` |
+| 2026-03-16 08:04:07 | SELL | 0.000000 | `3gYe61QmFraDDvB8BHRmWB7cJzE24f...` |
 
 ### 🔴 UGOR
 - **Status:** closed | **Exit:** ghost_close_zero_balance
