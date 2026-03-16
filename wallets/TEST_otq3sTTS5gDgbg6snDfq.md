@@ -1,22 +1,31 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 18:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 47 |
-| Open | 34 |
+| Total Positions | 48 |
+| Open | 35 |
 | Closed | 13 |
 | W/L | 4/9 |
 | SOL In (closed) | 0.007800 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+41.1%** |
-| Open Deployed | 0.015900 SOL |
+| Open Deployed | 0.016000 SOL |
 
 ## Trades
 
+### 🟢 RICH
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.96x
+- **Mint:** `69SdsqHydgT1XYYyLrC4DNnovUAvYgJEDbDcpLBJpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 18:01:37 | BUY | 0.000100 | `2KjoEBgyuQVMKBHum4j5HTAZjGTqCG...` |
+
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.09x | **Current:** 1.09x
 - **Mint:** `49R3X2iizoRLyXZBkJLudwzhgPi3AaP2GH69jkRLpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +70,7 @@
 
 ### 🟢 TRASH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `4iUob6N4n2mB3oacBHBhMegRZZFgAu7ycdEvCjm4pump`
 
 | Time | Action | SOL | TX |
@@ -133,7 +142,7 @@
 
 ### 🟢 Meta
 - **Status:** open | **Exit:** open
-- **Peak:** 1.46x | **Current:** 0.96x
+- **Peak:** 1.46x | **Current:** 0.89x
 - **Mint:** `ERALMpDpsFaSsPXPxcwYxZ1h9ZYLjji16zV9HWpbpump`
 
 | Time | Action | SOL | TX |
@@ -187,7 +196,7 @@
 
 ### 🟢 HIDE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `8AvsABLpk7aoqFTTf2Dym6KoeDbJZ3wTE4qcAmbSpump`
 
 | Time | Action | SOL | TX |
@@ -196,7 +205,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `BWokmiUXPVnNtMDp4Hy1y1mM9Fy1QntHBye9aZiPpump`
 
 | Time | Action | SOL | TX |
@@ -242,7 +251,7 @@
 
 ### 🟢 MCoins
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.68x
+- **Peak:** 1.00x | **Current:** 0.75x
 - **Mint:** `EYhtmNznq4BF1qJHj2s6SmvQBfA6JDNjococNzCSpump`
 
 | Time | Action | SOL | TX |

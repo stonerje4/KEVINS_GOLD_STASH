@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 18:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,17 +15,18 @@
 ## Trades
 
 ### 🟢 Moumou
-- **Status:** open | **Exit:** open
-- **Peak:** 1.72x | **Current:** 1.51x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.31x | **Current:** 2.28x
 - **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:43:46 | BUY | 0.000100 | `d7yT5ybqEAVDpvtqsm1NHTgediUeFm...` |
+| 2026-03-16 18:03:16 | SELL | 0.000023 | `5jADPQAPjPd6W9BnLfs2ucSJb8Wagb...` |
 
 ### 🟢 pandas
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.82x | **Current:** 3.28x
+- **Peak:** 3.82x | **Current:** 3.16x
 - **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
 
 | Time | Action | SOL | TX |
@@ -73,7 +74,7 @@
 
 ### 🟢 FUNNYBOT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.68x
+- **Peak:** 1.00x | **Current:** 0.70x
 - **Mint:** `9jV2dmQn9Tj41g6FA5Z7hrxV7XRgaUeHEWesmw7Fpump`
 
 | Time | Action | SOL | TX |
@@ -92,7 +93,7 @@
 
 ### 🟢 000
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.58x
+- **Peak:** 1.08x | **Current:** 0.63x
 - **Mint:** `B25ibEpgUpikZNYGhWzaSZizNRhsf45Hqk3gGKSXpump`
 
 | Time | Action | SOL | TX |
@@ -336,7 +337,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.21x
+- **Peak:** 1.74x | **Current:** 1.22x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

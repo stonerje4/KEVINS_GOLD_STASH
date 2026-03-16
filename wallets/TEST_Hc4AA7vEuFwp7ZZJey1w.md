@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Hc4AA7vEuFwp7ZZJey1wjCBXVyhthZKEjXVPgmzDGy6t`
-> Generated: 2026-03-16 18:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,11 +15,13 @@
 ## Trades
 
 ### 🟢 Clanker
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.94x
+- **Status:** partial | **Exit:** open
+- **Peak:** 3.70x | **Current:** 3.62x
 - **Mint:** `DZNivGU4kUmJTvW5CTkmTPs7hd376VxwgLzrkv7upump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:58:51 | BUY | 0.000100 | `4D68dU5giS5xcujwe7seV2kDemhkLJ...` |
+| 2026-03-16 18:03:20 | SELL | 0.000037 | `3Rg2V6dGaqBWyvPBko4k42okMSmn6R...` |
+| 2026-03-16 18:03:50 | SELL | 0.000028 | `2r2RLgJJTvmfY8GkshxM7FNctiiWbR...` |
 

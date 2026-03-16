@@ -1,31 +1,32 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 18:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 5 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000032 SOL** |
-| **Closed ROI** | **+31.9%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 4 |
+| Closed | 2 |
+| W/L | 2/0 |
+| SOL In (closed) | 0.000200 |
+| **Closed P&L** | **+0.000063 SOL** |
+| **Closed ROI** | **+31.3%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
-### 🟢 SHELLY
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.03x
+### 🔴 SHELLY
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.13x | **Current:** 0.31x
 - **Mint:** `Fh4GfsABm7GWCEToGNBY3PX15FMCg8GetTBLxsWqpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:54:25 | BUY | 0.000100 | `23yZAuPPWoYUpjzjiLohTURgMLAFiG...` |
+| 2026-03-16 18:01:37 | SELL | 0.000031 | `52Vv4s7UTZbtCakubn88qfCuN99vmw...` |
 
 ### 🟢 唐某某
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.47x | **Current:** 1.97x
+- **Peak:** 2.47x | **Current:** 1.71x
 - **Mint:** `9aaEaHnNezimeAqzzBuj4ha2uMFc4L17eGDiezS1ANfu`
 
 | Time | Action | SOL | TX |
@@ -35,7 +36,7 @@
 
 ### 🟢 MEATBAGS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.43x
+- **Peak:** 1.54x | **Current:** 0.53x
 - **Mint:** `EVxm9QG7UN9uNwg55pK8iz2xvs7TiqPJ1knM2Y6rpump`
 
 | Time | Action | SOL | TX |
