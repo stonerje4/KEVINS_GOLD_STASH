@@ -1,17 +1,36 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 05:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 70 |
+| Total Positions | 72 |
 | Open | 21 |
-| Closed | 49 |
-| SOL In (closed) | 0.029400 |
-| SOL Out (sells) | 0.024245 |
-| **P&L** | **-0.005155 SOL** |
-| **ROI** | **-17.5%** |
+| Closed | 51 |
+| SOL In (closed) | 0.030600 |
+| SOL Out (sells) | 0.025069 |
+| **P&L** | **-0.005531 SOL** |
+| **ROI** | **-18.1%** |
 
 ## Trades
+
+### 🔴 Dindim
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.68x
+- **Mint:** `3QhfAtV5kq3WhLTbkr2W2Fcemu4iNZ1FwM2jMnJXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:08:42 | BUY | 0.000600 | `3peoupW2cNSzVoaXM3Dpgsqa6dW6bB...` |
+| 2026-03-16 05:09:42 | SELL | 0.000407 | `5RgMfhe1esAb5JgaPQB5dynKUaW82z...` |
+
+### 🟢 TERMINAL
+- **Status:** open | **Exit:** open
+- **Peak:** 1.08x | **Current:** 1.08x
+- **Mint:** `9Vq6yjn9tgcNRNpaky5BiX5hU93ma9zDwaW5sUcepump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:08:19 | BUY | 0.000600 | `2Dy8wyVh75WcWYkEo7kX4ub4Ev12CV...` |
 
 ### 🔴 GREKE
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -23,14 +42,15 @@
 | 2026-03-16 05:02:24 | BUY | 0.000600 | `4odSHAnVHuiLP6t8jmBabrRgPMiDp2...` |
 | 2026-03-16 05:03:45 | SELL | 0.000270 | `5sGEpFvU1V4ruzRHtGx3MxUADs9sr5...` |
 
-### 🟢 LORD
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+### 🔴 LORD
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `FGqVi238dtES3741HrYvBCA1ttKnQMbPzE6tnmiSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:02:07 | BUY | 0.000600 | `5AALfRJwSkDna1ZfgYTL7wrs46TpZn...` |
+| 2026-03-16 05:07:00 | SELL | 0.000416 | `5G84eJant3xEKz6RsqfGxGUrqYe9kj...` |
 
 ### 🔴 ClawChan
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -53,7 +73,7 @@
 
 ### 🟢 Übermensch
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `651nrR2zXYRXX9qZFMVRfSgv1Faafep78XK65SeXpump`
 
 | Time | Action | SOL | TX |
@@ -81,7 +101,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 1.09x
+- **Peak:** 1.10x | **Current:** 1.09x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -276,7 +296,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.14x
+- **Peak:** 1.43x | **Current:** 0.96x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -545,7 +565,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.21x
+- **Peak:** 1.79x | **Current:** 1.20x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |

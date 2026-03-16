@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 05:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,9 +7,9 @@
 | Open | 8 |
 | Closed | 6 |
 | SOL In (closed) | 0.003600 |
-| SOL Out (sells) | 0.002989 |
-| **P&L** | **-0.000611 SOL** |
-| **ROI** | **-17.0%** |
+| SOL Out (sells) | 0.003347 |
+| **P&L** | **-0.000253 SOL** |
+| **ROI** | **-7.0%** |
 
 ## Trades
 
@@ -24,7 +24,7 @@
 
 ### 🟢 PARALLAX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.92x
+- **Peak:** 1.06x | **Current:** 0.89x
 - **Mint:** `42AgUeuxB8hpjL37k17xPCWQP96NXHenSHtM84vkpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 CIRBP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.16x
+- **Peak:** 1.63x | **Current:** 1.17x
 - **Mint:** `4HsKJjmF1n41KDtkYM9Cxu8LKV7YC9GLGnXe5YtBpump`
 
 | Time | Action | SOL | TX |
@@ -50,17 +50,18 @@
 | 2026-03-16 03:12:31 | BUY | 0.000600 | `4zyVb8cJBV8oCvPxTB7EGSWvnDvRVe...` |
 
 ### 🟢 herry
-- **Status:** open | **Exit:** open
-- **Peak:** 1.82x | **Current:** 1.82x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.03x | **Current:** 1.77x
 - **Mint:** `AMbTjmCCUoWH96dwAn1ukG5WigK86RBfZZ39K5ubpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:46:06 | BUY | 0.000600 | `2hYD4BA8F47Zb3zmtg2ZXK3rJ755dn...` |
+| 2026-03-16 05:06:58 | SELL | 0.000358 | `GyuEEKxY1iDj5gCmgEgqvyKf5QJFgJ...` |
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.96x
+- **Peak:** 1.24x | **Current:** 0.95x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
@@ -109,7 +110,7 @@
 
 ### 🟢 STARE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.87x
+- **Peak:** 1.03x | **Current:** 0.86x
 - **Mint:** `3KVLeJjgvYxeCqkMhFHp37V1e2LM8FaWgK2s4t4Hpump`
 
 | Time | Action | SOL | TX |

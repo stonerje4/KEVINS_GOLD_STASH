@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 05:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 19 |
-| Open | 1 |
+| Total Positions | 20 |
+| Open | 2 |
 | Closed | 18 |
 | SOL In (closed) | 0.010800 |
 | SOL Out (sells) | 0.009564 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 Chase
+- **Status:** open | **Exit:** open
+- **Peak:** 1.13x | **Current:** 1.13x
+- **Mint:** `pfFN4gHc6wMFbt5PC9HqUUyjEBGTJtwpk9EGfVBpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:09:31 | BUY | 0.000600 | `2HtR9SRUXHLUGwzBTXTn2HLG1yvTpB...` |
+
 ### 🟢 GINGER
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `5XVABeWf82sx9UHSj6z8hNPFQ21EvfqvKkgqrHr8pump`
 
 | Time | Action | SOL | TX |
