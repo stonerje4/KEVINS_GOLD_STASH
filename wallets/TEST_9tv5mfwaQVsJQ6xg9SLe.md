@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 18:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -36,7 +36,7 @@
 
 ### 🟢 MEATBAGS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.55x
+- **Peak:** 1.54x | **Current:** 0.57x
 - **Mint:** `EVxm9QG7UN9uNwg55pK8iz2xvs7TiqPJ1knM2Y6rpump`
 
 | Time | Action | SOL | TX |
@@ -45,7 +45,7 @@
 
 ### 🟢 OpenHome
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 1.12x
+- **Peak:** 1.46x | **Current:** 1.46x
 - **Mint:** `2WovvZ1KJrvWFS3KqPsCDGH8PVQaCmDuz4xDkoFbpump`
 
 | Time | Action | SOL | TX |
@@ -64,7 +64,7 @@
 
 ### 🟢 TANG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 0.93x
+- **Peak:** 1.90x | **Current:** 0.94x
 - **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
 
 | Time | Action | SOL | TX |

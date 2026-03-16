@@ -1,22 +1,31 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 18:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 87 |
-| Open | 23 |
+| Total Positions | 88 |
+| Open | 24 |
 | Closed | 64 |
 | W/L | 62/2 |
 | SOL In (closed) | 0.029900 |
 | **Closed P&L** | **+0.024423 SOL** |
 | **Closed ROI** | **+81.7%** |
-| Open Deployed | 0.003300 SOL |
+| Open Deployed | 0.003400 SOL |
 
 ## Trades
 
+### 🟢 ClaudeDog
+- **Status:** open | **Exit:** open
+- **Peak:** 1.45x | **Current:** 1.14x
+- **Mint:** `ErSXPiXyRgfg1yKmMrK5unh3mWi52kA9KUX2mNgNpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 18:18:52 | BUY | 0.000100 | `449x3quteUGhYpAPZvLWYe7s8eNki5...` |
+
 ### 🟢 Angela
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Peak:** 1.00x | **Current:** 0.61x
 - **Mint:** `2SJK5Z9PzkLYyCQq3iqnqew6wh72apZWYbTQKuAjpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 ClaudeDog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.61x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `DvCD1SrBHB3oZjg36FNkkm61Wk41w1KhD86J7LNgpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 Moumou
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.80x | **Current:** 2.54x
+- **Peak:** 2.80x | **Current:** 2.11x
 - **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +53,7 @@
 
 ### 🟢 pandas
 - **Status:** partial | **Exit:** open
-- **Peak:** 5.52x | **Current:** 5.08x
+- **Peak:** 5.98x | **Current:** 5.50x
 - **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
 
 | Time | Action | SOL | TX |
@@ -112,7 +121,7 @@
 
 ### 🟢 000
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.47x
+- **Peak:** 1.08x | **Current:** 0.46x
 - **Mint:** `B25ibEpgUpikZNYGhWzaSZizNRhsf45Hqk3gGKSXpump`
 
 | Time | Action | SOL | TX |
@@ -356,7 +365,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.49x
+- **Peak:** 1.74x | **Current:** 1.52x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |
