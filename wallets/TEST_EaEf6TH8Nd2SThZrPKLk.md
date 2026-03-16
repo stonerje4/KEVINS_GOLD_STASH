@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 15:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 69 |
-| Open | 11 |
+| Total Positions | 70 |
+| Open | 12 |
 | Closed | 58 |
 | W/L | 57/1 |
 | SOL In (closed) | 0.033300 |
 | **Closed P&L** | **+0.027927 SOL** |
 | **Closed ROI** | **+83.9%** |
-| Open Deployed | 0.003100 SOL |
+| Open Deployed | 0.003200 SOL |
 
 ## Trades
 
+### 🟢 $GPIG
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `EFMZGydKawguYnLYKuqeYvnp4MgvWaJNCGMSdRd7pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:39:23 | BUY | 0.000100 | `2Pbr9gL2SJMzMBqnSPyRfRFM1H5pNa...` |
+
 ### 🟢 Dozer
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.97x | **Current:** 1.72x
+- **Peak:** 2.97x | **Current:** 2.10x
 - **Mint:** `JB92sKqTtgyfAaYcpg5x8Jau2m73jUfsyEHkpRRspump`
 
 | Time | Action | SOL | TX |
@@ -26,7 +35,7 @@
 
 ### 🟢 ZYNFIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `AGgpWLrTfzBZq5Tpih2m72hpRVoZovVb68RqJSirpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +53,7 @@
 
 ### 🟢 flea
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.29x | **Current:** 3.29x
+- **Peak:** 3.29x | **Current:** 2.65x
 - **Mint:** `2ZxvZtqXEpHGE5QnxrFWN1Bp78vcovfwgm1gA4BDpump`
 
 | Time | Action | SOL | TX |
@@ -74,7 +83,7 @@
 
 ### 🟢 CHANGSHA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 1.10x
+- **Peak:** 1.55x | **Current:** 1.00x
 - **Mint:** `2CZjXETQ9efUDNT6iYgX2bn6Stuxk1FenxhCCsagpump`
 
 | Time | Action | SOL | TX |
@@ -93,7 +102,7 @@
 
 ### 🟢 DIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.10x
+- **Peak:** 1.12x | **Current:** 1.02x
 - **Mint:** `H9Jt1usRpJkbFSJinbhd9XokafnKi2mdfyCe6e2xpump`
 
 | Time | Action | SOL | TX |
@@ -246,7 +255,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.16x
+- **Peak:** 1.50x | **Current:** 1.12x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |
@@ -304,7 +313,7 @@
 
 ### 🟢 MATM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.64x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `9gg1QdcoEcqFaYZeA1FhMWw9i2BPJMrx1c6UH6CKpump`
 
 | Time | Action | SOL | TX |

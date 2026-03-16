@@ -1,4 +1,4 @@
-# [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
+# [TEST] Wallet: `FLaEfdxssrDRDr5AhFcfqJdXaWw8tXTP8p7vc9kotcni`
 > Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 TJR
+### 🟢 Quagsire
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
-- **Mint:** `8BTZX2EJoKFB4XsWvYZN9zP6ENZptRCoiPBCidHbpump`
+- **Peak:** 1.03x | **Current:** 1.03x
+- **Mint:** `5868Jrr3S9ywjf26YYRwa1nN2XzSUycbagRRfsSzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 15:13:16 | BUY | 0.000100 | `4JZKBiWQqmGtUcejsmUKjZMvuhU1Go...` |
+| 2026-03-16 15:39:41 | BUY | 0.000100 | `4MSbAQ85v9fpRfUCWN86amsiwHGem5...` |
 

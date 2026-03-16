@@ -1,18 +1,36 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 15:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 234 |
-| Open | 62 |
+| Total Positions | 236 |
+| Open | 64 |
 | Closed | 172 |
 | W/L | 167/5 |
 | SOL In (closed) | 0.097700 |
 | **Closed P&L** | **+0.085478 SOL** |
 | **Closed ROI** | **+87.5%** |
-| Open Deployed | 0.030200 SOL |
+| Open Deployed | 0.030400 SOL |
 
 ## Trades
+
+### 🟢 Ghost
+- **Status:** open | **Exit:** open
+- **Peak:** 1.14x | **Current:** 1.14x
+- **Mint:** `HHQ8HRAz4diPYgHxCU2JxD4k4w3VomtfhLD9qpYCpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:38:21 | BUY | 0.000100 | `3g2zRfNoNThp2pFdqCv2QK3ijwbqv9...` |
+
+### 🟢 Ringgate
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 1.00x
+- **Mint:** `14jGRHTM7xVkGNacB4S4DQG68a9ULqEh4autQcdLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:37:04 | BUY | 0.000100 | `5ko7Yq5s29gPah27SGTLu2DZvdpcSL...` |
 
 ### 🟢 Derp
 - **Status:** open | **Exit:** open
@@ -25,7 +43,7 @@
 
 ### 🟢 eˣ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.82x
+- **Peak:** 1.11x | **Current:** 0.70x
 - **Mint:** `3WzCQw7fkFhCZ7z1yktb3wjdpNxvCYankDSypvYupump`
 
 | Time | Action | SOL | TX |
@@ -44,13 +62,14 @@
 | 2026-03-16 15:24:11 | SELL | 0.000081 | `5aCxq9ZWWaC9r9cYRHYybeqZBTdC9i...` |
 
 ### 🟢 EXPO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.58x | **Current:** 1.51x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.14x | **Current:** 2.06x
 - **Mint:** `Gmv4DEdi3GPLwCLnjJc1C99qbC9iLaZepUwE3pr8pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:17:33 | BUY | 0.000100 | `3sm45UxSgTDZNV9dM3mWTFWUm7bXCv...` |
+| 2026-03-16 15:37:44 | SELL | 0.000020 | `2J1qHLJDYG2JfEiU3QYSpoPueNKQMW...` |
 
 ### 🟢 MOLO
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -217,7 +236,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.11x | **Current:** 1.91x
+- **Peak:** 2.11x | **Current:** 1.83x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -227,7 +246,7 @@
 
 ### 🟢 Mood
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.91x
+- **Peak:** 1.09x | **Current:** 0.90x
 - **Mint:** `CmksFbQGiPBzxLmetQFAthSd6swiRj7fo39X5ZZ3pump`
 
 | Time | Action | SOL | TX |
@@ -236,7 +255,7 @@
 
 ### 🟢 Lego
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.73x
+- **Peak:** 1.23x | **Current:** 0.72x
 - **Mint:** `EYUarhfrehcfgbLgLxri7mQrBqZojvUxs8pEDzzrpump`
 
 | Time | Action | SOL | TX |
@@ -295,7 +314,7 @@
 
 ### 🟢 GIGA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+- **Peak:** 1.20x | **Current:** 1.19x
 - **Mint:** `GPkgbpn4kKThpa2cJcGpNJi27QMzdxg3HSmaN6Agpump`
 
 | Time | Action | SOL | TX |
@@ -473,7 +492,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 1.15x
+- **Peak:** 1.80x | **Current:** 1.13x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -608,7 +627,7 @@
 
 ### 🟢 Angela
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.69x | **Current:** 1.59x
+- **Peak:** 2.69x | **Current:** 1.74x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |

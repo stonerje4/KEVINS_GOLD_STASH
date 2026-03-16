@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-16 15:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -35,8 +35,8 @@
 | 2026-03-16 01:42:13 | SELL | 0.000413 | `5rUVGEtEmG81y3vaM2kU5i8HWvqyEM...` |
 
 ### 🟢 VIBE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Status:** partial | **Exit:** stale_cleanup
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `AwAYKaCJhZHQA7pduUxG4FZgPNtBF9pvVSSnPFxJpump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,22 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 15:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 51 |
-| Open | 35 |
-| Closed | 16 |
-| W/L | 8/8 |
-| SOL In (closed) | 0.019000 |
-| **Closed P&L** | **+0.008297 SOL** |
-| **Closed ROI** | **+43.7%** |
-| Open Deployed | 0.019000 SOL |
+| Open | 33 |
+| Closed | 18 |
+| W/L | 9/9 |
+| SOL In (closed) | 0.019700 |
+| **Closed P&L** | **+0.008452 SOL** |
+| **Closed ROI** | **+42.9%** |
+| Open Deployed | 0.018300 SOL |
 
 ## Trades
 
 ### 🟢 Toly
-- **Status:** partial | **Exit:** open
-- **Peak:** 4.83x | **Current:** 3.31x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 4.83x | **Current:** 1.22x
 - **Mint:** `HwV3VpprtjYEvvnDgBj6Ro1xKY81ubETYh3ZY3qApump`
 
 | Time | Action | SOL | TX |
@@ -24,20 +24,22 @@
 | 2026-03-16 15:16:19 | BUY | 0.000100 | `BEM8ULGekREeaGxSMgJSNg6Q9hHSCx...` |
 | 2026-03-16 15:21:20 | SELL | 0.000021 | `2tfMe6NmHwZ8yYwTeXxTGdpDJ9nq5T...` |
 | 2026-03-16 15:24:09 | SELL | 0.000037 | `2ZzWqbfioqS7eW75FJNm6Am8WPD1XM...` |
+| 2026-03-16 15:35:19 | SELL | 0.000098 | `53rFb5SmCkahTgatNZkYFJZjkRcXWK...` |
 
 ### 🟢 ALIVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.73x | **Current:** 2.73x
+- **Peak:** 3.02x | **Current:** 2.61x
 - **Mint:** `9JnbEQ9YqJKm2CMo1RqSyYBSbGJTtB2Md6QruAXWpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:11:48 | BUY | 0.000100 | `YTHz8zxTjLrANELh4JFcfiNBqRv67Q...` |
 | 2026-03-16 15:33:08 | SELL | 0.000021 | `2F4oFEsfTkQPguB4WPr2DCp8uw6HSA...` |
+| 2026-03-16 15:37:41 | SELL | 0.000027 | `4346WDX9vykLuKjEzgLwvhwh6KNaee...` |
 
 ### 🟢 DroydAI
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.07x | **Current:** 4.07x
+- **Peak:** 4.88x | **Current:** 4.88x
 - **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
 
 | Time | Action | SOL | TX |
@@ -198,7 +200,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |
@@ -255,7 +257,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
@@ -403,8 +405,8 @@
 |------|--------|-----|----|
 | 2026-03-16 01:49:41 | BUY | 0.000600 | `5b1uXjgmRhuK5J5DLPFTSM4MQXGo5M...` |
 
-### 🟢 Signets
-- **Status:** open | **Exit:** open
+### 🔴 Signets
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.71x | **Current:** 0.83x
 - **Mint:** `6HeVNiUz7jwsqSEun7E3C1S9FyHacr9vy7DBQXBgpump`
 

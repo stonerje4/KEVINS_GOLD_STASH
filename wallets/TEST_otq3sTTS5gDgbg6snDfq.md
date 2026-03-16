@@ -1,16 +1,16 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 15:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 41 |
-| Open | 30 |
-| Closed | 11 |
-| W/L | 4/7 |
-| SOL In (closed) | 0.006600 |
+| Open | 29 |
+| Closed | 12 |
+| W/L | 4/8 |
+| SOL In (closed) | 0.007200 |
 | **Closed P&L** | **+0.003202 SOL** |
-| **Closed ROI** | **+48.5%** |
-| Open Deployed | 0.016500 SOL |
+| **Closed ROI** | **+44.5%** |
+| Open Deployed | 0.015900 SOL |
 
 ## Trades
 
@@ -43,7 +43,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -225,7 +225,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
@@ -317,8 +317,8 @@
 |------|--------|-----|----|
 | 2026-03-16 02:05:19 | BUY | 0.000600 | `SupTSebJQXo8Z6oQZosqFRjxFJ6QAr...` |
 
-### 🟢 UDC
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 UDC
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.12x | **Current:** 0.85x
 - **Mint:** `9z797YSc8cqk1if2p9b9aStQ45v4vZtu6BjXaF8Dpump`
 
