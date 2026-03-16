@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 07:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 100 |
-| Open | 25 |
+| Total Positions | 101 |
+| Open | 26 |
 | Closed | 75 |
 | SOL In (closed) | 0.045000 |
 | SOL Out (sells) | 0.045543 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 Kabbalah
+- **Status:** open | **Exit:** open
+- **Peak:** 1.06x | **Current:** 1.00x
+- **Mint:** `FKbtme1XP2kXkjCXkNccueL86UHxmk8TvnSUEsqqpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:13:41 | BUY | 0.000600 | `23rcWb83RYymoWaMobLrxdxGReqBpP...` |
+
 ### 🟢 PLAMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 1.27x
+- **Peak:** 1.44x | **Current:** 1.36x
 - **Mint:** `D1eTUxKkAfTWKEWSYJjaAVugEPTCviLWf637GUDQpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +53,7 @@
 
 ### 🟢 TOKEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `Go3J5WxxRJjr56kC271ztysCuePQyKur3DPGckNSpump`
 
 | Time | Action | SOL | TX |
@@ -732,7 +741,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.04x
+- **Peak:** 1.43x | **Current:** 1.08x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -855,7 +864,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.20x
+- **Peak:** 1.79x | **Current:** 1.30x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
@@ -957,7 +966,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.74x
+- **Peak:** 1.87x | **Current:** 1.70x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |

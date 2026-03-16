@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 19 |
-| Open | 2 |
+| Total Positions | 21 |
+| Open | 4 |
 | Closed | 17 |
 | SOL In (closed) | 0.010200 |
 | SOL Out (sells) | 0.011504 |
@@ -13,9 +13,27 @@
 
 ## Trades
 
+### 🟢 TSUZUMI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.83x
+- **Mint:** `4WeXDXwe1MPZDbbLRzGPDmKj5eb8v9EWk8wnwpHdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:11:54 | BUY | 0.000600 | `3YYtt7yZ62JoEz6JfcPHhNeaZhH4DQ...` |
+
+### 🟢 alonxbt
+- **Status:** open | **Exit:** open
+- **Peak:** 1.29x | **Current:** 1.29x
+- **Mint:** `4RKfEKd6H7TDDKGfyp7Xt4qoGiGy56KkR9nLcVaXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:11:45 | BUY | 0.000600 | `3c9SgWBhd57XvsDep9MERm6mt4cXen...` |
+
 ### 🟢 BRUNO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.78x
+- **Peak:** 1.06x | **Current:** 0.75x
 - **Mint:** `7qZTpYKzFr6pf1D4cjL92pUHHukAZLxS4QRZmsuKpump`
 
 | Time | Action | SOL | TX |
