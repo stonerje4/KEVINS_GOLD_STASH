@@ -1,5 +1,5 @@
 # Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-16 00:25 UTC
+> Generated: 2026-03-16 00:30 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -7,9 +7,9 @@
 | Open | 1 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000866 |
-| **P&L** | **+0.000266 SOL** |
-| **ROI** | **+44.3%** |
+| SOL Out (sells) | 0.001558 |
+| **P&L** | **+0.000958 SOL** |
+| **ROI** | **+159.7%** |
 
 ## Trades
 
@@ -24,11 +24,12 @@
 
 ### 🟢 POKEMAPS
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.94x | **Current:** 3.99x
+- **Peak:** 5.56x | **Current:** 5.21x
 - **Mint:** `4Ehuuwj6KBtcAaE21ahSMErATgiaU2hEFpn5o4Vtpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:38:04 | BUY | 0.000600 | `27bKnF1wyTqWU8XmKMNRR4xhJAHYLd...` |
 | 2026-03-16 00:13:37 | SELL | 0.000866 | `5trKSMpRAVpKys6T7HPYTxZF6W2a47...` |
+| 2026-03-16 00:28:32 | SELL | 0.000693 | `VrcQVKZC1Nb3MJCFHisMiKGD3DUzJt...` |
 

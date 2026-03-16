@@ -1,10 +1,10 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 00:25 UTC
+> Generated: 2026-03-16 00:30 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 6 |
+| Total Positions | 7 |
+| Open | 7 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.000000 |
@@ -12,6 +12,15 @@
 | **ROI** | **+0.0%** |
 
 ## Trades
+
+### 🟢 NPC
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `5NrVvCRuNctUbQTkSP8pwEeAd4n9g59bguUgUn7npump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 00:25:48 | BUY | 0.000600 | `4L5gMULL67swqjYDAaYqT9zXE11TLg...` |
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
