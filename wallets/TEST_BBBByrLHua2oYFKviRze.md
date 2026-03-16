@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Escobird
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.44x | **Current:** 0.65x
 - **Mint:** `A9Bfdts9BgqpBSrw8JreVDBqBKVKeGJg9BNjBkx2pump`
 
 | Time | Action | SOL | TX |
@@ -148,7 +148,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.94x
+- **Peak:** 1.74x | **Current:** 1.05x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

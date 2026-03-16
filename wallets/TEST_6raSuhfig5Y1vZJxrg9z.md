@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 2024
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 TRADES
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 1.17x
+- **Peak:** 1.45x | **Current:** 1.45x
 - **Mint:** `DPC15FkyULBUTNxQZfaNr42FCQsABteGUAovzGCYpump`
 
 | Time | Action | SOL | TX |

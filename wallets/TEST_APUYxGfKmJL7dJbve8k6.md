@@ -1,18 +1,37 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 33 |
-| Open | 3 |
+| Total Positions | 35 |
+| Open | 5 |
 | Closed | 30 |
 | W/L | 26/4 |
 | SOL In (closed) | 0.014000 |
 | **Closed P&L** | **+0.009179 SOL** |
 | **Closed ROI** | **+65.6%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
+
+### 🟢 clod
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.04x | **Current:** 1.78x
+- **Mint:** `6Rxnx68LMiuyfeRCpouJ3giG7XyEGCPUVDuBBMuhpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:36:09 | BUY | 0.000100 | `4i6Lsudd9QXVA6DjJgZeDUMLWnuqiH...` |
+| 2026-03-16 16:39:22 | SELL | 0.000020 | `321P3wASmqbGkLxysuE7u3EhMPagqb...` |
+
+### 🟢 VIBECOIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.61x
+- **Mint:** `H2rsHtFZgyhWM5cAuV1upxLomQKcmqHDux8RjcGtpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:35:31 | BUY | 0.000100 | `4JEvPJJs5U2u7cTEGqxLes8QfADCqF...` |
 
 ### 🔴 Wif
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -36,7 +55,7 @@
 
 ### 🟢 DICK
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.38x | **Current:** 2.20x
+- **Peak:** 2.38x | **Current:** 1.83x
 - **Mint:** `5ZGbkpfWUNUHgo8WyAweQnNLecj8GfP4ax6uc5ha3JmD`
 
 | Time | Action | SOL | TX |

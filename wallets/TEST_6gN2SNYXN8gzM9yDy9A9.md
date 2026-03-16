@@ -1,16 +1,16 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 3 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.001400 |
+| Open | 2 |
+| Closed | 5 |
+| W/L | 4/1 |
+| SOL In (closed) | 0.002000 |
 | **Closed P&L** | **+0.000960 SOL** |
-| **Closed ROI** | **+68.6%** |
-| Open Deployed | 0.000800 SOL |
+| **Closed ROI** | **+48.0%** |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
@@ -37,7 +37,7 @@
 
 ### 🟢 Stare
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.45x
+- **Peak:** 1.02x | **Current:** 0.46x
 - **Mint:** `CGjA6fRxrA1X9UWTzFbNMxTTegkyBRtPgoLHgkzhpump`
 
 | Time | Action | SOL | TX |
@@ -74,8 +74,8 @@
 | 2026-03-16 01:39:17 | BUY | 0.000600 | `3pgdfHyXh4tft8B1AQzcrp1hLwpsBX...` |
 | 2026-03-16 01:42:13 | SELL | 0.000413 | `5rUVGEtEmG81y3vaM2kU5i8HWvqyEM...` |
 
-### 🟢 VIBE
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 VIBE
+- **Status:** closing | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `AwAYKaCJhZHQA7pduUxG4FZgPNtBF9pvVSSnPFxJpump`
 

@@ -1,16 +1,16 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 53 |
-| Open | 33 |
-| Closed | 20 |
-| W/L | 11/9 |
-| SOL In (closed) | 0.019900 |
-| **Closed P&L** | **+0.008784 SOL** |
-| **Closed ROI** | **+44.1%** |
-| Open Deployed | 0.018300 SOL |
+| Open | 31 |
+| Closed | 22 |
+| W/L | 12/10 |
+| SOL In (closed) | 0.020600 |
+| **Closed P&L** | **+0.008891 SOL** |
+| **Closed ROI** | **+43.2%** |
+| Open Deployed | 0.017600 SOL |
 
 ## Trades
 
@@ -71,14 +71,15 @@
 | 2026-03-16 16:07:27 | SELL | 0.000084 | `5UHrT46u1o529qrAQdz7jhiYDtCHq8...` |
 
 ### 🟢 Moonigga
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.02x | **Current:** 1.21x
+- **Status:** closing | **Exit:** runner_trailing_stop
+- **Peak:** 2.02x | **Current:** 0.98x
 - **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:54:44 | BUY | 0.000100 | `6zFv7bLkMtSkRshJzT51ypvef9iFwj...` |
 | 2026-03-16 15:46:20 | SELL | 0.000020 | `39YK9q4MYmwN1NZRYdMpSnkRm3Jcg9...` |
+| 2026-03-16 16:39:57 | SELL | 0.000088 | `5ZftGnVaMtuX7Wt6uiFvhzuiMSsvb3...` |
 
 ### 🟢 CL
 - **Status:** open | **Exit:** open
@@ -167,7 +168,7 @@
 
 ### 🟢 DegenMeta
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.82x
+- **Peak:** 1.02x | **Current:** 0.90x
 - **Mint:** `DaMDDC7zSR95VykeWX5kFWywhvsSuS4mREvLE8Rppump`
 
 | Time | Action | SOL | TX |
@@ -298,7 +299,7 @@
 
 ### 🟢 Wife
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `RSvkQUEBvN9bQ56cSmnu5wJkdTFXjBqAMpYQcSUpump`
 
 | Time | Action | SOL | TX |
@@ -363,7 +364,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |
@@ -419,8 +420,8 @@
 | 2026-03-16 02:21:08 | SELL | 0.000430 | `5ZVHGSNRuVVhV7nn2gX3KnyDLZsQ7a...` |
 | 2026-03-16 02:21:39 | SELL | 0.000373 | `3ncV6n8Z9eZP2QaNeU7frUVmoU9wRm...` |
 
-### 🟢 GSD2
-- **Status:** open | **Exit:** open
+### 🔴 GSD2
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.21x | **Current:** 0.79x
 - **Mint:** `DN2SA3CRMRa6K14T52VnTkdPVQ7d1W882f4rFV4Fi8n`
 
