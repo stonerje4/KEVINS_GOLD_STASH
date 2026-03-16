@@ -1,18 +1,36 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 17:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 79 |
-| Open | 19 |
+| Total Positions | 81 |
+| Open | 21 |
 | Closed | 60 |
 | W/L | 58/2 |
 | SOL In (closed) | 0.029500 |
 | **Closed P&L** | **+0.024159 SOL** |
 | **Closed ROI** | **+81.9%** |
-| Open Deployed | 0.002900 SOL |
+| Open Deployed | 0.003100 SOL |
 
 ## Trades
+
+### 🟢 Fraudmaxxing
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 1.01x
+- **Mint:** `2e4V2cfzrSj7tjY676JbFLf5Pm3gCNEE4tkJyhi4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:24:10 | BUY | 0.000100 | `36rfWNZhrz4mLBnXcdju9rgrzqNe6F...` |
+
+### 🟢 NEMO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 0.73x
+- **Mint:** `EDNHXRbAzUfqNeEmZ4zzxVQH8mwsVj2VjzHozGGBfU9f`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:22:40 | BUY | 0.000100 | `3qZm8EAiUrPbzAfR2Ero3GLKhDKRTf...` |
 
 ### 🟢 FUNNYBOT
 - **Status:** open | **Exit:** open
@@ -25,7 +43,7 @@
 
 ### 🟢 Clanker
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.71x
+- **Peak:** 1.20x | **Current:** 0.72x
 - **Mint:** `8A1rqTeouywderY8n7jwLDcZRzYSLi3mSfdqAnnfpump`
 
 | Time | Action | SOL | TX |
@@ -55,7 +73,7 @@
 
 ### 🟢 Rocketman
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 0.87x
+- **Peak:** 1.73x | **Current:** 0.58x
 - **Mint:** `3AVfhVVkgoZxCocQjGrXXZNTZsaGEpJF1ffz1euZpump`
 
 | Time | Action | SOL | TX |
@@ -73,13 +91,14 @@
 
 ### 🟢 K-Dense
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.45x | **Current:** 2.45x
+- **Peak:** 3.52x | **Current:** 2.95x
 - **Mint:** `37oc6mzcT1cLb5yf88mzZnXvccheSTUft3xq92z4pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:08:30 | BUY | 0.000100 | `5Td4SVKWpPbvaFpiPxJaAPUFEZDM3A...` |
 | 2026-03-16 17:19:17 | SELL | 0.000024 | `3HGch5HXXv8EtH6pC2fPEyCDBdvrvv...` |
+| 2026-03-16 17:20:58 | SELL | 0.000028 | `4jzwHef44qavxffe3WxVDLWyWF7eKQ...` |
 
 ### 🟢 RAVEN
 - **Status:** open | **Exit:** open
@@ -275,7 +294,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.20x
+- **Peak:** 1.74x | **Current:** 1.14x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

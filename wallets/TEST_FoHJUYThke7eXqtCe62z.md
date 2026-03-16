@@ -1,28 +1,38 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 17:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 54 |
-| Open | 32 |
+| Total Positions | 55 |
+| Open | 33 |
 | Closed | 22 |
 | W/L | 12/10 |
 | SOL In (closed) | 0.020600 |
 | **Closed P&L** | **+0.008891 SOL** |
 | **Closed ROI** | **+43.2%** |
-| Open Deployed | 0.017700 SOL |
+| Open Deployed | 0.017800 SOL |
 
 ## Trades
 
+### 🟢 A17
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `GsJRsRRapMiDd9Tb3FrTuZPmxQg5RBG52BjWw6Fb1KT5`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:23:44 | BUY | 0.000100 | `5wzYaLnCwf79d2zbTraWcDMUC4gyQA...` |
+
 ### 🟢 RAVEN
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.62x | **Current:** 2.24x
+- **Peak:** 4.22x | **Current:** 3.53x
 - **Mint:** `6aeUKhVibBWEf21vd9N8YnLhNQkfzKWSkeucFyZvpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:07:55 | BUY | 0.000100 | `2PJELSEKBdEKfZ6Ahthp2L8FdbTNvk...` |
 | 2026-03-16 17:09:13 | SELL | 0.000021 | `58fkBtksF7EZhJDq5aRtoWw43gcpfP...` |
+| 2026-03-16 17:22:06 | SELL | 0.000033 | `cgxoH3EChBLoAcsvsTSyD54pZ47W7C...` |
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
@@ -225,7 +235,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.82x
+- **Peak:** 1.06x | **Current:** 0.91x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |
@@ -412,7 +422,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |

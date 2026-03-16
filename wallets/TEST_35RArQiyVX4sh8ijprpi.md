@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-16 17:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Rocketman
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.42x
+- **Peak:** 1.02x | **Current:** 0.41x
 - **Mint:** `a4g2BeuF66q8dbjwxVJ792tT3KM27ze8ZQAmCzNpump`
 
 | Time | Action | SOL | TX |

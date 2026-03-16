@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 17:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 88 |
-| Open | 16 |
+| Total Positions | 89 |
+| Open | 17 |
 | Closed | 72 |
 | W/L | 71/1 |
 | SOL In (closed) | 0.035200 |
 | **Closed P&L** | **+0.029650 SOL** |
 | **Closed ROI** | **+84.2%** |
-| Open Deployed | 0.003100 SOL |
+| Open Deployed | 0.003200 SOL |
 
 ## Trades
 
+### 🟢 🦞Y🦞
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.55x
+- **Mint:** `dXDm5y19t4sNkfqyMXjHbdVfDKcdfoytwUnfh9cpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:21:08 | BUY | 0.000100 | `2CvxREd4rpgTggJgK9TaVsZGL9q499...` |
+
 ### 🟢 AGENTDUCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `GdSNWowq9KRg4gMEBhewdXsud7YECm8KBwT66gxDpump`
 
 | Time | Action | SOL | TX |
@@ -35,7 +44,7 @@
 
 ### 🟢 唐某某
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.51x
+- **Peak:** 1.04x | **Current:** 0.44x
 - **Mint:** `DH6WNNPRgLgEteFUaXTZB2hAUgqt434vsXudsQpGpump`
 
 | Time | Action | SOL | TX |

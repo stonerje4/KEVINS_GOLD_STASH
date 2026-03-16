@@ -1,5 +1,5 @@
 # [TEST] Wallet: `GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW`
-> Generated: 2026-03-16 17:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 TEST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `88jLAVQdGb4e4pUDD9AbaZKVAiLB3FrtC5CwTrnFdCSD`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.66x
+- **Peak:** 1.00x | **Current:** 0.65x
 - **Mint:** `6CKK6YTjgdv2n7U4J78zF97AHASqSQiYvCcoBzyFpump`
 
 | Time | Action | SOL | TX |
