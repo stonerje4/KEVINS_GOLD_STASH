@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 18:07 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -29,7 +29,7 @@
 
 ### 🟢 SME
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.20x | **Current:** 1.86x
+- **Peak:** 2.20x | **Current:** 1.38x
 - **Mint:** `Dh6HtEHN6AmghFNYh3nzR2SPq1h4ub8HEMAC2Abrpump`
 
 | Time | Action | SOL | TX |
@@ -59,7 +59,7 @@
 
 ### 🟢 SIRI
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.18x | **Current:** 2.08x
+- **Peak:** 3.18x | **Current:** 2.47x
 - **Mint:** `8S2iD5M7HwE5zXC4u6ReaPLGdztTM24d9JCVREu5pump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +212,7 @@
 
 ### 🟢 LIQUORA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 0.44x
+- **Peak:** 1.36x | **Current:** 0.45x
 - **Mint:** `FppyXdz1bp6VHvraf7QVkNo7EfdYNqZDunEQ5Gk3pump`
 
 | Time | Action | SOL | TX |
@@ -536,7 +536,7 @@
 
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.70x
+- **Peak:** 1.12x | **Current:** 0.65x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |

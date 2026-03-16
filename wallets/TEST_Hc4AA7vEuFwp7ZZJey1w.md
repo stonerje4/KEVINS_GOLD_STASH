@@ -1,22 +1,22 @@
 # [TEST] Wallet: `Hc4AA7vEuFwp7ZZJey1wjCBXVyhthZKEjXVPgmzDGy6t`
-> Generated: 2026-03-16 18:07 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 1 |
-| Open | 1 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 1 |
+| W/L | 1/0 |
+| SOL In (closed) | 0.000100 |
+| **Closed P&L** | **+0.000183 SOL** |
+| **Closed ROI** | **+182.5%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
 ### 🟢 Clanker
-- **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 3.70x | **Current:** 1.46x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.70x | **Current:** 0.56x
 - **Mint:** `DZNivGU4kUmJTvW5CTkmTPs7hd376VxwgLzrkv7upump`
 
 | Time | Action | SOL | TX |

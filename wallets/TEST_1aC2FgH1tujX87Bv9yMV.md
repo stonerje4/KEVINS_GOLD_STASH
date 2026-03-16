@@ -1,5 +1,5 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-16 18:07 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PIGEON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `HUvdhx4exbZK9Rp2rfwGvcL6bTPTuYeQqKFER6b5X3aF`
 
 | Time | Action | SOL | TX |
@@ -35,7 +35,7 @@
 
 ### 🟢 MILK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 0.91x
+- **Peak:** 1.38x | **Current:** 0.92x
 - **Mint:** `4G4eWdTrmApqMazmahAdVXwB51rrSBNWMsYJDPJhpump`
 
 | Time | Action | SOL | TX |

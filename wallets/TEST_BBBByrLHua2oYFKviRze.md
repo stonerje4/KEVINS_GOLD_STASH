@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 18:07 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Angela
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `2SJK5Z9PzkLYyCQq3iqnqew6wh72apZWYbTQKuAjpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 ClaudeDog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
+- **Peak:** 1.00x | **Current:** 0.60x
 - **Mint:** `DvCD1SrBHB3oZjg36FNkkm61Wk41w1KhD86J7LNgpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Moumou
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.58x | **Current:** 2.42x
+- **Peak:** 2.58x | **Current:** 1.86x
 - **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +44,7 @@
 
 ### 🟢 pandas
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.45x | **Current:** 4.45x
+- **Peak:** 5.52x | **Current:** 5.03x
 - **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
 
 | Time | Action | SOL | TX |
@@ -52,6 +52,7 @@
 | 2026-03-16 17:41:30 | BUY | 0.000100 | `5QKb3TEJ5vq3EdkCPoNwNkgEnV5CZJ...` |
 | 2026-03-16 17:44:10 | SELL | 0.000025 | `5YPC4suZKsPwmmCGsAfwWaSpT5gucd...` |
 | 2026-03-16 17:45:24 | SELL | 0.000030 | `5vEPryg9PoUN6AfgptiZf2V2huqUro...` |
+| 2026-03-16 18:08:48 | SELL | 0.000045 | `2WWWfHyeHnNL9DCMHazTmyLRcTLR4W...` |
 
 ### 🟢 ORCA
 - **Status:** open | **Exit:** open

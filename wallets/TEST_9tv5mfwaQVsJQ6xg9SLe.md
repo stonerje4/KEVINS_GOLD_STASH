@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 18:07 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -26,7 +26,7 @@
 
 ### 🟢 唐某某
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.47x | **Current:** 1.29x
+- **Peak:** 2.47x | **Current:** 1.16x
 - **Mint:** `9aaEaHnNezimeAqzzBuj4ha2uMFc4L17eGDiezS1ANfu`
 
 | Time | Action | SOL | TX |
@@ -64,7 +64,7 @@
 
 ### 🟢 TANG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 0.91x
+- **Peak:** 1.90x | **Current:** 0.93x
 - **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
 
 | Time | Action | SOL | TX |
