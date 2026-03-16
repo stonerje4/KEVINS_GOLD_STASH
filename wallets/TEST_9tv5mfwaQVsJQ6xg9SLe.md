@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 17:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 GIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.06x
+- **Peak:** 1.25x | **Current:** 0.46x
 - **Mint:** `5nmrpznhrs46WWrKyxb4Liqc41F3msD7A6RLGxwHpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 TANG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 0.95x
+- **Peak:** 1.90x | **Current:** 1.05x
 - **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
 
 | Time | Action | SOL | TX |

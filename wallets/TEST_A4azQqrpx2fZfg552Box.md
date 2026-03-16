@@ -1,5 +1,5 @@
 # [TEST] Wallet: `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM`
-> Generated: 2026-03-16 17:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -43,7 +43,7 @@
 
 ### 🟢 UNIPEP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `FL9p2LK5Vz4cqdSzyidd42HGsVJNs3MAYE4Yxnuapump`
 
 | Time | Action | SOL | TX |
