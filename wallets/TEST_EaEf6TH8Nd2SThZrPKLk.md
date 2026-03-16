@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 12:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 1.14x
+- **Peak:** 1.10x | **Current:** 1.08x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 YAH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.52x
+- **Peak:** 1.63x | **Current:** 1.43x
 - **Mint:** `Cj4iYFEErrvpMFLbKcXYLnP612DS4mQemvi4rCKRpump`
 
 | Time | Action | SOL | TX |
