@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 18:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:11 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -133,7 +133,7 @@
 
 ### 🟢 Safe
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.81x
+- **Peak:** 1.01x | **Current:** 0.80x
 - **Mint:** `D73pXimYCpoSRe3LRcgn6dPQSh6bsu3FdB2vvh3upump`
 
 | Time | Action | SOL | TX |
@@ -205,7 +205,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `BWokmiUXPVnNtMDp4Hy1y1mM9Fy1QntHBye9aZiPpump`
 
 | Time | Action | SOL | TX |
@@ -251,7 +251,7 @@
 
 ### 🟢 MCoins
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `EYhtmNznq4BF1qJHj2s6SmvQBfA6JDNjococNzCSpump`
 
 | Time | Action | SOL | TX |
@@ -288,7 +288,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
@@ -297,7 +297,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |

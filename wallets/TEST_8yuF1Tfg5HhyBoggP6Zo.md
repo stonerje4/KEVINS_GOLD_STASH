@@ -1,5 +1,5 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 18:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:11 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 COALKID
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.64x
+- **Peak:** 1.04x | **Current:** 0.62x
 - **Mint:** `4BYp9bPWua2YoijAjWWPDPzUjzMAftjhy9xsCd3wpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 18:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:11 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 GAUNTLET
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.73x
+- **Peak:** 1.30x | **Current:** 0.70x
 - **Mint:** `88na6xm5jHSTsNSDbPWVSK8zyuc4hHnnLNEHVmm2pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 2024
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.01x
+- **Peak:** 1.25x | **Current:** 1.04x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |
@@ -76,7 +76,7 @@
 
 ### 🟢 SUBARU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 0.56x
+- **Peak:** 1.63x | **Current:** 0.57x
 - **Mint:** `DExfxh9JyvpP8WH2xCMGcVC3KBCK29CpVMYEEhrvpump`
 
 | Time | Action | SOL | TX |

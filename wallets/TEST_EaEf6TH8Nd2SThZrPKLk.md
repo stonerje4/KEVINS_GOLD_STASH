@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 18:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:11 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -29,7 +29,7 @@
 
 ### 🟢 SME
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.20x | **Current:** 1.38x
+- **Peak:** 2.20x | **Current:** 1.35x
 - **Mint:** `Dh6HtEHN6AmghFNYh3nzR2SPq1h4ub8HEMAC2Abrpump`
 
 | Time | Action | SOL | TX |
@@ -59,7 +59,7 @@
 
 ### 🟢 SIRI
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.18x | **Current:** 2.47x
+- **Peak:** 3.18x | **Current:** 2.83x
 - **Mint:** `8S2iD5M7HwE5zXC4u6ReaPLGdztTM24d9JCVREu5pump`
 
 | Time | Action | SOL | TX |
