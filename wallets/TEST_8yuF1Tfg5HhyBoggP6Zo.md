@@ -1,5 +1,5 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 10:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Koozie
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.18x
+- **Peak:** 1.75x | **Current:** 1.75x
 - **Mint:** `D9Y9TiADgciiFPUwkehMjgNUaq3Ux3Bnr1CZMkJzpump`
 
 | Time | Action | SOL | TX |

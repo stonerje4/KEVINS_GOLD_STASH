@@ -1,21 +1,21 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 10:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 146 |
-| Open | 37 |
-| Closed | 109 |
-| SOL In (closed) | 0.065400 |
-| SOL Out (sells) | 0.061173 |
-| **P&L** | **-0.004227 SOL** |
-| **ROI** | **-6.5%** |
+| Open | 36 |
+| Closed | 110 |
+| SOL In (closed) | 0.066000 |
+| SOL Out (sells) | 0.061572 |
+| **P&L** | **-0.004428 SOL** |
+| **ROI** | **-6.7%** |
 
 ## Trades
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.96x
+- **Peak:** 1.03x | **Current:** 0.84x
 - **Mint:** `3S1NxQXfKmfL4szqJnPS3N8GpA35ncqBdrU4rrAPpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 HOSTMAXXING
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 1.56x
+- **Peak:** 1.84x | **Current:** 1.75x
 - **Mint:** `AoqYWcBaRQgA7BoqMgAmUYxkCvH4mcdCbdd2iCDopump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +53,7 @@
 
 ### 🟢 NANO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 1.38x
+- **Peak:** 1.47x | **Current:** 1.47x
 - **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
 
 | Time | Action | SOL | TX |
@@ -101,7 +101,7 @@
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.00x
+- **Peak:** 1.69x | **Current:** 0.99x
 - **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
 
 | Time | Action | SOL | TX |
@@ -110,7 +110,7 @@
 
 ### 🟢 Romeo
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.66x | **Current:** 2.53x
+- **Peak:** 2.66x | **Current:** 2.44x
 - **Mint:** `DwVj3NMpvjReojRK6YN6cJeTYdD5EX8WQQK4AEGWpump`
 
 | Time | Action | SOL | TX |
@@ -167,14 +167,15 @@
 | 2026-03-16 09:41:36 | BUY | 0.000600 | `3J9H79DezioRQg9jg3PSRfPbD4Udae...` |
 | 2026-03-16 10:15:27 | SELL | 0.000368 | `2uJEgyYGcQV4Tb81Liuu8KDuVSvjbr...` |
 
-### 🟢 三毛
-- **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.83x
+### 🔴 三毛
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.08x | **Current:** 0.67x
 - **Mint:** `8HPriW3U4HkwaDtbA5Nv1rc7yBjDbGFfbMLpnqkgpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:39:46 | BUY | 0.000600 | `3kn9cqWMFMMVtqbYWD1gowm8Cw4W25...` |
+| 2026-03-16 10:34:12 | SELL | 0.000399 | `JhowrtNaZ5a75Y7oPxoaxuuL585soG...` |
 
 ### 🔴 Doraemon
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -397,7 +398,7 @@
 
 ### 🟢 So16
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.09x
+- **Peak:** 1.13x | **Current:** 0.98x
 - **Mint:** `89pXvzP3dcXWzKZhvG6DznvGqcUYJb2xsNrxbfQjpump`
 
 | Time | Action | SOL | TX |
@@ -840,7 +841,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.94x
+- **Peak:** 1.12x | **Current:** 0.95x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
