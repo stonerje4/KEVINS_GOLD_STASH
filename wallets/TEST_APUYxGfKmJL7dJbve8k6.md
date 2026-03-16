@@ -1,5 +1,5 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 15:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -37,7 +37,7 @@
 
 ### 🟢 XERAI
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.06x | **Current:** 0.53x
+- **Peak:** 1.06x | **Current:** 0.43x
 - **Mint:** `3CvJ2gNGyG9M8jDKYJTHqn93HQ1j5J3Z88RjaXTnpump`
 
 | Time | Action | SOL | TX |

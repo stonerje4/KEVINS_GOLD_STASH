@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-16 15:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.67x
+- **Peak:** 1.00x | **Current:** 0.60x
 - **Mint:** `MHuP8t5RrEWxSEQ7VKKoae8HGKFrCbdjcVJJ35Fpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 gorevege
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.52x | **Current:** 1.44x
+- **Peak:** 2.52x | **Current:** 1.18x
 - **Mint:** `42NTyRmFCqDzw8WnWFyntDCZKZTkFejoRpRokyvbpump`
 
 | Time | Action | SOL | TX |
@@ -35,7 +35,7 @@
 
 ### 🟢 Heart
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.84x | **Current:** 2.87x
+- **Peak:** 3.84x | **Current:** 2.64x
 - **Mint:** `CddTVmakkpiS2BEzPpyEuNa44zRbC25PF57RAHFVpump`
 
 | Time | Action | SOL | TX |

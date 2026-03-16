@@ -1,16 +1,16 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 15:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 51 |
-| Open | 33 |
-| Closed | 18 |
-| W/L | 9/9 |
-| SOL In (closed) | 0.019700 |
-| **Closed P&L** | **+0.008452 SOL** |
-| **Closed ROI** | **+42.9%** |
-| Open Deployed | 0.018300 SOL |
+| Open | 32 |
+| Closed | 19 |
+| W/L | 10/9 |
+| SOL In (closed) | 0.019800 |
+| **Closed P&L** | **+0.008606 SOL** |
+| **Closed ROI** | **+43.5%** |
+| Open Deployed | 0.018200 SOL |
 
 ## Trades
 
@@ -27,8 +27,8 @@
 | 2026-03-16 15:35:19 | SELL | 0.000098 | `53rFb5SmCkahTgatNZkYFJZjkRcXWK...` |
 
 ### 🟢 ALIVE
-- **Status:** partial | **Exit:** open
-- **Peak:** 4.29x | **Current:** 4.29x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 5.68x | **Current:** 0.88x
 - **Mint:** `9JnbEQ9YqJKm2CMo1RqSyYBSbGJTtB2Md6QruAXWpump`
 
 | Time | Action | SOL | TX |
@@ -36,10 +36,12 @@
 | 2026-03-16 15:11:48 | BUY | 0.000100 | `YTHz8zxTjLrANELh4JFcfiNBqRv67Q...` |
 | 2026-03-16 15:33:08 | SELL | 0.000021 | `2F4oFEsfTkQPguB4WPr2DCp8uw6HSA...` |
 | 2026-03-16 15:37:41 | SELL | 0.000027 | `4346WDX9vykLuKjEzgLwvhwh6KNaee...` |
+| 2026-03-16 15:46:43 | SELL | 0.000042 | `2u8NfusRnu6PKWi1bsfHffJjsUD7hF...` |
+| 2026-03-16 15:48:13 | SELL | 0.000064 | `A5X1CPHnaPe1bvM9pdoxSD7kmSomBS...` |
 
 ### 🟢 DroydAI
 - **Status:** partial | **Exit:** open
-- **Peak:** 5.42x | **Current:** 5.35x
+- **Peak:** 6.30x | **Current:** 6.30x
 - **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
 
 | Time | Action | SOL | TX |
@@ -50,13 +52,14 @@
 | 2026-03-16 15:43:38 | SELL | 0.000044 | `4GFXKN7xs5BN8nbHMmie9VVRJbhuWa...` |
 
 ### 🟢 Moonigga
-- **Status:** open | **Exit:** open
-- **Peak:** 1.42x | **Current:** 1.42x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.02x | **Current:** 1.38x
 - **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:54:44 | BUY | 0.000100 | `6zFv7bLkMtSkRshJzT51ypvef9iFwj...` |
+| 2026-03-16 15:46:20 | SELL | 0.000020 | `39YK9q4MYmwN1NZRYdMpSnkRm3Jcg9...` |
 
 ### 🟢 CL
 - **Status:** open | **Exit:** open
@@ -192,7 +195,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.90x
+- **Peak:** 1.06x | **Current:** 0.81x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |
@@ -258,7 +261,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
@@ -379,7 +382,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.76x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |
