@@ -1,5 +1,5 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 01:24 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 01:25 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
@@ -7,11 +7,11 @@
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
 | SOL Balance | 1.6225 SOL |
-| Open Positions | 47 (0.0470 SOL deployed) |
+| Open Positions | 48 (0.0476 SOL deployed) |
 | Closed Positions | 28 |
-| Total Positions | 75 |
+| Total Positions | 76 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.4305 SOL (-43.0%)** |
+| **Real P&L (on-chain)** | **-0.4299 SOL (-43.0%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -27,7 +27,7 @@
 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 7 | 0 | 7 | 0/0 | 0% | 0.0042 | ⚪ +0.000000 | +0.0% |
-| `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 4 | 2 | 2 | 0/2 | 0% | 0.0024 | 🔴 -0.000142 | -11.8% |
+| `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 5 | 2 | 3 | 0/2 | 0% | 0.0030 | 🔴 -0.000142 | -11.8% |
 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 4 | 2 | 2 | 0/2 | 0% | 0.0118 | 🔴 -0.003500 | -33.0% |
 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 9 | 1 | 8 | 0/1 | 0% | 0.0148 | 🔴 -0.000199 | -33.1% |
 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 2 | 2 | 0 | 0/2 | 0% | 0.0012 | 🔴 -0.000404 | -33.7% |

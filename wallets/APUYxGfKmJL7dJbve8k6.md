@@ -1,10 +1,10 @@
 # Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 01:24 UTC
+> Generated: 2026-03-16 01:25 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 2 |
+| Total Positions | 5 |
+| Open | 3 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.001058 |
@@ -15,7 +15,16 @@
 
 ### 🟢 PVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 1.04x
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `9ovfjk7wbwTay7fZcUrJqQSFNra5QrvQXeR9tamKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:25:01 | BUY | 0.000600 | `5k5EkHarH9HAT78BFRu2HiZgay7zhR...` |
+
+### 🟢 PVE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.23x | **Current:** 1.23x
 - **Mint:** `BSDZxrGyQziDzziuViXAyyUi2JM3GWeX3C9Cf1HPpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +33,7 @@
 
 ### 🟢 UDC
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 2.44x
+- **Peak:** 2.85x | **Current:** 2.85x
 - **Mint:** `21YuqbGpG65PMHw9reH3vv4vJeAebgMR1NfDgRWPpump`
 
 | Time | Action | SOL | TX |

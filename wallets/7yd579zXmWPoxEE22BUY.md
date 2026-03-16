@@ -1,5 +1,5 @@
 # Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-16 01:24 UTC
+> Generated: 2026-03-16 01:25 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 PVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 1.37x
+- **Peak:** 1.37x | **Current:** 0.99x
 - **Mint:** `82BT1r4oiFWR9iJ5rxGD7zXZdE69SGayXUSsJULUpump`
 
 | Time | Action | SOL | TX |
