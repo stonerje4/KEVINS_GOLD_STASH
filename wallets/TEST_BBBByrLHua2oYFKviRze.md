@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 0.85x
+- **Peak:** 1.39x | **Current:** 1.39x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Tradecoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.57x
+- **Peak:** 1.00x | **Current:** 0.46x
 - **Mint:** `HFxw27PmjDFb1wivouGS8KHAbkobTssmZX53Cytnpump`
 
 | Time | Action | SOL | TX |

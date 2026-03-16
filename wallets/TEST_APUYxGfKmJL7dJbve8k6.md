@@ -1,27 +1,38 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 28 |
+| Total Positions | 29 |
 | Open | 3 |
-| Closed | 25 |
-| W/L | 21/4 |
-| SOL In (closed) | 0.013500 |
-| **Closed P&L** | **+0.009004 SOL** |
-| **Closed ROI** | **+66.7%** |
+| Closed | 26 |
+| W/L | 22/4 |
+| SOL In (closed) | 0.013600 |
+| **Closed P&L** | **+0.009028 SOL** |
+| **Closed ROI** | **+66.4%** |
 | Open Deployed | 0.000300 SOL |
 
 ## Trades
 
+### 🔴 Ping
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.22x
+- **Mint:** `pEQWfjSHZaAaDS6bC2kCiFSYBmKbPfzzuYUr4wCpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:31:52 | BUY | 0.000100 | `4E3uCjigDxCjuM4iq5ZTxehDrWwLCJ...` |
+| 2026-03-16 15:33:14 | SELL | 0.000024 | `3tbtE7zq8im3eWtq6poBUtGXBJW5wM...` |
+
 ### 🟢 XERAI
-- **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.93x
+- **Status:** partial | **Exit:** stop_loss
+- **Peak:** 1.06x | **Current:** 0.46x
 - **Mint:** `3CvJ2gNGyG9M8jDKYJTHqn93HQ1j5J3Z88RjaXTnpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:22:45 | BUY | 0.000100 | `5F5358VhEc3Jv2T1WBUVPqucRGephR...` |
+| 2026-03-16 15:33:12 | SELL | 0.000039 | `5N7j4GbQXC9N5mkybnWxy58dzAVWi5...` |
 
 ### 🔴 Metacoin
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -35,7 +46,7 @@
 
 ### 🟢 SOLANASOLANA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 0.88x
+- **Peak:** 1.20x | **Current:** 0.86x
 - **Mint:** `FWSNaEE6fXFoEdUQtp5kSV5FDNo478eLJtnoEenUVrzD`
 
 | Time | Action | SOL | TX |

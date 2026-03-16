@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Dozer
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.97x | **Current:** 2.97x
+- **Peak:** 2.97x | **Current:** 1.72x
 - **Mint:** `JB92sKqTtgyfAaYcpg5x8Jau2m73jUfsyEHkpRRspump`
 
 | Time | Action | SOL | TX |
@@ -26,7 +26,7 @@
 
 ### 🟢 ZYNFIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.76x
+- **Peak:** 1.00x | **Current:** 0.70x
 - **Mint:** `AGgpWLrTfzBZq5Tpih2m72hpRVoZovVb68RqJSirpump`
 
 | Time | Action | SOL | TX |
@@ -43,13 +43,15 @@
 | 2026-03-16 15:21:50 | BUY | 0.000100 | `5PuC4iFiJ2gpk29mQD4XVgyDmo2Kz2...` |
 
 ### 🟢 flea
-- **Status:** open | **Exit:** open
-- **Peak:** 1.83x | **Current:** 1.67x
+- **Status:** partial | **Exit:** open
+- **Peak:** 3.29x | **Current:** 3.29x
 - **Mint:** `2ZxvZtqXEpHGE5QnxrFWN1Bp78vcovfwgm1gA4BDpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:16:55 | BUY | 0.000100 | `3XYQhotnMryjNpn8M4y5cmouuBXz5R...` |
+| 2026-03-16 15:31:44 | SELL | 0.000025 | `2sXQG4w5pdLxiNfTLuh3BSUh4BWw4i...` |
+| 2026-03-16 15:33:10 | SELL | 0.000027 | `51sQ5cgZ6RY8iFBgM9K3QngJcr3VgV...` |
 
 ### 🟢 FOR
 - **Status:** open | **Exit:** open
@@ -91,7 +93,7 @@
 
 ### 🟢 DIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.05x
+- **Peak:** 1.12x | **Current:** 1.10x
 - **Mint:** `H9Jt1usRpJkbFSJinbhd9XokafnKi2mdfyCe6e2xpump`
 
 | Time | Action | SOL | TX |
@@ -244,7 +246,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.17x
+- **Peak:** 1.50x | **Current:** 1.16x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |
@@ -374,7 +376,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.10x | **Current:** 1.86x
+- **Peak:** 2.16x | **Current:** 2.16x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |

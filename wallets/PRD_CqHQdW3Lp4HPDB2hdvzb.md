@@ -1,5 +1,5 @@
 # [PRD] Wallet: `CqHQdW3Lp4HPDB2hdvzbkFdPzr13JkWeso74kLtBCi5w`
-> Generated: 2026-03-16 15:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 15:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 flea
-- **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.16x | **Current:** 0.00x
 - **Mint:** `2ZxvZtqXEpHGE5QnxrFWN1Bp78vcovfwgm1gA4BDpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:18:40 | BUY | 0.150000 | `3iCA6rBz3rRygYqkXgLKCHuhTFejaT...` |
+| 2026-03-16 15:34:39 | SELL | 0.030440 | `641AUXiVNdYQijNVSM19WB3W7UjQ21...` |
 
 ### 🔴 3
 - **Status:** closed | **Exit:** stop_loss

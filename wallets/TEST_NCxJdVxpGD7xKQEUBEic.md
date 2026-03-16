@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 gorevege
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.37x | **Current:** 1.31x
 - **Mint:** `42NTyRmFCqDzw8WnWFyntDCZKZTkFejoRpRokyvbpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Heart
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.84x | **Current:** 3.25x
+- **Peak:** 3.84x | **Current:** 3.00x
 - **Mint:** `CddTVmakkpiS2BEzPpyEuNa44zRbC25PF57RAHFVpump`
 
 | Time | Action | SOL | TX |
