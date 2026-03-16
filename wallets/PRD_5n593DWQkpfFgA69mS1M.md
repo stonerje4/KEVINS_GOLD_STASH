@@ -1,5 +1,5 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 22:45 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -45,13 +45,14 @@
 | 2026-03-16 21:23:52 | SELL | 0.059687 | `3N6WR1eqQ6hD6sv75Lcc87Y72SyUE2...` |
 
 ### 🟢 AIFREE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.92x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.16x | **Current:** 0.00x
 - **Mint:** `Dqckh2A2JUWVBpNAxhcVGwKNDEAer5Jf8LV76hhpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 19:50:22 | BUY | 0.150000 | `3q4KPpsbxLxAKPYWpKbsqmpwvy7wtG...` |
+| 2026-03-16 22:45:18 | SELL | 0.032390 | `24m6RvWFc5Dk9JyT94PiEMwpVTiQtv...` |
 
 ### 🔴 Grandma
 - **Status:** closed | **Exit:** stop_loss

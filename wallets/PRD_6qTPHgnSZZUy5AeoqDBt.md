@@ -1,16 +1,16 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 22:45 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 12 |
-| Open | 4 |
-| Closed | 8 |
-| W/L | 4/4 |
-| SOL In (closed) | 1.200000 |
-| **Closed P&L** | **-0.204527 SOL** |
-| **Closed ROI** | **-17.0%** |
-| Open Deployed | 0.600000 SOL |
+| Open | 3 |
+| Closed | 9 |
+| W/L | 4/5 |
+| SOL In (closed) | 1.350000 |
+| **Closed P&L** | **-0.302234 SOL** |
+| **Closed ROI** | **-22.4%** |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
 
@@ -79,14 +79,15 @@
 | 2026-03-16 19:47:44 | SELL | 0.046825 | `4iEkTaMwxkfnqk2BEDsHurXdpxteD9...` |
 | 2026-03-16 20:30:27 | SELL | 0.218245 | `4NR6hpdzujRDyS4X7LdTLx2REUYm3C...` |
 
-### 🟢 zeroxoneb
-- **Status:** open | **Exit:** open
+### 🔴 zeroxoneb
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.96x | **Current:** 0.00x
 - **Mint:** `8n4ZAfn1izwsXKfvc2KnAsPTfNokRiqCvKTwb4mSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:57:00 | BUY | 0.150000 | `4bcamHL9xXvit8sCCokepkaPnZhad1...` |
+| 2026-03-16 22:48:39 | SELL | 0.052294 | `xcmiDbdEWqmVBMqxLrtnE642rwPsun...` |
 
 ### 🟢 $1
 - **Status:** closed | **Exit:** runner_trailing_stop
