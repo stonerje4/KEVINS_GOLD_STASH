@@ -1,5 +1,5 @@
 # [PRD] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 19:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:13 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -135,6 +135,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 12:22:51 | BUY | 0.150000 | `wQaqcLeeDAVr1Tg2ZCzeK1nSKcm6eb...` |
+| 2026-03-16 19:13:24 | SELL | 0.015000 | `?` |
 
 ### 🔴 UGOR
 - **Status:** closed | **Exit:** ghost_close_zero_balance
@@ -144,6 +145,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 12:18:08 | BUY | 0.150000 | `1j1X3fgxDmBi5QTursFP2m5sBbRDJQ...` |
+| 2026-03-16 19:13:24 | SELL | 0.015000 | `?` |
 
 ### 🔴 UGOR
 - **Status:** closed | **Exit:** ghost_close_zero_balance
@@ -165,6 +167,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 08:02:45 | BUY | 0.150000 | `5xPSRASRJAxfqh5sGM9DVv7oZ12Pno...` |
+| 2026-03-16 19:13:24 | SELL | 0.015000 | `?` |
 
 ### 🔴 贾维斯
 - **Status:** closed | **Exit:** stale_position_cleanup
@@ -278,6 +281,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-14 10:55:13 | BUY | 0.150000 | `pAgG9usm96iTX8D5k5V4qAD3JnkmQr...` |
+| 2026-03-16 19:13:24 | SELL | 0.015000 | `?` |
 
 ### 🔴 Sight
 - **Status:** closed | **Exit:** stale_position_cleanup
@@ -485,6 +489,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-13 18:20:24 | BUY | 0.150000 | `2ZXK5kEyJ2ViRHwkSHLfCGGU9UXjw4...` |
+| 2026-03-16 19:13:24 | SELL | 0.015000 | `?` |
 
 ### 🔴 DRONE
 - **Status:** closed | **Exit:** stale_ghost_close

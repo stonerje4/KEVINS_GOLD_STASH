@@ -1,5 +1,5 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 19:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 19:13 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -164,6 +164,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:57:35 | BUY | 0.000600 | `64FAx6jCVqA21yRnbdYHBXjDck6H7F...` |
+| 2026-03-16 19:13:12 | SELL | 0.000300 | `?` |
 
 ### 🔴 jobs
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -173,6 +174,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:53:06 | BUY | 0.000600 | `3ujVnFoPAWzSC4gAzSJGk6BsM4cEHv...` |
+| 2026-03-16 19:13:12 | SELL | 0.000060 | `?` |
 
 ### 🔴 jobs
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -192,6 +194,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:38:07 | BUY | 0.000600 | `5e4YgLPX5dJPSTMdBadCswJG6q7Tav...` |
+| 2026-03-16 19:13:12 | SELL | 0.000060 | `?` |
 
 ### 🔴 boop
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -241,6 +244,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:09:09 | BUY | 0.000600 | `5P4xBDRKs7BNnWJNWTf9RGycVnUKnr...` |
+| 2026-03-16 19:13:12 | SELL | 0.000300 | `?` |
 
 ### 🔴 Company
 - **Status:** closed | **Exit:** ghost_close_stop_loss

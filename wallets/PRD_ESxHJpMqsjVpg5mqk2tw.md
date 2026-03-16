@@ -1,5 +1,5 @@
 # [PRD] Wallet: `ESxHJpMqsjVpg5mqk2twf8ak2NuAfQXbLxGWxaVcNXPd`
-> Generated: 2026-03-16 19:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:13 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -22,6 +22,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-10 14:18:59 | BUY | 0.050000 | `4AQipUcyiBD8YiADS337eXmu4JA88S...` |
+| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
 
 ### 🔴 SOIL
 - **Status:** closed | **Exit:** stop_loss
@@ -41,6 +42,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-10 14:09:13 | BUY | 0.050000 | `TnDmt7AtpZDbMX9KqEJTm1cDMwqQhS...` |
+| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
 
 ### 🔴 UXR
 - **Status:** closed | **Exit:** ghost_close_zero_balance
@@ -50,4 +52,5 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-10 14:05:49 | BUY | 0.050000 | `4ZGUGb3tAfD8XkUDPFEu3s9HAopYRh...` |
+| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
 

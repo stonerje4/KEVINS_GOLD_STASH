@@ -1,5 +1,5 @@
 # [PRD] Wallet: `9rb2ChEjkkCYGiHB97yssryBf8sh2W49MeyLUs69cKyS`
-> Generated: 2026-03-16 19:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:13 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -392,6 +392,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-10 15:46:44 | BUY | 0.050000 | `5Lk9DTUEDGaP1dRepmL8omPvaW6saV...` |
+| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
 
 ### 🟢 SPACE
 - **Status:** closed | **Exit:** runner_trailing_stop

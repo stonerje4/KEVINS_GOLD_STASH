@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CAmNcBJ82xr1tzXrwZ6tZKwEFs26TG8kT6dJeR1bxjW9`
-> Generated: 2026-03-16 19:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 19:13 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -22,6 +22,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 12:36:01 | BUY | 0.000600 | `4usmLSHiL3guWKkm6ziTVxYmQBvGQ5...` |
+| 2026-03-16 19:13:12 | SELL | 0.000060 | `?` |
 
 ### 🔴 MILLION
 - **Status:** closed | **Exit:** ghost_close_stop_loss

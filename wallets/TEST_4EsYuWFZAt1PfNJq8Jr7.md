@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx`
-> Generated: 2026-03-16 19:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 19:13 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -42,6 +42,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:21:19 | BUY | 0.000600 | `3oP1pWxSthujtmdqpziuLTV2hj9zqR...` |
+| 2026-03-16 19:13:12 | SELL | 0.000060 | `?` |
 
 ### 🟢 Bowhead
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

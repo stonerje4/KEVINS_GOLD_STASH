@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 19:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 19:13 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -741,6 +741,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:17:15 | BUY | 0.000600 | `2pQ24Do4CrJsp7TdiXWN4fmN2GAGUR...` |
+| 2026-03-16 19:13:12 | SELL | 0.000300 | `?` |
 
 ### 🟢 󠀠󠀠
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -761,6 +762,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:56:39 | BUY | 0.000600 | `QoF9PpNVNL7RBqLNC33Tr1z1Un9ibP...` |
+| 2026-03-16 19:13:12 | SELL | 0.000060 | `?` |
 
 ### 🔴 <3
 - **Status:** closed | **Exit:** ghost_close_stop_loss

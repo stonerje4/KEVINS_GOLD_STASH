@@ -1,5 +1,5 @@
 # [TEST] Wallet: `GyHL98eooS4VwyDrnZdudJoBfkTTcM8G7ugkEEA9pwx`
-> Generated: 2026-03-16 19:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 19:13 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,10 +16,11 @@
 
 ### 🔴 SE
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half
-- **Peak:** 852.63x | **Current:** 852.63x
+- **Peak:** 1.00x | **Current:** 852.63x
 - **Mint:** `677CpPEoKVo9tyCyBHqtiXZivUPdPXEigd3FspWuBAGS`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:57:54 | BUY | 0.000600 | `5paSszrwwNp7Nec3UJePVyddsejWyS...` |
+| 2026-03-16 19:13:12 | SELL | 0.000000 | `?` |
 

@@ -1,5 +1,5 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-16 19:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:13 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -384,6 +384,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-11 22:13:03 | BUY | 0.050000 | `2e8c81MF7KGMNi3nH3EZaJhLJbd9R5...` |
+| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
 
 ### 🔴 Cupcake
 - **Status:** closed | **Exit:** stop_loss

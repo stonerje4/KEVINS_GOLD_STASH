@@ -1,5 +1,5 @@
 # [PRD] Wallet: `BJJGTyZBpSoTNrodhiEaRMonCPzAkzZWrzwhwZcn8Cir`
-> Generated: 2026-03-16 19:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:13 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -34,6 +34,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-10 00:52:50 | BUY | 0.050000 | `5BPHywmPvDwCV1g7xA9L2fDYa4BwXo...` |
+| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
 
 ### 🔴 WIF
 - **Status:** closed | **Exit:** manual_sell

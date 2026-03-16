@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-16 19:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 19:13 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -27,12 +27,13 @@
 
 ### 🔴 LBELL26
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half
-- **Peak:** 865.94x | **Current:** 865.94x
+- **Peak:** 1.00x | **Current:** 865.94x
 - **Mint:** `Ef5MAsDjChg6xDxpejN7cURL78AFnYxY1Q12obm3BAGS`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:50:23 | BUY | 0.000600 | `3wtMSx28G6EcXbLyEZ1VyGeXCzYGoU...` |
+| 2026-03-16 19:13:12 | SELL | 0.000000 | `?` |
 
 ### 🟢 POKEMAPS
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
