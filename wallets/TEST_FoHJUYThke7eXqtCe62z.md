@@ -1,21 +1,32 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 13 |
+| Total Positions | 14 |
 | Open | 11 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.001204 |
-| **P&L** | **+0.000004 SOL** |
-| **ROI** | **+0.3%** |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
+| SOL Out (sells) | 0.002028 |
+| **P&L** | **+0.000228 SOL** |
+| **ROI** | **+12.6%** |
 
 ## Trades
 
+### 🟢 CAL
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.46x | **Current:** 0.91x
+- **Mint:** `8iXCJMrCu8UMQgpX8M3XLvQyAHLMm7a3R5KVkqd7pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:46:47 | BUY | 0.000600 | `CYEd7UJWNKqgLReoXX1dcenTeyHTm9...` |
+| 2026-03-16 02:47:54 | SELL | 0.000443 | `2zkNjiKG9hJJJfJtrwCGC6hfQdYupz...` |
+| 2026-03-16 02:48:28 | SELL | 0.000381 | `5qRLWqTfkvgW123erteqzQBqB8g5p6...` |
+
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +64,7 @@
 
 ### 🟢 TRUMPHOUSE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `HZtdX9vZQCLojV4w5V6ZUUhCcwoZEJf2sv9PNDB3pump`
 
 | Time | Action | SOL | TX |

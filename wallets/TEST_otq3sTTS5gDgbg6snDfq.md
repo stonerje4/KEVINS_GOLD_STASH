@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 TRUMPHOUSE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `Gmh9t9VzHeMFdvfJRBGLsgZ97Wm52JUDmc96GMCMKyRd`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 MLTFO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `45b7oPA7ex4NJuAFkNegj8xaGhByt5tzYFf1FCD4pump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Papua
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 
 | Time | Action | SOL | TX |
@@ -51,7 +51,7 @@
 
 ### 🟢 OG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.83x
+- **Peak:** 1.02x | **Current:** 0.89x
 - **Mint:** `37JEzbRcfeGAYEeiPMg1gKbK8UZNQG7cjF5Pvse7pump`
 
 | Time | Action | SOL | TX |
@@ -60,7 +60,7 @@
 
 ### 🟢 UDC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.85x
+- **Peak:** 1.12x | **Current:** 0.84x
 - **Mint:** `9z797YSc8cqk1if2p9b9aStQ45v4vZtu6BjXaF8Dpump`
 
 | Time | Action | SOL | TX |
@@ -69,7 +69,7 @@
 
 ### 🟢 FOOD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `HQX3PRouKAs8Th9fx9gCxToaf3ChkHY4uRV4JKL7pump`
 
 | Time | Action | SOL | TX |
@@ -114,7 +114,7 @@
 
 ### 🟢 PIGEON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.85x
+- **Peak:** 1.01x | **Current:** 0.77x
 - **Mint:** `7qoFnme6rNMdr8Hhsi7MB5oVJx5xD6aeiPevtWGEpump`
 
 | Time | Action | SOL | TX |

@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 0 |
+| Total Positions | 9 |
+| Open | 1 |
 | Closed | 8 |
 | SOL In (closed) | 0.004800 |
-| SOL Out (sells) | 0.003622 |
-| **P&L** | **-0.001178 SOL** |
-| **ROI** | **-24.5%** |
+| SOL Out (sells) | 0.003988 |
+| **P&L** | **-0.000812 SOL** |
+| **ROI** | **-16.9%** |
 
 ## Trades
+
+### 🟢 KIMMEL
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.04x | **Current:** 2.04x
+- **Mint:** `BrA2pCD9rMBAs66KJQoUNqsbvxxYXDTZ2WrYMgWkpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:47:12 | BUY | 0.000600 | `mjZXAcdiS2AoHSq5fgdBDGgVaNL9hZ...` |
+| 2026-03-16 02:49:44 | SELL | 0.000366 | `5HdABmyrZgmUNGxJQNvcEe9kZS2Ga7...` |
 
 ### 🔴 StAInberger
 - **Status:** closed | **Exit:** ghost_close_stop_loss

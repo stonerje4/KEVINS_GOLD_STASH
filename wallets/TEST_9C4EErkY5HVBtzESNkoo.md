@@ -1,10 +1,10 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 1 |
+| Total Positions | 7 |
+| Open | 2 |
 | Closed | 5 |
 | SOL In (closed) | 0.003000 |
 | SOL Out (sells) | 0.001295 |
@@ -12,6 +12,15 @@
 | **ROI** | **-56.8%** |
 
 ## Trades
+
+### 🟢 FOOD
+- **Status:** open | **Exit:** open
+- **Peak:** 1.09x | **Current:** 1.09x
+- **Mint:** `CK3MCj5TPWKmc9xax7xybPX4PT7croGi4K67zd8epump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:48:28 | BUY | 0.000600 | `5th1kppo1PF2d2Qhe6CafdRVRmkfgV...` |
 
 ### 🔴 ルクマ
 - **Status:** closed | **Exit:** ghost_close_stop_loss
