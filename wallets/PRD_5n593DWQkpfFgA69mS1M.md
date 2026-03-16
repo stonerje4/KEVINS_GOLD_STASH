@@ -1,5 +1,5 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 01:40 UTC | Environment: **PRD**
+> Generated: 2026-03-16 01:45 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -7,20 +7,21 @@
 | Open | 1 |
 | Closed | 4 |
 | SOL In (closed) | 0.600000 |
-| SOL Out (sells) | 1.756052 |
-| **P&L** | **+1.156052 SOL** |
-| **ROI** | **+192.7%** |
+| SOL Out (sells) | 1.848670 |
+| **P&L** | **+1.248670 SOL** |
+| **ROI** | **+208.1%** |
 
 ## Trades
 
 ### 🟢 DIMOS
-- **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.06x | **Current:** 0.00x
 - **Mint:** `J3TbY9GgQDkvUSw8CnLyrAoiZJRsuYtbcQTMRz3gpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:34:30 | BUY | 0.150000 | `4fxkW2k8wayXuk9ZfTj5U36MpXe3ZN...` |
+| 2026-03-16 01:44:35 | SELL | 0.092618 | `3JFduZqV6AFqe638dSjK7NTFNrzD8g...` |
 
 ### 🔴 JOBS
 - **Status:** closed | **Exit:** stop_loss

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 JORDAN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.15x
+- **Peak:** 1.30x | **Current:** 1.25x
 - **Mint:** `6nYVpGGGnrKGSHBUcBn7qie8WoApRPHbVG6buZSNpump`
 
 | Time | Action | SOL | TX |

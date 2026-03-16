@@ -1,10 +1,10 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 0 |
+| Total Positions | 6 |
+| Open | 1 |
 | Closed | 5 |
 | SOL In (closed) | 0.003000 |
 | SOL Out (sells) | 0.002723 |
@@ -12,6 +12,15 @@
 | **ROI** | **-9.2%** |
 
 ## Trades
+
+### 🟢 TolyAI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.08x | **Current:** 1.08x
+- **Mint:** `BYs56xjaynS5VNwh513mFxhzKUpD9K88yA4Hnzvwpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:44:21 | BUY | 0.000600 | `55vvMZxJ3ZYPCkg9cK6AvvWKkevAb9...` |
 
 ### 🔴 PVE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

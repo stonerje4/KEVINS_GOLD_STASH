@@ -1,10 +1,10 @@
 # [PRD] Wallet: `EPGrHnQeBPtuCGiJ5qLWaDZDKEf2yKcMKEPCyf2jWTxi`
-> Generated: 2026-03-16 01:40 UTC | Environment: **PRD**
+> Generated: 2026-03-16 01:45 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 0 |
+| Total Positions | 5 |
+| Open | 1 |
 | Closed | 4 |
 | SOL In (closed) | 0.600000 |
 | SOL Out (sells) | 0.451150 |
@@ -12,6 +12,15 @@
 | **ROI** | **-24.8%** |
 
 ## Trades
+
+### 🟢 TIM
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 0.00x
+- **Mint:** `GfDfRvhGbvCHrnuUbXB7z6RXosgZzTGCyP59Yvddpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:43:59 | BUY | 0.150000 | `XTfW7RdQfELwrzpi4A33XfiziPyDEr...` |
 
 ### 🔴 마시멜
 - **Status:** closed | **Exit:** stop_loss
