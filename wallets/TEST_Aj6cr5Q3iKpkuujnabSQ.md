@@ -1,10 +1,10 @@
 # [TEST] Wallet: `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs`
-> Generated: 2026-03-16 06:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
+| Total Positions | 3 |
+| Open | 1 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.001263 |
@@ -12,6 +12,15 @@
 | **ROI** | **+5.3%** |
 
 ## Trades
+
+### 🟢 JARVIS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.95x
+- **Mint:** `Eb4Tz11Q7mCRFoqv7bGkZjQ4v1xJNwnFTiYhViqZpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:46:59 | BUY | 0.000600 | `5gZ9zqBLNJHbArmZHutawsGbdGeeXn...` |
 
 ### 🟢 SINCLAIR
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
