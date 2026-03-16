@@ -1,5 +1,5 @@
 # Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 01:05 UTC
+> Generated: 2026-03-16 01:10 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 
 ### 🟢 PROXY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 0.88x
+- **Peak:** 1.48x | **Current:** 0.87x
 - **Mint:** `79UhwqVUqYvW5uvnF5FPZc3rUemfo52yX6B1LSLCpump`
 
 | Time | Action | SOL | TX |

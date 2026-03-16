@@ -1,4 +1,4 @@
-# Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
+# Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
 > Generated: 2026-03-16 01:10 UTC
 
 | Metric | Value |
@@ -13,21 +13,21 @@
 
 ## Trades
 
-### 🟢 UGOR
+### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 1.19x
-- **Mint:** `BrMCfEuqxCAFqvCnLo8uxeHFvQb4mdif4RncgnxYpump`
+- **Peak:** 1.00x | **Current:** 0.89x
+- **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 01:07:51 | BUY | 0.000600 | `2kJKSy9iNprnZetdH3iRwzqkCEvVrY...` |
+| 2026-03-16 01:08:54 | BUY | 0.000600 | `4xNkurEsqssQNJsCAUscajSLSgfSij...` |
 
-### 🟢 WRT
+### 🟢 AI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.04x
-- **Mint:** `81aEgEN5GZwbjv4BaTtxHRTPyyKAvGZbGgnng7x6pump`
+- **Peak:** 1.00x | **Current:** 0.91x
+- **Mint:** `9ChCYp5kwhyVKtciCqxWq3tRF5Nd9Kq9L6QxwomJpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 21:39:09 | BUY | 0.010000 | `NgDtEntW6LBebSnRoN5KhQWGxbt71t...` |
+| 2026-03-16 01:08:12 | BUY | 0.000600 | `34b6mxDvvDdjaSKpueR4uhNBvjAAxY...` |
 
