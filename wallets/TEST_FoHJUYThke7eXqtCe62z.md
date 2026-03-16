@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 CIUSGENT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.15x | **Current:** 1.15x
 - **Mint:** `6C7wmPqEJq4hKg9r8tmRRdqFBAifc1x7hbDJDo7Fpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 Clutch
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.61x | **Current:** 2.15x
+- **Peak:** 2.61x | **Current:** 2.32x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
@@ -126,7 +126,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |

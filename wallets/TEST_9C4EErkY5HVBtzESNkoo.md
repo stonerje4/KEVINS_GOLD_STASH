@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 G1
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.26x
+- **Peak:** 1.30x | **Current:** 1.24x
 - **Mint:** `Bvn6oDJnLoWAqwyy7b2XSZ3dfonqbaPnNaG7uN8Upump`
 
 | Time | Action | SOL | TX |
@@ -91,7 +91,7 @@
 
 ### 🟢 ZIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.97x
+- **Peak:** 1.10x | **Current:** 1.10x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
 | Time | Action | SOL | TX |

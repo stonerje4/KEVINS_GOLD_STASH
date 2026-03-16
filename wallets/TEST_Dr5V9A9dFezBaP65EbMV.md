@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.97x
+- **Peak:** 1.01x | **Current:** 0.94x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 LOCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.80x
+- **Peak:** 1.06x | **Current:** 0.90x
 - **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
 
 | Time | Action | SOL | TX |
@@ -99,7 +99,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 0.88x
+- **Peak:** 1.18x | **Current:** 0.84x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |

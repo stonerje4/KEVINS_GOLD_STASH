@@ -1,17 +1,35 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 105 |
-| Open | 25 |
+| Total Positions | 107 |
+| Open | 27 |
 | Closed | 80 |
 | SOL In (closed) | 0.048000 |
-| SOL Out (sells) | 0.047455 |
-| **P&L** | **-0.000545 SOL** |
-| **ROI** | **-1.1%** |
+| SOL Out (sells) | 0.047819 |
+| **P&L** | **-0.000181 SOL** |
+| **ROI** | **-0.4%** |
 
 ## Trades
+
+### 🟢 So16
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.94x
+- **Mint:** `89pXvzP3dcXWzKZhvG6DznvGqcUYJb2xsNrxbfQjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:41:49 | BUY | 0.000600 | `5Qsacy5gjJMsvkxnGyV3FiwY7k23FB...` |
+
+### 🟢 唐子兵法
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.86x
+- **Mint:** `AMpNe5K2eent1FG51wiMqtvpAnuzkX7QN3Y4w589pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:41:13 | BUY | 0.000600 | `2ieZC1aUq8Md1JkKERaX1ZoHqGkkjB...` |
 
 ### 🔴 モガー
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -34,13 +52,14 @@
 | 2026-03-16 07:27:44 | SELL | 0.000394 | `5zWU1SqZXi7tgsDMxHTEHmVS3KD8N3...` |
 
 ### 🟢 pwogrammer
-- **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 1.80x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.16x | **Current:** 2.08x
 - **Mint:** `9fWA7ehj57KtB9ZdtxNDn2yhLMg55PGmVMT6KUqRpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:16:01 | BUY | 0.000600 | `3ecFKEdEWhJ3SFF9x6qBadnqrDknFt...` |
+| 2026-03-16 07:40:45 | SELL | 0.000364 | `3ivdyQ42MtB36QHPHE3JNTHbrX2HKx...` |
 
 ### 🔴 ANMOO
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -438,7 +457,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.08x
+- **Peak:** 1.12x | **Current:** 1.07x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |

@@ -1,17 +1,28 @@
 # [TEST] Wallet: `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus`
-> Generated: 2026-03-16 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
+| Total Positions | 2 |
 | Open | 0 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000185 |
-| **P&L** | **-0.000415 SOL** |
-| **ROI** | **-69.2%** |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.001187 |
+| **P&L** | **-0.000013 SOL** |
+| **ROI** | **-1.1%** |
 
 ## Trades
+
+### 🟢 ANMOO
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.10x | **Current:** 1.49x
+- **Mint:** `Ddzw3HJH7hpJHuBTCjBzX7QRNjTxiazchtiZZrHXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:40:12 | BUY | 0.000600 | `LyFjDcQtke99hQdUJzriALEazFy1b1...` |
+| 2026-03-16 07:43:15 | SELL | 0.000377 | `4vMGeGWBtqcjYn4t7mKwsbjDqn6ggd...` |
+| 2026-03-16 07:44:04 | SELL | 0.000625 | `wU7bJ5vEGw4sa6QxrEwmfWXg83wQLr...` |
 
 ### 🔴 MOLTY
 - **Status:** closed | **Exit:** ghost_close_stop_loss

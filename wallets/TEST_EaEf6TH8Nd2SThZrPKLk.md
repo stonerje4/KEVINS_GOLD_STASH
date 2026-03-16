@@ -1,31 +1,42 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 24 |
-| Open | 4 |
-| Closed | 20 |
-| SOL In (closed) | 0.012000 |
-| SOL Out (sells) | 0.014541 |
-| **P&L** | **+0.002541 SOL** |
-| **ROI** | **+21.2%** |
+| Total Positions | 25 |
+| Open | 2 |
+| Closed | 23 |
+| SOL In (closed) | 0.013800 |
+| SOL Out (sells) | 0.015645 |
+| **P&L** | **+0.001845 SOL** |
+| **ROI** | **+13.4%** |
 
 ## Trades
 
+### 🔴 Loom
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.65x
+- **Mint:** `DeVUzWjVqr6EY23tJRevz4xphGKACbxA4ceH2NStpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:42:19 | BUY | 0.000600 | `qL2V8ci9EwkcJPsF8au5dXmuDPgaHb...` |
+| 2026-03-16 07:44:54 | SELL | 0.000389 | `JNzAi1v67GWoXFR1F58snmzbZNtELo...` |
+
 ### 🟢 ANMOO
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.77x | **Current:** 2.07x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.82x | **Current:** 0.70x
 - **Mint:** `HPin7FE7KpfwxiaARj1BCgWG6CN7FDUU7sNE5bKwpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:32:35 | BUY | 0.000600 | `38evNrvCzKK9SkyiZXkbVjvTJsZZGF...` |
 | 2026-03-16 07:35:28 | SELL | 0.000380 | `2NUJEPy8soqc9yvTnYBWUi5vxy1NmF...` |
+| 2026-03-16 07:42:53 | SELL | 0.000296 | `55AeTKhNXpZkPPFnMYRusHmLqCPTrh...` |
 
 ### 🟢 ANMOO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 1.53x
+- **Peak:** 1.71x | **Current:** 1.19x
 - **Mint:** `ub5zKXiHiS7LZdiUhWRsc7KtNqkfLzePa7yRP3Zpump`
 
 | Time | Action | SOL | TX |
@@ -64,14 +75,15 @@
 | 2026-03-16 07:38:32 | SELL | 0.000381 | `5GpMd2DXEAufKDZCxPwBFt7B9qSmj9...` |
 | 2026-03-16 07:39:04 | SELL | 0.000600 | `5rGS5T2qRoeFTbDrz1gYAJ5XnoBqHM...` |
 
-### 🟢 BRUNO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.74x
+### 🔴 BRUNO
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.06x | **Current:** 0.70x
 - **Mint:** `7qZTpYKzFr6pf1D4cjL92pUHHukAZLxS4QRZmsuKpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:50:02 | BUY | 0.000600 | `5DYh1oRVcWWVu2beqEHb8LiPZBxgW8...` |
+| 2026-03-16 07:40:10 | SELL | 0.000418 | `2Q7evEMe8wqsw6AiuFn45CYv9aWrys...` |
 
 ### 🟢 ROOSTER
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
