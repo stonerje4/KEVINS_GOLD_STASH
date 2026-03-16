@@ -1,15 +1,15 @@
 # [PRD] Wallet: `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf`
-> Generated: 2026-03-16 09:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 09:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 44 |
-| Open | 4 |
-| Closed | 40 |
-| SOL In (closed) | 3.700000 |
+| Open | 3 |
+| Closed | 41 |
+| SOL In (closed) | 3.850000 |
 | SOL Out (sells) | 3.615312 |
-| **P&L** | **-0.084688 SOL** |
-| **ROI** | **-2.3%** |
+| **P&L** | **-0.234688 SOL** |
+| **ROI** | **-6.1%** |
 
 ## Trades
 
@@ -50,14 +50,15 @@
 |------|--------|-----|----|
 | 2026-03-16 02:40:12 | BUY | 0.150000 | `65DzTWUFNkxigaAaFPDFME8KXRPu8L...` |
 
-### 🟢 QVAC
-- **Status:** open | **Exit:** open
+### 🔴 QVAC
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `G898LDjMUP3Sr8ukEBwzz6cRuyAX9t1gGgwZPnQApump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:39:38 | BUY | 0.150000 | `3L7bGXtLRBE76d6PPknnvknrdmkGTe...` |
+| 2026-03-16 09:04:09 | SELL | 0.000000 | `4o7CbhPG23A7N3wmpdM5WdXZnNmwmp...` |
 
 ### 🔴 XAI
 - **Status:** closed | **Exit:** stop_loss

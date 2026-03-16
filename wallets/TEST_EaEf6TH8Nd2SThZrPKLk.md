@@ -1,17 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 09:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 28 |
+| Total Positions | 29 |
 | Open | 1 |
-| Closed | 27 |
-| SOL In (closed) | 0.016200 |
-| SOL Out (sells) | 0.017136 |
-| **P&L** | **+0.000936 SOL** |
-| **ROI** | **+5.8%** |
+| Closed | 28 |
+| SOL In (closed) | 0.016800 |
+| SOL Out (sells) | 0.017398 |
+| **P&L** | **+0.000598 SOL** |
+| **ROI** | **+3.6%** |
 
 ## Trades
+
+### 🔴 金蟾
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.29x | **Current:** 0.44x
+- **Mint:** `Cuq7TS9NsKqKqLH7EmU97xHZGW867BptgDQhYfeRpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:01:40 | BUY | 0.000600 | `3Neio94p9gi2CUvpD3SThoFdEdwZjS...` |
+| 2026-03-16 09:04:44 | SELL | 0.000262 | `5Hfh2GKiiRRY8qxGPdy6jMPZjUph7o...` |
 
 ### 🔴 Keiji
 - **Status:** closed | **Exit:** ghost_close_stop_loss

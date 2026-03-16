@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 09:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Kakegurui
 - **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 1.35x
+- **Peak:** 1.38x | **Current:** 1.21x
 - **Mint:** `GFo9Ar3No4YKRxW22mzBeSC6X5oBkL1LWWW5rkyFpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 BULLS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.85x
+- **Peak:** 1.21x | **Current:** 1.01x
 - **Mint:** `GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump`
 
 | Time | Action | SOL | TX |

@@ -1,26 +1,27 @@
 # [PRD] Wallet: `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`
-> Generated: 2026-03-16 09:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 09:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 1 |
-| Closed | 3 |
-| SOL In (closed) | 0.450000 |
+| Open | 0 |
+| Closed | 4 |
+| SOL In (closed) | 0.600000 |
 | SOL Out (sells) | 0.224868 |
-| **P&L** | **-0.225132 SOL** |
-| **ROI** | **-50.0%** |
+| **P&L** | **-0.375132 SOL** |
+| **ROI** | **-62.5%** |
 
 ## Trades
 
-### 🟢 UGOR
-- **Status:** open | **Exit:** open
+### 🔴 UGOR
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.01x | **Current:** 0.00x
 - **Mint:** `J2T2uVGqVuwaVRvBxqUe9Vyz57bTnnpxpwa1AQNjpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:00:10 | BUY | 0.150000 | `3ZdJvG7PViWhBAVbeMArLWPUxRTRdt...` |
+| 2026-03-16 09:04:11 | SELL | 0.000000 | `5bubdckJzUiMk6yVdQsN8R9hpT4LZ9...` |
 
 ### 🔴 GLD
 - **Status:** closed | **Exit:** stale_position_cleanup
