@@ -1,22 +1,41 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 55 |
-| Open | 8 |
+| Total Positions | 57 |
+| Open | 10 |
 | Closed | 47 |
 | W/L | 45/2 |
 | SOL In (closed) | 0.028200 |
 | **Closed P&L** | **+0.022983 SOL** |
 | **Closed ROI** | **+81.5%** |
-| Open Deployed | 0.001800 SOL |
+| Open Deployed | 0.002000 SOL |
 
 ## Trades
 
+### 🟢 StormBand
+- **Status:** partial | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.33x
+- **Mint:** `HYkMF36XUyqA8ewMmsn4kXYXXi3JKBaLZ8i9Hzospump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:43:29 | BUY | 0.000100 | `66yZ6wuhDZYFm9fGUeJRisj5gGKmbN...` |
+| 2026-03-16 15:44:48 | SELL | 0.000033 | `bid4j8XF3CFp7FLBao1qrZMQt56Pfb...` |
+
+### 🟢 Johnny
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 0.53x
+- **Mint:** `HTwSqbf3qcf7cztRJdPeGNcZbUushxGrYBkrpBeDpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:43:00 | BUY | 0.000100 | `2H1NhDP4Gk5pjbLFaK5WdujKiCk49a...` |
+
 ### 🟢 IMAGINATION
 - **Status:** open | **Exit:** open
-- **Peak:** 1.35x | **Current:** 1.35x
+- **Peak:** 1.35x | **Current:** 0.73x
 - **Mint:** `4chJoNitKvnKSdJQPQfyqQ2ZP1ZFXwnFpND1Go6cpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +44,7 @@
 
 ### 🟢 NeMoClaw
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.69x
+- **Peak:** 1.94x | **Current:** 0.65x
 - **Mint:** `5Py1hwnq6vtAFSj6srWNmejDQKdSS5WzpmSS9CPCpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +53,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.38x
+- **Peak:** 1.74x | **Current:** 0.96x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

@@ -1,28 +1,29 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 30 |
-| Open | 4 |
-| Closed | 26 |
-| W/L | 22/4 |
-| SOL In (closed) | 0.013600 |
-| **Closed P&L** | **+0.009028 SOL** |
-| **Closed ROI** | **+66.4%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 27 |
+| W/L | 23/4 |
+| SOL In (closed) | 0.013700 |
+| **Closed P&L** | **+0.009089 SOL** |
+| **Closed ROI** | **+66.3%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
-### 🟢 BUILDER
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.33x | **Current:** 2.27x
+### 🔴 BUILDER
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.68x | **Current:** 0.42x
 - **Mint:** `4zYYmpmmjJFqWVgckZg1c4GX9TbvTakVfA5hav4wpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:37:14 | BUY | 0.000100 | `4SG3Kn3ttYY1GMCpGVY6KqhAJ2WLrp...` |
 | 2026-03-16 15:38:25 | SELL | 0.000023 | `3D2UZ4GAz3wGbxxLG1p64z6JxxKXMb...` |
+| 2026-03-16 15:42:31 | SELL | 0.000038 | `4ZcU8FVGJH2VpJgUwi4rNC7b2UMY14...` |
 
 ### 🔴 Ping
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -36,7 +37,7 @@
 
 ### 🟢 XERAI
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.06x | **Current:** 0.52x
+- **Peak:** 1.06x | **Current:** 0.53x
 - **Mint:** `3CvJ2gNGyG9M8jDKYJTHqn93HQ1j5J3Z88RjaXTnpump`
 
 | Time | Action | SOL | TX |

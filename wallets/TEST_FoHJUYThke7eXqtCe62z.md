@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -28,7 +28,7 @@
 
 ### 🟢 ALIVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.02x | **Current:** 2.61x
+- **Peak:** 4.29x | **Current:** 4.29x
 - **Mint:** `9JnbEQ9YqJKm2CMo1RqSyYBSbGJTtB2Md6QruAXWpump`
 
 | Time | Action | SOL | TX |
@@ -39,7 +39,7 @@
 
 ### 🟢 DroydAI
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.88x | **Current:** 4.88x
+- **Peak:** 5.42x | **Current:** 5.35x
 - **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
 
 | Time | Action | SOL | TX |
@@ -47,10 +47,11 @@
 | 2026-03-16 15:00:27 | BUY | 0.000100 | `4YUhn93PTFGQunykV1qTH9tokeyjjq...` |
 | 2026-03-16 15:07:33 | SELL | 0.000021 | `5Sk9RkpZKEvNAhcBypPAxqjWxF91cu...` |
 | 2026-03-16 15:23:01 | SELL | 0.000028 | `5W24v13gr2vWfF4L8biqBUxJUHphj7...` |
+| 2026-03-16 15:43:38 | SELL | 0.000044 | `4GFXKN7xs5BN8nbHMmie9VVRJbhuWa...` |
 
 ### 🟢 Moonigga
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 1.16x
+- **Peak:** 1.42x | **Current:** 1.42x
 - **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
 
 | Time | Action | SOL | TX |
@@ -200,7 +201,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.73x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |
@@ -275,7 +276,7 @@
 
 ### 🟢 Wife
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `RSvkQUEBvN9bQ56cSmnu5wJkdTFXjBqAMpYQcSUpump`
 
 | Time | Action | SOL | TX |
@@ -378,7 +379,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |

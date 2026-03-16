@@ -1,18 +1,27 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 15:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 0 |
+| Total Positions | 5 |
+| Open | 1 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.002400 |
 | **Closed P&L** | **+0.001434 SOL** |
 | **Closed ROI** | **+59.8%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 JOHNNY SINS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.87x
+- **Mint:** `25hdrFRpfkSJxvxnHmLc5mAwwWfp5aybapcqZ1Bypump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:44:25 | BUY | 0.000100 | `5T6cyHde3qM62eZ6JuJnL2GRjre1pT...` |
 
 ### 🔴 Koozie
 - **Status:** closed | **Exit:** ghost_close_stop_loss
