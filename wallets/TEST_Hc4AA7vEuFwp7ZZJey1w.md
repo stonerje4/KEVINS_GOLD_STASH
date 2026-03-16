@@ -1,4 +1,4 @@
-# [TEST] Wallet: `9zuBmBAu4tdegLWcmLb1ksaF9PBvBVkcSALjAwXwPKrU`
+# [TEST] Wallet: `Hc4AA7vEuFwp7ZZJey1wjCBXVyhthZKEjXVPgmzDGy6t`
 > Generated: 2026-03-16 18:00 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 PEKEPOME
+### 🟢 Clanker
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.49x
-- **Mint:** `BHvwMeTtmwxmuZe4umCQ3T9qy3jDSyHGM3H4YRxMpump`
+- **Peak:** 1.00x | **Current:** 0.94x
+- **Mint:** `DZNivGU4kUmJTvW5CTkmTPs7hd376VxwgLzrkv7upump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 16:48:15 | BUY | 0.000100 | `2jwf2xEtP1FaS3ie9Dv3Uj63nf4VAj...` |
+| 2026-03-16 17:58:51 | BUY | 0.000100 | `4D68dU5giS5xcujwe7seV2kDemhkLJ...` |
 

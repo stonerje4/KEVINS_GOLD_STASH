@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 17:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,17 +15,19 @@
 ## Trades
 
 ### 🟢 NAT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.06x
+- **Status:** partial | **Exit:** open
+- **Peak:** 4.38x | **Current:** 4.38x
 - **Mint:** `AaJJNH94bZmQJ5xqfp2gYj7ggzGDwnDCx3x1aUh3pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:53:00 | BUY | 0.000100 | `38FPZC1Rb96cYrxV2VRmhiYKtc9prV...` |
+| 2026-03-16 17:55:09 | SELL | 0.000025 | `3E1Cd8dkQtCpedWy8Spkk22cHakkrU...` |
+| 2026-03-16 17:56:24 | SELL | 0.000029 | `21unFnPoUjUa3YtUtzGHmpY7QRweLz...` |
 
 ### 🟢 SME
 - **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 1.38x
+- **Peak:** 1.91x | **Current:** 1.90x
 - **Mint:** `Dh6HtEHN6AmghFNYh3nzR2SPq1h4ub8HEMAC2Abrpump`
 
 | Time | Action | SOL | TX |
@@ -54,7 +56,7 @@
 
 ### 🟢 SIRI
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.18x | **Current:** 2.64x
+- **Peak:** 3.18x | **Current:** 2.55x
 - **Mint:** `8S2iD5M7HwE5zXC4u6ReaPLGdztTM24d9JCVREu5pump`
 
 | Time | Action | SOL | TX |
@@ -94,7 +96,7 @@
 
 ### 🟢 唐某某
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.51x
+- **Peak:** 1.04x | **Current:** 0.48x
 - **Mint:** `DH6WNNPRgLgEteFUaXTZB2hAUgqt434vsXudsQpGpump`
 
 | Time | Action | SOL | TX |
@@ -124,7 +126,7 @@
 
 ### 🟢 HVAC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.03x
+- **Peak:** 1.36x | **Current:** 1.01x
 - **Mint:** `7USpkp5mgAwTwQw8aMvYJUh4mwFoWoZtuU38j6wLpump`
 
 | Time | Action | SOL | TX |
@@ -631,7 +633,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.16x | **Current:** 1.55x
+- **Peak:** 2.16x | **Current:** 1.57x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |

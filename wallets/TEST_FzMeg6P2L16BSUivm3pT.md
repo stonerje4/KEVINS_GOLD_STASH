@@ -1,22 +1,31 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 17:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 1 |
+| Total Positions | 6 |
+| Open | 2 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.001400 |
 | **Closed P&L** | **+0.000524 SOL** |
 | **Closed ROI** | **+37.4%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
+### 🟢 Octocat
+- **Status:** open | **Exit:** open
+- **Peak:** 1.53x | **Current:** 0.83x
+- **Mint:** `29SYSVEoiK15qpo5cYdiP5fZwU4acGP8Qj9BEbSipump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:57:45 | BUY | 0.000100 | `Ji9ChFk6nHcbEURxhVBGPFXEn8pd8J...` |
+
 ### 🟢 OpenShell
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.04x | **Current:** 0.56x
 - **Mint:** `Gc78hWdJRgEJVUXZvgVLhwcdmmXaVzpKA3NgYb3cpump`
 
 | Time | Action | SOL | TX |
