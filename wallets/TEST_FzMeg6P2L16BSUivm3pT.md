@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 16:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 cheetozard
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.41x | **Current:** 2.41x
+- **Peak:** 2.42x | **Current:** 1.10x
 - **Mint:** `4AUjdXMVHLm4WSwvJ7MCkrPTzE3t6wT4Ghzbf9Xcpump`
 
 | Time | Action | SOL | TX |

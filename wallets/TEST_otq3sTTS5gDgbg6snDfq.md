@@ -1,18 +1,27 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 16:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 42 |
-| Open | 30 |
+| Total Positions | 43 |
+| Open | 31 |
 | Closed | 12 |
 | W/L | 4/8 |
 | SOL In (closed) | 0.007200 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+44.5%** |
-| Open Deployed | 0.016000 SOL |
+| Open Deployed | 0.016100 SOL |
 
 ## Trades
+
+### 🟢 pumpfun
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.83x
+- **Mint:** `FXuU7LgeNuZAC786YVxzjAAVG4Wf1oxvxphR7Kvnpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:57:47 | BUY | 0.000100 | `3maBBd3GkVhbuhv7nr9yCG7N7d8Hdm...` |
 
 ### 🟢 TRASH
 - **Status:** open | **Exit:** open
@@ -52,7 +61,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -142,7 +151,7 @@
 
 ### 🟢 HIDE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `8AvsABLpk7aoqFTTf2Dym6KoeDbJZ3wTE4qcAmbSpump`
 
 | Time | Action | SOL | TX |
@@ -179,7 +188,7 @@
 
 ### 🟢 SOLANA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `F9UJRKTLrkEVpKQdXJ7Jn4YPhaVFsBPHt6g5RhNEpump`
 
 | Time | Action | SOL | TX |
@@ -206,7 +215,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
@@ -234,7 +243,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.87x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |

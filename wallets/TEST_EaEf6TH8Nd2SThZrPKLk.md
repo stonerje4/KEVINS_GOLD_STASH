@@ -1,36 +1,37 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 16:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 86 |
-| Open | 16 |
-| Closed | 70 |
-| W/L | 69/1 |
-| SOL In (closed) | 0.035000 |
-| **Closed P&L** | **+0.029607 SOL** |
-| **Closed ROI** | **+84.6%** |
-| Open Deployed | 0.003100 SOL |
+| Open | 15 |
+| Closed | 71 |
+| W/L | 70/1 |
+| SOL In (closed) | 0.035100 |
+| **Closed P&L** | **+0.029632 SOL** |
+| **Closed ROI** | **+84.4%** |
+| Open Deployed | 0.003000 SOL |
 
 ## Trades
 
 ### 🟢 唐某某
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 1.04x
+- **Peak:** 1.04x | **Current:** 0.98x
 - **Mint:** `DH6WNNPRgLgEteFUaXTZB2hAUgqt434vsXudsQpGpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:51:25 | BUY | 0.000100 | `65HuDyppycTjJSRTZm4AQjvR85zfNd...` |
 
-### 🟢 MoeChan
-- **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 1.05x
+### 🔴 MoeChan
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.54x | **Current:** 0.25x
 - **Mint:** `2sVrzfChcYFQdKfcKGbHyaezbB27maWeQGj7zvSzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:50:39 | BUY | 0.000100 | `5kWb1G9gYWxMsC4W1t26UdPBmaTCFB...` |
+| 2026-03-16 16:57:39 | SELL | 0.000025 | `5AofsDTJDNJocPJfpE2FzH7ETaK7zy...` |
 
 ### 🔴 readyClaw
 - **Status:** closed | **Exit:** ghost_close_stop_loss

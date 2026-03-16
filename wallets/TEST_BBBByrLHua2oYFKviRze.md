@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 16:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,17 +15,18 @@
 ## Trades
 
 ### 🟢 BENJAMIN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.12x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.37x | **Current:** 2.37x
 - **Mint:** `7p2LMS9kR5VNXDbfD1f6dkwzBPovP1rEKRdjxC5rpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:52:32 | BUY | 0.000100 | `37J4xrPVJz5CTC1Fc3ix6YA2zmyVdx...` |
+| 2026-03-16 16:57:41 | SELL | 0.000021 | `2WL71WQRKnYLQEywjwQMhxVzuoBFZw...` |
 
 ### 🟢 CREACHER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.62x | **Current:** 0.75x
+- **Peak:** 1.62x | **Current:** 0.41x
 - **Mint:** `26AFDXWkkQrJZYwui4roDes5qrggvxyDsKx19R4ppump`
 
 | Time | Action | SOL | TX |
@@ -167,7 +168,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.02x
+- **Peak:** 1.74x | **Current:** 1.04x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |
