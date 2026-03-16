@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.08x
+- **Peak:** 1.10x | **Current:** 1.06x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +53,7 @@
 
 ### 🟢 WhiteBoy 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.01x
+- **Peak:** 1.11x | **Current:** 1.06x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +62,7 @@
 
 ### 🟢 Agent Doge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.11x
+- **Peak:** 1.25x | **Current:** 1.10x
 - **Mint:** `JB8J7Hp259EkmupJJKnqYuyPZXy1P7z22uwfzgJgpump`
 
 | Time | Action | SOL | TX |

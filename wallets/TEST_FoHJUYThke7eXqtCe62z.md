@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 14 |
-| Open | 11 |
+| Total Positions | 15 |
+| Open | 12 |
 | Closed | 3 |
 | SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.002028 |
@@ -12,6 +12,15 @@
 | **ROI** | **+12.6%** |
 
 ## Trades
+
+### 🟢 barviha
+- **Status:** open | **Exit:** open
+- **Peak:** 1.97x | **Current:** 0.92x
+- **Mint:** `is1x1YoRLw7qSB6MuBeV7PjtAZS6cGLrV95PAufpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:52:36 | BUY | 0.000600 | `5UqfZir6tZAsWpk3gcVT7VRzBZaAE1...` |
 
 ### 🟢 CAL
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -26,7 +35,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.74x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |
@@ -82,7 +91,7 @@
 
 ### 🟢 NPC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 1.02x
+- **Peak:** 1.02x | **Current:** 0.86x
 - **Mint:** `5NrVvCRuNctUbQTkSP8pwEeAd4n9g59bguUgUn7npump`
 
 | Time | Action | SOL | TX |
@@ -91,7 +100,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.80x
+- **Peak:** 1.05x | **Current:** 0.81x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |

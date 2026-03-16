@@ -1,35 +1,35 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 02:50 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 02:55 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.4408 SOL |
-| Open Positions | 64 (0.0572 SOL deployed) |
-| Closed Positions | 85 |
-| Total Positions | 149 |
+| SOL Balance | 1.4279 SOL |
+| Open Positions | 66 (0.0584 SOL deployed) |
+| Closed Positions | 88 |
+| Total Positions | 154 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.6020 SOL (-60.2%)** |
+| **Real P&L (on-chain)** | **-0.6137 SOL (-61.4%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
 |--------|-------|--------|------|-----|-----|--------|-----|-----|
+| `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 14 | 1 | 13 | 1/0 | 100% | 0.0084 | 🟢 +0.000924 | +154.1% |
 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🟢 +0.001524 | +127.0% |
 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 3 | 3 | 0 | 2/1 | 67% | 0.0018 | 🟢 +0.001118 | +62.1% |
 | `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 6 | 5 | 1 | 2/3 | 40% | 0.0036 | 🟢 +0.000465 | +15.5% |
-| `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 14 | 3 | 11 | 2/1 | 67% | 0.0178 | 🟢 +0.000228 | +12.6% |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 33 | 18 | 15 | 5/13 | 28% | 0.0198 | 🟢 +0.000042 | +0.4% |
+| `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 15 | 3 | 12 | 2/1 | 67% | 0.0184 | 🟢 +0.000228 | +12.6% |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 34 | 18 | 16 | 5/13 | 28% | 0.0204 | 🟢 +0.000806 | +7.5% |
 | `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 2 | 0 | 2 | 0/0 | 0% | 0.0106 | ⚪ +0.000000 | +0.0% |
 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 4 | 0 | 4 | 0/0 | 0% | 0.0024 | ⚪ +0.000000 | +0.0% |
-| `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 13 | 0 | 13 | 0/0 | 0% | 0.0078 | ⚪ +0.000000 | +0.0% |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🔴 -0.000044 | -3.6% |
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 10 | 4 | 6 | 1/3 | 25% | 0.0060 | 🔴 -0.000237 | -9.9% |
-| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 9 | 8 | 1 | 1/7 | 12% | 0.0054 | 🔴 -0.000812 | -16.9% |
-| `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo` | 7 | 5 | 2 | 1/4 | 20% | 0.0042 | 🔴 -0.000627 | -20.9% |
+| `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo` | 8 | 5 | 3 | 1/4 | 20% | 0.0048 | 🔴 -0.000627 | -20.9% |
+| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 10 | 10 | 0 | 2/8 | 20% | 0.0060 | 🔴 -0.001334 | -22.2% |
 | `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 9 | 9 | 0 | 1/8 | 11% | 0.0054 | 🔴 -0.001258 | -23.3% |
 | `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000184 | -30.7% |
 | `EyeSFbqHMXzZBTFqAYdM5E2o6Uv8pPCyLsSCv9Ax8Qgb` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000194 | -32.3% |

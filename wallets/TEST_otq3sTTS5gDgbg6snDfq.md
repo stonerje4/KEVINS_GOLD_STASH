@@ -1,17 +1,28 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 13 |
+| Total Positions | 14 |
 | Open | 13 |
-| Closed | 0 |
-| SOL In (closed) | 0.000000 |
-| SOL Out (sells) | 0.000000 |
-| **P&L** | **+0.000000 SOL** |
-| **ROI** | **+0.0%** |
+| Closed | 1 |
+| SOL In (closed) | 0.000600 |
+| SOL Out (sells) | 0.001524 |
+| **P&L** | **+0.000924 SOL** |
+| **ROI** | **+154.1%** |
 
 ## Trades
+
+### 🟢 USOA
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 6.18x | **Current:** 0.98x
+- **Mint:** `8QMJEuu8hx4CGhPGAhYVEroPe7Mo8VXYopHBMVuUJJqo`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:53:36 | BUY | 0.000600 | `5ShDBcT1d1pjLsn5tc3DHhojCb64iu...` |
+| 2026-03-16 02:53:50 | SELL | 0.001112 | `T1xtuA1WcsuUkQaWUUqCrVjpR8F8oA...` |
+| 2026-03-16 02:54:11 | SELL | 0.000412 | `2sgLTFWo3T2wiCe6n3eACasa9LhLqF...` |
 
 ### 🟢 TRUMPHOUSE
 - **Status:** open | **Exit:** open
@@ -33,7 +44,7 @@
 
 ### 🟢 Papua
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 
 | Time | Action | SOL | TX |
@@ -105,7 +116,7 @@
 
 ### 🟢 ZEBRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `EgPBL3UMV1Ebrmr1HLTd7xggtJ2emgevrYz8P14Qpump`
 
 | Time | Action | SOL | TX |
@@ -114,7 +125,7 @@
 
 ### 🟢 PIGEON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.77x
+- **Peak:** 1.01x | **Current:** 0.85x
 - **Mint:** `7qoFnme6rNMdr8Hhsi7MB5oVJx5xD6aeiPevtWGEpump`
 
 | Time | Action | SOL | TX |

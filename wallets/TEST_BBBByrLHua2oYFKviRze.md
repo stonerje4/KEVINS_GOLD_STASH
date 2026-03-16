@@ -1,27 +1,38 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 1 |
-| Closed | 8 |
-| SOL In (closed) | 0.004800 |
-| SOL Out (sells) | 0.003988 |
-| **P&L** | **-0.000812 SOL** |
-| **ROI** | **-16.9%** |
+| Total Positions | 10 |
+| Open | 0 |
+| Closed | 10 |
+| SOL In (closed) | 0.006000 |
+| SOL Out (sells) | 0.004666 |
+| **P&L** | **-0.001334 SOL** |
+| **ROI** | **-22.2%** |
 
 ## Trades
 
+### 🔴 Unemployed
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.67x
+- **Mint:** `7Wun7kVvmjJFPKKj8rXeAPCPA5xSouKQJTnihftepump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:52:23 | BUY | 0.000600 | `4PcDfDqDJgMaq7TRHLTFt8n6m9CN7b...` |
+| 2026-03-16 02:53:31 | SELL | 0.000400 | `4DwEzcQrkEhrfSNgY8R2kdEQxSPvFQ...` |
+
 ### 🟢 KIMMEL
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.04x | **Current:** 2.04x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.04x | **Current:** 0.66x
 - **Mint:** `BrA2pCD9rMBAs66KJQoUNqsbvxxYXDTZ2WrYMgWkpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:47:12 | BUY | 0.000600 | `mjZXAcdiS2AoHSq5fgdBDGgVaNL9hZ...` |
 | 2026-03-16 02:49:44 | SELL | 0.000366 | `5HdABmyrZgmUNGxJQNvcEe9kZS2Ga7...` |
+| 2026-03-16 02:50:15 | SELL | 0.000278 | `2KH3UNRjeVbLFNY4b6GYwtJrqh5R3P...` |
 
 ### 🔴 StAInberger
 - **Status:** closed | **Exit:** ghost_close_stop_loss
