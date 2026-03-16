@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 17:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 0 |
+| Total Positions | 4 |
+| Open | 1 |
 | Closed | 3 |
 | W/L | 3/0 |
 | SOL In (closed) | 0.001300 |
 | **Closed P&L** | **+0.000497 SOL** |
 | **Closed ROI** | **+38.2%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 Niggercell
+- **Status:** open | **Exit:** open
+- **Peak:** 1.22x | **Current:** 1.22x
+- **Mint:** `CGcWYnxo3fSza5hxvFTY4Rboo9s2pfsPsZM1gvsWpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:16:37 | BUY | 0.000100 | `5FmdcZCh7MoFoNqWRErajhpobMFEoZ...` |
 
 ### 🔴 cheetozard
 - **Status:** closed | **Exit:** runner_trailing_stop

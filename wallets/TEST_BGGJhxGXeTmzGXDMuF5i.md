@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
-> Generated: 2026-03-16 17:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 13 |
-| Open | 11 |
+| Total Positions | 14 |
+| Open | 12 |
 | Closed | 2 |
 | W/L | 0/2 |
 | SOL In (closed) | 0.010600 |
 | **Closed P&L** | **+0.000000 SOL** |
 | **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.004100 SOL |
+| Open Deployed | 0.004200 SOL |
 
 ## Trades
+
+### 🟢 $BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 0.95x
+- **Mint:** `CvSPZgK8RP7T3n9qvoMXvFrSVHjSsVd9eHAtpGXKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:17:30 | BUY | 0.000100 | `tmjqmgYo9V7eUCy8kbzCyhDj7bks3N...` |
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
@@ -25,7 +34,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `FPK4PL9LxEYjTHF57W4zkffLSRaEh9bKy3NJtGyLpump`
 
 | Time | Action | SOL | TX |

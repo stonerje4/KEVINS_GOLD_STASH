@@ -1,18 +1,28 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-16 17:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000600 |
 | **Closed P&L** | **+0.000274 SOL** |
 | **Closed ROI** | **+45.6%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 Rocketman
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 0.42x
+- **Mint:** `a4g2BeuF66q8dbjwxVJ792tT3KM27ze8ZQAmCzNpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:14:40 | BUY | 0.000100 | `?` |
+| 2026-03-16 17:16:54 | BUY | 0.000100 | `zzu8ufpiXbe9c75vys6wQ5n5S96Pf5...` |
 
 ### 🟢 ヌオー
 - **Status:** open | **Exit:** open

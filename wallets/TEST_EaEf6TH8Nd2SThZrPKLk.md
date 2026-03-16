@@ -1,18 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 17:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 87 |
-| Open | 15 |
+| Total Positions | 88 |
+| Open | 16 |
 | Closed | 72 |
 | W/L | 71/1 |
 | SOL In (closed) | 0.035200 |
 | **Closed P&L** | **+0.029650 SOL** |
 | **Closed ROI** | **+84.2%** |
-| Open Deployed | 0.003000 SOL |
+| Open Deployed | 0.003100 SOL |
 
 ## Trades
+
+### 🟢 AGENTDUCK
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `GdSNWowq9KRg4gMEBhewdXsud7YECm8KBwT66gxDpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:18:36 | BUY | 0.000100 | `29qeCvyDQaPDc1xLh1cKmZXWA1uXHk...` |
 
 ### 🔴 GODMONKEY
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -462,7 +471,7 @@
 
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.71x
+- **Peak:** 1.12x | **Current:** 0.70x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |
