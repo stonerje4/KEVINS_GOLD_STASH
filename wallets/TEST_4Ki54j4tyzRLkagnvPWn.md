@@ -1,26 +1,36 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 02:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000327 |
-| **P&L** | **-0.000273 SOL** |
-| **ROI** | **-45.5%** |
+| SOL Out (sells) | 0.000705 |
+| **P&L** | **+0.000105 SOL** |
+| **ROI** | **+17.5%** |
 
 ## Trades
 
-### 🟢 Bagwork
+### 🟢 F1
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `3nEe5mogjT9EmAdbACYAnEwaLBeSTRDvBkhzgnHupump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:06:14 | BUY | 0.000600 | `33euwDX1UnbVyyruTt5CNcJJKe6i2g...` |
+
+### 🟢 Bagwork
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.12x | **Current:** 2.10x
 - **Mint:** `HpSDYeRXdmzUybsHqA67BcdyMyYxeQRDJUt6xy7Fpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:04:44 | BUY | 0.000600 | `4Qkbp1K9mChWEh1LCoUNaF1Wg1notR...` |
+| 2026-03-16 02:05:35 | SELL | 0.000378 | `26Gj9HBgtciczbsMFd4oJfvZ2Nf9kk...` |
 
 ### 🔴 Pereza
 - **Status:** closed | **Exit:** ghost_close_stop_loss

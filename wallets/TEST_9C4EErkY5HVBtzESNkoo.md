@@ -1,15 +1,15 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 02:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 2 |
-| Closed | 4 |
-| SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.000963 |
-| **P&L** | **-0.001437 SOL** |
-| **ROI** | **-59.9%** |
+| Open | 1 |
+| Closed | 5 |
+| SOL In (closed) | 0.003000 |
+| SOL Out (sells) | 0.001295 |
+| **P&L** | **-0.001705 SOL** |
+| **ROI** | **-56.8%** |
 
 ## Trades
 
@@ -22,14 +22,15 @@
 |------|--------|-----|----|
 | 2026-03-15 23:04:57 | BUY | 0.000600 | `5CJKJYP5dc2KB69diX2ssZ9mZzceQV...` |
 
-### 🟢 Multiverse
-- **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.77x
+### 🔴 Multiverse
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.07x | **Current:** 0.53x
 - **Mint:** `DKkE1S5uT93enY9D4WCpkwah7DTro39bD9mLzF4spump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:57:29 | BUY | 0.000600 | `5V3nR2sYkGMkJtMpAG4neGC47SsuGu...` |
+| 2026-03-16 02:07:10 | SELL | 0.000332 | `2iqs39oRw9ruLETPdQkDT7pKXCiyLu...` |
 
 ### 🔴 Normie
 - **Status:** closed | **Exit:** ghost_close_stop_loss
