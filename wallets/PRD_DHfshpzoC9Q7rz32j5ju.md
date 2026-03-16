@@ -1,16 +1,16 @@
 # [PRD] Wallet: `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf`
-> Generated: 2026-03-16 14:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 14:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 45 |
-| Open | 3 |
-| Closed | 42 |
-| W/L | 14/28 |
-| SOL In (closed) | 4.000000 |
-| **Closed P&L** | **-0.002715 SOL** |
-| **Closed ROI** | **-0.1%** |
-| Open Deployed | 0.450000 SOL |
+| Open | 2 |
+| Closed | 43 |
+| W/L | 15/28 |
+| SOL In (closed) | 4.150000 |
+| **Closed P&L** | **+0.045660 SOL** |
+| **Closed ROI** | **+1.1%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
@@ -52,14 +52,15 @@
 | 2026-03-16 03:31:37 | BUY | 0.150000 | `5kjexXScxDm6KZFBRHF78x5WFtvo21...` |
 | 2026-03-16 03:52:05 | SELL | 0.104670 | `2WzihxJn9zK3vZFpLFJ3kPx74JQLpt...` |
 
-### 🟢 XAIC
-- **Status:** open | **Exit:** open
+### 🔴 XAIC
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.33x | **Current:** 0.00x
 - **Mint:** `FmxDdxpFmmuN4DeXoHFzuEyrH8RfRsej6oxg4MaUpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:40:12 | BUY | 0.150000 | `65DzTWUFNkxigaAaFPDFME8KXRPu8L...` |
+| 2026-03-16 14:24:02 | SELL | 0.000000 | `5DihNz5Suhf42SaDFiGzuCRLsP7goS...` |
 
 ### 🔴 QVAC
 - **Status:** closed | **Exit:** stale_position_cleanup

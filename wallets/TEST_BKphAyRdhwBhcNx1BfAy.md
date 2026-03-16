@@ -1,22 +1,31 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 14:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 208 |
+| Total Positions | 209 |
 | Open | 50 |
-| Closed | 158 |
-| W/L | 153/5 |
-| SOL In (closed) | 0.094800 |
-| **Closed P&L** | **+0.082411 SOL** |
-| **Closed ROI** | **+86.9%** |
+| Closed | 159 |
+| W/L | 154/5 |
+| SOL In (closed) | 0.095400 |
+| **Closed P&L** | **+0.083672 SOL** |
+| **Closed ROI** | **+87.7%** |
 | Open Deployed | 0.030000 SOL |
 
 ## Trades
 
+### 🟢 CHANCE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.96x
+- **Mint:** `5HfwGd1jKVzzzQmT1RiAC6oLkuH7uBszv44ErJLApump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:21:46 | BUY | 0.000600 | `4vBR5rCtHwF29HQWF4v5bkLg32ewT8...` |
+
 ### 🟢 AgenTTT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.82x
+- **Peak:** 1.08x | **Current:** 0.95x
 - **Mint:** `7oB9WZVQH9vQcgMs1JHccchQbqVECD7MGZ8LyGgCpump`
 
 | Time | Action | SOL | TX |
@@ -43,8 +52,8 @@
 | 2026-03-16 14:13:42 | BUY | 0.000600 | `5PzxjWpfy2jWrcKwNbj4MczHzegZzo...` |
 
 ### 🟢 Snootlets
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.58x | **Current:** 2.53x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.58x | **Current:** 1.92x
 - **Mint:** `EUfPZ6A6NFhXKFmkSpFN5zzXTEBypjJQ8beXCKUdpump`
 
 | Time | Action | SOL | TX |
@@ -52,6 +61,7 @@
 | 2026-03-16 14:10:59 | BUY | 0.000600 | `496cdmwTPbfwYKLq8BQXbqs4Davar4...` |
 | 2026-03-16 14:13:59 | SELL | 0.000388 | `3V2hkRsFuFpLiP8S6ctsUecmF6aAza...` |
 | 2026-03-16 14:17:07 | SELL | 0.000148 | `3VhBPQgwHi7YMHUQvNesRxj27Y2hjg...` |
+| 2026-03-16 14:21:46 | SELL | 0.000725 | `516hP8YSEQP84ub8GAF57UP7gaQcnh...` |
 
 ### 🟢 Chinaman
 - **Status:** open | **Exit:** open
@@ -212,7 +222,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 1.37x
+- **Peak:** 1.80x | **Current:** 1.35x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -347,7 +357,7 @@
 
 ### 🟢 Angela
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.41x | **Current:** 2.41x
+- **Peak:** 2.41x | **Current:** 1.52x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |
@@ -1445,7 +1455,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.86x
+- **Peak:** 1.90x | **Current:** 1.90x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
