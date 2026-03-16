@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 10:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -80,7 +80,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 1.12x
+- **Peak:** 1.24x | **Current:** 1.24x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
@@ -109,7 +109,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.15x
+- **Peak:** 1.18x | **Current:** 1.08x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |
@@ -128,7 +128,7 @@
 
 ### 🟢 TIM
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.85x | **Current:** 2.23x
+- **Peak:** 2.85x | **Current:** 2.15x
 - **Mint:** `9rZyxfCQhGCBcpbFW3LUjVKoBajVbN6kYdHmaFXSpump`
 
 | Time | Action | SOL | TX |

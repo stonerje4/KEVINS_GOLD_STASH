@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 10:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 SHITCOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.43x
+- **Peak:** 1.92x | **Current:** 1.30x
 - **Mint:** `7d16UvK5vFtjz2M59e4wJ2ewj3HZr4hG3Wjmjhwzpump`
 
 | Time | Action | SOL | TX |
@@ -102,7 +102,7 @@
 
 ### 🟢 NANO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 1.57x
+- **Peak:** 1.57x | **Current:** 1.52x
 - **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
 
 | Time | Action | SOL | TX |
@@ -719,7 +719,7 @@
 
 ### 🟢 骡子快跑
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `BmZnETG7aTfgCCm7b3V8JU9122usumdXeM283HWgpump`
 
 | Time | Action | SOL | TX |
@@ -883,7 +883,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.52x
+- **Peak:** 1.87x | **Current:** 1.67x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -892,7 +892,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.88x
+- **Peak:** 1.12x | **Current:** 0.90x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -1358,7 +1358,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.54x
+- **Peak:** 1.79x | **Current:** 1.56x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |

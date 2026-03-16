@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 10:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 39 |
-| Open | 1 |
+| Total Positions | 40 |
+| Open | 2 |
 | Closed | 38 |
 | SOL In (closed) | 0.022800 |
 | SOL Out (sells) | 0.021210 |
@@ -12,6 +12,15 @@
 | **ROI** | **-7.0%** |
 
 ## Trades
+
+### 🟢 MATM
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `9gg1QdcoEcqFaYZeA1FhMWw9i2BPJMrx1c6UH6CKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:57:19 | BUY | 0.000600 | `49okTNYvsbszYmhy3svCoD2w45xyRP...` |
 
 ### 🔴 $GENIUS
 - **Status:** closed | **Exit:** ghost_close_stop_loss

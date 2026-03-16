@@ -1,15 +1,15 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 10:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 16 |
-| Open | 3 |
-| Closed | 13 |
-| SOL In (closed) | 0.007800 |
-| SOL Out (sells) | 0.003745 |
-| **P&L** | **-0.004055 SOL** |
-| **ROI** | **-52.0%** |
+| Open | 2 |
+| Closed | 14 |
+| SOL In (closed) | 0.008400 |
+| SOL Out (sells) | 0.004722 |
+| **P&L** | **-0.003678 SOL** |
+| **ROI** | **-43.8%** |
 
 ## Trades
 
@@ -91,14 +91,15 @@
 | 2026-03-16 03:16:18 | SELL | 0.000380 | `26H4P5fdsmckbPDA23QeyvBdbC1qHZ...` |
 
 ### 🟢 ZIO
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.03x | **Current:** 2.83x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.03x | **Current:** 2.39x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:06:28 | BUY | 0.000600 | `5DpaqFkgkFbtakzMPUJtCbFyyscZHw...` |
 | 2026-03-16 10:37:08 | SELL | 0.000370 | `5orCV9WngD9BTW1vA8arbWa1o3eTP9...` |
+| 2026-03-16 10:58:11 | SELL | 0.000978 | `3jr4qav4Fhj8VRHKbMhZ7AYFm1W8Nh...` |
 
 ### 🔴 FOOD
 - **Status:** closed | **Exit:** ghost_close_stop_loss

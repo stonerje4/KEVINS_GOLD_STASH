@@ -1,17 +1,26 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 10:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 39 |
+| Total Positions | 40 |
 | Open | 30 |
-| Closed | 9 |
-| SOL In (closed) | 0.014800 |
-| SOL Out (sells) | 0.004079 |
-| **P&L** | **-0.010721 SOL** |
-| **ROI** | **-72.4%** |
+| Closed | 10 |
+| SOL In (closed) | 0.015400 |
+| SOL Out (sells) | 0.004893 |
+| **P&L** | **-0.010507 SOL** |
+| **ROI** | **-68.2%** |
 
 ## Trades
+
+### 🟢 Sanmao
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.96x
+- **Mint:** `58fab38dveHBMAzPN6aGm4LXxp3sUcwzXTjik4QFpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:57:09 | BUY | 0.000600 | `4AKSvrf43mfKwG95Sm29xk428QbvqT...` |
 
 ### 🟢 KENNY
 - **Status:** open | **Exit:** open
@@ -32,13 +41,15 @@
 | 2026-03-16 10:30:58 | BUY | 0.000600 | `4xLQTwD3tRP1ZhNpYEB8KW5zk9Cnyi...` |
 
 ### 🟢 CA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.85x | **Current:** 1.85x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.17x | **Current:** 1.02x
 - **Mint:** `EbJ5pgXfVapFfYU1qHias96g4L67ajzJbw55kxstpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 10:21:11 | BUY | 0.000600 | `3TkFGG7MbcKRKshhYCwCvduX6uU1o9...` |
+| 2026-03-16 10:55:18 | SELL | 0.000389 | `5C6G8BKAm8hKEE3ZSadoRVUa6UK9Fq...` |
+| 2026-03-16 10:57:00 | SELL | 0.000425 | `4WcTGgTWSz8gyBLCRznbJv9EstXSJt...` |
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
