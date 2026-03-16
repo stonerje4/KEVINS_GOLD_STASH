@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
-> Generated: 2026-03-16 17:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Luusha 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.52x
+- **Peak:** 1.00x | **Current:** 0.51x
 - **Mint:** `4dWrMPMzEH99jm2XDf8STnwbw61ro7KumR6PnpDzpump`
 
 | Time | Action | SOL | TX |

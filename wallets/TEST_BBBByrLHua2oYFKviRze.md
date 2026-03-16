@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 17:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ORCA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.39x | **Current:** 0.87x
 - **Mint:** `3MXwNB5y8Y4vQsRJNTSZ8XZTNsGRn2eCJa3iqBKxpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Metacoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.74x
+- **Peak:** 1.00x | **Current:** 0.51x
 - **Mint:** `3uYVyzLJpg1jv6LthEkNhBYVRUrppd2ncDE7e8wopump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 NEMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.50x
+- **Peak:** 1.01x | **Current:** 0.52x
 - **Mint:** `EDNHXRbAzUfqNeEmZ4zzxVQH8mwsVj2VjzHozGGBfU9f`
 
 | Time | Action | SOL | TX |
@@ -71,7 +71,7 @@
 
 ### 🟢 000
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.44x
+- **Peak:** 1.08x | **Current:** 0.56x
 - **Mint:** `B25ibEpgUpikZNYGhWzaSZizNRhsf45Hqk3gGKSXpump`
 
 | Time | Action | SOL | TX |
@@ -92,7 +92,7 @@
 
 ### 🟢 Rocketman
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 0.58x
+- **Peak:** 1.73x | **Current:** 0.71x
 - **Mint:** `3AVfhVVkgoZxCocQjGrXXZNTZsaGEpJF1ffz1euZpump`
 
 | Time | Action | SOL | TX |
@@ -110,7 +110,7 @@
 
 ### 🟢 K-Dense
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.52x | **Current:** 3.05x
+- **Peak:** 3.52x | **Current:** 2.88x
 - **Mint:** `37oc6mzcT1cLb5yf88mzZnXvccheSTUft3xq92z4pump`
 
 | Time | Action | SOL | TX |
@@ -313,7 +313,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.26x
+- **Peak:** 1.74x | **Current:** 1.27x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 17:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 A17
 - **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 1.40x
+- **Peak:** 1.40x | **Current:** 1.12x
 - **Mint:** `GsJRsRRapMiDd9Tb3FrTuZPmxQg5RBG52BjWw6Fb1KT5`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 RAVEN
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.36x | **Current:** 4.14x
+- **Peak:** 4.36x | **Current:** 2.66x
 - **Mint:** `6aeUKhVibBWEf21vd9N8YnLhNQkfzKWSkeucFyZvpump`
 
 | Time | Action | SOL | TX |
@@ -366,7 +366,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
