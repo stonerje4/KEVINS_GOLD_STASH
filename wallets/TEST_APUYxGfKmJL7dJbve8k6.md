@@ -1,26 +1,27 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 02:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 1 |
-| Closed | 8 |
-| SOL In (closed) | 0.004800 |
-| SOL Out (sells) | 0.003790 |
-| **P&L** | **-0.001010 SOL** |
-| **ROI** | **-21.1%** |
+| Open | 0 |
+| Closed | 9 |
+| SOL In (closed) | 0.005400 |
+| SOL Out (sells) | 0.004142 |
+| **P&L** | **-0.001258 SOL** |
+| **ROI** | **-23.3%** |
 
 ## Trades
 
-### 🟢 Clanker
-- **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.02x
+### 🔴 Clanker
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.36x | **Current:** 0.58x
 - **Mint:** `GxFafS45Jt7HS4tXYiBtfuYe7LFNYPmoBwknWrCHpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:15:42 | BUY | 0.000600 | `568i5EtaoL2Xkf7cj2sczC4r4w1nC2...` |
+| 2026-03-16 02:28:44 | SELL | 0.000353 | `EP9sifJL4ubrW6nzWAKjteaEE2drFY...` |
 
 ### 🔴 Agent
 - **Status:** closed | **Exit:** ghost_close_stop_loss

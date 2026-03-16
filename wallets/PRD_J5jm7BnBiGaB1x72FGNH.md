@@ -1,10 +1,10 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-16 02:25 UTC | Environment: **PRD**
+> Generated: 2026-03-16 02:30 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 38 |
-| Open | 1 |
+| Total Positions | 39 |
+| Open | 2 |
 | Closed | 37 |
 | SOL In (closed) | 4.210000 |
 | SOL Out (sells) | 4.448031 |
@@ -12,6 +12,15 @@
 | **ROI** | **+5.7%** |
 
 ## Trades
+
+### 🟢 Hospice
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `9881PcWE3RpJa4pSmtHSADFsaAt7J38fT1LUgEBzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:25:33 | BUY | 0.150000 | `4L1TEcGupEUZh8arTMCpyCPZ1rwRu7...` |
 
 ### 🟢 Hospice
 - **Status:** closed | **Exit:** runner_trailing_stop
