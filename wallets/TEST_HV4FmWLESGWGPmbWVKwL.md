@@ -1,26 +1,27 @@
 # [TEST] Wallet: `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks`
-> Generated: 2026-03-16 02:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 2 |
-| Closed | 2 |
-| SOL In (closed) | 0.010600 |
-| SOL Out (sells) | 0.007100 |
-| **P&L** | **-0.003500 SOL** |
-| **ROI** | **-33.0%** |
+| Open | 1 |
+| Closed | 3 |
+| SOL In (closed) | 0.011200 |
+| SOL Out (sells) | 0.007516 |
+| **P&L** | **-0.003684 SOL** |
+| **ROI** | **-32.9%** |
 
 ## Trades
 
-### 🟢 F4LC0N
-- **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 0.70x
+### 🔴 F4LC0N
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.20x | **Current:** 0.69x
 - **Mint:** `ABzzqEV6JTxyfRXNVmQutzsReHNgNy8oLzJ6oYWW1Amz`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:22:25 | BUY | 0.000600 | `GBCYsAzddvWYgmh9Q2tcSFDaJTBrMb...` |
+| 2026-03-16 02:15:40 | SELL | 0.000417 | `4VRsbmYq4CsyGy9byMnfduFQJKz7VF...` |
 
 ### 🔴 JESSIE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

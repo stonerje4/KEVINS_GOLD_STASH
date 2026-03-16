@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 02:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 11 |
-| Open | 10 |
+| Total Positions | 12 |
+| Open | 11 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
 | SOL Out (sells) | 0.000401 |
@@ -12,6 +12,15 @@
 | **ROI** | **-33.1%** |
 
 ## Trades
+
+### 🟢 SKUNS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `2QCSyC7HfVsAVyxYtEiLgKhWDogDyHon1w5gyZE6pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:18:50 | BUY | 0.000600 | `2fEHPQvVpMQoaY8feQWHFYXoCp6KL5...` |
 
 ### 🟢 GSD2
 - **Status:** open | **Exit:** open
@@ -60,7 +69,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.89x
+- **Peak:** 1.05x | **Current:** 0.81x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |
