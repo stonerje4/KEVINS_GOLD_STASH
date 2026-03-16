@@ -1,26 +1,37 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 01:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 1 |
-| Closed | 5 |
-| SOL In (closed) | 0.003000 |
-| SOL Out (sells) | 0.002723 |
-| **P&L** | **-0.000277 SOL** |
-| **ROI** | **-9.2%** |
+| Total Positions | 7 |
+| Open | 0 |
+| Closed | 7 |
+| SOL In (closed) | 0.004200 |
+| SOL Out (sells) | 0.003370 |
+| **P&L** | **-0.000830 SOL** |
+| **ROI** | **-19.8%** |
 
 ## Trades
 
-### 🟢 TolyAI
-- **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.08x
+### 🔴 GSD
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.50x
+- **Mint:** `E2SCFZb8J3uhqo9xaLU9HTp3FWErg4W98KXogmKkpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:48:07 | BUY | 0.000600 | `K3jBgG3NDA2iF9fZgs9MK2YE4TqSAU...` |
+| 2026-03-16 01:49:32 | SELL | 0.000297 | `5G1Py4iQiTmjVdbfXCYhYJuXJ1jCN6...` |
+
+### 🔴 TolyAI
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.08x | **Current:** 0.58x
 - **Mint:** `BYs56xjaynS5VNwh513mFxhzKUpD9K88yA4Hnzvwpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:44:21 | BUY | 0.000600 | `55vvMZxJ3ZYPCkg9cK6AvvWKkevAb9...` |
+| 2026-03-16 01:46:40 | SELL | 0.000350 | `2uxLzZqSWsQZ4oRgDKsQSNhgcZ41bN...` |
 
 ### 🔴 PVE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

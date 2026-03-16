@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4`
-> Generated: 2026-03-16 01:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 PIKE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `FnsrVv2iJWmrChyWLsPRKrdRPnshBPhgR8VZLfugpump`
 
 | Time | Action | SOL | TX |
