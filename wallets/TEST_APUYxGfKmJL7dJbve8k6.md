@@ -1,17 +1,27 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 04:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 14 |
+| Total Positions | 15 |
 | Open | 0 |
-| Closed | 14 |
-| SOL In (closed) | 0.008400 |
-| SOL Out (sells) | 0.007281 |
-| **P&L** | **-0.001119 SOL** |
-| **ROI** | **-13.3%** |
+| Closed | 15 |
+| SOL In (closed) | 0.009000 |
+| SOL Out (sells) | 0.007492 |
+| **P&L** | **-0.001508 SOL** |
+| **ROI** | **-16.8%** |
 
 ## Trades
+
+### 🔴 SRM
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.14x | **Current:** 0.35x
+- **Mint:** `8YjAT6DnjND5D21X6g1gmC2NEGxxLLEmkR3M98Xpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:15:58 | BUY | 0.000600 | `3mTNEexTGhUxFh3gSW8FayGhjDg2UR...` |
+| 2026-03-16 04:17:32 | SELL | 0.000210 | `2zYbZgwFcy7EAEKfokHqBsEF2RrxYZ...` |
 
 ### 🔴 Nebresearch
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half

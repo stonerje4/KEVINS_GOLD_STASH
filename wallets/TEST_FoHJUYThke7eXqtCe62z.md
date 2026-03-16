@@ -1,21 +1,30 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 04:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 18 |
-| Open | 15 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
+| Total Positions | 19 |
+| Open | 14 |
+| Closed | 5 |
+| SOL In (closed) | 0.012400 |
 | SOL Out (sells) | 0.002028 |
-| **P&L** | **+0.000228 SOL** |
-| **ROI** | **+12.6%** |
+| **P&L** | **-0.010372 SOL** |
+| **ROI** | **-83.6%** |
 
 ## Trades
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
 - **Peak:** 1.00x | **Current:** 0.91x
+- **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:18:26 | BUY | 0.000600 | `4vxai2xDVabvx9cLT652XuFXhpsTQg...` |
+
+### 🟢 Simple
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `6gjdV7soB8RiKvGdMh6XMinsPVyeG4TprL4rYrFQpump`
 
 | Time | Action | SOL | TX |
@@ -82,7 +91,7 @@
 
 ### 🟢 GSD2
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 1.18x
+- **Peak:** 1.21x | **Current:** 0.79x
 - **Mint:** `DN2SA3CRMRa6K14T52VnTkdPVQ7d1W882f4rFV4Fi8n`
 
 | Time | Action | SOL | TX |
@@ -118,7 +127,7 @@
 
 ### 🟢 NPC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.78x
+- **Peak:** 1.02x | **Current:** 0.86x
 - **Mint:** `5NrVvCRuNctUbQTkSP8pwEeAd4n9g59bguUgUn7npump`
 
 | Time | Action | SOL | TX |
@@ -162,8 +171,8 @@
 |------|--------|-----|----|
 | 2026-03-15 22:19:55 | BUY | 0.000600 | `5FMpzBen24Ab7xN1dqSzG1JniDCKV1...` |
 
-### 🟢 CSS
-- **Status:** open | **Exit:** open
+### 🔴 CSS
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `mrz8TAAy9U13wYSR5RC4z5RA6VMkp6HBYXaZFCDpump`
 
@@ -171,8 +180,8 @@
 |------|--------|-----|----|
 | 2026-03-15 21:44:20 | BUY | 0.000600 | `5fMzc9FSJ8sng8B4KkArJF7hKJvQjd...` |
 
-### 🟢 xaicash
-- **Status:** open | **Exit:** open
+### 🔴 xaicash
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.67x | **Current:** 1.03x
 - **Mint:** `DtN37CUdr5B2LQtJGG2ktmUGXk27UsTYbDQddCiCpump`
 

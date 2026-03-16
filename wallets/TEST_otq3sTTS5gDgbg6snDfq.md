@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 04:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -162,8 +162,8 @@
 | 2026-03-15 21:58:45 | BUY | 0.000600 | `2E7nSCdvGLM7WJkM4xyhXxt3dNvG8E...` |
 
 ### 🟢 WOOPA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Status:** partial | **Exit:** stale_cleanup
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `C5DLfd6Ve2mrxJVrcqqawpPBcVFYRGPqqay8Qddipump`
 
 | Time | Action | SOL | TX |

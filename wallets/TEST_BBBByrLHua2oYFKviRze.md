@@ -1,21 +1,39 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 04:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 15 |
-| Open | 1 |
-| Closed | 14 |
-| SOL In (closed) | 0.008400 |
+| Total Positions | 17 |
+| Open | 2 |
+| Closed | 15 |
+| SOL In (closed) | 0.009000 |
 | SOL Out (sells) | 0.006986 |
-| **P&L** | **-0.001414 SOL** |
-| **ROI** | **-16.8%** |
+| **P&L** | **-0.002014 SOL** |
+| **ROI** | **-22.4%** |
 
 ## Trades
 
+### 🟢 LOOM
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `WQQS2AQGmch22dVx4cg83r51mtNL5f1DtVWBWxKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:19:38 | BUY | 0.000600 | `45b7RfyYMPVagcYjoejLnVUcEFrRKK...` |
+
+### 🔴 SAMO
+- **Status:** closed | **Exit:** ghost_close_tp_2x_half
+- **Peak:** 2.09x | **Current:** 2.09x
+- **Mint:** `9W6cYJmYj54z46wqCLbTQ2HDfj5p7qVSFgfjCGVupump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:17:15 | BUY | 0.000600 | `2pQ24Do4CrJsp7TdiXWN4fmN2GAGUR...` |
+
 ### 🟢 󠀠󠀠
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.24x
+- **Peak:** 1.59x | **Current:** 1.54x
 - **Mint:** `BTtsW9YukeQg2GVTQqbVGCxLBdgrJCFY6qQviHmPth6j`
 
 | Time | Action | SOL | TX |
