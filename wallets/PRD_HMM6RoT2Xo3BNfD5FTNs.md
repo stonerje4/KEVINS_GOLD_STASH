@@ -1,5 +1,5 @@
 # [PRD] Wallet: `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j`
-> Generated: 2026-03-16 22:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,8 +15,8 @@
 ## Trades
 
 ### 🟢 TIM
-- **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.03x | **Current:** 0.00x
 - **Mint:** `GfDfRvhGbvCHrnuUbXB7z6RXosgZzTGCyP59Yvddpump`
 
 | Time | Action | SOL | TX |
@@ -25,6 +25,7 @@
 | 2026-03-16 04:36:41 | SELL | 0.099406 | `jzUEm4KzoHqB6DMa5eGhgQLnZUhQiW...` |
 | 2026-03-16 05:13:49 | SELL | 0.217287 | `5k7fXY7vWQVQCQ3cTAd2GPADtDHUEt...` |
 | 2026-03-16 21:58:51 | BUY | 0.150000 | `zu1WGhpcpVqeU8hrCcs7ArWEE6QYGN...` |
+| 2026-03-16 22:33:13 | SELL | 0.030490 | `hghH5qseP7yYkxdVP3qVu7ATazFcKC...` |
 
 ### 🔴 NEMOTRON
 - **Status:** closed | **Exit:** runner_trailing_stop
