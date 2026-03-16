@@ -1,21 +1,60 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 11:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 151 |
-| Open | 35 |
-| Closed | 116 |
-| SOL In (closed) | 0.069600 |
-| SOL Out (sells) | 0.063919 |
-| **P&L** | **-0.005681 SOL** |
-| **ROI** | **-8.2%** |
+| Total Positions | 155 |
+| Open | 38 |
+| Closed | 117 |
+| SOL In (closed) | 0.070200 |
+| SOL Out (sells) | 0.065694 |
+| **P&L** | **-0.004506 SOL** |
+| **ROI** | **-6.4%** |
 
 ## Trades
 
+### 🟢 Robust
+- **Status:** open | **Exit:** open
+- **Peak:** 1.44x | **Current:** 1.09x
+- **Mint:** `6s7jt2LjorFmT1Sok8so3CQWAEjDaMHvvMUQRfPMpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:01:54 | BUY | 0.000600 | `5fQqEdqLHWp3RgA6ZaksftbmQLz2CS...` |
+
+### 🟢 AGENTR
+- **Status:** partial | **Exit:** runner_trailing_stop
+- **Peak:** 3.17x | **Current:** 2.72x
+- **Mint:** `EJcfRvu6BXxW671d5BDHZcDqFJHAU77Xg4cS11Kzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:00:46 | BUY | 0.000600 | `46iVgBZZ7aDtpRBgBGJchtVzLQzfUt...` |
+| 2026-03-16 11:02:21 | SELL | 0.000469 | `PZDMRrfjz8JPAzhVb6KBptZ3nNJh8R...` |
+| 2026-03-16 11:03:31 | SELL | 0.000902 | `Wby4D82DozbwLtLS7K92f4tFCANBFE...` |
+
+### 🔴 Eric
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.67x
+- **Mint:** `13CeoAsnZWDnR97enaedqpTQ7ginyRfycs5sznAtpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:00:08 | BUY | 0.000600 | `51vBjSaEkrjLg8hLeDk7TBoZ44h6rN...` |
+| 2026-03-16 11:01:07 | SELL | 0.000404 | `34ZeKFbhzGVAK2FnBiBwW41REEBMpo...` |
+
+### 🟢 GIKONEKO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.09x | **Current:** 1.00x
+- **Mint:** `6YXVaY927DSvMgzsiKR8tdDhJrnAcSs9hqBb5EMMpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:00:02 | BUY | 0.000600 | `4ugKqFiN83NgaBpVQXsrYqnTf2tYA5...` |
+
 ### 🟢 SHITCOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.92x | **Current:** 1.30x
+- **Peak:** 1.92x | **Current:** 0.93x
 - **Mint:** `7d16UvK5vFtjz2M59e4wJ2ewj3HZr4hG3Wjmjhwzpump`
 
 | Time | Action | SOL | TX |
@@ -102,7 +141,7 @@
 
 ### 🟢 NANO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 1.52x
+- **Peak:** 1.57x | **Current:** 1.57x
 - **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
 
 | Time | Action | SOL | TX |
@@ -170,7 +209,7 @@
 
 ### 🟢 礼貌猫
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.82x
+- **Peak:** 1.37x | **Current:** 0.77x
 - **Mint:** `AfirRxnYwoA3hkKoiJdhLaPoa73rvs1enCqtf8Rrpump`
 
 | Time | Action | SOL | TX |
@@ -1154,7 +1193,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.25x
+- **Peak:** 1.25x | **Current:** 1.10x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |

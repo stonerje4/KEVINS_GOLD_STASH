@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 11:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 40 |
-| Open | 2 |
+| Total Positions | 41 |
+| Open | 3 |
 | Closed | 38 |
 | SOL In (closed) | 0.022800 |
 | SOL Out (sells) | 0.021210 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
-### 🟢 MATM
+### 🟢 AgentP
 - **Status:** open | **Exit:** open
 - **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `DTu7oFgdZqWDNhrs6YnX3HvTTaEnw4ENntX1GrwLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:04:11 | BUY | 0.000600 | `2ivukNExKjpjAvAZmgrPoCkouRDK91...` |
+
+### 🟢 MATM
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `9gg1QdcoEcqFaYZeA1FhMWw9i2BPJMrx1c6UH6CKpump`
 
 | Time | Action | SOL | TX |
@@ -87,7 +96,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.10x | **Current:** 1.81x
+- **Peak:** 2.10x | **Current:** 1.66x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |

@@ -1,17 +1,27 @@
 # [TEST] Wallet: `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx`
-> Generated: 2026-03-16 11:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
+| Total Positions | 4 |
 | Open | 0 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
-| SOL Out (sells) | 0.001302 |
-| **P&L** | **-0.000498 SOL** |
-| **ROI** | **-27.7%** |
+| Closed | 4 |
+| SOL In (closed) | 0.002400 |
+| SOL Out (sells) | 0.001651 |
+| **P&L** | **-0.000749 SOL** |
+| **ROI** | **-31.2%** |
 
 ## Trades
+
+### 🔴 SLOPPYPASTA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.58x
+- **Mint:** `14FC8hDRYhi56fWWgcJSRhJk8d8yesedypaZHX5tpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:03:33 | BUY | 0.000600 | `5xUQQwL7WPeUwE82GMeTgrjaTEUvV7...` |
+| 2026-03-16 11:03:49 | SELL | 0.000349 | `5diz6YzsBCwTxBJvcqRXJhbQvtJXo4...` |
 
 ### 🔴 GLP
 - **Status:** closed | **Exit:** ghost_close_stop_loss

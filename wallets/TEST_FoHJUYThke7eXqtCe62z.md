@@ -1,15 +1,15 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 11:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 40 |
-| Open | 30 |
-| Closed | 10 |
-| SOL In (closed) | 0.015400 |
-| SOL Out (sells) | 0.004893 |
-| **P&L** | **-0.010507 SOL** |
-| **ROI** | **-68.2%** |
+| Open | 29 |
+| Closed | 11 |
+| SOL In (closed) | 0.016000 |
+| SOL Out (sells) | 0.006059 |
+| **P&L** | **-0.009941 SOL** |
+| **ROI** | **-62.1%** |
 
 ## Trades
 
@@ -53,7 +53,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.85x
+- **Peak:** 1.04x | **Current:** 0.84x
 - **Mint:** `8beNLk4qqzvQL4ffWeWkNfpGNmDRtHUt2T8ofpd4pump`
 
 | Time | Action | SOL | TX |
@@ -124,8 +124,8 @@
 | 2026-03-16 07:38:14 | BUY | 0.000600 | `5YXaEy9yUSZNLGi2UMLUhJccZK5YEZ...` |
 
 ### 🟢 Clutch
-- **Status:** partial | **Exit:** open
-- **Peak:** 5.16x | **Current:** 4.41x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 5.16x | **Current:** 3.97x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
@@ -133,6 +133,7 @@
 | 2026-03-16 07:11:38 | BUY | 0.000600 | `27EVpZoGcZXeDV9ZLygkETSLitPP7b...` |
 | 2026-03-16 07:28:35 | SELL | 0.000403 | `5t1czDoiWGUSPfCV5764DVgybHwDZ3...` |
 | 2026-03-16 10:29:02 | SELL | 0.000652 | `2awA87p5naYQfk9ngPu5tYn4ZFA1o8...` |
+| 2026-03-16 11:01:05 | SELL | 0.001166 | `3qLkyoBnUV3DT4yGmGDiq8wa19W3cS...` |
 
 ### 🟢 DUCKEXE
 - **Status:** open | **Exit:** open
