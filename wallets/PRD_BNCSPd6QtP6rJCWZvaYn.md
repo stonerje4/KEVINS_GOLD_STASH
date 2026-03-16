@@ -1,18 +1,27 @@
 # [PRD] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 20:35 UTC | Environment: **PRD**
+> Generated: 2026-03-16 20:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | W/L | 0/1 |
 | SOL In (closed) | 0.150000 |
 | **Closed P&L** | **-0.093451 SOL** |
 | **Closed ROI** | **-62.3%** |
-| Open Deployed | 0.150000 SOL |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
+
+### 🟢 Hamster
+- **Status:** open | **Exit:** open
+- **Peak:** 1.36x | **Current:** 0.00x
+- **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 20:35:47 | BUY | 0.150000 | `5aPQiJthjmu9DRgkChdMnnzbDd3KuS...` |
 
 ### 🟢 RAVEN
 - **Status:** open | **Exit:** open

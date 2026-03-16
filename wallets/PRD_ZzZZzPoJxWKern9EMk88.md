@@ -1,5 +1,5 @@
 # [PRD] Wallet: `ZzZZzPoJxWKern9EMk88aik3P8KwKgptANPdrhERrwr`
-> Generated: 2026-03-16 20:35 UTC | Environment: **PRD**
+> Generated: 2026-03-16 20:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -14,21 +14,14 @@
 
 ## Trades
 
-### 🟢 WSBAGS
+### 🔴 WSBAGS
 - **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 1000.53x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `6BEsqynWyVqaLX59YBA7QSSQXiZ3GQTqCbM6nowKBAGS`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 19:53:28 | BUY | 0.150000 | `4b6Rop8gKWRA5Y8pHkFqgdFLKi6HMz...` |
-| 2026-03-16 19:53:34 | SELL | 14.862934 | `4EvHPKwsqxkYnNUuRnWJX4SdAfchsy...` |
-| 2026-03-16 19:53:39 | SELL | 15.007986 | `5wAFW7gCQq8CJku8GUZZDPLuJWWCjW...` |
-| 2026-03-16 19:53:45 | SELL | 15.007986 | `5AncJGRfMijF4dYMtvxjSzRRs43AYX...` |
-| 2026-03-16 19:53:50 | SELL | 15.007986 | `2q19gmsNX3UG4nSEeSo6JP1n8zrQ7k...` |
-| 2026-03-16 19:53:54 | SELL | 0.150080 | `4cULDJfNp3RzYWyWUsax5L2j9PUCeJ...` |
-| 2026-03-16 19:53:59 | SELL | 0.150080 | `23DuiaikGaZhjbvHDXLRoHyL79BR1h...` |
-| 2026-03-16 19:54:03 | SELL | 0.150080 | `2Rsp1SGZXhTsiPbDfF8fst6BpP2fKA...` |
 
 ### 🟢 FOR
 - **Status:** open | **Exit:** open
