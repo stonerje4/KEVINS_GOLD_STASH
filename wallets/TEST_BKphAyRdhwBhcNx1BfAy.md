@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 15:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 229 |
-| Open | 64 |
-| Closed | 165 |
-| W/L | 160/5 |
-| SOL In (closed) | 0.097000 |
-| **Closed P&L** | **+0.084260 SOL** |
-| **Closed ROI** | **+86.9%** |
-| Open Deployed | 0.030400 SOL |
+| Total Positions | 230 |
+| Open | 63 |
+| Closed | 167 |
+| W/L | 162/5 |
+| SOL In (closed) | 0.097200 |
+| **Closed P&L** | **+0.084329 SOL** |
+| **Closed ROI** | **+86.8%** |
+| Open Deployed | 0.030300 SOL |
 
 ## Trades
+
+### 🟢 MOLO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `4U5N74PVekzgLZ2mqa942iYREWRLx2e1xTioVwHtpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:15:00 | BUY | 0.000100 | `3drmQL9T2DiWwFt6nfnmzArftHSRzX...` |
 
 ### 🟢 ミャク
 - **Status:** open | **Exit:** open
@@ -25,7 +34,7 @@
 
 ### 🟢 UBT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.30x
+- **Peak:** 1.54x | **Current:** 1.54x
 - **Mint:** `EapAZ7RsUPYK9AYYHKwt9UHNj9uvagq7xVqQQK1dpump`
 
 | Time | Action | SOL | TX |
@@ -41,14 +50,15 @@
 |------|--------|-----|----|
 | 2026-03-16 14:56:18 | BUY | 0.000100 | `4c3Dqc4au8WA1FuzpM1RspNT6PBBen...` |
 
-### 🟢 ELIZA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.92x
+### 🔴 ELIZA
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.06x | **Current:** 0.32x
 - **Mint:** `GmNGktouBYxCbZsXWq3dpmBXu5g3yk9wNR5khbUNpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:53:40 | BUY | 0.000100 | `5xQPD8vPrSx4LgijRadi55Na5jR7jk...` |
+| 2026-03-16 15:13:26 | SELL | 0.000031 | `qDciXuA5cRmXpmzYyNEScosPfBxfHY...` |
 
 ### 🟢 Dishwasher
 - **Status:** open | **Exit:** open
@@ -61,7 +71,7 @@
 
 ### 🟢 Trade
 - **Status:** partial | **Exit:** open
-- **Peak:** 8.82x | **Current:** 8.44x
+- **Peak:** 13.45x | **Current:** 10.93x
 - **Mint:** `BHk3DeAjE9yNXsJ7i9wYvYpEbzBiXP4zvTzXN65xpump`
 
 | Time | Action | SOL | TX |
@@ -71,6 +81,7 @@
 | 2026-03-16 14:56:16 | SELL | 0.000030 | `28qqMtapqJ2wakjcKhNAvAYZogX8wT...` |
 | 2026-03-16 15:02:06 | SELL | 0.000043 | `5PyQ3BRe4y7SE9a3YYgqpiUdEiSEoC...` |
 | 2026-03-16 15:09:15 | SELL | 0.000064 | `3nKeMZWEYmi7WHnjoM1PP6kGtgdYvQ...` |
+| 2026-03-16 15:12:05 | SELL | 0.000068 | `5sFFzFNFgmHcBhT6eHUCBuqPUUH5uo...` |
 
 ### 🔴 dog
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -84,7 +95,7 @@
 
 ### 🟢 vibecat
 - **Status:** open | **Exit:** open
-- **Peak:** 1.71x | **Current:** 0.67x
+- **Peak:** 1.71x | **Current:** 0.68x
 - **Mint:** `Fuj6UhG2KAhftitrrzdYtd6De8AfnoptBJadpHkVcR8y`
 
 | Time | Action | SOL | TX |
@@ -104,7 +115,7 @@
 
 ### 🟢 LEGO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.60x | **Current:** 0.43x
+- **Peak:** 1.60x | **Current:** 0.42x
 - **Mint:** `5JbhNPHoKHxR6H6hjMgRELVLyK7mTUzLL7Lqk3H4pump`
 
 | Time | Action | SOL | TX |
@@ -113,7 +124,7 @@
 
 ### 🟢 YAT🦞
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.43x
+- **Peak:** 1.00x | **Current:** 0.42x
 - **Mint:** `3MDf7aRFy7W94yEG3qvdJ1hDfNVCAfvmFekc3aeApump`
 
 | Time | Action | SOL | TX |
@@ -130,14 +141,15 @@
 | 2026-03-16 14:46:18 | BUY | 0.000100 | `5mLjMV5C2AhbrabfwmEbnZv1Ldgxdd...` |
 | 2026-03-16 14:49:58 | SELL | 0.000039 | `4TkMPW2E9TnTj1pPBckY2xmUZiaNSe...` |
 
-### 🟢 Fern
-- **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.45x
+### 🔴 Fern
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.05x | **Current:** 0.38x
 - **Mint:** `Hi5hxBe8vQFiDSoJCGQcnkWDydu7CRqPAh717E2upump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:45:56 | BUY | 0.000100 | `2Y757oLkLBs7n4twbi3o1wsSJRNQCq...` |
+| 2026-03-16 15:10:20 | SELL | 0.000037 | `3P3Vw45FLfTpu8piwsaDpHVVNLZZMd...` |
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
@@ -159,7 +171,7 @@
 
 ### 🟢 INCOG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.64x
+- **Peak:** 1.86x | **Current:** 1.80x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -168,7 +180,7 @@
 
 ### 🟢 Mood
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.99x
+- **Peak:** 1.09x | **Current:** 0.91x
 - **Mint:** `CmksFbQGiPBzxLmetQFAthSd6swiRj7fo39X5ZZ3pump`
 
 | Time | Action | SOL | TX |
@@ -177,7 +189,7 @@
 
 ### 🟢 Lego
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.87x
+- **Peak:** 1.23x | **Current:** 0.89x
 - **Mint:** `EYUarhfrehcfgbLgLxri7mQrBqZojvUxs8pEDzzrpump`
 
 | Time | Action | SOL | TX |
@@ -452,7 +464,7 @@
 
 ### 🟢 Moe-Chan
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.95x
+- **Peak:** 1.07x | **Current:** 0.89x
 - **Mint:** `8cGMP5toZjMc5FsxZq45JN7j3DpQMvFkPAfh7rR6pump`
 
 | Time | Action | SOL | TX |
@@ -549,7 +561,7 @@
 
 ### 🟢 Angela
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.69x | **Current:** 1.34x
+- **Peak:** 2.69x | **Current:** 1.30x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |
@@ -873,7 +885,7 @@
 
 ### 🟢 MRLOOT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.04x
+- **Peak:** 1.11x | **Current:** 0.97x
 - **Mint:** `GqCnBbpCDbguey17FFD6BRk7LkAJ8Nok4FmfwgTCpump`
 
 | Time | Action | SOL | TX |
@@ -2002,7 +2014,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.84x
+- **Peak:** 1.43x | **Current:** 0.80x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -2125,7 +2137,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.41x
+- **Peak:** 1.79x | **Current:** 1.30x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
