@@ -1,5 +1,5 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 10:40 UTC | Environment: **PRD**
+> Generated: 2026-03-16 10:45 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 ZIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 0.00x
+- **Peak:** 1.64x | **Current:** 0.00x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
 | Time | Action | SOL | TX |

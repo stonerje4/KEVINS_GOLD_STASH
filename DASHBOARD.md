@@ -1,17 +1,17 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 10:40 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 10:45 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 0.6734 SOL |
-| Open Positions | 133 (0.0798 SOL deployed) |
-| Closed Positions | 335 |
-| Total Positions | 468 |
+| SOL Balance | 1.2773 SOL |
+| Open Positions | 135 (0.0810 SOL deployed) |
+| Closed Positions | 336 |
+| Total Positions | 471 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-1.3468 SOL (-134.7%)** |
+| **Real P&L (on-chain)** | **-0.7417 SOL (-74.2%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -26,9 +26,9 @@
 | `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9` | 3 | 2 | 1 | 1/1 | 50% | 0.0018 | 🔴 -0.000005 | -0.4% |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🔴 -0.000044 | -3.6% |
 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 39 | 38 | 1 | 7/31 | 18% | 0.0234 | 🔴 -0.001590 | -7.0% |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 147 | 113 | 34 | 25/88 | 22% | 0.0882 | 🔴 -0.004868 | -7.2% |
-| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 30 | 29 | 1 | 5/24 | 17% | 0.0180 | 🔴 -0.003114 | -17.9% |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 149 | 113 | 36 | 25/88 | 22% | 0.0894 | 🔴 -0.004868 | -7.2% |
 | `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus` | 3 | 3 | 0 | 1/2 | 33% | 0.0018 | 🔴 -0.000327 | -18.2% |
+| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 31 | 30 | 1 | 5/25 | 17% | 0.0186 | 🔴 -0.003338 | -18.5% |
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 18 | 12 | 6 | 2/10 | 17% | 0.0108 | 🔴 -0.001655 | -23.0% |
 | `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx` | 3 | 3 | 0 | 1/2 | 33% | 0.0018 | 🔴 -0.000498 | -27.7% |
 | `EfU8P5AZBitRYGQVVkHSPua9CitQWmbz7CM1gc2ATTDX` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000193 | -32.2% |
