@@ -1,26 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 17 |
-| Open | 2 |
-| Closed | 15 |
-| SOL In (closed) | 0.009000 |
-| SOL Out (sells) | 0.006986 |
-| **P&L** | **-0.002014 SOL** |
-| **ROI** | **-22.4%** |
+| Open | 1 |
+| Closed | 16 |
+| SOL In (closed) | 0.009600 |
+| SOL Out (sells) | 0.007396 |
+| **P&L** | **-0.002204 SOL** |
+| **ROI** | **-23.0%** |
 
 ## Trades
 
-### 🟢 LOOM
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+### 🔴 LOOM
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `WQQS2AQGmch22dVx4cg83r51mtNL5f1DtVWBWxKpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:19:38 | BUY | 0.000600 | `45b7RfyYMPVagcYjoejLnVUcEFrRKK...` |
+| 2026-03-16 04:20:53 | SELL | 0.000410 | `XF9v8XYQ9ojX2PZ3dMHLXmJzcs7CY9...` |
 
 ### 🔴 SAMO
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half
@@ -33,7 +34,7 @@
 
 ### 🟢 󠀠󠀠
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.54x
+- **Peak:** 1.99x | **Current:** 1.83x
 - **Mint:** `BTtsW9YukeQg2GVTQqbVGCxLBdgrJCFY6qQviHmPth6j`
 
 | Time | Action | SOL | TX |

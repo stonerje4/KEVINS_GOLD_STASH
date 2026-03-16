@@ -1,17 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
+| Total Positions | 4 |
 | Open | 0 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
-| SOL Out (sells) | 0.004878 |
-| **P&L** | **+0.003078 SOL** |
-| **ROI** | **+171.0%** |
+| Closed | 4 |
+| SOL In (closed) | 0.002400 |
+| SOL Out (sells) | 0.005068 |
+| **P&L** | **+0.002668 SOL** |
+| **ROI** | **+111.2%** |
 
 ## Trades
+
+### 🔴 $GENIUS
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.21x | **Current:** 0.32x
+- **Mint:** `EnGdVDLWMqD7MS8RdAionTBuMYAh28zTWMsufkCkpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:20:03 | BUY | 0.000600 | `5QVdD9dgrSpwvZLSRkvjh1MZzjNptM...` |
+| 2026-03-16 04:22:07 | SELL | 0.000190 | `3f3Kzhgn5eZdfgUvoMppQVx7VMBVdp...` |
 
 ### 🔴 WEIWU
 - **Status:** closed | **Exit:** ghost_close_stop_loss

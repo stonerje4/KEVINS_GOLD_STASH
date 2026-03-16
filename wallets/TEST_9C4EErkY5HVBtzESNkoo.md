@@ -1,17 +1,26 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
+| Total Positions | 11 |
 | Open | 3 |
-| Closed | 7 |
-| SOL In (closed) | 0.004200 |
+| Closed | 8 |
+| SOL In (closed) | 0.004800 |
 | SOL Out (sells) | 0.002025 |
-| **P&L** | **-0.002175 SOL** |
-| **ROI** | **-51.8%** |
+| **P&L** | **-0.002775 SOL** |
+| **ROI** | **-57.8%** |
 
 ## Trades
+
+### 🔴 Childlike
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.65x
+- **Mint:** `6fyYyYtfjvf33TwUupJMJsJdPhdwihmFtNZ8GAfwpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:23:57 | BUY | 0.000600 | `5NMaKkSoJapi1dGHmRGeE8ZA37EsmZ...` |
 
 ### 🟢 Elza
 - **Status:** open | **Exit:** open

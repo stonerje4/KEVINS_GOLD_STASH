@@ -1,15 +1,15 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 59 |
-| Open | 19 |
-| Closed | 40 |
-| SOL In (closed) | 0.024000 |
-| SOL Out (sells) | 0.019473 |
-| **P&L** | **-0.004527 SOL** |
-| **ROI** | **-18.9%** |
+| Open | 18 |
+| Closed | 41 |
+| SOL In (closed) | 0.024600 |
+| SOL Out (sells) | 0.019764 |
+| **P&L** | **-0.004836 SOL** |
+| **ROI** | **-19.7%** |
 
 ## Trades
 
@@ -25,7 +25,7 @@
 
 ### 🟢 0
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.74x
+- **Peak:** 1.09x | **Current:** 0.73x
 - **Mint:** `B5HtjQBnoEPGn7rJ8JSYF2K7NZv1AVAnBtKmRFn5DbXJ`
 
 | Time | Action | SOL | TX |
@@ -61,14 +61,15 @@
 | 2026-03-16 04:06:49 | BUY | 0.000600 | `5zogBxd8Vym5SvwUdufzyECBRbZCr6...` |
 | 2026-03-16 04:07:44 | SELL | 0.000115 | `5ExZQnkzSytSgRGq1p7Rb9MTVa4mvB...` |
 
-### 🟢 gura
-- **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 0.86x
+### 🔴 gura
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.39x | **Current:** 0.48x
 - **Mint:** `BnmvRp4FzEA6Y4EFH4ssCPbs3x2NNtELoEEn1DpHpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:05:32 | BUY | 0.000600 | `t14iev59QKBYhuXi2qYJH4oSPMUW23...` |
+| 2026-03-16 04:23:19 | SELL | 0.000291 | `45Kwb1qYAcp7iMTPoPkaTTwJXnQDJz...` |
 
 ### 🔴 Grok
 - **Status:** closed | **Exit:** stop_loss
@@ -169,7 +170,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.30x
+- **Peak:** 1.40x | **Current:** 1.32x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -385,7 +386,7 @@
 
 ### 🟢 JOBS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.20x
+- **Peak:** 1.39x | **Current:** 1.08x
 - **Mint:** `A3groKXFP8aipQZVt7iajAs31sa7v89KGxc8Z3X8pump`
 
 | Time | Action | SOL | TX |
@@ -537,7 +538,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.82x
+- **Peak:** 1.24x | **Current:** 0.83x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
@@ -576,7 +577,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.74x
+- **Peak:** 1.37x | **Current:** 0.73x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |

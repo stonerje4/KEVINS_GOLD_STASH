@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 17 |
-| Open | 15 |
+| Total Positions | 18 |
+| Open | 16 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.002357 |
@@ -12,6 +12,15 @@
 | **ROI** | **+96.4%** |
 
 ## Trades
+
+### 🟢 BMAP
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.90x
+- **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:24:35 | BUY | 0.000600 | `qh2hyMzq3opZDrAy1GeggJZ8BU9jsm...` |
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open

@@ -1,5 +1,5 @@
 # [PRD] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 04:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 04:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 0.00x
+- **Peak:** 1.30x | **Current:** 0.00x
 - **Mint:** `89w7b4E4VTQ86yLfb3cPCtZuquVxen65fbcpSGikpump`
 
 | Time | Action | SOL | TX |
