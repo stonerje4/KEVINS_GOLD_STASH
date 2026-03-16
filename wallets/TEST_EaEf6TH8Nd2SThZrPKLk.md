@@ -1,26 +1,36 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 10:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 38 |
+| Total Positions | 39 |
 | Open | 4 |
-| Closed | 34 |
-| SOL In (closed) | 0.020400 |
-| SOL Out (sells) | 0.019795 |
-| **P&L** | **-0.000605 SOL** |
-| **ROI** | **-3.0%** |
+| Closed | 35 |
+| SOL In (closed) | 0.021000 |
+| SOL Out (sells) | 0.020195 |
+| **P&L** | **-0.000805 SOL** |
+| **ROI** | **-3.8%** |
 
 ## Trades
 
-### 🟢 Chinese
+### 🟢 $GENIUS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.32x | **Current:** 0.86x
+- **Peak:** 1.11x | **Current:** 1.11x
+- **Mint:** `DXsQ8qp9EFFCFxC8iZzwHtcEaoF5VCFqZibcvEdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:23:09 | BUY | 0.000600 | `62pYoKTu78ySMwB9L2jXkN4i3aTdCB...` |
+
+### 🔴 Chinese
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.32x | **Current:** 0.67x
 - **Mint:** `DBUPagbzy4zRb8Ti155bUa355om6GtU47c6G51Fppump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 10:15:23 | BUY | 0.000600 | `3DrnURzoP7ej5GX7b6Ux6s6HxwG6VG...` |
+| 2026-03-16 10:24:52 | SELL | 0.000400 | `2n9fF33xDoJYPQ7xA6JTMocdE46t7L...` |
 
 ### 🔴 🌹
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -44,7 +54,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.10x | **Current:** 2.10x
+- **Peak:** 2.10x | **Current:** 2.09x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |
@@ -54,7 +64,7 @@
 
 ### 🟢 AIRI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 1.31x
+- **Peak:** 1.34x | **Current:** 1.29x
 - **Mint:** `3UJZRvYvP8Mef4boByK4Kj4CW61FLfZyNhGgoVrypump`
 
 | Time | Action | SOL | TX |
@@ -317,7 +327,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.14x
+- **Peak:** 1.59x | **Current:** 1.02x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

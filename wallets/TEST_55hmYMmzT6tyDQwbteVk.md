@@ -1,5 +1,5 @@
 # [TEST] Wallet: `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog`
-> Generated: 2026-03-16 10:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 | 2026-03-16 08:55:23 | SELL | 0.000373 | `5t1KxH1eaxnZrXMnavgbF6MbRBVG41...` |
 
 ### 🔴 3984
-- **Status:** closing | **Exit:** stale_cleanup
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.75x
 - **Mint:** `E9YR4R42ebnffd8KsHpeSa23ABWQFEWWs4VSsFWXpump`
 

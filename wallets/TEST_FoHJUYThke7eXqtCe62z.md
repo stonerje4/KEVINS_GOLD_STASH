@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 10:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 36 |
-| Open | 27 |
+| Total Positions | 37 |
+| Open | 28 |
 | Closed | 9 |
 | SOL In (closed) | 0.014800 |
 | SOL Out (sells) | 0.003427 |
@@ -12,6 +12,15 @@
 | **ROI** | **-76.8%** |
 
 ## Trades
+
+### 🟢 CA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `EbJ5pgXfVapFfYU1qHias96g4L67ajzJbw55kxstpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:21:11 | BUY | 0.000600 | `3TkFGG7MbcKRKshhYCwCvduX6uU1o9...` |
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
@@ -87,7 +96,7 @@
 
 ### 🟢 Clutch
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.41x | **Current:** 4.41x
+- **Peak:** 4.41x | **Current:** 4.31x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
@@ -180,7 +189,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `6gjdV7soB8RiKvGdMh6XMinsPVyeG4TprL4rYrFQpump`
 
 | Time | Action | SOL | TX |
@@ -282,7 +291,7 @@
 | 2026-03-16 01:12:52 | BUY | 0.000600 | `3c3Fiu2ahUXjrAvNDeR7qAVmyjYiL3...` |
 
 ### 🔴 NPC
-- **Status:** closing | **Exit:** stale_cleanup
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.02x | **Current:** 0.86x
 - **Mint:** `5NrVvCRuNctUbQTkSP8pwEeAd4n9g59bguUgUn7npump`
 

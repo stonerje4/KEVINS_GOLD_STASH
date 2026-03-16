@@ -1,15 +1,15 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 10:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 10 |
-| Closed | 5 |
-| SOL In (closed) | 0.003000 |
-| SOL Out (sells) | 0.002792 |
-| **P&L** | **-0.000208 SOL** |
-| **ROI** | **-6.9%** |
+| Open | 9 |
+| Closed | 6 |
+| SOL In (closed) | 0.003600 |
+| SOL Out (sells) | 0.003768 |
+| **P&L** | **+0.000168 SOL** |
+| **ROI** | **+4.7%** |
 
 ## Trades
 
@@ -42,7 +42,7 @@
 
 ### 🟢 LOCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.07x
+- **Peak:** 1.45x | **Current:** 1.02x
 - **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
 
 | Time | Action | SOL | TX |
@@ -128,7 +128,7 @@
 
 ### 🟢 TIM
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.85x | **Current:** 2.02x
+- **Peak:** 2.85x | **Current:** 1.83x
 - **Mint:** `9rZyxfCQhGCBcpbFW3LUjVKoBajVbN6kYdHmaFXSpump`
 
 | Time | Action | SOL | TX |
@@ -146,12 +146,13 @@
 | 2026-03-16 01:29:30 | BUY | 0.000600 | `4RRWnSVGdrec5jPeZtqU38oJVK5oZX...` |
 
 ### 🟢 RIONA
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.82x | **Current:** 2.49x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.09x | **Current:** 2.38x
 - **Mint:** `smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:19:15 | BUY | 0.000600 | `hMeXRupdderiZSWqgCK6RugEb5NLmh...` |
 | 2026-03-16 10:16:44 | SELL | 0.000435 | `2NqGc2kJkD3uCF6wW6gioNkiriwzvC...` |
+| 2026-03-16 10:24:11 | SELL | 0.000976 | `5UCwCS3FG1Ns7PoFH4noc44EjFsFMS...` |
 
