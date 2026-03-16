@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 06:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 21 |
-| Open | 0 |
+| Total Positions | 22 |
+| Open | 1 |
 | Closed | 21 |
 | SOL In (closed) | 0.012600 |
 | SOL Out (sells) | 0.010240 |
@@ -12,6 +12,15 @@
 | **ROI** | **-18.7%** |
 
 ## Trades
+
+### 🟢 比比
+- **Status:** open | **Exit:** open
+- **Peak:** 1.09x | **Current:** 0.80x
+- **Mint:** `GeAcZ3172FdMJwhKe1iM37xRCao5XAVUPV5X4wsqpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:13:03 | BUY | 0.000600 | `1QPDoM8aaZqpPbAjSJ5bjmPZMJaubc...` |
 
 ### 🔴 Gerald
 - **Status:** closed | **Exit:** ghost_close_stop_loss

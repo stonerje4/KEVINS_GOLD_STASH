@@ -1,26 +1,36 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 06:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 14 |
-| Open | 2 |
-| Closed | 12 |
-| SOL In (closed) | 0.007200 |
-| SOL Out (sells) | 0.009507 |
-| **P&L** | **+0.002307 SOL** |
-| **ROI** | **+32.0%** |
+| Total Positions | 15 |
+| Open | 1 |
+| Closed | 14 |
+| SOL In (closed) | 0.008400 |
+| SOL Out (sells) | 0.009863 |
+| **P&L** | **+0.001463 SOL** |
+| **ROI** | **+17.4%** |
 
 ## Trades
 
-### 🟢 gstack
-- **Status:** open | **Exit:** open
-- **Peak:** 1.42x | **Current:** 1.26x
+### 🔴 LIFE
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.35x
+- **Mint:** `DcSZ7BCRGHneUz7iNHn2bc3w46W3MPzXnajefBTEpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:10:56 | BUY | 0.000600 | `xN6e3Ru4D3DxuDvHREiqvFnZ34WPhh...` |
+
+### 🔴 gstack
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.61x | **Current:** 0.59x
 - **Mint:** `srxwF5CJdSry1RZdmSeV9S2M1Yb1Rgw6Lgawe2Zpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:07:40 | BUY | 0.000600 | `hq6B1ggJ4CTC1L2ztRHnf8AcDKbvyU...` |
+| 2026-03-16 06:14:36 | SELL | 0.000356 | `KmhmApFS6RrjWdBvAY4MGcs3bwVMD6...` |
 
 ### 🔴 $MARLA
 - **Status:** closed | **Exit:** ghost_close_stop_loss
