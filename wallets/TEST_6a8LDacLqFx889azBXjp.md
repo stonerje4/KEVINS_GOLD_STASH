@@ -1,17 +1,27 @@
 # [TEST] Wallet: `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi`
-> Generated: 2026-03-16 09:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
+| Total Positions | 2 |
 | Open | 0 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000398 |
-| **P&L** | **-0.000202 SOL** |
-| **ROI** | **-33.7%** |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.000808 |
+| **P&L** | **-0.000392 SOL** |
+| **ROI** | **-32.6%** |
 
 ## Trades
+
+### 🔴 Eric
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.05x | **Current:** 0.68x
+- **Mint:** `Fi2pZUgx3dFBExQ1cT7ZFbZYuoG5FmXxfcbyFsfKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:50:21 | BUY | 0.000600 | `3UerNHjGaVsnbFXhsrr2ThVdHfQSQp...` |
+| 2026-03-16 09:51:31 | SELL | 0.000410 | `3mmgrqTGhRSnEk5qt1FtMKtEyCZNiN...` |
 
 ### 🔴 AI
 - **Status:** closed | **Exit:** ghost_close_stop_loss

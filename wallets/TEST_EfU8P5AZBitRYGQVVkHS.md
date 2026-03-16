@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EfU8P5AZBitRYGQVVkHSPua9CitQWmbz7CM1gc2ATTDX`
-> Generated: 2026-03-16 09:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Masko
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.74x
 - **Mint:** `FcQj7639hAV5DtA1NPW7GpZNG5PFUGZ5g6XENcbHRntg`
 
 | Time | Action | SOL | TX |

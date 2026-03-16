@@ -1,30 +1,49 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 09:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 32 |
-| Open | 3 |
-| Closed | 29 |
-| SOL In (closed) | 0.017400 |
-| SOL Out (sells) | 0.017769 |
-| **P&L** | **+0.000369 SOL** |
-| **ROI** | **+2.1%** |
+| Total Positions | 34 |
+| Open | 4 |
+| Closed | 30 |
+| SOL In (closed) | 0.018000 |
+| SOL Out (sells) | 0.017898 |
+| **P&L** | **-0.000102 SOL** |
+| **ROI** | **-0.6%** |
 
 ## Trades
 
-### 🟢 AIGOV
+### 🟢 AIRI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `3UJZRvYvP8Mef4boByK4Kj4CW61FLfZyNhGgoVrypump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:53:51 | BUY | 0.000600 | `eG2FHp2eUSUrdhFwYwr4ubBUVjVhjS...` |
+
+### 🟢 Nobrainer
+- **Status:** open | **Exit:** open
+- **Peak:** 1.03x | **Current:** 0.93x
+- **Mint:** `9yVqYzejYtCDhRgBXYEP2mAas4XBs2sRDCGSka1nyjpx`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:53:32 | BUY | 0.000600 | `4wPd5czWNjEKDqB22GZw9xfiAK93ML...` |
+
+### 🔴 AIGOV
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.55x | **Current:** 0.22x
 - **Mint:** `FruTF1iFMwB3KP6cx6Dpmajms1U15jofKUxXJpoQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:46:28 | BUY | 0.000600 | `3LphtehFNe3tHpUUsCig9QGDhBLt2W...` |
+| 2026-03-16 09:53:49 | SELL | 0.000129 | `2nev9HozLcrdvoULJCYTK1tuY1b5xo...` |
 
 ### 🟢 NEO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.93x
+- **Peak:** 1.26x | **Current:** 0.88x
 - **Mint:** `5vrMuKfggUADzES69XWd17L3ZVNmU9GLWbvBRCoFpump`
 
 | Time | Action | SOL | TX |
@@ -257,7 +276,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.26x
+- **Peak:** 1.59x | **Current:** 1.15x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

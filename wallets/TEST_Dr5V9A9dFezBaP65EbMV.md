@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 09:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 SHIKOKU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.80x
+- **Peak:** 1.05x | **Current:** 0.81x
 - **Mint:** `7TvfNnDxstnrfb5eF5pg4PcwXPMfiJLu9eysA7qJpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.88x
+- **Peak:** 1.21x | **Current:** 0.90x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Sonny
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.92x
+- **Peak:** 1.09x | **Current:** 0.91x
 - **Mint:** `EVHhyNdtZxXCvRVXeAggjXiahoAQxXhsifFEw6yWpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 LOCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.07x
+- **Peak:** 1.45x | **Current:** 1.06x
 - **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
 
 | Time | Action | SOL | TX |
@@ -127,7 +127,7 @@
 
 ### 🟢 TIM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.91x | **Current:** 1.61x
+- **Peak:** 1.91x | **Current:** 1.63x
 - **Mint:** `9rZyxfCQhGCBcpbFW3LUjVKoBajVbN6kYdHmaFXSpump`
 
 | Time | Action | SOL | TX |
