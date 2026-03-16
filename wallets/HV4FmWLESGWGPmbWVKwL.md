@@ -1,10 +1,10 @@
 # Wallet: `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks`
-> Generated: 2026-03-16 01:15 UTC
+> Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 1 |
+| Total Positions | 4 |
+| Open | 2 |
 | Closed | 2 |
 | SOL In (closed) | 0.010600 |
 | SOL Out (sells) | 0.007100 |
@@ -12,6 +12,15 @@
 | **ROI** | **-33.0%** |
 
 ## Trades
+
+### 🟢 F4LC0N
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.90x
+- **Mint:** `ABzzqEV6JTxyfRXNVmQutzsReHNgNy8oLzJ6oYWW1Amz`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:22:25 | BUY | 0.000600 | `GBCYsAzddvWYgmh9Q2tcSFDaJTBrMb...` |
 
 ### 🔴 JESSIE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

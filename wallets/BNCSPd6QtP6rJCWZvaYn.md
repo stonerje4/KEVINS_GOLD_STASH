@@ -1,5 +1,5 @@
 # Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 01:15 UTC
+> Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 | 2026-03-15 23:02:53 | SELL | 0.000364 | `4pyP8Nd5SvHcENjhiZyV3YXPzsNewQ...` |
 | 2026-03-16 00:29:08 | SELL | 0.000819 | `3fWLsbHiurP5UbdfCwQCj8uHuvsZgH...` |
 
-### 🔴 Parliament
+### 🟢 Parliament
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
 - **Peak:** 3.27x | **Current:** 2.38x
 - **Mint:** `EuB16g7D9z45htKh12WwQ8p75DiT82C4eQNsswn5qG2M`

@@ -1,10 +1,10 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 01:15 UTC
+> Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 7 |
+| Total Positions | 9 |
+| Open | 8 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
 | SOL Out (sells) | 0.000401 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 TRUMPHOUSE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.78x
+- **Mint:** `HZtdX9vZQCLojV4w5V6ZUUhCcwoZEJf2sv9PNDB3pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:22:18 | BUY | 0.000600 | `VSSBpqFLey8wgGHk12Y1jPsYctcuuC...` |
+
 ### 🟢 navicooks
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
+- **Peak:** 1.00x | **Current:** 0.87x
 - **Mint:** `BrKvKu6pMk65NS2zbq8TafhggvEycqguZTiMwsnYSDDw`
 
 | Time | Action | SOL | TX |
@@ -33,7 +42,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.89x
+- **Peak:** 1.05x | **Current:** 0.81x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +70,7 @@
 
 ### 🟢 JJK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `S2ALfUhiYy3JQobKv86KCkDHfQG5gvL4Ujb9FpKpump`
 
 | Time | Action | SOL | TX |

@@ -1,21 +1,58 @@
 # Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 01:15 UTC
+> Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 5 |
+| Total Positions | 11 |
+| Open | 9 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.000175 |
-| **P&L** | **-0.001025 SOL** |
-| **ROI** | **-85.4%** |
+| SOL Out (sells) | 0.000546 |
+| **P&L** | **-0.000654 SOL** |
+| **ROI** | **-54.5%** |
 
 ## Trades
 
+### 🟢 Food
+- **Status:** open | **Exit:** open
+- **Peak:** 1.03x | **Current:** 0.93x
+- **Mint:** `7fXC19srLd61qhFtuEPwDBQkH7qdrV9npPDoH4CUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:22:33 | BUY | 0.000600 | `9YR68wEmgvkbEoqLVPw5G17QieGtwd...` |
+
+### 🟢 とまと
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.97x
+- **Mint:** `FoWCr414zVPiMSKge6PWvCreig9UxysW9Sgr3guKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:21:48 | BUY | 0.000600 | `yjTBGSANPSPXHF3RTkZLCdDGBwy4tu...` |
+
+### 🟢 Socrates
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.85x
+- **Mint:** `CQDoYk7izGCYbC1A38x7JRjefUViuvGFXMjvhknjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:21:14 | BUY | 0.000600 | `5nCDbK1XKuCBMMhJXE9Anj8WP41UkX...` |
+
+### 🟢 medieval
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.32x | **Current:** 2.04x
+- **Mint:** `DFFbJAcaearm5rAarRjKEs6bqbDePTtw677UYqJNpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:18:53 | BUY | 0.000600 | `49iwsq4wVemtA7hJoEDUPEZq2Cd3VJ...` |
+| 2026-03-16 01:20:54 | SELL | 0.000371 | `sQUGFHVPSZ49tRAR6zYqVSYW6GpZov...` |
+
 ### 🟢 TRENCHIES
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.77x
+- **Peak:** 1.06x | **Current:** 0.81x
 - **Mint:** `7sS7LGpwjir1QxA9GoHqjV3u9YmuX4CNELKWLxA8dmcC`
 
 | Time | Action | SOL | TX |
@@ -24,7 +61,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.09x
+- **Peak:** 1.10x | **Current:** 1.08x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +89,7 @@
 
 ### 🟢 TIM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.20x
+- **Peak:** 1.20x | **Current:** 0.87x
 - **Mint:** `GfDfRvhGbvCHrnuUbXB7z6RXosgZzTGCyP59Yvddpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +98,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.11x
+- **Peak:** 1.37x | **Current:** 0.91x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |

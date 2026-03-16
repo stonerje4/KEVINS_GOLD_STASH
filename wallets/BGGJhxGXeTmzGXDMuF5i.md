@@ -1,5 +1,5 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
-> Generated: 2026-03-16 01:15 UTC
+> Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 1.19x
+- **Peak:** 1.19x | **Current:** 1.18x
 - **Mint:** `BrMCfEuqxCAFqvCnLo8uxeHFvQb4mdif4RncgnxYpump`
 
 | Time | Action | SOL | TX |

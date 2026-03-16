@@ -1,5 +1,5 @@
 # Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 01:15 UTC
+> Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 
 ### 🟢 WRT CTO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.98x
 - **Mint:** `F4eRhkJYkkpzB539QS5EAg5ZEsJ3wR1ioTv5zjv9pump`
 
 | Time | Action | SOL | TX |

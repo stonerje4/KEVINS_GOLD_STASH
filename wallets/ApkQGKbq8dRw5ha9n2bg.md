@@ -1,5 +1,5 @@
 # Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-16 01:15 UTC
+> Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -13,7 +13,7 @@
 
 ## Trades
 
-### ⚪ LBELL26
+### 🔴 LBELL26
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half
 - **Peak:** 865.94x | **Current:** 865.94x
 - **Mint:** `Ef5MAsDjChg6xDxpejN7cURL78AFnYxY1Q12obm3BAGS`

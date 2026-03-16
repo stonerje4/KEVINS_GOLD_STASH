@@ -1,5 +1,5 @@
 # Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 01:15 UTC
+> Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -51,7 +51,7 @@
 
 ### 🟢 ZEBRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `EgPBL3UMV1Ebrmr1HLTd7xggtJ2emgevrYz8P14Qpump`
 
 | Time | Action | SOL | TX |
@@ -60,7 +60,7 @@
 
 ### 🟢 PIGEON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.85x
+- **Peak:** 1.01x | **Current:** 0.77x
 - **Mint:** `7qoFnme6rNMdr8Hhsi7MB5oVJx5xD6aeiPevtWGEpump`
 
 | Time | Action | SOL | TX |
@@ -69,7 +69,7 @@
 
 ### 🟢 WOOPA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `C5DLfd6Ve2mrxJVrcqqawpPBcVFYRGPqqay8Qddipump`
 
 | Time | Action | SOL | TX |

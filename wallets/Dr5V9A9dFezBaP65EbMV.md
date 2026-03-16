@@ -1,4 +1,4 @@
-# Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
+# Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
 > Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 PEEP
+### 🟢 RIONA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
-- **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
+- **Peak:** 1.13x | **Current:** 1.03x
+- **Mint:** `smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 23:02:10 | BUY | 0.000600 | `4WvYLfqxmmJrQSx6k9gNpFtPmyQo4S...` |
+| 2026-03-16 01:19:15 | BUY | 0.000600 | `hMeXRupdderiZSWqgCK6RugEb5NLmh...` |
 

@@ -1,5 +1,5 @@
 # Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 01:15 UTC
+> Generated: 2026-03-16 01:24 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Coffeegate
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.92x
+- **Peak:** 1.04x | **Current:** 0.87x
 - **Mint:** `CJYgKNJ9G66YWbpu6FCYh7LVFzRQp1AZ3sqggmXCpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 WhiteBoy 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.76x
+- **Peak:** 1.04x | **Current:** 0.80x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Agent Doge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 1.12x
+- **Peak:** 1.23x | **Current:** 1.05x
 - **Mint:** `JB8J7Hp259EkmupJJKnqYuyPZXy1P7z22uwfzgJgpump`
 
 | Time | Action | SOL | TX |
@@ -51,7 +51,7 @@
 
 ### 🟢 JARVIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.71x
+- **Peak:** 1.03x | **Current:** 0.72x
 - **Mint:** `7zhVx65GGkbRsm2j21yBsX1d3ACJKWDKQ2ANvUPcpump`
 
 | Time | Action | SOL | TX |
