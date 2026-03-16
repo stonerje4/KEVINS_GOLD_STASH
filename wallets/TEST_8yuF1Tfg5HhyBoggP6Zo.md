@@ -1,10 +1,10 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 08:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
+| Total Positions | 3 |
+| Open | 1 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.000716 |
@@ -12,6 +12,15 @@
 | **ROI** | **-40.3%** |
 
 ## Trades
+
+### 🟢 NEO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `6JzJ2NodhBBRfo6LeFkaoJQSuFrFgxnpq3rkWavUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:54:29 | BUY | 0.000600 | `4UePrT634Jg3u75h6GQ3JR13UWYirq...` |
 
 ### 🔴 NORMIE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

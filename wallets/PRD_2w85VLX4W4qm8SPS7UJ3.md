@@ -1,10 +1,10 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 08:50 UTC | Environment: **PRD**
+> Generated: 2026-03-16 08:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 27 |
-| Open | 0 |
+| Total Positions | 28 |
+| Open | 1 |
 | Closed | 27 |
 | SOL In (closed) | 2.580000 |
 | SOL Out (sells) | 4.252642 |
@@ -12,6 +12,15 @@
 | **ROI** | **+64.8%** |
 
 ## Trades
+
+### 🟢 ZIO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.06x | **Current:** 0.00x
+- **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:51:01 | BUY | 0.150000 | `EFybRFtVLAZPM7EY4rpxYXBYiPrYYk...` |
 
 ### 🔴 Afraid
 - **Status:** closed | **Exit:** stop_loss

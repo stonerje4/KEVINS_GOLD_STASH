@@ -1,15 +1,15 @@
 # [TEST] Wallet: `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM`
-> Generated: 2026-03-16 08:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 3 |
-| Closed | 0 |
-| SOL In (closed) | 0.000000 |
-| SOL Out (sells) | 0.000000 |
-| **P&L** | **+0.000000 SOL** |
-| **ROI** | **+0.0%** |
+| Open | 2 |
+| Closed | 1 |
+| SOL In (closed) | 0.000600 |
+| SOL Out (sells) | 0.000401 |
+| **P&L** | **-0.000199 SOL** |
+| **ROI** | **-33.2%** |
 
 ## Trades
 
@@ -22,14 +22,15 @@
 |------|--------|-----|----|
 | 2026-03-16 08:30:25 | BUY | 0.000600 | `3CsPG5FANfC7UPtVqHpJyh4SrWBJtJ...` |
 
-### 🟢 DRONE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 0.79x
+### 🔴 DRONE
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.14x | **Current:** 0.66x
 - **Mint:** `5tMkfHAXj5KxcVMqZUaomthTrqvjwNxWs3WwNg41pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 08:15:52 | BUY | 0.000600 | `5UJT5qAZHCS4PgxDUUs3Nc95fQUXAJ...` |
+| 2026-03-16 08:51:32 | SELL | 0.000401 | `5irsr5WyXEVcg3BvicXa2hW7GmEZR2...` |
 
 ### 🟢 XAIC
 - **Status:** open | **Exit:** open

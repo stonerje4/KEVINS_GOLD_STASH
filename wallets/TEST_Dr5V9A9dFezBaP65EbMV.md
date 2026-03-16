@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 08:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 1.09x
+- **Peak:** 1.21x | **Current:** 1.10x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Sonny
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.97x
+- **Peak:** 1.09x | **Current:** 0.94x
 - **Mint:** `EVHhyNdtZxXCvRVXeAggjXiahoAQxXhsifFEw6yWpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 LOCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.20x
+- **Peak:** 1.45x | **Current:** 1.14x
 - **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
 
 | Time | Action | SOL | TX |
@@ -108,7 +108,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.02x
+- **Peak:** 1.18x | **Current:** 1.03x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |
@@ -145,7 +145,7 @@
 
 ### 🟢 RIONA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.91x
+- **Peak:** 1.13x | **Current:** 0.90x
 - **Mint:** `smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump`
 
 | Time | Action | SOL | TX |

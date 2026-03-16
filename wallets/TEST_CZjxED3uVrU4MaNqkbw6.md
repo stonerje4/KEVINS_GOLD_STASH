@@ -1,10 +1,10 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 08:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 1 |
+| Total Positions | 7 |
+| Open | 2 |
 | Closed | 5 |
 | SOL In (closed) | 0.003000 |
 | SOL Out (sells) | 0.003465 |
@@ -12,6 +12,15 @@
 | **ROI** | **+15.5%** |
 
 ## Trades
+
+### 🟢 BULLS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.05x | **Current:** 0.99x
+- **Mint:** `GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:52:04 | BUY | 0.000600 | `5FP59xW8pKGrSLA2R5AL6zivoqu15L...` |
 
 ### 🔴 JORDAN
 - **Status:** closed | **Exit:** ghost_close_stop_loss
