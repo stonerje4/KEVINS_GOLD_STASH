@@ -1,5 +1,5 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 22:35 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,15 @@
 ## Trades
 
 ### 🟢 Sanmao
-- **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 3.00x | **Current:** 0.00x
 - **Mint:** `FPAm3wb36fyWrDwG2b6hQZu2ja4JeBK99PgeBPDjpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 22:31:38 | BUY | 0.150000 | `4iU9Rkwp9HZdRTCDyJtdM9oiQaiEzF...` |
+| 2026-03-16 22:39:22 | SELL | 0.045019 | `3KbncbccA4nB3QvcPPXmPRySwWQTEA...` |
+| 2026-03-16 22:39:27 | SELL | 0.045019 | `3KbncbccA4nB3QvcPPXmPRySwWQTEA...` |
 
 ### 🟢 Cock
 - **Status:** closed | **Exit:** runner_trailing_stop
