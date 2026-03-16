@@ -1,15 +1,15 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 36 |
-| Open | 28 |
-| Closed | 8 |
-| SOL In (closed) | 0.014200 |
+| Open | 27 |
+| Closed | 9 |
+| SOL In (closed) | 0.014800 |
 | SOL Out (sells) | 0.003427 |
-| **P&L** | **-0.010773 SOL** |
-| **ROI** | **-75.9%** |
+| **P&L** | **-0.011373 SOL** |
+| **ROI** | **-76.8%** |
 
 ## Trades
 
@@ -24,7 +24,7 @@
 
 ### 🟢 chibo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 0.92x
+- **Peak:** 1.10x | **Current:** 0.89x
 - **Mint:** `HMAxR8iZxJz6mfJ3YUb6GiMSPzJSWQ5mSd7JBP2Mpump`
 
 | Time | Action | SOL | TX |
@@ -87,7 +87,7 @@
 
 ### 🟢 Clutch
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.37x | **Current:** 4.03x
+- **Peak:** 4.41x | **Current:** 4.41x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
@@ -281,8 +281,8 @@
 |------|--------|-----|----|
 | 2026-03-16 01:12:52 | BUY | 0.000600 | `3c3Fiu2ahUXjrAvNDeR7qAVmyjYiL3...` |
 
-### 🟢 NPC
-- **Status:** open | **Exit:** open
+### 🔴 NPC
+- **Status:** closing | **Exit:** stale_cleanup
 - **Peak:** 1.02x | **Current:** 0.86x
 - **Mint:** `5NrVvCRuNctUbQTkSP8pwEeAd4n9g59bguUgUn7npump`
 

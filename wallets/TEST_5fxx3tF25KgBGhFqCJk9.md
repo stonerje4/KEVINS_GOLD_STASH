@@ -1,26 +1,27 @@
 # [TEST] Wallet: `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus`
-> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.001187 |
-| **P&L** | **-0.000013 SOL** |
-| **ROI** | **-1.1%** |
+| Open | 0 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
+| SOL Out (sells) | 0.001473 |
+| **P&L** | **-0.000327 SOL** |
+| **ROI** | **-18.2%** |
 
 ## Trades
 
-### 🟢 Rocketman
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🔴 Rocketman
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.35x | **Current:** 0.48x
 - **Mint:** `5KpVjS2iodkDGhtghM93gBhDzScuRNHMqo84vi8MB4Hq`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 10:14:58 | BUY | 0.000600 | `56vdXLPckgvxWxQoThwPaMMrtDCQek...` |
+| 2026-03-16 10:15:48 | SELL | 0.000286 | `3oqnuYAerHfNaujWvq8KcT61weFcnM...` |
 
 ### 🟢 ANMOO
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

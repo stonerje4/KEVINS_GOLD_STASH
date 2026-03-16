@@ -1,5 +1,5 @@
-# [PRD] Wallet: `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`
-> Generated: 2026-03-16 10:20 UTC | Environment: **PRD**
+# [TEST] Wallet: `FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa`
+> Generated: 2026-03-16 10:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 WWM
+### 🟢 Metacoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.00x
-- **Mint:** `ERcwFx1AD24eHKdUtmfvwXJLWKapZ9mVwZ5xcuZJpump`
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `98xKEW8erCvy1yBrNr6poCWbw6gbZo3APeJYEiCVpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 03:10:14 | BUY | 0.150000 | `5e14cfKErjqhZNDTsR8aDzHnNcKLeG...` |
+| 2026-03-16 10:19:40 | BUY | 0.000600 | `kukdBuKMn5KJZx91dkucS2zsjVa5xS...` |
 

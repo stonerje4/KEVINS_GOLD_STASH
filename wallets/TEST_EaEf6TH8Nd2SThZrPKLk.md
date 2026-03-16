@@ -1,17 +1,26 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 37 |
+| Total Positions | 38 |
 | Open | 4 |
-| Closed | 33 |
-| SOL In (closed) | 0.019800 |
-| SOL Out (sells) | 0.019423 |
-| **P&L** | **-0.000377 SOL** |
-| **ROI** | **-1.9%** |
+| Closed | 34 |
+| SOL In (closed) | 0.020400 |
+| SOL Out (sells) | 0.019795 |
+| **P&L** | **-0.000605 SOL** |
+| **ROI** | **-3.0%** |
 
 ## Trades
+
+### 🟢 Chinese
+- **Status:** open | **Exit:** open
+- **Peak:** 1.32x | **Current:** 0.86x
+- **Mint:** `DBUPagbzy4zRb8Ti155bUa355om6GtU47c6G51Fppump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:15:23 | BUY | 0.000600 | `3DrnURzoP7ej5GX7b6Ux6s6HxwG6VG...` |
 
 ### 🔴 🌹
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -23,18 +32,19 @@
 | 2026-03-16 10:06:24 | BUY | 0.000600 | `46tvYyxQNZw2ouN6JTVVdeLj4BkurG...` |
 | 2026-03-16 10:07:48 | SELL | 0.000406 | `42JeaPbRsy6o84p3H4QrwQE2e8oPWM...` |
 
-### 🟢 Tsuki
-- **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.94x
+### 🔴 Tsuki
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.01x | **Current:** 0.62x
 - **Mint:** `HrAxh4UxCTwad1oQtqNZRW7oBJbxeszPYRgWRastpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 10:05:24 | BUY | 0.000600 | `3jVGAtZV4v1BHd3S8hQwRfWNvzZ2T2...` |
+| 2026-03-16 10:18:32 | SELL | 0.000372 | `4MTtiD8zrkGAzm7sPGB8jv3UTtHeJv...` |
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.10x | **Current:** 2.09x
+- **Peak:** 2.10x | **Current:** 2.10x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +54,7 @@
 
 ### 🟢 AIRI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.30x
+- **Peak:** 1.34x | **Current:** 1.31x
 - **Mint:** `3UJZRvYvP8Mef4boByK4Kj4CW61FLfZyNhGgoVrypump`
 
 | Time | Action | SOL | TX |
@@ -307,7 +317,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.21x
+- **Peak:** 1.59x | **Current:** 1.14x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

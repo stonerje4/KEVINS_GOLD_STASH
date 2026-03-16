@@ -1,15 +1,15 @@
 # [TEST] Wallet: `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog`
-> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
+| Open | 0 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.000740 |
-| **P&L** | **-0.000460 SOL** |
-| **ROI** | **-38.4%** |
+| **P&L** | **-0.001060 SOL** |
+| **ROI** | **-58.9%** |
 
 ## Trades
 
@@ -23,8 +23,8 @@
 | 2026-03-16 08:36:37 | BUY | 0.000600 | `NhEubxoMZma2FtrhWRqraX6MBFQcpv...` |
 | 2026-03-16 08:55:23 | SELL | 0.000373 | `5t1KxH1eaxnZrXMnavgbF6MbRBVG41...` |
 
-### 🟢 3984
-- **Status:** open | **Exit:** open
+### 🔴 3984
+- **Status:** closing | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.75x
 - **Mint:** `E9YR4R42ebnffd8KsHpeSa23ABWQFEWWs4VSsFWXpump`
 
