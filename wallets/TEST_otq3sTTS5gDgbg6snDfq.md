@@ -1,17 +1,26 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 06:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 23 |
-| Open | 20 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
+| Total Positions | 24 |
+| Open | 19 |
+| Closed | 5 |
+| SOL In (closed) | 0.003000 |
 | SOL Out (sells) | 0.002357 |
-| **P&L** | **+0.000557 SOL** |
-| **ROI** | **+30.9%** |
+| **P&L** | **-0.000643 SOL** |
+| **ROI** | **-21.4%** |
 
 ## Trades
+
+### 🟢 SOLANA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `F9UJRKTLrkEVpKQdXJ7Jn4YPhaVFsBPHt6g5RhNEpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:19:06 | BUY | 0.000600 | `UUCNx2zZtik7CQwcFGg32AUcTa8NNU...` |
 
 ### 🟢 $CHARITY
 - **Status:** open | **Exit:** open
@@ -190,15 +199,15 @@
 
 ### 🟢 HBB
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `Hip6YqPPfLPofk5payVGbdhcWpvCj5MNXonkf1sZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:25:46 | BUY | 0.000600 | `3pV7kAsStkQuLaUcUxA4PKmpoZPDL4...` |
 
-### 🟢 ZEBRA
-- **Status:** open | **Exit:** open
+### 🔴 ZEBRA
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `EgPBL3UMV1Ebrmr1HLTd7xggtJ2emgevrYz8P14Qpump`
 
@@ -206,8 +215,8 @@
 |------|--------|-----|----|
 | 2026-03-15 22:17:36 | BUY | 0.000600 | `3soAb6bhBJ7Fo8JZT6CGBA8UGTnQwu...` |
 
-### 🟢 PIGEON
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 PIGEON
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.01x | **Current:** 0.88x
 - **Mint:** `7qoFnme6rNMdr8Hhsi7MB5oVJx5xD6aeiPevtWGEpump`
 

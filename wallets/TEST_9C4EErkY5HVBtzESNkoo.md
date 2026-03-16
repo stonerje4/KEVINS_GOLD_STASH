@@ -1,26 +1,27 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 06:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 14 |
-| Open | 5 |
-| Closed | 9 |
-| SOL In (closed) | 0.005400 |
-| SOL Out (sells) | 0.002303 |
-| **P&L** | **-0.003097 SOL** |
-| **ROI** | **-57.3%** |
+| Open | 4 |
+| Closed | 10 |
+| SOL In (closed) | 0.006000 |
+| SOL Out (sells) | 0.002644 |
+| **P&L** | **-0.003356 SOL** |
+| **ROI** | **-55.9%** |
 
 ## Trades
 
-### 🟢 cat
-- **Status:** open | **Exit:** open
-- **Peak:** 1.52x | **Current:** 1.52x
+### 🔴 cat
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.52x | **Current:** 0.57x
 - **Mint:** `9JnZZ8WzqFSgZuwgyDBWaBQfjbqpqSRWAv6XHmJ7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:13:01 | BUY | 0.000600 | `4H5ENMbiXM1skXYc7MGodtXJZPeNjo...` |
+| 2026-03-16 06:16:51 | SELL | 0.000341 | `3oGfyWKwCFgTHjdQLoRTfXtDKa5LbL...` |
 
 ### 🟢 G1
 - **Status:** open | **Exit:** open
@@ -71,7 +72,7 @@
 
 ### 🟢 ZIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.98x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
 | Time | Action | SOL | TX |
@@ -130,7 +131,7 @@
 
 ### 🟢 AntiAI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.96x
+- **Peak:** 1.07x | **Current:** 0.92x
 - **Mint:** `BV5hWiZ1YJDKhgdXkiWqzE5zoXsy76ZYgkwe3H2Xpump`
 
 | Time | Action | SOL | TX |

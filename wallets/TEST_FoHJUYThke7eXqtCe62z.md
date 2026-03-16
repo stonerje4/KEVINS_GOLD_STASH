@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 06:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 1.07x
+- **Peak:** 1.09x | **Current:** 0.85x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 Minecraft
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `FLhogsmiJFdTAguBw1csum4PicbDVucrbNxkT2Uupump`
 
 | Time | Action | SOL | TX |
@@ -163,7 +163,7 @@
 
 ### 🟢 TRUMPHOUSE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `HZtdX9vZQCLojV4w5V6ZUUhCcwoZEJf2sv9PNDB3pump`
 
 | Time | Action | SOL | TX |
@@ -190,7 +190,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.89x
+- **Peak:** 1.05x | **Current:** 0.82x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |
@@ -217,7 +217,7 @@
 | 2026-03-16 01:11:07 | SELL | 0.000401 | `1yCt6RVS7sUhARhzNd8398WcBh3e8W...` |
 
 ### 🟢 JJK
-- **Status:** open | **Exit:** open
+- **Status:** partial | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `S2ALfUhiYy3JQobKv86KCkDHfQG5gvL4Ujb9FpKpump`
 

@@ -1,21 +1,21 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 06:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 86 |
-| Open | 27 |
-| Closed | 59 |
-| SOL In (closed) | 0.035400 |
-| SOL Out (sells) | 0.032910 |
-| **P&L** | **-0.002490 SOL** |
-| **ROI** | **-7.0%** |
+| Open | 26 |
+| Closed | 60 |
+| SOL In (closed) | 0.036000 |
+| SOL Out (sells) | 0.033320 |
+| **P&L** | **-0.002680 SOL** |
+| **ROI** | **-7.4%** |
 
 ## Trades
 
 ### 🟢 Canard
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.75x
 - **Mint:** `EAYec3W9fUBf1shiG9Zgnd4eoERBCYHnjJfGpsfopump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 FARMER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 1.04x
+- **Peak:** 1.34x | **Current:** 0.99x
 - **Mint:** `Y4axGYy2GVSG9B3ZyYTxub6DCmj1Ttu7vfT3tXhpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 SRAA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.06x
+- **Peak:** 1.23x | **Current:** 1.23x
 - **Mint:** `6onRcUxc3PChE4DK6FygJeuPDBUFhoZjJauNfPsapump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 DRONE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.30x
+- **Peak:** 1.36x | **Current:** 1.29x
 - **Mint:** `GBmawmE9jJvyYVbdgTdYi9NXsjWwR5EaytvkrRwcpump`
 
 | Time | Action | SOL | TX |
@@ -71,7 +71,7 @@
 
 ### 🟢 骡子快跑
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `BmZnETG7aTfgCCm7b3V8JU9122usumdXeM283HWgpump`
 
 | Time | Action | SOL | TX |
@@ -143,7 +143,7 @@
 
 ### 🟢 plumber
 - **Status:** partial | **Exit:** open
-- **Peak:** 12.70x | **Current:** 9.85x
+- **Peak:** 12.70x | **Current:** 11.73x
 - **Mint:** `2Pah9ZUfpii27ABrWfQorzdW8FSJimxj6izFr4oGpump`
 
 | Time | Action | SOL | TX |
@@ -205,7 +205,7 @@
 
 ### 🟢 LIFE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `CbqEa8fyhqkm29JPx6xx5XDBUKjsjKYTAjbbHQuspump`
 
 | Time | Action | SOL | TX |
@@ -214,7 +214,7 @@
 
 ### 🟢 Übermensch
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.90x
 - **Mint:** `651nrR2zXYRXX9qZFMVRfSgv1Faafep78XK65SeXpump`
 
 | Time | Action | SOL | TX |
@@ -261,7 +261,7 @@
 
 ### 🟢 Oscar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `G1raszDo4V42Mp9dQ39kSPkUWWSDXEg42HAMZCyDpump`
 
 | Time | Action | SOL | TX |
@@ -437,7 +437,7 @@
 
 ### 🟢 Crawstar
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.08x | **Current:** 1.59x
+- **Peak:** 2.08x | **Current:** 1.58x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -584,7 +584,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 1.19x
+- **Peak:** 1.20x | **Current:** 1.20x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -809,7 +809,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.26x
+- **Peak:** 1.48x | **Current:** 1.45x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
@@ -846,14 +846,15 @@
 | 2026-03-16 01:54:45 | SELL | 0.000374 | `31Unf33obas4GFss2VWYMve2aNW9sW...` |
 | 2026-03-16 03:54:25 | SELL | 0.000616 | `2JCRP61BjF8XHn5odz35Fqbfbma9jV...` |
 
-### 🟢 Millennial
-- **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.71x
+### 🔴 Millennial
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.37x | **Current:** 0.70x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:08:54 | BUY | 0.000600 | `4xNkurEsqssQNJsCAUscajSLSgfSij...` |
+| 2026-03-16 06:15:11 | SELL | 0.000410 | `4xVa2HPmENsnSzzwCQWpeZrV2vcRL7...` |
 
 ### 🟢 AI
 - **Status:** open | **Exit:** open
