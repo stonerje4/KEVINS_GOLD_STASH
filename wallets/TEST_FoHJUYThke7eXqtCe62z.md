@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 06:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -107,7 +107,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |
@@ -210,7 +210,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.89x
+- **Peak:** 1.05x | **Current:** 0.79x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |
