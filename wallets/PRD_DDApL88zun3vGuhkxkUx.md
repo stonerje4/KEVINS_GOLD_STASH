@@ -1,30 +1,31 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 06:35 UTC | Environment: **PRD**
+> Generated: 2026-03-16 06:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 28 |
-| Open | 6 |
-| Closed | 22 |
-| SOL In (closed) | 2.930000 |
-| SOL Out (sells) | 4.100878 |
-| **P&L** | **+1.170878 SOL** |
-| **ROI** | **+40.0%** |
+| Open | 5 |
+| Closed | 23 |
+| SOL In (closed) | 3.080000 |
+| SOL Out (sells) | 4.157651 |
+| **P&L** | **+1.077651 SOL** |
+| **ROI** | **+35.0%** |
 
 ## Trades
 
-### 🟢 BLUECOLLAR
-- **Status:** open | **Exit:** open
+### 🔴 BLUECOLLAR
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `4Emwkh1Zd2XBFcTs34UeXq7hGQhtckeV6mcURfVqpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:34:16 | BUY | 0.150000 | `2N4yUBfdmHf8DdmJTLt9ztCL8gaGPi...` |
+| 2026-03-16 06:35:52 | SELL | 0.056773 | `2GX61eyMPjAZgzuSEYSSjmLF6vFRvB...` |
 
 ### 🟢 ROOSTER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.00x
+- **Peak:** 1.20x | **Current:** 0.00x
 - **Mint:** `HygKdWWqjBUxP2dSQZLD7qjNCxAWam7VUP3ovD3Rpump`
 
 | Time | Action | SOL | TX |

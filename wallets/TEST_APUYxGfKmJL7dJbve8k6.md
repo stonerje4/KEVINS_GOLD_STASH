@@ -1,14 +1,14 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 06:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 22 |
-| Open | 1 |
-| Closed | 21 |
-| SOL In (closed) | 0.012600 |
-| SOL Out (sells) | 0.008500 |
-| **P&L** | **-0.004100 SOL** |
+| Open | 0 |
+| Closed | 22 |
+| SOL In (closed) | 0.013200 |
+| SOL Out (sells) | 0.008913 |
+| **P&L** | **-0.004287 SOL** |
 | **ROI** | **-32.5%** |
 
 ## Trades
@@ -31,14 +31,15 @@
 |------|--------|-----|----|
 | 2026-03-16 04:53:06 | BUY | 0.000600 | `3ujVnFoPAWzSC4gAzSJGk6BsM4cEHv...` |
 
-### 🟢 jobs
-- **Status:** open | **Exit:** open
-- **Peak:** 1.52x | **Current:** 0.77x
+### 🔴 jobs
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.52x | **Current:** 0.69x
 - **Mint:** `FcwceuuhTgPXuy1fVdn79Gsmn6xFiSfMvi1fbjaupump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:50:18 | BUY | 0.000600 | `779rHh3i8mUCdWAuWcX9Eswqm8RYMu...` |
+| 2026-03-16 06:35:19 | SELL | 0.000413 | `4N5XRzvzQzitJSVTtVdpoNfPFN6vSx...` |
 
 ### 🔴 Bowhead
 - **Status:** closed | **Exit:** ghost_close_stop_loss

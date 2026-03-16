@@ -1,15 +1,15 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 06:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 26 |
-| Open | 21 |
-| Closed | 5 |
-| SOL In (closed) | 0.012400 |
-| SOL Out (sells) | 0.002028 |
-| **P&L** | **-0.010372 SOL** |
-| **ROI** | **-83.6%** |
+| Open | 20 |
+| Closed | 6 |
+| SOL In (closed) | 0.013000 |
+| SOL Out (sells) | 0.003024 |
+| **P&L** | **-0.009976 SOL** |
+| **ROI** | **-76.7%** |
 
 ## Trades
 
@@ -41,13 +41,15 @@
 | 2026-03-16 05:46:06 | BUY | 0.000600 | `5PBxCX6LBR43EDNGxg2m5db1bYEPFH...` |
 
 ### 🟢 SMOKE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.90x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.05x | **Current:** 1.48x
 - **Mint:** `22jZueT7geHH1BKyrJ753ATgSnwj665ctRnvqYVspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:45:05 | BUY | 0.000600 | `umgxyZ3CzRWY3d9ojugneNkjpv6NYX...` |
+| 2026-03-16 06:38:10 | SELL | 0.000370 | `3JHjXTqHdgWdjVJomx1K22VKaTs9sw...` |
+| 2026-03-16 06:38:43 | SELL | 0.000626 | `5WUjLg9CVjTBDuTBpV8KM2x3wNkp2B...` |
 
 ### 🟢 Minecraft
 - **Status:** open | **Exit:** open

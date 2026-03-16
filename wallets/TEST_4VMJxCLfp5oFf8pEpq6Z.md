@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 06:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 PUMPERS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.96x
+- **Peak:** 1.02x | **Current:** 0.83x
 - **Mint:** `GpPmQTqV3KeTRUWCxFtnw3VQHuAqqG4HWsxvw6Vwpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 CIRBP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.12x
+- **Peak:** 1.63x | **Current:** 1.11x
 - **Mint:** `4HsKJjmF1n41KDtkYM9Cxu8LKV7YC9GLGnXe5YtBpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 Fridge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 0.88x
+- **Peak:** 1.15x | **Current:** 0.85x
 - **Mint:** `Bqhm4Um5iuAjFsVnsjCQko3eg5mctTyv7HWLDGHgpump`
 
 | Time | Action | SOL | TX |
@@ -102,7 +102,7 @@
 
 ### 🟢 WhiteBoy 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 1.05x
+- **Peak:** 1.14x | **Current:** 1.04x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |

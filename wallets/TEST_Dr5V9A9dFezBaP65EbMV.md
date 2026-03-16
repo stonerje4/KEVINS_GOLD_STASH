@@ -1,10 +1,10 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 06:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
-| Open | 10 |
+| Total Positions | 13 |
+| Open | 11 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.000789 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 Sonny
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `EVHhyNdtZxXCvRVXeAggjXiahoAQxXhsifFEw6yWpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:38:04 | BUY | 0.000600 | `3yrh4vXRnA4GqqAbVuPJJSNapWbEpc...` |
+
 ### 🟢 LOCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.00x
+- **Peak:** 1.06x | **Current:** 0.97x
 - **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +42,7 @@
 
 ### 🟢 Elongate
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.92x
+- **Peak:** 1.04x | **Current:** 0.89x
 - **Mint:** `3aGbWBEpCfDxMSb5KfpSvWrBo3tCCbMiZP9x8PpKpump`
 
 | Time | Action | SOL | TX |
@@ -79,7 +88,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.03x
+- **Peak:** 1.18x | **Current:** 1.05x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |
@@ -98,7 +107,7 @@
 
 ### 🟢 TIM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.94x
+- **Peak:** 1.11x | **Current:** 0.93x
 - **Mint:** `9rZyxfCQhGCBcpbFW3LUjVKoBajVbN6kYdHmaFXSpump`
 
 | Time | Action | SOL | TX |
@@ -107,7 +116,7 @@
 
 ### 🟢 zoolander
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.83x
+- **Peak:** 1.05x | **Current:** 0.82x
 - **Mint:** `CVMQJUwFBdhHEcDEuAmT3B4RkkcRLJEALCQvDngmpump`
 
 | Time | Action | SOL | TX |
