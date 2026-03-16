@@ -1,10 +1,10 @@
 # Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 00:45 UTC
+> Generated: 2026-03-16 00:50 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 4 |
+| Total Positions | 5 |
+| Open | 5 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.000000 |
@@ -12,6 +12,15 @@
 | **ROI** | **+0.0%** |
 
 ## Trades
+
+### 🟢 PROXY
+- **Status:** open | **Exit:** open
+- **Peak:** 1.48x | **Current:** 0.90x
+- **Mint:** `79UhwqVUqYvW5uvnF5FPZc3rUemfo52yX6B1LSLCpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 00:45:56 | BUY | 0.000600 | `3f1Wny53Xg4Ge2eMrLbMpQbkVtqkDu...` |
 
 ### 🟢 HBB
 - **Status:** open | **Exit:** open

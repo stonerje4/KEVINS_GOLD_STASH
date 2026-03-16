@@ -1,5 +1,5 @@
 # Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 00:45 UTC
+> Generated: 2026-03-16 00:50 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 TWINKLE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.53x | **Current:** 0.79x
+- **Peak:** 1.53x | **Current:** 0.73x
 - **Mint:** `AJa11Um6nQBBtRULwbW7TGxaXNDs3LuimcE9eLAypump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-16 00:45 UTC
+> Generated: 2026-03-16 00:50 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 
 ### 🟢 POKEMAPS
 - **Status:** partial | **Exit:** open
-- **Peak:** 6.92x | **Current:** 6.19x
+- **Peak:** 6.92x | **Current:** 5.57x
 - **Mint:** `4Ehuuwj6KBtcAaE21ahSMErATgiaU2hEFpn5o4Vtpump`
 
 | Time | Action | SOL | TX |
