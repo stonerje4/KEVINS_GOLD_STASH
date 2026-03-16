@@ -1,5 +1,5 @@
 # [PRD] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 20:50 UTC | Environment: **PRD**
+> Generated: 2026-03-16 20:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 Hamster
-- **Status:** open | **Exit:** open
-- **Peak:** 1.78x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.43x | **Current:** 0.00x
 - **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 20:35:47 | BUY | 0.150000 | `5aPQiJthjmu9DRgkChdMnnzbDd3KuS...` |
+| 2026-03-16 20:54:42 | SELL | 0.030138 | `5xfdmjCxYJHfxQghDPQSGiXGvxr4Yv...` |
 
 ### 🔴 RAVEN
 - **Status:** closed | **Exit:** stop_loss

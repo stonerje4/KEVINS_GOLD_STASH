@@ -1,16 +1,16 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 20:50 UTC | Environment: **PRD**
+> Generated: 2026-03-16 20:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 36 |
-| Open | 4 |
-| Closed | 32 |
-| W/L | 8/24 |
-| SOL In (closed) | 3.330000 |
-| **Closed P&L** | **-0.208374 SOL** |
-| **Closed ROI** | **-6.3%** |
-| Open Deployed | 0.600000 SOL |
+| Open | 3 |
+| Closed | 33 |
+| W/L | 9/24 |
+| SOL In (closed) | 3.480000 |
+| **Closed P&L** | **-0.161891 SOL** |
+| **Closed ROI** | **-4.7%** |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
 
@@ -24,7 +24,7 @@
 | 2026-03-16 20:40:34 | BUY | 0.150000 | `12AkMZSsh7pJRJTRNVzbEDMEsgLsce...` |
 
 ### 🟢 SHELLY
-- **Status:** partial | **Exit:** open
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 4.67x | **Current:** 0.00x
 - **Mint:** `Fh4GfsABm7GWCEToGNBY3PX15FMCg8GetTBLxsWqpump`
 
@@ -33,6 +33,7 @@
 | 2026-03-16 20:13:22 | BUY | 0.150000 | `5HWgDh33QfeiqG1zc1ZmXFh8WeKs2i...` |
 | 2026-03-16 20:16:28 | SELL | 0.045487 | `28CEZMJgRqtsZoTpg1UsFPDGU4GgfR...` |
 | 2026-03-16 20:20:57 | SELL | 0.056225 | `3x7pDjHyy8H1uynUZnk65yk4XBkt4w...` |
+| 2026-03-16 20:54:10 | SELL | 0.196483 | `4TQfk1VTGYHYvREAeTvCfNczviJMAV...` |
 
 ### 🔴 Moumou
 - **Status:** closed | **Exit:** stop_loss
