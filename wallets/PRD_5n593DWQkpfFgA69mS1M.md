@@ -1,18 +1,27 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 19:15 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 0 |
+| Total Positions | 7 |
+| Open | 1 |
 | Closed | 6 |
 | W/L | 2/4 |
 | SOL In (closed) | 0.900000 |
 | **Closed P&L** | **+0.340846 SOL** |
 | **Closed ROI** | **+37.9%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
+
+### 🟢 Grandma
+- **Status:** open | **Exit:** open
+- **Peak:** 1.26x | **Current:** 0.00x
+- **Mint:** `AtGduoNNDGWgKBPHKWvN6E2JXVE8yQzGsEhkRUdJpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 19:16:36 | BUY | 0.150000 | `3RUsk7FxPoPXPkmLGX7mPeZnyrqX6N...` |
 
 ### 🔴 tiger
 - **Status:** closed | **Exit:** stop_loss
