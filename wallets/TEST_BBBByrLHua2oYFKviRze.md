@@ -1,17 +1,37 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 11:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 31 |
+| Total Positions | 33 |
 | Open | 1 |
-| Closed | 30 |
-| SOL In (closed) | 0.018000 |
-| SOL Out (sells) | 0.014662 |
-| **P&L** | **-0.003338 SOL** |
-| **ROI** | **-18.5%** |
+| Closed | 32 |
+| SOL In (closed) | 0.019200 |
+| SOL Out (sells) | 0.015357 |
+| **P&L** | **-0.003843 SOL** |
+| **ROI** | **-20.0%** |
 
 ## Trades
+
+### 🔴 BuzzCat
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.08x | **Current:** 0.69x
+- **Mint:** `CDFv3XpG8j1AxPwX4C7Ad5HkEuAiPZUu36wZ3wXPpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:13:10 | BUY | 0.000600 | `4he8kjgevALApch2HBMsPPhwgAB2Gh...` |
+| 2026-03-16 11:14:01 | SELL | 0.000413 | `2Xum8hKadhqTGxz2gtqQn789RhEbyu...` |
+
+### 🔴 Ru
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.02x | **Current:** 0.47x
+- **Mint:** `H9Bfm8vMc81GWKiSDMqgxzsGGEFdqVLSDCsfZnrJpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:11:39 | BUY | 0.000600 | `4wrNL8YSrybUjZDTyKtkT13UUeqjrp...` |
+| 2026-03-16 11:12:34 | SELL | 0.000282 | `2HJP3QjPx2gaXrLyRc9Fz6z5oUXHEY...` |
 
 ### 🔴 ORANGE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

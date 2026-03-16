@@ -1,17 +1,54 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 11:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 155 |
-| Open | 36 |
-| Closed | 119 |
-| SOL In (closed) | 0.071400 |
-| SOL Out (sells) | 0.066097 |
-| **P&L** | **-0.005303 SOL** |
-| **ROI** | **-7.4%** |
+| Total Positions | 159 |
+| Open | 39 |
+| Closed | 120 |
+| SOL In (closed) | 0.072000 |
+| SOL Out (sells) | 0.066469 |
+| **P&L** | **-0.005531 SOL** |
+| **ROI** | **-7.7%** |
 
 ## Trades
+
+### 🔴 Ru
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.06x | **Current:** 0.47x
+- **Mint:** `19FCGFAPG6zr1zQKAX355zDJ6kxhBDjaNghNZ5mpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:13:29 | BUY | 0.000600 | `2mL8HyuWHMxsQv3UZupmDPuQhAMA4L...` |
+| 2026-03-16 11:14:22 | SELL | 0.000372 | `2dL98KAbMVRtbsYkwKEZXMvbGRiuC5...` |
+
+### 🟢 RUTHENINU
+- **Status:** open | **Exit:** open
+- **Peak:** 1.14x | **Current:** 1.14x
+- **Mint:** `H2MJzH4DbRZMnFS8DqWptvbJZwcKPouaKQA8YJRiHmnz`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:13:12 | BUY | 0.000600 | `oLFSuN5iPnBzrU25Rhh8zdSdcNUs4E...` |
+
+### 🟢 MULERUN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.88x
+- **Mint:** `8HaD74WtdomDY8s9tUW55ERL2rRFQjXfgMWxWig6pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:12:20 | BUY | 0.000600 | `2qnDn8LDZ2RRgsNFDELCowMZcVXLmc...` |
+
+### 🟢 Romanus
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 0.92x
+- **Mint:** `CJB4fjgUjSN43QLFTC77UQCmYzky4VzTmedDCZqbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:10:02 | BUY | 0.000600 | `cLjKSemp8BTTgfEeJDvY7thquVbgGJ...` |
 
 ### 🔴 Robust
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -46,7 +83,7 @@
 
 ### 🟢 GIKONEKO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.98x
+- **Peak:** 1.19x | **Current:** 1.10x
 - **Mint:** `6YXVaY927DSvMgzsiKR8tdDhJrnAcSs9hqBb5EMMpump`
 
 | Time | Action | SOL | TX |
@@ -55,7 +92,7 @@
 
 ### 🟢 SHITCOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.92x | **Current:** 1.21x
+- **Peak:** 1.92x | **Current:** 1.20x
 - **Mint:** `7d16UvK5vFtjz2M59e4wJ2ewj3HZr4hG3Wjmjhwzpump`
 
 | Time | Action | SOL | TX |
@@ -113,7 +150,7 @@
 
 ### 🟢 HOSTMAXXING
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.67x
+- **Peak:** 1.84x | **Current:** 1.66x
 - **Mint:** `AoqYWcBaRQgA7BoqMgAmUYxkCvH4mcdCbdd2iCDopump`
 
 | Time | Action | SOL | TX |
@@ -142,7 +179,7 @@
 
 ### 🟢 NANO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.69x
+- **Peak:** 1.69x | **Current:** 1.68x
 - **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
 
 | Time | Action | SOL | TX |
@@ -923,7 +960,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.67x
+- **Peak:** 1.87x | **Current:** 1.68x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -932,7 +969,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.90x
+- **Peak:** 1.12x | **Current:** 0.88x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -951,7 +988,7 @@
 
 ### 🟢 Oscar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `G1raszDo4V42Mp9dQ39kSPkUWWSDXEg42HAMZCyDpump`
 
 | Time | Action | SOL | TX |
@@ -1194,7 +1231,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.11x
+- **Peak:** 1.25x | **Current:** 0.99x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |
@@ -1398,7 +1435,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.56x
+- **Peak:** 1.79x | **Current:** 1.53x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
