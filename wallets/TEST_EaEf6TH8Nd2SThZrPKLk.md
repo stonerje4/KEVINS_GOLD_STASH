@@ -1,16 +1,16 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 18:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:07 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 94 |
-| Open | 18 |
-| Closed | 76 |
-| W/L | 75/1 |
-| SOL In (closed) | 0.035600 |
-| **Closed P&L** | **+0.029962 SOL** |
-| **Closed ROI** | **+84.2%** |
-| Open Deployed | 0.003300 SOL |
+| Open | 17 |
+| Closed | 77 |
+| W/L | 76/1 |
+| SOL In (closed) | 0.035700 |
+| **Closed P&L** | **+0.029997 SOL** |
+| **Closed ROI** | **+84.0%** |
+| Open Deployed | 0.003200 SOL |
 
 ## Trades
 
@@ -28,13 +28,14 @@
 | 2026-03-16 18:03:48 | SELL | 0.000127 | `8aY5aXEbTCUMGJpSv41kjHNfpHPga7...` |
 
 ### 🟢 SME
-- **Status:** open | **Exit:** open
-- **Peak:** 1.93x | **Current:** 1.93x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.20x | **Current:** 1.86x
 - **Mint:** `Dh6HtEHN6AmghFNYh3nzR2SPq1h4ub8HEMAC2Abrpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:52:43 | BUY | 0.000100 | `3cJm6enyDZGP4a2Pzr5SAiWMZhi4UL...` |
+| 2026-03-16 18:05:12 | SELL | 0.000022 | `4WMDmLJMwA9VUUTTTXiryN8WAmYgjN...` |
 
 ### 🔴 LUC
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -58,7 +59,7 @@
 
 ### 🟢 SIRI
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.18x | **Current:** 2.22x
+- **Peak:** 3.18x | **Current:** 2.08x
 - **Mint:** `8S2iD5M7HwE5zXC4u6ReaPLGdztTM24d9JCVREu5pump`
 
 | Time | Action | SOL | TX |
@@ -98,7 +99,7 @@
 
 ### 🟢 唐某某
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.48x
+- **Peak:** 1.04x | **Current:** 0.47x
 - **Mint:** `DH6WNNPRgLgEteFUaXTZB2hAUgqt434vsXudsQpGpump`
 
 | Time | Action | SOL | TX |
@@ -311,14 +312,15 @@
 | 2026-03-16 15:33:10 | SELL | 0.000027 | `51sQ5cgZ6RY8iFBgM9K3QngJcr3VgV...` |
 | 2026-03-16 15:55:40 | SELL | 0.000162 | `3gpEzSFSrcRBkoELiuGSH5dm9cSJsw...` |
 
-### 🟢 FOR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.41x
+### 🔴 FOR
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.03x | **Current:** 0.35x
 - **Mint:** `AQdN5pQBHNg4n2NSLZPKGgMWRYuiafD2V9mkBo2cpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:13:30 | BUY | 0.000100 | `ErN3nyoUt2sFjzoPME6dVNobEpnrj9...` |
+| 2026-03-16 18:05:10 | SELL | 0.000035 | `3jz49TGorGY8VPv1RhdNM15CX1iNeS...` |
 
 ### 🔴 6
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 18:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:07 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -26,7 +26,7 @@
 
 ### 🟢 唐某某
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.47x | **Current:** 1.71x
+- **Peak:** 2.47x | **Current:** 1.29x
 - **Mint:** `9aaEaHnNezimeAqzzBuj4ha2uMFc4L17eGDiezS1ANfu`
 
 | Time | Action | SOL | TX |
@@ -36,7 +36,7 @@
 
 ### 🟢 MEATBAGS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.53x
+- **Peak:** 1.54x | **Current:** 0.59x
 - **Mint:** `EVxm9QG7UN9uNwg55pK8iz2xvs7TiqPJ1knM2Y6rpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 18:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:07 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Octocat
 - **Status:** open | **Exit:** open
-- **Peak:** 1.53x | **Current:** 0.53x
+- **Peak:** 1.53x | **Current:** 0.48x
 - **Mint:** `29SYSVEoiK15qpo5cYdiP5fZwU4acGP8Qj9BEbSipump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 OpenShell
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.99x
+- **Peak:** 1.13x | **Current:** 0.82x
 - **Mint:** `Gc78hWdJRgEJVUXZvgVLhwcdmmXaVzpKA3NgYb3cpump`
 
 | Time | Action | SOL | TX |
