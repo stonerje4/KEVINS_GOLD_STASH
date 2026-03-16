@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 14:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:13 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 47 |
-| Open | 1 |
+| Total Positions | 48 |
+| Open | 2 |
 | Closed | 46 |
 | W/L | 44/2 |
 | SOL In (closed) | 0.027600 |
 | **Closed P&L** | **+0.022649 SOL** |
 | **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.000600 SOL |
+| Open Deployed | 0.001200 SOL |
 
 ## Trades
+
+### 🟢 Kinako
+- **Status:** open | **Exit:** open
+- **Peak:** 1.13x | **Current:** 0.72x
+- **Mint:** `iKDh55hso81TyuUaqKRZUBePghpxbnYnSKdL9njpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:10:09 | BUY | 0.000600 | `2GP3v3AWVR7Gm9kZWG36hciaAGc8kX...` |
 
 ### 🔴 Malibu
 - **Status:** closed | **Exit:** ghost_close_stop_loss

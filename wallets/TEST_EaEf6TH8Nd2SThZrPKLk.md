@@ -1,16 +1,16 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 14:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:13 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 59 |
-| Open | 6 |
-| Closed | 53 |
-| W/L | 52/1 |
-| SOL In (closed) | 0.031800 |
-| **Closed P&L** | **+0.027193 SOL** |
-| **Closed ROI** | **+85.5%** |
-| Open Deployed | 0.003600 SOL |
+| Open | 5 |
+| Closed | 54 |
+| W/L | 53/1 |
+| SOL In (closed) | 0.032400 |
+| **Closed P&L** | **+0.027396 SOL** |
+| **Closed ROI** | **+84.6%** |
+| Open Deployed | 0.003000 SOL |
 
 ## Trades
 
@@ -36,7 +36,7 @@
 
 ### 🟢 モモ
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.54x | **Current:** 2.19x
+- **Peak:** 2.54x | **Current:** 2.31x
 - **Mint:** `7HEGwZRQpredmtk68syRy1zz2nCphjxS6HLH7UENpump`
 
 | Time | Action | SOL | TX |
@@ -65,14 +65,15 @@
 | 2026-03-16 13:31:28 | BUY | 0.000600 | `4ASGpNQtzGSaCoFpxhCA7ZEbh7Yk2L...` |
 | 2026-03-16 13:34:53 | SELL | 0.000197 | `uPLceaf2YDSNnJ6XjUN2Rnu9k9Ktsv...` |
 
-### 🟢 $GENIUS
-- **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.92x
+### 🔴 $GENIUS
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.12x | **Current:** 0.34x
 - **Mint:** `8vXcj3NUpcCWmHnwaY2jqee5CC1cV4XZRctqLrGQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 13:18:54 | BUY | 0.000600 | `2p9HPoJ9qwcCjtQygnx6qrvTatBkTa...` |
+| 2026-03-16 14:11:38 | SELL | 0.000204 | `yXByxRPaSN44RwttKbkf4pVvcpqZeA...` |
 
 ### 🔴 BALD
 - **Status:** closed | **Exit:** stop_loss
@@ -148,7 +149,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.39x
+- **Peak:** 1.50x | **Current:** 1.43x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |

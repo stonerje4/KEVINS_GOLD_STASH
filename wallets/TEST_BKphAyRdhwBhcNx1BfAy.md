@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 14:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:13 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 204 |
+| Total Positions | 205 |
 | Open | 48 |
-| Closed | 156 |
-| W/L | 151/5 |
-| SOL In (closed) | 0.093600 |
-| **Closed P&L** | **+0.081866 SOL** |
-| **Closed ROI** | **+87.5%** |
+| Closed | 157 |
+| W/L | 152/5 |
+| SOL In (closed) | 0.094200 |
+| **Closed P&L** | **+0.082178 SOL** |
+| **Closed ROI** | **+87.2%** |
 | Open Deployed | 0.028800 SOL |
 
 ## Trades
+
+### 🟢 Snootlets
+- **Status:** open | **Exit:** open
+- **Peak:** 1.51x | **Current:** 1.51x
+- **Mint:** `EUfPZ6A6NFhXKFmkSpFN5zzXTEBypjJQ8beXCKUdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:10:59 | BUY | 0.000600 | `496cdmwTPbfwYKLq8BQXbqs4Davar4...` |
 
 ### 🟢 Chinaman
 - **Status:** open | **Exit:** open
@@ -43,8 +52,8 @@
 | 2026-03-16 13:58:19 | BUY | 0.000600 | `32yREU85mKtgAsm4xx84j4o1cfYKR2...` |
 | 2026-03-16 14:01:59 | SELL | 0.000357 | `52XR5oA9x5jx8d26cakTdgPqhW8rJa...` |
 
-### 🟢 soul.md
-- **Status:** partial | **Exit:** stop_loss
+### 🔴 soul.md
+- **Status:** closed | **Exit:** ghost_close_stop_loss
 - **Peak:** 1.16x | **Current:** 0.52x
 - **Mint:** `4Xd15h2G58UXukxa4JcAyvoHt9pdmu92DR1qCYmtpump`
 
@@ -308,7 +317,7 @@
 
 ### 🟢 Angela
 - **Status:** open | **Exit:** open
-- **Peak:** 1.65x | **Current:** 1.56x
+- **Peak:** 1.65x | **Current:** 1.58x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |
@@ -354,7 +363,7 @@
 
 ### 🟢 ミャク
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.95x
+- **Peak:** 1.08x | **Current:** 0.86x
 - **Mint:** `2ej2QVXiyVSaK6JTGL73VamrL14pHFWqVv2o1jVEpump`
 
 | Time | Action | SOL | TX |
@@ -591,7 +600,7 @@
 
 ### 🟢 HOSTMAXXING
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 0.80x
+- **Peak:** 1.84x | **Current:** 0.77x
 - **Mint:** `AoqYWcBaRQgA7BoqMgAmUYxkCvH4mcdCbdd2iCDopump`
 
 | Time | Action | SOL | TX |
