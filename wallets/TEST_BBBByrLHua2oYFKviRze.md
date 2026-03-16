@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 18:11 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 Moumou
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.58x | **Current:** 2.30x
+- **Peak:** 2.80x | **Current:** 2.54x
 - **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +44,7 @@
 
 ### 🟢 pandas
 - **Status:** partial | **Exit:** open
-- **Peak:** 5.52x | **Current:** 5.50x
+- **Peak:** 5.52x | **Current:** 5.08x
 - **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
 
 | Time | Action | SOL | TX |
@@ -356,7 +356,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.23x
+- **Peak:** 1.74x | **Current:** 1.49x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

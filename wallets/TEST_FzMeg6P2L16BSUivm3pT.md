@@ -1,22 +1,31 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 18:11 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 3 |
+| Total Positions | 8 |
+| Open | 4 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.001400 |
 | **Closed P&L** | **+0.000524 SOL** |
 | **Closed ROI** | **+37.4%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
+### 🟢 Superagent
+- **Status:** open | **Exit:** open
+- **Peak:** 1.16x | **Current:** 1.00x
+- **Mint:** `HP17Vmciep1XwGZRTC1jdV1Rb8K7nvQqngMwSU3Fpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 18:14:10 | BUY | 0.000100 | `4p7y3rfqBxDpY6jWkzhxTuLEZgn1pE...` |
+
 ### 🟢 Tekless
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.56x
+- **Peak:** 1.00x | **Current:** 0.53x
 - **Mint:** `CzLorvm3gf6u5kfcJd427myDPtyZDKZ1eP7akQ3zpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 OpenShell
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.82x
+- **Peak:** 1.13x | **Current:** 0.64x
 - **Mint:** `Gc78hWdJRgEJVUXZvgVLhwcdmmXaVzpKA3NgYb3cpump`
 
 | Time | Action | SOL | TX |

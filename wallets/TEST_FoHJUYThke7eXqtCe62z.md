@@ -1,18 +1,36 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 18:11 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 60 |
-| Open | 37 |
+| Total Positions | 62 |
+| Open | 39 |
 | Closed | 23 |
 | W/L | 13/10 |
 | SOL In (closed) | 0.020700 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+43.8%** |
-| Open Deployed | 0.018200 SOL |
+| Open Deployed | 0.018400 SOL |
 
 ## Trades
+
+### 🟢 X-Man
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `BnshewgbX8hy1onTNZtzDpLkdtEDTHuHDYPQStN6pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 18:14:50 | BUY | 0.000100 | `YcgLQfdMjJCLUxkj9gej9QRRr5gWx9...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `5aF1HPqCHhK95ZkQ2mUuxw8p5GwFj4WRTzbrLBf3pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 18:14:16 | BUY | 0.000100 | `HXMFCKHv4XDHjf6UcBwpTAFEJb8HGY...` |
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
@@ -25,7 +43,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `FkfyNheLS6c2U45JgdecnhwnZijnX8VkffaXDBkrpump`
 
 | Time | Action | SOL | TX |
