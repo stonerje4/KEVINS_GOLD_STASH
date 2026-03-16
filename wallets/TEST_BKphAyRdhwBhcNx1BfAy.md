@@ -1,15 +1,15 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 10:46 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 150 |
-| Open | 35 |
-| Closed | 115 |
-| SOL In (closed) | 0.069000 |
-| SOL Out (sells) | 0.063705 |
-| **P&L** | **-0.005295 SOL** |
-| **ROI** | **-7.7%** |
+| Open | 34 |
+| Closed | 116 |
+| SOL In (closed) | 0.069600 |
+| SOL Out (sells) | 0.063919 |
+| **P&L** | **-0.005681 SOL** |
+| **ROI** | **-8.2%** |
 
 ## Trades
 
@@ -23,14 +23,15 @@
 | 2026-03-16 10:45:27 | BUY | 0.000600 | `LeRKAuf4ey2TWMpoGvmx9eWL5fUgeY...` |
 | 2026-03-16 10:45:42 | SELL | 0.000378 | `2dpu597ASEwg683pkwcnsNxkraktAA...` |
 
-### 🟢 UnitreeG1
-- **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.13x
+### 🔴 UnitreeG1
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.13x | **Current:** 0.36x
 - **Mint:** `DxFpB7wn134jgwNye5gxwKCoDaDEnQeKxAAX6m6Qpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 10:41:56 | BUY | 0.000600 | `3y4rMjhoJ6Mz5t5rsNQ9PWGcRV1x19...` |
+| 2026-03-16 10:50:01 | SELL | 0.000214 | `47wkanL7YC4ZCfiGBaRdF8Nwf7nyxk...` |
 
 ### 🔴 dog
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -92,7 +93,7 @@
 
 ### 🟢 NANO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 1.54x
+- **Peak:** 1.55x | **Current:** 1.55x
 - **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
 
 | Time | Action | SOL | TX |
@@ -537,7 +538,7 @@
 
 ### 🟢 TOKEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `Go3J5WxxRJjr56kC271ztysCuePQyKur3DPGckNSpump`
 
 | Time | Action | SOL | TX |
@@ -709,7 +710,7 @@
 
 ### 🟢 骡子快跑
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `BmZnETG7aTfgCCm7b3V8JU9122usumdXeM283HWgpump`
 
 | Time | Action | SOL | TX |
@@ -882,7 +883,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.86x
+- **Peak:** 1.12x | **Current:** 0.87x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -1144,7 +1145,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.21x
+- **Peak:** 1.25x | **Current:** 1.25x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |
@@ -1348,7 +1349,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.52x
+- **Peak:** 1.79x | **Current:** 1.50x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
