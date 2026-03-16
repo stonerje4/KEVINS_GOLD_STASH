@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 06:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 M7
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.30x | **Current:** 1.15x
 - **Mint:** `DEGhYfd9Cd2prCroFNdjoQ9JBB1XyntCkAK2d2P5pump`
 
 | Time | Action | SOL | TX |

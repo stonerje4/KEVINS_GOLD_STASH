@@ -1,17 +1,26 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 06:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 11 |
+| Total Positions | 12 |
 | Open | 3 |
-| Closed | 8 |
-| SOL In (closed) | 0.004800 |
-| SOL Out (sells) | 0.003074 |
-| **P&L** | **-0.001726 SOL** |
-| **ROI** | **-36.0%** |
+| Closed | 9 |
+| SOL In (closed) | 0.005400 |
+| SOL Out (sells) | 0.003459 |
+| **P&L** | **-0.001941 SOL** |
+| **ROI** | **-35.9%** |
 
 ## Trades
+
+### 🟢 HEROES
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.84x
+- **Mint:** `9w7dqh2q5AzNU8U8ALMvTgayanSrGePys8tQTRripump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:24:41 | BUY | 0.000600 | `2fZeQwztC6LRa4huTZ4EH5GiAoZHvj...` |
 
 ### 🔴 AURA
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -34,14 +43,15 @@
 | 2026-03-16 04:44:42 | BUY | 0.000600 | `3Z9g1mPLnF6sM3x7EYeb1GRAuSPYqW...` |
 | 2026-03-16 04:50:09 | SELL | 0.000122 | `3w1webyfneXNaByRBgUT85XmXDHnKC...` |
 
-### 🟢 0.0000001
-- **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 1.08x
+### 🔴 0.0000001
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.17x | **Current:** 0.66x
 - **Mint:** `44HoJprq4b9Bdtqyh68QuTfAQKNg4Z5yHs1aHYWbpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:58:34 | BUY | 0.000600 | `48Ui6bcQn8FUjRLBWqF1ZqfyMV4Tos...` |
+| 2026-03-16 06:24:58 | SELL | 0.000386 | `3g28bZSZB1r8fskGU5ABDbGpfQownE...` |
 
 ### 🔴 TOTX
 - **Status:** closed | **Exit:** ghost_close_stop_loss

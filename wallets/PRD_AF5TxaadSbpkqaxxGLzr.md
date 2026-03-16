@@ -1,10 +1,10 @@
 # [PRD] Wallet: `AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g`
-> Generated: 2026-03-16 06:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 06:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 0 |
+| Total Positions | 10 |
+| Open | 1 |
 | Closed | 9 |
 | SOL In (closed) | 1.150000 |
 | SOL Out (sells) | 1.254303 |
@@ -12,6 +12,15 @@
 | **ROI** | **+9.1%** |
 
 ## Trades
+
+### 🟢 GORILLA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.05x | **Current:** 0.00x
+- **Mint:** `EgXirSgMd673qXKGB9kc2YHJnaQUHiyBTPasXEVJ5zMr`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:23:14 | BUY | 0.150000 | `2pjZE9zb7Ls4Q9BBYYiinyBe6eK7jB...` |
 
 ### 🔴 tiger
 - **Status:** closed | **Exit:** stop_loss

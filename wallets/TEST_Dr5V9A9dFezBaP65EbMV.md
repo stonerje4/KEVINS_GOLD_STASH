@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 06:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 LOCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.01x
+- **Peak:** 1.06x | **Current:** 1.00x
 - **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Elongate
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.96x
+- **Peak:** 1.04x | **Current:** 0.94x
 - **Mint:** `3aGbWBEpCfDxMSb5KfpSvWrBo3tCCbMiZP9x8PpKpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 LOOK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.94x
+- **Peak:** 1.12x | **Current:** 0.88x
 - **Mint:** `Hb4T74w8ZCEccvrxV5yyJqdiimKhAFi3chyKUdM9pump`
 
 | Time | Action | SOL | TX |
@@ -107,7 +107,7 @@
 
 ### 🟢 zoolander
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.84x
+- **Peak:** 1.05x | **Current:** 0.83x
 - **Mint:** `CVMQJUwFBdhHEcDEuAmT3B4RkkcRLJEALCQvDngmpump`
 
 | Time | Action | SOL | TX |

@@ -1,10 +1,10 @@
 # [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
-> Generated: 2026-03-16 06:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
+| Total Positions | 3 |
+| Open | 1 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.001195 |
@@ -12,6 +12,15 @@
 | **ROI** | **-0.4%** |
 
 ## Trades
+
+### 🟢 GORILLA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.14x | **Current:** 0.77x
+- **Mint:** `EgXirSgMd673qXKGB9kc2YHJnaQUHiyBTPasXEVJ5zMr`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:22:58 | BUY | 0.000600 | `3dBS5U1BcioNjN2Qm1bdQLSenkaFuZ...` |
 
 ### 🟢 tiger
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
