@@ -1,10 +1,10 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-16 02:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
 | SOL Out (sells) | 0.000413 |
@@ -12,6 +12,15 @@
 | **ROI** | **-31.2%** |
 
 ## Trades
+
+### 🟢 HOPE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.67x | **Current:** 0.74x
+- **Mint:** `BMX8Hn1EHWWr7thDXEzp6Q7yjbAKsPNsG3L4YGyQpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:33:37 | BUY | 0.000600 | `48Wp8UFizbt21DFMbCFJLHo5ME6TNJ...` |
 
 ### 🔴 ADA
 - **Status:** closed | **Exit:** ghost_close_stop_loss

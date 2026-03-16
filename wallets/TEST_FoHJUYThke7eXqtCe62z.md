@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 02:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
-| Open | 10 |
+| Total Positions | 13 |
+| Open | 11 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.001204 |
@@ -12,6 +12,15 @@
 | **ROI** | **+0.3%** |
 
 ## Trades
+
+### 🟢 Ryder
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.83x
+- **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:30:22 | BUY | 0.000600 | `4zKfNKdJGHWrXEnwFsfNTfaueVL2r9...` |
 
 ### 🟢 SKUNS
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
