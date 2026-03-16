@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 08:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 115 |
-| Open | 28 |
+| Total Positions | 116 |
+| Open | 29 |
 | Closed | 87 |
 | SOL In (closed) | 0.052200 |
 | SOL Out (sells) | 0.051256 |
@@ -12,6 +12,15 @@
 | **ROI** | **-1.8%** |
 
 ## Trades
+
+### 🟢 LATE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.82x
+- **Mint:** `bnukZwcekRtQRUQXerfvJTFWeRNnPAYWEDisAyY7H1E`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:22:10 | BUY | 0.000600 | `3KQRrRAXqhmfMoCxSpCBXzEmujoEDG...` |
 
 ### 🔴 RMT
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -66,7 +75,7 @@
 
 ### 🟢 VEESA
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.19x | **Current:** 1.71x
+- **Peak:** 2.19x | **Current:** 1.70x
 - **Mint:** `6k2DjHrx4k7PMs3zC9Z5NEjJ9sL1Npg3Q7P62p8opump`
 
 | Time | Action | SOL | TX |
@@ -86,7 +95,7 @@
 
 ### 🟢 RICHIE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 1.48x
+- **Peak:** 1.59x | **Current:** 1.45x
 - **Mint:** `G4XU9QGZBJbNENSXVU5Tbakn3ya4JhmBVNVEkEBYpump`
 
 | Time | Action | SOL | TX |
@@ -500,7 +509,7 @@
 
 ### 🟢 LIFE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `CbqEa8fyhqkm29JPx6xx5XDBUKjsjKYTAjbbHQuspump`
 
 | Time | Action | SOL | TX |
@@ -538,7 +547,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.96x
+- **Peak:** 1.12x | **Current:** 0.95x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -800,7 +809,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.99x
+- **Peak:** 1.06x | **Current:** 0.98x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |
@@ -1107,7 +1116,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.90x
+- **Peak:** 1.90x | **Current:** 1.76x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
