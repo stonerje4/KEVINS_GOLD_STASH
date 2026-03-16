@@ -1,5 +1,5 @@
 # Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 00:15 UTC
+> Generated: 2026-03-16 00:20 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Agent Doge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `JB8J7Hp259EkmupJJKnqYuyPZXy1P7z22uwfzgJgpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 Hero
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.83x
+- **Peak:** 1.05x | **Current:** 0.88x
 - **Mint:** `GfMXBij2Yn62HBxhiwD78Sykp1qQh5YCamMjMja8pump`
 
 | Time | Action | SOL | TX |
