@@ -3,8 +3,8 @@
 
 ## 🧪 Test Wallet
 
-| Wallet | Total | Closed | Open | W/L | WR | Closed P&L | Closed ROI | Open Value |
-|--------|-------|--------|------|-----|-----|------------|------------|------------|
+| Wallet | Total | Closed | Open | W/L | WR | Closed P&L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Closed ROI | Open Value |
+|--------|-------|--------|------|-----|-----|-------------------|------------|------------|
 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 2 | 2 | 0 | 1/1 | 50% | 🟢 $+0.14 | +127.0% | — |
 | `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt` | 1 | 1 | 0 | 1/0 | 100% | 🟢 $+0.05 | +81.5% | — |
 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 4 | 3 | 1 | 2/1 | 67% | 🟢 $+0.10 | +62.1% | $0.06 |
@@ -16,8 +16,8 @@
 | `2autqiinD2k2f1rbDMgZh5fJMrVdnTdB5vWc3Wa7PDZp` | 1 | 0 | 1 | 0/0 | 0% | ⚪ $+0.00 | +0.0% | $0.06 |
 | `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9` | 3 | 2 | 1 | 1/1 | 50% | 🔴 $-0.00 | -0.4% | $0.06 |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | 🔴 $-0.00 | -3.6% | — |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 173 | 133 | 40 | 27/106 | 20% | 🔴 $-0.72 | -9.7% | $2.23 |
-| `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 51 | 44 | 7 | 7/37 | 16% | 🔴 $-0.27 | -10.9% | $0.39 |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 175 | 133 | 42 | 27/106 | 20% | 🔴 $-0.72 | -9.7% | $2.34 |
+| `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 51 | 45 | 6 | 8/37 | 18% | 🔴 $-0.32 | -12.9% | $0.33 |
 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 37 | 36 | 1 | 6/30 | 17% | 🔴 $-0.39 | -19.2% | $0.06 |
 | `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus` | 4 | 4 | 0 | 1/3 | 25% | 🔴 $-0.05 | -21.3% | — |
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 19 | 13 | 6 | 2/11 | 15% | 🔴 $-0.17 | -23.9% | $0.33 |
@@ -55,18 +55,14 @@
 > **Open Value** = open positions × $0.06 per buy.
 ## 🏦 Production Wallet
 
-| Wallet | Total | Closed | Open | W/L | WR | Closed P&L | Closed ROI | Open Value |
-|--------|-------|--------|------|-----|-----|------------|------------|------------|
+| Wallet | Total | Closed | Open | W/L | WR | Closed P&L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Closed ROI | Open Value |
+|--------|-------|--------|------|-----|-----|-------------------|------------|------------|
 | `EdAf4imi75J9nqYw7og6VvFMTPzwoLhuCjvbhQhyf7a7` | 2 | 2 | 0 | 1/1 | 50% | 🟢 $+426.55 | +1528.9% | — |
 | `4Tk5DVZaTLhsmT1AC7sQNsEnAzmX6FAGN1xaMD2SVbcx` | 2 | 1 | 1 | 1/0 | 100% | 🟢 $+22.23 | +478.1% | $13.95 |
 | `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z` | 6 | 6 | 0 | 4/2 | 67% | 🟢 $+135.30 | +161.6% | — |
-| `7Mwof5tBvNPC6e1zwtHRQynqXcuDpqqbeY9vSZLW2Bv8` | 3 | 3 | 0 | 1/2 | 33% | 🟢 $+19.58 | +100.3% | — |
-| `4gZ1trLzGKtX9jMFouxsTXKhUEyZEgK96jqkX1hLpHWh` | 17 | 17 | 0 | 7/10 | 41% | 🟢 $+124.85 | +88.9% | — |
 | `r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De` | 10 | 10 | 0 | 4/6 | 40% | 🟢 $+80.48 | +78.7% | — |
 | `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF` | 29 | 28 | 1 | 14/14 | 50% | 🟢 $+180.80 | +71.2% | $13.95 |
-| `5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg` | 8 | 8 | 0 | 4/4 | 50% | 🟢 $+35.46 | +57.8% | — |
 | `FGZ72HENqfzUv9RiPAFqF7hCCiMZMAa5MYmWangFnZwD` | 7 | 7 | 0 | 3/4 | 43% | 🟢 $+45.47 | +57.5% | — |
-| `9rb2ChEjkkCYGiHB97yssryBf8sh2W49MeyLUs69cKyS` | 37 | 37 | 0 | 10/27 | 27% | 🟢 $+96.45 | +56.1% | — |
 | `4yjh9zfyhjqg3tCJbWgMHn4xcot5ogqimhnjJ7qXbixH` | 37 | 37 | 0 | 14/23 | 38% | 🟢 $+265.36 | +51.4% | — |
 | `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j` | 27 | 27 | 0 | 11/16 | 41% | 🟢 $+98.74 | +44.8% | — |
 | `7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D` | 22 | 22 | 0 | 5/17 | 23% | 🟢 $+69.92 | +42.0% | — |
@@ -80,13 +76,8 @@
 | `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK` | 1 | 0 | 1 | 0/0 | 0% | ⚪ $+0.00 | +0.0% | $13.95 |
 | `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf` | 44 | 41 | 3 | 10/31 | 24% | 🔴 $-21.83 | -6.1% | $41.85 |
 | `EJEyPiUfUmx3wDTtVfTzduNyNAWtQdwodFQjnJmjvmCQ` | 19 | 19 | 0 | 3/16 | 16% | 🔴 $-13.48 | -9.4% | — |
-| `6MywCnbuUDj6HjDHAtTzsJjMjj2Jh9YufnmiPXa4RU1G` | 7 | 7 | 0 | 3/4 | 43% | 🔴 $-9.69 | -29.8% | — |
-| `D3MuDmrs2dm6U9CiZur651CnPjLwUWjs9p1a3PoDs76H` | 1 | 1 | 0 | 0/1 | 0% | 🔴 $-6.15 | -44.1% | — |
-| `42HG8wPULnwoWPCcixwBeYw9kb8Vdci7mQjs9iXV4nVv` | 2 | 2 | 0 | 0/2 | 0% | 🔴 $-12.76 | -45.7% | — |
 | `FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz` | 19 | 18 | 1 | 2/16 | 11% | 🔴 $-102.03 | -50.8% | $13.95 |
 | `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ` | 4 | 4 | 0 | 1/3 | 25% | 🔴 $-34.89 | -62.5% | — |
-| `CqHQdW3Lp4HPDB2hdvzbkFdPzr13JkWeso74kLtBCi5w` | 2 | 2 | 0 | 0/2 | 0% | 🔴 $-19.86 | -71.2% | — |
-| `4Be9CvxqHW6BYiRAxW9Q3xu1ycTMWaL5z8NX4HR3ha7t` | 1 | 1 | 0 | 0/1 | 0% | 🔴 $-4.65 | -100.0% | — |
 | `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy` | 1 | 1 | 0 | 0/1 | 0% | 🔴 $-13.95 | -100.0% | — |
 
 > **Closed P&L / Closed ROI** = from closed positions only. Open positions not included.
