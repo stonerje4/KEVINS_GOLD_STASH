@@ -1,22 +1,40 @@
 # [TEST] Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
-> Generated: 2026-03-16 14:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 7 |
+| Total Positions | 11 |
+| Open | 9 |
 | Closed | 2 |
 | W/L | 0/2 |
 | SOL In (closed) | 0.010600 |
 | **Closed P&L** | **+0.000000 SOL** |
 | **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.003700 SOL |
+| Open Deployed | 0.003900 SOL |
 
 ## Trades
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.19x
+- **Peak:** 1.13x | **Current:** 1.13x
+- **Mint:** `AgwJtBbH82CLjrgQQYsjx4cAfi2B12veoHN9UU2jpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:48:01 | BUY | 0.000100 | `5JmcZtJjYkYYrRXqu6AjCVz5C8kypT...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.19x | **Current:** 1.19x
+- **Mint:** `9LHzc21kuSRpnVZ7NZCd5Jz89mbXjZcr8knQLGNJpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:45:47 | BUY | 0.000100 | `33qrDJMtyCmF8GBWncBK6p2J5hsuJi...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.28x | **Current:** 1.17x
 - **Mint:** `GCbfhndFz7YissYowZDY5Gmg4LJQjAiZgqAwVBfapump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +43,7 @@
 
 ### 🟢 FOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 0.97x
+- **Peak:** 1.17x | **Current:** 0.95x
 - **Mint:** `2zvfNSH8MPnYPtf57rkYzPHGtuBEPdX4etZHVcKwpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +61,7 @@
 
 ### 🟢 TCAT
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.19x | **Current:** 1.52x
+- **Peak:** 2.19x | **Current:** 1.55x
 - **Mint:** `9n3wWPvb5n2MMsBmALrWaK7iSFALKiTZ5DTRMEJRpump`
 
 | Time | Action | SOL | TX |

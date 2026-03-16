@@ -1,18 +1,27 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 14:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 22 |
-| Open | 0 |
+| Total Positions | 23 |
+| Open | 1 |
 | Closed | 22 |
 | W/L | 18/4 |
 | SOL In (closed) | 0.013200 |
 | **Closed P&L** | **+0.008913 SOL** |
 | **Closed ROI** | **+67.5%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 SHITCOIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.41x
+- **Mint:** `47YEcV1nkhhUCwUMvPoPAzHNWQiEidcKmJEcXYUHpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:48:55 | BUY | 0.000100 | `5aVMjnuewhnfYsdX1rHrsHxqYPK4Wk...` |
 
 ### 🔴 SHARK
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half
