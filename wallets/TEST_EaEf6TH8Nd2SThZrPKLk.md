@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 18 |
-| Open | 1 |
+| Total Positions | 19 |
+| Open | 2 |
 | Closed | 17 |
 | SOL In (closed) | 0.010200 |
 | SOL Out (sells) | 0.011504 |
@@ -12,6 +12,15 @@
 | **ROI** | **+12.8%** |
 
 ## Trades
+
+### 🟢 BRUNO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.06x | **Current:** 0.88x
+- **Mint:** `7qZTpYKzFr6pf1D4cjL92pUHHukAZLxS4QRZmsuKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:50:02 | BUY | 0.000600 | `5DYh1oRVcWWVu2beqEHb8LiPZBxgW8...` |
 
 ### 🟢 ROOSTER
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

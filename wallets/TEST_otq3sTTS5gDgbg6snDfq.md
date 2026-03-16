@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 25 |
-| Open | 20 |
+| Total Positions | 26 |
+| Open | 21 |
 | Closed | 5 |
 | SOL In (closed) | 0.003000 |
 | SOL Out (sells) | 0.002357 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 T-Nega
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.79x
+- **Mint:** `EA5FYJEHwyCbj1cMiic13AuCmqreEeRrue2UxJTbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:52:46 | BUY | 0.000600 | `2Mq5oAMbPL6whxZraj9P7LgURKLKnu...` |
+
 ### 🟢 HAPP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.01x
+- **Peak:** 1.13x | **Current:** 1.02x
 - **Mint:** `7wYJHqxWCB5Tq5hkHTQJG5SmStZvfZM8VEQ2b7a9pump`
 
 | Time | Action | SOL | TX |
@@ -51,7 +60,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |

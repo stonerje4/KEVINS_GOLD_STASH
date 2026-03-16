@@ -1,21 +1,21 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 13 |
-| Open | 11 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.000789 |
-| **P&L** | **-0.000411 SOL** |
-| **ROI** | **-34.2%** |
+| Open | 10 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
+| SOL Out (sells) | 0.001172 |
+| **P&L** | **-0.000628 SOL** |
+| **ROI** | **-34.9%** |
 
 ## Trades
 
 ### 🟢 Sonny
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 1.01x
+- **Peak:** 1.04x | **Current:** 1.04x
 - **Mint:** `EVHhyNdtZxXCvRVXeAggjXiahoAQxXhsifFEw6yWpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 LOCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.01x
+- **Peak:** 1.06x | **Current:** 0.94x
 - **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
 
 | Time | Action | SOL | TX |
@@ -40,14 +40,15 @@
 |------|--------|-----|----|
 | 2026-03-16 05:23:51 | BUY | 0.000600 | `25CBWRWspykeSkYYdGiuG4JEd6n7rF...` |
 
-### 🟢 Elongate
-- **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.85x
+### 🔴 Elongate
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.04x | **Current:** 0.64x
 - **Mint:** `3aGbWBEpCfDxMSb5KfpSvWrBo3tCCbMiZP9x8PpKpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:41:06 | BUY | 0.000600 | `3tN6EMgy8Ha32AEM2RjH42fopgJ4gQ...` |
+| 2026-03-16 06:53:04 | SELL | 0.000383 | `5v1qtyydU24uMzW1Y9XE4HvKf6W5SY...` |
 
 ### 🟢 LOOK
 - **Status:** open | **Exit:** open
@@ -60,7 +61,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
@@ -88,7 +89,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.05x
+- **Peak:** 1.18x | **Current:** 1.06x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |
