@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 07:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 28 |
-| Open | 21 |
+| Total Positions | 29 |
+| Open | 22 |
 | Closed | 7 |
 | SOL In (closed) | 0.013600 |
 | SOL Out (sells) | 0.003427 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 CIUSGENT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `6C7wmPqEJq4hKg9r8tmRRdqFBAifc1x7hbDJDo7Fpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:38:14 | BUY | 0.000600 | `5YXaEy9yUSZNLGi2UMLUhJccZK5YEZ...` |
+
 ### 🟢 Clutch
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.24x | **Current:** 2.12x
+- **Peak:** 2.61x | **Current:** 2.15x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
@@ -117,7 +126,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |

@@ -1,30 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 24 |
-| Open | 6 |
-| Closed | 18 |
-| SOL In (closed) | 0.010800 |
-| SOL Out (sells) | 0.012775 |
-| **P&L** | **+0.001975 SOL** |
-| **ROI** | **+18.3%** |
+| Open | 4 |
+| Closed | 20 |
+| SOL In (closed) | 0.012000 |
+| SOL Out (sells) | 0.014541 |
+| **P&L** | **+0.002541 SOL** |
+| **ROI** | **+21.2%** |
 
 ## Trades
 
 ### 🟢 ANMOO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.60x | **Current:** 1.60x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.77x | **Current:** 2.07x
 - **Mint:** `HPin7FE7KpfwxiaARj1BCgWG6CN7FDUU7sNE5bKwpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:32:35 | BUY | 0.000600 | `38evNrvCzKK9SkyiZXkbVjvTJsZZGF...` |
+| 2026-03-16 07:35:28 | SELL | 0.000380 | `2NUJEPy8soqc9yvTnYBWUi5vxy1NmF...` |
 
 ### 🟢 ANMOO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.53x | **Current:** 1.14x
+- **Peak:** 1.57x | **Current:** 1.53x
 - **Mint:** `ub5zKXiHiS7LZdiUhWRsc7KtNqkfLzePa7yRP3Zpump`
 
 | Time | Action | SOL | TX |
@@ -42,23 +43,26 @@
 | 2026-03-16 07:29:08 | SELL | 0.000379 | `yb5CjYtH2uBw2ghfpdJCguWQXk3tFW...` |
 | 2026-03-16 07:33:21 | SELL | 0.000891 | `5dxR99jevKYTKZZXWDRP3SMNUyZG74...` |
 
-### 🟢 TSUZUMI
-- **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.93x
+### 🔴 TSUZUMI
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.07x | **Current:** 0.68x
 - **Mint:** `4WeXDXwe1MPZDbbLRzGPDmKj5eb8v9EWk8wnwpHdpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:11:54 | BUY | 0.000600 | `3YYtt7yZ62JoEz6JfcPHhNeaZhH4DQ...` |
+| 2026-03-16 07:36:01 | SELL | 0.000406 | `31uajKcsEtHbWE2xK9x1n8tmhs8XKE...` |
 
 ### 🟢 alonxbt
-- **Status:** open | **Exit:** open
-- **Peak:** 1.72x | **Current:** 1.46x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.12x | **Current:** 1.43x
 - **Mint:** `4RKfEKd6H7TDDKGfyp7Xt4qoGiGy56KkR9nLcVaXpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:11:45 | BUY | 0.000600 | `3c9SgWBhd57XvsDep9MERm6mt4cXen...` |
+| 2026-03-16 07:38:32 | SELL | 0.000381 | `5GpMd2DXEAufKDZCxPwBFt7B9qSmj9...` |
+| 2026-03-16 07:39:04 | SELL | 0.000600 | `5rGS5T2qRoeFTbDrz1gYAJ5XnoBqHM...` |
 
 ### 🟢 BRUNO
 - **Status:** open | **Exit:** open
