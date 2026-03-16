@@ -1,17 +1,26 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 07:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
+| Total Positions | 8 |
 | Open | 4 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
+| Closed | 4 |
+| SOL In (closed) | 0.002400 |
 | SOL Out (sells) | 0.000924 |
-| **P&L** | **-0.000876 SOL** |
-| **ROI** | **-48.7%** |
+| **P&L** | **-0.001476 SOL** |
+| **ROI** | **-61.5%** |
 
 ## Trades
+
+### 🔴 DEGENISM
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.70x
+- **Mint:** `2GmHy7gguBBr77ekcF4C4nSU5kHTZbZttbRRbFe1pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:45:23 | BUY | 0.000600 | `59P1582s8y677kTKVgXzodL3S9DT83...` |
 
 ### 🟢 FTR
 - **Status:** open | **Exit:** open

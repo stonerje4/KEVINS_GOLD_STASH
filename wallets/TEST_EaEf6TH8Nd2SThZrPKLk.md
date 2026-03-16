@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -14,7 +14,7 @@
 ## Trades
 
 ### 🔴 Loom
-- **Status:** closing | **Exit:** stop_loss
+- **Status:** closed | **Exit:** ghost_close_stop_loss
 - **Peak:** 1.00x | **Current:** 0.65x
 - **Mint:** `DeVUzWjVqr6EY23tJRevz4xphGKACbxA4ceH2NStpump`
 
@@ -36,7 +36,7 @@
 
 ### 🟢 ANMOO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.71x | **Current:** 1.19x
+- **Peak:** 1.71x | **Current:** 1.31x
 - **Mint:** `ub5zKXiHiS7LZdiUhWRsc7KtNqkfLzePa7yRP3Zpump`
 
 | Time | Action | SOL | TX |
