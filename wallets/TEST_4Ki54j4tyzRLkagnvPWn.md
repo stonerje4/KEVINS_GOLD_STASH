@@ -1,17 +1,27 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 02:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
+| Total Positions | 4 |
 | Open | 2 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000705 |
-| **P&L** | **+0.000105 SOL** |
-| **ROI** | **+17.5%** |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.000918 |
+| **P&L** | **-0.000282 SOL** |
+| **ROI** | **-23.5%** |
 
 ## Trades
+
+### 🔴 X
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.55x | **Current:** 0.36x
+- **Mint:** `7vLKj3NvnzVs49rqH6JyGtZzYqwFTvx6DGS46MJjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:12:04 | BUY | 0.000600 | `2XpXucB2Y7iJB4qQKPVp5r2DzFJcNR...` |
+| 2026-03-16 02:12:47 | SELL | 0.000213 | `39kHaGuNfTEogaG92JQLKtUpyHvXy5...` |
 
 ### 🟢 F1
 - **Status:** open | **Exit:** open

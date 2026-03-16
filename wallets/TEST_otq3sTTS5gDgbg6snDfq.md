@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 02:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 9 |
+| Total Positions | 10 |
+| Open | 10 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.000000 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 URCHIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.33x | **Current:** 0.99x
+- **Mint:** `J3iTQDPsD4Ltm1KVYjUNVdSKFQ5syX3G4RV4d8cCpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:12:49 | BUY | 0.000600 | `3EzGNdfd57s14MPkyDdGxmJQLHZaYq...` |
+
 ### 🟢 OG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.91x
+- **Peak:** 1.02x | **Current:** 0.84x
 - **Mint:** `37JEzbRcfeGAYEeiPMg1gKbK8UZNQG7cjF5Pvse7pump`
 
 | Time | Action | SOL | TX |

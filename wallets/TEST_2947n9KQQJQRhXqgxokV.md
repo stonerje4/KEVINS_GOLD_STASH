@@ -1,26 +1,28 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 02:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 3 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000328 |
-| **P&L** | **-0.000272 SOL** |
-| **ROI** | **-45.3%** |
+| Open | 2 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.000543 |
+| **P&L** | **-0.000657 SOL** |
+| **ROI** | **-54.8%** |
 
 ## Trades
 
-### 🟢 XAIC
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🔴 XAIC
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.36x
 - **Mint:** `FmxDdxpFmmuN4DeXoHFzuEyrH8RfRsej6oxg4MaUpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:10:00 | BUY | 0.000600 | `63rkF5BDw1So3LD6uoYuwvaKz8RtJ6...` |
+| 2026-03-16 02:10:45 | SELL | 0.000214 | `prT1zAPonC4WdAPHz1K6J77q6QSNJZ...` |
+| 2026-03-16 02:11:00 | SELL | 0.000000 | `669xpHugA7zEPaoCG3szdA436LXz5T...` |
 
 ### 🔴 XAI
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -34,7 +36,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.07x
+- **Peak:** 1.12x | **Current:** 0.73x
 - **Mint:** `8ZwM8ZCZ3AgkSAomZE3qqZVrrtRAA5XvSnh2JRtypump`
 
 | Time | Action | SOL | TX |

@@ -1,26 +1,27 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 02:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 8 |
-| Open | 1 |
-| Closed | 7 |
-| SOL In (closed) | 0.004200 |
-| SOL Out (sells) | 0.003370 |
-| **P&L** | **-0.000830 SOL** |
-| **ROI** | **-19.8%** |
+| Open | 0 |
+| Closed | 8 |
+| SOL In (closed) | 0.004800 |
+| SOL Out (sells) | 0.003790 |
+| **P&L** | **-0.001010 SOL** |
+| **ROI** | **-21.1%** |
 
 ## Trades
 
-### 🟢 Agent
-- **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 0.92x
+### 🔴 Agent
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.25x | **Current:** 0.70x
 - **Mint:** `3sBkRjAiCRpZ3wWa8gn4fPnVcQXyGv2Vrhpt4TaAgent`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:04:39 | BUY | 0.000600 | `511EXsHhfJhJTnxuZSTtxVXN3aob7Y...` |
+| 2026-03-16 02:12:17 | SELL | 0.000420 | `KuQwtq34gNC3zUkaYa9yAVRZepqZHL...` |
 
 ### 🔴 GSD
 - **Status:** closed | **Exit:** ghost_close_stop_loss
