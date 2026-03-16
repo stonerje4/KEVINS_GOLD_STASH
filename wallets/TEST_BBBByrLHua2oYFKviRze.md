@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 09:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 28 |
-| Open | 0 |
+| Total Positions | 29 |
+| Open | 1 |
 | Closed | 28 |
 | SOL In (closed) | 0.016800 |
 | SOL Out (sells) | 0.013969 |
@@ -12,6 +12,15 @@
 | **ROI** | **-16.8%** |
 
 ## Trades
+
+### 🟢 5TO9
+- **Status:** open | **Exit:** open
+- **Peak:** 1.11x | **Current:** 0.75x
+- **Mint:** `EftTJtF9TiYfrSqBcznL68N7dV7H56j5Vk2KcQukpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:45:22 | BUY | 0.000600 | `3WcybqT12naqHEvHwqpTy1hhpSJb8X...` |
 
 ### 🔴 ACM
 - **Status:** closed | **Exit:** ghost_close_stop_loss

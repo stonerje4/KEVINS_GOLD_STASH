@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 09:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -69,7 +69,7 @@
 
 ### 🟢 Clutch
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.37x | **Current:** 3.88x
+- **Peak:** 4.37x | **Current:** 3.68x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
@@ -144,7 +144,7 @@
 
 ### 🟢 TRNDO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.98x
 - **Mint:** `6X6Au8G57AzMKU51toiPn8AJs6NLRYobXHQ39evdpump`
 
 | Time | Action | SOL | TX |

@@ -1,17 +1,26 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 09:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 132 |
-| Open | 32 |
+| Total Positions | 133 |
+| Open | 33 |
 | Closed | 100 |
 | SOL In (closed) | 0.060000 |
-| SOL Out (sells) | 0.058049 |
-| **P&L** | **-0.001951 SOL** |
-| **ROI** | **-3.3%** |
+| SOL Out (sells) | 0.058447 |
+| **P&L** | **-0.001553 SOL** |
+| **ROI** | **-2.6%** |
 
 ## Trades
+
+### 🟢 M7
+- **Status:** open | **Exit:** open
+- **Peak:** 1.12x | **Current:** 1.12x
+- **Mint:** `5kN9Y9K3jqq4g9iJwUVFtPVrnh4oar1XBwgsu3eVpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:48:47 | BUY | 0.000600 | `4Q9957pgj48XUvourGxwsq9396FBr6...` |
 
 ### 🔴 LEONARDO
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -25,7 +34,7 @@
 
 ### 🟢 KiKi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.24x | **Current:** 1.03x
 - **Mint:** `8aPjWzHdoU7wcBoEKPyF3LPT33GQu76NQati6Fbapump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 三毛
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.03x
+- **Peak:** 1.08x | **Current:** 1.02x
 - **Mint:** `8HPriW3U4HkwaDtbA5Nv1rc7yBjDbGFfbMLpnqkgpump`
 
 | Time | Action | SOL | TX |
@@ -52,13 +61,14 @@
 | 2026-03-16 09:40:10 | SELL | 0.000362 | `ZL2gYGAPN5sWczfL8Mfjp12km7gMkT...` |
 
 ### 🟢 Iruka
-- **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.63x
+- **Status:** partial | **Exit:** stop_loss
+- **Peak:** 1.87x | **Current:** 0.66x
 - **Mint:** `4ACz4nKdAPaSoAZ6GoT3hcwW66jMgGdYZYTPQ7zfpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:28:28 | BUY | 0.000600 | `3QLRH65R5QrVqZmgMy9GHpFebD4exL...` |
+| 2026-03-16 09:49:44 | SELL | 0.000398 | `3UTN4sYrbY83WamT6TyqcSw1TQPV9z...` |
 
 ### 🟢 Tuff
 - **Status:** open | **Exit:** open
@@ -330,7 +340,7 @@
 
 ### 🟢 PLAMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 1.35x
+- **Peak:** 1.47x | **Current:** 1.26x
 - **Mint:** `D1eTUxKkAfTWKEWSYJjaAVugEPTCviLWf637GUDQpump`
 
 | Time | Action | SOL | TX |
@@ -704,7 +714,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.96x
+- **Peak:** 1.12x | **Current:** 0.93x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -966,7 +976,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.04x
+- **Peak:** 1.06x | **Current:** 1.05x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |

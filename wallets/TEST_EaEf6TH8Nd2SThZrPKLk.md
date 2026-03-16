@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 09:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 31 |
-| Open | 2 |
+| Total Positions | 32 |
+| Open | 3 |
 | Closed | 29 |
 | SOL In (closed) | 0.017400 |
 | SOL Out (sells) | 0.017769 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 AIGOV
+- **Status:** open | **Exit:** open
+- **Peak:** 1.23x | **Current:** 0.87x
+- **Mint:** `FruTF1iFMwB3KP6cx6Dpmajms1U15jofKUxXJpoQpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:46:28 | BUY | 0.000600 | `3LphtehFNe3tHpUUsCig9QGDhBLt2W...` |
+
 ### 🟢 NEO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.26x
+- **Peak:** 1.26x | **Current:** 0.93x
 - **Mint:** `5vrMuKfggUADzES69XWd17L3ZVNmU9GLWbvBRCoFpump`
 
 | Time | Action | SOL | TX |
