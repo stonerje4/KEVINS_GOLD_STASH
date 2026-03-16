@@ -1,17 +1,36 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 04:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 17 |
+| Total Positions | 19 |
 | Open | 0 |
-| Closed | 17 |
-| SOL In (closed) | 0.010200 |
-| SOL Out (sells) | 0.008255 |
-| **P&L** | **-0.001945 SOL** |
-| **ROI** | **-19.1%** |
+| Closed | 19 |
+| SOL In (closed) | 0.011400 |
+| SOL Out (sells) | 0.008500 |
+| **P&L** | **-0.002900 SOL** |
+| **ROI** | **-25.4%** |
 
 ## Trades
+
+### 🔴 Bowhead
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.64x
+- **Mint:** `CPVsEVQC2Pz5DTirP7UU378T1ALscZYv73kpE1Z5pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:38:07 | BUY | 0.000600 | `5e4YgLPX5dJPSTMdBadCswJG6q7Tav...` |
+
+### 🔴 boop
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.34x | **Current:** 0.41x
+- **Mint:** `B2txzC88Ai1aHhmmdrAyMwAHHw3DiKZkc3mQLp7upump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:36:19 | BUY | 0.000600 | `R2Y68VCTe3Wa39Ci5xkG3b4UEfwyEy...` |
+| 2026-03-16 04:37:42 | SELL | 0.000245 | `2TZorWiDB3HPPjLE4BLwnQsP42MMQo...` |
 
 ### 🔴 Singularity
 - **Status:** closed | **Exit:** ghost_close_stop_loss

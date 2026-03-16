@@ -1,17 +1,27 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 04:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 11 |
+| Total Positions | 12 |
 | Open | 3 |
-| Closed | 8 |
-| SOL In (closed) | 0.004800 |
-| SOL Out (sells) | 0.002025 |
-| **P&L** | **-0.002775 SOL** |
-| **ROI** | **-57.8%** |
+| Closed | 9 |
+| SOL In (closed) | 0.005400 |
+| SOL Out (sells) | 0.002303 |
+| **P&L** | **-0.003097 SOL** |
+| **ROI** | **-57.3%** |
 
 ## Trades
+
+### 🔴 NIGGABALL
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.46x
+- **Mint:** `4T8xEArKTCNaXL74DABQVgb7RXcqMGZq9e5nKnYBpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:35:45 | BUY | 0.000600 | `4egrM1pFhXFfjbG5YF8iWvxsHdZ5cj...` |
+| 2026-03-16 04:36:27 | SELL | 0.000278 | `2rLagp86d5tgtR7HhBC6ShPMZCo6rB...` |
 
 ### 🔴 Childlike
 - **Status:** closed | **Exit:** ghost_close_stop_loss
