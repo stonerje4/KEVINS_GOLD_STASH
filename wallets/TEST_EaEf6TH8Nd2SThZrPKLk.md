@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -36,7 +36,7 @@
 
 ### 🟢 ANMOO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.71x | **Current:** 1.31x
+- **Peak:** 1.71x | **Current:** 1.05x
 - **Mint:** `ub5zKXiHiS7LZdiUhWRsc7KtNqkfLzePa7yRP3Zpump`
 
 | Time | Action | SOL | TX |
@@ -188,7 +188,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.06x
+- **Peak:** 1.59x | **Current:** 1.04x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

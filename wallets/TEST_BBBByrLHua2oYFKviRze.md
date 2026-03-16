@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 07:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 23 |
+| Total Positions | 24 |
 | Open | 0 |
-| Closed | 23 |
-| SOL In (closed) | 0.013800 |
-| SOL Out (sells) | 0.010885 |
-| **P&L** | **-0.002915 SOL** |
-| **ROI** | **-21.1%** |
+| Closed | 24 |
+| SOL In (closed) | 0.014400 |
+| SOL Out (sells) | 0.011288 |
+| **P&L** | **-0.003112 SOL** |
+| **ROI** | **-21.6%** |
 
 ## Trades
+
+### 🔴 ANMOO
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.66x | **Current:** 0.67x
+- **Mint:** `HbFvLEu3Jja64y4JzzbJECFNqM2zzrdswHfc3yCFpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:52:08 | BUY | 0.000600 | `vKtnje2H8GNZm9uckduifgtT8oHUHK...` |
+| 2026-03-16 07:53:35 | SELL | 0.000403 | `61T22VsPxECwsubGXP6bu8vsqdQj9t...` |
 
 ### 🔴 Amnoo
 - **Status:** closed | **Exit:** ghost_close_stop_loss
