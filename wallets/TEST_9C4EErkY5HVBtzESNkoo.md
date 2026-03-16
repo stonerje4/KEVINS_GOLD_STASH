@@ -1,30 +1,31 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 03:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 3 |
-| Closed | 6 |
-| SOL In (closed) | 0.003600 |
-| SOL Out (sells) | 0.001645 |
-| **P&L** | **-0.001955 SOL** |
-| **ROI** | **-54.3%** |
+| Open | 2 |
+| Closed | 7 |
+| SOL In (closed) | 0.004200 |
+| SOL Out (sells) | 0.002025 |
+| **P&L** | **-0.002175 SOL** |
+| **ROI** | **-51.8%** |
 
 ## Trades
 
-### 🟢 KPOP
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+### 🔴 KPOP
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `CQGv3aZBBqWsVGbSaupWb5tGdq31QWWBt8mt5x5tpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:07:47 | BUY | 0.000600 | `5Vp4bHxJSBDqAuYPsc3FjSMQTYWWys...` |
+| 2026-03-16 03:16:18 | SELL | 0.000380 | `26H4P5fdsmckbPDA23QeyvBdbC1qHZ...` |
 
 ### 🟢 ZIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
 | Time | Action | SOL | TX |
