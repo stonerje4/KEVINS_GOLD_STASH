@@ -1,26 +1,36 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 36 |
-| Open | 2 |
+| Total Positions | 37 |
+| Open | 3 |
 | Closed | 34 |
 | SOL In (closed) | 0.020400 |
-| SOL Out (sells) | 0.016043 |
-| **P&L** | **-0.004357 SOL** |
-| **ROI** | **-21.4%** |
+| SOL Out (sells) | 0.016411 |
+| **P&L** | **-0.003989 SOL** |
+| **ROI** | **-19.6%** |
 
 ## Trades
 
-### 🟢 Panthera
+### 🟢 MILLI-ELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.66x
+- **Peak:** 1.36x | **Current:** 1.35x
+- **Mint:** `EDyXTqAgFajNFpG6ebSzFP14CfaDLZJQBMkLQLe4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:32:17 | BUY | 0.000600 | `4urnurbLq1ZurVkgDuQAeqKLzaSVKq...` |
+
+### 🟢 Panthera
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.05x | **Current:** 1.61x
 - **Mint:** `2DVd6ahRX5ywW6oukXFkHCH9ia8xgLK5nvnM36ytpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 12:23:15 | BUY | 0.000600 | `2FARNJ7jrVaMvRiNyxPjveg6Qy8Dns...` |
+| 2026-03-16 12:31:45 | SELL | 0.000368 | `x1SDj4ErRtGtypK5istEYZX7Mg6ULZ...` |
 
 ### 🔴 GAYMENEI
 - **Status:** closed | **Exit:** ghost_close_stop_loss

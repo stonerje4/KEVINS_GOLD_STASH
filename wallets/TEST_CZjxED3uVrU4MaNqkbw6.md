@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -44,7 +44,7 @@
 
 ### 🟢 BULLS
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.03x | **Current:** 3.02x
+- **Peak:** 3.40x | **Current:** 3.40x
 - **Mint:** `GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump`
 
 | Time | Action | SOL | TX |
