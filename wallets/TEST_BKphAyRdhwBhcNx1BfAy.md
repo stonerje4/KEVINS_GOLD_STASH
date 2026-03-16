@@ -1,30 +1,58 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 11:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 161 |
-| Open | 40 |
-| Closed | 121 |
-| SOL In (closed) | 0.072600 |
-| SOL Out (sells) | 0.067280 |
-| **P&L** | **-0.005320 SOL** |
-| **ROI** | **-7.3%** |
+| Total Positions | 164 |
+| Open | 42 |
+| Closed | 122 |
+| SOL In (closed) | 0.073200 |
+| SOL Out (sells) | 0.067607 |
+| **P&L** | **-0.005593 SOL** |
+| **ROI** | **-7.6%** |
 
 ## Trades
 
-### 🟢 Blep
+### 🟢 Robust
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.91x
+- **Mint:** `5gvuyDWwjGXP9QeehA7jrUyo7zbkQtgBSnQQK1Zwpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:23:51 | BUY | 0.000600 | `3cbyFY3aR7VudSnjsH7ci1HNU1UUaH...` |
+
+### 🟢 lobsterM
+- **Status:** open | **Exit:** open
+- **Peak:** 1.37x | **Current:** 1.37x
+- **Mint:** `2gDCzMjovdNr4NXS7ATEMAvt3rmTWcwiWS9Kzd1Upump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:22:24 | BUY | 0.000600 | `4wXXRqx6mJxgizwMZLsDW1B9xu7Evg...` |
+
+### 🟢 MBJ
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.89x
+- **Mint:** `2LKnY4CuNBrovvvDk6YafftDk4QKeABXMZcLqEeKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:20:05 | BUY | 0.000600 | `5Jpvgktuh4MjRqKdUEas8wL7MoFdTA...` |
+
+### 🔴 Blep
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.06x | **Current:** 0.54x
 - **Mint:** `Gk5e2BeGwnvPBEV8pXVk1EwnQPhM5d6dTqvdDFqJpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 11:19:58 | BUY | 0.000600 | `4LK5sSRaKpdnojVGRAeKQCvmyDHjoZ...` |
+| 2026-03-16 11:21:14 | SELL | 0.000327 | `VefjT6SnJaJdcwwWhFpVEUcdErTw6s...` |
 
 ### 🟢 One
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.74x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `2S83R7JLUExkDJup8J9ZyJtSmDYAhQ16VZxnf8vmpump`
 
 | Time | Action | SOL | TX |
@@ -63,7 +91,7 @@
 
 ### 🟢 Romanus
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.86x
+- **Peak:** 1.01x | **Current:** 0.96x
 - **Mint:** `CJB4fjgUjSN43QLFTC77UQCmYzky4VzTmedDCZqbpump`
 
 | Time | Action | SOL | TX |
@@ -103,7 +131,7 @@
 
 ### 🟢 GIKONEKO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.93x
+- **Peak:** 1.19x | **Current:** 0.97x
 - **Mint:** `6YXVaY927DSvMgzsiKR8tdDhJrnAcSs9hqBb5EMMpump`
 
 | Time | Action | SOL | TX |
@@ -112,7 +140,7 @@
 
 ### 🟢 SHITCOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.92x | **Current:** 1.54x
+- **Peak:** 1.92x | **Current:** 1.12x
 - **Mint:** `7d16UvK5vFtjz2M59e4wJ2ewj3HZr4hG3Wjmjhwzpump`
 
 | Time | Action | SOL | TX |
@@ -170,7 +198,7 @@
 
 ### 🟢 HOSTMAXXING
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.65x
+- **Peak:** 1.84x | **Current:** 1.63x
 - **Mint:** `AoqYWcBaRQgA7BoqMgAmUYxkCvH4mcdCbdd2iCDopump`
 
 | Time | Action | SOL | TX |
@@ -199,7 +227,7 @@
 
 ### 🟢 NANO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.67x
+- **Peak:** 1.69x | **Current:** 1.69x
 - **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
 
 | Time | Action | SOL | TX |
@@ -615,7 +643,7 @@
 
 ### 🟢 PLAMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 1.21x
+- **Peak:** 1.47x | **Current:** 1.22x
 - **Mint:** `D1eTUxKkAfTWKEWSYJjaAVugEPTCviLWf637GUDQpump`
 
 | Time | Action | SOL | TX |
@@ -980,7 +1008,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.73x
+- **Peak:** 1.87x | **Current:** 1.74x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -989,7 +1017,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.86x
+- **Peak:** 1.12x | **Current:** 0.85x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -1251,7 +1279,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.09x
+- **Peak:** 1.25x | **Current:** 0.82x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |

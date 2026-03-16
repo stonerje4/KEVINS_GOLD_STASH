@@ -1,21 +1,30 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 11:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
+| Total Positions | 10 |
 | Open | 3 |
-| Closed | 6 |
-| SOL In (closed) | 0.003600 |
+| Closed | 7 |
+| SOL In (closed) | 0.004200 |
 | SOL Out (sells) | 0.004243 |
-| **P&L** | **+0.000643 SOL** |
-| **ROI** | **+17.9%** |
+| **P&L** | **+0.000043 SOL** |
+| **ROI** | **+1.0%** |
 
 ## Trades
 
+### 🟢 Darren
+- **Status:** open | **Exit:** open
+- **Peak:** 1.71x | **Current:** 1.71x
+- **Mint:** `56tPfb7P7eLfF6DiNeNmQQpW4vYLJPq4d26zbAHmpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:20:15 | BUY | 0.000600 | `5umTJUzbnXhagT32bog6bo8YWfHDgd...` |
+
 ### 🟢 PUSHEEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 1.12x
+- **Peak:** 1.22x | **Current:** 1.17x
 - **Mint:** `7ttsZScQAsya7eiUfkG6PoTVNARkkZXccqRviDtTpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 BULLS
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.22x | **Current:** 1.97x
+- **Peak:** 2.41x | **Current:** 2.14x
 - **Mint:** `GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump`
 
 | Time | Action | SOL | TX |
@@ -52,8 +61,8 @@
 | 2026-03-16 00:36:46 | BUY | 0.000600 | `mp3RgcwUK2ps9vWc6k2Vd8G3Fa4F56...` |
 | 2026-03-16 02:35:54 | SELL | 0.000381 | `67XauSHRPADjrtTQjEBv6U2zMxaJSX...` |
 
-### 🟢 PONZI
-- **Status:** open | **Exit:** open
+### 🔴 PONZI
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.72x
 - **Mint:** `FZga7THab4xM3Z5DwRCje9feVL5gJzriWvjxvGGspump`
 

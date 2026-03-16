@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 11:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 43 |
-| Open | 4 |
+| Total Positions | 44 |
+| Open | 5 |
 | Closed | 39 |
 | SOL In (closed) | 0.023400 |
 | SOL Out (sells) | 0.021389 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 TanAI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.20x | **Current:** 1.08x
+- **Mint:** `D8mdxZAu348X3z59ghR9fxXZumQe7ZdpB95S8yuQpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:23:11 | BUY | 0.000600 | `5voBHErJgG5hZ2ng35GpukWbR4x31u...` |
+
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.12x | **Current:** 1.12x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +33,7 @@
 
 ### 🟢 AgentA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.08x
+- **Peak:** 1.48x | **Current:** 1.31x
 - **Mint:** `DYYAhsUW9aEYsGWa5ixZqmFGWR9BzKjKHbXvKmYGpump`
 
 | Time | Action | SOL | TX |

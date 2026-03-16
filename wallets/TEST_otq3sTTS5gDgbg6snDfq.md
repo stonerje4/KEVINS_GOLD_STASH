@@ -1,17 +1,26 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 11:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 32 |
+| Total Positions | 33 |
 | Open | 24 |
-| Closed | 8 |
-| SOL In (closed) | 0.004800 |
+| Closed | 9 |
+| SOL In (closed) | 0.005400 |
 | SOL Out (sells) | 0.003202 |
-| **P&L** | **-0.001598 SOL** |
-| **ROI** | **-33.3%** |
+| **P&L** | **-0.002198 SOL** |
+| **ROI** | **-40.7%** |
 
 ## Trades
+
+### 🟢 LabClaw
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `HBx1tyT8fko1xR9vxu5dUfLU8xzb8j2jZrc2VZWVpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:21:56 | BUY | 0.000600 | `2Ktanbna7SEkTYXGGKHtEkeg8XDV6w...` |
 
 ### 🟢 Beast 
 - **Status:** open | **Exit:** open
@@ -60,7 +69,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `BWokmiUXPVnNtMDp4Hy1y1mM9Fy1QntHBye9aZiPpump`
 
 | Time | Action | SOL | TX |
@@ -97,7 +106,7 @@
 
 ### 🟢 $CHARITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.80x
+- **Peak:** 1.06x | **Current:** 0.90x
 - **Mint:** `DTMb6bxY4ZtoLnHR2N8HBAnQxChsv3yKdeCSCgxXpump`
 
 | Time | Action | SOL | TX |
@@ -254,16 +263,16 @@
 | 2026-03-16 01:12:49 | BUY | 0.000600 | `JBCkgyhQfZiYnkGLq7xgJNyrCnnVpq...` |
 
 ### 🟢 bizfun
-- **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 0.83x
+- **Status:** partial | **Exit:** stale_cleanup
+- **Peak:** 1.22x | **Current:** 0.85x
 - **Mint:** `uieLsEbpgaQWtBk7dHmpqsMpoWmnFDXFgTAXnxJpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 00:54:32 | BUY | 0.000600 | `2zoFKW7t8Mu1tcdJCzy7VGpWLj6Nto...` |
 
-### 🟢 PROXY
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 PROXY
+- **Status:** closing | **Exit:** stale_cleanup
 - **Peak:** 1.48x | **Current:** 0.88x
 - **Mint:** `79UhwqVUqYvW5uvnF5FPZc3rUemfo52yX6B1LSLCpump`
 
