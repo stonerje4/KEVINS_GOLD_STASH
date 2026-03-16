@@ -1,27 +1,28 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 03:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 12 |
-| Open | 1 |
-| Closed | 11 |
-| SOL In (closed) | 0.006600 |
-| SOL Out (sells) | 0.005575 |
-| **P&L** | **-0.001025 SOL** |
-| **ROI** | **-15.5%** |
+| Open | 0 |
+| Closed | 12 |
+| SOL In (closed) | 0.007200 |
+| SOL Out (sells) | 0.006599 |
+| **P&L** | **-0.000601 SOL** |
+| **ROI** | **-8.3%** |
 
 ## Trades
 
 ### 🟢 Grokify
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.60x | **Current:** 3.60x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.60x | **Current:** 2.45x
 - **Mint:** `DoiG45Xv3VJJD39ogccdN1hyebTyE8AtN9Br3YKctzJn`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:37:35 | BUY | 0.000600 | `2Gm324vEWZHupmVUQREHLr62ggfr4A...` |
 | 2026-03-16 03:39:32 | SELL | 0.000494 | `4N4RnmmhVXmMJbnu1tzkKLDW5jmjZC...` |
+| 2026-03-16 03:41:28 | SELL | 0.001024 | `4P9zp7u1buTia8r4mu8omvaA9hQrsX...` |
 
 ### 🔴 ROSIE
 - **Status:** closed | **Exit:** ghost_close_stop_loss
