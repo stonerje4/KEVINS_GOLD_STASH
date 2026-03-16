@@ -1,17 +1,27 @@
 # [PRD] Wallet: `7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D`
-> Generated: 2026-03-16 10:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 10:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 21 |
+| Total Positions | 22 |
 | Open | 0 |
-| Closed | 21 |
-| SOL In (closed) | 1.640000 |
-| SOL Out (sells) | 2.443006 |
-| **P&L** | **+0.803006 SOL** |
-| **ROI** | **+49.0%** |
+| Closed | 22 |
+| SOL In (closed) | 1.790000 |
+| SOL Out (sells) | 2.541784 |
+| **P&L** | **+0.751784 SOL** |
+| **ROI** | **+42.0%** |
 
 ## Trades
+
+### 🔴 🫧
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `HLERaeyPZY2UgszzM6B1nMrfzfiHMcqwgmQHBeSZpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:10:37 | BUY | 0.150000 | `5Hx6fbJMoXgwDj43kfNx3nJqyZXdGP...` |
+| 2026-03-16 10:11:11 | SELL | 0.098777 | `4PXQgojVcPfYe9M6vHUwcVFVdgKNRu...` |
 
 ### 🔴 Barista
 - **Status:** closed | **Exit:** stop_loss

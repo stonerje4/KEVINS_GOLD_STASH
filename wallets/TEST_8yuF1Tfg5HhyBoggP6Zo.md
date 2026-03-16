@@ -1,10 +1,10 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 10:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 0 |
+| Total Positions | 4 |
+| Open | 1 |
 | Closed | 3 |
 | SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.001110 |
@@ -12,6 +12,15 @@
 | **ROI** | **-38.3%** |
 
 ## Trades
+
+### 🟢 Koozie
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.94x
+- **Mint:** `D9Y9TiADgciiFPUwkehMjgNUaq3Ux3Bnr1CZMkJzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:14:37 | BUY | 0.000600 | `4Rv1FMZrZmbo7VMbRGuTMa2Vth8AWo...` |
 
 ### 🔴 NEO
 - **Status:** closed | **Exit:** ghost_close_stop_loss

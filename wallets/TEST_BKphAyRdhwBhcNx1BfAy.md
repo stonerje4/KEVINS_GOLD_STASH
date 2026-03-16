@@ -1,17 +1,45 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 10:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 140 |
-| Open | 35 |
-| Closed | 105 |
-| SOL In (closed) | 0.063000 |
-| SOL Out (sells) | 0.059391 |
-| **P&L** | **-0.003609 SOL** |
-| **ROI** | **-5.7%** |
+| Total Positions | 143 |
+| Open | 36 |
+| Closed | 107 |
+| SOL In (closed) | 0.064200 |
+| SOL Out (sells) | 0.060405 |
+| **P&L** | **-0.003795 SOL** |
+| **ROI** | **-5.9%** |
 
 ## Trades
+
+### 🔴 Metas
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.45x
+- **Mint:** `G8PW8HUAN9fcVYtAyLbsSBvdjBr9n5aUxikghUSyBzAf`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:11:50 | BUY | 0.000600 | `5Ng4epUSKPSvMNFAXBQm7oatYrRhH4...` |
+| 2026-03-16 10:12:08 | SELL | 0.000269 | `4yiFSoD4gosTzDR2aPaSDZyB6PBraF...` |
+
+### 🟢 NANO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.10x | **Current:** 1.08x
+- **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:11:10 | BUY | 0.000600 | `3RokQxgHoYPKbGon6dDdF7eZ6TdCNj...` |
+
+### 🟢 MRLOOT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.11x | **Current:** 1.08x
+- **Mint:** `GqCnBbpCDbguey17FFD6BRk7LkAJ8Nok4FmfwgTCpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:10:47 | BUY | 0.000600 | `3JWDZju1vU5fc1MFQyNeL6Y9NvzayZ...` |
 
 ### 🔴 Metacoin
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -45,7 +73,7 @@
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.23x
+- **Peak:** 1.69x | **Current:** 1.16x
 - **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
 
 | Time | Action | SOL | TX |
@@ -53,13 +81,14 @@
 | 2026-03-16 09:55:24 | BUY | 0.000600 | `2TAg749uyYTui4orJNpVwNoszcCmqy...` |
 
 ### 🟢 Romeo
-- **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.43x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.65x | **Current:** 2.45x
 - **Mint:** `DwVj3NMpvjReojRK6YN6cJeTYdD5EX8WQQK4AEGWpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:54:30 | BUY | 0.000600 | `4Ge6NhTQR4nS4MSU1vptaS7hMbEp3P...` |
+| 2026-03-16 10:13:02 | SELL | 0.000399 | `2WV2PAS9iYA3E8ji7ME4n7PgoercPG...` |
 
 ### 🟢 礼貌猫
 - **Status:** open | **Exit:** open
@@ -80,14 +109,15 @@
 | 2026-03-16 09:50:33 | BUY | 0.000600 | `2DJD32MwGxesGUECk5hKyBE76YBsEu...` |
 | 2026-03-16 10:09:00 | SELL | 0.000417 | `X96Yk4VYWYc23xb7ypsRe5RBZC5YeK...` |
 
-### 🟢 M7
-- **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.06x
+### 🔴 M7
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.69x | **Current:** 0.58x
 - **Mint:** `5kN9Y9K3jqq4g9iJwUVFtPVrnh4oar1XBwgsu3eVpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:48:47 | BUY | 0.000600 | `4Q9957pgj48XUvourGxwsq9396FBr6...` |
+| 2026-03-16 10:11:45 | SELL | 0.000348 | `65GpM3tkhXc154YSPvnTDpCxvndJRH...` |
 
 ### 🔴 LEONARDO
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -101,7 +131,7 @@
 
 ### 🟢 KiKi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.09x
+- **Peak:** 1.24x | **Current:** 0.95x
 - **Mint:** `8aPjWzHdoU7wcBoEKPyF3LPT33GQu76NQati6Fbapump`
 
 | Time | Action | SOL | TX |
@@ -110,7 +140,7 @@
 
 ### 🟢 三毛
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.89x
+- **Peak:** 1.08x | **Current:** 0.88x
 - **Mint:** `8HPriW3U4HkwaDtbA5Nv1rc7yBjDbGFfbMLpnqkgpump`
 
 | Time | Action | SOL | TX |
@@ -781,7 +811,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.82x
+- **Peak:** 1.12x | **Current:** 0.89x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -1124,7 +1154,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.04x
+- **Peak:** 1.43x | **Current:** 1.05x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |

@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 10:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 35 |
-| Open | 27 |
+| Total Positions | 36 |
+| Open | 28 |
 | Closed | 8 |
 | SOL In (closed) | 0.014200 |
 | SOL Out (sells) | 0.003427 |
@@ -12,6 +12,15 @@
 | **ROI** | **-75.9%** |
 
 ## Trades
+
+### 🟢 Species
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 0.85x
+- **Mint:** `8beNLk4qqzvQL4ffWeWkNfpGNmDRtHUt2T8ofpd4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:10:32 | BUY | 0.000600 | `2Y3sneTLQcTii2zfCzg5td6bFkkXKV...` |
 
 ### 🟢 chibo
 - **Status:** open | **Exit:** open
@@ -78,7 +87,7 @@
 
 ### 🟢 Clutch
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.37x | **Current:** 4.05x
+- **Peak:** 4.37x | **Current:** 4.03x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |

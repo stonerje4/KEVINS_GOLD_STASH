@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 10:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,9 +7,9 @@
 | Open | 4 |
 | Closed | 33 |
 | SOL In (closed) | 0.019800 |
-| SOL Out (sells) | 0.019046 |
-| **P&L** | **-0.000754 SOL** |
-| **ROI** | **-3.8%** |
+| SOL Out (sells) | 0.019423 |
+| **P&L** | **-0.000377 SOL** |
+| **ROI** | **-1.9%** |
 
 ## Trades
 
@@ -25,7 +25,7 @@
 
 ### 🟢 Tsuki
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.01x | **Current:** 0.94x
 - **Mint:** `HrAxh4UxCTwad1oQtqNZRW7oBJbxeszPYRgWRastpump`
 
 | Time | Action | SOL | TX |
@@ -33,17 +33,18 @@
 | 2026-03-16 10:05:24 | BUY | 0.000600 | `3jVGAtZV4v1BHd3S8hQwRfWNvzZ2T2...` |
 
 ### 🟢 XAICASH
-- **Status:** open | **Exit:** open
-- **Peak:** 1.82x | **Current:** 1.82x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.10x | **Current:** 2.09x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:56:30 | BUY | 0.000600 | `2uDcfd7tpHq7XGCtcsz7LuiujMDiNs...` |
+| 2026-03-16 10:10:16 | SELL | 0.000378 | `523gyBevn8uw96JkM7XTKc7ihxjD5B...` |
 
 ### 🟢 AIRI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.20x
+- **Peak:** 1.30x | **Current:** 1.30x
 - **Mint:** `3UJZRvYvP8Mef4boByK4Kj4CW61FLfZyNhGgoVrypump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 10:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -143,7 +143,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |
@@ -210,7 +210,7 @@
 
 ### 🟢 URCHIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.33x | **Current:** 0.92x
+- **Peak:** 1.33x | **Current:** 0.86x
 - **Mint:** `J3iTQDPsD4Ltm1KVYjUNVdSKFQ5syX3G4RV4d8cCpump`
 
 | Time | Action | SOL | TX |

@@ -1,15 +1,15 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 10:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 11 |
-| Closed | 4 |
-| SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.001942 |
-| **P&L** | **-0.000458 SOL** |
-| **ROI** | **-19.1%** |
+| Open | 10 |
+| Closed | 5 |
+| SOL In (closed) | 0.003000 |
+| SOL Out (sells) | 0.002357 |
+| **P&L** | **-0.000643 SOL** |
+| **ROI** | **-21.4%** |
 
 ## Trades
 
@@ -33,7 +33,7 @@
 
 ### 🟢 Sonny
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.89x
+- **Peak:** 1.09x | **Current:** 0.93x
 - **Mint:** `EVHhyNdtZxXCvRVXeAggjXiahoAQxXhsifFEw6yWpump`
 
 | Time | Action | SOL | TX |
@@ -80,21 +80,22 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 1.13x
+- **Peak:** 1.16x | **Current:** 1.12x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:19:13 | BUY | 0.000600 | `4FA8T95awA9EjMgS3MxV2HCVEDfmXj...` |
 
-### 🟢 BOA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.74x
+### 🔴 BOA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.13x | **Current:** 0.69x
 - **Mint:** `Dt3vBiGi9ceMsqH9EeTJRQEku9C1rrBNB1vMzZVgZKYx`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:08:25 | BUY | 0.000600 | `41EzndtML41cNpDa5JKRB1TuDxJYvN...` |
+| 2026-03-16 10:11:42 | SELL | 0.000415 | `32WYJGysRRmHCHWs1hmaq2C9LBw6UN...` |
 
 ### 🔴 CORGI
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -108,7 +109,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.12x
+- **Peak:** 1.18x | **Current:** 1.11x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |
@@ -127,7 +128,7 @@
 
 ### 🟢 TIM
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.47x | **Current:** 2.35x
+- **Peak:** 2.85x | **Current:** 2.75x
 - **Mint:** `9rZyxfCQhGCBcpbFW3LUjVKoBajVbN6kYdHmaFXSpump`
 
 | Time | Action | SOL | TX |
@@ -146,7 +147,7 @@
 
 ### 🟢 RIONA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.91x
+- **Peak:** 1.62x | **Current:** 1.62x
 - **Mint:** `smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump`
 
 | Time | Action | SOL | TX |
