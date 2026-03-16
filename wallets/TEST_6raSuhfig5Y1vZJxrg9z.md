@@ -1,27 +1,28 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 2 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.000700 |
-| **Closed P&L** | **+0.000660 SOL** |
-| **Closed ROI** | **+94.3%** |
-| Open Deployed | 0.000700 SOL |
+| Open | 1 |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.000800 |
+| **Closed P&L** | **+0.000697 SOL** |
+| **Closed ROI** | **+87.1%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
-### 🟢 SWE-agent
-- **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.42x
+### 🔴 SWE-agent
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.05x | **Current:** 0.36x
 - **Mint:** `GkktngyeUNQeC5V1yWSTxoE8GFDj9h7GMm2D2jhPpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:02:13 | BUY | 0.000100 | `5oAGp8QEafteZ5JZic7wB8iCGFtaMN...` |
+| 2026-03-16 16:11:37 | SELL | 0.000036 | `2tijGR945wgxFAQauq2w6epRZPSNHD...` |
 
 ### 🟢 PokeAgent
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

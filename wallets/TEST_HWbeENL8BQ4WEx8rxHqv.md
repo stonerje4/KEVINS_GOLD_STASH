@@ -1,5 +1,5 @@
 # [TEST] Wallet: `HWbeENL8BQ4WEx8rxHqvVQsZtpAnLshhukPBoCJZnnXf`
-> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 1SOL
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.27x | **Current:** 2.27x
+- **Peak:** 2.96x | **Current:** 2.91x
 - **Mint:** `DDs56HFdwoWyAW4Yhz1heE9DErKJymSa5K8iPnRpump`
 
 | Time | Action | SOL | TX |

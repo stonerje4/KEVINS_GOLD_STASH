@@ -1,18 +1,28 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 78 |
+| Total Positions | 79 |
 | Open | 15 |
-| Closed | 63 |
-| W/L | 62/1 |
-| SOL In (closed) | 0.033800 |
-| **Closed P&L** | **+0.028643 SOL** |
-| **Closed ROI** | **+84.7%** |
+| Closed | 64 |
+| W/L | 63/1 |
+| SOL In (closed) | 0.033900 |
+| **Closed P&L** | **+0.028679 SOL** |
+| **Closed ROI** | **+84.6%** |
 | Open Deployed | 0.003500 SOL |
 
 ## Trades
+
+### 🔴 GIGGLE
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.36x
+- **Mint:** `BUdmRvyN8pPCULFGDnFpX6Svy4HzEMwWqhhyK6ZSpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:10:07 | BUY | 0.000100 | `2fL8YatSvbmuRPdwrxgzGuf4w5T1Jv...` |
+| 2026-03-16 16:11:13 | SELL | 0.000036 | `3gQ5ZJbS2vkCs6TFq2a32UyDoPVJx5...` |
 
 ### 🟢 Pigeon
 - **Status:** open | **Exit:** open
@@ -25,7 +35,7 @@
 
 ### 🟢 REDHEAD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.03x
+- **Peak:** 1.06x | **Current:** 0.98x
 - **Mint:** `4vAoDvZzTQrcZQmAmWptpFMPcwCeLQJ6PbGLZX3Fpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +44,7 @@
 
 ### 🟢 POKEFUN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 1.17x
+- **Peak:** 1.27x | **Current:** 1.11x
 - **Mint:** `G4WzMcvBFVAhNBbb2U9LDvdmX8T2nVNkvHz7siWBpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +53,7 @@
 
 ### 🟢 LIQUORA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 1.17x
+- **Peak:** 1.23x | **Current:** 1.23x
 - **Mint:** `FppyXdz1bp6VHvraf7QVkNo7EfdYNqZDunEQ5Gk3pump`
 
 | Time | Action | SOL | TX |
@@ -336,7 +346,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.25x
+- **Peak:** 1.50x | **Current:** 1.26x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |

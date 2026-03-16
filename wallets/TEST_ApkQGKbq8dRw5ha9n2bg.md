@@ -1,18 +1,27 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-16 16:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
+| Total Positions | 3 |
+| Open | 1 |
 | Closed | 2 |
 | W/L | 1/1 |
 | SOL In (closed) | 0.001200 |
 | **Closed P&L** | **+0.002724 SOL** |
 | **Closed ROI** | **+227.0%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 Orca
+- **Status:** open | **Exit:** open
+- **Peak:** 1.23x | **Current:** 1.23x
+- **Mint:** `9wSZbC64PfKhsE7dW5GAeEBeQGitPBMV3hLUuLB9pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:13:50 | BUY | 0.000100 | `4Fkngg4KPXZeXnWv4iHTFqMBtuTinq...` |
 
 ### 🔴 LBELL26
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half

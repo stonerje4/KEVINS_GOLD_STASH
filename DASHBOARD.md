@@ -1,11 +1,11 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 16:10 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 16:15 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
 
 ## 🧪 Test Wallet
 
 | | Wallet | Total | Closed | Open | W/L | WR | Closed P&L | Closed ROI | Open Value |
 |--|--------|-------|--------|------|-----|-----|------------|------------|------------|
-| 🟢 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 2 | 2 | 0 | 1/1 | 50% | $+253.99 | +127.0% | — |
+| 🟢 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 3 | 2 | 1 | 1/1 | 50% | $+253.99 | +127.0% | $100.00 |
 | 🟢 | `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm` | 6 | 4 | 2 | 1/3 | 25% | $+466.82 | +116.7% | $200.00 |
 | 🟢 | `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt` | 1 | 1 | 0 | 1/0 | 100% | $+81.49 | +81.5% | — |
 | 🟢 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 4 | 3 | 1 | 2/1 | 67% | $+186.34 | +62.1% | $100.00 |
@@ -20,10 +20,10 @@
 | ⚪ | `HWbeENL8BQ4WEx8rxHqvVQsZtpAnLshhukPBoCJZnnXf` | 1 | 0 | 1 | 0/0 | 0% | $+0.00 | +0.0% | $100.00 |
 | 🔴 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 16 | 8 | 8 | 2/6 | 25% | $-3.16 | -0.4% | $800.00 |
 | 🔴 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | $-7.30 | -3.6% | — |
-| 🔴 | `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA` | 4 | 2 | 2 | 1/1 | 50% | $-11.31 | -5.7% | $200.00 |
-| 🔴 | `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 243 | 175 | 68 | 36/139 | 21% | $-2014.57 | -11.5% | $6800.00 |
+| 🔴 | `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 246 | 175 | 71 | 36/139 | 21% | $-2008.95 | -11.5% | $7100.00 |
+| 🔴 | `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA` | 4 | 3 | 1 | 1/2 | 33% | $-38.71 | -12.9% | $100.00 |
 | 🔴 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | 7 | 2 | 5 | 1/1 | 50% | $-27.31 | -13.7% | $500.00 |
-| 🔴 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 78 | 63 | 15 | 12/51 | 19% | $-890.91 | -14.1% | $1500.00 |
+| 🔴 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 79 | 64 | 15 | 12/52 | 19% | $-914.47 | -14.3% | $1500.00 |
 | 🔴 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 62 | 51 | 11 | 9/42 | 18% | $-937.98 | -18.4% | $1100.00 |
 | 🔴 | `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus` | 4 | 4 | 0 | 1/3 | 25% | $-85.30 | -21.3% | — |
 | 🔴 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 21 | 13 | 8 | 2/11 | 15% | $-310.30 | -23.9% | $800.00 |
@@ -37,8 +37,8 @@
 | 🔴 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 4 | 4 | 0 | 0/4 | 0% | $-145.21 | -36.3% | — |
 | 🔴 | `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi` | 5 | 4 | 1 | 0/4 | 0% | $-145.44 | -36.4% | $100.00 |
 | 🔴 | `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj` | 1 | 1 | 0 | 0/1 | 0% | $-36.99 | -37.0% | — |
+| 🔴 | `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq` | 7 | 3 | 4 | 0/3 | 0% | $-112.44 | -37.5% | $400.00 |
 | 🔴 | `FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa` | 1 | 1 | 0 | 0/1 | 0% | $-38.35 | -38.3% | — |
-| 🔴 | `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq` | 7 | 3 | 4 | 0/3 | 0% | $-117.89 | -39.3% | $400.00 |
 | 🔴 | `EyeSFbqHMXzZBTFqAYdM5E2o6Uv8pPCyLsSCv9Ax8Qgb` | 3 | 3 | 0 | 0/3 | 0% | $-119.36 | -39.8% | — |
 | 🔴 | `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg` | 6 | 4 | 2 | 0/4 | 0% | $-160.99 | -40.2% | $200.00 |
 | 🔴 | `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo` | 12 | 10 | 2 | 1/9 | 10% | $-404.32 | -40.4% | $200.00 |
@@ -85,8 +85,8 @@
 | 🔴 | `EJEyPiUfUmx3wDTtVfTzduNyNAWtQdwodFQjnJmjvmCQ` | 19 | 19 | 0 | 3/16 | 16% | $-13.48 | -9.4% | — |
 | 🔴 | `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf` | 45 | 43 | 2 | 10/33 | 23% | $-49.73 | -12.9% | $27.90 |
 | 🔴 | `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK` | 1 | 1 | 0 | 0/1 | 0% | $-5.19 | -37.2% | — |
+| 🔴 | `CqHQdW3Lp4HPDB2hdvzbkFdPzr13JkWeso74kLtBCi5w` | 3 | 3 | 0 | 0/3 | 0% | $-20.92 | -50.0% | — |
 | 🔴 | `FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz` | 19 | 19 | 0 | 2/17 | 11% | $-115.98 | -54.0% | — |
-| 🔴 | `CqHQdW3Lp4HPDB2hdvzbkFdPzr13JkWeso74kLtBCi5w` | 3 | 2 | 1 | 0/2 | 0% | $-17.03 | -61.0% | $13.95 |
 | 🔴 | `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ` | 4 | 4 | 0 | 1/3 | 25% | $-34.89 | -62.5% | — |
 | 🔴 | `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy` | 3 | 2 | 1 | 0/2 | 0% | $-22.45 | -80.5% | $13.95 |
 

@@ -1,21 +1,21 @@
 # [PRD] Wallet: `CqHQdW3Lp4HPDB2hdvzbkFdPzr13JkWeso74kLtBCi5w`
-> Generated: 2026-03-16 16:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 16:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.300000 |
-| **Closed P&L** | **-0.104379 SOL** |
-| **Closed ROI** | **-34.8%** |
-| Open Deployed | 0.150000 SOL |
+| Open | 0 |
+| Closed | 3 |
+| W/L | 0/3 |
+| SOL In (closed) | 0.450000 |
+| **Closed P&L** | **-0.146246 SOL** |
+| **Closed ROI** | **-32.5%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 flea
-- **Status:** partial | **Exit:** open
+### 🔴 flea
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 2.16x | **Current:** 0.00x
 - **Mint:** `2ZxvZtqXEpHGE5QnxrFWN1Bp78vcovfwgm1gA4BDpump`
 
@@ -23,6 +23,7 @@
 |------|--------|-----|----|
 | 2026-03-16 15:18:40 | BUY | 0.150000 | `3iCA6rBz3rRygYqkXgLKCHuhTFejaT...` |
 | 2026-03-16 15:34:39 | SELL | 0.030440 | `641AUXiVNdYQijNVSM19WB3W7UjQ21...` |
+| 2026-03-16 16:10:55 | SELL | 0.108133 | `5ncAiFoZVMRQUjGYokVy2wTpquJV9t...` |
 
 ### 🔴 3
 - **Status:** closed | **Exit:** stop_loss
