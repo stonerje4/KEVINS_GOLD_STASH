@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.06x
+- **Peak:** 1.10x | **Current:** 1.03x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 DIMOS
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.34x | **Current:** 1.98x
+- **Peak:** 2.34x | **Current:** 1.79x
 - **Mint:** `HsHdzTK8FkSzhjf3NMgs61tVJEtocTYFFt7SqA61pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Coffeegate
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.90x
+- **Peak:** 1.09x | **Current:** 0.89x
 - **Mint:** `CJYgKNJ9G66YWbpu6FCYh7LVFzRQp1AZ3sqggmXCpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 WhiteBoy 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.08x
+- **Peak:** 1.11x | **Current:** 1.06x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 Agent Doge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.12x
+- **Peak:** 1.25x | **Current:** 1.14x
 - **Mint:** `JB8J7Hp259EkmupJJKnqYuyPZXy1P7z22uwfzgJgpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 STARE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.90x
+- **Peak:** 1.03x | **Current:** 0.87x
 - **Mint:** `3KVLeJjgvYxeCqkMhFHp37V1e2LM8FaWgK2s4t4Hpump`
 
 | Time | Action | SOL | TX |

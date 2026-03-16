@@ -1,26 +1,27 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 2 |
-| Closed | 4 |
-| SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.003083 |
-| **P&L** | **+0.000683 SOL** |
-| **ROI** | **+28.5%** |
+| Open | 1 |
+| Closed | 5 |
+| SOL In (closed) | 0.003000 |
+| SOL Out (sells) | 0.003465 |
+| **P&L** | **+0.000465 SOL** |
+| **ROI** | **+15.5%** |
 
 ## Trades
 
-### 🟢 JORDAN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.96x | **Current:** 1.11x
+### 🔴 JORDAN
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.96x | **Current:** 0.63x
 - **Mint:** `6nYVpGGGnrKGSHBUcBn7qie8WoApRPHbVG6buZSNpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 00:36:46 | BUY | 0.000600 | `mp3RgcwUK2ps9vWc6k2Vd8G3Fa4F56...` |
+| 2026-03-16 02:35:54 | SELL | 0.000381 | `67XauSHRPADjrtTQjEBv6U2zMxaJSX...` |
 
 ### 🟢 PONZI
 - **Status:** open | **Exit:** open

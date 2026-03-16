@@ -1,46 +1,46 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 02:35 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 02:40 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.4638 SOL |
-| Open Positions | 65 (0.0578 SOL deployed) |
-| Closed Positions | 74 |
-| Total Positions | 139 |
+| SOL Balance | 1.4548 SOL |
+| Open Positions | 64 (0.0572 SOL deployed) |
+| Closed Positions | 79 |
+| Total Positions | 143 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.5784 SOL (-57.8%)** |
+| **Real P&L (on-chain)** | **-0.5880 SOL (-58.8%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
 |--------|-------|--------|------|-----|-----|--------|-----|-----|
 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🟢 +0.001524 | +127.0% |
 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 3 | 3 | 0 | 2/1 | 67% | 0.0018 | 🟢 +0.001118 | +62.1% |
-| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 6 | 4 | 2 | 2/2 | 50% | 0.0036 | 🟢 +0.000683 | +28.5% |
+| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 6 | 5 | 1 | 2/3 | 40% | 0.0036 | 🟢 +0.000465 | +15.5% |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 32 | 17 | 15 | 5/12 | 29% | 0.0192 | 🟢 +0.000252 | +2.5% |
 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 13 | 2 | 11 | 1/1 | 50% | 0.0172 | 🟢 +0.000004 | +0.3% |
 | `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | ⚪ +0.000000 | +0.0% |
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 2 | 0 | 2 | 0/0 | 0% | 0.0106 | ⚪ +0.000000 | +0.0% |
 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 4 | 0 | 4 | 0/0 | 0% | 0.0024 | ⚪ +0.000000 | +0.0% |
-| `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 12 | 0 | 12 | 0/0 | 0% | 0.0072 | ⚪ +0.000000 | +0.0% |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 31 | 16 | 15 | 4/12 | 25% | 0.0186 | 🔴 -0.000127 | -1.3% |
+| `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 13 | 0 | 13 | 0/0 | 0% | 0.0078 | ⚪ +0.000000 | +0.0% |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🔴 -0.000044 | -3.6% |
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 9 | 3 | 6 | 0/3 | 0% | 0.0054 | 🔴 -0.000249 | -13.9% |
 | `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo` | 7 | 5 | 2 | 1/4 | 20% | 0.0042 | 🔴 -0.000627 | -20.9% |
-| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 7 | 7 | 0 | 1/6 | 14% | 0.0042 | 🔴 -0.000960 | -22.9% |
 | `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 9 | 9 | 0 | 1/8 | 11% | 0.0054 | 🔴 -0.001258 | -23.3% |
+| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 8 | 8 | 0 | 1/7 | 12% | 0.0048 | 🔴 -0.001178 | -24.5% |
 | `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000184 | -30.7% |
-| `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq` | 3 | 1 | 2 | 0/1 | 0% | 0.0018 | 🔴 -0.000187 | -31.2% |
 | `EyeSFbqHMXzZBTFqAYdM5E2o6Uv8pPCyLsSCv9Ax8Qgb` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000194 | -32.3% |
 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 4 | 3 | 1 | 0/3 | 0% | 0.0118 | 🔴 -0.003684 | -32.9% |
-| `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000218 | -36.3% |
+| `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000218 | -36.3% |
+| `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq` | 3 | 2 | 1 | 0/2 | 0% | 0.0018 | 🔴 -0.000445 | -37.1% |
 | `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000233 | -38.9% |
 | `CAmNcBJ82xr1tzXrwZ6tZKwEFs26TG8kT6dJeR1bxjW9` | 2 | 2 | 0 | 0/2 | 0% | 0.0012 | 🔴 -0.000506 | -42.2% |
+| `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B` | 4 | 3 | 1 | 0/3 | 0% | 0.0024 | 🔴 -0.000876 | -48.7% |
 | `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000315 | -52.5% |
-| `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B` | 4 | 2 | 2 | 0/2 | 0% | 0.0024 | 🔴 -0.000657 | -54.8% |
 | `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J` | 6 | 5 | 1 | 0/5 | 0% | 0.0036 | 🔴 -0.001705 | -56.8% |
 | `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj` | 2 | 2 | 0 | 0/2 | 0% | 0.0012 | 🔴 -0.000792 | -66.0% |
 | `GyHL98eooS4VwyDrnZdudJoBfkTTcM8G7ugkEEA9pwx` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000600 | -100.0% |
@@ -52,13 +52,13 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `9xMo2sv9tDY5QVjnakjxykx2Qvy9K5FJ2NUNbVgq83c1` |
-| SOL Balance | 3.8157 SOL |
-| Open Positions | 17 (2.5500 SOL deployed) |
+| SOL Balance | 3.6600 SOL |
+| Open Positions | 18 (2.7000 SOL deployed) |
 | Closed Positions | 562 |
 | Total Deposited | ~7.34 SOL |
-| SOL Bought (bot) | 59.80 SOL |
+| SOL Bought (bot) | 59.95 SOL |
 | SOL Sold (bot) | 56.77 SOL |
-| **Real P&L (on-chain)** | **-0.9743 SOL (-13.3%)** |
+| **Real P&L (on-chain)** | **-0.9800 SOL (-13.4%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -85,7 +85,7 @@
 | `AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g` | 7 | 7 | 0 | 2/5 | 29% | 0.8500 | 🟢 +0.143114 | +16.8% |
 | `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7` | 13 | 13 | 0 | 4/9 | 31% | 1.9500 | 🟢 +0.270855 | +13.9% |
 | `FdscbS4fPUmdfwJ57dkFswvZ6jYwzKXQxJ6cPRfejU4q` | 1 | 1 | 0 | 1/0 | 100% | 0.1500 | 🟢 +0.016102 | +10.7% |
-| `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf` | 39 | 37 | 2 | 10/27 | 27% | 3.5500 | 🟢 +0.260642 | +8.0% |
+| `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf` | 40 | 37 | 3 | 10/27 | 27% | 3.7000 | 🟢 +0.260642 | +8.0% |
 | `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU` | 39 | 37 | 2 | 10/27 | 27% | 4.5100 | 🟢 +0.238031 | +5.7% |
 | `HSRxqhPLFWcikdwN1XweD9n6JWXKphCGibv7EKwPVAzr` | 2 | 2 | 0 | 1/1 | 50% | 0.1000 | 🟢 +0.003528 | +3.5% |
 | `EJEyPiUfUmx3wDTtVfTzduNyNAWtQdwodFQjnJmjvmCQ` | 18 | 18 | 0 | 3/15 | 17% | 1.4000 | 🔴 -0.099640 | -7.1% |

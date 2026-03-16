@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
-| Open | 12 |
+| Total Positions | 13 |
+| Open | 13 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.000000 |
@@ -12,6 +12,15 @@
 | **ROI** | **+0.0%** |
 
 ## Trades
+
+### 🟢 TRUMPHOUSE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `Gmh9t9VzHeMFdvfJRBGLsgZ97Wm52JUDmc96GMCMKyRd`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:36:36 | BUY | 0.000600 | `5VZdxpBm7nVtiNwgAh89k1FFRF6Yrd...` |
 
 ### 🟢 MLTFO
 - **Status:** open | **Exit:** open
@@ -42,7 +51,7 @@
 
 ### 🟢 OG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.90x
+- **Peak:** 1.02x | **Current:** 0.83x
 - **Mint:** `37JEzbRcfeGAYEeiPMg1gKbK8UZNQG7cjF5Pvse7pump`
 
 | Time | Action | SOL | TX |
@@ -105,7 +114,7 @@
 
 ### 🟢 PIGEON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.76x
+- **Peak:** 1.01x | **Current:** 0.85x
 - **Mint:** `7qoFnme6rNMdr8Hhsi7MB5oVJx5xD6aeiPevtWGEpump`
 
 | Time | Action | SOL | TX |

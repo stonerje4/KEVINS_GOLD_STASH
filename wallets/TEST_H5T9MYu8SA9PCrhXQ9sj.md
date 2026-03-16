@@ -1,10 +1,10 @@
 # [TEST] Wallet: `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz`
-> Generated: 2026-03-16 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
+| Total Positions | 2 |
+| Open | 1 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
 | SOL Out (sells) | 0.000382 |
@@ -12,6 +12,15 @@
 | **ROI** | **-36.3%** |
 
 ## Trades
+
+### 🟢 Leonardo
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.78x
+- **Mint:** `6WNVWmEhdVKrZVAYuGH1w8bTmU6FRHaYnqUWRKPTpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:39:44 | BUY | 0.000600 | `65PbD9aaZoqn85EYCfP4Fx7JXne2ue...` |
 
 ### 🔴 MEMECULT
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 NORMIE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 1.01x
+- **Peak:** 1.07x | **Current:** 1.06x
 - **Mint:** `75Dhr6PzP13jMygRiU6zXduduVE7CDkjp4s2cG25pump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 BLACKJACK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 0.94x
+- **Peak:** 1.31x | **Current:** 0.91x
 - **Mint:** `73XxPmoakfwGAvad4C4bxdLtLmehz3UjEiVzNE7Spump`
 
 | Time | Action | SOL | TX |

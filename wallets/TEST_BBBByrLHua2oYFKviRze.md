@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
+| Total Positions | 8 |
 | Open | 0 |
-| Closed | 7 |
-| SOL In (closed) | 0.004200 |
-| SOL Out (sells) | 0.003240 |
-| **P&L** | **-0.000960 SOL** |
-| **ROI** | **-22.9%** |
+| Closed | 8 |
+| SOL In (closed) | 0.004800 |
+| SOL Out (sells) | 0.003622 |
+| **P&L** | **-0.001178 SOL** |
+| **ROI** | **-24.5%** |
 
 ## Trades
+
+### 🔴 StAInberger
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.04x | **Current:** 0.56x
+- **Mint:** `9yTz29r5iCRHnMkw59K5rJs3dD5MGaAW8z5xjEANpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:36:29 | BUY | 0.000600 | `2DxiFLCDNUdNoj5JFXtp34NgjZ455S...` |
+| 2026-03-16 02:37:30 | SELL | 0.000382 | `3TVajaCAY36fLpLaCQ31wDMTfQqULZ...` |
 
 ### 🔴 WRAP
 - **Status:** closed | **Exit:** ghost_close_stop_loss

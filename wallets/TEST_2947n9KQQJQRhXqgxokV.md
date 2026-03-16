@@ -1,15 +1,15 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 2 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.000543 |
-| **P&L** | **-0.000657 SOL** |
-| **ROI** | **-54.8%** |
+| Open | 1 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
+| SOL Out (sells) | 0.000924 |
+| **P&L** | **-0.000876 SOL** |
+| **ROI** | **-48.7%** |
 
 ## Trades
 
@@ -34,14 +34,15 @@
 | 2026-03-16 01:55:49 | BUY | 0.000600 | `2WS3V5Y7WXkQj6otd8xAZs3KSuuSCq...` |
 | 2026-03-16 01:57:44 | SELL | 0.000328 | `2JL5JWyEd92u8rbHNs4Yc1exbfSFBp...` |
 
-### 🟢 WRT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.74x
+### 🔴 WRT
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.12x | **Current:** 0.63x
 - **Mint:** `8ZwM8ZCZ3AgkSAomZE3qqZVrrtRAA5XvSnh2JRtypump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:09:29 | BUY | 0.000600 | `3NM3D7ySV4jUHnwMxtrnNQaZMaAQrj...` |
+| 2026-03-16 02:37:11 | SELL | 0.000382 | `4BZ1GhwwftJscgVNQ5H3gHPAeBhnC8...` |
 
 ### 🟢 WRT CTO
 - **Status:** open | **Exit:** open
