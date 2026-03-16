@@ -1,27 +1,46 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 14:13 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 205 |
-| Open | 48 |
+| Total Positions | 207 |
+| Open | 50 |
 | Closed | 157 |
 | W/L | 152/5 |
 | SOL In (closed) | 0.094200 |
 | **Closed P&L** | **+0.082178 SOL** |
 | **Closed ROI** | **+87.2%** |
-| Open Deployed | 0.028800 SOL |
+| Open Deployed | 0.030000 SOL |
 
 ## Trades
 
-### 🟢 Snootlets
+### 🟢 PauseAI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.51x | **Current:** 1.51x
+- **Peak:** 1.18x | **Current:** 1.18x
+- **Mint:** `9Y5HgeUorSu2cTeu2eD7qWicNA5T7ribaQYLMkWNpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:14:06 | BUY | 0.000600 | `5fxf317WJHXPY4uGGneswdLkkgSAYX...` |
+
+### 🟢 GIGA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `GPkgbpn4kKThpa2cJcGpNJi27QMzdxg3HSmaN6Agpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:13:42 | BUY | 0.000600 | `5PzxjWpfy2jWrcKwNbj4MczHzegZzo...` |
+
+### 🟢 Snootlets
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.15x | **Current:** 2.05x
 - **Mint:** `EUfPZ6A6NFhXKFmkSpFN5zzXTEBypjJQ8beXCKUdpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:10:59 | BUY | 0.000600 | `496cdmwTPbfwYKLq8BQXbqs4Davar4...` |
+| 2026-03-16 14:13:59 | SELL | 0.000388 | `3V2hkRsFuFpLiP8S6ctsUecmF6aAza...` |
 
 ### 🟢 Chinaman
 - **Status:** open | **Exit:** open
@@ -317,7 +336,7 @@
 
 ### 🟢 Angela
 - **Status:** open | **Exit:** open
-- **Peak:** 1.65x | **Current:** 1.58x
+- **Peak:** 1.65x | **Current:** 1.43x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |
@@ -1077,7 +1096,7 @@
 
 ### 🟢 TOKEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `Go3J5WxxRJjr56kC271ztysCuePQyKur3DPGckNSpump`
 
 | Time | Action | SOL | TX |

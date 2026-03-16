@@ -1,27 +1,28 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 14:13 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 48 |
-| Open | 2 |
-| Closed | 46 |
-| W/L | 44/2 |
-| SOL In (closed) | 0.027600 |
-| **Closed P&L** | **+0.022649 SOL** |
-| **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.001200 SOL |
+| Open | 1 |
+| Closed | 47 |
+| W/L | 45/2 |
+| SOL In (closed) | 0.028200 |
+| **Closed P&L** | **+0.022983 SOL** |
+| **Closed ROI** | **+81.5%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
-### 🟢 Kinako
-- **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.72x
+### 🔴 Kinako
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.13x | **Current:** 0.55x
 - **Mint:** `iKDh55hso81TyuUaqKRZUBePghpxbnYnSKdL9njpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:10:09 | BUY | 0.000600 | `2GP3v3AWVR7Gm9kZWG36hciaAGc8kX...` |
+| 2026-03-16 14:13:35 | SELL | 0.000334 | `MGMzuxzseLYvZZhqRvQ7E2sskg5XKW...` |
 
 ### 🔴 Malibu
 - **Status:** closed | **Exit:** ghost_close_stop_loss

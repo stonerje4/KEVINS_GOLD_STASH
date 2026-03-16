@@ -1,18 +1,27 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 14:13 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
+| Total Positions | 2 |
+| Open | 1 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000600 |
 | **Closed P&L** | **+0.000410 SOL** |
 | **Closed ROI** | **+68.4%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
+
+### 🟢 SUBARU
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `DExfxh9JyvpP8WH2xCMGcVC3KBCK29CpVMYEEhrvpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:14:56 | BUY | 0.000600 | `5iUBLt8rh5yjiq7Pm5ZpJ4CCnJfMbv...` |
 
 ### 🔴 KeyA
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,16 +1,16 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 14:13 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 59 |
-| Open | 5 |
-| Closed | 54 |
-| W/L | 53/1 |
-| SOL In (closed) | 0.032400 |
-| **Closed P&L** | **+0.027396 SOL** |
-| **Closed ROI** | **+84.6%** |
-| Open Deployed | 0.003000 SOL |
+| Open | 4 |
+| Closed | 55 |
+| W/L | 54/1 |
+| SOL In (closed) | 0.033000 |
+| **Closed P&L** | **+0.027868 SOL** |
+| **Closed ROI** | **+84.4%** |
+| Open Deployed | 0.002400 SOL |
 
 ## Trades
 
@@ -34,15 +34,16 @@
 | 2026-03-16 13:48:32 | BUY | 0.000600 | `2JgNm5LXkwmSBMz4itAgnP2JarANh7...` |
 | 2026-03-16 13:52:12 | SELL | 0.000408 | `5cRWZFNrBo7ZG8TaCGkbLbpTayR9JZ...` |
 
-### 🟢 モモ
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.54x | **Current:** 2.31x
+### 🔴 モモ
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.54x | **Current:** 0.25x
 - **Mint:** `7HEGwZRQpredmtk68syRy1zz2nCphjxS6HLH7UENpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 13:47:06 | BUY | 0.000600 | `34tkFHRegoMvuuM1x7DGkHmMHYhAuK...` |
 | 2026-03-16 14:06:26 | SELL | 0.000365 | `4SQN6M4BneEaLD8X6m4P53c92cnwXN...` |
+| 2026-03-16 14:13:33 | SELL | 0.000106 | `4Jp2KqQE7fDKWGfdFiLxx1rG96WCEd...` |
 
 ### 🟢 Unplug
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
