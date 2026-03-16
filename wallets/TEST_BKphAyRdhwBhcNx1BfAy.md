@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 08:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 120 |
-| Open | 31 |
+| Total Positions | 121 |
+| Open | 32 |
 | Closed | 89 |
 | SOL In (closed) | 0.053400 |
 | SOL Out (sells) | 0.051955 |
@@ -12,6 +12,15 @@
 | **ROI** | **-2.7%** |
 
 ## Trades
+
+### 🟢 KAI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.34x | **Current:** 1.34x
+- **Mint:** `EeSGdHHZPgdUWM7rLNoCmHcGyvz3LWbN1PEPLamqzSjR`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:49:19 | BUY | 0.000600 | `jWEPHyef2moZAWRm41b3cJZ8XDS5UL...` |
 
 ### 🟢 Wooper
 - **Status:** open | **Exit:** open
@@ -133,7 +142,7 @@
 
 ### 🟢 RICHIE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.96x | **Current:** 1.49x
+- **Peak:** 1.96x | **Current:** 1.64x
 - **Mint:** `G4XU9QGZBJbNENSXVU5Tbakn3ya4JhmBVNVEkEBYpump`
 
 | Time | Action | SOL | TX |
@@ -211,7 +220,7 @@
 
 ### 🟢 PLAMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 1.28x
+- **Peak:** 1.47x | **Current:** 1.26x
 - **Mint:** `D1eTUxKkAfTWKEWSYJjaAVugEPTCviLWf637GUDQpump`
 
 | Time | Action | SOL | TX |
@@ -508,7 +517,7 @@
 
 ### 🟢 TERMINAL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.07x
+- **Peak:** 1.26x | **Current:** 1.08x
 - **Mint:** `9Vq6yjn9tgcNRNpaky5BiX5hU93ma9zDwaW5sUcepump`
 
 | Time | Action | SOL | TX |
@@ -1154,7 +1163,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.43x
+- **Peak:** 1.90x | **Current:** 1.49x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
