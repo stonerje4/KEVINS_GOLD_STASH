@@ -1,15 +1,15 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 07:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 6 |
-| Closed | 9 |
-| SOL In (closed) | 0.005400 |
-| SOL Out (sells) | 0.004756 |
-| **P&L** | **-0.000644 SOL** |
-| **ROI** | **-11.9%** |
+| Open | 5 |
+| Closed | 10 |
+| SOL In (closed) | 0.006000 |
+| SOL Out (sells) | 0.005158 |
+| **P&L** | **-0.000842 SOL** |
+| **ROI** | **-14.0%** |
 
 ## Trades
 
@@ -25,7 +25,7 @@
 
 ### 🟢 PUMPERS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.83x
+- **Peak:** 1.07x | **Current:** 0.89x
 - **Mint:** `GpPmQTqV3KeTRUWCxFtnw3VQHuAqqG4HWsxvw6Vwpump`
 
 | Time | Action | SOL | TX |
@@ -73,7 +73,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.08x
+- **Peak:** 1.24x | **Current:** 1.05x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
@@ -101,14 +101,15 @@
 | 2026-03-16 00:30:45 | BUY | 0.000600 | `2ThLzWuAEi6C1moRiByxQG7hS9sJYv...` |
 | 2026-03-16 03:04:33 | SELL | 0.000412 | `GM3s1Ci2DB1CQi46bPcLg5UogoLwJA...` |
 
-### 🟢 WhiteBoy 
-- **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 0.94x
+### 🔴 WhiteBoy 
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.14x | **Current:** 0.68x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 00:26:08 | BUY | 0.000600 | `3tF2rp7WRSJZtWZN64R68UpkT1qCQK...` |
+| 2026-03-16 07:56:48 | SELL | 0.000402 | `2q4zAtrJmFiyZTo3ZDYrfmPSUAZgQH...` |
 
 ### 🔴 Agent Doge
 - **Status:** closed | **Exit:** ghost_close_stop_loss

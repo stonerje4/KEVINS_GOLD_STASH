@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 07:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Moltdmkt
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `9cGZW73p6GvUKjg7mzBYEzys3TpDByCJn1waPxG6pump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Clutch
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.61x | **Current:** 2.43x
+- **Peak:** 2.65x | **Current:** 2.65x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
@@ -135,7 +135,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |
@@ -238,7 +238,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.79x
+- **Peak:** 1.05x | **Current:** 0.89x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |

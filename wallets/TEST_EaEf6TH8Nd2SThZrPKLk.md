@@ -1,15 +1,15 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 25 |
-| Open | 2 |
-| Closed | 23 |
-| SOL In (closed) | 0.013800 |
-| SOL Out (sells) | 0.015645 |
-| **P&L** | **+0.001845 SOL** |
-| **ROI** | **+13.4%** |
+| Open | 1 |
+| Closed | 24 |
+| SOL In (closed) | 0.014400 |
+| SOL Out (sells) | 0.015965 |
+| **P&L** | **+0.001565 SOL** |
+| **ROI** | **+10.9%** |
 
 ## Trades
 
@@ -34,14 +34,15 @@
 | 2026-03-16 07:35:28 | SELL | 0.000380 | `2NUJEPy8soqc9yvTnYBWUi5vxy1NmF...` |
 | 2026-03-16 07:42:53 | SELL | 0.000296 | `55AeTKhNXpZkPPFnMYRusHmLqCPTrh...` |
 
-### 🟢 ANMOO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.71x | **Current:** 1.05x
+### 🔴 ANMOO
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.71x | **Current:** 0.53x
 - **Mint:** `ub5zKXiHiS7LZdiUhWRsc7KtNqkfLzePa7yRP3Zpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:30:11 | BUY | 0.000600 | `2qrGfUP7kj8khSd8ErErK449GJz8Fu...` |
+| 2026-03-16 07:56:14 | SELL | 0.000321 | `3q2dG9CTF8MPAabkWytXNH2moafiN3...` |
 
 ### 🟢 GOAT
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
