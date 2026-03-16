@@ -1,5 +1,5 @@
 # [PRD] Wallet: `FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz`
-> Generated: 2026-03-16 22:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -10,12 +10,12 @@
 | SOL In (closed) | 2.310000 |
 | **Closed P&L** | **-0.273925 SOL** |
 | **Closed ROI** | **-11.9%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
 
-### ⚪ BBX
-- **Status:** confirming | **Exit:** open
+### 🟢 BBX
+- **Status:** open | **Exit:** open
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `6oR6BWR5Y3PnfPGzvn9nrc3XMEV1MUqPy2QCpkrPpump`
 

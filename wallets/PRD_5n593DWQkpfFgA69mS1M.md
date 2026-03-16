@@ -1,18 +1,27 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 22:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
-| Open | 2 |
+| Total Positions | 11 |
+| Open | 3 |
 | Closed | 8 |
 | W/L | 2/6 |
 | SOL In (closed) | 1.200000 |
 | **Closed P&L** | **+0.148165 SOL** |
 | **Closed ROI** | **+12.3%** |
-| Open Deployed | 0.300000 SOL |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
+
+### 🟢 house
+- **Status:** open | **Exit:** open
+- **Peak:** 1.25x | **Current:** 0.00x
+- **Mint:** `BW7VwGs9USMNmHdCMBKb3iKeqkvuh9JDWRVnXmiMpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 22:20:16 | BUY | 0.150000 | `4pnYFgkWtGXGZHb3bYRhgZCFPNDfNp...` |
 
 ### 🟢 Soulmates
 - **Status:** open | **Exit:** open
