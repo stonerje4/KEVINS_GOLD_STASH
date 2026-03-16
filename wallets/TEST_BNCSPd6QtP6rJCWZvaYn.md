@@ -23,7 +23,7 @@
 | 2026-03-15 23:00:39 | BUY | 0.000600 | `3WHc4vMS8vVdEWcLuU9dnVXskn9jtj...` |
 | 2026-03-16 00:52:52 | SELL | 0.000390 | `5C68SXFNLFMP78ggYNQeqRJV631wZP...` |
 
-### 🔴 Baldi
+### 🟢 Baldi
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
 - **Peak:** 3.93x | **Current:** 1.95x
 - **Mint:** `GopbzNuDFZnaNMYnzuYSbLc6mKMnLyFQ346sPzq3pump`

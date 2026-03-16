@@ -35,7 +35,7 @@
 
 ### 🟢 UDC
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.20x | **Current:** 2.98x
+- **Peak:** 3.20x | **Current:** 2.61x
 - **Mint:** `21YuqbGpG65PMHw9reH3vv4vJeAebgMR1NfDgRWPpump`
 
 | Time | Action | SOL | TX |

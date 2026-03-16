@@ -15,7 +15,7 @@
 
 ### 🟢 Food
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.08x
+- **Peak:** 1.08x | **Current:** 1.03x
 - **Mint:** `7fXC19srLd61qhFtuEPwDBQkH7qdrV9npPDoH4CUpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 medieval
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.92x | **Current:** 2.82x
+- **Peak:** 2.92x | **Current:** 2.75x
 - **Mint:** `DFFbJAcaearm5rAarRjKEs6bqbDePTtw677UYqJNpump`
 
 | Time | Action | SOL | TX |
@@ -90,7 +90,7 @@
 
 ### 🟢 TIM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.01x
+- **Peak:** 1.20x | **Current:** 1.07x
 - **Mint:** `GfDfRvhGbvCHrnuUbXB7z6RXosgZzTGCyP59Yvddpump`
 
 | Time | Action | SOL | TX |

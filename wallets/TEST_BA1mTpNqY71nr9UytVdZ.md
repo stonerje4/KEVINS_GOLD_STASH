@@ -15,7 +15,7 @@
 
 ### 🟢 TIM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.21x
+- **Peak:** 1.40x | **Current:** 1.40x
 - **Mint:** `AkJE6ZeP9Fjy686moEh1KUQuri7KMjp46xZCs9dWpump`
 
 | Time | Action | SOL | TX |

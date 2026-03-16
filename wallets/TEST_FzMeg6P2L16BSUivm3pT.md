@@ -15,7 +15,7 @@
 
 ### 🟢 BULL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `EXo8T5UsCcW7yeV7QAHpHkbyQpFY6ZFTfTJBi5R3pump`
 
 | Time | Action | SOL | TX |

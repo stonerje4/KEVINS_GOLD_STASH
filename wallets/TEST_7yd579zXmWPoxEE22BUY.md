@@ -15,14 +15,14 @@
 
 ### 🟢 PVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 1.13x
+- **Peak:** 1.37x | **Current:** 1.16x
 - **Mint:** `82BT1r4oiFWR9iJ5rxGD7zXZdE69SGayXUSsJULUpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:20:01 | BUY | 0.000600 | `31u8cW58ucyQ6Ecyu7pzEyvGiqhQcG...` |
 
-### 🔴 Ai-Free
+### 🟢 Ai-Free
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
 - **Peak:** 2.47x | **Current:** 1.31x
 - **Mint:** `84TbjZaquJg4cQjvtFNee5ep14NMpd28EkCnMwmcpump`

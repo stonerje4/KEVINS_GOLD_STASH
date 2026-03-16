@@ -31,7 +31,7 @@
 |------|--------|-----|----|
 | 2026-03-16 00:32:48 | BUY | 0.000600 | `3bmbMuSrhDQcFjkSiEBDvnLutZgRVM...` |
 
-### 🔴 MoonNigga
+### 🟢 MoonNigga
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
 - **Peak:** 3.55x | **Current:** 2.08x
 - **Mint:** `8wT6REomXYdUaknXruiXcRTR1APapg1QcJtowtScpump`
@@ -53,7 +53,7 @@
 | 2026-03-15 22:45:06 | SELL | 0.000368 | `5XDgxVmdG73wB8qpZfH7jkkzEg9xRq...` |
 | 2026-03-15 22:51:54 | SELL | 0.000725 | `3b3a4wCqup3mEFfY5QBQSfjnX6Y1u1...` |
 
-### 🟢 DORO
+### 🔴 DORO
 - **Status:** closed | **Exit:** ghost_close_stop_loss
 - **Peak:** 1.86x | **Current:** 0.69x
 - **Mint:** `EhHXDMC3UwX1SQnSVhETz4AeYRYPShvfBp95uQsApump`

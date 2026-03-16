@@ -22,7 +22,7 @@
 |------|--------|-----|----|
 | 2026-03-15 22:50:23 | BUY | 0.000600 | `3wtMSx28G6EcXbLyEZ1VyGeXCzYGoU...` |
 
-### 🔴 POKEMAPS
+### 🟢 POKEMAPS
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
 - **Peak:** 6.92x | **Current:** 4.00x
 - **Mint:** `4Ehuuwj6KBtcAaE21ahSMErATgiaU2hEFpn5o4Vtpump`

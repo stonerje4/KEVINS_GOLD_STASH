@@ -15,7 +15,7 @@
 
 ### 🟢 F4LC0N
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 1.10x
+- **Peak:** 1.16x | **Current:** 1.07x
 - **Mint:** `ABzzqEV6JTxyfRXNVmQutzsReHNgNy8oLzJ6oYWW1Amz`
 
 | Time | Action | SOL | TX |
