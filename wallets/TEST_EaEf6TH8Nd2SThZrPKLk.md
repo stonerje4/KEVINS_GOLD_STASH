@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 09:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 NEO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.26x | **Current:** 1.26x
 - **Mint:** `5vrMuKfggUADzES69XWd17L3ZVNmU9GLWbvBRCoFpump`
 
 | Time | Action | SOL | TX |
@@ -248,7 +248,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.22x
+- **Peak:** 1.59x | **Current:** 1.26x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

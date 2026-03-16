@@ -1,39 +1,59 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 09:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 130 |
-| Open | 33 |
-| Closed | 97 |
-| SOL In (closed) | 0.058200 |
-| SOL Out (sells) | 0.056475 |
-| **P&L** | **-0.001725 SOL** |
-| **ROI** | **-3.0%** |
+| Total Positions | 132 |
+| Open | 32 |
+| Closed | 100 |
+| SOL In (closed) | 0.060000 |
+| SOL Out (sells) | 0.058049 |
+| **P&L** | **-0.001951 SOL** |
+| **ROI** | **-3.3%** |
 
 ## Trades
 
+### 🔴 LEONARDO
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.54x
+- **Mint:** `2s8QQBu3qBGFg7o6Y77NCyiBFVnZGRm6ux2zT6nmpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:42:43 | BUY | 0.000600 | `26bXnJm4GExyqFGDdhQNVq6ieVek8f...` |
+| 2026-03-16 09:43:45 | SELL | 0.000322 | `4E7D7u5VgsufHe3UnQ5zzMFA7VLfzp...` |
+
+### 🟢 KiKi
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.84x
+- **Mint:** `8aPjWzHdoU7wcBoEKPyF3LPT33GQu76NQati6Fbapump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:41:36 | BUY | 0.000600 | `3J9H79DezioRQg9jg3PSRfPbD4Udae...` |
+
 ### 🟢 三毛
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.08x | **Current:** 1.03x
 - **Mint:** `8HPriW3U4HkwaDtbA5Nv1rc7yBjDbGFfbMLpnqkgpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:39:46 | BUY | 0.000600 | `3kn9cqWMFMMVtqbYWD1gowm8Cw4W25...` |
 
-### 🟢 Doraemon
-- **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 1.15x
+### 🔴 Doraemon
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.15x | **Current:** 0.60x
 - **Mint:** `6f3f79s2pacnfuj761jp1RsL5DdqxDfcUJgdSfJvpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:38:52 | BUY | 0.000600 | `4mTttTK1FMTirAbkv55g2feA1Rq6bu...` |
+| 2026-03-16 09:40:10 | SELL | 0.000362 | `ZL2gYGAPN5sWczfL8Mfjp12km7gMkT...` |
 
 ### 🟢 Iruka
 - **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 1.03x
+- **Peak:** 1.87x | **Current:** 1.63x
 - **Mint:** `4ACz4nKdAPaSoAZ6GoT3hcwW66jMgGdYZYTPQ7zfpump`
 
 | Time | Action | SOL | TX |
@@ -241,7 +261,7 @@
 
 ### 🟢 So16
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.13x | **Current:** 1.13x
 - **Mint:** `89pXvzP3dcXWzKZhvG6DznvGqcUYJb2xsNrxbfQjpump`
 
 | Time | Action | SOL | TX |
@@ -1252,14 +1272,15 @@
 | 2026-03-16 02:32:06 | SELL | 0.000420 | `416Bw5xGgLMeXboDc5PesWF4z9MUp1...` |
 
 ### 🟢 Species
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.92x | **Current:** 2.92x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.04x | **Current:** 2.15x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:11:57 | BUY | 0.000600 | `5LNMwX9GuC7keXgKpc4FFSmxND2G7i...` |
 | 2026-03-16 09:38:26 | SELL | 0.000370 | `2U3Y1gmstXGCNV1Qfs7VQEHUn3DcBP...` |
+| 2026-03-16 09:41:55 | SELL | 0.000890 | `2xVaHnUpaTL9T9pomgeGvqiDWZH8Ry...` |
 
 ### 🔴 UNEMPLOYED
 - **Status:** closed | **Exit:** ghost_close_stop_loss

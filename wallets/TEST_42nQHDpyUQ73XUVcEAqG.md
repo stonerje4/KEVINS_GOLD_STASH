@@ -1,17 +1,27 @@
 # [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-16 09:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
+| Total Positions | 2 |
 | Open | 0 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000419 |
-| **P&L** | **-0.000181 SOL** |
-| **ROI** | **-30.2%** |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.000532 |
+| **P&L** | **-0.000668 SOL** |
+| **ROI** | **-55.7%** |
 
 ## Trades
+
+### 🔴 BANA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.19x
+- **Mint:** `absXpUKYwzDDCQsdo8pLNfXAgCHoh8XCbLBd3c6pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:42:15 | BUY | 0.000600 | `3tuaqBWapZokyFf42HPL8PScTyrLwP...` |
+| 2026-03-16 09:43:08 | SELL | 0.000113 | `44jed254PzijtSiavPzNXkZa971kcK...` |
 
 ### 🔴 R2-D2
 - **Status:** closed | **Exit:** ghost_close_stop_loss
