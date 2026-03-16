@@ -1,21 +1,21 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 6 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
-| SOL Out (sells) | 0.001551 |
-| **P&L** | **-0.000249 SOL** |
-| **ROI** | **-13.9%** |
+| Open | 5 |
+| Closed | 4 |
+| SOL In (closed) | 0.002400 |
+| SOL Out (sells) | 0.002163 |
+| **P&L** | **-0.000237 SOL** |
+| **ROI** | **-9.9%** |
 
 ## Trades
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.03x
+- **Peak:** 1.10x | **Current:** 1.08x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
@@ -23,18 +23,19 @@
 | 2026-03-16 02:02:50 | BUY | 0.000600 | `2rym7ghvKbdDFFuWurcmtX3F6MkFSd...` |
 
 ### 🟢 DIMOS
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.34x | **Current:** 1.79x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.34x | **Current:** 1.45x
 - **Mint:** `HsHdzTK8FkSzhjf3NMgs61tVJEtocTYFFt7SqA61pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:40:42 | BUY | 0.000600 | `ujb1UvHMCngHNYf5S9zK6r5JEiHT1f...` |
 | 2026-03-16 02:17:59 | SELL | 0.000394 | `5CFwX9BxCDp5sz4XEcAxSe2iUJbuBd...` |
+| 2026-03-16 02:42:50 | SELL | 0.000612 | `3Q4neT3W9ycX2JhNVA9k7UY3pVM73g...` |
 
 ### 🟢 Coffeegate
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.89x
+- **Peak:** 1.09x | **Current:** 0.88x
 - **Mint:** `CJYgKNJ9G66YWbpu6FCYh7LVFzRQp1AZ3sqggmXCpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +44,7 @@
 
 ### 🟢 WhiteBoy 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.06x
+- **Peak:** 1.11x | **Current:** 1.00x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |
