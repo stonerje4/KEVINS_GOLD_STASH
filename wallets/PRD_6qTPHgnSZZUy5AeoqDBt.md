@@ -1,18 +1,29 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 22:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
-| Open | 5 |
+| Total Positions | 11 |
+| Open | 6 |
 | Closed | 5 |
 | W/L | 2/3 |
 | SOL In (closed) | 0.750000 |
 | **Closed P&L** | **-0.246591 SOL** |
 | **Closed ROI** | **-32.9%** |
-| Open Deployed | 0.750000 SOL |
+| Open Deployed | 0.900000 SOL |
 
 ## Trades
+
+### 🟢 Cock
+- **Status:** partial | **Exit:** open
+- **Peak:** 3.36x | **Current:** 0.00x
+- **Mint:** `3BwjZdnpnroSXzkFdtFxJ2BtRZ9Fm7KR39aJjRVTpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 22:01:04 | BUY | 0.150000 | `644kuPav5F8Yi9XViATcUkp76UwbAG...` |
+| 2026-03-16 22:02:01 | SELL | 0.032095 | `4DgCgsSnjHJQvTdmPY5iP1JVnpD8YP...` |
+| 2026-03-16 22:03:12 | SELL | 0.048982 | `5UaJ3DXfNRzmEu9JPftFqpsdvM7PRN...` |
 
 ### 🟢 DOGE‎
 - **Status:** open | **Exit:** open
