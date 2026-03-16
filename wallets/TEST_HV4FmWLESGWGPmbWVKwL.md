@@ -1,5 +1,5 @@
 # [TEST] Wallet: `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks`
-> Generated: 2026-03-16 18:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:56 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -42,6 +42,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 21:49:24 | BUY | 0.000600 | `ULuRHCZi3t9oDAfWYdq8E93KXVz39X...` |
+| 2026-03-16 18:55:54 | SELL | 0.000472 | `?` |
 
 ### 🔴 LATENT
 - **Status:** closed | **Exit:** ghost_close_stop_loss

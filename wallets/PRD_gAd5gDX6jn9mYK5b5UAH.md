@@ -1,5 +1,5 @@
 # [PRD] Wallet: `gAd5gDX6jn9mYK5b5UAHVC1o3hJWGZYUwG3bDKqZxXQ`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -22,7 +22,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 02:10:02 | BUY | 0.150000 | `5Tb87Vb3evYSoK2B84dnLE9ddqRX8Q...` |
-| 2026-03-15 09:23:16 | SELL | 0.000000 | `zeVWnKG8dc8wuUTorkrhB8tYiEh2Fe...` |
+| 2026-03-15 09:23:16 | SELL | 0.060000 | `zeVWnKG8dc8wuUTorkrhB8tYiEh2Fe...` |
 
 ### 🔴 WTI
 - **Status:** closed | **Exit:** stale_position_cleanup
@@ -32,9 +32,9 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-14 13:55:35 | BUY | 0.150000 | `N44Vwk76oxeRK3mcby2QXppynAABUD...` |
-| 2026-03-14 23:05:32 | SELL | 0.000000 | `5hBBd8BgFc5hRsbpE5LKsK6XY7yPi9...` |
+| 2026-03-14 23:05:32 | SELL | 0.089428 | `5hBBd8BgFc5hRsbpE5LKsK6XY7yPi9...` |
 
-### 🔴 SMC
+### 🟢 SMC
 - **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 2.52x | **Current:** 0.00x
 - **Mint:** `561UTEv1z52SbPfbF5r7huPZVHgc9ZMiHYpBx86bmoon`
@@ -42,7 +42,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-14 04:48:26 | BUY | 0.150000 | `6i195SuBUMhA9crZJgLReNTxBeSfTq...` |
-| 2026-03-14 20:05:24 | SELL | 0.000000 | `K8vGpCCnm8xemGmzFXP3Q41bbKH1xC...` |
+| 2026-03-14 20:05:24 | SELL | 0.151005 | `K8vGpCCnm8xemGmzFXP3Q41bbKH1xC...` |
 
 ### 🔴 FHOUSE
 - **Status:** closed | **Exit:** ghost_close_zero_balance

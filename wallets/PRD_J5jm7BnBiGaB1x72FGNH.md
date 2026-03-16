@@ -1,5 +1,5 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -54,7 +54,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 10:25:27 | BUY | 0.150000 | `59V4vxV7SA1iEuYUQfmuAgbDwTErVn...` |
-| 2026-03-15 16:36:13 | SELL | 0.000000 | `4F7n29BHRuj72ru8BSUbocnvdg2UwM...` |
+| 2026-03-15 16:36:13 | SELL | 0.062107 | `4F7n29BHRuj72ru8BSUbocnvdg2UwM...` |
 
 ### 🔴 ALPHAFOLD
 - **Status:** closed | **Exit:** stop_loss
@@ -129,7 +129,7 @@
 | 2026-03-14 21:11:58 | BUY | 0.150000 | `51mhnTGZaKUwh6q2kXXw7EgcXM5ya9...` |
 | 2026-03-14 21:15:57 | SELL | 0.054767 | `RDiuMJZ2ZvP6aaGdXLDqGwc4T752Zd...` |
 
-### 🔴 FEELS
+### 🟢 FEELS
 - **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 2.97x | **Current:** 0.00x
 - **Mint:** `EbK8127aS18E3jkrwsiQBKaKG5e5AZbpP73BDh21pump`
@@ -137,7 +137,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-14 19:52:01 | BUY | 0.150000 | `2nrpGzqvMQnsCRoxTBiwvTVjJQ1M5y...` |
-| 2026-03-16 09:04:07 | SELL | 0.000000 | `2GUULySGfed6r5MV91W9Lh9wD1Fjvm...` |
+| 2026-03-16 09:04:07 | SELL | 0.178101 | `2GUULySGfed6r5MV91W9Lh9wD1Fjvm...` |
 
 ### 🔴 S7263
 - **Status:** closed | **Exit:** stop_loss
@@ -157,7 +157,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-14 06:34:12 | BUY | 0.150000 | `3jW9iK9ZWzZ23JtD3N5DiWb7erGVBq...` |
-| 2026-03-15 06:05:51 | SELL | 0.000000 | `mvFz1BKbqPDB1giNAXxRiZktWVXBVD...` |
+| 2026-03-15 06:05:51 | SELL | 0.060095 | `mvFz1BKbqPDB1giNAXxRiZktWVXBVD...` |
 
 ### 🔴 stupid
 - **Status:** closed | **Exit:** stop_loss
@@ -177,9 +177,9 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-14 06:17:10 | BUY | 0.150000 | `3AN74gG6FijQRickhazKhxUC5P2iMF...` |
-| 2026-03-15 08:23:13 | SELL | 0.000000 | `rcQkbqkUpuMESxrXRN19TietjjBMqf...` |
+| 2026-03-15 08:23:13 | SELL | 0.141935 | `rcQkbqkUpuMESxrXRN19TietjjBMqf...` |
 
-### 🔴 JAMAL
+### 🟢 JAMAL
 - **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.49x | **Current:** 0.00x
 - **Mint:** `59jZYxkYtGoGmWFBNQbBzWnEBTP9Wn9k8sttcGFSpump`
@@ -190,7 +190,7 @@
 | 2026-03-14 04:54:21 | SELL | 0.183634 | `m24CJGcRjMFTEbCrbHPZHUDrLKfM4S...` |
 | 2026-03-14 05:06:56 | SELL | 0.109416 | `2tGp4Qbza7wAHfJsLgUKCStQmp5CZX...` |
 | 2026-03-14 05:43:07 | BUY | 0.150000 | `4ZGxCytF48KozwerLnSxQr8thnFA3x...` |
-| 2026-03-15 13:00:09 | SELL | 0.000000 | `3RYZDBcdxWo5Qx7wgGkdvhdTksMmBt...` |
+| 2026-03-15 13:00:09 | SELL | 0.089488 | `3RYZDBcdxWo5Qx7wgGkdvhdTksMmBt...` |
 
 ### 🔴 BOOTS
 - **Status:** closed | **Exit:** stale_position_cleanup
@@ -200,7 +200,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-14 02:03:37 | BUY | 0.150000 | `2duPbPrtDy7a6fbHUwVXKsUknnxhL6...` |
-| 2026-03-15 02:05:41 | SELL | 0.000000 | `BodyLvxcrn5mD1jjSEpF3BKvntBrgF...` |
+| 2026-03-15 02:05:41 | SELL | 0.085028 | `BodyLvxcrn5mD1jjSEpF3BKvntBrgF...` |
 
 ### 🔴 Ocean
 - **Status:** closed | **Exit:** stop_loss
@@ -305,7 +305,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-12 09:22:20 | BUY | 0.050000 | `F41SWwCvZ1ojpgHZUrY8iYCoFRmNp8...` |
-| 2026-03-12 15:35:29 | SELL | 0.000000 | `4XKNCxuxmK8fgiXMBBuvri4E1y8hZs...` |
+| 2026-03-12 15:35:29 | SELL | 0.032392 | `4XKNCxuxmK8fgiXMBBuvri4E1y8hZs...` |
 
 ### 🟢 skir 
 - **Status:** closed | **Exit:** stop_loss

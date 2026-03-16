@@ -1,5 +1,5 @@
 # [PRD] Wallet: `AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -22,7 +22,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:23:14 | BUY | 0.150000 | `2pjZE9zb7Ls4Q9BBYYiinyBe6eK7jB...` |
-| 2026-03-16 13:24:07 | SELL | 0.000000 | `5RihibRCrWZXq7jd4DkAMb7DCNX8bH...` |
+| 2026-03-16 13:24:07 | SELL | 0.062853 | `5RihibRCrWZXq7jd4DkAMb7DCNX8bH...` |
 
 ### 🔴 tiger
 - **Status:** closed | **Exit:** stop_loss

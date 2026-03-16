@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 18:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:56 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -379,6 +379,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:05:19 | BUY | 0.000600 | `SupTSebJQXo8Z6oQZosqFRjxFJ6QAr...` |
+| 2026-03-16 18:55:54 | SELL | 0.000536 | `?` |
 
 ### 🔴 UDC
 - **Status:** closed | **Exit:** stale_cleanup
@@ -388,6 +389,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:29:14 | BUY | 0.000600 | `5tPLT25bYESaE3zkz2D2AYSboAnxhZ...` |
+| 2026-03-16 18:55:54 | SELL | 0.000511 | `?` |
 
 ### 🔴 FOOD
 - **Status:** closed | **Exit:** stale_cleanup
@@ -397,6 +399,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:12:49 | BUY | 0.000600 | `JBCkgyhQfZiYnkGLq7xgJNyrCnnVpq...` |
+| 2026-03-16 18:55:54 | SELL | 0.000504 | `?` |
 
 ### 🔴 bizfun
 - **Status:** closed | **Exit:** stale_cleanup
@@ -406,6 +409,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 00:54:32 | BUY | 0.000600 | `2zoFKW7t8Mu1tcdJCzy7VGpWLj6Nto...` |
+| 2026-03-16 18:55:54 | SELL | 0.000508 | `?` |
 
 ### 🔴 PROXY
 - **Status:** closing | **Exit:** stale_cleanup
@@ -415,6 +419,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 00:45:56 | BUY | 0.000600 | `3f1Wny53Xg4Ge2eMrLbMpQbkVtqkDu...` |
+| 2026-03-16 18:55:54 | SELL | 0.000529 | `?` |
 
 ### 🔴 HBB
 - **Status:** closed | **Exit:** stale_cleanup
@@ -424,6 +429,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:25:46 | BUY | 0.000600 | `3pV7kAsStkQuLaUcUxA4PKmpoZPDL4...` |
+| 2026-03-16 18:55:54 | SELL | 0.000544 | `?` |
 
 ### 🔴 ZEBRA
 - **Status:** closed | **Exit:** stale_cleanup
@@ -433,6 +439,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:17:36 | BUY | 0.000600 | `3soAb6bhBJ7Fo8JZT6CGBA8UGTnQwu...` |
+| 2026-03-16 18:55:54 | SELL | 0.000517 | `?` |
 
 ### 🔴 PIGEON
 - **Status:** closed | **Exit:** stale_cleanup
@@ -442,6 +449,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 21:58:45 | BUY | 0.000600 | `2E7nSCdvGLM7WJkM4xyhXxt3dNvG8E...` |
+| 2026-03-16 18:55:54 | SELL | 0.000526 | `?` |
 
 ### 🔴 WOOPA
 - **Status:** closed | **Exit:** stale_cleanup
@@ -451,4 +459,5 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 21:47:03 | BUY | 0.000600 | `2SuMmGnxTPaft66cPwvmEZFAbCwLpq...` |
+| 2026-03-16 18:55:54 | SELL | 0.000459 | `?` |
 

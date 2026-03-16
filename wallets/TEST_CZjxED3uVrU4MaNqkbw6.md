@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 18:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:56 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -82,6 +82,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 00:32:48 | BUY | 0.000600 | `3bmbMuSrhDQcFjkSiEBDvnLutZgRVM...` |
+| 2026-03-16 18:55:54 | SELL | 0.000433 | `?` |
 
 ### 🟢 MoonNigga
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

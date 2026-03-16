@@ -1,5 +1,5 @@
 # [PRD] Wallet: `r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -35,7 +35,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 0.00x
+- **Peak:** 1.65x | **Current:** 0.00x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -59,7 +59,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 23:02:21 | BUY | 0.150000 | `3zERcur268nasqBdhYh8XUHNXDJ8Zz...` |
-| 2026-03-16 06:04:03 | SELL | 0.000000 | `2FFjKtHro2dGUU9jwFqV8CnAEdoY6C...` |
+| 2026-03-16 06:04:03 | SELL | 0.061238 | `2FFjKtHro2dGUU9jwFqV8CnAEdoY6C...` |
 
 ### 🔴 Catman
 - **Status:** closed | **Exit:** stop_loss
@@ -110,7 +110,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-13 04:53:55 | BUY | 0.150000 | `5ExxjnR3otsNQXAaMn9EMTv8Th85JY...` |
-| 2026-03-13 11:43:23 | SELL | 0.000000 | `42UBheKXfsga3bvQy5X5ipk4wVKPN1...` |
+| 2026-03-13 11:43:23 | SELL | 0.067370 | `42UBheKXfsga3bvQy5X5ipk4wVKPN1...` |
 
 ### 🔴 GAS
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -132,7 +132,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-12 09:05:04 | BUY | 0.050000 | `64ZLz6cbuXYQzbrDHKkna2a4q82wYi...` |
-| 2026-03-12 15:35:09 | SELL | 0.000000 | `51TNUQx6aCPVTqKZT183ooXnCc9Jwj...` |
+| 2026-03-12 15:35:09 | SELL | 0.025232 | `51TNUQx6aCPVTqKZT183ooXnCc9Jwj...` |
 
 ### 🟢 WFUSD
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -156,7 +156,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-11 22:20:30 | BUY | 0.050000 | `4oiad1MhE2tCNidxg4wgbFwwDamKQL...` |
-| 2026-03-12 05:15:55 | SELL | 0.000000 | `5zA1uj7V2nQio97UMjGn1nDC5VAjoB...` |
+| 2026-03-12 05:15:55 | SELL | 0.021880 | `5zA1uj7V2nQio97UMjGn1nDC5VAjoB...` |
 
 ### 🔴 LOBCOIN
 - **Status:** closed | **Exit:** ghost_close_zero_balance

@@ -1,5 +1,5 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -51,7 +51,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:31:15 | BUY | 0.150000 | `4LHJAVNLnotra5noi7fYgmmh65EEbw...` |
-| 2026-03-16 13:24:05 | SELL | 0.000000 | `2X7ejixPwq2eMEBMbqUaC2of3J8TLe...` |
+| 2026-03-16 13:24:05 | SELL | 0.065643 | `2X7ejixPwq2eMEBMbqUaC2of3J8TLe...` |
 
 ### 🟢 STEAK
 - **Status:** open | **Exit:** open
@@ -80,7 +80,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:36:36 | BUY | 0.150000 | `4pQZD5Za2NKk63WQQq8xxgEehGmB3x...` |
-| 2026-03-16 15:24:02 | SELL | 0.000000 | `3MeYywUYkC8RgNdpF8sXY8FV3gXS7Z...` |
+| 2026-03-16 15:24:02 | SELL | 0.066909 | `3MeYywUYkC8RgNdpF8sXY8FV3gXS7Z...` |
 
 ### 🔴 ALPHAFOLD
 - **Status:** closed | **Exit:** stale_position_cleanup
@@ -90,7 +90,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 06:17:21 | BUY | 0.150000 | `3AqZRBuvPEfANtuV3KBhidDK8BqUxE...` |
-| 2026-03-15 15:00:13 | SELL | 0.000000 | `5jrknGnneFb3CRNCNxAydXmTqB567d...` |
+| 2026-03-15 15:00:13 | SELL | 0.063167 | `5jrknGnneFb3CRNCNxAydXmTqB567d...` |
 
 ### 🔴 ALPHAFOLD
 - **Status:** closed | **Exit:** stop_loss
@@ -179,7 +179,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-14 06:43:03 | BUY | 0.150000 | `QCxJtP37WgUXwYtmFW2wV5iD5tWPHh...` |
-| 2026-03-14 13:05:20 | SELL | 0.000000 | `5DyT2CdeZU86xYBQCxWAh4UAKaJDAu...` |
+| 2026-03-14 13:05:20 | SELL | 0.060000 | `5DyT2CdeZU86xYBQCxWAh4UAKaJDAu...` |
 
 ### 🔴 Skynet
 - **Status:** closed | **Exit:** stop_loss
@@ -243,7 +243,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-13 19:26:52 | BUY | 0.150000 | `3394tc5hdVN3pKGYAusa675a1xNzGt...` |
-| 2026-03-14 08:24:11 | SELL | 0.000000 | `3nYMjWpbPaJuyTRz6J81sszUDk3qhi...` |
+| 2026-03-14 08:24:11 | SELL | 0.107178 | `3nYMjWpbPaJuyTRz6J81sszUDk3qhi...` |
 
 ### 🔴 LINE
 - **Status:** closed | **Exit:** stale_position_cleanup
@@ -253,7 +253,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-13 09:19:21 | BUY | 0.150000 | `3peB9dxy8o9bECBr9oWuHJejynHtqh...` |
-| 2026-03-14 01:23:56 | SELL | 0.000000 | `5kdbVjrgTiE2WGr9yYR9NxpiXrGSAW...` |
+| 2026-03-14 01:23:56 | SELL | 0.060000 | `5kdbVjrgTiE2WGr9yYR9NxpiXrGSAW...` |
 
 ### 🟢 Squishy
 - **Status:** closed | **Exit:** runner_trailing_stop

@@ -1,5 +1,5 @@
 # [PRD] Wallet: `EJEyPiUfUmx3wDTtVfTzduNyNAWtQdwodFQjnJmjvmCQ`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -54,7 +54,7 @@
 | 2026-03-15 00:52:35 | BUY | 0.150000 | `4cJpnkKQNNG6bDAKSYs6Uj5toeZmPT...` |
 | 2026-03-15 00:52:50 | SELL | 0.084007 | `457kqAFf2TMMcrCm23RerNWyWMKgeK...` |
 
-### 🔴 JAMAL
+### 🟢 JAMAL
 - **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 4.68x | **Current:** 0.00x
 - **Mint:** `59jZYxkYtGoGmWFBNQbBzWnEBTP9Wn9k8sttcGFSpump`
@@ -65,7 +65,7 @@
 | 2026-03-14 04:54:21 | SELL | 0.183634 | `m24CJGcRjMFTEbCrbHPZHUDrLKfM4S...` |
 | 2026-03-14 05:06:56 | SELL | 0.109416 | `2tGp4Qbza7wAHfJsLgUKCStQmp5CZX...` |
 | 2026-03-14 05:43:07 | BUY | 0.150000 | `4ZGxCytF48KozwerLnSxQr8thnFA3x...` |
-| 2026-03-15 13:00:09 | SELL | 0.000000 | `3RYZDBcdxWo5Qx7wgGkdvhdTksMmBt...` |
+| 2026-03-15 13:00:09 | SELL | 0.089488 | `3RYZDBcdxWo5Qx7wgGkdvhdTksMmBt...` |
 
 ### 🔴 APOPHENOTH
 - **Status:** closed | **Exit:** stop_loss
@@ -85,7 +85,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-12 04:01:21 | BUY | 0.050000 | `34BDmpNsPGqfzuhuMC8PSxzoEXtQqp...` |
-| 2026-03-13 00:36:14 | SELL | 0.000000 | `3jQgySGLmTCTwPYzyQyxth9EBcBrwv...` |
+| 2026-03-13 00:36:14 | SELL | 0.028543 | `3jQgySGLmTCTwPYzyQyxth9EBcBrwv...` |
 
 ### 🔴 ZILLA
 - **Status:** closed | **Exit:** stop_loss
@@ -163,7 +163,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-11 05:21:26 | BUY | 0.050000 | `5EsFXB7nfmEedJVG8634rvUeWEHCg1...` |
-| 2026-03-12 04:15:54 | SELL | 0.000000 | `B51nhRn249KWy3zCgZBsTA4jYnE8ho...` |
+| 2026-03-12 04:15:54 | SELL | 0.038016 | `B51nhRn249KWy3zCgZBsTA4jYnE8ho...` |
 
 ### 🔴 Spaghetti
 - **Status:** closed | **Exit:** stale_position_cleanup
@@ -173,7 +173,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-11 01:09:14 | BUY | 0.050000 | `4eA2JHRzWYp2EgSTxqYjR1ccnnDxiS...` |
-| 2026-03-11 23:40:00 | SELL | 0.000000 | `3aSuRsRyRXYdzESMRnFpZTSV4Y1Ett...` |
+| 2026-03-11 23:40:00 | SELL | 0.021556 | `3aSuRsRyRXYdzESMRnFpZTSV4Y1Ett...` |
 
 ### 🔴 ORCA
 - **Status:** closed | **Exit:** stale_position_cleanup
@@ -183,7 +183,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-10 08:59:53 | BUY | 0.050000 | `ATRQF1Fbs3y1zHjsv6YWbZHRsh5fdk...` |
-| 2026-03-11 23:57:07 | SELL | 0.000000 | `5AB1NNMZTg3quzCtS7cXXcBQ3YwmNQ...` |
+| 2026-03-11 23:57:07 | SELL | 0.038001 | `5AB1NNMZTg3quzCtS7cXXcBQ3YwmNQ...` |
 
 ### 🔴 OPENCLAPP
 - **Status:** closed | **Exit:** manual_sell

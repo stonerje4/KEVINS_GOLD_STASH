@@ -1,5 +1,5 @@
 # [PRD] Wallet: `9rb2ChEjkkCYGiHB97yssryBf8sh2W49MeyLUs69cKyS`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -177,7 +177,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-11 11:30:38 | BUY | 0.050000 | `YK36WJKtEWFrfNbSTRhUGoeBKFQQUx...` |
-| 2026-03-11 19:12:39 | SELL | 0.000000 | `4qcVtTSk1ETkeKt6YTXFfYJE3jbiAB...` |
+| 2026-03-11 19:12:39 | SELL | 0.020000 | `4qcVtTSk1ETkeKt6YTXFfYJE3jbiAB...` |
 
 ### 🔴 Rabbits
 - **Status:** closed | **Exit:** stop_loss

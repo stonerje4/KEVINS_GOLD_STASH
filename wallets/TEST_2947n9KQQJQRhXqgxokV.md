@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 18:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:56 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -156,7 +156,7 @@
 | 2026-03-16 01:09:29 | BUY | 0.000600 | `3NM3D7ySV4jUHnwMxtrnNQaZMaAQrj...` |
 | 2026-03-16 02:37:11 | SELL | 0.000382 | `4BZ1GhwwftJscgVNQ5H3gHPAeBhnC8...` |
 
-### 🔴 WRT CTO
+### 🟢 WRT CTO
 - **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.01x | **Current:** 1.01x
 - **Mint:** `F4eRhkJYkkpzB539QS5EAg5ZEsJ3wR1ioTv5zjv9pump`
@@ -164,4 +164,5 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:08:34 | BUY | 0.000600 | `4CzXdznSt6ZJcEdHAndp2YVJ2xmCFz...` |
+| 2026-03-16 18:55:54 | SELL | 0.000604 | `?` |
 

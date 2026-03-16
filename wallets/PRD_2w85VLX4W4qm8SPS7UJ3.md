@@ -1,5 +1,5 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -222,7 +222,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-12 15:52:33 | BUY | 0.050000 | `1L58GHxDvXeJFB3ntXmuricwJj5NhQ...` |
-| 2026-03-12 22:35:30 | SELL | 0.000000 | `3Pw1FBFMEpuhgHk3srJ5LtijYdFApG...` |
+| 2026-03-12 22:35:30 | SELL | 0.021221 | `3Pw1FBFMEpuhgHk3srJ5LtijYdFApG...` |
 
 ### 🔴 AMIGA
 - **Status:** closed | **Exit:** stop_loss

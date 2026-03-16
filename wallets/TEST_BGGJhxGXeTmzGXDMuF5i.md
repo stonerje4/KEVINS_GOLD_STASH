@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
-> Generated: 2026-03-16 18:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:56 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -134,7 +134,7 @@
 |------|--------|-----|----|
 | 2026-03-16 06:40:17 | BUY | 0.000600 | `AZye6jz5JcSQ7mGDArywWdTm3AgxeD...` |
 
-### 🔴 UGOR
+### 🟢 UGOR
 - **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.19x | **Current:** 1.18x
 - **Mint:** `BrMCfEuqxCAFqvCnLo8uxeHFvQb4mdif4RncgnxYpump`
@@ -142,6 +142,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:07:51 | BUY | 0.000600 | `2kJKSy9iNprnZetdH3iRwzqkCEvVrY...` |
+| 2026-03-16 18:55:54 | SELL | 0.000709 | `?` |
 
 ### 🔴 WRT
 - **Status:** closed | **Exit:** stale_cleanup
@@ -151,4 +152,5 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 21:39:09 | BUY | 0.010000 | `NgDtEntW6LBebSnRoN5KhQWGxbt71t...` |
+| 2026-03-16 18:55:54 | SELL | 0.008886 | `?` |
 

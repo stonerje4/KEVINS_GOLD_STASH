@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 18:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:56 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -539,6 +539,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:49:41 | BUY | 0.000600 | `5b1uXjgmRhuK5J5DLPFTSM4MQXGo5M...` |
+| 2026-03-16 18:55:54 | SELL | 0.000473 | `?` |
 
 ### 🔴 Signets
 - **Status:** closed | **Exit:** stale_cleanup
@@ -548,6 +549,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:31:44 | BUY | 0.000600 | `4LGGJqvYaebiKSbg42xsQdgohv7Sca...` |
+| 2026-03-16 18:55:54 | SELL | 0.000496 | `?` |
 
 ### 🔴 TRUMPHOUSE
 - **Status:** closed | **Exit:** stale_cleanup
@@ -557,6 +559,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:22:18 | BUY | 0.000600 | `VSSBpqFLey8wgGHk12Y1jPsYctcuuC...` |
+| 2026-03-16 18:55:54 | SELL | 0.000463 | `?` |
 
 ### 🔴 navicooks
 - **Status:** closed | **Exit:** stale_cleanup
@@ -566,6 +569,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:12:52 | BUY | 0.000600 | `3c3Fiu2ahUXjrAvNDeR7qAVmyjYiL3...` |
+| 2026-03-16 18:55:54 | SELL | 0.000497 | `?` |
 
 ### 🔴 NPC
 - **Status:** closed | **Exit:** stale_cleanup
@@ -575,6 +579,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 00:25:48 | BUY | 0.000600 | `4L5gMULL67swqjYDAaYqT9zXE11TLg...` |
+| 2026-03-16 18:55:54 | SELL | 0.000514 | `?` |
 
 ### 🔴 SolBDay
 - **Status:** closed | **Exit:** stale_cleanup
@@ -584,6 +589,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:52:02 | BUY | 0.000600 | `2MB5VMWrSYudcCYeMLKTbhE6sAFDRY...` |
+| 2026-03-16 18:55:54 | SELL | 0.000531 | `?` |
 
 ### 🔴 WRT
 - **Status:** closed | **Exit:** stale_cleanup
@@ -593,6 +599,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:38:34 | BUY | 0.000600 | `wFuTb9nH1ojzneJLWXJsXdHPARHyxF...` |
+| 2026-03-16 18:55:54 | SELL | 0.000562 | `?` |
 
 ### 🔴 KeyA
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -612,6 +619,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:19:55 | BUY | 0.000600 | `5FMpzBen24Ab7xN1dqSzG1JniDCKV1...` |
+| 2026-03-16 18:55:54 | SELL | 0.000548 | `?` |
 
 ### 🔴 CSS
 - **Status:** closed | **Exit:** stale_cleanup
@@ -621,8 +629,9 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 21:44:20 | BUY | 0.000600 | `5fMzc9FSJ8sng8B4KkArJF7hKJvQjd...` |
+| 2026-03-16 18:55:54 | SELL | 0.000501 | `?` |
 
-### 🔴 xaicash
+### 🟢 xaicash
 - **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.67x | **Current:** 1.03x
 - **Mint:** `DtN37CUdr5B2LQtJGG2ktmUGXk27UsTYbDQddCiCpump`
@@ -630,4 +639,5 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 21:40:54 | BUY | 0.010000 | `642QkZthH2CoKYfotcwrsPwEqTFXeX...` |
+| 2026-03-16 18:55:54 | SELL | 0.010301 | `?` |
 

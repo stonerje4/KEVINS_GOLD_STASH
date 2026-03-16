@@ -1,5 +1,5 @@
 # [PRD] Wallet: `8QfqdUJtdpq4zFVzpengB575MDZhk1Tgf8J7JXKmkGpM`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -147,7 +147,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-11 11:17:47 | BUY | 0.050000 | `bcmHoVZ7id3TvXUFLdYt4fbNFGAS4K...` |
-| 2026-03-12 06:16:28 | SELL | 0.000000 | `8QQrKR9t4VAw52DjaYPzvazcBEhFaB...` |
+| 2026-03-12 06:16:28 | SELL | 0.023195 | `8QQrKR9t4VAw52DjaYPzvazcBEhFaB...` |
 
 ### 🔴 PAPI
 - **Status:** closed | **Exit:** stop_loss

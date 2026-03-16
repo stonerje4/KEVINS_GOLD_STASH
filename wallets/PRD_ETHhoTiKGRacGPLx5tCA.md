@@ -1,5 +1,5 @@
 # [PRD] Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
-> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:56 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -32,7 +32,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-12 16:17:59 | BUY | 0.050000 | `5z1ANrwusYjVjsBX51yiBq88i9Bd1C...` |
-| 2026-03-12 22:35:45 | SELL | 0.000000 | `4mxCijeQ4yxa4zsQ4gfE7VmJD3DgXh...` |
+| 2026-03-12 22:35:45 | SELL | 0.020065 | `4mxCijeQ4yxa4zsQ4gfE7VmJD3DgXh...` |
 
 ### 🟢 GAS
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -53,7 +53,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-12 14:32:49 | BUY | 0.050000 | `3emwuSSattM2SmzkVBGwV9hL9JEgdt...` |
-| 2026-03-12 17:35:17 | SELL | 0.000000 | `2dQLFRTWgUmLia5rJmUNF8xpL8Sycc...` |
+| 2026-03-12 17:35:17 | SELL | 0.020000 | `2dQLFRTWgUmLia5rJmUNF8xpL8Sycc...` |
 
 ### 🔴 PRED
 - **Status:** closed | **Exit:** stop_loss
@@ -73,7 +73,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-12 13:22:47 | BUY | 0.050000 | `4KLg6WHf9wDk4E6PBV4gyuuLA4ed9f...` |
-| 2026-03-12 19:35:58 | SELL | 0.000000 | `5FHYtKamq9eqoEUH4CjguJeywWrxps...` |
+| 2026-03-12 19:35:58 | SELL | 0.021445 | `5FHYtKamq9eqoEUH4CjguJeywWrxps...` |
 
 ### 🟢 SOS
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -95,7 +95,7 @@
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-12 13:15:17 | BUY | 0.050000 | `5uHPsQcDDmWVUyC7EPV1XZHn7bLWYd...` |
-| 2026-03-12 19:35:42 | SELL | 0.000000 | `4DXkgzTy3i9fBKvEhpHXSrUfRVmj8t...` |
+| 2026-03-12 19:35:42 | SELL | 0.020000 | `4DXkgzTy3i9fBKvEhpHXSrUfRVmj8t...` |
 | 2026-03-13 03:05:08 | BUY | 0.150000 | `54Cv3bPWxVAsjrAhyxbfbmNh4VMbpk...` |
-| 2026-03-13 10:44:20 | SELL | 0.000000 | `3tMebiEvZcrhbprYiF6zLpXmjXQhrx...` |
+| 2026-03-13 10:44:20 | SELL | 0.020000 | `3tMebiEvZcrhbprYiF6zLpXmjXQhrx...` |
 
