@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 08:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 26 |
-| Open | 1 |
+| Total Positions | 27 |
+| Open | 2 |
 | Closed | 25 |
 | SOL In (closed) | 0.015000 |
 | SOL Out (sells) | 0.016316 |
@@ -12,6 +12,15 @@
 | **ROI** | **+8.8%** |
 
 ## Trades
+
+### 🟢 PANDA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.92x
+- **Mint:** `2XDy7GJQNS96HFyMfzNqGg78jS9pFb8U1cJsgWSKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:14:25 | BUY | 0.000600 | `4obgjqfZ1FTz6R7M433puQYZJW7Rmi...` |
 
 ### 🔴 JOBLESS
 - **Status:** closed | **Exit:** ghost_close_stop_loss
