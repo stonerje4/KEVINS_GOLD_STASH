@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 14:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.11x
+- **Peak:** 1.90x | **Current:** 1.15x
 - **Mint:** `CafXWB7PWgXsPYyQ7A3hqpQhjrZdYPe59TUQnpXWpump`
 
 | Time | Action | SOL | TX |
@@ -157,7 +157,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.72x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |
