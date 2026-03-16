@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo`
-> Generated: 2026-03-16 03:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
+| Total Positions | 3 |
 | Open | 0 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.000754 |
-| **P&L** | **-0.000446 SOL** |
-| **ROI** | **-37.1%** |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
+| SOL Out (sells) | 0.001145 |
+| **P&L** | **-0.000655 SOL** |
+| **ROI** | **-36.4%** |
 
 ## Trades
+
+### 🔴 HiQ
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.05x | **Current:** 0.65x
+- **Mint:** `5Pzj5uBmVoXbjoaCzkmxZ5KmEH3f4ktunUifky8rpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:56:42 | BUY | 0.000600 | `2J5N9ZxskofTnUaSLQXxq9YnGXLH7F...` |
+| 2026-03-16 03:58:43 | SELL | 0.000390 | `2cWRQg6LUJQ3RKLxgTcbAcrNfRSb93...` |
 
 ### 🔴 May9
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 03:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
-| Open | 1 |
+| Total Positions | 2 |
+| Open | 2 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.004039 |
@@ -14,8 +14,17 @@
 ## Trades
 
 ### 🟢 imagine
+- **Status:** open | **Exit:** open
+- **Peak:** 1.27x | **Current:** 1.27x
+- **Mint:** `7dg3hHLGaUQLbR7fEZaeUxcqZ88Atg3xPGrAimjvpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:55:15 | BUY | 0.000600 | `BNXn6WDYTbyiQKCaQSCC8Qiyp9v6uc...` |
+
+### 🟢 imagine
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 12.18x | **Current:** 8.55x
+- **Peak:** 13.40x | **Current:** 9.03x
 - **Mint:** `DF9YA8CLGNndth6cNDt9PrALNFmJJgr5sSXEQJmCpump`
 
 | Time | Action | SOL | TX |

@@ -1,26 +1,36 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 03:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 13 |
+| Total Positions | 14 |
 | Open | 1 |
-| Closed | 12 |
-| SOL In (closed) | 0.007200 |
-| SOL Out (sells) | 0.006599 |
-| **P&L** | **-0.000601 SOL** |
-| **ROI** | **-8.3%** |
+| Closed | 13 |
+| SOL In (closed) | 0.007800 |
+| SOL Out (sells) | 0.006986 |
+| **P&L** | **-0.000814 SOL** |
+| **ROI** | **-10.4%** |
 
 ## Trades
 
-### 🟢 <3
+### 🟢 Glowcat
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 1.05x
+- **Peak:** 1.28x | **Current:** 1.19x
+- **Mint:** `2XZi6MZqiMWJD7FLURitXeXHmokgSpqsMxv9arfdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:56:39 | BUY | 0.000600 | `QoF9PpNVNL7RBqLNC33Tr1z1Un9ibP...` |
+
+### 🔴 <3
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.05x | **Current:** 0.65x
 - **Mint:** `Dn6whVGPrshGjqbjuL21HQwV4fa6s4yfqwnBT5Gjpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:54:36 | BUY | 0.000600 | `5sdJ1Nn4H4dnzCfPASXD8dcw5Cfi1N...` |
+| 2026-03-16 03:56:46 | SELL | 0.000387 | `4tyWLjDioKZMw7dAPggG7gpkM7qzVy...` |
 
 ### 🟢 Grokify
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
