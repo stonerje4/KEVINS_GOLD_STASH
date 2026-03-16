@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 04:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 18 |
-| Open | 16 |
+| Total Positions | 19 |
+| Open | 17 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.002357 |
@@ -12,6 +12,15 @@
 | **ROI** | **+96.4%** |
 
 ## Trades
+
+### 🟢 Nostalgia
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.88x
+- **Mint:** `EBhMuwaPzF3uDWoeRjAKMMwjBWhoGNttJeh3bhr7pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:40:33 | BUY | 0.000600 | `LLQZsguYk9rFGVyi2T3j5Uwe1r9k3W...` |
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
@@ -24,7 +33,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |
@@ -145,7 +154,7 @@
 
 ### 🟢 HBB
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.90x
 - **Mint:** `Hip6YqPPfLPofk5payVGbdhcWpvCj5MNXonkf1sZpump`
 
 | Time | Action | SOL | TX |
@@ -172,7 +181,7 @@
 
 ### 🟢 WOOPA
 - **Status:** partial | **Exit:** stale_cleanup
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `C5DLfd6Ve2mrxJVrcqqawpPBcVFYRGPqqay8Qddipump`
 
 | Time | Action | SOL | TX |

@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 04:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 0 |
+| Total Positions | 7 |
+| Open | 2 |
 | Closed | 5 |
 | SOL In (closed) | 0.003000 |
 | SOL Out (sells) | 0.006465 |
@@ -12,6 +12,24 @@
 | **ROI** | **+115.5%** |
 
 ## Trades
+
+### 🟢 Gymskin
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.79x
+- **Mint:** `CY19qfakNW6YfhtVtXGKo2YMfiS8h53kiuM9yJGqpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:43:06 | BUY | 0.000600 | `2GqxjLtAM9mQj6B434LUUWuUGhDAVP...` |
+
+### 🟢 TORIVA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 1.01x
+- **Mint:** `DvKyYQGmXeL6hxigoGhB6ocwT2zZvQ59oN5ALMBTpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:41:21 | BUY | 0.000600 | `F4Qo67MJAi9XQSgwXf8274c6EkCf5o...` |
 
 ### 🟢 Salary
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
