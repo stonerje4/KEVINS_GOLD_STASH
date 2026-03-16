@@ -1,27 +1,28 @@
 # [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 8 |
-| Open | 3 |
-| Closed | 5 |
-| W/L | 5/0 |
-| SOL In (closed) | 0.002000 |
-| **Closed P&L** | **+0.004142 SOL** |
-| **Closed ROI** | **+207.1%** |
-| Open Deployed | 0.000300 SOL |
+| Open | 2 |
+| Closed | 6 |
+| W/L | 6/0 |
+| SOL In (closed) | 0.002100 |
+| **Closed P&L** | **+0.004166 SOL** |
+| **Closed ROI** | **+198.4%** |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
-### 🟢 AGENT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.43x
+### 🔴 AGENT
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.19x | **Current:** 0.24x
 - **Mint:** `8HSrJibavyoqb938oEh8ro8Q5AdFvQb8fM2oLbGEpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:14:06 | BUY | 0.000100 | `2LKWoRSRafLDgUR4FyTRMSwHKDAQX1...` |
+| 2026-03-16 23:18:56 | SELL | 0.000024 | `5ptJPKtg2tg4KQZmBArnXJPh4Rnn4F...` |
 
 ### 🔴 BAGPRESIDENTT
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -54,7 +55,7 @@
 
 ### 🟢 BOBO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.51x
+- **Peak:** 1.21x | **Current:** 0.49x
 - **Mint:** `BJwd9vZ2di3RWspBK2jGGKkHdLQ1nqRhfwe1LhHjpump`
 
 | Time | Action | SOL | TX |

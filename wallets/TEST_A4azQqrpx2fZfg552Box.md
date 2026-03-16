@@ -1,22 +1,40 @@
 # [TEST] Wallet: `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 6 |
+| Total Positions | 9 |
+| Open | 8 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000600 |
 | **Closed P&L** | **+0.000401 SOL** |
 | **Closed ROI** | **+66.8%** |
-| Open Deployed | 0.002600 SOL |
+| Open Deployed | 0.002700 SOL |
 
 ## Trades
 
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `AoCrSh4exxqB4C7kb3gqqwHYcXJWMfxZEkeD5iEnpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:19:01 | BUY | 0.000100 | `57nG7XUu9YqFNEpkw9xosbKZQo4UBk...` |
+
+### ⚪ UGOR
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `A1gxRbRLE6n8zjiwh3geFqt4w4iofH25VFtd4M9ipump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:18:11 | BUY | 0.000100 | `nrdi3odiQuaXg7Wjni4h2e8MuGcknG...` |
+
 ### 🟢 SOS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.32x | **Current:** 1.09x
+- **Peak:** 1.32x | **Current:** 1.07x
 - **Mint:** `E27eeQynh5CGpDoMxZW6JNvKQTZKvm7ygxP3tzs2pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +43,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `ANVwU7uDn3P3RAx8mTRy5uhoeDcJNRzjQXNqYzXgpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +61,7 @@
 
 ### 🟢 FOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
+- **Peak:** 1.00x | **Current:** 0.74x
 - **Mint:** `GhE5GEZJ7FgGZYzyYBHP7SHef7DSV9X1BWiFd9qKpump`
 
 | Time | Action | SOL | TX |
@@ -71,7 +89,7 @@
 
 ### 🟢 XAIC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `Ch5Mswr2E1h6TZyGk7nzkTfP5ZBgTN1Mgh5U6HNNpump`
 
 | Time | Action | SOL | TX |

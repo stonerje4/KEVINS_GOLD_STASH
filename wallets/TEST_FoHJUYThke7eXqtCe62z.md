@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.96x
+- **Peak:** 1.11x | **Current:** 0.95x
 - **Mint:** `A3zCrHTYRXZKntHvjzeWrYYj4NG8Aq3dFoU6n4pCpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 DOSED
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `Do69rsN2ch1XxrLmHNqhmd9Wgru48pQYTy5yAiJBpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `9BdmAW7WDFhD5xFRZpSXCSwXRhanwocwcins5Z7Jpump`
 
 | Time | Action | SOL | TX |
@@ -127,7 +127,7 @@
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `DwkjZoNj6PmJ31PNky4GeMUH6je3rCC1BdgpyCSbpump`
 
 | Time | Action | SOL | TX |
@@ -194,7 +194,7 @@
 
 ### 🟢 CL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.06x
+- **Peak:** 1.90x | **Current:** 1.03x
 - **Mint:** `CafXWB7PWgXsPYyQ7A3hqpQhjrZdYPe59TUQnpXWpump`
 
 | Time | Action | SOL | TX |
@@ -241,7 +241,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.06x
+- **Peak:** 1.07x | **Current:** 1.04x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |
@@ -259,7 +259,7 @@
 
 ### 🟢 Sanmao
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `58fab38dveHBMAzPN6aGm4LXxp3sUcwzXTjik4QFpump`
 
 | Time | Action | SOL | TX |
@@ -392,7 +392,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
@@ -457,7 +457,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
@@ -513,7 +513,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |

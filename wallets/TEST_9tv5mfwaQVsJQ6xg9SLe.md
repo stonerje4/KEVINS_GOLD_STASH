@@ -1,16 +1,16 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 3 |
-| Closed | 3 |
-| W/L | 3/0 |
-| SOL In (closed) | 0.000300 |
-| **Closed P&L** | **+0.000159 SOL** |
-| **Closed ROI** | **+53.0%** |
-| Open Deployed | 0.000300 SOL |
+| Open | 2 |
+| Closed | 4 |
+| W/L | 4/0 |
+| SOL In (closed) | 0.000400 |
+| **Closed P&L** | **+0.000313 SOL** |
+| **Closed ROI** | **+78.3%** |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
@@ -37,7 +37,7 @@
 
 ### 🟢 MEATBAGS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.57x
+- **Peak:** 1.54x | **Current:** 0.46x
 - **Mint:** `EVxm9QG7UN9uNwg55pK8iz2xvs7TiqPJ1knM2Y6rpump`
 
 | Time | Action | SOL | TX |
@@ -45,8 +45,8 @@
 | 2026-03-16 17:42:12 | BUY | 0.000100 | `4cvfVk1hFCK8S3VQqTU98NEwcvMwqd...` |
 
 ### 🟢 OpenHome
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.21x | **Current:** 3.21x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.21x | **Current:** 1.31x
 - **Mint:** `2WovvZ1KJrvWFS3KqPsCDGH8PVQaCmDuz4xDkoFbpump`
 
 | Time | Action | SOL | TX |
@@ -54,6 +54,7 @@
 | 2026-03-16 17:23:35 | BUY | 0.000100 | `37JE6mZA12tXNvNZ5Q93JNZTpsVHof...` |
 | 2026-03-16 18:22:48 | SELL | 0.000022 | `3VzAHGRicEjvcBqbyx6AfKYhFMnrPp...` |
 | 2026-03-16 18:24:40 | SELL | 0.000028 | `3WKWQQEmiUPrZHy6X8bpcEETkH9r8j...` |
+| 2026-03-16 23:18:39 | SELL | 0.000104 | `4hvzucYjJ8ad89L57DGAZ1JHLXwHqS...` |
 
 ### 🔴 GIRL
 - **Status:** closed | **Exit:** stop_loss
@@ -67,7 +68,7 @@
 
 ### 🟢 TANG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.05x
+- **Peak:** 1.90x | **Current:** 1.46x
 - **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
 
 | Time | Action | SOL | TX |

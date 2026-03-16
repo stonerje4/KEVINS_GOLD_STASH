@@ -1,36 +1,37 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 5 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.000700 |
-| **Closed P&L** | **+0.000582 SOL** |
-| **Closed ROI** | **+83.1%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 3 |
+| Closed | 4 |
+| W/L | 4/0 |
+| SOL In (closed) | 0.000900 |
+| **Closed P&L** | **+0.000701 SOL** |
+| **Closed ROI** | **+77.9%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
 ### 🟢 CHICK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.55x
+- **Peak:** 1.00x | **Current:** 0.57x
 - **Mint:** `5PZVSyPMP18uLi7jhx4C6FD9i82KZaQn2peDSULDpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:09:35 | BUY | 0.000100 | `42upheV9Pp7bJzRTCUi8cQ9RGh2nym...` |
 
-### 🟢 GRYD
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.42x
+### 🔴 GRYD
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.33x
 - **Mint:** `D86cPtzhdMvZVKF1Mxwh83CPa49rd58tTu37UMnYpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:50:58 | BUY | 0.000100 | `65UXXEVcGF4ehjJWbSFmufH5aKzAfQ...` |
+| 2026-03-16 23:18:28 | SELL | 0.000032 | `F3MVSViRUBSnNk9PY9Q6RgW95Pd63P...` |
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
@@ -41,15 +42,16 @@
 |------|--------|-----|----|
 | 2026-03-16 15:41:34 | BUY | 0.000100 | `39a5PMQmbMmX7Ki2cY2JsiaeEHibQB...` |
 
-### 🟢 gorevege
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.52x | **Current:** 1.13x
+### 🔴 gorevege
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.52x | **Current:** 0.73x
 - **Mint:** `42NTyRmFCqDzw8WnWFyntDCZKZTkFejoRpRokyvbpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:29:15 | BUY | 0.000100 | `21g6cS8S2qfGUbr7mBfo3CBbc4rA1q...` |
 | 2026-03-16 15:42:08 | SELL | 0.000022 | `3uQ7Vm6HWrr87mcNB3sFQnERD9SToe...` |
+| 2026-03-16 23:18:24 | SELL | 0.000065 | `gPGfErXAcjZRVpRRPQ8U3zPbQmNwJr...` |
 
 ### 🟢 Heart
 - **Status:** closed | **Exit:** runner_trailing_stop

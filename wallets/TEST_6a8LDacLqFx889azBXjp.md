@@ -1,27 +1,28 @@
 # [TEST] Wallet: `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 1 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.002400 |
-| **Closed P&L** | **+0.001527 SOL** |
-| **Closed ROI** | **+63.6%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.002500 |
+| **Closed P&L** | **+0.001553 SOL** |
+| **Closed ROI** | **+62.1%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 Solana
-- **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 0.57x
+### 🔴 Solana
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.84x | **Current:** 0.26x
 - **Mint:** `DmcLfX6HKvYedauGXztf7tKuWnqsyTiRY52vW4bvpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:42:33 | BUY | 0.000100 | `5iWLuJkGRuiG471cTgsEfX7Ty6EuK4...` |
+| 2026-03-16 23:18:26 | SELL | 0.000026 | `2TfEqW3NYWmKfsFWbJqb2Ude5Ddhvx...` |
 
 ### 🔴 SideEye
 - **Status:** closed | **Exit:** ghost_close_stop_loss

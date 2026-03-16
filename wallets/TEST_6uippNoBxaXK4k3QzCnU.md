@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Shelly
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.11x
+- **Peak:** 1.11x | **Current:** 0.89x
 - **Mint:** `BAZBed8AxJyt15KChfnk2o14V8kmUMGHyJVf15eYpump`
 
 | Time | Action | SOL | TX |

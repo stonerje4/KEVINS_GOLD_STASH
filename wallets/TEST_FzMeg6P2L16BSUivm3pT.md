@@ -1,22 +1,22 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 8 |
-| Open | 3 |
-| Closed | 5 |
-| W/L | 5/0 |
-| SOL In (closed) | 0.001500 |
-| **Closed P&L** | **+0.000563 SOL** |
-| **Closed ROI** | **+37.5%** |
-| Open Deployed | 0.000300 SOL |
+| Open | 2 |
+| Closed | 6 |
+| W/L | 6/0 |
+| SOL In (closed) | 0.001600 |
+| **Closed P&L** | **+0.000571 SOL** |
+| **Closed ROI** | **+35.7%** |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
 ### 🟢 Superagent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.05x
+- **Peak:** 1.26x | **Current:** 0.47x
 - **Mint:** `HP17Vmciep1XwGZRTC1jdV1Rb8K7nvQqngMwSU3Fpump`
 
 | Time | Action | SOL | TX |
@@ -42,14 +42,15 @@
 |------|--------|-----|----|
 | 2026-03-16 17:57:45 | BUY | 0.000100 | `Ji9ChFk6nHcbEURxhVBGPFXEn8pd8J...` |
 
-### 🟢 OpenShell
-- **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.73x
+### 🔴 OpenShell
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.13x | **Current:** 0.08x
 - **Mint:** `Gc78hWdJRgEJVUXZvgVLhwcdmmXaVzpKA3NgYb3cpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:54:28 | BUY | 0.000100 | `3g33rLeEw9egptPAUyNGFLyHCT1kUB...` |
+| 2026-03-16 23:18:54 | SELL | 0.000008 | `3EvTqkkHtkpx4DiYkJ7prfMCqK1nzH...` |
 
 ### 🔴 Niggercell
 - **Status:** closed | **Exit:** ghost_close_stop_loss

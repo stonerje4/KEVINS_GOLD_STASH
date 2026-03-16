@@ -1,32 +1,33 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 3 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.002400 |
-| **Closed P&L** | **+0.001434 SOL** |
-| **Closed ROI** | **+59.8%** |
-| Open Deployed | 0.000300 SOL |
+| Open | 2 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.002500 |
+| **Closed P&L** | **+0.001513 SOL** |
+| **Closed ROI** | **+60.5%** |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
-### 🟢 Donkeys
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.20x | **Current:** 2.20x
+### 🔴 Donkeys
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.20x | **Current:** 0.63x
 - **Mint:** `6M5wtvD1HTheUGFpQyNWWwuSXa3FwfZFLe4oWayWpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:21:59 | BUY | 0.000100 | `3p3pAaM2ivjvjTea2UFxxrZZMmswjK...` |
 | 2026-03-16 18:25:12 | SELL | 0.000022 | `pNZTLjbEiNWsAGKofUD6uVNPpL7wHn...` |
+| 2026-03-16 23:19:00 | SELL | 0.000057 | `2ThWkP9rrML4prwjNG74khQLPtaw1b...` |
 
 ### 🟢 COALKID
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.71x
+- **Peak:** 1.04x | **Current:** 0.51x
 - **Mint:** `4BYp9bPWua2YoijAjWWPDPzUjzMAftjhy9xsCd3wpump`
 
 | Time | Action | SOL | TX |

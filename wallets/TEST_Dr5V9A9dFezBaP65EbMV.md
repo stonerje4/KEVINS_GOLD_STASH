@@ -1,31 +1,32 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 17 |
-| Open | 9 |
-| Closed | 8 |
-| W/L | 8/0 |
-| SOL In (closed) | 0.004800 |
-| **Closed P&L** | **+0.004781 SOL** |
-| **Closed ROI** | **+99.6%** |
-| Open Deployed | 0.004900 SOL |
+| Open | 7 |
+| Closed | 10 |
+| W/L | 9/1 |
+| SOL In (closed) | 0.005500 |
+| **Closed P&L** | **+0.004818 SOL** |
+| **Closed ROI** | **+87.6%** |
+| Open Deployed | 0.004200 SOL |
 
 ## Trades
 
-### 🟢 block0
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.55x
+### 🔴 block0
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.38x
 - **Mint:** `5vNRj9gSE3iLFNrPPeLe6mJLfYmmN91kpxXr5NRupump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:16:43 | BUY | 0.000100 | `CLbkhoeVBrtERmwmyKCTDHfCgMUj7c...` |
+| 2026-03-16 23:18:32 | SELL | 0.000037 | `31y2cigqgJariBmvMsNnkrReZZE6cU...` |
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.11x
+- **Peak:** 1.23x | **Current:** 0.82x
 - **Mint:** `D69bugFJG4y3kmJxiLPTMuqqK3e3PnJHQCcQvALgpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +35,7 @@
 
 ### 🟢 SHIKOKU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.81x
+- **Peak:** 1.05x | **Current:** 0.68x
 - **Mint:** `7TvfNnDxstnrfb5eF5pg4PcwXPMfiJLu9eysA7qJpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +44,7 @@
 
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 1.13x
+- **Peak:** 1.21x | **Current:** 1.14x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +53,7 @@
 
 ### 🟢 Sonny
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.88x
+- **Peak:** 1.09x | **Current:** 0.92x
 - **Mint:** `EVHhyNdtZxXCvRVXeAggjXiahoAQxXhsifFEw6yWpump`
 
 | Time | Action | SOL | TX |
@@ -100,7 +101,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 1.01x
+- **Peak:** 1.40x | **Current:** 1.13x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
@@ -129,7 +130,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.77x | **Current:** 1.21x
+- **Peak:** 1.77x | **Current:** 0.99x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |
@@ -157,14 +158,15 @@
 | 2026-03-16 10:01:42 | SELL | 0.000357 | `4TdGxyc2bYJpXydXKwmG5o9DLzNM5W...` |
 | 2026-03-16 12:18:50 | SELL | 0.000594 | `33zFuHaHX3qJdDLeYWXz4SEJrHRScg...` |
 
-### 🟢 zoolander
-- **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.68x
+### 🔴 zoolander
+- **Status:** closed | **Exit:** stale_cleanup
+- **Peak:** 1.05x | **Current:** 0.69x
 - **Mint:** `CVMQJUwFBdhHEcDEuAmT3B4RkkcRLJEALCQvDngmpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:29:30 | BUY | 0.000600 | `4RRWnSVGdrec5jPeZtqU38oJVK5oZX...` |
+| 2026-03-16 23:19:03 | SELL | 0.000069 | `5jQM9LVcB3tdGGB2FmrxyUrqnKtpKr...` |
 
 ### 🟢 RIONA
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.68x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `2vaVY689JPhtnvrsy8nULXxmAmEVvRdFvThrYZq6pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.19x | **Current:** 1.19x
 - **Mint:** `8D4j2zfERVpzvyb3ysC3BVxh3cJmvLK2y66rQaxEpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.21x
+- **Peak:** 1.24x | **Current:** 1.24x
 - **Mint:** `4JB4LgobEpjnGqNr4NqdZGjz6EuvuUjeNDd9fH6qpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 TRN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.55x
+- **Peak:** 1.01x | **Current:** 0.46x
 - **Mint:** `9K46p45MBgPN8ujYxUF33seWanrZ3JJvVwFXPzWypump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 ARAMCO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.99x
+- **Peak:** 1.57x | **Current:** 1.57x
 - **Mint:** `5sZacjEPnUwfXqRsaJgP1w4iEWkTN9hv7Vmd6tcCpump`
 
 | Time | Action | SOL | TX |
@@ -82,7 +82,7 @@
 
 ### 🟢 USGR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 0.98x
+- **Peak:** 1.41x | **Current:** 0.96x
 - **Mint:** `Cf5xinWZJqZKtnz3e3ecGWhVAYyYL4xdfTrhDUtjmoon`
 
 | Time | Action | SOL | TX |
@@ -101,7 +101,7 @@
 
 ### 🟢 FTR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.59x
+- **Peak:** 1.74x | **Current:** 1.72x
 - **Mint:** `8kv9M9MNM5LtuxakWiViJx6GCYVexk2ZBexucRYNpump`
 
 | Time | Action | SOL | TX |

@@ -1,27 +1,28 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 88 |
-| Open | 24 |
-| Closed | 64 |
-| W/L | 62/2 |
-| SOL In (closed) | 0.029900 |
-| **Closed P&L** | **+0.024423 SOL** |
-| **Closed ROI** | **+81.7%** |
-| Open Deployed | 0.003400 SOL |
+| Open | 21 |
+| Closed | 67 |
+| W/L | 65/2 |
+| SOL In (closed) | 0.030200 |
+| **Closed P&L** | **+0.024792 SOL** |
+| **Closed ROI** | **+82.1%** |
+| Open Deployed | 0.003100 SOL |
 
 ## Trades
 
-### 🟢 ClaudeDog
-- **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 0.90x
+### 🔴 ClaudeDog
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.45x | **Current:** 0.38x
 - **Mint:** `ErSXPiXyRgfg1yKmMrK5unh3mWi52kA9KUX2mNgNpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:18:52 | BUY | 0.000100 | `449x3quteUGhYpAPZvLWYe7s8eNki5...` |
+| 2026-03-16 23:18:59 | SELL | 0.000038 | `2RsKAKNrGHF2yki493PkagVZyRmNSB...` |
 
 ### 🟢 Angela
 - **Status:** open | **Exit:** open
@@ -34,7 +35,7 @@
 
 ### 🟢 ClaudeDog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.58x
+- **Peak:** 1.00x | **Current:** 0.57x
 - **Mint:** `DvCD1SrBHB3oZjg36FNkkm61Wk41w1KhD86J7LNgpump`
 
 | Time | Action | SOL | TX |
@@ -42,8 +43,8 @@
 | 2026-03-16 18:06:32 | BUY | 0.000100 | `TUQkr9FV4wCBNq1zGB4ircF6RBfPJE...` |
 
 ### 🟢 Moumou
-- **Status:** partial | **Exit:** open
-- **Peak:** 5.79x | **Current:** 5.79x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 5.79x | **Current:** 1.03x
 - **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
 
 | Time | Action | SOL | TX |
@@ -52,10 +53,11 @@
 | 2026-03-16 18:03:16 | SELL | 0.000023 | `5jADPQAPjPd6W9BnLfs2ucSJb8Wagb...` |
 | 2026-03-16 18:22:50 | SELL | 0.000031 | `4nTcpFFNrJWQkY1j21xJrerjs23Fyh...` |
 | 2026-03-16 18:25:08 | SELL | 0.000046 | `4bPuZP4uWxbVX7WJYY14nt9PWdZ6gz...` |
+| 2026-03-16 23:18:50 | SELL | 0.000074 | `5DHD5u3wnSpd6Sq2coX4euwC6RnpnA...` |
 
 ### 🟢 pandas
-- **Status:** partial | **Exit:** open
-- **Peak:** 5.98x | **Current:** 4.69x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 5.98x | **Current:** 0.81x
 - **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
 
 | Time | Action | SOL | TX |
@@ -64,6 +66,7 @@
 | 2026-03-16 17:44:10 | SELL | 0.000025 | `5YPC4suZKsPwmmCGsAfwWaSpT5gucd...` |
 | 2026-03-16 17:45:24 | SELL | 0.000030 | `5vEPryg9PoUN6AfgptiZf2V2huqUro...` |
 | 2026-03-16 18:08:48 | SELL | 0.000045 | `2WWWfHyeHnNL9DCMHazTmyLRcTLR4W...` |
+| 2026-03-16 23:18:46 | SELL | 0.000058 | `5DVzjdXPhjuAdHEvFgVDPBZe8YXjAQ...` |
 
 ### 🟢 ORCA
 - **Status:** open | **Exit:** open
@@ -76,7 +79,7 @@
 
 ### 🟢 Metacoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.40x
+- **Peak:** 1.00x | **Current:** 0.41x
 - **Mint:** `3uYVyzLJpg1jv6LthEkNhBYVRUrppd2ncDE7e8wopump`
 
 | Time | Action | SOL | TX |
@@ -123,7 +126,7 @@
 
 ### 🟢 000
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.46x
+- **Peak:** 1.08x | **Current:** 0.47x
 - **Mint:** `B25ibEpgUpikZNYGhWzaSZizNRhsf45Hqk3gGKSXpump`
 
 | Time | Action | SOL | TX |
@@ -367,7 +370,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.65x
+- **Peak:** 1.74x | **Current:** 0.94x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

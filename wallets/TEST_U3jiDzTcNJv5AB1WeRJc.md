@@ -1,5 +1,5 @@
 # [TEST] Wallet: `U3jiDzTcNJv5AB1WeRJco4aivebfvg5ZsGiyA6ZohYS`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 FOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.23x
+- **Peak:** 1.28x | **Current:** 1.04x
 - **Mint:** `7SpDmWXcp9SX9EiYvmzssnQ98oAeUYMjhRBy6vampump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 XAIC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.23x
+- **Peak:** 1.28x | **Current:** 1.28x
 - **Mint:** `CcdFX7m9LtGYLTi2KMRR1xzDy6TGSWU1TNoTiXW8moon`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 XAIC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 1.04x
+- **Peak:** 1.04x | **Current:** 0.95x
 - **Mint:** `XvZgoTsGvdDKpV7bUPdHUqQCmUmtryXn4txT5S3pump`
 
 | Time | Action | SOL | TX |
@@ -63,7 +63,7 @@
 
 ### 🟢 FTR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 1.03x
+- **Peak:** 1.69x | **Current:** 1.69x
 - **Mint:** `AKn9krAhuntAPhXX98LMZnwMbp91P9CeWkfonA56pump`
 
 | Time | Action | SOL | TX |

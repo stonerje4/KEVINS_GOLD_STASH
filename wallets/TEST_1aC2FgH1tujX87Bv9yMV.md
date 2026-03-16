@@ -1,5 +1,5 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CUDA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.04x
+- **Peak:** 1.12x | **Current:** 0.86x
 - **Mint:** `6J26Lc4bcMHroKDJ4RqF5Bs7SMtxusZszLxrgazzCjzj`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 PIGEON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `HUvdhx4exbZK9Rp2rfwGvcL6bTPTuYeQqKFER6b5X3aF`
 
 | Time | Action | SOL | TX |
@@ -35,7 +35,7 @@
 
 ### 🟢 Doraemon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.58x
 - **Mint:** `2gMpasEn6vUQ6bSWmSDTrcjmhFZ2G2i5iEvW6yr2pump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +44,7 @@
 
 ### 🟢 MILK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 0.89x
+- **Peak:** 1.38x | **Current:** 0.74x
 - **Mint:** `4G4eWdTrmApqMazmahAdVXwB51rrSBNWMsYJDPJhpump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +53,7 @@
 
 ### 🟢 TJR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.77x
+- **Peak:** 1.01x | **Current:** 0.53x
 - **Mint:** `8BTZX2EJoKFB4XsWvYZN9zP6ENZptRCoiPBCidHbpump`
 
 | Time | Action | SOL | TX |

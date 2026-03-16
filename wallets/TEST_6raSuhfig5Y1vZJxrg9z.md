@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 23:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 BOTTLE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.99x
+- **Peak:** 1.08x | **Current:** 0.98x
 - **Mint:** `2YMRR1vkcys54CqGeWyFCp1vKjNA82m1YDwNLz4Fpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 GAUNTLET
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.57x
+- **Peak:** 1.30x | **Current:** 0.58x
 - **Mint:** `88na6xm5jHSTsNSDbPWVSK8zyuc4hHnnLNEHVmm2pump`
 
 | Time | Action | SOL | TX |
@@ -33,13 +33,14 @@
 | 2026-03-16 16:50:46 | BUY | 0.000100 | `51YhkEwt3XR9pAzKZfazSbshzVeLE3...` |
 
 ### 🟢 2024
-- **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 0.89x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.96x | **Current:** 2.96x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:30:07 | BUY | 0.000100 | `3CdoEL2Yquh486WkFMDiKioiL7DsH2...` |
+| 2026-03-16 23:18:34 | SELL | 0.000029 | `3gLcEsMeaN5msY7RCScXa7ezxJmqyV...` |
 
 ### 🔴 TRADES
 - **Status:** closed | **Exit:** stop_loss

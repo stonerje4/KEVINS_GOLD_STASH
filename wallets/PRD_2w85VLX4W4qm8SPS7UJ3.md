@@ -1,16 +1,16 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 23:15 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 36 |
-| Open | 2 |
-| Closed | 34 |
-| W/L | 9/25 |
-| SOL In (closed) | 3.630000 |
-| **Closed P&L** | **-0.255284 SOL** |
-| **Closed ROI** | **-7.0%** |
-| Open Deployed | 0.300000 SOL |
+| Open | 1 |
+| Closed | 35 |
+| W/L | 9/26 |
+| SOL In (closed) | 3.780000 |
+| **Closed P&L** | **-0.341064 SOL** |
+| **Closed ROI** | **-9.0%** |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
 
@@ -55,14 +55,15 @@
 |------|--------|-----|----|
 | 2026-03-16 19:02:17 | BUY | 0.150000 | `4yRkCTiX4Z3cJ6iMmvN5gSvW6gsPtn...` |
 
-### 🟢 REDHEAD
-- **Status:** open | **Exit:** open
+### 🔴 REDHEAD
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.65x | **Current:** 0.00x
 - **Mint:** `4vAoDvZzTQrcZQmAmWptpFMPcwCeLQJ6PbGLZX3Fpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:58:46 | BUY | 0.150000 | `Z8SvkYHrKAarnLPXi6DxNkc8oNTywa...` |
+| 2026-03-16 23:17:11 | SELL | 0.064220 | `36xRjPvZv4XJrDEmMuUY8CKYcYzHSj...` |
 
 ### 🟢 Angela
 - **Status:** closed | **Exit:** stop_loss
