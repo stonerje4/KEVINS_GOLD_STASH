@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 07:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 PLAMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.06x
+- **Peak:** 1.34x | **Current:** 1.27x
 - **Mint:** `D1eTUxKkAfTWKEWSYJjaAVugEPTCviLWf637GUDQpump`
 
 | Time | Action | SOL | TX |
@@ -380,7 +380,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.48x
+- **Peak:** 1.87x | **Current:** 1.43x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -732,7 +732,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.07x
+- **Peak:** 1.43x | **Current:** 1.04x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -855,7 +855,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.19x
+- **Peak:** 1.79x | **Current:** 1.20x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
@@ -957,7 +957,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.77x | **Current:** 1.77x
+- **Peak:** 1.87x | **Current:** 1.74x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
