@@ -1,5 +1,5 @@
 # [PRD] Wallet: `EJEyPiUfUmx3wDTtVfTzduNyNAWtQdwodFQjnJmjvmCQ`
-> Generated: 2026-03-16 23:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 AGENTMAXHILL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.31x | **Current:** 0.00x
 - **Mint:** `6ECwiY71t87d2A52rKgzij1SHZuUiDUo6USagzHBpump`
 
 | Time | Action | SOL | TX |
