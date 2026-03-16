@@ -1,27 +1,28 @@
 # [TEST] Wallet: `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs`
-> Generated: 2026-03-16 05:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000646 |
-| **P&L** | **+0.000046 SOL** |
-| **ROI** | **+7.6%** |
+| Open | 0 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.001263 |
+| **P&L** | **+0.000063 SOL** |
+| **ROI** | **+5.3%** |
 
 ## Trades
 
 ### 🟢 SINCLAIR
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.27x | **Current:** 1.84x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.27x | **Current:** 1.48x
 - **Mint:** `D7Ny5MQxgd3xAChvWGZiZ7rFngBg6TiDgWz9foRMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:07:15 | BUY | 0.000600 | `nf3QuWM1Ety2YdCdzWFysqjJW4Ngvh...` |
 | 2026-03-16 05:21:04 | SELL | 0.000361 | `23dJW7TQJDk8Tk1vixcmB1KFooAFhc...` |
+| 2026-03-16 05:41:48 | SELL | 0.000617 | `38vbuVybf2Yi1eujrBCvMk5o5p3aXE...` |
 
 ### 🔴 FOOD
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,31 +1,32 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 05:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 12 |
-| Open | 3 |
-| Closed | 9 |
-| SOL In (closed) | 0.005400 |
-| SOL Out (sells) | 0.008156 |
-| **P&L** | **+0.002756 SOL** |
-| **ROI** | **+51.0%** |
+| Open | 2 |
+| Closed | 10 |
+| SOL In (closed) | 0.006000 |
+| SOL Out (sells) | 0.008780 |
+| **P&L** | **+0.002780 SOL** |
+| **ROI** | **+46.3%** |
 
 ## Trades
 
 ### 🟢 wild
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.18x | **Current:** 1.67x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.18x | **Current:** 1.49x
 - **Mint:** `9MpAckk7Bw6piwpDFHNayGpGW3JqzTPz9FsXfhBBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:24:36 | BUY | 0.000600 | `5tZu1xGWmichsBMMu93ofZT3HqkMU3...` |
 | 2026-03-16 05:37:41 | SELL | 0.000377 | `2kZV1YTrQ8o41xe1738Pn6iY7iNFiV...` |
+| 2026-03-16 05:41:13 | SELL | 0.000624 | `31db7mqFujwSdoku7twLWr87sfoVeh...` |
 
 ### 🟢 Peace
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 1.17x
+- **Peak:** 1.26x | **Current:** 1.26x
 - **Mint:** `HEeB2bEe8gjE51Lhi11CVUUdUNnsE6HFc4iRYWRjpump`
 
 | Time | Action | SOL | TX |

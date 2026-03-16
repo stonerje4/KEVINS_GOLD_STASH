@@ -1,17 +1,27 @@
 # [PRD] Wallet: `AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g`
-> Generated: 2026-03-16 05:40 UTC | Environment: **PRD**
+> Generated: 2026-03-16 05:45 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
+| Total Positions | 9 |
 | Open | 0 |
-| Closed | 8 |
-| SOL In (closed) | 1.000000 |
-| SOL Out (sells) | 1.077980 |
-| **P&L** | **+0.077980 SOL** |
-| **ROI** | **+7.8%** |
+| Closed | 9 |
+| SOL In (closed) | 1.150000 |
+| SOL Out (sells) | 1.174618 |
+| **P&L** | **+0.024618 SOL** |
+| **ROI** | **+2.1%** |
 
 ## Trades
+
+### 🔴 tiger
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `9ZoMfMP5qCG8tWdtBZ9AoWKB8YheypR7BLTKvusspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:43:15 | BUY | 0.150000 | `4WXZqf8hwoyezNSCueAnjemTUAZiGb...` |
+| 2026-03-16 05:44:22 | SELL | 0.096638 | `3r3zWUsmhAwzpjhgxWU7GiHCtoGGL9...` |
 
 ### 🔴 STNK
 - **Status:** closed | **Exit:** stop_loss
