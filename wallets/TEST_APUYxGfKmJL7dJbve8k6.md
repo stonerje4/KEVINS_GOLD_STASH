@@ -1,5 +1,5 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 03:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -14,7 +14,7 @@
 ## Trades
 
 ### 🟢 Wife
-- **Status:** closing | **Exit:** runner_trailing_stop
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
 - **Peak:** 2.33x | **Current:** 1.41x
 - **Mint:** `5YEjdkSKGw1WLzGhQur8cWTxEy95Kr7uxfwEwDigpump`
 

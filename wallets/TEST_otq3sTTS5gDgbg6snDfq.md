@@ -1,27 +1,37 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 03:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 15 |
+| Total Positions | 16 |
 | Open | 14 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.001907 |
-| **P&L** | **+0.001307 SOL** |
-| **ROI** | **+217.8%** |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.002357 |
+| **P&L** | **+0.001157 SOL** |
+| **ROI** | **+96.4%** |
 
 ## Trades
 
+### 🟢 JOPNER
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `9TgyuVKRGKcm6HuN9fQbnik6EhqQB4jAB7eGZmZYpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:29:59 | BUY | 0.000600 | `3NEZ8znhvJkpeX3D7qcxgmmjMmmnz4...` |
+
 ### 🟢 REKTBET
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.13x | **Current:** 2.13x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.13x | **Current:** 1.07x
 - **Mint:** `2o53YZd1yWcEiUmsK3nHsnykG3MpM3Tr5ZkJBoy2pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:23:08 | BUY | 0.000600 | `2p96kjKqvBLNiTivVutPeunwJuhJ2M...` |
 | 2026-03-16 03:24:42 | SELL | 0.000383 | `5QNJjuq8UgSkxccv5Fxv5xbCTepEyN...` |
+| 2026-03-16 03:25:18 | SELL | 0.000450 | `4ndBP7sm9yNwA4cjo5c5iNJzAFJ6Wq...` |
 
 ### 🟢 USOA
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

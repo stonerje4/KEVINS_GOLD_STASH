@@ -1,10 +1,10 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 03:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 2 |
+| Total Positions | 10 |
+| Open | 3 |
 | Closed | 7 |
 | SOL In (closed) | 0.004200 |
 | SOL Out (sells) | 0.002025 |
@@ -12,6 +12,15 @@
 | **ROI** | **-51.8%** |
 
 ## Trades
+
+### 🟢 Elza
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.91x
+- **Mint:** `H5CxsP421U4gN6BtfZQsKVs7qZeGdXqeW4uu6nAStFxK`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:28:20 | BUY | 0.000600 | `3HX4L8GRxRYKCiFb37RU2CpgEZ5B9p...` |
 
 ### 🔴 KPOP
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -25,7 +34,7 @@
 
 ### 🟢 ZIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
 | Time | Action | SOL | TX |
