@@ -1,27 +1,55 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 14:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 23 |
-| Open | 1 |
-| Closed | 22 |
-| W/L | 18/4 |
-| SOL In (closed) | 0.013200 |
-| **Closed P&L** | **+0.008913 SOL** |
-| **Closed ROI** | **+67.5%** |
-| Open Deployed | 0.000100 SOL |
+| Total Positions | 26 |
+| Open | 3 |
+| Closed | 23 |
+| W/L | 19/4 |
+| SOL In (closed) | 0.013300 |
+| **Closed P&L** | **+0.008935 SOL** |
+| **Closed ROI** | **+67.2%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
-### 🟢 SHITCOIN
+### 🟢 SOLANASOLANA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.03x | **Current:** 0.99x
+- **Mint:** `FWSNaEE6fXFoEdUQtp5kSV5FDNo478eLJtnoEenUVrzD`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:54:08 | BUY | 0.000100 | `3gp8BGnXs1fcHzhFRgJRpgCMpAgAtA...` |
+
+### 🟢 dog
+- **Status:** open | **Exit:** open
+- **Peak:** 1.49x | **Current:** 1.20x
+- **Mint:** `2y5cUqUa9gHRqebmKJ8aM8qxxGbu4re8YA3Tya7zEFud`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:50:50 | BUY | 0.000100 | `3M1REVTGuGMroPerLG8WQY6uVtwfsR...` |
+
+### 🟢 dog
 - **Status:** open | **Exit:** open
 - **Peak:** 1.00x | **Current:** 0.41x
+- **Mint:** `3VatWa3JCJmjrRY3XMB41uWPMbNNsEMrf1wV2sampump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:50:33 | BUY | 0.000100 | `3QgU1hXWRVcxsJ7vw83oMqTr2r5mzr...` |
+
+### 🔴 SHITCOIN
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.22x
 - **Mint:** `47YEcV1nkhhUCwUMvPoPAzHNWQiEidcKmJEcXYUHpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:48:55 | BUY | 0.000100 | `5aVMjnuewhnfYsdX1rHrsHxqYPK4Wk...` |
+| 2026-03-16 14:50:39 | SELL | 0.000022 | `dFAWUi2az6K1QKCJKNj1QsbHqzitcy...` |
 
 ### 🔴 SHARK
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half

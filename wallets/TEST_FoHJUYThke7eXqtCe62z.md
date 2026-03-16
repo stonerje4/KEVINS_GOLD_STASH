@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 14:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 47 |
-| Open | 31 |
+| Total Positions | 48 |
+| Open | 32 |
 | Closed | 16 |
 | W/L | 8/8 |
 | SOL In (closed) | 0.019000 |
 | **Closed P&L** | **+0.008297 SOL** |
 | **Closed ROI** | **+43.7%** |
-| Open Deployed | 0.018600 SOL |
+| Open Deployed | 0.018700 SOL |
 
 ## Trades
+
+### 🟢 Moonigga
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:54:44 | BUY | 0.000100 | `6zFv7bLkMtSkRshJzT51ypvef9iFwj...` |
 
 ### 🟢 CL
 - **Status:** open | **Exit:** open
@@ -157,7 +166,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.73x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |
@@ -214,7 +223,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
