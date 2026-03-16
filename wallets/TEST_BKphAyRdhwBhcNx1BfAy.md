@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 09:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 127 |
-| Open | 32 |
+| Total Positions | 128 |
+| Open | 33 |
 | Closed | 95 |
 | SOL In (closed) | 0.057000 |
 | SOL Out (sells) | 0.055536 |
@@ -12,6 +12,15 @@
 | **ROI** | **-2.6%** |
 
 ## Trades
+
+### 🟢 Iruka
+- **Status:** open | **Exit:** open
+- **Peak:** 1.10x | **Current:** 1.04x
+- **Mint:** `4ACz4nKdAPaSoAZ6GoT3hcwW66jMgGdYZYTPQ7zfpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:28:28 | BUY | 0.000600 | `3QLRH65R5QrVqZmgMy9GHpFebD4exL...` |
 
 ### 🟢 Tuff
 - **Status:** open | **Exit:** open
@@ -24,7 +33,7 @@
 
 ### 🟢 花花
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.44x | **Current:** 1.21x
+- **Peak:** 1.82x | **Current:** 1.82x
 - **Mint:** `9mD9gQM7mmrzGrRT9CwwseUGHcEmMuSzts55hbKxpump`
 
 | Time | Action | SOL | TX |
@@ -183,7 +192,7 @@
 
 ### 🟢 VEESA
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.53x | **Current:** 1.84x
+- **Peak:** 2.53x | **Current:** 1.60x
 - **Mint:** `6k2DjHrx4k7PMs3zC9Z5NEjJ9sL1Npg3Q7P62p8opump`
 
 | Time | Action | SOL | TX |
@@ -311,7 +320,7 @@
 
 ### 🟢 TOKEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `Go3J5WxxRJjr56kC271ztysCuePQyKur3DPGckNSpump`
 
 | Time | Action | SOL | TX |
@@ -656,7 +665,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.88x
+- **Peak:** 1.12x | **Current:** 1.09x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -1225,7 +1234,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.75x
+- **Peak:** 1.90x | **Current:** 1.79x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
