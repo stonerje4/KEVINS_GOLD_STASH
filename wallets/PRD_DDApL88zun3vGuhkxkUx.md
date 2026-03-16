@@ -1,16 +1,16 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 15:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 15:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 28 |
-| Open | 3 |
-| Closed | 25 |
-| W/L | 5/20 |
-| SOL In (closed) | 3.380000 |
-| **Closed P&L** | **-0.741825 SOL** |
-| **Closed ROI** | **-21.9%** |
-| Open Deployed | 0.450000 SOL |
+| Open | 2 |
+| Closed | 26 |
+| W/L | 6/20 |
+| SOL In (closed) | 3.530000 |
+| **Closed P&L** | **-0.728049 SOL** |
+| **Closed ROI** | **-20.6%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
@@ -72,14 +72,15 @@
 | 2026-03-16 01:53:44 | BUY | 0.150000 | `66vSwXTafHe8XuPDe6PpAqNAQ7Um4W...` |
 | 2026-03-16 01:58:54 | SELL | 0.050696 | `4M535naaUBPEjzBY2GRK1tRJktq31s...` |
 
-### 🟢 CRISIS
-- **Status:** open | **Exit:** open
+### 🔴 CRISIS
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.12x | **Current:** 0.00x
 - **Mint:** `7Y9NRp2WqZ5F2EiZwDNYpVUrxXrApKCNqKTvGNDipump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:36:36 | BUY | 0.150000 | `4pQZD5Za2NKk63WQQq8xxgEehGmB3x...` |
+| 2026-03-16 15:24:02 | SELL | 0.000000 | `3MeYywUYkC8RgNdpF8sXY8FV3gXS7Z...` |
 
 ### 🔴 ALPHAFOLD
 - **Status:** closed | **Exit:** stale_position_cleanup

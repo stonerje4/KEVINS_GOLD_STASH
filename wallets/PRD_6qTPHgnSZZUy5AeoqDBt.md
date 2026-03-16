@@ -1,18 +1,27 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 15:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 15:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | W/L | 0/1 |
 | SOL In (closed) | 0.150000 |
 | **Closed P&L** | **-0.150000 SOL** |
 | **Closed ROI** | **-100.0%** |
-| Open Deployed | 0.150000 SOL |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
+
+### 🟢 BAGS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.03x | **Current:** 0.00x
+- **Mint:** `4bckAaWX2mZY8VxcbWpfyCiWt2RRCj5QmHrR8Uzqpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:22:39 | BUY | 0.150000 | `XQFm4dfppvNc7T94RueCUwx8H7vZuc...` |
 
 ### 🟢 Iruka
 - **Status:** open | **Exit:** open

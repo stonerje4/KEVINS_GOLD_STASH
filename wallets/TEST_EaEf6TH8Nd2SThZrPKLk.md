@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 15:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 66 |
-| Open | 8 |
+| Total Positions | 67 |
+| Open | 9 |
 | Closed | 58 |
 | W/L | 57/1 |
 | SOL In (closed) | 0.033300 |
 | **Closed P&L** | **+0.027927 SOL** |
 | **Closed ROI** | **+83.9%** |
-| Open Deployed | 0.002800 SOL |
+| Open Deployed | 0.002900 SOL |
 
 ## Trades
 
+### 🟢 Species
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.64x
+- **Mint:** `2UmPFq2w2gCb16tpYrvDh7m27QSP8caE6qY5mtxtpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:21:50 | BUY | 0.000100 | `5PuC4iFiJ2gpk29mQD4XVgyDmo2Kz2...` |
+
 ### 🟢 flea
 - **Status:** open | **Exit:** open
-- **Peak:** 1.71x | **Current:** 1.71x
+- **Peak:** 1.83x | **Current:** 1.54x
 - **Mint:** `2ZxvZtqXEpHGE5QnxrFWN1Bp78vcovfwgm1gA4BDpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +53,7 @@
 
 ### 🟢 CHANGSHA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 1.11x
+- **Peak:** 1.55x | **Current:** 1.10x
 - **Mint:** `2CZjXETQ9efUDNT6iYgX2bn6Stuxk1FenxhCCsagpump`
 
 | Time | Action | SOL | TX |
@@ -216,7 +225,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.19x
+- **Peak:** 1.50x | **Current:** 1.15x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 15:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,17 +15,19 @@
 ## Trades
 
 ### 🟢 Toly
-- **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 1.57x
+- **Status:** partial | **Exit:** open
+- **Peak:** 4.10x | **Current:** 3.95x
 - **Mint:** `HwV3VpprtjYEvvnDgBj6Ro1xKY81ubETYh3ZY3qApump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:16:19 | BUY | 0.000100 | `BEM8ULGekREeaGxSMgJSNg6Q9hHSCx...` |
+| 2026-03-16 15:21:20 | SELL | 0.000021 | `2tfMe6NmHwZ8yYwTeXxTGdpDJ9nq5T...` |
+| 2026-03-16 15:24:09 | SELL | 0.000037 | `2ZzWqbfioqS7eW75FJNm6Am8WPD1XM...` |
 
 ### 🟢 ALIVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 1.16x
+- **Peak:** 1.40x | **Current:** 1.40x
 - **Mint:** `9JnbEQ9YqJKm2CMo1RqSyYBSbGJTtB2Md6QruAXWpump`
 
 | Time | Action | SOL | TX |
@@ -34,13 +36,14 @@
 
 ### 🟢 DroydAI
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.62x | **Current:** 2.62x
+- **Peak:** 3.31x | **Current:** 3.31x
 - **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:00:27 | BUY | 0.000100 | `4YUhn93PTFGQunykV1qTH9tokeyjjq...` |
 | 2026-03-16 15:07:33 | SELL | 0.000021 | `5Sk9RkpZKEvNAhcBypPAxqjWxF91cu...` |
+| 2026-03-16 15:23:01 | SELL | 0.000028 | `5W24v13gr2vWfF4L8biqBUxJUHphj7...` |
 
 ### 🟢 Moonigga
 - **Status:** open | **Exit:** open

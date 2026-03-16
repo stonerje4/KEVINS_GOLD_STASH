@@ -1,5 +1,5 @@
 # [PRD] Wallet: `CqHQdW3Lp4HPDB2hdvzbkFdPzr13JkWeso74kLtBCi5w`
-> Generated: 2026-03-16 15:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 15:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 flea
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 0.00x
+- **Peak:** 1.23x | **Current:** 0.00x
 - **Mint:** `2ZxvZtqXEpHGE5QnxrFWN1Bp78vcovfwgm1gA4BDpump`
 
 | Time | Action | SOL | TX |

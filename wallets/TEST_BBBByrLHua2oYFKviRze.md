@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 15:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 9Fraud
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 0.47x
+- **Peak:** 1.66x | **Current:** 0.46x
 - **Mint:** `FaQRT8iWpLhKMU4XaBhqhsWiR4eBMnyW2CFMYsHvih7Y`
 
 | Time | Action | SOL | TX |

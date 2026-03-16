@@ -1,22 +1,31 @@
 # [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-16 15:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 1 |
+| Total Positions | 5 |
+| Open | 2 |
 | Closed | 3 |
 | W/L | 3/0 |
 | SOL In (closed) | 0.001800 |
 | **Closed P&L** | **+0.004096 SOL** |
 | **Closed ROI** | **+227.6%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
+### 🟢 AGENTI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.15x | **Current:** 1.15x
+- **Mint:** `Ek3wSfmc3Qd7Go9CdyrnSTUeSJJ5GY9tX69KzMGUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:23:03 | BUY | 0.000100 | `4yxqiP8ZxSMchsEVo3ryEQH9dsNafL...` |
+
 ### 🟢 BOBO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.82x
+- **Peak:** 1.21x | **Current:** 0.67x
 - **Mint:** `BJwd9vZ2di3RWspBK2jGGKkHdLQ1nqRhfwe1LhHjpump`
 
 | Time | Action | SOL | TX |
