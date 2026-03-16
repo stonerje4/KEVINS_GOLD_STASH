@@ -1,10 +1,10 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 06:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 14 |
-| Open | 4 |
+| Total Positions | 15 |
+| Open | 5 |
 | Closed | 10 |
 | SOL In (closed) | 0.006000 |
 | SOL Out (sells) | 0.002644 |
@@ -12,6 +12,15 @@
 | **ROI** | **-55.9%** |
 
 ## Trades
+
+### 🟢 FENTHOUSE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.94x
+- **Mint:** `4bYvQwhNSaEmozyupVP7qMrEFwZHrQ8DpWRJqGZZpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:26:04 | BUY | 0.000600 | `67mU9No7bwsWa3VArfAKi42RgrSjuq...` |
 
 ### 🔴 cat
 - **Status:** closed | **Exit:** stop_loss
@@ -72,7 +81,7 @@
 
 ### 🟢 ZIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.00x | **Current:** 0.99x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
 | Time | Action | SOL | TX |
