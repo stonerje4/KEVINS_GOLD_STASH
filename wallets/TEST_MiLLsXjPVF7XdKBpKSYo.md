@@ -1,5 +1,5 @@
-# [PRD] Wallet: `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`
-> Generated: 2026-03-16 07:35 UTC | Environment: **PRD**
+# [TEST] Wallet: `MiLLsXjPVF7XdKBpKSYoKR8igxajpAcrmvXJ1h2kode`
+> Generated: 2026-03-16 07:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 WWM
+### 🟢 CCA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.00x
-- **Mint:** `ERcwFx1AD24eHKdUtmfvwXJLWKapZ9mVwZ5xcuZJpump`
+- **Peak:** 1.17x | **Current:** 1.17x
+- **Mint:** `6yWZmLBTg3Ku7Cma5Chp6Cg7pvdTJPrMmfWKsvRnpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 03:10:14 | BUY | 0.150000 | `5e14cfKErjqhZNDTsR8aDzHnNcKLeG...` |
+| 2026-03-16 07:30:52 | BUY | 0.000600 | `3c5txZbdPu7jBx4HRps3neRZuGTH2X...` |
 

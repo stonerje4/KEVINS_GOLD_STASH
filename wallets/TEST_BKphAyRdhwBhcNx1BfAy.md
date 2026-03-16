@@ -1,26 +1,27 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 07:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 105 |
-| Open | 27 |
-| Closed | 78 |
-| SOL In (closed) | 0.046800 |
-| SOL Out (sells) | 0.046715 |
-| **P&L** | **-0.000085 SOL** |
-| **ROI** | **-0.2%** |
+| Open | 26 |
+| Closed | 79 |
+| SOL In (closed) | 0.047400 |
+| SOL Out (sells) | 0.047051 |
+| **P&L** | **-0.000349 SOL** |
+| **ROI** | **-0.7%** |
 
 ## Trades
 
-### 🟢 モガー
-- **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.41x
+### 🔴 モガー
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.46x | **Current:** 0.56x
 - **Mint:** `9XSX2XgNa5eCJfKixxaFRP8uJNbzKamYgcP4Q3Xjpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:27:46 | BUY | 0.000600 | `SM2G11mAvM3bV76i1Bo6DVmcbQkfDe...` |
+| 2026-03-16 07:32:15 | SELL | 0.000336 | `3jh3YsoybK8WFkrSF5YniLZUa2qpUa...` |
 
 ### 🔴 CCA
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -34,7 +35,7 @@
 
 ### 🟢 pwogrammer
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 1.37x
+- **Peak:** 1.43x | **Current:** 1.43x
 - **Mint:** `9fWA7ehj57KtB9ZdtxNDn2yhLMg55PGmVMT6KUqRpump`
 
 | Time | Action | SOL | TX |
@@ -437,7 +438,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.07x
+- **Peak:** 1.12x | **Current:** 1.08x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -965,7 +966,7 @@
 
 ### 🟢 とまと
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.76x
+- **Peak:** 1.00x | **Current:** 0.73x
 - **Mint:** `FoWCr414zVPiMSKge6PWvCreig9UxysW9Sgr3guKpump`
 
 | Time | Action | SOL | TX |
@@ -1005,7 +1006,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.54x
+- **Peak:** 1.87x | **Current:** 1.52x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
