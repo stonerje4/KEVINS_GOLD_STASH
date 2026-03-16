@@ -1,17 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 09:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 29 |
+| Total Positions | 30 |
 | Open | 1 |
-| Closed | 28 |
-| SOL In (closed) | 0.016800 |
-| SOL Out (sells) | 0.017398 |
-| **P&L** | **+0.000598 SOL** |
-| **ROI** | **+3.6%** |
+| Closed | 29 |
+| SOL In (closed) | 0.017400 |
+| SOL Out (sells) | 0.017769 |
+| **P&L** | **+0.000369 SOL** |
+| **ROI** | **+2.1%** |
 
 ## Trades
+
+### 🔴 ⚡ 👑
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.62x
+- **Mint:** `62bPtwzSer2EdXwYXiLZgZPD9V3CFsRWKJbDjtnTpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:06:18 | BUY | 0.000600 | `63xzKqJyZFLJ7NCFWny2iqfQGuxo4r...` |
+| 2026-03-16 09:06:34 | SELL | 0.000371 | `4ZMZgvKgB1uieMebD6e2TYeoi1anHY...` |
 
 ### 🔴 金蟾
 - **Status:** closed | **Exit:** stop_loss

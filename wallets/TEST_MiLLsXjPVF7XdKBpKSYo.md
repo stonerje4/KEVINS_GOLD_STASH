@@ -1,21 +1,21 @@
 # [TEST] Wallet: `MiLLsXjPVF7XdKBpKSYoKR8igxajpAcrmvXJ1h2kode`
-> Generated: 2026-03-16 09:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
+| Open | 0 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.000634 |
-| **P&L** | **+0.000034 SOL** |
-| **ROI** | **+5.6%** |
+| **P&L** | **-0.000566 SOL** |
+| **ROI** | **-47.2%** |
 
 ## Trades
 
-### 🟢 金蟾蜍
-- **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.46x
+### 🔴 金蟾蜍
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.45x
 - **Mint:** `AeZADoUA1E1rUePABBfp6364u3yRcGQ7FY6vZERDpump`
 
 | Time | Action | SOL | TX |

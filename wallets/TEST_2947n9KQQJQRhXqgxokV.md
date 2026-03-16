@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 09:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 USGR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.08x
+- **Peak:** 1.41x | **Current:** 1.15x
 - **Mint:** `Cf5xinWZJqZKtnz3e3ecGWhVAYyYL4xdfTrhDUtjmoon`
 
 | Time | Action | SOL | TX |
@@ -51,7 +51,7 @@
 
 ### 🟢 TIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.29x | **Current:** 1.22x
+- **Peak:** 1.29x | **Current:** 1.17x
 - **Mint:** `27etifrEo9mkxxwLmA78SaUhWV42u41FegFjjzGspump`
 
 | Time | Action | SOL | TX |
