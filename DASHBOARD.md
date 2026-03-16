@@ -1,5 +1,5 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 11:45 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 11:50 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
@@ -68,13 +68,13 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `9xMo2sv9tDY5QVjnakjxykx2Qvy9K5FJ2NUNbVgq83c1` |
-| SOL Balance | 3.4385 SOL |
-| Open Positions | 14 (2.1000 SOL deployed) |
-| Closed Positions | 588 |
+| SOL Balance | 3.5421 SOL |
+| Open Positions | 13 (1.9500 SOL deployed) |
+| Closed Positions | 589 |
 | Total Deposited | ~7.34 SOL |
 | SOL Bought (bot) | 63.25 SOL |
-| SOL Sold (bot) | 58.68 SOL |
-| **Real P&L (on-chain)** | **-1.8015 SOL (-24.5%)** |
+| SOL Sold (bot) | 58.78 SOL |
+| **Real P&L (on-chain)** | **-1.8479 SOL (-25.2%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -92,8 +92,8 @@
 | `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j` | 27 | 27 | 0 | 11/16 | 41% | 2.3700 | 🟢 +1.061707 | +44.8% |
 | `7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D` | 22 | 22 | 0 | 5/17 | 23% | 1.7900 | 🟢 +0.751784 | +42.0% |
 | `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ` | 28 | 24 | 4 | 10/14 | 42% | 3.8300 | 🟢 +1.032504 | +32.0% |
-| `A5hEhg36kAmkrrKRhVxPrvYK5KLgBgPXbBqL9GUL5jg1` | 9 | 8 | 1 | 1/7 | 12% | 1.3500 | 🟢 +0.259002 | +21.6% |
 | `ZzZZzPoJxWKern9EMk88aik3P8KwKgptANPdrhERrwr` | 8 | 7 | 1 | 3/4 | 43% | 0.7300 | 🟢 +0.108265 | +18.7% |
+| `A5hEhg36kAmkrrKRhVxPrvYK5KLgBgPXbBqL9GUL5jg1` | 9 | 9 | 0 | 1/8 | 11% | 1.3500 | 🟢 +0.212401 | +15.7% |
 | `FdscbS4fPUmdfwJ57dkFswvZ6jYwzKXQxJ6cPRfejU4q` | 1 | 1 | 0 | 1/0 | 100% | 0.1500 | 🟢 +0.016102 | +10.7% |
 | `AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g` | 10 | 9 | 1 | 3/6 | 33% | 1.3000 | 🟢 +0.104303 | +9.1% |
 | `EPGrHnQeBPtuCGiJ5qLWaDZDKEf2yKcMKEPCyf2jWTxi` | 5 | 5 | 0 | 2/3 | 40% | 0.7500 | 🟢 +0.017843 | +2.4% |

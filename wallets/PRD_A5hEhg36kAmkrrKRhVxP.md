@@ -1,26 +1,27 @@
 # [PRD] Wallet: `A5hEhg36kAmkrrKRhVxPrvYK5KLgBgPXbBqL9GUL5jg1`
-> Generated: 2026-03-16 11:45 UTC | Environment: **PRD**
+> Generated: 2026-03-16 11:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 1 |
-| Closed | 8 |
-| SOL In (closed) | 1.200000 |
-| SOL Out (sells) | 1.459002 |
-| **P&L** | **+0.259002 SOL** |
-| **ROI** | **+21.6%** |
+| Open | 0 |
+| Closed | 9 |
+| SOL In (closed) | 1.350000 |
+| SOL Out (sells) | 1.562401 |
+| **P&L** | **+0.212401 SOL** |
+| **ROI** | **+15.7%** |
 
 ## Trades
 
-### 🟢 🌹
-- **Status:** open | **Exit:** open
+### 🔴 🌹
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.03x | **Current:** 0.00x
 - **Mint:** `2v7z6e1LUJJZVxC1BQFxc1bpYYsGY7JeKh9ippgQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 10:06:29 | BUY | 0.150000 | `48jtxCbxErj2xDoijaQikD2fQG76JS...` |
+| 2026-03-16 11:48:21 | SELL | 0.103399 | `2S75DPr6hdZYFBiLn2CVExzE15qtgc...` |
 
 ### 🔴 LIME
 - **Status:** closed | **Exit:** stop_loss
