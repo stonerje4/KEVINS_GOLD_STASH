@@ -1,22 +1,40 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 15:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 38 |
-| Open | 27 |
+| Total Positions | 40 |
+| Open | 29 |
 | Closed | 11 |
 | W/L | 4/7 |
 | SOL In (closed) | 0.006600 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+48.5%** |
-| Open Deployed | 0.016200 SOL |
+| Open Deployed | 0.016400 SOL |
 
 ## Trades
 
+### 🟢 Don Tzu
+- **Status:** open | **Exit:** open
+- **Peak:** 1.05x | **Current:** 0.91x
+- **Mint:** `59VtFUYQ1qsxho2bF72xvt9BuSLkxZzCi4GXkKXEpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:16:34 | BUY | 0.000100 | `CWGGZfRjgqEkD8dQ9K2UTPoTZyz6F5...` |
+
+### 🟢 SLICE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `B46xjckMnQmamXeWyLPTM8NYvLx3y3Dc26wwCZvTpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:15:59 | BUY | 0.000100 | `3L2KDZcLoT5hthad4oW8tVmCdSxQAt...` |
+
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +70,7 @@
 
 ### 🟢 Meta
 - **Status:** open | **Exit:** open
-- **Peak:** 1.46x | **Current:** 0.93x
+- **Peak:** 1.46x | **Current:** 0.96x
 - **Mint:** `ERALMpDpsFaSsPXPxcwYxZ1h9ZYLjji16zV9HWpbpump`
 
 | Time | Action | SOL | TX |
@@ -115,7 +133,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `BWokmiUXPVnNtMDp4Hy1y1mM9Fy1QntHBye9aZiPpump`
 
 | Time | Action | SOL | TX |
@@ -265,7 +283,7 @@
 
 ### 🟢 Papua
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 
 | Time | Action | SOL | TX |

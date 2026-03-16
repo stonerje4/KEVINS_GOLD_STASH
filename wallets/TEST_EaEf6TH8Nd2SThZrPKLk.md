@@ -1,36 +1,46 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 15:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 65 |
+| Total Positions | 66 |
 | Open | 8 |
-| Closed | 57 |
-| W/L | 56/1 |
-| SOL In (closed) | 0.033200 |
-| **Closed P&L** | **+0.027910 SOL** |
-| **Closed ROI** | **+84.1%** |
+| Closed | 58 |
+| W/L | 57/1 |
+| SOL In (closed) | 0.033300 |
+| **Closed P&L** | **+0.027927 SOL** |
+| **Closed ROI** | **+83.9%** |
 | Open Deployed | 0.002800 SOL |
 
 ## Trades
 
+### 🟢 flea
+- **Status:** open | **Exit:** open
+- **Peak:** 1.71x | **Current:** 1.71x
+- **Mint:** `2ZxvZtqXEpHGE5QnxrFWN1Bp78vcovfwgm1gA4BDpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:16:55 | BUY | 0.000100 | `3XYQhotnMryjNpn8M4y5cmouuBXz5R...` |
+
 ### 🟢 FOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.03x | **Current:** 1.03x
 - **Mint:** `AQdN5pQBHNg4n2NSLZPKGgMWRYuiafD2V9mkBo2cpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:13:30 | BUY | 0.000100 | `ErN3nyoUt2sFjzoPME6dVNobEpnrj9...` |
 
-### 🟢 6
-- **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.99x
+### 🔴 6
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.19x | **Current:** 0.17x
 - **Mint:** `5rZmCDBKD5PdnTcmB6L82MhgYF7SLuP1mCGg1BuYpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:03:28 | BUY | 0.000100 | `2f5GkDtWa8fZDA82Z9VUiMTM9H2HcY...` |
+| 2026-03-16 15:17:10 | SELL | 0.000017 | `4LQGiJtyg9h1wp6gwjJySxMQbbErVY...` |
 
 ### 🟢 CHANGSHA
 - **Status:** open | **Exit:** open
@@ -53,7 +63,7 @@
 
 ### 🟢 DIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.02x
+- **Peak:** 1.06x | **Current:** 1.05x
 - **Mint:** `H9Jt1usRpJkbFSJinbhd9XokafnKi2mdfyCe6e2xpump`
 
 | Time | Action | SOL | TX |
@@ -206,7 +216,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.26x
+- **Peak:** 1.50x | **Current:** 1.19x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |

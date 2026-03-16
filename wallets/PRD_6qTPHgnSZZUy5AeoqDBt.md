@@ -1,5 +1,5 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 15:15 UTC | Environment: **PRD**
+> Generated: 2026-03-16 15:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Iruka
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.01x | **Current:** 0.00x
 - **Mint:** `4ACz4nKdAPaSoAZ6GoT3hcwW66jMgGdYZYTPQ7zfpump`
 
 | Time | Action | SOL | TX |

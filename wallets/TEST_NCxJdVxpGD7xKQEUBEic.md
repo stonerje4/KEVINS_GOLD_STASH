@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-16 15:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,15 @@
 ## Trades
 
 ### 🟢 Heart
-- **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.11x
+- **Status:** partial | **Exit:** open
+- **Peak:** 3.83x | **Current:** 3.25x
 - **Mint:** `CddTVmakkpiS2BEzPpyEuNa44zRbC25PF57RAHFVpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:08:23 | BUY | 0.000100 | `43i96mqS7wE8JQhCAjTfS27V28jZ4T...` |
+| 2026-03-16 15:17:53 | SELL | 0.000022 | `2UfifF9XF53oApbsGDUr8nJ65JuzPs...` |
+| 2026-03-16 15:18:57 | SELL | 0.000031 | `29nzr6jJWyHbFHbLMszhDVXv3o6Dq6...` |
 
 ### 🟢 Dicaprio
 - **Status:** open | **Exit:** open

@@ -1,22 +1,31 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 15:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 51 |
-| Open | 4 |
+| Total Positions | 52 |
+| Open | 5 |
 | Closed | 47 |
 | W/L | 45/2 |
 | SOL In (closed) | 0.028200 |
 | **Closed P&L** | **+0.022983 SOL** |
 | **Closed ROI** | **+81.5%** |
-| Open Deployed | 0.001400 SOL |
+| Open Deployed | 0.001500 SOL |
 
 ## Trades
 
+### 🟢 9Fraud
+- **Status:** open | **Exit:** open
+- **Peak:** 1.66x | **Current:** 0.47x
+- **Mint:** `FaQRT8iWpLhKMU4XaBhqhsWiR4eBMnyW2CFMYsHvih7Y`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:18:01 | BUY | 0.000100 | `g3z25tFuJs1T9KXoRUSrG79T1q8AJi...` |
+
 ### 🟢 Tradecoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Peak:** 1.00x | **Current:** 0.60x
 - **Mint:** `HFxw27PmjDFb1wivouGS8KHAbkobTssmZX53Cytnpump`
 
 | Time | Action | SOL | TX |
