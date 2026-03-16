@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-16 23:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Fumbl
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 1.09x
+- **Peak:** 1.09x | **Current:** 0.63x
 - **Mint:** `51eQsq4zyN5tG4YjDs7pRV4HgApdu1WEzp6zWHLWpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 DAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.13x | **Current:** 1.02x
 - **Mint:** `3AhHpBR3o8TKKyBto3fZGLVHGRGtuUbqQy8LhziFpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 DOOMER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.74x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `CnvDRWDm5UJHK9VBNxVEpS9hQHj7TKBTTFzHjZxNpump`
 
 | Time | Action | SOL | TX |

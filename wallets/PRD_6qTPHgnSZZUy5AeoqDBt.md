@@ -1,22 +1,22 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 23:35 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 13 |
-| Open | 3 |
-| Closed | 10 |
-| W/L | 4/6 |
-| SOL In (closed) | 1.500000 |
-| **Closed P&L** | **-0.325555 SOL** |
-| **Closed ROI** | **-21.7%** |
-| Open Deployed | 0.450000 SOL |
+| Open | 2 |
+| Closed | 11 |
+| W/L | 4/7 |
+| SOL In (closed) | 1.650000 |
+| **Closed P&L** | **-0.417632 SOL** |
+| **Closed ROI** | **-25.3%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
 ### 🟢 promp
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.00x
+- **Peak:** 1.39x | **Current:** 0.00x
 - **Mint:** `2kHP8x539qqCWVM614KcP5sPKKfh4sHEtN8DXDSEpump`
 
 | Time | Action | SOL | TX |
@@ -47,14 +47,15 @@
 | 2026-03-16 22:03:12 | SELL | 0.048982 | `5UaJ3DXfNRzmEu9JPftFqpsdvM7PRN...` |
 | 2026-03-16 22:31:22 | SELL | 0.193025 | `3jn5M8jw44noXsePBJhPZhHqmL3veY...` |
 
-### 🟢 DOGE‎
-- **Status:** open | **Exit:** open
+### 🔴 DOGE‎
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.17x | **Current:** 0.00x
 - **Mint:** `H1FMsKDBRc1PEWLT5RQVxjcNqnGxPHgCfUBybz3Mdoge`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 21:35:54 | BUY | 0.150000 | `2rkiVZBe3LTHTjDpQkykhP8WPfqxKB...` |
+| 2026-03-16 23:35:33 | SELL | 0.057923 | `5hKu2WuxQvSbQdRSkLPHF5zCGX9xnD...` |
 
 ### 🟢 Breathe
 - **Status:** closed | **Exit:** runner_trailing_stop
