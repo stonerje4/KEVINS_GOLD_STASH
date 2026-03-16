@@ -1,26 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 41 |
-| Open | 3 |
-| Closed | 38 |
-| SOL In (closed) | 0.022800 |
-| SOL Out (sells) | 0.021210 |
-| **P&L** | **-0.001590 SOL** |
-| **ROI** | **-7.0%** |
+| Open | 2 |
+| Closed | 39 |
+| SOL In (closed) | 0.023400 |
+| SOL Out (sells) | 0.021389 |
+| **P&L** | **-0.002011 SOL** |
+| **ROI** | **-8.6%** |
 
 ## Trades
 
-### 🟢 AgentP
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+### 🔴 AgentP
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.05x | **Current:** 0.17x
 - **Mint:** `DTu7oFgdZqWDNhrs6YnX3HvTTaEnw4ENntX1GrwLpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 11:04:11 | BUY | 0.000600 | `2ivukNExKjpjAvAZmgrPoCkouRDK91...` |
+| 2026-03-16 11:06:47 | SELL | 0.000179 | `2zH9zyBZiA7cCBEqZ9XFaQkZucHB4T...` |
 
 ### 🟢 MATM
 - **Status:** open | **Exit:** open

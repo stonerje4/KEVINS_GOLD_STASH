@@ -1,21 +1,21 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 18 |
-| Open | 6 |
-| Closed | 12 |
-| SOL In (closed) | 0.007200 |
-| SOL Out (sells) | 0.005545 |
-| **P&L** | **-0.001655 SOL** |
-| **ROI** | **-23.0%** |
+| Open | 5 |
+| Closed | 13 |
+| SOL In (closed) | 0.007800 |
+| SOL Out (sells) | 0.005938 |
+| **P&L** | **-0.001862 SOL** |
+| **ROI** | **-23.9%** |
 
 ## Trades
 
 ### 🟢 ROCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 0.98x
+- **Peak:** 1.49x | **Current:** 0.94x
 - **Mint:** `HEacYvtsxpaFCe7J12JrXmvBMMwjKBHo8UxyFqDDpump`
 
 | Time | Action | SOL | TX |
@@ -50,14 +50,15 @@
 | 2026-03-16 05:31:52 | BUY | 0.000600 | `2QP6AYJ6VdvAWsdRmnrMRAmmHMuR8i...` |
 | 2026-03-16 06:02:22 | SELL | 0.000416 | `5YGfLjYxxX5WGQog5etLUSyajjqBDH...` |
 
-### 🟢 PUMPERS
-- **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.77x
+### 🔴 PUMPERS
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.07x | **Current:** 0.66x
 - **Mint:** `GpPmQTqV3KeTRUWCxFtnw3VQHuAqqG4HWsxvw6Vwpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:53:33 | BUY | 0.000600 | `4x1uxgLWASa5QQYCzVcE3YzHWKKRNH...` |
+| 2026-03-16 11:07:07 | SELL | 0.000393 | `oAFEgeQcaJkSFDkYZZaTCvqaejMR2d...` |
 
 ### 🔴 PARALLAX
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -101,7 +102,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.94x
+- **Peak:** 1.24x | **Current:** 0.90x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
