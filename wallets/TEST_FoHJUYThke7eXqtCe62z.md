@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 04:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 20 |
-| Open | 15 |
+| Total Positions | 21 |
+| Open | 16 |
 | Closed | 5 |
 | SOL In (closed) | 0.012400 |
 | SOL Out (sells) | 0.002028 |
@@ -12,6 +12,15 @@
 | **ROI** | **-83.6%** |
 
 ## Trades
+
+### 🟢 METALHEADS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 1.02x
+- **Mint:** `GpETVRSoR49Ez1hgpLsmX85DnEBiLvMyTfBDQdnkjkpQ`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:55:14 | BUY | 0.000600 | `wvMEokKrvYhvYVVaXspDQC7UFLF8vE...` |
 
 ### 🟢 TRNDO
 - **Status:** open | **Exit:** open

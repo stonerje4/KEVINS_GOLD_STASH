@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 04:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 PONZI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `FZga7THab4xM3Z5DwRCje9feVL5gJzriWvjxvGGspump`
 
 | Time | Action | SOL | TX |

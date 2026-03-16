@@ -1,17 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 04:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
+| Total Positions | 10 |
 | Open | 2 |
-| Closed | 7 |
-| SOL In (closed) | 0.004200 |
-| SOL Out (sells) | 0.007086 |
-| **P&L** | **+0.002886 SOL** |
-| **ROI** | **+68.7%** |
+| Closed | 8 |
+| SOL In (closed) | 0.004800 |
+| SOL Out (sells) | 0.007490 |
+| **P&L** | **+0.002690 SOL** |
+| **ROI** | **+56.0%** |
 
 ## Trades
+
+### 🔴 MYRO
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.03x | **Current:** 0.67x
+- **Mint:** `7n9wbMkFQWzkdDMfh3zKHqxJs136Ud8diViaRv14pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:55:17 | BUY | 0.000600 | `5QFpJCLruQgx3GsNLxG5NmEstrMFmg...` |
+| 2026-03-16 04:57:28 | SELL | 0.000404 | `2THifcaWVixjcuQcnRt1puAojYnEZr...` |
 
 ### 🔴 nola
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -25,7 +35,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 1.18x
+- **Peak:** 1.37x | **Current:** 1.31x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |
@@ -44,7 +54,7 @@
 
 ### 🟢 TORIVA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 1.16x
+- **Peak:** 1.57x | **Current:** 1.57x
 - **Mint:** `DvKyYQGmXeL6hxigoGhB6ocwT2zZvQ59oN5ALMBTpump`
 
 | Time | Action | SOL | TX |

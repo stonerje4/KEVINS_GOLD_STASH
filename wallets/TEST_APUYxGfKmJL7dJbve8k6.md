@@ -1,17 +1,26 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 04:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 21 |
+| Total Positions | 22 |
 | Open | 1 |
-| Closed | 20 |
-| SOL In (closed) | 0.012000 |
+| Closed | 21 |
+| SOL In (closed) | 0.012600 |
 | SOL Out (sells) | 0.008500 |
-| **P&L** | **-0.003500 SOL** |
-| **ROI** | **-29.2%** |
+| **P&L** | **-0.004100 SOL** |
+| **ROI** | **-32.5%** |
 
 ## Trades
+
+### 🔴 SHARK
+- **Status:** closed | **Exit:** ghost_close_tp_2x_half
+- **Peak:** 2.37x | **Current:** 2.37x
+- **Mint:** `Cg5gDbqJVohnx1HwMDUndUDk2SPbkVtTs5nZWogbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:57:35 | BUY | 0.000600 | `64FAx6jCVqA21yRnbdYHBXjDck6H7F...` |
 
 ### 🔴 jobs
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -24,7 +33,7 @@
 
 ### 🟢 jobs
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 0.78x
+- **Peak:** 1.52x | **Current:** 1.52x
 - **Mint:** `FcwceuuhTgPXuy1fVdn79Gsmn6xFiSfMvi1fbjaupump`
 
 | Time | Action | SOL | TX |
