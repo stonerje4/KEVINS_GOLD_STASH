@@ -1,17 +1,27 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 04:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 15 |
+| Total Positions | 16 |
 | Open | 0 |
-| Closed | 15 |
-| SOL In (closed) | 0.009000 |
-| SOL Out (sells) | 0.007492 |
-| **P&L** | **-0.001508 SOL** |
-| **ROI** | **-16.8%** |
+| Closed | 16 |
+| SOL In (closed) | 0.009600 |
+| SOL Out (sells) | 0.007912 |
+| **P&L** | **-0.001688 SOL** |
+| **ROI** | **-17.6%** |
 
 ## Trades
+
+### 🔴 Knight
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.70x
+- **Mint:** `126gLqvTneVwzstTaTMWGLhLmRbgUjTBKypWzkNqpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:25:16 | BUY | 0.000600 | `49MhQZSiV18QnTfFkwvtTgFDVBwAyJ...` |
+| 2026-03-16 04:27:33 | SELL | 0.000421 | `5HmY9mqz6qVt22w8KZYm74rsrfmncj...` |
 
 ### 🔴 SRM
 - **Status:** closed | **Exit:** ghost_close_stop_loss

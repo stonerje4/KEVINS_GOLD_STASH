@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 04:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 59 |
-| Open | 18 |
+| Total Positions | 60 |
+| Open | 19 |
 | Closed | 41 |
 | SOL In (closed) | 0.024600 |
 | SOL Out (sells) | 0.019764 |
@@ -12,6 +12,15 @@
 | **ROI** | **-19.7%** |
 
 ## Trades
+
+### 🟢 SUPER
+- **Status:** open | **Exit:** open
+- **Peak:** 1.10x | **Current:** 1.10x
+- **Mint:** `9qZdPDsKHJSdRPZ8Megt2k52moa7p3ToW9R8zVw7pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:28:10 | BUY | 0.000600 | `4Bzz278jDWpPWsFSnKgs3T991Wh4jd...` |
 
 ### 🔴 GIGA
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -44,7 +53,7 @@
 
 ### 🟢 BLOW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 1.01x
+- **Peak:** 1.14x | **Current:** 0.97x
 - **Mint:** `HTUZFKVQsyad4YXnMkBfQHwmJUbgbAXsfeCroEETpump`
 
 | Time | Action | SOL | TX |
@@ -170,7 +179,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 1.32x
+- **Peak:** 1.40x | **Current:** 1.36x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -235,7 +244,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.03x
+- **Peak:** 1.06x | **Current:** 1.02x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |
@@ -386,7 +395,7 @@
 
 ### 🟢 JOBS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.08x
+- **Peak:** 1.39x | **Current:** 1.01x
 - **Mint:** `A3groKXFP8aipQZVt7iajAs31sa7v89KGxc8Z3X8pump`
 
 | Time | Action | SOL | TX |
@@ -436,7 +445,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.21x
+- **Peak:** 1.79x | **Current:** 1.20x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
@@ -498,7 +507,7 @@
 
 ### 🟢 とまと
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `FoWCr414zVPiMSKge6PWvCreig9UxysW9Sgr3guKpump`
 
 | Time | Action | SOL | TX |
@@ -538,7 +547,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.83x
+- **Peak:** 1.24x | **Current:** 0.79x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |

@@ -1,15 +1,15 @@
 # [PRD] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 04:25 UTC | Environment: **PRD**
+> Generated: 2026-03-16 04:30 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 47 |
-| Open | 3 |
-| Closed | 44 |
-| SOL In (closed) | 6.600000 |
-| SOL Out (sells) | 3.598021 |
-| **P&L** | **-3.001979 SOL** |
-| **ROI** | **-45.5%** |
+| Open | 2 |
+| Closed | 45 |
+| SOL In (closed) | 6.750000 |
+| SOL Out (sells) | 3.970468 |
+| **P&L** | **-2.779532 SOL** |
+| **ROI** | **-41.2%** |
 
 ## Trades
 
@@ -245,7 +245,7 @@
 | 2026-03-15 07:23:11 | SELL | 0.000000 | `3vmn5GcrBpJHShj4CHrv5KMexvSWbv...` |
 
 ### 🟢 inflation
-- **Status:** partial | **Exit:** open
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 4.85x | **Current:** 0.00x
 - **Mint:** `91F5hB3YK5c8mbZE9G38NUPms65GWtDma6R6FjMppump`
 
@@ -253,6 +253,7 @@
 |------|--------|-----|----|
 | 2026-03-14 23:38:00 | BUY | 0.150000 | `4sRf7FgueYX8kVSGaF6awe4GEVKwbJ...` |
 | 2026-03-15 16:52:47 | SELL | 0.180162 | `4eoVoP5NY5CjsxGqqKhYpKSEJ3XJHu...` |
+| 2026-03-16 04:29:33 | SELL | 0.372447 | `LtTcdcJHbgnSFN5SuPMLkrc1bXrJx7...` |
 
 ### 🔴 CLIFF
 - **Status:** closed | **Exit:** stale_position_cleanup
