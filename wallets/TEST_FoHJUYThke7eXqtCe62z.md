@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 06:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.07x
+- **Peak:** 1.09x | **Current:** 1.07x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 SMOKE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.42x | **Current:** 1.42x
+- **Peak:** 1.59x | **Current:** 1.59x
 - **Mint:** `22jZueT7geHH1BKyrJ753ATgSnwj665ctRnvqYVspump`
 
 | Time | Action | SOL | TX |
@@ -163,7 +163,7 @@
 
 ### 🟢 TRUMPHOUSE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.70x
 - **Mint:** `HZtdX9vZQCLojV4w5V6ZUUhCcwoZEJf2sv9PNDB3pump`
 
 | Time | Action | SOL | TX |
