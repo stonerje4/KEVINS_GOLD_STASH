@@ -1,22 +1,22 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 22:40 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:45 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 12 |
-| Open | 5 |
-| Closed | 7 |
-| W/L | 3/4 |
-| SOL In (closed) | 1.050000 |
-| **Closed P&L** | **-0.278447 SOL** |
-| **Closed ROI** | **-26.5%** |
-| Open Deployed | 0.750000 SOL |
+| Open | 4 |
+| Closed | 8 |
+| W/L | 4/4 |
+| SOL In (closed) | 1.200000 |
+| **Closed P&L** | **-0.204527 SOL** |
+| **Closed ROI** | **-17.0%** |
+| Open Deployed | 0.600000 SOL |
 
 ## Trades
 
 ### 🟢 Sanmao
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.00x | **Current:** 0.00x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.38x | **Current:** 0.00x
 - **Mint:** `FPAm3wb36fyWrDwG2b6hQZu2ja4JeBK99PgeBPDjpump`
 
 | Time | Action | SOL | TX |
@@ -24,6 +24,7 @@
 | 2026-03-16 22:31:38 | BUY | 0.150000 | `4iU9Rkwp9HZdRTCDyJtdM9oiQaiEzF...` |
 | 2026-03-16 22:39:22 | SELL | 0.045019 | `3KbncbccA4nB3QvcPPXmPRySwWQTEA...` |
 | 2026-03-16 22:39:27 | SELL | 0.045019 | `3KbncbccA4nB3QvcPPXmPRySwWQTEA...` |
+| 2026-03-16 22:44:52 | SELL | 0.223919 | `35rx7wt6vQH3s23UFWn9EaG7L8fDt4...` |
 
 ### 🟢 Cock
 - **Status:** closed | **Exit:** runner_trailing_stop
