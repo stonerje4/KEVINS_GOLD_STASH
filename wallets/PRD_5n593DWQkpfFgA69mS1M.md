@@ -1,18 +1,27 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 19:50 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 0 |
+| Total Positions | 8 |
+| Open | 1 |
 | Closed | 7 |
 | W/L | 2/5 |
 | SOL In (closed) | 1.050000 |
 | **Closed P&L** | **+0.238478 SOL** |
 | **Closed ROI** | **+22.7%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
+
+### 🟢 AIFREE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 0.00x
+- **Mint:** `Dqckh2A2JUWVBpNAxhcVGwKNDEAer5Jf8LV76hhpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 19:50:22 | BUY | 0.150000 | `3q4KPpsbxLxAKPYWpKbsqmpwvy7wtG...` |
 
 ### 🔴 Grandma
 - **Status:** closed | **Exit:** stop_loss
