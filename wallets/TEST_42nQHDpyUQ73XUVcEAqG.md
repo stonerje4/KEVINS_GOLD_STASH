@@ -1,22 +1,22 @@
 # [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-16 17:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 3 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.001900 |
-| **Closed P&L** | **+0.004117 SOL** |
-| **Closed ROI** | **+216.7%** |
-| Open Deployed | 0.000300 SOL |
+| Open | 2 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.002000 |
+| **Closed P&L** | **+0.004142 SOL** |
+| **Closed ROI** | **+207.1%** |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
-### 🟢 BAGPRESIDENTT
-- **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.25x
+### 🔴 BAGPRESIDENTT
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.20x
 - **Mint:** `4naHw7eX8uU4ajj6W5Be1DAn15EE3qn92D4nrQdNpump`
 
 | Time | Action | SOL | TX |

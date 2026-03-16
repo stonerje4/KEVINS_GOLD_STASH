@@ -1,4 +1,4 @@
-# [TEST] Wallet: `E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY`
+# [TEST] Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 > Generated: 2026-03-16 17:10 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 laptop
+### 🟢 Luusha 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.44x
-- **Mint:** `6jbBD7AZ8Cj9LVY6cCXdthbPLe459mpzVJPvvxc4See3`
+- **Peak:** 1.00x | **Current:** 0.96x
+- **Mint:** `4dWrMPMzEH99jm2XDf8STnwbw61ro7KumR6PnpDzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 15:42:10 | BUY | 0.000100 | `4jbhUbDyHVq8E7LDsTvHLPEA4Xca33...` |
+| 2026-03-16 17:06:41 | BUY | 0.000100 | `eqrUB9p7fyUTL1KF71Vk9rroexoAoY...` |
 

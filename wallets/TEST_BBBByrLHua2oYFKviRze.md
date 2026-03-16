@@ -1,18 +1,64 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 17:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 68 |
-| Open | 11 |
-| Closed | 57 |
-| W/L | 55/2 |
-| SOL In (closed) | 0.029200 |
-| **Closed P&L** | **+0.023963 SOL** |
-| **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.002100 SOL |
+| Total Positions | 73 |
+| Open | 15 |
+| Closed | 58 |
+| W/L | 56/2 |
+| SOL In (closed) | 0.029300 |
+| **Closed P&L** | **+0.023995 SOL** |
+| **Closed ROI** | **+81.9%** |
+| Open Deployed | 0.002500 SOL |
 
 ## Trades
+
+### 🟢 K-Dense
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.93x
+- **Mint:** `37oc6mzcT1cLb5yf88mzZnXvccheSTUft3xq92z4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:08:30 | BUY | 0.000100 | `5Td4SVKWpPbvaFpiPxJaAPUFEZDM3A...` |
+
+### 🟢 RAVEN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.60x
+- **Mint:** `3GKNSTm1LpgnUNCjjaHhDjwESTKmosPt6nhD6BwUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:08:20 | BUY | 0.000100 | `3KKXVuWkmPkeqkiyWYDTsS1B1a4Eca...` |
+
+### 🟢 Gay
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.47x
+- **Mint:** `6U9wtAniiZw1h5oya9re55RxCYfFyPLHm7VmKCNmpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:07:02 | BUY | 0.000100 | `2FCRQ5QgCrLNg4SPzntmGENtTn9yTy...` |
+
+### 🟢 Eric
+- **Status:** open | **Exit:** open
+- **Peak:** 1.11x | **Current:** 0.40x
+- **Mint:** `B99yGszeH5xgDAk5XJrEymvHpECnXoNxSo8DDHospump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:06:36 | BUY | 0.000100 | `eg7HYrKec7voZaoJo6sTXpqiaMwzPy...` |
+
+### 🔴 DANEEL
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.06x | **Current:** 0.32x
+- **Mint:** `EpMvGhq3XGtKnRVVvjqEBPzSYhWN9A5bx32ayAvHvAmf`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:05:29 | BUY | 0.000100 | `48YFcFXpmpfGimxoZNYRseVRTaGi6s...` |
+| 2026-03-16 17:09:11 | SELL | 0.000032 | `2gjxvE6Y184YR7jYoGJbWJGaytLNBP...` |
 
 ### 🔴 BENJAMIN
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -170,7 +216,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.00x
+- **Peak:** 1.74x | **Current:** 1.02x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

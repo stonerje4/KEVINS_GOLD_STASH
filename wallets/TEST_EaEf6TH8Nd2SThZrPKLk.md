@@ -1,31 +1,32 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 17:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 87 |
-| Open | 16 |
-| Closed | 71 |
-| W/L | 70/1 |
-| SOL In (closed) | 0.035100 |
-| **Closed P&L** | **+0.029632 SOL** |
-| **Closed ROI** | **+84.4%** |
-| Open Deployed | 0.003100 SOL |
+| Open | 15 |
+| Closed | 72 |
+| W/L | 71/1 |
+| SOL In (closed) | 0.035200 |
+| **Closed P&L** | **+0.029650 SOL** |
+| **Closed ROI** | **+84.2%** |
+| Open Deployed | 0.003000 SOL |
 
 ## Trades
 
-### 🟢 GODMONKEY
-- **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 1.04x
+### 🔴 GODMONKEY
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.19x | **Current:** 0.18x
 - **Mint:** `FZZx3Hm4UZLvphniWyFZPxGG4M1KbB4ntzoSKbYQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:02:59 | BUY | 0.000100 | `5SEgXZfaiKErUgxwTNyaqMzfZkywpU...` |
+| 2026-03-16 17:10:00 | SELL | 0.000018 | `4naU58RGXZMH1Zz5a8XWkYvxbsQpTa...` |
 
 ### 🟢 唐某某
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.94x
+- **Peak:** 1.04x | **Current:** 0.81x
 - **Mint:** `DH6WNNPRgLgEteFUaXTZB2hAUgqt434vsXudsQpGpump`
 
 | Time | Action | SOL | TX |
