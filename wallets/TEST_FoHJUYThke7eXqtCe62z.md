@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 16:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -167,7 +167,7 @@
 
 ### 🟢 DegenMeta
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.90x
+- **Peak:** 1.02x | **Current:** 0.82x
 - **Mint:** `DaMDDC7zSR95VykeWX5kFWywhvsSuS4mREvLE8Rppump`
 
 | Time | Action | SOL | TX |
@@ -214,7 +214,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.81x
+- **Peak:** 1.06x | **Current:** 0.90x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |
@@ -298,7 +298,7 @@
 
 ### 🟢 Wife
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `RSvkQUEBvN9bQ56cSmnu5wJkdTFXjBqAMpYQcSUpump`
 
 | Time | Action | SOL | TX |
@@ -354,7 +354,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.81x
+- **Peak:** 1.05x | **Current:** 0.92x
 - **Mint:** `6gjdV7soB8RiKvGdMh6XMinsPVyeG4TprL4rYrFQpump`
 
 | Time | Action | SOL | TX |
@@ -401,7 +401,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |

@@ -1,37 +1,51 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 16:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 64 |
-| Open | 13 |
-| Closed | 51 |
-| W/L | 49/2 |
-| SOL In (closed) | 0.028600 |
-| **Closed P&L** | **+0.023340 SOL** |
+| Total Positions | 65 |
+| Open | 12 |
+| Closed | 53 |
+| W/L | 51/2 |
+| SOL In (closed) | 0.028800 |
+| **Closed P&L** | **+0.023511 SOL** |
 | **Closed ROI** | **+81.6%** |
-| Open Deployed | 0.002300 SOL |
+| Open Deployed | 0.002200 SOL |
 
 ## Trades
 
+### 🔴 FlatHeadCat
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.36x
+- **Mint:** `CCCwTvd58TQWYEkWehr8dxEi8pDbyBqFjpxSQZ8Npump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:26:32 | BUY | 0.000100 | `2tTBquzz4hRnLQuKs4Cr4VcyyoRcJZ...` |
+| 2026-03-16 16:29:32 | SELL | 0.000036 | `3CKPSLaRKsueZaMrHWnSZYkwZtWJSy...` |
+
 ### 🟢 eˣ
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 3.85x | **Current:** 3.85x
 - **Mint:** `FUZVoM3kAu6UqwCGMpi8AMFZDZhAwZYsHAERGdphpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:24:37 | BUY | 0.000100 | `2kEpseiSDTK5Uc8UTtAYuZ11Tq4Yjk...` |
+| 2026-03-16 16:27:34 | SELL | 0.000023 | `2PmQikZ6VZDsLG9DbySJnD97CgS8xk...` |
+| 2026-03-16 16:29:31 | SELL | 0.000035 | `5EdndSE7jTpsch3Zv1Q4LRSnNmwG2a...` |
 
 ### 🟢 SOLANA
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.64x | **Current:** 2.64x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 4.10x | **Current:** 0.89x
 - **Mint:** `8V99WNEBtc1mCC8dcHbMG8Lg9gUN4A5Eigq9pvPZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:21:57 | BUY | 0.000100 | `5eqZQ7wqPsFyXF5y6T8Xw7uchfAPm2...` |
 | 2026-03-16 16:24:17 | SELL | 0.000026 | `2vSneYrFyjydx72vipmm7cZ2F2UiwX...` |
+| 2026-03-16 16:26:02 | SELL | 0.000037 | `5o8FUdTE8ix9RVrovUTQ3fHgXz5HZx...` |
+| 2026-03-16 16:28:25 | SELL | 0.000072 | `521yFxKB6HSMzLS831xmJxFGDTxZwa...` |
 
 ### 🟢 PIKKY
 - **Status:** open | **Exit:** open
@@ -123,7 +137,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.19x
+- **Peak:** 1.74x | **Current:** 1.16x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-16 16:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Orca
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.83x | **Current:** 2.83x
+- **Peak:** 2.83x | **Current:** 2.05x
 - **Mint:** `9wSZbC64PfKhsE7dW5GAeEBeQGitPBMV3hLUuLB9pump`
 
 | Time | Action | SOL | TX |
