@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 07:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,20 +7,21 @@
 | Open | 21 |
 | Closed | 7 |
 | SOL In (closed) | 0.013600 |
-| SOL Out (sells) | 0.003024 |
-| **P&L** | **-0.010576 SOL** |
-| **ROI** | **-77.8%** |
+| SOL Out (sells) | 0.003427 |
+| **P&L** | **-0.010173 SOL** |
+| **ROI** | **-74.8%** |
 
 ## Trades
 
 ### 🟢 Clutch
-- **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.87x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.24x | **Current:** 2.24x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:11:38 | BUY | 0.000600 | `27EVpZoGcZXeDV9ZLygkETSLitPP7b...` |
+| 2026-03-16 07:28:35 | SELL | 0.000403 | `5t1czDoiWGUSPfCV5764DVgybHwDZ3...` |
 
 ### 🟢 DUCKEXE
 - **Status:** open | **Exit:** open
@@ -33,7 +34,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |

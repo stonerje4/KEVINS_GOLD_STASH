@@ -1,21 +1,40 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 07:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 103 |
-| Open | 26 |
-| Closed | 77 |
-| SOL In (closed) | 0.046200 |
-| SOL Out (sells) | 0.046321 |
-| **P&L** | **+0.000121 SOL** |
-| **ROI** | **+0.3%** |
+| Total Positions | 105 |
+| Open | 27 |
+| Closed | 78 |
+| SOL In (closed) | 0.046800 |
+| SOL Out (sells) | 0.046715 |
+| **P&L** | **-0.000085 SOL** |
+| **ROI** | **-0.2%** |
 
 ## Trades
 
+### 🟢 モガー
+- **Status:** open | **Exit:** open
+- **Peak:** 1.41x | **Current:** 1.41x
+- **Mint:** `9XSX2XgNa5eCJfKixxaFRP8uJNbzKamYgcP4Q3Xjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:27:46 | BUY | 0.000600 | `SM2G11mAvM3bV76i1Bo6DVmcbQkfDe...` |
+
+### 🔴 CCA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.64x
+- **Mint:** `6kbvQbrHycepjodBrMfmKFd6keaAQuD5DnANsJbbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:26:29 | BUY | 0.000600 | `2S3n67NLgkfN2ushUD4LejEPB9gKz2...` |
+| 2026-03-16 07:27:44 | SELL | 0.000394 | `5zWU1SqZXi7tgsDMxHTEHmVS3KD8N3...` |
+
 ### 🟢 pwogrammer
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 1.07x
+- **Peak:** 1.37x | **Current:** 1.37x
 - **Mint:** `9fWA7ehj57KtB9ZdtxNDn2yhLMg55PGmVMT6KUqRpump`
 
 | Time | Action | SOL | TX |
@@ -418,7 +437,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.11x
+- **Peak:** 1.12x | **Current:** 1.07x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -761,7 +780,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.08x
+- **Peak:** 1.43x | **Current:** 1.09x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -884,7 +903,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.33x
+- **Peak:** 1.79x | **Current:** 1.32x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
@@ -986,7 +1005,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.64x
+- **Peak:** 1.87x | **Current:** 1.54x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |

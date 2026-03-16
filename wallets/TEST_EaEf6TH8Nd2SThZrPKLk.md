@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,24 +7,25 @@
 | Open | 5 |
 | Closed | 17 |
 | SOL In (closed) | 0.010200 |
-| SOL Out (sells) | 0.011504 |
-| **P&L** | **+0.001304 SOL** |
-| **ROI** | **+12.8%** |
+| SOL Out (sells) | 0.011883 |
+| **P&L** | **+0.001683 SOL** |
+| **ROI** | **+16.5%** |
 
 ## Trades
 
 ### 🟢 GOAT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.25x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.41x | **Current:** 2.41x
 - **Mint:** `HfBXtBVP1SHiZeALNczuS3jN4vrjBUPZDFqwogf2pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 07:23:58 | BUY | 0.000600 | `4mPouwU4f6y7iHUj5kPZ5WfyKuckvn...` |
+| 2026-03-16 07:29:08 | SELL | 0.000379 | `yb5CjYtH2uBw2ghfpdJCguWQXk3tFW...` |
 
 ### 🟢 TSUZUMI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.07x | **Current:** 1.07x
 - **Mint:** `4WeXDXwe1MPZDbbLRzGPDmKj5eb8v9EWk8wnwpHdpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +34,7 @@
 
 ### 🟢 alonxbt
 - **Status:** open | **Exit:** open
-- **Peak:** 1.58x | **Current:** 0.99x
+- **Peak:** 1.58x | **Current:** 1.41x
 - **Mint:** `4RKfEKd6H7TDDKGfyp7Xt4qoGiGy56KkR9nLcVaXpump`
 
 | Time | Action | SOL | TX |
