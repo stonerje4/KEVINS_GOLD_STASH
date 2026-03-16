@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 10:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,9 +7,9 @@
 | Open | 3 |
 | Closed | 13 |
 | SOL In (closed) | 0.007800 |
-| SOL Out (sells) | 0.003375 |
-| **P&L** | **-0.004425 SOL** |
-| **ROI** | **-56.7%** |
+| SOL Out (sells) | 0.003745 |
+| **P&L** | **-0.004055 SOL** |
+| **ROI** | **-52.0%** |
 
 ## Trades
 
@@ -91,13 +91,14 @@
 | 2026-03-16 03:16:18 | SELL | 0.000380 | `26H4P5fdsmckbPDA23QeyvBdbC1qHZ...` |
 
 ### 🟢 ZIO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.94x | **Current:** 1.82x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.11x | **Current:** 2.07x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:06:28 | BUY | 0.000600 | `5DpaqFkgkFbtakzMPUJtCbFyyscZHw...` |
+| 2026-03-16 10:37:08 | SELL | 0.000370 | `5orCV9WngD9BTW1vA8arbWa1o3eTP9...` |
 
 ### 🔴 FOOD
 - **Status:** closed | **Exit:** ghost_close_stop_loss

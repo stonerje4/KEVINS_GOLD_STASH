@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 10:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 ROCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 1.49x
+- **Peak:** 1.49x | **Current:** 1.05x
 - **Mint:** `HEacYvtsxpaFCe7J12JrXmvBMMwjKBHo8UxyFqDDpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 AVA 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.78x
+- **Peak:** 1.02x | **Current:** 0.77x
 - **Mint:** `7xTRj5B3ErWFQ5qKKA2YjabLNQGML3v18UwY21sYpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 FIVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.64x | **Current:** 0.90x
+- **Peak:** 1.64x | **Current:** 0.89x
 - **Mint:** `6ScrjJgnV4tWnpY9vQWychPdweW6YWNE7N94iS4Rpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 PUMPERS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.88x
+- **Peak:** 1.07x | **Current:** 0.84x
 - **Mint:** `GpPmQTqV3KeTRUWCxFtnw3VQHuAqqG4HWsxvw6Vwpump`
 
 | Time | Action | SOL | TX |

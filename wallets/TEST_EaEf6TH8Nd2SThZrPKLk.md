@@ -1,15 +1,15 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 10:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 39 |
-| Open | 2 |
-| Closed | 37 |
-| SOL In (closed) | 0.022200 |
-| SOL Out (sells) | 0.020843 |
-| **P&L** | **-0.001357 SOL** |
-| **ROI** | **-6.1%** |
+| Open | 1 |
+| Closed | 38 |
+| SOL In (closed) | 0.022800 |
+| SOL Out (sells) | 0.021210 |
+| **P&L** | **-0.001590 SOL** |
+| **ROI** | **-7.0%** |
 
 ## Trades
 
@@ -78,7 +78,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.10x | **Current:** 1.88x
+- **Peak:** 2.10x | **Current:** 1.81x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |
@@ -86,14 +86,15 @@
 | 2026-03-16 09:56:30 | BUY | 0.000600 | `2uDcfd7tpHq7XGCtcsz7LuiujMDiNs...` |
 | 2026-03-16 10:10:16 | SELL | 0.000378 | `523gyBevn8uw96JkM7XTKc7ihxjD5B...` |
 
-### 🟢 AIRI
-- **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 0.96x
+### 🔴 AIRI
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.49x | **Current:** 0.61x
 - **Mint:** `3UJZRvYvP8Mef4boByK4Kj4CW61FLfZyNhGgoVrypump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:53:51 | BUY | 0.000600 | `eG2FHp2eUSUrdhFwYwr4ubBUVjVhjS...` |
+| 2026-03-16 10:39:18 | SELL | 0.000367 | `X9g87ZY3w14i9m32Rtr2BxsrccKTBQ...` |
 
 ### 🔴 Nobrainer
 - **Status:** closed | **Exit:** ghost_close_stop_loss
