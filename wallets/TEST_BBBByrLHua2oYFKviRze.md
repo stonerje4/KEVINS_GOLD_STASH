@@ -1,27 +1,47 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 08:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 25 |
+| Total Positions | 27 |
 | Open | 1 |
-| Closed | 24 |
-| SOL In (closed) | 0.014400 |
-| SOL Out (sells) | 0.011885 |
-| **P&L** | **-0.002515 SOL** |
-| **ROI** | **-17.5%** |
+| Closed | 26 |
+| SOL In (closed) | 0.015600 |
+| SOL Out (sells) | 0.013222 |
+| **P&L** | **-0.002378 SOL** |
+| **ROI** | **-15.2%** |
 
 ## Trades
 
+### 🟢 $Wifi
+- **Status:** open | **Exit:** open
+- **Peak:** 1.03x | **Current:** 0.81x
+- **Mint:** `Eqg5Byty6R9i6ULQfvJbQVR5wtoFQ3DKdayPYHFbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:26:35 | BUY | 0.000600 | `2hgd3NkpTzavFr7UdUBN6XhbFz95Ph...` |
+
+### 🔴 BIAO
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.15x | **Current:** 0.49x
+- **Mint:** `DVFz3NoiZyFQUju8BYtwHLwEXMnAKN2AEWfr6Qfpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:26:16 | BUY | 0.000600 | `63tdwrf9fdLQbxMaN1trsEmojxrLNY...` |
+| 2026-03-16 08:27:42 | SELL | 0.000408 | `24ba4nW7Qfv31qD15fqTzweEF6zr4Z...` |
+
 ### 🟢 OIL
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.93x | **Current:** 2.51x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.93x | **Current:** 2.21x
 - **Mint:** `6Qn4vnptULSSJ8v9tPgjKTHZRBmpQNm72gcy51BhAv7d`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 08:19:59 | BUY | 0.000600 | `2wNWhANbdnBn1NCwYUszMsd1RgKgWJ...` |
 | 2026-03-16 08:22:50 | SELL | 0.000597 | `3XTYR8C6Kf7aLPoa7K6V9MXM5z75j3...` |
+| 2026-03-16 08:27:40 | SELL | 0.000929 | `3crgQN5QSxWFZ8zanWYKWdsoscTZCQ...` |
 
 ### 🔴 ANMOO
 - **Status:** closed | **Exit:** ghost_close_stop_loss

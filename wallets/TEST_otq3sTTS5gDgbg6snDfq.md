@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 08:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 29 |
-| Open | 23 |
+| Total Positions | 30 |
+| Open | 24 |
 | Closed | 6 |
 | SOL In (closed) | 0.003600 |
 | SOL Out (sells) | 0.002357 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 Subagent
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `9fpxGq9sMsYATQNpzGLtXyXaLBNBbFekaj7oypYhpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:28:10 | BUY | 0.000600 | `4sXLJt6sUej8HkkbNgPDXr17ccHctq...` |
+
 ### 🟢 CITYGIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.01x | **Current:** 0.90x
 - **Mint:** `C4g6BS4xXiqo7Y6LjiLykMNdVPuJkFfj7SRDQXUBpump`
 
 | Time | Action | SOL | TX |
@@ -96,7 +105,7 @@
 
 ### 🟢 Salary
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.71x
+- **Peak:** 1.00x | **Current:** 0.70x
 - **Mint:** `EskhLZ4UYrPCggC2w2LB4hWS5VzkiagCaeFHxJScpump`
 
 | Time | Action | SOL | TX |
@@ -123,7 +132,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |
