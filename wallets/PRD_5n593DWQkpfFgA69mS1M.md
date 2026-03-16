@@ -1,18 +1,29 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 22:05 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:10 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 1 |
+| Total Positions | 10 |
+| Open | 2 |
 | Closed | 8 |
 | W/L | 2/6 |
 | SOL In (closed) | 1.200000 |
 | **Closed P&L** | **+0.148165 SOL** |
 | **Closed ROI** | **+12.3%** |
-| Open Deployed | 0.150000 SOL |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
+
+### 🟢 Soulmates
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `2k1Sxj2ZNpWtvwANBWsN4SNtdRzonHgh7FJFRYympump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 20:46:36 | BUY | 0.150000 | `52dMFhuVrPAnuP3sTHnM6qe5MVbtZu...` |
+| 2026-03-16 21:11:13 | SELL | 0.057619 | `2jwSTFrjSJLjDZi9mRdBoJdngzzA3v...` |
+| 2026-03-16 22:09:09 | BUY | 0.150000 | `2CWrdiwd2BMiNQvMQVVtm674xqHm7u...` |
 
 ### 🔴 meowism
 - **Status:** closed | **Exit:** stop_loss
