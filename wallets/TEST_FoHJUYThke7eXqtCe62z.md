@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 04:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 19 |
-| Open | 14 |
+| Total Positions | 20 |
+| Open | 15 |
 | Closed | 5 |
 | SOL In (closed) | 0.012400 |
 | SOL Out (sells) | 0.002028 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 TRNDO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `6X6Au8G57AzMKU51toiPn8AJs6NLRYobXHQ39evdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:46:48 | BUY | 0.000600 | `3fiwYakh7MjRZ6VxWLMEU1qf7hzLDc...` |
+
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
@@ -109,7 +118,7 @@
 
 ### 🟢 TRUMPHOUSE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `HZtdX9vZQCLojV4w5V6ZUUhCcwoZEJf2sv9PNDB3pump`
 
 | Time | Action | SOL | TX |

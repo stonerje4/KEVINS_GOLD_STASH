@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 04:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,15 +7,15 @@
 | Open | 21 |
 | Closed | 44 |
 | SOL In (closed) | 0.026400 |
-| SOL Out (sells) | 0.021328 |
-| **P&L** | **-0.005072 SOL** |
-| **ROI** | **-19.2%** |
+| SOL Out (sells) | 0.021962 |
+| **P&L** | **-0.004438 SOL** |
+| **ROI** | **-16.8%** |
 
 ## Trades
 
 ### 🟢 ◎
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+- **Peak:** 1.12x | **Current:** 0.95x
 - **Mint:** `58ZtH7Z8JK2gNdUbf3kGTRMae3x949nxhpTrQZhgpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 1.01x
+- **Peak:** 1.05x | **Current:** 1.02x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -100,7 +100,7 @@
 
 ### 🟢 BLOW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 0.81x
+- **Peak:** 1.14x | **Current:** 0.77x
 - **Mint:** `HTUZFKVQsyad4YXnMkBfQHwmJUbgbAXsfeCroEETpump`
 
 | Time | Action | SOL | TX |
@@ -227,7 +227,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.26x
+- **Peak:** 1.43x | **Current:** 1.24x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -443,17 +443,18 @@
 
 ### 🟢 JOBS
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.00x | **Current:** 2.44x
+- **Peak:** 5.11x | **Current:** 5.11x
 - **Mint:** `A3groKXFP8aipQZVt7iajAs31sa7v89KGxc8Z3X8pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:07:41 | BUY | 0.000600 | `4ZipPd5apsaDTnZm6YkYfRJ8EXtAwz...` |
 | 2026-03-16 04:40:23 | SELL | 0.000439 | `4UNszmgXq5PYzUKmGyptBtuWo6zNHU...` |
+| 2026-03-16 04:49:32 | SELL | 0.000634 | `2V6APf5KUMzGboTrYLX2sCWbHDPPkb...` |
 
 ### 🟢 6
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `2JrxHx14tsWXJisAVVFh5v2nhFwXV1wL2yj4Au1Bpump`
 
 | Time | Action | SOL | TX |

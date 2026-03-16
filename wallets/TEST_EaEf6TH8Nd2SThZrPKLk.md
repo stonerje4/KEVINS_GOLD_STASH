@@ -1,30 +1,50 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 04:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
+| Total Positions | 9 |
 | Open | 2 |
-| Closed | 5 |
-| SOL In (closed) | 0.003000 |
-| SOL Out (sells) | 0.006465 |
-| **P&L** | **+0.003465 SOL** |
-| **ROI** | **+115.5%** |
+| Closed | 7 |
+| SOL In (closed) | 0.004200 |
+| SOL Out (sells) | 0.007086 |
+| **P&L** | **+0.002886 SOL** |
+| **ROI** | **+68.7%** |
 
 ## Trades
 
-### 🟢 Gymskin
+### 🔴 nola
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.47x
+- **Mint:** `BYGduMr5NxTzGZvzMWeMjBW4tA4cPs24t4wbeQAN3S2D`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:48:41 | BUY | 0.000600 | `QAGuNij3e1ZccaARVRx8P8LdKAcbsQ...` |
+| 2026-03-16 04:48:57 | SELL | 0.000282 | `5uabdmw67FJVXLFnccPAjFvyDM3juP...` |
+
+### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.10x | **Current:** 1.10x
+- **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:46:30 | BUY | 0.000600 | `3D1sjmEzpwWR5egbV9FGgPMBrwsqio...` |
+
+### 🔴 Gymskin
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.56x
 - **Mint:** `CY19qfakNW6YfhtVtXGKo2YMfiS8h53kiuM9yJGqpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:43:06 | BUY | 0.000600 | `2GqxjLtAM9mQj6B434LUUWuUGhDAVP...` |
+| 2026-03-16 04:46:04 | SELL | 0.000339 | `3Fy96EoJgNfhWLEu7VvWafY5Je8rUs...` |
 
 ### 🟢 TORIVA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.05x | **Current:** 1.05x
 - **Mint:** `DvKyYQGmXeL6hxigoGhB6ocwT2zZvQ59oN5ALMBTpump`
 
 | Time | Action | SOL | TX |
