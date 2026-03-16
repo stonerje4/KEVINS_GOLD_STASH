@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 14:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Mala
 - **Status:** open | **Exit:** open
-- **Peak:** 1.61x | **Current:** 0.50x
+- **Peak:** 1.61x | **Current:** 0.41x
 - **Mint:** `UHjAJ2GLCwdWAL7FssN88PFjNPdwSSLENXQWZyX6AYP`
 
 | Time | Action | SOL | TX |

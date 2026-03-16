@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 14:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 SUBARU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.35x
+- **Peak:** 1.63x | **Current:** 0.79x
 - **Mint:** `DExfxh9JyvpP8WH2xCMGcVC3KBCK29CpVMYEEhrvpump`
 
 | Time | Action | SOL | TX |

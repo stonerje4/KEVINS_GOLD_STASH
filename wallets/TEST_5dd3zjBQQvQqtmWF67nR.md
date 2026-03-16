@@ -1,5 +1,5 @@
 # [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
-> Generated: 2026-03-16 14:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 AIFREE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 1.52x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.59x | **Current:** 2.59x
 - **Mint:** `Dqckh2A2JUWVBpNAxhcVGwKNDEAer5Jf8LV76hhpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 13:57:27 | BUY | 0.000600 | `WDv8oR63o3Dpyznjs41U4yymBYjqhv...` |
+| 2026-03-16 14:38:59 | SELL | 0.000151 | `49VwEMdPzK7ds6qyDie8qN47dfDVqz...` |
 
 ### 🟢 GORILLA
 - **Status:** open | **Exit:** open
