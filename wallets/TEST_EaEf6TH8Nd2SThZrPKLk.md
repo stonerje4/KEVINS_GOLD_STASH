@@ -1,17 +1,26 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 05:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
+| Total Positions | 13 |
 | Open | 2 |
-| Closed | 10 |
-| SOL In (closed) | 0.006000 |
-| SOL Out (sells) | 0.008780 |
-| **P&L** | **+0.002780 SOL** |
-| **ROI** | **+46.3%** |
+| Closed | 11 |
+| SOL In (closed) | 0.006600 |
+| SOL Out (sells) | 0.009179 |
+| **P&L** | **+0.002579 SOL** |
+| **ROI** | **+39.1%** |
 
 ## Trades
+
+### 🟢 $MARLA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.14x | **Current:** 1.14x
+- **Mint:** `GoKgzJFuZBPKgdA4L23QB4CR1r1GjBWB18xCjFFdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:53:46 | BUY | 0.000600 | `5VJ6T6yXq5nmrnKUibtra8SBq4wP1H...` |
 
 ### 🟢 wild
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -24,14 +33,15 @@
 | 2026-03-16 05:37:41 | SELL | 0.000377 | `2kZV1YTrQ8o41xe1738Pn6iY7iNFiV...` |
 | 2026-03-16 05:41:13 | SELL | 0.000624 | `31db7mqFujwSdoku7twLWr87sfoVeh...` |
 
-### 🟢 Peace
-- **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.77x
+### 🔴 Peace
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.30x | **Current:** 0.67x
 - **Mint:** `HEeB2bEe8gjE51Lhi11CVUUdUNnsE6HFc4iRYWRjpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:20:24 | BUY | 0.000600 | `2K7kYwdq7UaXzwV4LvJQAKHzr5gmSM...` |
+| 2026-03-16 05:50:46 | SELL | 0.000399 | `RUUbhdNo93P1Zbh3S5mfiJcFEfirwa...` |
 
 ### 🔴 MYRO
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -55,7 +65,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.01x
+- **Peak:** 1.59x | **Current:** 0.99x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

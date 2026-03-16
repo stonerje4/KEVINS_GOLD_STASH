@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 05:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 24 |
-| Open | 19 |
+| Total Positions | 25 |
+| Open | 20 |
 | Closed | 5 |
 | SOL In (closed) | 0.012400 |
 | SOL Out (sells) | 0.002028 |
@@ -12,6 +12,15 @@
 | **ROI** | **-83.6%** |
 
 ## Trades
+
+### 🟢 Garnet
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.90x
+- **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:53:43 | BUY | 0.000600 | `hg1mRoWHFC1h5opi7b1oCUrrKQz9Ed...` |
 
 ### 🟢 Wife
 - **Status:** open | **Exit:** open
@@ -24,7 +33,7 @@
 
 ### 🟢 SMOKE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 1.15x
+- **Peak:** 1.25x | **Current:** 1.25x
 - **Mint:** `22jZueT7geHH1BKyrJ753ATgSnwj665ctRnvqYVspump`
 
 | Time | Action | SOL | TX |
@@ -60,7 +69,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
@@ -78,7 +87,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |
@@ -116,7 +125,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |
@@ -172,7 +181,7 @@
 
 ### 🟢 NPC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.86x
+- **Peak:** 1.02x | **Current:** 0.79x
 - **Mint:** `5NrVvCRuNctUbQTkSP8pwEeAd4n9g59bguUgUn7npump`
 
 | Time | Action | SOL | TX |

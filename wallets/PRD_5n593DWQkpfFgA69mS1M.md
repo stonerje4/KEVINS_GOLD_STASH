@@ -1,17 +1,28 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 05:50 UTC | Environment: **PRD**
+> Generated: 2026-03-16 05:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 0 |
+| Total Positions | 6 |
+| Open | 1 |
 | Closed | 5 |
 | SOL In (closed) | 0.750000 |
-| SOL Out (sells) | 2.178485 |
-| **P&L** | **+1.428485 SOL** |
-| **ROI** | **+190.5%** |
+| SOL Out (sells) | 2.275123 |
+| **P&L** | **+1.525123 SOL** |
+| **ROI** | **+203.3%** |
 
 ## Trades
+
+### 🟢 tiger
+- **Status:** open | **Exit:** open
+- **Peak:** 1.43x | **Current:** 0.00x
+- **Mint:** `9ZoMfMP5qCG8tWdtBZ9AoWKB8YheypR7BLTKvusspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:43:15 | BUY | 0.150000 | `4WXZqf8hwoyezNSCueAnjemTUAZiGb...` |
+| 2026-03-16 05:44:22 | SELL | 0.096638 | `3r3zWUsmhAwzpjhgxWU7GiHCtoGGL9...` |
+| 2026-03-16 05:51:07 | BUY | 0.150000 | `3FhU8XXzoANqngwaqWeLrhVUyikeqg...` |
 
 ### 🟢 DIMOS
 - **Status:** closed | **Exit:** runner_trailing_stop
