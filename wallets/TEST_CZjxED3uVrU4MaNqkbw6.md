@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 10:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,15 +7,15 @@
 | Open | 3 |
 | Closed | 6 |
 | SOL In (closed) | 0.003600 |
-| SOL Out (sells) | 0.003848 |
-| **P&L** | **+0.000248 SOL** |
-| **ROI** | **+6.9%** |
+| SOL Out (sells) | 0.004243 |
+| **P&L** | **+0.000643 SOL** |
+| **ROI** | **+17.9%** |
 
 ## Trades
 
 ### 🟢 PUSHEEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 1.18x
+- **Peak:** 1.22x | **Current:** 1.10x
 - **Mint:** `7ttsZScQAsya7eiUfkG6PoTVNARkkZXccqRviDtTpump`
 
 | Time | Action | SOL | TX |
@@ -33,13 +33,14 @@
 | 2026-03-16 09:08:23 | SELL | 0.000383 | `37oSymh9xPrTkBwzuqQ1XStFN34RXE...` |
 
 ### 🟢 BULLS
-- **Status:** open | **Exit:** open
-- **Peak:** 1.89x | **Current:** 1.69x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.22x | **Current:** 2.22x
 - **Mint:** `GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 08:52:04 | BUY | 0.000600 | `5FP59xW8pKGrSLA2R5AL6zivoqu15L...` |
+| 2026-03-16 10:54:43 | SELL | 0.000396 | `2kUgGdjXpnw8RRxPSv8USyt1xCF5qQ...` |
 
 ### 🔴 JORDAN
 - **Status:** closed | **Exit:** ghost_close_stop_loss

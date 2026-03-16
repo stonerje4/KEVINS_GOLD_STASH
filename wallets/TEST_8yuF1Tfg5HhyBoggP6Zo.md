@@ -1,26 +1,27 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 10:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 1 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
-| SOL Out (sells) | 0.001110 |
-| **P&L** | **-0.000690 SOL** |
-| **ROI** | **-38.3%** |
+| Open | 0 |
+| Closed | 4 |
+| SOL In (closed) | 0.002400 |
+| SOL Out (sells) | 0.001434 |
+| **P&L** | **-0.000966 SOL** |
+| **ROI** | **-40.2%** |
 
 ## Trades
 
-### 🟢 Koozie
-- **Status:** open | **Exit:** open
-- **Peak:** 1.91x | **Current:** 1.27x
+### 🔴 Koozie
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.91x | **Current:** 0.54x
 - **Mint:** `D9Y9TiADgciiFPUwkehMjgNUaq3Ux3Bnr1CZMkJzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 10:14:37 | BUY | 0.000600 | `4Rv1FMZrZmbo7VMbRGuTMa2Vth8AWo...` |
+| 2026-03-16 10:54:05 | SELL | 0.000324 | `4nfvMMCU3An3U7xDsEHp1jnHVnygHn...` |
 
 ### 🔴 NEO
 - **Status:** closed | **Exit:** ghost_close_stop_loss

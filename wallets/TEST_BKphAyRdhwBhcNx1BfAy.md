@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 10:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 150 |
-| Open | 34 |
+| Total Positions | 151 |
+| Open | 35 |
 | Closed | 116 |
 | SOL In (closed) | 0.069600 |
 | SOL Out (sells) | 0.063919 |
@@ -12,6 +12,15 @@
 | **ROI** | **-8.2%** |
 
 ## Trades
+
+### 🟢 SHITCOIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.43x | **Current:** 1.43x
+- **Mint:** `7d16UvK5vFtjz2M59e4wJ2ewj3HZr4hG3Wjmjhwzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:51:53 | BUY | 0.000600 | `2hDeVp8SdbmjkQhzUH3bR5RqpTzyq5...` |
 
 ### 🔴 骡子快跑
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -24,7 +33,7 @@
 | 2026-03-16 10:45:42 | SELL | 0.000378 | `2dpu597ASEwg683pkwcnsNxkraktAA...` |
 
 ### 🔴 UnitreeG1
-- **Status:** closing | **Exit:** stop_loss
+- **Status:** closed | **Exit:** ghost_close_stop_loss
 - **Peak:** 1.13x | **Current:** 0.36x
 - **Mint:** `DxFpB7wn134jgwNye5gxwKCoDaDEnQeKxAAX6m6Qpump`
 
@@ -93,7 +102,7 @@
 
 ### 🟢 NANO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 1.55x
+- **Peak:** 1.57x | **Current:** 1.57x
 - **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
 
 | Time | Action | SOL | TX |
@@ -710,7 +719,7 @@
 
 ### 🟢 骡子快跑
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `BmZnETG7aTfgCCm7b3V8JU9122usumdXeM283HWgpump`
 
 | Time | Action | SOL | TX |
@@ -883,7 +892,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.87x
+- **Peak:** 1.12x | **Current:** 0.88x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -1226,7 +1235,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.99x
+- **Peak:** 1.43x | **Current:** 0.97x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -1349,7 +1358,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.50x
+- **Peak:** 1.79x | **Current:** 1.54x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |

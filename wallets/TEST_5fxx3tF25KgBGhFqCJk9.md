@@ -1,17 +1,27 @@
 # [TEST] Wallet: `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus`
-> Generated: 2026-03-16 10:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
+| Total Positions | 4 |
 | Open | 0 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
-| SOL Out (sells) | 0.001473 |
-| **P&L** | **-0.000327 SOL** |
-| **ROI** | **-18.2%** |
+| Closed | 4 |
+| SOL In (closed) | 0.002400 |
+| SOL Out (sells) | 0.001888 |
+| **P&L** | **-0.000512 SOL** |
+| **ROI** | **-21.3%** |
 
 ## Trades
+
+### 🔴 MULERUN
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.69x
+- **Mint:** `3tN15KJSEA1NsYn3nbDrUWNiTyubUxXbS5roZxuYpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 10:50:55 | BUY | 0.000600 | `3eAgpEo91hZBpT8JvDr45w4fF69pdM...` |
+| 2026-03-16 10:51:12 | SELL | 0.000416 | `4VMU7nm6xvNEJzZoPcFpQzybzefcrE...` |
 
 ### 🔴 Rocketman
 - **Status:** closed | **Exit:** ghost_close_stop_loss
