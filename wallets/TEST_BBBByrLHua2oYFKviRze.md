@@ -1,26 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 08:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 27 |
-| Open | 1 |
-| Closed | 26 |
-| SOL In (closed) | 0.015600 |
-| SOL Out (sells) | 0.013222 |
-| **P&L** | **-0.002378 SOL** |
-| **ROI** | **-15.2%** |
+| Open | 0 |
+| Closed | 27 |
+| SOL In (closed) | 0.016200 |
+| SOL Out (sells) | 0.013582 |
+| **P&L** | **-0.002618 SOL** |
+| **ROI** | **-16.2%** |
 
 ## Trades
 
-### 🟢 $Wifi
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.81x
+### 🔴 $Wifi
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.03x | **Current:** 0.60x
 - **Mint:** `Eqg5Byty6R9i6ULQfvJbQVR5wtoFQ3DKdayPYHFbpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 08:26:35 | BUY | 0.000600 | `2hgd3NkpTzavFr7UdUBN6XhbFz95Ph...` |
+| 2026-03-16 08:30:44 | SELL | 0.000360 | `3RDeJBxdzHzhL7hk4XELyGy6M49h9p...` |
 
 ### 🔴 BIAO
 - **Status:** closed | **Exit:** ghost_close_stop_loss

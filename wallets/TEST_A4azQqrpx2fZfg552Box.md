@@ -1,10 +1,10 @@
 # [TEST] Wallet: `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM`
-> Generated: 2026-03-16 08:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 2 |
+| Total Positions | 3 |
+| Open | 3 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.000000 |
@@ -12,6 +12,15 @@
 | **ROI** | **+0.0%** |
 
 ## Trades
+
+### 🟢 UNIPEP
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `FL9p2LK5Vz4cqdSzyidd42HGsVJNs3MAYE4Yxnuapump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:30:25 | BUY | 0.000600 | `3CsPG5FANfC7UPtVqHpJyh4SrWBJtJ...` |
 
 ### 🟢 DRONE
 - **Status:** open | **Exit:** open
