@@ -1,26 +1,27 @@
 # Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 00:50 UTC
+> Generated: 2026-03-16 00:55 UTC
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.002528 |
-| **P&L** | **+0.001328 SOL** |
-| **ROI** | **+110.6%** |
+| Open | 0 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
+| SOL Out (sells) | 0.002918 |
+| **P&L** | **+0.001118 SOL** |
+| **ROI** | **+62.1%** |
 
 ## Trades
 
-### 🟢 TWINKLE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.53x | **Current:** 0.73x
+### 🔴 TWINKLE
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.53x | **Current:** 0.65x
 - **Mint:** `AJa11Um6nQBBtRULwbW7TGxaXNDs3LuimcE9eLAypump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 23:00:39 | BUY | 0.000600 | `3WHc4vMS8vVdEWcLuU9dnVXskn9jtj...` |
+| 2026-03-16 00:52:52 | SELL | 0.000390 | `5C68SXFNLFMP78ggYNQeqRJV631wZP...` |
 
 ### 🔴 Baldi
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
