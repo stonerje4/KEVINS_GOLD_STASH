@@ -1,39 +1,41 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 05:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 76 |
-| Open | 25 |
-| Closed | 51 |
-| SOL In (closed) | 0.030600 |
-| SOL Out (sells) | 0.026145 |
-| **P&L** | **-0.004455 SOL** |
-| **ROI** | **-14.6%** |
+| Open | 24 |
+| Closed | 52 |
+| SOL In (closed) | 0.031200 |
+| SOL Out (sells) | 0.027205 |
+| **P&L** | **-0.003995 SOL** |
+| **ROI** | **-12.8%** |
 
 ## Trades
 
-### 🟢 clawbands
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+### 🔴 clawbands
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.51x
 - **Mint:** `EZqqN5sVDHiWcvZ3zKbd7VuxY1QmeSzqXdUm6kB1pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:34:40 | BUY | 0.000600 | `4QQUprfffGKuMGgxLLMmrzShCj1rcV...` |
+| 2026-03-16 05:37:06 | SELL | 0.000307 | `4nPBh6ALTasBBVDFmZpjyrLkiJQfpD...` |
 
 ### 🟢 NOCOIN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.46x | **Current:** 1.46x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.15x | **Current:** 1.96x
 - **Mint:** `FzbfZQpZX7Zw5XhtZav7sQdULfpN6Z7nReiGxpCApump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:28:06 | BUY | 0.000600 | `3GrCBXwWAdAweBt6ptxLp1sB1pN6iP...` |
+| 2026-03-16 05:38:45 | SELL | 0.000388 | `pKiZ68gEmFgQ4hy1tefsYyXXMcuXzw...` |
 
 ### 🟢 Unemployed
 - **Status:** open | **Exit:** open
-- **Peak:** 1.70x | **Current:** 1.47x
+- **Peak:** 1.98x | **Current:** 1.98x
 - **Mint:** `5phXw5QBpNUWKGGiyr5ocjSjwYQWcPkDd1oTyj9cpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +44,7 @@
 
 ### 🟢 plumber
 - **Status:** partial | **Exit:** open
-- **Peak:** 5.33x | **Current:** 5.33x
+- **Peak:** 7.65x | **Current:** 7.65x
 - **Mint:** `2Pah9ZUfpii27ABrWfQorzdW8FSJimxj6izFr4oGpump`
 
 | Time | Action | SOL | TX |
@@ -111,7 +113,7 @@
 
 ### 🟢 Übermensch
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `651nrR2zXYRXX9qZFMVRfSgv1Faafep78XK65SeXpump`
 
 | Time | Action | SOL | TX |
@@ -130,7 +132,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 1.14x
+- **Peak:** 1.21x | **Current:** 1.21x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -139,7 +141,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.00x
+- **Peak:** 1.10x | **Current:** 0.99x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -333,13 +335,14 @@
 | 2026-03-16 03:25:17 | SELL | 0.000328 | `3pMNTd26qEAL45RfTS9fERPgMCEHTu...` |
 
 ### 🟢 Crawstar
-- **Status:** open | **Exit:** open
-- **Peak:** 1.81x | **Current:** 1.73x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.08x | **Current:** 2.08x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:19:32 | BUY | 0.000600 | `3Q145ca5sdby7NcuPjiwSbyJMnt7yB...` |
+| 2026-03-16 05:39:49 | SELL | 0.000365 | `412RqfLzNXKNh8mLTnpC27otLey33L...` |
 
 ### 🔴 페이커
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -603,7 +606,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.22x
+- **Peak:** 1.79x | **Current:** 1.26x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
@@ -705,7 +708,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.20x
+- **Peak:** 1.24x | **Current:** 1.17x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
@@ -744,7 +747,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.73x
+- **Peak:** 1.37x | **Current:** 0.74x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |

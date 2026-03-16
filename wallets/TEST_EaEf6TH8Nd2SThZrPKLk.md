@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 05:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,20 +7,21 @@
 | Open | 3 |
 | Closed | 9 |
 | SOL In (closed) | 0.005400 |
-| SOL Out (sells) | 0.007780 |
-| **P&L** | **+0.002380 SOL** |
-| **ROI** | **+44.1%** |
+| SOL Out (sells) | 0.008156 |
+| **P&L** | **+0.002756 SOL** |
+| **ROI** | **+51.0%** |
 
 ## Trades
 
 ### 🟢 wild
-- **Status:** open | **Exit:** open
-- **Peak:** 1.91x | **Current:** 1.80x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.18x | **Current:** 1.67x
 - **Mint:** `9MpAckk7Bw6piwpDFHNayGpGW3JqzTPz9FsXfhBBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:24:36 | BUY | 0.000600 | `5tZu1xGWmichsBMMu93ofZT3HqkMU3...` |
+| 2026-03-16 05:37:41 | SELL | 0.000377 | `2kZV1YTrQ8o41xe1738Pn6iY7iNFiV...` |
 
 ### 🟢 Peace
 - **Status:** open | **Exit:** open
@@ -53,7 +54,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.00x
+- **Peak:** 1.59x | **Current:** 1.01x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |
