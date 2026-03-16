@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 05:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 22 |
-| Open | 19 |
+| Total Positions | 23 |
+| Open | 20 |
 | Closed | 3 |
 | SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.002357 |
@@ -12,6 +12,15 @@
 | **ROI** | **+30.9%** |
 
 ## Trades
+
+### 🟢 $CHARITY
+- **Status:** open | **Exit:** open
+- **Peak:** 1.06x | **Current:** 0.92x
+- **Mint:** `DTMb6bxY4ZtoLnHR2N8HBAnQxChsv3yKdeCSCgxXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:45:08 | BUY | 0.000600 | `sL2y4aYeHj41LWYsfnnzGpm9seBcfN...` |
 
 ### 🟢 MCoins
 - **Status:** open | **Exit:** open
@@ -24,7 +33,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |

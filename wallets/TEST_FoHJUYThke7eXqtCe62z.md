@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 05:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 22 |
-| Open | 17 |
+| Total Positions | 24 |
+| Open | 19 |
 | Closed | 5 |
 | SOL In (closed) | 0.012400 |
 | SOL Out (sells) | 0.002028 |
@@ -12,6 +12,24 @@
 | **ROI** | **-83.6%** |
 
 ## Trades
+
+### 🟢 Wife
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.78x
+- **Mint:** `RSvkQUEBvN9bQ56cSmnu5wJkdTFXjBqAMpYQcSUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:46:06 | BUY | 0.000600 | `5PBxCX6LBR43EDNGxg2m5db1bYEPFH...` |
+
+### 🟢 SMOKE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.15x | **Current:** 1.15x
+- **Mint:** `22jZueT7geHH1BKyrJ753ATgSnwj665ctRnvqYVspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:45:05 | BUY | 0.000600 | `umgxyZ3CzRWY3d9ojugneNkjpv6NYX...` |
 
 ### 🟢 Minecraft
 - **Status:** open | **Exit:** open
@@ -51,7 +69,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `6gjdV7soB8RiKvGdMh6XMinsPVyeG4TprL4rYrFQpump`
 
 | Time | Action | SOL | TX |
