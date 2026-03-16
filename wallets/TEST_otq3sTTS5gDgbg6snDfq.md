@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 06:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 $CHARITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.81x
+- **Peak:** 1.06x | **Current:** 0.80x
 - **Mint:** `DTMb6bxY4ZtoLnHR2N8HBAnQxChsv3yKdeCSCgxXpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 Salary
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `EskhLZ4UYrPCggC2w2LB4hWS5VzkiagCaeFHxJScpump`
 
 | Time | Action | SOL | TX |
@@ -199,7 +199,7 @@
 
 ### 🟢 ZEBRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `EgPBL3UMV1Ebrmr1HLTd7xggtJ2emgevrYz8P14Qpump`
 
 | Time | Action | SOL | TX |

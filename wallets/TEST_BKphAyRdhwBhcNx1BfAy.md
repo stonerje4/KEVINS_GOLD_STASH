@@ -1,39 +1,40 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 06:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 82 |
-| Open | 26 |
-| Closed | 56 |
-| SOL In (closed) | 0.033600 |
-| SOL Out (sells) | 0.031187 |
-| **P&L** | **-0.002413 SOL** |
-| **ROI** | **-7.2%** |
+| Open | 24 |
+| Closed | 58 |
+| SOL In (closed) | 0.034800 |
+| SOL Out (sells) | 0.032514 |
+| **P&L** | **-0.002286 SOL** |
+| **ROI** | **-6.6%** |
 
 ## Trades
 
 ### 🟢 DRONE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.36x | **Current:** 1.35x
 - **Mint:** `GBmawmE9jJvyYVbdgTdYi9NXsjWwR5EaytvkrRwcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:59:25 | BUY | 0.000600 | `yqdf9YrXYgCUA2tfV7F2stit5dxX7h...` |
 
-### 🟢 Goatse
-- **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 1.22x
+### 🔴 Goatse
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.22x | **Current:** 0.49x
 - **Mint:** `8Nf1MG8hUqKxrSah59wWbJEggsraZUR9trX3sjjapump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:58:33 | BUY | 0.000600 | `2TF1vadSmwvT9cQwYjeqAhXXj11Tm4...` |
+| 2026-03-16 06:00:44 | SELL | 0.000296 | `2mzpyVG5M7tNfwVANsBqrn4FtNXVYQ...` |
 
 ### 🟢 骡子快跑
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `BmZnETG7aTfgCCm7b3V8JU9122usumdXeM283HWgpump`
 
 | Time | Action | SOL | TX |
@@ -82,14 +83,15 @@
 | 2026-03-16 05:37:06 | SELL | 0.000307 | `4nPBh6ALTasBBVDFmZpjyrLkiJQfpD...` |
 
 ### 🟢 NOCOIN
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.26x | **Current:** 3.26x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.26x | **Current:** 2.45x
 - **Mint:** `FzbfZQpZX7Zw5XhtZav7sQdULfpN6Z7nReiGxpCApump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:28:06 | BUY | 0.000600 | `3GrCBXwWAdAweBt6ptxLp1sB1pN6iP...` |
 | 2026-03-16 05:38:45 | SELL | 0.000388 | `pKiZ68gEmFgQ4hy1tefsYyXXMcuXzw...` |
+| 2026-03-16 06:04:01 | SELL | 0.001031 | `41cwUY9NWdpEiqzDPGpCYUzkdsD9Eu...` |
 
 ### 🟢 Unemployed
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -104,7 +106,7 @@
 
 ### 🟢 plumber
 - **Status:** partial | **Exit:** open
-- **Peak:** 12.32x | **Current:** 11.02x
+- **Peak:** 12.70x | **Current:** 11.38x
 - **Mint:** `2Pah9ZUfpii27ABrWfQorzdW8FSJimxj6izFr4oGpump`
 
 | Time | Action | SOL | TX |
@@ -175,7 +177,7 @@
 
 ### 🟢 Übermensch
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `651nrR2zXYRXX9qZFMVRfSgv1Faafep78XK65SeXpump`
 
 | Time | Action | SOL | TX |
@@ -398,7 +400,7 @@
 
 ### 🟢 Crawstar
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.08x | **Current:** 1.85x
+- **Peak:** 2.08x | **Current:** 1.78x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -545,7 +547,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 1.11x
+- **Peak:** 1.16x | **Current:** 1.09x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -809,7 +811,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.72x
+- **Peak:** 1.37x | **Current:** 0.71x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |

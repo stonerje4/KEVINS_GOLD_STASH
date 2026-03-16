@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 06:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+- **Peak:** 1.07x | **Current:** 1.07x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 Wife
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `RSvkQUEBvN9bQ56cSmnu5wJkdTFXjBqAMpYQcSUpump`
 
 | Time | Action | SOL | TX |
@@ -69,7 +69,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
@@ -78,7 +78,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `6gjdV7soB8RiKvGdMh6XMinsPVyeG4TprL4rYrFQpump`
 
 | Time | Action | SOL | TX |
@@ -87,7 +87,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |
@@ -163,7 +163,7 @@
 
 ### 🟢 TRUMPHOUSE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.71x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `HZtdX9vZQCLojV4w5V6ZUUhCcwoZEJf2sv9PNDB3pump`
 
 | Time | Action | SOL | TX |
@@ -181,7 +181,7 @@
 
 ### 🟢 NPC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.86x
+- **Peak:** 1.02x | **Current:** 0.78x
 - **Mint:** `5NrVvCRuNctUbQTkSP8pwEeAd4n9g59bguUgUn7npump`
 
 | Time | Action | SOL | TX |
@@ -190,7 +190,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.83x
+- **Peak:** 1.05x | **Current:** 0.82x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |

@@ -1,26 +1,27 @@
 # [PRD] Wallet: `r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De`
-> Generated: 2026-03-16 06:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 06:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 1 |
-| Closed | 9 |
-| SOL In (closed) | 0.950000 |
+| Open | 0 |
+| Closed | 10 |
+| SOL In (closed) | 1.100000 |
 | SOL Out (sells) | 1.965369 |
-| **P&L** | **+1.015369 SOL** |
-| **ROI** | **+106.9%** |
+| **P&L** | **+0.865369 SOL** |
+| **ROI** | **+78.7%** |
 
 ## Trades
 
-### 🟢 PEEP
-- **Status:** open | **Exit:** open
+### 🔴 PEEP
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.02x | **Current:** 0.00x
 - **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 23:02:21 | BUY | 0.150000 | `3zERcur268nasqBdhYh8XUHNXDJ8Zz...` |
+| 2026-03-16 06:04:03 | SELL | 0.000000 | `2FFjKtHro2dGUU9jwFqV8CnAEdoY6C...` |
 
 ### 🔴 Catman
 - **Status:** closed | **Exit:** stop_loss

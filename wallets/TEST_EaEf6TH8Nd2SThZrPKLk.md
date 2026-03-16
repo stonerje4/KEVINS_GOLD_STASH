@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 06:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 $MARLA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.02x
+- **Peak:** 1.25x | **Current:** 1.19x
 - **Mint:** `GoKgzJFuZBPKgdA4L23QB4CR1r1GjBWB18xCjFFdpump`
 
 | Time | Action | SOL | TX |
@@ -65,7 +65,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 0.99x
+- **Peak:** 1.59x | **Current:** 0.98x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

@@ -1,26 +1,27 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 06:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 8 |
-| Closed | 7 |
-| SOL In (closed) | 0.004200 |
-| SOL Out (sells) | 0.003946 |
-| **P&L** | **-0.000254 SOL** |
-| **ROI** | **-6.0%** |
+| Open | 7 |
+| Closed | 8 |
+| SOL In (closed) | 0.004800 |
+| SOL Out (sells) | 0.004362 |
+| **P&L** | **-0.000438 SOL** |
+| **ROI** | **-9.1%** |
 
 ## Trades
 
-### 🟢 OpenSquirrel
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.72x
+### 🔴 OpenSquirrel
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `WnibXwHNm7EYkUcVNhywwHrAtbznsFrwJHaFisspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:31:52 | BUY | 0.000600 | `2QP6AYJ6VdvAWsdRmnrMRAmmHMuR8i...` |
+| 2026-03-16 06:02:22 | SELL | 0.000416 | `5YGfLjYxxX5WGQog5etLUSyajjqBDH...` |
 
 ### 🟢 PUMPERS
 - **Status:** open | **Exit:** open
@@ -33,7 +34,7 @@
 
 ### 🟢 PARALLAX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.79x
+- **Peak:** 1.06x | **Current:** 0.77x
 - **Mint:** `42AgUeuxB8hpjL37k17xPCWQP96NXHenSHtM84vkpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +43,7 @@
 
 ### 🟢 CIRBP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.07x
+- **Peak:** 1.63x | **Current:** 1.08x
 - **Mint:** `4HsKJjmF1n41KDtkYM9Cxu8LKV7YC9GLGnXe5YtBpump`
 
 | Time | Action | SOL | TX |
@@ -71,7 +72,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.92x
+- **Peak:** 1.24x | **Current:** 0.82x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
