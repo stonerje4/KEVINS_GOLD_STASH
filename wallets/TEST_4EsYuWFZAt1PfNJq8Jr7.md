@@ -1,17 +1,27 @@
 # [TEST] Wallet: `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx`
-> Generated: 2026-03-16 11:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
+| Total Positions | 5 |
 | Open | 0 |
-| Closed | 4 |
-| SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.001651 |
-| **P&L** | **-0.000749 SOL** |
-| **ROI** | **-31.2%** |
+| Closed | 5 |
+| SOL In (closed) | 0.003000 |
+| SOL Out (sells) | 0.002008 |
+| **P&L** | **-0.000992 SOL** |
+| **ROI** | **-33.1%** |
 
 ## Trades
+
+### 🔴 COCK
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.65x
+- **Mint:** `D9sTJcqrG3RjhkCeJWtUFFS7RmWCe4BExGR3dPg3pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:18:22 | BUY | 0.000600 | `3tARpAEeG1uWuwkff4uoSgUbwnVxnG...` |
+| 2026-03-16 11:18:45 | SELL | 0.000357 | `343HsCXuVkHMxnNR61h2SpPm1sx5tY...` |
 
 ### 🔴 SLOPPYPASTA
 - **Status:** closed | **Exit:** ghost_close_stop_loss

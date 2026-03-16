@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 11:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 11:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 41 |
-| Open | 2 |
+| Total Positions | 43 |
+| Open | 4 |
 | Closed | 39 |
 | SOL In (closed) | 0.023400 |
 | SOL Out (sells) | 0.021389 |
@@ -12,6 +12,24 @@
 | **ROI** | **-8.6%** |
 
 ## Trades
+
+### 🟢 KINGELON
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:19:16 | BUY | 0.000600 | `2VxRdJ5ERRofc24JC99aBgsXY6grqs...` |
+
+### 🟢 AgentA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.08x | **Current:** 1.08x
+- **Mint:** `DYYAhsUW9aEYsGWa5ixZqmFGWR9BzKjKHbXvKmYGpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 11:18:47 | BUY | 0.000600 | `4uAHKoQYdXAM7gLSWs8U2ndRsjuKgv...` |
 
 ### 🔴 AgentP
 - **Status:** closed | **Exit:** ghost_close_stop_loss
