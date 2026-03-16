@@ -1,22 +1,22 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 23 |
-| Open | 9 |
-| Closed | 14 |
-| W/L | 13/1 |
-| SOL In (closed) | 0.008400 |
-| **Closed P&L** | **+0.006090 SOL** |
-| **Closed ROI** | **+72.5%** |
-| Open Deployed | 0.004300 SOL |
+| Open | 8 |
+| Closed | 15 |
+| W/L | 14/1 |
+| SOL In (closed) | 0.009000 |
+| **Closed P&L** | **+0.006307 SOL** |
+| **Closed ROI** | **+70.1%** |
+| Open Deployed | 0.003800 SOL |
 
 ## Trades
 
-### ⚪ Pistachio
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 Pistachio
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `9vAfgrGHccFBHrcUKWSB93wUvtqC5r4wbFux2GP2pump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 RealtorGPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.68x
+- **Peak:** 1.26x | **Current:** 0.67x
 - **Mint:** `BXUZJPpjLcEpcTi9XgENFGsRtxhjXueaB9ReyGQJpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 ROCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 1.04x
+- **Peak:** 1.49x | **Current:** 1.06x
 - **Mint:** `HEacYvtsxpaFCe7J12JrXmvBMMwjKBHo8UxyFqDDpump`
 
 | Time | Action | SOL | TX |
@@ -79,7 +79,7 @@
 
 ### 🟢 FIVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.64x | **Current:** 0.79x
+- **Peak:** 1.64x | **Current:** 0.78x
 - **Mint:** `6ScrjJgnV4tWnpY9vQWychPdweW6YWNE7N94iS4Rpump`
 
 | Time | Action | SOL | TX |
@@ -116,14 +116,15 @@
 | 2026-03-16 04:47:52 | BUY | 0.000600 | `3hnYo3yzxR5fSy9Y5MKY6Gqx4dT24o...` |
 | 2026-03-16 08:05:39 | SELL | 0.000387 | `2TvPPVcXMTTjFTCCRFX8DChWV7cBDA...` |
 
-### 🟢 CIRBP
-- **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 0.45x
+### 🔴 CIRBP
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.63x | **Current:** 0.37x
 - **Mint:** `4HsKJjmF1n41KDtkYM9Cxu8LKV7YC9GLGnXe5YtBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:19:18 | BUY | 0.000600 | `5RipybVhVQvqtj7ZRBafDRS8HUcq1J...` |
+| 2026-03-16 23:22:02 | SELL | 0.000217 | `3Zz73WD7zz2UBsKMJ6EVCgP3n1oBPC...` |
 
 ### 🔴 Fridge
 - **Status:** closed | **Exit:** stop_loss

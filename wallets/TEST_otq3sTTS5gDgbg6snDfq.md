@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.008400 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+38.1%** |
-| Open Deployed | 0.015400 SOL |
+| Open Deployed | 0.015500 SOL |
 
 ## Trades
 
-### ⚪ THINK
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 THINK
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `5pz6emi8oTVE5faWxYMW6hhK8sg4Zcmskrs1XRYDpump`
 
 | Time | Action | SOL | TX |
@@ -106,7 +106,7 @@
 
 ### 🟢 SLICE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `B46xjckMnQmamXeWyLPTM8NYvLx3y3Dc26wwCZvTpump`
 
 | Time | Action | SOL | TX |
@@ -115,7 +115,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -142,7 +142,7 @@
 
 ### 🟢 Safe
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.89x
+- **Peak:** 1.01x | **Current:** 0.81x
 - **Mint:** `D73pXimYCpoSRe3LRcgn6dPQSh6bsu3FdB2vvh3upump`
 
 | Time | Action | SOL | TX |
@@ -288,7 +288,7 @@
 
 ### 🟢 Nostalgia
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `EBhMuwaPzF3uDWoeRjAKMMwjBWhoGNttJeh3bhr7pump`
 
 | Time | Action | SOL | TX |

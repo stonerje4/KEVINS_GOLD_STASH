@@ -1,4 +1,4 @@
-# [TEST] Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
+# [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
 > Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 Luusha 
+### 🟢 IPG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.52x
-- **Mint:** `4dWrMPMzEH99jm2XDf8STnwbw61ro7KumR6PnpDzpump`
+- **Peak:** 1.30x | **Current:** 1.28x
+- **Mint:** `2yomaThSw9NPkPnCCzk5kRpuTKXhebrtZSsfEx34pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 17:06:41 | BUY | 0.000100 | `eqrUB9p7fyUTL1KF71Vk9rroexoAoY...` |
+| 2026-03-16 23:22:55 | BUY | 0.000100 | `3B8qHYANsb5HB6W4A1ofQ5yXWQQVPD...` |
 

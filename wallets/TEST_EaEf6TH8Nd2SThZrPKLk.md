@@ -1,16 +1,16 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 94 |
-| Open | 15 |
-| Closed | 79 |
-| W/L | 78/1 |
-| SOL In (closed) | 0.035900 |
-| **Closed P&L** | **+0.030164 SOL** |
+| Open | 14 |
+| Closed | 80 |
+| W/L | 79/1 |
+| SOL In (closed) | 0.036000 |
+| **Closed P&L** | **+0.030223 SOL** |
 | **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.003000 SOL |
+| Open Deployed | 0.002900 SOL |
 
 ## Trades
 
@@ -27,8 +27,8 @@
 | 2026-03-16 18:02:48 | SELL | 0.000044 | `4N6CFDrDqWF6vQeuUMq7FQgecoHXey...` |
 | 2026-03-16 18:03:48 | SELL | 0.000127 | `8aY5aXEbTCUMGJpSv41kjHNfpHPga7...` |
 
-### 🟢 SME
-- **Status:** partial | **Exit:** runner_trailing_stop
+### 🔴 SME
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
 - **Peak:** 2.28x | **Current:** 0.42x
 - **Mint:** `Dh6HtEHN6AmghFNYh3nzR2SPq1h4ub8HEMAC2Abrpump`
 
@@ -337,7 +337,7 @@
 
 ### 🟢 CHANGSHA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 0.72x
+- **Peak:** 1.55x | **Current:** 0.69x
 - **Mint:** `2CZjXETQ9efUDNT6iYgX2bn6Stuxk1FenxhCCsagpump`
 
 | Time | Action | SOL | TX |

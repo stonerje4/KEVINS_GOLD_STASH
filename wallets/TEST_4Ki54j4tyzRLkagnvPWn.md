@@ -1,18 +1,37 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
-| Open | 2 |
-| Closed | 10 |
-| W/L | 9/1 |
-| SOL In (closed) | 0.006000 |
-| **Closed P&L** | **+0.003196 SOL** |
-| **Closed ROI** | **+53.3%** |
-| Open Deployed | 0.001200 SOL |
+| Total Positions | 14 |
+| Open | 3 |
+| Closed | 11 |
+| W/L | 10/1 |
+| SOL In (closed) | 0.006100 |
+| **Closed P&L** | **+0.003222 SOL** |
+| **Closed ROI** | **+52.8%** |
+| Open Deployed | 0.001300 SOL |
 
 ## Trades
+
+### 🟢 FA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.82x
+- **Mint:** `2ryGP6AuNR5kpzNyM6GpqWamdyEi6tjgcQhfWNC3pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:24:15 | BUY | 0.000100 | `3ZJk5a7UySWSoi4C13W73T5FwRXL93...` |
+
+### 🔴 RPL
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.26x
+- **Mint:** `DWyontfmZTS15u5CgkD3NL3upvp83bEKHGV9S7jdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:22:57 | BUY | 0.000100 | `2fLvhirsiqrp2dEvmopKGd19Hx5Dvu...` |
+| 2026-03-16 23:23:41 | SELL | 0.000026 | `34gvqWHSaAN9xHZVYnbT2YrBYS6kDK...` |
 
 ### 🔴 HEROES
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,18 +1,36 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 23:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 16 |
-| Open | 2 |
+| Total Positions | 18 |
+| Open | 4 |
 | Closed | 14 |
 | W/L | 10/4 |
 | SOL In (closed) | 0.008400 |
 | **Closed P&L** | **+0.004122 SOL** |
 | **Closed ROI** | **+49.1%** |
-| Open Deployed | 0.001200 SOL |
+| Open Deployed | 0.001400 SOL |
 
 ## Trades
+
+### 🟢 Fep
+- **Status:** open | **Exit:** open
+- **Peak:** 1.08x | **Current:** 1.08x
+- **Mint:** `Cj1MvQtHUb3Z7fWnF4jM2DGutbt5Gh7CAFruKSTpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:23:54 | BUY | 0.000100 | `57i7jGxYHEqnBbZkwQByHNpyc3VCFz...` |
+
+### 🟢 Sanmao
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.91x
+- **Mint:** `FPAm3wb36fyWrDwG2b6hQZu2ja4JeBK99PgeBPDjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:20:17 | BUY | 0.000100 | `65LHMvV4rdwpnRj1WNZqmCZErghvNT...` |
 
 ### 🔴 G1
 - **Status:** closed | **Exit:** ghost_close_stop_loss
