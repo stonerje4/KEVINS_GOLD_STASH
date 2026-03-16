@@ -1,21 +1,21 @@
 # [PRD] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 21:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 21:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.300000 |
-| **Closed P&L** | **-0.190110 SOL** |
-| **Closed ROI** | **-63.4%** |
-| Open Deployed | 0.150000 SOL |
+| Open | 0 |
+| Closed | 3 |
+| W/L | 1/2 |
+| SOL In (closed) | 0.450000 |
+| **Closed P&L** | **-0.119763 SOL** |
+| **Closed ROI** | **-26.6%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
 ### 🟢 Hamster
-- **Status:** partial | **Exit:** open
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 3.00x | **Current:** 0.00x
 - **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
 
@@ -24,6 +24,7 @@
 | 2026-03-16 20:35:47 | BUY | 0.150000 | `5aPQiJthjmu9DRgkChdMnnzbDd3KuS...` |
 | 2026-03-16 20:54:42 | SELL | 0.030138 | `5xfdmjCxYJHfxQghDPQSGiXGvxr4Yv...` |
 | 2026-03-16 21:12:58 | SELL | 0.045004 | `QAvisauJw3sr1HbL5tHZ9jkLfaq4dF...` |
+| 2026-03-16 21:20:50 | SELL | 0.220347 | `3v2KxysyXAHMHyW7xmQ3dSTyiqXKap...` |
 
 ### 🔴 RAVEN
 - **Status:** closed | **Exit:** stop_loss

@@ -1,5 +1,5 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 21:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 21:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Breathe
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.00x
+- **Peak:** 1.37x | **Current:** 0.00x
 - **Mint:** `4feRg9TsqWQoGayq2PrT5cZHZgQGgFuafT1V6aZ5pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 shadPS4
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.04x | **Current:** 0.00x
 - **Mint:** `8C4FUxNLsmDKrrgmNsbRMiqquoPaXg7K9LE43WaMpump`
 
 | Time | Action | SOL | TX |

@@ -1,27 +1,28 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 21:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 21:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 2 |
-| Closed | 7 |
-| W/L | 2/5 |
-| SOL In (closed) | 1.050000 |
-| **Closed P&L** | **+0.238478 SOL** |
-| **Closed ROI** | **+22.7%** |
-| Open Deployed | 0.300000 SOL |
+| Open | 1 |
+| Closed | 8 |
+| W/L | 2/6 |
+| SOL In (closed) | 1.200000 |
+| **Closed P&L** | **+0.148165 SOL** |
+| **Closed ROI** | **+12.3%** |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
 
-### 🟢 meowism
-- **Status:** open | **Exit:** open
+### 🔴 meowism
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `29jDLVvWXdPcYTDRt4fwUphu8kbe5yznJgRFx1pFpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 21:08:42 | BUY | 0.150000 | `584UF9PYvKUuRAtYGLfQuUgjevArQx...` |
+| 2026-03-16 21:23:52 | SELL | 0.059687 | `3N6WR1eqQ6hD6sv75Lcc87Y72SyUE2...` |
 
 ### 🟢 AIFREE
 - **Status:** open | **Exit:** open
