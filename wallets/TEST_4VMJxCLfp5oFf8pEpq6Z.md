@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 05:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 PUMPERS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.92x
+- **Peak:** 1.02x | **Current:** 0.95x
 - **Mint:** `GpPmQTqV3KeTRUWCxFtnw3VQHuAqqG4HWsxvw6Vwpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 PARALLAX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.94x
+- **Peak:** 1.06x | **Current:** 0.92x
 - **Mint:** `42AgUeuxB8hpjL37k17xPCWQP96NXHenSHtM84vkpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 CIRBP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.05x
+- **Peak:** 1.63x | **Current:** 1.16x
 - **Mint:** `4HsKJjmF1n41KDtkYM9Cxu8LKV7YC9GLGnXe5YtBpump`
 
 | Time | Action | SOL | TX |
@@ -51,7 +51,7 @@
 
 ### 🟢 herry
 - **Status:** open | **Exit:** open
-- **Peak:** 1.71x | **Current:** 1.57x
+- **Peak:** 1.82x | **Current:** 1.82x
 - **Mint:** `AMbTjmCCUoWH96dwAn1ukG5WigK86RBfZZ39K5ubpump`
 
 | Time | Action | SOL | TX |
@@ -60,7 +60,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.95x
+- **Peak:** 1.24x | **Current:** 0.96x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
@@ -90,7 +90,7 @@
 
 ### 🟢 WhiteBoy 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.89x
+- **Peak:** 1.11x | **Current:** 0.90x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |

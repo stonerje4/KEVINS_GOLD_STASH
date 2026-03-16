@@ -1,17 +1,36 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 05:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 68 |
-| Open | 20 |
-| Closed | 48 |
-| SOL In (closed) | 0.028800 |
-| SOL Out (sells) | 0.023976 |
-| **P&L** | **-0.004824 SOL** |
-| **ROI** | **-16.8%** |
+| Total Positions | 70 |
+| Open | 21 |
+| Closed | 49 |
+| SOL In (closed) | 0.029400 |
+| SOL Out (sells) | 0.024245 |
+| **P&L** | **-0.005155 SOL** |
+| **ROI** | **-17.5%** |
 
 ## Trades
+
+### 🔴 GREKE
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.45x
+- **Mint:** `75dBbJgWpaUvmhtTwNAZCFkhMRYBecsorECM27rLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:02:24 | BUY | 0.000600 | `4odSHAnVHuiLP6t8jmBabrRgPMiDp2...` |
+| 2026-03-16 05:03:45 | SELL | 0.000270 | `5sGEpFvU1V4ruzRHtGx3MxUADs9sr5...` |
+
+### 🟢 LORD
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.90x
+- **Mint:** `FGqVi238dtES3741HrYvBCA1ttKnQMbPzE6tnmiSpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:02:07 | BUY | 0.000600 | `5AALfRJwSkDna1ZfgYTL7wrs46TpZn...` |
 
 ### 🔴 ClawChan
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -25,7 +44,7 @@
 
 ### 🟢 LIFE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.94x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `CbqEa8fyhqkm29JPx6xx5XDBUKjsjKYTAjbbHQuspump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +53,7 @@
 
 ### 🟢 Übermensch
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `651nrR2zXYRXX9qZFMVRfSgv1Faafep78XK65SeXpump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +72,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 1.09x
+- **Peak:** 1.11x | **Current:** 1.11x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +81,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.08x
+- **Peak:** 1.09x | **Current:** 1.09x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -628,7 +647,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.80x
+- **Peak:** 1.24x | **Current:** 0.94x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |

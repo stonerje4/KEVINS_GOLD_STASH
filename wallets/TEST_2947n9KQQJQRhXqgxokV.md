@@ -1,10 +1,10 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 05:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 3 |
+| Total Positions | 7 |
+| Open | 4 |
 | Closed | 3 |
 | SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.000924 |
@@ -12,6 +12,15 @@
 | **ROI** | **-48.7%** |
 
 ## Trades
+
+### 🟢 FTR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `8kv9M9MNM5LtuxakWiViJx6GCYVexk2ZBexucRYNpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:02:50 | BUY | 0.000600 | `Vrw3HcA8XiqWRPtoJaKte4qVcCUymt...` |
 
 ### 🟢 KELLY
 - **Status:** open | **Exit:** open

@@ -1,27 +1,28 @@
 # [TEST] Wallet: `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN`
-> Generated: 2026-03-16 05:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000809 |
-| **P&L** | **+0.000209 SOL** |
-| **ROI** | **+34.9%** |
+| Open | 0 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.001785 |
+| **P&L** | **+0.000585 SOL** |
+| **ROI** | **+48.7%** |
 
 ## Trades
 
 ### 🟢 eˣ
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.40x | **Current:** 3.40x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.40x | **Current:** 2.34x
 - **Mint:** `9SLJ37AoxAbznxR4akNbcfXMdU83AHguFsHo7Wa6pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:46:10 | BUY | 0.000600 | `3QmDj8iZ5Jycrph7jGkrpAz9Htk6qD...` |
 | 2026-03-16 04:58:23 | SELL | 0.000407 | `38mhzAqSdweVVgMDMsoJkbNotMXSQ2...` |
+| 2026-03-16 05:02:05 | SELL | 0.000975 | `3w6hwvjg9eiTGsMSDEavyeiiJo7siw...` |
 
 ### 🔴 Salary
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 05:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 METALHEADS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 1.02x
+- **Peak:** 1.07x | **Current:** 1.07x
 - **Mint:** `GpETVRSoR49Ez1hgpLsmX85DnEBiLvMyTfBDQdnkjkpQ`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 TRNDO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `6X6Au8G57AzMKU51toiPn8AJs6NLRYobXHQ39evdpump`
 
 | Time | Action | SOL | TX |
@@ -154,7 +154,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.82x
+- **Peak:** 1.05x | **Current:** 0.89x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |
