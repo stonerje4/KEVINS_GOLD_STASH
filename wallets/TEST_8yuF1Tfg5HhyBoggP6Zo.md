@@ -1,26 +1,27 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 06:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000343 |
-| **P&L** | **-0.000257 SOL** |
-| **ROI** | **-42.8%** |
+| Open | 0 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.000716 |
+| **P&L** | **-0.000484 SOL** |
+| **ROI** | **-40.3%** |
 
 ## Trades
 
-### 🟢 NORMIE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.72x
+### 🔴 NORMIE
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.26x | **Current:** 0.64x
 - **Mint:** `75Dhr6PzP13jMygRiU6zXduduVE7CDkjp4s2cG25pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:27:30 | BUY | 0.000600 | `sgBDH8TTGwWNTpaTunLW86PyumeiMw...` |
+| 2026-03-16 06:42:47 | SELL | 0.000373 | `4sXC6uxjx2DDyfjdkUQsyngqu4yDZN...` |
 
 ### 🔴 BLACKJACK
 - **Status:** closed | **Exit:** ghost_close_stop_loss

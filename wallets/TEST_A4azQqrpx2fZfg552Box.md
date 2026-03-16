@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
+# [TEST] Wallet: `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM`
 > Generated: 2026-03-16 06:45 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 PEEP
+### 🟢 XAIC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
-- **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
+- **Peak:** 1.00x | **Current:** 0.97x
+- **Mint:** `Ch5Mswr2E1h6TZyGk7nzkTfP5ZBgTN1Mgh5U6HNNpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 23:02:10 | BUY | 0.000600 | `4WvYLfqxmmJrQSx6k9gNpFtPmyQo4S...` |
+| 2026-03-16 06:42:32 | BUY | 0.000600 | `bcfABrsvrBBsGTgyAAk6DVh2N2VwKq...` |
 

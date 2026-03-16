@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 06:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 26 |
-| Open | 20 |
+| Total Positions | 27 |
+| Open | 21 |
 | Closed | 6 |
 | SOL In (closed) | 0.013000 |
 | SOL Out (sells) | 0.003024 |
@@ -12,6 +12,15 @@
 | **ROI** | **-76.7%** |
 
 ## Trades
+
+### 🟢 DUCKEXE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.03x | **Current:** 1.00x
+- **Mint:** `C7jJapMdeqZUuQsne1eyqCqmee9GnxRRhpg7tLgPpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 06:41:46 | BUY | 0.000600 | `5Ho7hqR29WY6B2AfspUtVZwrZAn4z6...` |
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
@@ -98,7 +107,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |
