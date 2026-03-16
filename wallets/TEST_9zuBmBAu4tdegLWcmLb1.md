@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9zuBmBAu4tdegLWcmLb1ksaF9PBvBVkcSALjAwXwPKrU`
-> Generated: 2026-03-16 17:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PEKEPOME
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.50x
+- **Peak:** 1.00x | **Current:** 0.49x
 - **Mint:** `BHvwMeTtmwxmuZe4umCQ3T9qy3jDSyHGM3H4YRxMpump`
 
 | Time | Action | SOL | TX |

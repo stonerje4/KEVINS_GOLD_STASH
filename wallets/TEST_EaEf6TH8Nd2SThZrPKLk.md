@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 17:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 90 |
-| Open | 17 |
+| Total Positions | 91 |
+| Open | 18 |
 | Closed | 73 |
 | W/L | 72/1 |
 | SOL In (closed) | 0.035300 |
 | **Closed P&L** | **+0.029688 SOL** |
 | **Closed ROI** | **+84.1%** |
-| Open Deployed | 0.003200 SOL |
+| Open Deployed | 0.003300 SOL |
 
 ## Trades
 
+### 🟢 AI Netanyah
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.44x
+- **Mint:** `8Ni5tLoVyqz6S6NshA8VoborEyzMvfc6rLi7rEFwpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:43:25 | BUY | 0.000100 | `4BzGqRBbygvZGEKQi7yegPAP7KQcVr...` |
+
 ### 🟢 SIRI
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.04x | **Current:** 2.03x
+- **Peak:** 2.27x | **Current:** 2.27x
 - **Mint:** `8S2iD5M7HwE5zXC4u6ReaPLGdztTM24d9JCVREu5pump`
 
 | Time | Action | SOL | TX |
@@ -85,7 +94,7 @@
 
 ### 🟢 HVAC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.09x
+- **Peak:** 1.36x | **Current:** 1.11x
 - **Mint:** `7USpkp5mgAwTwQw8aMvYJUh4mwFoWoZtuU38j6wLpump`
 
 | Time | Action | SOL | TX |
@@ -592,7 +601,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.16x | **Current:** 1.53x
+- **Peak:** 2.16x | **Current:** 1.55x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |

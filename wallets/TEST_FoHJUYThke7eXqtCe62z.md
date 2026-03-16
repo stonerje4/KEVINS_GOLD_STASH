@@ -1,22 +1,22 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 17:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 56 |
-| Open | 34 |
-| Closed | 22 |
-| W/L | 12/10 |
-| SOL In (closed) | 0.020600 |
-| **Closed P&L** | **+0.008891 SOL** |
-| **Closed ROI** | **+43.2%** |
-| Open Deployed | 0.017900 SOL |
+| Open | 33 |
+| Closed | 23 |
+| W/L | 13/10 |
+| SOL In (closed) | 0.020700 |
+| **Closed P&L** | **+0.009065 SOL** |
+| **Closed ROI** | **+43.8%** |
+| Open Deployed | 0.017800 SOL |
 
 ## Trades
 
 ### 🟢 BROOKS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.01x | **Current:** 0.85x
 - **Mint:** `DReLNusXrH8LwMWiav2T59zzPmzTjiFW8VijamXkpump`
 
 | Time | Action | SOL | TX |
@@ -33,8 +33,8 @@
 | 2026-03-16 17:23:44 | BUY | 0.000100 | `5wzYaLnCwf79d2zbTraWcDMUC4gyQA...` |
 
 ### 🟢 RAVEN
-- **Status:** partial | **Exit:** open
-- **Peak:** 4.36x | **Current:** 1.52x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 4.36x | **Current:** 1.48x
 - **Mint:** `6aeUKhVibBWEf21vd9N8YnLhNQkfzKWSkeucFyZvpump`
 
 | Time | Action | SOL | TX |
@@ -42,6 +42,7 @@
 | 2026-03-16 17:07:55 | BUY | 0.000100 | `2PJELSEKBdEKfZ6Ahthp2L8FdbTNvk...` |
 | 2026-03-16 17:09:13 | SELL | 0.000021 | `58fkBtksF7EZhJDq5aRtoWw43gcpfP...` |
 | 2026-03-16 17:22:06 | SELL | 0.000033 | `cgxoH3EChBLoAcsvsTSyD54pZ47W7C...` |
+| 2026-03-16 17:44:08 | SELL | 0.000120 | `47tNjCS1MPRTMEhkFStHdUzi28PLns...` |
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
@@ -431,7 +432,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.76x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |

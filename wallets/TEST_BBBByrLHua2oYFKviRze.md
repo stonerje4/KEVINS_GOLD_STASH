@@ -1,18 +1,37 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 17:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 83 |
-| Open | 22 |
+| Total Positions | 85 |
+| Open | 24 |
 | Closed | 61 |
 | W/L | 59/2 |
 | SOL In (closed) | 0.029600 |
 | **Closed P&L** | **+0.024184 SOL** |
 | **Closed ROI** | **+81.7%** |
-| Open Deployed | 0.003200 SOL |
+| Open Deployed | 0.003400 SOL |
 
 ## Trades
+
+### 🟢 Moumou
+- **Status:** open | **Exit:** open
+- **Peak:** 1.35x | **Current:** 0.77x
+- **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:43:46 | BUY | 0.000100 | `d7yT5ybqEAVDpvtqsm1NHTgediUeFm...` |
+
+### 🟢 pandas
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.53x | **Current:** 2.50x
+- **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:41:30 | BUY | 0.000100 | `5QKb3TEJ5vq3EdkCPoNwNkgEnV5CZJ...` |
+| 2026-03-16 17:44:10 | SELL | 0.000025 | `5YPC4suZKsPwmmCGsAfwWaSpT5gucd...` |
 
 ### 🟢 ORCA
 - **Status:** open | **Exit:** open
@@ -43,7 +62,7 @@
 
 ### 🟢 NEMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.49x
+- **Peak:** 1.01x | **Current:** 0.50x
 - **Mint:** `EDNHXRbAzUfqNeEmZ4zzxVQH8mwsVj2VjzHozGGBfU9f`
 
 | Time | Action | SOL | TX |
@@ -92,7 +111,7 @@
 
 ### 🟢 Rocketman
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 0.48x
+- **Peak:** 1.73x | **Current:** 0.46x
 - **Mint:** `3AVfhVVkgoZxCocQjGrXXZNTZsaGEpJF1ffz1euZpump`
 
 | Time | Action | SOL | TX |
@@ -101,7 +120,7 @@
 
 ### 🟢 FEP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.45x
+- **Peak:** 1.00x | **Current:** 0.42x
 - **Mint:** `q6GZMzFyy48eBPNyhWYxUBC8R1F37psq3JvJdBxpump`
 
 | Time | Action | SOL | TX |
@@ -110,7 +129,7 @@
 
 ### 🟢 K-Dense
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.52x | **Current:** 3.21x
+- **Peak:** 3.52x | **Current:** 2.18x
 - **Mint:** `37oc6mzcT1cLb5yf88mzZnXvccheSTUft3xq92z4pump`
 
 | Time | Action | SOL | TX |
@@ -313,7 +332,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.22x
+- **Peak:** 1.74x | **Current:** 1.17x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |
