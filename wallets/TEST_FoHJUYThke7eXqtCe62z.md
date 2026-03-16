@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -33,7 +33,7 @@
 
 ### 🟢 navicooks
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `BrKvKu6pMk65NS2zbq8TafhggvEycqguZTiMwsnYSDDw`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 NPC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.02x | **Current:** 1.02x
 - **Mint:** `5NrVvCRuNctUbQTkSP8pwEeAd4n9g59bguUgUn7npump`
 
 | Time | Action | SOL | TX |

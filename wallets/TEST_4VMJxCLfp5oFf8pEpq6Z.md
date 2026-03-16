@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Coffeegate
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.96x
+- **Peak:** 1.05x | **Current:** 0.94x
 - **Mint:** `CJYgKNJ9G66YWbpu6FCYh7LVFzRQp1AZ3sqggmXCpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Agent Doge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.07x
+- **Peak:** 1.23x | **Current:** 0.98x
 - **Mint:** `JB8J7Hp259EkmupJJKnqYuyPZXy1P7z22uwfzgJgpump`
 
 | Time | Action | SOL | TX |
@@ -51,7 +51,7 @@
 
 ### 🟢 JARVIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.72x
+- **Peak:** 1.03x | **Current:** 0.74x
 - **Mint:** `7zhVx65GGkbRsm2j21yBsX1d3ACJKWDKQ2ANvUPcpump`
 
 | Time | Action | SOL | TX |

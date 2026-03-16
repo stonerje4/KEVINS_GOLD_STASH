@@ -1,17 +1,17 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 01:35 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 01:40 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.6052 SOL |
-| Open Positions | 49 (0.0482 SOL deployed) |
-| Closed Positions | 33 |
-| Total Positions | 82 |
+| SOL Balance | 1.6003 SOL |
+| Open Positions | 48 (0.0476 SOL deployed) |
+| Closed Positions | 36 |
+| Total Positions | 84 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.4466 SOL (-44.7%)** |
+| **Real P&L (on-chain)** | **-0.4521 SOL (-45.2%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -21,23 +21,23 @@
 | `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 6 | 4 | 2 | 2/2 | 50% | 0.0036 | 🟢 +0.000683 | +28.5% |
 | `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | ⚪ +0.000000 | +0.0% |
 | `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
-| `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
-| `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
+| `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | ⚪ +0.000000 | +0.0% |
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 2 | 0 | 2 | 0/0 | 0% | 0.0106 | ⚪ +0.000000 | +0.0% |
 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | ⚪ +0.000000 | +0.0% |
 | `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 8 | 0 | 8 | 0/0 | 0% | 0.0048 | ⚪ +0.000000 | +0.0% |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🔴 -0.000044 | -3.6% |
 | `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 5 | 5 | 0 | 1/4 | 20% | 0.0030 | 🔴 -0.000277 | -9.2% |
+| `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000184 | -30.7% |
 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 4 | 2 | 2 | 0/2 | 0% | 0.0118 | 🔴 -0.003500 | -33.0% |
 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 10 | 1 | 9 | 0/1 | 0% | 0.0154 | 🔴 -0.000199 | -33.1% |
-| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 2 | 2 | 0 | 0/2 | 0% | 0.0012 | 🔴 -0.000404 | -33.7% |
+| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 3 | 2 | 1 | 0/2 | 0% | 0.0018 | 🔴 -0.000404 | -33.7% |
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 7 | 2 | 5 | 0/2 | 0% | 0.0042 | 🔴 -0.000445 | -37.1% |
 | `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000233 | -38.9% |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 12 | 3 | 9 | 0/3 | 0% | 0.0072 | 🔴 -0.000836 | -46.5% |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 12 | 4 | 8 | 0/4 | 0% | 0.0072 | 🔴 -0.001238 | -51.6% |
 | `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000315 | -52.5% |
 | `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J` | 6 | 4 | 2 | 0/4 | 0% | 0.0036 | 🔴 -0.001437 | -59.9% |
-| `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000593 | -98.8% |
+| `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj` | 2 | 2 | 0 | 0/2 | 0% | 0.0012 | 🔴 -0.000792 | -66.0% |
 
 > P&L per wallet from actual trade results. Sorted by ROI.
 > Wallets shown are currently active in test environment.
@@ -46,13 +46,13 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `9xMo2sv9tDY5QVjnakjxykx2Qvy9K5FJ2NUNbVgq83c1` |
-| SOL Balance | 4.2785 SOL |
-| Open Positions | 15 (2.2500 SOL deployed) |
+| SOL Balance | 4.1228 SOL |
+| Open Positions | 16 (2.4000 SOL deployed) |
 | Closed Positions | 555 |
 | Total Deposited | ~7.34 SOL |
-| SOL Bought (bot) | 58.45 SOL |
+| SOL Bought (bot) | 58.60 SOL |
 | SOL Sold (bot) | 55.85 SOL |
-| **Real P&L (on-chain)** | **-0.8115 SOL (-11.1%)** |
+| **Real P&L (on-chain)** | **-0.8172 SOL (-11.1%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -71,7 +71,7 @@
 | `FGZ72HENqfzUv9RiPAFqF7hCCiMZMAa5MYmWangFnZwD` | 7 | 7 | 0 | 3/4 | 43% | 0.8500 | 🟢 +0.488873 | +57.5% |
 | `9rb2ChEjkkCYGiHB97yssryBf8sh2W49MeyLUs69cKyS` | 37 | 37 | 0 | 10/27 | 27% | 1.8500 | 🟢 +1.037046 | +56.1% |
 | `7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D` | 21 | 21 | 0 | 5/16 | 24% | 1.6400 | 🟢 +0.803006 | +49.0% |
-| `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ` | 21 | 21 | 0 | 10/11 | 48% | 2.7800 | 🟢 +1.270182 | +45.7% |
+| `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ` | 22 | 21 | 1 | 10/11 | 48% | 2.9300 | 🟢 +1.270182 | +45.7% |
 | `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j` | 27 | 27 | 0 | 11/16 | 41% | 2.3700 | 🟢 +1.061707 | +44.8% |
 | `BJJGTyZBpSoTNrodhiEaRMonCPzAkzZWrzwhwZcn8Cir` | 4 | 4 | 0 | 2/2 | 50% | 0.2000 | 🟢 +0.054342 | +27.2% |
 | `A5hEhg36kAmkrrKRhVxPrvYK5KLgBgPXbBqL9GUL5jg1` | 8 | 8 | 0 | 1/7 | 12% | 1.2000 | 🟢 +0.259002 | +21.6% |

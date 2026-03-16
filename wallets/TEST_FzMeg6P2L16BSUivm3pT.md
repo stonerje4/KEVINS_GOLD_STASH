@@ -1,26 +1,27 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000007 |
-| **P&L** | **-0.000593 SOL** |
-| **ROI** | **-98.8%** |
+| Open | 0 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.000408 |
+| **P&L** | **-0.000792 SOL** |
+| **ROI** | **-66.0%** |
 
 ## Trades
 
-### 🟢 BULL
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+### 🔴 BULL
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.67x
 - **Mint:** `EXo8T5UsCcW7yeV7QAHpHkbyQpFY6ZFTfTJBi5R3pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:29:37 | BUY | 0.000600 | `m9RS72dfGtMkEbVTyRp9WYGHcEkJQy...` |
+| 2026-03-16 01:35:11 | SELL | 0.000401 | `3ixSZ7eBmGWvXg4iVJzo8n1dwqDLBU...` |
 
 ### 🔴 AMGLOW
 - **Status:** closed | **Exit:** ghost_close_stop_loss

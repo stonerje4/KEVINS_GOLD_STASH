@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
+| Total Positions | 3 |
+| Open | 1 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.000796 |
@@ -12,6 +12,15 @@
 | **ROI** | **-33.7%** |
 
 ## Trades
+
+### 🟢 BaldAI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.93x | **Current:** 1.93x
+- **Mint:** `HmFZK7HaTLJNTG4LiCNDnkdUYWGA5BY5KePK4UmVpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:38:44 | BUY | 0.000600 | `3eQPeDNZUhnNEX8LUtsCAZZMkSXL9P...` |
 
 ### 🔴 ABSOLUT
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,30 +1,31 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 12 |
-| Open | 9 |
-| Closed | 3 |
-| SOL In (closed) | 0.001800 |
-| SOL Out (sells) | 0.000964 |
-| **P&L** | **-0.000836 SOL** |
-| **ROI** | **-46.5%** |
+| Open | 8 |
+| Closed | 4 |
+| SOL In (closed) | 0.002400 |
+| SOL Out (sells) | 0.001162 |
+| **P&L** | **-0.001238 SOL** |
+| **ROI** | **-51.6%** |
 
 ## Trades
 
-### 🟢 Literally
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+### 🔴 Literally
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.17x | **Current:** 0.33x
 - **Mint:** `FJW5fH8M1LdeBGFt6HSBvLCBWa7ugQX8ThGRXQynpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:34:13 | BUY | 0.000600 | `SS3xNusr9RcVBd5KbLiurJdQHr4m4t...` |
+| 2026-03-16 01:38:54 | SELL | 0.000198 | `5UdZ48xtJJpbfF7TA5HpPU2QPnVFZP...` |
 
 ### 🟢 Food
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.23x
+- **Peak:** 1.59x | **Current:** 1.59x
 - **Mint:** `7fXC19srLd61qhFtuEPwDBQkH7qdrV9npPDoH4CUpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +53,7 @@
 
 ### 🟢 medieval
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.92x | **Current:** 1.95x
+- **Peak:** 2.92x | **Current:** 2.07x
 - **Mint:** `DFFbJAcaearm5rAarRjKEs6bqbDePTtw677UYqJNpump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +63,7 @@
 
 ### 🟢 TRENCHIES
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.82x
+- **Peak:** 1.06x | **Current:** 0.78x
 - **Mint:** `7sS7LGpwjir1QxA9GoHqjV3u9YmuX4CNELKWLxA8dmcC`
 
 | Time | Action | SOL | TX |
@@ -99,7 +100,7 @@
 
 ### 🟢 TIM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 0.91x
+- **Peak:** 1.20x | **Current:** 1.01x
 - **Mint:** `GfDfRvhGbvCHrnuUbXB7z6RXosgZzTGCyP59Yvddpump`
 
 | Time | Action | SOL | TX |
@@ -108,7 +109,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.71x
+- **Peak:** 1.37x | **Current:** 1.16x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |
