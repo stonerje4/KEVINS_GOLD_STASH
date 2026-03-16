@@ -1,18 +1,27 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 19:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:02 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 32 |
+| Total Positions | 33 |
 | Open | 2 |
-| Closed | 30 |
-| W/L | 8/22 |
-| SOL In (closed) | 3.030000 |
-| **Closed P&L** | **-0.023417 SOL** |
-| **Closed ROI** | **-0.8%** |
+| Closed | 31 |
+| W/L | 8/23 |
+| SOL In (closed) | 3.180000 |
+| **Closed P&L** | **-0.117809 SOL** |
+| **Closed ROI** | **-3.7%** |
 | Open Deployed | 0.300000 SOL |
 
 ## Trades
+
+### 🟢 CC
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 0.00x
+- **Mint:** `HfM5v5vZYq2ipADnYacBVZSLAw65ePVZ8MUBA5kpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 19:02:17 | BUY | 0.150000 | `4yRkCTiX4Z3cJ6iMmvN5gSvW6gsPtn...` |
 
 ### 🟢 REDHEAD
 - **Status:** open | **Exit:** open
@@ -24,13 +33,19 @@
 | 2026-03-16 15:58:46 | BUY | 0.150000 | `Z8SvkYHrKAarnLPXi6DxNkc8oNTywa...` |
 
 ### 🟢 Angela
-- **Status:** open | **Exit:** open
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.01x | **Current:** 0.00x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:42:31 | BUY | 0.150000 | `55F2TwrTE17sCmkQZ7Zp7h8X7Tzzfj...` |
+| 2026-03-16 19:00:11 | SELL | 0.055607 | `21TXuhLccr2p2eeLVPsWyHXjshGBnW...` |
+| 2026-03-16 19:00:16 | SELL | 0.055607 | `21TXuhLccr2p2eeLVPsWyHXjshGBnW...` |
+| 2026-03-16 19:00:20 | SELL | 0.055607 | `4wEGxVpTMDpvfUvWWnWan1tVWfwF1d...` |
+| 2026-03-16 19:00:24 | SELL | 0.055607 | `4wEGxVpTMDpvfUvWWnWan1tVWfwF1d...` |
+| 2026-03-16 19:00:28 | SELL | 0.055607 | `5ri7aVb1o8YYQGPWDkskhrrd9sbDZP...` |
+| 2026-03-16 19:00:32 | SELL | 0.055607 | `5ri7aVb1o8YYQGPWDkskhrrd9sbDZP...` |
 
 ### 🔴 Ac7ionMan
 - **Status:** closed | **Exit:** stop_loss

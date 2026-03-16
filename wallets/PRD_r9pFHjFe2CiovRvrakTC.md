@@ -1,5 +1,5 @@
 # [PRD] Wallet: `r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De`
-> Generated: 2026-03-16 19:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:02 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -34,13 +34,14 @@
 | 2026-03-16 17:27:22 | BUY | 0.150000 | `235CKDr4hAszEfKHyCoKkwM4n2knWc...` |
 
 ### 🟢 BBX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.88x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.06x | **Current:** 0.00x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:59:09 | BUY | 0.150000 | `4NKDzCR5q4W5ZGXk1tYvAc9a9gqaxW...` |
+| 2026-03-16 19:02:21 | SELL | 0.030877 | `5bUofr8VKkkwTPafVn1KtToMuS5Ngb...` |
 
 ### 🟢 TRN
 - **Status:** open | **Exit:** open
