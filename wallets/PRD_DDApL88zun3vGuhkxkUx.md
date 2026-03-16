@@ -1,18 +1,27 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 19:40 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:45 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 28 |
-| Open | 2 |
+| Total Positions | 29 |
+| Open | 3 |
 | Closed | 26 |
 | W/L | 6/20 |
 | SOL In (closed) | 3.530000 |
 | **Closed P&L** | **-0.728049 SOL** |
 | **Closed ROI** | **-20.6%** |
-| Open Deployed | 0.300000 SOL |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
+
+### 🟢 KICK
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `HcAt2EiWN9oXUcNvGPMrqPhDEGymLQHb1j7qPP9vpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 19:43:52 | BUY | 0.150000 | `444SQFt6M5mLxL1AeM6RNLbbQsLgD3...` |
 
 ### 🔴 BLUECOLLAR
 - **Status:** closed | **Exit:** stop_loss
