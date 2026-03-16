@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BGLw4MpMcGN7qJsJQBAFzfBudXgaUtnczFCxrrpCHq8P`
-> Generated: 2026-03-16 23:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 MiroFish
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 1.34x
+- **Peak:** 1.34x | **Current:** 1.08x
 - **Mint:** `9vbovDf4rgasuPUw7CZDW8ekoJpo3R4SrohQK8aQpump`
 
 | Time | Action | SOL | TX |

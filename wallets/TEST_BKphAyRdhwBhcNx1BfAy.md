@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 23:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.29x | **Current:** 2.26x
+- **Peak:** 2.30x | **Current:** 2.30x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -209,7 +209,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.64x | **Current:** 1.64x
+- **Peak:** 1.68x | **Current:** 1.68x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -743,7 +743,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.10x
+- **Peak:** 3.16x | **Current:** 2.16x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1069,7 +1069,7 @@
 
 ### 🟢 COFFEE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `DTWg1WskDdQ1tU6LjK9jVi6NEafHconMXyGJrRoDpump`
 
 | Time | Action | SOL | TX |
@@ -1413,7 +1413,7 @@
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.68x
+- **Peak:** 1.03x | **Current:** 0.69x
 - **Mint:** `3S1NxQXfKmfL4szqJnPS3N8GpA35ncqBdrU4rrAPpump`
 
 | Time | Action | SOL | TX |

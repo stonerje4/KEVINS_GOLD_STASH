@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 23:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 NVIDIA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.45x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.17x | **Current:** 2.16x
 - **Mint:** `BbpVDCvrEP79W83vnMVbR1EAoTtcZzF7pGPqtrpupump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:43:56 | BUY | 0.000100 | `5vJWZsHQs26GN3not24fZfa9DMFXPV...` |
+| 2026-03-16 23:45:30 | SELL | 0.000021 | `4rcvU4DdKoNR12eUqRs6ybmAZN9sHL...` |
 
 ### 🟢 Rock
 - **Status:** open | **Exit:** open

@@ -1,18 +1,36 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-16 23:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
+| Total Positions | 4 |
+| Open | 2 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.001200 |
 | **Closed P&L** | **+0.001156 SOL** |
 | **Closed ROI** | **+96.4%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 chance
+- **Status:** open | **Exit:** open
+- **Peak:** 1.64x | **Current:** 1.64x
+- **Mint:** `8DJckLTVzCy7u3afeydFXYZGkffiw7HeZ8ujxDRZpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:48:17 | BUY | 0.000100 | `PMfvSZnxLZgzvNnfcYeMdBLQaLqoth...` |
+
+### 🟢 COW
+- **Status:** open | **Exit:** open
+- **Peak:** 1.06x | **Current:** 0.79x
+- **Mint:** `BRQn3S6nn4p3GAUsdAxJgJgxuWQpsjQjchiUmkfKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:46:07 | BUY | 0.000100 | `3gY7b6KDQZgkR86gxMHH23PxSWE27R...` |
 
 ### 🔴 PVE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

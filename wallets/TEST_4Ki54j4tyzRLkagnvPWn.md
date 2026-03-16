@@ -1,18 +1,39 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 23:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 16 |
+| Total Positions | 18 |
 | Open | 2 |
-| Closed | 14 |
-| W/L | 12/2 |
-| SOL In (closed) | 0.006400 |
-| **Closed P&L** | **+0.003241 SOL** |
-| **Closed ROI** | **+50.6%** |
+| Closed | 16 |
+| W/L | 14/2 |
+| SOL In (closed) | 0.006600 |
+| **Closed P&L** | **+0.003273 SOL** |
+| **Closed ROI** | **+49.6%** |
 | Open Deployed | 0.001200 SOL |
 
 ## Trades
+
+### 🔴 NKC
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.31x
+- **Mint:** `9pbQzGNVGz8HAzUPsywRUCmMyiD5oNU9xCSgnpkEpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:48:39 | BUY | 0.000100 | `fVJYUvKvKE8rNcKtQARm9PkCkuMKQi...` |
+| 2026-03-16 23:49:21 | SELL | 0.000031 | `638n4Brgvp47ZrAvQRhKnGScEbw3HM...` |
+| 2026-03-16 23:49:49 | SELL | 0.000000 | `29eSJBgTFKYVauDu3hFL6mMmwqvnXJ...` |
+
+### 🔴 CLAW
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.01x
+- **Mint:** `2XHGVXVejufqptsYXpXSvRdeGwzzGVNimQr18VgUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:46:46 | BUY | 0.000100 | `98urLbpa8CuruehkxF5X4Y1sUZwN9J...` |
+| 2026-03-16 23:47:38 | SELL | 0.000001 | `66BP21mmvwCP5sa6Weut9n2XCR5Hu7...` |
 
 ### 🔴 WME
 - **Status:** closed | **Exit:** ghost_close_stop_loss
