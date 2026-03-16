@@ -1,10 +1,10 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 04:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 5 |
+| Total Positions | 6 |
+| Open | 6 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.000000 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 CORGI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 1.01x
+- **Mint:** `CQnTXFK4zZ6yxEfWw1EntYmawYahEi13JhnTKzhmpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:02:42 | BUY | 0.000600 | `49BhJQxiiwRwmCGrQmqFPjSMNm4RaM...` |
+
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |

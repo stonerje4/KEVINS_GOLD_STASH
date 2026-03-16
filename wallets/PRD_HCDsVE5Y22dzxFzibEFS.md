@@ -1,15 +1,15 @@
 # [PRD] Wallet: `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`
-> Generated: 2026-03-16 04:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 04:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 2 |
-| Closed | 2 |
-| SOL In (closed) | 0.300000 |
+| Open | 1 |
+| Closed | 3 |
+| SOL In (closed) | 0.450000 |
 | SOL Out (sells) | 0.224868 |
-| **P&L** | **-0.075132 SOL** |
-| **ROI** | **-25.0%** |
+| **P&L** | **-0.225132 SOL** |
+| **ROI** | **-50.0%** |
 
 ## Trades
 
@@ -22,14 +22,15 @@
 |------|--------|-----|----|
 | 2026-03-16 03:00:10 | BUY | 0.150000 | `3ZdJvG7PViWhBAVbeMArLWPUxRTRdt...` |
 
-### 🟢 GLD
-- **Status:** open | **Exit:** open
+### 🔴 GLD
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `5Qp1JPamNkb75w23JudCE2ogL9nhJQpesnad4Arzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 17:20:54 | BUY | 0.150000 | `24yE3NStbhRdeb5jHAQEv6vuC1c9Qq...` |
+| 2026-03-16 04:04:01 | SELL | 0.000000 | `3emVaW5wLvCPs6oGM7PrntScn17Uzz...` |
 
 ### 🔴 DRONE
 - **Status:** closed | **Exit:** stale_position_cleanup

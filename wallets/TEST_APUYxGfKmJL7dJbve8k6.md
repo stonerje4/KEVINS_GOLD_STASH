@@ -1,17 +1,27 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 04:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 11 |
-| Open | 0 |
+| Total Positions | 12 |
+| Open | 1 |
 | Closed | 11 |
 | SOL In (closed) | 0.006600 |
-| SOL Out (sells) | 0.006091 |
-| **P&L** | **-0.000509 SOL** |
-| **ROI** | **-7.7%** |
+| SOL Out (sells) | 0.006463 |
+| **P&L** | **-0.000137 SOL** |
+| **ROI** | **-2.1%** |
 
 ## Trades
+
+### 🟢 6
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.22x | **Current:** 1.80x
+- **Mint:** `G1EwMrkYysYzUddKYEPnG98gSkKEvy5dHLrSnezcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:00:42 | BUY | 0.000600 | `wN9BPdCxXHF2sZ99L73QWDJMLQ4PUL...` |
+| 2026-03-16 04:02:38 | SELL | 0.000372 | `z4Ur6Lm42iqs5BTUdmrqourXYcJvUM...` |
 
 ### 🟢 GIGACHAD
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

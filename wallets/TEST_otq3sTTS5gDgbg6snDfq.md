@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 04:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |

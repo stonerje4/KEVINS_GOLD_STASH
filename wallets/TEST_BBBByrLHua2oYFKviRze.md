@@ -1,21 +1,21 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 04:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 14 |
-| Open | 1 |
-| Closed | 13 |
-| SOL In (closed) | 0.007800 |
+| Open | 0 |
+| Closed | 14 |
+| SOL In (closed) | 0.008400 |
 | SOL Out (sells) | 0.006986 |
-| **P&L** | **-0.000814 SOL** |
-| **ROI** | **-10.4%** |
+| **P&L** | **-0.001414 SOL** |
+| **ROI** | **-16.8%** |
 
 ## Trades
 
-### 🟢 Glowcat
-- **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.19x
+### 🔴 Glowcat
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.28x | **Current:** 0.64x
 - **Mint:** `2XZi6MZqiMWJD7FLURitXeXHmokgSpqsMxv9arfdpump`
 
 | Time | Action | SOL | TX |

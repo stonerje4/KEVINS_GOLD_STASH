@@ -1,21 +1,21 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 04:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 11 |
-| Open | 6 |
-| Closed | 5 |
-| SOL In (closed) | 0.003000 |
-| SOL Out (sells) | 0.002575 |
-| **P&L** | **-0.000425 SOL** |
-| **ROI** | **-14.2%** |
+| Open | 5 |
+| Closed | 6 |
+| SOL In (closed) | 0.003600 |
+| SOL Out (sells) | 0.002989 |
+| **P&L** | **-0.000611 SOL** |
+| **ROI** | **-17.0%** |
 
 ## Trades
 
 ### 🟢 Fridge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.03x
+- **Peak:** 1.03x | **Current:** 0.97x
 - **Mint:** `Bqhm4Um5iuAjFsVnsjCQko3eg5mctTyv7HWLDGHgpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 herry
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `AMbTjmCCUoWH96dwAn1ukG5WigK86RBfZZ39K5ubpump`
 
 | Time | Action | SOL | TX |
@@ -70,14 +70,15 @@
 |------|--------|-----|----|
 | 2026-03-16 00:26:08 | BUY | 0.000600 | `3tF2rp7WRSJZtWZN64R68UpkT1qCQK...` |
 
-### 🟢 Agent Doge
-- **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 0.73x
+### 🔴 Agent Doge
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.25x | **Current:** 0.70x
 - **Mint:** `JB8J7Hp259EkmupJJKnqYuyPZXy1P7z22uwfzgJgpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:59:02 | BUY | 0.000600 | `2CHupTUcYhCYweZUGdUGc36GdUneMX...` |
+| 2026-03-16 04:02:06 | SELL | 0.000414 | `32tSfe8vrabwQfCVTDkijREFPbNjSs...` |
 
 ### 🟢 STARE
 - **Status:** open | **Exit:** open

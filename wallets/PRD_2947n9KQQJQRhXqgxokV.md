@@ -1,15 +1,15 @@
 # [PRD] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 04:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 04:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 47 |
-| Open | 4 |
-| Closed | 43 |
-| SOL In (closed) | 6.450000 |
+| Open | 3 |
+| Closed | 44 |
+| SOL In (closed) | 6.600000 |
 | SOL Out (sells) | 3.598021 |
-| **P&L** | **-2.851979 SOL** |
-| **ROI** | **-44.2%** |
+| **P&L** | **-3.001979 SOL** |
+| **ROI** | **-45.5%** |
 
 ## Trades
 
@@ -73,14 +73,15 @@
 | 2026-03-15 19:48:21 | BUY | 0.150000 | `66fXgSQjiqaFuMPpHQXyB4t73aWaBu...` |
 | 2026-03-16 02:03:59 | SELL | 0.000000 | `oKnsYhTeovCfKC6g9KtRn79o9GZAVE...` |
 
-### 🟢 OIL
-- **Status:** open | **Exit:** open
+### 🔴 OIL
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `5r2Meo2Jqsuf6SbhxSDEBrXe3UUeYHc5wVru1w81pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 17:41:41 | BUY | 0.150000 | `3GTyx1FoNDp6FE1DgdcJJ4fAB2gsKQ...` |
+| 2026-03-16 04:04:03 | SELL | 0.000000 | `3mwpbcie9J9LBkeGthpEVzALdns9dY...` |
 
 ### 🔴 USDR
 - **Status:** closed | **Exit:** stale_position_cleanup

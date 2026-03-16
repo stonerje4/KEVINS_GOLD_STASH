@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 04:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Grok
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.08x
+- **Peak:** 1.26x | **Current:** 1.23x
 - **Mint:** `EumDYrzUjdPfLsT7uh5DmghYtYZU1Tgjo8cUkyNhpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +44,7 @@
 
 ### 🟢 MIROMIND
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.95x | **Current:** 2.49x
+- **Peak:** 2.95x | **Current:** 1.76x
 - **Mint:** `GM4Ci3DZBEY1dhUaZZGuHAsc5PdetKzHpnxHJ5Rupump`
 
 | Time | Action | SOL | TX |
@@ -110,7 +110,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.02x
+- **Peak:** 1.18x | **Current:** 1.01x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -175,7 +175,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.02x
+- **Peak:** 1.06x | **Current:** 1.06x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |
@@ -326,7 +326,7 @@
 
 ### 🟢 JOBS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.20x
+- **Peak:** 1.39x | **Current:** 1.22x
 - **Mint:** `A3groKXFP8aipQZVt7iajAs31sa7v89KGxc8Z3X8pump`
 
 | Time | Action | SOL | TX |
@@ -478,7 +478,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.86x
+- **Peak:** 1.24x | **Current:** 0.88x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
