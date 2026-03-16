@@ -1,18 +1,27 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 14:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
+| Total Positions | 13 |
 | Open | 6 |
-| Closed | 6 |
-| W/L | 5/1 |
-| SOL In (closed) | 0.003600 |
+| Closed | 7 |
+| W/L | 5/2 |
+| SOL In (closed) | 0.004200 |
 | **Closed P&L** | **+0.001890 SOL** |
-| **Closed ROI** | **+52.5%** |
+| **Closed ROI** | **+45.0%** |
 | Open Deployed | 0.003600 SOL |
 
 ## Trades
+
+### 🟢 TRN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 0.94x
+- **Mint:** `9K46p45MBgPN8ujYxUF33seWanrZ3JJvVwFXPzWypump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:15:51 | BUY | 0.000600 | `3rnCdtuig2niY2grPTvnzKDL8eRdAU...` |
 
 ### 🟢 ARAMCO
 - **Status:** open | **Exit:** open
@@ -120,8 +129,8 @@
 | 2026-03-16 01:09:29 | BUY | 0.000600 | `3NM3D7ySV4jUHnwMxtrnNQaZMaAQrj...` |
 | 2026-03-16 02:37:11 | SELL | 0.000382 | `4BZ1GhwwftJscgVNQ5H3gHPAeBhnC8...` |
 
-### 🟢 WRT CTO
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 WRT CTO
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.01x | **Current:** 1.01x
 - **Mint:** `F4eRhkJYkkpzB539QS5EAg5ZEsJ3wR1ioTv5zjv9pump`
 

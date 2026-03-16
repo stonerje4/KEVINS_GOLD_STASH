@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 14:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 48 |
-| Open | 1 |
+| Total Positions | 49 |
+| Open | 2 |
 | Closed | 47 |
 | W/L | 45/2 |
 | SOL In (closed) | 0.028200 |
 | **Closed P&L** | **+0.022983 SOL** |
 | **Closed ROI** | **+81.5%** |
-| Open Deployed | 0.000600 SOL |
+| Open Deployed | 0.001200 SOL |
 
 ## Trades
+
+### 🟢 Mala
+- **Status:** open | **Exit:** open
+- **Peak:** 1.61x | **Current:** 1.04x
+- **Mint:** `UHjAJ2GLCwdWAL7FssN88PFjNPdwSSLENXQWZyX6AYP`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:16:13 | BUY | 0.000600 | `3XNnMuhtuKn4Nij86HmVxv9KcAgYZK...` |
 
 ### 🔴 Kinako
 - **Status:** closed | **Exit:** ghost_close_stop_loss

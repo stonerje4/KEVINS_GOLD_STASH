@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 14:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.90x | **Current:** 1.53x
 - **Mint:** `CafXWB7PWgXsPYyQ7A3hqpQhjrZdYPe59TUQnpXWpump`
 
 | Time | Action | SOL | TX |
@@ -63,7 +63,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |
@@ -232,7 +232,7 @@
 
 ### 🟢 Wife
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `RSvkQUEBvN9bQ56cSmnu5wJkdTFXjBqAMpYQcSUpump`
 
 | Time | Action | SOL | TX |
@@ -381,8 +381,8 @@
 | 2026-03-16 01:22:18 | BUY | 0.000600 | `VSSBpqFLey8wgGHk12Y1jPsYctcuuC...` |
 
 ### 🟢 navicooks
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Status:** partial | **Exit:** stale_cleanup
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `BrKvKu6pMk65NS2zbq8TafhggvEycqguZTiMwsnYSDDw`
 
 | Time | Action | SOL | TX |

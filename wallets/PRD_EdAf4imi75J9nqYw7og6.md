@@ -1,18 +1,27 @@
 # [PRD] Wallet: `EdAf4imi75J9nqYw7og6VvFMTPzwoLhuCjvbhQhyf7a7`
-> Generated: 2026-03-16 14:15 UTC | Environment: **PRD**
+> Generated: 2026-03-16 14:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
+| Total Positions | 3 |
+| Open | 1 |
 | Closed | 2 |
 | W/L | 1/1 |
 | SOL In (closed) | 0.300000 |
 | **Closed P&L** | **+2.696673 SOL** |
 | **Closed ROI** | **+898.9%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
+
+### 🟢 AgenTTT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 0.00x
+- **Mint:** `7oB9WZVQH9vQcgMs1JHccchQbqVECD7MGZ8LyGgCpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:17:38 | BUY | 0.150000 | `34rAWahGNkAz7rzZo2S2KRkyUbByL4...` |
 
 ### 🟢 雪の妖精
 - **Status:** closed | **Exit:** runner_trailing_stop

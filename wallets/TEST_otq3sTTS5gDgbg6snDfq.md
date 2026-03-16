@@ -1,22 +1,22 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 14:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 38 |
-| Open | 28 |
-| Closed | 10 |
-| W/L | 4/6 |
-| SOL In (closed) | 0.006000 |
+| Open | 27 |
+| Closed | 11 |
+| W/L | 4/7 |
+| SOL In (closed) | 0.006600 |
 | **Closed P&L** | **+0.003202 SOL** |
-| **Closed ROI** | **+53.4%** |
-| Open Deployed | 0.016800 SOL |
+| **Closed ROI** | **+48.5%** |
+| Open Deployed | 0.016200 SOL |
 
 ## Trades
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -70,7 +70,7 @@
 
 ### 🟢 Beast 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.79x
+- **Peak:** 1.09x | **Current:** 0.88x
 - **Mint:** `CnL3AT1uyVNw9euhPmUgupqCDxq2TDHEJyQ4Xy8ipump`
 
 | Time | Action | SOL | TX |
@@ -299,8 +299,8 @@
 |------|--------|-----|----|
 | 2026-03-16 01:29:14 | BUY | 0.000600 | `5tPLT25bYESaE3zkz2D2AYSboAnxhZ...` |
 
-### 🟢 FOOD
-- **Status:** open | **Exit:** open
+### 🔴 FOOD
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `HQX3PRouKAs8Th9fx9gCxToaf3ChkHY4uRV4JKL7pump`
 

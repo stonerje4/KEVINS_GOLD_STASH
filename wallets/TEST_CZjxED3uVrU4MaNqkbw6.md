@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 14:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Bear 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 0.99x
+- **Peak:** 1.90x | **Current:** 0.97x
 - **Mint:** `AVuvrHDCk3wQd1id8irp9VovBJ7R21Rbd2Gr6TKupump`
 
 | Time | Action | SOL | TX |
