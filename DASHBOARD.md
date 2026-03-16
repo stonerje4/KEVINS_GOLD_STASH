@@ -1,5 +1,5 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 11:40 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 11:45 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
@@ -111,7 +111,7 @@
 | `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy` | 1 | 1 | 0 | 0/1 | 0% | 0.1500 | 🔴 -0.150000 | -100.0% |
 
 > P&L per wallet from actual trade results. Sorted by ROI.
-> Only showing **active** Cielo wallets (bought in last 24h). 7 inactive wallets hidden.
+> Only showing **active** Cielo wallets (bought in last 24h). 8 inactive wallets hidden.
 > ⚠️ Manual Phantom sells not included — some wallets may look worse than reality.
 
 ---
