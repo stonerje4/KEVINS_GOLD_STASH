@@ -1,15 +1,15 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 01:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 1 |
-| Closed | 4 |
-| SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.001676 |
-| **P&L** | **-0.000724 SOL** |
-| **ROI** | **-30.2%** |
+| Open | 0 |
+| Closed | 5 |
+| SOL In (closed) | 0.003000 |
+| SOL Out (sells) | 0.002723 |
+| **P&L** | **-0.000277 SOL** |
+| **ROI** | **-9.2%** |
 
 ## Trades
 
@@ -34,14 +34,15 @@
 | 2026-03-16 01:28:46 | SELL | 0.000361 | `2dS2hYDSEmYAQ9TUmiaBcajyPskeRf...` |
 
 ### 🟢 UDC
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.20x | **Current:** 2.61x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.20x | **Current:** 2.50x
 - **Mint:** `21YuqbGpG65PMHw9reH3vv4vJeAebgMR1NfDgRWPpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:15:22 | BUY | 0.000600 | `bNBL2V4JyfTxBL7tzSwmf3VHraH6yM...` |
 | 2026-03-16 01:18:30 | SELL | 0.000380 | `MHTyZs2zLV9dQ7xD8VbnhSHkDfF5yA...` |
+| 2026-03-16 01:31:50 | SELL | 0.001047 | `6244gKi7NrX6fGjsDzV5CDcQVagLPZ...` |
 
 ### 🔴 Cunan
 - **Status:** closed | **Exit:** ghost_close_stop_loss

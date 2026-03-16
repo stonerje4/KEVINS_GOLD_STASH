@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 01:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 UDC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+- **Peak:** 1.12x | **Current:** 0.85x
 - **Mint:** `9z797YSc8cqk1if2p9b9aStQ45v4vZtu6BjXaF8Dpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 FOOD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `HQX3PRouKAs8Th9fx9gCxToaf3ChkHY4uRV4JKL7pump`
 
 | Time | Action | SOL | TX |

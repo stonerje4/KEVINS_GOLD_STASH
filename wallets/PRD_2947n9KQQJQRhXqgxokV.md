@@ -1,5 +1,5 @@
 # [PRD] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 01:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 01:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -7,9 +7,9 @@
 | Open | 7 |
 | Closed | 40 |
 | SOL In (closed) | 6.000000 |
-| SOL Out (sells) | 3.327343 |
-| **P&L** | **-2.672657 SOL** |
-| **ROI** | **-44.5%** |
+| SOL Out (sells) | 3.429191 |
+| **P&L** | **-2.570809 SOL** |
+| **ROI** | **-42.8%** |
 
 ## Trades
 
@@ -185,6 +185,7 @@
 |------|--------|-----|----|
 | 2026-03-15 06:01:59 | BUY | 0.150000 | `47M5nX6GiSBTz7xvsNqub9mRQ4auFQ...` |
 | 2026-03-15 22:02:23 | BUY | 0.150000 | `4two4q5ZUQEJip4dyeNvVAMVQ2KjMi...` |
+| 2026-03-16 01:33:28 | SELL | 0.101848 | `5NbecYcFcXNcqLMySyDi6NjFPxY5mT...` |
 
 ### 🔴 ZEC
 - **Status:** closed | **Exit:** stale_position_cleanup

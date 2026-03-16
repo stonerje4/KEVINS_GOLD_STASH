@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 01:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 8 |
+| Total Positions | 10 |
+| Open | 9 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
 | SOL Out (sells) | 0.000401 |
@@ -12,6 +12,15 @@
 | **ROI** | **-33.1%** |
 
 ## Trades
+
+### 🟢 Signets
+- **Status:** open | **Exit:** open
+- **Peak:** 1.71x | **Current:** 0.83x
+- **Mint:** `6HeVNiUz7jwsqSEun7E3C1S9FyHacr9vy7DBQXBgpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:31:44 | BUY | 0.000600 | `4LGGJqvYaebiKSbg42xsQdgohv7Sca...` |
 
 ### 🟢 TRUMPHOUSE
 - **Status:** open | **Exit:** open
@@ -42,7 +51,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.81x
+- **Peak:** 1.05x | **Current:** 0.89x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |
@@ -51,7 +60,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.96x
+- **Peak:** 1.03x | **Current:** 0.95x
 - **Mint:** `31MHbw38roub69Mwqpe8YrJXHWUrmxWTSQAktSfKpump`
 
 | Time | Action | SOL | TX |

@@ -1,20 +1,20 @@
 # [PRD] Wallet: `FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz`
-> Generated: 2026-03-16 01:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 01:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 16 |
-| Open | 2 |
-| Closed | 14 |
-| SOL In (closed) | 1.560000 |
-| SOL Out (sells) | 0.449112 |
-| **P&L** | **-1.110888 SOL** |
-| **ROI** | **-71.2%** |
+| Open | 1 |
+| Closed | 15 |
+| SOL In (closed) | 1.710000 |
+| SOL Out (sells) | 0.550959 |
+| **P&L** | **-1.159041 SOL** |
+| **ROI** | **-67.8%** |
 
 ## Trades
 
-### 🟢 UGOR
-- **Status:** open | **Exit:** open
+### 🔴 UGOR
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `29CYfXBFFLS1Ltjvz83ahfRRd68EhVVTFsi51csLpump`
 
@@ -22,6 +22,7 @@
 |------|--------|-----|----|
 | 2026-03-15 06:01:59 | BUY | 0.150000 | `47M5nX6GiSBTz7xvsNqub9mRQ4auFQ...` |
 | 2026-03-15 22:02:23 | BUY | 0.150000 | `4two4q5ZUQEJip4dyeNvVAMVQ2KjMi...` |
+| 2026-03-16 01:33:28 | SELL | 0.101848 | `5NbecYcFcXNcqLMySyDi6NjFPxY5mT...` |
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
