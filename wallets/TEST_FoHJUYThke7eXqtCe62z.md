@@ -1,30 +1,32 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 02:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 12 |
-| Open | 11 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000401 |
-| **P&L** | **-0.000199 SOL** |
-| **ROI** | **-33.1%** |
+| Open | 10 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.001204 |
+| **P&L** | **+0.000004 SOL** |
+| **ROI** | **+0.3%** |
 
 ## Trades
 
 ### 🟢 SKUNS
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.38x | **Current:** 0.89x
 - **Mint:** `2QCSyC7HfVsAVyxYtEiLgKhWDogDyHon1w5gyZE6pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:18:50 | BUY | 0.000600 | `2fEHPQvVpMQoaY8feQWHFYXoCp6KL5...` |
+| 2026-03-16 02:21:08 | SELL | 0.000430 | `5ZVHGSNRuVVhV7nn2gX3KnyDLZsQ7a...` |
+| 2026-03-16 02:21:39 | SELL | 0.000373 | `3ncV6n8Z9eZP2QaNeU7frUVmoU9wRm...` |
 
 ### 🟢 GSD2
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 1.19x
+- **Peak:** 1.21x | **Current:** 1.18x
 - **Mint:** `DN2SA3CRMRa6K14T52VnTkdPVQ7d1W882f4rFV4Fi8n`
 
 | Time | Action | SOL | TX |

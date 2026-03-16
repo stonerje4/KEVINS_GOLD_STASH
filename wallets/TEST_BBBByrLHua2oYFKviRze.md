@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 02:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -14,7 +14,7 @@
 ## Trades
 
 ### 🔴 WRAP
-- **Status:** closing | **Exit:** stop_loss
+- **Status:** closed | **Exit:** ghost_close_stop_loss
 - **Peak:** 1.25x | **Current:** 0.54x
 - **Mint:** `GUc5UNgxVKS9KYowa7Kc8qcyECfigpzLVpFrYuJYpump`
 

@@ -1,26 +1,36 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 02:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 3 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.000918 |
-| **P&L** | **-0.000282 SOL** |
-| **ROI** | **-23.5%** |
+| Total Positions | 6 |
+| Open | 2 |
+| Closed | 4 |
+| SOL In (closed) | 0.002400 |
+| SOL Out (sells) | 0.001048 |
+| **P&L** | **-0.001352 SOL** |
+| **ROI** | **-56.3%** |
 
 ## Trades
 
-### 🟢 JM
-- **Status:** open | **Exit:** open
-- **Peak:** 1.44x | **Current:** 1.44x
+### 🔴 0.0000001
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.42x
+- **Mint:** `2wnvP43mwDCYcngaz8sWJeCcQxaeh7aXV63jhioBpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:22:54 | BUY | 0.000600 | `5tHRtecTQ7MmnmcrvQpHy5yx2Bb619...` |
+
+### 🔴 JM
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.86x | **Current:** 0.22x
 - **Mint:** `5N5f2MWdyScWEEB1irfgSmy189yd4QuvxT79nQKhpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:19:05 | BUY | 0.000600 | `3CfwkXJj6ZHX5jntTuwD4DZY6XCVWU...` |
+| 2026-03-16 02:21:10 | SELL | 0.000129 | `37QzSpJHhEAQWrgYjTcvUhupu8z44T...` |
 
 ### 🔴 X
 - **Status:** closed | **Exit:** ghost_close_stop_loss

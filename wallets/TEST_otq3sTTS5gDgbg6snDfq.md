@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 02:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 11 |
-| Open | 11 |
+| Total Positions | 12 |
+| Open | 12 |
 | Closed | 0 |
 | SOL In (closed) | 0.000000 |
 | SOL Out (sells) | 0.000000 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 MLTFO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.97x
+- **Mint:** `45b7oPA7ex4NJuAFkNegj8xaGhByt5tzYFf1FCD4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:22:42 | BUY | 0.000600 | `4e4cE9oyeAUg7RJkh3SVpxZRgygTZd...` |
+
 ### 🟢 Papua
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.90x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +42,7 @@
 
 ### 🟢 OG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.90x
+- **Peak:** 1.02x | **Current:** 0.83x
 - **Mint:** `37JEzbRcfeGAYEeiPMg1gKbK8UZNQG7cjF5Pvse7pump`
 
 | Time | Action | SOL | TX |

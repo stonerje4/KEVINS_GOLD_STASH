@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 02:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -42,7 +42,7 @@
 
 ### 🟢 RIONA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.04x
+- **Peak:** 1.13x | **Current:** 1.01x
 - **Mint:** `smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump`
 
 | Time | Action | SOL | TX |
