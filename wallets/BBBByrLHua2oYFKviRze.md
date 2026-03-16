@@ -1,5 +1,5 @@
 # Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 01:10 UTC
+> Generated: 2026-03-16 01:15 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 LIBTARD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 0.98x
+- **Peak:** 1.40x | **Current:** 0.75x
 - **Mint:** `6EEp9gRn1aCk8j2KNis1ZMAA8H8N6z8aoNFTz2Szpump`
 
 | Time | Action | SOL | TX |

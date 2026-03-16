@@ -1,17 +1,26 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 01:10 UTC
+> Generated: 2026-03-16 01:15 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
+| Total Positions | 8 |
 | Open | 7 |
-| Closed | 0 |
-| SOL In (closed) | 0.000000 |
-| SOL Out (sells) | 0.000000 |
-| **P&L** | **+0.000000 SOL** |
-| **ROI** | **+0.0%** |
+| Closed | 1 |
+| SOL In (closed) | 0.000600 |
+| SOL Out (sells) | 0.000401 |
+| **P&L** | **-0.000199 SOL** |
+| **ROI** | **-33.1%** |
 
 ## Trades
+
+### 🟢 navicooks
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.93x
+- **Mint:** `BrKvKu6pMk65NS2zbq8TafhggvEycqguZTiMwsnYSDDw`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:12:52 | BUY | 0.000600 | `3c3Fiu2ahUXjrAvNDeR7qAVmyjYiL3...` |
 
 ### 🟢 NPC
 - **Status:** open | **Exit:** open
@@ -40,18 +49,19 @@
 |------|--------|-----|----|
 | 2026-03-15 22:38:34 | BUY | 0.000600 | `wFuTb9nH1ojzneJLWXJsXdHPARHyxF...` |
 
-### 🟢 KeyA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.76x
+### 🔴 KeyA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `F3aUNQfE31yPJBX75Y62xR9EmFCKhVPBhNygkFELpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:32:00 | BUY | 0.000600 | `4oMmMkqAhb6PTD5dFCqa9Lb5ch92gk...` |
+| 2026-03-16 01:11:07 | SELL | 0.000401 | `1yCt6RVS7sUhARhzNd8398WcBh3e8W...` |
 
 ### 🟢 JJK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `S2ALfUhiYy3JQobKv86KCkDHfQG5gvL4Ujb9FpKpump`
 
 | Time | Action | SOL | TX |
