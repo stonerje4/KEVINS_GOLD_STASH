@@ -1,5 +1,5 @@
 # [PRD] Wallet: `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`
-> Generated: 2026-03-16 18:50 UTC | Environment: **PRD**
+> Generated: 2026-03-16 18:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 Ac7ionMan
-- **Status:** open | **Exit:** open
-- **Peak:** 1.52x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.33x | **Current:** 0.00x
 - **Mint:** `J5KWRN9whQEm61uz38RXnaqGJfcPr3piLijz4N96pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:47:35 | BUY | 0.150000 | `3EQqCqGNxV7Z7yyXsESVL3Wia6hG8j...` |
+| 2026-03-16 18:54:32 | SELL | 0.034902 | `53tE8fV5CCYLbSopxHd5WMabgZVttk...` |
 
 ### 🟢 RELAPSE
 - **Status:** open | **Exit:** open
