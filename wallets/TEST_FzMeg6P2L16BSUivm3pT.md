@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 23:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 3 |
+| Total Positions | 10 |
+| Open | 4 |
 | Closed | 6 |
 | W/L | 6/0 |
 | SOL In (closed) | 0.001600 |
 | **Closed P&L** | **+0.000571 SOL** |
 | **Closed ROI** | **+35.7%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
+
+### 🟢 NVIDIA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.45x | **Current:** 1.45x
+- **Mint:** `BbpVDCvrEP79W83vnMVbR1EAoTtcZzF7pGPqtrpupump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:43:56 | BUY | 0.000100 | `5vJWZsHQs26GN3not24fZfa9DMFXPV...` |
 
 ### 🟢 Rock
 - **Status:** open | **Exit:** open

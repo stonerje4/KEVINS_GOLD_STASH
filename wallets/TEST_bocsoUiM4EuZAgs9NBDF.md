@@ -1,18 +1,27 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-16 23:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 5 |
+| Total Positions | 7 |
+| Open | 6 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.000500 SOL |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
+
+### 🟢 ROCK
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `2ByUr3vxL8uZnCoof1AW3Pi4yiyarVFBFDRCyjaNpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:44:40 | BUY | 0.000100 | `3xdGHKYMTL6r7oYv71Hk5u1gq8G9LJ...` |
 
 ### 🟢 Fumbl
 - **Status:** open | **Exit:** open
@@ -25,7 +34,7 @@
 
 ### 🟢 DAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.02x
+- **Peak:** 1.13x | **Current:** 0.85x
 - **Mint:** `3AhHpBR3o8TKKyBto3fZGLVHGRGtuUbqQy8LhziFpump`
 
 | Time | Action | SOL | TX |

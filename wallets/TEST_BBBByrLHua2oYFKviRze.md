@@ -1,22 +1,31 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 23:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 91 |
-| Open | 24 |
+| Total Positions | 92 |
+| Open | 25 |
 | Closed | 67 |
 | W/L | 65/2 |
 | SOL In (closed) | 0.030200 |
 | **Closed P&L** | **+0.024792 SOL** |
 | **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.003400 SOL |
+| Open Deployed | 0.003500 SOL |
 
 ## Trades
 
+### 🟢 FISH
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.63x
+- **Mint:** `Gwkh9VHnQNeUuWFN3QNaaJLXzwQZoYjCxotq4utJiirJ`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:41:32 | BUY | 0.000100 | `6QyJ3eRneVDSLAJ2VVYwH2LGm7888J...` |
+
 ### 🟢 CRAB
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 0.58x
+- **Peak:** 1.31x | **Current:** 0.56x
 - **Mint:** `F1vcdTkaC8JQyFqeWZxuebUGhsnVMCqqV4Yn5cNspump`
 
 | Time | Action | SOL | TX |
@@ -397,7 +406,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.81x
+- **Peak:** 1.74x | **Current:** 0.90x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |
