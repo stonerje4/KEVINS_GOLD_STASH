@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 16:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 65 |
+| Total Positions | 66 |
 | Open | 12 |
-| Closed | 53 |
-| W/L | 51/2 |
-| SOL In (closed) | 0.028800 |
-| **Closed P&L** | **+0.023511 SOL** |
-| **Closed ROI** | **+81.6%** |
+| Closed | 54 |
+| W/L | 52/2 |
+| SOL In (closed) | 0.028900 |
+| **Closed P&L** | **+0.023798 SOL** |
+| **Closed ROI** | **+82.3%** |
 | Open Deployed | 0.002200 SOL |
 
 ## Trades
+
+### 🟢 Escobird
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `A9Bfdts9BgqpBSrw8JreVDBqBKVKeGJg9BNjBkx2pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:34:50 | BUY | 0.000100 | `2Ehw6mBJ5gg17ChNRq4wyPDmGpcuBu...` |
 
 ### 🔴 FlatHeadCat
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -25,8 +34,8 @@
 | 2026-03-16 16:29:32 | SELL | 0.000036 | `3CKPSLaRKsueZaMrHWnSZYkwZtWJSy...` |
 
 ### 🟢 eˣ
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.85x | **Current:** 3.85x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 5.69x | **Current:** 0.98x
 - **Mint:** `FUZVoM3kAu6UqwCGMpi8AMFZDZhAwZYsHAERGdphpump`
 
 | Time | Action | SOL | TX |
@@ -34,6 +43,8 @@
 | 2026-03-16 16:24:37 | BUY | 0.000100 | `2kEpseiSDTK5Uc8UTtAYuZ11Tq4Yjk...` |
 | 2026-03-16 16:27:34 | SELL | 0.000023 | `2PmQikZ6VZDsLG9DbySJnD97CgS8xk...` |
 | 2026-03-16 16:29:31 | SELL | 0.000035 | `5EdndSE7jTpsch3Zv1Q4LRSnNmwG2a...` |
+| 2026-03-16 16:30:26 | SELL | 0.000046 | `5qzSDTi2Cg88ShapN7kQFNmFGGm7tr...` |
+| 2026-03-16 16:32:04 | SELL | 0.000183 | `4iQy34HUqawUjUWhAQV8Xf5SDatqqW...` |
 
 ### 🟢 SOLANA
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -137,7 +148,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.16x
+- **Peak:** 1.74x | **Current:** 0.94x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |
@@ -146,7 +157,7 @@
 
 ### 🟢 9Fraud
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 0.46x
+- **Peak:** 1.66x | **Current:** 0.45x
 - **Mint:** `FaQRT8iWpLhKMU4XaBhqhsWiR4eBMnyW2CFMYsHvih7Y`
 
 | Time | Action | SOL | TX |

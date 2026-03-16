@@ -1,22 +1,31 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 16:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 2 |
+| Total Positions | 6 |
+| Open | 3 |
 | Closed | 3 |
 | W/L | 3/0 |
 | SOL In (closed) | 0.000800 |
 | **Closed P&L** | **+0.000697 SOL** |
 | **Closed ROI** | **+87.1%** |
-| Open Deployed | 0.000700 SOL |
+| Open Deployed | 0.000800 SOL |
 
 ## Trades
 
+### 🟢 2024
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.81x
+- **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:30:07 | BUY | 0.000100 | `3CdoEL2Yquh486WkFMDiKioiL7DsH2...` |
+
 ### 🟢 TRADES
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.17x | **Current:** 1.17x
 - **Mint:** `DPC15FkyULBUTNxQZfaNr42FCQsABteGUAovzGCYpump`
 
 | Time | Action | SOL | TX |

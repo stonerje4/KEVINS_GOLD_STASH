@@ -1,4 +1,4 @@
-# [TEST] Wallet: `3VHz3MhvcbdxceVsUGz9Q4DNZLyS4RobbYjg1yXscES8`
+# [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
 > Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 OpenSquirrel
+### 🟢 TANG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.75x
-- **Mint:** `EpJgAWy61Swg915cDiu4qvV7fFtvuC12GsrY3wKDxV4G`
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 14:53:24 | BUY | 0.000100 | `2aNPuEXgkwy4e1TkpYfueGVv116AMh...` |
+| 2026-03-16 16:32:10 | BUY | 0.000100 | `52GjieAYpE6fRbGMjQcScJsNU3S7JB...` |
 

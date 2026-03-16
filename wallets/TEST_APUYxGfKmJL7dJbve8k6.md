@@ -1,27 +1,28 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 16:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 33 |
-| Open | 4 |
-| Closed | 29 |
-| W/L | 25/4 |
-| SOL In (closed) | 0.013900 |
-| **Closed P&L** | **+0.009154 SOL** |
-| **Closed ROI** | **+65.9%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 30 |
+| W/L | 26/4 |
+| SOL In (closed) | 0.014000 |
+| **Closed P&L** | **+0.009179 SOL** |
+| **Closed ROI** | **+65.6%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
-### 🟢 Wif
-- **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.42x
+### 🔴 Wif
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.07x | **Current:** 0.25x
 - **Mint:** `4VDV23QxYQHDoywcqCqSnXjvvd4zwCZ811wzwxVupump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:27:49 | BUY | 0.000100 | `33RUxEmTRwJ8ALUwqHaf82EyYyiqAc...` |
+| 2026-03-16 16:30:28 | SELL | 0.000025 | `4A8RXMDDsXxBjTYzRendHYujjhA9vy...` |
 
 ### 🔴 token
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -34,13 +35,14 @@
 | 2026-03-16 16:24:19 | SELL | 0.000026 | `33yBzT5a9GL3oSqTm6dhCuvsdRku5S...` |
 
 ### 🟢 DICK
-- **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.81x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.38x | **Current:** 2.20x
 - **Mint:** `5ZGbkpfWUNUHgo8WyAweQnNLecj8GfP4ax6uc5ha3JmD`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:01:33 | BUY | 0.000100 | `5uxApHL5ApfYmQDzgqYYFQquU3XCPE...` |
+| 2026-03-16 16:30:22 | SELL | 0.000024 | `51uDmaPEAYRNmmxceZkc2aZkhZJBYX...` |
 
 ### 🔴 BUILDER
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

@@ -1,22 +1,22 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 16:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 82 |
-| Open | 16 |
-| Closed | 66 |
-| W/L | 65/1 |
-| SOL In (closed) | 0.034100 |
-| **Closed P&L** | **+0.028730 SOL** |
-| **Closed ROI** | **+84.3%** |
-| Open Deployed | 0.003600 SOL |
+| Open | 15 |
+| Closed | 67 |
+| W/L | 66/1 |
+| SOL In (closed) | 0.034200 |
+| **Closed P&L** | **+0.029035 SOL** |
+| **Closed ROI** | **+84.9%** |
+| Open Deployed | 0.003500 SOL |
 
 ## Trades
 
 ### 🟢 RICE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.66x
 - **Mint:** `3NFYLJMnLYjJMeSm9Pm75UNpGReaBqwVe3ySs5yypump`
 
 | Time | Action | SOL | TX |
@@ -34,8 +34,8 @@
 | 2026-03-16 16:22:37 | SELL | 0.000018 | `48EuHWaxJukbugsUUDYeqPKXvA8zE9...` |
 
 ### 🟢 LabOS
-- **Status:** partial | **Exit:** open
-- **Peak:** 5.35x | **Current:** 5.35x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 5.35x | **Current:** 2.61x
 - **Mint:** `2WjBktCpXvTGgnfzQsQ44Q9UF3JhLzzvgTApiVz6pump`
 
 | Time | Action | SOL | TX |
@@ -44,6 +44,7 @@
 | 2026-03-16 16:25:08 | SELL | 0.000038 | `5SZTCBabLBAE5beVxLtWLHVKJ7Q6sF...` |
 | 2026-03-16 16:25:32 | SELL | 0.000034 | `AfJFzGTvnoNjxgWmRh9JEMa9BRqeXe...` |
 | 2026-03-16 16:29:29 | SELL | 0.000043 | `rXpEKYJjWQC9LwyoTeL8KiaMGgng5X...` |
+| 2026-03-16 16:30:24 | SELL | 0.000190 | `3vXEedVeU6TjgKUoR2o5cx3oeJYN5h...` |
 
 ### 🔴 GIGGLE
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -76,7 +77,7 @@
 
 ### 🟢 POKEFUN
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.43x | **Current:** 1.80x
+- **Peak:** 2.43x | **Current:** 2.15x
 - **Mint:** `G4WzMcvBFVAhNBbb2U9LDvdmX8T2nVNkvHz7siWBpump`
 
 | Time | Action | SOL | TX |
@@ -86,7 +87,7 @@
 
 ### 🟢 LIQUORA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 0.45x
+- **Peak:** 1.36x | **Current:** 0.44x
 - **Mint:** `FppyXdz1bp6VHvraf7QVkNo7EfdYNqZDunEQ5Gk3pump`
 
 | Time | Action | SOL | TX |
@@ -379,7 +380,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 0.54x
+- **Peak:** 1.50x | **Current:** 0.72x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |
@@ -437,7 +438,7 @@
 
 ### 🟢 MATM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.63x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `9gg1QdcoEcqFaYZeA1FhMWw9i2BPJMrx1c6UH6CKpump`
 
 | Time | Action | SOL | TX |
