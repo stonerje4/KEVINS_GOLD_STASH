@@ -1,17 +1,17 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 09:10 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 09:15 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 0.8103 SOL |
-| Open Positions | 126 (0.0850 SOL deployed) |
-| Closed Positions | 285 |
-| Total Positions | 411 |
+| SOL Balance | 0.8056 SOL |
+| Open Positions | 128 (0.0862 SOL deployed) |
+| Closed Positions | 286 |
+| Total Positions | 414 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-1.2047 SOL (-120.5%)** |
+| **Real P&L (on-chain)** | **-1.2082 SOL (-120.8%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -23,11 +23,13 @@
 | `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN` | 4 | 4 | 0 | 1/3 | 25% | 0.0024 | 🟢 +0.000132 | +5.5% |
 | `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs` | 3 | 2 | 1 | 1/1 | 50% | 0.0018 | 🟢 +0.000063 | +5.3% |
 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 30 | 29 | 1 | 7/22 | 24% | 0.0180 | 🟢 +0.000369 | +2.1% |
+| `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 6 | 0 | 6 | 0/0 | 0% | 0.0130 | ⚪ +0.000000 | +0.0% |
+| `EfU8P5AZBitRYGQVVkHSPua9CitQWmbz7CM1gc2ATTDX` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9` | 3 | 2 | 1 | 1/1 | 50% | 0.0018 | 🔴 -0.000005 | -0.4% |
 | `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🔴 -0.000013 | -1.1% |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 125 | 91 | 34 | 22/69 | 24% | 0.0750 | 🔴 -0.000915 | -1.7% |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 126 | 92 | 34 | 22/71 | 24% | 0.0756 | 🔴 -0.001071 | -1.9% |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🔴 -0.000044 | -3.6% |
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 15 | 11 | 4 | 2/9 | 18% | 0.0090 | 🔴 -0.001055 | -16.0% |
 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 28 | 28 | 0 | 5/23 | 18% | 0.0168 | 🔴 -0.002831 | -16.8% |

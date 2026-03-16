@@ -1,5 +1,5 @@
-# [PRD] Wallet: `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`
-> Generated: 2026-03-16 09:15 UTC | Environment: **PRD**
+# [TEST] Wallet: `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt`
+> Generated: 2026-03-16 09:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 WWM
+### 🟢 AIFREE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.00x
-- **Mint:** `ERcwFx1AD24eHKdUtmfvwXJLWKapZ9mVwZ5xcuZJpump`
+- **Peak:** 1.38x | **Current:** 1.38x
+- **Mint:** `2nUYgSKRKvxMyAfWXu9pH51bpWDSCe7BCwe1TU7Bpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 03:10:14 | BUY | 0.150000 | `5e14cfKErjqhZNDTsR8aDzHnNcKLeG...` |
+| 2026-03-16 09:13:17 | BUY | 0.000600 | `3Pe7Ym1Mr2sauVsSVz7KRvAU5Hy7Y2...` |
 

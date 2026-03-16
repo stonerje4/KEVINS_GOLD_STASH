@@ -1,5 +1,5 @@
-# [PRD] Wallet: `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`
-> Generated: 2026-03-16 09:15 UTC | Environment: **PRD**
+# [TEST] Wallet: `EfU8P5AZBitRYGQVVkHSPua9CitQWmbz7CM1gc2ATTDX`
+> Generated: 2026-03-16 09:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 WWM
+### 🟢 Masko
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.00x
-- **Mint:** `ERcwFx1AD24eHKdUtmfvwXJLWKapZ9mVwZ5xcuZJpump`
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `FcQj7639hAV5DtA1NPW7GpZNG5PFUGZ5g6XENcbHRntg`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 03:10:14 | BUY | 0.150000 | `5e14cfKErjqhZNDTsR8aDzHnNcKLeG...` |
+| 2026-03-16 09:14:56 | BUY | 0.000600 | `32d5Zu2FGHVSJ3RwSMijEN7aeTpzLW...` |
 
