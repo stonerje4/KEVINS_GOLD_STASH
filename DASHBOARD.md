@@ -1,5 +1,5 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 19:02 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 19:05 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
 
 ## 🧪 Test Wallet
 
@@ -83,18 +83,18 @@
 | 🟢 | [`7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_7aMgK5L4qEQ8Nyv6ZzhZ.md) | 22 | 5/17 | 23% | $+78 | — | **$+78** | 3.0x | 0 |
 | 🟢 | [`J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_J5jm7BnBiGaB1x72FGNH.md) | 39 | 11/28 | 28% | $+64 | — | **$+64** | 2.7x | 0 |
 | 🟢 | [`FGZ72HENqfzUv9RiPAFqF7hCCiMZMAa5MYmWangFnZwD`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_FGZ72HENqfzUv9RiPAFq.md) | 7 | 3/4 | 43% | $+45 | — | **$+45** | 1.6x | 0 |
-| 🟢 | [`5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_5vweNikgScdnGkZCC3ya.md) | 9 | 4/4 | 50% | $+35 | $+2 | **$+37** | 4.3x | 1 |
+| 🟢 | [`5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_5vweNikgScdnGkZCC3ya.md) | 9 | 4/4 | 50% | $+35 | $+5 | **$+40** | 4.3x | 1 |
 | 🟢 | [`A5hEhg36kAmkrrKRhVxPrvYK5KLgBgPXbBqL9GUL5jg1`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_A5hEhg36kAmkrrKRhVxP.md) | 9 | 1/8 | 11% | $+20 | — | **$+20** | 1.8x | 0 |
 | 🟢 | [`4Tk5DVZaTLhsmT1AC7sQNsEnAzmX6FAGN1xaMD2SVbcx`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_4Tk5DVZaTLhsmT1AC7sQ.md) | 2 | 1/1 | 50% | $+17 | — | **$+17** | 3.2x | 0 |
 | 🟢 | [`ZzZZzPoJxWKern9EMk88aik3P8KwKgptANPdrhERrwr`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_ZzZZzPoJxWKern9EMk88.md) | 9 | 3/4 | 43% | $+10 | $-2 | **$+8** | 1.8x | 2 |
 | 🟢 | [`EPGrHnQeBPtuCGiJ5qLWaDZDKEf2yKcMKEPCyf2jWTxi`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_EPGrHnQeBPtuCGiJ5qLW.md) | 6 | 2/3 | 40% | $+11 | $-4 | **$+7** | 1.6x | 1 |
 | 🟢 | [`EJEyPiUfUmx3wDTtVfTzduNyNAWtQdwodFQjnJmjvmCQ`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_EJEyPiUfUmx3wDTtVfTz.md) | 19 | 3/16 | 16% | $+7 | — | **$+7** | 2.2x | 0 |
 | 🟢 | [`AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_AF5TxaadSbpkqaxxGLzr.md) | 10 | 3/7 | 30% | $+2 | — | **$+2** | 2.0x | 0 |
-| 🔴 | [`AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_AcWGZE1QF7R3MYQAFdUS.md) | 4 | 1/1 | 50% | $-4 | $-4 | **$-8** | 1.7x | 2 |
 | 🔴 | [`BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_BNCSPd6QtP6rJCWZvaYn.md) | 1 | 0/1 | 0% | $-9 | — | **$-9** | 1.3x | 0 |
+| 🔴 | [`AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_AcWGZE1QF7R3MYQAFdUS.md) | 4 | 1/1 | 50% | $-4 | $-5 | **$-9** | 1.7x | 2 |
 | 🔴 | [`HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 5 | 1/3 | 25% | $-10 | $-5 | **$-14** | 1.3x | 1 |
 | 🔴 | [`CqHQdW3Lp4HPDB2hdvzbkFdPzr13JkWeso74kLtBCi5w`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_CqHQdW3Lp4HPDB2hdvzb.md) | 3 | 0/3 | 0% | $-15 | — | **$-15** | 2.0x | 0 |
-| 🔴 | [`6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_6qTPHgnSZZUy5AeoqDBt.md) | 6 | 1/2 | 33% | $-13 | $-13 | **$-26** | 2.2x | 3 |
+| 🔴 | [`6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_6qTPHgnSZZUy5AeoqDBt.md) | 6 | 1/2 | 33% | $-13 | $-18 | **$-31** | 2.2x | 3 |
 | 🔴 | [`FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_FsAEk7fygfRfgL8xjPxr.md) | 19 | 2/17 | 11% | $-44 | — | **$-44** | 1.3x | 0 |
 
 > **Closed P&L / Closed ROI** = from closed positions only. Open positions not included.
