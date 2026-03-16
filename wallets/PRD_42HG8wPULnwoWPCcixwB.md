@@ -1,18 +1,28 @@
 # [PRD] Wallet: `42HG8wPULnwoWPCcixwBeYw9kb8Vdci7mQjs9iXV4nVv`
-> Generated: 2026-03-16 20:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 20:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
+| Total Positions | 3 |
 | Open | 0 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.300000 |
-| **Closed P&L** | **-0.137211 SOL** |
-| **Closed ROI** | **-45.7%** |
+| Closed | 3 |
+| W/L | 0/3 |
+| SOL In (closed) | 0.450000 |
+| **Closed P&L** | **-0.269509 SOL** |
+| **Closed ROI** | **-59.9%** |
 | Open Deployed | 0.000000 SOL |
 
 ## Trades
+
+### 🔴 NEMOCLAW
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.12x | **Current:** 0.00x
+- **Mint:** `JDcPAEn2isVbrXPAQs8AQQNSTm3SGvug3bLnSYGkpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 20:10:53 | BUY | 0.150000 | `66BT8as6GD9dWn6j5Nco7GNv8ti144...` |
+| 2026-03-16 20:12:56 | SELL | 0.017703 | `26qh7FU1PXPSkWGAxfyEu1ffWG3ZmH...` |
 
 ### 🔴 CORTISOL
 - **Status:** closed | **Exit:** stop_loss
