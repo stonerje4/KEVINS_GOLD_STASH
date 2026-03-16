@@ -1,18 +1,37 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 79 |
+| Total Positions | 81 |
 | Open | 15 |
-| Closed | 64 |
-| W/L | 63/1 |
-| SOL In (closed) | 0.033900 |
-| **Closed P&L** | **+0.028679 SOL** |
-| **Closed ROI** | **+84.6%** |
+| Closed | 66 |
+| W/L | 65/1 |
+| SOL In (closed) | 0.034100 |
+| **Closed P&L** | **+0.028730 SOL** |
+| **Closed ROI** | **+84.3%** |
 | Open Deployed | 0.003500 SOL |
 
 ## Trades
+
+### 🔴 TFW
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.18x
+- **Mint:** `BSP5fbME6PsozWHSkZ5fxBoMmxi3xPUFoGqtekFgpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:22:14 | BUY | 0.000100 | `4SaPvmdLfxG3maJBANnF3zELRCUsLq...` |
+| 2026-03-16 16:22:37 | SELL | 0.000018 | `48EuHWaxJukbugsUUDYeqPKXvA8zE9...` |
+
+### 🟢 LabOS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.85x | **Current:** 1.37x
+- **Mint:** `2WjBktCpXvTGgnfzQsQ44Q9UF3JhLzzvgTApiVz6pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:21:05 | BUY | 0.000100 | `4S4Tdz5vrh5npMk3WskPWYQVJ91f3C...` |
 
 ### 🔴 GIGGLE
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -26,25 +45,26 @@
 
 ### 🟢 Pigeon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.59x
+- **Peak:** 1.00x | **Current:** 0.55x
 - **Mint:** `2M2H39U6Db842okcJ9gFvmSsvEQcesRDbBgjjAckpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:02:29 | BUY | 0.000100 | `4xH7C5jCWdTn33okX27hwCgst174Se...` |
 
-### 🟢 REDHEAD
-- **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.53x
+### 🔴 REDHEAD
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.06x | **Current:** 0.34x
 - **Mint:** `4vAoDvZzTQrcZQmAmWptpFMPcwCeLQJ6PbGLZX3Fpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:59:31 | BUY | 0.000100 | `3JVZvWxfAfFedsrjSPT7LGRZdYT3kY...` |
+| 2026-03-16 16:23:02 | SELL | 0.000034 | `3RCLQjQt3FFV1f1LqCjHgy1vKhAfZs...` |
 
 ### 🟢 POKEFUN
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.43x | **Current:** 2.43x
+- **Peak:** 2.43x | **Current:** 1.84x
 - **Mint:** `G4WzMcvBFVAhNBbb2U9LDvdmX8T2nVNkvHz7siWBpump`
 
 | Time | Action | SOL | TX |
@@ -54,7 +74,7 @@
 
 ### 🟢 LIQUORA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.26x
+- **Peak:** 1.36x | **Current:** 1.36x
 - **Mint:** `FppyXdz1bp6VHvraf7QVkNo7EfdYNqZDunEQ5Gk3pump`
 
 | Time | Action | SOL | TX |
@@ -347,7 +367,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 0.74x
+- **Peak:** 1.50x | **Current:** 0.56x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,22 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 4 |
-| Closed | 3 |
-| W/L | 3/0 |
-| SOL In (closed) | 0.001300 |
-| **Closed P&L** | **+0.000789 SOL** |
-| **Closed ROI** | **+60.7%** |
-| Open Deployed | 0.000900 SOL |
+| Open | 3 |
+| Closed | 4 |
+| W/L | 4/0 |
+| SOL In (closed) | 0.001400 |
+| **Closed P&L** | **+0.000960 SOL** |
+| **Closed ROI** | **+68.6%** |
+| Open Deployed | 0.000800 SOL |
 
 ## Trades
 
 ### 🟢 DANNY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.49x
+- **Peak:** 1.00x | **Current:** 0.48x
 - **Mint:** `FBtp9XJfzkUkd6gXB1VnEMgZhoZm4hnsRZYRGxzJpump`
 
 | Time | Action | SOL | TX |
@@ -24,8 +24,8 @@
 | 2026-03-16 16:09:04 | BUY | 0.000100 | `4SfsnYrLNgqAJnhXk4omDa84vGYMha...` |
 
 ### 🟢 Steak
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.06x | **Current:** 2.75x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.06x | **Current:** 1.48x
 - **Mint:** `EqFip97pde7Tpim8Ygp5BRPsP6e2VZd4jC3PcyLmpump`
 
 | Time | Action | SOL | TX |
@@ -33,10 +33,11 @@
 | 2026-03-16 16:04:42 | BUY | 0.000100 | `bGSjAt1xcxNBobd3K4AcvAoZoFUHGz...` |
 | 2026-03-16 16:14:55 | SELL | 0.000024 | `2A1wdtEHQe95orFsR5NgwdoSLd5tmC...` |
 | 2026-03-16 16:17:49 | SELL | 0.000028 | `67jhVrfrAA1yUNrWbmEdttBoCMAyaA...` |
+| 2026-03-16 16:20:34 | SELL | 0.000120 | `yXfRoUNHoDD4CyL9Mdinz5egSDA8oi...` |
 
 ### 🟢 Stare
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.43x
+- **Peak:** 1.02x | **Current:** 0.46x
 - **Mint:** `CGjA6fRxrA1X9UWTzFbNMxTTegkyBRtPgoLHgkzhpump`
 
 | Time | Action | SOL | TX |

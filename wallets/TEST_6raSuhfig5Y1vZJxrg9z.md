@@ -1,18 +1,27 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 1 |
+| Total Positions | 5 |
+| Open | 2 |
 | Closed | 3 |
 | W/L | 3/0 |
 | SOL In (closed) | 0.000800 |
 | **Closed P&L** | **+0.000697 SOL** |
 | **Closed ROI** | **+87.1%** |
-| Open Deployed | 0.000600 SOL |
+| Open Deployed | 0.000700 SOL |
 
 ## Trades
+
+### 🟢 TRADES
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `DPC15FkyULBUTNxQZfaNr42FCQsABteGUAovzGCYpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:24:58 | BUY | 0.000100 | `4Y9ixvU1BonBU6jM4DK42raHbk72Pi...` |
 
 ### 🔴 SWE-agent
 - **Status:** closed | **Exit:** ghost_close_stop_loss

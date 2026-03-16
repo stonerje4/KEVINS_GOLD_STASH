@@ -1,18 +1,37 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 62 |
-| Open | 11 |
+| Total Positions | 64 |
+| Open | 13 |
 | Closed | 51 |
 | W/L | 49/2 |
 | SOL In (closed) | 0.028600 |
 | **Closed P&L** | **+0.023340 SOL** |
 | **Closed ROI** | **+81.6%** |
-| Open Deployed | 0.002100 SOL |
+| Open Deployed | 0.002300 SOL |
 
 ## Trades
+
+### 🟢 eˣ
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `FUZVoM3kAu6UqwCGMpi8AMFZDZhAwZYsHAERGdphpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:24:37 | BUY | 0.000100 | `2kEpseiSDTK5Uc8UTtAYuZ11Tq4Yjk...` |
+
+### 🟢 SOLANA
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.64x | **Current:** 2.64x
+- **Mint:** `8V99WNEBtc1mCC8dcHbMG8Lg9gUN4A5Eigq9pvPZpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:21:57 | BUY | 0.000100 | `5eqZQ7wqPsFyXF5y6T8Xw7uchfAPm2...` |
+| 2026-03-16 16:24:17 | SELL | 0.000026 | `2vSneYrFyjydx72vipmm7cZ2F2UiwX...` |
 
 ### 🟢 PIKKY
 - **Status:** open | **Exit:** open
@@ -104,7 +123,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.23x
+- **Peak:** 1.74x | **Current:** 1.19x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,22 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 251 |
-| Open | 76 |
-| Closed | 175 |
-| W/L | 169/6 |
-| SOL In (closed) | 0.098000 |
-| **Closed P&L** | **+0.085556 SOL** |
-| **Closed ROI** | **+87.3%** |
-| Open Deployed | 0.031600 SOL |
+| Open | 75 |
+| Closed | 176 |
+| W/L | 170/6 |
+| SOL In (closed) | 0.098100 |
+| **Closed P&L** | **+0.085773 SOL** |
+| **Closed ROI** | **+87.4%** |
+| Open Deployed | 0.031500 SOL |
 
 ## Trades
 
 ### 🟢 BeLikeElon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
+- **Peak:** 1.20x | **Current:** 1.18x
 - **Mint:** `2YjbwGpoSjxBhDrUPAyKom75upbMJQUs1ksSXQZ8pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 CATALYST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 1.09x
+- **Peak:** 1.09x | **Current:** 0.89x
 - **Mint:** `CvnCzHbmVnuHoCQisWJwfcBfHZgL3zNJovF4jRrFpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 9FRAUD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `Bx2UMjPDrvTyttCnNXSkcYFQbTi7X28LCQHLLfwZpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 Frog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.94x
+- **Peak:** 1.02x | **Current:** 0.95x
 - **Mint:** `5trtgVhr3DkNkYmKoKPirFJVQkCZkFnVxmJJWfbipump`
 
 | Time | Action | SOL | TX |
@@ -51,8 +51,8 @@
 | 2026-03-16 16:16:49 | BUY | 0.000100 | `B9BmXcYyC6VHkLA98dHWzVzWv1mBEm...` |
 
 ### 🟢 ClawColony
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.27x | **Current:** 2.71x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.27x | **Current:** 1.92x
 - **Mint:** `HPkdPe7gK7fhQVLpLSNv9vwbbAA7zzPmdr4rpW94pump`
 
 | Time | Action | SOL | TX |
@@ -60,10 +60,11 @@
 | 2026-03-16 16:15:25 | BUY | 0.000100 | `VtMid2JuMqqTXtH1EzyAQhy38eFvUk...` |
 | 2026-03-16 16:18:37 | SELL | 0.000033 | `5wHtve1NJZCdDgGzxt5JvnEpKE4MeA...` |
 | 2026-03-16 16:19:01 | SELL | 0.000029 | `5ys8iAN6e8Epxqm4JtEjxX8pEdNKhv...` |
+| 2026-03-16 16:20:36 | SELL | 0.000155 | `4VUyhFGzAy99m8fV3f69rGEcTNHP17...` |
 
 ### 🟢 CC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `HfM5v5vZYq2ipADnYacBVZSLAw65ePVZ8MUBA5kpump`
 
 | Time | Action | SOL | TX |
@@ -72,7 +73,7 @@
 
 ### 🟢 SRI RAKUM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.89x
+- **Peak:** 1.23x | **Current:** 1.03x
 - **Mint:** `9tHZjux5MqAGpPztGJTUVSoWJK8H48kSQr7y8ndVpump`
 
 | Time | Action | SOL | TX |
@@ -81,7 +82,7 @@
 
 ### 🟢 BAGWORK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 1.46x
+- **Peak:** 1.80x | **Current:** 1.41x
 - **Mint:** `77GQ9mTyTkchNFYz11KTNxYbAWiFXfeuc9S8PKSLpump`
 
 | Time | Action | SOL | TX |
@@ -99,7 +100,7 @@
 
 ### 🟢 LAD
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.60x | **Current:** 3.83x
+- **Peak:** 4.69x | **Current:** 3.25x
 - **Mint:** `62Tx3QaLjD6ox8h32BpNA9voQqB8YHTBihSTXAUfpump`
 
 | Time | Action | SOL | TX |
@@ -203,7 +204,7 @@
 
 ### 🟢 EXPO
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.14x | **Current:** 1.48x
+- **Peak:** 2.14x | **Current:** 1.18x
 - **Mint:** `Gmv4DEdi3GPLwCLnjJc1C99qbC9iLaZepUwE3pr8pump`
 
 | Time | Action | SOL | TX |
@@ -386,7 +387,7 @@
 
 ### 🟢 Mood
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.48x
+- **Peak:** 1.09x | **Current:** 0.46x
 - **Mint:** `CmksFbQGiPBzxLmetQFAthSd6swiRj7fo39X5ZZ3pump`
 
 | Time | Action | SOL | TX |
@@ -768,7 +769,7 @@
 
 ### 🟢 Angela
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.69x | **Current:** 1.26x
+- **Peak:** 2.69x | **Current:** 1.39x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |
@@ -815,7 +816,7 @@
 
 ### 🟢 ミャク
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.93x
+- **Peak:** 1.08x | **Current:** 0.90x
 - **Mint:** `2ej2QVXiyVSaK6JTGL73VamrL14pHFWqVv2o1jVEpump`
 
 | Time | Action | SOL | TX |
@@ -1866,7 +1867,7 @@
 
 ### 🟢 AOR
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.24x | **Current:** 1.72x
+- **Peak:** 2.24x | **Current:** 1.65x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
