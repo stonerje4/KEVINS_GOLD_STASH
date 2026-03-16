@@ -1,17 +1,27 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 03:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 14 |
-| Open | 13 |
+| Total Positions | 15 |
+| Open | 14 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.001524 |
-| **P&L** | **+0.000924 SOL** |
-| **ROI** | **+154.1%** |
+| SOL Out (sells) | 0.001907 |
+| **P&L** | **+0.001307 SOL** |
+| **ROI** | **+217.8%** |
 
 ## Trades
+
+### 🟢 REKTBET
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.13x | **Current:** 2.13x
+- **Mint:** `2o53YZd1yWcEiUmsK3nHsnykG3MpM3Tr5ZkJBoy2pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:23:08 | BUY | 0.000600 | `2p96kjKqvBLNiTivVutPeunwJuhJ2M...` |
+| 2026-03-16 03:24:42 | SELL | 0.000383 | `5QNJjuq8UgSkxccv5Fxv5xbCTepEyN...` |
 
 ### 🟢 USOA
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

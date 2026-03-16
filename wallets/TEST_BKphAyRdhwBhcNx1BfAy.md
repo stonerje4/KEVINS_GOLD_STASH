@@ -1,21 +1,30 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 03:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 44 |
+| Total Positions | 45 |
 | Open | 17 |
-| Closed | 27 |
-| SOL In (closed) | 0.016200 |
+| Closed | 28 |
+| SOL In (closed) | 0.016800 |
 | SOL Out (sells) | 0.014706 |
-| **P&L** | **-0.001494 SOL** |
-| **ROI** | **-9.2%** |
+| **P&L** | **-0.002094 SOL** |
+| **ROI** | **-12.5%** |
 
 ## Trades
 
+### 🔴 DOGE KIDS
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.54x
+- **Mint:** `GCtJr5L887ooYnJpKCsM9SeE3bCJFdioJGTerkFZz846`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:22:50 | BUY | 0.000600 | `46bgSvMv8anSN3cdkAXoy6rGrN37FH...` |
+
 ### 🟢 metaclaw
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.72x
 - **Mint:** `4xscugmyFfeL2Q6H59JfuGLY2gcXJakaniybqq2vpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +33,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.17x | **Current:** 1.17x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -160,7 +169,7 @@
 
 ### 🟢 CODED
 - **Status:** open | **Exit:** open
-- **Peak:** 1.68x | **Current:** 1.27x
+- **Peak:** 1.68x | **Current:** 1.13x
 - **Mint:** `GuuFPt2t3ir7DaLfAQpD471V58qRRb7sAK1VroCzpump`
 
 | Time | Action | SOL | TX |
@@ -239,7 +248,7 @@
 
 ### 🟢 JOBS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.18x
+- **Peak:** 1.39x | **Current:** 1.22x
 - **Mint:** `A3groKXFP8aipQZVt7iajAs31sa7v89KGxc8Z3X8pump`
 
 | Time | Action | SOL | TX |
@@ -391,7 +400,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.92x
+- **Peak:** 1.24x | **Current:** 0.87x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
@@ -429,7 +438,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.85x
+- **Peak:** 1.37x | **Current:** 0.81x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |

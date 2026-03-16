@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 03:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
-| Open | 0 |
+| Total Positions | 11 |
+| Open | 1 |
 | Closed | 10 |
 | SOL In (closed) | 0.006000 |
 | SOL Out (sells) | 0.004666 |
@@ -12,6 +12,15 @@
 | **ROI** | **-22.2%** |
 
 ## Trades
+
+### 🟢 ROSIE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.32x | **Current:** 1.32x
+- **Mint:** `5oMSVKsktvEFcujTX8QfbEEbJwZiDXkqySgRvcAXt8Xx`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:24:51 | BUY | 0.000600 | `2FBAY21EZLBmEUgqsYrzopwQmRTCUP...` |
 
 ### 🔴 Unemployed
 - **Status:** closed | **Exit:** ghost_close_stop_loss

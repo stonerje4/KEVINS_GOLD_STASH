@@ -1,10 +1,10 @@
 # [PRD] Wallet: `FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz`
-> Generated: 2026-03-16 03:20 UTC | Environment: **PRD**
+> Generated: 2026-03-16 03:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 18 |
-| Open | 2 |
+| Total Positions | 19 |
+| Open | 3 |
 | Closed | 16 |
 | SOL In (closed) | 1.860000 |
 | SOL Out (sells) | 0.958456 |
@@ -12,6 +12,15 @@
 | **ROI** | **-48.5%** |
 
 ## Trades
+
+### 🟢 BTBC
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `H8FURW92GqXZv7zs2Mz4pM6H2j9vWoj71Rh7hMbxpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:22:20 | BUY | 0.150000 | `qGvb11RR3W2qYJddBtDgaVUG7pcjVX...` |
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
