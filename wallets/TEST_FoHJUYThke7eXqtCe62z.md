@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 12:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Sanmao
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `58fab38dveHBMAzPN6aGm4LXxp3sUcwzXTjik4QFpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 KENNY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.46x | **Current:** 1.34x
+- **Peak:** 1.94x | **Current:** 1.94x
 - **Mint:** `AR4e8QbVWRuP26HHWRapmZ53uqPiPk7xxveFfP9Xpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 DegenMeta
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.97x
+- **Peak:** 1.02x | **Current:** 0.90x
 - **Mint:** `DaMDDC7zSR95VykeWX5kFWywhvsSuS4mREvLE8Rppump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +62,7 @@
 
 ### 🟢 chibo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 0.89x
+- **Peak:** 1.10x | **Current:** 0.88x
 - **Mint:** `HMAxR8iZxJz6mfJ3YUb6GiMSPzJSWQ5mSd7JBP2Mpump`
 
 | Time | Action | SOL | TX |
@@ -89,7 +89,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.73x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |
@@ -229,7 +229,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |

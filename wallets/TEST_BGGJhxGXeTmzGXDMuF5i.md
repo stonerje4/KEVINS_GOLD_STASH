@@ -1,14 +1,14 @@
 # [TEST] Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
-> Generated: 2026-03-16 12:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 6 |
-| Closed | 1 |
-| SOL In (closed) | 0.010000 |
+| Open | 5 |
+| Closed | 2 |
+| SOL In (closed) | 0.010600 |
 | SOL Out (sells) | 0.000000 |
-| **P&L** | **-0.010000 SOL** |
+| **P&L** | **-0.010600 SOL** |
 | **ROI** | **-100.0%** |
 
 ## Trades
@@ -24,7 +24,7 @@
 
 ### 🟢 TCAT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.06x
+- **Peak:** 1.28x | **Current:** 1.22x
 - **Mint:** `9n3wWPvb5n2MMsBmALrWaK7iSFALKiTZ5DTRMEJRpump`
 
 | Time | Action | SOL | TX |
@@ -58,8 +58,8 @@
 |------|--------|-----|----|
 | 2026-03-16 06:40:17 | BUY | 0.000600 | `AZye6jz5JcSQ7mGDArywWdTm3AgxeD...` |
 
-### 🟢 UGOR
-- **Status:** open | **Exit:** open
+### 🔴 UGOR
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.19x | **Current:** 1.18x
 - **Mint:** `BrMCfEuqxCAFqvCnLo8uxeHFvQb4mdif4RncgnxYpump`
 

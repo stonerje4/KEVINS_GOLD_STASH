@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 12:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 34 |
-| Open | 1 |
+| Total Positions | 35 |
+| Open | 2 |
 | Closed | 33 |
 | SOL In (closed) | 0.019800 |
 | SOL Out (sells) | 0.015623 |
@@ -12,6 +12,15 @@
 | **ROI** | **-21.1%** |
 
 ## Trades
+
+### 🟢 GAYMENEI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `851FJPXAEKdnqUWRvt7F9UFQGAkxaPsjaVyoYKWdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:19:50 | BUY | 0.000600 | `2BAPn2WxG52K8Tjmwfx7TjS2vj8kcV...` |
 
 ### 🔴 aura
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,21 +1,21 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 12:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 9 |
-| Closed | 6 |
-| SOL In (closed) | 0.003600 |
-| SOL Out (sells) | 0.003768 |
-| **P&L** | **+0.000168 SOL** |
-| **ROI** | **+4.7%** |
+| Open | 8 |
+| Closed | 7 |
+| SOL In (closed) | 0.004200 |
+| SOL Out (sells) | 0.004362 |
+| **P&L** | **+0.000162 SOL** |
+| **ROI** | **+3.8%** |
 
 ## Trades
 
 ### 🟢 SHIKOKU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.78x
+- **Peak:** 1.05x | **Current:** 0.85x
 - **Mint:** `7TvfNnDxstnrfb5eF5pg4PcwXPMfiJLu9eysA7qJpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.94x
+- **Peak:** 1.21x | **Current:** 0.93x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Sonny
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.97x
+- **Peak:** 1.09x | **Current:** 1.06x
 - **Mint:** `EVHhyNdtZxXCvRVXeAggjXiahoAQxXhsifFEw6yWpump`
 
 | Time | Action | SOL | TX |
@@ -80,7 +80,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.24x
+- **Peak:** 1.31x | **Current:** 1.31x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
@@ -109,7 +109,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.04x
+- **Peak:** 1.32x | **Current:** 1.32x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |
@@ -127,14 +127,15 @@
 | 2026-03-16 05:10:16 | SELL | 0.000398 | `5k4ryxBHZDXDSRohXzpHA2Z2AGF4R7...` |
 
 ### 🟢 TIM
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.85x | **Current:** 2.00x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.85x | **Current:** 1.44x
 - **Mint:** `9rZyxfCQhGCBcpbFW3LUjVKoBajVbN6kYdHmaFXSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:52:58 | BUY | 0.000600 | `3mVfrwJcnprv1gHQDCtybJJsHv7Gzr...` |
 | 2026-03-16 10:01:42 | SELL | 0.000357 | `4TdGxyc2bYJpXydXKwmG5o9DLzNM5W...` |
+| 2026-03-16 12:18:50 | SELL | 0.000594 | `33zFuHaHX3qJdDLeYWXz4SEJrHRScg...` |
 
 ### 🟢 zoolander
 - **Status:** open | **Exit:** open

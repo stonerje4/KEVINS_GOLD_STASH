@@ -1,21 +1,21 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 12:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 33 |
-| Open | 24 |
-| Closed | 9 |
-| SOL In (closed) | 0.005400 |
+| Open | 23 |
+| Closed | 10 |
+| SOL In (closed) | 0.006000 |
 | SOL Out (sells) | 0.003202 |
-| **P&L** | **-0.002198 SOL** |
-| **ROI** | **-40.7%** |
+| **P&L** | **-0.002798 SOL** |
+| **ROI** | **-46.6%** |
 
 ## Trades
 
 ### 🟢 LabClaw
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `HBx1tyT8fko1xR9vxu5dUfLU8xzb8j2jZrc2VZWVpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 Beast 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 1.07x
+- **Peak:** 1.09x | **Current:** 0.88x
 - **Mint:** `CnL3AT1uyVNw9euhPmUgupqCDxq2TDHEJyQ4Xy8ipump`
 
 | Time | Action | SOL | TX |
@@ -60,7 +60,7 @@
 
 ### 🟢 HIDE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `8AvsABLpk7aoqFTTf2Dym6KoeDbJZ3wTE4qcAmbSpump`
 
 | Time | Action | SOL | TX |
@@ -97,7 +97,7 @@
 
 ### 🟢 SOLANA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `F9UJRKTLrkEVpKQdXJ7Jn4YPhaVFsBPHt6g5RhNEpump`
 
 | Time | Action | SOL | TX |
@@ -124,7 +124,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
@@ -152,7 +152,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
@@ -161,7 +161,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |
@@ -237,7 +237,7 @@
 
 ### 🟢 OG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.82x
+- **Peak:** 1.02x | **Current:** 0.89x
 - **Mint:** `37JEzbRcfeGAYEeiPMg1gKbK8UZNQG7cjF5Pvse7pump`
 
 | Time | Action | SOL | TX |
@@ -262,8 +262,8 @@
 |------|--------|-----|----|
 | 2026-03-16 01:12:49 | BUY | 0.000600 | `JBCkgyhQfZiYnkGLq7xgJNyrCnnVpq...` |
 
-### 🟢 bizfun
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 bizfun
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.22x | **Current:** 0.85x
 - **Mint:** `uieLsEbpgaQWtBk7dHmpqsMpoWmnFDXFgTAXnxJpump`
 

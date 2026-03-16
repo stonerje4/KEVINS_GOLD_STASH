@@ -1,44 +1,55 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 12:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 44 |
-| Open | 5 |
-| Closed | 39 |
-| SOL In (closed) | 0.023400 |
-| SOL Out (sells) | 0.021389 |
-| **P&L** | **-0.002011 SOL** |
-| **ROI** | **-8.6%** |
+| Total Positions | 45 |
+| Open | 4 |
+| Closed | 41 |
+| SOL In (closed) | 0.024600 |
+| SOL Out (sells) | 0.021952 |
+| **P&L** | **-0.002648 SOL** |
+| **ROI** | **-10.8%** |
 
 ## Trades
 
-### 🟢 TanAI
+### 🟢 YAH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.14x
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `Cj4iYFEErrvpMFLbKcXYLnP612DS4mQemvi4rCKRpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:19:56 | BUY | 0.000600 | `5kitMiUKJudqjJWc1jf7QL67h9S195...` |
+
+### 🔴 TanAI
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.20x | **Current:** 0.61x
 - **Mint:** `D8mdxZAu348X3z59ghR9fxXZumQe7ZdpB95S8yuQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 11:23:11 | BUY | 0.000600 | `5voBHErJgG5hZ2ng35GpukWbR4x31u...` |
+| 2026-03-16 12:19:02 | SELL | 0.000366 | `4H6HzUdskYGHrKUUuMzCtzxQPwXQz8...` |
 
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.08x
+- **Peak:** 1.12x | **Current:** 0.98x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 11:19:16 | BUY | 0.000600 | `2VxRdJ5ERRofc24JC99aBgsXY6grqs...` |
 
-### 🟢 AgentA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 1.38x
+### 🔴 AgentA
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.48x | **Current:** 0.33x
 - **Mint:** `DYYAhsUW9aEYsGWa5ixZqmFGWR9BzKjKHbXvKmYGpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 11:18:47 | BUY | 0.000600 | `4uAHKoQYdXAM7gLSWs8U2ndRsjuKgv...` |
+| 2026-03-16 12:19:00 | SELL | 0.000197 | `4aUyHrt7HXpUcwGoXeP1BPZcmtMAmP...` |
 
 ### 🔴 AgentP
 - **Status:** closed | **Exit:** ghost_close_stop_loss

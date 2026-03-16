@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 12:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Darren
 - **Status:** open | **Exit:** open
-- **Peak:** 1.71x | **Current:** 1.71x
+- **Peak:** 1.71x | **Current:** 1.09x
 - **Mint:** `56tPfb7P7eLfF6DiNeNmQQpW4vYLJPq4d26zbAHmpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 PUSHEEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 1.15x
+- **Peak:** 1.22x | **Current:** 1.00x
 - **Mint:** `7ttsZScQAsya7eiUfkG6PoTVNARkkZXccqRviDtTpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 BULLS
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.41x | **Current:** 2.18x
+- **Peak:** 2.75x | **Current:** 2.75x
 - **Mint:** `GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump`
 
 | Time | Action | SOL | TX |
