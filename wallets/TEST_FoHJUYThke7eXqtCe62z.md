@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 09:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 33 |
-| Open | 25 |
+| Total Positions | 34 |
+| Open | 26 |
 | Closed | 8 |
 | SOL In (closed) | 0.014200 |
 | SOL Out (sells) | 0.003427 |
@@ -12,6 +12,15 @@
 | **ROI** | **-75.9%** |
 
 ## Trades
+
+### 🟢 TD
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `HvtsgZrABY8uvcMCKg6Kd9y2RXr8pandJHRNBQYBpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:15:31 | BUY | 0.000600 | `5jneo9Axekv68iFC9jgdQKU6wJ5tPL...` |
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
@@ -60,7 +69,7 @@
 
 ### 🟢 Clutch
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.18x | **Current:** 4.16x
+- **Peak:** 4.36x | **Current:** 4.36x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
@@ -79,7 +88,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
@@ -135,7 +144,7 @@
 
 ### 🟢 TRNDO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `6X6Au8G57AzMKU51toiPn8AJs6NLRYobXHQ39evdpump`
 
 | Time | Action | SOL | TX |

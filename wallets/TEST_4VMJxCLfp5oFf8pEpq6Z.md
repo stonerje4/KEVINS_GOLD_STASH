@@ -1,15 +1,15 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 09:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 4 |
-| Closed | 11 |
-| SOL In (closed) | 0.006600 |
+| Open | 3 |
+| Closed | 12 |
+| SOL In (closed) | 0.007200 |
 | SOL Out (sells) | 0.005545 |
-| **P&L** | **-0.001055 SOL** |
-| **ROI** | **-16.0%** |
+| **P&L** | **-0.001655 SOL** |
+| **ROI** | **-23.0%** |
 
 ## Trades
 
@@ -25,7 +25,7 @@
 
 ### 🟢 PUMPERS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.94x
+- **Peak:** 1.07x | **Current:** 0.91x
 - **Mint:** `GpPmQTqV3KeTRUWCxFtnw3VQHuAqqG4HWsxvw6Vwpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +44,7 @@
 
 ### 🟢 CIRBP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.08x
+- **Peak:** 1.63x | **Current:** 1.10x
 - **Mint:** `4HsKJjmF1n41KDtkYM9Cxu8LKV7YC9GLGnXe5YtBpump`
 
 | Time | Action | SOL | TX |
@@ -122,8 +122,8 @@
 | 2026-03-15 22:59:02 | BUY | 0.000600 | `2CHupTUcYhCYweZUGdUGc36GdUneMX...` |
 | 2026-03-16 04:02:06 | SELL | 0.000414 | `32tSfe8vrabwQfCVTDkijREFPbNjSs...` |
 
-### 🟢 STARE
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 STARE
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.03x | **Current:** 0.87x
 - **Mint:** `3KVLeJjgvYxeCqkMhFHp37V1e2LM8FaWgK2s4t4Hpump`
 
