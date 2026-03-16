@@ -1,21 +1,31 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 22:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 30 |
+| Total Positions | 31 |
 | Open | 4 |
-| Closed | 26 |
-| W/L | 6/20 |
-| SOL In (closed) | 3.530000 |
+| Closed | 27 |
+| W/L | 6/21 |
+| SOL In (closed) | 3.680000 |
 | **Closed P&L** | **-0.728049 SOL** |
-| **Closed ROI** | **-20.6%** |
+| **Closed ROI** | **-19.8%** |
 | Open Deployed | 0.600000 SOL |
 
 ## Trades
 
-### 🟢 face
+### 🟢 ANCESTORS
 - **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 0.00x
+- **Mint:** `7EPDBnkYA5FWiWQWMMrBLLjQT8UkFDq9MpdrndPUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 22:11:08 | BUY | 0.150000 | `PXB9mG7up3dNYkjxCK8CQycxz85SwC...` |
+| 2026-03-16 22:11:23 | BUY | 0.150000 | `F29h7ETiBF7L5aNPyfAxQdxi8cJsg2...` |
+
+### 🟢 face
+- **Status:** closed | **Exit:** manual_sell
 - **Peak:** 1.35x | **Current:** 0.00x
 - **Mint:** `AVwmJzr73s2AjmXd8QWpCipJwWPttb3YvicignBGpump`
 
@@ -23,6 +33,8 @@
 |------|--------|-----|----|
 | 2026-03-16 22:03:31 | BUY | 0.150000 | `2SXFS1XNTubRMJJdd4RCWf9unxfdHR...` |
 | 2026-03-16 22:03:46 | BUY | 0.150000 | `42AXrwsB81UtdKWqC9YwU2q7TYqfYd...` |
+| 2026-03-16 22:10:25 | SELL | 0.164230 | `?` |
+| 2026-03-16 22:10:25 | SELL | 0.176303 | `?` |
 
 ### 🟢 KICK
 - **Status:** open | **Exit:** open
