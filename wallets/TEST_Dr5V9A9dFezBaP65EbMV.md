@@ -1,21 +1,21 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 05:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 9 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000391 |
-| **P&L** | **-0.000209 SOL** |
-| **ROI** | **-34.8%** |
+| Open | 8 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.000789 |
+| **P&L** | **-0.000411 SOL** |
+| **ROI** | **-34.2%** |
 
 ## Trades
 
 ### 🟢 Elongate
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.98x
 - **Mint:** `3aGbWBEpCfDxMSb5KfpSvWrBo3tCCbMiZP9x8PpKpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 BOA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `Dt3vBiGi9ceMsqH9EeTJRQEku9C1rrBNB1vMzZVgZKYx`
 
 | Time | Action | SOL | TX |
@@ -61,21 +61,22 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.02x | **Current:** 0.86x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:58:26 | BUY | 0.000600 | `5pk3LAEXei22yjUVRePB7qwfWc5E1M...` |
 
-### 🟢 CLAIR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+### 🔴 CLAIR
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.67x
 - **Mint:** `2hhAKwDhigLKnqLdZ6LwY8snmbYQk9vtxy63YcD2yUA4`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:56:54 | BUY | 0.000600 | `wddsGxcYRjNtc68thLWWWW7A5EimKY...` |
+| 2026-03-16 05:10:16 | SELL | 0.000398 | `5k4ryxBHZDXDSRohXzpHA2Z2AGF4R7...` |
 
 ### 🟢 TIM
 - **Status:** open | **Exit:** open

@@ -1,30 +1,31 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 05:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 20 |
-| Open | 2 |
-| Closed | 18 |
-| SOL In (closed) | 0.010800 |
-| SOL Out (sells) | 0.009564 |
-| **P&L** | **-0.001236 SOL** |
-| **ROI** | **-11.4%** |
+| Open | 1 |
+| Closed | 19 |
+| SOL In (closed) | 0.011400 |
+| SOL Out (sells) | 0.009899 |
+| **P&L** | **-0.001501 SOL** |
+| **ROI** | **-13.2%** |
 
 ## Trades
 
-### 🟢 Chase
-- **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.13x
+### 🔴 Chase
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.21x | **Current:** 0.56x
 - **Mint:** `pfFN4gHc6wMFbt5PC9HqUUyjEBGTJtwpk9EGfVBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:09:31 | BUY | 0.000600 | `2HtR9SRUXHLUGwzBTXTn2HLG1yvTpB...` |
+| 2026-03-16 05:10:54 | SELL | 0.000335 | `GFA7XykLNEQt8tf2f5YJtJbMfJzda6...` |
 
 ### 🟢 GINGER
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.75x
 - **Mint:** `5XVABeWf82sx9UHSj6z8hNPFQ21EvfqvKkgqrHr8pump`
 
 | Time | Action | SOL | TX |

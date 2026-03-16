@@ -1,15 +1,15 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 05:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 2 |
-| Closed | 8 |
-| SOL In (closed) | 0.004800 |
-| SOL Out (sells) | 0.007490 |
-| **P&L** | **+0.002690 SOL** |
-| **ROI** | **+56.0%** |
+| Open | 1 |
+| Closed | 9 |
+| SOL In (closed) | 0.005400 |
+| SOL Out (sells) | 0.007780 |
+| **P&L** | **+0.002380 SOL** |
+| **ROI** | **+44.1%** |
 
 ## Trades
 
@@ -35,7 +35,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.54x
+- **Peak:** 1.59x | **Current:** 1.50x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |
@@ -52,14 +52,15 @@
 | 2026-03-16 04:43:06 | BUY | 0.000600 | `2GqxjLtAM9mQj6B434LUUWuUGhDAVP...` |
 | 2026-03-16 04:46:04 | SELL | 0.000339 | `3Fy96EoJgNfhWLEu7VvWafY5Je8rUs...` |
 
-### 🟢 TORIVA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.58x | **Current:** 1.44x
+### 🔴 TORIVA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.58x | **Current:** 0.49x
 - **Mint:** `DvKyYQGmXeL6hxigoGhB6ocwT2zZvQ59oN5ALMBTpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:41:21 | BUY | 0.000600 | `F4Qo67MJAi9XQSgwXf8274c6EkCf5o...` |
+| 2026-03-16 05:13:42 | SELL | 0.000289 | `4WmNMr3jDwgsTz9wmobDnRKqufmLsX...` |
 
 ### 🟢 Salary
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

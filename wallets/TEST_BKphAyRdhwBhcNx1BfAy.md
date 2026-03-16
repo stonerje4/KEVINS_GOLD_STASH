@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 05:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 72 |
-| Open | 21 |
+| Total Positions | 73 |
+| Open | 22 |
 | Closed | 51 |
 | SOL In (closed) | 0.030600 |
 | SOL Out (sells) | 0.025069 |
@@ -12,6 +12,15 @@
 | **ROI** | **-18.1%** |
 
 ## Trades
+
+### 🟢 plumber
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.84x
+- **Mint:** `2Pah9ZUfpii27ABrWfQorzdW8FSJimxj6izFr4oGpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:14:13 | BUY | 0.000600 | `3kRhrp4LzQbDoyqknsJT9qRuqNPSjD...` |
 
 ### 🔴 Dindim
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -25,7 +34,7 @@
 
 ### 🟢 TERMINAL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.08x
+- **Peak:** 1.26x | **Current:** 1.26x
 - **Mint:** `9Vq6yjn9tgcNRNpaky5BiX5hU93ma9zDwaW5sUcepump`
 
 | Time | Action | SOL | TX |
@@ -92,7 +101,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.11x
+- **Peak:** 1.11x | **Current:** 1.06x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -101,7 +110,7 @@
 
 ### 🟢 TIERLIST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.09x
+- **Peak:** 1.10x | **Current:** 1.05x
 - **Mint:** `Er54GiwJSiK8adRoAzso8UyGd972eENhJUEAm6NPpump`
 
 | Time | Action | SOL | TX |
@@ -296,7 +305,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.96x
+- **Peak:** 1.43x | **Current:** 1.08x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -706,7 +715,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.72x
+- **Peak:** 1.37x | **Current:** 0.73x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |

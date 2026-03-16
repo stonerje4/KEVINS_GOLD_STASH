@@ -1,17 +1,27 @@
 # [PRD] Wallet: `AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g`
-> Generated: 2026-03-16 05:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 05:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
+| Total Positions | 8 |
 | Open | 0 |
-| Closed | 7 |
-| SOL In (closed) | 0.850000 |
-| SOL Out (sells) | 0.993114 |
-| **P&L** | **+0.143114 SOL** |
-| **ROI** | **+16.8%** |
+| Closed | 8 |
+| SOL In (closed) | 1.000000 |
+| SOL Out (sells) | 1.077980 |
+| **P&L** | **+0.077980 SOL** |
+| **ROI** | **+7.8%** |
 
 ## Trades
+
+### 🔴 STNK
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `9vn7mEiHB2tyuv3H3F79finKZHqiFGNRe6pyH7Cvpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:10:19 | BUY | 0.150000 | `3Cgw4kN1HJtcdDN3qNqhVyZ5nyzxD1...` |
+| 2026-03-16 05:10:23 | SELL | 0.084866 | `5jx6ck1dYe1AKTVcWNG8HujKmhFZCJ...` |
 
 ### 🔴 NIGEL
 - **Status:** closed | **Exit:** stop_loss
