@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 03:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -44,7 +44,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |
@@ -109,7 +109,7 @@
 
 ### 🟢 SolBDay
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.81x
+- **Peak:** 1.05x | **Current:** 0.82x
 - **Mint:** `F2Ewoc7ru88kNPzFRzD1tVNmuxBWUfQUQwB7MDkPpump`
 
 | Time | Action | SOL | TX |
@@ -118,7 +118,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.95x
+- **Peak:** 1.06x | **Current:** 1.06x
 - **Mint:** `31MHbw38roub69Mwqpe8YrJXHWUrmxWTSQAktSfKpump`
 
 | Time | Action | SOL | TX |
@@ -137,7 +137,7 @@
 
 ### 🟢 JJK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `S2ALfUhiYy3JQobKv86KCkDHfQG5gvL4Ujb9FpKpump`
 
 | Time | Action | SOL | TX |

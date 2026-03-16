@@ -1,17 +1,35 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 03:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 45 |
-| Open | 16 |
-| Closed | 29 |
-| SOL In (closed) | 0.017400 |
-| SOL Out (sells) | 0.015034 |
-| **P&L** | **-0.002366 SOL** |
-| **ROI** | **-13.6%** |
+| Total Positions | 47 |
+| Open | 17 |
+| Closed | 30 |
+| SOL In (closed) | 0.018000 |
+| SOL Out (sells) | 0.015443 |
+| **P&L** | **-0.002557 SOL** |
+| **ROI** | **-14.2%** |
 
 ## Trades
+
+### 🟢 Chibify
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 0.95x
+- **Mint:** `92pqJTmjhB62n9n5JJJt8vffNQsjpasu9mKtjYc1pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:33:24 | BUY | 0.000600 | `2Z9nsfkGWrKx3iiGgNW1gEKSFukYKt...` |
+
+### 🟢 BTBC
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 0.94x
+- **Mint:** `H8FURW92GqXZv7zs2Mz4pM6H2j9vWoj71Rh7hMbxpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:30:22 | BUY | 0.000600 | `2Bq95b9c2y6pUVLAjiJhUUTUudvm53...` |
 
 ### 🔴 DOGE KIDS
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -34,7 +52,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.12x
+- **Peak:** 1.18x | **Current:** 1.16x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -168,18 +186,19 @@
 | 2026-03-16 02:32:44 | BUY | 0.000600 | `2d2h83jmbWBxfxK28dPb9mrU6frb2a...` |
 | 2026-03-16 02:46:39 | SELL | 0.000390 | `4uRmBormvGiLsFFgiqy8C9xA5pJZWb...` |
 
-### 🟢 CODED
-- **Status:** open | **Exit:** open
-- **Peak:** 1.68x | **Current:** 0.73x
+### 🔴 CODED
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.68x | **Current:** 0.69x
 - **Mint:** `GuuFPt2t3ir7DaLfAQpD471V58qRRb7sAK1VroCzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:30:36 | BUY | 0.000600 | `4m1mX2Dz4oDQ68iqsXMDL4LrMbjKVe...` |
+| 2026-03-16 03:32:06 | SELL | 0.000409 | `3bXf7RHduzeKYHByxuJ5xDxx95cRZY...` |
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.90x
+- **Peak:** 1.09x | **Current:** 0.89x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -249,7 +268,7 @@
 
 ### 🟢 JOBS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.14x
+- **Peak:** 1.39x | **Current:** 1.17x
 - **Mint:** `A3groKXFP8aipQZVt7iajAs31sa7v89KGxc8Z3X8pump`
 
 | Time | Action | SOL | TX |
@@ -299,7 +318,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.26x
+- **Peak:** 1.79x | **Current:** 1.28x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
@@ -361,7 +380,7 @@
 
 ### 🟢 とまと
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `FoWCr414zVPiMSKge6PWvCreig9UxysW9Sgr3guKpump`
 
 | Time | Action | SOL | TX |
@@ -401,7 +420,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.87x
+- **Peak:** 1.24x | **Current:** 0.88x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
@@ -439,7 +458,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.81x
+- **Peak:** 1.37x | **Current:** 0.80x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |

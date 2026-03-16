@@ -1,17 +1,27 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 03:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
-| Open | 0 |
+| Total Positions | 11 |
+| Open | 1 |
 | Closed | 10 |
 | SOL In (closed) | 0.006000 |
-| SOL Out (sells) | 0.005120 |
-| **P&L** | **-0.000880 SOL** |
-| **ROI** | **-14.7%** |
+| SOL Out (sells) | 0.005490 |
+| **P&L** | **-0.000510 SOL** |
+| **ROI** | **-8.5%** |
 
 ## Trades
+
+### 🟢 GIGACHAD
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.34x | **Current:** 1.80x
+- **Mint:** `39YGKkWi8GeSbFri8dTo5nJBiraZ3XJZphsniTMEpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:30:12 | BUY | 0.000600 | `61EfiLTwLokLX8g2ozPUtWMgBxQrjk...` |
+| 2026-03-16 03:32:41 | SELL | 0.000371 | `3h5tz2Fyy2JYa5Ed2kMyXXxmSq1uub...` |
 
 ### 🟢 Wife
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

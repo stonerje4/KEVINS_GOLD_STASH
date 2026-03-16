@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 03:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 JOPNER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `9TgyuVKRGKcm6HuN9fQbnik6EhqQB4jAB7eGZmZYpump`
 
 | Time | Action | SOL | TX |
@@ -64,7 +64,7 @@
 
 ### 🟢 Papua
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 
 | Time | Action | SOL | TX |
@@ -127,7 +127,7 @@
 
 ### 🟢 HBB
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `Hip6YqPPfLPofk5payVGbdhcWpvCj5MNXonkf1sZpump`
 
 | Time | Action | SOL | TX |
@@ -136,7 +136,7 @@
 
 ### 🟢 ZEBRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `EgPBL3UMV1Ebrmr1HLTd7xggtJ2emgevrYz8P14Qpump`
 
 | Time | Action | SOL | TX |
@@ -154,7 +154,7 @@
 
 ### 🟢 WOOPA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `C5DLfd6Ve2mrxJVrcqqawpPBcVFYRGPqqay8Qddipump`
 
 | Time | Action | SOL | TX |
