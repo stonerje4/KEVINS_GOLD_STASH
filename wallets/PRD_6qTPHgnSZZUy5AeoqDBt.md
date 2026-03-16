@@ -1,18 +1,27 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 21:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 21:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 3 |
+| Total Positions | 8 |
+| Open | 4 |
 | Closed | 4 |
 | W/L | 2/2 |
 | SOL In (closed) | 0.600000 |
 | **Closed P&L** | **-0.156191 SOL** |
 | **Closed ROI** | **-26.0%** |
-| Open Deployed | 0.450000 SOL |
+| Open Deployed | 0.600000 SOL |
 
 ## Trades
+
+### 🟢 shadPS4
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `8C4FUxNLsmDKrrgmNsbRMiqquoPaXg7K9LE43WaMpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 21:04:15 | BUY | 0.150000 | `59KwZXW6S5YaDvvgk8ZuFCoUeXVGmT...` |
 
 ### 🟢 BUCK
 - **Status:** closed | **Exit:** runner_trailing_stop
