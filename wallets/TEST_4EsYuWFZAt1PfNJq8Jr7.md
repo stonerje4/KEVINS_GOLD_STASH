@@ -1,17 +1,26 @@
 # [TEST] Wallet: `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx`
-> Generated: 2026-03-16 09:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
+| Total Positions | 3 |
 | Open | 0 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.001302 |
-| **P&L** | **+0.000102 SOL** |
-| **ROI** | **+8.5%** |
+| **P&L** | **-0.000498 SOL** |
+| **ROI** | **-27.7%** |
 
 ## Trades
+
+### 🔴 GLP
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.63x
+- **Mint:** `EN5EcPhhFGXRSKDZtGF1UFoEmc17DSXvu2CTRbnMpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:21:19 | BUY | 0.000600 | `3oP1pWxSthujtmdqpziuLTV2hj9zqR...` |
 
 ### 🟢 Bowhead
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

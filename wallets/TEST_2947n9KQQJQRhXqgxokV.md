@@ -1,17 +1,27 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-16 09:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
+| Total Positions | 10 |
 | Open | 5 |
-| Closed | 4 |
-| SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.000924 |
-| **P&L** | **-0.001476 SOL** |
-| **ROI** | **-61.5%** |
+| Closed | 5 |
+| SOL In (closed) | 0.003000 |
+| SOL Out (sells) | 0.001110 |
+| **P&L** | **-0.001890 SOL** |
+| **ROI** | **-63.0%** |
 
 ## Trades
+
+### 🔴 URX
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.24x | **Current:** 0.31x
+- **Mint:** `BVf5hsfGd19J7egqYapRkJ8uZuaoWTTCZoMwC1uxpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:20:10 | BUY | 0.000600 | `4ZTwpG6M8LThYTkLvDnixSfKPZANmX...` |
+| 2026-03-16 09:23:04 | SELL | 0.000186 | `5KmjkK7ok6jLq3NngCCzpiurB1Mmb4...` |
 
 ### 🟢 USGR
 - **Status:** open | **Exit:** open
