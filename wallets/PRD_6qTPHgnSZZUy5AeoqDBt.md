@@ -1,16 +1,16 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 23:10 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 12 |
-| Open | 3 |
-| Closed | 9 |
-| W/L | 4/5 |
-| SOL In (closed) | 1.350000 |
-| **Closed P&L** | **-0.302234 SOL** |
-| **Closed ROI** | **-22.4%** |
-| Open Deployed | 0.450000 SOL |
+| Open | 2 |
+| Closed | 10 |
+| W/L | 4/6 |
+| SOL In (closed) | 1.500000 |
+| **Closed P&L** | **-0.325555 SOL** |
+| **Closed ROI** | **-21.7%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
@@ -48,7 +48,7 @@
 | 2026-03-16 21:35:54 | BUY | 0.150000 | `2rkiVZBe3LTHTjDpQkykhP8WPfqxKB...` |
 
 ### 🟢 Breathe
-- **Status:** partial | **Exit:** open
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 2.77x | **Current:** 0.00x
 - **Mint:** `4feRg9TsqWQoGayq2PrT5cZHZgQGgFuafT1V6aZ5pump`
 
@@ -56,6 +56,7 @@
 |------|--------|-----|----|
 | 2026-03-16 21:14:56 | BUY | 0.150000 | `vmUgWUy1quBrVuyTq19QkxT4S2vBz7...` |
 | 2026-03-16 21:35:31 | SELL | 0.033348 | `NqmMZpDutEe1JCN2QjtMPbGCoqecyp...` |
+| 2026-03-16 23:13:10 | SELL | 0.126679 | `62LmVPwX8A95KmpeZsk7E9EUJ7Ng8C...` |
 
 ### 🔴 shadPS4
 - **Status:** closed | **Exit:** stop_loss
