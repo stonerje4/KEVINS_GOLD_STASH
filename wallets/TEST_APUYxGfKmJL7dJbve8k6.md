@@ -1,18 +1,27 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 30 |
-| Open | 2 |
+| Total Positions | 31 |
+| Open | 3 |
 | Closed | 28 |
 | W/L | 24/4 |
 | SOL In (closed) | 0.013800 |
 | **Closed P&L** | **+0.009128 SOL** |
 | **Closed ROI** | **+66.1%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### 🟢 DICK
+- **Status:** open | **Exit:** open
+- **Peak:** 1.54x | **Current:** 1.29x
+- **Mint:** `5ZGbkpfWUNUHgo8WyAweQnNLecj8GfP4ax6uc5ha3JmD`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:01:33 | BUY | 0.000100 | `5uxApHL5ApfYmQDzgqYYFQquU3XCPE...` |
 
 ### 🔴 BUILDER
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -57,7 +66,7 @@
 
 ### 🟢 SOLANASOLANA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 0.84x
+- **Peak:** 1.20x | **Current:** 0.83x
 - **Mint:** `FWSNaEE6fXFoEdUQtp5kSV5FDNo478eLJtnoEenUVrzD`
 
 | Time | Action | SOL | TX |

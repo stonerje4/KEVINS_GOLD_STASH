@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 52 |
-| Open | 33 |
+| Total Positions | 53 |
+| Open | 34 |
 | Closed | 19 |
 | W/L | 10/9 |
 | SOL In (closed) | 0.019800 |
 | **Closed P&L** | **+0.008606 SOL** |
 | **Closed ROI** | **+43.5%** |
-| Open Deployed | 0.018300 SOL |
+| Open Deployed | 0.018400 SOL |
 
 ## Trades
+
+### 🟢 BUILDER
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.89x
+- **Mint:** `DwkjZoNj6PmJ31PNky4GeMUH6je3rCC1BdgpyCSbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:01:12 | BUY | 0.000100 | `4zxLXFoxR1W5ZdRwobovTwAYCBLbEW...` |
 
 ### 🟢 9FRAUD
 - **Status:** open | **Exit:** open
@@ -50,7 +59,7 @@
 
 ### 🟢 DroydAI
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.06x | **Current:** 6.42x
+- **Peak:** 7.06x | **Current:** 6.19x
 - **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +71,7 @@
 
 ### 🟢 Moonigga
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.02x | **Current:** 1.23x
+- **Peak:** 2.02x | **Current:** 1.21x
 - **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
 
 | Time | Action | SOL | TX |
@@ -344,7 +353,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.92x
+- **Peak:** 1.05x | **Current:** 0.81x
 - **Mint:** `6gjdV7soB8RiKvGdMh6XMinsPVyeG4TprL4rYrFQpump`
 
 | Time | Action | SOL | TX |

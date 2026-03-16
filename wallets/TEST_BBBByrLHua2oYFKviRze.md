@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 62 |
-| Open | 12 |
-| Closed | 50 |
-| W/L | 48/2 |
-| SOL In (closed) | 0.028500 |
-| **Closed P&L** | **+0.023301 SOL** |
-| **Closed ROI** | **+81.8%** |
-| Open Deployed | 0.002200 SOL |
+| Open | 11 |
+| Closed | 51 |
+| W/L | 49/2 |
+| SOL In (closed) | 0.028600 |
+| **Closed P&L** | **+0.023340 SOL** |
+| **Closed ROI** | **+81.6%** |
+| Open Deployed | 0.002100 SOL |
 
 ## Trades
 
@@ -33,14 +33,15 @@
 | 2026-03-16 15:57:13 | BUY | 0.000100 | `8esuxsGD3GxMUvC1isuuNW35U5sNUx...` |
 | 2026-03-16 15:59:11 | SELL | 0.000036 | `cTKLGugGuFgTwugo2uaXEpsfBZ5aSa...` |
 
-### 🟢  ルル
-- **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.49x
+### 🔴  ルル
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.19x | **Current:** 0.39x
 - **Mint:** `Z2MB8qmd2XEx6kNVh5idnn6xsCoVr7VC8q7Zf8oLuLu`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:50:54 | BUY | 0.000100 | `czTst4u2nka8jSsknbkEnE84meK1PM...` |
+| 2026-03-16 16:04:01 | SELL | 0.000039 | `33zeh6WgkvtW1ykmrC78AJWfAHLWbj...` |
 
 ### 🟢 GROK
 - **Status:** open | **Exit:** open
@@ -94,7 +95,7 @@
 
 ### 🟢 NeMoClaw
 - **Status:** open | **Exit:** open
-- **Peak:** 1.94x | **Current:** 0.54x
+- **Peak:** 1.94x | **Current:** 0.53x
 - **Mint:** `5Py1hwnq6vtAFSj6srWNmejDQKdSS5WzpmSS9CPCpump`
 
 | Time | Action | SOL | TX |
@@ -103,7 +104,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.08x
+- **Peak:** 1.74x | **Current:** 1.28x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

@@ -1,36 +1,46 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
+| Total Positions | 6 |
 | Open | 3 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.001200 |
-| **Closed P&L** | **+0.000755 SOL** |
-| **Closed ROI** | **+62.9%** |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.001300 |
+| **Closed P&L** | **+0.000789 SOL** |
+| **Closed ROI** | **+60.7%** |
 | Open Deployed | 0.000800 SOL |
 
 ## Trades
 
+### 🟢 Steak
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `EqFip97pde7Tpim8Ygp5BRPsP6e2VZd4jC3PcyLmpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:04:42 | BUY | 0.000100 | `bGSjAt1xcxNBobd3K4AcvAoZoFUHGz...` |
+
 ### 🟢 Stare
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 1.01x
+- **Peak:** 1.02x | **Current:** 0.85x
 - **Mint:** `CGjA6fRxrA1X9UWTzFbNMxTTegkyBRtPgoLHgkzhpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:59:14 | BUY | 0.000100 | `2Wgsuxz78cmexLvjws2zf6pM6QQmMA...` |
 
-### 🟢 TRENCHLANA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 1.37x
+### 🔴 TRENCHLANA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.38x | **Current:** 0.35x
 - **Mint:** `ooQ5B5bBrmCh2oRqy2saabpL5wd7BdruxP9ZVLEUntG`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:58:52 | BUY | 0.000100 | `2SYv5iv4MXucnMrisCUPQ8wxPsaJY2...` |
+| 2026-03-16 16:04:27 | SELL | 0.000035 | `ao2rzBaBg2hr1fDRNbearyzPN6CTA1...` |
 
 ### 🔴 HOPE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

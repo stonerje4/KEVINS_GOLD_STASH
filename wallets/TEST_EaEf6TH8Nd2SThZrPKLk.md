@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 77 |
-| Open | 16 |
-| Closed | 61 |
-| W/L | 60/1 |
-| SOL In (closed) | 0.033600 |
-| **Closed P&L** | **+0.028229 SOL** |
-| **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.003600 SOL |
+| Total Positions | 78 |
+| Open | 15 |
+| Closed | 63 |
+| W/L | 62/1 |
+| SOL In (closed) | 0.033800 |
+| **Closed P&L** | **+0.028643 SOL** |
+| **Closed ROI** | **+84.7%** |
+| Open Deployed | 0.003500 SOL |
 
 ## Trades
 
+### 🟢 Pigeon
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.64x
+- **Mint:** `2M2H39U6Db842okcJ9gFvmSsvEQcesRDbBgjjAckpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:02:29 | BUY | 0.000100 | `4xH7C5jCWdTn33okX27hwCgst174Se...` |
+
 ### 🟢 REDHEAD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 1.05x
+- **Peak:** 1.05x | **Current:** 0.74x
 - **Mint:** `4vAoDvZzTQrcZQmAmWptpFMPcwCeLQJ6PbGLZX3Fpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 POKEFUN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 1.16x
+- **Peak:** 1.27x | **Current:** 1.25x
 - **Mint:** `G4WzMcvBFVAhNBbb2U9LDvdmX8T2nVNkvHz7siWBpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 LIQUORA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 1.02x
+- **Peak:** 1.02x | **Current:** 0.99x
 - **Mint:** `FppyXdz1bp6VHvraf7QVkNo7EfdYNqZDunEQ5Gk3pump`
 
 | Time | Action | SOL | TX |
@@ -81,18 +90,19 @@
 | 2026-03-16 15:54:32 | SELL | 0.000022 | `2WpKRALNdmDCc3TRWWDKksEjMweCax...` |
 | 2026-03-16 15:56:28 | SELL | 0.000027 | `2uyqrD4V9r6bYPkbiKuqJ3vMcPXD1W...` |
 
-### 🟢 $GPIG
-- **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 0.49x
+### 🔴 $GPIG
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.22x | **Current:** 0.35x
 - **Mint:** `EFMZGydKawguYnLYKuqeYvnp4MgvWaJNCGMSdRd7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:39:23 | BUY | 0.000100 | `2Pbr9gL2SJMzMBqnSPyRfRFM1H5pNa...` |
+| 2026-03-16 16:01:48 | SELL | 0.000035 | `RFT84uMurrNqwTjUFyE11Py8FNvSge...` |
 
 ### 🟢 Dozer
-- **Status:** partial | **Exit:** open
-- **Peak:** 7.31x | **Current:** 4.22x
+- **Status:** closing | **Exit:** runner_trailing_stop
+- **Peak:** 7.31x | **Current:** 3.74x
 - **Mint:** `JB92sKqTtgyfAaYcpg5x8Jau2m73jUfsyEHkpRRspump`
 
 | Time | Action | SOL | TX |
@@ -101,6 +111,7 @@
 | 2026-03-16 15:29:25 | SELL | 0.000030 | `3erun5mXfhEcBR2dZZ7jFsEV548zxc...` |
 | 2026-03-16 15:45:35 | SELL | 0.000029 | `2A2i2dtecQX1D81zugjs5m7s52haaK...` |
 | 2026-03-16 15:49:44 | SELL | 0.000045 | `2YHkmnUjHbXgX5VPmzVnb9AMEnqxR7...` |
+| 2026-03-16 16:04:51 | SELL | 0.000274 | `2CEqavVcJVoSFWPpX4ccKBnpyV8U1a...` |
 
 ### 🟢 ZYNFIN
 - **Status:** open | **Exit:** open
@@ -325,7 +336,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.22x
+- **Peak:** 1.50x | **Current:** 1.25x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |
