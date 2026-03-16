@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 12:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 orange
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `BximYmnM1vKR9Y3f2z3Fn4PYNjB7y1jnL9eNGbGrpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 RAM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.96x
+- **Peak:** 1.09x | **Current:** 0.82x
 - **Mint:** `6mmokkADxij5w4jRXC3ntrDAUsUXuRM693F5Jcspump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 ojoeldivo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 1.07x
+- **Peak:** 1.27x | **Current:** 0.96x
 - **Mint:** `AM6PWqWJUPcTye7R91jW9wNx2wzW2uiFjrbRaa2rpump`
 
 | Time | Action | SOL | TX |
@@ -171,7 +171,7 @@
 
 ### 🟢 SHITCOIN
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.01x | **Current:** 1.88x
+- **Peak:** 2.12x | **Current:** 1.80x
 - **Mint:** `7d16UvK5vFtjz2M59e4wJ2ewj3HZr4hG3Wjmjhwzpump`
 
 | Time | Action | SOL | TX |
@@ -259,7 +259,7 @@
 
 ### 🟢 NANO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 1.44x
+- **Peak:** 1.73x | **Current:** 1.66x
 - **Mint:** `4zhKydnniAvVC636YmndZ2qjyCRZiRPWjVdP3aBMpump`
 
 | Time | Action | SOL | TX |
@@ -1041,7 +1041,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.75x
+- **Peak:** 1.87x | **Current:** 1.78x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -1312,7 +1312,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 0.78x
+- **Peak:** 1.25x | **Current:** 0.74x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |
@@ -1393,7 +1393,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.86x
+- **Peak:** 1.43x | **Current:** 0.77x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |

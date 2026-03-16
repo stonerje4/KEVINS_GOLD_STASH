@@ -1,35 +1,36 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 12:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 36 |
-| Open | 3 |
-| Closed | 33 |
-| SOL In (closed) | 0.019800 |
-| SOL Out (sells) | 0.015623 |
-| **P&L** | **-0.004177 SOL** |
-| **ROI** | **-21.1%** |
+| Open | 2 |
+| Closed | 34 |
+| SOL In (closed) | 0.020400 |
+| SOL Out (sells) | 0.016043 |
+| **P&L** | **-0.004357 SOL** |
+| **ROI** | **-21.4%** |
 
 ## Trades
 
 ### 🟢 Panthera
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+- **Peak:** 1.69x | **Current:** 1.66x
 - **Mint:** `2DVd6ahRX5ywW6oukXFkHCH9ia8xgLK5nvnM36ytpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 12:23:15 | BUY | 0.000600 | `2FARNJ7jrVaMvRiNyxPjveg6Qy8Dns...` |
 
-### 🟢 GAYMENEI
-- **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 0.79x
+### 🔴 GAYMENEI
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.69x | **Current:** 0.70x
 - **Mint:** `851FJPXAEKdnqUWRvt7F9UFQGAkxaPsjaVyoYKWdpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 12:19:50 | BUY | 0.000600 | `2BAPn2WxG52K8Tjmwfx7TjS2vj8kcV...` |
+| 2026-03-16 12:29:20 | SELL | 0.000419 | `2PJJdRdkcbrnnhpXdf5xCvXiZcPBZc...` |
 
 ### 🔴 aura
 - **Status:** closed | **Exit:** ghost_close_stop_loss
