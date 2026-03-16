@@ -1,5 +1,5 @@
 # [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 AGENTI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 1.15x
+- **Peak:** 1.21x | **Current:** 1.14x
 - **Mint:** `Ek3wSfmc3Qd7Go9CdyrnSTUeSJJ5GY9tX69KzMGUpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 BOBO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.67x
+- **Peak:** 1.21x | **Current:** 0.63x
 - **Mint:** `BJwd9vZ2di3RWspBK2jGGKkHdLQ1nqRhfwe1LhHjpump`
 
 | Time | Action | SOL | TX |

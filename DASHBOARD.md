@@ -1,5 +1,5 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 15:25 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 15:30 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
 
 ## 🧪 Test Wallet
 
@@ -18,13 +18,13 @@
 | ⚪ | `3VHz3MhvcbdxceVsUGz9Q4DNZLyS4RobbYjg1yXscES8` | 1 | 0 | 1 | 0/0 | 0% | $+0.00 | +0.0% | $100.00 |
 | 🔴 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 16 | 8 | 8 | 2/6 | 25% | $-3.16 | -0.4% | $800.00 |
 | 🔴 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | $-7.30 | -3.6% | — |
-| 🔴 | `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 232 | 168 | 64 | 33/135 | 20% | $-1972.44 | -11.7% | $6400.00 |
-| 🔴 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 67 | 58 | 9 | 10/48 | 17% | $-870.13 | -15.0% | $900.00 |
-| 🔴 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 52 | 47 | 5 | 8/39 | 17% | $-869.48 | -18.5% | $500.00 |
+| 🔴 | `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA` | 3 | 2 | 1 | 1/1 | 50% | $-11.31 | -5.7% | $100.00 |
+| 🔴 | `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 233 | 170 | 63 | 35/135 | 21% | $-1933.42 | -11.4% | $6300.00 |
+| 🔴 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 69 | 58 | 11 | 10/48 | 17% | $-864.95 | -14.9% | $1100.00 |
+| 🔴 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 53 | 47 | 6 | 8/39 | 17% | $-869.48 | -18.5% | $600.00 |
 | 🔴 | `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus` | 4 | 4 | 0 | 1/3 | 25% | $-85.30 | -21.3% | — |
-| 🔴 | `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA` | 3 | 1 | 2 | 0/1 | 0% | $-23.31 | -23.3% | $200.00 |
 | 🔴 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 21 | 13 | 8 | 2/11 | 15% | $-310.30 | -23.9% | $800.00 |
-| 🔴 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | 3 | 1 | 2 | 0/1 | 0% | $-27.46 | -27.5% | $200.00 |
+| 🔴 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | 4 | 1 | 3 | 0/1 | 0% | $-27.46 | -27.5% | $300.00 |
 | 🔴 | `2autqiinD2k2f1rbDMgZh5fJMrVdnTdB5vWc3Wa7PDZp` | 1 | 1 | 0 | 0/1 | 0% | $-30.88 | -30.9% | — |
 | 🔴 | `EfU8P5AZBitRYGQVVkHSPua9CitQWmbz7CM1gc2ATTDX` | 1 | 1 | 0 | 0/1 | 0% | $-32.23 | -32.2% | — |
 | 🔴 | `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx` | 5 | 5 | 0 | 1/4 | 20% | $-165.37 | -33.1% | — |

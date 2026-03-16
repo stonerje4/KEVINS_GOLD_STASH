@@ -1,22 +1,41 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 67 |
-| Open | 9 |
+| Total Positions | 69 |
+| Open | 11 |
 | Closed | 58 |
 | W/L | 57/1 |
 | SOL In (closed) | 0.033300 |
 | **Closed P&L** | **+0.027927 SOL** |
 | **Closed ROI** | **+83.9%** |
-| Open Deployed | 0.002900 SOL |
+| Open Deployed | 0.003100 SOL |
 
 ## Trades
 
+### 🟢 Dozer
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.97x | **Current:** 2.97x
+- **Mint:** `JB92sKqTtgyfAaYcpg5x8Jau2m73jUfsyEHkpRRspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:27:35 | BUY | 0.000100 | `2mN4EoJt9j3qidR6gqD6oWJoALmwEX...` |
+| 2026-03-16 15:29:25 | SELL | 0.000030 | `3erun5mXfhEcBR2dZZ7jFsEV548zxc...` |
+
+### 🟢 ZYNFIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.76x
+- **Mint:** `AGgpWLrTfzBZq5Tpih2m72hpRVoZovVb68RqJSirpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:25:23 | BUY | 0.000100 | `21L7NWFuDsXYGdkM4RMFamLN75Tm9s...` |
+
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.64x
+- **Peak:** 1.00x | **Current:** 0.45x
 - **Mint:** `2UmPFq2w2gCb16tpYrvDh7m27QSP8caE6qY5mtxtpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +44,7 @@
 
 ### 🟢 flea
 - **Status:** open | **Exit:** open
-- **Peak:** 1.83x | **Current:** 1.54x
+- **Peak:** 1.83x | **Current:** 1.67x
 - **Mint:** `2ZxvZtqXEpHGE5QnxrFWN1Bp78vcovfwgm1gA4BDpump`
 
 | Time | Action | SOL | TX |
@@ -225,7 +244,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.15x
+- **Peak:** 1.50x | **Current:** 1.17x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |

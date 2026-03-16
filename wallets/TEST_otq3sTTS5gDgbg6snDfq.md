@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Don Tzu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+- **Peak:** 1.22x | **Current:** 1.22x
 - **Mint:** `59VtFUYQ1qsxho2bF72xvt9BuSLkxZzCi4GXkKXEpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 SLICE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `B46xjckMnQmamXeWyLPTM8NYvLx3y3Dc26wwCZvTpump`
 
 | Time | Action | SOL | TX |
@@ -142,7 +142,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `BWokmiUXPVnNtMDp4Hy1y1mM9Fy1QntHBye9aZiPpump`
 
 | Time | Action | SOL | TX |
@@ -188,7 +188,7 @@
 
 ### 🟢 MCoins
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.68x
+- **Peak:** 1.00x | **Current:** 0.67x
 - **Mint:** `EYhtmNznq4BF1qJHj2s6SmvQBfA6JDNjococNzCSpump`
 
 | Time | Action | SOL | TX |
@@ -197,7 +197,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
@@ -225,7 +225,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |

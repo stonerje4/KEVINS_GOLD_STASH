@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Toly
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.10x | **Current:** 3.95x
+- **Peak:** 4.63x | **Current:** 4.63x
 - **Mint:** `HwV3VpprtjYEvvnDgBj6Ro1xKY81ubETYh3ZY3qApump`
 
 | Time | Action | SOL | TX |
@@ -27,7 +27,7 @@
 
 ### 🟢 ALIVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 1.40x
+- **Peak:** 1.96x | **Current:** 1.95x
 - **Mint:** `9JnbEQ9YqJKm2CMo1RqSyYBSbGJTtB2Md6QruAXWpump`
 
 | Time | Action | SOL | TX |
@@ -36,7 +36,7 @@
 
 ### 🟢 DroydAI
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.31x | **Current:** 3.31x
+- **Peak:** 3.54x | **Current:** 2.90x
 - **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
 
 | Time | Action | SOL | TX |
@@ -47,7 +47,7 @@
 
 ### 🟢 Moonigga
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.06x
+- **Peak:** 1.08x | **Current:** 1.08x
 - **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
 
 | Time | Action | SOL | TX |
@@ -56,7 +56,7 @@
 
 ### 🟢 CL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.13x
+- **Peak:** 1.90x | **Current:** 1.09x
 - **Mint:** `CafXWB7PWgXsPYyQ7A3hqpQhjrZdYPe59TUQnpXWpump`
 
 | Time | Action | SOL | TX |
@@ -197,7 +197,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |

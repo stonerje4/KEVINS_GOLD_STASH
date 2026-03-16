@@ -1,22 +1,31 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 2 |
+| Total Positions | 4 |
+| Open | 3 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000600 |
 | **Closed P&L** | **+0.000382 SOL** |
 | **Closed ROI** | **+63.6%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
+### 🟢 gorevege
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.95x
+- **Mint:** `42NTyRmFCqDzw8WnWFyntDCZKZTkFejoRpRokyvbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:29:15 | BUY | 0.000100 | `21g6cS8S2qfGUbr7mBfo3CBbc4rA1q...` |
+
 ### 🟢 Heart
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.84x | **Current:** 3.84x
+- **Peak:** 3.84x | **Current:** 3.25x
 - **Mint:** `CddTVmakkpiS2BEzPpyEuNa44zRbC25PF57RAHFVpump`
 
 | Time | Action | SOL | TX |

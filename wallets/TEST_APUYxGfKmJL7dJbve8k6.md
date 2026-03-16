@@ -1,5 +1,5 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 15:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 XERAI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.95x
+- **Peak:** 1.06x | **Current:** 0.93x
 - **Mint:** `3CvJ2gNGyG9M8jDKYJTHqn93HQ1j5J3Z88RjaXTnpump`
 
 | Time | Action | SOL | TX |
@@ -35,7 +35,7 @@
 
 ### 🟢 SOLANASOLANA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 0.56x
+- **Peak:** 1.20x | **Current:** 0.88x
 - **Mint:** `FWSNaEE6fXFoEdUQtp5kSV5FDNo478eLJtnoEenUVrzD`
 
 | Time | Action | SOL | TX |
