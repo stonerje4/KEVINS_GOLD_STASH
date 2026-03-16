@@ -1,22 +1,42 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 16:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 82 |
+| Total Positions | 84 |
 | Open | 15 |
-| Closed | 67 |
-| W/L | 66/1 |
-| SOL In (closed) | 0.034200 |
-| **Closed P&L** | **+0.029035 SOL** |
-| **Closed ROI** | **+84.9%** |
-| Open Deployed | 0.003500 SOL |
+| Closed | 69 |
+| W/L | 68/1 |
+| SOL In (closed) | 0.034900 |
+| **Closed P&L** | **+0.029290 SOL** |
+| **Closed ROI** | **+83.9%** |
+| Open Deployed | 0.003000 SOL |
 
 ## Trades
 
+### 🔴 readyClaw
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.34x
+- **Mint:** `DA8fLcwcCzh1KnVrc6gdQMbmZfCPirKi9bYyXos2pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:42:06 | BUY | 0.000100 | `?` |
+| 2026-03-16 16:44:01 | BUY | 0.000100 | `CTSb8Ecf1yk76RqjAN31BAqzL9VT65...` |
+| 2026-03-16 16:45:00 | SELL | 0.000034 | `giW98w59fbVTGsProBRaz52rYF51x4...` |
+
+### 🟢 HVAC
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 0.95x
+- **Mint:** `7USpkp5mgAwTwQw8aMvYJUh4mwFoWoZtuU38j6wLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:41:01 | BUY | 0.000100 | `3taozcg8xwXvnhwFSNRfFN5k8DLES1...` |
+
 ### 🟢 RICE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.66x
+- **Peak:** 1.00x | **Current:** 0.64x
 - **Mint:** `3NFYLJMnLYjJMeSm9Pm75UNpGReaBqwVe3ySs5yypump`
 
 | Time | Action | SOL | TX |
@@ -77,13 +97,14 @@
 
 ### 🟢 POKEFUN
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.78x | **Current:** 2.78x
+- **Peak:** 4.33x | **Current:** 4.33x
 - **Mint:** `G4WzMcvBFVAhNBbb2U9LDvdmX8T2nVNkvHz7siWBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:55:13 | BUY | 0.000100 | `5Ru8RdpTAB74MpBgBtw2J4rGBhuN2z...` |
 | 2026-03-16 16:18:59 | SELL | 0.000024 | `wcSBtzMowM4RBmNf5ccFyPX557J4Dw...` |
+| 2026-03-16 16:41:37 | SELL | 0.000034 | `55r5oeAwnKvagHWKvhyfcGgu4v9CiP...` |
 
 ### 🟢 LIQUORA
 - **Status:** open | **Exit:** open
@@ -378,14 +399,15 @@
 | 2026-03-16 12:41:35 | BUY | 0.000600 | `2f8BsZuN8nN47jfKjrVL3kBBFsLAP9...` |
 | 2026-03-16 12:50:16 | SELL | 0.000147 | `4gsCssPGLNg25jPZri9Lxe4NiZT4rx...` |
 
-### 🟢 GERALD
-- **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 0.56x
+### 🔴 GERALD
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.50x | **Current:** 0.30x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 12:24:55 | BUY | 0.000600 | `3JK8jqsVr9Y5Nd2PSKV3pFi6jqh5dx...` |
+| 2026-03-16 16:44:26 | SELL | 0.000221 | `xEPDgPDZdoyJyQFPytHKaKcfhcQDqW...` |
 
 ### 🔴 YAH
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -438,7 +460,7 @@
 
 ### 🟢 MATM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.71x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `9gg1QdcoEcqFaYZeA1FhMWw9i2BPJMrx1c6UH6CKpump`
 
 | Time | Action | SOL | TX |

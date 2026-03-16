@@ -1,27 +1,37 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 16:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 66 |
+| Total Positions | 67 |
 | Open | 12 |
-| Closed | 54 |
-| W/L | 52/2 |
-| SOL In (closed) | 0.028900 |
-| **Closed P&L** | **+0.023798 SOL** |
-| **Closed ROI** | **+82.3%** |
+| Closed | 55 |
+| W/L | 53/2 |
+| SOL In (closed) | 0.029000 |
+| **Closed P&L** | **+0.023837 SOL** |
+| **Closed ROI** | **+82.2%** |
 | Open Deployed | 0.002200 SOL |
 
 ## Trades
 
-### 🟢 Escobird
+### 🟢 CREACHER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.44x | **Current:** 0.65x
+- **Peak:** 1.50x | **Current:** 1.50x
+- **Mint:** `26AFDXWkkQrJZYwui4roDes5qrggvxyDsKx19R4ppump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:44:30 | BUY | 0.000100 | `bfnetc7EEC5QPkVkDTcfJuwV2uJGot...` |
+
+### 🔴 Escobird
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.44x | **Current:** 0.39x
 - **Mint:** `A9Bfdts9BgqpBSrw8JreVDBqBKVKeGJg9BNjBkx2pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:34:50 | BUY | 0.000100 | `2Ehw6mBJ5gg17ChNRq4wyPDmGpcuBu...` |
+| 2026-03-16 16:44:54 | SELL | 0.000039 | `3XT2wdYJhe7jeFJd59veJcSk6fYQaj...` |
 
 ### 🔴 FlatHeadCat
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -148,7 +158,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.05x
+- **Peak:** 1.74x | **Current:** 1.12x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

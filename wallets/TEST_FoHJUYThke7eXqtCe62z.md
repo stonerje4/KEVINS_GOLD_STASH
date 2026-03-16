@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 16:40 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -71,7 +71,7 @@
 | 2026-03-16 16:07:27 | SELL | 0.000084 | `5UHrT46u1o529qrAQdz7jhiYDtCHq8...` |
 
 ### 🟢 Moonigga
-- **Status:** closing | **Exit:** runner_trailing_stop
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
 - **Peak:** 2.02x | **Current:** 0.98x
 - **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
 
@@ -215,7 +215,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.81x
+- **Peak:** 1.06x | **Current:** 0.90x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |
@@ -299,7 +299,7 @@
 
 ### 🟢 Wife
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.68x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `RSvkQUEBvN9bQ56cSmnu5wJkdTFXjBqAMpYQcSUpump`
 
 | Time | Action | SOL | TX |
@@ -364,7 +364,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |
