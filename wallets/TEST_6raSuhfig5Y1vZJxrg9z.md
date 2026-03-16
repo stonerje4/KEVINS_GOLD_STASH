@@ -1,18 +1,27 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-16 16:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 3 |
+| Total Positions | 7 |
+| Open | 4 |
 | Closed | 3 |
 | W/L | 3/0 |
 | SOL In (closed) | 0.000800 |
 | **Closed P&L** | **+0.000697 SOL** |
 | **Closed ROI** | **+87.1%** |
-| Open Deployed | 0.000800 SOL |
+| Open Deployed | 0.000900 SOL |
 
 ## Trades
+
+### 🟢 GAUNTLET
+- **Status:** open | **Exit:** open
+- **Peak:** 1.09x | **Current:** 1.00x
+- **Mint:** `88na6xm5jHSTsNSDbPWVSK8zyuc4hHnnLNEHVmm2pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 16:50:46 | BUY | 0.000100 | `51YhkEwt3XR9pAzKZfazSbshzVeLE3...` |
 
 ### 🟢 2024
 - **Status:** open | **Exit:** open
@@ -25,7 +34,7 @@
 
 ### 🟢 TRADES
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.36x
+- **Peak:** 1.45x | **Current:** 1.30x
 - **Mint:** `DPC15FkyULBUTNxQZfaNr42FCQsABteGUAovzGCYpump`
 
 | Time | Action | SOL | TX |

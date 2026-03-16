@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 16:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 cheetozard
-- **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.71x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.41x | **Current:** 2.41x
 - **Mint:** `4AUjdXMVHLm4WSwvJ7MCkrPTzE3t6wT4Ghzbf9Xcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:47:45 | BUY | 0.000100 | `2tATvZa99kzL2xY7ReFuCp19fLsBAQ...` |
+| 2026-03-16 16:54:30 | SELL | 0.000024 | `5yxXCQzTN1dZRADQsy1RVHJzLGF66K...` |
 
 ### 🔴 BULL
 - **Status:** closed | **Exit:** ghost_close_stop_loss
