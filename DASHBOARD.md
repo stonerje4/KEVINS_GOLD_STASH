@@ -1,17 +1,17 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 01:50 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 01:55 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.5785 SOL |
-| Open Positions | 52 (0.0500 SOL deployed) |
-| Closed Positions | 41 |
-| Total Positions | 93 |
+| SOL Balance | 1.5705 SOL |
+| Open Positions | 54 (0.0512 SOL deployed) |
+| Closed Positions | 42 |
+| Total Positions | 96 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.4715 SOL (-47.1%)** |
+| **Real P&L (on-chain)** | **-0.4783 SOL (-47.8%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -19,15 +19,15 @@
 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🟢 +0.001524 | +127.0% |
 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 3 | 3 | 0 | 2/1 | 67% | 0.0018 | 🟢 +0.001118 | +62.1% |
 | `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 6 | 4 | 2 | 2/2 | 50% | 0.0036 | 🟢 +0.000683 | +28.5% |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 16 | 4 | 12 | 0/4 | 0% | 0.0096 | 🟢 +0.000080 | +3.3% |
 | `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | ⚪ +0.000000 | +0.0% |
 | `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 2 | 0 | 2 | 0/0 | 0% | 0.0106 | ⚪ +0.000000 | +0.0% |
 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
-| `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | ⚪ +0.000000 | +0.0% |
+| `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 3 | 0 | 3 | 0/0 | 0% | 0.0018 | ⚪ +0.000000 | +0.0% |
 | `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 8 | 0 | 8 | 0/0 | 0% | 0.0048 | ⚪ +0.000000 | +0.0% |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🔴 -0.000044 | -3.6% |
-| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 4 | 4 | 0 | 1/3 | 25% | 0.0024 | 🔴 -0.000271 | -11.3% |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 17 | 5 | 12 | 1/4 | 20% | 0.0102 | 🔴 -0.000146 | -4.9% |
+| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 5 | 4 | 1 | 1/3 | 25% | 0.0030 | 🔴 -0.000271 | -11.3% |
 | `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 7 | 7 | 0 | 1/6 | 14% | 0.0042 | 🔴 -0.000830 | -19.8% |
 | `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000184 | -30.7% |
 | `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000187 | -31.2% |
@@ -46,13 +46,13 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `9xMo2sv9tDY5QVjnakjxykx2Qvy9K5FJ2NUNbVgq83c1` |
-| SOL Balance | 4.0478 SOL |
-| Open Positions | 17 (2.5500 SOL deployed) |
+| SOL Balance | 3.8925 SOL |
+| Open Positions | 18 (2.7000 SOL deployed) |
 | Closed Positions | 555 |
 | Total Deposited | ~7.34 SOL |
-| SOL Bought (bot) | 58.75 SOL |
+| SOL Bought (bot) | 58.90 SOL |
 | SOL Sold (bot) | 55.94 SOL |
-| **Real P&L (on-chain)** | **-0.7422 SOL (-10.1%)** |
+| **Real P&L (on-chain)** | **-0.7475 SOL (-10.2%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -71,7 +71,7 @@
 | `FGZ72HENqfzUv9RiPAFqF7hCCiMZMAa5MYmWangFnZwD` | 7 | 7 | 0 | 3/4 | 43% | 0.8500 | 🟢 +0.488873 | +57.5% |
 | `9rb2ChEjkkCYGiHB97yssryBf8sh2W49MeyLUs69cKyS` | 37 | 37 | 0 | 10/27 | 27% | 1.8500 | 🟢 +1.037046 | +56.1% |
 | `7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D` | 21 | 21 | 0 | 5/16 | 24% | 1.6400 | 🟢 +0.803006 | +49.0% |
-| `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ` | 22 | 21 | 1 | 10/11 | 48% | 2.9300 | 🟢 +1.270182 | +45.7% |
+| `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ` | 23 | 21 | 2 | 10/11 | 48% | 3.0800 | 🟢 +1.270182 | +45.7% |
 | `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j` | 27 | 27 | 0 | 11/16 | 41% | 2.3700 | 🟢 +1.061707 | +44.8% |
 | `BJJGTyZBpSoTNrodhiEaRMonCPzAkzZWrzwhwZcn8Cir` | 4 | 4 | 0 | 2/2 | 50% | 0.2000 | 🟢 +0.054342 | +27.2% |
 | `A5hEhg36kAmkrrKRhVxPrvYK5KLgBgPXbBqL9GUL5jg1` | 8 | 8 | 0 | 1/7 | 12% | 1.2000 | 🟢 +0.259002 | +21.6% |

@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 01:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 01:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 0 |
+| Total Positions | 5 |
+| Open | 1 |
 | Closed | 4 |
 | SOL In (closed) | 0.002400 |
 | SOL Out (sells) | 0.002129 |
@@ -12,6 +12,15 @@
 | **ROI** | **-11.3%** |
 
 ## Trades
+
+### 🟢 ASI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.32x | **Current:** 0.77x
+- **Mint:** `BfyLK14uXBaLWx71tRckzy85xAzrsgB6C3Xtg49jpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:53:35 | BUY | 0.000600 | `2xpSmpFPgX1778RxZwUno64wtPPYdJ...` |
 
 ### 🔴 TEK
 - **Status:** closed | **Exit:** ghost_close_stop_loss

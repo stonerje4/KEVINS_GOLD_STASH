@@ -1,10 +1,10 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 01:50 UTC | Environment: **PRD**
+> Generated: 2026-03-16 01:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 22 |
-| Open | 1 |
+| Total Positions | 23 |
+| Open | 2 |
 | Closed | 21 |
 | SOL In (closed) | 2.780000 |
 | SOL Out (sells) | 4.050182 |
@@ -12,6 +12,15 @@
 | **ROI** | **+45.7%** |
 
 ## Trades
+
+### 🟢 HOSPICE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.23x | **Current:** 0.00x
+- **Mint:** `7rLJkovLd5NpEcf3Px2WnFfNDymfiH1sYqY1372Ppump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 01:53:44 | BUY | 0.150000 | `66vSwXTafHe8XuPDe6PpAqNAQ7Um4W...` |
 
 ### 🟢 CRISIS
 - **Status:** open | **Exit:** open
