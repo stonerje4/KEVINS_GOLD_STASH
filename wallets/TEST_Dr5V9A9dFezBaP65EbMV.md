@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 10:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,9 +7,9 @@
 | Open | 11 |
 | Closed | 4 |
 | SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.001585 |
-| **P&L** | **-0.000815 SOL** |
-| **ROI** | **-34.0%** |
+| SOL Out (sells) | 0.001942 |
+| **P&L** | **-0.000458 SOL** |
+| **ROI** | **-19.1%** |
 
 ## Trades
 
@@ -24,7 +24,7 @@
 
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.90x
+- **Peak:** 1.21x | **Current:** 0.89x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |
@@ -80,7 +80,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 1.11x
+- **Peak:** 1.16x | **Current:** 1.13x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
@@ -89,7 +89,7 @@
 
 ### 🟢 BOA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.82x
+- **Peak:** 1.13x | **Current:** 0.74x
 - **Mint:** `Dt3vBiGi9ceMsqH9EeTJRQEku9C1rrBNB1vMzZVgZKYx`
 
 | Time | Action | SOL | TX |
@@ -126,17 +126,18 @@
 | 2026-03-16 05:10:16 | SELL | 0.000398 | `5k4ryxBHZDXDSRohXzpHA2Z2AGF4R7...` |
 
 ### 🟢 TIM
-- **Status:** open | **Exit:** open
-- **Peak:** 1.91x | **Current:** 1.61x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.10x | **Current:** 2.06x
 - **Mint:** `9rZyxfCQhGCBcpbFW3LUjVKoBajVbN6kYdHmaFXSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 01:52:58 | BUY | 0.000600 | `3mVfrwJcnprv1gHQDCtybJJsHv7Gzr...` |
+| 2026-03-16 10:01:42 | SELL | 0.000357 | `4TdGxyc2bYJpXydXKwmG5o9DLzNM5W...` |
 
 ### 🟢 zoolander
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.88x
+- **Peak:** 1.05x | **Current:** 0.86x
 - **Mint:** `CVMQJUwFBdhHEcDEuAmT3B4RkkcRLJEALCQvDngmpump`
 
 | Time | Action | SOL | TX |

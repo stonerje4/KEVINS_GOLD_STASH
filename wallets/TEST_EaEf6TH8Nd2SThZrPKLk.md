@@ -1,21 +1,21 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 10:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 35 |
-| Open | 4 |
-| Closed | 31 |
-| SOL In (closed) | 0.018600 |
-| SOL Out (sells) | 0.018244 |
-| **P&L** | **-0.000356 SOL** |
-| **ROI** | **-1.9%** |
+| Open | 3 |
+| Closed | 32 |
+| SOL In (closed) | 0.019200 |
+| SOL Out (sells) | 0.018640 |
+| **P&L** | **-0.000560 SOL** |
+| **ROI** | **-2.9%** |
 
 ## Trades
 
 ### 🟢 XAICASH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.45x
+- **Peak:** 1.45x | **Current:** 1.40x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 AIRI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 1.10x
+- **Peak:** 1.26x | **Current:** 1.22x
 - **Mint:** `3UJZRvYvP8Mef4boByK4Kj4CW61FLfZyNhGgoVrypump`
 
 | Time | Action | SOL | TX |
@@ -51,14 +51,15 @@
 | 2026-03-16 09:46:28 | BUY | 0.000600 | `3LphtehFNe3tHpUUsCig9QGDhBLt2W...` |
 | 2026-03-16 09:53:49 | SELL | 0.000129 | `2nev9HozLcrdvoULJCYTK1tuY1b5xo...` |
 
-### 🟢 NEO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.06x
+### 🔴 NEO
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.26x | **Current:** 0.66x
 - **Mint:** `5vrMuKfggUADzES69XWd17L3ZVNmU9GLWbvBRCoFpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 09:38:08 | BUY | 0.000600 | `BgoKDt3z6Uzjc5MLbuBG98H8UKnSBA...` |
+| 2026-03-16 10:03:26 | SELL | 0.000396 | `3ELzJcFj6iyDBG5krRhv7GetY2fEUw...` |
 
 ### 🔴 ⚡ 👑
 - **Status:** closed | **Exit:** ghost_close_stop_loss

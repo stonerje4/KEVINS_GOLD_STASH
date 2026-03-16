@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 10:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 10:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 chibo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.07x
+- **Peak:** 1.10x | **Current:** 1.10x
 - **Mint:** `HMAxR8iZxJz6mfJ3YUb6GiMSPzJSWQ5mSd7JBP2Mpump`
 
 | Time | Action | SOL | TX |
@@ -78,7 +78,7 @@
 
 ### 🟢 Clutch
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.37x | **Current:** 3.67x
+- **Peak:** 4.37x | **Current:** 4.33x
 - **Mint:** `2XEJWceovoLZoeaHiyFZqfH45HpJpKVxRWgUtTTypump`
 
 | Time | Action | SOL | TX |
