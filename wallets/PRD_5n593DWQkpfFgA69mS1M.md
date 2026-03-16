@@ -1,22 +1,33 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 23:25 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:30 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
-| Open | 3 |
+| Total Positions | 13 |
+| Open | 4 |
 | Closed | 9 |
 | W/L | 2/7 |
 | SOL In (closed) | 1.350000 |
 | **Closed P&L** | **+0.050611 SOL** |
 | **Closed ROI** | **+3.7%** |
-| Open Deployed | 0.450000 SOL |
+| Open Deployed | 0.600000 SOL |
 
 ## Trades
 
+### 🟢 RAVEN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.12x | **Current:** 0.00x
+- **Mint:** `2SjgY1CaaYmn4MwWR4J8BnpMptadFbYRY1xH3uGZpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 20:05:52 | BUY | 0.150000 | `kYfSfu34EBn88YLv6vQgqq3Ku2u8Fs...` |
+| 2026-03-16 20:41:29 | SELL | 0.053341 | `3NXXXneZZRuZbCFKqJJC7g68rSmmnd...` |
+| 2026-03-16 23:26:27 | BUY | 0.150000 | `5TcsDRzmbvoSgncuKR9u129izuTjBh...` |
+
 ### 🟢 HUMANITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 0.00x
+- **Peak:** 1.42x | **Current:** 0.00x
 - **Mint:** `CyeyL7HoSPtBPsX1shAgafUBo9jbATHAvEjwapCspump`
 
 | Time | Action | SOL | TX |

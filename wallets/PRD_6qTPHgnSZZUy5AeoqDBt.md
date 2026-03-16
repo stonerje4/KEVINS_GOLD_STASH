@@ -1,18 +1,27 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 23:25 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:30 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
-| Open | 2 |
+| Total Positions | 13 |
+| Open | 3 |
 | Closed | 10 |
 | W/L | 4/6 |
 | SOL In (closed) | 1.500000 |
 | **Closed P&L** | **-0.325555 SOL** |
 | **Closed ROI** | **-21.7%** |
-| Open Deployed | 0.300000 SOL |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
+
+### 🟢 promp
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 0.00x
+- **Mint:** `2kHP8x539qqCWVM614KcP5sPKKfh4sHEtN8DXDSEpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:25:45 | BUY | 0.150000 | `UpsJirnE9eFmT6o3FBatynC29bdG7Q...` |
 
 ### 🟢 Sanmao
 - **Status:** closed | **Exit:** runner_trailing_stop

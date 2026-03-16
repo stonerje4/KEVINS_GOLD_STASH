@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 65 |
-| Open | 42 |
+| Total Positions | 66 |
+| Open | 43 |
 | Closed | 23 |
 | W/L | 13/10 |
 | SOL In (closed) | 0.020700 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+43.8%** |
-| Open Deployed | 0.018700 SOL |
+| Open Deployed | 0.018800 SOL |
 
 ## Trades
+
+### 🟢 goon
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 0.94x
+- **Mint:** `8BAZVgXTtrYQn8zT4raxprRwiHTVdYcKpF36nxUcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:27:10 | BUY | 0.000100 | `CRtbvaQwWj2xTnf8xTefpQxZLMbt1N...` |
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
@@ -203,7 +212,7 @@
 
 ### 🟢 test
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.75x
 - **Mint:** `DBcBYfpXHjqrijbLnYjRPZ1tnd9nNyEsUJF93hwHpump`
 
 | Time | Action | SOL | TX |
@@ -430,7 +439,7 @@
 
 ### 🟢 Minecraft
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `FLhogsmiJFdTAguBw1csum4PicbDVucrbNxkT2Uupump`
 
 | Time | Action | SOL | TX |

@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w`
+# [TEST] Wallet: `BGLw4MpMcGN7qJsJQBAFzfBudXgaUtnczFCxrrpCHq8P`
 > Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 Shelly
+### 🟢 MiroFish
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.89x
-- **Mint:** `BAZBed8AxJyt15KChfnk2o14V8kmUMGHyJVf15eYpump`
+- **Peak:** 1.09x | **Current:** 1.09x
+- **Mint:** `9vbovDf4rgasuPUw7CZDW8ekoJpo3R4SrohQK8aQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 18:24:41 | BUY | 0.000100 | `2N4c6gp4xCcY1DEus26aRqr2PrwzJJ...` |
+| 2026-03-16 23:28:29 | BUY | 0.000100 | `54Uvhqf9rkZZrvyaYfTUG1u8Luqihf...` |
 

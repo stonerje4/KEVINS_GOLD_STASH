@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Cinema
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.48x
+- **Peak:** 1.30x | **Current:** 0.46x
 - **Mint:** `2p1YCjSxufM9ui6ePHrBsp7dTVNdsrA6NXMtjgympump`
 
 | Time | Action | SOL | TX |

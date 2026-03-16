@@ -1,18 +1,28 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
+| Total Positions | 5 |
 | Open | 2 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.000700 |
-| **Closed P&L** | **+0.000297 SOL** |
-| **Closed ROI** | **+42.5%** |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.000800 |
+| **Closed P&L** | **+0.000334 SOL** |
+| **Closed ROI** | **+41.7%** |
 | Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🔴 LUCKY
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.36x
+- **Mint:** `stE3p8hLM32VXuyLDJrkTgb9tBTuRyUvfmKNrYupump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:26:19 | BUY | 0.000100 | `38vv5cqvXXvGZ8oSSuaAM8mLtZRwRd...` |
+| 2026-03-16 23:27:27 | SELL | 0.000037 | `5iFmtzemZFqsgp2ttmxrZkhiJwA26D...` |
 
 ### 🔴 DAWAE
 - **Status:** closed | **Exit:** stop_loss

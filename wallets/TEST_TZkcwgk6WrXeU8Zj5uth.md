@@ -1,5 +1,5 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-16 23:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 IPG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.28x
+- **Peak:** 1.56x | **Current:** 1.52x
 - **Mint:** `2yomaThSw9NPkPnCCzk5kRpuTKXhebrtZSsfEx34pump`
 
 | Time | Action | SOL | TX |
