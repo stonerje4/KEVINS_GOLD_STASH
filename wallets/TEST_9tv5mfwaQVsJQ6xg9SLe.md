@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 17:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 OpenHome
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 1.20x
+- **Peak:** 1.31x | **Current:** 1.11x
 - **Mint:** `2WovvZ1KJrvWFS3KqPsCDGH8PVQaCmDuz4xDkoFbpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 | 2026-03-16 17:23:35 | BUY | 0.000100 | `37JE6mZA12tXNvNZ5Q93JNZTpsVHof...` |
 
 ### 🔴 GIRL
-- **Status:** closing | **Exit:** stop_loss
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.25x | **Current:** 0.32x
 - **Mint:** `5nmrpznhrs46WWrKyxb4Liqc41F3msD7A6RLGxwHpump`
 

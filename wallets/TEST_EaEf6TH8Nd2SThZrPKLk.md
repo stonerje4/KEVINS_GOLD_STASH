@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 17:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 SIRI
-- **Status:** open | **Exit:** open
-- **Peak:** 1.98x | **Current:** 1.88x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.04x | **Current:** 2.03x
 - **Mint:** `8S2iD5M7HwE5zXC4u6ReaPLGdztTM24d9JCVREu5pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:28:06 | BUY | 0.000100 | `4AQwuyHwTESQmGutopfrQtDFU9UC2g...` |
+| 2026-03-16 17:37:51 | SELL | 0.000020 | `38WCYzTZPEPczRjDUqaDhNEnCcFhCa...` |
 
 ### 🔴 🦞Y🦞
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -84,7 +85,7 @@
 
 ### 🟢 HVAC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 0.98x
+- **Peak:** 1.36x | **Current:** 1.09x
 - **Mint:** `7USpkp5mgAwTwQw8aMvYJUh4mwFoWoZtuU38j6wLpump`
 
 | Time | Action | SOL | TX |
@@ -591,7 +592,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.16x | **Current:** 1.61x
+- **Peak:** 2.16x | **Current:** 1.53x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |
