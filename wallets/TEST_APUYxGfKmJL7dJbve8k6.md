@@ -1,17 +1,27 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 04:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 16 |
+| Total Positions | 17 |
 | Open | 0 |
-| Closed | 16 |
-| SOL In (closed) | 0.009600 |
-| SOL Out (sells) | 0.007912 |
-| **P&L** | **-0.001688 SOL** |
-| **ROI** | **-17.6%** |
+| Closed | 17 |
+| SOL In (closed) | 0.010200 |
+| SOL Out (sells) | 0.008255 |
+| **P&L** | **-0.001945 SOL** |
+| **ROI** | **-19.1%** |
 
 ## Trades
+
+### 🔴 Singularity
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.26x | **Current:** 0.57x
+- **Mint:** `7Xcw5huVJVMEDXwmVCN9JgVdCptZ87qrwt1S3DmPpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:31:50 | BUY | 0.000600 | `2uPuj6CJfZJU23fxF4LvsE3X7TZGcB...` |
+| 2026-03-16 04:33:01 | SELL | 0.000342 | `65c7eerRVp4LehJA8EfRhFKkwmuGzZ...` |
 
 ### 🔴 Knight
 - **Status:** closed | **Exit:** ghost_close_stop_loss

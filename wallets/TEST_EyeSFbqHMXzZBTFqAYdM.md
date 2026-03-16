@@ -1,26 +1,27 @@
 # [TEST] Wallet: `EyeSFbqHMXzZBTFqAYdM5E2o6Uv8pPCyLsSCv9Ax8Qgb`
-> Generated: 2026-03-16 04:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.000746 |
-| **P&L** | **-0.000454 SOL** |
-| **ROI** | **-37.9%** |
+| Open | 0 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
+| SOL Out (sells) | 0.001084 |
+| **P&L** | **-0.000716 SOL** |
+| **ROI** | **-39.8%** |
 
 ## Trades
 
-### 🟢 ‎ 
-- **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.95x
+### 🔴 ‎ 
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.19x | **Current:** 0.56x
 - **Mint:** `52jD5Lon4unj6kecvVKvNnWs9yHSTLQaDx5qXK5gpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:23:23 | BUY | 0.000600 | `4wWNbVedu88WA1QGpaZ8LmB72EmqGc...` |
+| 2026-03-16 04:30:10 | SELL | 0.000338 | `4tQy22pX8Gx6XWmPEZp8L6GBASRLow...` |
 
 ### 🔴 WILLARD
 - **Status:** closed | **Exit:** ghost_close_stop_loss

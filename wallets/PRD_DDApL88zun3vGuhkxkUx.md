@@ -1,10 +1,10 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 04:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 04:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 24 |
-| Open | 2 |
+| Total Positions | 26 |
+| Open | 4 |
 | Closed | 22 |
 | SOL In (closed) | 2.930000 |
 | SOL Out (sells) | 4.100878 |
@@ -12,6 +12,24 @@
 | **ROI** | **+40.0%** |
 
 ## Trades
+
+### 🟢 BLACKJACK
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `73XxPmoakfwGAvad4C4bxdLtLmehz3UjEiVzNE7Spump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:32:15 | BUY | 0.150000 | `56Bp9wdXrEZ26FE7KUXHiXdApJPxum...` |
+
+### 🟢 Oscar
+- **Status:** open | **Exit:** open
+- **Peak:** 1.09x | **Current:** 0.00x
+- **Mint:** `G1raszDo4V42Mp9dQ39kSPkUWWSDXEg42HAMZCyDpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:31:15 | BUY | 0.150000 | `4LHJAVNLnotra5noi7fYgmmh65EEbw...` |
 
 ### 🟢 STEAK
 - **Status:** open | **Exit:** open

@@ -1,26 +1,27 @@
 # [PRD] Wallet: `EJEyPiUfUmx3wDTtVfTzduNyNAWtQdwodFQjnJmjvmCQ`
-> Generated: 2026-03-16 04:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 04:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 19 |
-| Open | 1 |
-| Closed | 18 |
-| SOL In (closed) | 1.400000 |
-| SOL Out (sells) | 1.300360 |
-| **P&L** | **-0.099640 SOL** |
-| **ROI** | **-7.1%** |
+| Open | 0 |
+| Closed | 19 |
+| SOL In (closed) | 1.550000 |
+| SOL Out (sells) | 1.405049 |
+| **P&L** | **-0.144951 SOL** |
+| **ROI** | **-9.4%** |
 
 ## Trades
 
-### 🟢 GIGA
-- **Status:** open | **Exit:** open
+### 🔴 GIGA
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `ErWxs97v2XhvcBZwx1yX93GarTYnuBHEreQDo8ajpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:23:14 | BUY | 0.150000 | `2kWHxsfbVn39xmwCLCo1ALK17buTS9...` |
+| 2026-03-16 04:34:29 | SELL | 0.104689 | `51TKm5tikTBuG4HG3zLNmQNav4g2tx...` |
 
 ### 🔴 Himari
 - **Status:** closed | **Exit:** stop_loss

@@ -1,26 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 04:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 18 |
-| Open | 2 |
-| Closed | 16 |
-| SOL In (closed) | 0.009600 |
-| SOL Out (sells) | 0.007796 |
-| **P&L** | **-0.001804 SOL** |
-| **ROI** | **-18.8%** |
+| Open | 0 |
+| Closed | 18 |
+| SOL In (closed) | 0.010800 |
+| SOL Out (sells) | 0.009233 |
+| **P&L** | **-0.001567 SOL** |
+| **ROI** | **-14.5%** |
 
 ## Trades
 
-### 🟢 Salary
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
+### 🔴 Salary
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.15x | **Current:** 0.68x
 - **Mint:** `FR8Ct2gk4kzCza2JAFJx3Ns8pog7tPC2zjRF2HamRJVx`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:29:30 | BUY | 0.000600 | `51W6mZiuDLSFgtngqTkxChvuqAuKyi...` |
+| 2026-03-16 04:33:36 | SELL | 0.000405 | `4MREKt5rFxVUQRQWdbRSmSHxDwrnUV...` |
 
 ### 🔴 LOOM
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -42,14 +43,15 @@
 | 2026-03-16 04:17:15 | BUY | 0.000600 | `2pQ24Do4CrJsp7TdiXWN4fmN2GAGUR...` |
 
 ### 🟢 󠀠󠀠
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.48x | **Current:** 3.10x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.48x | **Current:** 2.45x
 - **Mint:** `BTtsW9YukeQg2GVTQqbVGCxLBdgrJCFY6qQviHmPth6j`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:14:46 | BUY | 0.000600 | `2TGvZE4JPEun6X33CW8xhQ3EiJqjUX...` |
 | 2026-03-16 04:25:35 | SELL | 0.000400 | `4dekzShQRwDWgXYEEH8b4q4Aux8M5R...` |
+| 2026-03-16 04:31:24 | SELL | 0.001032 | `2go5NRmiD1ebo3zQ7oN6Dycs9pRZsE...` |
 
 ### 🔴 Glowcat
 - **Status:** closed | **Exit:** ghost_close_stop_loss

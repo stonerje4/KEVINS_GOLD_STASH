@@ -1,27 +1,28 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 04:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 1 |
-| Closed | 4 |
-| SOL In (closed) | 0.002400 |
-| SOL Out (sells) | 0.005446 |
-| **P&L** | **+0.003046 SOL** |
-| **ROI** | **+126.9%** |
+| Open | 0 |
+| Closed | 5 |
+| SOL In (closed) | 0.003000 |
+| SOL Out (sells) | 0.006465 |
+| **P&L** | **+0.003465 SOL** |
+| **ROI** | **+115.5%** |
 
 ## Trades
 
 ### 🟢 Salary
-- **Status:** partial | **Exit:** open
-- **Peak:** 4.74x | **Current:** 4.12x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 4.74x | **Current:** 2.42x
 - **Mint:** `7QLudgxdhyKPGRq3spputfXhkBy3uDXeDTzEPpgXpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:25:35 | BUY | 0.000600 | `3TKmwQaGguKfwnhDDWcuWidGtAP6Dh...` |
 | 2026-03-16 04:26:49 | SELL | 0.000378 | `5Dq6mkpm83TrdKPmBTMzsfpCTb2z98...` |
+| 2026-03-16 04:32:28 | SELL | 0.001019 | `5AL1jTJcoLSBfSEosBgcvGzAH6PSGw...` |
 
 ### 🔴 $GENIUS
 - **Status:** closed | **Exit:** ghost_close_stop_loss
