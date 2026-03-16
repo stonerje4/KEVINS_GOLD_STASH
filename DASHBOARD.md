@@ -1,22 +1,22 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-16 00:35 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-16 00:40 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
-| Wallets Tracked | 815 (245 active) |
-| Total Positions | 7,960 (2,280 open / 5,680 closed) |
-| Data Since | 2026-03-14 16:09 (32h) |
-| Closed P&L | **-71.49 SOL** (-8.4% ROI) |
+| Wallets Tracked | 815 (253 active) |
+| Total Positions | 8,005 (2,294 open / 5,711 closed) |
+| Data Since | 2026-03-14 16:09 (33h) |
+| Closed P&L | **-73.16 SOL** (-8.5% ROI) |
 
 ## ⚠️ Reality Check (STG vs TEST slippage)
 | Metric | Value |
 |--------|-------|
-| Matched Positions | 39 |
+| Matched Positions | 40 |
 | Avg Entry Slippage | **+1.2%** |
 | Median Slippage | +1.4% |
-| Paid More / Paid Less | 32 / 7 |
-| Estimated Real P&L | **~-70.6 SOL** (shadow × 99%) |
+| Paid More / Paid Less | 33 / 7 |
+| Estimated Real P&L | **~-72.3 SOL** (shadow × 99%) |
 
 > Shadow ROI is inflated by ~1% due to entry price slippage.
 > A shadow wallet needs **+30% ROI** to be profitable with real money.
@@ -60,10 +60,10 @@
 | 32 | `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w` | discovery_v2 | 12 | 1/11 | 8% | +7% | 🟡 **+7%** | +0.13 | 15.4x |
 | 33 | `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj` | discovery_v2 | 4 | 1/3 | 25% | +6% | 🟡 **+6%** | +0.04 | 3.4x |
 | 34 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | discovery_v2 | 33 | 9/24 | 27% | +5% | 🟡 **+5%** | +0.24 | 5.8x |
-| 35 | `omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq` | discovery_v2 | 511 | 96/415 | 19% | +3% | 🟡 **+3%** | +2.39 | 3769.1x |
-| 36 | `6MEtnYcETTCvY874S3rbH4fhc7ADAMWL1FExAwr1SoDz` | discovery_v2 | 191 | 38/153 | 20% | +1% | 🟡 **+1%** | +0.15 | 3823.5x |
+| 35 | `omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq` | discovery_v2 | 512 | 97/415 | 19% | +3% | 🟡 **+3%** | +2.48 | 3769.1x |
+| 36 | `6MEtnYcETTCvY874S3rbH4fhc7ADAMWL1FExAwr1SoDz` | discovery_v2 | 192 | 39/153 | 20% | +1% | 🟡 **+1%** | +0.24 | 4043.6x |
 
-**36 profitable** / **92 losing** (of 128 wallets with 3+ closed positions)
+**36 profitable** / **93 losing** (of 129 wallets with 3+ closed positions)
 
 > 🟢 Adj. ROI > +10% (likely profitable in real execution) | 🟡 0-10% (breakeven) | 🔴 negative (losing money)
 
@@ -73,19 +73,19 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.6810 SOL |
-| Open Positions | 27 (0.0350 SOL deployed) |
+| SOL Balance | 1.6787 SOL |
+| Open Positions | 28 (0.0356 SOL deployed) |
 | Closed Positions | 13 |
-| Total Positions | 40 |
+| Total Positions | 41 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.3840 SOL (-38.4%)** |
+| **Real P&L (on-chain)** | **-0.3857 SOL (-38.6%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
 |--------|-------|--------|------|-----|-----|--------|-----|-----|
 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🟢 +0.000958 | +159.7% |
-| `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 3 | 1 | 2 | 0/1 | 0% | 0.0018 | 🟢 +0.000583 | +97.1% |
-| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 5 | 3 | 2 | 0/3 | 0% | 0.0030 | 🟢 +0.000900 | +50.0% |
+| `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 3 | 1 | 2 | 0/1 | 0% | 0.0018 | 🟢 +0.000945 | +157.5% |
+| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 6 | 3 | 3 | 0/3 | 0% | 0.0036 | 🟢 +0.000900 | +50.0% |
 | `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 1 | 0 | 1 | 0/0 | 0% | 0.0100 | ⚪ +0.000000 | +0.0% |
 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 7 | 0 | 7 | 0/0 | 0% | 0.0136 | ⚪ +0.000000 | +0.0% |

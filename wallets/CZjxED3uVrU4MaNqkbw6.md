@@ -1,10 +1,10 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-16 00:35 UTC
+> Generated: 2026-03-16 00:40 UTC
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 2 |
+| Total Positions | 6 |
+| Open | 3 |
 | Closed | 3 |
 | SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.002700 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 JORDAN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.14x | **Current:** 1.03x
+- **Mint:** `6nYVpGGGnrKGSHBUcBn7qie8WoApRPHbVG6buZSNpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 00:36:46 | BUY | 0.000600 | `mp3RgcwUK2ps9vWc6k2Vd8G3Fa4F56...` |
+
 ### 🟢 PONZI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `FZga7THab4xM3Z5DwRCje9feVL5gJzriWvjxvGGspump`
 
 | Time | Action | SOL | TX |
@@ -46,7 +55,7 @@
 
 ### 🟢 DORO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.40x
+- **Peak:** 1.86x | **Current:** 1.45x
 - **Mint:** `EhHXDMC3UwX1SQnSVhETz4AeYRYPShvfBp95uQsApump`
 
 | Time | Action | SOL | TX |

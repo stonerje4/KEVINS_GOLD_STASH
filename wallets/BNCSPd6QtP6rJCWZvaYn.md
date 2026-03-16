@@ -1,5 +1,5 @@
 # Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 00:35 UTC
+> Generated: 2026-03-16 00:40 UTC
 
 | Metric | Value |
 |--------|-------|
@@ -7,15 +7,15 @@
 | Open | 2 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.001183 |
-| **P&L** | **+0.000583 SOL** |
-| **ROI** | **+97.1%** |
+| SOL Out (sells) | 0.001545 |
+| **P&L** | **+0.000945 SOL** |
+| **ROI** | **+157.5%** |
 
 ## Trades
 
 ### 🟢 TWINKLE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.53x | **Current:** 0.88x
+- **Peak:** 1.53x | **Current:** 0.89x
 - **Mint:** `AJa11Um6nQBBtRULwbW7TGxaXNDs3LuimcE9eLAypump`
 
 | Time | Action | SOL | TX |
@@ -34,11 +34,12 @@
 | 2026-03-16 00:29:08 | SELL | 0.000819 | `3fWLsbHiurP5UbdfCwQCj8uHuvsZgH...` |
 
 ### 🟢 Parliament
-- **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.69x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.89x | **Current:** 2.49x
 - **Mint:** `EuB16g7D9z45htKh12WwQ8p75DiT82C4eQNsswn5qG2M`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 22:10:15 | BUY | 0.000600 | `4nfctkScPRJHTrfrPnnC3E27fDrPBk...` |
+| 2026-03-16 00:36:25 | SELL | 0.000362 | `2pCozxGDS5fUpZthbm137QFgpyfpg8...` |
 
