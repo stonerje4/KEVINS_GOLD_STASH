@@ -1,5 +1,5 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-16 19:45 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,15 @@
 ## Trades
 
 ### 🟢 BUCK
-- **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 4.21x | **Current:** 0.00x
 - **Mint:** `FpsuCfZkrKJbJB6cY1ES7gTtnpr3LiEqMvxaixiBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 19:40:19 | BUY | 0.150000 | `4FiTi5HxYNMrDrAYoyXm1Py5ZEvEDy...` |
+| 2026-03-16 19:46:03 | SELL | 0.032008 | `5YPrThwn7Emc5HAQSR5MHDQyumiAaD...` |
+| 2026-03-16 19:47:44 | SELL | 0.046825 | `4iEkTaMwxkfnqk2BEDsHurXdpxteD9...` |
 
 ### 🟢 zeroxoneb
 - **Status:** open | **Exit:** open
