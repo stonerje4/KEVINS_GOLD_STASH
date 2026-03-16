@@ -1,15 +1,15 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 05:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 22 |
-| Open | 20 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
+| Open | 19 |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
 | SOL Out (sells) | 0.002357 |
-| **P&L** | **+0.001157 SOL** |
-| **ROI** | **+96.4%** |
+| **P&L** | **+0.000557 SOL** |
+| **ROI** | **+30.9%** |
 
 ## Trades
 
@@ -24,7 +24,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
@@ -198,16 +198,16 @@
 | 2026-03-15 22:17:36 | BUY | 0.000600 | `3soAb6bhBJ7Fo8JZT6CGBA8UGTnQwu...` |
 
 ### 🟢 PIGEON
-- **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.85x
+- **Status:** partial | **Exit:** stale_cleanup
+- **Peak:** 1.01x | **Current:** 0.88x
 - **Mint:** `7qoFnme6rNMdr8Hhsi7MB5oVJx5xD6aeiPevtWGEpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 21:58:45 | BUY | 0.000600 | `2E7nSCdvGLM7WJkM4xyhXxt3dNvG8E...` |
 
-### 🟢 WOOPA
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 WOOPA
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `C5DLfd6Ve2mrxJVrcqqawpPBcVFYRGPqqay8Qddipump`
 

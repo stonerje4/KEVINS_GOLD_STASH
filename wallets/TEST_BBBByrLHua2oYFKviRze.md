@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 05:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 20 |
+| Total Positions | 21 |
 | Open | 1 |
-| Closed | 19 |
-| SOL In (closed) | 0.011400 |
-| SOL Out (sells) | 0.009899 |
-| **P&L** | **-0.001501 SOL** |
-| **ROI** | **-13.2%** |
+| Closed | 20 |
+| SOL In (closed) | 0.012000 |
+| SOL Out (sells) | 0.010240 |
+| **P&L** | **-0.001760 SOL** |
+| **ROI** | **-14.7%** |
 
 ## Trades
+
+### 🔴 Gerald
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.57x
+- **Mint:** `7RvHupbWJDHt4mZLXYQxDfC6RrAYYBKA4YButDKdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:16:06 | BUY | 0.000600 | `3aM1E2irtU5QSH7tVSWgiEn2EwnGhq...` |
+| 2026-03-16 05:17:38 | SELL | 0.000341 | `5jfV6NH7Z4p39FSukNWknMuyRxBSWc...` |
 
 ### 🔴 Chase
 - **Status:** closed | **Exit:** ghost_close_stop_loss

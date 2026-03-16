@@ -1,17 +1,28 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 05:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
+| Total Positions | 11 |
 | Open | 3 |
-| Closed | 7 |
-| SOL In (closed) | 0.004200 |
-| SOL Out (sells) | 0.002528 |
-| **P&L** | **-0.001672 SOL** |
-| **ROI** | **-39.8%** |
+| Closed | 8 |
+| SOL In (closed) | 0.004800 |
+| SOL Out (sells) | 0.003074 |
+| **P&L** | **-0.001726 SOL** |
+| **ROI** | **-36.0%** |
 
 ## Trades
+
+### 🔴 AURA
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.18x | **Current:** 0.36x
+- **Mint:** `WJtVBuiLegCZdY5zKn8PMxFMR9Uedq2Zrmy1k4Ppump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:16:26 | BUY | 0.000600 | `2brsRddT6sFLj1dnTH3Wtbm3FfviN2...` |
+| 2026-03-16 05:18:13 | SELL | 0.000393 | `KbpnGr9Ve8hYfFpzoByvTWgfw3rRGY...` |
+| 2026-03-16 05:18:45 | SELL | 0.000153 | `3zeJBtKdz31QTKet2iK6zqtamQ91J4...` |
 
 ### 🔴 Salary
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
+# [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
 > Generated: 2026-03-16 05:20 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 PEEP
+### 🟢 STNK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
-- **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
+- **Peak:** 1.30x | **Current:** 1.15x
+- **Mint:** `3Kv8HYaDo9io2KoQDaU7QVYW3KxY6G4TH4HsFYKUpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 23:02:10 | BUY | 0.000600 | `4WvYLfqxmmJrQSx6k9gNpFtPmyQo4S...` |
+| 2026-03-16 05:15:33 | BUY | 0.000600 | `4qdr3gNgGimxv2zodbzuVtkym5f2Bb...` |
 
