@@ -1,5 +1,5 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 13:30 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 13:35 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
 
 ## 🧪 Test Wallet
 
@@ -14,12 +14,12 @@
 | 🟢 | `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN` | 5 | 4 | 1 | 1/3 | 25% | $+0.01 | +5.5% | $0.06 |
 | 🟢 | `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs` | 3 | 2 | 1 | 1/1 | 50% | $+0.01 | +5.3% | $0.06 |
 | ⚪ | `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA` | 1 | 0 | 1 | 0/0 | 0% | $+0.00 | +0.0% | $0.06 |
-| 🔴 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 15 | 8 | 7 | 2/6 | 25% | $-0.00 | -0.4% | $0.39 |
+| 🔴 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 16 | 8 | 8 | 2/6 | 25% | $-0.00 | -0.4% | $0.45 |
 | 🔴 | `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9` | 3 | 2 | 1 | 1/1 | 50% | $-0.00 | -0.4% | $0.06 |
 | 🔴 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | $-0.00 | -3.6% | — |
-| 🔴 | `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 193 | 143 | 50 | 28/115 | 20% | $-0.94 | -11.8% | $2.79 |
-| 🔴 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 54 | 48 | 6 | 8/40 | 17% | $-0.35 | -12.9% | $0.33 |
-| 🔴 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 42 | 41 | 1 | 7/34 | 17% | $-0.44 | -19.1% | $0.06 |
+| 🔴 | `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 195 | 146 | 49 | 29/117 | 20% | $-0.86 | -10.5% | $2.73 |
+| 🔴 | `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw` | 55 | 49 | 6 | 8/41 | 16% | $-0.38 | -14.0% | $0.33 |
+| 🔴 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 43 | 41 | 2 | 7/34 | 17% | $-0.44 | -19.1% | $0.11 |
 | 🔴 | `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus` | 4 | 4 | 0 | 1/3 | 25% | $-0.05 | -21.3% | — |
 | 🔴 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 20 | 13 | 7 | 2/11 | 15% | $-0.17 | -23.9% | $0.39 |
 | 🔴 | `2autqiinD2k2f1rbDMgZh5fJMrVdnTdB5vWc3Wa7PDZp` | 1 | 1 | 0 | 0/1 | 0% | $-0.02 | -30.9% | — |
@@ -28,7 +28,7 @@
 | 🔴 | `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx` | 5 | 5 | 0 | 1/4 | 20% | $-0.09 | -33.1% | — |
 | 🔴 | `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM` | 5 | 1 | 4 | 0/1 | 0% | $-0.02 | -33.2% | $0.22 |
 | 🔴 | `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz` | 2 | 2 | 0 | 0/2 | 0% | $-0.04 | -33.4% | — |
-| 🔴 | `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi` | 3 | 3 | 0 | 0/3 | 0% | $-0.06 | -34.7% | — |
+| 🔴 | `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi` | 4 | 3 | 1 | 0/3 | 0% | $-0.06 | -34.7% | $0.06 |
 | 🔴 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 1 | 0 | 0/1 | 0% | $-0.02 | -35.3% | — |
 | 🔴 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 4 | 4 | 0 | 0/4 | 0% | $-0.40 | -36.3% | — |
 | 🔴 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | 1 | 1 | 0 | 0/1 | 0% | $-0.02 | -36.4% | — |
@@ -48,7 +48,7 @@
 | 🔴 | `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog` | 3 | 3 | 0 | 0/3 | 0% | $-0.10 | -58.9% | — |
 | 🔴 | `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj` | 2 | 2 | 0 | 0/2 | 0% | $-0.07 | -66.0% | — |
 | 🔴 | `U3jiDzTcNJv5AB1WeRJco4aivebfvg5ZsGiyA6ZohYS` | 6 | 1 | 5 | 0/1 | 0% | $-0.04 | -73.3% | $0.28 |
-| 🔴 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 8 | 2 | 6 | 0/2 | 0% | $-0.95 | -96.5% | $0.33 |
+| 🔴 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 8 | 2 | 6 | 0/2 | 0% | $-0.91 | -92.8% | $0.33 |
 | 🔴 | `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur` | 1 | 1 | 0 | 0/1 | 0% | $-0.06 | -100.0% | — |
 | 🔴 | `GyHL98eooS4VwyDrnZdudJoBfkTTcM8G7ugkEEA9pwx` | 1 | 1 | 0 | 0/1 | 0% | $-0.06 | -100.0% | — |
 
