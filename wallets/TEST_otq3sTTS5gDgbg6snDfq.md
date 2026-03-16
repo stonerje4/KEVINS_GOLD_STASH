@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 09:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -33,7 +33,7 @@
 
 ### 🟢 CITYGIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.80x
+- **Peak:** 1.01x | **Current:** 0.90x
 - **Mint:** `C4g6BS4xXiqo7Y6LjiLykMNdVPuJkFfj7SRDQXUBpump`
 
 | Time | Action | SOL | TX |

@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 09:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 30 |
-| Open | 1 |
+| Total Positions | 31 |
+| Open | 2 |
 | Closed | 29 |
 | SOL In (closed) | 0.017400 |
 | SOL Out (sells) | 0.017769 |
@@ -12,6 +12,15 @@
 | **ROI** | **+2.1%** |
 
 ## Trades
+
+### 🟢 NEO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `5vrMuKfggUADzES69XWd17L3ZVNmU9GLWbvBRCoFpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 09:38:08 | BUY | 0.000600 | `BgoKDt3z6Uzjc5MLbuBG98H8UKnSBA...` |
 
 ### 🔴 ⚡ 👑
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -239,7 +248,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.15x
+- **Peak:** 1.59x | **Current:** 1.22x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |

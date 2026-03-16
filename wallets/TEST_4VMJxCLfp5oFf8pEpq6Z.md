@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 09:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 PUMPERS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.95x
+- **Peak:** 1.07x | **Current:** 0.90x
 - **Mint:** `GpPmQTqV3KeTRUWCxFtnw3VQHuAqqG4HWsxvw6Vwpump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +53,7 @@
 
 ### 🟢 CIRBP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.22x
+- **Peak:** 1.63x | **Current:** 1.13x
 - **Mint:** `4HsKJjmF1n41KDtkYM9Cxu8LKV7YC9GLGnXe5YtBpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 09:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.93x
+- **Peak:** 1.21x | **Current:** 0.90x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 Sonny
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.93x
+- **Peak:** 1.09x | **Current:** 0.92x
 - **Mint:** `EVHhyNdtZxXCvRVXeAggjXiahoAQxXhsifFEw6yWpump`
 
 | Time | Action | SOL | TX |
@@ -127,7 +127,7 @@
 
 ### 🟢 TIM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.85x | **Current:** 1.62x
+- **Peak:** 1.85x | **Current:** 1.70x
 - **Mint:** `9rZyxfCQhGCBcpbFW3LUjVKoBajVbN6kYdHmaFXSpump`
 
 | Time | Action | SOL | TX |
@@ -136,7 +136,7 @@
 
 ### 🟢 zoolander
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.83x
+- **Peak:** 1.05x | **Current:** 0.88x
 - **Mint:** `CVMQJUwFBdhHEcDEuAmT3B4RkkcRLJEALCQvDngmpump`
 
 | Time | Action | SOL | TX |

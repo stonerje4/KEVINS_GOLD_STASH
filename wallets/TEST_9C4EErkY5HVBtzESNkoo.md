@@ -1,26 +1,27 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 09:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 09:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 16 |
-| Open | 4 |
-| Closed | 12 |
-| SOL In (closed) | 0.007200 |
-| SOL Out (sells) | 0.002976 |
-| **P&L** | **-0.004224 SOL** |
-| **ROI** | **-58.7%** |
+| Open | 3 |
+| Closed | 13 |
+| SOL In (closed) | 0.007800 |
+| SOL Out (sells) | 0.003375 |
+| **P&L** | **-0.004425 SOL** |
+| **ROI** | **-56.7%** |
 
 ## Trades
 
-### 🟢 G1
-- **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 0.77x
+### 🔴 G1
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.45x | **Current:** 0.66x
 - **Mint:** `Bvn6oDJnLoWAqwyy7b2XSZ3dfonqbaPnNaG7uN8Upump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 06:58:15 | BUY | 0.000600 | `4awW5CGtX4Yd1f2E7vEr2Bv55tZdkF...` |
+| 2026-03-16 09:36:23 | SELL | 0.000398 | `2HehbCGBmJLcnpESJzCiWhdCSyWjtc...` |
 
 ### 🔴 FENTHOUSE
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -91,7 +92,7 @@
 
 ### 🟢 ZIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.79x | **Current:** 1.35x
+- **Peak:** 1.79x | **Current:** 1.26x
 - **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
 
 | Time | Action | SOL | TX |
