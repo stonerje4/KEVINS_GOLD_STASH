@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Superagent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.84x
+- **Peak:** 1.26x | **Current:** 1.05x
 - **Mint:** `HP17Vmciep1XwGZRTC1jdV1Rb8K7nvQqngMwSU3Fpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +44,7 @@
 
 ### 🟢 OpenShell
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.59x
+- **Peak:** 1.13x | **Current:** 0.73x
 - **Mint:** `Gc78hWdJRgEJVUXZvgVLhwcdmmXaVzpKA3NgYb3cpump`
 
 | Time | Action | SOL | TX |

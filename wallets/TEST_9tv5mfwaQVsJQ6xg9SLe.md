@@ -1,16 +1,16 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 4 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.000200 |
-| **Closed P&L** | **+0.000063 SOL** |
-| **Closed ROI** | **+31.3%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.000300 |
+| **Closed P&L** | **+0.000159 SOL** |
+| **Closed ROI** | **+53.0%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
@@ -24,15 +24,16 @@
 | 2026-03-16 17:54:25 | BUY | 0.000100 | `23yZAuPPWoYUpjzjiLohTURgMLAFiG...` |
 | 2026-03-16 18:01:37 | SELL | 0.000031 | `52Vv4s7UTZbtCakubn88qfCuN99vmw...` |
 
-### 🟢 唐某某
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.47x | **Current:** 1.07x
+### 🔴 唐某某
+- **Status:** closing | **Exit:** runner_trailing_stop
+- **Peak:** 2.47x | **Current:** 0.80x
 - **Mint:** `9aaEaHnNezimeAqzzBuj4ha2uMFc4L17eGDiezS1ANfu`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:48:24 | BUY | 0.000100 | `2hx5UGpmFtHettnqYNiWAG9DSH87e2...` |
 | 2026-03-16 17:53:46 | SELL | 0.000025 | `3BibP5KYix2oj3FTEfUPiAzqaFc4SX...` |
+| 2026-03-16 18:25:10 | SELL | 0.000072 | `3jkjN5bFdjJoCQYRMBmhXnkBXSAoA4...` |
 
 ### 🟢 MEATBAGS
 - **Status:** open | **Exit:** open
@@ -45,7 +46,7 @@
 
 ### 🟢 OpenHome
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.13x | **Current:** 3.13x
+- **Peak:** 3.21x | **Current:** 3.21x
 - **Mint:** `2WovvZ1KJrvWFS3KqPsCDGH8PVQaCmDuz4xDkoFbpump`
 
 | Time | Action | SOL | TX |

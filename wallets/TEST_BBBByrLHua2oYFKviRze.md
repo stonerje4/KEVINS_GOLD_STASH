@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ClaudeDog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 0.93x
+- **Peak:** 1.45x | **Current:** 0.90x
 - **Mint:** `ErSXPiXyRgfg1yKmMrK5unh3mWi52kA9KUX2mNgNpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 Moumou
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.00x | **Current:** 4.00x
+- **Peak:** 5.79x | **Current:** 5.79x
 - **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
 
 | Time | Action | SOL | TX |
@@ -51,10 +51,11 @@
 | 2026-03-16 17:43:46 | BUY | 0.000100 | `d7yT5ybqEAVDpvtqsm1NHTgediUeFm...` |
 | 2026-03-16 18:03:16 | SELL | 0.000023 | `5jADPQAPjPd6W9BnLfs2ucSJb8Wagb...` |
 | 2026-03-16 18:22:50 | SELL | 0.000031 | `4nTcpFFNrJWQkY1j21xJrerjs23Fyh...` |
+| 2026-03-16 18:25:08 | SELL | 0.000046 | `4bPuZP4uWxbVX7WJYY14nt9PWdZ6gz...` |
 
 ### 🟢 pandas
 - **Status:** partial | **Exit:** open
-- **Peak:** 5.98x | **Current:** 4.47x
+- **Peak:** 5.98x | **Current:** 4.69x
 - **Mint:** `68mNceCVGyv3MqhNowRvXaQ8C7wpY8E9i39r68nLpump`
 
 | Time | Action | SOL | TX |

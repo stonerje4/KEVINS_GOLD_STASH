@@ -1,5 +1,5 @@
 # [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 Donkeys
-- **Status:** open | **Exit:** open
-- **Peak:** 1.92x | **Current:** 1.92x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.20x | **Current:** 2.20x
 - **Mint:** `6M5wtvD1HTheUGFpQyNWWwuSXa3FwfZFLe4oWayWpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:21:59 | BUY | 0.000100 | `3p3pAaM2ivjvjTea2UFxxrZZMmswjK...` |
+| 2026-03-16 18:25:12 | SELL | 0.000022 | `pNZTLjbEiNWsAGKofUD6uVNPpL7wHn...` |
 
 ### 🟢 COALKID
 - **Status:** open | **Exit:** open

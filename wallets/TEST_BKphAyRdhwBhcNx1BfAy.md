@@ -1,22 +1,31 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 18:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 18:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 286 |
-| Open | 89 |
+| Total Positions | 287 |
+| Open | 90 |
 | Closed | 197 |
 | W/L | 190/7 |
 | SOL In (closed) | 0.100700 |
 | **Closed P&L** | **+0.088601 SOL** |
 | **Closed ROI** | **+88.0%** |
-| Open Deployed | 0.032400 SOL |
+| Open Deployed | 0.032500 SOL |
 
 ## Trades
 
+### 🟢 DGKN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `3aL2FZp821QST82nEbMxr2g3oMMedXn5kzDDxnPVpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 18:25:14 | BUY | 0.000100 | `4Wwui2pBEAhRgHvugjauA2XoAGrAM8...` |
+
 ### 🟢 LebFund
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `8Jwjqrb6sn8vHJxssFPoTdaFozdFbhxMgocqxHCFpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 RIZZUMER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.50x
+- **Peak:** 1.03x | **Current:** 0.44x
 - **Mint:** `64ybvBKax6tgPquv9Fz5owFCuRHCVKpeEv3FYLgYpump`
 
 | Time | Action | SOL | TX |
@@ -119,7 +128,7 @@
 
 ### 🟢 Optimus
 - **Status:** open | **Exit:** open
-- **Peak:** 1.79x | **Current:** 1.30x
+- **Peak:** 1.79x | **Current:** 1.39x
 - **Mint:** `AFj2Ff3vVhi3UUhG4nwkGbfVEeDUa8NdhkJ83rcVkk5a`
 
 | Time | Action | SOL | TX |
@@ -148,7 +157,7 @@
 
 ### 🟢 RLFG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 1.48x
+- **Peak:** 1.66x | **Current:** 1.32x
 - **Mint:** `CCZ82whciPVkMdUj3Uqn4TX76F6BZ7rEstWHUEKwpump`
 
 | Time | Action | SOL | TX |
@@ -728,7 +737,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.47x
+- **Peak:** 3.16x | **Current:** 2.56x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
