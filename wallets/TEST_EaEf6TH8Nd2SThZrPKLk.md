@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 BRUNO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.92x
+- **Peak:** 1.06x | **Current:** 0.86x
 - **Mint:** `7qZTpYKzFr6pf1D4cjL92pUHHukAZLxS4QRZmsuKpump`
 
 | Time | Action | SOL | TX |

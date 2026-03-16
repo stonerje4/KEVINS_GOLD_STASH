@@ -1,15 +1,15 @@
 # [PRD] Wallet: `4yjh9zfyhjqg3tCJbWgMHn4xcot5ogqimhnjJ7qXbixH`
-> Generated: 2026-03-16 07:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 07:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 37 |
-| Open | 3 |
-| Closed | 34 |
-| SOL In (closed) | 5.100000 |
+| Open | 2 |
+| Closed | 35 |
+| SOL In (closed) | 5.250000 |
 | SOL Out (sells) | 8.307850 |
-| **P&L** | **+3.207850 SOL** |
-| **ROI** | **+62.9%** |
+| **P&L** | **+3.057850 SOL** |
+| **ROI** | **+58.2%** |
 
 ## Trades
 
@@ -51,14 +51,15 @@
 | 2026-03-15 19:27:30 | BUY | 0.150000 | `2MsyjVzuuAP8Q8bKKEY9H5QsHoLv2z...` |
 | 2026-03-15 20:28:03 | SELL | 0.068523 | `63TsGL7KegTieJSADQ2zGehMrmJQ7i...` |
 
-### 🟢 AI
-- **Status:** open | **Exit:** open
+### 🔴 AI
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.04x | **Current:** 0.00x
 - **Mint:** `8397idkTkWhqhbB5nNEywMNcHfiQiJttgNdfmfWLpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-15 19:18:27 | BUY | 0.150000 | `3EmP3oP5DWkDum9wLzLFMZcai7qWEY...` |
+| 2026-03-16 07:04:04 | SELL | 0.000000 | `4dVD8xboHaGHwoCnzBJgUCEZL4p939...` |
 
 ### 🔴 마시멜
 - **Status:** closed | **Exit:** stop_loss

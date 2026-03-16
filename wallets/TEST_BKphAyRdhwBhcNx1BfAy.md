@@ -1,20 +1,29 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 07:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 99 |
+| Total Positions | 100 |
 | Open | 25 |
-| Closed | 74 |
-| SOL In (closed) | 0.044400 |
+| Closed | 75 |
+| SOL In (closed) | 0.045000 |
 | SOL Out (sells) | 0.045543 |
-| **P&L** | **+0.001143 SOL** |
-| **ROI** | **+2.6%** |
+| **P&L** | **+0.000543 SOL** |
+| **ROI** | **+1.2%** |
 
 ## Trades
 
-### 🟢 Knight
-- **Status:** partial | **Exit:** stop_loss
+### 🟢 PLAMO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.06x | **Current:** 1.06x
+- **Mint:** `D1eTUxKkAfTWKEWSYJjaAVugEPTCviLWf637GUDQpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 07:00:27 | BUY | 0.000600 | `5EP93nN5i9xCgdRHUMvpNabQWXQSWT...` |
+
+### 🔴 Knight
+- **Status:** closed | **Exit:** ghost_close_stop_loss
 - **Peak:** 1.29x | **Current:** 0.64x
 - **Mint:** `CBiiqU2uidkMcK7BKwc8ufEoMS1PunvJLAZeCzGRpump`
 
@@ -35,7 +44,7 @@
 
 ### 🟢 TOKEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.98x
 - **Mint:** `Go3J5WxxRJjr56kC271ztysCuePQyKur3DPGckNSpump`
 
 | Time | Action | SOL | TX |
@@ -723,7 +732,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.15x
+- **Peak:** 1.43x | **Current:** 1.07x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -846,7 +855,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.23x
+- **Peak:** 1.79x | **Current:** 1.19x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
@@ -948,7 +957,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 1.59x
+- **Peak:** 1.77x | **Current:** 1.77x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
