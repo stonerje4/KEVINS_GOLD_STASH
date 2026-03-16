@@ -1,5 +1,5 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-16 02:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 02:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 DIMOS
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.91x | **Current:** 0.00x
+- **Peak:** 3.40x | **Current:** 0.00x
 - **Mint:** `J3TbY9GgQDkvUSw8CnLyrAoiZJRsuYtbcQTMRz3gpump`
 
 | Time | Action | SOL | TX |

@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 02:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 02:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
+| Total Positions | 6 |
 | Open | 0 |
-| Closed | 5 |
-| SOL In (closed) | 0.003000 |
-| SOL Out (sells) | 0.002544 |
-| **P&L** | **-0.000456 SOL** |
-| **ROI** | **-15.2%** |
+| Closed | 6 |
+| SOL In (closed) | 0.003600 |
+| SOL Out (sells) | 0.002918 |
+| **P&L** | **-0.000682 SOL** |
+| **ROI** | **-18.9%** |
 
 ## Trades
+
+### 🔴 bluecollar
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.43x | **Current:** 0.65x
+- **Mint:** `GL4gAWHzRSuc3szMLTBDP13MqUKoR88NPN4d1AKgpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:01:19 | BUY | 0.000600 | `2LkYQXUk4dk6c3oox6oExrApFPaQ4u...` |
+| 2026-03-16 02:03:33 | SELL | 0.000374 | `3D6fn2cAbu1fktRjYakTDwHKAwMADS...` |
 
 ### 🔴 ASI
 - **Status:** closed | **Exit:** stop_loss

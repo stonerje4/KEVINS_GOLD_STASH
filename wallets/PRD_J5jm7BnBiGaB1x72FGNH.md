@@ -1,5 +1,5 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-16 02:00 UTC | Environment: **PRD**
+> Generated: 2026-03-16 02:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Hospice
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.00x
+- **Peak:** 1.96x | **Current:** 0.00x
 - **Mint:** `7RpvnxXy2MciEEC15zRqUGjM9BtmptozJQaWgpkGpump`
 
 | Time | Action | SOL | TX |
