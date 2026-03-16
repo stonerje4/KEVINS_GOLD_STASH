@@ -1,22 +1,22 @@
 # [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
-> Generated: 2026-03-16 15:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 2 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.001200 |
-| **Closed P&L** | **+0.001195 SOL** |
-| **Closed ROI** | **+99.6%** |
-| Open Deployed | 0.001200 SOL |
+| Open | 1 |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.001800 |
+| **Closed P&L** | **+0.002296 SOL** |
+| **Closed ROI** | **+127.6%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
 ### 🟢 AIFREE
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.35x | **Current:** 2.50x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.35x | **Current:** 1.61x
 - **Mint:** `Dqckh2A2JUWVBpNAxhcVGwKNDEAer5Jf8LV76hhpump`
 
 | Time | Action | SOL | TX |
@@ -24,6 +24,7 @@
 | 2026-03-16 13:57:27 | BUY | 0.000600 | `WDv8oR63o3Dpyznjs41U4yymBYjqhv...` |
 | 2026-03-16 14:38:59 | SELL | 0.000151 | `49VwEMdPzK7ds6qyDie8qN47dfDVqz...` |
 | 2026-03-16 14:45:10 | SELL | 0.000167 | `5nk5nccTKUkPfRUjmMUScxktd6kbFY...` |
+| 2026-03-16 15:02:29 | SELL | 0.000784 | `33GTJTKQBZyYwfQfbHD8ziVcZLKnWQ...` |
 
 ### 🟢 GORILLA
 - **Status:** open | **Exit:** open

@@ -1,31 +1,50 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 15:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 62 |
-| Open | 6 |
-| Closed | 56 |
-| W/L | 55/1 |
-| SOL In (closed) | 0.033100 |
-| **Closed P&L** | **+0.027886 SOL** |
-| **Closed ROI** | **+84.2%** |
-| Open Deployed | 0.002600 SOL |
+| Total Positions | 64 |
+| Open | 7 |
+| Closed | 57 |
+| W/L | 56/1 |
+| SOL In (closed) | 0.033200 |
+| **Closed P&L** | **+0.027910 SOL** |
+| **Closed ROI** | **+84.1%** |
+| Open Deployed | 0.002700 SOL |
 
 ## Trades
 
-### 🟢 LUCID
+### 🟢 6
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.94x
+- **Mint:** `5rZmCDBKD5PdnTcmB6L82MhgYF7SLuP1mCGg1BuYpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:03:28 | BUY | 0.000100 | `2f5GkDtWa8fZDA82Z9VUiMTM9H2HcY...` |
+
+### 🟢 CHANGSHA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.55x | **Current:** 1.37x
+- **Mint:** `2CZjXETQ9efUDNT6iYgX2bn6Stuxk1FenxhCCsagpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:02:06 | BUY | 0.000100 | `5ez4mJaWWuiYurMYuxRazBP1CkpKck...` |
+
+### 🔴 LUCID
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.24x
 - **Mint:** `3y3d5wUfHyST2mKz7PTXgC5JeUt4vWV6fzka6oHDpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:59:40 | BUY | 0.000100 | `5H71uNuYgtny7W5HLgXCc5uqK85ruf...` |
+| 2026-03-16 15:00:43 | SELL | 0.000024 | `4eJCn97MfEVmt9QXHY382M1Z9DGENa...` |
 
 ### 🟢 DIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.06x | **Current:** 1.04x
 - **Mint:** `H9Jt1usRpJkbFSJinbhd9XokafnKi2mdfyCe6e2xpump`
 
 | Time | Action | SOL | TX |
@@ -207,7 +226,7 @@
 
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.72x
+- **Peak:** 1.12x | **Current:** 0.71x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |

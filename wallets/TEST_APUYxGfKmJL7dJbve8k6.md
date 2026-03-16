@@ -1,22 +1,32 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 15:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 26 |
+| Total Positions | 27 |
 | Open | 3 |
-| Closed | 23 |
-| W/L | 19/4 |
-| SOL In (closed) | 0.013300 |
-| **Closed P&L** | **+0.008935 SOL** |
-| **Closed ROI** | **+67.2%** |
+| Closed | 24 |
+| W/L | 20/4 |
+| SOL In (closed) | 0.013400 |
+| **Closed P&L** | **+0.008971 SOL** |
+| **Closed ROI** | **+66.9%** |
 | Open Deployed | 0.000300 SOL |
 
 ## Trades
 
+### 🔴 Metacoin
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.18x | **Current:** 0.36x
+- **Mint:** `2pWyueU4W4CEuPC5iLXwruvZ1u9o2LLH6s8bjyV8pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:02:09 | BUY | 0.000100 | `49113tGCKYsXNGrFuAsBBDHjpdYPw5...` |
+| 2026-03-16 15:03:13 | SELL | 0.000036 | `U13LurboBvKpRhkN1oaAVstzG1kU7p...` |
+
 ### 🟢 SOLANASOLANA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.63x
+- **Peak:** 1.03x | **Current:** 0.64x
 - **Mint:** `FWSNaEE6fXFoEdUQtp5kSV5FDNo478eLJtnoEenUVrzD`
 
 | Time | Action | SOL | TX |
@@ -25,7 +35,7 @@
 
 ### 🟢 dog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 1.13x
+- **Peak:** 1.49x | **Current:** 0.47x
 - **Mint:** `2y5cUqUa9gHRqebmKJ8aM8qxxGbu4re8YA3Tya7zEFud`
 
 | Time | Action | SOL | TX |

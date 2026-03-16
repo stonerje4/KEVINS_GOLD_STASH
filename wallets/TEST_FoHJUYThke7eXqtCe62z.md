@@ -1,22 +1,31 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 15:00 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 48 |
-| Open | 32 |
+| Total Positions | 49 |
+| Open | 33 |
 | Closed | 16 |
 | W/L | 8/8 |
 | SOL In (closed) | 0.019000 |
 | **Closed P&L** | **+0.008297 SOL** |
 | **Closed ROI** | **+43.7%** |
-| Open Deployed | 0.018700 SOL |
+| Open Deployed | 0.018800 SOL |
 
 ## Trades
 
+### 🟢 DroydAI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.74x | **Current:** 1.48x
+- **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:00:27 | BUY | 0.000100 | `4YUhn93PTFGQunykV1qTH9tokeyjjq...` |
+
 ### 🟢 Moonigga
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.01x
+- **Peak:** 1.03x | **Current:** 0.92x
 - **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 CL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.28x
+- **Peak:** 1.90x | **Current:** 1.11x
 - **Mint:** `CafXWB7PWgXsPYyQ7A3hqpQhjrZdYPe59TUQnpXWpump`
 
 | Time | Action | SOL | TX |
@@ -72,7 +81,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.04x | **Current:** 1.04x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |
@@ -288,7 +297,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
