@@ -1,26 +1,36 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 02:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
+| Total Positions | 9 |
 | Open | 3 |
-| Closed | 5 |
-| SOL In (closed) | 0.003000 |
-| SOL Out (sells) | 0.002373 |
-| **P&L** | **-0.000627 SOL** |
-| **ROI** | **-20.9%** |
+| Closed | 6 |
+| SOL In (closed) | 0.003600 |
+| SOL Out (sells) | 0.002407 |
+| **P&L** | **-0.001193 SOL** |
+| **ROI** | **-33.2%** |
 
 ## Trades
 
-### 🟢 TOTX
+### 🟢 0.0000001
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.17x | **Current:** 1.08x
+- **Mint:** `44HoJprq4b9Bdtqyh68QuTfAQKNg4Z5yHs1aHYWbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 02:58:34 | BUY | 0.000600 | `48Ui6bcQn8FUjRLBWqF1ZqfyMV4Tos...` |
+
+### 🔴 TOTX
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.03x
 - **Mint:** `5a3y6hDhWEP1knjuXuXBqA7Kg1GGGVuJ2U9X8fHKpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:54:37 | BUY | 0.000600 | `Fj7UMWXZXoDmXVtCoKK6LXe9S3s236...` |
+| 2026-03-16 02:55:44 | SELL | 0.000033 | `218N2Qc7Zv1nRtxyNskX9xtYwgpfmE...` |
 
 ### 🟢 Crkhd
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
