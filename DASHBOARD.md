@@ -1,5 +1,5 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-16 00:00 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-16 00:05 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
@@ -101,13 +101,13 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `9xMo2sv9tDY5QVjnakjxykx2Qvy9K5FJ2NUNbVgq83c1` |
-| SOL Balance | 4.1028 SOL |
-| Open Positions | 17 (2.5500 SOL deployed) |
-| Closed Positions | 550 |
+| SOL Balance | 4.3167 SOL |
+| Open Positions | 16 (2.4000 SOL deployed) |
+| Closed Positions | 551 |
 | Total Deposited | ~7.34 SOL |
 | SOL Bought (bot) | 58.00 SOL |
 | SOL Sold (bot) | 55.05 SOL |
-| **Real P&L (on-chain)** | **-0.6872 SOL (-9.4%)** |
+| **Real P&L (on-chain)** | **-0.6233 SOL (-8.5%)** |
 
 ### Per-Wallet Breakdown (sorted by ROI)
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | SOL Out | P&L | ROI |
@@ -153,7 +153,7 @@
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 31 | 30 | 1 | 2/28 | 7% | 4.65 | 1.40 | 🔴 -3.252 | -69.9% |
 | `CqHQdW3Lp4HPDB2hdvzbkFdPzr13JkWeso74kLtBCi5w` | 2 | 2 | 0 | 0/2 | 0% | 0.30 | 0.09 | 🔴 -0.214 | -71.2% |
 | `3W3btL19KiCgVMBffXAn4oANHDPgUefF6bapr415iXVM` | 14 | 14 | 0 | 5/9 | 36% | 2.10 | 0.56 | 🔴 -1.542 | -73.4% |
-| `FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz` | 16 | 13 | 3 | 5/8 | 38% | 1.86 | 0.45 | 🔴 -1.411 | -75.9% |
+| `FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz` | 16 | 14 | 2 | 6/8 | 43% | 1.86 | 0.45 | 🔴 -1.411 | -75.9% |
 | `ESxHJpMqsjVpg5mqk2twf8ak2NuAfQXbLxGWxaVcNXPd` | 4 | 4 | 0 | 0/4 | 0% | 0.20 | 0.03 | 🔴 -0.172 | -86.0% |
 | `4Be9CvxqHW6BYiRAxW9Q3xu1ycTMWaL5z8NX4HR3ha7t` | 1 | 1 | 0 | 0/1 | 0% | 0.05 | 0.00 | 🔴 -0.050 | -100.0% |
 | `6c2asHNf5gWgZvPXVYQ4ebJCUYspEbmaz2A7M7p84RcN` | 1 | 1 | 0 | 0/1 | 0% | 0.05 | 0.00 | 🔴 -0.050 | -100.0% |
