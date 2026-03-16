@@ -1,10 +1,10 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 05:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 05:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 11 |
-| Open | 9 |
+| Total Positions | 12 |
+| Open | 10 |
 | Closed | 2 |
 | SOL In (closed) | 0.001200 |
 | SOL Out (sells) | 0.000789 |
@@ -12,6 +12,15 @@
 | **ROI** | **-34.2%** |
 
 ## Trades
+
+### 🟢 LOCK
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:33:25 | BUY | 0.000600 | `36PB9KA3iPGuZuvTKJAufgaxGP3QYG...` |
 
 ### 🟢 Hoseob
 - **Status:** open | **Exit:** open
@@ -42,7 +51,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
@@ -51,7 +60,7 @@
 
 ### 🟢 BOA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.04x
+- **Peak:** 1.13x | **Current:** 1.00x
 - **Mint:** `Dt3vBiGi9ceMsqH9EeTJRQEku9C1rrBNB1vMzZVgZKYx`
 
 | Time | Action | SOL | TX |
@@ -70,7 +79,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.17x
+- **Peak:** 1.18x | **Current:** 1.16x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |

@@ -1,17 +1,17 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-16 05:30 UTC** | Auto-refreshes every 5 min
+> Last updated: **2026-03-16 05:35 UTC** | Auto-refreshes every 5 min
 
 
 ## 🧪 Test Wallet (Real Money)
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.1225 SOL |
-| Open Positions | 102 (0.0706 SOL deployed) |
+| SOL Balance | 1.1142 SOL |
+| Open Positions | 105 (0.0724 SOL deployed) |
 | Closed Positions | 181 |
-| Total Positions | 283 |
+| Total Positions | 286 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.9069 SOL (-90.7%)** |
+| **Real P&L (on-chain)** | **-0.9134 SOL (-91.3%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
@@ -28,12 +28,12 @@
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 2 | 0 | 2 | 0/0 | 0% | 0.0106 | ⚪ +0.000000 | +0.0% |
 | `U3jiDzTcNJv5AB1WeRJco4aivebfvg5ZsGiyA6ZohYS` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | ⚪ +0.000000 | +0.0% |
 | `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 2 | 2 | 0 | 1/1 | 50% | 0.0012 | 🔴 -0.000044 | -3.6% |
-| `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 14 | 7 | 7 | 2/5 | 29% | 0.0084 | 🔴 -0.000254 | -6.0% |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 75 | 51 | 24 | 11/40 | 22% | 0.0450 | 🔴 -0.005127 | -16.8% |
+| `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 15 | 7 | 8 | 2/5 | 29% | 0.0090 | 🔴 -0.000254 | -6.0% |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 76 | 51 | 25 | 11/40 | 22% | 0.0456 | 🔴 -0.004455 | -14.6% |
 | `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 21 | 21 | 0 | 4/17 | 19% | 0.0126 | 🔴 -0.002360 | -18.7% |
 | `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 22 | 21 | 1 | 4/17 | 19% | 0.0132 | 🔴 -0.004100 | -32.5% |
 | `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz` | 2 | 2 | 0 | 0/2 | 0% | 0.0012 | 🔴 -0.000401 | -33.4% |
-| `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 11 | 2 | 9 | 0/2 | 0% | 0.0066 | 🔴 -0.000411 | -34.2% |
+| `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 12 | 2 | 10 | 0/2 | 0% | 0.0072 | 🔴 -0.000411 | -34.2% |
 | `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000207 | -34.5% |
 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000212 | -35.3% |
 | `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo` | 11 | 8 | 3 | 1/7 | 12% | 0.0066 | 🔴 -0.001726 | -36.0% |
