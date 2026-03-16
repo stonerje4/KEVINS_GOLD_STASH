@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 05:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 SMOKE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.25x
+- **Peak:** 1.42x | **Current:** 1.42x
 - **Mint:** `22jZueT7geHH1BKyrJ753ATgSnwj665ctRnvqYVspump`
 
 | Time | Action | SOL | TX |
@@ -69,7 +69,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
@@ -87,7 +87,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |
@@ -125,7 +125,7 @@
 
 ### 🟢 Ryder
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.76x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |
@@ -181,7 +181,7 @@
 
 ### 🟢 NPC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.79x
+- **Peak:** 1.02x | **Current:** 0.86x
 - **Mint:** `5NrVvCRuNctUbQTkSP8pwEeAd4n9g59bguUgUn7npump`
 
 | Time | Action | SOL | TX |

@@ -1,21 +1,48 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 05:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 79 |
-| Open | 24 |
-| Closed | 55 |
-| SOL In (closed) | 0.033000 |
+| Total Positions | 82 |
+| Open | 26 |
+| Closed | 56 |
+| SOL In (closed) | 0.033600 |
 | SOL Out (sells) | 0.031187 |
-| **P&L** | **-0.001813 SOL** |
-| **ROI** | **-5.5%** |
+| **P&L** | **-0.002413 SOL** |
+| **ROI** | **-7.2%** |
 
 ## Trades
 
+### 🟢 DRONE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.92x
+- **Mint:** `GBmawmE9jJvyYVbdgTdYi9NXsjWwR5EaytvkrRwcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:59:25 | BUY | 0.000600 | `yqdf9YrXYgCUA2tfV7F2stit5dxX7h...` |
+
+### 🟢 Goatse
+- **Status:** open | **Exit:** open
+- **Peak:** 1.22x | **Current:** 1.22x
+- **Mint:** `8Nf1MG8hUqKxrSah59wWbJEggsraZUR9trX3sjjapump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:58:33 | BUY | 0.000600 | `2TF1vadSmwvT9cQwYjeqAhXXj11Tm4...` |
+
+### 🟢 骡子快跑
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.92x
+- **Mint:** `BmZnETG7aTfgCCm7b3V8JU9122usumdXeM283HWgpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 05:56:42 | BUY | 0.000600 | `36gSoRNDNfz33CUi3WFwo7EK9jPEFn...` |
+
 ### 🟢 MNST
-- **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 3.32x | **Current:** 2.90x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.32x | **Current:** 2.47x
 - **Mint:** `27M1YFrWA9wmfoEKHg9PoAnG1UknXbo9t1VyHmVDpump`
 
 | Time | Action | SOL | TX |
@@ -56,7 +83,7 @@
 
 ### 🟢 NOCOIN
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.14x | **Current:** 3.14x
+- **Peak:** 3.26x | **Current:** 3.26x
 - **Mint:** `FzbfZQpZX7Zw5XhtZav7sQdULfpN6Z7nReiGxpCApump`
 
 | Time | Action | SOL | TX |
@@ -77,7 +104,7 @@
 
 ### 🟢 plumber
 - **Status:** partial | **Exit:** open
-- **Peak:** 12.01x | **Current:** 9.94x
+- **Peak:** 12.32x | **Current:** 11.02x
 - **Mint:** `2Pah9ZUfpii27ABrWfQorzdW8FSJimxj6izFr4oGpump`
 
 | Time | Action | SOL | TX |
@@ -148,7 +175,7 @@
 
 ### 🟢 Übermensch
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.76x
+- **Peak:** 1.00x | **Current:** 0.75x
 - **Mint:** `651nrR2zXYRXX9qZFMVRfSgv1Faafep78XK65SeXpump`
 
 | Time | Action | SOL | TX |
@@ -167,7 +194,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.56x
+- **Peak:** 1.87x | **Current:** 1.35x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -371,7 +398,7 @@
 
 ### 🟢 Crawstar
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.08x | **Current:** 1.55x
+- **Peak:** 2.08x | **Current:** 1.85x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -437,7 +464,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.02x
+- **Peak:** 1.06x | **Current:** 1.00x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |
@@ -518,7 +545,7 @@
 
 ### 🟢 optional
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.96x
+- **Peak:** 1.16x | **Current:** 1.11x
 - **Mint:** `6RmtQrcZVyp7YySUmLwdEVGreNgeVSDv8grJQW7Apump`
 
 | Time | Action | SOL | TX |
@@ -743,7 +770,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.00x
+- **Peak:** 1.24x | **Current:** 1.01x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
@@ -782,7 +809,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.74x
+- **Peak:** 1.37x | **Current:** 0.72x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |

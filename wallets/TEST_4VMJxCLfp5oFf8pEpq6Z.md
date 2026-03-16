@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 05:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 
 ### 🟢 PUMPERS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.91x
+- **Peak:** 1.02x | **Current:** 0.86x
 - **Mint:** `GpPmQTqV3KeTRUWCxFtnw3VQHuAqqG4HWsxvw6Vwpump`
 
 | Time | Action | SOL | TX |
@@ -42,7 +42,7 @@
 
 ### 🟢 CIRBP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.08x
+- **Peak:** 1.63x | **Current:** 1.07x
 - **Mint:** `4HsKJjmF1n41KDtkYM9Cxu8LKV7YC9GLGnXe5YtBpump`
 
 | Time | Action | SOL | TX |
@@ -71,7 +71,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.95x
+- **Peak:** 1.24x | **Current:** 0.92x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
@@ -101,7 +101,7 @@
 
 ### 🟢 WhiteBoy 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 1.07x
+- **Peak:** 1.14x | **Current:** 1.06x
 - **Mint:** `F4Xiqh73LCvr8EUbZLDRJv4zrbV7DZw9WLxsbBRwpump`
 
 | Time | Action | SOL | TX |

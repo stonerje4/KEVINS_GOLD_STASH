@@ -1,27 +1,28 @@
 # [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
-> Generated: 2026-03-16 05:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 06:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| SOL In (closed) | 0.000600 |
-| SOL Out (sells) | 0.000756 |
-| **P&L** | **+0.000156 SOL** |
-| **ROI** | **+26.0%** |
+| Open | 0 |
+| Closed | 2 |
+| SOL In (closed) | 0.001200 |
+| SOL Out (sells) | 0.001195 |
+| **P&L** | **-0.000005 SOL** |
+| **ROI** | **-0.4%** |
 
 ## Trades
 
 ### 🟢 tiger
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.82x | **Current:** 1.73x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.82x | **Current:** 1.04x
 - **Mint:** `9ZoMfMP5qCG8tWdtBZ9AoWKB8YheypR7BLTKvusspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:44:16 | BUY | 0.000600 | `3FKgevKZ2z3HHAyYLytfhSNcwAiftE...` |
 | 2026-03-16 05:51:21 | SELL | 0.000362 | `5Hx5KAp7jnY6MjSApNsjqJtSmxPi1E...` |
+| 2026-03-16 05:56:02 | SELL | 0.000439 | `2HhpvrxM2ZWm7gGZtj441XJXcofoun...` |
 
 ### 🔴 STNK
 - **Status:** closed | **Exit:** ghost_close_stop_loss

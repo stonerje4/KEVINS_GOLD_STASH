@@ -1,5 +1,5 @@
 # [PRD] Wallet: `AF5TxaadSbpkqaxxGLzri5uKqc9oQcqt1vZo8NvMmZ1g`
-> Generated: 2026-03-16 05:55 UTC | Environment: **PRD**
+> Generated: 2026-03-16 06:00 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -7,9 +7,9 @@
 | Open | 0 |
 | Closed | 9 |
 | SOL In (closed) | 1.150000 |
-| SOL Out (sells) | 1.174618 |
-| **P&L** | **+0.024618 SOL** |
-| **ROI** | **+2.1%** |
+| SOL Out (sells) | 1.254303 |
+| **P&L** | **+0.104303 SOL** |
+| **ROI** | **+9.1%** |
 
 ## Trades
 
@@ -23,6 +23,7 @@
 | 2026-03-16 05:43:15 | BUY | 0.150000 | `4WXZqf8hwoyezNSCueAnjemTUAZiGb...` |
 | 2026-03-16 05:44:22 | SELL | 0.096638 | `3r3zWUsmhAwzpjhgxWU7GiHCtoGGL9...` |
 | 2026-03-16 05:51:07 | BUY | 0.150000 | `3FhU8XXzoANqngwaqWeLrhVUyikeqg...` |
+| 2026-03-16 05:55:53 | SELL | 0.079685 | `3G86UopYNDuDK4DNR5xo4smbREe7xX...` |
 
 ### 🔴 STNK
 - **Status:** closed | **Exit:** stop_loss
