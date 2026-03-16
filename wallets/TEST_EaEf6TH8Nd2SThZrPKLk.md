@@ -1,27 +1,37 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 89 |
+| Total Positions | 90 |
 | Open | 17 |
-| Closed | 72 |
-| W/L | 71/1 |
-| SOL In (closed) | 0.035200 |
-| **Closed P&L** | **+0.029650 SOL** |
-| **Closed ROI** | **+84.2%** |
+| Closed | 73 |
+| W/L | 72/1 |
+| SOL In (closed) | 0.035300 |
+| **Closed P&L** | **+0.029688 SOL** |
+| **Closed ROI** | **+84.1%** |
 | Open Deployed | 0.003200 SOL |
 
 ## Trades
 
-### 🟢 🦞Y🦞
+### 🟢 SIRI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.55x
+- **Peak:** 1.84x | **Current:** 1.84x
+- **Mint:** `8S2iD5M7HwE5zXC4u6ReaPLGdztTM24d9JCVREu5pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:28:06 | BUY | 0.000100 | `4AQwuyHwTESQmGutopfrQtDFU9UC2g...` |
+
+### 🔴 🦞Y🦞
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.36x
 - **Mint:** `dXDm5y19t4sNkfqyMXjHbdVfDKcdfoytwUnfh9cpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:21:08 | BUY | 0.000100 | `2CvxREd4rpgTggJgK9TaVsZGL9q499...` |
+| 2026-03-16 17:27:12 | SELL | 0.000038 | `uwo5D6DYKVHVcpXjdvhjUdLPVkh8nV...` |
 
 ### 🟢 AGENTDUCK
 - **Status:** open | **Exit:** open
@@ -44,7 +54,7 @@
 
 ### 🟢 唐某某
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.44x
+- **Peak:** 1.04x | **Current:** 0.43x
 - **Mint:** `DH6WNNPRgLgEteFUaXTZB2hAUgqt434vsXudsQpGpump`
 
 | Time | Action | SOL | TX |
@@ -509,7 +519,7 @@
 
 ### 🟢 MATM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.64x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `9gg1QdcoEcqFaYZeA1FhMWw9i2BPJMrx1c6UH6CKpump`
 
 | Time | Action | SOL | TX |
@@ -581,7 +591,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.16x | **Current:** 1.79x
+- **Peak:** 2.16x | **Current:** 1.61x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |

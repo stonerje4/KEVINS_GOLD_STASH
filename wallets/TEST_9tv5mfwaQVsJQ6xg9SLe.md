@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 OpenHome
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.25x | **Current:** 1.25x
 - **Mint:** `2WovvZ1KJrvWFS3KqPsCDGH8PVQaCmDuz4xDkoFbpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 GIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 0.60x
+- **Peak:** 1.25x | **Current:** 0.77x
 - **Mint:** `5nmrpznhrs46WWrKyxb4Liqc41F3msD7A6RLGxwHpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 TANG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.04x
+- **Peak:** 1.90x | **Current:** 0.93x
 - **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
 
 | Time | Action | SOL | TX |

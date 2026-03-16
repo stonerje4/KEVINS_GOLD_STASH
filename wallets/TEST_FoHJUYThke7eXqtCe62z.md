@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 A17
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.40x | **Current:** 1.40x
 - **Mint:** `GsJRsRRapMiDd9Tb3FrTuZPmxQg5RBG52BjWw6Fb1KT5`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 RAVEN
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.22x | **Current:** 3.53x
+- **Peak:** 4.36x | **Current:** 4.14x
 - **Mint:** `6aeUKhVibBWEf21vd9N8YnLhNQkfzKWSkeucFyZvpump`
 
 | Time | Action | SOL | TX |
@@ -235,7 +235,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.91x
+- **Peak:** 1.06x | **Current:** 0.81x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |
@@ -319,7 +319,7 @@
 
 ### 🟢 Wife
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.69x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `RSvkQUEBvN9bQ56cSmnu5wJkdTFXjBqAMpYQcSUpump`
 
 | Time | Action | SOL | TX |
@@ -375,7 +375,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.92x
+- **Peak:** 1.05x | **Current:** 0.91x
 - **Mint:** `6gjdV7soB8RiKvGdMh6XMinsPVyeG4TprL4rYrFQpump`
 
 | Time | Action | SOL | TX |

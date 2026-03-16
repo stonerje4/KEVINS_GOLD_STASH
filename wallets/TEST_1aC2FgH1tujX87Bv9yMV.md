@@ -1,18 +1,28 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 3 |
+| Total Positions | 4 |
+| Open | 4 |
 | Closed | 0 |
 | W/L | 0/0 |
 | SOL In (closed) | 0.000000 |
 | **Closed P&L** | **+0.000000 SOL** |
 | **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
+
+### 🟢 PIGEON
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.92x
+- **Mint:** `HUvdhx4exbZK9Rp2rfwGvcL6bTPTuYeQqKFER6b5X3aF`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:15:01 | BUY | 0.000100 | `?` |
+| 2026-03-16 17:25:57 | BUY | 0.000100 | `5VU8QhrQyK54qbXV2vUUH9aSRmNNkV...` |
 
 ### 🟢 Doraemon
 - **Status:** open | **Exit:** open

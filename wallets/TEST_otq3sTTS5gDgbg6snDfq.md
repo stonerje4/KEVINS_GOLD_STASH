@@ -1,18 +1,27 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 17:25 UTC | Environment: **TEST**
+> Generated: 2026-03-16 17:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 43 |
-| Open | 31 |
+| Total Positions | 44 |
+| Open | 32 |
 | Closed | 12 |
 | W/L | 4/8 |
 | SOL In (closed) | 0.007200 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+44.5%** |
-| Open Deployed | 0.016100 SOL |
+| Open Deployed | 0.016200 SOL |
 
 ## Trades
+
+### 🟢 ETERDLE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.97x
+- **Mint:** `kAY5qmYDorT6Rqop3wnJwUbn5Us4Jf8FVc2B1uApump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 17:28:58 | BUY | 0.000100 | `tCyrwJ5Nebb6u4nVUQQgATtds5Qhnt...` |
 
 ### 🟢 pumpfun
 - **Status:** open | **Exit:** open
@@ -206,7 +215,7 @@
 
 ### 🟢 MCoins
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.68x
+- **Peak:** 1.00x | **Current:** 0.67x
 - **Mint:** `EYhtmNznq4BF1qJHj2s6SmvQBfA6JDNjococNzCSpump`
 
 | Time | Action | SOL | TX |
@@ -234,7 +243,7 @@
 
 ### 🟢 Nostalgia
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `EBhMuwaPzF3uDWoeRjAKMMwjBWhoGNttJeh3bhr7pump`
 
 | Time | Action | SOL | TX |
