@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -50,7 +50,7 @@
 
 ### 🟢 DroydAI
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.06x | **Current:** 6.93x
+- **Peak:** 7.06x | **Current:** 6.42x
 - **Mint:** `8oX5A8dA8tmwuUfYVPjYxapL4N6tKU5HFnBaoyPSpump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +62,7 @@
 
 ### 🟢 Moonigga
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.02x | **Current:** 1.30x
+- **Peak:** 2.02x | **Current:** 1.23x
 - **Mint:** `G5jBgU1Xt3Se7z9nANcY24sWp9ZALQVmorZ2C1ecpump`
 
 | Time | Action | SOL | TX |
@@ -195,7 +195,7 @@
 
 ### 🟢 TD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `HvtsgZrABY8uvcMCKg6Kd9y2RXr8pandJHRNBQYBpump`
 
 | Time | Action | SOL | TX |

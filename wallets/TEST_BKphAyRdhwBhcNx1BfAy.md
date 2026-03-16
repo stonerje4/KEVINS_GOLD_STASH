@@ -1,27 +1,37 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 241 |
+| Total Positions | 242 |
 | Open | 67 |
-| Closed | 174 |
-| W/L | 168/6 |
-| SOL In (closed) | 0.097900 |
-| **Closed P&L** | **+0.085516 SOL** |
-| **Closed ROI** | **+87.4%** |
+| Closed | 175 |
+| W/L | 169/6 |
+| SOL In (closed) | 0.098000 |
+| **Closed P&L** | **+0.085556 SOL** |
+| **Closed ROI** | **+87.3%** |
 | Open Deployed | 0.030700 SOL |
 
 ## Trades
 
-### 🟢 Luckycoin
+### 🟢 LAD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.59x
+- **Peak:** 1.51x | **Current:** 1.51x
+- **Mint:** `62Tx3QaLjD6ox8h32BpNA9voQqB8YHTBihSTXAUfpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:57:51 | BUY | 0.000100 | `43HRVdbwHn2Bd7SVo4RW8cLVQ1H8Zr...` |
+
+### 🔴 Luckycoin
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.39x
 - **Mint:** `EefYtme1YoWgVb9wotBSrrTQbYk3EdYd9vDL4qbwpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:52:29 | BUY | 0.000100 | `4vPiBEyGiYJ3cREtynVDmkdrAwzPcc...` |
+| 2026-03-16 15:56:32 | SELL | 0.000040 | `3HX82nRuTGSAD9L6wHDb5C1AWmoPD4...` |
 
 ### 🟢 LEGO
 - **Status:** open | **Exit:** open
@@ -34,7 +44,7 @@
 
 ### 🟢 Courier
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.07x
+- **Peak:** 1.26x | **Current:** 0.90x
 - **Mint:** `9DvWm4LvkJL8XzPupUn9JFdc65EBXgguxNUW9hMQpump`
 
 | Time | Action | SOL | TX |
@@ -70,7 +80,7 @@
 
 ### 🟢 Ringgate
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.95x
+- **Peak:** 1.16x | **Current:** 0.92x
 - **Mint:** `14jGRHTM7xVkGNacB4S4DQG68a9ULqEh4autQcdLpump`
 
 | Time | Action | SOL | TX |
@@ -108,7 +118,7 @@
 
 ### 🟢 EXPO
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.14x | **Current:** 1.08x
+- **Peak:** 2.14x | **Current:** 1.43x
 - **Mint:** `Gmv4DEdi3GPLwCLnjJc1C99qbC9iLaZepUwE3pr8pump`
 
 | Time | Action | SOL | TX |
@@ -130,7 +140,7 @@
 
 ### 🟢 ミャク
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.67x
+- **Peak:** 1.13x | **Current:** 0.65x
 - **Mint:** `9WhYFYMtaUYK17GuQ8hNJ8XGFAwV4SHTe9Bkdn56pump`
 
 | Time | Action | SOL | TX |
@@ -281,7 +291,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.11x | **Current:** 2.00x
+- **Peak:** 2.11x | **Current:** 1.96x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -538,7 +548,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 1.13x
+- **Peak:** 1.80x | **Current:** 1.11x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -673,7 +683,7 @@
 
 ### 🟢 Angela
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.69x | **Current:** 2.08x
+- **Peak:** 2.69x | **Current:** 1.84x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |

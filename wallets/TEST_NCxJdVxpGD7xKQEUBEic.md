@@ -1,22 +1,22 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 5 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000600 |
-| **Closed P&L** | **+0.000382 SOL** |
-| **Closed ROI** | **+63.6%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 4 |
+| Closed | 2 |
+| W/L | 2/0 |
+| SOL In (closed) | 0.000700 |
+| **Closed P&L** | **+0.000582 SOL** |
+| **Closed ROI** | **+83.1%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
 ### 🟢 GRYD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.69x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `D86cPtzhdMvZVKF1Mxwh83CPa49rd58tTu37UMnYpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 gorevege
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.52x | **Current:** 1.18x
+- **Peak:** 2.52x | **Current:** 1.12x
 - **Mint:** `42NTyRmFCqDzw8WnWFyntDCZKZTkFejoRpRokyvbpump`
 
 | Time | Action | SOL | TX |
@@ -43,8 +43,8 @@
 | 2026-03-16 15:42:08 | SELL | 0.000022 | `3uQ7Vm6HWrr87mcNB3sFQnERD9SToe...` |
 
 ### 🟢 Heart
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.84x | **Current:** 2.50x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.84x | **Current:** 1.81x
 - **Mint:** `CddTVmakkpiS2BEzPpyEuNa44zRbC25PF57RAHFVpump`
 
 | Time | Action | SOL | TX |
@@ -52,6 +52,7 @@
 | 2026-03-16 15:08:23 | BUY | 0.000100 | `43i96mqS7wE8JQhCAjTfS27V28jZ4T...` |
 | 2026-03-16 15:17:53 | SELL | 0.000022 | `2UfifF9XF53oApbsGDUr8nJ65JuzPs...` |
 | 2026-03-16 15:18:57 | SELL | 0.000031 | `29nzr6jJWyHbFHbLMszhDVXv3o6Dq6...` |
+| 2026-03-16 15:57:20 | SELL | 0.000147 | `5zF2gqcyiQRBqnweFQCpyr1J2AX5VD...` |
 
 ### 🟢 Dicaprio
 - **Status:** open | **Exit:** open

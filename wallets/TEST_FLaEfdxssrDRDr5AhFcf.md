@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FLaEfdxssrDRDr5AhFcfqJdXaWw8tXTP8p7vc9kotcni`
-> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Quagsire
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 1.19x
+- **Peak:** 1.53x | **Current:** 1.02x
 - **Mint:** `5868Jrr3S9ywjf26YYRwa1nN2XzSUycbagRRfsSzpump`
 
 | Time | Action | SOL | TX |

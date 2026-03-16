@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Don Tzu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 1.17x
+- **Peak:** 1.47x | **Current:** 0.98x
 - **Mint:** `59VtFUYQ1qsxho2bF72xvt9BuSLkxZzCi4GXkKXEpump`
 
 | Time | Action | SOL | TX |
@@ -161,7 +161,7 @@
 
 ### 🟢 HAPP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.97x
+- **Peak:** 1.13x | **Current:** 0.90x
 - **Mint:** `7wYJHqxWCB5Tq5hkHTQJG5SmStZvfZM8VEQ2b7a9pump`
 
 | Time | Action | SOL | TX |
@@ -310,7 +310,7 @@
 
 ### 🟢 OG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.82x
+- **Peak:** 1.02x | **Current:** 0.81x
 - **Mint:** `37JEzbRcfeGAYEeiPMg1gKbK8UZNQG7cjF5Pvse7pump`
 
 | Time | Action | SOL | TX |

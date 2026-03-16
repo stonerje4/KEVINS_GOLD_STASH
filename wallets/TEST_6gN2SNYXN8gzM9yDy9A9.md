@@ -1,18 +1,36 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-16 15:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 1 |
+| Total Positions | 5 |
+| Open | 3 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.001200 |
 | **Closed P&L** | **+0.000755 SOL** |
 | **Closed ROI** | **+62.9%** |
-| Open Deployed | 0.000600 SOL |
+| Open Deployed | 0.000800 SOL |
 
 ## Trades
+
+### 🟢 Stare
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 1.01x
+- **Mint:** `CGjA6fRxrA1X9UWTzFbNMxTTegkyBRtPgoLHgkzhpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:59:14 | BUY | 0.000100 | `2Wgsuxz78cmexLvjws2zf6pM6QQmMA...` |
+
+### 🟢 TRENCHLANA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.37x | **Current:** 1.37x
+- **Mint:** `ooQ5B5bBrmCh2oRqy2saabpL5wd7BdruxP9ZVLEUntG`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 15:58:52 | BUY | 0.000100 | `2SYv5iv4MXucnMrisCUPQ8wxPsaJY2...` |
 
 ### 🔴 HOPE
 - **Status:** closed | **Exit:** ghost_close_stop_loss
