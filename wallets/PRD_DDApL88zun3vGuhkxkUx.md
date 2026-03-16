@@ -1,21 +1,21 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-16 22:15 UTC | Environment: **PRD**
+> Generated: 2026-03-16 22:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 31 |
-| Open | 4 |
-| Closed | 27 |
-| W/L | 6/21 |
-| SOL In (closed) | 3.680000 |
-| **Closed P&L** | **-0.728049 SOL** |
-| **Closed ROI** | **-19.8%** |
-| Open Deployed | 0.600000 SOL |
+| Open | 2 |
+| Closed | 29 |
+| W/L | 6/23 |
+| SOL In (closed) | 3.980000 |
+| **Closed P&L** | **-0.760582 SOL** |
+| **Closed ROI** | **-19.1%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
-### 🟢 ANCESTORS
-- **Status:** open | **Exit:** open
+### 🔴 ANCESTORS
+- **Status:** closed | **Exit:** manual_sell
 - **Peak:** 1.02x | **Current:** 0.00x
 - **Mint:** `7EPDBnkYA5FWiWQWMMrBLLjQT8UkFDq9MpdrndPUpump`
 
@@ -23,6 +23,8 @@
 |------|--------|-----|----|
 | 2026-03-16 22:11:08 | BUY | 0.150000 | `PXB9mG7up3dNYkjxCK8CQycxz85SwC...` |
 | 2026-03-16 22:11:23 | BUY | 0.150000 | `F29h7ETiBF7L5aNPyfAxQdxi8cJsg2...` |
+| 2026-03-16 22:15:10 | SELL | 0.132197 | `?` |
+| 2026-03-16 22:15:10 | SELL | 0.133110 | `?` |
 
 ### 🟢 face
 - **Status:** closed | **Exit:** manual_sell
@@ -65,14 +67,15 @@
 | 2026-03-16 06:32:59 | BUY | 0.150000 | `4VstgL1tEZ7RrCFpssaxehayymU5we...` |
 | 2026-03-16 07:00:38 | SELL | 0.104853 | `6WwowUcLrPHaqWHtL2mLTpZo1LbQVb...` |
 
-### 🟢 BLACKJACK
-- **Status:** open | **Exit:** open
+### 🔴 BLACKJACK
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.18x | **Current:** 0.00x
 - **Mint:** `73XxPmoakfwGAvad4C4bxdLtLmehz3UjEiVzNE7Spump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:32:15 | BUY | 0.150000 | `56Bp9wdXrEZ26FE7KUXHiXdApJPxum...` |
+| 2026-03-16 22:17:09 | SELL | 0.117468 | `4BZFAMzeJeE9A3odkCLhtW4wg6davx...` |
 
 ### 🔴 Oscar
 - **Status:** closed | **Exit:** stale_position_cleanup
