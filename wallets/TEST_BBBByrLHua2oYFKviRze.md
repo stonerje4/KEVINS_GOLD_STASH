@@ -1,17 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 18 |
-| Open | 0 |
+| Total Positions | 19 |
+| Open | 1 |
 | Closed | 18 |
 | SOL In (closed) | 0.010800 |
-| SOL Out (sells) | 0.009233 |
-| **P&L** | **-0.001567 SOL** |
-| **ROI** | **-14.5%** |
+| SOL Out (sells) | 0.009564 |
+| **P&L** | **-0.001236 SOL** |
+| **ROI** | **-11.4%** |
 
 ## Trades
+
+### 🟢 GINGER
+- **Status:** partial | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.89x
+- **Mint:** `5XVABeWf82sx9UHSj6z8hNPFQ21EvfqvKkgqrHr8pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:51:07 | BUY | 0.000600 | `3z8kz2kQu1o1kRUKMHvTz35ybB4ahg...` |
+| 2026-03-16 04:51:23 | SELL | 0.000331 | `3Xs5UAwvTmZhZc6DxSrLkwC6xpZpYb...` |
 
 ### 🔴 Salary
 - **Status:** closed | **Exit:** ghost_close_stop_loss

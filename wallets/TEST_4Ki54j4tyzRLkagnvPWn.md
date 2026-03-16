@@ -1,26 +1,27 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 4 |
-| Closed | 6 |
-| SOL In (closed) | 0.003600 |
-| SOL Out (sells) | 0.002407 |
-| **P&L** | **-0.001193 SOL** |
-| **ROI** | **-33.2%** |
+| Open | 3 |
+| Closed | 7 |
+| SOL In (closed) | 0.004200 |
+| SOL Out (sells) | 0.002528 |
+| **P&L** | **-0.001672 SOL** |
+| **ROI** | **-39.8%** |
 
 ## Trades
 
-### 🟢 Salary
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.97x
+### 🔴 Salary
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.03x | **Current:** 0.49x
 - **Mint:** `8i34feC9L4KCdQuB5dt24bVrMggyqTSkMKGX9BCw8iQS`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:44:42 | BUY | 0.000600 | `3Z9g1mPLnF6sM3x7EYeb1GRAuSPYqW...` |
+| 2026-03-16 04:50:09 | SELL | 0.000122 | `3w1webyfneXNaByRBgUT85XmXDHnKC...` |
 
 ### 🟢 0.0000001
 - **Status:** open | **Exit:** open

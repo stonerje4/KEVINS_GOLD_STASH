@@ -1,10 +1,10 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
-| Open | 3 |
+| Total Positions | 13 |
+| Open | 4 |
 | Closed | 9 |
 | SOL In (closed) | 0.005400 |
 | SOL Out (sells) | 0.002303 |
@@ -12,6 +12,15 @@
 | **ROI** | **-57.3%** |
 
 ## Trades
+
+### 🟢 G1
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.94x
+- **Mint:** `75qNj35dUMLjrQjYTMBNiJXFZBnimqKyB2Q9o2rzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:50:31 | BUY | 0.000600 | `5AqW1vUqgpcFJ6zkTmftq4zStZAAyo...` |
 
 ### 🔴 NIGGABALL
 - **Status:** closed | **Exit:** ghost_close_stop_loss

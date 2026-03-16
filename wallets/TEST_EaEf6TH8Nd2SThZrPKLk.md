@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 フグ
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.10x
+- **Peak:** 1.19x | **Current:** 1.18x
 - **Mint:** `CkZMsRJEj9mH3KYqcsuBVcnyx6tL87tAUong1xYBpuff`
 
 | Time | Action | SOL | TX |
@@ -44,7 +44,7 @@
 
 ### 🟢 TORIVA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 1.05x
+- **Peak:** 1.16x | **Current:** 1.16x
 - **Mint:** `DvKyYQGmXeL6hxigoGhB6ocwT2zZvQ59oN5ALMBTpump`
 
 | Time | Action | SOL | TX |
