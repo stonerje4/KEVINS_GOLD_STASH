@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 07:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 TSUZUMI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `4WeXDXwe1MPZDbbLRzGPDmKj5eb8v9EWk8wnwpHdpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 
 ### 🟢 alonxbt
 - **Status:** open | **Exit:** open
-- **Peak:** 1.29x | **Current:** 1.29x
+- **Peak:** 1.35x | **Current:** 1.11x
 - **Mint:** `4RKfEKd6H7TDDKGfyp7Xt4qoGiGy56KkR9nLcVaXpump`
 
 | Time | Action | SOL | TX |
@@ -33,7 +33,7 @@
 
 ### 🟢 BRUNO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.75x
+- **Peak:** 1.06x | **Current:** 0.74x
 - **Mint:** `7qZTpYKzFr6pf1D4cjL92pUHHukAZLxS4QRZmsuKpump`
 
 | Time | Action | SOL | TX |

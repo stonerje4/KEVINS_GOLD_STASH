@@ -1,15 +1,15 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 07:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 7 |
-| Closed | 8 |
-| SOL In (closed) | 0.004800 |
-| SOL Out (sells) | 0.004362 |
-| **P&L** | **-0.000438 SOL** |
-| **ROI** | **-9.1%** |
+| Open | 6 |
+| Closed | 9 |
+| SOL In (closed) | 0.005400 |
+| SOL Out (sells) | 0.004756 |
+| **P&L** | **-0.000644 SOL** |
+| **ROI** | **-11.9%** |
 
 ## Trades
 
@@ -25,7 +25,7 @@
 
 ### 🟢 PUMPERS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.07x
+- **Peak:** 1.07x | **Current:** 0.89x
 - **Mint:** `GpPmQTqV3KeTRUWCxFtnw3VQHuAqqG4HWsxvw6Vwpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 PARALLAX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.75x
+- **Peak:** 1.06x | **Current:** 0.74x
 - **Mint:** `42AgUeuxB8hpjL37k17xPCWQP96NXHenSHtM84vkpump`
 
 | Time | Action | SOL | TX |
@@ -43,21 +43,22 @@
 
 ### 🟢 CIRBP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.22x
+- **Peak:** 1.63x | **Current:** 0.99x
 - **Mint:** `4HsKJjmF1n41KDtkYM9Cxu8LKV7YC9GLGnXe5YtBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:19:18 | BUY | 0.000600 | `5RipybVhVQvqtj7ZRBafDRS8HUcq1J...` |
 
-### 🟢 Fridge
-- **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 0.75x
+### 🔴 Fridge
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.15x | **Current:** 0.67x
 - **Mint:** `Bqhm4Um5iuAjFsVnsjCQko3eg5mctTyv7HWLDGHgpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:12:31 | BUY | 0.000600 | `4zyVb8cJBV8oCvPxTB7EGSWvnDvRVe...` |
+| 2026-03-16 07:15:22 | SELL | 0.000394 | `28gC135hVJkNd7LY4gpNiwREHVoeob...` |
 
 ### 🟢 herry
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -120,7 +121,7 @@
 | 2026-03-16 04:02:06 | SELL | 0.000414 | `32tSfe8vrabwQfCVTDkijREFPbNjSs...` |
 
 ### 🟢 STARE
-- **Status:** open | **Exit:** open
+- **Status:** partial | **Exit:** stale_cleanup
 - **Peak:** 1.03x | **Current:** 0.86x
 - **Mint:** `3KVLeJjgvYxeCqkMhFHp37V1e2LM8FaWgK2s4t4Hpump`
 

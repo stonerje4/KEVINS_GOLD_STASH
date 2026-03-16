@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-16 07:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 07:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 
 ### 🟢 LOCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.89x
+- **Peak:** 1.06x | **Current:** 0.86x
 - **Mint:** `BWZkw5KaHh3jzqagqZpgdHYvEvrkyoAovQ5AFwmVpump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +62,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 1.00x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
@@ -71,7 +71,7 @@
 
 ### 🟢 BOA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.94x
+- **Peak:** 1.13x | **Current:** 0.85x
 - **Mint:** `Dt3vBiGi9ceMsqH9EeTJRQEku9C1rrBNB1vMzZVgZKYx`
 
 | Time | Action | SOL | TX |
@@ -109,7 +109,7 @@
 
 ### 🟢 TIM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.93x
+- **Peak:** 1.11x | **Current:** 0.94x
 - **Mint:** `9rZyxfCQhGCBcpbFW3LUjVKoBajVbN6kYdHmaFXSpump`
 
 | Time | Action | SOL | TX |
