@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -35,13 +35,14 @@
 | 2026-03-16 13:52:12 | SELL | 0.000408 | `5cRWZFNrBo7ZG8TaCGkbLbpTayR9JZ...` |
 
 ### 🟢 モモ
-- **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.72x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.54x | **Current:** 2.19x
 - **Mint:** `7HEGwZRQpredmtk68syRy1zz2nCphjxS6HLH7UENpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 13:47:06 | BUY | 0.000600 | `34tkFHRegoMvuuM1x7DGkHmMHYhAuK...` |
+| 2026-03-16 14:06:26 | SELL | 0.000365 | `4SQN6M4BneEaLD8X6m4P53c92cnwXN...` |
 
 ### 🟢 Unplug
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -147,7 +148,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.30x
+- **Peak:** 1.45x | **Current:** 1.39x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |

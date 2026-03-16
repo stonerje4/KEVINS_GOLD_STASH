@@ -1,22 +1,22 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 204 |
-| Open | 49 |
-| Closed | 155 |
-| W/L | 150/5 |
-| SOL In (closed) | 0.093000 |
-| **Closed P&L** | **+0.081449 SOL** |
-| **Closed ROI** | **+87.6%** |
-| Open Deployed | 0.029400 SOL |
+| Open | 48 |
+| Closed | 156 |
+| W/L | 151/5 |
+| SOL In (closed) | 0.093600 |
+| **Closed P&L** | **+0.081866 SOL** |
+| **Closed ROI** | **+87.5%** |
+| Open Deployed | 0.028800 SOL |
 
 ## Trades
 
 ### 🟢 Chinaman
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `8eJKWWgUMzos78azCmzuCpmB8Hv4eHucbSC1YqiWpump`
 
 | Time | Action | SOL | TX |
@@ -44,17 +44,18 @@
 | 2026-03-16 14:01:59 | SELL | 0.000357 | `52XR5oA9x5jx8d26cakTdgPqhW8rJa...` |
 
 ### 🟢 soul.md
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Status:** partial | **Exit:** stop_loss
+- **Peak:** 1.16x | **Current:** 0.52x
 - **Mint:** `4Xd15h2G58UXukxa4JcAyvoHt9pdmu92DR1qCYmtpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 13:57:43 | BUY | 0.000600 | `2no8gBkXnfysFb16QvwZJ5ixFJxDgW...` |
+| 2026-03-16 14:09:43 | SELL | 0.000312 | `55xtVgJ2WU7BCRyVwfbdxxCsbWwySP...` |
 
 ### 🟢 MOE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.72x
+- **Peak:** 1.07x | **Current:** 0.73x
 - **Mint:** `CyTJKTcsg5wandQQfZjhxx6SqjDsUFwq4XkNMA3upump`
 
 | Time | Action | SOL | TX |
@@ -163,7 +164,7 @@
 
 ### 🟢 Sovereign
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `8uXWH6J7Cvd4dAQycgCmbxrb6hZ24aV9LHtp8CqGpump`
 
 | Time | Action | SOL | TX |
@@ -172,7 +173,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 1.69x
+- **Peak:** 1.80x | **Current:** 1.48x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -307,7 +308,7 @@
 
 ### 🟢 Angela
 - **Status:** open | **Exit:** open
-- **Peak:** 1.65x | **Current:** 1.47x
+- **Peak:** 1.65x | **Current:** 1.56x
 - **Mint:** `EBFghGYtawFKf6hUcq7Z91mHbbNXaN93nCBky8hCpump`
 
 | Time | Action | SOL | TX |
@@ -353,7 +354,7 @@
 
 ### 🟢 ミャク
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 1.07x
+- **Peak:** 1.08x | **Current:** 0.95x
 - **Mint:** `2ej2QVXiyVSaK6JTGL73VamrL14pHFWqVv2o1jVEpump`
 
 | Time | Action | SOL | TX |
@@ -389,14 +390,15 @@
 | 2026-03-16 12:18:47 | BUY | 0.000600 | `4tL7suaF7guJdstKGNfA5FpTC6KKP2...` |
 | 2026-03-16 12:34:58 | SELL | 0.000326 | `2Vppdb9VXRjNSQoKCBtrUe8TXPBpyt...` |
 
-### 🟢 ojoeldivo
-- **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 0.74x
+### 🔴 ojoeldivo
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.27x | **Current:** 0.70x
 - **Mint:** `AM6PWqWJUPcTye7R91jW9wNx2wzW2uiFjrbRaa2rpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 11:26:00 | BUY | 0.000600 | `5oGrwU6BAWdaAuVdqt6g3xv5y8BqgT...` |
+| 2026-03-16 14:05:45 | SELL | 0.000417 | `5Yh8hdf3Kxf1qBV1pNKQVFsSLxzYyX...` |
 
 ### 🔴 Robust
 - **Status:** closed | **Exit:** stop_loss
@@ -589,7 +591,7 @@
 
 ### 🟢 HOSTMAXXING
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.08x
+- **Peak:** 1.84x | **Current:** 0.80x
 - **Mint:** `AoqYWcBaRQgA7BoqMgAmUYxkCvH4mcdCbdd2iCDopump`
 
 | Time | Action | SOL | TX |

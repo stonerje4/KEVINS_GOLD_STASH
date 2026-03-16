@@ -1,37 +1,49 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 14:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 14:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 46 |
-| Open | 3 |
-| Closed | 43 |
-| W/L | 41/2 |
-| SOL In (closed) | 0.025800 |
-| **Closed P&L** | **+0.020623 SOL** |
-| **Closed ROI** | **+79.9%** |
-| Open Deployed | 0.001800 SOL |
+| Total Positions | 47 |
+| Open | 1 |
+| Closed | 46 |
+| W/L | 44/2 |
+| SOL In (closed) | 0.027600 |
+| **Closed P&L** | **+0.022649 SOL** |
+| **Closed ROI** | **+82.1%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
+### 🔴 Malibu
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.63x
+- **Mint:** `21x3Guf4HTdeV4LgNFJDyLBbLLUpRxc2uERLQQwwpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:06:23 | BUY | 0.000600 | `AzQFBCXrEfshPaahM3M9yHrj8W17Az...` |
+| 2026-03-16 14:07:30 | SELL | 0.000375 | `32VeY9Nu9EuPXH8mYrk5niRFEgMVWe...` |
+
 ### 🟢 PHONE
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.03x | **Current:** 2.03x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.60x | **Current:** 2.21x
 - **Mint:** `94Lii7JsboVzysbNuFV1QDM38Cvs7RQaSJ44T7g5pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:01:42 | BUY | 0.000600 | `5xACzrgh9Cdsi13to5cX2UFHiP2YTc...` |
 | 2026-03-16 14:04:49 | SELL | 0.000364 | `aTy7ry5ysZDSC6qu4cjier6AjY1Dfk...` |
+| 2026-03-16 14:06:49 | SELL | 0.000886 | `dp3kWKawUViQYzWDBXeg1Zvv1sMWXM...` |
 
-### 🟢 LEGO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.92x | **Current:** 1.20x
+### 🔴 LEGO
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.92x | **Current:** 0.66x
 - **Mint:** `J9eeYqoQHHLPcGfAvRUpgT1Q9Fx3sKcoMgLjD72Lpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 13:48:29 | BUY | 0.000600 | `5tjJ66Te3jojzwCFEKCNqRq1LeggZr...` |
+| 2026-03-16 14:06:47 | SELL | 0.000400 | `5nBTYBqc41DmpeD84M1xqqYjPAmwLp...` |
 
 ### 🔴 RoastMyHuman
 - **Status:** closed | **Exit:** stop_loss
