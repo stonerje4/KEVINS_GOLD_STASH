@@ -1,26 +1,27 @@
 # [PRD] Wallet: `4yjh9zfyhjqg3tCJbWgMHn4xcot5ogqimhnjJ7qXbixH`
-> Generated: 2026-03-16 09:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 09:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 37 |
-| Open | 2 |
-| Closed | 35 |
-| SOL In (closed) | 5.250000 |
-| SOL Out (sells) | 8.307850 |
-| **P&L** | **+3.057850 SOL** |
-| **ROI** | **+58.2%** |
+| Open | 1 |
+| Closed | 36 |
+| SOL In (closed) | 5.400000 |
+| SOL Out (sells) | 8.403309 |
+| **P&L** | **+3.003309 SOL** |
+| **ROI** | **+55.6%** |
 
 ## Trades
 
-### 🟢 HERRMANN
-- **Status:** open | **Exit:** open
+### 🔴 HERRMANN
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.39x | **Current:** 0.00x
 - **Mint:** `FgfFDfVcaTHAMY5jZPN45CV31MXjqGXzRBony98ipump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:26:32 | BUY | 0.150000 | `4UPLNzkGSzhGb4oCbp1sCjg5jQHKqv...` |
+| 2026-03-16 09:34:13 | SELL | 0.095459 | `4gH5P3Jz2SsrovHKiN1yEDZoxj5Pyt...` |
 
 ### 🟢 CLAUDE
 - **Status:** open | **Exit:** open
