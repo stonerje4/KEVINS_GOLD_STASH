@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 45 |
-| Open | 4 |
+| Total Positions | 46 |
+| Open | 5 |
 | Closed | 41 |
 | SOL In (closed) | 0.024600 |
 | SOL Out (sells) | 0.021952 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
-### 🟢 YAH
+### 🟢 GERALD
 - **Status:** open | **Exit:** open
 - **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:24:55 | BUY | 0.000600 | `3JK8jqsVr9Y5Nd2PSKV3pFi6jqh5dx...` |
+
+### 🟢 YAH
+- **Status:** open | **Exit:** open
+- **Peak:** 1.63x | **Current:** 1.53x
 - **Mint:** `Cj4iYFEErrvpMFLbKcXYLnP612DS4mQemvi4rCKRpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.98x
+- **Peak:** 1.12x | **Current:** 1.05x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |

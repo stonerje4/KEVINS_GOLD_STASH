@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 35 |
-| Open | 2 |
+| Total Positions | 36 |
+| Open | 3 |
 | Closed | 33 |
 | SOL In (closed) | 0.019800 |
 | SOL Out (sells) | 0.015623 |
@@ -13,9 +13,18 @@
 
 ## Trades
 
+### 🟢 Panthera
+- **Status:** open | **Exit:** open
+- **Peak:** 1.12x | **Current:** 1.12x
+- **Mint:** `2DVd6ahRX5ywW6oukXFkHCH9ia8xgLK5nvnM36ytpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:23:15 | BUY | 0.000600 | `2FARNJ7jrVaMvRiNyxPjveg6Qy8Dns...` |
+
 ### 🟢 GAYMENEI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.69x | **Current:** 0.79x
 - **Mint:** `851FJPXAEKdnqUWRvt7F9UFQGAkxaPsjaVyoYKWdpump`
 
 | Time | Action | SOL | TX |

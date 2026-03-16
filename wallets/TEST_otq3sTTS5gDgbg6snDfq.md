@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 33 |
-| Open | 23 |
+| Total Positions | 34 |
+| Open | 24 |
 | Closed | 10 |
 | SOL In (closed) | 0.006000 |
 | SOL Out (sells) | 0.003202 |
@@ -12,6 +12,15 @@
 | **ROI** | **-46.6%** |
 
 ## Trades
+
+### 🟢 Meta
+- **Status:** open | **Exit:** open
+- **Peak:** 1.23x | **Current:** 1.23x
+- **Mint:** `ERALMpDpsFaSsPXPxcwYxZ1h9ZYLjji16zV9HWpbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 12:22:59 | BUY | 0.000600 | `rUjdhfXg6UUF5QMRpsAgSLk8ivM39c...` |
 
 ### 🟢 LabClaw
 - **Status:** open | **Exit:** open
@@ -24,7 +33,7 @@
 
 ### 🟢 Beast 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.88x
+- **Peak:** 1.09x | **Current:** 0.79x
 - **Mint:** `CnL3AT1uyVNw9euhPmUgupqCDxq2TDHEJyQ4Xy8ipump`
 
 | Time | Action | SOL | TX |
@@ -152,7 +161,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.87x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 12:20 UTC | Environment: **TEST**
+> Generated: 2026-03-16 12:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,9 +7,9 @@
 | Open | 29 |
 | Closed | 11 |
 | SOL In (closed) | 0.016000 |
-| SOL Out (sells) | 0.006059 |
-| **P&L** | **-0.009941 SOL** |
-| **ROI** | **-62.1%** |
+| SOL Out (sells) | 0.006422 |
+| **P&L** | **-0.009578 SOL** |
+| **ROI** | **-59.9%** |
 
 ## Trades
 
@@ -23,13 +23,14 @@
 | 2026-03-16 10:57:09 | BUY | 0.000600 | `4AKSvrf43mfKwG95Sm29xk428QbvqT...` |
 
 ### 🟢 KENNY
-- **Status:** open | **Exit:** open
-- **Peak:** 1.94x | **Current:** 1.94x
+- **Status:** partial | **Exit:** open
+- **Peak:** 3.11x | **Current:** 3.00x
 - **Mint:** `AR4e8QbVWRuP26HHWRapmZ53uqPiPk7xxveFfP9Xpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 10:35:30 | BUY | 0.000600 | `3KQD7NbUJnm7SGMvtUM3wzQPkToKVW...` |
+| 2026-03-16 12:20:09 | SELL | 0.000363 | `6gPShsBPzYiXhv8DMvfryknFfe23bP...` |
 
 ### 🟢 DegenMeta
 - **Status:** open | **Exit:** open
@@ -89,7 +90,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |
@@ -211,7 +212,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
