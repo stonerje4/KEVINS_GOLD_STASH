@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 16:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -35,7 +35,7 @@
 
 ### 🟢 REDHEAD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.98x
+- **Peak:** 1.06x | **Current:** 0.53x
 - **Mint:** `4vAoDvZzTQrcZQmAmWptpFMPcwCeLQJ6PbGLZX3Fpump`
 
 | Time | Action | SOL | TX |
@@ -43,17 +43,18 @@
 | 2026-03-16 15:59:31 | BUY | 0.000100 | `3JVZvWxfAfFedsrjSPT7LGRZdYT3kY...` |
 
 ### 🟢 POKEFUN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 1.11x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.43x | **Current:** 2.43x
 - **Mint:** `G4WzMcvBFVAhNBbb2U9LDvdmX8T2nVNkvHz7siWBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:55:13 | BUY | 0.000100 | `5Ru8RdpTAB74MpBgBtw2J4rGBhuN2z...` |
+| 2026-03-16 16:18:59 | SELL | 0.000024 | `wcSBtzMowM4RBmNf5ccFyPX557J4Dw...` |
 
 ### 🟢 LIQUORA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.23x
+- **Peak:** 1.26x | **Current:** 1.26x
 - **Mint:** `FppyXdz1bp6VHvraf7QVkNo7EfdYNqZDunEQ5Gk3pump`
 
 | Time | Action | SOL | TX |
@@ -193,7 +194,7 @@
 
 ### 🟢 DIO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.09x
+- **Peak:** 1.27x | **Current:** 1.20x
 - **Mint:** `H9Jt1usRpJkbFSJinbhd9XokafnKi2mdfyCe6e2xpump`
 
 | Time | Action | SOL | TX |
@@ -346,7 +347,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.26x
+- **Peak:** 1.50x | **Current:** 0.74x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-16 16:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -45,7 +45,7 @@
 
 ### 🟢 GROK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.63x
+- **Peak:** 1.30x | **Current:** 0.62x
 - **Mint:** `5RQapokjW3jZq28qUPnYJihxA5xTrntrEyqeeXMVhRsj`
 
 | Time | Action | SOL | TX |
@@ -104,7 +104,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 1.21x
+- **Peak:** 1.74x | **Current:** 1.23x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

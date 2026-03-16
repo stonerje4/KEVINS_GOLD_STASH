@@ -1,5 +1,5 @@
 # [TEST] Wallet: `HWbeENL8BQ4WEx8rxHqvVQsZtpAnLshhukPBoCJZnnXf`
-> Generated: 2026-03-16 16:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,11 +16,12 @@
 
 ### 🟢 1SOL
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.96x | **Current:** 2.91x
+- **Peak:** 3.60x | **Current:** 3.52x
 - **Mint:** `DDs56HFdwoWyAW4Yhz1heE9DErKJymSa5K8iPnRpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:35:44 | BUY | 0.000100 | `Zy3XDRh8xcUDHtn75bCTs8v7AWx1a9...` |
 | 2026-03-16 16:08:14 | SELL | 0.000021 | `byEsQpMLYuL5LLgkNid4Q4pWsV2sgp...` |
+| 2026-03-16 16:18:35 | SELL | 0.000033 | `5tkBR4MiffQkHcG9o6RTydJJoCjudQ...` |
 

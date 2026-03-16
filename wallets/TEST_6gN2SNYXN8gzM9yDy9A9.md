@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-16 16:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 DANNY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.52x
+- **Peak:** 1.00x | **Current:** 0.49x
 - **Mint:** `FBtp9XJfzkUkd6gXB1VnEMgZhoZm4hnsRZYRGxzJpump`
 
 | Time | Action | SOL | TX |
@@ -25,13 +25,14 @@
 
 ### 🟢 Steak
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.35x | **Current:** 2.35x
+- **Peak:** 3.06x | **Current:** 2.75x
 - **Mint:** `EqFip97pde7Tpim8Ygp5BRPsP6e2VZd4jC3PcyLmpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:04:42 | BUY | 0.000100 | `bGSjAt1xcxNBobd3K4AcvAoZoFUHGz...` |
 | 2026-03-16 16:14:55 | SELL | 0.000024 | `2A1wdtEHQe95orFsR5NgwdoSLd5tmC...` |
+| 2026-03-16 16:17:49 | SELL | 0.000028 | `67jhVrfrAA1yUNrWbmEdttBoCMAyaA...` |
 
 ### 🟢 Stare
 - **Status:** open | **Exit:** open

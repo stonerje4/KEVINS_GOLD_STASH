@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-16 16:15 UTC | Environment: **TEST**
+> Generated: 2026-03-16 16:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 STEAK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.79x
+- **Peak:** 1.03x | **Current:** 0.78x
 - **Mint:** `4RZz3rUcfXJjZgwycNUJUDcfTKSFNErXdBwzpLwEpump`
 
 | Time | Action | SOL | TX |
