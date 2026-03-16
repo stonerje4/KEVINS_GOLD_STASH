@@ -1,10 +1,10 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-16 03:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 1 |
+| Total Positions | 9 |
+| Open | 3 |
 | Closed | 6 |
 | SOL In (closed) | 0.003600 |
 | SOL Out (sells) | 0.001645 |
@@ -12,6 +12,24 @@
 | **ROI** | **-54.3%** |
 
 ## Trades
+
+### 🟢 KPOP
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.96x
+- **Mint:** `CQGv3aZBBqWsVGbSaupWb5tGdq31QWWBt8mt5x5tpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:07:47 | BUY | 0.000600 | `5Vp4bHxJSBDqAuYPsc3FjSMQTYWWys...` |
+
+### 🟢 ZIO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.93x
+- **Mint:** `4WUgZB7ehWcK5ocJByqg9aXZmNG2VQ6cB6QudAZRpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:06:28 | BUY | 0.000600 | `5DpaqFkgkFbtakzMPUJtCbFyyscZHw...` |
 
 ### 🔴 FOOD
 - **Status:** closed | **Exit:** ghost_close_stop_loss

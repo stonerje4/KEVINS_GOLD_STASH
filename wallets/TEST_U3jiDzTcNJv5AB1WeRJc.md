@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
+# [TEST] Wallet: `U3jiDzTcNJv5AB1WeRJco4aivebfvg5ZsGiyA6ZohYS`
 > Generated: 2026-03-16 03:10 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -13,12 +13,12 @@
 
 ## Trades
 
-### 🟢 PEEP
+### 🟢 FTR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
-- **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `AKn9krAhuntAPhXX98LMZnwMbp91P9CeWkfonA56pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-15 23:02:10 | BUY | 0.000600 | `4WvYLfqxmmJrQSx6k9gNpFtPmyQo4S...` |
+| 2026-03-16 03:05:32 | BUY | 0.000600 | `jRRnX9jwohkXQachg1w8rfVMVynLLr...` |
 

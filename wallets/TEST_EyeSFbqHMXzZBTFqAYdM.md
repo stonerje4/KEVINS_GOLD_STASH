@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EyeSFbqHMXzZBTFqAYdM5E2o6Uv8pPCyLsSCv9Ax8Qgb`
-> Generated: 2026-03-16 03:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ### 🟢 WILLARD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
+- **Peak:** 1.28x | **Current:** 0.79x
 - **Mint:** `6zzXDaiCFggZ16eUgrA5r9YYiMDkQyLnYQjpZX7Bpump`
 
 | Time | Action | SOL | TX |
