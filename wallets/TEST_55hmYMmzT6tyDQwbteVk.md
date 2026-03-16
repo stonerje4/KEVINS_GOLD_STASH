@@ -1,10 +1,10 @@
 # [TEST] Wallet: `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog`
-> Generated: 2026-03-16 08:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | SOL In (closed) | 0.000600 |
 | SOL Out (sells) | 0.000367 |
@@ -12,6 +12,15 @@
 | **ROI** | **-38.9%** |
 
 ## Trades
+
+### 🟢 Quagsire
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.82x
+- **Mint:** `F3a7eGgDEYTj5cyAfofqzqn4xv4b39mGmXjsvUCtpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 08:36:37 | BUY | 0.000600 | `NhEubxoMZma2FtrhWRqraX6MBFQcpv...` |
 
 ### 🟢 3984
 - **Status:** open | **Exit:** open

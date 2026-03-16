@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-16 08:35 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -7,15 +7,15 @@
 | Open | 24 |
 | Closed | 6 |
 | SOL In (closed) | 0.003600 |
-| SOL Out (sells) | 0.002357 |
-| **P&L** | **-0.001243 SOL** |
-| **ROI** | **-34.5%** |
+| SOL Out (sells) | 0.002780 |
+| **P&L** | **-0.000820 SOL** |
+| **ROI** | **-22.8%** |
 
 ## Trades
 
 ### 🟢 Subagent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.11x | **Current:** 1.11x
 - **Mint:** `9fpxGq9sMsYATQNpzGLtXyXaLBNBbFekaj7oypYhpump`
 
 | Time | Action | SOL | TX |
@@ -51,7 +51,7 @@
 
 ### 🟢 T-Nega
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `EA5FYJEHwyCbj1cMiic13AuCmqreEeRrue2UxJTbpump`
 
 | Time | Action | SOL | TX |
@@ -78,7 +78,7 @@
 
 ### 🟢 $CHARITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.80x
+- **Peak:** 1.06x | **Current:** 0.90x
 - **Mint:** `DTMb6bxY4ZtoLnHR2N8HBAnQxChsv3yKdeCSCgxXpump`
 
 | Time | Action | SOL | TX |
@@ -104,13 +104,14 @@
 | 2026-03-16 05:05:12 | BUY | 0.000600 | `3JUTpMBaf1PdFx5s1dZ43YFyeuZfUu...` |
 
 ### 🟢 Salary
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Status:** partial | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `EskhLZ4UYrPCggC2w2LB4hWS5VzkiagCaeFHxJScpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:58:27 | BUY | 0.000600 | `3XLoC4vdzTNQq1m7h7zJJXejRLAMgw...` |
+| 2026-03-16 08:38:39 | SELL | 0.000423 | `kAgg7ewFTrxtjS8huFh63DiFv9Z3xY...` |
 
 ### 🟢 Nostalgia
 - **Status:** open | **Exit:** open
@@ -208,7 +209,7 @@
 
 ### 🟢 OG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.89x
+- **Peak:** 1.02x | **Current:** 0.81x
 - **Mint:** `37JEzbRcfeGAYEeiPMg1gKbK8UZNQG7cjF5Pvse7pump`
 
 | Time | Action | SOL | TX |
