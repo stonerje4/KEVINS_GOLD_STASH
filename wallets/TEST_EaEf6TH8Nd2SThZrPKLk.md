@@ -1,18 +1,36 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 14:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 60 |
-| Open | 4 |
+| Total Positions | 62 |
+| Open | 6 |
 | Closed | 56 |
 | W/L | 55/1 |
 | SOL In (closed) | 0.033100 |
 | **Closed P&L** | **+0.027886 SOL** |
 | **Closed ROI** | **+84.2%** |
-| Open Deployed | 0.002400 SOL |
+| Open Deployed | 0.002600 SOL |
 
 ## Trades
+
+### 🟢 LUCID
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `3y3d5wUfHyST2mKz7PTXgC5JeUt4vWV6fzka6oHDpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:59:40 | BUY | 0.000100 | `5H71uNuYgtny7W5HLgXCc5uqK85ruf...` |
+
+### 🟢 DIO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `H9Jt1usRpJkbFSJinbhd9XokafnKi2mdfyCe6e2xpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 14:59:19 | BUY | 0.000100 | `fcJQJ5LVLMKGrCBMfHQeyBt76wbPJD...` |
 
 ### 🔴 electrician
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -160,7 +178,7 @@
 
 ### 🟢 GERALD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.28x
+- **Peak:** 1.50x | **Current:** 1.27x
 - **Mint:** `3dy9FFTmsVsBHryqfLDGD6UkvZxxEqb2t6inTzzzpump`
 
 | Time | Action | SOL | TX |

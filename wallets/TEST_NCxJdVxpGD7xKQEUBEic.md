@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-16 14:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Dicaprio
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `6DLW2RFsv6oR7kQqVnEXp9XagtftgfhErJCNCf82pump`
 
 | Time | Action | SOL | TX |

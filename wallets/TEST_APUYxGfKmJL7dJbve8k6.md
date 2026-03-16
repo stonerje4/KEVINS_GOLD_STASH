@@ -1,5 +1,5 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 14:55 UTC | Environment: **TEST**
+> Generated: 2026-03-16 15:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 SOLANASOLANA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.99x
+- **Peak:** 1.03x | **Current:** 0.63x
 - **Mint:** `FWSNaEE6fXFoEdUQtp5kSV5FDNo478eLJtnoEenUVrzD`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 dog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 1.20x
+- **Peak:** 1.49x | **Current:** 1.13x
 - **Mint:** `2y5cUqUa9gHRqebmKJ8aM8qxxGbu4re8YA3Tya7zEFud`
 
 | Time | Action | SOL | TX |
