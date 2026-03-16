@@ -1,17 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 04:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
+| Total Positions | 3 |
 | Open | 0 |
-| Closed | 2 |
-| SOL In (closed) | 0.001200 |
-| SOL Out (sells) | 0.004458 |
-| **P&L** | **+0.003258 SOL** |
-| **ROI** | **+271.5%** |
+| Closed | 3 |
+| SOL In (closed) | 0.001800 |
+| SOL Out (sells) | 0.004878 |
+| **P&L** | **+0.003078 SOL** |
+| **ROI** | **+171.0%** |
 
 ## Trades
+
+### 🔴 WEIWU
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.17x | **Current:** 0.70x
+- **Mint:** `GtGxkyXYjfk6bbcnan3KaMTCMNrqmjGuKuFKS7Qypump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:12:29 | BUY | 0.000600 | `4k2YFNCtxTyTw5xuBgWNqyPm7emYp2...` |
+| 2026-03-16 04:13:59 | SELL | 0.000420 | `5A2shv7uUoTUTxiwiCsPmbbeh4JQU2...` |
 
 ### 🔴 imagine
 - **Status:** closed | **Exit:** ghost_close_stop_loss

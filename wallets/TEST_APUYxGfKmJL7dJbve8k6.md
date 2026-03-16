@@ -1,15 +1,15 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 04:10 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 14 |
-| Open | 1 |
-| Closed | 13 |
-| SOL In (closed) | 0.007800 |
-| SOL Out (sells) | 0.007083 |
-| **P&L** | **-0.000717 SOL** |
-| **ROI** | **-9.2%** |
+| Open | 0 |
+| Closed | 14 |
+| SOL In (closed) | 0.008400 |
+| SOL Out (sells) | 0.007281 |
+| **P&L** | **-0.001119 SOL** |
+| **ROI** | **-13.3%** |
 
 ## Trades
 
@@ -22,14 +22,15 @@
 |------|--------|-----|----|
 | 2026-03-16 04:09:09 | BUY | 0.000600 | `5P4xBDRKs7BNnWJNWTf9RGycVnUKnr...` |
 
-### 🟢 Company
-- **Status:** open | **Exit:** open
-- **Peak:** 1.29x | **Current:** 0.81x
+### 🔴 Company
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.29x | **Current:** 0.35x
 - **Mint:** `Edq99ybDs5CrinunZwXEQZ9efUeF66znVn7KB9gLpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:08:35 | BUY | 0.000600 | `4DMrJvQy8MAZPvBYcrG6VGDc8Ww2DL...` |
+| 2026-03-16 04:12:26 | SELL | 0.000198 | `fzvmd7yKBsG8qVTxYBjYUQQCp57FCg...` |
 
 ### 🟢 6
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
