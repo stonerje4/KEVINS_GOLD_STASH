@@ -1,15 +1,15 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-16 08:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 08:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 5 |
-| Closed | 10 |
-| SOL In (closed) | 0.006000 |
-| SOL Out (sells) | 0.005158 |
-| **P&L** | **-0.000842 SOL** |
-| **ROI** | **-14.0%** |
+| Open | 4 |
+| Closed | 11 |
+| SOL In (closed) | 0.006600 |
+| SOL Out (sells) | 0.005545 |
+| **P&L** | **-0.001055 SOL** |
+| **ROI** | **-16.0%** |
 
 ## Trades
 
@@ -32,14 +32,15 @@
 |------|--------|-----|----|
 | 2026-03-16 04:53:33 | BUY | 0.000600 | `4x1uxgLWASa5QQYCzVcE3YzHWKKRNH...` |
 
-### 🟢 PARALLAX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.74x
+### 🔴 PARALLAX
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.06x | **Current:** 0.65x
 - **Mint:** `42AgUeuxB8hpjL37k17xPCWQP96NXHenSHtM84vkpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:47:52 | BUY | 0.000600 | `3hnYo3yzxR5fSy9Y5MKY6Gqx4dT24o...` |
+| 2026-03-16 08:05:39 | SELL | 0.000387 | `2TvPPVcXMTTjFTCCRFX8DChWV7cBDA...` |
 
 ### 🟢 CIRBP
 - **Status:** open | **Exit:** open
@@ -73,7 +74,7 @@
 
 ### 🟢 PIXEL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.96x
+- **Peak:** 1.24x | **Current:** 0.95x
 - **Mint:** `C2hH5X3GGSo4UtFV4evV2r56aMBy2m3KjCeW3wNipump`
 
 | Time | Action | SOL | TX |
