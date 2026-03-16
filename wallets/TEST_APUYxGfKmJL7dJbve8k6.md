@@ -1,27 +1,46 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-16 04:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
+| Total Positions | 14 |
 | Open | 1 |
-| Closed | 11 |
-| SOL In (closed) | 0.006600 |
-| SOL Out (sells) | 0.006463 |
-| **P&L** | **-0.000137 SOL** |
-| **ROI** | **-2.1%** |
+| Closed | 13 |
+| SOL In (closed) | 0.007800 |
+| SOL Out (sells) | 0.007083 |
+| **P&L** | **-0.000717 SOL** |
+| **ROI** | **-9.2%** |
 
 ## Trades
 
+### 🔴 Nebresearch
+- **Status:** closed | **Exit:** ghost_close_tp_2x_half
+- **Peak:** 2.32x | **Current:** 2.32x
+- **Mint:** `7Cj2BDMkNpP7jdfjdLqYYKf8ozdUBwxZYFEjR1pXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:09:09 | BUY | 0.000600 | `5P4xBDRKs7BNnWJNWTf9RGycVnUKnr...` |
+
+### 🟢 Company
+- **Status:** open | **Exit:** open
+- **Peak:** 1.29x | **Current:** 0.81x
+- **Mint:** `Edq99ybDs5CrinunZwXEQZ9efUeF66znVn7KB9gLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:08:35 | BUY | 0.000600 | `4DMrJvQy8MAZPvBYcrG6VGDc8Ww2DL...` |
+
 ### 🟢 6
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.22x | **Current:** 1.80x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 2.93x | **Current:** 1.28x
 - **Mint:** `G1EwMrkYysYzUddKYEPnG98gSkKEvy5dHLrSnezcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:00:42 | BUY | 0.000600 | `wN9BPdCxXHF2sZ99L73QWDJMLQ4PUL...` |
 | 2026-03-16 04:02:38 | SELL | 0.000372 | `z4Ur6Lm42iqs5BTUdmrqourXYcJvUM...` |
+| 2026-03-16 04:08:33 | SELL | 0.000620 | `5zGsDhEFWaoM3ZTkvSK5fCmmepDpip...` |
 
 ### 🟢 GIGACHAD
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

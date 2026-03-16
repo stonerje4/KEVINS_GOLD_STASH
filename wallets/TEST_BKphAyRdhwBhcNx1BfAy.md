@@ -1,26 +1,64 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 04:05 UTC | Environment: **TEST**
+> Generated: 2026-03-16 04:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 53 |
-| Open | 18 |
-| Closed | 35 |
-| SOL In (closed) | 0.021000 |
-| SOL Out (sells) | 0.017649 |
-| **P&L** | **-0.003351 SOL** |
-| **ROI** | **-16.0%** |
+| Total Positions | 57 |
+| Open | 20 |
+| Closed | 37 |
+| SOL In (closed) | 0.022200 |
+| SOL Out (sells) | 0.018172 |
+| **P&L** | **-0.004028 SOL** |
+| **ROI** | **-18.1%** |
 
 ## Trades
 
-### 🟢 Grok
+### 🟢 6
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.23x
+- **Peak:** 1.00x | **Current:** 0.82x
+- **Mint:** `2QrZ18zzHLp2SzdS3fAAZZbyxJ3UgkoCLXUzd9UDpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:08:33 | BUY | 0.000600 | `2veQM4iJBspPzePLVqzsH5xxgMKsYi...` |
+
+### 🟢 BLOW
+- **Status:** open | **Exit:** open
+- **Peak:** 1.14x | **Current:** 1.00x
+- **Mint:** `HTUZFKVQsyad4YXnMkBfQHwmJUbgbAXsfeCroEETpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:08:18 | BUY | 0.000600 | `pomeZU19WJH1CpVBFvaYXw8RHFAGgf...` |
+
+### 🔴 TripleS
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.19x
+- **Mint:** `AzWMKUpRKS5LkjcnJYNp6MRcd8GvWJ2tDF29PQUHpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:06:49 | BUY | 0.000600 | `5zogBxd8Vym5SvwUdufzyECBRbZCr6...` |
+| 2026-03-16 04:07:44 | SELL | 0.000115 | `5ExZQnkzSytSgRGq1p7Rb9MTVa4mvB...` |
+
+### 🟢 gura
+- **Status:** open | **Exit:** open
+- **Peak:** 1.39x | **Current:** 1.11x
+- **Mint:** `BnmvRp4FzEA6Y4EFH4ssCPbs3x2NNtELoEEn1DpHpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 04:05:32 | BUY | 0.000600 | `t14iev59QKBYhuXi2qYJH4oSPMUW23...` |
+
+### 🔴 Grok
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.30x | **Current:** 0.68x
 - **Mint:** `EumDYrzUjdPfLsT7uh5DmghYtYZU1Tgjo8cUkyNhpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:59:27 | BUY | 0.000600 | `6m3W2yr1DYVBkK4Q4j1MrCvY2vFGFL...` |
+| 2026-03-16 04:07:42 | SELL | 0.000407 | `4Hm2RoxH8dKeWHHu7s828zoq1hEhhh...` |
 
 ### 🔴 JM
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -44,7 +82,7 @@
 
 ### 🟢 MIROMIND
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.95x | **Current:** 1.76x
+- **Peak:** 2.95x | **Current:** 1.84x
 - **Mint:** `GM4Ci3DZBEY1dhUaZZGuHAsc5PdetKzHpnxHJ5Rupump`
 
 | Time | Action | SOL | TX |
@@ -110,7 +148,7 @@
 
 ### 🟢 Crawstar
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.01x
+- **Peak:** 1.18x | **Current:** 1.12x
 - **Mint:** `8DzH1XEh7AC7d1f6BnxYtTG6K1y7FrcMm9pbPfxZpump`
 
 | Time | Action | SOL | TX |
@@ -175,7 +213,7 @@
 
 ### 🟢 Barista
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.06x
+- **Peak:** 1.06x | **Current:** 1.04x
 - **Mint:** `vsaRyNeKgCCg2qPrnmy8jEmhaC2jHMUjZwaSdhmpump`
 
 | Time | Action | SOL | TX |
@@ -326,7 +364,7 @@
 
 ### 🟢 JOBS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.22x
+- **Peak:** 1.39x | **Current:** 1.19x
 - **Mint:** `A3groKXFP8aipQZVt7iajAs31sa7v89KGxc8Z3X8pump`
 
 | Time | Action | SOL | TX |
@@ -376,7 +414,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.19x
+- **Peak:** 1.79x | **Current:** 1.20x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
@@ -438,7 +476,7 @@
 
 ### 🟢 とまと
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `FoWCr414zVPiMSKge6PWvCreig9UxysW9Sgr3guKpump`
 
 | Time | Action | SOL | TX |
@@ -478,7 +516,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.88x
+- **Peak:** 1.24x | **Current:** 0.87x
 - **Mint:** `FAifjJtjFyjpCRnHbQzMAU6Q4naZE26XLK7fsK3Spump`
 
 | Time | Action | SOL | TX |
