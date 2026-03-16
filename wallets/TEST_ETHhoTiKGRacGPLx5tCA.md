@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w`
+# [TEST] Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 > Generated: 2026-03-16 23:35 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 Shelly
+### 🟢 401k
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.89x
-- **Mint:** `BAZBed8AxJyt15KChfnk2o14V8kmUMGHyJVf15eYpump`
+- **Peak:** 1.13x | **Current:** 1.13x
+- **Mint:** `8jJpPKsezshgJp7rW95YUicQmCeZH6eNJUcrTHUMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 18:24:41 | BUY | 0.000100 | `2N4c6gp4xCcY1DEus26aRqr2PrwzJJ...` |
+| 2026-03-16 23:30:04 | BUY | 0.000100 | `28T1wSHLLXYrjguNoELLfuTstFsxbF...` |
 

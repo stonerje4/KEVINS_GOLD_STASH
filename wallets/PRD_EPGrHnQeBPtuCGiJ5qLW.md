@@ -1,5 +1,5 @@
 # [PRD] Wallet: `EPGrHnQeBPtuCGiJ5qLWaDZDKEf2yKcMKEPCyf2jWTxi`
-> Generated: 2026-03-16 23:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -39,6 +39,7 @@
 | 2026-03-16 21:58:51 | BUY | 0.150000 | `zu1WGhpcpVqeU8hrCcs7ArWEE6QYGN...` |
 | 2026-03-16 22:33:13 | SELL | 0.030490 | `hghH5qseP7yYkxdVP3qVu7ATazFcKC...` |
 | 2026-03-16 22:41:38 | SELL | 0.046669 | `UATEYsdtwWZkCmyGk1FrBGcfEUzEAk...` |
+| 2026-03-16 23:33:30 | SELL | 0.075175 | `31DDQDV3Wxc1SLQScBvofWa4zgZkFe...` |
 
 ### 🔴 마시멜
 - **Status:** closed | **Exit:** stop_loss

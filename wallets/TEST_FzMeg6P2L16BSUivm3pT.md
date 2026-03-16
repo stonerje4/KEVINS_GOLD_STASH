@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 2 |
+| Total Positions | 9 |
+| Open | 3 |
 | Closed | 6 |
 | W/L | 6/0 |
 | SOL In (closed) | 0.001600 |
 | **Closed P&L** | **+0.000571 SOL** |
 | **Closed ROI** | **+35.7%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### 🟢 Rock
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.69x
+- **Mint:** `GN7eqKpfCa49hV8XvmRVLpvHogDW7eSfCAiSCTcepump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:32:11 | BUY | 0.000100 | `5jnffYbgsFzLjM2QNJ1iyHKTE2s12h...` |
 
 ### 🟢 Superagent
 - **Status:** open | **Exit:** open

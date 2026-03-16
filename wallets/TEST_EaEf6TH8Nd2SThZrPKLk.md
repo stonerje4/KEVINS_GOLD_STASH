@@ -1,18 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 94 |
-| Open | 14 |
+| Total Positions | 95 |
+| Open | 15 |
 | Closed | 80 |
 | W/L | 79/1 |
 | SOL In (closed) | 0.036000 |
 | **Closed P&L** | **+0.030223 SOL** |
 | **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.002900 SOL |
+| Open Deployed | 0.003000 SOL |
 
 ## Trades
+
+### 🟢 MOG
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `AKEqh9urgLXprC1eYnp2y9hHNJBKaHUXPjvsKpnQpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:33:16 | BUY | 0.000100 | `3goS5pn8fAhySXfmm7jfJpFB2Cgfk7...` |
 
 ### 🟢 NAT
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -539,7 +548,7 @@
 
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.58x
+- **Peak:** 1.12x | **Current:** 0.55x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |

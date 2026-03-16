@@ -1,27 +1,28 @@
 # [TEST] Wallet: `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks`
-> Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 1 |
-| Closed | 4 |
-| W/L | 1/3 |
-| SOL In (closed) | 0.011800 |
-| **Closed P&L** | **-0.003084 SOL** |
-| **Closed ROI** | **-26.1%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 5 |
+| W/L | 2/3 |
+| SOL In (closed) | 0.011900 |
+| **Closed P&L** | **-0.003076 SOL** |
+| **Closed ROI** | **-25.8%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 Realization
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
+### 🔴 Realization
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.08x
 - **Mint:** `EXT37s46hauqZczckCPSd9qxg6VG3qBB6eY2YsKWpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:26:26 | BUY | 0.000100 | `2mxoLS5FsMdoP9nJRg72xGmyu851ii...` |
+| 2026-03-16 23:30:39 | SELL | 0.000008 | `3K6stqRxhxXgZkHTomg1nsS1sBoLQ6...` |
 
 ### 🔴 F4LC0N
 - **Status:** closed | **Exit:** ghost_close_stop_loss

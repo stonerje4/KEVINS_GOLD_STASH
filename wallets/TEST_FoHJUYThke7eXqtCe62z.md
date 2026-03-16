@@ -1,22 +1,31 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 66 |
-| Open | 43 |
+| Total Positions | 67 |
+| Open | 44 |
 | Closed | 23 |
 | W/L | 13/10 |
 | SOL In (closed) | 0.020700 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+43.8%** |
-| Open Deployed | 0.018800 SOL |
+| Open Deployed | 0.018900 SOL |
 
 ## Trades
 
+### 🟢 AngelPsy
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.97x
+- **Mint:** `EPR2fNwinHNik3e1MDobJoK51jydXgyZaRNvuWsopump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:31:08 | BUY | 0.000100 | `38nnNg7Vkd24fmWxxVWHa3xneXMgvR...` |
+
 ### 🟢 goon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.94x
+- **Peak:** 1.01x | **Current:** 0.93x
 - **Mint:** `8BAZVgXTtrYQn8zT4raxprRwiHTVdYcKpF36nxUcpump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +221,7 @@
 
 ### 🟢 test
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `DBcBYfpXHjqrijbLnYjRPZ1tnd9nNyEsUJF93hwHpump`
 
 | Time | Action | SOL | TX |
@@ -221,7 +230,7 @@
 
 ### 🟢 RICH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.79x
+- **Peak:** 1.04x | **Current:** 0.72x
 - **Mint:** `2FPMtPwCuJRSyhQc8isw4bXqvBYRonGBtmbhMc65pump`
 
 | Time | Action | SOL | TX |
@@ -401,7 +410,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
@@ -439,7 +448,7 @@
 
 ### 🟢 Minecraft
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `FLhogsmiJFdTAguBw1csum4PicbDVucrbNxkT2Uupump`
 
 | Time | Action | SOL | TX |
@@ -466,7 +475,7 @@
 
 ### 🟢 Simple
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
@@ -484,7 +493,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |

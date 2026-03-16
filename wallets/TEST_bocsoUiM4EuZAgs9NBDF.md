@@ -1,22 +1,40 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-16 23:30 UTC | Environment: **TEST**
+> Generated: 2026-03-16 23:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 3 |
+| Total Positions | 6 |
+| Open | 5 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
+### 🟢 Fumbl
+- **Status:** open | **Exit:** open
+- **Peak:** 1.09x | **Current:** 1.09x
+- **Mint:** `51eQsq4zyN5tG4YjDs7pRV4HgApdu1WEzp6zWHLWpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:34:15 | BUY | 0.000100 | `83kgjjdUzZxXtChJ8ippWkzhSDCh8M...` |
+
+### 🟢 DAP
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `3AhHpBR3o8TKKyBto3fZGLVHGRGtuUbqQy8LhziFpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:34:05 | BUY | 0.000100 | `2VWTJUyCVGwMsEG4W3WXPMQ4Fytf86...` |
+
 ### 🟢 OtterCat
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.72x
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `EJVh9yGQeyaJhaAaZUxnYZxccnKccRKX42kbP2Qvpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +43,7 @@
 
 ### 🟢 DOOMER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.74x
 - **Mint:** `CnvDRWDm5UJHK9VBNxVEpS9hQHj7TKBTTFzHjZxNpump`
 
 | Time | Action | SOL | TX |

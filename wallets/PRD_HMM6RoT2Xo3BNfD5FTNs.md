@@ -1,32 +1,32 @@
 # [PRD] Wallet: `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j`
-> Generated: 2026-03-16 23:30 UTC | Environment: **PRD**
+> Generated: 2026-03-16 23:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 30 |
-| Open | 2 |
-| Closed | 28 |
-| W/L | 5/23 |
-| SOL In (closed) | 2.520000 |
-| **Closed P&L** | **-0.749978 SOL** |
-| **Closed ROI** | **-29.8%** |
-| Open Deployed | 0.300000 SOL |
+| Open | 1 |
+| Closed | 29 |
+| W/L | 5/24 |
+| SOL In (closed) | 2.670000 |
+| **Closed P&L** | **-0.786401 SOL** |
+| **Closed ROI** | **-29.5%** |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
 
-### 🟢 Fep
-- **Status:** partial | **Exit:** open
+### 🔴 Fep
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 2.82x | **Current:** 0.00x
 - **Mint:** `Cj1MvQtHUb3Z7fWnF4jM2DGutbt5Gh7CAFruKSTpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:03:17 | BUY | 0.150000 | `5ZRdvTsEqHvi5PndWWYj86XFx19g1G...` |
-| 2026-03-16 23:09:48 | SELL | 0.032146 | `5puL1zBNfkrHpQJMqRFZKudzGqkpHs...` |
+| 2026-03-16 23:32:18 | SELL | 0.113577 | `HhcNYZpZ2szGnu8yZfDoAh88VHPo4e...` |
 
 ### 🟢 TIM
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.65x | **Current:** 0.00x
+- **Peak:** 5.01x | **Current:** 0.00x
 - **Mint:** `GfDfRvhGbvCHrnuUbXB7z6RXosgZzTGCyP59Yvddpump`
 
 | Time | Action | SOL | TX |
@@ -37,6 +37,7 @@
 | 2026-03-16 21:58:51 | BUY | 0.150000 | `zu1WGhpcpVqeU8hrCcs7ArWEE6QYGN...` |
 | 2026-03-16 22:33:13 | SELL | 0.030490 | `hghH5qseP7yYkxdVP3qVu7ATazFcKC...` |
 | 2026-03-16 22:41:38 | SELL | 0.046669 | `UATEYsdtwWZkCmyGk1FrBGcfEUzEAk...` |
+| 2026-03-16 23:33:30 | SELL | 0.075175 | `31DDQDV3Wxc1SLQScBvofWa4zgZkFe...` |
 
 ### 🔴 NEMOTRON
 - **Status:** closed | **Exit:** runner_trailing_stop
