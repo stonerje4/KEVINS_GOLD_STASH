@@ -1,18 +1,27 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-16 19:35 UTC | Environment: **PRD**
+> Generated: 2026-03-16 19:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 33 |
-| Open | 2 |
+| Total Positions | 34 |
+| Open | 3 |
 | Closed | 31 |
 | W/L | 8/23 |
 | SOL In (closed) | 3.180000 |
 | **Closed P&L** | **-0.117809 SOL** |
 | **Closed ROI** | **-3.7%** |
-| Open Deployed | 0.300000 SOL |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
+
+### 🟢 Moumou
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `9RYDs9Kuc7T3UoHjVxMX7husdy5FptG2zaeB1Mahpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 19:37:35 | BUY | 0.150000 | `5pXDbVxKUe54e1MX6XyonQyuk91sm5...` |
 
 ### 🟢 CC
 - **Status:** open | **Exit:** open
