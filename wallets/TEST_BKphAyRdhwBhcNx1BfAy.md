@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-16 03:45 UTC | Environment: **TEST**
+> Generated: 2026-03-16 03:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 48 |
-| Open | 16 |
+| Total Positions | 50 |
+| Open | 18 |
 | Closed | 32 |
 | SOL In (closed) | 0.019200 |
 | SOL Out (sells) | 0.015853 |
@@ -12,6 +12,24 @@
 | **ROI** | **-17.4%** |
 
 ## Trades
+
+### 🟢 MIROMIND
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.91x
+- **Mint:** `GM4Ci3DZBEY1dhUaZZGuHAsc5PdetKzHpnxHJ5Rupump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:49:45 | BUY | 0.000600 | `RKjfd3ZwcHPibC838TTst2nnk8fLq4...` |
+
+### 🟢 Reinvest
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.84x
+- **Mint:** `7jEQzxnqHbjhgdmrmgtW1KmFykrU47UHsyCRhdSZpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 03:46:36 | BUY | 0.000600 | `3sQambzLfqDQiTrBojKyfwxmnj3817...` |
 
 ### 🔴 PILL
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -278,7 +296,7 @@
 
 ### 🟢 JOBS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.16x
+- **Peak:** 1.39x | **Current:** 1.24x
 - **Mint:** `A3groKXFP8aipQZVt7iajAs31sa7v89KGxc8Z3X8pump`
 
 | Time | Action | SOL | TX |
@@ -328,7 +346,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.32x
+- **Peak:** 1.79x | **Current:** 1.19x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |
@@ -468,7 +486,7 @@
 
 ### 🟢 Millennial
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.80x
+- **Peak:** 1.37x | **Current:** 0.89x
 - **Mint:** `GsuEr7hzfFNCwQfNWpsZmtWWT1sCYaKdqJ61G1zzpump`
 
 | Time | Action | SOL | TX |
