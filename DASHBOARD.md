@@ -1,22 +1,22 @@
 # 🏆 STG Wallet Leaderboard
-> Last updated: **2026-03-16 01:15 UTC** | Auto-refreshes every hour
+> Last updated: **2026-03-16 01:19 UTC** | Auto-refreshes every hour
 
 ## Overview
 | Metric | Value |
 |--------|-------|
-| Wallets Tracked | 815 (276 active) |
-| Total Positions | 8,367 (2,440 open / 5,927 closed) |
+| Wallets Tracked | 821 (279 active) |
+| Total Positions | 8,403 (2,438 open / 5,965 closed) |
 | Data Since | 2026-03-14 16:09 (33h) |
-| Closed P&L | **-77.86 SOL** (-8.8% ROI) |
+| Closed P&L | **-78.11 SOL** (-8.7% ROI) |
 
 ## ⚠️ Reality Check (STG vs TEST slippage)
 | Metric | Value |
 |--------|-------|
-| Matched Positions | 47 |
+| Matched Positions | 49 |
 | Avg Entry Slippage | **+1.6%** |
 | Median Slippage | +1.4% |
-| Paid More / Paid Less | 39 / 8 |
-| Estimated Real P&L | **~-76.6 SOL** (shadow × 98%) |
+| Paid More / Paid Less | 40 / 9 |
+| Estimated Real P&L | **~-76.9 SOL** (shadow × 98%) |
 
 > Shadow ROI is inflated by ~2% due to entry price slippage.
 > A shadow wallet needs **+30% ROI** to be profitable with real money.
@@ -28,12 +28,12 @@
 |---|--------|--------|--------|-----|-----|-----|----------|-----------|-----------|
 | 1 | `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo` | network_expansion | 5 | 2/3 | 40% | +637% | 🟢 **+627%** | +4.78 | 58.8x |
 | 2 | `A2vZY74JHBBwfjo3F1Bo5iiLXpABfAhmgdyfUGzABY9F` | cielo_test | 4 | 2/2 | 50% | +241% | 🟢 **+237%** | +1.44 | 16.5x |
-| 3 | `6J4pufDxsTRMedej1aSNhzjbScgLqci2cGEqQAs9MJbz` | cielo_test | 3 | 2/1 | 67% | +223% | 🟢 **+219%** | +1.00 | 7.3x |
+| 3 | `6J4pufDxsTRMedej1aSNhzjbScgLqci2cGEqQAs9MJbz` | cielo_test | 3 | 2/1 | 67% | +223% | 🟢 **+220%** | +1.00 | 7.3x |
 | 4 | `F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS` | discovery_v2 | 3 | 1/2 | 33% | +208% | 🟢 **+205%** | +0.94 | 25.3x |
 | 5 | `CAmNcBJ82xr1tzXrwZ6tZKwEFs26TG8kT6dJeR1bxjW9` | cielo_test | 3 | 2/1 | 67% | +189% | 🟢 **+186%** | +0.85 | 5.8x |
-| 6 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | discovery_v2 | 9 | 6/3 | 67% | +135% | 🟢 **+132%** | +1.82 | 10.5x |
-| 7 | `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx` | cielo_test | 4 | 2/2 | 50% | +121% | 🟢 **+120%** | +0.73 | 5.2x |
-| 8 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | cielo_test | 6 | 4/2 | 67% | +116% | 🟢 **+115%** | +1.05 | 6.0x |
+| 6 | `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx` | cielo_test | 4 | 2/2 | 50% | +121% | 🟢 **+120%** | +0.73 | 5.2x |
+| 7 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | cielo_test | 6 | 4/2 | 67% | +116% | 🟢 **+115%** | +1.05 | 6.0x |
+| 8 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | discovery_v2 | 10 | 6/4 | 60% | +111% | 🟢 **+109%** | +1.67 | 10.5x |
 | 9 | `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt` | cielo_test | 3 | 1/2 | 33% | +110% | 🟢 **+108%** | +0.49 | 7.2x |
 | 10 | `A4azQqrpx2fZfg552BoxwuAFkysAZW4EdTxE4k8zBcHM` | discovery_v2 | 4 | 4/0 | 100% | +100% | 🟢 **+99%** | +0.60 | 7.1x |
 | 11 | `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk` | discovery_v2 | 5 | 3/2 | 60% | +71% | 🟢 **+69%** | +0.53 | 3.8x |
@@ -47,25 +47,26 @@
 | 19 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | discovery_v2 | 6 | 2/4 | 33% | +27% | 🟢 **+27%** | +0.25 | 6.9x |
 | 20 | `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4` | cielo_test | 15 | 5/10 | 33% | +25% | 🟢 **+24%** | +0.55 | 5.3x |
 | 21 | `7sxJ1x7fsSFMa5bhg3YeJFryozxxKX6aoLNE3XbvF4fA` | mihso_scan | 18 | 5/13 | 28% | +23% | 🟢 **+23%** | +0.63 | 8.3x |
-| 22 | `56S29mZ3wqvw8hATuUUFqKhGcSGYFASRRFNT38W8q7G3` | discovery_v2 | 325 | 81/244 | 25% | +23% | 🟢 **+23%** | +11.22 | 62.2x |
-| 23 | `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg` | cielo_test | 19 | 6/13 | 32% | +23% | 🟢 **+23%** | +0.65 | 7.3x |
+| 22 | `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg` | cielo_test | 19 | 6/13 | 32% | +23% | 🟢 **+23%** | +0.65 | 7.3x |
+| 23 | `56S29mZ3wqvw8hATuUUFqKhGcSGYFASRRFNT38W8q7G3` | discovery_v2 | 327 | 81/246 | 25% | +22% | 🟢 **+22%** | +10.99 | 62.2x |
 | 24 | `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9` | cielo_test | 6 | 1/5 | 17% | +19% | 🟢 **+19%** | +0.17 | 8.6x |
 | 25 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | discovery_v2_auto | 10 | 4/6 | 40% | +19% | 🟢 **+19%** | +0.29 | 7.5x |
-| 26 | `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | discovery_v2 | 28 | 9/19 | 32% | +17% | 🟢 **+17%** | +0.71 | 6.0x |
-| 27 | `DFNX498a1T1UUPBT4FwkWPNcz85qd9jzrbx9fzMWrC1e` | discovery_v2 | 23 | 6/17 | 26% | +15% | 🟢 **+14%** | +0.50 | 5.3x |
-| 28 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | discovery_v2_auto | 4 | 2/2 | 50% | +13% | 🟢 **+12%** | +0.08 | 2.4x |
-| 29 | `GN3TuCBq3eKNo9YjdsSVDC9iYg9MbQviyVdEB5D6jchr` | discovery_v2 | 474 | 106/368 | 22% | +12% | 🟢 **+12%** | +8.45 | 74.9x |
-| 30 | `GvksYkESkCqUocDfPtkA9EzmSBoYmxwgKkb6nr8J37Mf` | discovery_v2 | 27 | 7/20 | 26% | +11% | 🟢 **+11%** | +0.45 | 9.3x |
-| 31 | `Bpbs4PbB9Rh1EH5cp3TxTWzeTUuV6ALB7KsqJnhSEZdS` | discovery_v2 | 104 | 27/77 | 26% | +11% | 🟢 **+10%** | +1.64 | 32.6x |
-| 32 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | cielo_test | 19 | 5/14 | 26% | +10% | 🟢 **+10%** | +0.29 | 5.5x |
-| 33 | `CbmdAeCcPB6983J52mCLKGD2V7z5XqmBQGf4uRenb5YG` | mihso_scan | 3 | 1/2 | 33% | +9% | 🟡 **+9%** | +0.04 | 2.9x |
-| 34 | `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w` | discovery_v2 | 12 | 1/11 | 8% | +7% | 🟡 **+7%** | +0.13 | 15.4x |
-| 35 | `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj` | discovery_v2 | 4 | 1/3 | 25% | +6% | 🟡 **+6%** | +0.04 | 3.4x |
-| 36 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | discovery_v2 | 33 | 9/24 | 27% | +5% | 🟡 **+5%** | +0.24 | 5.8x |
-| 37 | `omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq` | discovery_v2 | 520 | 98/422 | 19% | +3% | 🟡 **+3%** | +2.43 | 3769.1x |
-| 38 | `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs` | discovery_v2 | 8 | 3/5 | 38% | +2% | 🟡 **+2%** | +0.03 | 3.5x |
+| 26 | `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq` | discovery_v2 | 22 | 3/19 | 14% | +18% | 🟢 **+18%** | +0.60 | 38.3x |
+| 27 | `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | discovery_v2 | 29 | 9/20 | 31% | +15% | 🟢 **+15%** | +0.66 | 6.0x |
+| 28 | `DFNX498a1T1UUPBT4FwkWPNcz85qd9jzrbx9fzMWrC1e` | discovery_v2 | 23 | 6/17 | 26% | +15% | 🟢 **+14%** | +0.50 | 5.3x |
+| 29 | `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | discovery_v2_auto | 4 | 2/2 | 50% | +13% | 🟢 **+12%** | +0.08 | 2.4x |
+| 30 | `GN3TuCBq3eKNo9YjdsSVDC9iYg9MbQviyVdEB5D6jchr` | discovery_v2 | 475 | 106/369 | 22% | +12% | 🟢 **+11%** | +8.30 | 74.9x |
+| 31 | `GvksYkESkCqUocDfPtkA9EzmSBoYmxwgKkb6nr8J37Mf` | discovery_v2 | 27 | 7/20 | 26% | +11% | 🟢 **+11%** | +0.45 | 9.3x |
+| 32 | `Bpbs4PbB9Rh1EH5cp3TxTWzeTUuV6ALB7KsqJnhSEZdS` | discovery_v2 | 104 | 27/77 | 26% | +11% | 🟢 **+10%** | +1.64 | 32.6x |
+| 33 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | cielo_test | 19 | 5/14 | 26% | +10% | 🟢 **+10%** | +0.29 | 5.5x |
+| 34 | `CbmdAeCcPB6983J52mCLKGD2V7z5XqmBQGf4uRenb5YG` | mihso_scan | 3 | 1/2 | 33% | +9% | 🟡 **+9%** | +0.04 | 2.9x |
+| 35 | `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w` | discovery_v2 | 12 | 1/11 | 8% | +7% | 🟡 **+7%** | +0.13 | 15.4x |
+| 36 | `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj` | discovery_v2 | 4 | 1/3 | 25% | +6% | 🟡 **+6%** | +0.04 | 3.4x |
+| 37 | `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q` | discovery_v2 | 33 | 9/24 | 27% | +5% | 🟡 **+5%** | +0.24 | 5.8x |
+| 38 | `omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq` | discovery_v2 | 521 | 98/423 | 19% | +3% | 🟡 **+3%** | +2.37 | 3769.1x |
+| 39 | `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs` | discovery_v2 | 8 | 3/5 | 38% | +2% | 🟡 **+2%** | +0.03 | 3.5x |
 
-**38 profitable** / **101 losing** (of 139 wallets with 3+ closed positions)
+**39 profitable** / **102 losing** (of 141 wallets with 3+ closed positions)
 
 > 🟢 Adj. ROI > +10% (likely profitable in real execution) | 🟡 0-10% (breakeven) | 🔴 negative (losing money)
 
@@ -75,33 +76,35 @@
 | Metric | Value |
 |--------|-------|
 | Wallet | `7r3bWtkcf6X5ztUTsBKk4GNhx3gybA2UNzPaGtzTvo6i` |
-| SOL Balance | 1.6539 SOL |
+| SOL Balance | 1.6447 SOL |
 | Open Positions | 39 (0.0422 SOL deployed) |
-| Closed Positions | 24 |
-| Total Positions | 63 |
+| Closed Positions | 28 |
+| Total Positions | 67 |
 | Started With | 2.1000 SOL |
-| **Real P&L (on-chain)** | **-0.4039 SOL (-40.4%)** |
+| **Real P&L (on-chain)** | **-0.4131 SOL (-41.3%)** |
 
 ### Per-Wallet Breakdown
 | Wallet | Total | Closed | Open | W/L | WR | SOL In | P&L | ROI |
 |--------|-------|--------|------|-----|-----|--------|-----|-----|
 | `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3` | 2 | 2 | 0 | 0/2 | 0% | 0.0012 | 🟢 +0.001524 | +127.0% |
 | `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4` | 3 | 3 | 0 | 0/3 | 0% | 0.0018 | 🟢 +0.001118 | +62.1% |
-| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 6 | 3 | 3 | 0/3 | 0% | 0.0036 | 🟢 +0.000900 | +50.0% |
+| `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🟢 +0.000347 | +57.9% |
+| `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi` | 6 | 4 | 2 | 0/4 | 0% | 0.0036 | 🟢 +0.000683 | +28.5% |
 | `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B` | 2 | 0 | 2 | 0/0 | 0% | 0.0012 | ⚪ +0.000000 | +0.0% |
 | `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
-| `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
+| `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs` | 2 | 0 | 2 | 0/0 | 0% | 0.0106 | ⚪ +0.000000 | +0.0% |
+| `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6` | 1 | 0 | 1 | 0/0 | 0% | 0.0006 | ⚪ +0.000000 | +0.0% |
 | `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8` | 7 | 0 | 7 | 0/0 | 0% | 0.0042 | ⚪ +0.000000 | +0.0% |
+| `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 3 | 2 | 1 | 0/2 | 0% | 0.0018 | 🔴 -0.000142 | -11.8% |
 | `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks` | 3 | 2 | 1 | 0/2 | 0% | 0.0112 | 🔴 -0.003500 | -33.0% |
 | `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy` | 8 | 1 | 7 | 0/1 | 0% | 0.0142 | 🔴 -0.000199 | -33.1% |
-| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000209 | -34.9% |
+| `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm` | 2 | 2 | 0 | 0/2 | 0% | 0.0012 | 🔴 -0.000404 | -33.7% |
 | `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw` | 7 | 2 | 5 | 0/2 | 0% | 0.0042 | 🔴 -0.000445 | -37.1% |
-| `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000231 | -38.5% |
 | `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog` | 2 | 1 | 1 | 0/1 | 0% | 0.0012 | 🔴 -0.000233 | -38.9% |
 | `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000315 | -52.5% |
 | `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J` | 6 | 4 | 2 | 0/4 | 0% | 0.0036 | 🔴 -0.001437 | -59.9% |
-| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 7 | 2 | 5 | 0/2 | 0% | 0.0042 | 🔴 -0.001025 | -85.4% |
+| `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo` | 8 | 2 | 6 | 0/2 | 0% | 0.0048 | 🔴 -0.001025 | -85.4% |
 | `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj` | 1 | 1 | 0 | 0/1 | 0% | 0.0006 | 🔴 -0.000593 | -98.8% |
 
 > P&L per wallet from actual trade results. Sorted by ROI.
