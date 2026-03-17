@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 07:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 105 |
-| Open | 33 |
+| Total Positions | 106 |
+| Open | 34 |
 | Closed | 72 |
 | W/L | 70/2 |
 | SOL In (closed) | 0.030700 |
 | **Closed P&L** | **+0.025748 SOL** |
 | **Closed ROI** | **+83.9%** |
-| Open Deployed | 0.004300 SOL |
+| Open Deployed | 0.004400 SOL |
 
 ## Trades
+
+### 🟢 Ottie
+- **Status:** open | **Exit:** open
+- **Peak:** 1.56x | **Current:** 1.03x
+- **Mint:** `EAavoHYFQnzFNQv8UkLG6qU9aQdUf1szWntxoAkzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:37:18 | BUY | 0.000100 | `5X9PtKaXj7f4o9gj5bhZAa6UnwunhP...` |
 
 ### 🟢 Roadrunner
 - **Status:** open | **Exit:** open

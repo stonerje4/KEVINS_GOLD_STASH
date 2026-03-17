@@ -1,22 +1,31 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 07:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 2 |
+| Total Positions | 5 |
+| Open | 3 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.000200 |
 | **Closed P&L** | **+0.000077 SOL** |
 | **Closed ROI** | **+38.4%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
+### 🟢 Stinkcoin
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `6o9aKxKfdSSfmaiwKV2VAeVivM8Kf6SU7XGAmnsjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:37:37 | BUY | 0.000100 | `4rF95FhW9FDtZsjtWhaG5GzrV8kaPA...` |
+
 ### 🟢 MULE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.91x
+- **Peak:** 1.06x | **Current:** 0.83x
 - **Mint:** `CNvpUrwm7E2QAezwKpm4nfUFM8ALtJ8jcXuJ67ccpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 11.84x | **Current:** 7.30x
+- **Peak:** 11.84x | **Current:** 8.96x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |

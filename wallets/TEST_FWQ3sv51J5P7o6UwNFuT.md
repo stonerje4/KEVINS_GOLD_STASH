@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FWQ3sv51J5P7o6UwNFuT612HUG2CitRT8AJTtWS6Qs5G`
-> Generated: 2026-03-17 07:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CANDACE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.76x
+- **Peak:** 1.43x | **Current:** 0.67x
 - **Mint:** `378dvnxhKxWh8DvRwHdeKjKE7LAaaxEKoP2USR7apump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Institute
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.24x | **Current:** 1.84x
+- **Peak:** 2.24x | **Current:** 1.81x
 - **Mint:** `2nQwUkoTdywEgFGVixy13xYdBAwJT6HhxoBuSd4wpump`
 
 | Time | Action | SOL | TX |
