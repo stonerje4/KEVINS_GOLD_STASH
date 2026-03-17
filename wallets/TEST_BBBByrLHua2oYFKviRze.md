@@ -1,16 +1,17 @@
 # [TEST] `BBBByrLHua2oYFKv...`
-> 2026-03-17 13:35 UTC | **116** pos | **17W/98L** | P&L: **-0.009854 SOL** (-27.4%) | 1 open
+> 2026-03-17 13:40 UTC | **117** pos | **17W/99L** | P&L: **-0.009918 SOL** (-27.5%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Out | 03-17 13:28 | 0.49x | 1.00x | 0.1h | 0.0001 |
+| ANIMAL | 03-17 13:39 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Out | -0.0001 | 03-17 13:28 | 1.0x | 03-17 13:35 | 0.0000/0.0001 | SL |
 | ❌ ALIEN GANY | -0.0001 | 03-17 13:14 | 1.0x | 03-17 13:31 | 0.0000/0.0001 | SL |
 | ❌ Mashu | -0.0001 | 03-17 10:56 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ RECESSION | -0.0001 | 03-17 09:47 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -131,6 +132,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:39 | ANIMAL | BUY | 0.0001 | `fT7EoDuadkdiJ7XL...` |
+| 03-17 13:35 | Out | SELL | 0.0000 | `5ZxXVc74Crt4AZdc...` |
 | 03-17 13:31 | ALIEN GANY | SELL | 0.0000 | `3uBDEiGgba9mVEZ6...` |
 | 03-17 13:28 | Out | BUY | 0.0001 | `5RMWqh1f33JTAs7f...` |
 | 03-17 13:14 | ALIEN GANY | BUY | 0.0001 | `d4vcJWKi5BrwzVFJ...` |

@@ -1,5 +1,5 @@
 # [TEST] `BKphAyRdhwBhcNx1...`
-> 2026-03-17 13:35 UTC | **287** pos | **44W/243L** | P&L: **-0.039656 SOL** (-29.8%) | 0 open
+> 2026-03-17 13:40 UTC | **287** pos | **44W/243L** | P&L: **-0.039656 SOL** (-29.8%) | 0 open
 
 ## Closed
 
@@ -324,10 +324,10 @@
 | 03-16 23:18 | CC | SELL | 0.0000 | `CVamcXn6oPHsCuuW...` |
 | 03-16 23:18 | BBX | SELL | 0.0000 | `3XnsXz7Fz3o93Mx7...` |
 | 03-16 23:18 | Angela | SELL | 0.0003 | `5M5soJCzMr9bw15r...` |
-| 03-16 19:13 | UNEMPLOYED | SELL | 0.0001 | `?` |
 | 03-16 19:13 | DOGE KIDS | SELL | 0.0001 | `?` |
-| 03-16 19:13 | PILL | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Coolpunks | SELL | 0.0001 | `?` |
+| 03-16 19:13 | PILL | SELL | 0.0001 | `?` |
+| 03-16 19:13 | UNEMPLOYED | SELL | 0.0001 | `?` |
 | 03-16 19:13 | CLAUDE | SELL | 0.0001 | `?` |
 | 03-16 18:55 | AI | SELL | 0.0005 | `?` |
 | 03-16 18:55 | 6 | SELL | 0.0005 | `?` |
@@ -540,8 +540,8 @@
 | 03-16 13:10 | JM | BUY | 0.0006 | `2u223HLRMF8UcE8j...` |
 | 03-16 13:09 | face | BUY | 0.0006 | `5v6G7f3mV4tBupWS...` |
 | 03-16 13:04 | COFFEE | BUY | 0.0006 | `pCxADGUtJUEvZPcp...` |
-| 03-16 13:01 | JM | SELL | 0.0004 | `A2igSC1LDJdPP49V...` |
 | 03-16 13:01 | KOOZIE | BUY | 0.0006 | `4xuaNFFovTQzyGMH...` |
+| 03-16 13:01 | JM | SELL | 0.0004 | `A2igSC1LDJdPP49V...` |
 | 03-16 13:00 | PANCAKE | BUY | 0.0006 | `2pfRPwz3j7npGRcd...` |
 | 03-16 12:59 | KIMIAI | BUY | 0.0006 | `KBzj1V6yyHPxLj57...` |
 | 03-16 12:59 | JM | BUY | 0.0006 | `7kHu8B1NiY9pSjxg...` |

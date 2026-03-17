@@ -1,11 +1,11 @@
 # [TEST] `E79aNzAkDa92b5bn...`
-> 2026-03-17 13:35 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+> 2026-03-17 13:40 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| CLAW3D | 03-17 13:30 | 1.22x | 1.34x | 0.1h | 0.0001 |
+| CLAW3D | 03-17 13:30 | 2.30x | 2.52x | 0.2h | 0.0001 |
 
 ## Closed
 
@@ -17,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:38 | CLAW3D | SELL | 0.0000 | `3SV5xxZ8W1kexgHS...` |
 | 03-17 13:30 | CLAW3D | BUY | 0.0001 | `4PLB9AStqahqHuDU...` |
 | 03-16 15:42 | laptop | BUY | 0.0001 | `4jbhUbDyHVq8E7LD...` |
 

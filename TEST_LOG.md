@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:35 UTC** | 7d | 1307 buys, 1835 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:40 UTC** | 7d | 1309 buys, 1839 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:39 | 🟢 BUY | ANIMAL | 0.0001 | BBBByrLH... | copy_buy | `fT7EoDuadkdi...` |
+| 03-17 | 13:38 | 💰 SELL | CLAW3D | 0.0000 | E79aNzAk... | TP1 | `3SV5xxZ8W1ke...` |
+| 03-17 | 13:37 | 💰 SELL | MEMSIE | 0.0001 | 2autqiin... | trail | `MbU1qJikFoqr...` |
+| 03-17 | 13:36 | 🟢 BUY | BBX | 0.0001 | 6E4897rJ... | copy_buy | `4PucruidNcNK...` |
+| 03-17 | 13:35 | 🔴 SELL | кот | 0.0000 | 721EJnQ9... | SL | `4iyqYr8eNDDn...` |
+| 03-17 | 13:35 | 🔴 SELL | Out | 0.0000 | BBBByrLH... | SL | `5ZxXVc74Crt4...` |
 | 03-17 | 13:32 | 🟢 BUY | DRONE | 0.0001 | G5eugJMk... | copy_buy | `3QgR6RE7ywsw...` |
 | 03-17 | 13:31 | 💰 SELL | L/0 | 0.0000 | EaEf6TH8... | TP1 | `4W15u34XkFhW...` |
 | 03-17 | 13:31 | 🔴 SELL | ALIEN GANY | 0.0000 | BBBByrLH... | SL | `3uBDEiGgba9m...` |
