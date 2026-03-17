@@ -1,11 +1,13 @@
 # [TEST] `35RArQiyVX4sh8ij...`
-> 2026-03-17 17:35 UTC | **14** pos | **1W/11L** | P&L: **-0.000580 SOL** (-34.1%) | 2 open
+> 2026-03-17 17:40 UTC | **16** pos | **1W/11L** | P&L: **-0.000580 SOL** (-34.1%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| CLIPHUB | 03-17 13:03 | 0.61x | 1.00x | 4.5h | 0.0001 |
+| magnets | 03-17 17:39 | 1.00x | 1.00x | 0.0h | 0.0001 |
+| LUCKYDOGE | 03-17 17:37 | 1.09x | 1.20x | 0.0h | 0.0001 |
+| CLIPHUB | 03-17 13:03 | 0.61x | 1.00x | 4.6h | 0.0001 |
 | DUNE | 03-17 12:55 | 0.44x | 1.07x | 4.7h | 0.0001 |
 
 ## Closed
@@ -29,6 +31,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:39 | magnets | BUY | 0.0001 | `5QEy68fFponGtAJf...` |
+| 03-17 17:37 | LUCKYDOGE | BUY | 0.0001 | `3yJho3z6mbnJry1V...` |
 | 03-17 14:26 | Yoyo  | SELL | 0.0000 | `5nMUJsuaCC37mwad...` |
 | 03-17 14:18 | Yoyo  | BUY | 0.0001 | `6gdH83Q7bX8GrcJi...` |
 | 03-17 13:53 | Lucky | SELL | 0.0001 | `d3EyfHuwq2v2zMYN...` |

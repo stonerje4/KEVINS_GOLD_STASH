@@ -1,8 +1,21 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:35 UTC** | 7d | 1528 buys, 2002 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 17:40 UTC** | 7d | 1536 buys, 2007 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:39 | 🟢 BUY | PAWAN | 0.0001 | 6gN2SNYX... | copy_buy | `3XpxhdHCTJZh...` |
+| 03-17 | 17:39 | 🟢 BUY | magnets | 0.0001 | 35RArQiy... | copy_buy | `5QEy68fFponG...` |
+| 03-17 | 17:39 | 💰 SELL | meme | 0.0001 | BBBByrLH... | TP1 | `4irSV1D2kcs9...` |
+| 03-17 | 17:38 | 💰 SELL | oneshotted | 0.0000 | BBBByrLH... | TP3 | `4A3AWNnvvv9B...` |
+| 03-17 | 17:37 | 🟢 BUY | LUCKYDOGE | 0.0001 | 35RArQiy... | copy_buy | `3yJho3z6mbnJ...` |
+| 03-17 | 17:37 | 💰 SELL | oneshotted | 0.0001 | BBBByrLH... | TP2 | `5G1jdJR3sa12...` |
+| 03-17 | 17:36 | 💰 SELL | oneshotted | 0.0001 | BBBByrLH... | TP1 | `37JeUrfp3Z8a...` |
+| 03-17 | 17:36 | 🟢 BUY | xAU | 0.0001 | 87nWQxQv... | copy_buy | `gFQcoaxnpnHm...` |
+| 03-17 | 17:36 | 🟢 BUY | meme | 0.0001 | BBBByrLH... | copy_buy | `4rFGJuhwohqx...` |
+| 03-17 | 17:36 | 🟢 BUY | BABYPUNCH | 0.0001 | otq3sTTS... | copy_buy | `46cqop4MavyD...` |
+| 03-17 | 17:36 | 💰 SELL | IQ | 0.0001 | Gdd86j2T... | TP1 | `w2oF8MqBE6YK...` |
+| 03-17 | 17:35 | 🟢 BUY | DAD | 0.0001 | TZkcwgk6... | copy_buy | `iHi5vHMAshRv...` |
+| 03-17 | 17:35 | 🟢 BUY | CLAUDE | 0.0001 | bocsoUiM... | copy_buy | `3Eorh8rPo1qq...` |
 | 03-17 | 17:34 | 🔴 SELL | Solana | 0.0000 | Lfw99jsE... | SL | `3yecsEMPqKde...` |
 | 03-17 | 17:34 | 🟢 BUY | RAVEN | 0.0001 | BBBByrLH... | copy_buy | `E1m6kGErjK5r...` |
 | 03-17 | 17:34 | 💰 SELL | Chicken | 0.0001 | Lfw99jsE... | TP1 | `42RNL4bkBuF8...` |

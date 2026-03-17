@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 17:35 UTC** | 7d | 718 buys, 950 sells | In: **86.93** | Out: **81.07** | Net: **-5.86 SOL**
+> Updated: **2026-03-17 17:40 UTC** | 7d | 721 buys, 950 sells | In: **87.38** | Out: **81.07** | Net: **-6.31 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:39 | 🟢 BUY | IQ | 0.1500 | 6qTPHgnS... | copy | `XGLzx4vF8X57...` |
+| 03-17 | 17:37 | 🟢 BUY | BBX | 0.1500 | BGGJhxGX... | copy | `iskeYMCEKQCC...` |
+| 03-17 | 17:36 | 🟢 BUY | Chicken | 0.1500 | E79aNzAk... | copy | `uKkfgiP9eRzu...` |
 | 03-17 | 17:29 | 🟢 BUY | Momo-chan | 0.1500 | 42nQHDpy... | copy | `3yRN43YpgXbA...` |
 | 03-17 | 17:28 | 🔴 SELL | LMG | 0.0252 | 42nQHDpy... | SL | `3J72v7Si2RXt...` |
 | 03-17 | 17:27 | 🟢 BUY | LMG | 0.1500 | 42nQHDpy... | copy | `4pxJLfQbKnWi...` |
