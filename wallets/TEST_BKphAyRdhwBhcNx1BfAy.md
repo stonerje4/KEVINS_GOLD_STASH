@@ -1,5 +1,5 @@
 # [TEST] `BKphAyRdhwBhcNx1...`
-> 2026-03-17 12:10 UTC | **287** pos | **44W/243L** | P&L: **-0.039656 SOL** (-29.8%) | 0 open
+> 2026-03-17 12:15 UTC | **287** pos | **44W/243L** | P&L: **-0.039656 SOL** (-29.8%) | 0 open
 
 ## Closed
 
@@ -324,13 +324,13 @@
 | 03-16 23:18 | CC | SELL | 0.0000 | `CVamcXn6oPHsCuuW...` |
 | 03-16 23:18 | BBX | SELL | 0.0000 | `3XnsXz7Fz3o93Mx7...` |
 | 03-16 23:18 | Angela | SELL | 0.0003 | `5M5soJCzMr9bw15r...` |
+| 03-16 19:13 | DOGE KIDS | SELL | 0.0001 | `?` |
 | 03-16 19:13 | PILL | SELL | 0.0001 | `?` |
 | 03-16 19:13 | UNEMPLOYED | SELL | 0.0001 | `?` |
-| 03-16 19:13 | DOGE KIDS | SELL | 0.0001 | `?` |
-| 03-16 19:13 | CLAUDE | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Coolpunks | SELL | 0.0001 | `?` |
-| 03-16 18:55 | AI | SELL | 0.0005 | `?` |
+| 03-16 19:13 | CLAUDE | SELL | 0.0001 | `?` |
 | 03-16 18:55 | 6 | SELL | 0.0005 | `?` |
+| 03-16 18:55 | AI | SELL | 0.0005 | `?` |
 | 03-16 18:25 | DGKN | BUY | 0.0001 | `4Wwui2pBEAhRgHvu...` |
 | 03-16 18:22 | LebFund | BUY | 0.0001 | `2Rhc38L1R7auZ7iy...` |
 | 03-16 18:19 | Clanker | SELL | 0.0007 | `5VCDxh9U3ojPhWGs...` |
@@ -396,8 +396,8 @@
 | 03-16 16:39 | Wif | SELL | 0.0000 | `2x8iHKW9LbzCA5Ff...` |
 | 03-16 16:38 | Bull | BUY | 0.0001 | `4ApKjq7MkTxh6tXS...` |
 | 03-16 16:37 | @pumpfun | SELL | 0.0000 | `2Da4Mx662wBKCPkG...` |
-| 03-16 16:37 | LAD | SELL | 0.0001 | `26hwxacsT5RaMGpu...` |
 | 03-16 16:37 | clod | BUY | 0.0001 | `5o7D5o2DGM76bNqc...` |
+| 03-16 16:37 | LAD | SELL | 0.0001 | `26hwxacsT5RaMGpu...` |
 | 03-16 16:36 | Raven | BUY | 0.0001 | `4a77h5yhF2GVPEdR...` |
 | 03-16 16:36 | KITTY | BUY | 0.0001 | `4P1Xy8dCHa33bAVA...` |
 | 03-16 16:33 | BAGWORK | SELL | 0.0000 | `5GPRVKB8sbH33Avv...` |

@@ -1,8 +1,9 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 12:10 UTC** | 7d | 1266 buys, 1805 sells | In: **0.46** | Out: **0.30** | Net: **-0.16 SOL**
+> Updated: **2026-03-17 12:15 UTC** | 7d | 1266 buys, 1806 sells | In: **0.46** | Out: **0.30** | Net: **-0.16 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 12:11 | 🔴 SELL | DonTzu | 0.0000 | FoabCXs5... | SL | `5CutMGmWf2qT...` |
 | 03-17 | 12:10 | 💰 SELL | KIWI | 0.0000 | FoHJUYTh... | TP1 | `249SbZrASPd1...` |
 | 03-17 | 12:09 | 🟢 BUY | gayhormuz | 0.0001 | 51Ui3ZD4... | copy_buy | `Ap3SA9A4gYDi...` |
 | 03-17 | 12:05 | 🟢 BUY | Akhal-Teke | 0.0001 | FoHJUYTh... | copy_buy | `5UEAw5BTShas...` |
