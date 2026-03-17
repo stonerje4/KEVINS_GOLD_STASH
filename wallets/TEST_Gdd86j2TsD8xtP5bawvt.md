@@ -1,18 +1,27 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 08:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 4 |
+| Total Positions | 10 |
+| Open | 5 |
 | Closed | 5 |
 | W/L | 5/0 |
 | SOL In (closed) | 0.001000 |
 | **Closed P&L** | **+0.000809 SOL** |
 | **Closed ROI** | **+80.9%** |
-| Open Deployed | 0.000400 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
+
+### 🟢 RETRO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `7tnpYdpwfyjozPUdfU3K8whqPZ8YtqLGcUp9Kpdtpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 08:09:15 | BUY | 0.000100 | `zNzbgitw3jRCjs3NpoqpypBdzgxi81...` |
 
 ### 🟢 Distorted
 - **Status:** open | **Exit:** open
