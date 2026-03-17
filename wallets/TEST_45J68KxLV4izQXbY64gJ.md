@@ -1,5 +1,11 @@
 # [TEST] `45J68KxLV4izQXbY...`
-> 2026-03-17 12:45 UTC | **3** pos | **0W/3L** | P&L: **-0.000253 SOL** (-84.2%) | 0 open
+> 2026-03-17 12:50 UTC | **4** pos | **0W/3L** | P&L: **-0.000253 SOL** (-84.2%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| STP | 03-17 12:45 | 1.00x | 1.00x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:45 | STP | BUY | 0.0001 | `ufsDmi7cFLwgaNuG...` |
 | 03-17 08:14 | HAIKUU | SELL | 0.0000 | `JJKv9QBxXR3Hpkyt...` |
 | 03-17 07:02 | HAIKUU | SELL | 0.0000 | `3VDHWUcuLw3u7555...` |
 | 03-17 03:32 | HAIKUU | BUY | 0.0001 | `rdQzmATimnhXUnxY...` |

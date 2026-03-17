@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 12:45 UTC** | 7d | 1276 buys, 1813 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 12:50 UTC** | 7d | 1278 buys, 1815 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 12:48 | 💰 SELL | $GENIUS | 0.0000 | FoabCXs5... | TP2 | `5VcchBbgKPAo...` |
+| 03-17 | 12:47 | 🟢 BUY | StElon | 0.0001 | BDe7kU3V... | copy_buy | `2u7UnGFZf3fw...` |
+| 03-17 | 12:47 | 💰 SELL | $GENIUS | 0.0000 | FoabCXs5... | TP1 | `3pKXtH4XC5T1...` |
+| 03-17 | 12:45 | 🟢 BUY | STP | 0.0001 | 45J68KxL... | copy_buy | `ufsDmi7cFLwg...` |
 | 03-17 | 12:44 | 🟢 BUY | patricklon | 0.0001 | 45j4enZd... | copy_buy | `41SY6LD5Uwj3...` |
 | 03-17 | 12:44 | 🟢 BUY | $GENIUS | 0.0001 | FoabCXs5... | copy_buy | `5vmZvJAxWqa7...` |
 | 03-17 | 12:42 | 💰 SELL | NALA | 0.0000 | EaEf6TH8... | TP3 | `3dF1sM3rbRmo...` |

@@ -1,12 +1,12 @@
 # [TEST] `FoabCXs5iQBv7mXu...`
-> 2026-03-17 12:45 UTC | **12** pos | **2W/8L** | P&L: **-0.000261 SOL** (-26.1%) | 2 open
+> 2026-03-17 12:50 UTC | **12** pos | **2W/8L** | P&L: **-0.000261 SOL** (-26.1%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| $GENIUS | 03-17 12:44 | 1.00x | 1.00x | 0.0h | 0.0001 |
-| THIS | 03-17 12:02 | 0.92x | 1.00x | 0.7h | 0.0001 |
+| $GENIUS | 03-17 12:44 | 3.01x | 3.06x | 0.1h | 0.0001 |
+| THIS | 03-17 12:02 | 0.92x | 1.00x | 0.8h | 0.0001 |
 
 ## Closed
 
@@ -27,6 +27,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:48 | $GENIUS | SELL | 0.0000 | `5VcchBbgKPAo74df...` |
+| 03-17 12:47 | $GENIUS | SELL | 0.0000 | `3pKXtH4XC5T1sD7r...` |
 | 03-17 12:44 | $GENIUS | BUY | 0.0001 | `5vmZvJAxWqa7U8qq...` |
 | 03-17 12:11 | DonTzu | SELL | 0.0000 | `5CutMGmWf2qTkum3...` |
 | 03-17 12:03 | DonTzu | BUY | 0.0001 | `57FzDWCjPgpePgA1...` |
