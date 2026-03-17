@@ -1,5 +1,11 @@
 # [TEST] `CZjxED3uVrU4MaNq...`
-> 2026-03-17 15:25 UTC | **11** pos | **3W/8L** | P&L: **+0.000369 SOL** (+5.6%) | 0 open
+> 2026-03-17 15:30 UTC | **12** pos | **3W/8L** | P&L: **+0.000369 SOL** (+5.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BCC | 03-17 15:26 | 0.80x | 1.02x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -21,6 +27,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:26 | BCC | BUY | 0.0001 | `4XBqTcy4sARjM7jb...` |
 | 03-16 18:55 | PONZI | SELL | 0.0004 | `?` |
 | 03-16 13:36 | Bear  | BUY | 0.0006 | `3GDoQkM6NGjk7cG4...` |
 | 03-16 13:29 | BULLS | SELL | 0.0012 | `3ALFwzLj7mmQ1rce...` |

@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:25 UTC** | 7d | 1391 buys, 1902 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:30 UTC** | 7d | 1396 buys, 1904 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:29 | 🔴 SELL | Unicode | 0.0000 | FzMeg6P2... | SL | `3pTeSmZNLsMP...` |
+| 03-17 | 15:27 | 🟢 BUY | Waiter | 0.0001 | GHy1P6vJ... | copy_buy | `57VHjTRNMned...` |
+| 03-17 | 15:26 | 🟢 BUY | BCC | 0.0001 | CZjxED3u... | copy_buy | `4XBqTcy4sARj...` |
+| 03-17 | 15:26 | 🔴 SELL | IQ | 0.0000 | cqakon1K... | SL | `5dMB1NHFunLv...` |
+| 03-17 | 15:26 | 🟢 BUY | USEFUL | 0.0001 | FzMeg6P2... | copy_buy | `5FVyXQBH51Ez...` |
+| 03-17 | 15:25 | 🟢 BUY | boop | 0.0001 | AJ8Gc1cY... | copy_buy | `324w1CWAa5q7...` |
+| 03-17 | 15:25 | 🟢 BUY | New911 | 0.0001 | FoHJUYTh... | copy_buy | `5VAhaxtSKP8z...` |
 | 03-17 | 15:24 | 💰 SELL | KENNY | 0.0000 | EaEf6TH8... | TP3 | `4oFfhfgHuBnd...` |
 | 03-17 | 15:23 | 🔴 SELL | ARTERIA | 0.0001 | otq3sTTS... | trail | `4D3EYaKu2QxB...` |
 | 03-17 | 15:22 | 🟢 BUY | DUNGBEETLE | 0.0001 | 5w2o5TZt... | copy_buy | `5BXPMYomsFz8...` |
