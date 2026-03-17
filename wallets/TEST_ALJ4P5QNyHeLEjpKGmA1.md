@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ALJ4P5QNyHeLEjpKGmA1eUfJHSEGQMjY8HLnDkSgjczb`
-> Generated: 2026-03-17 03:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 BTA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.72x
+- **Peak:** 1.00x | **Current:** 0.64x
 - **Mint:** `GPEWz1FADxfrKLF9VYeuLfFgZgVhixyKU5xQTFapump`
 
 | Time | Action | SOL | TX |
