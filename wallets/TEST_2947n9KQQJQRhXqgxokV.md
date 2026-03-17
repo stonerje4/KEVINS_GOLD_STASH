@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-17 07:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 WAR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.58x | **Current:** 1.58x
+- **Peak:** 1.58x | **Current:** 1.57x
 - **Mint:** `BkSocKC4rLKx6WUWq1qmdUWAgLT4wdb4WvwTsPu1pump`
 
 | Time | Action | SOL | TX |
@@ -182,13 +182,14 @@
 | 2026-03-16 19:13:12 | SELL | 0.000060 | `?` |
 
 ### 🟢 FTR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.95x | **Current:** 1.94x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.06x | **Current:** 2.06x
 - **Mint:** `8kv9M9MNM5LtuxakWiViJx6GCYVexk2ZBexucRYNpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 05:02:50 | BUY | 0.000600 | `Vrw3HcA8XiqWRPtoJaKte4qVcCUymt...` |
+| 2026-03-17 07:11:38 | SELL | 0.000123 | `3bFsMMgT8Zud5VeQm4Ax49HJZR3ZQ3...` |
 
 ### 🟢 KELLY
 - **Status:** open | **Exit:** open

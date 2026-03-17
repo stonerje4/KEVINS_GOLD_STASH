@@ -1,5 +1,5 @@
 # [TEST] Wallet: `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN`
-> Generated: 2026-03-17 07:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 SolGany
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.99x
+- **Peak:** 1.45x | **Current:** 1.10x
 - **Mint:** `DW7KXtsfgxuiMXe3eSfwFLhJ9P4WNTBtaBpz5ciMpump`
 
 | Time | Action | SOL | TX |

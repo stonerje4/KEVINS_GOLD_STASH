@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 07:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 120 |
-| Open | 32 |
+| Total Positions | 121 |
+| Open | 33 |
 | Closed | 88 |
 | W/L | 87/1 |
 | SOL In (closed) | 0.036800 |
 | **Closed P&L** | **+0.030708 SOL** |
 | **Closed ROI** | **+83.4%** |
-| Open Deployed | 0.004700 SOL |
+| Open Deployed | 0.004800 SOL |
 
 ## Trades
 
+### 🟢 NOSTALGIA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.30x | **Current:** 1.30x
+- **Mint:** `CfqiWhLSPQJJGYnJHifiAG99j9iAB2cr6JP2tUkspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:12:49 | BUY | 0.000100 | `AV1uc87kndpHy9EtZVW21UncuTwuiZ...` |
+
 ### 🟢 ARTEMIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+- **Peak:** 1.12x | **Current:** 1.00x
 - **Mint:** `5Yy9zyQpZLeyVUJ2f49XQpKGgGabEtx8PZHueDtHpump`
 
 | Time | Action | SOL | TX |
@@ -35,7 +44,7 @@
 
 ### 🟢 TFW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.60x
+- **Peak:** 1.06x | **Current:** 0.59x
 - **Mint:** `B3ourVCf5dvwY24zZm9eoKdQHP3NkYLCX66buK3Hpump`
 
 | Time | Action | SOL | TX |
@@ -43,13 +52,14 @@
 | 2026-03-17 07:04:31 | BUY | 0.000100 | `3ifEk8y2N9H3axd4oGN27q371pXsek...` |
 
 ### 🟢 AEX402
-- **Status:** open | **Exit:** open
-- **Peak:** 1.91x | **Current:** 1.48x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.02x | **Current:** 1.92x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 06:49:19 | BUY | 0.000100 | `2WTN43qdgHn2riiR5TGh5RXi3u3F3D...` |
+| 2026-03-17 07:13:09 | SELL | 0.000020 | `5YtoQkYWycR4besvMiJ884GTTTRHS7...` |
 
 ### 🟢 NoseBoop
 - **Status:** open | **Exit:** open
@@ -168,7 +178,7 @@
 
 ### 🟢 ST. PIPPIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.60x | **Current:** 0.55x
+- **Peak:** 1.60x | **Current:** 0.54x
 - **Mint:** `D88W9fiFMLWgzjWe3sPfqsirn3wZgaiJm2opN5YNpump`
 
 | Time | Action | SOL | TX |
@@ -790,7 +800,7 @@
 
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.54x
+- **Peak:** 1.12x | **Current:** 0.53x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-17 07:10 UTC | Environment: **PRD**
+> Generated: 2026-03-17 07:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Venezuela 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.42x | **Current:** 0.00x
+- **Peak:** 1.94x | **Current:** 0.00x
 - **Mint:** `A9gpAbiTLByzLFmLhZUk1fe5dgWeL1pZu8SGZGXWpump`
 
 | Time | Action | SOL | TX |

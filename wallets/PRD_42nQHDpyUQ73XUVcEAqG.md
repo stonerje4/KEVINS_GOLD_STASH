@@ -1,22 +1,22 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 07:10 UTC | Environment: **PRD**
+> Generated: 2026-03-17 07:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 5 |
-| Closed | 10 |
-| W/L | 10/0 |
-| SOL In (closed) | 0.002500 |
-| **Closed P&L** | **+0.004316 SOL** |
-| **Closed ROI** | **+172.7%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 4 |
+| Closed | 11 |
+| W/L | 11/0 |
+| SOL In (closed) | 0.002600 |
+| **Closed P&L** | **+0.004877 SOL** |
+| **Closed ROI** | **+187.6%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
 ### 🟢 OKARA
-- **Status:** partial | **Exit:** open
-- **Peak:** 10.26x | **Current:** 8.31x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 10.26x | **Current:** 5.77x
 - **Mint:** `Gc3J24TWcjKVBMxYJJthEoPhJjqafYbz7uyjUmejpump`
 
 | Time | Action | SOL | TX |
@@ -27,6 +27,7 @@
 | 2026-03-17 06:42:48 | SELL | 0.000044 | `soJPDYTch3e8iFp8H7Ficj6SWbhAgG...` |
 | 2026-03-17 06:48:54 | SELL | 0.000061 | `4jxGJaeVQdzp39GkoZ8qHE7SLFo64E...` |
 | 2026-03-17 07:03:23 | SELL | 0.000067 | `31hodD4bhKbK5PEG2fvcGup9MnwkJC...` |
+| 2026-03-17 07:12:24 | SELL | 0.000339 | `5yBWoToEStHXBubau6V46Th1agx7Uw...` |
 
 ### 🟢 SYNTHRA
 - **Status:** open | **Exit:** open
@@ -69,7 +70,7 @@
 
 ### 🟢 honkermog
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 1.47x
+- **Peak:** 2.44x | **Current:** 1.49x
 - **Mint:** `2Z5BMaPjri6gsK7i7LHDmdfQrkpV9kbkVnrsosvNpump`
 
 | Time | Action | SOL | TX |
