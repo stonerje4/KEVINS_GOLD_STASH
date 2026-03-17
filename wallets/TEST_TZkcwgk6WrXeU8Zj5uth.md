@@ -1,5 +1,5 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 05:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 ## Trades
 
 ### 🔴 BITCOIN
-- **Status:** closing | **Exit:** runner_trailing_stop
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 2.82x | **Current:** 0.81x
 - **Mint:** `67JxGtfRB6qoYEQ6csTb9jFSF7f7WAbNeSAp6Mkmpump`
 

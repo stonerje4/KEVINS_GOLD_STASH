@@ -1,5 +1,5 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 05:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 GIGGLES
-- **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 1.40x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.38x | **Current:** 0.94x
 - **Mint:** `GZJAmw2D8WRLokKv1qnPhryAJ3xCD6z5jnwEiaV7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:58:05 | BUY | 0.000100 | `4UjhG26GK1vUowUF8sLYrDoeQCEaZg...` |
+| 2026-03-17 05:01:48 | SELL | 0.000021 | `3woSn5d8qBdGnL1wGTAY84rDdArs7L...` |
 
 ### 🔴 Life
 - **Status:** closed | **Exit:** runner_trailing_stop
