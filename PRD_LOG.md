@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 15:15 UTC** | 7d | 692 buys, 938 sells | In: **82.03** | Out: **79.84** | Net: **-2.19 SOL**
+> Updated: **2026-03-17 15:20 UTC** | 7d | 693 buys, 938 sells | In: **82.28** | Out: **79.84** | Net: **-2.44 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:17 | 🟢 BUY | Flash | 0.1500 | CZjxED3u... | copy | `5XNuoVpJMfbM...` |
+| 03-17 | 15:16 | 🟢 BUY | IQ | 0.1500 | 7aMgK5L4... | copy | `26uvM21WGJRH...` |
 | 03-17 | 15:06 | 🔴 SELL | $BBX | 0.1454 | r9pFHjFe... | stale | `EDy9FroBAcvs...` |
 | 03-17 | 15:05 | 🔴 SELL | Mossad | 0.0317 | EFmDSnRb... | SL | `47XuYVUxZ7uR...` |
 | 03-17 | 15:04 | 🟢 BUY | Guinness | 0.1500 | CZjxED3u... | copy | `GkZLwRqYuMvp...` |
@@ -1632,4 +1634,3 @@
 | 03-10 | 15:46 | 🟢 BUY | Yoshi | 0.0500 | 9rb2ChEj... | copy | `5Lk9DTUEDGaP...` |
 | 03-10 | 15:43 | 🟢 BUY | SPACE | 0.0500 | 9rb2ChEj... | copy | `36qGDPFH6sbg...` |
 | 03-10 | 15:34 | 🟢 BUY | 𝕏 Card  | 0.0500 | 4uCx1BG5... | copy | `4U5Ay4hqjcvW...` |
-| 03-10 | 15:19 | 🟢 BUY | BET | 0.0500 | 4Be9Cvxq... | copy | `676f49Dc4jEZ...` |

@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:15 UTC** | 7d | 1381 buys, 1898 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:20 UTC** | 7d | 1385 buys, 1899 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:18 | 🟢 BUY | ARTERIA | 0.0001 | otq3sTTS... | copy_buy | `2341UpMXtFLq...` |
+| 03-17 | 15:18 | 💰 SELL | JOEKENT | 0.0000 | EaEf6TH8... | TP2 | `4fDzX1iHAH9Q...` |
+| 03-17 | 15:17 | 🟢 BUY | 󠀠 | 0.0001 | AJ8Gc1cY... | copy_buy | `4TsbWKVivGwB...` |
+| 03-17 | 15:16 | 🟢 BUY | Smiski | 0.0001 | AiNfNi2e... | copy_buy | `3RtQtUnHQ7p8...` |
+| 03-17 | 15:16 | 🟢 BUY | crine | 0.0001 | BmXugVGY... | copy_buy | `3WUgjwj1Sfsm...` |
 | 03-17 | 15:13 | 💰 SELL | JOEKENT | 0.0000 | EaEf6TH8... | TP1 | `5VhvUZDj7SrP...` |
 | 03-17 | 15:12 | 🟢 BUY | LEPEPE | 0.0001 | FoabCXs5... | copy_buy | `2mLah23F8Maa...` |
 | 03-17 | 15:12 | 🟢 BUY | AgentKit | 0.0001 | GHy1P6vJ... | copy_buy | `5JAfTx8fJPU7...` |
