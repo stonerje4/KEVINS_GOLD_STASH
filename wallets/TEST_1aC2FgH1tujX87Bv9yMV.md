@@ -1,5 +1,5 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-17 04:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -44,7 +44,7 @@
 
 ### 🟢 MILK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 0.63x
+- **Peak:** 1.38x | **Current:** 0.61x
 - **Mint:** `4G4eWdTrmApqMazmahAdVXwB51rrSBNWMsYJDPJhpump`
 
 | Time | Action | SOL | TX |

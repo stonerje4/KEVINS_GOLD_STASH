@@ -1,5 +1,5 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-17 04:15 UTC | Environment: **PRD**
+> Generated: 2026-03-17 04:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 TITAN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.78x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.18x | **Current:** 0.00x
 - **Mint:** `4ay158ynQu4RfKe4oEjQFd3om2Fvyguz1UnQMm3rpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:34:18 | BUY | 0.150000 | `5ExkCxV9gYYQYMREGJyoS1QmNrmQVT...` |
+| 2026-03-17 04:16:52 | SELL | 0.032637 | `33kn1hJHjiGXtjmp6pDyZt75cRmErP...` |
 
 ### 🔴 promp
 - **Status:** closed | **Exit:** stop_loss

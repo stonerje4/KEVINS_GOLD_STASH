@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs`
-> Generated: 2026-03-17 04:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 QAIA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.68x
+- **Peak:** 1.00x | **Current:** 0.50x
 - **Mint:** `DpbUqjKzMiiBxUMinvMx8GSREbSwH6kBubk5xKVXBAGS`
 
 | Time | Action | SOL | TX |

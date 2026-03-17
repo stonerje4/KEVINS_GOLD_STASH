@@ -1,22 +1,22 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 04:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 10 |
-| Closed | 5 |
-| W/L | 5/0 |
-| SOL In (closed) | 0.001000 |
-| **Closed P&L** | **+0.000768 SOL** |
-| **Closed ROI** | **+76.8%** |
-| Open Deployed | 0.001500 SOL |
+| Open | 9 |
+| Closed | 6 |
+| W/L | 6/0 |
+| SOL In (closed) | 0.001100 |
+| **Closed P&L** | **+0.002886 SOL** |
+| **Closed ROI** | **+262.4%** |
+| Open Deployed | 0.001400 SOL |
 
 ## Trades
 
 ### 🟢 BITCOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.01x
+- **Peak:** 1.26x | **Current:** 0.46x
 - **Mint:** `6cApU1MpjzHfF5E52yVTovHjzQWse3726r7f8E1mpump`
 
 | Time | Action | SOL | TX |
@@ -43,8 +43,8 @@
 | 2026-03-17 02:55:12 | BUY | 0.000100 | `3jKnhpYmMHMzNs1JVpGVzC7zEDeo2H...` |
 
 ### 🟢 Gany
-- **Status:** partial | **Exit:** open
-- **Peak:** 63.45x | **Current:** 32.54x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 63.45x | **Current:** 29.45x
 - **Mint:** `BgtczEGgf9mZMcGBLi4J5Pn8PtmFy6Xz5uBKkMfspump`
 
 | Time | Action | SOL | TX |
@@ -59,6 +59,7 @@
 | 2026-03-17 02:59:11 | SELL | 0.000206 | `3hVLSwzAC9oY2vKmphFcYG6hUtR1EU...` |
 | 2026-03-17 03:13:41 | SELL | 0.000205 | `345x3pNKVA6Xt3UJzEPXhew3pbBxpT...` |
 | 2026-03-17 03:17:20 | SELL | 0.000258 | `uu4JfH2r5vk3bEbF1stv4SuzjZnqWb...` |
+| 2026-03-17 04:17:13 | SELL | 0.001095 | `38xVf7cDnrSvstH8LwMak3kNmd9t2Z...` |
 
 ### 🟢 patrick 
 - **Status:** open | **Exit:** open

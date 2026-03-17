@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 04:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.001300 |
 | **Closed P&L** | **+0.001136 SOL** |
 | **Closed ROI** | **+87.4%** |
-| Open Deployed | 0.000400 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
-### ⚪ chuckee
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 chuckee
+- **Status:** open | **Exit:** open
+- **Peak:** 1.21x | **Current:** 0.75x
 - **Mint:** `HuhPV9jpYBqfaDKzwjXoiH4MD9oGaxUCKKLBQFHMpump`
 
 | Time | Action | SOL | TX |
