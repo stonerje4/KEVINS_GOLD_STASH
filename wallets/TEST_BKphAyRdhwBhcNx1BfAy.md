@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 287 |
-| Open | 81 |
-| Closed | 206 |
-| W/L | 195/11 |
-| SOL In (closed) | 0.104600 |
+| Open | 80 |
+| Closed | 207 |
+| W/L | 195/12 |
+| SOL In (closed) | 0.105200 |
 | **Closed P&L** | **+0.089898 SOL** |
-| **Closed ROI** | **+85.9%** |
-| Open Deployed | 0.028600 SOL |
+| **Closed ROI** | **+85.5%** |
+| Open Deployed | 0.028000 SOL |
 
 ## Trades
 
@@ -211,7 +211,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.79x
+- **Peak:** 3.16x | **Current:** 2.80x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -1007,7 +1007,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.75x
+- **Peak:** 1.80x | **Current:** 0.69x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -2058,7 +2058,7 @@
 
 ### 🟢 DRONE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.95x | **Current:** 2.68x
+- **Peak:** 2.95x | **Current:** 2.70x
 - **Mint:** `GBmawmE9jJvyYVbdgTdYi9NXsjWwR5EaytvkrRwcpump`
 
 | Time | Action | SOL | TX |
@@ -2492,14 +2492,15 @@
 | 2026-03-16 03:07:32 | BUY | 0.000600 | `3sUYdLf3u3erEeNfvEgMo44j2WRBfs...` |
 | 2026-03-16 03:09:25 | SELL | 0.000096 | `5cE68bhcPH6tndfXZUNZyqrZinhjLQ...` |
 
-### 🟢 JAREPSTEIN
-- **Status:** open | **Exit:** open
+### 🔴 JAREPSTEIN
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.65x
 - **Mint:** `DJifVcg99ZWU9TuLzsH51TJnCQUnmdeL6SBdV6KHpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:06:59 | BUY | 0.000600 | `4Xjk9GqzmWNsqeuBoKScrLUeZH4zcD...` |
+| 2026-03-17 03:51:05 | SELL | 0.000065 | `KHVMMLvpYamdLRNUqzKL8Tm8sMfmWo...` |
 
 ### 🔴 Luna
 - **Status:** closed | **Exit:** stale_cleanup
@@ -2731,7 +2732,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.38x
+- **Peak:** 1.79x | **Current:** 1.42x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |

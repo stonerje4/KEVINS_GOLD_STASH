@@ -1,16 +1,16 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 84 |
-| Open | 59 |
-| Closed | 25 |
-| W/L | 13/12 |
-| SOL In (closed) | 0.021900 |
+| Open | 58 |
+| Closed | 26 |
+| W/L | 13/13 |
+| SOL In (closed) | 0.022500 |
 | **Closed P&L** | **+0.009065 SOL** |
-| **Closed ROI** | **+41.4%** |
-| Open Deployed | 0.019400 SOL |
+| **Closed ROI** | **+40.3%** |
+| Open Deployed | 0.018800 SOL |
 
 ## Trades
 
@@ -384,7 +384,7 @@
 
 ### 🟢 RICH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.79x
+- **Peak:** 1.04x | **Current:** 0.70x
 - **Mint:** `2FPMtPwCuJRSyhQc8isw4bXqvBYRonGBtmbhMc65pump`
 
 | Time | Action | SOL | TX |
@@ -654,14 +654,15 @@
 |------|--------|-----|----|
 | 2026-03-16 03:56:26 | BUY | 0.000600 | `4w66ETtGues2q78Dh7AYp76hxyaP1C...` |
 
-### 🟢 SCREAM
-- **Status:** open | **Exit:** open
+### 🔴 SCREAM
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.99x
 - **Mint:** `7uy1UjemKCCHkrEMeFgoybRbJVrD2GAbGUED35Xcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:11:40 | BUY | 0.000600 | `Y335nxUTVPYbpqkkoJ2LJZcGU8ekg8...` |
+| 2026-03-17 03:51:08 | SELL | 0.000099 | `5TKei7ixnb2PNTr1MeEdj14mzfLt2y...` |
 
 ### 🔴 barviha
 - **Status:** closed | **Exit:** stale_cleanup

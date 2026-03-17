@@ -1,22 +1,22 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 18 |
-| Open | 4 |
-| Closed | 14 |
-| W/L | 10/4 |
-| SOL In (closed) | 0.008400 |
+| Open | 3 |
+| Closed | 15 |
+| W/L | 10/5 |
+| SOL In (closed) | 0.009000 |
 | **Closed P&L** | **+0.004122 SOL** |
-| **Closed ROI** | **+49.1%** |
-| Open Deployed | 0.001400 SOL |
+| **Closed ROI** | **+45.8%** |
+| Open Deployed | 0.000800 SOL |
 
 ## Trades
 
 ### 🟢 Fep
 - **Status:** open | **Exit:** open
-- **Peak:** 1.35x | **Current:** 0.60x
+- **Peak:** 1.35x | **Current:** 0.55x
 - **Mint:** `Cj1MvQtHUb3Z7fWnF4jM2DGutbt5Gh7CAFruKSTpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Sanmao
 - **Status:** open | **Exit:** open
-- **Peak:** 1.46x | **Current:** 0.60x
+- **Peak:** 1.46x | **Current:** 0.47x
 - **Mint:** `FPAm3wb36fyWrDwG2b6hQZu2ja4JeBK99PgeBPDjpump`
 
 | Time | Action | SOL | TX |
@@ -91,14 +91,15 @@
 | 2026-03-16 04:23:57 | BUY | 0.000600 | `5NMaKkSoJapi1dGHmRGeE8ZA37EsmZ...` |
 | 2026-03-16 19:13:12 | SELL | 0.000060 | `?` |
 
-### 🟢 Elza
-- **Status:** open | **Exit:** open
+### 🔴 Elza
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.02x | **Current:** 0.82x
 - **Mint:** `H5CxsP421U4gN6BtfZQsKVs7qZeGdXqeW4uu6nAStFxK`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:28:20 | BUY | 0.000600 | `3HX4L8GRxRYKCiFb37RU2CpgEZ5B9p...` |
+| 2026-03-17 03:51:10 | SELL | 0.000082 | `52yMVYVau4tJkhN7FtgoD7abrFMjav...` |
 
 ### 🔴 KPOP
 - **Status:** closed | **Exit:** ghost_close_stop_loss

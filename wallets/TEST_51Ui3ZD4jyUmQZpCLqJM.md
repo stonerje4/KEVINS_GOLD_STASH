@@ -1,4 +1,4 @@
-# [TEST] Wallet: `E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`
+# [TEST] Wallet: `51Ui3ZD4jyUmQZpCLqJMzARpu3rqJiv5H1gM7ZFqycRw`
 > Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 MiniME
+### 🟢 Geeked
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.93x
-- **Mint:** `891CPWxhcfwXXPdhu9pn3iTc9JpwsCBFAappoybCpump`
+- **Peak:** 1.01x | **Current:** 1.01x
+- **Mint:** `Ggy4NubNtkKvuyiH7dCECXZTJdU3WC848EtafREppump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-17 00:04:16 | BUY | 0.000100 | `3pu2ikZVHtBU17isA9Nd2hLFbgGFp4...` |
+| 2026-03-17 03:54:01 | BUY | 0.000100 | `2voC9c5aqSyMCJEPR7GWGPeNiDrgFu...` |
 

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -35,7 +35,7 @@
 
 ### 🟢 Gany
 - **Status:** partial | **Exit:** open
-- **Peak:** 63.45x | **Current:** 49.20x
+- **Peak:** 63.45x | **Current:** 42.42x
 - **Mint:** `BgtczEGgf9mZMcGBLi4J5Pn8PtmFy6Xz5uBKkMfspump`
 
 | Time | Action | SOL | TX |
@@ -72,7 +72,7 @@
 
 ### 🟢 POLYHUNT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 0.99x
+- **Peak:** 1.28x | **Current:** 0.98x
 - **Mint:** `3DcFuBtMgMJftX6djdQn4A6bG3hAPPbFMNr5zPs4pump`
 
 | Time | Action | SOL | TX |

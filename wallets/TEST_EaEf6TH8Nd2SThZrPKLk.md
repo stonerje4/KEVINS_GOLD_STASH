@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 max999
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.61x | **Current:** 1.54x
 - **Mint:** `Df7UuP64M9EcHUbrTcJk4pvBQpKPGrx6Bj2f4tPWpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 GTC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `6mDLW5iv68vPrN8aLUV5YbzrkMKQzEqRnSbuXS56pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 DEADENYAHU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.45x
+- **Peak:** 1.47x | **Current:** 1.33x
 - **Mint:** `4M9VbBbdknEdyv7JixQTsALWVkhvzQLTJbfWEd8qpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 PCT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 0.95x
+- **Peak:** 1.10x | **Current:** 1.03x
 - **Mint:** `CjQ5GYXkJWuRbDmAd4RN5LEX6Sqpq295xuhbZMRpUCLi`
 
 | Time | Action | SOL | TX |

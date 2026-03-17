@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 STRINGMAN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.87x
+- **Peak:** 1.07x | **Current:** 0.53x
 - **Mint:** `3SMiqoX156hvFKracc2PB3tVhacMRiKu8c8Hnskmpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Giraffe 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.53x
+- **Peak:** 1.19x | **Current:** 0.57x
 - **Mint:** `2VP6daVD4nDo5sDamXth8fKoTtjmakXHFJHZdSgPpump`
 
 | Time | Action | SOL | TX |

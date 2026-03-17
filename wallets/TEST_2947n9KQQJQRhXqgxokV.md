@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 0.95x
+- **Peak:** 1.28x | **Current:** 1.09x
 - **Mint:** `Fvhet3ekzXRyjqwAX6zWUosJGP3SH3Ga1vpFTdULpump`
 
 | Time | Action | SOL | TX |
