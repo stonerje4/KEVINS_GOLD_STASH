@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 23:00 UTC** | 7d | 1783 buys, 2207 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 23:05 UTC** | 7d | 1787 buys, 2209 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 23:04 | 🟢 BUY | Puff | 0.0001 | 5dd3zjBQ... | copy_buy | `54Ux9M4QkK6M...` |
+| 03-17 | 23:04 | 🟢 BUY | shockwave | 0.0001 | 6gN2SNYX... | copy_buy | `XRCXQDHUxS8b...` |
+| 03-17 | 23:04 | 🔴 SELL | Nanobot | 0.0001 | 35RArQiy... | trail | `3dKs4RmKcXrn...` |
+| 03-17 | 23:04 | 🔴 SELL | MAFIA | 0.0001 | bocsoUiM... | trail | `4GADTyAjcEDo...` |
+| 03-17 | 23:02 | 🟢 BUY | 0.07 | 0.0001 | 7yd579zX... | copy_buy | `574ns3mfZ8ys...` |
+| 03-17 | 23:00 | 🟢 BUY | GOKINJO | 0.0001 | 6qTPHgnS... | copy_buy | `45Q4EuYAh2cj...` |
 | 03-17 | 22:59 | 💰 SELL | Smiski | 0.0001 | AiNfNi2e... | TP2 | `3AMBYyH2z3n3...` |
 | 03-17 | 22:59 | 🟢 BUY | FREED0M | 0.0001 | Dr5V9A9d... | copy_buy | `2TSfvbY8ztMR...` |
 | 03-17 | 22:59 | 💰 SELL | FLAG | 0.0001 | U3jiDzTc... | TP1 | `4cPLk6QQaWsQ...` |

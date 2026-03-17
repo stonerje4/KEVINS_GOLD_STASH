@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 23:00 UTC** | 7d | 760 buys, 1004 sells | In: **94.93** | Out: **87.37** | Net: **-7.56 SOL**
+> Updated: **2026-03-17 23:05 UTC** | 7d | 760 buys, 1004 sells | In: **94.93** | Out: **87.43** | Net: **-7.50 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 23:04 | 💰 SELL | ACTIII | 0.0880 | E79aNzAk... | TP1 | `54dRuvDnoihd...` |
 | 03-17 | 22:49 | 💰 SELL | ? | 0.0767 | BGGJhxGX... | TP1 | `2vDjXYELPvts...` |
 | 03-17 | 22:41 | 🟢 BUY | ? | 0.1500 | BGGJhxGX... | copy | `5ukmaVonchAN...` |
 | 03-17 | 22:39 | 🔴 SELL | Sandcat | 0.0580 | 6qTPHgnS... | SL | `2zFdSeizQCpX...` |
@@ -1766,4 +1767,3 @@
 | 03-10 | 23:17 | 🟢 BUY | COURAGE | 0.0500 | 9rb2ChEj... | copy | `5YCzJdTLjZaL...` |
 | 03-10 | 23:07 | 🔴 SELL | MINES | 0.0145 | HMM6RoT2... | SL | `2YW4vcGNtRJa...` |
 | 03-10 | 23:05 | 🟢 BUY | MINES | 0.0500 | HMM6RoT2... | copy | `2yzacoXyHhMM...` |
-| 03-10 | 23:03 | 💰 SELL | AuPair | 0.0329 | HMM6RoT2... | TP2 | `22cvzresgCVW...` |
