@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:30 UTC** | 7d | 1751 buys, 2184 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:35 UTC** | 7d | 1754 buys, 2189 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:34 | 🟢 BUY | NANOBOTS | 0.0001 | 6raSuhfi... | copy_buy | `35UwYGR1x6of...` |
+| 03-17 | 22:33 | 🟢 BUY | Afcon | 0.0001 | 7yd579zX... | copy_buy | `YYE2RJaFkgG4...` |
+| 03-17 | 22:33 | 💰 SELL | ACTIII | 0.0001 | 35RArQiy... | TP2 | `54zMMXGkn714...` |
+| 03-17 | 22:32 | 🔴 SELL | Microphallus | 0.0000 | BBBByrLH... | SL | `3ydQhqaMNkKM...` |
+| 03-17 | 22:31 | 🟢 BUY | Nanobot | 0.0001 | 35RArQiy... | copy_buy | `Apdto8jfcBPv...` |
+| 03-17 | 22:30 | 💰 SELL | flipper | 0.0001 | AiNfNi2e... | TP2 | `4Pafm2cr1uBg...` |
+| 03-17 | 22:30 | 💰 SELL | Kagi | 0.0001 | 42nQHDpy... | trail | `4Ew8C8prGGkk...` |
+| 03-17 | 22:30 | 💰 SELL | Dogeeto | 0.0001 | EyeSFbqH... | TP2 | `2MzKb7biHjGF...` |
 | 03-17 | 22:29 | 🟢 BUY | Microphallus | 0.0001 | BBBByrLH... | copy_buy | `bH97METazjeb...` |
 | 03-17 | 22:29 | 🔴 SELL | Solanass | 0.0000 | GRnCsBLj... | trail | `3CNPWE6g5UL4...` |
 | 03-17 | 22:28 | 🔴 SELL | Solanass | 0.0001 | GRnCsBLj... | trail | `DjWzZYBixMtq...` |
