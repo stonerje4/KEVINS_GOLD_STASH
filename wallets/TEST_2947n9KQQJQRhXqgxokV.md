@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-17 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.29x | **Current:** 1.26x
+- **Peak:** 1.29x | **Current:** 1.20x
 - **Mint:** `Afj8txEkna6AGatYh59q63nhmNpQFzHhrkgR6i18pump`
 
 | Time | Action | SOL | TX |
@@ -124,7 +124,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.36x
+- **Peak:** 1.39x | **Current:** 1.39x
 - **Mint:** `4JB4LgobEpjnGqNr4NqdZGjz6EuvuUjeNDd9fH6qpump`
 
 | Time | Action | SOL | TX |
@@ -192,7 +192,7 @@
 
 ### 🟢 FTR
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.10x | **Current:** 2.08x
+- **Peak:** 2.12x | **Current:** 2.12x
 - **Mint:** `8kv9M9MNM5LtuxakWiViJx6GCYVexk2ZBexucRYNpump`
 
 | Time | Action | SOL | TX |

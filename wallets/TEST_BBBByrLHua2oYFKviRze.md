@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Ottie
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 1.03x
+- **Peak:** 1.56x | **Current:** 0.97x
 - **Mint:** `EAavoHYFQnzFNQv8UkLG6qU9aQdUf1szWntxoAkzpump`
 
 | Time | Action | SOL | TX |

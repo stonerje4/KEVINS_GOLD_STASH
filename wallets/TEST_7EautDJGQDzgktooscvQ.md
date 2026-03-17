@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
-> Generated: 2026-03-17 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 pvpdog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.70x | **Current:** 1.29x
+- **Peak:** 1.70x | **Current:** 0.83x
 - **Mint:** `9UT2T4XPYAtiUuSBdgkHTBbCTcfUtDVUSdSkTev1pump`
 
 | Time | Action | SOL | TX |

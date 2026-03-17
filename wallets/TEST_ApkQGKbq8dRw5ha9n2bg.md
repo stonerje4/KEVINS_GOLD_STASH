@@ -1,18 +1,27 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 5 |
+| Total Positions | 9 |
+| Open | 6 |
 | Closed | 3 |
 | W/L | 2/1 |
 | SOL In (closed) | 0.001300 |
 | **Closed P&L** | **+0.002816 SOL** |
 | **Closed ROI** | **+216.6%** |
-| Open Deployed | 0.000500 SOL |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
+
+### 🟢 SafeMoon
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.88x
+- **Mint:** `3iimoaC19oTes4QQh8pcjp6GxWqzcxwu41eBbz4fpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:42:46 | BUY | 0.000100 | `ABuygE3V3AVMSqFLQvgLFYMEsWYCmc...` |
 
 ### 🟢 STRINGMAN
 - **Status:** open | **Exit:** open

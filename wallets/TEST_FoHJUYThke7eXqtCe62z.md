@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 07:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 FUGUU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 0.78x
+- **Peak:** 1.31x | **Current:** 0.76x
 - **Mint:** `CGmtCigyh82qWgYRPBGefiqeRmiJ1kaSDWqvyAxypump`
 
 | Time | Action | SOL | TX |
