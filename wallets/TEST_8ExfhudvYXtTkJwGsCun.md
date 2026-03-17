@@ -1,18 +1,27 @@
 # [TEST] Wallet: `8ExfhudvYXtTkJwGsCunsbqX4CEWwUrU7TVzKSu1hYgY`
-> Generated: 2026-03-17 05:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 2 |
+| Total Positions | 4 |
+| Open | 3 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000040 SOL** |
 | **Closed ROI** | **+39.7%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### 🟢 三毛
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `8qnL5L4CDeYcTMcaQduygeWSgcomCbR9yAYb7MEypump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:14:29 | BUY | 0.000100 | `2ECprSpk55mghszNFM6ePTXyt2iDLm...` |
 
 ### 🟢 Mina
 - **Status:** open | **Exit:** open

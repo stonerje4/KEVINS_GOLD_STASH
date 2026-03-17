@@ -1,18 +1,27 @@
 # [PRD] Wallet: `9rb2ChEjkkCYGiHB97yssryBf8sh2W49MeyLUs69cKyS`
-> Generated: 2026-03-17 05:10 UTC | Environment: **PRD**
+> Generated: 2026-03-17 05:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 37 |
-| Open | 0 |
+| Total Positions | 38 |
+| Open | 1 |
 | Closed | 37 |
 | W/L | 7/30 |
 | SOL In (closed) | 1.850000 |
 | **Closed P&L** | **-0.449326 SOL** |
 | **Closed ROI** | **-24.3%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
+
+### 🟢 PHANTOM
+- **Status:** open | **Exit:** open
+- **Peak:** 1.22x | **Current:** 0.00x
+- **Mint:** `DourxdMyj1SSbRJxHvv9Rh1VPacxmzUjQynhAAXGpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:12:18 | BUY | 0.150000 | `3QFDmEYyxjL6WkNnyQxeTSTvnXoGCG...` |
 
 ### 🔴 Nike
 - **Status:** closed | **Exit:** stop_loss

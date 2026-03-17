@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 05:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -182,7 +182,7 @@
 
 ### 🟢 Nyctimene
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 0.44x
+- **Peak:** 1.50x | **Current:** 0.42x
 - **Mint:** `BZsediCfyToyZkSPD5HBadRXUxEVhWkSKceZExvSpump`
 
 | Time | Action | SOL | TX |
@@ -209,7 +209,7 @@
 
 ### 🟢 RA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.75x | **Current:** 1.75x
+- **Peak:** 1.75x | **Current:** 1.21x
 - **Mint:** `AtnwLCgwkJQqKFRH1Uzrk5eTzWMWkn1kWCCvwqPPpump`
 
 | Time | Action | SOL | TX |
