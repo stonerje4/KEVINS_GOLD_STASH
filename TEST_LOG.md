@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:15 UTC** | 7d | 1296 buys, 1824 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:20 UTC** | 7d | 1299 buys, 1826 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:18 | 🟢 BUY | L/0 | 0.0001 | EaEf6TH8... | copy_buy | `65My1HUFMben...` |
+| 03-17 | 13:18 | 💰 SELL | MEMSIE | 0.0000 | 2autqiin... | TP1 | `3uPDgFqxY9wU...` |
+| 03-17 | 13:18 | 🔴 SELL | KVRNTC | 0.0000 | EaEf6TH8... | SL | `4TufW4J4TqcL...` |
+| 03-17 | 13:17 | 🟢 BUY | Liquid | 0.0001 | FoHJUYTh... | copy_buy | `aaWAoXcBPoXR...` |
+| 03-17 | 13:16 | 🟢 BUY | RAFA | 0.0001 | 2autqiin... | copy_buy | `3wEgSGUZhP53...` |
 | 03-17 | 13:14 | 🟢 BUY | ALIEN GANY | 0.0001 | BBBByrLH... | copy_buy | `d4vcJWKi5Brw...` |
 | 03-17 | 13:14 | 💰 SELL | TRUST | 0.0000 | AJ8Gc1cY... | TP1 | `4PSBzSMhxmuW...` |
 | 03-17 | 13:14 | 💰 SELL | $GENIUS | 0.0001 | FoabCXs5... | trail | `4k6ddjbRYqWC...` |

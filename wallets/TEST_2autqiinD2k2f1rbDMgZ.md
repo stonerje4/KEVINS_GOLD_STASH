@@ -1,12 +1,13 @@
 # [TEST] `2autqiinD2k2f1rb...`
-> 2026-03-17 13:15 UTC | **4** pos | **0W/2L** | P&L: **-0.000247 SOL** (-35.2%) | 2 open
+> 2026-03-17 13:20 UTC | **5** pos | **0W/2L** | P&L: **-0.000247 SOL** (-35.2%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| MEMSIE | 03-17 13:14 | 0.00x | 1.00x | 0.0h | 0.0001 |
-| AlphA | 03-17 11:56 | 1.06x | 1.62x | 1.3h | 0.0001 |
+| RAFA | 03-17 13:16 | 0.95x | 1.00x | 0.1h | 0.0001 |
+| MEMSIE | 03-17 13:14 | 1.97x | 2.37x | 0.1h | 0.0001 |
+| AlphA | 03-17 11:56 | 0.97x | 1.62x | 1.4h | 0.0001 |
 
 ## Closed
 
@@ -19,6 +20,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:18 | MEMSIE | SELL | 0.0000 | `3uPDgFqxY9wUpnbf...` |
+| 03-17 13:16 | RAFA | BUY | 0.0001 | `3wEgSGUZhP53xDRU...` |
 | 03-17 13:14 | MEMSIE | BUY | 0.0001 | `3LnYfd1gah7i4pT5...` |
 | 03-17 11:56 | AlphA | BUY | 0.0001 | `629jkgESdKU2Z5S5...` |
 | 03-16 17:50 | PUMPBAG | SELL | 0.0000 | `2a5tpHQSJivsUyyv...` |

@@ -1,11 +1,11 @@
 # [TEST] `BBBByrLHua2oYFKv...`
-> 2026-03-17 13:15 UTC | **115** pos | **17W/97L** | P&L: **-0.009792 SOL** (-27.3%) | 1 open
+> 2026-03-17 13:20 UTC | **115** pos | **17W/97L** | P&L: **-0.009792 SOL** (-27.3%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| ALIEN GANY | 03-17 13:14 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| ALIEN GANY | 03-17 13:14 | 0.47x | 1.00x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -174,8 +174,8 @@
 | 03-16 23:18 | ClaudeDog | SELL | 0.0000 | `2RsKAKNrGHF2yki4...` |
 | 03-16 23:18 | Moumou | SELL | 0.0001 | `5DHD5u3wnSpd6Sq2...` |
 | 03-16 23:18 | pandas | SELL | 0.0001 | `5DVzjdXPhjuAdHEv...` |
-| 03-16 19:13 | SAMO | SELL | 0.0003 | `?` |
 | 03-16 19:13 | Glowcat | SELL | 0.0001 | `?` |
+| 03-16 19:13 | SAMO | SELL | 0.0003 | `?` |
 | 03-16 18:25 | Moumou | SELL | 0.0000 | `4bPuZP4uWxbVX7WJ...` |
 | 03-16 18:22 | Moumou | SELL | 0.0000 | `4nTcpFFNrJWQkY1j...` |
 | 03-16 18:18 | ClaudeDog | BUY | 0.0001 | `449x3quteUGhYpAP...` |
