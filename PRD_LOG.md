@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 20:20 UTC** | 7d | 741 buys, 976 sells | In: **91.28** | Out: **84.47** | Net: **-6.81 SOL**
+> Updated: **2026-03-17 20:25 UTC** | 7d | 743 buys, 976 sells | In: **91.58** | Out: **84.54** | Net: **-7.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:24 | 🔴 SELL | kiwi | 0.1060 | 2w85VLX4... | trail | `5tWWSTCtMy9r...` |
+| 03-17 | 20:23 | 🟢 BUY | IMPJAK | 0.1500 | 2w85VLX4... | copy | `5L5J5Kug31MD...` |
+| 03-17 | 20:23 | 🟢 BUY | INSECURE | 0.1500 | 3HGqppv8... | copy | `2xkYSmw37zzM...` |
 | 03-17 | 20:19 | 🟢 BUY | Marcify | 0.1500 | 3HGqppv8... | copy | `yRVnbTYL6ME8...` |
 | 03-17 | 20:17 | 🟢 BUY | Luigi | 0.1500 | 3HGqppv8... | copy | `42nKLUwX2my7...` |
 | 03-17 | 20:14 | 🔴 SELL | LEPRESTAR | 0.0269 | 42nQHDpy... | SL | `4xMrFoutwrMy...` |
@@ -1719,4 +1722,3 @@
 | 03-10 | 20:54 | 💰 SELL | Cardboard | 0.0418 | 7aMgK5L4... | tp_8x_trim | `2Q64QE9fMD5b...` |
 | 03-10 | 20:51 | 🟢 BUY | PVP | 0.0500 | 5vweNikg... | copy | `5wBWuL4kQjw3...` |
 | 03-10 | 20:43 | 🟢 BUY | UXR | 0.0500 | 5vweNikg... | copy | `3aVkMy4Eg3hs...` |
-| 03-10 | 20:24 | 💰 SELL | SPACE | 0.0385 | 9rb2ChEj... | TP4 | `5cVuELR1KZ9S...` |

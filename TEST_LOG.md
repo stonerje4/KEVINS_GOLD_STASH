@@ -1,8 +1,19 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:20 UTC** | 7d | 1657 buys, 2099 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:25 UTC** | 7d | 1664 buys, 2103 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:24 | 🟢 BUY | Mechayahu | 0.0001 | cqakon1K... | copy_buy | `3fJVYADa6eHf...` |
+| 03-17 | 20:24 | 🔴 SELL | Trenchies | 0.0001 | BBBByrLH... | trail | `2qihK68suWLt...` |
+| 03-17 | 20:23 | 💰 SELL | Ancestors | 0.0001 | Lfw99jsE... | TP1 | `3CVYv9jL2Kom...` |
+| 03-17 | 20:22 | 🟢 BUY | TRUST | 0.0001 | 7EautDJG... | copy_buy | `3h5Ux1SdknCy...` |
+| 03-17 | 20:22 | 🟢 BUY | GROKETTE | 0.0001 | EaEf6TH8... | copy_buy | `5ywWeZoefi3L...` |
+| 03-17 | 20:22 | 🟢 BUY | PAWAN | 0.0001 | cqakon1K... | copy_buy | `ru9YEdSkDjyN...` |
+| 03-17 | 20:22 | 🟢 BUY | Clover | 0.0001 | bocsoUiM... | copy_buy | `ae17JrVRDYC3...` |
+| 03-17 | 20:21 | 🟢 BUY | INSECURE | 0.0001 | FzMeg6P2... | copy_buy | `3yb4DmfprTTU...` |
+| 03-17 | 20:20 | 🔴 SELL | DONKEY | 0.0000 | 35RArQiy... | SL | `4kjsauFQkKKi...` |
+| 03-17 | 20:20 | 💰 SELL | CyClaw | 0.0001 | Lfw99jsE... | trail | `uwRnEVatbpeW...` |
+| 03-17 | 20:20 | 🟢 BUY | DIVERGENT | 0.0001 | 7yd579zX... | copy_buy | `5mzGeS4887wU...` |
 | 03-17 | 20:19 | 🟢 BUY | IMPJAK | 0.0001 | GHy1P6vJ... | copy_buy | `29kBdpMaFqf2...` |
 | 03-17 | 20:18 | 🟢 BUY | Mycoins | 0.0001 | EaEf6TH8... | copy_buy | `3oiEgwiMSBZ6...` |
 | 03-17 | 20:17 | 🟢 BUY | Lucky | 0.0001 | bocsoUiM... | copy_buy | `3vwry6FYUabU...` |

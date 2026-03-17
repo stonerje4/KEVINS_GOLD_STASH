@@ -1,5 +1,12 @@
 # [TEST] `cqakon1K22iRvSAn...`
-> 2026-03-17 20:20 UTC | **5** pos | **0W/5L** | P&L: **-0.000352 SOL** (-70.5%) | 0 open
+> 2026-03-17 20:25 UTC | **7** pos | **0W/5L** | P&L: **-0.000352 SOL** (-70.5%) | 2 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Mechayahu | 03-17 20:24 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| PAWAN | 03-17 20:22 | 0.66x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -15,6 +22,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 20:24 | Mechayahu | BUY | 0.0001 | `3fJVYADa6eHfTyDv...` |
+| 03-17 20:22 | PAWAN | BUY | 0.0001 | `ru9YEdSkDjyNYska...` |
 | 03-17 19:10 | #FIRING | SELL | 0.0000 | `2WECqfVGppfYm9oi...` |
 | 03-17 18:32 | #FIRING | BUY | 0.0001 | `5EmPuWKaHS35uuoq...` |
 | 03-17 15:26 | IQ | SELL | 0.0000 | `5dMB1NHFunLvZNeQ...` |
