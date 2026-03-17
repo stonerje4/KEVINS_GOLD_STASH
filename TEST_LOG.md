@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:40 UTC** | 7d | 1720 buys, 2156 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:45 UTC** | 7d | 1723 buys, 2158 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:44 | 🟢 BUY | HUMANS | 0.0001 | Lfw99jsE... | copy_buy | `5AhND1V155XM...` |
+| 03-17 | 21:42 | 💰 SELL | tusk | 0.0001 | 42nQHDpy... | TP1 | `3GZzMa1f3Kr5...` |
+| 03-17 | 21:42 | 🟢 BUY | Humans | 0.0001 | GHy1P6vJ... | copy_buy | `4Bdrwx9RdGWw...` |
+| 03-17 | 21:41 | 🟢 BUY | Kagi | 0.0001 | 42nQHDpy... | copy_buy | `5pUKA6gArhvi...` |
+| 03-17 | 21:40 | 💰 SELL | Speak | 0.0001 | HV4FmWLE... | TP2 | `3CJiMk1JZWdY...` |
 | 03-17 | 21:39 | 🔴 SELL | bio | 0.0000 | 4Ki54j4t... | SL | `3Vdk9yBBgTH7...` |
 | 03-17 | 21:39 | 💰 SELL | MAFIA | 0.0001 | bocsoUiM... | TP1 | `2aH1BqZStYL6...` |
 | 03-17 | 21:38 | 🟢 BUY | Oranges | 0.0001 | EyeSFbqH... | copy_buy | `5MbfZPe8M5d2...` |

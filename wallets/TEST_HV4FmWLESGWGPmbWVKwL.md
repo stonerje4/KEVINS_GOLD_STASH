@@ -1,11 +1,11 @@
 # [TEST] `HV4FmWLESGWGPmbW...`
-> 2026-03-17 21:40 UTC | **7** pos | **1W/5L** | P&L: **-0.003838 SOL** (-32.0%) | 1 open
+> 2026-03-17 21:45 UTC | **7** pos | **1W/5L** | P&L: **-0.003838 SOL** (-32.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Speak | 03-17 21:01 | 1.99x | 2.22x | 0.6h | 0.0001 |
+| Speak | 03-17 21:01 | 2.59x | 3.26x | 0.7h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:40 | Speak | SELL | 0.0001 | `3CJiMk1JZWdYSTzW...` |
 | 03-17 21:30 | Speak | SELL | 0.0001 | `26iswbrw6xCo2SXm...` |
 | 03-17 21:01 | Speak | BUY | 0.0001 | `5GF1GCuvc4DB9yQ5...` |
 | 03-17 03:35 | Gany | SELL | 0.0001 | `3AMzGSWLPvaSCUC5...` |
