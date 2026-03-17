@@ -1,27 +1,28 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 06:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 8 |
-| Open | 4 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.000900 |
-| **Closed P&L** | **+0.000777 SOL** |
-| **Closed ROI** | **+86.3%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.001000 |
+| **Closed P&L** | **+0.000809 SOL** |
+| **Closed ROI** | **+80.9%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
-### 🟢 TOILS
-- **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.59x
+### 🔴 TOILS
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.06x | **Current:** 0.33x
 - **Mint:** `4WvDUrZtJkepsRMvaRdsdjFnuqppjx8asnMyiTWRpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 06:10:29 | BUY | 0.000100 | `2Wm8ypmNNbqAVEboXF19ayqmHHPxwz...` |
+| 2026-03-17 06:23:57 | SELL | 0.000032 | `rQ1Ju7zG1nFSRKBvsJBgJpNJjizFWg...` |
 
 ### 🟢 BITCOIN
 - **Status:** open | **Exit:** open

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 06:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Roadrunner
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 1.21x
+- **Peak:** 1.21x | **Current:** 1.00x
 - **Mint:** `HFseGJE8WV49Fob5SrUz5jLAvn9ueSFi2Cw8Uphwpump`
 
 | Time | Action | SOL | TX |

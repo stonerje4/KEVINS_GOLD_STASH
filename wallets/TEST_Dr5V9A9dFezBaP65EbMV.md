@@ -1,22 +1,31 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 06:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 18 |
-| Open | 8 |
+| Total Positions | 19 |
+| Open | 9 |
 | Closed | 10 |
 | W/L | 9/1 |
 | SOL In (closed) | 0.005500 |
 | **Closed P&L** | **+0.004818 SOL** |
 | **Closed ROI** | **+87.6%** |
-| Open Deployed | 0.004300 SOL |
+| Open Deployed | 0.004400 SOL |
 
 ## Trades
 
+### 🟢 MOMO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 1.01x
+- **Mint:** `9JbxQSKNukRA7cPZxCfhSNEcAP9iKRo3PSyYNbW4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 06:23:44 | BUY | 0.000100 | `5SB6jaYk4N3XEB3GX19Fmgwgs6vs3z...` |
+
 ### 🟢 zeroxoneb
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.25x | **Current:** 1.01x
+- **Peak:** 2.25x | **Current:** 0.96x
 - **Mint:** `8n4ZAfn1izwsXKfvc2KnAsPTfNokRiqCvKTwb4mSpump`
 
 | Time | Action | SOL | TX |
@@ -36,7 +45,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.32x | **Current:** 1.26x
+- **Peak:** 1.32x | **Current:** 1.28x
 - **Mint:** `D69bugFJG4y3kmJxiLPTMuqqK3e3PnJHQCcQvALgpump`
 
 | Time | Action | SOL | TX |
@@ -140,7 +149,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.77x | **Current:** 0.76x
+- **Peak:** 1.77x | **Current:** 0.75x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |

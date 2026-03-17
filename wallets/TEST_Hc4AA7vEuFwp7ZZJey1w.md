@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Hc4AA7vEuFwp7ZZJey1wjCBXVyhthZKEjXVPgmzDGy6t`
-> Generated: 2026-03-17 06:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 FAKEIT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.02x | **Current:** 0.91x
 - **Mint:** `CWCkYFEbLiqrZDsQXoCWsE4DVw8hYjPVxDwNSVZmpump`
 
 | Time | Action | SOL | TX |
@@ -34,13 +34,14 @@
 | 2026-03-17 05:16:47 | SELL | 0.000039 | `eYPPsLiHezCHm1JVnasS7JpRoQSphx...` |
 
 ### 🟢 Truth
-- **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.44x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.56x | **Current:** 2.56x
 - **Mint:** `DNjkt4VTVD4BMoLKGmCQMZiU11UnCNeGf1bxtojqpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:19:10 | BUY | 0.000100 | `5SnWY8dJzD6zt9j6RxhBGrAi32fo2e...` |
+| 2026-03-17 06:22:30 | SELL | 0.000021 | `4EvjEQiqJ3BxdejtKHtrhvxTgaT7Q5...` |
 
 ### 🟢 Clanker
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

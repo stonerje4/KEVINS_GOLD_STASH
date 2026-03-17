@@ -1,4 +1,4 @@
-# [TEST] Wallet: `E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY`
+# [TEST] Wallet: `4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH`
 > Generated: 2026-03-17 06:25 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 laptop
+### 🟢 BEPE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.44x
-- **Mint:** `6jbBD7AZ8Cj9LVY6cCXdthbPLe459mpzVJPvvxc4See3`
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `Ag9dNyZFbYYEzy9YDfqHuHPUBHPY2Ypddq2aUFqTpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 15:42:10 | BUY | 0.000100 | `4jbhUbDyHVq8E7LDsTvHLPEA4Xca33...` |
+| 2026-03-17 06:20:07 | BUY | 0.000100 | `4VhdnZDcUa5uL2rC2vt7k2Srtvr35G...` |
 
