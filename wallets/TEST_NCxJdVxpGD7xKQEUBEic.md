@@ -1,22 +1,32 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 02:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 5 |
+| Total Positions | 10 |
+| Open | 6 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000900 |
 | **Closed P&L** | **+0.000701 SOL** |
 | **Closed ROI** | **+77.9%** |
-| Open Deployed | 0.000500 SOL |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
+### 🟢 grokette
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.44x | **Current:** 2.11x
+- **Mint:** `8AGFNmf6rwB9ctLEHnC9xEkUMnmFhXT2ZJEbhvAxpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:05:12 | BUY | 0.000100 | `2NbBYk7EijKCnrsvfs55SSBfvNUtY5...` |
+| 2026-03-17 02:09:18 | SELL | 0.000025 | `3RJ2zb65r1ZxRr7RnVj4GbksoiDWDW...` |
+
 ### 🟢 ROMEO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 0.77x
+- **Peak:** 1.84x | **Current:** 0.82x
 - **Mint:** `F9NKgc4y3UuSy4qSGMHaUpReFAGr4tb1MV9sWS78pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +35,7 @@
 
 ### 🟢 API
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 0.55x
+- **Peak:** 1.56x | **Current:** 1.19x
 - **Mint:** `3icfn5H4ePwjkKDUq7SGqJYeJrutR2WYTvnbcp6cpump`
 
 | Time | Action | SOL | TX |

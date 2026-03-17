@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 02:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -52,7 +52,7 @@
 
 ### 🟢 UNIT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 0.95x
+- **Peak:** 1.59x | **Current:** 0.70x
 - **Mint:** `DrLBSKASLLwoMFcBqCmKVR4uWZQ3ygMot3MtLtXmpump`
 
 | Time | Action | SOL | TX |
@@ -79,7 +79,7 @@
 
 ### 🟢 sexless
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.64x
+- **Peak:** 1.24x | **Current:** 0.63x
 - **Mint:** `FVidfQMMimDh2vG8voK4YdBkUcq7kvJuVPbLUiT5pump`
 
 | Time | Action | SOL | TX |
@@ -88,7 +88,7 @@
 
 ### 🟢 EVIE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.30x | **Current:** 1.74x
+- **Peak:** 2.30x | **Current:** 1.69x
 - **Mint:** `ETZ5L4FYfkgXx5XAK7Vhvag9kirGJdpBAUJcue1Dpump`
 
 | Time | Action | SOL | TX |
@@ -263,7 +263,7 @@
 
 ### 🟢 DAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.81x
+- **Peak:** 1.13x | **Current:** 0.77x
 - **Mint:** `3AhHpBR3o8TKKyBto3fZGLVHGRGtuUbqQy8LhziFpump`
 
 | Time | Action | SOL | TX |

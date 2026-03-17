@@ -1,5 +1,5 @@
 # [PRD] Wallet: `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf`
-> Generated: 2026-03-17 02:05 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:10 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -25,17 +25,18 @@
 | 2026-03-17 01:47:03 | SELL | 0.041771 | `3zYTn8UJpY5zVVxQyoa3omg4CHoEyV...` |
 
 ### 🟢 IOR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.01x | **Current:** 0.00x
 - **Mint:** `DmLW7F9nAH4WddjsLxZTj4YrSgzxXbNQDBohgA4kpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:19:25 | BUY | 0.150000 | `2bRzETnpYsmQTbDSqPDY1KAY1Nko8e...` |
+| 2026-03-17 02:09:08 | SELL | 0.030178 | `51Asxn1ehvF5d9K89sSAnowMSqwPnN...` |
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.00x
+- **Peak:** 1.18x | **Current:** 0.00x
 - **Mint:** `2fEFkySXEVJGXmHq6AVdnr5VX9rXwm9A77MD9aWVpump`
 
 | Time | Action | SOL | TX |

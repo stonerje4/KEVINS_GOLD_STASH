@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-17 02:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -207,7 +207,7 @@
 
 ### 🟢 F1
 - **Status:** partial | **Exit:** stale_cleanup
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `3nEe5mogjT9EmAdbACYAnEwaLBeSTRDvBkhzgnHupump`
 
 | Time | Action | SOL | TX |
@@ -216,7 +216,7 @@
 
 ### 🟢 Bagwork
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.12x | **Current:** 2.10x
+- **Peak:** 2.12x | **Current:** 2.01x
 - **Mint:** `HpSDYeRXdmzUybsHqA67BcdyMyYxeQRDJUt6xy7Fpump`
 
 | Time | Action | SOL | TX |

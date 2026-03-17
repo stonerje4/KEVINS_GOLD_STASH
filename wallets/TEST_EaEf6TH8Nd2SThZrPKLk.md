@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 02:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -73,7 +73,7 @@
 
 ### 🟢 ChingChong
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 0.55x
+- **Peak:** 1.55x | **Current:** 0.54x
 - **Mint:** `4bN7NHQs1TQ7pfCi576oJGXLsZA3AybDR9TXjUDcpump`
 
 | Time | Action | SOL | TX |
@@ -99,13 +99,14 @@
 | 2026-03-17 00:39:11 | BUY | 0.000100 | `3dCTwK5raypFRgnFHYw26WG2gnkFvE...` |
 
 ### 🟢 Monke
-- **Status:** open | **Exit:** open
-- **Peak:** 1.99x | **Current:** 1.96x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.03x | **Current:** 2.02x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:30:01 | BUY | 0.000100 | `46prXQaYTqB29vGCaLs5YxvAHCT1rs...` |
+| 2026-03-17 02:08:11 | SELL | 0.000020 | `57ZqLm7eFGpEqonxnnFbHmpaa4bM4j...` |
 
 ### 🟢 Zero
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -170,7 +171,7 @@
 
 ### 🟢 MOG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.00x | **Current:** 0.99x
 - **Mint:** `AKEqh9urgLXprC1eYnp2y9hHNJBKaHUXPjvsKpnQpump`
 
 | Time | Action | SOL | TX |

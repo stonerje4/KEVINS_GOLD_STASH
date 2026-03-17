@@ -1,18 +1,27 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 02:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
+| Total Positions | 3 |
+| Open | 1 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.000700 |
 | **Closed P&L** | **+0.000339 SOL** |
 | **Closed ROI** | **+48.4%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 GIGAKAREN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.84x
+- **Mint:** `32VxfAVgqveDipA69MNYjoLAzW9snbqp63Jm3iFWpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:08:59 | BUY | 0.000100 | `5L39A62QLY3ghWbiiyJS3xbUG1QpZJ...` |
 
 ### 🔴 Cinema
 - **Status:** closed | **Exit:** ghost_close_stop_loss
