@@ -1,5 +1,11 @@
 # [TEST] `35RArQiyVX4sh8ij...`
-> 2026-03-17 12:55 UTC | **10** pos | **1W/9L** | P&L: **-0.000518 SOL** (-34.5%) | 0 open
+> 2026-03-17 13:00 UTC | **11** pos | **1W/9L** | P&L: **-0.000518 SOL** (-34.5%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| DUNE | 03-17 12:55 | 0.85x | 1.07x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +26,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:55 | DUNE | BUY | 0.0001 | `54DFbyQVgQzL7qTn...` |
 | 03-17 05:21 | FPT | SELL | 0.0000 | `4JNAVLfCNFmkYj3G...` |
 | 03-17 03:04 | HOLD | SELL | 0.0000 | `3mWfAaZmtFUMnYYC...` |
 | 03-17 02:40 | CLAWDIS | SELL | 0.0003 | `2o3zfyZDuUmdfrb2...` |
