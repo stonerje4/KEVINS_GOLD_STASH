@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 05:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 84 |
-| Open | 58 |
+| Total Positions | 85 |
+| Open | 59 |
 | Closed | 26 |
 | W/L | 13/13 |
 | SOL In (closed) | 0.022500 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+40.3%** |
-| Open Deployed | 0.018800 SOL |
+| Open Deployed | 0.018900 SOL |
 
 ## Trades
+
+### 🟢 IRAN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `28SiCzRTDnU2Ed7NJwxnPGxs7JhGNWtyv3jrSpQnpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:18:08 | BUY | 0.000100 | `57GB9wvWxT73A8V1yBjBufULM4JAFA...` |
 
 ### 🟢 shadPS4
 - **Status:** open | **Exit:** open
@@ -498,7 +507,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.81x
+- **Peak:** 1.06x | **Current:** 0.82x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |
@@ -647,7 +656,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |

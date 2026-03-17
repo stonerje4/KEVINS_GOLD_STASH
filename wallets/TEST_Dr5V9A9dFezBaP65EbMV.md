@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 05:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -82,7 +82,7 @@
 
 ### 🟢 Hoseob
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.79x
+- **Peak:** 1.01x | **Current:** 0.77x
 - **Mint:** `8mnmWQ87TwhWGc7yvtArj5fJcPzNUa9VrC9HPJPipump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `8ExfhudvYXtTkJwGsCunsbqX4CEWwUrU7TVzKSu1hYgY`
-> Generated: 2026-03-17 05:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 三毛
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.51x
 - **Mint:** `8qnL5L4CDeYcTMcaQduygeWSgcomCbR9yAYb7MEypump`
 
 | Time | Action | SOL | TX |

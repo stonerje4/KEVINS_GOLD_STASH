@@ -1,5 +1,5 @@
 # [PRD] Wallet: `9rb2ChEjkkCYGiHB97yssryBf8sh2W49MeyLUs69cKyS`
-> Generated: 2026-03-17 05:15 UTC | Environment: **PRD**
+> Generated: 2026-03-17 05:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PHANTOM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 0.00x
+- **Peak:** 1.28x | **Current:** 0.00x
 - **Mint:** `DourxdMyj1SSbRJxHvv9Rh1VPacxmzUjQynhAAXGpump`
 
 | Time | Action | SOL | TX |
