@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:15 UTC** | 7d | 1434 buys, 1932 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:20 UTC** | 7d | 1438 buys, 1935 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:19 | 🟢 BUY | Retro | 0.0001 | 6raSuhfi... | copy_buy | `3QEt7EzqtWbY...` |
+| 03-17 | 16:19 | 💰 SELL | PURRPLEAN | 0.0000 | AJ8Gc1cY... | TP1 | `2fAg4Y9YGzaZ...` |
+| 03-17 | 16:19 | 🟢 BUY | PHOUSE | 0.0001 | 6E4897rJ... | copy_buy | `49G6B9qNG6LM...` |
+| 03-17 | 16:19 | 💰 SELL | Waiter | 0.0002 | GHy1P6vJ... | trail | `5F3emDZbCzoN...` |
+| 03-17 | 16:17 | 🔴 SELL | PatCoin | 0.0000 | 42nQHDpy... | SL | `5X1rU9pZBdB7...` |
+| 03-17 | 16:16 | 🟢 BUY | COOKIE | 0.0001 | GEHrGJ3B... | copy_buy | `2howueCm8zwE...` |
+| 03-17 | 16:15 | 🟢 BUY | ZFG | 0.0001 | CT8wxJuP... | copy_buy | `5C7fxZ2uiLmT...` |
 | 03-17 | 16:14 | 🟢 BUY | Molt.id | 0.0001 | E5sZTG93... | copy_buy | `3G8829VGqRNA...` |
 | 03-17 | 16:14 | 🟢 BUY | UGOR | 0.0001 | G1nVBXwC... | copy_buy | `529DwqXqaNh5...` |
 | 03-17 | 16:12 | 💰 SELL | TRAITOR | 0.0000 | TZkcwgk6... | TP1 | `2HKgVKifsa8N...` |

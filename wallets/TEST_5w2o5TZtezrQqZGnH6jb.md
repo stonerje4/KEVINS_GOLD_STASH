@@ -1,11 +1,11 @@
 # [TEST] `5w2o5TZtezrQqZGn...`
-> 2026-03-17 16:15 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 16:20 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DUNGBEETLE | 03-17 15:22 | 1.12x | 1.12x | 0.9h | 0.0001 |
+| DUNGBEETLE | 03-17 15:22 | 1.03x | 1.12x | 1.0h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

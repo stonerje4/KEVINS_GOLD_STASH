@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 16:15 UTC** | 7d | 700 buys, 946 sells | In: **83.83** | Out: **80.45** | Net: **-3.38 SOL**
+> Updated: **2026-03-17 16:20 UTC** | 7d | 700 buys, 947 sells | In: **83.83** | Out: **80.48** | Net: **-3.35 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:16 | 🔴 SELL | PatCoin | 0.0239 | 42nQHDpy... | SL | `41RvuibAgMtC...` |
 | 03-17 | 16:11 | 🟢 BUY | ? | 0.1500 | BGGJhxGX... | copy | `37PkARTbPnWc...` |
 | 03-17 | 16:10 | 🟢 BUY | PatCoin | 0.1500 | 42nQHDpy... | copy | `5t2n4JaGsJYk...` |
 | 03-17 | 16:10 | 🟢 BUY | X-Man | 0.1500 | 42nQHDpy... | copy | `5wEU8YhEom7A...` |
