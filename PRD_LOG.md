@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 17:00 UTC** | 7d | 710 buys, 951 sells | In: **85.43** | Out: **81.04** | Net: **-4.39 SOL**
+> Updated: **2026-03-17 17:05 UTC** | 7d | 710 buys, 950 sells | In: **85.53** | Out: **80.99** | Net: **-4.54 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:02 | 🟢 BUY | Freedom | 0.1500 | 42nQHDpy... | copy | `3ADKmUytukhx...` |
 | 03-17 | 16:58 | 🟢 BUY | DUNGBEETLE | 0.1500 | 42nQHDpy... | copy | `51kwpunhBRe4...` |
 | 03-17 | 16:56 | 💰 SELL | SaintAlon | 0.0829 | 42nQHDpy... | TP1 | `2MNsGQRBXVPZ...` |
 | 03-17 | 16:54 | 🟢 BUY | BEPE | 0.1500 | 42nQHDpy... | copy | `CRz1BBEPHYyV...` |
@@ -1662,5 +1663,3 @@
 | 03-10 | 17:06 | 💰 SELL | Gerald | 0.0305 | HMM6RoT2... | TP3 | `3cjQKdgtroYW...` |
 | 03-10 | 17:06 | 💰 SELL | Gerald | 0.0386 | HMM6RoT2... | TP2 | `5PwMteJGfTFx...` |
 | 03-10 | 17:05 | 💰 SELL | Gerald | 0.0751 | HMM6RoT2... | TP1 | `2d3qbKsyBAxF...` |
-| 03-10 | 17:04 | 💰 SELL | creature | 0.0501 | HMM6RoT2... | TP1 | `26CzMamzmAEM...` |
-| 03-10 | 17:03 | 🟢 BUY | Gerald | 0.0500 | HMM6RoT2... | copy | `35PBe2kQF7WT...` |

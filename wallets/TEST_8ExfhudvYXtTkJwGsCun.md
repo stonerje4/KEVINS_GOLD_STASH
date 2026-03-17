@@ -1,5 +1,11 @@
 # [TEST] `8ExfhudvYXtTkJwG...`
-> 2026-03-17 17:00 UTC | **5** pos | **0W/5L** | P&L: **-0.000392 SOL** (-78.4%) | 0 open
+> 2026-03-17 17:05 UTC | **6** pos | **0W/5L** | P&L: **-0.000392 SOL** (-78.4%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Solana | 03-17 17:00 | 0.74x | 1.62x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -15,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:00 | Solana | BUY | 0.0001 | `21UhnBV5DnHT9WGw...` |
 | 03-17 06:25 | Flash | SELL | 0.0000 | `tX5WAEXXdNPXMZPd...` |
 | 03-17 06:24 | Flash | SELL | 0.0000 | `3ps4wj22dgWdkWY8...` |
 | 03-17 06:20 | Flash | BUY | 0.0001 | `BNYcorQFAdn8LT5L...` |

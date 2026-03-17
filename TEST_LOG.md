@@ -1,8 +1,26 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:00 UTC** | 7d | 1468 buys, 1964 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 17:05 UTC** | 7d | 1479 buys, 1971 sells | In: **0.48** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:04 | 🔴 SELL | JONES | 0.0000 | FzMeg6P2... | SL | `5gsoVAJd39UC...` |
+| 03-17 | 17:04 | 🟢 BUY | Alon | 0.0001 | EaEf6TH8... | copy_buy | `4bGodXn9AXSf...` |
+| 03-17 | 17:04 | 🟢 BUY | SCANNEX | 0.0001 | 42nQHDpy... | copy_buy | `2VJEckHKCHBf...` |
+| 03-17 | 17:04 | 🔴 SELL | AFHE | 0.0000 | EaEf6TH8... | trail | `5t74A5TpdnJk...` |
+| 03-17 | 17:03 | 🟢 BUY | JONES | 0.0001 | FzMeg6P2... | copy_buy | `3VZFPGHrphkR...` |
+| 03-17 | 17:03 | 💰 SELL | AFHE | 0.0001 | EaEf6TH8... | TP1 | `2oq7kk6EqaHb...` |
+| 03-17 | 17:03 | 🔴 SELL | EGODEATH | 0.0001 | 6raSuhfi... | trail | `26wR9yTGCQ33...` |
+| 03-17 | 17:02 | 🟢 BUY | hahahaha | 0.0001 | BmXugVGY... | copy_buy | `331NEcXpT4yn...` |
+| 03-17 | 17:02 | 💰 SELL | Lemon-kun | 0.0001 | 7cA6GmNF... | TP1 | `5FJRCxE9494Y...` |
+| 03-17 | 17:02 | 🔴 SELL | HARVEST | 0.0000 | MiLLsXjP... | SL | `4uiVamig1srA...` |
+| 03-17 | 17:02 | 🟢 BUY | GlassWorm | 0.0001 | 7cXeEXa4... | copy_buy | `nsJbzV5SyAMV...` |
+| 03-17 | 17:02 | 🟢 BUY | AFHE | 0.0001 | EaEf6TH8... | copy_buy | `2d2VFWX5z4e2...` |
+| 03-17 | 17:02 | 🟢 BUY | Kekkek | 0.0001 | 7EautDJG... | copy_buy | `5NarECyB1KX1...` |
+| 03-17 | 17:01 | 🟢 BUY | Freedom | 0.0001 | 42nQHDpy... | copy_buy | `4UxFXEdNRMRZ...` |
+| 03-17 | 17:01 | 🟢 BUY | LUCKY | 0.0001 | 6E4897rJ... | copy_buy | `3WX7VxT8nj8w...` |
+| 03-17 | 17:01 | 🟢 BUY |  Terry | 0.0001 | otq3sTTS... | copy_buy | `5fERpUPGc4yd...` |
+| 03-17 | 17:00 | 🟢 BUY | Solana | 0.0001 | 8Exfhudv... | copy_buy | `21UhnBV5DnHT...` |
+| 03-17 | 17:00 | 💰 SELL | Leprechaun | 0.0001 | otq3sTTS... | TP2 | `3VrnRGu2SeEM...` |
 | 03-17 | 16:59 | 🟢 BUY | Waiter | 0.0001 | EaEf6TH8... | copy_buy | `2VBWJnRuZ6ci...` |
 | 03-17 | 16:59 | 🟢 BUY | thinker | 0.0001 | EaEf6TH8... | copy_buy | `3Pvt3L7C88xX...` |
 | 03-17 | 16:58 | 💰 SELL | Leprechaun | 0.0001 | otq3sTTS... | TP1 | `2ofwWw6gE7oE...` |

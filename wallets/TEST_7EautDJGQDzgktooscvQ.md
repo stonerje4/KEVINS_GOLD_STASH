@@ -1,5 +1,11 @@
 # [TEST] `7EautDJGQDzgktoo...`
-> 2026-03-17 17:00 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
+> 2026-03-17 17:05 UTC | **3** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Kekkek | 03-17 17:02 | 1.20x | 1.21x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:02 | Kekkek | BUY | 0.0001 | `5NarECyB1KX1xK2x...` |
 | 03-17 06:49 | pvpdog | BUY | 0.0001 | `5b47reMz5nLP65BH...` |
 | 03-17 06:32 | PROSUMER | BUY | 0.0001 | `nyPjARUgT8mXEjDg...` |
 
