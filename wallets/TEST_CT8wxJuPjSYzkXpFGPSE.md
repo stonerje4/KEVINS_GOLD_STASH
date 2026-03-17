@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CT8wxJuPjSYzkXpFGPSEJKVWuNNgVCyjdjsNwhcUg7cy`
-> Generated: 2026-03-17 01:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 JEETMAXX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.77x | **Current:** 1.77x
+- **Peak:** 1.77x | **Current:** 1.50x
 - **Mint:** `5vBRoDke8vEayt55NkRB32fgqmXASY3aeEq1zfNbpump`
 
 | Time | Action | SOL | TX |

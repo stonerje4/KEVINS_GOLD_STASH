@@ -1,22 +1,76 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 01:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 74 |
-| Open | 50 |
+| Total Positions | 80 |
+| Open | 56 |
 | Closed | 24 |
 | W/L | 13/11 |
 | SOL In (closed) | 0.021300 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+42.6%** |
-| Open Deployed | 0.019000 SOL |
+| Open Deployed | 0.019500 SOL |
 
 ## Trades
 
+### ⚪ BBX
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `5n9e4BNiyZ9yAyueaGr5isUSppj7DyX5vhdtcFyXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:34:43 | BUY | 0.000100 | `28vqivxoj5AXUbjkYfZQM1QVFLHYRT...` |
+
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `3kYTeKXEs8NyGq6wiAgi145Lpxk6mUYtRZu3nz7opump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:34:23 | BUY | 0.000100 | `4ABuZ6npSsEwReUyc5gbizRz67LE5G...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `AZxrRCQ8Kc4WLD5yxE4MuAd3XvZ9dDfVGHL4LYUUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:34:01 | BUY | 0.000100 | `4Po9WkXqzzvnD16Yuy9A6LvPrZq7tU...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.97x
+- **Mint:** `BBVEkonmxoDz97MfmnpKuVkaYriXwrzgJxrkpsqhpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:33:26 | BUY | 0.000100 | `3JQkzATZDbc2dxDZ8YAjVb4Th8mdaY...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.97x
+- **Mint:** `B6SWjYQfcY9ZTpJxmEjv1ZbgUVBLGTtJk1Z34kHpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:32:59 | BUY | 0.000100 | `4ZYptDDAcudEMgcbeS5En6moyQoaVM...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.97x
+- **Mint:** `EDHw1TY5o9gF4ywVLHnxjjNoFSh6vRbQkDbZQwYzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:32:41 | BUY | 0.000100 | `3eddg8hBRiyUisDavU6H5MvUgJ9bfj...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `FkmaLRQgTePVmYXSWYmLyvYMwh2vijkwiGgrwwSjpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +106,7 @@
 
 ### 🟢 Mixer
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `2zHMQd7tyH7wtT6u1tSFdFmqXnxRGFMQ7eiMLnA7pump`
 
 | Time | Action | SOL | TX |
@@ -209,7 +263,7 @@
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `DwkjZoNj6PmJ31PNky4GeMUH6je3rCC1BdgpyCSbpump`
 
 | Time | Action | SOL | TX |
@@ -474,7 +528,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.87x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
@@ -521,7 +575,7 @@
 
 ### 🟢 METALHEADS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.84x
+- **Peak:** 1.12x | **Current:** 0.92x
 - **Mint:** `GpETVRSoR49Ez1hgpLsmX85DnEBiLvMyTfBDQdnkjkpQ`
 
 | Time | Action | SOL | TX |

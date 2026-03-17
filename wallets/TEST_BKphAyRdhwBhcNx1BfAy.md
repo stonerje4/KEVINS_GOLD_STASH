@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 01:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -70,7 +70,7 @@
 
 ### 🟢 FTF
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.85x
+- **Peak:** 1.19x | **Current:** 0.82x
 - **Mint:** `EsVzGCA14tofF9EF3NhaZ3UUfZ7BqD6siDdq4YaDpump`
 
 | Time | Action | SOL | TX |
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.73x | **Current:** 3.69x
+- **Peak:** 3.73x | **Current:** 3.67x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -935,7 +935,7 @@
 
 ### 🟢 Warabi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `5p8EuJfXTNr7Us9sYweDAsXBuzm4pLVoNNnLeykDpump`
 
 | Time | Action | SOL | TX |
@@ -1072,7 +1072,7 @@
 
 ### 🟢 COFFEE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `DTWg1WskDdQ1tU6LjK9jVi6NEafHconMXyGJrRoDpump`
 
 | Time | Action | SOL | TX |

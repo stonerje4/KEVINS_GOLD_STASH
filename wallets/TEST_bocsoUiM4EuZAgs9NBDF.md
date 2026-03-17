@@ -1,10 +1,10 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 01:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 31 |
-| Open | 29 |
+| Total Positions | 32 |
+| Open | 30 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.000200 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.002900 SOL |
 
 ## Trades
+
+### ⚪ TRASHBAG
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `BAeDU8aGHGkDmBam5jwRpd7ExKMrLEKxhf9XCsJpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:34:52 | BUY | 0.000100 | `2dxDo52YJfmP3ecWGiSPeQ56abKDF7...` |
 
 ### 🟢 3
 - **Status:** open | **Exit:** open
@@ -70,7 +79,7 @@
 
 ### 🟢 sexless
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.69x
+- **Peak:** 1.24x | **Current:** 0.64x
 - **Mint:** `FVidfQMMimDh2vG8voK4YdBkUcq7kvJuVPbLUiT5pump`
 
 | Time | Action | SOL | TX |
@@ -79,7 +88,7 @@
 
 ### 🟢 EVIE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.30x | **Current:** 1.85x
+- **Peak:** 2.30x | **Current:** 1.89x
 - **Mint:** `ETZ5L4FYfkgXx5XAK7Vhvag9kirGJdpBAUJcue1Dpump`
 
 | Time | Action | SOL | TX |
@@ -116,7 +125,7 @@
 
 ### 🟢 BATTLE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.12x | **Current:** 1.20x
+- **Peak:** 2.12x | **Current:** 1.18x
 - **Mint:** `41Ro9syNfd3CRKjSGvCk5iaXpyb557k1ACHUEDUEpump`
 
 | Time | Action | SOL | TX |

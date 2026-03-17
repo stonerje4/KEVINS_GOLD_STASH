@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 01:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 110 |
-| Open | 25 |
+| Total Positions | 111 |
+| Open | 26 |
 | Closed | 85 |
 | W/L | 84/1 |
 | SOL In (closed) | 0.036500 |
 | **Closed P&L** | **+0.030605 SOL** |
 | **Closed ROI** | **+83.8%** |
-| Open Deployed | 0.003900 SOL |
+| Open Deployed | 0.004100 SOL |
 
 ## Trades
 
-### ⚪ LKY
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 $$$
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.69x
+- **Mint:** `6hnvpyBq7E39cySxPWWjZ9pbigihN4MwLgYeUaX5pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:31:22 | BUY | 0.000100 | `4tTB8By2VB2JkRVWb1RL1mJurFvVLx...` |
+
+### 🟢 LKY
+- **Status:** open | **Exit:** open
+- **Peak:** 1.33x | **Current:** 1.33x
 - **Mint:** `Eqg6zM2M3xnkbhEbiqLAozPQuVgTi9bzJFWDtugqpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 CHOPPER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.58x
+- **Peak:** 1.00x | **Current:** 0.54x
 - **Mint:** `2WpTMwM5VzQJHeTaVEbSMuuQJyZcH4Mrv8H3oDDfpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 C64
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.02x | **Current:** 1.02x
 - **Mint:** `FrMy2MuZwXbgKMfNWWWb4h8VCQbkx5nQ5gUuFqSLpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +52,7 @@
 
 ### 🟢 WAVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.25x
+- **Peak:** 1.51x | **Current:** 1.51x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -64,7 +73,7 @@
 
 ### 🟢 ChingChong
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 0.60x
+- **Peak:** 1.55x | **Current:** 0.61x
 - **Mint:** `4bN7NHQs1TQ7pfCi576oJGXLsZA3AybDR9TXjUDcpump`
 
 | Time | Action | SOL | TX |
