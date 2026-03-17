@@ -1,22 +1,40 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-16 23:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 96 |
-| Open | 16 |
+| Total Positions | 98 |
+| Open | 18 |
 | Closed | 80 |
 | W/L | 79/1 |
 | SOL In (closed) | 0.036000 |
 | **Closed P&L** | **+0.030223 SOL** |
 | **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.003100 SOL |
+| Open Deployed | 0.003300 SOL |
 
 ## Trades
 
+### 🟢 Crabs
+- **Status:** open | **Exit:** open
+- **Peak:** 1.22x | **Current:** 1.22x
+- **Mint:** `5tgcSvkTUvZq5qt2gSSx8oUbiStbhkUhq6QPr6f8pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:58:01 | BUY | 0.000100 | `uUagKhR1fznPqiHLhUpoGoJ2iHAZgW...` |
+
+### 🟢 Solitude
+- **Status:** open | **Exit:** open
+- **Peak:** 1.58x | **Current:** 0.64x
+- **Mint:** `2woQW8L7Xqx5AhUxnbNrTaaL5YPqTo8XGrReogavpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:56:46 | BUY | 0.000100 | `3Hk74NKX1tsXLUeh2wou7HwcCVwYzt...` |
+
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.35x | **Current:** 1.35x
+- **Peak:** 1.75x | **Current:** 1.17x
 - **Mint:** `E98XR94FXG2w4GdCwunGPYx8TbZqe2HiNMPHS1Hmpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-16 23:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -68,7 +68,7 @@
 
 ### 🟢 TANG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 0.98x
+- **Peak:** 1.90x | **Current:** 0.95x
 - **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,49 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-16 23:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
-| Open | 11 |
+| Total Positions | 15 |
+| Open | 14 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.001100 SOL |
+| Open Deployed | 0.001400 SOL |
 
 ## Trades
 
-### 🟢 RA
+### 🟢 Nyctimene
 - **Status:** open | **Exit:** open
 - **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `BZsediCfyToyZkSPD5HBadRXUxEVhWkSKceZExvSpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:59:13 | BUY | 0.000100 | `4WaqWLtuzB2BaXfNMor7i2paFEG19A...` |
+
+### 🟢 Concurse
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `5Zrsx4iEhqeFc944WsMuxdPt6vmPiFqFS4uN7vCtpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:58:59 | BUY | 0.000100 | `Qx8yMFx6aBmTZfhnbeKB6eAFvyCfZX...` |
+
+### 🟢 Mater
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `CjDVxPEfyVaVuV4EyXXosPCRyiKjnePspNyZo1pDpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:58:53 | BUY | 0.000100 | `pbk1e3mFs88d94zpXNBx7qCFL3w23J...` |
+
+### 🟢 RA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `AtnwLCgwkJQqKFRH1Uzrk5eTzWMWkn1kWCCvwqPPpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +52,7 @@
 
 ### 🟢 ✓
 - **Status:** open | **Exit:** open
-- **Peak:** 1.51x | **Current:** 0.58x
+- **Peak:** 1.51x | **Current:** 0.57x
 - **Mint:** `C7xSGBByHVrxftQaUF3ARuRy6ZVoxE8rcppneZoXpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +88,7 @@
 
 ### 🟢 ROCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.01x | **Current:** 0.96x
 - **Mint:** `2ByUr3vxL8uZnCoof1AW3Pi4yiyarVFBFDRCyjaNpump`
 
 | Time | Action | SOL | TX |
@@ -79,7 +106,7 @@
 
 ### 🟢 DAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.85x
+- **Peak:** 1.13x | **Current:** 0.84x
 - **Mint:** `3AhHpBR3o8TKKyBto3fZGLVHGRGtuUbqQy8LhziFpump`
 
 | Time | Action | SOL | TX |

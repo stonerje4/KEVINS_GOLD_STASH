@@ -1,18 +1,28 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-16 23:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 18 |
+| Total Positions | 19 |
 | Open | 2 |
-| Closed | 16 |
-| W/L | 14/2 |
-| SOL In (closed) | 0.006600 |
-| **Closed P&L** | **+0.003273 SOL** |
-| **Closed ROI** | **+49.6%** |
+| Closed | 17 |
+| W/L | 15/2 |
+| SOL In (closed) | 0.006700 |
+| **Closed P&L** | **+0.003300 SOL** |
+| **Closed ROI** | **+49.2%** |
 | Open Deployed | 0.001200 SOL |
 
 ## Trades
+
+### 🔴 BuyNoww
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.04x
+- **Mint:** `747oTq1joub7aALBy6aJU8bMmtkqHEqKjLRU3biUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-16 23:57:38 | BUY | 0.000100 | `3WqMwrrKCozMJmsUiGu98dsykNSXv5...` |
+| 2026-03-16 23:58:40 | SELL | 0.000026 | `Q7qKXmnJWUkiy3YeMPAPFQdn8tQgbS...` |
 
 ### 🔴 NKC
 - **Status:** closed | **Exit:** stop_loss
