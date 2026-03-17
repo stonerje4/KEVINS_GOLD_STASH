@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 00:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 chance
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.35x | **Current:** 2.03x
+- **Peak:** 2.35x | **Current:** 1.15x
 - **Mint:** `8DJckLTVzCy7u3afeydFXYZGkffiw7HeZ8ujxDRZpump`
 
 | Time | Action | SOL | TX |
@@ -26,7 +26,7 @@
 
 ### 🟢 COW
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.05x | **Current:** 2.05x
+- **Peak:** 2.44x | **Current:** 2.33x
 - **Mint:** `BRQn3S6nn4p3GAUsdAxJgJgxuWQpsjQjchiUmkfKpump`
 
 | Time | Action | SOL | TX |

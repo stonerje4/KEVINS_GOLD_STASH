@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 00:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 93 |
-| Open | 26 |
+| Total Positions | 94 |
+| Open | 27 |
 | Closed | 67 |
 | W/L | 65/2 |
 | SOL In (closed) | 0.030200 |
 | **Closed P&L** | **+0.024792 SOL** |
 | **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.003600 SOL |
+| Open Deployed | 0.003700 SOL |
 
 ## Trades
+
+### 🟢 FLATHEAD
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.68x
+- **Mint:** `3LFXFBrrMcabobNDpdAcze7FigVu2FsmqZscHhkxpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:01:46 | BUY | 0.000100 | `4GaUXn56fNP4Hs8KsAoiqAqVuqzfHB...` |
 
 ### 🟢 TJR
 - **Status:** open | **Exit:** open
@@ -415,7 +424,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.90x
+- **Peak:** 1.74x | **Current:** 0.75x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

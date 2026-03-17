@@ -1,4 +1,4 @@
-# [TEST] Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
+# [TEST] Wallet: `E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`
 > Generated: 2026-03-17 00:05 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 401k
+### 🟢 MiniME
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.13x
-- **Mint:** `8jJpPKsezshgJp7rW95YUicQmCeZH6eNJUcrTHUMpump`
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `891CPWxhcfwXXPdhu9pn3iTc9JpwsCBFAappoybCpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 23:30:04 | BUY | 0.000100 | `28T1wSHLLXYrjguNoELLfuTstFsxbF...` |
+| 2026-03-17 00:04:16 | BUY | 0.000100 | `3pu2ikZVHtBU17isA9Nd2hLFbgGFp4...` |
 

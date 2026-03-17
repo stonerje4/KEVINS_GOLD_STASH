@@ -1,28 +1,30 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-17 00:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 11 |
-| Open | 4 |
-| Closed | 7 |
-| W/L | 7/0 |
-| SOL In (closed) | 0.001700 |
-| **Closed P&L** | **+0.000609 SOL** |
-| **Closed ROI** | **+35.8%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 8 |
+| W/L | 8/0 |
+| SOL In (closed) | 0.001800 |
+| **Closed P&L** | **+0.000713 SOL** |
+| **Closed ROI** | **+39.6%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
 ### 🟢 Up
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.31x | **Current:** 2.31x
+- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
+- **Peak:** 3.18x | **Current:** 0.66x
 - **Mint:** `Bn6mmptrpicdvJjNWNqrjVKbq97vXCfQBcy4yo3Zpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:58:21 | BUY | 0.000100 | `22LgmTxVV9Vykg5YrEr7QpzgkQKKPj...` |
 | 2026-03-16 23:59:12 | SELL | 0.000022 | `4NBvUWsWkC6E7PCfkVmDZamMBim18A...` |
+| 2026-03-17 00:01:02 | SELL | 0.000028 | `YLscUmn3vLGXuDyFPX16cAAWSBwhmK...` |
+| 2026-03-17 00:04:14 | SELL | 0.000053 | `462PxAMHKaQ8Bn2otgkAP516dTVids...` |
 
 ### 🔴 NVIDIA
 - **Status:** closed | **Exit:** runner_trailing_stop
