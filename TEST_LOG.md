@@ -1,8 +1,20 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:30 UTC** | 7d | 1523 buys, 1995 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 17:35 UTC** | 7d | 1528 buys, 2002 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:34 | 🔴 SELL | Solana | 0.0000 | Lfw99jsE... | SL | `3yecsEMPqKde...` |
+| 03-17 | 17:34 | 🟢 BUY | RAVEN | 0.0001 | BBBByrLH... | copy_buy | `E1m6kGErjK5r...` |
+| 03-17 | 17:34 | 💰 SELL | Chicken | 0.0001 | Lfw99jsE... | TP1 | `42RNL4bkBuF8...` |
+| 03-17 | 17:34 | 🔴 SELL | whappen | 0.0001 | EaEf6TH8... | trail | `618kSpFagJGv...` |
+| 03-17 | 17:33 | 🔴 SELL | SSCC | 0.0000 | BBBByrLH... | SL | `4sNUhR5t2fBE...` |
+| 03-17 | 17:32 | 🟢 BUY | oneshotted | 0.0001 | BBBByrLH... | copy_buy | `5ZheHRikM9WX...` |
+| 03-17 | 17:32 | 🔴 SELL | FAITH | 0.0000 | Lfw99jsE... | SL | `5GeAZvubRo5E...` |
+| 03-17 | 17:32 | 🔴 SELL | Muskius | 0.0000 | Lfw99jsE... | SL | `3ooSowMfoYap...` |
+| 03-17 | 17:31 | 🟢 BUY | VEIL | 0.0001 | 6raSuhfi... | copy_buy | `4qSUjPB5KqpC...` |
+| 03-17 | 17:31 | 🟢 BUY | Cat | 0.0001 | bocsoUiM... | copy_buy | `5SLqrM6uokvk...` |
+| 03-17 | 17:30 | 💰 SELL | whappen | 0.0001 | EaEf6TH8... | TP2 | `3aMcQ6236yFz...` |
+| 03-17 | 17:30 | 🟢 BUY | ZFM | 0.0001 | BBBByrLH... | copy_buy | `4Fpk7RDwqhLu...` |
 | 03-17 | 17:29 | 🟢 BUY | Brand | 0.0001 | Lfw99jsE... | copy_buy | `3vJyUnu278gU...` |
 | 03-17 | 17:29 | 💰 SELL | whappen | 0.0001 | EaEf6TH8... | TP1 | `3MLgfsTzNHs5...` |
 | 03-17 | 17:29 | 🔴 SELL | LMG | 0.0000 | 6E4897rJ... | trail | `2ctfTmt9q71C...` |
