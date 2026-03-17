@@ -1,5 +1,5 @@
 # [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 honkermog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 1.12x
+- **Peak:** 1.17x | **Current:** 1.09x
 - **Mint:** `2Z5BMaPjri6gsK7i7LHDmdfQrkpV9kbkVnrsosvNpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Bill
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.08x
+- **Peak:** 1.84x | **Current:** 1.18x
 - **Mint:** `61aJAgdhgt1ypMWmcLSCEe1ADoiYkcMYNHDZZudnpump`
 
 | Time | Action | SOL | TX |

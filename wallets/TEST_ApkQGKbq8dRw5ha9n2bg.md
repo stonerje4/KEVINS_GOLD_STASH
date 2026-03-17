@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 POKEMON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.74x
+- **Peak:** 1.05x | **Current:** 0.72x
 - **Mint:** `Cj56juraQxYxJJHdcdvAgtXqezF8Uxasa6DPsVFcpump`
 
 | Time | Action | SOL | TX |

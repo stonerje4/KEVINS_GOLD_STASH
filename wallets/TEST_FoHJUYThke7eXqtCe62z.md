@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 72 |
+| Total Positions | 73 |
 | Open | 49 |
-| Closed | 23 |
-| W/L | 13/10 |
-| SOL In (closed) | 0.020700 |
+| Closed | 24 |
+| W/L | 13/11 |
+| SOL In (closed) | 0.021300 |
 | **Closed P&L** | **+0.009065 SOL** |
-| **Closed ROI** | **+43.8%** |
-| Open Deployed | 0.019400 SOL |
+| **Closed ROI** | **+42.6%** |
+| Open Deployed | 0.018900 SOL |
 
 ## Trades
+
+### 🟢 AMNOO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.92x
+- **Mint:** `HwS9tVR6cDNyRbH1gciKWXFBvp8QXE4MKqyYdGj9pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:52:59 | BUY | 0.000100 | `3UAy2qEs5Lmu2ksFPgAdUQrQKu9t5F...` |
 
 ### 🟢 TCC
 - **Status:** open | **Exit:** open
@@ -43,7 +52,7 @@
 
 ### 🟢 Toucan
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.09x | **Current:** 1.61x
+- **Peak:** 2.09x | **Current:** 1.60x
 - **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
 
 | Time | Action | SOL | TX |
@@ -107,7 +116,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `BnshewgbX8hy1onTNZtzDpLkdtEDTHuHDYPQStN6pump`
 
 | Time | Action | SOL | TX |
@@ -152,7 +161,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.09x | **Current:** 1.00x
 - **Mint:** `8TLJGfW2xjoJK34DaKcP4g1xWVuqWSePEgm885Qnpump`
 
 | Time | Action | SOL | TX |
@@ -399,7 +408,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.74x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |
@@ -456,7 +465,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.87x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |
@@ -575,14 +584,15 @@
 | 2026-03-16 02:47:54 | SELL | 0.000443 | `2zkNjiKG9hJJJfJtrwCGC6hfQdYupz...` |
 | 2026-03-16 02:48:28 | SELL | 0.000381 | `5qRLWqTfkvgW123erteqzQBqB8g5p6...` |
 
-### 🟢 Ryder
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+### 🔴 Ryder
+- **Status:** closed | **Exit:** stale_cleanup
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `BG55rSpG9hpt6rzFjK8BuJNEfQrJYEM852kB766Fpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:30:22 | BUY | 0.000600 | `4zKfNKdJGHWrXEnwFsfNTfaueVL2r9...` |
+| 2026-03-17 00:50:20 | SELL | 0.000078 | `2C8qQuuyoEEpttQprRY2f5pL9JSWKA...` |
 
 ### 🟢 SKUNS
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

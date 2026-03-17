@@ -1,22 +1,22 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 104 |
-| Open | 21 |
-| Closed | 83 |
-| W/L | 82/1 |
-| SOL In (closed) | 0.036300 |
-| **Closed P&L** | **+0.030482 SOL** |
-| **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.003600 SOL |
+| Open | 20 |
+| Closed | 84 |
+| W/L | 83/1 |
+| SOL In (closed) | 0.036400 |
+| **Closed P&L** | **+0.030519 SOL** |
+| **Closed ROI** | **+83.8%** |
+| Open Deployed | 0.003500 SOL |
 
 ## Trades
 
 ### 🟢 ST. PIPPIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.60x | **Current:** 1.60x
+- **Peak:** 1.60x | **Current:** 0.59x
 - **Mint:** `D88W9fiFMLWgzjWe3sPfqsirn3wZgaiJm2opN5YNpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 FILECITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 0.93x
+- **Peak:** 1.34x | **Current:** 1.03x
 - **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Monke
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.16x
+- **Peak:** 1.20x | **Current:** 1.18x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
@@ -53,14 +53,15 @@
 | 2026-03-17 00:35:37 | SELL | 0.000027 | `41Fre12n2PgbqEYQmFoqiG6W7dV42D...` |
 | 2026-03-17 00:38:57 | SELL | 0.000094 | `5MsYrd3X7uL3smh9oxNE4yphMrj83t...` |
 
-### 🟢 CLUDSTAR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.45x
+### 🔴 CLUDSTAR
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.23x | **Current:** 0.37x
 - **Mint:** `2iU4cQvPD3n1HGXX2phTSHzSGU5syz3UTzbMYcRBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:12:36 | BUY | 0.000100 | `2qjPm54qezfXaqMee3bAcNDsYPfj8z...` |
+| 2026-03-17 00:50:12 | SELL | 0.000037 | `2hy4sUCRkg7dF3SuDDcTX4M1esM6C2...` |
 
 ### 🔴 TRENCHERIA
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -664,7 +665,7 @@
 
 ### 🟢 MATM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.65x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `9gg1QdcoEcqFaYZeA1FhMWw9i2BPJMrx1c6UH6CKpump`
 
 | Time | Action | SOL | TX |

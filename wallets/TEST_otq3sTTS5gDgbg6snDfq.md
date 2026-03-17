@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 RICH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `69SdsqHydgT1XYYyLrC4DNnovUAvYgJEDbDcpLBJpump`
 
 | Time | Action | SOL | TX |
@@ -124,7 +124,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -133,7 +133,7 @@
 
 ### 🟢 $LLAMA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.94x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `2mia3Krg7QayRGvAEPidCoWxBhzfjryFsEQ1Dtfhpump`
 
 | Time | Action | SOL | TX |
@@ -223,7 +223,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `BWokmiUXPVnNtMDp4Hy1y1mM9Fy1QntHBye9aZiPpump`
 
 | Time | Action | SOL | TX |
@@ -278,7 +278,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
@@ -297,7 +297,7 @@
 
 ### 🟢 Nostalgia
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `EBhMuwaPzF3uDWoeRjAKMMwjBWhoGNttJeh3bhr7pump`
 
 | Time | Action | SOL | TX |
@@ -306,7 +306,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |

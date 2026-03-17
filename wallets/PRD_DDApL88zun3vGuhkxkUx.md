@@ -1,18 +1,27 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-17 00:50 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 31 |
-| Open | 2 |
+| Total Positions | 32 |
+| Open | 3 |
 | Closed | 29 |
 | W/L | 6/23 |
 | SOL In (closed) | 3.980000 |
 | **Closed P&L** | **-0.760582 SOL** |
 | **Closed ROI** | **-19.1%** |
-| Open Deployed | 0.300000 SOL |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
+
+### 🟢 BATTLE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.08x | **Current:** 0.00x
+- **Mint:** `41Ro9syNfd3CRKjSGvCk5iaXpyb557k1ACHUEDUEpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:51:29 | BUY | 0.150000 | `3EXhPDrCj2ETNfCmqgbCNFsE5ePXy6...` |
 
 ### 🔴 ANCESTORS
 - **Status:** closed | **Exit:** manual_sell

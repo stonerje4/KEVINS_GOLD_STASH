@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
-> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 BBX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.83x | **Current:** 1.83x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.30x | **Current:** 2.30x
 - **Mint:** `3kTiUBtrfGocvcksYsXuFhH2MUkCBwo7X4UuppBJpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 15:19:00 | BUY | 0.000100 | `5yemRY8s52Vw7rzb8rV2mdg9FC4k3B...` |
+| 2026-03-17 00:50:08 | SELL | 0.000022 | `5A6vghkooTNhZdXeLWtaApyZC4zsy2...` |
 
 ### 🔴 PEEP
 - **Status:** closed | **Exit:** stale_cleanup

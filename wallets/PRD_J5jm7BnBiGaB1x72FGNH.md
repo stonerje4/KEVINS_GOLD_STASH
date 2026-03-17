@@ -1,5 +1,5 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-17 00:50 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 4.960000 |
 | **Closed P&L** | **-1.507602 SOL** |
 | **Closed ROI** | **-30.4%** |
-| Open Deployed | 0.150000 SOL |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
-### ⚪ COW
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 COW
+- **Status:** open | **Exit:** open
+- **Peak:** 1.49x | **Current:** 0.00x
 - **Mint:** `BRQn3S6nn4p3GAUsdAxJgJgxuWQpsjQjchiUmkfKpump`
 
 | Time | Action | SOL | TX |

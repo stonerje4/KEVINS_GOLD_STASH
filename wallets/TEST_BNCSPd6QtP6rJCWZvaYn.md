@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Feels
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.65x
+- **Peak:** 1.05x | **Current:** 0.61x
 - **Mint:** `GtswqeVZbSBLU6ZZfgc1zcMk6fVBSCV8RLcgR2v5pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 STEAK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.64x
+- **Peak:** 1.03x | **Current:** 0.62x
 - **Mint:** `4RZz3rUcfXJjZgwycNUJUDcfTKSFNErXdBwzpLwEpump`
 
 | Time | Action | SOL | TX |

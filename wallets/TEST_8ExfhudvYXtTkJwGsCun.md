@@ -1,4 +1,4 @@
-# [TEST] Wallet: `9zuBmBAu4tdegLWcmLb1ksaF9PBvBVkcSALjAwXwPKrU`
+# [TEST] Wallet: `8ExfhudvYXtTkJwGsCunsbqX4CEWwUrU7TVzKSu1hYgY`
 > Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 PEKEPOME
+### 🟢 C-3PO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.50x
-- **Mint:** `BHvwMeTtmwxmuZe4umCQ3T9qy3jDSyHGM3H4YRxMpump`
+- **Peak:** 1.88x | **Current:** 1.47x
+- **Mint:** `Bx9j8xxt7C84kXsb5BFaWAfzhj72APgc2zX3Ka7Dpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 16:48:15 | BUY | 0.000100 | `2jwf2xEtP1FaS3ie9Dv3Uj63nf4VAj...` |
+| 2026-03-17 00:50:57 | BUY | 0.000100 | `i3NuwA6VSbE7TRneM9Yud74wBu8zmV...` |
 
