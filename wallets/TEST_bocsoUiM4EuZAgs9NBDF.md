@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 02:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -52,7 +52,7 @@
 
 ### 🟢 UNIT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.03x
+- **Peak:** 1.59x | **Current:** 0.95x
 - **Mint:** `DrLBSKASLLwoMFcBqCmKVR4uWZQ3ygMot3MtLtXmpump`
 
 | Time | Action | SOL | TX |
@@ -107,7 +107,7 @@
 
 ### 🟢 AI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.02x
+- **Peak:** 1.06x | **Current:** 1.06x
 - **Mint:** `BPbVZ5oNbvWCrvBaGqEMZLNEVD6wKgMDRLCrJP7wpump`
 
 | Time | Action | SOL | TX |
@@ -125,7 +125,7 @@
 
 ### 🟢 BATTLE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.12x | **Current:** 1.11x
+- **Peak:** 2.12x | **Current:** 1.10x
 - **Mint:** `41Ro9syNfd3CRKjSGvCk5iaXpyb557k1ACHUEDUEpump`
 
 | Time | Action | SOL | TX |
@@ -245,7 +245,7 @@
 
 ### 🟢 ROCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.60x
+- **Peak:** 1.12x | **Current:** 0.59x
 - **Mint:** `2ByUr3vxL8uZnCoof1AW3Pi4yiyarVFBFDRCyjaNpump`
 
 | Time | Action | SOL | TX |

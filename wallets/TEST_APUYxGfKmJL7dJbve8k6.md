@@ -1,5 +1,5 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 02:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 Life
-- **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.36x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.18x | **Current:** 1.10x
 - **Mint:** `2BrfhwBxvgup7iUnKcfoWuZSbHbcTzsZJsVqeuB4pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:50:48 | BUY | 0.000100 | `HAdz76fkPNx6K18jPKxTwMbaKgAMhJ...` |
+| 2026-03-17 02:01:33 | SELL | 0.000022 | `62afRwS9BQeSYEsTokVe2zihw6wDmP...` |
 
 ### 🔴 ZHGENT
 - **Status:** closed | **Exit:** stop_loss

@@ -1,5 +1,5 @@
 # [PRD] Wallet: `r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De`
-> Generated: 2026-03-17 02:00 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 0.00x
+- **Peak:** 1.21x | **Current:** 0.00x
 - **Mint:** `3kTiUBtrfGocvcksYsXuFhH2MUkCBwo7X4UuppBJpump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +62,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.16x | **Current:** 0.00x
+- **Peak:** 5.32x | **Current:** 0.00x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -70,6 +70,7 @@
 | 2026-03-16 16:59:09 | BUY | 0.150000 | `4NKDzCR5q4W5ZGXk1tYvAc9a9gqaxW...` |
 | 2026-03-16 19:02:21 | SELL | 0.030877 | `5bUofr8VKkkwTPafVn1KtToMuS5Ngb...` |
 | 2026-03-17 00:03:17 | SELL | 0.046695 | `53zVJZd8Ns3xRHai583PhotMGJCDDA...` |
+| 2026-03-17 02:02:05 | SELL | 0.079727 | `47DDRJHVmdyBvzw8b4UsLNbEqd8kFV...` |
 
 ### 🔴 TRN
 - **Status:** closed | **Exit:** stale_position_cleanup

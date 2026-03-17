@@ -1,18 +1,27 @@
 # [PRD] Wallet: `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`
-> Generated: 2026-03-17 02:00 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 2 |
+| Total Positions | 8 |
+| Open | 3 |
 | Closed | 5 |
 | W/L | 0/5 |
 | SOL In (closed) | 0.750000 |
 | **Closed P&L** | **-0.280947 SOL** |
 | **Closed ROI** | **-37.5%** |
-| Open Deployed | 0.300000 SOL |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
+
+### 🟢 Dozer
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `JB92sKqTtgyfAaYcpg5x8Jau2m73jUfsyEHkpRRspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:02:46 | BUY | 0.150000 | `633zbvUgTj7r96APYfrzXVbrqcjAcb...` |
 
 ### 🔴 Achievements
 - **Status:** closed | **Exit:** stop_loss
