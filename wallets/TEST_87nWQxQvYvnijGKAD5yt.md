@@ -1,5 +1,5 @@
 # [TEST] Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
-> Generated: 2026-03-17 06:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.03x
+- **Peak:** 1.03x | **Current:** 1.02x
 - **Mint:** `98msU9F3TsT4NEgG5FKQcLMvL2swX94Zkd8AUTbbpump`
 
 | Time | Action | SOL | TX |
