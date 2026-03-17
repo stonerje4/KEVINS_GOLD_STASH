@@ -1,5 +1,5 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 01:50 UTC | Environment: **PRD**
+> Generated: 2026-03-17 01:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -25,13 +25,14 @@
 | 2026-03-17 01:45:51 | SELL | 0.000039 | `3N2whq5SAZfYgexozK8BBNro6XLYvF...` |
 
 ### 🟢 honkermog
-- **Status:** open | **Exit:** open
-- **Peak:** 1.96x | **Current:** 1.93x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.16x | **Current:** 2.06x
 - **Mint:** `2Z5BMaPjri6gsK7i7LHDmdfQrkpV9kbkVnrsosvNpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:04:05 | BUY | 0.000100 | `TawAsFBLmrUKpj1JZWMWNeQLyHNtc5...` |
+| 2026-03-17 01:51:11 | SELL | 0.000022 | `2xKKkY697DGSESNMmj7NrtvCmJjxsQ...` |
 
 ### 🔴 Bill
 - **Status:** closed | **Exit:** stop_loss

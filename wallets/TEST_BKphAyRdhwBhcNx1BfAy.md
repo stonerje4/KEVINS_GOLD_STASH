@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 01:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.73x | **Current:** 3.43x
+- **Peak:** 3.73x | **Current:** 3.72x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -210,7 +210,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.70x | **Current:** 2.70x
+- **Peak:** 2.82x | **Current:** 2.82x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -746,7 +746,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.13x
+- **Peak:** 3.16x | **Current:** 2.06x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -2507,13 +2507,14 @@
 | 2026-03-16 03:04:58 | BUY | 0.000600 | `2rQ9SaW9Gv7rsGBuijHm6nPFWFRfzK...` |
 
 ### 🟢 VEESA
-- **Status:** open | **Exit:** open
+- **Status:** partial | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.73x
 - **Mint:** `5DhmwXZ7jCFSLPJPYTo4dN8mszQTuur9Haio833Cpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:03:09 | BUY | 0.000600 | `5r4nfQowbQMBaVEtNMNFMFtNXN26DT...` |
+| 2026-03-17 01:50:35 | SELL | 0.000073 | `e8nGeXhHmJCdF7vGa39XesqpungouZ...` |
 
 ### 🔴 Barista
 - **Status:** closed | **Exit:** stop_loss

@@ -1,18 +1,27 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 01:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 1 |
+| Total Positions | 8 |
+| Open | 2 |
 | Closed | 6 |
 | W/L | 6/0 |
 | SOL In (closed) | 0.001600 |
 | **Closed P&L** | **+0.001590 SOL** |
 | **Closed ROI** | **+99.4%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 Hamster
+- **Status:** open | **Exit:** open
+- **Peak:** 1.21x | **Current:** 1.21x
+- **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:52:10 | BUY | 0.000100 | `5fAFTRTHiQLjPGC6y8HgHCFUXWqKtu...` |
 
 ### 🔴 Clover
 - **Status:** closed | **Exit:** stop_loss
@@ -36,7 +45,7 @@
 
 ### 🟢 MATER
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.21x | **Current:** 1.92x
+- **Peak:** 2.21x | **Current:** 1.66x
 - **Mint:** `EXnczaT51NvfGQUdYmZ6Fm4zRW9Ttyrk9YrCLLGkpump`
 
 | Time | Action | SOL | TX |

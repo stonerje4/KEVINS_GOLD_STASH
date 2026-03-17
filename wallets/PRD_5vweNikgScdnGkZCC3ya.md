@@ -1,5 +1,5 @@
 # [PRD] Wallet: `5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg`
-> Generated: 2026-03-17 01:50 UTC | Environment: **PRD**
+> Generated: 2026-03-17 01:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 BBX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.99x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.08x | **Current:** 0.00x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:59:31 | BUY | 0.150000 | `2X712DuH1d6d8sLg46c68LKcgbRyG7...` |
+| 2026-03-17 01:52:19 | SELL | 0.030522 | `3dw5TFZXkDDf3dj2PFvnxo9og6zKtS...` |
 
 ### 🔴 URX
 - **Status:** closed | **Exit:** stop_loss

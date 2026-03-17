@@ -1,22 +1,31 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 01:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 5 |
+| Total Positions | 10 |
+| Open | 6 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000900 |
 | **Closed P&L** | **+0.000368 SOL** |
 | **Closed ROI** | **+40.9%** |
-| Open Deployed | 0.000500 SOL |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
+### 🟢 ADDICTION
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `3sakGzMhUQEe3Epr8spKkEoyFwuZnHQn8hht7Lyzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:54:26 | BUY | 0.000100 | `3kjWmvjHMBGDwGEkuZzZozsgkvoACB...` |
+
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.63x
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `SPVPDaVfyDKqse6t5N6QwFtp3Va7jfAh9fjd8Rwpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +53,7 @@
 
 ### 🟢 CLAWDIS
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.71x | **Current:** 1.40x
+- **Peak:** 2.71x | **Current:** 1.70x
 - **Mint:** `2yDL2okKMtkxtSomVWVfr6Y8JDBuidRX3e4Qx8hBBAGS`
 
 | Time | Action | SOL | TX |

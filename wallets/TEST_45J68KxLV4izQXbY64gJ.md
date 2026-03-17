@@ -1,5 +1,5 @@
 # [TEST] Wallet: `45J68KxLV4izQXbY64gJr8YP4jfxGSvHFQwoDfBGxFg9`
-> Generated: 2026-03-17 01:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 SHOWMORE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.03x
+- **Peak:** 1.03x | **Current:** 1.01x
 - **Mint:** `6ANw7sXuK3EE5KJsSWvAbytauJq5rE2LBv9GPiYepump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 NEURIX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `Hrpq2D2YHzaYMUNNAt37TnHyQKRv5CSjvGWWRViHpump`
 
 | Time | Action | SOL | TX |

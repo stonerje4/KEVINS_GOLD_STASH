@@ -1,27 +1,37 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 01:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 40 |
+| Total Positions | 41 |
 | Open | 5 |
-| Closed | 35 |
-| W/L | 31/4 |
-| SOL In (closed) | 0.014500 |
-| **Closed P&L** | **+0.009554 SOL** |
-| **Closed ROI** | **+65.9%** |
+| Closed | 36 |
+| W/L | 32/4 |
+| SOL In (closed) | 0.014600 |
+| **Closed P&L** | **+0.009571 SOL** |
+| **Closed ROI** | **+65.6%** |
 | Open Deployed | 0.000500 SOL |
 
 ## Trades
 
-### 🟢 ZHGENT
+### 🟢 Life
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.26x
+- **Peak:** 1.16x | **Current:** 0.95x
+- **Mint:** `2BrfhwBxvgup7iUnKcfoWuZSbHbcTzsZJsVqeuB4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:50:48 | BUY | 0.000100 | `HAdz76fkPNx6K18jPKxTwMbaKgAMhJ...` |
+
+### 🔴 ZHGENT
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.26x | **Current:** 0.17x
 - **Mint:** `AFgwow1WGNtEkBipMHPXaP6s3a25kFcENPCYApH3pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:48:45 | BUY | 0.000100 | `3DsFqKJEZfEDoBkUyzzBFLdVUMeNc2...` |
+| 2026-03-17 01:51:15 | SELL | 0.000017 | `RV3RAbzvfPsAmrztvoisPWSbvka7RS...` |
 
 ### 🔴 GEEKED
 - **Status:** closed | **Exit:** stop_loss
@@ -35,7 +45,7 @@
 
 ### 🟢 GEEKED
 - **Status:** partial | **Exit:** open
-- **Peak:** 10.69x | **Current:** 8.61x
+- **Peak:** 10.69x | **Current:** 7.99x
 - **Mint:** `9d8eLRNJtYjN53DMK6dznFLuTtB4fBhmRgkCD4Mpump`
 
 | Time | Action | SOL | TX |

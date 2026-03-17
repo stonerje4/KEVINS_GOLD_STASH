@@ -1,16 +1,16 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 01:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 82 |
-| Open | 58 |
-| Closed | 24 |
-| W/L | 13/11 |
-| SOL In (closed) | 0.021300 |
+| Open | 57 |
+| Closed | 25 |
+| W/L | 13/12 |
+| SOL In (closed) | 0.021900 |
 | **Closed P&L** | **+0.009065 SOL** |
-| **Closed ROI** | **+42.6%** |
-| Open Deployed | 0.019800 SOL |
+| **Closed ROI** | **+41.4%** |
+| Open Deployed | 0.019200 SOL |
 
 ## Trades
 
@@ -34,7 +34,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.10x | **Current:** 1.10x
 - **Mint:** `5n9e4BNiyZ9yAyueaGr5isUSppj7DyX5vhdtcFyXpump`
 
 | Time | Action | SOL | TX |
@@ -133,7 +133,7 @@
 
 ### 🟢 Toucan
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.09x | **Current:** 1.55x
+- **Peak:** 2.09x | **Current:** 1.56x
 - **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
 
 | Time | Action | SOL | TX |
@@ -152,7 +152,7 @@
 
 ### 🟢 AngelPsy
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `EPR2fNwinHNik3e1MDobJoK51jydXgyZaRNvuWsopump`
 
 | Time | Action | SOL | TX |
@@ -242,7 +242,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.98x
+- **Peak:** 1.09x | **Current:** 0.90x
 - **Mint:** `8TLJGfW2xjoJK34DaKcP4g1xWVuqWSePEgm885Qnpump`
 
 | Time | Action | SOL | TX |
@@ -395,7 +395,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.03x
+- **Peak:** 1.07x | **Current:** 0.97x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |
@@ -480,7 +480,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.91x
+- **Peak:** 1.06x | **Current:** 0.83x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |
@@ -645,14 +645,15 @@
 |------|--------|-----|----|
 | 2026-03-16 03:11:40 | BUY | 0.000600 | `Y335nxUTVPYbpqkkoJ2LJZcGU8ekg8...` |
 
-### 🟢 barviha
-- **Status:** open | **Exit:** open
+### 🔴 barviha
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.97x | **Current:** 0.89x
 - **Mint:** `is1x1YoRLw7qSB6MuBeV7PjtAZS6cGLrV95PAufpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:52:36 | BUY | 0.000600 | `5UqfZir6tZAsWpk3gcVT7VRzBZaAE1...` |
+| 2026-03-17 01:50:32 | SELL | 0.000089 | `5DU6SurqzKATT2SJpH4hPvooUBqvZL...` |
 
 ### 🟢 CAL
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

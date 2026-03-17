@@ -1,16 +1,16 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 01:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 50 |
-| Open | 34 |
-| Closed | 16 |
-| W/L | 4/12 |
-| SOL In (closed) | 0.009600 |
+| Open | 33 |
+| Closed | 17 |
+| W/L | 4/13 |
+| SOL In (closed) | 0.010200 |
 | **Closed P&L** | **+0.003202 SOL** |
-| **Closed ROI** | **+33.4%** |
-| Open Deployed | 0.014400 SOL |
+| **Closed ROI** | **+31.4%** |
+| Open Deployed | 0.013800 SOL |
 
 ## Trades
 
@@ -124,7 +124,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -151,7 +151,7 @@
 
 ### 🟢 Safe
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.89x
+- **Peak:** 1.01x | **Current:** 0.81x
 - **Mint:** `D73pXimYCpoSRe3LRcgn6dPQSh6bsu3FdB2vvh3upump`
 
 | Time | Action | SOL | TX |
@@ -260,7 +260,7 @@
 
 ### 🟢 $CHARITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.82x
+- **Peak:** 1.06x | **Current:** 0.90x
 - **Mint:** `DTMb6bxY4ZtoLnHR2N8HBAnQxChsv3yKdeCSCgxXpump`
 
 | Time | Action | SOL | TX |
@@ -278,7 +278,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
@@ -353,14 +353,15 @@
 | 2026-03-16 02:53:50 | SELL | 0.001112 | `T1xtuA1WcsuUkQaWUUqCrVjpR8F8oA...` |
 | 2026-03-16 02:54:11 | SELL | 0.000412 | `2sgLTFWo3T2wiCe6n3eACasa9LhLqF...` |
 
-### 🟢 TRUMPHOUSE
-- **Status:** open | **Exit:** open
+### 🔴 TRUMPHOUSE
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.98x
 - **Mint:** `Gmh9t9VzHeMFdvfJRBGLsgZ97Wm52JUDmc96GMCMKyRd`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:36:36 | BUY | 0.000600 | `5VZdxpBm7nVtiNwgAh89k1FFRF6Yrd...` |
+| 2026-03-17 01:50:29 | SELL | 0.000098 | `HmSDi5wckRG57cJqmH1bFXexjQK4oV...` |
 
 ### 🔴 MLTFO
 - **Status:** closed | **Exit:** stale_cleanup
