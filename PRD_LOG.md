@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 19:15 UTC** | 7d | 728 buys, 966 sells | In: **89.03** | Out: **82.78** | Net: **-6.25 SOL**
+> Updated: **2026-03-17 19:20 UTC** | 7d | 729 buys, 967 sells | In: **89.18** | Out: **82.90** | Net: **-6.28 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:18 | 🟢 BUY | reCAPTCHA | 0.1500 | 2w85VLX4... | copy | `2DVotaEpqT1x...` |
+| 03-17 | 19:18 | 🔴 SELL | 401k | 0.1220 | 4rsj2xh5... | trail | `2h72Lj3aQ2rp...` |
 | 03-17 | 19:09 | 🟢 BUY | Doodle | 0.1500 | 3HGqppv8... | copy | `5iCSdopNvxif...` |
 | 03-17 | 19:09 | 🔴 SELL | ? | 0.0517 | 3HGqppv8... | SL | `2Pqze8tuBiEh...` |
 | 03-17 | 19:07 | 🔴 SELL | 2024 | 0.0595 | CZjxED3u... | SL | `FS15rSYp7USo...` |
