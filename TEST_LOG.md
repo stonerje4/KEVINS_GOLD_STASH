@@ -1,8 +1,29 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 23:10 UTC** | 7d | 1789 buys, 2220 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 23:15 UTC** | 7d | 1794 buys, 2236 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 23:14 | 🔴 SELL | GOKINJO | 0.0000 | GEHrGJ3B... | trail | `4pgwLP6m6TAF...` |
+| 03-17 | 23:13 | 🔴 SELL | SENEGAL | 0.0000 | BA1mTpNq... | SL | `5Earsycnqt9v...` |
+| 03-17 | 23:13 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `28gUD8D2TQjJ...` |
+| 03-17 | 23:13 | 🔴 SELL | CHIBI | 0.0000 | BBBByrLH... | SL | `4Jgsws5XiFCv...` |
+| 03-17 | 23:13 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `ECYEqF2b58q4...` |
+| 03-17 | 23:13 | 🟢 BUY | FLAG | 0.0001 | 2AkmfaxF... | copy_buy | `2cw2Ycw9BQPc...` |
+| 03-17 | 23:13 | 🟢 BUY | 柴レンジャー | 0.0001 | 6qTPHgnS... | copy_buy | `3zDGTanh9aaE...` |
+| 03-17 | 23:12 | 🔴 SELL | GOKINJO | 0.0001 | GEHrGJ3B... | trail | `3t4uS3K4xLsN...` |
+| 03-17 | 23:12 | 🔴 SELL | SENEGAL | 0.0000 | BA1mTpNq... | SL | `5ieKM5qdtcYS...` |
+| 03-17 | 23:12 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `xHY3YBg6ihYy...` |
+| 03-17 | 23:12 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `3nDLKt49iQfs...` |
+| 03-17 | 23:12 | 🟢 BUY | Deceptive | 0.0001 | GtgyEyvR... | copy_buy | `4VTdS4c99VjS...` |
+| 03-17 | 23:11 | 🟢 BUY | AITMPL | 0.0001 | ETHhoTiK... | copy_buy | `KHvPFdgHp1kD...` |
+| 03-17 | 23:11 | 💰 SELL | GOKINJO | 0.0001 | GEHrGJ3B... | TP1 | `9bvHqFZQyGow...` |
+| 03-17 | 23:11 | 🔴 SELL | SENEGAL | 0.0000 | BA1mTpNq... | SL | `5yfH1XrVswXN...` |
+| 03-17 | 23:11 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `3hMqbFvVS547...` |
+| 03-17 | 23:11 | 💰 SELL | ACTIII | 0.0000 | 35RArQiy... | TP3 | `2zXx5nQ52mzf...` |
+| 03-17 | 23:11 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `2aBo49jEYQ2g...` |
+| 03-17 | 23:10 | 🟢 BUY | FAKER | 0.0001 | BBBByrLH... | copy_buy | `5XLsnEzakD7e...` |
+| 03-17 | 23:10 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `5BWK7YQwiwE3...` |
+| 03-17 | 23:10 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `81nhLzqP3wtH...` |
 | 03-17 | 23:09 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `5vzmnbZJtQZE...` |
 | 03-17 | 23:09 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `2SiYbMp1YX26...` |
 | 03-17 | 23:08 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `4jAo4y8tBRQ6...` |

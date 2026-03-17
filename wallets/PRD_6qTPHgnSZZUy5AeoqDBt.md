@@ -1,12 +1,12 @@
 # [PRD] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-17 23:10 UTC | **21** pos | **6W/13L** | P&L: **-0.580145 SOL** (-20.4%) | 2 open
+> 2026-03-17 23:15 UTC | **21** pos | **6W/13L** | P&L: **-0.580145 SOL** (-20.4%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DUNE | 03-17 18:20 | 0.00x | 1.99x | 4.8h | 0.1500 |
-| FGH | 03-17 17:55 | 0.00x | 1.16x | 5.2h | 0.1500 |
+| DUNE | 03-17 18:20 | 0.00x | 2.81x | 4.9h | 0.1500 |
+| FGH | 03-17 17:55 | 0.00x | 1.16x | 5.3h | 0.1500 |
 
 ## Closed
 
@@ -36,6 +36,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 23:13 | DUNE | SELL | 0.0822 | `4DNA3mJLfH6AwgSe...` |
 | 03-17 22:39 | Sandcat | SELL | 0.0580 | `2zFdSeizQCpXtFdf...` |
 | 03-17 18:49 | USEFUL | SELL | 0.0553 | `5CJpYtUdLV7B3EdB...` |
 | 03-17 18:24 | IQ | SELL | 0.0597 | `3dUXgF3YAVqAToUH...` |

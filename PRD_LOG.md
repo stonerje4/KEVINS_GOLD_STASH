@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 23:10 UTC** | 7d | 759 buys, 1006 sells | In: **94.88** | Out: **87.65** | Net: **-7.23 SOL**
+> Updated: **2026-03-17 23:15 UTC** | 7d | 759 buys, 1007 sells | In: **94.88** | Out: **87.73** | Net: **-7.15 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 23:13 | 💰 SELL | DUNE | 0.0822 | 6qTPHgnS... | TP1 | `4DNA3mJLfH6A...` |
 | 03-17 | 23:06 | 🔴 SELL | X-Man | 0.0652 | 42nQHDpy... | stale | `4ggRbhXHiayv...` |
 | 03-17 | 23:06 | 🔴 SELL | Guinness | 0.1055 | CZjxED3u... | stale | `2ifpfkuAU9jr...` |
 | 03-17 | 23:06 | 🔴 SELL | YoungHo | 0.0693 | J5jm7BnB... | stale | `21TaHK26XPZt...` |

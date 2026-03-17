@@ -1,5 +1,11 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-17 23:10 UTC | **3** pos | **0W/3L** | P&L: **-0.000261 SOL** (-87.0%) | 0 open
+> 2026-03-17 23:15 UTC | **4** pos | **0W/3L** | P&L: **-0.000261 SOL** (-87.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| 柴レンジャー | 03-17 23:13 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 23:13 | 柴レンジャー | BUY | 0.0001 | `3zDGTanh9aaEmFuU...` |
 | 03-17 23:00 | GOKINJO | BUY | 0.0001 | `45Q4EuYAh2cjM8pG...` |
 | 03-17 22:39 | Sandcat | SELL | 0.0000 | `5MbHjZSu9LoZC5QU...` |
 | 03-17 17:13 | Sandcat | BUY | 0.0001 | `2FRLzGUu4BEKiZ5p...` |
