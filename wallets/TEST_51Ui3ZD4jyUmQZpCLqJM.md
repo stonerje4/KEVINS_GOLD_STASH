@@ -1,5 +1,5 @@
 # [TEST] Wallet: `51Ui3ZD4jyUmQZpCLqJMzARpu3rqJiv5H1gM7ZFqycRw`
-> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Geeked
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.01x | **Current:** 0.86x
 - **Mint:** `Ggy4NubNtkKvuyiH7dCECXZTJdU3WC848EtafREppump`
 
 | Time | Action | SOL | TX |

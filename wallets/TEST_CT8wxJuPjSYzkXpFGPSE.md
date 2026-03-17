@@ -1,18 +1,28 @@
 # [TEST] Wallet: `CT8wxJuPjSYzkXpFGPSEJKVWuNNgVCyjdjsNwhcUg7cy`
-> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
+| Total Positions | 6 |
 | Open | 3 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.000200 |
-| **Closed P&L** | **+0.000068 SOL** |
-| **Closed ROI** | **+33.8%** |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.000300 |
+| **Closed P&L** | **+0.000081 SOL** |
+| **Closed ROI** | **+26.8%** |
 | Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### 🔴 VICE
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.13x
+- **Mint:** `9GgrczbnuRX7HNLCpn9n3f49mdQs4rkBuv7oDRdmpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:55:47 | BUY | 0.000100 | `2sTcRkFXHYFhH8SdoRV7HBmhMU3nr5...` |
+| 2026-03-17 03:56:43 | SELL | 0.000013 | `2SMT5au8z65cPbAwfzUGXVUv8seDox...` |
 
 ### 🔴 ZHC
 - **Status:** closed | **Exit:** stop_loss

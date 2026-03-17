@@ -1,10 +1,10 @@
 # [TEST] Wallet: `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs`
-> Generated: 2026-03-17 03:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 1 |
+| Total Positions | 4 |
+| Open | 2 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.001200 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.000600 SOL |
 
 ## Trades
+
+### ⚪ QAIA
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `DpbUqjKzMiiBxUMinvMx8GSREbSwH6kBubk5xKVXBAGS`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:59:45 | BUY | 0.000100 | `ZrtHZ4MeoNVHyyKUdFfg9xZ2zgjw46...` |
 
 ### 🟢 JARVIS
 - **Status:** open | **Exit:** open
