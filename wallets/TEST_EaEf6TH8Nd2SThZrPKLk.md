@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 10:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Claude
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.81x
+- **Peak:** 1.41x | **Current:** 1.41x
 - **Mint:** `4j6UgozmsSHe1kD5n3u4Y4YBGiRj6zCiPZsnmUz7pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 GITT
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.55x | **Current:** 2.32x
+- **Peak:** 2.55x | **Current:** 1.49x
 - **Mint:** `EvhwAyk29n3fRUAq2gDGtxGwg2BpciG5APqpA76ipump`
 
 | Time | Action | SOL | TX |
@@ -142,7 +142,7 @@
 
 ### 🟢 ARTEMIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.76x
+- **Peak:** 1.12x | **Current:** 0.73x
 - **Mint:** `5Yy9zyQpZLeyVUJ2f49XQpKGgGabEtx8PZHueDtHpump`
 
 | Time | Action | SOL | TX |
@@ -170,7 +170,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 0.94x
+- **Peak:** 2.02x | **Current:** 1.15x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -203,7 +203,7 @@
 
 ### 🟢 NoseBoop
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 0.97x
+- **Peak:** 1.41x | **Current:** 1.20x
 - **Mint:** `HVhqMVbmWtoSzPHU1cAX7TLy65VrSKqgnGFyY8BJpump`
 
 | Time | Action | SOL | TX |
@@ -277,7 +277,7 @@
 
 ### 🟢 C64
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.10x
+- **Peak:** 1.11x | **Current:** 1.07x
 - **Mint:** `FrMy2MuZwXbgKMfNWWWb4h8VCQbkx5nQ5gUuFqSLpump`
 
 | Time | Action | SOL | TX |
@@ -940,7 +940,7 @@
 
 ### 🟢 KINGELON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.53x
+- **Peak:** 1.12x | **Current:** 0.50x
 - **Mint:** `CYaKJmd1TxLzbxCouqJwoTbhUZ7f3FDcbjU9NJA1pump`
 
 | Time | Action | SOL | TX |

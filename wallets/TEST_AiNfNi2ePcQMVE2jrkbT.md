@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 10:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -43,7 +43,7 @@
 
 ### 🟢 MULE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.75x
+- **Peak:** 1.06x | **Current:** 0.74x
 - **Mint:** `CNvpUrwm7E2QAezwKpm4nfUFM8ALtJ8jcXuJ67ccpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 11.84x | **Current:** 7.56x
+- **Peak:** 11.84x | **Current:** 7.57x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |

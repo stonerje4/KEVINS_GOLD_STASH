@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 10:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -606,7 +606,7 @@
 
 ### 🟢 CIUSGENT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.79x
+- **Peak:** 1.43x | **Current:** 0.78x
 - **Mint:** `6C7wmPqEJq4hKg9r8tmRRdqFBAifc1x7hbDJDo7Fpump`
 
 | Time | Action | SOL | TX |
@@ -674,7 +674,7 @@
 
 ### 🟢 Minecraft
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `FLhogsmiJFdTAguBw1csum4PicbDVucrbNxkT2Uupump`
 
 | Time | Action | SOL | TX |

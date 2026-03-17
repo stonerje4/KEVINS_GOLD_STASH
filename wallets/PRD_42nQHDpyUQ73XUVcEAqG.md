@@ -1,16 +1,16 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 10:30 UTC | Environment: **PRD**
+> Generated: 2026-03-17 10:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 19 |
-| Open | 7 |
-| Closed | 12 |
-| W/L | 11/1 |
-| SOL In (closed) | 0.002700 |
-| **Closed P&L** | **+0.004877 SOL** |
-| **Closed ROI** | **+180.6%** |
-| Open Deployed | 0.000600 SOL |
+| Open | 6 |
+| Closed | 13 |
+| W/L | 12/1 |
+| SOL In (closed) | 0.002800 |
+| **Closed P&L** | **+0.004974 SOL** |
+| **Closed ROI** | **+177.6%** |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
@@ -25,7 +25,7 @@
 
 ### 🟢 Chester 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.88x | **Current:** 0.70x
+- **Peak:** 1.88x | **Current:** 0.69x
 - **Mint:** `E7t1Mp9kUHBuN92M4euXqQdmqMFD9t3GRZp3xLu9pump`
 
 | Time | Action | SOL | TX |
@@ -41,15 +41,16 @@
 |------|--------|-----|----|
 | 2026-03-17 07:57:58 | BUY | 0.000100 | `5mMhZw5PrHYuapgu2TgbU2dmaM1w89...` |
 
-### 🟢 AHAHA
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.23x | **Current:** 0.98x
+### 🔴 AHAHA
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.23x | **Current:** 0.84x
 - **Mint:** `62E3NcnnACUmmTFat1aQzkSJ4Mhy2YUExKV8EHLopump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:21:39 | BUY | 0.000100 | `h61vGaVYQXkTXgv1LuVSfghiKzieAm...` |
 | 2026-03-17 07:29:54 | SELL | 0.000020 | `66oke8VBUt75GwDTe4c7Uv12VZz9PT...` |
+| 2026-03-17 10:33:37 | SELL | 0.000077 | `5poBgGhbNaX1aNzGraJVeXPLGqKJM4...` |
 
 ### 🟢 OKARA
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -68,7 +69,7 @@
 
 ### 🟢 SYNTHRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.95x
+- **Peak:** 1.24x | **Current:** 0.94x
 - **Mint:** `64smUjiG5wzHSYbZzbB8EVL6zsnUC5KPRCA3UCrApump`
 
 | Time | Action | SOL | TX |
