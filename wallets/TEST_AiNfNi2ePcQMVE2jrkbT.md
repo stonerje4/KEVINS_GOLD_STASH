@@ -1,5 +1,11 @@
 # [TEST] `AiNfNi2ePcQMVE2j...`
-> 2026-03-17 12:30 UTC | **7** pos | **1W/6L** | P&L: **-0.000050 SOL** (-7.1%) | 0 open
+> 2026-03-17 12:35 UTC | **8** pos | **1W/6L** | P&L: **-0.000050 SOL** (-7.1%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| SPC | 03-17 12:33 | 1.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -17,6 +23,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:33 | SPC | BUY | 0.0001 | `3DX89VpkLhhLi73i...` |
 | 03-17 11:32 | PIKAHORSE | SELL | 0.0002 | `53pBB8d9RZwPVemB...` |
 | 03-17 11:01 | PIKAHORSE | SELL | 0.0001 | `3QCsnoxrVoeQkrSn...` |
 | 03-17 08:33 | AGENT | BUY | 0.0001 | `22LgsPTWP56agMZC...` |

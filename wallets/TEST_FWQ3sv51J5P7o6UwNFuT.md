@@ -1,5 +1,12 @@
 # [TEST] `FWQ3sv51J5P7o6Uw...`
-> 2026-03-17 12:30 UTC | **4** pos | **0W/4L** | P&L: **-0.000309 SOL** (-77.4%) | 0 open
+> 2026-03-17 12:35 UTC | **6** pos | **0W/4L** | P&L: **-0.000309 SOL** (-77.4%) | 2 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Unplug | 03-17 12:31 | 0.46x | 1.00x | 0.1h | 0.0001 |
+| Baldy | 03-17 12:30 | 0.68x | 1.26x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -14,6 +21,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:31 | Unplug | BUY | 0.0001 | `3dxo8onTU7SPLfZ2...` |
+| 03-17 12:30 | Baldy | BUY | 0.0001 | `5FVRruds8PakZQi6...` |
 | 03-17 08:49 | Institute | SELL | 0.0000 | `4irBDRxC9qQ6xXpX...` |
 | 03-17 08:48 | Institute | SELL | 0.0000 | `36HLFRPf5jGTKktb...` |
 | 03-17 08:45 | Institute | SELL | 0.0000 | `5koLFyW7WpNLtGCw...` |
