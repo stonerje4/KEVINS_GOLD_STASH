@@ -1,12 +1,13 @@
 # [TEST] `6gN2SNYXN8gzM9yD...`
-> 2026-03-17 17:45 UTC | **12** pos | **1W/9L** | P&L: **-0.001044 SOL** (-41.8%) | 2 open
+> 2026-03-17 17:50 UTC | **13** pos | **1W/9L** | P&L: **-0.001044 SOL** (-41.8%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| PAWAN | 03-17 17:39 | 1.06x | 1.18x | 0.1h | 0.0001 |
-| BOLDY | 03-17 16:12 | 0.94x | 1.00x | 1.5h | 0.0001 |
+| retiremaxx | 03-17 17:47 | 0.97x | 1.00x | 0.0h | 0.0001 |
+| PAWAN | 03-17 17:39 | 1.09x | 1.29x | 0.2h | 0.0001 |
+| BOLDY | 03-17 16:12 | 0.94x | 1.00x | 1.6h | 0.0001 |
 
 ## Closed
 
@@ -27,6 +28,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:47 | retiremaxx | BUY | 0.0001 | `61YSTH35Bua4WNPP...` |
 | 03-17 17:39 | PAWAN | BUY | 0.0001 | `3XpxhdHCTJZhp4pR...` |
 | 03-17 16:12 | BOLDY | BUY | 0.0001 | `3oQS5Pb15XiX9YeM...` |
 | 03-17 04:21 | BITCOIN | BUY | 0.0001 | `ke9HkzWRMF3YD6N3...` |

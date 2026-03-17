@@ -1,5 +1,11 @@
 # [TEST] `4VMJxCLfp5oFf8pE...`
-> 2026-03-17 17:45 UTC | **24** pos | **2W/22L** | P&L: **-0.006069 SOL** (-47.0%) | 0 open
+> 2026-03-17 17:50 UTC | **25** pos | **2W/22L** | P&L: **-0.006069 SOL** (-47.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| FGH | 03-17 17:49 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -34,6 +40,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:49 | FGH | BUY | 0.0001 | `9jnWodLFFNpdzKEr...` |
 | 03-17 05:23 | Bear | BUY | 0.0001 | `uGxPDvLLp9LqdmKn...` |
 | 03-16 23:22 | CIRBP | SELL | 0.0002 | `3Zz73WD7zz2UBsKM...` |
 | 03-16 23:19 | Pistachio | BUY | 0.0001 | `WCbQhacB6HZRSQph...` |

@@ -1,16 +1,11 @@
 # [TEST] `BmXugVGYfGMj9QRL...`
-> 2026-03-17 17:45 UTC | **3** pos | **0W/2L** | P&L: **-0.000275 SOL** (-39.2%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| hahahaha | 03-17 17:02 | 1.86x | 3.60x | 0.7h | 0.0001 |
+> 2026-03-17 17:50 UTC | **3** pos | **1W/2L** | P&L: **-0.000172 SOL** (-21.5%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ✅ hahahaha | +0.0001 | 03-17 17:02 | 3.6x | 03-17 17:48 | 0.0002/0.0001 | trail |
 | ❌ crine | -0.0001 | 03-17 15:16 | 1.2x | 03-17 15:32 | 0.0000/0.0001 | SL |
 | ❌ PIKE | -0.0002 | 03-16 01:23 | 1.0x | 03-16 02:55 | 0.0004/0.0006 | gc_SL |
 
@@ -18,6 +13,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:48 | hahahaha | SELL | 0.0001 | `58DBCJ4KZ1sip1Nx...` |
 | 03-17 17:25 | hahahaha | SELL | 0.0001 | `3yD7woDnKZADxuAq...` |
 | 03-17 17:05 | hahahaha | SELL | 0.0001 | `2dTuGW7HtXSGQNsv...` |
 | 03-17 17:02 | hahahaha | BUY | 0.0001 | `331NEcXpT4ynekP8...` |
