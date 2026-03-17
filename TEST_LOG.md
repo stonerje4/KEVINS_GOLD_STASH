@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:35 UTC** | 7d | 1398 buys, 1911 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:40 UTC** | 7d | 1404 buys, 1915 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:39 | 💰 SELL | Waiter | 0.0000 | GHy1P6vJ... | TP1 | `3SrmSv3yNpdi...` |
+| 03-17 | 15:38 | 🟢 BUY | ClawLex | 0.0001 | AiNfNi2e... | copy_buy | `4mD6JRARCEzZ...` |
+| 03-17 | 15:38 | 🟢 BUY | PATRIOT | 0.0001 | AiNfNi2e... | copy_buy | `66Lh4P9CYdUb...` |
+| 03-17 | 15:37 | 🟢 BUY | FASDFASDFA | 0.0001 | FoHJUYTh... | copy_buy | `4NLDdP1VExbW...` |
+| 03-17 | 15:37 | 💰 SELL | KENNY | 0.0003 | EaEf6TH8... | trail | `3tr6t9N8oWod...` |
+| 03-17 | 15:37 | 🟢 BUY | AGENT | 0.0001 | otq3sTTS... | copy_buy | `4HSuiXskjVb3...` |
+| 03-17 | 15:36 | 🟢 BUY | IQ | 0.0001 | Gdd86j2T... | copy_buy | `2VguQShaZjaa...` |
+| 03-17 | 15:35 | 🟢 BUY | Hugo | 0.0001 | otq3sTTS... | copy_buy | `4W1Yn54Dtm8K...` |
+| 03-17 | 15:35 | 🔴 SELL | MOLTFIN | 0.0001 | EaEf6TH8... | trail | `262g5svzLkJA...` |
+| 03-17 | 15:35 | 🔴 SELL | Scamcoin | 0.0000 | GGbGeDC9... | SL | `2dGrb1U7KydD...` |
 | 03-17 | 15:34 | 💰 SELL | USEFUL | 0.0000 | FzMeg6P2... | TP2 | `28BwzQ84Kz1J...` |
 | 03-17 | 15:33 | 💰 SELL | KENNY | 0.0001 | EaEf6TH8... | tp_8x_trim | `5abxVkBRkZTy...` |
 | 03-17 | 15:33 | 💰 SELL | KENNY | 0.0001 | EaEf6TH8... | TP4 | `5vuZAYNdaZmW...` |

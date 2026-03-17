@@ -1,11 +1,12 @@
 # [TEST] `Gdd86j2TsD8xtP5b...`
-> 2026-03-17 15:35 UTC | **11** pos | **1W/9L** | P&L: **-0.000691 SOL** (-46.0%) | 1 open
+> 2026-03-17 15:40 UTC | **12** pos | **1W/9L** | P&L: **-0.000691 SOL** (-46.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| genny | 03-17 14:58 | 1.82x | 1.82x | 0.6h | 0.0001 |
+| IQ | 03-17 15:36 | 1.14x | 1.14x | 0.1h | 0.0001 |
+| genny | 03-17 14:58 | 1.77x | 1.95x | 0.7h | 0.0001 |
 
 ## Closed
 
@@ -26,6 +27,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:36 | IQ | BUY | 0.0001 | `2VguQShaZjaa5AH7...` |
 | 03-17 14:58 | genny | BUY | 0.0001 | `3LNVEzVgSoT7ERoN...` |
 | 03-17 08:09 | RETRO | BUY | 0.0001 | `zNzbgitw3jRCjs3N...` |
 | 03-17 07:55 | Distorted | BUY | 0.0001 | `umCiWSYRwEKEYmuy...` |

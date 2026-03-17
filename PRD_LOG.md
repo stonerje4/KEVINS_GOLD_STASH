@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 15:35 UTC** | 7d | 694 buys, 941 sells | In: **82.53** | Out: **80.03** | Net: **-2.50 SOL**
+> Updated: **2026-03-17 15:40 UTC** | 7d | 695 buys, 942 sells | In: **82.68** | Out: **80.16** | Net: **-2.52 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:39 | 🟢 BUY | PATRIOT | 0.1500 | 42nQHDpy... | copy | `2KWVKWtK3VyB...` |
+| 03-17 | 15:38 | 🔴 SELL | IOR | 0.1256 | DHfshpzo... | trail | `3ysT54f3TerZ...` |
 | 03-17 | 15:33 | 💰 SELL | KENNY | 0.0896 | 42nQHDpy... | TP3 | `2h7UaPQEFt8U...` |
 | 03-17 | 15:30 | 🟢 BUY | crine | 0.1500 | 42nQHDpy... | copy | `3TWLHtAPbr4Y...` |
 | 03-17 | 15:26 | 🟢 BUY | BCC | 0.1500 | CZjxED3u... | copy | `5BWt1u38ynXT...` |
