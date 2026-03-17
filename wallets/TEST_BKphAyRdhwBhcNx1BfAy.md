@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 09:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -438,7 +438,7 @@
 
 ### 🟢 SRI RAKUM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.82x | **Current:** 0.65x
+- **Peak:** 1.82x | **Current:** 0.60x
 - **Mint:** `9tHZjux5MqAGpPztGJTUVSoWJK8H48kSQr7y8ndVpump`
 
 | Time | Action | SOL | TX |
@@ -1419,7 +1419,7 @@
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.69x
+- **Peak:** 1.05x | **Current:** 1.05x
 - **Mint:** `3S1NxQXfKmfL4szqJnPS3N8GpA35ncqBdrU4rrAPpump`
 
 | Time | Action | SOL | TX |
@@ -1606,7 +1606,7 @@
 
 ### 🟢 Tuff
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.72x
 - **Mint:** `Hg3vZYMmaaTo6jFbBtK8a4HQ4uc7w5TipmakUepMpump`
 
 | Time | Action | SOL | TX |

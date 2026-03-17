@@ -1,16 +1,16 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-17 09:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 09:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 19 |
-| Open | 6 |
-| Closed | 13 |
-| W/L | 2/11 |
-| SOL In (closed) | 1.950000 |
-| **Closed P&L** | **-0.194660 SOL** |
-| **Closed ROI** | **-10.0%** |
-| Open Deployed | 0.900000 SOL |
+| Open | 5 |
+| Closed | 14 |
+| W/L | 2/12 |
+| SOL In (closed) | 2.100000 |
+| **Closed P&L** | **-0.237594 SOL** |
+| **Closed ROI** | **-11.3%** |
+| Open Deployed | 0.750000 SOL |
 
 ## Trades
 
@@ -82,14 +82,15 @@
 | 2026-03-16 20:41:29 | SELL | 0.053341 | `3NXXXneZZRuZbCFKqJJC7g68rSmmnd...` |
 | 2026-03-16 23:26:27 | BUY | 0.150000 | `5TcsDRzmbvoSgncuKR9u129izuTjBh...` |
 
-### 🟢 HUMANITY
-- **Status:** open | **Exit:** open
+### 🔴 HUMANITY
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.42x | **Current:** 0.00x
 - **Mint:** `CyeyL7HoSPtBPsX1shAgafUBo9jbATHAvEjwapCspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:22:24 | BUY | 0.150000 | `52EBMuc3rJWHs4RMUTL5QqfPE1otzx...` |
+| 2026-03-17 09:48:56 | SELL | 0.107066 | `9Vz5zZmiK643SVVKvT8ZyVZE2RsTUM...` |
 
 ### 🔴 house
 - **Status:** closed | **Exit:** stop_loss

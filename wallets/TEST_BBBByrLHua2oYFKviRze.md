@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 09:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 112 |
-| Open | 37 |
+| Total Positions | 113 |
+| Open | 38 |
 | Closed | 75 |
 | W/L | 70/5 |
 | SOL In (closed) | 0.031000 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.004700 SOL |
 
 ## Trades
+
+### ⚪ RECESSION
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `BFNKV6yGiFLvbKkppP5Qz9PvN1yZuooeBnayE6T7cc1F`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:47:56 | BUY | 0.000100 | `2iAAS2vYaipxxLHjMFEDsL9bbobWvY...` |
 
 ### 🟢 Nietzschean
 - **Status:** open | **Exit:** open
@@ -43,7 +52,7 @@
 
 ### 🟢 SEKIRO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.94x | **Current:** 1.28x
+- **Peak:** 1.94x | **Current:** 1.13x
 - **Mint:** `PrZEjBVJKQpScxv17BynWTcEEWhzkWSYuMcNxwcpump`
 
 | Time | Action | SOL | TX |
@@ -838,7 +847,7 @@
 
 ### 🟢 5TO9
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.75x
+- **Peak:** 1.11x | **Current:** 0.68x
 - **Mint:** `EftTJtF9TiYfrSqBcznL68N7dV7H56j5Vk2KcQukpump`
 
 | Time | Action | SOL | TX |

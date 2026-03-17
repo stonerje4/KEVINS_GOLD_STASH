@@ -1,16 +1,16 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 09:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 124 |
-| Open | 35 |
-| Closed | 89 |
-| W/L | 88/1 |
-| SOL In (closed) | 0.036900 |
-| **Closed P&L** | **+0.030745 SOL** |
-| **Closed ROI** | **+83.3%** |
-| Open Deployed | 0.004900 SOL |
+| Open | 34 |
+| Closed | 90 |
+| W/L | 89/1 |
+| SOL In (closed) | 0.037000 |
+| **Closed P&L** | **+0.030910 SOL** |
+| **Closed ROI** | **+83.5%** |
+| Open Deployed | 0.004800 SOL |
 
 ## Trades
 
@@ -24,8 +24,8 @@
 | 2026-03-17 09:39:23 | BUY | 0.000100 | `32uDf3yVsZfR3AVj25sv7ueAFFrGqL...` |
 
 ### 🟢 FP
-- **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 3.15x | **Current:** 1.39x
+- **Status:** closing | **Exit:** runner_trailing_stop
+- **Peak:** 3.15x | **Current:** 1.35x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
 | Time | Action | SOL | TX |
@@ -72,6 +72,11 @@
 | 2026-03-17 09:41:25 | SELL | 0.000000 | `586tzxnDZ28BzWhVp9DwpEAk41jhSV...` |
 | 2026-03-17 09:42:38 | SELL | 0.000000 | `3ajiyH32ATg93AQF6ujhfUbQrLgH2S...` |
 | 2026-03-17 09:43:48 | SELL | 0.000000 | `61TjkUJq8Ytyn8drqk1z6DR9WfGTE9...` |
+| 2026-03-17 09:45:02 | SELL | 0.000000 | `2pjSN5ZxcqA7a1FQLkQn6rWZ4nz5mD...` |
+| 2026-03-17 09:46:14 | SELL | 0.000000 | `tANTGg47xmrUpaqRnR3aMo9yKUEh1S...` |
+| 2026-03-17 09:47:26 | SELL | 0.000000 | `5rJJMmMw8ewjxqhMkGXg1DHnrox2iM...` |
+| 2026-03-17 09:48:40 | SELL | 0.000000 | `5WJUPq1yHwFXZjWy7ZhmykrgMcLMt7...` |
+| 2026-03-17 09:49:53 | SELL | 0.000000 | `Y3ZWNvjo14VaVCggbmeDMGvKq3KAnS...` |
 
 ### 🟢 TIKI
 - **Status:** open | **Exit:** open
@@ -122,7 +127,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 0.94x
+- **Peak:** 2.02x | **Current:** 0.91x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -289,7 +294,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.35x | **Current:** 1.84x
+- **Peak:** 2.35x | **Current:** 1.82x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

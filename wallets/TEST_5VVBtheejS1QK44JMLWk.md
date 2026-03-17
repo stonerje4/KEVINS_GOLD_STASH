@@ -1,10 +1,10 @@
 # [TEST] Wallet: `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN`
-> Generated: 2026-03-17 09:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 1 |
+| Total Positions | 10 |
+| Open | 2 |
 | Closed | 8 |
 | W/L | 8/0 |
 | SOL In (closed) | 0.002800 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.000600 SOL |
 
 ## Trades
+
+### ⚪ Leprechaun
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `Dg4hw4Fe8AUspJo9nZ4qaWHj7HGbwVZCFFPCevTspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:48:09 | BUY | 0.000100 | `3N8VN2jKnuzUDzXUBtEh9LVMVncu3p...` |
 
 ### 🔴 SolGany
 - **Status:** closed | **Exit:** stop_loss
