@@ -1,18 +1,27 @@
 # [TEST] Wallet: `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN`
-> Generated: 2026-03-17 09:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
-| Open | 2 |
+| Total Positions | 11 |
+| Open | 3 |
 | Closed | 8 |
 | W/L | 8/0 |
 | SOL In (closed) | 0.002800 |
 | **Closed P&L** | **+0.002796 SOL** |
 | **Closed ROI** | **+99.8%** |
-| Open Deployed | 0.000600 SOL |
+| Open Deployed | 0.000700 SOL |
 
 ## Trades
+
+### 🟢 CLOVER
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.93x
+- **Mint:** `XugSfQiH8wroJ4RAfsHw1hQ66ReZgSQqVpNQh1qpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:57:23 | BUY | 0.000100 | `3a2nphSNrSBPAXARd2ArXcoeuEU6oe...` |
 
 ### ⚪ Leprechaun
 - **Status:** confirming | **Exit:** open

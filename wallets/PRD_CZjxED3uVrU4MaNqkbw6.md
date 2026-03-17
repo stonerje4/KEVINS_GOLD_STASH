@@ -1,5 +1,5 @@
 # [PRD] Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
-> Generated: 2026-03-17 09:55 UTC | Environment: **PRD**
+> Generated: 2026-03-17 10:00 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -35,7 +35,7 @@
 
 ### 🟢 PUSHEEN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.85x | **Current:** 1.19x
+- **Peak:** 1.85x | **Current:** 1.17x
 - **Mint:** `7ttsZScQAsya7eiUfkG6PoTVNARkkZXccqRviDtTpump`
 
 | Time | Action | SOL | TX |

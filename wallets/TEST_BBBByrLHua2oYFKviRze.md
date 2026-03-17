@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 09:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -52,7 +52,7 @@
 
 ### 🟢 SEKIRO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.94x | **Current:** 0.99x
+- **Peak:** 1.94x | **Current:** 0.91x
 - **Mint:** `PrZEjBVJKQpScxv17BynWTcEEWhzkWSYuMcNxwcpump`
 
 | Time | Action | SOL | TX |
