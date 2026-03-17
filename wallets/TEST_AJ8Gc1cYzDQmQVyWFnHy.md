@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AJ8Gc1cYzDQmQVyWFnHyJAKV5QK5ysz5ML9NuK3xvJRt`
-> Generated: 2026-03-17 10:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -53,7 +53,7 @@
 
 ### 🟢 Clove
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.62x
+- **Peak:** 1.03x | **Current:** 0.61x
 - **Mint:** `EAXGeuMf8xxkNQzqpLE4PRuzmyXNKSDTPKMQvzoDpump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +62,7 @@
 
 ### 🟢 FOXXXX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.52x | **Current:** 1.39x
+- **Peak:** 1.52x | **Current:** 1.36x
 - **Mint:** `BheJ3zJePZae8k8v1t9DdTMDDvdLfKrD59ZNojzRpump`
 
 | Time | Action | SOL | TX |
