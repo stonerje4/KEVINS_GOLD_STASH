@@ -1,5 +1,11 @@
 # [TEST] `BNCSPd6QtP6rJCWZ...`
-> 2026-03-17 13:40 UTC | **6** pos | **2W/4L** | P&L: **+0.000490 SOL** (+18.8%) | 0 open
+> 2026-03-17 13:45 UTC | **7** pos | **2W/4L** | P&L: **+0.000490 SOL** (+18.8%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Glorp | 03-17 13:41 | 1.03x | 1.03x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -16,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:41 | Glorp | BUY | 0.0001 | `5CU8kVpihkhQdDTZ...` |
 | 03-17 09:54 | STEAK | SELL | 0.0000 | `4QsLEMf8angWX9yP...` |
 | 03-17 08:53 | STEAK | SELL | 0.0001 | `42kajETS2aGydg1G...` |
 | 03-17 07:52 | STEAK | SELL | 0.0001 | `2c2btYShVpemncX2...` |

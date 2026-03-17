@@ -1,11 +1,11 @@
 # [TEST] `45j4enZdhwDK931H...`
-> 2026-03-17 13:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 13:45 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| patricklon | 03-17 12:44 | 1.29x | 2.28x | 0.9h | 0.0001 |
+| patricklon | 03-17 12:44 | 1.63x | 2.28x | 1.0h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

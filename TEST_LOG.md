@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:40 UTC** | 7d | 1309 buys, 1839 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:45 UTC** | 7d | 1315 buys, 1840 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:44 | 🟢 BUY | Yukie | 0.0001 | BBBByrLH... | copy_buy | `5nNrNobRMft3...` |
+| 03-17 | 13:44 | 🟢 BUY | Rosei | 0.0001 | AJ8Gc1cY... | copy_buy | `26njuMuXQqbw...` |
+| 03-17 | 13:41 | 🟢 BUY | Lucky | 0.0001 | EaEf6TH8... | copy_buy | `3cdSuB7Jpt7v...` |
+| 03-17 | 13:41 | 🟢 BUY | Glorp | 0.0001 | BNCSPd6Q... | copy_buy | `5CU8kVpihkhQ...` |
+| 03-17 | 13:40 | 🟢 BUY | omg | 0.0001 | 9G4ytadk... | copy_buy | `5McVMhFRyJdU...` |
+| 03-17 | 13:40 | 🟢 BUY | tomorrow | 0.0001 | 6J4pufDx... | copy_buy | `5XaQBHfxe8t2...` |
+| 03-17 | 13:40 | 💰 SELL | TRUST | 0.0000 | AJ8Gc1cY... | TP3 | `FidP7Mc7QR2V...` |
 | 03-17 | 13:39 | 🟢 BUY | ANIMAL | 0.0001 | BBBByrLH... | copy_buy | `fT7EoDuadkdi...` |
 | 03-17 | 13:38 | 💰 SELL | CLAW3D | 0.0000 | E79aNzAk... | TP1 | `3SV5xxZ8W1ke...` |
 | 03-17 | 13:37 | 💰 SELL | MEMSIE | 0.0001 | 2autqiin... | trail | `MbU1qJikFoqr...` |

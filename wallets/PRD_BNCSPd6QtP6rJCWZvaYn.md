@@ -1,11 +1,12 @@
 # [PRD] `BNCSPd6QtP6rJCWZ...`
-> 2026-03-17 13:40 UTC | **4** pos | **1W/2L** | P&L: **-0.044620 SOL** (-9.9%) | 1 open
+> 2026-03-17 13:45 UTC | **5** pos | **1W/2L** | P&L: **-0.044620 SOL** (-9.9%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BRACKET | 03-17 01:51 | 0.00x | 1.43x | 11.8h | 0.1500 |
+| Glorp | 03-17 13:41 | 0.00x | 1.04x | 0.1h | 0.1500 |
+| BRACKET | 03-17 01:51 | 0.00x | 1.43x | 11.9h | 0.1500 |
 
 ## Closed
 
@@ -19,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:41 | Glorp | BUY | 0.1500 | `2wCKBGoHPdSuXAtS...` |
 | 03-17 01:51 | BRACKET | BUY | 0.1500 | `2BmzGVfJYi3pbHCF...` |
 | 03-16 23:26 | RAVEN | BUY | 0.1500 | `5TcsDRzmbvoSgncu...` |
 | 03-16 21:20 | Hamster | SELL | 0.2203 | `3v2KxysyXAHMHyW7...` |
