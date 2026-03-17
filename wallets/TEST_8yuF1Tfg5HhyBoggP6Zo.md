@@ -1,5 +1,11 @@
 # [TEST] `8yuF1Tfg5HhyBogg...`
-> 2026-03-17 16:30 UTC | **7** pos | **0W/7L** | P&L: **-0.001187 SOL** (-44.0%) | 0 open
+> 2026-03-17 16:35 UTC | **8** pos | **0W/7L** | P&L: **-0.001187 SOL** (-44.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| LUCIDITY | 03-17 16:31 | 1.09x | 1.16x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -17,6 +23,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:31 | LUCIDITY | BUY | 0.0001 | `2JVg3AcN7HocHKQB...` |
 | 03-16 23:19 | Donkeys | SELL | 0.0001 | `2ThWkP9rrML4prwj...` |
 | 03-16 18:25 | Donkeys | SELL | 0.0000 | `pNZTLjbEiNWsAGKo...` |
 | 03-16 18:21 | Donkeys | BUY | 0.0001 | `3p3pAaM2ivjvjTea...` |

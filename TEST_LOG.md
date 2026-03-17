@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:30 UTC** | 7d | 1448 buys, 1942 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:35 UTC** | 7d | 1452 buys, 1943 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:32 | 🔴 SELL | Freedom | 0.0000 | Gdd86j2T... | SL | `yu7ffU1xqwFy...` |
+| 03-17 | 16:31 | 🟢 BUY | LUCIDITY | 0.0001 | 8yuF1Tfg... | copy_buy | `2JVg3AcN7Hoc...` |
+| 03-17 | 16:31 | 🟢 BUY | Gilbert | 0.0001 | 9t6xjxxt... | copy_buy | `62k3PJPTnrSb...` |
+| 03-17 | 16:30 | 🟢 BUY | FLUCKI | 0.0001 | DDJ9YQNa... | copy_buy | `2G4qJR6Xyw9J...` |
+| 03-17 | 16:30 | 🟢 BUY | Invincible | 0.0001 | E5sZTG93... | copy_buy | `43a4gskMYuuN...` |
 | 03-17 | 16:29 | 🟢 BUY | Freedom | 0.0001 | Gdd86j2T... | copy_buy | `54qsGKTuPMfX...` |
 | 03-17 | 16:29 | 🟢 BUY | fsdfsd | 0.0001 | 2947n9KQ... | copy_buy | `3zkSRQkKk3kA...` |
 | 03-17 | 16:29 | 🔴 SELL | Frontier | 0.0000 | 6E4897rJ... | SL | `3UqaTKhPLjVs...` |
