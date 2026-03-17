@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:00 UTC** | 7d | 1592 buys, 2051 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:05 UTC** | 7d | 1596 buys, 2056 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:04 | 🟢 BUY | MAMESUKE | 0.0001 | FoabCXs5... | copy_buy | `2uinC1WYHiqr...` |
+| 03-17 | 19:04 | 🟢 BUY | SLAPP | 0.0001 | E5sZTG93... | copy_buy | `4io4BVzyTHzQ...` |
+| 03-17 | 19:04 | 🟢 BUY | Doodle | 0.0001 | APUYxGfK... | copy_buy | `4JmBaF4t4Eho...` |
+| 03-17 | 19:03 | 🔴 SELL | CLAWXIOM | 0.0000 | TZkcwgk6... | SL | `671h5wGf4RVE...` |
+| 03-17 | 19:03 | 💰 SELL |  SAINTJAK | 0.0001 | FoHJUYTh... | TP1 | `4dgCixyVsc54...` |
+| 03-17 | 19:03 | 🟢 BUY | Magician | 0.0001 | GHy1P6vJ... | copy_buy | `4aRyWBUTU2Lt...` |
+| 03-17 | 19:02 | 🔴 SELL | COOKIE | 0.0000 | GEHrGJ3B... | SL | `38PPcQUAFAMW...` |
+| 03-17 | 19:01 | 🔴 SELL | NINO | 0.0000 | APUYxGfK... | SL | `4MPF15mwJHbD...` |
+| 03-17 | 19:00 | 💰 SELL | EXPO | 0.0001 | Gdd86j2T... | TP2 | `5X6yspxFD2bJ...` |
 | 03-17 | 18:59 | 💰 SELL | ÉIRE | 0.0001 | AiNfNi2e... | TP1 | `54rq1BpHtp18...` |
 | 03-17 | 18:59 | 🔴 SELL | SLOP | 0.0000 | 7yd579zX... | SL | `2rh2F4vHmxQa...` |
 | 03-17 | 18:59 | 🟢 BUY | momo | 0.0001 | 6raSuhfi... | copy_buy | `5dipfA5PYgYE...` |

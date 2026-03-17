@@ -1,10 +1,11 @@
 # [TEST] `E5sZTG938YDE7PrV...`
-> 2026-03-17 19:00 UTC | **4** pos | **0W/3L** | P&L: **-0.000260 SOL** (-86.7%) | 1 open
+> 2026-03-17 19:05 UTC | **5** pos | **0W/3L** | P&L: **-0.000260 SOL** (-86.7%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
+| SLAPP | 03-17 19:04 | 0.00x | 1.00x | 0.0h | 0.0001 |
 | Molt.id | 03-17 16:14 | 0.81x | 1.09x | 2.8h | 0.0001 |
 
 ## Closed
@@ -19,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:04 | SLAPP | BUY | 0.0001 | `4io4BVzyTHzQR2oa...` |
 | 03-17 16:49 | Invincible | SELL | 0.0000 | `5HaMdPLjAMPQpU99...` |
 | 03-17 16:30 | Invincible | BUY | 0.0001 | `43a4gskMYuuNQkgD...` |
 | 03-17 16:14 | Molt.id | BUY | 0.0001 | `3G8829VGqRNANE9i...` |

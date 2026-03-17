@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 19:00 UTC** | 7d | 725 buys, 960 sells | In: **88.58** | Out: **82.20** | Net: **-6.38 SOL**
+> Updated: **2026-03-17 19:05 UTC** | 7d | 726 buys, 961 sells | In: **88.73** | Out: **82.28** | Net: **-6.45 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:02 | 🟢 BUY | CLAWXIOM | 0.1500 | 42nQHDpy... | copy | `5e8uF6xFBR13...` |
+| 03-17 | 19:01 | 🔴 SELL | Chicken | 0.0571 | E79aNzAk... | SL | `2ZbS3FjFvsWP...` |
+| 03-17 | 19:00 | 💰 SELL | genny | 0.0751 | 42nQHDpy... | TP1 | `qqWqPJqGnHGq...` |
 | 03-17 | 18:52 | 💰 SELL | #FIRING | 0.2241 | 2w85VLX4... | trail | `3WF9JmjS419z...` |
 | 03-17 | 18:49 | 🔴 SELL | USEFUL | 0.0553 | 6qTPHgnS... | SL | `5CJpYtUdLV7B...` |
 | 03-17 | 18:48 | 💰 SELL | ERIC | 0.0993 | BNCSPd6Q... | TP1 | `FpRW8DqLqv7y...` |
@@ -1687,4 +1690,3 @@
 | 03-10 | 19:33 | 🟢 BUY | ThumbYeti | 0.0500 | EyXjj7JM... | copy | `3K1qNiBnymUD...` |
 | 03-10 | 19:21 | 💰 SELL | Cardboard | 0.0555 | 7aMgK5L4... | TP3 | `4GBRaDBTrUKD...` |
 | 03-10 | 19:20 | 💰 SELL | Cardboard | 0.0353 | 7aMgK5L4... | TP2 | `3ehz2EVNe4gL...` |
-| 03-10 | 19:02 | 💰 SELL | Cardboard | 0.0512 | 7aMgK5L4... | TP1 | `x4uWiyjYDZJ5...` |
