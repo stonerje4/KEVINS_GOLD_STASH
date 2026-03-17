@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 zeroxoneb
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.98x
+- **Peak:** 1.05x | **Current:** 0.97x
 - **Mint:** `8n4ZAfn1izwsXKfvc2KnAsPTfNokRiqCvKTwb4mSpump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +62,7 @@
 
 ### 🟢 Sonny
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.84x
+- **Peak:** 1.09x | **Current:** 0.83x
 - **Mint:** `EVHhyNdtZxXCvRVXeAggjXiahoAQxXhsifFEw6yWpump`
 
 | Time | Action | SOL | TX |
@@ -110,7 +110,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 1.66x
+- **Peak:** 1.73x | **Current:** 1.63x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |

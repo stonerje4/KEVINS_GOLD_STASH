@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CT8wxJuPjSYzkXpFGPSEJKVWuNNgVCyjdjsNwhcUg7cy`
-> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 JEETMAXX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.77x | **Current:** 1.25x
+- **Peak:** 1.77x | **Current:** 0.99x
 - **Mint:** `5vBRoDke8vEayt55NkRB32fgqmXASY3aeEq1zfNbpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 ZBCNP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.98x
+- **Peak:** 1.19x | **Current:** 0.95x
 - **Mint:** `6K5cfi2Ma3vnyjmC3dj5mtorbonuxD7z9N7r76aNpump`
 
 | Time | Action | SOL | TX |

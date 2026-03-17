@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.73x | **Current:** 3.42x
+- **Peak:** 3.73x | **Current:** 3.43x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -210,7 +210,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.60x | **Current:** 2.38x
+- **Peak:** 2.68x | **Current:** 2.68x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -367,7 +367,7 @@
 
 ### 🟢 tokens
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.59x
+- **Peak:** 1.80x | **Current:** 0.58x
 - **Mint:** `66XSbdgMgdd8dPoj1fDp1m1M8sax2135J18tbNofpump`
 
 | Time | Action | SOL | TX |
@@ -726,7 +726,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.12x | **Current:** 2.92x
+- **Peak:** 3.12x | **Current:** 2.93x
 - **Mint:** `2fEFkySXEVJGXmHq6AVdnr5VX9rXwm9A77MD9aWVpump`
 
 | Time | Action | SOL | TX |
@@ -1465,7 +1465,7 @@
 
 ### 🟢 MRLOOT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 1.38x
+- **Peak:** 1.56x | **Current:** 1.37x
 - **Mint:** `GqCnBbpCDbguey17FFD6BRk7LkAJ8Nok4FmfwgTCpump`
 
 | Time | Action | SOL | TX |
@@ -2240,7 +2240,7 @@
 
 ### 🟢 AOR
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.84x | **Current:** 3.76x
+- **Peak:** 3.84x | **Current:** 3.71x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -2725,7 +2725,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.42x
+- **Peak:** 1.79x | **Current:** 1.41x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |

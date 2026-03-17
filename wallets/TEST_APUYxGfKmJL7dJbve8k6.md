@@ -1,5 +1,5 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -26,7 +26,7 @@
 
 ### 🟢 GEEKED
 - **Status:** partial | **Exit:** open
-- **Peak:** 5.80x | **Current:** 5.80x
+- **Peak:** 9.83x | **Current:** 9.83x
 - **Mint:** `9d8eLRNJtYjN53DMK6dznFLuTtB4fBhmRgkCD4Mpump`
 
 | Time | Action | SOL | TX |
@@ -35,10 +35,11 @@
 | 2026-03-17 01:36:53 | SELL | 0.000021 | `4wyh9XVidqzBXUqLFYDpmLQ5pLjwpB...` |
 | 2026-03-17 01:38:37 | SELL | 0.000028 | `5m966zkXqm22zGwYXttp5GDeunc1HH...` |
 | 2026-03-17 01:39:44 | SELL | 0.000047 | `kAqHzUktFcxAWbwdhVddUg8iU7bALg...` |
+| 2026-03-17 01:42:33 | SELL | 0.000071 | `4xqXYko7Sd1F6PKt67a8yvZ8pod5jd...` |
 
 ### 🟢 ORC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.60x
+- **Peak:** 1.00x | **Current:** 0.59x
 - **Mint:** `9XqeTKFq4wVgXspM6bo2rinrT1iAg1Xwj6798hDNpump`
 
 | Time | Action | SOL | TX |

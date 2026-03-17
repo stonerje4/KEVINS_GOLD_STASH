@@ -1,27 +1,28 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 2 |
-| Closed | 5 |
-| W/L | 5/0 |
-| SOL In (closed) | 0.001500 |
-| **Closed P&L** | **+0.001554 SOL** |
-| **Closed ROI** | **+103.6%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 6 |
+| W/L | 6/0 |
+| SOL In (closed) | 0.001600 |
+| **Closed P&L** | **+0.001590 SOL** |
+| **Closed ROI** | **+99.4%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 Clover
-- **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 0.60x
+### 🔴 Clover
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.59x | **Current:** 0.36x
 - **Mint:** `4AYebdN7NLRoq2KHufhtojQSTWBagp7ADxKBLkVypump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:35:19 | BUY | 0.000100 | `Fy1h4Kv8eD9GKthG7ViYYi2fo96maT...` |
+| 2026-03-17 01:43:40 | SELL | 0.000036 | `216P14ftTXsowU5B7XDAK9KUujjDMc...` |
 
 ### 🔴 Maxwell
 - **Status:** closed | **Exit:** stop_loss
@@ -35,7 +36,7 @@
 
 ### 🟢 MATER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.94x | **Current:** 1.64x
+- **Peak:** 1.94x | **Current:** 1.69x
 - **Mint:** `EXnczaT51NvfGQUdYmZ6Fm4zRW9Ttyrk9YrCLLGkpump`
 
 | Time | Action | SOL | TX |

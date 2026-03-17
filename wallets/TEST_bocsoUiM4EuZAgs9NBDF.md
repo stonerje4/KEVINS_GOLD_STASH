@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 TRASHBAG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `BAeDU8aGHGkDmBam5jwRpd7ExKMrLEKxhf9XCsJpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 BEAR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 0.56x
+- **Peak:** 1.27x | **Current:** 0.55x
 - **Mint:** `42bt6cMqCs1BKMybgFDi8MkkarxBScERvtFuyRA8pump`
 
 | Time | Action | SOL | TX |
@@ -88,7 +88,7 @@
 
 ### 🟢 EVIE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.30x | **Current:** 2.10x
+- **Peak:** 2.30x | **Current:** 2.30x
 - **Mint:** `ETZ5L4FYfkgXx5XAK7Vhvag9kirGJdpBAUJcue1Dpump`
 
 | Time | Action | SOL | TX |
@@ -107,7 +107,7 @@
 
 ### 🟢 AI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.06x
+- **Peak:** 1.06x | **Current:** 1.05x
 - **Mint:** `BPbVZ5oNbvWCrvBaGqEMZLNEVD6wKgMDRLCrJP7wpump`
 
 | Time | Action | SOL | TX |

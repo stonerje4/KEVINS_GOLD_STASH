@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ROMEO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.14x
+- **Peak:** 1.84x | **Current:** 0.90x
 - **Mint:** `F9NKgc4y3UuSy4qSGMHaUpReFAGr4tb1MV9sWS78pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 API
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 0.82x
+- **Peak:** 1.31x | **Current:** 0.71x
 - **Mint:** `3icfn5H4ePwjkKDUq7SGqJYeJrutR2WYTvnbcp6cpump`
 
 | Time | Action | SOL | TX |

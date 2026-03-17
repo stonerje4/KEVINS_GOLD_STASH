@@ -1,22 +1,22 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 3 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.000400 |
-| **Closed P&L** | **+0.000313 SOL** |
-| **Closed ROI** | **+78.3%** |
-| Open Deployed | 0.000300 SOL |
+| Open | 2 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.000500 |
+| **Closed P&L** | **+0.000606 SOL** |
+| **Closed ROI** | **+121.2%** |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
 ### 🟢 roni
-- **Status:** partial | **Exit:** open
-- **Peak:** 7.50x | **Current:** 6.04x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 7.50x | **Current:** 2.57x
 - **Mint:** `56URfFvbquqhg1jBTFQLHtfzei6aZJUY8BP482aEpump`
 
 | Time | Action | SOL | TX |
@@ -25,6 +25,7 @@
 | 2026-03-17 01:16:21 | SELL | 0.000027 | `3ctjqkvDhUYFXUESEUzipQmDcZw6tu...` |
 | 2026-03-17 01:16:57 | SELL | 0.000033 | `6WMVc8nrvRRTJkurDy35Ea8JoEjXRD...` |
 | 2026-03-17 01:24:41 | SELL | 0.000045 | `4d1DCJg28niXBSsWd4ponje7i7hzpA...` |
+| 2026-03-17 01:41:57 | SELL | 0.000188 | `w1CKUJfMmPaQjyhGWV3YkN83o67oo1...` |
 
 ### 🔴 SHELLY
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -80,7 +81,7 @@
 
 ### 🟢 TANG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 0.89x
+- **Peak:** 1.90x | **Current:** 0.84x
 - **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
 
 | Time | Action | SOL | TX |
