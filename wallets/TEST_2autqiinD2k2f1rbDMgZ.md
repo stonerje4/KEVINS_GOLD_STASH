@@ -1,5 +1,11 @@
 # [TEST] `2autqiinD2k2f1rb...`
-> 2026-03-17 11:56 UTC | **2** pos | **0W/2L** | P&L: **-0.000247 SOL** (-35.2%) | 0 open
+> 2026-03-17 12:00 UTC | **3** pos | **0W/2L** | P&L: **-0.000247 SOL** (-35.2%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| AlphA | 03-17 11:56 | 0.94x | 1.06x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 11:56 | AlphA | BUY | 0.0001 | `629jkgESdKU2Z5S5...` |
 | 03-16 17:50 | PUMPBAG | SELL | 0.0000 | `2a5tpHQSJivsUyyv...` |
 | 03-16 17:35 | PUMPBAG | BUY | 0.0001 | `5eSynm2HKc56s1FC...` |
 | 03-16 17:30 | PUMPBAG | BUY | 0.0001 | `?` |
