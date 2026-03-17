@@ -1,5 +1,5 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-17 07:05 UTC | Environment: **PRD**
+> Generated: 2026-03-17 07:10 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -35,7 +35,7 @@
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 0.00x
+- **Peak:** 1.19x | **Current:** 0.00x
 - **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 07:05 UTC | Environment: **PRD**
+> Generated: 2026-03-17 07:10 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 OKARA
 - **Status:** partial | **Exit:** open
-- **Peak:** 10.26x | **Current:** 9.59x
+- **Peak:** 10.26x | **Current:** 8.31x
 - **Mint:** `Gc3J24TWcjKVBMxYJJthEoPhJjqafYbz7uyjUmejpump`
 
 | Time | Action | SOL | TX |
@@ -69,7 +69,7 @@
 
 ### 🟢 honkermog
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 1.49x
+- **Peak:** 2.44x | **Current:** 1.47x
 - **Mint:** `2Z5BMaPjri6gsK7i7LHDmdfQrkpV9kbkVnrsosvNpump`
 
 | Time | Action | SOL | TX |

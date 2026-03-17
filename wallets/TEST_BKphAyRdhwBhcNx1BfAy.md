@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 07:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.49x | **Current:** 5.41x
+- **Peak:** 7.49x | **Current:** 5.16x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +212,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.89x | **Current:** 2.13x
+- **Peak:** 3.89x | **Current:** 2.12x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -729,7 +729,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.32x | **Current:** 2.88x
+- **Peak:** 4.32x | **Current:** 3.13x
 - **Mint:** `2fEFkySXEVJGXmHq6AVdnr5VX9rXwm9A77MD9aWVpump`
 
 | Time | Action | SOL | TX |
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.35x
+- **Peak:** 3.16x | **Current:** 2.39x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1507,7 +1507,7 @@
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.31x
+- **Peak:** 1.69x | **Current:** 1.38x
 - **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
 
 | Time | Action | SOL | TX |
@@ -2735,7 +2735,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.24x
+- **Peak:** 1.79x | **Current:** 1.23x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |

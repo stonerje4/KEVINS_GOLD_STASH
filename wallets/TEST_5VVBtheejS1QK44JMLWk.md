@@ -1,36 +1,37 @@
 # [TEST] Wallet: `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN`
-> Generated: 2026-03-17 07:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 3 |
-| Closed | 6 |
-| W/L | 6/0 |
-| SOL In (closed) | 0.002600 |
-| **Closed P&L** | **+0.002751 SOL** |
-| **Closed ROI** | **+105.8%** |
-| Open Deployed | 0.000800 SOL |
+| Open | 2 |
+| Closed | 7 |
+| W/L | 7/0 |
+| SOL In (closed) | 0.002700 |
+| **Closed P&L** | **+0.002773 SOL** |
+| **Closed ROI** | **+102.7%** |
+| Open Deployed | 0.000700 SOL |
 
 ## Trades
 
 ### 🟢 SolGany
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.19x | **Current:** 0.99x
 - **Mint:** `DW7KXtsfgxuiMXe3eSfwFLhJ9P4WNTBtaBpz5ciMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:03:34 | BUY | 0.000100 | `4et8B5G3vyg89vJNRq86g43ZUZA9dH...` |
 
-### 🟢 PIA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.75x | **Current:** 1.75x
+### 🔴 PIA
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.76x | **Current:** 0.22x
 - **Mint:** `6Qb9E5ELiUavVzuyrqY2XnyaZMhWsUH73Levr4ZoVWcA`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:00:26 | BUY | 0.000100 | `4uDd4L6PALgK1EoWDEd8sU4kxsmHyZ...` |
+| 2026-03-17 07:08:10 | SELL | 0.000022 | `5SstzyzxfT1HD3nsLFy6fEGAwjGowS...` |
 
 ### 🟢 PROSUMER
 - **Status:** closed | **Exit:** runner_trailing_stop

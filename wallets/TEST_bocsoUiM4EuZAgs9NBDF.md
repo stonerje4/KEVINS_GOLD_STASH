@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 07:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -144,7 +144,7 @@
 
 ### 🟢 ANMOO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `2uEXkJ7dJVicgNXGn1ryPw2H4eqDL6CvtmL8tK6Kpump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,41 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 07:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 118 |
-| Open | 31 |
-| Closed | 87 |
-| W/L | 86/1 |
-| SOL In (closed) | 0.036700 |
-| **Closed P&L** | **+0.030672 SOL** |
-| **Closed ROI** | **+83.6%** |
-| Open Deployed | 0.004600 SOL |
+| Total Positions | 120 |
+| Open | 32 |
+| Closed | 88 |
+| W/L | 87/1 |
+| SOL In (closed) | 0.036800 |
+| **Closed P&L** | **+0.030708 SOL** |
+| **Closed ROI** | **+83.4%** |
+| Open Deployed | 0.004700 SOL |
 
 ## Trades
 
+### 🟢 ARTEMIS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.12x | **Current:** 1.12x
+- **Mint:** `5Yy9zyQpZLeyVUJ2f49XQpKGgGabEtx8PZHueDtHpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:08:39 | BUY | 0.000100 | `34LLY8C2DM38EDg45XDG3HYNsULd8X...` |
+
+### 🔴 BULKING
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.36x
+- **Mint:** `2U8z2oGVH2o35W4YsKSm929w2cNhhSjiVnZoJbTzpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:06:30 | BUY | 0.000100 | `5GVW4qyMzQQFfpABwXrQGc1xTzkF24...` |
+| 2026-03-17 07:07:27 | SELL | 0.000036 | `5sFe5sDck2pAJ4LRa8mRv6j1G9744F...` |
+
 ### 🟢 TFW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.06x | **Current:** 0.60x
 - **Mint:** `B3ourVCf5dvwY24zZm9eoKdQHP3NkYLCX66buK3Hpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +44,7 @@
 
 ### 🟢 AEX402
 - **Status:** open | **Exit:** open
-- **Peak:** 1.91x | **Current:** 1.36x
+- **Peak:** 1.91x | **Current:** 1.48x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -117,7 +136,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.59x | **Current:** 4.26x
+- **Peak:** 4.59x | **Current:** 4.27x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -569,7 +588,7 @@
 
 ### 🟢 CHANGSHA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 0.69x
+- **Peak:** 1.55x | **Current:** 0.66x
 - **Mint:** `2CZjXETQ9efUDNT6iYgX2bn6Stuxk1FenxhCCsagpump`
 
 | Time | Action | SOL | TX |
