@@ -1,18 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 99 |
-| Open | 17 |
+| Total Positions | 100 |
+| Open | 18 |
 | Closed | 82 |
 | W/L | 81/1 |
 | SOL In (closed) | 0.036200 |
 | **Closed P&L** | **+0.030336 SOL** |
 | **Closed ROI** | **+83.8%** |
-| Open Deployed | 0.003200 SOL |
+| Open Deployed | 0.003300 SOL |
 
 ## Trades
+
+### 🟢 CLUDSTAR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.23x | **Current:** 1.23x
+- **Mint:** `2iU4cQvPD3n1HGXX2phTSHzSGU5syz3UTzbMYcRBpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:12:36 | BUY | 0.000100 | `2qjPm54qezfXaqMee3bAcNDsYPfj8z...` |
 
 ### 🔴 TRENCHERIA
 - **Status:** closed | **Exit:** ghost_close_stop_loss

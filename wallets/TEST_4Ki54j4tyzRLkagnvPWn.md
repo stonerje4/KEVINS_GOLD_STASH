@@ -1,27 +1,28 @@
 # [TEST] Wallet: `4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo`
-> Generated: 2026-03-17 00:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 22 |
-| Open | 4 |
-| Closed | 18 |
-| W/L | 16/2 |
-| SOL In (closed) | 0.006800 |
-| **Closed P&L** | **+0.003337 SOL** |
-| **Closed ROI** | **+49.1%** |
-| Open Deployed | 0.001400 SOL |
+| Open | 3 |
+| Closed | 19 |
+| W/L | 17/2 |
+| SOL In (closed) | 0.006900 |
+| **Closed P&L** | **+0.003341 SOL** |
+| **Closed ROI** | **+48.4%** |
+| Open Deployed | 0.001300 SOL |
 
 ## Trades
 
-### 🟢 $bone
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🔴 $bone
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.07x
 - **Mint:** `BQEqcTWcncvzwVJjuBRVd7tpmwh592gvF4p6aHnRpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:09:33 | BUY | 0.000100 | `2WFcimNLtAV1ZkFKPDBG25xg8xGj6N...` |
+| 2026-03-17 00:10:12 | SELL | 0.000005 | `3ZPTL6xFN9zgZPw9pD2SPW3bs1FXcR...` |
 
 ### 🔴 moon
 - **Status:** closed | **Exit:** ghost_close_stop_loss

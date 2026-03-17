@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 00:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 68 |
-| Open | 45 |
+| Total Positions | 69 |
+| Open | 46 |
 | Closed | 23 |
 | W/L | 13/10 |
 | SOL In (closed) | 0.020700 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+43.8%** |
-| Open Deployed | 0.019000 SOL |
+| Open Deployed | 0.019100 SOL |
 
 ## Trades
+
+### 🟢 Toucan
+- **Status:** open | **Exit:** open
+- **Peak:** 1.20x | **Current:** 1.20x
+- **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:11:38 | BUY | 0.000100 | `46h9YEy6fUcJ6eutsqzS78gTQb5VAx...` |
 
 ### 🟢 Builderz
 - **Status:** open | **Exit:** open
@@ -61,7 +70,7 @@
 
 ### 🟢 DOSED
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `Do69rsN2ch1XxrLmHNqhmd9Wgru48pQYTy5yAiJBpump`
 
 | Time | Action | SOL | TX |
@@ -115,7 +124,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `8TLJGfW2xjoJK34DaKcP4g1xWVuqWSePEgm885Qnpump`
 
 | Time | Action | SOL | TX |
@@ -154,7 +163,7 @@
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `DwkjZoNj6PmJ31PNky4GeMUH6je3rCC1BdgpyCSbpump`
 
 | Time | Action | SOL | TX |

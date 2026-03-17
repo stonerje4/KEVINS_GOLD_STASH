@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 00:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.001600 SOL |
+| Open Deployed | 0.001700 SOL |
 
 ## Trades
 
-### ⚪ BDH
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 BDH
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `Aqo81fep1rS4kAWNidSm5qZwa33kPebLNZZdXoJZpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 William
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.10x | **Current:** 0.74x
 - **Mint:** `3DG9VmAb7wuA2Ybecq9s1MZPpnLSEycBsuxRDhjXpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 Nyctimene
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 0.56x
+- **Peak:** 1.50x | **Current:** 0.47x
 - **Mint:** `BZsediCfyToyZkSPD5HBadRXUxEVhWkSKceZExvSpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 Mater
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `CjDVxPEfyVaVuV4EyXXosPCRyiKjnePspNyZo1pDpump`
 
 | Time | Action | SOL | TX |

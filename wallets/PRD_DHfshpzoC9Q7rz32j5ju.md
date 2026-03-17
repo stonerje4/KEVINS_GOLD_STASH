@@ -1,18 +1,27 @@
 # [PRD] Wallet: `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf`
-> Generated: 2026-03-17 00:10 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 45 |
-| Open | 2 |
+| Total Positions | 46 |
+| Open | 3 |
 | Closed | 43 |
 | W/L | 15/28 |
 | SOL In (closed) | 4.150000 |
 | **Closed P&L** | **+0.045660 SOL** |
 | **Closed ROI** | **+1.1%** |
-| Open Deployed | 0.300000 SOL |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `2fEFkySXEVJGXmHq6AVdnr5VX9rXwm9A77MD9aWVpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:10:31 | BUY | 0.150000 | `2yPytVk6jC8JiUyzVbec39BcuzVrHw...` |
 
 ### 🟢 XAI
 - **Status:** open | **Exit:** open

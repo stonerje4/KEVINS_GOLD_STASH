@@ -1,22 +1,31 @@
 # [TEST] Wallet: `BGLw4MpMcGN7qJsJQBAFzfBudXgaUtnczFCxrrpCHq8P`
-> Generated: 2026-03-17 00:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
-| Open | 1 |
+| Total Positions | 2 |
+| Open | 2 |
 | Closed | 0 |
 | W/L | 0/0 |
 | SOL In (closed) | 0.000000 |
 | **Closed P&L** | **+0.000000 SOL** |
 | **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
+### 🟢 UNSW
+- **Status:** open | **Exit:** open
+- **Peak:** 1.14x | **Current:** 1.14x
+- **Mint:** `Fpckub6J1WMSJctyJJgsXVJcQbUXa4HsJbrF783Epump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:11:19 | BUY | 0.000100 | `4kU9PKexWQHdrbKfd4RUrxwQL4NSJo...` |
+
 ### 🟢 MiroFish
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 1.15x
+- **Peak:** 1.34x | **Current:** 1.08x
 - **Mint:** `9vbovDf4rgasuPUw7CZDW8ekoJpo3R4SrohQK8aQpump`
 
 | Time | Action | SOL | TX |
