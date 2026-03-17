@@ -1,5 +1,5 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 05:50 UTC | Environment: **PRD**
+> Generated: 2026-03-17 05:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -46,7 +46,7 @@
 
 ### 🟢 honkermog
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 1.83x
+- **Peak:** 2.44x | **Current:** 1.86x
 - **Mint:** `2Z5BMaPjri6gsK7i7LHDmdfQrkpV9kbkVnrsosvNpump`
 
 | Time | Action | SOL | TX |
@@ -105,7 +105,7 @@
 
 ### 🟢 BOBO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.48x
+- **Peak:** 1.21x | **Current:** 0.47x
 - **Mint:** `BJwd9vZ2di3RWspBK2jGGKkHdLQ1nqRhfwe1LhHjpump`
 
 | Time | Action | SOL | TX |

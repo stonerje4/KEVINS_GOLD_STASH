@@ -1,18 +1,36 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 05:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 102 |
-| Open | 31 |
+| Total Positions | 104 |
+| Open | 33 |
 | Closed | 71 |
 | W/L | 69/2 |
 | SOL In (closed) | 0.030600 |
 | **Closed P&L** | **+0.025708 SOL** |
 | **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.004100 SOL |
+| Open Deployed | 0.004200 SOL |
 
 ## Trades
+
+### ⚪ Lucky
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `G1aXZDGxrgXsnzRdrX6XX7nB9E92wJQajJfeok8cpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:54:46 | BUY | 0.000100 | `3jssNJaExp9qiSg5TsmrjTtbY8K4or...` |
+
+### 🟢 INTROSPECTION
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.87x
+- **Mint:** `2ttk3pzQmVDDSuDuvNcsMtJW33b98cwCvkDpvYdos6eh`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:52:11 | BUY | 0.000100 | `rAMETpDN7BiNL2UDueKSfVpp3cbz2C...` |
 
 ### 🟢 LAST
 - **Status:** closed | **Exit:** runner_trailing_stop

@@ -1,16 +1,16 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 05:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 53 |
-| Open | 35 |
-| Closed | 18 |
-| W/L | 4/14 |
-| SOL In (closed) | 0.010800 |
+| Open | 34 |
+| Closed | 19 |
+| W/L | 4/15 |
+| SOL In (closed) | 0.011400 |
 | **Closed P&L** | **+0.003202 SOL** |
-| **Closed ROI** | **+29.7%** |
-| Open Deployed | 0.013500 SOL |
+| **Closed ROI** | **+28.1%** |
+| Open Deployed | 0.012900 SOL |
 
 ## Trades
 
@@ -151,7 +151,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -178,7 +178,7 @@
 
 ### 🟢 Safe
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.79x
+- **Peak:** 1.01x | **Current:** 0.80x
 - **Mint:** `D73pXimYCpoSRe3LRcgn6dPQSh6bsu3FdB2vvh3upump`
 
 | Time | Action | SOL | TX |
@@ -333,21 +333,22 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:24:35 | BUY | 0.000600 | `qh2hyMzq3opZDrAy1GeggJZ8BU9jsm...` |
 
-### 🟢 Hector
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+### 🔴 Hector
+- **Status:** closed | **Exit:** stale_cleanup
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:58:37 | BUY | 0.000600 | `55HwseTh2QL3DnLuYexBfGvtNGMN4s...` |
+| 2026-03-17 05:52:05 | SELL | 0.000079 | `FVHC9bbZh8MAw4wjwqWV6MGcGsbvrk...` |
 
 ### 🔴 JOPNER
 - **Status:** closed | **Exit:** stale_cleanup

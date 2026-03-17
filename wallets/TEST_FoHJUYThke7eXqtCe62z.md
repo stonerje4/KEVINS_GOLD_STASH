@@ -1,16 +1,16 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 05:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 86 |
-| Open | 60 |
-| Closed | 26 |
-| W/L | 13/13 |
-| SOL In (closed) | 0.022500 |
+| Open | 58 |
+| Closed | 28 |
+| W/L | 13/15 |
+| SOL In (closed) | 0.023700 |
 | **Closed P&L** | **+0.009065 SOL** |
-| **Closed ROI** | **+40.3%** |
-| Open Deployed | 0.019000 SOL |
+| **Closed ROI** | **+38.2%** |
+| Open Deployed | 0.017800 SOL |
 
 ## Trades
 
@@ -25,7 +25,7 @@
 
 ### 🟢 IRAN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+- **Peak:** 1.02x | **Current:** 0.96x
 - **Mint:** `28SiCzRTDnU2Ed7NJwxnPGxs7JhGNWtyv3jrSpQnpump`
 
 | Time | Action | SOL | TX |
@@ -654,23 +654,25 @@
 |------|--------|-----|----|
 | 2026-03-16 04:18:26 | BUY | 0.000600 | `4vxai2xDVabvx9cLT652XuFXhpsTQg...` |
 
-### 🟢 Simple
-- **Status:** open | **Exit:** open
+### 🔴 Simple
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.05x | **Current:** 0.93x
 - **Mint:** `6gjdV7soB8RiKvGdMh6XMinsPVyeG4TprL4rYrFQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:10:51 | BUY | 0.000600 | `3Z9w3gJXPTytqs6RTbotiEAtVoJEiU...` |
+| 2026-03-17 05:52:09 | SELL | 0.000093 | `2BD58sUdoPvRpDkQvrNMstZHBd5jMR...` |
 
-### 🟢 BONDSAT100K
-- **Status:** open | **Exit:** open
+### 🔴 BONDSAT100K
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:56:26 | BUY | 0.000600 | `4w66ETtGues2q78Dh7AYp76hxyaP1C...` |
+| 2026-03-17 05:52:03 | SELL | 0.000077 | `3nHWcrCxULWFjTz4bnfXS5Q85VjmQr...` |
 
 ### 🔴 SCREAM
 - **Status:** closed | **Exit:** stale_cleanup
