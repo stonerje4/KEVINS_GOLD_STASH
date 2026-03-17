@@ -1,11 +1,12 @@
 # [TEST] `EyeSFbqHMXzZBTFq...`
-> 2026-03-17 18:00 UTC | **6** pos | **0W/5L** | P&L: **-0.000881 SOL** (-44.1%) | 1 open
+> 2026-03-17 18:05 UTC | **7** pos | **0W/5L** | P&L: **-0.000881 SOL** (-44.1%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BELIEVERS | 03-17 16:38 | 1.03x | 1.61x | 1.4h | 0.0001 |
+| DOG | 03-17 18:04 | 1.60x | 1.60x | 0.0h | 0.0001 |
+| BELIEVERS | 03-17 16:38 | 0.92x | 1.61x | 1.4h | 0.0001 |
 
 ## Closed
 
@@ -21,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 18:04 | DOG | BUY | 0.0001 | `4Mu21bdNcgVt9gLR...` |
 | 03-17 16:38 | BELIEVERS | BUY | 0.0001 | `3QZXMe7LuFn8eVfr...` |
 | 03-17 03:19 | Mina | BUY | 0.0001 | `4AYVKwrPLzUByVbK...` |
 | 03-17 02:43 | 唐子 | SELL | 0.0000 | `3YtfVw2rGqtWfqNM...` |

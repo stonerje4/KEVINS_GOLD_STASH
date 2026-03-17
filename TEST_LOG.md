@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 18:00 UTC** | 7d | 1545 buys, 2022 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 18:05 UTC** | 7d | 1549 buys, 2024 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:04 | 🟢 BUY | DOG | 0.0001 | EyeSFbqH... | copy_buy | `4Mu21bdNcgVt...` |
+| 03-17 | 18:03 | 🟢 BUY | Algorithm | 0.0001 | GHy1P6vJ... | copy_buy | `3CoEgHqGxbUb...` |
+| 03-17 | 18:02 | 🟢 BUY | KUM | 0.0001 | FzMeg6P2... | copy_buy | `4xGRbqTsaCuc...` |
+| 03-17 | 18:02 | 💰 SELL | Lemon-kun | 0.0001 | 7cA6GmNF... | TP2 | `59ES6yQLfW2j...` |
+| 03-17 | 18:02 | 🟢 BUY | thinker | 0.0001 | otq3sTTS... | copy_buy | `LFNSftqcQ6HV...` |
+| 03-17 | 18:00 | 🔴 SELL | happened | 0.0000 | BpxZNCi8... | trail | `3FmtZzvUeYw2...` |
 | 03-17 | 17:59 | 💰 SELL | happened | 0.0001 | BpxZNCi8... | TP2 | `5s2SqoNKXAbh...` |
 | 03-17 | 17:56 | 🟢 BUY | ASCEND | 0.0001 | 35RArQiy... | copy_buy | `347MbgioDALh...` |
 | 03-17 | 17:56 | 💰 SELL | happened | 0.0001 | BpxZNCi8... | TP1 | `3JQUeVXho6cV...` |
