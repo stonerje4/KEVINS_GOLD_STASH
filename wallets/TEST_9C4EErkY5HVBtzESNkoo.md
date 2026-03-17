@@ -1,5 +1,11 @@
 # [TEST] `9C4EErkY5HVBtzES...`
-> 2026-03-17 17:20 UTC | **18** pos | **1W/17L** | P&L: **-0.004285 SOL** (-43.7%) | 0 open
+> 2026-03-17 17:25 UTC | **19** pos | **1W/17L** | P&L: **-0.004285 SOL** (-43.7%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| CWC | 03-17 17:21 | 0.68x | 1.50x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -28,6 +34,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:21 | CWC | BUY | 0.0001 | `37WZ5Cf9sVWdytb2...` |
 | 03-17 04:29 | Fep | SELL | 0.0000 | `7VZDv8rhzLv6zZPe...` |
 | 03-17 03:51 | Elza | SELL | 0.0001 | `52yMVYVau4tJkhN7...` |
 | 03-16 23:23 | Fep | BUY | 0.0001 | `57i7jGxYHEqnBbZk...` |

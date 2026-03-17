@@ -1,5 +1,11 @@
 # [TEST] `Dr5V9A9dFezBaP65...`
-> 2026-03-17 17:20 UTC | **19** pos | **2W/17L** | P&L: **-0.004990 SOL** (-50.4%) | 0 open
+> 2026-03-17 17:25 UTC | **20** pos | **2W/17L** | P&L: **-0.004990 SOL** (-50.4%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| GAS | 03-17 17:24 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -29,6 +35,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:24 | GAS | BUY | 0.0001 | `27SMwDgvGhtdWZ7z...` |
 | 03-17 06:23 | MOMO | BUY | 0.0001 | `5SB6jaYk4N3XEB3G...` |
 | 03-17 04:40 | zeroxoneb | SELL | 0.0000 | `3DrzCHxfTYRCv49D...` |
 | 03-17 00:19 | zeroxoneb | BUY | 0.0001 | `2ercJu3WtUaFEcUc...` |

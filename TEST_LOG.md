@@ -1,8 +1,25 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:20 UTC** | 7d | 1500 buys, 1985 sells | In: **0.48** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 17:25 UTC** | 7d | 1514 buys, 1988 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:24 | 🟢 BUY | GAS | 0.0001 | Dr5V9A9d... | copy_buy | `27SMwDgvGhtd...` |
+| 03-17 | 17:24 | 🟢 BUY | Chicken | 0.0001 | Lfw99jsE... | copy_buy | `YGRHiL7ZjYQE...` |
+| 03-17 | 17:24 | 🟢 BUY | Muskius | 0.0001 | Lfw99jsE... | copy_buy | `ymm8a26QjHgt...` |
+| 03-17 | 17:24 | 🟢 BUY | PUMPFUN | 0.0001 | bocsoUiM... | copy_buy | `RWHoiUpFRm5i...` |
+| 03-17 | 17:22 | 🟢 BUY | Solana | 0.0001 | Lfw99jsE... | copy_buy | `24TVGeaRmm1R...` |
+| 03-17 | 17:22 | 🟢 BUY | RR | 0.0001 | BBBByrLH... | copy_buy | `2D978e5wFXm3...` |
+| 03-17 | 17:22 | 💰 SELL | BROKE | 0.0000 | EaEf6TH8... | TP3 | `2b36wePYGcBj...` |
+| 03-17 | 17:22 | 🔴 SELL | SaintAlon | 0.0000 | 42nQHDpy... | trail | `39RtVfXni5u9...` |
+| 03-17 | 17:22 | 🟢 BUY | ETHOS | 0.0001 | FVFkKaDk... | copy_buy | `4cJk5Wr82Sik...` |
+| 03-17 | 17:21 | 💰 SELL | LMG | 0.0001 | 6E4897rJ... | TP1 | `2wA8ZxVhKEEi...` |
+| 03-17 | 17:21 | 🟢 BUY | AlgoBrain | 0.0001 | BBBByrLH... | copy_buy | `2sbXxFMHxLJ3...` |
+| 03-17 | 17:21 | 🟢 BUY | SpiderMan | 0.0001 | bocsoUiM... | copy_buy | `5urUFHThKCHx...` |
+| 03-17 | 17:21 | 🟢 BUY | CWC | 0.0001 | 9C4EErkY... | copy_buy | `37WZ5Cf9sVWd...` |
+| 03-17 | 17:21 | 🟢 BUY | whappen | 0.0001 | EaEf6TH8... | copy_buy | `53J4DaCQp6oR...` |
+| 03-17 | 17:20 | 🟢 BUY | ah | 0.0001 | EaEf6TH8... | copy_buy | `3Stapd9qdkKd...` |
+| 03-17 | 17:20 | 🟢 BUY | Atlas | 0.0001 | bocsoUiM... | copy_buy | `2xWRpUihSRaj...` |
+| 03-17 | 17:20 | 🟢 BUY | FTR | 0.0001 | 87nWQxQv... | copy_buy | `2WWnQWQyyMKQ...` |
 | 03-17 | 17:19 | 💰 SELL | BROKE | 0.0001 | EaEf6TH8... | TP2 | `3x7UovyBzM9H...` |
 | 03-17 | 17:19 | 🟢 BUY | ALTO | 0.0001 | bocsoUiM... | copy_buy | `4dyRZVgHr5zr...` |
 | 03-17 | 17:19 | 💰 SELL | BROKE | 0.0001 | EaEf6TH8... | TP1 | `KYkodxZPRT4a...` |

@@ -1,12 +1,13 @@
 # [PRD] `BNCSPd6QtP6rJCWZ...`
-> 2026-03-17 17:20 UTC | **6** pos | **1W/3L** | P&L: **-0.135952 SOL** (-22.7%) | 2 open
+> 2026-03-17 17:25 UTC | **7** pos | **1W/3L** | P&L: **-0.135952 SOL** (-22.7%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Glorp | 03-17 13:41 | 0.00x | 1.04x | 3.6h | 0.1500 |
-| BRACKET | 03-17 01:51 | 0.00x | 1.43x | 15.5h | 0.1500 |
+| LUCIDITY | 03-17 17:23 | 0.00x | 1.16x | 0.0h | 0.1500 |
+| Glorp | 03-17 13:41 | 0.00x | 1.04x | 3.7h | 0.1500 |
+| BRACKET | 03-17 01:51 | 0.00x | 1.43x | 15.6h | 0.1500 |
 
 ## Closed
 
@@ -21,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:23 | LUCIDITY | BUY | 0.1500 | `4ndKQ8D5obpNxu2m...` |
 | 03-17 16:41 | Gilbert | SELL | 0.0587 | `36kjfWVYjieDwu2B...` |
 | 03-17 16:31 | Gilbert | BUY | 0.1500 | `4yQifW38ht9NTegt...` |
 | 03-17 13:41 | Glorp | BUY | 0.1500 | `2wCKBGoHPdSuXAtS...` |
