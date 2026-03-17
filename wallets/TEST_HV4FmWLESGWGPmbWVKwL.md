@@ -1,16 +1,11 @@
 # [TEST] `HV4FmWLESGWGPmbW...`
-> 2026-03-17 22:15 UTC | **8** pos | **2W/5L** | P&L: **-0.003743 SOL** (-30.9%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Springfield | 03-17 21:57 | 0.72x | 1.26x | 0.3h | 0.0001 |
+> 2026-03-17 22:20 UTC | **8** pos | **2W/6L** | P&L: **-0.003803 SOL** (-31.2%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Springfield | -0.0001 | 03-17 21:57 | 1.3x | 03-17 22:18 | 0.0000/0.0001 | SL |
 | ✅ Speak | +0.0001 | 03-17 21:01 | 3.3x | 03-17 21:47 | 0.0002/0.0001 | trail |
 | ✅ Gany | +0.0001 | 03-17 03:15 | 3.1x | 03-17 03:35 | 0.0002/0.0001 | trail |
 | ❌ Realization | -0.0001 | 03-16 23:26 | 1.0x | 03-16 23:31 | 0.0000/0.0001 | gc_SL |
@@ -23,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:18 | Springfield | SELL | 0.0000 | `3qbusGESfa7PHfCD...` |
 | 03-17 21:57 | Springfield | BUY | 0.0001 | `3GaAgkdAzmBhDpHZ...` |
 | 03-17 21:47 | Speak | SELL | 0.0001 | `4B5hgWx1rBaLdRuq...` |
 | 03-17 21:40 | Speak | SELL | 0.0001 | `3CJiMk1JZWdYSTzW...` |

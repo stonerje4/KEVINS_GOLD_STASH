@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 22:15 UTC** | 7d | 759 buys, 1005 sells | In: **94.68** | Out: **87.40** | Net: **-7.28 SOL**
+> Updated: **2026-03-17 22:20 UTC** | 7d | 759 buys, 1004 sells | In: **94.78** | Out: **87.39** | Net: **-7.39 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:20 | 🟢 BUY | YoungHo | 0.1500 | J5jm7BnB... | copy | `4BrfU4nPYvZC...` |
 | 03-17 | 22:14 | 🟢 BUY | ACTIII | 0.1500 | E79aNzAk... | copy | `4yKeCuTx2npj...` |
 | 03-17 | 22:13 | 🔴 SELL | chad | 0.1252 | AF5Txaad... | trail | `4CkDUkdHv3FS...` |
 | 03-17 | 22:11 | 🟢 BUY | Einstein | 0.1500 | 5n593DWQ... | copy | `3t4amhiRrVJL...` |
@@ -1765,5 +1766,3 @@
 | 03-10 | 23:03 | 💰 SELL | AuPair | 0.0329 | HMM6RoT2... | TP2 | `22cvzresgCVW...` |
 | 03-10 | 22:56 | 💰 SELL | Cardboard | 0.1306 | 7aMgK5L4... | tp_25x_trim | `4DacL9vUNZYD...` |
 | 03-10 | 22:34 | 🔴 SELL | FLORK | 0.0182 | HMM6RoT2... | SL | `3kxSwfFwiBgo...` |
-| 03-10 | 22:19 | 🔴 SELL | archie | 0.0143 | 9rb2ChEj... | SL | `f1QhwcaLdi9k...` |
-| 03-10 | 22:18 | 🟢 BUY | AgentHub | 0.0500 | 9rb2ChEj... | copy | `3uN84c9MbArX...` |

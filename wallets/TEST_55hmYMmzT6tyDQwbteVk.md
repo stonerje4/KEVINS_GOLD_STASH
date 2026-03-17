@@ -1,5 +1,11 @@
 # [TEST] `55hmYMmzT6tyDQwb...`
-> 2026-03-17 22:15 UTC | **5** pos | **0W/5L** | P&L: **-0.000773 SOL** (-38.7%) | 0 open
+> 2026-03-17 22:20 UTC | **6** pos | **0W/5L** | P&L: **-0.000773 SOL** (-38.7%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| vdbsg | 03-17 22:15 | 1.11x | 1.20x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -15,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:15 | vdbsg | BUY | 0.0001 | `2pNvuWTLMe2vW8yZ...` |
 | 03-17 05:42 | POPDOG | SELL | 0.0000 | `674bY75h4vQb9hi5...` |
 | 03-17 05:36 | POPDOG | BUY | 0.0001 | `2iYy7ZU2iwiHjUaq...` |
 | 03-16 18:55 | 3984 | SELL | 0.0004 | `?` |

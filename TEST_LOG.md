@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:15 UTC** | 7d | 1743 buys, 2177 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:20 UTC** | 7d | 1744 buys, 2180 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:18 | 🔴 SELL | Springfield | 0.0000 | HV4FmWLE... | SL | `3qbusGESfa7P...` |
+| 03-17 | 22:18 | 💰 SELL | YOU | 0.0001 | 99XWMUAM... | TP2 | `65Hc39NpJgiT...` |
+| 03-17 | 22:17 | 💰 SELL | Solanass | 0.0001 | GRnCsBLj... | TP1 | `4Z5R69zjjTzo...` |
+| 03-17 | 22:15 | 🟢 BUY | vdbsg | 0.0001 | 55hmYMmz... | copy_buy | `2pNvuWTLMe2v...` |
 | 03-17 | 22:15 | 💰 SELL | ACTIII | 0.0001 | 35RArQiy... | TP1 | `4EQB1hUNSEZS...` |
 | 03-17 | 22:14 | 🔴 SELL | chad | 0.0001 | 5dd3zjBQ... | trail | `gNGHkBhkV3FC...` |
 | 03-17 | 22:14 | 🟢 BUY | SONAR | 0.0001 | Gdd86j2T... | copy_buy | `2yjduwUrtPk6...` |
