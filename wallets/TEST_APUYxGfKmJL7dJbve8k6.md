@@ -1,17 +1,17 @@
 # [TEST] `APUYxGfKmJL7dJbv...`
-> 2026-03-17 20:50 UTC | **52** pos | **6W/44L** | P&L: **-0.004764 SOL** (-29.8%) | 2 open
+> 2026-03-17 20:55 UTC | **52** pos | **6W/45L** | P&L: **-0.004825 SOL** (-30.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Doodle | 03-17 19:04 | 0.55x | 1.61x | 1.8h | 0.0001 |
-| Templates | 03-17 18:50 | 0.81x | 1.00x | 2.0h | 0.0001 |
+| Templates | 03-17 18:50 | 0.81x | 1.00x | 2.1h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Doodle | -0.0001 | 03-17 19:04 | 1.6x | 03-17 20:53 | 0.0000/0.0001 | SL |
 | ❌ Einstein | -0.0001 | 03-17 18:54 | 1.1x | 03-17 19:11 | 0.0000/0.0001 | SL |
 | ❌ NINO | -0.0001 | 03-17 18:52 | 1.1x | 03-17 19:01 | 0.0000/0.0001 | SL |
 | ❌ Claude | -0.0001 | 03-17 14:35 | 1.0x | 03-17 14:39 | 0.0000/0.0001 | SL |
@@ -67,6 +67,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 20:53 | Doodle | SELL | 0.0000 | `3G7DajNxksqGnjLP...` |
 | 03-17 19:11 | Einstein | SELL | 0.0000 | `Rb9JnpXtFeWVev1b...` |
 | 03-17 19:04 | Doodle | BUY | 0.0001 | `4JmBaF4t4Ehoq91q...` |
 | 03-17 19:01 | NINO | SELL | 0.0000 | `4MPF15mwJHbDNENd...` |
@@ -101,8 +102,8 @@
 | 03-17 01:36 | GEEKED | SELL | 0.0000 | `4wyh9XVidqzBXUqL...` |
 | 03-17 01:35 | GEEKED | BUY | 0.0001 | `pYYZvoNrXcm61Qtz...` |
 | 03-17 01:34 | ORC | BUY | 0.0001 | `5T8gGkz1t3ia3k4b...` |
-| 03-16 19:13 | SHARK | SELL | 0.0003 | `?` |
 | 03-16 19:13 | Nebresearch | SELL | 0.0003 | `?` |
+| 03-16 19:13 | SHARK | SELL | 0.0003 | `?` |
 | 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Bowhead | SELL | 0.0001 | `?` |
 | 03-16 16:49 | clod | SELL | 0.0001 | `5VtVzAtN7e5wWbGg...` |

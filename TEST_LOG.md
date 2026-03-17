@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:50 UTC** | 7d | 1681 buys, 2115 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:55 UTC** | 7d | 1683 buys, 2118 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:54 | 🟢 BUY | HAWFAM | 0.0001 | FoHJUYTh... | copy_buy | `3h8KZQrHyRK4...` |
+| 03-17 | 20:53 | 🔴 SELL | Doodle | 0.0000 | APUYxGfK... | SL | `3G7DajNxksqG...` |
+| 03-17 | 20:51 | 💰 SELL | Israel  | 0.0001 | AJ8Gc1cY... | TP2 | `43SC1YYXH55t...` |
+| 03-17 | 20:50 | 💰 SELL | Israel  | 0.0001 | AJ8Gc1cY... | TP1 | `5PPXYDoRETQC...` |
+| 03-17 | 20:50 | 🟢 BUY | Sweep | 0.0001 | GHy1P6vJ... | copy_buy | `58vknvhh1Ls3...` |
 | 03-17 | 20:49 | 🟢 BUY | Israel  | 0.0001 | AJ8Gc1cY... | copy_buy | `4tdqjbhcsy9x...` |
 | 03-17 | 20:49 | 💰 SELL | LCM | 0.0001 | Lfw99jsE... | trail | `2NWUPCLuMQb4...` |
 | 03-17 | 20:48 | 🟢 BUY | inu | 0.0001 | GHy1P6vJ... | copy_buy | `4jqoZStspmqd...` |
