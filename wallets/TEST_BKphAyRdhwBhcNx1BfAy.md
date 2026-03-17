@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 10:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -1419,7 +1419,7 @@
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.98x | **Current:** 1.20x
+- **Peak:** 1.98x | **Current:** 1.63x
 - **Mint:** `3S1NxQXfKmfL4szqJnPS3N8GpA35ncqBdrU4rrAPpump`
 
 | Time | Action | SOL | TX |
@@ -1507,7 +1507,7 @@
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.38x
+- **Peak:** 1.69x | **Current:** 1.37x
 - **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
 
 | Time | Action | SOL | TX |
@@ -1714,7 +1714,7 @@
 
 ### 🟢 LATE
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `bnukZwcekRtQRUQXerfvJTFWeRNnPAYWEDisAyY7H1E`
 
 | Time | Action | SOL | TX |

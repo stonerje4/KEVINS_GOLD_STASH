@@ -1,18 +1,27 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 10:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 125 |
+| Total Positions | 126 |
 | Open | 36 |
-| Closed | 89 |
-| W/L | 88/1 |
-| SOL In (closed) | 0.036900 |
-| **Closed P&L** | **+0.030745 SOL** |
-| **Closed ROI** | **+83.3%** |
+| Closed | 90 |
+| W/L | 89/1 |
+| SOL In (closed) | 0.037000 |
+| **Closed P&L** | **+0.030910 SOL** |
+| **Closed ROI** | **+83.5%** |
 | Open Deployed | 0.004900 SOL |
 
 ## Trades
+
+### 🟢 GITT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `EvhwAyk29n3fRUAq2gDGtxGwg2BpciG5APqpA76ipump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 10:09:11 | BUY | 0.000100 | `2BWARc91cVq8KcynGhHJKiGBZ6Prwv...` |
 
 ### ⚪ CHINGCHONG
 - **Status:** confirming | **Exit:** open
@@ -33,7 +42,7 @@
 | 2026-03-17 09:39:23 | BUY | 0.000100 | `32uDf3yVsZfR3AVj25sv7ueAFFrGqL...` |
 
 ### 🟢 FP
-- **Status:** partial | **Exit:** runner_trailing_stop
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 3.15x | **Current:** 1.27x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
@@ -98,10 +107,13 @@
 | 2026-03-17 10:02:09 | SELL | 0.000000 | `2TXvNXgqajusSN7HYBCricJ3tLTMxQ...` |
 | 2026-03-17 10:03:17 | SELL | 0.000000 | `3iPJA9P5V2XLw5tABUfKEuPCWE79Uz...` |
 | 2026-03-17 10:04:26 | SELL | 0.000000 | `4oi8UMMvwRYMZ3D4gE5K8oWYDn7ovf...` |
+| 2026-03-17 10:05:43 | SELL | 0.000000 | `MP7vzQhho9ZGvBYj91hJ1gPaGbsDRN...` |
+| 2026-03-17 10:06:53 | SELL | 0.000000 | `257kWwueHj9hemehGd8aFjyFEzynyE...` |
+| 2026-03-17 10:08:08 | SELL | 0.000000 | `4wN55q7bQmfHZrNNxXjoW7aTyLdJsn...` |
 
 ### 🟢 TIKI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.47x
+- **Peak:** 1.00x | **Current:** 0.45x
 - **Mint:** `23CNu7k565sWWzQQ8DdwapuFuCbPCxGYpucLjt1opump`
 
 | Time | Action | SOL | TX |
@@ -255,7 +267,7 @@
 
 ### 🟢 C64
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.98x
+- **Peak:** 1.09x | **Current:** 0.97x
 - **Mint:** `FrMy2MuZwXbgKMfNWWWb4h8VCQbkx5nQ5gUuFqSLpump`
 
 | Time | Action | SOL | TX |
@@ -264,7 +276,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.59x | **Current:** 3.91x
+- **Peak:** 4.59x | **Current:** 3.89x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -315,7 +327,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.35x | **Current:** 1.95x
+- **Peak:** 2.35x | **Current:** 1.97x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
@@ -1019,7 +1031,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.16x | **Current:** 1.31x
+- **Peak:** 2.16x | **Current:** 1.29x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
-> Generated: 2026-03-17 10:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -47,7 +47,7 @@
 
 ### 🟢 GORILLA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 0.68x
+- **Peak:** 1.14x | **Current:** 0.76x
 - **Mint:** `EgXirSgMd673qXKGB9kc2YHJnaQUHiyBTPasXEVJ5zMr`
 
 | Time | Action | SOL | TX |

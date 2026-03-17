@@ -1,10 +1,10 @@
 # [TEST] Wallet: `7cXeEXa4cpUDYtpaMGP2rc7pe1LJB6M93DtiVJswpbrJ`
-> Generated: 2026-03-17 10:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 1 |
+| Total Positions | 4 |
+| Open | 2 |
 | Closed | 2 |
 | W/L | 1/1 |
 | SOL In (closed) | 0.000200 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### ⚪ BULLY
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `4H2eEtZNzDCKcp1QSTAdxk8Zp3UeYZyUxjTvzjVcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 10:05:08 | BUY | 0.000100 | `4rWibkJu1osyx1agj12PoMDgM5Xyf1...` |
 
 ### 🔴 Ouroboros
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half

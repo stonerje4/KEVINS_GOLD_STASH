@@ -1,16 +1,16 @@
 # [TEST] Wallet: `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus`
-> Generated: 2026-03-17 10:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 1 |
-| Closed | 5 |
-| W/L | 4/1 |
-| SOL In (closed) | 0.002500 |
-| **Closed P&L** | **+0.001888 SOL** |
-| **Closed ROI** | **+75.5%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 6 |
+| W/L | 5/1 |
+| SOL In (closed) | 0.002600 |
+| **Closed P&L** | **+0.001928 SOL** |
+| **Closed ROI** | **+74.2%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
@@ -23,8 +23,8 @@
 |------|--------|-----|----|
 | 2026-03-17 07:55:19 | BUY | 0.000100 | `3cfbYY2j6AwzCDtqs9ZWzbbxNwGEws...` |
 
-### 🟢 唐子
-- **Status:** partial | **Exit:** stop_loss
+### 🔴 唐子
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.39x
 - **Mint:** `FdN7NmokGJpGP83qZMkWGH4rGfKLk6gdu3XeiiVDTRND`
 
@@ -126,6 +126,9 @@
 | 2026-03-17 10:02:01 | SELL | 0.000000 | `2h9frx8uzqy8fozN6nN3TWbKz4sDDa...` |
 | 2026-03-17 10:03:09 | SELL | 0.000000 | `2LWeLbBZG8KnXp5aQ31r3FnCcMkWqj...` |
 | 2026-03-17 10:04:17 | SELL | 0.000000 | `27BepVR5acm48Zs7yiUHuRubKJs47N...` |
+| 2026-03-17 10:05:34 | SELL | 0.000000 | `2muMWiTCLiVbwQKupm3Hg1qc8sGyLt...` |
+| 2026-03-17 10:06:44 | SELL | 0.000000 | `4eP5C3XmYySsQpFpq12NT1QqBc928J...` |
+| 2026-03-17 10:07:59 | SELL | 0.000000 | `E2XZCmZjscSrvpABGpwC8xbjJ2TYT8...` |
 
 ### 🔴 MULERUN
 - **Status:** closed | **Exit:** ghost_close_stop_loss
