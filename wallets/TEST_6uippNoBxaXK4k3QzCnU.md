@@ -1,11 +1,12 @@
 # [TEST] `6uippNoBxaXK4k3Q...`
-> 2026-03-17 18:50 UTC | **5** pos | **0W/4L** | P&L: **-0.000400 SOL** (-100.0%) | 1 open
+> 2026-03-17 18:55 UTC | **6** pos | **0W/4L** | P&L: **-0.000400 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Seized | 03-17 14:45 | 0.68x | 1.00x | 4.1h | 0.0001 |
+| DOT | 03-17 18:52 | 1.08x | 1.08x | 0.0h | 0.0001 |
+| Seized | 03-17 14:45 | 0.68x | 1.00x | 4.2h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 18:52 | DOT | BUY | 0.0001 | `2bQqP4r3C6ZWiSF4...` |
 | 03-17 14:45 | Seized | BUY | 0.0001 | `5Pro76Bbnd7Za7E9...` |
 | 03-17 11:55 | PVE | BUY | 0.0001 | `2WP5FpqTtibdcEGf...` |
 | 03-17 09:55 | Green | BUY | 0.0001 | `3uEWrp1chav1XVur...` |

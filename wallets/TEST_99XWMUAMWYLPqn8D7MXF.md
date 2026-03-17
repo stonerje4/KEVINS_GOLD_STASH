@@ -1,5 +1,11 @@
 # [TEST] `99XWMUAMWYLPqn8D...`
-> 2026-03-17 18:50 UTC | **1** pos | **1W/0L** | P&L: **+0.000007 SOL** (+6.9%) | 0 open
+> 2026-03-17 18:55 UTC | **2** pos | **1W/0L** | P&L: **+0.000007 SOL** (+6.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| house | 03-17 18:52 | 0.67x | 1.03x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 18:52 | house | BUY | 0.0001 | `5fs75CChPvG29zER...` |
 | 03-17 18:44 | JEET | SELL | 0.0001 | `5KgHB4XL7scKzMvV...` |
 | 03-17 18:35 | JEET | SELL | 0.0001 | `EJkGNNjhEvbXp2SF...` |
 | 03-17 18:30 | JEET | BUY | 0.0001 | `4ztS5GchK7HJqoP8...` |

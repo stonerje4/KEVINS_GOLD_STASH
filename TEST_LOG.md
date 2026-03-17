@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 18:50 UTC** | 7d | 1578 buys, 2043 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 18:55 UTC** | 7d | 1585 buys, 2044 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:54 | 🟢 BUY | Einstein | 0.0001 | APUYxGfK... | copy_buy | `Ra782u8brEgE...` |
+| 03-17 | 18:52 | 🟢 BUY | NINO | 0.0001 | APUYxGfK... | copy_buy | `5vZAtbfTkeSn...` |
+| 03-17 | 18:52 | 🟢 BUY | DOT | 0.0001 | 6uippNoB... | copy_buy | `2bQqP4r3C6ZW...` |
+| 03-17 | 18:52 | 🟢 BUY | house | 0.0001 | 99XWMUAM... | copy_buy | `5fs75CChPvG2...` |
+| 03-17 | 18:52 | 🟢 BUY | WASP | 0.0001 | GHy1P6vJ... | copy_buy | `37x6F1NXiPHJ...` |
+| 03-17 | 18:51 | 🔴 SELL | SMUDGE | 0.0000 | FoabCXs5... | SL | `Cs6j46ijTeUD...` |
+| 03-17 | 18:50 | 🟢 BUY | Templates | 0.0001 | APUYxGfK... | copy_buy | `4TXUzTV4Ahy2...` |
+| 03-17 | 18:50 | 🟢 BUY | INDIAN | 0.0001 | GHy1P6vJ... | copy_buy | `4QqabpckHZjv...` |
 | 03-17 | 18:49 | 💰 SELL | TRUMP | 0.0001 | 7EautDJG... | TP1 | `46JhfjR4HzVD...` |
 | 03-17 | 18:49 | 🔴 SELL | 唐 | 0.0000 | BDe7kU3V... | SL | `2hb51FnLsbQh...` |
 | 03-17 | 18:48 | 💰 SELL | ERIC | 0.0001 | 35RArQiy... | TP2 | `2shQAt7jXeeA...` |
