@@ -1,10 +1,10 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 02:20 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 11 |
-| Open | 3 |
+| Total Positions | 12 |
+| Open | 4 |
 | Closed | 8 |
 | W/L | 8/0 |
 | SOL In (closed) | 0.002300 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### ⚪ NoSense
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `Hf36tXqFFWKF8VDJVQ84TMNoic8KpaMmW4y86W5cpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:24:47 | BUY | 0.000100 | `2SZo9o6aA4Nadwd9pA6Jj5gJGHni6C...` |
 
 ### 🔴 Roni
 - **Status:** closed | **Exit:** stop_loss

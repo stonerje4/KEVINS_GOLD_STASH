@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 02:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 98 |
-| Open | 30 |
+| Total Positions | 99 |
+| Open | 31 |
 | Closed | 68 |
 | W/L | 66/2 |
 | SOL In (closed) | 0.030300 |
 | **Closed P&L** | **+0.024871 SOL** |
 | **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.004000 SOL |
+| Open Deployed | 0.004100 SOL |
 
 ## Trades
+
+### 🟢 Replacemen
+- **Status:** open | **Exit:** open
+- **Peak:** 1.03x | **Current:** 0.46x
+- **Mint:** `DfRTPtmLUC3fC5uAXxBGGW6ccRe3MdeyUHbgx1yUpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:22:06 | BUY | 0.000100 | `oj5iPjQRJDurkhd9tCMC6GnsLsKTu6...` |
 
 ### 🟢 Fakecoin
 - **Status:** open | **Exit:** open

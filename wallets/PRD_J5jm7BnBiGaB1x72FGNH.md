@@ -1,18 +1,27 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-17 02:20 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 46 |
-| Open | 3 |
+| Total Positions | 47 |
+| Open | 4 |
 | Closed | 43 |
 | W/L | 4/39 |
 | SOL In (closed) | 5.110000 |
 | **Closed P&L** | **-1.599629 SOL** |
 | **Closed ROI** | **-31.3%** |
-| Open Deployed | 0.450000 SOL |
+| Open Deployed | 0.600000 SOL |
 
 ## Trades
+
+### 🟢 TRASHBAG
+- **Status:** open | **Exit:** open
+- **Peak:** 1.32x | **Current:** 0.00x
+- **Mint:** `5bS4F42naF8obeWSYRoV7JkUPCE4hMeccqbRYx89pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:22:52 | BUY | 0.150000 | `2S1XCTtGvxpjEziYng85hocXNkiQhx...` |
 
 ### 🟢 YoungHo
 - **Status:** open | **Exit:** open

@@ -1,16 +1,16 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-17 02:20 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 14 |
-| Open | 4 |
-| Closed | 10 |
-| W/L | 2/8 |
-| SOL In (closed) | 1.500000 |
-| **Closed P&L** | **-0.043990 SOL** |
-| **Closed ROI** | **-2.9%** |
-| Open Deployed | 0.600000 SOL |
+| Open | 3 |
+| Closed | 11 |
+| W/L | 2/9 |
+| SOL In (closed) | 1.650000 |
+| **Closed P&L** | **-0.066808 SOL** |
+| **Closed ROI** | **-4.0%** |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
 
@@ -76,7 +76,7 @@
 | 2026-03-16 21:23:52 | SELL | 0.059687 | `3N6WR1eqQ6hD6sv75Lcc87Y72SyUE2...` |
 
 ### 🟢 AIFREE
-- **Status:** partial | **Exit:** open
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 2.16x | **Current:** 0.00x
 - **Mint:** `Dqckh2A2JUWVBpNAxhcVGwKNDEAer5Jf8LV76hhpump`
 
@@ -84,6 +84,7 @@
 |------|--------|-----|----|
 | 2026-03-16 19:50:22 | BUY | 0.150000 | `3q4KPpsbxLxAKPYWpKbsqmpwvy7wtG...` |
 | 2026-03-16 22:45:18 | SELL | 0.032390 | `24m6RvWFc5Dk9JyT94PiEMwpVTiQtv...` |
+| 2026-03-17 02:21:08 | SELL | 0.127182 | `5wZGXuBaFSHBd6hp1msNFrUbYRosbT...` |
 
 ### 🔴 Grandma
 - **Status:** closed | **Exit:** stop_loss

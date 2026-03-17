@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 02:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 83 |
-| Open | 58 |
+| Total Positions | 84 |
+| Open | 59 |
 | Closed | 25 |
 | W/L | 13/12 |
 | SOL In (closed) | 0.021900 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+41.4%** |
-| Open Deployed | 0.019300 SOL |
+| Open Deployed | 0.019400 SOL |
 
 ## Trades
+
+### 🟢 shadPS4
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `8C4FUxNLsmDKrrgmNsbRMiqquoPaXg7K9LE43WaMpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:22:44 | BUY | 0.000100 | `TDm4VXduDCah9myFhB5AKtnufw9CKv...` |
 
 ### 🟢 VIC20
 - **Status:** open | **Exit:** open
@@ -290,7 +299,7 @@
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `DwkjZoNj6PmJ31PNky4GeMUH6je3rCC1BdgpyCSbpump`
 
 | Time | Action | SOL | TX |
@@ -489,7 +498,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.83x
+- **Peak:** 1.06x | **Current:** 0.82x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |

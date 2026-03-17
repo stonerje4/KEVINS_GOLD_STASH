@@ -1,28 +1,29 @@
 # [TEST] Wallet: `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN`
-> Generated: 2026-03-17 02:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 2 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.002400 |
-| **Closed P&L** | **+0.002532 SOL** |
-| **Closed ROI** | **+105.5%** |
-| Open Deployed | 0.000700 SOL |
+| Open | 1 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.002500 |
+| **Closed P&L** | **+0.002599 SOL** |
+| **Closed ROI** | **+103.9%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
-### 🟢 TRASHBAG
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.42x | **Current:** 2.42x
+### 🔴 TRASHBAG
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.89x | **Current:** 0.51x
 - **Mint:** `5bS4F42naF8obeWSYRoV7JkUPCE4hMeccqbRYx89pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:08:21 | BUY | 0.000100 | `s5o4sFVRX87Z8Bfppa2cAkESUTHifw...` |
 | 2026-03-17 02:16:02 | SELL | 0.000021 | `3WMQPbez86B4bko1wTou5JXH6bUgBb...` |
+| 2026-03-17 02:23:26 | SELL | 0.000046 | `2JKkkCShukq2izBT9DKdJY1WWcfqJN...` |
 
 ### 🟢 RICH
 - **Status:** open | **Exit:** open
