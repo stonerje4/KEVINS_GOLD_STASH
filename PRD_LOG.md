@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 17:50 UTC** | 7d | 723 buys, 951 sells | In: **87.68** | Out: **81.15** | Net: **-6.53 SOL**
+> Updated: **2026-03-17 17:55 UTC** | 7d | 723 buys, 954 sells | In: **87.68** | Out: **81.37** | Net: **-6.31 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:53 | 🔴 SELL | Dozer | 0.1061 | AcWGZE1Q... | trail | `53h1b7MNpczb...` |
+| 03-17 | 17:50 | 🔴 SELL | 唐 | 0.0564 | DDApL88z... | SL | `2UySipe1ZhnU...` |
+| 03-17 | 17:50 | 🔴 SELL | 唐 | 0.0564 | DDApL88z... | SL | `4u6DLt57DiL5...` |
+| 03-17 | 17:50 | 🔴 SELL | 唐 | 0.0583 | DDApL88z... | SL | `5PAZaYXw6kd5...` |
 | 03-17 | 17:47 | 💰 SELL | xAU | 0.0775 | DHfshpzo... | TP1 | `ZYtwchYsN2Hx...` |
 | 03-17 | 17:45 | 🟢 BUY | boop | 0.1500 | DDApL88z... | copy | `4J9ov5VbdbGd...` |
 | 03-17 | 17:42 | 🟢 BUY | thinker | 0.1500 | J5jm7BnB... | copy | `4hadH6tmxNrv...` |
@@ -1676,4 +1680,3 @@
 | 03-10 | 18:14 | 🟢 BUY | Pochita | 0.0500 | 7aMgK5L4... | copy | `2gEibrTNwnNj...` |
 | 03-10 | 18:06 | 🟢 BUY | Cardboard | 0.0500 | 7aMgK5L4... | copy | `vwTzeViNhBhT...` |
 | 03-10 | 17:55 | 🟢 BUY | AuPair | 0.0500 | HMM6RoT2... | copy | `3HVBL6JRmFh9...` |
-| 03-10 | 17:51 | 💰 SELL | SPACE | 0.0507 | 9rb2ChEj... | TP1 | `5D65eMtEgfsm...` |

@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:50 UTC** | 7d | 1543 buys, 2014 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 17:55 UTC** | 7d | 1543 buys, 2019 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:54 | 💰 SELL | POW | 0.0001 | EaEf6TH8... | trail | `3YeCN4aAtvTp...` |
+| 03-17 | 17:53 | 💰 SELL | POW | 0.0000 | EaEf6TH8... | TP3 | `5J5wGYCVg3ck...` |
+| 03-17 | 17:53 | 🔴 SELL | BONKLESS | 0.0000 | EaEf6TH8... | SL | `iqs48ATqCVGi...` |
+| 03-17 | 17:51 | 💰 SELL | POW | 0.0001 | EaEf6TH8... | TP2 | `4Lh7YzJg8qGJ...` |
+| 03-17 | 17:50 | 🔴 SELL | LEPREALON | 0.0000 | AiNfNi2e... | SL | `4HyCnNA735zF...` |
 | 03-17 | 17:49 | 🟢 BUY | FGH | 0.0001 | 4VMJxCLf... | copy_buy | `9jnWodLFFNpd...` |
 | 03-17 | 17:49 | 🟢 BUY | pls | 0.0001 | 3VHz3Mhv... | copy_buy | `3hCYhFpPnwCT...` |
 | 03-17 | 17:48 | 🟢 BUY | happened | 0.0001 | BpxZNCi8... | copy_buy | `3wNm6DeaeUoZ...` |
