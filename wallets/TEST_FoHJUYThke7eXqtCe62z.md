@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 10:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -223,7 +223,7 @@
 
 ### 🟢 Toucan
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.09x | **Current:** 1.33x
+- **Peak:** 2.09x | **Current:** 1.32x
 - **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
 
 | Time | Action | SOL | TX |
@@ -485,7 +485,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.82x
+- **Peak:** 1.07x | **Current:** 0.83x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |
@@ -588,7 +588,7 @@
 
 ### 🟢 RAM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 0.73x
+- **Peak:** 1.47x | **Current:** 0.74x
 - **Mint:** `B8mrS466Jge9JMBSFQUj3PqheLXAtDs3FAhrTqb8pump`
 
 | Time | Action | SOL | TX |
@@ -645,7 +645,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.78x
+- **Peak:** 1.09x | **Current:** 0.79x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |

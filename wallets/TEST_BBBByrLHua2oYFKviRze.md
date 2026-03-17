@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 10:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 113 |
-| Open | 37 |
+| Total Positions | 114 |
+| Open | 38 |
 | Closed | 76 |
 | W/L | 70/6 |
 | SOL In (closed) | 0.031100 |
 | **Closed P&L** | **+0.025748 SOL** |
 | **Closed ROI** | **+82.8%** |
-| Open Deployed | 0.004600 SOL |
+| Open Deployed | 0.004700 SOL |
 
 ## Trades
+
+### 🟢 Mashu
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.80x
+- **Mint:** `4tZzcpfQbW5Ndwdy8azVo3qnFfbQvagC6BjyEATXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 10:56:25 | BUY | 0.000100 | `3RjMzFGa4MSwhPYFm3hhThbCeCRJpc...` |
 
 ### ⚪ RECESSION
 - **Status:** confirming | **Exit:** open

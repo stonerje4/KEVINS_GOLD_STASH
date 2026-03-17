@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 10:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -205,7 +205,7 @@
 
 ### 🟢 $LLAMA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `2mia3Krg7QayRGvAEPidCoWxBhzfjryFsEQ1Dtfhpump`
 
 | Time | Action | SOL | TX |
@@ -277,7 +277,7 @@
 
 ### 🟢 CITYGIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.80x
+- **Peak:** 1.01x | **Current:** 0.81x
 - **Mint:** `C4g6BS4xXiqo7Y6LjiLykMNdVPuJkFfj7SRDQXUBpump`
 
 | Time | Action | SOL | TX |
@@ -350,7 +350,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
