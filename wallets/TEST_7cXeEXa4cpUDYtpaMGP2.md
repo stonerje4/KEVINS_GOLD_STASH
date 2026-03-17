@@ -1,16 +1,11 @@
 # [TEST] `7cXeEXa4cpUDYtpa...`
-> 2026-03-17 15:10 UTC | **5** pos | **0W/4L** | P&L: **-0.000361 SOL** (-90.3%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Yukie | 03-17 13:56 | 0.45x | 1.65x | 1.2h | 0.0001 |
+> 2026-03-17 15:15 UTC | **5** pos | **0W/5L** | P&L: **-0.000423 SOL** (-84.5%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Yukie | -0.0001 | 03-17 13:56 | 1.7x | 03-17 15:10 | 0.0000/0.0001 | SL |
 | ❌ BULLY | -0.0001 | 03-17 10:05 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ Ouroboros | -0.0001 | 03-17 08:25 | 2.3x | 03-17 10:01 | 0.0000/0.0001 | gc_tp_2x_half |
 | ❌ 401k | -0.0001 | 03-17 06:39 | 1.9x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -20,6 +15,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:10 | Yukie | SELL | 0.0000 | `3QgbzBYRVxpS5HzY...` |
 | 03-17 13:56 | Yukie | BUY | 0.0001 | `67QjDHaFVqo2Sv5U...` |
 | 03-17 10:05 | BULLY | BUY | 0.0001 | `4rWibkJu1osyx1ag...` |
 | 03-17 08:25 | Ouroboros | BUY | 0.0001 | `dCoAQqsjYXddXHYf...` |

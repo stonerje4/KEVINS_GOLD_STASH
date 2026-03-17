@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:10 UTC** | 7d | 1377 buys, 1896 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:15 UTC** | 7d | 1381 buys, 1898 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:13 | 💰 SELL | JOEKENT | 0.0000 | EaEf6TH8... | TP1 | `5VhvUZDj7SrP...` |
+| 03-17 | 15:12 | 🟢 BUY | LEPEPE | 0.0001 | FoabCXs5... | copy_buy | `2mLah23F8Maa...` |
+| 03-17 | 15:12 | 🟢 BUY | AgentKit | 0.0001 | GHy1P6vJ... | copy_buy | `5JAfTx8fJPU7...` |
+| 03-17 | 15:12 | 🟢 BUY | GOONIVERSARY | 0.0001 | GHy1P6vJ... | copy_buy | `4uWLq6Gw4x4q...` |
+| 03-17 | 15:10 | 🟢 BUY | Mossad | 0.0001 | GHy1P6vJ... | copy_buy | `3TFwgiBiQ7Ss...` |
+| 03-17 | 15:10 | 🔴 SELL | Yukie | 0.0000 | 7cXeEXa4... | SL | `3QgbzBYRVxpS...` |
 | 03-17 | 15:05 | 🔴 SELL | Guinness | 0.0000 | BBBByrLH... | SL | `53qfEKbkx8Zx...` |
 | 03-17 | 15:04 | 💰 SELL | TRUST | 0.0015 | AJ8Gc1cY... | trail | `29hLgSwYuWSr...` |
 | 03-17 | 15:03 | 🔴 SELL | 🦎 | 0.0000 | EaEf6TH8... | trail | `3m9MUVV6E1jn...` |

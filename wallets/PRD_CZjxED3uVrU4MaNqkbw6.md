@@ -1,11 +1,11 @@
 # [PRD] `CZjxED3uVrU4MaNq...`
-> 2026-03-17 15:10 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-17 15:15 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Guinness | 03-17 15:04 | 0.00x | 1.00x | 0.1h | 0.1500 |
+| Guinness | 03-17 15:04 | 0.00x | 1.00x | 0.2h | 0.1500 |
 | BOE | 03-17 14:06 | 0.00x | 1.46x | 1.1h | 0.1500 |
 
 <details><summary>📋 Full Trade Log</summary>
