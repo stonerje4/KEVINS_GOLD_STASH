@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 11:45 UTC** | 7d | 671 buys, 917 sells | In: **78.08** | Out: **78.14** | Net: **+0.06 SOL**
+> Updated: **2026-03-17 11:47 UTC** | 7d | 672 buys, 917 sells | In: **78.23** | Out: **78.14** | Net: **-0.09 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 11:46 | 🟢 BUY | Rocky | 0.1500 | AcWGZE1Q... | copy | `4stMM3u2Gz9x...` |
 | 03-17 | 11:39 | 🟢 BUY | Kick | 0.1500 | 42nQHDpy... | copy | `3HYqTeNPRZi4...` |
 | 03-17 | 11:39 | 🟢 BUY | kekkek | 0.1500 | W5D6nFHP... | copy | `5PsuQc9i55R6...` |
 | 03-17 | 11:37 | 🟢 BUY | ANCESTORS | 0.1500 | 2w85VLX4... | copy | `5ygmVtPchtbm...` |

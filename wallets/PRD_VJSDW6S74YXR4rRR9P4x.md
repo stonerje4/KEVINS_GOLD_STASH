@@ -1,11 +1,11 @@
 # [PRD] `VJSDW6S74YXR4rRR...`
-> 2026-03-17 11:45 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 11:47 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Ancestors | 03-17 11:37 | 0.00x | 1.04x | 0.1h | 0.1500 |
+| Ancestors | 03-17 11:37 | 0.00x | 1.04x | 0.2h | 0.1500 |
 
 <details><summary>📋 Full Trade Log</summary>
 
