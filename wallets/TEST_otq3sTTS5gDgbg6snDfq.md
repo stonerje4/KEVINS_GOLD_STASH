@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 09:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Roadster
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `EkdVHcRHo5TqWqHBLfEoQyTumjW4jbxQxJwuweQ6pump`
 
 | Time | Action | SOL | TX |
@@ -259,7 +259,7 @@
 
 ### 🟢 Subagent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.92x
+- **Peak:** 1.11x | **Current:** 0.84x
 - **Mint:** `9fpxGq9sMsYATQNpzGLtXyXaLBNBbFekaj7oypYhpump`
 
 | Time | Action | SOL | TX |
@@ -341,7 +341,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |

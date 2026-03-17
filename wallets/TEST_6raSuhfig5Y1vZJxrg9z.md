@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 09:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 NOVA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.98x
+- **Peak:** 1.07x | **Current:** 0.96x
 - **Mint:** `4PbaN57B9ggth6yDEzZBhXKLqiDfiCKeD4NY6j9sjTJ8`
 
 | Time | Action | SOL | TX |
@@ -45,7 +45,7 @@
 
 ### 🟢 NEMOCLAW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `8AVbpsXyQy4fPExCq3FydnDfxfmGytvs3W7n1SVapump`
 
 | Time | Action | SOL | TX |
@@ -101,7 +101,7 @@
 
 ### 🟢 BOTTLE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.84x
+- **Peak:** 1.08x | **Current:** 0.83x
 - **Mint:** `2YMRR1vkcys54CqGeWyFCp1vKjNA82m1YDwNLz4Fpump`
 
 | Time | Action | SOL | TX |
@@ -119,7 +119,7 @@
 
 ### 🟢 2024
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.13x | **Current:** 2.28x
+- **Peak:** 3.13x | **Current:** 2.27x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |

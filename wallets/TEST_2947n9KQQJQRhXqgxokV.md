@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-17 09:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 xAU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+- **Peak:** 1.15x | **Current:** 1.10x
 - **Mint:** `3cAkwXg8NnbMpqMxR7jj62V9AoudTw9E9cfDtvP9pump`
 
 | Time | Action | SOL | TX |
@@ -133,7 +133,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.39x
+- **Peak:** 1.39x | **Current:** 1.35x
 - **Mint:** `4JB4LgobEpjnGqNr4NqdZGjz6EuvuUjeNDd9fH6qpump`
 
 | Time | Action | SOL | TX |
