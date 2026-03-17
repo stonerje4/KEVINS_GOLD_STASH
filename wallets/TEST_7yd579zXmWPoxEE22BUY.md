@@ -1,22 +1,31 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 1 |
+| Total Positions | 9 |
+| Open | 2 |
 | Closed | 7 |
 | W/L | 7/0 |
 | SOL In (closed) | 0.001700 |
 | **Closed P&L** | **+0.001757 SOL** |
 | **Closed ROI** | **+103.4%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
+### 🟢 Hyojo
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.60x
+- **Mint:** `8tvznQLMFGZWrp3h4pDAtUkPe7Xcp4SP1st8rDDFpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:33:03 | BUY | 0.000100 | `2zioWdcfdzJfwbKc9bP3ri5k32mz5B...` |
+
 ### 🟢 Hamster
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 0.91x
+- **Peak:** 1.36x | **Current:** 0.94x
 - **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
 
 | Time | Action | SOL | TX |

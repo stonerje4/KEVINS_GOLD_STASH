@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Fep
 - **Status:** open | **Exit:** open
-- **Peak:** 1.35x | **Current:** 0.53x
+- **Peak:** 1.35x | **Current:** 0.58x
 - **Mint:** `Cj1MvQtHUb3Z7fWnF4jM2DGutbt5Gh7CAFruKSTpump`
 
 | Time | Action | SOL | TX |
@@ -93,7 +93,7 @@
 
 ### 🟢 Elza
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.82x
+- **Peak:** 1.02x | **Current:** 0.74x
 - **Mint:** `H5CxsP421U4gN6BtfZQsKVs7qZeGdXqeW4uu6nAStFxK`
 
 | Time | Action | SOL | TX |

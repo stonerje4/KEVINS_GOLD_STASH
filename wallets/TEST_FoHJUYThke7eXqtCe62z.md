@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -142,7 +142,7 @@
 
 ### 🟢 Mixer
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `2zHMQd7tyH7wtT6u1tSFdFmqXnxRGFMQ7eiMLnA7pump`
 
 | Time | Action | SOL | TX |
@@ -161,7 +161,7 @@
 
 ### 🟢 Builderz
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.69x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `8SMkpgTDDthhKk594JZPbfVSDhY2rXFRq5XpHQDWpump`
 
 | Time | Action | SOL | TX |
@@ -215,7 +215,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `BnshewgbX8hy1onTNZtzDpLkdtEDTHuHDYPQStN6pump`
 
 | Time | Action | SOL | TX |

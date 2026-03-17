@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ADDICTION
 - **Status:** open | **Exit:** open
-- **Peak:** 1.98x | **Current:** 0.52x
+- **Peak:** 1.98x | **Current:** 0.51x
 - **Mint:** `3sakGzMhUQEe3Epr8spKkEoyFwuZnHQn8hht7Lyzpump`
 
 | Time | Action | SOL | TX |

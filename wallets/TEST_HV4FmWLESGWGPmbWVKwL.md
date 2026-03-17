@@ -1,5 +1,5 @@
 # [TEST] Wallet: `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks`
-> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Gany
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.07x | **Current:** 2.29x
+- **Peak:** 3.07x | **Current:** 1.60x
 - **Mint:** `Dz4bX3snTDxqdKyZwdUgKoDvSjyvmoA23E6j5odZpump`
 
 | Time | Action | SOL | TX |
