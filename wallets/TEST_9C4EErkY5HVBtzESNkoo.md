@@ -1,5 +1,5 @@
 # [TEST] `9C4EErkY5HVBtzES...`
-> 2026-03-17 22:25 UTC | **19** pos | **1W/17L** | P&L: **-0.004285 SOL** (-43.7%) | 1 open
+> 2026-03-17 22:30 UTC | **19** pos | **1W/17L** | P&L: **-0.004285 SOL** (-43.7%) | 1 open
 
 ## Open
 
@@ -39,8 +39,8 @@
 | 03-17 03:51 | Elza | SELL | 0.0001 | `52yMVYVau4tJkhN7...` |
 | 03-16 23:23 | Fep | BUY | 0.0001 | `57i7jGxYHEqnBbZk...` |
 | 03-16 23:20 | Sanmao | BUY | 0.0001 | `65LHMvV4rdwpnRj1...` |
-| 03-16 19:13 | ルクマ | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Childlike | SELL | 0.0001 | `?` |
+| 03-16 19:13 | ルクマ | SELL | 0.0001 | `?` |
 | 03-16 18:55 | AntiAI | SELL | 0.0006 | `?` |
 | 03-16 10:58 | ZIO | SELL | 0.0010 | `3jr4qav4Fhj8VRHK...` |
 | 03-16 10:37 | ZIO | SELL | 0.0004 | `5orCV9WngD9BTW1v...` |

@@ -1,5 +1,11 @@
 # [TEST] `Aj6cr5Q3iKpkuujn...`
-> 2026-03-17 22:25 UTC | **4** pos | **1W/3L** | P&L: **-0.000601 SOL** (-31.6%) | 0 open
+> 2026-03-17 22:30 UTC | **5** pos | **1W/3L** | P&L: **-0.000601 SOL** (-31.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| SIGIL | 03-17 22:26 | 1.69x | 1.69x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -14,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:26 | SIGIL | BUY | 0.0001 | `3duKuhqH3swzKKps...` |
 | 03-17 04:39 | QAIA | SELL | 0.0000 | `3xzcpe2bcghWug6h...` |
 | 03-17 03:59 | QAIA | BUY | 0.0001 | `ZrtHZ4MeoNVHyyKU...` |
 | 03-16 06:46 | JARVIS | BUY | 0.0006 | `5gZ9zqBLNJHbArmZ...` |

@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:25 UTC** | 7d | 1748 buys, 2181 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:30 UTC** | 7d | 1751 buys, 2184 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:29 | 🟢 BUY | Microphallus | 0.0001 | BBBByrLH... | copy_buy | `bH97METazjeb...` |
+| 03-17 | 22:29 | 🔴 SELL | Solanass | 0.0000 | GRnCsBLj... | trail | `3CNPWE6g5UL4...` |
+| 03-17 | 22:28 | 🔴 SELL | Solanass | 0.0001 | GRnCsBLj... | trail | `DjWzZYBixMtq...` |
+| 03-17 | 22:26 | 🟢 BUY | SIGIL | 0.0001 | Aj6cr5Q3... | copy_buy | `3duKuhqH3swz...` |
+| 03-17 | 22:26 | 🟢 BUY | CHIBI | 0.0001 | BBBByrLH... | copy_buy | `6269SSZpkZeD...` |
+| 03-17 | 22:25 | 💰 SELL | Dogeeto | 0.0001 | EyeSFbqH... | TP1 | `2WDGktnuDBUf...` |
 | 03-17 | 22:24 | 🟢 BUY | SENEGAL | 0.0001 | GvksYkES... | copy_buy | `3L6okMbhGCQ4...` |
 | 03-17 | 22:23 | 🟢 BUY | Senegal | 0.0001 | BBBByrLH... | copy_buy | `4gGeohrSHkcH...` |
 | 03-17 | 22:23 | 🟢 BUY | DOGEETO | 0.0001 | Hc4AA7vE... | copy_buy | `4pu8H7vX1QQK...` |
