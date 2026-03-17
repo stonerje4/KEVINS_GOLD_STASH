@@ -1,16 +1,16 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-17 10:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 4 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000035 SOL** |
-| **Closed ROI** | **+34.6%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 5 |
+| Closed | 0 |
+| W/L | 0/0 |
+| SOL In (closed) | 0.000000 |
+| **Closed P&L** | **+0.000000 SOL** |
+| **Closed ROI** | **+0.0%** |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
@@ -51,8 +51,8 @@
 |------|--------|-----|----|
 | 2026-03-16 15:43:25 | BUY | 0.000100 | `5BqzEbWzN5z7qbPVgqwqATb668EEZs...` |
 
-### 🔴 TJR
-- **Status:** closing | **Exit:** stop_loss
+### 🟢 TJR
+- **Status:** partial | **Exit:** stop_loss
 - **Peak:** 1.01x | **Current:** 0.35x
 - **Mint:** `8BTZX2EJoKFB4XsWvYZN9zP6ENZptRCoiPBCidHbpump`
 
@@ -162,4 +162,8 @@
 | 2026-03-17 09:56:56 | SELL | 0.000000 | `5Necz7S7cQxVP84sqKfaT6gm7MuMGP...` |
 | 2026-03-17 09:58:11 | SELL | 0.000000 | `4WML1wAs5KtoFCc73Zc373yHqNmpJH...` |
 | 2026-03-17 09:59:27 | SELL | 0.000000 | `cspnk2u4rYcTvGKETLgyxHqHERwxjQ...` |
+| 2026-03-17 10:00:41 | SELL | 0.000000 | `2fUXqdMNA2bVzCLncFsgTRL57PmYwT...` |
+| 2026-03-17 10:01:52 | SELL | 0.000000 | `4QUQVDgsqDZnemxDhX8HM8hmpoMeoS...` |
+| 2026-03-17 10:03:01 | SELL | 0.000000 | `3mh6SrdPSctJaTn5XyxdKs5hf1QG24...` |
+| 2026-03-17 10:04:09 | SELL | 0.000000 | `5ZnbwxUWVcQy6S9sSnrDPjZkyiPNH9...` |
 

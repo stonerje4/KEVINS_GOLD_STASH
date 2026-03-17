@@ -1,16 +1,16 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 10:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 125 |
-| Open | 35 |
-| Closed | 90 |
-| W/L | 89/1 |
-| SOL In (closed) | 0.037000 |
-| **Closed P&L** | **+0.030910 SOL** |
-| **Closed ROI** | **+83.5%** |
-| Open Deployed | 0.004800 SOL |
+| Open | 36 |
+| Closed | 89 |
+| W/L | 88/1 |
+| SOL In (closed) | 0.036900 |
+| **Closed P&L** | **+0.030745 SOL** |
+| **Closed ROI** | **+83.3%** |
+| Open Deployed | 0.004900 SOL |
 
 ## Trades
 
@@ -33,7 +33,7 @@
 | 2026-03-17 09:39:23 | BUY | 0.000100 | `32uDf3yVsZfR3AVj25sv7ueAFFrGqL...` |
 
 ### 🟢 FP
-- **Status:** closing | **Exit:** runner_trailing_stop
+- **Status:** partial | **Exit:** runner_trailing_stop
 - **Peak:** 3.15x | **Current:** 1.27x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
@@ -94,10 +94,14 @@
 | 2026-03-17 09:57:18 | SELL | 0.000000 | `2K1D8aTFDmjKgz8ztF4TYPwDGKLhDF...` |
 | 2026-03-17 09:58:33 | SELL | 0.000000 | `5JXzV8hS4E3gD2SNgQtFmXxcyf51Y4...` |
 | 2026-03-17 09:59:49 | SELL | 0.000000 | `4DSwf33Ls2eS89NwCHLbYSkDWUpGPS...` |
+| 2026-03-17 10:00:58 | SELL | 0.000000 | `4bWma3AARxyEYJM4u7ceQqkxa1nnYM...` |
+| 2026-03-17 10:02:09 | SELL | 0.000000 | `2TXvNXgqajusSN7HYBCricJ3tLTMxQ...` |
+| 2026-03-17 10:03:17 | SELL | 0.000000 | `3iPJA9P5V2XLw5tABUfKEuPCWE79Uz...` |
+| 2026-03-17 10:04:26 | SELL | 0.000000 | `4oi8UMMvwRYMZ3D4gE5K8oWYDn7ovf...` |
 
 ### 🟢 TIKI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.45x
+- **Peak:** 1.00x | **Current:** 0.47x
 - **Mint:** `23CNu7k565sWWzQQ8DdwapuFuCbPCxGYpucLjt1opump`
 
 | Time | Action | SOL | TX |
@@ -116,7 +120,7 @@
 
 ### 🟢 ARTEMIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.78x
+- **Peak:** 1.12x | **Current:** 0.76x
 - **Mint:** `5Yy9zyQpZLeyVUJ2f49XQpKGgGabEtx8PZHueDtHpump`
 
 | Time | Action | SOL | TX |
@@ -144,7 +148,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 0.97x
+- **Peak:** 2.02x | **Current:** 0.86x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -311,7 +315,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.35x | **Current:** 1.96x
+- **Peak:** 2.35x | **Current:** 1.95x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

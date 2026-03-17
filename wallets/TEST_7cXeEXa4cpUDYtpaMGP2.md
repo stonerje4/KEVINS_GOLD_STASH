@@ -1,22 +1,22 @@
 # [TEST] Wallet: `7cXeEXa4cpUDYtpaMGP2rc7pe1LJB6M93DtiVJswpbrJ`
-> Generated: 2026-03-17 10:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 2 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
+| Open | 1 |
+| Closed | 2 |
+| W/L | 1/1 |
+| SOL In (closed) | 0.000200 |
 | **Closed P&L** | **+0.000039 SOL** |
-| **Closed ROI** | **+38.6%** |
-| Open Deployed | 0.000200 SOL |
+| **Closed ROI** | **+19.3%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 Ouroboros
-- **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 1.54x
+### 🔴 Ouroboros
+- **Status:** closed | **Exit:** ghost_close_tp_2x_half
+- **Peak:** 2.34x | **Current:** 2.34x
 - **Mint:** `2yeyNC83oe3kht8Jnsd4xsrL64X35RYFKgZQakEdpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 401k
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 0.93x
+- **Peak:** 1.10x | **Current:** 0.92x
 - **Mint:** `B9Tyqo7A1B8wE9TTQV1BupP5A6LMiaTLiHv8sdQLpump`
 
 | Time | Action | SOL | TX |

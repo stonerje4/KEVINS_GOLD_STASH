@@ -1,18 +1,27 @@
 # [TEST] Wallet: `GGbGeDC9M45YUU34o51Xj8UjzAzBMVaboFykvh5h4e6D`
-> Generated: 2026-03-17 10:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000089 SOL** |
 | **Closed ROI** | **+88.9%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 UGOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.09x | **Current:** 1.09x
+- **Mint:** `3UaZsmciGs4br3r8g6hLU2CuG1hYmAMeri4znoQxpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 10:01:45 | BUY | 0.000100 | `BqMq7eLqpJMHvU5WHfmr5xfh5Ews35...` |
 
 ### 🟢 USDC
 - **Status:** open | **Exit:** open
