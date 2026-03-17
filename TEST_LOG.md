@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:50 UTC** | 7d | 1318 buys, 1845 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:55 UTC** | 7d | 1322 buys, 1848 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:55 | 🟢 BUY | JONES | 0.0001 | BBBByrLH... | copy_buy | `2ZQkXo9iBYFC...` |
+| 03-17 | 13:54 | 🟢 BUY | Kick | 0.0001 | GHy1P6vJ... | copy_buy | `3rarDmDvpzTq...` |
+| 03-17 | 13:54 | 🟢 BUY | LULU | 0.0001 | CT8wxJuP... | copy_buy | `4gtwNs1YNsW9...` |
+| 03-17 | 13:53 | 🔴 SELL | Lucky | 0.0001 | 35RArQiy... | trail | `d3EyfHuwq2v2...` |
+| 03-17 | 13:53 | 🟢 BUY | JONES | 0.0001 | GHy1P6vJ... | copy_buy | `5xuZN6UkMNtW...` |
+| 03-17 | 13:52 | 💰 SELL | TRUST | 0.0001 | AJ8Gc1cY... | tp_10x_trim | `3dbP44HiLy4t...` |
+| 03-17 | 13:51 | 🔴 SELL | Yukie  | 0.0000 | BBBByrLH... | SL | `4eVMVDqppXsU...` |
 | 03-17 | 13:49 | 🟢 BUY | SIRIUX | 0.0001 | 6raSuhfi... | copy_buy | `2bjkkuRAopPu...` |
 | 03-17 | 13:49 | 🟢 BUY | COALMAXXING | 0.0001 | GHy1P6vJ... | copy_buy | `Nw1fi7rRg6NU...` |
 | 03-17 | 13:47 | 🔴 SELL | Yukie | 0.0000 | BBBByrLH... | SL | `23Qb6yheJ6wK...` |
