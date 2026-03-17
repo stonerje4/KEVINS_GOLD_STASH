@@ -1,11 +1,11 @@
 # [TEST] `4yKnfzcf98jm5z3u...`
-> 2026-03-17 11:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 11:45 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BEPE | 03-17 06:20 | 1.39x | 1.42x | 5.3h | 0.0001 |
+| BEPE | 03-17 06:20 | 1.39x | 1.42x | 5.4h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

@@ -1,13 +1,13 @@
 # [TEST] `3VHz3MhvcbdxceVs...`
-> 2026-03-17 11:40 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
+> 2026-03-17 11:45 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| PROSUMER | 03-17 07:01 | 0.65x | 1.00x | 4.6h | 0.0001 |
-| Glassworm | 03-17 01:19 | 0.72x | 1.02x | 10.3h | 0.0001 |
-| OpenSquirrel | 03-16 14:53 | 0.62x | 1.06x | 20.8h | 0.0001 |
+| PROSUMER | 03-17 07:01 | 0.65x | 1.00x | 4.7h | 0.0001 |
+| Glassworm | 03-17 01:19 | 0.72x | 1.02x | 10.4h | 0.0001 |
+| OpenSquirrel | 03-16 14:53 | 0.62x | 1.06x | 20.9h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

@@ -1,13 +1,13 @@
 # [TEST] `BDe7kU3VqgW2hYkj...`
-> 2026-03-17 11:40 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
+> 2026-03-17 11:45 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | Clove | 03-17 04:18 | 0.94x | 1.02x | 7.4h | 0.0001 |
-| SKIBIDOG | 03-17 03:53 | 0.77x | 1.00x | 7.8h | 0.0001 |
-| Shamsy | 03-17 03:34 | 0.54x | 1.23x | 8.1h | 0.0001 |
+| SKIBIDOG | 03-17 03:53 | 0.77x | 1.00x | 7.9h | 0.0001 |
+| Shamsy | 03-17 03:34 | 0.54x | 1.23x | 8.2h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
