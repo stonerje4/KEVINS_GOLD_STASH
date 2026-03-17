@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 FP
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.15x | **Current:** 1.90x
+- **Peak:** 3.15x | **Current:** 1.60x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
 | Time | Action | SOL | TX |
@@ -74,7 +74,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 0.80x
+- **Peak:** 2.02x | **Current:** 0.96x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -99,6 +99,10 @@
 | 2026-03-17 08:46:29 | SELL | 0.000000 | `3zqnf1wzSrbm4cLKYQDeNNGc2hYxzC...` |
 | 2026-03-17 08:47:37 | SELL | 0.000000 | `3NfNmGYjk4n7uBpqWKQubEnzrZStyU...` |
 | 2026-03-17 08:48:50 | SELL | 0.000000 | `5B7EhLSzuVLdzbRmRx6Jgj2CPJw5Mb...` |
+| 2026-03-17 08:50:04 | SELL | 0.000000 | `4EuXcKVkvNryGxNAKDUAMd27euV4xc...` |
+| 2026-03-17 08:51:13 | SELL | 0.000000 | `4J3DqfkwgTjMzqrg1ww3escVvdPTfA...` |
+| 2026-03-17 08:52:24 | SELL | 0.000000 | `CnarZk4Hopu2LL25PjGAaRaNXqCdzy...` |
+| 2026-03-17 08:53:33 | SELL | 0.000000 | `3vqxLyzbhctAXsMUimRDezCPW7qSvg...` |
 
 ### 🟢 NoseBoop
 - **Status:** open | **Exit:** open
@@ -185,7 +189,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.59x | **Current:** 4.20x
+- **Peak:** 4.59x | **Current:** 4.12x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |

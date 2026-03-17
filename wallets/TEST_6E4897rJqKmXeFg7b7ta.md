@@ -1,22 +1,22 @@
 # [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
-> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 2 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000600 |
+| Open | 1 |
+| Closed | 2 |
+| W/L | 0/2 |
+| SOL In (closed) | 0.000700 |
 | **Closed P&L** | **+0.000000 SOL** |
 | **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 ANGELA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.55x
+### 🔴 ANGELA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.04x | **Current:** 0.40x
 - **Mint:** `3Y7qT7op83eTkjHkmBCNE8EYbGC68mr5Vv9hvDVcpump`
 
 | Time | Action | SOL | TX |

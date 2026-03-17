@@ -1,22 +1,22 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 6 |
-| Closed | 4 |
-| W/L | 2/2 |
-| SOL In (closed) | 0.001400 |
+| Open | 5 |
+| Closed | 5 |
+| W/L | 2/3 |
+| SOL In (closed) | 0.001500 |
 | **Closed P&L** | **+0.002816 SOL** |
-| **Closed ROI** | **+201.2%** |
-| Open Deployed | 0.000600 SOL |
+| **Closed ROI** | **+187.8%** |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
-### 🟢 LAZY
-- **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 0.41x
+### 🔴 LAZY
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.31x | **Current:** 0.37x
 - **Mint:** `EkepxDYmu4Znpj4PJr7yC96kQmG2FWyFE4aeYTtZpump`
 
 | Time | Action | SOL | TX |

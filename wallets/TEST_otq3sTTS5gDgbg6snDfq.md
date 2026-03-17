@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Roadster
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `EkdVHcRHo5TqWqHBLfEoQyTumjW4jbxQxJwuweQ6pump`
 
 | Time | Action | SOL | TX |
@@ -286,7 +286,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `BWokmiUXPVnNtMDp4Hy1y1mM9Fy1QntHBye9aZiPpump`
 
 | Time | Action | SOL | TX |
@@ -369,13 +369,14 @@
 
 ### 🟢 BMAP
 - **Status:** partial | **Exit:** stale_cleanup
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:24:35 | BUY | 0.000600 | `qh2hyMzq3opZDrAy1GeggJZ8BU9jsm...` |
 | 2026-03-17 07:52:36 | SELL | 0.000079 | `5eTYjLK78qwNkvYHcZn1GmBoYzQ1Lr...` |
+| 2026-03-17 08:53:44 | SELL | 0.000080 | `27jjWf56FLbXfH4cq2HctGeuy23M4y...` |
 
 ### 🔴 Hector
 - **Status:** closed | **Exit:** stale_cleanup

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 1.86x
+- **Peak:** 3.16x | **Current:** 1.77x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -2283,6 +2283,7 @@
 |------|--------|-----|----|
 | 2026-03-16 04:31:09 | BUY | 0.000600 | `5jXUoMFp9PXYp5tZwnvyhBMmTtREsW...` |
 | 2026-03-17 07:52:38 | SELL | 0.000077 | `28tMttGw54vjJDv8eiWSpUBCG3pRB2...` |
+| 2026-03-17 08:53:47 | SELL | 0.000076 | `E2fyVBwpwfY5wtxJuAjxgH9JjVpNbe...` |
 
 ### 🔴 SUPER
 - **Status:** closed | **Exit:** ghost_close_stop_loss
