@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:55 UTC** | 7d | 1729 buys, 2166 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:00 UTC** | 7d | 1735 buys, 2170 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:59 | 🟢 BUY | WARBILL | 0.0001 | GHy1P6vJ... | copy_buy | `2BbXdPrBBhZW...` |
+| 03-17 | 21:57 | 🔴 SELL | DUNE | 0.0001 | 35RArQiy... | trail | `2QrTmoxGYbbr...` |
+| 03-17 | 21:57 | 🟢 BUY | Springfield | 0.0001 | HV4FmWLE... | copy_buy | `3GaAgkdAzmBh...` |
+| 03-17 | 21:57 | 🟢 BUY | Inumortal | 0.0001 | Lfw99jsE... | copy_buy | `4nHRxnU4GPFG...` |
+| 03-17 | 21:56 | 🟢 BUY | HARAMBEETO | 0.0001 | GHy1P6vJ... | copy_buy | `5EfHMZSKfKAU...` |
+| 03-17 | 21:56 | 🔴 SELL | DLSS5 | 0.0001 | HLLBMegP... | stale_cleanu | `4VkjxyQiwXR1...` |
+| 03-17 | 21:56 | 🔴 SELL | Lucky | 0.0001 | FoHJUYTh... | stale_cleanu | `3AJLStxLiBiN...` |
+| 03-17 | 21:56 | 🔴 SELL | SPC | 0.0001 | AiNfNi2e... | stale_cleanu | `5X9yhunabdEs...` |
+| 03-17 | 21:56 | 🟢 BUY | EA | 0.0001 | Lfw99jsE... | copy_buy | `5LPSEeakmdtH...` |
+| 03-17 | 21:55 | 🟢 BUY | PATRIOT | 0.0001 | E5sZTG93... | copy_buy | `5dvAvdBr8iMM...` |
 | 03-17 | 21:54 | 🔴 SELL | Patrickabu | 0.0000 | 42nQHDpy... | SL | `3A1Da5nWvGcW...` |
 | 03-17 | 21:54 | 🟢 BUY | LASTMAN | 0.0001 | Lfw99jsE... | copy_buy | `tcvULtC6hw2Y...` |
 | 03-17 | 21:52 | 💰 SELL | Kagi | 0.0001 | 42nQHDpy... | TP2 | `3GKfigkEtswq...` |

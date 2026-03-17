@@ -1,5 +1,11 @@
 # [TEST] `HV4FmWLESGWGPmbW...`
-> 2026-03-17 21:55 UTC | **7** pos | **2W/5L** | P&L: **-0.003743 SOL** (-30.9%) | 0 open
+> 2026-03-17 22:00 UTC | **8** pos | **2W/5L** | P&L: **-0.003743 SOL** (-30.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Springfield | 03-17 21:57 | 0.96x | 1.26x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -17,6 +23,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:57 | Springfield | BUY | 0.0001 | `3GaAgkdAzmBhDpHZ...` |
 | 03-17 21:47 | Speak | SELL | 0.0001 | `4B5hgWx1rBaLdRuq...` |
 | 03-17 21:40 | Speak | SELL | 0.0001 | `3CJiMk1JZWdYSTzW...` |
 | 03-17 21:30 | Speak | SELL | 0.0001 | `26iswbrw6xCo2SXm...` |

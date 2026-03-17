@@ -1,11 +1,12 @@
 # [TEST] `E5sZTG938YDE7PrV...`
-> 2026-03-17 21:55 UTC | **5** pos | **0W/4L** | P&L: **-0.000328 SOL** (-82.0%) | 1 open
+> 2026-03-17 22:00 UTC | **6** pos | **0W/4L** | P&L: **-0.000328 SOL** (-82.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Molt.id | 03-17 16:14 | 0.81x | 1.09x | 5.7h | 0.0001 |
+| PATRIOT | 03-17 21:55 | 1.03x | 1.07x | 0.1h | 0.0001 |
+| Molt.id | 03-17 16:14 | 0.81x | 1.09x | 5.8h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:55 | PATRIOT | BUY | 0.0001 | `5dvAvdBr8iMMuraa...` |
 | 03-17 20:37 | SLAPP | SELL | 0.0000 | `7GXo6PDarG2ZFtPo...` |
 | 03-17 19:04 | SLAPP | BUY | 0.0001 | `4io4BVzyTHzQR2oa...` |
 | 03-17 16:49 | Invincible | SELL | 0.0000 | `5HaMdPLjAMPQpU99...` |

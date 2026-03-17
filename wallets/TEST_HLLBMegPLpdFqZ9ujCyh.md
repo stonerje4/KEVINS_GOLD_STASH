@@ -1,16 +1,17 @@
 # [TEST] `HLLBMegPLpdFqZ9u...`
-> 2026-03-17 21:55 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 22:00 UTC | **1** pos | **0W/1L** | P&L: **-0.000015 SOL** (-14.6%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| DLSS5 | 03-17 13:13 | 0.85x | 1.00x | 8.7h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ DLSS5 | -0.0000 | 03-17 13:13 | 1.0x | 03-17 21:56 | 0.0001/0.0001 | stale_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:56 | DLSS5 | SELL | 0.0001 | `4VkjxyQiwXR1iCHa...` |
 | 03-17 13:13 | DLSS5 | BUY | 0.0001 | `2PqPMu7TnSGf9zhR...` |
 
 </details>
