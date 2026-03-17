@@ -1,12 +1,13 @@
 # [TEST] `2autqiinD2k2f1rb...`
-> 2026-03-17 15:30 UTC | **5** pos | **1W/2L** | P&L: **-0.000212 SOL** (-26.5%) | 2 open
+> 2026-03-17 15:35 UTC | **6** pos | **1W/2L** | P&L: **-0.000212 SOL** (-26.5%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| RAFA | 03-17 13:16 | 0.65x | 1.10x | 2.2h | 0.0001 |
-| AlphA | 03-17 11:56 | 1.08x | 1.79x | 3.6h | 0.0001 |
+| USEFUL | 03-17 15:30 | 0.61x | 1.28x | 0.1h | 0.0001 |
+| RAFA | 03-17 13:16 | 0.67x | 1.10x | 2.3h | 0.0001 |
+| AlphA | 03-17 11:56 | 1.16x | 1.79x | 3.6h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:30 | USEFUL | BUY | 0.0001 | `YmKkaTc11eLgJH41...` |
 | 03-17 13:37 | MEMSIE | SELL | 0.0001 | `MbU1qJikFoqrnM2Z...` |
 | 03-17 13:23 | MEMSIE | SELL | 0.0000 | `GwEmVBNPsZmETzBK...` |
 | 03-17 13:18 | MEMSIE | SELL | 0.0000 | `3uPDgFqxY9wUpnbf...` |

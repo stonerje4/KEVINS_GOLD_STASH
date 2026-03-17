@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:30 UTC** | 7d | 1396 buys, 1904 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:35 UTC** | 7d | 1398 buys, 1911 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:34 | 💰 SELL | USEFUL | 0.0000 | FzMeg6P2... | TP2 | `28BwzQ84Kz1J...` |
+| 03-17 | 15:33 | 💰 SELL | KENNY | 0.0001 | EaEf6TH8... | tp_8x_trim | `5abxVkBRkZTy...` |
+| 03-17 | 15:33 | 💰 SELL | KENNY | 0.0001 | EaEf6TH8... | TP4 | `5vuZAYNdaZmW...` |
+| 03-17 | 15:32 | 🔴 SELL | crine | 0.0000 | BmXugVGY... | SL | `8cV9kZVMNABj...` |
+| 03-17 | 15:31 | 💰 SELL | 󠀠 | 0.0000 | AJ8Gc1cY... | TP1 | `4CksD6EVeLLE...` |
+| 03-17 | 15:31 | 💰 SELL | JOEKENT | 0.0001 | EaEf6TH8... | trail | `3SLsw2YS7CSW...` |
+| 03-17 | 15:30 | 💰 SELL | USEFUL | 0.0000 | FzMeg6P2... | TP1 | `1az7bN2ArDQM...` |
+| 03-17 | 15:30 | 🟢 BUY | USEFUL | 0.0001 | 2autqiin... | copy_buy | `YmKkaTc11eLg...` |
+| 03-17 | 15:30 | 🟢 BUY | X-Cell | 0.0001 | otq3sTTS... | copy_buy | `28AXN2ANSrVw...` |
 | 03-17 | 15:29 | 🔴 SELL | Unicode | 0.0000 | FzMeg6P2... | SL | `3pTeSmZNLsMP...` |
 | 03-17 | 15:27 | 🟢 BUY | Waiter | 0.0001 | GHy1P6vJ... | copy_buy | `57VHjTRNMned...` |
 | 03-17 | 15:26 | 🟢 BUY | BCC | 0.0001 | CZjxED3u... | copy_buy | `4XBqTcy4sARj...` |

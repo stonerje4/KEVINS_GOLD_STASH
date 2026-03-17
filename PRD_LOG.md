@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 15:30 UTC** | 7d | 694 buys, 940 sells | In: **82.43** | Out: **79.95** | Net: **-2.48 SOL**
+> Updated: **2026-03-17 15:35 UTC** | 7d | 694 buys, 941 sells | In: **82.53** | Out: **80.03** | Net: **-2.50 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:33 | 💰 SELL | KENNY | 0.0896 | 42nQHDpy... | TP3 | `2h7UaPQEFt8U...` |
+| 03-17 | 15:30 | 🟢 BUY | crine | 0.1500 | 42nQHDpy... | copy | `3TWLHtAPbr4Y...` |
 | 03-17 | 15:26 | 🟢 BUY | BCC | 0.1500 | CZjxED3u... | copy | `5BWt1u38ynXT...` |
 | 03-17 | 15:23 | 💰 SELL | KENNY | 0.0469 | 42nQHDpy... | TP2 | `8jupCWVy3zzP...` |
 | 03-17 | 15:23 | 🔴 SELL | TOKEN | 0.0545 | 2w85VLX4... | SL | `3EMj3k2dzgD7...` |
@@ -1636,4 +1638,3 @@
 | 03-10 | 15:55 | 🟢 BUY | Replacement | 0.0500 | HMM6RoT2... | copy | `3voGj7NPNb2b...` |
 | 03-10 | 15:46 | 🟢 BUY | Yoshi | 0.0500 | 9rb2ChEj... | copy | `5Lk9DTUEDGaP...` |
 | 03-10 | 15:43 | 🟢 BUY | SPACE | 0.0500 | 9rb2ChEj... | copy | `36qGDPFH6sbg...` |
-| 03-10 | 15:34 | 🟢 BUY | 𝕏 Card  | 0.0500 | 4uCx1BG5... | copy | `4U5Ay4hqjcvW...` |
