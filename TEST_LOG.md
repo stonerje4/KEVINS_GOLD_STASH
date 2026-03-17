@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:35 UTC** | 7d | 1754 buys, 2189 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:40 UTC** | 7d | 1759 buys, 2194 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:39 | 🔴 SELL | Sandcat | 0.0000 | 6qTPHgnS... | SL | `5MbHjZSu9LoZ...` |
+| 03-17 | 22:38 | 🟢 BUY | Soyjak | 0.0001 | H5T9MYu8... | copy_buy | `49rzqQpy1u86...` |
+| 03-17 | 22:37 | 🟢 BUY | Microphallus | 0.0001 | BZmxuXQ6... | copy_buy | `gv2uipNaorPA...` |
+| 03-17 | 22:37 | 🟢 BUY | Aishah | 0.0001 | BBBByrLH... | copy_buy | `4erWjxSx47x3...` |
+| 03-17 | 22:37 | 🟢 BUY | Meningitis | 0.0001 | E5sZTG93... | copy_buy | `2CWwtDLXZifc...` |
+| 03-17 | 22:36 | 💰 SELL | YOU | 0.0000 | 99XWMUAM... | TP3 | `tjG5C8sYkiJK...` |
+| 03-17 | 22:35 | 💰 SELL | Nanobot | 0.0001 | 35RArQiy... | TP1 | `kNEr2Q9n6hUf...` |
+| 03-17 | 22:35 | 🔴 SELL | LASTMAN | 0.0000 | Lfw99jsE... | SL | `j5vsNWpoFMRn...` |
+| 03-17 | 22:35 | 💰 SELL | BBX | 0.0001 | 6E4897rJ... | TP1 | `5ncYJ9JSHWs3...` |
+| 03-17 | 22:35 | 🟢 BUY | MM | 0.0001 | otq3sTTS... | copy_buy | `ivKwT2MG2hdj...` |
 | 03-17 | 22:34 | 🟢 BUY | NANOBOTS | 0.0001 | 6raSuhfi... | copy_buy | `35UwYGR1x6of...` |
 | 03-17 | 22:33 | 🟢 BUY | Afcon | 0.0001 | 7yd579zX... | copy_buy | `YYE2RJaFkgG4...` |
 | 03-17 | 22:33 | 💰 SELL | ACTIII | 0.0001 | 35RArQiy... | TP2 | `54zMMXGkn714...` |

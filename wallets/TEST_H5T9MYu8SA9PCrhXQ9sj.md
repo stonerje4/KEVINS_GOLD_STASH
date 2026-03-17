@@ -1,5 +1,11 @@
 # [TEST] `H5T9MYu8SA9PCrhX...`
-> 2026-03-17 22:35 UTC | **4** pos | **0W/4L** | P&L: **-0.000502 SOL** (-35.9%) | 0 open
+> 2026-03-17 22:40 UTC | **5** pos | **0W/4L** | P&L: **-0.000502 SOL** (-35.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Soyjak | 03-17 22:38 | 0.77x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -14,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:38 | Soyjak | BUY | 0.0001 | `49rzqQpy1u86Q4v4...` |
 | 03-17 05:57 | TITAN | SELL | 0.0001 | `4biiWJmGMVVoriJe...` |
 | 03-17 05:28 | WALL-E | BUY | 0.0001 | `55prj5XGAou6QKYg...` |
 | 03-17 04:24 | TITAN | SELL | 0.0000 | `3ACgArys6HxnKwTU...` |

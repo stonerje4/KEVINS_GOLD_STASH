@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 22:35 UTC** | 7d | 759 buys, 1003 sells | In: **94.78** | Out: **87.37** | Net: **-7.41 SOL**
+> Updated: **2026-03-17 22:40 UTC** | 7d | 759 buys, 1004 sells | In: **94.78** | Out: **87.42** | Net: **-7.36 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:39 | 🔴 SELL | Sandcat | 0.0580 | 6qTPHgnS... | SL | `2zFdSeizQCpX...` |
 | 03-17 | 22:20 | 🟢 BUY | YoungHo | 0.1500 | J5jm7BnB... | copy | `4BrfU4nPYvZC...` |
 | 03-17 | 22:14 | 🟢 BUY | ACTIII | 0.1500 | E79aNzAk... | copy | `4yKeCuTx2npj...` |
 | 03-17 | 22:13 | 🔴 SELL | chad | 0.1252 | AF5Txaad... | trail | `4CkDUkdHv3FS...` |

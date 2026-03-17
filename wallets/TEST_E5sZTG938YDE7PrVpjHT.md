@@ -1,12 +1,13 @@
 # [TEST] `E5sZTG938YDE7PrV...`
-> 2026-03-17 22:35 UTC | **6** pos | **0W/4L** | P&L: **-0.000328 SOL** (-82.0%) | 2 open
+> 2026-03-17 22:40 UTC | **7** pos | **0W/4L** | P&L: **-0.000328 SOL** (-82.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| PATRIOT | 03-17 21:55 | 1.08x | 1.28x | 0.7h | 0.0001 |
-| Molt.id | 03-17 16:14 | 0.81x | 1.09x | 6.3h | 0.0001 |
+| Meningitis | 03-17 22:37 | 1.15x | 1.15x | 0.0h | 0.0001 |
+| PATRIOT | 03-17 21:55 | 1.11x | 1.28x | 0.7h | 0.0001 |
+| Molt.id | 03-17 16:14 | 0.81x | 1.09x | 6.4h | 0.0001 |
 
 ## Closed
 
@@ -21,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:37 | Meningitis | BUY | 0.0001 | `2CWwtDLXZifcz4LR...` |
 | 03-17 21:55 | PATRIOT | BUY | 0.0001 | `5dvAvdBr8iMMuraa...` |
 | 03-17 20:37 | SLAPP | SELL | 0.0000 | `7GXo6PDarG2ZFtPo...` |
 | 03-17 19:04 | SLAPP | BUY | 0.0001 | `4io4BVzyTHzQR2oa...` |
