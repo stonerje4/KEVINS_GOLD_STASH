@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 08:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.011400 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+28.1%** |
-| Open Deployed | 0.013200 SOL |
+| Open Deployed | 0.013300 SOL |
 
 ## Trades
 
-### ⚪ Roadster
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 Roadster
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
 - **Mint:** `EkdVHcRHo5TqWqHBLfEoQyTumjW4jbxQxJwuweQ6pump`
 
 | Time | Action | SOL | TX |
@@ -268,7 +268,7 @@
 
 ### 🟢 CITYGIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.81x
+- **Peak:** 1.01x | **Current:** 0.82x
 - **Mint:** `C4g6BS4xXiqo7Y6LjiLykMNdVPuJkFfj7SRDQXUBpump`
 
 | Time | Action | SOL | TX |
@@ -369,7 +369,7 @@
 
 ### 🟢 BMAP
 - **Status:** partial | **Exit:** stale_cleanup
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
