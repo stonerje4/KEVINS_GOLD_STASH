@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:12 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.49x | **Current:** 3.36x
+- **Peak:** 7.49x | **Current:** 3.26x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +212,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.89x | **Current:** 2.76x
+- **Peak:** 3.89x | **Current:** 2.71x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -1008,7 +1008,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.69x
+- **Peak:** 1.80x | **Current:** 0.61x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -1527,7 +1527,7 @@
 
 ### 🟢 礼貌猫
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.77x
+- **Peak:** 1.37x | **Current:** 0.70x
 - **Mint:** `AfirRxnYwoA3hkKoiJdhLaPoa73rvs1enCqtf8Rrpump`
 
 | Time | Action | SOL | TX |
@@ -1606,7 +1606,7 @@
 
 ### 🟢 Tuff
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.71x
+- **Peak:** 1.00x | **Current:** 0.72x
 - **Mint:** `Hg3vZYMmaaTo6jFbBtK8a4HQ4uc7w5TipmakUepMpump`
 
 | Time | Action | SOL | TX |

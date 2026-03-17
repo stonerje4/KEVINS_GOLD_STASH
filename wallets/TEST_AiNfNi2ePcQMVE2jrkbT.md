@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:12 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.90x
+- **Peak:** 1.03x | **Current:** 0.89x
 - **Mint:** `FBcmXXWRscafFoJafLyR3yD6npYrLCbTR8Gtpohcpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 21.91x | **Current:** 19.33x
+- **Peak:** 21.91x | **Current:** 20.02x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |

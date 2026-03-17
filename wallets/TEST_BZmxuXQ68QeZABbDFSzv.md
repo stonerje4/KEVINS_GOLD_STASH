@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q`
-> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:12 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 2 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **-0.000061 SOL** |
-| **Closed ROI** | **-61.1%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 2 |
+| W/L | 0/2 |
+| SOL In (closed) | 0.000200 |
+| **Closed P&L** | **-0.000120 SOL** |
+| **Closed ROI** | **-60.1%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
@@ -24,14 +24,15 @@
 | 2026-03-17 03:53:00 | BUY | 0.000100 | `5MuNyTX1SJTChKNTLF4CDPTP3k4gvS...` |
 | 2026-03-17 05:41:41 | SELL | 0.000039 | `5Svq4L4Tx4iLwFTHAmGs8NYehr7zys...` |
 
-### 🟢 imagineslop
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.48x
+### 🔴 imagineslop
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.40x
 - **Mint:** `EM7haNYD5mcYzZmbDDd2KNtHjcep5Tj1FUajCsCFpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:55:17 | BUY | 0.000100 | `2oEcqrrTMZk1h6WAkXb4XqYEx3VKcC...` |
+| 2026-03-17 11:11:12 | SELL | 0.000041 | `51DxCSa42qTbA6xV4FWEoJVeoqMuS5...` |
 
 ### 🟢 Tabby
 - **Status:** open | **Exit:** open
