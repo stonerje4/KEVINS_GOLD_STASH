@@ -1,16 +1,16 @@
-# [TEST] `HLLBMegPLpdFqZ9u...`
+# [TEST] `6qTPHgnSZZUy5Aeo...`
 > 2026-03-17 16:00 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DLSS5 | 03-17 13:13 | 0.85x | 1.00x | 2.8h | 0.0001 |
+| HEISEI | 03-17 15:56 | 0.74x | 1.00x | 0.1h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-17 13:13 | DLSS5 | BUY | 0.0001 | `2PqPMu7TnSGf9zhR...` |
+| 03-17 15:56 | HEISEI | BUY | 0.0001 | `5AQFoM5bc23kKhsQ...` |
 
 </details>

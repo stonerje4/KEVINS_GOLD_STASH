@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:55 UTC** | 7d | 1413 buys, 1924 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:00 UTC** | 7d | 1418 buys, 1928 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:59 | 🟢 BUY | NORB | 0.0001 | AJ8Gc1cY... | copy_buy | `3iAeyLPwvTRz...` |
+| 03-17 | 15:58 | 🟢 BUY | aion | 0.0001 | AJ8Gc1cY... | copy_buy | `5mTAyzW1AyCo...` |
+| 03-17 | 15:58 | 🟢 BUY | UGOR | 0.0001 | BGGJhxGX... | copy_buy | `2Ub7PszKA84B...` |
+| 03-17 | 15:57 | 🔴 SELL | RAFA | 0.0000 | HWbeENL8... | SL | `3w7SnKmR1ppB...` |
+| 03-17 | 15:56 | 🟢 BUY | finger | 0.0001 | 6raSuhfi... | copy_buy | `2KY4yx3Gz73U...` |
+| 03-17 | 15:56 | 🟢 BUY | HEISEI | 0.0001 | 6qTPHgnS... | copy_buy | `5AQFoM5bc23k...` |
+| 03-17 | 15:56 | 🔴 SELL | ANFISA | 0.0000 | AbrUQawz... | SL | `5AivudyDdJdQ...` |
+| 03-17 | 15:56 | 💰 SELL | HEISEI | 0.0001 | E79aNzAk... | trail | `53nyE8LPYAih...` |
+| 03-17 | 15:56 | 💰 SELL | Rosei | 0.0002 | AJ8Gc1cY... | trail | `2pvFv4dTtkPU...` |
 | 03-17 | 15:54 | 🟢 BUY | ANFISA | 0.0001 | AbrUQawz... | copy_buy | `2zWwSNec2cAG...` |
 | 03-17 | 15:54 | 💰 SELL | HEISEI | 0.0000 | E79aNzAk... | TP2 | `DVVGWwqEfhKg...` |
 | 03-17 | 15:52 | 💰 SELL | Waiter | 0.0001 | GHy1P6vJ... | TP3 | `3MMBeBzxQtzY...` |

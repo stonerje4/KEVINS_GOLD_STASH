@@ -1,16 +1,11 @@
 # [TEST] `E79aNzAkDa92b5bn...`
-> 2026-03-17 15:55 UTC | **3** pos | **1W/1L** | P&L: **+0.000098 SOL** (+48.9%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| HEISEI | 03-17 15:42 | 2.40x | 3.14x | 0.2h | 0.0001 |
+> 2026-03-17 16:00 UTC | **3** pos | **2W/1L** | P&L: **+0.000161 SOL** (+53.7%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ✅ HEISEI | +0.0001 | 03-17 15:42 | 3.1x | 03-17 15:56 | 0.0002/0.0001 | trail |
 | ✅ CLAW3D | +0.0002 | 03-17 13:30 | 7.7x | 03-17 14:51 | 0.0003/0.0001 | trail |
 | ❌ laptop | -0.0001 | 03-16 15:42 | 1.7x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
@@ -18,6 +13,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:56 | HEISEI | SELL | 0.0001 | `53nyE8LPYAihP1Fc...` |
 | 03-17 15:54 | HEISEI | SELL | 0.0000 | `DVVGWwqEfhKgVrP8...` |
 | 03-17 15:51 | HEISEI | SELL | 0.0000 | `4Csztqq7cnsdFHLK...` |
 | 03-17 15:42 | HEISEI | BUY | 0.0001 | `2a3Shz3m7TbBnNn8...` |

@@ -1,11 +1,12 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-17 15:55 UTC | **17** pos | **2W/14L** | P&L: **+0.000401 SOL** (+15.4%) | 1 open
+> 2026-03-17 16:00 UTC | **18** pos | **2W/14L** | P&L: **+0.000401 SOL** (+15.4%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SIRIUX | 03-17 13:49 | 0.62x | 1.55x | 2.1h | 0.0001 |
+| finger | 03-17 15:56 | 0.42x | 1.04x | 0.1h | 0.0001 |
+| SIRIUX | 03-17 13:49 | 0.64x | 1.55x | 2.2h | 0.0001 |
 
 ## Closed
 
@@ -32,6 +33,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:56 | finger | BUY | 0.0001 | `2KY4yx3Gz73UsnmW...` |
 | 03-17 13:49 | SIRIUX | BUY | 0.0001 | `2bjkkuRAopPunxTp...` |
 | 03-17 08:00 | NOVA | BUY | 0.0001 | `4DfHxhHQp99YNSxz...` |
 | 03-17 04:20 | BITCOIN | SELL | 0.0000 | `2rmN365tnQQ8j7La...` |

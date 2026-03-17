@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 15:55 UTC** | 7d | 694 buys, 943 sells | In: **82.73** | Out: **80.22** | Net: **-2.51 SOL**
+> Updated: **2026-03-17 16:00 UTC** | 7d | 694 buys, 944 sells | In: **82.93** | Out: **80.25** | Net: **-2.68 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:58 | 🟢 BUY | UGOR | 0.1500 | BGGJhxGX... | copy | `4RuwkWXNH86B...` |
+| 03-17 | 15:57 | 🔴 SELL | HEISEI | 0.0345 | 6qTPHgnS... | SL | `2DYifkC9dLG2...` |
+| 03-17 | 15:57 | 🟢 BUY | HEISEI | 0.1500 | 6qTPHgnS... | copy | `4ZsSd4rpwYPH...` |
 | 03-17 | 15:54 | 🟢 BUY | HEISEI | 0.1500 | 6qTPHgnS... | copy | `5mLgWB8wYc2f...` |
 | 03-17 | 15:42 | 🔴 SELL | IQ | 0.0590 | 7aMgK5L4... | SL | `aWgSdWP5GKcb...` |
 | 03-17 | 15:39 | 🟢 BUY | PATRIOT | 0.1500 | 42nQHDpy... | copy | `2KWVKWtK3VyB...` |
@@ -1638,5 +1641,3 @@
 | 03-10 | 17:03 | 🟢 BUY | Gerald | 0.0500 | HMM6RoT2... | copy | `35PBe2kQF7WT...` |
 | 03-10 | 16:29 | 🔴 SELL | RYOPPIPPI | 0.0199 | H3DXv3Ef... | SL | `4edTpZyk53nB...` |
 | 03-10 | 16:27 | 🟢 BUY | creature | 0.0500 | HMM6RoT2... | copy | `416BMfzm1iNp...` |
-| 03-10 | 15:59 | 🟢 BUY | UXR | 0.0500 | gAd5gDX6... | copy | `KJ9QYFp4Wfxm...` |
-| 03-10 | 15:55 | 🟢 BUY | Replacement | 0.0500 | HMM6RoT2... | copy | `3voGj7NPNb2b...` |
