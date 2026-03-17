@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo`
-> Generated: 2026-03-17 06:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 0 |
+| Total Positions | 5 |
+| Open | 1 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.002400 |
 | **Closed P&L** | **+0.001387 SOL** |
 | **Closed ROI** | **+57.8%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 SLOWDENG
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.56x
+- **Mint:** `J15vg5cxbKvNiYxz7QcuZtMG9mNVMb78oLkFQKqvpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 06:01:11 | BUY | 0.000100 | `232QdnCtqMGREj1uSCmF6tmC5mCz1F...` |
 
 ### 🔴 RICHIE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

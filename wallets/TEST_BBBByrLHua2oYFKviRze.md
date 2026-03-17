@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 06:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Lucky
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.59x
+- **Peak:** 1.00x | **Current:** 0.45x
 - **Mint:** `G1aXZDGxrgXsnzRdrX6XX7nB9E92wJQajJfeok8cpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 INTROSPECTION
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.68x
+- **Peak:** 1.00x | **Current:** 0.67x
 - **Mint:** `2ttk3pzQmVDDSuDuvNcsMtJW33b98cwCvkDpvYdos6eh`
 
 | Time | Action | SOL | TX |
@@ -264,7 +264,7 @@
 
 ### 🟢 FUNNYBOT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `9jV2dmQn9Tj41g6FA5Z7hrxV7XRgaUeHEWesmw7Fpump`
 
 | Time | Action | SOL | TX |

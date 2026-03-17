@@ -1,5 +1,5 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 06:00 UTC | Environment: **PRD**
+> Generated: 2026-03-17 06:05 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,17 +15,18 @@
 ## Trades
 
 ### 🟢 OKARA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.77x | **Current:** 2.77x
 - **Mint:** `Gc3J24TWcjKVBMxYJJthEoPhJjqafYbz7uyjUmejpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 05:59:25 | BUY | 0.000100 | `3eEsBCt6ofkyWVbmExw8XhrPhFokSH...` |
+| 2026-03-17 06:04:15 | SELL | 0.000022 | `66tox4MimuZAG53uCzWGtJsYtBqHVy...` |
 
 ### 🟢 SYNTHRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `64smUjiG5wzHSYbZzbB8EVL6zsnUC5KPRCA3UCrApump`
 
 | Time | Action | SOL | TX |
@@ -64,7 +65,7 @@
 
 ### 🟢 honkermog
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 1.75x
+- **Peak:** 2.44x | **Current:** 1.55x
 - **Mint:** `2Z5BMaPjri6gsK7i7LHDmdfQrkpV9kbkVnrsosvNpump`
 
 | Time | Action | SOL | TX |
