@@ -1,8 +1,9 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 11:55 UTC** | 7d | 1257 buys, 1804 sells | In: **0.46** | Out: **0.30** | Net: **-0.16 SOL**
+> Updated: **2026-03-17 11:56 UTC** | 7d | 1258 buys, 1804 sells | In: **0.46** | Out: **0.30** | Net: **-0.16 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 11:55 | 🟢 BUY | PVE | 0.0001 | 6uippNoB... | copy_buy | `2WP5FpqTtibd...` |
 | 03-17 | 11:32 | 💰 SELL | PIKAHORSE | 0.0002 | AiNfNi2e... | tp_15x_trim | `53pBB8d9RZwP...` |
 | 03-17 | 11:23 | 💰 SELL | BBX | 0.0002 | BKphAyRd... | trail | `kSjrA3U46C9Q...` |
 | 03-17 | 11:11 | 🔴 SELL | imagineslop | 0.0000 | BZmxuXQ6... | SL | `51DxCSa42qTb...` |
