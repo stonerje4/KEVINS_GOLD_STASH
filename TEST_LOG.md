@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:45 UTC** | 7d | 1315 buys, 1840 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:50 UTC** | 7d | 1318 buys, 1845 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:49 | 🟢 BUY | SIRIUX | 0.0001 | 6raSuhfi... | copy_buy | `2bjkkuRAopPu...` |
+| 03-17 | 13:49 | 🟢 BUY | COALMAXXING | 0.0001 | GHy1P6vJ... | copy_buy | `Nw1fi7rRg6NU...` |
+| 03-17 | 13:47 | 🔴 SELL | Yukie | 0.0000 | BBBByrLH... | SL | `23Qb6yheJ6wK...` |
+| 03-17 | 13:47 | 💰 SELL | TRUST | 0.0001 | AJ8Gc1cY... | tp_8x_trim | `2FNKsfjDJ9vM...` |
+| 03-17 | 13:45 | 💰 SELL | CLAW3D | 0.0000 | E79aNzAk... | TP2 | `4XixSWMcZW26...` |
+| 03-17 | 13:45 | 🟢 BUY | Yukie  | 0.0001 | BBBByrLH... | copy_buy | `37DGjxKdf9kh...` |
+| 03-17 | 13:45 | 💰 SELL | L/0 | 0.0000 | EaEf6TH8... | TP2 | `4UiEyiTWYzpR...` |
+| 03-17 | 13:45 | 💰 SELL | TRUST | 0.0001 | AJ8Gc1cY... | TP4 | `UrzVnrcGrxaW...` |
 | 03-17 | 13:44 | 🟢 BUY | Yukie | 0.0001 | BBBByrLH... | copy_buy | `5nNrNobRMft3...` |
 | 03-17 | 13:44 | 🟢 BUY | Rosei | 0.0001 | AJ8Gc1cY... | copy_buy | `26njuMuXQqbw...` |
 | 03-17 | 13:41 | 🟢 BUY | Lucky | 0.0001 | EaEf6TH8... | copy_buy | `3cdSuB7Jpt7v...` |

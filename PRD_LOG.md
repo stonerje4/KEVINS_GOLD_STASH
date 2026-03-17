@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 13:45 UTC** | 7d | 687 buys, 922 sells | In: **80.68** | Out: **78.93** | Net: **-1.75 SOL**
+> Updated: **2026-03-17 13:50 UTC** | 7d | 688 buys, 923 sells | In: **80.83** | Out: **78.99** | Net: **-1.84 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:47 | 🟢 BUY | Yukie | 0.1500 | 2w85VLX4... | copy | `5kYWPtAn2GNK...` |
+| 03-17 | 13:45 | 🔴 SELL | ? | 0.0582 | VJSDW6S7... | SL | `4Mivn9S1Jngi...` |
 | 03-17 | 13:42 | 🔴 SELL | ? | 0.0572 | VJSDW6S7... | SL | `3WVRwdvZq4Ya...` |
 | 03-17 | 13:42 | 🟢 BUY | SPC | 0.1500 | 42nQHDpy... | copy | `5SUAJ9voYXMq...` |
 | 03-17 | 13:41 | 🟢 BUY | Glorp | 0.1500 | BNCSPd6Q... | copy | `2wCKBGoHPdSu...` |

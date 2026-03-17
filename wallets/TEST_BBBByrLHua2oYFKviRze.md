@@ -1,17 +1,18 @@
 # [TEST] `BBBByrLHua2oYFKv...`
-> 2026-03-17 13:45 UTC | **118** pos | **17W/99L** | P&L: **-0.009918 SOL** (-27.5%) | 2 open
+> 2026-03-17 13:50 UTC | **119** pos | **17W/100L** | P&L: **-0.009983 SOL** (-27.6%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Yukie | 03-17 13:44 | 0.00x | 1.00x | 0.0h | 0.0001 |
-| ANIMAL | 03-17 13:39 | 0.54x | 1.13x | 0.1h | 0.0001 |
+| Yukie  | 03-17 13:45 | 0.49x | 1.19x | 0.1h | 0.0001 |
+| ANIMAL | 03-17 13:39 | 0.52x | 1.13x | 0.2h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Yukie | -0.0001 | 03-17 13:44 | 1.6x | 03-17 13:47 | 0.0000/0.0001 | SL |
 | ❌ Out | -0.0001 | 03-17 13:28 | 1.0x | 03-17 13:35 | 0.0000/0.0001 | SL |
 | ❌ ALIEN GANY | -0.0001 | 03-17 13:14 | 1.0x | 03-17 13:31 | 0.0000/0.0001 | SL |
 | ❌ Mashu | -0.0001 | 03-17 10:56 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -133,6 +134,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:47 | Yukie | SELL | 0.0000 | `23Qb6yheJ6wKRWZ6...` |
+| 03-17 13:45 | Yukie  | BUY | 0.0001 | `37DGjxKdf9kh9Xk1...` |
 | 03-17 13:44 | Yukie | BUY | 0.0001 | `5nNrNobRMft32rVS...` |
 | 03-17 13:39 | ANIMAL | BUY | 0.0001 | `fT7EoDuadkdiJ7XL...` |
 | 03-17 13:35 | Out | SELL | 0.0000 | `5ZxXVc74Crt4AZdc...` |
@@ -182,8 +185,8 @@
 | 03-16 23:18 | ClaudeDog | SELL | 0.0000 | `2RsKAKNrGHF2yki4...` |
 | 03-16 23:18 | Moumou | SELL | 0.0001 | `5DHD5u3wnSpd6Sq2...` |
 | 03-16 23:18 | pandas | SELL | 0.0001 | `5DVzjdXPhjuAdHEv...` |
-| 03-16 19:13 | Glowcat | SELL | 0.0001 | `?` |
 | 03-16 19:13 | SAMO | SELL | 0.0003 | `?` |
+| 03-16 19:13 | Glowcat | SELL | 0.0001 | `?` |
 | 03-16 18:25 | Moumou | SELL | 0.0000 | `4bPuZP4uWxbVX7WJ...` |
 | 03-16 18:22 | Moumou | SELL | 0.0000 | `4nTcpFFNrJWQkY1j...` |
 | 03-16 18:18 | ClaudeDog | BUY | 0.0001 | `449x3quteUGhYpAP...` |
