@@ -1,4 +1,4 @@
-# [TEST] Wallet: `GRnCsBLjtB61MdMEN6ANdezgU5ootwVEbUT2ZYyv18hq`
+# [TEST] Wallet: `6J4pufDxsTRMedej1aSNhzjbScgLqci2cGEqQAs9MJbz`
 > Generated: 2026-03-17 06:20 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 Gany
+### 🟢 RouRou
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
-- **Mint:** `2NMC6NymEHsPtLjrRTv7sVbSynESphdcA6Es2wRopump`
+- **Peak:** 1.00x | **Current:** 0.44x
+- **Mint:** `gYtLm8ccLeM7Ww8ppq6mfLhG2tpMkXoYxYtTst1pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-17 04:42:44 | BUY | 0.000100 | `YJNSiDqZMxBu41255C9JLDRNd75BiN...` |
+| 2026-03-17 06:17:55 | BUY | 0.000100 | `L8Xtwbuy7Qs5P4QprnZawzcnNeDcj1...` |
 

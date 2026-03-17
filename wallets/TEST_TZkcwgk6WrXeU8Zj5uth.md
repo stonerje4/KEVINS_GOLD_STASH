@@ -1,27 +1,28 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 06:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 8 |
-| Open | 2 |
-| Closed | 6 |
-| W/L | 6/0 |
-| SOL In (closed) | 0.000600 |
-| **Closed P&L** | **+0.000327 SOL** |
-| **Closed ROI** | **+54.5%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 7 |
+| W/L | 7/0 |
+| SOL In (closed) | 0.000700 |
+| **Closed P&L** | **+0.000365 SOL** |
+| **Closed ROI** | **+52.2%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 MC
-- **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 0.61x
+### 🔴 MC
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.17x | **Current:** 0.38x
 - **Mint:** `A44mkFWvDfgTP2URNvSVmBJSJkoJVeYMuV9T5uLCpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 05:32:28 | BUY | 0.000100 | `2W33wfF36Qp1thi3oREMKc7RWRMUrs...` |
+| 2026-03-17 06:18:30 | SELL | 0.000038 | `227inayDkAcwrBEmXYym6Ft7nD41DB...` |
 
 ### 🔴 BITCOIN
 - **Status:** closed | **Exit:** runner_trailing_stop

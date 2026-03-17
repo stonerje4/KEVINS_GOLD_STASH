@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 06:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 DYOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 1.05x
+- **Peak:** 1.27x | **Current:** 1.08x
 - **Mint:** `CFzhoZQZqosY2gpuaknoSfWpF3tYSjCcm7H1jvuipump`
 
 | Time | Action | SOL | TX |
@@ -142,7 +142,7 @@
 
 ### 🟢 Don Tzu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.76x | **Current:** 1.04x
+- **Peak:** 1.76x | **Current:** 1.02x
 - **Mint:** `59VtFUYQ1qsxho2bF72xvt9BuSLkxZzCi4GXkKXEpump`
 
 | Time | Action | SOL | TX |
@@ -305,7 +305,7 @@
 
 ### 🟢 MCoins
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.68x
+- **Peak:** 1.00x | **Current:** 0.67x
 - **Mint:** `EYhtmNznq4BF1qJHj2s6SmvQBfA6JDNjococNzCSpump`
 
 | Time | Action | SOL | TX |

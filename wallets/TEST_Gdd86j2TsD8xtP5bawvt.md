@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 06:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 TOILS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.97x
+- **Peak:** 1.06x | **Current:** 0.59x
 - **Mint:** `4WvDUrZtJkepsRMvaRdsdjFnuqppjx8asnMyiTWRpump`
 
 | Time | Action | SOL | TX |

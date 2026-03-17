@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 06:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -197,7 +197,7 @@
 
 ### 🟢 goon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.90x
+- **Peak:** 1.01x | **Current:** 0.79x
 - **Mint:** `8BAZVgXTtrYQn8zT4raxprRwiHTVdYcKpF36nxUcpump`
 
 | Time | Action | SOL | TX |
@@ -620,7 +620,7 @@
 
 ### 🟢 Minecraft
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `FLhogsmiJFdTAguBw1csum4PicbDVucrbNxkT2Uupump`
 
 | Time | Action | SOL | TX |
