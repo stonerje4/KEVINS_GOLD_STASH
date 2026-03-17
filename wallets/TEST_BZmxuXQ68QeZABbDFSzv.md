@@ -1,11 +1,11 @@
 # [TEST] `BZmxuXQ68QeZABbD...`
-> 2026-03-17 22:00 UTC | **5** pos | **0W/4L** | P&L: **-0.000280 SOL** (-70.1%) | 1 open
+> 2026-03-17 22:05 UTC | **5** pos | **0W/4L** | P&L: **-0.000280 SOL** (-70.1%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Daisy | 03-17 21:05 | 1.41x | 1.48x | 0.9h | 0.0001 |
+| Daisy | 03-17 21:05 | 1.71x | 2.05x | 1.0h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:00 | Daisy | SELL | 0.0001 | `2BP5Z5LZ9hYBoSXn...` |
 | 03-17 21:05 | Daisy | BUY | 0.0001 | `4j6ftCT5Td9zqz5V...` |
 | 03-17 19:13 | KIt | SELL | 0.0000 | `4zii8usM4mqCrGE3...` |
 | 03-17 19:07 | KIt | BUY | 0.0001 | `666g4mMbeADrUUj8...` |

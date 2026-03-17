@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:00 UTC** | 7d | 1735 buys, 2170 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:05 UTC** | 7d | 1737 buys, 2173 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:03 | 🟢 BUY | chad | 0.0001 | 5dd3zjBQ... | copy_buy | `5SkY7jNHyfsY...` |
+| 03-17 | 22:01 | 🔴 SELL | Oranges | 0.0000 | EyeSFbqH... | SL | `31FxsYACajH4...` |
+| 03-17 | 22:00 | 💰 SELL | Daisy | 0.0001 | BZmxuXQ6... | TP1 | `2BP5Z5LZ9hYB...` |
+| 03-17 | 22:00 | 🟢 BUY | LUCKYDOGE | 0.0001 | Hc4AA7vE... | copy_buy | `5PzV19shFvzr...` |
+| 03-17 | 22:00 | 🔴 SELL | EA | 0.0000 | Lfw99jsE... | SL | `5FKUa9TZDqg5...` |
 | 03-17 | 21:59 | 🟢 BUY | WARBILL | 0.0001 | GHy1P6vJ... | copy_buy | `2BbXdPrBBhZW...` |
 | 03-17 | 21:57 | 🔴 SELL | DUNE | 0.0001 | 35RArQiy... | trail | `2QrTmoxGYbbr...` |
 | 03-17 | 21:57 | 🟢 BUY | Springfield | 0.0001 | HV4FmWLE... | copy_buy | `3GaAgkdAzmBh...` |

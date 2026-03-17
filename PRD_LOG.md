@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 22:00 UTC** | 7d | 758 buys, 1000 sells | In: **94.23** | Out: **86.86** | Net: **-7.37 SOL**
+> Updated: **2026-03-17 22:05 UTC** | 7d | 759 buys, 999 sells | In: **94.38** | Out: **86.77** | Net: **-7.61 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:03 | 🟢 BUY | chad | 0.1500 | AF5Txaad... | copy | `3i1x9QywDrPL...` |
 | 03-17 | 21:59 | 🔴 SELL | Speak | 0.1114 | 2w85VLX4... | trail | `VBzwj7CB1vCq...` |
 | 03-17 | 21:59 | 💰 SELL | Daisy | 0.0807 | 5n593DWQ... | TP1 | `4Am9HXQtVYkn...` |
 | 03-17 | 21:46 | 🔴 SELL | commotitty | 0.0381 | 3HGqppv8... | SL | `2nFqm6z1bL6t...` |
@@ -1760,4 +1761,3 @@
 | 03-10 | 22:14 | 🟢 BUY | Florky | 0.0500 | 9rb2ChEj... | copy | `5rcXgXduDPfy...` |
 | 03-10 | 22:08 | 🟢 BUY | FLORK | 0.0500 | HMM6RoT2... | copy | `L1HvchWgvEoh...` |
 | 03-10 | 22:08 | 🟢 BUY | archie | 0.0500 | 9rb2ChEj... | copy | `2Cc9aU6GZP9k...` |
-| 03-10 | 22:00 | 💰 SELL | creature | 0.0896 | HMM6RoT2... | trail | `3RVD43UyzzwD...` |

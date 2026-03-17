@@ -1,5 +1,11 @@
 # [TEST] `Hc4AA7vEuFwp7ZZJ...`
-> 2026-03-17 22:00 UTC | **5** pos | **1W/4L** | P&L: **-0.000148 SOL** (-29.6%) | 0 open
+> 2026-03-17 22:05 UTC | **6** pos | **1W/4L** | P&L: **-0.000148 SOL** (-29.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| LUCKYDOGE | 03-17 22:00 | 1.05x | 1.05x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -15,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:00 | LUCKYDOGE | BUY | 0.0001 | `5PzV19shFvzrpUQE...` |
 | 03-17 14:18 | MILK | BUY | 0.0001 | `5JQF8RrJsxjGB1CN...` |
 | 03-17 10:07 | Truth | SELL | 0.0000 | `mdd8WySWiQbwYN2q...` |
 | 03-17 10:06 | Truth | SELL | 0.0000 | `4ZARE92xdQrQ9UAG...` |
