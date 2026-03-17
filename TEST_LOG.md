@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:00 UTC** | 7d | 1646 buys, 2091 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:05 UTC** | 7d | 1648 buys, 2093 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:04 | 🔴 SELL | Antichrist | 0.0000 | BBBByrLH... | SL | `4MG5hrTeYE84...` |
+| 03-17 | 20:03 | 🟢 BUY | JACKPOT | 0.0001 | BBBByrLH... | copy_buy | `3Z3Zvd4gkve5...` |
+| 03-17 | 20:00 | 🟢 BUY | Pussies | 0.0001 | otq3sTTS... | copy_buy | `3ZiWdAbvBKLb...` |
+| 03-17 | 20:00 | 💰 SELL | clawchain | 0.0001 | GHy1P6vJ... | trail | `2hwVbLXTep6v...` |
 | 03-17 | 19:59 | 🟢 BUY | GANYMEDE | 0.0001 | EaEf6TH8... | copy_buy | `652YHYMxddmH...` |
 | 03-17 | 19:59 | 🟢 BUY | Antichrist | 0.0001 | BBBByrLH... | copy_buy | `3LgAcz4xSvEj...` |
 | 03-17 | 19:59 | 🟢 BUY | DONKEY | 0.0001 | 35RArQiy... | copy_buy | `3xt2ShZpzdkA...` |

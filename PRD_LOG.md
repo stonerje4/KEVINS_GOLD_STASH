@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 20:00 UTC** | 7d | 737 buys, 976 sells | In: **90.58** | Out: **84.41** | Net: **-6.17 SOL**
+> Updated: **2026-03-17 20:05 UTC** | 7d | 738 buys, 977 sells | In: **90.73** | Out: **84.49** | Net: **-6.24 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:03 | 🟢 BUY | VULTURE | 0.1500 | 3HGqppv8... | copy | `2yGaLk6rHNNT...` |
+| 03-17 | 20:01 | 💰 SELL | kiwi | 0.0802 | 2w85VLX4... | TP1 | `3jpfSES8ELp9...` |
 | 03-17 | 19:57 | 🔴 SELL | ? | 0.0571 | 3HGqppv8... | SL | `3G6TiPxwrJvS...` |
 | 03-17 | 19:54 | 🟢 BUY | LEPRESTAR | 0.1500 | 42nQHDpy... | copy | `Xw3YGpfW9aUG...` |
 | 03-17 | 19:54 | 🟢 BUY | Akhal-Teke | 0.1500 | BNCSPd6Q... | copy | `6KD9eC7BsSTc...` |
