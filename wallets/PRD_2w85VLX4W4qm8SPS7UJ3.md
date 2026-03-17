@@ -1,11 +1,12 @@
 # [PRD] `2w85VLX4W4qm8SPS...`
-> 2026-03-17 12:15 UTC | **37** pos | **16W/20L** | P&L: **+1.821348 SOL** (+46.3%) | 1 open
+> 2026-03-17 12:20 UTC | **38** pos | **16W/20L** | P&L: **+1.821348 SOL** (+46.3%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| ANCESTORS | 03-17 11:37 | 0.00x | 1.92x | 0.6h | 0.1500 |
+| F/ACC | 03-17 12:19 | 0.00x | 1.00x | 0.0h | 0.1500 |
+| ANCESTORS | 03-17 11:37 | 0.00x | 1.92x | 0.7h | 0.1500 |
 
 ## Closed
 
@@ -52,6 +53,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:19 | F/ACC | BUY | 0.1500 | `33jDttB2uzqmWr46...` |
 | 03-17 11:37 | ANCESTORS | BUY | 0.1500 | `5ygmVtPchtbm92yt...` |
 | 03-17 08:48 | CC | SELL | 0.0853 | `3MFzYnxnzUjgqHak...` |
 | 03-16 23:17 | REDHEAD | SELL | 0.0642 | `36xRjPvZv4XJrDEm...` |

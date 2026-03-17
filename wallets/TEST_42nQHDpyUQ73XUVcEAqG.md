@@ -1,5 +1,11 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-17 12:15 UTC | **19** pos | **2W/17L** | P&L: **+0.001595 SOL** (+46.9%) | 0 open
+> 2026-03-17 12:20 UTC | **20** pos | **2W/17L** | P&L: **+0.001595 SOL** (+46.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Jorge | 03-17 12:18 | 1.27x | 1.27x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -29,6 +35,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:18 | Jorge | BUY | 0.0001 | `womwmupXDDvuyXqY...` |
 | 03-17 10:33 | AHAHA | SELL | 0.0001 | `5poBgGhbNaX1aNzG...` |
 | 03-17 09:30 | Green | BUY | 0.0001 | `5xuM2sAgfnejLKex...` |
 | 03-17 08:42 | Chester  | BUY | 0.0001 | `5QeFhpN78bnrJxti...` |
