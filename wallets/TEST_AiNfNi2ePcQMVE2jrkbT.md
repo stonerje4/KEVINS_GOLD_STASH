@@ -1,22 +1,31 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 07:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 1 |
+| Total Positions | 4 |
+| Open | 2 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.000200 |
 | **Closed P&L** | **+0.000077 SOL** |
 | **Closed ROI** | **+38.4%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
 
+### 🟢 MULE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.89x
+- **Mint:** `CNvpUrwm7E2QAezwKpm4nfUFM8ALtJ8jcXuJ67ccpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:17:15 | BUY | 0.000100 | `yNs2eHnxZXRRoCByMNhbAYh8TnTnit...` |
+
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 11.84x | **Current:** 7.88x
+- **Peak:** 11.84x | **Current:** 6.46x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |

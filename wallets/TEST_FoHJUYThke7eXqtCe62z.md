@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 07:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -178,7 +178,7 @@
 
 ### 🟢 Toucan
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.09x | **Current:** 1.55x
+- **Peak:** 2.09x | **Current:** 1.53x
 - **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
 
 | Time | Action | SOL | TX |
@@ -287,7 +287,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.79x
+- **Peak:** 1.09x | **Current:** 0.80x
 - **Mint:** `8TLJGfW2xjoJK34DaKcP4g1xWVuqWSePEgm885Qnpump`
 
 | Time | Action | SOL | TX |

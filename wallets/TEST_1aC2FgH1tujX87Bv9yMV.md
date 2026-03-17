@@ -1,5 +1,5 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-17 07:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -35,7 +35,7 @@
 
 ### 🟢 Doraemon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.66x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `2gMpasEn6vUQ6bSWmSDTrcjmhFZ2G2i5iEvW6yr2pump`
 
 | Time | Action | SOL | TX |

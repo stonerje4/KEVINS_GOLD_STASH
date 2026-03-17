@@ -1,22 +1,40 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 07:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 121 |
-| Open | 33 |
+| Total Positions | 123 |
+| Open | 35 |
 | Closed | 88 |
 | W/L | 87/1 |
 | SOL In (closed) | 0.036800 |
 | **Closed P&L** | **+0.030708 SOL** |
 | **Closed ROI** | **+83.4%** |
-| Open Deployed | 0.004800 SOL |
+| Open Deployed | 0.005000 SOL |
 
 ## Trades
 
+### 🟢 FP
+- **Status:** open | **Exit:** open
+- **Peak:** 1.16x | **Current:** 1.16x
+- **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:18:21 | BUY | 0.000100 | `MHTG2RX5WS6VVoyLUAVSecJSwjexCJ...` |
+
+### 🟢 TIKI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.87x
+- **Mint:** `23CNu7k565sWWzQQ8DdwapuFuCbPCxGYpucLjt1opump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:17:56 | BUY | 0.000100 | `22CLsaZXkmL5Nm8gKtqNzSUCZ7zTi9...` |
+
 ### 🟢 NOSTALGIA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.30x
+- **Peak:** 1.30x | **Current:** 0.45x
 - **Mint:** `CfqiWhLSPQJJGYnJHifiAG99j9iAB2cr6JP2tUkspump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +62,7 @@
 
 ### 🟢 TFW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.59x
+- **Peak:** 1.06x | **Current:** 0.55x
 - **Mint:** `B3ourVCf5dvwY24zZm9eoKdQHP3NkYLCX66buK3Hpump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +71,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.02x | **Current:** 1.92x
+- **Peak:** 2.02x | **Current:** 1.68x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -63,7 +81,7 @@
 
 ### 🟢 NoseBoop
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 0.99x
+- **Peak:** 1.41x | **Current:** 1.00x
 - **Mint:** `HVhqMVbmWtoSzPHU1cAX7TLy65VrSKqgnGFyY8BJpump`
 
 | Time | Action | SOL | TX |
@@ -146,7 +164,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.59x | **Current:** 4.27x
+- **Peak:** 4.59x | **Current:** 4.28x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -197,7 +215,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.22x | **Current:** 1.99x
+- **Peak:** 2.22x | **Current:** 1.98x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
