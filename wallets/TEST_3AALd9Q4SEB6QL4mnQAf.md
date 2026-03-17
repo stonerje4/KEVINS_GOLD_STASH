@@ -1,36 +1,25 @@
-# [TEST] Wallet: `3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `3AALd9Q4SEB6QL4m...`
+> 2026-03-17 11:26 UTC | **2** pos | **1W/0L** | P&L: **+0.000282 SOL** (+47.1%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000600 |
-| **Closed P&L** | **+0.000282 SOL** |
-| **Closed ROI** | **+47.1%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| NWR | 03-17 08:35 | 0.98x | 1.00x | 2.8h | 0.0001 |
 
-### 🟢 NWR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
-- **Mint:** `F5v17hqHmt624rAuu4ZNTEp24s2SKvctrwfW55NDpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 08:35:43 | BUY | 0.000100 | `4fqubvbzGAE9bpWsdeAsfRRuJMqPSg...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ FOR | +0.0003 | 03-16 11:23 | 2.6x | 03-16 12:54 | 0.0009/0.0006 | trail |
 
-### 🟢 FOR
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 2.62x | **Current:** 1.24x
-- **Mint:** `6TDbFpB5FN2syr56x2LRGYQoWQs2RdMFTQGrdeogpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 11:23:39 | BUY | 0.000600 | `29taRbFuCY9TSmgAik8Hnhp7zm6dQg...` |
-| 2026-03-16 12:41:53 | SELL | 0.000363 | `5egJQEeQBr7dsYAnyRqSSpH5DTkwAc...` |
-| 2026-03-16 12:54:41 | SELL | 0.000520 | `5bNAkiLP94zua1uBAiFX8irSLawxh6...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 08:35 | NWR | BUY | 0.0001 | `4fqubvbzGAE9bpWs...` |
+| 03-16 12:54 | FOR | SELL | 0.0005 | `5bNAkiLP94zua1uB...` |
+| 03-16 12:41 | FOR | SELL | 0.0004 | `5egJQEeQBr7dsYAn...` |
+| 03-16 11:23 | FOR | BUY | 0.0006 | `29taRbFuCY9TSmgA...` |
 
+</details>

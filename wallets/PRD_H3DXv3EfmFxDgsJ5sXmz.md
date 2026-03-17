@@ -1,118 +1,46 @@
-# [PRD] Wallet: `H3DXv3EfmFxDgsJ5sXmzW7NG68wMQ1hFTmu2NtNPjVYy`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `H3DXv3EfmFxDgsJ5...`
+> 2026-03-17 11:26 UTC | **10** pos | **1W/9L** | P&L: **-0.321883 SOL** (-64.4%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 10 |
-| Open | 0 |
-| Closed | 10 |
-| W/L | 1/9 |
-| SOL In (closed) | 0.500000 |
-| **Closed P&L** | **-0.321883 SOL** |
-| **Closed ROI** | **-64.4%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ RYOPPIPPI | -0.0301 | 03-10 14:31 | 1.2x | 03-10 16:29 | 0.0199/0.0500 | SL |
+| ✅ AWESOME | +0.0982 | 03-10 11:12 | 4.1x | 03-10 12:00 | 0.1482/0.0500 | trail |
+| ❌ LQDY | -0.0500 | 03-09 18:06 | 1.0x | 03-09 18:49 | 0.0000/0.0500 | SL |
+| ❌ MARVIN | -0.0450 | 03-09 17:55 | 1.8x | 03-10 17:37 | 0.0050/0.0500 | gc_zero_balance |
+| ❌ WATER | -0.0500 | 03-09 17:13 | 1.0x | 03-09 17:13 | 0.0000/0.0500 | SL |
+| ❌ OCD | -0.0500 | 03-09 10:07 | 1.3x | 03-09 11:08 | 0.0000/0.0500 | SL |
+| ❌ HAVOC | -0.0450 | 03-09 09:26 | 1.8x | 03-10 17:37 | 0.0050/0.0500 | gc_zero_balance |
+| ❌ ALPHACLAW | -0.0500 | 03-09 06:10 | 2.7x | 03-09 07:15 | 0.0000/0.0500 | gc_zero_balance |
+| ❌ AURA | -0.0500 | 03-09 04:56 | 2.2x | 03-09 10:05 | 0.0000/0.0500 | gc_zero_balance |
+| ❌ FREECLAW | -0.0500 | 03-09 01:56 | 1.0x | 03-09 03:17 | 0.0000/0.0500 | rug_zero_liquidity |
 
-### 🔴 RYOPPIPPI
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.17x | **Current:** 0.00x
-- **Mint:** `2g6FTkzy2n1sL2dSqyZAaQ1W3AaaBfcADixK9aVRpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 14:31:27 | BUY | 0.050000 | `pjh6MVbVg4NZ17XwyMGsaD3HsWT23n...` |
-| 2026-03-10 16:29:50 | SELL | 0.019925 | `4edTpZyk53nBQCsYpxoMEZ2SdA57Du...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 19:13 | HAVOC | SELL | 0.0050 | `?` |
+| 03-16 19:13 | MARVIN | SELL | 0.0050 | `?` |
+| 03-10 16:29 | RYOPPIPPI | SELL | 0.0199 | `4edTpZyk53nBQCsY...` |
+| 03-10 14:31 | RYOPPIPPI | BUY | 0.0500 | `pjh6MVbVg4NZ17Xw...` |
+| 03-10 12:00 | AWESOME | SELL | 0.0722 | `3Wht5Nej8KwkvcS9...` |
+| 03-10 11:28 | AWESOME | SELL | 0.0242 | `DyEyaHfSFSZnHG7S...` |
+| 03-10 11:21 | AWESOME | SELL | 0.0518 | `4Zj7PGoiYQ5xwxxi...` |
+| 03-10 11:12 | AWESOME | BUY | 0.0500 | `66hFXq4A44p9ftpg...` |
+| 03-09 18:49 | LQDY | SELL | 0.0000 | `4xDwsLwzp5v42fiL...` |
+| 03-09 18:06 | LQDY | BUY | 0.0500 | `5cfyvpKh67MGs3T7...` |
+| 03-09 17:55 | MARVIN | BUY | 0.0500 | `C4Fa6RtLcdWJ4cay...` |
+| 03-09 17:13 | WATER | SELL | 0.0000 | `4ZtVBc3mJudYXhyb...` |
+| 03-09 17:13 | WATER | BUY | 0.0500 | `4v6HU2R5cZaoKsUx...` |
+| 03-09 10:07 | OCD | BUY | 0.0500 | `4ScQtr51FmnePQYF...` |
+| 03-09 10:05 | AURA | SELL | 0.0000 | `?` |
+| 03-09 09:26 | HAVOC | BUY | 0.0500 | `5dbxRpb7A7jcUvG3...` |
+| 03-09 07:15 | ALPHACLAW | SELL | 0.0000 | `?` |
+| 03-09 06:48 | ALPHACLAW | SELL | 0.0000 | `22GrxEarptT45Cd5...` |
+| 03-09 06:25 | ALPHACLAW | SELL | 0.0000 | `2ciuwG39VfJHyaB1...` |
+| 03-09 06:10 | ALPHACLAW | BUY | 0.0500 | `2ci2oaJvvEGv25Qq...` |
+| 03-09 04:56 | AURA | BUY | 0.0500 | `36HeBPvc2vQwqYPZ...` |
+| 03-09 01:56 | FREECLAW | BUY | 0.0500 | `3TBV6sTANVM6tVm2...` |
 
-### 🟢 AWESOME
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 4.15x | **Current:** 0.00x
-- **Mint:** `Dk5H7AbQDw6GSTo2c3kbVUTDaAULn8YHxVer9Bc1pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 11:12:08 | BUY | 0.050000 | `66hFXq4A44p9ftpgLxkyt7oZXGve8r...` |
-| 2026-03-10 11:21:26 | SELL | 0.051843 | `4Zj7PGoiYQ5xwxxiNMVGMFLH6EMXiz...` |
-| 2026-03-10 11:28:08 | SELL | 0.024173 | `DyEyaHfSFSZnHG7Sqz1ncCfZ5GYjTQ...` |
-| 2026-03-10 12:00:40 | SELL | 0.072176 | `3Wht5Nej8KwkvcS9r9gve7sgVyydKF...` |
-
-### 🔴 LQDY
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `DUFrRbekCitRjLZdX32y8Pqy7GzmfbTPqvKmRyDMpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 18:06:58 | BUY | 0.050000 | `5cfyvpKh67MGs3T7LYMyzvNGAEf5Di...` |
-| 2026-03-09 18:49:21 | SELL | 0.000000 | `4xDwsLwzp5v42fiLENyL18zHCLXays...` |
-
-### 🔴 MARVIN
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.81x | **Current:** 0.00x
-- **Mint:** `91gCUo2EY9sXNCTioG2AbCCTyraNn9zXvX5HF9qnpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 17:55:01 | BUY | 0.050000 | `C4Fa6RtLcdWJ4cayBM45aiLpMHxRaD...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
-
-### 🔴 WATER
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `79Q5VjXGXDxkQytMwQKk8MReKLvP8DfRYTX35DLiquid`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 17:13:13 | BUY | 0.050000 | `4v6HU2R5cZaoKsUxwdsnjABBZ6zJ6S...` |
-| 2026-03-09 17:13:44 | SELL | 0.000000 | `4ZtVBc3mJudYXhybYyb3oTV3rSHRWp...` |
-
-### 🔴 OCD
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.33x | **Current:** 0.00x
-- **Mint:** `5QYb2mCLzJGnMw3gYziUnG3HSE6ybPPHLVua6dMpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 10:07:31 | BUY | 0.050000 | `4ScQtr51FmnePQYFKKsaUQsGVeXrKG...` |
-
-### 🔴 HAVOC
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.85x | **Current:** 0.00x
-- **Mint:** `2az8Wzi99L8Ee5TGXoyPXRnRoKToqq6dHN8DgVZEpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 09:26:36 | BUY | 0.050000 | `5dbxRpb7A7jcUvG31gm8f95uiPnGvf...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
-
-### 🔴 ALPHACLAW
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 2.73x | **Current:** 0.00x
-- **Mint:** `8qVfTkt4Xbq96XBxiyPsyDwLYQUYB8qBfWVeaFNApump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 06:10:04 | BUY | 0.050000 | `2ci2oaJvvEGv25QqUEyBZoX5ZPuWq4...` |
-| 2026-03-09 06:25:48 | SELL | 0.000000 | `2ciuwG39VfJHyaB1eW5CLswHcX7EUR...` |
-| 2026-03-09 06:48:34 | SELL | 0.000000 | `22GrxEarptT45Cd5wF3Ms33ouDNHBR...` |
-| 2026-03-09 07:15:02 | SELL | 0.000000 | `?` |
-
-### 🔴 AURA
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 2.22x | **Current:** 0.00x
-- **Mint:** `548eiKKsTJuijV9HMWQri3DFCtXRhxgEozG3FVoypump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 04:56:06 | BUY | 0.050000 | `36HeBPvc2vQwqYPZowtZQAKJCfMEkL...` |
-| 2026-03-09 10:05:02 | SELL | 0.000000 | `?` |
-
-### 🔴 FREECLAW
-- **Status:** closed | **Exit:** rug_zero_liquidity
-- **Peak:** 1.01x | **Current:** 0.00x
-- **Mint:** `2e76Xbi1yZfPB8fJqF8tQkp2QrBAMDMsepMzSKqFpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 01:56:12 | BUY | 0.050000 | `3TBV6sTANVM6tVm2oTGQiu21pac36H...` |
-
+</details>

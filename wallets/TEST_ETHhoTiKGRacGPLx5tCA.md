@@ -1,34 +1,18 @@
-# [TEST] Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `ETHhoTiKGRacGPLx...`
+> 2026-03-17 11:26 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 2 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000200 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BBX | 03-17 03:38 | 0.87x | 1.00x | 7.8h | 0.0001 |
+| 401k | 03-16 23:30 | 0.88x | 1.18x | 11.9h | 0.0001 |
 
-### 🟢 BBX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
-- **Mint:** `BdzoRdaEEnk9FehhFAPzUnSR5E46c7wCtKAXka3Xpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:38:02 | BUY | 0.000100 | `3mtQDzjrQPurQiabi4dT8qDYnnyQEb...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 03:38 | BBX | BUY | 0.0001 | `3mtQDzjrQPurQiab...` |
+| 03-16 23:30 | 401k | BUY | 0.0001 | `28T1wSHLLXYrjguN...` |
 
-### 🟢 401k
-- **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 0.88x
-- **Mint:** `8jJpPKsezshgJp7rW95YUicQmCeZH6eNJUcrTHUMpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 23:30:04 | BUY | 0.000100 | `28T1wSHLLXYrjguNoELLfuTstFsxbF...` |
-
+</details>

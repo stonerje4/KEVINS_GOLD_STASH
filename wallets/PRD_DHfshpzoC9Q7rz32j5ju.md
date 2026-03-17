@@ -1,567 +1,206 @@
-# [PRD] Wallet: `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
-
-| Metric | Value |
-|--------|-------|
-| Total Positions | 52 |
-| Open | 5 |
-| Closed | 47 |
-| W/L | 10/37 |
-| SOL In (closed) | 4.750000 |
-| **Closed P&L** | **+0.826181 SOL** |
-| **Closed ROI** | **+17.4%** |
-| Open Deployed | 0.750000 SOL |
-
-## Trades
-
-### 🟢 USDC
-- **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 0.00x
-- **Mint:** `2mhhHydX7cEr2mYLJks5B5ADpdSBK8kbMdbanPDjpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:24:14 | BUY | 0.150000 | `4c7wkfvZ3SP4dMoQRfSvcK9Ty8Rqef...` |
-
-### 🔴 TOR
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.07x | **Current:** 0.00x
-- **Mint:** `9GtVruBvuS5SCQLDR5PGJbQQa68iPEyXsWns3toDpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 04:07:30 | BUY | 0.150000 | `5XHbE3FCtTJSMWYLJbkSeEm1ayFMrQ...` |
-| 2026-03-17 05:22:34 | SELL | 0.059995 | `3s8SMaUaMjXGu4C9J8pkwYzv9DgQPc...` |
-
-### 🔴 AOR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `7ka7AhuK3XZHUvzU8AghJa4Nqa9tKWNJXU9SwByobJre`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:21:45 | BUY | 0.150000 | `5UmrDB442mLg7zNiUVEToqvZSiLz7c...` |
-| 2026-03-17 09:49:01 | SELL | 0.128474 | `5ohhJu5QFtC5WnikbR44bJZfUVU6cA...` |
-
-### 🔴 UGOR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `EtFDAaM5g6NaHUV1HUFxuKtuGt3EzmeNxNMoGiR2pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:53:24 | BUY | 0.150000 | `cWVGLkWV9XFM4WhBXFZZXNBesgb8jk...` |
-| 2026-03-17 09:48:58 | SELL | 0.135840 | `3jaaXyzSz4T4iDq2hoApgNWLXzTsja...` |
-
-### 🟢 BBX
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.92x | **Current:** 0.00x
-- **Mint:** `9LHzc21kuSRpnVZ7NZCd5Jz89mbXjZcr8knQLGNJpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:37:54 | BUY | 0.150000 | `X95EYMP3eLGN17DTrx2AyrcUKCn55b...` |
-| 2026-03-17 01:47:03 | SELL | 0.041771 | `3zYTn8UJpY5zVVxQyoa3omg4CHoEyV...` |
-
-### 🟢 IOR
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.22x | **Current:** 0.00x
-- **Mint:** `DmLW7F9nAH4WddjsLxZTj4YrSgzxXbNQDBohgA4kpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:19:25 | BUY | 0.150000 | `2bRzETnpYsmQTbDSqPDY1KAY1Nko8e...` |
-| 2026-03-17 02:09:08 | SELL | 0.030178 | `51Asxn1ehvF5d9K89sSAnowMSqwPnN...` |
-
-### 🟢 BBX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 0.00x
-- **Mint:** `2fEFkySXEVJGXmHq6AVdnr5VX9rXwm9A77MD9aWVpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:10:31 | BUY | 0.150000 | `2yPytVk6jC8JiUyzVbec39BcuzVrHw...` |
-
-### 🔴 XAI
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.37x | **Current:** 0.00x
-- **Mint:** `9RFQpou2Pfrozvg7xS6LZ7ph4yKTiHRd57YrJDUCASH`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 13:17:16 | BUY | 0.150000 | `2iw8bBP2tpnHeFuteLAunyfz61gLYd...` |
-| 2026-03-17 02:48:49 | SELL | 0.142369 | `5n29fC7q9jRTqqkXmULmqTHJeajXK9...` |
-
-### 🔴 BLOCKAID
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.21x | **Current:** 0.00x
-- **Mint:** `ApnFJUYikcVEaWXdxD9G2hFfCVc8Fc9uWgrWK3NQpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 07:06:23 | BUY | 0.150000 | `2YiSnh5nXp95ocLhwG3SKBRoQG3P4p...` |
-| 2026-03-16 13:24:09 | SELL | 0.072672 | `5h4KtW17qP84NHErCvu8bNgom75ZYj...` |
-
-### 🟢 FTR
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 0.00x
-- **Mint:** `8kv9M9MNM5LtuxakWiViJx6GCYVexk2ZBexucRYNpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 05:02:45 | BUY | 0.150000 | `37fSJRzMQkWdttqAP7PPAuLq3gGu1q...` |
-| 2026-03-16 22:24:23 | SELL | 0.030163 | `4eb61fU8XWhRVKpZHx4aptQ3BnTa8J...` |
-
-### 🔴 WRT
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `Dc3EbtN5826Z2HKnwwWeoQD19ehMt3N7QTKPSw3opump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 03:31:37 | BUY | 0.150000 | `5kjexXScxDm6KZFBRHF78x5WFtvo21...` |
-| 2026-03-16 03:52:05 | SELL | 0.104670 | `2WzihxJn9zK3vZFpLFJ3kPx74JQLpt...` |
-
-### 🔴 XAIC
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.33x | **Current:** 0.00x
-- **Mint:** `FmxDdxpFmmuN4DeXoHFzuEyrH8RfRsej6oxg4MaUpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 02:40:12 | BUY | 0.150000 | `65DzTWUFNkxigaAaFPDFME8KXRPu8L...` |
-| 2026-03-16 14:24:02 | SELL | 0.079715 | `5DihNz5Suhf42SaDFiGzuCRLsP7goS...` |
-
-### 🔴 QVAC
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `G898LDjMUP3Sr8ukEBwzz6cRuyAX9t1gGgwZPnQApump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 02:39:38 | BUY | 0.150000 | `3L7bGXtLRBE76d6PPknnvknrdmkGTe...` |
-| 2026-03-16 09:04:09 | SELL | 0.060000 | `4o7CbhPG23A7N3wmpdM5WdXZnNmwmp...` |
-
-### 🔴 XAI
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.18x | **Current:** 0.00x
-- **Mint:** `5kgDNcVMcj6QcSb7MJvSEttnsbWLt2RqmhXjeJkUpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 01:55:03 | BUY | 0.150000 | `66EL6w1WTfxyGqMMvyYsp7FPtUtEMm...` |
-| 2026-03-16 01:57:12 | SELL | 0.062245 | `4iuF2yc3fXYw49N3Zy5fG5xVJZNW8Z...` |
-
-### 🔴 R.S UGOR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `2wj1sWbeCqU1HTRdDyKxUacMn1zHqXMuWDrXtNATpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 01:03:30 | BUY | 0.150000 | `3QCEUzoz2Ddcv466K7mG5ahW3kVaPB...` |
-| 2026-03-16 07:04:06 | SELL | 0.060000 | `4zN9gdEFiv6F17Zb5KSNMiALPE9DLh...` |
-
-### 🔴 UGOR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `BRtq2dnG5hCay8bFBEuESAHXa5YkdBHseeepv3wCpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 09:29:56 | BUY | 0.150000 | `45dxK9Mqokj9KA4gSduCQki358FqaA...` |
-| 2026-03-15 20:43:48 | SELL | 0.095672 | `5LkDMG2ZsjmsAXhGDjJzoznSmdoSkf...` |
-| 2026-03-16 00:56:41 | BUY | 0.150000 | `5HWTgDM2S6enUofzJmhJ1UmESnZcVU...` |
-| 2026-03-16 08:04:07 | SELL | 0.060000 | `3gYe61QmFraDDvB8BHRmWB7cJzE24f...` |
-
-### 🔴 AP
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `8RXDQgBviAenUZCm3toxQq8Qu6vBcVdSxzCDaB69pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-14 14:09:54 | BUY | 0.150000 | `5abA5Ktk7odnKHB9tmUGWeMWaTPeUE...` |
-| 2026-03-14 14:42:54 | SELL | 0.080799 | `4TykVuPCXqJ7SQUwJoqKRchL59KohB...` |
-
-### 🔴 ATOMS
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.11x | **Current:** 0.00x
-- **Mint:** `DZ1rz7X6fGK5SRmEPoepHVEGkSjUXPME1Bd6epsHpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-14 13:30:16 | BUY | 0.150000 | `2ZxxJhAFZP38P1cg1hiCVPSp118MAE...` |
-| 2026-03-14 20:05:40 | SELL | 0.066878 | `5XFiH3oG3ghxLx7nAUvLGhyDwPLuQv...` |
-
-### 🔴 OIL
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.03x | **Current:** 0.00x
-- **Mint:** `C2hf1d9tRu9YcZHNHWSsu4tXuMU99MmyBLfiRyTrmoon`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-14 04:04:42 | BUY | 0.150000 | `5yhU182BMGUmJWwPFuFjHCHMDMtNLV...` |
-| 2026-03-14 10:25:08 | SELL | 0.061665 | `3XncHSXXzL14SR5K3NzgeogiHfHCdn...` |
-
-### 🟢 Drone
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 4.59x | **Current:** 0.00x
-- **Mint:** `6kDCjqAa3oRXsC5zWmcfNG8cfzcsUCrGpvQabsrspump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 22:33:13 | BUY | 0.150000 | `5xaFYPhR2M9kYzJbDddRpK25FkcsP1...` |
-| 2026-03-14 01:32:29 | SELL | 0.184014 | `XzUcbzw5spDVu1ukqXKwpUsy1uHcmZ...` |
-| 2026-03-14 02:35:49 | SELL | 0.299385 | `J2MbCEPJekaNkA6SQx7GPz6pTZ631n...` |
-| 2026-03-14 03:44:05 | BUY | 0.150000 | `2QiAoUr9ajpzVUEQ8NRNCsG5fFv5Hg...` |
-| 2026-03-15 04:59:42 | SELL | 0.197621 | `4QMdixPV3PH9jpjYAYJK7zwBVk2AwF...` |
-| 2026-03-15 16:15:00 | SELL | 0.326933 | `2udUo5Y7aKYYgUvLqKP66eMSBkNJAq...` |
-
-### 🔴 XAI
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.20x | **Current:** 0.00x
-- **Mint:** `FJ4bx2yy4nRAypormhrVQicGZy23ZPqyDfmSrz9kpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 07:22:49 | BUY | 0.150000 | `4syeu6QCVJnBm3L6TNgtDpCATqdNiy...` |
-| 2026-03-13 13:43:31 | SELL | 0.072042 | `FgsYLUdjegvL5gPxcnj9sZmyWP7B4y...` |
-
-### 🔴 GLD
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.14x | **Current:** 0.00x
-- **Mint:** `7pQ1pQj5qCC9eJYzHgBpmGzPt7SDoMZxp8Bfebi9pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 05:40:54 | BUY | 0.150000 | `VvbXdgYYQRYWQzSKFE8L87rw1NHwcd...` |
-| 2026-03-13 15:50:34 | SELL | 0.068556 | `3F6WaLiKirkHnuCeTnhf4ctXHdfYuG...` |
-
-### 🔴 GLD
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.27x | **Current:** 0.00x
-- **Mint:** `69W3g2j3xJAvmKeyukDkLs3F4Nwnf124UEzuw5vSpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 03:48:09 | BUY | 0.150000 | `5uVmPpdJEpMBKZRvyUBPfxR5HRkgBy...` |
-| 2026-03-13 12:43:11 | SELL | 0.076394 | `4bAUN8DDfDiovwopz6AFs4eD7VTcK6...` |
-
-### 🔴 GLD
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.07x | **Current:** 0.00x
-- **Mint:** `GtCXbvBHpUYfdBru6NjVhWbYy7NcEBVU25FmRB8tpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 03:47:30 | BUY | 0.150000 | `paeVEFytTew94nCMDYmGNMSzHgjoFw...` |
-| 2026-03-13 11:42:51 | SELL | 0.063904 | `2iJShNqUT3wvgiebyLeLDGo8j6tz4i...` |
-
-### 🔴 XAI
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.10x | **Current:** 0.00x
-- **Mint:** `2KXAjV651tYC1CHYE3UdpqTMFjZKX4iVmTL95XN1pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 02:35:55 | BUY | 0.150000 | `515mKZsCPEgrnGwnLo1Hg3tY4BofcN...` |
-| 2026-03-13 18:23:34 | SELL | 0.065724 | `4kUUKLPGLeYpodXqeAHxrJaoKA7zBE...` |
-
-### 🔴 GAS
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.27x | **Current:** 0.00x
-- **Mint:** `D4prj2obXXqpLHikMLqgBMVaoi95u2EE2Evw47Acpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 02:31:46 | BUY | 0.150000 | `5zyMoy3TpoVYM4ukGD1qv7iVcnANaY...` |
-| 2026-03-13 12:42:56 | SELL | 0.076045 | `24mMqen1RkqGXoN8S7JC31QeXuYwtn...` |
-
-### 🔴 FRNT
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.34x | **Current:** 0.00x
-- **Mint:** `CZ4Uji6WVysB6fM4xBNw6vMmAjfK2wpVwGULaHzcpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 02:13:27 | BUY | 0.150000 | `4wjqy4Nkh5sD5wm5ivfWXUh1g9UmuD...` |
-| 2026-03-14 05:24:20 | SELL | 0.080278 | `47qFwkUnKJMoQQvJC657ZMvxUGpqh3...` |
-
-### 🔴 WAR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.26x | **Current:** 0.00x
-- **Mint:** `2vpemY4TA4uVygqqyoXBNboffs1n2K8UUFjXRQhWpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 02:06:07 | BUY | 0.150000 | `66Wp9zWfoHGdZ3Zy7wz2CQynuS5orX...` |
-| 2026-03-14 05:24:05 | SELL | 0.075887 | `43nQLiJMFoSDwKmH8fH9cBSbnzhmza...` |
-
-### 🟢 GLD
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 3.95x | **Current:** 0.00x
-- **Mint:** `61ZEvkBke5rzo2GHdMPGwrFAa6fM1oN7KCkK3WEupump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 02:04:09 | BUY | 0.150000 | `4HUXF9n9bhuTvNfj5sSrpV5Srm2PoM...` |
-| 2026-03-13 03:10:49 | SELL | 0.153247 | `3M1729T84T4TppZirR942M9DxayxJG...` |
-| 2026-03-13 05:31:14 | SELL | 0.090672 | `2jUUKv7edTuVdYi9JrJr5svpiB3CRQ...` |
-| 2026-03-13 11:06:14 | SELL | 0.217398 | `3cjU9sJKZsd7nNxF6Egph8baKK5SPk...` |
-| 2026-03-13 11:41:00 | BUY | 0.150000 | `w11ftVYQzyWZ1s25aBzSYz9GciUCsm...` |
-| 2026-03-15 14:00:09 | SELL | 0.110112 | `4kQwJXFQryU1PBM5WGjLveJAv6jxk3...` |
-
-### 🔴 USDC
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `DxQSCNREbY3PetLtMC1CLyRKsY9pxb4oa1zZz17Lpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-12 02:50:31 | BUY | 0.050000 | `2V622Mn5GZdDy1B9RaLPT6crpC4g1x...` |
-| 2026-03-12 09:21:43 | SELL | 0.020000 | `Zqzaas4oghao1mxm25ENWUhXZ8wXcP...` |
-
-### 🟢 GAS
-- **Status:** closed | **Exit:** ghost_close_tp_50x_trim
-- **Peak:** 55.42x | **Current:** 0.00x
-- **Mint:** `2f3GhkAF7wCqz1bZLyGdzkBcT1LcPTEJxxDnoCghpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-12 02:26:09 | BUY | 0.050000 | `3shNkgaAQbxnNbv5Um1VTirFTXemvD...` |
-| 2026-03-12 15:48:40 | SELL | 0.059699 | `5wVKabrA6LarjV23N3ktDjRj2Vcnut...` |
-| 2026-03-12 16:00:36 | SELL | 0.033378 | `5Lj5oMB5hkVxBETdHj3dGxeoUiSWh9...` |
-| 2026-03-12 16:23:21 | SELL | 0.055776 | `ydxBBKmeVpNrtNiofprAtByEZM1XfP...` |
-| 2026-03-12 16:33:56 | SELL | 0.038825 | `5mzKes52mCE9449MXoWDM6QKZLFmEb...` |
-| 2026-03-12 17:11:56 | SELL | 0.041604 | `3kB1k6Qn6HU8xKXaVEJKRKqz4GZHeN...` |
-| 2026-03-12 19:47:11 | SELL | 0.052608 | `4B1NYQskAijssVvPq46nzWB2KeE5nD...` |
-| 2026-03-13 00:32:49 | SELL | 0.075570 | `4fYP5evfZvaKiedQcV4PVf2oe2i6qk...` |
-| 2026-03-13 07:08:39 | SELL | 0.125971 | `3s4g3xp58e9AR83fLAPHZwJM9EJ1ZF...` |
-| 2026-03-13 11:59:18 | SELL | 0.164193 | `qCzzDHMLr9wQENBVZEDLYvmyUeqfau...` |
-| 2026-03-13 12:28:24 | SELL | 0.201509 | `3shLGUhSG7MkmUN8FT2TNCneiueCyr...` |
-| 2026-03-13 14:20:33 | SELL | 0.000000 | `?` |
-
-### 🟢 GAS
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 2.79x | **Current:** 0.00x
-- **Mint:** `FFYBHMu64sKjpgEe9a1QjmxavU3hbKEKt5aFPPNwpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-12 02:22:36 | BUY | 0.050000 | `3mq1wfiwAdhBztHnbMWNGVp9TZunKU...` |
-| 2026-03-12 02:25:00 | SELL | 0.051881 | `5knUxVXsYHJhdJsYCEwU2wCKdzacgK...` |
-
-### 🟢 TRUMPUMP
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 4.88x | **Current:** 0.00x
-- **Mint:** `2RD1VgxCsRumXPZT4xeTPm3FdN9mG6414RLkDRHKpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-12 01:14:32 | BUY | 0.050000 | `ghKRJMuzGfMvCEPUACdVsSwtWX452r...` |
-| 2026-03-12 01:28:05 | SELL | 0.050272 | `54jykwcy8gWJxArEKyGzWzTvbKsswb...` |
-| 2026-03-12 01:32:23 | SELL | 0.037049 | `2EfENekwjYMAB99Q2JusBWjzRkirzC...` |
-| 2026-03-12 01:32:54 | SELL | 0.060568 | `2vapD6eygS5APv2mWYfpokDsWFHEuJ...` |
-| 2026-03-12 01:44:01 | SELL | 0.065914 | `2x9bkrB7GspAmhrSK5RobbVmmvC1EQ...` |
-
-### 🔴 NOOKY
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.16x | **Current:** 0.00x
-- **Mint:** `4KBAbEbHZnhjNuS6J4VPQqzBSJh6EGWCsZDLmf2Rpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-12 01:10:11 | BUY | 0.050000 | `37K2FPRvABep8xcF5q1yEQzfbGzi7z...` |
-| 2026-03-12 08:21:39 | SELL | 0.023276 | `hq2aVPtdQ8cT6GKejHuBB2Fwmm7r2Y...` |
-
-### 🔴 UXR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.04x | **Current:** 0.00x
-- **Mint:** `C1LLdFvvmN3snTUKpFTjC94aM6pjbMvZxjAZKDpsmoon`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-12 01:06:00 | BUY | 0.050000 | `586NzuRwxTN5LUC49mLL9yndJeajzy...` |
-| 2026-03-12 08:21:24 | SELL | 0.020763 | `3NAZU13JbbeYnwGk9eCHVXU6YWRT8W...` |
-
-### 🔴 SPR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.31x | **Current:** 0.00x
-- **Mint:** `BLvMQXUcBswRAWjzBJrkspMUS38cKXMaUfcQx4eJuPAK`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-12 00:52:18 | BUY | 0.050000 | `Ux5UahEAUuf31kjrrHNUsDBsoLdmnM...` |
-| 2026-03-13 00:35:59 | SELL | 0.026106 | `218Ksdw5pQEfMFcBv6r1hPKQ2HN7Zs...` |
-
-### 🔴 UXR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.23x | **Current:** 0.00x
-- **Mint:** `ESE9H12PdnPBKebetbTNgkpt6hKXWKZmHc5QXuiTmoon`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-12 00:51:53 | BUY | 0.050000 | `5Se3xXZEVyyw5DLppfxve7eafgVDkE...` |
-| 2026-03-12 09:21:27 | SELL | 0.024695 | `4cSE4vTEQkeqzVPCsamLi65VvFakoW...` |
-
-### 🔴 MINES
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `D5K3uEEEakvsqmi8Ghyk7xfye5uTz3LEZqxjxuJmMiNE`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 12:08:34 | BUY | 0.050000 | `2PGcC2UmMU5Kfup2czFZrPo5Jcn35T...` |
-| 2026-03-11 19:12:55 | SELL | 0.020000 | `5zygGv7qqLUBscridc6HYYF3t65JNP...` |
-
-### 🔴 GoToMars
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.02x | **Current:** 0.00x
-- **Mint:** `BbEuaoQdwsv2q6aF6v9kWmyyYnknxnEzHExdKDfapump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 04:18:29 | BUY | 0.050000 | `55DWkNF7V6npECHooxdGtbYyxKDtHa...` |
-| 2026-03-11 19:12:23 | SELL | 0.020310 | `9PjNF6DrUGGCpQbfV9SyTcdXAm9WFH...` |
-
-### 🔴 WPIG
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.22x | **Current:** 0.00x
-- **Mint:** `DmdxSte7eD4ngRRxGaNPgv3ZjSfbZ5v53QNVGu6upump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 04:10:52 | BUY | 0.050000 | `2uyzTZgGF4LbWa9nFxriZjzkAWupCo...` |
-| 2026-03-12 06:16:12 | SELL | 0.024479 | `2K36K74vQqxmLMSTUnc1hyqoxR8Ygc...` |
-
-### 🔴 BLUM
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `Ee18wwT5bU1uRAuGtRs98Ujb1h7TKihw6rgxtRpnpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 03:46:57 | BUY | 0.050000 | `2uxKz87koPjZxPmDdc5g8o24jGKMx5...` |
-| 2026-03-11 18:51:45 | SELL | 0.020017 | `3TsEoJh1UQ5BotLXRyuEtD5knkVFfT...` |
-
-### 🔴 UXR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.49x | **Current:** 0.00x
-- **Mint:** `B99jXMYW6kQsg47hEMhUdwrvCTrG3awn1G8iaEAUmoon`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 03:37:19 | BUY | 0.050000 | `sVgyhWMxCWBegrzb1LmJNrdgqe3Nky...` |
-| 2026-03-11 20:12:28 | SELL | 0.029771 | `4dvBKZBcaDx1BbiX884rJ6YWScWchF...` |
-
-### 🔴 WAR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.04x | **Current:** 0.00x
-- **Mint:** `4xkyEV6W1H2HwgNg3XfqR31jspLLjttwGzsgJycZpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 03:12:22 | BUY | 0.050000 | `36RDEg4cvV7nW47DvhaNL1L8wWVFS7...` |
-| 2026-03-11 21:54:02 | SELL | 0.020862 | `667AgQjutsfmjHJTqwYDa7JREzmsQR...` |
-
-### 🔴 UOR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.22x | **Current:** 0.00x
-- **Mint:** `ownRmgE4MvU78oACpvcfyhjZ8XTpv5xmxdo8CVipump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 02:57:28 | BUY | 0.050000 | `3cgES4NU4BMFvCutKWWbT5SctZxaiN...` |
-| 2026-03-11 18:51:29 | SELL | 0.024408 | `4vcgBr4Sbsd5yZZ9o9cs8GnXQFedDf...` |
-
-### 🟢 jew
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 3.10x | **Current:** 0.00x
-- **Mint:** `BEhZzDwLaeqzUruvhH6x6bxWdjjK8gJ9ohgb2pnnpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 02:00:12 | BUY | 0.050000 | `4Ecwz6fKa4ppa2NEwCiMrP7VLSSG7P...` |
-| 2026-03-11 17:24:10 | SELL | 0.051114 | `3QDVFXBD4xv7y42HFZExXj2prqnSYn...` |
-| 2026-03-11 17:47:09 | SELL | 0.030989 | `2oJ8QLndp1X4r54WR85xJvgg959tsF...` |
-| 2026-03-11 20:43:38 | SELL | 0.068631 | `5MQURqUz4jt7uARKyuaEXMfiDHYp7q...` |
-
-### 🔴 UXR
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.43x | **Current:** 0.00x
-- **Mint:** `D35aLyB71KGTGgegaQz5KFkPZVjMTXefUcLCXc8Wmoon`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 01:42:41 | BUY | 0.050000 | `3jvD7hew4EZiamwo2MryW4b4Ff87r6...` |
-| 2026-03-11 18:51:14 | SELL | 0.028625 | `2evgor8Xd2wN7Yx9nfU5KfapyWrCnA...` |
-
-### 🟢 JEWCOIN
-- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
-- **Peak:** 2.40x | **Current:** 0.00x
-- **Mint:** `Cayzea5dvLSsK2v5PNmHhtW4cDPNw87DT2pndemMpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 01:40:14 | BUY | 0.050000 | `4BpF9ZBBwXEezkjYFxDyky7CSudkvi...` |
-| 2026-03-11 02:07:10 | SELL | 0.050121 | `bFuMQkEJEJHLo5GHizpRszMMMmLNuc...` |
-| 2026-03-13 19:03:14 | SELL | 0.000000 | `?` |
-
-### 🟢 JEW
-- **Status:** closed | **Exit:** ghost_close_manual_sell
-- **Peak:** 2.22x | **Current:** 0.00x
-- **Mint:** `FCGweZCs4SKE8bZAhbyhsGercFzHMebEHto3zbPtpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 01:33:11 | BUY | 0.050000 | `hvZ7tkkefjYbT3a4zD8P8SNSdCuuGW...` |
-| 2026-03-11 02:38:39 | SELL | 0.055572 | `cKKkGYgW5B4DXgqSHaeesqv8cu8L4s...` |
-
-### 🟢 JEW
-- **Status:** closed | **Exit:** ghost_close_manual_sell
-- **Peak:** 8.87x | **Current:** 0.00x
-- **Mint:** `FdUjCSxLA2CwuK5wZURLnPup2FHcdcJL6A8rFmsnpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 01:23:07 | BUY | 0.050000 | `23Dp8cLwvG73HysFoVsZ9s17GSpqLt...` |
-| 2026-03-11 01:56:03 | SELL | 0.055278 | `2UQViqvQGgvZioGKkwULnnmjwE9Qep...` |
-| 2026-03-11 02:25:03 | SELL | 0.030107 | `2CVAWdieFbzHqdMhw1FG2AT4vo1RXp...` |
-| 2026-03-11 02:32:22 | SELL | 0.050836 | `278U2WgxFzHPZvxj4WU1QKUnFrjfpz...` |
-| 2026-03-11 03:15:23 | SELL | 0.041190 | `33KmJwBkwCq9T38cdKf6DbkFGBpNHC...` |
-| 2026-03-11 03:23:53 | SELL | 0.040279 | `4C8M4WXWVPBasQRqGiDTQBa55g9ptp...` |
-
-### 🔴 Tardven
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.80x | **Current:** 0.00x
-- **Mint:** `85eV9fp5U6L4hiKWwDDcye6Q8wjQxsY9u12tLcDApump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 01:22:14 | BUY | 0.050000 | `54J6VXQxGwEtw2krLU6MfL9HHYo6ki...` |
-| 2026-03-12 06:15:57 | SELL | 0.036008 | `55EjcgbhEJmvFn1Pu3Dgc5xJgmnj9G...` |
-
-### 🔴 JEW
-- **Status:** closed | **Exit:** ghost_close_manual_sell
-- **Peak:** 1.71x | **Current:** 0.00x
-- **Mint:** `HmYGLtv89QTFZ3fJ1BMNjYdbT94tRcXCMW41YCQwpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 01:09:34 | BUY | 0.050000 | `61GuQJjSGuR6dfDH7twBy9NBkhZhuR...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
-
-### 🟢 SOS
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 4.02x | **Current:** 0.00x
-- **Mint:** `Eyfvifn7ckACQKFRhpDvNz5QGJSFmXd1Kf6ftVHNpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 00:51:35 | BUY | 0.050000 | `3woRBJfHgEJZ5B6u3VKZrTaboG7d8P...` |
-| 2026-03-11 18:18:41 | SELL | 0.059245 | `4vqkHUWUFftRVncTK6c5f1FKvvEwNF...` |
-| 2026-03-13 00:21:36 | SELL | 0.030547 | `4bSqgnRAdCxCUdNTZnXtZULwRww2vn...` |
-| 2026-03-13 00:35:39 | SELL | 0.050296 | `ayNuU4pkGkZXFcidtu6hjX2rMU7ReS...` |
-| 2026-03-13 15:30:59 | SELL | 0.073632 | `22j7YvhhDWECgW3WaGtd7bWC6HDTDV...` |
-
+# [PRD] `DHfshpzoC9Q7rz32...`
+> 2026-03-17 11:26 UTC | **52** pos | **10W/37L** | P&L: **+0.826181 SOL** (+17.4%) | 5 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| USDC | 03-17 06:24 | 0.00x | 1.10x | 5.0h | 0.1500 |
+| BBX | 03-17 01:37 | 0.00x | 2.92x | 9.8h | 0.1500 |
+| IOR | 03-17 01:19 | 0.00x | 2.22x | 10.1h | 0.1500 |
+| BBX | 03-17 00:10 | 0.00x | 1.39x | 11.3h | 0.1500 |
+| FTR | 03-16 05:02 | 0.00x | 2.44x | 1.3d | 0.1500 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ TOR | -0.0900 | 03-17 04:07 | 1.1x | 03-17 05:22 | 0.0600/0.1500 | SL |
+| ❌ AOR | -0.0215 | 03-17 03:21 | 1.0x | 03-17 09:49 | 0.1285/0.1500 | stale |
+| ❌ UGOR | -0.0142 | 03-17 02:53 | 1.0x | 03-17 09:48 | 0.1358/0.1500 | stale |
+| ❌ XAI | -0.0076 | 03-16 13:17 | 1.4x | 03-17 02:48 | 0.1424/0.1500 | stale |
+| ❌ BLOCKAID | -0.0773 | 03-16 07:06 | 1.2x | 03-16 13:24 | 0.0727/0.1500 | stale |
+| ❌ WRT | -0.0453 | 03-16 03:31 | 1.0x | 03-16 03:52 | 0.1047/0.1500 | SL |
+| ❌ XAIC | -0.0703 | 03-16 02:40 | 1.3x | 03-16 14:24 | 0.0797/0.1500 | stale |
+| ❌ QVAC | -0.0900 | 03-16 02:39 | 1.0x | 03-16 09:04 | 0.0600/0.1500 | stale |
+| ❌ XAI | -0.0878 | 03-16 01:55 | 1.2x | 03-16 01:57 | 0.0622/0.1500 | SL |
+| ❌ R.S UGOR | -0.0900 | 03-16 01:03 | 1.0x | 03-16 07:04 | 0.0600/0.1500 | stale |
+| ✅ UGOR | +0.0057 | 03-16 00:56 | 1.0x | 03-16 08:04 | 0.1557/0.1500 | stale |
+| ❌ AP | -0.0692 | 03-14 14:09 | 1.0x | 03-14 14:42 | 0.0808/0.1500 | SL |
+| ❌ ATOMS | -0.0831 | 03-14 13:30 | 1.1x | 03-14 20:05 | 0.0669/0.1500 | stale |
+| ❌ OIL | -0.0883 | 03-14 04:04 | 1.0x | 03-14 10:25 | 0.0617/0.1500 | stale |
+| ✅ Drone | +0.8580 | 03-14 03:44 | 4.6x | 03-15 16:15 | 1.0080/0.1500 | trail |
+| ❌ XAI | -0.0780 | 03-13 07:22 | 1.2x | 03-13 13:43 | 0.0720/0.1500 | stale |
+| ❌ GLD | -0.0814 | 03-13 05:40 | 1.1x | 03-13 15:50 | 0.0686/0.1500 | stale |
+| ❌ GLD | -0.0736 | 03-13 03:48 | 1.3x | 03-13 12:43 | 0.0764/0.1500 | stale |
+| ❌ GLD | -0.0861 | 03-13 03:47 | 1.1x | 03-13 11:42 | 0.0639/0.1500 | stale |
+| ❌ XAI | -0.0843 | 03-13 02:35 | 1.1x | 03-13 18:23 | 0.0657/0.1500 | stale |
+| ❌ GAS | -0.0740 | 03-13 02:31 | 1.3x | 03-13 12:42 | 0.0760/0.1500 | stale |
+| ❌ FRNT | -0.0697 | 03-13 02:13 | 1.3x | 03-14 05:24 | 0.0803/0.1500 | stale |
+| ❌ WAR | -0.0741 | 03-13 02:06 | 1.3x | 03-14 05:24 | 0.0759/0.1500 | stale |
+| ✅ GLD | +0.4214 | 03-13 02:04 | 4.0x | 03-13 11:06 | 0.5714/0.1500 | trail |
+| ❌ USDC | -0.0300 | 03-12 02:50 | 1.0x | 03-12 09:21 | 0.0200/0.0500 | stale |
+| ✅ GAS | +0.7991 | 03-12 02:26 | 55.4x | 03-13 14:20 | 0.8491/0.0500 | gc_tp_50x_trim |
+| ✅ GAS | +0.0019 | 03-12 02:22 | 2.8x | 03-14 11:04 | 0.0519/0.0500 | gc_zero_balance |
+| ✅ TRUMPUMP | +0.1638 | 03-12 01:14 | 4.9x | 03-12 01:44 | 0.2138/0.0500 | trail |
+| ❌ NOOKY | -0.0267 | 03-12 01:10 | 1.2x | 03-12 08:21 | 0.0233/0.0500 | stale |
+| ❌ UXR | -0.0292 | 03-12 01:06 | 1.0x | 03-12 08:21 | 0.0208/0.0500 | stale |
+| ❌ SPR | -0.0239 | 03-12 00:52 | 1.3x | 03-13 00:35 | 0.0261/0.0500 | stale |
+| ❌ UXR | -0.0253 | 03-12 00:51 | 1.2x | 03-12 09:21 | 0.0247/0.0500 | stale |
+| ❌ MINES | -0.0300 | 03-11 12:08 | 1.0x | 03-11 19:12 | 0.0200/0.0500 | stale |
+| ❌ GoToMars | -0.0297 | 03-11 04:18 | 1.0x | 03-11 19:12 | 0.0203/0.0500 | stale |
+| ❌ WPIG | -0.0255 | 03-11 04:10 | 1.2x | 03-12 06:16 | 0.0245/0.0500 | stale |
+| ❌ BLUM | -0.0300 | 03-11 03:46 | 1.0x | 03-11 18:51 | 0.0200/0.0500 | stale |
+| ❌ UXR | -0.0202 | 03-11 03:37 | 1.5x | 03-11 20:12 | 0.0298/0.0500 | stale |
+| ❌ WAR | -0.0291 | 03-11 03:12 | 1.0x | 03-11 21:54 | 0.0209/0.0500 | stale |
+| ❌ UOR | -0.0256 | 03-11 02:57 | 1.2x | 03-11 18:51 | 0.0244/0.0500 | stale |
+| ✅ jew | +0.1007 | 03-11 02:00 | 3.1x | 03-11 20:43 | 0.1507/0.0500 | trail |
+| ❌ UXR | -0.0214 | 03-11 01:42 | 1.4x | 03-11 18:51 | 0.0286/0.0500 | stale |
+| ✅ JEWCOIN | +0.0001 | 03-11 01:40 | 2.4x | 03-13 19:03 | 0.0501/0.0500 | gc_trail |
+| ✅ JEW | +0.0056 | 03-11 01:33 | 2.2x | 03-11 18:08 | 0.0556/0.0500 | gc_manual_sell |
+| ✅ JEW | +0.1677 | 03-11 01:23 | 8.9x | 03-11 18:08 | 0.2177/0.0500 | gc_manual_sell |
+| ❌ Tardven | -0.0140 | 03-11 01:22 | 1.8x | 03-12 06:15 | 0.0360/0.0500 | stale |
+| ❌ JEW | -0.0450 | 03-11 01:09 | 1.7x | 03-11 18:08 | 0.0050/0.0500 | gc_manual_sell |
+| ✅ SOS | +0.1637 | 03-11 00:51 | 4.0x | 03-13 15:30 | 0.2137/0.0500 | trail |
+
+<details><summary>📋 Full Trade Log</summary>
+
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 09:49 | AOR | SELL | 0.1285 | `5ohhJu5QFtC5Wnik...` |
+| 03-17 09:48 | UGOR | SELL | 0.1358 | `3jaaXyzSz4T4iDq2...` |
+| 03-17 06:24 | USDC | BUY | 0.1500 | `4c7wkfvZ3SP4dMoQ...` |
+| 03-17 05:22 | TOR | SELL | 0.0600 | `3s8SMaUaMjXGu4C9...` |
+| 03-17 04:07 | TOR | BUY | 0.1500 | `5XHbE3FCtTJSMWYL...` |
+| 03-17 03:21 | AOR | BUY | 0.1500 | `5UmrDB442mLg7zNi...` |
+| 03-17 02:53 | UGOR | BUY | 0.1500 | `cWVGLkWV9XFM4WhB...` |
+| 03-17 02:48 | XAI | SELL | 0.1424 | `5n29fC7q9jRTqqkX...` |
+| 03-17 02:09 | IOR | SELL | 0.0302 | `51Asxn1ehvF5d9K8...` |
+| 03-17 01:47 | BBX | SELL | 0.0418 | `3zYTn8UJpY5zVVxQ...` |
+| 03-17 01:37 | BBX | BUY | 0.1500 | `X95EYMP3eLGN17DT...` |
+| 03-17 01:19 | IOR | BUY | 0.1500 | `2bRzETnpYsmQTbDS...` |
+| 03-17 00:10 | BBX | BUY | 0.1500 | `2yPytVk6jC8JiUyz...` |
+| 03-16 22:24 | FTR | SELL | 0.0302 | `4eb61fU8XWhRVKpZ...` |
+| 03-16 19:13 | JEW | SELL | 0.0050 | `?` |
+| 03-16 14:24 | XAIC | SELL | 0.0797 | `5DihNz5Suhf42SaD...` |
+| 03-16 13:24 | BLOCKAID | SELL | 0.0727 | `5h4KtW17qP84NHEr...` |
+| 03-16 13:17 | XAI | BUY | 0.1500 | `2iw8bBP2tpnHeFut...` |
+| 03-16 09:04 | QVAC | SELL | 0.0600 | `4o7CbhPG23A7N3wm...` |
+| 03-16 08:04 | UGOR | SELL | 0.0600 | `3gYe61QmFraDDvB8...` |
+| 03-16 07:06 | BLOCKAID | BUY | 0.1500 | `2YiSnh5nXp95ocLh...` |
+| 03-16 07:04 | R.S UGOR | SELL | 0.0600 | `4zN9gdEFiv6F17Zb...` |
+| 03-16 05:02 | FTR | BUY | 0.1500 | `37fSJRzMQkWdttqA...` |
+| 03-16 03:52 | WRT | SELL | 0.1047 | `2WzihxJn9zK3vZFp...` |
+| 03-16 03:31 | WRT | BUY | 0.1500 | `5kjexXScxDm6KZFB...` |
+| 03-16 02:40 | XAIC | BUY | 0.1500 | `65DzTWUFNkxigaAa...` |
+| 03-16 02:39 | QVAC | BUY | 0.1500 | `3L7bGXtLRBE76d6P...` |
+| 03-16 01:57 | XAI | SELL | 0.0622 | `4iuF2yc3fXYw49N3...` |
+| 03-16 01:55 | XAI | BUY | 0.1500 | `66EL6w1WTfxyGqMM...` |
+| 03-16 01:03 | R.S UGOR | BUY | 0.1500 | `3QCEUzoz2Ddcv466...` |
+| 03-16 00:56 | UGOR | BUY | 0.1500 | `5HWTgDM2S6enUofz...` |
+| 03-15 20:43 | UGOR | SELL | 0.0957 | `5LkDMG2ZsjmsAXhG...` |
+| 03-15 16:15 | Drone | SELL | 0.3269 | `2udUo5Y7aKYYgUvL...` |
+| 03-15 14:00 | GLD | SELL | 0.1101 | `4kQwJXFQryU1PBM5...` |
+| 03-15 09:29 | UGOR | BUY | 0.1500 | `45dxK9Mqokj9KA4g...` |
+| 03-15 04:59 | Drone | SELL | 0.1976 | `4QMdixPV3PH9jpjY...` |
+| 03-14 20:05 | ATOMS | SELL | 0.0669 | `5XFiH3oG3ghxLx7n...` |
+| 03-14 14:42 | AP | SELL | 0.0808 | `4TykVuPCXqJ7SQUw...` |
+| 03-14 14:09 | AP | BUY | 0.1500 | `5abA5Ktk7odnKHB9...` |
+| 03-14 13:30 | ATOMS | BUY | 0.1500 | `2ZxxJhAFZP38P1cg...` |
+| 03-14 10:25 | OIL | SELL | 0.0617 | `3XncHSXXzL14SR5K...` |
+| 03-14 05:24 | FRNT | SELL | 0.0803 | `47qFwkUnKJMoQQvJ...` |
+| 03-14 05:24 | WAR | SELL | 0.0759 | `43nQLiJMFoSDwKmH...` |
+| 03-14 04:04 | OIL | BUY | 0.1500 | `5yhU182BMGUmJWwP...` |
+| 03-14 03:44 | Drone | BUY | 0.1500 | `2QiAoUr9ajpzVUEQ...` |
+| 03-14 02:35 | Drone | SELL | 0.2994 | `J2MbCEPJekaNkA6S...` |
+| 03-14 01:32 | Drone | SELL | 0.1840 | `XzUcbzw5spDVu1uk...` |
+| 03-13 22:33 | Drone | BUY | 0.1500 | `5xaFYPhR2M9kYzJb...` |
+| 03-13 19:03 | JEWCOIN | SELL | 0.0000 | `?` |
+| 03-13 18:23 | XAI | SELL | 0.0657 | `4kUUKLPGLeYpodXq...` |
+| 03-13 15:50 | GLD | SELL | 0.0686 | `3F6WaLiKirkHnuCe...` |
+| 03-13 15:30 | SOS | SELL | 0.0736 | `22j7YvhhDWECgW3W...` |
+| 03-13 14:20 | GAS | SELL | 0.0000 | `?` |
+| 03-13 13:43 | XAI | SELL | 0.0720 | `FgsYLUdjegvL5gPx...` |
+| 03-13 12:43 | GLD | SELL | 0.0764 | `4bAUN8DDfDiovwop...` |
+| 03-13 12:42 | GAS | SELL | 0.0760 | `24mMqen1RkqGXoN8...` |
+| 03-13 12:28 | GAS | SELL | 0.2015 | `3shLGUhSG7MkmUN8...` |
+| 03-13 11:59 | GAS | SELL | 0.1642 | `qCzzDHMLr9wQENBV...` |
+| 03-13 11:42 | GLD | SELL | 0.0639 | `2iJShNqUT3wvgieb...` |
+| 03-13 11:41 | GLD | BUY | 0.1500 | `w11ftVYQzyWZ1s25...` |
+| 03-13 11:06 | GLD | SELL | 0.2174 | `3cjU9sJKZsd7nNxF...` |
+| 03-13 07:22 | XAI | BUY | 0.1500 | `4syeu6QCVJnBm3L6...` |
+| 03-13 07:08 | GAS | SELL | 0.1260 | `3s4g3xp58e9AR83f...` |
+| 03-13 05:40 | GLD | BUY | 0.1500 | `VvbXdgYYQRYWQzSK...` |
+| 03-13 05:31 | GLD | SELL | 0.0907 | `2jUUKv7edTuVdYi9...` |
+| 03-13 03:48 | GLD | BUY | 0.1500 | `5uVmPpdJEpMBKZRv...` |
+| 03-13 03:47 | GLD | BUY | 0.1500 | `paeVEFytTew94nCM...` |
+| 03-13 03:10 | GLD | SELL | 0.1532 | `3M1729T84T4TppZi...` |
+| 03-13 02:35 | XAI | BUY | 0.1500 | `515mKZsCPEgrnGwn...` |
+| 03-13 02:31 | GAS | BUY | 0.1500 | `5zyMoy3TpoVYM4uk...` |
+| 03-13 02:13 | FRNT | BUY | 0.1500 | `4wjqy4Nkh5sD5wm5...` |
+| 03-13 02:06 | WAR | BUY | 0.1500 | `66Wp9zWfoHGdZ3Zy...` |
+| 03-13 02:04 | GLD | BUY | 0.1500 | `4HUXF9n9bhuTvNfj...` |
+| 03-13 00:35 | SPR | SELL | 0.0261 | `218Ksdw5pQEfMFcB...` |
+| 03-13 00:35 | SOS | SELL | 0.0503 | `ayNuU4pkGkZXFcid...` |
+| 03-13 00:32 | GAS | SELL | 0.0756 | `4fYP5evfZvaKiedQ...` |
+| 03-13 00:21 | SOS | SELL | 0.0305 | `4bSqgnRAdCxCUdNT...` |
+| 03-12 19:47 | GAS | SELL | 0.0526 | `4B1NYQskAijssVvP...` |
+| 03-12 17:11 | GAS | SELL | 0.0416 | `3kB1k6Qn6HU8xKXa...` |
+| 03-12 16:33 | GAS | SELL | 0.0388 | `5mzKes52mCE9449M...` |
+| 03-12 16:23 | GAS | SELL | 0.0558 | `ydxBBKmeVpNrtNio...` |
+| 03-12 16:00 | GAS | SELL | 0.0334 | `5Lj5oMB5hkVxBETd...` |
+| 03-12 15:48 | GAS | SELL | 0.0597 | `5wVKabrA6LarjV23...` |
+| 03-12 09:21 | USDC | SELL | 0.0200 | `Zqzaas4oghao1mxm...` |
+| 03-12 09:21 | UXR | SELL | 0.0247 | `4cSE4vTEQkeqzVPC...` |
+| 03-12 08:21 | NOOKY | SELL | 0.0233 | `hq2aVPtdQ8cT6GKe...` |
+| 03-12 08:21 | UXR | SELL | 0.0208 | `3NAZU13JbbeYnwGk...` |
+| 03-12 06:16 | WPIG | SELL | 0.0245 | `2K36K74vQqxmLMST...` |
+| 03-12 06:15 | Tardven | SELL | 0.0360 | `55EjcgbhEJmvFn1P...` |
+| 03-12 02:50 | USDC | BUY | 0.0500 | `2V622Mn5GZdDy1B9...` |
+| 03-12 02:26 | GAS | BUY | 0.0500 | `3shNkgaAQbxnNbv5...` |
+| 03-12 02:25 | GAS | SELL | 0.0519 | `5knUxVXsYHJhdJsY...` |
+| 03-12 02:22 | GAS | BUY | 0.0500 | `3mq1wfiwAdhBztHn...` |
+| 03-12 01:44 | TRUMPUMP | SELL | 0.0659 | `2x9bkrB7GspAmhrS...` |
+| 03-12 01:32 | TRUMPUMP | SELL | 0.0606 | `2vapD6eygS5APv2m...` |
+| 03-12 01:32 | TRUMPUMP | SELL | 0.0370 | `2EfENekwjYMAB99Q...` |
+| 03-12 01:28 | TRUMPUMP | SELL | 0.0503 | `54jykwcy8gWJxArE...` |
+| 03-12 01:14 | TRUMPUMP | BUY | 0.0500 | `ghKRJMuzGfMvCEPU...` |
+| 03-12 01:10 | NOOKY | BUY | 0.0500 | `37K2FPRvABep8xcF...` |
+| 03-12 01:06 | UXR | BUY | 0.0500 | `586NzuRwxTN5LUC4...` |
+| 03-12 00:52 | SPR | BUY | 0.0500 | `Ux5UahEAUuf31kjr...` |
+| 03-12 00:51 | UXR | BUY | 0.0500 | `5Se3xXZEVyyw5DLp...` |
+| 03-11 21:54 | WAR | SELL | 0.0209 | `667AgQjutsfmjHJT...` |
+| 03-11 20:43 | jew | SELL | 0.0686 | `5MQURqUz4jt7uARK...` |
+| 03-11 20:12 | UXR | SELL | 0.0298 | `4dvBKZBcaDx1BbiX...` |
+| 03-11 19:12 | MINES | SELL | 0.0200 | `5zygGv7qqLUBscri...` |
+| 03-11 19:12 | GoToMars | SELL | 0.0203 | `9PjNF6DrUGGCpQbf...` |
+| 03-11 18:51 | BLUM | SELL | 0.0200 | `3TsEoJh1UQ5BotLX...` |
+| 03-11 18:51 | UOR | SELL | 0.0244 | `4vcgBr4Sbsd5yZZ9...` |
+| 03-11 18:51 | UXR | SELL | 0.0286 | `2evgor8Xd2wN7Yx9...` |
+| 03-11 18:18 | SOS | SELL | 0.0592 | `4vqkHUWUFftRVncT...` |
+| 03-11 17:47 | jew | SELL | 0.0310 | `2oJ8QLndp1X4r54W...` |
+| 03-11 17:24 | jew | SELL | 0.0511 | `3QDVFXBD4xv7y42H...` |
+| 03-11 12:08 | MINES | BUY | 0.0500 | `2PGcC2UmMU5Kfup2...` |
+| 03-11 04:18 | GoToMars | BUY | 0.0500 | `55DWkNF7V6npECHo...` |
+| 03-11 04:10 | WPIG | BUY | 0.0500 | `2uyzTZgGF4LbWa9n...` |
+| 03-11 03:46 | BLUM | BUY | 0.0500 | `2uxKz87koPjZxPmD...` |
+| 03-11 03:37 | UXR | BUY | 0.0500 | `sVgyhWMxCWBegrzb...` |
+| 03-11 03:23 | JEW | SELL | 0.0403 | `4C8M4WXWVPBasQRq...` |
+| 03-11 03:15 | JEW | SELL | 0.0412 | `33KmJwBkwCq9T38c...` |
+| 03-11 03:12 | WAR | BUY | 0.0500 | `36RDEg4cvV7nW47D...` |
+| 03-11 02:57 | UOR | BUY | 0.0500 | `3cgES4NU4BMFvCut...` |
+| 03-11 02:38 | JEW | SELL | 0.0556 | `cKKkGYgW5B4DXgqS...` |
+| 03-11 02:32 | JEW | SELL | 0.0508 | `278U2WgxFzHPZvxj...` |
+| 03-11 02:25 | JEW | SELL | 0.0301 | `2CVAWdieFbzHqdMh...` |
+| 03-11 02:07 | JEWCOIN | SELL | 0.0501 | `bFuMQkEJEJHLo5GH...` |
+| 03-11 02:00 | jew | BUY | 0.0500 | `4Ecwz6fKa4ppa2NE...` |
+| 03-11 01:56 | JEW | SELL | 0.0553 | `2UQViqvQGgvZioGK...` |
+| 03-11 01:42 | UXR | BUY | 0.0500 | `3jvD7hew4EZiamwo...` |
+| 03-11 01:40 | JEWCOIN | BUY | 0.0500 | `4BpF9ZBBwXEezkjY...` |
+| 03-11 01:33 | JEW | BUY | 0.0500 | `hvZ7tkkefjYbT3a4...` |
+| 03-11 01:23 | JEW | BUY | 0.0500 | `23Dp8cLwvG73HysF...` |
+| 03-11 01:22 | Tardven | BUY | 0.0500 | `54J6VXQxGwEtw2kr...` |
+| 03-11 01:09 | JEW | BUY | 0.0500 | `61GuQJjSGuR6dfDH...` |
+| 03-11 00:51 | SOS | BUY | 0.0500 | `3woRBJfHgEJZ5B6u...` |
+
+</details>

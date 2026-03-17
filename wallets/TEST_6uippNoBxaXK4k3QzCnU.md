@@ -1,43 +1,20 @@
-# [TEST] Wallet: `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `6uippNoBxaXK4k3Q...`
+> 2026-03-17 11:26 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 3 |
-| Open | 3 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000200 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Green | 03-17 09:55 | 0.00x | 1.00x | 1.5h | 0.0001 |
+| Bracket | 03-17 06:34 | 0.88x | 1.39x | 4.9h | 0.0001 |
+| Shelly | 03-16 18:24 | 0.89x | 1.11x | 17.0h | 0.0001 |
 
-### ⚪ Green
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `BQfTgDEbWgFYNmZ3LHUWnkugsxX45Fqb9cuJdMd5pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 09:55:22 | BUY | 0.000100 | `3uEWrp1chav1XVur2QrMRpAfdyNStW...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 09:55 | Green | BUY | 0.0001 | `3uEWrp1chav1XVur...` |
+| 03-17 06:34 | Bracket | BUY | 0.0001 | `4CCxCSdxzsinp4zY...` |
+| 03-16 18:24 | Shelly | BUY | 0.0001 | `2N4c6gp4xCcY1DEu...` |
 
-### 🟢 Bracket
-- **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 0.88x
-- **Mint:** `CzTuC8wA7uLRLmts9nBtpCpBt5QDYXXmW3m3u5Mqpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:34:29 | BUY | 0.000100 | `4CCxCSdxzsinp4zY8ANdJj5xYDvqzH...` |
-
-### 🟢 Shelly
-- **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.89x
-- **Mint:** `BAZBed8AxJyt15KChfnk2o14V8kmUMGHyJVf15eYpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 18:24:41 | BUY | 0.000100 | `2N4c6gp4xCcY1DEus26aRqr2PrwzJJ...` |
-
+</details>

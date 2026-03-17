@@ -1,26 +1,17 @@
-# [PRD] Wallet: `EyXjj7JMA4ZLWiCVtxRmqa5BqBvF1um5ogcFXJRTvT3M`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `EyXjj7JMA4ZLWiCV...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.031221 SOL** (-62.4%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.050000 |
-| **Closed P&L** | **-0.031221 SOL** |
-| **Closed ROI** | **-62.4%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ ThumbYeti | -0.0312 | 03-10 19:33 | 1.5x | 03-10 20:17 | 0.0188/0.0500 | SL |
 
-### 🔴 ThumbYeti
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.50x | **Current:** 0.00x
-- **Mint:** `8eCwopbEwdSyo3i7CNsR4vx3DGSBkSEXr91R7KNWDkNG`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 19:33:35 | BUY | 0.050000 | `3K1qNiBnymUDsZzeQjL2oRsRVtQVMP...` |
-| 2026-03-10 20:17:16 | SELL | 0.018779 | `2THjDWpK38PaqJufRb5eiCzKyz56qH...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-10 20:17 | ThumbYeti | SELL | 0.0188 | `2THjDWpK38PaqJuf...` |
+| 03-10 19:33 | ThumbYeti | BUY | 0.0500 | `3K1qNiBnymUDsZze...` |
 
+</details>

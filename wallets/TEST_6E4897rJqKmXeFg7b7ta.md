@@ -1,45 +1,27 @@
-# [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `6E4897rJqKmXeFg7...`
+> 2026-03-17 11:26 UTC | **3** pos | **0W/2L** | P&L: **-0.000138 SOL** (-19.7%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.000700 |
-| **Closed P&L** | **-0.000138 SOL** |
-| **Closed ROI** | **-19.7%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BBX | 03-16 15:19 | 2.43x | 2.73x | 20.1h | 0.0001 |
 
-### 🔴 ANGELA
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.04x | **Current:** 0.40x
-- **Mint:** `3Y7qT7op83eTkjHkmBCNE8EYbGC68mr5Vv9hvDVcpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 08:03:18 | BUY | 0.000100 | `cE8djEMZsttsFdbxNqvuNw9QRFnc2b...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ ANGELA | -0.0001 | 03-17 08:03 | 1.0x | 03-17 08:51 | 0.0000/0.0001 | gc_SL |
+| ❌ PEEP | -0.0000 | 03-15 23:02 | 1.0x | 03-16 09:19 | 0.0006/0.0006 | stale_cleanup |
 
-### 🟢 BBX
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.73x | **Current:** 2.43x
-- **Mint:** `3kTiUBtrfGocvcksYsXuFhH2MUkCBwo7X4UuppBJpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 15:19:00 | BUY | 0.000100 | `5yemRY8s52Vw7rzb8rV2mdg9FC4k3B...` |
-| 2026-03-17 00:50:08 | SELL | 0.000022 | `5A6vghkooTNhZdXeLWtaApyZC4zsy2...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 08:03 | ANGELA | BUY | 0.0001 | `cE8djEMZsttsFdbx...` |
+| 03-17 00:50 | BBX | SELL | 0.0000 | `5A6vghkooTNhZdXe...` |
+| 03-16 18:55 | PEEP | SELL | 0.0006 | `?` |
+| 03-16 15:19 | BBX | BUY | 0.0001 | `5yemRY8s52Vw7rzb...` |
+| 03-15 23:02 | PEEP | BUY | 0.0006 | `4WvYLfqxmmJrQSx6...` |
 
-### 🔴 PEEP
-- **Status:** closed | **Exit:** stale_cleanup
-- **Peak:** 1.00x | **Current:** 0.94x
-- **Mint:** `3rAboKibtse1iMA6ZZaP4V2LH3i8kzXC8Vu9srxcpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 23:02:10 | BUY | 0.000600 | `4WvYLfqxmmJrQSx6k9gNpFtPmyQo4S...` |
-| 2026-03-16 18:55:54 | SELL | 0.000562 | `?` |
-
+</details>

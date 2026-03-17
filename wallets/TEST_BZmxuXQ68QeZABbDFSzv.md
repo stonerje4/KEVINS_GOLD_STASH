@@ -1,45 +1,27 @@
-# [TEST] Wallet: `BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `BZmxuXQ68QeZABbD...`
+> 2026-03-17 11:26 UTC | **3** pos | **0W/2L** | P&L: **-0.000120 SOL** (-60.1%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.000200 |
-| **Closed P&L** | **-0.000120 SOL** |
-| **Closed ROI** | **-60.1%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Tabby | 03-16 23:40 | 0.69x | 1.00x | 11.8h | 0.0001 |
 
-### 🔴 Gany
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.48x | **Current:** 0.39x
-- **Mint:** `7RCpTE4o4zQfz5soBiVgyrjDZ5KyC7PJk98tSBPSpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:53:00 | BUY | 0.000100 | `5MuNyTX1SJTChKNTLF4CDPTP3k4gvS...` |
-| 2026-03-17 05:41:41 | SELL | 0.000039 | `5Svq4L4Tx4iLwFTHAmGs8NYehr7zys...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Gany | -0.0001 | 03-17 03:53 | 1.5x | 03-17 05:41 | 0.0000/0.0001 | SL |
+| ❌ imagineslop | -0.0001 | 03-16 23:55 | 1.0x | 03-17 11:11 | 0.0000/0.0001 | SL |
 
-### 🔴 imagineslop
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.40x
-- **Mint:** `EM7haNYD5mcYzZmbDDd2KNtHjcep5Tj1FUajCsCFpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 23:55:17 | BUY | 0.000100 | `2oEcqrrTMZk1h6WAkXb4XqYEx3VKcC...` |
-| 2026-03-17 11:11:12 | SELL | 0.000041 | `51DxCSa42qTbA6xV4FWEoJVeoqMuS5...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 11:11 | imagineslop | SELL | 0.0000 | `51DxCSa42qTbA6xV...` |
+| 03-17 05:41 | Gany | SELL | 0.0000 | `5Svq4L4Tx4iLwFTH...` |
+| 03-17 03:53 | Gany | BUY | 0.0001 | `5MuNyTX1SJTChKNT...` |
+| 03-16 23:55 | imagineslop | BUY | 0.0001 | `2oEcqrrTMZk1h6WA...` |
+| 03-16 23:40 | Tabby | BUY | 0.0001 | `5mopWsyPMgqfpqQK...` |
 
-### 🟢 Tabby
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.69x
-- **Mint:** `9b748tn6XRFqjZZf1YdX1vM2zCySBHB8xFfZvmkMpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 23:40:51 | BUY | 0.000100 | `5mopWsyPMgqfpqQKSAWm9yLKFGqvD4...` |
-
+</details>

@@ -1,58 +1,33 @@
-# [PRD] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `BNCSPd6QtP6rJCWZ...`
+> 2026-03-17 11:26 UTC | **4** pos | **1W/2L** | P&L: **-0.044620 SOL** (-9.9%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 4 |
-| Open | 1 |
-| Closed | 3 |
-| W/L | 1/2 |
-| SOL In (closed) | 0.450000 |
-| **Closed P&L** | **-0.044620 SOL** |
-| **Closed ROI** | **-9.9%** |
-| Open Deployed | 0.150000 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BRACKET | 03-17 01:51 | 0.00x | 1.43x | 9.6h | 0.1500 |
 
-### 🟢 BRACKET
-- **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.00x
-- **Mint:** `DENiaWdNvd3qNjs4zaub5JyTmiw5uYuHPbBdJzwUpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:51:41 | BUY | 0.150000 | `2BmzGVfJYi3pbHCF6ZN65pWkgnTomg...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ Hamster | +0.1455 | 03-16 20:35 | 3.0x | 03-16 21:20 | 0.2955/0.1500 | trail |
+| ❌ RAVEN | -0.0967 | 03-16 20:05 | 1.0x | 03-16 20:41 | 0.0533/0.1500 | SL |
+| ❌ RAVEN | -0.0935 | 03-16 18:42 | 1.3x | 03-16 18:49 | 0.0565/0.1500 | SL |
 
-### 🟢 Hamster
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 3.00x | **Current:** 0.00x
-- **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 20:35:47 | BUY | 0.150000 | `5aPQiJthjmu9DRgkChdMnnzbDd3KuS...` |
-| 2026-03-16 20:54:42 | SELL | 0.030138 | `5xfdmjCxYJHfxQghDPQSGiXGvxr4Yv...` |
-| 2026-03-16 21:12:58 | SELL | 0.045004 | `QAvisauJw3sr1HbL5tHZ9jkLfaq4dF...` |
-| 2026-03-16 21:20:50 | SELL | 0.220347 | `3v2KxysyXAHMHyW7xmQ3dSTyiqXKap...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 01:51 | BRACKET | BUY | 0.1500 | `2BmzGVfJYi3pbHCF...` |
+| 03-16 23:26 | RAVEN | BUY | 0.1500 | `5TcsDRzmbvoSgncu...` |
+| 03-16 21:20 | Hamster | SELL | 0.2203 | `3v2KxysyXAHMHyW7...` |
+| 03-16 21:12 | Hamster | SELL | 0.0450 | `QAvisauJw3sr1HbL...` |
+| 03-16 20:54 | Hamster | SELL | 0.0301 | `5xfdmjCxYJHfxQgh...` |
+| 03-16 20:41 | RAVEN | SELL | 0.0533 | `3NXXXneZZRuZbCFK...` |
+| 03-16 20:35 | Hamster | BUY | 0.1500 | `5aPQiJthjmu9DRgk...` |
+| 03-16 20:05 | RAVEN | BUY | 0.1500 | `kYfSfu34EBn88YLv...` |
+| 03-16 18:49 | RAVEN | SELL | 0.0565 | `4ZpSaD5Da87GRPVK...` |
+| 03-16 18:42 | RAVEN | BUY | 0.1500 | `4xt5fh8XK1KehjBX...` |
 
-### 🔴 RAVEN
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.01x | **Current:** 0.00x
-- **Mint:** `2SjgY1CaaYmn4MwWR4J8BnpMptadFbYRY1xH3uGZpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 20:05:52 | BUY | 0.150000 | `kYfSfu34EBn88YLv6vQgqq3Ku2u8Fs...` |
-| 2026-03-16 20:41:29 | SELL | 0.053341 | `3NXXXneZZRuZbCFKqJJC7g68rSmmnd...` |
-| 2026-03-16 23:26:27 | BUY | 0.150000 | `5TcsDRzmbvoSgncuKR9u129izuTjBh...` |
-
-### 🔴 RAVEN
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.26x | **Current:** 0.00x
-- **Mint:** `446G4LENMqjLFmDMjCQhReY9GTYR3SiTjhx7XkUTpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 18:42:13 | BUY | 0.150000 | `4xt5fh8XK1KehjBXVagJGpmynNrFjA...` |
-| 2026-03-16 18:49:11 | SELL | 0.056549 | `4ZpSaD5Da87GRPVKagfMwY5gemQfmD...` |
-
+</details>

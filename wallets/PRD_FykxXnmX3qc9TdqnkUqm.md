@@ -1,26 +1,17 @@
-# [PRD] Wallet: `FykxXnmX3qc9TdqnkUqmh9XfCALkJAsyfRuNXp4wLiWT`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `FykxXnmX3qc9Tdqn...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.045000 SOL** (-90.0%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.050000 |
-| **Closed P&L** | **-0.045000 SOL** |
-| **Closed ROI** | **-90.0%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ $michi | -0.0450 | 03-10 03:28 | 1.2x | 03-10 13:55 | 0.0050/0.0500 | gc_zero_balance |
 
-### 🔴 $michi
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.17x | **Current:** 0.00x
-- **Mint:** `5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 03:28:36 | BUY | 0.050000 | `5KYmAExomofsw4J3WwNR2RuCSeyhtu...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 19:13 | $michi | SELL | 0.0050 | `?` |
+| 03-10 03:28 | $michi | BUY | 0.0500 | `5KYmAExomofsw4J3...` |
 
+</details>

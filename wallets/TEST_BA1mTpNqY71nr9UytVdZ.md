@@ -1,75 +1,36 @@
-# [TEST] Wallet: `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `BA1mTpNqY71nr9Uy...`
+> 2026-03-17 11:26 UTC | **6** pos | **0W/5L** | P&L: **-0.001073 SOL** (-42.9%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 6 |
-| Open | 1 |
-| Closed | 5 |
-| W/L | 0/5 |
-| SOL In (closed) | 0.002500 |
-| **Closed P&L** | **-0.001073 SOL** |
-| **Closed ROI** | **-42.9%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| SLOWDENG | 03-17 06:01 | 0.56x | 1.00x | 5.4h | 0.0001 |
 
-### 🔴 Nourish
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.40x
-- **Mint:** `DzxwGgi6rFXDmKk3VC4wCZmU25s1xBSmXMN7imuEpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 07:22:49 | BUY | 0.000100 | `57f2FCKr8vTmz14NvpztZULR41jKsy...` |
-| 2026-03-17 07:27:43 | SELL | 0.000040 | `2rKnYqSeiPhLAvwR65G6acc5qHPXy6...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Nourish | -0.0001 | 03-17 07:22 | 1.0x | 03-17 07:27 | 0.0000/0.0001 | SL |
+| ❌ RICHIE | -0.0004 | 03-16 07:21 | 1.1x | 03-16 07:24 | 0.0002/0.0006 | gc_SL |
+| ❌ HiQ | -0.0002 | 03-16 03:56 | 1.0x | 03-16 03:58 | 0.0004/0.0006 | gc_SL |
+| ❌ May9 | -0.0003 | 03-16 03:29 | 1.1x | 03-16 03:32 | 0.0003/0.0006 | gc_SL |
+| ❌ TIM | -0.0002 | 03-16 01:16 | 1.4x | 03-16 01:35 | 0.0004/0.0006 | gc_SL |
 
-### 🟢 SLOWDENG
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.56x
-- **Mint:** `J15vg5cxbKvNiYxz7QcuZtMG9mNVMb78oLkFQKqvpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:01:11 | BUY | 0.000100 | `232QdnCtqMGREj1uSCmF6tmC5mCz1F...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 07:27 | Nourish | SELL | 0.0000 | `2rKnYqSeiPhLAvwR...` |
+| 03-17 07:22 | Nourish | BUY | 0.0001 | `57f2FCKr8vTmz14N...` |
+| 03-17 06:01 | SLOWDENG | BUY | 0.0001 | `232QdnCtqMGREj1u...` |
+| 03-16 07:23 | RICHIE | SELL | 0.0002 | `28GUd3jUQtFrDEFB...` |
+| 03-16 07:21 | RICHIE | BUY | 0.0006 | `23F17RcCEhD8e6z1...` |
+| 03-16 03:58 | HiQ | SELL | 0.0004 | `2cWRQg6LUJQ3RKLx...` |
+| 03-16 03:56 | HiQ | BUY | 0.0006 | `2J5N9ZxskofTnUaS...` |
+| 03-16 03:32 | May9 | SELL | 0.0003 | `3eWTwbw96UkwC89Y...` |
+| 03-16 03:29 | May9 | BUY | 0.0006 | `DjTjVA7k7w3EngWh...` |
+| 03-16 01:35 | TIM | SELL | 0.0004 | `67KpJxoLYYpmxtHi...` |
+| 03-16 01:16 | TIM | BUY | 0.0006 | `2LE2H9vLnooQde1C...` |
 
-### 🔴 RICHIE
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.08x | **Current:** 0.40x
-- **Mint:** `2m3DLpek4jtJHKP2YKrnyH2Y3DvsY9KtsCybgnKRpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 07:21:17 | BUY | 0.000600 | `23F17RcCEhD8e6z152r7fRmjsMWENr...` |
-| 2026-03-16 07:23:45 | SELL | 0.000242 | `28GUd3jUQtFrDEFB9QHSmCg7brLTd9...` |
-
-### 🔴 HiQ
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.05x | **Current:** 0.65x
-- **Mint:** `5Pzj5uBmVoXbjoaCzkmxZ5KmEH3f4ktunUifky8rpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 03:56:42 | BUY | 0.000600 | `2J5N9ZxskofTnUaSLQXxq9YnGXLH7F...` |
-| 2026-03-16 03:58:43 | SELL | 0.000390 | `2cWRQg6LUJQ3RKLxgTcbAcrNfRSb93...` |
-
-### 🔴 May9
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.11x | **Current:** 0.57x
-- **Mint:** `ACG6oWwaznJGmoZF5JuG7NrPP8wCppKXoHXtc791pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 03:29:18 | BUY | 0.000600 | `DjTjVA7k7w3EngWhatPigaNqJEwXhN...` |
-| 2026-03-16 03:32:39 | SELL | 0.000338 | `3eWTwbw96UkwC89YAvxaQTaoA5BCrg...` |
-
-### 🔴 TIM
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.40x | **Current:** 0.69x
-- **Mint:** `AkJE6ZeP9Fjy686moEh1KUQuri7KMjp46xZCs9dWpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 01:16:24 | BUY | 0.000600 | `2LE2H9vLnooQde1CGK3B8xANTk5oxA...` |
-| 2026-03-16 01:35:09 | SELL | 0.000416 | `67KpJxoLYYpmxtHitRnhCGarung5Kj...` |
-
+</details>

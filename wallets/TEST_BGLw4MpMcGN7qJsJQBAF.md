@@ -1,55 +1,30 @@
-# [TEST] Wallet: `BGLw4MpMcGN7qJsJQBAFzfBudXgaUtnczFCxrrpCHq8P`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `BGLw4MpMcGN7qJsJ...`
+> 2026-03-17 11:26 UTC | **4** pos | **1W/0L** | P&L: **+0.000055 SOL** (+54.6%) | 3 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 4 |
-| Open | 3 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000055 SOL** |
-| **Closed ROI** | **+54.6%** |
-| Open Deployed | 0.000300 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Rat | 03-17 00:24 | 0.72x | 1.02x | 11.0h | 0.0001 |
+| Agent | 03-17 00:20 | 0.81x | 1.02x | 11.1h | 0.0001 |
+| UNSW | 03-17 00:11 | 0.70x | 1.67x | 11.2h | 0.0001 |
 
-### 🟢 Rat
-- **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.72x
-- **Mint:** `Ag1yT2SkPWDaHe8bX9KRFfySrDAB3q6vXX5HXcx7pump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:24:23 | BUY | 0.000100 | `8zWMawrXdnNmtriUtQTZi3nKoouoa5...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ MiroFish | +0.0001 | 03-16 23:28 | 3.1x | 03-17 03:08 | 0.0002/0.0001 | trail |
 
-### 🟢 Agent
-- **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.81x
-- **Mint:** `CMrERcgujw356Q7kUq6JHoogzEPMDpNNnvE81pC5pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:20:37 | BUY | 0.000100 | `4aKX6K19Q5TZn68paUNSYAf4tHAWyu...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 03:08 | MiroFish | SELL | 0.0001 | `4xgMrZ29kkYPQpkq...` |
+| 03-17 02:58 | MiroFish | SELL | 0.0000 | `32h42EMq8bj3NcTh...` |
+| 03-17 02:49 | MiroFish | SELL | 0.0000 | `3PZLrhq2mUBaHAHb...` |
+| 03-17 00:24 | Rat | BUY | 0.0001 | `8zWMawrXdnNmtriU...` |
+| 03-17 00:20 | Agent | BUY | 0.0001 | `4aKX6K19Q5TZn68p...` |
+| 03-17 00:11 | UNSW | BUY | 0.0001 | `4kU9PKexWQHdrbKf...` |
+| 03-16 23:28 | MiroFish | BUY | 0.0001 | `54Uvhqf9rkZZrvya...` |
 
-### 🟢 UNSW
-- **Status:** open | **Exit:** open
-- **Peak:** 1.67x | **Current:** 0.70x
-- **Mint:** `Fpckub6J1WMSJctyJJgsXVJcQbUXa4HsJbrF783Epump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:11:19 | BUY | 0.000100 | `4kU9PKexWQHdrbKfd4RUrxwQL4NSJo...` |
-
-### 🟢 MiroFish
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 3.11x | **Current:** 1.30x
-- **Mint:** `9vbovDf4rgasuPUw7CZDW8ekoJpo3R4SrohQK8aQpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 23:28:29 | BUY | 0.000100 | `54Uvhqf9rkZZrvyaYfTUG1u8Luqihf...` |
-| 2026-03-17 02:49:36 | SELL | 0.000020 | `3PZLrhq2mUBaHAHbjKZRc6iCRxkCWr...` |
-| 2026-03-17 02:58:00 | SELL | 0.000028 | `32h42EMq8bj3NcTha5v2wJztEB4kuJ...` |
-| 2026-03-17 03:08:59 | SELL | 0.000106 | `4xgMrZ29kkYPQpkqFzUAuvi6AuAze6...` |
-
+</details>

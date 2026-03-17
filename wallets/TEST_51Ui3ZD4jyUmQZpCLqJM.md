@@ -1,25 +1,16 @@
-# [TEST] Wallet: `51Ui3ZD4jyUmQZpCLqJMzARpu3rqJiv5H1gM7ZFqycRw`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `51Ui3ZD4jyUmQZpC...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 1 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Geeked | 03-17 03:54 | 0.86x | 1.01x | 7.5h | 0.0001 |
 
-### 🟢 Geeked
-- **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.86x
-- **Mint:** `Ggy4NubNtkKvuyiH7dCECXZTJdU3WC848EtafREppump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:54:01 | BUY | 0.000100 | `2voC9c5aqSyMCJEPR7GWGPeNiDrgFu...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 03:54 | Geeked | BUY | 0.0001 | `2voC9c5aqSyMCJEP...` |
 
+</details>

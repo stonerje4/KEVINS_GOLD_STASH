@@ -1,37 +1,21 @@
-# [PRD] Wallet: `HSRxqhPLFWcikdwN1XweD9n6JWXKphCGibv7EKwPVAzr`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `HSRxqhPLFWcikdwN...`
+> 2026-03-17 11:26 UTC | **2** pos | **1W/1L** | P&L: **+0.003528 SOL** (+3.5%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
-| Closed | 2 |
-| W/L | 1/1 |
-| SOL In (closed) | 0.100000 |
-| **Closed P&L** | **+0.003528 SOL** |
-| **Closed ROI** | **+3.5%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ MACSTUDIO | -0.0242 | 03-11 07:30 | 1.0x | 03-11 07:32 | 0.0258/0.0500 | SL |
+| ✅ MACSTUDIO | +0.0277 | 03-11 07:21 | 2.1x | 03-11 07:25 | 0.0777/0.0500 | trail |
 
-### 🔴 MACSTUDIO
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `GbBWNvmu5oxYH6ZeJmZZfZ8e88BHyZuJsuRoHVb4pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 07:30:41 | BUY | 0.050000 | `4KgfnzFHCzHv2WbNrowXFbNn1hAkG7...` |
-| 2026-03-11 07:32:51 | SELL | 0.025796 | `vpefBrvuyHLPU3oeHfvNSVeMAoMrQ1...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-11 07:32 | MACSTUDIO | SELL | 0.0258 | `vpefBrvuyHLPU3oe...` |
+| 03-11 07:30 | MACSTUDIO | BUY | 0.0500 | `4KgfnzFHCzHv2WbN...` |
+| 03-11 07:25 | MACSTUDIO | SELL | 0.0243 | `4czW5fzLwwQAvRaZ...` |
+| 03-11 07:22 | MACSTUDIO | SELL | 0.0534 | `5XnjvikAd6cbsfLj...` |
+| 03-11 07:21 | MACSTUDIO | BUY | 0.0500 | `38vFrKpgHVtLRCSP...` |
 
-### 🟢 MACSTUDIO
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 2.14x | **Current:** 0.00x
-- **Mint:** `9cYLQYurshU2TMkP3XH3pqvNEjvdXFHTYdaxGXo1pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-11 07:21:16 | BUY | 0.050000 | `38vFrKpgHVtLRCSPpfjNewSm7S7cDL...` |
-| 2026-03-11 07:22:48 | SELL | 0.053423 | `5XnjvikAd6cbsfLjNmbfKBsvoiuriG...` |
-| 2026-03-11 07:25:20 | SELL | 0.024309 | `4czW5fzLwwQAvRaZ413494Txv8DTcg...` |
-
+</details>

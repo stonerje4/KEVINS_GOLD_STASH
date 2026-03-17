@@ -1,28 +1,19 @@
-# [PRD] Wallet: `DqUJZJ6e3sBiMtUbgveCJzqh3JhiLhpuBYmncg1ivwcc`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `DqUJZJ6e3sBiMtUb...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.036982 SOL** (-24.7%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.150000 |
-| **Closed P&L** | **-0.036982 SOL** |
-| **Closed ROI** | **-24.7%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Soulmates | -0.0370 | 03-16 20:46 | 1.3x | 03-16 21:11 | 0.1130/0.1500 | SL |
 
-### 🔴 Soulmates
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.30x | **Current:** 0.00x
-- **Mint:** `2k1Sxj2ZNpWtvwANBWsN4SNtdRzonHgh7FJFRYympump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 20:46:36 | BUY | 0.150000 | `52dMFhuVrPAnuP3sTHnM6qe5MVbtZu...` |
-| 2026-03-16 21:11:13 | SELL | 0.057619 | `2jwSTFrjSJLjDZi9mRdBoJdngzzA3v...` |
-| 2026-03-16 22:09:09 | BUY | 0.150000 | `2CWrdiwd2BMiNQvMQVVtm674xqHm7u...` |
-| 2026-03-17 02:18:14 | SELL | 0.055399 | `3x3CZv3ZnnczWdmmSwgD65ATGZs8Pn...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 02:18 | Soulmates | SELL | 0.0554 | `3x3CZv3ZnnczWdmm...` |
+| 03-16 22:09 | Soulmates | BUY | 0.1500 | `2CWrdiwd2BMiNQvM...` |
+| 03-16 21:11 | Soulmates | SELL | 0.0576 | `2jwSTFrjSJLjDZi9...` |
+| 03-16 20:46 | Soulmates | BUY | 0.1500 | `52dMFhuVrPAnuP3s...` |
 
+</details>

@@ -1,116 +1,49 @@
-# [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `Gdd86j2TsD8xtP5b...`
+> 2026-03-17 11:26 UTC | **10** pos | **1W/5L** | P&L: **-0.000291 SOL** (-26.4%) | 4 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 10 |
-| Open | 4 |
-| Closed | 6 |
-| W/L | 1/5 |
-| SOL In (closed) | 0.001100 |
-| **Closed P&L** | **-0.000291 SOL** |
-| **Closed ROI** | **-26.4%** |
-| Open Deployed | 0.000400 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Distorted | 03-17 07:55 | 0.77x | 1.01x | 3.5h | 0.0001 |
+| BITCOIN | 03-17 03:08 | 0.45x | 1.83x | 8.3h | 0.0001 |
+| grokette | 03-17 02:18 | 0.46x | 1.00x | 9.1h | 0.0001 |
+| GIGAKAREN | 03-17 02:08 | 0.61x | 1.49x | 9.3h | 0.0001 |
 
-### 🔴 RETRO
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.35x
-- **Mint:** `7tnpYdpwfyjozPUdfU3K8whqPZ8YtqLGcUp9Kpdtpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 08:09:15 | BUY | 0.000100 | `zNzbgitw3jRCjs3NpoqpypBdzgxi81...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ RETRO | -0.0001 | 03-17 08:09 | 1.0x | 03-17 08:48 | 0.0000/0.0001 | gc_SL |
+| ❌ TOILS | -0.0001 | 03-17 06:10 | 1.1x | 03-17 06:23 | 0.0000/0.0001 | SL |
+| ❌ GROKETTE | -0.0000 | 03-17 02:38 | 2.4x | 03-17 03:10 | 0.0001/0.0001 | trail |
+| ✅ Hyojo | +0.0003 | 03-17 02:24 | 9.6x | 03-17 05:08 | 0.0004/0.0001 | trail |
+| ❌ Cinema | -0.0001 | 03-16 16:21 | 1.3x | 03-16 23:44 | 0.0000/0.0001 | gc_SL |
+| ❌ PW | -0.0003 | 03-16 13:42 | 1.0x | 03-16 13:51 | 0.0003/0.0006 | gc_SL |
 
-### 🟢 Distorted
-- **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.77x
-- **Mint:** `GE6YE3H2xKAfsgKoRiG8YT4noCJGywk233rteNeSpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 07:55:08 | BUY | 0.000100 | `umCiWSYRwEKEYmuysrL4UZRj2jQmpg...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 08:09 | RETRO | BUY | 0.0001 | `zNzbgitw3jRCjs3N...` |
+| 03-17 07:55 | Distorted | BUY | 0.0001 | `umCiWSYRwEKEYmuy...` |
+| 03-17 06:23 | TOILS | SELL | 0.0000 | `rQ1Ju7zG1nFSRKBv...` |
+| 03-17 06:10 | TOILS | BUY | 0.0001 | `2Wm8ypmNNbqAVEbo...` |
+| 03-17 05:08 | Hyojo | SELL | 0.0002 | `4LQ8ps4dNMetxNCf...` |
+| 03-17 03:41 | Hyojo | SELL | 0.0001 | `NFJyFXX7uF4d211m...` |
+| 03-17 03:30 | Hyojo | SELL | 0.0000 | `57FujEsFGeSPjxr9...` |
+| 03-17 03:25 | Hyojo | SELL | 0.0000 | `2o5kGpVa6aAFh5Ho...` |
+| 03-17 03:10 | GROKETTE | SELL | 0.0001 | `2858jiKbEbiGvVTe...` |
+| 03-17 03:08 | BITCOIN | BUY | 0.0001 | `4PhYe3RBbaQBdqix...` |
+| 03-17 02:50 | GROKETTE | SELL | 0.0000 | `21VW82hgRrP1yGNZ...` |
+| 03-17 02:40 | Hyojo | SELL | 0.0000 | `48pkHcracV1t2tcw...` |
+| 03-17 02:38 | GROKETTE | BUY | 0.0001 | `2dFYq2SButK3Uv9V...` |
+| 03-17 02:24 | Hyojo | BUY | 0.0001 | `5BtgGucELpzU89DT...` |
+| 03-17 02:18 | grokette | BUY | 0.0001 | `4dEnMFCfwWFyEMjM...` |
+| 03-17 02:08 | GIGAKAREN | BUY | 0.0001 | `5L39A62QLY3ghWbi...` |
+| 03-16 23:44 | Cinema | SELL | 0.0000 | `t968UCmhMYF4Sqpe...` |
+| 03-16 16:21 | Cinema | BUY | 0.0001 | `gKYKBRgUL6cQSoU2...` |
+| 03-16 13:51 | PW | SELL | 0.0003 | `XZLmf8JfdVRfp12G...` |
+| 03-16 13:42 | PW | BUY | 0.0006 | `4APRazruRgcCxDcv...` |
 
-### 🔴 TOILS
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.06x | **Current:** 0.33x
-- **Mint:** `4WvDUrZtJkepsRMvaRdsdjFnuqppjx8asnMyiTWRpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:10:29 | BUY | 0.000100 | `2Wm8ypmNNbqAVEboXF19ayqmHHPxwz...` |
-| 2026-03-17 06:23:57 | SELL | 0.000032 | `rQ1Ju7zG1nFSRKBvsJBgJpNJjizFWg...` |
-
-### 🟢 BITCOIN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.83x | **Current:** 0.45x
-- **Mint:** `GoiXEGSrUBCZhQH1d3cGaZ1TXtPWgdtx1fCcxS76pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:08:19 | BUY | 0.000100 | `4PhYe3RBbaQBdqix8S4ovuXk8UVGUg...` |
-
-### 🔴 GROKETTE
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 2.40x | **Current:** 0.73x
-- **Mint:** `65EgPvGQQgSofuuoUkx2xpWVPwMVVLpyFBL3GSSzpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:38:19 | BUY | 0.000100 | `2dFYq2SButK3Uv9VYPxPzP1C4Pr5v6...` |
-| 2026-03-17 02:50:17 | SELL | 0.000022 | `21VW82hgRrP1yGNZhcinznDtMVQLFa...` |
-| 2026-03-17 03:10:49 | SELL | 0.000066 | `2858jiKbEbiGvVTeLZViRWR2uczYWk...` |
-
-### 🟢 Hyojo
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 9.65x | **Current:** 2.97x
-- **Mint:** `HfKNrf3VFYSzZfG3jS4pQEfjkHTxAwmD4wm1FUx8pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:24:01 | BUY | 0.000100 | `5BtgGucELpzU89DTBy4A2bMnZUSMwf...` |
-| 2026-03-17 02:40:52 | SELL | 0.000023 | `48pkHcracV1t2tcwyP1qeTEBiVjgvA...` |
-| 2026-03-17 03:25:22 | SELL | 0.000028 | `2o5kGpVa6aAFh5HoEsZzmikTLNKkkf...` |
-| 2026-03-17 03:30:04 | SELL | 0.000044 | `57FujEsFGeSPjxr9hj1tt8eVJGzexu...` |
-| 2026-03-17 03:41:05 | SELL | 0.000059 | `NFJyFXX7uF4d211mkXMsSV9SbZiirN...` |
-| 2026-03-17 05:08:01 | SELL | 0.000197 | `4LQ8ps4dNMetxNCfWPy2XKNcdQqE5P...` |
-
-### 🟢 grokette
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.46x
-- **Mint:** `8kDgMFnBW2N1C1VybWuPdqHfE5YBWrBykXf5TLA3iUFG`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:18:16 | BUY | 0.000100 | `4dEnMFCfwWFyEMjMSGaVGDnCKVHrbw...` |
-
-### 🟢 GIGAKAREN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 0.61x
-- **Mint:** `32VxfAVgqveDipA69MNYjoLAzW9snbqp63Jm3iFWpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:08:59 | BUY | 0.000100 | `5L39A62QLY3ghWbiiyJS3xbUG1QpZJ...` |
-
-### 🔴 Cinema
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.30x | **Current:** 0.40x
-- **Mint:** `2p1YCjSxufM9ui6ePHrBsp7dTVNdsrA6NXMtjgympump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 16:21:09 | BUY | 0.000100 | `gKYKBRgUL6cQSoU2BCgrcikSobapVb...` |
-| 2026-03-16 23:44:10 | SELL | 0.000038 | `t968UCmhMYF4SqpecJu9VcxYp4PNdg...` |
-
-### 🔴 PW
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.50x
-- **Mint:** `2ZgSk6zRvCKeobq9vrVdbKSsZKNE5mJSkep4s4nXpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 13:42:25 | BUY | 0.000600 | `4APRazruRgcCxDcviHx2APFbxj1CUy...` |
-| 2026-03-16 13:51:22 | SELL | 0.000300 | `XZLmf8JfdVRfp12GhZQ7v7caVUCNfG...` |
-
+</details>

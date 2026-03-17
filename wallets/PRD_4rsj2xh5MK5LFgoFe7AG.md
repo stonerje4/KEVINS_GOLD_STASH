@@ -1,25 +1,16 @@
-# [PRD] Wallet: `4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `4rsj2xh5MK5LFgoF...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 1 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.150000 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| 401k | 03-17 10:40 | 0.00x | 1.40x | 0.8h | 0.1500 |
 
-### 🟢 401k
-- **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 0.00x
-- **Mint:** `B9Tyqo7A1B8wE9TTQV1BupP5A6LMiaTLiHv8sdQLpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 10:40:44 | BUY | 0.150000 | `38rH8JuY6KTCfmMvtNLVUFftvKTLLY...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 10:40 | 401k | BUY | 0.1500 | `38rH8JuY6KTCfmMv...` |
 
+</details>

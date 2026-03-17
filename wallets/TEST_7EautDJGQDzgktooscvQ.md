@@ -1,34 +1,23 @@
-# [TEST] Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `7EautDJGQDzgktoo...`
+> 2026-03-17 11:26 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **-0.000100 SOL** |
-| **Closed ROI** | **-100.0%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| pvpdog | 03-17 06:49 | 0.46x | 1.70x | 4.6h | 0.0001 |
 
-### 🟢 pvpdog
-- **Status:** open | **Exit:** open
-- **Peak:** 1.70x | **Current:** 0.40x
-- **Mint:** `9UT2T4XPYAtiUuSBdgkHTBbCTcfUtDVUSdSkTev1pump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:49:38 | BUY | 0.000100 | `5b47reMz5nLP65BHDpq1nHDgnDbsfN...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ PROSUMER | -0.0001 | 03-17 06:32 | 1.4x | 03-17 06:53 | 0.0000/0.0001 | gc_SL |
 
-### 🔴 PROSUMER
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.36x | **Current:** 0.40x
-- **Mint:** `EHi1rzMYyxtR7PwPrBfWcCbz7fMwL6Snwa5NYaVCpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:32:57 | BUY | 0.000100 | `nyPjARUgT8mXEjDgznMmfjYqF5rbjT...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 06:49 | pvpdog | BUY | 0.0001 | `5b47reMz5nLP65BH...` |
+| 03-17 06:32 | PROSUMER | BUY | 0.0001 | `nyPjARUgT8mXEjDg...` |
 
+</details>

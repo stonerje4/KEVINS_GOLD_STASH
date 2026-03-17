@@ -1,53 +1,28 @@
-# [TEST] Wallet: `7cXeEXa4cpUDYtpaMGP2rc7pe1LJB6M93DtiVJswpbrJ`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `7cXeEXa4cpUDYtpa...`
+> 2026-03-17 11:26 UTC | **4** pos | **0W/2L** | P&L: **-0.000161 SOL** (-80.7%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 4 |
-| Open | 2 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.000200 |
-| **Closed P&L** | **-0.000161 SOL** |
-| **Closed ROI** | **-80.7%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BULLY | 03-17 10:05 | 0.00x | 1.00x | 1.3h | 0.0001 |
+| 401k | 03-17 06:39 | 1.35x | 1.89x | 4.8h | 0.0001 |
 
-### ⚪ BULLY
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `4H2eEtZNzDCKcp1QSTAdxk8Zp3UeYZyUxjTvzjVcpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 10:05:08 | BUY | 0.000100 | `4rWibkJu1osyx1agj12PoMDgM5Xyf1...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Ouroboros | -0.0001 | 03-17 08:25 | 2.3x | 03-17 10:01 | 0.0000/0.0001 | gc_tp_2x_half |
+| ❌ ƒ⌂┌† | -0.0001 | 03-17 00:06 | 1.0x | 03-17 00:14 | 0.0000/0.0001 | gc_SL |
 
-### 🔴 Ouroboros
-- **Status:** closed | **Exit:** ghost_close_tp_2x_half
-- **Peak:** 2.34x | **Current:** 2.34x
-- **Mint:** `2yeyNC83oe3kht8Jnsd4xsrL64X35RYFKgZQakEdpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 08:25:12 | BUY | 0.000100 | `dCoAQqsjYXddXHYf9QgZv7CFqyZUqG...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 10:05 | BULLY | BUY | 0.0001 | `4rWibkJu1osyx1ag...` |
+| 03-17 08:25 | Ouroboros | BUY | 0.0001 | `dCoAQqsjYXddXHYf...` |
+| 03-17 06:39 | 401k | BUY | 0.0001 | `23E2YCPw7mkaEd2s...` |
+| 03-17 00:13 | ƒ⌂┌† | SELL | 0.0000 | `55AdNWjXiZZH9jJg...` |
+| 03-17 00:06 | ƒ⌂┌† | BUY | 0.0001 | `Yk4ibkUTXxGHuv9d...` |
 
-### 🟢 401k
-- **Status:** open | **Exit:** open
-- **Peak:** 1.89x | **Current:** 1.34x
-- **Mint:** `B9Tyqo7A1B8wE9TTQV1BupP5A6LMiaTLiHv8sdQLpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:39:07 | BUY | 0.000100 | `23E2YCPw7mkaEd2sEmwAupUvucJ4ib...` |
-
-### 🔴 ƒ⌂┌†
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.01x | **Current:** 0.39x
-- **Mint:** `1EhhJGNMAvWoCtZUbrUSjBE8fNYZ1AG3GCzUVQppump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:06:30 | BUY | 0.000100 | `Yk4ibkUTXxGHuv9d8wcjumoEGtEUKg...` |
-| 2026-03-17 00:13:52 | SELL | 0.000039 | `55AdNWjXiZZH9jJgRX9Cech8bPs5gs...` |
-
+</details>

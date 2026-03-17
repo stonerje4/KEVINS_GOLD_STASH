@@ -1,112 +1,45 @@
-# [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `ApkQGKbq8dRw5ha9...`
+> 2026-03-17 11:26 UTC | **10** pos | **1W/4L** | P&L: **+0.001316 SOL** (+87.8%) | 5 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 10 |
-| Open | 5 |
-| Closed | 5 |
-| W/L | 1/4 |
-| SOL In (closed) | 0.001500 |
-| **Closed P&L** | **+0.001316 SOL** |
-| **Closed ROI** | **+87.8%** |
-| Open Deployed | 0.000500 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| STRINGMAN | 03-17 03:48 | 0.53x | 1.07x | 7.6h | 0.0001 |
+| Giraffe  | 03-17 03:33 | 0.43x | 1.19x | 7.9h | 0.0001 |
+| POKEMON | 03-17 00:44 | 0.72x | 1.05x | 10.7h | 0.0001 |
+| OWN | 03-17 00:24 | 0.70x | 1.04x | 11.0h | 0.0001 |
+| DGPT | 03-17 00:16 | 1.04x | 1.13x | 11.2h | 0.0001 |
 
-### 🔴 LAZY
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.31x | **Current:** 0.37x
-- **Mint:** `EkepxDYmu4Znpj4PJr7yC96kQmG2FWyFE4aeYTtZpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 08:32:28 | BUY | 0.000100 | `2y23ov6vcXZgDhLdKrtSNaLuoEPqoa...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ LAZY | -0.0001 | 03-17 08:32 | 1.3x | 03-17 08:50 | 0.0000/0.0001 | gc_SL |
+| ❌ SafeMoon | -0.0001 | 03-17 07:42 | 2.2x | 03-17 07:47 | 0.0000/0.0001 | gc_tp_2x_half |
+| ❌ Orca | -0.0000 | 03-16 16:13 | 2.8x | 03-16 17:58 | 0.0001/0.0001 | trail |
+| ❌ LBELL26 | -0.0006 | 03-15 22:50 | 1.0x | 03-15 22:50 | 0.0000/0.0006 | gc_tp_2x_half |
+| ✅ POKEMAPS | +0.0021 | 03-15 22:38 | 6.9x | 03-16 01:01 | 0.0027/0.0006 | gc_trail |
 
-### 🔴 SafeMoon
-- **Status:** closed | **Exit:** ghost_close_tp_2x_half
-- **Peak:** 2.21x | **Current:** 2.21x
-- **Mint:** `3iimoaC19oTes4QQh8pcjp6GxWqzcxwu41eBbz4fpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 07:42:46 | BUY | 0.000100 | `ABuygE3V3AVMSqFLQvgLFYMEsWYCmc...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 08:32 | LAZY | BUY | 0.0001 | `2y23ov6vcXZgDhLd...` |
+| 03-17 07:42 | SafeMoon | BUY | 0.0001 | `ABuygE3V3AVMSqFL...` |
+| 03-17 03:48 | STRINGMAN | BUY | 0.0001 | `pxj5UmuKJYVtUxqB...` |
+| 03-17 03:33 | Giraffe  | BUY | 0.0001 | `5FsFUnDsX1CgnDxF...` |
+| 03-17 00:44 | POKEMON | BUY | 0.0001 | `5mmXdjLL2NFxpYWH...` |
+| 03-17 00:24 | OWN | BUY | 0.0001 | `2JuXunH4iFhuRRTs...` |
+| 03-17 00:16 | DGPT | BUY | 0.0001 | `3Ciw1oJ4e2YV4Bu5...` |
+| 03-16 19:13 | LBELL26 | SELL | 0.0000 | `?` |
+| 03-16 17:58 | Orca | SELL | 0.0001 | `5tcAgF3FfLVyA8ey...` |
+| 03-16 16:22 | Orca | SELL | 0.0000 | `pLUCNaJt17QHwh9A...` |
+| 03-16 16:13 | Orca | BUY | 0.0001 | `4Fkngg4KPXZeXnWv...` |
+| 03-16 01:01 | POKEMAPS | SELL | 0.0012 | `3fADjaCigPsK9scK...` |
+| 03-16 00:28 | POKEMAPS | SELL | 0.0007 | `VrcQVKZC1Nb3MJCF...` |
+| 03-16 00:13 | POKEMAPS | SELL | 0.0009 | `5trKSMpRAVpKys6T...` |
+| 03-15 22:50 | LBELL26 | BUY | 0.0006 | `3wtMSx28G6EcXbLy...` |
+| 03-15 22:38 | POKEMAPS | BUY | 0.0006 | `27bKnF1wyTqWU8Xm...` |
 
-### 🟢 STRINGMAN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.53x
-- **Mint:** `3SMiqoX156hvFKracc2PB3tVhacMRiKu8c8Hnskmpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:48:10 | BUY | 0.000100 | `pxj5UmuKJYVtUxqBgLD3gGZCjcaMNk...` |
-
-### 🟢 Giraffe 
-- **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.43x
-- **Mint:** `2VP6daVD4nDo5sDamXth8fKoTtjmakXHFJHZdSgPpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:33:11 | BUY | 0.000100 | `5FsFUnDsX1CgnDxFAy3JB3Xi2x5kiV...` |
-
-### 🟢 POKEMON
-- **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.72x
-- **Mint:** `Cj56juraQxYxJJHdcdvAgtXqezF8Uxasa6DPsVFcpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:44:25 | BUY | 0.000100 | `5mmXdjLL2NFxpYWHog67ZYYt45rWt4...` |
-
-### 🟢 OWN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.70x
-- **Mint:** `MGopH3LorVWj9bWZgyo7Yd7EmHrYqeNrsD9TUq4pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:24:59 | BUY | 0.000100 | `2JuXunH4iFhuRRTs8XmH8ypE4oxAoj...` |
-
-### 🟢 DGPT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.04x
-- **Mint:** `veAj5XS6Ax8xLX5BjxAcWpfSFH7Dqh7aatxYTB6Hory`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:16:23 | BUY | 0.000100 | `3Ciw1oJ4e2YV4Bu5ZtEo1tQudDj57W...` |
-
-### 🔴 Orca
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 2.83x | **Current:** 0.77x
-- **Mint:** `9wSZbC64PfKhsE7dW5GAeEBeQGitPBMV3hLUuLB9pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 16:13:50 | BUY | 0.000100 | `4Fkngg4KPXZeXnWv4iHTFqMBtuTinq...` |
-| 2026-03-16 16:22:35 | SELL | 0.000023 | `pLUCNaJt17QHwh9A9HrKzgM6HQ4VTX...` |
-| 2026-03-16 17:58:55 | SELL | 0.000069 | `5tcAgF3FfLVyA8ey8iRRPm3uzzb9yr...` |
-
-### 🔴 LBELL26
-- **Status:** closed | **Exit:** ghost_close_tp_2x_half
-- **Peak:** 1.00x | **Current:** 865.94x
-- **Mint:** `Ef5MAsDjChg6xDxpejN7cURL78AFnYxY1Q12obm3BAGS`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 22:50:23 | BUY | 0.000600 | `3wtMSx28G6EcXbLyEZ1VyGeXCzYGoU...` |
-| 2026-03-16 19:13:12 | SELL | 0.000000 | `?` |
-
-### 🟢 POKEMAPS
-- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
-- **Peak:** 6.92x | **Current:** 4.00x
-- **Mint:** `4Ehuuwj6KBtcAaE21ahSMErATgiaU2hEFpn5o4Vtpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 22:38:04 | BUY | 0.000600 | `27bKnF1wyTqWU8XmKMNRR4xhJAHYLd...` |
-| 2026-03-16 00:13:37 | SELL | 0.000866 | `5trKSMpRAVpKys6T7HPYTxZF6W2a47...` |
-| 2026-03-16 00:28:32 | SELL | 0.000693 | `VrcQVKZC1Nb3MJCFHisMiKGD3DUzJt...` |
-| 2026-03-16 01:01:28 | SELL | 0.001166 | `3fADjaCigPsK9scKherXJPyNhqH1yH...` |
-
+</details>

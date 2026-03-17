@@ -1,77 +1,38 @@
-# [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `5dd3zjBQQvQqtmWF...`
+> 2026-03-17 11:26 UTC | **6** pos | **2W/3L** | P&L: **+0.000327 SOL** (+16.4%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 6 |
-| Open | 1 |
-| Closed | 5 |
-| W/L | 2/3 |
-| SOL In (closed) | 0.002000 |
-| **Closed P&L** | **+0.000327 SOL** |
-| **Closed ROI** | **+16.4%** |
-| Open Deployed | 0.000600 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| GORILLA | 03-16 06:22 | 0.76x | 1.14x | 1.2d | 0.0006 |
 
-### 🔴 CHAD
-- **Status:** closed | **Exit:** ghost_close_tp_2x_half
-- **Peak:** 2.17x | **Current:** 2.17x
-- **Mint:** `4uwzn2mmd2wCwx4HqtUw99qbBd2nxr99zYBwH7kopump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 08:35:33 | BUY | 0.000100 | `2BcRnUTwxYZPnBxwmLFwmducq39nxh...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ CHAD | -0.0001 | 03-17 08:35 | 2.2x | 03-17 09:24 | 0.0000/0.0001 | gc_tp_2x_half |
+| ❌ NStrat | -0.0001 | 03-16 23:32 | 1.5x | 03-17 03:16 | 0.0000/0.0001 | SL |
+| ✅ AIFREE | +0.0005 | 03-16 13:57 | 3.3x | 03-16 15:02 | 0.0011/0.0006 | gc_trail |
+| ✅ tiger | +0.0002 | 03-16 05:44 | 2.8x | 03-16 05:56 | 0.0008/0.0006 | gc_trail |
+| ❌ STNK | -0.0002 | 03-16 05:15 | 1.3x | 03-16 05:21 | 0.0004/0.0006 | gc_SL |
 
-### 🔴 NStrat
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.54x | **Current:** 0.30x
-- **Mint:** `9jUiRpzatR2wR4NZrkZTzZDNUmPRXuRct7YnFaiSpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 23:32:19 | BUY | 0.000100 | `2FL5FGkAhN2TQQw77KnqSuh1XuqRK4...` |
-| 2026-03-17 03:16:03 | SELL | 0.000031 | `4vBQLGXfYqeHXoS9W84ED7VCdH5np6...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 08:35 | CHAD | BUY | 0.0001 | `2BcRnUTwxYZPnBxw...` |
+| 03-17 03:16 | NStrat | SELL | 0.0000 | `4vBQLGXfYqeHXoS9...` |
+| 03-16 23:32 | NStrat | BUY | 0.0001 | `2FL5FGkAhN2TQQw7...` |
+| 03-16 15:02 | AIFREE | SELL | 0.0008 | `33GTJTKQBZyYwfQf...` |
+| 03-16 14:45 | AIFREE | SELL | 0.0002 | `5nk5nccTKUkPfRUj...` |
+| 03-16 14:38 | AIFREE | SELL | 0.0002 | `49VwEMdPzK7ds6qy...` |
+| 03-16 13:57 | AIFREE | BUY | 0.0006 | `WDv8oR63o3Dpyznj...` |
+| 03-16 06:22 | GORILLA | BUY | 0.0006 | `3dBS5U1BcioNjN2Q...` |
+| 03-16 05:56 | tiger | SELL | 0.0004 | `2HhpvrxM2ZWm7gGZ...` |
+| 03-16 05:51 | tiger | SELL | 0.0004 | `5Hx5KAp7jnY6MjSA...` |
+| 03-16 05:44 | tiger | BUY | 0.0006 | `3FKgevKZ2z3HHAyY...` |
+| 03-16 05:21 | STNK | SELL | 0.0004 | `54EJ6VE5W72HFxBm...` |
+| 03-16 05:15 | STNK | BUY | 0.0006 | `4qdr3gNgGimxv2zo...` |
 
-### 🟢 AIFREE
-- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
-- **Peak:** 3.35x | **Current:** 1.61x
-- **Mint:** `Dqckh2A2JUWVBpNAxhcVGwKNDEAer5Jf8LV76hhpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 13:57:27 | BUY | 0.000600 | `WDv8oR63o3Dpyznjs41U4yymBYjqhv...` |
-| 2026-03-16 14:38:59 | SELL | 0.000151 | `49VwEMdPzK7ds6qyDie8qN47dfDVqz...` |
-| 2026-03-16 14:45:10 | SELL | 0.000167 | `5nk5nccTKUkPfRUjmMUScxktd6kbFY...` |
-| 2026-03-16 15:02:29 | SELL | 0.000784 | `33GTJTKQBZyYwfQfbHD8ziVcZLKnWQ...` |
-
-### 🟢 GORILLA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 0.76x
-- **Mint:** `EgXirSgMd673qXKGB9kc2YHJnaQUHiyBTPasXEVJ5zMr`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 06:22:58 | BUY | 0.000600 | `3dBS5U1BcioNjN2Qm1bdQLSenkaFuZ...` |
-
-### 🟢 tiger
-- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
-- **Peak:** 2.82x | **Current:** 1.04x
-- **Mint:** `9ZoMfMP5qCG8tWdtBZ9AoWKB8YheypR7BLTKvusspump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 05:44:16 | BUY | 0.000600 | `3FKgevKZ2z3HHAyYLytfhSNcwAiftE...` |
-| 2026-03-16 05:51:21 | SELL | 0.000362 | `5Hx5KAp7jnY6MjSApNsjqJtSmxPi1E...` |
-| 2026-03-16 05:56:02 | SELL | 0.000439 | `2HhpvrxM2ZWm7gGZtj441XJXcofoun...` |
-
-### 🔴 STNK
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.30x | **Current:** 0.66x
-- **Mint:** `3Kv8HYaDo9io2KoQDaU7QVYW3KxY6G4TH4HsFYKUpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 05:15:33 | BUY | 0.000600 | `4qdr3gNgGimxv2zodbzuVtkym5f2Bb...` |
-| 2026-03-16 05:21:22 | SELL | 0.000393 | `54EJ6VE5W72HFxBmt3CWhQuBe9P78e...` |
-
+</details>

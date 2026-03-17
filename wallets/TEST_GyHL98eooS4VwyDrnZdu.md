@@ -1,26 +1,17 @@
-# [TEST] Wallet: `GyHL98eooS4VwyDrnZdudJoBfkTTcM8G7ugkEEA9pwx`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `GyHL98eooS4VwyDr...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.000600 SOL** (-100.0%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000600 |
-| **Closed P&L** | **-0.000600 SOL** |
-| **Closed ROI** | **-100.0%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ SE | -0.0006 | 03-16 01:57 | 1.0x | 03-16 01:58 | 0.0000/0.0006 | gc_tp_2x_half |
 
-### 🔴 SE
-- **Status:** closed | **Exit:** ghost_close_tp_2x_half
-- **Peak:** 1.00x | **Current:** 852.63x
-- **Mint:** `677CpPEoKVo9tyCyBHqtiXZivUPdPXEigd3FspWuBAGS`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 01:57:54 | BUY | 0.000600 | `5paSszrwwNp7Nec3UJePVyddsejWyS...` |
-| 2026-03-16 19:13:12 | SELL | 0.000000 | `?` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 19:13 | SE | SELL | 0.0000 | `?` |
+| 03-16 01:57 | SE | BUY | 0.0006 | `5paSszrwwNp7Nec3...` |
 
+</details>

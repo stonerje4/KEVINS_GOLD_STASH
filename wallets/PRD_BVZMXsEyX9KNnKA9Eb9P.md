@@ -1,25 +1,16 @@
-# [PRD] Wallet: `BVZMXsEyX9KNnKA9Eb9PufzJcE4wagN5DAcVfALxdGDb`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `BVZMXsEyX9KNnKA9...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.050000 SOL** (-100.0%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.050000 |
-| **Closed P&L** | **-0.050000 SOL** |
-| **Closed ROI** | **-100.0%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ MILKED | -0.0500 | 03-09 07:14 | 1.1x | 03-09 13:06 | 0.0000/0.0500 | SL |
 
-### 🔴 MILKED
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.09x | **Current:** 0.00x
-- **Mint:** `ChhdQCiTzKvyJvtxyEbp12LuHFJuBHLxxG8j1tZVpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 07:14:17 | BUY | 0.050000 | `3a6UGaj3j5c1kuhbEsDeQxyp32q4xw...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-09 07:14 | MILKED | BUY | 0.0500 | `3a6UGaj3j5c1kuhb...` |
 
+</details>

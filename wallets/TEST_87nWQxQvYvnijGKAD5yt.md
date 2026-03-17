@@ -1,70 +1,26 @@
-# [TEST] Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `87nWQxQvYvnijGKA...`
+> 2026-03-17 11:26 UTC | **6** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 6 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 6 |
-| Open | 6 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000600 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| UGOR | 03-17 07:16 | 0.99x | 1.08x | 4.2h | 0.0001 |
+| BBX | 03-17 06:36 | 1.04x | 1.04x | 4.8h | 0.0001 |
+| BBX | 03-17 06:35 | 1.02x | 1.03x | 4.8h | 0.0001 |
+| UGOR | 03-17 06:25 | 1.13x | 1.13x | 5.0h | 0.0001 |
+| BBX | 03-17 05:54 | 0.73x | 1.00x | 5.5h | 0.0001 |
+| AOR | 03-17 04:48 | 0.95x | 1.16x | 6.6h | 0.0001 |
 
-### 🟢 UGOR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.99x
-- **Mint:** `BfLiZ2vQkAbKvNmzkQGrjA1DbyrWm9ggEpVHcJ21pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 07:16:05 | BUY | 0.000100 | `64z8MCEqyFw2F5ztxFM8DpEh8opfaK...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 07:16 | UGOR | BUY | 0.0001 | `64z8MCEqyFw2F5zt...` |
+| 03-17 06:36 | BBX | BUY | 0.0001 | `5vSyAt3KVjezoxRC...` |
+| 03-17 06:35 | BBX | BUY | 0.0001 | `3BXxeNkzL398VgKA...` |
+| 03-17 06:25 | UGOR | BUY | 0.0001 | `5jo5zF2McVcNXx5N...` |
+| 03-17 05:54 | BBX | BUY | 0.0001 | `5dZFDaAcSmLvAw5S...` |
+| 03-17 04:48 | AOR | BUY | 0.0001 | `5e1JuAwEJG4FV6sZ...` |
 
-### 🟢 BBX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 1.04x
-- **Mint:** `H7jit7Y4wh843wUaHzbS7yNny9AWdJXFDjB4wPqXpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:36:41 | BUY | 0.000100 | `5vSyAt3KVjezoxRCsexJfTbL5xU2Au...` |
-
-### 🟢 BBX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.02x
-- **Mint:** `98msU9F3TsT4NEgG5FKQcLMvL2swX94Zkd8AUTbbpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:35:49 | BUY | 0.000100 | `3BXxeNkzL398VgKAS3z69vk4P3ujHo...` |
-
-### 🟢 UGOR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 1.13x
-- **Mint:** `J4M4a9xNv7fTY2fXHMygP8MVzx8azdbJrp4jrNx5pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:25:57 | BUY | 0.000100 | `5jo5zF2McVcNXx5N8gtuRSgtMTZ28U...` |
-
-### 🟢 BBX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
-- **Mint:** `B25etBuykZyPA9tF9coLnJ1MGPGf56H9XjxV3Nhzpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 05:54:06 | BUY | 0.000100 | `5dZFDaAcSmLvAw5SA4QJtsAsPcKEUg...` |
-
-### 🟢 AOR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.95x
-- **Mint:** `7yAfJzUVSFDmgSzRknQ7n1Hrbstbmj2JUdgJMkbBpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 04:48:35 | BUY | 0.000100 | `5e1JuAwEJG4FV6sZ9pQCZVbLmxh6n3...` |
-
+</details>

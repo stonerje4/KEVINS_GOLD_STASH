@@ -1,34 +1,18 @@
-# [TEST] Wallet: `E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `E5sZTG938YDE7PrV...`
+> 2026-03-17 11:26 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 2 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000200 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| ANI | 03-17 07:10 | 0.47x | 1.39x | 4.3h | 0.0001 |
+| MiniME | 03-17 00:04 | 0.93x | 1.06x | 11.4h | 0.0001 |
 
-### 🟢 ANI
-- **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 0.47x
-- **Mint:** `2zM7YRbgZ2cVS4UHjBcLynj6AjXoGUqU8aWZDPhRpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 07:10:47 | BUY | 0.000100 | `X8FTBUUXqWDbWGzgQNjFSZgsdC8DQm...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 07:10 | ANI | BUY | 0.0001 | `X8FTBUUXqWDbWGzg...` |
+| 03-17 00:04 | MiniME | BUY | 0.0001 | `3pu2ikZVHtBU17is...` |
 
-### 🟢 MiniME
-- **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.93x
-- **Mint:** `891CPWxhcfwXXPdhu9pn3iTc9JpwsCBFAappoybCpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:04:16 | BUY | 0.000100 | `3pu2ikZVHtBU17isA9Nd2hLFbgGFp4...` |
-
+</details>

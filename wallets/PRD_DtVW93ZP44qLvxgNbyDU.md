@@ -1,36 +1,20 @@
-# [PRD] Wallet: `DtVW93ZP44qLvxgNbyDUcHhJFEYUxLD8qEEb5bXJKeWx`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `DtVW93ZP44qLvxgN...`
+> 2026-03-17 11:26 UTC | **2** pos | **0W/2L** | P&L: **-0.090000 SOL** (-90.0%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.100000 |
-| **Closed P&L** | **-0.090000 SOL** |
-| **Closed ROI** | **-90.0%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ shitcoin | -0.0450 | 03-10 11:56 | 1.2x | 03-10 13:55 | 0.0050/0.0500 | gc_zero_balance |
+| ❌ DM | -0.0450 | 03-09 16:41 | 1.6x | 03-10 13:55 | 0.0050/0.0500 | gc_zero_balance |
 
-### 🔴 shitcoin
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.17x | **Current:** 0.00x
-- **Mint:** `9yWFUKC2TNzZs6e1PzGg4kLx9yYrqiTfoT1qcsNNpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 11:56:09 | BUY | 0.050000 | `3kCn5J2LvRt5kLNM2LqPqWbJnzxfDh...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 19:13 | shitcoin | SELL | 0.0050 | `?` |
+| 03-16 19:13 | DM | SELL | 0.0050 | `?` |
+| 03-10 11:56 | shitcoin | BUY | 0.0500 | `3kCn5J2LvRt5kLNM...` |
+| 03-09 16:41 | DM | BUY | 0.0500 | `W8nRUpjmwkn6b8fU...` |
 
-### 🔴 DM
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.65x | **Current:** 0.00x
-- **Mint:** `5DxioZwEeAKpBaYC5veTHArKE55qRDSmb5RZ6VwApump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 16:41:21 | BUY | 0.050000 | `W8nRUpjmwkn6b8fUgee6Kqd9cu2Lzh...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
-
+</details>

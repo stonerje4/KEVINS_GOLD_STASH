@@ -1,59 +1,29 @@
-# [PRD] Wallet: `BJJGTyZBpSoTNrodhiEaRMonCPzAkzZWrzwhwZcn8Cir`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `BJJGTyZBpSoTNrod...`
+> 2026-03-17 11:26 UTC | **4** pos | **2W/2L** | P&L: **+0.059342 SOL** (+29.7%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 4 |
-| Open | 0 |
-| Closed | 4 |
-| W/L | 2/2 |
-| SOL In (closed) | 0.200000 |
-| **Closed P&L** | **+0.059342 SOL** |
-| **Closed ROI** | **+29.7%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ $jotchua | +0.1122 | 03-10 00:58 | 4.4x | 03-10 02:37 | 0.1622/0.0500 | trail |
+| ❌ Heliopolis | -0.0450 | 03-10 00:52 | 1.2x | 03-10 00:59 | 0.0050/0.0500 | gc_zero_balance |
+| ❌ WIF | -0.0500 | 03-10 00:47 | 1.9x | 03-10 00:59 | 0.0000/0.0500 | manual_sell |
+| ✅ FILOBOT | +0.0422 | 03-09 17:36 | 4.4x | 03-10 12:26 | 0.0922/0.0500 | trail |
 
-### 🟢 $jotchua
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 4.45x | **Current:** 0.00x
-- **Mint:** `DTg7C89cCQTKVuvdeEc1AEtgQTVqEbhJRui3z1eb2GEY`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 00:58:34 | BUY | 0.050000 | `4F1h3mYCXwzoC845ygwWb3vmcprU8f...` |
-| 2026-03-10 02:23:02 | SELL | 0.061607 | `3AP5PRfDVrgBzrEJVDoGMd1MvFYw1K...` |
-| 2026-03-10 02:25:38 | SELL | 0.023995 | `28YjEpmQ3aPUPWpdJVuPsnoWmtMmBP...` |
-| 2026-03-10 02:37:55 | SELL | 0.076562 | `4npgkPJXr9FBA3n2mVUmTeQYT5hxkb...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 19:13 | Heliopolis | SELL | 0.0050 | `?` |
+| 03-10 12:26 | FILOBOT | SELL | 0.0696 | `41whG9iTYzZ1oLH7...` |
+| 03-10 11:50 | FILOBOT | SELL | 0.0226 | `3jo8jcfeZWGdym2p...` |
+| 03-10 02:37 | $jotchua | SELL | 0.0766 | `4npgkPJXr9FBA3n2...` |
+| 03-10 02:25 | $jotchua | SELL | 0.0240 | `28YjEpmQ3aPUPWpd...` |
+| 03-10 02:23 | $jotchua | SELL | 0.0616 | `3AP5PRfDVrgBzrEJ...` |
+| 03-10 00:58 | $jotchua | BUY | 0.0500 | `4F1h3mYCXwzoC845...` |
+| 03-10 00:52 | Heliopolis | BUY | 0.0500 | `5BPHywmPvDwCV1g7...` |
+| 03-10 00:47 | WIF | BUY | 0.0500 | `4841LmrTRsEa37KG...` |
+| 03-09 17:52 | FILOBOT | SELL | 0.0000 | `4r4d6nLRsgfQNE4d...` |
+| 03-09 17:36 | FILOBOT | BUY | 0.0500 | `4FZ8SWiDWs4v1YRB...` |
 
-### 🔴 Heliopolis
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.23x | **Current:** 0.00x
-- **Mint:** `F2CUWmTSmGCtqHB3vrUVMAS7Xf5FrhAx7TRaS6Bppump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 00:52:50 | BUY | 0.050000 | `5BPHywmPvDwCV1g7xA9L2fDYa4BwXo...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
-
-### 🔴 WIF
-- **Status:** closed | **Exit:** manual_sell
-- **Peak:** 1.89x | **Current:** 0.00x
-- **Mint:** `CW8LSonJxHu7k3JnQnp5eTsrtRVgbpg38RwdizWWPyoi`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 00:47:31 | BUY | 0.050000 | `4841LmrTRsEa37KGdNANaeBC11bVmR...` |
-
-### 🟢 FILOBOT
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 4.41x | **Current:** 0.00x
-- **Mint:** `AXxoJwoeDc3H9gYxkxW7Mi2nFF8VJ3CnHKNMqehtpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 17:36:16 | BUY | 0.050000 | `4FZ8SWiDWs4v1YRBqpQf4EaS9UMT79...` |
-| 2026-03-09 17:52:51 | SELL | 0.000000 | `4r4d6nLRsgfQNE4dFAHRrPzKRUCQ6a...` |
-| 2026-03-10 11:50:19 | SELL | 0.022616 | `3jo8jcfeZWGdym2pYuFXDoBq548WV6...` |
-| 2026-03-10 12:26:30 | SELL | 0.069562 | `41whG9iTYzZ1oLH7r5iHpwCsiRKtBw...` |
-
+</details>

@@ -1,26 +1,17 @@
-# [TEST] Wallet: `ALJ4P5QNyHeLEjpKGmA1eUfJHSEGQMjY8HLnDkSgjczb`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `ALJ4P5QNyHeLEjpK...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.000081 SOL** (-81.2%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **-0.000081 SOL** |
-| **Closed ROI** | **-81.2%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ BTA | -0.0001 | 03-17 03:35 | 1.0x | 03-17 04:16 | 0.0000/0.0001 | SL |
 
-### 🔴 BTA
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.19x
-- **Mint:** `GPEWz1FADxfrKLF9VYeuLfFgZgVhixyKU5xQTFapump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:35:31 | BUY | 0.000100 | `oLLfsBVwkFBHAm8rFDbx8hJakLGZrb...` |
-| 2026-03-17 04:16:33 | SELL | 0.000019 | `5hJ3NwkVfg8HhPTLuTE9TwmLuCjh42...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 04:16 | BTA | SELL | 0.0000 | `5hJ3NwkVfg8HhPTL...` |
+| 03-17 03:35 | BTA | BUY | 0.0001 | `oLLfsBVwkFBHAm8r...` |
 
+</details>

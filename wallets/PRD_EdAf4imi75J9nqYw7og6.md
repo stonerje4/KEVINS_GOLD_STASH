@@ -1,52 +1,29 @@
-# [PRD] Wallet: `EdAf4imi75J9nqYw7og6VvFMTPzwoLhuCjvbhQhyf7a7`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `EdAf4imi75J9nqYw...`
+> 2026-03-17 11:26 UTC | **3** pos | **1W/2L** | P&L: **+4.495764 SOL** (+999.1%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 3 |
-| Open | 0 |
-| Closed | 3 |
-| W/L | 1/2 |
-| SOL In (closed) | 0.450000 |
-| **Closed P&L** | **+4.495764 SOL** |
-| **Closed ROI** | **+999.1%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ AgenTTT | -0.0908 | 03-16 14:17 | 1.1x | 03-16 14:35 | 0.0592/0.1500 | SL |
+| ✅ 雪の妖精 | +4.6672 | 03-15 14:07 | 25.9x | 03-15 15:07 | 4.8172/0.1500 | trail |
+| ❌ FDBOT | -0.0806 | 03-13 02:50 | 1.0x | 03-13 02:51 | 0.0694/0.1500 | SL |
 
-### 🔴 AgenTTT
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.13x | **Current:** 0.00x
-- **Mint:** `7oB9WZVQH9vQcgMs1JHccchQbqVECD7MGZ8LyGgCpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 14:17:38 | BUY | 0.150000 | `34rAWahGNkAz7rzZo2S2KRkyUbByL4...` |
-| 2026-03-16 14:35:40 | SELL | 0.059187 | `3X4o9AfQC7E3srcQrJQyh7aYSZcUVm...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 14:35 | AgenTTT | SELL | 0.0592 | `3X4o9AfQC7E3srcQ...` |
+| 03-16 14:17 | AgenTTT | BUY | 0.1500 | `34rAWahGNkAz7rzZ...` |
+| 03-15 15:07 | 雪の妖精 | SELL | 2.9273 | `2AnG74a14JXUKTkN...` |
+| 03-15 15:03 | 雪の妖精 | SELL | 0.5682 | `2YnrFWkH4K57U3NM...` |
+| 03-15 14:40 | 雪の妖精 | SELL | 0.3522 | `3acJW7n8bKLDcPf8...` |
+| 03-15 14:27 | 雪の妖精 | SELL | 0.3140 | `27EyWCm7cfm1ZAWP...` |
+| 03-15 14:23 | 雪の妖精 | SELL | 0.1882 | `3TFzufsoJyfG9ijX...` |
+| 03-15 14:22 | 雪の妖精 | SELL | 0.2655 | `GpvY9bB8qD1KkoJT...` |
+| 03-15 14:09 | 雪の妖精 | SELL | 0.2018 | `3UzSwo8PhCrYgvFn...` |
+| 03-15 14:07 | 雪の妖精 | BUY | 0.1500 | `czWXXnCZpHmJwHNo...` |
+| 03-13 02:51 | FDBOT | SELL | 0.0694 | `295F9syd2FGRH35A...` |
+| 03-13 02:50 | FDBOT | BUY | 0.1500 | `4B82NEhX7K7ixV5X...` |
 
-### 🟢 雪の妖精
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 25.87x | **Current:** 0.00x
-- **Mint:** `FksjYMq38iQigRRozNZGkpjWj3AGxoUw45fnS8Nnpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 14:07:03 | BUY | 0.150000 | `czWXXnCZpHmJwHNoKuWTHSMhLkwnjr...` |
-| 2026-03-15 14:09:20 | SELL | 0.201765 | `3UzSwo8PhCrYgvFnqsAfHszXR36SGB...` |
-| 2026-03-15 14:22:21 | SELL | 0.265505 | `GpvY9bB8qD1KkoJTVmH8anyf9pryUf...` |
-| 2026-03-15 14:23:26 | SELL | 0.188230 | `3TFzufsoJyfG9ijXQnkx6j2YqigsAE...` |
-| 2026-03-15 14:27:16 | SELL | 0.314031 | `27EyWCm7cfm1ZAWPeENkmf2NxYemY9...` |
-| 2026-03-15 14:40:30 | SELL | 0.352222 | `3acJW7n8bKLDcPf8FD2LkjR6Je7mz7...` |
-| 2026-03-15 15:03:38 | SELL | 0.568151 | `2YnrFWkH4K57U3NMj3wdjL85oTC8X4...` |
-| 2026-03-15 15:07:39 | SELL | 2.927318 | `2AnG74a14JXUKTkN6RQW4NxvyocVic...` |
-
-### 🔴 FDBOT
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `82vvroEqShsDfGbYT9u2sfxF4PY2q54BdHrdLFzoZMwz`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-13 02:50:32 | BUY | 0.150000 | `4B82NEhX7K7ixV5XN8993KffaVpPK3...` |
-| 2026-03-13 02:51:42 | SELL | 0.069356 | `295F9syd2FGRH35ASGFzB3YHBqyT2o...` |
-
+</details>

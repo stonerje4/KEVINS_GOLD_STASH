@@ -1,71 +1,32 @@
-# [TEST] Wallet: `AJ8Gc1cYzDQmQVyWFnHyJAKV5QK5ysz5ML9NuK3xvJRt`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `AJ8Gc1cYzDQmQVyW...`
+> 2026-03-17 11:26 UTC | **6** pos | **0W/1L** | P&L: **-0.000061 SOL** (-60.7%) | 5 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 6 |
-| Open | 5 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **-0.000061 SOL** |
-| **Closed ROI** | **-60.7%** |
-| Open Deployed | 0.000400 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Rocky | 03-17 09:24 | 0.00x | 1.00x | 2.0h | 0.0001 |
+| PinchBench | 03-17 09:08 | 0.64x | 1.16x | 2.3h | 0.0001 |
+| pvpdog | 03-17 06:53 | 0.48x | 1.49x | 4.5h | 0.0001 |
+| Clove | 03-17 05:58 | 0.61x | 1.03x | 5.5h | 0.0001 |
+| FOXXXX | 03-17 05:48 | 1.42x | 1.52x | 5.6h | 0.0001 |
 
-### ⚪ Rocky
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `EMEQgt5GDtxAnUFwp3yyBZkKsMeewF18HGASuzcapump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 09:24:05 | BUY | 0.000100 | `qTYVQQPwYyqo2Q4JKDos8iR98sNxtJ...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ primal | -0.0001 | 03-17 06:47 | 1.3x | 03-17 06:51 | 0.0000/0.0001 | SL |
 
-### 🟢 PinchBench
-- **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.64x
-- **Mint:** `4k9t9gpxwxVaoNwe77AkZ8aHZfhJkbzvs48Y8TZypump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 09:08:23 | BUY | 0.000100 | `5DyR1xnfLcuseAyMMgFgUVFQLoz7mB...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 09:24 | Rocky | BUY | 0.0001 | `qTYVQQPwYyqo2Q4J...` |
+| 03-17 09:08 | PinchBench | BUY | 0.0001 | `5DyR1xnfLcuseAyM...` |
+| 03-17 06:53 | pvpdog | BUY | 0.0001 | `3CqheQQZPvj9Nkwg...` |
+| 03-17 06:51 | primal | SELL | 0.0000 | `29K79v5X9szhjwni...` |
+| 03-17 06:47 | primal | BUY | 0.0001 | `32N78HtvoxqbFYFA...` |
+| 03-17 05:58 | Clove | BUY | 0.0001 | `xDYVeUQGEChURiYN...` |
+| 03-17 05:48 | FOXXXX | BUY | 0.0001 | `5TXcNV3WEAPNeBAz...` |
 
-### 🟢 pvpdog
-- **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 0.48x
-- **Mint:** `DhJofi2gnjAq2p9DVuRCSTXzu7HSxW8WQM3HrMjWpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:53:08 | BUY | 0.000100 | `3CqheQQZPvj9NkwgcuhrkJaeHB7mek...` |
-
-### 🔴 primal
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.28x | **Current:** 0.39x
-- **Mint:** `E1i2g2ekDbRNxVZUMxXmBNSbhoe1MRFm57KXsgZGpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:47:43 | BUY | 0.000100 | `32N78HtvoxqbFYFAXqrPA58hAEymcZ...` |
-| 2026-03-17 06:51:06 | SELL | 0.000039 | `29K79v5X9szhjwniaZEgCyPUJY1wtw...` |
-
-### 🟢 Clove
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.61x
-- **Mint:** `EAXGeuMf8xxkNQzqpLE4PRuzmyXNKSDTPKMQvzoDpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 05:58:55 | BUY | 0.000100 | `xDYVeUQGEChURiYNr4LkN5mkmaGpGm...` |
-
-### 🟢 FOXXXX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.52x | **Current:** 1.42x
-- **Mint:** `BheJ3zJePZae8k8v1t9DdTMDDvdLfKrD59ZNojzRpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 05:48:42 | BUY | 0.000100 | `5TXcNV3WEAPNeBAzVf8YygHPk6NpsE...` |
-
+</details>

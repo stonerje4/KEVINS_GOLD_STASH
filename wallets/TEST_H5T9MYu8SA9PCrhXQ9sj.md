@@ -1,56 +1,31 @@
-# [TEST] Wallet: `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `H5T9MYu8SA9PCrhX...`
+> 2026-03-17 11:26 UTC | **4** pos | **0W/3L** | P&L: **-0.000402 SOL** (-30.9%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 4 |
-| Open | 1 |
-| Closed | 3 |
-| W/L | 0/3 |
-| SOL In (closed) | 0.001300 |
-| **Closed P&L** | **-0.000402 SOL** |
-| **Closed ROI** | **-30.9%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| WALL-E | 03-17 05:28 | 1.00x | 1.70x | 6.0h | 0.0001 |
 
-### 🟢 WALL-E
-- **Status:** open | **Exit:** open
-- **Peak:** 1.70x | **Current:** 1.00x
-- **Mint:** `6jjHNJviWoea6uWCbatGis7TNaWXiHrfmXuKFKJ3pump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 05:28:46 | BUY | 0.000100 | `55prj5XGAou6QKYgLCeo5mz3yu8v2d...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ TITAN | -0.0000 | 03-17 04:21 | 2.7x | 03-17 05:57 | 0.0001/0.0001 | trail |
+| ❌ Leonardo | -0.0002 | 03-16 02:39 | 1.0x | 03-16 02:43 | 0.0004/0.0006 | gc_SL |
+| ❌ MEMECULT | -0.0002 | 03-16 02:29 | 1.3x | 03-16 02:31 | 0.0004/0.0006 | gc_SL |
 
-### 🔴 TITAN
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 2.73x | **Current:** 0.85x
-- **Mint:** `4ay158ynQu4RfKe4oEjQFd3om2Fvyguz1UnQMm3rpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 04:21:04 | BUY | 0.000100 | `4uko2G4G88LsNgGFrEQNfxwkPzGE8x...` |
-| 2026-03-17 04:24:58 | SELL | 0.000023 | `3ACgArys6HxnKwTUWvAgYYR1QpEt1p...` |
-| 2026-03-17 05:57:57 | SELL | 0.000076 | `4biiWJmGMVVoriJePhJ9V8v2J6kKxJ...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 05:57 | TITAN | SELL | 0.0001 | `4biiWJmGMVVoriJe...` |
+| 03-17 05:28 | WALL-E | BUY | 0.0001 | `55prj5XGAou6QKYg...` |
+| 03-17 04:24 | TITAN | SELL | 0.0000 | `3ACgArys6HxnKwTU...` |
+| 03-17 04:21 | TITAN | BUY | 0.0001 | `4uko2G4G88LsNgGF...` |
+| 03-16 02:42 | Leonardo | SELL | 0.0004 | `2Ycuo75v81VrRnkF...` |
+| 03-16 02:39 | Leonardo | BUY | 0.0006 | `65PbD9aaZoqn85EY...` |
+| 03-16 02:31 | MEMECULT | SELL | 0.0004 | `4bYsyNUQSPbCmNXU...` |
+| 03-16 02:29 | MEMECULT | BUY | 0.0006 | `3ZmUuHEkchUVyjHr...` |
 
-### 🔴 Leonardo
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.60x
-- **Mint:** `6WNVWmEhdVKrZVAYuGH1w8bTmU6FRHaYnqUWRKPTpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 02:39:44 | BUY | 0.000600 | `65PbD9aaZoqn85EYCfP4Fx7JXne2ue...` |
-| 2026-03-16 02:42:53 | SELL | 0.000416 | `2Ycuo75v81VrRnkFHgrY2mFKHkH5mm...` |
-
-### 🔴 MEMECULT
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.29x | **Current:** 0.64x
-- **Mint:** `2dAZXeWVchjkSV9kyLHGAyKGByxur4dStac5GrLUpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 02:29:42 | BUY | 0.000600 | `3ZmUuHEkchUVyjHrSaEm1FkGw2bMJi...` |
-| 2026-03-16 02:31:33 | SELL | 0.000382 | `4bYsyNUQSPbCmNXUE7229gZpsuHxZi...` |
-
+</details>

@@ -1,46 +1,28 @@
-# [TEST] Wallet: `4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `4Dpu2UjkFmnwmjSM...`
+> 2026-03-17 11:26 UTC | **3** pos | **1W/0L** | P&L: **+0.000053 SOL** (+53.1%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 3 |
-| Open | 2 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000053 SOL** |
-| **Closed ROI** | **+53.1%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Bowhead | 03-17 09:32 | 0.00x | 1.00x | 1.9h | 0.0001 |
+| forg | 03-17 01:15 | 1.92x | 1.96x | 10.2h | 0.0001 |
 
-### ⚪ Bowhead
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `HopfGbkd9ru44hpDAPnii58ziYcfnqwKcz2pKmoepump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 09:32:10 | BUY | 0.000100 | `ohe1ht816mrj2n2iyuNkeLGFtowMDj...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ MINDLESS | +0.0001 | 03-17 01:18 | 3.2x | 03-17 04:05 | 0.0002/0.0001 | trail |
 
-### 🟢 MINDLESS
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 3.16x | **Current:** 1.19x
-- **Mint:** `AJofCoVif3wj2Uy7mpzgxbqDyHPyn7xp6WzJBy7gpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:18:22 | BUY | 0.000100 | `5eDUx6gTYTHFSnAaUzFzcBSGoBMVnV...` |
-| 2026-03-17 03:53:38 | SELL | 0.000026 | `2sXuZXMvVKG3jaJMxJFCCTecsdqJLi...` |
-| 2026-03-17 03:57:59 | SELL | 0.000029 | `2yiQiDCWFCJ4F2tDt6TpGQ1E3csGX6...` |
-| 2026-03-17 04:05:31 | SELL | 0.000098 | `3Tf2EFh1rWZNUthtWJSXiDy1ds8hcJ...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 09:32 | Bowhead | BUY | 0.0001 | `ohe1ht816mrj2n2i...` |
+| 03-17 04:05 | MINDLESS | SELL | 0.0001 | `3Tf2EFh1rWZNUtht...` |
+| 03-17 03:57 | MINDLESS | SELL | 0.0000 | `2yiQiDCWFCJ4F2tD...` |
+| 03-17 03:53 | MINDLESS | SELL | 0.0000 | `2sXuZXMvVKG3jaJM...` |
+| 03-17 01:18 | MINDLESS | BUY | 0.0001 | `5eDUx6gTYTHFSnAa...` |
+| 03-17 01:15 | forg | BUY | 0.0001 | `4Xfsy1QuoL4rXbmG...` |
 
-### 🟢 forg
-- **Status:** open | **Exit:** open
-- **Peak:** 1.96x | **Current:** 1.87x
-- **Mint:** `G4QRtYNRPyxdKwcAqqW3xSeEynDDxEyRvrDT9FJEpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:15:27 | BUY | 0.000100 | `4Xfsy1QuoL4rXbmGU2JXqwsyKZrxrn...` |
-
+</details>

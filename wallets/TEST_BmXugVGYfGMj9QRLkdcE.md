@@ -1,26 +1,17 @@
-# [TEST] Wallet: `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `BmXugVGYfGMj9QRL...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.000212 SOL** (-35.3%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000600 |
-| **Closed P&L** | **-0.000212 SOL** |
-| **Closed ROI** | **-35.3%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ PIKE | -0.0002 | 03-16 01:23 | 1.0x | 03-16 02:55 | 0.0004/0.0006 | gc_SL |
 
-### 🔴 PIKE
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.64x
-- **Mint:** `FnsrVv2iJWmrChyWLsPRKrdRPnshBPhgR8VZLfugpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 01:23:10 | BUY | 0.000600 | `56kF5SKxuXtNPPVFW29jjCdsMdsJNM...` |
-| 2026-03-16 02:55:26 | SELL | 0.000388 | `pox3AdYui5c41o3hniSne3fWvna1zJ...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 02:55 | PIKE | SELL | 0.0004 | `pox3AdYui5c41o3h...` |
+| 03-16 01:23 | PIKE | BUY | 0.0006 | `56kF5SKxuXtNPPVF...` |
 
+</details>

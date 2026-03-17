@@ -1,76 +1,32 @@
-# [TEST] Wallet: `CAmNcBJ82xr1tzXrwZ6tZKwEFs26TG8kT6dJeR1bxjW9`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `CAmNcBJ82xr1tzXr...`
+> 2026-03-17 11:26 UTC | **6** pos | **0W/6L** | P&L: **-0.001424 SOL** (-54.8%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 6 |
-| Open | 0 |
-| Closed | 6 |
-| W/L | 0/6 |
-| SOL In (closed) | 0.002600 |
-| **Closed P&L** | **-0.001424 SOL** |
-| **Closed ROI** | **-54.8%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ bull | -0.0001 | 03-17 04:27 | 1.0x | 03-17 04:32 | 0.0000/0.0001 | SL |
+| ❌ FAGS | -0.0001 | 03-17 01:16 | 1.4x | 03-17 02:47 | 0.0000/0.0001 | SL |
+| ❌ Bald | -0.0005 | 03-16 12:36 | 1.0x | 03-16 12:36 | 0.0001/0.0006 | gc_SL |
+| ❌ MILLION | -0.0002 | 03-16 09:58 | 1.1x | 03-16 09:59 | 0.0004/0.0006 | gc_SL |
+| ❌ Ark74 | -0.0002 | 03-16 02:16 | 1.3x | 03-16 02:19 | 0.0004/0.0006 | gc_SL |
+| ❌ Hospice | -0.0003 | 03-16 02:10 | 1.0x | 03-16 02:11 | 0.0003/0.0006 | gc_SL |
 
-### 🔴 bull
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.28x
-- **Mint:** `FLz8pLCaaxAzULk8uaPDAHZSPQXvC9UFPeC1ssEepump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 04:27:57 | BUY | 0.000100 | `5ef71wG2ZVc3RsRQPzzHpiH91mEVri...` |
-| 2026-03-17 04:32:26 | SELL | 0.000028 | `5qjhsfjb1yqwEnEDYr6TPRRVd4pvzA...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 04:32 | bull | SELL | 0.0000 | `5qjhsfjb1yqwEnED...` |
+| 03-17 04:27 | bull | BUY | 0.0001 | `5ef71wG2ZVc3RsRQ...` |
+| 03-17 02:47 | FAGS | SELL | 0.0000 | `96hZmUyonhbe1Yj6...` |
+| 03-17 01:16 | FAGS | BUY | 0.0001 | `yjYDCKAs6jmhvQSG...` |
+| 03-16 19:13 | Bald | SELL | 0.0001 | `?` |
+| 03-16 12:36 | Bald | BUY | 0.0006 | `4usmLSHiL3guWKkm...` |
+| 03-16 09:59 | MILLION | SELL | 0.0004 | `hBuBr9uZ5nU543hQ...` |
+| 03-16 09:58 | MILLION | BUY | 0.0006 | `35pt39XBHXt7myRR...` |
+| 03-16 02:18 | Ark74 | SELL | 0.0004 | `4YsSqZW1aTaCQ428...` |
+| 03-16 02:16 | Ark74 | BUY | 0.0006 | `2ZVKPcfzKo4w7jec...` |
+| 03-16 02:11 | Hospice | SELL | 0.0003 | `2bqzmbP44Yi3PK8j...` |
+| 03-16 02:10 | Hospice | BUY | 0.0006 | `3TykA27DANAmgJB9...` |
 
-### 🔴 FAGS
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.39x | **Current:** 0.39x
-- **Mint:** `BNKBcFSKVNYydwt5ti3UBfw2gX9CYnSkypEmSj8Fpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:16:22 | BUY | 0.000100 | `yjYDCKAs6jmhvQSG82vzYDZygw2LG4...` |
-| 2026-03-17 02:47:41 | SELL | 0.000039 | `96hZmUyonhbe1Yj6gq9Xwj9mzNxrwD...` |
-
-### 🔴 Bald
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.63x
-- **Mint:** `8gi5GtNwTmsgn9bXs32qMv1RvmAWEhnYKpTu54depump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 12:36:01 | BUY | 0.000600 | `4usmLSHiL3guWKkm6ziTVxYmQBvGQ5...` |
-| 2026-03-16 19:13:12 | SELL | 0.000060 | `?` |
-
-### 🔴 MILLION
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.08x | **Current:** 0.59x
-- **Mint:** `CFSNhpfeemdDXYwGLtzBH9yaUaqZo1WzoSmn1srkpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 09:58:37 | BUY | 0.000600 | `35pt39XBHXt7myRRPtZaxvuP8XczzL...` |
-| 2026-03-16 09:59:37 | SELL | 0.000355 | `hBuBr9uZ5nU543hQseE3RNHGbv74NE...` |
-
-### 🔴 Ark74
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.32x | **Current:** 0.65x
-- **Mint:** `2JbKznmBRLKrnXSz77aSHSbKQjqvgcKNGSZqMscMpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 02:16:28 | BUY | 0.000600 | `2ZVKPcfzKo4w7jecDXTPzM8cgdJ4PU...` |
-| 2026-03-16 02:18:50 | SELL | 0.000387 | `4YsSqZW1aTaCQ428z8H3a3d57RFcbu...` |
-
-### 🔴 Hospice
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.51x
-- **Mint:** `9881PcWE3RpJa4pSmtHSADFsaAt7J38fT1LUgEBzpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 02:10:48 | BUY | 0.000600 | `3TykA27DANAmgJB9gHnJ25E8v5yjud...` |
-| 2026-03-16 02:11:02 | SELL | 0.000306 | `2bqzmbP44Yi3PK8jg2yLFYvwqQHnyG...` |
-
+</details>

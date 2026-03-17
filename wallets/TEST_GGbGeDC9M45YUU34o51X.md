@@ -1,45 +1,27 @@
-# [TEST] Wallet: `GGbGeDC9M45YUU34o51Xj8UjzAzBMVaboFykvh5h4e6D`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `GGbGeDC9M45YUU34...`
+> 2026-03-17 11:26 UTC | **3** pos | **0W/1L** | P&L: **-0.000011 SOL** (-11.1%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 3 |
-| Open | 2 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **-0.000011 SOL** |
-| **Closed ROI** | **-11.1%** |
-| Open Deployed | 0.000200 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| UGOR | 03-17 10:01 | 1.19x | 1.55x | 1.4h | 0.0001 |
+| USDC | 03-17 06:20 | 0.96x | 1.06x | 5.1h | 0.0001 |
 
-### 🟢 UGOR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 1.19x
-- **Mint:** `3UaZsmciGs4br3r8g6hLU2CuG1hYmAMeri4znoQxpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 10:01:45 | BUY | 0.000100 | `BqMq7eLqpJMHvU5WHfmr5xfh5Ews35...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ men | -0.0000 | 03-17 06:01 | 2.9x | 03-17 06:12 | 0.0001/0.0001 | trail |
 
-### 🟢 USDC
-- **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.96x
-- **Mint:** `2mhhHydX7cEr2mYLJks5B5ADpdSBK8kbMdbanPDjpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:20:38 | BUY | 0.000100 | `39vHqkVTRHAaA32hasCJuiQGTEJBSt...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 10:01 | UGOR | BUY | 0.0001 | `BqMq7eLqpJMHvU5W...` |
+| 03-17 06:20 | USDC | BUY | 0.0001 | `39vHqkVTRHAaA32h...` |
+| 03-17 06:12 | men | SELL | 0.0001 | `D45FPufJPQLcZgDf...` |
+| 03-17 06:08 | men | SELL | 0.0000 | `67gWQ8XmGdtnoRTb...` |
+| 03-17 06:01 | men | BUY | 0.0001 | `HYjy8WuEoYX9yTQ9...` |
 
-### 🔴 men
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 2.93x | **Current:** 0.76x
-- **Mint:** `BxGroXuAhLa7VhLsfN7tzoFYkUSvwgxMVNpPCwzvpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:01:57 | BUY | 0.000100 | `HYjy8WuEoYX9yTQ9GLNJZpjHTUpNZ5...` |
-| 2026-03-17 06:08:03 | SELL | 0.000020 | `67gWQ8XmGdtnoRTbc4A7c8wuNenUN4...` |
-| 2026-03-17 06:12:37 | SELL | 0.000069 | `D45FPufJPQLcZgDfvYVn3eSXL1nwBi...` |
-
+</details>

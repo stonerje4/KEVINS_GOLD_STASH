@@ -1,43 +1,20 @@
-# [TEST] Wallet: `BDe7kU3VqgW2hYkjx8kJFCdw1tNunJUxhAcRM1FN9amz`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `BDe7kU3VqgW2hYkj...`
+> 2026-03-17 11:26 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 3 |
-| Open | 3 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000300 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Clove | 03-17 04:18 | 0.94x | 1.02x | 7.1h | 0.0001 |
+| SKIBIDOG | 03-17 03:53 | 0.77x | 1.00x | 7.5h | 0.0001 |
+| Shamsy | 03-17 03:34 | 0.54x | 1.23x | 7.9h | 0.0001 |
 
-### 🟢 Clove
-- **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.94x
-- **Mint:** `DATFtbcoNfttvZoin5CxSq8PTpeS7Tm9jcJbNFMLpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 04:18:19 | BUY | 0.000100 | `63mY4edYopAqJkbGrZdmU81osVELzN...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 04:18 | Clove | BUY | 0.0001 | `63mY4edYopAqJkbG...` |
+| 03-17 03:53 | SKIBIDOG | BUY | 0.0001 | `3tMwzBscRVo47Drj...` |
+| 03-17 03:34 | Shamsy | BUY | 0.0001 | `QsCiFu24ZPuHy7gR...` |
 
-### 🟢 SKIBIDOG
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
-- **Mint:** `JdAud6LYCdC7vxhYmWDAZggCxakWXnJzU1C5zoJpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:53:18 | BUY | 0.000100 | `3tMwzBscRVo47Drj2LarUNB6kyZYhi...` |
-
-### 🟢 Shamsy
-- **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.54x
-- **Mint:** `AcFG8QQAAfp42KgmMtBr8sqiDSYPhHfKyeeyeGNJpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:34:54 | BUY | 0.000100 | `QsCiFu24ZPuHy7gRqcCNqB4Doo1qhB...` |
-
+</details>

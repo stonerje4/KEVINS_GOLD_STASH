@@ -1,59 +1,29 @@
-# [TEST] Wallet: `FWQ3sv51J5P7o6UwNFuT612HUG2CitRT8AJTtWS6Qs5G`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `FWQ3sv51J5P7o6Uw...`
+> 2026-03-17 11:26 UTC | **4** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 4 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 4 |
-| Open | 4 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000400 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| CANDACE | 03-17 07:27 | 0.61x | 1.43x | 4.0h | 0.0001 |
+| Institute | 03-17 05:07 | 0.87x | 2.24x | 6.3h | 0.0001 |
+| MRNIGGER | 03-17 03:23 | 0.76x | 1.00x | 8.0h | 0.0001 |
+| CLOVE | 03-17 03:05 | 0.74x | 1.15x | 8.3h | 0.0001 |
 
-### 🟢 CANDACE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.61x
-- **Mint:** `378dvnxhKxWh8DvRwHdeKjKE7LAaaxEKoP2USR7apump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 07:27:44 | BUY | 0.000100 | `5ZAt8uFBQJo3vL9eHex7B423dDqdor...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 08:49 | Institute | SELL | 0.0000 | `4irBDRxC9qQ6xXpX...` |
+| 03-17 08:48 | Institute | SELL | 0.0000 | `36HLFRPf5jGTKktb...` |
+| 03-17 08:45 | Institute | SELL | 0.0000 | `5koLFyW7WpNLtGCw...` |
+| 03-17 08:44 | Institute | SELL | 0.0000 | `5uaXGx7hx9eHwMMi...` |
+| 03-17 08:42 | Institute | SELL | 0.0000 | `3H4sPXAqRtFeXmpG...` |
+| 03-17 08:41 | Institute | SELL | 0.0001 | `39r5B7Shfyy6hXEj...` |
+| 03-17 07:27 | CANDACE | BUY | 0.0001 | `5ZAt8uFBQJo3vL9e...` |
+| 03-17 07:01 | Institute | SELL | 0.0000 | `5tSm1TBegYnocdVQ...` |
+| 03-17 05:07 | Institute | BUY | 0.0001 | `4UDsS8adjqSFwoK9...` |
+| 03-17 03:23 | MRNIGGER | BUY | 0.0001 | `2ZjACbxSswtSaEc4...` |
+| 03-17 03:05 | CLOVE | BUY | 0.0001 | `5ZgDvBiyCkJXzGKU...` |
 
-### 🟢 Institute
-- **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.24x | **Current:** 0.87x
-- **Mint:** `2nQwUkoTdywEgFGVixy13xYdBAwJT6HhxoBuSd4wpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 05:07:00 | BUY | 0.000100 | `4UDsS8adjqSFwoK9t3GyeCMwC2vgk7...` |
-| 2026-03-17 07:01:16 | SELL | 0.000020 | `5tSm1TBegYnocdVQyuNXnxoVfoyfqv...` |
-| 2026-03-17 08:41:49 | SELL | 0.000070 | `39r5B7Shfyy6hXEjnGYeuJXZ9uSYDZ...` |
-| 2026-03-17 08:42:57 | SELL | 0.000000 | `3H4sPXAqRtFeXmpG8ea6rcVe6xJQvc...` |
-| 2026-03-17 08:44:05 | SELL | 0.000000 | `5uaXGx7hx9eHwMMicVdBQ1HQuBsErB...` |
-| 2026-03-17 08:45:14 | SELL | 0.000000 | `5koLFyW7WpNLtGCwEHDnf3fy6HEUhF...` |
-| 2026-03-17 08:48:46 | SELL | 0.000000 | `36HLFRPf5jGTKktbi3a3q2sfMaWMXC...` |
-| 2026-03-17 08:49:59 | SELL | 0.000000 | `4irBDRxC9qQ6xXpXXaYXjmPnnd7xgb...` |
-
-### 🟢 MRNIGGER
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.76x
-- **Mint:** `GsKa1PJG8sWi6wzfeseRtK34VpSXnrrvBivtvvSMpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:23:21 | BUY | 0.000100 | `2ZjACbxSswtSaEc42L63jJp4VRFbVd...` |
-
-### 🟢 CLOVE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 0.74x
-- **Mint:** `49SD1adniyr5rKSkgoB3J26HjNgXieywQ3Mm8harpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:05:08 | BUY | 0.000100 | `5ZgDvBiyCkJXzGKUB9MGXtRFJeCywQ...` |
-
+</details>

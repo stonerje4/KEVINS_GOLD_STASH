@@ -1,74 +1,35 @@
-# [TEST] Wallet: `U3jiDzTcNJv5AB1WeRJco4aivebfvg5ZsGiyA6ZohYS`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `U3jiDzTcNJv5AB1W...`
+> 2026-03-17 11:26 UTC | **6** pos | **0W/2L** | P&L: **-0.000966 SOL** (-80.5%) | 4 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 6 |
-| Open | 4 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.001200 |
-| **Closed P&L** | **-0.000966 SOL** |
-| **Closed ROI** | **-80.5%** |
-| Open Deployed | 0.002400 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| FOR | 03-16 11:26 | 0.99x | 1.28x | 24.0h | 0.0006 |
+| XAIC | 03-16 10:06 | 1.26x | 1.32x | 1.1d | 0.0006 |
+| XAIC | 03-16 10:02 | 1.38x | 1.40x | 1.1d | 0.0006 |
+| FTR | 03-16 03:05 | 1.61x | 2.00x | 1.3d | 0.0006 |
 
-### 🟢 FOR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 0.99x
-- **Mint:** `7SpDmWXcp9SX9EiYvmzssnQ98oAeUYMjhRBy6vampump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 11:26:16 | BUY | 0.000600 | `qG8p39nW126nBJCYyjzizrEyoaBuvQ...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ max999 | -0.0004 | 03-16 07:19 | 1.1x | 03-16 07:21 | 0.0002/0.0006 | gc_SL |
+| ❌ WRT | -0.0005 | 03-16 03:30 | 1.4x | 03-17 04:51 | 0.0001/0.0006 | stale_cleanup |
 
-### 🟢 XAIC
-- **Status:** open | **Exit:** open
-- **Peak:** 1.32x | **Current:** 1.26x
-- **Mint:** `CcdFX7m9LtGYLTi2KMRR1xzDy6TGSWU1TNoTiXW8moon`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 10:06:31 | BUY | 0.000600 | `3GZNhbd6yiuRkXG3m8ge9zwQ9KTzuL...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 04:51 | WRT | SELL | 0.0001 | `2jvgGGK3jTEFyKWU...` |
+| 03-17 01:24 | FTR | SELL | 0.0001 | `4bQaNGXYWmRfPxks...` |
+| 03-16 11:26 | FOR | BUY | 0.0006 | `qG8p39nW126nBJCY...` |
+| 03-16 10:06 | XAIC | BUY | 0.0006 | `3GZNhbd6yiuRkXG3...` |
+| 03-16 10:02 | XAIC | BUY | 0.0006 | `28pftdYTWwwhQmyW...` |
+| 03-16 07:21 | max999 | SELL | 0.0000 | `5PAomma28ftHt1EY...` |
+| 03-16 07:20 | max999 | SELL | 0.0002 | `4U5qvpoiPUa8gtbL...` |
+| 03-16 07:19 | max999 | BUY | 0.0006 | `59hZRRPFEVgnULfx...` |
+| 03-16 03:30 | WRT | BUY | 0.0006 | `5mCZkFnQQhmBFajq...` |
+| 03-16 03:05 | FTR | BUY | 0.0006 | `jRRnX9jwohkXQach...` |
 
-### 🟢 XAIC
-- **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 1.38x
-- **Mint:** `XvZgoTsGvdDKpV7bUPdHUqQCmUmtryXn4txT5S3pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 10:02:40 | BUY | 0.000600 | `28pftdYTWwwhQmyWT3MVqCWT1YZMYg...` |
-
-### 🔴 max999
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.11x | **Current:** 0.26x
-- **Mint:** `CEvrWFm2AumBpwRDHwEEHHxszdAnHPj5kjWgbrTjpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 07:19:39 | BUY | 0.000600 | `59hZRRPFEVgnULfxBU487TEj6V12wA...` |
-| 2026-03-16 07:20:49 | SELL | 0.000160 | `4U5qvpoiPUa8gtbLiSdzGQVeWRNdaq...` |
-| 2026-03-16 07:21:07 | SELL | 0.000000 | `5PAomma28ftHt1EY7prMTW9RY2qgUT...` |
-
-### 🔴 WRT
-- **Status:** closed | **Exit:** stale_cleanup
-- **Peak:** 1.42x | **Current:** 0.74x
-- **Mint:** `Dc3EbtN5826Z2HKnwwWeoQD19ehMt3N7QTKPSw3opump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 03:30:08 | BUY | 0.000600 | `5mCZkFnQQhmBFajqaMXHez28A7EPU5...` |
-| 2026-03-17 04:51:43 | SELL | 0.000074 | `2jvgGGK3jTEFyKWUrwVJkzRcJnvioW...` |
-
-### 🟢 FTR
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.00x | **Current:** 1.61x
-- **Mint:** `AKn9krAhuntAPhXX98LMZnwMbp91P9CeWkfonA56pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 03:05:32 | BUY | 0.000600 | `jRRnX9jwohkXQachg1w8rfVMVynLLr...` |
-| 2026-03-17 01:24:06 | SELL | 0.000115 | `4bQaNGXYWmRfPxksGZhrGiXLzU7J2J...` |
-
+</details>

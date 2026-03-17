@@ -1,37 +1,21 @@
-# [TEST] Wallet: `HWbeENL8BQ4WEx8rxHqvVQsZtpAnLshhukPBoCJZnnXf`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `HWbeENL8BQ4WEx8r...`
+> 2026-03-17 11:26 UTC | **2** pos | **1W/1L** | P&L: **-0.000014 SOL** (-7.0%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
-| Closed | 2 |
-| W/L | 1/1 |
-| SOL In (closed) | 0.000200 |
-| **Closed P&L** | **-0.000014 SOL** |
-| **Closed ROI** | **-7.0%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ CRINE | -0.0001 | 03-17 00:23 | 2.0x | 03-17 01:18 | 0.0000/0.0001 | gc_SL |
+| ✅ 1SOL | +0.0001 | 03-16 15:35 | 3.6x | 03-16 16:41 | 0.0002/0.0001 | gc_trail |
 
-### 🔴 CRINE
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 2.00x | **Current:** 0.39x
-- **Mint:** `BA3GAsvmy6o3PCA2bnZbCDSYW4S2gK5hfN6gahm9pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:23:07 | BUY | 0.000100 | `BPpr18yZmHehrTZxA5LcBrRk9Vtaxd...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 00:23 | CRINE | BUY | 0.0001 | `BPpr18yZmHehrTZx...` |
+| 03-16 16:40 | 1SOL | SELL | 0.0001 | `2f86qJPMtAK3ckEp...` |
+| 03-16 16:18 | 1SOL | SELL | 0.0000 | `5tkBR4MiffQkHcG9...` |
+| 03-16 16:08 | 1SOL | SELL | 0.0000 | `byEsQpMLYuL5LLgk...` |
+| 03-16 15:35 | 1SOL | BUY | 0.0001 | `Zy3XDRh8xcUDHtn7...` |
 
-### 🟢 1SOL
-- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
-- **Peak:** 3.64x | **Current:** 1.63x
-- **Mint:** `DDs56HFdwoWyAW4Yhz1heE9DErKJymSa5K8iPnRpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 15:35:44 | BUY | 0.000100 | `Zy3XDRh8xcUDHtn75bCTs8v7AWx1a9...` |
-| 2026-03-16 16:08:14 | SELL | 0.000021 | `byEsQpMLYuL5LLgkNid4Q4pWsV2sgp...` |
-| 2026-03-16 16:18:35 | SELL | 0.000033 | `5tkBR4MiffQkHcG9o6RTydJJoCjudQ...` |
-| 2026-03-16 16:40:48 | SELL | 0.000133 | `2f86qJPMtAK3ckEp4Kn3AyAgBhMpQE...` |
-
+</details>

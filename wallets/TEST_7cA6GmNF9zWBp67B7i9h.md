@@ -1,26 +1,17 @@
-# [TEST] Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `7cA6GmNF9zWBp67B...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.000061 SOL** (-61.2%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **-0.000061 SOL** |
-| **Closed ROI** | **-61.2%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ AGENT | -0.0001 | 03-17 04:28 | 1.2x | 03-17 05:40 | 0.0000/0.0001 | SL |
 
-### 🔴 AGENT
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.21x | **Current:** 0.39x
-- **Mint:** `BkkGZEJV5QW93WXMtUHiK71F2ML7eYsCEeJD9P3fpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 04:28:49 | BUY | 0.000100 | `4qZM4AhLC6DtnJxJcHpT6xRdnN2Pdr...` |
-| 2026-03-17 05:40:59 | SELL | 0.000039 | `RWZoEvKcas2sgLeQvUeA9oAYSXs3hh...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 05:40 | AGENT | SELL | 0.0000 | `RWZoEvKcas2sgLeQ...` |
+| 03-17 04:28 | AGENT | BUY | 0.0001 | `4qZM4AhLC6DtnJxJ...` |
 
+</details>

@@ -1,35 +1,24 @@
-# [TEST] Wallet: `cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `cqakon1K22iRvSAn...`
+> 2026-03-17 11:26 UTC | **2** pos | **0W/1L** | P&L: **-0.000061 SOL** (-61.2%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **-0.000061 SOL** |
-| **Closed ROI** | **-61.2%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| AGI | 03-17 00:29 | 1.38x | 1.84x | 10.9h | 0.0001 |
 
-### 🔴 POKER
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.18x | **Current:** 0.39x
-- **Mint:** `97iD6J9wnUyL5WGPgCAES59zfrWG1jhEbTnSTP6Qpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:42:53 | BUY | 0.000100 | `37T4HXFAfrQ9uPDpQYhUzzvoiaCs4v...` |
-| 2026-03-17 03:05:34 | SELL | 0.000039 | `5C5BKAZ69L8X5UHjSn6TegrHLFGk2H...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ POKER | -0.0001 | 03-17 02:42 | 1.2x | 03-17 03:05 | 0.0000/0.0001 | SL |
 
-### 🟢 AGI
-- **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.38x
-- **Mint:** `74DUiy4ziySrM4A8oxUUm37q2zRJkczp89p9Bwupump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:29:22 | BUY | 0.000100 | `3hic24sdEfnmPFeXG255sKYbB2JCMf...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 03:05 | POKER | SELL | 0.0000 | `5C5BKAZ69L8X5UHj...` |
+| 03-17 02:42 | POKER | BUY | 0.0001 | `37T4HXFAfrQ9uPDp...` |
+| 03-17 00:29 | AGI | BUY | 0.0001 | `3hic24sdEfnmPFeX...` |
 
+</details>

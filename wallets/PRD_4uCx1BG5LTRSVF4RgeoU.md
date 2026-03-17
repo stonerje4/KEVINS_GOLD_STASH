@@ -1,26 +1,17 @@
-# [PRD] Wallet: `4uCx1BG5LTRSVF4RgeoUJ6PLZervPQN6npf62QtMGexa`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `4uCx1BG5LTRSVF4R...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.020444 SOL** (-40.9%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.050000 |
-| **Closed P&L** | **-0.020444 SOL** |
-| **Closed ROI** | **-40.9%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ 𝕏 Card  | -0.0204 | 03-10 15:34 | 1.1x | 03-12 13:30 | 0.0296/0.0500 | SL |
 
-### 🔴 𝕏 Card 
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.06x | **Current:** 0.00x
-- **Mint:** `8cjQQwp11emABVzQfGHedr2HskfVL5XkVpSEw9dnpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 15:34:22 | BUY | 0.050000 | `4U5Ay4hqjcvWKvwWp8Wz8RzNKJfCRx...` |
-| 2026-03-12 13:30:52 | SELL | 0.029556 | `4VTtunDrXgYs5uuJHMhHyLCRcwyojK...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-12 13:30 | 𝕏 Card  | SELL | 0.0296 | `4VTtunDrXgYs5uuJ...` |
+| 03-10 15:34 | 𝕏 Card  | BUY | 0.0500 | `4U5Ay4hqjcvWKvwW...` |
 
+</details>

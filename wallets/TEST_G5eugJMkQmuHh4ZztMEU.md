@@ -1,25 +1,16 @@
-# [TEST] Wallet: `G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `G5eugJMkQmuHh4Zz...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 1 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| FOR | 03-17 01:05 | 0.98x | 1.00x | 10.3h | 0.0001 |
 
-### 🟢 FOR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
-- **Mint:** `8gWx4AU2sFKWCSTYjM4CrxYNPqr4qdpq6gvkQrmhpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:05:40 | BUY | 0.000100 | `4w7DP4oErcvRSiy7t9MA7Cs3RiZ6mk...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 01:05 | FOR | BUY | 0.0001 | `4w7DP4oErcvRSiy7...` |
 
+</details>

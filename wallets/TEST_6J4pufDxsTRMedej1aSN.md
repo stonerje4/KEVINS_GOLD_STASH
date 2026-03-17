@@ -1,26 +1,17 @@
-# [TEST] Wallet: `6J4pufDxsTRMedej1aSNhzjbScgLqci2cGEqQAs9MJbz`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `6J4pufDxsTRMedej...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.000061 SOL** (-61.4%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **-0.000061 SOL** |
-| **Closed ROI** | **-61.4%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ RouRou | -0.0001 | 03-17 06:17 | 1.0x | 03-17 06:23 | 0.0000/0.0001 | SL |
 
-### 🔴 RouRou
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.39x
-- **Mint:** `gYtLm8ccLeM7Ww8ppq6mfLhG2tpMkXoYxYtTst1pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:17:55 | BUY | 0.000100 | `L8Xtwbuy7Qs5P4QprnZawzcnNeDcj1...` |
-| 2026-03-17 06:23:13 | SELL | 0.000039 | `39Jnq21zTeBtmaDh9P6bCWAozgDY5K...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 06:23 | RouRou | SELL | 0.0000 | `39Jnq21zTeBtmaDh...` |
+| 03-17 06:17 | RouRou | BUY | 0.0001 | `L8Xtwbuy7Qs5P4Qp...` |
 
+</details>

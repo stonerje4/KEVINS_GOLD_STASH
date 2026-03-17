@@ -1,90 +1,44 @@
-# [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `9tv5mfwaQVsJQ6xg...`
+> 2026-03-17 11:26 UTC | **7** pos | **2W/3L** | P&L: **+0.000106 SOL** (+21.2%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 7 |
-| Open | 2 |
-| Closed | 5 |
-| W/L | 2/3 |
-| SOL In (closed) | 0.000500 |
-| **Closed P&L** | **+0.000106 SOL** |
-| **Closed ROI** | **+21.2%** |
-| Open Deployed | 0.000200 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| MEATBAGS | 03-16 17:42 | 0.45x | 1.54x | 17.7h | 0.0001 |
+| TANG | 03-16 16:32 | 1.30x | 1.90x | 18.9h | 0.0001 |
 
-### 🟢 roni
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 7.50x | **Current:** 2.57x
-- **Mint:** `56URfFvbquqhg1jBTFQLHtfzei6aZJUY8BP482aEpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:13:12 | BUY | 0.000100 | `rf4E7dx1LjoEeuvkc9LDNj7bu8YzGE...` |
-| 2026-03-17 01:16:21 | SELL | 0.000027 | `3ctjqkvDhUYFXUESEUzipQmDcZw6tu...` |
-| 2026-03-17 01:16:57 | SELL | 0.000033 | `6WMVc8nrvRRTJkurDy35Ea8JoEjXRD...` |
-| 2026-03-17 01:24:41 | SELL | 0.000045 | `4d1DCJg28niXBSsWd4ponje7i7hzpA...` |
-| 2026-03-17 01:41:57 | SELL | 0.000188 | `w1CKUJfMmPaQjyhGWV3YkN83o67oo1...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ roni | +0.0002 | 03-17 01:13 | 7.5x | 03-17 01:41 | 0.0003/0.0001 | trail |
+| ❌ SHELLY | -0.0001 | 03-16 17:54 | 1.1x | 03-16 18:02 | 0.0000/0.0001 | gc_SL |
+| ❌ 唐某某 | -0.0000 | 03-16 17:48 | 2.5x | 03-16 18:25 | 0.0001/0.0001 | trail |
+| ✅ OpenHome | +0.0001 | 03-16 17:23 | 3.2x | 03-16 23:18 | 0.0002/0.0001 | trail |
+| ❌ GIRL | -0.0001 | 03-16 16:57 | 1.3x | 03-16 17:34 | 0.0000/0.0001 | SL |
 
-### 🔴 SHELLY
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.13x | **Current:** 0.31x
-- **Mint:** `Fh4GfsABm7GWCEToGNBY3PX15FMCg8GetTBLxsWqpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:54:25 | BUY | 0.000100 | `23yZAuPPWoYUpjzjiLohTURgMLAFiG...` |
-| 2026-03-16 18:01:37 | SELL | 0.000031 | `52Vv4s7UTZbtCakubn88qfCuN99vmw...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 01:41 | roni | SELL | 0.0002 | `w1CKUJfMmPaQjyhG...` |
+| 03-17 01:24 | roni | SELL | 0.0000 | `4d1DCJg28niXBSsW...` |
+| 03-17 01:16 | roni | SELL | 0.0000 | `6WMVc8nrvRRTJkur...` |
+| 03-17 01:16 | roni | SELL | 0.0000 | `3ctjqkvDhUYFXUES...` |
+| 03-17 01:13 | roni | BUY | 0.0001 | `rf4E7dx1LjoEeuvk...` |
+| 03-16 23:18 | OpenHome | SELL | 0.0001 | `4hvzucYjJ8ad89L5...` |
+| 03-16 18:25 | 唐某某 | SELL | 0.0001 | `3jkjN5bFdjJoCQYR...` |
+| 03-16 18:24 | OpenHome | SELL | 0.0000 | `3WKWQQEmiUPrZHy6...` |
+| 03-16 18:22 | OpenHome | SELL | 0.0000 | `3VzAHGRicEjvcBqb...` |
+| 03-16 18:01 | SHELLY | SELL | 0.0000 | `52Vv4s7UTZbtCaku...` |
+| 03-16 17:54 | SHELLY | BUY | 0.0001 | `23yZAuPPWoYUpjzj...` |
+| 03-16 17:53 | 唐某某 | SELL | 0.0000 | `3BibP5KYix2oj3FT...` |
+| 03-16 17:48 | 唐某某 | BUY | 0.0001 | `2hx5UGpmFtHettnq...` |
+| 03-16 17:42 | MEATBAGS | BUY | 0.0001 | `4cvfVk1hFCK8S3VQ...` |
+| 03-16 17:34 | GIRL | SELL | 0.0000 | `3P6ZtYbgDFUVpmDi...` |
+| 03-16 17:23 | OpenHome | BUY | 0.0001 | `37JE6mZA12tXNvNZ...` |
+| 03-16 16:57 | GIRL | BUY | 0.0001 | `2QQVQz9oXQeTWotc...` |
+| 03-16 16:32 | TANG | BUY | 0.0001 | `52GjieAYpE6fRbGM...` |
 
-### 🔴 唐某某
-- **Status:** closing | **Exit:** runner_trailing_stop
-- **Peak:** 2.47x | **Current:** 0.80x
-- **Mint:** `9aaEaHnNezimeAqzzBuj4ha2uMFc4L17eGDiezS1ANfu`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:48:24 | BUY | 0.000100 | `2hx5UGpmFtHettnqYNiWAG9DSH87e2...` |
-| 2026-03-16 17:53:46 | SELL | 0.000025 | `3BibP5KYix2oj3FTEfUPiAzqaFc4SX...` |
-| 2026-03-16 18:25:10 | SELL | 0.000072 | `3jkjN5bFdjJoCQYRMBmhXnkBXSAoA4...` |
-
-### 🟢 MEATBAGS
-- **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.45x
-- **Mint:** `EVxm9QG7UN9uNwg55pK8iz2xvs7TiqPJ1knM2Y6rpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:42:12 | BUY | 0.000100 | `4cvfVk1hFCK8S3VQqTU98NEwcvMwqd...` |
-
-### 🟢 OpenHome
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 3.21x | **Current:** 1.31x
-- **Mint:** `2WovvZ1KJrvWFS3KqPsCDGH8PVQaCmDuz4xDkoFbpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:23:35 | BUY | 0.000100 | `37JE6mZA12tXNvNZ5Q93JNZTpsVHof...` |
-| 2026-03-16 18:22:48 | SELL | 0.000022 | `3VzAHGRicEjvcBqbyx6AfKYhFMnrPp...` |
-| 2026-03-16 18:24:40 | SELL | 0.000028 | `3WKWQQEmiUPrZHy6X8bpcEETkH9r8j...` |
-| 2026-03-16 23:18:39 | SELL | 0.000104 | `4hvzucYjJ8ad89L57DGAZ1JHLXwHqS...` |
-
-### 🔴 GIRL
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.25x | **Current:** 0.32x
-- **Mint:** `5nmrpznhrs46WWrKyxb4Liqc41F3msD7A6RLGxwHpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 16:57:03 | BUY | 0.000100 | `2QQVQz9oXQeTWotco6dqGtVMhBduNM...` |
-| 2026-03-16 17:34:55 | SELL | 0.000032 | `3P6ZtYbgDFUVpmDihJ9FmqjD1UhMQW...` |
-
-### 🟢 TANG
-- **Status:** open | **Exit:** open
-- **Peak:** 1.90x | **Current:** 1.30x
-- **Mint:** `95rWeV3JWuSgRKA4S8sApBMLYeHrcaWxAX3oX3aMpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 16:32:10 | BUY | 0.000100 | `52GjieAYpE6fRbGMjQcScJsNU3S7JB...` |
-
+</details>

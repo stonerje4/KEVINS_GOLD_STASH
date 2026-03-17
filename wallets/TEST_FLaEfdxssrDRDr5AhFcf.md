@@ -1,26 +1,17 @@
-# [TEST] Wallet: `FLaEfdxssrDRDr5AhFcfqJdXaWw8tXTP8p7vc9kotcni`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `FLaEfdxssrDRDr5A...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.000071 SOL** (-71.5%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **-0.000071 SOL** |
-| **Closed ROI** | **-71.5%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Quagsire | -0.0001 | 03-16 15:39 | 1.5x | 03-16 16:08 | 0.0000/0.0001 | gc_SL |
 
-### 🔴 Quagsire
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.53x | **Current:** 0.30x
-- **Mint:** `5868Jrr3S9ywjf26YYRwa1nN2XzSUycbagRRfsSzpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 15:39:41 | BUY | 0.000100 | `4MSbAQ85v9fpRfUCWN86amsiwHGem5...` |
-| 2026-03-16 16:08:16 | SELL | 0.000029 | `5P1c1LG2btij5fFcxcCQnKZjtD7NJM...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 16:08 | Quagsire | SELL | 0.0000 | `5P1c1LG2btij5fFc...` |
+| 03-16 15:39 | Quagsire | BUY | 0.0001 | `4MSbAQ85v9fpRfUC...` |
 
+</details>

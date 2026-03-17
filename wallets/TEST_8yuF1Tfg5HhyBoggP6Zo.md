@@ -1,85 +1,39 @@
-# [TEST] Wallet: `8yuF1Tfg5HhyBoggP6ZofKoFhdwbiTDkkLUa3mG5VtTg`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `8yuF1Tfg5HhyBogg...`
+> 2026-03-17 11:26 UTC | **7** pos | **0W/5L** | P&L: **-0.000987 SOL** (-39.5%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 7 |
-| Open | 2 |
-| Closed | 5 |
-| W/L | 0/5 |
-| SOL In (closed) | 0.002500 |
-| **Closed P&L** | **-0.000987 SOL** |
-| **Closed ROI** | **-39.5%** |
-| Open Deployed | 0.000200 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| COALKID | 03-16 15:53 | 0.48x | 1.04x | 19.5h | 0.0001 |
+| JOHNNY SINS | 03-16 15:44 | 0.48x | 1.00x | 19.7h | 0.0001 |
 
-### 🔴 Donkeys
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 2.20x | **Current:** 0.63x
-- **Mint:** `6M5wtvD1HTheUGFpQyNWWwuSXa3FwfZFLe4oWayWpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 18:21:59 | BUY | 0.000100 | `3p3pAaM2ivjvjTea2UFxxrZZMmswjK...` |
-| 2026-03-16 18:25:12 | SELL | 0.000022 | `pNZTLjbEiNWsAGKofUD6uVNPpL7wHn...` |
-| 2026-03-16 23:19:00 | SELL | 0.000057 | `2ThWkP9rrML4prwjNG74khQLPtaw1b...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Donkeys | -0.0000 | 03-16 18:21 | 2.2x | 03-16 23:19 | 0.0001/0.0001 | trail |
+| ❌ Koozie | -0.0003 | 03-16 10:14 | 1.9x | 03-16 10:54 | 0.0003/0.0006 | gc_SL |
+| ❌ NEO | -0.0002 | 03-16 08:54 | 1.0x | 03-16 08:59 | 0.0004/0.0006 | gc_SL |
+| ❌ NORMIE | -0.0002 | 03-16 02:27 | 1.3x | 03-16 06:43 | 0.0004/0.0006 | gc_SL |
+| ❌ BLACKJACK | -0.0003 | 03-16 02:23 | 1.3x | 03-16 02:48 | 0.0003/0.0006 | gc_SL |
 
-### 🟢 COALKID
-- **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.48x
-- **Mint:** `4BYp9bPWua2YoijAjWWPDPzUjzMAftjhy9xsCd3wpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 15:53:17 | BUY | 0.000100 | `4YzRzPCdzNPHPkmMGw3scQtrdzzX1d...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 23:19 | Donkeys | SELL | 0.0001 | `2ThWkP9rrML4prwj...` |
+| 03-16 18:25 | Donkeys | SELL | 0.0000 | `pNZTLjbEiNWsAGKo...` |
+| 03-16 18:21 | Donkeys | BUY | 0.0001 | `3p3pAaM2ivjvjTea...` |
+| 03-16 15:53 | COALKID | BUY | 0.0001 | `4YzRzPCdzNPHPkmM...` |
+| 03-16 15:44 | JOHNNY SINS | BUY | 0.0001 | `5T6cyHde3qM62eZ6...` |
+| 03-16 10:54 | Koozie | SELL | 0.0003 | `4nfvMMCU3An3U7xD...` |
+| 03-16 10:14 | Koozie | BUY | 0.0006 | `4Rv1FMZrZmbo7VMb...` |
+| 03-16 08:58 | NEO | SELL | 0.0004 | `4MSXeneAc436ffeA...` |
+| 03-16 08:54 | NEO | BUY | 0.0006 | `4UePrT634Jg3u75h...` |
+| 03-16 06:42 | NORMIE | SELL | 0.0004 | `4sXC6uxjx2DDyfjd...` |
+| 03-16 02:48 | BLACKJACK | SELL | 0.0003 | `35hV9UmuRrrAPfwh...` |
+| 03-16 02:27 | NORMIE | BUY | 0.0006 | `sgBDH8TTGwWNTpaT...` |
+| 03-16 02:23 | BLACKJACK | BUY | 0.0006 | `3hT8vXRnjSFup7oV...` |
 
-### 🟢 JOHNNY SINS
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.48x
-- **Mint:** `25hdrFRpfkSJxvxnHmLc5mAwwWfp5aybapcqZ1Bypump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 15:44:25 | BUY | 0.000100 | `5T6cyHde3qM62eZ6JuJnL2GRjre1pT...` |
-
-### 🔴 Koozie
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.91x | **Current:** 0.54x
-- **Mint:** `D9Y9TiADgciiFPUwkehMjgNUaq3Ux3Bnr1CZMkJzpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 10:14:37 | BUY | 0.000600 | `4Rv1FMZrZmbo7VMbRGuTMa2Vth8AWo...` |
-| 2026-03-16 10:54:05 | SELL | 0.000324 | `4nfvMMCU3An3U7xDsEHp1jnHVnygHn...` |
-
-### 🔴 NEO
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.04x | **Current:** 0.66x
-- **Mint:** `6JzJ2NodhBBRfo6LeFkaoJQSuFrFgxnpq3rkWavUpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 08:54:29 | BUY | 0.000600 | `4UePrT634Jg3u75h6GQ3JR13UWYirq...` |
-| 2026-03-16 08:58:48 | SELL | 0.000394 | `4MSXeneAc436ffeAiB33WL1tQpAPK2...` |
-
-### 🔴 NORMIE
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.26x | **Current:** 0.64x
-- **Mint:** `75Dhr6PzP13jMygRiU6zXduduVE7CDkjp4s2cG25pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 02:27:30 | BUY | 0.000600 | `sgBDH8TTGwWNTpaTunLW86PyumeiMw...` |
-| 2026-03-16 06:42:47 | SELL | 0.000373 | `4sXC6uxjx2DDyfjdkUQsyngqu4yDZN...` |
-
-### 🔴 BLACKJACK
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.31x | **Current:** 0.57x
-- **Mint:** `73XxPmoakfwGAvad4C4bxdLtLmehz3UjEiVzNE7Spump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 02:23:53 | BUY | 0.000600 | `3hT8vXRnjSFup7oVtjA1t9YqekXPmN...` |
-| 2026-03-16 02:48:10 | SELL | 0.000343 | `35hV9UmuRrrAPfwhjXC8fApx26v45L...` |
-
+</details>

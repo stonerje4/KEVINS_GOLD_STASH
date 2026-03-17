@@ -1,87 +1,41 @@
-# [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `AiNfNi2ePcQMVE2j...`
+> 2026-03-17 11:26 UTC | **7** pos | **0W/2L** | P&L: **-0.000123 SOL** (-61.6%) | 5 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 7 |
-| Open | 5 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.000200 |
-| **Closed P&L** | **-0.000123 SOL** |
-| **Closed ROI** | **-61.6%** |
-| Open Deployed | 0.000500 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| AGENT | 03-17 08:33 | 0.65x | 1.00x | 2.9h | 0.0001 |
+| X-Man | 03-17 08:31 | 0.89x | 1.03x | 2.9h | 0.0001 |
+| Stinkcoin | 03-17 07:37 | 0.73x | 1.70x | 3.8h | 0.0001 |
+| MULE | 03-17 07:17 | 0.77x | 1.06x | 4.1h | 0.0001 |
+| PIKAHORSE | 03-17 06:21 | 20.63x | 22.06x | 5.1h | 0.0001 |
 
-### 🟢 AGENT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.65x
-- **Mint:** `F9R7Tq41x8QsPCfEhAbFRuMFq4p3rTm7BBESJvwypump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 08:33:26 | BUY | 0.000100 | `22LgsPTWP56agMZCdyu2xm3AoJinFH...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ CLOVE | -0.0001 | 03-17 06:15 | 1.2x | 03-17 06:21 | 0.0000/0.0001 | SL |
+| ❌ trot | -0.0001 | 03-17 05:45 | 1.6x | 03-17 06:32 | 0.0000/0.0001 | SL |
 
-### 🟢 X-Man
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.89x
-- **Mint:** `FBcmXXWRscafFoJafLyR3yD6npYrLCbTR8Gtpohcpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 08:31:22 | BUY | 0.000100 | `3cV1gqxZApYgoV5JHnxm5ZuZk2sZVQ...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 11:01 | PIKAHORSE | SELL | 0.0001 | `3QCsnoxrVoeQkrSn...` |
+| 03-17 08:33 | AGENT | BUY | 0.0001 | `22LgsPTWP56agMZC...` |
+| 03-17 08:31 | X-Man | BUY | 0.0001 | `3cV1gqxZApYgoV5J...` |
+| 03-17 07:37 | Stinkcoin | BUY | 0.0001 | `4rF95FhW9FDtZsjt...` |
+| 03-17 07:17 | MULE | BUY | 0.0001 | `yNs2eHnxZXRRoCBy...` |
+| 03-17 06:42 | PIKAHORSE | SELL | 0.0001 | `4gSvnhpeY73fLYR2...` |
+| 03-17 06:36 | PIKAHORSE | SELL | 0.0001 | `5Udg15mpmn6c9SDd...` |
+| 03-17 06:32 | trot | SELL | 0.0000 | `5VPu3r9ntcjrhsN2...` |
+| 03-17 06:31 | PIKAHORSE | SELL | 0.0000 | `48VK68bUm8YjXBBv...` |
+| 03-17 06:30 | PIKAHORSE | SELL | 0.0000 | `5o2pcxDNyXckfjAL...` |
+| 03-17 06:24 | PIKAHORSE | SELL | 0.0000 | `4pHgZU9Gu7uYyzfQ...` |
+| 03-17 06:21 | CLOVE | SELL | 0.0000 | `5VPYCTDStRxm4bd3...` |
+| 03-17 06:21 | PIKAHORSE | BUY | 0.0001 | `2dUTjYPgqFFihFEx...` |
+| 03-17 06:15 | CLOVE | BUY | 0.0001 | `3ehc9zgvjJyiR3Cs...` |
+| 03-17 05:45 | trot | BUY | 0.0001 | `kYEc2cv9s5aR2s6A...` |
 
-### 🟢 Stinkcoin
-- **Status:** open | **Exit:** open
-- **Peak:** 1.70x | **Current:** 0.73x
-- **Mint:** `6o9aKxKfdSSfmaiwKV2VAeVivM8Kf6SU7XGAmnsjpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 07:37:37 | BUY | 0.000100 | `4rF95FhW9FDtZsjtWhaG5GzrV8kaPA...` |
-
-### 🟢 MULE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.77x
-- **Mint:** `CNvpUrwm7E2QAezwKpm4nfUFM8ALtJ8jcXuJ67ccpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 07:17:15 | BUY | 0.000100 | `yNs2eHnxZXRRoCByMNhbAYh8TnTnit...` |
-
-### 🟢 PIKAHORSE
-- **Status:** partial | **Exit:** open
-- **Peak:** 22.06x | **Current:** 20.17x
-- **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:21:07 | BUY | 0.000100 | `2dUTjYPgqFFihFExL352CuZsEMCQrp...` |
-| 2026-03-17 06:24:05 | SELL | 0.000021 | `4pHgZU9Gu7uYyzfQky96gKjEwKWSrg...` |
-| 2026-03-17 06:30:42 | SELL | 0.000027 | `5o2pcxDNyXckfjALtVdG9Jk4CABpNi...` |
-| 2026-03-17 06:31:24 | SELL | 0.000046 | `48VK68bUm8YjXBBvSpRZj13ozsorMq...` |
-| 2026-03-17 06:36:51 | SELL | 0.000061 | `5Udg15mpmn6c9SDdmD5jZS4aHWW4c1...` |
-| 2026-03-17 06:42:52 | SELL | 0.000068 | `4gSvnhpeY73fLYR2KBssvWHib8kygJ...` |
-| 2026-03-17 11:01:36 | SELL | 0.000106 | `3QCsnoxrVoeQkrSnqXU3DogG6W8iuY...` |
-
-### 🔴 CLOVE
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.15x | **Current:** 0.38x
-- **Mint:** `7ALiw4YMqKj6taP9isqkzDKjCMyuTTAzc1VXCTVApump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 06:15:13 | BUY | 0.000100 | `3ehc9zgvjJyiR3Cs6B7FzSZcCTzBDS...` |
-| 2026-03-17 06:21:46 | SELL | 0.000038 | `5VPYCTDStRxm4bd3jpuwhLB53banu6...` |
-
-### 🔴 trot
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.59x | **Current:** 0.39x
-- **Mint:** `HvSpfBdMNAsBzZgqgnfRzo6wT43JyAR9s2aCtUEpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 05:45:34 | BUY | 0.000100 | `kYEc2cv9s5aR2s6ApY3eDCfAKZ43LS...` |
-| 2026-03-17 06:32:07 | SELL | 0.000038 | `5VPu3r9ntcjrhsN2e5PZJaczAysmLs...` |
-
+</details>

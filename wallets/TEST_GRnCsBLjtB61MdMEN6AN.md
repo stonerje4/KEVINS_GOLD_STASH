@@ -1,34 +1,18 @@
-# [TEST] Wallet: `GRnCsBLjtB61MdMEN6ANdezgU5ootwVEbUT2ZYyv18hq`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `GRnCsBLjtB61MdME...`
+> 2026-03-17 11:26 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 2 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000200 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Green | 03-17 09:34 | 0.95x | 1.00x | 1.9h | 0.0001 |
+| Gany | 03-17 04:42 | 0.86x | 1.00x | 6.7h | 0.0001 |
 
-### 🟢 Green
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
-- **Mint:** `8Gkgy2sxotAhkhdCy5rVJGd3DSRuLmMkEvxuesZ7pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 09:34:26 | BUY | 0.000100 | `3g69GDvwgagt58JkLko6DuBFHcXDj1...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 09:34 | Green | BUY | 0.0001 | `3g69GDvwgagt58Jk...` |
+| 03-17 04:42 | Gany | BUY | 0.0001 | `YJNSiDqZMxBu4125...` |
 
-### 🟢 Gany
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
-- **Mint:** `2NMC6NymEHsPtLjrRTv7sVbSynESphdcA6Es2wRopump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 04:42:44 | BUY | 0.000100 | `YJNSiDqZMxBu41255C9JLDRNd75BiN...` |
-
+</details>

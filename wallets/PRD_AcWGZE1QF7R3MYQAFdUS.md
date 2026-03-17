@@ -1,95 +1,42 @@
-# [PRD] Wallet: `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `AcWGZE1QF7R3MYQA...`
+> 2026-03-17 11:26 UTC | **8** pos | **1W/5L** | P&L: **-0.335390 SOL** (-37.3%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 8 |
-| Open | 2 |
-| Closed | 6 |
-| W/L | 1/5 |
-| SOL In (closed) | 0.900000 |
-| **Closed P&L** | **-0.335390 SOL** |
-| **Closed ROI** | **-37.3%** |
-| Open Deployed | 0.300000 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Dozer | 03-17 02:02 | 0.00x | 1.74x | 9.4h | 0.1500 |
+| STOP | 03-16 21:29 | 0.00x | 1.38x | 14.0h | 0.1500 |
 
-### 🟢 Dozer
-- **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.00x
-- **Mint:** `JB92sKqTtgyfAaYcpg5x8Jau2m73jUfsyEHkpRRspump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:02:46 | BUY | 0.150000 | `633zbvUgTj7r96APYfrzXVbrqcjAcb...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Achievements | -0.0931 | 03-16 22:26 | 1.0x | 03-16 23:03 | 0.0569/0.1500 | SL |
+| ❌ ASSWASH | -0.0893 | 03-16 21:27 | 1.2x | 03-17 04:48 | 0.0607/0.1500 | stale |
+| ❌ Ac7ionMan | -0.0862 | 03-16 19:02 | 1.1x | 03-17 01:48 | 0.0638/0.1500 | stale |
+| ✅ Ac7ionMan | +0.0079 | 03-16 18:47 | 2.3x | 03-16 19:01 | 0.1579/0.1500 | trail |
+| ❌ RELAPSE | -0.0188 | 03-16 18:47 | 1.0x | 03-17 01:48 | 0.1312/0.1500 | stale |
+| ❌ WWM | -0.0558 | 03-16 03:10 | 1.0x | 03-16 13:17 | 0.0942/0.1500 | SL |
 
-### 🔴 Achievements
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.03x | **Current:** 0.00x
-- **Mint:** `FA9CcwLLMMMN14AhTNtnbmFnrV1UbS3HHKSor1Ykpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 22:26:37 | BUY | 0.150000 | `3dYnLbfe5yK4BvRa5gYcFDfybasM3q...` |
-| 2026-03-16 23:03:19 | SELL | 0.056869 | `3JzRL7pmiSJDmgL6z5Z6s8qxB4CSuP...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 04:48 | ASSWASH | SELL | 0.0607 | `UPkgM786USB9HNC4...` |
+| 03-17 02:02 | Dozer | BUY | 0.1500 | `633zbvUgTj7r96AP...` |
+| 03-17 01:48 | Ac7ionMan | SELL | 0.0638 | `26ba4Nzi5CA1iunr...` |
+| 03-17 01:48 | RELAPSE | SELL | 0.1312 | `4aisT5fQ8UFCFFkU...` |
+| 03-16 23:03 | Achievements | SELL | 0.0569 | `3JzRL7pmiSJDmgL6...` |
+| 03-16 22:26 | Achievements | BUY | 0.1500 | `3dYnLbfe5yK4BvRa...` |
+| 03-16 21:29 | STOP | BUY | 0.1500 | `ezwRyMVjFgm9HT7K...` |
+| 03-16 21:27 | ASSWASH | BUY | 0.1500 | `5oSR5VSdoYRxcEP5...` |
+| 03-16 19:02 | Ac7ionMan | BUY | 0.1500 | `2M25ReoTNK8hYSfc...` |
+| 03-16 19:01 | Ac7ionMan | SELL | 0.1230 | `5ZLm7GPCx1wAJfep...` |
+| 03-16 18:54 | Ac7ionMan | SELL | 0.0349 | `53tE8fV5CCYLbSop...` |
+| 03-16 18:47 | Ac7ionMan | BUY | 0.1500 | `3EQqCqGNxV7Z7yyX...` |
+| 03-16 18:47 | RELAPSE | BUY | 0.1500 | `JWQ83abSqRW8psZw...` |
+| 03-16 13:17 | WWM | SELL | 0.0942 | `5soGNPh9K6tjnaVv...` |
+| 03-16 03:10 | WWM | BUY | 0.1500 | `5e14cfKErjqhZNDT...` |
 
-### 🟢 STOP
-- **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 0.00x
-- **Mint:** `B7ZMduYoeVKVsYoZmWB83doxBuqCxHvzmT5FhPGZpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 21:29:02 | BUY | 0.150000 | `ezwRyMVjFgm9HT7Ki7sBivVh18dsaL...` |
-
-### 🔴 ASSWASH
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.16x | **Current:** 0.00x
-- **Mint:** `GN2981qto7rVHnuNAFiTnnw65FAPSy3ydH2ZsZLapump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 21:27:18 | BUY | 0.150000 | `5oSR5VSdoYRxcEP5Ujkuctp8ZUwwdc...` |
-| 2026-03-17 04:48:51 | SELL | 0.060655 | `UPkgM786USB9HNC4niVt6awoGDntKZ...` |
-
-### 🔴 Ac7ionMan
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.06x | **Current:** 0.00x
-- **Mint:** `7jUQDXVZNn3zKR5Sxqdg31WAr3HM5QAKqfbJwyyEpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 19:02:39 | BUY | 0.150000 | `2M25ReoTNK8hYSfcQLAPUfy1BKBeZN...` |
-| 2026-03-17 01:48:52 | SELL | 0.063755 | `26ba4Nzi5CA1iunr2jeB9kvcz4HUPN...` |
-
-### 🟢 Ac7ionMan
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 2.33x | **Current:** 0.00x
-- **Mint:** `J5KWRN9whQEm61uz38RXnaqGJfcPr3piLijz4N96pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 18:47:35 | BUY | 0.150000 | `3EQqCqGNxV7Z7yyXsESVL3Wia6hG8j...` |
-| 2026-03-16 18:54:32 | SELL | 0.034902 | `53tE8fV5CCYLbSopxHd5WMabgZVttk...` |
-| 2026-03-16 19:01:09 | SELL | 0.123041 | `5ZLm7GPCx1wAJfepg4qgEpkddPELXE...` |
-
-### 🔴 RELAPSE
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.00x | **Current:** 0.00x
-- **Mint:** `8gRuzEvXQG9NRH6gAjSUDpVEjrssuTe2E7MRomT63p2u`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 18:47:09 | BUY | 0.150000 | `JWQ83abSqRW8psZwy73Jzvh1gkUFdS...` |
-| 2026-03-17 01:48:50 | SELL | 0.131151 | `4aisT5fQ8UFCFFkUhoXCJ7EdjpCzDt...` |
-
-### 🔴 WWM
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.04x | **Current:** 0.00x
-- **Mint:** `ERcwFx1AD24eHKdUtmfvwXJLWKapZ9mVwZ5xcuZJpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 03:10:14 | BUY | 0.150000 | `5e14cfKErjqhZNDTsR8aDzHnNcKLeG...` |
-| 2026-03-16 13:17:51 | SELL | 0.094237 | `5soGNPh9K6tjnaVvsy9CuPHPdWf4iZ...` |
-
+</details>

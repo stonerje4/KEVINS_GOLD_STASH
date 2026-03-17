@@ -1,119 +1,52 @@
-# [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `35RArQiyVX4sh8ij...`
+> 2026-03-17 11:26 UTC | **10** pos | **1W/5L** | P&L: **-0.000139 SOL** (-12.6%) | 4 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 10 |
-| Open | 4 |
-| Closed | 6 |
-| W/L | 1/5 |
-| SOL In (closed) | 0.001100 |
-| **Closed P&L** | **-0.000139 SOL** |
-| **Closed ROI** | **-12.6%** |
-| Open Deployed | 0.000400 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| ADDICTION | 03-17 01:54 | 0.51x | 1.98x | 9.5h | 0.0001 |
+| FPT | 03-17 00:37 | 1.33x | 2.07x | 10.8h | 0.0001 |
+| Rocketman | 03-16 17:16 | 0.41x | 1.02x | 18.2h | 0.0001 |
+| ヌオー | 03-16 17:01 | 0.44x | 1.00x | 18.4h | 0.0001 |
 
-### 🟢 ADDICTION
-- **Status:** open | **Exit:** open
-- **Peak:** 1.98x | **Current:** 0.51x
-- **Mint:** `3sakGzMhUQEe3Epr8spKkEoyFwuZnHQn8hht7Lyzpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:54:26 | BUY | 0.000100 | `3kjWmvjHMBGDwGEkuZzZozsgkvoACB...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ HOLD | -0.0001 | 03-17 01:03 | 1.0x | 03-17 03:04 | 0.0000/0.0001 | SL |
+| ❌ TRENCHERIA | -0.0001 | 03-17 00:44 | 1.1x | 03-17 00:45 | 0.0000/0.0001 | SL |
+| ✅ CLAWDIS | +0.0005 | 03-17 00:25 | 12.5x | 03-17 02:40 | 0.0006/0.0001 | trail |
+| ❌ LUCKY | -0.0001 | 03-16 23:26 | 1.0x | 03-16 23:27 | 0.0000/0.0001 | gc_SL |
+| ❌ DAWAE | -0.0001 | 03-16 17:32 | 1.1x | 03-16 23:18 | 0.0000/0.0001 | SL |
+| ❌ Plumber | -0.0003 | 03-16 13:38 | 1.3x | 03-16 13:44 | 0.0003/0.0006 | gc_SL |
 
-### 🔴 HOLD
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.40x
-- **Mint:** `SPVPDaVfyDKqse6t5N6QwFtp3Va7jfAh9fjd8Rwpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:03:46 | BUY | 0.000100 | `2BqJ3ktTokx8e8iuoQoU4H6K3a42Zz...` |
-| 2026-03-17 03:04:55 | SELL | 0.000040 | `3mWfAaZmtFUMnYYCAhJM5qujFg9fmB...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 05:21 | FPT | SELL | 0.0000 | `4JNAVLfCNFmkYj3G...` |
+| 03-17 03:04 | HOLD | SELL | 0.0000 | `3mWfAaZmtFUMnYYC...` |
+| 03-17 02:40 | CLAWDIS | SELL | 0.0003 | `2o3zfyZDuUmdfrb2...` |
+| 03-17 02:33 | CLAWDIS | SELL | 0.0001 | `2R4JZg3VryX6E1BY...` |
+| 03-17 02:27 | CLAWDIS | SELL | 0.0001 | `3eDgcgUnbcxeAS91...` |
+| 03-17 02:22 | CLAWDIS | SELL | 0.0000 | `WgjomufMHGqqbRnF...` |
+| 03-17 02:08 | CLAWDIS | SELL | 0.0000 | `5vUt7o2JRxzBB8EW...` |
+| 03-17 01:54 | ADDICTION | BUY | 0.0001 | `3kjWmvjHMBGDwGEk...` |
+| 03-17 01:38 | CLAWDIS | SELL | 0.0000 | `2U2hZCY4pqCFKhHg...` |
+| 03-17 01:03 | HOLD | BUY | 0.0001 | `2BqJ3ktTokx8e8iu...` |
+| 03-17 00:45 | TRENCHERIA | SELL | 0.0000 | `46FScHM4JdL4Lwpc...` |
+| 03-17 00:44 | TRENCHERIA | BUY | 0.0001 | `3wzEPMvcb3DW1J7G...` |
+| 03-17 00:37 | FPT | BUY | 0.0001 | `4Zsw32MQPHSscdWJ...` |
+| 03-17 00:25 | CLAWDIS | BUY | 0.0001 | `3Uy6hjRfguGsThtj...` |
+| 03-16 23:27 | LUCKY | SELL | 0.0000 | `5iFmtzemZFqsgp2t...` |
+| 03-16 23:26 | LUCKY | BUY | 0.0001 | `38vv5cqvXXvGZ8oS...` |
+| 03-16 23:18 | DAWAE | SELL | 0.0000 | `4WssLJx7BWhjrrLE...` |
+| 03-16 17:32 | DAWAE | BUY | 0.0001 | `nswjAr6vT7BNN5Z1...` |
+| 03-16 17:16 | Rocketman | BUY | 0.0001 | `zzu8ufpiXbe9c75v...` |
+| 03-16 17:14 | Rocketman | BUY | 0.0001 | `?` |
+| 03-16 17:01 | ヌオー | BUY | 0.0001 | `2Lx9gBZQYTh6hHSN...` |
+| 03-16 13:44 | Plumber | SELL | 0.0003 | `4nEGQbRpJrsA9iWM...` |
+| 03-16 13:38 | Plumber | BUY | 0.0006 | `35ahwdMMuXtHVitU...` |
 
-### 🔴 TRENCHERIA
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.07x | **Current:** 0.34x
-- **Mint:** `enafJEvJ23wKUZRedVBSt9gfQYH2MG6KmTEnB51pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:44:05 | BUY | 0.000100 | `3wzEPMvcb3DW1J7GTMZ3xJ9ApFu1w6...` |
-| 2026-03-17 00:45:35 | SELL | 0.000034 | `46FScHM4JdL4Lwpczv2TnxBGP1Emex...` |
-
-### 🟢 FPT
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.07x | **Current:** 1.39x
-- **Mint:** `EuqzwYKEVZ2Ci24qjoMwu6sDdrJ7ZSqwEyg4cF2ppump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:37:23 | BUY | 0.000100 | `4Zsw32MQPHSscdWJSKCWKTHwbsZUU6...` |
-| 2026-03-17 05:21:50 | SELL | 0.000021 | `4JNAVLfCNFmkYj3GUA4pNRQwHVrWij...` |
-
-### 🟢 CLAWDIS
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 12.52x | **Current:** 5.45x
-- **Mint:** `2yDL2okKMtkxtSomVWVfr6Y8JDBuidRX3e4Qx8hBBAGS`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:25:03 | BUY | 0.000100 | `3Uy6hjRfguGsThtjDNabVd2SLRQndP...` |
-| 2026-03-17 01:38:33 | SELL | 0.000026 | `2U2hZCY4pqCFKhHgSBczKDxSNXg7yF...` |
-| 2026-03-17 02:08:06 | SELL | 0.000028 | `5vUt7o2JRxzBB8EWHEmLVtEdyHZsD7...` |
-| 2026-03-17 02:22:12 | SELL | 0.000043 | `WgjomufMHGqqbRnF2Ku9NZRussbDts...` |
-| 2026-03-17 02:27:54 | SELL | 0.000063 | `3eDgcgUnbcxeAS91pEuHg2pV4BJU1y...` |
-| 2026-03-17 02:33:11 | SELL | 0.000072 | `2R4JZg3VryX6E1BYdU99FKJise6K69...` |
-| 2026-03-17 02:40:11 | SELL | 0.000322 | `2o3zfyZDuUmdfrb2biWJtjL3boSR4p...` |
-
-### 🔴 LUCKY
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.36x
-- **Mint:** `stE3p8hLM32VXuyLDJrkTgb9tBTuRyUvfmKNrYupump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 23:26:19 | BUY | 0.000100 | `38vv5cqvXXvGZ8oSSuaAM8mLtZRwRd...` |
-| 2026-03-16 23:27:27 | SELL | 0.000037 | `5iFmtzemZFqsgp2ttmxrZkhiJwA26D...` |
-
-### 🔴 DAWAE
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.13x | **Current:** 0.24x
-- **Mint:** `BGjQfjXFf9wVwrmVeaMnmzsgzpbJEAkarjzj3pshpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:32:52 | BUY | 0.000100 | `nswjAr6vT7BNN5Z1teqGXDwaLwUPQh...` |
-| 2026-03-16 23:18:43 | SELL | 0.000024 | `4WssLJx7BWhjrrLEhEaiMqLoY8CCRP...` |
-
-### 🟢 Rocketman
-- **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.41x
-- **Mint:** `a4g2BeuF66q8dbjwxVJ792tT3KM27ze8ZQAmCzNpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:14:40 | BUY | 0.000100 | `?` |
-| 2026-03-16 17:16:54 | BUY | 0.000100 | `zzu8ufpiXbe9c75vys6wQ5n5S96Pf5...` |
-
-### 🟢 ヌオー
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.44x
-- **Mint:** `24A1qeBrizHPyoi1AjcFaDYXhNruVK41hsR59ZjApump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:01:53 | BUY | 0.000100 | `2Lx9gBZQYTh6hHSNXJj859Jti4jNNk...` |
-
-### 🔴 Plumber
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.29x | **Current:** 0.46x
-- **Mint:** `BCfNyzCbAbxKRTEV9VBSjz7uC68qN5VVBAw55A31pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 13:38:59 | BUY | 0.000600 | `35ahwdMMuXtHVitUpmF6QzZabHt1WA...` |
-| 2026-03-16 13:44:05 | SELL | 0.000274 | `4nEGQbRpJrsA9iWMfav7Qx5DSMfQPJ...` |
-
+</details>

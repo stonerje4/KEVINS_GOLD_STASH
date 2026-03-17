@@ -1,66 +1,29 @@
-# [TEST] Wallet: `6a8LDacLqFx889azBXjp2jXoXmNsaaq5y88ZQfGhzSHi`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `6a8LDacLqFx889az...`
+> 2026-03-17 11:26 UTC | **5** pos | **0W/5L** | P&L: **-0.000947 SOL** (-37.9%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 5 |
-| Open | 0 |
-| Closed | 5 |
-| W/L | 0/5 |
-| SOL In (closed) | 0.002500 |
-| **Closed P&L** | **-0.000947 SOL** |
-| **Closed ROI** | **-37.9%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Solana | -0.0001 | 03-16 15:42 | 1.8x | 03-16 23:18 | 0.0000/0.0001 | SL |
+| ❌ SideEye | -0.0002 | 03-16 13:34 | 1.0x | 03-16 13:35 | 0.0004/0.0006 | gc_SL |
+| ❌ CHANCE | -0.0002 | 03-16 12:46 | 1.1x | 03-16 13:04 | 0.0004/0.0006 | gc_SL |
+| ❌ Eric | -0.0002 | 03-16 09:50 | 1.1x | 03-16 09:51 | 0.0004/0.0006 | gc_SL |
+| ❌ AI | -0.0002 | 03-16 09:19 | 1.9x | 03-16 09:25 | 0.0004/0.0006 | gc_SL |
 
-### 🔴 Solana
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.84x | **Current:** 0.26x
-- **Mint:** `DmcLfX6HKvYedauGXztf7tKuWnqsyTiRY52vW4bvpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 15:42:33 | BUY | 0.000100 | `5iWLuJkGRuiG471cTgsEfX7Ty6EuK4...` |
-| 2026-03-16 23:18:26 | SELL | 0.000026 | `2TfEqW3NYWmKfsFWbJqb2Ude5Ddhvx...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 23:18 | Solana | SELL | 0.0000 | `2TfEqW3NYWmKfsFW...` |
+| 03-16 15:42 | Solana | BUY | 0.0001 | `5iWLuJkGRuiG471c...` |
+| 03-16 13:35 | SideEye | SELL | 0.0004 | `g91UuKjrWAaCY6k5...` |
+| 03-16 13:34 | SideEye | BUY | 0.0006 | `3Sbhg1XUsWDWbCM5...` |
+| 03-16 13:03 | CHANCE | SELL | 0.0004 | `2V1qHFJsjUFE8ugY...` |
+| 03-16 12:46 | CHANCE | BUY | 0.0006 | `4ZPQjhqCLnxG1TXC...` |
+| 03-16 09:51 | Eric | SELL | 0.0004 | `3mmgrqTGhRSnEk5q...` |
+| 03-16 09:50 | Eric | BUY | 0.0006 | `3UerNHjGaVsnbFXh...` |
+| 03-16 09:25 | AI | SELL | 0.0004 | `si8kQBk4tMXuRqia...` |
+| 03-16 09:19 | AI | BUY | 0.0006 | `57bAET36yXE8ezmm...` |
 
-### 🔴 SideEye
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.59x
-- **Mint:** `BS9AzbpDUKr2GGGnwb7rsMpMXXm7tnwqBb7LcFWcpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 13:34:23 | BUY | 0.000600 | `3Sbhg1XUsWDWbCM5TszMwEnXpFtKW4...` |
-| 2026-03-16 13:35:15 | SELL | 0.000352 | `g91UuKjrWAaCY6k5bSZvA9FMSwvGj5...` |
-
-### 🔴 CHANCE
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.06x | **Current:** 0.61x
-- **Mint:** `H4hWKbfDRMZKSYuALxbbKdBJrPyxPVuiEeHcQacRpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 12:46:30 | BUY | 0.000600 | `4ZPQjhqCLnxG1TXCmvQKZ9c2UtsKm4...` |
-| 2026-03-16 13:03:46 | SELL | 0.000367 | `2V1qHFJsjUFE8ugYKpvPdwv6oye98b...` |
-
-### 🔴 Eric
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.05x | **Current:** 0.68x
-- **Mint:** `Fi2pZUgx3dFBExQ1cT7ZFbZYuoG5FmXxfcbyFsfKpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 09:50:21 | BUY | 0.000600 | `3UerNHjGaVsnbFXhsrr2ThVdHfQSQp...` |
-| 2026-03-16 09:51:31 | SELL | 0.000410 | `3mmgrqTGhRSnEk5qt1FtMKtEyCZNiN...` |
-
-### 🔴 AI
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.85x | **Current:** 0.66x
-- **Mint:** `6U5MLDQVyf1qpUsD66Q59ayX8ZPg4ooyALezkNQUpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 09:19:50 | BUY | 0.000600 | `57bAET36yXE8ezmmxxn1eLdB4Nttz6...` |
-| 2026-03-16 09:25:09 | SELL | 0.000398 | `si8kQBk4tMXuRqiaGsE3oZB4qTXvUy...` |
-
+</details>

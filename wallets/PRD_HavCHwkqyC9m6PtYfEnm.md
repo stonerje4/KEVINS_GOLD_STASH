@@ -1,43 +1,20 @@
-# [PRD] Wallet: `HavCHwkqyC9m6PtYfEnm1daFNAjMM5QJVnHV6qGmoysk`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `HavCHwkqyC9m6PtY...`
+> 2026-03-17 11:26 UTC | **3** pos | **0W/3L** | P&L: **-0.150000 SOL** (-100.0%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 3 |
-| Open | 0 |
-| Closed | 3 |
-| W/L | 0/3 |
-| SOL In (closed) | 0.150000 |
-| **Closed P&L** | **-0.150000 SOL** |
-| **Closed ROI** | **-100.0%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ MESSI | -0.0500 | 03-09 13:35 | 1.0x | 03-09 14:20 | 0.0000/0.0500 | manual_sell |
+| ❌ TRUMPEPE | -0.0500 | 03-09 13:35 | 1.0x | 03-09 14:20 | 0.0000/0.0500 | manual_sell |
+| ❌ Pete | -0.0500 | 03-09 13:35 | 1.0x | 03-09 14:20 | 0.0000/0.0500 | manual_sell |
 
-### 🔴 MESSI
-- **Status:** closed | **Exit:** manual_sell
-- **Peak:** 1.03x | **Current:** 0.00x
-- **Mint:** `kk8CAWsCwXfSbgWARTsFJLsqmXKEuvQ6KcsfsVnpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 13:35:50 | BUY | 0.050000 | `3Aug5bvUyWRcsoD2TpZNQq5MWnj63m...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-09 13:35 | MESSI | BUY | 0.0500 | `3Aug5bvUyWRcsoD2...` |
+| 03-09 13:35 | TRUMPEPE | BUY | 0.0500 | `4QpQfaorbqx7Fd5w...` |
+| 03-09 13:35 | Pete | BUY | 0.0500 | `2bYHr7tHQ83uquHN...` |
 
-### 🔴 TRUMPEPE
-- **Status:** closed | **Exit:** manual_sell
-- **Peak:** 1.02x | **Current:** 0.00x
-- **Mint:** `EegXVoRCZh4BYFKWTSZdsRwDiyQDpnpWphmdt8VQpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 13:35:46 | BUY | 0.050000 | `4QpQfaorbqx7Fd5wc3oSi3ooikPJgM...` |
-
-### 🔴 Pete
-- **Status:** closed | **Exit:** manual_sell
-- **Peak:** 1.03x | **Current:** 0.00x
-- **Mint:** `2B3i6R4s8D6RQsBJBfgQkQYME2keYrV9y6u43Q9apump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 13:35:42 | BUY | 0.050000 | `2bYHr7tHQ83uquHNgYFVVCCRfRuet1...` |
-
+</details>

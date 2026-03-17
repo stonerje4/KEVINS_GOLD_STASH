@@ -1,28 +1,19 @@
-# [PRD] Wallet: `BZWzvFQrqbT5Tb1T4F73SWKhM5auiPMDo9agb456HLTC`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `BZWzvFQrqbT5Tb1T...`
+> 2026-03-17 11:26 UTC | **1** pos | **1W/0L** | P&L: **+0.101336 SOL** (+202.7%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.050000 |
-| **Closed P&L** | **+0.101336 SOL** |
-| **Closed ROI** | **+202.7%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ TrashDay | +0.1013 | 03-10 23:48 | 3.6x | 03-11 16:30 | 0.1513/0.0500 | trail |
 
-### 🟢 TrashDay
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 3.56x | **Current:** 0.00x
-- **Mint:** `KRKYaf6iDGaQL42Gu9R6AdSqV18dCmbapqFcrAkpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 23:48:52 | BUY | 0.050000 | `41hWuxWBbP8Bi1ceBtStTnWSTH6Lzw...` |
-| 2026-03-11 00:06:20 | SELL | 0.051327 | `5sGnaQARxY2pXiiSjrYHJwX2v29Bcq...` |
-| 2026-03-11 11:14:38 | SELL | 0.030486 | `5jVgUSbVn56xouG1yNFiuZB8NqNgZW...` |
-| 2026-03-11 16:30:30 | SELL | 0.069523 | `2c1iV3xbRurUTx1MGHsswmBpaUncsH...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-11 16:30 | TrashDay | SELL | 0.0695 | `2c1iV3xbRurUTx1M...` |
+| 03-11 11:14 | TrashDay | SELL | 0.0305 | `5jVgUSbVn56xouG1...` |
+| 03-11 00:06 | TrashDay | SELL | 0.0513 | `5sGnaQARxY2pXiiS...` |
+| 03-10 23:48 | TrashDay | BUY | 0.0500 | `41hWuxWBbP8Bi1ce...` |
 
+</details>

@@ -1,87 +1,43 @@
-# [PRD] Wallet: `EPGrHnQeBPtuCGiJ5qLWaDZDKEf2yKcMKEPCyf2jWTxi`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `EPGrHnQeBPtuCGiJ...`
+> 2026-03-17 11:26 UTC | **6** pos | **1W/5L** | P&L: **+0.663943 SOL** (+73.8%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 6 |
-| Open | 0 |
-| Closed | 6 |
-| W/L | 1/5 |
-| SOL In (closed) | 0.900000 |
-| **Closed P&L** | **+0.663943 SOL** |
-| **Closed ROI** | **+73.8%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ creacher | +0.0626 | 03-16 16:47 | 1.1x | 03-17 00:37 | 0.2126/0.1500 | stale |
+| ✅ TIM | +0.7502 | 03-16 01:43 | 2.4x | 03-16 05:13 | 0.9002/0.1500 | trail |
+| ✅ 마시멜 | +0.0174 | 03-15 19:07 | 1.1x | 03-15 19:18 | 0.1674/0.1500 | SL |
+| ❌ Droydstein | -0.0601 | 03-15 18:42 | 1.6x | 03-15 19:12 | 0.0899/0.1500 | SL |
+| ❌ UBT | -0.0602 | 03-15 17:53 | 1.2x | 03-15 18:06 | 0.0898/0.1500 | SL |
+| ❌ OPOSSUMBLE | -0.0460 | 03-15 15:04 | 1.6x | 03-15 20:43 | 0.1040/0.1500 | SL |
 
-### 🔴 creacher
-- **Status:** closed | **Exit:** stale_position_cleanup
-- **Peak:** 1.12x | **Current:** 0.00x
-- **Mint:** `E7dXBjFH8mv2atX4KQnvdNqwd9r25o9Q5QwzW12pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 16:43:14 | BUY | 0.150000 | `2CK44Emti28BD2KAvxkiKtnPfgWRkz...` |
-| 2026-03-16 16:46:57 | SELL | 0.051207 | `4L1KS7UCvoNE4KecANsrrV8vxNpenD...` |
-| 2026-03-16 16:47:03 | SELL | 0.051207 | `2xSyxMTA2yrNSc3Y5oDcrViGyuLH5E...` |
-| 2026-03-16 16:47:42 | BUY | 0.150000 | `2HZiaYkGns2jhfmhUMoXNyibJrr1uh...` |
-| 2026-03-17 00:37:16 | SELL | 0.110165 | `2mNGQkBHXh2bxfR6e6QxpRTQZ3fnyR...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 00:41 | TIM | SELL | 0.4312 | `3pfHPPXzVKcWhQ9r...` |
+| 03-17 00:37 | creacher | SELL | 0.1102 | `2mNGQkBHXh2bxfR6...` |
+| 03-16 23:33 | TIM | SELL | 0.0752 | `31DDQDV3Wxc1SLQS...` |
+| 03-16 22:41 | TIM | SELL | 0.0467 | `UATEYsdtwWZkCmyG...` |
+| 03-16 22:33 | TIM | SELL | 0.0305 | `hghH5qseP7yYkxdV...` |
+| 03-16 21:58 | TIM | BUY | 0.1500 | `zu1WGhpcpVqeU8hr...` |
+| 03-16 16:47 | creacher | BUY | 0.1500 | `2HZiaYkGns2jhfmh...` |
+| 03-16 16:47 | creacher | SELL | 0.0512 | `2xSyxMTA2yrNSc3Y...` |
+| 03-16 16:46 | creacher | SELL | 0.0512 | `4L1KS7UCvoNE4Kec...` |
+| 03-16 16:43 | creacher | BUY | 0.1500 | `2CK44Emti28BD2KA...` |
+| 03-16 05:13 | TIM | SELL | 0.2173 | `5k7fXY7vWQVQCQ3c...` |
+| 03-16 04:36 | TIM | SELL | 0.0994 | `jzUEm4KzoHqB6DMa...` |
+| 03-16 01:43 | TIM | BUY | 0.1500 | `XTfW7RdQfELwrzpi...` |
+| 03-15 20:43 | OPOSSUMBLE | SELL | 0.1040 | `5bzicYwzF6i5Rn8S...` |
+| 03-15 19:18 | 마시멜 | SELL | 0.0829 | `xq8sd2wV9k6hRmSp...` |
+| 03-15 19:12 | Droydstein | SELL | 0.0899 | `3AwCBCteRjvJjpow...` |
+| 03-15 19:07 | 마시멜 | BUY | 0.1500 | `q7WTYhxZURfkdf5g...` |
+| 03-15 19:07 | 마시멜 | SELL | 0.0845 | `29f5LFvo21CFpxKQ...` |
+| 03-15 19:03 | 마시멜 | BUY | 0.1500 | `4t88WJK4jRamn69b...` |
+| 03-15 18:42 | Droydstein | BUY | 0.1500 | `5DWhi1jF61JfsrQy...` |
+| 03-15 18:06 | UBT | SELL | 0.0898 | `dhqss26puTQfXRFB...` |
+| 03-15 17:53 | UBT | BUY | 0.1500 | `3W6Qu61DBm8ZZusi...` |
+| 03-15 15:04 | OPOSSUMBLE | BUY | 0.1500 | `55TSJfAtFZtkgxfo...` |
 
-### 🟢 TIM
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 2.45x | **Current:** 0.00x
-- **Mint:** `GfDfRvhGbvCHrnuUbXB7z6RXosgZzTGCyP59Yvddpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 01:43:59 | BUY | 0.150000 | `XTfW7RdQfELwrzpi4A33XfiziPyDEr...` |
-| 2026-03-16 04:36:41 | SELL | 0.099406 | `jzUEm4KzoHqB6DMa5eGhgQLnZUhQiW...` |
-| 2026-03-16 05:13:49 | SELL | 0.217287 | `5k7fXY7vWQVQCQ3cTAd2GPADtDHUEt...` |
-| 2026-03-16 21:58:51 | BUY | 0.150000 | `zu1WGhpcpVqeU8hrCcs7ArWEE6QYGN...` |
-| 2026-03-16 22:33:13 | SELL | 0.030490 | `hghH5qseP7yYkxdVP3qVu7ATazFcKC...` |
-| 2026-03-16 22:41:38 | SELL | 0.046669 | `UATEYsdtwWZkCmyGk1FrBGcfEUzEAk...` |
-| 2026-03-16 23:33:30 | SELL | 0.075175 | `31DDQDV3Wxc1SLQScBvofWa4zgZkFe...` |
-| 2026-03-17 00:41:49 | SELL | 0.431188 | `3pfHPPXzVKcWhQ9rh2QByjhUXfEpfs...` |
-
-### 🔴 마시멜
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.14x | **Current:** 0.00x
-- **Mint:** `GPq4tPnoRWr7JXiPCpbCQX2bYFxkEVRxHnfY1EEBpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 19:03:57 | BUY | 0.150000 | `4t88WJK4jRamn69bSDH198KVP4BRPi...` |
-| 2026-03-15 19:07:16 | SELL | 0.084471 | `29f5LFvo21CFpxKQ2GU7u89zFFFW1m...` |
-| 2026-03-15 19:07:43 | BUY | 0.150000 | `q7WTYhxZURfkdf5gJA7h6AmK65ggMg...` |
-| 2026-03-15 19:18:29 | SELL | 0.082930 | `xq8sd2wV9k6hRmSpFbav4rKyzvYDZM...` |
-
-### 🔴 Droydstein
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.59x | **Current:** 0.00x
-- **Mint:** `48o7XsqTHoJsnpDUpaWHdVxqUg8etHWjgrUMxKHspump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 18:42:45 | BUY | 0.150000 | `5DWhi1jF61JfsrQyRbkD9wWCSF17u5...` |
-| 2026-03-15 19:12:11 | SELL | 0.089884 | `3AwCBCteRjvJjpowPzdPSdiKpBjDVh...` |
-
-### 🔴 UBT
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.21x | **Current:** 0.00x
-- **Mint:** `9NEXFUZeYXWH5V6b5rGXyMDVPzcmeFpSoBisNhu8pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 17:53:04 | BUY | 0.150000 | `3W6Qu61DBm8ZZusif5qHjrxPgk3bR6...` |
-| 2026-03-15 18:06:05 | SELL | 0.089835 | `dhqss26puTQfXRFBBrPLqC8jPugEM9...` |
-
-### 🔴 OPOSSUMBLE
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.61x | **Current:** 0.00x
-- **Mint:** `Heuj2Mein9TBJ5vb5rVB6CCGiZ4YQW2esrwCfoBzpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 15:04:51 | BUY | 0.150000 | `55TSJfAtFZtkgxfomoFxsPWq1418tJ...` |
-| 2026-03-15 20:43:54 | SELL | 0.104030 | `5bzicYwzF6i5Rn8SPuDex6zKJtpuVc...` |
-
+</details>

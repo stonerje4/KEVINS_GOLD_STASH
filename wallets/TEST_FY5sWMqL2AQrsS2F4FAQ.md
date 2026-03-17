@@ -1,26 +1,17 @@
-# [TEST] Wallet: `FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `FY5sWMqL2AQrsS2F...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.000230 SOL** (-38.3%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000600 |
-| **Closed P&L** | **-0.000230 SOL** |
-| **Closed ROI** | **-38.3%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Metacoin | -0.0002 | 03-16 10:19 | 1.0x | 03-16 10:25 | 0.0004/0.0006 | gc_SL |
 
-### 🔴 Metacoin
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.03x | **Current:** 0.69x
-- **Mint:** `98xKEW8erCvy1yBrNr6poCWbw6gbZo3APeJYEiCVpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 10:19:40 | BUY | 0.000600 | `kukdBuKMn5KJZx91dkucS2zsjVa5xS...` |
-| 2026-03-16 10:24:32 | SELL | 0.000370 | `5kVLgm8YTYbYHe29qMuf9TiY4Vhasu...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 10:24 | Metacoin | SELL | 0.0004 | `5kVLgm8YTYbYHe29...` |
+| 03-16 10:19 | Metacoin | BUY | 0.0006 | `kukdBuKMn5KJZx91...` |
 
+</details>

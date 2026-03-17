@@ -1,56 +1,26 @@
-# [PRD] Wallet: `ESxHJpMqsjVpg5mqk2twf8ak2NuAfQXbLxGWxaVcNXPd`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `ESxHJpMqsjVpg5mq...`
+> 2026-03-17 11:26 UTC | **4** pos | **0W/4L** | P&L: **-0.157032 SOL** (-78.5%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 4 |
-| Open | 0 |
-| Closed | 4 |
-| W/L | 0/4 |
-| SOL In (closed) | 0.200000 |
-| **Closed P&L** | **-0.157032 SOL** |
-| **Closed ROI** | **-78.5%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ USDPT | -0.0450 | 03-10 14:18 | 1.2x | 03-10 17:37 | 0.0050/0.0500 | gc_zero_balance |
+| ❌ SOIL | -0.0220 | 03-10 14:13 | 1.3x | 03-11 00:40 | 0.0280/0.0500 | SL |
+| ❌ MISSLE | -0.0450 | 03-10 14:09 | 1.1x | 03-10 15:56 | 0.0050/0.0500 | gc_zero_balance |
+| ❌ UXR | -0.0450 | 03-10 14:05 | 3.0x | 03-10 14:49 | 0.0050/0.0500 | gc_zero_balance |
 
-### 🔴 USDPT
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.24x | **Current:** 0.00x
-- **Mint:** `3e4Ju4PtWZtr2dFhrwmu2KYS3jvEka3K1eX88wZRpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 14:18:59 | BUY | 0.050000 | `4AQipUcyiBD8YiADS337eXmu4JA88S...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 19:13 | MISSLE | SELL | 0.0050 | `?` |
+| 03-16 19:13 | UXR | SELL | 0.0050 | `?` |
+| 03-16 19:13 | USDPT | SELL | 0.0050 | `?` |
+| 03-11 00:40 | SOIL | SELL | 0.0280 | `4cKUL5fsgJDq7wjA...` |
+| 03-10 14:18 | USDPT | BUY | 0.0500 | `4AQipUcyiBD8YiAD...` |
+| 03-10 14:13 | SOIL | BUY | 0.0500 | `4KxmYhWHevDjabFW...` |
+| 03-10 14:09 | MISSLE | BUY | 0.0500 | `TnDmt7AtpZDbMX9K...` |
+| 03-10 14:05 | UXR | BUY | 0.0500 | `4ZGUGb3tAfD8XkUD...` |
 
-### 🔴 SOIL
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.25x | **Current:** 0.00x
-- **Mint:** `8FGi6CcN4mjuxsBJ83FFUbxQqmSGir8Yt1EbFpNkpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 14:13:21 | BUY | 0.050000 | `4KxmYhWHevDjabFW1FateRCYsjsVAY...` |
-| 2026-03-11 00:40:12 | SELL | 0.027968 | `4cKUL5fsgJDq7wjAkCiTo5Rv1JZMxd...` |
-
-### 🔴 MISSLE
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.09x | **Current:** 0.00x
-- **Mint:** `3eDMajBwb3bF54RDshgR6bdU99AxroYCCTnHqDqnpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 14:09:13 | BUY | 0.050000 | `TnDmt7AtpZDbMX9KqEJTm1cDMwqQhS...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
-
-### 🔴 UXR
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 2.96x | **Current:** 0.00x
-- **Mint:** `9ptBd6bT9n46HV68ngxPq4KKiWUqtSwAJWMFor9Cmoon`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 14:05:49 | BUY | 0.050000 | `4ZGUGb3tAfD8XkUDPFEu3s9HAopYRh...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
-
+</details>

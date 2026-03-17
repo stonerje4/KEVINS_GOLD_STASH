@@ -1,26 +1,17 @@
-# [PRD] Wallet: `4Be9CvxqHW6BYiRAxW9Q3xu1ycTMWaL5z8NX4HR3ha7t`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `4Be9CvxqHW6BYiRA...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.045000 SOL** (-90.0%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.050000 |
-| **Closed P&L** | **-0.045000 SOL** |
-| **Closed ROI** | **-90.0%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ BET | -0.0450 | 03-10 15:19 | 1.0x | 03-10 17:37 | 0.0050/0.0500 | gc_zero_balance |
 
-### 🔴 BET
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.04x | **Current:** 0.00x
-- **Mint:** `H4hioLVHLuG4YLYrc7xzqNQe5JhsjKrv5rEFfbbRpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-10 15:19:53 | BUY | 0.050000 | `676f49Dc4jEZbMRg66KvFDBcs2WnJv...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 19:13 | BET | SELL | 0.0050 | `?` |
+| 03-10 15:19 | BET | BUY | 0.0500 | `676f49Dc4jEZbMRg...` |
 
+</details>

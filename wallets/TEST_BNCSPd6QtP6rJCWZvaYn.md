@@ -1,79 +1,40 @@
-# [TEST] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `BNCSPd6QtP6rJCWZ...`
+> 2026-03-17 11:26 UTC | **6** pos | **2W/2L** | P&L: **+0.001041 SOL** (+54.8%) | 2 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 6 |
-| Open | 2 |
-| Closed | 4 |
-| W/L | 2/2 |
-| SOL In (closed) | 0.001900 |
-| **Closed P&L** | **+0.001041 SOL** |
-| **Closed ROI** | **+54.8%** |
-| Open Deployed | 0.000700 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BRACKET | 03-17 01:51 | 0.82x | 1.44x | 9.6h | 0.0001 |
+| STEAK | 03-16 02:59 | 0.49x | 1.03x | 1.4d | 0.0006 |
 
-### 🟢 BRACKET
-- **Status:** open | **Exit:** open
-- **Peak:** 1.44x | **Current:** 0.82x
-- **Mint:** `DENiaWdNvd3qNjs4zaub5JyTmiw5uYuHPbBdJzwUpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:51:28 | BUY | 0.000100 | `3nE1A7sVZccMEUsYeuHbcmiGG7Cjzo...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Feels | -0.0001 | 03-16 17:06 | 1.1x | 03-17 03:17 | 0.0000/0.0001 | SL |
+| ❌ TWINKLE | -0.0002 | 03-15 23:00 | 1.5x | 03-16 00:53 | 0.0004/0.0006 | gc_SL |
+| ✅ Baldi | +0.0006 | 03-15 22:45 | 3.9x | 03-16 00:29 | 0.0012/0.0006 | gc_trail |
+| ✅ Parliament | +0.0007 | 03-15 22:10 | 3.3x | 03-16 00:43 | 0.0013/0.0006 | gc_trail |
 
-### 🔴 Feels
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.05x | **Current:** 0.23x
-- **Mint:** `GtswqeVZbSBLU6ZZfgc1zcMk6fVBSCV8RLcgR2v5pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:06:27 | BUY | 0.000100 | `316Pqr4XTY79seFadU6Arx69GWzVwH...` |
-| 2026-03-17 03:17:57 | SELL | 0.000023 | `5u3P6HYQqDn2rm6vPTL2RKCzRHtFkL...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 09:54 | STEAK | SELL | 0.0000 | `4QsLEMf8angWX9yP...` |
+| 03-17 08:53 | STEAK | SELL | 0.0001 | `42kajETS2aGydg1G...` |
+| 03-17 07:52 | STEAK | SELL | 0.0001 | `2c2btYShVpemncX2...` |
+| 03-17 03:17 | Feels | SELL | 0.0000 | `5u3P6HYQqDn2rm6v...` |
+| 03-17 01:51 | BRACKET | BUY | 0.0001 | `3nE1A7sVZccMEUsY...` |
+| 03-16 17:06 | Feels | BUY | 0.0001 | `316Pqr4XTY79seFa...` |
+| 03-16 02:59 | STEAK | BUY | 0.0006 | `vf7YgkFmkhStd9Xc...` |
+| 03-16 00:52 | TWINKLE | SELL | 0.0004 | `5C68SXFNLFMP78gg...` |
+| 03-16 00:43 | Parliament | SELL | 0.0010 | `mU1iDkSeFprMSbFb...` |
+| 03-16 00:36 | Parliament | SELL | 0.0004 | `2pCozxGDS5fUpZth...` |
+| 03-16 00:29 | Baldi | SELL | 0.0008 | `3fWLsbHiurP5Ubdf...` |
+| 03-15 23:02 | Baldi | SELL | 0.0004 | `4pyP8Nd5SvHcENjh...` |
+| 03-15 23:00 | TWINKLE | BUY | 0.0006 | `3WHc4vMS8vVdEWcL...` |
+| 03-15 22:45 | Baldi | BUY | 0.0006 | `XVxUrLKDwBX8Vjag...` |
+| 03-15 22:10 | Parliament | BUY | 0.0006 | `4nfctkScPRJHTrfr...` |
 
-### 🟢 STEAK
-- **Status:** partial | **Exit:** stale_cleanup
-- **Peak:** 1.03x | **Current:** 0.49x
-- **Mint:** `4RZz3rUcfXJjZgwycNUJUDcfTKSFNErXdBwzpLwEpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 02:59:02 | BUY | 0.000600 | `vf7YgkFmkhStd9Xc3qhCWpRwmM5YWS...` |
-| 2026-03-17 07:52:33 | SELL | 0.000050 | `2c2btYShVpemncX231QuaSpv2YGQVK...` |
-| 2026-03-17 08:53:41 | SELL | 0.000050 | `42kajETS2aGydg1GSKY4HFe9MaRaaj...` |
-| 2026-03-17 09:54:48 | SELL | 0.000049 | `4QsLEMf8angWX9yPHYJReELJT6ALXn...` |
-
-### 🔴 TWINKLE
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.53x | **Current:** 0.65x
-- **Mint:** `AJa11Um6nQBBtRULwbW7TGxaXNDs3LuimcE9eLAypump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 23:00:39 | BUY | 0.000600 | `3WHc4vMS8vVdEWcLuU9dnVXskn9jtj...` |
-| 2026-03-16 00:52:52 | SELL | 0.000390 | `5C68SXFNLFMP78ggYNQeqRJV631wZP...` |
-
-### 🟢 Baldi
-- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
-- **Peak:** 3.93x | **Current:** 1.95x
-- **Mint:** `GopbzNuDFZnaNMYnzuYSbLc6mKMnLyFQ346sPzq3pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 22:45:42 | BUY | 0.000600 | `XVxUrLKDwBX8VjagKpVVrEGofMwd8U...` |
-| 2026-03-15 23:02:53 | SELL | 0.000364 | `4pyP8Nd5SvHcENjhiZyV3YXPzsNewQ...` |
-| 2026-03-16 00:29:08 | SELL | 0.000819 | `3fWLsbHiurP5UbdfCwQCj8uHuvsZgH...` |
-
-### 🟢 Parliament
-- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
-- **Peak:** 3.27x | **Current:** 2.38x
-- **Mint:** `EuB16g7D9z45htKh12WwQ8p75DiT82C4eQNsswn5qG2M`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 22:10:15 | BUY | 0.000600 | `4nfctkScPRJHTrfrPnnC3E27fDrPBk...` |
-| 2026-03-16 00:36:25 | SELL | 0.000362 | `2pCozxGDS5fUpZthbm137QFgpyfpg8...` |
-| 2026-03-16 00:43:44 | SELL | 0.000983 | `mU1iDkSeFprMSbFbA8ne7ue5egeyCr...` |
-
+</details>

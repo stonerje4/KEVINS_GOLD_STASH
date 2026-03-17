@@ -1,182 +1,73 @@
-# [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `6raSuhfig5Y1vZJx...`
+> 2026-03-17 11:26 UTC | **16** pos | **2W/5L** | P&L: **+0.001724 SOL** (+143.7%) | 9 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 16 |
-| Open | 9 |
-| Closed | 7 |
-| W/L | 2/5 |
-| SOL In (closed) | 0.001200 |
-| **Closed P&L** | **+0.001724 SOL** |
-| **Closed ROI** | **+143.7%** |
-| Open Deployed | 0.001400 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| NOVA | 03-17 08:00 | 0.94x | 1.07x | 3.4h | 0.0001 |
+| NEMOCLAW | 03-17 02:55 | 0.80x | 1.00x | 8.5h | 0.0001 |
+| patrick  | 03-17 01:55 | 0.45x | 1.16x | 9.5h | 0.0001 |
+| BigT | 03-17 01:27 | 0.97x | 2.06x | 10.0h | 0.0001 |
+| POLYHUNT | 03-17 00:39 | 0.95x | 1.28x | 10.8h | 0.0001 |
+| BOTTLE | 03-16 17:40 | 0.95x | 1.08x | 17.8h | 0.0001 |
+| GAUNTLET | 03-16 16:50 | 0.51x | 1.30x | 18.6h | 0.0001 |
+| 2024 | 03-16 16:30 | 3.17x | 3.25x | 18.9h | 0.0001 |
+| SUBARU | 03-16 14:14 | 0.57x | 1.63x | 21.2h | 0.0006 |
 
-### 🟢 NOVA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.94x
-- **Mint:** `4PbaN57B9ggth6yDEzZBhXKLqiDfiCKeD4NY6j9sjTJ8`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 08:00:32 | BUY | 0.000100 | `4DfHxhHQp99YNSxz9svvVLiX9bnfM9...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ BITCOIN | -0.0001 | 03-17 04:03 | 1.3x | 03-17 04:20 | 0.0000/0.0001 | SL |
+| ❌ BULKING | -0.0001 | 03-17 03:27 | 1.0x | 03-17 03:28 | 0.0000/0.0001 | SL |
+| ✅ Gany | +0.0020 | 03-17 02:40 | 63.5x | 03-17 04:17 | 0.0021/0.0001 | trail |
+| ❌ TRADES | -0.0001 | 03-16 16:24 | 1.4x | 03-16 17:04 | 0.0000/0.0001 | SL |
+| ❌ SWE-agent | -0.0001 | 03-16 16:02 | 1.0x | 03-16 16:12 | 0.0000/0.0001 | gc_SL |
+| ✅ PokeAgent | +0.0002 | 03-16 15:07 | 5.9x | 03-16 15:27 | 0.0003/0.0001 | gc_trail |
+| ❌ KeyA | -0.0002 | 03-16 13:19 | 1.3x | 03-16 13:52 | 0.0004/0.0006 | gc_SL |
 
-### 🔴 BITCOIN
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.26x | **Current:** 0.38x
-- **Mint:** `6cApU1MpjzHfF5E52yVTovHjzQWse3726r7f8E1mpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 04:03:03 | BUY | 0.000100 | `3tEiysVipHaYPd7X5DC2hEze6ETfSi...` |
-| 2026-03-17 04:20:25 | SELL | 0.000038 | `2rmN365tnQQ8j7Lao5bb6W3nRqhj1a...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 08:00 | NOVA | BUY | 0.0001 | `4DfHxhHQp99YNSxz...` |
+| 03-17 04:20 | BITCOIN | SELL | 0.0000 | `2rmN365tnQQ8j7La...` |
+| 03-17 04:17 | Gany | SELL | 0.0011 | `38xVf7cDnrSvstH8...` |
+| 03-17 04:03 | BITCOIN | BUY | 0.0001 | `3tEiysVipHaYPd7X...` |
+| 03-17 03:28 | BULKING | SELL | 0.0000 | `4a7e9L1yGwYctbH2...` |
+| 03-17 03:27 | BULKING | BUY | 0.0001 | `4uLSjozxN8ifK1rh...` |
+| 03-17 03:17 | Gany | SELL | 0.0003 | `uu4JfH2r5vk3bEbF...` |
+| 03-17 03:13 | Gany | SELL | 0.0002 | `345x3pNKVA6Xt3UJ...` |
+| 03-17 03:02 | BigT | SELL | 0.0000 | `4WUnxo9VTBPNxnqk...` |
+| 03-17 02:59 | Gany | SELL | 0.0002 | `3hVLSwzAC9oY2vKm...` |
+| 03-17 02:55 | NEMOCLAW | BUY | 0.0001 | `3jKnhpYmMHMzNs1J...` |
+| 03-17 02:54 | Gany | SELL | 0.0001 | `5zpvsikDiXAFkqfX...` |
+| 03-17 02:48 | Gany | SELL | 0.0001 | `2K87S9wCWinob5d7...` |
+| 03-17 02:47 | Gany | SELL | 0.0001 | `JgcfcrRAPtq58jJZ...` |
+| 03-17 02:46 | Gany | SELL | 0.0001 | `3t1G33KFqybbCGDo...` |
+| 03-17 02:45 | Gany | SELL | 0.0000 | `4w3mfAGd8uy34B8G...` |
+| 03-17 02:45 | Gany | SELL | 0.0000 | `5uz4yV9nAvj294pn...` |
+| 03-17 02:40 | Gany | BUY | 0.0001 | `25ukZACYYKwmLE5n...` |
+| 03-17 01:55 | patrick  | BUY | 0.0001 | `5wWgNqgsbQpQdFks...` |
+| 03-17 01:27 | BigT | BUY | 0.0001 | `43f77BDprET9fZyZ...` |
+| 03-17 01:05 | 2024 | SELL | 0.0000 | `3XHE5rHaei8wyZrJ...` |
+| 03-17 00:39 | POLYHUNT | BUY | 0.0001 | `fMRFW65d198vVU6D...` |
+| 03-16 23:18 | 2024 | SELL | 0.0000 | `3gLcEsMeaN5msY7R...` |
+| 03-16 17:40 | BOTTLE | BUY | 0.0001 | `rvmTGVrRmgxzwiAq...` |
+| 03-16 17:04 | TRADES | SELL | 0.0000 | `sA24yZcYQ4Rzh4AC...` |
+| 03-16 16:50 | GAUNTLET | BUY | 0.0001 | `51YhkEwt3XR9pAzK...` |
+| 03-16 16:30 | 2024 | BUY | 0.0001 | `3CdoEL2Yquh486Wk...` |
+| 03-16 16:24 | TRADES | BUY | 0.0001 | `4Y9ixvU1BonBU6jM...` |
+| 03-16 16:11 | SWE-agent | SELL | 0.0000 | `2tijGR945wgxFAQa...` |
+| 03-16 16:02 | SWE-agent | BUY | 0.0001 | `5oAGp8QEafteZ5JZ...` |
+| 03-16 15:27 | PokeAgent | SELL | 0.0002 | `5GBSSXPsCY8crj61...` |
+| 03-16 15:25 | PokeAgent | SELL | 0.0000 | `5YdT6wk9MfPvjgRJ...` |
+| 03-16 15:13 | PokeAgent | SELL | 0.0000 | `3pEkEJZjCR6sWwsJ...` |
+| 03-16 15:11 | PokeAgent | SELL | 0.0000 | `sLm8PeuNEp5fmBd2...` |
+| 03-16 15:07 | PokeAgent | BUY | 0.0001 | `4paQ29BKxvByYibo...` |
+| 03-16 14:14 | SUBARU | BUY | 0.0006 | `5iUBLt8rh5yjiq7P...` |
+| 03-16 13:52 | KeyA | SELL | 0.0004 | `5k8qvNwpasHuafeL...` |
+| 03-16 13:19 | KeyA | BUY | 0.0006 | `37jK851EPMn67AUa...` |
 
-### 🔴 BULKING
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.33x
-- **Mint:** `B3CBaRyiXMzovkMPABeF5k6tvHv8VfBF7RY1vqtwpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:27:22 | BUY | 0.000100 | `4uLSjozxN8ifK1rh3SKv8fWi4u8Egj...` |
-| 2026-03-17 03:28:21 | SELL | 0.000033 | `4a7e9L1yGwYctbH2R9pd9Eq5hAEmqj...` |
-
-### 🟢 NEMOCLAW
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
-- **Mint:** `8AVbpsXyQy4fPExCq3FydnDfxfmGytvs3W7n1SVapump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:55:12 | BUY | 0.000100 | `3jKnhpYmMHMzNs1JVpGVzC7zEDeo2H...` |
-
-### 🟢 Gany
-- **Status:** closed | **Exit:** runner_trailing_stop
-- **Peak:** 63.45x | **Current:** 29.45x
-- **Mint:** `BgtczEGgf9mZMcGBLi4J5Pn8PtmFy6Xz5uBKkMfspump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:40:33 | BUY | 0.000100 | `25ukZACYYKwmLE5nmcMq1Z3qhLN9gM...` |
-| 2026-03-17 02:45:05 | SELL | 0.000032 | `5uz4yV9nAvj294pnsj8hGwBPdJk9QS...` |
-| 2026-03-17 02:45:43 | SELL | 0.000041 | `4w3mfAGd8uy34B8Gp4fmB611adACGE...` |
-| 2026-03-17 02:46:25 | SELL | 0.000051 | `3t1G33KFqybbCGDosLyM9eEvGi8hCa...` |
-| 2026-03-17 02:47:03 | SELL | 0.000061 | `JgcfcrRAPtq58jJZW3Ko1xU3SSDsfb...` |
-| 2026-03-17 02:48:23 | SELL | 0.000068 | `2K87S9wCWinob5d7uziSBV54Ugfdq8...` |
-| 2026-03-17 02:54:28 | SELL | 0.000099 | `5zpvsikDiXAFkqfXRz7nnEsBkAEnFb...` |
-| 2026-03-17 02:59:11 | SELL | 0.000206 | `3hVLSwzAC9oY2vKmphFcYG6hUtR1EU...` |
-| 2026-03-17 03:13:41 | SELL | 0.000205 | `345x3pNKVA6Xt3UJzEPXhew3pbBxpT...` |
-| 2026-03-17 03:17:20 | SELL | 0.000258 | `uu4JfH2r5vk3bEbF1stv4SuzjZnqWb...` |
-| 2026-03-17 04:17:13 | SELL | 0.001095 | `38xVf7cDnrSvstH8LwMak3kNmd9t2Z...` |
-
-### 🟢 patrick 
-- **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.45x
-- **Mint:** `CGJBLh4y224Xzzj16UcgkwNBVJjKFQRAqpaXc4tfpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:55:34 | BUY | 0.000100 | `5wWgNqgsbQpQdFks5L9bSyKQiwHfm7...` |
-
-### 🟢 BigT
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.06x | **Current:** 0.97x
-- **Mint:** `353eyoAqJRHqikST5GAYzhgchDU2TTk2mjPNNbSLpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:27:01 | BUY | 0.000100 | `43f77BDprET9fZyZ8Uv6FmiHt1uLCd...` |
-| 2026-03-17 03:02:37 | SELL | 0.000021 | `4WUnxo9VTBPNxnqkPFTjvvddXs6C5Y...` |
-
-### 🟢 POLYHUNT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.02x
-- **Mint:** `3DcFuBtMgMJftX6djdQn4A6bG3hAPPbFMNr5zPs4pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 00:39:30 | BUY | 0.000100 | `fMRFW65d198vVU6DszXbhb1JZyvZsz...` |
-
-### 🟢 BOTTLE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.95x
-- **Mint:** `2YMRR1vkcys54CqGeWyFCp1vKjNA82m1YDwNLz4Fpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:40:33 | BUY | 0.000100 | `rvmTGVrRmgxzwiAq7XpXsGLnV2Xz7i...` |
-
-### 🟢 GAUNTLET
-- **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.51x
-- **Mint:** `88na6xm5jHSTsNSDbPWVSK8zyuc4hHnnLNEHVmm2pump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 16:50:46 | BUY | 0.000100 | `51YhkEwt3XR9pAzKZfazSbshzVeLE3...` |
-
-### 🟢 2024
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.25x | **Current:** 3.17x
-- **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 16:30:07 | BUY | 0.000100 | `3CdoEL2Yquh486WkFMDiKioiL7DsH2...` |
-| 2026-03-16 23:18:34 | SELL | 0.000029 | `3gLcEsMeaN5msY7RCScXa7ezxJmqyV...` |
-| 2026-03-17 01:05:46 | SELL | 0.000028 | `3XHE5rHaei8wyZrJdScbhr2zX84B1K...` |
-
-### 🔴 TRADES
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.45x | **Current:** 0.39x
-- **Mint:** `DPC15FkyULBUTNxQZfaNr42FCQsABteGUAovzGCYpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 16:24:58 | BUY | 0.000100 | `4Y9ixvU1BonBU6jM4DK42raHbk72Pi...` |
-| 2026-03-16 17:04:42 | SELL | 0.000039 | `sA24yZcYQ4Rzh4ACdsvBLN2NVkhoUi...` |
-
-### 🔴 SWE-agent
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.05x | **Current:** 0.36x
-- **Mint:** `GkktngyeUNQeC5V1yWSTxoE8GFDj9h7GMm2D2jhPpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 16:02:13 | BUY | 0.000100 | `5oAGp8QEafteZ5JZic7wB8iCGFtaMN...` |
-| 2026-03-16 16:11:37 | SELL | 0.000036 | `2tijGR945wgxFAQauq2w6epRZPSNHD...` |
-
-### 🟢 PokeAgent
-- **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
-- **Peak:** 5.87x | **Current:** 2.18x
-- **Mint:** `3DWpHtjf5o82Y89jiaBqyCHqhh6aKagW8Zn5CuUJpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 15:07:52 | BUY | 0.000100 | `4paQ29BKxvByYiboTBRoUeDqq7qgMK...` |
-| 2026-03-16 15:11:43 | SELL | 0.000021 | `sLm8PeuNEp5fmBd2sdezKKzBY2hgB4...` |
-| 2026-03-16 15:13:29 | SELL | 0.000029 | `3pEkEJZjCR6sWwsJfAnU8ThDLQxAcg...` |
-| 2026-03-16 15:25:35 | SELL | 0.000042 | `5YdT6wk9MfPvjgRJGXNM1py96t3tX9...` |
-| 2026-03-16 15:27:00 | SELL | 0.000159 | `5GBSSXPsCY8crj61jvzjwjmePrDUKb...` |
-
-### 🟢 SUBARU
-- **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 0.57x
-- **Mint:** `DExfxh9JyvpP8WH2xCMGcVC3KBCK29CpVMYEEhrvpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 14:14:56 | BUY | 0.000600 | `5iUBLt8rh5yjiq7Pm5ZpJ4CCnJfMbv...` |
-
-### 🔴 KeyA
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.27x | **Current:** 0.68x
-- **Mint:** `GZz7innEoGX6adu4sdQjT6SCmV3fihrPnEVEWCkHpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 13:19:20 | BUY | 0.000600 | `37jK851EPMn67AUaC35rQHax3G6nxJ...` |
-| 2026-03-16 13:52:10 | SELL | 0.000410 | `5k8qvNwpasHuafeLUXvGkWJAzoHxPX...` |
-
+</details>

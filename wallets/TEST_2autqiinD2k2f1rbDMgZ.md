@@ -1,37 +1,21 @@
-# [TEST] Wallet: `2autqiinD2k2f1rbDMgZh5fJMrVdnTdB5vWc3Wa7PDZp`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `2autqiinD2k2f1rb...`
+> 2026-03-17 11:26 UTC | **2** pos | **0W/2L** | P&L: **-0.000247 SOL** (-35.2%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.000700 |
-| **Closed P&L** | **-0.000247 SOL** |
-| **Closed ROI** | **-35.2%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ PUMPBAG | -0.0001 | 03-16 17:35 | 1.3x | 03-16 17:50 | 0.0000/0.0001 | gc_SL |
+| ❌ まじイヌ | -0.0002 | 03-16 12:44 | 1.2x | 03-16 13:26 | 0.0004/0.0006 | gc_SL |
 
-### 🔴 PUMPBAG
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.30x | **Current:** 0.39x
-- **Mint:** `4fhcEAjV2tW2fepERb8A6YnEk4mDLFNLDFGoyH8vpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 17:30:14 | BUY | 0.000100 | `?` |
-| 2026-03-16 17:35:51 | BUY | 0.000100 | `5eSynm2HKc56s1FCTREY6mKMUEvJ3f...` |
-| 2026-03-16 17:50:20 | SELL | 0.000039 | `2a5tpHQSJivsUyyv2k2eHzMp35LBEM...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 17:50 | PUMPBAG | SELL | 0.0000 | `2a5tpHQSJivsUyyv...` |
+| 03-16 17:35 | PUMPBAG | BUY | 0.0001 | `5eSynm2HKc56s1FC...` |
+| 03-16 17:30 | PUMPBAG | BUY | 0.0001 | `?` |
+| 03-16 13:25 | まじイヌ | SELL | 0.0004 | `3adFxmiXofCeiPJM...` |
+| 03-16 12:44 | まじイヌ | BUY | 0.0006 | `5orsx4Wbseb5gxT6...` |
 
-### 🔴 まじイヌ
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.24x | **Current:** 0.69x
-- **Mint:** `8usvBU3P4DjzQWjiHKkUzk3UhSbNNJK4VuQ2Cqytpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 12:44:21 | BUY | 0.000600 | `5orsx4Wbseb5gxT6w8sLRgjjY9dr9d...` |
-| 2026-03-16 13:25:40 | SELL | 0.000415 | `3adFxmiXofCeiPJM81GUCBDexdtDeb...` |
-
+</details>

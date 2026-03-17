@@ -1,45 +1,22 @@
-# [TEST] Wallet: `45J68KxLV4izQXbY64gJr8YP4jfxGSvHFQwoDfBGxFg9`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `45J68KxLV4izQXbY...`
+> 2026-03-17 11:26 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 3 |
-| Open | 3 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000300 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| HAIKUU | 03-17 03:32 | 1.82x | 3.32x | 7.9h | 0.0001 |
+| SHOWMORE | 03-17 01:27 | 1.01x | 1.03x | 10.0h | 0.0001 |
+| NEURIX | 03-17 01:02 | 1.33x | 1.67x | 10.4h | 0.0001 |
 
-### 🟢 HAIKUU
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.32x | **Current:** 1.82x
-- **Mint:** `6TVFJ2HrZ9h9y9q362R91MffJxmrXPbrDLSDFbF3pump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:32:32 | BUY | 0.000100 | `rdQzmATimnhXUnxYRpHAD3swacs9jV...` |
-| 2026-03-17 07:02:00 | SELL | 0.000020 | `3VDHWUcuLw3u7555RtTVncS4wAjLR7...` |
-| 2026-03-17 08:14:32 | SELL | 0.000027 | `JJKv9QBxXR3HpkytrULCf1R2zmbf8y...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 08:14 | HAIKUU | SELL | 0.0000 | `JJKv9QBxXR3Hpkyt...` |
+| 03-17 07:02 | HAIKUU | SELL | 0.0000 | `3VDHWUcuLw3u7555...` |
+| 03-17 03:32 | HAIKUU | BUY | 0.0001 | `rdQzmATimnhXUnxY...` |
+| 03-17 01:27 | SHOWMORE | BUY | 0.0001 | `2c9MkvgdBZ4e9MB8...` |
+| 03-17 01:02 | NEURIX | BUY | 0.0001 | `2am7MvuQ6dKoNE6D...` |
 
-### 🟢 SHOWMORE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.01x
-- **Mint:** `6ANw7sXuK3EE5KJsSWvAbytauJq5rE2LBv9GPiYepump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:27:55 | BUY | 0.000100 | `2c9MkvgdBZ4e9MB8Y9mdLpR1DgXogo...` |
-
-### 🟢 NEURIX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.67x | **Current:** 1.33x
-- **Mint:** `Hrpq2D2YHzaYMUNNAt37TnHyQKRv5CSjvGWWRViHpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:02:59 | BUY | 0.000100 | `2am7MvuQ6dKoNE6D4mrLfaymPLNUWY...` |
-
+</details>

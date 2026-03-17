@@ -1,26 +1,17 @@
-# [PRD] Wallet: `6c2asHNf5gWgZvPXVYQ4ebJCUYspEbmaz2A7M7p84RcN`
-> Generated: 2026-03-17 11:25 UTC | Environment: **PRD**
+# [PRD] `6c2asHNf5gWgZvPX...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.045000 SOL** (-90.0%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.050000 |
-| **Closed P&L** | **-0.045000 SOL** |
-| **Closed ROI** | **-90.0%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Punch | -0.0450 | 03-09 00:47 | 1.5x | 03-10 13:55 | 0.0050/0.0500 | gc_zero_balance |
 
-### 🔴 Punch
-- **Status:** closed | **Exit:** ghost_close_zero_balance
-- **Peak:** 1.46x | **Current:** 0.00x
-- **Mint:** `NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-09 00:47:27 | BUY | 0.050000 | `4Wnj67GR9i4gBS1ZAhwFP4zzKqb6Rc...` |
-| 2026-03-16 19:13:24 | SELL | 0.005000 | `?` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 19:13 | Punch | SELL | 0.0050 | `?` |
+| 03-09 00:47 | Punch | BUY | 0.0500 | `4Wnj67GR9i4gBS1Z...` |
 
+</details>

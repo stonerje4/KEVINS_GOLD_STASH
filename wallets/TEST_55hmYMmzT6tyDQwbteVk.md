@@ -1,65 +1,33 @@
-# [TEST] Wallet: `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `55hmYMmzT6tyDQwb...`
+> 2026-03-17 11:26 UTC | **5** pos | **0W/4L** | P&L: **-0.000673 SOL** (-35.4%) | 1 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 5 |
-| Open | 1 |
-| Closed | 4 |
-| W/L | 0/4 |
-| SOL In (closed) | 0.001900 |
-| **Closed P&L** | **-0.000673 SOL** |
-| **Closed ROI** | **-35.4%** |
-| Open Deployed | 0.000100 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| FOR | 03-16 18:19 | 0.63x | 1.00x | 17.1h | 0.0001 |
 
-### 🔴 POPDOG
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.38x
-- **Mint:** `7X2LjkrjSV7DC3Q76wUsnAQFopqGxe3msCiSYKzMpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 05:36:57 | BUY | 0.000100 | `2iYy7ZU2iwiHjUaqGZzqhwXkDCe2L9...` |
-| 2026-03-17 05:42:31 | SELL | 0.000038 | `674bY75h4vQb9hi5Nc1B19ftXprzYR...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ POPDOG | -0.0001 | 03-17 05:36 | 1.0x | 03-17 05:42 | 0.0000/0.0001 | SL |
+| ❌ Quagsire | -0.0002 | 03-16 08:36 | 1.3x | 03-16 08:55 | 0.0004/0.0006 | gc_SL |
+| ❌ 3984 | -0.0002 | 03-16 00:44 | 1.0x | 03-16 10:19 | 0.0004/0.0006 | stale_cleanup |
+| ❌ WRT | -0.0002 | 03-15 22:37 | 1.2x | 03-15 22:42 | 0.0004/0.0006 | gc_SL |
 
-### 🟢 FOR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.63x
-- **Mint:** `9aivcqhttjAdgmVKrTW4iyF9fLZW7wtj6aafq74Npump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 18:19:36 | BUY | 0.000100 | `4e8h4QYAnhAYvRoSZTGDJB1Y5E29Ke...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 05:42 | POPDOG | SELL | 0.0000 | `674bY75h4vQb9hi5...` |
+| 03-17 05:36 | POPDOG | BUY | 0.0001 | `2iYy7ZU2iwiHjUaq...` |
+| 03-16 18:55 | 3984 | SELL | 0.0004 | `?` |
+| 03-16 18:19 | FOR | BUY | 0.0001 | `4e8h4QYAnhAYvRoS...` |
+| 03-16 08:55 | Quagsire | SELL | 0.0004 | `5t1KxH1eaxnZrXMn...` |
+| 03-16 08:36 | Quagsire | BUY | 0.0006 | `NhEubxoMZma2Ftrh...` |
+| 03-16 00:44 | 3984 | BUY | 0.0006 | `4FWzz5JLDTziwb2X...` |
+| 03-15 22:42 | WRT | SELL | 0.0004 | `4ySe2HphL1udUaJk...` |
+| 03-15 22:37 | WRT | BUY | 0.0006 | `32hmUJ73w9fvdxnX...` |
 
-### 🔴 Quagsire
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.26x | **Current:** 0.62x
-- **Mint:** `F3a7eGgDEYTj5cyAfofqzqn4xv4b39mGmXjsvUCtpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 08:36:37 | BUY | 0.000600 | `NhEubxoMZma2FtrhWRqraX6MBFQcpv...` |
-| 2026-03-16 08:55:23 | SELL | 0.000373 | `5t1KxH1eaxnZrXMnavgbF6MbRBVG41...` |
-
-### 🔴 3984
-- **Status:** closed | **Exit:** stale_cleanup
-- **Peak:** 1.00x | **Current:** 0.75x
-- **Mint:** `E9YR4R42ebnffd8KsHpeSa23ABWQFEWWs4VSsFWXpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 00:44:09 | BUY | 0.000600 | `4FWzz5JLDTziwb2XTonz7zmBwRgB1B...` |
-| 2026-03-16 18:55:54 | SELL | 0.000449 | `?` |
-
-### 🔴 WRT
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.20x | **Current:** 0.61x
-- **Mint:** `AZ8BgGrdxjFP8yAqGwGGjtCJz31WFSfehHSCSsGMpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-15 22:37:00 | BUY | 0.000600 | `32hmUJ73w9fvdxnXkRyyZcj7Dt13cs...` |
-| 2026-03-15 22:42:22 | SELL | 0.000367 | `4ySe2HphL1udUaJkYUuRj9bx2Eie7h...` |
-
+</details>

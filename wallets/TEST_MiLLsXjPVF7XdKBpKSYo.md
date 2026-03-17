@@ -1,36 +1,20 @@
-# [TEST] Wallet: `MiLLsXjPVF7XdKBpKSYoKR8igxajpAcrmvXJ1h2kode`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `MiLLsXjPVF7XdKBp...`
+> 2026-03-17 11:26 UTC | **2** pos | **0W/2L** | P&L: **-0.000566 SOL** (-47.2%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
-| Closed | 2 |
-| W/L | 0/2 |
-| SOL In (closed) | 0.001200 |
-| **Closed P&L** | **-0.000566 SOL** |
-| **Closed ROI** | **-47.2%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ 金蟾蜍 | -0.0003 | 03-16 09:03 | 1.0x | 03-16 09:05 | 0.0003/0.0006 | gc_SL |
+| ❌ CCA | -0.0002 | 03-16 07:30 | 1.4x | 03-16 07:43 | 0.0004/0.0006 | gc_SL |
 
-### 🔴 金蟾蜍
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.45x
-- **Mint:** `AeZADoUA1E1rUePABBfp6364u3yRcGQ7FY6vZERDpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 09:03:19 | BUY | 0.000600 | `2Q8yMXd94SH33riaLuf7kfZBhopH75...` |
-| 2026-03-16 09:04:48 | SELL | 0.000273 | `26uX9TaW3VsVgmU1cXSVTG66b24fJm...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 09:04 | 金蟾蜍 | SELL | 0.0003 | `26uX9TaW3VsVgmU1...` |
+| 03-16 09:03 | 金蟾蜍 | BUY | 0.0006 | `2Q8yMXd94SH33ria...` |
+| 03-16 07:42 | CCA | SELL | 0.0004 | `5m3XXchUmhwh7oEL...` |
+| 03-16 07:30 | CCA | BUY | 0.0006 | `3c5txZbdPu7jBx4H...` |
 
-### 🔴 CCA
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.40x | **Current:** 0.60x
-- **Mint:** `6yWZmLBTg3Ku7Cma5Chp6Cg7pvdTJPrMmfWKsvRnpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 07:30:52 | BUY | 0.000600 | `3c5txZbdPu7jBx4HRps3neRZuGTH2X...` |
-| 2026-03-16 07:42:51 | SELL | 0.000360 | `5m3XXchUmhwh7oELukagaXpbhgPt2t...` |
-
+</details>

@@ -1,26 +1,17 @@
-# [TEST] Wallet: `EfU8P5AZBitRYGQVVkHSPua9CitQWmbz7CM1gc2ATTDX`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `EfU8P5AZBitRYGQV...`
+> 2026-03-17 11:26 UTC | **1** pos | **0W/1L** | P&L: **-0.000193 SOL** (-32.2%) | 0 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
-| Closed | 1 |
-| W/L | 0/1 |
-| SOL In (closed) | 0.000600 |
-| **Closed P&L** | **-0.000193 SOL** |
-| **Closed ROI** | **-32.2%** |
-| Open Deployed | 0.000000 SOL |
+## Closed
 
-## Trades
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Masko | -0.0002 | 03-16 09:14 | 1.0x | 03-16 10:14 | 0.0004/0.0006 | gc_SL |
 
-### 🔴 Masko
-- **Status:** closed | **Exit:** ghost_close_stop_loss
-- **Peak:** 1.00x | **Current:** 0.68x
-- **Mint:** `FcQj7639hAV5DtA1NPW7GpZNG5PFUGZ5g6XENcbHRntg`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-16 09:14:56 | BUY | 0.000600 | `32d5Zu2FGHVSJ3RwSMijEN7aeTpzLW...` |
-| 2026-03-16 10:14:31 | SELL | 0.000407 | `4T8YLuSnjzW79CsrGwWy7dpQ5YvLjK...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-16 10:14 | Masko | SELL | 0.0004 | `4T8YLuSnjzW79Csr...` |
+| 03-16 09:14 | Masko | BUY | 0.0006 | `32d5Zu2FGHVSJ3Rw...` |
 
+</details>

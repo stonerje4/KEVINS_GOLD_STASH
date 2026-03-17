@@ -1,73 +1,34 @@
-# [TEST] Wallet: `CT8wxJuPjSYzkXpFGPSEJKVWuNNgVCyjdjsNwhcUg7cy`
-> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
+# [TEST] `CT8wxJuPjSYzkXpF...`
+> 2026-03-17 11:26 UTC | **6** pos | **0W/3L** | P&L: **-0.000219 SOL** (-73.2%) | 3 open
 
-| Metric | Value |
-|--------|-------|
-| Total Positions | 6 |
-| Open | 3 |
-| Closed | 3 |
-| W/L | 0/3 |
-| SOL In (closed) | 0.000300 |
-| **Closed P&L** | **-0.000219 SOL** |
-| **Closed ROI** | **-73.2%** |
-| Open Deployed | 0.000300 SOL |
+## Open
 
-## Trades
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Statuette | 03-17 02:05 | 0.47x | 1.00x | 9.3h | 0.0001 |
+| YoungHo | 03-17 01:58 | 0.46x | 1.22x | 9.5h | 0.0001 |
+| ZBCNP | 03-17 01:03 | 0.86x | 1.19x | 10.4h | 0.0001 |
 
-### 🔴 VICE
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.00x | **Current:** 0.13x
-- **Mint:** `9GgrczbnuRX7HNLCpn9n3f49mdQs4rkBuv7oDRdmpump`
+## Closed
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 03:55:47 | BUY | 0.000100 | `2sTcRkFXHYFhH8SdoRV7HBmhMU3nr5...` |
-| 2026-03-17 03:56:43 | SELL | 0.000013 | `2SMT5au8z65cPbAwfzUGXVUv8seDox...` |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ VICE | -0.0001 | 03-17 03:55 | 1.0x | 03-17 03:56 | 0.0000/0.0001 | SL |
+| ❌ ZHC | -0.0001 | 03-17 02:07 | 1.5x | 03-17 02:17 | 0.0000/0.0001 | SL |
+| ❌ JEETMAXX | -0.0001 | 03-17 01:24 | 1.8x | 03-17 01:52 | 0.0000/0.0001 | SL |
 
-### 🔴 ZHC
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.54x | **Current:** 0.34x
-- **Mint:** `59gRGWRtZ4nvz3m9svFqyp5ye4N99XGUVD99zc6Mpump`
+<details><summary>📋 Full Trade Log</summary>
 
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:07:41 | BUY | 0.000100 | `2zbraHknGyheMGiNA7U3eaEsdpEmrd...` |
-| 2026-03-17 02:17:43 | SELL | 0.000034 | `3PgiPkYfbKPdyyVj5oBF599t6iUVGA...` |
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-17 03:56 | VICE | SELL | 0.0000 | `2SMT5au8z65cPbAw...` |
+| 03-17 03:55 | VICE | BUY | 0.0001 | `2sTcRkFXHYFhH8Sd...` |
+| 03-17 02:17 | ZHC | SELL | 0.0000 | `3PgiPkYfbKPdyyVj...` |
+| 03-17 02:07 | ZHC | BUY | 0.0001 | `2zbraHknGyheMGiN...` |
+| 03-17 02:05 | Statuette | BUY | 0.0001 | `3uWJhqSvp7tvJ2ro...` |
+| 03-17 01:58 | YoungHo | BUY | 0.0001 | `54isZbLVHwpejqcG...` |
+| 03-17 01:52 | JEETMAXX | SELL | 0.0000 | `3yzuoMGCJrJwhcrq...` |
+| 03-17 01:24 | JEETMAXX | BUY | 0.0001 | `59WfrLm5pGu8Pkqc...` |
+| 03-17 01:03 | ZBCNP | BUY | 0.0001 | `SEmQNhU8JgHg5ck2...` |
 
-### 🟢 Statuette
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.47x
-- **Mint:** `83A2JRr5QyDnvUx21mkMcFrtmGccNvcSvC3LrZtLpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 02:05:51 | BUY | 0.000100 | `3uWJhqSvp7tvJ2roaWqBBdCLR9ovY6...` |
-
-### 🟢 YoungHo
-- **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 0.46x
-- **Mint:** `6k89E7gpz1pCQWjRQ2YRU8Gv8qXdoWdywmNWu9thpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:58:08 | BUY | 0.000100 | `54isZbLVHwpejqcGj4xuC7575h9BpU...` |
-
-### 🔴 JEETMAXX
-- **Status:** closed | **Exit:** stop_loss
-- **Peak:** 1.77x | **Current:** 0.33x
-- **Mint:** `5vBRoDke8vEayt55NkRB32fgqmXASY3aeEq1zfNbpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:24:18 | BUY | 0.000100 | `59WfrLm5pGu8PkqcpeRLzHki1HZjbm...` |
-| 2026-03-17 01:52:23 | SELL | 0.000033 | `3yzuoMGCJrJwhcrqCNjrYbLxfuhMfE...` |
-
-### 🟢 ZBCNP
-- **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.86x
-- **Mint:** `6K5cfi2Ma3vnyjmC3dj5mtorbonuxD7z9N7r76aNpump`
-
-| Time | Action | SOL | TX |
-|------|--------|-----|----|
-| 2026-03-17 01:03:11 | BUY | 0.000100 | `SEmQNhU8JgHg5ck2mNtmpeyZDqhzd4...` |
-
+</details>
