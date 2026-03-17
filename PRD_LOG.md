@@ -1,5 +1,5 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 18:35 UTC** | 7d | 725 buys, 960 sells | In: **88.38** | Out: **81.96** | Net: **-6.42 SOL**
+> Updated: **2026-03-17 18:40 UTC** | 7d | 723 buys, 959 sells | In: **88.28** | Out: **81.90** | Net: **-6.38 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
@@ -1685,6 +1685,3 @@
 | 03-10 | 18:43 | 💰 SELL | Lenny | 0.0525 | 8QfqdUJt... | trail | `URGzdZTirMQh...` |
 | 03-10 | 18:40 | 💰 SELL | Lenny | 0.0541 | 8QfqdUJt... | TP3 | `34HdgCfkTNTM...` |
 | 03-10 | 18:40 | 💰 SELL | Lenny | 0.0300 | 8QfqdUJt... | TP2 | `4vsRrNr7vQsW...` |
-| 03-10 | 18:39 | 💰 SELL | Lenny | 0.0590 | 8QfqdUJt... | TP1 | `4tn23mvD9fWZ...` |
-| 03-10 | 18:38 | 🟢 BUY | Lenny | 0.0500 | 8QfqdUJt... | copy | `31vmpVT9m1eW...` |
-| 03-10 | 18:37 | 🟢 BUY | Gain | 0.0500 | 8QfqdUJt... | copy | `3pNmBsyi1fdb...` |

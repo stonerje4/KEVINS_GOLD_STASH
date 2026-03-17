@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 18:35 UTC** | 7d | 1568 buys, 2034 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 18:40 UTC** | 7d | 1573 buys, 2036 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:39 | 🟢 BUY | CT | 0.0001 | FoHJUYTh... | copy_buy | `64fy7GuyXymP...` |
+| 03-17 | 18:39 | 🟢 BUY | SLOP | 0.0001 | 7yd579zX... | copy_buy | `vmANpFEsVY8Q...` |
+| 03-17 | 18:38 | 💰 SELL | DUNE | 0.0000 | 35RArQiy... | TP1 | `3bMddFDjUASH...` |
+| 03-17 | 18:38 | 🟢 BUY | DOODLES AI | 0.0001 | FoHJUYTh... | copy_buy | `4XQQMjod4J8F...` |
+| 03-17 | 18:36 | 🟢 BUY | TRUMP | 0.0001 | 7EautDJG... | copy_buy | `3XXVHNTLz86B...` |
+| 03-17 | 18:35 | 🟢 BUY | MULAT | 0.0001 | 37FGuPhk... | copy_buy | `4xzr87VddGZh...` |
+| 03-17 | 18:35 | 💰 SELL | JEET | 0.0001 | 99XWMUAM... | TP1 | `EJkGNNjhEvbX...` |
 | 03-17 | 18:34 | 🟢 BUY | KEKKEK | 0.0001 | FWQ3sv51... | copy_buy | `3evrvGKCSMzC...` |
 | 03-17 | 18:34 | 🟢 BUY | WRT | 0.0001 | 6E4897rJ... | copy_buy | `5oTGw351bqKd...` |
 | 03-17 | 18:32 | 🟢 BUY | #FIRING | 0.0001 | cqakon1K... | copy_buy | `5EmPuWKaHS35...` |
