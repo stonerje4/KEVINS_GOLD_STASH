@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 05:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -50,7 +50,7 @@
 
 ### 🟢 grokette
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.51x
+- **Peak:** 1.00x | **Current:** 0.46x
 - **Mint:** `8kDgMFnBW2N1C1VybWuPdqHfE5YBWrBykXf5TLA3iUFG`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 05:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -242,7 +242,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.76x
+- **Peak:** 1.00x | **Current:** 0.67x
 - **Mint:** `9BdmAW7WDFhD5xFRZpSXCSwXRhanwocwcins5Z7Jpump`
 
 | Time | Action | SOL | TX |
@@ -507,7 +507,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.82x
+- **Peak:** 1.06x | **Current:** 0.81x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |
@@ -620,7 +620,7 @@
 
 ### 🟢 METALHEADS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.92x
+- **Peak:** 1.12x | **Current:** 0.82x
 - **Mint:** `GpETVRSoR49Ez1hgpLsmX85DnEBiLvMyTfBDQdnkjkpQ`
 
 | Time | Action | SOL | TX |
@@ -656,7 +656,7 @@
 
 ### 🟢 BONDSAT100K
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `ETpGYKjRGUTEjaimS58BuSb7jmYonLUn86UfBZu3ykwb`
 
 | Time | Action | SOL | TX |

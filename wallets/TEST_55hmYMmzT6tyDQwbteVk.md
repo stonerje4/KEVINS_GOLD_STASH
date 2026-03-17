@@ -1,18 +1,27 @@
 # [TEST] Wallet: `55hmYMmzT6tyDQwbteVkaBRRYmRfSUNroCbMW1zrCBog`
-> Generated: 2026-03-17 05:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 1 |
+| Total Positions | 5 |
+| Open | 2 |
 | Closed | 3 |
 | W/L | 2/1 |
 | SOL In (closed) | 0.001800 |
 | **Closed P&L** | **+0.000740 SOL** |
 | **Closed ROI** | **+41.1%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 POPDOG
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.89x
+- **Mint:** `7X2LjkrjSV7DC3Q76wUsnAQFopqGxe3msCiSYKzMpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:36:57 | BUY | 0.000100 | `2iYy7ZU2iwiHjUaqGZzqhwXkDCe2L9...` |
 
 ### 🟢 FOR
 - **Status:** open | **Exit:** open
