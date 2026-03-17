@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 14:20 UTC** | 7d | 686 buys, 930 sells | In: **81.03** | Out: **79.40** | Net: **-1.63 SOL**
+> Updated: **2026-03-17 14:25 UTC** | 7d | 686 buys, 931 sells | In: **81.03** | Out: **79.43** | Net: **-1.60 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:24 | 💰 SELL | KENNY | 0.0302 | 42nQHDpy... | TP1 | `4gkBbx5YJVEJ...` |
 | 03-17 | 14:19 | 💰 SELL | DLSSELON | 0.0467 | 42nQHDpy... | TP2 | `38SWFu4GcimS...` |
 | 03-17 | 14:13 | 💰 SELL | DLSSELON | 0.0329 | 42nQHDpy... | TP1 | `442n7DEYcfBd...` |
 | 03-17 | 14:12 | 💰 SELL | 401k | 0.0301 | 4rsj2xh5... | TP1 | `38DMkqwTHwyG...` |

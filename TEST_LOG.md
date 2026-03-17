@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:20 UTC** | 7d | 1340 buys, 1867 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:25 UTC** | 7d | 1346 buys, 1868 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:23 | 🟢 BUY | pls | 0.0001 | GHy1P6vJ... | copy_buy | `4KJyqhbhFF9w...` |
+| 03-17 | 14:23 | 🟢 BUY | NIGHTWING | 0.0001 | GHy1P6vJ... | copy_buy | `BHm1eH5fuBWC...` |
+| 03-17 | 14:23 | 🟢 BUY | Scamcoin | 0.0001 | GGbGeDC9... | copy_buy | `4NFqtZwpQqUJ...` |
+| 03-17 | 14:21 | 🟢 BUY | kit | 0.0001 | APUYxGfK... | copy_buy | `4JEra5CnRDBL...` |
+| 03-17 | 14:21 | 🟢 BUY | lucky | 0.0001 | BBBByrLH... | copy_buy | `5r15Mkoppxkj...` |
+| 03-17 | 14:20 | 🔴 SELL | JM | 0.0000 | APUYxGfK... | SL | `4EcARFwRKwog...` |
+| 03-17 | 14:20 | 🟢 BUY | Auri | 0.0001 | BBBByrLH... | copy_buy | `2DpEj2H8iVah...` |
 | 03-17 | 14:19 | 🟢 BUY | JM | 0.0001 | APUYxGfK... | copy_buy | `47qFHEhG9y5j...` |
 | 03-17 | 14:18 | 💰 SELL | KENNY | 0.0000 | EaEf6TH8... | TP2 | `3NXVCp55mf1u...` |
 | 03-17 | 14:18 | 🔴 SELL | patricklon | 0.0001 | 45j4enZd... | trail | `4tYnhEdsr757...` |

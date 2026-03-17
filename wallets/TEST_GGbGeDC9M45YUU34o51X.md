@@ -1,5 +1,11 @@
 # [TEST] `GGbGeDC9M45YUU34...`
-> 2026-03-17 14:20 UTC | **3** pos | **0W/3L** | P&L: **-0.000211 SOL** (-70.4%) | 0 open
+> 2026-03-17 14:25 UTC | **4** pos | **0W/3L** | P&L: **-0.000211 SOL** (-70.4%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Scamcoin | 03-17 14:23 | 0.75x | 1.08x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:23 | Scamcoin | BUY | 0.0001 | `4NFqtZwpQqUJJCLF...` |
 | 03-17 10:01 | UGOR | BUY | 0.0001 | `BqMq7eLqpJMHvU5W...` |
 | 03-17 06:20 | USDC | BUY | 0.0001 | `39vHqkVTRHAaA32h...` |
 | 03-17 06:12 | men | SELL | 0.0001 | `D45FPufJPQLcZgDf...` |

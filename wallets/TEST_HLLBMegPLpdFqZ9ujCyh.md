@@ -1,11 +1,11 @@
 # [TEST] `HLLBMegPLpdFqZ9u...`
-> 2026-03-17 14:20 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 14:25 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DLSS5 | 03-17 13:13 | 0.85x | 1.00x | 1.1h | 0.0001 |
+| DLSS5 | 03-17 13:13 | 0.89x | 1.00x | 1.2h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
