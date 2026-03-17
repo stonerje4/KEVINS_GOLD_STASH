@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 11:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.93x
+- **Peak:** 1.03x | **Current:** 0.91x
 - **Mint:** `FBcmXXWRscafFoJafLyR3yD6npYrLCbTR8Gtpohcpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Stinkcoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.70x | **Current:** 1.00x
+- **Peak:** 1.70x | **Current:** 1.14x
 - **Mint:** `6o9aKxKfdSSfmaiwKV2VAeVivM8Kf6SU7XGAmnsjpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 11.84x | **Current:** 7.29x
+- **Peak:** 21.91x | **Current:** 20.89x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |
@@ -63,6 +63,7 @@
 | 2026-03-17 06:31:24 | SELL | 0.000046 | `48VK68bUm8YjXBBvSpRZj13ozsorMq...` |
 | 2026-03-17 06:36:51 | SELL | 0.000061 | `5Udg15mpmn6c9SDdmD5jZS4aHWW4c1...` |
 | 2026-03-17 06:42:52 | SELL | 0.000068 | `4gSvnhpeY73fLYR2KBssvWHib8kygJ...` |
+| 2026-03-17 11:01:36 | SELL | 0.000106 | `3QCsnoxrVoeQkrSnqXU3DogG6W8iuY...` |
 
 ### 🔴 CLOVE
 - **Status:** closed | **Exit:** stop_loss
