@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CAmNcBJ82xr1tzXrwZ6tZKwEFs26TG8kT6dJeR1bxjW9`
-> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 FAGS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 1.27x
+- **Peak:** 1.34x | **Current:** 1.01x
 - **Mint:** `BNKBcFSKVNYydwt5ti3UBfw2gX9CYnSkypEmSj8Fpump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,31 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 4 |
+| Total Positions | 9 |
+| Open | 5 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000900 |
 | **Closed P&L** | **+0.000701 SOL** |
 | **Closed ROI** | **+77.9%** |
-| Open Deployed | 0.000400 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
+### 🟢 ROMEO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.84x | **Current:** 1.72x
+- **Mint:** `F9NKgc4y3UuSy4qSGMHaUpReFAGr4tb1MV9sWS78pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:20:53 | BUY | 0.000100 | `ddgCDD88fBrmCBAyiifgDoLDZKYvr4...` |
+
 ### 🟢 API
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 0.81x
+- **Peak:** 1.31x | **Current:** 0.90x
 - **Mint:** `3icfn5H4ePwjkKDUq7SGqJYeJrutR2WYTvnbcp6cpump`
 
 | Time | Action | SOL | TX |

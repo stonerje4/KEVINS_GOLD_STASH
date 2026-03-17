@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 roni
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.68x | **Current:** 4.68x
+- **Peak:** 5.50x | **Current:** 5.50x
 - **Mint:** `56URfFvbquqhg1jBTFQLHtfzei6aZJUY8BP482aEpump`
 
 | Time | Action | SOL | TX |
@@ -24,6 +24,7 @@
 | 2026-03-17 01:13:12 | BUY | 0.000100 | `rf4E7dx1LjoEeuvkc9LDNj7bu8YzGE...` |
 | 2026-03-17 01:16:21 | SELL | 0.000027 | `3ctjqkvDhUYFXUESEUzipQmDcZw6tu...` |
 | 2026-03-17 01:16:57 | SELL | 0.000033 | `6WMVc8nrvRRTJkurDy35Ea8JoEjXRD...` |
+| 2026-03-17 01:24:41 | SELL | 0.000045 | `4d1DCJg28niXBSsWd4ponje7i7hzpA...` |
 
 ### 🔴 SHELLY
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 107 |
-| Open | 22 |
+| Total Positions | 108 |
+| Open | 23 |
 | Closed | 85 |
 | W/L | 84/1 |
 | SOL In (closed) | 0.036500 |
 | **Closed P&L** | **+0.030605 SOL** |
 | **Closed ROI** | **+83.8%** |
-| Open Deployed | 0.003700 SOL |
+| Open Deployed | 0.003800 SOL |
 
 ## Trades
 
+### 🟢 C64
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `FrMy2MuZwXbgKMfNWWWb4h8VCQbkx5nQ5gUuFqSLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:22:10 | BUY | 0.000100 | `bEXd6YPXM3Diyeu4nH8QzTdQJrhzPS...` |
+
 ### 🟢 WAVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.16x | **Current:** 1.16x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -37,7 +46,7 @@
 
 ### 🟢 ChingChong
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 0.74x
+- **Peak:** 1.55x | **Current:** 0.63x
 - **Mint:** `4bN7NHQs1TQ7pfCi576oJGXLsZA3AybDR9TXjUDcpump`
 
 | Time | Action | SOL | TX |
@@ -55,7 +64,7 @@
 
 ### 🟢 FILECITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 1.01x
+- **Peak:** 1.34x | **Current:** 1.00x
 - **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
 
 | Time | Action | SOL | TX |
@@ -64,7 +73,7 @@
 
 ### 🟢 Monke
 - **Status:** open | **Exit:** open
-- **Peak:** 1.64x | **Current:** 1.58x
+- **Peak:** 1.88x | **Current:** 1.88x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

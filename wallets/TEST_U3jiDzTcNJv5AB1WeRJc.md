@@ -1,5 +1,5 @@
 # [TEST] Wallet: `U3jiDzTcNJv5AB1WeRJco4aivebfvg5ZsGiyA6ZohYS`
-> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -62,11 +62,12 @@
 | 2026-03-16 03:30:08 | BUY | 0.000600 | `5mCZkFnQQhmBFajqaMXHez28A7EPU5...` |
 
 ### 🟢 FTR
-- **Status:** open | **Exit:** open
-- **Peak:** 1.71x | **Current:** 1.71x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.00x | **Current:** 2.00x
 - **Mint:** `AKn9krAhuntAPhXX98LMZnwMbp91P9CeWkfonA56pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:05:32 | BUY | 0.000600 | `jRRnX9jwohkXQachg1w8rfVMVynLLr...` |
+| 2026-03-17 01:24:06 | SELL | 0.000115 | `4bQaNGXYWmRfPxksGZhrGiXLzU7J2J...` |
 

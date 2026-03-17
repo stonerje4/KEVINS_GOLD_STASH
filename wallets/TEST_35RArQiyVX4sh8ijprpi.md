@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Peak:** 1.00x | **Current:** 0.64x
 - **Mint:** `SPVPDaVfyDKqse6t5N6QwFtp3Va7jfAh9fjd8Rwpump`
 
 | Time | Action | SOL | TX |
@@ -35,7 +35,7 @@
 
 ### 🟢 FPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.10x
+- **Peak:** 1.39x | **Current:** 1.06x
 - **Mint:** `EuqzwYKEVZ2Ci24qjoMwu6sDdrJ7ZSqwEyg4cF2ppump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +44,7 @@
 
 ### 🟢 CLAWDIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.78x
+- **Peak:** 1.24x | **Current:** 0.80x
 - **Mint:** `2yDL2okKMtkxtSomVWVfr6Y8JDBuidRX3e4Qx8hBBAGS`
 
 | Time | Action | SOL | TX |

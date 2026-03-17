@@ -1,22 +1,32 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
+| Total Positions | 6 |
 | Open | 1 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.001400 |
-| **Closed P&L** | **+0.001515 SOL** |
-| **Closed ROI** | **+108.2%** |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.001500 |
+| **Closed P&L** | **+0.001554 SOL** |
+| **Closed ROI** | **+103.6%** |
 | Open Deployed | 0.000100 SOL |
 
 ## Trades
 
+### 🔴 Maxwell
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.39x
+- **Mint:** `8d7Tbw4P1VdpQLXe4HiaPnH2r6tcepTjw3FEgQScpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:21:13 | BUY | 0.000100 | `2bSojSSCun3UrbW5scWvs9Ao3WBaZn...` |
+| 2026-03-17 01:24:45 | SELL | 0.000039 | `3LnsjMou7T67jPYdRUZEswVKdt6DLk...` |
+
 ### 🟢 MATER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.10x
+- **Peak:** 1.81x | **Current:** 1.81x
 - **Mint:** `EXnczaT51NvfGQUdYmZ6Fm4zRW9Ttyrk9YrCLLGkpump`
 
 | Time | Action | SOL | TX |
