@@ -1,11 +1,12 @@
 # [TEST] `7yd579zXmWPoxEE2...`
-> 2026-03-17 23:20 UTC | **15** pos | **3W/11L** | P&L: **-0.000461 SOL** (-19.2%) | 1 open
+> 2026-03-17 23:25 UTC | **16** pos | **3W/11L** | P&L: **-0.000461 SOL** (-19.2%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Afcon | 03-17 22:33 | 0.57x | 1.14x | 0.8h | 0.0001 |
+| INTROSPECTION | 03-17 23:23 | 0.95x | 1.00x | 0.0h | 0.0001 |
+| Afcon | 03-17 22:33 | 0.56x | 1.14x | 0.9h | 0.0001 |
 
 ## Closed
 
@@ -30,6 +31,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 23:23 | INTROSPECTION | BUY | 0.0001 | `3xwchxWjqdM16Qij...` |
 | 03-17 23:02 | 0.07 | BUY | 0.0001 | `574ns3mfZ8ysjNWH...` |
 | 03-17 22:50 | DOGCOIN | SELL | 0.0000 | `abfaqztXrndLAV63...` |
 | 03-17 22:41 | DOGCOIN | BUY | 0.0001 | `r9jd8rDj7KKLnUcY...` |

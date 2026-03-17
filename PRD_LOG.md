@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 23:20 UTC** | 7d | 758 buys, 1007 sells | In: **94.83** | Out: **87.73** | Net: **-7.10 SOL**
+> Updated: **2026-03-17 23:25 UTC** | 7d | 758 buys, 1002 sells | In: **94.83** | Out: **87.69** | Net: **-7.14 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 23:20 | 💰 SELL | Daisy | 0.1257 | 5n593DWQ... | TP2 | `2ncu7ufdG15B...` |
 | 03-17 | 23:13 | 💰 SELL | DUNE | 0.0822 | 6qTPHgnS... | TP1 | `4DNA3mJLfH6A...` |
 | 03-17 | 23:06 | 🔴 SELL | X-Man | 0.0652 | 42nQHDpy... | stale | `4ggRbhXHiayv...` |
 | 03-17 | 23:06 | 🔴 SELL | Guinness | 0.1055 | CZjxED3u... | stale | `2ifpfkuAU9jr...` |
@@ -1762,9 +1763,3 @@
 | 03-10 | 23:29 | 🟢 BUY | Impossible | 0.0500 | 9rb2ChEj... | copy | `55Fag8NUGRjg...` |
 | 03-10 | 23:27 | 🔴 SELL | COURAGE | 0.0226 | 9rb2ChEj... | trail | `4DEEg4iXzUC9...` |
 | 03-10 | 23:26 | 🟢 BUY | Skir | 0.0500 | HMM6RoT2... | copy | `47babpGKx4n2...` |
-| 03-10 | 23:23 | 💰 SELL | COURAGE | 0.0502 | 9rb2ChEj... | TP1 | `4iY3HycrNRgB...` |
-| 03-10 | 23:21 | 🔴 SELL | Florky | 0.0229 | 9rb2ChEj... | SL | `5y3BSvCZv5pd...` |
-| 03-10 | 23:21 | 🔴 SELL | PVP | 0.0239 | 5vweNikg... | SL | `4VKjBEkUc8a8...` |
-| 03-10 | 23:21 | 🔴 SELL | Landslide | 0.0203 | 8QfqdUJt... | SL | `5MBFntXvA1ye...` |
-| 03-10 | 23:21 | 🔴 SELL | Hollowell | 0.0231 | HMM6RoT2... | SL | `2MiP85tXAwXZ...` |
-| 03-10 | 23:21 | 🔴 SELL | Wiggle | 0.0287 | 7aMgK5L4... | SL | `3XrypmFbocek...` |
