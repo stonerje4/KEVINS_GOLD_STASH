@@ -1,10 +1,10 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 07:55 UTC | Environment: **PRD**
+> Generated: 2026-03-17 08:00 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 16 |
-| Open | 5 |
+| Total Positions | 17 |
+| Open | 6 |
 | Closed | 11 |
 | W/L | 11/0 |
 | SOL In (closed) | 0.002600 |
@@ -14,9 +14,18 @@
 
 ## Trades
 
+### ⚪ RETRO
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `EA7LH6Cb9yNEztz2N2CK5Q4w9GzwbFtN3WAEtDSRpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:57:58 | BUY | 0.000100 | `5mMhZw5PrHYuapgu2TgbU2dmaM1w89...` |
+
 ### 🟢 AHAHA
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.23x | **Current:** 1.67x
+- **Peak:** 2.23x | **Current:** 1.28x
 - **Mint:** `62E3NcnnACUmmTFat1aQzkSJ4Mhy2YUExKV8EHLopump`
 
 | Time | Action | SOL | TX |
@@ -80,7 +89,7 @@
 
 ### 🟢 honkermog
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 1.56x
+- **Peak:** 2.44x | **Current:** 1.41x
 - **Mint:** `2Z5BMaPjri6gsK7i7LHDmdfQrkpV9kbkVnrsosvNpump`
 
 | Time | Action | SOL | TX |

@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 07:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 106 |
+| Total Positions | 107 |
 | Open | 34 |
-| Closed | 72 |
-| W/L | 70/2 |
-| SOL In (closed) | 0.030700 |
+| Closed | 73 |
+| W/L | 70/3 |
+| SOL In (closed) | 0.030800 |
 | **Closed P&L** | **+0.025748 SOL** |
-| **Closed ROI** | **+83.9%** |
+| **Closed ROI** | **+83.6%** |
 | Open Deployed | 0.004400 SOL |
 
 ## Trades
+
+### 🔴 MEMEATM
+- **Status:** closed | **Exit:** ghost_close_tp_2x_half
+- **Peak:** 2.67x | **Current:** 2.67x
+- **Mint:** `AZeqo55KjMhQaBiC3gJTK9GmwsZwqUqaZjJjR4snpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:56:50 | BUY | 0.000100 | `StbCDLEGmuZgkYnJ7uXZrda3vruriB...` |
 
 ### 🟢 Ottie
 - **Status:** open | **Exit:** open

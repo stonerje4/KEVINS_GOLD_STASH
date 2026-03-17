@@ -1,18 +1,27 @@
 # [TEST] Wallet: `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus`
-> Generated: 2026-03-17 07:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 1 |
+| Total Positions | 6 |
+| Open | 2 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.002400 |
 | **Closed P&L** | **+0.001888 SOL** |
 | **Closed ROI** | **+78.7%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 SFM
+- **Status:** open | **Exit:** open
+- **Peak:** 1.47x | **Current:** 1.21x
+- **Mint:** `H3276gcZgZTVQsQZWd8ygKABHW1RUCibiPrzbLdbpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:55:19 | BUY | 0.000100 | `3cfbYY2j6AwzCDtqs9ZWzbbxNwGEws...` |
 
 ### 🟢 唐子
 - **Status:** open | **Exit:** open
