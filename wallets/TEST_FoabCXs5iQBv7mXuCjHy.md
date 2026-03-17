@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w`
+# [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
 > Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 Shelly
+### 🟢 Qi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.89x
-- **Mint:** `BAZBed8AxJyt15KChfnk2o14V8kmUMGHyJVf15eYpump`
+- **Peak:** 1.00x | **Current:** 0.93x
+- **Mint:** `6D1hQ22C7oCUKKVuy91i8HTHnzSjsHCuNAcH9WH2pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 18:24:41 | BUY | 0.000100 | `2N4c6gp4xCcY1DEus26aRqr2PrwzJJ...` |
+| 2026-03-17 02:38:13 | BUY | 0.000100 | `3AmTyYmvhP7pQXn1fuEboeuRLZC7e2...` |
 

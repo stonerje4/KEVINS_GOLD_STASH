@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
-> Generated: 2026-03-17 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 401k
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.18x
+- **Peak:** 1.18x | **Current:** 1.09x
 - **Mint:** `8jJpPKsezshgJp7rW95YUicQmCeZH6eNJUcrTHUMpump`
 
 | Time | Action | SOL | TX |

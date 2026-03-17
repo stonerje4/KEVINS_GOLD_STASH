@@ -1,5 +1,5 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 nuggets
-- **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.84x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.40x | **Current:** 2.25x
 - **Mint:** `CPwzUFoCUMBcg5PL441hyfVYYvPMFRKtCA26WbKSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:55:23 | BUY | 0.000100 | `4MKghQxgJAeCiv6wyPArF13AyFyASo...` |
+| 2026-03-17 02:36:04 | SELL | 0.000020 | `3pau2TR7GSxsY1TqNVSY1Vf81oUm8B...` |
 
 ### 🔴 GAVIN
 - **Status:** closed | **Exit:** stop_loss

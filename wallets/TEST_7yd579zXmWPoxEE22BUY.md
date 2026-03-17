@@ -1,22 +1,22 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 02:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 8 |
-| Open | 2 |
-| Closed | 6 |
-| W/L | 6/0 |
-| SOL In (closed) | 0.001600 |
-| **Closed P&L** | **+0.001590 SOL** |
-| **Closed ROI** | **+99.4%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 7 |
+| W/L | 7/0 |
+| SOL In (closed) | 0.001700 |
+| **Closed P&L** | **+0.001757 SOL** |
+| **Closed ROI** | **+103.4%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
 ### 🟢 Hamster
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.18x
+- **Peak:** 1.36x | **Current:** 1.16x
 - **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
 
 | Time | Action | SOL | TX |
@@ -44,8 +44,8 @@
 | 2026-03-17 01:24:45 | SELL | 0.000039 | `3LnsjMou7T67jPYdRUZEswVKdt6DLk...` |
 
 ### 🟢 MATER
-- **Status:** partial | **Exit:** open
-- **Peak:** 4.59x | **Current:** 1.87x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 4.59x | **Current:** 1.42x
 - **Mint:** `EXnczaT51NvfGQUdYmZ6Fm4zRW9Ttyrk9YrCLLGkpump`
 
 | Time | Action | SOL | TX |
@@ -53,6 +53,7 @@
 | 2026-03-17 01:15:21 | BUY | 0.000100 | `4mVfKt2GbzBAKuFQaBzRdXCRP5gmvC...` |
 | 2026-03-17 01:47:11 | SELL | 0.000020 | `2V1wDTfQpPM7xEwsydH4sR1wGzEEdv...` |
 | 2026-03-17 02:13:42 | SELL | 0.000032 | `5DiehFyQhjns9WTRXSApdJgDZ2kn4y...` |
+| 2026-03-17 02:39:01 | SELL | 0.000115 | `aEY2W79H4XYEc1vw1MtXapV8k76GDJ...` |
 
 ### 🔴 chance
 - **Status:** closed | **Exit:** runner_trailing_stop
