@@ -1,14 +1,14 @@
 # [TEST] `APUYxGfKmJL7dJbv...`
-> 2026-03-17 21:15 UTC | **57** pos | **7W/46L** | P&L: **-0.004903 SOL** (-30.1%) | 4 open
+> 2026-03-17 21:20 UTC | **57** pos | **7W/46L** | P&L: **-0.004903 SOL** (-30.1%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| MONKE | 03-17 21:10 | 2.01x | 2.01x | 0.1h | 0.0001 |
-| shit | 03-17 21:08 | 2.03x | 2.60x | 0.1h | 0.0001 |
-| POPSEAL | 03-17 21:06 | 0.76x | 1.00x | 0.1h | 0.0001 |
-| Templates | 03-17 18:50 | 0.81x | 1.00x | 2.4h | 0.0001 |
+| MONKE | 03-17 21:10 | 3.28x | 5.37x | 0.2h | 0.0001 |
+| shit | 03-17 21:08 | 1.30x | 2.60x | 0.2h | 0.0001 |
+| POPSEAL | 03-17 21:06 | 0.76x | 1.00x | 0.2h | 0.0001 |
+| Templates | 03-17 18:50 | 0.81x | 1.00x | 2.5h | 0.0001 |
 
 ## Closed
 
@@ -72,6 +72,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:16 | MONKE | SELL | 0.0000 | `5rRp28NqcrowptrS...` |
+| 03-17 21:15 | MONKE | SELL | 0.0001 | `4H9Xf3GBDzZsiUjS...` |
 | 03-17 21:14 | MONKE | SELL | 0.0001 | `64RMWHCbc9vR6Fd8...` |
 | 03-17 21:12 | shit | SELL | 0.0001 | `z4CMh5asGNZS1HE5...` |
 | 03-17 21:12 | Prometheus | SELL | 0.0000 | `24rUPgmNRh53FRou...` |
@@ -117,10 +119,10 @@
 | 03-17 01:36 | GEEKED | SELL | 0.0000 | `4wyh9XVidqzBXUqL...` |
 | 03-17 01:35 | GEEKED | BUY | 0.0001 | `pYYZvoNrXcm61Qtz...` |
 | 03-17 01:34 | ORC | BUY | 0.0001 | `5T8gGkz1t3ia3k4b...` |
-| 03-16 19:13 | SHARK | SELL | 0.0003 | `?` |
 | 03-16 19:13 | Nebresearch | SELL | 0.0003 | `?` |
-| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
+| 03-16 19:13 | SHARK | SELL | 0.0003 | `?` |
 | 03-16 19:13 | Bowhead | SELL | 0.0001 | `?` |
+| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 16:49 | clod | SELL | 0.0001 | `5VtVzAtN7e5wWbGg...` |
 | 03-16 16:49 | DICK | SELL | 0.0001 | `2uUmZf3QgrA6darB...` |
 | 03-16 16:48 | CAT | SELL | 0.0000 | `4H6NKYZcEKHRNGgG...` |

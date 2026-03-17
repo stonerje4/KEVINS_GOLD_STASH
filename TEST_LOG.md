@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:15 UTC** | 7d | 1701 buys, 2134 sells | In: **0.50** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:20 UTC** | 7d | 1704 buys, 2136 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:19 | 🟢 BUY | UWH | 0.0001 | 6raSuhfi... | copy_buy | `4Ttf8rAjxE5V...` |
+| 03-17 | 21:19 | 🟢 BUY | Wump | 0.0001 | 5dd3zjBQ... | copy_buy | `5C2KfN7ZCVem...` |
+| 03-17 | 21:18 | 🟢 BUY | TB3K  | 0.0001 | otq3sTTS... | copy_buy | `2MUzMS5tpZwq...` |
+| 03-17 | 21:16 | 💰 SELL | MONKE | 0.0000 | APUYxGfK... | TP3 | `5rRp28Nqcrow...` |
+| 03-17 | 21:15 | 💰 SELL | MONKE | 0.0001 | APUYxGfK... | TP2 | `4H9Xf3GBDzZs...` |
 | 03-17 | 21:14 | 💰 SELL | MONKE | 0.0001 | APUYxGfK... | TP1 | `64RMWHCbc9vR...` |
 | 03-17 | 21:14 | 💰 SELL | GANYMEDE | 0.0001 | EaEf6TH8... | TP2 | `2zV7kV6LqbDE...` |
 | 03-17 | 21:13 | 🟢 BUY | Murad | 0.0001 | FoHJUYTh... | copy_buy | `2itTkgm6c118...` |

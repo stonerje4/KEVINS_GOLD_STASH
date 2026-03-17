@@ -1,5 +1,12 @@
 # [PRD] `AF5TxaadSbpkqaxx...`
-> 2026-03-17 21:15 UTC | **10** pos | **1W/9L** | P&L: **+0.017156 SOL** (+1.3%) | 0 open
+> 2026-03-17 21:20 UTC | **12** pos | **1W/9L** | P&L: **+0.017156 SOL** (+1.3%) | 2 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Wump | 03-17 21:19 | 0.00x | 1.00x | 0.0h | 0.1500 |
+| ? | 03-17 21:18 | 0.00x | 1.00x | 0.0h | 0.1500 |
 
 ## Closed
 
@@ -20,6 +27,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:19 | Wump | BUY | 0.1500 | `4utQCXHGkbGFqzqs...` |
+| 03-17 21:18 | ? | BUY | 0.1500 | `4JPBRt3z2ePebYdS...` |
 | 03-16 13:24 | GORILLA | SELL | 0.0629 | `5RihibRCrWZXq7jd...` |
 | 03-16 06:23 | GORILLA | BUY | 0.1500 | `2pjZE9zb7Ls4Q9BB...` |
 | 03-16 05:55 | tiger | SELL | 0.0797 | `3G86UopYNDuDK4DN...` |

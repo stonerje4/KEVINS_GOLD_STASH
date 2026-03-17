@@ -1,8 +1,17 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 21:15 UTC** | 7d | 754 buys, 990 sells | In: **93.43** | Out: **85.74** | Net: **-7.69 SOL**
+> Updated: **2026-03-17 21:20 UTC** | 7d | 758 buys, 995 sells | In: **94.03** | Out: **86.27** | Net: **-7.76 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:19 | 🔴 SELL | shit | 0.0875 | 3HGqppv8... | trail | `4WbBK9u7sVrK...` |
+| 03-17 | 21:19 | 🟢 BUY | Wump | 0.1500 | AF5Txaad... | copy | `4utQCXHGkbGF...` |
+| 03-17 | 21:18 | 🔴 SELL | ? | 0.0512 | 3HGqppv8... | SL | `5gyyCVjXcFQL...` |
+| 03-17 | 21:18 | 🟢 BUY | ? | 0.1500 | AF5Txaad... | copy | `4JPBRt3z2ePe...` |
+| 03-17 | 21:18 | 🔴 SELL | Maria | 0.1013 | 3HGqppv8... | trail | `oUvmSqXjKYuk...` |
+| 03-17 | 21:18 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `4MDXoarSuCz7...` |
+| 03-17 | 21:17 | 💰 SELL | Maria | 0.0826 | 3HGqppv8... | TP1 | `5pHHTPw6BYxB...` |
+| 03-17 | 21:16 | 💰 SELL | genny | 0.2130 | 42nQHDpy... | trail | `2zraiXh1nbAE...` |
+| 03-17 | 21:16 | 🟢 BUY | Maria | 0.1500 | 3HGqppv8... | copy | `2VSb2PGR3GEw...` |
 | 03-17 | 21:14 | 💰 SELL | Rosei | 0.1157 | 42nQHDpy... | TP2 | `zxhhxGw4H5Mz...` |
 | 03-17 | 21:14 | 🟢 BUY | MOS | 0.1500 | 42nQHDpy... | copy | `dFQJLWCfzFk3...` |
 | 03-17 | 21:12 | 💰 SELL | shit | 0.0767 | 3HGqppv8... | TP1 | `XgvNgTPaMzgB...` |

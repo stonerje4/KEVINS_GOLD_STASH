@@ -1,5 +1,11 @@
 # [TEST] `5dd3zjBQQvQqtmWF...`
-> 2026-03-17 21:15 UTC | **6** pos | **2W/4L** | P&L: **-0.000273 SOL** (-10.5%) | 0 open
+> 2026-03-17 21:20 UTC | **7** pos | **2W/4L** | P&L: **-0.000273 SOL** (-10.5%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Wump | 03-17 21:19 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -16,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:19 | Wump | BUY | 0.0001 | `5C2KfN7ZCVemNWPn...` |
 | 03-17 08:35 | CHAD | BUY | 0.0001 | `2BcRnUTwxYZPnBxw...` |
 | 03-17 03:16 | NStrat | SELL | 0.0000 | `4vBQLGXfYqeHXoS9...` |
 | 03-16 23:32 | NStrat | BUY | 0.0001 | `2FL5FGkAhN2TQQw7...` |
