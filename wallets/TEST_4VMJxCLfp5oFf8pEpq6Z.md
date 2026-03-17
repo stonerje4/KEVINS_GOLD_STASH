@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-17 07:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Pistachio
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.67x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `9vAfgrGHccFBHrcUKWSB93wUvtqC5r4wbFux2GP2pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Mixing
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.52x
+- **Peak:** 1.59x | **Current:** 1.40x
 - **Mint:** `4BMRtL1z1FjrwzWsoWw7NFnMQ8ocDta1cgxGb6ygpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 RealtorGPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.70x
+- **Peak:** 1.26x | **Current:** 0.73x
 - **Mint:** `BXUZJPpjLcEpcTi9XgENFGsRtxhjXueaB9ReyGQJpump`
 
 | Time | Action | SOL | TX |

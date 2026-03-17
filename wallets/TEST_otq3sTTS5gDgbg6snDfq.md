@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 07:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 BPFN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.95x
+- **Peak:** 1.01x | **Current:** 0.92x
 - **Mint:** `Fu3LuwCxkE4pf2H4q1PUmP3rd4gpWfUU5rAh1djRPmpr`
 
 | Time | Action | SOL | TX |
@@ -79,7 +79,7 @@
 
 ### 🟢 RICH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `69SdsqHydgT1XYYyLrC4DNnovUAvYgJEDbDcpLBJpump`
 
 | Time | Action | SOL | TX |
@@ -314,7 +314,7 @@
 
 ### 🟢 MCoins
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.67x
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `EYhtmNznq4BF1qJHj2s6SmvQBfA6JDNjococNzCSpump`
 
 | Time | Action | SOL | TX |
@@ -342,7 +342,7 @@
 
 ### 🟢 Nostalgia
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `EBhMuwaPzF3uDWoeRjAKMMwjBWhoGNttJeh3bhr7pump`
 
 | Time | Action | SOL | TX |

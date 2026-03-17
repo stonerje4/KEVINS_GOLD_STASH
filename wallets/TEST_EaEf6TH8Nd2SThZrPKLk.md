@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 07:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 117 |
-| Open | 30 |
+| Total Positions | 118 |
+| Open | 31 |
 | Closed | 87 |
 | W/L | 86/1 |
 | SOL In (closed) | 0.036700 |
 | **Closed P&L** | **+0.030672 SOL** |
 | **Closed ROI** | **+83.6%** |
-| Open Deployed | 0.004500 SOL |
+| Open Deployed | 0.004600 SOL |
 
 ## Trades
 
+### 🟢 TFW
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `B3ourVCf5dvwY24zZm9eoKdQHP3NkYLCX66buK3Hpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:04:31 | BUY | 0.000100 | `3ifEk8y2N9H3axd4oGN27q371pXsek...` |
+
 ### 🟢 AEX402
 - **Status:** open | **Exit:** open
-- **Peak:** 1.91x | **Current:** 1.83x
+- **Peak:** 1.91x | **Current:** 1.36x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -159,7 +168,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.22x | **Current:** 1.98x
+- **Peak:** 2.22x | **Current:** 1.99x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

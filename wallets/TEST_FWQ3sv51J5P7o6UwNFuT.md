@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FWQ3sv51J5P7o6UwNFuT612HUG2CitRT8AJTtWS6Qs5G`
-> Generated: 2026-03-17 07:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 Institute
-- **Status:** open | **Exit:** open
-- **Peak:** 1.96x | **Current:** 1.91x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.15x | **Current:** 2.13x
 - **Mint:** `2nQwUkoTdywEgFGVixy13xYdBAwJT6HhxoBuSd4wpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 05:07:00 | BUY | 0.000100 | `4UDsS8adjqSFwoK9t3GyeCMwC2vgk7...` |
+| 2026-03-17 07:01:16 | SELL | 0.000020 | `5tSm1TBegYnocdVQyuNXnxoVfoyfqv...` |
 
 ### 🟢 MRNIGGER
 - **Status:** open | **Exit:** open
