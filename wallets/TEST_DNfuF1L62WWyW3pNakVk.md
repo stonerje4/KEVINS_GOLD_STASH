@@ -1,4 +1,4 @@
-# [TEST] Wallet: `8ExfhudvYXtTkJwGsCunsbqX4CEWwUrU7TVzKSu1hYgY`
+# [TEST] Wallet: `DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm`
 > Generated: 2026-03-17 00:59 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 C-3PO
+### 🟢 OLAF
 - **Status:** open | **Exit:** open
-- **Peak:** 1.88x | **Current:** 0.74x
-- **Mint:** `Bx9j8xxt7C84kXsb5BFaWAfzhj72APgc2zX3Ka7Dpump`
+- **Peak:** 1.48x | **Current:** 1.43x
+- **Mint:** `84DXfFNRhgNMPb58fjduBg6JNj3xcaGKzQSEEFSnP3MN`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-17 00:50:57 | BUY | 0.000100 | `i3NuwA6VSbE7TRneM9Yud74wBu8zmV...` |
+| 2026-03-17 00:56:08 | BUY | 0.000100 | `sdroWG2Gh6cb3JSfR4UeheMntomx34...` |
 

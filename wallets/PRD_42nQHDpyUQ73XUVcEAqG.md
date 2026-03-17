@@ -1,5 +1,5 @@
-# [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
+# [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
+> Generated: 2026-03-17 00:59 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Bill
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 1.18x
+- **Peak:** 1.84x | **Current:** 1.14x
 - **Mint:** `61aJAgdhgt1ypMWmcLSCEe1ADoiYkcMYNHDZZudnpump`
 
 | Time | Action | SOL | TX |

@@ -1,18 +1,27 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-17 00:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:59 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 3 |
+| Total Positions | 9 |
+| Open | 4 |
 | Closed | 5 |
 | W/L | 4/1 |
 | SOL In (closed) | 0.002000 |
 | **Closed P&L** | **+0.000960 SOL** |
 | **Closed ROI** | **+48.0%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
+
+### 🟢 CSEC
+- **Status:** open | **Exit:** open
+- **Peak:** 1.06x | **Current:** 1.06x
+- **Mint:** `A47JBHAugnH496Af5jgUQQQs89DPs6EFHRaoxGjipump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:58:19 | BUY | 0.000100 | `Dz1qwP6p8vCRsPMuGD6Hbbnv8VQnZa...` |
 
 ### 🟢 Solitude
 - **Status:** open | **Exit:** open

@@ -1,18 +1,27 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-17 00:55 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:59 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 44 |
-| Open | 2 |
+| Total Positions | 45 |
+| Open | 3 |
 | Closed | 42 |
 | W/L | 4/38 |
 | SOL In (closed) | 4.960000 |
 | **Closed P&L** | **-1.507602 SOL** |
 | **Closed ROI** | **-30.4%** |
-| Open Deployed | 0.300000 SOL |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
+
+### 🟢 REESE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.07x | **Current:** 0.00x
+- **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:58:43 | BUY | 0.150000 | `4muXZmNZNbempscWULAtdLvGPWdqiP...` |
 
 ### 🟢 COW
 - **Status:** open | **Exit:** open
