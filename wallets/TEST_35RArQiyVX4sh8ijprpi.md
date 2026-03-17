@@ -1,18 +1,27 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 01:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 4 |
+| Total Positions | 9 |
+| Open | 5 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000900 |
 | **Closed P&L** | **+0.000368 SOL** |
 | **Closed ROI** | **+40.9%** |
-| Open Deployed | 0.000400 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
+
+### 🟢 HOLD
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.90x
+- **Mint:** `SPVPDaVfyDKqse6t5N6QwFtp3Va7jfAh9fjd8Rwpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:03:46 | BUY | 0.000100 | `2BqJ3ktTokx8e8iuoQoU4H6K3a42Zz...` |
 
 ### 🔴 TRENCHERIA
 - **Status:** closed | **Exit:** stop_loss
@@ -26,7 +35,7 @@
 
 ### 🟢 FPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 1.20x
+- **Peak:** 1.39x | **Current:** 1.17x
 - **Mint:** `EuqzwYKEVZ2Ci24qjoMwu6sDdrJ7ZSqwEyg4cF2ppump`
 
 | Time | Action | SOL | TX |
@@ -35,7 +44,7 @@
 
 ### 🟢 CLAWDIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.82x
+- **Peak:** 1.13x | **Current:** 1.07x
 - **Mint:** `2yDL2okKMtkxtSomVWVfr6Y8JDBuidRX3e4Qx8hBBAGS`
 
 | Time | Action | SOL | TX |

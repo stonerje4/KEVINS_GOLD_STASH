@@ -1,4 +1,4 @@
-# [TEST] Wallet: `DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm`
+# [TEST] Wallet: `CT8wxJuPjSYzkXpFGPSEJKVWuNNgVCyjdjsNwhcUg7cy`
 > Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 OLAF
+### 🟢 ZBCNP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 1.32x
-- **Mint:** `84DXfFNRhgNMPb58fjduBg6JNj3xcaGKzQSEEFSnP3MN`
+- **Peak:** 1.03x | **Current:** 1.03x
+- **Mint:** `6K5cfi2Ma3vnyjmC3dj5mtorbonuxD7z9N7r76aNpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-17 00:56:08 | BUY | 0.000100 | `sdroWG2Gh6cb3JSfR4UeheMntomx34...` |
+| 2026-03-17 01:03:11 | BUY | 0.000100 | `SEmQNhU8JgHg5ck2mNtmpeyZDqhzd4...` |
 

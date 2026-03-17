@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 01:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.37x | **Current:** 3.21x
+- **Peak:** 3.38x | **Current:** 3.38x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -367,7 +367,7 @@
 
 ### 🟢 tokens
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.59x
+- **Peak:** 1.80x | **Current:** 0.58x
 - **Mint:** `66XSbdgMgdd8dPoj1fDp1m1M8sax2135J18tbNofpump`
 
 | Time | Action | SOL | TX |
@@ -1504,7 +1504,7 @@
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.25x
+- **Peak:** 1.69x | **Current:** 1.19x
 - **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
 
 | Time | Action | SOL | TX |
@@ -2055,7 +2055,7 @@
 
 ### 🟢 DRONE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.75x | **Current:** 2.75x
+- **Peak:** 2.75x | **Current:** 2.60x
 - **Mint:** `GBmawmE9jJvyYVbdgTdYi9NXsjWwR5EaytvkrRwcpump`
 
 | Time | Action | SOL | TX |

@@ -1,4 +1,4 @@
-# [TEST] Wallet: `DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm`
+# [TEST] Wallet: `45J68KxLV4izQXbY64gJr8YP4jfxGSvHFQwoDfBGxFg9`
 > Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 OLAF
+### 🟢 NEURIX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 1.32x
-- **Mint:** `84DXfFNRhgNMPb58fjduBg6JNj3xcaGKzQSEEFSnP3MN`
+- **Peak:** 1.00x | **Current:** 0.93x
+- **Mint:** `Hrpq2D2YHzaYMUNNAt37TnHyQKRv5CSjvGWWRViHpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-17 00:56:08 | BUY | 0.000100 | `sdroWG2Gh6cb3JSfR4UeheMntomx34...` |
+| 2026-03-17 01:02:59 | BUY | 0.000100 | `2am7MvuQ6dKoNE6D4mrLfaymPLNUWY...` |
 

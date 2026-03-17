@@ -1,22 +1,32 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 01:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 105 |
-| Open | 21 |
+| Total Positions | 106 |
+| Open | 22 |
 | Closed | 84 |
 | W/L | 83/1 |
 | SOL In (closed) | 0.036400 |
 | **Closed P&L** | **+0.030519 SOL** |
 | **Closed ROI** | **+83.8%** |
-| Open Deployed | 0.003600 SOL |
+| Open Deployed | 0.003700 SOL |
 
 ## Trades
 
+### 🟢 JOHN
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.83x | **Current:** 2.83x
+- **Mint:** `8cz9qb2dQwey2Q6ajNkiR5mPiiVFoexhmnZ8w64Cpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:01:08 | BUY | 0.000100 | `5e2XEKSU4tWrKuiDXRvZ6FUcuyhvNa...` |
+| 2026-03-17 01:04:43 | SELL | 0.000028 | `4FArPBVgRnefCqkgjtsv5ChYxyoArT...` |
+
 ### 🟢 ChingChong
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 1.13x
+- **Peak:** 1.55x | **Current:** 1.19x
 - **Mint:** `4bN7NHQs1TQ7pfCi576oJGXLsZA3AybDR9TXjUDcpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +35,7 @@
 
 ### 🟢 ST. PIPPIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.60x | **Current:** 0.58x
+- **Peak:** 1.60x | **Current:** 0.55x
 - **Mint:** `D88W9fiFMLWgzjWe3sPfqsirn3wZgaiJm2opN5YNpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +53,7 @@
 
 ### 🟢 Monke
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.27x
+- **Peak:** 1.59x | **Current:** 1.59x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
