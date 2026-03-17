@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:20 UTC** | 7d | 1385 buys, 1899 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:25 UTC** | 7d | 1391 buys, 1902 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:24 | 💰 SELL | KENNY | 0.0000 | EaEf6TH8... | TP3 | `4oFfhfgHuBnd...` |
+| 03-17 | 15:23 | 🔴 SELL | ARTERIA | 0.0001 | otq3sTTS... | trail | `4D3EYaKu2QxB...` |
+| 03-17 | 15:22 | 🟢 BUY | DUNGBEETLE | 0.0001 | 5w2o5TZt... | copy_buy | `5BXPMYomsFz8...` |
+| 03-17 | 15:21 | 🟢 BUY | Unicode | 0.0001 | FzMeg6P2... | copy_buy | `3i92YG8bSmZF...` |
+| 03-17 | 15:21 | 🟢 BUY | Jason | 0.0001 | FoHJUYTh... | copy_buy | `3nwo8vcQTAXg...` |
+| 03-17 | 15:21 | 🟢 BUY | IQ | 0.0001 | cqakon1K... | copy_buy | `63U3NPKi2ZKa...` |
+| 03-17 | 15:20 | 🟢 BUY | YUKIE | 0.0001 | FoHJUYTh... | copy_buy | `48MvGdoopK2F...` |
+| 03-17 | 15:20 | 💰 SELL | ARTERIA | 0.0000 | otq3sTTS... | TP1 | `24LBfQaiDtr2...` |
+| 03-17 | 15:20 | 🟢 BUY | 忍者 | 0.0001 | FoHJUYTh... | copy_buy | `55ULNSTt4jkW...` |
 | 03-17 | 15:18 | 🟢 BUY | ARTERIA | 0.0001 | otq3sTTS... | copy_buy | `2341UpMXtFLq...` |
 | 03-17 | 15:18 | 💰 SELL | JOEKENT | 0.0000 | EaEf6TH8... | TP2 | `4fDzX1iHAH9Q...` |
 | 03-17 | 15:17 | 🟢 BUY | 󠀠 | 0.0001 | AJ8Gc1cY... | copy_buy | `4TsbWKVivGwB...` |
