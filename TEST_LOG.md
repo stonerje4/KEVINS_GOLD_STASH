@@ -1,8 +1,23 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:10 UTC** | 7d | 1486 buys, 1977 sells | In: **0.48** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 17:15 UTC** | 7d | 1495 buys, 1983 sells | In: **0.48** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:14 | 🔴 SELL | Solana | 0.0000 | FzMeg6P2... | trail | `4h6KV2gABqCr...` |
+| 03-17 | 17:14 | 🟢 BUY | NEMOTRON | 0.0001 | 87nWQxQv... | copy_buy | `rWHXi4rQgyeb...` |
+| 03-17 | 17:14 | 🟢 BUY | STOIC | 0.0001 | bocsoUiM... | copy_buy | `MMC1FTSqmBW7...` |
+| 03-17 | 17:14 | 🟢 BUY | LMG | 0.0001 | 6E4897rJ... | copy_buy | `hGh33eoAZRQT...` |
+| 03-17 | 17:14 | 🔴 SELL | ALON | 0.0000 | 44yBNPRV... | SL | `5YDcTYc3Zgrq...` |
+| 03-17 | 17:13 | 🟢 BUY | Sandcat | 0.0001 | 6qTPHgnS... | copy_buy | `2FRLzGUu4BEK...` |
+| 03-17 | 17:13 | 🔴 SELL | thinker | 0.0000 | EaEf6TH8... | SL | `3wMQytZwcPWi...` |
+| 03-17 | 17:13 | 💰 SELL | SaintAlon | 0.0001 | 42nQHDpy... | TP2 | `w82mLQg8brzo...` |
+| 03-17 | 17:12 | 🟢 BUY | CPUEDGE | 0.0001 | bocsoUiM... | copy_buy | `3n1zBfCKp5ar...` |
+| 03-17 | 17:12 | 💰 SELL | Solana | 0.0001 | FzMeg6P2... | TP2 | `4hJv7zNyjPGZ...` |
+| 03-17 | 17:12 | 🟢 BUY | SAGENT | 0.0001 | bocsoUiM... | copy_buy | `3dJYBJBrQqCY...` |
+| 03-17 | 17:12 | 🟢 BUY | FTR | 0.0001 | A4azQqrp... | copy_buy | `4wW6Ro8HTFft...` |
+| 03-17 | 17:11 | 🟢 BUY | BROKE | 0.0001 | EaEf6TH8... | copy_buy | `3AiBRVKyfNBo...` |
+| 03-17 | 17:11 | 💰 SELL | Solana | 0.0001 | FzMeg6P2... | TP1 | `2aQxj1pis1fx...` |
+| 03-17 | 17:10 | 🟢 BUY | BONKLESS | 0.0001 | EaEf6TH8... | copy_buy | `4cNx8YfjX6fo...` |
 | 03-17 | 17:10 | 🔴 SELL | Freedom | 0.0000 | 42nQHDpy... | SL | `56mrZTHMRYAV...` |
 | 03-17 | 17:09 | 🔴 SELL | Solana | 0.0000 | 8Exfhudv... | SL | `4LYkfzzdbv8f...` |
 | 03-17 | 17:09 | 💰 SELL | Leprechaun | 0.0001 | otq3sTTS... | trail | `5J2SYLFng7c9...` |

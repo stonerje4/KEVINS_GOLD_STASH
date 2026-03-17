@@ -1,12 +1,12 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-17 17:10 UTC | **25** pos | **3W/20L** | P&L: **+0.001386 SOL** (+36.5%) | 2 open
+> 2026-03-17 17:15 UTC | **25** pos | **3W/20L** | P&L: **+0.001386 SOL** (+36.5%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SCANNEX | 03-17 17:04 | 0.85x | 1.00x | 0.1h | 0.0001 |
-| SaintAlon | 03-17 16:49 | 2.19x | 2.82x | 0.3h | 0.0001 |
+| SCANNEX | 03-17 17:04 | 0.79x | 1.00x | 0.2h | 0.0001 |
+| SaintAlon | 03-17 16:49 | 3.33x | 3.41x | 0.4h | 0.0001 |
 
 ## Closed
 
@@ -40,6 +40,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:13 | SaintAlon | SELL | 0.0001 | `w82mLQg8brzoqigD...` |
 | 03-17 17:10 | Freedom | SELL | 0.0000 | `56mrZTHMRYAVTPre...` |
 | 03-17 17:04 | SCANNEX | BUY | 0.0001 | `2VJEckHKCHBfHzLQ...` |
 | 03-17 17:01 | Freedom | BUY | 0.0001 | `4UxFXEdNRMRZD24e...` |

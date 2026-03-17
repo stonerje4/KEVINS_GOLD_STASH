@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 17:10 UTC** | 7d | 711 buys, 949 sells | In: **85.78** | Out: **81.04** | Net: **-4.74 SOL**
+> Updated: **2026-03-17 17:15 UTC** | 7d | 713 buys, 949 sells | In: **86.08** | Out: **81.12** | Net: **-4.96 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:14 | 🟢 BUY | Sandcat | 0.1500 | 6qTPHgnS... | copy | `3LVLPRJuLHQM...` |
+| 03-17 | 17:12 | 💰 SELL | SaintAlon | 0.1129 | 42nQHDpy... | TP2 | `3TcUorFfyYka...` |
+| 03-17 | 17:12 | 🟢 BUY | Clover | 0.1500 | BGGJhxGX... | copy | `28RA3q7bkwGT...` |
 | 03-17 | 17:09 | 🔴 SELL | Freedom | 0.0467 | 42nQHDpy... | SL | `2KJ69gKXzwSG...` |
 | 03-17 | 17:09 | 🟢 BUY | Atlas | 0.1500 | J5jm7BnB... | copy | `qQhyttAdDXS5...` |
 | 03-17 | 17:06 | 🔴 SELL | RETRO | 0.0807 | 5n593DWQ... | stale | `23ir4jokiHUy...` |
@@ -1662,4 +1665,3 @@
 | 03-10 | 17:51 | 💰 SELL | SPACE | 0.0507 | 9rb2ChEj... | TP1 | `5D65eMtEgfsm...` |
 | 03-10 | 17:33 | 💰 SELL | Gerald | 0.0955 | HMM6RoT2... | trail | `5Fk3mhDn3X86...` |
 | 03-10 | 17:25 | 🟢 BUY | FHOUSE | 0.0500 | gAd5gDX6... | copy | `g4tgNh4TSf4p...` |
-| 03-10 | 17:14 | 💰 SELL | creature | 0.0309 | HMM6RoT2... | TP2 | `4tG4QT7aC9VR...` |

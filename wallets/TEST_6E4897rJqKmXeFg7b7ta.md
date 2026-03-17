@@ -1,11 +1,12 @@
 # [TEST] `6E4897rJqKmXeFg7...`
-> 2026-03-17 17:10 UTC | **9** pos | **0W/7L** | P&L: **-0.000489 SOL** (-40.8%) | 2 open
+> 2026-03-17 17:15 UTC | **10** pos | **0W/7L** | P&L: **-0.000489 SOL** (-40.8%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| LUCKY | 03-17 17:01 | 0.55x | 1.73x | 0.1h | 0.0001 |
+| LMG | 03-17 17:14 | 1.06x | 1.06x | 0.0h | 0.0001 |
+| LUCKY | 03-17 17:01 | 0.55x | 1.73x | 0.2h | 0.0001 |
 | BBX | 03-17 13:36 | 1.46x | 1.51x | 3.6h | 0.0001 |
 
 ## Closed
@@ -24,6 +25,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:14 | LMG | BUY | 0.0001 | `hGh33eoAZRQTgDCK...` |
 | 03-17 17:01 | LUCKY | BUY | 0.0001 | `3WX7VxT8nj8wFnHY...` |
 | 03-17 16:36 | PHOUSE | SELL | 0.0000 | `3m34z4yRAhmiYhwK...` |
 | 03-17 16:29 | Frontier | SELL | 0.0000 | `3UqaTKhPLjVsDyu4...` |

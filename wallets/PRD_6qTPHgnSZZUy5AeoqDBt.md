@@ -1,5 +1,11 @@
 # [PRD] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-17 17:10 UTC | **16** pos | **6W/10L** | P&L: **-0.303122 SOL** (-12.6%) | 0 open
+> 2026-03-17 17:15 UTC | **17** pos | **6W/10L** | P&L: **-0.303122 SOL** (-12.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Sandcat | 03-17 17:14 | 0.00x | 1.02x | 0.0h | 0.1500 |
 
 ## Closed
 
@@ -26,6 +32,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:14 | Sandcat | BUY | 0.1500 | `3LVLPRJuLHQMPdGX...` |
 | 03-17 16:20 | HEISEI | SELL | 0.0593 | `2ZVeJhiDStPttt6g...` |
 | 03-17 15:57 | HEISEI | SELL | 0.0345 | `2DYifkC9dLG2Nd7w...` |
 | 03-17 15:57 | HEISEI | BUY | 0.1500 | `4ZsSd4rpwYPH15Kk...` |

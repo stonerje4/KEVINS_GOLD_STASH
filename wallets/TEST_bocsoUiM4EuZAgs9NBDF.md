@@ -1,5 +1,13 @@
 # [TEST] `bocsoUiM4EuZAgs9...`
-> 2026-03-17 17:10 UTC | **33** pos | **1W/32L** | P&L: **-0.003028 SOL** (-91.7%) | 0 open
+> 2026-03-17 17:15 UTC | **36** pos | **1W/32L** | P&L: **-0.003028 SOL** (-91.7%) | 3 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| STOIC | 03-17 17:14 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| CPUEDGE | 03-17 17:12 | 0.94x | 1.00x | 0.0h | 0.0001 |
+| SAGENT | 03-17 17:12 | 1.00x | 1.12x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -43,6 +51,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:14 | STOIC | BUY | 0.0001 | `MMC1FTSqmBW7fkpz...` |
+| 03-17 17:12 | CPUEDGE | BUY | 0.0001 | `3n1zBfCKp5arZhiZ...` |
+| 03-17 17:12 | SAGENT | BUY | 0.0001 | `3dJYBJBrQqCYLKVJ...` |
 | 03-17 03:46 | Gany | BUY | 0.0001 | `5G6rWNNB6wygqHbf...` |
 | 03-17 01:34 | TRASHBAG | BUY | 0.0001 | `2dxDo52YJfmP3ecW...` |
 | 03-17 01:19 | BDH | SELL | 0.0001 | `2wvq6R64ZFqozefM...` |
