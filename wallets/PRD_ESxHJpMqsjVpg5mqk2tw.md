@@ -1,5 +1,5 @@
 # [PRD] `ESxHJpMqsjVpg5mq...`
-> 2026-03-17 20:40 UTC | **4** pos | **0W/4L** | P&L: **-0.157032 SOL** (-78.5%) | 0 open
+> 2026-03-17 20:45 UTC | **4** pos | **0W/4L** | P&L: **-0.157032 SOL** (-78.5%) | 0 open
 
 ## Closed
 
@@ -14,9 +14,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-16 19:13 | USDPT | SELL | 0.0050 | `?` |
 | 03-16 19:13 | MISSLE | SELL | 0.0050 | `?` |
 | 03-16 19:13 | UXR | SELL | 0.0050 | `?` |
-| 03-16 19:13 | USDPT | SELL | 0.0050 | `?` |
 | 03-11 00:40 | SOIL | SELL | 0.0280 | `4cKUL5fsgJDq7wjA...` |
 | 03-10 14:18 | USDPT | BUY | 0.0500 | `4AQipUcyiBD8YiAD...` |
 | 03-10 14:13 | SOIL | BUY | 0.0500 | `4KxmYhWHevDjabFW...` |

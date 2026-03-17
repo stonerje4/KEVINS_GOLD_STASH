@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 20:40 UTC** | 7d | 747 buys, 979 sells | In: **92.18** | Out: **84.69** | Net: **-7.49 SOL**
+> Updated: **2026-03-17 20:45 UTC** | 7d | 747 buys, 980 sells | In: **92.28** | Out: **84.75** | Net: **-7.53 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:44 | 🟢 BUY | STONED | 0.1500 | 3HGqppv8... | copy | `5FtCa5TBrC8t...` |
+| 03-17 | 20:41 | 🔴 SELL | ? | 0.0586 | 2w85VLX4... | SL | `Kn1j5DRBLEW9...` |
 | 03-17 | 20:36 | 🟢 BUY | LCM | 0.1500 | 42nQHDpy... | copy | `5f3P1Xr779et...` |
 | 03-17 | 20:34 | 🔴 SELL | INSECURE | 0.0489 | 3HGqppv8... | SL | `23vDBYRq2CrR...` |
 | 03-17 | 20:33 | 🟢 BUY | EAM | 0.1500 | J5jm7BnB... | copy | `5KDZrEN8QWRa...` |
@@ -1728,4 +1730,3 @@
 | 03-10 | 20:59 | 💰 SELL | Cardboard | 0.0511 | 7aMgK5L4... | tp_10x_trim | `5ibpHJVUVsb2...` |
 | 03-10 | 20:54 | 💰 SELL | Cardboard | 0.0418 | 7aMgK5L4... | tp_8x_trim | `2Q64QE9fMD5b...` |
 | 03-10 | 20:51 | 🟢 BUY | PVP | 0.0500 | 5vweNikg... | copy | `5wBWuL4kQjw3...` |
-| 03-10 | 20:43 | 🟢 BUY | UXR | 0.0500 | 5vweNikg... | copy | `3aVkMy4Eg3hs...` |

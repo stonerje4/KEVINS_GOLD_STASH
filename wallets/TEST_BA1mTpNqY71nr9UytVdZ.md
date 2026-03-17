@@ -1,5 +1,11 @@
 # [TEST] `BA1mTpNqY71nr9Uy...`
-> 2026-03-17 20:40 UTC | **6** pos | **0W/6L** | P&L: **-0.001173 SOL** (-45.1%) | 0 open
+> 2026-03-17 20:45 UTC | **7** pos | **0W/6L** | P&L: **-0.001173 SOL** (-45.1%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| VULTURE | 03-17 20:44 | 1.05x | 1.05x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -16,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 20:44 | VULTURE | BUY | 0.0001 | `4W62zi7ze55Pu12A...` |
 | 03-17 07:27 | Nourish | SELL | 0.0000 | `2rKnYqSeiPhLAvwR...` |
 | 03-17 07:22 | Nourish | BUY | 0.0001 | `57f2FCKr8vTmz14N...` |
 | 03-17 06:01 | SLOWDENG | BUY | 0.0001 | `232QdnCtqMGREj1u...` |

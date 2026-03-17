@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:40 UTC** | 7d | 1675 buys, 2112 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:45 UTC** | 7d | 1677 buys, 2114 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:44 | 🟢 BUY | VULTURE | 0.0001 | BA1mTpNq... | copy_buy | `4W62zi7ze55P...` |
+| 03-17 | 20:43 | 🟢 BUY | SWM | 0.0001 | GHy1P6vJ... | copy_buy | `3d8tgeSZkgA6...` |
+| 03-17 | 20:43 | 🔴 SELL | Dilyn | 0.0001 | EaEf6TH8... | trail | `2Lzt39SfqKAd...` |
+| 03-17 | 20:40 | 💰 SELL | LUCKYDOGE | 0.0001 | 35RArQiy... | TP2 | `4o7tidt5EHfZ...` |
 | 03-17 | 20:38 | 💰 SELL | TSG | 0.0001 | 35RArQiy... | TP1 | `4AV5gw1p7zMr...` |
 | 03-17 | 20:37 | 🔴 SELL | SLAPP | 0.0000 | E5sZTG93... | SL | `7GXo6PDarG2Z...` |
 | 03-17 | 20:37 | 💰 SELL | LUCKYDOGE | 0.0001 | 35RArQiy... | TP1 | `5fWHkHmbzzbx...` |
