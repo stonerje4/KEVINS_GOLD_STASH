@@ -1,5 +1,5 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 07:25 UTC | Environment: **PRD**
+> Generated: 2026-03-17 07:30 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 AHAHA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 1.47x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.01x | **Current:** 2.01x
 - **Mint:** `62E3NcnnACUmmTFat1aQzkSJ4Mhy2YUExKV8EHLopump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:21:39 | BUY | 0.000100 | `h61vGaVYQXkTXgv1LuVSfghiKzieAm...` |
+| 2026-03-17 07:29:54 | SELL | 0.000020 | `66oke8VBUt75GwDTe4c7Uv12VZz9PT...` |
 
 ### 🟢 OKARA
 - **Status:** closed | **Exit:** runner_trailing_stop

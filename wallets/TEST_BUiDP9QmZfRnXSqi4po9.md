@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj`
-> Generated: 2026-03-17 07:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
-| Open | 0 |
+| Total Positions | 2 |
+| Open | 1 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000600 |
 | **Closed P&L** | **+0.000378 SOL** |
 | **Closed ROI** | **+63.0%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 AFC
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.79x
+- **Mint:** `EyhEfJKSj2QC7pbFYrV2tptNZMgcMNUgXGc4J8Jfpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:28:16 | BUY | 0.000100 | `4jPUbonHUo9BMf42Dhx4iSxoutTVub...` |
 
 ### 🔴 SHIT
 - **Status:** closed | **Exit:** ghost_close_stop_loss

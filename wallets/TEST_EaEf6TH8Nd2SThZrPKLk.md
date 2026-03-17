@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 07:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,17 +15,18 @@
 ## Trades
 
 ### 🟢 FP
-- **Status:** open | **Exit:** open
-- **Peak:** 1.72x | **Current:** 1.72x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.01x | **Current:** 1.76x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:18:21 | BUY | 0.000100 | `MHTG2RX5WS6VVoyLUAVSecJSwjexCJ...` |
+| 2026-03-17 07:25:37 | SELL | 0.000020 | `58jzwJGrJtccJRvsAWTzqEHURfj5rJ...` |
 
 ### 🟢 TIKI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.47x
+- **Peak:** 1.00x | **Current:** 0.45x
 - **Mint:** `23CNu7k565sWWzQQ8DdwapuFuCbPCxGYpucLjt1opump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +45,7 @@
 
 ### 🟢 ARTEMIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.01x
+- **Peak:** 1.12x | **Current:** 1.00x
 - **Mint:** `5Yy9zyQpZLeyVUJ2f49XQpKGgGabEtx8PZHueDtHpump`
 
 | Time | Action | SOL | TX |
@@ -72,7 +73,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.02x | **Current:** 1.52x
+- **Peak:** 2.02x | **Current:** 1.43x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -165,7 +166,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.59x | **Current:** 4.28x
+- **Peak:** 4.59x | **Current:** 4.29x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |

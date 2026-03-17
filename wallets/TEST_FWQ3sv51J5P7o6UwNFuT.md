@@ -1,22 +1,31 @@
 # [TEST] Wallet: `FWQ3sv51J5P7o6UwNFuT612HUG2CitRT8AJTtWS6Qs5G`
-> Generated: 2026-03-17 07:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 3 |
+| Total Positions | 4 |
+| Open | 4 |
 | Closed | 0 |
 | W/L | 0/0 |
 | SOL In (closed) | 0.000000 |
 | **Closed P&L** | **+0.000000 SOL** |
 | **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
+### 🟢 CANDACE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.43x | **Current:** 1.11x
+- **Mint:** `378dvnxhKxWh8DvRwHdeKjKE7LAaaxEKoP2USR7apump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:27:44 | BUY | 0.000100 | `5ZAt8uFBQJo3vL9eHex7B423dDqdor...` |
+
 ### 🟢 Institute
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.24x | **Current:** 2.07x
+- **Peak:** 2.24x | **Current:** 2.06x
 - **Mint:** `2nQwUkoTdywEgFGVixy13xYdBAwJT6HhxoBuSd4wpump`
 
 | Time | Action | SOL | TX |

@@ -1,27 +1,28 @@
 # [TEST] Wallet: `BA1mTpNqY71nr9UytVdZiV5L36sZZccmkYtd5d5hThGo`
-> Generated: 2026-03-17 07:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 2 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.002400 |
-| **Closed P&L** | **+0.001387 SOL** |
-| **Closed ROI** | **+57.8%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.002500 |
+| **Closed P&L** | **+0.001427 SOL** |
+| **Closed ROI** | **+57.1%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 Nourish
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.60x
+### 🔴 Nourish
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.40x
 - **Mint:** `DzxwGgi6rFXDmKk3VC4wCZmU25s1xBSmXMN7imuEpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:22:49 | BUY | 0.000100 | `57f2FCKr8vTmz14NvpztZULR41jKsy...` |
+| 2026-03-17 07:27:43 | SELL | 0.000040 | `2rKnYqSeiPhLAvwR65G6acc5qHPXy6...` |
 
 ### 🟢 SLOWDENG
 - **Status:** open | **Exit:** open
