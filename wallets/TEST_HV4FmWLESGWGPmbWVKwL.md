@@ -1,5 +1,5 @@
 # [TEST] Wallet: `HV4FmWLESGWGPmbWVKwLxYUPxrTusiSDYm5b2P8jCrks`
-> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,13 +16,14 @@
 
 ### 🟢 Gany
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.48x | **Current:** 2.21x
+- **Peak:** 3.07x | **Current:** 2.29x
 - **Mint:** `Dz4bX3snTDxqdKyZwdUgKoDvSjyvmoA23E6j5odZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 03:15:03 | BUY | 0.000100 | `2Xb8DZ6dk1djmP5X2j9VzqYR5ZCd6e...` |
 | 2026-03-17 03:21:20 | SELL | 0.000025 | `efMmDu7Y6mw4BSDY5UJtf8oHp33P1L...` |
+| 2026-03-17 03:26:05 | SELL | 0.000028 | `2AZ58c8UBvadKdTbzvotzRT3pTHCLf...` |
 
 ### 🔴 Realization
 - **Status:** closed | **Exit:** ghost_close_stop_loss

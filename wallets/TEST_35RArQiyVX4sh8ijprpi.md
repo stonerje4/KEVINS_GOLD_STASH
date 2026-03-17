@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -45,7 +45,7 @@
 
 ### 🟢 FPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.01x
+- **Peak:** 1.41x | **Current:** 0.97x
 - **Mint:** `EuqzwYKEVZ2Ci24qjoMwu6sDdrJ7ZSqwEyg4cF2ppump`
 
 | Time | Action | SOL | TX |

@@ -1,18 +1,28 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 13 |
+| Total Positions | 14 |
 | Open | 9 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.000900 |
-| **Closed P&L** | **+0.000736 SOL** |
-| **Closed ROI** | **+81.7%** |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.001000 |
+| **Closed P&L** | **+0.000768 SOL** |
+| **Closed ROI** | **+76.8%** |
 | Open Deployed | 0.001400 SOL |
 
 ## Trades
+
+### 🔴 BULKING
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.33x
+- **Mint:** `B3CBaRyiXMzovkMPABeF5k6tvHv8VfBF7RY1vqtwpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:27:22 | BUY | 0.000100 | `4uLSjozxN8ifK1rh3SKv8fWi4u8Egj...` |
+| 2026-03-17 03:28:21 | SELL | 0.000033 | `4a7e9L1yGwYctbH2R9pd9Eq5hAEmqj...` |
 
 ### 🟢 NEMOCLAW
 - **Status:** open | **Exit:** open
@@ -25,7 +35,7 @@
 
 ### 🟢 Gany
 - **Status:** partial | **Exit:** open
-- **Peak:** 63.45x | **Current:** 48.92x
+- **Peak:** 63.45x | **Current:** 48.52x
 - **Mint:** `BgtczEGgf9mZMcGBLi4J5Pn8PtmFy6Xz5uBKkMfspump`
 
 | Time | Action | SOL | TX |

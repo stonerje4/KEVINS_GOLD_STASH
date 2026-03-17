@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 BITCOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 0.45x
+- **Peak:** 1.17x | **Current:** 1.06x
 - **Mint:** `GoiXEGSrUBCZhQH1d3cGaZ1TXtPWgdtx1fCcxS76pump`
 
 | Time | Action | SOL | TX |
@@ -36,13 +36,14 @@
 
 ### 🟢 Hyojo
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.84x | **Current:** 2.51x
+- **Peak:** 4.92x | **Current:** 4.92x
 - **Mint:** `HfKNrf3VFYSzZfG3jS4pQEfjkHTxAwmD4wm1FUx8pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:24:01 | BUY | 0.000100 | `5BtgGucELpzU89DTBy4A2bMnZUSMwf...` |
 | 2026-03-17 02:40:52 | SELL | 0.000023 | `48pkHcracV1t2tcwyP1qeTEBiVjgvA...` |
+| 2026-03-17 03:25:22 | SELL | 0.000028 | `2o5kGpVa6aAFh5HoEsZzmikTLNKkkf...` |
 
 ### 🟢 grokette
 - **Status:** open | **Exit:** open

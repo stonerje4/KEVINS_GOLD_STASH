@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.74x
+- **Peak:** 1.16x | **Current:** 0.86x
 - **Mint:** `3sTL4vmP4HiWb2LRC2eC6gSjnWPSco81wTWyTMZfpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 AOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.02x
+- **Peak:** 1.28x | **Current:** 0.95x
 - **Mint:** `Fvhet3ekzXRyjqwAX6zWUosJGP3SH3Ga1vpFTdULpump`
 
 | Time | Action | SOL | TX |
@@ -115,7 +115,7 @@
 
 ### 🟢 ARAMCO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 1.48x
+- **Peak:** 1.57x | **Current:** 1.25x
 - **Mint:** `5sZacjEPnUwfXqRsaJgP1w4iEWkTN9hv7Vmd6tcCpump`
 
 | Time | Action | SOL | TX |
