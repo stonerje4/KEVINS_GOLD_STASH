@@ -1,11 +1,12 @@
 # [TEST] `ETHhoTiKGRacGPLx...`
-> 2026-03-17 23:35 UTC | **3** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 1 open
+> 2026-03-17 23:40 UTC | **4** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| AITMPL | 03-17 23:11 | 0.99x | 1.00x | 0.4h | 0.0001 |
+| USOR/SOL | 03-17 23:35 | 0.99x | 1.00x | 0.1h | 0.0001 |
+| AITMPL | 03-17 23:11 | 0.99x | 1.00x | 0.5h | 0.0001 |
 
 ## Closed
 
@@ -18,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 23:35 | USOR/SOL | BUY | 0.0001 | `4H1FFWhQYXBsTvY4...` |
 | 03-17 23:11 | AITMPL | BUY | 0.0001 | `KHvPFdgHp1kDmHg5...` |
 | 03-17 03:38 | BBX | BUY | 0.0001 | `3mtQDzjrQPurQiab...` |
 | 03-16 23:30 | 401k | BUY | 0.0001 | `28T1wSHLLXYrjguN...` |
