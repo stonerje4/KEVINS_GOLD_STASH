@@ -1,28 +1,29 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 02:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 41 |
-| Open | 4 |
-| Closed | 37 |
-| W/L | 33/4 |
-| SOL In (closed) | 0.014700 |
-| **Closed P&L** | **+0.010120 SOL** |
-| **Closed ROI** | **+68.8%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 38 |
+| W/L | 34/4 |
+| SOL In (closed) | 0.014800 |
+| **Closed P&L** | **+0.010217 SOL** |
+| **Closed ROI** | **+69.0%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
-### 🟢 Life
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.18x | **Current:** 1.08x
+### 🔴 Life
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.18x | **Current:** 0.83x
 - **Mint:** `2BrfhwBxvgup7iUnKcfoWuZSbHbcTzsZJsVqeuB4pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:50:48 | BUY | 0.000100 | `HAdz76fkPNx6K18jPKxTwMbaKgAMhJ...` |
 | 2026-03-17 02:01:33 | SELL | 0.000022 | `62afRwS9BQeSYEsTokVe2zihw6wDmP...` |
+| 2026-03-17 02:12:02 | SELL | 0.000075 | `5CY2G6MsujTGKdgjtpN2jGaCiyA2Uw...` |
 
 ### 🔴 ZHGENT
 - **Status:** closed | **Exit:** stop_loss

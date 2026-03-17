@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 02:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Hamster
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 0.87x
+- **Peak:** 1.34x | **Current:** 0.89x
 - **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
 
 | Time | Action | SOL | TX |
@@ -45,13 +45,14 @@
 
 ### 🟢 MATER
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.21x | **Current:** 1.89x
+- **Peak:** 3.52x | **Current:** 3.00x
 - **Mint:** `EXnczaT51NvfGQUdYmZ6Fm4zRW9Ttyrk9YrCLLGkpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:15:21 | BUY | 0.000100 | `4mVfKt2GbzBAKuFQaBzRdXCRP5gmvC...` |
 | 2026-03-17 01:47:11 | SELL | 0.000020 | `2V1wDTfQpPM7xEwsydH4sR1wGzEEdv...` |
+| 2026-03-17 02:13:42 | SELL | 0.000032 | `5DiehFyQhjns9WTRXSApdJgDZ2kn4y...` |
 
 ### 🔴 chance
 - **Status:** closed | **Exit:** runner_trailing_stop

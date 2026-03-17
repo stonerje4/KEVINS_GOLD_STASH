@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CT8wxJuPjSYzkXpFGPSEJKVWuNNgVCyjdjsNwhcUg7cy`
-> Generated: 2026-03-17 02:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ZHC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.38x | **Current:** 1.32x
+- **Peak:** 1.54x | **Current:** 0.63x
 - **Mint:** `59gRGWRtZ4nvz3m9svFqyp5ye4N99XGUVD99zc6Mpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Statuette
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.64x
 - **Mint:** `83A2JRr5QyDnvUx21mkMcFrtmGccNvcSvC3LrZtLpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 YoungHo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 0.87x
+- **Peak:** 1.22x | **Current:** 0.82x
 - **Mint:** `6k89E7gpz1pCQWjRQ2YRU8Gv8qXdoWdywmNWu9thpump`
 
 | Time | Action | SOL | TX |
