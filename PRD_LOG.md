@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 15:00 UTC** | 7d | 689 buys, 935 sells | In: **81.58** | Out: **79.64** | Net: **-1.94 SOL**
+> Updated: **2026-03-17 15:05 UTC** | 7d | 692 buys, 936 sells | In: **82.03** | Out: **79.67** | Net: **-2.36 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:04 | 🟢 BUY | Guinness | 0.1500 | CZjxED3u... | copy | `GkZLwRqYuMvp...` |
+| 03-17 | 15:01 | 🔴 SELL | DLSSELON | 0.0243 | 42nQHDpy... | trail | `3pDPQ34gMMGV...` |
+| 03-17 | 15:01 | 🟢 BUY | Mossad | 0.1500 | EFmDSnRb... | copy | `557DjzjuieWv...` |
+| 03-17 | 15:01 | 🟢 BUY | genny | 0.1500 | 42nQHDpy... | copy | `62XtLEcFsBfg...` |
 | 03-17 | 14:57 | 🟢 BUY | SIRIUX | 0.1500 | 42nQHDpy... | copy | `pXgh9ng9iMqH...` |
 | 03-17 | 14:53 | 💰 SELL | Dozer | 0.0308 | AcWGZE1Q... | TP1 | `4m99wKHZmfHB...` |
 | 03-17 | 14:49 | 🟢 BUY | TOKEN | 0.1500 | 2w85VLX4... | copy | `mPNYGboynZJs...` |

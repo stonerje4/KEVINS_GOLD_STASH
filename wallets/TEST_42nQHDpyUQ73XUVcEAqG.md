@@ -1,16 +1,11 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-17 15:00 UTC | **21** pos | **2W/18L** | P&L: **+0.001535 SOL** (+43.9%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| DLSSELON | 03-17 13:59 | 6.61x | 6.61x | 1.0h | 0.0001 |
+> 2026-03-17 15:05 UTC | **21** pos | **3W/18L** | P&L: **+0.001539 SOL** (+42.7%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ✅ DLSSELON | +0.0000 | 03-17 13:59 | 6.6x | 03-17 15:02 | 0.0001/0.0001 | trail |
 | ❌ Jorge | -0.0001 | 03-17 12:18 | 1.9x | 03-17 13:12 | 0.0000/0.0001 | SL |
 | ❌ Green | -0.0001 | 03-17 09:30 | 1.0x | 03-17 09:34 | 0.0000/0.0001 | gc_SL |
 | ❌ Chester  | -0.0001 | 03-17 08:42 | 1.9x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -36,6 +31,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:02 | DLSSELON | SELL | 0.0000 | `4ZZFLVHqFdntbuQm...` |
 | 03-17 14:41 | DLSSELON | SELL | 0.0000 | `39t9XcvUKcmKW9SC...` |
 | 03-17 14:17 | DLSSELON | SELL | 0.0000 | `5DNGXz2zeY9ezByn...` |
 | 03-17 14:13 | DLSSELON | SELL | 0.0000 | `22RJVtgfqWCixvU5...` |

@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:00 UTC** | 7d | 1375 buys, 1890 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:05 UTC** | 7d | 1377 buys, 1895 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:04 | 💰 SELL | TRUST | 0.0015 | AJ8Gc1cY... | trail | `29hLgSwYuWSr...` |
+| 03-17 | 15:03 | 🔴 SELL | 🦎 | 0.0000 | EaEf6TH8... | trail | `3m9MUVV6E1jn...` |
+| 03-17 | 15:03 | 💰 SELL | PVE | 0.0001 | BBBByrLH... | trail | `4SvtCZFBUrW4...` |
+| 03-17 | 15:02 | 🔴 SELL | DLSSELON | 0.0000 | 42nQHDpy... | trail | `4ZZFLVHqFdnt...` |
+| 03-17 | 15:01 | 🟢 BUY | RAFA | 0.0001 | HWbeENL8... | copy_buy | `4nercNbzKJJG...` |
+| 03-17 | 15:01 | 🟢 BUY | Guinness | 0.0001 | BBBByrLH... | copy_buy | `Dev4gaZjx6z7...` |
+| 03-17 | 15:00 | 🔴 SELL | GUINNES | 0.0000 | BBBByrLH... | SL | `3ngEYEaA3Go8...` |
 | 03-17 | 15:00 | 🟢 BUY | Disney | 0.0001 | otq3sTTS... | copy_buy | `3zQF9xR94WCN...` |
 | 03-17 | 14:59 | 🟢 BUY | Guinness | 0.0001 | FoHJUYTh... | copy_buy | `3dx2jgZonKkk...` |
 | 03-17 | 14:58 | 🟢 BUY | CODED | 0.0001 | FoHJUYTh... | copy_buy | `2RUd6DfzxNKU...` |

@@ -1,16 +1,16 @@
-# [TEST] `HLLBMegPLpdFqZ9u...`
+# [PRD] `EFmDSnRbFCHkUz3z...`
 > 2026-03-17 15:05 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DLSS5 | 03-17 13:13 | 0.85x | 1.00x | 1.9h | 0.0001 |
+| Mossad | 03-17 15:01 | 0.00x | 1.19x | 0.1h | 0.1500 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-17 13:13 | DLSS5 | BUY | 0.0001 | `2PqPMu7TnSGf9zhR...` |
+| 03-17 15:01 | Mossad | BUY | 0.1500 | `557DjzjuieWvEK3q...` |
 
 </details>

@@ -1,5 +1,11 @@
 # [TEST] `HWbeENL8BQ4WEx8r...`
-> 2026-03-17 15:00 UTC | **2** pos | **1W/1L** | P&L: **-0.000014 SOL** (-7.0%) | 0 open
+> 2026-03-17 15:05 UTC | **3** pos | **1W/1L** | P&L: **-0.000014 SOL** (-7.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| RAFA | 03-17 15:01 | 0.89x | 1.00x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:01 | RAFA | BUY | 0.0001 | `4nercNbzKJJGQS3W...` |
 | 03-17 00:23 | CRINE | BUY | 0.0001 | `BPpr18yZmHehrTZx...` |
 | 03-16 16:40 | 1SOL | SELL | 0.0001 | `2f86qJPMtAK3ckEp...` |
 | 03-16 16:18 | 1SOL | SELL | 0.0000 | `5tkBR4MiffQkHcG9...` |
