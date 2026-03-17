@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:55 UTC** | 7d | 1543 buys, 2019 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 18:00 UTC** | 7d | 1545 buys, 2022 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:59 | 💰 SELL | happened | 0.0001 | BpxZNCi8... | TP2 | `5s2SqoNKXAbh...` |
+| 03-17 | 17:56 | 🟢 BUY | ASCEND | 0.0001 | 35RArQiy... | copy_buy | `347MbgioDALh...` |
+| 03-17 | 17:56 | 💰 SELL | happened | 0.0001 | BpxZNCi8... | TP1 | `3JQUeVXho6cV...` |
+| 03-17 | 17:56 | 💰 SELL | Newscum | 0.0001 | 9G4ytadk... | trail | `39gr2oeXNxaB...` |
+| 03-17 | 17:55 | 🟢 BUY | NVIDIA | 0.0001 | GHy1P6vJ... | copy_buy | `4na46WPvqp9P...` |
 | 03-17 | 17:54 | 💰 SELL | POW | 0.0001 | EaEf6TH8... | trail | `3YeCN4aAtvTp...` |
 | 03-17 | 17:53 | 💰 SELL | POW | 0.0000 | EaEf6TH8... | TP3 | `5J5wGYCVg3ck...` |
 | 03-17 | 17:53 | 🔴 SELL | BONKLESS | 0.0000 | EaEf6TH8... | SL | `iqs48ATqCVGi...` |

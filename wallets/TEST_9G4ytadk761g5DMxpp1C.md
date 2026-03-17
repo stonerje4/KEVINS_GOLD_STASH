@@ -1,18 +1,24 @@
 # [TEST] `9G4ytadk761g5DMx...`
-> 2026-03-17 17:55 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
+> 2026-03-17 18:00 UTC | **3** pos | **1W/0L** | P&L: **+0.000089 SOL** (+89.4%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| MFG | 03-17 16:22 | 0.55x | 1.32x | 1.5h | 0.0001 |
-| Newscum | 03-17 16:11 | 2.14x | 4.73x | 1.7h | 0.0001 |
-| omg | 03-17 13:40 | 0.82x | 1.00x | 4.2h | 0.0001 |
+| MFG | 03-17 16:22 | 0.56x | 1.32x | 1.6h | 0.0001 |
+| omg | 03-17 13:40 | 0.82x | 1.00x | 4.3h | 0.0001 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ Newscum | +0.0001 | 03-17 16:11 | 4.7x | 03-17 17:56 | 0.0002/0.0001 | trail |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:56 | Newscum | SELL | 0.0001 | `39gr2oeXNxaB9ef9...` |
 | 03-17 16:45 | Newscum | SELL | 0.0001 | `2tFo769qKxtPFZRj...` |
 | 03-17 16:41 | Newscum | SELL | 0.0001 | `4gfiYyA2aPYzvt3u...` |
 | 03-17 16:22 | MFG | BUY | 0.0001 | `2nJfvv3hP3JmKCwm...` |
