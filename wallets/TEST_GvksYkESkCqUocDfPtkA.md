@@ -1,5 +1,11 @@
 # [TEST] `GvksYkESkCqUocDf...`
-> 2026-03-17 22:20 UTC | **2** pos | **1W/1L** | P&L: **-0.000001 SOL** (-0.6%) | 0 open
+> 2026-03-17 22:25 UTC | **3** pos | **1W/1L** | P&L: **-0.000001 SOL** (-0.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| SENEGAL | 03-17 22:24 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:24 | SENEGAL | BUY | 0.0001 | `3L6okMbhGCQ4wWGf...` |
 | 03-17 19:59 | SMUDGE | SELL | 0.0000 | `5Lba9GtTWsbcqAQ8...` |
 | 03-17 19:54 | PHIL | SELL | 0.0001 | `4zicj9PU81VseWUS...` |
 | 03-17 19:44 | PHIL | SELL | 0.0001 | `5ttJfAdUTVANVquH...` |

@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:20 UTC** | 7d | 1744 buys, 2180 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:25 UTC** | 7d | 1748 buys, 2181 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:24 | 🟢 BUY | SENEGAL | 0.0001 | GvksYkES... | copy_buy | `3L6okMbhGCQ4...` |
+| 03-17 | 22:23 | 🟢 BUY | Senegal | 0.0001 | BBBByrLH... | copy_buy | `4gGeohrSHkcH...` |
+| 03-17 | 22:23 | 🟢 BUY | DOGEETO | 0.0001 | Hc4AA7vE... | copy_buy | `4pu8H7vX1QQK...` |
+| 03-17 | 22:21 | 💰 SELL | flipper | 0.0001 | AiNfNi2e... | TP1 | `cgTXxgezBQh1...` |
+| 03-17 | 22:20 | 🟢 BUY | Lilly | 0.0001 | otq3sTTS... | copy_buy | `3QC46bzVwfBS...` |
 | 03-17 | 22:18 | 🔴 SELL | Springfield | 0.0000 | HV4FmWLE... | SL | `3qbusGESfa7P...` |
 | 03-17 | 22:18 | 💰 SELL | YOU | 0.0001 | 99XWMUAM... | TP2 | `65Hc39NpJgiT...` |
 | 03-17 | 22:17 | 💰 SELL | Solanass | 0.0001 | GRnCsBLj... | TP1 | `4Z5R69zjjTzo...` |
