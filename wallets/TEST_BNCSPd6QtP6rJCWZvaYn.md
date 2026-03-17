@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-17 11:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 BRACKET
 - **Status:** open | **Exit:** open
-- **Peak:** 1.44x | **Current:** 0.81x
+- **Peak:** 1.44x | **Current:** 0.82x
 - **Mint:** `DENiaWdNvd3qNjs4zaub5JyTmiw5uYuHPbBdJzwUpump`
 
 | Time | Action | SOL | TX |

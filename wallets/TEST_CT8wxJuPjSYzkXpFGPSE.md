@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CT8wxJuPjSYzkXpFGPSEJKVWuNNgVCyjdjsNwhcUg7cy`
-> Generated: 2026-03-17 11:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -36,7 +36,7 @@
 
 ### 🟢 Statuette
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.50x
+- **Peak:** 1.00x | **Current:** 0.47x
 - **Mint:** `83A2JRr5QyDnvUx21mkMcFrtmGccNvcSvC3LrZtLpump`
 
 | Time | Action | SOL | TX |

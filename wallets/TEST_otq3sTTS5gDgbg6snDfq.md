@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 11:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -88,7 +88,7 @@
 
 ### 🟢 goldfish
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.91x
+- **Peak:** 1.04x | **Current:** 0.90x
 - **Mint:** `8f8u3MCAZU3cLoKWyqJkaEKRHC2XmhoQDSBpBMynpump`
 
 | Time | Action | SOL | TX |
@@ -178,7 +178,7 @@
 
 ### 🟢 Don Tzu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.76x | **Current:** 0.98x
+- **Peak:** 1.76x | **Current:** 0.88x
 - **Mint:** `59VtFUYQ1qsxho2bF72xvt9BuSLkxZzCi4GXkKXEpump`
 
 | Time | Action | SOL | TX |
