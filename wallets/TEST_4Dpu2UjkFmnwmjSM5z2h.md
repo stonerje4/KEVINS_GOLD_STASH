@@ -1,10 +1,10 @@
 # [TEST] Wallet: `4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G`
-> Generated: 2026-03-17 09:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### ⚪ Bowhead
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `HopfGbkd9ru44hpDAPnii58ziYcfnqwKcz2pKmoepump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:32:10 | BUY | 0.000100 | `ohe1ht816mrj2n2iyuNkeLGFtowMDj...` |
 
 ### 🟢 MINDLESS
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -28,7 +37,7 @@
 
 ### 🟢 forg
 - **Status:** open | **Exit:** open
-- **Peak:** 1.96x | **Current:** 1.60x
+- **Peak:** 1.96x | **Current:** 1.46x
 - **Mint:** `G4QRtYNRPyxdKwcAqqW3xSeEynDDxEyRvrDT9FJEpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-17 09:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -48,7 +48,7 @@
 
 ### 🟢 Superagent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.47x
+- **Peak:** 1.26x | **Current:** 0.46x
 - **Mint:** `HP17Vmciep1XwGZRTC1jdV1Rb8K7nvQqngMwSU3Fpump`
 
 | Time | Action | SOL | TX |

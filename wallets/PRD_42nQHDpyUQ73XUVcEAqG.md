@@ -1,22 +1,31 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 09:30 UTC | Environment: **PRD**
+> Generated: 2026-03-17 09:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 18 |
+| Total Positions | 19 |
 | Open | 7 |
-| Closed | 11 |
-| W/L | 11/0 |
-| SOL In (closed) | 0.002600 |
+| Closed | 12 |
+| W/L | 11/1 |
+| SOL In (closed) | 0.002700 |
 | **Closed P&L** | **+0.004877 SOL** |
-| **Closed ROI** | **+187.6%** |
+| **Closed ROI** | **+180.6%** |
 | Open Deployed | 0.000600 SOL |
 
 ## Trades
 
+### 🔴 Green
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.40x
+- **Mint:** `7jTLH7HqcWZnzy17QFUYUjuDRp2psi9XuBmVKUGTpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:30:45 | BUY | 0.000100 | `5xuM2sAgfnejLKexf5QG7VRHwWnhia...` |
+
 ### 🟢 Chester 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.88x | **Current:** 0.99x
+- **Peak:** 1.88x | **Current:** 1.04x
 - **Mint:** `E7t1Mp9kUHBuN92M4euXqQdmqMFD9t3GRZp3xLu9pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 AHAHA
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.23x | **Current:** 1.48x
+- **Peak:** 2.23x | **Current:** 1.44x
 - **Mint:** `62E3NcnnACUmmTFat1aQzkSJ4Mhy2YUExKV8EHLopump`
 
 | Time | Action | SOL | TX |
@@ -59,7 +68,7 @@
 
 ### 🟢 SYNTHRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.99x
+- **Peak:** 1.24x | **Current:** 0.95x
 - **Mint:** `64smUjiG5wzHSYbZzbB8EVL6zsnUC5KPRCA3UCrApump`
 
 | Time | Action | SOL | TX |

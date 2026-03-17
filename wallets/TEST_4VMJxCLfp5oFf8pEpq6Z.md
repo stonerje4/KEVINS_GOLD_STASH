@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-17 09:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Pistachio
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.81x
+- **Peak:** 1.08x | **Current:** 0.78x
 - **Mint:** `9vAfgrGHccFBHrcUKWSB93wUvtqC5r4wbFux2GP2pump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 Skull
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 0.99x
+- **Peak:** 1.86x | **Current:** 0.98x
 - **Mint:** `JA5zpFxTvyiXXhynuShUEtUZJ33AYS7NjSHnbUKApump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 OSCAR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.63x
+- **Peak:** 1.04x | **Current:** 0.64x
 - **Mint:** `3d2rHsvxhQEGX9M9GLNtbLrRRoEgMMbYZP79wmSdpump`
 
 | Time | Action | SOL | TX |
