@@ -1,16 +1,16 @@
 # [PRD] Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
-> Generated: 2026-03-17 08:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 08:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 36 |
-| Open | 1 |
-| Closed | 35 |
-| W/L | 9/26 |
-| SOL In (closed) | 3.780000 |
-| **Closed P&L** | **-0.341064 SOL** |
-| **Closed ROI** | **-9.0%** |
-| Open Deployed | 0.150000 SOL |
+| Open | 0 |
+| Closed | 36 |
+| W/L | 9/27 |
+| SOL In (closed) | 3.930000 |
+| **Closed P&L** | **-0.405801 SOL** |
+| **Closed ROI** | **-10.3%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
@@ -46,14 +46,15 @@
 | 2026-03-16 19:37:35 | BUY | 0.150000 | `5pXDbVxKUe54e1MX6XyonQyuk91sm5...` |
 | 2026-03-16 20:16:26 | SELL | 0.059436 | `4vJHUsy6M8KWXV3JKcC9M1SxpnZ3Ak...` |
 
-### 🟢 CC
-- **Status:** open | **Exit:** open
+### 🔴 CC
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.17x | **Current:** 0.00x
 - **Mint:** `HfM5v5vZYq2ipADnYacBVZSLAw65ePVZ8MUBA5kpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 19:02:17 | BUY | 0.150000 | `4yRkCTiX4Z3cJ6iMmvN5gSvW6gsPtn...` |
+| 2026-03-17 08:48:55 | SELL | 0.085263 | `3MFzYnxnzUjgqHakkoozh87BNJophK...` |
 
 ### 🔴 REDHEAD
 - **Status:** closed | **Exit:** stale_position_cleanup

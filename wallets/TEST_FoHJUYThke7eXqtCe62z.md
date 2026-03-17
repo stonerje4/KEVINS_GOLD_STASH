@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 08:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 MAFD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.45x | **Current:** 1.45x
+- **Peak:** 1.63x | **Current:** 1.63x
 - **Mint:** `DAchqAckFvQjDiQHM27uYXe61Wx4823vSZvpmY5vpump`
 
 | Time | Action | SOL | TX |
@@ -233,7 +233,7 @@
 
 ### 🟢 AngelPsy
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.94x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `EPR2fNwinHNik3e1MDobJoK51jydXgyZaRNvuWsopump`
 
 | Time | Action | SOL | TX |

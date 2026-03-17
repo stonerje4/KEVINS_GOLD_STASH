@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 08:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 1.88x
+- **Peak:** 3.16x | **Current:** 1.86x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1008,7 +1008,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.74x
+- **Peak:** 1.80x | **Current:** 0.71x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -1676,7 +1676,7 @@
 
 ### 🟢 Wooper
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `EJYZgNhLjei8p2nSbpdAocreSfF2KTn6BPvQYeFwpump`
 
 | Time | Action | SOL | TX |

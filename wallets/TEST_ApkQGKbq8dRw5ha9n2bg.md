@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 08:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 LAZY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 1.04x
+- **Peak:** 1.31x | **Current:** 0.41x
 - **Mint:** `EkepxDYmu4Znpj4PJr7yC96kQmG2FWyFE4aeYTtZpump`
 
 | Time | Action | SOL | TX |

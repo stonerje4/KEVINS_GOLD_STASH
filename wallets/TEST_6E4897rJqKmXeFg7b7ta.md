@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6E4897rJqKmXeFg7b7tagZZan2PqokzdkBc59o4tEDur`
-> Generated: 2026-03-17 08:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ANGELA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.79x
+- **Peak:** 1.04x | **Current:** 0.55x
 - **Mint:** `3Y7qT7op83eTkjHkmBCNE8EYbGC68mr5Vv9hvDVcpump`
 
 | Time | Action | SOL | TX |

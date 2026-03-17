@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj`
-> Generated: 2026-03-17 08:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,17 @@
 ## Trades
 
 ### 🟢 AFC
-- **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.49x
+- **Status:** partial | **Exit:** stop_loss
+- **Peak:** 1.23x | **Current:** 0.36x
 - **Mint:** `EyhEfJKSj2QC7pbFYrV2tptNZMgcMNUgXGc4J8Jfpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:28:16 | BUY | 0.000100 | `4jPUbonHUo9BMf42Dhx4iSxoutTVub...` |
+| 2026-03-17 08:45:22 | SELL | 0.000037 | `58pjszUcyS5QCEDVuVqYc9drvKRLGh...` |
+| 2026-03-17 08:46:33 | SELL | 0.000000 | `kNviXEacjdqxqBrhFAeG9pspmkajtD...` |
+| 2026-03-17 08:47:41 | SELL | 0.000000 | `3QdhpYgnCmDjQ4QT6myW9o4CAA11Cc...` |
+| 2026-03-17 08:48:54 | SELL | 0.000000 | `55rCdwgg5cHZfE8Cz6Nb7dRr5KBEfn...` |
 
 ### 🔴 SHIT
 - **Status:** closed | **Exit:** ghost_close_stop_loss

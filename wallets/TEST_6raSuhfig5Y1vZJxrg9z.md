@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 08:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 NOVA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.05x
+- **Peak:** 1.07x | **Current:** 0.98x
 - **Mint:** `4PbaN57B9ggth6yDEzZBhXKLqiDfiCKeD4NY6j9sjTJ8`
 
 | Time | Action | SOL | TX |
