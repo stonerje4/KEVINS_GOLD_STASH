@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:25 UTC** | 7d | 1346 buys, 1868 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:30 UTC** | 7d | 1347 buys, 1871 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:28 | 💰 SELL | CLAW3D | 0.0000 | E79aNzAk... | TP3 | `dWjmHpqVcxe2...` |
+| 03-17 | 14:28 | 🟢 BUY | MyClaw3D | 0.0001 | AJ8Gc1cY... | copy_buy | `85fPS14b46Cx...` |
+| 03-17 | 14:26 | 🔴 SELL | Yoyo  | 0.0000 | 35RArQiy... | SL | `5nMUJsuaCC37...` |
+| 03-17 | 14:25 | 💰 SELL | L/0 | 0.0001 | EaEf6TH8... | trail | `4x39EAcqdxjB...` |
 | 03-17 | 14:23 | 🟢 BUY | pls | 0.0001 | GHy1P6vJ... | copy_buy | `4KJyqhbhFF9w...` |
 | 03-17 | 14:23 | 🟢 BUY | NIGHTWING | 0.0001 | GHy1P6vJ... | copy_buy | `BHm1eH5fuBWC...` |
 | 03-17 | 14:23 | 🟢 BUY | Scamcoin | 0.0001 | GGbGeDC9... | copy_buy | `4NFqtZwpQqUJ...` |

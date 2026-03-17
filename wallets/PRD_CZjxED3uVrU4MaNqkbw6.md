@@ -1,11 +1,11 @@
 # [PRD] `CZjxED3uVrU4MaNq...`
-> 2026-03-17 14:25 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 14:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BOE | 03-17 14:06 | 0.00x | 1.17x | 0.3h | 0.1500 |
+| BOE | 03-17 14:06 | 0.00x | 1.30x | 0.4h | 0.1500 |
 
 <details><summary>📋 Full Trade Log</summary>
 
