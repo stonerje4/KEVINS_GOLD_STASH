@@ -1,5 +1,11 @@
 # [TEST] `7EautDJGQDzgktoo...`
-> 2026-03-17 21:05 UTC | **5** pos | **1W/4L** | P&L: **-0.000389 SOL** (-77.8%) | 0 open
+> 2026-03-17 21:10 UTC | **6** pos | **1W/4L** | P&L: **-0.000389 SOL** (-77.8%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| TRUMPPEPE | 03-17 21:05 | 1.61x | 1.61x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -15,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:05 | TRUMPPEPE | BUY | 0.0001 | `3f26Yp97PmQfhc8y...` |
 | 03-17 20:22 | TRUST | BUY | 0.0001 | `3h5Ux1SdknCyqDzm...` |
 | 03-17 19:36 | TRUMP | SELL | 0.0000 | `4ZnjAzhUprVSVQq7...` |
 | 03-17 19:16 | TRUMP | SELL | 0.0001 | `4uT5NVjfVGT9y6bE...` |

@@ -1,12 +1,13 @@
 # [TEST] `9tv5mfwaQVsJQ6xg...`
-> 2026-03-17 21:05 UTC | **11** pos | **2W/7L** | P&L: **-0.000256 SOL** (-28.4%) | 2 open
+> 2026-03-17 21:10 UTC | **12** pos | **2W/7L** | P&L: **-0.000256 SOL** (-28.4%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Incel | 03-17 20:32 | 1.31x | 2.47x | 0.5h | 0.0001 |
-| JEETICIDE | 03-17 19:18 | 0.61x | 1.00x | 1.8h | 0.0001 |
+| Übermensch | 03-17 21:07 | 0.64x | 1.00x | 0.0h | 0.0001 |
+| Incel | 03-17 20:32 | 1.25x | 2.47x | 0.6h | 0.0001 |
+| JEETICIDE | 03-17 19:18 | 0.61x | 1.00x | 1.9h | 0.0001 |
 
 ## Closed
 
@@ -26,6 +27,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:07 | Übermensch | BUY | 0.0001 | `449DcsYAmt4AHa4C...` |
 | 03-17 20:34 | Incel | SELL | 0.0001 | `3CmQmDcwaEwEwwgg...` |
 | 03-17 20:32 | Incel | BUY | 0.0001 | `2nnDZoh7bCF7FYa6...` |
 | 03-17 20:32 | RETARDMAXXING | SELL | 0.0000 | `399CxeY1cpLXUAWQ...` |

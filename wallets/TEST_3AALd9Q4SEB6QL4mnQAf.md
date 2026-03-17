@@ -1,5 +1,11 @@
 # [TEST] `3AALd9Q4SEB6QL4m...`
-> 2026-03-17 21:05 UTC | **2** pos | **1W/1L** | P&L: **+0.000182 SOL** (+26.1%) | 0 open
+> 2026-03-17 21:10 UTC | **3** pos | **1W/1L** | P&L: **+0.000182 SOL** (+26.1%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| RYAN | 03-17 21:06 | 0.51x | 1.00x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:06 | RYAN | BUY | 0.0001 | `4jfB75uoFw7EXVNy...` |
 | 03-17 08:35 | NWR | BUY | 0.0001 | `4fqubvbzGAE9bpWs...` |
 | 03-16 12:54 | FOR | SELL | 0.0005 | `5bNAkiLP94zua1uB...` |
 | 03-16 12:41 | FOR | SELL | 0.0004 | `5egJQEeQBr7dsYAn...` |

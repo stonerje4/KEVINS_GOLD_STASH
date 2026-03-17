@@ -1,5 +1,11 @@
 # [TEST] `BDe7kU3VqgW2hYkj...`
-> 2026-03-17 21:05 UTC | **6** pos | **0W/6L** | P&L: **-0.000437 SOL** (-72.8%) | 0 open
+> 2026-03-17 21:10 UTC | **7** pos | **0W/6L** | P&L: **-0.000437 SOL** (-72.8%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| CASH | 03-17 21:10 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -16,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:10 | CASH | BUY | 0.0001 | `46aT9AtaRXzntpF6...` |
 | 03-17 20:56 | StElon | SELL | 0.0001 | `53x5cfUjVBXwxRwm...` |
 | 03-17 18:49 | 唐 | SELL | 0.0000 | `2hb51FnLsbQhw9S5...` |
 | 03-17 18:18 |  X Clones | SELL | 0.0000 | `3HMVETc84yutgovz...` |

@@ -1,8 +1,16 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 21:05 UTC** | 7d | 749 buys, 984 sells | In: **92.68** | Out: **85.19** | Net: **-7.49 SOL**
+> Updated: **2026-03-17 21:10 UTC** | 7d | 752 buys, 988 sells | In: **93.13** | Out: **85.55** | Net: **-7.58 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:09 | 🟢 BUY | BBX | 0.1500 | BGGJhxGX... | copy | `5hmpExWKK4dC...` |
+| 03-17 | 21:09 | 🟢 BUY | shit | 0.1500 | 3HGqppv8... | copy | `644MoQuyn3Dn...` |
+| 03-17 | 21:08 | 🔴 SELL | DUNGBEETLE | 0.0581 | 42nQHDpy... | SL | `5aLN52doc31c...` |
+| 03-17 | 21:06 | 🔴 SELL | Ruby | 0.0849 | 7aMgK5L4... | stale | `9S9FjaLGrjJx...` |
+| 03-17 | 21:06 | 🔴 SELL | BBX | 0.1485 | DHfshpzo... | stale | `4oCECWdHHAf9...` |
+| 03-17 | 21:06 | 💰 SELL | Rosei | 0.0799 | 42nQHDpy... | TP1 | `vEfDMHjURVGm...` |
+| 03-17 | 21:06 | 🟢 BUY | Daisy | 0.1500 | 5n593DWQ... | copy | `VaynDfggh8Lu...` |
+| 03-17 | 21:05 | 🔴 SELL | LCM | 0.0571 | 42nQHDpy... | SL | `24mpaMMygHhc...` |
 | 03-17 | 21:04 | 💰 SELL | genny | 0.1193 | 42nQHDpy... | TP2 | `2cGhCsBzX8BU...` |
 | 03-17 | 21:04 | 🟢 BUY | Rosei | 0.1500 | 42nQHDpy... | copy | `3YEhvu4PLQX7...` |
 | 03-17 | 21:01 | 🟢 BUY | Speak | 0.1500 | 2w85VLX4... | copy | `BjVw2ZWUSMoZ...` |
@@ -1735,4 +1743,3 @@
 | 03-10 | 21:47 | 🟢 BUY | Xork | 0.0500 | 9rb2ChEj... | copy | `3FfQiEWW8YaS...` |
 | 03-10 | 21:36 | 🔴 SELL | PH | 0.0190 | 9rb2ChEj... | SL | `5Ti2bPDce46Q...` |
 | 03-10 | 21:26 | 🟢 BUY | PH | 0.0500 | 9rb2ChEj... | copy | `VJqAgk3e1LuK...` |
-| 03-10 | 21:08 | 💰 SELL | Cardboard | 0.0759 | 7aMgK5L4... | tp_15x_trim | `5pumNUpzCEhA...` |

@@ -1,8 +1,21 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:05 UTC** | 7d | 1686 buys, 2125 sells | In: **0.50** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:10 UTC** | 7d | 1696 buys, 2128 sells | In: **0.50** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:10 | 🟢 BUY | CASH | 0.0001 | BDe7kU3V... | copy_buy | `46aT9AtaRXzn...` |
+| 03-17 | 21:09 | 🔴 SELL | vibecat | 0.0000 | APUYxGfK... | SL | `2pQqvqy6CoLP...` |
+| 03-17 | 21:08 | 🟢 BUY | MOS | 0.0001 | AJ8Gc1cY... | copy_buy | `5PcJn2mffST7...` |
+| 03-17 | 21:08 | 🟢 BUY | shit | 0.0001 | APUYxGfK... | copy_buy | `2t7NxPZphCNP...` |
+| 03-17 | 21:08 | 🔴 SELL | DUNGBEETLE | 0.0000 | 5w2o5TZt... | SL | `i9TapTq1ezos...` |
+| 03-17 | 21:08 | 🟢 BUY | Prometheus | 0.0001 | APUYxGfK... | copy_buy | `4AaPR9Ebw4tY...` |
+| 03-17 | 21:07 | 🟢 BUY | vibecat | 0.0001 | APUYxGfK... | copy_buy | `4KvcqHu8L6Bf...` |
+| 03-17 | 21:07 | 💰 SELL | GANYMEDE | 0.0001 | EaEf6TH8... | TP1 | `2Hnr7HmNGosv...` |
+| 03-17 | 21:07 | 🟢 BUY | Übermensch | 0.0001 | 9tv5mfwa... | copy_buy | `449DcsYAmt4A...` |
+| 03-17 | 21:06 | 🟢 BUY | POPSEAL | 0.0001 | APUYxGfK... | copy_buy | `5VsVwH38FnAf...` |
+| 03-17 | 21:06 | 🟢 BUY | RYAN | 0.0001 | 3AALd9Q4... | copy_buy | `4jfB75uoFw7E...` |
+| 03-17 | 21:05 | 🟢 BUY | Daisy | 0.0001 | BZmxuXQ6... | copy_buy | `4j6ftCT5Td9z...` |
+| 03-17 | 21:05 | 🟢 BUY | TRUMPPEPE | 0.0001 | 7EautDJG... | copy_buy | `3f26Yp97PmQf...` |
 | 03-17 | 21:03 | 🟢 BUY | estonarmy | 0.0001 | otq3sTTS... | copy_buy | `HKzLTPYzeaQh...` |
 | 03-17 | 21:02 | 🔴 SELL | IMPJAK | 0.0001 | GHy1P6vJ... | trail | `XFAKSwogMUjY...` |
 | 03-17 | 21:01 | 🟢 BUY | Speak | 0.0001 | HV4FmWLE... | copy_buy | `5GF1GCuvc4DB...` |
