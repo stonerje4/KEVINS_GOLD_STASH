@@ -1,5 +1,5 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-17 02:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 DonTzu
-- **Status:** open | **Exit:** open
-- **Peak:** 1.70x | **Current:** 0.00x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.21x | **Current:** 0.00x
 - **Mint:** `AxqRQ81GozbVPCYGerS8EfWoDcPXSEXtj3NUF2Wcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:43:42 | BUY | 0.150000 | `Xz5ajcFLjycZ61moMLVTC2ewt5DXSi...` |
+| 2026-03-17 02:45:47 | SELL | 0.030598 | `4JHQNLXgvpvDGwcSTfLExT1MRGY6NW...` |
 
 ### 🟢 Vance
 - **Status:** open | **Exit:** open

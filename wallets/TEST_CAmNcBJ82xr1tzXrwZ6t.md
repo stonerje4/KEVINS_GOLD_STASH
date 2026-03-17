@@ -1,27 +1,28 @@
 # [TEST] Wallet: `CAmNcBJ82xr1tzXrwZ6tZKwEFs26TG8kT6dJeR1bxjW9`
-> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 1 |
-| Closed | 4 |
-| W/L | 3/1 |
-| SOL In (closed) | 0.002400 |
-| **Closed P&L** | **+0.001048 SOL** |
-| **Closed ROI** | **+43.7%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 5 |
+| W/L | 4/1 |
+| SOL In (closed) | 0.002500 |
+| **Closed P&L** | **+0.001088 SOL** |
+| **Closed ROI** | **+43.5%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 FAGS
-- **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 0.60x
+### 🔴 FAGS
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.39x | **Current:** 0.39x
 - **Mint:** `BNKBcFSKVNYydwt5ti3UBfw2gX9CYnSkypEmSj8Fpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:16:22 | BUY | 0.000100 | `yjYDCKAs6jmhvQSG82vzYDZygw2LG4...` |
+| 2026-03-17 02:47:41 | SELL | 0.000039 | `96hZmUyonhbe1Yj6gq9Xwj9mzNxrwD...` |
 
 ### 🔴 Bald
 - **Status:** closed | **Exit:** ghost_close_stop_loss

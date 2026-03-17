@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,17 +15,22 @@
 ## Trades
 
 ### 🟢 Gany
-- **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.63x
+- **Status:** partial | **Exit:** open
+- **Peak:** 10.30x | **Current:** 8.54x
 - **Mint:** `BgtczEGgf9mZMcGBLi4J5Pn8PtmFy6Xz5uBKkMfspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:40:33 | BUY | 0.000100 | `25ukZACYYKwmLE5nmcMq1Z3qhLN9gM...` |
+| 2026-03-17 02:45:05 | SELL | 0.000032 | `5uz4yV9nAvj294pnsj8hGwBPdJk9QS...` |
+| 2026-03-17 02:45:43 | SELL | 0.000041 | `4w3mfAGd8uy34B8Gp4fmB611adACGE...` |
+| 2026-03-17 02:46:25 | SELL | 0.000051 | `3t1G33KFqybbCGDosLyM9eEvGi8hCa...` |
+| 2026-03-17 02:47:03 | SELL | 0.000061 | `JgcfcrRAPtq58jJZW3Ko1xU3SSDsfb...` |
+| 2026-03-17 02:48:23 | SELL | 0.000068 | `2K87S9wCWinob5d7uziSBV54Ugfdq8...` |
 
 ### 🟢 patrick 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.77x
+- **Peak:** 1.16x | **Current:** 0.71x
 - **Mint:** `CGJBLh4y224Xzzj16UcgkwNBVJjKFQRAqpaXc4tfpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +48,7 @@
 
 ### 🟢 POLYHUNT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 0.95x
+- **Peak:** 1.28x | **Current:** 0.94x
 - **Mint:** `3DcFuBtMgMJftX6djdQn4A6bG3hAPPbFMNr5zPs4pump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,11 +15,12 @@
 ## Trades
 
 ### 🟢 Qi
-- **Status:** open | **Exit:** open
-- **Peak:** 1.92x | **Current:** 1.73x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.42x | **Current:** 2.42x
 - **Mint:** `6D1hQ22C7oCUKKVuy91i8HTHnzSjsHCuNAcH9WH2pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:38:13 | BUY | 0.000100 | `3AmTyYmvhP7pQXn1fuEboeuRLZC7e2...` |
+| 2026-03-17 02:47:45 | SELL | 0.000022 | `mmMTwprL47DS4fRVHmehDrP6LixBvH...` |
 

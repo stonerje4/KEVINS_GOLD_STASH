@@ -1,5 +1,5 @@
 # [TEST] Wallet: `3VHz3MhvcbdxceVsUGz9Q4DNZLyS4RobbYjg1yXscES8`
-> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Glassworm
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.96x
+- **Peak:** 1.02x | **Current:** 0.87x
 - **Mint:** `8StvfubaLFiiqAhCxTdktmE3P32DG3fZzMJAJaXVpump`
 
 | Time | Action | SOL | TX |

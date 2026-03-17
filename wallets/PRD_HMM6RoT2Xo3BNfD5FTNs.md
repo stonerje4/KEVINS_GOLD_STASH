@@ -1,27 +1,28 @@
 # [PRD] Wallet: `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j`
-> Generated: 2026-03-17 02:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 31 |
-| Open | 1 |
-| Closed | 30 |
-| W/L | 6/24 |
-| SOL In (closed) | 2.820000 |
-| **Closed P&L** | **-0.505213 SOL** |
-| **Closed ROI** | **-17.9%** |
-| Open Deployed | 0.150000 SOL |
+| Open | 0 |
+| Closed | 31 |
+| W/L | 6/25 |
+| SOL In (closed) | 2.970000 |
+| **Closed P&L** | **-0.596517 SOL** |
+| **Closed ROI** | **-20.1%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 FAGS
-- **Status:** open | **Exit:** open
+### 🔴 FAGS
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.17x | **Current:** 0.00x
 - **Mint:** `BNKBcFSKVNYydwt5ti3UBfw2gX9CYnSkypEmSj8Fpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:08:43 | BUY | 0.150000 | `4R5CB6QqDMNS6HX9dioBDpjjmNgfCp...` |
+| 2026-03-17 02:45:54 | SELL | 0.058696 | `2oWKSjaUnPbyL6U48Mjnjt1e4DiiA8...` |
 
 ### 🔴 Fep
 - **Status:** closed | **Exit:** runner_trailing_stop

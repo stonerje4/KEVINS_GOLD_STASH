@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BGLw4MpMcGN7qJsJQBAFzfBudXgaUtnczFCxrrpCHq8P`
-> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 UNSW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.67x | **Current:** 0.65x
+- **Peak:** 1.67x | **Current:** 0.57x
 - **Mint:** `Fpckub6J1WMSJctyJJgsXVJcQbUXa4HsJbrF783Epump`
 
 | Time | Action | SOL | TX |
@@ -42,11 +42,12 @@
 | 2026-03-17 00:11:19 | BUY | 0.000100 | `4kU9PKexWQHdrbKfd4RUrxwQL4NSJo...` |
 
 ### 🟢 MiroFish
-- **Status:** open | **Exit:** open
-- **Peak:** 1.53x | **Current:** 1.39x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.03x | **Current:** 2.03x
 - **Mint:** `9vbovDf4rgasuPUw7CZDW8ekoJpo3R4SrohQK8aQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:28:29 | BUY | 0.000100 | `54Uvhqf9rkZZrvyaYfTUG1u8Luqihf...` |
+| 2026-03-17 02:49:36 | SELL | 0.000020 | `3PZLrhq2mUBaHAHbjKZRc6iCRxkCWr...` |
 

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `45J68KxLV4izQXbY64gJr8YP4jfxGSvHFQwoDfBGxFg9`
-> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 NEURIX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 1.00x
 - **Mint:** `Hrpq2D2YHzaYMUNNAt37TnHyQKRv5CSjvGWWRViHpump`
 
 | Time | Action | SOL | TX |
