@@ -1,5 +1,5 @@
 # [TEST] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 11:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -69,7 +69,7 @@
 
 ### 🟢 SYNTHRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.94x
+- **Peak:** 1.24x | **Current:** 0.93x
 - **Mint:** `64smUjiG5wzHSYbZzbB8EVL6zsnUC5KPRCA3UCrApump`
 
 | Time | Action | SOL | TX |
