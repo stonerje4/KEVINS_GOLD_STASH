@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 73 |
-| Open | 49 |
+| Total Positions | 74 |
+| Open | 50 |
 | Closed | 24 |
 | W/L | 13/11 |
 | SOL In (closed) | 0.021300 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+42.6%** |
-| Open Deployed | 0.018900 SOL |
+| Open Deployed | 0.019000 SOL |
 
 ## Trades
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.93x
+- **Mint:** `FkmaLRQgTePVmYXSWYmLyvYMwh2vijkwiGgrwwSjpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:28:20 | BUY | 0.000100 | `2CkxzNSmqoLgnuRaAuyUj98Kvoic8u...` |
 
 ### 🟢 AMNOO
 - **Status:** open | **Exit:** open
@@ -43,7 +52,7 @@
 
 ### 🟢 Mixer
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `2zHMQd7tyH7wtT6u1tSFdFmqXnxRGFMQ7eiMLnA7pump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +71,7 @@
 
 ### 🟢 Builderz
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `8SMkpgTDDthhKk594JZPbfVSDhY2rXFRq5XpHQDWpump`
 
 | Time | Action | SOL | TX |
@@ -200,7 +209,7 @@
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `DwkjZoNj6PmJ31PNky4GeMUH6je3rCC1BdgpyCSbpump`
 
 | Time | Action | SOL | TX |
@@ -408,7 +417,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.74x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |
@@ -512,7 +521,7 @@
 
 ### 🟢 METALHEADS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.92x
+- **Peak:** 1.12x | **Current:** 0.84x
 - **Mint:** `GpETVRSoR49Ez1hgpLsmX85DnEBiLvMyTfBDQdnkjkpQ`
 
 | Time | Action | SOL | TX |

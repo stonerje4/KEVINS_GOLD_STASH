@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -26,7 +26,7 @@
 
 ### 🟢 MATER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.81x | **Current:** 1.81x
+- **Peak:** 1.94x | **Current:** 1.46x
 - **Mint:** `EXnczaT51NvfGQUdYmZ6Fm4zRW9Ttyrk9YrCLLGkpump`
 
 | Time | Action | SOL | TX |

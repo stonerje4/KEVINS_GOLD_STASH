@@ -1,18 +1,36 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 108 |
-| Open | 23 |
+| Total Positions | 110 |
+| Open | 25 |
 | Closed | 85 |
 | W/L | 84/1 |
 | SOL In (closed) | 0.036500 |
 | **Closed P&L** | **+0.030605 SOL** |
 | **Closed ROI** | **+83.8%** |
-| Open Deployed | 0.003800 SOL |
+| Open Deployed | 0.003900 SOL |
 
 ## Trades
+
+### ⚪ LKY
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `Eqg6zM2M3xnkbhEbiqLAozPQuVgTi9bzJFWDtugqpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:29:58 | BUY | 0.000100 | `2qQSBmk1E9qxprwpr59C4hEWkxehAS...` |
+
+### 🟢 CHOPPER
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.58x
+- **Mint:** `2WpTMwM5VzQJHeTaVEbSMuuQJyZcH4Mrv8H3oDDfpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:26:23 | BUY | 0.000100 | `4DxponcjXfgvP8gW6RrKP2yz6DtdUb...` |
 
 ### 🟢 C64
 - **Status:** open | **Exit:** open
@@ -25,7 +43,7 @@
 
 ### 🟢 WAVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 1.16x
+- **Peak:** 1.25x | **Current:** 1.25x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -46,7 +64,7 @@
 
 ### 🟢 ChingChong
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 0.63x
+- **Peak:** 1.55x | **Current:** 0.60x
 - **Mint:** `4bN7NHQs1TQ7pfCi576oJGXLsZA3AybDR9TXjUDcpump`
 
 | Time | Action | SOL | TX |
@@ -73,7 +91,7 @@
 
 ### 🟢 Monke
 - **Status:** open | **Exit:** open
-- **Peak:** 1.88x | **Current:** 1.88x
+- **Peak:** 1.88x | **Current:** 1.65x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

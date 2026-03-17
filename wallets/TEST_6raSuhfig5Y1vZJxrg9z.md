@@ -1,18 +1,27 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 01:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 9 |
-| Open | 5 |
+| Total Positions | 10 |
+| Open | 6 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000900 |
 | **Closed P&L** | **+0.000736 SOL** |
 | **Closed ROI** | **+81.7%** |
-| Open Deployed | 0.001000 SOL |
+| Open Deployed | 0.001100 SOL |
 
 ## Trades
+
+### 🟢 BigT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.82x
+- **Mint:** `353eyoAqJRHqikST5GAYzhgchDU2TTk2mjPNNbSLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:27:01 | BUY | 0.000100 | `43f77BDprET9fZyZ8Uv6FmiHt1uLCd...` |
 
 ### 🟢 POLYHUNT
 - **Status:** open | **Exit:** open
