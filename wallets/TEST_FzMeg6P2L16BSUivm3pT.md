@@ -1,11 +1,11 @@
 # [TEST] `FzMeg6P2L16BSUiv...`
-> 2026-03-17 18:10 UTC | **19** pos | **3W/15L** | P&L: **-0.001643 SOL** (-58.7%) | 1 open
+> 2026-03-17 18:15 UTC | **19** pos | **3W/15L** | P&L: **-0.001643 SOL** (-58.7%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Thinker | 03-17 18:07 | 1.55x | 1.64x | 0.0h | 0.0001 |
+| Thinker | 03-17 18:07 | 1.26x | 2.21x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -34,6 +34,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 18:10 | Thinker | SELL | 0.0001 | `4uFx5Wofzf1S8ahT...` |
 | 03-17 18:07 | Thinker | BUY | 0.0001 | `57MT28dmpGRsEp35...` |
 | 03-17 18:02 | KUM | BUY | 0.0001 | `4xGRbqTsaCucv5wq...` |
 | 03-17 17:42 | DOODLIFY | BUY | 0.0001 | `2aVa7Cx9c8JBKyfS...` |

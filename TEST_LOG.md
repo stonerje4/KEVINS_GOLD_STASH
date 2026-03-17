@@ -1,8 +1,19 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 18:10 UTC** | 7d | 1553 buys, 2024 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 18:15 UTC** | 7d | 1559 buys, 2029 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:13 | 💰 SELL | clawchain | 0.0001 | GHy1P6vJ... | TP1 | `66UoaJKVDYh1...` |
+| 03-17 | 18:13 | 🟢 BUY | LKY | 0.0001 | 3VHz3Mhv... | copy_buy | `2a5GczQiPd2v...` |
+| 03-17 | 18:12 | 🟢 BUY | ANAN | 0.0001 | 2AkmfaxF... | copy_buy | `3TTiLAnuNJjW...` |
+| 03-17 | 18:12 | 🟢 BUY |  X Clones | 0.0001 | BDe7kU3V... | copy_buy | `AmvzK1n72wBQ...` |
+| 03-17 | 18:12 | 💰 SELL | MANPADS | 0.0001 | 35RArQiy... | TP1 | `5zvqXAnrXKTA...` |
+| 03-17 | 18:11 | 🟢 BUY | CrowdReply | 0.0001 | FoHJUYTh... | copy_buy | `5WRE3aHRmFBu...` |
+| 03-17 | 18:11 | 🔴 SELL | Momo-chan | 0.0000 | Lfw99jsE... | SL | `4yANbdZjJy37...` |
+| 03-17 | 18:11 | 💰 SELL | NEMOTRON | 0.0001 | 87nWQxQv... | TP1 | `5a11R56CVqyC...` |
+| 03-17 | 18:10 | 🟢 BUY | FTR | 0.0001 | 2AkmfaxF... | copy_buy | `46EeFRs6Se6T...` |
+| 03-17 | 18:10 | 💰 SELL | Thinker | 0.0001 | FzMeg6P2... | TP1 | `4uFx5Wofzf1S...` |
+| 03-17 | 18:10 | 🟢 BUY | MANPADS | 0.0001 | 35RArQiy... | copy_buy | `4Da9XE82pqgm...` |
 | 03-17 | 18:08 | 🟢 BUY | clawchain | 0.0001 | GHy1P6vJ... | copy_buy | `3uuEgbHXuhcN...` |
 | 03-17 | 18:07 | 🟢 BUY | Thinker | 0.0001 | FzMeg6P2... | copy_buy | `57MT28dmpGRs...` |
 | 03-17 | 18:06 | 🟢 BUY | DRAMA | 0.0001 | BGBC9kXr... | copy_buy | `59uopjhcxSx6...` |

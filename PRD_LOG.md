@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 18:10 UTC** | 7d | 723 buys, 955 sells | In: **87.88** | Out: **81.44** | Net: **-6.44 SOL**
+> Updated: **2026-03-17 18:15 UTC** | 7d | 722 buys, 956 sells | In: **87.83** | Out: **81.50** | Net: **-6.33 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:11 | 🔴 SELL | Momo-chan | 0.0590 | 42nQHDpy... | SL | `5aXxjsukmwrv...` |
 | 03-17 | 18:09 | 🟢 BUY | clawchain | 0.1500 | 42nQHDpy... | copy | `3SZwHyzABT8d...` |
 | 03-17 | 18:06 | 🔴 SELL | PHANTOM | 0.0625 | 9rb2ChEj... | stale | `4Hiqd75Hku3q...` |
 | 03-17 | 17:55 | 🟢 BUY | FGH | 0.1500 | 6qTPHgnS... | copy | `5kshZyQqNQd7...` |
@@ -1680,4 +1681,3 @@
 | 03-10 | 18:37 | 🟢 BUY | Gain | 0.0500 | 8QfqdUJt... | copy | `3pNmBsyi1fdb...` |
 | 03-10 | 18:26 | 🟢 BUY | Landslide | 0.0500 | 8QfqdUJt... | copy | `5CVC2RphUUSV...` |
 | 03-10 | 18:24 | 🔴 SELL | Pochita | 0.0179 | 7aMgK5L4... | SL | `w7C4VdujXKYY...` |
-| 03-10 | 18:14 | 🟢 BUY | Pochita | 0.0500 | 7aMgK5L4... | copy | `2gEibrTNwnNj...` |
