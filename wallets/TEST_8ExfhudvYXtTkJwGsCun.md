@@ -1,28 +1,29 @@
 # [TEST] Wallet: `8ExfhudvYXtTkJwGsCunsbqX4CEWwUrU7TVzKSu1hYgY`
-> Generated: 2026-03-17 06:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 4 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000040 SOL** |
-| **Closed ROI** | **+39.7%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 2 |
+| W/L | 2/0 |
+| SOL In (closed) | 0.000200 |
+| **Closed P&L** | **+0.000108 SOL** |
+| **Closed ROI** | **+54.0%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
-### 🟢 Flash
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.18x | **Current:** 1.22x
+### 🔴 Flash
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.18x | **Current:** 0.52x
 - **Mint:** `pACMKYiCAygMH4UXfQbs86g2Yv5FidV8QytvVEhpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 06:20:44 | BUY | 0.000100 | `BNYcorQFAdn8LT5LMehKbYeL6fFpS9...` |
 | 2026-03-17 06:24:01 | SELL | 0.000022 | `3ps4wj22dgWdkWY8AxkTopUznFjwzq...` |
+| 2026-03-17 06:25:28 | SELL | 0.000047 | `tX5WAEXXdNPXMZPdPzv19mE7vwBsr6...` |
 
 ### 🟢 三毛
 - **Status:** open | **Exit:** open
