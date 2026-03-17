@@ -1,16 +1,11 @@
 # [TEST] `BUiDP9QmZfRnXSqi...`
-> 2026-03-17 14:05 UTC | **3** pos | **0W/2L** | P&L: **-0.000285 SOL** (-40.7%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| PádraicStar | 03-17 14:04 | 0.88x | 1.00x | 0.0h | 0.0001 |
+> 2026-03-17 14:10 UTC | **3** pos | **0W/3L** | P&L: **-0.000349 SOL** (-43.6%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ PádraicStar | -0.0001 | 03-17 14:04 | 1.0x | 03-17 14:06 | 0.0000/0.0001 | SL |
 | ❌ AFC | -0.0001 | 03-17 07:28 | 1.2x | 03-17 10:08 | 0.0000/0.0001 | SL |
 | ❌ SHIT | -0.0002 | 03-16 07:21 | 1.0x | 03-16 07:24 | 0.0004/0.0006 | gc_SL |
 
@@ -18,6 +13,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:06 | PádraicStar | SELL | 0.0000 | `KD5xNwFVP6bicxV1...` |
 | 03-17 14:04 | PádraicStar | BUY | 0.0001 | `4PLh94mm2PMvpapM...` |
 | 03-17 10:08 | AFC | SELL | 0.0000 | `Y5WP6pNcuFSdf74d...` |
 | 03-17 10:06 | AFC | SELL | 0.0000 | `3zCZngvmgi2wC7fw...` |

@@ -1,11 +1,11 @@
 # [TEST] `9G4ytadk761g5DMx...`
-> 2026-03-17 14:05 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 14:10 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| omg | 03-17 13:40 | 0.84x | 1.00x | 0.4h | 0.0001 |
+| omg | 03-17 13:40 | 0.97x | 1.00x | 0.5h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

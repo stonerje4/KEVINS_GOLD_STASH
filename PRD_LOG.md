@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 14:05 UTC** | 7d | 690 buys, 926 sells | In: **81.13** | Out: **79.22** | Net: **-1.91 SOL**
+> Updated: **2026-03-17 14:10 UTC** | 7d | 688 buys, 927 sells | In: **81.13** | Out: **79.29** | Net: **-1.84 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:06 | 🔴 SELL | RETRO | 0.0713 | 5n593DWQ... | stale | `4uBVBtRPY2RV...` |
+| 03-17 | 14:06 | 🟢 BUY | BOE | 0.1500 | CZjxED3u... | copy | `46BYZ6aWh8CJ...` |
 | 03-17 | 14:01 | 🔴 SELL | Rizzbot | 0.0589 | 2w85VLX4... | SL | `53LkjDKLzpYo...` |
 | 03-17 | 13:59 | 🟢 BUY | DLSSELON | 0.1500 | 42nQHDpy... | copy | `2ASFg4p6jMvs...` |
 | 03-17 | 13:58 | 🔴 SELL | F/ACC | 0.1163 | 2w85VLX4... | trail | `GV4qFNR4Eveo...` |
@@ -1616,6 +1618,3 @@
 | 03-10 | 14:31 | 🟢 BUY | RYOPPIPPI | 0.0500 | H3DXv3Ef... | copy | `pjh6MVbVg4NZ...` |
 | 03-10 | 14:18 | 🟢 BUY | USDPT | 0.0500 | ESxHJpMq... | copy | `4AQipUcyiBD8...` |
 | 03-10 | 14:13 | 🟢 BUY | SOIL | 0.0500 | ESxHJpMq... | copy | `4KxmYhWHevDj...` |
-| 03-10 | 14:09 | 🟢 BUY | MISSLE | 0.0500 | ESxHJpMq... | copy | `TnDmt7AtpZDb...` |
-| 03-10 | 14:05 | 🟢 BUY | UXR | 0.0500 | ESxHJpMq... | copy | `4ZGUGb3tAfD8...` |
-| 03-10 | 14:05 | 🟢 BUY | SOS | 0.0500 | 5vweNikg... | copy | `Qt6eANZF8boJ...` |

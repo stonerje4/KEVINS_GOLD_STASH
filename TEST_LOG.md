@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:05 UTC** | 7d | 1333 buys, 1855 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:10 UTC** | 7d | 1333 buys, 1859 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:09 | 💰 SELL | Thinker | 0.0000 | GHy1P6vJ... | TP1 | `4mXYGHszzmQy...` |
+| 03-17 | 14:09 | 💰 SELL | WEREFULL | 0.0000 | otq3sTTS... | TP1 | `YZiqMVg6ZVNG...` |
+| 03-17 | 14:09 | 🔴 SELL | JONES | 0.0000 | BBBByrLH... | SL | `2JXHZe8uLxtA...` |
+| 03-17 | 14:06 | 🔴 SELL | PádraicStar | 0.0000 | BUiDP9Qm... | SL | `KD5xNwFVP6bi...` |
 | 03-17 | 14:04 | 🟢 BUY | PádraicStar | 0.0001 | BUiDP9Qm... | copy_buy | `4PLh94mm2PMv...` |
 | 03-17 | 14:03 | 💰 SELL | LULU | 0.0000 | AJ8Gc1cY... | TP2 | `3WfAvSX4ENHr...` |
 | 03-17 | 14:03 | 🟢 BUY | Thinker | 0.0001 | GHy1P6vJ... | copy_buy | `53erZG48PU9Q...` |
