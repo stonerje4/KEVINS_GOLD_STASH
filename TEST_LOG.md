@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:45 UTC** | 7d | 1767 buys, 2197 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:50 UTC** | 7d | 1774 buys, 2200 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:50 | 🔴 SELL | DOGCOIN | 0.0000 | 7yd579zX... | SL | `abfaqztXrndL...` |
+| 03-17 | 22:49 | 💰 SELL | WEREFULL | 0.0001 | otq3sTTS... | TP4 | `3USMyZ7hrS4Q...` |
+| 03-17 | 22:49 | 🟢 BUY | FLAG | 0.0001 | U3jiDzTc... | copy_buy | `2RwKaUnamWhX...` |
+| 03-17 | 22:48 | 💰 SELL | YOU | 0.0001 | 99XWMUAM... | trail | `3X3ERjKzqZi9...` |
+| 03-17 | 22:48 | 🟢 BUY | GOKINJO | 0.0001 | GEHrGJ3B... | copy_buy | `5HkvxRXAYrAG...` |
+| 03-17 | 22:47 | 🟢 BUY | FLAG | 0.0001 | FoabCXs5... | copy_buy | `3KHMqzWxef5o...` |
+| 03-17 | 22:46 | 🟢 BUY | greyify | 0.0001 | EaEf6TH8... | copy_buy | `59xjXbaeu6eR...` |
+| 03-17 | 22:46 | 🟢 BUY | FLAG | 0.0001 | U3jiDzTc... | copy_buy | `CPi83TXyzomM...` |
+| 03-17 | 22:45 | 🟢 BUY | commotitty | 0.0001 | BZmxuXQ6... | copy_buy | `4dWkLPvURFP2...` |
+| 03-17 | 22:45 | 🟢 BUY | FLAG | 0.0001 | U3jiDzTc... | copy_buy | `5koy9oa8FwDd...` |
 | 03-17 | 22:44 | 🟢 BUY | FLAG | 0.0001 | U3jiDzTc... | copy_buy | `e3cGDHXisNMG...` |
 | 03-17 | 22:44 | 🔴 SELL | NANOBOTS | 0.0000 | 6raSuhfi... | SL | `3jAvj2v9mJqq...` |
 | 03-17 | 22:44 | 💰 SELL | Nanobot | 0.0001 | 35RArQiy... | TP2 | `4nzjuXSxh7qD...` |

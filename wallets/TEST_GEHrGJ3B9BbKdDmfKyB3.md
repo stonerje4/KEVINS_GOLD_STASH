@@ -1,11 +1,12 @@
 # [TEST] `GEHrGJ3B9BbKdDmf...`
-> 2026-03-17 22:45 UTC | **5** pos | **0W/4L** | P&L: **-0.000229 SOL** (-57.4%) | 1 open
+> 2026-03-17 22:50 UTC | **6** pos | **0W/4L** | P&L: **-0.000229 SOL** (-57.4%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DEX | 03-17 14:50 | 0.70x | 1.65x | 7.9h | 0.0001 |
+| GOKINJO | 03-17 22:48 | 0.82x | 1.00x | 0.0h | 0.0001 |
+| DEX | 03-17 14:50 | 0.70x | 1.65x | 8.0h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:48 | GOKINJO | BUY | 0.0001 | `5HkvxRXAYrAGbbED...` |
 | 03-17 19:02 | COOKIE | SELL | 0.0000 | `38PPcQUAFAMWcPqH...` |
 | 03-17 16:16 | COOKIE | BUY | 0.0001 | `2howueCm8zwEMomB...` |
 | 03-17 14:50 | DEX | BUY | 0.0001 | `hMbi8BNiPRSr2FUS...` |

@@ -1,11 +1,14 @@
 # [TEST] `U3jiDzTcNJv5AB1W...`
-> 2026-03-17 22:45 UTC | **8** pos | **1W/6L** | P&L: **-0.003230 SOL** (-87.3%) | 1 open
+> 2026-03-17 22:50 UTC | **11** pos | **1W/6L** | P&L: **-0.003230 SOL** (-87.3%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| FLAG | 03-17 22:44 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| FLAG | 03-17 22:49 | 1.00x | 1.00x | 0.0h | 0.0001 |
+| FLAG | 03-17 22:46 | 0.64x | 1.19x | 0.1h | 0.0001 |
+| FLAG | 03-17 22:45 | 0.95x | 1.00x | 0.1h | 0.0001 |
+| FLAG | 03-17 22:44 | 1.41x | 1.41x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -23,6 +26,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:49 | FLAG | BUY | 0.0001 | `2RwKaUnamWhXsomp...` |
+| 03-17 22:46 | FLAG | BUY | 0.0001 | `CPi83TXyzomMrvLw...` |
+| 03-17 22:45 | FLAG | BUY | 0.0001 | `5koy9oa8FwDdEeK4...` |
 | 03-17 22:44 | FLAG | BUY | 0.0001 | `e3cGDHXisNMG4HFJ...` |
 | 03-17 16:40 | Clover | SELL | 0.0001 | `2AEH7KnA3pKiFRc5...` |
 | 03-17 16:36 | Clover | SELL | 0.0001 | `61KvaUcSQv8C15rH...` |

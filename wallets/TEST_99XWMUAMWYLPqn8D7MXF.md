@@ -1,23 +1,24 @@
 # [TEST] `99XWMUAMWYLPqn8D...`
-> 2026-03-17 22:45 UTC | **3** pos | **1W/0L** | P&L: **+0.000007 SOL** (+6.9%) | 2 open
+> 2026-03-17 22:50 UTC | **3** pos | **2W/0L** | P&L: **+0.000190 SOL** (+95.1%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| YOU | 03-17 21:28 | 3.84x | 5.74x | 1.3h | 0.0001 |
-| house | 03-17 18:52 | 0.50x | 1.03x | 3.9h | 0.0001 |
+| house | 03-17 18:52 | 0.50x | 1.03x | 4.0h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ✅ YOU | +0.0002 | 03-17 21:28 | 5.7x | 03-17 22:48 | 0.0003/0.0001 | trail |
 | ✅ JEET | +0.0000 | 03-17 18:30 | 2.2x | 03-17 18:44 | 0.0001/0.0001 | trail |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:48 | YOU | SELL | 0.0001 | `3X3ERjKzqZi9C5Up...` |
 | 03-17 22:36 | YOU | SELL | 0.0000 | `tjG5C8sYkiJKQcmQ...` |
 | 03-17 22:18 | YOU | SELL | 0.0001 | `65Hc39NpJgiTZ2T7...` |
 | 03-17 21:36 | YOU | SELL | 0.0001 | `62yKeyoW5RfWHs9r...` |
