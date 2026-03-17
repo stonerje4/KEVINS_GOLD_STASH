@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 12:40 UTC** | 7d | 1274 buys, 1811 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 12:45 UTC** | 7d | 1276 buys, 1813 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 12:44 | 🟢 BUY | patricklon | 0.0001 | 45j4enZd... | copy_buy | `41SY6LD5Uwj3...` |
+| 03-17 | 12:44 | 🟢 BUY | $GENIUS | 0.0001 | FoabCXs5... | copy_buy | `5vmZvJAxWqa7...` |
+| 03-17 | 12:42 | 💰 SELL | NALA | 0.0000 | EaEf6TH8... | TP3 | `3dF1sM3rbRmo...` |
+| 03-17 | 12:40 | 💰 SELL | NALA | 0.0000 | EaEf6TH8... | TP2 | `48bLYCCrtLxG...` |
 | 03-17 | 12:39 | 🟢 BUY | SAM | 0.0001 | EaEf6TH8... | copy_buy | `jKBLcqQ2oZfn...` |
 | 03-17 | 12:37 | 💰 SELL | NALA | 0.0000 | EaEf6TH8... | TP1 | `eWv959LoG9mD...` |
 | 03-17 | 12:37 | 💰 SELL | gayhormuz | 0.0000 | 51Ui3ZD4... | TP2 | `2HCFoai9ZqHF...` |
