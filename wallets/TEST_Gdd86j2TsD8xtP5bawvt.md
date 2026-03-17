@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 02:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Hyojo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 1.01x
+- **Peak:** 1.02x | **Current:** 0.89x
 - **Mint:** `HfKNrf3VFYSzZfG3jS4pQEfjkHTxAwmD4wm1FUx8pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 grokette
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.51x
+- **Peak:** 1.00x | **Current:** 0.50x
 - **Mint:** `8kDgMFnBW2N1C1VybWuPdqHfE5YBWrBykXf5TLA3iUFG`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 GIGAKAREN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 1.49x
+- **Peak:** 1.49x | **Current:** 1.41x
 - **Mint:** `32VxfAVgqveDipA69MNYjoLAzW9snbqp63Jm3iFWpump`
 
 | Time | Action | SOL | TX |

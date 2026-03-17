@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 02:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -91,7 +91,7 @@
 
 ### 🟢 CRAB
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 0.56x
+- **Peak:** 1.31x | **Current:** 0.55x
 - **Mint:** `F1vcdTkaC8JQyFqeWZxuebUGhsnVMCqqV4Yn5cNspump`
 
 | Time | Action | SOL | TX |

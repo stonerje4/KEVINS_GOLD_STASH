@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 02:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.60x
+- **Peak:** 1.00x | **Current:** 0.62x
 - **Mint:** `SPVPDaVfyDKqse6t5N6QwFtp3Va7jfAh9fjd8Rwpump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +44,7 @@
 
 ### 🟢 FPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.16x
+- **Peak:** 1.41x | **Current:** 1.15x
 - **Mint:** `EuqzwYKEVZ2Ci24qjoMwu6sDdrJ7ZSqwEyg4cF2ppump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +53,7 @@
 
 ### 🟢 CLAWDIS
 - **Status:** partial | **Exit:** open
-- **Peak:** 8.71x | **Current:** 8.15x
+- **Peak:** 12.52x | **Current:** 11.55x
 - **Mint:** `2yDL2okKMtkxtSomVWVfr6Y8JDBuidRX3e4Qx8hBBAGS`
 
 | Time | Action | SOL | TX |
@@ -63,6 +63,7 @@
 | 2026-03-17 02:08:06 | SELL | 0.000028 | `5vUt7o2JRxzBB8EWHEmLVtEdyHZsD7...` |
 | 2026-03-17 02:22:12 | SELL | 0.000043 | `WgjomufMHGqqbRnF2Ku9NZRussbDts...` |
 | 2026-03-17 02:27:54 | SELL | 0.000063 | `3eDgcgUnbcxeAS91pEuHg2pV4BJU1y...` |
+| 2026-03-17 02:33:11 | SELL | 0.000072 | `2R4JZg3VryX6E1BYdU99FKJise6K69...` |
 
 ### 🔴 LUCKY
 - **Status:** closed | **Exit:** ghost_close_stop_loss
