@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:05 UTC** | 7d | 1737 buys, 2173 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:10 UTC** | 7d | 1740 buys, 2175 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:08 | 🟢 BUY | flipper | 0.0001 | AiNfNi2e... | copy_buy | `4jN1egbUrQti...` |
+| 03-17 | 22:08 | 💰 SELL | GANYMEDE | 0.0002 | EaEf6TH8... | trail | `UHEBTRtEnoJz...` |
+| 03-17 | 22:06 | 💰 SELL | chad | 0.0001 | 5dd3zjBQ... | TP1 | `4eMiHRGc8z5u...` |
+| 03-17 | 22:06 | 🟢 BUY | DEXAI | 0.0001 | otq3sTTS... | copy_buy | `2WcM7uWjTNri...` |
+| 03-17 | 22:05 | 🟢 BUY | Solanass | 0.0001 | GRnCsBLj... | copy_buy | `4hvaZxtL73C1...` |
 | 03-17 | 22:03 | 🟢 BUY | chad | 0.0001 | 5dd3zjBQ... | copy_buy | `5SkY7jNHyfsY...` |
 | 03-17 | 22:01 | 🔴 SELL | Oranges | 0.0000 | EyeSFbqH... | SL | `31FxsYACajH4...` |
 | 03-17 | 22:00 | 💰 SELL | Daisy | 0.0001 | BZmxuXQ6... | TP1 | `2BP5Z5LZ9hYB...` |

@@ -1,11 +1,11 @@
 # [TEST] `HV4FmWLESGWGPmbW...`
-> 2026-03-17 22:05 UTC | **8** pos | **2W/5L** | P&L: **-0.003743 SOL** (-30.9%) | 1 open
+> 2026-03-17 22:10 UTC | **8** pos | **2W/5L** | P&L: **-0.003743 SOL** (-30.9%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Springfield | 03-17 21:57 | 0.88x | 1.26x | 0.1h | 0.0001 |
+| Springfield | 03-17 21:57 | 0.77x | 1.26x | 0.2h | 0.0001 |
 
 ## Closed
 
