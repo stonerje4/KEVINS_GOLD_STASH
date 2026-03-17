@@ -1,11 +1,12 @@
 # [TEST] `3VHz3MhvcbdxceVs...`
-> 2026-03-17 17:25 UTC | **4** pos | **0W/3L** | P&L: **-0.000300 SOL** (-100.0%) | 1 open
+> 2026-03-17 17:30 UTC | **5** pos | **0W/3L** | P&L: **-0.000300 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Up | 03-17 17:07 | 1.13x | 1.55x | 0.3h | 0.0001 |
+| GAKE | 03-17 17:25 | 0.83x | 1.00x | 0.1h | 0.0001 |
+| Up | 03-17 17:07 | 1.18x | 1.55x | 0.4h | 0.0001 |
 
 ## Closed
 
@@ -19,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:25 | GAKE | BUY | 0.0001 | `4L43dHFe3xQ1zteZ...` |
 | 03-17 17:07 | Up | BUY | 0.0001 | `4UWHdC6wT4nzzifT...` |
 | 03-17 07:01 | PROSUMER | BUY | 0.0001 | `3MsfXJZR9eSJqit5...` |
 | 03-17 01:19 | Glassworm | BUY | 0.0001 | `5euAPYBSzzHMkBv2...` |

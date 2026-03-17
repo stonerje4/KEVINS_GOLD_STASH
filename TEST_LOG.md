@@ -1,8 +1,24 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:25 UTC** | 7d | 1514 buys, 1988 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 17:30 UTC** | 7d | 1523 buys, 1995 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:29 | 🟢 BUY | Brand | 0.0001 | Lfw99jsE... | copy_buy | `3vJyUnu278gU...` |
+| 03-17 | 17:29 | 💰 SELL | whappen | 0.0001 | EaEf6TH8... | TP1 | `3MLgfsTzNHs5...` |
+| 03-17 | 17:29 | 🔴 SELL | LMG | 0.0000 | 6E4897rJ... | trail | `2ctfTmt9q71C...` |
+| 03-17 | 17:29 | 🟢 BUY | FAITH | 0.0001 | Lfw99jsE... | copy_buy | `5ZQsU8Vsc6Jj...` |
+| 03-17 | 17:28 | 🟢 BUY | BBX | 0.0001 | 87nWQxQv... | copy_buy | `3ia6XJvtTsRL...` |
+| 03-17 | 17:28 | 🔴 SELL | LMG | 0.0000 | 6E4897rJ... | trail | `66Zg7nuAAPbJ...` |
+| 03-17 | 17:28 | 🟢 BUY | BBX | 0.0001 | 87nWQxQv... | copy_buy | `5NmK4m7apF77...` |
+| 03-17 | 17:27 | 🟢 BUY | Momo-chan | 0.0001 | Lfw99jsE... | copy_buy | `3xTbG1YJB3F3...` |
+| 03-17 | 17:27 | 🟢 BUY | BalloonCat | 0.0001 | Lfw99jsE... | copy_buy | `4gZmn23S26Qc...` |
+| 03-17 | 17:26 | 🔴 SELL | GlassWorm | 0.0000 | 7cXeEXa4... | SL | `2ryHp6JUQwTV...` |
+| 03-17 | 17:25 | 💰 SELL | LMG | 0.0001 | 6E4897rJ... | TP2 | `3vqMCDDibfyc...` |
+| 03-17 | 17:25 | 💰 SELL | BROKE | 0.0001 | EaEf6TH8... | trail | `tjY1qDwftFw8...` |
+| 03-17 | 17:25 | 💰 SELL | hahahaha | 0.0001 | BmXugVGY... | TP2 | `3yD7woDnKZAD...` |
+| 03-17 | 17:25 | 🟢 BUY | SSCC | 0.0001 | BBBByrLH... | copy_buy | `2y25LWCqRrHy...` |
+| 03-17 | 17:25 | 🟢 BUY | SPCC | 0.0001 | BBBByrLH... | copy_buy | `3EF6JNffcHPv...` |
+| 03-17 | 17:25 | 🟢 BUY | GAKE | 0.0001 | 3VHz3Mhv... | copy_buy | `4L43dHFe3xQ1...` |
 | 03-17 | 17:24 | 🟢 BUY | GAS | 0.0001 | Dr5V9A9d... | copy_buy | `27SMwDgvGhtd...` |
 | 03-17 | 17:24 | 🟢 BUY | Chicken | 0.0001 | Lfw99jsE... | copy_buy | `YGRHiL7ZjYQE...` |
 | 03-17 | 17:24 | 🟢 BUY | Muskius | 0.0001 | Lfw99jsE... | copy_buy | `ymm8a26QjHgt...` |

@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 17:25 UTC** | 7d | 716 buys, 950 sells | In: **86.53** | Out: **81.14** | Net: **-5.39 SOL**
+> Updated: **2026-03-17 17:30 UTC** | 7d | 718 buys, 951 sells | In: **86.93** | Out: **81.17** | Net: **-5.76 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:29 | 🟢 BUY | Momo-chan | 0.1500 | 42nQHDpy... | copy | `3yRN43YpgXbA...` |
+| 03-17 | 17:28 | 🔴 SELL | LMG | 0.0252 | 42nQHDpy... | SL | `3J72v7Si2RXt...` |
+| 03-17 | 17:27 | 🟢 BUY | LMG | 0.1500 | 42nQHDpy... | copy | `4pxJLfQbKnWi...` |
+| 03-17 | 17:25 | 🟢 BUY | FP | 0.1500 | 42nQHDpy... | copy | `abbcVMswHPYJ...` |
 | 03-17 | 17:23 | 🟢 BUY | LUCIDITY | 0.1500 | BNCSPd6Q... | copy | `4ndKQ8D5obpN...` |
 | 03-17 | 17:21 | 🔴 SELL | SaintAlon | 0.0170 | 42nQHDpy... | trail | `2LTSQsDmPnjZ...` |
 | 03-17 | 17:18 | 🟢 BUY | FTR | 0.1500 | r9pFHjFe... | copy | `223QcKp9JPD6...` |
@@ -1668,4 +1672,3 @@
 | 03-10 | 17:55 | 🟢 BUY | AuPair | 0.0500 | HMM6RoT2... | copy | `3HVBL6JRmFh9...` |
 | 03-10 | 17:51 | 💰 SELL | SPACE | 0.0507 | 9rb2ChEj... | TP1 | `5D65eMtEgfsm...` |
 | 03-10 | 17:33 | 💰 SELL | Gerald | 0.0955 | HMM6RoT2... | trail | `5Fk3mhDn3X86...` |
-| 03-10 | 17:25 | 🟢 BUY | FHOUSE | 0.0500 | gAd5gDX6... | copy | `g4tgNh4TSf4p...` |

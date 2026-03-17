@@ -1,11 +1,11 @@
 # [TEST] `BmXugVGYfGMj9QRL...`
-> 2026-03-17 17:25 UTC | **3** pos | **0W/2L** | P&L: **-0.000275 SOL** (-39.2%) | 1 open
+> 2026-03-17 17:30 UTC | **3** pos | **0W/2L** | P&L: **-0.000275 SOL** (-39.2%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| hahahaha | 03-17 17:02 | 2.85x | 2.85x | 0.4h | 0.0001 |
+| hahahaha | 03-17 17:02 | 2.42x | 3.60x | 0.5h | 0.0001 |
 
 ## Closed
 
@@ -18,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:25 | hahahaha | SELL | 0.0001 | `3yD7woDnKZADxuAq...` |
 | 03-17 17:05 | hahahaha | SELL | 0.0001 | `2dTuGW7HtXSGQNsv...` |
 | 03-17 17:02 | hahahaha | BUY | 0.0001 | `331NEcXpT4ynekP8...` |
 | 03-17 15:32 | crine | SELL | 0.0000 | `8cV9kZVMNABjJ1b8...` |
