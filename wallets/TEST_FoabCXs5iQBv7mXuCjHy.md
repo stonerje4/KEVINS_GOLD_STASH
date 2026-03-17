@@ -1,10 +1,10 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 03:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
-| Open | 1 |
+| Total Positions | 2 |
+| Open | 2 |
 | Closed | 0 |
 | W/L | 0/0 |
 | SOL In (closed) | 0.000000 |
@@ -14,9 +14,18 @@
 
 ## Trades
 
+### ⚪ BULKING
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `85JQW2rNZaCnCTDwuwuMZMsFbZiA2a2DZNx3QMtopump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:40:02 | BUY | 0.000100 | `5wdFL19sBJ6s8L5iEjras7HNYZbrjL...` |
+
 ### 🟢 Qi
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.26x | **Current:** 2.91x
+- **Peak:** 3.26x | **Current:** 2.88x
 - **Mint:** `6D1hQ22C7oCUKKVuy91i8HTHnzSjsHCuNAcH9WH2pump`
 
 | Time | Action | SOL | TX |

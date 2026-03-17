@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FWQ3sv51J5P7o6UwNFuT612HUG2CitRT8AJTtWS6Qs5G`
-> Generated: 2026-03-17 03:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 CLOVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 0.76x
+- **Peak:** 1.15x | **Current:** 0.74x
 - **Mint:** `49SD1adniyr5rKSkgoB3J26HjNgXieywQ3Mm8harpump`
 
 | Time | Action | SOL | TX |

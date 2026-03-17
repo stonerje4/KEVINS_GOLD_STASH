@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 03:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Hyojo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.60x
+- **Peak:** 1.10x | **Current:** 0.79x
 - **Mint:** `8tvznQLMFGZWrp3h4pDAtUkPe7Xcp4SP1st8rDDFpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Hamster
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 0.94x
+- **Peak:** 1.36x | **Current:** 1.21x
 - **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
 
 | Time | Action | SOL | TX |

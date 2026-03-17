@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx`
-> Generated: 2026-03-17 03:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 SKULL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 1.00x
+- **Peak:** 1.09x | **Current:** 0.86x
 - **Mint:** `5fzCokPYw6mCodAsjSr7wYR9ct9gpr7ZJ8ELgjBcpump`
 
 | Time | Action | SOL | TX |

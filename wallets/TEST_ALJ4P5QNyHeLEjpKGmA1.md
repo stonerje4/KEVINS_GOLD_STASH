@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w`
+# [TEST] Wallet: `ALJ4P5QNyHeLEjpKGmA1eUfJHSEGQMjY8HLnDkSgjczb`
 > Generated: 2026-03-17 03:40 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 Shelly
+### 🟢 BTA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.89x
-- **Mint:** `BAZBed8AxJyt15KChfnk2o14V8kmUMGHyJVf15eYpump`
+- **Peak:** 1.00x | **Current:** 0.72x
+- **Mint:** `GPEWz1FADxfrKLF9VYeuLfFgZgVhixyKU5xQTFapump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 18:24:41 | BUY | 0.000100 | `2N4c6gp4xCcY1DEus26aRqr2PrwzJJ...` |
+| 2026-03-17 03:35:31 | BUY | 0.000100 | `oLLfsBVwkFBHAm8rFDbx8hJakLGZrb...` |
 
