@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:45 UTC** | 7d | 1407 buys, 1918 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:50 UTC** | 7d | 1411 buys, 1921 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:49 | 💰 SELL | Rosei | 0.0000 | AJ8Gc1cY... | TP3 | `51DUYQkztxar...` |
+| 03-17 | 15:49 | 🟢 BUY | Bonk | 0.0001 | FoHJUYTh... | copy_buy | `3awZHwicp2Mh...` |
+| 03-17 | 15:49 | 💰 SELL | Waiter | 0.0000 | GHy1P6vJ... | TP2 | `4G763kziAdkj...` |
+| 03-17 | 15:49 | 💰 SELL | USEFUL | 0.0001 | FzMeg6P2... | trail | `RvAiRfbGV5Pf...` |
+| 03-17 | 15:47 | 🟢 BUY | FENT | 0.0001 | AbrUQawz... | copy_buy | `4ZC3QuJEqJdh...` |
+| 03-17 | 15:47 | 🟢 BUY | 1 | 0.0001 | AJ8Gc1cY... | copy_buy | `2MNWrQ5UQCc2...` |
+| 03-17 | 15:46 | 🟢 BUY | PURRPLEAN | 0.0001 | AJ8Gc1cY... | copy_buy | `48UpzwY4Wkfx...` |
 | 03-17 | 15:44 | 🟢 BUY | KING | 0.0001 | AJ8Gc1cY... | copy_buy | `36j1BQUzjPdo...` |
 | 03-17 | 15:43 | 🔴 SELL | PATRIOT | 0.0001 | AiNfNi2e... | trail | `gdRo19dVNEet...` |
 | 03-17 | 15:42 | 🟢 BUY | HEISEI | 0.0001 | E79aNzAk... | copy_buy | `2a3Shz3m7TbB...` |
