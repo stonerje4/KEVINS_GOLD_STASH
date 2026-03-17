@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:10 UTC** | 7d | 1333 buys, 1859 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:15 UTC** | 7d | 1335 buys, 1862 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:13 | 💰 SELL | DLSSELON | 0.0000 | 42nQHDpy... | TP1 | `22RJVtgfqWCi...` |
+| 03-17 | 14:13 | 🟢 BUY | GOGO | 0.0001 | FoHJUYTh... | copy_buy | `5Ev8isC596Yc...` |
+| 03-17 | 14:12 | 💰 SELL | TRUST | 0.0002 | AJ8Gc1cY... | tp_32x_trim | `5X5Y1m6aoXNL...` |
+| 03-17 | 14:12 | 🟢 BUY | DragClaw | 0.0001 | GHy1P6vJ... | copy_buy | `yFjDkrYGt7RG...` |
+| 03-17 | 14:10 | 💰 SELL | WEREFULL | 0.0000 | otq3sTTS... | TP2 | `5B7rkTftH2h2...` |
 | 03-17 | 14:09 | 💰 SELL | Thinker | 0.0000 | GHy1P6vJ... | TP1 | `4mXYGHszzmQy...` |
 | 03-17 | 14:09 | 💰 SELL | WEREFULL | 0.0000 | otq3sTTS... | TP1 | `YZiqMVg6ZVNG...` |
 | 03-17 | 14:09 | 🔴 SELL | JONES | 0.0000 | BBBByrLH... | SL | `2JXHZe8uLxtA...` |

@@ -1,5 +1,5 @@
 # [PRD] `BGGJhxGXeTmzGXDM...`
-> 2026-03-17 14:10 UTC | **31** pos | **5W/26L** | P&L: **-1.613054 SOL** (-34.7%) | 0 open
+> 2026-03-17 14:15 UTC | **31** pos | **5W/26L** | P&L: **-1.613054 SOL** (-34.7%) | 0 open
 
 ## Closed
 
@@ -41,12 +41,12 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-16 19:13 | DRONE | SELL | 0.0150 | `?` |
+| 03-16 19:13 | Sky ladder | SELL | 0.0150 | `?` |
 | 03-16 19:13 | URX | SELL | 0.0150 | `?` |
 | 03-16 19:13 | URX | SELL | 0.0150 | `?` |
 | 03-16 19:13 | URX | SELL | 0.0150 | `?` |
 | 03-16 19:13 | GAS | SELL | 0.0150 | `?` |
-| 03-16 19:13 | DRONE | SELL | 0.0150 | `?` |
-| 03-16 19:13 | Sky ladder | SELL | 0.0150 | `?` |
 | 03-16 00:24 | URX | SELL | 0.5930 | `2gxKegjJvjbC1AGh...` |
 | 03-15 14:00 | GLD | SELL | 0.1101 | `4kQwJXFQryU1PBM5...` |
 | 03-15 01:05 | MEMESTR | SELL | 0.0690 | `5eP4z8U52N1FFScg...` |
