@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 07:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -187,7 +187,7 @@
 
 ### 🟢 $LLAMA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `2mia3Krg7QayRGvAEPidCoWxBhzfjryFsEQ1Dtfhpump`
 
 | Time | Action | SOL | TX |
@@ -332,7 +332,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
@@ -359,13 +359,14 @@
 | 2026-03-16 04:40:33 | BUY | 0.000600 | `LLQZsguYk9rFGVyi2T3j5Uwe1r9k3W...` |
 
 ### 🟢 BMAP
-- **Status:** open | **Exit:** open
+- **Status:** partial | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:24:35 | BUY | 0.000600 | `qh2hyMzq3opZDrAy1GeggJZ8BU9jsm...` |
+| 2026-03-17 07:52:36 | SELL | 0.000079 | `5eTYjLK78qwNkvYHcZn1GmBoYzQ1Lr...` |
 
 ### 🔴 Hector
 - **Status:** closed | **Exit:** stale_cleanup

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 07:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -212,7 +212,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.89x | **Current:** 2.22x
+- **Peak:** 3.89x | **Current:** 2.27x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -1008,7 +1008,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.73x
+- **Peak:** 1.80x | **Current:** 0.76x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -2275,13 +2275,14 @@
 | 2026-03-16 04:31:56 | SELL | 0.000379 | `5ZTvk7cib4rhvYhm1WaBsdPbkUhwsq...` |
 
 ### 🟢 Oscar
-- **Status:** open | **Exit:** open
+- **Status:** partial | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.77x
 - **Mint:** `G1raszDo4V42Mp9dQ39kSPkUWWSDXEg42HAMZCyDpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:31:09 | BUY | 0.000600 | `5jXUoMFp9PXYp5tZwnvyhBMmTtREsW...` |
+| 2026-03-17 07:52:38 | SELL | 0.000077 | `28tMttGw54vjJDv8eiWSpUBCG3pRB2...` |
 
 ### 🔴 SUPER
 - **Status:** closed | **Exit:** ghost_close_stop_loss

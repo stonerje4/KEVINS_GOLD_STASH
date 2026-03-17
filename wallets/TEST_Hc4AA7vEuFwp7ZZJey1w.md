@@ -1,16 +1,16 @@
 # [TEST] Wallet: `Hc4AA7vEuFwp7ZZJey1wjCBXVyhthZKEjXVPgmzDGy6t`
-> Generated: 2026-03-17 07:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 0 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.000400 |
-| **Closed P&L** | **+0.000352 SOL** |
-| **Closed ROI** | **+88.0%** |
-| Open Deployed | 0.000000 SOL |
+| Open | 1 |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.000300 |
+| **Closed P&L** | **+0.000261 SOL** |
+| **Closed ROI** | **+86.8%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
@@ -34,9 +34,9 @@
 | 2026-03-17 04:13:53 | BUY | 0.000100 | `5gWGkri9HrLr541fGbtgFQBENV3Jqz...` |
 | 2026-03-17 05:16:47 | SELL | 0.000039 | `eYPPsLiHezCHm1JVnasS7JpRoQSphx...` |
 
-### 🔴 Truth
-- **Status:** closing | **Exit:** runner_trailing_stop
-- **Peak:** 2.56x | **Current:** 0.56x
+### 🟢 Truth
+- **Status:** partial | **Exit:** runner_trailing_stop
+- **Peak:** 2.56x | **Current:** 0.53x
 - **Mint:** `DNjkt4VTVD4BMoLKGmCQMZiU11UnCNeGf1bxtojqpump`
 
 | Time | Action | SOL | TX |
@@ -57,6 +57,11 @@
 | 2026-03-17 07:48:17 | SELL | 0.000000 | `4SpbPRtdt96eusQKAGzxe1x31xRm6T...` |
 | 2026-03-17 07:49:07 | SELL | 0.000000 | `64eX22jbsvshj6niBMe9bBUTKvrVnq...` |
 | 2026-03-17 07:49:56 | SELL | 0.000000 | `2u3uq3ZNfBV12dUxPpHmdgSsBU995N...` |
+| 2026-03-17 07:50:46 | SELL | 0.000000 | `5p426CyGMRKqeJKfCzN9FKeXwpR47o...` |
+| 2026-03-17 07:51:37 | SELL | 0.000000 | `511SajztBQkZeB6VKMhJQkTm7Rhz1u...` |
+| 2026-03-17 07:52:26 | SELL | 0.000000 | `3rk9g3xoX8FXBocAq73T9144AJHQAK...` |
+| 2026-03-17 07:53:24 | SELL | 0.000000 | `5sTCGYgGuDyWDkKTqrDgQFFLAoxxLR...` |
+| 2026-03-17 07:54:13 | SELL | 0.000000 | `phvJgFpKtgey3Hc5KKHbPHFuRg9BkP...` |
 
 ### 🟢 Clanker
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
