@@ -1,5 +1,11 @@
 # [TEST] `FoHJUYThke7eXqtC...`
-> 2026-03-17 12:00 UTC | **92** pos | **13W/79L** | P&L: **-0.017598 SOL** (-41.8%) | 0 open
+> 2026-03-17 12:00 UTC | **93** pos | **13W/79L** | P&L: **-0.017598 SOL** (-41.8%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| CHESTER | 03-17 12:00 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -102,6 +108,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:00 | CHESTER | BUY | 0.0001 | `5RKdKzvTd1MxwZGy...` |
 | 03-17 10:14 | CHEETO | BUY | 0.0001 | `3huqubciPSzzt81b...` |
 | 03-17 08:34 | MAFD | BUY | 0.0001 | `4peRU8PrtPw3E6QX...` |
 | 03-17 07:59 | CHILLIFE | BUY | 0.0001 | `5syPyaK1auwpnqVm...` |
@@ -136,16 +143,16 @@
 | 03-16 23:55 | Builderz | BUY | 0.0001 | `4ruWxY5uiR44FY85...` |
 | 03-16 23:31 | AngelPsy | BUY | 0.0001 | `38nnNg7Vkd24fmWx...` |
 | 03-16 23:27 | goon | BUY | 0.0001 | `CRtbvaQwWj2xTnf8...` |
-| 03-16 18:55 | xaicash | SELL | 0.0103 | `?` |
 | 03-16 18:55 | SolBDay | SELL | 0.0005 | `?` |
 | 03-16 18:55 | NPC | SELL | 0.0005 | `?` |
+| 03-16 18:55 | GSD2 | SELL | 0.0005 | `?` |
 | 03-16 18:55 | JJK | SELL | 0.0005 | `?` |
 | 03-16 18:55 | Signets | SELL | 0.0005 | `?` |
-| 03-16 18:55 | TRUMPHOUSE | SELL | 0.0005 | `?` |
+| 03-16 18:55 | xaicash | SELL | 0.0103 | `?` |
 | 03-16 18:55 | navicooks | SELL | 0.0005 | `?` |
-| 03-16 18:55 | WRT | SELL | 0.0006 | `?` |
-| 03-16 18:55 | GSD2 | SELL | 0.0005 | `?` |
 | 03-16 18:55 | CSS | SELL | 0.0005 | `?` |
+| 03-16 18:55 | WRT | SELL | 0.0006 | `?` |
+| 03-16 18:55 | TRUMPHOUSE | SELL | 0.0005 | `?` |
 | 03-16 18:23 | BBX | BUY | 0.0001 | `5v7GFb2S8YSebav8...` |
 | 03-16 18:20 | dokobot | BUY | 0.0001 | `5GDfVoTicLiaWPzJ...` |
 | 03-16 18:19 | DOSED | BUY | 0.0001 | `uc4djgbGTBA7NmyS...` |

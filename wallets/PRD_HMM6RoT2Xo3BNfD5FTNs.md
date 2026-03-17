@@ -53,8 +53,8 @@
 | 03-16 20:20 | NEMOTRON | SELL | 0.0960 | `5J4gH1vwS7ak2HyM...` |
 | 03-16 20:18 | NEMOTRON | SELL | 0.0425 | `2MJA6mN55akm3Cxw...` |
 | 03-16 20:17 | NEMOTRON | BUY | 0.1500 | `s2smHyja48oXo9X3...` |
-| 03-16 19:13 | BANANASIM | SELL | 0.0050 | `?` |
 | 03-16 19:13 | Replacement | SELL | 0.0050 | `?` |
+| 03-16 19:13 | BANANASIM | SELL | 0.0050 | `?` |
 | 03-16 05:13 | TIM | SELL | 0.2173 | `5k7fXY7vWQVQCQ3c...` |
 | 03-16 04:36 | TIM | SELL | 0.0994 | `jzUEm4KzoHqB6DMa...` |
 | 03-16 01:43 | TIM | BUY | 0.1500 | `XTfW7RdQfELwrzpi...` |
