@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 18:30 UTC** | 7d | 723 buys, 958 sells | In: **88.08** | Out: **81.71** | Net: **-6.37 SOL**
+> Updated: **2026-03-17 18:35 UTC** | 7d | 725 buys, 960 sells | In: **88.38** | Out: **81.96** | Net: **-6.42 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:34 | 🟢 BUY | ? | 0.1500 | 2w85VLX4... | copy | `2U1BZ1FnwMua...` |
+| 03-17 | 18:33 | 💰 SELL | #FIRING | 0.1309 | 2w85VLX4... | TP2 | `247g3VWB1hUi...` |
+| 03-17 | 18:33 | 💰 SELL | #FIRING | 0.1194 | 2w85VLX4... | TP1 | `247g3VWB1hUi...` |
+| 03-17 | 18:31 | 🟢 BUY | #FIRING | 0.1500 | 2w85VLX4... | copy | `3THqjWE3Ji79...` |
 | 03-17 | 18:26 | 🔴 SELL | BEPE | 0.0586 | 42nQHDpy... | SL | `4UkuFGvhKymw...` |
 | 03-17 | 18:25 | 💰 SELL | xAU | 0.1137 | DHfshpzo... | TP2 | `5NednPTtUKos...` |
 | 03-17 | 18:24 | 🔴 SELL | IQ | 0.0597 | 6qTPHgnS... | SL | `3dUXgF3YAVqA...` |
