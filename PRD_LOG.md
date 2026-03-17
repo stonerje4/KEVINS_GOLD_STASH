@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 20:15 UTC** | 7d | 740 buys, 977 sells | In: **91.03** | Out: **84.49** | Net: **-6.54 SOL**
+> Updated: **2026-03-17 20:20 UTC** | 7d | 741 buys, 976 sells | In: **91.28** | Out: **84.47** | Net: **-6.81 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:19 | 🟢 BUY | Marcify | 0.1500 | 3HGqppv8... | copy | `yRVnbTYL6ME8...` |
+| 03-17 | 20:17 | 🟢 BUY | Luigi | 0.1500 | 3HGqppv8... | copy | `42nKLUwX2my7...` |
 | 03-17 | 20:14 | 🔴 SELL | LEPRESTAR | 0.0269 | 42nQHDpy... | SL | `4xMrFoutwrMy...` |
 | 03-17 | 20:12 | 🔴 SELL | ? | 0.0532 | 5n593DWQ... | SL | `4HhnovsCeV8f...` |
 | 03-17 | 20:10 | 🔴 SELL | SOYJAK | 0.0481 | 3HGqppv8... | SL | `52SV9ivsWYz9...` |
@@ -1718,5 +1720,3 @@
 | 03-10 | 20:51 | 🟢 BUY | PVP | 0.0500 | 5vweNikg... | copy | `5wBWuL4kQjw3...` |
 | 03-10 | 20:43 | 🟢 BUY | UXR | 0.0500 | 5vweNikg... | copy | `3aVkMy4Eg3hs...` |
 | 03-10 | 20:24 | 💰 SELL | SPACE | 0.0385 | 9rb2ChEj... | TP4 | `5cVuELR1KZ9S...` |
-| 03-10 | 20:17 | 🔴 SELL | ThumbYeti | 0.0188 | EyXjj7JM... | SL | `2THjDWpK38Pa...` |
-| 03-10 | 20:17 | 🟢 BUY | Teacat | 0.0500 | 8QfqdUJt... | copy | `4d3CQMvYdzm9...` |

@@ -1,12 +1,14 @@
 # [PRD] `3HGqppv8tKVWHPFu...`
-> 2026-03-17 20:15 UTC | **7** pos | **1W/4L** | P&L: **-0.339250 SOL** (-45.2%) | 2 open
+> 2026-03-17 20:20 UTC | **9** pos | **1W/4L** | P&L: **-0.339250 SOL** (-45.2%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| VULTURE | 03-17 20:03 | 0.00x | 1.84x | 0.2h | 0.1500 |
-| Doodle | 03-17 19:09 | 0.00x | 2.63x | 1.1h | 0.1500 |
+| Marcify | 03-17 20:19 | 0.00x | 1.00x | 0.0h | 0.1500 |
+| Luigi | 03-17 20:17 | 0.00x | 1.00x | 0.0h | 0.1500 |
+| VULTURE | 03-17 20:03 | 0.00x | 1.84x | 0.3h | 0.1500 |
+| Doodle | 03-17 19:09 | 0.00x | 2.63x | 1.2h | 0.1500 |
 
 ## Closed
 
@@ -22,6 +24,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 20:19 | Marcify | BUY | 0.1500 | `yRVnbTYL6ME8z22Z...` |
+| 03-17 20:17 | Luigi | BUY | 0.1500 | `42nKLUwX2my7ARQq...` |
 | 03-17 20:10 | SOYJAK | SELL | 0.0481 | `52SV9ivsWYz9NZaZ...` |
 | 03-17 20:06 | SOYJAK | BUY | 0.1500 | `2APSc7EnoaYMEeA4...` |
 | 03-17 20:03 | VULTURE | BUY | 0.1500 | `2yGaLk6rHNNTeakH...` |
