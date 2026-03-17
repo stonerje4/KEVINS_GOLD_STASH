@@ -1,16 +1,16 @@
 # [PRD] Wallet: `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`
-> Generated: 2026-03-17 06:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 06:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 8 |
-| Open | 3 |
-| Closed | 5 |
-| W/L | 0/5 |
-| SOL In (closed) | 0.750000 |
-| **Closed P&L** | **-0.182022 SOL** |
-| **Closed ROI** | **-24.3%** |
-| Open Deployed | 0.450000 SOL |
+| Open | 2 |
+| Closed | 6 |
+| W/L | 0/6 |
+| SOL In (closed) | 0.900000 |
+| **Closed P&L** | **-0.185389 SOL** |
+| **Closed ROI** | **-20.6%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
@@ -32,14 +32,15 @@
 |------|--------|-----|----|
 | 2026-03-17 03:00:50 | BUY | 0.150000 | `4vByRKW9Qvyqjg8U3apWNL3Rza8XJG...` |
 
-### 🟢 XAICASH
-- **Status:** open | **Exit:** open
+### 🔴 XAICASH
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.05x | **Current:** 0.00x
 - **Mint:** `2pxTJLHdN1WDWXiH1c1oqpAn8ck5SLXmhzMXmR6Apump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 19:35:31 | BUY | 0.150000 | `2bqiaMbqk9aniFWJELY2Q7tdaGaQJC...` |
+| 2026-03-17 06:48:55 | SELL | 0.146633 | `4DKC36EAftHQY8CqEavMt8jdF2uYLi...` |
 
 ### 🔴 BBX
 - **Status:** closed | **Exit:** stale_position_cleanup

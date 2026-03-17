@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 06:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 116 |
-| Open | 29 |
+| Total Positions | 117 |
+| Open | 30 |
 | Closed | 87 |
 | W/L | 86/1 |
 | SOL In (closed) | 0.036700 |
 | **Closed P&L** | **+0.030672 SOL** |
 | **Closed ROI** | **+83.6%** |
-| Open Deployed | 0.004400 SOL |
+| Open Deployed | 0.004500 SOL |
 
 ## Trades
 
+### 🟢 AEX402
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 06:49:19 | BUY | 0.000100 | `2WTN43qdgHn2riiR5TGh5RXi3u3F3D...` |
+
 ### 🟢 NoseBoop
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.35x
+- **Peak:** 1.41x | **Current:** 1.36x
 - **Mint:** `HVhqMVbmWtoSzPHU1cAX7TLy65VrSKqgnGFyY8BJpump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +221,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.75x | **Current:** 0.94x
+- **Peak:** 1.75x | **Current:** 0.93x
 - **Mint:** `E98XR94FXG2w4GdCwunGPYx8TbZqe2HiNMPHS1Hmpump`
 
 | Time | Action | SOL | TX |

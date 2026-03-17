@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 06:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -125,7 +125,7 @@
 
 ### 🟢 Vance
 - **Status:** open | **Exit:** open
-- **Peak:** 1.78x | **Current:** 0.61x
+- **Peak:** 1.78x | **Current:** 0.60x
 - **Mint:** `euC79AAyFXUw82hBd7s1rzcFV2vxXwNk7FpdD86pump`
 
 | Time | Action | SOL | TX |
@@ -209,7 +209,7 @@
 
 ### 🟢 RA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.99x | **Current:** 0.75x
+- **Peak:** 1.99x | **Current:** 0.70x
 - **Mint:** `AtnwLCgwkJQqKFRH1Uzrk5eTzWMWkn1kWCCvwqPPpump`
 
 | Time | Action | SOL | TX |

@@ -1,16 +1,16 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-17 06:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 06:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 35 |
-| Open | 5 |
-| Closed | 30 |
-| W/L | 6/24 |
-| SOL In (closed) | 4.130000 |
-| **Closed P&L** | **-0.854546 SOL** |
-| **Closed ROI** | **-20.7%** |
-| Open Deployed | 0.750000 SOL |
+| Open | 4 |
+| Closed | 31 |
+| W/L | 6/25 |
+| SOL In (closed) | 4.280000 |
+| **Closed P&L** | **-0.934404 SOL** |
+| **Closed ROI** | **-21.8%** |
+| Open Deployed | 0.600000 SOL |
 
 ## Trades
 
@@ -75,14 +75,15 @@
 | 2026-03-16 22:10:25 | SELL | 0.164230 | `?` |
 | 2026-03-16 22:10:25 | SELL | 0.176303 | `?` |
 
-### 🟢 KICK
-- **Status:** open | **Exit:** open
+### 🔴 KICK
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.02x | **Current:** 0.00x
 - **Mint:** `HcAt2EiWN9oXUcNvGPMrqPhDEGymLQHb1j7qPP9vpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 19:43:52 | BUY | 0.150000 | `444SQFt6M5mLxL1AeM6RNLbbQsLgD3...` |
+| 2026-03-17 06:48:57 | SELL | 0.070142 | `2zCGB1qHNSyELHYacQKbH7fLCYTxsM...` |
 
 ### 🔴 BLUECOLLAR
 - **Status:** closed | **Exit:** stop_loss

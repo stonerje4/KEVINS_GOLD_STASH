@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-17 06:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -52,7 +52,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 1.19x
+- **Peak:** 1.26x | **Current:** 1.23x
 - **Mint:** `5U42jHv5kL6xEyAwS8BCftjm7Qp7kh1hmHVS2ktdpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.72x
+- **Peak:** 1.00x | **Current:** 0.71x
 - **Mint:** `EYWFhmA156msy5vC1o7Lz9FqvmSoFBMgXANukwakpump`
 
 | Time | Action | SOL | TX |
@@ -132,13 +132,14 @@
 | 2026-03-16 14:15:51 | BUY | 0.000600 | `3rnCdtuig2niY2grPTvnzKDL8eRdAU...` |
 
 ### 🟢 ARAMCO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 1.33x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.20x | **Current:** 2.20x
 - **Mint:** `5sZacjEPnUwfXqRsaJgP1w4iEWkTN9hv7Vmd6tcCpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 14:04:00 | BUY | 0.000600 | `63MyrFAeWHGjyyUaXfZwsouktD6zQX...` |
+| 2026-03-17 06:48:11 | SELL | 0.000130 | `3FnA55dNjqxm891w2bsdr3Qp8PzBEH...` |
 
 ### 🟢 CTR
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

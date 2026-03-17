@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 06:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -582,7 +582,7 @@
 
 ### 🟢 DUCKEXE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.86x
+- **Peak:** 1.03x | **Current:** 0.87x
 - **Mint:** `C7jJapMdeqZUuQsne1eyqCqmee9GnxRRhpg7tLgPpump`
 
 | Time | Action | SOL | TX |
@@ -638,7 +638,7 @@
 
 ### 🟢 METALHEADS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.82x
+- **Peak:** 1.12x | **Current:** 0.83x
 - **Mint:** `GpETVRSoR49Ez1hgpLsmX85DnEBiLvMyTfBDQdnkjkpQ`
 
 | Time | Action | SOL | TX |

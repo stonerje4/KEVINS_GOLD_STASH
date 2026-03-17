@@ -1,5 +1,5 @@
 # [TEST] Wallet: `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN`
-> Generated: 2026-03-17 06:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PROSUMER
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.63x | **Current:** 3.63x
+- **Peak:** 4.08x | **Current:** 2.52x
 - **Mint:** `HYi27y1QhmqoU6Mg2M5KUVLfaEH99Vn4cyka35jUpump`
 
 | Time | Action | SOL | TX |

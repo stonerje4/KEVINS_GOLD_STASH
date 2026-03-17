@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 06:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.49x | **Current:** 5.37x
+- **Peak:** 7.49x | **Current:** 5.33x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -370,7 +370,7 @@
 
 ### 🟢 tokens
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.60x
+- **Peak:** 1.80x | **Current:** 0.64x
 - **Mint:** `66XSbdgMgdd8dPoj1fDp1m1M8sax2135J18tbNofpump`
 
 | Time | Action | SOL | TX |
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.39x
+- **Peak:** 3.16x | **Current:** 2.33x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1191,7 +1191,7 @@
 
 ### 🟢 ミャク
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.87x
+- **Peak:** 1.08x | **Current:** 0.85x
 - **Mint:** `2ej2QVXiyVSaK6JTGL73VamrL14pHFWqVv2o1jVEpump`
 
 | Time | Action | SOL | TX |
