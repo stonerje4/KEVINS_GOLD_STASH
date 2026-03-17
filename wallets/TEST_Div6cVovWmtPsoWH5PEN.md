@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
-> Generated: 2026-03-17 11:12 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 TIKI 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.44x | **Current:** 0.94x
+- **Peak:** 1.44x | **Current:** 0.92x
 - **Mint:** `2tmjCv8YnzE3XQk5munQcZiRqyCdr1yFtzRyHgETpump`
 
 | Time | Action | SOL | TX |

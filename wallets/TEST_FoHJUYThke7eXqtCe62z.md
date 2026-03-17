@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 11:12 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -606,7 +606,7 @@
 
 ### 🟢 CIUSGENT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.78x
+- **Peak:** 1.43x | **Current:** 0.79x
 - **Mint:** `6C7wmPqEJq4hKg9r8tmRRdqFBAifc1x7hbDJDo7Fpump`
 
 | Time | Action | SOL | TX |
