@@ -1,5 +1,11 @@
 # [TEST] `BZmxuXQ68QeZABbD...`
-> 2026-03-17 19:05 UTC | **3** pos | **0W/3L** | P&L: **-0.000220 SOL** (-73.4%) | 0 open
+> 2026-03-17 19:10 UTC | **4** pos | **0W/3L** | P&L: **-0.000220 SOL** (-73.4%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| KIt | 03-17 19:07 | 0.78x | 1.58x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:07 | KIt | BUY | 0.0001 | `666g4mMbeADrUUj8...` |
 | 03-17 11:11 | imagineslop | SELL | 0.0000 | `51DxCSa42qTbA6xV...` |
 | 03-17 05:41 | Gany | SELL | 0.0000 | `5Svq4L4Tx4iLwFTH...` |
 | 03-17 03:53 | Gany | BUY | 0.0001 | `5MuNyTX1SJTChKNT...` |

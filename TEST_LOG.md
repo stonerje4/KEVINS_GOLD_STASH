@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:05 UTC** | 7d | 1596 buys, 2056 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:10 UTC** | 7d | 1599 buys, 2059 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:09 | 💰 SELL | DOT | 0.0001 | 6uippNoB... | TP2 | `5eWS14rfeez1...` |
+| 03-17 | 19:07 | 💰 SELL | DOT | 0.0001 | 6uippNoB... | TP1 | `xtMwCZ3PcwgP...` |
+| 03-17 | 19:07 | 🟢 BUY | HHHMCR | 0.0001 | FoHJUYTh... | copy_buy | `2J5GxCXLzUSy...` |
+| 03-17 | 19:07 | 🟢 BUY | KIt | 0.0001 | BZmxuXQ6... | copy_buy | `666g4mMbeADr...` |
+| 03-17 | 19:06 | 🔴 SELL | MAMESUKE | 0.0000 | FoabCXs5... | SL | `2Kj1DQKLLpVq...` |
+| 03-17 | 19:05 | 🟢 BUY | scc | 0.0001 | AJ8Gc1cY... | copy_buy | `5obzrmECeVqC...` |
 | 03-17 | 19:04 | 🟢 BUY | MAMESUKE | 0.0001 | FoabCXs5... | copy_buy | `2uinC1WYHiqr...` |
 | 03-17 | 19:04 | 🟢 BUY | SLAPP | 0.0001 | E5sZTG93... | copy_buy | `4io4BVzyTHzQ...` |
 | 03-17 | 19:04 | 🟢 BUY | Doodle | 0.0001 | APUYxGfK... | copy_buy | `4JmBaF4t4Eho...` |

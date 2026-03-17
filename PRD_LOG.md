@@ -1,8 +1,15 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 19:05 UTC** | 7d | 726 buys, 961 sells | In: **88.73** | Out: **82.28** | Net: **-6.45 SOL**
+> Updated: **2026-03-17 19:10 UTC** | 7d | 728 buys, 966 sells | In: **89.03** | Out: **82.78** | Net: **-6.25 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:09 | 🟢 BUY | Doodle | 0.1500 | 3HGqppv8... | copy | `5iCSdopNvxif...` |
+| 03-17 | 19:09 | 🔴 SELL | ? | 0.0517 | 3HGqppv8... | SL | `2Pqze8tuBiEh...` |
+| 03-17 | 19:07 | 🔴 SELL | 2024 | 0.0595 | CZjxED3u... | SL | `FS15rSYp7USo...` |
+| 03-17 | 19:06 | 🔴 SELL | ? | 0.1091 | 2w85VLX4... | stale | `2Vd2BaWrkQLe...` |
+| 03-17 | 19:06 | 🔴 SELL | BBX | 0.1324 | r9pFHjFe... | stale | `2mDeeehWgvY4...` |
+| 03-17 | 19:06 | 🔴 SELL | REESE | 0.1436 | J5jm7BnB... | stale | `461RfJPirTgy...` |
+| 03-17 | 19:05 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `3ZFiomXN8UeL...` |
 | 03-17 | 19:02 | 🟢 BUY | CLAWXIOM | 0.1500 | 42nQHDpy... | copy | `5e8uF6xFBR13...` |
 | 03-17 | 19:01 | 🔴 SELL | Chicken | 0.0571 | E79aNzAk... | SL | `2ZbS3FjFvsWP...` |
 | 03-17 | 19:00 | 💰 SELL | genny | 0.0751 | 42nQHDpy... | TP1 | `qqWqPJqGnHGq...` |
