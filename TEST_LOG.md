@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:45 UTC** | 7d | 1629 buys, 2077 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:50 UTC** | 7d | 1635 buys, 2079 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:49 | 🔴 SELL | EVERYTHING | 0.0000 | BBBByrLH... | SL | `32ksg7uX9bMv...` |
+| 03-17 | 19:49 | 🟢 BUY | PUMPOOR | 0.0001 | BBBByrLH... | copy_buy | `41pqCizBtAyD...` |
+| 03-17 | 19:49 | 🟢 BUY | NVDA | 0.0001 | AJ8Gc1cY... | copy_buy | `4A2j1VPUyvsf...` |
+| 03-17 | 19:48 | 🟢 BUY |  Anti-Job | 0.0001 | BBBByrLH... | copy_buy | `49Eaf45bkog9...` |
+| 03-17 | 19:48 | 🟢 BUY | Akhal-Teke | 0.0001 | bocsoUiM... | copy_buy | `3c1s3X49nNDF...` |
+| 03-17 | 19:47 | 🟢 BUY | Waymo | 0.0001 | bocsoUiM... | copy_buy | `4oij5rt3vuRk...` |
+| 03-17 | 19:46 | 🔴 SELL | FUD | 0.0000 | BBBByrLH... | SL | `2EVQ783X6yy1...` |
+| 03-17 | 19:45 | 🟢 BUY | EVERYTHING | 0.0001 | BBBByrLH... | copy_buy | `3FnoQACsbwYE...` |
 | 03-17 | 19:45 | 🟢 BUY | Shikano | 0.0001 | BBBByrLH... | copy_buy | `5N8KcmFxBL3D...` |
 | 03-17 | 19:44 | 🔴 SELL | GARLIC | 0.0000 | Lfw99jsE... | SL | `4njcxRWY1AZt...` |
 | 03-17 | 19:44 | 💰 SELL | PHIL | 0.0001 | GvksYkES... | TP2 | `5ttJfAdUTVAN...` |

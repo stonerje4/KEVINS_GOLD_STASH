@@ -1,18 +1,18 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-17 19:45 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
+> Last updated: **2026-03-17 19:50 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
 
 ## 🧪 Test Wallet
 
 | | Wallet | Pos | W/L | WR | Closed P&L | ROI | Unreal | **Total** | Avg Peak | Open |
 |--|--------|-----|-----|-----|------------|-----|--------|-----------|----------|------|
 | 🟢 | [`ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_ApkQGKbq8dRw5ha9n2bg.md) | 10 | 1/9 | 10% | $+408 | +41% | — | **$+408** | 2.0x | 0 |
-| 🟢 | [`GHy1P6vJrEoMvWtA7VBH8v5hUkKtxY5SsJNMNWELfdyV`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_GHy1P6vJrEoMvWtA7VBH.md) | 21 | 2/1 | 67% | $+400 | +133% | $-115 | **$+285** | 4.9x | 18 |
 | 🟢 | [`DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_DNfuF1L62WWyW3pNakVk.md) | 1 | 1/0 | 100% | $+214 | +214% | — | **$+214** | 5.7x | 0 |
-| 🟢 | [`GvksYkESkCqUocDfPtkA9EzmSBoYmxwgKkb6nr8J37Mf`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_GvksYkESkCqUocDfPtkA.md) | 2 | 0/0 | 0% | $+0 | — | $+198 | **$+198** | — | 2 |
-| 🟢 | [`7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_7cA6GmNF9zWBp67B7i9h.md) | 2 | 0/1 | 0% | $+47 | +47% | $+133 | **$+180** | 1.2x | 1 |
+| 🟢 | [`7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_7cA6GmNF9zWBp67B7i9h.md) | 2 | 0/1 | 0% | $+47 | +47% | $+156 | **$+203** | 1.2x | 1 |
+| 🟢 | [`GvksYkESkCqUocDfPtkA9EzmSBoYmxwgKkb6nr8J37Mf`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_GvksYkESkCqUocDfPtkA.md) | 2 | 0/0 | 0% | $+0 | — | $+162 | **$+162** | — | 2 |
 | 🟢 | [`3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_3XHiDvWCsaFCeQv3qqZL.md) | 3 | 1/2 | 33% | $+122 | +41% | — | **$+122** | 1.6x | 0 |
 | 🟢 | [`G1nVBXwCrXFNVifHx64m3jssXoyMSL8KNYc3X2fYL13Y`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_G1nVBXwCrXFNVifHx64m.md) | 3 | 0/0 | 0% | $+0 | — | $+100 | **$+100** | — | 3 |
 | 🟢 | [`6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_6raSuhfig5Y1vZJxrg9z.md) | 22 | 3/14 | 18% | $+261 | +15% | $-179 | **$+82** | 5.4x | 5 |
+| 🟢 | [`GHy1P6vJrEoMvWtA7VBH8v5hUkKtxY5SsJNMNWELfdyV`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_GHy1P6vJrEoMvWtA7VBH.md) | 21 | 2/1 | 67% | $+400 | +133% | $-334 | **$+66** | 4.9x | 18 |
 | 🟢 | [`3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_3AALd9Q4SEB6QL4mnQAf.md) | 2 | 1/1 | 50% | $+52 | +26% | — | **$+52** | 1.8x | 0 |
 | 🟢 | [`2AkmfaxF11TPaiRQbWDJVuoRcNofAwF6D9A5uZbMXj1G`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_2AkmfaxF11TPaiRQbWDJ.md) | 3 | 0/0 | 0% | $+0 | — | $+35 | **$+35** | — | 3 |
 | 🟢 | [`76aDmd3r3nVQah3NbVj9UNNMxtSB2LBTPk6V8fSkj7CG`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_76aDmd3r3nVQah3NbVj9.md) | 1 | 1/0 | 100% | $+31 | +31% | — | **$+31** | 3.5x | 0 |
@@ -48,12 +48,12 @@
 | 🔴 | [`ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_ETHhoTiKGRacGPLx5tCA.md) | 2 | 0/2 | 0% | $-200 | -100% | — | **$-200** | 1.1x | 0 |
 | 🔴 | [`GRnCsBLjtB61MdMEN6ANdezgU5ootwVEbUT2ZYyv18hq`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_GRnCsBLjtB61MdMEN6AN.md) | 3 | 0/2 | 0% | $-200 | -100% | $-15 | **$-215** | 1.0x | 1 |
 | 🔴 | [`7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_7EautDJGQDzgktooscvQ.md) | 4 | 1/3 | 25% | $-289 | -72% | — | **$-289** | 2.1x | 0 |
-| 🔴 | [`E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_E5sZTG938YDE7PrVpjHT.md) | 5 | 0/3 | 0% | $-260 | -87% | $-75 | **$-335** | 1.3x | 2 |
+| 🔴 | [`E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_E5sZTG938YDE7PrVpjHT.md) | 5 | 0/3 | 0% | $-260 | -87% | $-69 | **$-329** | 1.3x | 2 |
 | 🔴 | [`cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_cqakon1K22iRvSAnzyNG.md) | 5 | 0/5 | 0% | $-352 | -70% | — | **$-352** | 1.4x | 0 |
-| 🔴 | [`Lfw99jsEygTPVRM9j2cLEaUkMXPgqpCCzsTTJYiyw4S`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_Lfw99jsEygTPVRM9j2cL.md) | 19 | 1/5 | 17% | $-308 | -51% | $-152 | **$-460** | 1.3x | 13 |
+| 🔴 | [`Lfw99jsEygTPVRM9j2cLEaUkMXPgqpCCzsTTJYiyw4S`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_Lfw99jsEygTPVRM9j2cL.md) | 19 | 1/5 | 17% | $-308 | -51% | $-196 | **$-504** | 1.3x | 13 |
 | 🔴 | [`U3jiDzTcNJv5AB1WeRJco4aivebfvg5ZsGiyA6ZohYS`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_U3jiDzTcNJv5AB1WeRJc.md) | 7 | 1/6 | 14% | $-611 | -87% | — | **$-611** | 1.6x | 0 |
 | 🔴 | [`87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_87nWQxQvYvnijGKAD5yt.md) | 13 | 0/7 | 0% | $-606 | -87% | $-7 | **$-614** | 1.3x | 6 |
-| 🔴 | [`BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_BGGJhxGXeTmzGXDMuF5i.md) | 27 | 2/21 | 9% | $-667 | -29% | $-23 | **$-690** | 1.7x | 4 |
+| 🔴 | [`BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/TEST_BGGJhxGXeTmzGXDMuF5i.md) | 27 | 2/21 | 9% | $-667 | -29% | $-27 | **$-694** | 1.7x | 4 |
 
 > **Closed P&L / ROI** = closed positions only. **Unreal P&L** = current value of open positions vs entry.
 > **Avg Peak** = average highest multiple reached across closed positions. Click wallet for full trade log.
@@ -63,17 +63,17 @@
 
 | | Wallet | Pos | W/L | WR | Closed P&L | ROI | Unreal | **Total** | Avg Peak | Open |
 |--|--------|-----|-----|-----|------------|-----|--------|-----------|----------|------|
-| 🟢 | [`2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 45 | 19/25 | 43% | $+243 | +51% | $-4 | **$+239** | 2.5x | 1 |
+| 🟢 | [`2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 46 | 19/25 | 43% | $+243 | +51% | $-2 | **$+242** | 2.5x | 2 |
 | 🟢 | [`DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_DHfshpzoC9Q7rz32j5ju.md) | 53 | 12/37 | 24% | $+102 | +22% | $+74 | **$+175** | 2.8x | 4 |
-| 🟢 | [`DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 37 | 14/20 | 41% | $+163 | +37% | $+4 | **$+167** | 1.8x | 3 |
+| 🟢 | [`DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 37 | 14/20 | 41% | $+163 | +37% | $+3 | **$+166** | 1.8x | 3 |
 | 🟢 | [`HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_HMM6RoT2Xo3BNfD5FTNs.md) | 31 | 12/19 | 39% | $+156 | +57% | — | **$+156** | 2.3x | 0 |
 | 🟢 | [`r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_r9pFHjFe2CiovRvrakTC.md) | 20 | 5/12 | 29% | $+118 | +59% | $+1 | **$+119** | 1.9x | 3 |
 | 🟢 | [`9rb2ChEjkkCYGiHB97yssryBf8sh2W49MeyLUs69cKyS`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_9rb2ChEjkkCYGiHB97ys.md) | 38 | 10/28 | 26% | $+91 | +49% | — | **$+91** | 2.0x | 0 |
-| 🟢 | [`5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_5n593DWQkpfFgA69mS1M.md) | 19 | 5/12 | 29% | $+78 | +33% | $-12 | **$+65** | 2.0x | 2 |
+| 🟢 | [`5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_5n593DWQkpfFgA69mS1M.md) | 19 | 5/12 | 29% | $+78 | +33% | $-13 | **$+65** | 2.0x | 2 |
 | 🟢 | [`7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_7aMgK5L4qEQ8Nyv6ZzhZ.md) | 24 | 5/18 | 22% | $+70 | +39% | $-6 | **$+64** | 2.9x | 1 |
 | 🟢 | [`5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_5vweNikgScdnGkZCC3ya.md) | 9 | 4/4 | 50% | $+42 | +69% | $+18 | **$+61** | 4.3x | 1 |
 | 🟢 | [`J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_J5jm7BnBiGaB1x72FGNH.md) | 49 | 13/34 | 28% | $+44 | +8% | $-15 | **$+29** | 2.4x | 2 |
-| 🟢 | [`3HGqppv8tKVWHPFugQm1qQGPqkL6BDV2mnYgr4rXNGnE`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_3HGqppv8tKVWHPFugQm1.md) | 2 | 0/1 | 0% | $-2 | -14% | $+22 | **$+20** | 1.2x | 1 |
+| 🟢 | [`3HGqppv8tKVWHPFugQm1qQGPqkL6BDV2mnYgr4rXNGnE`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_3HGqppv8tKVWHPFugQm1.md) | 3 | 0/1 | 0% | $+6 | +41% | $+20 | **$+26** | 1.2x | 2 |
 | 🟢 | [`HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 8 | 1/5 | 17% | $-12 | -14% | $+26 | **$+14** | 1.2x | 2 |
 | 🟢 | [`42HG8wPULnwoWPCcixwBeYw9kb8Vdci7mQjs9iXV4nVv`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_42HG8wPULnwoWPCcixwB.md) | 5 | 0/3 | 0% | $-16 | -38% | $+27 | **$+12** | 1.0x | 2 |
 | 🟢 | [`W5D6nFHPARxc2wHjFgNXpudjnfFuXwWe3cWssyRjf1N`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_W5D6nFHPARxc2wHjFgNX.md) | 1 | 1/0 | 100% | $+11 | +77% | — | **$+11** | 3.7x | 0 |
@@ -84,11 +84,11 @@
 | 🔴 | [`DqUJZJ6e3sBiMtUbgveCJzqh3JhiLhpuBYmncg1ivwcc`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_DqUJZJ6e3sBiMtUbgveC.md) | 1 | 0/1 | 0% | $-3 | -25% | — | **$-3** | 1.3x | 0 |
 | 🔴 | [`E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_E79aNzAkDa92b5bnBHED.md) | 1 | 0/1 | 0% | $-9 | -62% | — | **$-9** | 1.3x | 0 |
 | 🔴 | [`EFmDSnRbFCHkUz3z9vVMahma725xe8zXoT1ru7ymwAgz`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_EFmDSnRbFCHkUz3z9vVM.md) | 1 | 0/1 | 0% | $-11 | -79% | — | **$-11** | 1.2x | 0 |
-| 🔴 | [`42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_42nQHDpyUQ73XUVcEAqG.md) | 27 | 3/7 | 30% | $+0 | +0% | $-16 | **$-16** | 2.7x | 17 |
 | 🔴 | [`BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_BNCSPd6QtP6rJCWZvaYn.md) | 8 | 2/3 | 40% | $-6 | -9% | $-15 | **$-21** | 1.8x | 3 |
-| 🔴 | [`CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_CZjxED3uVrU4MaNqkbw6.md) | 5 | 0/1 | 0% | $-8 | -60% | $-17 | **$-25** | 1.2x | 4 |
-| 🔴 | [`AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_AcWGZE1QF7R3MYQAFdUS.md) | 11 | 1/6 | 14% | $-32 | -33% | $+0 | **$-32** | 1.4x | 4 |
-| 🔴 | [`6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_6qTPHgnSZZUy5AeoqDBt.md) | 21 | 6/12 | 33% | $-45 | -18% | $+3 | **$-42** | 2.1x | 3 |
+| 🔴 | [`CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_CZjxED3uVrU4MaNqkbw6.md) | 5 | 0/1 | 0% | $-8 | -60% | $-17 | **$-26** | 1.2x | 4 |
+| 🔴 | [`AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_AcWGZE1QF7R3MYQAFdUS.md) | 11 | 1/6 | 14% | $-32 | -33% | $-2 | **$-35** | 1.4x | 4 |
+| 🔴 | [`42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_42nQHDpyUQ73XUVcEAqG.md) | 27 | 4/7 | 36% | $+4 | +3% | $-44 | **$-39** | 2.8x | 16 |
+| 🔴 | [`6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_6qTPHgnSZZUy5AeoqDBt.md) | 21 | 6/12 | 33% | $-45 | -18% | $+4 | **$-42** | 2.1x | 3 |
 | 🔴 | [`BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_BGGJhxGXeTmzGXDMuF5i.md) | 45 | 5/26 | 16% | $-150 | -35% | $+4 | **$-146** | 1.6x | 14 |
 
 > **Closed P&L / Closed ROI** = from closed positions only (real 0.15 SOL buys).

@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 19:45 UTC** | 7d | 730 buys, 973 sells | In: **89.43** | Out: **83.98** | Net: **-5.45 SOL**
+> Updated: **2026-03-17 19:50 UTC** | 7d | 732 buys, 975 sells | In: **89.73** | Out: **84.25** | Net: **-5.48 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:48 | 💰 SELL | clawchain | 0.1915 | 42nQHDpy... | trail | `4o6oqq81oGPj...` |
+| 03-17 | 19:48 | 💰 SELL | ? | 0.0838 | 3HGqppv8... | TP1 | `4U51z8t1ca1n...` |
+| 03-17 | 19:47 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `xnJhwTavfkRh...` |
+| 03-17 | 19:46 | 🟢 BUY | kiwi | 0.1500 | 2w85VLX4... | copy | `3vnRW5tWpfhV...` |
 | 03-17 | 19:43 | 💰 SELL | Doodle | 0.0768 | 3HGqppv8... | TP1 | `2BZPcrb4nE5a...` |
 | 03-17 | 19:39 | 🟢 BUY | ASTER | 0.1500 | BGGJhxGX... | copy | `3zJ4L31KGWMC...` |
 | 03-17 | 19:35 | 🔴 SELL | ANCESTORS | 0.0597 | 2w85VLX4... | SL | `5N7SAQ6GbTQ3...` |

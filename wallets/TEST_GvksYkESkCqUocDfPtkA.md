@@ -1,12 +1,12 @@
 # [TEST] `GvksYkESkCqUocDf...`
-> 2026-03-17 19:45 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-17 19:50 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SMUDGE | 03-17 19:38 | 0.81x | 1.08x | 0.1h | 0.0001 |
-| PHIL | 03-17 19:16 | 3.17x | 3.17x | 0.5h | 0.0001 |
+| SMUDGE | 03-17 19:38 | 1.51x | 1.51x | 0.2h | 0.0001 |
+| PHIL | 03-17 19:16 | 2.10x | 3.17x | 0.6h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
