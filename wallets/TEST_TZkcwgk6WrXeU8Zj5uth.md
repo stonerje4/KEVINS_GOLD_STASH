@@ -1,5 +1,11 @@
 # [TEST] `TZkcwgk6WrXeU8Zj...`
-> 2026-03-17 16:00 UTC | **8** pos | **0W/8L** | P&L: **-0.000435 SOL** (-54.4%) | 0 open
+> 2026-03-17 16:05 UTC | **9** pos | **0W/8L** | P&L: **-0.000435 SOL** (-54.4%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| TRAITOR | 03-17 16:02 | 0.70x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -18,6 +24,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:02 | TRAITOR | BUY | 0.0001 | `4pCtVAXU4ybFuyLU...` |
 | 03-17 06:18 | MC | SELL | 0.0000 | `227inayDkAcwrBEm...` |
 | 03-17 05:32 | MC | BUY | 0.0001 | `2W33wfF36Qp1thi3...` |
 | 03-17 04:59 | BITCOIN | SELL | 0.0001 | `46XXRajrHA2NHfdB...` |

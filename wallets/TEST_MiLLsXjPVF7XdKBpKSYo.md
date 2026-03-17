@@ -1,5 +1,11 @@
 # [TEST] `MiLLsXjPVF7XdKBp...`
-> 2026-03-17 16:00 UTC | **2** pos | **0W/2L** | P&L: **-0.000566 SOL** (-47.2%) | 0 open
+> 2026-03-17 16:05 UTC | **3** pos | **0W/2L** | P&L: **-0.000566 SOL** (-47.2%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| HARVEST | 03-17 16:03 | 0.95x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:03 | HARVEST | BUY | 0.0001 | `56nJ1nvDJcxFXxGU...` |
 | 03-16 09:04 | 金蟾蜍 | SELL | 0.0003 | `26uX9TaW3VsVgmU1...` |
 | 03-16 09:03 | 金蟾蜍 | BUY | 0.0006 | `2Q8yMXd94SH33ria...` |
 | 03-16 07:42 | CCA | SELL | 0.0004 | `5m3XXchUmhwh7oEL...` |
