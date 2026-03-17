@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 10:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 GITT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.60x | **Current:** 1.37x
+- **Peak:** 2.26x | **Current:** 2.26x
 - **Mint:** `EvhwAyk29n3fRUAq2gDGtxGwg2BpciG5APqpA76ipump`
 
 | Time | Action | SOL | TX |
@@ -160,7 +160,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 0.94x
+- **Peak:** 2.02x | **Current:** 0.95x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -327,7 +327,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.35x | **Current:** 1.98x
+- **Peak:** 2.35x | **Current:** 1.83x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

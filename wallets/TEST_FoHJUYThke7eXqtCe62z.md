@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 10:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CHEETO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.23x | **Current:** 1.00x
 - **Mint:** `3e6Qj7JPXc2FfgoU3Q7axKDuKwHGK5ajPFi4ouxbpump`
 
 | Time | Action | SOL | TX |
@@ -223,7 +223,7 @@
 
 ### 🟢 Toucan
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.09x | **Current:** 1.42x
+- **Peak:** 2.09x | **Current:** 1.33x
 - **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
 
 | Time | Action | SOL | TX |
