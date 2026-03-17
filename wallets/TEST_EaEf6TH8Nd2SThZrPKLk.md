@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Zero
 - **Status:** open | **Exit:** open
-- **Peak:** 1.25x | **Current:** 1.06x
+- **Peak:** 1.37x | **Current:** 1.37x
 - **Mint:** `7gVGRq4EYWeaFiS9ynpxj9yiHKL5k8GT5FRMx3w7pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 CLUDSTAR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.50x
+- **Peak:** 1.23x | **Current:** 0.46x
 - **Mint:** `2iU4cQvPD3n1HGXX2phTSHzSGU5syz3UTzbMYcRBpump`
 
 | Time | Action | SOL | TX |

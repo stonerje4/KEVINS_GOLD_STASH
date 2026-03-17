@@ -1,22 +1,31 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 69 |
-| Open | 46 |
+| Total Positions | 70 |
+| Open | 47 |
 | Closed | 23 |
 | W/L | 13/10 |
 | SOL In (closed) | 0.020700 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+43.8%** |
-| Open Deployed | 0.019100 SOL |
+| Open Deployed | 0.019200 SOL |
 
 ## Trades
 
+### 🟢 Mixer
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.95x
+- **Mint:** `2zHMQd7tyH7wtT6u1tSFdFmqXnxRGFMQ7eiMLnA7pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:20:30 | BUY | 0.000100 | `5E9mLzG3brid47KMiMhBig7pwrf8Pg...` |
+
 ### 🟢 Toucan
 - **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 1.47x
+- **Peak:** 1.68x | **Current:** 1.67x
 - **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
 
 | Time | Action | SOL | TX |

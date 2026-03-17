@@ -1,22 +1,31 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 18 |
-| Open | 17 |
+| Total Positions | 19 |
+| Open | 18 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.001700 SOL |
+| Open Deployed | 0.001800 SOL |
 
 ## Trades
 
+### 🟢 ANMOO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.97x
+- **Mint:** `2uEXkJ7dJVicgNXGn1ryPw2H4eqDL6CvtmL8tK6Kpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:23:32 | BUY | 0.000100 | `2JD8wPUhAe4HjpZjfTeLeEaNWYThzW...` |
+
 ### 🟢 BDH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.93x
+- **Peak:** 1.01x | **Current:** 0.86x
 - **Mint:** `Aqo81fep1rS4kAWNidSm5qZwa33kPebLNZZdXoJZpump`
 
 | Time | Action | SOL | TX |
@@ -115,7 +124,7 @@
 
 ### 🟢 ROCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 1.02x
+- **Peak:** 1.10x | **Current:** 1.10x
 - **Mint:** `2ByUr3vxL8uZnCoof1AW3Pi4yiyarVFBFDRCyjaNpump`
 
 | Time | Action | SOL | TX |

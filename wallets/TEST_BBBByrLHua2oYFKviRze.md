@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.030200 |
 | **Closed P&L** | **+0.024792 SOL** |
 | **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.003700 SOL |
+| Open Deployed | 0.003800 SOL |
 
 ## Trades
 
-### ⚪ pippin
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 pippin
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.56x
 - **Mint:** `A7xCRrweNWYryVgToAjDjYw4nhApfWUgMxFH7tTfpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 Anomaly
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.47x
+- **Peak:** 1.00x | **Current:** 0.46x
 - **Mint:** `CZsKYxRD7bKCRjTXaavgp2XBcmbmsBAhTEvL4zDMpump`
 
 | Time | Action | SOL | TX |

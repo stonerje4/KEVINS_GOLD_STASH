@@ -1,10 +1,10 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 1 |
+| Total Positions | 5 |
+| Open | 2 |
 | Closed | 3 |
 | W/L | 2/1 |
 | SOL In (closed) | 0.001300 |
@@ -14,9 +14,18 @@
 
 ## Trades
 
+### ⚪ OWN
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `MGopH3LorVWj9bWZgyo7Yd7EmHrYqeNrsD9TUq4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:24:59 | BUY | 0.000100 | `2JuXunH4iFhuRRTs8XmH8ypE4oxAoj...` |
+
 ### 🟢 DGPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.99x
+- **Peak:** 1.05x | **Current:** 0.94x
 - **Mint:** `veAj5XS6Ax8xLX5BjxAcWpfSFH7Dqh7aatxYTB6Hory`
 
 | Time | Action | SOL | TX |
