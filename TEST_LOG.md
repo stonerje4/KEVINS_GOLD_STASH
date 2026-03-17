@@ -1,8 +1,24 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:20 UTC** | 7d | 1704 buys, 2136 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:25 UTC** | 7d | 1710 buys, 2146 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:25 | 💰 SELL | UWH | 0.0001 | 6raSuhfi... | TP1 | `3DkFSbR8mCZX...` |
+| 03-17 | 21:24 | 💰 SELL | GANYMEDE | 0.0001 | EaEf6TH8... | tp_8x_trim | `33aoEdTcY16K...` |
+| 03-17 | 21:24 | 🔴 SELL | CRAIG | 0.0000 | 4Ki54j4t... | SL | `3X83wFZQJtYL...` |
+| 03-17 | 21:24 | 🔴 SELL | Joe | 0.0000 | Lfw99jsE... | SL | `2JedMCjt7yro...` |
+| 03-17 | 21:23 | 🟢 BUY | ILY | 0.0001 | 6raSuhfi... | copy_buy | `3763UgRoriN1...` |
+| 03-17 | 21:23 | 🟢 BUY | CRAIG | 0.0001 | 4Ki54j4t... | copy_buy | `624XkM3vBADd...` |
+| 03-17 | 21:23 | 💰 SELL | GANYMEDE | 0.0001 | EaEf6TH8... | TP4 | `2tvdQRPwiBDd...` |
+| 03-17 | 21:22 | 🟢 BUY | OPINION | 0.0001 | 7d8W4xZd... | copy_buy | `2YFg9ddNWErk...` |
+| 03-17 | 21:22 | 🟢 BUY | DEBT | 0.0001 | 5dd3zjBQ... | copy_buy | `4PVdM5LezNN3...` |
+| 03-17 | 21:21 | 💰 SELL | MONKE | 0.0002 | APUYxGfK... | trail | `3qEuYp4vNaM3...` |
+| 03-17 | 21:21 | 🔴 SELL | RYAN | 0.0000 | 3AALd9Q4... | SL | `61NfbtZwToi1...` |
+| 03-17 | 21:20 | 💰 SELL | GANYMEDE | 0.0000 | EaEf6TH8... | TP3 | `2GtUTKYAgaJ9...` |
+| 03-17 | 21:20 | 🟢 BUY | DINO | 0.0001 | otq3sTTS... | copy_buy | `4T2MwbiWpBiB...` |
+| 03-17 | 21:20 | 🟢 BUY | Terafab | 0.0001 | AiNfNi2e... | copy_buy | `3gY8SaGfXoyg...` |
+| 03-17 | 21:20 | 🔴 SELL | shit | 0.0001 | APUYxGfK... | trail | `5ZQC2zRL6t7s...` |
+| 03-17 | 21:20 | 🔴 SELL | DIVERGENT | 0.0000 | 7yd579zX... | SL | `VNndZjR9aEB6...` |
 | 03-17 | 21:19 | 🟢 BUY | UWH | 0.0001 | 6raSuhfi... | copy_buy | `4Ttf8rAjxE5V...` |
 | 03-17 | 21:19 | 🟢 BUY | Wump | 0.0001 | 5dd3zjBQ... | copy_buy | `5C2KfN7ZCVem...` |
 | 03-17 | 21:18 | 🟢 BUY | TB3K  | 0.0001 | otq3sTTS... | copy_buy | `2MUzMS5tpZwq...` |
