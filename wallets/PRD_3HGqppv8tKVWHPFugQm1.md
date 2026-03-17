@@ -1,12 +1,13 @@
 # [PRD] `3HGqppv8tKVWHPFu...`
-> 2026-03-17 20:05 UTC | **6** pos | **1W/3L** | P&L: **-0.237351 SOL** (-39.6%) | 2 open
+> 2026-03-17 20:10 UTC | **7** pos | **1W/3L** | P&L: **-0.237351 SOL** (-39.6%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| VULTURE | 03-17 20:03 | 0.00x | 1.63x | 0.0h | 0.1500 |
-| Doodle | 03-17 19:09 | 0.00x | 2.63x | 0.9h | 0.1500 |
+| SOYJAK | 03-17 20:06 | 0.00x | 1.62x | 0.1h | 0.1500 |
+| VULTURE | 03-17 20:03 | 0.00x | 1.84x | 0.1h | 0.1500 |
+| Doodle | 03-17 19:09 | 0.00x | 2.63x | 1.0h | 0.1500 |
 
 ## Closed
 
@@ -21,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 20:06 | SOYJAK | BUY | 0.1500 | `2APSc7EnoaYMEeA4...` |
 | 03-17 20:03 | VULTURE | BUY | 0.1500 | `2yGaLk6rHNNTeakH...` |
 | 03-17 19:57 | ? | SELL | 0.0571 | `3G6TiPxwrJvSniTN...` |
 | 03-17 19:54 | ? | BUY | 0.1500 | `2AaY9PtxQuUbKrna...` |

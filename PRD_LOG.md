@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 20:05 UTC** | 7d | 738 buys, 977 sells | In: **90.73** | Out: **84.49** | Net: **-6.24 SOL**
+> Updated: **2026-03-17 20:10 UTC** | 7d | 740 buys, 976 sells | In: **91.03** | Out: **84.46** | Net: **-6.57 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:09 | 🟢 BUY | ? | 0.1500 | 5n593DWQ... | copy | `5WS7Cktw5zTj...` |
+| 03-17 | 20:06 | 🟢 BUY | SOYJAK | 0.1500 | 3HGqppv8... | copy | `2APSc7EnoaYM...` |
 | 03-17 | 20:03 | 🟢 BUY | VULTURE | 0.1500 | 3HGqppv8... | copy | `2yGaLk6rHNNT...` |
 | 03-17 | 20:01 | 💰 SELL | kiwi | 0.0802 | 2w85VLX4... | TP1 | `3jpfSES8ELp9...` |
 | 03-17 | 19:57 | 🔴 SELL | ? | 0.0571 | 3HGqppv8... | SL | `3G6TiPxwrJvS...` |
@@ -1717,4 +1719,3 @@
 | 03-10 | 20:17 | 🟢 BUY | Teacat | 0.0500 | 8QfqdUJt... | copy | `4d3CQMvYdzm9...` |
 | 03-10 | 20:12 | 💰 SELL | SPACE | 0.0510 | 9rb2ChEj... | TP3 | `4ExJKKRowtMs...` |
 | 03-10 | 20:11 | 💰 SELL | creature | 0.0514 | HMM6RoT2... | TP3 | `2jy6JMvBTdbH...` |
-| 03-10 | 20:08 | 💰 SELL | SPACE | 0.0318 | 9rb2ChEj... | TP2 | `4Ytn8x4XXj6u...` |

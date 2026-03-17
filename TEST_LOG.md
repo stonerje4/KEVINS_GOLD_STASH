@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:05 UTC** | 7d | 1648 buys, 2093 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:10 UTC** | 7d | 1651 buys, 2095 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:09 | 🟢 BUY | CANCRIE | 0.0001 | BBBByrLH... | copy_buy | `2fyMq4hPutEc...` |
+| 03-17 | 20:07 | 🔴 SELL | YOLO | 0.0000 | Lfw99jsE... | SL | `3ezWJ9gegJoz...` |
+| 03-17 | 20:07 | 🟢 BUY | Trenchies | 0.0001 | BBBByrLH... | copy_buy | `2pUohJVxe2JW...` |
+| 03-17 | 20:05 | 🟢 BUY | Antichrist | 0.0001 | bocsoUiM... | copy_buy | `5hCjbWndQE8L...` |
+| 03-17 | 20:05 | 💰 SELL | LCM | 0.0001 | Lfw99jsE... | TP2 | `2WruKK5gJZTz...` |
 | 03-17 | 20:04 | 🔴 SELL | Antichrist | 0.0000 | BBBByrLH... | SL | `4MG5hrTeYE84...` |
 | 03-17 | 20:03 | 🟢 BUY | JACKPOT | 0.0001 | BBBByrLH... | copy_buy | `3Z3Zvd4gkve5...` |
 | 03-17 | 20:00 | 🟢 BUY | Pussies | 0.0001 | otq3sTTS... | copy_buy | `3ZiWdAbvBKLb...` |
