@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:20 UTC** | 7d | 1299 buys, 1826 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:25 UTC** | 7d | 1304 buys, 1829 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:24 | 🟢 BUY | FUGUU | 0.0001 | cqakon1K... | copy_buy | `5KR2qgh2vYXS...` |
+| 03-17 | 13:24 | 💰 SELL | Lucky | 0.0000 | 35RArQiy... | TP1 | `4SaQCSP3CXgc...` |
+| 03-17 | 13:23 | 🟢 BUY | Thinker | 0.0001 | 9t6xjxxt... | copy_buy | `55XTUP8Nqvkb...` |
+| 03-17 | 13:23 | 💰 SELL | MEMSIE | 0.0000 | 2autqiin... | TP2 | `GwEmVBNPsZmE...` |
+| 03-17 | 13:22 | 🟢 BUY | 1 | 0.0001 | 5VVBthee... | copy_buy | `cCr8QuqW7vVC...` |
+| 03-17 | 13:22 | 💰 SELL | TRUST | 0.0000 | AJ8Gc1cY... | TP2 | `GppNj8c7CFso...` |
+| 03-17 | 13:21 | 🟢 BUY | chub | 0.0001 | FoHJUYTh... | copy_buy | `3z2iJpGrbYJ3...` |
+| 03-17 | 13:21 | 🟢 BUY | IRL | 0.0001 | 2947n9KQ... | copy_buy | `G3QSA12z34QS...` |
 | 03-17 | 13:18 | 🟢 BUY | L/0 | 0.0001 | EaEf6TH8... | copy_buy | `65My1HUFMben...` |
 | 03-17 | 13:18 | 💰 SELL | MEMSIE | 0.0000 | 2autqiin... | TP1 | `3uPDgFqxY9wU...` |
 | 03-17 | 13:18 | 🔴 SELL | KVRNTC | 0.0000 | EaEf6TH8... | SL | `4TufW4J4TqcL...` |

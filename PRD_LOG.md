@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 13:20 UTC** | 7d | 679 buys, 919 sells | In: **79.48** | Out: **78.77** | Net: **-0.71 SOL**
+> Updated: **2026-03-17 13:25 UTC** | 7d | 681 buys, 919 sells | In: **79.78** | Out: **78.77** | Net: **-1.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:24 | 🟢 BUY | FUGUU | 0.1500 | VJSDW6S7... | copy | `2xuP2KLyyei9...` |
+| 03-17 | 13:21 | 🟢 BUY | KENNY | 0.1500 | 42nQHDpy... | copy | `5PSV9nRdSnkR...` |
 | 03-17 | 13:12 | 🔴 SELL | Jorge | 0.0591 | 42nQHDpy... | SL | `4oWyceh8HY6C...` |
 | 03-17 | 13:11 | 💰 SELL | kekkek | 0.1849 | W5D6nFHP... | trail | `2Rc1ya1p5tdo...` |
 | 03-17 | 13:06 | 🟢 BUY | ? | 0.1500 | VJSDW6S7... | copy | `3rgg8wEU2kqh...` |

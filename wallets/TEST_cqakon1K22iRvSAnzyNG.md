@@ -1,5 +1,11 @@
 # [TEST] `cqakon1K22iRvSAn...`
-> 2026-03-17 13:20 UTC | **2** pos | **0W/2L** | P&L: **-0.000161 SOL** (-80.6%) | 0 open
+> 2026-03-17 13:25 UTC | **3** pos | **0W/2L** | P&L: **-0.000161 SOL** (-80.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| FUGUU | 03-17 13:24 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:24 | FUGUU | BUY | 0.0001 | `5KR2qgh2vYXStGjW...` |
 | 03-17 03:05 | POKER | SELL | 0.0000 | `5C5BKAZ69L8X5UHj...` |
 | 03-17 02:42 | POKER | BUY | 0.0001 | `37T4HXFAfrQ9uPDp...` |
 | 03-17 00:29 | AGI | BUY | 0.0001 | `3hic24sdEfnmPFeX...` |

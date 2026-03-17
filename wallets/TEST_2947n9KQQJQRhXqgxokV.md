@@ -1,5 +1,11 @@
 # [TEST] `2947n9KQQJQRhXqg...`
-> 2026-03-17 13:20 UTC | **27** pos | **2W/25L** | P&L: **-0.006290 SOL** (-68.4%) | 0 open
+> 2026-03-17 13:25 UTC | **28** pos | **2W/25L** | P&L: **-0.006290 SOL** (-68.4%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| IRL | 03-17 13:21 | 1.12x | 1.26x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -37,6 +43,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:21 | IRL | BUY | 0.0001 | `G3QSA12z34QSRf5b...` |
 | 03-17 10:51 | WAR | SELL | 0.0000 | `JoL3x6Apr7WwTgox...` |
 | 03-17 08:57 | xAU | BUY | 0.0001 | `5swxxaEZDG27HKhz...` |
 | 03-17 07:35 | AOR | BUY | 0.0001 | `3pUP7qWA3jC3WDRq...` |
