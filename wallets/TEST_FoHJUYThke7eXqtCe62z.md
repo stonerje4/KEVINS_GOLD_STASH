@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 03:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 VIC20
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.89x
+- **Peak:** 1.01x | **Current:** 0.88x
 - **Mint:** `EprT6jxBNphPL9etcRM8eyG4c4HXAzAXE5NmV8B5pump`
 
 | Time | Action | SOL | TX |
@@ -133,7 +133,7 @@
 
 ### 🟢 NEMOCLAW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 0.91x
+- **Peak:** 1.15x | **Current:** 0.90x
 - **Mint:** `JDcPAEn2isVbrXPAQs8AQQNSTm3SGvug3bLnSYGkpump`
 
 | Time | Action | SOL | TX |
@@ -299,7 +299,7 @@
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `DwkjZoNj6PmJ31PNky4GeMUH6je3rCC1BdgpyCSbpump`
 
 | Time | Action | SOL | TX |

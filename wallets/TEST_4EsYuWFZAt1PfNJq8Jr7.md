@@ -1,10 +1,10 @@
 # [TEST] Wallet: `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx`
-> Generated: 2026-03-17 03:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 0 |
+| Total Positions | 7 |
+| Open | 1 |
 | Closed | 6 |
 | W/L | 5/1 |
 | SOL In (closed) | 0.003100 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.000000 SOL |
 
 ## Trades
+
+### ⚪ SKULL
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `5fzCokPYw6mCodAsjSr7wYR9ct9gpr7ZJ8ELgjBcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:24:57 | BUY | 0.000100 | `2xP9pPRdy1HHHXQCZXTb1YiCtnc1xg...` |
 
 ### 🔴 Replacement
 - **Status:** closed | **Exit:** stop_loss

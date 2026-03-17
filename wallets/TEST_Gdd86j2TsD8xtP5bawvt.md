@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 03:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 BITCOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 0.54x
+- **Peak:** 1.17x | **Current:** 0.45x
 - **Mint:** `GoiXEGSrUBCZhQH1d3cGaZ1TXtPWgdtx1fCcxS76pump`
 
 | Time | Action | SOL | TX |
@@ -36,7 +36,7 @@
 
 ### 🟢 Hyojo
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.47x | **Current:** 2.47x
+- **Peak:** 2.84x | **Current:** 2.51x
 - **Mint:** `HfKNrf3VFYSzZfG3jS4pQEfjkHTxAwmD4wm1FUx8pump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 03:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 NEMOCLAW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.66x
+- **Peak:** 1.00x | **Current:** 0.65x
 - **Mint:** `8AVbpsXyQy4fPExCq3FydnDfxfmGytvs3W7n1SVapump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Gany
 - **Status:** partial | **Exit:** open
-- **Peak:** 63.45x | **Current:** 62.86x
+- **Peak:** 63.45x | **Current:** 48.92x
 - **Mint:** `BgtczEGgf9mZMcGBLi4J5Pn8PtmFy6Xz5uBKkMfspump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 patrick 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.59x
+- **Peak:** 1.16x | **Current:** 0.55x
 - **Mint:** `CGJBLh4y224Xzzj16UcgkwNBVJjKFQRAqpaXc4tfpump`
 
 | Time | Action | SOL | TX |
@@ -62,7 +62,7 @@
 
 ### 🟢 POLYHUNT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.00x
+- **Peak:** 1.28x | **Current:** 0.94x
 - **Mint:** `3DcFuBtMgMJftX6djdQn4A6bG3hAPPbFMNr5zPs4pump`
 
 | Time | Action | SOL | TX |

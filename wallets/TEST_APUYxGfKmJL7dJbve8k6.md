@@ -1,5 +1,5 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 03:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -62,7 +62,7 @@
 
 ### 🟢 ORC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.59x
+- **Peak:** 1.00x | **Current:** 0.58x
 - **Mint:** `9XqeTKFq4wVgXspM6bo2rinrT1iAg1Xwj6798hDNpump`
 
 | Time | Action | SOL | TX |
