@@ -1,5 +1,11 @@
 # [PRD] `2w85VLX4W4qm8SPS...`
-> 2026-03-17 11:35 UTC | **36** pos | **16W/20L** | P&L: **+1.821348 SOL** (+46.3%) | 0 open
+> 2026-03-17 11:40 UTC | **37** pos | **16W/20L** | P&L: **+1.821348 SOL** (+46.3%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| ANCESTORS | 03-17 11:37 | 0.00x | 1.11x | 0.0h | 0.1500 |
 
 ## Closed
 
@@ -46,8 +52,13 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 11:37 | ANCESTORS | BUY | 0.1500 | `5ygmVtPchtbm92yt...` |
 | 03-17 08:48 | CC | SELL | 0.0853 | `3MFzYnxnzUjgqHak...` |
 | 03-16 23:17 | REDHEAD | SELL | 0.0642 | `36xRjPvZv4XJrDEm...` |
+| 03-16 22:15 | ANCESTORS | SELL | 0.1322 | `?` |
+| 03-16 22:15 | ANCESTORS | SELL | 0.1331 | `?` |
+| 03-16 22:11 | ANCESTORS | BUY | 0.1500 | `F29h7ETiBF7L5aNP...` |
+| 03-16 22:11 | ANCESTORS | BUY | 0.1500 | `PXB9mG7up3dNYkjx...` |
 | 03-16 21:53 | NEMOCLAW | SELL | 0.0566 | `2iRKXWieMSxw1wkC...` |
 | 03-16 20:54 | SHELLY | SELL | 0.1965 | `4TQfk1VTGYHYvREA...` |
 | 03-16 20:40 | NEMOCLAW | BUY | 0.1500 | `12AkMZSsh7pJRJTR...` |

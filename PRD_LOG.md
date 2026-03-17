@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 11:35 UTC** | 7d | 667 buys, 917 sells | In: **77.48** | Out: **78.14** | Net: **+0.66 SOL**
+> Updated: **2026-03-17 11:40 UTC** | 7d | 671 buys, 917 sells | In: **78.08** | Out: **78.14** | Net: **+0.06 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 11:39 | 🟢 BUY | Kick | 0.1500 | 42nQHDpy... | copy | `3HYqTeNPRZi4...` |
+| 03-17 | 11:39 | 🟢 BUY | kekkek | 0.1500 | W5D6nFHP... | copy | `5PsuQc9i55R6...` |
+| 03-17 | 11:37 | 🟢 BUY | ANCESTORS | 0.1500 | 2w85VLX4... | copy | `5ygmVtPchtbm...` |
+| 03-17 | 11:37 | 🟢 BUY | Ancestors | 0.1500 | VJSDW6S7... | copy | `ZUErjG2jKtBz...` |
 | 03-17 | 11:28 | 🟢 BUY | SYNTHRA | 0.1500 | 42nQHDpy... | copy | `4LqmoS3zUwWV...` |
 | 03-17 | 10:40 | 🟢 BUY | 401k | 0.1500 | 4rsj2xh5... | copy | `38rH8JuY6KTC...` |
 | 03-17 | 10:11 | 💰 SELL | Clanker | 0.4472 | DDApL88z... | trail | `3BZ7ybyJLLqz...` |
@@ -123,10 +127,10 @@
 | 03-16 | 22:20 | 🟢 BUY | house | 0.1500 | 5n593DWQ... | copy | `4pnYFgkWtGXG...` |
 | 03-16 | 22:20 | 🟢 BUY | BBX | 0.1500 | FsAEk7fy... | copy | `WdnrWP8oFzeN...` |
 | 03-16 | 22:17 | 🔴 SELL | BLACKJACK | 0.1175 | DDApL88z... | stale | `4BZFAMzeJeE9...` |
-| 03-16 | 22:15 | 🔴 SELL | ANCESTORS | 0.1331 | J5jm7BnB... | manual_sell | `?` |
-| 03-16 | 22:15 | 🔴 SELL | ANCESTORS | 0.1322 | J5jm7BnB... | manual_sell | `?` |
-| 03-16 | 22:11 | 🟢 BUY | ANCESTORS | 0.1500 | J5jm7BnB... | copy | `F29h7ETiBF7L...` |
-| 03-16 | 22:11 | 🟢 BUY | ANCESTORS | 0.1500 | J5jm7BnB... | copy | `PXB9mG7up3dN...` |
+| 03-16 | 22:15 | 🔴 SELL | ANCESTORS | 0.1331 | 2w85VLX4... | manual_sell | `?` |
+| 03-16 | 22:15 | 🔴 SELL | ANCESTORS | 0.1322 | 2w85VLX4... | manual_sell | `?` |
+| 03-16 | 22:11 | 🟢 BUY | ANCESTORS | 0.1500 | 2w85VLX4... | copy | `F29h7ETiBF7L...` |
+| 03-16 | 22:11 | 🟢 BUY | ANCESTORS | 0.1500 | 2w85VLX4... | copy | `PXB9mG7up3dN...` |
 | 03-16 | 22:10 | 🔴 SELL | BAGS | 0.0751 | 6qTPHgnS... | stale | `4YqUtwX1KM9H...` |
 | 03-16 | 22:10 | 🔴 SELL | face | 0.1763 | DDApL88z... | manual_sell | `?` |
 | 03-16 | 22:10 | 🔴 SELL | face | 0.1642 | DDApL88z... | manual_sell | `?` |

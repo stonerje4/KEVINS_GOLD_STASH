@@ -1,12 +1,12 @@
 # [PRD] `DDApL88zun3vGuhk...`
-> 2026-03-17 11:35 UTC | **35** pos | **9W/24L** | P&L: **+1.670941 SOL** (+36.5%) | 2 open
+> 2026-03-17 11:40 UTC | **35** pos | **9W/24L** | P&L: **+1.670941 SOL** (+36.5%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| 唐 | 03-17 01:33 | 0.00x | 1.00x | 10.0h | 0.1500 |
-| BATTLE | 03-17 00:51 | 0.00x | 1.47x | 10.7h | 0.1500 |
+| 唐 | 03-17 01:33 | 0.00x | 1.00x | 10.1h | 0.1500 |
+| BATTLE | 03-17 00:51 | 0.00x | 1.47x | 10.8h | 0.1500 |
 
 ## Closed
 
@@ -50,6 +50,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 11:37 | ANCESTORS | BUY | 0.1500 | `5ygmVtPchtbm92yt...` |
 | 03-17 10:11 | Clanker | SELL | 0.4472 | `3BZ7ybyJLLqzRWhx...` |
 | 03-17 08:30 | Clanker | SELL | 0.0761 | `MebXT12QByuv7Se2...` |
 | 03-17 08:28 | Clanker | SELL | 0.0463 | `5YpuB2N38tbDwDnx...` |
