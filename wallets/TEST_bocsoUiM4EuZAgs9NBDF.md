@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 04:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -134,7 +134,7 @@
 
 ### 🟢 BATTLE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.12x | **Current:** 1.62x
+- **Peak:** 2.12x | **Current:** 1.61x
 - **Mint:** `41Ro9syNfd3CRKjSGvCk5iaXpyb557k1ACHUEDUEpump`
 
 | Time | Action | SOL | TX |
@@ -209,7 +209,7 @@
 
 ### 🟢 RA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 1.13x
+- **Peak:** 1.48x | **Current:** 1.25x
 - **Mint:** `AtnwLCgwkJQqKFRH1Uzrk5eTzWMWkn1kWCCvwqPPpump`
 
 | Time | Action | SOL | TX |

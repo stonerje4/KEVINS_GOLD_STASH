@@ -1,28 +1,29 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 04:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 2 |
-| Closed | 5 |
-| W/L | 5/0 |
-| SOL In (closed) | 0.000500 |
-| **Closed P&L** | **+0.000228 SOL** |
-| **Closed ROI** | **+45.6%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 6 |
+| W/L | 6/0 |
+| SOL In (closed) | 0.000600 |
+| **Closed P&L** | **+0.000327 SOL** |
+| **Closed ROI** | **+54.5%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 BITCOIN
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.82x | **Current:** 2.36x
+### 🔴 BITCOIN
+- **Status:** closing | **Exit:** runner_trailing_stop
+- **Peak:** 2.82x | **Current:** 0.81x
 - **Mint:** `67JxGtfRB6qoYEQ6csTb9jFSF7f7WAbNeSAp6Mkmpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:37:28 | BUY | 0.000100 | `2A844jkbEFMXALLGY3N27NATiXCMBr...` |
 | 2026-03-17 04:52:27 | SELL | 0.000027 | `63fg3eKrgujDyw2MEdugTu9iJm7d8G...` |
+| 2026-03-17 04:59:55 | SELL | 0.000073 | `46XXRajrHA2NHfdB1VBRtyhAAN8xoe...` |
 
 ### 🟢 Crabwise
 - **Status:** open | **Exit:** open
