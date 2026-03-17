@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 08:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 107 |
-| Open | 34 |
+| Total Positions | 108 |
+| Open | 35 |
 | Closed | 73 |
 | W/L | 70/3 |
 | SOL In (closed) | 0.030800 |
 | **Closed P&L** | **+0.025748 SOL** |
 | **Closed ROI** | **+83.6%** |
-| Open Deployed | 0.004400 SOL |
+| Open Deployed | 0.004500 SOL |
 
 ## Trades
+
+### 🟢 BRAIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `2HTfaUQijVGFDAyTwJVAm6rXPSeh8ifdgV3XzeAXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 08:03:37 | BUY | 0.000100 | `5DN73tprGDjgfCMiL3fZ9CWShTfF3p...` |
 
 ### 🔴 MEMEATM
 - **Status:** closed | **Exit:** ghost_close_tp_2x_half

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 08:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CHILLIFE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `Hme7sUc2T4TJieojK8yBoN6CYGHoTHs1WjRZ5EFSpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 FUGUU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 0.75x
+- **Peak:** 1.31x | **Current:** 0.76x
 - **Mint:** `CGmtCigyh82qWgYRPBGefiqeRmiJ1kaSDWqvyAxypump`
 
 | Time | Action | SOL | TX |
@@ -588,7 +588,7 @@
 
 ### 🟢 CIUSGENT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.88x
+- **Peak:** 1.43x | **Current:** 0.79x
 - **Mint:** `6C7wmPqEJq4hKg9r8tmRRdqFBAifc1x7hbDJDo7Fpump`
 
 | Time | Action | SOL | TX |
@@ -627,7 +627,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.79x
+- **Peak:** 1.09x | **Current:** 0.80x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |
@@ -656,7 +656,7 @@
 
 ### 🟢 Minecraft
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `FLhogsmiJFdTAguBw1csum4PicbDVucrbNxkT2Uupump`
 
 | Time | Action | SOL | TX |
