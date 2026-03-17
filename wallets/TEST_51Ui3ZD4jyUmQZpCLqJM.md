@@ -1,11 +1,11 @@
 # [TEST] `51Ui3ZD4jyUmQZpC...`
-> 2026-03-17 12:35 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+> 2026-03-17 12:40 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| gayhormuz | 03-17 12:09 | 1.50x | 1.58x | 0.4h | 0.0001 |
+| gayhormuz | 03-17 12:09 | 2.36x | 3.07x | 0.5h | 0.0001 |
 
 ## Closed
 
@@ -17,6 +17,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:37 | gayhormuz | SELL | 0.0000 | `2HCFoai9ZqHFxS4P...` |
+| 03-17 12:37 | gayhormuz | SELL | 0.0000 | `xw1ruC2w8t1b13gd...` |
 | 03-17 12:09 | gayhormuz | BUY | 0.0001 | `Ap3SA9A4gYDiwdv2...` |
 | 03-17 03:54 | Geeked | BUY | 0.0001 | `2voC9c5aqSyMCJEP...` |
 

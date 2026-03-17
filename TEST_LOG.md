@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 12:35 UTC** | 7d | 1273 buys, 1808 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 12:40 UTC** | 7d | 1274 buys, 1811 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 12:39 | 🟢 BUY | SAM | 0.0001 | EaEf6TH8... | copy_buy | `jKBLcqQ2oZfn...` |
+| 03-17 | 12:37 | 💰 SELL | NALA | 0.0000 | EaEf6TH8... | TP1 | `eWv959LoG9mD...` |
+| 03-17 | 12:37 | 💰 SELL | gayhormuz | 0.0000 | 51Ui3ZD4... | TP2 | `2HCFoai9ZqHF...` |
+| 03-17 | 12:37 | 💰 SELL | gayhormuz | 0.0000 | 51Ui3ZD4... | TP1 | `xw1ruC2w8t1b...` |
 | 03-17 | 12:33 | 🟢 BUY | SPC | 0.0001 | AiNfNi2e... | copy_buy | `3DX89VpkLhhL...` |
 | 03-17 | 12:32 | 🟢 BUY | NALA | 0.0001 | EaEf6TH8... | copy_buy | `3gLx63gRckqt...` |
 | 03-17 | 12:31 | 🟢 BUY | Unplug | 0.0001 | FWQ3sv51... | copy_buy | `3dxo8onTU7SP...` |

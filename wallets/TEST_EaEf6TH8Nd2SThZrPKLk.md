@@ -1,11 +1,12 @@
 # [TEST] `EaEf6TH8Nd2SThZr...`
-> 2026-03-17 12:35 UTC | **129** pos | **18W/110L** | P&L: **-0.010626 SOL** (-25.1%) | 1 open
+> 2026-03-17 12:40 UTC | **130** pos | **18W/110L** | P&L: **-0.010626 SOL** (-25.1%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| NALA | 03-17 12:32 | 1.05x | 1.05x | 0.0h | 0.0001 |
+| SAM | 03-17 12:39 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| NALA | 03-17 12:32 | 2.80x | 2.85x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -144,6 +145,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:39 | SAM | BUY | 0.0001 | `jKBLcqQ2oZfnDDVG...` |
+| 03-17 12:37 | NALA | SELL | 0.0000 | `eWv959LoG9mD4M3a...` |
 | 03-17 12:32 | NALA | BUY | 0.0001 | `3gLx63gRckqtvvGy...` |
 | 03-17 12:29 | PSYDEGEN | SELL | 0.0000 | `2GZGgrUo7gRUpnso...` |
 | 03-17 12:26 | PSYDEGEN | BUY | 0.0001 | `3Uh5HFEYKVkifQSm...` |
