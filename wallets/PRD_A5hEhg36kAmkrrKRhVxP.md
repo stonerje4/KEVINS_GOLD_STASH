@@ -1,5 +1,11 @@
 # [PRD] `A5hEhg36kAmkrrKR...`
-> 2026-03-17 13:25 UTC | **11** pos | **1W/10L** | P&L: **+0.112887 SOL** (+6.8%) | 0 open
+> 2026-03-17 13:30 UTC | **12** pos | **1W/10L** | P&L: **+0.112887 SOL** (+6.8%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Thinker | 03-17 13:28 | 0.00x | 1.19x | 0.0h | 0.1500 |
 
 ## Closed
 
@@ -21,6 +27,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:28 | Thinker | BUY | 0.1500 | `5egBGw1J5o9HVRYT...` |
 | 03-17 03:17 | API | SELL | 0.1127 | `4WFVXjGs6drAkS1F...` |
 | 03-17 02:27 | grokette | SELL | 0.0573 | `3QL87C2CRxxcuW1b...` |
 | 03-17 02:21 | API | SELL | 0.0305 | `4LaQ3FVt1RQZ6PGd...` |

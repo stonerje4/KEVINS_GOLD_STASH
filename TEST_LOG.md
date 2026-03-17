@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:25 UTC** | 7d | 1304 buys, 1829 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:30 UTC** | 7d | 1305 buys, 1832 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:29 | 🔴 SELL | FUGUU | 0.0000 | cqakon1K... | SL | `5HPTszPMdE2X...` |
+| 03-17 | 13:28 | 🟢 BUY | Out | 0.0001 | BBBByrLH... | copy_buy | `5RMWqh1f33JT...` |
+| 03-17 | 13:28 | 🔴 SELL | NALA | 0.0000 | EaEf6TH8... | trail | `4p7Ud4TtQEeu...` |
+| 03-17 | 13:25 | 💰 SELL | Conviction | 0.0000 | 76aDmd3r... | TP2 | `x27HSgeWrSjX...` |
 | 03-17 | 13:24 | 🟢 BUY | FUGUU | 0.0001 | cqakon1K... | copy_buy | `5KR2qgh2vYXS...` |
 | 03-17 | 13:24 | 💰 SELL | Lucky | 0.0000 | 35RArQiy... | TP1 | `4SaQCSP3CXgc...` |
 | 03-17 | 13:23 | 🟢 BUY | Thinker | 0.0001 | 9t6xjxxt... | copy_buy | `55XTUP8Nqvkb...` |
