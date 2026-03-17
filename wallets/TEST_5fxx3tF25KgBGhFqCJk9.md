@@ -1,5 +1,5 @@
 # [TEST] Wallet: `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus`
-> Generated: 2026-03-17 08:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -24,13 +24,16 @@
 | 2026-03-17 07:55:19 | BUY | 0.000100 | `3cfbYY2j6AwzCDtqs9ZWzbbxNwGEws...` |
 
 ### 🟢 唐子
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.42x
+- **Status:** partial | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.39x
 - **Mint:** `FdN7NmokGJpGP83qZMkWGH4rGfKLk6gdu3XeiiVDTRND`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:52:43 | BUY | 0.000100 | `2f4UCcuqNUD1VKJB2tMrc6htdHLHo1...` |
+| 2026-03-17 08:17:20 | SELL | 0.000040 | `3RQ9SABn6WTWsWdpvKWKPzN7wuW2qe...` |
+| 2026-03-17 08:18:18 | SELL | 0.000000 | `2hr8fwToEpZKZEX9tPkMgBygJTBbwH...` |
+| 2026-03-17 08:19:16 | SELL | 0.000000 | `4PB77VpPaJbJBMPPb1aK4gypLfJwqp...` |
 
 ### 🔴 MULERUN
 - **Status:** closed | **Exit:** ghost_close_stop_loss

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 08:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CHILLIFE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.05x
+- **Peak:** 1.06x | **Current:** 0.91x
 - **Mint:** `Hme7sUc2T4TJieojK8yBoN6CYGHoTHs1WjRZ5EFSpump`
 
 | Time | Action | SOL | TX |
@@ -205,7 +205,7 @@
 
 ### 🟢 Toucan
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.09x | **Current:** 1.53x
+- **Peak:** 2.09x | **Current:** 1.42x
 - **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
 
 | Time | Action | SOL | TX |
@@ -627,7 +627,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.80x
+- **Peak:** 1.09x | **Current:** 0.79x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |
