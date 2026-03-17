@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 08:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 MAFD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.57x
+- **Peak:** 1.78x | **Current:** 0.92x
 - **Mint:** `DAchqAckFvQjDiQHM27uYXe61Wx4823vSZvpmY5vpump`
 
 | Time | Action | SOL | TX |
@@ -476,7 +476,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.92x
+- **Peak:** 1.07x | **Current:** 0.84x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |
@@ -514,7 +514,7 @@
 
 ### 🟢 DegenMeta
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.80x
+- **Peak:** 1.02x | **Current:** 0.88x
 - **Mint:** `DaMDDC7zSR95VykeWX5kFWywhvsSuS4mREvLE8Rppump`
 
 | Time | Action | SOL | TX |
@@ -579,7 +579,7 @@
 
 ### 🟢 RAM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 0.75x
+- **Peak:** 1.47x | **Current:** 0.74x
 - **Mint:** `B8mrS466Jge9JMBSFQUj3PqheLXAtDs3FAhrTqb8pump`
 
 | Time | Action | SOL | TX |
@@ -636,7 +636,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.80x
+- **Peak:** 1.09x | **Current:** 0.79x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |

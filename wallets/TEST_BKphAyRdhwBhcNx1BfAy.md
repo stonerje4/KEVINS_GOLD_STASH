@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 08:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.49x | **Current:** 4.90x
+- **Peak:** 7.49x | **Current:** 4.82x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -370,7 +370,7 @@
 
 ### 🟢 tokens
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.62x
+- **Peak:** 1.80x | **Current:** 0.69x
 - **Mint:** `66XSbdgMgdd8dPoj1fDp1m1M8sax2135J18tbNofpump`
 
 | Time | Action | SOL | TX |
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 1.77x
+- **Peak:** 3.16x | **Current:** 1.81x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1685,7 +1685,7 @@
 
 ### 🟢 KeyA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.79x
+- **Peak:** 1.54x | **Current:** 0.78x
 - **Mint:** `9o6e7zEjtxYTHmtrsvegqpYRuJFH52jJGdRExcTpump`
 
 | Time | Action | SOL | TX |

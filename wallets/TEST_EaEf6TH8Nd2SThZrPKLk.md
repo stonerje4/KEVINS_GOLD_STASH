@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 08:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,8 +15,8 @@
 ## Trades
 
 ### 🟢 FP
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.15x | **Current:** 1.60x
+- **Status:** partial | **Exit:** runner_trailing_stop
+- **Peak:** 3.15x | **Current:** 1.55x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
 | Time | Action | SOL | TX |
@@ -24,6 +24,8 @@
 | 2026-03-17 07:18:21 | BUY | 0.000100 | `MHTG2RX5WS6VVoyLUAVSecJSwjexCJ...` |
 | 2026-03-17 07:25:37 | SELL | 0.000020 | `58jzwJGrJtccJRvsAWTzqEHURfj5rJ...` |
 | 2026-03-17 07:47:29 | SELL | 0.000028 | `67pbbBTXSWbyb4niRALyMb2tu2ka1v...` |
+| 2026-03-17 08:57:00 | SELL | 0.000116 | `4jhkgwds4qG1jDwmKcP8LtJ3NGf66b...` |
+| 2026-03-17 08:58:08 | SELL | 0.000000 | `2tTr43qnQsSQfR1D34c1rbJLiDwFjK...` |
 
 ### 🟢 TIKI
 - **Status:** open | **Exit:** open
@@ -74,7 +76,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 0.96x
+- **Peak:** 2.02x | **Current:** 0.98x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
