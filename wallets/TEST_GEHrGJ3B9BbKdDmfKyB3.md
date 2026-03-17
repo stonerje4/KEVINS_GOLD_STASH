@@ -1,28 +1,29 @@
 # [TEST] Wallet: `GEHrGJ3B9BbKdDmfKyB3mjouUY6wkiBAFfb6fAkrbWEd`
-> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 2 |
-| Open | 2 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 1 |
+| W/L | 1/0 |
+| SOL In (closed) | 0.000100 |
+| **Closed P&L** | **+0.000095 SOL** |
+| **Closed ROI** | **+94.7%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 PVPDOG2
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.17x | **Current:** 1.21x
+### 🔴 PVPDOG2
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.17x | **Current:** 0.81x
 - **Mint:** `9tuGWypSSJFzNPyKKtLNkPkZY1qTrGQpRbnAu6Gspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:33:32 | BUY | 0.000100 | `3Q7MshvUU6BbNvxJ12NP33ust2xxu1...` |
 | 2026-03-17 04:37:56 | SELL | 0.000022 | `3yFkBF1QZaFCfxnBQzU3WkBYrLtf12...` |
+| 2026-03-17 04:42:29 | SELL | 0.000073 | `DM1EY3Xrgwsos4tBc3njGrHMAqqYtX...` |
 
 ### 🟢 BULLX
 - **Status:** open | **Exit:** open

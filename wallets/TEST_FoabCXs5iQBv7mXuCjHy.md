@@ -1,22 +1,40 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 3 |
+| Total Positions | 9 |
+| Open | 5 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000400 |
 | **Closed P&L** | **+0.000130 SOL** |
 | **Closed ROI** | **+32.5%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
+### 🟢 MMAX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.43x | **Current:** 1.43x
+- **Mint:** `AD9aDww57uzMo7DmePK8yk3xNm5BEQzzyZQVD2ARpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:43:31 | BUY | 0.000100 | `2TtorTAmkNwMmLCCmC3JCpM8ZtU49D...` |
+
+### 🟢 BULKING
+- **Status:** open | **Exit:** open
+- **Peak:** 1.15x | **Current:** 1.13x
+- **Mint:** `6hwBwUtKwLDVZqwwaa4tENNbCd5vFdQ9EqZuUY5ypump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:42:36 | BUY | 0.000100 | `4qwKzQLvJGZEw1NbQbgyMzL9J15io8...` |
+
 ### 🟢 max999
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.12x | **Current:** 1.12x
 - **Mint:** `5XAiG8jNqCHcXFL7aoHQc2UKYBydDpPHcPW7GvTVpump`
 
 | Time | Action | SOL | TX |
@@ -74,7 +92,7 @@
 
 ### 🟢 Qi
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.74x | **Current:** 3.25x
+- **Peak:** 3.74x | **Current:** 2.74x
 - **Mint:** `6D1hQ22C7oCUKKVuy91i8HTHnzSjsHCuNAcH9WH2pump`
 
 | Time | Action | SOL | TX |

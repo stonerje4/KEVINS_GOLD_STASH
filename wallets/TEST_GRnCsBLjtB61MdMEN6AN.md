@@ -1,4 +1,4 @@
-# [TEST] Wallet: `9zuBmBAu4tdegLWcmLb1ksaF9PBvBVkcSALjAwXwPKrU`
+# [TEST] Wallet: `GRnCsBLjtB61MdMEN6ANdezgU5ootwVEbUT2ZYyv18hq`
 > Generated: 2026-03-17 04:45 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 PEKEPOME
+### 🟢 Gany
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.49x
-- **Mint:** `BHvwMeTtmwxmuZe4umCQ3T9qy3jDSyHGM3H4YRxMpump`
+- **Peak:** 1.00x | **Current:** 0.86x
+- **Mint:** `2NMC6NymEHsPtLjrRTv7sVbSynESphdcA6Es2wRopump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 16:48:15 | BUY | 0.000100 | `2jwf2xEtP1FaS3ie9Dv3Uj63nf4VAj...` |
+| 2026-03-17 04:42:44 | BUY | 0.000100 | `YJNSiDqZMxBu41255C9JLDRNd75BiN...` |
 

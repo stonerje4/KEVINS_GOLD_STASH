@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 99 |
-| Open | 30 |
+| Total Positions | 100 |
+| Open | 31 |
 | Closed | 69 |
 | W/L | 67/2 |
 | SOL In (closed) | 0.030400 |
 | **Closed P&L** | **+0.024911 SOL** |
 | **Closed ROI** | **+81.9%** |
-| Open Deployed | 0.004000 SOL |
+| Open Deployed | 0.004100 SOL |
 
 ## Trades
+
+### 🟢 PVECAT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.20x | **Current:** 1.20x
+- **Mint:** `8V3b3trHmfHibbawz1oHhv1E1zBzwg2NQSnvoSWfpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:42:01 | BUY | 0.000100 | `5XRPUCkR1sFMjxyiXwxaGH6PjGqbL4...` |
 
 ### 🔴 Replacemen
 - **Status:** closed | **Exit:** stop_loss

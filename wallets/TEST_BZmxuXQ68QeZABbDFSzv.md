@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q`
-> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Gany
 - **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 0.59x
+- **Peak:** 1.48x | **Current:** 0.82x
 - **Mint:** `7RCpTE4o4zQfz5soBiVgyrjDZ5KyC7PJk98tSBPSpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Tabby
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.71x
+- **Peak:** 1.00x | **Current:** 0.70x
 - **Mint:** `9b748tn6XRFqjZZf1YdX1vM2zCySBHB8xFfZvmkMpump`
 
 | Time | Action | SOL | TX |

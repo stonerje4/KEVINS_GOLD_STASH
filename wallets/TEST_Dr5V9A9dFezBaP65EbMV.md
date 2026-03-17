@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 zeroxoneb
-- **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.86x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.25x | **Current:** 1.75x
 - **Mint:** `8n4ZAfn1izwsXKfvc2KnAsPTfNokRiqCvKTwb4mSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:19:18 | BUY | 0.000100 | `2ercJu3WtUaFEcUcHcmnxmZ7nz8XkW...` |
+| 2026-03-17 04:40:33 | SELL | 0.000023 | `3DrzCHxfTYRCv49DcA5GSA4MG4kWV2...` |
 
 ### 🔴 block0
 - **Status:** closed | **Exit:** stop_loss
@@ -110,7 +111,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 1.31x
+- **Peak:** 1.73x | **Current:** 1.27x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
