@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 05:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -99,7 +99,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.79x | **Current:** 3.79x
+- **Peak:** 4.10x | **Current:** 4.10x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -122,7 +122,7 @@
 
 ### 🟢 ChingChong
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 0.54x
+- **Peak:** 1.55x | **Current:** 0.53x
 - **Mint:** `4bN7NHQs1TQ7pfCi576oJGXLsZA3AybDR9TXjUDcpump`
 
 | Time | Action | SOL | TX |
@@ -150,7 +150,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.22x | **Current:** 1.82x
+- **Peak:** 2.22x | **Current:** 1.85x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
@@ -221,7 +221,7 @@
 
 ### 🟢 MOG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `AKEqh9urgLXprC1eYnp2y9hHNJBKaHUXPjvsKpnQpump`
 
 | Time | Action | SOL | TX |

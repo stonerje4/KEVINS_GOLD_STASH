@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 05:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 IRAN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `28SiCzRTDnU2Ed7NJwxnPGxs7JhGNWtyv3jrSpQnpump`
 
 | Time | Action | SOL | TX |
