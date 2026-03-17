@@ -1,27 +1,28 @@
 # [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
-> Generated: 2026-03-17 03:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 2 |
-| Closed | 3 |
-| W/L | 3/0 |
-| SOL In (closed) | 0.001800 |
-| **Closed P&L** | **+0.002296 SOL** |
-| **Closed ROI** | **+127.6%** |
-| Open Deployed | 0.000700 SOL |
+| Open | 1 |
+| Closed | 4 |
+| W/L | 4/0 |
+| SOL In (closed) | 0.001900 |
+| **Closed P&L** | **+0.002327 SOL** |
+| **Closed ROI** | **+122.5%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
-### 🟢 NStrat
-- **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.48x
+### 🔴 NStrat
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.54x | **Current:** 0.30x
 - **Mint:** `9jUiRpzatR2wR4NZrkZTzZDNUmPRXuRct7YnFaiSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:32:19 | BUY | 0.000100 | `2FL5FGkAhN2TQQw77KnqSuh1XuqRK4...` |
+| 2026-03-17 03:16:03 | SELL | 0.000031 | `4vBQLGXfYqeHXoS9W84ED7VCdH5np6...` |
 
 ### 🟢 AIFREE
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

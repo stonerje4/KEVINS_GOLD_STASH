@@ -1,18 +1,27 @@
 # [TEST] Wallet: `8ExfhudvYXtTkJwGsCunsbqX4CEWwUrU7TVzKSu1hYgY`
-> Generated: 2026-03-17 03:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000040 SOL** |
 | **Closed ROI** | **+39.7%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 Mina
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `2Y9fxJHYLjCxcs9C8Jyfab6wDPPD4gEb7dcKUAvvpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:19:40 | BUY | 0.000100 | `9VGpV3CVdkRA6kbg6xzxVkadjvJTq3...` |
 
 ### 🟢 GEEKED
 - **Status:** open | **Exit:** open

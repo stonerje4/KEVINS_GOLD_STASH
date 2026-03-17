@@ -1,18 +1,27 @@
 # [TEST] Wallet: `EyeSFbqHMXzZBTFqAYdM5E2o6Uv8pPCyLsSCv9Ax8Qgb`
-> Generated: 2026-03-17 03:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 0 |
+| Total Positions | 5 |
+| Open | 1 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.001900 |
 | **Closed P&L** | **+0.001119 SOL** |
 | **Closed ROI** | **+58.9%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 Mina
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `GovQPAf1KA9Ab9SKpGCkK7At2bPf498KkPSsqqHtpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:19:29 | BUY | 0.000100 | `4AYVKwrPLzUByVbK2LtXauRNwB88yy...` |
 
 ### 🔴 唐子
 - **Status:** closed | **Exit:** stop_loss

@@ -1,16 +1,16 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 03:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 1 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.000400 |
-| **Closed P&L** | **+0.000134 SOL** |
-| **Closed ROI** | **+33.6%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.000500 |
+| **Closed P&L** | **+0.000228 SOL** |
+| **Closed ROI** | **+45.6%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
@@ -24,15 +24,16 @@
 | 2026-03-17 02:46:06 | BUY | 0.000100 | `4qwLG7Hmwsfw1EK8nKHnhPqBCiyQJ6...` |
 | 2026-03-17 02:50:54 | SELL | 0.000040 | `5ALXzf8vDRQo2EWsrQFUD2tJh43LDj...` |
 
-### 🟢 nuggets
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.40x | **Current:** 1.03x
+### 🔴 nuggets
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.40x | **Current:** 0.81x
 - **Mint:** `CPwzUFoCUMBcg5PL441hyfVYYvPMFRKtCA26WbKSpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:55:23 | BUY | 0.000100 | `4MKghQxgJAeCiv6wyPArF13AyFyASo...` |
 | 2026-03-17 02:36:04 | SELL | 0.000020 | `3pau2TR7GSxsY1TqNVSY1Vf81oUm8B...` |
+| 2026-03-17 03:16:08 | SELL | 0.000073 | `5beF68YxpmUa235CcQyAHiW5zqmFvS...` |
 
 ### 🔴 GAVIN
 - **Status:** closed | **Exit:** stop_loss
