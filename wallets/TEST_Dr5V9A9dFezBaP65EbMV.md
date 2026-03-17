@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 10:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 MOMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.26x
+- **Peak:** 1.30x | **Current:** 1.29x
 - **Mint:** `9JbxQSKNukRA7cPZxCfhSNEcAP9iKRo3PSyYNbW4pump`
 
 | Time | Action | SOL | TX |
@@ -45,7 +45,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 0.99x
+- **Peak:** 1.37x | **Current:** 0.97x
 - **Mint:** `D69bugFJG4y3kmJxiLPTMuqqK3e3PnJHQCcQvALgpump`
 
 | Time | Action | SOL | TX |
