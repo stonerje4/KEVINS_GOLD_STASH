@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 05:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -81,7 +81,7 @@
 
 ### 🟢 TOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.97x | **Current:** 0.79x
+- **Peak:** 1.97x | **Current:** 0.74x
 - **Mint:** `9GtVruBvuS5SCQLDR5PGJbQQa68iPEyXsWns3toDpump`
 
 | Time | Action | SOL | TX |
@@ -100,7 +100,7 @@
 
 ### 🟢 Qi
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.74x | **Current:** 1.56x
+- **Peak:** 3.74x | **Current:** 1.53x
 - **Mint:** `6D1hQ22C7oCUKKVuy91i8HTHnzSjsHCuNAcH9WH2pump`
 
 | Time | Action | SOL | TX |

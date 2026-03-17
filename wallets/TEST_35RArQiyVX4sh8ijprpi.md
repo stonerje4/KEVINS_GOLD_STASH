@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 05:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -44,13 +44,14 @@
 | 2026-03-17 00:45:35 | SELL | 0.000034 | `46FScHM4JdL4Lwpczv2TnxBGP1Emex...` |
 
 ### 🟢 FPT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.89x | **Current:** 1.64x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.07x | **Current:** 1.92x
 - **Mint:** `EuqzwYKEVZ2Ci24qjoMwu6sDdrJ7ZSqwEyg4cF2ppump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:37:23 | BUY | 0.000100 | `4Zsw32MQPHSscdWJSKCWKTHwbsZUU6...` |
+| 2026-03-17 05:21:50 | SELL | 0.000021 | `4JNAVLfCNFmkYj3GUA4pNRQwHVrWij...` |
 
 ### 🟢 CLAWDIS
 - **Status:** closed | **Exit:** runner_trailing_stop

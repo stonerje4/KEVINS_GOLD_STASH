@@ -1,22 +1,31 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-17 05:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 23 |
-| Open | 8 |
+| Total Positions | 24 |
+| Open | 9 |
 | Closed | 15 |
 | W/L | 14/1 |
 | SOL In (closed) | 0.009000 |
 | **Closed P&L** | **+0.006307 SOL** |
 | **Closed ROI** | **+70.1%** |
-| Open Deployed | 0.003800 SOL |
+| Open Deployed | 0.003900 SOL |
 
 ## Trades
 
+### 🟢 Bear
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `Ehmzhv4XesmuwFUNoujDvb7TQtGqZV7hXTZGMiv3pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:23:41 | BUY | 0.000100 | `uGxPDvLLp9LqdmKnFZp2PsmA9JDFhs...` |
+
 ### 🟢 Pistachio
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.64x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `9vAfgrGHccFBHrcUKWSB93wUvtqC5r4wbFux2GP2pump`
 
 | Time | Action | SOL | TX |

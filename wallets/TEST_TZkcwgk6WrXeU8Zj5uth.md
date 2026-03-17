@@ -1,5 +1,5 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 05:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -27,7 +27,7 @@
 
 ### 🟢 Crabwise
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 0.76x
+- **Peak:** 1.43x | **Current:** 0.74x
 - **Mint:** `BCVy8y74PyyjHE19HjKT7k8xMSauoNtt14RoMq7ipump`
 
 | Time | Action | SOL | TX |

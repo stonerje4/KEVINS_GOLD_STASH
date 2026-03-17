@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q`
-> Generated: 2026-03-17 05:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Gany
 - **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 0.72x
+- **Peak:** 1.48x | **Current:** 0.76x
 - **Mint:** `7RCpTE4o4zQfz5soBiVgyrjDZ5KyC7PJk98tSBPSpump`
 
 | Time | Action | SOL | TX |

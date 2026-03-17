@@ -1,10 +1,10 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 05:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 42 |
-| Open | 3 |
+| Total Positions | 43 |
+| Open | 4 |
 | Closed | 39 |
 | W/L | 35/4 |
 | SOL In (closed) | 0.014900 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### ⚪ GANY
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `APNYmy2rFGdXugGrqmgAGBC6Hn4vKiytcJHekmb6pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:24:54 | BUY | 0.000100 | `5fokNeYHoMBekV4WBaQRiViBxvsq5i...` |
 
 ### 🔴 GIGGLES
 - **Status:** closed | **Exit:** runner_trailing_stop
