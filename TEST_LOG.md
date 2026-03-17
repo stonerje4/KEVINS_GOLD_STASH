@@ -1,8 +1,19 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:10 UTC** | 7d | 1696 buys, 2128 sells | In: **0.50** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:15 UTC** | 7d | 1701 buys, 2134 sells | In: **0.50** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:14 | 💰 SELL | MONKE | 0.0001 | APUYxGfK... | TP1 | `64RMWHCbc9vR...` |
+| 03-17 | 21:14 | 💰 SELL | GANYMEDE | 0.0001 | EaEf6TH8... | TP2 | `2zV7kV6LqbDE...` |
+| 03-17 | 21:13 | 🟢 BUY | Murad | 0.0001 | FoHJUYTh... | copy_buy | `2itTkgm6c118...` |
+| 03-17 | 21:13 | 🟢 BUY | Horny | 0.0001 | GHy1P6vJ... | copy_buy | `4RyTTFGZpKCa...` |
+| 03-17 | 21:12 | 💰 SELL | shit | 0.0001 | APUYxGfK... | TP1 | `z4CMh5asGNZS...` |
+| 03-17 | 21:12 | 🔴 SELL | Prometheus | 0.0000 | APUYxGfK... | trail | `24rUPgmNRh53...` |
+| 03-17 | 21:12 | 🔴 SELL | Incel | 0.0001 | 9tv5mfwa... | trail | `5UMYU9ER2A8F...` |
+| 03-17 | 21:11 | 💰 SELL | Prometheus | 0.0001 | APUYxGfK... | TP1 | `4H43sLHuojtz...` |
+| 03-17 | 21:10 | 🟢 BUY | Unite | 0.0001 | AJ8Gc1cY... | copy_buy | `3bqvU5s1GMFv...` |
+| 03-17 | 21:10 | 🟢 BUY | MONKE | 0.0001 | APUYxGfK... | copy_buy | `2mpvLybEx7wB...` |
+| 03-17 | 21:10 | 🟢 BUY | Craig | 0.0001 | FoHJUYTh... | copy_buy | `42CCCx6h4yur...` |
 | 03-17 | 21:10 | 🟢 BUY | CASH | 0.0001 | BDe7kU3V... | copy_buy | `46aT9AtaRXzn...` |
 | 03-17 | 21:09 | 🔴 SELL | vibecat | 0.0000 | APUYxGfK... | SL | `2pQqvqy6CoLP...` |
 | 03-17 | 21:08 | 🟢 BUY | MOS | 0.0001 | AJ8Gc1cY... | copy_buy | `5PcJn2mffST7...` |

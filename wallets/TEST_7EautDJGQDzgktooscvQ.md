@@ -1,11 +1,11 @@
 # [TEST] `7EautDJGQDzgktoo...`
-> 2026-03-17 21:10 UTC | **6** pos | **1W/4L** | P&L: **-0.000389 SOL** (-77.8%) | 1 open
+> 2026-03-17 21:15 UTC | **6** pos | **1W/4L** | P&L: **-0.000389 SOL** (-77.8%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| TRUMPPEPE | 03-17 21:05 | 1.61x | 1.61x | 0.1h | 0.0001 |
+| TRUMPPEPE | 03-17 21:05 | 1.89x | 1.89x | 0.2h | 0.0001 |
 
 ## Closed
 

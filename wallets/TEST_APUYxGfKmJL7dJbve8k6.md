@@ -1,19 +1,20 @@
 # [TEST] `APUYxGfKmJL7dJbv...`
-> 2026-03-17 21:10 UTC | **56** pos | **6W/46L** | P&L: **-0.004908 SOL** (-30.3%) | 4 open
+> 2026-03-17 21:15 UTC | **57** pos | **7W/46L** | P&L: **-0.004903 SOL** (-30.1%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| shit | 03-17 21:08 | 1.17x | 1.17x | 0.0h | 0.0001 |
-| Prometheus | 03-17 21:08 | 1.15x | 1.66x | 0.0h | 0.0001 |
+| MONKE | 03-17 21:10 | 2.01x | 2.01x | 0.1h | 0.0001 |
+| shit | 03-17 21:08 | 2.03x | 2.60x | 0.1h | 0.0001 |
 | POPSEAL | 03-17 21:06 | 0.76x | 1.00x | 0.1h | 0.0001 |
-| Templates | 03-17 18:50 | 0.81x | 1.00x | 2.3h | 0.0001 |
+| Templates | 03-17 18:50 | 0.81x | 1.00x | 2.4h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ✅ Prometheus | +0.0000 | 03-17 21:08 | 2.4x | 03-17 21:12 | 0.0001/0.0001 | trail |
 | ❌ vibecat | -0.0001 | 03-17 21:07 | 1.0x | 03-17 21:09 | 0.0000/0.0001 | SL |
 | ❌ Doodle | -0.0001 | 03-17 19:04 | 1.6x | 03-17 20:53 | 0.0000/0.0001 | SL |
 | ❌ Einstein | -0.0001 | 03-17 18:54 | 1.1x | 03-17 19:11 | 0.0000/0.0001 | SL |
@@ -71,6 +72,11 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:14 | MONKE | SELL | 0.0001 | `64RMWHCbc9vR6Fd8...` |
+| 03-17 21:12 | shit | SELL | 0.0001 | `z4CMh5asGNZS1HE5...` |
+| 03-17 21:12 | Prometheus | SELL | 0.0000 | `24rUPgmNRh53FRou...` |
+| 03-17 21:11 | Prometheus | SELL | 0.0001 | `4H43sLHuojtzQX7T...` |
+| 03-17 21:10 | MONKE | BUY | 0.0001 | `2mpvLybEx7wBxxEk...` |
 | 03-17 21:09 | vibecat | SELL | 0.0000 | `2pQqvqy6CoLPdJNy...` |
 | 03-17 21:08 | shit | BUY | 0.0001 | `2t7NxPZphCNPGBC2...` |
 | 03-17 21:08 | Prometheus | BUY | 0.0001 | `4AaPR9Ebw4tYEgSt...` |
@@ -111,9 +117,9 @@
 | 03-17 01:36 | GEEKED | SELL | 0.0000 | `4wyh9XVidqzBXUqL...` |
 | 03-17 01:35 | GEEKED | BUY | 0.0001 | `pYYZvoNrXcm61Qtz...` |
 | 03-17 01:34 | ORC | BUY | 0.0001 | `5T8gGkz1t3ia3k4b...` |
-| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 19:13 | SHARK | SELL | 0.0003 | `?` |
 | 03-16 19:13 | Nebresearch | SELL | 0.0003 | `?` |
+| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Bowhead | SELL | 0.0001 | `?` |
 | 03-16 16:49 | clod | SELL | 0.0001 | `5VtVzAtN7e5wWbGg...` |
 | 03-16 16:49 | DICK | SELL | 0.0001 | `2uUmZf3QgrA6darB...` |

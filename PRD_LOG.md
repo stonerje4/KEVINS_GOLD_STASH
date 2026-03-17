@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 21:10 UTC** | 7d | 752 buys, 988 sells | In: **93.13** | Out: **85.55** | Net: **-7.58 SOL**
+> Updated: **2026-03-17 21:15 UTC** | 7d | 754 buys, 990 sells | In: **93.43** | Out: **85.74** | Net: **-7.69 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:14 | 💰 SELL | Rosei | 0.1157 | 42nQHDpy... | TP2 | `zxhhxGw4H5Mz...` |
+| 03-17 | 21:14 | 🟢 BUY | MOS | 0.1500 | 42nQHDpy... | copy | `dFQJLWCfzFk3...` |
+| 03-17 | 21:12 | 💰 SELL | shit | 0.0767 | 3HGqppv8... | TP1 | `XgvNgTPaMzgB...` |
+| 03-17 | 21:10 | 🟢 BUY | magnets | 0.1500 | 42nQHDpy... | copy | `2ECHj4uGGMFx...` |
 | 03-17 | 21:09 | 🟢 BUY | BBX | 0.1500 | BGGJhxGX... | copy | `5hmpExWKK4dC...` |
 | 03-17 | 21:09 | 🟢 BUY | shit | 0.1500 | 3HGqppv8... | copy | `644MoQuyn3Dn...` |
 | 03-17 | 21:08 | 🔴 SELL | DUNGBEETLE | 0.0581 | 42nQHDpy... | SL | `5aLN52doc31c...` |
