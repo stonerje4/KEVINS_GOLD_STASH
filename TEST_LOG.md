@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:30 UTC** | 7d | 1305 buys, 1832 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:35 UTC** | 7d | 1307 buys, 1835 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:32 | 🟢 BUY | DRONE | 0.0001 | G5eugJMk... | copy_buy | `3QgR6RE7ywsw...` |
+| 03-17 | 13:31 | 💰 SELL | L/0 | 0.0000 | EaEf6TH8... | TP1 | `4W15u34XkFhW...` |
+| 03-17 | 13:31 | 🔴 SELL | ALIEN GANY | 0.0000 | BBBByrLH... | SL | `3uBDEiGgba9m...` |
+| 03-17 | 13:30 | 💰 SELL | Thinker | 0.0000 | 9t6xjxxt... | TP1 | `3Nkn1iv3ByNn...` |
+| 03-17 | 13:30 | 🟢 BUY | CLAW3D | 0.0001 | E79aNzAk... | copy_buy | `4PLB9AStqahq...` |
 | 03-17 | 13:29 | 🔴 SELL | FUGUU | 0.0000 | cqakon1K... | SL | `5HPTszPMdE2X...` |
 | 03-17 | 13:28 | 🟢 BUY | Out | 0.0001 | BBBByrLH... | copy_buy | `5RMWqh1f33JT...` |
 | 03-17 | 13:28 | 🔴 SELL | NALA | 0.0000 | EaEf6TH8... | trail | `4p7Ud4TtQEeu...` |

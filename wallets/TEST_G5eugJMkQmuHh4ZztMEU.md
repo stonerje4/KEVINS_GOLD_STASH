@@ -1,5 +1,11 @@
 # [TEST] `G5eugJMkQmuHh4Zz...`
-> 2026-03-17 13:30 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
+> 2026-03-17 13:35 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| DRONE | 03-17 13:32 | 1.13x | 1.13x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:32 | DRONE | BUY | 0.0001 | `3QgR6RE7ywswVpVq...` |
 | 03-17 01:05 | FOR | BUY | 0.0001 | `4w7DP4oErcvRSiy7...` |
 
 </details>
