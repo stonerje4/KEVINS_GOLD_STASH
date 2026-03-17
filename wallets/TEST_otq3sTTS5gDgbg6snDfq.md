@@ -1,16 +1,16 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 50 |
-| Open | 36 |
-| Closed | 14 |
-| W/L | 4/10 |
-| SOL In (closed) | 0.008400 |
+| Open | 34 |
+| Closed | 16 |
+| W/L | 4/12 |
+| SOL In (closed) | 0.009600 |
 | **Closed P&L** | **+0.003202 SOL** |
-| **Closed ROI** | **+38.1%** |
-| Open Deployed | 0.015600 SOL |
+| **Closed ROI** | **+33.4%** |
+| Open Deployed | 0.014400 SOL |
 
 ## Trades
 
@@ -43,7 +43,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.93x
+- **Peak:** 1.09x | **Current:** 0.85x
 - **Mint:** `49R3X2iizoRLyXZBkJLudwzhgPi3AaP2GH69jkRLpump`
 
 | Time | Action | SOL | TX |
@@ -297,7 +297,7 @@
 
 ### 🟢 Nostalgia
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `EBhMuwaPzF3uDWoeRjAKMMwjBWhoGNttJeh3bhr7pump`
 
 | Time | Action | SOL | TX |
@@ -315,7 +315,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |
@@ -362,17 +362,18 @@
 |------|--------|-----|----|
 | 2026-03-16 02:36:36 | BUY | 0.000600 | `5VZdxpBm7nVtiNwgAh89k1FFRF6Yrd...` |
 
-### 🟢 MLTFO
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+### 🔴 MLTFO
+- **Status:** closed | **Exit:** stale_cleanup
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `45b7oPA7ex4NJuAFkNegj8xaGhByt5tzYFf1FCD4pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:22:42 | BUY | 0.000600 | `4e4cE9oyeAUg7RJkh3SVpxZRgygTZd...` |
+| 2026-03-17 00:15:36 | SELL | 0.000091 | `3kQmNFiyqDARA5nLRezWYBeccPj9EA...` |
 
-### 🟢 Papua
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 Papua
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.93x
 - **Mint:** `2GPyKGqBfaSRNrtNqpTb4yMuiosJFf6NNixb6WRSpump`
 

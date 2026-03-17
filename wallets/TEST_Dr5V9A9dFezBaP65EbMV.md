@@ -1,18 +1,27 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 17 |
-| Open | 7 |
+| Total Positions | 18 |
+| Open | 8 |
 | Closed | 10 |
 | W/L | 9/1 |
 | SOL In (closed) | 0.005500 |
 | **Closed P&L** | **+0.004818 SOL** |
 | **Closed ROI** | **+87.6%** |
-| Open Deployed | 0.004200 SOL |
+| Open Deployed | 0.004300 SOL |
 
 ## Trades
+
+### 🟢 zeroxoneb
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `8n4ZAfn1izwsXKfvc2KnAsPTfNokRiqCvKTwb4mSpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:19:18 | BUY | 0.000100 | `2ercJu3WtUaFEcUcHcmnxmZ7nz8XkW...` |
 
 ### 🔴 block0
 - **Status:** closed | **Exit:** stop_loss
@@ -130,7 +139,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.77x | **Current:** 0.95x
+- **Peak:** 1.77x | **Current:** 0.96x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |

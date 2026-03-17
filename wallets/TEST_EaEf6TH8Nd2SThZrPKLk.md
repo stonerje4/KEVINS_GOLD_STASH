@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 100 |
-| Open | 18 |
+| Total Positions | 101 |
+| Open | 19 |
 | Closed | 82 |
 | W/L | 81/1 |
 | SOL In (closed) | 0.036200 |
 | **Closed P&L** | **+0.030336 SOL** |
 | **Closed ROI** | **+83.8%** |
-| Open Deployed | 0.003300 SOL |
+| Open Deployed | 0.003400 SOL |
 
 ## Trades
 
+### 🟢 Zero
+- **Status:** open | **Exit:** open
+- **Peak:** 1.25x | **Current:** 1.06x
+- **Mint:** `7gVGRq4EYWeaFiS9ynpxj9yiHKL5k8GT5FRMx3w7pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:15:54 | BUY | 0.000100 | `3iJfUy7EGC2sbsa4ZigmwCfKmhhKQq...` |
+
 ### 🟢 CLUDSTAR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.23x
+- **Peak:** 1.23x | **Current:** 0.50x
 - **Mint:** `2iU4cQvPD3n1HGXX2phTSHzSGU5syz3UTzbMYcRBpump`
 
 | Time | Action | SOL | TX |
@@ -55,7 +64,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.75x | **Current:** 0.99x
+- **Peak:** 1.75x | **Current:** 0.93x
 - **Mint:** `E98XR94FXG2w4GdCwunGPYx8TbZqe2HiNMPHS1Hmpump`
 
 | Time | Action | SOL | TX |
@@ -625,7 +634,7 @@
 
 ### 🟢 MATM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.71x
+- **Peak:** 1.00x | **Current:** 0.65x
 - **Mint:** `9gg1QdcoEcqFaYZeA1FhMWw9i2BPJMrx1c6UH6CKpump`
 
 | Time | Action | SOL | TX |

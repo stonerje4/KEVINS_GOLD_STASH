@@ -1,18 +1,27 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 0 |
+| Total Positions | 4 |
+| Open | 1 |
 | Closed | 3 |
 | W/L | 2/1 |
 | SOL In (closed) | 0.001300 |
 | **Closed P&L** | **+0.002816 SOL** |
 | **Closed ROI** | **+216.6%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 DGPT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.05x | **Current:** 0.99x
+- **Mint:** `veAj5XS6Ax8xLX5BjxAcWpfSFH7Dqh7aatxYTB6Hory`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:16:23 | BUY | 0.000100 | `3Ciw1oJ4e2YV4Bu5ZtEo1tQudDj57W...` |
 
 ### 🔴 Orca
 - **Status:** closed | **Exit:** runner_trailing_stop

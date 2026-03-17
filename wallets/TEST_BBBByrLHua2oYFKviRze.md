@@ -1,10 +1,10 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 00:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 94 |
-| Open | 27 |
+| Total Positions | 95 |
+| Open | 28 |
 | Closed | 67 |
 | W/L | 65/2 |
 | SOL In (closed) | 0.030200 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.003700 SOL |
 
 ## Trades
+
+### ⚪ pippin
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `A7xCRrweNWYryVgToAjDjYw4nhApfWUgMxFH7tTfpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:19:49 | BUY | 0.000100 | `2AiQZBTEXRBTLfWy8fePm9Gxvev23f...` |
 
 ### 🟢 FLATHEAD
 - **Status:** open | **Exit:** open
