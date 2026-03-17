@@ -1,16 +1,16 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-17 10:10 UTC | Environment: **PRD**
+> Generated: 2026-03-17 10:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 35 |
-| Open | 3 |
-| Closed | 32 |
-| W/L | 6/26 |
-| SOL In (closed) | 4.430000 |
-| **Closed P&L** | **-0.968154 SOL** |
-| **Closed ROI** | **-21.9%** |
-| Open Deployed | 0.450000 SOL |
+| Open | 2 |
+| Closed | 33 |
+| W/L | 7/26 |
+| SOL In (closed) | 4.580000 |
+| **Closed P&L** | **-0.670966 SOL** |
+| **Closed ROI** | **-14.6%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
@@ -25,7 +25,7 @@
 | 2026-03-17 03:12:55 | SELL | 0.056036 | `2URxQGnbDcysG28jXEwAHCyDpuAUK4...` |
 
 ### 🟢 Clanker
-- **Status:** partial | **Exit:** open
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 5.64x | **Current:** 0.00x
 - **Mint:** `BXaW3PYx9Z4mNsZdT53N9hHKChGkSjG6r4pNTK2rpump`
 
@@ -35,6 +35,7 @@
 | 2026-03-17 08:05:33 | SELL | 0.030150 | `41b9dFGM2de5MRUip8bbFMb6VVJwS8...` |
 | 2026-03-17 08:28:42 | SELL | 0.046324 | `5YpuB2N38tbDwDnxksvhsQEjKGhsBK...` |
 | 2026-03-17 08:30:19 | SELL | 0.076144 | `MebXT12QByuv7Se2SitZK6qDfVWijL...` |
+| 2026-03-17 10:11:15 | SELL | 0.447187 | `3BZ7ybyJLLqzRWhxniGW2BiXuWT5mx...` |
 
 ### 🟢 唐
 - **Status:** open | **Exit:** open

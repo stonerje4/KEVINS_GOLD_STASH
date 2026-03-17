@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 10:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -43,7 +43,7 @@
 
 ### 🟢 Giraffe 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.44x
+- **Peak:** 1.19x | **Current:** 0.43x
 - **Mint:** `2VP6daVD4nDo5sDamXth8fKoTtjmakXHFJHZdSgPpump`
 
 | Time | Action | SOL | TX |
