@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 12:00 UTC** | 7d | 671 buys, 917 sells | In: **78.18** | Out: **78.43** | Net: **+0.25 SOL**
+> Updated: **2026-03-17 12:05 UTC** | 7d | 672 buys, 916 sells | In: **78.33** | Out: **78.36** | Net: **+0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 12:04 | 🟢 BUY | face | 0.1500 | AcWGZE1Q... | copy | `61ZGSXYp5Ny1...` |
 | 03-17 | 11:51 | 💰 SELL | BBX | 0.3105 | r9pFHjFe... | trail | `TbuYiLwkkYEy...` |
 | 03-17 | 11:46 | 🟢 BUY | Rocky | 0.1500 | AcWGZE1Q... | copy | `4stMM3u2Gz9x...` |
 | 03-17 | 11:39 | 🟢 BUY | Kick | 0.1500 | 42nQHDpy... | copy | `3HYqTeNPRZi4...` |
@@ -1590,4 +1591,3 @@
 | 03-10 | 12:26 | 💰 SELL | FILOBOT | 0.0696 | BJJGTyZB... | trail | `41whG9iTYzZ1...` |
 | 03-10 | 12:07 | 🔴 SELL | 5 | 0.0144 | 7aMgK5L4... | SL | `57WBtoqSg2Wu...` |
 | 03-10 | 12:05 | 🟢 BUY | Gyutto | 0.0500 | 7aMgK5L4... | copy | `4MTZTzuE4qSn...` |
-| 03-10 | 12:00 | 💰 SELL | AWESOME | 0.0722 | H3DXv3Ef... | trail | `3Wht5Nej8Kwk...` |

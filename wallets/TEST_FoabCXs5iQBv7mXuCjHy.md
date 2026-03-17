@@ -1,5 +1,12 @@
 # [TEST] `FoabCXs5iQBv7mXu...`
-> 2026-03-17 12:00 UTC | **9** pos | **2W/7L** | P&L: **-0.000178 SOL** (-19.8%) | 0 open
+> 2026-03-17 12:05 UTC | **11** pos | **2W/7L** | P&L: **-0.000178 SOL** (-19.8%) | 2 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| DonTzu | 03-17 12:03 | 1.09x | 1.09x | 0.0h | 0.0001 |
+| THIS | 03-17 12:02 | 0.97x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -19,6 +26,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:03 | DonTzu | BUY | 0.0001 | `57FzDWCjPgpePgA1...` |
+| 03-17 12:02 | THIS | BUY | 0.0001 | `5UmvY6SgvQoPodu1...` |
 | 03-17 10:08 | TOR | SELL | 0.0000 | `HjNiykEUFdAcSf1q...` |
 | 03-17 10:06 | TOR | SELL | 0.0000 | `2xreDTHSnG4848nN...` |
 | 03-17 10:05 | TOR | SELL | 0.0000 | `2tMuGqcLaKzJFw46...` |
