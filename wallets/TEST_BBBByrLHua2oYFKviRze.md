@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 09:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 Thinker
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.73x
+- **Peak:** 1.16x | **Current:** 0.54x
 - **Mint:** `38uDmHQTNp5PEsGqFaocRCJ5u8VL3VFUJKTbTJDPpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 SEKIRO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.94x | **Current:** 1.38x
+- **Peak:** 1.94x | **Current:** 1.50x
 - **Mint:** `PrZEjBVJKQpScxv17BynWTcEEWhzkWSYuMcNxwcpump`
 
 | Time | Action | SOL | TX |
@@ -600,7 +600,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.70x
+- **Peak:** 1.74x | **Current:** 0.68x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 09:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -160,7 +160,7 @@
 
 ### 🟢 RLFG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 0.51x
+- **Peak:** 1.66x | **Current:** 0.53x
 - **Mint:** `CCZ82whciPVkMdUj3Uqn4TX76F6BZ7rEstWHUEKwpump`
 
 | Time | Action | SOL | TX |
@@ -407,7 +407,7 @@
 
 ### 🟢 Frog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.76x
+- **Peak:** 1.02x | **Current:** 0.77x
 - **Mint:** `5trtgVhr3DkNkYmKoKPirFJVQkCZkFnVxmJJWfbipump`
 
 | Time | Action | SOL | TX |
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 1.76x
+- **Peak:** 3.16x | **Current:** 1.75x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1685,7 +1685,7 @@
 
 ### 🟢 KeyA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.78x
+- **Peak:** 1.54x | **Current:** 0.79x
 - **Mint:** `9o6e7zEjtxYTHmtrsvegqpYRuJFH52jJGdRExcTpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AJ8Gc1cYzDQmQVyWFnHyJAKV5QK5ysz5ML9NuK3xvJRt`
-> Generated: 2026-03-17 09:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 PinchBench
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.72x
+- **Peak:** 1.15x | **Current:** 1.15x
 - **Mint:** `4k9t9gpxwxVaoNwe77AkZ8aHZfhJkbzvs48Y8TZypump`
 
 | Time | Action | SOL | TX |
