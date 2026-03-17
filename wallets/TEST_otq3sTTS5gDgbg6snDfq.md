@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 04:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 DYOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 1.14x
+- **Peak:** 1.27x | **Current:** 1.12x
 - **Mint:** `CFzhoZQZqosY2gpuaknoSfWpF3tYSjCcm7H1jvuipump`
 
 | Time | Action | SOL | TX |
@@ -169,7 +169,7 @@
 
 ### 🟢 Safe
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.80x
+- **Peak:** 1.01x | **Current:** 0.79x
 - **Mint:** `D73pXimYCpoSRe3LRcgn6dPQSh6bsu3FdB2vvh3upump`
 
 | Time | Action | SOL | TX |
@@ -324,7 +324,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.79x
+- **Peak:** 1.00x | **Current:** 0.78x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
@@ -342,7 +342,7 @@
 
 ### 🟢 JOPNER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.75x
+- **Peak:** 1.00x | **Current:** 0.74x
 - **Mint:** `9TgyuVKRGKcm6HuN9fQbnik6EhqQB4jAB7eGZmZYpump`
 
 | Time | Action | SOL | TX |

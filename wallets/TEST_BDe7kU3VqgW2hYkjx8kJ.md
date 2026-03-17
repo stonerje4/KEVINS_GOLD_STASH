@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BDe7kU3VqgW2hYkjx8kJFCdw1tNunJUxhAcRM1FN9amz`
-> Generated: 2026-03-17 04:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 Shamsy
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.60x
+- **Peak:** 1.23x | **Current:** 0.57x
 - **Mint:** `AcFG8QQAAfp42KgmMtBr8sqiDSYPhHfKyeeyeGNJpump`
 
 | Time | Action | SOL | TX |

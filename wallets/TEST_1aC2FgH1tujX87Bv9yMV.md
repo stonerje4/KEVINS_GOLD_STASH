@@ -1,5 +1,5 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-17 04:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -53,7 +53,7 @@
 
 ### 🟢 TJR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.53x
+- **Peak:** 1.01x | **Current:** 0.47x
 - **Mint:** `8BTZX2EJoKFB4XsWvYZN9zP6ENZptRCoiPBCidHbpump`
 
 | Time | Action | SOL | TX |
