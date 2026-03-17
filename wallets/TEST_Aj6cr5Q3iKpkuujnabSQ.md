@@ -1,27 +1,28 @@
 # [TEST] Wallet: `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs`
-> Generated: 2026-03-17 04:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 2 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.001200 |
-| **Closed P&L** | **+0.001263 SOL** |
-| **Closed ROI** | **+105.3%** |
-| Open Deployed | 0.000700 SOL |
+| Open | 1 |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.001300 |
+| **Closed P&L** | **+0.001299 SOL** |
+| **Closed ROI** | **+100.0%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
-### 🟢 QAIA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.48x
+### 🔴 QAIA
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.36x
 - **Mint:** `DpbUqjKzMiiBxUMinvMx8GSREbSwH6kBubk5xKVXBAGS`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 03:59:45 | BUY | 0.000100 | `ZrtHZ4MeoNVHyyKUdFfg9xZ2zgjw46...` |
+| 2026-03-17 04:39:53 | SELL | 0.000036 | `3xzcpe2bcghWug6hfAVEvuBZNhHgrP...` |
 
 ### 🟢 JARVIS
 - **Status:** open | **Exit:** open

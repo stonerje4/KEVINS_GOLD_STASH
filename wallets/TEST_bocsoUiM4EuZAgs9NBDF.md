@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 04:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -97,7 +97,7 @@
 
 ### 🟢 EVIE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.30x | **Current:** 1.67x
+- **Peak:** 2.30x | **Current:** 1.66x
 - **Mint:** `ETZ5L4FYfkgXx5XAK7Vhvag9kirGJdpBAUJcue1Dpump`
 
 | Time | Action | SOL | TX |
@@ -209,7 +209,7 @@
 
 ### 🟢 RA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.48x | **Current:** 0.97x
+- **Peak:** 1.48x | **Current:** 0.98x
 - **Mint:** `AtnwLCgwkJQqKFRH1Uzrk5eTzWMWkn1kWCCvwqPPpump`
 
 | Time | Action | SOL | TX |

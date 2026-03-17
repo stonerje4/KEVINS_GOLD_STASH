@@ -1,5 +1,5 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-17 04:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 PIGEON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `HUvdhx4exbZK9Rp2rfwGvcL6bTPTuYeQqKFER6b5X3aF`
 
 | Time | Action | SOL | TX |

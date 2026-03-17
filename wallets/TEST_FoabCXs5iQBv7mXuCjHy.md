@@ -1,18 +1,37 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 04:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 2 |
-| Closed | 3 |
-| W/L | 3/0 |
-| SOL In (closed) | 0.000300 |
-| **Closed P&L** | **+0.000102 SOL** |
-| **Closed ROI** | **+34.0%** |
-| Open Deployed | 0.000200 SOL |
+| Total Positions | 7 |
+| Open | 3 |
+| Closed | 4 |
+| W/L | 4/0 |
+| SOL In (closed) | 0.000400 |
+| **Closed P&L** | **+0.000130 SOL** |
+| **Closed ROI** | **+32.5%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### 🟢 max999
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.87x
+- **Mint:** `5XAiG8jNqCHcXFL7aoHQc2UKYBydDpPHcPW7GvTVpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:38:48 | BUY | 0.000100 | `pjDvaVpURhTRw6JCRFsCaiavSAT2ah...` |
+
+### 🔴 BULKING
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.28x
+- **Mint:** `8k1tvjhiGLTqPeLYsm8zxar4aH8haU7YZf6ffNFLpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:35:17 | BUY | 0.000100 | `4RB5KuiR2BjrF4getC66sjPvvpGs4a...` |
+| 2026-03-17 04:39:13 | SELL | 0.000028 | `37D6EqynGEbQqYJXKQ1SC2zrsDFeYJ...` |
 
 ### 🔴 max999
 - **Status:** closed | **Exit:** stop_loss
@@ -36,7 +55,7 @@
 
 ### 🟢 TOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.97x | **Current:** 0.94x
+- **Peak:** 1.97x | **Current:** 0.80x
 - **Mint:** `9GtVruBvuS5SCQLDR5PGJbQQa68iPEyXsWns3toDpump`
 
 | Time | Action | SOL | TX |

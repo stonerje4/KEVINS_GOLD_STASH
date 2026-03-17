@@ -1,5 +1,5 @@
 # [TEST] Wallet: `GEHrGJ3B9BbKdDmfKyB3mjouUY6wkiBAFfb6fAkrbWEd`
-> Generated: 2026-03-17 04:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 PVPDOG2
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.66x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.17x | **Current:** 1.21x
 - **Mint:** `9tuGWypSSJFzNPyKKtLNkPkZY1qTrGQpRbnAu6Gspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:33:32 | BUY | 0.000100 | `3Q7MshvUU6BbNvxJ12NP33ust2xxu1...` |
+| 2026-03-17 04:37:56 | SELL | 0.000022 | `3yFkBF1QZaFCfxnBQzU3WkBYrLtf12...` |
 
 ### 🟢 BULLX
 - **Status:** open | **Exit:** open

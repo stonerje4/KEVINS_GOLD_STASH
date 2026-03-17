@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 04:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 NoseBoop
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 0.97x
+- **Peak:** 1.14x | **Current:** 0.90x
 - **Mint:** `HVhqMVbmWtoSzPHU1cAX7TLy65VrSKqgnGFyY8BJpump`
 
 | Time | Action | SOL | TX |
@@ -54,7 +54,7 @@
 
 ### 🟢 PCT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 1.04x
+- **Peak:** 1.29x | **Current:** 1.29x
 - **Mint:** `CjQ5GYXkJWuRbDmAd4RN5LEX6Sqpq295xuhbZMRpUCLi`
 
 | Time | Action | SOL | TX |
@@ -99,7 +99,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.92x | **Current:** 2.92x
+- **Peak:** 2.93x | **Current:** 2.93x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -149,7 +149,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.22x | **Current:** 1.52x
+- **Peak:** 2.22x | **Current:** 1.67x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
