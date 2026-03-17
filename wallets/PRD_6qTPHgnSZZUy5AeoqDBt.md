@@ -1,5 +1,11 @@
 # [PRD] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-17 15:50 UTC | **14** pos | **6W/8L** | P&L: **-0.096946 SOL** (-4.6%) | 0 open
+> 2026-03-17 15:55 UTC | **15** pos | **6W/8L** | P&L: **-0.096946 SOL** (-4.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| HEISEI | 03-17 15:54 | 0.00x | 1.00x | 0.0h | 0.1500 |
 
 ## Closed
 
@@ -24,6 +30,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:54 | HEISEI | BUY | 0.1500 | `5mLgWB8wYc2ffTcm...` |
 | 03-17 04:48 | TITAN | SELL | 0.2108 | `4nzmUXwk6AnCNESd...` |
 | 03-17 04:24 | TITAN | SELL | 0.0462 | `3YDFNs5KSrrrUm2J...` |
 | 03-17 04:16 | TITAN | SELL | 0.0326 | `33kn1hJHjiGXtjmp...` |

@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 15:50 UTC** | 7d | 693 buys, 943 sells | In: **82.58** | Out: **80.22** | Net: **-2.36 SOL**
+> Updated: **2026-03-17 15:55 UTC** | 7d | 694 buys, 943 sells | In: **82.73** | Out: **80.22** | Net: **-2.51 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:54 | 🟢 BUY | HEISEI | 0.1500 | 6qTPHgnS... | copy | `5mLgWB8wYc2f...` |
 | 03-17 | 15:42 | 🔴 SELL | IQ | 0.0590 | 7aMgK5L4... | SL | `aWgSdWP5GKcb...` |
 | 03-17 | 15:39 | 🟢 BUY | PATRIOT | 0.1500 | 42nQHDpy... | copy | `2KWVKWtK3VyB...` |
 | 03-17 | 15:38 | 🔴 SELL | IOR | 0.1256 | DHfshpzo... | trail | `3ysT54f3TerZ...` |

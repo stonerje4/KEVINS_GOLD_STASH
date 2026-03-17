@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:50 UTC** | 7d | 1411 buys, 1921 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:55 UTC** | 7d | 1413 buys, 1924 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:54 | 🟢 BUY | ANFISA | 0.0001 | AbrUQawz... | copy_buy | `2zWwSNec2cAG...` |
+| 03-17 | 15:54 | 💰 SELL | HEISEI | 0.0000 | E79aNzAk... | TP2 | `DVVGWwqEfhKg...` |
+| 03-17 | 15:52 | 💰 SELL | Waiter | 0.0001 | GHy1P6vJ... | TP3 | `3MMBeBzxQtzY...` |
+| 03-17 | 15:51 | 💰 SELL | HEISEI | 0.0000 | E79aNzAk... | TP1 | `4Csztqq7cnsd...` |
+| 03-17 | 15:50 | 🟢 BUY | America | 0.0001 | 6E4897rJ... | copy_buy | `4tWqCFcxpRSH...` |
 | 03-17 | 15:49 | 💰 SELL | Rosei | 0.0000 | AJ8Gc1cY... | TP3 | `51DUYQkztxar...` |
 | 03-17 | 15:49 | 🟢 BUY | Bonk | 0.0001 | FoHJUYTh... | copy_buy | `3awZHwicp2Mh...` |
 | 03-17 | 15:49 | 💰 SELL | Waiter | 0.0000 | GHy1P6vJ... | TP2 | `4G763kziAdkj...` |

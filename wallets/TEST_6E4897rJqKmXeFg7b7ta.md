@@ -1,11 +1,12 @@
 # [TEST] `6E4897rJqKmXeFg7...`
-> 2026-03-17 15:50 UTC | **5** pos | **0W/4L** | P&L: **-0.000295 SOL** (-32.7%) | 1 open
+> 2026-03-17 15:55 UTC | **6** pos | **0W/4L** | P&L: **-0.000295 SOL** (-32.7%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BBX | 03-17 13:36 | 1.00x | 1.00x | 2.2h | 0.0001 |
+| America | 03-17 15:50 | 1.53x | 1.53x | 0.1h | 0.0001 |
+| BBX | 03-17 13:36 | 1.00x | 1.00x | 2.3h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:50 | America | BUY | 0.0001 | `4tWqCFcxpRSHHSKS...` |
 | 03-17 13:36 | BBX | BUY | 0.0001 | `4PucruidNcNK9U89...` |
 | 03-17 13:07 | PSYOPCOIN | SELL | 0.0000 | `4NQViSRPFRd8eEXH...` |
 | 03-17 13:02 | PSYOPCOIN | BUY | 0.0001 | `NW95pVMgs1exKPXB...` |
