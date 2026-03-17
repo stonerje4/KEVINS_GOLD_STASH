@@ -1,18 +1,27 @@
 # [TEST] Wallet: `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz`
-> Generated: 2026-03-17 05:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 3 |
-| Open | 1 |
+| Total Positions | 4 |
+| Open | 2 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.001200 |
 | **Closed P&L** | **+0.000799 SOL** |
 | **Closed ROI** | **+66.6%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 WALL-E
+- **Status:** open | **Exit:** open
+- **Peak:** 1.13x | **Current:** 1.13x
+- **Mint:** `6jjHNJviWoea6uWCbatGis7TNaWXiHrfmXuKFKJ3pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:28:46 | BUY | 0.000100 | `55prj5XGAou6QKYgLCeo5mz3yu8v2d...` |
 
 ### 🟢 TITAN
 - **Status:** partial | **Exit:** open
