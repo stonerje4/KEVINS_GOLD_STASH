@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 09:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -1419,7 +1419,7 @@
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.68x
+- **Peak:** 1.03x | **Current:** 0.69x
 - **Mint:** `3S1NxQXfKmfL4szqJnPS3N8GpA35ncqBdrU4rrAPpump`
 
 | Time | Action | SOL | TX |
@@ -1685,7 +1685,7 @@
 
 ### 🟢 KeyA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 0.79x
+- **Peak:** 1.54x | **Current:** 0.78x
 - **Mint:** `9o6e7zEjtxYTHmtrsvegqpYRuJFH52jJGdRExcTpump`
 
 | Time | Action | SOL | TX |

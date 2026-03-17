@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Hc4AA7vEuFwp7ZZJey1wjCBXVyhthZKEjXVPgmzDGy6t`
-> Generated: 2026-03-17 09:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -36,7 +36,7 @@
 
 ### 🟢 Truth
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.56x | **Current:** 0.37x
+- **Peak:** 2.56x | **Current:** 0.36x
 - **Mint:** `DNjkt4VTVD4BMoLKGmCQMZiU11UnCNeGf1bxtojqpump`
 
 | Time | Action | SOL | TX |
@@ -161,6 +161,10 @@
 | 2026-03-17 09:36:13 | SELL | 0.000000 | `2EU3mYG5gauiNeYMNn9ZVCndsFHpbz...` |
 | 2026-03-17 09:37:27 | SELL | 0.000000 | `4gHazaFr1ozvMA6Swytmkygmrsgwmz...` |
 | 2026-03-17 09:38:40 | SELL | 0.000000 | `2rZLehugR75nfuxU1CKrKZC6h8jvnX...` |
+| 2026-03-17 09:39:55 | SELL | 0.000000 | `Y41Kih9y6LLmfVMHZuwj7cRmSspWMT...` |
+| 2026-03-17 09:41:08 | SELL | 0.000000 | `39F41Hr5siHrqSHaX8Sbyzub6dZJ2S...` |
+| 2026-03-17 09:42:22 | SELL | 0.000000 | `2XLz33NNqQyRrcVLNkxFyRyLTFcKKp...` |
+| 2026-03-17 09:43:35 | SELL | 0.000000 | `63vEQ65vkyNLVdsFBTfWCyBC5DvaXy...` |
 
 ### 🟢 Clanker
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

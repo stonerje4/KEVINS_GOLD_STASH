@@ -1,5 +1,5 @@
 # [TEST] Wallet: `E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`
-> Generated: 2026-03-17 09:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ANI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 0.49x
+- **Peak:** 1.39x | **Current:** 0.48x
 - **Mint:** `2zM7YRbgZ2cVS4UHjBcLynj6AjXoGUqU8aWZDPhRpump`
 
 | Time | Action | SOL | TX |
