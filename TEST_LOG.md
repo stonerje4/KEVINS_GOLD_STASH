@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:10 UTC** | 7d | 1291 buys, 1820 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:15 UTC** | 7d | 1296 buys, 1824 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:14 | 🟢 BUY | ALIEN GANY | 0.0001 | BBBByrLH... | copy_buy | `d4vcJWKi5Brw...` |
+| 03-17 | 13:14 | 💰 SELL | TRUST | 0.0000 | AJ8Gc1cY... | TP1 | `4PSBzSMhxmuW...` |
+| 03-17 | 13:14 | 💰 SELL | $GENIUS | 0.0001 | FoabCXs5... | trail | `4k6ddjbRYqWC...` |
+| 03-17 | 13:14 | 🟢 BUY | MEMSIE | 0.0001 | 2autqiin... | copy_buy | `3LnYfd1gah7i...` |
+| 03-17 | 13:14 | 💰 SELL | Conviction | 0.0000 | 76aDmd3r... | TP1 | `DYZiqyyqYjST...` |
+| 03-17 | 13:14 | 🟢 BUY | KVRNTC | 0.0001 | EaEf6TH8... | copy_buy | `2wHu95fDQE7R...` |
+| 03-17 | 13:13 | 🟢 BUY | DLSS5 | 0.0001 | HLLBMegP... | copy_buy | `2PqPMu7TnSGf...` |
+| 03-17 | 13:12 | 🔴 SELL | Jorge | 0.0000 | 42nQHDpy... | SL | `3qPThDsqR7Uq...` |
+| 03-17 | 13:10 | 🟢 BUY | кот | 0.0001 | 721EJnQ9... | copy_buy | `5brT1tqdh9DP...` |
 | 03-17 | 13:08 | 💰 SELL | KENNY | 0.0000 | EaEf6TH8... | TP1 | `5PJCjrP94Wiv...` |
 | 03-17 | 13:08 | 🟢 BUY | F/ACC | 0.0001 | 5VVBthee... | copy_buy | `2os2CFtQVeGB...` |
 | 03-17 | 13:08 | 🟢 BUY | Lucky | 0.0001 | 35RArQiy... | copy_buy | `438Lc1WiFsz6...` |

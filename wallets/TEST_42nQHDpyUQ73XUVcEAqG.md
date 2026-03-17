@@ -1,16 +1,11 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-17 13:10 UTC | **20** pos | **2W/17L** | P&L: **+0.001595 SOL** (+46.9%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Jorge | 03-17 12:18 | 0.47x | 1.95x | 0.9h | 0.0001 |
+> 2026-03-17 13:15 UTC | **20** pos | **2W/18L** | P&L: **+0.001535 SOL** (+43.9%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Jorge | -0.0001 | 03-17 12:18 | 1.9x | 03-17 13:12 | 0.0000/0.0001 | SL |
 | ❌ Green | -0.0001 | 03-17 09:30 | 1.0x | 03-17 09:34 | 0.0000/0.0001 | gc_SL |
 | ❌ Chester  | -0.0001 | 03-17 08:42 | 1.9x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ RETRO | -0.0001 | 03-17 07:57 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -35,6 +30,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:12 | Jorge | SELL | 0.0000 | `3qPThDsqR7UqPPYv...` |
 | 03-17 12:18 | Jorge | BUY | 0.0001 | `womwmupXDDvuyXqY...` |
 | 03-17 10:33 | AHAHA | SELL | 0.0001 | `5poBgGhbNaX1aNzG...` |
 | 03-17 09:30 | Green | BUY | 0.0001 | `5xuM2sAgfnejLKex...` |

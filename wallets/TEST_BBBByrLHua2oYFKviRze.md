@@ -1,5 +1,11 @@
 # [TEST] `BBBByrLHua2oYFKv...`
-> 2026-03-17 13:10 UTC | **114** pos | **17W/97L** | P&L: **-0.009792 SOL** (-27.3%) | 0 open
+> 2026-03-17 13:15 UTC | **115** pos | **17W/97L** | P&L: **-0.009792 SOL** (-27.3%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| ALIEN GANY | 03-17 13:14 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -124,6 +130,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:14 | ALIEN GANY | BUY | 0.0001 | `d4vcJWKi5BrwzVFJ...` |
 | 03-17 10:56 | Mashu | BUY | 0.0001 | `3RjMzFGa4MSwhPYF...` |
 | 03-17 09:47 | RECESSION | BUY | 0.0001 | `2iAAS2vYaipxxLHj...` |
 | 03-17 09:11 | Nietzschean | BUY | 0.0001 | `4Na5irMQ9b6mLWDc...` |
