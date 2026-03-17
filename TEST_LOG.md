@@ -1,8 +1,22 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:55 UTC** | 7d | 1642 buys, 2081 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:00 UTC** | 7d | 1646 buys, 2091 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:59 | 🟢 BUY | GANYMEDE | 0.0001 | EaEf6TH8... | copy_buy | `652YHYMxddmH...` |
+| 03-17 | 19:59 | 🟢 BUY | Antichrist | 0.0001 | BBBByrLH... | copy_buy | `3LgAcz4xSvEj...` |
+| 03-17 | 19:59 | 🟢 BUY | DONKEY | 0.0001 | 35RArQiy... | copy_buy | `3xt2ShZpzdkA...` |
+| 03-17 | 19:59 | 🔴 SELL | PUMPOOR | 0.0000 | BBBByrLH... | SL | `3jSrBUxDuiRv...` |
+| 03-17 | 19:59 | 🔴 SELL | SMUDGE | 0.0000 | GvksYkES... | SL | `5Lba9GtTWsbc...` |
+| 03-17 | 19:58 | 🟢 BUY | AI | 0.0001 | bocsoUiM... | copy_buy | `PraAHtFwz8ii...` |
+| 03-17 | 19:57 | 💰 SELL | Waymo | 0.0001 | bocsoUiM... | TP1 | `2PYsnjM3ZuwT...` |
+| 03-17 | 19:57 | 💰 SELL | CyClaw | 0.0001 | Lfw99jsE... | TP2 | `3hsH3iqmxSGH...` |
+| 03-17 | 19:56 | 🔴 SELL | STP | 0.0001 | 45J68KxL... | stale_cleanu | `4Cv8toG4TLiN...` |
+| 03-17 | 19:56 | 🔴 SELL | Unplug | 0.0000 | FWQ3sv51... | stale_cleanu | `2mSJApXCxesw...` |
+| 03-17 | 19:56 | 🔴 SELL | Baldy | 0.0001 | FWQ3sv51... | stale_cleanu | `4uZXMW7AmgHU...` |
+| 03-17 | 19:56 | 💰 SELL | LCM | 0.0001 | Lfw99jsE... | TP1 | `3JvSe49NNSrv...` |
+| 03-17 | 19:56 | 💰 SELL | CyClaw | 0.0001 | Lfw99jsE... | TP1 | `49BD8d3JFkh9...` |
+| 03-17 | 19:55 | 🔴 SELL |  Anti-Job | 0.0000 | BBBByrLH... | SL | `45XYdzdzaF4M...` |
 | 03-17 | 19:54 | 🟢 BUY | LEPRESTAR | 0.0001 | 42nQHDpy... | copy_buy | `23dguktUheUg...` |
 | 03-17 | 19:54 | 💰 SELL | PHIL | 0.0001 | GvksYkES... | trail | `4zicj9PU81Vs...` |
 | 03-17 | 19:53 | 🟢 BUY | tusk | 0.0001 | 42nQHDpy... | copy_buy | `62xKWsu71E8H...` |

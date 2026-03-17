@@ -1,17 +1,17 @@
 # [TEST] `45J68KxLV4izQXbY...`
-> 2026-03-17 19:55 UTC | **5** pos | **0W/3L** | P&L: **-0.000253 SOL** (-84.2%) | 2 open
+> 2026-03-17 20:00 UTC | **5** pos | **0W/4L** | P&L: **-0.000271 SOL** (-67.8%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| tomorrow | 03-17 16:02 | 0.86x | 1.07x | 3.9h | 0.0001 |
-| STP | 03-17 12:45 | 0.81x | 1.00x | 7.2h | 0.0001 |
+| tomorrow | 03-17 16:02 | 0.86x | 1.07x | 4.0h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ STP | -0.0000 | 03-17 12:45 | 1.0x | 03-17 19:56 | 0.0001/0.0001 | stale_cleanup |
 | ❌ HAIKUU | -0.0001 | 03-17 03:32 | 3.3x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ SHOWMORE | -0.0001 | 03-17 01:27 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ NEURIX | -0.0001 | 03-17 01:02 | 1.7x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -20,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:56 | STP | SELL | 0.0001 | `4Cv8toG4TLiN9an9...` |
 | 03-17 16:02 | tomorrow | BUY | 0.0001 | `3K4yuaPbQ5NkrqY8...` |
 | 03-17 12:45 | STP | BUY | 0.0001 | `ufsDmi7cFLwgaNuG...` |
 | 03-17 08:14 | HAIKUU | SELL | 0.0000 | `JJKv9QBxXR3Hpkyt...` |

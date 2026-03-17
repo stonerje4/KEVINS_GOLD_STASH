@@ -1,20 +1,20 @@
 # [TEST] `FWQ3sv51J5P7o6Uw...`
-> 2026-03-17 19:55 UTC | **9** pos | **0W/4L** | P&L: **-0.000309 SOL** (-77.4%) | 5 open
+> 2026-03-17 20:00 UTC | **9** pos | **0W/6L** | P&L: **-0.000395 SOL** (-65.9%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Baldy | 03-17 18:58 | 0.68x | 1.52x | 0.9h | 0.0001 |
-| KEKKEK | 03-17 18:34 | 0.95x | 1.01x | 1.3h | 0.0001 |
-| USEFUL | 03-17 16:06 | 0.58x | 1.10x | 3.8h | 0.0001 |
-| Unplug | 03-17 12:31 | 0.46x | 1.00x | 7.4h | 0.0001 |
-| Baldy | 03-17 12:30 | 0.68x | 1.26x | 7.4h | 0.0001 |
+| Baldy | 03-17 18:58 | 0.68x | 1.52x | 1.0h | 0.0001 |
+| KEKKEK | 03-17 18:34 | 0.95x | 1.01x | 1.4h | 0.0001 |
+| USEFUL | 03-17 16:06 | 0.58x | 1.10x | 3.9h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Unplug | -0.0001 | 03-17 12:31 | 1.0x | 03-17 19:56 | 0.0000/0.0001 | stale_cleanup |
+| ❌ Baldy | -0.0000 | 03-17 12:30 | 1.3x | 03-17 19:56 | 0.0001/0.0001 | stale_cleanup |
 | ❌ CANDACE | -0.0001 | 03-17 07:27 | 1.4x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ Institute | -0.0000 | 03-17 05:07 | 2.2x | 03-17 11:50 | 0.0001/0.0001 | bulk_close_cleanup |
 | ❌ MRNIGGER | -0.0001 | 03-17 03:23 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -24,6 +24,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:56 | Unplug | SELL | 0.0000 | `2mSJApXCxesw1wZN...` |
+| 03-17 19:56 | Baldy | SELL | 0.0001 | `4uZXMW7AmgHUUoNM...` |
 | 03-17 18:58 | Baldy | BUY | 0.0001 | `5LySKyHDmNaWhztE...` |
 | 03-17 18:34 | KEKKEK | BUY | 0.0001 | `3evrvGKCSMzCm1JJ...` |
 | 03-17 16:06 | USEFUL | BUY | 0.0001 | `4fVDbPfTNAAuQsRa...` |

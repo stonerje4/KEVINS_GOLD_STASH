@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 19:55 UTC** | 7d | 737 buys, 976 sells | In: **90.58** | Out: **84.37** | Net: **-6.21 SOL**
+> Updated: **2026-03-17 20:00 UTC** | 7d | 737 buys, 976 sells | In: **90.58** | Out: **84.41** | Net: **-6.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:57 | 🔴 SELL | ? | 0.0571 | 3HGqppv8... | SL | `3G6TiPxwrJvS...` |
 | 03-17 | 19:54 | 🟢 BUY | LEPRESTAR | 0.1500 | 42nQHDpy... | copy | `Xw3YGpfW9aUG...` |
 | 03-17 | 19:54 | 🟢 BUY | Akhal-Teke | 0.1500 | BNCSPd6Q... | copy | `6KD9eC7BsSTc...` |
 | 03-17 | 19:54 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `2AaY9PtxQuUb...` |
@@ -1715,4 +1716,3 @@
 | 03-10 | 20:12 | 💰 SELL | SPACE | 0.0510 | 9rb2ChEj... | TP3 | `4ExJKKRowtMs...` |
 | 03-10 | 20:11 | 💰 SELL | creature | 0.0514 | HMM6RoT2... | TP3 | `2jy6JMvBTdbH...` |
 | 03-10 | 20:08 | 💰 SELL | SPACE | 0.0318 | 9rb2ChEj... | TP2 | `4Ytn8x4XXj6u...` |
-| 03-10 | 19:56 | 🔴 SELL | ZOO | 0.0187 | 8QfqdUJt... | SL | `48z8UfZy9Mer...` |
