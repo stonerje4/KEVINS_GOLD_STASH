@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:40 UTC** | 7d | 1536 buys, 2007 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 17:45 UTC** | 7d | 1538 buys, 2012 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:44 | 💰 SELL | oneshotted | 0.0001 | BBBByrLH... | trail | `3m4PQa38qZAm...` |
+| 03-17 | 17:44 | 🔴 SELL | Mashu | 0.0000 | BBBByrLH... | SL | `3riHPvWzduTE...` |
+| 03-17 | 17:43 | 🔴 SELL | DAD | 0.0000 | TZkcwgk6... | SL | `2faX3oQJhnQY...` |
+| 03-17 | 17:42 | 🟢 BUY | DOODLIFY | 0.0001 | FzMeg6P2... | copy_buy | `2aVa7Cx9c8JB...` |
+| 03-17 | 17:42 | 🔴 SELL | meme | 0.0000 | BBBByrLH... | trail | `2YgoGchuUbrj...` |
+| 03-17 | 17:41 | 🟢 BUY | POW | 0.0001 | EaEf6TH8... | copy_buy | `2yzGG4657heC...` |
+| 03-17 | 17:41 | 🔴 SELL | Chicken | 0.0001 | Lfw99jsE... | trail | `C5MHQAc5S61W...` |
 | 03-17 | 17:39 | 🟢 BUY | PAWAN | 0.0001 | 6gN2SNYX... | copy_buy | `3XpxhdHCTJZh...` |
 | 03-17 | 17:39 | 🟢 BUY | magnets | 0.0001 | 35RArQiy... | copy_buy | `5QEy68fFponG...` |
 | 03-17 | 17:39 | 💰 SELL | meme | 0.0001 | BBBByrLH... | TP1 | `4irSV1D2kcs9...` |

@@ -1,5 +1,11 @@
 # [TEST] `FzMeg6P2L16BSUiv...`
-> 2026-03-17 17:40 UTC | **16** pos | **3W/13L** | P&L: **-0.001443 SOL** (-55.5%) | 0 open
+> 2026-03-17 17:45 UTC | **17** pos | **3W/13L** | P&L: **-0.001443 SOL** (-55.5%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| DOODLIFY | 03-17 17:42 | 0.80x | 1.09x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -26,6 +32,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:42 | DOODLIFY | BUY | 0.0001 | `2aVa7Cx9c8JBKyfS...` |
 | 03-17 17:14 | Solana | SELL | 0.0000 | `4h6KV2gABqCr7yj2...` |
 | 03-17 17:12 | Solana | SELL | 0.0001 | `4hJv7zNyjPGZsmfq...` |
 | 03-17 17:11 | Solana | SELL | 0.0001 | `2aQxj1pis1fxPVsQ...` |
