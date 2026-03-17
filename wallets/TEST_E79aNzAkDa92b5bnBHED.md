@@ -1,5 +1,11 @@
 # [TEST] `E79aNzAkDa92b5bn...`
-> 2026-03-17 15:40 UTC | **2** pos | **1W/1L** | P&L: **+0.000098 SOL** (+48.9%) | 0 open
+> 2026-03-17 15:45 UTC | **3** pos | **1W/1L** | P&L: **+0.000098 SOL** (+48.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| HEISEI | 03-17 15:42 | 0.76x | 1.09x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:42 | HEISEI | BUY | 0.0001 | `2a3Shz3m7TbBnNn8...` |
 | 03-17 14:51 | CLAW3D | SELL | 0.0002 | `5XMG2hmFfFmTy7tH...` |
 | 03-17 14:28 | CLAW3D | SELL | 0.0000 | `dWjmHpqVcxe2N32H...` |
 | 03-17 13:45 | CLAW3D | SELL | 0.0000 | `4XixSWMcZW26s3fJ...` |

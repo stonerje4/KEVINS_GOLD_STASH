@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 15:40 UTC** | 7d | 1404 buys, 1915 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:45 UTC** | 7d | 1407 buys, 1918 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:44 | 🟢 BUY | KING | 0.0001 | AJ8Gc1cY... | copy_buy | `36j1BQUzjPdo...` |
+| 03-17 | 15:43 | 🔴 SELL | PATRIOT | 0.0001 | AiNfNi2e... | trail | `gdRo19dVNEet...` |
+| 03-17 | 15:42 | 🟢 BUY | HEISEI | 0.0001 | E79aNzAk... | copy_buy | `2a3Shz3m7TbB...` |
+| 03-17 | 15:42 | 💰 SELL | gayhormuz | 0.0001 | 51Ui3ZD4... | trail | `4kUMKogJ4rg5...` |
+| 03-17 | 15:40 | 💰 SELL | PATRIOT | 0.0000 | AiNfNi2e... | TP1 | `2QqgtLUdpNfJ...` |
+| 03-17 | 15:40 | 🟢 BUY | Clover | 0.0001 | U3jiDzTc... | copy_buy | `4eyhFqYpj4ug...` |
 | 03-17 | 15:39 | 💰 SELL | Waiter | 0.0000 | GHy1P6vJ... | TP1 | `3SrmSv3yNpdi...` |
 | 03-17 | 15:38 | 🟢 BUY | ClawLex | 0.0001 | AiNfNi2e... | copy_buy | `4mD6JRARCEzZ...` |
 | 03-17 | 15:38 | 🟢 BUY | PATRIOT | 0.0001 | AiNfNi2e... | copy_buy | `66Lh4P9CYdUb...` |

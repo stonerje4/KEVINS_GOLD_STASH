@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 15:40 UTC** | 7d | 695 buys, 942 sells | In: **82.68** | Out: **80.16** | Net: **-2.52 SOL**
+> Updated: **2026-03-17 15:45 UTC** | 7d | 694 buys, 943 sells | In: **82.63** | Out: **80.22** | Net: **-2.41 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:42 | 🔴 SELL | IQ | 0.0590 | 7aMgK5L4... | SL | `aWgSdWP5GKcb...` |
 | 03-17 | 15:39 | 🟢 BUY | PATRIOT | 0.1500 | 42nQHDpy... | copy | `2KWVKWtK3VyB...` |
 | 03-17 | 15:38 | 🔴 SELL | IOR | 0.1256 | DHfshpzo... | trail | `3ysT54f3TerZ...` |
 | 03-17 | 15:33 | 💰 SELL | KENNY | 0.0896 | 42nQHDpy... | TP3 | `2h7UaPQEFt8U...` |
@@ -1639,4 +1640,3 @@
 | 03-10 | 15:59 | 🟢 BUY | UXR | 0.0500 | gAd5gDX6... | copy | `KJ9QYFp4Wfxm...` |
 | 03-10 | 15:55 | 🟢 BUY | Replacement | 0.0500 | HMM6RoT2... | copy | `3voGj7NPNb2b...` |
 | 03-10 | 15:46 | 🟢 BUY | Yoshi | 0.0500 | 9rb2ChEj... | copy | `5Lk9DTUEDGaP...` |
-| 03-10 | 15:43 | 🟢 BUY | SPACE | 0.0500 | 9rb2ChEj... | copy | `36qGDPFH6sbg...` |
