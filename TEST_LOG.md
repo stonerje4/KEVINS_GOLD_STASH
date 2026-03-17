@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:35 UTC** | 7d | 1718 buys, 2149 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:40 UTC** | 7d | 1720 buys, 2156 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:39 | 🔴 SELL | bio | 0.0000 | 4Ki54j4t... | SL | `3Vdk9yBBgTH7...` |
+| 03-17 | 21:39 | 💰 SELL | MAFIA | 0.0001 | bocsoUiM... | TP1 | `2aH1BqZStYL6...` |
+| 03-17 | 21:38 | 🟢 BUY | Oranges | 0.0001 | EyeSFbqH... | copy_buy | `5MbfZPe8M5d2...` |
+| 03-17 | 21:38 | 🟢 BUY | bio | 0.0001 | 4Ki54j4t... | copy_buy | `4VXpuhFpj8p4...` |
+| 03-17 | 21:37 | 🔴 SELL | WHEELS | 0.0000 | otq3sTTS... | trail | `3sQmVJX8NPNr...` |
+| 03-17 | 21:36 | 🔴 SELL | PAYPHONE | 0.0000 | 4Ki54j4t... | SL | `4LXQjEHrVzd8...` |
+| 03-17 | 21:36 | 💰 SELL | YOU | 0.0001 | 99XWMUAM... | TP1 | `62yKeyoW5RfW...` |
+| 03-17 | 21:35 | 💰 SELL | HRMZSWPR | 0.0001 | GHy1P6vJ... | TP1 | `3rwqWAPrgNJe...` |
+| 03-17 | 21:35 | 💰 SELL | WHEELS | 0.0001 | otq3sTTS... | TP2 | `2NbWKFLVoLz5...` |
 | 03-17 | 21:34 | 🟢 BUY | PAYPHONE | 0.0001 | 4Ki54j4t... | copy_buy | `5CtULGgWWieG...` |
 | 03-17 | 21:32 | 🟢 BUY | Just Buy | 0.0001 | 4Ki54j4t... | copy_buy | `5TCGbSqqPrPf...` |
 | 03-17 | 21:31 | 💰 SELL | WHEELS | 0.0001 | otq3sTTS... | TP1 | `2U3WA63YGirt...` |
