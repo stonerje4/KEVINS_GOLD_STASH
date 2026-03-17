@@ -1,18 +1,27 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 04:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 51 |
-| Open | 34 |
+| Total Positions | 52 |
+| Open | 35 |
 | Closed | 17 |
 | W/L | 4/13 |
 | SOL In (closed) | 0.010200 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+31.4%** |
-| Open Deployed | 0.013900 SOL |
+| Open Deployed | 0.014000 SOL |
 
 ## Trades
+
+### 🟢 DYOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 1.02x
+- **Mint:** `CFzhoZQZqosY2gpuaknoSfWpF3tYSjCcm7H1jvuipump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:08:59 | BUY | 0.000100 | `2EKKnyAVTqiVmMkaYovDM3T8zQQas1...` |
 
 ### 🟢 NC
 - **Status:** open | **Exit:** open
@@ -214,7 +223,7 @@
 
 ### 🟢 CITYGIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.90x
+- **Peak:** 1.01x | **Current:** 0.81x
 - **Mint:** `C4g6BS4xXiqo7Y6LjiLykMNdVPuJkFfj7SRDQXUBpump`
 
 | Time | Action | SOL | TX |

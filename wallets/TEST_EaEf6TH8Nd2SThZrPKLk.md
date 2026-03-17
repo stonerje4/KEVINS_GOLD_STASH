@@ -1,22 +1,22 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 04:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 116 |
-| Open | 30 |
-| Closed | 86 |
-| W/L | 85/1 |
-| SOL In (closed) | 0.036600 |
-| **Closed P&L** | **+0.030633 SOL** |
-| **Closed ROI** | **+83.7%** |
-| Open Deployed | 0.004500 SOL |
+| Open | 29 |
+| Closed | 87 |
+| W/L | 86/1 |
+| SOL In (closed) | 0.036700 |
+| **Closed P&L** | **+0.030672 SOL** |
+| **Closed ROI** | **+83.6%** |
+| Open Deployed | 0.004400 SOL |
 
 ## Trades
 
 ### 🟢 NoseBoop
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 0.91x
+- **Peak:** 1.14x | **Current:** 0.79x
 - **Mint:** `HVhqMVbmWtoSzPHU1cAX7TLy65VrSKqgnGFyY8BJpump`
 
 | Time | Action | SOL | TX |
@@ -42,18 +42,19 @@
 |------|--------|-----|----|
 | 2026-03-17 03:49:04 | BUY | 0.000100 | `5EaagowuPhjHKgq3SCdcJRZTVM2ZDG...` |
 
-### 🟢 DEADENYAHU
-- **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 0.57x
+### 🔴 DEADENYAHU
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.47x | **Current:** 0.40x
 - **Mint:** `4M9VbBbdknEdyv7JixQTsALWVkhvzQLTJbfWEd8qpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 03:47:35 | BUY | 0.000100 | `5nHRz7ydhS86TCrBomem7SRwY1vKaA...` |
+| 2026-03-17 04:08:00 | SELL | 0.000040 | `4PivAg79BVAb18UuaJYDavJRAKSJtu...` |
 
 ### 🟢 PCT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 1.15x
+- **Peak:** 1.21x | **Current:** 1.10x
 - **Mint:** `CjQ5GYXkJWuRbDmAd4RN5LEX6Sqpq295xuhbZMRpUCLi`
 
 | Time | Action | SOL | TX |
@@ -98,7 +99,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.90x | **Current:** 2.84x
+- **Peak:** 2.90x | **Current:** 2.83x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -138,7 +139,7 @@
 
 ### 🟢 FILECITY
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.28x | **Current:** 0.86x
+- **Peak:** 2.28x | **Current:** 0.88x
 - **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
 
 | Time | Action | SOL | TX |
@@ -210,7 +211,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.75x | **Current:** 0.82x
+- **Peak:** 1.75x | **Current:** 0.69x
 - **Mint:** `E98XR94FXG2w4GdCwunGPYx8TbZqe2HiNMPHS1Hmpump`
 
 | Time | Action | SOL | TX |

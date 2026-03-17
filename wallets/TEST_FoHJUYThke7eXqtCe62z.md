@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 04:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -451,7 +451,7 @@
 
 ### 🟢 DegenMeta
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.90x
+- **Peak:** 1.02x | **Current:** 0.82x
 - **Mint:** `DaMDDC7zSR95VykeWX5kFWywhvsSuS4mREvLE8Rppump`
 
 | Time | Action | SOL | TX |
@@ -471,7 +471,7 @@
 
 ### 🟢 Species
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.75x
+- **Peak:** 1.04x | **Current:** 0.84x
 - **Mint:** `8beNLk4qqzvQL4ffWeWkNfpGNmDRtHUt2T8ofpd4pump`
 
 | Time | Action | SOL | TX |
