@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 18:25 UTC** | 7d | 1559 buys, 2034 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 18:30 UTC** | 7d | 1563 buys, 2034 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:28 | 🟢 BUY | SFM | 0.0001 | GHy1P6vJ... | copy_buy | `4MYJ1NaMdaWA...` |
+| 03-17 | 18:27 | 🟢 BUY | BRACKET | 0.0001 | otq3sTTS... | copy_buy | `4Q6Sti8jjYpG...` |
+| 03-17 | 18:27 | 🟢 BUY | ERIC | 0.0001 | 35RArQiy... | copy_buy | `4s7P9ohDZ8nb...` |
+| 03-17 | 18:26 | 🟢 BUY | POW | 0.0001 | otq3sTTS... | copy_buy | `2NHLu9GBffA3...` |
 | 03-17 | 18:24 | 🔴 SELL | IQ | 0.0001 | Gdd86j2T... | trail | `5wGPF3h1YSMk...` |
 | 03-17 | 18:24 | 💰 SELL | Atlas | 0.0001 | bocsoUiM... | TP1 | `4A8hofQi899M...` |
 | 03-17 | 18:18 | 🔴 SELL |  X Clones | 0.0000 | BDe7kU3V... | SL | `3HMVETc84yut...` |

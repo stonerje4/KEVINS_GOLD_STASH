@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 18:25 UTC** | 7d | 724 buys, 956 sells | In: **88.13** | Out: **81.54** | Net: **-6.59 SOL**
+> Updated: **2026-03-17 18:30 UTC** | 7d | 723 buys, 958 sells | In: **88.08** | Out: **81.71** | Net: **-6.37 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:26 | 🔴 SELL | BEPE | 0.0586 | 42nQHDpy... | SL | `4UkuFGvhKymw...` |
+| 03-17 | 18:25 | 💰 SELL | xAU | 0.1137 | DHfshpzo... | TP2 | `5NednPTtUKos...` |
 | 03-17 | 18:24 | 🔴 SELL | IQ | 0.0597 | 6qTPHgnS... | SL | `3dUXgF3YAVqA...` |
 | 03-17 | 18:20 | 🟢 BUY | DUNE | 0.1500 | 6qTPHgnS... | copy | `5pTim4z4z2AY...` |
 | 03-17 | 18:19 | 🟢 BUY | USEFUL | 0.1500 | 6qTPHgnS... | copy | `5YyZMwgTvm64...` |
@@ -1682,4 +1684,3 @@
 | 03-10 | 18:39 | 💰 SELL | Lenny | 0.0590 | 8QfqdUJt... | TP1 | `4tn23mvD9fWZ...` |
 | 03-10 | 18:38 | 🟢 BUY | Lenny | 0.0500 | 8QfqdUJt... | copy | `31vmpVT9m1eW...` |
 | 03-10 | 18:37 | 🟢 BUY | Gain | 0.0500 | 8QfqdUJt... | copy | `3pNmBsyi1fdb...` |
-| 03-10 | 18:26 | 🟢 BUY | Landslide | 0.0500 | 8QfqdUJt... | copy | `5CVC2RphUUSV...` |
