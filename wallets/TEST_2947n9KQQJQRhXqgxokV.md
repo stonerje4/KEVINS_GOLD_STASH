@@ -1,16 +1,16 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 25 |
-| Open | 18 |
-| Closed | 7 |
-| W/L | 5/2 |
-| SOL In (closed) | 0.004200 |
+| Open | 17 |
+| Closed | 8 |
+| W/L | 5/3 |
+| SOL In (closed) | 0.004800 |
 | **Closed P&L** | **+0.001890 SOL** |
-| **Closed ROI** | **+45.0%** |
-| Open Deployed | 0.004800 SOL |
+| **Closed ROI** | **+39.4%** |
+| Open Deployed | 0.004200 SOL |
 
 ## Trades
 
@@ -133,7 +133,7 @@
 
 ### 🟢 ARAMCO
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.20x | **Current:** 2.20x
+- **Peak:** 2.49x | **Current:** 2.23x
 - **Mint:** `5sZacjEPnUwfXqRsaJgP1w4iEWkTN9hv7Vmd6tcCpump`
 
 | Time | Action | SOL | TX |
@@ -199,14 +199,15 @@
 |------|--------|-----|----|
 | 2026-03-16 04:46:58 | BUY | 0.000600 | `21MHmVaJb4mE5v6hVAdCtDtNavPNvK...` |
 
-### 🟢 TIN
-- **Status:** open | **Exit:** open
+### 🔴 TIN
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.29x | **Current:** 0.82x
 - **Mint:** `27etifrEo9mkxxwLmA78SaUhWV42u41FegFjjzGspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:15:23 | BUY | 0.000600 | `4tSb1cUE1YimnwcS6B1x5iggouecXJ...` |
+| 2026-03-17 06:52:30 | SELL | 0.000082 | `n6yEW9kWa3EjqJ2UPsZuZ7uVSwj44o...` |
 
 ### 🔴 XAIC
 - **Status:** closed | **Exit:** ghost_close_stop_loss

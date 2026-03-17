@@ -1,18 +1,27 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 54 |
-| Open | 35 |
+| Total Positions | 55 |
+| Open | 36 |
 | Closed | 19 |
 | W/L | 4/15 |
 | SOL In (closed) | 0.011400 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+28.1%** |
-| Open Deployed | 0.013000 SOL |
+| Open Deployed | 0.013100 SOL |
 
 ## Trades
+
+### 🟢 BPFN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.01x | **Current:** 1.00x
+- **Mint:** `Fu3LuwCxkE4pf2H4q1PUmP3rd4gpWfUU5rAh1djRPmpr`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 06:51:49 | BUY | 0.000100 | `ThkkaxZ549RCLno1g2iki96ZfophH4...` |
 
 ### 🟢 PVEDOG
 - **Status:** open | **Exit:** open

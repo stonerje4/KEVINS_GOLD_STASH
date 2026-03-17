@@ -1,22 +1,22 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 14 |
-| Open | 5 |
-| Closed | 9 |
-| W/L | 9/0 |
-| SOL In (closed) | 0.001400 |
-| **Closed P&L** | **+0.001174 SOL** |
-| **Closed ROI** | **+83.8%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 4 |
+| Closed | 10 |
+| W/L | 10/0 |
+| SOL In (closed) | 0.001500 |
+| **Closed P&L** | **+0.001340 SOL** |
+| **Closed ROI** | **+89.4%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
 ### 🟢 GoonGPT
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.37x | **Current:** 2.01x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.37x | **Current:** 1.44x
 - **Mint:** `DTs1TiHQueUCFXPdGKXfwxoEqHLhYdybepxzqcEcpump`
 
 | Time | Action | SOL | TX |
@@ -24,6 +24,7 @@
 | 2026-03-17 05:54:17 | BUY | 0.000100 | `2Mi7en7MKWrhk8Gku8RsDRd3aqYxpR...` |
 | 2026-03-17 06:11:55 | SELL | 0.000022 | `1Xo97h4D3kpNmCXVvgjfvjsHUkppt9...` |
 | 2026-03-17 06:14:33 | SELL | 0.000027 | `5c2aBWTry6T9aRK1jk5Yrq2WLLqUU6...` |
+| 2026-03-17 06:53:16 | SELL | 0.000117 | `2ssrc6252F5WiZPehaYHAhQhCSNJzP...` |
 
 ### 🔴 chuckee
 - **Status:** closed | **Exit:** stop_loss

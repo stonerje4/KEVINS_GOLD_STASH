@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 MOMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 1.01x
+- **Peak:** 1.01x | **Current:** 1.00x
 - **Mint:** `9JbxQSKNukRA7cPZxCfhSNEcAP9iKRo3PSyYNbW4pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 zeroxoneb
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.25x | **Current:** 0.95x
+- **Peak:** 2.25x | **Current:** 1.05x
 - **Mint:** `8n4ZAfn1izwsXKfvc2KnAsPTfNokRiqCvKTwb4mSpump`
 
 | Time | Action | SOL | TX |
@@ -120,7 +120,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 1.06x
+- **Peak:** 1.73x | **Current:** 1.05x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |
@@ -149,7 +149,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.77x | **Current:** 0.79x
+- **Peak:** 1.77x | **Current:** 0.83x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |

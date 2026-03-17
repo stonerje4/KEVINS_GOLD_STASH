@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 AEX402
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.61x | **Current:** 1.61x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 NoseBoop
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.36x
+- **Peak:** 1.41x | **Current:** 1.03x
 - **Mint:** `HVhqMVbmWtoSzPHU1cAX7TLy65VrSKqgnGFyY8BJpump`
 
 | Time | Action | SOL | TX |
@@ -108,7 +108,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.59x | **Current:** 4.42x
+- **Peak:** 4.59x | **Current:** 4.43x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |

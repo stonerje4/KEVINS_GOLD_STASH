@@ -1,16 +1,16 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 87 |
-| Open | 59 |
-| Closed | 28 |
-| W/L | 13/15 |
-| SOL In (closed) | 0.023700 |
+| Open | 58 |
+| Closed | 29 |
+| W/L | 13/16 |
+| SOL In (closed) | 0.024300 |
 | **Closed P&L** | **+0.009065 SOL** |
-| **Closed ROI** | **+38.2%** |
-| Open Deployed | 0.017900 SOL |
+| **Closed ROI** | **+37.3%** |
+| Open Deployed | 0.017300 SOL |
 
 ## Trades
 
@@ -507,7 +507,7 @@
 
 ### 🟢 chibo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 0.88x
+- **Peak:** 1.10x | **Current:** 0.78x
 - **Mint:** `HMAxR8iZxJz6mfJ3YUb6GiMSPzJSWQ5mSd7JBP2Mpump`
 
 | Time | Action | SOL | TX |
@@ -516,7 +516,7 @@
 
 ### 🟢 TD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.90x
 - **Mint:** `HvtsgZrABY8uvcMCKg6Kd9y2RXr8pandJHRNBQYBpump`
 
 | Time | Action | SOL | TX |
@@ -654,14 +654,15 @@
 |------|--------|-----|----|
 | 2026-03-16 04:46:48 | BUY | 0.000600 | `3fiwYakh7MjRZ6VxWLMEU1qf7hzLDc...` |
 
-### 🟢 Simple
-- **Status:** open | **Exit:** open
+### 🔴 Simple
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `CMLM9SggbFrhuS7opZQcxFrNWC5RhfVUBKHA58e9pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:18:26 | BUY | 0.000600 | `4vxai2xDVabvx9cLT652XuFXhpsTQg...` |
+| 2026-03-17 06:52:33 | SELL | 0.000094 | `2KtM3U1BV7dBfVGN12g5MVKQrxeUxm...` |
 
 ### 🔴 Simple
 - **Status:** closed | **Exit:** stale_cleanup

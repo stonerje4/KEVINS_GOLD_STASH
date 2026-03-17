@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 06:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 287 |
-| Open | 78 |
-| Closed | 209 |
-| W/L | 196/13 |
-| SOL In (closed) | 0.105900 |
+| Open | 77 |
+| Closed | 210 |
+| W/L | 196/14 |
+| SOL In (closed) | 0.106500 |
 | **Closed P&L** | **+0.089936 SOL** |
-| **Closed ROI** | **+84.9%** |
-| Open Deployed | 0.027300 SOL |
+| **Closed ROI** | **+84.4%** |
+| Open Deployed | 0.026700 SOL |
 
 ## Trades
 
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.49x | **Current:** 5.33x
+- **Peak:** 7.49x | **Current:** 5.30x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +212,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.89x | **Current:** 2.15x
+- **Peak:** 3.89x | **Current:** 2.17x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -370,7 +370,7 @@
 
 ### 🟢 tokens
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.64x
+- **Peak:** 1.80x | **Current:** 0.63x
 - **Mint:** `66XSbdgMgdd8dPoj1fDp1m1M8sax2135J18tbNofpump`
 
 | Time | Action | SOL | TX |
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.33x
+- **Peak:** 3.16x | **Current:** 2.30x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1075,7 +1075,7 @@
 
 ### 🟢 COFFEE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.87x
 - **Mint:** `DTWg1WskDdQ1tU6LjK9jVi6NEafHconMXyGJrRoDpump`
 
 | Time | Action | SOL | TX |
@@ -2303,14 +2303,15 @@
 | 2026-03-16 04:16:38 | BUY | 0.000600 | `4gb72zXRB53jDPiXSZHYZae6d6TNEz...` |
 | 2026-03-16 04:18:04 | SELL | 0.000367 | `3ZTWbzXyu8aYbVKAQG1ESKCVQiJ5wP...` |
 
-### 🟢 0
-- **Status:** open | **Exit:** open
+### 🔴 0
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.09x | **Current:** 0.66x
 - **Mint:** `B5HtjQBnoEPGn7rJ8JSYF2K7NZv1AVAnBtKmRFn5DbXJ`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 04:13:46 | BUY | 0.000600 | `4KgAS9ptpPCgQhRktDDpCYnT8LYVQE...` |
+| 2026-03-17 06:52:27 | SELL | 0.000066 | `jXaP4J3Tm42YnDr91EfUu7Cwukt2u1...` |
 
 ### 🔴 6
 - **Status:** closed | **Exit:** ghost_close_stop_loss
