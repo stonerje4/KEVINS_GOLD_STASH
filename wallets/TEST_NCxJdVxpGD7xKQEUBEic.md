@@ -1,27 +1,28 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 04:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 13 |
-| Open | 5 |
-| Closed | 8 |
-| W/L | 8/0 |
-| SOL In (closed) | 0.001300 |
-| **Closed P&L** | **+0.001136 SOL** |
-| **Closed ROI** | **+87.4%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 4 |
+| Closed | 9 |
+| W/L | 9/0 |
+| SOL In (closed) | 0.001400 |
+| **Closed P&L** | **+0.001174 SOL** |
+| **Closed ROI** | **+83.8%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
-### 🟢 chuckee
-- **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.41x
+### 🔴 chuckee
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.21x | **Current:** 0.37x
 - **Mint:** `HuhPV9jpYBqfaDKzwjXoiH4MD9oGaxUCKKLBQFHMpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:14:46 | BUY | 0.000100 | `2xirMr2M4bQwfST8Rz1xNbuq4tuCBy...` |
+| 2026-03-17 04:26:15 | SELL | 0.000038 | `66kJTrmy65zMGNnA1vFd1UiV2bCDLb...` |
 
 ### 🟢 Replacement
 - **Status:** closed | **Exit:** runner_trailing_stop

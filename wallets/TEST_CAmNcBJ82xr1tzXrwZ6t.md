@@ -1,18 +1,27 @@
 # [TEST] Wallet: `CAmNcBJ82xr1tzXrwZ6tZKwEFs26TG8kT6dJeR1bxjW9`
-> Generated: 2026-03-17 04:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 0 |
+| Total Positions | 6 |
+| Open | 1 |
 | Closed | 5 |
 | W/L | 4/1 |
 | SOL In (closed) | 0.002500 |
 | **Closed P&L** | **+0.001088 SOL** |
 | **Closed ROI** | **+43.5%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 bull
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.65x
+- **Mint:** `FLz8pLCaaxAzULk8uaPDAHZSPQXvC9UFPeC1ssEepump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:27:57 | BUY | 0.000100 | `5ef71wG2ZVc3RsRQPzzHpiH91mEVri...` |
 
 ### 🔴 FAGS
 - **Status:** closed | **Exit:** stop_loss

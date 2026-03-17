@@ -1,4 +1,4 @@
-# [TEST] Wallet: `GEHrGJ3B9BbKdDmfKyB3mjouUY6wkiBAFfb6fAkrbWEd`
+# [TEST] Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 > Generated: 2026-03-17 04:30 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 BULLX
+### 🟢 AGENT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.72x
-- **Mint:** `He3Mq7t9EhL1CyH7aM8ACN5oXPLNFkJ2jfsruQBTpump`
+- **Peak:** 1.19x | **Current:** 1.19x
+- **Mint:** `BkkGZEJV5QW93WXMtUHiK71F2ML7eYsCEeJD9P3fpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-17 03:46:05 | BUY | 0.000100 | `pf4BPvaGLGLbF4ZVCWrbPa3zjWT5wH...` |
+| 2026-03-17 04:28:49 | BUY | 0.000100 | `4qZM4AhLC6DtnJxJcHpT6xRdnN2Pdr...` |
 

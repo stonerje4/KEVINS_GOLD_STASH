@@ -1,27 +1,28 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-17 04:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 18 |
-| Open | 3 |
-| Closed | 15 |
-| W/L | 10/5 |
-| SOL In (closed) | 0.009000 |
-| **Closed P&L** | **+0.004122 SOL** |
-| **Closed ROI** | **+45.8%** |
-| Open Deployed | 0.000800 SOL |
+| Open | 2 |
+| Closed | 16 |
+| W/L | 11/5 |
+| SOL In (closed) | 0.009100 |
+| **Closed P&L** | **+0.004162 SOL** |
+| **Closed ROI** | **+45.7%** |
+| Open Deployed | 0.000700 SOL |
 
 ## Trades
 
-### 🟢 Fep
-- **Status:** open | **Exit:** open
-- **Peak:** 1.35x | **Current:** 0.47x
+### 🔴 Fep
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.35x | **Current:** 0.39x
 - **Mint:** `Cj1MvQtHUb3Z7fWnF4jM2DGutbt5Gh7CAFruKSTpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:23:54 | BUY | 0.000100 | `57i7jGxYHEqnBbZkwQByHNpyc3VCFz...` |
+| 2026-03-17 04:29:21 | SELL | 0.000040 | `7VZDv8rhzLv6zZPeVaLd4t3rV5HqCt...` |
 
 ### 🟢 Sanmao
 - **Status:** open | **Exit:** open
@@ -64,7 +65,7 @@
 
 ### 🟢 G1
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.91x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `75qNj35dUMLjrQjYTMBNiJXFZBnimqKyB2Q9o2rzpump`
 
 | Time | Action | SOL | TX |
