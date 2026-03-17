@@ -1,27 +1,28 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 01:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 1 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.000200 |
-| **Closed P&L** | **+0.000057 SOL** |
-| **Closed ROI** | **+28.3%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.000300 |
+| **Closed P&L** | **+0.000095 SOL** |
+| **Closed ROI** | **+31.6%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 GAVIN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 0.81x
+### 🔴 GAVIN
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.20x | **Current:** 0.38x
 - **Mint:** `4eczFfDiLqcNG6YSycAtcEgdRQjgvwvLwD9ezkKNpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:10:11 | BUY | 0.000100 | `5AqeRd73tLXALMGukTiXBvWMVPzAdX...` |
+| 2026-03-17 01:19:36 | SELL | 0.000038 | `4HKGgmWJQssr7AUbfT4Jhe1xg6Z2mb...` |
 
 ### 🔴 crine
 - **Status:** closed | **Exit:** stop_loss

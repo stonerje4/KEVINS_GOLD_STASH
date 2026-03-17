@@ -1,22 +1,31 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 01:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 30 |
+| Total Positions | 31 |
 | Open | 29 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000142 SOL** |
-| **Closed ROI** | **+142.2%** |
+| Closed | 2 |
+| W/L | 2/0 |
+| SOL In (closed) | 0.000200 |
+| **Closed P&L** | **+0.000231 SOL** |
+| **Closed ROI** | **+115.7%** |
 | Open Deployed | 0.002900 SOL |
 
 ## Trades
 
+### 🟢 3
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.82x
+- **Mint:** `65TrEUpKVb4DXnM8Lusy7MQpEAqsr1MBuP64AsUDpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:17:50 | BUY | 0.000100 | `4hpaTvsQZjCBudCsZ1bUfNevephyDK...` |
+
 ### 🟢 PIGEON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.45x
+- **Peak:** 1.00x | **Current:** 0.44x
 - **Mint:** `9ZsRduqkP1zdNhoBTem9Bh6ZTkdSmiHsRqxA48oGpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +52,7 @@
 
 ### 🟢 BEAR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 0.75x
+- **Peak:** 1.27x | **Current:** 0.78x
 - **Mint:** `42bt6cMqCs1BKMybgFDi8MkkarxBScERvtFuyRA8pump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +70,7 @@
 
 ### 🟢 sexless
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 0.82x
+- **Peak:** 1.24x | **Current:** 0.77x
 - **Mint:** `FVidfQMMimDh2vG8voK4YdBkUcq7kvJuVPbLUiT5pump`
 
 | Time | Action | SOL | TX |
@@ -70,7 +79,7 @@
 
 ### 🟢 EVIE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.30x | **Current:** 2.09x
+- **Peak:** 2.30x | **Current:** 1.87x
 - **Mint:** `ETZ5L4FYfkgXx5XAK7Vhvag9kirGJdpBAUJcue1Dpump`
 
 | Time | Action | SOL | TX |
@@ -89,7 +98,7 @@
 
 ### 🟢 AI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.97x
+- **Peak:** 1.03x | **Current:** 0.98x
 - **Mint:** `BPbVZ5oNbvWCrvBaGqEMZLNEVD6wKgMDRLCrJP7wpump`
 
 | Time | Action | SOL | TX |
@@ -124,15 +133,16 @@
 |------|--------|-----|----|
 | 2026-03-17 00:23:32 | BUY | 0.000100 | `2JD8wPUhAe4HjpZjfTeLeEaNWYThzW...` |
 
-### 🟢 BDH
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.24x | **Current:** 1.76x
+### 🔴 BDH
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.24x | **Current:** 0.75x
 - **Mint:** `Aqo81fep1rS4kAWNidSm5qZwa33kPebLNZZdXoJZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:09:41 | BUY | 0.000100 | `5UdrVBLiAxCht1jSqan6icNRVBARWG...` |
 | 2026-03-17 00:52:58 | SELL | 0.000021 | `4KAMZEXU36dZfxiRFpYkz4hpMjAagc...` |
+| 2026-03-17 01:19:02 | SELL | 0.000068 | `2wvq6R64ZFqozefMhaBu1DtpzM7bSx...` |
 
 ### 🟢 William
 - **Status:** open | **Exit:** open

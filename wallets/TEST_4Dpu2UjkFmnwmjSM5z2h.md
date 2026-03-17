@@ -1,4 +1,4 @@
-# [TEST] Wallet: `GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW`
+# [TEST] Wallet: `4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G`
 > Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,21 +14,21 @@
 
 ## Trades
 
-### 🟢 TEST
+### 🟢 MINDLESS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.93x
-- **Mint:** `88jLAVQdGb4e4pUDD9AbaZKVAiLB3FrtC5CwTrnFdCSD`
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `AJofCoVif3wj2Uy7mpzgxbqDyHPyn7xp6WzJBy7gpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 17:02:55 | BUY | 0.000100 | `2J4f7M1Son17PdvA8ABZHXDUAGFoSd...` |
+| 2026-03-17 01:18:22 | BUY | 0.000100 | `5eDUx6gTYTHFSnAaUzFzcBSGoBMVnV...` |
 
-### 🟢 BBX
+### 🟢 forg
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.55x
-- **Mint:** `6CKK6YTjgdv2n7U4J78zF97AHASqSQiYvCcoBzyFpump`
+- **Peak:** 1.02x | **Current:** 1.01x
+- **Mint:** `G4QRtYNRPyxdKwcAqqW3xSeEynDDxEyRvrDT9FJEpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 17:01:27 | BUY | 0.000100 | `4KXqY9pkGUJUtiPcas1qEvG3CY2wt3...` |
+| 2026-03-17 01:15:27 | BUY | 0.000100 | `4Xfsy1QuoL4rXbmGU2JXqwsyKZrxrn...` |
 

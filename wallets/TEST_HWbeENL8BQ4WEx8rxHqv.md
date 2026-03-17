@@ -1,22 +1,22 @@
 # [TEST] Wallet: `HWbeENL8BQ4WEx8rxHqvVQsZtpAnLshhukPBoCJZnnXf`
-> Generated: 2026-03-17 01:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 2 |
-| Open | 1 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
+| Open | 0 |
+| Closed | 2 |
+| W/L | 1/1 |
+| SOL In (closed) | 0.000200 |
 | **Closed P&L** | **+0.000186 SOL** |
-| **Closed ROI** | **+186.0%** |
-| Open Deployed | 0.000100 SOL |
+| **Closed ROI** | **+93.0%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 CRINE
-- **Status:** open | **Exit:** open
-- **Peak:** 2.00x | **Current:** 0.61x
+### 🔴 CRINE
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 2.00x | **Current:** 0.39x
 - **Mint:** `BA3GAsvmy6o3PCA2bnZbCDSYW4S2gK5hfN6gahm9pump`
 
 | Time | Action | SOL | TX |
