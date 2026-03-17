@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:30 UTC** | 7d | 1667 buys, 2104 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:35 UTC** | 7d | 1673 buys, 2108 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:34 | 💰 SELL | Incel | 0.0001 | 9tv5mfwa... | TP1 | `3CmQmDcwaEwE...` |
+| 03-17 | 20:32 | 🟢 BUY | SIMSCAT | 0.0001 | bocsoUiM... | copy_buy | `5Co5NCgeX1aB...` |
+| 03-17 | 20:32 | 🟢 BUY | Ryugu | 0.0001 | FWQ3sv51... | copy_buy | `5pSpP3vqT1Sa...` |
+| 03-17 | 20:32 | 🟢 BUY | Incel | 0.0001 | 9tv5mfwa... | copy_buy | `2nnDZoh7bCF7...` |
+| 03-17 | 20:32 | 💰 SELL | Dilyn | 0.0001 | EaEf6TH8... | TP1 | `4gHsVPmWVmtX...` |
+| 03-17 | 20:32 | 🔴 SELL | RETARDMAXXING | 0.0000 | 9tv5mfwa... | SL | `399CxeY1cpLX...` |
+| 03-17 | 20:31 | 🟢 BUY | Degen | 0.0001 | GHy1P6vJ... | copy_buy | `MuwD3wDPm7Ja...` |
+| 03-17 | 20:30 | 🟢 BUY | Dilyn | 0.0001 | EaEf6TH8... | copy_buy | `5VmcKZGsNR3n...` |
+| 03-17 | 20:30 | 🟢 BUY | Reinvest | 0.0001 | bocsoUiM... | copy_buy | `3KZudnsLvfcp...` |
+| 03-17 | 20:30 | 💰 SELL | IMPJAK | 0.0001 | GHy1P6vJ... | TP1 | `4N1tfsf2dvL2...` |
 | 03-17 | 20:29 | 🟢 BUY | VAPO | 0.0001 | GHy1P6vJ... | copy_buy | `2vJ1Y7SxWFUe...` |
 | 03-17 | 20:26 | 🟢 BUY | Reinvest | 0.0001 | 9G4ytadk... | copy_buy | `3MMQxLiXkxqq...` |
 | 03-17 | 20:26 | 💰 SELL | GROKETTE | 0.0001 | EaEf6TH8... | TP1 | `2dAFg3j9oqEF...` |

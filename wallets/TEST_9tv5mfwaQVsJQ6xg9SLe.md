@@ -1,17 +1,18 @@
 # [TEST] `9tv5mfwaQVsJQ6xg...`
-> 2026-03-17 20:30 UTC | **10** pos | **2W/6L** | P&L: **-0.000194 SOL** (-24.2%) | 2 open
+> 2026-03-17 20:35 UTC | **11** pos | **2W/7L** | P&L: **-0.000256 SOL** (-28.4%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| RETARDMAXXING | 03-17 19:50 | 0.41x | 1.00x | 0.7h | 0.0001 |
-| JEETICIDE | 03-17 19:18 | 0.67x | 1.00x | 1.2h | 0.0001 |
+| Incel | 03-17 20:32 | 2.14x | 2.14x | 0.0h | 0.0001 |
+| JEETICIDE | 03-17 19:18 | 0.67x | 1.00x | 1.3h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ RETARDMAXXING | -0.0001 | 03-17 19:50 | 1.0x | 03-17 20:32 | 0.0000/0.0001 | SL |
 | ❌ Yunho | -0.0001 | 03-17 16:41 | 1.0x | 03-17 16:44 | 0.0000/0.0001 | gc_SL |
 | ✅ roni | +0.0002 | 03-17 01:13 | 7.5x | 03-17 01:41 | 0.0003/0.0001 | trail |
 | ❌ SHELLY | -0.0001 | 03-16 17:54 | 1.1x | 03-16 18:02 | 0.0000/0.0001 | gc_SL |
@@ -25,6 +26,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 20:34 | Incel | SELL | 0.0001 | `3CmQmDcwaEwEwwgg...` |
+| 03-17 20:32 | Incel | BUY | 0.0001 | `2nnDZoh7bCF7FYa6...` |
+| 03-17 20:32 | RETARDMAXXING | SELL | 0.0000 | `399CxeY1cpLXUAWQ...` |
 | 03-17 19:50 | RETARDMAXXING | BUY | 0.0001 | `4tt8gxyEAEKtR4Vh...` |
 | 03-17 19:18 | JEETICIDE | BUY | 0.0001 | `3qo9zgtZDxNauuMA...` |
 | 03-17 16:41 | Yunho | BUY | 0.0001 | `SRg4GttAAKh2W1Na...` |

@@ -1,16 +1,11 @@
 # [PRD] `HMM6RoT2Xo3BNfD5...`
-> 2026-03-17 20:30 UTC | **32** pos | **12W/19L** | P&L: **+1.682661 SOL** (+56.7%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Reinvest | 03-17 20:25 | 0.00x | 1.35x | 0.1h | 0.1500 |
+> 2026-03-17 20:35 UTC | **32** pos | **12W/20L** | P&L: **+1.583974 SOL** (+50.8%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Reinvest | -0.0987 | 03-17 20:25 | 1.4x | 03-17 20:30 | 0.0513/0.1500 | SL |
 | ❌ FAGS | -0.0913 | 03-17 02:08 | 1.2x | 03-17 02:45 | 0.0587/0.1500 | SL |
 | ❌ Fep | -0.0364 | 03-16 23:03 | 2.8x | 03-16 23:32 | 0.1136/0.1500 | trail |
 | ✅ TIM | +0.7502 | 03-16 21:58 | 6.3x | 03-17 00:41 | 0.9002/0.1500 | trail |
@@ -47,6 +42,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 20:30 | Reinvest | SELL | 0.0513 | `4gK2yhADrBu4521s...` |
 | 03-17 20:25 | Reinvest | BUY | 0.1500 | `4Z5Mafd5yChTjaYh...` |
 | 03-17 02:45 | FAGS | SELL | 0.0587 | `2oWKSjaUnPbyL6U4...` |
 | 03-17 02:08 | FAGS | BUY | 0.1500 | `4R5CB6QqDMNS6HX9...` |
@@ -60,8 +56,8 @@
 | 03-16 20:20 | NEMOTRON | SELL | 0.0960 | `5J4gH1vwS7ak2HyM...` |
 | 03-16 20:18 | NEMOTRON | SELL | 0.0425 | `2MJA6mN55akm3Cxw...` |
 | 03-16 20:17 | NEMOTRON | BUY | 0.1500 | `s2smHyja48oXo9X3...` |
-| 03-16 19:13 | BANANASIM | SELL | 0.0050 | `?` |
 | 03-16 19:13 | Replacement | SELL | 0.0050 | `?` |
+| 03-16 19:13 | BANANASIM | SELL | 0.0050 | `?` |
 | 03-16 05:13 | TIM | SELL | 0.2173 | `5k7fXY7vWQVQCQ3c...` |
 | 03-16 04:36 | TIM | SELL | 0.0994 | `jzUEm4KzoHqB6DMa...` |
 | 03-16 01:43 | TIM | BUY | 0.1500 | `XTfW7RdQfELwrzpi...` |
