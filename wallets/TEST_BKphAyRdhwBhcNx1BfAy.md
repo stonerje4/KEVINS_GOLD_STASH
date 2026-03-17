@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 06:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -182,7 +182,7 @@
 
 ### 🟢 XAIC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `BjiomDN9RNHYMApNeSF9TRq9qzCYmHSrH252wXuBpump`
 
 | Time | Action | SOL | TX |
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.21x | **Current:** 7.17x
+- **Peak:** 7.49x | **Current:** 5.95x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 1.93x
+- **Peak:** 3.16x | **Current:** 1.98x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1008,7 +1008,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.74x
+- **Peak:** 1.80x | **Current:** 0.75x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -2305,7 +2305,7 @@
 
 ### 🟢 0
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.65x
+- **Peak:** 1.09x | **Current:** 0.66x
 - **Mint:** `B5HtjQBnoEPGn7rJ8JSYF2K7NZv1AVAnBtKmRFn5DbXJ`
 
 | Time | Action | SOL | TX |

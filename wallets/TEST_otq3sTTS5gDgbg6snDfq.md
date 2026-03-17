@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 06:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PVEDOG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `8Eozo1Ksv6e85FCu5ibHf52gF5n88PebfmCrHrhnpump`
 
 | Time | Action | SOL | TX |

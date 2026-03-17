@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 06:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 zeroxoneb
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.25x | **Current:** 0.98x
+- **Peak:** 2.25x | **Current:** 0.95x
 - **Mint:** `8n4ZAfn1izwsXKfvc2KnAsPTfNokRiqCvKTwb4mSpump`
 
 | Time | Action | SOL | TX |
@@ -36,7 +36,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.32x | **Current:** 1.23x
+- **Peak:** 1.32x | **Current:** 1.24x
 - **Mint:** `D69bugFJG4y3kmJxiLPTMuqqK3e3PnJHQCcQvALgpump`
 
 | Time | Action | SOL | TX |
@@ -45,7 +45,7 @@
 
 ### 🟢 SHIKOKU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.65x
+- **Peak:** 1.05x | **Current:** 0.64x
 - **Mint:** `7TvfNnDxstnrfb5eF5pg4PcwXPMfiJLu9eysA7qJpump`
 
 | Time | Action | SOL | TX |
@@ -54,7 +54,7 @@
 
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.61x | **Current:** 1.25x
+- **Peak:** 1.61x | **Current:** 1.24x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |
@@ -140,7 +140,7 @@
 
 ### 🟢 sima
 - **Status:** open | **Exit:** open
-- **Peak:** 1.77x | **Current:** 0.64x
+- **Peak:** 1.77x | **Current:** 0.63x
 - **Mint:** `6fNrh1QFk23f9MmQJ8CgzETpVxARQtzgoNheRPV6pump`
 
 | Time | Action | SOL | TX |

@@ -1,18 +1,27 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-17 06:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 24 |
-| Open | 17 |
+| Total Positions | 25 |
+| Open | 18 |
 | Closed | 7 |
 | W/L | 5/2 |
 | SOL In (closed) | 0.004200 |
 | **Closed P&L** | **+0.001890 SOL** |
 | **Closed ROI** | **+45.0%** |
-| Open Deployed | 0.004700 SOL |
+| Open Deployed | 0.004800 SOL |
 
 ## Trades
+
+### 🟢 TOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.92x
+- **Mint:** `FdHH4Rw3whcSmAq6aqH8QW2aTfn57yPj3Nco5Vyrpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 06:08:59 | BUY | 0.000100 | `2ZLCwuDE2XR7wSaPDK7HieA5weYNRb...` |
 
 ### 🟢 WAR
 - **Status:** open | **Exit:** open
