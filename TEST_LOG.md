@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:25 UTC** | 7d | 1605 buys, 2067 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:30 UTC** | 7d | 1606 buys, 2069 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:28 | 💰 SELL | clawchain | 0.0001 | GHy1P6vJ... | TP2 | `4Mytn4JDRhrP...` |
+| 03-17 | 19:27 | 🟢 BUY | AGNTCBRO | 0.0001 | AiNfNi2e... | copy_buy | `4y7P3jpkssnq...` |
+| 03-17 | 19:26 | 💰 SELL | PHIL | 0.0001 | GvksYkES... | TP1 | `DxNAoxNZh79v...` |
 | 03-17 | 19:23 | 💰 SELL | QORM  | 0.0001 | FoHJUYTh... | TP1 | `7L9h2L6n9GqS...` |
 | 03-17 | 19:22 | 🔴 SELL | ÉIRE | 0.0001 | AiNfNi2e... | trail | `3D51XTstdKGd...` |
 | 03-17 | 19:21 | 💰 SELL | ERIC | 0.0001 | 35RArQiy... | trail | `2CgsRueMcEas...` |
