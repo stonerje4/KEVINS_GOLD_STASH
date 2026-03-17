@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:35 UTC** | 7d | 1452 buys, 1943 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:40 UTC** | 7d | 1456 buys, 1949 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:39 | 🟢 BUY | UGOR | 0.0001 | G1nVBXwC... | copy_buy | `4NzHFmLjsqoM...` |
+| 03-17 | 16:39 | 💰 SELL | FLOKI | 0.0001 | otq3sTTS... | TP1 | `jmsT4UhdNFGJ...` |
+| 03-17 | 16:38 | 💰 SELL | EGODEATH | 0.0001 | 6raSuhfi... | TP1 | `AQpgGSHSmy59...` |
+| 03-17 | 16:38 | 🟢 BUY | BELIEVERS | 0.0001 | EyeSFbqH... | copy_buy | `3QZXMe7LuFn8...` |
+| 03-17 | 16:36 | 🟢 BUY | UGOR | 0.0001 | 2AkmfaxF... | copy_buy | `4yAZWxRqTU3L...` |
+| 03-17 | 16:36 | 🔴 SELL | FLUCKI | 0.0000 | DDJ9YQNa... | SL | `jHSCcCgJn7wn...` |
+| 03-17 | 16:36 | 🔴 SELL | PHOUSE | 0.0000 | 6E4897rJ... | trail | `3m34z4yRAhmi...` |
+| 03-17 | 16:36 | 💰 SELL | Clover | 0.0001 | U3jiDzTc... | TP1 | `61KvaUcSQv8C...` |
+| 03-17 | 16:35 | 🟢 BUY | FLOKI | 0.0001 | otq3sTTS... | copy_buy | `5Aao3ohkd5A1...` |
+| 03-17 | 16:35 | 🔴 SELL | 2024 | 0.0001 | CZjxED3u... | trail | `3Ev1uUBTowEv...` |
 | 03-17 | 16:32 | 🔴 SELL | Freedom | 0.0000 | Gdd86j2T... | SL | `yu7ffU1xqwFy...` |
 | 03-17 | 16:31 | 🟢 BUY | LUCIDITY | 0.0001 | 8yuF1Tfg... | copy_buy | `2JVg3AcN7Hoc...` |
 | 03-17 | 16:31 | 🟢 BUY | Gilbert | 0.0001 | 9t6xjxxt... | copy_buy | `62k3PJPTnrSb...` |

@@ -1,17 +1,16 @@
-# [PRD] `4rsj2xh5MK5LFgoF...`
+# [TEST] `2AkmfaxF11TPaiRQ...`
 > 2026-03-17 16:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| 401k | 03-17 10:40 | 0.00x | 2.39x | 6.0h | 0.1500 |
+| UGOR | 03-17 16:36 | 1.45x | 1.46x | 0.1h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-17 14:12 | 401k | SELL | 0.0301 | `38DMkqwTHwyGUMms...` |
-| 03-17 10:40 | 401k | BUY | 0.1500 | `38rH8JuY6KTCfmMv...` |
+| 03-17 16:36 | UGOR | BUY | 0.0001 | `4yAZWxRqTU3L5vNj...` |
 
 </details>
