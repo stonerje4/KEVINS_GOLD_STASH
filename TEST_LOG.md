@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:15 UTC** | 7d | 1495 buys, 1983 sells | In: **0.48** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 17:20 UTC** | 7d | 1500 buys, 1985 sells | In: **0.48** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:19 | 💰 SELL | BROKE | 0.0001 | EaEf6TH8... | TP2 | `3x7UovyBzM9H...` |
+| 03-17 | 17:19 | 🟢 BUY | ALTO | 0.0001 | bocsoUiM... | copy_buy | `4dyRZVgHr5zr...` |
+| 03-17 | 17:19 | 💰 SELL | BROKE | 0.0001 | EaEf6TH8... | TP1 | `KYkodxZPRT4a...` |
+| 03-17 | 17:18 | 🟢 BUY | SAD | 0.0001 | bocsoUiM... | copy_buy | `naFX8GkjhCjS...` |
+| 03-17 | 17:16 | 🟢 BUY | LEPREALON | 0.0001 | AiNfNi2e... | copy_buy | `5dJnjdQJ8tL4...` |
+| 03-17 | 17:15 | 🟢 BUY | dvflsadk | 0.0001 | BpxZNCi8... | copy_buy | `3nqLcLuBu4LA...` |
+| 03-17 | 17:15 | 🟢 BUY | AGENTINK | 0.0001 | 42nQHDpy... | copy_buy | `5nk3CLWvzwcG...` |
 | 03-17 | 17:14 | 🔴 SELL | Solana | 0.0000 | FzMeg6P2... | trail | `4h6KV2gABqCr...` |
 | 03-17 | 17:14 | 🟢 BUY | NEMOTRON | 0.0001 | 87nWQxQv... | copy_buy | `rWHXi4rQgyeb...` |
 | 03-17 | 17:14 | 🟢 BUY | STOIC | 0.0001 | bocsoUiM... | copy_buy | `MMC1FTSqmBW7...` |

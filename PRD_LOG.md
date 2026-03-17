@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 17:15 UTC** | 7d | 713 buys, 949 sells | In: **86.08** | Out: **81.12** | Net: **-4.96 SOL**
+> Updated: **2026-03-17 17:20 UTC** | 7d | 715 buys, 949 sells | In: **86.38** | Out: **81.12** | Net: **-5.26 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:18 | 🟢 BUY | FTR | 0.1500 | r9pFHjFe... | copy | `223QcKp9JPD6...` |
+| 03-17 | 17:15 | 🟢 BUY | AGENTINK | 0.1500 | 42nQHDpy... | copy | `52CEguiRPHu6...` |
 | 03-17 | 17:14 | 🟢 BUY | Sandcat | 0.1500 | 6qTPHgnS... | copy | `3LVLPRJuLHQM...` |
 | 03-17 | 17:12 | 💰 SELL | SaintAlon | 0.1129 | 42nQHDpy... | TP2 | `3TcUorFfyYka...` |
 | 03-17 | 17:12 | 🟢 BUY | Clover | 0.1500 | BGGJhxGX... | copy | `28RA3q7bkwGT...` |
