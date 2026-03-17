@@ -1,5 +1,11 @@
 # [TEST] `87nWQxQvYvnijGKA...`
-> 2026-03-17 14:55 UTC | **6** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 0 open
+> 2026-03-17 15:00 UTC | **7** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| CORE | 03-17 14:58 | 0.95x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -16,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:58 | CORE | BUY | 0.0001 | `fmhbQemZDGjEMQTD...` |
 | 03-17 07:16 | UGOR | BUY | 0.0001 | `64z8MCEqyFw2F5zt...` |
 | 03-17 06:36 | BBX | BUY | 0.0001 | `5vSyAt3KVjezoxRC...` |
 | 03-17 06:35 | BBX | BUY | 0.0001 | `3BXxeNkzL398VgKA...` |

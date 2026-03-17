@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:55 UTC** | 7d | 1366 buys, 1889 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 15:00 UTC** | 7d | 1375 buys, 1890 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:00 | 🟢 BUY | Disney | 0.0001 | otq3sTTS... | copy_buy | `3zQF9xR94WCN...` |
+| 03-17 | 14:59 | 🟢 BUY | Guinness | 0.0001 | FoHJUYTh... | copy_buy | `3dx2jgZonKkk...` |
+| 03-17 | 14:58 | 🟢 BUY | CODED | 0.0001 | FoHJUYTh... | copy_buy | `2RUd6DfzxNKU...` |
+| 03-17 | 14:58 | 🟢 BUY | CORE | 0.0001 | 87nWQxQv... | copy_buy | `fmhbQemZDGjE...` |
+| 03-17 | 14:58 | 🟢 BUY | genny | 0.0001 | Gdd86j2T... | copy_buy | `3LNVEzVgSoT7...` |
+| 03-17 | 14:58 | 🟢 BUY | ASCIIV | 0.0001 | FoHJUYTh... | copy_buy | `47RivDxPeXNu...` |
+| 03-17 | 14:57 | 🟢 BUY | MATER | 0.0001 | FoHJUYTh... | copy_buy | `2vU7oB1XPqmh...` |
+| 03-17 | 14:57 | 🟢 BUY | GUINNES | 0.0001 | BBBByrLH... | copy_buy | `T8P8QRVTri9J...` |
+| 03-17 | 14:56 | 🟢 BUY | RealT | 0.0001 | BBBByrLH... | copy_buy | `xcF44DU4AuMp...` |
+| 03-17 | 14:56 | 💰 SELL | WEREFULL | 0.0000 | otq3sTTS... | TP3 | `4aVY1ffMp1j1...` |
 | 03-17 | 14:54 | 🟢 BUY | ZILLA | 0.0001 | FoHJUYTh... | copy_buy | `35BMThdYpy5o...` |
 | 03-17 | 14:54 | 🔴 SELL | lovebird | 0.0001 | FoHJUYTh... | trail | `4Y5yLkebphTg...` |
 | 03-17 | 14:53 | 💰 SELL | 🦎 | 0.0000 | EaEf6TH8... | TP1 | `2J2sK2xH12ai...` |
