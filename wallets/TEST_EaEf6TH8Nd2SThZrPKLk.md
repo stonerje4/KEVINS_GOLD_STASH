@@ -1,22 +1,22 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 07:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 123 |
-| Open | 35 |
-| Closed | 88 |
-| W/L | 87/1 |
-| SOL In (closed) | 0.036800 |
-| **Closed P&L** | **+0.030708 SOL** |
-| **Closed ROI** | **+83.4%** |
-| Open Deployed | 0.005000 SOL |
+| Open | 34 |
+| Closed | 89 |
+| W/L | 88/1 |
+| SOL In (closed) | 0.036900 |
+| **Closed P&L** | **+0.030745 SOL** |
+| **Closed ROI** | **+83.3%** |
+| Open Deployed | 0.004900 SOL |
 
 ## Trades
 
 ### 🟢 FP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 1.16x
+- **Peak:** 1.72x | **Current:** 1.72x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
 | Time | Action | SOL | TX |
@@ -25,25 +25,26 @@
 
 ### 🟢 TIKI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.47x
 - **Mint:** `23CNu7k565sWWzQQ8DdwapuFuCbPCxGYpucLjt1opump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:17:56 | BUY | 0.000100 | `22CLsaZXkmL5Nm8gKtqNzSUCZ7zTi9...` |
 
-### 🟢 NOSTALGIA
-- **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 0.45x
+### 🔴 NOSTALGIA
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.30x | **Current:** 0.37x
 - **Mint:** `CfqiWhLSPQJJGYnJHifiAG99j9iAB2cr6JP2tUkspump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:12:49 | BUY | 0.000100 | `AV1uc87kndpHy9EtZVW21UncuTwuiZ...` |
+| 2026-03-17 07:22:04 | SELL | 0.000037 | `4gC6XdKFT2mrDy8hDFt3rLx5sf99HN...` |
 
 ### 🟢 ARTEMIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.00x
+- **Peak:** 1.12x | **Current:** 1.01x
 - **Mint:** `5Yy9zyQpZLeyVUJ2f49XQpKGgGabEtx8PZHueDtHpump`
 
 | Time | Action | SOL | TX |
@@ -71,7 +72,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.02x | **Current:** 1.68x
+- **Peak:** 2.02x | **Current:** 1.52x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |

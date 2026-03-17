@@ -1,18 +1,27 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-17 07:20 UTC | Environment: **PRD**
+> Generated: 2026-03-17 07:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 16 |
-| Open | 3 |
+| Total Positions | 17 |
+| Open | 4 |
 | Closed | 13 |
 | W/L | 2/11 |
 | SOL In (closed) | 1.950000 |
 | **Closed P&L** | **-0.194660 SOL** |
 | **Closed ROI** | **-10.0%** |
-| Open Deployed | 0.450000 SOL |
+| Open Deployed | 0.600000 SOL |
 
 ## Trades
+
+### 🟢 MATER
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `EXnczaT51NvfGQUdYmZ6Fm4zRW9Ttyrk9YrCLLGkpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 07:23:30 | BUY | 0.150000 | `4sYUXkTAsmy7cVt3226KFGvDLCaw6e...` |
 
 ### 🟢 Venezuela 
 - **Status:** open | **Exit:** open

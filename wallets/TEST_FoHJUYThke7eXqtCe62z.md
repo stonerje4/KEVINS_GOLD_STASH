@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 07:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -326,7 +326,7 @@
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `DwkjZoNj6PmJ31PNky4GeMUH6je3rCC1BdgpyCSbpump`
 
 | Time | Action | SOL | TX |
@@ -507,7 +507,7 @@
 
 ### 🟢 chibo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 0.79x
+- **Peak:** 1.10x | **Current:** 0.88x
 - **Mint:** `HMAxR8iZxJz6mfJ3YUb6GiMSPzJSWQ5mSd7JBP2Mpump`
 
 | Time | Action | SOL | TX |
@@ -516,7 +516,7 @@
 
 ### 🟢 TD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `HvtsgZrABY8uvcMCKg6Kd9y2RXr8pandJHRNBQYBpump`
 
 | Time | Action | SOL | TX |
@@ -600,7 +600,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.79x
+- **Peak:** 1.09x | **Current:** 0.80x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |
