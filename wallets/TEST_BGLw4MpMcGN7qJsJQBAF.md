@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BGLw4MpMcGN7qJsJQBAFzfBudXgaUtnczFCxrrpCHq8P`
-> Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 UNSW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.67x | **Current:** 0.95x
+- **Peak:** 1.67x | **Current:** 0.91x
 - **Mint:** `Fpckub6J1WMSJctyJJgsXVJcQbUXa4HsJbrF783Epump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 MiroFish
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 0.93x
+- **Peak:** 1.34x | **Current:** 0.88x
 - **Mint:** `9vbovDf4rgasuPUw7CZDW8ekoJpo3R4SrohQK8aQpump`
 
 | Time | Action | SOL | TX |

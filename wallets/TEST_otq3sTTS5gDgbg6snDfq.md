@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 goldfish
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.93x
+- **Peak:** 1.04x | **Current:** 0.92x
 - **Mint:** `8f8u3MCAZU3cLoKWyqJkaEKRHC2XmhoQDSBpBMynpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 THINK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `5pz6emi8oTVE5faWxYMW6hhK8sg4Zcmskrs1XRYDpump`
 
 | Time | Action | SOL | TX |
@@ -306,7 +306,7 @@
 
 ### 🟢 BMAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.87x
 - **Mint:** `GP2pt4vWsY9KJrFzZaFX1kcATqqthtq7i6bgRGN7pump`
 
 | Time | Action | SOL | TX |
@@ -315,7 +315,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |

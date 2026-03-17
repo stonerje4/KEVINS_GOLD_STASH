@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 POLYHUNT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 1.23x
+- **Peak:** 1.28x | **Current:** 1.10x
 - **Mint:** `3DcFuBtMgMJftX6djdQn4A6bG3hAPPbFMNr5zPs4pump`
 
 | Time | Action | SOL | TX |
@@ -43,13 +43,14 @@
 
 ### 🟢 2024
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.96x | **Current:** 2.72x
+- **Peak:** 3.13x | **Current:** 2.95x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:30:07 | BUY | 0.000100 | `3CdoEL2Yquh486WkFMDiKioiL7DsH2...` |
 | 2026-03-16 23:18:34 | SELL | 0.000029 | `3gLcEsMeaN5msY7RCScXa7ezxJmqyV...` |
+| 2026-03-17 01:05:46 | SELL | 0.000028 | `3XHE5rHaei8wyZrJdScbhr2zX84B1K...` |
 
 ### 🔴 TRADES
 - **Status:** closed | **Exit:** stop_loss

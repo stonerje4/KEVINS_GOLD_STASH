@@ -1,5 +1,5 @@
 # [TEST] Wallet: `9C4EErkY5HVBtzESNkoo3kuYdxZ3jzkJyGQbPwvYAc4J`
-> Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Sanmao
 - **Status:** open | **Exit:** open
-- **Peak:** 1.46x | **Current:** 0.65x
+- **Peak:** 1.46x | **Current:** 0.73x
 - **Mint:** `FPAm3wb36fyWrDwG2b6hQZu2ja4JeBK99PgeBPDjpump`
 
 | Time | Action | SOL | TX |

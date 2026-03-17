@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 01:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -70,7 +70,7 @@
 
 ### 🟢 FTF
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.89x
+- **Peak:** 1.19x | **Current:** 0.85x
 - **Mint:** `EsVzGCA14tofF9EF3NhaZ3UUfZ7BqD6siDdq4YaDpump`
 
 | Time | Action | SOL | TX |
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.38x | **Current:** 3.38x
+- **Peak:** 3.44x | **Current:** 3.35x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -404,7 +404,7 @@
 
 ### 🟢 Frog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.81x
+- **Peak:** 1.02x | **Current:** 0.80x
 - **Mint:** `5trtgVhr3DkNkYmKoKPirFJVQkCZkFnVxmJJWfbipump`
 
 | Time | Action | SOL | TX |
@@ -540,7 +540,7 @@
 
 ### 🟢 Derp
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `CrnRhFCLj2oaFLvMCKJJH7PFfiRmuVBr8wrBKLNQpump`
 
 | Time | Action | SOL | TX |
@@ -1504,7 +1504,7 @@
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.69x | **Current:** 1.19x
+- **Peak:** 1.69x | **Current:** 1.17x
 - **Mint:** `4ZR9k13y7bbvosLhKoTESRRKREnpTpQGtXtvTiQWpump`
 
 | Time | Action | SOL | TX |
@@ -2055,7 +2055,7 @@
 
 ### 🟢 DRONE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.75x | **Current:** 2.60x
+- **Peak:** 2.95x | **Current:** 2.83x
 - **Mint:** `GBmawmE9jJvyYVbdgTdYi9NXsjWwR5EaytvkrRwcpump`
 
 | Time | Action | SOL | TX |
@@ -2240,7 +2240,7 @@
 
 ### 🟢 AOR
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.47x | **Current:** 3.39x
+- **Peak:** 3.47x | **Current:** 3.44x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
