@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:45 UTC** | 7d | 1362 buys, 1881 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:50 UTC** | 7d | 1364 buys, 1883 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:49 | 💰 SELL | PVE | 0.0000 | BBBByrLH... | TP1 | `3vm5HPnnzH1U...` |
+| 03-17 | 14:49 | 🔴 SELL | kit | 0.0000 | APUYxGfK... | SL | `4ocF3e7ToXCy...` |
+| 03-17 | 14:45 | 🟢 BUY | PVE | 0.0001 | BBBByrLH... | copy_buy | `25rD7PJKxqh9...` |
+| 03-17 | 14:45 | 🟢 BUY | Seized | 0.0001 | 6uippNoB... | copy_buy | `5Pro76Bbnd7Z...` |
 | 03-17 | 14:44 | 💰 SELL | Rosei | 0.0000 | AJ8Gc1cY... | TP1 | `5GEepR4qhAhH...` |
 | 03-17 | 14:44 | 🟢 BUY | Terafab | 0.0001 | otq3sTTS... | copy_buy | `N3gyUwWS74nz...` |
 | 03-17 | 14:44 | 🟢 BUY | 🦎 | 0.0001 | EaEf6TH8... | copy_buy | `3Mrd8ygdRYoj...` |
