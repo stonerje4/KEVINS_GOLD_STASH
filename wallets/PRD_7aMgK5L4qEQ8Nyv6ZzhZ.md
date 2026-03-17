@@ -1,5 +1,11 @@
 # [PRD] `7aMgK5L4qEQ8Nyv6...`
-> 2026-03-17 14:35 UTC | **22** pos | **5W/17L** | P&L: **+0.842845 SOL** (+47.1%) | 0 open
+> 2026-03-17 14:40 UTC | **23** pos | **5W/17L** | P&L: **+0.842845 SOL** (+47.1%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Ruby | 03-17 14:38 | 0.00x | 1.00x | 0.0h | 0.1500 |
 
 ## Closed
 
@@ -32,6 +38,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:38 | Ruby | BUY | 0.1500 | `4cvLZLAfh8inbnAG...` |
 | 03-16 10:11 | 🫧 | SELL | 0.0988 | `4PXQgojVcPfYe9M6...` |
 | 03-16 10:10 | 🫧 | BUY | 0.1500 | `5Hx6fbJMoXgwDj43...` |
 | 03-15 20:46 | Barista | SELL | 0.1041 | `BSrZkNpSQBaMXLrd...` |

@@ -1,16 +1,17 @@
 # [TEST] `APUYxGfKmJL7dJbv...`
-> 2026-03-17 14:35 UTC | **47** pos | **6W/40L** | P&L: **-0.004512 SOL** (-28.9%) | 1 open
+> 2026-03-17 14:40 UTC | **48** pos | **6W/41L** | P&L: **-0.004574 SOL** (-29.1%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| kit | 03-17 14:21 | 0.79x | 1.35x | 0.2h | 0.0001 |
+| kit | 03-17 14:21 | 0.77x | 1.35x | 0.3h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Claude | -0.0001 | 03-17 14:35 | 1.0x | 03-17 14:39 | 0.0000/0.0001 | SL |
 | ❌ JM | -0.0001 | 03-17 14:19 | 1.0x | 03-17 14:20 | 0.0000/0.0001 | SL |
 | ❌ SPOT | -0.0001 | 03-17 14:00 | 2.2x | 03-17 14:06 | 0.0000/0.0001 | gc_tp_2x_half |
 | ❌ LAST | -0.0001 | 03-17 05:42 | 1.0x | 03-17 05:46 | 0.0000/0.0001 | SL |
@@ -62,6 +63,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:39 | Claude | SELL | 0.0000 | `xZKBrnBSMRVyqwSb...` |
+| 03-17 14:35 | Claude | BUY | 0.0001 | `3LP2avy3fRyUnV6S...` |
 | 03-17 14:21 | kit | BUY | 0.0001 | `4JEra5CnRDBLWmFa...` |
 | 03-17 14:20 | JM | SELL | 0.0000 | `4EcARFwRKwogHgPT...` |
 | 03-17 14:19 | JM | BUY | 0.0001 | `47qFHEhG9y5jwTLG...` |
@@ -87,10 +90,10 @@
 | 03-17 01:36 | GEEKED | SELL | 0.0000 | `4wyh9XVidqzBXUqL...` |
 | 03-17 01:35 | GEEKED | BUY | 0.0001 | `pYYZvoNrXcm61Qtz...` |
 | 03-17 01:34 | ORC | BUY | 0.0001 | `5T8gGkz1t3ia3k4b...` |
-| 03-16 19:13 | Bowhead | SELL | 0.0001 | `?` |
 | 03-16 19:13 | SHARK | SELL | 0.0003 | `?` |
-| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Nebresearch | SELL | 0.0003 | `?` |
+| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
+| 03-16 19:13 | Bowhead | SELL | 0.0001 | `?` |
 | 03-16 16:49 | clod | SELL | 0.0001 | `5VtVzAtN7e5wWbGg...` |
 | 03-16 16:49 | DICK | SELL | 0.0001 | `2uUmZf3QgrA6darB...` |
 | 03-16 16:48 | CAT | SELL | 0.0000 | `4H6NKYZcEKHRNGgG...` |
