@@ -1,11 +1,11 @@
 # [TEST] `BGGJhxGXeTmzGXDM...`
-> 2026-03-17 16:05 UTC | **24** pos | **2W/21L** | P&L: **-0.004554 SOL** (-29.0%) | 1 open
+> 2026-03-17 16:10 UTC | **24** pos | **2W/21L** | P&L: **-0.004554 SOL** (-29.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| UGOR | 03-17 15:58 | 1.12x | 1.16x | 0.1h | 0.0001 |
+| UGOR | 03-17 15:58 | 1.13x | 1.16x | 0.2h | 0.0001 |
 
 ## Closed
 
@@ -53,8 +53,8 @@
 | 03-17 01:13 | UGOR | BUY | 0.0001 | `3hkUsXUasN3B6sSW...` |
 | 03-17 01:08 | TCAT | SELL | 0.0005 | `3ffoG5eWVuVWyroo...` |
 | 03-16 23:18 | BBX | SELL | 0.0000 | `2UvNrJKTcZBQA4RJ...` |
-| 03-16 18:55 | WRT | SELL | 0.0089 | `?` |
 | 03-16 18:55 | UGOR | SELL | 0.0007 | `?` |
+| 03-16 18:55 | WRT | SELL | 0.0089 | `?` |
 | 03-16 18:07 | TCAT | SELL | 0.0001 | `jpNMZ7Y5sxo8p4gq...` |
 | 03-16 17:24 | BBX | BUY | 0.0001 | `LbuToyXBgNe6k5tp...` |
 | 03-16 17:17 | $BBX | BUY | 0.0001 | `tmjqmgYo9V7eUCy8...` |

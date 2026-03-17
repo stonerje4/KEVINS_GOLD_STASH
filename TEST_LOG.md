@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:05 UTC** | 7d | 1423 buys, 1929 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:10 UTC** | 7d | 1427 buys, 1931 sells | In: **0.48** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:09 | 💰 SELL | genny | 0.0000 | Gdd86j2T... | TP1 | `4cjkTSQ3XWWk...` |
+| 03-17 | 16:07 | 🟢 BUY | OIL | 0.0001 | G1nVBXwC... | copy_buy | `Y1gGSM8WGXbG...` |
+| 03-17 | 16:07 | 🟢 BUY | Megan | 0.0001 | AJ8Gc1cY... | copy_buy | `5it2W2gxaT49...` |
+| 03-17 | 16:06 | 🟢 BUY | USEFUL | 0.0001 | FWQ3sv51... | copy_buy | `4fVDbPfTNAAu...` |
+| 03-17 | 16:05 | 🟢 BUY | BARREL100 | 0.0001 | GGbGeDC9... | copy_buy | `56ffbvmvw9pB...` |
+| 03-17 | 16:05 | 🔴 SELL | GREEN | 0.0000 | EaEf6TH8... | SL | `5XvZf2oHwsYL...` |
 | 03-17 | 16:04 | 🟢 BUY | BARREL100 | 0.0001 | 2947n9KQ... | copy_buy | `3D5Mo7u3dJhj...` |
 | 03-17 | 16:03 | 🟢 BUY | HARVEST | 0.0001 | MiLLsXjP... | copy_buy | `56nJ1nvDJcxF...` |
 | 03-17 | 16:02 | 🟢 BUY | tomorrow | 0.0001 | 45J68KxL... | copy_buy | `3K4yuaPbQ5Nk...` |

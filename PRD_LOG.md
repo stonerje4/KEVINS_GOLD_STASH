@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 16:05 UTC** | 7d | 694 buys, 945 sells | In: **82.93** | Out: **80.31** | Net: **-2.62 SOL**
+> Updated: **2026-03-17 16:10 UTC** | 7d | 697 buys, 946 sells | In: **83.38** | Out: **80.45** | Net: **-2.93 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:07 | 🟢 BUY | OIL | 0.1500 | BGGJhxGX... | copy | `2NgNAw9rULnW...` |
+| 03-17 | 16:06 | 🔴 SELL | BBX | 0.1420 | r9pFHjFe... | stale | `4ahbmDd4dEu8...` |
+| 03-17 | 16:06 | 🟢 BUY | BARREL100 | 0.1500 | BGGJhxGX... | copy | `3bhRwzc4WBXu...` |
+| 03-17 | 16:05 | 🟢 BUY | BARREL100 | 0.1500 | BGGJhxGX... | copy | `3jYfgnvbWvFg...` |
 | 03-17 | 16:04 | 🔴 SELL | PATRIOT | 0.0588 | 42nQHDpy... | SL | `57idzejhdAEx...` |
 | 03-17 | 15:58 | 🟢 BUY | UGOR | 0.1500 | BGGJhxGX... | copy | `4RuwkWXNH86B...` |
 | 03-17 | 15:57 | 🔴 SELL | HEISEI | 0.0345 | 6qTPHgnS... | SL | `2DYifkC9dLG2...` |

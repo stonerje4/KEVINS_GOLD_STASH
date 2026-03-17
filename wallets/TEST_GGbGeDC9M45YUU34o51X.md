@@ -1,5 +1,11 @@
 # [TEST] `GGbGeDC9M45YUU34...`
-> 2026-03-17 16:05 UTC | **4** pos | **0W/4L** | P&L: **-0.000272 SOL** (-68.0%) | 0 open
+> 2026-03-17 16:10 UTC | **5** pos | **0W/4L** | P&L: **-0.000272 SOL** (-68.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BARREL100 | 03-17 16:05 | 1.07x | 1.22x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -14,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:05 | BARREL100 | BUY | 0.0001 | `56ffbvmvw9pB7nPq...` |
 | 03-17 15:35 | Scamcoin | SELL | 0.0000 | `2dGrb1U7KydDhmpR...` |
 | 03-17 14:23 | Scamcoin | BUY | 0.0001 | `4NFqtZwpQqUJJCLF...` |
 | 03-17 10:01 | UGOR | BUY | 0.0001 | `BqMq7eLqpJMHvU5W...` |
