@@ -1,37 +1,38 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 10:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 127 |
-| Open | 37 |
-| Closed | 90 |
-| W/L | 89/1 |
-| SOL In (closed) | 0.037000 |
-| **Closed P&L** | **+0.030910 SOL** |
+| Open | 36 |
+| Closed | 91 |
+| W/L | 90/1 |
+| SOL In (closed) | 0.037100 |
+| **Closed P&L** | **+0.030994 SOL** |
 | **Closed ROI** | **+83.5%** |
-| Open Deployed | 0.005000 SOL |
+| Open Deployed | 0.004900 SOL |
 
 ## Trades
 
 ### 🟢 Claude
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.41x
+- **Peak:** 1.59x | **Current:** 1.56x
 - **Mint:** `4j6UgozmsSHe1kD5n3u4Y4YBGiRj6zCiPZsnmUz7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 10:21:51 | BUY | 0.000100 | `fPCqBCqHUYpCtYeCNGXzgJP4AnMwNf...` |
 
-### 🟢 GITT
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.55x | **Current:** 1.49x
+### 🔴 GITT
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.55x | **Current:** 0.65x
 - **Mint:** `EvhwAyk29n3fRUAq2gDGtxGwg2BpciG5APqpA76ipump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 10:09:11 | BUY | 0.000100 | `2BWARc91cVq8KcynGhHJKiGBZ6Prwv...` |
 | 2026-03-17 10:20:14 | SELL | 0.000026 | `54SAkXg6RqY63ywdeaWExgD2o3eHQG...` |
+| 2026-03-17 10:38:11 | SELL | 0.000058 | `4mubViRQJatSkktpNHgnRfEN4GMmqk...` |
 
 ### ⚪ CHINGCHONG
 - **Status:** confirming | **Exit:** open
@@ -170,7 +171,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 1.15x
+- **Peak:** 2.02x | **Current:** 0.98x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -1041,7 +1042,7 @@
 
 ### 🟢 XAICASH
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.16x | **Current:** 1.29x
+- **Peak:** 2.16x | **Current:** 1.26x
 - **Mint:** `GYh6WVFwTvqZb7m72NUGGAddai4MT46kBN8KFhHzpump`
 
 | Time | Action | SOL | TX |
