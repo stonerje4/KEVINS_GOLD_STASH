@@ -1,5 +1,5 @@
 # [TEST] Wallet: `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz`
-> Generated: 2026-03-17 05:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 WALL-E
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 1.31x
+- **Peak:** 1.51x | **Current:** 1.10x
 - **Mint:** `6jjHNJviWoea6uWCbatGis7TNaWXiHrfmXuKFKJ3pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 TITAN
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.73x | **Current:** 1.13x
+- **Peak:** 2.73x | **Current:** 1.06x
 - **Mint:** `4ay158ynQu4RfKe4oEjQFd3om2Fvyguz1UnQMm3rpump`
 
 | Time | Action | SOL | TX |

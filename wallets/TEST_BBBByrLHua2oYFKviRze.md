@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 05:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 LAST
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.81x | **Current:** 3.81x
+- **Peak:** 10.52x | **Current:** 10.08x
 - **Mint:** `31dUxgjRymZ3zdiPywVhV4e6k56LkSiufr1XhWQ8pump`
 
 | Time | Action | SOL | TX |
@@ -24,6 +24,9 @@
 | 2026-03-17 05:36:24 | BUY | 0.000100 | `3QfampL5XAGNFJM2bYoSh7jjkWstv6...` |
 | 2026-03-17 05:38:56 | SELL | 0.000021 | `3FbHnoBAx9xe5R8DbQid3SgaQAs3Sm...` |
 | 2026-03-17 05:39:37 | SELL | 0.000034 | `3GyXJMRsFAt6BC2NY4kC7Qr3uqhLNa...` |
+| 2026-03-17 05:40:18 | SELL | 0.000049 | `8GXBfZfZT3SFhVugJPfNH1T9sHr4aK...` |
+| 2026-03-17 05:41:45 | SELL | 0.000066 | `4pbu4ajV8Wa5Z6sAThnPy96VCoYb76...` |
+| 2026-03-17 05:42:27 | SELL | 0.000069 | `27YpN2xDe1qvMoYCjfQqVob1bDyMkh...` |
 
 ### 🟢 PERCO
 - **Status:** open | **Exit:** open
