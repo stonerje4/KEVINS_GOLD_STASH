@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 14:50 UTC** | 7d | 688 buys, 934 sells | In: **81.43** | Out: **79.61** | Net: **-1.82 SOL**
+> Updated: **2026-03-17 14:55 UTC** | 7d | 688 buys, 935 sells | In: **81.43** | Out: **79.64** | Net: **-1.79 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:53 | 💰 SELL | Dozer | 0.0308 | AcWGZE1Q... | TP1 | `4m99wKHZmfHB...` |
 | 03-17 | 14:49 | 🟢 BUY | TOKEN | 0.1500 | 2w85VLX4... | copy | `mPNYGboynZJs...` |
 | 03-17 | 14:44 | 💰 SELL | BBX | 0.0451 | 5vweNikg... | TP2 | `2LsWQfB2Fx2q...` |
 | 03-17 | 14:41 | 💰 SELL | DLSSELON | 0.0783 | 42nQHDpy... | TP3 | `2EKfCTGakfAW...` |

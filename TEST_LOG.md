@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:50 UTC** | 7d | 1364 buys, 1883 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:55 UTC** | 7d | 1366 buys, 1889 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:54 | 🟢 BUY | ZILLA | 0.0001 | FoHJUYTh... | copy_buy | `35BMThdYpy5o...` |
+| 03-17 | 14:54 | 🔴 SELL | lovebird | 0.0001 | FoHJUYTh... | trail | `4Y5yLkebphTg...` |
+| 03-17 | 14:53 | 💰 SELL | 🦎 | 0.0000 | EaEf6TH8... | TP1 | `2J2sK2xH12ai...` |
+| 03-17 | 14:53 | 🔴 SELL | Alameda | 0.0000 | EaEf6TH8... | SL | `UhpeyPMrqYAP...` |
+| 03-17 | 14:53 | 💰 SELL | Rosei | 0.0000 | AJ8Gc1cY... | TP2 | `DEq6GqyMZ4ah...` |
+| 03-17 | 14:51 | 💰 SELL | CLAW3D | 0.0002 | E79aNzAk... | trail | `5XMG2hmFfFmT...` |
+| 03-17 | 14:51 | 💰 SELL | PVE | 0.0000 | BBBByrLH... | TP2 | `3S4qkDthFBSE...` |
+| 03-17 | 14:50 | 🟢 BUY | DEX | 0.0001 | GEHrGJ3B... | copy_buy | `hMbi8BNiPRSr...` |
 | 03-17 | 14:49 | 💰 SELL | PVE | 0.0000 | BBBByrLH... | TP1 | `3vm5HPnnzH1U...` |
 | 03-17 | 14:49 | 🔴 SELL | kit | 0.0000 | APUYxGfK... | SL | `4ocF3e7ToXCy...` |
 | 03-17 | 14:45 | 🟢 BUY | PVE | 0.0001 | BBBByrLH... | copy_buy | `25rD7PJKxqh9...` |
