@@ -1,15 +1,15 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
 | Open | 5 |
 | Closed | 2 |
-| W/L | 2/0 |
+| W/L | 0/2 |
 | SOL In (closed) | 0.000200 |
-| **Closed P&L** | **+0.000077 SOL** |
-| **Closed ROI** | **+38.4%** |
+| **Closed P&L** | **-0.000123 SOL** |
+| **Closed ROI** | **-61.6%** |
 | Open Deployed | 0.000500 SOL |
 
 ## Trades
@@ -25,7 +25,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.91x
+- **Peak:** 1.03x | **Current:** 0.90x
 - **Mint:** `FBcmXXWRscafFoJafLyR3yD6npYrLCbTR8Gtpohcpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 21.91x | **Current:** 20.89x
+- **Peak:** 21.91x | **Current:** 19.33x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |

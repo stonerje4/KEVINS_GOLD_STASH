@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -8,15 +8,15 @@
 | Closed | 1 |
 | W/L | 0/1 |
 | SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
+| **Closed P&L** | **-0.000100 SOL** |
+| **Closed ROI** | **-100.0%** |
 | Open Deployed | 0.000100 SOL |
 
 ## Trades
 
 ### 🟢 pvpdog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.70x | **Current:** 0.46x
+- **Peak:** 1.70x | **Current:** 0.45x
 - **Mint:** `9UT2T4XPYAtiUuSBdgkHTBbCTcfUtDVUSdSkTev1pump`
 
 | Time | Action | SOL | TX |

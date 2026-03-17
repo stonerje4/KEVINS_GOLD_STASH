@@ -1,22 +1,22 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 19 |
 | Open | 9 |
 | Closed | 10 |
-| W/L | 9/1 |
+| W/L | 2/8 |
 | SOL In (closed) | 0.005500 |
-| **Closed P&L** | **+0.004818 SOL** |
-| **Closed ROI** | **+87.6%** |
+| **Closed P&L** | **-0.000613 SOL** |
+| **Closed ROI** | **-11.1%** |
 | Open Deployed | 0.004400 SOL |
 
 ## Trades
 
 ### 🟢 MOMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.28x
+- **Peak:** 1.33x | **Current:** 1.33x
 - **Mint:** `9JbxQSKNukRA7cPZxCfhSNEcAP9iKRo3PSyYNbW4pump`
 
 | Time | Action | SOL | TX |
@@ -120,7 +120,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 1.03x
+- **Peak:** 1.73x | **Current:** 0.98x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |

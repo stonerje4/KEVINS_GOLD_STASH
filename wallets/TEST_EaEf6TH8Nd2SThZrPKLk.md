@@ -1,22 +1,22 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 127 |
 | Open | 35 |
 | Closed | 92 |
-| W/L | 91/1 |
+| W/L | 18/74 |
 | SOL In (closed) | 0.037200 |
-| **Closed P&L** | **+0.031028 SOL** |
-| **Closed ROI** | **+83.4%** |
+| **Closed P&L** | **-0.006112 SOL** |
+| **Closed ROI** | **-16.4%** |
 | Open Deployed | 0.004800 SOL |
 
 ## Trades
 
 ### 🟢 Claude
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 0.72x
+- **Peak:** 1.59x | **Current:** 0.66x
 - **Mint:** `4j6UgozmsSHe1kD5n3u4Y4YBGiRj6zCiPZsnmUz7pump`
 
 | Time | Action | SOL | TX |
@@ -171,7 +171,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 1.00x
+- **Peak:** 2.02x | **Current:** 1.05x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |

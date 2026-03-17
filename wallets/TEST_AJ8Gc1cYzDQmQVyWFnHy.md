@@ -1,15 +1,15 @@
 # [TEST] Wallet: `AJ8Gc1cYzDQmQVyWFnHyJAKV5QK5ysz5ML9NuK3xvJRt`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
 | Open | 5 |
 | Closed | 1 |
-| W/L | 1/0 |
+| W/L | 0/1 |
 | SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000039 SOL** |
-| **Closed ROI** | **+39.3%** |
+| **Closed P&L** | **-0.000061 SOL** |
+| **Closed ROI** | **-60.7%** |
 | Open Deployed | 0.000400 SOL |
 
 ## Trades
@@ -53,7 +53,7 @@
 
 ### 🟢 Clove
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.61x
+- **Peak:** 1.03x | **Current:** 0.60x
 - **Mint:** `EAXGeuMf8xxkNQzqpLE4PRuzmyXNKSDTPKMQvzoDpump`
 
 | Time | Action | SOL | TX |

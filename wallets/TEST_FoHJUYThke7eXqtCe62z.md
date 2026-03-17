@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -8,8 +8,8 @@
 | Closed | 29 |
 | W/L | 13/16 |
 | SOL In (closed) | 0.024300 |
-| **Closed P&L** | **+0.009065 SOL** |
-| **Closed ROI** | **+37.3%** |
+| **Closed P&L** | **+0.000180 SOL** |
+| **Closed ROI** | **+0.7%** |
 | Open Deployed | 0.017800 SOL |
 
 ## Trades

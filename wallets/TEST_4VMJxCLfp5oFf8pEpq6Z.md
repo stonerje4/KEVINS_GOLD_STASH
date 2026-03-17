@@ -1,15 +1,15 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 24 |
 | Open | 9 |
 | Closed | 15 |
-| W/L | 14/1 |
+| W/L | 2/13 |
 | SOL In (closed) | 0.009000 |
-| **Closed P&L** | **+0.006307 SOL** |
-| **Closed ROI** | **+70.1%** |
+| **Closed P&L** | **-0.002169 SOL** |
+| **Closed ROI** | **-24.1%** |
 | Open Deployed | 0.003900 SOL |
 
 ## Trades
@@ -43,7 +43,7 @@
 
 ### 🟢 Skull
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.36x
+- **Peak:** 1.86x | **Current:** 1.38x
 - **Mint:** `JA5zpFxTvyiXXhynuShUEtUZJ33AYS7NjSHnbUKApump`
 
 | Time | Action | SOL | TX |

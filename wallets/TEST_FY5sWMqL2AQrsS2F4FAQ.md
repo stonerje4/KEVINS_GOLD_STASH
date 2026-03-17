@@ -1,15 +1,15 @@
 # [TEST] Wallet: `FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 1 |
 | Open | 0 |
 | Closed | 1 |
-| W/L | 1/0 |
+| W/L | 0/1 |
 | SOL In (closed) | 0.000600 |
-| **Closed P&L** | **+0.000370 SOL** |
-| **Closed ROI** | **+61.7%** |
+| **Closed P&L** | **-0.000230 SOL** |
+| **Closed ROI** | **-38.3%** |
 | Open Deployed | 0.000000 SOL |
 
 ## Trades

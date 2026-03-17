@@ -1,5 +1,5 @@
 # [TEST] Wallet: `DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -8,8 +8,8 @@
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000314 SOL** |
-| **Closed ROI** | **+314.4%** |
+| **Closed P&L** | **+0.000214 SOL** |
+| **Closed ROI** | **+214.4%** |
 | Open Deployed | 0.000000 SOL |
 
 ## Trades

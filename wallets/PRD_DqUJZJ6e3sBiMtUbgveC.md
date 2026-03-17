@@ -1,5 +1,5 @@
 # [PRD] Wallet: `DqUJZJ6e3sBiMtUbgveCJzqh3JhiLhpuBYmncg1ivwcc`
-> Generated: 2026-03-17 11:05 UTC | Environment: **PRD**
+> Generated: 2026-03-17 11:10 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -8,8 +8,8 @@
 | Closed | 1 |
 | W/L | 0/1 |
 | SOL In (closed) | 0.150000 |
-| **Closed P&L** | **-0.092381 SOL** |
-| **Closed ROI** | **-61.6%** |
+| **Closed P&L** | **-0.036982 SOL** |
+| **Closed ROI** | **-24.7%** |
 | Open Deployed | 0.000000 SOL |
 
 ## Trades

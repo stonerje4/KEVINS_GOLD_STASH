@@ -1,5 +1,5 @@
 # [TEST] Wallet: `3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -8,15 +8,15 @@
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000600 |
-| **Closed P&L** | **+0.000882 SOL** |
-| **Closed ROI** | **+147.1%** |
+| **Closed P&L** | **+0.000282 SOL** |
+| **Closed ROI** | **+47.1%** |
 | Open Deployed | 0.000100 SOL |
 
 ## Trades
 
 ### 🟢 NWR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.00x | **Current:** 0.98x
 - **Mint:** `F5v17hqHmt624rAuu4ZNTEp24s2SKvctrwfW55NDpump`
 
 | Time | Action | SOL | TX |

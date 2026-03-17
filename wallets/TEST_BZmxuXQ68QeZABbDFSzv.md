@@ -1,15 +1,15 @@
 # [TEST] Wallet: `BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
 | Open | 2 |
 | Closed | 1 |
-| W/L | 1/0 |
+| W/L | 0/1 |
 | SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000039 SOL** |
-| **Closed ROI** | **+38.9%** |
+| **Closed P&L** | **-0.000061 SOL** |
+| **Closed ROI** | **-61.1%** |
 | Open Deployed | 0.000200 SOL |
 
 ## Trades
@@ -26,7 +26,7 @@
 
 ### 🟢 imagineslop
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.56x
+- **Peak:** 1.00x | **Current:** 0.48x
 - **Mint:** `EM7haNYD5mcYzZmbDDd2KNtHjcep5Tj1FUajCsCFpump`
 
 | Time | Action | SOL | TX |

@@ -1,15 +1,15 @@
 # [TEST] Wallet: `CAmNcBJ82xr1tzXrwZ6tZKwEFs26TG8kT6dJeR1bxjW9`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
 | Open | 0 |
 | Closed | 6 |
-| W/L | 5/1 |
+| W/L | 0/6 |
 | SOL In (closed) | 0.002600 |
-| **Closed P&L** | **+0.001116 SOL** |
-| **Closed ROI** | **+42.9%** |
+| **Closed P&L** | **-0.001424 SOL** |
+| **Closed ROI** | **-54.8%** |
 | Open Deployed | 0.000000 SOL |
 
 ## Trades

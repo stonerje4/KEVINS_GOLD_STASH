@@ -1,15 +1,15 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
 | Open | 1 |
 | Closed | 8 |
-| W/L | 8/0 |
+| W/L | 3/5 |
 | SOL In (closed) | 0.001800 |
-| **Closed P&L** | **+0.001795 SOL** |
-| **Closed ROI** | **+99.7%** |
+| **Closed P&L** | **-0.000005 SOL** |
+| **Closed ROI** | **-0.3%** |
 | Open Deployed | 0.000100 SOL |
 
 ## Trades
@@ -26,7 +26,7 @@
 
 ### 🟢 Hamster
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 0.94x
+- **Peak:** 1.36x | **Current:** 0.91x
 - **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
 
 | Time | Action | SOL | TX |

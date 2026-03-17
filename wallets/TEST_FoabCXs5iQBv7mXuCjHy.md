@@ -1,15 +1,15 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
 | Open | 0 |
 | Closed | 9 |
-| W/L | 9/0 |
+| W/L | 2/7 |
 | SOL In (closed) | 0.000900 |
-| **Closed P&L** | **+0.000722 SOL** |
-| **Closed ROI** | **+80.2%** |
+| **Closed P&L** | **-0.000178 SOL** |
+| **Closed ROI** | **-19.8%** |
 | Open Deployed | 0.000000 SOL |
 
 ## Trades

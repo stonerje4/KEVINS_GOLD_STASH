@@ -1,15 +1,15 @@
 # [TEST] Wallet: `FzMeg6P2L16BSUivm3pTSbWY3h7pzBEHJuCtYh4Z6mrj`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 11 |
 | Open | 3 |
 | Closed | 8 |
-| W/L | 8/0 |
+| W/L | 1/7 |
 | SOL In (closed) | 0.001800 |
-| **Closed P&L** | **+0.000713 SOL** |
-| **Closed ROI** | **+39.6%** |
+| **Closed P&L** | **-0.001087 SOL** |
+| **Closed ROI** | **-60.4%** |
 | Open Deployed | 0.000300 SOL |
 
 ## Trades

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -8,8 +8,8 @@
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000153 SOL** |
-| **Closed ROI** | **+153.1%** |
+| **Closed P&L** | **+0.000053 SOL** |
+| **Closed ROI** | **+53.1%** |
 | Open Deployed | 0.000100 SOL |
 
 ## Trades
@@ -37,7 +37,7 @@
 
 ### 🟢 forg
 - **Status:** open | **Exit:** open
-- **Peak:** 1.96x | **Current:** 1.55x
+- **Peak:** 1.96x | **Current:** 1.53x
 - **Mint:** `G4QRtYNRPyxdKwcAqqW3xSeEynDDxEyRvrDT9FJEpump`
 
 | Time | Action | SOL | TX |

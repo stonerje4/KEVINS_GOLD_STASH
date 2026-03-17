@@ -1,5 +1,5 @@
 # [TEST] Wallet: `GyHL98eooS4VwyDrnZdudJoBfkTTcM8G7ugkEEA9pwx`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -8,8 +8,8 @@
 | Closed | 1 |
 | W/L | 0/1 |
 | SOL In (closed) | 0.000600 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
+| **Closed P&L** | **-0.000600 SOL** |
+| **Closed ROI** | **-100.0%** |
 | Open Deployed | 0.000000 SOL |
 
 ## Trades

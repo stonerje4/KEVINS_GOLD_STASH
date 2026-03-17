@@ -1,15 +1,15 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 11:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 11:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 287 |
 | Open | 77 |
 | Closed | 210 |
-| W/L | 196/14 |
+| W/L | 43/167 |
 | SOL In (closed) | 0.106500 |
-| **Closed P&L** | **+0.089936 SOL** |
-| **Closed ROI** | **+84.4%** |
+| **Closed P&L** | **-0.014751 SOL** |
+| **Closed ROI** | **-13.9%** |
 | Open Deployed | 0.026700 SOL |
 
 ## Trades
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.49x | **Current:** 3.35x
+- **Peak:** 7.49x | **Current:** 3.36x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +212,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.89x | **Current:** 2.80x
+- **Peak:** 3.89x | **Current:** 2.76x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -1419,7 +1419,7 @@
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.98x | **Current:** 0.91x
+- **Peak:** 1.98x | **Current:** 0.96x
 - **Mint:** `3S1NxQXfKmfL4szqJnPS3N8GpA35ncqBdrU4rrAPpump`
 
 | Time | Action | SOL | TX |
