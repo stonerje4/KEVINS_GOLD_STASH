@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 05:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.030600 |
 | **Closed P&L** | **+0.025708 SOL** |
 | **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.004200 SOL |
+| Open Deployed | 0.004300 SOL |
 
 ## Trades
 
-### ⚪ Lucky
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 Lucky
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.59x
 - **Mint:** `G1aXZDGxrgXsnzRdrX6XX7nB9E92wJQajJfeok8cpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 INTROSPECTION
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `2ttk3pzQmVDDSuDuvNcsMtJW33b98cwCvkDpvYdos6eh`
 
 | Time | Action | SOL | TX |

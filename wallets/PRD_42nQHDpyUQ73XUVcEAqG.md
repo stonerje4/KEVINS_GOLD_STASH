@@ -1,18 +1,36 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 05:55 UTC | Environment: **PRD**
+> Generated: 2026-03-17 06:00 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 13 |
-| Open | 3 |
+| Total Positions | 15 |
+| Open | 5 |
 | Closed | 10 |
 | W/L | 10/0 |
 | SOL In (closed) | 0.002500 |
 | **Closed P&L** | **+0.004316 SOL** |
 | **Closed ROI** | **+172.7%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
+
+### 🟢 OKARA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `Gc3J24TWcjKVBMxYJJthEoPhJjqafYbz7uyjUmejpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:59:25 | BUY | 0.000100 | `3eEsBCt6ofkyWVbmExw8XhrPhFokSH...` |
+
+### 🟢 SYNTHRA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `64smUjiG5wzHSYbZzbB8EVL6zsnUC5KPRCA3UCrApump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:56:49 | BUY | 0.000100 | `3wB9r4WBfM9kVQHyUrgpTXcqPdTRcZ...` |
 
 ### 🔴 DonTzu
 - **Status:** closed | **Exit:** stop_loss
@@ -46,7 +64,7 @@
 
 ### 🟢 honkermog
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 1.86x
+- **Peak:** 2.44x | **Current:** 1.75x
 - **Mint:** `2Z5BMaPjri6gsK7i7LHDmdfQrkpV9kbkVnrsosvNpump`
 
 | Time | Action | SOL | TX |

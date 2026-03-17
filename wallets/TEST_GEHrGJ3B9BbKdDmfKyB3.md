@@ -1,27 +1,28 @@
 # [TEST] Wallet: `GEHrGJ3B9BbKdDmfKyB3mjouUY6wkiBAFfb6fAkrbWEd`
-> Generated: 2026-03-17 05:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 2 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000095 SOL** |
-| **Closed ROI** | **+94.7%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 2 |
+| W/L | 2/0 |
+| SOL In (closed) | 0.000200 |
+| **Closed P&L** | **+0.000132 SOL** |
+| **Closed ROI** | **+66.0%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 UNICOIN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 0.44x
+### 🔴 UNICOIN
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.57x | **Current:** 0.37x
 - **Mint:** `2fxA6VJggsKJuqXMahUEF2zxa75cd9GA7U8UevUnpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:54:12 | BUY | 0.000100 | `2VQ2EpxSoCLTDE24hLSbopmcNV1Axs...` |
+| 2026-03-17 05:55:23 | SELL | 0.000037 | `3dmhQnkRbSBLYx625yvoXUWdULWAsS...` |
 
 ### 🔴 PVPDOG2
 - **Status:** closed | **Exit:** runner_trailing_stop

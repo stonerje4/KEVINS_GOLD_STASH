@@ -1,16 +1,16 @@
 # [TEST] Wallet: `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz`
-> Generated: 2026-03-17 05:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 2 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.001200 |
-| **Closed P&L** | **+0.000799 SOL** |
-| **Closed ROI** | **+66.6%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.001300 |
+| **Closed P&L** | **+0.000898 SOL** |
+| **Closed ROI** | **+69.1%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
@@ -23,15 +23,16 @@
 |------|--------|-----|----|
 | 2026-03-17 05:28:46 | BUY | 0.000100 | `55prj5XGAou6QKYgLCeo5mz3yu8v2d...` |
 
-### 🟢 TITAN
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.73x | **Current:** 1.13x
+### 🔴 TITAN
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.73x | **Current:** 0.85x
 - **Mint:** `4ay158ynQu4RfKe4oEjQFd3om2Fvyguz1UnQMm3rpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:21:04 | BUY | 0.000100 | `4uko2G4G88LsNgGFrEQNfxwkPzGE8x...` |
 | 2026-03-17 04:24:58 | SELL | 0.000023 | `3ACgArys6HxnKwTUWvAgYYR1QpEt1p...` |
+| 2026-03-17 05:57:57 | SELL | 0.000076 | `4biiWJmGMVVoriJePhJ9V8v2J6kKxJ...` |
 
 ### 🔴 Leonardo
 - **Status:** closed | **Exit:** ghost_close_stop_loss

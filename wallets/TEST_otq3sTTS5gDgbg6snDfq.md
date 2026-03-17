@@ -1,18 +1,27 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 05:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 53 |
-| Open | 34 |
+| Total Positions | 54 |
+| Open | 35 |
 | Closed | 19 |
 | W/L | 4/15 |
 | SOL In (closed) | 0.011400 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+28.1%** |
-| Open Deployed | 0.012900 SOL |
+| Open Deployed | 0.013000 SOL |
 
 ## Trades
+
+### 🟢 PVEDOG
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `8Eozo1Ksv6e85FCu5ibHf52gF5n88PebfmCrHrhnpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:58:29 | BUY | 0.000100 | `2JN6WpM12Ly8HeSaKRs1gxSq9oujRE...` |
 
 ### 🟢 Hamster
 - **Status:** open | **Exit:** open
@@ -151,7 +160,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
