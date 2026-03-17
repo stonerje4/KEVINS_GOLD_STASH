@@ -1,16 +1,11 @@
 # [TEST] `TZkcwgk6WrXeU8Zj...`
-> 2026-03-17 16:20 UTC | **9** pos | **0W/8L** | P&L: **-0.000435 SOL** (-54.4%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| TRAITOR | 03-17 16:02 | 0.87x | 2.24x | 0.3h | 0.0001 |
+> 2026-03-17 16:25 UTC | **9** pos | **0W/9L** | P&L: **-0.000445 SOL** (-49.4%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ TRAITOR | -0.0000 | 03-17 16:02 | 2.2x | 03-17 16:20 | 0.0001/0.0001 | trail |
 | ❌ MC | -0.0001 | 03-17 05:32 | 1.2x | 03-17 06:18 | 0.0000/0.0001 | SL |
 | ❌ BITCOIN | -0.0000 | 03-17 04:37 | 2.8x | 03-17 04:59 | 0.0001/0.0001 | trail |
 | ❌ Crabwise | -0.0001 | 03-17 03:59 | 1.4x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -24,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:20 | TRAITOR | SELL | 0.0001 | `Phay3vTb2AcwX2Qv...` |
 | 03-17 16:12 | TRAITOR | SELL | 0.0000 | `2HKgVKifsa8Noy3H...` |
 | 03-17 16:02 | TRAITOR | BUY | 0.0001 | `4pCtVAXU4ybFuyLU...` |
 | 03-17 06:18 | MC | SELL | 0.0000 | `227inayDkAcwrBEm...` |

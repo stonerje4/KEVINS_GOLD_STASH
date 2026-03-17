@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:20 UTC** | 7d | 1438 buys, 1935 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:25 UTC** | 7d | 1443 buys, 1938 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:24 | 🟢 BUY | WRT | 0.0001 | 87nWQxQv... | copy_buy | `5yLpap2iBNsw...` |
+| 03-17 | 16:23 | 🟢 BUY | INFDFI | 0.0001 | 2autqiin... | copy_buy | `25PGuVudx2Um...` |
+| 03-17 | 16:22 | 🟢 BUY | MFG | 0.0001 | 9G4ytadk... | copy_buy | `2nJfvv3hP3Jm...` |
+| 03-17 | 16:21 | 🟢 BUY | Lemon-kun | 0.0001 | 7cA6GmNF... | copy_buy | `2LZy5QEmuhc7...` |
+| 03-17 | 16:21 | 🟢 BUY | NWR | 0.0001 | BGGJhxGX... | copy_buy | `4LiRskBmSHi1...` |
+| 03-17 | 16:20 | 🔴 SELL | TRAITOR | 0.0001 | TZkcwgk6... | trail | `Phay3vTb2Acw...` |
+| 03-17 | 16:20 | 💰 SELL | NORB | 0.0000 | AJ8Gc1cY... | TP1 | `E8BDCfsg3ZfT...` |
+| 03-17 | 16:20 | 🔴 SELL | America | 0.0000 | 6E4897rJ... | SL | `ig4yzcY2J2wQ...` |
 | 03-17 | 16:19 | 🟢 BUY | Retro | 0.0001 | 6raSuhfi... | copy_buy | `3QEt7EzqtWbY...` |
 | 03-17 | 16:19 | 💰 SELL | PURRPLEAN | 0.0000 | AJ8Gc1cY... | TP1 | `2fAg4Y9YGzaZ...` |
 | 03-17 | 16:19 | 🟢 BUY | PHOUSE | 0.0001 | 6E4897rJ... | copy_buy | `49G6B9qNG6LM...` |

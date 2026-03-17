@@ -1,8 +1,13 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 16:20 UTC** | 7d | 700 buys, 947 sells | In: **83.83** | Out: **80.48** | Net: **-3.35 SOL**
+> Updated: **2026-03-17 16:25 UTC** | 7d | 703 buys, 949 sells | In: **84.28** | Out: **80.57** | Net: **-3.71 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:25 | 💰 SELL | WAR | 0.0307 | HCDsVE5Y... | TP1 | `BkvokRde5n2o...` |
+| 03-17 | 16:24 | 🟢 BUY | Gork | 0.1500 | 42nQHDpy... | copy | `4efdsB1rZ5nG...` |
+| 03-17 | 16:23 | 🟢 BUY | ? | 0.1500 | BGGJhxGX... | copy | `2EnkogdiVMMu...` |
+| 03-17 | 16:21 | 🟢 BUY | NWR | 0.1500 | BGGJhxGX... | copy | `2hHa7NtNUsLr...` |
+| 03-17 | 16:20 | 🔴 SELL | HEISEI | 0.0593 | 6qTPHgnS... | SL | `2ZVeJhiDStPt...` |
 | 03-17 | 16:16 | 🔴 SELL | PatCoin | 0.0239 | 42nQHDpy... | SL | `41RvuibAgMtC...` |
 | 03-17 | 16:11 | 🟢 BUY | ? | 0.1500 | BGGJhxGX... | copy | `37PkARTbPnWc...` |
 | 03-17 | 16:10 | 🟢 BUY | PatCoin | 0.1500 | 42nQHDpy... | copy | `5t2n4JaGsJYk...` |
