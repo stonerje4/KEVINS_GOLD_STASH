@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Toucan
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.09x | **Current:** 1.79x
+- **Peak:** 2.09x | **Current:** 1.55x
 - **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +53,7 @@
 
 ### 🟢 goon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.84x
+- **Peak:** 1.01x | **Current:** 0.92x
 - **Mint:** `8BAZVgXTtrYQn8zT4raxprRwiHTVdYcKpF36nxUcpump`
 
 | Time | Action | SOL | TX |
@@ -287,7 +287,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 1.04x
+- **Peak:** 1.07x | **Current:** 1.03x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |

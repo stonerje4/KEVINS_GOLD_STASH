@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 DGPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.91x
+- **Peak:** 1.05x | **Current:** 0.88x
 - **Mint:** `veAj5XS6Ax8xLX5BjxAcWpfSFH7Dqh7aatxYTB6Hory`
 
 | Time | Action | SOL | TX |

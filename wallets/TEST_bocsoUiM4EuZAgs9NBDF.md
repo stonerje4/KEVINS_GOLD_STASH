@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 BATTLE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 1.34x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.12x | **Current:** 1.82x
 - **Mint:** `41Ro9syNfd3CRKjSGvCk5iaXpyb557k1ACHUEDUEpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:25:28 | BUY | 0.000100 | `47bS1btfHzvXNMP7dGLXCCRLTPxUEm...` |
+| 2026-03-17 00:33:16 | SELL | 0.000021 | `2RKYnUrd68zXoWKuQvfRWo48SpJWbh...` |
 
 ### 🟢 ANMOO
 - **Status:** open | **Exit:** open

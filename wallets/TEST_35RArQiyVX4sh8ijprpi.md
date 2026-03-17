@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CLAWDIS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+- **Peak:** 1.13x | **Current:** 0.72x
 - **Mint:** `2yDL2okKMtkxtSomVWVfr6Y8JDBuidRX3e4Qx8hBBAGS`
 
 | Time | Action | SOL | TX |

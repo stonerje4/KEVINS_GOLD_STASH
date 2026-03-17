@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ZOE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 1.31x
+- **Peak:** 1.78x | **Current:** 0.45x
 - **Mint:** `FNwTAxE8vevh9BB85KVZab85a4aFyQHF3u3pFaqTpump`
 
 | Time | Action | SOL | TX |
@@ -24,13 +24,14 @@
 | 2026-03-17 00:28:58 | BUY | 0.000100 | `4WXYHXoVJgw8FjnUjLyuxtkNzGid5A...` |
 
 ### 🟢 nageon
-- **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.08x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.59x | **Current:** 2.52x
 - **Mint:** `3G1uRFiiJukMC8F6hftMxUzJiQp4mgHbSZBK94Gapump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:27:44 | BUY | 0.000100 | `3N6kYpZ2mvwzSzUpmLPhZCvFFtaK69...` |
+| 2026-03-17 00:31:50 | SELL | 0.000021 | `2eSQgwHS4WxksRf2mTfAqzdLWt4TG4...` |
 
 ### 🟢 pippin
 - **Status:** open | **Exit:** open
@@ -451,7 +452,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.75x
+- **Peak:** 1.74x | **Current:** 0.76x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

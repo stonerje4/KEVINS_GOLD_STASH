@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.036200 |
 | **Closed P&L** | **+0.030336 SOL** |
 | **Closed ROI** | **+83.8%** |
-| Open Deployed | 0.003400 SOL |
+| Open Deployed | 0.003500 SOL |
 
 ## Trades
 
-### ⚪ Monke
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 Monke
+- **Status:** open | **Exit:** open
+- **Peak:** 1.15x | **Current:** 0.97x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Zero
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 2.44x
+- **Peak:** 2.84x | **Current:** 2.84x
 - **Mint:** `7gVGRq4EYWeaFiS9ynpxj9yiHKL5k8GT5FRMx3w7pump`
 
 | Time | Action | SOL | TX |
