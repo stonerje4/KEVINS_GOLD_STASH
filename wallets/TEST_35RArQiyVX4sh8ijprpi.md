@@ -1,11 +1,12 @@
 # [TEST] `35RArQiyVX4sh8ij...`
-> 2026-03-17 13:05 UTC | **12** pos | **1W/9L** | P&L: **-0.000518 SOL** (-34.5%) | 2 open
+> 2026-03-17 13:10 UTC | **13** pos | **1W/9L** | P&L: **-0.000518 SOL** (-34.5%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| CLIPHUB | 03-17 13:03 | 0.89x | 1.00x | 0.0h | 0.0001 |
+| Lucky | 03-17 13:08 | 1.05x | 1.18x | 0.0h | 0.0001 |
+| CLIPHUB | 03-17 13:03 | 0.65x | 1.00x | 0.1h | 0.0001 |
 | DUNE | 03-17 12:55 | 0.79x | 1.07x | 0.2h | 0.0001 |
 
 ## Closed
@@ -27,6 +28,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:08 | Lucky | BUY | 0.0001 | `438Lc1WiFsz6fCZ3...` |
 | 03-17 13:03 | CLIPHUB | BUY | 0.0001 | `4TujjkSwACoGDrbG...` |
 | 03-17 12:55 | DUNE | BUY | 0.0001 | `54DFbyQVgQzL7qTn...` |
 | 03-17 05:21 | FPT | SELL | 0.0000 | `4JNAVLfCNFmkYj3G...` |

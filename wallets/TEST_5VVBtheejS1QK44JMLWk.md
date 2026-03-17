@@ -1,5 +1,11 @@
 # [TEST] `5VVBtheejS1QK44J...`
-> 2026-03-17 13:05 UTC | **11** pos | **2W/9L** | P&L: **-0.000804 SOL** (-22.3%) | 0 open
+> 2026-03-17 13:10 UTC | **12** pos | **2W/9L** | P&L: **-0.000804 SOL** (-22.3%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| F/ACC | 03-17 13:08 | 0.99x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -21,6 +27,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:08 | F/ACC | BUY | 0.0001 | `2os2CFtQVeGBjZrq...` |
 | 03-17 09:57 | CLOVER | BUY | 0.0001 | `3a2nphSNrSBPAXAR...` |
 | 03-17 09:48 | Leprechaun | BUY | 0.0001 | `3N8VN2jKnuzUDzXU...` |
 | 03-17 07:25 | SolGany | SELL | 0.0000 | `2uLAzVgbPQxAmuQD...` |

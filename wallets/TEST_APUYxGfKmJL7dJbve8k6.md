@@ -1,5 +1,5 @@
 # [TEST] `APUYxGfKmJL7dJbv...`
-> 2026-03-17 13:05 UTC | **44** pos | **6W/38L** | P&L: **-0.004351 SOL** (-28.3%) | 0 open
+> 2026-03-17 13:10 UTC | **44** pos | **6W/38L** | P&L: **-0.004351 SOL** (-28.3%) | 0 open
 
 ## Closed
 
@@ -75,9 +75,9 @@
 | 03-17 01:36 | GEEKED | SELL | 0.0000 | `4wyh9XVidqzBXUqL...` |
 | 03-17 01:35 | GEEKED | BUY | 0.0001 | `pYYZvoNrXcm61Qtz...` |
 | 03-17 01:34 | ORC | BUY | 0.0001 | `5T8gGkz1t3ia3k4b...` |
-| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Bowhead | SELL | 0.0001 | `?` |
 | 03-16 19:13 | SHARK | SELL | 0.0003 | `?` |
+| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Nebresearch | SELL | 0.0003 | `?` |
 | 03-16 16:49 | clod | SELL | 0.0001 | `5VtVzAtN7e5wWbGg...` |
 | 03-16 16:49 | DICK | SELL | 0.0001 | `2uUmZf3QgrA6darB...` |

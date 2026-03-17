@@ -1,11 +1,12 @@
 # [TEST] `EaEf6TH8Nd2SThZr...`
-> 2026-03-17 13:05 UTC | **130** pos | **18W/111L** | P&L: **-0.010687 SOL** (-25.2%) | 1 open
+> 2026-03-17 13:10 UTC | **131** pos | **18W/111L** | P&L: **-0.010687 SOL** (-25.2%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| NALA | 03-17 12:32 | 7.67x | 8.81x | 0.5h | 0.0001 |
+| KENNY | 03-17 13:06 | 2.28x | 2.28x | 0.1h | 0.0001 |
+| NALA | 03-17 12:32 | 7.72x | 8.81x | 0.6h | 0.0001 |
 
 ## Closed
 
@@ -145,6 +146,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:08 | KENNY | SELL | 0.0000 | `5PJCjrP94WivQXWu...` |
+| 03-17 13:06 | KENNY | BUY | 0.0001 | `5UTwgE4FBqg2dB8f...` |
 | 03-17 12:55 | NALA | SELL | 0.0001 | `49BDcaj9N7G1tobj...` |
 | 03-17 12:51 | SAM | SELL | 0.0000 | `3J7m49LLX6vGMF9Q...` |
 | 03-17 12:42 | NALA | SELL | 0.0000 | `3dF1sM3rbRmogUFN...` |

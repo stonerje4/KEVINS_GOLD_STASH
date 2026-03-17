@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:05 UTC** | 7d | 1286 buys, 1818 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 13:10 UTC** | 7d | 1291 buys, 1820 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:08 | 💰 SELL | KENNY | 0.0000 | EaEf6TH8... | TP1 | `5PJCjrP94Wiv...` |
+| 03-17 | 13:08 | 🟢 BUY | F/ACC | 0.0001 | 5VVBthee... | copy_buy | `2os2CFtQVeGB...` |
+| 03-17 | 13:08 | 🟢 BUY | Lucky | 0.0001 | 35RArQiy... | copy_buy | `438Lc1WiFsz6...` |
+| 03-17 | 13:08 | 🟢 BUY | Gork | 0.0001 | AiNfNi2e... | copy_buy | `3rEZEb8kh33z...` |
+| 03-17 | 13:07 | 🔴 SELL | PSYOPCOIN | 0.0000 | 6E4897rJ... | SL | `4NQViSRPFRd8...` |
+| 03-17 | 13:06 | 🟢 BUY | KENNY | 0.0001 | EaEf6TH8... | copy_buy | `5UTwgE4FBqg2...` |
+| 03-17 | 13:05 | 🟢 BUY | Lucky | 0.0001 | FoHJUYTh... | copy_buy | `3KCidrFzXf83...` |
 | 03-17 | 13:03 | 🟢 BUY | CLIPHUB | 0.0001 | 35RArQiy... | copy_buy | `4TujjkSwACoG...` |
 | 03-17 | 13:02 | 🟢 BUY | PSYOPCOIN | 0.0001 | 6E4897rJ... | copy_buy | `NW95pVMgs1ex...` |
 | 03-17 | 13:01 | 🟢 BUY | Conviction | 0.0001 | 76aDmd3r... | copy_buy | `2bqVrWwBsdWj...` |
