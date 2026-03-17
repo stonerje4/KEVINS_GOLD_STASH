@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 13:55 UTC** | 7d | 1322 buys, 1848 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:00 UTC** | 7d | 1327 buys, 1853 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:00 | 🟢 BUY | lovebird | 0.0001 | FoHJUYTh... | copy_buy | `5s3GnrT9jQDw...` |
+| 03-17 | 13:59 | 🟢 BUY | DLSSELON | 0.0001 | 42nQHDpy... | copy_buy | `4vwK26cDNz19...` |
+| 03-17 | 13:58 | 🔴 SELL | F/ACC | 0.0000 | 5VVBthee... | SL | `3bsGJrr2gXmR...` |
+| 03-17 | 13:58 | 💰 SELL | TRUST | 0.0002 | AJ8Gc1cY... | tp_25x_trim | `2K1vhqWySD7D...` |
+| 03-17 | 13:56 | 🟢 BUY | WEREFULL | 0.0001 | otq3sTTS... | copy_buy | `7HnG44ttmTXi...` |
+| 03-17 | 13:56 | 🟢 BUY | Yukie | 0.0001 | 7cXeEXa4... | copy_buy | `67QjDHaFVqo2...` |
+| 03-17 | 13:56 | 🔴 SELL | Thinker | 0.0001 | 9t6xjxxt... | trail | `3LdCvy29EXVq...` |
+| 03-17 | 13:56 | 🟢 BUY | CADE | 0.0001 | AJ8Gc1cY... | copy_buy | `27Qf5rwZFJEr...` |
+| 03-17 | 13:55 | 🔴 SELL | Conviction | 0.0001 | 76aDmd3r... | trail | `4uHFjR8WUBio...` |
+| 03-17 | 13:55 | 💰 SELL | TRUST | 0.0002 | AJ8Gc1cY... | tp_15x_trim | `3SybdwN5sUxJ...` |
 | 03-17 | 13:55 | 🟢 BUY | JONES | 0.0001 | BBBByrLH... | copy_buy | `2ZQkXo9iBYFC...` |
 | 03-17 | 13:54 | 🟢 BUY | Kick | 0.0001 | GHy1P6vJ... | copy_buy | `3rarDmDvpzTq...` |
 | 03-17 | 13:54 | 🟢 BUY | LULU | 0.0001 | CT8wxJuP... | copy_buy | `4gtwNs1YNsW9...` |

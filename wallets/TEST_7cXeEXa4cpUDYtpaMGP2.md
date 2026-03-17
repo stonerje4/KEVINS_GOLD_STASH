@@ -1,5 +1,11 @@
 # [TEST] `7cXeEXa4cpUDYtpa...`
-> 2026-03-17 13:55 UTC | **4** pos | **0W/4L** | P&L: **-0.000361 SOL** (-90.3%) | 0 open
+> 2026-03-17 14:00 UTC | **5** pos | **0W/4L** | P&L: **-0.000361 SOL** (-90.3%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Yukie | 03-17 13:56 | 0.99x | 1.00x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -14,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:56 | Yukie | BUY | 0.0001 | `67QjDHaFVqo2Sv5U...` |
 | 03-17 10:05 | BULLY | BUY | 0.0001 | `4rWibkJu1osyx1ag...` |
 | 03-17 08:25 | Ouroboros | BUY | 0.0001 | `dCoAQqsjYXddXHYf...` |
 | 03-17 06:39 | 401k | BUY | 0.0001 | `23E2YCPw7mkaEd2s...` |

@@ -1,5 +1,11 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-17 13:55 UTC | **20** pos | **2W/18L** | P&L: **+0.001535 SOL** (+43.9%) | 0 open
+> 2026-03-17 14:00 UTC | **21** pos | **2W/18L** | P&L: **+0.001535 SOL** (+43.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| DLSSELON | 03-17 13:59 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -30,6 +36,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:59 | DLSSELON | BUY | 0.0001 | `4vwK26cDNz19sN99...` |
 | 03-17 13:12 | Jorge | SELL | 0.0000 | `3qPThDsqR7UqPPYv...` |
 | 03-17 12:18 | Jorge | BUY | 0.0001 | `womwmupXDDvuyXqY...` |
 | 03-17 10:33 | AHAHA | SELL | 0.0001 | `5poBgGhbNaX1aNzG...` |
