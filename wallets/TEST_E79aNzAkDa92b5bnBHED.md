@@ -1,11 +1,11 @@
 # [TEST] `E79aNzAkDa92b5bn...`
-> 2026-03-17 11:50 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 11:51 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| laptop | 03-16 15:42 | 0.44x | 1.74x | 20.1h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ laptop | -0.0001 | 03-16 15:42 | 1.7x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

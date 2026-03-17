@@ -1,14 +1,14 @@
 # [TEST] `FWQ3sv51J5P7o6Uw...`
-> 2026-03-17 11:50 UTC | **4** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 4 open
+> 2026-03-17 11:51 UTC | **4** pos | **0W/4L** | P&L: **-0.000309 SOL** (-77.4%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| CANDACE | 03-17 07:27 | 0.61x | 1.43x | 4.4h | 0.0001 |
-| Institute | 03-17 05:07 | 0.87x | 2.24x | 6.7h | 0.0001 |
-| MRNIGGER | 03-17 03:23 | 0.76x | 1.00x | 8.4h | 0.0001 |
-| CLOVE | 03-17 03:05 | 0.74x | 1.15x | 8.7h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ CANDACE | -0.0001 | 03-17 07:27 | 1.4x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ Institute | -0.0000 | 03-17 05:07 | 2.2x | 03-17 11:50 | 0.0001/0.0001 | bulk_close_cleanup |
+| ❌ MRNIGGER | -0.0001 | 03-17 03:23 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ CLOVE | -0.0001 | 03-17 03:05 | 1.2x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

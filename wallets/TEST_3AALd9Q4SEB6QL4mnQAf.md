@@ -1,16 +1,11 @@
 # [TEST] `3AALd9Q4SEB6QL4m...`
-> 2026-03-17 11:50 UTC | **2** pos | **1W/0L** | P&L: **+0.000282 SOL** (+47.1%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| NWR | 03-17 08:35 | 0.98x | 1.00x | 3.2h | 0.0001 |
+> 2026-03-17 11:51 UTC | **2** pos | **1W/1L** | P&L: **+0.000182 SOL** (+26.1%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ NWR | -0.0001 | 03-17 08:35 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ✅ FOR | +0.0003 | 03-16 11:23 | 2.6x | 03-16 12:54 | 0.0009/0.0006 | trail |
 
 <details><summary>📋 Full Trade Log</summary>

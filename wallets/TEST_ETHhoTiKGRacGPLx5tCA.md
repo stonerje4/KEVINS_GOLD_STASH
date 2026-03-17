@@ -1,12 +1,12 @@
 # [TEST] `ETHhoTiKGRacGPLx...`
-> 2026-03-17 11:50 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-17 11:51 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| BBX | 03-17 03:38 | 0.87x | 1.00x | 8.2h | 0.0001 |
-| 401k | 03-16 23:30 | 0.88x | 1.18x | 12.3h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ BBX | -0.0001 | 03-17 03:38 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ 401k | -0.0001 | 03-16 23:30 | 1.2x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

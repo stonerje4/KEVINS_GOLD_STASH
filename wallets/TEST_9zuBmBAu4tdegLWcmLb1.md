@@ -1,12 +1,12 @@
 # [TEST] `9zuBmBAu4tdegLWc...`
-> 2026-03-17 11:50 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-17 11:51 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| MUTT | 03-17 06:27 | 0.99x | 1.10x | 5.4h | 0.0001 |
-| PEKEPOME | 03-16 16:48 | 0.49x | 1.00x | 19.0h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ MUTT | -0.0001 | 03-17 06:27 | 1.1x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ PEKEPOME | -0.0001 | 03-16 16:48 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

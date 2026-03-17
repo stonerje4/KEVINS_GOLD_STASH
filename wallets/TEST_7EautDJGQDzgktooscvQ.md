@@ -1,16 +1,11 @@
 # [TEST] `7EautDJGQDzgktoo...`
-> 2026-03-17 11:50 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| pvpdog | 03-17 06:49 | 0.46x | 1.70x | 5.0h | 0.0001 |
+> 2026-03-17 11:51 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ pvpdog | -0.0001 | 03-17 06:49 | 1.7x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ PROSUMER | -0.0001 | 03-17 06:32 | 1.4x | 03-17 06:53 | 0.0000/0.0001 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>

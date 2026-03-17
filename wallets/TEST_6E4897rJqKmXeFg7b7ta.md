@@ -1,17 +1,12 @@
 # [TEST] `6E4897rJqKmXeFg7...`
-> 2026-03-17 11:50 UTC | **3** pos | **0W/2L** | P&L: **-0.000138 SOL** (-19.7%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| BBX | 03-16 15:19 | 2.43x | 2.73x | 20.5h | 0.0001 |
+> 2026-03-17 11:51 UTC | **3** pos | **0W/3L** | P&L: **-0.000216 SOL** (-27.0%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
 | ❌ ANGELA | -0.0001 | 03-17 08:03 | 1.0x | 03-17 08:51 | 0.0000/0.0001 | gc_SL |
+| ❌ BBX | -0.0001 | 03-16 15:19 | 2.7x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ PEEP | -0.0000 | 03-15 23:02 | 1.0x | 03-16 09:19 | 0.0006/0.0006 | stale_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>

@@ -1,12 +1,12 @@
 # [TEST] `GUM1LDV4acyWxXqE...`
-> 2026-03-17 11:50 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-17 11:51 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| TEST | 03-16 17:02 | 0.93x | 1.00x | 18.8h | 0.0001 |
-| BBX | 03-16 17:01 | 0.45x | 1.00x | 18.8h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ TEST | -0.0001 | 03-16 17:02 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ BBX | -0.0001 | 03-16 17:01 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

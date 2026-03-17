@@ -1,13 +1,13 @@
 # [TEST] `6uippNoBxaXK4k3Q...`
-> 2026-03-17 11:50 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
+> 2026-03-17 11:51 UTC | **3** pos | **0W/3L** | P&L: **-0.000300 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Green | 03-17 09:55 | 0.00x | 1.00x | 1.9h | 0.0001 |
-| Bracket | 03-17 06:34 | 0.84x | 1.39x | 5.3h | 0.0001 |
-| Shelly | 03-16 18:24 | 0.89x | 1.11x | 17.4h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Green | -0.0001 | 03-17 09:55 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ Bracket | -0.0001 | 03-17 06:34 | 1.4x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ Shelly | -0.0001 | 03-16 18:24 | 1.1x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

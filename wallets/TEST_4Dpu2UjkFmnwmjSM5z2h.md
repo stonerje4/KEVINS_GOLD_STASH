@@ -1,18 +1,13 @@
 # [TEST] `4Dpu2UjkFmnwmjSM...`
-> 2026-03-17 11:50 UTC | **3** pos | **1W/0L** | P&L: **+0.000053 SOL** (+53.1%) | 2 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Bowhead | 03-17 09:32 | 0.00x | 1.00x | 2.3h | 0.0001 |
-| forg | 03-17 01:15 | 1.87x | 1.96x | 10.6h | 0.0001 |
+> 2026-03-17 11:51 UTC | **3** pos | **1W/2L** | P&L: **-0.000147 SOL** (-49.0%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Bowhead | -0.0001 | 03-17 09:32 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ✅ MINDLESS | +0.0001 | 03-17 01:18 | 3.2x | 03-17 04:05 | 0.0002/0.0001 | trail |
+| ❌ forg | -0.0001 | 03-17 01:15 | 2.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

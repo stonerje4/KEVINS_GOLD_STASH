@@ -1,12 +1,12 @@
 # [TEST] `E5sZTG938YDE7PrV...`
-> 2026-03-17 11:50 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-17 11:51 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| ANI | 03-17 07:10 | 0.47x | 1.39x | 4.7h | 0.0001 |
-| MiniME | 03-17 00:04 | 0.93x | 1.06x | 11.8h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ ANI | -0.0001 | 03-17 07:10 | 1.4x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ MiniME | -0.0001 | 03-17 00:04 | 1.1x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

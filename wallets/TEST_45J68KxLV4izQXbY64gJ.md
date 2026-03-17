@@ -1,13 +1,13 @@
 # [TEST] `45J68KxLV4izQXbY...`
-> 2026-03-17 11:50 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
+> 2026-03-17 11:51 UTC | **3** pos | **0W/3L** | P&L: **-0.000253 SOL** (-84.2%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| HAIKUU | 03-17 03:32 | 1.86x | 3.32x | 8.3h | 0.0001 |
-| SHOWMORE | 03-17 01:27 | 1.01x | 1.03x | 10.4h | 0.0001 |
-| NEURIX | 03-17 01:02 | 1.33x | 1.67x | 10.8h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ HAIKUU | -0.0001 | 03-17 03:32 | 3.3x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ SHOWMORE | -0.0001 | 03-17 01:27 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
+| ❌ NEURIX | -0.0001 | 03-17 01:02 | 1.7x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 
