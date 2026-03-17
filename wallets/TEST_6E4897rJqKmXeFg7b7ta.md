@@ -1,5 +1,11 @@
 # [TEST] `6E4897rJqKmXeFg7...`
-> 2026-03-17 13:00 UTC | **3** pos | **0W/3L** | P&L: **-0.000216 SOL** (-27.0%) | 0 open
+> 2026-03-17 13:05 UTC | **4** pos | **0W/3L** | P&L: **-0.000216 SOL** (-27.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| PSYOPCOIN | 03-17 13:02 | 1.16x | 1.16x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:02 | PSYOPCOIN | BUY | 0.0001 | `NW95pVMgs1exKPXB...` |
 | 03-17 08:03 | ANGELA | BUY | 0.0001 | `cE8djEMZsttsFdbx...` |
 | 03-17 00:50 | BBX | SELL | 0.0000 | `5A6vghkooTNhZdXe...` |
 | 03-16 18:55 | PEEP | SELL | 0.0006 | `?` |

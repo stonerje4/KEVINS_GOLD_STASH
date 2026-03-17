@@ -1,11 +1,13 @@
 # [TEST] `AJ8Gc1cYzDQmQVyW...`
-> 2026-03-17 13:00 UTC | **7** pos | **0W/6L** | P&L: **-0.000561 SOL** (-93.5%) | 1 open
+> 2026-03-17 13:05 UTC | **9** pos | **0W/6L** | P&L: **-0.000561 SOL** (-93.5%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BUDGIE | 03-17 12:52 | 0.47x | 1.08x | 0.1h | 0.0001 |
+| King | 03-17 13:00 | 0.87x | 1.00x | 0.1h | 0.0001 |
+| TRUST | 03-17 13:00 | 1.08x | 1.17x | 0.1h | 0.0001 |
+| BUDGIE | 03-17 12:52 | 0.44x | 1.08x | 0.2h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +24,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 13:00 | King | BUY | 0.0001 | `Kk95YWeeJjv3nJV9...` |
+| 03-17 13:00 | TRUST | BUY | 0.0001 | `Q9QRCW2SDnk9poZU...` |
 | 03-17 12:52 | BUDGIE | BUY | 0.0001 | `72qTGtH6dSmipuho...` |
 | 03-17 09:24 | Rocky | BUY | 0.0001 | `qTYVQQPwYyqo2Q4J...` |
 | 03-17 09:08 | PinchBench | BUY | 0.0001 | `5DyR1xnfLcuseAyM...` |

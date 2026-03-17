@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 13:00 UTC** | 7d | 677 buys, 917 sells | In: **79.18** | Out: **78.50** | Net: **-0.68 SOL**
+> Updated: **2026-03-17 13:05 UTC** | 7d | 678 buys, 917 sells | In: **79.33** | Out: **78.52** | Net: **-0.81 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 13:01 | 🟢 BUY | AHAHA | 0.1500 | AcWGZE1Q... | copy | `2Aj9VkGnK1XT...` |
+| 03-17 | 13:00 | 💰 SELL | F/ACC | 0.0309 | 2w85VLX4... | TP1 | `237gRcg2tFCD...` |
 | 03-17 | 12:51 | 🟢 BUY | MULE | 0.1500 | 42nQHDpy... | copy | `4H75wcDvp9Kv...` |
 | 03-17 | 12:51 | 🟢 BUY | AEX402 | 0.1500 | 42nQHDpy... | copy | `5CwG6tjPmvJP...` |
 | 03-17 | 12:42 | 🔴 SELL | USDC | 0.1489 | DHfshpzo... | stale | `4kWCSVbFtAQa...` |
@@ -1596,4 +1598,3 @@
 | 03-10 | 14:09 | 🟢 BUY | MISSLE | 0.0500 | ESxHJpMq... | copy | `TnDmt7AtpZDb...` |
 | 03-10 | 14:05 | 🟢 BUY | UXR | 0.0500 | ESxHJpMq... | copy | `4ZGUGb3tAfD8...` |
 | 03-10 | 14:05 | 🟢 BUY | SOS | 0.0500 | 5vweNikg... | copy | `Qt6eANZF8boJ...` |
-| 03-10 | 13:00 | 🔴 SELL | Gyutto | 0.0132 | 7aMgK5L4... | SL | `67pAJS4HtPTG...` |
