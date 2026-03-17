@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-17 09:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Bear
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.38x
+- **Peak:** 1.63x | **Current:** 1.37x
 - **Mint:** `Ehmzhv4XesmuwFUNoujDvb7TQtGqZV7hXTZGMiv3pump`
 
 | Time | Action | SOL | TX |
@@ -79,7 +79,7 @@
 
 ### 🟢 AVA 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.67x
+- **Peak:** 1.02x | **Current:** 0.66x
 - **Mint:** `7xTRj5B3ErWFQ5qKKA2YjabLNQGML3v18UwY21sYpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 09:50 UTC | Environment: **PRD**
+> Generated: 2026-03-17 09:55 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Chester 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.88x | **Current:** 0.99x
+- **Peak:** 1.88x | **Current:** 0.78x
 - **Mint:** `E7t1Mp9kUHBuN92M4euXqQdmqMFD9t3GRZp3xLu9pump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 AHAHA
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.23x | **Current:** 1.49x
+- **Peak:** 2.23x | **Current:** 1.33x
 - **Mint:** `62E3NcnnACUmmTFat1aQzkSJ4Mhy2YUExKV8EHLopump`
 
 | Time | Action | SOL | TX |

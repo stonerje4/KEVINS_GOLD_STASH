@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 09:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -323,7 +323,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.80x
+- **Peak:** 1.09x | **Current:** 0.79x
 - **Mint:** `8TLJGfW2xjoJK34DaKcP4g1xWVuqWSePEgm885Qnpump`
 
 | Time | Action | SOL | TX |
@@ -476,7 +476,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.84x
+- **Peak:** 1.07x | **Current:** 0.83x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |
@@ -570,7 +570,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.74x
+- **Peak:** 1.00x | **Current:** 0.73x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |
@@ -579,7 +579,7 @@
 
 ### 🟢 RAM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.47x | **Current:** 0.75x
+- **Peak:** 1.47x | **Current:** 0.74x
 - **Mint:** `B8mrS466Jge9JMBSFQUj3PqheLXAtDs3FAhrTqb8pump`
 
 | Time | Action | SOL | TX |
@@ -636,7 +636,7 @@
 
 ### 🟢 Garnet
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.80x
+- **Peak:** 1.09x | **Current:** 0.79x
 - **Mint:** `4pxSc8xpc3EgejUnqzhwvtdq3fGMnnNkE1T9KHrWpump`
 
 | Time | Action | SOL | TX |

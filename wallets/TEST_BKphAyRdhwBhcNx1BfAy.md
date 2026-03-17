@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 09:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 287 |
-| Open | 77 |
-| Closed | 210 |
-| W/L | 196/14 |
-| SOL In (closed) | 0.106500 |
+| Open | 76 |
+| Closed | 211 |
+| W/L | 196/15 |
+| SOL In (closed) | 0.107100 |
 | **Closed P&L** | **+0.089936 SOL** |
-| **Closed ROI** | **+84.4%** |
-| Open Deployed | 0.026700 SOL |
+| **Closed ROI** | **+84.0%** |
+| Open Deployed | 0.026100 SOL |
 
 ## Trades
 
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 1.92x
+- **Peak:** 3.16x | **Current:** 1.89x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1419,7 +1419,7 @@
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 1.05x
+- **Peak:** 1.05x | **Current:** 1.01x
 - **Mint:** `3S1NxQXfKmfL4szqJnPS3N8GpA35ncqBdrU4rrAPpump`
 
 | Time | Action | SOL | TX |
@@ -2274,8 +2274,8 @@
 | 2026-03-16 04:31:41 | BUY | 0.000600 | `5SzusaHaV83sRDrC6ufBqKT1qGbBpv...` |
 | 2026-03-16 04:31:56 | SELL | 0.000379 | `5ZTvk7cib4rhvYhm1WaBsdPbkUhwsq...` |
 
-### 🟢 Oscar
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 Oscar
+- **Status:** closing | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `G1raszDo4V42Mp9dQ39kSPkUWWSDXEg42HAMZCyDpump`
 
@@ -2284,6 +2284,7 @@
 | 2026-03-16 04:31:09 | BUY | 0.000600 | `5jXUoMFp9PXYp5tZwnvyhBMmTtREsW...` |
 | 2026-03-17 07:52:38 | SELL | 0.000077 | `28tMttGw54vjJDv8eiWSpUBCG3pRB2...` |
 | 2026-03-17 08:53:47 | SELL | 0.000076 | `E2fyVBwpwfY5wtxJuAjxgH9JjVpNbe...` |
+| 2026-03-17 09:54:54 | SELL | 0.000076 | `45iYHo4biHp4UjjGZm9wjybjfTBVsS...` |
 
 ### 🔴 SUPER
 - **Status:** closed | **Exit:** ghost_close_stop_loss

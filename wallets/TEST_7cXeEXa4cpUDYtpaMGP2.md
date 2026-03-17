@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7cXeEXa4cpUDYtpaMGP2rc7pe1LJB6M93DtiVJswpbrJ`
-> Generated: 2026-03-17 09:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Ouroboros
 - **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.28x
+- **Peak:** 1.43x | **Current:** 1.19x
 - **Mint:** `2yeyNC83oe3kht8Jnsd4xsrL64X35RYFKgZQakEdpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 401k
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.08x
+- **Peak:** 1.10x | **Current:** 0.95x
 - **Mint:** `B9Tyqo7A1B8wE9TTQV1BupP5A6LMiaTLiHv8sdQLpump`
 
 | Time | Action | SOL | TX |

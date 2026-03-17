@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 09:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -73,7 +73,7 @@
 
 ### 🟢 patrick 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.47x
+- **Peak:** 1.16x | **Current:** 0.45x
 - **Mint:** `CGJBLh4y224Xzzj16UcgkwNBVJjKFQRAqpaXc4tfpump`
 
 | Time | Action | SOL | TX |
@@ -101,7 +101,7 @@
 
 ### 🟢 BOTTLE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.08x | **Current:** 0.84x
+- **Peak:** 1.08x | **Current:** 0.83x
 - **Mint:** `2YMRR1vkcys54CqGeWyFCp1vKjNA82m1YDwNLz4Fpump`
 
 | Time | Action | SOL | TX |
@@ -119,7 +119,7 @@
 
 ### 🟢 2024
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.13x | **Current:** 2.83x
+- **Peak:** 3.13x | **Current:** 2.86x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |
