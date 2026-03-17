@@ -1,18 +1,27 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 02:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
-| Open | 5 |
+| Total Positions | 11 |
+| Open | 6 |
 | Closed | 5 |
 | W/L | 5/0 |
 | SOL In (closed) | 0.001000 |
 | **Closed P&L** | **+0.000839 SOL** |
 | **Closed ROI** | **+83.9%** |
-| Open Deployed | 0.000500 SOL |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
+
+### 🟢 TTZ
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.96x
+- **Mint:** `4mKDaDqJnL7jkKUepU3uu1QKFYfuWYhKN59Wzq2kpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:28:05 | BUY | 0.000100 | `4B7wTy9sEiYR6zKYGyYChXBzhMwWJr...` |
 
 ### 🟢 grokette
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -37,7 +46,7 @@
 
 ### 🟢 API
 - **Status:** open | **Exit:** open
-- **Peak:** 1.86x | **Current:** 1.59x
+- **Peak:** 1.96x | **Current:** 1.45x
 - **Mint:** `3icfn5H4ePwjkKDUq7SGqJYeJrutR2WYTvnbcp6cpump`
 
 | Time | Action | SOL | TX |

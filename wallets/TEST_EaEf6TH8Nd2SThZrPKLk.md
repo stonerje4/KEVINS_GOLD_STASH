@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 02:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -43,7 +43,7 @@
 
 ### 🟢 C64
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.97x
+- **Peak:** 1.09x | **Current:** 0.94x
 - **Mint:** `FrMy2MuZwXbgKMfNWWWb4h8VCQbkx5nQ5gUuFqSLpump`
 
 | Time | Action | SOL | TX |
@@ -51,13 +51,14 @@
 | 2026-03-17 01:22:10 | BUY | 0.000100 | `bEXd6YPXM3Diyeu4nH8QzTdQJrhzPS...` |
 
 ### 🟢 WAVE
-- **Status:** open | **Exit:** open
-- **Peak:** 1.93x | **Current:** 1.93x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.11x | **Current:** 2.11x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:08:36 | BUY | 0.000100 | `2RSwUYKSMsAnrX1kMe44xh7guiKqRk...` |
+| 2026-03-17 02:29:08 | SELL | 0.000021 | `3PkY6abq2Mfz71WuMbPcT4pfKvAZgV...` |
 
 ### 🔴 JOHN
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -91,7 +92,7 @@
 
 ### 🟢 FILECITY
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.28x | **Current:** 2.21x
+- **Peak:** 2.28x | **Current:** 1.94x
 - **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
 
 | Time | Action | SOL | TX |
@@ -101,7 +102,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.03x | **Current:** 1.96x
+- **Peak:** 2.03x | **Current:** 1.97x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

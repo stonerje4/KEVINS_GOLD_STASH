@@ -1,31 +1,32 @@
 # [PRD] Wallet: `A5hEhg36kAmkrrKRhVxPrvYK5KLgBgPXbBqL9GUL5jg1`
-> Generated: 2026-03-17 02:25 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:30 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 11 |
-| Open | 2 |
-| Closed | 9 |
-| W/L | 1/8 |
-| SOL In (closed) | 1.350000 |
-| **Closed P&L** | **-0.221368 SOL** |
-| **Closed ROI** | **-16.4%** |
-| Open Deployed | 0.300000 SOL |
+| Open | 1 |
+| Closed | 10 |
+| W/L | 1/9 |
+| SOL In (closed) | 1.500000 |
+| **Closed P&L** | **-0.314065 SOL** |
+| **Closed ROI** | **-20.9%** |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
 
-### 🟢 grokette
-- **Status:** open | **Exit:** open
+### 🔴 grokette
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.77x | **Current:** 0.00x
 - **Mint:** `8AGFNmf6rwB9ctLEHnC9xEkUMnmFhXT2ZJEbhvAxpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:07:04 | BUY | 0.150000 | `2weLkjhUWB2FbvnX19R5C42UB9xsYg...` |
+| 2026-03-17 02:27:10 | SELL | 0.057304 | `3QL87C2CRxxcuW1b4gGLS1q8X5g7KA...` |
 
 ### 🟢 API
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.26x | **Current:** 0.00x
+- **Peak:** 2.28x | **Current:** 0.00x
 - **Mint:** `3icfn5H4ePwjkKDUq7SGqJYeJrutR2WYTvnbcp6cpump`
 
 | Time | Action | SOL | TX |

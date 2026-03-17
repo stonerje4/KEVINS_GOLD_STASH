@@ -1,18 +1,28 @@
 # [TEST] Wallet: `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx`
-> Generated: 2026-03-17 02:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
+| Total Positions | 6 |
 | Open | 0 |
-| Closed | 5 |
-| W/L | 4/1 |
-| SOL In (closed) | 0.003000 |
-| **Closed P&L** | **+0.002008 SOL** |
-| **Closed ROI** | **+66.9%** |
+| Closed | 6 |
+| W/L | 5/1 |
+| SOL In (closed) | 0.003100 |
+| **Closed P&L** | **+0.002047 SOL** |
+| **Closed ROI** | **+66.0%** |
 | Open Deployed | 0.000000 SOL |
 
 ## Trades
+
+### 🔴 Replacement
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.39x
+- **Mint:** `981BByNvpc7zdV2ZaEyKUp7uaNWL6UyxqmbaPyCNP7vn`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:25:35 | BUY | 0.000100 | `5mEgNWZg533hjB3m4uphmL54CEnkfq...` |
+| 2026-03-17 02:29:45 | SELL | 0.000039 | `5fF2K1L6jC4SxkgSosUsmtSYvSsEcC...` |
 
 ### 🔴 COCK
 - **Status:** closed | **Exit:** ghost_close_stop_loss
