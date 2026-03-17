@@ -1,5 +1,5 @@
 # [TEST] Wallet: `HWbeENL8BQ4WEx8rxHqvVQsZtpAnLshhukPBoCJZnnXf`
-> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CRINE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.42x | **Current:** 0.81x
+- **Peak:** 1.42x | **Current:** 1.06x
 - **Mint:** `BA3GAsvmy6o3PCA2bnZbCDSYW4S2gK5hfN6gahm9pump`
 
 | Time | Action | SOL | TX |

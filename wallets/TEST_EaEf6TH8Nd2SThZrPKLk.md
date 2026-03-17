@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 102 |
+| Total Positions | 103 |
 | Open | 20 |
-| Closed | 82 |
-| W/L | 81/1 |
-| SOL In (closed) | 0.036200 |
-| **Closed P&L** | **+0.030336 SOL** |
-| **Closed ROI** | **+83.8%** |
+| Closed | 83 |
+| W/L | 82/1 |
+| SOL In (closed) | 0.036300 |
+| **Closed P&L** | **+0.030482 SOL** |
+| **Closed ROI** | **+84.0%** |
 | Open Deployed | 0.003500 SOL |
 
 ## Trades
 
+### 🟢 FILECITY
+- **Status:** open | **Exit:** open
+- **Peak:** 1.23x | **Current:** 1.23x
+- **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:39:11 | BUY | 0.000100 | `3dCTwK5raypFRgnFHYw26WG2gnkFvE...` |
+
 ### 🟢 Monke
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 0.97x
+- **Peak:** 1.15x | **Current:** 1.08x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
@@ -24,14 +33,16 @@
 | 2026-03-17 00:30:01 | BUY | 0.000100 | `46prXQaYTqB29vGCaLs5YxvAHCT1rs...` |
 
 ### 🟢 Zero
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.84x | **Current:** 2.84x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.00x | **Current:** 1.15x
 - **Mint:** `7gVGRq4EYWeaFiS9ynpxj9yiHKL5k8GT5FRMx3w7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:15:54 | BUY | 0.000100 | `3iJfUy7EGC2sbsa4ZigmwCfKmhhKQq...` |
 | 2026-03-17 00:29:55 | SELL | 0.000025 | `2p885FrvpFokjtRFZ8UEaJciXJSxUi...` |
+| 2026-03-17 00:35:37 | SELL | 0.000027 | `41Fre12n2PgbqEYQmFoqiG6W7dV42D...` |
+| 2026-03-17 00:38:57 | SELL | 0.000094 | `5MsYrd3X7uL3smh9oxNE4yphMrj83t...` |
 
 ### 🟢 CLUDSTAR
 - **Status:** open | **Exit:** open

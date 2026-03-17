@@ -1,16 +1,16 @@
 # [PRD] Wallet: `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`
-> Generated: 2026-03-17 00:35 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 2 |
-| Closed | 4 |
-| W/L | 0/4 |
-| SOL In (closed) | 0.600000 |
-| **Closed P&L** | **-0.129309 SOL** |
-| **Closed ROI** | **-21.6%** |
-| Open Deployed | 0.300000 SOL |
+| Open | 1 |
+| Closed | 5 |
+| W/L | 0/5 |
+| SOL In (closed) | 0.750000 |
+| **Closed P&L** | **-0.182022 SOL** |
+| **Closed ROI** | **-24.3%** |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
 
@@ -23,14 +23,15 @@
 |------|--------|-----|----|
 | 2026-03-16 19:35:31 | BUY | 0.150000 | `2bqiaMbqk9aniFWJELY2Q7tdaGaQJC...` |
 
-### 🟢 BBX
-- **Status:** open | **Exit:** open
+### 🔴 BBX
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.03x | **Current:** 0.00x
 - **Mint:** `6CKK6YTjgdv2n7U4J78zF97AHASqSQiYvCcoBzyFpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:01:07 | BUY | 0.150000 | `4EBiFDrpr9UniXbKx4izuDgnyzaJR5...` |
+| 2026-03-17 00:37:18 | SELL | 0.097287 | `5Rg2aQKLMU1E9NRKuy4A6TL7PLcFcX...` |
 
 ### 🔴 UGOR
 - **Status:** closed | **Exit:** stale_position_cleanup

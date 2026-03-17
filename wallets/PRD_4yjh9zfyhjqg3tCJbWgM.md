@@ -1,5 +1,5 @@
 # [PRD] Wallet: `4yjh9zfyhjqg3tCJbWgMHn4xcot5ogqimhnjJ7qXbixH`
-> Generated: 2026-03-17 00:35 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -25,6 +25,7 @@
 | 2026-03-16 16:46:57 | SELL | 0.051207 | `4L1KS7UCvoNE4KecANsrrV8vxNpenD...` |
 | 2026-03-16 16:47:03 | SELL | 0.051207 | `2xSyxMTA2yrNSc3Y5oDcrViGyuLH5E...` |
 | 2026-03-16 16:47:42 | BUY | 0.150000 | `2HZiaYkGns2jhfmhUMoXNyibJrr1uh...` |
+| 2026-03-17 00:37:16 | SELL | 0.110165 | `2mNGQkBHXh2bxfR6e6QxpRTQZ3fnyR...` |
 
 ### 🔴 HERRMANN
 - **Status:** closed | **Exit:** stop_loss

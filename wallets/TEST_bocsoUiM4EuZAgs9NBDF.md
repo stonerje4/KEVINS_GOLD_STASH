@@ -1,22 +1,40 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 20 |
-| Open | 19 |
+| Total Positions | 22 |
+| Open | 21 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.001900 SOL |
+| Open Deployed | 0.002100 SOL |
 
 ## Trades
 
+### 🟢 AI
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `BPbVZ5oNbvWCrvBaGqEMZLNEVD6wKgMDRLCrJP7wpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:39:33 | BUY | 0.000100 | `29Bi8B3Ju7zyLjyKbi84Rt1dBBbQHt...` |
+
+### 🟢 Vance
+- **Status:** open | **Exit:** open
+- **Peak:** 1.78x | **Current:** 0.87x
+- **Mint:** `euC79AAyFXUw82hBd7s1rzcFV2vxXwNk7FpdD86pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:35:29 | BUY | 0.000100 | `1Q3sF12wrFEtdX11q3zBXuoKmtdEKw...` |
+
 ### 🟢 BATTLE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.12x | **Current:** 1.82x
+- **Peak:** 2.12x | **Current:** 1.20x
 - **Mint:** `41Ro9syNfd3CRKjSGvCk5iaXpyb557k1ACHUEDUEpump`
 
 | Time | Action | SOL | TX |
@@ -107,7 +125,7 @@
 
 ### 🟢 Mouse
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `3UCTYjqbDXi9sdvLmdtquvBsRdRaDjEfu9pRsyhMpump`
 
 | Time | Action | SOL | TX |

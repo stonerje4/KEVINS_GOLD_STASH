@@ -1,18 +1,27 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-17 00:35 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 13 |
-| Open | 4 |
+| Total Positions | 14 |
+| Open | 5 |
 | Closed | 9 |
 | W/L | 2/7 |
 | SOL In (closed) | 1.350000 |
 | **Closed P&L** | **+0.050611 SOL** |
 | **Closed ROI** | **+3.7%** |
-| Open Deployed | 0.600000 SOL |
+| Open Deployed | 0.750000 SOL |
 
 ## Trades
+
+### 🟢 Vance
+- **Status:** open | **Exit:** open
+- **Peak:** 1.35x | **Current:** 0.00x
+- **Mint:** `euC79AAyFXUw82hBd7s1rzcFV2vxXwNk7FpdD86pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:35:56 | BUY | 0.150000 | `5SXRHDWHCDCiv34KSe9SDpeLdiGn9g...` |
 
 ### 🟢 RAVEN
 - **Status:** open | **Exit:** open

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q`
-> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 imagineslop
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.61x
+- **Peak:** 1.00x | **Current:** 0.60x
 - **Mint:** `EM7haNYD5mcYzZmbDDd2KNtHjcep5Tj1FUajCsCFpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Tabby
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.77x
+- **Peak:** 1.00x | **Current:** 0.74x
 - **Mint:** `9b748tn6XRFqjZZf1YdX1vM2zCySBHB8xFfZvmkMpump`
 
 | Time | Action | SOL | TX |

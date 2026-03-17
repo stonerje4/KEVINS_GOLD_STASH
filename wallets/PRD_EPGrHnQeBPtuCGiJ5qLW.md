@@ -1,21 +1,21 @@
 # [PRD] Wallet: `EPGrHnQeBPtuCGiJ5qLWaDZDKEf2yKcMKEPCyf2jWTxi`
-> Generated: 2026-03-17 00:35 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 1 |
-| Closed | 5 |
-| W/L | 1/4 |
-| SOL In (closed) | 0.750000 |
-| **Closed P&L** | **-0.166035 SOL** |
-| **Closed ROI** | **-22.1%** |
-| Open Deployed | 0.150000 SOL |
+| Open | 0 |
+| Closed | 6 |
+| W/L | 1/5 |
+| SOL In (closed) | 0.900000 |
+| **Closed P&L** | **-0.205870 SOL** |
+| **Closed ROI** | **-22.9%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 creacher
-- **Status:** open | **Exit:** open
+### 🔴 creacher
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.12x | **Current:** 0.00x
 - **Mint:** `E7dXBjFH8mv2atX4KQnvdNqwd9r25o9Q5QwzW12pump`
 
@@ -25,6 +25,7 @@
 | 2026-03-16 16:46:57 | SELL | 0.051207 | `4L1KS7UCvoNE4KecANsrrV8vxNpenD...` |
 | 2026-03-16 16:47:03 | SELL | 0.051207 | `2xSyxMTA2yrNSc3Y5oDcrViGyuLH5E...` |
 | 2026-03-16 16:47:42 | BUY | 0.150000 | `2HZiaYkGns2jhfmhUMoXNyibJrr1uh...` |
+| 2026-03-17 00:37:16 | SELL | 0.110165 | `2mNGQkBHXh2bxfR6e6QxpRTQZ3fnyR...` |
 
 ### 🟢 TIM
 - **Status:** closed | **Exit:** runner_trailing_stop

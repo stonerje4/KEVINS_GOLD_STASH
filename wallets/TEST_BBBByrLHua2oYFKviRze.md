@@ -1,37 +1,38 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 97 |
-| Open | 30 |
-| Closed | 67 |
-| W/L | 65/2 |
-| SOL In (closed) | 0.030200 |
-| **Closed P&L** | **+0.024792 SOL** |
+| Open | 29 |
+| Closed | 68 |
+| W/L | 66/2 |
+| SOL In (closed) | 0.030300 |
+| **Closed P&L** | **+0.024871 SOL** |
 | **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.004000 SOL |
+| Open Deployed | 0.003900 SOL |
 
 ## Trades
 
 ### 🟢 ZOE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.78x | **Current:** 0.45x
+- **Peak:** 1.78x | **Current:** 0.44x
 - **Mint:** `FNwTAxE8vevh9BB85KVZab85a4aFyQHF3u3pFaqTpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:28:58 | BUY | 0.000100 | `4WXYHXoVJgw8FjnUjLyuxtkNzGid5A...` |
 
-### 🟢 nageon
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.59x | **Current:** 2.52x
+### 🔴 nageon
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.59x | **Current:** 0.65x
 - **Mint:** `3G1uRFiiJukMC8F6hftMxUzJiQp4mgHbSZBK94Gapump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:27:44 | BUY | 0.000100 | `3N6kYpZ2mvwzSzUpmLPhZCvFFtaK69...` |
 | 2026-03-17 00:31:50 | SELL | 0.000021 | `2eSQgwHS4WxksRf2mTfAqzdLWt4TG4...` |
+| 2026-03-17 00:35:41 | SELL | 0.000058 | `3hiEUo4jaRirmYqQjQVGQ7H7oSWPZu...` |
 
 ### 🟢 pippin
 - **Status:** open | **Exit:** open

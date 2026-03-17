@@ -1,18 +1,27 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 00:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 8 |
-| Open | 4 |
+| Total Positions | 9 |
+| Open | 5 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000900 |
 | **Closed P&L** | **+0.000736 SOL** |
 | **Closed ROI** | **+81.7%** |
-| Open Deployed | 0.000900 SOL |
+| Open Deployed | 0.001000 SOL |
 
 ## Trades
+
+### 🟢 POLYHUNT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `3DcFuBtMgMJftX6djdQn4A6bG3hAPPbFMNr5zPs4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:39:30 | BUY | 0.000100 | `fMRFW65d198vVU6DszXbhb1JZyvZsz...` |
 
 ### 🟢 BOTTLE
 - **Status:** open | **Exit:** open
@@ -34,7 +43,7 @@
 
 ### 🟢 2024
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.96x | **Current:** 2.66x
+- **Peak:** 2.96x | **Current:** 2.49x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |
