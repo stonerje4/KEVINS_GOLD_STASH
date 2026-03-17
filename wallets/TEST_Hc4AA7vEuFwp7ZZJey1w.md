@@ -1,5 +1,11 @@
 # [TEST] `Hc4AA7vEuFwp7ZZJ...`
-> 2026-03-17 14:15 UTC | **4** pos | **1W/3L** | P&L: **-0.000048 SOL** (-12.0%) | 0 open
+> 2026-03-17 14:20 UTC | **5** pos | **1W/3L** | P&L: **-0.000048 SOL** (-12.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| MILK | 03-17 14:18 | 1.06x | 1.06x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -14,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:18 | MILK | BUY | 0.0001 | `5JQF8RrJsxjGB1CN...` |
 | 03-17 10:07 | Truth | SELL | 0.0000 | `mdd8WySWiQbwYN2q...` |
 | 03-17 10:06 | Truth | SELL | 0.0000 | `4ZARE92xdQrQ9UAG...` |
 | 03-17 10:05 | Truth | SELL | 0.0000 | `3fCiqmPxEibVNTjC...` |

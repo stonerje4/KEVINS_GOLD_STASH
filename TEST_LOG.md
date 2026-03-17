@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:15 UTC** | 7d | 1335 buys, 1862 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:20 UTC** | 7d | 1340 buys, 1867 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:19 | 🟢 BUY | JM | 0.0001 | APUYxGfK... | copy_buy | `47qFHEhG9y5j...` |
+| 03-17 | 14:18 | 💰 SELL | KENNY | 0.0000 | EaEf6TH8... | TP2 | `3NXVCp55mf1u...` |
+| 03-17 | 14:18 | 🔴 SELL | patricklon | 0.0001 | 45j4enZd... | trail | `4tYnhEdsr757...` |
+| 03-17 | 14:18 | 🟢 BUY | Yoyo  | 0.0001 | 35RArQiy... | copy_buy | `6gdH83Q7bX8G...` |
+| 03-17 | 14:18 | 🟢 BUY | MILK | 0.0001 | Hc4AA7vE... | copy_buy | `5JQF8RrJsxjG...` |
+| 03-17 | 14:17 | 💰 SELL | DLSSELON | 0.0000 | 42nQHDpy... | TP2 | `5DNGXz2zeY9e...` |
+| 03-17 | 14:17 | 🟢 BUY | ARVI | 0.0001 | AJ8Gc1cY... | copy_buy | `2inATrCFvbdo...` |
+| 03-17 | 14:16 | 💰 SELL | TRUST | 0.0003 | AJ8Gc1cY... | tp_40x_trim | `5tLmF5RG3haU...` |
+| 03-17 | 14:16 | 💰 SELL | LULU | 0.0001 | AJ8Gc1cY... | trail | `ULWNPgwHU4pV...` |
+| 03-17 | 14:15 | 🟢 BUY | Lighter | 0.0001 | BBBByrLH... | copy_buy | `ZK7CJBhdYr4d...` |
 | 03-17 | 14:13 | 💰 SELL | DLSSELON | 0.0000 | 42nQHDpy... | TP1 | `22RJVtgfqWCi...` |
 | 03-17 | 14:13 | 🟢 BUY | GOGO | 0.0001 | FoHJUYTh... | copy_buy | `5Ev8isC596Yc...` |
 | 03-17 | 14:12 | 💰 SELL | TRUST | 0.0002 | AJ8Gc1cY... | tp_32x_trim | `5X5Y1m6aoXNL...` |

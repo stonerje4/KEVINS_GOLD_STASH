@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 14:15 UTC** | 7d | 687 buys, 929 sells | In: **81.08** | Out: **79.36** | Net: **-1.72 SOL**
+> Updated: **2026-03-17 14:20 UTC** | 7d | 686 buys, 930 sells | In: **81.03** | Out: **79.40** | Net: **-1.63 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:19 | 💰 SELL | DLSSELON | 0.0467 | 42nQHDpy... | TP2 | `38SWFu4GcimS...` |
 | 03-17 | 14:13 | 💰 SELL | DLSSELON | 0.0329 | 42nQHDpy... | TP1 | `442n7DEYcfBd...` |
 | 03-17 | 14:12 | 💰 SELL | 401k | 0.0301 | 4rsj2xh5... | TP1 | `38DMkqwTHwyG...` |
 | 03-17 | 14:06 | 🔴 SELL | RETRO | 0.0713 | 5n593DWQ... | stale | `4uBVBtRPY2RV...` |
@@ -1618,4 +1619,3 @@
 | 03-10 | 15:34 | 🟢 BUY | 𝕏 Card  | 0.0500 | 4uCx1BG5... | copy | `4U5Ay4hqjcvW...` |
 | 03-10 | 15:19 | 🟢 BUY | BET | 0.0500 | 4Be9Cvxq... | copy | `676f49Dc4jEZ...` |
 | 03-10 | 14:31 | 🟢 BUY | RYOPPIPPI | 0.0500 | H3DXv3Ef... | copy | `pjh6MVbVg4NZ...` |
-| 03-10 | 14:18 | 🟢 BUY | USDPT | 0.0500 | ESxHJpMq... | copy | `4AQipUcyiBD8...` |

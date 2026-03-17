@@ -1,11 +1,12 @@
 # [TEST] `BBBByrLHua2oYFKv...`
-> 2026-03-17 14:15 UTC | **120** pos | **17W/102L** | P&L: **-0.010105 SOL** (-27.8%) | 1 open
+> 2026-03-17 14:20 UTC | **121** pos | **17W/102L** | P&L: **-0.010105 SOL** (-27.8%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| ANIMAL | 03-17 13:39 | 0.50x | 1.13x | 0.6h | 0.0001 |
+| Lighter | 03-17 14:15 | 0.47x | 1.07x | 0.1h | 0.0001 |
+| ANIMAL | 03-17 13:39 | 0.50x | 1.13x | 0.7h | 0.0001 |
 
 ## Closed
 
@@ -135,6 +136,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:15 | Lighter | BUY | 0.0001 | `ZK7CJBhdYr4dptdc...` |
 | 03-17 14:09 | JONES | SELL | 0.0000 | `2JXHZe8uLxtAbizt...` |
 | 03-17 13:55 | JONES | BUY | 0.0001 | `2ZQkXo9iBYFCqg1m...` |
 | 03-17 13:51 | Yukie  | SELL | 0.0000 | `4eVMVDqppXsU2Dcy...` |
@@ -189,8 +191,8 @@
 | 03-16 23:18 | ClaudeDog | SELL | 0.0000 | `2RsKAKNrGHF2yki4...` |
 | 03-16 23:18 | Moumou | SELL | 0.0001 | `5DHD5u3wnSpd6Sq2...` |
 | 03-16 23:18 | pandas | SELL | 0.0001 | `5DVzjdXPhjuAdHEv...` |
-| 03-16 19:13 | Glowcat | SELL | 0.0001 | `?` |
 | 03-16 19:13 | SAMO | SELL | 0.0003 | `?` |
+| 03-16 19:13 | Glowcat | SELL | 0.0001 | `?` |
 | 03-16 18:25 | Moumou | SELL | 0.0000 | `4bPuZP4uWxbVX7WJ...` |
 | 03-16 18:22 | Moumou | SELL | 0.0000 | `4nTcpFFNrJWQkY1j...` |
 | 03-16 18:18 | ClaudeDog | BUY | 0.0001 | `449x3quteUGhYpAP...` |
