@@ -1,5 +1,5 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -53,7 +53,7 @@
 
 ### 🟢 TJR
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.01x | **Current:** 0.35x
+- **Peak:** 1.01x | **Current:** 0.33x
 - **Mint:** `8BTZX2EJoKFB4XsWvYZN9zP6ENZptRCoiPBCidHbpump`
 
 | Time | Action | SOL | TX |
@@ -89,4 +89,9 @@
 | 2026-03-17 08:32:03 | SELL | 0.000000 | `d46A1FLbpxosZspgJGTzD71kuvNVgi...` |
 | 2026-03-17 08:33:08 | SELL | 0.000000 | `5DMo4PN8LtJ5J1Wh7Cye6NNMTYbitc...` |
 | 2026-03-17 08:34:12 | SELL | 0.000000 | `5FkyAtYtNBgbcj4EhhSP29bdCY8fZp...` |
+| 2026-03-17 08:35:17 | SELL | 0.000000 | `3cU9Vb3brYXK37gUrGq8XocmHWPxQc...` |
+| 2026-03-17 08:36:16 | SELL | 0.000000 | `4VVTMvn2wyCdGiXmYCmkdyMMEyuW7i...` |
+| 2026-03-17 08:37:16 | SELL | 0.000000 | `2kLKSxsb4rMdFmZsAphHvvGAqDYkj3...` |
+| 2026-03-17 08:38:15 | SELL | 0.000000 | `5LdtxTwdUibGfJWMDS4P1VJCnsDPin...` |
+| 2026-03-17 08:39:21 | SELL | 0.000000 | `4CssQuyFQXoqV9Gi9j51qfatSvGo3c...` |
 

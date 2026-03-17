@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 AGENT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.87x
 - **Mint:** `F9R7Tq41x8QsPCfEhAbFRuMFq4p3rTm7BBESJvwypump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.00x
+- **Peak:** 1.03x | **Current:** 0.93x
 - **Mint:** `FBcmXXWRscafFoJafLyR3yD6npYrLCbTR8Gtpohcpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Stinkcoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.42x | **Current:** 1.42x
+- **Peak:** 1.45x | **Current:** 1.44x
 - **Mint:** `6o9aKxKfdSSfmaiwKV2VAeVivM8Kf6SU7XGAmnsjpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 MULE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.58x
+- **Peak:** 1.06x | **Current:** 0.57x
 - **Mint:** `CNvpUrwm7E2QAezwKpm4nfUFM8ALtJ8jcXuJ67ccpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 11.84x | **Current:** 7.39x
+- **Peak:** 11.84x | **Current:** 7.57x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |

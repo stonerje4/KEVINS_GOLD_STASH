@@ -1,5 +1,5 @@
 # [TEST] Wallet: `2947n9KQQJQRhXqgxokVYxZCypyKXh7qxYDzdkDzBX8B`
-> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 TOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.98x
+- **Peak:** 1.21x | **Current:** 1.04x
 - **Mint:** `FdHH4Rw3whcSmAq6aqH8QW2aTfn57yPj3Nco5Vyrpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 WAR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.63x
+- **Peak:** 1.80x | **Current:** 1.80x
 - **Mint:** `BkSocKC4rLKx6WUWq1qmdUWAgLT4wdb4WvwTsPu1pump`
 
 | Time | Action | SOL | TX |
@@ -202,7 +202,7 @@
 
 ### 🟢 KELLY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.74x
+- **Peak:** 1.06x | **Current:** 0.83x
 - **Mint:** `388UdYRMG7PGETP98z3UqW3LU2fyeRub6BqfW6JzCtHa`
 
 | Time | Action | SOL | TX |

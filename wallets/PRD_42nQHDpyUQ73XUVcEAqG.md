@@ -1,5 +1,5 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 08:35 UTC | Environment: **PRD**
+> Generated: 2026-03-17 08:40 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 AHAHA
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.23x | **Current:** 1.35x
+- **Peak:** 2.23x | **Current:** 1.32x
 - **Mint:** `62E3NcnnACUmmTFat1aQzkSJ4Mhy2YUExKV8EHLopump`
 
 | Time | Action | SOL | TX |
@@ -50,7 +50,7 @@
 
 ### 🟢 SYNTHRA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.24x | **Current:** 1.20x
+- **Peak:** 1.24x | **Current:** 1.18x
 - **Mint:** `64smUjiG5wzHSYbZzbB8EVL6zsnUC5KPRCA3UCrApump`
 
 | Time | Action | SOL | TX |

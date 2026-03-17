@@ -1,10 +1,10 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 56 |
-| Open | 37 |
+| Total Positions | 57 |
+| Open | 38 |
 | Closed | 19 |
 | W/L | 4/15 |
 | SOL In (closed) | 0.011400 |
@@ -13,6 +13,15 @@
 | Open Deployed | 0.013200 SOL |
 
 ## Trades
+
+### ⚪ Roadster
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `EkdVHcRHo5TqWqHBLfEoQyTumjW4jbxQxJwuweQ6pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 08:39:58 | BUY | 0.000100 | `2oEQVTPfsX4ec9RBksqSHqPMvSWmTJ...` |
 
 ### 🟢 RAM
 - **Status:** open | **Exit:** open
@@ -205,7 +214,7 @@
 
 ### 🟢 Safe
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.80x
+- **Peak:** 1.01x | **Current:** 0.89x
 - **Mint:** `D73pXimYCpoSRe3LRcgn6dPQSh6bsu3FdB2vvh3upump`
 
 | Time | Action | SOL | TX |
@@ -259,7 +268,7 @@
 
 ### 🟢 CITYGIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.82x
+- **Peak:** 1.01x | **Current:** 0.81x
 - **Mint:** `C4g6BS4xXiqo7Y6LjiLykMNdVPuJkFfj7SRDQXUBpump`
 
 | Time | Action | SOL | TX |
@@ -305,7 +314,7 @@
 
 ### 🟢 SOLANA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `F9UJRKTLrkEVpKQdXJ7Jn4YPhaVFsBPHt6g5RhNEpump`
 
 | Time | Action | SOL | TX |

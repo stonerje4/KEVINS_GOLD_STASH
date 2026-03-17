@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FWQ3sv51J5P7o6UwNFuT612HUG2CitRT8AJTtWS6Qs5G`
-> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Institute
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.24x | **Current:** 1.70x
+- **Peak:** 2.24x | **Current:** 0.98x
 - **Mint:** `2nQwUkoTdywEgFGVixy13xYdBAwJT6HhxoBuSd4wpump`
 
 | Time | Action | SOL | TX |

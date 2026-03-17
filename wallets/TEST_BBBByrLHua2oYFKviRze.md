@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 108 |
-| Open | 34 |
+| Total Positions | 109 |
+| Open | 35 |
 | Closed | 74 |
 | W/L | 70/4 |
 | SOL In (closed) | 0.030900 |
 | **Closed P&L** | **+0.025748 SOL** |
 | **Closed ROI** | **+83.3%** |
-| Open Deployed | 0.004400 SOL |
+| Open Deployed | 0.004500 SOL |
 
 ## Trades
+
+### 🟢 SEKIRO
+- **Status:** open | **Exit:** open
+- **Peak:** 1.41x | **Current:** 0.93x
+- **Mint:** `PrZEjBVJKQpScxv17BynWTcEEWhzkWSYuMcNxwcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 08:35:05 | BUY | 0.000100 | `nxC3fyYUUo2abS2JjC7p9EJrvjcTY6...` |
 
 ### 🔴 BRAIN
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -34,7 +43,7 @@
 
 ### 🟢 Ottie
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 0.71x
+- **Peak:** 1.56x | **Current:** 0.68x
 - **Mint:** `EAavoHYFQnzFNQv8UkLG6qU9aQdUf1szWntxoAkzpump`
 
 | Time | Action | SOL | TX |

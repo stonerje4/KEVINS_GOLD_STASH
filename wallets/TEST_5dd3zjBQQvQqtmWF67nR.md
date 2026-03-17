@@ -1,18 +1,27 @@
 # [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
-> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 1 |
+| Total Positions | 6 |
+| Open | 2 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.001900 |
 | **Closed P&L** | **+0.002327 SOL** |
 | **Closed ROI** | **+122.5%** |
-| Open Deployed | 0.000600 SOL |
+| Open Deployed | 0.000700 SOL |
 
 ## Trades
+
+### 🟢 CHAD
+- **Status:** open | **Exit:** open
+- **Peak:** 1.04x | **Current:** 0.94x
+- **Mint:** `4uwzn2mmd2wCwx4HqtUw99qbBd2nxr99zYBwH7kopump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 08:35:33 | BUY | 0.000100 | `2BcRnUTwxYZPnBxwmLFwmducq39nxh...` |
 
 ### 🔴 NStrat
 - **Status:** closed | **Exit:** stop_loss
