@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 12:25 UTC** | 7d | 1267 buys, 1807 sells | In: **0.46** | Out: **0.30** | Net: **-0.16 SOL**
+> Updated: **2026-03-17 12:30 UTC** | 7d | 1269 buys, 1808 sells | In: **0.46** | Out: **0.30** | Net: **-0.16 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 12:29 | 🔴 SELL | PSYDEGEN | 0.0000 | EaEf6TH8... | SL | `2GZGgrUo7gRU...` |
+| 03-17 | 12:27 | 🟢 BUY | 唐 | 0.0001 | BDe7kU3V... | copy_buy | `2jZk7fUX8x3n...` |
+| 03-17 | 12:26 | 🟢 BUY | PSYDEGEN | 0.0001 | EaEf6TH8... | copy_buy | `3Uh5HFEYKVki...` |
 | 03-17 | 12:20 | 🔴 SELL | EAC | 0.0000 | FY5sWMqL... | SL | `5Cri7CwguPTo...` |
 | 03-17 | 12:18 | 🟢 BUY | Jorge | 0.0001 | 42nQHDpy... | copy_buy | `womwmupXDDvu...` |
 | 03-17 | 12:11 | 🔴 SELL | DonTzu | 0.0000 | FoabCXs5... | SL | `5CutMGmWf2qT...` |

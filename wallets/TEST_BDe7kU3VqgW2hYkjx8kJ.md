@@ -1,5 +1,11 @@
 # [TEST] `BDe7kU3VqgW2hYkj...`
-> 2026-03-17 12:25 UTC | **3** pos | **0W/3L** | P&L: **-0.000300 SOL** (-100.0%) | 0 open
+> 2026-03-17 12:30 UTC | **4** pos | **0W/3L** | P&L: **-0.000300 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| 唐 | 03-17 12:27 | 1.01x | 1.01x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:27 | 唐 | BUY | 0.0001 | `2jZk7fUX8x3nL7fq...` |
 | 03-17 04:18 | Clove | BUY | 0.0001 | `63mY4edYopAqJkbG...` |
 | 03-17 03:53 | SKIBIDOG | BUY | 0.0001 | `3tMwzBscRVo47Drj...` |
 | 03-17 03:34 | Shamsy | BUY | 0.0001 | `QsCiFu24ZPuHy7gR...` |

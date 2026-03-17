@@ -1,10 +1,11 @@
 # [TEST] `EaEf6TH8Nd2SThZr...`
-> 2026-03-17 12:25 UTC | **127** pos | **18W/109L** | P&L: **-0.010550 SOL** (-25.0%) | 0 open
+> 2026-03-17 12:30 UTC | **128** pos | **18W/110L** | P&L: **-0.010626 SOL** (-25.1%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ PSYDEGEN | -0.0001 | 03-17 12:26 | 1.1x | 03-17 12:29 | 0.0000/0.0001 | SL |
 | ❌ Claude | -0.0001 | 03-17 10:21 | 1.6x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ GITT | -0.0000 | 03-17 10:09 | 2.5x | 03-17 10:38 | 0.0001/0.0001 | trail |
 | ❌ CHINGCHONG | -0.0001 | 03-17 09:52 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -137,6 +138,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:29 | PSYDEGEN | SELL | 0.0000 | `2GZGgrUo7gRUpnso...` |
+| 03-17 12:26 | PSYDEGEN | BUY | 0.0001 | `3Uh5HFEYKVkifQSm...` |
 | 03-17 11:02 | C64 | SELL | 0.0000 | `3NDaUqtazK1U82nm...` |
 | 03-17 10:38 | GITT | SELL | 0.0001 | `4mubViRQJatSkktp...` |
 | 03-17 10:21 | Claude | BUY | 0.0001 | `fPCqBCqHUYpCtYeC...` |
