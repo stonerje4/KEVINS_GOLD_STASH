@@ -1,22 +1,22 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 07:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 6 |
-| Closed | 3 |
-| W/L | 2/1 |
-| SOL In (closed) | 0.001300 |
+| Open | 5 |
+| Closed | 4 |
+| W/L | 2/2 |
+| SOL In (closed) | 0.001400 |
 | **Closed P&L** | **+0.002816 SOL** |
-| **Closed ROI** | **+216.6%** |
-| Open Deployed | 0.000600 SOL |
+| **Closed ROI** | **+201.2%** |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
-### 🟢 SafeMoon
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+### 🔴 SafeMoon
+- **Status:** closed | **Exit:** ghost_close_tp_2x_half
+- **Peak:** 2.21x | **Current:** 2.21x
 - **Mint:** `3iimoaC19oTes4QQh8pcjp6GxWqzcxwu41eBbz4fpump`
 
 | Time | Action | SOL | TX |

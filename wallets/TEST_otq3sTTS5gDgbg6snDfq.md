@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 07:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 RAM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.44x | **Current:** 1.44x
+- **Peak:** 1.55x | **Current:** 0.93x
 - **Mint:** `BYpzkypAvmhNVx3UAHxjNKf4aCHJ3MryyUhRfYW2pump`
 
 | Time | Action | SOL | TX |
@@ -106,7 +106,7 @@
 
 ### 🟢 ABBAS 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.11x
+- **Peak:** 1.11x | **Current:** 1.10x
 - **Mint:** `79BVC3EJhHL3CL5madCH6dGt5oddJxk2AMtj6wfapump`
 
 | Time | Action | SOL | TX |
@@ -187,7 +187,7 @@
 
 ### 🟢 $LLAMA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.86x
 - **Mint:** `2mia3Krg7QayRGvAEPidCoWxBhzfjryFsEQ1Dtfhpump`
 
 | Time | Action | SOL | TX |
@@ -332,7 +332,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |

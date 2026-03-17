@@ -1,16 +1,16 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-17 07:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 07:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 35 |
-| Open | 4 |
-| Closed | 31 |
-| W/L | 6/25 |
-| SOL In (closed) | 4.280000 |
-| **Closed P&L** | **-0.934404 SOL** |
-| **Closed ROI** | **-21.8%** |
-| Open Deployed | 0.600000 SOL |
+| Open | 3 |
+| Closed | 32 |
+| W/L | 6/26 |
+| SOL In (closed) | 4.430000 |
+| **Closed P&L** | **-0.968154 SOL** |
+| **Closed ROI** | **-21.9%** |
+| Open Deployed | 0.450000 SOL |
 
 ## Trades
 
@@ -125,14 +125,15 @@
 | 2026-03-16 04:31:15 | BUY | 0.150000 | `4LHJAVNLnotra5noi7fYgmmh65EEbw...` |
 | 2026-03-16 13:24:05 | SELL | 0.065643 | `2X7ejixPwq2eMEBMbqUaC2of3J8TLe...` |
 
-### 🟢 STEAK
-- **Status:** open | **Exit:** open
+### 🔴 STEAK
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.58x | **Current:** 0.00x
 - **Mint:** `4RZz3rUcfXJjZgwycNUJUDcfTKSFNErXdBwzpLwEpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 02:21:01 | BUY | 0.150000 | `33Mmks5rYXnfLNoquG6qD4SSr75yEB...` |
+| 2026-03-17 07:48:53 | SELL | 0.116251 | `67k39mKQ6mWSy8j2UsEWCLLfWgAfsb...` |
 
 ### 🔴 HOSPICE
 - **Status:** closed | **Exit:** stop_loss

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 07:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 07:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,13 +16,14 @@
 
 ### 🟢 FP
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.73x | **Current:** 2.73x
+- **Peak:** 3.15x | **Current:** 2.99x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 07:18:21 | BUY | 0.000100 | `MHTG2RX5WS6VVoyLUAVSecJSwjexCJ...` |
 | 2026-03-17 07:25:37 | SELL | 0.000020 | `58jzwJGrJtccJRvsAWTzqEHURfj5rJ...` |
+| 2026-03-17 07:47:29 | SELL | 0.000028 | `67pbbBTXSWbyb4niRALyMb2tu2ka1v...` |
 
 ### 🟢 TIKI
 - **Status:** open | **Exit:** open
@@ -73,7 +74,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.02x | **Current:** 1.13x
+- **Peak:** 2.02x | **Current:** 0.91x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -217,7 +218,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.22x | **Current:** 1.81x
+- **Peak:** 2.22x | **Current:** 1.78x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
