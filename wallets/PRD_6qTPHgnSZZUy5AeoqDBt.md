@@ -1,16 +1,16 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-17 01:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 01:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 14 |
-| Open | 2 |
-| Closed | 12 |
-| W/L | 4/8 |
-| SOL In (closed) | 1.800000 |
-| **Closed P&L** | **-0.531472 SOL** |
-| **Closed ROI** | **-29.5%** |
-| Open Deployed | 0.300000 SOL |
+| Open | 1 |
+| Closed | 13 |
+| W/L | 4/9 |
+| SOL In (closed) | 1.950000 |
+| **Closed P&L** | **-0.620273 SOL** |
+| **Closed ROI** | **-31.8%** |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
 
@@ -122,14 +122,15 @@
 | 2026-03-16 17:07:14 | SELL | 0.046394 | `4Q56SQLVHcwW5KVw9U2f7FWBW7bhmG...` |
 | 2026-03-16 17:09:17 | SELL | 0.166955 | `yFtSn78o7svRpVKCsCkCupBrk9xWMm...` |
 
-### 🟢 唐某某
-- **Status:** open | **Exit:** open
+### 🔴 唐某某
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.05x | **Current:** 0.00x
 - **Mint:** `DH6WNNPRgLgEteFUaXTZB2hAUgqt434vsXudsQpGpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 16:58:35 | BUY | 0.150000 | `4zNEKeK5F24ffPDaffjHSUdi4QVPwy...` |
+| 2026-03-17 01:48:48 | SELL | 0.061199 | `5Py7yTkJEZ4PJ38rgdQP3RuBPJzhJe...` |
 
 ### 🔴 BAGS
 - **Status:** closed | **Exit:** stale_position_cleanup

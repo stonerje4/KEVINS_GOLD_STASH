@@ -1,31 +1,32 @@
 # [PRD] Wallet: `42nQHDpyUQ73XUVcEAqG1c8MTiCuioGoeeBAFHJCoRRm`
-> Generated: 2026-03-17 01:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 01:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 11 |
-| Open | 4 |
-| Closed | 7 |
-| W/L | 7/0 |
-| SOL In (closed) | 0.002200 |
-| **Closed P&L** | **+0.004205 SOL** |
-| **Closed ROI** | **+191.1%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 8 |
+| W/L | 8/0 |
+| SOL In (closed) | 0.002300 |
+| **Closed P&L** | **+0.004244 SOL** |
+| **Closed ROI** | **+184.5%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
-### 🟢 Roni
-- **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 0.41x
+### 🔴 Roni
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.17x | **Current:** 0.39x
 - **Mint:** `Bw3he3GRfaJfcGq5mGySSYZ33UWFCoZ2eAA5xFwUpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:31:48 | BUY | 0.000100 | `2RGzN6Kjvw22h4DLmGQSyoCyHA4Lwi...` |
+| 2026-03-17 01:45:51 | SELL | 0.000039 | `3N2whq5SAZfYgexozK8BBNro6XLYvF...` |
 
 ### 🟢 honkermog
 - **Status:** open | **Exit:** open
-- **Peak:** 1.96x | **Current:** 1.84x
+- **Peak:** 1.96x | **Current:** 1.93x
 - **Mint:** `2Z5BMaPjri6gsK7i7LHDmdfQrkpV9kbkVnrsosvNpump`
 
 | Time | Action | SOL | TX |

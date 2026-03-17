@@ -1,5 +1,5 @@
 # [TEST] Wallet: `8ExfhudvYXtTkJwGsCunsbqX4CEWwUrU7TVzKSu1hYgY`
-> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 GEEKED
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.72x
+- **Peak:** 1.00x | **Current:** 0.56x
 - **Mint:** `SJDDbE4f5CzNQJJGhe1VW37abcvEvksxyJKoxX4pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 C-3PO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.88x | **Current:** 0.58x
+- **Peak:** 1.88x | **Current:** 0.40x
 - **Mint:** `Bx9j8xxt7C84kXsb5BFaWAfzhj72APgc2zX3Ka7Dpump`
 
 | Time | Action | SOL | TX |

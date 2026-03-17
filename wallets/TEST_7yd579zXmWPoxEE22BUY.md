@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 01:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -35,13 +35,14 @@
 | 2026-03-17 01:24:45 | SELL | 0.000039 | `3LnsjMou7T67jPYdRUZEswVKdt6DLk...` |
 
 ### 🟢 MATER
-- **Status:** open | **Exit:** open
-- **Peak:** 1.94x | **Current:** 1.69x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.21x | **Current:** 1.92x
 - **Mint:** `EXnczaT51NvfGQUdYmZ6Fm4zRW9Ttyrk9YrCLLGkpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:15:21 | BUY | 0.000100 | `4mVfKt2GbzBAKuFQaBzRdXCRP5gmvC...` |
+| 2026-03-17 01:47:11 | SELL | 0.000020 | `2V1wDTfQpPM7xEwsydH4sR1wGzEEdv...` |
 
 ### 🔴 chance
 - **Status:** closed | **Exit:** runner_trailing_stop

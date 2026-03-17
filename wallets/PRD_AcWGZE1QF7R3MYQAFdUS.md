@@ -1,16 +1,16 @@
 # [PRD] Wallet: `AcWGZE1QF7R3MYQAFdUS94ochkPCmekWuvSVS7eZVCLK`
-> Generated: 2026-03-17 01:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 01:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 4 |
-| Closed | 3 |
-| W/L | 0/3 |
-| SOL In (closed) | 0.450000 |
-| **Closed P&L** | **-0.175853 SOL** |
-| **Closed ROI** | **-39.1%** |
-| Open Deployed | 0.600000 SOL |
+| Open | 2 |
+| Closed | 5 |
+| W/L | 0/5 |
+| SOL In (closed) | 0.750000 |
+| **Closed P&L** | **-0.280947 SOL** |
+| **Closed ROI** | **-37.5%** |
+| Open Deployed | 0.300000 SOL |
 
 ## Trades
 
@@ -42,14 +42,15 @@
 |------|--------|-----|----|
 | 2026-03-16 21:27:18 | BUY | 0.150000 | `5oSR5VSdoYRxcEP5Ujkuctp8ZUwwdc...` |
 
-### 🟢 Ac7ionMan
-- **Status:** open | **Exit:** open
+### 🔴 Ac7ionMan
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.06x | **Current:** 0.00x
 - **Mint:** `7jUQDXVZNn3zKR5Sxqdg31WAr3HM5QAKqfbJwyyEpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 19:02:39 | BUY | 0.150000 | `2M25ReoTNK8hYSfcQLAPUfy1BKBeZN...` |
+| 2026-03-17 01:48:52 | SELL | 0.063755 | `26ba4Nzi5CA1iunr2jeB9kvcz4HUPN...` |
 
 ### 🟢 Ac7ionMan
 - **Status:** closed | **Exit:** runner_trailing_stop
@@ -62,14 +63,15 @@
 | 2026-03-16 18:54:32 | SELL | 0.034902 | `53tE8fV5CCYLbSopxHd5WMabgZVttk...` |
 | 2026-03-16 19:01:09 | SELL | 0.123041 | `5ZLm7GPCx1wAJfepg4qgEpkddPELXE...` |
 
-### 🟢 RELAPSE
-- **Status:** open | **Exit:** open
+### 🔴 RELAPSE
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.00x | **Current:** 0.00x
 - **Mint:** `8gRuzEvXQG9NRH6gAjSUDpVEjrssuTe2E7MRomT63p2u`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:47:09 | BUY | 0.150000 | `JWQ83abSqRW8psZwy73Jzvh1gkUFdS...` |
+| 2026-03-17 01:48:50 | SELL | 0.131151 | `4aisT5fQ8UFCFFkUhoXCJ7EdjpCzDt...` |
 
 ### 🔴 WWM
 - **Status:** closed | **Exit:** stop_loss
