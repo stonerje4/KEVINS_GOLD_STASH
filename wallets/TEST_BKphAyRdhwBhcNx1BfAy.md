@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 03:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 287 |
-| Open | 82 |
-| Closed | 205 |
-| W/L | 194/11 |
-| SOL In (closed) | 0.104000 |
-| **Closed P&L** | **+0.089178 SOL** |
-| **Closed ROI** | **+85.7%** |
-| Open Deployed | 0.029200 SOL |
+| Open | 81 |
+| Closed | 206 |
+| W/L | 195/11 |
+| SOL In (closed) | 0.104600 |
+| **Closed P&L** | **+0.089898 SOL** |
+| **Closed ROI** | **+85.9%** |
+| Open Deployed | 0.028600 SOL |
 
 ## Trades
 
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 6.56x | **Current:** 5.62x
+- **Peak:** 6.56x | **Current:** 4.83x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -211,7 +211,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.95x
+- **Peak:** 3.16x | **Current:** 2.97x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -728,7 +728,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.32x | **Current:** 3.84x
+- **Peak:** 4.32x | **Current:** 3.78x
 - **Mint:** `2fEFkySXEVJGXmHq6AVdnr5VX9rXwm9A77MD9aWVpump`
 
 | Time | Action | SOL | TX |
@@ -1007,7 +1007,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.43x
+- **Peak:** 1.80x | **Current:** 0.61x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -1074,7 +1074,7 @@
 
 ### 🟢 COFFEE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `DTWg1WskDdQ1tU6LjK9jVi6NEafHconMXyGJrRoDpump`
 
 | Time | Action | SOL | TX |
@@ -2058,7 +2058,7 @@
 
 ### 🟢 DRONE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.95x | **Current:** 2.89x
+- **Peak:** 2.95x | **Current:** 2.68x
 - **Mint:** `GBmawmE9jJvyYVbdgTdYi9NXsjWwR5EaytvkrRwcpump`
 
 | Time | Action | SOL | TX |
@@ -2242,8 +2242,8 @@
 | 2026-03-16 04:50:08 | SELL | 0.000290 | `2Dg4jME5YrGWecnWjmTNXc7SBnXXkw...` |
 
 ### 🟢 AOR
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.85x | **Current:** 3.61x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.85x | **Current:** 0.92x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -2251,6 +2251,7 @@
 | 2026-03-16 04:40:56 | BUY | 0.000600 | `53JE2Bdn4CLJPab2tWNdQJSnDKTJEB...` |
 | 2026-03-16 14:38:56 | SELL | 0.000122 | `53NLgmo5fKT8JtXgZvyuazubRg9SEz...` |
 | 2026-03-16 23:30:36 | SELL | 0.000159 | `3PHxh6UVSTXirQ9zxRr5M4kTDbodUy...` |
+| 2026-03-17 03:14:18 | SELL | 0.000440 | `5s8eZQpbyybQHGxRGshFPd5hpcs6qd...` |
 
 ### 🔴 TIERLIST
 - **Status:** closed | **Exit:** stop_loss

@@ -1,27 +1,28 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-17 03:10 UTC | Environment: **PRD**
+> Generated: 2026-03-17 03:15 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 35 |
-| Open | 6 |
-| Closed | 29 |
-| W/L | 6/23 |
-| SOL In (closed) | 3.980000 |
-| **Closed P&L** | **-0.760582 SOL** |
-| **Closed ROI** | **-19.1%** |
-| Open Deployed | 0.900000 SOL |
+| Open | 5 |
+| Closed | 30 |
+| W/L | 6/24 |
+| SOL In (closed) | 4.130000 |
+| **Closed P&L** | **-0.854546 SOL** |
+| **Closed ROI** | **-20.7%** |
+| Open Deployed | 0.750000 SOL |
 
 ## Trades
 
-### 🟢 TITAN
-- **Status:** open | **Exit:** open
+### 🔴 TITAN
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.12x | **Current:** 0.00x
 - **Mint:** `52RPRoC9bkRtuvaZRnYfkeTyPYv7L9PNXbbbhPxCpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 03:08:38 | BUY | 0.150000 | `2ykdseoMyDEK12Kktq6KVru4ZA4Lwq...` |
+| 2026-03-17 03:12:55 | SELL | 0.056036 | `2URxQGnbDcysG28jXEwAHCyDpuAUK4...` |
 
 ### 🟢 Clanker
 - **Status:** open | **Exit:** open

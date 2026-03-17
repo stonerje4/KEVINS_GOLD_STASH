@@ -1,41 +1,42 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 03:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 7 |
-| Open | 5 |
-| Closed | 2 |
-| W/L | 2/0 |
-| SOL In (closed) | 0.000700 |
-| **Closed P&L** | **+0.000339 SOL** |
-| **Closed ROI** | **+48.4%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 4 |
+| Closed | 3 |
+| W/L | 3/0 |
+| SOL In (closed) | 0.000800 |
+| **Closed P&L** | **+0.000427 SOL** |
+| **Closed ROI** | **+53.3%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
 ### 🟢 BITCOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 1.17x
+- **Peak:** 1.17x | **Current:** 0.48x
 - **Mint:** `GoiXEGSrUBCZhQH1d3cGaZ1TXtPWgdtx1fCcxS76pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 03:08:19 | BUY | 0.000100 | `4PhYe3RBbaQBdqix8S4ovuXk8UVGUg...` |
 
-### 🟢 GROKETTE
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.40x | **Current:** 0.96x
+### 🔴 GROKETTE
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.40x | **Current:** 0.73x
 - **Mint:** `65EgPvGQQgSofuuoUkx2xpWVPwMVVLpyFBL3GSSzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:38:19 | BUY | 0.000100 | `2dFYq2SButK3Uv9VYPxPzP1C4Pr5v6...` |
 | 2026-03-17 02:50:17 | SELL | 0.000022 | `21VW82hgRrP1yGNZhcinznDtMVQLFa...` |
+| 2026-03-17 03:10:49 | SELL | 0.000066 | `2858jiKbEbiGvVTeLZViRWR2uczYWk...` |
 
 ### 🟢 Hyojo
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.29x | **Current:** 1.55x
+- **Peak:** 2.29x | **Current:** 1.88x
 - **Mint:** `HfKNrf3VFYSzZfG3jS4pQEfjkHTxAwmD4wm1FUx8pump`
 
 | Time | Action | SOL | TX |

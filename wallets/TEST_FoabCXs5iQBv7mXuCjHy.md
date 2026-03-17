@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 03:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Qi
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.11x | **Current:** 2.09x
+- **Peak:** 3.11x | **Current:** 1.86x
 - **Mint:** `6D1hQ22C7oCUKKVuy91i8HTHnzSjsHCuNAcH9WH2pump`
 
 | Time | Action | SOL | TX |
