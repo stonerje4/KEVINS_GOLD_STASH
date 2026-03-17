@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.000200 |
 | **Closed P&L** | **+0.000231 SOL** |
 | **Closed ROI** | **+115.7%** |
-| Open Deployed | 0.002900 SOL |
+| Open Deployed | 0.003000 SOL |
 
 ## Trades
 
-### ⚪ TRASHBAG
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 TRASHBAG
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `BAeDU8aGHGkDmBam5jwRpd7ExKMrLEKxhf9XCsJpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 BEAR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.27x | **Current:** 0.57x
+- **Peak:** 1.27x | **Current:** 0.56x
 - **Mint:** `42bt6cMqCs1BKMybgFDi8MkkarxBScERvtFuyRA8pump`
 
 | Time | Action | SOL | TX |
@@ -88,7 +88,7 @@
 
 ### 🟢 EVIE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.30x | **Current:** 1.89x
+- **Peak:** 2.30x | **Current:** 2.10x
 - **Mint:** `ETZ5L4FYfkgXx5XAK7Vhvag9kirGJdpBAUJcue1Dpump`
 
 | Time | Action | SOL | TX |
@@ -107,7 +107,7 @@
 
 ### 🟢 AI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 1.04x
+- **Peak:** 1.06x | **Current:** 1.06x
 - **Mint:** `BPbVZ5oNbvWCrvBaGqEMZLNEVD6wKgMDRLCrJP7wpump`
 
 | Time | Action | SOL | TX |

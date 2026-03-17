@@ -1,22 +1,31 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 80 |
-| Open | 56 |
+| Total Positions | 81 |
+| Open | 57 |
 | Closed | 24 |
 | W/L | 13/11 |
 | SOL In (closed) | 0.021300 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+42.6%** |
-| Open Deployed | 0.019500 SOL |
+| Open Deployed | 0.019700 SOL |
 
 ## Trades
 
-### ⚪ BBX
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 Ω
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `Dp31qVwzPRpNWAt5UronXHCpjTW7jBGtBS4Hp2drpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:36:35 | BUY | 0.000100 | `4B7geGiFxjGvsEcPfwMvJ14b3UWEcH...` |
+
+### 🟢 BBX
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.98x
 - **Mint:** `5n9e4BNiyZ9yAyueaGr5isUSppj7DyX5vhdtcFyXpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `3kYTeKXEs8NyGq6wiAgi145Lpxk6mUYtRZu3nz7opump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.98x
 - **Mint:** `AZxrRCQ8Kc4WLD5yxE4MuAd3XvZ9dDfVGHL4LYUUpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +52,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `BBVEkonmxoDz97MfmnpKuVkaYriXwrzgJxrkpsqhpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +61,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `B6SWjYQfcY9ZTpJxmEjv1ZbgUVBLGTtJk1Z34kHpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +70,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `EDHw1TY5o9gF4ywVLHnxjjNoFSh6vRbQkDbZQwYzpump`
 
 | Time | Action | SOL | TX |

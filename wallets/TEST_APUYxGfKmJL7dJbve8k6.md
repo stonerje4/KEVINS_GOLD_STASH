@@ -1,22 +1,44 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 37 |
-| Open | 3 |
-| Closed | 34 |
-| W/L | 30/4 |
-| SOL In (closed) | 0.014400 |
-| **Closed P&L** | **+0.009520 SOL** |
-| **Closed ROI** | **+66.1%** |
-| Open Deployed | 0.000300 SOL |
+| Total Positions | 39 |
+| Open | 4 |
+| Closed | 35 |
+| W/L | 31/4 |
+| SOL In (closed) | 0.014500 |
+| **Closed P&L** | **+0.009554 SOL** |
+| **Closed ROI** | **+65.9%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
+### 🔴 GEEKED
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.34x
+- **Mint:** `6q9ph4k5tot5zuLaDFbgjWLDqTdazf4DKJarYjCxpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:38:01 | BUY | 0.000100 | `c59favjoUnCJ7e1uniDgNeCs9Kkt4g...` |
+| 2026-03-17 01:39:48 | SELL | 0.000034 | `2nDVgQ28LqoEiKmtatqx1mrFnMFuSc...` |
+
+### 🟢 GEEKED
+- **Status:** partial | **Exit:** open
+- **Peak:** 5.80x | **Current:** 5.80x
+- **Mint:** `9d8eLRNJtYjN53DMK6dznFLuTtB4fBhmRgkCD4Mpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:35:42 | BUY | 0.000100 | `pYYZvoNrXcm61QtzUbsUJBG5yJuceJ...` |
+| 2026-03-17 01:36:53 | SELL | 0.000021 | `4wyh9XVidqzBXUqLFYDpmLQ5pLjwpB...` |
+| 2026-03-17 01:38:37 | SELL | 0.000028 | `5m966zkXqm22zGwYXttp5GDeunc1HH...` |
+| 2026-03-17 01:39:44 | SELL | 0.000047 | `kAqHzUktFcxAWbwdhVddUg8iU7bALg...` |
+
 ### 🟢 ORC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.60x
 - **Mint:** `9XqeTKFq4wVgXspM6bo2rinrT1iAg1Xwj6798hDNpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 $$$
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.69x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `6hnvpyBq7E39cySxPWWjZ9pbigihN4MwLgYeUaX5pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 LKY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.33x | **Current:** 1.33x
+- **Peak:** 1.73x | **Current:** 1.54x
 - **Mint:** `Eqg6zM2M3xnkbhEbiqLAozPQuVgTi9bzJFWDtugqpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 CHOPPER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.54x
+- **Peak:** 1.00x | **Current:** 0.53x
 - **Mint:** `2WpTMwM5VzQJHeTaVEbSMuuQJyZcH4Mrv8H3oDDfpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 WAVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.51x | **Current:** 1.51x
+- **Peak:** 1.51x | **Current:** 1.47x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -100,7 +100,7 @@
 
 ### 🟢 Monke
 - **Status:** open | **Exit:** open
-- **Peak:** 1.88x | **Current:** 1.65x
+- **Peak:** 1.88x | **Current:** 1.63x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

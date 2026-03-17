@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
-> Generated: 2026-03-17 01:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CSEC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.62x | **Current:** 0.54x
+- **Peak:** 1.62x | **Current:** 0.52x
 - **Mint:** `A47JBHAugnH496Af5jgUQQQs89DPs6EFHRaoxGjipump`
 
 | Time | Action | SOL | TX |
