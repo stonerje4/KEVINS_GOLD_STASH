@@ -1,22 +1,31 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 19 |
-| Open | 18 |
+| Total Positions | 20 |
+| Open | 19 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.001800 SOL |
+| Open Deployed | 0.001900 SOL |
 
 ## Trades
 
+### 🟢 BATTLE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.66x | **Current:** 1.34x
+- **Mint:** `41Ro9syNfd3CRKjSGvCk5iaXpyb557k1ACHUEDUEpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:25:28 | BUY | 0.000100 | `47bS1btfHzvXNMP7dGLXCCRLTPxUEm...` |
+
 ### 🟢 ANMOO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `2uEXkJ7dJVicgNXGn1ryPw2H4eqDL6CvtmL8tK6Kpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 BDH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.86x
+- **Peak:** 1.01x | **Current:** 0.87x
 - **Mint:** `Aqo81fep1rS4kAWNidSm5qZwa33kPebLNZZdXoJZpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +61,7 @@
 
 ### 🟢 Nyctimene
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 0.47x
+- **Peak:** 1.50x | **Current:** 0.44x
 - **Mint:** `BZsediCfyToyZkSPD5HBadRXUxEVhWkSKceZExvSpump`
 
 | Time | Action | SOL | TX |
@@ -124,7 +133,7 @@
 
 ### 🟢 ROCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.10x
+- **Peak:** 1.10x | **Current:** 1.09x
 - **Mint:** `2ByUr3vxL8uZnCoof1AW3Pi4yiyarVFBFDRCyjaNpump`
 
 | Time | Action | SOL | TX |

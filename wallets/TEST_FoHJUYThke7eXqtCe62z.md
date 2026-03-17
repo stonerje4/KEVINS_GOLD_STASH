@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -24,13 +24,14 @@
 | 2026-03-17 00:20:30 | BUY | 0.000100 | `5E9mLzG3brid47KMiMhBig7pwrf8Pg...` |
 
 ### 🟢 Toucan
-- **Status:** open | **Exit:** open
-- **Peak:** 1.68x | **Current:** 1.67x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.09x | **Current:** 1.79x
 - **Mint:** `G4sZfYPw1XLFoxi5pARG9g7upWaJab3x9SW9ZCZXpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:11:38 | BUY | 0.000100 | `46h9YEy6fUcJ6eutsqzS78gTQb5VAx...` |
+| 2026-03-17 00:28:27 | SELL | 0.000021 | `3jPrGMC6wyexmxYbWmUyUXaB7WHycQ...` |
 
 ### 🟢 Builderz
 - **Status:** open | **Exit:** open
@@ -52,7 +53,7 @@
 
 ### 🟢 goon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.92x
+- **Peak:** 1.01x | **Current:** 0.84x
 - **Mint:** `8BAZVgXTtrYQn8zT4raxprRwiHTVdYcKpF36nxUcpump`
 
 | Time | Action | SOL | TX |

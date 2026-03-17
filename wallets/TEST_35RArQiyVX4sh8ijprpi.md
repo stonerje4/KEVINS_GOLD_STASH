@@ -1,18 +1,27 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 2 |
+| Total Positions | 6 |
+| Open | 3 |
 | Closed | 3 |
 | W/L | 3/0 |
 | SOL In (closed) | 0.000800 |
 | **Closed P&L** | **+0.000334 SOL** |
 | **Closed ROI** | **+41.7%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### 🟢 CLAWDIS
+- **Status:** open | **Exit:** open
+- **Peak:** 1.12x | **Current:** 1.12x
+- **Mint:** `2yDL2okKMtkxtSomVWVfr6Y8JDBuidRX3e4Qx8hBBAGS`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:25:03 | BUY | 0.000100 | `3Uy6hjRfguGsThtjDNabVd2SLRQndP...` |
 
 ### 🔴 LUCKY
 - **Status:** closed | **Exit:** ghost_close_stop_loss

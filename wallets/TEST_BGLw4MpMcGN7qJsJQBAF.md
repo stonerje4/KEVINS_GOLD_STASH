@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BGLw4MpMcGN7qJsJQBAFzfBudXgaUtnczFCxrrpCHq8P`
-> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Rat
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.02x | **Current:** 0.72x
 - **Mint:** `Ag1yT2SkPWDaHe8bX9KRFfySrDAB3q6vXX5HXcx7pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 Agent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.84x
+- **Peak:** 1.02x | **Current:** 0.82x
 - **Mint:** `CMrERcgujw356Q7kUq6JHoogzEPMDpNNnvE81pC5pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 UNSW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.30x | **Current:** 1.23x
+- **Peak:** 1.35x | **Current:** 1.21x
 - **Mint:** `Fpckub6J1WMSJctyJJgsXVJcQbUXa4HsJbrF783Epump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 MiroFish
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 0.93x
+- **Peak:** 1.34x | **Current:** 0.96x
 - **Mint:** `9vbovDf4rgasuPUw7CZDW8ekoJpo3R4SrohQK8aQpump`
 
 | Time | Action | SOL | TX |

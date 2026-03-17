@@ -1,28 +1,29 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 1 |
-| Closed | 3 |
-| W/L | 3/0 |
-| SOL In (closed) | 0.001300 |
-| **Closed P&L** | **+0.001441 SOL** |
-| **Closed ROI** | **+110.9%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 4 |
+| W/L | 4/0 |
+| SOL In (closed) | 0.001400 |
+| **Closed P&L** | **+0.001515 SOL** |
+| **Closed ROI** | **+108.2%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 chance
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.35x | **Current:** 1.25x
+### 🔴 chance
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.35x | **Current:** 0.55x
 - **Mint:** `8DJckLTVzCy7u3afeydFXYZGkffiw7HeZ8ujxDRZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:48:17 | BUY | 0.000100 | `PMfvSZnxLZgzvNnfcYeMdBLQaLqoth...` |
 | 2026-03-16 23:52:46 | SELL | 0.000024 | `6tWSx8CAyGGTiucLZacmrDX57zueJ3...` |
+| 2026-03-17 00:27:27 | SELL | 0.000050 | `5RZ1pnRTixjwdJK3XXqV1bDPHJxNdc...` |
 
 ### 🟢 COW
 - **Status:** closed | **Exit:** runner_trailing_stop

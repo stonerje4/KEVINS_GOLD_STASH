@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 goldfish
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.94x
+- **Peak:** 1.04x | **Current:** 0.93x
 - **Mint:** `8f8u3MCAZU3cLoKWyqJkaEKRHC2XmhoQDSBpBMynpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 WRT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.85x
+- **Peak:** 1.09x | **Current:** 0.93x
 - **Mint:** `49R3X2iizoRLyXZBkJLudwzhgPi3AaP2GH69jkRLpump`
 
 | Time | Action | SOL | TX |
@@ -278,7 +278,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.83x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |

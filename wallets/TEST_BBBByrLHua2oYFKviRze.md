@@ -1,22 +1,40 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 95 |
-| Open | 28 |
+| Total Positions | 97 |
+| Open | 30 |
 | Closed | 67 |
 | W/L | 65/2 |
 | SOL In (closed) | 0.030200 |
 | **Closed P&L** | **+0.024792 SOL** |
 | **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.003800 SOL |
+| Open Deployed | 0.004000 SOL |
 
 ## Trades
 
+### 🟢 ZOE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.31x | **Current:** 1.31x
+- **Mint:** `FNwTAxE8vevh9BB85KVZab85a4aFyQHF3u3pFaqTpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:28:58 | BUY | 0.000100 | `4WXYHXoVJgw8FjnUjLyuxtkNzGid5A...` |
+
+### 🟢 nageon
+- **Status:** open | **Exit:** open
+- **Peak:** 1.20x | **Current:** 1.08x
+- **Mint:** `3G1uRFiiJukMC8F6hftMxUzJiQp4mgHbSZBK94Gapump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:27:44 | BUY | 0.000100 | `3N6kYpZ2mvwzSzUpmLPhZCvFFtaK69...` |
+
 ### 🟢 pippin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.56x
+- **Peak:** 1.00x | **Current:** 0.55x
 - **Mint:** `A7xCRrweNWYryVgToAjDjYw4nhApfWUgMxFH7tTfpump`
 
 | Time | Action | SOL | TX |
@@ -433,7 +451,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.74x
+- **Peak:** 1.74x | **Current:** 0.75x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

@@ -1,10 +1,10 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 101 |
-| Open | 19 |
+| Total Positions | 102 |
+| Open | 20 |
 | Closed | 82 |
 | W/L | 81/1 |
 | SOL In (closed) | 0.036200 |
@@ -14,18 +14,28 @@
 
 ## Trades
 
+### ⚪ Monke
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:30:01 | BUY | 0.000100 | `46prXQaYTqB29vGCaLs5YxvAHCT1rs...` |
+
 ### 🟢 Zero
-- **Status:** open | **Exit:** open
-- **Peak:** 1.37x | **Current:** 1.37x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.44x | **Current:** 2.44x
 - **Mint:** `7gVGRq4EYWeaFiS9ynpxj9yiHKL5k8GT5FRMx3w7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:15:54 | BUY | 0.000100 | `3iJfUy7EGC2sbsa4ZigmwCfKmhhKQq...` |
+| 2026-03-17 00:29:55 | SELL | 0.000025 | `2p885FrvpFokjtRFZ8UEaJciXJSxUi...` |
 
 ### 🟢 CLUDSTAR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 0.46x
+- **Peak:** 1.23x | **Current:** 0.45x
 - **Mint:** `2iU4cQvPD3n1HGXX2phTSHzSGU5syz3UTzbMYcRBpump`
 
 | Time | Action | SOL | TX |

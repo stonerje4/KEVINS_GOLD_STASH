@@ -1,4 +1,4 @@
-# [TEST] Wallet: `E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`
+# [TEST] Wallet: `cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem`
 > Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 MiniME
+### 🟢 AGI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.93x
-- **Mint:** `891CPWxhcfwXXPdhu9pn3iTc9JpwsCBFAappoybCpump`
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `74DUiy4ziySrM4A8oxUUm37q2zRJkczp89p9Bwupump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-17 00:04:16 | BUY | 0.000100 | `3pu2ikZVHtBU17isA9Nd2hLFbgGFp4...` |
+| 2026-03-17 00:29:22 | BUY | 0.000100 | `3hic24sdEfnmPFeXG255sKYbB2JCMf...` |
 

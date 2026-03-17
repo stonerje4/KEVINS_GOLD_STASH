@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 00:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -159,7 +159,7 @@
 
 ### 🟢 RLFG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 0.57x
+- **Peak:** 1.66x | **Current:** 0.56x
 - **Mint:** `CCZ82whciPVkMdUj3Uqn4TX76F6BZ7rEstWHUEKwpump`
 
 | Time | Action | SOL | TX |
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.02x | **Current:** 2.97x
+- **Peak:** 3.10x | **Current:** 3.01x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -210,7 +210,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.43x | **Current:** 2.41x
+- **Peak:** 2.43x | **Current:** 2.39x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -435,7 +435,7 @@
 
 ### 🟢 SRI RAKUM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.82x | **Current:** 0.62x
+- **Peak:** 1.82x | **Current:** 0.61x
 - **Mint:** `9tHZjux5MqAGpPztGJTUVSoWJK8H48kSQr7y8ndVpump`
 
 | Time | Action | SOL | TX |
@@ -746,7 +746,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.20x
+- **Peak:** 3.16x | **Current:** 2.18x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1005,7 +1005,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.44x
+- **Peak:** 1.80x | **Current:** 0.43x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -1465,7 +1465,7 @@
 
 ### 🟢 MRLOOT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 1.39x
+- **Peak:** 1.56x | **Current:** 1.38x
 - **Mint:** `GqCnBbpCDbguey17FFD6BRk7LkAJ8Nok4FmfwgTCpump`
 
 | Time | Action | SOL | TX |
@@ -2239,7 +2239,7 @@
 
 ### 🟢 AOR
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.47x | **Current:** 3.47x
+- **Peak:** 3.47x | **Current:** 3.46x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
