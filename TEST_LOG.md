@@ -1,8 +1,22 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:40 UTC** | 7d | 1618 buys, 2074 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:45 UTC** | 7d | 1629 buys, 2077 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:45 | 🟢 BUY | Shikano | 0.0001 | BBBByrLH... | copy_buy | `5N8KcmFxBL3D...` |
+| 03-17 | 19:44 | 🔴 SELL | GARLIC | 0.0000 | Lfw99jsE... | SL | `4njcxRWY1AZt...` |
+| 03-17 | 19:44 | 💰 SELL | PHIL | 0.0001 | GvksYkES... | TP2 | `5ttJfAdUTVAN...` |
+| 03-17 | 19:44 | 💰 SELL | EXPO | 0.0001 | Gdd86j2T... | trail | `5yczNoXoSwmr...` |
+| 03-17 | 19:44 | 🟢 BUY | ONIONS | 0.0001 | bocsoUiM... | copy_buy | `76y6XrctFKbu...` |
+| 03-17 | 19:43 | 🟢 BUY | TSG | 0.0001 | 35RArQiy... | copy_buy | `3aNVguLXWWsv...` |
+| 03-17 | 19:43 | 🟢 BUY | FUD | 0.0001 | BBBByrLH... | copy_buy | `Mn1wcTvstumC...` |
+| 03-17 | 19:42 | 🟢 BUY | LCM | 0.0001 | Lfw99jsE... | copy_buy | `X6LF9xmM8CqN...` |
+| 03-17 | 19:41 | 🟢 BUY | GARLIC | 0.0001 | Lfw99jsE... | copy_buy | `4YsAaNEvPRWU...` |
+| 03-17 | 19:41 | 🟢 BUY | Foodrot | 0.0001 | GHy1P6vJ... | copy_buy | `44Dxn8YiKzZv...` |
+| 03-17 | 19:41 | 🟢 BUY | reCAPTCHA  | 0.0001 | Lfw99jsE... | copy_buy | `4TsSqswm5Rnf...` |
+| 03-17 | 19:41 | 🟢 BUY | Ancestors | 0.0001 | Lfw99jsE... | copy_buy | `Pyycm2NfnUzh...` |
+| 03-17 | 19:40 | 🟢 BUY | NIGEL | 0.0001 | 35RArQiy... | copy_buy | `24sQWUnJi8qm...` |
+| 03-17 | 19:40 | 🟢 BUY | OLIVES | 0.0001 | Lfw99jsE... | copy_buy | `66Q1Yo9dDGoC...` |
 | 03-17 | 19:39 | 🔴 SELL | Éire | 0.0000 | 35RArQiy... | SL | `2ceTKXmVgi5q...` |
 | 03-17 | 19:39 | 🟢 BUY | PEPITO | 0.0001 | Lfw99jsE... | copy_buy | `4h7nBaAQYFoh...` |
 | 03-17 | 19:39 | 🟢 BUY | ASTER | 0.0001 | BGGJhxGX... | copy_buy | `2aEzU3DdKBAM...` |
