@@ -1,22 +1,22 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 08:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 108 |
-| Open | 35 |
-| Closed | 73 |
-| W/L | 70/3 |
-| SOL In (closed) | 0.030800 |
+| Open | 34 |
+| Closed | 74 |
+| W/L | 70/4 |
+| SOL In (closed) | 0.030900 |
 | **Closed P&L** | **+0.025748 SOL** |
-| **Closed ROI** | **+83.6%** |
-| Open Deployed | 0.004500 SOL |
+| **Closed ROI** | **+83.3%** |
+| Open Deployed | 0.004400 SOL |
 
 ## Trades
 
-### 🟢 BRAIN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.41x
+### 🔴 BRAIN
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.13x | **Current:** 0.38x
 - **Mint:** `2HTfaUQijVGFDAyTwJVAm6rXPSeh8ifdgV3XzeAXpump`
 
 | Time | Action | SOL | TX |

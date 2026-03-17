@@ -1,5 +1,5 @@
 # [TEST] Wallet: `45J68KxLV4izQXbY64gJr8YP4jfxGSvHFQwoDfBGxFg9`
-> Generated: 2026-03-17 08:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,13 +16,14 @@
 
 ### 🟢 HAIKUU
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.80x | **Current:** 2.80x
+- **Peak:** 3.02x | **Current:** 3.02x
 - **Mint:** `6TVFJ2HrZ9h9y9q362R91MffJxmrXPbrDLSDFbF3pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 03:32:32 | BUY | 0.000100 | `rdQzmATimnhXUnxYRpHAD3swacs9jV...` |
 | 2026-03-17 07:02:00 | SELL | 0.000020 | `3VDHWUcuLw3u7555RtTVncS4wAjLR7...` |
+| 2026-03-17 08:14:32 | SELL | 0.000027 | `JJKv9QBxXR3HpkytrULCf1R2zmbf8y...` |
 
 ### 🟢 SHOWMORE
 - **Status:** open | **Exit:** open
