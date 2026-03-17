@@ -1,10 +1,11 @@
 # [TEST] `CT8wxJuPjSYzkXpF...`
-> 2026-03-17 16:10 UTC | **7** pos | **0W/6L** | P&L: **-0.000519 SOL** (-86.6%) | 1 open
+> 2026-03-17 16:15 UTC | **8** pos | **0W/6L** | P&L: **-0.000519 SOL** (-86.6%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
+| VanityFair | 03-17 16:11 | 0.69x | 1.00x | 0.1h | 0.0001 |
 | LULU | 03-17 13:54 | 0.00x | 1.00x | 2.3h | 0.0001 |
 
 ## Closed
@@ -22,6 +23,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:11 | VanityFair | BUY | 0.0001 | `2XGjUQq4ehzecD1j...` |
 | 03-17 13:54 | LULU | BUY | 0.0001 | `4gtwNs1YNsW9uJkr...` |
 | 03-17 03:56 | VICE | SELL | 0.0000 | `2SMT5au8z65cPbAw...` |
 | 03-17 03:55 | VICE | BUY | 0.0001 | `2sTcRkFXHYFhH8Sd...` |

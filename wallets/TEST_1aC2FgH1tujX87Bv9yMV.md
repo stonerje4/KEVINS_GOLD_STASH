@@ -1,5 +1,11 @@
 # [TEST] `1aC2FgH1tujX87Bv...`
-> 2026-03-17 16:10 UTC | **6** pos | **0W/6L** | P&L: **-0.000529 SOL** (-88.2%) | 0 open
+> 2026-03-17 16:15 UTC | **7** pos | **0W/6L** | P&L: **-0.000529 SOL** (-88.2%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| FAITH | 03-17 16:12 | 0.75x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -16,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:12 | FAITH | BUY | 0.0001 | `ZTJjvbj3Ji9Rcw8c...` |
 | 03-17 10:13 | BULLY | SELL | 0.0000 | `5zk7cFdpbAwP2Uhu...` |
 | 03-17 10:09 | BULLY | BUY | 0.0001 | `5G3Z8krvPXueYs5B...` |
 | 03-17 10:07 | TJR | SELL | 0.0000 | `57z7LRbbePpe6K8T...` |

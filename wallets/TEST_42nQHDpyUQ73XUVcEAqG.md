@@ -1,5 +1,11 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-17 16:10 UTC | **21** pos | **3W/18L** | P&L: **+0.001539 SOL** (+42.7%) | 0 open
+> 2026-03-17 16:15 UTC | **22** pos | **3W/18L** | P&L: **+0.001539 SOL** (+42.7%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| PatCoin | 03-17 16:10 | 1.09x | 1.14x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -31,6 +37,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:10 | PatCoin | BUY | 0.0001 | `WaPcL6pc3MUEcK7k...` |
 | 03-17 15:02 | DLSSELON | SELL | 0.0000 | `4ZZFLVHqFdntbuQm...` |
 | 03-17 14:41 | DLSSELON | SELL | 0.0000 | `39t9XcvUKcmKW9SC...` |
 | 03-17 14:17 | DLSSELON | SELL | 0.0000 | `5DNGXz2zeY9ezByn...` |

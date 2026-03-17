@@ -1,11 +1,11 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-17 16:10 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 16:15 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| HEISEI | 03-17 15:56 | 0.58x | 1.00x | 0.2h | 0.0001 |
+| HEISEI | 03-17 15:56 | 0.66x | 1.00x | 0.3h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

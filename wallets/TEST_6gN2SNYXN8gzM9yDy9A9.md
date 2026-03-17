@@ -1,5 +1,11 @@
 # [TEST] `6gN2SNYXN8gzM9yD...`
-> 2026-03-17 16:10 UTC | **10** pos | **1W/9L** | P&L: **-0.001044 SOL** (-41.8%) | 0 open
+> 2026-03-17 16:15 UTC | **11** pos | **1W/9L** | P&L: **-0.001044 SOL** (-41.8%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BOLDY | 03-17 16:12 | 0.94x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +26,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:12 | BOLDY | BUY | 0.0001 | `3oQS5Pb15XiX9YeM...` |
 | 03-17 04:21 | BITCOIN | BUY | 0.0001 | `ke9HkzWRMF3YD6N3...` |
 | 03-17 00:58 | CSEC | BUY | 0.0001 | `Dz1qwP6p8vCRsPMu...` |
 | 03-16 23:50 | Solitude | BUY | 0.0001 | `2rU2rYbhVnqiWVjP...` |
