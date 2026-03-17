@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 10:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.49x | **Current:** 4.94x
+- **Peak:** 7.49x | **Current:** 3.59x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +212,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.89x | **Current:** 2.81x
+- **Peak:** 3.89x | **Current:** 2.80x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -1419,7 +1419,7 @@
 
 ### 🟢 Jorge
 - **Status:** open | **Exit:** open
-- **Peak:** 1.98x | **Current:** 1.13x
+- **Peak:** 1.98x | **Current:** 0.99x
 - **Mint:** `3S1NxQXfKmfL4szqJnPS3N8GpA35ncqBdrU4rrAPpump`
 
 | Time | Action | SOL | TX |
@@ -1676,7 +1676,7 @@
 
 ### 🟢 Wooper
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.80x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `EJYZgNhLjei8p2nSbpdAocreSfF2KTn6BPvQYeFwpump`
 
 | Time | Action | SOL | TX |
@@ -1965,7 +1965,7 @@
 
 ### 🟢 JOBLESS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.69x
+- **Peak:** 1.21x | **Current:** 0.68x
 - **Mint:** `CYiLgAGeAnMcMHMRhJfj5K3dxNY42Naff27uhPEbpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 10:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 CHEETO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.00x
+- **Peak:** 1.23x | **Current:** 1.01x
 - **Mint:** `3e6Qj7JPXc2FfgoU3Q7axKDuKwHGK5ajPFi4ouxbpump`
 
 | Time | Action | SOL | TX |
@@ -124,7 +124,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 1.17x
+- **Peak:** 1.17x | **Current:** 1.13x
 - **Mint:** `5n9e4BNiyZ9yAyueaGr5isUSppj7DyX5vhdtcFyXpump`
 
 | Time | Action | SOL | TX |
@@ -561,7 +561,7 @@
 
 ### 🟢 TD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `HvtsgZrABY8uvcMCKg6Kd9y2RXr8pandJHRNBQYBpump`
 
 | Time | Action | SOL | TX |
@@ -627,7 +627,7 @@
 
 ### 🟢 DUCKEXE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.87x
+- **Peak:** 1.03x | **Current:** 0.86x
 - **Mint:** `C7jJapMdeqZUuQsne1eyqCqmee9GnxRRhpg7tLgPpump`
 
 | Time | Action | SOL | TX |
@@ -683,7 +683,7 @@
 
 ### 🟢 METALHEADS
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.83x
+- **Peak:** 1.12x | **Current:** 0.82x
 - **Mint:** `GpETVRSoR49Ez1hgpLsmX85DnEBiLvMyTfBDQdnkjkpQ`
 
 | Time | Action | SOL | TX |
