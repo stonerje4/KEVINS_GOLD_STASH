@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 12:50 UTC** | 7d | 1278 buys, 1815 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 12:55 UTC** | 7d | 1280 buys, 1816 sells | In: **0.46** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 12:54 | 🟢 BUY | Viktor | 0.0001 | otq3sTTS... | copy_buy | `T7YAJcVt71eK...` |
+| 03-17 | 12:52 | 🟢 BUY | BUDGIE | 0.0001 | AJ8Gc1cY... | copy_buy | `72qTGtH6dSmi...` |
+| 03-17 | 12:51 | 🔴 SELL | SAM | 0.0000 | EaEf6TH8... | SL | `3J7m49LLX6vG...` |
 | 03-17 | 12:48 | 💰 SELL | $GENIUS | 0.0000 | FoabCXs5... | TP2 | `5VcchBbgKPAo...` |
 | 03-17 | 12:47 | 🟢 BUY | StElon | 0.0001 | BDe7kU3V... | copy_buy | `2u7UnGFZf3fw...` |
 | 03-17 | 12:47 | 💰 SELL | $GENIUS | 0.0000 | FoabCXs5... | TP1 | `3pKXtH4XC5T1...` |

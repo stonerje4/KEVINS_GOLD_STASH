@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 12:50 UTC** | 7d | 675 buys, 917 sells | In: **78.88** | Out: **78.50** | Net: **-0.38 SOL**
+> Updated: **2026-03-17 12:55 UTC** | 7d | 677 buys, 917 sells | In: **79.18** | Out: **78.50** | Net: **-0.68 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 12:51 | 🟢 BUY | MULE | 0.1500 | 42nQHDpy... | copy | `4H75wcDvp9Kv...` |
+| 03-17 | 12:51 | 🟢 BUY | AEX402 | 0.1500 | 42nQHDpy... | copy | `5CwG6tjPmvJP...` |
 | 03-17 | 12:42 | 🔴 SELL | USDC | 0.1489 | DHfshpzo... | stale | `4kWCSVbFtAQa...` |
 | 03-17 | 12:40 | 💰 SELL | kekkek | 0.0480 | W5D6nFHP... | TP2 | `4A5ikHUaw3Xu...` |
 | 03-17 | 12:38 | 🟢 BUY | xAU | 0.1500 | DHfshpzo... | copy | `4fi246ZaUL6h...` |

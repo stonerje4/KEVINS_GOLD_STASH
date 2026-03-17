@@ -1,5 +1,11 @@
 # [TEST] `otq3sTTS5gDgbg6s...`
-> 2026-03-17 12:50 UTC | **58** pos | **2W/56L** | P&L: **-0.016205 SOL** (-65.3%) | 0 open
+> 2026-03-17 12:55 UTC | **59** pos | **2W/56L** | P&L: **-0.016205 SOL** (-65.3%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Viktor | 03-17 12:54 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -68,6 +74,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:54 | Viktor | BUY | 0.0001 | `T7YAJcVt71eKs4AQ...` |
 | 03-17 09:54 | BMAP | SELL | 0.0001 | `2Tx4GgAKH2W2L71x...` |
 | 03-17 09:11 | AICOIN | BUY | 0.0001 | `4z2njGCYzJjzbJ8M...` |
 | 03-17 08:53 | BMAP | SELL | 0.0001 | `27jjWf56FLbXfH4c...` |
@@ -87,15 +94,15 @@
 | 03-16 23:19 | THINK | BUY | 0.0001 | `3UZbZjFS2q3cBM5h...` |
 | 03-16 23:19 | Papua | SELL | 0.0001 | `8Q1yoT61e4Kk4ivu...` |
 | 03-16 23:19 | URCHIN | SELL | 0.0001 | `2hX8kzy5C9A1aVGX...` |
-| 03-16 18:55 | PROXY | SELL | 0.0005 | `?` |
-| 03-16 18:55 | UDC | SELL | 0.0005 | `?` |
+| 03-16 18:55 | OG | SELL | 0.0005 | `?` |
 | 03-16 18:55 | bizfun | SELL | 0.0005 | `?` |
+| 03-16 18:55 | ZEBRA | SELL | 0.0005 | `?` |
+| 03-16 18:55 | UDC | SELL | 0.0005 | `?` |
+| 03-16 18:55 | FOOD | SELL | 0.0005 | `?` |
+| 03-16 18:55 | PROXY | SELL | 0.0005 | `?` |
+| 03-16 18:55 | WOOPA | SELL | 0.0005 | `?` |
 | 03-16 18:55 | PIGEON | SELL | 0.0005 | `?` |
 | 03-16 18:55 | HBB | SELL | 0.0005 | `?` |
-| 03-16 18:55 | WOOPA | SELL | 0.0005 | `?` |
-| 03-16 18:55 | OG | SELL | 0.0005 | `?` |
-| 03-16 18:55 | ZEBRA | SELL | 0.0005 | `?` |
-| 03-16 18:55 | FOOD | SELL | 0.0005 | `?` |
 | 03-16 18:01 | RICH | BUY | 0.0001 | `2KjoEBgyuQVMKBHu...` |
 | 03-16 17:59 | WRT | BUY | 0.0001 | `24QLAf8ce2oEuuxw...` |
 | 03-16 17:45 | ABBAS  | BUY | 0.0001 | `GYPsrJqgdKw23UkY...` |
