@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 19:20 UTC** | 7d | 729 buys, 967 sells | In: **89.18** | Out: **82.90** | Net: **-6.28 SOL**
+> Updated: **2026-03-17 19:25 UTC** | 7d | 729 buys, 969 sells | In: **89.18** | Out: **83.58** | Net: **-5.60 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:24 | 💰 SELL | reCAPTCHA | 0.4478 | 2w85VLX4... | trail | `2Qdse2No31Kq...` |
+| 03-17 | 19:23 | 💰 SELL | reCAPTCHA | 0.0910 | 2w85VLX4... | TP3 | `Eq79qkXty3d6...` |
+| 03-17 | 19:22 | 💰 SELL | reCAPTCHA | 0.1236 | 2w85VLX4... | TP2 | `54cfrhAXRoNM...` |
+| 03-17 | 19:21 | 💰 SELL | reCAPTCHA | 0.1056 | 2w85VLX4... | TP1 | `fpcFuGJZ45PK...` |
 | 03-17 | 19:18 | 🟢 BUY | reCAPTCHA | 0.1500 | 2w85VLX4... | copy | `2DVotaEpqT1x...` |
 | 03-17 | 19:18 | 🔴 SELL | 401k | 0.1220 | 4rsj2xh5... | trail | `2h72Lj3aQ2rp...` |
 | 03-17 | 19:09 | 🟢 BUY | Doodle | 0.1500 | 3HGqppv8... | copy | `5iCSdopNvxif...` |
@@ -1697,5 +1701,3 @@
 | 03-10 | 19:51 | 🟢 BUY | ZOO | 0.0500 | 8QfqdUJt... | copy | `2j7euMWPzt52...` |
 | 03-10 | 19:44 | 💰 SELL | AuPair | 0.0512 | HMM6RoT2... | TP1 | `5AkXsfwRMC3K...` |
 | 03-10 | 19:33 | 🟢 BUY | ThumbYeti | 0.0500 | EyXjj7JM... | copy | `3K1qNiBnymUD...` |
-| 03-10 | 19:21 | 💰 SELL | Cardboard | 0.0555 | 7aMgK5L4... | TP3 | `4GBRaDBTrUKD...` |
-| 03-10 | 19:20 | 💰 SELL | Cardboard | 0.0353 | 7aMgK5L4... | TP2 | `3ehz2EVNe4gL...` |

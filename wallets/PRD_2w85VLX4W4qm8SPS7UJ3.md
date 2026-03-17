@@ -1,18 +1,18 @@
 # [PRD] `2w85VLX4W4qm8SPS...`
-> 2026-03-17 19:20 UTC | **45** pos | **17W/25L** | P&L: **+1.821058 SOL** (+37.7%) | 3 open
+> 2026-03-17 19:25 UTC | **45** pos | **18W/25L** | P&L: **+2.439039 SOL** (+49.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| reCAPTCHA | 03-17 19:18 | 0.00x | 1.34x | 0.0h | 0.1500 |
 | ? | 03-17 18:34 | 0.00x | 1.86x | 0.8h | 0.1500 |
-| ANCESTORS | 03-17 11:37 | 0.00x | 1.92x | 7.7h | 0.1500 |
+| ANCESTORS | 03-17 11:37 | 0.00x | 1.92x | 7.8h | 0.1500 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ✅ reCAPTCHA | +0.6180 | 03-17 19:18 | 7.4x | 03-17 19:24 | 0.7680/0.1500 | trail |
 | ✅ #FIRING | +0.3243 | 03-17 18:31 | 3.8x | 03-17 18:52 | 0.4743/0.1500 | trail |
 | ❌ TOKEN | -0.0955 | 03-17 14:49 | 1.0x | 03-17 15:23 | 0.0545/0.1500 | SL |
 | ❌ Rizzbot | -0.0911 | 03-17 13:56 | 1.0x | 03-17 14:01 | 0.0589/0.1500 | SL |
@@ -60,6 +60,10 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:24 | reCAPTCHA | SELL | 0.4478 | `2Qdse2No31KqGeUP...` |
+| 03-17 19:23 | reCAPTCHA | SELL | 0.0910 | `Eq79qkXty3d6ucLP...` |
+| 03-17 19:22 | reCAPTCHA | SELL | 0.1236 | `54cfrhAXRoNMF4zX...` |
+| 03-17 19:21 | reCAPTCHA | SELL | 0.1056 | `fpcFuGJZ45PKPsoR...` |
 | 03-17 19:18 | reCAPTCHA | BUY | 0.1500 | `2DVotaEpqT1xCDbj...` |
 | 03-17 19:06 | ? | SELL | 0.1091 | `2Vd2BaWrkQLeS2DU...` |
 | 03-17 18:52 | #FIRING | SELL | 0.2241 | `3WF9JmjS419zsVdj...` |

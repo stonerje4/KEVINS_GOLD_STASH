@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:20 UTC** | 7d | 1604 buys, 2064 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:25 UTC** | 7d | 1605 buys, 2067 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:23 | 💰 SELL | QORM  | 0.0001 | FoHJUYTh... | TP1 | `7L9h2L6n9GqS...` |
+| 03-17 | 19:22 | 🔴 SELL | ÉIRE | 0.0001 | AiNfNi2e... | trail | `3D51XTstdKGd...` |
+| 03-17 | 19:21 | 💰 SELL | ERIC | 0.0001 | 35RArQiy... | trail | `2CgsRueMcEas...` |
+| 03-17 | 19:21 | 🟢 BUY | reCAPTCHA | 0.0001 | 7yd579zX... | copy_buy | `3iAqndi4jmsT...` |
 | 03-17 | 19:18 | 🟢 BUY | JEETICIDE | 0.0001 | 9tv5mfwa... | copy_buy | `3qo9zgtZDxNa...` |
 | 03-17 | 19:17 | 🟢 BUY | QORM  | 0.0001 | FoHJUYTh... | copy_buy | `y3p6vAwc7oDE...` |
 | 03-17 | 19:16 | 🟢 BUY | PHIL | 0.0001 | GvksYkES... | copy_buy | `UJMsVa8HF7zB...` |

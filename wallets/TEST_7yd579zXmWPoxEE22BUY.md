@@ -1,5 +1,11 @@
 # [TEST] `7yd579zXmWPoxEE2...`
-> 2026-03-17 19:20 UTC | **10** pos | **3W/7L** | P&L: **-0.000171 SOL** (-8.6%) | 0 open
+> 2026-03-17 19:25 UTC | **11** pos | **3W/7L** | P&L: **-0.000171 SOL** (-8.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| reCAPTCHA | 03-17 19:21 | 1.31x | 1.72x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +26,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:21 | reCAPTCHA | BUY | 0.0001 | `3iAqndi4jmsTXeAf...` |
 | 03-17 18:59 | SLOP | SELL | 0.0000 | `2rh2F4vHmxQaTjif...` |
 | 03-17 18:39 | SLOP | BUY | 0.0001 | `vmANpFEsVY8QStNC...` |
 | 03-17 03:49 | Hyojo | SELL | 0.0000 | `2y8TqVYUstjxAVc6...` |
