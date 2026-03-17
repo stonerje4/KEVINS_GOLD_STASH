@@ -1,5 +1,5 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 23:30 UTC** | 7d | 756 buys, 1001 sells | In: **94.73** | Out: **87.67** | Net: **-7.06 SOL**
+> Updated: **2026-03-17 23:35 UTC** | 7d | 755 buys, 997 sells | In: **94.68** | Out: **87.41** | Net: **-7.27 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
@@ -1755,8 +1755,3 @@
 | 03-10 | 23:48 | 🟢 BUY | TrashDay | 0.0500 | BZWzvFQr... | copy | `41hWuxWBbP8B...` |
 | 03-10 | 23:46 | 💰 SELL | Impossible | 0.0531 | 9rb2ChEj... | trail | `45LTherneaM9...` |
 | 03-10 | 23:39 | 🔴 SELL | Skir | 0.0273 | HMM6RoT2... | SL | `3dRoVT5Y5uHX...` |
-| 03-10 | 23:34 | 💰 SELL | SPACE | 0.1476 | 9rb2ChEj... | trail | `DFsWaSKwrjgJ...` |
-| 03-10 | 23:34 | 💰 SELL | Impossible | 0.0330 | 9rb2ChEj... | TP2 | `5zgJnfMUBm5s...` |
-| 03-10 | 23:33 | 🔴 SELL | Grace | 0.0264 | 9rb2ChEj... | SL | `wQbt3t7ep6Sm...` |
-| 03-10 | 23:32 | 💰 SELL | Impossible | 0.0520 | 9rb2ChEj... | TP1 | `eLzPpfX8dDXC...` |
-| 03-10 | 23:30 | 🟢 BUY | Grace | 0.0500 | 9rb2ChEj... | copy | `3s1BNrA7uJ6h...` |

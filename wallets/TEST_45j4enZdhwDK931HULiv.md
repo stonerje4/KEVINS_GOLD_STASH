@@ -1,5 +1,11 @@
 # [TEST] `45j4enZdhwDK931H...`
-> 2026-03-17 23:30 UTC | **1** pos | **0W/1L** | P&L: **-0.000009 SOL** (-8.7%) | 0 open
+> 2026-03-17 23:35 UTC | **2** pos | **0W/1L** | P&L: **-0.000009 SOL** (-8.7%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| dog | 03-17 23:32 | 0.94x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 23:32 | dog | BUY | 0.0001 | `3bQw5iK9qTQsH6Sg...` |
 | 03-17 14:18 | patricklon | SELL | 0.0001 | `4tYnhEdsr757EfcX...` |
 | 03-17 12:56 | patricklon | SELL | 0.0000 | `4KryphdETv97EvjZ...` |
 | 03-17 12:44 | patricklon | BUY | 0.0001 | `41SY6LD5Uwj3APGV...` |
