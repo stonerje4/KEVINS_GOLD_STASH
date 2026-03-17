@@ -1,5 +1,5 @@
 # [TEST] Wallet: `1aC2FgH1tujX87Bv9yMVbda2sPiRDNCsjMJoJjw3n6C`
-> Generated: 2026-03-17 08:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -35,7 +35,7 @@
 
 ### 🟢 Doraemon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.65x
+- **Peak:** 1.00x | **Current:** 0.68x
 - **Mint:** `2gMpasEn6vUQ6bSWmSDTrcjmhFZ2G2i5iEvW6yr2pump`
 
 | Time | Action | SOL | TX |
@@ -79,4 +79,9 @@
 | 2026-03-17 08:22:01 | SELL | 0.000000 | `5RiBC2zzp5KgvvyzrAQvJCA7SoPQVx...` |
 | 2026-03-17 08:23:00 | SELL | 0.000000 | `3dQbk6RuLjsrCg6WwRWtASSpwSDHHs...` |
 | 2026-03-17 08:23:58 | SELL | 0.000000 | `4Nb4dezqMj7d3hAUqqiGHJXnDVqYHQ...` |
+| 2026-03-17 08:24:57 | SELL | 0.000000 | `361GqTFwB9erFRyPFYYaSxaVMS1YJU...` |
+| 2026-03-17 08:25:55 | SELL | 0.000000 | `5jyeD8WJMvmXZw9RCBzRYvdQ2HEY6C...` |
+| 2026-03-17 08:26:54 | SELL | 0.000000 | `2BMePNmFRHcYhr9voBv8vsL4WzKa1F...` |
+| 2026-03-17 08:27:52 | SELL | 0.000000 | `2MFL916t63HU3pdeDgM1myt4RkzvBr...` |
+| 2026-03-17 08:28:55 | SELL | 0.000000 | `26Xq9QmrKt7uWzHMk8nyhUvemSszAK...` |
 

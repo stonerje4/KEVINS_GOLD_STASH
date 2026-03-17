@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 08:25 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:30 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -121,7 +121,7 @@
 
 ### 🟢 CoolPunks
 - **Status:** open | **Exit:** open
-- **Peak:** 1.33x | **Current:** 0.44x
+- **Peak:** 1.33x | **Current:** 0.43x
 - **Mint:** `LYa91rmstD2abLMYab8Lj2mNGuvaHAHXgjALuGupump`
 
 | Time | Action | SOL | TX |
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.49x | **Current:** 4.78x
+- **Peak:** 7.49x | **Current:** 4.84x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +212,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.89x | **Current:** 3.30x
+- **Peak:** 3.89x | **Current:** 3.27x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
