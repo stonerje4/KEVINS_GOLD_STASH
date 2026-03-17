@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 16:50 UTC** | 7d | 707 buys, 949 sells | In: **84.98** | Out: **80.61** | Net: **-4.37 SOL**
+> Updated: **2026-03-17 16:55 UTC** | 7d | 709 buys, 950 sells | In: **85.28** | Out: **80.95** | Net: **-4.33 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:54 | 🟢 BUY | BEPE | 0.1500 | 42nQHDpy... | copy | `CRz1BBEPHYyV...` |
+| 03-17 | 16:54 | 💰 SELL | KENNY | 0.3468 | 42nQHDpy... | trail | `64aHtcw4Ajuf...` |
+| 03-17 | 16:50 | 🟢 BUY | SaintAlon | 0.1500 | 42nQHDpy... | copy | `qGScP64A4QjK...` |
 | 03-17 | 16:43 | 🟢 BUY | UGOR | 0.1500 | BGGJhxGX... | copy | `4xZJvf1cjLY9...` |
 | 03-17 | 16:42 | 🟢 BUY | BBX | 0.1500 | BGGJhxGX... | copy | `2FZZnDpV6Fja...` |
 | 03-17 | 16:41 | 🔴 SELL | Gilbert | 0.0587 | BNCSPd6Q... | SL | `36kjfWVYjieD...` |

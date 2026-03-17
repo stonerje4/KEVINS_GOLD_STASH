@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:50 UTC** | 7d | 1464 buys, 1958 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:55 UTC** | 7d | 1465 buys, 1961 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:54 | 🟢 BUY | SKETCH | 0.0001 | CT8wxJuP... | copy_buy | `X1SnwaLZe9CJ...` |
+| 03-17 | 16:54 | 🔴 SELL | PURRPLEAN | 0.0001 | AJ8Gc1cY... | trail | `5WRqGYh9Ht9D...` |
+| 03-17 | 16:51 | 💰 SELL | INFDFI | 0.0001 | 2autqiin... | TP4 | `4s3d5BNdsHVY...` |
+| 03-17 | 16:50 | 💰 SELL | 󠀠 | 0.0001 | AJ8Gc1cY... | trail | `2bwk4bFh5TkJ...` |
 | 03-17 | 16:49 | 🟢 BUY | SaintAlon | 0.0001 | 42nQHDpy... | copy_buy | `5pEhfM9CJVb4...` |
 | 03-17 | 16:49 | 🔴 SELL | Invincible | 0.0000 | E5sZTG93... | SL | `5HaMdPLjAMPQ...` |
 | 03-17 | 16:48 | 🟢 BUY | CLAWN | 0.0001 | Gdd86j2T... | copy_buy | `4tjZCxrdMfuC...` |
