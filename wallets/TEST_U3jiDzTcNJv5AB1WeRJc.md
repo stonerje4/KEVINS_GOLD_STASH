@@ -1,16 +1,11 @@
 # [TEST] `U3jiDzTcNJv5AB1W...`
-> 2026-03-17 16:40 UTC | **7** pos | **0W/6L** | P&L: **-0.003250 SOL** (-90.3%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Clover | 03-17 15:40 | 2.73x | 2.82x | 1.0h | 0.0001 |
+> 2026-03-17 16:45 UTC | **7** pos | **1W/6L** | P&L: **-0.003230 SOL** (-87.3%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ✅ Clover | +0.0000 | 03-17 15:40 | 2.8x | 03-17 16:40 | 0.0001/0.0001 | trail |
 | ❌ FOR | -0.0006 | 03-16 11:26 | 1.3x | 03-17 11:50 | 0.0000/0.0006 | bulk_close_cleanup |
 | ❌ XAIC | -0.0006 | 03-16 10:06 | 1.3x | 03-17 11:50 | 0.0000/0.0006 | bulk_close_cleanup |
 | ❌ XAIC | -0.0006 | 03-16 10:02 | 1.4x | 03-17 11:50 | 0.0000/0.0006 | bulk_close_cleanup |
@@ -22,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:40 | Clover | SELL | 0.0001 | `2AEH7KnA3pKiFRc5...` |
 | 03-17 16:36 | Clover | SELL | 0.0001 | `61KvaUcSQv8C15rH...` |
 | 03-17 15:40 | Clover | BUY | 0.0001 | `4eyhFqYpj4ugaqec...` |
 | 03-17 04:51 | WRT | SELL | 0.0001 | `2jvgGGK3jTEFyKWU...` |

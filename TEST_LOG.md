@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:40 UTC** | 7d | 1456 buys, 1949 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:45 UTC** | 7d | 1459 buys, 1953 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:41 | 🟢 BUY | Yunho | 0.0001 | 9tv5mfwa... | copy_buy | `SRg4GttAAKh2...` |
+| 03-17 | 16:41 | 💰 SELL | INFDFI | 0.0001 | 2autqiin... | TP1 | `4awUJAkrU9Zg...` |
+| 03-17 | 16:41 | 🟢 BUY | BBX | 0.0001 | 2947n9KQ... | copy_buy | `3aSswHprX8dt...` |
+| 03-17 | 16:41 | 💰 SELL | Newscum | 0.0001 | 9G4ytadk... | TP1 | `4gfiYyA2aPYz...` |
+| 03-17 | 16:41 | 🟢 BUY | ATOMS | 0.0001 | otq3sTTS... | copy_buy | `3eYb5FUdQn8n...` |
+| 03-17 | 16:40 | 🔴 SELL | NORB | 0.0001 | AJ8Gc1cY... | trail | `3VHsjqJt67hp...` |
+| 03-17 | 16:40 | 🔴 SELL | Clover | 0.0001 | U3jiDzTc... | trail | `2AEH7KnA3pKi...` |
 | 03-17 | 16:39 | 🟢 BUY | UGOR | 0.0001 | G1nVBXwC... | copy_buy | `4NzHFmLjsqoM...` |
 | 03-17 | 16:39 | 💰 SELL | FLOKI | 0.0001 | otq3sTTS... | TP1 | `jmsT4UhdNFGJ...` |
 | 03-17 | 16:38 | 💰 SELL | EGODEATH | 0.0001 | 6raSuhfi... | TP1 | `AQpgGSHSmy59...` |
