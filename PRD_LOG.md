@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 18:15 UTC** | 7d | 722 buys, 956 sells | In: **87.83** | Out: **81.50** | Net: **-6.33 SOL**
+> Updated: **2026-03-17 18:20 UTC** | 7d | 723 buys, 956 sells | In: **87.98** | Out: **81.50** | Net: **-6.48 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:19 | 🟢 BUY | USEFUL | 0.1500 | 6qTPHgnS... | copy | `5YyZMwgTvm64...` |
 | 03-17 | 18:11 | 🔴 SELL | Momo-chan | 0.0590 | 42nQHDpy... | SL | `5aXxjsukmwrv...` |
 | 03-17 | 18:09 | 🟢 BUY | clawchain | 0.1500 | 42nQHDpy... | copy | `3SZwHyzABT8d...` |
 | 03-17 | 18:06 | 🔴 SELL | PHANTOM | 0.0625 | 9rb2ChEj... | stale | `4Hiqd75Hku3q...` |

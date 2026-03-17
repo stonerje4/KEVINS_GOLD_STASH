@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 18:15 UTC** | 7d | 1559 buys, 2029 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 18:20 UTC** | 7d | 1559 buys, 2032 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:18 | 🔴 SELL |  X Clones | 0.0000 | BDe7kU3V... | SL | `3HMVETc84yut...` |
+| 03-17 | 18:18 | 💰 SELL | Smiski | 0.0000 | AiNfNi2e... | TP1 | `FZus78EVgLsq...` |
+| 03-17 | 18:17 | 🔴 SELL | Thinker | 0.0001 | FzMeg6P2... | trail | `1ggi7kR5rrBY...` |
 | 03-17 | 18:13 | 💰 SELL | clawchain | 0.0001 | GHy1P6vJ... | TP1 | `66UoaJKVDYh1...` |
 | 03-17 | 18:13 | 🟢 BUY | LKY | 0.0001 | 3VHz3Mhv... | copy_buy | `2a5GczQiPd2v...` |
 | 03-17 | 18:12 | 🟢 BUY | ANAN | 0.0001 | 2AkmfaxF... | copy_buy | `3TTiLAnuNJjW...` |
