@@ -1,11 +1,13 @@
 # [TEST] `Lfw99jsEygTPVRM9...`
-> 2026-03-17 19:30 UTC | **7** pos | **1W/4L** | P&L: **-0.000239 SOL** (-47.8%) | 2 open
+> 2026-03-17 19:35 UTC | **9** pos | **1W/4L** | P&L: **-0.000239 SOL** (-47.8%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Brand | 03-17 17:29 | 0.69x | 1.02x | 2.0h | 0.0001 |
+| YOLO | 03-17 19:34 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| Joe | 03-17 19:33 | 0.91x | 1.00x | 0.0h | 0.0001 |
+| Brand | 03-17 17:29 | 0.71x | 1.02x | 2.1h | 0.0001 |
 | BalloonCat | 03-17 17:27 | 0.43x | 1.38x | 2.1h | 0.0001 |
 
 ## Closed
@@ -22,6 +24,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:34 | YOLO | BUY | 0.0001 | `4yj6yzJPPBiv1NjR...` |
+| 03-17 19:33 | Joe | BUY | 0.0001 | `3D4Q1vwzk7NgA5k1...` |
 | 03-17 18:11 | Momo-chan | SELL | 0.0000 | `4yANbdZjJy372QV4...` |
 | 03-17 17:41 | Chicken | SELL | 0.0001 | `C5MHQAc5S61WTUxr...` |
 | 03-17 17:34 | Solana | SELL | 0.0000 | `3yecsEMPqKdeZyNE...` |

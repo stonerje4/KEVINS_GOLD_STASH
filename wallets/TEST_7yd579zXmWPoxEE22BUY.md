@@ -1,16 +1,11 @@
 # [TEST] `7yd579zXmWPoxEE2...`
-> 2026-03-17 19:30 UTC | **11** pos | **3W/7L** | P&L: **-0.000171 SOL** (-8.6%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| reCAPTCHA | 03-17 19:21 | 0.70x | 1.72x | 0.1h | 0.0001 |
+> 2026-03-17 19:35 UTC | **11** pos | **3W/8L** | P&L: **-0.000234 SOL** (-11.1%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ reCAPTCHA | -0.0001 | 03-17 19:21 | 1.7x | 03-17 19:32 | 0.0000/0.0001 | SL |
 | ❌ SLOP | -0.0001 | 03-17 18:39 | 1.3x | 03-17 18:59 | 0.0000/0.0001 | SL |
 | ❌ Hyojo | -0.0001 | 03-17 03:33 | 1.2x | 03-17 03:49 | 0.0000/0.0001 | SL |
 | ❌ Hamster | -0.0001 | 03-17 01:52 | 1.4x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -26,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:32 | reCAPTCHA | SELL | 0.0000 | `2Txmk7gTBLoMDrJp...` |
 | 03-17 19:21 | reCAPTCHA | BUY | 0.0001 | `3iAqndi4jmsTXeAf...` |
 | 03-17 18:59 | SLOP | SELL | 0.0000 | `2rh2F4vHmxQaTjif...` |
 | 03-17 18:39 | SLOP | BUY | 0.0001 | `vmANpFEsVY8QStNC...` |

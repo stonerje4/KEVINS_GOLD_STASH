@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:30 UTC** | 7d | 1606 buys, 2069 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:35 UTC** | 7d | 1611 buys, 2071 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:34 | 🟢 BUY | Éire | 0.0001 | 35RArQiy... | copy_buy | `5ZphieLqqSwa...` |
+| 03-17 | 19:34 | 🟢 BUY | YOLO | 0.0001 | Lfw99jsE... | copy_buy | `4yj6yzJPPBiv...` |
+| 03-17 | 19:34 | 🔴 SELL | PINGU | 0.0000 | FoabCXs5... | SL | `5kjsoRDQpU2n...` |
+| 03-17 | 19:33 | 🟢 BUY | Joe | 0.0001 | Lfw99jsE... | copy_buy | `3D4Q1vwzk7Ng...` |
+| 03-17 | 19:32 | 🟢 BUY | TRMN | 0.0001 | FoHJUYTh... | copy_buy | `35oJaSDyF2aH...` |
+| 03-17 | 19:32 | 🔴 SELL | reCAPTCHA | 0.0000 | 7yd579zX... | SL | `2Txmk7gTBLoM...` |
+| 03-17 | 19:30 | 🟢 BUY | ACA | 0.0001 | BGGJhxGX... | copy_buy | `3c28ZQBjqkm3...` |
 | 03-17 | 19:28 | 💰 SELL | clawchain | 0.0001 | GHy1P6vJ... | TP2 | `4Mytn4JDRhrP...` |
 | 03-17 | 19:27 | 🟢 BUY | AGNTCBRO | 0.0001 | AiNfNi2e... | copy_buy | `4y7P3jpkssnq...` |
 | 03-17 | 19:26 | 💰 SELL | PHIL | 0.0001 | GvksYkES... | TP1 | `DxNAoxNZh79v...` |

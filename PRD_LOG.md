@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 19:30 UTC** | 7d | 729 buys, 971 sells | In: **89.18** | Out: **83.78** | Net: **-5.40 SOL**
+> Updated: **2026-03-17 19:35 UTC** | 7d | 729 buys, 972 sells | In: **89.28** | Out: **83.89** | Net: **-5.39 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:31 | 💰 SELL | clawchain | 0.1153 | 42nQHDpy... | TP2 | `APQa3ZcHq1bH...` |
+| 03-17 | 19:31 | 🟢 BUY | ACA | 0.1500 | BGGJhxGX... | copy | `1ksr4qzzy6Yh...` |
 | 03-17 | 19:29 | 🔴 SELL | ERIC | 0.1220 | BNCSPd6Q... | trail | `34Wg4m3Y6nxo...` |
 | 03-17 | 19:25 | 💰 SELL | clawchain | 0.0751 | 42nQHDpy... | TP1 | `3HXu39h9cdqp...` |
 | 03-17 | 19:24 | 💰 SELL | reCAPTCHA | 0.4478 | 2w85VLX4... | trail | `2Qdse2No31Kq...` |
@@ -1702,4 +1704,3 @@
 | 03-10 | 19:52 | 💰 SELL | Cardboard | 0.0470 | 7aMgK5L4... | TP4 | `2XLzqVGGBijT...` |
 | 03-10 | 19:51 | 🟢 BUY | ZOO | 0.0500 | 8QfqdUJt... | copy | `2j7euMWPzt52...` |
 | 03-10 | 19:44 | 💰 SELL | AuPair | 0.0512 | HMM6RoT2... | TP1 | `5AkXsfwRMC3K...` |
-| 03-10 | 19:33 | 🟢 BUY | ThumbYeti | 0.0500 | EyXjj7JM... | copy | `3K1qNiBnymUD...` |
