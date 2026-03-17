@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 18:45 UTC** | 7d | 1577 buys, 2038 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 18:50 UTC** | 7d | 1578 buys, 2043 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:49 | 💰 SELL | TRUMP | 0.0001 | 7EautDJG... | TP1 | `46JhfjR4HzVD...` |
+| 03-17 | 18:49 | 🔴 SELL | 唐 | 0.0000 | BDe7kU3V... | SL | `2hb51FnLsbQh...` |
+| 03-17 | 18:48 | 💰 SELL | ERIC | 0.0001 | 35RArQiy... | TP2 | `2shQAt7jXeeA...` |
+| 03-17 | 18:48 | 🔴 SELL | Atlas | 0.0001 | bocsoUiM... | trail | `MqPuty6AKgvc...` |
+| 03-17 | 18:45 | 🟢 BUY | 18+ | 0.0001 | 4Ki54j4t... | copy_buy | `3c3PVoTTYYHZ...` |
+| 03-17 | 18:45 | 💰 SELL | ERIC | 0.0001 | 35RArQiy... | TP1 | `57FST7KKoRiL...` |
 | 03-17 | 18:45 | 🟢 BUY | PVP | 0.0001 | 7cXeEXa4... | copy_buy | `TVvQwHtKFyBh...` |
 | 03-17 | 18:44 | 🟢 BUY | EXPO | 0.0001 | Gdd86j2T... | copy_buy | `2RsV3muSF65a...` |
 | 03-17 | 18:44 | 🔴 SELL | JEET | 0.0001 | 99XWMUAM... | trail | `5KgHB4XL7scK...` |

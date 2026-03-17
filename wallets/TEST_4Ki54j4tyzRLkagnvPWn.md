@@ -1,5 +1,11 @@
 # [TEST] `4Ki54j4tyzRLkagn...`
-> 2026-03-17 18:45 UTC | **22** pos | **1W/21L** | P&L: **-0.004420 SOL** (-53.9%) | 0 open
+> 2026-03-17 18:50 UTC | **23** pos | **1W/21L** | P&L: **-0.004420 SOL** (-53.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| 18+ | 03-17 18:45 | 0.99x | 1.00x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -32,6 +38,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 18:45 | 18+ | BUY | 0.0001 | `3c3PVoTTYYHZPRnP...` |
 | 03-17 00:10 | $bone | SELL | 0.0000 | `3ZPTL6xFN9zgZPw9...` |
 | 03-17 00:09 | $bone | BUY | 0.0001 | `2WFcimNLtAV1ZkFK...` |
 | 03-17 00:06 | moon | SELL | 0.0000 | `4qNvnQPtsEq5msqq...` |
