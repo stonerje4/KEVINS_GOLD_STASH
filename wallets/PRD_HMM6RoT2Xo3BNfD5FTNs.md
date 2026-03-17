@@ -1,5 +1,11 @@
 # [PRD] `HMM6RoT2Xo3BNfD5...`
-> 2026-03-17 20:25 UTC | **31** pos | **12W/19L** | P&L: **+1.682661 SOL** (+56.7%) | 0 open
+> 2026-03-17 20:30 UTC | **32** pos | **12W/19L** | P&L: **+1.682661 SOL** (+56.7%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Reinvest | 03-17 20:25 | 0.00x | 1.35x | 0.1h | 0.1500 |
 
 ## Closed
 
@@ -41,6 +47,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 20:25 | Reinvest | BUY | 0.1500 | `4Z5Mafd5yChTjaYh...` |
 | 03-17 02:45 | FAGS | SELL | 0.0587 | `2oWKSjaUnPbyL6U4...` |
 | 03-17 02:08 | FAGS | BUY | 0.1500 | `4R5CB6QqDMNS6HX9...` |
 | 03-17 00:41 | TIM | SELL | 0.4312 | `3pfHPPXzVKcWhQ9r...` |

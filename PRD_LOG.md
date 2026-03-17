@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 20:25 UTC** | 7d | 743 buys, 976 sells | In: **91.58** | Out: **84.54** | Net: **-7.04 SOL**
+> Updated: **2026-03-17 20:30 UTC** | 7d | 745 buys, 977 sells | In: **91.88** | Out: **84.59** | Net: **-7.29 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:28 | 🔴 SELL | Luigi | 0.0572 | 3HGqppv8... | SL | `2VoidUbNMYCZ...` |
+| 03-17 | 20:26 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `2tumc42dHNQx...` |
+| 03-17 | 20:25 | 🟢 BUY | Reinvest | 0.1500 | HMM6RoT2... | copy | `4Z5Mafd5yChT...` |
 | 03-17 | 20:24 | 🔴 SELL | kiwi | 0.1060 | 2w85VLX4... | trail | `5tWWSTCtMy9r...` |
 | 03-17 | 20:23 | 🟢 BUY | IMPJAK | 0.1500 | 2w85VLX4... | copy | `5L5J5Kug31MD...` |
 | 03-17 | 20:23 | 🟢 BUY | INSECURE | 0.1500 | 3HGqppv8... | copy | `2xkYSmw37zzM...` |

@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:25 UTC** | 7d | 1664 buys, 2103 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:30 UTC** | 7d | 1667 buys, 2104 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:29 | 🟢 BUY | VAPO | 0.0001 | GHy1P6vJ... | copy_buy | `2vJ1Y7SxWFUe...` |
+| 03-17 | 20:26 | 🟢 BUY | Reinvest | 0.0001 | 9G4ytadk... | copy_buy | `3MMQxLiXkxqq...` |
+| 03-17 | 20:26 | 💰 SELL | GROKETTE | 0.0001 | EaEf6TH8... | TP1 | `2dAFg3j9oqEF...` |
+| 03-17 | 20:25 | 🟢 BUY | BEPE | 0.0001 | bocsoUiM... | copy_buy | `WpdzwoKScTPt...` |
 | 03-17 | 20:24 | 🟢 BUY | Mechayahu | 0.0001 | cqakon1K... | copy_buy | `3fJVYADa6eHf...` |
 | 03-17 | 20:24 | 🔴 SELL | Trenchies | 0.0001 | BBBByrLH... | trail | `2qihK68suWLt...` |
 | 03-17 | 20:23 | 💰 SELL | Ancestors | 0.0001 | Lfw99jsE... | TP1 | `3CVYv9jL2Kom...` |
