@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 23:05 UTC** | 7d | 760 buys, 1004 sells | In: **94.93** | Out: **87.43** | Net: **-7.50 SOL**
+> Updated: **2026-03-17 23:10 UTC** | 7d | 759 buys, 1006 sells | In: **94.88** | Out: **87.65** | Net: **-7.23 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 23:06 | 🔴 SELL | X-Man | 0.0652 | 42nQHDpy... | stale | `4ggRbhXHiayv...` |
+| 03-17 | 23:06 | 🔴 SELL | Guinness | 0.1055 | CZjxED3u... | stale | `2ifpfkuAU9jr...` |
+| 03-17 | 23:06 | 🔴 SELL | YoungHo | 0.0693 | J5jm7BnB... | stale | `21TaHK26XPZt...` |
 | 03-17 | 23:04 | 💰 SELL | ACTIII | 0.0880 | E79aNzAk... | TP1 | `54dRuvDnoihd...` |
 | 03-17 | 22:49 | 💰 SELL | ? | 0.0767 | BGGJhxGX... | TP1 | `2vDjXYELPvts...` |
 | 03-17 | 22:41 | 🟢 BUY | ? | 0.1500 | BGGJhxGX... | copy | `5ukmaVonchAN...` |
@@ -1765,5 +1768,3 @@
 | 03-10 | 23:21 | 🔴 SELL | Hollowell | 0.0231 | HMM6RoT2... | SL | `2MiP85tXAwXZ...` |
 | 03-10 | 23:21 | 🔴 SELL | Wiggle | 0.0287 | 7aMgK5L4... | SL | `3XrypmFbocek...` |
 | 03-10 | 23:17 | 🟢 BUY | COURAGE | 0.0500 | 9rb2ChEj... | copy | `5YCzJdTLjZaL...` |
-| 03-10 | 23:07 | 🔴 SELL | MINES | 0.0145 | HMM6RoT2... | SL | `2YW4vcGNtRJa...` |
-| 03-10 | 23:05 | 🟢 BUY | MINES | 0.0500 | HMM6RoT2... | copy | `2yzacoXyHhMM...` |

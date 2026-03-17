@@ -1,8 +1,21 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 23:05 UTC** | 7d | 1787 buys, 2209 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 23:10 UTC** | 7d | 1789 buys, 2220 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 23:09 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `5vzmnbZJtQZE...` |
+| 03-17 | 23:09 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `2SiYbMp1YX26...` |
+| 03-17 | 23:08 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `4jAo4y8tBRQ6...` |
+| 03-17 | 23:08 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `31rvDpBqCGXs...` |
+| 03-17 | 23:07 | 🟢 BUY | TESLA | 0.0001 | cqakon1K... | copy_buy | `4bxevV4DD8Cj...` |
+| 03-17 | 23:07 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `2b5vVGaieS34...` |
+| 03-17 | 23:07 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `L4RPBAHbT9cG...` |
+| 03-17 | 23:06 | 💰 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `3xqHczLpvDWU...` |
+| 03-17 | 23:06 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `4pQsTeoHxjAr...` |
+| 03-17 | 23:06 | 🟢 BUY | MLP | 0.0001 | 5dd3zjBQ... | copy_buy | `3mMonoLmqu9B...` |
+| 03-17 | 23:05 | 💰 SELL | Meningitis | 0.0001 | E5sZTG93... | TP1 | `5cQb5w5mZ4YD...` |
+| 03-17 | 23:05 | 🔴 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `2DxT32zH8X2h...` |
+| 03-17 | 23:05 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `3C9Pwo3Nde8j...` |
 | 03-17 | 23:04 | 🟢 BUY | Puff | 0.0001 | 5dd3zjBQ... | copy_buy | `54Ux9M4QkK6M...` |
 | 03-17 | 23:04 | 🟢 BUY | shockwave | 0.0001 | 6gN2SNYX... | copy_buy | `XRCXQDHUxS8b...` |
 | 03-17 | 23:04 | 🔴 SELL | Nanobot | 0.0001 | 35RArQiy... | trail | `3dKs4RmKcXrn...` |
