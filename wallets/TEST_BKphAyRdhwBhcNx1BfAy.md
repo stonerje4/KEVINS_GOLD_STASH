@@ -1,5 +1,5 @@
 # [TEST] `BKphAyRdhwBhcNx1...`
-> 2026-03-17 19:10 UTC | **287** pos | **44W/243L** | P&L: **-0.039656 SOL** (-29.8%) | 0 open
+> 2026-03-17 19:15 UTC | **287** pos | **44W/243L** | P&L: **-0.039656 SOL** (-29.8%) | 0 open
 
 ## Closed
 
@@ -324,10 +324,10 @@
 | 03-16 23:18 | CC | SELL | 0.0000 | `CVamcXn6oPHsCuuW...` |
 | 03-16 23:18 | BBX | SELL | 0.0000 | `3XnsXz7Fz3o93Mx7...` |
 | 03-16 23:18 | Angela | SELL | 0.0003 | `5M5soJCzMr9bw15r...` |
-| 03-16 19:13 | CLAUDE | SELL | 0.0001 | `?` |
-| 03-16 19:13 | UNEMPLOYED | SELL | 0.0001 | `?` |
-| 03-16 19:13 | DOGE KIDS | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Coolpunks | SELL | 0.0001 | `?` |
+| 03-16 19:13 | CLAUDE | SELL | 0.0001 | `?` |
+| 03-16 19:13 | DOGE KIDS | SELL | 0.0001 | `?` |
+| 03-16 19:13 | UNEMPLOYED | SELL | 0.0001 | `?` |
 | 03-16 19:13 | PILL | SELL | 0.0001 | `?` |
 | 03-16 18:55 | AI | SELL | 0.0005 | `?` |
 | 03-16 18:55 | 6 | SELL | 0.0005 | `?` |
@@ -482,8 +482,8 @@
 | 03-16 14:39 | CHANCE | SELL | 0.0001 | `2Zjc3AGADEDCqHF6...` |
 | 03-16 14:39 | AgenTTT | SELL | 0.0002 | `3NWQpFm4wqH7Siko...` |
 | 03-16 14:38 | AOR | SELL | 0.0001 | `53NLgmo5fKT8JtXg...` |
-| 03-16 14:21 | Snootlets | SELL | 0.0007 | `516hP8YSEQP84ub8...` |
 | 03-16 14:21 | CHANCE | BUY | 0.0006 | `4vBR5rCtHwF29HQW...` |
+| 03-16 14:21 | Snootlets | SELL | 0.0007 | `516hP8YSEQP84ub8...` |
 | 03-16 14:19 | Angela | SELL | 0.0001 | `dhKbcWGfHWW3Rofz...` |
 | 03-16 14:17 | PauseAI | SELL | 0.0002 | `5f4W2DTs9skfZkTW...` |
 | 03-16 14:17 | Snootlets | SELL | 0.0001 | `3VhBPQgwHi7YMHUQ...` |

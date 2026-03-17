@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:10 UTC** | 7d | 1599 buys, 2059 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:15 UTC** | 7d | 1601 buys, 2063 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:14 | 🟢 BUY | LCM | 0.0001 | AJ8Gc1cY... | copy_buy | `4cMEzTnGHLdb...` |
+| 03-17 | 19:13 | 🔴 SELL | 日本 | 0.0000 | 8Exfhudv... | SL | `57Je2Lk4mL92...` |
+| 03-17 | 19:13 | 🔴 SELL | KIt | 0.0000 | BZmxuXQ6... | SL | `4zii8usM4mqC...` |
+| 03-17 | 19:11 | 🟢 BUY | 日本 | 0.0001 | 8Exfhudv... | copy_buy | `3fSG9VnDBFjB...` |
+| 03-17 | 19:11 | 🔴 SELL | Einstein | 0.0000 | APUYxGfK... | SL | `Rb9JnpXtFeWV...` |
+| 03-17 | 19:10 | 🔴 SELL | #FIRING | 0.0000 | cqakon1K... | SL | `2WECqfVGppfY...` |
 | 03-17 | 19:09 | 💰 SELL | DOT | 0.0001 | 6uippNoB... | TP2 | `5eWS14rfeez1...` |
 | 03-17 | 19:07 | 💰 SELL | DOT | 0.0001 | 6uippNoB... | TP1 | `xtMwCZ3PcwgP...` |
 | 03-17 | 19:07 | 🟢 BUY | HHHMCR | 0.0001 | FoHJUYTh... | copy_buy | `2J5GxCXLzUSy...` |
