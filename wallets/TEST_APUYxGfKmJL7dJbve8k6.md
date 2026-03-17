@@ -1,5 +1,11 @@
 # [TEST] `APUYxGfKmJL7dJbv...`
-> 2026-03-17 14:00 UTC | **44** pos | **6W/38L** | P&L: **-0.004351 SOL** (-28.3%) | 0 open
+> 2026-03-17 14:05 UTC | **45** pos | **6W/38L** | P&L: **-0.004351 SOL** (-28.3%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| SPOT | 03-17 14:00 | 1.61x | 1.92x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -54,6 +60,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:00 | SPOT | BUY | 0.0001 | `L9cz83kFcQuWFU1g...` |
 | 03-17 05:46 | LAST | SELL | 0.0000 | `GVdsdJcdnUBXFerv...` |
 | 03-17 05:42 | LAST | BUY | 0.0001 | `2J5vUcagwgAsJL4j...` |
 | 03-17 05:24 | GANY | BUY | 0.0001 | `5fokNeYHoMBekV4W...` |
@@ -75,10 +82,10 @@
 | 03-17 01:36 | GEEKED | SELL | 0.0000 | `4wyh9XVidqzBXUqL...` |
 | 03-17 01:35 | GEEKED | BUY | 0.0001 | `pYYZvoNrXcm61Qtz...` |
 | 03-17 01:34 | ORC | BUY | 0.0001 | `5T8gGkz1t3ia3k4b...` |
-| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 19:13 | SHARK | SELL | 0.0003 | `?` |
 | 03-16 19:13 | Bowhead | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Nebresearch | SELL | 0.0003 | `?` |
+| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 16:49 | clod | SELL | 0.0001 | `5VtVzAtN7e5wWbGg...` |
 | 03-16 16:49 | DICK | SELL | 0.0001 | `2uUmZf3QgrA6darB...` |
 | 03-16 16:48 | CAT | SELL | 0.0000 | `4H6NKYZcEKHRNGgG...` |

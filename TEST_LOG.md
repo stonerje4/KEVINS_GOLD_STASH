@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:00 UTC** | 7d | 1327 buys, 1853 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:05 UTC** | 7d | 1333 buys, 1855 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:04 | 🟢 BUY | PádraicStar | 0.0001 | BUiDP9Qm... | copy_buy | `4PLh94mm2PMv...` |
+| 03-17 | 14:03 | 💰 SELL | LULU | 0.0000 | AJ8Gc1cY... | TP2 | `3WfAvSX4ENHr...` |
+| 03-17 | 14:03 | 🟢 BUY | Thinker | 0.0001 | GHy1P6vJ... | copy_buy | `53erZG48PU9Q...` |
+| 03-17 | 14:03 | 💰 SELL | LULU | 0.0000 | AJ8Gc1cY... | TP1 | `4Yft5haC47by...` |
+| 03-17 | 14:01 | 🟢 BUY | GREEN | 0.0001 | EaEf6TH8... | copy_buy | `5aR7zTSnEXm5...` |
+| 03-17 | 14:00 | 🟢 BUY | SPOT | 0.0001 | APUYxGfK... | copy_buy | `L9cz83kFcQuW...` |
+| 03-17 | 14:00 | 🟢 BUY | LULU | 0.0001 | AJ8Gc1cY... | copy_buy | `34FfbyDi5bna...` |
+| 03-17 | 14:00 | 🟢 BUY | LULU | 0.0001 | GHy1P6vJ... | copy_buy | `3qPAmcbRAgu2...` |
 | 03-17 | 14:00 | 🟢 BUY | lovebird | 0.0001 | FoHJUYTh... | copy_buy | `5s3GnrT9jQDw...` |
 | 03-17 | 13:59 | 🟢 BUY | DLSSELON | 0.0001 | 42nQHDpy... | copy_buy | `4vwK26cDNz19...` |
 | 03-17 | 13:58 | 🔴 SELL | F/ACC | 0.0000 | 5VVBthee... | SL | `3bsGJrr2gXmR...` |
