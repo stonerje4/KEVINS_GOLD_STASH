@@ -1,22 +1,49 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 03:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 112 |
-| Open | 27 |
+| Total Positions | 115 |
+| Open | 30 |
 | Closed | 85 |
 | W/L | 84/1 |
 | SOL In (closed) | 0.036500 |
 | **Closed P&L** | **+0.030605 SOL** |
 | **Closed ROI** | **+83.8%** |
-| Open Deployed | 0.004200 SOL |
+| Open Deployed | 0.004500 SOL |
 
 ## Trades
 
+### 🟢 max999
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `Df7UuP64M9EcHUbrTcJk4pvBQpKPGrx6Bj2f4tPWpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:49:36 | BUY | 0.000100 | `4fp48dQJsHhmTXMgmP1C8a8MtpEH8C...` |
+
+### 🟢 GTC
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `6mDLW5iv68vPrN8aLUV5YbzrkMKQzEqRnSbuXS56pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:49:04 | BUY | 0.000100 | `5EaagowuPhjHKgq3SCdcJRZTVM2ZDG...` |
+
+### 🟢 DEADENYAHU
+- **Status:** open | **Exit:** open
+- **Peak:** 1.45x | **Current:** 1.45x
+- **Mint:** `4M9VbBbdknEdyv7JixQTsALWVkhvzQLTJbfWEd8qpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:47:35 | BUY | 0.000100 | `5nHRz7ydhS86TCrBomem7SRwY1vKaA...` |
+
 ### 🟢 PCT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.10x
+- **Peak:** 1.10x | **Current:** 0.95x
 - **Mint:** `CjQ5GYXkJWuRbDmAd4RN5LEX6Sqpq295xuhbZMRpUCLi`
 
 | Time | Action | SOL | TX |
@@ -101,7 +128,7 @@
 
 ### 🟢 FILECITY
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.28x | **Current:** 1.20x
+- **Peak:** 2.28x | **Current:** 1.31x
 - **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
 
 | Time | Action | SOL | TX |
@@ -307,7 +334,7 @@
 
 ### 🟢 HVAC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 0.74x
+- **Peak:** 1.36x | **Current:** 0.72x
 - **Mint:** `7USpkp5mgAwTwQw8aMvYJUh4mwFoWoZtuU38j6wLpump`
 
 | Time | Action | SOL | TX |

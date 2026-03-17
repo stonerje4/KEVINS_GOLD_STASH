@@ -1,31 +1,32 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 03:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 2 |
-| Closed | 7 |
-| W/L | 7/0 |
-| SOL In (closed) | 0.001700 |
-| **Closed P&L** | **+0.001757 SOL** |
-| **Closed ROI** | **+103.4%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 8 |
+| W/L | 8/0 |
+| SOL In (closed) | 0.001800 |
+| **Closed P&L** | **+0.001795 SOL** |
+| **Closed ROI** | **+99.7%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 Hyojo
-- **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.89x
+### 🔴 Hyojo
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.16x | **Current:** 0.38x
 - **Mint:** `8tvznQLMFGZWrp3h4pDAtUkPe7Xcp4SP1st8rDDFpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 03:33:03 | BUY | 0.000100 | `2zioWdcfdzJfwbKc9bP3ri5k32mz5B...` |
+| 2026-03-17 03:49:53 | SELL | 0.000038 | `2y8TqVYUstjxAVc6iXBmWL1TA7ujkm...` |
 
 ### 🟢 Hamster
 - **Status:** open | **Exit:** open
-- **Peak:** 1.36x | **Current:** 1.11x
+- **Peak:** 1.36x | **Current:** 0.93x
 - **Mint:** `7k6t5KTdf7gp6THKL982TseXYoG3hQbn6Bqginsspump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,31 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 03:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 4 |
+| Total Positions | 8 |
+| Open | 5 |
 | Closed | 3 |
 | W/L | 2/1 |
 | SOL In (closed) | 0.001300 |
 | **Closed P&L** | **+0.002816 SOL** |
 | **Closed ROI** | **+216.6%** |
-| Open Deployed | 0.000400 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
+### 🟢 STRINGMAN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.07x | **Current:** 0.87x
+- **Mint:** `3SMiqoX156hvFKracc2PB3tVhacMRiKu8c8Hnskmpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:48:10 | BUY | 0.000100 | `pxj5UmuKJYVtUxqBgLD3gGZCjcaMNk...` |
+
 ### 🟢 Giraffe 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.65x
+- **Peak:** 1.19x | **Current:** 0.53x
 - **Mint:** `2VP6daVD4nDo5sDamXth8fKoTtjmakXHFJHZdSgPpump`
 
 | Time | Action | SOL | TX |
