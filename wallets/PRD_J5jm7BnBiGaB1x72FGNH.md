@@ -1,12 +1,13 @@
 # [PRD] `J5jm7BnBiGaB1x72...`
-> 2026-03-17 17:05 UTC | **47** pos | **11W/34L** | P&L: **+0.510020 SOL** (+9.4%) | 2 open
+> 2026-03-17 17:10 UTC | **48** pos | **11W/34L** | P&L: **+0.510020 SOL** (+9.4%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| YoungHo | 03-17 01:58 | 0.00x | 1.23x | 15.1h | 0.1500 |
-| REESE | 03-17 00:58 | 0.00x | 1.19x | 16.1h | 0.1500 |
+| Atlas | 03-17 17:09 | 0.00x | 1.00x | 0.0h | 0.1500 |
+| YoungHo | 03-17 01:58 | 0.00x | 1.23x | 15.2h | 0.1500 |
+| REESE | 03-17 00:58 | 0.00x | 1.19x | 16.2h | 0.1500 |
 
 ## Closed
 
@@ -62,6 +63,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:09 | Atlas | BUY | 0.1500 | `qQhyttAdDXS5Pk35...` |
 | 03-17 11:37 | ANCESTORS | BUY | 0.1500 | `5ygmVtPchtbm92yt...` |
 | 03-17 02:51 | TRASHBAG | SELL | 0.0573 | `4bjwZpG45LwnTV4F...` |
 | 03-17 02:22 | TRASHBAG | BUY | 0.1500 | `2S1XCTtGvxpjEziY...` |

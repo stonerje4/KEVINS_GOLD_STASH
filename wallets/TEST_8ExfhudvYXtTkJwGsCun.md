@@ -1,16 +1,11 @@
 # [TEST] `8ExfhudvYXtTkJwG...`
-> 2026-03-17 17:05 UTC | **6** pos | **0W/5L** | P&L: **-0.000392 SOL** (-78.4%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Solana | 03-17 17:00 | 0.74x | 1.62x | 0.1h | 0.0001 |
+> 2026-03-17 17:10 UTC | **6** pos | **0W/6L** | P&L: **-0.000458 SOL** (-76.4%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Solana | -0.0001 | 03-17 17:00 | 1.6x | 03-17 17:09 | 0.0000/0.0001 | SL |
 | ❌ Flash | -0.0000 | 03-17 06:20 | 2.2x | 03-17 06:25 | 0.0001/0.0001 | trail |
 | ❌ 三毛 | -0.0001 | 03-17 05:14 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ Mina | -0.0001 | 03-17 03:19 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -21,6 +16,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 17:09 | Solana | SELL | 0.0000 | `4LYkfzzdbv8f9XyS...` |
 | 03-17 17:00 | Solana | BUY | 0.0001 | `21UhnBV5DnHT9WGw...` |
 | 03-17 06:25 | Flash | SELL | 0.0000 | `tX5WAEXXdNPXMZPd...` |
 | 03-17 06:24 | Flash | SELL | 0.0000 | `3ps4wj22dgWdkWY8...` |

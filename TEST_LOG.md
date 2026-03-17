@@ -1,8 +1,21 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 17:05 UTC** | 7d | 1479 buys, 1971 sells | In: **0.48** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 17:10 UTC** | 7d | 1486 buys, 1977 sells | In: **0.48** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:10 | 🔴 SELL | Freedom | 0.0000 | 42nQHDpy... | SL | `56mrZTHMRYAV...` |
+| 03-17 | 17:09 | 🔴 SELL | Solana | 0.0000 | 8Exfhudv... | SL | `4LYkfzzdbv8f...` |
+| 03-17 | 17:09 | 💰 SELL | Leprechaun | 0.0001 | otq3sTTS... | trail | `5J2SYLFng7c9...` |
+| 03-17 | 17:08 | 🟢 BUY | Mashu | 0.0001 | BBBByrLH... | copy_buy | `4iMBD8h6ktLg...` |
+| 03-17 | 17:07 | 🟢 BUY | HRT | 0.0001 | CT8wxJuP... | copy_buy | `4s1w27pcorLa...` |
+| 03-17 | 17:07 | 🟢 BUY | Up | 0.0001 | 3VHz3Mhv... | copy_buy | `4UWHdC6wT4nz...` |
+| 03-17 | 17:06 | 🔴 SELL | Elon | 0.0000 | FzMeg6P2... | SL | `2xYKxUHyJrxn...` |
+| 03-17 | 17:06 | 🟢 BUY | FINGER | 0.0001 | GRnCsBLj... | copy_buy | `2zAWvNozxN5u...` |
+| 03-17 | 17:06 | 🟢 BUY | Solana | 0.0001 | FzMeg6P2... | copy_buy | `5Y9m67EykX9H...` |
+| 03-17 | 17:06 | 🟢 BUY | ALON | 0.0001 | 44yBNPRV... | copy_buy | `3o8FLRqsngWD...` |
+| 03-17 | 17:05 | 💰 SELL | hahahaha | 0.0001 | BmXugVGY... | TP1 | `2dTuGW7HtXSG...` |
+| 03-17 | 17:05 | 💰 SELL |  Terry | 0.0001 | otq3sTTS... | TP1 | `xvvNwNnXWfUC...` |
+| 03-17 | 17:05 | 🟢 BUY | Elon | 0.0001 | FzMeg6P2... | copy_buy | `3yVqRXB6dWeT...` |
 | 03-17 | 17:04 | 🔴 SELL | JONES | 0.0000 | FzMeg6P2... | SL | `5gsoVAJd39UC...` |
 | 03-17 | 17:04 | 🟢 BUY | Alon | 0.0001 | EaEf6TH8... | copy_buy | `4bGodXn9AXSf...` |
 | 03-17 | 17:04 | 🟢 BUY | SCANNEX | 0.0001 | 42nQHDpy... | copy_buy | `2VJEckHKCHBf...` |

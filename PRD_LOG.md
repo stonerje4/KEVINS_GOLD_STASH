@@ -1,8 +1,13 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 17:05 UTC** | 7d | 710 buys, 950 sells | In: **85.53** | Out: **80.99** | Net: **-4.54 SOL**
+> Updated: **2026-03-17 17:10 UTC** | 7d | 711 buys, 949 sells | In: **85.78** | Out: **81.04** | Net: **-4.74 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 17:09 | 🔴 SELL | Freedom | 0.0467 | 42nQHDpy... | SL | `2KJ69gKXzwSG...` |
+| 03-17 | 17:09 | 🟢 BUY | Atlas | 0.1500 | J5jm7BnB... | copy | `qQhyttAdDXS5...` |
+| 03-17 | 17:06 | 🔴 SELL | RETRO | 0.0807 | 5n593DWQ... | stale | `23ir4jokiHUy...` |
+| 03-17 | 17:06 | 🔴 SELL | Venezuela  | 0.0840 | 5n593DWQ... | stale | `3k4Dh4j2RGkS...` |
+| 03-17 | 17:05 | 🟢 BUY | Atlas | 0.1500 | DDApL88z... | copy | `32DXVi5dpNUb...` |
 | 03-17 | 17:02 | 🟢 BUY | Freedom | 0.1500 | 42nQHDpy... | copy | `3ADKmUytukhx...` |
 | 03-17 | 16:58 | 🟢 BUY | DUNGBEETLE | 0.1500 | 42nQHDpy... | copy | `51kwpunhBRe4...` |
 | 03-17 | 16:56 | 💰 SELL | SaintAlon | 0.0829 | 42nQHDpy... | TP1 | `2MNsGQRBXVPZ...` |
@@ -1658,8 +1663,3 @@
 | 03-10 | 17:33 | 💰 SELL | Gerald | 0.0955 | HMM6RoT2... | trail | `5Fk3mhDn3X86...` |
 | 03-10 | 17:25 | 🟢 BUY | FHOUSE | 0.0500 | gAd5gDX6... | copy | `g4tgNh4TSf4p...` |
 | 03-10 | 17:14 | 💰 SELL | creature | 0.0309 | HMM6RoT2... | TP2 | `4tG4QT7aC9VR...` |
-| 03-10 | 17:08 | 💰 SELL | Gerald | 0.0128 | HMM6RoT2... | TP4 | `2fZGP8s22mMS...` |
-| 03-10 | 17:08 | 🟢 BUY | Hollowell | 0.0500 | HMM6RoT2... | copy | `4Ta7uJfoTmFC...` |
-| 03-10 | 17:06 | 💰 SELL | Gerald | 0.0305 | HMM6RoT2... | TP3 | `3cjQKdgtroYW...` |
-| 03-10 | 17:06 | 💰 SELL | Gerald | 0.0386 | HMM6RoT2... | TP2 | `5PwMteJGfTFx...` |
-| 03-10 | 17:05 | 💰 SELL | Gerald | 0.0751 | HMM6RoT2... | TP1 | `2d3qbKsyBAxF...` |
