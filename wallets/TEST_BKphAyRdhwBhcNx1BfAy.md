@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 287 |
-| Open | 80 |
-| Closed | 207 |
-| W/L | 195/12 |
-| SOL In (closed) | 0.105200 |
-| **Closed P&L** | **+0.089898 SOL** |
-| **Closed ROI** | **+85.5%** |
-| Open Deployed | 0.028000 SOL |
+| Open | 79 |
+| Closed | 208 |
+| W/L | 196/12 |
+| SOL In (closed) | 0.105300 |
+| **Closed P&L** | **+0.089936 SOL** |
+| **Closed ROI** | **+85.4%** |
+| Open Deployed | 0.027900 SOL |
 
 ## Trades
 
@@ -32,14 +32,15 @@
 |------|--------|-----|----|
 | 2026-03-16 18:22:35 | BUY | 0.000100 | `2Rhc38L1R7auZ7iysdJmPyHG4YCSAz...` |
 
-### 🟢 RIZZUMER
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.41x
+### 🔴 RIZZUMER
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.03x | **Current:** 0.38x
 - **Mint:** `64ybvBKax6tgPquv9Fz5owFCuRHCVKpeEv3FYLgYpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 18:17:28 | BUY | 0.000100 | `4ZuobAtcoLxCU37DqvY1q5NTCiYMw6...` |
+| 2026-03-17 04:22:55 | SELL | 0.000038 | `H57obu12Dn6aV5nFCN3TMqHp398RyE...` |
 
 ### 🟢 Byenance
 - **Status:** open | **Exit:** open
@@ -70,7 +71,7 @@
 
 ### 🟢 FTF
 - **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.82x
+- **Peak:** 1.19x | **Current:** 0.79x
 - **Mint:** `EsVzGCA14tofF9EF3NhaZ3UUfZ7BqD6siDdq4YaDpump`
 
 | Time | Action | SOL | TX |
@@ -199,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.21x | **Current:** 6.56x
+- **Peak:** 7.21x | **Current:** 6.41x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -748,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.18x
+- **Peak:** 3.16x | **Current:** 2.13x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -1007,7 +1008,7 @@
 
 ### 🟢 TITO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.75x
+- **Peak:** 1.80x | **Current:** 0.76x
 - **Mint:** `BdiknpKMrJEnPm7Vque2SAbiVZKYGFyqJhWaq4Dhpump`
 
 | Time | Action | SOL | TX |
@@ -1955,7 +1956,7 @@
 
 ### 🟢 T-Nega
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.74x
+- **Peak:** 1.01x | **Current:** 0.83x
 - **Mint:** `ApSP2ApqwUTyBXXbjYjATE31KNnr6n5PNM2bHCa6pump`
 
 | Time | Action | SOL | TX |
@@ -2058,7 +2059,7 @@
 
 ### 🟢 DRONE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.95x | **Current:** 2.60x
+- **Peak:** 2.95x | **Current:** 2.59x
 - **Mint:** `GBmawmE9jJvyYVbdgTdYi9NXsjWwR5EaytvkrRwcpump`
 
 | Time | Action | SOL | TX |

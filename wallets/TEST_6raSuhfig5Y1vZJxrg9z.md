@@ -1,27 +1,28 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 15 |
-| Open | 9 |
-| Closed | 6 |
-| W/L | 6/0 |
-| SOL In (closed) | 0.001100 |
-| **Closed P&L** | **+0.002886 SOL** |
-| **Closed ROI** | **+262.4%** |
-| Open Deployed | 0.001400 SOL |
+| Open | 8 |
+| Closed | 7 |
+| W/L | 7/0 |
+| SOL In (closed) | 0.001200 |
+| **Closed P&L** | **+0.002924 SOL** |
+| **Closed ROI** | **+243.7%** |
+| Open Deployed | 0.001300 SOL |
 
 ## Trades
 
-### 🟢 BITCOIN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.26x | **Current:** 0.46x
+### 🔴 BITCOIN
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.26x | **Current:** 0.38x
 - **Mint:** `6cApU1MpjzHfF5E52yVTovHjzQWse3726r7f8E1mpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:03:03 | BUY | 0.000100 | `3tEiysVipHaYPd7X5DC2hEze6ETfSi...` |
+| 2026-03-17 04:20:25 | SELL | 0.000038 | `2rmN365tnQQ8j7Lao5bb6W3nRqhj1a...` |
 
 ### 🔴 BULKING
 - **Status:** closed | **Exit:** stop_loss
@@ -109,7 +110,7 @@
 
 ### 🟢 2024
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.13x | **Current:** 2.32x
+- **Peak:** 3.13x | **Current:** 2.22x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |

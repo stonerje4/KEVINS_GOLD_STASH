@@ -1,18 +1,28 @@
 # [TEST] Wallet: `H5T9MYu8SA9PCrhXQ9sjTmPJHiBuuzYLwhn7MtyNPgfz`
-> Generated: 2026-03-17 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 0 |
+| Total Positions | 3 |
+| Open | 1 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.001200 |
 | **Closed P&L** | **+0.000799 SOL** |
 | **Closed ROI** | **+66.6%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 TITAN
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.28x | **Current:** 2.28x
+- **Mint:** `4ay158ynQu4RfKe4oEjQFd3om2Fvyguz1UnQMm3rpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:21:04 | BUY | 0.000100 | `4uko2G4G88LsNgGFrEQNfxwkPzGE8x...` |
+| 2026-03-17 04:24:58 | SELL | 0.000023 | `3ACgArys6HxnKwTUWvAgYYR1QpEt1p...` |
 
 ### 🔴 Leonardo
 - **Status:** closed | **Exit:** ghost_close_stop_loss

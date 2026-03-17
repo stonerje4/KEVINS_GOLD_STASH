@@ -1,27 +1,38 @@
 # [TEST] Wallet: `4EsYuWFZAt1PfNJq8Jr7monip43gNqrQ7k2Kne1npqJx`
-> Generated: 2026-03-17 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 7 |
-| Open | 1 |
-| Closed | 6 |
-| W/L | 5/1 |
-| SOL In (closed) | 0.003100 |
-| **Closed P&L** | **+0.002047 SOL** |
-| **Closed ROI** | **+66.0%** |
-| Open Deployed | 0.000100 SOL |
+| Total Positions | 8 |
+| Open | 0 |
+| Closed | 8 |
+| W/L | 7/1 |
+| SOL In (closed) | 0.003300 |
+| **Closed P&L** | **+0.002120 SOL** |
+| **Closed ROI** | **+64.2%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 SKULL
-- **Status:** open | **Exit:** open
-- **Peak:** 1.19x | **Current:** 0.86x
+### 🔴 TITAN
+- **Status:** closing | **Exit:** stop_loss
+- **Peak:** 1.03x | **Current:** 0.33x
+- **Mint:** `52RPRoC9bkRtuvaZRnYfkeTyPYv7L9PNXbbbhPxCpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:20:35 | BUY | 0.000100 | `24RboUhvZQjRGjMtJwRVdiNP5f2qma...` |
+| 2026-03-17 04:24:53 | SELL | 0.000033 | `T6X7AW3KtZXLL2tDn38iNYn7ohmtXT...` |
+
+### 🔴 SKULL
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.19x | **Current:** 0.40x
 - **Mint:** `5fzCokPYw6mCodAsjSr7wYR9ct9gpr7ZJ8ELgjBcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 03:24:57 | BUY | 0.000100 | `2xP9pPRdy1HHHXQCZXTb1YiCtnc1xg...` |
+| 2026-03-17 04:24:13 | SELL | 0.000040 | `2BqzRhx6SFPFnzYuHqRVVFGqzg3MWs...` |
 
 ### 🔴 Replacement
 - **Status:** closed | **Exit:** stop_loss

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 04:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 chuckee
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.75x
+- **Peak:** 1.21x | **Current:** 0.41x
 - **Mint:** `HuhPV9jpYBqfaDKzwjXoiH4MD9oGaxUCKKLBQFHMpump`
 
 | Time | Action | SOL | TX |
