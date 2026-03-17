@@ -1,16 +1,11 @@
 # [TEST] `7cXeEXa4cpUDYtpa...`
-> 2026-03-17 23:45 UTC | **7** pos | **0W/6L** | P&L: **-0.000484 SOL** (-80.6%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| PVP | 03-17 18:45 | 0.45x | 1.03x | 5.0h | 0.0001 |
+> 2026-03-17 23:50 UTC | **7** pos | **0W/7L** | P&L: **-0.000553 SOL** (-79.0%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ PVP | -0.0001 | 03-17 18:45 | 1.0x | 03-17 23:49 | 0.0000/0.0001 | SL |
 | ❌ GlassWorm | -0.0001 | 03-17 17:02 | 1.0x | 03-17 17:26 | 0.0000/0.0001 | SL |
 | ❌ Yukie | -0.0001 | 03-17 13:56 | 1.7x | 03-17 15:10 | 0.0000/0.0001 | SL |
 | ❌ BULLY | -0.0001 | 03-17 10:05 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
@@ -22,6 +17,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 23:49 | PVP | SELL | 0.0000 | `41wBSx9GTzng7xQh...` |
+| 03-17 23:47 | PVP | SELL | 0.0000 | `5eHi2cGydN1bLfiB...` |
 | 03-17 18:45 | PVP | BUY | 0.0001 | `TVvQwHtKFyBhNtpA...` |
 | 03-17 17:26 | GlassWorm | SELL | 0.0000 | `2ryHp6JUQwTVR5Ti...` |
 | 03-17 17:02 | GlassWorm | BUY | 0.0001 | `nsJbzV5SyAMVfsXx...` |

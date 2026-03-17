@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 23:45 UTC** | 7d | 755 buys, 997 sells | In: **94.68** | Out: **87.50** | Net: **-7.18 SOL**
+> Updated: **2026-03-17 23:50 UTC** | 7d | 754 buys, 997 sells | In: **94.63** | Out: **87.56** | Net: **-7.07 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 23:49 | 💰 SELL | Thinker | 0.1162 | J5jm7BnB... | TP2 | `4t2oJGN52XyV...` |
 | 03-17 | 23:36 | 💰 SELL | ACTIII | 0.1160 | E79aNzAk... | TP2 | `52HYH46RA4JQ...` |
 | 03-17 | 23:20 | 💰 SELL | Daisy | 0.1257 | 5n593DWQ... | TP2 | `2ncu7ufdG15B...` |
 | 03-17 | 23:13 | 💰 SELL | DUNE | 0.0822 | 6qTPHgnS... | TP1 | `4DNA3mJLfH6A...` |
@@ -1753,5 +1754,3 @@
 | 03-11 | 00:06 | 💰 SELL | TrashDay | 0.0513 | BZWzvFQr... | TP1 | `5sGnaQARxY2p...` |
 | 03-10 | 23:54 | 🟢 BUY | WHAT | 0.0500 | 9rb2ChEj... | copy | `Pm9jmNUWX18j...` |
 | 03-10 | 23:54 | 🟢 BUY | Monk | 0.0500 | 9rb2ChEj... | copy | `5iTqFVVSn4TH...` |
-| 03-10 | 23:48 | 🟢 BUY | TrashDay | 0.0500 | BZWzvFQr... | copy | `41hWuxWBbP8B...` |
-| 03-10 | 23:46 | 💰 SELL | Impossible | 0.0531 | 9rb2ChEj... | trail | `45LTherneaM9...` |

@@ -1,16 +1,11 @@
 # [TEST] `45j4enZdhwDK931H...`
-> 2026-03-17 23:45 UTC | **2** pos | **0W/1L** | P&L: **-0.000009 SOL** (-8.7%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| dog | 03-17 23:32 | 1.25x | 1.25x | 0.2h | 0.0001 |
+> 2026-03-17 23:50 UTC | **2** pos | **0W/2L** | P&L: **-0.000109 SOL** (-54.3%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ dog | -0.0001 | 03-17 23:32 | 2.3x | 03-17 23:47 | 0.0000/0.0001 | gc_tp_2x_half |
 | ❌ patricklon | -0.0000 | 03-17 12:44 | 2.7x | 03-17 14:18 | 0.0001/0.0001 | trail |
 
 <details><summary>📋 Full Trade Log</summary>
