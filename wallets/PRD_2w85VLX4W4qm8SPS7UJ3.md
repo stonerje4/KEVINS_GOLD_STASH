@@ -1,11 +1,12 @@
 # [PRD] `2w85VLX4W4qm8SPS...`
-> 2026-03-17 21:00 UTC | **47** pos | **19W/27L** | P&L: **+2.558804 SOL** (+47.1%) | 1 open
+> 2026-03-17 21:05 UTC | **48** pos | **19W/27L** | P&L: **+2.558804 SOL** (+47.1%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| IMPJAK | 03-17 20:23 | 0.00x | 1.29x | 0.6h | 0.1500 |
+| Speak | 03-17 21:01 | 0.00x | 1.08x | 0.1h | 0.1500 |
+| IMPJAK | 03-17 20:23 | 0.00x | 1.29x | 0.7h | 0.1500 |
 
 ## Closed
 
@@ -62,6 +63,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:01 | Speak | BUY | 0.1500 | `BjVw2ZWUSMoZSvrv...` |
 | 03-17 20:41 | ? | SELL | 0.0586 | `Kn1j5DRBLEW9MxwE...` |
 | 03-17 20:24 | kiwi | SELL | 0.1060 | `5tWWSTCtMy9rSihb...` |
 | 03-17 20:23 | IMPJAK | BUY | 0.1500 | `5L5J5Kug31MDfdg8...` |

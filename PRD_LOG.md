@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 21:00 UTC** | 7d | 747 buys, 983 sells | In: **92.38** | Out: **85.07** | Net: **-7.31 SOL**
+> Updated: **2026-03-17 21:05 UTC** | 7d | 749 buys, 984 sells | In: **92.68** | Out: **85.19** | Net: **-7.49 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:04 | 💰 SELL | genny | 0.1193 | 42nQHDpy... | TP2 | `2cGhCsBzX8BU...` |
+| 03-17 | 21:04 | 🟢 BUY | Rosei | 0.1500 | 42nQHDpy... | copy | `3YEhvu4PLQX7...` |
+| 03-17 | 21:01 | 🟢 BUY | Speak | 0.1500 | 2w85VLX4... | copy | `BjVw2ZWUSMoZ...` |
 | 03-17 | 20:59 | 🔴 SELL | ? | 0.0533 | 3HGqppv8... | SL | `4QE8AtLFaiMQ...` |
 | 03-17 | 20:55 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `5BeRMymz7jbA...` |
 | 03-17 | 20:50 | 💰 SELL | WAR | 0.1347 | HCDsVE5Y... | TP2 | `5tBGJLmFSPrb...` |

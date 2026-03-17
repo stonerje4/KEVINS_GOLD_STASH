@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:00 UTC** | 7d | 1684 buys, 2123 sells | In: **0.50** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:05 UTC** | 7d | 1686 buys, 2125 sells | In: **0.50** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:03 | 🟢 BUY | estonarmy | 0.0001 | otq3sTTS... | copy_buy | `HKzLTPYzeaQh...` |
+| 03-17 | 21:02 | 🔴 SELL | IMPJAK | 0.0001 | GHy1P6vJ... | trail | `XFAKSwogMUjY...` |
+| 03-17 | 21:01 | 🟢 BUY | Speak | 0.0001 | HV4FmWLE... | copy_buy | `5GF1GCuvc4DB...` |
+| 03-17 | 21:00 | 💰 SELL | HAWFAM | 0.0001 | FoHJUYTh... | TP1 | `3uFXM2MWYH5J...` |
 | 03-17 | 20:58 | 💰 SELL | genny | 0.0001 | Gdd86j2T... | TP2 | `5PvRbe2sK4rf...` |
 | 03-17 | 20:57 | 🟢 BUY | MAFIA | 0.0001 | bocsoUiM... | copy_buy | `2x12LTrrvtnp...` |
 | 03-17 | 20:57 | 🔴 SELL | PAWAN | 0.0000 | cqakon1K... | SL | `5aeS2BmNxSd9...` |
