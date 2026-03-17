@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 03:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -24,7 +24,7 @@
 | 2026-03-17 01:54:26 | BUY | 0.000100 | `3kjWmvjHMBGDwGEkuZzZozsgkvoACB...` |
 
 ### 🔴 HOLD
-- **Status:** closing | **Exit:** stop_loss
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.40x
 - **Mint:** `SPVPDaVfyDKqse6t5N6QwFtp3Va7jfAh9fjd8Rwpump`
 
@@ -45,7 +45,7 @@
 
 ### 🟢 FPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 1.08x
+- **Peak:** 1.41x | **Current:** 1.03x
 - **Mint:** `EuqzwYKEVZ2Ci24qjoMwu6sDdrJ7ZSqwEyg4cF2ppump`
 
 | Time | Action | SOL | TX |

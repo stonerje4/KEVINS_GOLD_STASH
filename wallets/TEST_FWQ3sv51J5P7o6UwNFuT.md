@@ -1,4 +1,4 @@
-# [TEST] Wallet: `9zuBmBAu4tdegLWcmLb1ksaF9PBvBVkcSALjAwXwPKrU`
+# [TEST] Wallet: `FWQ3sv51J5P7o6UwNFuT612HUG2CitRT8AJTtWS6Qs5G`
 > Generated: 2026-03-17 03:10 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 PEKEPOME
+### 🟢 CLOVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.49x
-- **Mint:** `BHvwMeTtmwxmuZe4umCQ3T9qy3jDSyHGM3H4YRxMpump`
+- **Peak:** 1.15x | **Current:** 0.82x
+- **Mint:** `49SD1adniyr5rKSkgoB3J26HjNgXieywQ3Mm8harpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 16:48:15 | BUY | 0.000100 | `2jwf2xEtP1FaS3ie9Dv3Uj63nf4VAj...` |
+| 2026-03-17 03:05:08 | BUY | 0.000100 | `5ZgDvBiyCkJXzGKUB9MGXtRFJeCywQ...` |
 

@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BGLw4MpMcGN7qJsJQBAFzfBudXgaUtnczFCxrrpCHq8P`
-> Generated: 2026-03-17 03:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 4 |
-| Closed | 0 |
-| W/L | 0/0 |
-| SOL In (closed) | 0.000000 |
-| **Closed P&L** | **+0.000000 SOL** |
-| **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 1 |
+| W/L | 1/0 |
+| SOL In (closed) | 0.000100 |
+| **Closed P&L** | **+0.000155 SOL** |
+| **Closed ROI** | **+154.6%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
@@ -34,7 +34,7 @@
 
 ### 🟢 UNSW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.67x | **Current:** 0.57x
+- **Peak:** 1.67x | **Current:** 0.61x
 - **Mint:** `Fpckub6J1WMSJctyJJgsXVJcQbUXa4HsJbrF783Epump`
 
 | Time | Action | SOL | TX |
@@ -42,8 +42,8 @@
 | 2026-03-17 00:11:19 | BUY | 0.000100 | `4kU9PKexWQHdrbKfd4RUrxwQL4NSJo...` |
 
 ### 🟢 MiroFish
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.11x | **Current:** 2.19x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.11x | **Current:** 1.30x
 - **Mint:** `9vbovDf4rgasuPUw7CZDW8ekoJpo3R4SrohQK8aQpump`
 
 | Time | Action | SOL | TX |
@@ -51,4 +51,5 @@
 | 2026-03-16 23:28:29 | BUY | 0.000100 | `54Uvhqf9rkZZrvyaYfTUG1u8Luqihf...` |
 | 2026-03-17 02:49:36 | SELL | 0.000020 | `3PZLrhq2mUBaHAHbjKZRc6iCRxkCWr...` |
 | 2026-03-17 02:58:00 | SELL | 0.000028 | `32h42EMq8bj3NcTha5v2wJztEB4kuJ...` |
+| 2026-03-17 03:08:59 | SELL | 0.000106 | `4xgMrZ29kkYPQpkqFzUAuvi6AuAze6...` |
 

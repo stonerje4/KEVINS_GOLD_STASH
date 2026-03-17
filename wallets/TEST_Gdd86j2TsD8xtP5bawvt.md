@@ -1,22 +1,31 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 03:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 4 |
+| Total Positions | 7 |
+| Open | 5 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.000700 |
 | **Closed P&L** | **+0.000339 SOL** |
 | **Closed ROI** | **+48.4%** |
-| Open Deployed | 0.000400 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
+### 🟢 BITCOIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.17x | **Current:** 1.17x
+- **Mint:** `GoiXEGSrUBCZhQH1d3cGaZ1TXtPWgdtx1fCcxS76pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 03:08:19 | BUY | 0.000100 | `4PhYe3RBbaQBdqix8S4ovuXk8UVGUg...` |
+
 ### 🟢 GROKETTE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.40x | **Current:** 1.36x
+- **Peak:** 2.40x | **Current:** 0.96x
 - **Mint:** `65EgPvGQQgSofuuoUkx2xpWVPwMVVLpyFBL3GSSzpump`
 
 | Time | Action | SOL | TX |
@@ -26,7 +35,7 @@
 
 ### 🟢 Hyojo
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.29x | **Current:** 1.41x
+- **Peak:** 2.29x | **Current:** 1.55x
 - **Mint:** `HfKNrf3VFYSzZfG3jS4pQEfjkHTxAwmD4wm1FUx8pump`
 
 | Time | Action | SOL | TX |
