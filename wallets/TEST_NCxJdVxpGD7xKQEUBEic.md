@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 06:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,15 @@
 ## Trades
 
 ### 🟢 GoonGPT
-- **Status:** open | **Exit:** open
-- **Peak:** 1.89x | **Current:** 1.81x
+- **Status:** partial | **Exit:** open
+- **Peak:** 3.05x | **Current:** 3.05x
 - **Mint:** `DTs1TiHQueUCFXPdGKXfwxoEqHLhYdybepxzqcEcpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 05:54:17 | BUY | 0.000100 | `2Mi7en7MKWrhk8Gku8RsDRd3aqYxpR...` |
+| 2026-03-17 06:11:55 | SELL | 0.000022 | `1Xo97h4D3kpNmCXVvgjfvjsHUkppt9...` |
+| 2026-03-17 06:14:33 | SELL | 0.000027 | `5c2aBWTry6T9aRK1jk5Yrq2WLLqUU6...` |
 
 ### 🔴 chuckee
 - **Status:** closed | **Exit:** stop_loss

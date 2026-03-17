@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 06:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 trot
 - **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.37x
+- **Peak:** 1.59x | **Current:** 1.33x
 - **Mint:** `HvSpfBdMNAsBzZgqgnfRzo6wT43JyAR9s2aCtUEpump`
 
 | Time | Action | SOL | TX |
