@@ -1,5 +1,5 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 22:55 UTC** | 7d | 760 buys, 1005 sells | In: **94.93** | Out: **87.50** | Net: **-7.43 SOL**
+> Updated: **2026-03-17 23:00 UTC** | 7d | 760 buys, 1004 sells | In: **94.93** | Out: **87.37** | Net: **-7.56 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
@@ -1767,4 +1767,3 @@
 | 03-10 | 23:07 | 🔴 SELL | MINES | 0.0145 | HMM6RoT2... | SL | `2YW4vcGNtRJa...` |
 | 03-10 | 23:05 | 🟢 BUY | MINES | 0.0500 | HMM6RoT2... | copy | `2yzacoXyHhMM...` |
 | 03-10 | 23:03 | 💰 SELL | AuPair | 0.0329 | HMM6RoT2... | TP2 | `22cvzresgCVW...` |
-| 03-10 | 22:56 | 💰 SELL | Cardboard | 0.1306 | 7aMgK5L4... | tp_25x_trim | `4DacL9vUNZYD...` |

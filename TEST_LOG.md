@@ -1,8 +1,19 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:55 UTC** | 7d | 1778 buys, 2201 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 23:00 UTC** | 7d | 1783 buys, 2207 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:59 | 💰 SELL | Smiski | 0.0001 | AiNfNi2e... | TP2 | `3AMBYyH2z3n3...` |
+| 03-17 | 22:59 | 🟢 BUY | FREED0M | 0.0001 | Dr5V9A9d... | copy_buy | `2TSfvbY8ztMR...` |
+| 03-17 | 22:59 | 💰 SELL | FLAG | 0.0001 | U3jiDzTc... | TP1 | `4cPLk6QQaWsQ...` |
+| 03-17 | 22:58 | 🟢 BUY | Romanus | 0.0001 | 6gN2SNYX... | copy_buy | `54eR3uTWfap8...` |
+| 03-17 | 22:57 | 🟢 BUY | FLAG | 0.0001 | AiNfNi2e... | copy_buy | `tAJbzFCpDsDM...` |
+| 03-17 | 22:57 | 🟢 BUY | AL | 0.0001 | EaEf6TH8... | copy_buy | `37Kbc42iDM8q...` |
+| 03-17 | 22:56 | 🔴 SELL | Liquid | 0.0001 | FoHJUYTh... | stale_cleanu | `51YzXirx2bXe...` |
+| 03-17 | 22:56 | 🔴 SELL | RAFA | 0.0001 | 2autqiin... | stale_cleanu | `4PPfBs97zqke...` |
+| 03-17 | 22:56 | 🔴 SELL | King | 0.0000 | AJ8Gc1cY... | stale_cleanu | `4YTALomKdLDZ...` |
+| 03-17 | 22:55 | 💰 SELL | Cappy | 0.0001 | Lfw99jsE... | TP1 | `53wqTEerN13W...` |
+| 03-17 | 22:55 | 🟢 BUY | COUNCIL | 0.0001 | EaEf6TH8... | copy_buy | `5qt5vx5CrZ5W...` |
 | 03-17 | 22:54 | 🟢 BUY | CLAWSTEIN | 0.0001 | EaEf6TH8... | copy_buy | `dtcwAcYdjjtK...` |
 | 03-17 | 22:53 | 🟢 BUY | LOVED | 0.0001 | BBBByrLH... | copy_buy | `4CzfEb3nGEEZ...` |
 | 03-17 | 22:51 | 🟢 BUY | DAN | 0.0001 | GRnCsBLj... | copy_buy | `XUNhck9LniDD...` |
