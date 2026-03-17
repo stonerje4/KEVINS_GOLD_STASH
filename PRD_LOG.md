@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 18:20 UTC** | 7d | 723 buys, 956 sells | In: **87.98** | Out: **81.50** | Net: **-6.48 SOL**
+> Updated: **2026-03-17 18:25 UTC** | 7d | 724 buys, 956 sells | In: **88.13** | Out: **81.54** | Net: **-6.59 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:24 | 🔴 SELL | IQ | 0.0597 | 6qTPHgnS... | SL | `3dUXgF3YAVqA...` |
+| 03-17 | 18:20 | 🟢 BUY | DUNE | 0.1500 | 6qTPHgnS... | copy | `5pTim4z4z2AY...` |
 | 03-17 | 18:19 | 🟢 BUY | USEFUL | 0.1500 | 6qTPHgnS... | copy | `5YyZMwgTvm64...` |
 | 03-17 | 18:11 | 🔴 SELL | Momo-chan | 0.0590 | 42nQHDpy... | SL | `5aXxjsukmwrv...` |
 | 03-17 | 18:09 | 🟢 BUY | clawchain | 0.1500 | 42nQHDpy... | copy | `3SZwHyzABT8d...` |
@@ -1681,4 +1683,3 @@
 | 03-10 | 18:38 | 🟢 BUY | Lenny | 0.0500 | 8QfqdUJt... | copy | `31vmpVT9m1eW...` |
 | 03-10 | 18:37 | 🟢 BUY | Gain | 0.0500 | 8QfqdUJt... | copy | `3pNmBsyi1fdb...` |
 | 03-10 | 18:26 | 🟢 BUY | Landslide | 0.0500 | 8QfqdUJt... | copy | `5CVC2RphUUSV...` |
-| 03-10 | 18:24 | 🔴 SELL | Pochita | 0.0179 | 7aMgK5L4... | SL | `w7C4VdujXKYY...` |
