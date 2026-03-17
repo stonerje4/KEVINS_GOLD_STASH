@@ -1,5 +1,5 @@
 # [PRD] `EPGrHnQeBPtuCGiJ...`
-> 2026-03-17 23:25 UTC | **6** pos | **1W/5L** | P&L: **+0.663943 SOL** (+73.8%) | 0 open
+> 2026-03-17 23:30 UTC | **6** pos | **1W/5L** | P&L: **+0.663943 SOL** (+73.8%) | 0 open
 
 ## Closed
 

@@ -1,18 +1,18 @@
 # [TEST] `EyeSFbqHMXzZBTFq...`
-> 2026-03-17 23:25 UTC | **9** pos | **0W/7L** | P&L: **-0.001049 SOL** (-47.7%) | 2 open
+> 2026-03-17 23:30 UTC | **9** pos | **1W/7L** | P&L: **-0.000940 SOL** (-40.9%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Dogeeto | 03-17 21:31 | 1.12x | 4.39x | 1.9h | 0.0001 |
-| BELIEVERS | 03-17 16:38 | 0.80x | 1.96x | 6.8h | 0.0001 |
+| BELIEVERS | 03-17 16:38 | 0.76x | 1.96x | 6.9h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
 | ❌ Oranges | -0.0001 | 03-17 21:38 | 1.6x | 03-17 22:01 | 0.0000/0.0001 | SL |
+| ✅ Dogeeto | +0.0001 | 03-17 21:31 | 4.4x | 03-17 23:29 | 0.0002/0.0001 | trail |
 | ❌ DOG | -0.0001 | 03-17 18:04 | 1.6x | 03-17 18:08 | 0.0000/0.0001 | gc_SL |
 | ❌ Mina | -0.0001 | 03-17 03:19 | 1.0x | 03-17 03:23 | 0.0000/0.0001 | gc_SL |
 | ❌ 唐子 | -0.0001 | 03-17 02:35 | 1.0x | 03-17 02:43 | 0.0000/0.0001 | SL |
@@ -24,6 +24,10 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 23:29 | Dogeeto | SELL | 0.0000 | `AkZpTz5VEnP5EvbS...` |
+| 03-17 23:28 | Dogeeto | SELL | 0.0000 | `2qfCrpfevrDxcjYv...` |
+| 03-17 23:26 | Dogeeto | SELL | 0.0000 | `2VDQzr1BzbA45qtB...` |
+| 03-17 23:25 | Dogeeto | SELL | 0.0000 | `2SGUL4frSbQG5dWf...` |
 | 03-17 23:24 | Dogeeto | SELL | 0.0000 | `3yHxySp3hoafcity...` |
 | 03-17 23:22 | Dogeeto | SELL | 0.0000 | `4fXhAh5GHyhMwCWC...` |
 | 03-17 23:21 | Dogeeto | SELL | 0.0000 | `5xaToMmdabQ8wgbS...` |
