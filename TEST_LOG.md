@@ -1,8 +1,22 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 18:55 UTC** | 7d | 1585 buys, 2044 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:00 UTC** | 7d | 1592 buys, 2051 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:59 | 💰 SELL | ÉIRE | 0.0001 | AiNfNi2e... | TP1 | `54rq1BpHtp18...` |
+| 03-17 | 18:59 | 🔴 SELL | SLOP | 0.0000 | 7yd579zX... | SL | `2rh2F4vHmxQa...` |
+| 03-17 | 18:59 | 🟢 BUY | momo | 0.0001 | 6raSuhfi... | copy_buy | `5dipfA5PYgYE...` |
+| 03-17 | 18:58 | 🔴 SELL | MANPADS | 0.0001 | 35RArQiy... | trail | `4LJmEXFYyVw5...` |
+| 03-17 | 18:58 | 🟢 BUY | CLAWXIOM | 0.0001 | TZkcwgk6... | copy_buy | `56kbRMgHrKae...` |
+| 03-17 | 18:58 | 🟢 BUY |  SAINTJAK | 0.0001 | FoHJUYTh... | copy_buy | `2u3jjSSFKsQo...` |
+| 03-17 | 18:58 | 🟢 BUY | Baldy | 0.0001 | FWQ3sv51... | copy_buy | `5LySKyHDmNaW...` |
+| 03-17 | 18:57 | 🟢 BUY | Baldy | 0.0001 | AJ8Gc1cY... | copy_buy | `22x38jzwsyHc...` |
+| 03-17 | 18:57 | 💰 SELL | EXPO | 0.0001 | Gdd86j2T... | TP1 | `3qwQYUPdAo6P...` |
+| 03-17 | 18:56 | 🟢 BUY | ÉIRE | 0.0001 | AiNfNi2e... | copy_buy | `phwYjKao1Dw8...` |
+| 03-17 | 18:55 | 🟢 BUY | PVP | 0.0001 | FoHJUYTh... | copy_buy | `3SEoKoSPoKQ6...` |
+| 03-17 | 18:55 | 🔴 SELL | Akhal-Teke | 0.0001 | FoHJUYTh... | stale_cleanu | `49jqDAsmkkhE...` |
+| 03-17 | 18:55 | 🔴 SELL | THIS | 0.0001 | FoabCXs5... | stale_cleanu | `2NYSkeDnmpT7...` |
+| 03-17 | 18:55 | 🔴 SELL | CHESTER | 0.0001 | FoHJUYTh... | stale_cleanu | `42Zjbhq4Txvt...` |
 | 03-17 | 18:54 | 🟢 BUY | Einstein | 0.0001 | APUYxGfK... | copy_buy | `Ra782u8brEgE...` |
 | 03-17 | 18:52 | 🟢 BUY | NINO | 0.0001 | APUYxGfK... | copy_buy | `5vZAtbfTkeSn...` |
 | 03-17 | 18:52 | 🟢 BUY | DOT | 0.0001 | 6uippNoB... | copy_buy | `2bQqP4r3C6ZW...` |
