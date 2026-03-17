@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 22:10 UTC** | 7d | 757 buys, 1004 sells | In: **94.28** | Out: **87.27** | Net: **-7.01 SOL**
+> Updated: **2026-03-17 22:15 UTC** | 7d | 759 buys, 1005 sells | In: **94.68** | Out: **87.40** | Net: **-7.28 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:14 | 🟢 BUY | ACTIII | 0.1500 | E79aNzAk... | copy | `4yKeCuTx2npj...` |
+| 03-17 | 22:13 | 🔴 SELL | chad | 0.1252 | AF5Txaad... | trail | `4CkDUkdHv3FS...` |
+| 03-17 | 22:11 | 🟢 BUY | Einstein | 0.1500 | 5n593DWQ... | copy | `3t4amhiRrVJL...` |
+| 03-17 | 22:10 | 🟢 BUY | EA | 0.1500 | 5n593DWQ... | copy | `ATQMCvR1V3G5...` |
 | 03-17 | 22:08 | 💰 SELL | Thinker | 0.0772 | J5jm7BnB... | TP1 | `5a7fS6zWkNBb...` |
 | 03-17 | 22:06 | 🔴 SELL | BCC | 0.1215 | CZjxED3u... | stale | `E8i9HC2zSfXo...` |
 | 03-17 | 22:06 | 🔴 SELL | chuckee | 0.1150 | 42nQHDpy... | stale | `5wpoCkMujmiu...` |
@@ -1763,4 +1767,3 @@
 | 03-10 | 22:34 | 🔴 SELL | FLORK | 0.0182 | HMM6RoT2... | SL | `3kxSwfFwiBgo...` |
 | 03-10 | 22:19 | 🔴 SELL | archie | 0.0143 | 9rb2ChEj... | SL | `f1QhwcaLdi9k...` |
 | 03-10 | 22:18 | 🟢 BUY | AgentHub | 0.0500 | 9rb2ChEj... | copy | `3uN84c9MbArX...` |
-| 03-10 | 22:14 | 🟢 BUY | Florky | 0.0500 | 9rb2ChEj... | copy | `5rcXgXduDPfy...` |

@@ -1,5 +1,11 @@
 # [TEST] `4EsYuWFZAt1PfNJq...`
-> 2026-03-17 22:10 UTC | **9** pos | **1W/8L** | P&L: **-0.001220 SOL** (-35.9%) | 0 open
+> 2026-03-17 22:15 UTC | **10** pos | **1W/8L** | P&L: **-0.001220 SOL** (-35.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| iMGOOD | 03-17 22:13 | 1.05x | 1.16x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -19,6 +25,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:13 | iMGOOD | BUY | 0.0001 | `21UWgv3DcvsJtRM5...` |
 | 03-17 07:23 | Square | BUY | 0.0001 | `v6vLf7fdUEyd2MBE...` |
 | 03-17 04:24 | TITAN | SELL | 0.0000 | `T6X7AW3KtZXLL2tD...` |
 | 03-17 04:24 | SKULL | SELL | 0.0000 | `2BqzRhx6SFPFnzYu...` |

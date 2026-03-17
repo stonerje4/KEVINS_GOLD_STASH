@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:10 UTC** | 7d | 1740 buys, 2175 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:15 UTC** | 7d | 1743 buys, 2177 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:15 | 💰 SELL | ACTIII | 0.0001 | 35RArQiy... | TP1 | `4EQB1hUNSEZS...` |
+| 03-17 | 22:14 | 🔴 SELL | chad | 0.0001 | 5dd3zjBQ... | trail | `gNGHkBhkV3FC...` |
+| 03-17 | 22:14 | 🟢 BUY | SONAR | 0.0001 | Gdd86j2T... | copy_buy | `2yjduwUrtPk6...` |
+| 03-17 | 22:13 | 🟢 BUY | iMGOOD | 0.0001 | 4EsYuWFZ... | copy_buy | `21UWgv3DcvsJ...` |
+| 03-17 | 22:11 | 🟢 BUY | ACTIII | 0.0001 | 35RArQiy... | copy_buy | `5nJAWCvZPzMi...` |
 | 03-17 | 22:08 | 🟢 BUY | flipper | 0.0001 | AiNfNi2e... | copy_buy | `4jN1egbUrQti...` |
 | 03-17 | 22:08 | 💰 SELL | GANYMEDE | 0.0002 | EaEf6TH8... | trail | `UHEBTRtEnoJz...` |
 | 03-17 | 22:06 | 💰 SELL | chad | 0.0001 | 5dd3zjBQ... | TP1 | `4eMiHRGc8z5u...` |
