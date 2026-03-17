@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 19:35 UTC** | 7d | 729 buys, 972 sells | In: **89.28** | Out: **83.89** | Net: **-5.39 SOL**
+> Updated: **2026-03-17 19:40 UTC** | 7d | 730 buys, 973 sells | In: **89.43** | Out: **83.95** | Net: **-5.48 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:39 | 🟢 BUY | ASTER | 0.1500 | BGGJhxGX... | copy | `3zJ4L31KGWMC...` |
+| 03-17 | 19:35 | 🔴 SELL | ANCESTORS | 0.0597 | 2w85VLX4... | SL | `5N7SAQ6GbTQ3...` |
 | 03-17 | 19:31 | 💰 SELL | clawchain | 0.1153 | 42nQHDpy... | TP2 | `APQa3ZcHq1bH...` |
 | 03-17 | 19:31 | 🟢 BUY | ACA | 0.1500 | BGGJhxGX... | copy | `1ksr4qzzy6Yh...` |
 | 03-17 | 19:29 | 🔴 SELL | ERIC | 0.1220 | BNCSPd6Q... | trail | `34Wg4m3Y6nxo...` |

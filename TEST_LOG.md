@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:35 UTC** | 7d | 1611 buys, 2071 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 19:40 UTC** | 7d | 1618 buys, 2074 sells | In: **0.50** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:39 | 🔴 SELL | Éire | 0.0000 | 35RArQiy... | SL | `2ceTKXmVgi5q...` |
+| 03-17 | 19:39 | 🟢 BUY | PEPITO | 0.0001 | Lfw99jsE... | copy_buy | `4h7nBaAQYFoh...` |
+| 03-17 | 19:39 | 🟢 BUY | ASTER | 0.0001 | BGGJhxGX... | copy_buy | `2aEzU3DdKBAM...` |
+| 03-17 | 19:39 | 🟢 BUY | CyClaw | 0.0001 | Lfw99jsE... | copy_buy | `42Pd4Q8dHdaz...` |
+| 03-17 | 19:38 | 🟢 BUY | SMUDGE | 0.0001 | GvksYkES... | copy_buy | `8GxZEi1cfvzp...` |
+| 03-17 | 19:38 | 🟢 BUY | USOS | 0.0001 | Lfw99jsE... | copy_buy | `4tm4oT8zoMz1...` |
+| 03-17 | 19:37 | 🔴 SELL | DRAMA | 0.0000 | BGBC9kXr... | SL | `5Bv2H2ayVvvv...` |
+| 03-17 | 19:36 | 🔴 SELL | TRUMP | 0.0000 | 7EautDJG... | trail | `4ZnjAzhUprVS...` |
+| 03-17 | 19:36 | 🟢 BUY | Retro | 0.0001 | Lfw99jsE... | copy_buy | `2toyWggEtRTf...` |
+| 03-17 | 19:35 | 🟢 BUY | FLORA | 0.0001 | Lfw99jsE... | copy_buy | `3VojFBUqjyAp...` |
 | 03-17 | 19:34 | 🟢 BUY | Éire | 0.0001 | 35RArQiy... | copy_buy | `5ZphieLqqSwa...` |
 | 03-17 | 19:34 | 🟢 BUY | YOLO | 0.0001 | Lfw99jsE... | copy_buy | `4yj6yzJPPBiv...` |
 | 03-17 | 19:34 | 🔴 SELL | PINGU | 0.0000 | FoabCXs5... | SL | `5kjsoRDQpU2n...` |
