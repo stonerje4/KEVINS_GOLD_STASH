@@ -1,5 +1,5 @@
 # [TEST] Wallet: `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN`
-> Generated: 2026-03-17 06:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 PROSUMER
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.03x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.76x | **Current:** 1.48x
 - **Mint:** `HYi27y1QhmqoU6Mg2M5KUVLfaEH99Vn4cyka35jUpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 06:29:09 | BUY | 0.000100 | `5P2EsCbAqumYP5fuXDybJYZeCWr2NW...` |
+| 2026-03-17 06:32:50 | SELL | 0.000021 | `5qsF8kosXr6EUi5kQJr4h3QVbvDaD1...` |
 
 ### 🔴 TRASHBAG
 - **Status:** closed | **Exit:** runner_trailing_stop

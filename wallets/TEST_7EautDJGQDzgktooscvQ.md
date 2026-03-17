@@ -1,4 +1,4 @@
-# [TEST] Wallet: `51Ui3ZD4jyUmQZpCLqJMzARpu3rqJiv5H1gM7ZFqycRw`
+# [TEST] Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 > Generated: 2026-03-17 06:35 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 Geeked
+### 🟢 PROSUMER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.86x
-- **Mint:** `Ggy4NubNtkKvuyiH7dCECXZTJdU3WC848EtafREppump`
+- **Peak:** 1.17x | **Current:** 1.17x
+- **Mint:** `EHi1rzMYyxtR7PwPrBfWcCbz7fMwL6Snwa5NYaVCpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-17 03:54:01 | BUY | 0.000100 | `2voC9c5aqSyMCJEPR7GWGPeNiDrgFu...` |
+| 2026-03-17 06:32:57 | BUY | 0.000100 | `nyPjARUgT8mXEjDgznMmfjYqF5rbjT...` |
 

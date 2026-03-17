@@ -1,28 +1,30 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 06:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 3 |
-| Open | 2 |
-| Closed | 1 |
-| W/L | 1/0 |
-| SOL In (closed) | 0.000100 |
-| **Closed P&L** | **+0.000038 SOL** |
+| Open | 1 |
+| Closed | 2 |
+| W/L | 2/0 |
+| SOL In (closed) | 0.000200 |
+| **Closed P&L** | **+0.000077 SOL** |
 | **Closed ROI** | **+38.4%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.79x | **Current:** 1.88x
+- **Peak:** 7.38x | **Current:** 7.20x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 06:21:07 | BUY | 0.000100 | `2dUTjYPgqFFihFExL352CuZsEMCQrp...` |
 | 2026-03-17 06:24:05 | SELL | 0.000021 | `4pHgZU9Gu7uYyzfQky96gKjEwKWSrg...` |
+| 2026-03-17 06:30:42 | SELL | 0.000027 | `5o2pcxDNyXckfjALtVdG9Jk4CABpNi...` |
+| 2026-03-17 06:31:24 | SELL | 0.000046 | `48VK68bUm8YjXBBvSpRZj13ozsorMq...` |
 
 ### 🔴 CLOVE
 - **Status:** closed | **Exit:** stop_loss
@@ -34,12 +36,13 @@
 | 2026-03-17 06:15:13 | BUY | 0.000100 | `3ehc9zgvjJyiR3Cs6B7FzSZcCTzBDS...` |
 | 2026-03-17 06:21:46 | SELL | 0.000038 | `5VPYCTDStRxm4bd3jpuwhLB53banu6...` |
 
-### 🟢 trot
-- **Status:** open | **Exit:** open
-- **Peak:** 1.59x | **Current:** 1.00x
+### 🔴 trot
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.59x | **Current:** 0.39x
 - **Mint:** `HvSpfBdMNAsBzZgqgnfRzo6wT43JyAR9s2aCtUEpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 05:45:34 | BUY | 0.000100 | `kYEc2cv9s5aR2s6ApY3eDCfAKZ43LS...` |
+| 2026-03-17 06:32:07 | SELL | 0.000038 | `5VPu3r9ntcjrhsN2e5PZJaczAysmLs...` |
 

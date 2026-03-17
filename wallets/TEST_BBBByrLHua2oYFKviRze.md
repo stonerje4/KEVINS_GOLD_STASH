@@ -1,22 +1,22 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 06:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 105 |
-| Open | 34 |
-| Closed | 71 |
-| W/L | 69/2 |
-| SOL In (closed) | 0.030600 |
-| **Closed P&L** | **+0.025708 SOL** |
-| **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.004400 SOL |
+| Open | 33 |
+| Closed | 72 |
+| W/L | 70/2 |
+| SOL In (closed) | 0.030700 |
+| **Closed P&L** | **+0.025748 SOL** |
+| **Closed ROI** | **+83.9%** |
+| Open Deployed | 0.004300 SOL |
 
 ## Trades
 
 ### 🟢 Roadrunner
 - **Status:** open | **Exit:** open
-- **Peak:** 1.21x | **Current:** 0.49x
+- **Peak:** 1.21x | **Current:** 0.44x
 - **Mint:** `HFseGJE8WV49Fob5SrUz5jLAvn9ueSFi2Cw8Uphwpump`
 
 | Time | Action | SOL | TX |
@@ -243,14 +243,15 @@
 |------|--------|-----|----|
 | 2026-03-16 17:29:42 | BUY | 0.000100 | `457uwMPTV3hNBwU8Xdfz4VVziQe65q...` |
 
-### 🟢 Metacoin
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.41x
+### 🔴 Metacoin
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.00x | **Current:** 0.40x
 - **Mint:** `3uYVyzLJpg1jv6LthEkNhBYVRUrppd2ncDE7e8wopump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 17:27:58 | BUY | 0.000100 | `2RXj3UpXdx77Z1eXC9DcwvrJz2Utn1...` |
+| 2026-03-17 06:33:33 | SELL | 0.000040 | `4ARJBbSEvJ4tamUzvSUAHKVMURqQgS...` |
 
 ### 🟢 Fraudmaxxing
 - **Status:** open | **Exit:** open

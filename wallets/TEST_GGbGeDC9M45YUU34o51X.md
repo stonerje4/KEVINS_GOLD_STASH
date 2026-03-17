@@ -1,5 +1,5 @@
 # [TEST] Wallet: `GGbGeDC9M45YUU34o51Xj8UjzAzBMVaboFykvh5h4e6D`
-> Generated: 2026-03-17 06:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 USDC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 1.06x
+- **Peak:** 1.06x | **Current:** 1.04x
 - **Mint:** `2mhhHydX7cEr2mYLJks5B5ADpdSBK8kbMdbanPDjpump`
 
 | Time | Action | SOL | TX |

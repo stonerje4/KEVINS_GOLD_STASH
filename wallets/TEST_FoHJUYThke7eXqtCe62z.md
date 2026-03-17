@@ -1,18 +1,27 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 06:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 86 |
-| Open | 58 |
+| Total Positions | 87 |
+| Open | 59 |
 | Closed | 28 |
 | W/L | 13/15 |
 | SOL In (closed) | 0.023700 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+38.2%** |
-| Open Deployed | 0.017800 SOL |
+| Open Deployed | 0.017900 SOL |
 
 ## Trades
+
+### 🟢 TOR
+- **Status:** open | **Exit:** open
+- **Peak:** 1.28x | **Current:** 0.98x
+- **Mint:** `2sDxUPpjpBdBP4jAdKnPA7PJn1zfufkvFuzfDEiPpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 06:30:15 | BUY | 0.000100 | `5qv1QQeDiSdhGJTUTu8LV5RbMhdvav...` |
 
 ### 🟢 CGE
 - **Status:** open | **Exit:** open
@@ -469,7 +478,7 @@
 
 ### 🟢 DegenMeta
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.90x
+- **Peak:** 1.02x | **Current:** 0.88x
 - **Mint:** `DaMDDC7zSR95VykeWX5kFWywhvsSuS4mREvLE8Rppump`
 
 | Time | Action | SOL | TX |
@@ -516,7 +525,7 @@
 
 ### 🟢 AgentOil
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.82x
+- **Peak:** 1.06x | **Current:** 0.91x
 - **Mint:** `A92zfoFu2Rgp5npNzm14fbyBapoNkekGpLkvGHf7pump`
 
 | Time | Action | SOL | TX |
