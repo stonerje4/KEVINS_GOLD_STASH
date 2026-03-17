@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 21:25 UTC** | 7d | 758 buys, 995 sells | In: **94.03** | Out: **86.27** | Net: **-7.76 SOL**
+> Updated: **2026-03-17 21:30 UTC** | 7d | 757 buys, 996 sells | In: **93.98** | Out: **86.35** | Net: **-7.63 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:26 | 💰 SELL | Speak | 0.0783 | 2w85VLX4... | TP1 | `GbmcQJ7TVYee...` |
 | 03-17 | 21:19 | 🔴 SELL | shit | 0.0875 | 3HGqppv8... | trail | `4WbBK9u7sVrK...` |
 | 03-17 | 21:19 | 🟢 BUY | Wump | 0.1500 | AF5Txaad... | copy | `4utQCXHGkbGF...` |
 | 03-17 | 21:18 | 🔴 SELL | ? | 0.0512 | 3HGqppv8... | SL | `5gyyCVjXcFQL...` |
@@ -1755,4 +1756,3 @@
 | 03-10 | 21:54 | 🔴 SELL | Xork | 0.0172 | 9rb2ChEj... | SL | `5LjhsT8EdvzR...` |
 | 03-10 | 21:47 | 🟢 BUY | Xork | 0.0500 | 9rb2ChEj... | copy | `3FfQiEWW8YaS...` |
 | 03-10 | 21:36 | 🔴 SELL | PH | 0.0190 | 9rb2ChEj... | SL | `5Ti2bPDce46Q...` |
-| 03-10 | 21:26 | 🟢 BUY | PH | 0.0500 | 9rb2ChEj... | copy | `VJqAgk3e1LuK...` |

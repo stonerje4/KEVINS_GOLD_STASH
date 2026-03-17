@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:25 UTC** | 7d | 1710 buys, 2146 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:30 UTC** | 7d | 1714 buys, 2147 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:28 | 🟢 BUY | WHEELS | 0.0001 | otq3sTTS... | copy_buy | `5ej4ekLWRaVN...` |
+| 03-17 | 21:28 | 🟢 BUY | YOU | 0.0001 | 99XWMUAM... | copy_buy | `3e2vtq9EMKhw...` |
+| 03-17 | 21:27 | 🟢 BUY | ORACLE | 0.0001 | 7d8W4xZd... | copy_buy | `4aByZdFiFPCh...` |
+| 03-17 | 21:26 | 🟢 BUY | Patrickabu | 0.0001 | 42nQHDpy... | copy_buy | `5p91BjV2zo14...` |
+| 03-17 | 21:26 | 💰 SELL | UWH | 0.0001 | 6raSuhfi... | TP2 | `2Tp4DWzaJuFR...` |
 | 03-17 | 21:25 | 💰 SELL | UWH | 0.0001 | 6raSuhfi... | TP1 | `3DkFSbR8mCZX...` |
 | 03-17 | 21:24 | 💰 SELL | GANYMEDE | 0.0001 | EaEf6TH8... | tp_8x_trim | `33aoEdTcY16K...` |
 | 03-17 | 21:24 | 🔴 SELL | CRAIG | 0.0000 | 4Ki54j4t... | SL | `3X83wFZQJtYL...` |
