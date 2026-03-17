@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 01:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 THINK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.79x
 - **Mint:** `5pz6emi8oTVE5faWxYMW6hhK8sg4Zcmskrs1XRYDpump`
 
 | Time | Action | SOL | TX |
@@ -124,7 +124,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -133,7 +133,7 @@
 
 ### 🟢 $LLAMA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.94x
 - **Mint:** `2mia3Krg7QayRGvAEPidCoWxBhzfjryFsEQ1Dtfhpump`
 
 | Time | Action | SOL | TX |
@@ -205,7 +205,7 @@
 
 ### 🟢 CITYGIRL
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.82x
+- **Peak:** 1.01x | **Current:** 0.83x
 - **Mint:** `C4g6BS4xXiqo7Y6LjiLykMNdVPuJkFfj7SRDQXUBpump`
 
 | Time | Action | SOL | TX |
@@ -278,7 +278,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.83x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |

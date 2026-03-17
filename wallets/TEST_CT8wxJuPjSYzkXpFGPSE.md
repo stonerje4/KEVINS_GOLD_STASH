@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CT8wxJuPjSYzkXpFGPSEJKVWuNNgVCyjdjsNwhcUg7cy`
-> Generated: 2026-03-17 01:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ZBCNP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.18x
+- **Peak:** 1.19x | **Current:** 0.99x
 - **Mint:** `6K5cfi2Ma3vnyjmC3dj5mtorbonuxD7z9N7r76aNpump`
 
 | Time | Action | SOL | TX |

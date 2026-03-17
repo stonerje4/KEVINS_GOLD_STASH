@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 01:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 WAVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 1.00x
+- **Peak:** 1.01x | **Current:** 1.01x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -24,7 +24,7 @@
 | 2026-03-17 01:08:36 | BUY | 0.000100 | `2RSwUYKSMsAnrX1kMe44xh7guiKqRk...` |
 
 ### 🔴 JOHN
-- **Status:** closing | **Exit:** runner_trailing_stop
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 3.04x | **Current:** 0.36x
 - **Mint:** `8cz9qb2dQwey2Q6ajNkiR5mPiiVFoexhmnZ8w64Cpump`
 
@@ -37,7 +37,7 @@
 
 ### 🟢 ChingChong
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 1.16x
+- **Peak:** 1.55x | **Current:** 1.47x
 - **Mint:** `4bN7NHQs1TQ7pfCi576oJGXLsZA3AybDR9TXjUDcpump`
 
 | Time | Action | SOL | TX |
@@ -64,7 +64,7 @@
 
 ### 🟢 Monke
 - **Status:** open | **Exit:** open
-- **Peak:** 1.60x | **Current:** 1.58x
+- **Peak:** 1.64x | **Current:** 1.57x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

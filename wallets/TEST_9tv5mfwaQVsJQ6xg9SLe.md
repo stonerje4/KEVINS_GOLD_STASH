@@ -1,18 +1,27 @@
 # [TEST] Wallet: `9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn`
-> Generated: 2026-03-17 01:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 01:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 6 |
-| Open | 2 |
+| Total Positions | 7 |
+| Open | 3 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000400 |
 | **Closed P&L** | **+0.000313 SOL** |
 | **Closed ROI** | **+78.3%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### 🟢 roni
+- **Status:** open | **Exit:** open
+- **Peak:** 1.06x | **Current:** 1.06x
+- **Mint:** `56URfFvbquqhg1jBTFQLHtfzei6aZJUY8BP482aEpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:13:12 | BUY | 0.000100 | `rf4E7dx1LjoEeuvkc9LDNj7bu8YzGE...` |
 
 ### 🔴 SHELLY
 - **Status:** closed | **Exit:** ghost_close_stop_loss
