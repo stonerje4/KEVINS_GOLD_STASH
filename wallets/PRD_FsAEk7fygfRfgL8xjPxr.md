@@ -1,27 +1,28 @@
 # [PRD] Wallet: `FsAEk7fygfRfgL8xjPxrd98QirxchdaodmE8E2zwjoMz`
-> Generated: 2026-03-17 04:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 04:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 20 |
-| Open | 1 |
-| Closed | 19 |
-| W/L | 6/13 |
-| SOL In (closed) | 2.310000 |
-| **Closed P&L** | **-0.273925 SOL** |
-| **Closed ROI** | **-11.9%** |
-| Open Deployed | 0.150000 SOL |
+| Open | 0 |
+| Closed | 20 |
+| W/L | 6/14 |
+| SOL In (closed) | 2.460000 |
+| **Closed P&L** | **-0.273930 SOL** |
+| **Closed ROI** | **-11.1%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 BBX
-- **Status:** open | **Exit:** open
+### 🔴 BBX
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.01x | **Current:** 0.00x
 - **Mint:** `6oR6BWR5Y3PnfPGzvn9nrc3XMEV1MUqPy2QCpkrPpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 22:20:01 | BUY | 0.150000 | `WdnrWP8oFzeNcUJrs2Q6KtWH2e98Da...` |
+| 2026-03-17 04:48:53 | SELL | 0.149995 | `3uvLFqotjBRbEmU2TCyQP9nd2oaqSz...` |
 
 ### 🔴 BTBC
 - **Status:** closed | **Exit:** stop_loss

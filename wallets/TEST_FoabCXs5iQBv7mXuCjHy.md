@@ -1,45 +1,51 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 04:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 5 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.000400 |
-| **Closed P&L** | **+0.000130 SOL** |
-| **Closed ROI** | **+32.5%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 4 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.000500 |
+| **Closed P&L** | **+0.000145 SOL** |
+| **Closed ROI** | **+29.0%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
 ### 🟢 MMAX
-- **Status:** open | **Exit:** open
-- **Peak:** 1.43x | **Current:** 1.43x
+- **Status:** partial | **Exit:** open
+- **Peak:** 4.21x | **Current:** 4.21x
 - **Mint:** `AD9aDww57uzMo7DmePK8yk3xNm5BEQzzyZQVD2ARpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:43:31 | BUY | 0.000100 | `2TtorTAmkNwMmLCCmC3JCpM8ZtU49D...` |
+| 2026-03-17 04:45:02 | SELL | 0.000039 | `5SBF26kHBXtSqYPe98xDoUgmXZ1czW...` |
+| 2026-03-17 04:45:42 | SELL | 0.000034 | `pq7QKiLY68Kx9kJZY2PSnWcEVxPhjD...` |
 
 ### 🟢 BULKING
-- **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 1.13x
+- **Status:** partial | **Exit:** open
+- **Peak:** 6.31x | **Current:** 3.20x
 - **Mint:** `6hwBwUtKwLDVZqwwaa4tENNbCd5vFdQ9EqZuUY5ypump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:42:36 | BUY | 0.000100 | `4qwKzQLvJGZEw1NbQbgyMzL9J15io8...` |
+| 2026-03-17 04:46:27 | SELL | 0.000053 | `2eLwVZuoLAGdJpMinPMsBs2wDxiasg...` |
+| 2026-03-17 04:47:08 | SELL | 0.000050 | `2ymXgedt3dQ2qgeWJjP4Ac4iCVG4Bk...` |
+| 2026-03-17 04:47:56 | SELL | 0.000051 | `6ZcsifhBGKkkPw1QuSDDcCPykVfESU...` |
 
-### 🟢 max999
-- **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+### 🔴 max999
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.12x | **Current:** 0.15x
 - **Mint:** `5XAiG8jNqCHcXFL7aoHQc2UKYBydDpPHcPW7GvTVpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:38:48 | BUY | 0.000100 | `pjDvaVpURhTRw6JCRFsCaiavSAT2ah...` |
+| 2026-03-17 04:44:58 | SELL | 0.000015 | `4HtoAZYDpHZVRBeXS3sKTpm7p6ui8i...` |
 
 ### 🔴 BULKING
 - **Status:** closed | **Exit:** stop_loss
@@ -73,7 +79,7 @@
 
 ### 🟢 TOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.97x | **Current:** 0.80x
+- **Peak:** 1.97x | **Current:** 0.81x
 - **Mint:** `9GtVruBvuS5SCQLDR5PGJbQQa68iPEyXsWns3toDpump`
 
 | Time | Action | SOL | TX |
@@ -92,7 +98,7 @@
 
 ### 🟢 Qi
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.74x | **Current:** 2.74x
+- **Peak:** 3.74x | **Current:** 2.48x
 - **Mint:** `6D1hQ22C7oCUKKVuy91i8HTHnzSjsHCuNAcH9WH2pump`
 
 | Time | Action | SOL | TX |

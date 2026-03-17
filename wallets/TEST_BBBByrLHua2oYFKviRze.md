@@ -1,27 +1,39 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 04:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 100 |
-| Open | 31 |
+| Total Positions | 101 |
+| Open | 32 |
 | Closed | 69 |
 | W/L | 67/2 |
 | SOL In (closed) | 0.030400 |
 | **Closed P&L** | **+0.024911 SOL** |
 | **Closed ROI** | **+81.9%** |
-| Open Deployed | 0.004100 SOL |
+| Open Deployed | 0.004200 SOL |
 
 ## Trades
 
-### 🟢 PVECAT
+### 🟢 PERCO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.20x
+- **Peak:** 1.31x | **Current:** 1.14x
+- **Mint:** `7JuYDtBQQJzCHyNkzfs6hqrEtYgg6jtTfeKcN65YPmpr`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:47:23 | BUY | 0.000100 | `cLVbC8NBmoP7iTV9sjaMhLXJ9Zqxhh...` |
+
+### 🟢 PVECAT
+- **Status:** partial | **Exit:** open
+- **Peak:** 5.42x | **Current:** 5.42x
 - **Mint:** `8V3b3trHmfHibbawz1oHhv1E1zBzwg2NQSnvoSWfpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:42:01 | BUY | 0.000100 | `5XRPUCkR1sFMjxyiXwxaGH6PjGqbL4...` |
+| 2026-03-17 04:46:23 | SELL | 0.000027 | `32kXfCYYarrn91VgyHVrL7skDCnUxE...` |
+| 2026-03-17 04:47:52 | SELL | 0.000033 | `251qG8ytB9WrRrLhjT9BxJaknDtnzz...` |
+| 2026-03-17 04:49:49 | SELL | 0.000044 | `4vXxhvqSir4bTXFB8yrNPHRsk26s9a...` |
 
 ### 🔴 Replacemen
 - **Status:** closed | **Exit:** stop_loss
@@ -481,7 +493,7 @@
 
 ### 🟢 Elumelu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.74x | **Current:** 0.69x
+- **Peak:** 1.74x | **Current:** 0.67x
 - **Mint:** `FHQYEERRAwsecbEuYX4erBjFQnhkaLVfGXes17SHpump`
 
 | Time | Action | SOL | TX |

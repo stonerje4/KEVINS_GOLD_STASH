@@ -1,21 +1,21 @@
 # [PRD] Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
-> Generated: 2026-03-17 04:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 04:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 14 |
-| Open | 1 |
-| Closed | 13 |
-| W/L | 4/9 |
-| SOL In (closed) | 1.950000 |
-| **Closed P&L** | **-0.620273 SOL** |
-| **Closed ROI** | **-31.8%** |
-| Open Deployed | 0.150000 SOL |
+| Open | 0 |
+| Closed | 14 |
+| W/L | 5/9 |
+| SOL In (closed) | 2.100000 |
+| **Closed P&L** | **-0.559514 SOL** |
+| **Closed ROI** | **-26.6%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
 ### 🟢 TITAN
-- **Status:** partial | **Exit:** open
+- **Status:** closed | **Exit:** runner_trailing_stop
 - **Peak:** 4.32x | **Current:** 0.00x
 - **Mint:** `4ay158ynQu4RfKe4oEjQFd3om2Fvyguz1UnQMm3rpump`
 
@@ -24,6 +24,7 @@
 | 2026-03-17 00:34:18 | BUY | 0.150000 | `5ExkCxV9gYYQYMREGJyoS1QmNrmQVT...` |
 | 2026-03-17 04:16:52 | SELL | 0.032637 | `33kn1hJHjiGXtjmp6pDyZt75cRmErP...` |
 | 2026-03-17 04:24:39 | SELL | 0.046227 | `3YDFNs5KSrrrUm2JoQd67vbVDCMLbg...` |
+| 2026-03-17 04:48:43 | SELL | 0.210759 | `4nzmUXwk6AnCNESdbZdoaDFrsGz5i5...` |
 
 ### 🔴 promp
 - **Status:** closed | **Exit:** stop_loss
