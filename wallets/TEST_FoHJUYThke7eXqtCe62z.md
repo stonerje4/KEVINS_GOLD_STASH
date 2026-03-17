@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 VIC20
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.89x
+- **Peak:** 1.01x | **Current:** 0.90x
 - **Mint:** `EprT6jxBNphPL9etcRM8eyG4c4HXAzAXE5NmV8B5pump`
 
 | Time | Action | SOL | TX |
@@ -188,7 +188,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.95x
+- **Peak:** 1.11x | **Current:** 0.92x
 - **Mint:** `A3zCrHTYRXZKntHvjzeWrYYj4NG8Aq3dFoU6n4pCpump`
 
 | Time | Action | SOL | TX |
@@ -224,7 +224,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 1.04x
+- **Peak:** 1.11x | **Current:** 1.01x
 - **Mint:** `5aF1HPqCHhK95ZkQ2mUuxw8p5GwFj4WRTzbrLBf3pump`
 
 | Time | Action | SOL | TX |
@@ -299,7 +299,7 @@
 
 ### 🟢 BUILDER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.89x
 - **Mint:** `DwkjZoNj6PmJ31PNky4GeMUH6je3rCC1BdgpyCSbpump`
 
 | Time | Action | SOL | TX |
@@ -413,7 +413,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.97x
+- **Peak:** 1.07x | **Current:** 0.94x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |
@@ -564,7 +564,7 @@
 
 ### 🟢 MNST
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.87x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `Z8MsuXQF94XiLPEjaHeNEkC5NcV6MU8h4y3mrFwpump`
 
 | Time | Action | SOL | TX |

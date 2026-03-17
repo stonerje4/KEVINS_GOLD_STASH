@@ -1,22 +1,31 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 11 |
-| Open | 7 |
+| Total Positions | 12 |
+| Open | 8 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000900 |
 | **Closed P&L** | **+0.000736 SOL** |
 | **Closed ROI** | **+81.7%** |
-| Open Deployed | 0.001200 SOL |
+| Open Deployed | 0.001300 SOL |
 
 ## Trades
 
+### 🟢 Gany
+- **Status:** open | **Exit:** open
+- **Peak:** 1.63x | **Current:** 1.63x
+- **Mint:** `BgtczEGgf9mZMcGBLi4J5Pn8PtmFy6Xz5uBKkMfspump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:40:33 | BUY | 0.000100 | `25ukZACYYKwmLE5nmcMq1Z3qhLN9gM...` |
+
 ### 🟢 patrick 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.76x
+- **Peak:** 1.16x | **Current:** 0.77x
 - **Mint:** `CGJBLh4y224Xzzj16UcgkwNBVJjKFQRAqpaXc4tfpump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +70,7 @@
 
 ### 🟢 2024
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.13x | **Current:** 2.53x
+- **Peak:** 3.13x | **Current:** 2.52x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |

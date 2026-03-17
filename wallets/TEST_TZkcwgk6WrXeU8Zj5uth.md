@@ -1,5 +1,5 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 nuggets
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.40x | **Current:** 2.25x
+- **Peak:** 2.40x | **Current:** 1.71x
 - **Mint:** `CPwzUFoCUMBcg5PL441hyfVYYvPMFRKtCA26WbKSpump`
 
 | Time | Action | SOL | TX |

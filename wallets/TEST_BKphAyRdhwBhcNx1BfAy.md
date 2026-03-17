@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 6.56x | **Current:** 5.40x
+- **Peak:** 6.56x | **Current:** 5.93x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -211,7 +211,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.92x
+- **Peak:** 3.16x | **Current:** 3.01x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -728,7 +728,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.23x | **Current:** 4.23x
+- **Peak:** 4.23x | **Current:** 4.19x
 - **Mint:** `2fEFkySXEVJGXmHq6AVdnr5VX9rXwm9A77MD9aWVpump`
 
 | Time | Action | SOL | TX |
@@ -1815,7 +1815,7 @@
 
 ### 🟢 唐子兵法
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.87x | **Current:** 2.00x
+- **Peak:** 2.87x | **Current:** 1.05x
 - **Mint:** `AMpNe5K2eent1FG51wiMqtvpAnuzkX7QN3Y4w589pump`
 
 | Time | Action | SOL | TX |
@@ -1955,7 +1955,7 @@
 
 ### 🟢 T-Nega
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.83x
+- **Peak:** 1.01x | **Current:** 0.76x
 - **Mint:** `ApSP2ApqwUTyBXXbjYjATE31KNnr6n5PNM2bHCa6pump`
 
 | Time | Action | SOL | TX |
@@ -2058,7 +2058,7 @@
 
 ### 🟢 DRONE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.95x | **Current:** 2.87x
+- **Peak:** 2.95x | **Current:** 2.89x
 - **Mint:** `GBmawmE9jJvyYVbdgTdYi9NXsjWwR5EaytvkrRwcpump`
 
 | Time | Action | SOL | TX |

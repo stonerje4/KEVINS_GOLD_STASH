@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -88,7 +88,7 @@
 
 ### 🟢 EVIE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.30x | **Current:** 1.71x
+- **Peak:** 2.30x | **Current:** 1.67x
 - **Mint:** `ETZ5L4FYfkgXx5XAK7Vhvag9kirGJdpBAUJcue1Dpump`
 
 | Time | Action | SOL | TX |

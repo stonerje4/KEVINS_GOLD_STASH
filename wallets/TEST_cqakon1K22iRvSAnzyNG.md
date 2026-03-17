@@ -1,18 +1,27 @@
 # [TEST] Wallet: `cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 1 |
-| Open | 1 |
+| Total Positions | 2 |
+| Open | 2 |
 | Closed | 0 |
 | W/L | 0/0 |
 | SOL In (closed) | 0.000000 |
 | **Closed P&L** | **+0.000000 SOL** |
 | **Closed ROI** | **+0.0%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 POKER
+- **Status:** open | **Exit:** open
+- **Peak:** 1.18x | **Current:** 1.10x
+- **Mint:** `97iD6J9wnUyL5WGPgCAES59zfrWG1jhEbTnSTP6Qpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:42:53 | BUY | 0.000100 | `37T4HXFAfrQ9uPDpQYhUzzvoiaCs4v...` |
 
 ### 🟢 AGI
 - **Status:** open | **Exit:** open

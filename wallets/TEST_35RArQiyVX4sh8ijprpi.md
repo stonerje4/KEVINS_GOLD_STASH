@@ -1,16 +1,16 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 6 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.000900 |
-| **Closed P&L** | **+0.000368 SOL** |
-| **Closed ROI** | **+40.9%** |
-| Open Deployed | 0.000600 SOL |
+| Open | 5 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.001000 |
+| **Closed P&L** | **+0.000921 SOL** |
+| **Closed ROI** | **+92.1%** |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
@@ -25,7 +25,7 @@
 
 ### 🟢 HOLD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.53x
+- **Peak:** 1.00x | **Current:** 0.47x
 - **Mint:** `SPVPDaVfyDKqse6t5N6QwFtp3Va7jfAh9fjd8Rwpump`
 
 | Time | Action | SOL | TX |
@@ -52,8 +52,8 @@
 | 2026-03-17 00:37:23 | BUY | 0.000100 | `4Zsw32MQPHSscdWJSKCWKTHwbsZUU6...` |
 
 ### 🟢 CLAWDIS
-- **Status:** partial | **Exit:** open
-- **Peak:** 12.52x | **Current:** 8.37x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 12.52x | **Current:** 5.45x
 - **Mint:** `2yDL2okKMtkxtSomVWVfr6Y8JDBuidRX3e4Qx8hBBAGS`
 
 | Time | Action | SOL | TX |
@@ -64,6 +64,7 @@
 | 2026-03-17 02:22:12 | SELL | 0.000043 | `WgjomufMHGqqbRnF2Ku9NZRussbDts...` |
 | 2026-03-17 02:27:54 | SELL | 0.000063 | `3eDgcgUnbcxeAS91pEuHg2pV4BJU1y...` |
 | 2026-03-17 02:33:11 | SELL | 0.000072 | `2R4JZg3VryX6E1BYdU99FKJise6K69...` |
+| 2026-03-17 02:40:11 | SELL | 0.000322 | `2o3zfyZDuUmdfrb2biWJtjL3boSR4p...` |
 
 ### 🔴 LUCKY
 - **Status:** closed | **Exit:** ghost_close_stop_loss

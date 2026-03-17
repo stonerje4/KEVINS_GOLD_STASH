@@ -1,27 +1,28 @@
 # [TEST] Wallet: `EyeSFbqHMXzZBTFqAYdM5E2o6Uv8pPCyLsSCv9Ax8Qgb`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 4 |
-| Open | 1 |
-| Closed | 3 |
-| W/L | 3/0 |
-| SOL In (closed) | 0.001800 |
-| **Closed P&L** | **+0.001084 SOL** |
-| **Closed ROI** | **+60.2%** |
-| Open Deployed | 0.000100 SOL |
+| Open | 0 |
+| Closed | 4 |
+| W/L | 4/0 |
+| SOL In (closed) | 0.001900 |
+| **Closed P&L** | **+0.001119 SOL** |
+| **Closed ROI** | **+58.9%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 唐子
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 1.03x
+### 🔴 唐子
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.03x | **Current:** 0.35x
 - **Mint:** `85NLap7dACtf6APMerHcMDb4iBsYRziT7F8xecfYpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:35:58 | BUY | 0.000100 | `2Wsuj9oN73tRE8YmQgYxwpzfZ8MomW...` |
+| 2026-03-17 02:43:51 | SELL | 0.000035 | `3YtfVw2rGqtWfqNMTYHNbyLAw4chq1...` |
 
 ### 🔴 ‎ 
 - **Status:** closed | **Exit:** ghost_close_stop_loss

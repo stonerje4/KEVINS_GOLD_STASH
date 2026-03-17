@@ -1,5 +1,5 @@
 # [PRD] Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
-> Generated: 2026-03-17 02:40 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:45 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 BRACKET
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 0.00x
+- **Peak:** 1.25x | **Current:** 0.00x
 - **Mint:** `DENiaWdNvd3qNjs4zaub5JyTmiw5uYuHPbBdJzwUpump`
 
 | Time | Action | SOL | TX |

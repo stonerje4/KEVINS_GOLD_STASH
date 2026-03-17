@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,15 @@
 ## Trades
 
 ### 🟢 Replacement
-- **Status:** open | **Exit:** open
-- **Peak:** 1.93x | **Current:** 1.72x
+- **Status:** partial | **Exit:** open
+- **Peak:** 4.20x | **Current:** 4.20x
 - **Mint:** `7STZgGYW7HsVpZGdaCYfikLu2FuebbpqC7gwaP3Apump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:32:20 | BUY | 0.000100 | `25WzBfZk8P1PU4WAupANa7f8qA848N...` |
+| 2026-03-17 02:40:15 | SELL | 0.000021 | `4jvBT9PFe55sgDrkuQ918ePrDytGqz...` |
+| 2026-03-17 02:42:03 | SELL | 0.000028 | `53Eq13xeDLaUEfhvuMxmiiG6ZzZWYr...` |
 
 ### 🔴 TTZ
 - **Status:** closed | **Exit:** stop_loss
@@ -56,7 +58,7 @@
 
 ### 🟢 API
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.07x | **Current:** 1.43x
+- **Peak:** 2.07x | **Current:** 1.18x
 - **Mint:** `3icfn5H4ePwjkKDUq7SGqJYeJrutR2WYTvnbcp6cpump`
 
 | Time | Action | SOL | TX |

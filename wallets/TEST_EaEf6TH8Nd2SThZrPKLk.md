@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 02:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -43,7 +43,7 @@
 
 ### 🟢 C64
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.96x
+- **Peak:** 1.09x | **Current:** 0.97x
 - **Mint:** `FrMy2MuZwXbgKMfNWWWb4h8VCQbkx5nQ5gUuFqSLpump`
 
 | Time | Action | SOL | TX |
@@ -92,7 +92,7 @@
 
 ### 🟢 FILECITY
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.28x | **Current:** 1.95x
+- **Peak:** 2.28x | **Current:** 1.65x
 - **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
 
 | Time | Action | SOL | TX |
@@ -102,7 +102,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.22x | **Current:** 2.22x
+- **Peak:** 2.22x | **Current:** 2.09x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |
@@ -164,7 +164,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.75x | **Current:** 0.83x
+- **Peak:** 1.75x | **Current:** 0.84x
 - **Mint:** `E98XR94FXG2w4GdCwunGPYx8TbZqe2HiNMPHS1Hmpump`
 
 | Time | Action | SOL | TX |
