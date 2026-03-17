@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 20:35 UTC** | 7d | 746 buys, 979 sells | In: **92.03** | Out: **84.69** | Net: **-7.34 SOL**
+> Updated: **2026-03-17 20:40 UTC** | 7d | 747 buys, 979 sells | In: **92.18** | Out: **84.69** | Net: **-7.49 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:36 | 🟢 BUY | LCM | 0.1500 | 42nQHDpy... | copy | `5f3P1Xr779et...` |
 | 03-17 | 20:34 | 🔴 SELL | INSECURE | 0.0489 | 3HGqppv8... | SL | `23vDBYRq2CrR...` |
 | 03-17 | 20:33 | 🟢 BUY | EAM | 0.1500 | J5jm7BnB... | copy | `5KDZrEN8QWRa...` |
 | 03-17 | 20:30 | 🔴 SELL | Reinvest | 0.0513 | HMM6RoT2... | SL | `4gK2yhADrBu4...` |

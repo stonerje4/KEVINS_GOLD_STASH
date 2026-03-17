@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:35 UTC** | 7d | 1673 buys, 2108 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:40 UTC** | 7d | 1675 buys, 2112 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:38 | 💰 SELL | TSG | 0.0001 | 35RArQiy... | TP1 | `4AV5gw1p7zMr...` |
+| 03-17 | 20:37 | 🔴 SELL | SLAPP | 0.0000 | E5sZTG93... | SL | `7GXo6PDarG2Z...` |
+| 03-17 | 20:37 | 💰 SELL | LUCKYDOGE | 0.0001 | 35RArQiy... | TP1 | `5fWHkHmbzzbx...` |
+| 03-17 | 20:37 | 🟢 BUY | ONE | 0.0001 | AJ8Gc1cY... | copy_buy | `3pcJwmwnptPq...` |
+| 03-17 | 20:36 | 🔴 SELL | INSECURE | 0.0000 | FzMeg6P2... | SL | `2gR4p4GAzX5R...` |
+| 03-17 | 20:35 | 🟢 BUY | Freedom | 0.0001 | AiNfNi2e... | copy_buy | `M95eABkuDu3p...` |
 | 03-17 | 20:34 | 💰 SELL | Incel | 0.0001 | 9tv5mfwa... | TP1 | `3CmQmDcwaEwE...` |
 | 03-17 | 20:32 | 🟢 BUY | SIMSCAT | 0.0001 | bocsoUiM... | copy_buy | `5Co5NCgeX1aB...` |
 | 03-17 | 20:32 | 🟢 BUY | Ryugu | 0.0001 | FWQ3sv51... | copy_buy | `5pSpP3vqT1Sa...` |
