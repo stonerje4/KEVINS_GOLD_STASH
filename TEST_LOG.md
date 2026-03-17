@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:25 UTC** | 7d | 1443 buys, 1938 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:30 UTC** | 7d | 1448 buys, 1942 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:29 | 🟢 BUY | Freedom | 0.0001 | Gdd86j2T... | copy_buy | `54qsGKTuPMfX...` |
+| 03-17 | 16:29 | 🟢 BUY | fsdfsd | 0.0001 | 2947n9KQ... | copy_buy | `3zkSRQkKk3kA...` |
+| 03-17 | 16:29 | 🔴 SELL | Frontier | 0.0000 | 6E4897rJ... | SL | `3UqaTKhPLjVs...` |
+| 03-17 | 16:29 | 💰 SELL | PHOUSE | 0.0000 | 6E4897rJ... | TP1 | `JFgjHoEGA2dW...` |
+| 03-17 | 16:28 | 💰 SELL | 2024 | 0.0000 | CZjxED3u... | TP1 | `u1c2Sn4FPRa2...` |
+| 03-17 | 16:27 | 🟢 BUY | EGODEATH | 0.0001 | 6raSuhfi... | copy_buy | `2ton3fM9hRBB...` |
+| 03-17 | 16:26 | 🟢 BUY | Frontier | 0.0001 | 6E4897rJ... | copy_buy | `2ceWZo9m3x98...` |
+| 03-17 | 16:25 | 🟢 BUY | 2024 | 0.0001 | CZjxED3u... | copy_buy | `4KRNfM5RWK4E...` |
+| 03-17 | 16:25 | 💰 SELL | 󠀠 | 0.0000 | AJ8Gc1cY... | TP2 | `2RAfWzX8SQvT...` |
 | 03-17 | 16:24 | 🟢 BUY | WRT | 0.0001 | 87nWQxQv... | copy_buy | `5yLpap2iBNsw...` |
 | 03-17 | 16:23 | 🟢 BUY | INFDFI | 0.0001 | 2autqiin... | copy_buy | `25PGuVudx2Um...` |
 | 03-17 | 16:22 | 🟢 BUY | MFG | 0.0001 | 9G4ytadk... | copy_buy | `2nJfvv3hP3Jm...` |
