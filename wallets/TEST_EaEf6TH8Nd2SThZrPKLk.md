@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ST. PIPPIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.60x | **Current:** 1.60x
 - **Mint:** `D88W9fiFMLWgzjWe3sPfqsirn3wZgaiJm2opN5YNpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 FILECITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 1.34x
+- **Peak:** 1.34x | **Current:** 0.93x
 - **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Monke
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.14x
+- **Peak:** 1.20x | **Current:** 1.16x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 00:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 POKEMON
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.05x | **Current:** 0.74x
 - **Mint:** `Cj56juraQxYxJJHdcdvAgtXqezF8Uxasa6DPsVFcpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 OWN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.04x | **Current:** 0.71x
+- **Peak:** 1.04x | **Current:** 0.70x
 - **Mint:** `MGopH3LorVWj9bWZgyo7Yd7EmHrYqeNrsD9TUq4pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 DGPT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.88x
+- **Peak:** 1.05x | **Current:** 0.85x
 - **Mint:** `veAj5XS6Ax8xLX5BjxAcWpfSFH7Dqh7aatxYTB6Hory`
 
 | Time | Action | SOL | TX |

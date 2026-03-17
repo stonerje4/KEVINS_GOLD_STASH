@@ -1,18 +1,27 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-17 00:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 43 |
+| Total Positions | 44 |
 | Open | 2 |
-| Closed | 41 |
-| W/L | 4/37 |
-| SOL In (closed) | 4.810000 |
-| **Closed P&L** | **-1.357602 SOL** |
-| **Closed ROI** | **-28.2%** |
-| Open Deployed | 0.300000 SOL |
+| Closed | 42 |
+| W/L | 4/38 |
+| SOL In (closed) | 4.960000 |
+| **Closed P&L** | **-1.507602 SOL** |
+| **Closed ROI** | **-30.4%** |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
+
+### ⚪ COW
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `BRQn3S6nn4p3GAUsdAxJgJgxuWQpsjQjchiUmkfKpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:49:49 | BUY | 0.150000 | `4dgJvGaLe4C2XBqxSTRgA8yahbQpBS...` |
 
 ### 🟢 POKER
 - **Status:** open | **Exit:** open
@@ -24,8 +33,8 @@
 | 2026-03-17 00:24:07 | BUY | 0.150000 | `LzxDYxUCd7tJXXJH7BrjeHd4saXzQm...` |
 | 2026-03-17 00:24:22 | BUY | 0.150000 | `5uA3nxJQ7e4ieEYZPhmKKTjgjQQEuC...` |
 
-### 🟢 Last
-- **Status:** open | **Exit:** open
+### 🔴 Last
+- **Status:** closed | **Exit:** ghost_close_zero_balance
 - **Peak:** 1.42x | **Current:** 0.00x
 - **Mint:** `F9p1n4vLc6nUYYLV1ZnS2anFtrp53Mu2ns1YanFQpump`
 

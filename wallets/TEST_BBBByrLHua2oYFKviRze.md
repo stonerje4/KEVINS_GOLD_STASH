@@ -1,18 +1,27 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 00:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 97 |
-| Open | 29 |
+| Total Positions | 98 |
+| Open | 30 |
 | Closed | 68 |
 | W/L | 66/2 |
 | SOL In (closed) | 0.030300 |
 | **Closed P&L** | **+0.024871 SOL** |
 | **Closed ROI** | **+82.1%** |
-| Open Deployed | 0.003900 SOL |
+| Open Deployed | 0.004000 SOL |
 
 ## Trades
+
+### 🟢 Fakecoin
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.86x
+- **Mint:** `D6Mrh81pgw5fDxnxu3dutYjDsDwikLmNPjNBtxUdpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:46:18 | BUY | 0.000100 | `5J9F5C1bPD4RvEqsY3hQfwhCTgSvj1...` |
 
 ### 🟢 ZOE
 - **Status:** open | **Exit:** open

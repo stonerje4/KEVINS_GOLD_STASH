@@ -1,5 +1,5 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 00:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.002300 SOL |
+| Open Deployed | 0.002400 SOL |
 
 ## Trades
 
-### ⚪ sexless
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 sexless
+- **Status:** open | **Exit:** open
+- **Peak:** 1.20x | **Current:** 1.20x
 - **Mint:** `FVidfQMMimDh2vG8voK4YdBkUcq7kvJuVPbLUiT5pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 EVIE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.98x
+- **Peak:** 1.43x | **Current:** 1.43x
 - **Mint:** `ETZ5L4FYfkgXx5XAK7Vhvag9kirGJdpBAUJcue1Dpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 EVIE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.96x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `9LDEyGaoeRBBJzLei4cZmt6iUthAeFcnkXeBWTocpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 Vance
 - **Status:** open | **Exit:** open
-- **Peak:** 1.78x | **Current:** 0.65x
+- **Peak:** 1.78x | **Current:** 0.62x
 - **Mint:** `euC79AAyFXUw82hBd7s1rzcFV2vxXwNk7FpdD86pump`
 
 | Time | Action | SOL | TX |
@@ -61,7 +61,7 @@
 
 ### 🟢 BATTLE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.12x | **Current:** 1.19x
+- **Peak:** 2.12x | **Current:** 1.14x
 - **Mint:** `41Ro9syNfd3CRKjSGvCk5iaXpyb557k1ACHUEDUEpump`
 
 | Time | Action | SOL | TX |
@@ -80,7 +80,7 @@
 
 ### 🟢 BDH
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.87x
+- **Peak:** 1.01x | **Current:** 0.82x
 - **Mint:** `Aqo81fep1rS4kAWNidSm5qZwa33kPebLNZZdXoJZpump`
 
 | Time | Action | SOL | TX |
@@ -179,7 +179,7 @@
 
 ### 🟢 ROCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.09x
+- **Peak:** 1.10x | **Current:** 0.91x
 - **Mint:** `2ByUr3vxL8uZnCoof1AW3Pi4yiyarVFBFDRCyjaNpump`
 
 | Time | Action | SOL | TX |
@@ -215,7 +215,7 @@
 
 ### 🟢 DOOMER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.62x
+- **Peak:** 1.00x | **Current:** 0.59x
 - **Mint:** `CnvDRWDm5UJHK9VBNxVEpS9hQHj7TKBTTFzHjZxNpump`
 
 | Time | Action | SOL | TX |
