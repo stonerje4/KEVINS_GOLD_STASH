@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 VIC20
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.90x
+- **Peak:** 1.01x | **Current:** 0.89x
 - **Mint:** `EprT6jxBNphPL9etcRM8eyG4c4HXAzAXE5NmV8B5pump`
 
 | Time | Action | SOL | TX |
@@ -142,7 +142,7 @@
 
 ### 🟢 Mixer
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.00x | **Current:** 0.84x
 - **Mint:** `2zHMQd7tyH7wtT6u1tSFdFmqXnxRGFMQ7eiMLnA7pump`
 
 | Time | Action | SOL | TX |
@@ -161,7 +161,7 @@
 
 ### 🟢 Builderz
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.69x
+- **Peak:** 1.00x | **Current:** 0.70x
 - **Mint:** `8SMkpgTDDthhKk594JZPbfVSDhY2rXFRq5XpHQDWpump`
 
 | Time | Action | SOL | TX |
@@ -179,7 +179,7 @@
 
 ### 🟢 goon
 - **Status:** open | **Exit:** open
-- **Peak:** 1.01x | **Current:** 0.80x
+- **Peak:** 1.01x | **Current:** 0.90x
 - **Mint:** `8BAZVgXTtrYQn8zT4raxprRwiHTVdYcKpF36nxUcpump`
 
 | Time | Action | SOL | TX |

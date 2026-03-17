@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Gany
 - **Status:** partial | **Exit:** open
-- **Peak:** 10.30x | **Current:** 8.54x
+- **Peak:** 16.79x | **Current:** 16.79x
 - **Mint:** `BgtczEGgf9mZMcGBLi4J5Pn8PtmFy6Xz5uBKkMfspump`
 
 | Time | Action | SOL | TX |
@@ -27,10 +27,11 @@
 | 2026-03-17 02:46:25 | SELL | 0.000051 | `3t1G33KFqybbCGDosLyM9eEvGi8hCa...` |
 | 2026-03-17 02:47:03 | SELL | 0.000061 | `JgcfcrRAPtq58jJZW3Ko1xU3SSDsfb...` |
 | 2026-03-17 02:48:23 | SELL | 0.000068 | `2K87S9wCWinob5d7uziSBV54Ugfdq8...` |
+| 2026-03-17 02:54:28 | SELL | 0.000099 | `5zpvsikDiXAFkqfXRz7nnEsBkAEnFb...` |
 
 ### 🟢 patrick 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.71x
+- **Peak:** 1.16x | **Current:** 0.63x
 - **Mint:** `CGJBLh4y224Xzzj16UcgkwNBVJjKFQRAqpaXc4tfpump`
 
 | Time | Action | SOL | TX |
@@ -75,7 +76,7 @@
 
 ### 🟢 2024
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.13x | **Current:** 2.52x
+- **Peak:** 3.13x | **Current:** 2.35x
 - **Mint:** `5bpKGP4A3HYg7LbYK8ViFeLYFRx3AnhC4FxYW8etpump`
 
 | Time | Action | SOL | TX |

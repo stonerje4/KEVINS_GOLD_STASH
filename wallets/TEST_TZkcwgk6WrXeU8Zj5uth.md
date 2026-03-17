@@ -1,31 +1,32 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 5 |
-| Open | 2 |
-| Closed | 3 |
-| W/L | 3/0 |
-| SOL In (closed) | 0.000300 |
-| **Closed P&L** | **+0.000095 SOL** |
-| **Closed ROI** | **+31.6%** |
-| Open Deployed | 0.000200 SOL |
+| Open | 1 |
+| Closed | 4 |
+| W/L | 4/0 |
+| SOL In (closed) | 0.000400 |
+| **Closed P&L** | **+0.000134 SOL** |
+| **Closed ROI** | **+33.6%** |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
 
-### 🟢 Mechayahu
-- **Status:** open | **Exit:** open
-- **Peak:** 1.03x | **Current:** 0.45x
+### 🔴 Mechayahu
+- **Status:** closed | **Exit:** stop_loss
+- **Peak:** 1.03x | **Current:** 0.40x
 - **Mint:** `GNBwHp3fxhzchEn4PH3qjnLSZmHXwHoRCGVSQ2kDpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:46:06 | BUY | 0.000100 | `4qwLG7Hmwsfw1EK8nKHnhPqBCiyQJ6...` |
+| 2026-03-17 02:50:54 | SELL | 0.000040 | `5ALXzf8vDRQo2EWsrQFUD2tJh43LDj...` |
 
 ### 🟢 nuggets
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.40x | **Current:** 1.94x
+- **Peak:** 2.40x | **Current:** 1.27x
 - **Mint:** `CPwzUFoCUMBcg5PL441hyfVYYvPMFRKtCA26WbKSpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Gdd86j2TsD8xtP5bawvtqLX6PFeBJWKozP2ZS7uAvFDX`
-> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,17 +15,18 @@
 ## Trades
 
 ### 🟢 GROKETTE
-- **Status:** open | **Exit:** open
-- **Peak:** 2.00x | **Current:** 1.93x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.40x | **Current:** 2.33x
 - **Mint:** `65EgPvGQQgSofuuoUkx2xpWVPwMVVLpyFBL3GSSzpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:38:19 | BUY | 0.000100 | `2dFYq2SButK3Uv9VYPxPzP1C4Pr5v6...` |
+| 2026-03-17 02:50:17 | SELL | 0.000022 | `21VW82hgRrP1yGNZhcinznDtMVQLFa...` |
 
 ### 🟢 Hyojo
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.29x | **Current:** 1.36x
+- **Peak:** 2.29x | **Current:** 1.86x
 - **Mint:** `HfKNrf3VFYSzZfG3jS4pQEfjkHTxAwmD4wm1FUx8pump`
 
 | Time | Action | SOL | TX |
@@ -44,7 +45,7 @@
 
 ### 🟢 GIGAKAREN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 1.12x
+- **Peak:** 1.49x | **Current:** 0.67x
 - **Mint:** `32VxfAVgqveDipA69MNYjoLAzW9snbqp63Jm3iFWpump`
 
 | Time | Action | SOL | TX |

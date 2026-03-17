@@ -1,18 +1,27 @@
 # [TEST] Wallet: `5fxx3tF25KgBGhFqCJk9zEVis1Kci5UGEpNTbiEgAuus`
-> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 0 |
+| Total Positions | 5 |
+| Open | 1 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.002400 |
 | **Closed P&L** | **+0.001888 SOL** |
 | **Closed ROI** | **+78.7%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.000100 SOL |
 
 ## Trades
+
+### 🟢 唐子
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.65x
+- **Mint:** `FdN7NmokGJpGP83qZMkWGH4rGfKLk6gdu3XeiiVDTRND`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:52:43 | BUY | 0.000100 | `2f4UCcuqNUD1VKJB2tMrc6htdHLHo1...` |
 
 ### 🔴 MULERUN
 - **Status:** closed | **Exit:** ghost_close_stop_loss

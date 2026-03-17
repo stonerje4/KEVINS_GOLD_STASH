@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 02:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 287 |
-| Open | 84 |
-| Closed | 203 |
-| W/L | 194/9 |
-| SOL In (closed) | 0.102800 |
+| Open | 82 |
+| Closed | 205 |
+| W/L | 194/11 |
+| SOL In (closed) | 0.104000 |
 | **Closed P&L** | **+0.089178 SOL** |
-| **Closed ROI** | **+86.7%** |
-| Open Deployed | 0.030400 SOL |
+| **Closed ROI** | **+85.7%** |
+| Open Deployed | 0.029200 SOL |
 
 ## Trades
 
@@ -199,7 +199,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 6.56x | **Current:** 5.96x
+- **Peak:** 6.56x | **Current:** 5.88x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -211,7 +211,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.95x
+- **Peak:** 3.16x | **Current:** 3.01x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -1815,7 +1815,7 @@
 
 ### 🟢 唐子兵法
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.87x | **Current:** 1.01x
+- **Peak:** 2.87x | **Current:** 1.00x
 - **Mint:** `AMpNe5K2eent1FG51wiMqtvpAnuzkX7QN3Y4w589pump`
 
 | Time | Action | SOL | TX |
@@ -2214,7 +2214,7 @@
 
 ### 🟢 LIFE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.15x | **Current:** 0.85x
 - **Mint:** `CbqEa8fyhqkm29JPx6xx5XDBUKjsjKYTAjbbHQuspump`
 
 | Time | Action | SOL | TX |
@@ -2243,7 +2243,7 @@
 
 ### 🟢 AOR
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.85x | **Current:** 3.73x
+- **Peak:** 3.85x | **Current:** 3.71x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
@@ -2500,17 +2500,18 @@
 |------|--------|-----|----|
 | 2026-03-16 03:06:59 | BUY | 0.000600 | `4Xjk9GqzmWNsqeuBoKScrLUeZH4zcD...` |
 
-### 🟢 Luna
-- **Status:** open | **Exit:** open
+### 🔴 Luna
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.05x | **Current:** 0.97x
 - **Mint:** `E8YzvLrb5XAWqsLTifnvPjwMfrXkZ5kKCGW35GLXpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:04:58 | BUY | 0.000600 | `2rQ9SaW9Gv7rsGBuijHm6nPFWFRfzK...` |
+| 2026-03-17 02:51:02 | SELL | 0.000097 | `4jZBFbQZV1xugqdkuRvpuPZhGPPFhL...` |
 
-### 🟢 VEESA
-- **Status:** partial | **Exit:** stale_cleanup
+### 🔴 VEESA
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.73x
 - **Mint:** `5DhmwXZ7jCFSLPJPYTo4dN8mszQTuur9Haio833Cpump`
 
