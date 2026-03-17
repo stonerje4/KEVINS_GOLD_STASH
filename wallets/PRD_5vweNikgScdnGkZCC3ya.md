@@ -1,11 +1,11 @@
 # [PRD] `5vweNikgScdnGkZC...`
-> 2026-03-17 14:40 UTC | **9** pos | **4W/4L** | P&L: **+0.381289 SOL** (+57.8%) | 1 open
+> 2026-03-17 14:45 UTC | **9** pos | **4W/4L** | P&L: **+0.381289 SOL** (+57.8%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BBX | 03-16 16:59 | 0.00x | 2.86x | 21.7h | 0.1500 |
+| BBX | 03-16 16:59 | 0.00x | 3.01x | 21.8h | 0.1500 |
 
 ## Closed
 
@@ -24,6 +24,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:44 | BBX | SELL | 0.0451 | `2LsWQfB2Fx2qL6uF...` |
 | 03-17 01:52 | BBX | SELL | 0.0305 | `3dw5TFZXkDDf3dj2...` |
 | 03-16 16:59 | BBX | BUY | 0.1500 | `2X712DuH1d6d8sLg...` |
 | 03-15 23:33 | DRONE | SELL | 0.0933 | `GAjTpp3wM4FNSnzr...` |

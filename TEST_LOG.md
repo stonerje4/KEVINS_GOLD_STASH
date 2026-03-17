@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:40 UTC** | 7d | 1358 buys, 1876 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:45 UTC** | 7d | 1362 buys, 1881 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:44 | 💰 SELL | Rosei | 0.0000 | AJ8Gc1cY... | TP1 | `5GEepR4qhAhH...` |
+| 03-17 | 14:44 | 🟢 BUY | Terafab | 0.0001 | otq3sTTS... | copy_buy | `N3gyUwWS74nz...` |
+| 03-17 | 14:44 | 🟢 BUY | 🦎 | 0.0001 | EaEf6TH8... | copy_buy | `3Mrd8ygdRYoj...` |
+| 03-17 | 14:43 | 🟢 BUY | Alameda | 0.0001 | EaEf6TH8... | copy_buy | `1cDvjHASQars...` |
+| 03-17 | 14:43 | 🔴 SELL | TWINKLE | 0.0000 | BBBByrLH... | SL | `3yHfT2qRVVHK...` |
+| 03-17 | 14:43 | 🔴 SELL | Thinker | 0.0001 | GHy1P6vJ... | trail | `4ec1JzrBSv6k...` |
+| 03-17 | 14:41 | 💰 SELL | MOLTFIN | 0.0000 | EaEf6TH8... | TP1 | `JitvQgTRpYHs...` |
+| 03-17 | 14:41 | 💰 SELL | DLSSELON | 0.0000 | 42nQHDpy... | TP3 | `39t9XcvUKcmK...` |
+| 03-17 | 14:40 | 🟢 BUY | TWINKLE | 0.0001 | BBBByrLH... | copy_buy | `3baXNZFpX3de...` |
 | 03-17 | 14:39 | 🟢 BUY | Solana | 0.0001 | EaEf6TH8... | copy_buy | `55yQPzfJPCww...` |
 | 03-17 | 14:39 | 🔴 SELL | Claude | 0.0000 | APUYxGfK... | SL | `xZKBrnBSMRVy...` |
 | 03-17 | 14:38 | 🟢 BUY | Ruby | 0.0001 | BBBByrLH... | copy_buy | `6Bv7TZCT3jbq...` |
