@@ -1,4 +1,4 @@
-# [TEST] Wallet: `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w`
+# [TEST] Wallet: `44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz`
 > Generated: 2026-03-17 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
@@ -14,12 +14,12 @@
 
 ## Trades
 
-### 🟢 Shelly
+### 🟢 USDC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.11x | **Current:** 0.89x
-- **Mint:** `BAZBed8AxJyt15KChfnk2o14V8kmUMGHyJVf15eYpump`
+- **Peak:** 1.09x | **Current:** 1.08x
+- **Mint:** `6gWygYZ4byuy8GqfbBBRKnbAJsNAM1PWPXznuQdLpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
-| 2026-03-16 18:24:41 | BUY | 0.000100 | `2N4c6gp4xCcY1DEus26aRqr2PrwzJJ...` |
+| 2026-03-17 04:02:40 | BUY | 0.000100 | `4Zt37nhx5FvhgvsAQa9VyVNpdZ9RRF...` |
 

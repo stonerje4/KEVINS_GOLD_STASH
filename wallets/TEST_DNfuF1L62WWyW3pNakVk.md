@@ -1,5 +1,5 @@
 # [TEST] Wallet: `DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm`
-> Generated: 2026-03-17 04:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,11 +15,12 @@
 ## Trades
 
 ### 🟢 OLAF
-- **Status:** open | **Exit:** open
-- **Peak:** 1.89x | **Current:** 1.49x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.04x | **Current:** 1.88x
 - **Mint:** `84DXfFNRhgNMPb58fjduBg6JNj3xcaGKzQSEEFSnP3MN`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 00:56:08 | BUY | 0.000100 | `sdroWG2Gh6cb3JSfR4UeheMntomx34...` |
+| 2026-03-17 04:04:15 | SELL | 0.000021 | `T31cbcmy4hg6KRxMqeWMKxTVaC8oNv...` |
 

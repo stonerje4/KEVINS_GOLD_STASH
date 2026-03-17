@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Aj6cr5Q3iKpkuujnabSQyKfEb1ZQ1Z1LeeK6LEpTV8Xs`
-> Generated: 2026-03-17 04:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -10,13 +10,13 @@
 | SOL In (closed) | 0.001200 |
 | **Closed P&L** | **+0.001263 SOL** |
 | **Closed ROI** | **+105.3%** |
-| Open Deployed | 0.000600 SOL |
+| Open Deployed | 0.000700 SOL |
 
 ## Trades
 
-### ⚪ QAIA
-- **Status:** confirming | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+### 🟢 QAIA
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `DpbUqjKzMiiBxUMinvMx8GSREbSwH6kBubk5xKVXBAGS`
 
 | Time | Action | SOL | TX |

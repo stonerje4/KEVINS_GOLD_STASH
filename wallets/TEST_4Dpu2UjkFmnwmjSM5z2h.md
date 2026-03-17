@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G`
-> Generated: 2026-03-17 04:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 MINDLESS
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.61x
+- **Peak:** 3.16x | **Current:** 1.84x
 - **Mint:** `AJofCoVif3wj2Uy7mpzgxbqDyHPyn7xp6WzJBy7gpump`
 
 | Time | Action | SOL | TX |
@@ -27,7 +27,7 @@
 
 ### 🟢 forg
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 1.69x
+- **Peak:** 1.87x | **Current:** 1.87x
 - **Mint:** `G4QRtYNRPyxdKwcAqqW3xSeEynDDxEyRvrDT9FJEpump`
 
 | Time | Action | SOL | TX |
