@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:50 UTC** | 7d | 1726 buys, 2162 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:55 UTC** | 7d | 1729 buys, 2166 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:54 | 🔴 SELL | Patrickabu | 0.0000 | 42nQHDpy... | SL | `3A1Da5nWvGcW...` |
+| 03-17 | 21:54 | 🟢 BUY | LASTMAN | 0.0001 | Lfw99jsE... | copy_buy | `tcvULtC6hw2Y...` |
+| 03-17 | 21:52 | 💰 SELL | Kagi | 0.0001 | 42nQHDpy... | TP2 | `3GKfigkEtswq...` |
+| 03-17 | 21:52 | 💰 SELL | Kagi | 0.0001 | 42nQHDpy... | TP1 | `4MTQ5ZMHxAPQ...` |
+| 03-17 | 21:52 | 🔴 SELL | JEETICIDE | 0.0000 | 9tv5mfwa... | SL | `38P36kxYZYSX...` |
+| 03-17 | 21:51 | 🟢 BUY | ᵇᵒᵗ | 0.0001 | Lfw99jsE... | copy_buy | `4KFPnxJCTyh6...` |
+| 03-17 | 21:50 | 🟢 BUY | Functional | 0.0001 | Lfw99jsE... | copy_buy | `3hvjGiePe6hG...` |
 | 03-17 | 21:48 | 🔴 SELL | reCAPTCHA  | 0.0000 | Lfw99jsE... | SL | `5XE9tQ6s2bLc...` |
 | 03-17 | 21:47 | 🟢 BUY | Cappy | 0.0001 | Lfw99jsE... | copy_buy | `4djma2uHn2NU...` |
 | 03-17 | 21:47 | 💰 SELL | Speak | 0.0001 | HV4FmWLE... | trail | `4B5hgWx1rBaL...` |

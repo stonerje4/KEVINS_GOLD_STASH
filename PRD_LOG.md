@@ -1,5 +1,5 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 21:50 UTC** | 7d | 758 buys, 999 sells | In: **94.23** | Out: **86.69** | Net: **-7.54 SOL**
+> Updated: **2026-03-17 21:55 UTC** | 7d | 758 buys, 998 sells | In: **94.23** | Out: **86.67** | Net: **-7.56 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
@@ -1759,4 +1759,3 @@
 | 03-10 | 22:08 | 🟢 BUY | FLORK | 0.0500 | HMM6RoT2... | copy | `L1HvchWgvEoh...` |
 | 03-10 | 22:08 | 🟢 BUY | archie | 0.0500 | 9rb2ChEj... | copy | `2Cc9aU6GZP9k...` |
 | 03-10 | 22:00 | 💰 SELL | creature | 0.0896 | HMM6RoT2... | trail | `3RVD43UyzzwD...` |
-| 03-10 | 21:54 | 🔴 SELL | Xork | 0.0172 | 9rb2ChEj... | SL | `5LjhsT8EdvzR...` |
