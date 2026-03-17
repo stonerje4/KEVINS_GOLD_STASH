@@ -1,14 +1,15 @@
 # [TEST] `BBBByrLHua2oYFKv...`
-> 2026-03-17 14:30 UTC | **123** pos | **17W/102L** | P&L: **-0.010105 SOL** (-27.8%) | 4 open
+> 2026-03-17 14:35 UTC | **124** pos | **17W/102L** | P&L: **-0.010105 SOL** (-27.8%) | 5 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| lucky | 03-17 14:21 | 0.62x | 1.00x | 0.1h | 0.0001 |
+| Nerd | 03-17 14:32 | 0.63x | 1.04x | 0.0h | 0.0001 |
+| lucky | 03-17 14:21 | 0.62x | 1.00x | 0.2h | 0.0001 |
 | Auri | 03-17 14:20 | 0.71x | 1.03x | 0.2h | 0.0001 |
-| Lighter | 03-17 14:15 | 0.48x | 1.07x | 0.2h | 0.0001 |
-| ANIMAL | 03-17 13:39 | 0.50x | 1.13x | 0.8h | 0.0001 |
+| Lighter | 03-17 14:15 | 0.53x | 1.07x | 0.3h | 0.0001 |
+| ANIMAL | 03-17 13:39 | 0.50x | 1.13x | 0.9h | 0.0001 |
 
 ## Closed
 
@@ -138,6 +139,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:32 | Nerd | BUY | 0.0001 | `2kQmUiLRBwXCDorW...` |
 | 03-17 14:21 | lucky | BUY | 0.0001 | `5r15MkoppxkjUkr3...` |
 | 03-17 14:20 | Auri | BUY | 0.0001 | `2DpEj2H8iVahgs1k...` |
 | 03-17 14:15 | Lighter | BUY | 0.0001 | `ZK7CJBhdYr4dptdc...` |
@@ -195,8 +197,8 @@
 | 03-16 23:18 | ClaudeDog | SELL | 0.0000 | `2RsKAKNrGHF2yki4...` |
 | 03-16 23:18 | Moumou | SELL | 0.0001 | `5DHD5u3wnSpd6Sq2...` |
 | 03-16 23:18 | pandas | SELL | 0.0001 | `5DVzjdXPhjuAdHEv...` |
-| 03-16 19:13 | Glowcat | SELL | 0.0001 | `?` |
 | 03-16 19:13 | SAMO | SELL | 0.0003 | `?` |
+| 03-16 19:13 | Glowcat | SELL | 0.0001 | `?` |
 | 03-16 18:25 | Moumou | SELL | 0.0000 | `4bPuZP4uWxbVX7WJ...` |
 | 03-16 18:22 | Moumou | SELL | 0.0000 | `4nTcpFFNrJWQkY1j...` |
 | 03-16 18:18 | ClaudeDog | BUY | 0.0001 | `449x3quteUGhYpAP...` |

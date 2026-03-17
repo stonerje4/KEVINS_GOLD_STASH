@@ -1,12 +1,13 @@
 # [TEST] `otq3sTTS5gDgbg6s...`
-> 2026-03-17 14:30 UTC | **60** pos | **2W/56L** | P&L: **-0.016205 SOL** (-65.3%) | 2 open
+> 2026-03-17 14:35 UTC | **61** pos | **2W/56L** | P&L: **-0.016205 SOL** (-65.3%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| WEREFULL | 03-17 13:56 | 3.93x | 4.41x | 0.6h | 0.0001 |
-| Viktor | 03-17 12:54 | 1.11x | 1.11x | 1.6h | 0.0001 |
+| 死对头 | 03-17 14:31 | 1.00x | 1.00x | 0.1h | 0.0001 |
+| WEREFULL | 03-17 13:56 | 3.96x | 4.41x | 0.6h | 0.0001 |
+| Viktor | 03-17 12:54 | 0.97x | 1.11x | 1.7h | 0.0001 |
 
 ## Closed
 
@@ -75,6 +76,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 14:31 | 死对头 | BUY | 0.0001 | `2mSxkCzQPkZNjxbB...` |
 | 03-17 14:10 | WEREFULL | SELL | 0.0000 | `5B7rkTftH2h2EGvj...` |
 | 03-17 14:09 | WEREFULL | SELL | 0.0000 | `YZiqMVg6ZVNGzwhk...` |
 | 03-17 13:56 | WEREFULL | BUY | 0.0001 | `7HnG44ttmTXiUGXf...` |
@@ -98,15 +100,15 @@
 | 03-16 23:19 | THINK | BUY | 0.0001 | `3UZbZjFS2q3cBM5h...` |
 | 03-16 23:19 | Papua | SELL | 0.0001 | `8Q1yoT61e4Kk4ivu...` |
 | 03-16 23:19 | URCHIN | SELL | 0.0001 | `2hX8kzy5C9A1aVGX...` |
-| 03-16 18:55 | PROXY | SELL | 0.0005 | `?` |
-| 03-16 18:55 | OG | SELL | 0.0005 | `?` |
-| 03-16 18:55 | HBB | SELL | 0.0005 | `?` |
-| 03-16 18:55 | bizfun | SELL | 0.0005 | `?` |
-| 03-16 18:55 | ZEBRA | SELL | 0.0005 | `?` |
-| 03-16 18:55 | WOOPA | SELL | 0.0005 | `?` |
 | 03-16 18:55 | UDC | SELL | 0.0005 | `?` |
+| 03-16 18:55 | PROXY | SELL | 0.0005 | `?` |
+| 03-16 18:55 | bizfun | SELL | 0.0005 | `?` |
 | 03-16 18:55 | PIGEON | SELL | 0.0005 | `?` |
+| 03-16 18:55 | OG | SELL | 0.0005 | `?` |
+| 03-16 18:55 | WOOPA | SELL | 0.0005 | `?` |
+| 03-16 18:55 | HBB | SELL | 0.0005 | `?` |
 | 03-16 18:55 | FOOD | SELL | 0.0005 | `?` |
+| 03-16 18:55 | ZEBRA | SELL | 0.0005 | `?` |
 | 03-16 18:01 | RICH | BUY | 0.0001 | `2KjoEBgyuQVMKBHu...` |
 | 03-16 17:59 | WRT | BUY | 0.0001 | `24QLAf8ce2oEuuxw...` |
 | 03-16 17:45 | ABBAS  | BUY | 0.0001 | `GYPsrJqgdKw23UkY...` |

@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 14:30 UTC** | 7d | 1347 buys, 1871 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 14:35 UTC** | 7d | 1354 buys, 1874 sells | In: **0.47** | Out: **0.30** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:34 | 🟢 BUY | $GENIUS | 0.0001 | EaEf6TH8... | copy_buy | `3KWL3WGYbX2i...` |
+| 03-17 | 14:34 | 🟢 BUY | SEA | 0.0001 | EaEf6TH8... | copy_buy | `5WEEod81ruXi...` |
+| 03-17 | 14:33 | 🟢 BUY | MOLTFIN | 0.0001 | EaEf6TH8... | copy_buy | `4fgBgNKQpQLi...` |
+| 03-17 | 14:33 | 🟢 BUY | JOEKENT | 0.0001 | EaEf6TH8... | copy_buy | `3jtb2SUDQvFV...` |
+| 03-17 | 14:33 | 💰 SELL | lovebird | 0.0000 | FoHJUYTh... | TP1 | `2AiYgF6aXb2V...` |
+| 03-17 | 14:32 | 🟢 BUY | KENT | 0.0001 | FoHJUYTh... | copy_buy | `Swi1d6ZPD5vA...` |
+| 03-17 | 14:32 | 💰 SELL | DragClaw | 0.0000 | GHy1P6vJ... | TP2 | `XCFnSBj9SBZY...` |
+| 03-17 | 14:32 | 🟢 BUY | Nerd | 0.0001 | BBBByrLH... | copy_buy | `2kQmUiLRBwXC...` |
+| 03-17 | 14:31 | 🟢 BUY | 死对头 | 0.0001 | otq3sTTS... | copy_buy | `2mSxkCzQPkZN...` |
+| 03-17 | 14:31 | 💰 SELL | DragClaw | 0.0000 | GHy1P6vJ... | TP1 | `5oahhsKBTEvu...` |
 | 03-17 | 14:28 | 💰 SELL | CLAW3D | 0.0000 | E79aNzAk... | TP3 | `dWjmHpqVcxe2...` |
 | 03-17 | 14:28 | 🟢 BUY | MyClaw3D | 0.0001 | AJ8Gc1cY... | copy_buy | `85fPS14b46Cx...` |
 | 03-17 | 14:26 | 🔴 SELL | Yoyo  | 0.0000 | 35RArQiy... | SL | `5nMUJsuaCC37...` |

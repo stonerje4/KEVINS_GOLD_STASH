@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 14:30 UTC** | 7d | 687 buys, 931 sells | In: **81.18** | Out: **79.43** | Net: **-1.75 SOL**
+> Updated: **2026-03-17 14:35 UTC** | 7d | 686 buys, 932 sells | In: **81.13** | Out: **79.49** | Net: **-1.64 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 14:31 | 🔴 SELL | Thinker | 0.0557 | A5hEhg36... | SL | `2jfTmd4nfr3y...` |
 | 03-17 | 14:27 | 🟢 BUY | chuckee | 0.1500 | 42nQHDpy... | copy | `4jj5f8ycMrV7...` |
 | 03-17 | 14:24 | 💰 SELL | KENNY | 0.0302 | 42nQHDpy... | TP1 | `4gkBbx5YJVEJ...` |
 | 03-17 | 14:19 | 💰 SELL | DLSSELON | 0.0467 | 42nQHDpy... | TP2 | `38SWFu4GcimS...` |
@@ -1620,4 +1621,3 @@
 | 03-10 | 15:43 | 🟢 BUY | SPACE | 0.0500 | 9rb2ChEj... | copy | `36qGDPFH6sbg...` |
 | 03-10 | 15:34 | 🟢 BUY | 𝕏 Card  | 0.0500 | 4uCx1BG5... | copy | `4U5Ay4hqjcvW...` |
 | 03-10 | 15:19 | 🟢 BUY | BET | 0.0500 | 4Be9Cvxq... | copy | `676f49Dc4jEZ...` |
-| 03-10 | 14:31 | 🟢 BUY | RYOPPIPPI | 0.0500 | H3DXv3Ef... | copy | `pjh6MVbVg4NZ...` |
