@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:45 UTC** | 7d | 1723 buys, 2158 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:50 UTC** | 7d | 1726 buys, 2162 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:48 | 🔴 SELL | reCAPTCHA  | 0.0000 | Lfw99jsE... | SL | `5XE9tQ6s2bLc...` |
+| 03-17 | 21:47 | 🟢 BUY | Cappy | 0.0001 | Lfw99jsE... | copy_buy | `4djma2uHn2NU...` |
+| 03-17 | 21:47 | 💰 SELL | Speak | 0.0001 | HV4FmWLE... | trail | `4B5hgWx1rBaL...` |
+| 03-17 | 21:47 | 🔴 SELL | GROKETTE | 0.0001 | EaEf6TH8... | trail | `ScRPhRDn6BCq...` |
+| 03-17 | 21:46 | 🟢 BUY | Memexitarism | 0.0001 | 5dd3zjBQ... | copy_buy | `4kNU3ExgAu8P...` |
+| 03-17 | 21:45 | 🟢 BUY | Atlas | 0.0001 | GHy1P6vJ... | copy_buy | `CMnndU6BrDbG...` |
+| 03-17 | 21:45 | 🔴 SELL | HUMANS | 0.0000 | Lfw99jsE... | SL | `3ErDeEAakAcR...` |
 | 03-17 | 21:44 | 🟢 BUY | HUMANS | 0.0001 | Lfw99jsE... | copy_buy | `5AhND1V155XM...` |
 | 03-17 | 21:42 | 💰 SELL | tusk | 0.0001 | 42nQHDpy... | TP1 | `3GZzMa1f3Kr5...` |
 | 03-17 | 21:42 | 🟢 BUY | Humans | 0.0001 | GHy1P6vJ... | copy_buy | `4Bdrwx9RdGWw...` |

@@ -1,12 +1,13 @@
 # [TEST] `5dd3zjBQQvQqtmWF...`
-> 2026-03-17 21:45 UTC | **8** pos | **2W/4L** | P&L: **-0.000273 SOL** (-10.5%) | 2 open
+> 2026-03-17 21:50 UTC | **9** pos | **2W/4L** | P&L: **-0.000273 SOL** (-10.5%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DEBT | 03-17 21:22 | 0.73x | 1.12x | 0.4h | 0.0001 |
-| Wump | 03-17 21:19 | 0.70x | 1.00x | 0.4h | 0.0001 |
+| Memexitarism | 03-17 21:46 | 0.73x | 1.00x | 0.1h | 0.0001 |
+| DEBT | 03-17 21:22 | 0.70x | 1.12x | 0.5h | 0.0001 |
+| Wump | 03-17 21:19 | 0.70x | 1.00x | 0.5h | 0.0001 |
 
 ## Closed
 
@@ -23,6 +24,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 21:46 | Memexitarism | BUY | 0.0001 | `4kNU3ExgAu8PMjuJ...` |
 | 03-17 21:22 | DEBT | BUY | 0.0001 | `4PVdM5LezNN3Nd8F...` |
 | 03-17 21:19 | Wump | BUY | 0.0001 | `5C2KfN7ZCVemNWPn...` |
 | 03-17 08:35 | CHAD | BUY | 0.0001 | `2BcRnUTwxYZPnBxw...` |

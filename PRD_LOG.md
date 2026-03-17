@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 21:45 UTC** | 7d | 759 buys, 997 sells | In: **94.28** | Out: **86.59** | Net: **-7.69 SOL**
+> Updated: **2026-03-17 21:50 UTC** | 7d | 758 buys, 999 sells | In: **94.23** | Out: **86.69** | Net: **-7.54 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:46 | 🔴 SELL | commotitty | 0.0381 | 3HGqppv8... | SL | `2nFqm6z1bL6t...` |
+| 03-17 | 21:45 | 🔴 SELL | IMPJAK | 0.0562 | 2w85VLX4... | SL | `4GDoLpzVQ42W...` |
 | 03-17 | 21:44 | 🟢 BUY | commotitty | 0.1500 | 3HGqppv8... | copy | `2FUJmmUZpdx8...` |
 | 03-17 | 21:42 | 💰 SELL | tusk | 0.0753 | 42nQHDpy... | TP1 | `GKcsLr8qGs3s...` |
 | 03-17 | 21:33 | 💰 SELL | Rosei | 0.1867 | 42nQHDpy... | trail | `3pqhMuJ8UU7E...` |
@@ -1758,4 +1760,3 @@
 | 03-10 | 22:08 | 🟢 BUY | archie | 0.0500 | 9rb2ChEj... | copy | `2Cc9aU6GZP9k...` |
 | 03-10 | 22:00 | 💰 SELL | creature | 0.0896 | HMM6RoT2... | trail | `3RVD43UyzzwD...` |
 | 03-10 | 21:54 | 🔴 SELL | Xork | 0.0172 | 9rb2ChEj... | SL | `5LjhsT8EdvzR...` |
-| 03-10 | 21:47 | 🟢 BUY | Xork | 0.0500 | 9rb2ChEj... | copy | `3FfQiEWW8YaS...` |
