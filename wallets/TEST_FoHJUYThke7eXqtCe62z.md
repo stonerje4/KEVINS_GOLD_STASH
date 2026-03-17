@@ -1,12 +1,13 @@
 # [TEST] `FoHJUYThke7eXqtC...`
-> 2026-03-17 12:05 UTC | **94** pos | **13W/79L** | P&L: **-0.017598 SOL** (-41.8%) | 2 open
+> 2026-03-17 12:10 UTC | **95** pos | **13W/79L** | P&L: **-0.017598 SOL** (-41.8%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| KIWI | 03-17 12:01 | 1.51x | 1.51x | 0.1h | 0.0001 |
-| CHESTER | 03-17 12:00 | 0.97x | 1.00x | 0.1h | 0.0001 |
+| Akhal-Teke | 03-17 12:05 | 1.12x | 1.12x | 0.1h | 0.0001 |
+| KIWI | 03-17 12:01 | 1.95x | 1.95x | 0.1h | 0.0001 |
+| CHESTER | 03-17 12:00 | 0.97x | 1.00x | 0.2h | 0.0001 |
 
 ## Closed
 
@@ -109,6 +110,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:05 | Akhal-Teke | BUY | 0.0001 | `5UEAw5BTShasvPAn...` |
 | 03-17 12:01 | KIWI | BUY | 0.0001 | `65k9vD5VYbdEnNA8...` |
 | 03-17 12:00 | CHESTER | BUY | 0.0001 | `5RKdKzvTd1MxwZGy...` |
 | 03-17 10:14 | CHEETO | BUY | 0.0001 | `3huqubciPSzzt81b...` |
@@ -145,16 +147,16 @@
 | 03-16 23:55 | Builderz | BUY | 0.0001 | `4ruWxY5uiR44FY85...` |
 | 03-16 23:31 | AngelPsy | BUY | 0.0001 | `38nnNg7Vkd24fmWx...` |
 | 03-16 23:27 | goon | BUY | 0.0001 | `CRtbvaQwWj2xTnf8...` |
-| 03-16 18:55 | Signets | SELL | 0.0005 | `?` |
-| 03-16 18:55 | GSD2 | SELL | 0.0005 | `?` |
 | 03-16 18:55 | TRUMPHOUSE | SELL | 0.0005 | `?` |
-| 03-16 18:55 | navicooks | SELL | 0.0005 | `?` |
-| 03-16 18:55 | JJK | SELL | 0.0005 | `?` |
 | 03-16 18:55 | xaicash | SELL | 0.0103 | `?` |
-| 03-16 18:55 | CSS | SELL | 0.0005 | `?` |
 | 03-16 18:55 | NPC | SELL | 0.0005 | `?` |
+| 03-16 18:55 | GSD2 | SELL | 0.0005 | `?` |
+| 03-16 18:55 | navicooks | SELL | 0.0005 | `?` |
 | 03-16 18:55 | SolBDay | SELL | 0.0005 | `?` |
+| 03-16 18:55 | JJK | SELL | 0.0005 | `?` |
+| 03-16 18:55 | CSS | SELL | 0.0005 | `?` |
 | 03-16 18:55 | WRT | SELL | 0.0006 | `?` |
+| 03-16 18:55 | Signets | SELL | 0.0005 | `?` |
 | 03-16 18:23 | BBX | BUY | 0.0001 | `5v7GFb2S8YSebav8...` |
 | 03-16 18:20 | dokobot | BUY | 0.0001 | `5GDfVoTicLiaWPzJ...` |
 | 03-16 18:19 | DOSED | BUY | 0.0001 | `uc4djgbGTBA7NmyS...` |

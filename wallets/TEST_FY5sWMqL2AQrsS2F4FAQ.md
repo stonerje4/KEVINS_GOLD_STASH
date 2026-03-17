@@ -1,5 +1,11 @@
 # [TEST] `FY5sWMqL2AQrsS2F...`
-> 2026-03-17 12:05 UTC | **1** pos | **0W/1L** | P&L: **-0.000230 SOL** (-38.3%) | 0 open
+> 2026-03-17 12:10 UTC | **2** pos | **0W/1L** | P&L: **-0.000230 SOL** (-38.3%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| EAC | 03-17 12:05 | 0.59x | 1.31x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 12:05 | EAC | BUY | 0.0001 | `4k5qsERmkWiBLXBg...` |
 | 03-16 10:24 | Metacoin | SELL | 0.0004 | `5kVLgm8YTYbYHe29...` |
 | 03-16 10:19 | Metacoin | BUY | 0.0006 | `kukdBuKMn5KJZx91...` |
 

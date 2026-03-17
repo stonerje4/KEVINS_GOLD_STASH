@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 12:05 UTC** | 7d | 1263 buys, 1804 sells | In: **0.46** | Out: **0.30** | Net: **-0.16 SOL**
+> Updated: **2026-03-17 12:10 UTC** | 7d | 1266 buys, 1805 sells | In: **0.46** | Out: **0.30** | Net: **-0.16 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 12:10 | 💰 SELL | KIWI | 0.0000 | FoHJUYTh... | TP1 | `249SbZrASPd1...` |
+| 03-17 | 12:09 | 🟢 BUY | gayhormuz | 0.0001 | 51Ui3ZD4... | copy_buy | `Ap3SA9A4gYDi...` |
+| 03-17 | 12:05 | 🟢 BUY | Akhal-Teke | 0.0001 | FoHJUYTh... | copy_buy | `5UEAw5BTShas...` |
+| 03-17 | 12:05 | 🟢 BUY | EAC | 0.0001 | FY5sWMqL... | copy_buy | `4k5qsERmkWiB...` |
 | 03-17 | 12:03 | 🟢 BUY | DonTzu | 0.0001 | FoabCXs5... | copy_buy | `57FzDWCjPgpe...` |
 | 03-17 | 12:02 | 🟢 BUY | THIS | 0.0001 | FoabCXs5... | copy_buy | `5UmvY6SgvQoP...` |
 | 03-17 | 12:01 | 🟢 BUY | KIWI | 0.0001 | FoHJUYTh... | copy_buy | `65k9vD5VYbdE...` |
