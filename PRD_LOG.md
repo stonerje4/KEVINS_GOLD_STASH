@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 20:55 UTC** | 7d | 746 buys, 983 sells | In: **92.23** | Out: **85.07** | Net: **-7.16 SOL**
+> Updated: **2026-03-17 21:00 UTC** | 7d | 747 buys, 983 sells | In: **92.38** | Out: **85.07** | Net: **-7.31 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:59 | 🔴 SELL | ? | 0.0533 | 3HGqppv8... | SL | `4QE8AtLFaiMQ...` |
+| 03-17 | 20:55 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `5BeRMymz7jbA...` |
 | 03-17 | 20:50 | 💰 SELL | WAR | 0.1347 | HCDsVE5Y... | TP2 | `5tBGJLmFSPrb...` |
 | 03-17 | 20:49 | 🔴 SELL | STONED | 0.0517 | 3HGqppv8... | SL | `3sEQ8hWb71BH...` |
 | 03-17 | 20:49 | 🔴 SELL | Doodle | 0.1233 | 3HGqppv8... | trail | `5f5XKAf6qkXf...` |
@@ -1731,4 +1733,3 @@
 | 03-10 | 21:36 | 🔴 SELL | PH | 0.0190 | 9rb2ChEj... | SL | `5Ti2bPDce46Q...` |
 | 03-10 | 21:26 | 🟢 BUY | PH | 0.0500 | 9rb2ChEj... | copy | `VJqAgk3e1LuK...` |
 | 03-10 | 21:08 | 💰 SELL | Cardboard | 0.0759 | 7aMgK5L4... | tp_15x_trim | `5pumNUpzCEhA...` |
-| 03-10 | 20:59 | 💰 SELL | Cardboard | 0.0511 | 7aMgK5L4... | tp_10x_trim | `5ibpHJVUVsb2...` |

@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:55 UTC** | 7d | 1683 buys, 2118 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:00 UTC** | 7d | 1684 buys, 2123 sells | In: **0.50** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:58 | 💰 SELL | genny | 0.0001 | Gdd86j2T... | TP2 | `5PvRbe2sK4rf...` |
+| 03-17 | 20:57 | 🟢 BUY | MAFIA | 0.0001 | bocsoUiM... | copy_buy | `2x12LTrrvtnp...` |
+| 03-17 | 20:57 | 🔴 SELL | PAWAN | 0.0000 | cqakon1K... | SL | `5aeS2BmNxSd9...` |
+| 03-17 | 20:56 | 🔴 SELL | Viktor | 0.0001 | otq3sTTS... | stale_cleanu | `5mcgYyTfroAY...` |
+| 03-17 | 20:56 | 🔴 SELL | BUDGIE | 0.0000 | AJ8Gc1cY... | stale_cleanu | `38Yw47Uody7k...` |
+| 03-17 | 20:56 | 🔴 SELL | StElon | 0.0001 | BDe7kU3V... | stale_cleanu | `53x5cfUjVBXw...` |
 | 03-17 | 20:54 | 🟢 BUY | HAWFAM | 0.0001 | FoHJUYTh... | copy_buy | `3h8KZQrHyRK4...` |
 | 03-17 | 20:53 | 🔴 SELL | Doodle | 0.0000 | APUYxGfK... | SL | `3G7DajNxksqG...` |
 | 03-17 | 20:51 | 💰 SELL | Israel  | 0.0001 | AJ8Gc1cY... | TP2 | `43SC1YYXH55t...` |
