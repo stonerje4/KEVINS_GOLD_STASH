@@ -1,16 +1,16 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 03:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 5 |
-| Closed | 5 |
-| W/L | 5/0 |
-| SOL In (closed) | 0.001000 |
-| **Closed P&L** | **+0.000921 SOL** |
-| **Closed ROI** | **+92.1%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 4 |
+| Closed | 6 |
+| W/L | 6/0 |
+| SOL In (closed) | 0.001100 |
+| **Closed P&L** | **+0.000961 SOL** |
+| **Closed ROI** | **+87.4%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
@@ -23,14 +23,15 @@
 |------|--------|-----|----|
 | 2026-03-17 01:54:26 | BUY | 0.000100 | `3kjWmvjHMBGDwGEkuZzZozsgkvoACB...` |
 
-### 🟢 HOLD
-- **Status:** open | **Exit:** open
+### 🔴 HOLD
+- **Status:** closing | **Exit:** stop_loss
 - **Peak:** 1.00x | **Current:** 0.40x
 - **Mint:** `SPVPDaVfyDKqse6t5N6QwFtp3Va7jfAh9fjd8Rwpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 01:03:46 | BUY | 0.000100 | `2BqJ3ktTokx8e8iuoQoU4H6K3a42Zz...` |
+| 2026-03-17 03:04:55 | SELL | 0.000040 | `3mWfAaZmtFUMnYYCAhJM5qujFg9fmB...` |
 
 ### 🔴 TRENCHERIA
 - **Status:** closed | **Exit:** stop_loss

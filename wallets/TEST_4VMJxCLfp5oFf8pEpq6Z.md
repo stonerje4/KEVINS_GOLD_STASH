@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-17 03:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -61,7 +61,7 @@
 
 ### 🟢 ROCK
 - **Status:** open | **Exit:** open
-- **Peak:** 1.49x | **Current:** 0.89x
+- **Peak:** 1.49x | **Current:** 0.86x
 - **Mint:** `HEacYvtsxpaFCe7J12JrXmvBMMwjKBHo8UxyFqDDpump`
 
 | Time | Action | SOL | TX |

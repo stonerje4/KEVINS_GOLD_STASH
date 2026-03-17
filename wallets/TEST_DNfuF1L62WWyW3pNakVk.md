@@ -1,5 +1,5 @@
 # [TEST] Wallet: `DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm`
-> Generated: 2026-03-17 03:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 OLAF
 - **Status:** open | **Exit:** open
-- **Peak:** 1.89x | **Current:** 1.58x
+- **Peak:** 1.89x | **Current:** 1.52x
 - **Mint:** `84DXfFNRhgNMPb58fjduBg6JNj3xcaGKzQSEEFSnP3MN`
 
 | Time | Action | SOL | TX |

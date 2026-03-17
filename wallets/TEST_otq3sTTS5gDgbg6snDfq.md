@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 03:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -115,7 +115,7 @@
 
 ### 🟢 Don Tzu
 - **Status:** open | **Exit:** open
-- **Peak:** 1.76x | **Current:** 1.41x
+- **Peak:** 1.76x | **Current:** 1.17x
 - **Mint:** `59VtFUYQ1qsxho2bF72xvt9BuSLkxZzCi4GXkKXEpump`
 
 | Time | Action | SOL | TX |

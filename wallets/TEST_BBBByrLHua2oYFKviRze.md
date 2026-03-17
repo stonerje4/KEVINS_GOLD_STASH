@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 03:00 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:05 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -64,7 +64,7 @@
 
 ### 🟢 FLATHEAD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.67x
+- **Peak:** 1.00x | **Current:** 0.66x
 - **Mint:** `3LFXFBrrMcabobNDpdAcze7FigVu2FsmqZscHhkxpump`
 
 | Time | Action | SOL | TX |
