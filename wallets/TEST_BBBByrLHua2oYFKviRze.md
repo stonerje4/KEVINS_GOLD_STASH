@@ -1,22 +1,22 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 05:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 102 |
-| Open | 32 |
-| Closed | 70 |
-| W/L | 68/2 |
-| SOL In (closed) | 0.030500 |
-| **Closed P&L** | **+0.025200 SOL** |
-| **Closed ROI** | **+82.6%** |
-| Open Deployed | 0.004200 SOL |
+| Open | 31 |
+| Closed | 71 |
+| W/L | 69/2 |
+| SOL In (closed) | 0.030600 |
+| **Closed P&L** | **+0.025708 SOL** |
+| **Closed ROI** | **+84.0%** |
+| Open Deployed | 0.004100 SOL |
 
 ## Trades
 
 ### 🟢 LAST
-- **Status:** partial | **Exit:** open
-- **Peak:** 10.52x | **Current:** 10.08x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 10.52x | **Current:** 4.54x
 - **Mint:** `31dUxgjRymZ3zdiPywVhV4e6k56LkSiufr1XhWQ8pump`
 
 | Time | Action | SOL | TX |
@@ -27,6 +27,7 @@
 | 2026-03-17 05:40:18 | SELL | 0.000049 | `8GXBfZfZT3SFhVugJPfNH1T9sHr4aK...` |
 | 2026-03-17 05:41:45 | SELL | 0.000066 | `4pbu4ajV8Wa5Z6sAThnPy96VCoYb76...` |
 | 2026-03-17 05:42:27 | SELL | 0.000069 | `27YpN2xDe1qvMoYCjfQqVob1bDyMkh...` |
+| 2026-03-17 05:47:01 | SELL | 0.000269 | `s1s41jf7ahxxuPYRYMNW6HhqDsMubk...` |
 
 ### 🟢 PERCO
 - **Status:** open | **Exit:** open

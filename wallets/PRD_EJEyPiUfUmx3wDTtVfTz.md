@@ -1,27 +1,28 @@
 # [PRD] Wallet: `EJEyPiUfUmx3wDTtVfTzduNyNAWtQdwodFQjnJmjvmCQ`
-> Generated: 2026-03-17 05:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 05:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 20 |
-| Open | 1 |
-| Closed | 19 |
-| W/L | 5/14 |
-| SOL In (closed) | 1.550000 |
-| **Closed P&L** | **-0.246344 SOL** |
-| **Closed ROI** | **-15.9%** |
-| Open Deployed | 0.150000 SOL |
+| Open | 0 |
+| Closed | 20 |
+| W/L | 5/15 |
+| SOL In (closed) | 1.700000 |
+| **Closed P&L** | **-0.310171 SOL** |
+| **Closed ROI** | **-18.2%** |
+| Open Deployed | 0.000000 SOL |
 
 ## Trades
 
-### 🟢 AGENTMAXHILL
-- **Status:** open | **Exit:** open
+### 🔴 AGENTMAXHILL
+- **Status:** closed | **Exit:** stale_position_cleanup
 - **Peak:** 1.31x | **Current:** 0.00x
 - **Mint:** `6ECwiY71t87d2A52rKgzij1SHZuUiDUo6USagzHBpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 22:56:51 | BUY | 0.150000 | `ScyUmMf4FbLVtqHZXDT6gEMJsubHZs...` |
+| 2026-03-17 05:48:53 | SELL | 0.086173 | `5RcRCMNuCmzo7KibVy4A7m5LS1RFdL...` |
 
 ### 🔴 GIGA
 - **Status:** closed | **Exit:** stop_loss

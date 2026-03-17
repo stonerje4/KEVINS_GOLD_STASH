@@ -1,22 +1,31 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 05:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 85 |
-| Open | 59 |
+| Total Positions | 86 |
+| Open | 60 |
 | Closed | 26 |
 | W/L | 13/13 |
 | SOL In (closed) | 0.022500 |
 | **Closed P&L** | **+0.009065 SOL** |
 | **Closed ROI** | **+40.3%** |
-| Open Deployed | 0.018900 SOL |
+| Open Deployed | 0.019000 SOL |
 
 ## Trades
 
+### 🟢 CGE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.89x
+- **Mint:** `V8XKhvqRU2ay1Hb1HHZ77ArSAmS5T9Z6fJwTkizpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 05:47:09 | BUY | 0.000100 | `5Hdx38N1sYBoYVefdu7yMQ4v1Asq8e...` |
+
 ### 🟢 IRAN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.96x
 - **Mint:** `28SiCzRTDnU2Ed7NJwxnPGxs7JhGNWtyv3jrSpQnpump`
 
 | Time | Action | SOL | TX |
@@ -242,7 +251,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.67x
+- **Peak:** 1.00x | **Current:** 0.76x
 - **Mint:** `9BdmAW7WDFhD5xFRZpSXCSwXRhanwocwcins5Z7Jpump`
 
 | Time | Action | SOL | TX |
