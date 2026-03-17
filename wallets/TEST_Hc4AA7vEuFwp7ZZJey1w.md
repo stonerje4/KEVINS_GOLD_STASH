@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Hc4AA7vEuFwp7ZZJey1wjCBXVyhthZKEjXVPgmzDGy6t`
-> Generated: 2026-03-17 06:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 FAKEIT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.48x
+- **Peak:** 1.02x | **Current:** 0.43x
 - **Mint:** `CWCkYFEbLiqrZDsQXoCWsE4DVw8hYjPVxDwNSVZmpump`
 
 | Time | Action | SOL | TX |
@@ -35,7 +35,7 @@
 
 ### 🟢 Truth
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.56x | **Current:** 1.59x
+- **Peak:** 2.56x | **Current:** 1.98x
 - **Mint:** `DNjkt4VTVD4BMoLKGmCQMZiU11UnCNeGf1bxtojqpump`
 
 | Time | Action | SOL | TX |

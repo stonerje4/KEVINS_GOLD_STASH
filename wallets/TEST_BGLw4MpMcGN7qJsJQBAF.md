@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BGLw4MpMcGN7qJsJQBAFzfBudXgaUtnczFCxrrpCHq8P`
-> Generated: 2026-03-17 06:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -25,7 +25,7 @@
 
 ### 🟢 Agent
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 0.81x
+- **Peak:** 1.02x | **Current:** 0.71x
 - **Mint:** `CMrERcgujw356Q7kUq6JHoogzEPMDpNNnvE81pC5pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 UNSW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.67x | **Current:** 0.68x
+- **Peak:** 1.67x | **Current:** 0.72x
 - **Mint:** `Fpckub6J1WMSJctyJJgsXVJcQbUXa4HsJbrF783Epump`
 
 | Time | Action | SOL | TX |
