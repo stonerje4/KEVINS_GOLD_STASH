@@ -1,12 +1,12 @@
 # [TEST] `7d8W4xZdLa42oEKR...`
-> 2026-03-17 21:30 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-17 21:35 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| ORACLE | 03-17 21:27 | 1.00x | 1.00x | 0.0h | 0.0001 |
-| OPINION | 03-17 21:22 | 1.21x | 1.29x | 0.1h | 0.0001 |
+| ORACLE | 03-17 21:27 | 1.01x | 1.03x | 0.1h | 0.0001 |
+| OPINION | 03-17 21:22 | 0.90x | 1.53x | 0.2h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

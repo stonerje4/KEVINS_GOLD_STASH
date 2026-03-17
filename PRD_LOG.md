@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 21:30 UTC** | 7d | 757 buys, 996 sells | In: **93.98** | Out: **86.35** | Net: **-7.63 SOL**
+> Updated: **2026-03-17 21:35 UTC** | 7d | 758 buys, 997 sells | In: **94.13** | Out: **86.54** | Net: **-7.59 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:33 | 💰 SELL | Rosei | 0.1867 | 42nQHDpy... | trail | `3pqhMuJ8UU7E...` |
+| 03-17 | 21:30 | 🟢 BUY | BELIEVERS | 0.1500 | 2w85VLX4... | copy | `5i1ShdMQTgbT...` |
 | 03-17 | 21:26 | 💰 SELL | Speak | 0.0783 | 2w85VLX4... | TP1 | `GbmcQJ7TVYee...` |
 | 03-17 | 21:19 | 🔴 SELL | shit | 0.0875 | 3HGqppv8... | trail | `4WbBK9u7sVrK...` |
 | 03-17 | 21:19 | 🟢 BUY | Wump | 0.1500 | AF5Txaad... | copy | `4utQCXHGkbGF...` |

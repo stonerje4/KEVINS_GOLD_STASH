@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 21:30 UTC** | 7d | 1714 buys, 2147 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 21:35 UTC** | 7d | 1718 buys, 2149 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 21:34 | 🟢 BUY | PAYPHONE | 0.0001 | 4Ki54j4t... | copy_buy | `5CtULGgWWieG...` |
+| 03-17 | 21:32 | 🟢 BUY | Just Buy | 0.0001 | 4Ki54j4t... | copy_buy | `5TCGbSqqPrPf...` |
+| 03-17 | 21:31 | 💰 SELL | WHEELS | 0.0001 | otq3sTTS... | TP1 | `2U3WA63YGirt...` |
+| 03-17 | 21:31 | 🟢 BUY | HRMZSWPR | 0.0001 | GHy1P6vJ... | copy_buy | `3zgo4nUuqi3X...` |
+| 03-17 | 21:31 | 🟢 BUY | Dogeeto | 0.0001 | EyeSFbqH... | copy_buy | `66Q4BmXamvYz...` |
+| 03-17 | 21:30 | 💰 SELL | Speak | 0.0001 | HV4FmWLE... | TP1 | `26iswbrw6xCo...` |
 | 03-17 | 21:28 | 🟢 BUY | WHEELS | 0.0001 | otq3sTTS... | copy_buy | `5ej4ekLWRaVN...` |
 | 03-17 | 21:28 | 🟢 BUY | YOU | 0.0001 | 99XWMUAM... | copy_buy | `3e2vtq9EMKhw...` |
 | 03-17 | 21:27 | 🟢 BUY | ORACLE | 0.0001 | 7d8W4xZd... | copy_buy | `4aByZdFiFPCh...` |
