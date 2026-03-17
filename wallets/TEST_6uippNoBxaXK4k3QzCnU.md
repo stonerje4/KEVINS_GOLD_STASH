@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6uippNoBxaXK4k3QzCnU1WbAiLCZDusJ8Hrh2duuJC1w`
-> Generated: 2026-03-17 09:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Bracket
 - **Status:** open | **Exit:** open
-- **Peak:** 1.39x | **Current:** 0.92x
+- **Peak:** 1.39x | **Current:** 0.91x
 - **Mint:** `CzTuC8wA7uLRLmts9nBtpCpBt5QDYXXmW3m3u5Mqpump`
 
 | Time | Action | SOL | TX |
