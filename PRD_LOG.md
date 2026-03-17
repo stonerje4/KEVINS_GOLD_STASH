@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 16:55 UTC** | 7d | 709 buys, 950 sells | In: **85.28** | Out: **80.95** | Net: **-4.33 SOL**
+> Updated: **2026-03-17 17:00 UTC** | 7d | 710 buys, 951 sells | In: **85.43** | Out: **81.04** | Net: **-4.39 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:58 | 🟢 BUY | DUNGBEETLE | 0.1500 | 42nQHDpy... | copy | `51kwpunhBRe4...` |
+| 03-17 | 16:56 | 💰 SELL | SaintAlon | 0.0829 | 42nQHDpy... | TP1 | `2MNsGQRBXVPZ...` |
 | 03-17 | 16:54 | 🟢 BUY | BEPE | 0.1500 | 42nQHDpy... | copy | `CRz1BBEPHYyV...` |
 | 03-17 | 16:54 | 💰 SELL | KENNY | 0.3468 | 42nQHDpy... | trail | `64aHtcw4Ajuf...` |
 | 03-17 | 16:50 | 🟢 BUY | SaintAlon | 0.1500 | 42nQHDpy... | copy | `qGScP64A4QjK...` |

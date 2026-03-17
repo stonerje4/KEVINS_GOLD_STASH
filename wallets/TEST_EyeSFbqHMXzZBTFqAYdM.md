@@ -1,11 +1,11 @@
 # [TEST] `EyeSFbqHMXzZBTFq...`
-> 2026-03-17 16:55 UTC | **6** pos | **0W/5L** | P&L: **-0.000881 SOL** (-44.1%) | 1 open
+> 2026-03-17 17:00 UTC | **6** pos | **0W/5L** | P&L: **-0.000881 SOL** (-44.1%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BELIEVERS | 03-17 16:38 | 0.74x | 1.61x | 0.3h | 0.0001 |
+| BELIEVERS | 03-17 16:38 | 0.70x | 1.61x | 0.4h | 0.0001 |
 
 ## Closed
 

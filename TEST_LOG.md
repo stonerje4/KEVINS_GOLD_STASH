@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:55 UTC** | 7d | 1465 buys, 1961 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 17:00 UTC** | 7d | 1468 buys, 1964 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:59 | 🟢 BUY | Waiter | 0.0001 | EaEf6TH8... | copy_buy | `2VBWJnRuZ6ci...` |
+| 03-17 | 16:59 | 🟢 BUY | thinker | 0.0001 | EaEf6TH8... | copy_buy | `3Pvt3L7C88xX...` |
+| 03-17 | 16:58 | 💰 SELL | Leprechaun | 0.0001 | otq3sTTS... | TP1 | `2ofwWw6gE7oE...` |
+| 03-17 | 16:57 | 💰 SELL | INFDFI | 0.0002 | 2autqiin... | trail | `UVnxFsQBm5oT...` |
+| 03-17 | 16:56 | 💰 SELL | SaintAlon | 0.0001 | 42nQHDpy... | TP1 | `5nLczNn3RMgj...` |
+| 03-17 | 16:56 | 🟢 BUY | Leprechaun | 0.0001 | otq3sTTS... | copy_buy | `4ugJTg3YYrdy...` |
 | 03-17 | 16:54 | 🟢 BUY | SKETCH | 0.0001 | CT8wxJuP... | copy_buy | `X1SnwaLZe9CJ...` |
 | 03-17 | 16:54 | 🔴 SELL | PURRPLEAN | 0.0001 | AJ8Gc1cY... | trail | `5WRqGYh9Ht9D...` |
 | 03-17 | 16:51 | 💰 SELL | INFDFI | 0.0001 | 2autqiin... | TP4 | `4s3d5BNdsHVY...` |

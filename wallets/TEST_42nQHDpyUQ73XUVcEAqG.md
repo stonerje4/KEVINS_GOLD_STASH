@@ -1,11 +1,11 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-17 16:55 UTC | **23** pos | **3W/19L** | P&L: **+0.001456 SOL** (+39.3%) | 1 open
+> 2026-03-17 17:00 UTC | **23** pos | **3W/19L** | P&L: **+0.001456 SOL** (+39.3%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SaintAlon | 03-17 16:49 | 1.25x | 1.25x | 0.1h | 0.0001 |
+| SaintAlon | 03-17 16:49 | 2.11x | 2.59x | 0.2h | 0.0001 |
 
 ## Closed
 
@@ -38,6 +38,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:56 | SaintAlon | SELL | 0.0001 | `5nLczNn3RMgjMVdv...` |
 | 03-17 16:49 | SaintAlon | BUY | 0.0001 | `5pEhfM9CJVb4oGXy...` |
 | 03-17 16:17 | PatCoin | SELL | 0.0000 | `5X1rU9pZBdB7yiqM...` |
 | 03-17 16:10 | PatCoin | BUY | 0.0001 | `WaPcL6pc3MUEcK7k...` |
