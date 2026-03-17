@@ -1,18 +1,27 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-17 02:55 UTC | Environment: **PRD**
+> Generated: 2026-03-17 03:00 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 33 |
-| Open | 4 |
+| Total Positions | 34 |
+| Open | 5 |
 | Closed | 29 |
 | W/L | 6/23 |
 | SOL In (closed) | 3.980000 |
 | **Closed P&L** | **-0.760582 SOL** |
 | **Closed ROI** | **-19.1%** |
-| Open Deployed | 0.600000 SOL |
+| Open Deployed | 0.750000 SOL |
 
 ## Trades
+
+### 🟢 Clanker
+- **Status:** open | **Exit:** open
+- **Peak:** 1.02x | **Current:** 0.00x
+- **Mint:** `BXaW3PYx9Z4mNsZdT53N9hHKChGkSjG6r4pNTK2rpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:55:41 | BUY | 0.150000 | `23MoVUSNvbfqWznddzZZwQgGodB5Gq...` |
 
 ### 🟢 唐
 - **Status:** open | **Exit:** open

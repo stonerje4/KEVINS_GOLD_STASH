@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 02:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -133,7 +133,7 @@
 
 ### 🟢 NEMOCLAW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.90x
+- **Peak:** 1.15x | **Current:** 0.94x
 - **Mint:** `JDcPAEn2isVbrXPAQs8AQQNSTm3SGvug3bLnSYGkpump`
 
 | Time | Action | SOL | TX |
@@ -161,7 +161,7 @@
 
 ### 🟢 Builderz
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.70x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `8SMkpgTDDthhKk594JZPbfVSDhY2rXFRq5XpHQDWpump`
 
 | Time | Action | SOL | TX |

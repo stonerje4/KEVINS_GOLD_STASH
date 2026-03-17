@@ -1,5 +1,5 @@
 # [TEST] Wallet: `CT8wxJuPjSYzkXpFGPSEJKVWuNNgVCyjdjsNwhcUg7cy`
-> Generated: 2026-03-17 02:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -35,7 +35,7 @@
 
 ### 🟢 YoungHo
 - **Status:** open | **Exit:** open
-- **Peak:** 1.22x | **Current:** 0.75x
+- **Peak:** 1.22x | **Current:** 0.68x
 - **Mint:** `6k89E7gpz1pCQWjRQ2YRU8Gv8qXdoWdywmNWu9thpump`
 
 | Time | Action | SOL | TX |

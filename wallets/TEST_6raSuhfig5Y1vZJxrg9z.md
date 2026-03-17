@@ -1,22 +1,31 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 02:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 03:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 12 |
-| Open | 8 |
+| Total Positions | 13 |
+| Open | 9 |
 | Closed | 4 |
 | W/L | 4/0 |
 | SOL In (closed) | 0.000900 |
 | **Closed P&L** | **+0.000736 SOL** |
 | **Closed ROI** | **+81.7%** |
-| Open Deployed | 0.001300 SOL |
+| Open Deployed | 0.001400 SOL |
 
 ## Trades
 
+### 🟢 NEMOCLAW
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.69x
+- **Mint:** `8AVbpsXyQy4fPExCq3FydnDfxfmGytvs3W7n1SVapump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 02:55:12 | BUY | 0.000100 | `3jKnhpYmMHMzNs1JVpGVzC7zEDeo2H...` |
+
 ### 🟢 Gany
 - **Status:** partial | **Exit:** open
-- **Peak:** 16.79x | **Current:** 16.79x
+- **Peak:** 25.79x | **Current:** 24.68x
 - **Mint:** `BgtczEGgf9mZMcGBLi4J5Pn8PtmFy6Xz5uBKkMfspump`
 
 | Time | Action | SOL | TX |
@@ -28,10 +37,11 @@
 | 2026-03-17 02:47:03 | SELL | 0.000061 | `JgcfcrRAPtq58jJZW3Ko1xU3SSDsfb...` |
 | 2026-03-17 02:48:23 | SELL | 0.000068 | `2K87S9wCWinob5d7uziSBV54Ugfdq8...` |
 | 2026-03-17 02:54:28 | SELL | 0.000099 | `5zpvsikDiXAFkqfXRz7nnEsBkAEnFb...` |
+| 2026-03-17 02:59:11 | SELL | 0.000206 | `3hVLSwzAC9oY2vKmphFcYG6hUtR1EU...` |
 
 ### 🟢 patrick 
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.63x
+- **Peak:** 1.16x | **Current:** 0.59x
 - **Mint:** `CGJBLh4y224Xzzj16UcgkwNBVJjKFQRAqpaXc4tfpump`
 
 | Time | Action | SOL | TX |
@@ -40,7 +50,7 @@
 
 ### 🟢 BigT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 1.80x
+- **Peak:** 1.91x | **Current:** 1.91x
 - **Mint:** `353eyoAqJRHqikST5GAYzhgchDU2TTk2mjPNNbSLpump`
 
 | Time | Action | SOL | TX |
@@ -49,7 +59,7 @@
 
 ### 🟢 POLYHUNT
 - **Status:** open | **Exit:** open
-- **Peak:** 1.28x | **Current:** 0.94x
+- **Peak:** 1.28x | **Current:** 0.96x
 - **Mint:** `3DcFuBtMgMJftX6djdQn4A6bG3hAPPbFMNr5zPs4pump`
 
 | Time | Action | SOL | TX |
