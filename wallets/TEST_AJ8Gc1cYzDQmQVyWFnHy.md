@@ -1,18 +1,27 @@
 # [TEST] Wallet: `AJ8Gc1cYzDQmQVyWFnHyJAKV5QK5ysz5ML9NuK3xvJRt`
-> Generated: 2026-03-17 09:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 4 |
-| Open | 3 |
+| Total Positions | 5 |
+| Open | 4 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000039 SOL** |
 | **Closed ROI** | **+39.3%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
+
+### 🟢 PinchBench
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `4k9t9gpxwxVaoNwe77AkZ8aHZfhJkbzvs48Y8TZypump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:08:23 | BUY | 0.000100 | `5DyR1xnfLcuseAyMMgFgUVFQLoz7mB...` |
 
 ### 🟢 pvpdog
 - **Status:** open | **Exit:** open
@@ -44,7 +53,7 @@
 
 ### 🟢 FOXXXX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.95x
+- **Peak:** 1.12x | **Current:** 0.94x
 - **Mint:** `BheJ3zJePZae8k8v1t9DdTMDDvdLfKrD59ZNojzRpump`
 
 | Time | Action | SOL | TX |

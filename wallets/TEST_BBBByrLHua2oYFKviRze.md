@@ -1,22 +1,40 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 09:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 109 |
-| Open | 35 |
+| Total Positions | 111 |
+| Open | 37 |
 | Closed | 74 |
 | W/L | 70/4 |
 | SOL In (closed) | 0.030900 |
 | **Closed P&L** | **+0.025748 SOL** |
 | **Closed ROI** | **+83.3%** |
-| Open Deployed | 0.004500 SOL |
+| Open Deployed | 0.004700 SOL |
 
 ## Trades
 
+### 🟢 POG
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.67x
+- **Mint:** `DL9KuTbBWicrxCprbW2CGTwuqJGQq9nKome1jvqVpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:07:30 | BUY | 0.000100 | `KSCbognbugv9qkEipQbh7sGCJ5WWdY...` |
+
+### 🟢 Thinker
+- **Status:** open | **Exit:** open
+- **Peak:** 1.07x | **Current:** 0.58x
+- **Mint:** `38uDmHQTNp5PEsGqFaocRCJ5u8VL3VFUJKTbTJDPpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:06:14 | BUY | 0.000100 | `52JYK2HtxsaA2fcsoRh2cQ6krQhwYu...` |
+
 ### 🟢 SEKIRO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.71x | **Current:** 1.71x
+- **Peak:** 1.87x | **Current:** 1.73x
 - **Mint:** `PrZEjBVJKQpScxv17BynWTcEEWhzkWSYuMcNxwcpump`
 
 | Time | Action | SOL | TX |

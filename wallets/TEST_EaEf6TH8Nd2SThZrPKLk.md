@@ -1,22 +1,22 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 09:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 123 |
-| Open | 33 |
-| Closed | 90 |
-| W/L | 89/1 |
-| SOL In (closed) | 0.037000 |
-| **Closed P&L** | **+0.030910 SOL** |
-| **Closed ROI** | **+83.5%** |
-| Open Deployed | 0.004800 SOL |
+| Open | 34 |
+| Closed | 89 |
+| W/L | 88/1 |
+| SOL In (closed) | 0.036900 |
+| **Closed P&L** | **+0.030745 SOL** |
+| **Closed ROI** | **+83.3%** |
+| Open Deployed | 0.004900 SOL |
 
 ## Trades
 
 ### 🟢 FP
-- **Status:** closing | **Exit:** runner_trailing_stop
-- **Peak:** 3.15x | **Current:** 1.43x
+- **Status:** partial | **Exit:** runner_trailing_stop
+- **Peak:** 3.15x | **Current:** 1.26x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
 | Time | Action | SOL | TX |
@@ -30,6 +30,10 @@
 | 2026-03-17 09:02:35 | SELL | 0.000000 | `4HU3tKMEuLbqrdnFgXHcFbtWHMxmdi...` |
 | 2026-03-17 09:03:43 | SELL | 0.000000 | `2dBXesmVsSExockaRqHzD2ZvyRjAVR...` |
 | 2026-03-17 09:04:52 | SELL | 0.000000 | `4SgcyiqF5xHCiReknEoWDa2fmzBSLy...` |
+| 2026-03-17 09:06:00 | SELL | 0.000000 | `24sYtvVpgGJDEuuW8VVRHvsdbDHxrE...` |
+| 2026-03-17 09:07:09 | SELL | 0.000000 | `56JwJfu9RQKgu4wVQwTzYzBTrB4paS...` |
+| 2026-03-17 09:08:18 | SELL | 0.000000 | `2qDzFBXSY7dPPZdEJvHP8LhtMHMLHq...` |
+| 2026-03-17 09:09:27 | SELL | 0.000000 | `4Df81xMPGXgbfH45tnPydUcDDejmef...` |
 
 ### 🟢 TIKI
 - **Status:** open | **Exit:** open
@@ -80,7 +84,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 1.06x
+- **Peak:** 2.02x | **Current:** 0.97x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
@@ -112,7 +116,7 @@
 
 ### 🟢 NoseBoop
 - **Status:** open | **Exit:** open
-- **Peak:** 1.41x | **Current:** 0.95x
+- **Peak:** 1.41x | **Current:** 0.97x
 - **Mint:** `HVhqMVbmWtoSzPHU1cAX7TLy65VrSKqgnGFyY8BJpump`
 
 | Time | Action | SOL | TX |
@@ -195,7 +199,7 @@
 
 ### 🟢 WAVE
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.59x | **Current:** 4.12x
+- **Peak:** 4.59x | **Current:** 3.91x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -246,7 +250,7 @@
 
 ### 🟢 Monke
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.35x | **Current:** 2.05x
+- **Peak:** 2.35x | **Current:** 2.00x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

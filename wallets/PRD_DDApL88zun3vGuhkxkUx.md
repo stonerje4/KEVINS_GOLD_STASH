@@ -1,5 +1,5 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-17 09:05 UTC | Environment: **PRD**
+> Generated: 2026-03-17 09:10 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -26,7 +26,7 @@
 
 ### 🟢 Clanker
 - **Status:** partial | **Exit:** open
-- **Peak:** 5.42x | **Current:** 0.00x
+- **Peak:** 5.64x | **Current:** 0.00x
 - **Mint:** `BXaW3PYx9Z4mNsZdT53N9hHKChGkSjG6r4pNTK2rpump`
 
 | Time | Action | SOL | TX |

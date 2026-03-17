@@ -1,5 +1,5 @@
 # [TEST] Wallet: `45J68KxLV4izQXbY64gJr8YP4jfxGSvHFQwoDfBGxFg9`
-> Generated: 2026-03-17 09:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 HAIKUU
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.32x | **Current:** 2.50x
+- **Peak:** 3.32x | **Current:** 2.54x
 - **Mint:** `6TVFJ2HrZ9h9y9q362R91MffJxmrXPbrDLSDFbF3pump`
 
 | Time | Action | SOL | TX |
@@ -36,7 +36,7 @@
 
 ### 🟢 NEURIX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.42x | **Current:** 1.42x
+- **Peak:** 1.67x | **Current:** 1.56x
 - **Mint:** `Hrpq2D2YHzaYMUNNAt37TnHyQKRv5CSjvGWWRViHpump`
 
 | Time | Action | SOL | TX |

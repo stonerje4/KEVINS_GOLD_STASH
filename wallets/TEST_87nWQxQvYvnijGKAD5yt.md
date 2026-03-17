@@ -1,5 +1,5 @@
 # [TEST] Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
-> Generated: 2026-03-17 09:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -43,7 +43,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 1.12x
+- **Peak:** 1.12x | **Current:** 1.11x
 - **Mint:** `J4M4a9xNv7fTY2fXHMygP8MVzx8azdbJrp4jrNx5pump`
 
 | Time | Action | SOL | TX |
