@@ -1,5 +1,5 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 09:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 AICOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.99x
+- **Peak:** 1.12x | **Current:** 1.12x
 - **Mint:** `6rruoeRBYSSBs8BNi2Nae8N9xvhTcbjGn8qwkafkpump`
 
 | Time | Action | SOL | TX |
@@ -350,7 +350,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.82x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |

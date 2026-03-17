@@ -1,5 +1,5 @@
 # [PRD] Wallet: `ZzZZzPoJxWKern9EMk88aik3P8KwKgptANPdrhERrwr`
-> Generated: 2026-03-17 09:20 UTC | Environment: **PRD**
+> Generated: 2026-03-17 09:25 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 DRONE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 0.00x
+- **Peak:** 1.44x | **Current:** 0.00x
 - **Mint:** `4yQhwe4jiQh37sbN6R34u6MHJWay27ebWm9bUwGFpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 09:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 Stinkcoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.70x | **Current:** 1.22x
+- **Peak:** 1.70x | **Current:** 1.19x
 - **Mint:** `6o9aKxKfdSSfmaiwKV2VAeVivM8Kf6SU7XGAmnsjpump`
 
 | Time | Action | SOL | TX |

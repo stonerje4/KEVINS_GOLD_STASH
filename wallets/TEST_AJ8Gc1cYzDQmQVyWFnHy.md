@@ -1,10 +1,10 @@
 # [TEST] Wallet: `AJ8Gc1cYzDQmQVyWFnHyJAKV5QK5ysz5ML9NuK3xvJRt`
-> Generated: 2026-03-17 09:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 4 |
+| Total Positions | 6 |
+| Open | 5 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
@@ -14,9 +14,18 @@
 
 ## Trades
 
+### ⚪ Rocky
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `EMEQgt5GDtxAnUFwp3yyBZkKsMeewF18HGASuzcapump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:24:05 | BUY | 0.000100 | `qTYVQQPwYyqo2Q4JKDos8iR98sNxtJ...` |
+
 ### 🟢 PinchBench
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.71x
+- **Peak:** 1.00x | **Current:** 0.72x
 - **Mint:** `4k9t9gpxwxVaoNwe77AkZ8aHZfhJkbzvs48Y8TZypump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +62,7 @@
 
 ### 🟢 FOXXXX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.20x | **Current:** 1.03x
+- **Peak:** 1.20x | **Current:** 1.20x
 - **Mint:** `BheJ3zJePZae8k8v1t9DdTMDDvdLfKrD59ZNojzRpump`
 
 | Time | Action | SOL | TX |

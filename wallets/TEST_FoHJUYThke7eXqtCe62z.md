@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 09:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -323,7 +323,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.79x
+- **Peak:** 1.09x | **Current:** 0.80x
 - **Mint:** `8TLJGfW2xjoJK34DaKcP4g1xWVuqWSePEgm885Qnpump`
 
 | Time | Action | SOL | TX |
@@ -476,7 +476,7 @@
 
 ### 🟢 OBIRD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.83x
+- **Peak:** 1.07x | **Current:** 0.84x
 - **Mint:** `GAwvYcwU4chF1rqVJeLsNJWwucJQqbWd1WZxKHy7pump`
 
 | Time | Action | SOL | TX |
@@ -552,7 +552,7 @@
 
 ### 🟢 TD
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.90x
 - **Mint:** `HvtsgZrABY8uvcMCKg6Kd9y2RXr8pandJHRNBQYBpump`
 
 | Time | Action | SOL | TX |
@@ -570,7 +570,7 @@
 
 ### 🟢 ThumbYeti
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.73x
+- **Peak:** 1.00x | **Current:** 0.74x
 - **Mint:** `7sW639ah22qkgUVNoZMTzA9KkkFmYXBjsGxdbWXpump`
 
 | Time | Action | SOL | TX |

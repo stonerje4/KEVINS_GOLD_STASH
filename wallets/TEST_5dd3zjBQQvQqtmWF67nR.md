@@ -1,22 +1,22 @@
 # [TEST] Wallet: `5dd3zjBQQvQqtmWF67nR6XaRKe79cYu4fP6LFXZ1YRR9`
-> Generated: 2026-03-17 09:20 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:25 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 6 |
-| Open | 2 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.001900 |
+| Open | 1 |
+| Closed | 5 |
+| W/L | 4/1 |
+| SOL In (closed) | 0.002000 |
 | **Closed P&L** | **+0.002327 SOL** |
-| **Closed ROI** | **+122.5%** |
-| Open Deployed | 0.000700 SOL |
+| **Closed ROI** | **+116.4%** |
+| Open Deployed | 0.000600 SOL |
 
 ## Trades
 
-### 🟢 CHAD
-- **Status:** open | **Exit:** open
-- **Peak:** 1.92x | **Current:** 1.59x
+### 🔴 CHAD
+- **Status:** closed | **Exit:** ghost_close_tp_2x_half
+- **Peak:** 2.17x | **Current:** 2.17x
 - **Mint:** `4uwzn2mmd2wCwx4HqtUw99qbBd2nxr99zYBwH7kopump`
 
 | Time | Action | SOL | TX |
@@ -47,7 +47,7 @@
 
 ### 🟢 GORILLA
 - **Status:** open | **Exit:** open
-- **Peak:** 1.14x | **Current:** 0.68x
+- **Peak:** 1.14x | **Current:** 0.69x
 - **Mint:** `EgXirSgMd673qXKGB9kc2YHJnaQUHiyBTPasXEVJ5zMr`
 
 | Time | Action | SOL | TX |
