@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 10:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -45,7 +45,7 @@
 
 ### 🟢 NEMOCLAW
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.85x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `8AVbpsXyQy4fPExCq3FydnDfxfmGytvs3W7n1SVapump`
 
 | Time | Action | SOL | TX |

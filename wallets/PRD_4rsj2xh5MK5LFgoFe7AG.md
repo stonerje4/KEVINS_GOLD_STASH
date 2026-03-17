@@ -1,5 +1,5 @@
 # [PRD] Wallet: `4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS`
-> Generated: 2026-03-17 10:45 UTC | Environment: **PRD**
+> Generated: 2026-03-17 10:50 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 401k
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.00x
+- **Peak:** 1.34x | **Current:** 0.00x
 - **Mint:** `B9Tyqo7A1B8wE9TTQV1BupP5A6LMiaTLiHv8sdQLpump`
 
 | Time | Action | SOL | TX |

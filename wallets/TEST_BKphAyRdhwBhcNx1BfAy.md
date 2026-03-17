@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 10:45 UTC | Environment: **TEST**
+> Generated: 2026-03-17 10:50 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -160,7 +160,7 @@
 
 ### 🟢 RLFG
 - **Status:** open | **Exit:** open
-- **Peak:** 1.66x | **Current:** 0.53x
+- **Peak:** 1.66x | **Current:** 0.51x
 - **Mint:** `CCZ82whciPVkMdUj3Uqn4TX76F6BZ7rEstWHUEKwpump`
 
 | Time | Action | SOL | TX |
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.49x | **Current:** 3.41x
+- **Peak:** 7.49x | **Current:** 3.42x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -749,7 +749,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 1.84x
+- **Peak:** 3.16x | **Current:** 1.83x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
