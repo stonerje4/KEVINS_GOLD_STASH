@@ -1,11 +1,11 @@
 # [PRD] `W5D6nFHPARxc2wHj...`
-> 2026-03-17 12:20 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 12:25 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| kekkek | 03-17 11:39 | 0.00x | 2.55x | 0.7h | 0.1500 |
+| kekkek | 03-17 11:39 | 0.00x | 2.55x | 0.8h | 0.1500 |
 
 <details><summary>📋 Full Trade Log</summary>
 
