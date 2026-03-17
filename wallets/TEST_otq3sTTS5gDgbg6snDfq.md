@@ -1,16 +1,16 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 53 |
-| Open | 36 |
-| Closed | 17 |
-| W/L | 4/13 |
-| SOL In (closed) | 0.010200 |
+| Open | 35 |
+| Closed | 18 |
+| W/L | 4/14 |
+| SOL In (closed) | 0.010800 |
 | **Closed P&L** | **+0.003202 SOL** |
-| **Closed ROI** | **+31.4%** |
-| Open Deployed | 0.014100 SOL |
+| **Closed ROI** | **+29.7%** |
+| Open Deployed | 0.013500 SOL |
 
 ## Trades
 
@@ -349,14 +349,15 @@
 |------|--------|-----|----|
 | 2026-03-16 03:58:37 | BUY | 0.000600 | `55HwseTh2QL3DnLuYexBfGvtNGMN4s...` |
 
-### 🟢 JOPNER
-- **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.74x
+### 🔴 JOPNER
+- **Status:** closed | **Exit:** stale_cleanup
+- **Peak:** 1.00x | **Current:** 0.75x
 - **Mint:** `9TgyuVKRGKcm6HuN9fQbnik6EhqQB4jAB7eGZmZYpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:29:59 | BUY | 0.000600 | `3NEZ8znhvJkpeX3D7qcxgmmjMmmnz4...` |
+| 2026-03-17 04:51:40 | SELL | 0.000075 | `5C1ipvqvYexv5QWzoETWiM2oDCQ583...` |
 
 ### 🟢 REKTBET
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop

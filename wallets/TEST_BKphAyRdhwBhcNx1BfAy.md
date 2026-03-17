@@ -1,16 +1,16 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 287 |
-| Open | 79 |
-| Closed | 208 |
-| W/L | 196/12 |
-| SOL In (closed) | 0.105300 |
+| Open | 78 |
+| Closed | 209 |
+| W/L | 196/13 |
+| SOL In (closed) | 0.105900 |
 | **Closed P&L** | **+0.089936 SOL** |
-| **Closed ROI** | **+85.4%** |
-| Open Deployed | 0.027900 SOL |
+| **Closed ROI** | **+84.9%** |
+| Open Deployed | 0.027300 SOL |
 
 ## Trades
 
@@ -200,7 +200,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.21x | **Current:** 6.60x
+- **Peak:** 7.21x | **Current:** 6.70x
 - **Mint:** `BrBqQpMyENKVrfc1tmtsQ2BMhqP5MiKkbWP2fYrspump`
 
 | Time | Action | SOL | TX |
@@ -212,7 +212,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.89x | **Current:** 3.31x
+- **Peak:** 3.89x | **Current:** 3.33x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -370,7 +370,7 @@
 
 ### 🟢 tokens
 - **Status:** open | **Exit:** open
-- **Peak:** 1.80x | **Current:** 0.61x
+- **Peak:** 1.80x | **Current:** 0.60x
 - **Mint:** `66XSbdgMgdd8dPoj1fDp1m1M8sax2135J18tbNofpump`
 
 | Time | Action | SOL | TX |
@@ -2305,7 +2305,7 @@
 
 ### 🟢 0
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.65x
+- **Peak:** 1.09x | **Current:** 0.66x
 - **Mint:** `B5HtjQBnoEPGn7rJ8JSYF2K7NZv1AVAnBtKmRFn5DbXJ`
 
 | Time | Action | SOL | TX |
@@ -2393,14 +2393,15 @@
 | 2026-03-16 03:53:25 | SELL | 0.000390 | `4uUpEDXw81YY8hwYYj1JBtNmSxjix1...` |
 | 2026-03-16 04:12:59 | SELL | 0.000604 | `5UGhtFBtUyhpPd1X1m2ouc9kuCEQVe...` |
 
-### 🟢 Reinvest
-- **Status:** open | **Exit:** open
+### 🔴 Reinvest
+- **Status:** closed | **Exit:** stale_cleanup
 - **Peak:** 1.00x | **Current:** 0.85x
 - **Mint:** `7jEQzxnqHbjhgdmrmgtW1KmFykrU47UHsyCRhdSZpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 03:46:36 | BUY | 0.000600 | `3sQambzLfqDQiTrBojKyfwxmnj3817...` |
+| 2026-03-17 04:51:46 | SELL | 0.000085 | `2Qno94wonKtd4bFWPevWFAWknAUBiu...` |
 
 ### 🔴 PILL
 - **Status:** closed | **Exit:** ghost_close_stop_loss
@@ -2733,7 +2734,7 @@
 
 ### 🟢 MIDNIGHT
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.79x | **Current:** 1.36x
+- **Peak:** 1.79x | **Current:** 1.37x
 - **Mint:** `D5NV1zCfZyFYKLz9SLjhhPn9odieXZRd5aycSfuFpump`
 
 | Time | Action | SOL | TX |

@@ -1,18 +1,27 @@
 # [TEST] Wallet: `GEHrGJ3B9BbKdDmfKyB3mjouUY6wkiBAFfb6fAkrbWEd`
-> Generated: 2026-03-17 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 2 |
-| Open | 1 |
+| Total Positions | 3 |
+| Open | 2 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000095 SOL** |
 | **Closed ROI** | **+94.7%** |
-| Open Deployed | 0.000100 SOL |
+| Open Deployed | 0.000200 SOL |
 
 ## Trades
+
+### 🟢 UNICOIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.05x | **Current:** 1.05x
+- **Mint:** `2fxA6VJggsKJuqXMahUEF2zxa75cd9GA7U8UevUnpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 04:54:12 | BUY | 0.000100 | `2VQ2EpxSoCLTDE24hLSbopmcNV1Axs...` |
 
 ### 🔴 PVPDOG2
 - **Status:** closed | **Exit:** runner_trailing_stop

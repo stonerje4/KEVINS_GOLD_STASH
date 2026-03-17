@@ -1,22 +1,22 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 9 |
-| Open | 4 |
-| Closed | 5 |
-| W/L | 5/0 |
-| SOL In (closed) | 0.000500 |
-| **Closed P&L** | **+0.000145 SOL** |
-| **Closed ROI** | **+29.0%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 6 |
+| W/L | 6/0 |
+| SOL In (closed) | 0.000600 |
+| **Closed P&L** | **+0.000433 SOL** |
+| **Closed ROI** | **+72.1%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
 ### 🟢 MMAX
 - **Status:** partial | **Exit:** open
-- **Peak:** 4.21x | **Current:** 4.21x
+- **Peak:** 4.21x | **Current:** 3.92x
 - **Mint:** `AD9aDww57uzMo7DmePK8yk3xNm5BEQzzyZQVD2ARpump`
 
 | Time | Action | SOL | TX |
@@ -26,8 +26,8 @@
 | 2026-03-17 04:45:42 | SELL | 0.000034 | `pq7QKiLY68Kx9kJZY2PSnWcEVxPhjD...` |
 
 ### 🟢 BULKING
-- **Status:** partial | **Exit:** open
-- **Peak:** 6.31x | **Current:** 3.20x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 6.31x | **Current:** 1.84x
 - **Mint:** `6hwBwUtKwLDVZqwwaa4tENNbCd5vFdQ9EqZuUY5ypump`
 
 | Time | Action | SOL | TX |
@@ -36,6 +36,7 @@
 | 2026-03-17 04:46:27 | SELL | 0.000053 | `2eLwVZuoLAGdJpMinPMsBs2wDxiasg...` |
 | 2026-03-17 04:47:08 | SELL | 0.000050 | `2ymXgedt3dQ2qgeWJjP4Ac4iCVG4Bk...` |
 | 2026-03-17 04:47:56 | SELL | 0.000051 | `6ZcsifhBGKkkPw1QuSDDcCPykVfESU...` |
+| 2026-03-17 04:52:31 | SELL | 0.000134 | `bJ2dhBqNJvsGHKzr3Q7PaMy4km3yj9...` |
 
 ### 🔴 max999
 - **Status:** closed | **Exit:** stop_loss
@@ -98,7 +99,7 @@
 
 ### 🟢 Qi
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.74x | **Current:** 2.48x
+- **Peak:** 3.74x | **Current:** 2.40x
 - **Mint:** `6D1hQ22C7oCUKKVuy91i8HTHnzSjsHCuNAcH9WH2pump`
 
 | Time | Action | SOL | TX |

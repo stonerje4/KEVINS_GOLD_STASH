@@ -1,5 +1,5 @@
 # [TEST] Wallet: `TZkcwgk6WrXeU8Zj5uthAuqbmyW6Zmkwfi9XVVWMz4y`
-> Generated: 2026-03-17 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 BITCOIN
-- **Status:** open | **Exit:** open
-- **Peak:** 1.54x | **Current:** 1.42x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.82x | **Current:** 2.36x
 - **Mint:** `67JxGtfRB6qoYEQ6csTb9jFSF7f7WAbNeSAp6Mkmpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:37:28 | BUY | 0.000100 | `2A844jkbEFMXALLGY3N27NATiXCMBr...` |
+| 2026-03-17 04:52:27 | SELL | 0.000027 | `63fg3eKrgujDyw2MEdugTu9iJm7d8G...` |
 
 ### 🟢 Crabwise
 - **Status:** open | **Exit:** open

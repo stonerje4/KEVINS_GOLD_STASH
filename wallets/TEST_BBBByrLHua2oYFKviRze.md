@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 04:50 UTC | Environment: **TEST**
+> Generated: 2026-03-17 04:55 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PERCO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.31x | **Current:** 1.14x
+- **Peak:** 1.31x | **Current:** 0.89x
 - **Mint:** `7JuYDtBQQJzCHyNkzfs6hqrEtYgg6jtTfeKcN65YPmpr`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 PVECAT
 - **Status:** partial | **Exit:** open
-- **Peak:** 5.42x | **Current:** 5.42x
+- **Peak:** 5.42x | **Current:** 3.96x
 - **Mint:** `8V3b3trHmfHibbawz1oHhv1E1zBzwg2NQSnvoSWfpump`
 
 | Time | Action | SOL | TX |
