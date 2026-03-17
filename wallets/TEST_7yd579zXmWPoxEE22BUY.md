@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7yd579zXmWPoxEE22BUYTzAo8nyMmQtPyEWS3g1BFhH4`
-> Generated: 2026-03-17 00:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 chance
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.35x | **Current:** 1.15x
+- **Peak:** 2.35x | **Current:** 1.13x
 - **Mint:** `8DJckLTVzCy7u3afeydFXYZGkffiw7HeZ8ujxDRZpump`
 
 | Time | Action | SOL | TX |
@@ -26,13 +26,15 @@
 
 ### 🟢 COW
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.44x | **Current:** 2.33x
+- **Peak:** 5.35x | **Current:** 5.35x
 - **Mint:** `BRQn3S6nn4p3GAUsdAxJgJgxuWQpsjQjchiUmkfKpump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:46:07 | BUY | 0.000100 | `3gY7b6KDQZgkR86gxMHH23PxSWE27R...` |
 | 2026-03-16 23:59:41 | SELL | 0.000021 | `3R2tDrAPAjhNRoX2ysneyn78QXPhDT...` |
+| 2026-03-17 00:06:55 | SELL | 0.000029 | `2nCeEu8sRBc4uyJdcVQNzXe4UNLP2J...` |
+| 2026-03-17 00:09:44 | SELL | 0.000044 | `iNt93WVnabRWmRb3Vkj3mGsR2Y3Fvv...` |
 
 ### 🔴 PVE
 - **Status:** closed | **Exit:** ghost_close_stop_loss

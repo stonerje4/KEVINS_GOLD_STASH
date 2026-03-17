@@ -1,22 +1,40 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 00:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 16 |
-| Open | 15 |
+| Total Positions | 18 |
+| Open | 17 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.001500 SOL |
+| Open Deployed | 0.001600 SOL |
 
 ## Trades
 
+### ⚪ BDH
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `Aqo81fep1rS4kAWNidSm5qZwa33kPebLNZZdXoJZpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:09:41 | BUY | 0.000100 | `5UdrVBLiAxCht1jSqan6icNRVBARWG...` |
+
+### 🟢 William
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `3DG9VmAb7wuA2Ybecq9s1MZPpnLSEycBsuxRDhjXpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:08:44 | BUY | 0.000100 | `3s4RfRGV5TQp3RiQ1JhNiucwFMpjw2...` |
+
 ### 🟢 Mood
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.81x
+- **Peak:** 1.00x | **Current:** 0.73x
 - **Mint:** `3Gydn5Y2r2bm6XSTu6fYzgP68GWPex3cvWCowK7upump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +43,7 @@
 
 ### 🟢 Nyctimene
 - **Status:** open | **Exit:** open
-- **Peak:** 1.50x | **Current:** 1.28x
+- **Peak:** 1.50x | **Current:** 0.56x
 - **Mint:** `BZsediCfyToyZkSPD5HBadRXUxEVhWkSKceZExvSpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +61,7 @@
 
 ### 🟢 Mater
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.86x
+- **Peak:** 1.00x | **Current:** 0.81x
 - **Mint:** `CjDVxPEfyVaVuV4EyXXosPCRyiKjnePspNyZo1pDpump`
 
 | Time | Action | SOL | TX |
@@ -115,7 +133,7 @@
 
 ### 🟢 DAP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.13x | **Current:** 0.84x
+- **Peak:** 1.13x | **Current:** 0.82x
 - **Mint:** `3AhHpBR3o8TKKyBto3fZGLVHGRGtuUbqQy8LhziFpump`
 
 | Time | Action | SOL | TX |

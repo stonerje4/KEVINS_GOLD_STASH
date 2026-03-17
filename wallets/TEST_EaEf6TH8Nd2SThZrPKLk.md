@@ -1,18 +1,28 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 98 |
+| Total Positions | 99 |
 | Open | 17 |
-| Closed | 81 |
-| W/L | 80/1 |
-| SOL In (closed) | 0.036100 |
-| **Closed P&L** | **+0.030301 SOL** |
-| **Closed ROI** | **+83.9%** |
+| Closed | 82 |
+| W/L | 81/1 |
+| SOL In (closed) | 0.036200 |
+| **Closed P&L** | **+0.030336 SOL** |
+| **Closed ROI** | **+83.8%** |
 | Open Deployed | 0.003200 SOL |
 
 ## Trades
+
+### 🔴 TRENCHERIA
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.35x
+- **Mint:** `FEhT5Y91Xtrb4r75MXBVUkV1NwaZqFoKNY9vsEpgpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:06:58 | BUY | 0.000100 | `76fCxhnN6VvGR8NxjcFFRrp2rKUS5a...` |
+| 2026-03-17 00:07:53 | SELL | 0.000035 | `5Uc2JiLg2Q519rseYAPCnJPARswKox...` |
 
 ### 🔴 Crabs
 - **Status:** closed | **Exit:** ghost_close_runner_trailing_stop
@@ -36,7 +46,7 @@
 
 ### 🟢 UGOR
 - **Status:** open | **Exit:** open
-- **Peak:** 1.75x | **Current:** 1.12x
+- **Peak:** 1.75x | **Current:** 0.99x
 - **Mint:** `E98XR94FXG2w4GdCwunGPYx8TbZqe2HiNMPHS1Hmpump`
 
 | Time | Action | SOL | TX |
