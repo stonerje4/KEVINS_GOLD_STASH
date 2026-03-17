@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.10x | **Current:** 1.10x
+- **Peak:** 1.10x | **Current:** 0.98x
 - **Mint:** `5n9e4BNiyZ9yAyueaGr5isUSppj7DyX5vhdtcFyXpump`
 
 | Time | Action | SOL | TX |
@@ -197,7 +197,7 @@
 
 ### 🟢 X-Man
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.78x
+- **Peak:** 1.00x | **Current:** 0.88x
 - **Mint:** `BnshewgbX8hy1onTNZtzDpLkdtEDTHuHDYPQStN6pump`
 
 | Time | Action | SOL | TX |

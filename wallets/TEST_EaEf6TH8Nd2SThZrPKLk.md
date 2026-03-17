@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 CHOPPER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.50x
+- **Peak:** 1.00x | **Current:** 0.49x
 - **Mint:** `2WpTMwM5VzQJHeTaVEbSMuuQJyZcH4Mrv8H3oDDfpump`
 
 | Time | Action | SOL | TX |
@@ -52,7 +52,7 @@
 
 ### 🟢 WAVE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 1.56x
+- **Peak:** 1.56x | **Current:** 1.53x
 - **Mint:** `5eKeQ5D7VxNfHmwFouSp3tKfW5U5YVRM4TcYjjEFpump`
 
 | Time | Action | SOL | TX |
@@ -73,7 +73,7 @@
 
 ### 🟢 ChingChong
 - **Status:** open | **Exit:** open
-- **Peak:** 1.55x | **Current:** 0.58x
+- **Peak:** 1.55x | **Current:** 0.55x
 - **Mint:** `4bN7NHQs1TQ7pfCi576oJGXLsZA3AybDR9TXjUDcpump`
 
 | Time | Action | SOL | TX |

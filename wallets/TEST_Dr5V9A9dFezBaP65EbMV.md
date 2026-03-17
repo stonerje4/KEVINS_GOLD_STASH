@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -53,7 +53,7 @@
 
 ### 🟢 LARP
 - **Status:** open | **Exit:** open
-- **Peak:** 1.61x | **Current:** 1.28x
+- **Peak:** 1.61x | **Current:** 1.27x
 - **Mint:** `D1KStHZw7twX6iP8kKq5WTX3C75BQksMBs2Kj8svpump`
 
 | Time | Action | SOL | TX |

@@ -1,22 +1,22 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 41 |
-| Open | 5 |
-| Closed | 36 |
-| W/L | 32/4 |
-| SOL In (closed) | 0.014600 |
-| **Closed P&L** | **+0.009571 SOL** |
-| **Closed ROI** | **+65.6%** |
-| Open Deployed | 0.000500 SOL |
+| Open | 4 |
+| Closed | 37 |
+| W/L | 33/4 |
+| SOL In (closed) | 0.014700 |
+| **Closed P&L** | **+0.010120 SOL** |
+| **Closed ROI** | **+68.8%** |
+| Open Deployed | 0.000400 SOL |
 
 ## Trades
 
 ### 🟢 Life
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.95x
+- **Peak:** 1.36x | **Current:** 1.36x
 - **Mint:** `2BrfhwBxvgup7iUnKcfoWuZSbHbcTzsZJsVqeuB4pump`
 
 | Time | Action | SOL | TX |
@@ -44,8 +44,8 @@
 | 2026-03-17 01:39:48 | SELL | 0.000034 | `2nDVgQ28LqoEiKmtatqx1mrFnMFuSc...` |
 
 ### 🟢 GEEKED
-- **Status:** partial | **Exit:** open
-- **Peak:** 10.69x | **Current:** 7.99x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 10.69x | **Current:** 5.30x
 - **Mint:** `9d8eLRNJtYjN53DMK6dznFLuTtB4fBhmRgkCD4Mpump`
 
 | Time | Action | SOL | TX |
@@ -56,6 +56,7 @@
 | 2026-03-17 01:39:44 | SELL | 0.000047 | `kAqHzUktFcxAWbwdhVddUg8iU7bALg...` |
 | 2026-03-17 01:42:33 | SELL | 0.000071 | `4xqXYko7Sd1F6PKt67a8yvZ8pod5jd...` |
 | 2026-03-17 01:45:55 | SELL | 0.000070 | `2n95UL5DgX23pwzCGLNiWQbcyKJzUG...` |
+| 2026-03-17 01:58:18 | SELL | 0.000313 | `bPB6SgrAXUsTtG1hYdRpq3a8nHofyw...` |
 
 ### 🟢 ORC
 - **Status:** open | **Exit:** open

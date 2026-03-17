@@ -1,18 +1,27 @@
 # [PRD] Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
-> Generated: 2026-03-17 01:55 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:00 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 45 |
-| Open | 3 |
+| Total Positions | 46 |
+| Open | 4 |
 | Closed | 42 |
 | W/L | 4/38 |
 | SOL In (closed) | 4.960000 |
 | **Closed P&L** | **-1.507602 SOL** |
 | **Closed ROI** | **-30.4%** |
-| Open Deployed | 0.450000 SOL |
+| Open Deployed | 0.600000 SOL |
 
 ## Trades
+
+### 🟢 YoungHo
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `6k89E7gpz1pCQWjRQ2YRU8Gv8qXdoWdywmNWu9thpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:58:21 | BUY | 0.150000 | `285SSfA8YkZrHvFF6e6ahtW1UMhccw...` |
 
 ### 🟢 REESE
 - **Status:** open | **Exit:** open

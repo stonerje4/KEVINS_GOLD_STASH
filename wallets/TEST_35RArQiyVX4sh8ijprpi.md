@@ -1,5 +1,5 @@
 # [TEST] Wallet: `35RArQiyVX4sh8ijprpizqb8Lodxz83PKu4Z7E9usSbn`
-> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 ADDICTION
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.87x | **Current:** 1.80x
 - **Mint:** `3sakGzMhUQEe3Epr8spKkEoyFwuZnHQn8hht7Lyzpump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +53,7 @@
 
 ### 🟢 CLAWDIS
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.71x | **Current:** 1.70x
+- **Peak:** 2.71x | **Current:** 2.44x
 - **Mint:** `2yDL2okKMtkxtSomVWVfr6Y8JDBuidRX3e4Qx8hBBAGS`
 
 | Time | Action | SOL | TX |

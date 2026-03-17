@@ -1,18 +1,27 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 50 |
-| Open | 33 |
+| Total Positions | 51 |
+| Open | 34 |
 | Closed | 17 |
 | W/L | 4/13 |
 | SOL In (closed) | 0.010200 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+31.4%** |
-| Open Deployed | 0.013800 SOL |
+| Open Deployed | 0.013900 SOL |
 
 ## Trades
+
+### 🟢 NC
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 1.00x
+- **Mint:** `AV4M5xbaCXWPJ1P3N1pbea4VaebDPWHK67NrwiY5pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 01:58:11 | BUY | 0.000100 | `2on9KLiSR8MDZr6zahagE76pTSdA26...` |
 
 ### 🟢 goldfish
 - **Status:** open | **Exit:** open
@@ -124,7 +133,7 @@
 
 ### 🟢 Run
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.84x
+- **Peak:** 1.00x | **Current:** 0.92x
 - **Mint:** `Emnmkb798VgxgqpezbUsfbaxtKrNYNw7YRm5bHDfpump`
 
 | Time | Action | SOL | TX |
@@ -260,7 +269,7 @@
 
 ### 🟢 $CHARITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.90x
+- **Peak:** 1.06x | **Current:** 0.82x
 - **Mint:** `DTMb6bxY4ZtoLnHR2N8HBAnQxChsv3yKdeCSCgxXpump`
 
 | Time | Action | SOL | TX |
@@ -278,7 +287,7 @@
 
 ### 🟢 Jewboi
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.82x
+- **Peak:** 1.00x | **Current:** 0.91x
 - **Mint:** `BJLHZskpW8jsmrurcnfMyFyaSwbbV11gTW2dM1DRpump`
 
 | Time | Action | SOL | TX |
@@ -315,7 +324,7 @@
 
 ### 🟢 Hector
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.88x
+- **Peak:** 1.00x | **Current:** 0.80x
 - **Mint:** `H93PW2ERjt9WF3aS9g2Ea6j7etC8T1HZR27xXBYSpump`
 
 | Time | Action | SOL | TX |

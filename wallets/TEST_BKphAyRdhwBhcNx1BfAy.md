@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BKphAyRdhwBhcNx1BfAy4gRbymmSYVbD43RwBPYLReDo`
-> Generated: 2026-03-17 01:55 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:00 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -210,7 +210,7 @@
 
 ### 🟢 BBX
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.82x | **Current:** 2.82x
+- **Peak:** 2.82x | **Current:** 2.76x
 - **Mint:** `4mmfih2myWmnyvmSzYan3owpNGcv1HTTgixXdLeApump`
 
 | Time | Action | SOL | TX |
@@ -435,7 +435,7 @@
 
 ### 🟢 SRI RAKUM
 - **Status:** open | **Exit:** open
-- **Peak:** 1.82x | **Current:** 0.66x
+- **Peak:** 1.82x | **Current:** 0.67x
 - **Mint:** `9tHZjux5MqAGpPztGJTUVSoWJK8H48kSQr7y8ndVpump`
 
 | Time | Action | SOL | TX |
@@ -746,7 +746,7 @@
 
 ### 🟢 INCOG
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.16x | **Current:** 2.06x
+- **Peak:** 3.16x | **Current:** 2.08x
 - **Mint:** `3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump`
 
 | Time | Action | SOL | TX |
@@ -2240,7 +2240,7 @@
 
 ### 🟢 AOR
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.84x | **Current:** 3.71x
+- **Peak:** 3.84x | **Current:** 3.79x
 - **Mint:** `3mKtq8CmY395StEXeRu5VKkEjhGoVGoiGicKWoDypump`
 
 | Time | Action | SOL | TX |
