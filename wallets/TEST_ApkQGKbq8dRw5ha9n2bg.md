@@ -1,18 +1,27 @@
 # [TEST] Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
-> Generated: 2026-03-17 00:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 2 |
+| Total Positions | 6 |
+| Open | 3 |
 | Closed | 3 |
 | W/L | 2/1 |
 | SOL In (closed) | 0.001300 |
 | **Closed P&L** | **+0.002816 SOL** |
 | **Closed ROI** | **+216.6%** |
-| Open Deployed | 0.000200 SOL |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
+
+### 🟢 POKEMON
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `Cj56juraQxYxJJHdcdvAgtXqezF8Uxasa6DPsVFcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:44:25 | BUY | 0.000100 | `5mmXdjLL2NFxpYWHog67ZYYt45rWt4...` |
 
 ### 🟢 OWN
 - **Status:** open | **Exit:** open

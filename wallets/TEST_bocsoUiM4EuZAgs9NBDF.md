@@ -1,22 +1,49 @@
 # [TEST] Wallet: `bocsoUiM4EuZAgs9NBDFZW1ghzFXsjBX6hx9V3zMqTJ`
-> Generated: 2026-03-17 00:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 22 |
-| Open | 21 |
+| Total Positions | 25 |
+| Open | 24 |
 | Closed | 1 |
 | W/L | 1/0 |
 | SOL In (closed) | 0.000100 |
 | **Closed P&L** | **+0.000142 SOL** |
 | **Closed ROI** | **+142.2%** |
-| Open Deployed | 0.002100 SOL |
+| Open Deployed | 0.002300 SOL |
 
 ## Trades
 
+### ⚪ sexless
+- **Status:** confirming | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `FVidfQMMimDh2vG8voK4YdBkUcq7kvJuVPbLUiT5pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:44:43 | BUY | 0.000100 | `5XhGh1KFHKgeyDYfHKrvzppehM4DBP...` |
+
+### 🟢 EVIE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.98x
+- **Mint:** `ETZ5L4FYfkgXx5XAK7Vhvag9kirGJdpBAUJcue1Dpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:42:22 | BUY | 0.000100 | `4qNk7Zx4dpSmb6DzfHefZ1tqRc6y8u...` |
+
+### 🟢 EVIE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.96x
+- **Mint:** `9LDEyGaoeRBBJzLei4cZmt6iUthAeFcnkXeBWTocpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:40:05 | BUY | 0.000100 | `a8U86yikMCmp5QArzGnLuSb7NbRXG1...` |
+
 ### 🟢 AI
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.90x
 - **Mint:** `BPbVZ5oNbvWCrvBaGqEMZLNEVD6wKgMDRLCrJP7wpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +52,7 @@
 
 ### 🟢 Vance
 - **Status:** open | **Exit:** open
-- **Peak:** 1.78x | **Current:** 0.87x
+- **Peak:** 1.78x | **Current:** 0.65x
 - **Mint:** `euC79AAyFXUw82hBd7s1rzcFV2vxXwNk7FpdD86pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +61,7 @@
 
 ### 🟢 BATTLE
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.12x | **Current:** 1.20x
+- **Peak:** 2.12x | **Current:** 1.19x
 - **Mint:** `41Ro9syNfd3CRKjSGvCk5iaXpyb557k1ACHUEDUEpump`
 
 | Time | Action | SOL | TX |
@@ -161,7 +188,7 @@
 
 ### 🟢 Fumbl
 - **Status:** open | **Exit:** open
-- **Peak:** 1.09x | **Current:** 0.63x
+- **Peak:** 1.09x | **Current:** 0.61x
 - **Mint:** `51eQsq4zyN5tG4YjDs7pRV4HgApdu1WEzp6zWHLWpump`
 
 | Time | Action | SOL | TX |

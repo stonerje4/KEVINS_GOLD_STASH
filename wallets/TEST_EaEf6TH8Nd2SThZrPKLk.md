@@ -1,22 +1,31 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 00:40 UTC | Environment: **TEST**
+> Generated: 2026-03-17 00:45 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 103 |
-| Open | 20 |
+| Total Positions | 104 |
+| Open | 21 |
 | Closed | 83 |
 | W/L | 82/1 |
 | SOL In (closed) | 0.036300 |
 | **Closed P&L** | **+0.030482 SOL** |
 | **Closed ROI** | **+84.0%** |
-| Open Deployed | 0.003500 SOL |
+| Open Deployed | 0.003600 SOL |
 
 ## Trades
 
+### 🟢 ST. PIPPIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `D88W9fiFMLWgzjWe3sPfqsirn3wZgaiJm2opN5YNpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 00:44:32 | BUY | 0.000100 | `FGLNpg3FEimFWWVLyaTtG6shLfVReX...` |
+
 ### 🟢 FILECITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.23x
+- **Peak:** 1.34x | **Current:** 1.34x
 - **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 Monke
 - **Status:** open | **Exit:** open
-- **Peak:** 1.15x | **Current:** 1.08x
+- **Peak:** 1.20x | **Current:** 1.14x
 - **Mint:** `gqqPZaSV2UDmEi3dhBzA6u6x5ZTLAXPntHZ5gQ4pump`
 
 | Time | Action | SOL | TX |

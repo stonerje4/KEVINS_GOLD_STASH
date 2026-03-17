@@ -1,5 +1,5 @@
 # [PRD] Wallet: `42HG8wPULnwoWPCcixwBeYw9kb8Vdci7mQjs9iXV4nVv`
-> Generated: 2026-03-17 00:40 UTC | Environment: **PRD**
+> Generated: 2026-03-17 00:45 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -16,13 +16,14 @@
 
 ### 🟢 AGI
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.78x | **Current:** 0.00x
+- **Peak:** 3.93x | **Current:** 0.00x
 - **Mint:** `74DUiy4ziySrM4A8oxUUm37q2zRJkczp89p9Bwupump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-16 23:49:56 | BUY | 0.150000 | `5egQr9sxqAvVKykWomJUrS8wgq9YgA...` |
 | 2026-03-17 00:30:09 | SELL | 0.040861 | `34xjbPLYYbVbdu6rT9ARAYu6oAZgLG...` |
+| 2026-03-17 00:44:08 | SELL | 0.059008 | `NoUxiZGs5C8CW86SCCfJw5Sqjz3A4x...` |
 
 ### 🟢 NEMOCLAW
 - **Status:** open | **Exit:** open
