@@ -1,16 +1,17 @@
 # [PRD] `EFmDSnRbFCHkUz3z...`
-> 2026-03-17 15:05 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-17 15:10 UTC | **1** pos | **0W/1L** | P&L: **-0.118296 SOL** (-78.9%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Mossad | 03-17 15:01 | 0.00x | 1.19x | 0.1h | 0.1500 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Mossad | -0.1183 | 03-17 15:01 | 1.2x | 03-17 15:05 | 0.0317/0.1500 | SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 15:05 | Mossad | SELL | 0.0317 | `47XuYVUxZ7uReDi5...` |
 | 03-17 15:01 | Mossad | BUY | 0.1500 | `557DjzjuieWvEK3q...` |
 
 </details>

@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 15:05 UTC** | 7d | 692 buys, 936 sells | In: **82.03** | Out: **79.67** | Net: **-2.36 SOL**
+> Updated: **2026-03-17 15:10 UTC** | 7d | 692 buys, 938 sells | In: **82.03** | Out: **79.84** | Net: **-2.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 15:06 | 🔴 SELL | $BBX | 0.1454 | r9pFHjFe... | stale | `EDy9FroBAcvs...` |
+| 03-17 | 15:05 | 🔴 SELL | Mossad | 0.0317 | EFmDSnRb... | SL | `47XuYVUxZ7uR...` |
 | 03-17 | 15:04 | 🟢 BUY | Guinness | 0.1500 | CZjxED3u... | copy | `GkZLwRqYuMvp...` |
 | 03-17 | 15:01 | 🔴 SELL | DLSSELON | 0.0243 | 42nQHDpy... | trail | `3pDPQ34gMMGV...` |
 | 03-17 | 15:01 | 🟢 BUY | Mossad | 0.1500 | EFmDSnRb... | copy | `557DjzjuieWv...` |
