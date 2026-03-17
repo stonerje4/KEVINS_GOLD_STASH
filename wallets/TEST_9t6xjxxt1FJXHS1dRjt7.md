@@ -1,16 +1,11 @@
 # [TEST] `9t6xjxxt1FJXHS1d...`
-> 2026-03-17 16:45 UTC | **2** pos | **0W/1L** | P&L: **-0.000016 SOL** (-16.1%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Gilbert | 03-17 16:31 | 0.46x | 1.00x | 0.2h | 0.0001 |
+> 2026-03-17 16:50 UTC | **2** pos | **0W/2L** | P&L: **-0.000116 SOL** (-58.0%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Gilbert | -0.0001 | 03-17 16:31 | 1.0x | 03-17 16:46 | 0.0000/0.0001 | gc_SL |
 | ❌ Thinker | -0.0000 | 03-17 13:23 | 2.6x | 03-17 13:56 | 0.0001/0.0001 | trail |
 
 <details><summary>📋 Full Trade Log</summary>

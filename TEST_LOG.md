@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 16:45 UTC** | 7d | 1459 buys, 1953 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
+> Updated: **2026-03-17 16:50 UTC** | 7d | 1464 buys, 1958 sells | In: **0.48** | Out: **0.31** | Net: **-0.17 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 16:49 | 🟢 BUY | SaintAlon | 0.0001 | 42nQHDpy... | copy_buy | `5pEhfM9CJVb4...` |
+| 03-17 | 16:49 | 🔴 SELL | Invincible | 0.0000 | E5sZTG93... | SL | `5HaMdPLjAMPQ...` |
+| 03-17 | 16:48 | 🟢 BUY | CLAWN | 0.0001 | Gdd86j2T... | copy_buy | `4tjZCxrdMfuC...` |
+| 03-17 | 16:48 | 💰 SELL | INFDFI | 0.0000 | 2autqiin... | TP3 | `5HQQtZLJTWQA...` |
+| 03-17 | 16:47 | 🟢 BUY | CME | 0.0001 | AiNfNi2e... | copy_buy | `4whBUfFcQCqL...` |
+| 03-17 | 16:47 | 🟢 BUY | WRT | 0.0001 | otq3sTTS... | copy_buy | `28ACSa6M16yh...` |
+| 03-17 | 16:46 | 💰 SELL | INFDFI | 0.0001 | 2autqiin... | TP2 | `5bn5XWU74jFc...` |
+| 03-17 | 16:46 | 💰 SELL | DragClaw | 0.0001 | GHy1P6vJ... | trail | `5Qy6GZuzXLjp...` |
+| 03-17 | 16:45 | 💰 SELL | Newscum | 0.0001 | 9G4ytadk... | TP2 | `2tFo769qKxtP...` |
+| 03-17 | 16:45 | 🟢 BUY | BBX | 0.0001 | A4azQqrp... | copy_buy | `23aoH5Tomqi5...` |
 | 03-17 | 16:41 | 🟢 BUY | Yunho | 0.0001 | 9tv5mfwa... | copy_buy | `SRg4GttAAKh2...` |
 | 03-17 | 16:41 | 💰 SELL | INFDFI | 0.0001 | 2autqiin... | TP1 | `4awUJAkrU9Zg...` |
 | 03-17 | 16:41 | 🟢 BUY | BBX | 0.0001 | 2947n9KQ... | copy_buy | `3aSswHprX8dt...` |

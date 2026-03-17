@@ -1,5 +1,11 @@
 # [TEST] `A4azQqrpx2fZfg55...`
-> 2026-03-17 16:45 UTC | **11** pos | **0W/11L** | P&L: **-0.003199 SOL** (-88.9%) | 0 open
+> 2026-03-17 16:50 UTC | **12** pos | **0W/11L** | P&L: **-0.003199 SOL** (-88.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BBX | 03-17 16:45 | 1.05x | 1.05x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -21,6 +27,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:45 | BBX | BUY | 0.0001 | `23aoH5Tomqi5wWzA...` |
 | 03-17 06:07 | BBX | BUY | 0.0001 | `3fJ6dioni5GXuGaN...` |
 | 03-16 23:28 | RETIRE | BUY | 0.0001 | `ciMMvXkP7z6Mo6Qr...` |
 | 03-16 23:19 | BBX | BUY | 0.0001 | `57nG7XUu9YqFNEpk...` |

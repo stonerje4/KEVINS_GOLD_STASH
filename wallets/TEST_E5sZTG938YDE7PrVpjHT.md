@@ -1,17 +1,17 @@
 # [TEST] `E5sZTG938YDE7PrV...`
-> 2026-03-17 16:45 UTC | **4** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 2 open
+> 2026-03-17 16:50 UTC | **4** pos | **0W/3L** | P&L: **-0.000260 SOL** (-86.7%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Invincible | 03-17 16:30 | 0.81x | 1.53x | 0.2h | 0.0001 |
-| Molt.id | 03-17 16:14 | 0.81x | 1.09x | 0.5h | 0.0001 |
+| Molt.id | 03-17 16:14 | 0.81x | 1.09x | 0.6h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ Invincible | -0.0001 | 03-17 16:30 | 1.5x | 03-17 16:49 | 0.0000/0.0001 | SL |
 | ❌ ANI | -0.0001 | 03-17 07:10 | 1.4x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ MiniME | -0.0001 | 03-17 00:04 | 1.1x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 
@@ -19,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 16:49 | Invincible | SELL | 0.0000 | `5HaMdPLjAMPQpU99...` |
 | 03-17 16:30 | Invincible | BUY | 0.0001 | `43a4gskMYuuNQkgD...` |
 | 03-17 16:14 | Molt.id | BUY | 0.0001 | `3G8829VGqRNANE9i...` |
 | 03-17 07:10 | ANI | BUY | 0.0001 | `X8FTBUUXqWDbWGzg...` |
