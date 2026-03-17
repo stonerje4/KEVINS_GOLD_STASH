@@ -1,5 +1,5 @@
 # [TEST] Wallet: `GEHrGJ3B9BbKdDmfKyB3mjouUY6wkiBAFfb6fAkrbWEd`
-> Generated: 2026-03-17 05:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 UNICOIN
 - **Status:** open | **Exit:** open
-- **Peak:** 1.57x | **Current:** 1.23x
+- **Peak:** 1.57x | **Current:** 1.13x
 - **Mint:** `2fxA6VJggsKJuqXMahUEF2zxa75cd9GA7U8UevUnpump`
 
 | Time | Action | SOL | TX |

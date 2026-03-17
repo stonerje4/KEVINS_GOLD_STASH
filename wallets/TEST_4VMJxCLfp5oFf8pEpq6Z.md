@@ -1,5 +1,5 @@
 # [TEST] Wallet: `4VMJxCLfp5oFf8pEpq6ZeL9fU1N6zc1NoSYEQ6k72aqw`
-> Generated: 2026-03-17 05:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Pistachio
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.65x
+- **Peak:** 1.00x | **Current:** 0.63x
 - **Mint:** `9vAfgrGHccFBHrcUKWSB93wUvtqC5r4wbFux2GP2pump`
 
 | Time | Action | SOL | TX |

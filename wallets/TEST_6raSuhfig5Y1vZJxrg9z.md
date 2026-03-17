@@ -1,5 +1,5 @@
 # [TEST] Wallet: `6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`
-> Generated: 2026-03-17 05:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -73,7 +73,7 @@
 
 ### 🟢 BigT
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.06x | **Current:** 1.09x
+- **Peak:** 2.06x | **Current:** 1.03x
 - **Mint:** `353eyoAqJRHqikST5GAYzhgchDU2TTk2mjPNNbSLpump`
 
 | Time | Action | SOL | TX |

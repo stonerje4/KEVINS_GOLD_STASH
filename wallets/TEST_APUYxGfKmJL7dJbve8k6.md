@@ -1,28 +1,29 @@
 # [TEST] Wallet: `APUYxGfKmJL7dJbve8k6k2ANeLUqAvLJKCBzr3ujL62G`
-> Generated: 2026-03-17 05:05 UTC | Environment: **TEST**
+> Generated: 2026-03-17 05:10 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 42 |
-| Open | 4 |
-| Closed | 38 |
-| W/L | 34/4 |
-| SOL In (closed) | 0.014800 |
-| **Closed P&L** | **+0.010217 SOL** |
-| **Closed ROI** | **+69.0%** |
-| Open Deployed | 0.000400 SOL |
+| Open | 3 |
+| Closed | 39 |
+| W/L | 35/4 |
+| SOL In (closed) | 0.014900 |
+| **Closed P&L** | **+0.010295 SOL** |
+| **Closed ROI** | **+69.1%** |
+| Open Deployed | 0.000300 SOL |
 
 ## Trades
 
-### 🟢 GIGGLES
-- **Status:** partial | **Exit:** open
-- **Peak:** 2.38x | **Current:** 0.94x
+### 🔴 GIGGLES
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 2.38x | **Current:** 0.64x
 - **Mint:** `GZJAmw2D8WRLokKv1qnPhryAJ3xCD6z5jnwEiaV7pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 04:58:05 | BUY | 0.000100 | `4UjhG26GK1vUowUF8sLYrDoeQCEaZg...` |
 | 2026-03-17 05:01:48 | SELL | 0.000021 | `3woSn5d8qBdGnL1wGTAY84rDdArs7L...` |
+| 2026-03-17 05:05:34 | SELL | 0.000058 | `5vqZecUFB8sWqvoRXPkQUG3vs7vE1S...` |
 
 ### 🔴 Life
 - **Status:** closed | **Exit:** runner_trailing_stop
