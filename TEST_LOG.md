@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 19:50 UTC** | 7d | 1635 buys, 2079 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 19:55 UTC** | 7d | 1642 buys, 2081 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:54 | 🟢 BUY | LEPRESTAR | 0.0001 | 42nQHDpy... | copy_buy | `23dguktUheUg...` |
+| 03-17 | 19:54 | 💰 SELL | PHIL | 0.0001 | GvksYkES... | trail | `4zicj9PU81Vs...` |
+| 03-17 | 19:53 | 🟢 BUY | tusk | 0.0001 | 42nQHDpy... | copy_buy | `62xKWsu71E8H...` |
+| 03-17 | 19:53 | 💰 SELL | DOT | 0.0001 | 6uippNoB... | trail | `4KaGpcc8fiqc...` |
+| 03-17 | 19:52 | 🟢 BUY | ピヨコ | 0.0001 | EaEf6TH8... | copy_buy | `5cxYGuVK6Ugk...` |
+| 03-17 | 19:51 | 🟢 BUY | WTF | 0.0001 | FoHJUYTh... | copy_buy | `5PCXXvfx9gUN...` |
+| 03-17 | 19:51 | 🟢 BUY | Zoe | 0.0001 | otq3sTTS... | copy_buy | `5a4Kk3djPZ9s...` |
+| 03-17 | 19:51 | 🟢 BUY | Waymo | 0.0001 | EaEf6TH8... | copy_buy | `jTWhmBpZv73X...` |
+| 03-17 | 19:50 | 🟢 BUY | RETARDMAXXING | 0.0001 | 9tv5mfwa... | copy_buy | `4tt8gxyEAEKt...` |
 | 03-17 | 19:49 | 🔴 SELL | EVERYTHING | 0.0000 | BBBByrLH... | SL | `32ksg7uX9bMv...` |
 | 03-17 | 19:49 | 🟢 BUY | PUMPOOR | 0.0001 | BBBByrLH... | copy_buy | `41pqCizBtAyD...` |
 | 03-17 | 19:49 | 🟢 BUY | NVDA | 0.0001 | AJ8Gc1cY... | copy_buy | `4A2j1VPUyvsf...` |

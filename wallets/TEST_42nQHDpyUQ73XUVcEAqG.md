@@ -1,11 +1,13 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-17 19:50 UTC | **26** pos | **4W/20L** | P&L: **+0.001411 SOL** (+36.2%) | 2 open
+> 2026-03-17 19:55 UTC | **28** pos | **4W/20L** | P&L: **+0.001411 SOL** (+36.2%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| AGENTINK | 03-17 17:15 | 1.38x | 1.38x | 2.6h | 0.0001 |
+| LEPRESTAR | 03-17 19:54 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| tusk | 03-17 19:53 | 0.89x | 1.00x | 0.0h | 0.0001 |
+| AGENTINK | 03-17 17:15 | 1.31x | 1.38x | 2.7h | 0.0001 |
 | SCANNEX | 03-17 17:04 | 0.92x | 1.26x | 2.8h | 0.0001 |
 
 ## Closed
@@ -41,6 +43,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:54 | LEPRESTAR | BUY | 0.0001 | `23dguktUheUg6Xau...` |
+| 03-17 19:53 | tusk | BUY | 0.0001 | `62xKWsu71E8HhhWP...` |
 | 03-17 17:22 | SaintAlon | SELL | 0.0000 | `39RtVfXni5u9rxfq...` |
 | 03-17 17:15 | AGENTINK | BUY | 0.0001 | `5nk3CLWvzwcGv1b8...` |
 | 03-17 17:13 | SaintAlon | SELL | 0.0001 | `w82mLQg8brzoqigD...` |

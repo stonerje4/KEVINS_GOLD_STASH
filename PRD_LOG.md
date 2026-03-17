@@ -1,8 +1,16 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-17 19:50 UTC** | 7d | 732 buys, 975 sells | In: **89.73** | Out: **84.25** | Net: **-5.48 SOL**
+> Updated: **2026-03-17 19:55 UTC** | 7d | 737 buys, 976 sells | In: **90.58** | Out: **84.37** | Net: **-6.21 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 19:54 | 🟢 BUY | LEPRESTAR | 0.1500 | 42nQHDpy... | copy | `Xw3YGpfW9aUG...` |
+| 03-17 | 19:54 | 🟢 BUY | Akhal-Teke | 0.1500 | BNCSPd6Q... | copy | `6KD9eC7BsSTc...` |
+| 03-17 | 19:54 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `2AaY9PtxQuUb...` |
+| 03-17 | 19:53 | 🔴 SELL | ? | 0.0546 | 3HGqppv8... | SL | `4B1oxqYGJKEA...` |
+| 03-17 | 19:53 | 🟢 BUY | tusk | 0.1500 | 42nQHDpy... | copy | `zhoc6T7m34MB...` |
+| 03-17 | 19:53 | 🟢 BUY | Thinker | 0.1500 | J5jm7BnB... | copy | `4MkZTSGc6T4V...` |
+| 03-17 | 19:51 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `34sRdZjx5kuS...` |
+| 03-17 | 19:51 | 🔴 SELL | ? | 0.1155 | 3HGqppv8... | trail | `fKNP6r1HhWqS...` |
 | 03-17 | 19:48 | 💰 SELL | clawchain | 0.1915 | 42nQHDpy... | trail | `4o6oqq81oGPj...` |
 | 03-17 | 19:48 | 💰 SELL | ? | 0.0838 | 3HGqppv8... | TP1 | `4U51z8t1ca1n...` |
 | 03-17 | 19:47 | 🟢 BUY | ? | 0.1500 | 3HGqppv8... | copy | `xnJhwTavfkRh...` |
@@ -1708,5 +1716,3 @@
 | 03-10 | 20:11 | 💰 SELL | creature | 0.0514 | HMM6RoT2... | TP3 | `2jy6JMvBTdbH...` |
 | 03-10 | 20:08 | 💰 SELL | SPACE | 0.0318 | 9rb2ChEj... | TP2 | `4Ytn8x4XXj6u...` |
 | 03-10 | 19:56 | 🔴 SELL | ZOO | 0.0187 | 8QfqdUJt... | SL | `48z8UfZy9Mer...` |
-| 03-10 | 19:52 | 💰 SELL | Cardboard | 0.0470 | 7aMgK5L4... | TP4 | `2XLzqVGGBijT...` |
-| 03-10 | 19:51 | 🟢 BUY | ZOO | 0.0500 | 8QfqdUJt... | copy | `2j7euMWPzt52...` |

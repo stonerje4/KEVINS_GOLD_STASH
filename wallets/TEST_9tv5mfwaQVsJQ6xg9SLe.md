@@ -1,11 +1,12 @@
 # [TEST] `9tv5mfwaQVsJQ6xg...`
-> 2026-03-17 19:50 UTC | **9** pos | **2W/6L** | P&L: **-0.000194 SOL** (-24.2%) | 1 open
+> 2026-03-17 19:55 UTC | **10** pos | **2W/6L** | P&L: **-0.000194 SOL** (-24.2%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| JEETICIDE | 03-17 19:18 | 0.63x | 1.00x | 0.5h | 0.0001 |
+| RETARDMAXXING | 03-17 19:50 | 0.71x | 1.00x | 0.1h | 0.0001 |
+| JEETICIDE | 03-17 19:18 | 0.71x | 1.00x | 0.6h | 0.0001 |
 
 ## Closed
 
@@ -24,6 +25,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 19:50 | RETARDMAXXING | BUY | 0.0001 | `4tt8gxyEAEKtR4Vh...` |
 | 03-17 19:18 | JEETICIDE | BUY | 0.0001 | `3qo9zgtZDxNauuMA...` |
 | 03-17 16:41 | Yunho | BUY | 0.0001 | `SRg4GttAAKh2W1Na...` |
 | 03-17 01:41 | roni | SELL | 0.0002 | `w1CKUJfMmPaQjyhG...` |
