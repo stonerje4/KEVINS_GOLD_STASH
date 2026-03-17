@@ -1,5 +1,5 @@
 # [TEST] Wallet: `Dr5V9A9dFezBaP65EbMVhyMzV3qxWKMxySVx3VvnVvo6`
-> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 MOMO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.18x | **Current:** 1.10x
+- **Peak:** 1.18x | **Current:** 1.11x
 - **Mint:** `9JbxQSKNukRA7cPZxCfhSNEcAP9iKRo3PSyYNbW4pump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +25,7 @@
 
 ### 🟢 zeroxoneb
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.25x | **Current:** 1.04x
+- **Peak:** 2.25x | **Current:** 1.18x
 - **Mint:** `8n4ZAfn1izwsXKfvc2KnAsPTfNokRiqCvKTwb4mSpump`
 
 | Time | Action | SOL | TX |
@@ -54,7 +54,7 @@
 
 ### 🟢 SHIKOKU
 - **Status:** open | **Exit:** open
-- **Peak:** 1.05x | **Current:** 0.64x
+- **Peak:** 1.05x | **Current:** 0.62x
 - **Mint:** `7TvfNnDxstnrfb5eF5pg4PcwXPMfiJLu9eysA7qJpump`
 
 | Time | Action | SOL | TX |
@@ -120,7 +120,7 @@
 
 ### 🟢 Achieve
 - **Status:** open | **Exit:** open
-- **Peak:** 1.73x | **Current:** 0.99x
+- **Peak:** 1.73x | **Current:** 0.96x
 - **Mint:** `46HrKBBJSHaPUEAADfSNG989zrzvYm3aBVPTrQMKpump`
 
 | Time | Action | SOL | TX |

@@ -1,18 +1,27 @@
 # [TEST] Wallet: `otq3sTTS5gDgbg6snDfqVesMwwhxKWZtz4xpM7GFoc8`
-> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 57 |
-| Open | 38 |
+| Total Positions | 58 |
+| Open | 39 |
 | Closed | 19 |
 | W/L | 4/15 |
 | SOL In (closed) | 0.011400 |
 | **Closed P&L** | **+0.003202 SOL** |
 | **Closed ROI** | **+28.1%** |
-| Open Deployed | 0.013300 SOL |
+| Open Deployed | 0.013400 SOL |
 
 ## Trades
+
+### 🟢 AICOIN
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.99x
+- **Mint:** `6rruoeRBYSSBs8BNi2Nae8N9xvhTcbjGn8qwkafkpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:11:57 | BUY | 0.000100 | `4z2njGCYzJjzbJ8Mxwr5vs4MgUzc4g...` |
 
 ### 🟢 Roadster
 - **Status:** open | **Exit:** open

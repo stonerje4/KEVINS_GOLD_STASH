@@ -1,22 +1,31 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 111 |
+| Total Positions | 112 |
 | Open | 37 |
-| Closed | 74 |
-| W/L | 70/4 |
-| SOL In (closed) | 0.030900 |
+| Closed | 75 |
+| W/L | 70/5 |
+| SOL In (closed) | 0.031000 |
 | **Closed P&L** | **+0.025748 SOL** |
-| **Closed ROI** | **+83.3%** |
+| **Closed ROI** | **+83.1%** |
 | Open Deployed | 0.004700 SOL |
 
 ## Trades
 
-### 🟢 POG
+### 🟢 Nietzschean
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.67x
+- **Peak:** 1.00x | **Current:** 0.69x
+- **Mint:** `Jpw3rQPnrYWu6B9KrHPU2qce5w1qk948UGvSS58pump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:11:58 | BUY | 0.000100 | `4Na5irMQ9b6mLWDcHBVnxESDR4mcG8...` |
+
+### 🔴 POG
+- **Status:** closed | **Exit:** ghost_close_stop_loss
+- **Peak:** 1.00x | **Current:** 0.37x
 - **Mint:** `DL9KuTbBWicrxCprbW2CGTwuqJGQq9nKome1jvqVpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +34,7 @@
 
 ### 🟢 Thinker
 - **Status:** open | **Exit:** open
-- **Peak:** 1.07x | **Current:** 0.58x
+- **Peak:** 1.16x | **Current:** 0.79x
 - **Mint:** `38uDmHQTNp5PEsGqFaocRCJ5u8VL3VFUJKTbTJDPpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +43,7 @@
 
 ### 🟢 SEKIRO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.73x
+- **Peak:** 1.87x | **Current:** 1.71x
 - **Mint:** `PrZEjBVJKQpScxv17BynWTcEEWhzkWSYuMcNxwcpump`
 
 | Time | Action | SOL | TX |

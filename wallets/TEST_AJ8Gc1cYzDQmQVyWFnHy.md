@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AJ8Gc1cYzDQmQVyWFnHyJAKV5QK5ysz5ML9NuK3xvJRt`
-> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PinchBench
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.00x
+- **Peak:** 1.00x | **Current:** 0.69x
 - **Mint:** `4k9t9gpxwxVaoNwe77AkZ8aHZfhJkbzvs48Y8TZypump`
 
 | Time | Action | SOL | TX |
@@ -53,7 +53,7 @@
 
 ### 🟢 FOXXXX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.12x | **Current:** 0.94x
+- **Peak:** 1.12x | **Current:** 1.07x
 - **Mint:** `BheJ3zJePZae8k8v1t9DdTMDDvdLfKrD59ZNojzRpump`
 
 | Time | Action | SOL | TX |

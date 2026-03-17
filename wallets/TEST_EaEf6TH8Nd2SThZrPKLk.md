@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 09:10 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:15 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 FP
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 3.15x | **Current:** 1.26x
+- **Peak:** 3.15x | **Current:** 1.15x
 - **Mint:** `8PUUcRsFavd5UfKR6yF8f9YuD3x7gduidBS3koEfpump`
 
 | Time | Action | SOL | TX |
@@ -34,6 +34,10 @@
 | 2026-03-17 09:07:09 | SELL | 0.000000 | `56JwJfu9RQKgu4wVQwTzYzBTrB4paS...` |
 | 2026-03-17 09:08:18 | SELL | 0.000000 | `2qDzFBXSY7dPPZdEJvHP8LhtMHMLHq...` |
 | 2026-03-17 09:09:27 | SELL | 0.000000 | `4Df81xMPGXgbfH45tnPydUcDDejmef...` |
+| 2026-03-17 09:10:40 | SELL | 0.000000 | `4ewHfzMytvo8ztFVEVP3jzdLQuQf3n...` |
+| 2026-03-17 09:11:49 | SELL | 0.000000 | `2NRnas5unQeRUsGk2Dq1p1KidGEbS1...` |
+| 2026-03-17 09:13:01 | SELL | 0.000000 | `4vvGRGiThQvdm1jM8Bhbd8XyfE2VDg...` |
+| 2026-03-17 09:14:11 | SELL | 0.000000 | `3p45DWspaNGXSTffz4BWYihwWeDFjS...` |
 
 ### 🟢 TIKI
 - **Status:** open | **Exit:** open
@@ -84,7 +88,7 @@
 
 ### 🟢 AEX402
 - **Status:** partial | **Exit:** runner_trailing_stop
-- **Peak:** 2.02x | **Current:** 0.97x
+- **Peak:** 2.02x | **Current:** 0.86x
 - **Mint:** `5ZyGVMrXG3rAPbRpJSfNDjxqty8TYd8HEfCoGnEspump`
 
 | Time | Action | SOL | TX |
