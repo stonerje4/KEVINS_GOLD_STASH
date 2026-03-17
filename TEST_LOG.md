@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 20:10 UTC** | 7d | 1651 buys, 2095 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 20:15 UTC** | 7d | 1653 buys, 2098 sells | In: **0.50** | Out: **0.31** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 20:14 | 🔴 SELL | LEPRESTAR | 0.0000 | 42nQHDpy... | SL | `3X5g6xxz3sYp...` |
+| 03-17 | 20:14 | 💰 SELL | CyClaw | 0.0000 | Lfw99jsE... | TP3 | `2YT5C4Y6CEYj...` |
+| 03-17 | 20:13 | 💰 SELL | Trenchies | 0.0001 | BBBByrLH... | TP1 | `5rH3ANa8hwpu...` |
+| 03-17 | 20:12 | 🟢 BUY | Avatar | 0.0001 | GHy1P6vJ... | copy_buy | `vGWGuGy9aLDK...` |
+| 03-17 | 20:11 | 🟢 BUY | PVP | 0.0001 | FWQ3sv51... | copy_buy | `5enUdLoDpzDC...` |
 | 03-17 | 20:09 | 🟢 BUY | CANCRIE | 0.0001 | BBBByrLH... | copy_buy | `2fyMq4hPutEc...` |
 | 03-17 | 20:07 | 🔴 SELL | YOLO | 0.0000 | Lfw99jsE... | SL | `3ezWJ9gegJoz...` |
 | 03-17 | 20:07 | 🟢 BUY | Trenchies | 0.0001 | BBBByrLH... | copy_buy | `2pUohJVxe2JW...` |
