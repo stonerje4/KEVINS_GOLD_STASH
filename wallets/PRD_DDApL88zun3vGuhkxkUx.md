@@ -1,5 +1,5 @@
 # [PRD] Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
-> Generated: 2026-03-17 08:30 UTC | Environment: **PRD**
+> Generated: 2026-03-17 08:35 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -26,7 +26,7 @@
 
 ### 🟢 Clanker
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.62x | **Current:** 0.00x
+- **Peak:** 5.08x | **Current:** 0.00x
 - **Mint:** `BXaW3PYx9Z4mNsZdT53N9hHKChGkSjG6r4pNTK2rpump`
 
 | Time | Action | SOL | TX |
@@ -34,6 +34,7 @@
 | 2026-03-17 02:55:41 | BUY | 0.150000 | `23MoVUSNvbfqWznddzZZwQgGodB5Gq...` |
 | 2026-03-17 08:05:33 | SELL | 0.030150 | `41b9dFGM2de5MRUip8bbFMb6VVJwS8...` |
 | 2026-03-17 08:28:42 | SELL | 0.046324 | `5YpuB2N38tbDwDnxksvhsQEjKGhsBK...` |
+| 2026-03-17 08:30:19 | SELL | 0.076144 | `MebXT12QByuv7Se2SitZK6qDfVWijL...` |
 
 ### 🟢 唐
 - **Status:** open | **Exit:** open

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj`
-> Generated: 2026-03-17 08:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 AFC
 - **Status:** open | **Exit:** open
-- **Peak:** 1.23x | **Current:** 1.06x
+- **Peak:** 1.23x | **Current:** 1.02x
 - **Mint:** `EyhEfJKSj2QC7pbFYrV2tptNZMgcMNUgXGc4J8Jfpump`
 
 | Time | Action | SOL | TX |

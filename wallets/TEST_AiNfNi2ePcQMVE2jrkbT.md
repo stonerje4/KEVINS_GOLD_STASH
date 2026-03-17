@@ -1,22 +1,40 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 08:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 5 |
-| Open | 3 |
+| Total Positions | 7 |
+| Open | 5 |
 | Closed | 2 |
 | W/L | 2/0 |
 | SOL In (closed) | 0.000200 |
 | **Closed P&L** | **+0.000077 SOL** |
 | **Closed ROI** | **+38.4%** |
-| Open Deployed | 0.000300 SOL |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
+### 🟢 AGENT
+- **Status:** open | **Exit:** open
+- **Peak:** 1.00x | **Current:** 0.00x
+- **Mint:** `F9R7Tq41x8QsPCfEhAbFRuMFq4p3rTm7BBESJvwypump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 08:33:26 | BUY | 0.000100 | `22LgsPTWP56agMZCdyu2xm3AoJinFH...` |
+
+### 🟢 X-Man
+- **Status:** open | **Exit:** open
+- **Peak:** 1.03x | **Current:** 1.00x
+- **Mint:** `FBcmXXWRscafFoJafLyR3yD6npYrLCbTR8Gtpohcpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 08:31:22 | BUY | 0.000100 | `3cV1gqxZApYgoV5JHnxm5ZuZk2sZVQ...` |
+
 ### 🟢 Stinkcoin
 - **Status:** open | **Exit:** open
-- **Peak:** 1.40x | **Current:** 1.40x
+- **Peak:** 1.42x | **Current:** 1.42x
 - **Mint:** `6o9aKxKfdSSfmaiwKV2VAeVivM8Kf6SU7XGAmnsjpump`
 
 | Time | Action | SOL | TX |
@@ -25,7 +43,7 @@
 
 ### 🟢 MULE
 - **Status:** open | **Exit:** open
-- **Peak:** 1.06x | **Current:** 0.61x
+- **Peak:** 1.06x | **Current:** 0.58x
 - **Mint:** `CNvpUrwm7E2QAezwKpm4nfUFM8ALtJ8jcXuJ67ccpump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +52,7 @@
 
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 11.84x | **Current:** 7.63x
+- **Peak:** 11.84x | **Current:** 7.39x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |

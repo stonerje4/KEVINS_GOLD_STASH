@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoabCXs5iQBv7mXuCjHy5WV12h4rhncJdzqHkvwtW3is`
-> Generated: 2026-03-17 08:30 UTC | Environment: **TEST**
+> Generated: 2026-03-17 08:35 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -81,7 +81,7 @@
 
 ### 🟢 TOR
 - **Status:** partial | **Exit:** stop_loss
-- **Peak:** 1.97x | **Current:** 0.40x
+- **Peak:** 1.97x | **Current:** 0.36x
 - **Mint:** `9GtVruBvuS5SCQLDR5PGJbQQa68iPEyXsWns3toDpump`
 
 | Time | Action | SOL | TX |
@@ -137,6 +137,11 @@
 | 2026-03-17 08:27:06 | SELL | 0.000000 | `2xpbbHrFR6WrfFB8EuD4drmS68WAQs...` |
 | 2026-03-17 08:28:04 | SELL | 0.000000 | `2G4FszSJ8R8AwtAdXhzVUiHQsCGHqc...` |
 | 2026-03-17 08:29:08 | SELL | 0.000000 | `5KSWW3D6XSZ5s3BeHYkZtJg1WuyZvR...` |
+| 2026-03-17 08:30:11 | SELL | 0.000000 | `SGFtmWiXJG3hyGFDb6pfrebP369Py4...` |
+| 2026-03-17 08:31:13 | SELL | 0.000000 | `zHRqBSEFePoUnmsyXefRXwLS9bj9s4...` |
+| 2026-03-17 08:32:16 | SELL | 0.000000 | `4bXAAAir61tSkqXqB7gtjuEByWw8Zb...` |
+| 2026-03-17 08:33:21 | SELL | 0.000000 | `3McjCF712vkwvLxScReAXfHuzeEArR...` |
+| 2026-03-17 08:34:25 | SELL | 0.000000 | `exx2awLyu2dVK6JdowYrWyBWC7G7DB...` |
 
 ### 🔴 BULKING
 - **Status:** closed | **Exit:** stop_loss
