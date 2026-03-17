@@ -1,5 +1,11 @@
 # [TEST] `7cXeEXa4cpUDYtpa...`
-> 2026-03-17 18:40 UTC | **6** pos | **0W/6L** | P&L: **-0.000484 SOL** (-80.6%) | 0 open
+> 2026-03-17 18:45 UTC | **7** pos | **0W/6L** | P&L: **-0.000484 SOL** (-80.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| PVP | 03-17 18:45 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -16,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 18:45 | PVP | BUY | 0.0001 | `TVvQwHtKFyBhNtpA...` |
 | 03-17 17:26 | GlassWorm | SELL | 0.0000 | `2ryHp6JUQwTVR5Ti...` |
 | 03-17 17:02 | GlassWorm | BUY | 0.0001 | `nsJbzV5SyAMVfsXx...` |
 | 03-17 15:10 | Yukie | SELL | 0.0000 | `3QgbzBYRVxpS5HzY...` |

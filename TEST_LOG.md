@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 18:40 UTC** | 7d | 1573 buys, 2036 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
+> Updated: **2026-03-17 18:45 UTC** | 7d | 1577 buys, 2038 sells | In: **0.49** | Out: **0.31** | Net: **-0.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 18:45 | 🟢 BUY | PVP | 0.0001 | 7cXeEXa4... | copy_buy | `TVvQwHtKFyBh...` |
+| 03-17 | 18:44 | 🟢 BUY | EXPO | 0.0001 | Gdd86j2T... | copy_buy | `2RsV3muSF65a...` |
+| 03-17 | 18:44 | 🔴 SELL | JEET | 0.0001 | 99XWMUAM... | trail | `5KgHB4XL7scK...` |
+| 03-17 | 18:43 | 🟢 BUY | PINGU | 0.0001 | FoabCXs5... | copy_buy | `23mJ3TerUY7g...` |
+| 03-17 | 18:42 | 🟢 BUY | Lightreel | 0.0001 | GHy1P6vJ... | copy_buy | `2dKxZFtF6fBu...` |
+| 03-17 | 18:41 | 🔴 SELL | NEMOTRON | 0.0000 | 87nWQxQv... | trail | `3ZFAFeB6AdkD...` |
 | 03-17 | 18:39 | 🟢 BUY | CT | 0.0001 | FoHJUYTh... | copy_buy | `64fy7GuyXymP...` |
 | 03-17 | 18:39 | 🟢 BUY | SLOP | 0.0001 | 7yd579zX... | copy_buy | `vmANpFEsVY8Q...` |
 | 03-17 | 18:38 | 💰 SELL | DUNE | 0.0000 | 35RArQiy... | TP1 | `3bMddFDjUASH...` |
