@@ -1,5 +1,5 @@
 # [TEST] Wallet: `BBBByrLHua2oYFKviRze4N9n7ay7FcXqy2NzQXfXYEMm`
-> Generated: 2026-03-17 09:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 Nietzschean
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.69x
+- **Peak:** 1.00x | **Current:** 0.55x
 - **Mint:** `Jpw3rQPnrYWu6B9KrHPU2qce5w1qk948UGvSS58pump`
 
 | Time | Action | SOL | TX |
@@ -34,7 +34,7 @@
 
 ### 🟢 Thinker
 - **Status:** open | **Exit:** open
-- **Peak:** 1.16x | **Current:** 0.79x
+- **Peak:** 1.16x | **Current:** 0.80x
 - **Mint:** `38uDmHQTNp5PEsGqFaocRCJ5u8VL3VFUJKTbTJDPpump`
 
 | Time | Action | SOL | TX |
@@ -43,7 +43,7 @@
 
 ### 🟢 SEKIRO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.87x | **Current:** 1.71x
+- **Peak:** 1.94x | **Current:** 1.92x
 - **Mint:** `PrZEjBVJKQpScxv17BynWTcEEWhzkWSYuMcNxwcpump`
 
 | Time | Action | SOL | TX |

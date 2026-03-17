@@ -1,5 +1,5 @@
 # [TEST] Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
-> Generated: 2026-03-17 09:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 09:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -124,7 +124,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.00x | **Current:** 0.97x
 - **Mint:** `3kYTeKXEs8NyGq6wiAgi145Lpxk6mUYtRZu3nz7opump`
 
 | Time | Action | SOL | TX |
@@ -133,7 +133,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.92x
+- **Peak:** 1.00x | **Current:** 1.00x
 - **Mint:** `AZxrRCQ8Kc4WLD5yxE4MuAd3XvZ9dDfVGHL4LYUUpump`
 
 | Time | Action | SOL | TX |
@@ -142,7 +142,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.95x
+- **Peak:** 1.03x | **Current:** 1.03x
 - **Mint:** `BBVEkonmxoDz97MfmnpKuVkaYriXwrzgJxrkpsqhpump`
 
 | Time | Action | SOL | TX |
@@ -151,7 +151,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.89x
+- **Peak:** 1.08x | **Current:** 1.08x
 - **Mint:** `B6SWjYQfcY9ZTpJxmEjv1ZbgUVBLGTtJk1Z34kHpump`
 
 | Time | Action | SOL | TX |
@@ -160,7 +160,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.02x | **Current:** 1.02x
+- **Peak:** 1.02x | **Current:** 1.00x
 - **Mint:** `EDHw1TY5o9gF4ywVLHnxjjNoFSh6vRbQkDbZQwYzpump`
 
 | Time | Action | SOL | TX |
@@ -169,7 +169,7 @@
 
 ### 🟢 BBX
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.97x
+- **Peak:** 1.00x | **Current:** 0.95x
 - **Mint:** `FkmaLRQgTePVmYXSWYmLyvYMwh2vijkwiGgrwwSjpump`
 
 | Time | Action | SOL | TX |

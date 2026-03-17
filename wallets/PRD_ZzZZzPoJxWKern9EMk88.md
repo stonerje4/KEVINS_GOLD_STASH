@@ -1,18 +1,27 @@
 # [PRD] Wallet: `ZzZZzPoJxWKern9EMk88aik3P8KwKgptANPdrhERrwr`
-> Generated: 2026-03-17 09:15 UTC | Environment: **PRD**
+> Generated: 2026-03-17 09:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 10 |
-| Open | 0 |
+| Total Positions | 11 |
+| Open | 1 |
 | Closed | 10 |
 | W/L | 3/7 |
 | SOL In (closed) | 1.030000 |
 | **Closed P&L** | **-0.212834 SOL** |
 | **Closed ROI** | **-20.7%** |
-| Open Deployed | 0.000000 SOL |
+| Open Deployed | 0.150000 SOL |
 
 ## Trades
+
+### 🟢 DRONE
+- **Status:** open | **Exit:** open
+- **Peak:** 1.15x | **Current:** 0.00x
+- **Mint:** `4yQhwe4jiQh37sbN6R34u6MHJWay27ebWm9bUwGFpump`
+
+| Time | Action | SOL | TX |
+|------|--------|-----|----|
+| 2026-03-17 09:17:12 | BUY | 0.150000 | `2S31tsCifi5TwjsQwLEAAvfptY7ztY...` |
 
 ### 🔴 WSBAGS
 - **Status:** closed | **Exit:** runner_trailing_stop
