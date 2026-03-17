@@ -1,22 +1,22 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 02:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 10 |
-| Open | 6 |
-| Closed | 4 |
-| W/L | 4/0 |
-| SOL In (closed) | 0.000900 |
-| **Closed P&L** | **+0.000701 SOL** |
-| **Closed ROI** | **+77.9%** |
-| Open Deployed | 0.000600 SOL |
+| Open | 5 |
+| Closed | 5 |
+| W/L | 5/0 |
+| SOL In (closed) | 0.001000 |
+| **Closed P&L** | **+0.000839 SOL** |
+| **Closed ROI** | **+83.9%** |
+| Open Deployed | 0.000500 SOL |
 
 ## Trades
 
 ### 🟢 grokette
-- **Status:** partial | **Exit:** open
-- **Peak:** 3.11x | **Current:** 1.73x
+- **Status:** closed | **Exit:** runner_trailing_stop
+- **Peak:** 3.11x | **Current:** 1.04x
 - **Mint:** `8AGFNmf6rwB9ctLEHnC9xEkUMnmFhXT2ZJEbhvAxpump`
 
 | Time | Action | SOL | TX |
@@ -24,10 +24,11 @@
 | 2026-03-17 02:05:12 | BUY | 0.000100 | `2NbBYk7EijKCnrsvfs55SSBfvNUtY5...` |
 | 2026-03-17 02:09:18 | SELL | 0.000025 | `3RJ2zb65r1ZxRr7RnVj4GbksoiDWDW...` |
 | 2026-03-17 02:13:46 | SELL | 0.000028 | `r8gRXCckUqFAnYwevTEcaDNATHVYky...` |
+| 2026-03-17 02:15:26 | SELL | 0.000085 | `4yc5iTVM2KY9pMWfDJnS3tPZdG6oBG...` |
 
 ### 🟢 ROMEO
 - **Status:** open | **Exit:** open
-- **Peak:** 1.84x | **Current:** 0.72x
+- **Peak:** 1.84x | **Current:** 0.62x
 - **Mint:** `F9NKgc4y3UuSy4qSGMHaUpReFAGr4tb1MV9sWS78pump`
 
 | Time | Action | SOL | TX |
@@ -36,7 +37,7 @@
 
 ### 🟢 API
 - **Status:** open | **Exit:** open
-- **Peak:** 1.56x | **Current:** 1.16x
+- **Peak:** 1.61x | **Current:** 1.61x
 - **Mint:** `3icfn5H4ePwjkKDUq7SGqJYeJrutR2WYTvnbcp6cpump`
 
 | Time | Action | SOL | TX |

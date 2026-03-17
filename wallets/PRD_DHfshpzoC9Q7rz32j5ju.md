@@ -1,5 +1,5 @@
 # [PRD] Wallet: `DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf`
-> Generated: 2026-03-17 02:15 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
@@ -26,7 +26,7 @@
 
 ### 🟢 IOR
 - **Status:** partial | **Exit:** open
-- **Peak:** 2.01x | **Current:** 0.00x
+- **Peak:** 2.05x | **Current:** 0.00x
 - **Mint:** `DmLW7F9nAH4WddjsLxZTj4YrSgzxXbNQDBohgA4kpump`
 
 | Time | Action | SOL | TX |

@@ -1,5 +1,5 @@
 # [TEST] Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
-> Generated: 2026-03-17 02:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -34,7 +34,7 @@
 
 ### 🟢 CHOPPER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.00x | **Current:** 0.49x
+- **Peak:** 1.00x | **Current:** 0.48x
 - **Mint:** `2WpTMwM5VzQJHeTaVEbSMuuQJyZcH4Mrv8H3oDDfpump`
 
 | Time | Action | SOL | TX |
@@ -91,7 +91,7 @@
 
 ### 🟢 FILECITY
 - **Status:** open | **Exit:** open
-- **Peak:** 1.34x | **Current:** 1.00x
+- **Peak:** 1.38x | **Current:** 1.38x
 - **Mint:** `9vcpkrebLLyd38pzfZxbtKtscLtU9fedBDRjjnW5pump`
 
 | Time | Action | SOL | TX |

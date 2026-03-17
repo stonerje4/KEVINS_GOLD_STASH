@@ -1,5 +1,5 @@
 # [TEST] Wallet: `5VVBtheejS1QK44JMLWk9WzoM4n1nXcMZTuWhVbrDAdN`
-> Generated: 2026-03-17 02:15 UTC | Environment: **TEST**
+> Generated: 2026-03-17 02:20 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -15,13 +15,14 @@
 ## Trades
 
 ### 🟢 TRASHBAG
-- **Status:** open | **Exit:** open
-- **Peak:** 1.63x | **Current:** 1.63x
+- **Status:** partial | **Exit:** open
+- **Peak:** 2.42x | **Current:** 2.42x
 - **Mint:** `5bS4F42naF8obeWSYRoV7JkUPCE4hMeccqbRYx89pump`
 
 | Time | Action | SOL | TX |
 |------|--------|-----|----|
 | 2026-03-17 02:08:21 | BUY | 0.000100 | `s5o4sFVRX87Z8Bfppa2cAkESUTHifw...` |
+| 2026-03-17 02:16:02 | SELL | 0.000021 | `3WMQPbez86B4bko1wTou5JXH6bUgBb...` |
 
 ### 🟢 RICH
 - **Status:** open | **Exit:** open

@@ -1,16 +1,16 @@
 # [PRD] Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
-> Generated: 2026-03-17 02:15 UTC | Environment: **PRD**
+> Generated: 2026-03-17 02:20 UTC | Environment: **PRD**
 
 | Metric | Value |
 |--------|-------|
 | Total Positions | 14 |
-| Open | 5 |
-| Closed | 9 |
-| W/L | 2/7 |
-| SOL In (closed) | 1.350000 |
-| **Closed P&L** | **+0.050611 SOL** |
-| **Closed ROI** | **+3.7%** |
-| Open Deployed | 0.750000 SOL |
+| Open | 4 |
+| Closed | 10 |
+| W/L | 2/8 |
+| SOL In (closed) | 1.500000 |
+| **Closed P&L** | **-0.043990 SOL** |
+| **Closed ROI** | **-2.9%** |
+| Open Deployed | 0.600000 SOL |
 
 ## Trades
 
@@ -53,8 +53,8 @@
 | 2026-03-16 22:20:16 | BUY | 0.150000 | `4pnYFgkWtGXGZHb3bYRhgZCFPNDfNp...` |
 | 2026-03-16 23:09:09 | SELL | 0.052446 | `2XZsBACuvoVzbWA7e1J7HoanPoYPJ1...` |
 
-### 🟢 Soulmates
-- **Status:** open | **Exit:** open
+### 🔴 Soulmates
+- **Status:** closed | **Exit:** stop_loss
 - **Peak:** 1.13x | **Current:** 0.00x
 - **Mint:** `2k1Sxj2ZNpWtvwANBWsN4SNtdRzonHgh7FJFRYympump`
 
@@ -63,6 +63,7 @@
 | 2026-03-16 20:46:36 | BUY | 0.150000 | `52dMFhuVrPAnuP3sTHnM6qe5MVbtZu...` |
 | 2026-03-16 21:11:13 | SELL | 0.057619 | `2jwSTFrjSJLjDZi9mRdBoJdngzzA3v...` |
 | 2026-03-16 22:09:09 | BUY | 0.150000 | `2CWrdiwd2BMiNQvMQVVtm674xqHm7u...` |
+| 2026-03-17 02:18:14 | SELL | 0.055399 | `3x3CZv3ZnnczWdmmSwgD65ATGZs8Pn...` |
 
 ### 🔴 meowism
 - **Status:** closed | **Exit:** stop_loss
