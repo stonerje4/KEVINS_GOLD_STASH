@@ -1,5 +1,5 @@
 # [TEST] Wallet: `AiNfNi2ePcQMVE2jrkbTRvFTXYGi8C2VVneJYNZNaTyb`
-> Generated: 2026-03-17 06:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PIKAHORSE
 - **Status:** partial | **Exit:** open
-- **Peak:** 7.38x | **Current:** 7.20x
+- **Peak:** 9.97x | **Current:** 8.53x
 - **Mint:** `BkUWLJXVwYswqb7NSHNCLdwRjPi8bQ2Z4YzuRaQpump`
 
 | Time | Action | SOL | TX |
@@ -25,6 +25,7 @@
 | 2026-03-17 06:24:05 | SELL | 0.000021 | `4pHgZU9Gu7uYyzfQky96gKjEwKWSrg...` |
 | 2026-03-17 06:30:42 | SELL | 0.000027 | `5o2pcxDNyXckfjALtVdG9Jk4CABpNi...` |
 | 2026-03-17 06:31:24 | SELL | 0.000046 | `48VK68bUm8YjXBBvSpRZj13ozsorMq...` |
+| 2026-03-17 06:36:51 | SELL | 0.000061 | `5Udg15mpmn6c9SDdmD5jZS4aHWW4c1...` |
 
 ### 🔴 CLOVE
 - **Status:** closed | **Exit:** stop_loss

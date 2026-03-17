@@ -1,5 +1,5 @@
 # [TEST] Wallet: `NCxJdVxpGD7xKQEUBEicUNMRZZwCpsLom1AiujWiJ8Q`
-> Generated: 2026-03-17 06:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 GoonGPT
 - **Status:** partial | **Exit:** open
-- **Peak:** 3.37x | **Current:** 1.83x
+- **Peak:** 3.37x | **Current:** 2.53x
 - **Mint:** `DTs1TiHQueUCFXPdGKXfwxoEqHLhYdybepxzqcEcpump`
 
 | Time | Action | SOL | TX |

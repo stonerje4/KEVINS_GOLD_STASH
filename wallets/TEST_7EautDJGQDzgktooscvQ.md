@@ -1,5 +1,5 @@
 # [TEST] Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
-> Generated: 2026-03-17 06:35 UTC | Environment: **TEST**
+> Generated: 2026-03-17 06:40 UTC | Environment: **TEST**
 
 | Metric | Value |
 |--------|-------|
@@ -16,7 +16,7 @@
 
 ### 🟢 PROSUMER
 - **Status:** open | **Exit:** open
-- **Peak:** 1.17x | **Current:** 1.17x
+- **Peak:** 1.17x | **Current:** 0.82x
 - **Mint:** `EHi1rzMYyxtR7PwPrBfWcCbz7fMwL6Snwa5NYaVCpump`
 
 | Time | Action | SOL | TX |
