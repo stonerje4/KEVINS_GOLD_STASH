@@ -1,5 +1,12 @@
 # [TEST] `GvksYkESkCqUocDf...`
-> 2026-03-17 22:40 UTC | **3** pos | **1W/2L** | P&L: **-0.000101 SOL** (-33.8%) | 0 open
+> 2026-03-17 22:45 UTC | **5** pos | **1W/2L** | P&L: **-0.000101 SOL** (-33.8%) | 2 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| TRENCHERIA | 03-17 22:43 | 0.99x | 1.00x | 0.0h | 0.0001 |
+| COLLECTIBLE | 03-17 22:40 | 0.76x | 1.14x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -13,6 +20,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:43 | TRENCHERIA | BUY | 0.0001 | `5FVj3qHtFSd9NaRq...` |
+| 03-17 22:40 | COLLECTIBLE | BUY | 0.0001 | `ZdEQyGSU3HmGkR71...` |
 | 03-17 22:24 | SENEGAL | BUY | 0.0001 | `3L6okMbhGCQ4wWGf...` |
 | 03-17 19:59 | SMUDGE | SELL | 0.0000 | `5Lba9GtTWsbcqAQ8...` |
 | 03-17 19:54 | PHIL | SELL | 0.0001 | `4zicj9PU81VseWUS...` |

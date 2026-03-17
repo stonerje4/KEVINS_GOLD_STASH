@@ -1,8 +1,19 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-17 22:40 UTC** | 7d | 1759 buys, 2194 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
+> Updated: **2026-03-17 22:45 UTC** | 7d | 1767 buys, 2197 sells | In: **0.51** | Out: **0.32** | Net: **-0.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-17 | 22:44 | 🟢 BUY | FLAG | 0.0001 | U3jiDzTc... | copy_buy | `e3cGDHXisNMG...` |
+| 03-17 | 22:44 | 🔴 SELL | NANOBOTS | 0.0000 | 6raSuhfi... | SL | `3jAvj2v9mJqq...` |
+| 03-17 | 22:44 | 💰 SELL | Nanobot | 0.0001 | 35RArQiy... | TP2 | `4nzjuXSxh7qD...` |
+| 03-17 | 22:43 | 🟢 BUY | TRENCHERIA | 0.0001 | GvksYkES... | copy_buy | `5FVj3qHtFSd9...` |
+| 03-17 | 22:42 | 🟢 BUY | PVC | 0.0001 | 35RArQiy... | copy_buy | `4ZoTL51ktFDX...` |
+| 03-17 | 22:42 | 🟢 BUY | Unplugged | 0.0001 | BZmxuXQ6... | copy_buy | `2Wo7aj6S1GwT...` |
+| 03-17 | 22:42 | 🟢 BUY | SENEGAL | 0.0001 | BA1mTpNq... | copy_buy | `KEFVG9dG7VrT...` |
+| 03-17 | 22:41 | 🔴 SELL | CANCRIE | 0.0000 | BBBByrLH... | SL | `3zC1tUzqPSKU...` |
+| 03-17 | 22:41 | 🟢 BUY | DOGCOIN | 0.0001 | 7yd579zX... | copy_buy | `r9jd8rDj7KKL...` |
+| 03-17 | 22:40 | 🟢 BUY | COLLECTIBLE | 0.0001 | GvksYkES... | copy_buy | `ZdEQyGSU3HmG...` |
+| 03-17 | 22:40 | 🟢 BUY | SENEGAL | 0.0001 | 3VHz3Mhv... | copy_buy | `5c4VUd2JLjL9...` |
 | 03-17 | 22:39 | 🔴 SELL | Sandcat | 0.0000 | 6qTPHgnS... | SL | `5MbHjZSu9LoZ...` |
 | 03-17 | 22:38 | 🟢 BUY | Soyjak | 0.0001 | H5T9MYu8... | copy_buy | `49rzqQpy1u86...` |
 | 03-17 | 22:37 | 🟢 BUY | Microphallus | 0.0001 | BZmxuXQ6... | copy_buy | `gv2uipNaorPA...` |
