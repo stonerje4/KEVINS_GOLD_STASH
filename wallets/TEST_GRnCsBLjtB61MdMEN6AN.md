@@ -1,11 +1,12 @@
 # [TEST] `GRnCsBLjtB61MdME...`
-> 2026-03-17 22:50 UTC | **4** pos | **1W/2L** | P&L: **-0.000196 SOL** (-65.3%) | 1 open
+> 2026-03-17 22:55 UTC | **5** pos | **1W/2L** | P&L: **-0.000196 SOL** (-65.3%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| FINGER | 03-17 17:06 | 0.85x | 1.00x | 5.7h | 0.0001 |
+| DAN | 03-17 22:51 | 0.99x | 1.00x | 0.1h | 0.0001 |
+| FINGER | 03-17 17:06 | 0.85x | 1.00x | 5.8h | 0.0001 |
 
 ## Closed
 
@@ -19,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 22:51 | DAN | BUY | 0.0001 | `XUNhck9LniDDrXKQ...` |
 | 03-17 22:29 | Solanass | SELL | 0.0000 | `3CNPWE6g5UL4oPkD...` |
 | 03-17 22:28 | Solanass | SELL | 0.0001 | `DjWzZYBixMtqxAap...` |
 | 03-17 22:17 | Solanass | SELL | 0.0001 | `4Z5R69zjjTzoFVrK...` |
