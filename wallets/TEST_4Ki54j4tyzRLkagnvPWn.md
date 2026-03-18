@@ -1,5 +1,11 @@
 # [TEST] `4Ki54j4tyzRLkagn...`
-> 2026-03-18 07:40 UTC | **10** pos | **0W/10L** | P&L: **-0.001000 SOL** (-100.0%) | 0 open
+> 2026-03-18 07:45 UTC | **11** pos | **0W/10L** | P&L: **-0.001000 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| MAYHEM | 03-18 07:45 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -20,6 +26,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 07:45 | MAYHEM | BUY | 0.0001 | `zJjnG2wyzKrqumEA...` |
 | 03-18 05:43 | TW1 | BUY | 0.0001 | `55qrCD7jPKDGN4fY...` |
 | 03-18 05:42 | GREENCHIP | BUY | 0.0001 | `zyeVQdStrNCJEmUc...` |
 | 03-18 04:39 | 0.0000001 | BUY | 0.0001 | `3fjXpvUM2sXy8Paz...` |

@@ -1,11 +1,11 @@
 # [TEST] `99XWMUAMWYLPqn8D...`
-> 2026-03-18 07:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 07:45 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| dog | 03-18 01:26 | 0.60x | 1.13x | 6.2h | 0.0001 |
+| dog | 03-18 01:26 | 0.59x | 1.13x | 6.3h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

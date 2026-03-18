@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 07:40 UTC** | 7d | 271 buys, 404 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 07:45 UTC** | 7d | 274 buys, 411 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 07:45 | 🟢 BUY | MAYHEM | 0.0001 | 4Ki54j4t... | copy_buy | `zJjnG2wyzKrq...` |
+| 03-18 | 07:44 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5vvHgYtUxUHx...` |
+| 03-18 | 07:44 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `31vFfM1D4XBT...` |
+| 03-18 | 07:43 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5YLFTWKdAMZP...` |
+| 03-18 | 07:42 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4WMZUPj934Zi...` |
+| 03-18 | 07:42 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `whTuSgYmBX8o...` |
+| 03-18 | 07:42 | 🟢 BUY | HOLLYANGELS | 0.0001 | FY5sWMqL... | copy_buy | `2RyYhWcZJkSz...` |
+| 03-18 | 07:41 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5vga6rfwxMAD...` |
+| 03-18 | 07:41 | 🟢 BUY | SCANNEX | 0.0001 | EaEf6TH8... | copy_buy | `GdELLB1g7gUb...` |
+| 03-18 | 07:40 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3Uux8jh5DQLJ...` |
 | 03-18 | 07:39 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2xLsBVubTvC6...` |
 | 03-18 | 07:39 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4LraTWGF3jH4...` |
 | 03-18 | 07:39 | 🟢 BUY | FOR | 0.0001 | 87nWQxQv... | copy_buy | `4ypUYymLT3Mu...` |
