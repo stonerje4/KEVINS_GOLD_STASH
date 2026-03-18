@@ -1,12 +1,12 @@
 # [TEST] `FoHJUYThke7eXqtC...`
-> 2026-03-18 03:05 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 03:10 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Mechayahu | 03-18 01:28 | 0.85x | 1.00x | 1.6h | 0.0001 |
-| LTB | 03-18 01:23 | 0.85x | 1.00x | 1.7h | 0.0001 |
+| Mechayahu | 03-18 01:28 | 0.85x | 1.00x | 1.7h | 0.0001 |
+| LTB | 03-18 01:23 | 0.85x | 1.00x | 1.8h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
