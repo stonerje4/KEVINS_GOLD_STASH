@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 11:55 UTC** | 7d | 399 buys, 729 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 12:00 UTC** | 7d | 400 buys, 735 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:59 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4sX3QJaB7X32...` |
+| 03-18 | 11:58 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3tGL4RPwMCxz...` |
+| 03-18 | 11:57 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2RKJKHYCZZFy...` |
+| 03-18 | 11:56 | 🟢 BUY | BEAGLES | 0.0001 | 42nQHDpy... | copy_buy | `4ZgYxRQUM2XE...` |
+| 03-18 | 11:56 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4YsA2KfbE1D9...` |
+| 03-18 | 11:55 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `54JQQYw7DBBf...` |
+| 03-18 | 11:55 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5tiDgnpL3EfN...` |
 | 03-18 | 11:54 | 🟢 BUY | EU-Inc | 0.0001 | cqakon1K... | copy_buy | `PBs2wy3PkD6E...` |
 | 03-18 | 11:54 | 🟢 BUY | 257 | 0.0001 | cqakon1K... | copy_buy | `2n6WmB75M7ew...` |
 | 03-18 | 11:54 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5wxi2ikVeZXT...` |
