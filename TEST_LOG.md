@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 11:10 UTC** | 7d | 377 buys, 677 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 11:15 UTC** | 7d | 378 buys, 682 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2LdsWmi5vduR...` |
+| 03-18 | 11:13 | 🟢 BUY | OILPUNCH | 0.0001 | 6E4897rJ... | copy_buy | `5EjYBa7wCZSf...` |
+| 03-18 | 11:13 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3y9cSbkMWN9d...` |
+| 03-18 | 11:12 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5nHvFoF1dVtx...` |
+| 03-18 | 11:11 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2wVLTcgdk4k4...` |
+| 03-18 | 11:10 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5YTQ48j58nAB...` |
 | 03-18 | 11:09 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `DKSMVUj8teJV...` |
 | 03-18 | 11:09 | 🟢 BUY | Lucy | 0.0001 | BBBByrLH... | copy_buy | `DARFpbQaRbt3...` |
 | 03-18 | 11:09 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `363yPsPrXfCu...` |
