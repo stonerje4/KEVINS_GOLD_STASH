@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 06:25 UTC** | 7d | 207 buys, 297 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 06:30 UTC** | 7d | 209 buys, 304 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 06:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2NvTx7fLfsxf...` |
+| 03-18 | 06:28 | 🟢 BUY | howeycoins | 0.0001 | Gdd86j2T... | copy_buy | `HVdn8D7zcpq4...` |
+| 03-18 | 06:28 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3EkAP9Qwjavf...` |
+| 03-18 | 06:28 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4457Q5cwmarz...` |
+| 03-18 | 06:27 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4gMcKvnciAxF...` |
+| 03-18 | 06:26 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3beLj775nFA9...` |
+| 03-18 | 06:26 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `y38PGA5r1xSZ...` |
+| 03-18 | 06:25 | 🟢 BUY | DUNE | 0.0001 | 9t6xjxxt... | copy_buy | `3qeRjR9usxCw...` |
+| 03-18 | 06:25 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4uCWmSDtFSzm...` |
 | 03-18 | 06:24 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4ba44Q7LPuoa...` |
 | 03-18 | 06:23 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `59hxXRkjXuSo...` |
 | 03-18 | 06:23 | 🟢 BUY | HoweyCoins | 0.0001 | GHy1P6vJ... | copy_buy | `5gYoW5VE3wyj...` |
