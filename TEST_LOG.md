@@ -1,8 +1,25 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 15:40 UTC** | 7d | 535 buys, 1177 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
+> Updated: **2026-03-18 15:45 UTC** | 7d | 540 buys, 1189 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 15:44 | 🟢 BUY | Nolan | 0.0001 | 9G4ytadk... | copy_buy | `53xj14uy7zcj...` |
+| 03-18 | 15:44 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3sJQfiCw6ZVS...` |
+| 03-18 | 15:44 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5XZur31BkKH7...` |
+| 03-18 | 15:44 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `3KJkjfGNzEoF...` |
+| 03-18 | 15:43 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4c32AorArMUK...` |
+| 03-18 | 15:43 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3KmDUBsEpdNF...` |
+| 03-18 | 15:42 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `5WNbiuwKhXr6...` |
+| 03-18 | 15:42 | 🟢 BUY | KNX | 0.0001 | EaEf6TH8... | copy_buy | `3qd5k7BmLgmk...` |
+| 03-18 | 15:42 | 🟢 BUY | Brainrot | 0.0001 | 4Ki54j4t... | copy_buy | `3FScyPnp6RFX...` |
+| 03-18 | 15:42 | 🟢 BUY | UGOR  | 0.0001 | A4azQqrp... | copy_buy | `2FJct9hURd6c...` |
+| 03-18 | 15:41 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2XxSYfXRxSoS...` |
+| 03-18 | 15:41 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `bomBDciXfk5v...` |
+| 03-18 | 15:41 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `ZXJQtzmQQ4Mo...` |
+| 03-18 | 15:40 | 🟢 BUY | Cartel67 | 0.0001 | 4Ki54j4t... | copy_buy | `4sUXk7NmKCrB...` |
+| 03-18 | 15:40 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5AfrTycAt6iV...` |
+| 03-18 | 15:40 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3X1Ta1VbMp5j...` |
+| 03-18 | 15:40 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `214X7174zJJc...` |
 | 03-18 | 15:39 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5VW4A2T6peGe...` |
 | 03-18 | 15:39 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5hRsp7Cjf3B3...` |
 | 03-18 | 15:39 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `Z4CuHw8CMLqH...` |
