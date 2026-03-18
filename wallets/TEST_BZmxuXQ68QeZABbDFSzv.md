@@ -1,11 +1,11 @@
 # [TEST] `BZmxuXQ68QeZABbD...`
-> 2026-03-18 04:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 04:45 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| HUGH | 03-18 02:55 | 0.65x | 1.00x | 1.7h | 0.0001 |
+| HUGH | 03-18 02:55 | 0.65x | 1.00x | 1.8h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
