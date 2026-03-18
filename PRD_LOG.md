@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 00:45 UTC** | 7d | 757 buys, 993 sells | In: **95.78** | Out: **87.73** | Net: **-8.05 SOL**
+> Updated: **2026-03-18 00:50 UTC** | 7d | 758 buys, 994 sells | In: **96.23** | Out: **87.81** | Net: **-8.42 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 00:49 | 💰 SELL | EA | 0.0812 | 5n593DWQ... | TP1 | `3ub86FPEny8Q...` |
+| 03-18 | 00:49 | 🟢 BUY | WRT | 0.2500 | r9pFHjFe... | copy | `4sCFpZkzp2Nb...` |
+| 03-18 | 00:49 | 🟢 BUY | 隻狼 | 0.2500 | DDApL88z... | copy | `B95DKyhf9jWN...` |
 | 03-18 | 00:42 | 💰 SELL | L4DC | 0.1286 | r9pFHjFe... | TP1 | `2jPDFvsc78vQ...` |
 | 03-18 | 00:39 | 🟢 BUY | L4DC | 0.2500 | r9pFHjFe... | copy | `49kLLAYUaq8J...` |
 | 03-18 | 00:39 | 🟢 BUY | ALTRUISTS | 0.2500 | DDApL88z... | copy | `2fhtBae4fqC5...` |
@@ -1752,4 +1755,3 @@
 | 03-11 | 01:09 | 🟢 BUY | Spaghetti | 0.0500 | EJEyPiUf... | copy | `4eA2JHRzWYp2...` |
 | 03-11 | 01:06 | 💰 SELL | Monk | 0.0457 | 9rb2ChEj... | tp_8x_trim | `3A5Y2hc5tfJh...` |
 | 03-11 | 00:51 | 🟢 BUY | SOS | 0.0500 | DHfshpzo... | copy | `3woRBJfHgEJZ...` |
-| 03-11 | 00:47 | 🟢 BUY | TopGoy | 0.0500 | 9rb2ChEj... | copy | `5BKr9kqAYG1E...` |

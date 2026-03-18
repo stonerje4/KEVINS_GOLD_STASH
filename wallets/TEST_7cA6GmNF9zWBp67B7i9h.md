@@ -1,11 +1,11 @@
 # [TEST] `7cA6GmNF9zWBp67B...`
-> 2026-03-18 00:45 UTC | **2** pos | **0W/1L** | P&L: **-0.000061 SOL** (-61.2%) | 1 open
+> 2026-03-18 00:50 UTC | **2** pos | **0W/1L** | P&L: **-0.000061 SOL** (-61.2%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Lemon-kun | 03-17 16:21 | 1.05x | 4.25x | 8.4h | 0.0001 |
+| Lemon-kun | 03-17 16:21 | 1.05x | 4.25x | 8.5h | 0.0001 |
 
 ## Closed
 
@@ -17,6 +17,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:47 | Lemon-kun | SELL | 0.0000 | `3LhXBKXXuDAVgAov...` |
+| 03-18 00:45 | Lemon-kun | SELL | 0.0000 | `2n997J5tVq7sXF7N...` |
 | 03-18 00:42 | Lemon-kun | SELL | 0.0000 | `2WMfgzFTGWZvVvRC...` |
 | 03-18 00:40 | Lemon-kun | SELL | 0.0000 | `3Jk9KVwdVtcpRzEm...` |
 | 03-18 00:38 | Lemon-kun | SELL | 0.0000 | `4uin4i7rg15DAzCX...` |
