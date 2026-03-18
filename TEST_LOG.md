@@ -1,8 +1,24 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 16:25 UTC** | 7d | 568 buys, 1291 sells | In: **0.06** | Out: **0.00** | Net: **-0.06 SOL**
+> Updated: **2026-03-18 16:30 UTC** | 7d | 572 buys, 1303 sells | In: **0.06** | Out: **0.00** | Net: **-0.06 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 16:29 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4JzHdD85j3ny...` |
+| 03-18 | 16:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2utejeVHcd77...` |
+| 03-18 | 16:29 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4xLaMuoQnqZw...` |
+| 03-18 | 16:28 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `b6ckKpDaUdxo...` |
+| 03-18 | 16:28 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `59cwG1pV5hgq...` |
+| 03-18 | 16:28 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `3aAjUs1FQu33...` |
+| 03-18 | 16:27 | 🟢 BUY | Aliens | 0.0001 | AJ8Gc1cY... | copy_buy | `5uEGR9uN8VzZ...` |
+| 03-18 | 16:27 | 🟢 BUY | ALIENS | 0.0001 | 9tv5mfwa... | copy_buy | `45kb694S7gMx...` |
+| 03-18 | 16:27 | 🟢 BUY | CAVE | 0.0001 | GEHrGJ3B... | copy_buy | `58kbnC7CSow5...` |
+| 03-18 | 16:27 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5odFfqutvg7H...` |
+| 03-18 | 16:26 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2kfqGy72rM5w...` |
+| 03-18 | 16:26 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4o5rygjejqDY...` |
+| 03-18 | 16:26 | 🟢 BUY | MOLTX402 | 0.0001 | 2autqiin... | copy_buy | `4LUkjzi7tSkc...` |
+| 03-18 | 16:25 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3yC9FGWEBYE7...` |
+| 03-18 | 16:25 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2A2JnHh2xHgG...` |
+| 03-18 | 16:25 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `QxJ8hrMsGPeS...` |
 | 03-18 | 16:24 | 🟢 BUY | Java Chad | 0.0001 | 35RArQiy... | copy_buy | `56T8C5tJUJ1r...` |
 | 03-18 | 16:24 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4dxDeF4YS7a1...` |
 | 03-18 | 16:24 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2vfKGkBDvGrm...` |
