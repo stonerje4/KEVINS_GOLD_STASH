@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 02:45 UTC** | 7d | 82 buys, 30 sells | In: **14.10** | Out: **2.88** | Net: **-11.22 SOL**
+> Updated: **2026-03-18 02:50 UTC** | 7d | 84 buys, 30 sells | In: **14.60** | Out: **2.88** | Net: **-11.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 02:46 | 🟢 BUY | Doge#069 | 0.2500 | 6raSuhfi... | copy | `2xL9SevBfeux...` |
+| 03-18 | 02:45 | 🟢 BUY | SIGIL | 0.2500 | 6raSuhfi... | copy | `3E5zzvB3wAdR...` |
 | 03-18 | 02:44 | 🔴 SELL | 钻石手pepe | 0.0847 | 6raSuhfi... | SL | `2SyWUquMRJRH...` |
 | 03-18 | 02:44 | 🟢 BUY | ? | 0.2500 | 6raSuhfi... | copy | `xR69rArC1n8K...` |
 | 03-18 | 02:27 | 💰 SELL | xAU | 0.2239 | DHfshpzo... | trail | `4tB84LQ1RhEt...` |
