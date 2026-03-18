@@ -1,37 +1,26 @@
 # 📈 PRD — Production Dashboard
 
-*Last updated: 2026-03-18 19:22 UTC*
+*Last updated: 2026-03-18 19:27 UTC*
 
 **Wallet:** [`DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h`](https://solscan.io/account/DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h)
-**Position Size:** 0.50 SOL (~$45/buy)
-**SOL Price:** $89.94
+**Position Size:** 0.50 SOL (~$45/buy) · **SOL:** $89.81
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Active Followed Wallets | 16 |
+| Followed Wallets | 16 |
 | Total Positions | 5 |
-| Open Positions | 4 |
-| Closed Positions | 1 |
-| Total Bought | 2.50 SOL ($225) |
-| Total Sold | 1.48 SOL ($133) |
-| Realized P&L | -1.02 SOL ($-92) |
+| Open | 4 |
+| Closed | 1 |
 
-## Open Positions
+## Wallet Performance
 
-| Token | Wallet | Current | Peak | Entry SOL |
-|-------|--------|---------|------|-----------|
-| GroupChats | [`E79aNzAkDa92b5bn...`](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 1.36x | 1.4x | 0.50 |
-| OIL#000 | [`HCDsVE5Y22dzxFzi...`](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | 1.02x | 1.0x | 0.50 |
-| ? | [`HCDsVE5Y22dzxFzi...`](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | 1.02x | 1.0x | 0.50 |
-| WAR | [`HCDsVE5Y22dzxFzi...`](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | 0.80x | 1.0x | 0.50 |
-
-## Recent Closes (last 50)
-
-| Token | Result | P&L | Exit Reason | Closed |
-|-------|--------|-----|-------------|--------|
-| QWIN | 3.6x peak | — | runner_trailing_stop | 2026-03-18 19:22 |
+| | Wallet | Pos | W/L | WR | Closed P&L | ROI | Unreal | **Total** | Avg Peak | Open | Solscan |
+|--|--------|-----|-----|-----|------------|-----|--------|-----------|----------|------|--------|
+| 🟢 | [`5n593DWQkpfFgA69mS1M...`](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 1 | 1/0 | 100% | $+88 | +195% | — | **$+88** | 3.6x | 0 | [trades](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z#defiactivities) |
+| 🟢 | [`E79aNzAkDa92b5bnBHED...`](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 1 | 0/0 | 0% | $+0 | — | $+33 | **$+33** | — | 1 | [trades](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY#defiactivities) |
+| ⚪ | [`HCDsVE5Y22dzxFzibEFS...`](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | 3 | 0/0 | 0% | $+0 | — | $-7 | **$-7** | — | 3 | [trades](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ#defiactivities) |
 
 ## Followed Wallets (16)
 
@@ -54,4 +43,4 @@
 | [`ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | [trades](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3#defiactivities) |
 | [`6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA`](https://solscan.io/account/6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA) | [trades](https://solscan.io/account/6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA#defiactivities) |
 
-*[Trade Log →](LOG.md) · [Per-wallet logs →](wallets/)*
+*[Trade Log →](LOG.md)*
