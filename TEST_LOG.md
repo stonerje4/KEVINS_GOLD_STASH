@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 06:30 UTC** | 7d | 209 buys, 304 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 06:35 UTC** | 7d | 212 buys, 311 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 06:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2KdKvyWunVbJ...` |
+| 03-18 | 06:34 | 🟢 BUY | LIGANDAL | 0.0001 | 9G4ytadk... | copy_buy | `2isLXmEdNYkw...` |
+| 03-18 | 06:33 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2fp7WGoDf2YZ...` |
+| 03-18 | 06:33 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `36bT4f8VJ12w...` |
+| 03-18 | 06:32 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2Dg6k93fqDtY...` |
+| 03-18 | 06:31 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5ARi5JPgHqL5...` |
+| 03-18 | 06:30 | 🟢 BUY | SEELE | 0.0001 | BBBByrLH... | copy_buy | `4FjdCufFtGUS...` |
+| 03-18 | 06:30 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3S1aNf6HcN2M...` |
+| 03-18 | 06:30 | 🟢 BUY | LIKE | 0.0001 | FWQ3sv51... | copy_buy | `56R9ZM5pM43x...` |
+| 03-18 | 06:30 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2D2VBcvwG5C1...` |
 | 03-18 | 06:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2NvTx7fLfsxf...` |
 | 03-18 | 06:28 | 🟢 BUY | howeycoins | 0.0001 | Gdd86j2T... | copy_buy | `HVdn8D7zcpq4...` |
 | 03-18 | 06:28 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3EkAP9Qwjavf...` |
