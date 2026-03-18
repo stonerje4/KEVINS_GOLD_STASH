@@ -1,11 +1,11 @@
 # [TEST] `7yd579zXmWPoxEE2...`
-> 2026-03-18 02:50 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 02:55 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| colors | 03-18 02:37 | 0.85x | 1.14x | 0.2h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ colors | -0.0001 | 03-18 02:37 | 2.3x | 03-18 02:53 | 0.0000/0.0001 | gc_tp_2x_half |
 
 <details><summary>📋 Full Trade Log</summary>
 

@@ -1,12 +1,12 @@
 # [TEST] `Dr5V9A9dFezBaP65...`
-> 2026-03-18 02:50 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 02:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| reCAPTCHA | 03-18 02:03 | 0.90x | 1.00x | 0.8h | 0.0001 |
-| LAST | 03-18 01:55 | 0.83x | 1.00x | 0.9h | 0.0001 |
+| reCAPTCHA | 03-18 02:03 | 0.88x | 1.00x | 0.9h | 0.0001 |
+| LAST | 03-18 01:55 | 0.73x | 1.00x | 1.0h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
