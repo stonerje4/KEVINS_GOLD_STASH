@@ -1,11 +1,11 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-18 02:35 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 02:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| COUNCIL | 03-18 01:49 | 1.10x | 1.29x | 0.8h | 0.0001 |
+| COUNCIL | 03-18 01:49 | 1.73x | 1.73x | 0.8h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
