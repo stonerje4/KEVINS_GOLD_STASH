@@ -1,11 +1,11 @@
 # [TEST] `3YgeJwLqhfmffrc1...`
-> 2026-03-18 10:55 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 11:00 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Fro | 03-18 09:21 | 1.68x | 1.76x | 1.6h | 0.0001 |
+| Fro | 03-18 09:21 | 1.52x | 1.76x | 1.6h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

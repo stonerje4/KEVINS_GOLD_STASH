@@ -1,12 +1,14 @@
 # [TEST] `9G4ytadk761g5DMx...`
-> 2026-03-18 10:55 UTC | **8** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 2 open
+> 2026-03-18 11:00 UTC | **10** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| ALXCOOKS | 03-18 09:55 | 0.59x | 1.23x | 1.0h | 0.0001 |
-| LIGANDAL | 03-18 06:34 | 0.76x | 1.00x | 4.3h | 0.0001 |
+| Cloge | 03-18 10:57 | 1.43x | 1.43x | 0.0h | 0.0001 |
+| ClaudeDog | 03-18 10:55 | 0.90x | 1.35x | 0.1h | 0.0001 |
+| ALXCOOKS | 03-18 09:55 | 0.59x | 1.23x | 1.1h | 0.0001 |
+| LIGANDAL | 03-18 06:34 | 0.76x | 1.00x | 4.4h | 0.0001 |
 
 ## Closed
 
@@ -23,6 +25,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 10:57 | Cloge | BUY | 0.0001 | `43ZfHJWR1wFK1TKa...` |
+| 03-18 10:55 | ClaudeDog | BUY | 0.0001 | `4UBwXXA3MkXroWci...` |
 | 03-18 09:55 | ALXCOOKS | BUY | 0.0001 | `2ftG8WbTxNyo3ihN...` |
 | 03-18 06:35 | Garlic | BUY | 0.0001 | `3hFRcsStHMGz4EEo...` |
 | 03-18 06:34 | LIGANDAL | BUY | 0.0001 | `2isLXmEdNYkw44DF...` |

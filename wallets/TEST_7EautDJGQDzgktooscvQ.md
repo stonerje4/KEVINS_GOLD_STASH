@@ -1,5 +1,11 @@
 # [TEST] `7EautDJGQDzgktoo...`
-> 2026-03-18 10:55 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
+> 2026-03-18 11:00 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Imposter | 03-18 10:58 | 0.91x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 10:58 | Imposter | BUY | 0.0001 | `4Q7vYW8i8VCtcxAa...` |
 | 03-18 06:18 | NoFunction | BUY | 0.0001 | `3zNKG5fHdtCb15cs...` |
 
 </details>
