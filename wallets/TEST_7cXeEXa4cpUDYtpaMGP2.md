@@ -1,11 +1,11 @@
 # [TEST] `7cXeEXa4cpUDYtpa...`
-> 2026-03-18 00:15 UTC | **7** pos | **0W/6L** | P&L: **-0.000484 SOL** (-80.6%) | 1 open
+> 2026-03-18 00:20 UTC | **7** pos | **0W/6L** | P&L: **-0.000484 SOL** (-80.6%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| PVP | 03-17 18:45 | 0.30x | 1.03x | 5.5h | 0.0001 |
+| PVP | 03-17 18:45 | 0.30x | 1.03x | 5.6h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +22,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:18 | PVP | SELL | 0.0000 | `4zopRnHWU4LZ8JmU...` |
+| 03-18 00:16 | PVP | SELL | 0.0000 | `4Ssv2HPThGyjma8d...` |
+| 03-18 00:15 | PVP | SELL | 0.0000 | `4VeStPaMVTpnr6KG...` |
 | 03-18 00:13 | PVP | SELL | 0.0000 | `57tTtxMyACXvJbhK...` |
 | 03-18 00:11 | PVP | SELL | 0.0000 | `2x17n7WBkfcUhdPT...` |
 | 03-18 00:09 | PVP | SELL | 0.0000 | `42HE48xs1N2LoqVR...` |

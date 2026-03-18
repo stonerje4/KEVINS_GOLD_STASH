@@ -1,5 +1,5 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 00:15 UTC** | 7d | 753 buys, 998 sells | In: **94.78** | Out: **87.74** | Net: **-7.04 SOL**
+> Updated: **2026-03-18 00:20 UTC** | 7d | 753 buys, 997 sells | In: **94.78** | Out: **87.69** | Net: **-7.09 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
@@ -1753,4 +1753,3 @@
 | 03-11 | 00:40 | 🔴 SELL | SOIL | 0.0280 | ESxHJpMq... | SL | `4cKUL5fsgJDq...` |
 | 03-11 | 00:36 | 💰 SELL | Monk | 0.0664 | 9rb2ChEj... | TP1 | `4hTpjCXvaMNf...` |
 | 03-11 | 00:20 | 🔴 SELL | Teacat | 0.0232 | 8QfqdUJt... | SL | `4V3N1d9hhydL...` |
-| 03-11 | 00:17 | 💰 SELL | UXR | 0.0503 | 5vweNikg... | TP1 | `42uBSDb1RZFr...` |
