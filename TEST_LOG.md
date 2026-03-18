@@ -1,8 +1,19 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 13:50 UTC** | 7d | 455 buys, 921 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
+> Updated: **2026-03-18 13:55 UTC** | 7d | 458 buys, 929 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 13:54 | 🟢 BUY | RIDGLAN8 | 0.0001 | BBBByrLH... | copy_buy | `4G55Dgorr1rq...` |
+| 03-18 | 13:54 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `DxwAx7koTZcV...` |
+| 03-18 | 13:54 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3HHbfRy9HoFL...` |
+| 03-18 | 13:53 | 🟢 BUY | AI | 0.0001 | 6J4pufDx... | copy_buy | `2fHoL8NknMb7...` |
+| 03-18 | 13:53 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3qSuAP3N8WTk...` |
+| 03-18 | 13:52 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2WdmSARcLFBk...` |
+| 03-18 | 13:52 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `GPvyorzYd3xA...` |
+| 03-18 | 13:51 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3qkdG6oY5Hnr...` |
+| 03-18 | 13:50 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `64hDV1pr1949...` |
+| 03-18 | 13:50 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2xefKmRppfob...` |
+| 03-18 | 13:50 | 🟢 BUY | Jinjing | 0.0001 | AJ8Gc1cY... | copy_buy | `hRhXxGhgWiuV...` |
 | 03-18 | 13:49 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `648ndyEak2FW...` |
 | 03-18 | 13:49 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2kg348e2CU5S...` |
 | 03-18 | 13:48 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3mU4Q6KT2Fre...` |
