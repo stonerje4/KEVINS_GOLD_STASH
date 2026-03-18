@@ -1,5 +1,11 @@
 # [TEST] `TZkcwgk6WrXeU8Zj...`
-> 2026-03-18 16:10 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
+> 2026-03-18 16:15 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| CLAW | 03-18 16:11 | 0.75x | 1.00x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 16:11 | CLAW | BUY | 0.0001 | `4HdSqADoswsz7Wuv...` |
 | 03-18 04:07 | copycat | BUY | 0.0001 | `3ZyBiewdrfsc2Hac...` |
 
 </details>

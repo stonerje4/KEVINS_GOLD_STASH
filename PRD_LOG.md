@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 16:10 UTC** | 7d | 162 buys, 156 sells | In: **34.10** | Out: **32.10** | Net: **-2.00 SOL**
+> Updated: **2026-03-18 16:15 UTC** | 7d | 162 buys, 158 sells | In: **34.10** | Out: **32.36** | Net: **-1.74 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 16:13 | 🔴 SELL | Gilbert | 0.0964 | 2w85VLX4... | SL | `4jCxvYz6TmVY...` |
+| 03-18 | 16:11 | 🔴 SELL | CHEMTRAILS | 0.1621 | 2w85VLX4... | trail | `42aXbVBamkiu...` |
 | 03-18 | 16:09 | 🟢 BUY | ? | 0.2500 | 6raSuhfi... | copy | `2UMwVnjewQnr...` |
 | 03-18 | 16:07 | 🔴 SELL | ? | 0.2126 | DHfshpzo... | stale | `5mNbuGPZUmWa...` |
 | 03-18 | 16:02 | 🟢 BUY | OPAY | 0.2500 | 6raSuhfi... | copy | `4hvwrLEe6bUj...` |

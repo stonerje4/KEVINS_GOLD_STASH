@@ -1,8 +1,25 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 16:10 UTC** | 7d | 554 buys, 1252 sells | In: **0.06** | Out: **0.00** | Net: **-0.05 SOL**
+> Updated: **2026-03-18 16:15 UTC** | 7d | 559 buys, 1264 sells | In: **0.06** | Out: **0.00** | Net: **-0.06 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 16:14 | 🟢 BUY | DESTINY | 0.0001 | BBBByrLH... | copy_buy | `4az61BDrVUZ2...` |
+| 03-18 | 16:14 | 🟢 BUY | 1990 | 0.0001 | GGbGeDC9... | copy_buy | `4QxzaUxjTSEu...` |
+| 03-18 | 16:14 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2w2m2XJWkgm3...` |
+| 03-18 | 16:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3b4oSqpVqScM...` |
+| 03-18 | 16:13 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `2AhVxeyyVp7j...` |
+| 03-18 | 16:13 | 🟢 BUY | TGR | 0.0001 | 87nWQxQv... | copy_buy | `3Q4fEDaZdw2k...` |
+| 03-18 | 16:12 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `tgWDFa55c42v...` |
+| 03-18 | 16:12 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Q4GnvE9dXL9...` |
+| 03-18 | 16:12 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `yDGD74MAXHQV...` |
+| 03-18 | 16:12 | 🟢 BUY | UGOR | 0.0001 | 87nWQxQv... | copy_buy | `5mkiJ4QyFf3B...` |
+| 03-18 | 16:11 | 🟢 BUY | CLAW | 0.0001 | TZkcwgk6... | copy_buy | `4HdSqADoswsz...` |
+| 03-18 | 16:11 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4uBhbtfSLsTu...` |
+| 03-18 | 16:11 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5nb1ssAcabFX...` |
+| 03-18 | 16:11 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `5DQpR4yPXjma...` |
+| 03-18 | 16:10 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `sUBPwBRuF7aW...` |
+| 03-18 | 16:10 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5HZcD95zGUXo...` |
+| 03-18 | 16:10 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `DmkzQ1dYuJyB...` |
 | 03-18 | 16:09 | 🟢 BUY | MHL | 0.0001 | AJ8Gc1cY... | copy_buy | `5KDFiAudAXcY...` |
 | 03-18 | 16:09 | 🟢 BUY | TASKMA | 0.0001 | GHy1P6vJ... | copy_buy | `52gDmedSVVDG...` |
 | 03-18 | 16:09 | 🟢 BUY | OOMF | 0.0001 | 51Ui3ZD4... | copy_buy | `Pzwu62umtUXE...` |
