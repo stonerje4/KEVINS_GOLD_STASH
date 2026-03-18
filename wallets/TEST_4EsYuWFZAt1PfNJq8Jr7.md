@@ -1,11 +1,12 @@
 # [TEST] `4EsYuWFZAt1PfNJq...`
-> 2026-03-18 00:55 UTC | **10** pos | **1W/8L** | P&L: **-0.001220 SOL** (-35.9%) | 1 open
+> 2026-03-18 01:00 UTC | **11** pos | **1W/8L** | P&L: **-0.001220 SOL** (-35.9%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| iMGOOD | 03-17 22:13 | 0.78x | 1.57x | 2.7h | 0.0001 |
+| CRASHOUT | 03-18 00:55 | 0.00x | 1.00x | 0.1h | 0.0001 |
+| iMGOOD | 03-17 22:13 | 0.75x | 1.57x | 2.8h | 0.0001 |
 
 ## Closed
 
@@ -25,6 +26,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:55 | CRASHOUT | BUY | 0.0001 | `4BLTnvoMBpJwZAo2...` |
 | 03-17 22:13 | iMGOOD | BUY | 0.0001 | `21UWgv3DcvsJtRM5...` |
 | 03-17 07:23 | Square | BUY | 0.0001 | `v6vLf7fdUEyd2MBE...` |
 | 03-17 04:24 | TITAN | SELL | 0.0000 | `T6X7AW3KtZXLL2tD...` |

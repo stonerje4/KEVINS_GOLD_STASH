@@ -1,21 +1,21 @@
 # [TEST] `BZmxuXQ68QeZABbD...`
-> 2026-03-18 00:55 UTC | **10** pos | **0W/4L** | P&L: **-0.000280 SOL** (-70.1%) | 6 open
+> 2026-03-18 01:00 UTC | **10** pos | **1W/5L** | P&L: **-0.000143 SOL** (-23.8%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SAINTJAK | 03-18 00:14 | 0.00x | 1.00x | 0.7h | 0.0001 |
-| Atlas | 03-18 00:14 | 0.71x | 1.29x | 0.7h | 0.0001 |
-| commotitty | 03-17 22:45 | 0.39x | 1.00x | 2.2h | 0.0001 |
-| Unplugged | 03-17 22:42 | 0.70x | 1.00x | 2.2h | 0.0001 |
-| Microphallus | 03-17 22:37 | 0.44x | 1.15x | 2.3h | 0.0001 |
-| Daisy | 03-17 21:05 | 4.59x | 7.19x | 3.8h | 0.0001 |
+| SAINTJAK | 03-18 00:14 | 0.00x | 1.00x | 0.8h | 0.0001 |
+| Atlas | 03-18 00:14 | 0.44x | 1.29x | 0.8h | 0.0001 |
+| Unplugged | 03-17 22:42 | 0.70x | 1.00x | 2.3h | 0.0001 |
+| Microphallus | 03-17 22:37 | 0.44x | 1.15x | 2.4h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ commotitty | -0.0001 | 03-17 22:45 | 1.0x | 03-18 00:59 | 0.0000/0.0001 | SL |
+| ✅ Daisy | +0.0002 | 03-17 21:05 | 7.2x | 03-18 00:59 | 0.0003/0.0001 | trail |
 | ❌ KIt | -0.0001 | 03-17 19:07 | 1.6x | 03-17 19:13 | 0.0000/0.0001 | SL |
 | ❌ Gany | -0.0001 | 03-17 03:53 | 1.5x | 03-17 05:41 | 0.0000/0.0001 | SL |
 | ❌ imagineslop | -0.0001 | 03-16 23:55 | 1.0x | 03-17 11:11 | 0.0000/0.0001 | SL |
@@ -25,6 +25,10 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:59 | commotitty | SELL | 0.0000 | `5dST8ySyLRtHzceQ...` |
+| 03-18 00:59 | Daisy | SELL | 0.0000 | `2kZrJe2TTTM52Jyd...` |
+| 03-18 00:57 | commotitty | SELL | 0.0000 | `5MGziDUPvxPVyTYY...` |
+| 03-18 00:54 | commotitty | SELL | 0.0000 | `5uJkXGv5MBBP8iev...` |
 | 03-18 00:52 | commotitty | SELL | 0.0000 | `XVEk1ZrHfnGcHeyi...` |
 | 03-18 00:50 | commotitty | SELL | 0.0000 | `3nQsXVyAqEvaj1LL...` |
 | 03-18 00:48 | commotitty | SELL | 0.0000 | `ukQSLFjZophKtutY...` |
