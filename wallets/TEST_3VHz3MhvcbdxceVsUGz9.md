@@ -1,13 +1,13 @@
 # [TEST] `3VHz3MhvcbdxceVs...`
-> 2026-03-18 06:00 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
+> 2026-03-18 06:05 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| tomorrow | 03-18 03:51 | 0.83x | 1.00x | 2.1h | 0.0001 |
-| Conviction | 03-18 01:58 | 0.74x | 1.00x | 4.0h | 0.0001 |
-| MiroFish | 03-18 01:33 | 0.83x | 1.01x | 4.4h | 0.0001 |
+| tomorrow | 03-18 03:51 | 0.83x | 1.00x | 2.2h | 0.0001 |
+| Conviction | 03-18 01:58 | 0.74x | 1.00x | 4.1h | 0.0001 |
+| MiroFish | 03-18 01:33 | 0.83x | 1.01x | 4.5h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

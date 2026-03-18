@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 06:00 UTC** | 7d | 107 buys, 78 sells | In: **20.35** | Out: **14.03** | Net: **-6.32 SOL**
+> Updated: **2026-03-18 06:05 UTC** | 7d | 109 buys, 79 sells | In: **20.85** | Out: **14.17** | Net: **-6.68 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 06:04 | 🟢 BUY | Terafab | 0.2500 | 6raSuhfi... | copy | `5QcgvSVZVeSp...` |
+| 03-18 | 06:02 | 💰 SELL | functionless | 0.1371 | 5n593DWQ... | TP1 | `EriRWQpcMTvE...` |
+| 03-18 | 06:02 | 🟢 BUY | NoFunction | 0.2500 | 5n593DWQ... | copy | `2zosa7HbE2nm...` |
 | 03-18 | 05:53 | 🟢 BUY | functionless | 0.2500 | 5n593DWQ... | copy | `64SXf8m2dyjQ...` |
 | 03-18 | 05:50 | 🟢 BUY | USOR/SOL | 0.2500 | DHfshpzo... | copy | `2DgeMwMWVWTu...` |
 | 03-18 | 05:40 | 🟢 BUY | ? | 0.2500 | 5n593DWQ... | copy | `4zXcVsT7SS7d...` |
