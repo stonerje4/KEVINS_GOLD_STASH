@@ -1,17 +1,12 @@
 # [TEST] `CAmNcBJ82xr1tzXr...`
-> 2026-03-18 10:00 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| ape#003 | 03-18 01:40 | 0.45x | 1.04x | 8.3h | 0.0001 |
+> 2026-03-18 10:05 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
 | ❌ Octogent | -0.0001 | 03-18 02:39 | 1.0x | 03-18 02:46 | 0.0000/0.0001 | gc_SL |
+| ❌ ape#003 | -0.0001 | 03-18 01:40 | 1.0x | 03-18 10:00 | 0.0000/0.0001 | stale_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

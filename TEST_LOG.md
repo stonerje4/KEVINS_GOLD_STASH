@@ -1,8 +1,20 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 10:00 UTC** | 7d | 338 buys, 588 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 10:05 UTC** | 7d | 344 buys, 594 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 10:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Czfghv3tqL7...` |
+| 03-18 | 10:03 | 🟢 BUY | wmd | 0.0001 | FoHJUYTh... | copy_buy | `4AJXuqfYAzti...` |
+| 03-18 | 10:03 | 🟢 BUY | Unemployed | 0.0001 | 2Lmwct2T... | copy_buy | `3LoJLg1z2hrj...` |
+| 03-18 | 10:03 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3sqvNNVqfik5...` |
+| 03-18 | 10:02 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4noN1q1Bbitw...` |
+| 03-18 | 10:02 | 🟢 BUY | Unemployed | 0.0001 | EaEf6TH8... | copy_buy | `3yNgmGDa5NZc...` |
+| 03-18 | 10:02 | 🟢 BUY | Warbler | 0.0001 | BUiDP9Qm... | copy_buy | `5ZRoGacjQedz...` |
+| 03-18 | 10:02 | 🟢 BUY | giraffe | 0.0001 | EaEf6TH8... | copy_buy | `5yUUKNF1J7pg...` |
+| 03-18 | 10:02 | 🟢 BUY | Omocchi | 0.0001 | AJ8Gc1cY... | copy_buy | `64KLJpVzrAM6...` |
+| 03-18 | 10:02 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2oU8hfatXiRw...` |
+| 03-18 | 10:01 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `42i9Q2TaaSnP...` |
+| 03-18 | 10:00 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5a8so2GRpe4V...` |
 | 03-18 | 09:59 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2ssQFEFY553N...` |
 | 03-18 | 09:58 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3gxTpqqNeJKs...` |
 | 03-18 | 09:58 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2KMc21vWvRDe...` |

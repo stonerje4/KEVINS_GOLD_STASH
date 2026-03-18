@@ -1,16 +1,16 @@
-# [TEST] `BZmxuXQ68QeZABbD...`
+# [TEST] `BUiDP9QmZfRnXSqi...`
 > 2026-03-18 10:05 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| HUGH | 03-18 02:55 | 0.65x | 1.00x | 7.2h | 0.0001 |
+| Warbler | 03-18 10:02 | 0.97x | 1.00x | 0.0h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 02:55 | HUGH | BUY | 0.0001 | `3zoJ74MGhA2VSKRS...` |
+| 03-18 10:02 | Warbler | BUY | 0.0001 | `5ZRoGacjQedz6Lqe...` |
 
 </details>
