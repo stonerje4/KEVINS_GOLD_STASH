@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 23:35 UTC*
+*Last updated: 2026-03-18 23:40 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 23:36 | 🔴 sell | GNORTS | `6raSuhfig5Y1...` | 0.196 | 0.4x | stop_loss | [tx](https://solscan.io/tx/sh3AiJxPrnYra4phigAr5tCERkq3wAmdVcDgh5SZDkCEEcCEpNb8PZ5883s55i5VLjyVJRbNGjwtPkvfznDHFsM) |
 | 2026-03-18 23:16 | 🟢 buy | TGR | `5vweNikgScdn...` | 0.500 | — | cielo_copy:5vweNikgScdnGkZCC3ya | [tx](https://solscan.io/tx/25tq4H2Fau99pQqw2V7nL5yUgMpcYJXdW1uTEXVzJNspXQjVoYx1GQUpCCMJTWvQeGFCjwxJS5CUpLB3VZahdHqp) |
 | 2026-03-18 23:15 | 🟢 buy | SQUIRE | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/2SWzGWyHxSLLiicQpeH7MjwiNuyab7CxWceV6np145xETUvJLf8KhSmPYSdeqQvArtiBDjSuga6ao1Jy6ALj6G4p) |
 | 2026-03-18 23:14 | 🔴 sell | SWMR | `6raSuhfig5Y1...` | 0.416 | 3.3x | tp_3x_trim | [tx](https://solscan.io/tx/5krWR2vqy2KQ6QRU2iA1NKNxSFCkFQKU9DVZbCFoLb3ByJ9kHUMqesTinAZ3DF92p6HCWzTf85nr44Z5aHDBouyq) |

@@ -1,8 +1,9 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 23:35 UTC** | 7d | 44 buys, 23 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 23:40 UTC** | 7d | 44 buys, 24 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 23:37 | 🔴 SELL | GNORTS | 0.0001 | 6raSuhfi... | SL | `ccCHigS2wTHb...` |
 | 03-18 | 23:29 | 🔴 SELL | STRAWBS | 0.0001 | FY5sWMqL... | SL | `4PiGanAcZ96M...` |
 | 03-18 | 23:27 | 🟢 BUY | NASDANQ | 0.0002 | 4Dpu2Ujk... | copy_buy | `518RtYhf4Rqf...` |
 | 03-18 | 23:23 | 🟢 BUY | INUDEX | 0.0002 | 6gN2SNYX... | copy_buy | `pKjJAmrHEyae...` |

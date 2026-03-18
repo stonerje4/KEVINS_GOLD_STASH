@@ -1,12 +1,12 @@
 # [TEST] `Ckm6DF7m77M2Wzri...`
-> 2026-03-18 23:35 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 23:40 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Nasdog | 03-18 22:50 | 0.63x | 1.00x | 0.7h | 0.0002 |
-| BLONDIE | 03-18 22:28 | 0.76x | 1.07x | 1.1h | 0.0002 |
+| Nasdog | 03-18 22:50 | 0.69x | 1.00x | 0.8h | 0.0002 |
+| BLONDIE | 03-18 22:28 | 0.77x | 1.07x | 1.2h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
