@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 08:15 UTC** | 7d | 296 buys, 451 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 08:20 UTC** | 7d | 298 buys, 458 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 08:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2h8QQEDQ8euZ...` |
+| 03-18 | 08:19 | 🟢 BUY | ChudBird  | 0.0001 | 9t6xjxxt... | copy_buy | `5KsT2JkGaChx...` |
+| 03-18 | 08:18 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4VjdoCB4mM6X...` |
+| 03-18 | 08:18 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2vnoBBq7zmdw...` |
+| 03-18 | 08:17 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5z5vd4GCv9Kp...` |
+| 03-18 | 08:16 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `dfqDCKwSVtGW...` |
+| 03-18 | 08:15 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `KByqMZphVaqV...` |
+| 03-18 | 08:15 | 🟢 BUY | Newscum | 0.0001 | 7cXeEXa4... | copy_buy | `641pKzLSdZ6r...` |
+| 03-18 | 08:15 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `37UDiCyyCkdo...` |
 | 03-18 | 08:14 | 🟢 BUY | BELIEVERS | 0.0001 | Dr5V9A9d... | copy_buy | `377RbayK8ceX...` |
 | 03-18 | 08:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `Hpn9kdvx1Btq...` |
 | 03-18 | 08:14 | 🟢 BUY | Quit | 0.0001 | 5dd3zjBQ... | copy_buy | `PYuT8z2gvjfy...` |

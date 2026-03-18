@@ -1,11 +1,11 @@
 # [TEST] `FY5sWMqL2AQrsS2F...`
-> 2026-03-18 08:15 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 08:20 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| HOLLYANGELS | 03-18 07:42 | 0.90x | 1.92x | 0.6h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ HOLLYANGELS | -0.0001 | 03-18 07:42 | 1.9x | 03-18 08:19 | 0.0000/0.0001 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
