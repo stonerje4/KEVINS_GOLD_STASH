@@ -1,8 +1,15 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 10:05 UTC** | 7d | 135 buys, 102 sells | In: **27.35** | Out: **23.63** | Net: **-3.72 SOL**
+> Updated: **2026-03-18 10:10 UTC** | 7d | 135 buys, 109 sells | In: **27.35** | Out: **24.80** | Net: **-2.55 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 10:07 | 🔴 SELL | FLAG | 0.2118 | DHfshpzo... | stale | `PRhrqH5sMgt3...` |
+| 03-18 | 10:07 | 🔴 SELL | Starlink | 0.2172 | DHfshpzo... | stale | `4BWFReSnzeRA...` |
+| 03-18 | 10:07 | 🔴 SELL | FLAG | 0.2492 | r9pFHjFe... | stale | `4vAWUZuivcmw...` |
+| 03-18 | 10:07 | 🔴 SELL | BBX | 0.1448 | DHfshpzo... | stale | `4ojhTbyRmNJY...` |
+| 03-18 | 10:07 | 🔴 SELL | Kick | 0.0640 | 42nQHDpy... | stale | `JYdRP14WJ9xv...` |
+| 03-18 | 10:07 | 🔴 SELL | AOR | 0.1423 | HCDsVE5Y... | stale | `2nMME7JoVQrW...` |
+| 03-18 | 10:07 | 🔴 SELL | NEMOCLAW | 0.1427 | 42HG8wPU... | stale | `5uUzXZVWc7RM...` |
 | 03-18 | 09:47 | 🟢 BUY | SOLARI | 0.2500 | 2w85VLX4... | copy | `4SyaxRypNh7k...` |
 | 03-18 | 09:32 | 💰 SELL | Speak | 0.2001 | 2w85VLX4... | TP2 | `i8gqA3D3kFN3...` |
 | 03-18 | 09:27 | 💰 SELL | Speak | 0.1397 | 2w85VLX4... | TP1 | `4RTqMHW9fHcn...` |
