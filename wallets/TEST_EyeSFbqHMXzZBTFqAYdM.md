@@ -1,12 +1,12 @@
 # [TEST] `EyeSFbqHMXzZBTFq...`
-> 2026-03-18 00:00 UTC | **9** pos | **0W/7L** | P&L: **-0.001049 SOL** (-47.7%) | 2 open
+> 2026-03-18 00:05 UTC | **9** pos | **0W/7L** | P&L: **-0.001049 SOL** (-47.7%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Dogeeto | 03-17 21:31 | 0.61x | 4.39x | 2.5h | 0.0001 |
-| BELIEVERS | 03-17 16:38 | 0.68x | 1.96x | 7.4h | 0.0001 |
+| Dogeeto | 03-17 21:31 | 0.59x | 4.39x | 2.6h | 0.0001 |
+| BELIEVERS | 03-17 16:38 | 0.69x | 1.96x | 7.4h | 0.0001 |
 
 ## Closed
 
@@ -24,6 +24,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:03 | Dogeeto | SELL | 0.0000 | `3nxeFsnHSM4ye5MF...` |
+| 03-18 00:01 | Dogeeto | SELL | 0.0000 | `46xVVMQ5REfFAJNg...` |
+| 03-17 23:59 | Dogeeto | SELL | 0.0000 | `Lw8RpXdmVwYyS7By...` |
 | 03-17 23:58 | Dogeeto | SELL | 0.0000 | `4jqzBtuJPArE1gf5...` |
 | 03-17 23:56 | Dogeeto | SELL | 0.0000 | `4d7694SAXKbJ2BvM...` |
 | 03-17 23:55 | Dogeeto | SELL | 0.0000 | `2igpnHSByNrE19iR...` |

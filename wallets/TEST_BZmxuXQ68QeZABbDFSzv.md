@@ -1,14 +1,14 @@
 # [TEST] `BZmxuXQ68QeZABbD...`
-> 2026-03-18 00:00 UTC | **8** pos | **0W/4L** | P&L: **-0.000280 SOL** (-70.1%) | 4 open
+> 2026-03-18 00:05 UTC | **8** pos | **0W/4L** | P&L: **-0.000280 SOL** (-70.1%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| commotitty | 03-17 22:45 | 0.39x | 1.00x | 1.2h | 0.0001 |
-| Unplugged | 03-17 22:42 | 0.70x | 1.00x | 1.3h | 0.0001 |
-| Microphallus | 03-17 22:37 | 0.44x | 1.15x | 1.4h | 0.0001 |
-| Daisy | 03-17 21:05 | 5.11x | 7.19x | 2.9h | 0.0001 |
+| commotitty | 03-17 22:45 | 0.41x | 1.00x | 1.3h | 0.0001 |
+| Unplugged | 03-17 22:42 | 0.70x | 1.00x | 1.4h | 0.0001 |
+| Microphallus | 03-17 22:37 | 0.44x | 1.15x | 1.5h | 0.0001 |
+| Daisy | 03-17 21:05 | 3.59x | 7.19x | 3.0h | 0.0001 |
 
 ## Closed
 
@@ -23,6 +23,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:01 | commotitty | SELL | 0.0000 | `219cvbKKNeh8wb8v...` |
+| 03-18 00:00 | commotitty | SELL | 0.0000 | `5NbHtoVuKGW8gZKD...` |
 | 03-17 23:58 | commotitty | SELL | 0.0000 | `3Pt7Pies4gCumGbL...` |
 | 03-17 23:37 | Daisy | SELL | 0.0000 | `4j3DSJUr7JopG6hw...` |
 | 03-17 23:35 | Daisy | SELL | 0.0000 | `22XxGuX6M8LM3GAm...` |
