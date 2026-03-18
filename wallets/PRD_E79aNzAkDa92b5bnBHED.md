@@ -1,5 +1,11 @@
 # [PRD] `E79aNzAkDa92b5bn...`
-> 2026-03-18 14:45 UTC | **1** pos | **1W/0L** | P&L: **+0.054000 SOL** (+36.0%) | 0 open
+> 2026-03-18 14:50 UTC | **2** pos | **1W/0L** | P&L: **+0.054000 SOL** (+36.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| GROKTRADER | 03-18 14:49 | 0.00x | 1.00x | 0.0h | 0.2500 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 14:49 | GROKTRADER | BUY | 0.2500 | `2huvgd2nDNkQvVuc...` |
 | 03-18 01:32 | ACTIII | SELL | 0.0000 | `?` |
 | 03-17 23:36 | ACTIII | SELL | 0.1160 | `52HYH46RA4JQau4v...` |
 | 03-17 23:04 | ACTIII | SELL | 0.0880 | `54dRuvDnoihdihA4...` |

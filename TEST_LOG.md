@@ -1,8 +1,26 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 14:45 UTC** | 7d | 496 buys, 1037 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
+> Updated: **2026-03-18 14:50 UTC** | 7d | 500 buys, 1051 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 14:49 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `37Lf5JNyPCt3...` |
+| 03-18 | 14:49 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3Skrn9TRxxyv...` |
+| 03-18 | 14:49 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4ion9kUrqkJp...` |
+| 03-18 | 14:49 | 🟢 BUY | GROKTRADER | 0.0001 | E79aNzAk... | copy_buy | `L2SNC77aqqQE...` |
+| 03-18 | 14:48 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `121SnCv8U69o...` |
+| 03-18 | 14:48 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2gCXa4iQBQKZ...` |
+| 03-18 | 14:48 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4D3wekQsXxDC...` |
+| 03-18 | 14:48 | 🟢 BUY | TGR | 0.0001 | 2947n9KQ... | copy_buy | `1xUSFDiWyRAw...` |
+| 03-18 | 14:47 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `66kJDP3Mu1za...` |
+| 03-18 | 14:47 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `kCgYt3DJfRys...` |
+| 03-18 | 14:47 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4Y4nBh8ewMDF...` |
+| 03-18 | 14:47 | 🟢 BUY | Type | 0.0001 | 6gN2SNYX... | copy_buy | `5wdUx9KG7sXR...` |
+| 03-18 | 14:46 | 🟢 BUY | punchaura | 0.0001 | 42nQHDpy... | copy_buy | `heFzHKvUoRxg...` |
+| 03-18 | 14:46 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5sDv2ePE5poa...` |
+| 03-18 | 14:46 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `Y5EFJpJqx2fr...` |
+| 03-18 | 14:46 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `13wXCyALUbQ3...` |
+| 03-18 | 14:45 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5bCRnWuuFBui...` |
+| 03-18 | 14:45 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `24Eju8AK5MnT...` |
 | 03-18 | 14:44 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `35g2HWAGyywQ...` |
 | 03-18 | 14:44 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `Qh8AZZsyxhkm...` |
 | 03-18 | 14:44 | 💰 SELL | BBX | 0.0001 | GGbGeDC9... | TP2 | `49wVgqqFRT47...` |
