@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 10:15 UTC** | 7d | 348 buys, 607 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 10:20 UTC** | 7d | 349 buys, 613 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 10:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `BM5z1figZcX5...` |
+| 03-18 | 10:18 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `jEtb8gutJcjY...` |
+| 03-18 | 10:17 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `38rz3hrGJhd3...` |
+| 03-18 | 10:17 | 🟢 BUY | SCOTT | 0.0001 | FWQ3sv51... | copy_buy | `5p88VAQ4gDN1...` |
+| 03-18 | 10:17 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `PMWM4Fiaw9Rc...` |
+| 03-18 | 10:16 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5K5HeTYxkky9...` |
+| 03-18 | 10:15 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4y4DBg2vbYiu...` |
 | 03-18 | 10:15 | 🟢 BUY | LITTLENIMO | 0.0001 | EaEf6TH8... | copy_buy | `5ogQDHgkrKYK...` |
 | 03-18 | 10:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3NvijahuDmMv...` |
 | 03-18 | 10:13 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5NhaSv7Rbm9v...` |
