@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 10:50 UTC** | 7d | 139 buys, 112 sells | In: **28.35** | Out: **25.08** | Net: **-3.27 SOL**
+> Updated: **2026-03-18 10:55 UTC** | 7d | 140 buys, 114 sells | In: **28.60** | Out: **25.46** | Net: **-3.14 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 10:53 | 💰 SELL | giraffe | 0.2123 | 2w85VLX4... | TP2 | `95RmsyWBUE53...` |
+| 03-18 | 10:53 | 🟢 BUY | Corbin | 0.2500 | 2w85VLX4... | copy | `3fnst1bekCKp...` |
+| 03-18 | 10:51 | 💰 SELL | giraffe | 0.1611 | 2w85VLX4... | TP1 | `QcLc6F1ooRrg...` |
 | 03-18 | 10:47 | 🟢 BUY | CHEMTRAILS | 0.2500 | 2w85VLX4... | copy | `5Tq9RZ5bVYgf...` |
 | 03-18 | 10:41 | 🟢 BUY | giraffe | 0.2500 | 2w85VLX4... | copy | `4n84TVaqK8LY...` |
 | 03-18 | 10:32 | 🔴 SELL | VULTURE | 0.0592 | 3HGqppv8... | SL | `HvrQb4Y1RZxW...` |
