@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 19:27 UTC*
+*Last updated: 2026-03-18 19:34 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 19:31 | 🟢 buy | functionless | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/3HSQQLgjgtc9jWRrLtUJ3kM7i7UoKkatZz6dXPi6mhyGa2wr6uzwZmiMNVxnJUxSRZ9tqPGRnAkQxiSzkuAejrhL) |
 | 2026-03-18 19:22 | 🔴 sell | QWIN | `5n593DWQkpfF...` | 0.708 | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/PkopCqoUbMXfHL5mze9wC8TvXLQuuLyHuQ7oEcaTGXJWavW7BdHsGXKcbn3jRhCL8DcK3cZrtdLZR6yH6FFXjRW) |
 | 2026-03-18 19:14 | 🔴 sell | QWIN | `5n593DWQkpfF...` | 0.449 | 3.6x | tp_3x_trim | [tx](https://solscan.io/tx/67ZvSErW15GAitGtQJkniVBPyJUU8pSAPbGXPd5PkL3fZacHaAUiqCtUqtyiu3JkB7VqDPNctV7xq1p7wCQWEZxS) |
 | 2026-03-18 19:14 | 🟢 buy | GroupChats | `E79aNzAkDa92...` | 0.500 | — | cielo_copy:E79aNzAkDa92b5bnBHED | [tx](https://solscan.io/tx/5Paxpk6aLQ3SmFoF2j2Gy95yMY63FRWVtCDTP4Pzg8mR344sPiV7AksqdzYyxC1qqr9N2YCXj8Y6EL6H5Va4M1vQ) |

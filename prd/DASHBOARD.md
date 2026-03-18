@@ -1,6 +1,6 @@
 # 📈 PRD — Production Dashboard
 
-*Last updated: 2026-03-18 19:27 UTC*
+*Last updated: 2026-03-18 19:34 UTC*
 
 **Wallet:** [`DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h`](https://solscan.io/account/DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h)
 **Position Size:** 0.50 SOL (~$45/buy) · **SOL:** $89.81
@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | Followed Wallets | 16 |
-| Total Positions | 5 |
-| Open | 4 |
+| Total Positions | 6 |
+| Open | 5 |
 | Closed | 1 |
 
 ## Wallet Performance
 
 | | Wallet | Pos | W/L | WR | Closed P&L | ROI | Unreal | **Total** | Avg Peak | Open | Solscan |
 |--|--------|-----|-----|-----|------------|-----|--------|-----------|----------|------|--------|
-| 🟢 | [`5n593DWQkpfFgA69mS1M...`](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 1 | 1/0 | 100% | $+88 | +195% | — | **$+88** | 3.6x | 0 | [trades](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z#defiactivities) |
-| 🟢 | [`E79aNzAkDa92b5bnBHED...`](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 1 | 0/0 | 0% | $+0 | — | $+33 | **$+33** | — | 1 | [trades](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY#defiactivities) |
+| 🟢 | [`5n593DWQkpfFgA69mS1M...`](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 2 | 1/0 | 100% | $+88 | +195% | $-1 | **$+87** | 3.6x | 1 | [trades](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z#defiactivities) |
+| 🟢 | [`E79aNzAkDa92b5bnBHED...`](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 1 | 0/0 | 0% | $+0 | — | $+14 | **$+14** | — | 1 | [trades](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY#defiactivities) |
 | ⚪ | [`HCDsVE5Y22dzxFzibEFS...`](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | 3 | 0/0 | 0% | $+0 | — | $-7 | **$-7** | — | 3 | [trades](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ#defiactivities) |
 
 ## Followed Wallets (16)
