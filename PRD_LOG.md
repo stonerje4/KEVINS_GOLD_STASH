@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 06:35 UTC** | 7d | 112 buys, 84 sells | In: **21.60** | Out: **15.20** | Net: **-6.40 SOL**
+> Updated: **2026-03-18 06:40 UTC** | 7d | 114 buys, 84 sells | In: **22.10** | Out: **15.20** | Net: **-6.90 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 06:38 | 🟢 BUY | DRONE | 0.2500 | DHfshpzo... | copy | `RPb5nM8C7mgH...` |
+| 03-18 | 06:35 | 🟢 BUY | CARD | 0.2500 | 6raSuhfi... | copy | `23RLxP49Yipe...` |
 | 03-18 | 06:33 | 🟢 BUY | — | 0.2500 | 5n593DWQ... | copy | `UjRSMSypoTGL...` |
 | 03-18 | 06:29 | 🟢 BUY | howeycoins | 0.2500 | 6raSuhfi... | copy | `2Cnm2gT93PLC...` |
 | 03-18 | 06:19 | 💰 SELL | NoFunction | 0.3542 | 5n593DWQ... | trail | `48g6zRqdxU7V...` |

@@ -1,8 +1,20 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 06:35 UTC** | 7d | 212 buys, 311 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 06:40 UTC** | 7d | 217 buys, 318 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 06:39 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `B1ffCsuqP1Lw...` |
+| 03-18 | 06:38 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5xUCLgVnneN8...` |
+| 03-18 | 06:38 | 🟢 BUY | WPI6900 | 0.0001 | FWQ3sv51... | copy_buy | `4Uey9Mg4MMa4...` |
+| 03-18 | 06:37 | 🟢 BUY | Lucky | 0.0001 | FoHJUYTh... | copy_buy | `27kMDfztV6Bs...` |
+| 03-18 | 06:37 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `sPtiKY2L4jsW...` |
+| 03-18 | 06:37 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2DXhw3CjNAWN...` |
+| 03-18 | 06:36 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4uMcSnLs46qo...` |
+| 03-18 | 06:35 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4GWYhdLRTaRL...` |
+| 03-18 | 06:35 | 🟢 BUY | PCSOL | 0.0001 | FoHJUYTh... | copy_buy | `67ghMduPGD5X...` |
+| 03-18 | 06:35 | 🟢 BUY | Straw | 0.0001 | 42nQHDpy... | copy_buy | `46AqivzVtPVA...` |
+| 03-18 | 06:35 | 🟢 BUY | Garlic | 0.0001 | 9G4ytadk... | copy_buy | `3hFRcsStHMGz...` |
+| 03-18 | 06:35 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2Ji1ARBAvpfJ...` |
 | 03-18 | 06:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2KdKvyWunVbJ...` |
 | 03-18 | 06:34 | 🟢 BUY | LIGANDAL | 0.0001 | 9G4ytadk... | copy_buy | `2isLXmEdNYkw...` |
 | 03-18 | 06:33 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2fp7WGoDf2YZ...` |

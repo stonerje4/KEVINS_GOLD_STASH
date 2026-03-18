@@ -1,12 +1,12 @@
 # [TEST] `GGbGeDC9M45YUU34...`
-> 2026-03-18 06:35 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 06:40 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | EGG | 03-18 05:07 | 0.49x | 1.37x | 1.5h | 0.0001 |
-| BBX | 03-18 01:50 | 1.68x | 1.84x | 4.7h | 0.0001 |
+| BBX | 03-18 01:50 | 1.68x | 1.84x | 4.8h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
