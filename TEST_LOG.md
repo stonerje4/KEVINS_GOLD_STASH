@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 08:45 UTC** | 7d | 308 buys, 491 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 08:50 UTC** | 7d | 312 buys, 497 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 08:49 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `48cC3SbDZw6W...` |
+| 03-18 | 08:48 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3KksaxqYfuZv...` |
+| 03-18 | 08:47 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `23m4otnYQ6Xr...` |
+| 03-18 | 08:46 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `58uwktshN7Pr...` |
+| 03-18 | 08:46 | 🟢 BUY | APE | 0.0001 | 6E4897rJ... | copy_buy | `boRcbJjrvhhF...` |
+| 03-18 | 08:46 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3gCxozigNi6Q...` |
+| 03-18 | 08:45 | 🟢 BUY | MOJTABA | 0.0001 | cqakon1K... | copy_buy | `657UV43p97k5...` |
+| 03-18 | 08:45 | 🟢 BUY | MOJTABA | 0.0001 | 42nQHDpy... | copy_buy | `5K9FkQ32CtmL...` |
+| 03-18 | 08:45 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `47hLWzoR66x9...` |
+| 03-18 | 08:45 | 🟢 BUY | CHIBI | 0.0001 | AJ8Gc1cY... | copy_buy | `59x2Bf1efps1...` |
 | 03-18 | 08:44 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3nWGf1bAKHA6...` |
 | 03-18 | 08:43 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `WBqTbiHAaExT...` |
 | 03-18 | 08:43 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2zTHqeD7LF3d...` |
