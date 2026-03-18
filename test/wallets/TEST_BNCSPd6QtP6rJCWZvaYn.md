@@ -1,18 +1,16 @@
 # [TEST] `BNCSPd6QtP6rJCWZ...`
-> 2026-03-18 17:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 22:59 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Goose | 03-18 14:29 | 1.05x | 1.23x | 3.4h | 0.0001 |
-| Goose | 03-18 14:28 | 0.00x | 1.00x | 3.4h | 0.0001 |
+| GroupChat | 03-18 22:30 | 0.89x | 1.13x | 0.5h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 14:29 | Goose | BUY | 0.0001 | `3hEKtnMKp4uCdGvU...` |
-| 03-18 14:28 | Goose | BUY | 0.0001 | `3hoBc5J6qmwhFDjL...` |
+| 03-18 22:30 | GroupChat | BUY | 0.0002 | `GjsPYMgMqawBdGZz...` |
 
 </details>

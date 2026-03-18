@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 22:55 UTC*
+*Last updated: 2026-03-18 22:59 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 22:58 | 🔴 sell | SWMR | `6raSuhfig5Y1...` | 0.272 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/kKszHocVSo9k5BcYTjo6gTGNL1LPNfSq8iVbgrMzghUCvYuUPPW6hPdGV3KTubmNrveEtU1qG1CB6jp9cjPrZ3A) |
 | 2026-03-18 22:46 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.702 | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/4AKxXsWafNjJsLyHoRi4nnhCZB2JqV1eZgRwPVitT1tuwGnje4nRqx1KdzvTpbu6ZYwgrSXWi4qEE4jVAc8MHdGv) |
 | 2026-03-18 22:32 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.396 | 3.2x | tp_3x_trim | [tx](https://solscan.io/tx/5hAeYzM4sDSfJ5NVb33R73Xi8ro7FBbMatpiMV7wQoVBCqC1RdPFAna79xkhJedRjkDNeN2r24pRnJynyEw58sjV) |
 | 2026-03-18 22:30 | 🟢 buy | FUCKENING | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/SJRUw2X1rLh1WK7L6o1iff2zQY74erP1MfuhhPsjdwHbqQVWGePHrTcoPAdAzxeTmquqYTMEiwjqpo8GkXh7yMm) |

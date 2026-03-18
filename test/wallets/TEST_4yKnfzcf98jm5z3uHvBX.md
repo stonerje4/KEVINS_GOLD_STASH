@@ -1,16 +1,20 @@
 # [TEST] `4yKnfzcf98jm5z3u...`
-> 2026-03-18 17:55 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
+> 2026-03-18 22:59 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
-## Closed
+## Open
 
-| Token | Result | Entry | Peak | Exit | P&L | Reason |
-|-------|--------|-------|------|------|-----|--------|
-| ❌ TORA | -0.0001 | 03-18 11:36 | 1.4x | 03-18 11:55 | 0.0000/0.0001 | gc_SL |
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| S&P500 | 03-18 22:39 | 0.49x | 1.01x | 0.3h | 0.0002 |
+| TODAY | 03-18 22:33 | 0.40x | 1.04x | 0.4h | 0.0002 |
+| ASSDAQ | 03-18 22:31 | 0.68x | 1.00x | 0.5h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 11:36 | TORA | BUY | 0.0001 | `4gGZ8EDFR1mbrG65...` |
+| 03-18 22:39 | S&P500 | BUY | 0.0002 | `5s9cfi9dmcfV6erD...` |
+| 03-18 22:33 | TODAY | BUY | 0.0002 | `2sS2FKEYL7tzEF1i...` |
+| 03-18 22:31 | ASSDAQ | BUY | 0.0002 | `4KSGzaG1mzvN7Quj...` |
 
 </details>
