@@ -1,5 +1,11 @@
 # [TEST] `35RArQiyVX4sh8ij...`
-> 2026-03-18 16:20 UTC | **6** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 0 open
+> 2026-03-18 16:25 UTC | **7** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Java Chad | 03-18 16:24 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -16,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 16:24 | Java Chad | BUY | 0.0001 | `56T8C5tJUJ1re7YE...` |
 | 03-18 02:15 | PurpleCow | BUY | 0.0001 | `2K2uiiwixL8XuFvg...` |
 | 03-18 01:46 | USEFUL | BUY | 0.0001 | `5DPwWGJ6YLPHntCz...` |
 | 03-18 01:43 | HoweyCoins | BUY | 0.0001 | `XptcsTbhu9EJnPLc...` |

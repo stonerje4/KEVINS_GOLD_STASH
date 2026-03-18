@@ -1,11 +1,11 @@
 # [TEST] `G1nVBXwCrXFNVifH...`
-> 2026-03-18 16:20 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 16:25 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| OEF | 03-18 15:32 | 0.00x | 1.00x | 0.8h | 0.0001 |
+| OEF | 03-18 15:32 | 0.00x | 1.00x | 0.9h | 0.0001 |
 | USAID | 03-18 14:40 | 0.00x | 1.00x | 1.7h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
