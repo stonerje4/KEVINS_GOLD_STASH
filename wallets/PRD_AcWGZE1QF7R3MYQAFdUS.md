@@ -1,52 +1,18 @@
 # [PRD] `AcWGZE1QF7R3MYQA...`
-> 2026-03-18 01:10 UTC | **11** pos | **1W/8L** | P&L: **-0.462811 SOL** (-34.3%) | 2 open
+> 2026-03-18 01:13 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| face | 03-17 12:04 | 0.00x | 1.36x | 13.1h | 0.1500 |
+| face | 03-17 12:04 | 0.00x | 1.36x | 13.2h | 0.1500 |
 | Rocky | 03-17 11:46 | 0.00x | 1.65x | 13.4h | 0.1500 |
-
-## Closed
-
-| Token | Result | Entry | Peak | Exit | P&L | Reason |
-|-------|--------|-------|------|------|-----|--------|
-| ❌ AHAHA | -0.0906 | 03-17 13:01 | 1.4x | 03-18 00:57 | 0.0594/0.1500 | SL |
-| ❌ Dozer | -0.0131 | 03-17 02:02 | 2.1x | 03-17 17:53 | 0.1369/0.1500 | trail |
-| ❌ Achievements | -0.0931 | 03-16 22:26 | 1.0x | 03-16 23:03 | 0.0569/0.1500 | SL |
-| ❌ STOP | -0.0238 | 03-16 21:29 | 1.4x | 03-18 01:06 | 0.1262/0.1500 | stale |
-| ❌ ASSWASH | -0.0893 | 03-16 21:27 | 1.2x | 03-17 04:48 | 0.0607/0.1500 | stale |
-| ❌ Ac7ionMan | -0.0862 | 03-16 19:02 | 1.1x | 03-17 01:48 | 0.0638/0.1500 | stale |
-| ✅ Ac7ionMan | +0.0079 | 03-16 18:47 | 2.3x | 03-16 19:01 | 0.1579/0.1500 | trail |
-| ❌ RELAPSE | -0.0188 | 03-16 18:47 | 1.0x | 03-17 01:48 | 0.1312/0.1500 | stale |
-| ❌ WWM | -0.0558 | 03-16 03:10 | 1.0x | 03-16 13:17 | 0.0942/0.1500 | SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 01:06 | STOP | SELL | 0.1262 | `2hmShRxzeBDiREEj...` |
-| 03-18 00:57 | AHAHA | SELL | 0.0594 | `3hMG8B6P3KtxQFwN...` |
-| 03-17 17:53 | Dozer | SELL | 0.1061 | `53h1b7MNpczb2fjN...` |
-| 03-17 14:53 | Dozer | SELL | 0.0308 | `4m99wKHZmfHB8cV1...` |
-| 03-17 13:01 | AHAHA | BUY | 0.1500 | `2Aj9VkGnK1XTJoSX...` |
 | 03-17 12:04 | face | BUY | 0.1500 | `61ZGSXYp5Ny1pTwr...` |
 | 03-17 11:46 | Rocky | BUY | 0.1500 | `4stMM3u2Gz9xsAbx...` |
-| 03-17 04:48 | ASSWASH | SELL | 0.0607 | `UPkgM786USB9HNC4...` |
-| 03-17 02:02 | Dozer | BUY | 0.1500 | `633zbvUgTj7r96AP...` |
-| 03-17 01:48 | Ac7ionMan | SELL | 0.0638 | `26ba4Nzi5CA1iunr...` |
-| 03-17 01:48 | RELAPSE | SELL | 0.1312 | `4aisT5fQ8UFCFFkU...` |
-| 03-16 23:03 | Achievements | SELL | 0.0569 | `3JzRL7pmiSJDmgL6...` |
-| 03-16 22:26 | Achievements | BUY | 0.1500 | `3dYnLbfe5yK4BvRa...` |
-| 03-16 21:29 | STOP | BUY | 0.1500 | `ezwRyMVjFgm9HT7K...` |
-| 03-16 21:27 | ASSWASH | BUY | 0.1500 | `5oSR5VSdoYRxcEP5...` |
-| 03-16 19:02 | Ac7ionMan | BUY | 0.1500 | `2M25ReoTNK8hYSfc...` |
-| 03-16 19:01 | Ac7ionMan | SELL | 0.1230 | `5ZLm7GPCx1wAJfep...` |
-| 03-16 18:54 | Ac7ionMan | SELL | 0.0349 | `53tE8fV5CCYLbSop...` |
-| 03-16 18:47 | Ac7ionMan | BUY | 0.1500 | `3EQqCqGNxV7Z7yyX...` |
-| 03-16 18:47 | RELAPSE | BUY | 0.1500 | `JWQ83abSqRW8psZw...` |
-| 03-16 13:17 | WWM | SELL | 0.0942 | `5soGNPh9K6tjnaVv...` |
-| 03-16 03:10 | WWM | BUY | 0.1500 | `5e14cfKErjqhZNDT...` |
 
 </details>
