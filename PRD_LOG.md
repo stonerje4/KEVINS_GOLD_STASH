@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 10:40 UTC** | 7d | 137 buys, 112 sells | In: **27.85** | Out: **25.08** | Net: **-2.77 SOL**
+> Updated: **2026-03-18 10:45 UTC** | 7d | 138 buys, 112 sells | In: **28.10** | Out: **25.08** | Net: **-3.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 10:41 | 🟢 BUY | giraffe | 0.2500 | 2w85VLX4... | copy | `4n84TVaqK8LY...` |
 | 03-18 | 10:32 | 🔴 SELL | VULTURE | 0.0592 | 3HGqppv8... | SL | `HvrQb4Y1RZxW...` |
 | 03-18 | 10:25 | 🟢 BUY | 페이커 | 0.2500 | 2w85VLX4... | copy | `2j1SBewJyRxn...` |
 | 03-18 | 10:24 | 🔴 SELL | ? | 0.0775 | 6raSuhfi... | SL | `5B9729P7xZ7D...` |
