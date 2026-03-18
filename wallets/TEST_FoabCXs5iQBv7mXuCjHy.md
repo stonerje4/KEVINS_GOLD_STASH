@@ -1,11 +1,12 @@
 # [TEST] `FoabCXs5iQBv7mXu...`
-> 2026-03-18 06:10 UTC | **10** pos | **0W/9L** | P&L: **-0.000900 SOL** (-100.0%) | 1 open
+> 2026-03-18 06:15 UTC | **11** pos | **0W/9L** | P&L: **-0.000900 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Max | 03-18 05:38 | 0.71x | 1.00x | 0.5h | 0.0001 |
+| ($SOS) | 03-18 06:13 | 0.98x | 1.00x | 0.0h | 0.0001 |
+| Max | 03-18 05:38 | 0.71x | 1.00x | 0.6h | 0.0001 |
 
 ## Closed
 
@@ -25,6 +26,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 06:13 | ($SOS) | BUY | 0.0001 | `2UcRuZ66NVavEwxW...` |
 | 03-18 05:53 | FUCK | BUY | 0.0001 | `2Wtw8aqTh2RUXhrw...` |
 | 03-18 05:46 | Max | BUY | 0.0001 | `3J4FmpHrVjS7JXhK...` |
 | 03-18 05:39 | Trumpjoui | BUY | 0.0001 | `2Hr7cWh2owhitcf2...` |
