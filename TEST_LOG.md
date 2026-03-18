@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 09:10 UTC** | 7d | 323 buys, 523 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 09:15 UTC** | 7d | 326 buys, 530 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 09:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4RcdkBVL8SYF...` |
+| 03-18 | 09:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3DEK29JtHmW6...` |
+| 03-18 | 09:13 | 🟢 BUY | Claude | 0.0001 | 6raSuhfi... | copy_buy | `29qjNv5XX8wB...` |
+| 03-18 | 09:13 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Z4wTQwoJuvU...` |
+| 03-18 | 09:12 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4b6ns4FFFBho...` |
+| 03-18 | 09:11 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2HmBa1frW6hy...` |
+| 03-18 | 09:11 | 🟢 BUY | QClaw | 0.0001 | GHy1P6vJ... | copy_buy | `5qcvrxHby81t...` |
+| 03-18 | 09:11 | 🟢 BUY | Mouse | 0.0001 | BBBByrLH... | copy_buy | `ERS6KZEfhjaD...` |
+| 03-18 | 09:11 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3RoeotT6P96t...` |
+| 03-18 | 09:10 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `A1Lm2NLKitEB...` |
 | 03-18 | 09:09 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3qJJaPFTggiP...` |
 | 03-18 | 09:08 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `66JXtpykyc5H...` |
 | 03-18 | 09:08 | 🟢 BUY | MEMSIE | 0.0001 | 3VHz3Mhv... | copy_buy | `4xiwGQzHRksa...` |
