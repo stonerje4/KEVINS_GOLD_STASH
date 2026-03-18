@@ -1,12 +1,12 @@
 # [TEST] `Ckm6DF7m77M2Wzri...`
-> 2026-03-18 17:30 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 17:35 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | SPOODERMAN | 03-18 14:20 | 0.69x | 1.24x | 3.2h | 0.0001 |
-| BLONDIE | 03-18 13:13 | 0.61x | 1.00x | 4.3h | 0.0001 |
+| BLONDIE | 03-18 13:13 | 0.61x | 1.00x | 4.4h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
