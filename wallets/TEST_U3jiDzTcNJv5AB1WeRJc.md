@@ -1,11 +1,11 @@
 # [TEST] `U3jiDzTcNJv5AB1W...`
-> 2026-03-18 01:50 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 01:55 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| FLAG | 03-18 01:49 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| FLAG | 03-18 01:49 | 0.99x | 1.00x | 0.1h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
