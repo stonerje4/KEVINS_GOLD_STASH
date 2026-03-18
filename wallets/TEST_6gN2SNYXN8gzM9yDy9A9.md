@@ -1,11 +1,11 @@
 # [TEST] `6gN2SNYXN8gzM9yD...`
-> 2026-03-18 02:20 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 02:25 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Scalpor | 03-18 02:04 | 0.59x | 1.13x | 0.3h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Scalpor | -0.0001 | 03-18 02:04 | 1.1x | 03-18 02:21 | 0.0000/0.0001 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
