@@ -1,16 +1,16 @@
-# [PRD] `ZzZZzPoJxWKern9E...`
+# [TEST] `BDe7kU3VqgW2hYkj...`
 > 2026-03-18 03:05 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DRONE | 03-17 09:17 | 0.00x | 1.78x | 17.8h | 0.1500 |
+| Pozer | 03-18 03:01 | 0.62x | 1.03x | 0.1h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-17 09:17 | DRONE | BUY | 0.1500 | `2S31tsCifi5TwjsQ...` |
+| 03-18 03:01 | Pozer | BUY | 0.0001 | `5yPkA25SrbEebugR...` |
 
 </details>

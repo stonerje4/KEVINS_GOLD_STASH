@@ -1,8 +1,13 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 03:00 UTC** | 7d | 85 buys, 30 sells | In: **14.85** | Out: **2.88** | Net: **-11.97 SOL**
+> Updated: **2026-03-18 03:05 UTC** | 7d | 88 buys, 32 sells | In: **15.60** | Out: **3.11** | Net: **-12.49 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 03:04 | 🟢 BUY | Atlas | 0.2500 | DDApL88z... | copy | `4qMWvWWsvSQC...` |
+| 03-18 | 03:04 | 💰 SELL | Doge#069 | 0.1313 | 6raSuhfi... | TP1 | `2dumBTkbA9bq...` |
+| 03-18 | 03:03 | 🟢 BUY | FLAG | 0.2500 | r9pFHjFe... | copy | `51uN4KDovRL4...` |
+| 03-18 | 03:01 | 🟢 BUY | LKY | 0.2500 | 6raSuhfi... | copy | `51nrHyDXtNQV...` |
+| 03-18 | 03:00 | 🔴 SELL | cat#001 | 0.0939 | 6raSuhfi... | SL | `2qPeHeMJnFnt...` |
 | 03-18 | 02:55 | 🟢 BUY | FLAG | 0.2500 | r9pFHjFe... | copy | `5ywbrd4bNDDk...` |
 | 03-18 | 02:46 | 🟢 BUY | Doge#069 | 0.2500 | 6raSuhfi... | copy | `2xL9SevBfeux...` |
 | 03-18 | 02:45 | 🟢 BUY | SIGIL | 0.2500 | 6raSuhfi... | copy | `3E5zzvB3wAdR...` |
