@@ -1,8 +1,20 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 05:40 UTC** | 7d | 184 buys, 231 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 05:45 UTC** | 7d | 189 buys, 238 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 05:44 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3gC7V6EtKuNd...` |
+| 03-18 | 05:44 | 🟢 BUY | KAT | 0.0001 | FoHJUYTh... | copy_buy | `2Hcrfn8qQ6kZ...` |
+| 03-18 | 05:43 | 🟢 BUY | TW1 | 0.0001 | 4Ki54j4t... | copy_buy | `55qrCD7jPKDG...` |
+| 03-18 | 05:43 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2dvtfFgqU3Ms...` |
+| 03-18 | 05:42 | 🟢 BUY | GIRL | 0.0001 | AiNfNi2e... | copy_buy | `LcmitAyqmje1...` |
+| 03-18 | 05:42 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `471ZWn24zXBL...` |
+| 03-18 | 05:42 | 🟢 BUY | GREENCHIP | 0.0001 | 4Ki54j4t... | copy_buy | `zyeVQdStrNCJ...` |
+| 03-18 | 05:42 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5q15ta6KmEAk...` |
+| 03-18 | 05:41 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `dMq5HWfHVLUR...` |
+| 03-18 | 05:41 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `zBsLSVtuTUCR...` |
+| 03-18 | 05:40 | 🟢 BUY | CAMP404 | 0.0001 | AJ8Gc1cY... | copy_buy | `4y52ZLFZLR4F...` |
+| 03-18 | 05:40 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2BoG7HpRzWgW...` |
 | 03-18 | 05:39 | 🟢 BUY | Trumpjoui | 0.0001 | FoabCXs5... | copy_buy | `2Hr7cWh2owhi...` |
 | 03-18 | 05:39 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `348WExrFeFwV...` |
 | 03-18 | 05:39 | 🟢 BUY | ELON#420 | 0.0001 | AJ8Gc1cY... | copy_buy | `2fBmpuHKPPAr...` |
