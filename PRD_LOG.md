@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 23:10 UTC** | 7d | 40 buys, 26 sells | In: **20.00** | Out: **9.31** | Net: **-10.69 SOL**
+> Updated: **2026-03-18 23:15 UTC** | 7d | 41 buys, 28 sells | In: **20.50** | Out: **9.91** | Net: **-10.59 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 23:14 | 💰 SELL | SWMR | 0.4160 | 6raSuhfi... | TP2 | `5krWR2vqy2KQ...` |
+| 03-18 | 23:11 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `3PZh1MRo5e1t...` |
+| 03-18 | 23:10 | 🔴 SELL | Manchas | 0.1787 | J5jm7BnB... | SL | `3UAcRenvP8ND...` |
 | 03-18 | 23:09 | 🔴 SELL | RUSH | 0.1924 | 2w85VLX4... | SL | `22uL1Qv5btwg...` |
 | 03-18 | 23:08 | 🔴 SELL | MK1 | 0.1978 | 5n593DWQ... | SL | `244rWG6ESSzt...` |
 | 03-18 | 23:03 | 🟢 BUY | GNORTS | 0.5000 | 6raSuhfi... | copy | `5nJpa9pVBZ63...` |

@@ -1,9 +1,12 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 23:10 UTC*
+*Last updated: 2026-03-18 23:15 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 23:14 | 🔴 sell | SWMR | `6raSuhfig5Y1...` | 0.416 | 3.3x | tp_3x_trim | [tx](https://solscan.io/tx/5krWR2vqy2KQ6QRU2iA1NKNxSFCkFQKU9DVZbCFoLb3ByJ9kHUMqesTinAZ3DF92p6HCWzTf85nr44Z5aHDBouyq) |
+| 2026-03-18 23:11 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/3PZh1MRo5e1tvmW5EUVvnSUnYxDpyE1yK38hka9qaZ3jAS7dy6UQ8MeRukvJZwRJfTP37ik1rukwsC4DVzA6ytbw) |
+| 2026-03-18 23:10 | 🔴 sell | Manchas | `J5jm7BnBiGaB...` | 0.179 | 0.4x | stop_loss | [tx](https://solscan.io/tx/3UAcRenvP8NDUy84tjLDAgCGvnrhnsYeNrSn2Ay4WomtMyARFQeo3v4kK4Can4Aa7h4LUEfET7peW2UBpkXt7uxY) |
 | 2026-03-18 23:09 | 🔴 sell | RUSH | `2w85VLX4W4qm...` | 0.192 | 0.4x | stop_loss | [tx](https://solscan.io/tx/22uL1Qv5btwgzfEzCCCt6ZMHMdr8H6aXqyKoGUQqcPrbQXiu2T9DwDwBdrDobpCoeWxjKx7s2wCMEGvejfGi3JgA) |
 | 2026-03-18 23:08 | 🔴 sell | MK1 | `5n593DWQkpfF...` | 0.198 | 0.4x | stop_loss | [tx](https://solscan.io/tx/244rWG6ESSztzLd9YEnE3Zu1X7meoy8ZDD19SagD95xzpmDJzZQziMZwf7RtPhgYzXELBahbT4QmghMxXmGNoUZY) |
 | 2026-03-18 23:03 | 🟢 buy | GNORTS | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5nJpa9pVBZ63abudZKNpiyavky8nD2oogAUejdSFcwoH1ws8WLFZVNFuZZLFEpjEjysDGM9Z3xMSi99SgStKHQob) |
