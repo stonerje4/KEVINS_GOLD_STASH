@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 07:10 UTC** | 7d | 119 buys, 91 sells | In: **23.35** | Out: **16.25** | Net: **-7.10 SOL**
+> Updated: **2026-03-18 07:15 UTC** | 7d | 121 buys, 91 sells | In: **23.85** | Out: **16.25** | Net: **-7.60 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 07:12 | 🟢 BUY | FOR | 0.2500 | r9pFHjFe... | copy | `2grAom3zZqAb...` |
+| 03-18 | 07:12 | 🟢 BUY | copycat | 0.2500 | 5n593DWQ... | copy | `2yTr3AWFSH2E...` |
 | 03-18 | 07:07 | 🔴 SELL | ALTRUISTS | 0.1234 | DDApL88z... | stale | `3YqEq4Mt6VbV...` |
 | 03-18 | 07:07 | 🔴 SELL | L4DC | 0.1835 | r9pFHjFe... | stale | `2FERVZGN63r6...` |
 | 03-18 | 07:05 | 💰 SELL | Atlas | 0.1889 | DDApL88z... | TP2 | `4kwPsH8bh5f4...` |

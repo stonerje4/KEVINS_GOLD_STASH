@@ -1,14 +1,14 @@
 # [TEST] `3VHz3MhvcbdxceVs...`
-> 2026-03-18 07:10 UTC | **4** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 4 open
+> 2026-03-18 07:15 UTC | **4** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| TRAITOR | 03-18 06:53 | 0.95x | 1.00x | 0.3h | 0.0001 |
-| tomorrow | 03-18 03:51 | 0.87x | 1.20x | 3.3h | 0.0001 |
-| Conviction | 03-18 01:58 | 0.76x | 1.00x | 5.2h | 0.0001 |
-| MiroFish | 03-18 01:33 | 0.82x | 1.01x | 5.6h | 0.0001 |
+| TRAITOR | 03-18 06:53 | 0.95x | 1.00x | 0.4h | 0.0001 |
+| tomorrow | 03-18 03:51 | 0.87x | 1.20x | 3.4h | 0.0001 |
+| Conviction | 03-18 01:58 | 0.75x | 1.00x | 5.3h | 0.0001 |
+| MiroFish | 03-18 01:33 | 0.82x | 1.01x | 5.7h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
