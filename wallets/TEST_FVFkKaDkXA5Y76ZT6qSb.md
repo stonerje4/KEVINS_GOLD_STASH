@@ -1,11 +1,11 @@
 # [TEST] `FVFkKaDkXA5Y76ZT...`
-> 2026-03-18 15:35 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 15:40 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| AFRO | 03-18 04:13 | 0.41x | 1.92x | 11.4h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ AFRO | -0.0001 | 03-18 04:13 | 1.9x | 03-18 15:38 | 0.0000/0.0001 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
