@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 02:05 UTC** | 7d | 79 buys, 22 sells | In: **13.35** | Out: **1.78** | Net: **-11.57 SOL**
+> Updated: **2026-03-18 02:10 UTC** | 7d | 79 buys, 26 sells | In: **13.35** | Out: **2.23** | Net: **-11.12 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 02:07 | 🔴 SELL | ASTER | 0.1204 | BGGJhxGX... | stale | `54fcKFmD7TP2...` |
+| 03-18 | 02:06 | 🔴 SELL | ACA | 0.1107 | BGGJhxGX... | stale | `5fojLZDseuGH...` |
+| 03-18 | 02:06 | 🔴 SELL | Alon | 0.0943 | 42nQHDpy... | stale | `46XXgNyH8sKw...` |
+| 03-18 | 02:06 | 💰 SELL | Ethan | 0.1281 | 6raSuhfi... | TP1 | `3Qsob9BRUAeu...` |
 | 03-18 | 01:53 | 🔴 SELL | L4DC | 0.1931 | r9pFHjFe... | trail | `47Hz2RVCHQ8i...` |
 | 03-18 | 01:52 | 🟢 BUY | BBX | 0.2500 | DHfshpzo... | copy | `3Fqm2U6cJ84h...` |
 | 03-18 | 01:46 | 🔴 SELL | CLAWXIOM | 0.0589 | 42nQHDpy... | SL | `66bQugmTsdJD...` |
