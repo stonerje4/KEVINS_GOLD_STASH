@@ -1,8 +1,9 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 01:13 UTC** | 7d | 1844 buys, 2823 sells | In: **0.52** | Out: **0.32** | Net: **-0.20 SOL**
+> Updated: **2026-03-18 01:15 UTC** | 7d | 1845 buys, 2823 sells | In: **0.52** | Out: **0.32** | Net: **-0.20 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 01:13 | 🟢 BUY | 职位 | 0.0001 | Be6s18aT... | copy_buy | `51m5NR5eP5Yr...` |
 | 03-18 | 01:13 | 🔴 SELL | GOKINJO | 0.0000 | GEHrGJ3B... | trail | `2vcw1F4SBeMp...` |
 | 03-18 | 01:12 | 🔴 SELL | commotitty | 0.0000 | BZmxuXQ6... | SL | `4w5VnjNHu9g9...` |
 | 03-18 | 01:12 | 🔴 SELL | SENEGAL | 0.0000 | BA1mTpNq... | SL | `3zGJ2NL2tsik...` |

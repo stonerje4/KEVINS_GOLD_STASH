@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 01:13 UTC** | 7d | 73 buys, 17 sells | In: **11.85** | Out: **1.24** | Net: **-10.61 SOL**
+> Updated: **2026-03-18 01:15 UTC** | 7d | 73 buys, 19 sells | In: **11.85** | Out: **1.43** | Net: **-10.42 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 01:14 | 🔴 SELL | Land | 0.0961 | DDApL88z... | SL | `2m9dzznehZ6J...` |
+| 03-18 | 01:14 | 🔴 SELL | WRT | 0.0938 | r9pFHjFe... | SL | `734kfGJ1sYNb...` |
 | 03-18 | 01:04 | 🟢 BUY | Nanami | 0.2500 | J5jm7BnB... | copy | `5QRmp82nu1yH...` |
 | 03-18 | 01:00 | 🟢 BUY | Land | 0.2500 | DDApL88z... | copy | `4cKrX2DDC91h...` |
 | 03-18 | 00:49 | 🟢 BUY | WRT | 0.2500 | r9pFHjFe... | copy | `4sCFpZkzp2Nb...` |
