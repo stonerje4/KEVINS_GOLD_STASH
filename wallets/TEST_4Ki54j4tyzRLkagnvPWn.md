@@ -1,5 +1,11 @@
 # [TEST] `4Ki54j4tyzRLkagn...`
-> 2026-03-18 15:30 UTC | **13** pos | **0W/13L** | P&L: **-0.001300 SOL** (-100.0%) | 0 open
+> 2026-03-18 15:35 UTC | **14** pos | **0W/13L** | P&L: **-0.001300 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| After stri | 03-18 15:32 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -23,6 +29,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 15:32 | After stri | BUY | 0.0001 | `2Ehghi4W219B7d5V...` |
 | 03-18 08:25 | Pac | BUY | 0.0001 | `3FuJCjgLzXWSniUY...` |
 | 03-18 08:08 | WATER | BUY | 0.0001 | `57WMgaCbvRLsj9PX...` |
 | 03-18 07:45 | MAYHEM | BUY | 0.0001 | `zJjnG2wyzKrqumEA...` |
