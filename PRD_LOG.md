@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 11:45 UTC** | 7d | 145 buys, 124 sells | In: **29.85** | Out: **26.97** | Net: **-2.88 SOL**
+> Updated: **2026-03-18 11:50 UTC** | 7d | 145 buys, 125 sells | In: **29.85** | Out: **27.10** | Net: **-2.75 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:47 | 💰 SELL | TGR | 0.1337 | r9pFHjFe... | TP1 | `3svuaL28Azsv...` |
 | 03-18 | 11:36 | 💰 SELL | TGR | 0.1959 | DHfshpzo... | TP2 | `QdvkPZPTQpFn...` |
 | 03-18 | 11:32 | 🟢 BUY | MCSOL | 0.2500 | 6raSuhfi... | copy | `2zw2rkDHYHdJ...` |
 | 03-18 | 11:32 | 🔴 SELL | SOLARI | 0.0986 | 2w85VLX4... | SL | `52y2umoFQ8Qa...` |

@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 11:45 UTC** | 7d | 394 buys, 718 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 11:50 UTC** | 7d | 395 buys, 723 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:49 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `qMnfcmUbS2uB...` |
+| 03-18 | 11:48 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2GprEci3MynY...` |
+| 03-18 | 11:47 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3Yxp1hv9YQ7n...` |
+| 03-18 | 11:46 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `yrRMBGNB7zng...` |
+| 03-18 | 11:45 | 🟢 BUY | EU Inc. | 0.0001 | BBBByrLH... | copy_buy | `53ikAqxVNfYm...` |
+| 03-18 | 11:45 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `55gLKLeUbdHh...` |
 | 03-18 | 11:44 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `L92jgFE2fTZU...` |
 | 03-18 | 11:44 | 🟢 BUY | GOOSE | 0.0001 | GHy1P6vJ... | copy_buy | `4guUV9N3k4rD...` |
 | 03-18 | 11:44 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5x3x99aEqn8Y...` |
