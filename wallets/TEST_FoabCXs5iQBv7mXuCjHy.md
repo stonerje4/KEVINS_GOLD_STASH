@@ -1,5 +1,13 @@
 # [TEST] `FoabCXs5iQBv7mXu...`
-> 2026-03-18 05:35 UTC | **5** pos | **0W/5L** | P&L: **-0.000500 SOL** (-100.0%) | 0 open
+> 2026-03-18 05:40 UTC | **8** pos | **0W/5L** | P&L: **-0.000500 SOL** (-100.0%) | 3 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Trumpjoui | 03-18 05:39 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| Max | 03-18 05:38 | 0.99x | 1.00x | 0.0h | 0.0001 |
+| $HMINE | 03-18 05:38 | 0.98x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -15,6 +23,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 05:39 | Trumpjoui | BUY | 0.0001 | `2Hr7cWh2owhitcf2...` |
+| 03-18 05:38 | Max | BUY | 0.0001 | `3U6DeR4T74CZjmkY...` |
+| 03-18 05:38 | $HMINE | BUY | 0.0001 | `45RVAroLKEDEvo6A...` |
 | 03-18 04:04 | Lucia | BUY | 0.0001 | `4h8ohuXzJM8sJYbm...` |
 | 03-18 04:01 | UHY | BUY | 0.0001 | `pKzTfDb3mVuzWBWv...` |
 | 03-18 03:57 | Max | BUY | 0.0001 | `46pkQW7AchbRsenD...` |
