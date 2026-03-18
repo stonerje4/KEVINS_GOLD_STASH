@@ -1,11 +1,12 @@
 # [TEST] `APUYxGfKmJL7dJbv...`
-> 2026-03-18 13:35 UTC | **8** pos | **0W/7L** | P&L: **-0.000700 SOL** (-100.0%) | 1 open
+> 2026-03-18 13:40 UTC | **9** pos | **0W/7L** | P&L: **-0.000700 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Mia | 03-18 11:20 | 0.49x | 1.36x | 2.2h | 0.0001 |
+| S&P500 | 03-18 13:35 | 0.00x | 1.00x | 0.1h | 0.0001 |
+| Mia | 03-18 11:20 | 0.46x | 1.36x | 2.3h | 0.0001 |
 
 ## Closed
 
@@ -23,6 +24,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 13:35 | S&P500 | BUY | 0.0001 | `2G1B18RzYjKNFUtu...` |
 | 03-18 11:27 | Staring Cat | BUY | 0.0001 | `5QYhdTkFPuja3SXe...` |
 | 03-18 11:25 | Max | BUY | 0.0001 | `4i1jyxC7SioyARMZ...` |
 | 03-18 11:22 | Rodney | BUY | 0.0001 | `FeySvoBwDdFMe7rf...` |
