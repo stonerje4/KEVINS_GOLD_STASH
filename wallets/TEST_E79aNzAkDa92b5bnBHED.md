@@ -1,11 +1,11 @@
 # [TEST] `E79aNzAkDa92b5bn...`
-> 2026-03-18 14:55 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 15:00 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| GROKTRADER | 03-18 14:49 | 1.38x | 1.38x | 0.1h | 0.0001 |
+| GROKTRADER | 03-18 14:49 | 1.79x | 1.86x | 0.2h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
