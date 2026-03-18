@@ -1,11 +1,11 @@
 # [TEST] `9tv5mfwaQVsJQ6xg...`
-> 2026-03-18 16:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 16:35 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| ALIENS | 03-18 16:27 | 1.92x | 1.92x | 0.0h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ ALIENS | -0.0001 | 03-18 16:27 | 3.2x | 03-18 16:33 | 0.0000/0.0001 | gc_tp_2x_half |
 
 <details><summary>📋 Full Trade Log</summary>
 

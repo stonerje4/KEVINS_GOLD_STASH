@@ -1,8 +1,23 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 16:30 UTC** | 7d | 572 buys, 1303 sells | In: **0.06** | Out: **0.00** | Net: **-0.06 SOL**
+> Updated: **2026-03-18 16:35 UTC** | 7d | 575 buys, 1315 sells | In: **0.06** | Out: **0.00** | Net: **-0.06 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 16:34 | 🟢 BUY | DECEPTIVE | 0.0001 | 51Ui3ZD4... | copy_buy | `3ce3AkDVUES2...` |
+| 03-18 | 16:34 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5mkyvemqPft6...` |
+| 03-18 | 16:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5ZeMx5nHg28H...` |
+| 03-18 | 16:34 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `2au1xdHdTmAN...` |
+| 03-18 | 16:33 | 🟢 BUY | ALGO | 0.0001 | 35RArQiy... | copy_buy | `4wLtZjFmm3Sw...` |
+| 03-18 | 16:32 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4AYaUZeAURF3...` |
+| 03-18 | 16:32 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5ffQKznmdyw5...` |
+| 03-18 | 16:32 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `5u5agiK1XCYm...` |
+| 03-18 | 16:31 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3EFLG8TMzMm8...` |
+| 03-18 | 16:31 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `AeqqyFUjH222...` |
+| 03-18 | 16:31 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `nwe6XLLWivHD...` |
+| 03-18 | 16:30 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5tWU4259FZnr...` |
+| 03-18 | 16:30 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2trSFqWatrjn...` |
+| 03-18 | 16:30 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `2Y1mVFYsAJRJ...` |
+| 03-18 | 16:30 | 🟢 BUY | MEI | 0.0001 | FWQ3sv51... | copy_buy | `3dDnYv73DWjm...` |
 | 03-18 | 16:29 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4JzHdD85j3ny...` |
 | 03-18 | 16:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2utejeVHcd77...` |
 | 03-18 | 16:29 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4xLaMuoQnqZw...` |
