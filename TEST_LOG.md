@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 11:15 UTC** | 7d | 378 buys, 682 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 11:20 UTC** | 7d | 380 buys, 688 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5bTY4kSySUp5...` |
+| 03-18 | 11:19 | 🟢 BUY | Lion | 0.0001 | APUYxGfK... | copy_buy | `2Tdjk6NubDdg...` |
+| 03-18 | 11:18 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4ZKwvQWAF44n...` |
+| 03-18 | 11:17 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `FBALox7njdcv...` |
+| 03-18 | 11:16 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3ZUjT65UTjHy...` |
+| 03-18 | 11:15 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3HPkMV87GNpJ...` |
+| 03-18 | 11:15 | 🟢 BUY | CAKEZ77 | 0.0001 | AJ8Gc1cY... | copy_buy | `3onKtJP7etsz...` |
+| 03-18 | 11:15 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3DayoC2XunEx...` |
 | 03-18 | 11:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2LdsWmi5vduR...` |
 | 03-18 | 11:13 | 🟢 BUY | OILPUNCH | 0.0001 | 6E4897rJ... | copy_buy | `5EjYBa7wCZSf...` |
 | 03-18 | 11:13 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3y9cSbkMWN9d...` |
