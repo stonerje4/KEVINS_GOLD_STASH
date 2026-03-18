@@ -1,5 +1,11 @@
 # [TEST] `9G4ytadk761g5DMx...`
-> 2026-03-18 01:35 UTC | **3** pos | **0W/3L** | P&L: **-0.000300 SOL** (-100.0%) | 0 open
+> 2026-03-18 01:40 UTC | **4** pos | **0W/3L** | P&L: **-0.000300 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Collector | 03-18 01:39 | 1.12x | 1.12x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 01:39 | Collector | BUY | 0.0001 | `4qJcwFmeot5mBsxJ...` |
 | 03-18 01:25 | ENTHUSIAST | BUY | 0.0001 | `4SN1AvPHmmTSXHzd...` |
 | 03-18 01:23 | cat#001 | BUY | 0.0001 | `H2yzexQ1ucPebYdi...` |
 | 03-18 01:20 | dog#001 | BUY | 0.0001 | `5oR5DYdFYKG5iFKj...` |

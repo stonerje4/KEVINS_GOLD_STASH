@@ -1,12 +1,17 @@
 # [TEST] `35RArQiyVX4sh8ij...`
-> 2026-03-18 01:35 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 01:40 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| cat#002 | 03-18 01:31 | 1.55x | 1.55x | 0.1h | 0.0001 |
-| POKEDEX | 03-18 01:24 | 1.15x | 1.15x | 0.2h | 0.0001 |
+| POKEDEX | 03-18 01:24 | 1.10x | 1.15x | 0.3h | 0.0001 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ cat#002 | -0.0001 | 03-18 01:31 | 2.0x | 03-18 01:37 | 0.0000/0.0001 | gc_tp_2x_half |
 
 <details><summary>📋 Full Trade Log</summary>
 
