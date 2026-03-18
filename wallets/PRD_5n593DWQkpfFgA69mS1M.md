@@ -1,11 +1,12 @@
 # [PRD] `5n593DWQkpfFgA69...`
-> 2026-03-18 05:10 UTC | **3** pos | **0W/2L** | P&L: **-0.179988 SOL** (-60.0%) | 1 open
+> 2026-03-18 05:15 UTC | **4** pos | **0W/2L** | P&L: **-0.179988 SOL** (-60.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Einstein | 03-17 22:11 | 0.00x | 1.00x | 7.0h | 0.1500 |
+| McCasland | 03-18 05:13 | 0.00x | 1.00x | 0.0h | 0.2500 |
+| Einstein | 03-17 22:11 | 0.00x | 1.00x | 7.1h | 0.1500 |
 
 ## Closed
 
@@ -18,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 05:13 | McCasland | BUY | 0.2500 | `4v39nmNGzRaZKsTp...` |
 | 03-18 05:07 | RAVEN | SELL | 0.0667 | `275oyKhAJZEdB1rm...` |
 | 03-18 04:53 | MATER | SELL | 0.0000 | `?` |
 | 03-17 22:11 | Einstein | BUY | 0.1500 | `3t4amhiRrVJLJEyW...` |
