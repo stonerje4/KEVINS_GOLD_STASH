@@ -1,8 +1,23 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 13:10 UTC** | 7d | 428 buys, 841 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 13:15 UTC** | 7d | 433 buys, 851 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 13:14 | 🟢 BUY | Rosei | 0.0001 | GtgyEyvR... | copy_buy | `9WRuPREsMA1K...` |
+| 03-18 | 13:14 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5h6K9fFKDdUm...` |
+| 03-18 | 13:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `MkvwMA7LC1ak...` |
+| 03-18 | 13:13 | 🟢 BUY | IFR | 0.0001 | EaEf6TH8... | copy_buy | `5XSsrPCd7fBw...` |
+| 03-18 | 13:13 | 🟢 BUY | ClawRouter | 0.0001 | EaEf6TH8... | copy_buy | `4utQaDFeTKP7...` |
+| 03-18 | 13:13 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3oFw95RjCzsK...` |
+| 03-18 | 13:13 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4AHxxdHb5cdG...` |
+| 03-18 | 13:13 | 🟢 BUY | BLONDIE | 0.0001 | Ckm6DF7m... | copy_buy | `48hLXpTWSxso...` |
+| 03-18 | 13:12 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2VU41G97RJWf...` |
+| 03-18 | 13:12 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `HhnGuoonJ1Ky...` |
+| 03-18 | 13:11 | 🟢 BUY | Trenchies | 0.0001 | BBBByrLH... | copy_buy | `5xFKA2H7LLRi...` |
+| 03-18 | 13:11 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5b9NMzmUM1nA...` |
+| 03-18 | 13:11 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5kedAd7eZ9a8...` |
+| 03-18 | 13:10 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `36M3xQqWbbi6...` |
+| 03-18 | 13:09 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5xZZYhGjuM1y...` |
 | 03-18 | 13:09 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `548mFXraH1Ks...` |
 | 03-18 | 13:09 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5JA7q5DmCxqu...` |
 | 03-18 | 13:08 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2ps3drNsRhuD...` |
