@@ -1,5 +1,11 @@
 # [TEST] `4VMJxCLfp5oFf8pE...`
-> 2026-03-18 06:05 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
+> 2026-03-18 06:10 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| GANYMEDE | 03-18 06:08 | 0.97x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 06:08 | GANYMEDE | BUY | 0.0001 | `4d8rtbFutKr6T16p...` |
 | 03-18 03:37 | Thinker | BUY | 0.0001 | `5TdEJQAWtfpDBPwz...` |
 
 </details>

@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 06:05 UTC** | 7d | 197 buys, 268 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 06:10 UTC** | 7d | 200 buys, 275 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 06:09 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `28jqai4XEEJo...` |
+| 03-18 | 06:08 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5pGgZANkh9m5...` |
+| 03-18 | 06:08 | 🟢 BUY | GANYMEDE | 0.0001 | 4VMJxCLf... | copy_buy | `4d8rtbFutKr6...` |
+| 03-18 | 06:08 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4p9L5kfmBZ8M...` |
+| 03-18 | 06:07 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3anEtJnENkVc...` |
+| 03-18 | 06:06 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2du71cxU2BYs...` |
+| 03-18 | 06:06 | 🟢 BUY | KIKO | 0.0001 | 7cA6GmNF... | copy_buy | `21hY9Tkbdj6H...` |
+| 03-18 | 06:06 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4NNmdbwgoZ1S...` |
+| 03-18 | 06:05 | 🟢 BUY | UBT | 0.0001 | GHy1P6vJ... | copy_buy | `562f2X3MSssb...` |
+| 03-18 | 06:05 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4UNe8zv9WvYr...` |
 | 03-18 | 06:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2mxFWu2ewmVV...` |
 | 03-18 | 06:04 | 🟢 BUY | Terafab | 0.0001 | 6raSuhfi... | copy_buy | `2848VvbccewU...` |
 | 03-18 | 06:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `nJgnZ4KGPEPA...` |

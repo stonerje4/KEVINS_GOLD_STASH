@@ -1,12 +1,12 @@
 # [TEST] `GvksYkESkCqUocDf...`
-> 2026-03-18 06:05 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 06:10 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BOE | 03-18 02:53 | 1.11x | 1.11x | 3.2h | 0.0001 |
-| MINDLESS | 03-18 02:21 | 1.73x | 1.73x | 3.7h | 0.0001 |
+| BOE | 03-18 02:53 | 1.14x | 1.14x | 3.3h | 0.0001 |
+| MINDLESS | 03-18 02:21 | 1.82x | 1.82x | 3.8h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
