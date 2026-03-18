@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 02:25 UTC** | 7d | 71 buys, 0 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 02:30 UTC** | 7d | 76 buys, 1 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 02:29 | 🟢 BUY | SEC | 0.0001 | Lfw99jsE... | copy_buy | `2FEWjtNRGTzm...` |
+| 03-18 | 02:28 | 🟢 BUY | DUCK | 0.0001 | GEHrGJ3B... | copy_buy | `4zsivhRnQ1Pq...` |
+| 03-18 | 02:26 | 🟢 BUY | cat#002 | 0.0001 | 44yBNPRV... | copy_buy | `5zq6WRyFYABY...` |
+| 03-18 | 02:26 | 🟢 BUY | DECEL | 0.0001 | Be6s18aT... | copy_buy | `42sTqvxdNm1N...` |
+| 03-18 | 02:25 | 💰 SELL | USOS | 0.0001 | EaEf6TH8... | TP1 | `5TFogAGJ4aEv...` |
+| 03-18 | 02:25 | 🟢 BUY | 钻石手pepe | 0.0001 | 6raSuhfi... | copy_buy | `5nDeAHiHpikr...` |
 | 03-18 | 02:24 | 🟢 BUY | FLAG | 0.0001 | U3jiDzTc... | copy_buy | `3VexFKRgakLQ...` |
 | 03-18 | 02:24 | 🟢 BUY | Doge#069 | 0.0001 | Lfw99jsE... | copy_buy | `SiFWxm3NKCj7...` |
 | 03-18 | 02:23 | 🟢 BUY | SEC | 0.0001 | BBBByrLH... | copy_buy | `4uAo2XrFHKsQ...` |
