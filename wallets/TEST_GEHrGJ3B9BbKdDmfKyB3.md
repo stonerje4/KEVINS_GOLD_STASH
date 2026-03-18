@@ -1,12 +1,12 @@
 # [TEST] `GEHrGJ3B9BbKdDmf...`
-> 2026-03-18 01:05 UTC | **6** pos | **0W/4L** | P&L: **-0.000229 SOL** (-57.4%) | 2 open
+> 2026-03-18 01:10 UTC | **6** pos | **0W/4L** | P&L: **-0.000229 SOL** (-57.4%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| GOKINJO | 03-17 22:48 | 0.84x | 2.85x | 2.3h | 0.0001 |
-| DEX | 03-17 14:50 | 0.70x | 1.65x | 10.2h | 0.0001 |
+| GOKINJO | 03-17 22:48 | 0.84x | 2.85x | 2.4h | 0.0001 |
+| DEX | 03-17 14:50 | 0.70x | 1.65x | 10.3h | 0.0001 |
 
 ## Closed
 
@@ -21,6 +21,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 01:08 | GOKINJO | SELL | 0.0000 | `4oHRmbN4Z52wWmQz...` |
+| 03-18 01:06 | GOKINJO | SELL | 0.0000 | `2VtdNcGTz9bwSFu6...` |
 | 03-18 01:04 | GOKINJO | SELL | 0.0000 | `4L7Aqe8SFnKa774B...` |
 | 03-18 01:02 | GOKINJO | SELL | 0.0000 | `4Z4ogpGoozaCBrAk...` |
 | 03-18 00:59 | GOKINJO | SELL | 0.0000 | `3FHq7S821DH8Xt6R...` |

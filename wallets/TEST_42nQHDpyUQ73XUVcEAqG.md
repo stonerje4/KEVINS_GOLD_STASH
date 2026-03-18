@@ -1,13 +1,13 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-18 01:05 UTC | **30** pos | **5W/22L** | P&L: **+0.001359 SOL** (+32.4%) | 3 open
+> 2026-03-18 01:10 UTC | **30** pos | **5W/22L** | P&L: **+0.001359 SOL** (+32.4%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| tusk | 03-17 19:53 | 0.67x | 2.32x | 5.2h | 0.0001 |
-| AGENTINK | 03-17 17:15 | 0.97x | 1.38x | 7.8h | 0.0001 |
-| SCANNEX | 03-17 17:04 | 1.14x | 1.26x | 8.0h | 0.0001 |
+| tusk | 03-17 19:53 | 0.67x | 2.32x | 5.3h | 0.0001 |
+| AGENTINK | 03-17 17:15 | 0.97x | 1.38x | 7.9h | 0.0001 |
+| SCANNEX | 03-17 17:04 | 1.14x | 1.26x | 8.1h | 0.0001 |
 
 ## Closed
 
@@ -45,6 +45,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 01:07 | tusk | SELL | 0.0000 | `K2EuaNAZiBGDs7BJ...` |
+| 03-18 01:05 | tusk | SELL | 0.0000 | `vb7yPNHRVFq4WGnu...` |
 | 03-18 01:03 | tusk | SELL | 0.0000 | `1zr4gy2ziyEtnKkY...` |
 | 03-18 01:01 | tusk | SELL | 0.0000 | `3Cbhm84NDw9bUKRf...` |
 | 03-18 00:58 | tusk | SELL | 0.0000 | `5FLMd7VyNxFWVxMV...` |

@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 01:05 UTC** | 7d | 759 buys, 997 sells | In: **96.68** | Out: **88.09** | Net: **-8.59 SOL**
+> Updated: **2026-03-18 01:10 UTC** | 7d | 757 buys, 1000 sells | In: **96.58** | Out: **88.53** | Net: **-8.05 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 01:06 | 🔴 SELL | BOE | 0.0921 | CZjxED3u... | stale | `5nZ6JKzYUPbM...` |
+| 03-18 | 01:06 | 🔴 SELL | BBX | 0.1457 | r9pFHjFe... | stale | `4Qk2XoaCpCnE...` |
+| 03-18 | 01:06 | 🔴 SELL | STOP | 0.1262 | AcWGZE1Q... | stale | `2hmShRxzeBDi...` |
+| 03-18 | 01:05 | 💰 SELL | EA | 0.1223 | 5n593DWQ... | TP4 | `3n2v6fUnpoDu...` |
 | 03-18 | 01:04 | 🟢 BUY | Nanami | 0.2500 | J5jm7BnB... | copy | `5QRmp82nu1yH...` |
 | 03-18 | 01:00 | 🟢 BUY | Land | 0.2500 | DDApL88z... | copy | `4cKrX2DDC91h...` |
 | 03-18 | 00:58 | 💰 SELL | EA | 0.0837 | 5n593DWQ... | TP3 | `3Snpg4yHyYuo...` |
@@ -1756,6 +1760,3 @@
 | 03-11 | 01:22 | 🟢 BUY | Tardven | 0.0500 | DHfshpzo... | copy | `54J6VXQxGwEt...` |
 | 03-11 | 01:21 | 🟢 BUY | Fruits | 0.0500 | HMM6RoT2... | copy | `4JHsiEqCQYRD...` |
 | 03-11 | 01:10 | 💰 SELL | AuPair | 0.0380 | HMM6RoT2... | TP4 | `5WB5wQ3VqFMn...` |
-| 03-11 | 01:09 | 🟢 BUY | JEW | 0.0500 | DHfshpzo... | copy | `61GuQJjSGuR6...` |
-| 03-11 | 01:09 | 🟢 BUY | Spaghetti | 0.0500 | EJEyPiUf... | copy | `4eA2JHRzWYp2...` |
-| 03-11 | 01:06 | 💰 SELL | Monk | 0.0457 | 9rb2ChEj... | tp_8x_trim | `3A5Y2hc5tfJh...` |
