@@ -1,12 +1,12 @@
 # [TEST] `87nWQxQvYvnijGKA...`
-> 2026-03-18 03:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 04:00 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | WRT | 03-18 03:45 | 0.94x | 1.09x | 0.2h | 0.0001 |
-| TGR | 03-18 02:37 | 1.24x | 1.32x | 1.3h | 0.0001 |
+| TGR | 03-18 02:37 | 1.64x | 1.71x | 1.4h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
