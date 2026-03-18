@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 22:59 UTC*
+*Last updated: 2026-03-18 23:00 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 22:59 | 🟢 buy | Catrot | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4vdxhk1NkwvyH4G7cJp97huf6GqxMKWuaB8U2SKWzufqJom8hTR6V2NJ5j7PoAQa4xxXMfXuZENwpjhDCUszBRJo) |
 | 2026-03-18 22:58 | 🔴 sell | SWMR | `6raSuhfig5Y1...` | 0.272 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/kKszHocVSo9k5BcYTjo6gTGNL1LPNfSq8iVbgrMzghUCvYuUPPW6hPdGV3KTubmNrveEtU1qG1CB6jp9cjPrZ3A) |
 | 2026-03-18 22:46 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.702 | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/4AKxXsWafNjJsLyHoRi4nnhCZB2JqV1eZgRwPVitT1tuwGnje4nRqx1KdzvTpbu6ZYwgrSXWi4qEE4jVAc8MHdGv) |
 | 2026-03-18 22:32 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.396 | 3.2x | tp_3x_trim | [tx](https://solscan.io/tx/5hAeYzM4sDSfJ5NVb33R73Xi8ro7FBbMatpiMV7wQoVBCqC1RdPFAna79xkhJedRjkDNeN2r24pRnJynyEw58sjV) |
