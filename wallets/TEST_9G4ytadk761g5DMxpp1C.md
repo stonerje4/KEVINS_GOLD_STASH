@@ -1,11 +1,12 @@
 # [TEST] `9G4ytadk761g5DMx...`
-> 2026-03-18 09:55 UTC | **7** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 1 open
+> 2026-03-18 10:00 UTC | **8** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| LIGANDAL | 03-18 06:34 | 0.76x | 1.00x | 3.3h | 0.0001 |
+| ALXCOOKS | 03-18 09:55 | 0.60x | 1.23x | 0.1h | 0.0001 |
+| LIGANDAL | 03-18 06:34 | 0.76x | 1.00x | 3.4h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +23,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 09:55 | ALXCOOKS | BUY | 0.0001 | `2ftG8WbTxNyo3ihN...` |
 | 03-18 06:35 | Garlic | BUY | 0.0001 | `3hFRcsStHMGz4EEo...` |
 | 03-18 06:34 | LIGANDAL | BUY | 0.0001 | `2isLXmEdNYkw44DF...` |
 | 03-18 01:41 | Pepe#003 | BUY | 0.0001 | `4g66kHZMsXGzzmFG...` |
