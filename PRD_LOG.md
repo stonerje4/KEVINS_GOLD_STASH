@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 00:05 UTC** | 7d | 752 buys, 997 sells | In: **94.53** | Out: **87.56** | Net: **-6.97 SOL**
+> Updated: **2026-03-18 00:10 UTC** | 7d | 752 buys, 998 sells | In: **94.53** | Out: **87.74** | Net: **-6.79 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 00:08 | 🔴 SELL | thinker | 0.0555 | J5jm7BnB... | SL | `JmuwZi7yvCav...` |
+| 03-18 | 00:06 | 🔴 SELL | Atlas | 0.1059 | DDApL88z... | stale | `3koeGH1d8xbt...` |
+| 03-18 | 00:06 | 🔴 SELL | BARREL100 | 0.1177 | BGGJhxGX... | stale | `3x8QCH9YjmpX...` |
 | 03-17 | 23:49 | 💰 SELL | Thinker | 0.1162 | J5jm7BnB... | TP2 | `4t2oJGN52XyV...` |
 | 03-17 | 23:36 | 💰 SELL | ACTIII | 0.1160 | E79aNzAk... | TP2 | `52HYH46RA4JQ...` |
 | 03-17 | 23:20 | 💰 SELL | Daisy | 0.1257 | 5n593DWQ... | TP2 | `2ncu7ufdG15B...` |
@@ -1750,5 +1753,3 @@
 | 03-11 | 00:36 | 💰 SELL | Monk | 0.0664 | 9rb2ChEj... | TP1 | `4hTpjCXvaMNf...` |
 | 03-11 | 00:20 | 🔴 SELL | Teacat | 0.0232 | 8QfqdUJt... | SL | `4V3N1d9hhydL...` |
 | 03-11 | 00:17 | 💰 SELL | UXR | 0.0503 | 5vweNikg... | TP1 | `42uBSDb1RZFr...` |
-| 03-11 | 00:08 | 💰 SELL | AuPair | 0.0513 | HMM6RoT2... | TP3 | `9WiDSypFZqbH...` |
-| 03-11 | 00:06 | 💰 SELL | TrashDay | 0.0513 | BZWzvFQr... | TP1 | `5sGnaQARxY2p...` |
