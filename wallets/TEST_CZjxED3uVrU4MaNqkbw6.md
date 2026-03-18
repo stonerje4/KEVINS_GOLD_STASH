@@ -1,11 +1,12 @@
 # [TEST] `CZjxED3uVrU4MaNq...`
-> 2026-03-18 13:05 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+> 2026-03-18 13:10 UTC | **3** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| PATRIOT | 03-18 03:29 | 1.76x | 1.81x | 9.6h | 0.0001 |
+| Cloge | 03-18 13:06 | 0.91x | 1.00x | 0.1h | 0.0001 |
+| PATRIOT | 03-18 03:29 | 1.51x | 1.81x | 9.7h | 0.0001 |
 
 ## Closed
 
@@ -17,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 13:06 | Cloge | BUY | 0.0001 | `3vycAaZ3o3PHXwBU...` |
 | 03-18 12:07 | e-fart | BUY | 0.0001 | `2JLf3kWoCLm9pE89...` |
 | 03-18 03:29 | PATRIOT | BUY | 0.0001 | `4xF2kyh1HMAHTuJq...` |
 

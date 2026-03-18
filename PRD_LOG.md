@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 13:05 UTC** | 7d | 146 buys, 131 sells | In: **30.10** | Out: **28.13** | Net: **-1.97 SOL**
+> Updated: **2026-03-18 13:10 UTC** | 7d | 146 buys, 135 sells | In: **30.10** | Out: **28.64** | Net: **-1.46 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 13:07 | 🔴 SELL | ? | 0.1222 | 5n593DWQ... | stale | `2wp25Pigsm8G...` |
+| 03-18 | 13:07 | 🔴 SELL | McCasland | 0.1238 | 5n593DWQ... | stale | `5S3dTzAMPdZS...` |
+| 03-18 | 13:07 | 🔴 SELL | NWR | 0.1343 | BGGJhxGX... | stale | `3u1esYyaoyVf...` |
+| 03-18 | 13:07 | 🔴 SELL | FOR | 0.1317 | r9pFHjFe... | stale | `jrP1KgqdpkdT...` |
 | 03-18 | 12:48 | 🔴 SELL | copycat | 0.0978 | 5n593DWQ... | SL | `2b7n8m3W4fJk...` |
 | 03-18 | 12:22 | 💰 SELL | ? | 0.2162 | BGGJhxGX... | trail | `54VFuCXah9TS...` |
 | 03-18 | 12:19 | 🟢 BUY | FLiQ | 0.2500 | r9pFHjFe... | copy | `4QicwqbCJcda...` |
