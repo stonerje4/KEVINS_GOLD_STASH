@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 11:00 UTC** | 7d | 140 buys, 115 sells | In: **28.60** | Out: **25.55** | Net: **-3.05 SOL**
+> Updated: **2026-03-18 11:05 UTC** | 7d | 141 buys, 115 sells | In: **28.85** | Out: **25.55** | Net: **-3.30 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:04 | 🟢 BUY | Imposter | 0.2500 | 2w85VLX4... | copy | `2BK6T6iauMqD...` |
 | 03-18 | 10:58 | 🔴 SELL | Corbin | 0.0984 | 2w85VLX4... | SL | `t4VJZFet3a1m...` |
 | 03-18 | 10:53 | 💰 SELL | giraffe | 0.2123 | 2w85VLX4... | TP2 | `95RmsyWBUE53...` |
 | 03-18 | 10:53 | 🟢 BUY | Corbin | 0.2500 | 2w85VLX4... | copy | `3fnst1bekCKp...` |
