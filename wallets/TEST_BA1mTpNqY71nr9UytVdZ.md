@@ -1,12 +1,12 @@
 # [TEST] `BA1mTpNqY71nr9Uy...`
-> 2026-03-18 00:10 UTC | **8** pos | **0W/6L** | P&L: **-0.001173 SOL** (-45.1%) | 2 open
+> 2026-03-18 00:15 UTC | **8** pos | **0W/6L** | P&L: **-0.001173 SOL** (-45.1%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | SENEGAL | 03-17 22:42 | 0.32x | 1.56x | 1.5h | 0.0001 |
-| VULTURE | 03-17 20:44 | 0.67x | 1.32x | 3.4h | 0.0001 |
+| VULTURE | 03-17 20:44 | 0.67x | 1.32x | 3.5h | 0.0001 |
 
 ## Closed
 
@@ -23,6 +23,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:13 | SENEGAL | SELL | 0.0000 | `oSkZPHGmtf5vspg9...` |
+| 03-18 00:12 | SENEGAL | SELL | 0.0000 | `oxgbdwd9V47Lb73B...` |
+| 03-18 00:10 | SENEGAL | SELL | 0.0000 | `5JZdwA5m9g3othtw...` |
 | 03-18 00:08 | SENEGAL | SELL | 0.0000 | `2tZLsKx7LpwEL1Cc...` |
 | 03-18 00:06 | SENEGAL | SELL | 0.0000 | `2gZomcGwDFsqbfNJ...` |
 | 03-18 00:05 | SENEGAL | SELL | 0.0000 | `4dhPJVDCuQ1wBKmb...` |

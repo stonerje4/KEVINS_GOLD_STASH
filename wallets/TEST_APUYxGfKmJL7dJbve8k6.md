@@ -1,12 +1,12 @@
 # [TEST] `APUYxGfKmJL7dJbv...`
-> 2026-03-18 00:10 UTC | **57** pos | **9W/46L** | P&L: **-0.004690 SOL** (-28.4%) | 2 open
+> 2026-03-18 00:15 UTC | **57** pos | **9W/46L** | P&L: **-0.004690 SOL** (-28.4%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | POPSEAL | 03-17 21:06 | 0.76x | 1.00x | 3.1h | 0.0001 |
-| Templates | 03-17 18:50 | 0.81x | 1.00x | 5.3h | 0.0001 |
+| Templates | 03-17 18:50 | 0.81x | 1.00x | 5.4h | 0.0001 |
 
 ## Closed
 
@@ -122,9 +122,9 @@
 | 03-17 01:35 | GEEKED | BUY | 0.0001 | `pYYZvoNrXcm61Qtz...` |
 | 03-17 01:34 | ORC | BUY | 0.0001 | `5T8gGkz1t3ia3k4b...` |
 | 03-16 19:13 | SHARK | SELL | 0.0003 | `?` |
-| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
-| 03-16 19:13 | Bowhead | SELL | 0.0001 | `?` |
 | 03-16 19:13 | Nebresearch | SELL | 0.0003 | `?` |
+| 03-16 19:13 | Bowhead | SELL | 0.0001 | `?` |
+| 03-16 19:13 | jobs | SELL | 0.0001 | `?` |
 | 03-16 16:49 | clod | SELL | 0.0001 | `5VtVzAtN7e5wWbGg...` |
 | 03-16 16:49 | DICK | SELL | 0.0001 | `2uUmZf3QgrA6darB...` |
 | 03-16 16:48 | CAT | SELL | 0.0000 | `4H6NKYZcEKHRNGgG...` |
