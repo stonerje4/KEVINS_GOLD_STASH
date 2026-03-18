@@ -1,8 +1,25 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 16:35 UTC** | 7d | 575 buys, 1315 sells | In: **0.06** | Out: **0.00** | Net: **-0.06 SOL**
+> Updated: **2026-03-18 16:40 UTC** | 7d | 580 buys, 1327 sells | In: **0.06** | Out: **0.00** | Net: **-0.06 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 16:38 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `1fFKFfY3WZ3e...` |
+| 03-18 | 16:38 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Dav6AwNuekR...` |
+| 03-18 | 16:38 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `5MbiNqdQbhuB...` |
+| 03-18 | 16:38 | 🟢 BUY | WORLD | 0.0001 | GvksYkES... | copy_buy | `29vPdwwyfXSH...` |
+| 03-18 | 16:38 | 🟢 BUY | trenchies | 0.0001 | ApkQGKbq... | copy_buy | `5o9SaZ5vY2xQ...` |
+| 03-18 | 16:37 | 🟢 BUY | ROS | 0.0001 | AJ8Gc1cY... | copy_buy | `3GRBN3SDLdHS...` |
+| 03-18 | 16:37 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5JghCT1nrdUj...` |
+| 03-18 | 16:37 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3XHdNHXDb3Nm...` |
+| 03-18 | 16:37 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `FiNLgDyCgTUz...` |
+| 03-18 | 16:37 | 🟢 BUY | FIWB | 0.0001 | Gdd86j2T... | copy_buy | `5pmzYxHnmCim...` |
+| 03-18 | 16:36 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `rNGDPBnvC6eF...` |
+| 03-18 | 16:36 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3a3pS59gLwSs...` |
+| 03-18 | 16:36 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `8p9BzjVRVKBp...` |
+| 03-18 | 16:36 | 🟢 BUY | MSTR | 0.0001 | 35RArQiy... | copy_buy | `oRYge6Yv4yxy...` |
+| 03-18 | 16:35 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5cCJS9b3atGw...` |
+| 03-18 | 16:35 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `qM3DUKF9KMxG...` |
+| 03-18 | 16:35 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4PNsTxQP3qeL...` |
 | 03-18 | 16:34 | 🟢 BUY | DECEPTIVE | 0.0001 | 51Ui3ZD4... | copy_buy | `3ce3AkDVUES2...` |
 | 03-18 | 16:34 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5mkyvemqPft6...` |
 | 03-18 | 16:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5ZeMx5nHg28H...` |
