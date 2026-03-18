@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 23:40 UTC** | 7d | 43 buys, 29 sells | In: **21.50** | Out: **10.10** | Net: **-11.40 SOL**
+> Updated: **2026-03-18 23:45 UTC** | 7d | 44 buys, 30 sells | In: **22.00** | Out: **10.30** | Net: **-11.70 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 23:41 | 🔴 SELL | Catrot | 0.1942 | 6raSuhfi... | SL | `4RiPCBXfNaCc...` |
+| 03-18 | 23:41 | 🟢 BUY | Goose | 0.5000 | DDApL88z... | copy | `2NgfCJZ5trsj...` |
 | 03-18 | 23:36 | 🔴 SELL | GNORTS | 0.1959 | 6raSuhfi... | SL | `sh3AiJxPrnYr...` |
 | 03-18 | 23:16 | 🟢 BUY | TGR | 0.5000 | 5vweNikg... | copy | `25tq4H2Fau99...` |
 | 03-18 | 23:15 | 🟢 BUY | SQUIRE | 0.5000 | 5n593DWQ... | copy | `2SWzGWyHxSLL...` |

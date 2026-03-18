@@ -1,13 +1,13 @@
 # [TEST] `cqakon1K22iRvSAn...`
-> 2026-03-18 23:40 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
+> 2026-03-18 23:45 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Appolina | 03-18 22:56 | 0.68x | 1.18x | 0.7h | 0.0002 |
-| Strawberita | 03-18 22:38 | 6.59x | 7.80x | 1.0h | 0.0002 |
-| Chocolatina | 03-18 22:28 | 1.88x | 2.51x | 1.2h | 0.0002 |
+| Appolina | 03-18 22:56 | 0.63x | 1.18x | 0.8h | 0.0002 |
+| Strawberita | 03-18 22:38 | 6.60x | 7.80x | 1.1h | 0.0002 |
+| Chocolatina | 03-18 22:28 | 1.81x | 2.51x | 1.3h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
