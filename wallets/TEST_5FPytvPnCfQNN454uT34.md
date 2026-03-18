@@ -1,11 +1,11 @@
 # [TEST] `5FPytvPnCfQNN454...`
-> 2026-03-18 02:10 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 02:15 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Atlas | 03-18 01:27 | 0.49x | 1.14x | 0.7h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Atlas | -0.0001 | 03-18 01:27 | 1.1x | 03-18 02:13 | 0.0000/0.0001 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>
 

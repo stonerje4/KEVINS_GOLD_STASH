@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 02:10 UTC** | 7d | 79 buys, 26 sells | In: **13.35** | Out: **2.23** | Net: **-11.12 SOL**
+> Updated: **2026-03-18 02:15 UTC** | 7d | 79 buys, 27 sells | In: **13.35** | Out: **2.45** | Net: **-10.90 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 02:13 | 🔴 SELL | Ethan | 0.2123 | 6raSuhfi... | trail | `214Hbpojf3fj...` |
 | 03-18 | 02:07 | 🔴 SELL | ASTER | 0.1204 | BGGJhxGX... | stale | `54fcKFmD7TP2...` |
 | 03-18 | 02:06 | 🔴 SELL | ACA | 0.1107 | BGGJhxGX... | stale | `5fojLZDseuGH...` |
 | 03-18 | 02:06 | 🔴 SELL | Alon | 0.0943 | 42nQHDpy... | stale | `46XXgNyH8sKw...` |

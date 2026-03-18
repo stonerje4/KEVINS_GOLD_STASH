@@ -1,11 +1,11 @@
 # [PRD] `AF5TxaadSbpkqaxx...`
-> 2026-03-18 02:10 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 02:15 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Wump | 03-17 21:19 | 0.00x | 1.00x | 4.8h | 0.1500 |
+| Wump | 03-17 21:19 | 0.00x | 1.00x | 4.9h | 0.1500 |
 | ? | 03-17 21:18 | 0.00x | 1.00x | 4.9h | 0.1500 |
 
 <details><summary>📋 Full Trade Log</summary>
