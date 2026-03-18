@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 05:30 UTC** | 7d | 180 buys, 216 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 05:35 UTC** | 7d | 180 buys, 223 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 05:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `25NTxLBwGyys...` |
+| 03-18 | 05:33 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3EWGmjdpiTid...` |
+| 03-18 | 05:33 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3Rxo5Np8mTGe...` |
+| 03-18 | 05:32 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3mam5wfruAXb...` |
+| 03-18 | 05:31 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5NHtoBQaG9Dr...` |
+| 03-18 | 05:31 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `527aCYCKaHWQ...` |
+| 03-18 | 05:30 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3ahyBUbsAnnz...` |
 | 03-18 | 05:29 | 🟢 BUY | SB | 0.0001 | 42nQHDpy... | copy_buy | `2pZU5uNStgaq...` |
 | 03-18 | 05:29 | 🟢 BUY | EPSTEIN | 0.0001 | 42nQHDpy... | copy_buy | `2JJtFLfUMNQg...` |
 | 03-18 | 05:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2BxRaaY3HcDr...` |
