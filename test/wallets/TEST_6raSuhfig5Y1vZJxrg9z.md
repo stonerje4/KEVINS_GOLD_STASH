@@ -1,5 +1,11 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-18 23:50 UTC | **2** pos | **0W/2L** | P&L: **-0.000266 SOL** (-60.5%) | 0 open
+> 2026-03-18 23:55 UTC | **3** pos | **0W/2L** | P&L: **-0.000266 SOL** (-60.5%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BLU | 03-18 23:54 | 1.03x | 1.03x | 0.0h | 0.0002 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 23:54 | BLU | BUY | 0.0002 | `53pVcNp1pbzqJfv6...` |
 | 03-18 23:41 | Catrot | SELL | 0.0001 | `3PHedzPmRyVM1kfc...` |
 | 03-18 23:37 | GNORTS | SELL | 0.0001 | `ccCHigS2wTHbxcNV...` |
 | 03-18 23:03 | GNORTS | BUY | 0.0002 | `52LyNAV3dmVzfkqU...` |

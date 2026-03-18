@@ -1,12 +1,12 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-18 23:50 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 23:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| LINLIAN | 03-18 23:48 | 0.94x | 1.00x | 0.0h | 0.0002 |
-| Spiderman | 03-18 22:18 | 0.95x | 1.39x | 1.5h | 0.0002 |
+| LINLIAN | 03-18 23:48 | 0.81x | 1.02x | 0.1h | 0.0002 |
+| Spiderman | 03-18 22:18 | 1.01x | 1.39x | 1.6h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 

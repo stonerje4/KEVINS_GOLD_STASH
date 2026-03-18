@@ -1,22 +1,18 @@
 # [TEST] `FY5sWMqL2AQrsS2F...`
-> 2026-03-18 23:50 UTC | **2** pos | **0W/1L** | P&L: **-0.000132 SOL** (-59.9%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| SQUIRE | 03-18 22:50 | 7.38x | 19.18x | 1.0h | 0.0002 |
+> 2026-03-18 23:55 UTC | **2** pos | **1W/1L** | P&L: **+0.000748 SOL** (+169.9%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ✅ SQUIRE | +0.0009 | 03-18 22:50 | 19.2x | 03-18 23:51 | 0.0011/0.0002 | trail |
 | ❌ STRAWBS | -0.0001 | 03-18 22:38 | 1.3x | 03-18 23:29 | 0.0001/0.0002 | SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 23:51 | SQUIRE | SELL | 0.0004 | `M2B9bpQGjq7ATXDn...` |
 | 03-18 23:29 | STRAWBS | SELL | 0.0001 | `4PiGanAcZ96MCKfE...` |
 | 03-18 23:15 | SQUIRE | SELL | 0.0001 | `5da4Mo1FZp5MbeFP...` |
 | 03-18 23:12 | SQUIRE | SELL | 0.0001 | `mCGuxQW9arRdnWCo...` |

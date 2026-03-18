@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 23:50 UTC*
+*Last updated: 2026-03-18 23:55 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 23:54 | 🟢 buy | BLU | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/DpbiBdwWHFXTZbGFsjDmjzHTarqzwk5c6U867BHXm4YLHcRqvJRD24raFqmvwbSKa2dt5NMiFLTj1UCxyLFo2R7) |
+| 2026-03-18 23:54 | 🔴 sell | HIM | `2w85VLX4W4qm...` | 0.375 | 3.0x | tp_3x_trim | [tx](https://solscan.io/tx/2DYPFvkQE5SrKHXPogfVUmErgcRxsfx1KNtyVG7La5MnBPC2SEfmj27LaTcGfVaGTLY1azHj7fqpTnyytcZQXXih) |
 | 2026-03-18 23:47 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/3PbEmNFL1RXp8bWX3CDGEPjqCmjKG31YpHQJBPLZsBF7MmDS6M4iNjB2ZxTRdFFzkF6geuCHCPupQss9yQWg4541) |
 | 2026-03-18 23:47 | 🔴 sell | HIM | `2w85VLX4W4qm...` | 0.252 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/4NqJt39GeXMYJGK6hDTezCxLNvQbXGumqKELvTrZZgKWRADBaQZGMmf94uBb2uBHmbd713nVeZVrfbAuB9d89Zrz) |
 | 2026-03-18 23:41 | 🔴 sell | Catrot | `6raSuhfig5Y1...` | 0.194 | 0.4x | stop_loss | [tx](https://solscan.io/tx/4RiPCBXfNaCcc9gCosqHgRER3pyHyYjMwbDS1U19oDH3jDKgNrwLigP8a72TZ7d1NBbHMxTm5yzhpxTTJdgPD75o) |
