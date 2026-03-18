@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 02:55 UTC** | 7d | 100 buys, 1 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 03:00 UTC** | 7d | 102 buys, 2 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 02:57 | 💰 SELL | SWM | 0.0001 | Lfw99jsE... | TP1 | `4xdtt2zCnfJy...` |
+| 03-18 | 02:57 | 🟢 BUY | PVC | 0.0001 | 42nQHDpy... | copy_buy | `3ZJcRbViKbuW...` |
+| 03-18 | 02:55 | 🟢 BUY | HUGH | 0.0001 | BZmxuXQ6... | copy_buy | `3zoJ74MGhA2V...` |
 | 03-18 | 02:54 | 🟢 BUY | WRT | 0.0001 | 2947n9KQ... | copy_buy | `2T7nYnFbJ8ro...` |
 | 03-18 | 02:53 | 🟢 BUY | wojak#069 | 0.0001 | GHy1P6vJ... | copy_buy | `2QwCW8Z35VVg...` |
 | 03-18 | 02:53 | 🟢 BUY | BOE | 0.0001 | GvksYkES... | copy_buy | `3mr3WE1WMFfW...` |
