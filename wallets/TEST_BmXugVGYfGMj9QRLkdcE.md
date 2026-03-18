@@ -1,5 +1,12 @@
 # [TEST] `BmXugVGYfGMj9QRL...`
-> 2026-03-18 13:55 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
+> 2026-03-18 14:00 UTC | **3** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 2 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Birch | 03-18 13:58 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| EU-INC | 03-18 13:57 | 1.07x | 1.07x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +18,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 13:58 | Birch | BUY | 0.0001 | `2vLHWscpyeW6Hbtr...` |
+| 03-18 13:57 | EU-INC | BUY | 0.0001 | `5RhTYArYMnCAK1Z3...` |
 | 03-18 13:26 | Edgar | BUY | 0.0001 | `g4uRkqPYtJ6Q55mm...` |
 
 </details>
