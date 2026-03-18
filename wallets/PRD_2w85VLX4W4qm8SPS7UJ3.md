@@ -1,18 +1,18 @@
 # [PRD] `2w85VLX4W4qm8SPS...`
-> 2026-03-18 16:15 UTC | **15** pos | **2W/5L** | P&L: **-0.244998 SOL** (-14.0%) | 8 open
+> 2026-03-18 16:20 UTC | **15** pos | **2W/5L** | P&L: **-0.244998 SOL** (-14.0%) | 8 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | ? | 03-18 14:29 | 0.00x | 1.50x | 1.8h | 0.2500 |
-| ⊙ | 03-18 14:13 | 0.00x | 1.00x | 2.0h | 0.2500 |
-| Lion | 03-18 11:14 | 0.00x | 1.65x | 5.0h | 0.2500 |
-| Imposter | 03-18 11:04 | 0.00x | 1.80x | 5.2h | 0.2500 |
-| 페이커 | 03-18 10:25 | 0.00x | 1.76x | 5.8h | 0.2500 |
+| ⊙ | 03-18 14:13 | 0.00x | 1.00x | 2.1h | 0.2500 |
+| Lion | 03-18 11:14 | 0.00x | 1.65x | 5.1h | 0.2500 |
+| Imposter | 03-18 11:04 | 0.00x | 1.80x | 5.3h | 0.2500 |
+| 페이커 | 03-18 10:25 | 0.00x | 1.76x | 5.9h | 0.2500 |
 | Speak | 03-18 09:00 | 0.00x | 4.77x | 7.3h | 0.2500 |
-| ? | 03-18 08:42 | 0.00x | 1.30x | 7.5h | 0.2500 |
-| BELIEVERS | 03-18 08:14 | 0.00x | 1.48x | 8.0h | 0.2500 |
+| ? | 03-18 08:42 | 0.00x | 1.30x | 7.6h | 0.2500 |
+| BELIEVERS | 03-18 08:14 | 0.00x | 1.48x | 8.1h | 0.2500 |
 
 ## Closed
 
@@ -30,6 +30,17 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 16:19 | Imposter | SELL | 0.0999 | `5aSRDUm3YTAzxMzJ...` |
+| 03-18 16:19 | Imposter | SELL | 0.0999 | `3nSACF7EuGCcLLNB...` |
+| 03-18 16:19 | Imposter | SELL | 0.0999 | `31r1cRfQFCFAz2WN...` |
+| 03-18 16:19 | Imposter | SELL | 0.0999 | `5wC2Tow2VRiCLBxi...` |
+| 03-18 16:19 | Imposter | SELL | 0.0999 | `2k4F2fRhrk1acMd8...` |
+| 03-18 16:19 | Imposter | SELL | 0.0999 | `2LJU9fngChLw43eB...` |
+| 03-18 16:19 | Imposter | SELL | 0.0999 | `yaghiH7yzEfBGeb5...` |
+| 03-18 16:18 | Imposter | SELL | 0.0999 | `33UFxDH9993RuCJV...` |
+| 03-18 16:18 | Imposter | SELL | 0.0999 | `4EHuwRiHd3z5nW7P...` |
+| 03-18 16:18 | Imposter | SELL | 0.0999 | `L1K5kqkk6wHSZnzx...` |
+| 03-18 16:18 | Imposter | SELL | 0.0999 | `3yW8qcDbNnj4BqDu...` |
 | 03-18 16:13 | Gilbert | SELL | 0.0964 | `4jCxvYz6TmVYFKG9...` |
 | 03-18 16:11 | CHEMTRAILS | SELL | 0.1621 | `42aXbVBamkiutDjp...` |
 | 03-18 14:51 | Meningitis | SELL | 0.0941 | `5ptFXWfVbDS8R5GS...` |

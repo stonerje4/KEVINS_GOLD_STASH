@@ -1,13 +1,14 @@
 # [TEST] `GEHrGJ3B9BbKdDmf...`
-> 2026-03-18 16:15 UTC | **7** pos | **0W/4L** | P&L: **-0.000400 SOL** (-100.0%) | 3 open
+> 2026-03-18 16:20 UTC | **8** pos | **0W/4L** | P&L: **-0.000400 SOL** (-100.0%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| CHEMTRAILS | 03-18 16:02 | 0.00x | 1.00x | 0.2h | 0.0001 |
-| Wigga | 03-18 15:06 | 1.07x | 1.30x | 1.1h | 0.0001 |
-| Gilbert | 03-18 05:13 | 0.52x | 1.95x | 11.0h | 0.0001 |
+| KIRA | 03-18 16:19 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| CHEMTRAILS | 03-18 16:02 | 0.00x | 1.00x | 0.3h | 0.0001 |
+| Wigga | 03-18 15:06 | 1.07x | 1.30x | 1.2h | 0.0001 |
+| Gilbert | 03-18 05:13 | 0.48x | 1.95x | 11.1h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +23,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 16:19 | KIRA | BUY | 0.0001 | `yWL7drYzmmhREz8s...` |
 | 03-18 16:02 | CHEMTRAILS | BUY | 0.0001 | `4cxtAUuVxQfvpRQB...` |
 | 03-18 15:11 | DLSS5 | BUY | 0.0001 | `2PQNM9sn5hNYjHJf...` |
 | 03-18 15:10 | McCards | BUY | 0.0001 | `4TyRSra7HFsHRtDa...` |

@@ -1,16 +1,16 @@
-# [TEST] `E5sZTG938YDE7PrV...`
+# [TEST] `7x3WYp6bU9n7Eedy...`
 > 2026-03-18 16:20 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Afcon | 03-18 07:14 | 0.77x | 1.12x | 9.1h | 0.0001 |
+| MOGWARTS | 03-18 16:19 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 07:14 | Afcon | BUY | 0.0001 | `5ivkEd4Ks9Waq6wU...` |
+| 03-18 16:19 | MOGWARTS | BUY | 0.0001 | `2uPiEh7QbDZngv8f...` |
 
 </details>

@@ -1,8 +1,19 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 16:15 UTC** | 7d | 162 buys, 158 sells | In: **34.10** | Out: **32.36** | Net: **-1.74 SOL**
+> Updated: **2026-03-18 16:20 UTC** | 7d | 162 buys, 169 sells | In: **34.10** | Out: **33.46** | Net: **-0.64 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 16:19 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `5aSRDUm3YTAz...` |
+| 03-18 | 16:19 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `3nSACF7EuGCc...` |
+| 03-18 | 16:19 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `31r1cRfQFCFA...` |
+| 03-18 | 16:19 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `5wC2Tow2VRiC...` |
+| 03-18 | 16:19 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `2k4F2fRhrk1a...` |
+| 03-18 | 16:19 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `2LJU9fngChLw...` |
+| 03-18 | 16:19 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `yaghiH7yzEfB...` |
+| 03-18 | 16:18 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `33UFxDH9993R...` |
+| 03-18 | 16:18 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `4EHuwRiHd3z5...` |
+| 03-18 | 16:18 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `L1K5kqkk6wHS...` |
+| 03-18 | 16:18 | 🔴 SELL | Imposter | 0.0999 | 2w85VLX4... | SL | `3yW8qcDbNnj4...` |
 | 03-18 | 16:13 | 🔴 SELL | Gilbert | 0.0964 | 2w85VLX4... | SL | `4jCxvYz6TmVY...` |
 | 03-18 | 16:11 | 🔴 SELL | CHEMTRAILS | 0.1621 | 2w85VLX4... | trail | `42aXbVBamkiu...` |
 | 03-18 | 16:09 | 🟢 BUY | ? | 0.2500 | 6raSuhfi... | copy | `2UMwVnjewQnr...` |
