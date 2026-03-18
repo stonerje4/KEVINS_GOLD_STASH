@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 12:10 UTC** | 7d | 404 buys, 746 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 12:15 UTC** | 7d | 406 buys, 752 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 12:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Viw2iNm683B...` |
+| 03-18 | 12:13 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `QokZAK4Y3Cnq...` |
+| 03-18 | 12:13 | 🟢 BUY | TGR | 0.0001 | 2947n9KQ... | copy_buy | `5JiLKezqFmXi...` |
+| 03-18 | 12:12 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4Q2mvzXEDcav...` |
+| 03-18 | 12:12 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `47ofNB4sccnf...` |
+| 03-18 | 12:11 | 🟢 BUY | Wayne  | 0.0001 | FWQ3sv51... | copy_buy | `5mNikBPMtGdD...` |
+| 03-18 | 12:11 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `641w9g5QRVAk...` |
+| 03-18 | 12:10 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5ZXv2X1SoreF...` |
 | 03-18 | 12:09 | 🟢 BUY | Ridglan8 | 0.0001 | cqakon1K... | copy_buy | `5bB3LLu6PywG...` |
 | 03-18 | 12:09 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3bNNrXQcGHYV...` |
 | 03-18 | 12:08 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5NchZJ1FUNXa...` |
