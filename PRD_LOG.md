@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 01:45 UTC** | 7d | 78 buys, 20 sells | In: **13.10** | Out: **1.53** | Net: **-11.57 SOL**
+> Updated: **2026-03-18 01:50 UTC** | 7d | 78 buys, 21 sells | In: **13.10** | Out: **1.59** | Net: **-11.51 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 01:46 | 🔴 SELL | CLAWXIOM | 0.0589 | 42nQHDpy... | SL | `66bQugmTsdJD...` |
 | 03-18 | 01:44 | 🔴 SELL | CRASHOUT | 0.0979 | J5jm7BnB... | SL | `5ga28CheJqGx...` |
 | 03-18 | 01:37 | 🟢 BUY | Ethan | 0.2500 | 6raSuhfi... | copy | `2yd7U6KUy7Ws...` |
 | 03-18 | 01:35 | 🟢 BUY | USOS | 0.2500 | r9pFHjFe... | copy | `7XJ7St3mbNYb...` |
