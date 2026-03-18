@@ -1,8 +1,15 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 15:05 UTC** | 7d | 155 buys, 147 sells | In: **32.35** | Out: **30.45** | Net: **-1.90 SOL**
+> Updated: **2026-03-18 15:10 UTC** | 7d | 157 buys, 152 sells | In: **32.85** | Out: **31.32** | Net: **-1.53 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 15:09 | 💰 SELL | BBX | 0.1282 | r9pFHjFe... | TP3 | `337vT1q2LMma...` |
+| 03-18 | 15:09 | 🟢 BUY | OEF | 0.2500 | r9pFHjFe... | copy | `5uXdhNJV3fWZ...` |
+| 03-18 | 15:08 | 💰 SELL | TGR | 0.3497 | DHfshpzo... | trail | `2zvK8GkM2Vbm...` |
+| 03-18 | 15:07 | 🔴 SELL | FLAG | 0.1424 | r9pFHjFe... | stale | `61vWgmkPJCEB...` |
+| 03-18 | 15:07 | 🔴 SELL | ? | 0.1428 | BGGJhxGX... | stale | `2p6huZ8mw1fp...` |
+| 03-18 | 15:07 | 🔴 SELL | BATTLE | 0.1095 | DDApL88z... | stale | `67oLtzxVvvED...` |
+| 03-18 | 15:05 | 🟢 BUY | Wigga | 0.2500 | 6raSuhfi... | copy | `67SwaXwjDiEc...` |
 | 03-18 | 15:01 | 💰 SELL | GROKTRADER | 0.1360 | E79aNzAk... | TP1 | `2NxHX7hefvDk...` |
 | 03-18 | 14:51 | 🔴 SELL | Meningitis | 0.0941 | 2w85VLX4... | SL | `5ptFXWfVbDS8...` |
 | 03-18 | 14:50 | 🟢 BUY | ? | 0.2500 | r9pFHjFe... | copy | `3jm4wqn1aLGp...` |

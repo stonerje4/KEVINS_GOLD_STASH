@@ -1,11 +1,12 @@
 # [TEST] `GEHrGJ3B9BbKdDmf...`
-> 2026-03-18 15:05 UTC | **3** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 1 open
+> 2026-03-18 15:10 UTC | **4** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Gilbert | 03-18 05:13 | 0.99x | 1.95x | 9.9h | 0.0001 |
+| Wigga | 03-18 15:06 | 1.21x | 1.30x | 0.1h | 0.0001 |
+| Gilbert | 03-18 05:13 | 0.98x | 1.95x | 9.9h | 0.0001 |
 
 ## Closed
 
@@ -18,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 15:06 | Wigga | BUY | 0.0001 | `5x55So46taUCrxJ3...` |
 | 03-18 05:13 | Gilbert | BUY | 0.0001 | `53pYtGfZNaWpnEam...` |
 | 03-18 03:16 | $SECURITY | BUY | 0.0001 | `5gnudsGcE362RrCD...` |
 | 03-18 02:28 | DUCK | BUY | 0.0001 | `4zsivhRnQ1Pqd4yf...` |
