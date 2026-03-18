@@ -1,17 +1,17 @@
 # [TEST] `BA1mTpNqY71nr9Uy...`
-> 2026-03-18 00:20 UTC | **8** pos | **0W/6L** | P&L: **-0.001173 SOL** (-45.1%) | 2 open
+> 2026-03-18 00:25 UTC | **8** pos | **0W/7L** | P&L: **-0.001236 SOL** (-45.8%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SENEGAL | 03-17 22:42 | 0.32x | 1.56x | 1.6h | 0.0001 |
-| VULTURE | 03-17 20:44 | 0.67x | 1.32x | 3.6h | 0.0001 |
+| VULTURE | 03-17 20:44 | 0.64x | 1.32x | 3.7h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ SENEGAL | -0.0001 | 03-17 22:42 | 1.6x | 03-18 00:24 | 0.0000/0.0001 | SL |
 | ❌ Nourish | -0.0001 | 03-17 07:22 | 1.0x | 03-17 07:27 | 0.0000/0.0001 | SL |
 | ❌ SLOWDENG | -0.0001 | 03-17 06:01 | 1.0x | 03-17 11:50 | 0.0000/0.0001 | bulk_close_cleanup |
 | ❌ RICHIE | -0.0004 | 03-16 07:21 | 1.1x | 03-16 07:24 | 0.0002/0.0006 | gc_SL |
@@ -23,6 +23,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:24 | SENEGAL | SELL | 0.0000 | `3jJptUacUgDr9yeq...` |
+| 03-18 00:22 | SENEGAL | SELL | 0.0000 | `3AXJqJcJjAgHb9SF...` |
+| 03-18 00:21 | SENEGAL | SELL | 0.0000 | `c3kwBqu4UrCmafaM...` |
 | 03-18 00:19 | SENEGAL | SELL | 0.0000 | `5yQud3uYWnEtyDi7...` |
 | 03-18 00:17 | SENEGAL | SELL | 0.0000 | `66ac3MDjyELkYAKw...` |
 | 03-18 00:15 | SENEGAL | SELL | 0.0000 | `UjhiEU41dgR49ASp...` |

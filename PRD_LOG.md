@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 00:20 UTC** | 7d | 753 buys, 997 sells | In: **94.78** | Out: **87.69** | Net: **-7.09 SOL**
+> Updated: **2026-03-18 00:25 UTC** | 7d | 753 buys, 997 sells | In: **94.78** | Out: **87.75** | Net: **-7.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 00:23 | 💰 SELL | ? | 0.0911 | BGGJhxGX... | TP1 | `5MVRsGVPQofE...` |
 | 03-18 | 00:13 | 🟢 BUY | L4DC | 0.2500 | r9pFHjFe... | copy | `EZ1xNiyF4Zsx...` |
 | 03-18 | 00:08 | 🔴 SELL | thinker | 0.0555 | J5jm7BnB... | SL | `JmuwZi7yvCav...` |
 | 03-18 | 00:06 | 🔴 SELL | Atlas | 0.1059 | DDApL88z... | stale | `3koeGH1d8xbt...` |
@@ -1752,4 +1753,3 @@
 | 03-11 | 00:40 | 💰 SELL | Monk | 0.0318 | 9rb2ChEj... | TP2 | `41JdKBU8mXc4...` |
 | 03-11 | 00:40 | 🔴 SELL | SOIL | 0.0280 | ESxHJpMq... | SL | `4cKUL5fsgJDq...` |
 | 03-11 | 00:36 | 💰 SELL | Monk | 0.0664 | 9rb2ChEj... | TP1 | `4hTpjCXvaMNf...` |
-| 03-11 | 00:20 | 🔴 SELL | Teacat | 0.0232 | 8QfqdUJt... | SL | `4V3N1d9hhydL...` |
