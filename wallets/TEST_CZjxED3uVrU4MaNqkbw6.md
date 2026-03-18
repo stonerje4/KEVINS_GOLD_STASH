@@ -1,16 +1,16 @@
-# [PRD] `FsAEk7fygfRfgL8x...`
+# [TEST] `CZjxED3uVrU4MaNq...`
 > 2026-03-18 03:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BBX | 03-17 04:55 | 0.00x | 1.74x | 22.6h | 0.1500 |
+| PATRIOT | 03-18 03:29 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-17 04:55 | BBX | BUY | 0.1500 | `hofeGwZ5msPurpCg...` |
+| 03-18 03:29 | PATRIOT | BUY | 0.0001 | `4xF2kyh1HMAHTuJq...` |
 
 </details>
