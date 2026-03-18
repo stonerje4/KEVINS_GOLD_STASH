@@ -1,11 +1,12 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-18 08:40 UTC | **7** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 1 open
+> 2026-03-18 08:45 UTC | **8** pos | **0W/6L** | P&L: **-0.000600 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Terafab | 03-18 06:04 | 0.88x | 1.00x | 2.6h | 0.0001 |
+| COMMODITY | 03-18 08:40 | 1.27x | 1.27x | 0.1h | 0.0001 |
+| Terafab | 03-18 06:04 | 0.87x | 1.00x | 2.7h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +23,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 08:40 | COMMODITY | BUY | 0.0001 | `2itSpLcw1p5un75X...` |
 | 03-18 06:04 | Terafab | BUY | 0.0001 | `2848VvbccewU4ET8...` |
 | 03-18 05:21 | SOLARI | BUY | 0.0001 | `VZidnQXbu7jDw9rH...` |
 | 03-18 04:04 | DISLIKE | BUY | 0.0001 | `3h8FcVJFa373DtGK...` |
