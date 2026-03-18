@@ -1,18 +1,18 @@
 # [TEST] `GEHrGJ3B9BbKdDmf...`
-> 2026-03-18 14:00 UTC | **3** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 2 open
+> 2026-03-18 14:05 UTC | **3** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Gilbert | 03-18 05:13 | 0.90x | 1.95x | 8.8h | 0.0001 |
-| DUCK | 03-18 02:28 | 0.58x | 1.02x | 11.5h | 0.0001 |
+| Gilbert | 03-18 05:13 | 0.91x | 1.95x | 8.9h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
 | ❌ $SECURITY | -0.0001 | 03-18 03:16 | 2.2x | 03-18 03:27 | 0.0000/0.0001 | gc_tp_2x_half |
+| ❌ DUCK | -0.0001 | 03-18 02:28 | 1.0x | 03-18 14:02 | 0.0000/0.0001 | stale_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 

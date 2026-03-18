@@ -1,5 +1,11 @@
 # [TEST] `7cA6GmNF9zWBp67B...`
-> 2026-03-18 14:00 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
+> 2026-03-18 14:05 UTC | **3** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Saru-san | 03-18 14:02 | 0.91x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 14:02 | Saru-san | BUY | 0.0001 | `Qj8ahiv5baMQZK4c...` |
 | 03-18 06:54 | 페이커 | BUY | 0.0001 | `5NmEG95LAfUkPQzy...` |
 | 03-18 06:06 | KIKO | BUY | 0.0001 | `21hY9Tkbdj6HTEVY...` |
 
