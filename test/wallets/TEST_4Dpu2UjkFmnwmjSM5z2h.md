@@ -1,16 +1,16 @@
-# [PRD] `cqakon1K22iRvSAn...`
+# [TEST] `4Dpu2UjkFmnwmjSM...`
 > 2026-03-18 23:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| ? | 03-18 23:11 | 0.00x | 1.00x | 0.3h | 0.5000 |
+| NASDANQ | 03-18 23:27 | 1.08x | 1.10x | 0.0h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 23:11 | ? | BUY | 0.5000 | `3PZh1MRo5e1tvmW5...` |
+| 03-18 23:27 | NASDANQ | BUY | 0.0002 | `518RtYhf4RqftHXa...` |
 
 </details>
