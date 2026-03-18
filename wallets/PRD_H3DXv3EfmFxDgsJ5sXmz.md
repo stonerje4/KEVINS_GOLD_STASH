@@ -1,5 +1,5 @@
 # [PRD] `H3DXv3EfmFxDgsJ5...`
-> 2026-03-18 00:35 UTC | **10** pos | **1W/9L** | P&L: **-0.321883 SOL** (-64.4%) | 0 open
+> 2026-03-18 00:40 UTC | **10** pos | **1W/9L** | P&L: **-0.321883 SOL** (-64.4%) | 0 open
 
 ## Closed
 
@@ -20,8 +20,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-16 19:13 | HAVOC | SELL | 0.0050 | `?` |
 | 03-16 19:13 | MARVIN | SELL | 0.0050 | `?` |
+| 03-16 19:13 | HAVOC | SELL | 0.0050 | `?` |
 | 03-10 16:29 | RYOPPIPPI | SELL | 0.0199 | `4edTpZyk53nBQCsY...` |
 | 03-10 14:31 | RYOPPIPPI | BUY | 0.0500 | `pjh6MVbVg4NZ17Xw...` |
 | 03-10 12:00 | AWESOME | SELL | 0.0722 | `3Wht5Nej8KwkvcS9...` |

@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 00:35 UTC** | 7d | 754 buys, 998 sells | In: **95.03** | Out: **87.87** | Net: **-7.16 SOL**
+> Updated: **2026-03-18 00:40 UTC** | 7d | 757 buys, 997 sells | In: **95.78** | Out: **87.80** | Net: **-7.98 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 00:39 | 🟢 BUY | L4DC | 0.2500 | r9pFHjFe... | copy | `49kLLAYUaq8J...` |
+| 03-18 | 00:39 | 🟢 BUY | ALTRUISTS | 0.2500 | DDApL88z... | copy | `2fhtBae4fqC5...` |
+| 03-18 | 00:37 | 🟢 BUY | LAST | 0.2500 | J5jm7BnB... | copy | `4WGEiRdCAfva...` |
 | 03-18 | 00:33 | 🟢 BUY | Deceptive | 0.2500 | J5jm7BnB... | copy | `2t4iZ4LtADgt...` |
 | 03-18 | 00:30 | 🔴 SELL | tusk | 0.1106 | 42nQHDpy... | trail | `3WWyaHUunwz5...` |
 | 03-18 | 00:23 | 💰 SELL | ? | 0.0911 | BGGJhxGX... | TP1 | `5MVRsGVPQofE...` |
@@ -1754,4 +1757,3 @@
 | 03-11 | 00:41 | 💰 SELL | UXR | 0.0305 | 5vweNikg... | TP2 | `4bVr9sAKSfcK...` |
 | 03-11 | 00:40 | 💰 SELL | Monk | 0.0318 | 9rb2ChEj... | TP2 | `41JdKBU8mXc4...` |
 | 03-11 | 00:40 | 🔴 SELL | SOIL | 0.0280 | ESxHJpMq... | SL | `4cKUL5fsgJDq...` |
-| 03-11 | 00:36 | 💰 SELL | Monk | 0.0664 | 9rb2ChEj... | TP1 | `4hTpjCXvaMNf...` |

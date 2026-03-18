@@ -1,21 +1,21 @@
 # [TEST] `BZmxuXQ68QeZABbD...`
-> 2026-03-18 00:35 UTC | **10** pos | **0W/4L** | P&L: **-0.000280 SOL** (-70.1%) | 6 open
+> 2026-03-18 00:40 UTC | **10** pos | **0W/5L** | P&L: **-0.000342 SOL** (-68.3%) | 5 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SAINTJAK | 03-18 00:14 | 0.00x | 1.00x | 0.3h | 0.0001 |
-| Atlas | 03-18 00:14 | 1.11x | 1.29x | 0.3h | 0.0001 |
-| commotitty | 03-17 22:45 | 0.35x | 1.00x | 1.8h | 0.0001 |
-| Unplugged | 03-17 22:42 | 0.70x | 1.00x | 1.9h | 0.0001 |
+| SAINTJAK | 03-18 00:14 | 0.00x | 1.00x | 0.4h | 0.0001 |
+| Atlas | 03-18 00:14 | 0.81x | 1.29x | 0.4h | 0.0001 |
+| Unplugged | 03-17 22:42 | 0.70x | 1.00x | 2.0h | 0.0001 |
 | Microphallus | 03-17 22:37 | 0.44x | 1.15x | 2.0h | 0.0001 |
-| Daisy | 03-17 21:05 | 3.70x | 7.19x | 3.5h | 0.0001 |
+| Daisy | 03-17 21:05 | 4.20x | 7.19x | 3.6h | 0.0001 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ commotitty | -0.0001 | 03-17 22:45 | 1.0x | 03-18 00:39 | 0.0000/0.0001 | SL |
 | ❌ KIt | -0.0001 | 03-17 19:07 | 1.6x | 03-17 19:13 | 0.0000/0.0001 | SL |
 | ❌ Gany | -0.0001 | 03-17 03:53 | 1.5x | 03-17 05:41 | 0.0000/0.0001 | SL |
 | ❌ imagineslop | -0.0001 | 03-16 23:55 | 1.0x | 03-17 11:11 | 0.0000/0.0001 | SL |
@@ -25,6 +25,10 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:39 | commotitty | SELL | 0.0000 | `2YRhX5VmpUdxHgPh...` |
+| 03-18 00:37 | commotitty | SELL | 0.0000 | `3pHFvTpPf9YqDGMN...` |
+| 03-18 00:37 | Daisy | SELL | 0.0000 | `4NNvgYRkwWEouh1e...` |
+| 03-18 00:35 | commotitty | SELL | 0.0000 | `4Q8k7fkw7nmWAyjU...` |
 | 03-18 00:33 | commotitty | SELL | 0.0000 | `4qHNdndJQaMBq7pw...` |
 | 03-18 00:31 | commotitty | SELL | 0.0000 | `4omzMwqBbs6LiX8H...` |
 | 03-18 00:29 | commotitty | SELL | 0.0000 | `78aQpVgPcxoxL24q...` |

@@ -1,12 +1,12 @@
 # [TEST] `GtgyEyvRjo7MdNSb...`
-> 2026-03-18 00:35 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 00:40 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SWS | 03-17 23:44 | 0.00x | 1.00x | 0.8h | 0.0001 |
-| Deceptive | 03-17 23:12 | 0.00x | 1.00x | 1.4h | 0.0001 |
+| SWS | 03-17 23:44 | 0.00x | 1.00x | 0.9h | 0.0001 |
+| Deceptive | 03-17 23:12 | 0.00x | 1.00x | 1.5h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
