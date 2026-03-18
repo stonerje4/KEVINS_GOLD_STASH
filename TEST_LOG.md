@@ -1,8 +1,21 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 12:50 UTC** | 7d | 416 buys, 801 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 12:55 UTC** | 7d | 419 buys, 811 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 12:54 | 🟢 BUY | Corbin | 0.0001 | bocsoUiM... | copy_buy | `28pdFZSrFsH6...` |
+| 03-18 | 12:54 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4gXuWvhcxb4q...` |
+| 03-18 | 12:54 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `417D4PeF74xt...` |
+| 03-18 | 12:53 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4rXve7UiCYGJ...` |
+| 03-18 | 12:53 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `n6f43AKVDzmH...` |
+| 03-18 | 12:52 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `1dbujfe6aF1y...` |
+| 03-18 | 12:52 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4br46JFvhE7m...` |
+| 03-18 | 12:51 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2AAgd953dHQd...` |
+| 03-18 | 12:51 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `sxb9RJ6q3PxH...` |
+| 03-18 | 12:50 | 🟢 BUY | Phero | 0.0001 | BBBByrLH... | copy_buy | `5WPXgZhfST3T...` |
+| 03-18 | 12:50 | 🟢 BUY | ROSEI | 0.0001 | 5dd3zjBQ... | copy_buy | `T37rsosoz4No...` |
+| 03-18 | 12:50 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4cjtxYjLRs7v...` |
+| 03-18 | 12:50 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5J4SXZmRLK5u...` |
 | 03-18 | 12:49 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4ieqz1GvtfKi...` |
 | 03-18 | 12:49 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4MHJb4umVCEX...` |
 | 03-18 | 12:48 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3WKNuuoDqCfP...` |
