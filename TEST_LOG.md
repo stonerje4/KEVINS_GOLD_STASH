@@ -1,8 +1,19 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 06:20 UTC** | 7d | 203 buys, 290 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 06:25 UTC** | 7d | 207 buys, 297 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 06:24 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4ba44Q7LPuoa...` |
+| 03-18 | 06:23 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `59hxXRkjXuSo...` |
+| 03-18 | 06:23 | 🟢 BUY | HoweyCoins | 0.0001 | GHy1P6vJ... | copy_buy | `5gYoW5VE3wyj...` |
+| 03-18 | 06:23 | 🟢 BUY | LIGANDFORGE | 0.0001 | 42nQHDpy... | copy_buy | `4aWcBWFpEMcX...` |
+| 03-18 | 06:23 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `kNWpGH6XbwL2...` |
+| 03-18 | 06:22 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5n99utiMHg3b...` |
+| 03-18 | 06:21 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `58jBf3L5GdtY...` |
+| 03-18 | 06:21 | 🟢 BUY | BBC | 0.0001 | BBBByrLH... | copy_buy | `3irqTQBWdjL8...` |
+| 03-18 | 06:21 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3ciBX4H9s2fi...` |
+| 03-18 | 06:20 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5jXPxNSaWSzZ...` |
+| 03-18 | 06:20 | 🟢 BUY | Ryder | 0.0001 | FWQ3sv51... | copy_buy | `2TDWCJvYwDYA...` |
 | 03-18 | 06:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `gs5w3VeVFZbq...` |
 | 03-18 | 06:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2srF5szKMpoz...` |
 | 03-18 | 06:18 | 🟢 BUY | NoFunction | 0.0001 | 7EautDJG... | copy_buy | `3zNKG5fHdtCb...` |

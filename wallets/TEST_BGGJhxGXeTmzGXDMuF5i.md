@@ -1,11 +1,11 @@
 # [TEST] `BGGJhxGXeTmzGXDM...`
-> 2026-03-18 06:20 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 06:25 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| WRT | 03-18 04:20 | 1.06x | 1.10x | 2.0h | 0.0001 |
+| WRT | 03-18 04:20 | 1.06x | 1.10x | 2.1h | 0.0001 |
 | TRN | 03-18 02:34 | 0.99x | 1.24x | 3.8h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
