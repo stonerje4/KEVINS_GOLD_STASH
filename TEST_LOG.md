@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 16:40 UTC** | 7d | 580 buys, 1327 sells | In: **0.06** | Out: **0.00** | Net: **-0.06 SOL**
+> Updated: **2026-03-18 16:45 UTC** | 7d | 580 buys, 1330 sells | In: **0.06** | Out: **0.00** | Net: **-0.06 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 16:40 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `QsDFfjd4i2S8...` |
+| 03-18 | 16:40 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `41ioNT7HduQ2...` |
+| 03-18 | 16:39 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `3RsFenRw2u2E...` |
 | 03-18 | 16:38 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `1fFKFfY3WZ3e...` |
 | 03-18 | 16:38 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Dav6AwNuekR...` |
 | 03-18 | 16:38 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `5MbiNqdQbhuB...` |
