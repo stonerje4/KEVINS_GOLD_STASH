@@ -1,12 +1,13 @@
 # [TEST] `9tv5mfwaQVsJQ6xg...`
-> 2026-03-18 00:40 UTC | **13** pos | **3W/8L** | P&L: **-0.000311 SOL** (-28.3%) | 2 open
+> 2026-03-18 00:45 UTC | **14** pos | **3W/8L** | P&L: **-0.000311 SOL** (-28.3%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SBF | 03-18 00:35 | 0.80x | 1.00x | 0.1h | 0.0001 |
-| Übermensch | 03-17 21:07 | 0.41x | 1.00x | 3.5h | 0.0001 |
+| ALTRUISTS | 03-18 00:40 | 0.00x | 1.00x | 0.1h | 0.0001 |
+| SBF | 03-18 00:35 | 0.41x | 1.00x | 0.2h | 0.0001 |
+| Übermensch | 03-17 21:07 | 0.41x | 1.00x | 3.6h | 0.0001 |
 
 ## Closed
 
@@ -28,6 +29,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:40 | ALTRUISTS | BUY | 0.0001 | `42ph4b6L8hmNverN...` |
 | 03-18 00:35 | SBF | BUY | 0.0001 | `3uooCvCFdhUpHxNh...` |
 | 03-17 21:52 | JEETICIDE | SELL | 0.0000 | `38P36kxYZYSXvvn1...` |
 | 03-17 21:12 | Incel | SELL | 0.0001 | `5UMYU9ER2A8FuNHT...` |
