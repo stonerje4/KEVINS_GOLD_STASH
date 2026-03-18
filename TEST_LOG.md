@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 04:15 UTC** | 7d | 141 buys, 102 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 04:20 UTC** | 7d | 142 buys, 110 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 04:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3cD3Ao91SH6i...` |
+| 03-18 | 04:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3BuKiTx4qmPo...` |
+| 03-18 | 04:18 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2NduxeWW1dp7...` |
+| 03-18 | 04:17 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2mytcZCeUix4...` |
+| 03-18 | 04:17 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3ZDz7LxkgmBC...` |
+| 03-18 | 04:16 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `31Y8CtNGRDT2...` |
+| 03-18 | 04:16 | 🟢 BUY | Vorcaro | 0.0001 | AJ8Gc1cY... | copy_buy | `4uqYWRph8vHo...` |
+| 03-18 | 04:15 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `33Jy9dqWMee7...` |
+| 03-18 | 04:15 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Qm8VX9FjJrD...` |
 | 03-18 | 04:14 | 🟢 BUY | Bonk | 0.0001 | 51Ui3ZD4... | copy_buy | `C42YSs1U2Neb...` |
 | 03-18 | 04:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4JZDW3EgmXxA...` |
 | 03-18 | 04:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `qqA4nsNgztwm...` |
