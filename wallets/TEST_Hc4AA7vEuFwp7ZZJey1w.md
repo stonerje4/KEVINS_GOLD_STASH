@@ -1,12 +1,13 @@
 # [TEST] `Hc4AA7vEuFwp7ZZJ...`
-> 2026-03-18 01:00 UTC | **7** pos | **1W/4L** | P&L: **-0.000148 SOL** (-29.6%) | 2 open
+> 2026-03-18 01:05 UTC | **8** pos | **1W/4L** | P&L: **-0.000148 SOL** (-29.6%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DOGEETO | 03-17 22:23 | 0.79x | 1.96x | 2.6h | 0.0001 |
-| LUCKYDOGE | 03-17 22:00 | 1.03x | 1.10x | 3.0h | 0.0001 |
+| Tincat | 03-18 01:02 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| DOGEETO | 03-17 22:23 | 0.79x | 1.96x | 2.7h | 0.0001 |
+| LUCKYDOGE | 03-17 22:00 | 1.03x | 1.10x | 3.1h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +23,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 01:02 | Tincat | BUY | 0.0001 | `5gvdjg12aASBr2Z2...` |
 | 03-17 22:23 | DOGEETO | BUY | 0.0001 | `4pu8H7vX1QQKitj6...` |
 | 03-17 22:00 | LUCKYDOGE | BUY | 0.0001 | `5PzV19shFvzrpUQE...` |
 | 03-17 14:18 | MILK | BUY | 0.0001 | `5JQF8RrJsxjGB1CN...` |

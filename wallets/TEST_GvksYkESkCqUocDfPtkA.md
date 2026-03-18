@@ -1,11 +1,11 @@
 # [TEST] `GvksYkESkCqUocDf...`
-> 2026-03-18 01:00 UTC | **5** pos | **1W/3L** | P&L: **-0.000201 SOL** (-50.3%) | 1 open
+> 2026-03-18 01:05 UTC | **5** pos | **1W/3L** | P&L: **-0.000201 SOL** (-50.3%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| TRENCHERIA | 03-17 22:43 | 0.96x | 1.18x | 2.3h | 0.0001 |
+| TRENCHERIA | 03-17 22:43 | 0.98x | 1.18x | 2.4h | 0.0001 |
 
 ## Closed
 
