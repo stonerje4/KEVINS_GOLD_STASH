@@ -1,6 +1,6 @@
 # 🧪 TEST — Dust Buy Dashboard
 
-*Last updated: 2026-03-18 22:50 UTC*
+*Last updated: 2026-03-18 22:55 UTC*
 *P&L normalized to $100/buy for comparison*
 
 **Wallet:** [`AEbLCN4gXSKzwvFcbtrEHngXZgo8RhX7zJ6S125ZH8wY`](https://solscan.io/account/AEbLCN4gXSKzwvFcbtrEHngXZgo8RhX7zJ6S125ZH8wY)
@@ -11,7 +11,7 @@
 | Metric | Value |
 |--------|-------|
 | Test Wallets | 35 |
-| Total Positions | 27 |
+| Total Positions | 31 |
 | Open | 0 |
 | Closed | 0 |
 
@@ -19,19 +19,21 @@
 
 | | Wallet | Pos | W/L | WR | Closed P&L | ROI | Unreal | **Total** | Avg Peak | Open | Solscan |
 |--|--------|-----|-----|-----|------------|-----|--------|-----------|----------|------|--------|
-| 🟢 | [`Ev93PxVmURxtAQZHRAHs...`](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R) | 1 | 0/0 | 0% | $+0 | — | $+296 | **$+296** | — | 1 | [trades](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R#defiactivities) |
-| 🟢 | [`cqakon1K22iRvSAnzyNG...`](https://solscan.io/account/cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem) | 2 | 0/0 | 0% | $+0 | — | $+279 | **$+279** | — | 2 | [trades](https://solscan.io/account/cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem#defiactivities) |
+| 🟢 | [`cqakon1K22iRvSAnzyNG...`](https://solscan.io/account/cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem) | 2 | 0/0 | 0% | $+0 | — | $+590 | **$+590** | — | 2 | [trades](https://solscan.io/account/cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem#defiactivities) |
+| 🟢 | [`Ev93PxVmURxtAQZHRAHs...`](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R) | 1 | 0/0 | 0% | $+0 | — | $+319 | **$+319** | — | 1 | [trades](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R#defiactivities) |
 | 🟢 | [`BGGJhxGXeTmzGXDMuF5i...`](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | 1 | 0/0 | 0% | $+0 | — | $+14 | **$+14** | — | 1 | [trades](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs#defiactivities) |
-| ⚪ | [`FY5sWMqL2AQrsS2F4FAQ...`](https://solscan.io/account/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa) | 1 | 0/0 | 0% | $+0 | — | $-4 | **$-4** | — | 1 | [trades](https://solscan.io/account/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa#defiactivities) |
-| ⚪ | [`BNCSPd6QtP6rJCWZvaYn...`](https://solscan.io/account/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | 1 | 0/0 | 0% | $+0 | — | $-6 | **$-6** | — | 1 | [trades](https://solscan.io/account/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4#defiactivities) |
-| ⚪ | [`37FGuPhkNCmBeKXmrKNf...`](https://solscan.io/account/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK) | 2 | 0/0 | 0% | $+0 | — | $-8 | **$-8** | — | 2 | [trades](https://solscan.io/account/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK#defiactivities) |
-| ⚪ | [`GWM5CZhJ8CppvLC7JGMh...`](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | 1 | 0/0 | 0% | $+0 | — | $-10 | **$-10** | — | 1 | [trades](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc#defiactivities) |
-| ⚪ | [`4rsj2xh5MK5LFgoFe7AG...`](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | 1 | 0/0 | 0% | $+0 | — | $-13 | **$-13** | — | 1 | [trades](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS#defiactivities) |
+| 🟢 | [`9tv5mfwaQVsJQ6xg9SLe...`](https://solscan.io/account/9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn) | 1 | 0/0 | 0% | $+0 | — | $+8 | **$+8** | — | 1 | [trades](https://solscan.io/account/9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn#defiactivities) |
+| ⚪ | [`BmXugVGYfGMj9QRLkdcE...`](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | 1 | 0/0 | 0% | $+0 | — | $+0 | **$+0** | — | 1 | [trades](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4#defiactivities) |
+| ⚪ | [`37FGuPhkNCmBeKXmrKNf...`](https://solscan.io/account/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK) | 2 | 0/0 | 0% | $+0 | — | $-9 | **$-9** | — | 2 | [trades](https://solscan.io/account/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK#defiactivities) |
+| ⚪ | [`BNCSPd6QtP6rJCWZvaYn...`](https://solscan.io/account/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | 1 | 0/0 | 0% | $+0 | — | $-9 | **$-9** | — | 1 | [trades](https://solscan.io/account/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4#defiactivities) |
 | ⚪ | [`6qTPHgnSZZUy5AeoqDBt...`](https://solscan.io/account/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy) | 1 | 0/0 | 0% | $+0 | — | $-13 | **$-13** | — | 1 | [trades](https://solscan.io/account/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy#defiactivities) |
+| ⚪ | [`GWM5CZhJ8CppvLC7JGMh...`](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | 1 | 0/0 | 0% | $+0 | — | $-13 | **$-13** | — | 1 | [trades](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc#defiactivities) |
 | ⚪ | [`6gN2SNYXN8gzM9yDy9A9...`](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | 1 | 0/0 | 0% | $+0 | — | $-21 | **$-21** | — | 1 | [trades](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq#defiactivities) |
-| ⚪ | [`Ckm6DF7m77M2WzriP8W2...`](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) | 1 | 0/0 | 0% | $+0 | — | $-25 | **$-25** | — | 1 | [trades](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq#defiactivities) |
-| ⚪ | [`FoHJUYThke7eXqtCe62z...`](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | 7 | 0/0 | 0% | $+0 | — | $-49 | **$-49** | — | 7 | [trades](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy#defiactivities) |
+| ⚪ | [`4rsj2xh5MK5LFgoFe7AG...`](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | 1 | 0/0 | 0% | $+0 | — | $-27 | **$-27** | — | 1 | [trades](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS#defiactivities) |
+| ⚪ | [`Ckm6DF7m77M2WzriP8W2...`](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) | 2 | 0/0 | 0% | $+0 | — | $-40 | **$-40** | — | 2 | [trades](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq#defiactivities) |
 | 🔴 | [`3jKwp9dY9PWxpzr7Hxmm...`](https://solscan.io/account/3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc) | 1 | 0/1 | 0% | $-61 | -61% | — | **$-61** | 1.0x | 0 | [trades](https://solscan.io/account/3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc#defiactivities) |
+| ⚪ | [`FoHJUYThke7eXqtCe62z...`](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | 7 | 0/0 | 0% | $+0 | — | $-69 | **$-69** | — | 7 | [trades](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy#defiactivities) |
+| ⚪ | [`FY5sWMqL2AQrsS2F4FAQ...`](https://solscan.io/account/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa) | 2 | 0/0 | 0% | $+0 | — | $-69 | **$-69** | — | 2 | [trades](https://solscan.io/account/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa#defiactivities) |
 | ⚪ | [`4yKnfzcf98jm5z3uHvBX...`](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | 3 | 0/0 | 0% | $+0 | — | $-142 | **$-142** | — | 3 | [trades](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH#defiactivities) |
 | 🔴 | [`4Ki54j4tyzRLkagnvPWn...`](https://solscan.io/account/4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo) | 3 | 0/3 | 0% | $-241 | -80% | — | **$-241** | 1.2x | 0 | [trades](https://solscan.io/account/4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo#defiactivities) |
 
