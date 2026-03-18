@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 08:20 UTC** | 7d | 298 buys, 458 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 08:25 UTC** | 7d | 300 buys, 464 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 08:24 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5n5aZ7CCm6Db...` |
+| 03-18 | 08:23 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5JLfd9efRFxJ...` |
+| 03-18 | 08:22 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `FLboqyEiJwKL...` |
+| 03-18 | 08:21 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Fv1GBoWshpR...` |
+| 03-18 | 08:21 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3dpYYzV9Uv2y...` |
+| 03-18 | 08:21 | 🟢 BUY | CODECOIN | 0.0001 | 3VHz3Mhv... | copy_buy | `3zLbGM7ozQsy...` |
+| 03-18 | 08:20 | 🟢 BUY | CLAUDE | 0.0001 | 9t6xjxxt... | copy_buy | `5hLTZphLv4E6...` |
+| 03-18 | 08:20 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4KsPtGeE84ps...` |
 | 03-18 | 08:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2h8QQEDQ8euZ...` |
 | 03-18 | 08:19 | 🟢 BUY | ChudBird  | 0.0001 | 9t6xjxxt... | copy_buy | `5KsT2JkGaChx...` |
 | 03-18 | 08:18 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4VjdoCB4mM6X...` |
