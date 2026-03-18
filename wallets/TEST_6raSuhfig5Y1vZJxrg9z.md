@@ -1,5 +1,11 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-18 05:20 UTC | **5** pos | **0W/5L** | P&L: **-0.000500 SOL** (-100.0%) | 0 open
+> 2026-03-18 05:25 UTC | **6** pos | **0W/5L** | P&L: **-0.000500 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| SOLARI | 03-18 05:21 | 1.69x | 1.69x | 0.1h | 0.0001 |
 
 ## Closed
 
@@ -15,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 05:21 | SOLARI | BUY | 0.0001 | `VZidnQXbu7jDw9rH...` |
 | 03-18 04:04 | DISLIKE | BUY | 0.0001 | `3h8FcVJFa373DtGK...` |
 | 03-18 03:21 | WLFI | BUY | 0.0001 | `5sjYfg6PdviizxwL...` |
 | 03-18 03:00 | LKY | BUY | 0.0001 | `2DURGm8rtDi2oUHM...` |

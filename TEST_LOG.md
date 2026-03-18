@@ -1,8 +1,19 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 05:20 UTC** | 7d | 173 buys, 201 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 05:25 UTC** | 7d | 177 buys, 208 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 05:24 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2VWyprkygt4b...` |
+| 03-18 | 05:23 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3xr4V4TKC1rr...` |
+| 03-18 | 05:23 | 🟢 BUY | MOS | 0.0001 | AiNfNi2e... | copy_buy | `2wKLyLy7e2MS...` |
+| 03-18 | 05:23 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4GUkB1E1q7qr...` |
+| 03-18 | 05:22 | 🟢 BUY | FLAG | 0.0001 | A4azQqrp... | copy_buy | `aQZpFTMVbQjt...` |
+| 03-18 | 05:22 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `ph34X7wPScUz...` |
+| 03-18 | 05:21 | 🟢 BUY | SOLARI | 0.0001 | 6raSuhfi... | copy_buy | `VZidnQXbu7jD...` |
+| 03-18 | 05:21 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2jBrs5CVjCtD...` |
+| 03-18 | 05:21 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3DdTamigsAde...` |
+| 03-18 | 05:20 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2wThrLkMp3Sv...` |
+| 03-18 | 05:20 | 🟢 BUY | FLAG | 0.0001 | A4azQqrp... | copy_buy | `qQg9tmSh5Qhr...` |
 | 03-18 | 05:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `h3hEKNFaWBhH...` |
 | 03-18 | 05:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5PyELPRudi2U...` |
 | 03-18 | 05:18 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2ND5YWHbSTM9...` |
