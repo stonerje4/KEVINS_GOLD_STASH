@@ -1,11 +1,11 @@
 # [TEST] `1aC2FgH1tujX87Bv...`
-> 2026-03-18 12:25 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 12:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Anti-Job | 03-18 08:31 | 1.02x | 1.02x | 3.9h | 0.0001 |
+| Anti-Job | 03-18 08:31 | 1.02x | 1.02x | 4.0h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
