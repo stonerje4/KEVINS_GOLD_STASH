@@ -1,12 +1,17 @@
 # [TEST] `GtgyEyvRjo7MdNSb...`
-> 2026-03-18 13:25 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 13:30 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| ROSEI | 03-18 13:17 | 0.81x | 1.11x | 0.1h | 0.0001 |
-| Rosei | 03-18 13:14 | 0.82x | 1.24x | 0.2h | 0.0001 |
+| Rosei | 03-18 13:14 | 0.87x | 1.24x | 0.3h | 0.0001 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ ROSEI | -0.0001 | 03-18 13:17 | 1.1x | 03-18 13:28 | 0.0000/0.0001 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
