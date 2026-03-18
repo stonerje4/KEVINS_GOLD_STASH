@@ -1,17 +1,17 @@
 # 👁️ SHADOW — Paper Trading Dashboard
 
-*Last updated: 2026-03-18 23:00 UTC*
+*Last updated: 2026-03-18 23:05 UTC*
 *P&L normalized to $100/buy for comparison*
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Active Wallets | 368 |
-| Closed Positions | 2035 |
-| Open Positions | 2342 |
+| Active Wallets | 367 |
+| Closed Positions | 2031 |
+| Open Positions | 2337 |
 | Profitable (3+ cls) | 8 |
-| Losing (3+ cls) | 118 |
+| Losing (3+ cls) | 117 |
 
 ## All Shadow Wallets
 
@@ -221,7 +221,6 @@
 | 🔴 | [`DXhKQ2WvTLX5XV83...`](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | 2 | 0/2 | 0% | $-117 | -59% | — | **$-117** | 1.1x | 0 | discovery_v2_auto | [trades](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA#defiactivities) |
 | 🔴 | [`BeK9f4cuWKMgRnPK...`](https://solscan.io/account/BeK9f4cuWKMgRnPKmMn8yzAe3EPB3g3dpBuGTbQZvHix) | 7 | 0/1 | 0% | $-100 | -100% | $-18 | **$-118** | 10.6x | 6 | discovery_v2 | [trades](https://solscan.io/account/BeK9f4cuWKMgRnPKmMn8yzAe3EPB3g3dpBuGTbQZvHix#defiactivities) |
 | 🔴 | [`BSJMmr9j21JVpsoB...`](https://solscan.io/account/BSJMmr9j21JVpsoB3cDxXegMyrAmNu4MotE8pLr6u2s6) | 2 | 0/1 | 0% | $-69 | -69% | $-50 | **$-120** | 1.1x | 1 | discovery_v2_auto | [trades](https://solscan.io/account/BSJMmr9j21JVpsoB3cDxXegMyrAmNu4MotE8pLr6u2s6#defiactivities) |
-| 🔴 | [`cqakon1K22iRvSAn...`](https://solscan.io/account/cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem) | 11 | 1/3 | 25% | $-22 | -6% | $-100 | **$-122** | 2.1x | 5 | manual_stoner | [trades](https://solscan.io/account/cqakon1K22iRvSAnzyNGE44KRk52p7ucRoJtvR6UFem#defiactivities) |
 | 🔴 | [`CSTVRbdiYre34bhV...`](https://solscan.io/account/CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6) | 15 | 0/2 | 0% | $-144 | -72% | $+21 | **$-123** | 1.0x | 10 | discovery_v2_auto | [trades](https://solscan.io/account/CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6#defiactivities) |
 | 🔴 | [`4tRi2At4yvM7x2AV...`](https://solscan.io/account/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA) | 2 | 0/2 | 0% | $-123 | -62% | — | **$-123** | 1.2x | 0 | discovery_v2_auto | [trades](https://solscan.io/account/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA#defiactivities) |
 | 🔴 | [`GBmHQF1H8RZsrjWK...`](https://solscan.io/account/GBmHQF1H8RZsrjWKeiU7CRT9b4xAwKnbnvXpeKTnym5p) | 2 | 0/2 | 0% | $-123 | -62% | — | **$-123** | 1.6x | 0 | discovery_v2 | [trades](https://solscan.io/account/GBmHQF1H8RZsrjWKeiU7CRT9b4xAwKnbnvXpeKTnym5p#defiactivities) |
@@ -372,7 +371,7 @@
 | discovery_v2_auto | 139 |
 | network_expansion | 126 |
 | discovery_v2 | 54 |
-| manual_stoner | 10 |
+| manual_stoner | 9 |
 | mihso_scan | 8 |
 | smart_cobuyer_5x | 7 |
 | cielo_test | 7 |

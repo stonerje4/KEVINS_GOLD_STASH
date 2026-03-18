@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 23:00 UTC*
+*Last updated: 2026-03-18 23:05 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 23:03 | 🟢 buy | GNORTS | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5nJpa9pVBZ63abudZKNpiyavky8nD2oogAUejdSFcwoH1ws8WLFZVNFuZZLFEpjEjysDGM9Z3xMSi99SgStKHQob) |
+| 2026-03-18 23:02 | 🟢 buy | MK1 | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/5BjqPoX7oQosVdwRshm2pEFwapoffeCABm5yNk53JguVYS3wGHBFm6SR19i6dJLQ2A4eKaP3rLBZqdwqRDSJ9Vmi) |
 | 2026-03-18 22:59 | 🟢 buy | Catrot | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4vdxhk1NkwvyH4G7cJp97huf6GqxMKWuaB8U2SKWzufqJom8hTR6V2NJ5j7PoAQa4xxXMfXuZENwpjhDCUszBRJo) |
 | 2026-03-18 22:58 | 🔴 sell | SWMR | `6raSuhfig5Y1...` | 0.272 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/kKszHocVSo9k5BcYTjo6gTGNL1LPNfSq8iVbgrMzghUCvYuUPPW6hPdGV3KTubmNrveEtU1qG1CB6jp9cjPrZ3A) |
 | 2026-03-18 22:46 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.702 | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/4AKxXsWafNjJsLyHoRi4nnhCZB2JqV1eZgRwPVitT1tuwGnje4nRqx1KdzvTpbu6ZYwgrSXWi4qEE4jVAc8MHdGv) |

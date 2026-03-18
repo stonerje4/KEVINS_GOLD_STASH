@@ -1,12 +1,13 @@
 # [PRD] `5n593DWQkpfFgA69...`
-> 2026-03-18 23:00 UTC | **5** pos | **3W/0L** | P&L: **+3.033536 SOL** (+202.2%) | 2 open
+> 2026-03-18 23:05 UTC | **6** pos | **3W/0L** | P&L: **+3.033536 SOL** (+202.2%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| FUCKENING | 03-18 22:30 | 0.00x | 1.64x | 0.5h | 0.5000 |
-| functionless | 03-18 19:31 | 0.00x | 1.35x | 3.5h | 0.5000 |
+| MK1 | 03-18 23:02 | 0.00x | 1.45x | 0.0h | 0.5000 |
+| FUCKENING | 03-18 22:30 | 0.00x | 1.64x | 0.6h | 0.5000 |
+| functionless | 03-18 19:31 | 0.00x | 1.35x | 3.6h | 0.5000 |
 
 ## Closed
 
@@ -20,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 23:02 | MK1 | BUY | 0.5000 | `5BjqPoX7oQosVdwR...` |
 | 03-18 22:30 | FUCKENING | BUY | 0.5000 | `SJRUw2X1rLh1WK7L...` |
 | 03-18 20:48 | GroupChat | SELL | 0.3912 | `64rVP8g1376j1CZj...` |
 | 03-18 20:37 | GroupChat | SELL | 0.2502 | `cqAQ9YuDEZNR2Pjz...` |

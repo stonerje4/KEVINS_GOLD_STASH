@@ -1,8 +1,10 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 23:00 UTC** | 7d | 34 buys, 15 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 23:05 UTC** | 7d | 35 buys, 16 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 23:03 | 💰 SELL | SQUIRE | 0.0001 | FY5sWMqL... | TP2 | `2kx2RxD1DNhE...` |
+| 03-18 | 23:03 | 🟢 BUY | GNORTS | 0.0002 | 6raSuhfi... | copy_buy | `52LyNAV3dmVz...` |
 | 03-18 | 22:59 | 🟢 BUY | Catrot | 0.0002 | 6raSuhfi... | copy_buy | `4gwYhsxu6Hpb...` |
 | 03-18 | 22:58 | 💰 SELL | 1491 | 0.0003 | Ev93PxVm... | trail | `2Z6GFViz4nA2...` |
 | 03-18 | 22:57 | 🟢 BUY | CHOCOTINA | 0.0002 | FVFkKaDk... | copy_buy | `2gPAF7zq5XjL...` |
