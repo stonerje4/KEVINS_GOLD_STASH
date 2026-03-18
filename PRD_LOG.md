@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 11:20 UTC** | 7d | 143 buys, 120 sells | In: **29.35** | Out: **26.49** | Net: **-2.86 SOL**
+> Updated: **2026-03-18 11:25 UTC** | 7d | 144 buys, 122 sells | In: **29.60** | Out: **26.67** | Net: **-2.93 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:24 | 💰 SELL | CHEMTRAILS | 0.1272 | 2w85VLX4... | TP1 | `5Ygxt5zAuLN3...` |
+| 03-18 | 11:24 | 🟢 BUY | METEOR | 0.2500 | r9pFHjFe... | copy | `3cnfNjm3rfmB...` |
+| 03-18 | 11:22 | 🔴 SELL | FP | 0.0569 | 42nQHDpy... | SL | `5b7MHpyMgo7E...` |
 | 03-18 | 11:14 | 🟢 BUY | Lion | 0.2500 | 2w85VLX4... | copy | `K2d48KkLpKHh...` |
 | 03-18 | 11:08 | 💰 SELL | COMMODITY | 0.1399 | 6raSuhfi... | TP1 | `3yB5yLaCQb3W...` |
 | 03-18 | 11:07 | 🔴 SELL | AOR | 0.1785 | DHfshpzo... | stale | `49ZU8VeajQgJ...` |
