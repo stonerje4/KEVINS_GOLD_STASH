@@ -1,12 +1,13 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-18 15:45 UTC | **10** pos | **0W/8L** | P&L: **-0.000800 SOL** (-100.0%) | 2 open
+> 2026-03-18 15:50 UTC | **11** pos | **0W/8L** | P&L: **-0.000800 SOL** (-100.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| GCOIN | 03-18 11:07 | 0.86x | 1.01x | 4.6h | 0.0001 |
-| Terafab | 03-18 06:04 | 0.62x | 1.00x | 9.7h | 0.0001 |
+| Community | 03-18 15:47 | 0.90x | 1.00x | 0.0h | 0.0001 |
+| GCOIN | 03-18 11:07 | 0.86x | 1.01x | 4.7h | 0.0001 |
+| Terafab | 03-18 06:04 | 0.59x | 1.00x | 9.8h | 0.0001 |
 
 ## Closed
 
@@ -25,6 +26,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 15:47 | Community | BUY | 0.0001 | `45WZgjkdzxXE58bY...` |
 | 03-18 11:07 | GCOIN | BUY | 0.0001 | `LGJRVU5PK2yJ2c4K...` |
 | 03-18 09:13 | Claude | BUY | 0.0001 | `29qjNv5XX8wBt8ZA...` |
 | 03-18 08:40 | COMMODITY | BUY | 0.0001 | `2itSpLcw1p5un75X...` |
