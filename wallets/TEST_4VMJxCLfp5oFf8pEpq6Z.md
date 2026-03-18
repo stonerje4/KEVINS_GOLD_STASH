@@ -1,18 +1,16 @@
-# [PRD] `5vweNikgScdnGkZC...`
+# [TEST] `4VMJxCLfp5oFf8pE...`
 > 2026-03-18 03:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BBX | 03-16 16:59 | 0.00x | 3.98x | 1.4d | 0.1500 |
+| Thinker | 03-18 03:37 | 1.25x | 1.25x | 0.0h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-17 14:44 | BBX | SELL | 0.0451 | `2LsWQfB2Fx2qL6uF...` |
-| 03-17 01:52 | BBX | SELL | 0.0305 | `3dw5TFZXkDDf3dj2...` |
-| 03-16 16:59 | BBX | BUY | 0.1500 | `2X712DuH1d6d8sLg...` |
+| 03-18 03:37 | Thinker | BUY | 0.0001 | `5TdEJQAWtfpDBPwz...` |
 
 </details>
