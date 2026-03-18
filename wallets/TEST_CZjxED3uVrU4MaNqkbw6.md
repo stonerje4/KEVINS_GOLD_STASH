@@ -1,11 +1,11 @@
 # [TEST] `CZjxED3uVrU4MaNq...`
-> 2026-03-18 05:55 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 06:00 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| PATRIOT | 03-18 03:29 | 1.52x | 1.52x | 2.4h | 0.0001 |
+| PATRIOT | 03-18 03:29 | 1.45x | 1.52x | 2.5h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

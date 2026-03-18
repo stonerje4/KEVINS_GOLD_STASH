@@ -1,12 +1,17 @@
 # [TEST] `Be6s18aTYhuBZCSY...`
-> 2026-03-18 05:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 06:00 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| A&A | 03-18 03:31 | 0.80x | 1.00x | 2.4h | 0.0001 |
-| DECEL | 03-18 02:26 | 0.74x | 1.00x | 3.5h | 0.0001 |
+| A&A | 03-18 03:31 | 0.80x | 1.00x | 2.5h | 0.0001 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ DECEL | -0.0001 | 03-18 02:26 | 1.0x | 03-18 05:58 | 0.0000/0.0001 | stale_cleanup |
 
 <details><summary>📋 Full Trade Log</summary>
 
