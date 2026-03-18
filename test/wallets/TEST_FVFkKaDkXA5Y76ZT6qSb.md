@@ -1,11 +1,11 @@
 # [TEST] `FVFkKaDkXA5Y76ZT...`
-> 2026-03-18 23:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 23:35 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| CHOCOTINA | 03-18 22:57 | 0.87x | 1.25x | 0.5h | 0.0002 |
+| CHOCOTINA | 03-18 22:57 | 0.82x | 1.25x | 0.6h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
