@@ -1,8 +1,28 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 14:25 UTC** | 7d | 475 buys, 995 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
+> Updated: **2026-03-18 14:30 UTC** | 7d | 483 buys, 1007 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 14:29 | 🟢 BUY | Goose | 0.0001 | BNCSPd6Q... | copy_buy | `3hEKtnMKp4uC...` |
+| 03-18 | 14:29 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `3eCr7ngNXhMb...` |
+| 03-18 | 14:29 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `qzSUfeRJrW8i...` |
+| 03-18 | 14:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5NbR3qEkDNJy...` |
+| 03-18 | 14:28 | 🟢 BUY | Goose | 0.0001 | BNCSPd6Q... | copy_buy | `3hoBc5J6qmwh...` |
+| 03-18 | 14:28 | 🟢 BUY | PumpDex | 0.0001 | 44yBNPRV... | copy_buy | `ia6FxndiZuFu...` |
+| 03-18 | 14:28 | 🟢 BUY | AF | 0.0001 | GtgyEyvR... | copy_buy | `5w72gFcabo7k...` |
+| 03-18 | 14:28 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `5jMt4Kcdu36t...` |
+| 03-18 | 14:28 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `m7h3hpjRdEkx...` |
+| 03-18 | 14:27 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3XDxqSvDqCRj...` |
+| 03-18 | 14:27 | 🟢 BUY | USAID | 0.0001 | GGbGeDC9... | copy_buy | `3d3r4S3tHyYg...` |
+| 03-18 | 14:27 | 🟢 BUY | PWUNCH | 0.0001 | 42nQHDpy... | copy_buy | `hfnHocCdLUbT...` |
+| 03-18 | 14:27 | 🟢 BUY | USAID | 0.0001 | BGGJhxGX... | copy_buy | `3VRpoLMi6X2e...` |
+| 03-18 | 14:27 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `3fsKfeyjfPQU...` |
+| 03-18 | 14:26 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3JzRf2ectMRp...` |
+| 03-18 | 14:26 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `Cix3rZFP129E...` |
+| 03-18 | 14:26 | 🟢 BUY | PVP | 0.0001 | FoHJUYTh... | copy_buy | `uJhVtpSVDFcg...` |
+| 03-18 | 14:25 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `4Xj4JDjMmFpD...` |
+| 03-18 | 14:25 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5tDLLJrQDZjS...` |
+| 03-18 | 14:25 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5uQAxcXfr8QZ...` |
 | 03-18 | 14:24 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `2u47N569WDdF...` |
 | 03-18 | 14:24 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4AA6qXcS1U4B...` |
 | 03-18 | 14:24 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `21hizxVDkKyG...` |

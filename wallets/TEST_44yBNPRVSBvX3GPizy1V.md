@@ -1,10 +1,11 @@
 # [TEST] `44yBNPRVSBvX3GPi...`
-> 2026-03-18 14:25 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+> 2026-03-18 14:30 UTC | **3** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
+| PumpDex | 03-18 14:28 | 0.78x | 1.00x | 0.0h | 0.0001 |
 | Kingpin | 03-18 01:45 | 0.73x | 1.45x | 12.7h | 0.0001 |
 
 ## Closed
@@ -17,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 14:28 | PumpDex | BUY | 0.0001 | `ia6FxndiZuFup1iJ...` |
 | 03-18 02:26 | cat#002 | BUY | 0.0001 | `5zq6WRyFYABYkkYH...` |
 | 03-18 01:45 | Kingpin | BUY | 0.0001 | `3uAFJSjFsfSTDjez...` |
 
