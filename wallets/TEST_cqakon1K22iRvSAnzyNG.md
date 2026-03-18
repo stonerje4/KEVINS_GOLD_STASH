@@ -1,13 +1,14 @@
 # [TEST] `cqakon1K22iRvSAn...`
-> 2026-03-18 10:35 UTC | **7** pos | **0W/4L** | P&L: **-0.000400 SOL** (-100.0%) | 3 open
+> 2026-03-18 10:40 UTC | **8** pos | **0W/4L** | P&L: **-0.000400 SOL** (-100.0%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| stopslop  | 03-18 09:02 | 0.40x | 1.00x | 1.5h | 0.0001 |
+| FARMER | 03-18 10:38 | 1.43x | 1.43x | 0.0h | 0.0001 |
+| stopslop  | 03-18 09:02 | 0.40x | 1.00x | 1.6h | 0.0001 |
 | HUMANS | 03-18 07:37 | 0.41x | 1.00x | 3.0h | 0.0001 |
-| HOLLYANGELS | 03-18 07:27 | 0.53x | 1.40x | 3.1h | 0.0001 |
+| HOLLYANGELS | 03-18 07:27 | 0.53x | 1.40x | 3.2h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +23,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 10:38 | FARMER | BUY | 0.0001 | `2Lp2CnsTfDU8p97m...` |
 | 03-18 09:34 | MAGA | BUY | 0.0001 | `5Wu6vpmeFsanfaBL...` |
 | 03-18 09:06 | COMPUTER | BUY | 0.0001 | `5v7sroyx5pVvBwxh...` |
 | 03-18 09:02 | stopslop  | BUY | 0.0001 | `2Qte2N37TLtfPmpk...` |
