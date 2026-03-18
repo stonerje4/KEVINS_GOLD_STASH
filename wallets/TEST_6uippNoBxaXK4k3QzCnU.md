@@ -1,11 +1,11 @@
 # [TEST] `6uippNoBxaXK4k3Q...`
-> 2026-03-18 07:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 07:35 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| CATE | 03-18 07:21 | 0.57x | 1.09x | 0.1h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ CATE | -0.0001 | 03-18 07:21 | 1.1x | 03-18 07:34 | 0.0000/0.0001 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
