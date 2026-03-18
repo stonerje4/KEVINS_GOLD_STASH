@@ -1,16 +1,18 @@
 # [TEST] `7cA6GmNF9zWBp67B...`
-> 2026-03-18 06:50 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 06:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| KIKO | 03-18 06:06 | 0.98x | 1.25x | 0.7h | 0.0001 |
+| 페이커 | 03-18 06:54 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| KIKO | 03-18 06:06 | 0.98x | 1.25x | 0.8h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 06:54 | 페이커 | BUY | 0.0001 | `5NmEG95LAfUkPQzy...` |
 | 03-18 06:06 | KIKO | BUY | 0.0001 | `21hY9Tkbdj6HTEVY...` |
 
 </details>
