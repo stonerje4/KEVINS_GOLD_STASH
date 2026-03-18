@@ -1,12 +1,12 @@
 # [TEST] `8yuF1Tfg5HhyBogg...`
-> 2026-03-18 13:40 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 13:45 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| HORSEMEN | 03-18 13:37 | 0.90x | 1.00x | 0.0h | 0.0001 |
-| ABDUCTED | 03-18 12:37 | 0.56x | 1.00x | 1.0h | 0.0001 |
+| HORSEMEN | 03-18 13:37 | 0.59x | 1.08x | 0.1h | 0.0001 |
+| ABDUCTED | 03-18 12:37 | 0.56x | 1.00x | 1.1h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

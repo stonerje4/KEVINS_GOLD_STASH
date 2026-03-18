@@ -1,8 +1,20 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 13:40 UTC** | 7d | 451 buys, 901 sells | In: **0.05** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 13:45 UTC** | 7d | 453 buys, 911 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 13:44 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `316TBGaTqTnP...` |
+| 03-18 | 13:44 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2Vw85eAu7CSP...` |
+| 03-18 | 13:43 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2zgWv3o8fXe8...` |
+| 03-18 | 13:43 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `65YwjHYENddp...` |
+| 03-18 | 13:42 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5AkjWFrThXPQ...` |
+| 03-18 | 13:42 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3rM6GGQ8EFHB...` |
+| 03-18 | 13:42 | 🟢 BUY | Mick | 0.0001 | 9G4ytadk... | copy_buy | `38doxAopZKm7...` |
+| 03-18 | 13:41 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2jrDa4oWzj1y...` |
+| 03-18 | 13:41 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `by2qiCtcuRa4...` |
+| 03-18 | 13:41 | 🟢 BUY | Popopocoin | 0.0001 | APUYxGfK... | copy_buy | `3Rktt7CW3bSo...` |
+| 03-18 | 13:40 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `HWQBETdLvzgL...` |
+| 03-18 | 13:40 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2XCb9WPivehC...` |
 | 03-18 | 13:39 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4dkJprHxbfaU...` |
 | 03-18 | 13:39 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5cps1bKPFU2V...` |
 | 03-18 | 13:39 | 🟢 BUY | S&P500 | 0.0001 | bocsoUiM... | copy_buy | `2jYRcZnNENbq...` |
