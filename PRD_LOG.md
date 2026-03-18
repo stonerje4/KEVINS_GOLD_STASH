@@ -1,8 +1,15 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 05:05 UTC** | 7d | 100 buys, 68 sells | In: **18.60** | Out: **12.46** | Net: **-6.14 SOL**
+> Updated: **2026-03-18 05:10 UTC** | 7d | 101 buys, 74 sells | In: **18.85** | Out: **12.92** | Net: **-5.93 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 05:09 | 🟢 BUY | BBX | 0.2500 | DHfshpzo... | copy | `54M3L61dN1iF...` |
+| 03-18 | 05:07 | 🔴 SELL | YoungHo | 0.0689 | J5jm7BnB... | stale | `5QAUwxpLQUDF...` |
+| 03-18 | 05:07 | 🔴 SELL | EAM | 0.0618 | J5jm7BnB... | stale | `NKRLxosMRRz6...` |
+| 03-18 | 05:07 | 🔴 SELL | Akhal-Teke | 0.0763 | BNCSPd6Q... | stale | `DGBGWLzBqFYK...` |
+| 03-18 | 05:07 | 🔴 SELL | Gork | 0.1248 | 42nQHDpy... | stale | `4Sym5fPW1Pbm...` |
+| 03-18 | 05:07 | 🔴 SELL | MULE | 0.0628 | 42nQHDpy... | stale | `QjmLRqfcbyQj...` |
+| 03-18 | 05:07 | 🔴 SELL | RAVEN | 0.0667 | 5n593DWQ... | stale | `275oyKhAJZEd...` |
 | 03-18 | 05:00 | 💰 SELL | DISLIKE | 1.0328 | 6raSuhfi... | tp_25x_trim | `55ksywSM3YYK...` |
 | 03-18 | 04:56 | 💰 SELL | DISLIKE | 0.7686 | 6raSuhfi... | tp_15x_trim | `32b9shjZTH49...` |
 | 03-18 | 04:53 | 💰 SELL | TGR | 0.1262 | DHfshpzo... | TP1 | `5aKphzu81nFT...` |

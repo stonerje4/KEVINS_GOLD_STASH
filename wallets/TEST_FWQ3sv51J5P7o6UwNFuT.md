@@ -1,12 +1,12 @@
 # [TEST] `FWQ3sv51J5P7o6Uw...`
-> 2026-03-18 05:05 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 05:10 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| ratfucker | 03-18 04:32 | 0.72x | 1.13x | 0.5h | 0.0001 |
-| Land | 03-18 01:51 | 0.79x | 1.48x | 3.2h | 0.0001 |
+| ratfucker | 03-18 04:32 | 0.72x | 1.13x | 0.6h | 0.0001 |
+| Land | 03-18 01:51 | 0.79x | 1.48x | 3.3h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
