@@ -1,11 +1,11 @@
 # [TEST] `FVFkKaDkXA5Y76ZT...`
-> 2026-03-18 04:35 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 04:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| AFRO | 03-18 04:13 | 1.32x | 1.89x | 0.4h | 0.0001 |
+| AFRO | 03-18 04:13 | 1.55x | 1.89x | 0.4h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

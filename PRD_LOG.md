@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 04:35 UTC** | 7d | 100 buys, 60 sells | In: **18.60** | Out: **9.33** | Net: **-9.27 SOL**
+> Updated: **2026-03-18 04:40 UTC** | 7d | 100 buys, 64 sells | In: **18.60** | Out: **10.15** | Net: **-8.45 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 04:39 | 🔴 SELL | Doge#069 | 0.2053 | 6raSuhfi... | trail | `5YwHCLM1uhJW...` |
+| 03-18 | 04:38 | 💰 SELL | DISLIKE | 0.2633 | 6raSuhfi... | tp_8x_trim | `Nk3Lrf7C4Bso...` |
+| 03-18 | 04:38 | 💰 SELL | DISLIKE | 0.2389 | 6raSuhfi... | TP4 | `5iXnzbZb5VV7...` |
+| 03-18 | 04:37 | 💰 SELL | ? | 0.1153 | BGGJhxGX... | TP2 | `3XKgZQTxsawe...` |
 | 03-18 | 04:29 | 💰 SELL | DISLIKE | 0.1645 | 6raSuhfi... | TP3 | `4tSc7KAEf8aM...` |
 | 03-18 | 04:27 | 🟢 BUY | SWARM | 0.2500 | 6raSuhfi... | copy | `2BtHvh3UVJ6P...` |
 | 03-18 | 04:23 | 💰 SELL | DISLIKE | 0.2044 | 6raSuhfi... | TP2 | `3F5EyjEwA3wL...` |
