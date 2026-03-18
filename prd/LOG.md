@@ -1,9 +1,15 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 21:30 UTC*
+*Last updated: 2026-03-18 22:03 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 22:00 | 🔴 sell | FOOL | `HMM6RoT2Xo3B...` | 0.258 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/MTitfoDaPdKvc9bUsyq1Wc3bTPZM7zzmD9T2nDVQD6kHf7wqyeS9KWeLCiEKcwwSU38KTznCQdBxneEiKjc3bLm) |
+| 2026-03-18 21:58 | 🟢 buy | TGR | `5vweNikgScdn...` | 0.500 | — | cielo_copy:5vweNikgScdnGkZCC3ya | [tx](https://solscan.io/tx/2m6U5PPnwULKQT6EiZ6hAoA67nbwyKrD8SPZMBbUo6Ut4MHNJN8fJ1ZHKLbe9aB2DxifGnvQHSTyX4uRJ2rx2r1p) |
+| 2026-03-18 21:56 | 🟢 buy | FOOL | `HMM6RoT2Xo3B...` | 0.500 | — | cielo_copy:HMM6RoT2Xo3BNfD5FTNs | [tx](https://solscan.io/tx/5ponJwTXHRQuaPZx2yZH9o89gjbmd2RNKofAdY9556KSDqHJPCsMKmiJbwY2kwdv6UveMs5LVHps8xNRS5xdLhQZ) |
+| 2026-03-18 21:56 | 🟢 buy | BERTIE | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/4LumiLvyTJwt2nKFMLgdzFA9FVgNNdFnsHeiR8BtLpuwxgy6EMt6e7V1S1HXqnfM3dsJZN6ryFtBXBKbWR4H8kGc) |
+| 2026-03-18 21:55 | 🟢 buy | Handprint | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/2e7mV1G1iK15ffR5Cu2k1pcXaX9LmmLR7vAoGaR3maBJVygciWN6ecay4ex1AjRiw8EhxwyKAkL1AFw9BnrQ4Nrt) |
+| 2026-03-18 21:42 | 🟢 buy | Pumpfun | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/47h3hM3M87Bwz3cAzTF9mj8dyc1d4SjWhNNwUhH1QBXAbPG6UhAHN3koV4qHymct5BHGkAwTYQSqvLMPW6ih9maw) |
 | 2026-03-18 21:29 | 🔴 sell | DEATHMASK | `6raSuhfig5Y1...` | 0.171 | 0.3x | stop_loss | [tx](https://solscan.io/tx/AmN4u8FiK7p9YhqWWdcrYFBsvRm2BMtn8Me6EAzYYKYqMxvkH7KUYiW9ezb8MnHo1ACHxDyQqGcHWPhiZtkNdjR) |
 | 2026-03-18 21:29 | 🔴 sell | SPOON | `6raSuhfig5Y1...` | 0.276 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/3C7Z5vEM76mVTSMzJE5Ls6VqRXKLkFuhr93xVTeUK6j8AQLNw4V6gpLN6vq4ABDtv792dqnBKXyzxy5WnT7MW6yT) |
 | 2026-03-18 21:25 | 🟢 buy | HIM | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/34GqiN9wLu86rfNuaRRyLaq6nFPJzMEupya7jvLMUocgDU8qBBfpayCg3QQUfkLrsA3zeeZCug3cn9QhuSCKZRwe) |
