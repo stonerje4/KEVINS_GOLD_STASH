@@ -1,8 +1,26 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 14:20 UTC** | 7d | 469 buys, 983 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
+> Updated: **2026-03-18 14:25 UTC** | 7d | 475 buys, 995 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 14:24 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `2u47N569WDdF...` |
+| 03-18 | 14:24 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4AA6qXcS1U4B...` |
+| 03-18 | 14:24 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `21hizxVDkKyG...` |
+| 03-18 | 14:23 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `qUnzRv6C2pFu...` |
+| 03-18 | 14:23 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5qVmJ1xDapQC...` |
+| 03-18 | 14:23 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2EztNQJGSUAo...` |
+| 03-18 | 14:22 | 🟢 BUY | USAID | 0.0001 | A4azQqrp... | copy_buy | `3TGK4TXLrHzk...` |
+| 03-18 | 14:22 | 🟢 BUY | TMA1 | 0.0001 | bocsoUiM... | copy_buy | `MV4Rk31NffoC...` |
+| 03-18 | 14:22 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `eve3SmfVfx4v...` |
+| 03-18 | 14:22 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4jAoZGyJikHN...` |
+| 03-18 | 14:21 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `VKFWtqYoii8o...` |
+| 03-18 | 14:21 | 🟢 BUY | COMMODITIES | 0.0001 | bocsoUiM... | copy_buy | `4P63wr9ktSkz...` |
+| 03-18 | 14:21 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `54WTfm3GwmNn...` |
+| 03-18 | 14:20 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `WCu7TffQoheZ...` |
+| 03-18 | 14:20 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2eGGZj9qhvS6...` |
+| 03-18 | 14:20 | 🟢 BUY | SPOODERMAN | 0.0001 | Ckm6DF7m... | copy_buy | `4wNcS19H5MJ6...` |
+| 03-18 | 14:20 | 🟢 BUY | USAID | 0.0001 | 2947n9KQ... | copy_buy | `VTUPr3TNeyor...` |
+| 03-18 | 14:20 | 🟢 BUY | BROKE | 0.0001 | cqakon1K... | copy_buy | `41Xi8mG6qz5s...` |
 | 03-18 | 14:19 | 🔴 SELL | WRT | 0.0000 | A4azQqrp... | SL | `3BopqnLYxQeQ...` |
 | 03-18 | 14:19 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3tuXENKSZHX8...` |
 | 03-18 | 14:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3GutAqoKtfzU...` |
