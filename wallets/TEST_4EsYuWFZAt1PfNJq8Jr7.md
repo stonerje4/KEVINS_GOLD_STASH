@@ -1,11 +1,11 @@
 # [TEST] `4EsYuWFZAt1PfNJq...`
-> 2026-03-18 04:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 04:35 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Crashout | 03-18 03:24 | 0.51x | 1.33x | 1.1h | 0.0001 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Crashout | -0.0001 | 03-18 03:24 | 1.3x | 03-18 04:32 | 0.0000/0.0001 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
