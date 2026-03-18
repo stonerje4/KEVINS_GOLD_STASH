@@ -1,9 +1,17 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 22:03 UTC*
+*Last updated: 2026-03-18 22:44 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 22:32 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.396 | 3.2x | tp_3x_trim | [tx](https://solscan.io/tx/5hAeYzM4sDSfJ5NVb33R73Xi8ro7FBbMatpiMV7wQoVBCqC1RdPFAna79xkhJedRjkDNeN2r24pRnJynyEw58sjV) |
+| 2026-03-18 22:30 | 🟢 buy | FUCKENING | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/SJRUw2X1rLh1WK7L6o1iff2zQY74erP1MfuhhPsjdwHbqQVWGePHrTcoPAdAzxeTmquqYTMEiwjqpo8GkXh7yMm) |
+| 2026-03-18 22:21 | 🔴 sell | FOOL | `HMM6RoT2Xo3B...` | 0.412 | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/4ippeMuPocvafxuyBK2pZXYkSHkQeRncppfFFqjygqwS8KikUFxmLCTLXZJ9aQEFRpsDSzWoAC47vMLXZNdjZa14) |
+| 2026-03-18 22:19 | 🔴 sell | Pumpfun | `J5jm7BnBiGaB...` | 0.179 | 0.4x | stop_loss | [tx](https://solscan.io/tx/2NWHwr7Fz1by6tAvtxqmfmT3aJtbzCobdDPztJ6ZAB6SzozEsryJQhmKb3hgiLxhYYZVkPmrcPqY7Jbcu1kg2nUT) |
+| 2026-03-18 22:11 | 🟢 buy | KAT | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5zxV7QprEa6ueNUid4N1vbtsjYoYJBiZu7NPmFHcSCgH3yZWip3NndH4vPTkFSTsgmxAUBg6ngvvQb255qAmZe2t) |
+| 2026-03-18 22:09 | 🟢 buy | Manchas | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/34CfjNrgEnYBGKsbq17M7Efe5fN4uuD7TiFr47LxJjQi3C3R4yYVJPuBvsoPu5SKEKxacUfGEbNjrRHAU1dfLxz5) |
+| 2026-03-18 22:08 | 🔴 sell | BERTIE | `J5jm7BnBiGaB...` | 0.197 | 0.4x | stop_loss | [tx](https://solscan.io/tx/5rSkj9QCRBrA2APEmZ1As1gMNik6aB6C2KA5jXKfkNL4gJ4wiVkHWogmg267FC35z3GgPY66FmdYuYjwjRMcCkej) |
+| 2026-03-18 22:08 | 🟢 buy | RUSH | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/2pXZrz6wPCpQ7efCdqKFiHqjwX7QYCAVAKJrhKCLUBBF2oWqxJ3urFMkQMYt65eHePJKK8FhuwmrzvyWK32ino4f) |
 | 2026-03-18 22:00 | 🔴 sell | FOOL | `HMM6RoT2Xo3B...` | 0.258 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/MTitfoDaPdKvc9bUsyq1Wc3bTPZM7zzmD9T2nDVQD6kHf7wqyeS9KWeLCiEKcwwSU38KTznCQdBxneEiKjc3bLm) |
 | 2026-03-18 21:58 | 🟢 buy | TGR | `5vweNikgScdn...` | 0.500 | — | cielo_copy:5vweNikgScdnGkZCC3ya | [tx](https://solscan.io/tx/2m6U5PPnwULKQT6EiZ6hAoA67nbwyKrD8SPZMBbUo6Ut4MHNJN8fJ1ZHKLbe9aB2DxifGnvQHSTyX4uRJ2rx2r1p) |
 | 2026-03-18 21:56 | 🟢 buy | FOOL | `HMM6RoT2Xo3B...` | 0.500 | — | cielo_copy:HMM6RoT2Xo3BNfD5FTNs | [tx](https://solscan.io/tx/5ponJwTXHRQuaPZx2yZH9o89gjbmd2RNKofAdY9556KSDqHJPCsMKmiJbwY2kwdv6UveMs5LVHps8xNRS5xdLhQZ) |
