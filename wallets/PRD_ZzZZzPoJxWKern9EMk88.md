@@ -1,11 +1,11 @@
 # [PRD] `ZzZZzPoJxWKern9E...`
-> 2026-03-18 10:25 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 10:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DRONE | 03-17 09:17 | 0.00x | 2.02x | 1.0d | 0.1500 |
+| DRONE | 03-17 09:17 | 0.00x | 2.02x | 1.1d | 0.1500 |
 
 <details><summary>📋 Full Trade Log</summary>
 
