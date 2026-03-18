@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 07:55 UTC** | 7d | 125 buys, 95 sells | In: **24.85** | Out: **22.74** | Net: **-2.11 SOL**
+> Updated: **2026-03-18 08:00 UTC** | 7d | 125 buys, 96 sells | In: **24.85** | Out: **22.83** | Net: **-2.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 07:56 | 🔴 SELL | $HMINE | 0.0874 | 6raSuhfi... | SL | `2aWkeeeU8afa...` |
 | 03-18 | 07:54 | 🔴 SELL | WLFI | 0.0990 | 6raSuhfi... | SL | `qKuNuvkGQ6pd...` |
 | 03-18 | 07:47 | 🟢 BUY | $HMINE | 0.2500 | 6raSuhfi... | copy | `5XpMdR9x4AdN...` |
 | 03-18 | 07:43 | 💰 SELL | DISLIKE | 6.1458 | 6raSuhfi... | trail | `2Q3omGdhFryF...` |
