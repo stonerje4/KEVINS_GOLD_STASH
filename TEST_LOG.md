@@ -1,8 +1,15 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 09:00 UTC** | 7d | 320 buys, 511 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 09:05 UTC** | 7d | 321 buys, 517 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 09:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3URPxaf1RZKg...` |
+| 03-18 | 09:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2nzMqJES6GZb...` |
+| 03-18 | 09:03 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `28iUqA3d1zuu...` |
+| 03-18 | 09:02 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3dx3QbS5prr3...` |
+| 03-18 | 09:02 | 🟢 BUY | stopslop  | 0.0001 | cqakon1K... | copy_buy | `2Qte2N37TLtf...` |
+| 03-18 | 09:01 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2aXCrwUEQx7t...` |
+| 03-18 | 09:00 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `TckJsjdjppwW...` |
 | 03-18 | 08:59 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3z18qr5E2MnP...` |
 | 03-18 | 08:59 | 🟢 BUY | Pippunch | 0.0001 | 42nQHDpy... | copy_buy | `2XcL7JpFCfuW...` |
 | 03-18 | 08:59 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3iReFxDEowXw...` |

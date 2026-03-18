@@ -1,12 +1,13 @@
 # [TEST] `cqakon1K22iRvSAn...`
-> 2026-03-18 09:00 UTC | **4** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 2 open
+> 2026-03-18 09:05 UTC | **5** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| HUMANS | 03-18 07:37 | 0.41x | 1.00x | 1.4h | 0.0001 |
-| HOLLYANGELS | 03-18 07:27 | 0.53x | 1.40x | 1.5h | 0.0001 |
+| stopslop  | 03-18 09:02 | 0.61x | 1.00x | 0.0h | 0.0001 |
+| HUMANS | 03-18 07:37 | 0.41x | 1.00x | 1.5h | 0.0001 |
+| HOLLYANGELS | 03-18 07:27 | 0.53x | 1.40x | 1.6h | 0.0001 |
 
 ## Closed
 
@@ -19,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 09:02 | stopslop  | BUY | 0.0001 | `2Qte2N37TLtfPmpk...` |
 | 03-18 08:50 | AOI | BUY | 0.0001 | `KZqF2EgFngX3fnnF...` |
 | 03-18 08:45 | MOJTABA | BUY | 0.0001 | `657UV43p97k5tvGs...` |
 | 03-18 07:37 | HUMANS | BUY | 0.0001 | `41sq71NXGV15L5Du...` |
