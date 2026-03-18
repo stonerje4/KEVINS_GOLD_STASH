@@ -1,11 +1,11 @@
 # [TEST] `2AkmfaxF11TPaiRQ...`
-> 2026-03-18 04:05 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 04:10 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| FLAG | 03-18 04:03 | 0.99x | 1.00x | 0.0h | 0.0001 |
+| FLAG | 03-18 04:03 | 0.99x | 1.00x | 0.1h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

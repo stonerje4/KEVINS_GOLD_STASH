@@ -1,8 +1,14 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 04:05 UTC** | 7d | 97 buys, 43 sells | In: **17.85** | Out: **4.29** | Net: **-13.56 SOL**
+> Updated: **2026-03-18 04:10 UTC** | 7d | 97 buys, 49 sells | In: **17.85** | Out: **4.86** | Net: **-12.99 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 04:07 | 🔴 SELL | Wump | 0.1023 | AF5Txaad... | stale | `4GoKWVGh8FZ8...` |
+| 03-18 | 04:07 | 🔴 SELL | ? | 0.0881 | AF5Txaad... | stale | `ZsxAmidCU8am...` |
+| 03-18 | 04:07 | 🔴 SELL | BBX | 0.1362 | BGGJhxGX... | stale | `2rqSS4h2BsyQ...` |
+| 03-18 | 04:07 | 🔴 SELL | Clover | 0.0913 | BGGJhxGX... | stale | `3rw4YwuGAWL3...` |
+| 03-18 | 04:07 | 🔴 SELL | crine | 0.0754 | 42nQHDpy... | stale | `FMHaSBb1DEWs...` |
+| 03-18 | 04:07 | 🔴 SELL | SIRIUX | 0.0765 | 42nQHDpy... | stale | `4ZETfnGis4Nv...` |
 | 03-18 | 04:04 | 🟢 BUY | DISLIKE | 0.2500 | 6raSuhfi... | copy | `xFdfbUfLF16a...` |
 | 03-18 | 04:04 | 🟢 BUY | FLAG | 0.2500 | DHfshpzo... | copy | `r1xFYyrkAW71...` |
 | 03-18 | 04:01 | 🟢 BUY | TGR | 0.2500 | DHfshpzo... | copy | `3KBxm2VwFjRt...` |
