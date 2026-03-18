@@ -1,8 +1,20 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 07:25 UTC** | 7d | 254 buys, 383 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 07:30 UTC** | 7d | 259 buys, 390 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 07:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5cis3ynskPcF...` |
+| 03-18 | 07:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `51Zg5z72jXgm...` |
+| 03-18 | 07:28 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `k3DfocNP2Pbb...` |
+| 03-18 | 07:27 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2gTi6prx6ZKX...` |
+| 03-18 | 07:27 | 🟢 BUY | HOLLYANGELS | 0.0001 | cqakon1K... | copy_buy | `4iQwpnNfMNGC...` |
+| 03-18 | 07:26 | 🟢 BUY | FOR | 0.0001 | BGGJhxGX... | copy_buy | `2nff1aDcgSEj...` |
+| 03-18 | 07:26 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2niuXbDnDy8J...` |
+| 03-18 | 07:26 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4XsWmbNiDxAy...` |
+| 03-18 | 07:26 | 🟢 BUY | HOLLYANGELS | 0.0001 | APUYxGfK... | copy_buy | `5xgbdhkQp7A8...` |
+| 03-18 | 07:25 | 🟢 BUY | AlphA | 0.0001 | 4VMJxCLf... | copy_buy | `4NUBM24hsu2F...` |
+| 03-18 | 07:25 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2DS4v9gBU6Di...` |
+| 03-18 | 07:25 | 🟢 BUY | TORII | 0.0001 | AJ8Gc1cY... | copy_buy | `2rEjjTUhHkpj...` |
 | 03-18 | 07:24 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4u6ff4uytY6b...` |
 | 03-18 | 07:24 | 🟢 BUY | MEI6900 | 0.0001 | APUYxGfK... | copy_buy | `5XVYUwX4NR1U...` |
 | 03-18 | 07:24 | 🟢 BUY | SUFFERING | 0.0001 | GHy1P6vJ... | copy_buy | `5br8V98fQY8j...` |

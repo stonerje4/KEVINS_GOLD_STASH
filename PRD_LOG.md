@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 07:25 UTC** | 7d | 121 buys, 91 sells | In: **23.85** | Out: **16.25** | Net: **-7.60 SOL**
+> Updated: **2026-03-18 07:30 UTC** | 7d | 123 buys, 92 sells | In: **24.35** | Out: **16.33** | Net: **-8.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 07:29 | 🔴 SELL | HOLLYANGELS | 0.0784 | 5n593DWQ... | SL | `5BQNkt4X7edv...` |
+| 03-18 | 07:28 | 🟢 BUY | HOLLYANGELS | 0.2500 | 5n593DWQ... | copy | `c9ZJSQEbdNZL...` |
+| 03-18 | 07:26 | 🟢 BUY | ? | 0.2500 | 5n593DWQ... | copy | `2HxmbA49wbSK...` |
 | 03-18 | 07:12 | 🟢 BUY | FOR | 0.2500 | r9pFHjFe... | copy | `2grAom3zZqAb...` |
 | 03-18 | 07:12 | 🟢 BUY | copycat | 0.2500 | 5n593DWQ... | copy | `2yTr3AWFSH2E...` |
 | 03-18 | 07:07 | 🔴 SELL | ALTRUISTS | 0.1234 | DDApL88z... | stale | `3YqEq4Mt6VbV...` |
