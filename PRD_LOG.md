@@ -1,8 +1,16 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 04:20 UTC** | 7d | 99 buys, 51 sells | In: **18.35** | Out: **5.08** | Net: **-13.27 SOL**
+> Updated: **2026-03-18 04:25 UTC** | 7d | 99 buys, 59 sells | In: **18.35** | Out: **9.16** | Net: **-9.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 04:23 | 💰 SELL | DISLIKE | 0.2044 | 6raSuhfi... | TP2 | `3F5EyjEwA3wL...` |
+| 03-18 | 04:22 | 💰 SELL | njiustu | 2.5020 | DHfshpzo... | tp_10x_trim | `5UFPfdB2NxCc...` |
+| 03-18 | 04:21 | 💰 SELL | njiustu | 0.2884 | DHfshpzo... | tp_8x_trim | `5pfqMXDdrjmn...` |
+| 03-18 | 04:21 | 💰 SELL | njiustu | 0.2884 | DHfshpzo... | TP4 | `4Ky64Eei1cNS...` |
+| 03-18 | 04:21 | 💰 SELL | njiustu | 0.2884 | DHfshpzo... | TP3 | `uB23MnJdgV59...` |
+| 03-18 | 04:20 | 💰 SELL | FLAG | 0.1293 | r9pFHjFe... | TP1 | `25yTDhsNoETG...` |
+| 03-18 | 04:20 | 💰 SELL | njiustu | 0.1900 | DHfshpzo... | TP2 | `vnzcrJypLa3H...` |
+| 03-18 | 04:20 | 💰 SELL | njiustu | 0.1900 | DHfshpzo... | TP1 | `2PpCtRsqXnSw...` |
 | 03-18 | 04:16 | 🔴 SELL | 隻狼 | 0.0955 | DDApL88z... | SL | `4UnQEymhLQK9...` |
 | 03-18 | 04:15 | 🟢 BUY | njiustu | 0.2500 | DHfshpzo... | copy | `2jA5eNXZc2MT...` |
 | 03-18 | 04:12 | 🟢 BUY | TGR | 0.2500 | DHfshpzo... | copy | `5jnxp7Br4Bgp...` |
