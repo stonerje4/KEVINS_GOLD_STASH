@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 23:05 UTC*
+*Last updated: 2026-03-18 23:10 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 23:09 | 🔴 sell | RUSH | `2w85VLX4W4qm...` | 0.192 | 0.4x | stop_loss | [tx](https://solscan.io/tx/22uL1Qv5btwgzfEzCCCt6ZMHMdr8H6aXqyKoGUQqcPrbQXiu2T9DwDwBdrDobpCoeWxjKx7s2wCMEGvejfGi3JgA) |
+| 2026-03-18 23:08 | 🔴 sell | MK1 | `5n593DWQkpfF...` | 0.198 | 0.4x | stop_loss | [tx](https://solscan.io/tx/244rWG6ESSztzLd9YEnE3Zu1X7meoy8ZDD19SagD95xzpmDJzZQziMZwf7RtPhgYzXELBahbT4QmghMxXmGNoUZY) |
 | 2026-03-18 23:03 | 🟢 buy | GNORTS | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5nJpa9pVBZ63abudZKNpiyavky8nD2oogAUejdSFcwoH1ws8WLFZVNFuZZLFEpjEjysDGM9Z3xMSi99SgStKHQob) |
 | 2026-03-18 23:02 | 🟢 buy | MK1 | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/5BjqPoX7oQosVdwRshm2pEFwapoffeCABm5yNk53JguVYS3wGHBFm6SR19i6dJLQ2A4eKaP3rLBZqdwqRDSJ9Vmi) |
 | 2026-03-18 22:59 | 🟢 buy | Catrot | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4vdxhk1NkwvyH4G7cJp97huf6GqxMKWuaB8U2SKWzufqJom8hTR6V2NJ5j7PoAQa4xxXMfXuZENwpjhDCUszBRJo) |

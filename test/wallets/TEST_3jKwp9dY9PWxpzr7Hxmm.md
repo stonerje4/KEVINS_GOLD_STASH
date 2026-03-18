@@ -1,5 +1,11 @@
 # [TEST] `3jKwp9dY9PWxpzr7...`
-> 2026-03-18 23:05 UTC | **1** pos | **0W/1L** | P&L: **-0.000135 SOL** (-61.2%) | 0 open
+> 2026-03-18 23:10 UTC | **2** pos | **0W/1L** | P&L: **-0.000135 SOL** (-61.2%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Satoshi | 03-18 23:07 | 1.22x | 1.25x | 0.0h | 0.0002 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 23:07 | Satoshi | BUY | 0.0002 | `2J9hsMmoAWLDFzuj...` |
 | 03-18 22:23 | YOU | SELL | 0.0000 | `5zZFX7TXn6tK8KDd...` |
 | 03-18 22:23 | YOU | SELL | 0.0001 | `H86NNJzafRaBho59...` |
 | 03-18 22:18 | YOU | BUY | 0.0002 | `25YdTwb5YULJytwi...` |
