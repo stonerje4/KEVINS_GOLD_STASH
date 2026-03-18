@@ -1,17 +1,19 @@
 # [TEST] `2autqiinD2k2f1rb...`
-> 2026-03-18 11:05 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 11:10 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Putin | 03-18 04:26 | 0.48x | 1.00x | 6.6h | 0.0001 |
-| TOKEN | 03-18 03:44 | 0.44x | 1.12x | 7.3h | 0.0001 |
+| HIM | 03-18 11:05 | 1.63x | 1.69x | 0.1h | 0.0001 |
+| Putin | 03-18 04:26 | 0.48x | 1.00x | 6.7h | 0.0001 |
+| TOKEN | 03-18 03:44 | 0.44x | 1.12x | 7.4h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 11:05 | HIM | BUY | 0.0001 | `4bp5wRZ6KfqGg1KL...` |
 | 03-18 04:26 | Putin | BUY | 0.0001 | `ZfzBNRHbkGpEEr4h...` |
 | 03-18 03:44 | TOKEN | BUY | 0.0001 | `3rJS38PLMapFvecX...` |
 

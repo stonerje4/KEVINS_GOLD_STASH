@@ -1,8 +1,14 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 11:05 UTC** | 7d | 141 buys, 115 sells | In: **28.85** | Out: **25.55** | Net: **-3.30 SOL**
+> Updated: **2026-03-18 11:10 UTC** | 7d | 142 buys, 120 sells | In: **29.10** | Out: **26.49** | Net: **-2.61 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:08 | 💰 SELL | COMMODITY | 0.1399 | 6raSuhfi... | TP1 | `3yB5yLaCQb3W...` |
+| 03-18 | 11:07 | 🔴 SELL | AOR | 0.1785 | DHfshpzo... | stale | `49ZU8VeajQgJ...` |
+| 03-18 | 11:07 | 🟢 BUY | GCOIN | 0.2500 | 6raSuhfi... | copy | `RXQon9TpoQkW...` |
+| 03-18 | 11:07 | 🔴 SELL | magnets | 0.1084 | 42nQHDpy... | stale | `5xGjQhy1BxLk...` |
+| 03-18 | 11:07 | 🔴 SELL | UGOR | 0.1409 | BGGJhxGX... | stale | `4Zk9opqrxhjB...` |
+| 03-18 | 11:06 | 💰 SELL | giraffe | 0.3649 | 2w85VLX4... | trail | `5r5uJMcfwjEL...` |
 | 03-18 | 11:04 | 🟢 BUY | Imposter | 0.2500 | 2w85VLX4... | copy | `2BK6T6iauMqD...` |
 | 03-18 | 10:58 | 🔴 SELL | Corbin | 0.0984 | 2w85VLX4... | SL | `t4VJZFet3a1m...` |
 | 03-18 | 10:53 | 💰 SELL | giraffe | 0.2123 | 2w85VLX4... | TP2 | `95RmsyWBUE53...` |
