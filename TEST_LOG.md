@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 10:30 UTC** | 7d | 353 buys, 627 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 10:35 UTC** | 7d | 355 buys, 633 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 10:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2WjttVbR68eQ...` |
+| 03-18 | 10:33 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2ZCBbGpY148j...` |
+| 03-18 | 10:32 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3N8w8Y7JoqG3...` |
+| 03-18 | 10:32 | 🟢 BUY | XTUBER | 0.0001 | EaEf6TH8... | copy_buy | `3tAz6e8guhDG...` |
+| 03-18 | 10:32 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5ri95LdjHrew...` |
+| 03-18 | 10:31 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5S9CpPhKhD7M...` |
+| 03-18 | 10:30 | 🟢 BUY | SHRIMPCAT | 0.0001 | EaEf6TH8... | copy_buy | `512HMo9Z2fGL...` |
+| 03-18 | 10:30 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2x4Z4T3or2qJ...` |
 | 03-18 | 10:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4hdFQYKc8tah...` |
 | 03-18 | 10:28 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5ESiDfZ3NdaV...` |
 | 03-18 | 10:28 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `62LawUu9LQkp...` |
