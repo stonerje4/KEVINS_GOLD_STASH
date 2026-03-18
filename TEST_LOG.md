@@ -1,8 +1,19 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 05:25 UTC** | 7d | 177 buys, 208 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 05:30 UTC** | 7d | 180 buys, 216 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 05:29 | 🟢 BUY | SB | 0.0001 | 42nQHDpy... | copy_buy | `2pZU5uNStgaq...` |
+| 03-18 | 05:29 | 🟢 BUY | EPSTEIN | 0.0001 | 42nQHDpy... | copy_buy | `2JJtFLfUMNQg...` |
+| 03-18 | 05:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2BxRaaY3HcDr...` |
+| 03-18 | 05:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `62Wcv8qrot8a...` |
+| 03-18 | 05:28 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4NYEuxGrRaMT...` |
+| 03-18 | 05:27 | 🟢 BUY | AFROMAN | 0.0001 | AiNfNi2e... | copy_buy | `2kyA79DCkABf...` |
+| 03-18 | 05:27 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3dCpMwSSsEs6...` |
+| 03-18 | 05:27 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2mDKS9F53m79...` |
+| 03-18 | 05:26 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `Fp9P73z4tHjL...` |
+| 03-18 | 05:25 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `q8bKxgQho3Zr...` |
+| 03-18 | 05:25 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `27aoizdxZ7Jv...` |
 | 03-18 | 05:24 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2VWyprkygt4b...` |
 | 03-18 | 05:23 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3xr4V4TKC1rr...` |
 | 03-18 | 05:23 | 🟢 BUY | MOS | 0.0001 | AiNfNi2e... | copy_buy | `2wKLyLy7e2MS...` |

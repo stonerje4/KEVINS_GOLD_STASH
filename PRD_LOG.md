@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 05:25 UTC** | 7d | 104 buys, 74 sells | In: **19.60** | Out: **12.92** | Net: **-6.68 SOL**
+> Updated: **2026-03-18 05:30 UTC** | 7d | 104 buys, 77 sells | In: **19.60** | Out: **13.49** | Net: **-6.11 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 05:28 | 💰 SELL | SOLARI | 0.1388 | 6raSuhfi... | TP3 | `b3zYkD5eHRgi...` |
+| 03-18 | 05:27 | 💰 SELL | SOLARI | 0.2746 | 6raSuhfi... | TP2 | `5qAyfEJ6aLEz...` |
+| 03-18 | 05:25 | 💰 SELL | SOLARI | 0.1578 | 6raSuhfi... | TP1 | `4vuqee9mdQyX...` |
 | 03-18 | 05:22 | 🟢 BUY | SOLARI | 0.2500 | 6raSuhfi... | copy | `5ANchyFYZQX9...` |
 | 03-18 | 05:15 | 🟢 BUY | Thinker | 0.2500 | 5n593DWQ... | copy | `3WjnHkfXd1u6...` |
 | 03-18 | 05:13 | 🟢 BUY | McCasland | 0.2500 | 5n593DWQ... | copy | `4v39nmNGzRaZ...` |
