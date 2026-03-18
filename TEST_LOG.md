@@ -1,8 +1,33 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 00:50 UTC** | 7d | 1839 buys, 2679 sells | In: **0.52** | Out: **0.32** | Net: **-0.20 SOL**
+> Updated: **2026-03-18 00:55 UTC** | 7d | 1840 buys, 2703 sells | In: **0.52** | Out: **0.32** | Net: **-0.20 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 00:53 | 🔴 SELL | GOKINJO | 0.0000 | GEHrGJ3B... | trail | `3ju4ydEGGEQy...` |
+| 03-18 | 00:52 | 🔴 SELL | commotitty | 0.0000 | BZmxuXQ6... | SL | `XVEk1ZrHfnGc...` |
+| 03-18 | 00:52 | 🔴 SELL | SENEGAL | 0.0000 | BA1mTpNq... | SL | `42jDpJerssLZ...` |
+| 03-18 | 00:52 | 🔴 SELL | Afcon | 0.0000 | 7yd579zX... | SL | `5DQiNqagpjPH...` |
+| 03-18 | 00:52 | 🔴 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `4afWe5T2eRaF...` |
+| 03-18 | 00:52 | 🔴 SELL | Cappy | 0.0000 | Lfw99jsE... | trail | `67bga8vjeJBs...` |
+| 03-18 | 00:52 | 🔴 SELL | Dogeeto | 0.0000 | EyeSFbqH... | trail | `5xrmZEsym64L...` |
+| 03-18 | 00:52 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `4QshS1WwwRiW...` |
+| 03-18 | 00:52 | 🔴 SELL | tusk | 0.0000 | 42nQHDpy... | trail | `2mchkwYryQaZ...` |
+| 03-18 | 00:52 | 🔴 SELL | Ancestors | 0.0000 | Lfw99jsE... | trail | `4QzaDLp8tMCf...` |
+| 03-18 | 00:51 | 🔴 SELL | PVP | 0.0000 | 7cXeEXa4... | SL | `5XBbNaWsioan...` |
+| 03-18 | 00:51 | 🔴 SELL | Lemon-kun | 0.0000 | 7cA6GmNF... | trail | `3mMLtzTZHJyo...` |
+| 03-18 | 00:51 | 🟢 BUY | AWAKE | 0.0001 | AiNfNi2e... | copy_buy | `2siAUq72HmC4...` |
+| 03-18 | 00:50 | 🔴 SELL | GOKINJO | 0.0000 | GEHrGJ3B... | trail | `2XqWMX5FSKFm...` |
+| 03-18 | 00:50 | 🔴 SELL | commotitty | 0.0000 | BZmxuXQ6... | SL | `3nQsXVyAqEva...` |
+| 03-18 | 00:50 | 🔴 SELL | SENEGAL | 0.0000 | BA1mTpNq... | SL | `3s8mdyHeNFRg...` |
+| 03-18 | 00:50 | 🔴 SELL | Afcon | 0.0000 | 7yd579zX... | SL | `57KpQBVSqZbD...` |
+| 03-18 | 00:50 | 🔴 SELL | Nanobot | 0.0000 | 35RArQiy... | trail | `3EYJhFVboq5T...` |
+| 03-18 | 00:50 | 🔴 SELL | Cappy | 0.0000 | Lfw99jsE... | trail | `woEdxQ5QPqn6...` |
+| 03-18 | 00:50 | 🔴 SELL | Dogeeto | 0.0000 | EyeSFbqH... | trail | `5HrS7hk16kaG...` |
+| 03-18 | 00:50 | 🔴 SELL | MAFIA | 0.0000 | bocsoUiM... | trail | `3eEwpMnYQTwc...` |
+| 03-18 | 00:50 | 🔴 SELL | tusk | 0.0000 | 42nQHDpy... | trail | `5Q25iQ5BNJEW...` |
+| 03-18 | 00:49 | 🔴 SELL | Ancestors | 0.0000 | Lfw99jsE... | trail | `3R1jbtSA1WfQ...` |
+| 03-18 | 00:49 | 🔴 SELL | PVP | 0.0000 | 7cXeEXa4... | SL | `3S8fspqDvYYb...` |
+| 03-18 | 00:49 | 🔴 SELL | Lemon-kun | 0.0000 | 7cA6GmNF... | trail | `KPAkkgTPP87L...` |
 | 03-18 | 00:49 | 🟢 BUY | ACA | 0.0001 | BGGJhxGX... | copy_buy | `55ms6yPprvjs...` |
 | 03-18 | 00:48 | 🟢 BUY | TURTLE | 0.0001 | FoHJUYTh... | copy_buy | `5XUNDtKkM9FW...` |
 | 03-18 | 00:48 | 🔴 SELL | GOKINJO | 0.0000 | GEHrGJ3B... | trail | `5b5y3qWZpu2B...` |

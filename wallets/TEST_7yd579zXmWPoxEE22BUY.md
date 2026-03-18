@@ -1,12 +1,12 @@
 # [TEST] `7yd579zXmWPoxEE2...`
-> 2026-03-18 00:50 UTC | **16** pos | **3W/11L** | P&L: **-0.000461 SOL** (-19.2%) | 2 open
+> 2026-03-18 00:55 UTC | **16** pos | **3W/11L** | P&L: **-0.000461 SOL** (-19.2%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| INTROSPECTION | 03-17 23:23 | 0.79x | 1.00x | 1.4h | 0.0001 |
-| Afcon | 03-17 22:33 | 0.21x | 1.14x | 2.3h | 0.0001 |
+| INTROSPECTION | 03-17 23:23 | 0.79x | 1.00x | 1.5h | 0.0001 |
+| Afcon | 03-17 22:33 | 0.21x | 1.14x | 2.4h | 0.0001 |
 
 ## Closed
 
@@ -31,6 +31,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:52 | Afcon | SELL | 0.0000 | `5DQiNqagpjPHVN51...` |
+| 03-18 00:50 | Afcon | SELL | 0.0000 | `57KpQBVSqZbD9scV...` |
 | 03-18 00:48 | Afcon | SELL | 0.0000 | `cgyWVVM7Yc8bY4bn...` |
 | 03-18 00:46 | Afcon | SELL | 0.0000 | `3xfRVqWyD44rCJnG...` |
 | 03-18 00:43 | Afcon | SELL | 0.0000 | `n93JsJHAW16y5Fy4...` |

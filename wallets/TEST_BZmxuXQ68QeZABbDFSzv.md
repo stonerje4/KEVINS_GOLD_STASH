@@ -1,16 +1,16 @@
 # [TEST] `BZmxuXQ68QeZABbD...`
-> 2026-03-18 00:50 UTC | **10** pos | **0W/4L** | P&L: **-0.000280 SOL** (-70.1%) | 6 open
+> 2026-03-18 00:55 UTC | **10** pos | **0W/4L** | P&L: **-0.000280 SOL** (-70.1%) | 6 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SAINTJAK | 03-18 00:14 | 0.00x | 1.00x | 0.6h | 0.0001 |
-| Atlas | 03-18 00:14 | 0.80x | 1.29x | 0.6h | 0.0001 |
-| commotitty | 03-17 22:45 | 0.36x | 1.00x | 2.1h | 0.0001 |
-| Unplugged | 03-17 22:42 | 0.70x | 1.00x | 2.1h | 0.0001 |
-| Microphallus | 03-17 22:37 | 0.44x | 1.15x | 2.2h | 0.0001 |
-| Daisy | 03-17 21:05 | 4.32x | 7.19x | 3.7h | 0.0001 |
+| SAINTJAK | 03-18 00:14 | 0.00x | 1.00x | 0.7h | 0.0001 |
+| Atlas | 03-18 00:14 | 0.71x | 1.29x | 0.7h | 0.0001 |
+| commotitty | 03-17 22:45 | 0.39x | 1.00x | 2.2h | 0.0001 |
+| Unplugged | 03-17 22:42 | 0.70x | 1.00x | 2.2h | 0.0001 |
+| Microphallus | 03-17 22:37 | 0.44x | 1.15x | 2.3h | 0.0001 |
+| Daisy | 03-17 21:05 | 4.59x | 7.19x | 3.8h | 0.0001 |
 
 ## Closed
 
@@ -25,6 +25,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 00:52 | commotitty | SELL | 0.0000 | `XVEk1ZrHfnGcHeyi...` |
+| 03-18 00:50 | commotitty | SELL | 0.0000 | `3nQsXVyAqEvaj1LL...` |
 | 03-18 00:48 | commotitty | SELL | 0.0000 | `ukQSLFjZophKtutY...` |
 | 03-18 00:46 | commotitty | SELL | 0.0000 | `5jZzCViJjFW7sD6R...` |
 | 03-18 00:44 | commotitty | SELL | 0.0000 | `4qTy1V4FRWvvTzLQ...` |
