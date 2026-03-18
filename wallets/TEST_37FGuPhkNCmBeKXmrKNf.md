@@ -1,11 +1,11 @@
 # [TEST] `37FGuPhkNCmBeKXm...`
-> 2026-03-18 15:50 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 15:55 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Meningitis | 03-18 14:38 | 0.73x | 1.00x | 1.2h | 0.0001 |
+| Meningitis | 03-18 14:38 | 0.72x | 1.00x | 1.3h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 

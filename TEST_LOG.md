@@ -1,8 +1,25 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 15:50 UTC** | 7d | 543 buys, 1201 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
+> Updated: **2026-03-18 15:55 UTC** | 7d | 545 buys, 1216 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 15:54 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `4Spu88givQqG...` |
+| 03-18 | 15:54 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3PkzCgEAej9e...` |
+| 03-18 | 15:54 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4DTHCpvvujEH...` |
+| 03-18 | 15:53 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3jWmHwoP7YdZ...` |
+| 03-18 | 15:53 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `36g5QJk8QYbB...` |
+| 03-18 | 15:53 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `5J7j6yak6A9B...` |
+| 03-18 | 15:52 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `29s7P9BiCfiw...` |
+| 03-18 | 15:52 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2Se3rk3JvpPo...` |
+| 03-18 | 15:52 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `QjhMNciYyuBy...` |
+| 03-18 | 15:51 | 🟢 BUY | StateX | 0.0001 | 1aC2FgH1... | copy_buy | `5VjS3D9SW1yA...` |
+| 03-18 | 15:51 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3eAMD9fmVa4d...` |
+| 03-18 | 15:51 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `PRx517VWWEdr...` |
+| 03-18 | 15:51 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4NXWDrX3cWbP...` |
+| 03-18 | 15:50 | 🟢 BUY | GOYID | 0.0001 | EaEf6TH8... | copy_buy | `2wC32ZN1XwMt...` |
+| 03-18 | 15:50 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `59Z8bFa8A7FS...` |
+| 03-18 | 15:50 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5sou3CC8La7t...` |
+| 03-18 | 15:50 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `54rBMXKsdMjS...` |
 | 03-18 | 15:49 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2UToHrTKCLry...` |
 | 03-18 | 15:48 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2dJVWvy9NyxV...` |
 | 03-18 | 15:48 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4rsq47EfyEgq...` |
