@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 12:35 UTC** | 7d | 412 buys, 778 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 12:40 UTC** | 7d | 415 buys, 784 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 12:39 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5mGax8JqKHDg...` |
+| 03-18 | 12:38 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `31bkBDCcK8va...` |
+| 03-18 | 12:37 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `64G9BgbvKiNC...` |
+| 03-18 | 12:37 | 🟢 BUY | ABDUCTED | 0.0001 | 8yuF1Tfg... | copy_buy | `2oDMo4iok8TU...` |
+| 03-18 | 12:36 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5cWqik7eyqWV...` |
+| 03-18 | 12:36 | 🟢 BUY | TGR | 0.0001 | BGGJhxGX... | copy_buy | `4tjZxUmT4H7T...` |
+| 03-18 | 12:35 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4E8EKDHfckr7...` |
+| 03-18 | 12:35 | 🟢 BUY | Habib | 0.0001 | BBBByrLH... | copy_buy | `2KreYCkmMWR5...` |
+| 03-18 | 12:35 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5r6mhLjaHgHb...` |
 | 03-18 | 12:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2U7s6gNxS825...` |
 | 03-18 | 12:33 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4UNCHvNDBnUC...` |
 | 03-18 | 12:32 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5UgwnaHGCm5o...` |
