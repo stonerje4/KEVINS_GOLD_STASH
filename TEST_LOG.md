@@ -1,8 +1,20 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 13:00 UTC** | 7d | 422 buys, 823 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 13:05 UTC** | 7d | 426 buys, 831 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 13:04 | 🟢 BUY | HORMUZ | 0.0001 | BBBByrLH... | copy_buy | `3A8sWEgpeKJs...` |
+| 03-18 | 13:04 | 🟢 BUY | CASH | 0.0001 | EaEf6TH8... | copy_buy | `5aydZM6rVXbs...` |
+| 03-18 | 13:04 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5mfyJAmdUGdq...` |
+| 03-18 | 13:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4vBKmJUpJc3y...` |
+| 03-18 | 13:03 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `FGCetdx3Nx4e...` |
+| 03-18 | 13:03 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `26TFJjb7pLmY...` |
+| 03-18 | 13:02 | 🟢 BUY | Copper | 0.0001 | bocsoUiM... | copy_buy | `L23W84ZJf6SH...` |
+| 03-18 | 13:02 | 🟢 BUY | chad | 0.0001 | GHy1P6vJ... | copy_buy | `24TXZxqQaGtb...` |
+| 03-18 | 13:01 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `5G2wtb9Bc9L5...` |
+| 03-18 | 13:01 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4557h3tuKvU4...` |
+| 03-18 | 13:00 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `um5kWXYWAknv...` |
+| 03-18 | 13:00 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4paX9kobhhEt...` |
 | 03-18 | 12:59 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `58zjU6AdeTTw...` |
 | 03-18 | 12:59 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `59g5oSD2pcyi...` |
 | 03-18 | 12:58 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2k9weFTvpWzV...` |
