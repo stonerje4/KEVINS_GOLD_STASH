@@ -1,12 +1,12 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-18 23:15 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 23:20 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| GNORTS | 03-18 23:03 | 1.18x | 1.53x | 0.2h | 0.0002 |
-| Catrot | 03-18 22:59 | 0.97x | 1.08x | 0.3h | 0.0002 |
+| GNORTS | 03-18 23:03 | 0.87x | 1.53x | 0.3h | 0.0002 |
+| Catrot | 03-18 22:59 | 1.24x | 1.24x | 0.3h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 

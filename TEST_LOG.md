@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 23:15 UTC** | 7d | 41 buys, 20 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 23:20 UTC** | 7d | 42 buys, 22 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 23:17 | 🟢 BUY | TRENCHCLAW | 0.0002 | EfU8P5AZ... | copy_buy | `4QxEzi2g1P6y...` |
+| 03-18 | 23:17 | 💰 SELL | TGR | 0.0001 | BGGJhxGX... | TP1 | `BigtqJgTt9Sr...` |
+| 03-18 | 23:15 | 💰 SELL | SQUIRE | 0.0001 | FY5sWMqL... | tp_10x_trim | `5da4Mo1FZp5M...` |
 | 03-18 | 23:13 | 🟢 BUY | SWMR | 0.0002 | BpxZNCi8... | copy_buy | `3dcffZAq2Cti...` |
 | 03-18 | 23:12 | 💰 SELL | SQUIRE | 0.0001 | FY5sWMqL... | tp_8x_trim | `mCGuxQW9arRd...` |
 | 03-18 | 23:12 | 🟢 BUY | WALL-E | 0.0002 | 6gN2SNYX... | copy_buy | `QE6mhPcJFD4s...` |

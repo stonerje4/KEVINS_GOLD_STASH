@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-18 23:15 UTC*
+*Last updated: 2026-03-18 23:20 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-18 23:16 | 🟢 buy | TGR | `5vweNikgScdn...` | 0.500 | — | cielo_copy:5vweNikgScdnGkZCC3ya | [tx](https://solscan.io/tx/25tq4H2Fau99pQqw2V7nL5yUgMpcYJXdW1uTEXVzJNspXQjVoYx1GQUpCCMJTWvQeGFCjwxJS5CUpLB3VZahdHqp) |
+| 2026-03-18 23:15 | 🟢 buy | SQUIRE | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/2SWzGWyHxSLLiicQpeH7MjwiNuyab7CxWceV6np145xETUvJLf8KhSmPYSdeqQvArtiBDjSuga6ao1Jy6ALj6G4p) |
 | 2026-03-18 23:14 | 🔴 sell | SWMR | `6raSuhfig5Y1...` | 0.416 | 3.3x | tp_3x_trim | [tx](https://solscan.io/tx/5krWR2vqy2KQ6QRU2iA1NKNxSFCkFQKU9DVZbCFoLb3ByJ9kHUMqesTinAZ3DF92p6HCWzTf85nr44Z5aHDBouyq) |
 | 2026-03-18 23:11 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/3PZh1MRo5e1tvmW5EUVvnSUnYxDpyE1yK38hka9qaZ3jAS7dy6UQ8MeRukvJZwRJfTP37ik1rukwsC4DVzA6ytbw) |
 | 2026-03-18 23:10 | 🔴 sell | Manchas | `J5jm7BnBiGaB...` | 0.179 | 0.4x | stop_loss | [tx](https://solscan.io/tx/3UAcRenvP8NDUy84tjLDAgCGvnrhnsYeNrSn2Ay4WomtMyARFQeo3v4kK4Can4Aa7h4LUEfET7peW2UBpkXt7uxY) |
