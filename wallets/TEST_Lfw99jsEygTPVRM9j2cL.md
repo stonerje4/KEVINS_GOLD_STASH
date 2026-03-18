@@ -1,15 +1,15 @@
 # [TEST] `Lfw99jsEygTPVRM9...`
-> 2026-03-18 03:50 UTC | **7** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 5 open
+> 2026-03-18 03:55 UTC | **7** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 5 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| MEMEGODS | 03-18 02:41 | 0.46x | 1.59x | 1.1h | 0.0001 |
-| boop | 03-18 02:40 | 0.95x | 1.29x | 1.2h | 0.0001 |
-| SWM | 03-18 02:39 | 0.39x | 2.26x | 1.2h | 0.0001 |
-| AMADEA | 03-18 02:35 | 0.59x | 1.13x | 1.2h | 0.0001 |
-| Bowhead | 03-18 02:33 | 1.51x | 1.76x | 1.3h | 0.0001 |
+| MEMEGODS | 03-18 02:41 | 0.46x | 1.59x | 1.2h | 0.0001 |
+| boop | 03-18 02:40 | 0.88x | 1.29x | 1.2h | 0.0001 |
+| SWM | 03-18 02:39 | 0.38x | 2.26x | 1.3h | 0.0001 |
+| AMADEA | 03-18 02:35 | 0.59x | 1.13x | 1.3h | 0.0001 |
+| Bowhead | 03-18 02:33 | 1.50x | 1.76x | 1.4h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +22,14 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 03:54 | SWM | SELL | 0.0000 | `2ZVDt83zLw98xuSu...` |
+| 03-18 03:53 | SWM | SELL | 0.0000 | `3fr3GTCWGifYMewQ...` |
+| 03-18 03:53 | SWM | SELL | 0.0000 | `2DX9Pnjq5THqtaxn...` |
+| 03-18 03:52 | SWM | SELL | 0.0000 | `2kz9xZRVJ4KBxN4n...` |
+| 03-18 03:51 | SWM | SELL | 0.0000 | `66kXyBWXZPN7N5yC...` |
+| 03-18 03:51 | SWM | SELL | 0.0000 | `otc67fgdUi8yYfmd...` |
+| 03-18 03:50 | SWM | SELL | 0.0000 | `4NfjBoFj917KrZ3T...` |
+| 03-18 03:50 | SWM | SELL | 0.0000 | `mhebTfhToGmyyPyi...` |
 | 03-18 03:49 | SWM | SELL | 0.0000 | `4ue5SCzQzjPFjb2i...` |
 | 03-18 03:48 | SWM | SELL | 0.0000 | `5Wzt9mi6be6Bu8eJ...` |
 | 03-18 03:48 | SWM | SELL | 0.0000 | `3sRZWgx4qimh6QHY...` |

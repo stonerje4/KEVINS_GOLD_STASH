@@ -1,17 +1,23 @@
 # [PRD] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-18 03:50 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 03:55 UTC | **2** pos | **1W/0L** | P&L: **+0.057717 SOL** (+38.5%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DUNE | 03-17 18:20 | 0.00x | 2.81x | 9.5h | 0.1500 |
-| FGH | 03-17 17:55 | 0.00x | 1.16x | 9.9h | 0.1500 |
+| FGH | 03-17 17:55 | 0.00x | 1.16x | 10.0h | 0.1500 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ DUNE | +0.0577 | 03-17 18:20 | 2.8x | 03-18 03:53 | 0.2077/0.1500 | trail |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 03:53 | DUNE | SELL | 0.1255 | `3VkNuMfUTN1eFKJ4...` |
 | 03-17 23:13 | DUNE | SELL | 0.0822 | `4DNA3mJLfH6AwgSe...` |
 | 03-17 18:20 | DUNE | BUY | 0.1500 | `5pTim4z4z2AYECvj...` |
 | 03-17 17:55 | FGH | BUY | 0.1500 | `5kshZyQqNQd7PgEJ...` |
