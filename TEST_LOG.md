@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 09:15 UTC** | 7d | 326 buys, 530 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 09:20 UTC** | 7d | 328 buys, 536 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 09:19 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `59vtWVPV452T...` |
+| 03-18 | 09:18 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `27U3fVHPwDf2...` |
+| 03-18 | 09:17 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5EKtxoFk3omQ...` |
+| 03-18 | 09:17 | 🟢 BUY | WhitePunch | 0.0001 | 42nQHDpy... | copy_buy | `5K5Y39KgRzbA...` |
+| 03-18 | 09:17 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2efqctpqYHMp...` |
+| 03-18 | 09:16 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `563kjFQ7M8PV...` |
+| 03-18 | 09:15 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `64GSQ3a4NT3J...` |
+| 03-18 | 09:15 | 🟢 BUY | Monke | 0.0001 | 7cXeEXa4... | copy_buy | `4BYas3dkyVRG...` |
 | 03-18 | 09:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4RcdkBVL8SYF...` |
 | 03-18 | 09:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3DEK29JtHmW6...` |
 | 03-18 | 09:13 | 🟢 BUY | Claude | 0.0001 | 6raSuhfi... | copy_buy | `29qjNv5XX8wB...` |
