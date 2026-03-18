@@ -1,5 +1,5 @@
 # 🏆 Pump Alpha Dashboard
-> Last updated: **2026-03-18 19:00 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
+> Last updated: **2026-03-18 19:05 UTC** | SOL: $93.00 | Auto-refreshes every 5 min
 
 ## 🧪 Test Wallet
 
@@ -15,7 +15,7 @@
 
 | | Wallet | Pos | W/L | WR | Closed P&L | ROI | Unreal | **Total** | Avg Peak | Open |
 |--|--------|-----|-----|-----|------------|-----|--------|-----------|----------|------|
-| 🟢 | [`HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 1 | 0/0 | 0% | $+0 | — | $+1 | **$+1** | — | 1 |
+| ⚪ | [`HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`](https://github.com/stonerje4/KEVINS_GOLD_STASH/blob/main/wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 2 | 0/0 | 0% | $+0 | — | $-8 | **$-8** | — | 2 |
 
 > **Closed P&L / Closed ROI** = from closed positions only (real 0.15 SOL buys).
 > 16 wallets tracked via Helius WS. 0 inactive wallets hidden.
