@@ -1,5 +1,11 @@
 # [TEST] `APUYxGfKmJL7dJbv...`
-> 2026-03-18 10:20 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
+> 2026-03-18 10:25 UTC | **3** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| TANGY | 03-18 10:22 | 1.09x | 1.09x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 10:22 | TANGY | BUY | 0.0001 | `2bJHwFmJUVoWRMJK...` |
 | 03-18 07:26 | HOLLYANGELS | BUY | 0.0001 | `5xgbdhkQp7A8625i...` |
 | 03-18 07:24 | MEI6900 | BUY | 0.0001 | `5XVYUwX4NR1UX7HB...` |
 
