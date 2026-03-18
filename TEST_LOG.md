@@ -1,8 +1,10 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 23:45 UTC** | 7d | 44 buys, 25 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 23:50 UTC** | 7d | 45 buys, 26 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 23:49 | 💰 SELL | Strawberita | 0.0001 | cqakon1K... | TP4 | `5rixDZzXFtJq...` |
+| 03-18 | 23:48 | 🟢 BUY | LINLIAN | 0.0002 | 6qTPHgnS... | copy_buy | `UujTtqd7R5Ch...` |
 | 03-18 | 23:41 | 🔴 SELL | Catrot | 0.0001 | 6raSuhfi... | SL | `3PHedzPmRyVM...` |
 | 03-18 | 23:37 | 🔴 SELL | GNORTS | 0.0001 | 6raSuhfi... | SL | `ccCHigS2wTHb...` |
 | 03-18 | 23:29 | 🔴 SELL | STRAWBS | 0.0001 | FY5sWMqL... | SL | `4PiGanAcZ96M...` |
