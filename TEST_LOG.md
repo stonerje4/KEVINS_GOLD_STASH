@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 03:10 UTC** | 7d | 107 buys, 2 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 03:15 UTC** | 7d | 109 buys, 8 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 03:14 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3mS9V9qH6na9...` |
+| 03-18 | 03:13 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2SfqWQvzH13a...` |
+| 03-18 | 03:13 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Zv6BAzB8eNr...` |
+| 03-18 | 03:12 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2rsoMnmn2XhA...` |
+| 03-18 | 03:12 | 🟢 BUY | USOR/SOL | 0.0001 | 2947n9KQ... | copy_buy | `3TKZi2jJymwg...` |
+| 03-18 | 03:11 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2sETj6kPmD5B...` |
+| 03-18 | 03:11 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `44ETQHBC87du...` |
+| 03-18 | 03:10 | 🟢 BUY | Flag | 0.0001 | U3jiDzTc... | copy_buy | `632jHM4o4JYQ...` |
 | 03-18 | 03:07 | 🟢 BUY | Shit#000 | 0.0001 | GHy1P6vJ... | copy_buy | `4ihmkepWHMSc...` |
 | 03-18 | 03:05 | 🟢 BUY | Predator | 0.0001 | 42nQHDpy... | copy_buy | `z28wHLhPVckL...` |
 | 03-18 | 03:02 | 🟢 BUY | DrunkWhale | 0.0001 | GHy1P6vJ... | copy_buy | `32u1GeggKfzp...` |
