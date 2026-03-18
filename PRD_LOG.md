@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 02:40 UTC** | 7d | 81 buys, 29 sells | In: **13.85** | Out: **2.80** | Net: **-11.05 SOL**
+> Updated: **2026-03-18 02:45 UTC** | 7d | 82 buys, 30 sells | In: **14.10** | Out: **2.88** | Net: **-11.22 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 02:44 | 🔴 SELL | 钻石手pepe | 0.0847 | 6raSuhfi... | SL | `2SyWUquMRJRH...` |
+| 03-18 | 02:44 | 🟢 BUY | ? | 0.2500 | 6raSuhfi... | copy | `xR69rArC1n8K...` |
 | 03-18 | 02:27 | 💰 SELL | xAU | 0.2239 | DHfshpzo... | trail | `4tB84LQ1RhEt...` |
 | 03-18 | 02:25 | 🟢 BUY | 钻石手pepe | 0.2500 | 6raSuhfi... | copy | `4xwTxbnJR792...` |
 | 03-18 | 02:20 | 🟢 BUY | FLAG | 0.2500 | r9pFHjFe... | copy | `63h5bKCRaQeU...` |

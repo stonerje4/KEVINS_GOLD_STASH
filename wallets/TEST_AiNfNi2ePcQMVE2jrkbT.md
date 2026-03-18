@@ -1,12 +1,13 @@
 # [TEST] `AiNfNi2ePcQMVE2j...`
-> 2026-03-18 02:40 UTC | **3** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 2 open
+> 2026-03-18 02:45 UTC | **4** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Nanami | 03-18 02:35 | 0.99x | 1.00x | 0.1h | 0.0001 |
-| MEMESPACE | 03-18 01:20 | 1.25x | 1.38x | 1.3h | 0.0001 |
+| SIGIL | 03-18 02:44 | 0.99x | 1.00x | 0.0h | 0.0001 |
+| Nanami | 03-18 02:35 | 0.99x | 1.00x | 0.2h | 0.0001 |
+| MEMESPACE | 03-18 01:20 | 1.24x | 1.38x | 1.4h | 0.0001 |
 
 ## Closed
 
@@ -18,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 02:44 | SIGIL | BUY | 0.0001 | `2fCzoo1ekq7kZNoY...` |
 | 03-18 02:35 | Nanami | BUY | 0.0001 | `3U1hp7sH7N4CqiPa...` |
 | 03-18 01:20 | RarePepe | BUY | 0.0001 | `59YU5mMReEmQt2er...` |
 | 03-18 01:20 | MEMESPACE | BUY | 0.0001 | `4edMTCwBCuZa3oEp...` |
