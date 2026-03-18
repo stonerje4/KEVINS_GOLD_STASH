@@ -1,16 +1,18 @@
 # [TEST] `51Ui3ZD4jyUmQZpC...`
-> 2026-03-18 04:10 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-18 04:15 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SWARM | 03-18 03:42 | 1.39x | 1.39x | 0.5h | 0.0001 |
+| Bonk | 03-18 04:14 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| SWARM | 03-18 03:42 | 1.35x | 1.39x | 0.5h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 04:14 | Bonk | BUY | 0.0001 | `C42YSs1U2Neb8Gz7...` |
 | 03-18 03:42 | SWARM | BUY | 0.0001 | `jj3TEKMLjP4sAUcF...` |
 
 </details>
