@@ -1,11 +1,12 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-18 04:00 UTC | **4** pos | **0W/3L** | P&L: **-0.000300 SOL** (-100.0%) | 1 open
+> 2026-03-18 04:05 UTC | **5** pos | **0W/3L** | P&L: **-0.000300 SOL** (-100.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| WLFI | 03-18 03:21 | 0.41x | 1.54x | 0.6h | 0.0001 |
+| DISLIKE | 03-18 04:04 | 1.06x | 1.06x | 0.0h | 0.0001 |
+| WLFI | 03-18 03:21 | 0.41x | 1.54x | 0.7h | 0.0001 |
 
 ## Closed
 
@@ -19,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 04:04 | DISLIKE | BUY | 0.0001 | `3h8FcVJFa373DtGK...` |
 | 03-18 03:21 | WLFI | BUY | 0.0001 | `5sjYfg6PdviizxwL...` |
 | 03-18 03:00 | LKY | BUY | 0.0001 | `2DURGm8rtDi2oUHM...` |
 | 03-18 02:25 | 钻石手pepe | BUY | 0.0001 | `5nDeAHiHpikrAm1p...` |

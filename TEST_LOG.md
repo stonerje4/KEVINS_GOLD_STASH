@@ -1,8 +1,21 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 04:00 UTC** | 7d | 133 buys, 79 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 04:05 UTC** | 7d | 138 buys, 87 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 04:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3goxJ4Yq2Qof...` |
+| 03-18 | 04:04 | 🟢 BUY | Lucia | 0.0001 | FoabCXs5... | copy_buy | `4h8ohuXzJM8s...` |
+| 03-18 | 04:04 | 🟢 BUY | DISLIKE | 0.0001 | 6raSuhfi... | copy_buy | `3h8FcVJFa373...` |
+| 03-18 | 04:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3z676wTx3nQp...` |
+| 03-18 | 04:03 | 🟢 BUY | FLAG | 0.0001 | 2AkmfaxF... | copy_buy | `4vVE89BmTmNp...` |
+| 03-18 | 04:03 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4wEK9LjsEtGZ...` |
+| 03-18 | 04:02 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5kxkvk3H962r...` |
+| 03-18 | 04:02 | 🟢 BUY | Rare pepe | 0.0001 | FoHJUYTh... | copy_buy | `Vd5mQiwUTtUP...` |
+| 03-18 | 04:02 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `63FRPuddSDLh...` |
+| 03-18 | 04:01 | 🟢 BUY | UHY | 0.0001 | FoabCXs5... | copy_buy | `pKzTfDb3mVuz...` |
+| 03-18 | 04:01 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `43N8oqVvvJMv...` |
+| 03-18 | 04:00 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `cCD2VPkrzS9S...` |
+| 03-18 | 04:00 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4oFqa8ZWFfXD...` |
 | 03-18 | 03:59 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `56zrvLvDHFhp...` |
 | 03-18 | 03:59 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3BBhVE6wG62g...` |
 | 03-18 | 03:58 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5YpxWRduDdk4...` |
