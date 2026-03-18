@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 11:50 UTC** | 7d | 395 buys, 723 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 11:55 UTC** | 7d | 399 buys, 729 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:54 | 🟢 BUY | EU-Inc | 0.0001 | cqakon1K... | copy_buy | `PBs2wy3PkD6E...` |
+| 03-18 | 11:54 | 🟢 BUY | 257 | 0.0001 | cqakon1K... | copy_buy | `2n6WmB75M7ew...` |
+| 03-18 | 11:54 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5wxi2ikVeZXT...` |
+| 03-18 | 11:53 | 🟢 BUY | 2567 | 0.0001 | cqakon1K... | copy_buy | `4MHug1FF96k4...` |
+| 03-18 | 11:53 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `FdPdHoYJHdGB...` |
+| 03-18 | 11:52 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3KfMubYnVd1B...` |
+| 03-18 | 11:52 | 🟢 BUY | Wheelchair | 0.0001 | cqakon1K... | copy_buy | `PgfwmnxowR2m...` |
+| 03-18 | 11:51 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `pbn1rYpc4mKc...` |
+| 03-18 | 11:50 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `cjjy9RdjdJE1...` |
+| 03-18 | 11:50 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4XLNpEojmMcZ...` |
 | 03-18 | 11:49 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `qMnfcmUbS2uB...` |
 | 03-18 | 11:48 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2GprEci3MynY...` |
 | 03-18 | 11:47 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3Yxp1hv9YQ7n...` |
