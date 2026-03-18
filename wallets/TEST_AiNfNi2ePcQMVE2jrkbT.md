@@ -1,12 +1,17 @@
 # [TEST] `AiNfNi2ePcQMVE2j...`
-> 2026-03-18 01:40 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 01:45 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| RarePepe | 03-18 01:20 | 1.46x | 1.55x | 0.3h | 0.0001 |
-| MEMESPACE | 03-18 01:20 | 1.22x | 1.22x | 0.3h | 0.0001 |
+| MEMESPACE | 03-18 01:20 | 1.38x | 1.38x | 0.4h | 0.0001 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ RarePepe | -0.0001 | 03-18 01:20 | 2.0x | 03-18 01:42 | 0.0000/0.0001 | gc_tp_2x_half |
 
 <details><summary>📋 Full Trade Log</summary>
 

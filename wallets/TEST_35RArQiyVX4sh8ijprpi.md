@@ -1,11 +1,13 @@
 # [TEST] `35RArQiyVX4sh8ij...`
-> 2026-03-18 01:40 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+> 2026-03-18 01:45 UTC | **4** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| POKEDEX | 03-18 01:24 | 1.10x | 1.15x | 0.3h | 0.0001 |
+| HoweyCoins | 03-18 01:43 | 1.09x | 1.09x | 0.0h | 0.0001 |
+| FLAG | 03-18 01:41 | 0.44x | 1.00x | 0.1h | 0.0001 |
+| POKEDEX | 03-18 01:24 | 0.88x | 1.15x | 0.3h | 0.0001 |
 
 ## Closed
 
@@ -17,6 +19,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 01:43 | HoweyCoins | BUY | 0.0001 | `XptcsTbhu9EJnPLc...` |
+| 03-18 01:41 | FLAG | BUY | 0.0001 | `5ct7KKPxCac6ENQ7...` |
 | 03-18 01:31 | cat#002 | BUY | 0.0001 | `2ERwk41yfgsysCwD...` |
 | 03-18 01:24 | POKEDEX | BUY | 0.0001 | `MJdsCcSRspB2RkG5...` |
 
