@@ -1,6 +1,5 @@
-# PRD Trade Log
+# 📊 PRD Trade Log
+> Updated: **2026-03-18 17:55 UTC** | 7d | 0 buys, 0 sells | In: **0.00** | Out: **0.00** | Net: **+0.00 SOL**
 
-*Fresh start — 2026-03-18 17:50 UTC*
-
-No trades yet.
-
+| Date | Time | Action | Token | SOL | Wallet | Reason | TX |
+|------|------|--------|-------|-----|--------|--------|----|
