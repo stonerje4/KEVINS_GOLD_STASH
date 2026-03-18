@@ -1,12 +1,12 @@
 # [TEST] `2autqiinD2k2f1rb...`
-> 2026-03-17 23:55 UTC | **7** pos | **2W/3L** | P&L: **+0.000037 SOL** (+3.7%) | 2 open
+> 2026-03-18 00:00 UTC | **7** pos | **2W/3L** | P&L: **+0.000037 SOL** (+3.7%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| RAFA | 03-17 13:16 | 0.58x | 1.10x | 10.6h | 0.0001 |
-| AlphA | 03-17 11:56 | 1.37x | 1.79x | 12.0h | 0.0001 |
+| RAFA | 03-17 13:16 | 0.58x | 1.10x | 10.7h | 0.0001 |
+| AlphA | 03-17 11:56 | 1.33x | 1.79x | 12.1h | 0.0001 |
 
 ## Closed
 
@@ -22,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 23:56 | RAFA | SELL | 0.0001 | `2eHfiDjvj1e8bHF2...` |
 | 03-17 22:56 | RAFA | SELL | 0.0001 | `4PPfBs97zqkeENXJ...` |
 | 03-17 16:57 | INFDFI | SELL | 0.0002 | `UVnxFsQBm5oTfkiv...` |
 | 03-17 16:51 | INFDFI | SELL | 0.0001 | `4s3d5BNdsHVYJNgw...` |

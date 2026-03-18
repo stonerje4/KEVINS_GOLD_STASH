@@ -1,5 +1,11 @@
 # [TEST] `BpxZNCi8hgEaj8Q1...`
-> 2026-03-17 23:55 UTC | **2** pos | **1W/1L** | P&L: **-0.000066 SOL** (-32.9%) | 0 open
+> 2026-03-18 00:00 UTC | **3** pos | **1W/1L** | P&L: **-0.000066 SOL** (-32.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| ghost | 03-17 23:59 | 0.00x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-17 23:59 | ghost | BUY | 0.0001 | `dVrKnVhjvi19vCob...` |
 | 03-17 18:00 | happened | SELL | 0.0000 | `3FmtZzvUeYw2xywe...` |
 | 03-17 17:59 | happened | SELL | 0.0001 | `5s2SqoNKXAbhDaAo...` |
 | 03-17 17:56 | happened | SELL | 0.0001 | `3JQUeVXho6cVmUGA...` |
