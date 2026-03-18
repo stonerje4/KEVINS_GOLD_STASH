@@ -1,8 +1,16 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 09:05 UTC** | 7d | 321 buys, 517 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
+> Updated: **2026-03-18 09:10 UTC** | 7d | 323 buys, 523 sells | In: **0.03** | Out: **0.00** | Net: **-0.03 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 09:09 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3qJJaPFTggiP...` |
+| 03-18 | 09:08 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `66JXtpykyc5H...` |
+| 03-18 | 09:08 | 🟢 BUY | MEMSIE | 0.0001 | 3VHz3Mhv... | copy_buy | `4xiwGQzHRksa...` |
+| 03-18 | 09:08 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3FsPspGmAQ3H...` |
+| 03-18 | 09:07 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3BKTUMmjkwyC...` |
+| 03-18 | 09:06 | 🟢 BUY | COMPUTER | 0.0001 | cqakon1K... | copy_buy | `5v7sroyx5pVv...` |
+| 03-18 | 09:06 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3CTAUVpsXqS8...` |
+| 03-18 | 09:05 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2Z7e8g4mnzC5...` |
 | 03-18 | 09:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3URPxaf1RZKg...` |
 | 03-18 | 09:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2nzMqJES6GZb...` |
 | 03-18 | 09:03 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `28iUqA3d1zuu...` |
