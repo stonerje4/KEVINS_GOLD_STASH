@@ -1,16 +1,11 @@
 # [TEST] `5fxx3tF25KgBGhFq...`
-> 2026-03-18 07:35 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| HOLLYANGELS | 03-18 07:30 | 0.92x | 1.58x | 0.1h | 0.0001 |
+> 2026-03-18 07:40 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ HOLLYANGELS | -0.0001 | 03-18 07:30 | 1.6x | 03-18 07:39 | 0.0000/0.0001 | gc_SL |
 | ❌ mayehm | -0.0001 | 03-18 03:48 | 1.0x | 03-18 03:50 | 0.0000/0.0001 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>
