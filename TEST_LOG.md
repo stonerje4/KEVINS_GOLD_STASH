@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 04:50 UTC** | 7d | 160 buys, 155 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
+> Updated: **2026-03-18 04:55 UTC** | 7d | 161 buys, 163 sells | In: **0.02** | Out: **0.00** | Net: **-0.02 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 04:54 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3AbSfhLdc1CN...` |
+| 03-18 | 04:54 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4WbwW4Zn1ExR...` |
+| 03-18 | 04:53 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2VqNVXiCpp7k...` |
+| 03-18 | 04:53 | 🟢 BUY | Memebubbles | 0.0001 | Lfw99jsE... | copy_buy | `4fpQpQvEkk4T...` |
+| 03-18 | 04:52 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `37E7Ej9t9Qdt...` |
+| 03-18 | 04:52 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `VzDgv8M34q6m...` |
+| 03-18 | 04:51 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5SfPbdTgVikP...` |
+| 03-18 | 04:50 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `potJumCMiitX...` |
+| 03-18 | 04:50 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3a9qWuitNZfJ...` |
 | 03-18 | 04:49 | 🟢 BUY | Geeked | 0.0001 | EaEf6TH8... | copy_buy | `4NvE1qFKjTh5...` |
 | 03-18 | 04:49 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `VXbiLoNAtNHE...` |
 | 03-18 | 04:49 | 🟢 BUY | OPYBOT | 0.0001 | EaEf6TH8... | copy_buy | `KRDpS8PDb8Rr...` |
