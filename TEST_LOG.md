@@ -1,8 +1,18 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 11:35 UTC** | 7d | 388 buys, 706 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 11:40 UTC** | 7d | 392 buys, 712 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 11:39 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `Hm5soo6cK5Pq...` |
+| 03-18 | 11:38 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `65wqvhyhgA2q...` |
+| 03-18 | 11:38 | 🟢 BUY | Penny | 0.0001 | GHy1P6vJ... | copy_buy | `CeuGx8WAb7ja...` |
+| 03-18 | 11:38 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3PWMeRFV9U6U...` |
+| 03-18 | 11:37 | 🟢 BUY | Realtor | 0.0001 | GHy1P6vJ... | copy_buy | `3nXVMEo1rYeC...` |
+| 03-18 | 11:37 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3oLch7eSB7gR...` |
+| 03-18 | 11:36 | 🟢 BUY | WhiteNigga | 0.0001 | GHy1P6vJ... | copy_buy | `GyZUzXGdS1wg...` |
+| 03-18 | 11:36 | 🟢 BUY | TORA | 0.0001 | 4yKnfzcf... | copy_buy | `4gGZ8EDFR1mb...` |
+| 03-18 | 11:36 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2rpTzp7CnMV2...` |
+| 03-18 | 11:35 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `TWUrqnuyQQSA...` |
 | 03-18 | 11:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5NkDCncdQSA1...` |
 | 03-18 | 11:33 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `JenFrK7UFAsA...` |
 | 03-18 | 11:32 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4VWad4uuD4A7...` |
