@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 15:00 UTC** | 7d | 155 buys, 146 sells | In: **32.35** | Out: **30.31** | Net: **-2.04 SOL**
+> Updated: **2026-03-18 15:05 UTC** | 7d | 155 buys, 147 sells | In: **32.35** | Out: **30.45** | Net: **-1.90 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 15:01 | 💰 SELL | GROKTRADER | 0.1360 | E79aNzAk... | TP1 | `2NxHX7hefvDk...` |
 | 03-18 | 14:51 | 🔴 SELL | Meningitis | 0.0941 | 2w85VLX4... | SL | `5ptFXWfVbDS8...` |
 | 03-18 | 14:50 | 🟢 BUY | ? | 0.2500 | r9pFHjFe... | copy | `3jm4wqn1aLGp...` |
 | 03-18 | 14:49 | 🟢 BUY | GROKTRADER | 0.2500 | E79aNzAk... | copy | `2huvgd2nDNkQ...` |
