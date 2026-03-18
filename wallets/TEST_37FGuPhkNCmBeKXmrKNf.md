@@ -1,16 +1,16 @@
-# [TEST] `BZmxuXQ68QeZABbD...`
+# [TEST] `37FGuPhkNCmBeKXm...`
 > 2026-03-18 14:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| HUGH | 03-18 02:55 | 0.62x | 1.00x | 11.7h | 0.0001 |
+| Meningitis | 03-18 14:38 | 0.97x | 1.00x | 0.0h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 02:55 | HUGH | BUY | 0.0001 | `3zoJ74MGhA2VSKRS...` |
+| 03-18 14:38 | Meningitis | BUY | 0.0001 | `Tb3CRgdYLoojFdi2...` |
 
 </details>
