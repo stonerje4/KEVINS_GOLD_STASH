@@ -1,5 +1,11 @@
 # [TEST] `51Ui3ZD4jyUmQZpC...`
-> 2026-03-18 11:30 UTC | **2** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 0 open
+> 2026-03-18 11:35 UTC | **3** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| PKEY | 03-18 11:32 | 0.75x | 1.00x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 11:32 | PKEY | BUY | 0.0001 | `3fQjW6gtawaZUpmb...` |
 | 03-18 04:14 | Bonk | BUY | 0.0001 | `C42YSs1U2Neb8Gz7...` |
 | 03-18 03:42 | SWARM | BUY | 0.0001 | `jj3TEKMLjP4sAUcF...` |
 

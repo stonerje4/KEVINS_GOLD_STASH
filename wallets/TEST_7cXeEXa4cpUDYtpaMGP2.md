@@ -1,12 +1,12 @@
 # [TEST] `7cXeEXa4cpUDYtpa...`
-> 2026-03-18 11:30 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 11:35 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Monke | 03-18 09:15 | 0.56x | 1.00x | 2.2h | 0.0001 |
-| Newscum | 03-18 08:15 | 0.98x | 1.14x | 3.2h | 0.0001 |
+| Monke | 03-18 09:15 | 0.56x | 1.00x | 2.3h | 0.0001 |
+| Newscum | 03-18 08:15 | 0.98x | 1.14x | 3.3h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
