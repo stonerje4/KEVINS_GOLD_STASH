@@ -1,12 +1,12 @@
 # [TEST] `42nQHDpyUQ73XUVc...`
-> 2026-03-18 01:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-18 02:00 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Lighter | 03-18 01:52 | 0.99x | 1.00x | 0.0h | 0.0001 |
-| VULTURE | 03-18 01:41 | 1.14x | 1.34x | 0.2h | 0.0001 |
+| Lighter | 03-18 01:52 | 0.99x | 1.00x | 0.1h | 0.0001 |
+| VULTURE | 03-18 01:41 | 0.95x | 1.34x | 0.3h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
