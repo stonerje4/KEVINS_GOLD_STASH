@@ -1,5 +1,11 @@
 # [TEST] `H5T9MYu8SA9PCrhX...`
-> 2026-03-18 06:40 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
+> 2026-03-18 06:45 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Garlic | 03-18 06:43 | 1.13x | 1.13x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 06:43 | Garlic | BUY | 0.0001 | `CNQWc4LGKpHmtT9K...` |
 | 03-18 01:31 | collector | BUY | 0.0001 | `5xWvgjhc3QBNYKGQ...` |
 
 </details>
