@@ -1,23 +1,25 @@
 # [TEST] `3VHz3MhvcbdxceVs...`
-> 2026-03-18 14:50 UTC | **8** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 8 open
+> 2026-03-18 14:55 UTC | **9** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 9 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Oranges | 03-18 14:41 | 1.02x | 1.05x | 0.1h | 0.0001 |
-| MEMSIE | 03-18 09:08 | 0.82x | 1.44x | 5.7h | 0.0001 |
-| CODECOIN | 03-18 08:21 | 0.89x | 1.49x | 6.5h | 0.0001 |
+| Limitless | 03-18 14:51 | 0.90x | 1.00x | 0.1h | 0.0001 |
+| Oranges | 03-18 14:41 | 1.02x | 1.05x | 0.2h | 0.0001 |
+| MEMSIE | 03-18 09:08 | 0.82x | 1.44x | 5.8h | 0.0001 |
+| CODECOIN | 03-18 08:21 | 0.89x | 1.49x | 6.6h | 0.0001 |
 | PVE | 03-18 07:34 | 0.75x | 1.00x | 7.3h | 0.0001 |
-| TRAITOR | 03-18 06:53 | 0.99x | 1.03x | 7.9h | 0.0001 |
-| tomorrow | 03-18 03:51 | 0.98x | 1.20x | 11.0h | 0.0001 |
+| TRAITOR | 03-18 06:53 | 0.92x | 1.03x | 8.0h | 0.0001 |
+| tomorrow | 03-18 03:51 | 0.97x | 1.20x | 11.1h | 0.0001 |
 | Conviction | 03-18 01:58 | 1.01x | 1.57x | 12.9h | 0.0001 |
-| MiroFish | 03-18 01:33 | 0.73x | 1.01x | 13.3h | 0.0001 |
+| MiroFish | 03-18 01:33 | 0.73x | 1.01x | 13.4h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 14:51 | Limitless | BUY | 0.0001 | `UqDvt92p3xm36A48...` |
 | 03-18 14:41 | Oranges | BUY | 0.0001 | `HVd9BEF7aiLDBu4A...` |
 | 03-18 09:08 | MEMSIE | BUY | 0.0001 | `4xiwGQzHRksaSvwW...` |
 | 03-18 08:21 | CODECOIN | BUY | 0.0001 | `3zLbGM7ozQsyUkLn...` |

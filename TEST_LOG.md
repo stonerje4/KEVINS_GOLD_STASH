@@ -1,8 +1,28 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 14:50 UTC** | 7d | 500 buys, 1051 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
+> Updated: **2026-03-18 14:55 UTC** | 7d | 508 buys, 1063 sells | In: **0.05** | Out: **0.00** | Net: **-0.05 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 14:54 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `2ga9BSsZmHuT...` |
+| 03-18 | 14:54 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `f2Ah7QV4wbz6...` |
+| 03-18 | 14:54 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `33MAQstqKDL7...` |
+| 03-18 | 14:53 | 🟢 BUY | UHY | 0.0001 | GRnCsBLj... | copy_buy | `2rcGt7MDQXo2...` |
+| 03-18 | 14:53 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `3vUarCZTEJpj...` |
+| 03-18 | 14:53 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `2zofJRPjEmdq...` |
+| 03-18 | 14:52 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `9Xikrnc5AUWc...` |
+| 03-18 | 14:52 | 🟢 BUY | MOGWARTS | 0.0001 | GHy1P6vJ... | copy_buy | `4MGtMMkdxD3B...` |
+| 03-18 | 14:52 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `ZDXy8ugYJmnL...` |
+| 03-18 | 14:51 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4XNsmgGbJY4D...` |
+| 03-18 | 14:51 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `3UdXkood9oX1...` |
+| 03-18 | 14:51 | 🟢 BUY | TGR | 0.0001 | A4azQqrp... | copy_buy | `669VnwqcWtKP...` |
+| 03-18 | 14:51 | 🟢 BUY | Limitless | 0.0001 | 3VHz3Mhv... | copy_buy | `UqDvt92p3xm3...` |
+| 03-18 | 14:51 | 🟢 BUY | Bundle | 0.0001 | 1aC2FgH1... | copy_buy | `4Twh7fKyvxXL...` |
+| 03-18 | 14:51 | 🟢 BUY | Borbs | 0.0001 | AJ8Gc1cY... | copy_buy | `4NgkKDUZHmGK...` |
+| 03-18 | 14:50 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `515SCHodEZxd...` |
+| 03-18 | 14:50 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `DGhX34RjDpiR...` |
+| 03-18 | 14:50 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `3VbxJMRH83Hb...` |
+| 03-18 | 14:50 | 🟢 BUY | AAWP | 0.0001 | AJ8Gc1cY... | copy_buy | `4YLXddgS7aEg...` |
+| 03-18 | 14:50 | 🟢 BUY | Stallion | 0.0001 | GHy1P6vJ... | copy_buy | `3jT8ZnwS25WN...` |
 | 03-18 | 14:49 | 🔴 SELL | boop | 0.0000 | Lfw99jsE... | SL | `37Lf5JNyPCt3...` |
 | 03-18 | 14:49 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3Skrn9TRxxyv...` |
 | 03-18 | 14:49 | 🔴 SELL | USOS | 0.0000 | EaEf6TH8... | trail | `4ion9kUrqkJp...` |
