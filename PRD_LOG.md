@@ -1,8 +1,13 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-18 03:45 UTC** | 7d | 91 buys, 38 sells | In: **16.35** | Out: **3.69** | Net: **-12.66 SOL**
+> Updated: **2026-03-18 03:50 UTC** | 7d | 94 buys, 40 sells | In: **17.10** | Out: **3.95** | Net: **-13.15 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 03:49 | 💰 SELL | FLAG | 0.1274 | r9pFHjFe... | TP1 | `4pqsJs814Z1P...` |
+| 03-18 | 03:48 | 🟢 BUY | AOR | 0.2500 | DHfshpzo... | copy | `4sjvhxfxcCHt...` |
+| 03-18 | 03:48 | 💰 SELL | SIGIL | 0.1370 | 6raSuhfi... | TP1 | `55REiNNaCTNq...` |
+| 03-18 | 03:48 | 🟢 BUY | Starlink | 0.2500 | DHfshpzo... | copy | `39ypeUvuXhtC...` |
+| 03-18 | 03:46 | 🟢 BUY | TGR | 0.2500 | DHfshpzo... | copy | `2rkeezSeLboP...` |
 | 03-18 | 03:33 | 🟢 BUY | XGEO | 0.2500 | 6raSuhfi... | copy | `2VT5Bdac1CCJ...` |
 | 03-18 | 03:21 | 🟢 BUY | WLFI | 0.2500 | 6raSuhfi... | copy | `Y3VtXGLm85Pc...` |
 | 03-18 | 03:19 | 🔴 SELL | LKY | 0.0778 | 6raSuhfi... | SL | `2nxNwf63pVZF...` |

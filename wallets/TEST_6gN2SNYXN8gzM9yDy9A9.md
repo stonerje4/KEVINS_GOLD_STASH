@@ -1,5 +1,11 @@
 # [TEST] `6gN2SNYXN8gzM9yD...`
-> 2026-03-18 03:45 UTC | **1** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 0 open
+> 2026-03-18 03:50 UTC | **2** pos | **0W/1L** | P&L: **-0.000100 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| JONES | 03-18 03:47 | 1.07x | 1.30x | 0.0h | 0.0001 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 03:47 | JONES | BUY | 0.0001 | `5Kk9Fi24vW27BCYa...` |
 | 03-18 02:04 | Scalpor | BUY | 0.0001 | `4c5DcayH1PKaFAad...` |
 
 </details>
