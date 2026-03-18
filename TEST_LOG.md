@@ -1,8 +1,20 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 03:30 UTC** | 7d | 114 buys, 32 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-18 03:35 UTC** | 7d | 118 buys, 40 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 03:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3jypH2cm382r...` |
+| 03-18 | 03:34 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3m2GLMsbgM8F...` |
+| 03-18 | 03:33 | 🟢 BUY | SEC | 0.0001 | AJ8Gc1cY... | copy_buy | `52Gh8kg7WGB8...` |
+| 03-18 | 03:33 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3P67d1gd1p9H...` |
+| 03-18 | 03:33 | 🟢 BUY | BBX | 0.0001 | 2947n9KQ... | copy_buy | `JqKKbYFjg3QS...` |
+| 03-18 | 03:32 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5CBZcfwmcMXQ...` |
+| 03-18 | 03:32 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5XFiUrzbTuKq...` |
+| 03-18 | 03:31 | 🟢 BUY | A&A | 0.0001 | Be6s18aT... | copy_buy | `2c2uFe4NL35m...` |
+| 03-18 | 03:31 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `37tGpzqwUDK9...` |
+| 03-18 | 03:31 | 🟢 BUY | DragClaw | 0.0001 | AJ8Gc1cY... | copy_buy | `5ZmujTcn9fBT...` |
+| 03-18 | 03:30 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3QTU9ePEABH6...` |
+| 03-18 | 03:30 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `4h57abfXwxmG...` |
 | 03-18 | 03:29 | 🟢 BUY | PATRIOT | 0.0001 | CZjxED3u... | copy_buy | `4xF2kyh1HMAH...` |
 | 03-18 | 03:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `Tim6xkXSVFwb...` |
 | 03-18 | 03:29 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `P163fynMH97v...` |

@@ -1,18 +1,18 @@
-# [TEST] `Be6s18aTYhuBZCSY...`
+# [TEST] `AJ8Gc1cYzDQmQVyW...`
 > 2026-03-18 03:35 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| A&A | 03-18 03:31 | 0.80x | 1.00x | 0.1h | 0.0001 |
-| DECEL | 03-18 02:26 | 0.79x | 1.00x | 1.1h | 0.0001 |
+| SEC | 03-18 03:33 | 0.99x | 1.00x | 0.0h | 0.0001 |
+| DragClaw | 03-18 03:31 | 1.02x | 1.02x | 0.1h | 0.0001 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 03:31 | A&A | BUY | 0.0001 | `2c2uFe4NL35mDcEz...` |
-| 03-18 02:26 | DECEL | BUY | 0.0001 | `42sTqvxdNm1NAaJC...` |
+| 03-18 03:33 | SEC | BUY | 0.0001 | `52Gh8kg7WGB8TDd7...` |
+| 03-18 03:31 | DragClaw | BUY | 0.0001 | `5ZmujTcn9fBTnDxi...` |
 
 </details>
