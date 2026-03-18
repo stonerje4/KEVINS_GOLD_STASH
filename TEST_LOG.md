@@ -1,8 +1,17 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-18 12:05 UTC** | 7d | 401 buys, 740 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
+> Updated: **2026-03-18 12:10 UTC** | 7d | 404 buys, 746 sells | In: **0.04** | Out: **0.00** | Net: **-0.04 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-18 | 12:09 | 🟢 BUY | Ridglan8 | 0.0001 | cqakon1K... | copy_buy | `5bB3LLu6PywG...` |
+| 03-18 | 12:09 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3bNNrXQcGHYV...` |
+| 03-18 | 12:08 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5NchZJ1FUNXa...` |
+| 03-18 | 12:07 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `cpkxBbD6ea1x...` |
+| 03-18 | 12:07 | 🟢 BUY | e-fart | 0.0001 | CZjxED3u... | copy_buy | `2JLf3kWoCLm9...` |
+| 03-18 | 12:06 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3W8FfT15r1fe...` |
+| 03-18 | 12:05 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `HHa9u5FEgVX8...` |
+| 03-18 | 12:05 | 🟢 BUY | Lion | 0.0001 | GHy1P6vJ... | copy_buy | `444CqxwgLW7c...` |
+| 03-18 | 12:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5jSJAvL6zEZ5...` |
 | 03-18 | 12:04 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `3v58cYYERxcw...` |
 | 03-18 | 12:03 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `5Nq4jN3ynKvD...` |
 | 03-18 | 12:02 | 🔴 SELL | SWM | 0.0000 | Lfw99jsE... | trail | `Josv9L58ohtq...` |
