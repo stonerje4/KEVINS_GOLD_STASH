@@ -1,12 +1,13 @@
 # [TEST] `GEHrGJ3B9BbKdDmf...`
-> 2026-03-18 16:00 UTC | **6** pos | **0W/4L** | P&L: **-0.000400 SOL** (-100.0%) | 2 open
+> 2026-03-18 16:05 UTC | **7** pos | **0W/4L** | P&L: **-0.000400 SOL** (-100.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Wigga | 03-18 15:06 | 1.09x | 1.30x | 0.9h | 0.0001 |
-| Gilbert | 03-18 05:13 | 0.66x | 1.95x | 10.8h | 0.0001 |
+| CHEMTRAILS | 03-18 16:02 | 0.00x | 1.00x | 0.0h | 0.0001 |
+| Wigga | 03-18 15:06 | 1.09x | 1.30x | 1.0h | 0.0001 |
+| Gilbert | 03-18 05:13 | 0.65x | 1.95x | 10.9h | 0.0001 |
 
 ## Closed
 
@@ -21,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 16:02 | CHEMTRAILS | BUY | 0.0001 | `4cxtAUuVxQfvpRQB...` |
 | 03-18 15:11 | DLSS5 | BUY | 0.0001 | `2PQNM9sn5hNYjHJf...` |
 | 03-18 15:10 | McCards | BUY | 0.0001 | `4TyRSra7HFsHRtDa...` |
 | 03-18 15:06 | Wigga | BUY | 0.0001 | `5x55So46taUCrxJ3...` |
