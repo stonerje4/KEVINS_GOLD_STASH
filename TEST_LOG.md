@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 06:10 UTC** | 7d | 129 buys, 100 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 06:15 UTC** | 7d | 130 buys, 102 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 06:14 | 🟢 BUY | BEN | 0.0002 | FoHJUYTh... | copy_buy | `364eJqRafZY3...` |
+| 03-19 | 06:10 | 🔴 SELL | day | 0.0001 | 9G4ytadk... | SL | `5RZ9PX7skLKG...` |
+| 03-19 | 06:10 | 🔴 SELL | ARNIS | 0.0001 | 45j4enZd... | SL | `3tqk14Pv68XC...` |
 | 03-19 | 06:05 | 🟢 BUY | day | 0.0002 | 9G4ytadk... | copy_buy | `SauEVE2FXa44...` |
 | 03-19 | 06:04 | 🟢 BUY | Gilbert | 0.0002 | 6raSuhfi... | copy_buy | `2Zdi6C6reXgV...` |
 | 03-19 | 05:56 | 🟢 BUY | ARNIS | 0.0002 | 45j4enZd... | copy_buy | `2tSGFKUcDSdr...` |

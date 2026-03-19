@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 06:10 UTC** | 7d | 84 buys, 60 sells | In: **42.00** | Out: **20.98** | Net: **-21.02 SOL**
+> Updated: **2026-03-19 06:15 UTC** | 7d | 85 buys, 61 sells | In: **42.50** | Out: **21.31** | Net: **-21.19 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 06:15 | 🔴 SELL | SQUIRE | 0.3325 | 5n593DWQ... | stale | `36bpZn5FeXKC...` |
+| 03-19 | 06:11 | 🟢 BUY | TGR | 0.5000 | HCDsVE5Y... | copy | `5xwov5q48fAw...` |
 | 03-19 | 06:04 | 🟢 BUY | Gilbert | 0.5000 | 6raSuhfi... | copy | `4jsSZcP5vCKL...` |
 | 03-19 | 05:56 | 🟢 BUY | SCOTT | 0.5000 | DDApL88z... | copy | `3KXrpQy47Q7E...` |
 | 03-19 | 05:47 | 🟢 BUY | MPP | 0.5000 | ApkQGKbq... | copy | `5EZtGp4XR9Zo...` |
