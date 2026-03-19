@@ -1,12 +1,12 @@
 # [TEST] `GWM5CZhJ8CppvLC7...`
-> 2026-03-19 02:40 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 02:45 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Situation | 03-19 02:20 | 1.09x | 1.10x | 0.3h | 0.0002 |
-| dog#001 | 03-18 22:40 | 0.45x | 1.03x | 4.0h | 0.0002 |
+| Situation | 03-19 02:20 | 1.05x | 1.10x | 0.4h | 0.0002 |
+| dog#001 | 03-18 22:40 | 0.44x | 1.03x | 4.1h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
