@@ -1,9 +1,17 @@
-# Exit Log — 2026-03-19 23:48 UTC
+# Exit Log — 2026-03-19 23:53 UTC
 
-Total closed: **82**
+Total closed: **90**
 
 | Token | Wallet | Result | Reason | Entry $ | Pool | Entry → Exit |
 |-------|--------|--------|--------|---------|------|-------------|
+| 🔴 DOOLYSAURUS | `EaEf6TH8...` | **0.40x** | stop_loss | $0.000008 | pumpfun | 2026-03-19 23:51 → 2026-03-19 23:53 |
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000023 | pumpswap | 2026-03-19 23:53 → 2026-03-19 23:53 |
+| 🔴 sage | `8QdLq5UW...` | **0.38x** | stop_loss | $0.000007 | pumpfun | 2026-03-19 23:48 → 2026-03-19 23:52 |
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000022 | pumpswap | 2026-03-19 23:52 → 2026-03-19 23:52 |
+| 🔴 SHOENICE  | `8WXpW2ef...` | **0.38x** | stop_loss | $0.000018 | pumpfun | 2026-03-19 23:32 → 2026-03-19 23:51 |
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000020 | pumpswap | 2026-03-19 23:50 → 2026-03-19 23:50 |
+| 🔴 SHOENICE  | `23XaYYLE...` | **0.24x** | stop_loss | $0.000030 | pumpfun | 2026-03-19 23:37 → 2026-03-19 23:50 |
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000023 | pumpswap | 2026-03-19 23:50 → 2026-03-19 23:50 |
 | 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000021 | pumpswap | 2026-03-19 23:48 → 2026-03-19 23:48 |
 | 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000020 | pumpswap | 2026-03-19 23:47 → 2026-03-19 23:47 |
 | 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000016 | pumpswap | 2026-03-19 23:46 → 2026-03-19 23:46 |
