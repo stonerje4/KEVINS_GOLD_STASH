@@ -1,16 +1,17 @@
 # [TEST] `7EautDJGQDzgktoo...`
-> 2026-03-19 03:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 03:45 UTC | **1** pos | **0W/1L** | P&L: **-0.000134 SOL** (-60.8%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| ￼ | 03-19 03:29 | 0.88x | 1.73x | 0.2h | 0.0002 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ ￼ | -0.0001 | 03-19 03:29 | 1.7x | 03-19 03:42 | 0.0001/0.0002 | SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 03:42 | ￼ | SELL | 0.0001 | `3NSQCbQo41T6JdYv...` |
 | 03-19 03:29 | ￼ | BUY | 0.0002 | `4hsx7CesQ3yTuncs...` |
 
 </details>
