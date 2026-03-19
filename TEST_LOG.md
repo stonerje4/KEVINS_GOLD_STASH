@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 10:05 UTC** | 7d | 184 buys, 148 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 10:10 UTC** | 7d | 186 buys, 149 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 10:08 | 🟢 BUY | PACO | 0.0002 | 6raSuhfi... | copy_buy | `WxkWMXNwe6NS...` |
+| 03-19 | 10:08 | 🟢 BUY | PUMPBL | 0.0002 | FoHJUYTh... | copy_buy | `3EzGGHCcvx6E...` |
+| 03-19 | 10:07 | 🔴 SELL | RETARDED | 0.0001 | 3XHiDvWC... | SL | `5xHqS33TZCfg...` |
 | 03-19 | 10:04 | 🟢 BUY | ZERO | 0.0002 | 4yKnfzcf... | copy_buy | `37hsJEymuu7g...` |
 | 03-19 | 09:48 | 💰 SELL | Genesis-2 | 0.0001 | CZjxED3u... | TP1 | `4exEnxbNQSwD...` |
 | 03-19 | 09:43 | 💰 SELL | Island | 0.0001 | 7d8W4xZd... | TP1 | `3q1pdcEh4HZd...` |
