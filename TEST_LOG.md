@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 07:45 UTC** | 7d | 156 buys, 119 sells | In: **0.03** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 07:50 UTC** | 7d | 159 buys, 120 sells | In: **0.03** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 07:48 | 🟢 BUY | NIOC | 0.0002 | BGGJhxGX... | copy_buy | `21DPvDYwcFDL...` |
+| 03-19 | 07:48 | 💰 SELL | PERCOLATOR | 0.0001 | 4yKnfzcf... | TP1 | `AVvfbi9dF2BK...` |
+| 03-19 | 07:47 | 🟢 BUY | OILLY | 0.0002 | 87nWQxQv... | copy_buy | `3SbpiUkxDjX8...` |
+| 03-19 | 07:47 | 🟢 BUY | BIAOQING | 0.0002 | CZjxED3u... | copy_buy | `5G2JS4FnmEoM...` |
 | 03-19 | 07:43 | 🟢 BUY | NIOC | 0.0002 | 87nWQxQv... | copy_buy | `6rpWPCnFESEf...` |
 | 03-19 | 07:39 | 🟢 BUY | TripleA | 0.0002 | BGGJhxGX... | copy_buy | `5AHxsqkJFKp4...` |
 | 03-19 | 07:38 | 🟢 BUY | PERCOLATOR | 0.0002 | 4yKnfzcf... | copy_buy | `5D1NoWNFmBoA...` |

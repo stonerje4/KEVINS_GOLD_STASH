@@ -1,5 +1,11 @@
 # [TEST] `CZjxED3uVrU4MaNq...`
-> 2026-03-19 07:45 UTC | **1** pos | **0W/1L** | P&L: **-0.000134 SOL** (-61.1%) | 0 open
+> 2026-03-19 07:50 UTC | **2** pos | **0W/1L** | P&L: **-0.000134 SOL** (-61.1%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BIAOQING | 03-19 07:47 | 0.83x | 1.00x | 0.0h | 0.0002 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 07:47 | BIAOQING | BUY | 0.0002 | `5G2JS4FnmEoMi6C9...` |
 | 03-19 05:27 | Renaissance | SELL | 0.0001 | `4n4DEoYxLpum1aZT...` |
 | 03-19 05:05 | Renaissance | BUY | 0.0002 | `52y8UAfTvogS6q5m...` |
 
