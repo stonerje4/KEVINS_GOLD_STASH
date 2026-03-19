@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 09:15 UTC** | 7d | 180 buys, 138 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 09:20 UTC** | 7d | 180 buys, 141 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 09:19 | 🔴 SELL | Engineer | 0.0001 | FoHJUYTh... | stale_cleanu | `22LqPZB7b4Vo...` |
+| 03-19 | 09:19 | 🔴 SELL | Wombat | 0.0001 | FoHJUYTh... | stale_cleanu | `3rFtJfJo4ocb...` |
+| 03-19 | 09:19 | 🔴 SELL | INUDEX | 0.0001 | 6gN2SNYX... | stale_cleanu | `3txVMWpLukQy...` |
 | 03-19 | 09:14 | 🟢 BUY | ALIENMUSK | 0.0002 | FoHJUYTh... | copy_buy | `brNogduPYH5T...` |
 | 03-19 | 09:13 | 🟢 BUY | Billy | 0.0002 | cqakon1K... | copy_buy | `oLGpMUKrvESP...` |
 | 03-19 | 09:06 | 🔴 SELL | SOLANA | 0.0001 | 4yKnfzcf... | SL | `5SgwLduYgh4V...` |
