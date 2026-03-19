@@ -1,11 +1,11 @@
 # [TEST] `37FGuPhkNCmBeKXm...`
-> 2026-03-19 08:15 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 08:20 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| HOLLYANGELS | 03-18 22:35 | 0.65x | 1.01x | 9.7h | 0.0002 |
+| HOLLYANGELS | 03-18 22:35 | 0.70x | 1.01x | 9.7h | 0.0002 |
 | Community | 03-18 22:23 | 0.56x | 39525.68x | 9.9h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>

@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 08:15 UTC** | 7d | 167 buys, 128 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 08:20 UTC** | 7d | 167 buys, 131 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 08:19 | 🔴 SELL | TRENCHCLAW | 0.0001 | EfU8P5AZ... | stale_cleanu | `2KS7JZpuuUWp...` |
+| 03-19 | 08:19 | 🔴 SELL | Satoshi | 0.0001 | 3jKwp9dY... | stale_cleanu | `4biqt3hhGzKg...` |
+| 03-19 | 08:19 | 🔴 SELL | everything | 0.0001 | FoHJUYTh... | stale_cleanu | `5J7JQnPNBJvg...` |
 | 03-19 | 08:13 | 💰 SELL | USAOIL | 0.0001 | BGGJhxGX... | TP1 | `BhTks7JwTQa9...` |
 | 03-19 | 08:11 | 💰 SELL | PERCOLATOR | 0.0001 | 4yKnfzcf... | tp_8x_trim | `3Arc5xHahMaP...` |
 | 03-19 | 08:10 | 💰 SELL | PERCOLATOR | 0.0001 | 4yKnfzcf... | TP4 | `2NjhHK6StCUv...` |
