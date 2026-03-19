@@ -1,5 +1,11 @@
 # [TEST] `4yKnfzcf98jm5z3u...`
-> 2026-03-19 07:35 UTC | **3** pos | **0W/3L** | P&L: **-0.000455 SOL** (-68.9%) | 0 open
+> 2026-03-19 07:40 UTC | **4** pos | **0W/3L** | P&L: **-0.000455 SOL** (-68.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| PERCOLATOR | 03-19 07:38 | 1.14x | 1.14x | 0.0h | 0.0002 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 07:38 | PERCOLATOR | BUY | 0.0002 | `5D1NoWNFmBoAkUcU...` |
 | 03-19 07:19 | S&P500 | SELL | 0.0000 | `3RAaRHutEFXyUnqa...` |
 | 03-19 06:19 | ASSDAQ | SELL | 0.0001 | `5PPVc5MissyDrCTa...` |
 | 03-19 04:34 | TODAY | SELL | 0.0001 | `XqqgUfRBFwgsXn5k...` |
