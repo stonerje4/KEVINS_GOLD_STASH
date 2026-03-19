@@ -1,12 +1,12 @@
 # [TEST] `7d8W4xZdLa42oEKR...`
-> 2026-03-19 01:10 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 01:15 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Island | 03-19 01:09 | 0.99x | 1.00x | 0.0h | 0.0002 |
-| CONSPIRATOR | 03-19 00:49 | 0.98x | 1.01x | 0.3h | 0.0002 |
+| Island | 03-19 01:09 | 0.92x | 1.00x | 0.1h | 0.0002 |
+| CONSPIRATOR | 03-19 00:49 | 1.01x | 1.01x | 0.4h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 

@@ -1,11 +1,12 @@
 # [TEST] `Ckm6DF7m77M2Wzri...`
-> 2026-03-19 01:10 UTC | **2** pos | **0W/1L** | P&L: **-0.000135 SOL** (-61.4%) | 1 open
+> 2026-03-19 01:15 UTC | **3** pos | **0W/1L** | P&L: **-0.000135 SOL** (-61.4%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BLONDIE | 03-18 22:28 | 0.70x | 1.07x | 2.7h | 0.0002 |
+| Chud | 03-19 01:13 | 1.00x | 1.00x | 0.0h | 0.0002 |
+| BLONDIE | 03-18 22:28 | 0.70x | 1.07x | 2.8h | 0.0002 |
 
 ## Closed
 
@@ -17,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 01:13 | Chud | BUY | 0.0002 | `4AhkqmfKCKcYabAX...` |
 | 03-19 00:28 | Nasdog | SELL | 0.0001 | `35qqvFW1V3GiZiSh...` |
 | 03-18 22:50 | Nasdog | BUY | 0.0002 | `2XJsnKqpLzoSbDN6...` |
 | 03-18 22:28 | BLONDIE | BUY | 0.0002 | `3KtJUp2G6sEu7z9u...` |
