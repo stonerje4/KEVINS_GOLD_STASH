@@ -1,16 +1,17 @@
 # [TEST] `44yBNPRVSBvX3GPi...`
-> 2026-03-19 01:25 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 01:30 UTC | **1** pos | **0W/1L** | P&L: **-0.000184 SOL** (-83.8%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| GitCheck | 03-19 00:28 | 0.44x | 2.08x | 0.9h | 0.0002 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ GitCheck | -0.0002 | 03-19 00:28 | 2.1x | 03-19 01:25 | 0.0000/0.0002 | SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 01:25 | GitCheck | SELL | 0.0000 | `2auFrbAV86Wb276K...` |
 | 03-19 00:28 | GitCheck | BUY | 0.0002 | `5MTkt5G9JCVAagmH...` |
 
 </details>
