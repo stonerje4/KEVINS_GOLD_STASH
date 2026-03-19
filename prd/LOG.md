@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 05:00 UTC*
+*Last updated: 2026-03-19 05:05 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 05:03 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.118 | 0.2x | runner_trailing_stop | [tx](https://solscan.io/tx/VrL6n4iBcN84gFwfPYSRYZWDHbbSTSY1GyE8o9GYrwe8AGiKbA4i56yHvGzGkvubTVZSmtYXbLDJQsNup4bLdAr) |
 | 2026-03-19 04:52 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.258 | 5.2x | tp_4x_trim | [tx](https://solscan.io/tx/26honsrDkJCPVsLEhZpCRrJJKgoBqjzEn4KFLLFA8b5HG9RCVua4Uo7Rs3vbk8T7H2t3E4rK9CyecedwuqWbKMmw) |
 | 2026-03-19 04:51 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.405 | 3.2x | tp_3x_trim | [tx](https://solscan.io/tx/xE7CcQQUg1jtfvFQZ3oJLXDtTwgPJ3u2kFbPxFdKWLu8MY1ZvRnpDAeNNdeiYmsdvUdVwwAPotvZTR1zzZCF59E) |
 | 2026-03-19 04:50 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.328 | 2.6x | tp_2x_half | [tx](https://solscan.io/tx/p3LeNtzcbTaJZ2gKrKyzuxX6jPkWxRA9Y4aE9cUbwyu7c6n37wbdBY5Ld2uehhX7qY8kAcrdHNvHbDLvsju46wg) |
