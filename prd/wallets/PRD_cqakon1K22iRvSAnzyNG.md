@@ -1,5 +1,11 @@
 # [PRD] `cqakon1K22iRvSAn...`
-> 2026-03-19 09:30 UTC | **5** pos | **1W/4L** | P&L: **-0.898022 SOL** (-35.9%) | 0 open
+> 2026-03-19 09:35 UTC | **6** pos | **1W/4L** | P&L: **-0.898022 SOL** (-35.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| ? | 03-19 09:30 | 0.00x | 1.14x | 0.1h | 0.5000 |
 
 ## Closed
 
@@ -15,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 09:30 | ? | BUY | 0.5000 | `32u8j9WejVQUPCQN...` |
 | 03-19 09:24 | Billy | SELL | 0.1988 | `4t2yseGGEbbXbFGW...` |
 | 03-19 09:13 | Billy | BUY | 0.5000 | `5sTQzkpwTWVuYe71...` |
 | 03-19 08:44 | ? | SELL | 0.1851 | `3SuyqCrTN46MMtGD...` |

@@ -1,6 +1,6 @@
 # 🧪 TEST — Dust Buy Dashboard
 
-*Last updated: 2026-03-19 09:30 UTC*
+*Last updated: 2026-03-19 09:35 UTC*
 *P&L normalized to $100/buy for comparison*
 
 **Wallet:** [`AEbLCN4gXSKzwvFcbtrEHngXZgo8RhX7zJ6S125ZH8wY`](https://solscan.io/account/AEbLCN4gXSKzwvFcbtrEHngXZgo8RhX7zJ6S125ZH8wY)
@@ -11,7 +11,7 @@
 | Metric | Value |
 |--------|-------|
 | Test Wallets | 35 |
-| Total Positions | 181 |
+| Total Positions | 182 |
 | Open | 0 |
 | Closed | 0 |
 
@@ -31,12 +31,12 @@
 | 🟢 | [`4Dpu2UjkFmnwmjSM5z2h...`](wallets/TEST_4Dpu2UjkFmnwmjSM5z2h.md) | 1 | 1/0 | 100% | $+82 | +82% | — | **$+82** | 4.3x | 0 | [🔗](https://solscan.io/account/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) |
 | 🟢 | [`ApkQGKbq8dRw5ha9n2bg...`](wallets/TEST_ApkQGKbq8dRw5ha9n2bg.md) | 3 | 1/1 | 50% | $+109 | +55% | $-59 | **$+51** | 4.4x | 1 | [🔗](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
 | 🟢 | [`G1nVBXwCrXFNVifHx64m...`](wallets/TEST_G1nVBXwCrXFNVifHx64m.md) | 1 | 0/0 | 0% | $+0 | — | $+47 | **$+47** | — | 1 | [🔗](https://solscan.io/account/G1nVBXwCrXFNVifHx64m3jssXoyMSL8KNYc3X2fYL13Y) |
-| 🟢 | [`7d8W4xZdLa42oEKRzCxK...`](wallets/TEST_7d8W4xZdLa42oEKRzCxK.md) | 3 | 1/0 | 100% | $+13 | +13% | $+33 | **$+46** | 2.1x | 2 | [🔗](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) |
-| 🟢 | [`ALJ4P5QNyHeLEjpKGmA1...`](wallets/TEST_ALJ4P5QNyHeLEjpKGmA1.md) | 1 | 0/0 | 0% | $+0 | — | $+27 | **$+27** | — | 1 | [🔗](https://solscan.io/account/ALJ4P5QNyHeLEjpKGmA1eUfJHSEGQMjY8HLnDkSgjczb) |
+| 🟢 | [`7d8W4xZdLa42oEKRzCxK...`](wallets/TEST_7d8W4xZdLa42oEKRzCxK.md) | 3 | 1/0 | 100% | $+13 | +13% | $+22 | **$+35** | 2.1x | 2 | [🔗](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) |
+| 🟢 | [`ALJ4P5QNyHeLEjpKGmA1...`](wallets/TEST_ALJ4P5QNyHeLEjpKGmA1.md) | 1 | 0/0 | 0% | $+0 | — | $+26 | **$+26** | — | 1 | [🔗](https://solscan.io/account/ALJ4P5QNyHeLEjpKGmA1eUfJHSEGQMjY8HLnDkSgjczb) |
 | 🟢 | [`FVFkKaDkXA5Y76ZT6qSb...`](wallets/TEST_FVFkKaDkXA5Y76ZT6qSb.md) | 1 | 1/0 | 100% | $+15 | +15% | — | **$+15** | 2.3x | 0 | [🔗](https://solscan.io/account/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) |
 | ⚪ | [`G5eugJMkQmuHh4ZztMEU...`](wallets/TEST_G5eugJMkQmuHh4ZztMEU.md) | 1 | 0/0 | 0% | $+0 | — | $-0 | **$-0** | — | 1 | [🔗](https://solscan.io/account/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) |
 | ⚪ | [`5FPytvPnCfQNN454uT34...`](wallets/TEST_5FPytvPnCfQNN454uT34.md) | 1 | 0/0 | 0% | $+0 | — | $-13 | **$-13** | — | 1 | [🔗](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) |
-| ⚪ | [`721EJnQ9nTo325qjvYu8...`](wallets/TEST_721EJnQ9nTo325qjvYu8.md) | 1 | 0/0 | 0% | $+0 | — | $-16 | **$-16** | — | 1 | [🔗](https://solscan.io/account/721EJnQ9nTo325qjvYu8hG779ikuWkuwdpk7VZqtzQYm) |
+| ⚪ | [`721EJnQ9nTo325qjvYu8...`](wallets/TEST_721EJnQ9nTo325qjvYu8.md) | 1 | 0/0 | 0% | $+0 | — | $-17 | **$-17** | — | 1 | [🔗](https://solscan.io/account/721EJnQ9nTo325qjvYu8hG779ikuWkuwdpk7VZqtzQYm) |
 | ⚪ | [`Be6s18aTYhuBZCSY5Z3M...`](wallets/TEST_Be6s18aTYhuBZCSY5Z3M.md) | 1 | 0/0 | 0% | $+0 | — | $-18 | **$-18** | — | 1 | [🔗](https://solscan.io/account/Be6s18aTYhuBZCSY5Z3MRZ3Qc9ia6n5rmES7xuHRcoaW) |
 | ⚪ | [`BmXugVGYfGMj9QRLkdcE...`](wallets/TEST_BmXugVGYfGMj9QRLkdcE.md) | 1 | 0/0 | 0% | $+0 | — | $-45 | **$-45** | — | 1 | [🔗](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) |
 | 🔴 | [`BNCSPd6QtP6rJCWZvaYn...`](wallets/TEST_BNCSPd6QtP6rJCWZvaYn.md) | 2 | 1/1 | 50% | $-52 | -26% | — | **$-52** | 1.7x | 0 | [🔗](https://solscan.io/account/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) |
@@ -48,18 +48,18 @@
 | 🔴 | [`CZjxED3uVrU4MaNqkbw6...`](wallets/TEST_CZjxED3uVrU4MaNqkbw6.md) | 2 | 0/1 | 0% | $-61 | -61% | $-21 | **$-82** | 1.0x | 1 | [🔗](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) |
 | 🔴 | [`44yBNPRVSBvX3GPizy1V...`](wallets/TEST_44yBNPRVSBvX3GPizy1V.md) | 1 | 0/1 | 0% | $-84 | -84% | — | **$-84** | 2.1x | 0 | [🔗](https://solscan.io/account/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) |
 | ⚪ | [`37FGuPhkNCmBeKXmrKNf...`](wallets/TEST_37FGuPhkNCmBeKXmrKNf.md) | 3 | 0/0 | 0% | $+0 | — | $-87 | **$-87** | — | 3 | [🔗](https://solscan.io/account/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK) |
-| 🔴 | [`GWM5CZhJ8CppvLC7JGMh...`](wallets/TEST_GWM5CZhJ8CppvLC7JGMh.md) | 3 | 0/1 | 0% | $-61 | -61% | $-26 | **$-87** | 1.0x | 2 | [🔗](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) |
+| 🔴 | [`GWM5CZhJ8CppvLC7JGMh...`](wallets/TEST_GWM5CZhJ8CppvLC7JGMh.md) | 4 | 0/1 | 0% | $-61 | -61% | $-37 | **$-99** | 1.0x | 3 | [🔗](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) |
 | 🔴 | [`8ACE6bZN4fG3vhAKj5st...`](wallets/TEST_8ACE6bZN4fG3vhAKj5st.md) | 2 | 0/1 | 0% | $-100 | -100% | $-14 | **$-114** | 1.4x | 1 | [🔗](https://solscan.io/account/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) |
-| 🔴 | [`9tv5mfwaQVsJQ6xg9SLe...`](wallets/TEST_9tv5mfwaQVsJQ6xg9SLe.md) | 4 | 0/2 | 0% | $-153 | -77% | $+39 | **$-114** | 1.1x | 2 | [🔗](https://solscan.io/account/9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn) |
-| 🔴 | [`Ckm6DF7m77M2WzriP8W2...`](wallets/TEST_Ckm6DF7m77M2WzriP8W2.md) | 3 | 0/1 | 0% | $-61 | -61% | $-53 | **$-115** | 1.0x | 2 | [🔗](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) |
+| 🔴 | [`Ckm6DF7m77M2WzriP8W2...`](wallets/TEST_Ckm6DF7m77M2WzriP8W2.md) | 3 | 0/1 | 0% | $-61 | -61% | $-56 | **$-117** | 1.0x | 2 | [🔗](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) |
 | 🔴 | [`7EautDJGQDzgktooscvQ...`](wallets/TEST_7EautDJGQDzgktooscvQ.md) | 2 | 0/2 | 0% | $-123 | -61% | — | **$-123** | 1.6x | 0 | [🔗](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) |
 | 🔴 | [`3jKwp9dY9PWxpzr7Hxmm...`](wallets/TEST_3jKwp9dY9PWxpzr7Hxmm.md) | 2 | 0/2 | 0% | $-125 | -62% | — | **$-125** | 1.1x | 0 | [🔗](https://solscan.io/account/3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc) |
-| 🔴 | [`3XHiDvWCsaFCeQv3qqZL...`](wallets/TEST_3XHiDvWCsaFCeQv3qqZL.md) | 3 | 0/2 | 0% | $-131 | -66% | $-12 | **$-143** | 1.1x | 1 | [🔗](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) |
+| 🔴 | [`3XHiDvWCsaFCeQv3qqZL...`](wallets/TEST_3XHiDvWCsaFCeQv3qqZL.md) | 3 | 0/2 | 0% | $-131 | -66% | $-17 | **$-148** | 1.1x | 1 | [🔗](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) |
 | 🔴 | [`Div6cVovWmtPsoWH5PEN...`](wallets/TEST_Div6cVovWmtPsoWH5PEN.md) | 4 | 0/1 | 0% | $-67 | -67% | $-102 | **$-169** | 1.9x | 3 | [🔗](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) |
-| 🔴 | [`6gN2SNYXN8gzM9yDy9A9...`](wallets/TEST_6gN2SNYXN8gzM9yDy9A9.md) | 4 | 0/2 | 0% | $-139 | -69% | $-75 | **$-214** | 1.5x | 2 | [🔗](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) |
-| 🔴 | [`9G4ytadk761g5DMxpp1C...`](wallets/TEST_9G4ytadk761g5DMxpp1C.md) | 15 | 4/5 | 44% | $-82 | -9% | $-172 | **$-254** | 2.1x | 6 | [🔗](https://solscan.io/account/9G4ytadk761g5DMxpp1CLsW3vdpSZDVU4xGLsu6LSEtS) |
+| 🔴 | [`6gN2SNYXN8gzM9yDy9A9...`](wallets/TEST_6gN2SNYXN8gzM9yDy9A9.md) | 4 | 0/2 | 0% | $-139 | -69% | $-77 | **$-216** | 1.5x | 2 | [🔗](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) |
+| 🔴 | [`9G4ytadk761g5DMxpp1C...`](wallets/TEST_9G4ytadk761g5DMxpp1C.md) | 15 | 4/5 | 44% | $-82 | -9% | $-181 | **$-263** | 2.1x | 6 | [🔗](https://solscan.io/account/9G4ytadk761g5DMxpp1CLsW3vdpSZDVU4xGLsu6LSEtS) |
+| 🔴 | [`9tv5mfwaQVsJQ6xg9SLe...`](wallets/TEST_9tv5mfwaQVsJQ6xg9SLe.md) | 4 | 0/3 | 0% | $-253 | -84% | $-46 | **$-299** | 1.4x | 1 | [🔗](https://solscan.io/account/9tv5mfwaQVsJQ6xg9SLeaGS8kPLxHG7VQGAvtmQteFhn) |
 | 🔴 | [`6raSuhfig5Y1vZJxrg9z...`](wallets/TEST_6raSuhfig5Y1vZJxrg9z.md) | 15 | 2/4 | 33% | $-113 | -19% | $-205 | **$-318** | 2.7x | 9 | [🔗](https://solscan.io/account/6raSuhfig5Y1vZJxrg9zqJTjKdSouMX4F23Jgi3TdHjA) |
-| 🔴 | [`FoHJUYThke7eXqtCe62z...`](wallets/TEST_FoHJUYThke7eXqtCe62z.md) | 29 | 0/9 | 0% | $-433 | -48% | $-171 | **$-605** | 1.0x | 20 | [🔗](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) |
+| 🔴 | [`FoHJUYThke7eXqtCe62z...`](wallets/TEST_FoHJUYThke7eXqtCe62z.md) | 29 | 0/9 | 0% | $-433 | -48% | $-150 | **$-583** | 1.0x | 20 | [🔗](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) |
 | 🔴 | [`4Ki54j4tyzRLkagnvPWn...`](wallets/TEST_4Ki54j4tyzRLkagnvPWn.md) | 9 | 0/9 | 0% | $-718 | -80% | — | **$-718** | 1.1x | 0 | [🔗](https://solscan.io/account/4Ki54j4tyzRLkagnvPWnbHTgz113KQdfDus7wCmpweqo) |
 
 ## Test Wallets (35)
