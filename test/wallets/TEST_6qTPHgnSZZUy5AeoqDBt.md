@@ -1,12 +1,12 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-19 12:25 UTC | **7** pos | **3W/2L** | P&L: **+0.001438 SOL** (+130.7%) | 2 open
+> 2026-03-19 12:30 UTC | **7** pos | **3W/2L** | P&L: **+0.001438 SOL** (+130.7%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Raccoon | 03-19 11:37 | 1.86x | 1.86x | 0.8h | 0.0002 |
-| CANOPY | 03-19 01:56 | 1.58x | 1.58x | 10.5h | 0.0002 |
+| Raccoon | 03-19 11:37 | 1.95x | 2.32x | 0.9h | 0.0002 |
+| CANOPY | 03-19 01:56 | 1.58x | 1.58x | 10.6h | 0.0002 |
 
 ## Closed
 
@@ -22,6 +22,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 12:25 | Raccoon | SELL | 0.0001 | `4ASBjyT1kFDj5sdS...` |
 | 03-19 11:37 | Raccoon | BUY | 0.0002 | `5u44tMWZpgQVFv3b...` |
 | 03-19 06:59 | LINLIAN | SELL | 0.0001 | `62kJHT3ZZebih8jV...` |
 | 03-19 05:40 | Spiderman | SELL | 0.0003 | `2VpLmCEVtdoboksL...` |

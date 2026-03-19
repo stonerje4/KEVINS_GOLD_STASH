@@ -1,11 +1,11 @@
 # [PRD] `7aMgK5L4qEQ8Nyv6...`
-> 2026-03-19 12:25 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 12:30 UTC | **1** pos | **0W/1L** | P&L: **-0.500000 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| elonwifdoge | 03-19 06:48 | 0.00x | 1.15x | 5.6h | 0.5000 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ elonwifdoge | -0.5000 | 03-19 06:48 | 1.2x | 03-19 12:29 | 0.0000/0.5000 | gc_zero_balance |
 
 <details><summary>📋 Full Trade Log</summary>
 
