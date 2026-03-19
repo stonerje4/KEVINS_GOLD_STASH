@@ -1,9 +1,9 @@
 # 📈 PRD — Production Dashboard
 
-*Last updated: 2026-03-19 17:55 UTC*
+*Last updated: 2026-03-19 18:00 UTC*
 
 **Wallet:** [`DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h`](https://solscan.io/account/DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h)
-**Position Size:** 0.50 SOL (~$44/buy) · **SOL:** $88.12
+**Position Size:** 0.50 SOL (~$44/buy) · **SOL:** $88.11
 
 ## Summary
 
@@ -13,7 +13,7 @@
 | Total Positions | 119 |
 | Open | 0 |
 | Closed | 119 |
-| Total Gas Fees | 0.4115 SOL ($36.26) |
+| Total Gas Fees | 0.4115 SOL ($36.25) |
 
 ## Wallet Performance
 
@@ -29,7 +29,7 @@
 | 🔴 | [`HCDsVE5Y22dzxFzibEFS...`](wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 7 | 0/7 | 0% | $-126 | -44% | — | $1 | **$-126** | 1.2x | 0 | [🔗](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
 | 🔴 | [`DHfshpzoC9Q7rz32j5ju...`](wallets/PRD_DHfshpzoC9Q7rz32j5ju.md) | 8 | 1/7 | 12% | $-192 | -58% | — | $2 | **$-192** | 1.7x | 0 | [🔗](https://solscan.io/account/DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf) |
 | 🔴 | [`DDApL88zun3vGuhkxkUx...`](wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 9 | 0/9 | 0% | $-260 | -65% | — | $3 | **$-260** | 1.5x | 0 | [🔗](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
-| 🔴 | [`2w85VLX4W4qm8SPS7UJ3...`](wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 12 | 1/11 | 8% | $-293 | -57% | — | $2 | **$-293** | 1.4x | 0 | [🔗](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
+| 🔴 | [`2w85VLX4W4qm8SPS7UJ3...`](wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 12 | 1/11 | 8% | $-292 | -57% | — | $2 | **$-292** | 1.4x | 0 | [🔗](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 | [`r9pFHjFe2CiovRvrakTC...`](wallets/PRD_r9pFHjFe2CiovRvrakTC.md) | 15 | 0/15 | 0% | $-405 | -74% | — | $4 | **$-405** | 1.3x | 0 | [🔗](https://solscan.io/account/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) |
 
 ## Followed Wallets (15)
