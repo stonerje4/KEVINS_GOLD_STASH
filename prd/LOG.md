@@ -1,8 +1,17 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 13:22 UTC** | 7d | 110 buys, 91 sells | In: **54.78** | Out: **29.32** | Net: **-25.46 SOL**
+> Updated: **2026-03-19 13:25 UTC** | 7d | 110 buys, 100 sells | In: **54.78** | Out: **29.32** | Net: **-25.46 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 13:24 | 🔴 SELL | WRT | 0.0000 | 5vweNikg... | manual_sell_ | `?` |
+| 03-19 | 13:24 | 🔴 SELL | FTR | 0.0000 | DHfshpzo... | manual_sell_ | `?` |
+| 03-19 | 13:24 | 🔴 SELL | Meteor | 0.0000 | DHfshpzo... | manual_sell_ | `?` |
+| 03-19 | 13:24 | 🔴 SELL | MutantX | 0.0000 | r9pFHjFe... | manual_sell_ | `?` |
+| 03-19 | 13:24 | 🔴 SELL | e-CNY | 0.0000 | r9pFHjFe... | manual_sell_ | `?` |
+| 03-19 | 13:24 | 🔴 SELL | KAT | 0.0000 | 6raSuhfi... | manual_sell_ | `?` |
+| 03-19 | 13:24 | 🔴 SELL | XPXGOLD | 0.0000 | DHfshpzo... | manual_sell_ | `?` |
+| 03-19 | 13:24 | 🔴 SELL | BBX | 0.0000 | DHfshpzo... | manual_sell_ | `?` |
+| 03-19 | 13:24 | 🔴 SELL | XPXGOLD | 0.0000 | r9pFHjFe... | manual_sell_ | `?` |
 | 03-19 | 12:51 | 🟢 BUY | USAOIL | 0.2800 | DHfshpzo... | copy | `mrpb1o2upuet...` |
 | 03-19 | 12:15 | 🔴 SELL | DELMO | 0.2363 | DDApL88z... | stale | `2BkGhvco3wdD...` |
 | 03-19 | 12:15 | 🔴 SELL | OIL#000 | 0.4336 | HCDsVE5Y... | stale | `3mLv5iRJHpFk...` |

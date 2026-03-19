@@ -1,12 +1,12 @@
 # PUMP ALPHA — Overview
 
-*Last updated: 2026-03-19 13:22 UTC*
+*Last updated: 2026-03-19 13:25 UTC*
 
 ## Pipeline
 
 ```
 SHADOW (paper trade) → PRD (real money)
-   395 wallets         15 wallets
+   404 wallets         15 wallets
 ```
 
 | Stage | Dashboard | Trade Log |

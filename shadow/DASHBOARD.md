@@ -1,13 +1,13 @@
 # 👁️ SHADOW — Paper Trading Dashboard
 
-*Last updated: 2026-03-19 13:22 UTC*
+*Last updated: 2026-03-19 13:25 UTC*
 *P&L normalized to $100/buy for comparison*
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Active Wallets | 395 |
+| Active Wallets | 404 |
 | Closed Positions | 2031 |
 | Open Positions | 2337 |
 | Profitable (3+ cls) | 8 |
