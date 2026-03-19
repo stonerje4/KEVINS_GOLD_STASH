@@ -1,11 +1,11 @@
 # [TEST] `FY5sWMqL2AQrsS2F...`
-> 2026-03-19 03:10 UTC | **3** pos | **1W/1L** | P&L: **+0.000748 SOL** (+169.9%) | 1 open
+> 2026-03-19 03:15 UTC | **3** pos | **1W/1L** | P&L: **+0.000748 SOL** (+169.9%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| intelligence | 03-19 03:01 | 1.49x | 2.48x | 0.2h | 0.0002 |
+| intelligence | 03-19 03:01 | 1.34x | 2.48x | 0.2h | 0.0002 |
 
 ## Closed
 
