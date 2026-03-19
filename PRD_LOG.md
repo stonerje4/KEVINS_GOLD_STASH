@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 02:15 UTC** | 7d | 68 buys, 43 sells | In: **34.00** | Out: **15.04** | Net: **-18.96 SOL**
+> Updated: **2026-03-19 02:20 UTC** | 7d | 68 buys, 45 sells | In: **34.00** | Out: **15.55** | Net: **-18.45 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 02:18 | 💰 SELL | BBX | 0.2529 | DHfshpzo... | TP1 | `4fuPJwuE6DGL...` |
+| 03-19 | 02:15 | 💰 SELL | Chocolatina | 0.2542 | DDApL88z... | TP1 | `53xruYiyvV6u...` |
 | 03-19 | 02:11 | 🟢 BUY | USGAY | 0.5000 | 6raSuhfi... | copy | `DzVYCXWYux2R...` |
 | 03-19 | 02:01 | 🟢 BUY | Chong | 0.5000 | 6raSuhfi... | copy | `LwYfLbXTXgCP...` |
 | 03-19 | 02:00 | 🟢 BUY | CONSPIRATOR | 0.5000 | J5jm7BnB... | copy | `ZgGTw93rJZVb...` |
