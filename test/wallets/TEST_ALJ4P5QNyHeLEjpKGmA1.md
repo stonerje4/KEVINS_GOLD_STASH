@@ -1,11 +1,11 @@
 # [TEST] `ALJ4P5QNyHeLEjpK...`
-> 2026-03-19 05:15 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 05:20 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| AIFRUIT | 03-19 04:07 | 1.54x | 1.61x | 1.1h | 0.0002 |
+| AIFRUIT | 03-19 04:07 | 1.42x | 1.61x | 1.2h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
