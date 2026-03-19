@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 14:55 UTC*
+*Last updated: 2026-03-19 15:00 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
+| 2026-03-19 14:57 | 🔴 sell | ? | `cqakon1K22iR...` | 0.199 | — | 0.4x | stop_loss | [tx](https://solscan.io/tx/3Xfu11fjpGH1oJrPrrpYLEU9apfcqYPECG574LYYAbXytd4dRna38U9qnStF5nsV26Lo8p9odLZoMXwfcq8gTZPh) |
+| 2026-03-19 14:57 | 🔴 sell | Veggietales | `6raSuhfig5Y1...` | 0.198 | — | 0.4x | stop_loss | [tx](https://solscan.io/tx/33pd5jYKQkEpMaH9ioHxBokU65xszMuzU4dom59h3xTTFXSAK9X9F66uP1kLZYAHbsXSCBoqMf1N7fEn5cfMrZPj) |
 | 2026-03-19 14:49 | 🔴 sell | Handprint | `J5jm7BnBiGaB...` | 0.718 | — | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/3pmeP3rToGp84qUAfaQkhiVhpxLEj4F9bcg3jNvj16FCYe4wL3y1AG5WsZSi5hwSg884Yre5tojePRU3pVUSXrGP) |
 | 2026-03-19 14:29 | 🔴 sell | KopiKamu | `5n593DWQkpfF...` | 0.240 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3r8nSUPRAfNfRJTARW1SgKWNVoazMXYHdqU1U22ZaRrq9BWHZywWFLJLaBk3temMVyjy5wvr79zYh1iYESXWMhEA) |
 | 2026-03-19 14:29 | 🔴 sell | TGR | `HCDsVE5Y22dz...` | 0.462 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/2RYLnFfFNptH8yJeFWGUMiaNzG2CV9VxEhdEd4UfRVijAsbxTipMX73JhTNxtihBSMDGh8G1vjcmNTPaoQNVeWRa) |
@@ -202,5 +204,3 @@
 | 2026-03-18 20:43 | 🟢 buy | ? | `2w85VLX4W4qm...` | 0.500 | 0.0010 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/2dFR17AG5tKAKHfMytsrdvFYAZFWh8af2LBi7R43ehp7RvqziSFufkweaRVpEsvspurPQPsuhZJNBJStotniqsvC) |
 | 2026-03-18 20:37 | 🔴 sell | GroupChat | `5n593DWQkpfF...` | 0.250 | 0.0005 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/cqAQ9YuDEZNR2PjzFTFJ7rnA8t2sZwiD3eKceXSSr2ebz9jXqcPJBpWkwqoQAkkcyyUyEXXU5fijGr9dnbxCGhw) |
 | 2026-03-18 20:37 | 🔴 sell | SIGNS | `E79aNzAkDa92...` | 0.412 | 0.0005 | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/3cB3jaDnQg4oNwx7fitSLrVwnNhBXRBXMSYH1p3Cyygw8gbzDVdBV75ohYf3iEVMdTmKKT6QXYNHvtr2aceFx7BF) |
-| 2026-03-18 20:24 | 🔴 sell | SIGNS | `E79aNzAkDa92...` | 0.277 | 0.0005 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/2ARxtJB8c7Wg3Nry5sraRpXCVBUjKvMzbo8P9mzgT7ToHcXUBUGgbtMdzf4nC2KzWjEdp6VNZxcY7aJCSe6Kqmdn) |
-| 2026-03-18 20:24 | 🟢 buy | GroupChat | `5n593DWQkpfF...` | 0.500 | 0.0010 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/28Db2TuyqjFQhHapNHGKrCic5gw4mBwq9wiRVxVsav7vBHPxfZCECZm1rFBhqWXhLbsAunL9rJGY97Sii4rvqFQq) |
