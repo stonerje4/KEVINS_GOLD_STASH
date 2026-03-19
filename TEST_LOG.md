@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 07:10 UTC** | 7d | 138 buys, 113 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 07:15 UTC** | 7d | 141 buys, 114 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 07:14 | 🟢 BUY | USAOIL | 0.0002 | 87nWQxQv... | copy_buy | `22ar8UapYyXw...` |
+| 03-19 | 07:14 | 🟢 BUY | DOGEFATHER | 0.0002 | 7EautDJG... | copy_buy | `4HAC3njEmK94...` |
+| 03-19 | 07:12 | 🟢 BUY | USAOIL | 0.0002 | 87nWQxQv... | copy_buy | `3665qw98FXYs...` |
+| 03-19 | 07:12 | 🔴 SELL | LOCKIN | 0.0001 | Div6cVov... | SL | `2jKuCD8MgZwZ...` |
 | 03-19 | 07:07 | 🔴 SELL | Solana | 0.0001 | 7x3WYp6b... | SL | `2iKDsbxuQDgk...` |
 | 03-19 | 07:07 | 🟢 BUY | USAOIL | 0.0002 | BGGJhxGX... | copy_buy | `27UgzWkx77SG...` |
 | 03-19 | 07:06 | 🟢 BUY | LOCK | 0.0002 | FY5sWMqL... | copy_buy | `565RgKVwwtvZ...` |

@@ -1,5 +1,11 @@
 # [TEST] `7EautDJGQDzgktoo...`
-> 2026-03-19 07:10 UTC | **1** pos | **0W/1L** | P&L: **-0.000134 SOL** (-60.8%) | 0 open
+> 2026-03-19 07:15 UTC | **2** pos | **0W/1L** | P&L: **-0.000134 SOL** (-60.8%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| DOGEFATHER | 03-19 07:14 | 0.84x | 1.00x | 0.0h | 0.0002 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 07:14 | DOGEFATHER | BUY | 0.0002 | `4HAC3njEmK94iv7R...` |
 | 03-19 03:42 | ￼ | SELL | 0.0001 | `3NSQCbQo41T6JdYv...` |
 | 03-19 03:29 | ￼ | BUY | 0.0002 | `4hsx7CesQ3yTuncs...` |
 
