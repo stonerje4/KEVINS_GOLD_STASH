@@ -1,25 +1,26 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-19 01:45 UTC | **5** pos | **0W/1L** | P&L: **-0.000135 SOL** (-61.6%) | 4 open
+> 2026-03-19 01:50 UTC | **5** pos | **1W/1L** | P&L: **+0.000722 SOL** (+164.2%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| HUNT | 03-19 01:01 | 1.44x | 1.49x | 0.7h | 0.0002 |
-| CLAWCYCLE | 03-18 23:58 | 9.28x | 10.06x | 1.8h | 0.0002 |
-| LINLIAN | 03-18 23:48 | 1.27x | 1.33x | 1.9h | 0.0002 |
-| Spiderman | 03-18 22:18 | 1.47x | 1.52x | 3.4h | 0.0002 |
+| HUNT | 03-19 01:01 | 1.68x | 1.73x | 0.8h | 0.0002 |
+| LINLIAN | 03-18 23:48 | 1.48x | 1.48x | 2.0h | 0.0002 |
+| Spiderman | 03-18 22:18 | 1.48x | 1.52x | 3.5h | 0.0002 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
 | ❌ NOSTALGIA | -0.0001 | 03-19 00:13 | 1.0x | 03-19 00:32 | 0.0001/0.0002 | gc_SL |
+| ✅ CLAWCYCLE | +0.0009 | 03-18 23:58 | 10.1x | 03-19 01:47 | 0.0011/0.0002 | trail |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 01:47 | CLAWCYCLE | SELL | 0.0005 | `spF9F1ip4Eh7Ubbt...` |
 | 03-19 01:43 | CLAWCYCLE | SELL | 0.0001 | `2m9G7gnYG4fYn8DM...` |
 | 03-19 01:43 | CLAWCYCLE | SELL | 0.0001 | `yvRSE5t12vzcozwq...` |
 | 03-19 01:43 | CLAWCYCLE | SELL | 0.0001 | `5z7jy6vfXszEAFSS...` |
