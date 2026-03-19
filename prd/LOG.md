@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 01:40 UTC*
+*Last updated: 2026-03-19 01:45 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 01:41 | 🔴 sell | Handprint | `J5jm7BnBiGaB...` | 0.291 | 2.3x | tp_2x_half | [tx](https://solscan.io/tx/3C7XFjYa1LvDB3nsSTK2D1ULRqRec3kKwiLkEF71oqQ2zGo6XTRPbcaoKa7jqg5soZnBpfUeGfkzgurzHaoxTQ2R) |
 | 2026-03-19 01:31 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.580 | 1.2x | runner_trailing_stop | [tx](https://solscan.io/tx/5up3r4C7cKWVyrV6hSpt9yG2YanuFWgF4bZHFkCDBV3o4MW4QXbyz8fEF3xMUJg4ZbZ7xVm1L2pkJszauWMkJ8Dv) |
 | 2026-03-19 01:22 | 🟢 buy | BBX | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/45CB9p7woddX1ckGy6RfWMyhGJCpiPXErB4XjQYEeV8TKUNL5ww89FgsghUM4K3jNgLtiZi1VyCcU2qRneLvodyp) |
 | 2026-03-19 01:20 | 🟢 buy | Meteor | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/3Paw38G9fYcbQieJvnU3i8cdqiwmrRsagzxUKwbLAgcbiX6cSBuFDtGfRw7DCva2ZuHQnLfzA4sLPgbrTHSSjFZA) |

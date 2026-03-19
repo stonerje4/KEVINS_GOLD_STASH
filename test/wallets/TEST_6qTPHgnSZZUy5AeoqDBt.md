@@ -1,14 +1,14 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-19 01:40 UTC | **5** pos | **0W/1L** | P&L: **-0.000135 SOL** (-61.6%) | 4 open
+> 2026-03-19 01:45 UTC | **5** pos | **0W/1L** | P&L: **-0.000135 SOL** (-61.6%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| HUNT | 03-19 01:01 | 1.16x | 1.23x | 0.6h | 0.0002 |
-| CLAWCYCLE | 03-18 23:58 | 3.19x | 3.19x | 1.7h | 0.0002 |
-| LINLIAN | 03-18 23:48 | 1.24x | 1.24x | 1.9h | 0.0002 |
-| Spiderman | 03-18 22:18 | 1.46x | 1.52x | 3.4h | 0.0002 |
+| HUNT | 03-19 01:01 | 1.44x | 1.49x | 0.7h | 0.0002 |
+| CLAWCYCLE | 03-18 23:58 | 9.28x | 10.06x | 1.8h | 0.0002 |
+| LINLIAN | 03-18 23:48 | 1.27x | 1.33x | 1.9h | 0.0002 |
+| Spiderman | 03-18 22:18 | 1.47x | 1.52x | 3.4h | 0.0002 |
 
 ## Closed
 
@@ -20,6 +20,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 01:43 | CLAWCYCLE | SELL | 0.0001 | `2m9G7gnYG4fYn8DM...` |
+| 03-19 01:43 | CLAWCYCLE | SELL | 0.0001 | `yvRSE5t12vzcozwq...` |
+| 03-19 01:43 | CLAWCYCLE | SELL | 0.0001 | `5z7jy6vfXszEAFSS...` |
 | 03-19 01:39 | CLAWCYCLE | SELL | 0.0001 | `4XAR4pPBjRQ9sMSP...` |
 | 03-19 01:04 | CLAWCYCLE | SELL | 0.0001 | `519tA3aF4vWhbHW4...` |
 | 03-19 01:01 | HUNT | BUY | 0.0002 | `5XwJX76hpkrpenus...` |

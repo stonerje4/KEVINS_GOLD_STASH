@@ -1,16 +1,17 @@
 # [TEST] `BpxZNCi8hgEaj8Q1...`
-> 2026-03-19 01:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 01:45 UTC | **1** pos | **0W/1L** | P&L: **-0.000137 SOL** (-62.3%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| SWMR | 03-18 23:13 | 0.45x | 1.47x | 2.4h | 0.0002 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ SWMR | -0.0001 | 03-18 23:13 | 1.5x | 03-19 01:40 | 0.0001/0.0002 | SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 01:40 | SWMR | SELL | 0.0001 | `3PKVDh65yhQumV7g...` |
 | 03-18 23:13 | SWMR | BUY | 0.0002 | `3dcffZAq2CtiKRn1...` |
 
 </details>

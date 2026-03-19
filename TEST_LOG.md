@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 01:40 UTC** | 7d | 70 buys, 47 sells | In: **0.02** | Out: **4.75** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 01:45 UTC** | 7d | 71 buys, 52 sells | In: **0.02** | Out: **4.75** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 01:43 | 💰 SELL | CLAWCYCLE | 0.0001 | 6qTPHgnS... | tp_8x_trim | `2m9G7gnYG4fY...` |
+| 03-19 | 01:43 | 💰 SELL | CLAWCYCLE | 0.0001 | 6qTPHgnS... | TP4 | `yvRSE5t12vzc...` |
+| 03-19 | 01:43 | 💰 SELL | CLAWCYCLE | 0.0001 | 6qTPHgnS... | TP3 | `5z7jy6vfXszE...` |
+| 03-19 | 01:41 | 🟢 BUY | MiMo | 0.0002 | FoHJUYTh... | copy_buy | `4xtAiWfAUY5B...` |
+| 03-19 | 01:41 | 💰 SELL | Garbonzo | 0.0002 | 9G4ytadk... | trail | `2vxg6dHvkA7L...` |
+| 03-19 | 01:40 | 🔴 SELL | SWMR | 0.0001 | BpxZNCi8... | SL | `3PKVDh65yhQu...` |
 | 03-19 | 01:39 | 💰 SELL | CLAWCYCLE | 0.0001 | 6qTPHgnS... | TP2 | `4XAR4pPBjRQ9...` |
 | 03-19 | 01:32 | 🟢 BUY | Russianrot | 0.0002 | 9G4ytadk... | copy_buy | `4aqKJkbH1ARZ...` |
 | 03-19 | 01:26 | 💰 SELL | Garbonzo | 0.0001 | 9G4ytadk... | TP2 | `4VJcNho3yLRV...` |
