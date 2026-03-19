@@ -1,11 +1,11 @@
 # [TEST] `5FPytvPnCfQNN454...`
-> 2026-03-19 04:00 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 04:05 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Monke | 03-19 00:11 | 0.89x | 1.00x | 3.8h | 0.0002 |
+| Monke | 03-19 00:11 | 0.88x | 1.00x | 3.9h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 

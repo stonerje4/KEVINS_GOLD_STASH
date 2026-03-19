@@ -1,8 +1,10 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 04:00 UTC** | 7d | 108 buys, 80 sells | In: **0.02** | Out: **4.75** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 04:05 UTC** | 7d | 109 buys, 81 sells | In: **0.02** | Out: **4.75** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 04:01 | 🔴 SELL | XENOGEN | 0.0001 | ApkQGKbq... | SL | `3EsyUqfWNwCt...` |
+| 03-19 | 04:00 | 🟢 BUY | GLUP | 0.0002 | ETHhoTiK... | copy_buy | `25sfNCnc9Wdh...` |
 | 03-19 | 03:59 | 🟢 BUY | TGR | 0.0002 | ETHhoTiK... | copy_buy | `3eHN21qnqhxR...` |
 | 03-19 | 03:58 | 🟢 BUY | $WARSH | 0.0002 | ETHhoTiK... | copy_buy | `2AwumFZ1Ywwq...` |
 | 03-19 | 03:56 | 🟢 BUY | TWIBLY | 0.0002 | FoHJUYTh... | copy_buy | `5fuJrNwN3aHT...` |
