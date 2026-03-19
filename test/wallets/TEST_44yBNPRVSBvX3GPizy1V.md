@@ -1,25 +1,16 @@
 # [TEST] `44yBNPRVSBvX3GPi...`
-> 2026-03-18 17:55 UTC | **3** pos | **0W/2L** | P&L: **-0.000200 SOL** (-100.0%) | 1 open
+> 2026-03-19 00:30 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Kingpin | 03-18 01:45 | 0.72x | 1.45x | 16.2h | 0.0001 |
-
-## Closed
-
-| Token | Result | Entry | Peak | Exit | P&L | Reason |
-|-------|--------|-------|------|------|-----|--------|
-| ❌ PumpDex | -0.0001 | 03-18 14:28 | 1.0x | 03-18 14:32 | 0.0000/0.0001 | gc_SL |
-| ❌ cat#002 | -0.0001 | 03-18 02:26 | 1.0x | 03-18 02:39 | 0.0000/0.0001 | gc_SL |
+| GitCheck | 03-19 00:28 | 1.17x | 1.17x | 0.0h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 14:28 | PumpDex | BUY | 0.0001 | `ia6FxndiZuFup1iJ...` |
-| 03-18 02:26 | cat#002 | BUY | 0.0001 | `5zq6WRyFYABYkkYH...` |
-| 03-18 01:45 | Kingpin | BUY | 0.0001 | `3uAFJSjFsfSTDjez...` |
+| 03-19 00:28 | GitCheck | BUY | 0.0002 | `5MTkt5G9JCVAagmH...` |
 
 </details>

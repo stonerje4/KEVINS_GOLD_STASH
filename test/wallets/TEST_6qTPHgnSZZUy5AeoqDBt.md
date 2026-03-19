@@ -1,14 +1,14 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-19 00:25 UTC | **4** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 4 open
+> 2026-03-19 00:30 UTC | **4** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| NOSTALGIA | 03-19 00:13 | 0.67x | 1.04x | 0.2h | 0.0002 |
-| CLAWCYCLE | 03-18 23:58 | 1.18x | 1.18x | 0.4h | 0.0002 |
-| LINLIAN | 03-18 23:48 | 0.78x | 1.15x | 0.6h | 0.0002 |
-| Spiderman | 03-18 22:18 | 1.48x | 1.48x | 2.1h | 0.0002 |
+| NOSTALGIA | 03-19 00:13 | 0.62x | 1.04x | 0.3h | 0.0002 |
+| CLAWCYCLE | 03-18 23:58 | 1.10x | 1.20x | 0.5h | 0.0002 |
+| LINLIAN | 03-18 23:48 | 0.59x | 1.15x | 0.7h | 0.0002 |
+| Spiderman | 03-18 22:18 | 1.52x | 1.52x | 2.2h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
