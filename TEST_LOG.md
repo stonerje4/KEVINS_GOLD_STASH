@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 11:40 UTC** | 7d | 211 buys, 166 sells | In: **0.05** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 11:45 UTC** | 7d | 215 buys, 168 sells | In: **0.05** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 11:44 | 🟢 BUY | XPXGOLD | 0.0002 | ETHhoTiK... | copy_buy | `4hUjAidUrmX5...` |
+| 03-19 | 11:44 | 🟢 BUY | PACO | 0.0002 | 4Dpu2Ujk... | copy_buy | `2fz5WH5P3iPy...` |
+| 03-19 | 11:44 | 🟢 BUY | PLOTT | 0.0002 | 4Dpu2Ujk... | copy_buy | `3MkQ6dCykGKH...` |
+| 03-19 | 11:42 | 💰 SELL | Solana | 0.0001 | 6raSuhfi... | TP2 | `3LcFi5ccJXBM...` |
+| 03-19 | 11:41 | 🔴 SELL | 屁合戦 | 0.0001 | 9G4ytadk... | SL | `3L4uBsGiiXw2...` |
+| 03-19 | 11:40 | 🟢 BUY | NIOC | 0.0002 | ETHhoTiK... | copy_buy | `3akDqg9KmYJg...` |
 | 03-19 | 11:40 | 🟢 BUY | SCOTT | 0.0002 | BmXugVGY... | copy_buy | `we3vQt271quN...` |
 | 03-19 | 11:39 | 🟢 BUY | 屁合戦 | 0.0002 | 9G4ytadk... | copy_buy | `2SRBu3rSf4ZQ...` |
 | 03-19 | 11:37 | 🟢 BUY | Raccoon | 0.0002 | 6qTPHgnS... | copy_buy | `5u44tMWZpgQV...` |
