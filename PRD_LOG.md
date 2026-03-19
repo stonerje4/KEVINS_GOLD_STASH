@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 10:20 UTC** | 7d | 100 buys, 82 sells | In: **50.00** | Out: **26.71** | Net: **-23.29 SOL**
+> Updated: **2026-03-19 10:25 UTC** | 7d | 101 buys, 82 sells | In: **50.50** | Out: **26.71** | Net: **-23.79 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 10:22 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `PuBaYv4Z8xrZ...` |
 | 03-19 | 10:15 | 🔴 SELL | gf | 0.2546 | 6raSuhfi... | stale | `3zRsHpGb64ed...` |
 | 03-19 | 10:15 | 🔴 SELL | Chong | 0.2099 | 6raSuhfi... | stale | `5kXa7XMBNQoi...` |
 | 03-19 | 10:15 | 🔴 SELL | MILK | 0.3189 | 6raSuhfi... | stale | `5JT6tTaKnw4q...` |
