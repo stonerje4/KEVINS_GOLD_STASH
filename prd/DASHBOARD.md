@@ -1,9 +1,9 @@
 # 📈 PRD — Production Dashboard
 
-*Last updated: 2026-03-19 16:35 UTC*
+*Last updated: 2026-03-19 16:40 UTC*
 
 **Wallet:** [`DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h`](https://solscan.io/account/DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h)
-**Position Size:** 0.50 SOL (~$44/buy) · **SOL:** $87.32
+**Position Size:** 0.50 SOL (~$44/buy) · **SOL:** $87.48
 
 ## Summary
 
@@ -13,7 +13,7 @@
 | Total Positions | 118 |
 | Open | 24 |
 | Closed | 94 |
-| Total Gas Fees | 0.4115 SOL ($35.93) |
+| Total Gas Fees | 0.4115 SOL ($35.99) |
 
 ## Wallet Performance
 
@@ -23,14 +23,14 @@
 | 🟢 | [`5n593DWQkpfFgA69mS1M...`](wallets/PRD_5n593DWQkpfFgA69mS1M.md) | 12 | 3/8 | 27% | $+97 | +20% | $-10 | $4 | **$+86** | 2.0x | 1 | [🔗](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
 | 🟢 | [`HMM6RoT2Xo3BNfD5FTNs...`](wallets/PRD_HMM6RoT2Xo3BNfD5FTNs.md) | 1 | 1/0 | 100% | $+15 | +34% | — | $0.48 | **$+15** | 2.4x | 0 | [🔗](https://solscan.io/account/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) |
 | 🟢 | [`E79aNzAkDa92b5bnBHED...`](wallets/PRD_E79aNzAkDa92b5bnBHED.md) | 5 | 2/3 | 40% | $+7 | +3% | — | $0.54 | **$+7** | 2.0x | 0 | [🔗](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
-| 🔴 | [`J5jm7BnBiGaB1x72FGNH...`](wallets/PRD_J5jm7BnBiGaB1x72FGNH.md) | 7 | 1/4 | 20% | $-25 | -11% | $+16 | $1 | **$-9** | 1.5x | 2 | [🔗](https://solscan.io/account/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) |
+| 🔴 | [`J5jm7BnBiGaB1x72FGNH...`](wallets/PRD_J5jm7BnBiGaB1x72FGNH.md) | 7 | 1/4 | 20% | $-25 | -11% | $+15 | $1 | **$-9** | 1.5x | 2 | [🔗](https://solscan.io/account/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) |
 | 🔴 | [`7aMgK5L4qEQ8Nyv6ZzhZ...`](wallets/PRD_7aMgK5L4qEQ8Nyv6ZzhZ.md) | 1 | 0/1 | 0% | $-44 | -100% | — | $0.00 | **$-44** | 1.2x | 0 | [🔗](https://solscan.io/account/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) |
 | 🔴 | [`HCDsVE5Y22dzxFzibEFS...`](wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 7 | 0/5 | 0% | $-98 | -45% | $+5 | $1 | **$-92** | 1.2x | 2 | [🔗](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
 | 🔴 | [`5vweNikgScdnGkZCC3ya...`](wallets/PRD_5vweNikgScdnGkZCC3ya.md) | 3 | 0/3 | 0% | $-93 | -71% | — | $0.01 | **$-93** | 1.2x | 0 | [🔗](https://solscan.io/account/5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg) |
-| 🔴 | [`DDApL88zun3vGuhkxkUx...`](wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 9 | 0/4 | 0% | $-76 | -43% | $-38 | $3 | **$-113** | 1.1x | 5 | [🔗](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
-| 🔴 | [`r9pFHjFe2CiovRvrakTC...`](wallets/PRD_r9pFHjFe2CiovRvrakTC.md) | 14 | 0/6 | 0% | $-124 | -47% | $-5 | $4 | **$-129** | 1.4x | 8 | [🔗](https://solscan.io/account/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) |
-| 🔴 | [`DHfshpzoC9Q7rz32j5ju...`](wallets/PRD_DHfshpzoC9Q7rz32j5ju.md) | 8 | 1/6 | 14% | $-147 | -51% | $-21 | $2 | **$-167** | 1.8x | 1 | [🔗](https://solscan.io/account/DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf) |
-| 🔴 | [`2w85VLX4W4qm8SPS7UJ3...`](wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 12 | 1/8 | 11% | $-178 | -45% | $-50 | $2 | **$-228** | 1.5x | 3 | [🔗](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
+| 🔴 | [`DDApL88zun3vGuhkxkUx...`](wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 9 | 0/4 | 0% | $-76 | -43% | $-42 | $3 | **$-118** | 1.1x | 5 | [🔗](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
+| 🔴 | [`r9pFHjFe2CiovRvrakTC...`](wallets/PRD_r9pFHjFe2CiovRvrakTC.md) | 14 | 0/6 | 0% | $-124 | -47% | $-5 | $4 | **$-130** | 1.4x | 8 | [🔗](https://solscan.io/account/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) |
+| 🔴 | [`DHfshpzoC9Q7rz32j5ju...`](wallets/PRD_DHfshpzoC9Q7rz32j5ju.md) | 8 | 1/6 | 14% | $-147 | -51% | $-21 | $2 | **$-168** | 1.8x | 1 | [🔗](https://solscan.io/account/DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf) |
+| 🔴 | [`2w85VLX4W4qm8SPS7UJ3...`](wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 12 | 1/8 | 11% | $-178 | -45% | $-52 | $2 | **$-231** | 1.5x | 3 | [🔗](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 
 ## Followed Wallets (15)
 
