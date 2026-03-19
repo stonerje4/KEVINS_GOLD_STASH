@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 10:50 UTC** | 7d | 193 buys, 154 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 10:55 UTC** | 7d | 195 buys, 156 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 10:54 | 🟢 BUY | OIL#000 | 0.0002 | ETHhoTiK... | copy_buy | `5JvYW5saRrHv...` |
+| 03-19 | 10:54 | 🔴 SELL | TUDOU | 0.0001 | 9G4ytadk... | SL | `2e8EMSGLf6AX...` |
+| 03-19 | 10:51 | 💰 SELL | Strawberita | 0.0005 | cqakon1K... | trail | `5RwvDXFwz4Ab...` |
+| 03-19 | 10:51 | 🟢 BUY | CTRUMP | 0.0002 | 6raSuhfi... | copy_buy | `3JXKZkbBnMow...` |
 | 03-19 | 10:43 | 🟢 BUY | DOGE | 0.0002 | ETHhoTiK... | copy_buy | `4boKUviRCS4K...` |
 | 03-19 | 10:43 | 🟢 BUY | Clutch | 0.0002 | 6sktBBsE... | copy_buy | `63yEQjCpseBG...` |
 | 03-19 | 10:43 | 💰 SELL | Peace | 0.0002 | cqakon1K... | TP2 | `63o7XCdvtuuK...` |

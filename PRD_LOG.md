@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 10:50 UTC** | 7d | 102 buys, 86 sells | In: **51.00** | Out: **27.60** | Net: **-23.40 SOL**
+> Updated: **2026-03-19 10:55 UTC** | 7d | 103 buys, 86 sells | In: **51.50** | Out: **27.60** | Net: **-23.90 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 10:51 | 🟢 BUY | CTRUMP | 0.5000 | 6raSuhfi... | copy | `3N5Ved3igsZx...` |
 | 03-19 | 10:44 | 💰 SELL | XPXGOLD | 0.2507 | DHfshpzo... | TP1 | `64M9f4QuvX6r...` |
 | 03-19 | 10:42 | 🟢 BUY | ? | 0.5000 | HCDsVE5Y... | copy | `268ddEF8BYqZ...` |
 | 03-19 | 10:37 | 💰 SELL | XPXGOLD | 0.2522 | r9pFHjFe... | TP1 | `4AK3pBJJEtc4...` |
