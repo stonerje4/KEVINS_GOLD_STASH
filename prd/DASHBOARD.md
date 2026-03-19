@@ -1,9 +1,9 @@
 # 📈 PRD — Production Dashboard
 
-*Last updated: 2026-03-19 22:00 UTC*
+*Last updated: 2026-03-19 22:05 UTC*
 
 **Wallet:** [`DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h`](https://solscan.io/account/DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h)
-**Position Size:** 0.50 SOL (~$45/buy) · **SOL:** $89.15
+**Position Size:** 0.50 SOL (~$45/buy) · **SOL:** $89.08
 
 ## Summary
 
@@ -13,7 +13,7 @@
 | Total Positions | 119 |
 | Open | 0 |
 | Closed | 119 |
-| Total Gas Fees | 0.4115 SOL ($36.68) |
+| Total Gas Fees | 0.4115 SOL ($36.65) |
 
 ## Wallet Performance
 
@@ -28,7 +28,7 @@
 | 🔴 | [`J5jm7BnBiGaB1x72FGNH...`](wallets/PRD_J5jm7BnBiGaB1x72FGNH.md) | 7 | 1/6 | 14% | $-114 | -37% | — | $1 | **$-114** | 1.6x | 0 | [🔗](https://solscan.io/account/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) |
 | 🔴 | [`HCDsVE5Y22dzxFzibEFS...`](wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 7 | 0/7 | 0% | $-128 | -44% | — | $1 | **$-128** | 1.2x | 0 | [🔗](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
 | 🔴 | [`DHfshpzoC9Q7rz32j5ju...`](wallets/PRD_DHfshpzoC9Q7rz32j5ju.md) | 8 | 1/7 | 12% | $-194 | -58% | — | $2 | **$-194** | 1.7x | 0 | [🔗](https://solscan.io/account/DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf) |
-| 🔴 | [`DDApL88zun3vGuhkxkUx...`](wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 9 | 0/9 | 0% | $-263 | -65% | — | $3 | **$-263** | 1.5x | 0 | [🔗](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
+| 🔴 | [`DDApL88zun3vGuhkxkUx...`](wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 9 | 0/9 | 0% | $-262 | -65% | — | $3 | **$-262** | 1.5x | 0 | [🔗](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
 | 🔴 | [`2w85VLX4W4qm8SPS7UJ3...`](wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 12 | 1/11 | 8% | $-296 | -57% | — | $2 | **$-296** | 1.4x | 0 | [🔗](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 | [`r9pFHjFe2CiovRvrakTC...`](wallets/PRD_r9pFHjFe2CiovRvrakTC.md) | 15 | 0/15 | 0% | $-410 | -74% | — | $4 | **$-410** | 1.3x | 0 | [🔗](https://solscan.io/account/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) |
 
