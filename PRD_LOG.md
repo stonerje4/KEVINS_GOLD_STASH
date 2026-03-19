@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 04:50 UTC** | 7d | 81 buys, 54 sells | In: **40.50** | Out: **19.28** | Net: **-21.22 SOL**
+> Updated: **2026-03-19 04:55 UTC** | 7d | 81 buys, 57 sells | In: **40.50** | Out: **20.27** | Net: **-20.23 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 04:52 | 💰 SELL | D6 | 0.2578 | 6raSuhfi... | TP3 | `26honsrDkJCP...` |
+| 03-19 | 04:51 | 💰 SELL | D6 | 0.4052 | 6raSuhfi... | TP2 | `xE7CcQQUg1jt...` |
+| 03-19 | 04:50 | 💰 SELL | D6 | 0.3282 | 6raSuhfi... | TP1 | `p3LeNtzcbTaJ...` |
 | 03-19 | 04:47 | 🟢 BUY | D6 | 0.5000 | 6raSuhfi... | copy | `8w8byhQNLDBX...` |
 | 03-19 | 04:34 | 🟢 BUY | DELMO | 0.5000 | DDApL88z... | copy | `y4eWxxLheo8A...` |
 | 03-19 | 04:29 | 🟢 BUY | WORLD | 0.5000 | DDApL88z... | copy | `3PzsiC6sobRo...` |

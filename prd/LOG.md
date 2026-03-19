@@ -1,9 +1,12 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 04:50 UTC*
+*Last updated: 2026-03-19 04:55 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 04:52 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.258 | 5.2x | tp_4x_trim | [tx](https://solscan.io/tx/26honsrDkJCPVsLEhZpCRrJJKgoBqjzEn4KFLLFA8b5HG9RCVua4Uo7Rs3vbk8T7H2t3E4rK9CyecedwuqWbKMmw) |
+| 2026-03-19 04:51 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.405 | 3.2x | tp_3x_trim | [tx](https://solscan.io/tx/xE7CcQQUg1jtfvFQZ3oJLXDtTwgPJ3u2kFbPxFdKWLu8MY1ZvRnpDAeNNdeiYmsdvUdVwwAPotvZTR1zzZCF59E) |
+| 2026-03-19 04:50 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.328 | 2.6x | tp_2x_half | [tx](https://solscan.io/tx/p3LeNtzcbTaJZ2gKrKyzuxX6jPkWxRA9Y4aE9cUbwyu7c6n37wbdBY5Ld2uehhX7qY8kAcrdHNvHbDLvsju46wg) |
 | 2026-03-19 04:47 | 🟢 buy | D6 | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/8w8byhQNLDBXjTQoUYqo84S3hNEsjGJXPVVuGAQGSBSMYAPbZ7nPXwF8GVTnKjKYWhCtG8PCPr3YAWMDPz1Uung) |
 | 2026-03-19 04:34 | 🟢 buy | DELMO | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/y4eWxxLheo8AfEsEyTsYpxPLi9GV6iohnrKyxcr1scKi4TMMSqQwbEV6U3b42RYbiZxCpQcT6gfboNmih8HMfSA) |
 | 2026-03-19 04:29 | 🟢 buy | WORLD | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/3PzsiC6sobRogkQEUufns22hsNRoT3W1PkzLizKFv5evTod5spQUADXr5hg2FPP9apc6BkrZ8DESTnwtHsGX9qhs) |
