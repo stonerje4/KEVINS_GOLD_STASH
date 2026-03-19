@@ -1,9 +1,14 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 08:40 UTC*
+*Last updated: 2026-03-19 08:45 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 08:44 | 🔴 sell | ? | `cqakon1K22iR...` | 0.185 | 0.4x | stop_loss | [tx](https://solscan.io/tx/3SuyqCrTN46MMtGDwR1reaZLxmPsLKkCT3z98DWLSphJ7r5foRwCbkoWGmhPtdv4TczYF6WwtzzpHthbkPLg7Srg) |
+| 2026-03-19 08:43 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/3vKi2M54HN6t3yPYWq4D2uenah7Tfutiut3BrV4vjuwPq8r1DBGvqKoYNTHkVPBopy8k4tFLuxecbzHwGSx1qNLj) |
+| 2026-03-19 08:43 | 🔴 sell | MICHIKO | `6raSuhfig5Y1...` | 0.116 | 0.2x | stop_loss | [tx](https://solscan.io/tx/2qM9qaMncHrMEB6PmYj9nQTKGEAiPtJPvLR27qJ73DdHKreq3ztTDe94Zfc459UP21BUA8WgJbfMC8TB6kzcYi2f) |
+| 2026-03-19 08:43 | 🟢 buy | XPXGOLD | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2koJgahkH8zMJ74rfDwDE8FUKiBDudn9eUE79tkLgRYgguf7ab51syji9ia31FpsAaH7oKUmYWGX1Rw4NA7STKBY) |
+| 2026-03-19 08:41 | 🟢 buy | MICHIKO | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/3jBSy4Qq53gbCHrEiGcvq2cQyR2cUfNoAoqGrzeXGaKp5pASZBAgCkXkHToP9i81n845qzUXEopXkSwZTgmNdUzW) |
 | 2026-03-19 08:24 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.188 | 0.4x | stop_loss | [tx](https://solscan.io/tx/49VRdAUaMwMFRw49ZWPaiBLnNxUJABa853ksM9CZNvSU3P3iZvbHLwEKbFKn92mWthiUGdM8cdgJCDTcLu98oF55) |
 | 2026-03-19 08:22 | 🟢 buy | ? | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5HXAbL95D8XzB83kFt8GjEa4kY1XNc3dwMVfmXtLxrJXL2ZQohvqGm7xB3m8uuAs136sXea2sX8M7hwZcBYfTUG8) |
 | 2026-03-19 08:09 | 🔴 sell | KAT | `6raSuhfig5Y1...` | 0.416 | 3.3x | tp_3x_trim | [tx](https://solscan.io/tx/4r8J1Wx94TRZ4t34cCK3odQWdQVvMc2EsuBpYf4jKzuEUi9yTY6R25XwTx39rvbJP55Lt2TbsRSF82Rfd9G7YpX5) |

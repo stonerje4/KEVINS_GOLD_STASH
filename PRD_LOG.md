@@ -1,8 +1,13 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 08:40 UTC** | 7d | 92 buys, 73 sells | In: **46.00** | Out: **24.87** | Net: **-21.13 SOL**
+> Updated: **2026-03-19 08:45 UTC** | 7d | 95 buys, 75 sells | In: **47.50** | Out: **25.17** | Net: **-22.33 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 08:44 | 🔴 SELL | ? | 0.1851 | cqakon1K... | SL | `3SuyqCrTN46M...` |
+| 03-19 | 08:43 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `3vKi2M54HN6t...` |
+| 03-19 | 08:43 | 🔴 SELL | MICHIKO | 0.1161 | 6raSuhfi... | SL | `2qM9qaMncHrM...` |
+| 03-19 | 08:43 | 🟢 BUY | XPXGOLD | 0.5000 | r9pFHjFe... | copy | `2koJgahkH8zM...` |
+| 03-19 | 08:41 | 🟢 BUY | MICHIKO | 0.5000 | 6raSuhfi... | copy | `3jBSy4Qq53gb...` |
 | 03-19 | 08:24 | 🔴 SELL | ? | 0.1875 | 6raSuhfi... | SL | `49VRdAUaMwMF...` |
 | 03-19 | 08:22 | 🟢 BUY | ? | 0.5000 | 6raSuhfi... | copy | `5HXAbL95D8Xz...` |
 | 03-19 | 08:09 | 💰 SELL | KAT | 0.4162 | 6raSuhfi... | TP2 | `4r8J1Wx94TRZ...` |
