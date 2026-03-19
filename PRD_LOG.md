@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 01:00 UTC** | 7d | 58 buys, 39 sells | In: **29.00** | Out: **13.59** | Net: **-15.41 SOL**
+> Updated: **2026-03-19 01:05 UTC** | 7d | 61 buys, 40 sells | In: **30.50** | Out: **13.84** | Net: **-16.66 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 01:04 | 🟢 BUY | TGR | 0.5000 | DHfshpzo... | copy | `4a5G9edpyJsD...` |
+| 03-19 | 01:02 | 🟢 BUY | MILK | 0.5000 | 6raSuhfi... | copy | `5xdPxB6yXeC2...` |
+| 03-19 | 01:02 | 💰 SELL | ? | 0.2519 | 6raSuhfi... | TP1 | `5yuD9Erg7jFq...` |
+| 03-19 | 01:00 | 🟢 BUY | FTR | 0.5000 | DHfshpzo... | copy | `5i1wSKJa1yEq...` |
 | 03-19 | 00:58 | 🟢 BUY | STRAWBERRY | 0.5000 | 6raSuhfi... | copy | `4G7BG7Y8micc...` |
 | 03-19 | 00:58 | 🟢 BUY | WRT | 0.5000 | 5vweNikg... | copy | `4uKM1vc8q6Dj...` |
 | 03-19 | 00:52 | 🟢 BUY | MEMENTUM | 0.5000 | DDApL88z... | copy | `44vBDk113qJk...` |

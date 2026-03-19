@@ -1,9 +1,13 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 01:00 UTC*
+*Last updated: 2026-03-19 01:05 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 01:04 | 🟢 buy | TGR | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/4a5G9edpyJsDdKwmdZ3H4qUZmKS4dn7NfkE2aJCRrZG3T6sHo1EWM9Nv9WKwSAB7MWmhZpXAvLonkCU36GX2Mrkr) |
+| 2026-03-19 01:02 | 🟢 buy | MILK | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5xdPxB6yXeC2ddL4NVgsVibuShLE2VTjThEE6DrNdSWy9KhkCLoja44iosibnPzRgZPzW6oh5HuGWaiM8adVRvNG) |
+| 2026-03-19 01:02 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.252 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/5yuD9Erg7jFqc65Nc81qQ5jYJ8BqckkfBEpGUX8MZscuLowt1pYWD9MFCX2Uufkd61VZahv91A4YkxrP4Kek8QT1) |
+| 2026-03-19 01:00 | 🟢 buy | FTR | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/5i1wSKJa1yEq5DUfaUZL3HngzfETt8mDDSskGjWBrMfZC2zvq5t2vdtLL1o58iBgZUzugS5yjJd1UtdcFH2PVNjh) |
 | 2026-03-19 00:58 | 🟢 buy | STRAWBERRY | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4G7BG7Y8miccJgo67hJd8P3SdqyryNZWEdgPPvDrTupFnxetZ5e6LKNL8MGH83bCtPmkXid14LaGvoCSBvoaSHXC) |
 | 2026-03-19 00:58 | 🟢 buy | WRT | `5vweNikgScdn...` | 0.500 | — | cielo_copy:5vweNikgScdnGkZCC3ya | [tx](https://solscan.io/tx/4uKM1vc8q6DjkST7AzqL72bUsFsqvLzfmNtAkrc9g6NJ3iKyMbxPTgUsPbCecSCW66Fxi28a1U8HcvpYZia2tweZ) |
 | 2026-03-19 00:52 | 🟢 buy | MEMENTUM | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/44vBDk113qJkgi73TdQGnew9hh5YptNpNZ2UCpGYg9WDJfMeWHtHf6VhCGQUKLgjNTtfSDGnEKTkLyo7YUZuiEwM) |

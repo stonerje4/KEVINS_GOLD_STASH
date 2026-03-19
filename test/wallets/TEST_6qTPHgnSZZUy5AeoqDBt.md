@@ -1,13 +1,14 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-19 01:00 UTC | **4** pos | **0W/1L** | P&L: **-0.000135 SOL** (-61.6%) | 3 open
+> 2026-03-19 01:05 UTC | **5** pos | **0W/1L** | P&L: **-0.000135 SOL** (-61.6%) | 4 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| CLAWCYCLE | 03-18 23:58 | 1.49x | 1.49x | 1.0h | 0.0002 |
-| LINLIAN | 03-18 23:48 | 0.58x | 1.15x | 1.2h | 0.0002 |
-| Spiderman | 03-18 22:18 | 1.26x | 1.52x | 2.7h | 0.0002 |
+| HUNT | 03-19 01:01 | 0.82x | 1.00x | 0.1h | 0.0002 |
+| CLAWCYCLE | 03-18 23:58 | 2.01x | 2.01x | 1.1h | 0.0002 |
+| LINLIAN | 03-18 23:48 | 0.56x | 1.15x | 1.3h | 0.0002 |
+| Spiderman | 03-18 22:18 | 1.29x | 1.52x | 2.8h | 0.0002 |
 
 ## Closed
 
@@ -19,6 +20,8 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 01:04 | CLAWCYCLE | SELL | 0.0001 | `519tA3aF4vWhbHW4...` |
+| 03-19 01:01 | HUNT | BUY | 0.0002 | `5XwJX76hpkrpenus...` |
 | 03-19 00:32 | NOSTALGIA | SELL | 0.0001 | `2xzYx6sAoMZ6kwmd...` |
 | 03-19 00:13 | NOSTALGIA | BUY | 0.0002 | `2PqaekKuMZsdqAo6...` |
 | 03-18 23:58 | CLAWCYCLE | BUY | 0.0002 | `61YE9PpxpYnY2cyJ...` |
