@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 11:25 UTC** | 7d | 105 buys, 89 sells | In: **52.50** | Out: **28.65** | Net: **-23.85 SOL**
+> Updated: **2026-03-19 11:30 UTC** | 7d | 106 buys, 89 sells | In: **53.00** | Out: **28.65** | Net: **-24.35 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 11:29 | 🟢 BUY | OKAY | 0.5000 | cqakon1K... | copy | `53rJcT6iUDMF...` |
 | 03-19 | 11:22 | 🟢 BUY | USAOIL | 0.5000 | r9pFHjFe... | copy | `25vA529du6fS...` |
 | 03-19 | 11:19 | 🟢 BUY | Garbonzo | 0.5000 | 2w85VLX4... | copy | `5cscvkeBa3tm...` |
 | 03-19 | 11:15 | 🔴 SELL | TRG | 0.3686 | DHfshpzo... | stale | `24RziRhtBJQz...` |

@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 11:25 UTC** | 7d | 201 buys, 162 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 11:30 UTC** | 7d | 205 buys, 164 sells | In: **0.05** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 11:29 | 🟢 BUY | Billy | 0.0002 | 6sktBBsE... | copy_buy | `229ub5CCRrNf...` |
+| 03-19 | 11:29 | 💰 SELL | NIGEL | 0.0002 | 6raSuhfi... | trail | `5z8CRxNBdZE6...` |
+| 03-19 | 11:29 | 🟢 BUY | OKAY | 0.0002 | cqakon1K... | copy_buy | `2Mf2rqFxzeMH...` |
+| 03-19 | 11:28 | 🔴 SELL | DOGEFATHER | 0.0001 | 9G4ytadk... | SL | `5RCTLiniGZap...` |
+| 03-19 | 11:25 | 🟢 BUY | DOGEFATHER | 0.0002 | 9G4ytadk... | copy_buy | `2q3KKfSvGdG1...` |
+| 03-19 | 11:25 | 🟢 BUY | survive  | 0.0002 | FoHJUYTh... | copy_buy | `56wsj5FTaxHn...` |
 | 03-19 | 11:24 | 🟢 BUY | Solana | 0.0002 | 6raSuhfi... | copy_buy | `2MR5WbcGBq22...` |
 | 03-19 | 11:22 | 🟢 BUY | USAOIL | 0.0002 | ETHhoTiK... | copy_buy | `5Cbk74ULXb1o...` |
 | 03-19 | 11:22 | 💰 SELL | NIGEL | 0.0001 | 6raSuhfi... | TP3 | `5sS3oVg8diBp...` |
