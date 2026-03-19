@@ -1,2 +1,5 @@
-# Kevin's Gold Stash
-Auto-updated STG dashboard for Pump Alpha
+# Pump Alpha
+
+Shadow tracker + PRD copy trading system.
+
+Dashboard rebuilding — data collection in progress.
