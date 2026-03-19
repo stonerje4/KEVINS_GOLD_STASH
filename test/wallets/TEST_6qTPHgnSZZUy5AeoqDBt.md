@@ -1,13 +1,13 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-19 05:30 UTC | **6** pos | **2W/1L** | P&L: **+0.001135 SOL** (+172.0%) | 3 open
+> 2026-03-19 05:35 UTC | **6** pos | **2W/1L** | P&L: **+0.001135 SOL** (+172.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| CANOPY | 03-19 01:56 | 1.58x | 1.58x | 3.6h | 0.0002 |
-| LINLIAN | 03-18 23:48 | 0.53x | 1.48x | 5.7h | 0.0002 |
-| Spiderman | 03-18 22:18 | 3.29x | 4.38x | 7.2h | 0.0002 |
+| CANOPY | 03-19 01:56 | 1.58x | 1.58x | 3.7h | 0.0002 |
+| LINLIAN | 03-18 23:48 | 0.49x | 1.48x | 5.8h | 0.0002 |
+| Spiderman | 03-18 22:18 | 4.62x | 5.01x | 7.3h | 0.0002 |
 
 ## Closed
 
@@ -21,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 05:34 | Spiderman | SELL | 0.0001 | `55Ty1atE43QRCkpx...` |
 | 03-19 05:25 | Spiderman | SELL | 0.0001 | `3f66pUSx4gn99dMU...` |
 | 03-19 05:22 | Spiderman | SELL | 0.0001 | `2ttA4NibZodg9FNc...` |
 | 03-19 03:46 | HUNT | SELL | 0.0003 | `42dcCKzj6HEaLjdp...` |
