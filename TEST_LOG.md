@@ -1,8 +1,10 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 00:20 UTC** | 7d | 53 buys, 34 sells | In: **0.01** | Out: **4.75** | Net: **+4.74 SOL**
+> Updated: **2026-03-19 00:25 UTC** | 7d | 53 buys, 36 sells | In: **0.01** | Out: **4.75** | Net: **+4.74 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 00:23 | 🔴 SELL | BLU | 0.0001 | 6raSuhfi... | trail | `2GbiauXzqdGr...` |
+| 03-19 | 00:22 | 💰 SELL | CHOCOTINA | 0.0001 | FVFkKaDk... | TP1 | `3cA1fhb7YeaS...` |
 | 03-19 | 00:16 | 💰 SELL | NASDANQ | 0.0001 | 4Dpu2Ujk... | TP2 | `FeY7ijZ4CRCC...` |
 | 03-19 | 00:13 | 🟢 BUY | NOSTALGIA | 0.0002 | 6qTPHgnS... | copy_buy | `2PqaekKuMZsd...` |
 | 03-19 | 00:11 | 🟢 BUY | Monke | 0.0002 | 5FPytvPn... | copy_buy | `9PC6M33StTQC...` |

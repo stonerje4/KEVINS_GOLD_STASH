@@ -1,10 +1,11 @@
 # [PRD] `DDApL88zun3vGuhk...`
-> 2026-03-19 00:20 UTC | **3** pos | **0W/1L** | P&L: **-0.500000 SOL** (-100.0%) | 2 open
+> 2026-03-19 00:25 UTC | **4** pos | **0W/1L** | P&L: **-0.500000 SOL** (-100.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
+| Chocolatina | 03-19 00:20 | 0.00x | 1.03x | 0.1h | 0.5000 |
 | Goose | 03-18 23:41 | 0.00x | 1.91x | 0.7h | 0.5000 |
 | SB | 03-18 20:10 | 0.00x | 1.70x | 4.2h | 0.5000 |
 
@@ -18,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 00:20 | Chocolatina | BUY | 0.5000 | `4tACuaDyfsWCL1pV...` |
 | 03-18 23:41 | Goose | BUY | 0.5000 | `2NgfCJZ5trsjkrd9...` |
 | 03-18 20:49 | TR | BUY | 0.5000 | `2qoNaq5yFWy5U5jG...` |
 | 03-18 20:10 | SB | BUY | 0.5000 | `HgxUTktonvV7gYyP...` |
