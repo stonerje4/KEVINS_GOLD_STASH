@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 06:45 UTC** | 7d | 133 buys, 104 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 06:50 UTC** | 7d | 134 buys, 106 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 06:49 | 💰 SELL | USAOIL | 0.0002 | ETHhoTiK... | TP2 | `4C2SuyK9b6TJ...` |
+| 03-19 | 06:49 | 💰 SELL | USAOIL | 0.0002 | ETHhoTiK... | TP1 | `2dm7bd8ArnQZ...` |
+| 03-19 | 06:47 | 🟢 BUY | Solana | 0.0002 | 7x3WYp6b... | copy_buy | `3z71TNA99Hv2...` |
 | 03-19 | 06:44 | 🟢 BUY | RevFi  | 0.0002 | ETHhoTiK... | copy_buy | `5MtbeDAFFWYu...` |
 | 03-19 | 06:41 | 🟢 BUY | TGR | 0.0002 | ETHhoTiK... | copy_buy | `3noxMSJ6hbeW...` |
 | 03-19 | 06:30 | 🟢 BUY | DUMB | 0.0002 | FoHJUYTh... | copy_buy | `2sbWeWTiHF2U...` |

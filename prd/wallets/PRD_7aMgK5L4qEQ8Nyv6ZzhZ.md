@@ -1,16 +1,16 @@
-# [TEST] `G5eugJMkQmuHh4Zz...`
+# [PRD] `7aMgK5L4qEQ8Nyv6...`
 > 2026-03-19 06:50 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| 電王 | 03-19 01:08 | 1.05x | 1.27x | 5.7h | 0.0002 |
+| elonwifdoge | 03-19 06:48 | 0.00x | 1.15x | 0.0h | 0.5000 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-19 01:08 | 電王 | BUY | 0.0002 | `5rmy1b8yK86Ck2oB...` |
+| 03-19 06:48 | elonwifdoge | BUY | 0.5000 | `U5yC5JQZJ8QHDeNf...` |
 
 </details>
