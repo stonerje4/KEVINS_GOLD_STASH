@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 09:20 UTC** | 7d | 180 buys, 141 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 09:25 UTC** | 7d | 180 buys, 146 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 09:24 | 🔴 SELL | Billy | 0.0001 | cqakon1K... | SL | `58zdsGEc77Xo...` |
+| 03-19 | 09:24 | 💰 SELL | Chocolatina | 0.0001 | cqakon1K... | TP2 | `5aP99Lb1owe6...` |
+| 03-19 | 09:23 | 💰 SELL | ALIENMUSK | 0.0001 | FoHJUYTh... | TP1 | `2c38tqKzueej...` |
+| 03-19 | 09:23 | 🔴 SELL | Nigel | 0.0000 | 9G4ytadk... | trail | `6z3TUmyXJSVH...` |
+| 03-19 | 09:22 | 💰 SELL | Strawberita | 0.0001 | cqakon1K... | tp_10x_trim | `32Fg4Gx66xSK...` |
 | 03-19 | 09:19 | 🔴 SELL | Engineer | 0.0001 | FoHJUYTh... | stale_cleanu | `22LqPZB7b4Vo...` |
 | 03-19 | 09:19 | 🔴 SELL | Wombat | 0.0001 | FoHJUYTh... | stale_cleanu | `3rFtJfJo4ocb...` |
 | 03-19 | 09:19 | 🔴 SELL | INUDEX | 0.0001 | 6gN2SNYX... | stale_cleanu | `3txVMWpLukQy...` |

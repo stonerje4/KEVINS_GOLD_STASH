@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 09:20 UTC*
+*Last updated: 2026-03-19 09:25 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 09:24 | 🔴 sell | Billy | `cqakon1K22iR...` | 0.199 | 0.4x | stop_loss | [tx](https://solscan.io/tx/4t2yseGGEbbXbFGWMzQWZK57BY64wsWhZGopZatCoKoFMNXHE3vcVB67wGwNCb4EBxnHvU63FEDjinfzxYucpFbH) |
 | 2026-03-19 09:15 | 🔴 sell | GAYROT | `6raSuhfig5Y1...` | 0.224 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3rNwn8H84Zv5Za85YzU83TKqFfA9kborfY5gJPfqdRkHePBL6D1ht7uTyXxRHWV7r57gap8SpFtBnWM1ZUfd7ncP) |
 | 2026-03-19 09:13 | 🟢 buy | Billy | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/5sTQzkpwTWVuYe71UVynhGrSErWQb5PvzDmWvE7ERup1KeiuWubSXw5yWk18RqT5gaPV8nwpWYKJ7RgH23if38Mo) |
 | 2026-03-19 09:07 | 🔴 sell | Genesis-2 | `2w85VLX4W4qm...` | 0.193 | 0.4x | stop_loss | [tx](https://solscan.io/tx/36j42KgrQRYZbuYNrw9dk7UgswvCDcaZrRXQLSU6XryfAgCJiCtA5RNeQohuMKLrYLcJYebmCnfnVEiJYVa4dkPD) |
