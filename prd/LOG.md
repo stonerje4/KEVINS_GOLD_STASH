@@ -1,9 +1,12 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 00:50 UTC*
+*Last updated: 2026-03-19 00:55 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 00:52 | 🟢 buy | MEMENTUM | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/44vBDk113qJkgi73TdQGnew9hh5YptNpNZ2UCpGYg9WDJfMeWHtHf6VhCGQUKLgjNTtfSDGnEKTkLyo7YUZuiEwM) |
+| 2026-03-19 00:50 | 🔴 sell | Bananito | `cqakon1K22iR...` | 0.413 | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/2fQ58NfVWvUS8cxGm9Kmj1WnAGdJBvUiiZ6eUAVD8oXBMjyPoLW2hwqXRX3YVpZ1L65x3PJ8jiDW5gcofHKMNZ8i) |
+| 2026-03-19 00:50 | 🟢 buy | ? | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5abLXj2tNavbgQ75kYF3Eemh7D5GT7rZdZuKFpiYivB8xpmsQojdnapqUiKXBYxd5PjtWZmuNjxYVj8y4ZaSdBZB) |
 | 2026-03-19 00:49 | 🟢 buy | MEMENTUM | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/3PQHpXCP8ZgPGutk8dcReBZ6G8bxt4N82SMfJ5492fRsHbg7XNCbtjUoAC4hJ1vSyD83deuz9oePKXXwYCWncePh) |
 | 2026-03-19 00:41 | 🟢 buy | OAC | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/5ExR97sXTQ14AUiQ1EtiXUaUgLz3N2sAjfM1bjsSb5Jib7qkUZKrZFyWuvFjexb5sesEWNhqreys68PED7B9phkG) |
 | 2026-03-19 00:40 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.393 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/4vg7V2iN6LQ2uPTc2GmoNgcLNHV2eqw7kZMZ58tu1f5KgSyZy6npY5davBtLAh9zkdpsLXQhZVxRoAoAurMXTZbV) |
