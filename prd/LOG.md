@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 05:55 UTC*
+*Last updated: 2026-03-19 06:00 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 05:56 | 🟢 buy | SCOTT | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/3KXrpQy47Q7EFjqMjYcS1Twu2wWxNnQuwm2QzaFXyuMqsVgXxbyXDpa8jecLuRB48KwdRAUZE298PkQUd9k4NdMT) |
 | 2026-03-19 05:47 | 🟢 buy | MPP | `ApkQGKbq8dRw...` | 0.500 | — | cielo_copy:ApkQGKbq8dRw5ha9n2bg | [tx](https://solscan.io/tx/5EZtGp4XR9ZoDjzmGqDSyQELvynH4hSKvKMhdcpvPTGVa6tL4393hSTUHW8CyYQv6grHthQtwaPfYvwcdj6iVuKP) |
 | 2026-03-19 05:36 | 🔴 sell | BBX | `DHfshpzoC9Q7...` | 0.376 | 3.0x | tp_3x_trim | [tx](https://solscan.io/tx/w3r6FVDq73M6ybDZ3jp34qLpmXU5MK7j8FtPrPVbAircJr14ghnWeyayrGPD4V6MkitMrNjwsiMooBcbcHhzu3V) |
 | 2026-03-19 05:15 | 🔴 sell | TGR | `5vweNikgScdn...` | 0.211 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4pVEzs2QW1EZSdbMxiSC9vmkzLGiWQ8AQbaXE1GXj3gfFgXF9VFAd7TDnDbGz9JvFuTMbmbnqYCZLJC16hCKmhqj) |
