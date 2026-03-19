@@ -1,12 +1,12 @@
 # [TEST] `BNCSPd6QtP6rJCWZ...`
-> 2026-03-19 00:05 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 00:10 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Edgar | 03-18 23:05 | 1.22x | 1.44x | 1.0h | 0.0002 |
-| GroupChat | 03-18 22:30 | 0.62x | 1.13x | 1.6h | 0.0002 |
+| Edgar | 03-18 23:05 | 1.22x | 1.44x | 1.1h | 0.0002 |
+| GroupChat | 03-18 22:30 | 0.62x | 1.13x | 1.7h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 

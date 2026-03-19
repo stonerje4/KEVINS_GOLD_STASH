@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 00:05 UTC** | 7d | 51 buys, 27 sells | In: **0.01** | Out: **0.00** | Net: **-0.01 SOL**
+> Updated: **2026-03-19 00:10 UTC** | 7d | 51 buys, 33 sells | In: **0.01** | Out: **4.75** | Net: **+4.74 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 00:09 | 💰 SELL | NASDANQ | 0.0001 | 4Dpu2Ujk... | TP1 | `Q36r4o411Ubf...` |
+| 03-19 | 00:06 | 💰 SELL | Community | 0.4417 | 37FGuPhk... | TP4 | `2Nz1EE49KTpC...` |
+| 03-19 | 00:06 | 💰 SELL | Community | 0.4901 | 37FGuPhk... | TP3 | `2yJPgCvo7zGc...` |
+| 03-19 | 00:06 | 💰 SELL | Community | 1.6344 | 37FGuPhk... | TP2 | `YBLVJBREHKud...` |
+| 03-19 | 00:05 | 💰 SELL | BLU | 0.0001 | 6raSuhfi... | TP1 | `4a8RjVGPSvu1...` |
+| 03-19 | 00:05 | 💰 SELL | Community | 2.1792 | 37FGuPhk... | TP1 | `3oYA9ajuidom...` |
 | 03-19 | 00:04 | 🟢 BUY | Bananito | 0.0002 | cqakon1K... | copy_buy | `58w5C7aCyfFi...` |
 | 03-19 | 00:03 | 🟢 BUY | Engineer | 0.0002 | FoHJUYTh... | copy_buy | `4QfwXBkoUq6v...` |
 | 03-19 | 00:02 | 🟢 BUY | Wombat | 0.0002 | FoHJUYTh... | copy_buy | `2vbBVZ4qNMb2...` |
