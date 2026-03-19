@@ -1,12 +1,12 @@
 # [PRD] `r9pFHjFe2CiovRvr...`
-> 2026-03-19 01:15 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 01:20 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| ALIENCOIN | 03-19 01:06 | 0.00x | 1.01x | 0.1h | 0.5000 |
-| JEET | 03-19 00:32 | 0.00x | 1.05x | 0.7h | 0.5000 |
+| ALIENCOIN | 03-19 01:06 | 0.00x | 1.01x | 0.2h | 0.5000 |
+| JEET | 03-19 00:32 | 0.00x | 1.05x | 0.8h | 0.5000 |
 
 <details><summary>📋 Full Trade Log</summary>
 

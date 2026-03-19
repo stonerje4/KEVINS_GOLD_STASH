@@ -1,11 +1,11 @@
 # [TEST] `BmXugVGYfGMj9QRL...`
-> 2026-03-19 01:15 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 01:20 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| METAMEME | 03-18 22:54 | 0.81x | 1.42x | 2.3h | 0.0002 |
+| METAMEME | 03-18 22:54 | 0.75x | 1.42x | 2.4h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 

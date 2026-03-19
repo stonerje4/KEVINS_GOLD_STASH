@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 01:15 UTC*
+*Last updated: 2026-03-19 01:20 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 01:19 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.330 | 0.7x | runner_trailing_stop | [tx](https://solscan.io/tx/5cVE97DkBqtiejkfXSPao9DoECVL5vpeB6GhKksjCrF4hqjFCf8NC9vvNUhGuwReSDAGDJ1RtawM5NLLAkcFv1fW) |
 | 2026-03-19 01:06 | 🟢 buy | ALIENCOIN | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2UHUrJj7kGHvRzJrNhif8o4WtRudkWfxVEY7rhbPJqbEJKWp2upeaQAcw2WZUKQECRwEqMwWe2wkTfDqXFKDCACH) |
 | 2026-03-19 01:04 | 🟢 buy | TGR | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/4a5G9edpyJsDdKwmdZ3H4qUZmKS4dn7NfkE2aJCRrZG3T6sHo1EWM9Nv9WKwSAB7MWmhZpXAvLonkCU36GX2Mrkr) |
 | 2026-03-19 01:02 | 🟢 buy | MILK | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5xdPxB6yXeC2ddL4NVgsVibuShLE2VTjThEE6DrNdSWy9KhkCLoja44iosibnPzRgZPzW6oh5HuGWaiM8adVRvNG) |
