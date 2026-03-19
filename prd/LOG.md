@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 02:50 UTC*
+*Last updated: 2026-03-19 02:55 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 02:53 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 0.263 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/3Ku6KTho3yVFHrZYRgyERfULMRNGf3xVyq6N5ZGxc4aeJ9k87SEhSmzanL3k16DziXBmsQc8Y3CMyAy7R8bE4Qx9) |
 | 2026-03-19 02:45 | 🟢 buy | BLACKLINE | `ApkQGKbq8dRw...` | 0.500 | — | cielo_copy:ApkQGKbq8dRw5ha9n2bg | [tx](https://solscan.io/tx/5jr59xdTXpJqR2A9fdccq9V3koPrE4q9mAYk6xzRNesbYAa77GFPuEkdC9dgnzMaQfzdmANtJstVUXy55yyzgc37) |
 | 2026-03-19 02:38 | 🔴 sell | HIM | `2w85VLX4W4qm...` | 0.697 | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/52ynXXALDp5wytGrhHzsJFPbY5S8Ve1YeR87zx4XTXy9AC3wuqrvGP18mgeK6VKGM7m4DH6YQPqkYf7RXqNcKqhM) |
 | 2026-03-19 02:37 | 🟢 buy | GAYROT | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/3UDhL7F7iL7V9cgXzFtEBdUw83NFbN1fRviDvU5B6d13pMScF4AJa16eu1PMvwoSmoPha5mWttev3kGFk1CYfCrb) |
