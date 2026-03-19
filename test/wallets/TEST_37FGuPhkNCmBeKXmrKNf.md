@@ -1,13 +1,13 @@
 # [TEST] `37FGuPhkNCmBeKXm...`
-> 2026-03-19 11:00 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
+> 2026-03-19 11:05 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | MrWhiskers | 03-19 08:44 | 0.89x | 1.78x | 2.3h | 0.0002 |
-| HOLLYANGELS | 03-18 22:35 | 0.55x | 1.01x | 12.4h | 0.0002 |
-| Community | 03-18 22:23 | 0.52x | 39525.68x | 12.6h | 0.0002 |
+| HOLLYANGELS | 03-18 22:35 | 0.55x | 1.01x | 12.5h | 0.0002 |
+| Community | 03-18 22:23 | 0.52x | 39525.68x | 12.7h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
