@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 09:05 UTC** | 7d | 98 buys, 75 sells | In: **49.00** | Out: **25.17** | Net: **-23.83 SOL**
+> Updated: **2026-03-19 09:10 UTC** | 7d | 98 buys, 76 sells | In: **49.00** | Out: **25.36** | Net: **-23.64 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 09:07 | 🔴 SELL | Genesis-2 | 0.1932 | 2w85VLX4... | SL | `36j42KgrQRYZ...` |
 | 03-19 | 09:03 | 🟢 BUY | USAOIL | 0.5000 | r9pFHjFe... | copy | `2kPUJcVmN8xQ...` |
 | 03-19 | 09:01 | 🟢 BUY | PIX | 0.5000 | 6raSuhfi... | copy | `5wfj2as8uYES...` |
 | 03-19 | 08:58 | 🟢 BUY | Genesis-2 | 0.5000 | 2w85VLX4... | copy | `9Xy2Z4BHmJ3v...` |

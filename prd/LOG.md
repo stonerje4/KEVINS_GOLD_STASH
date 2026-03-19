@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 09:05 UTC*
+*Last updated: 2026-03-19 09:10 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 09:07 | 🔴 sell | Genesis-2 | `2w85VLX4W4qm...` | 0.193 | 0.4x | stop_loss | [tx](https://solscan.io/tx/36j42KgrQRYZbuYNrw9dk7UgswvCDcaZrRXQLSU6XryfAgCJiCtA5RNeQohuMKLrYLcJYebmCnfnVEiJYVa4dkPD) |
 | 2026-03-19 09:03 | 🟢 buy | USAOIL | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2kPUJcVmN8xQ1Z8jjFidPB24C44TL7ummrWFTfAGa981CzeRqEAq4mkHeDjgA5UcC1ZKXMKg8KnudBuuy1v7kzHo) |
 | 2026-03-19 09:01 | 🟢 buy | PIX | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5wfj2as8uYESaZiffW3qYTrwbzEG8xFA8h3idDXC63MFM1djCP5y5m7y815QaVHhLsJHFsUNaNU4f6qKJxr2yogC) |
 | 2026-03-19 08:58 | 🟢 buy | Genesis-2 | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/9Xy2Z4BHmJ3vZ1yKqmD9qAiEPKDDKg4fHcUrJWg5uc4L4jFjxt9M5VSvQkGxbdkkmgBZAz3TYBbyvEjqAYPVquf) |
