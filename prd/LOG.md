@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 11:20 UTC*
+*Last updated: 2026-03-19 11:25 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 11:22 | 🟢 buy | USAOIL | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/25vA529du6fSwJ4ebo4p2fPeWwYhX4LUBnKWwZZEB2FMmNUNKEUUJFDbzjR7rSdYSus749YLt2JH9P9C26J996Kf) |
 | 2026-03-19 11:19 | 🟢 buy | Garbonzo | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/5cscvkeBa3tm1DFTTKPu6zRwoSvLZjYifvF2QU2znHJeg2yi1YuuJyir2Vgr6M42JVNZahtLBWRE1UnGMxB4v4Ex) |
 | 2026-03-19 11:15 | 🔴 sell | TRG | `DHfshpzoC9Q7...` | 0.369 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/24RziRhtBJQz2zF1n1Rqrep7bJ6bzecnaqNdFKxP9zAVSj4LuuM3Rhn5fQkBJyPptFy5quY3Li2ZrXtBQmgTpfDa) |
 | 2026-03-19 11:15 | 🔴 sell | TGR | `r9pFHjFe2Cio...` | 0.458 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/aoAjyam5iUbNwFXgqhgmn8fxXm4vVacDXjnsGXnrRN8S77DDnKqFEAxrMhzSkWN3HT6gt5r7Skyb1qx4aFftFrZ) |
