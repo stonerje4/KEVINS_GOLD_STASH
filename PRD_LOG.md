@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 08:00 UTC** | 7d | 89 buys, 70 sells | In: **44.50** | Out: **24.06** | Net: **-20.44 SOL**
+> Updated: **2026-03-19 08:05 UTC** | 7d | 90 buys, 70 sells | In: **45.00** | Out: **24.06** | Net: **-20.94 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 08:03 | 🟢 BUY | Spiderman | 0.5000 | J5jm7BnB... | copy | `624ZPrBDkcFH...` |
 | 03-19 | 07:44 | 💰 SELL | Handprint | 0.3868 | J5jm7BnB... | TP2 | `2tEqDfJ3urm6...` |
 | 03-19 | 07:15 | 🔴 SELL | TGR | 0.2644 | DHfshpzo... | stale | `65xpmWYZ1VoL...` |
 | 03-19 | 07:15 | 🔴 SELL | MEMENTUM | 0.4489 | DDApL88z... | stale | `4PFDX4Ao6hJC...` |

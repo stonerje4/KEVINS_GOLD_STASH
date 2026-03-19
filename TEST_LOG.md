@@ -1,8 +1,9 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 08:00 UTC** | 7d | 163 buys, 122 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 08:05 UTC** | 7d | 163 buys, 123 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 08:03 | 💰 SELL | PERCOLATOR | 0.0001 | 4yKnfzcf... | TP3 | `59VZBB563Dm4...` |
 | 03-19 | 07:58 | 🟢 BUY | NAOC | 0.0002 | 87nWQxQv... | copy_buy | `wU8N5kpwJ2LP...` |
 | 03-19 | 07:58 | 🟢 BUY | TGR | 0.0002 | BGGJhxGX... | copy_buy | `3QdSx9wt3XEW...` |
 | 03-19 | 07:57 | 🟢 BUY | FTR | 0.0002 | 87nWQxQv... | copy_buy | `2Aw5dMEto17k...` |

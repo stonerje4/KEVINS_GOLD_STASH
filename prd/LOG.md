@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 08:00 UTC*
+*Last updated: 2026-03-19 08:05 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 08:03 | 🟢 buy | Spiderman | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/624ZPrBDkcFHDBb5k22jZqgnfpWemFa3PDyfASaAfxMF48nWaUvmrVMMAQUDzU3eATBGY7tcWZogSYEyMvaeXmc9) |
 | 2026-03-19 07:44 | 🔴 sell | Handprint | `J5jm7BnBiGaB...` | 0.387 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/2tEqDfJ3urm6zXLSc7wb58mUVcr4AxcZ1JM9W3Ve5TFqMeCbTxDQ2YvMUdcmy5g2as3cPQiqVaaV3aiaTGZZZSbB) |
 | 2026-03-19 07:15 | 🔴 sell | TGR | `DHfshpzoC9Q7...` | 0.264 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/65xpmWYZ1VoLVHYppfFehP6sbYjCfo4dmnqcyHra7btM7bgXFXtAkNTH2q5Yh8mgQi4xxGJESfedPHCXymi9eKRZ) |
 | 2026-03-19 07:15 | 🔴 sell | MEMENTUM | `DDApL88zun3v...` | 0.449 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4PFDX4Ao6hJCVbAhzM42CYiVQfbzVDu4HQ5MHg8SERcnawzBpKJ8UVHwkQPLkcewRKgs5DW3gyyS2cod9n4UmWnD) |
