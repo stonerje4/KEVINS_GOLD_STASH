@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 13:55 UTC*
+*Last updated: 2026-03-19 14:00 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
+| 2026-03-19 13:59 | 🟢 buy | USAOIL | `r9pFHjFe2Cio...` | 0.280 | — | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/5vAMVuz5HjPXFs5u8zhVZNrydjyKRwXkXeud5W5tcYKr2km3h4uDYrgMDgVjnC9BU3MNgaS6rAAauYk88s7pwZsL) |
 | 2026-03-19 13:48 | 🟢 buy | BUILDOOR | `E79aNzAkDa92...` | 0.280 | — | — | cielo_copy:E79aNzAkDa92b5bnBHED | [tx](https://solscan.io/tx/2Cf2GQXe33PWTUZLZCs4631ycHiKaW6F9vP7nwYiumfmLXGvi4ZH1iNPhcpRx4g1yJyLmfn7BztTtSdkBpMrz7un) |
 | 2026-03-19 13:44 | 🔴 sell | SPOON | `6raSuhfig5Y1...` | 0.398 | — | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/PpnwGpiZ2tPHngmCGJ3WvQN13jcrngbtPcTorvXQM9LRBjNzUZUJouEy2XgvmLJ1RjUvnNsGrNGgqZqXZWj9AD6) |
 | 2026-03-19 13:39 | 🟢 buy | Genesis-2 | `2w85VLX4W4qm...` | 0.280 | — | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/2BLDzYi1nSf6D4tLfyYATnhbgPC2XWF2rHtxWzznKuu87GJsVE4EXqum1hJZ49TxDxoqkW7LUSyW9i1nMjv4PeCM) |
@@ -203,4 +204,3 @@
 | 2026-03-18 20:12 | 🔴 sell | ? | `2w85VLX4W4qm...` | 0.175 | 0.0005 | 0.4x | stop_loss | [tx](https://solscan.io/tx/2xU3eMBxNPigSqKmydhjyHcqdTFyxYtLuys5FQGqvgqWy6ac2XhNMsLYCWcxkYmyPR1EJ9vdxk3oTk4b8Av6GR1b) |
 | 2026-03-18 20:10 | 🟢 buy | SB | `DDApL88zun3v...` | 0.500 | 0.0010 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/HgxUTktonvV7gYyPdUdKmrDCBZCnm9s7uMgxFT1Gsn1HiePyzC1hsGRCabNLqsMrt3cfCyfJYQBESKbNNUvtAkR) |
 | 2026-03-18 20:09 | 🟢 buy | ? | `2w85VLX4W4qm...` | 0.500 | 0.0010 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/3N6KigsqQ3mtS8Msgpd4jyKWrJckgUyEiKfPEuhYdoePQDsc3MR46Qavx2ga8JCtc5pxMgpFS3fgKzGVF7k8Pej9) |
-| 2026-03-18 20:08 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.197 | 0.0005 | 0.4x | stop_loss | [tx](https://solscan.io/tx/4Tcpw9gsrKztPHEvPzyuG9TMoyV6mA1eAqCJtX7ZLuWyitfrjxZaP7KjYXBfExRnvBmnoAPtbf4Ec5XJH1FBdZst) |
