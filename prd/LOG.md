@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 16:25 UTC*
+*Last updated: 2026-03-19 16:30 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
+| 2026-03-19 16:29 | 🔴 sell | STRAWBERRY | `6raSuhfig5Y1...` | 0.349 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3yyqttJMZMg126zLLaD98vbmL9pkRDKAvruY3PuP8FQ8fK4w8hiQjrCnPaRZPwp8mkK8x8TTVcvPsWnUmWMFkUDi) |
 | 2026-03-19 16:18 | 🔴 sell | USAOIL | `DHfshpzoC9Q7...` | 0.088 | — | 0.3x | stop_loss | [tx](https://solscan.io/tx/2YZpgWowF4mc7huzcgvKs3Z5bBbtG2SrbaDU45iLkWYdwJ367K5QCaQUdmn17uBz4k51kv4xBb9AqaYQ2wqxY5F4) |
 | 2026-03-19 16:18 | 🟢 buy | NBR | `HCDsVE5Y22dz...` | 0.280 | — | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/w7FGvg3EUJqfxEr1x69N2KDWJmwuc8SQFmyprnPAgSJuW4nPGkTsMvLmNei1N8V4d8kNq7PvG4DYtjF9HHyVdPN) |
 | 2026-03-19 16:03 | 🟢 buy | GLUP | `r9pFHjFe2Cio...` | 0.280 | — | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/5KTuYHvMUAkeEdFrjXrJngLbKe6nkSFWNxDPLwjtve2aqJvCiN1PtoLqWUgG4trCFijYZ1StYmpgPWyZW2U7zQke) |
@@ -203,4 +204,3 @@
 | 2026-03-18 21:22 | 🟢 buy | House | `6raSuhfig5Y1...` | 0.500 | 0.0050 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4P4VKLRSEHuWrLEjL1pDq3scUneoKRQxo4m8GKv5u4Ak4LWWrmYGtCN24k44EZeWvs6qsrb6KPDUEGSJFHdjYBje) |
 | 2026-03-18 21:20 | 🟢 buy | DEATHMASK | `6raSuhfig5Y1...` | 0.500 | 0.0050 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5h2qHUXTth9mtfa96DgcdeqGwP6KfQJWZNoLdZqaacUrecdQc5341GHAJwcgUNV7M5Vsg3ZqEMtaFMxyrHNggPk9) |
 | 2026-03-18 21:16 | 🟢 buy | SWMR | `6raSuhfig5Y1...` | 0.500 | 0.0050 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5xT7sRgufhkdsrd3xw2cMNxPhP75yLePnCBimX1QXNPWNoindDsVjSXrkDmp5PsyPLGVG9kTEYQqi1JoA3FFY2wj) |
-| 2026-03-18 21:15 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.276 | 0.0005 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/3RHQGqpZYjLJbC95SpRVirQNG5qTmhvAuK6dKmy3Zk9YaSRyP6RbfPeBib2D9kbEEH9r4aZpGU3w9nVD4RHzfcU) |
