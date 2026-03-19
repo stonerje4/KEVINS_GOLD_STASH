@@ -1,5 +1,11 @@
 # [TEST] `8ACE6bZN4fG3vhAK...`
-> 2026-03-19 07:20 UTC | **1** pos | **0W/1L** | P&L: **-0.000220 SOL** (-100.0%) | 0 open
+> 2026-03-19 07:25 UTC | **2** pos | **0W/1L** | P&L: **-0.000220 SOL** (-100.0%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| USAID | 03-19 07:20 | 0.89x | 1.00x | 0.1h | 0.0002 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 07:20 | USAID | BUY | 0.0002 | `3qu9yyGWo8k5V3tV...` |
 | 03-19 00:39 | LIQUIDAF | BUY | 0.0002 | `4AqE5yF1hLMpxpVR...` |
 
 </details>
