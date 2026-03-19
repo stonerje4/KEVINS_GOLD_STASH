@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 00:40 UTC** | 7d | 52 buys, 37 sells | In: **26.00** | Out: **12.78** | Net: **-13.22 SOL**
+> Updated: **2026-03-19 00:45 UTC** | 7d | 53 buys, 38 sells | In: **26.50** | Out: **13.17** | Net: **-13.33 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 00:41 | 🟢 BUY | OAC | 0.5000 | 5n593DWQ... | copy | `5ExR97sXTQ14...` |
+| 03-19 | 00:40 | 💰 SELL | ? | 0.3935 | 6raSuhfi... | TP2 | `4vg7V2iN6LQ2...` |
 | 03-19 | 00:34 | 🟢 BUY | SPACE X | 0.5000 | DHfshpzo... | copy | `BzDtMTKxmfz9...` |
 | 03-19 | 00:32 | 🟢 BUY | JEET | 0.5000 | r9pFHjFe... | copy | `43kWfgWYqJn2...` |
 | 03-19 | 00:29 | 🟢 BUY | XPXGOLD | 0.5000 | DHfshpzo... | copy | `4gBADJ488qGy...` |
