@@ -1,5 +1,11 @@
 # [TEST] `cqakon1K22iRvSAn...`
-> 2026-03-19 12:10 UTC | **8** pos | **3W/5L** | P&L: **+0.000224 SOL** (+12.7%) | 0 open
+> 2026-03-19 12:15 UTC | **9** pos | **3W/5L** | P&L: **+0.000224 SOL** (+12.7%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Steve | 03-19 12:14 | 0.96x | 1.00x | 0.0h | 0.0002 |
 
 ## Closed
 
@@ -18,6 +24,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 12:14 | Steve | BUY | 0.0002 | `2dfqtQeiaxKAswM2...` |
 | 03-19 11:34 | Peace | SELL | 0.0002 | `2ncdCrFteds82xgm...` |
 | 03-19 11:29 | OKAY | BUY | 0.0002 | `2Mf2rqFxzeMH4j9q...` |
 | 03-19 11:11 | WFC | SELL | 0.0001 | `4DS4MoyBiZFMmXmo...` |
