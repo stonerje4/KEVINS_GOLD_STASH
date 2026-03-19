@@ -1,8 +1,10 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 08:25 UTC** | 7d | 169 buys, 132 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 08:30 UTC** | 7d | 170 buys, 133 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 08:29 | 🟢 BUY | e-CNY | 0.0002 | 44XqRd83... | copy_buy | `479AwAccyz5S...` |
+| 03-19 | 08:25 | 🔴 SELL | DOGEFATHER | 0.0001 | 7EautDJG... | SL | `5ScHrfm3TQVW...` |
 | 03-19 | 08:24 | 💰 SELL | PERCOLATOR | 0.0005 | 4yKnfzcf... | trail | `5RAwVZvu2Hzf...` |
 | 03-19 | 08:24 | 🟢 BUY | YUJI | 0.0002 | Div6cVov... | copy_buy | `3GRig3TFGsUw...` |
 | 03-19 | 08:20 | 🟢 BUY | USAOIL | 0.0002 | G1nVBXwC... | copy_buy | `n7ytaRvVrhjR...` |
