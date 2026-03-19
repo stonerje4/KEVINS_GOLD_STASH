@@ -1,11 +1,11 @@
 # [PRD] `ApkQGKbq8dRw5ha9...`
-> 2026-03-19 03:05 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 03:10 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BLACKLINE | 03-19 02:45 | 0.00x | 5.21x | 0.3h | 0.5000 |
+| BLACKLINE | 03-19 02:45 | 0.00x | 6.06x | 0.4h | 0.5000 |
 
 <details><summary>📋 Full Trade Log</summary>
 
