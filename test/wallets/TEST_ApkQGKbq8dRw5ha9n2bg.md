@@ -1,11 +1,11 @@
 # [TEST] `ApkQGKbq8dRw5ha9...`
-> 2026-03-19 03:15 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 03:20 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| BLACKLINE | 03-19 02:44 | 6.12x | 7.37x | 0.5h | 0.0002 |
+| BLACKLINE | 03-19 02:44 | 3.74x | 7.49x | 0.6h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
