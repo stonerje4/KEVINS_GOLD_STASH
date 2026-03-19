@@ -1,8 +1,9 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 01:50 UTC** | 7d | 72 buys, 53 sells | In: **0.02** | Out: **4.75** | Net: **+4.74 SOL**
+> Updated: **2026-03-19 01:55 UTC** | 7d | 72 buys, 54 sells | In: **0.02** | Out: **4.75** | Net: **+4.74 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 01:50 | 💰 SELL | HUNT | 0.0001 | 6qTPHgnS... | TP1 | `3z5VKmbY6LsR...` |
 | 03-19 | 01:49 | 🟢 BUY | ABDUCTED | 0.0002 | 7d8W4xZd... | copy_buy | `TBBhg3cY4NxC...` |
 | 03-19 | 01:47 | 💰 SELL | CLAWCYCLE | 0.0005 | 6qTPHgnS... | trail | `spF9F1ip4Eh7...` |
 | 03-19 | 01:43 | 💰 SELL | CLAWCYCLE | 0.0001 | 6qTPHgnS... | tp_8x_trim | `2m9G7gnYG4fY...` |
