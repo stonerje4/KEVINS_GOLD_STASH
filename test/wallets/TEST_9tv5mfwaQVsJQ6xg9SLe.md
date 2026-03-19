@@ -1,11 +1,12 @@
 # [TEST] `9tv5mfwaQVsJQ6xg...`
-> 2026-03-19 05:05 UTC | **3** pos | **0W/2L** | P&L: **-0.000337 SOL** (-76.6%) | 1 open
+> 2026-03-19 05:10 UTC | **4** pos | **0W/2L** | P&L: **-0.000337 SOL** (-76.6%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Upnald | 03-19 02:01 | 0.54x | 1.14x | 3.1h | 0.0002 |
+| Optimistic | 03-19 05:09 | 0.00x | 1.00x | 0.0h | 0.0002 |
+| Upnald | 03-19 02:01 | 0.55x | 1.14x | 3.1h | 0.0002 |
 
 ## Closed
 
@@ -18,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 05:09 | Optimistic | BUY | 0.0002 | `ifDUtPuDHCY5v61Z...` |
 | 03-19 02:01 | Upnald | BUY | 0.0002 | `3AVbrt85srxjrodv...` |
 | 03-18 23:09 | dVIN | SELL | 0.0000 | `52i8VssoCaPbcdDD...` |
 | 03-18 23:07 | dVIN | BUY | 0.0002 | `3nvdeRfJUGMcRFY4...` |
