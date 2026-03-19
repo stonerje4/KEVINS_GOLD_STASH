@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 08:10 UTC** | 7d | 167 buys, 124 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 08:15 UTC** | 7d | 167 buys, 128 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 08:13 | 💰 SELL | USAOIL | 0.0001 | BGGJhxGX... | TP1 | `BhTks7JwTQa9...` |
+| 03-19 | 08:11 | 💰 SELL | PERCOLATOR | 0.0001 | 4yKnfzcf... | tp_8x_trim | `3Arc5xHahMaP...` |
+| 03-19 | 08:10 | 💰 SELL | PERCOLATOR | 0.0001 | 4yKnfzcf... | TP4 | `2NjhHK6StCUv...` |
+| 03-19 | 08:10 | 🔴 SELL | CHOCOTINA | 0.0001 | FVFkKaDk... | trail | `2HN7kJy8sER1...` |
 | 03-19 | 08:10 | 🟢 BUY | USAOIL | 0.0002 | BGGJhxGX... | copy_buy | `Z25bYKdKSaEH...` |
 | 03-19 | 08:09 | 🔴 SELL | free | 0.0001 | 3XHiDvWC... | SL | `3JzxbxmHKGUZ...` |
 | 03-19 | 08:08 | 🟢 BUY | RETARDED | 0.0002 | 3XHiDvWC... | copy_buy | `543VG8A5mnxv...` |
