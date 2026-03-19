@@ -1,5 +1,11 @@
 # [PRD] `E79aNzAkDa92b5bn...`
-> 2026-03-19 13:45 UTC | **4** pos | **2W/2L** | P&L: **+0.253979 SOL** (+12.7%) | 0 open
+> 2026-03-19 13:50 UTC | **5** pos | **2W/2L** | P&L: **+0.253979 SOL** (+12.7%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| BUILDOOR | 03-19 13:48 | 0.00x | 1.00x | 0.0h | 0.2800 |
 
 ## Closed
 
@@ -14,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 13:48 | BUILDOOR | BUY | 0.2800 | `2Cf2GQXe33PWTUZL...` |
 | 03-18 22:46 | CHOCOTINA | SELL | 0.7020 | `4AKxXsWafNjJsLyH...` |
 | 03-18 22:32 | CHOCOTINA | SELL | 0.3957 | `5hAeYzM4sDSfJ5NV...` |
 | 03-18 21:15 | CHOCOTINA | SELL | 0.2765 | `3RHQGqpZYjLJbC95...` |
