@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 11:35 UTC** | 7d | 208 buys, 165 sells | In: **0.05** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 11:40 UTC** | 7d | 211 buys, 166 sells | In: **0.05** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 11:40 | 🟢 BUY | SCOTT | 0.0002 | BmXugVGY... | copy_buy | `we3vQt271quN...` |
+| 03-19 | 11:39 | 🟢 BUY | 屁合戦 | 0.0002 | 9G4ytadk... | copy_buy | `2SRBu3rSf4ZQ...` |
+| 03-19 | 11:37 | 🟢 BUY | Raccoon | 0.0002 | 6qTPHgnS... | copy_buy | `5u44tMWZpgQV...` |
+| 03-19 | 11:35 | 💰 SELL | Solana | 0.0001 | 6raSuhfi... | TP1 | `yzCvsXwo4ykh...` |
 | 03-19 | 11:34 | 🟢 BUY | Guayaba | 0.0002 | 9G4ytadk... | copy_buy | `2BtzJFKJA6fP...` |
 | 03-19 | 11:34 | 💰 SELL | Peace | 0.0002 | cqakon1K... | trail | `2ncdCrFteds8...` |
 | 03-19 | 11:31 | 🟢 BUY | KAT | 0.0002 | 3AALd9Q4... | copy_buy | `4Z27hmYNsLqg...` |
