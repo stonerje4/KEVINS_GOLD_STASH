@@ -1,12 +1,12 @@
 # [TEST] `6sktBBsEBAndTScF...`
-> 2026-03-19 11:50 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 11:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Billy | 03-19 11:29 | 0.81x | 1.12x | 0.3h | 0.0002 |
-| Clutch | 03-19 10:43 | 1.05x | 1.07x | 1.1h | 0.0002 |
+| Billy | 03-19 11:29 | 0.68x | 1.12x | 0.4h | 0.0002 |
+| Clutch | 03-19 10:43 | 1.05x | 1.07x | 1.2h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 

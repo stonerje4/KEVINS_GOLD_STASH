@@ -1,5 +1,11 @@
 # [TEST] `3XHiDvWCsaFCeQv3...`
-> 2026-03-19 11:50 UTC | **3** pos | **0W/3L** | P&L: **-0.000440 SOL** (-66.6%) | 0 open
+> 2026-03-19 11:55 UTC | **4** pos | **0W/3L** | P&L: **-0.000440 SOL** (-66.6%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| AI | 03-19 11:51 | 1.59x | 1.59x | 0.1h | 0.0002 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 11:51 | AI | BUY | 0.0002 | `5yRpifZKmRL1zAan...` |
 | 03-19 10:07 | RETARDED | SELL | 0.0001 | `5xHqS33TZCfgk9Ji...` |
 | 03-19 08:09 | free | SELL | 0.0001 | `3JzxbxmHKGUZ2feV...` |
 | 03-19 08:08 | RETARDED | BUY | 0.0002 | `543VG8A5mnxvxhnU...` |
