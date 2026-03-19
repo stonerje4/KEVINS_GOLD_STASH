@@ -1,16 +1,17 @@
 # [TEST] `CZjxED3uVrU4MaNq...`
-> 2026-03-19 05:25 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 05:30 UTC | **1** pos | **0W/1L** | P&L: **-0.000134 SOL** (-61.1%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| Renaissance | 03-19 05:05 | 0.51x | 1.00x | 0.3h | 0.0002 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ Renaissance | -0.0001 | 03-19 05:05 | 1.0x | 03-19 05:27 | 0.0001/0.0002 | SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 05:27 | Renaissance | SELL | 0.0001 | `4n4DEoYxLpum1aZT...` |
 | 03-19 05:05 | Renaissance | BUY | 0.0002 | `52y8UAfTvogS6q5m...` |
 
 </details>
