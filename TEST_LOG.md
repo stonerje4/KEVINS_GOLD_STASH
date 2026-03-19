@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 07:15 UTC** | 7d | 141 buys, 114 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 07:20 UTC** | 7d | 143 buys, 118 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 07:19 | 🟢 BUY | ACCELERATE | 0.0002 | FoHJUYTh... | copy_buy | `34rKp8sTWt7R...` |
+| 03-19 | 07:19 | 🔴 SELL | ZALA | 0.0001 | FoHJUYTh... | stale_cleanu | `A3fg7CDmNq7j...` |
+| 03-19 | 07:19 | 🔴 SELL | S&P500 | 0.0000 | 4yKnfzcf... | stale_cleanu | `3RAaRHutEFXy...` |
+| 03-19 | 07:19 | 🔴 SELL | pipplien | 0.0001 | FoHJUYTh... | stale_cleanu | `2zF88udHz1SM...` |
+| 03-19 | 07:16 | 🔴 SELL | LOCK | 0.0001 | FY5sWMqL... | SL | `2jGdd7jY644C...` |
+| 03-19 | 07:16 | 🟢 BUY | USAID | 0.0002 | BGGJhxGX... | copy_buy | `nW8ZKnFdV93u...` |
 | 03-19 | 07:14 | 🟢 BUY | USAOIL | 0.0002 | 87nWQxQv... | copy_buy | `22ar8UapYyXw...` |
 | 03-19 | 07:14 | 🟢 BUY | DOGEFATHER | 0.0002 | 7EautDJG... | copy_buy | `4HAC3njEmK94...` |
 | 03-19 | 07:12 | 🟢 BUY | USAOIL | 0.0002 | 87nWQxQv... | copy_buy | `3665qw98FXYs...` |

@@ -1,8 +1,13 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 07:15 UTC** | 7d | 89 buys, 64 sells | In: **44.50** | Out: **22.07** | Net: **-22.43 SOL**
+> Updated: **2026-03-19 07:20 UTC** | 7d | 89 buys, 69 sells | In: **44.50** | Out: **23.68** | Net: **-20.82 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 07:15 | 🔴 SELL | TGR | 0.2644 | DHfshpzo... | stale | `65xpmWYZ1VoL...` |
+| 03-19 | 07:15 | 🔴 SELL | MEMENTUM | 0.4489 | DDApL88z... | stale | `4PFDX4Ao6hJC...` |
+| 03-19 | 07:15 | 🔴 SELL | OAC | 0.2670 | 5n593DWQ... | stale | `4z2SZRKQumZc...` |
+| 03-19 | 07:15 | 🔴 SELL | JEET | 0.3882 | r9pFHjFe... | stale | `33GRe4au7pEj...` |
+| 03-19 | 07:15 | 🔴 SELL | ? | 0.2363 | cqakon1K... | stale | `4ayz1krcMJK7...` |
 | 03-19 | 07:09 | 🔴 SELL | WORLD | 0.1952 | DDApL88z... | SL | `643A25Up4voZ...` |
 | 03-19 | 06:57 | 💰 SELL | Gilbert | 0.2613 | 6raSuhfi... | TP1 | `4VYZUUvwkZAz...` |
 | 03-19 | 06:57 | 🟢 BUY | ? | 0.5000 | 5n593DWQ... | copy | `2X4RTah5tXcu...` |

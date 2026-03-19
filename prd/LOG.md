@@ -1,9 +1,14 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 07:15 UTC*
+*Last updated: 2026-03-19 07:20 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 07:15 | 🔴 sell | TGR | `DHfshpzoC9Q7...` | 0.264 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/65xpmWYZ1VoLVHYppfFehP6sbYjCfo4dmnqcyHra7btM7bgXFXtAkNTH2q5Yh8mgQi4xxGJESfedPHCXymi9eKRZ) |
+| 2026-03-19 07:15 | 🔴 sell | MEMENTUM | `DDApL88zun3v...` | 0.449 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4PFDX4Ao6hJCVbAhzM42CYiVQfbzVDu4HQ5MHg8SERcnawzBpKJ8UVHwkQPLkcewRKgs5DW3gyyS2cod9n4UmWnD) |
+| 2026-03-19 07:15 | 🔴 sell | OAC | `5n593DWQkpfF...` | 0.267 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4z2SZRKQumZcC4Xo7XSD9emQb7YK5PYwQaUB78CqNfsVakSwvj8JJ5wemgnYBmAiPxaUtdn4q6uLxc76FmQA5t6n) |
+| 2026-03-19 07:15 | 🔴 sell | JEET | `r9pFHjFe2Cio...` | 0.388 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/33GRe4au7pEjsQGMU5fSdV5Go9KnA3LKZfU8tPtBMpU6CNQfK9Uubnf1jFozFPpPvSczW91FBxaB7Heosy21EWdh) |
+| 2026-03-19 07:15 | 🔴 sell | ? | `cqakon1K22iR...` | 0.236 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4ayz1krcMJK7zXkZfvWJgs3VGfZwhQXNWynJm8oaR3XYPh3nMbjBHRDf3U2fxww4DRvTBNLGfHXRSm9dhkeMmiw4) |
 | 2026-03-19 07:09 | 🔴 sell | WORLD | `DDApL88zun3v...` | 0.195 | 0.4x | stop_loss | [tx](https://solscan.io/tx/643A25Up4voZ57jBbxcSMybtnbjNmKNnw9xcB2T8PkR23NWUQu4t76f76EZe3mHK13f17Qdw224xVv4ANmtxZZWc) |
 | 2026-03-19 06:57 | 🔴 sell | Gilbert | `6raSuhfig5Y1...` | 0.261 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/4VYZUUvwkZAzeuKLhaykYy3PwZo3xvcSH59CzCLQAA5uCj676GJDd26fkpwY8iNv9CNcJwqFFmuKfjxdPMZLBWT) |
 | 2026-03-19 06:57 | 🟢 buy | ? | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/2X4RTah5tXcubFsfG5dCiR5zmRecKpLXQeYh2Pd7Y8q6Wvec5Le9tFQk8b3CzCf6PLVwUEJSQUVvUC89jUupFXo1) |
