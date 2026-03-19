@@ -1,11 +1,11 @@
 # [PRD] `DHfshpzoC9Q7rz32...`
-> 2026-03-19 17:05 UTC | **8** pos | **1W/6L** | P&L: **-1.679419 SOL** (-51.2%) | 1 open
+> 2026-03-19 17:10 UTC | **8** pos | **1W/6L** | P&L: **-1.679419 SOL** (-51.2%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SPACE X | 03-19 00:34 | 0.00x | 1.01x | 16.5h | 0.5000 |
+| SPACE X | 03-19 00:34 | 0.00x | 1.01x | 16.6h | 0.5000 |
 
 ## Closed
 
@@ -24,10 +24,10 @@
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
 | 03-19 16:18 | USAOIL | SELL | 0.0876 | `2YZpgWowF4mc7huz...` |
-| 03-19 13:24 | XPXGOLD | SELL | 0.0000 | `?` |
-| 03-19 13:24 | BBX | SELL | 0.0000 | `?` |
 | 03-19 13:24 | FTR | SELL | 0.0000 | `?` |
 | 03-19 13:24 | Meteor | SELL | 0.0000 | `?` |
+| 03-19 13:24 | XPXGOLD | SELL | 0.0000 | `?` |
+| 03-19 13:24 | BBX | SELL | 0.0000 | `?` |
 | 03-19 12:51 | USAOIL | BUY | 0.2800 | `mrpb1o2upuetE8cu...` |
 | 03-19 11:15 | TRG | SELL | 0.3686 | `24RziRhtBJQz2zF1...` |
 | 03-19 10:44 | XPXGOLD | SELL | 0.2507 | `64M9f4QuvX6rDP6U...` |
