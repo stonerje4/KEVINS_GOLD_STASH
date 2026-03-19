@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 03:35 UTC*
+*Last updated: 2026-03-19 03:40 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 03:35 | 🟢 buy | XENOGEN | `ApkQGKbq8dRw...` | 0.500 | — | cielo_copy:ApkQGKbq8dRw5ha9n2bg | [tx](https://solscan.io/tx/2QgWbsNuQLPDZ69aqbZgG8wCkcBbMg1GmaX8uTio5Nhhj4vuyiKcYpe1MgLWhUCGa9vcJ7UbvUhAPhm7ACXfjQbc) |
 | 2026-03-19 03:23 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 1.299 | 2.6x | runner_trailing_stop | [tx](https://solscan.io/tx/4cjSzvpfbo1ryk3LBedvLE3Ax2E4kHhvurqqcUjLasiEau4prvhprZsmrqbkD3VPNoLyLTHV9RJ7z7e6F37xWYeM) |
 | 2026-03-19 03:04 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 0.260 | 5.2x | tp_4x_trim | [tx](https://solscan.io/tx/2Pp5PQEVom1JV8qNFQHLQCgnQduCBY8R14WdtA767XMpjFpph3oqEm6z9PnnEJq3bhuAWEy3GYMY18z9o4hyCqL5) |
 | 2026-03-19 02:58 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 0.384 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/4vDNsEhFesXRiuZWDoPMV5bDAteE4VUVHydoyKx9WuVPiKmQT1tKBT182SmJErkDJa1zDEPyas7xXWT5Rnih8soS) |

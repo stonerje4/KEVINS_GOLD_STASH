@@ -1,5 +1,11 @@
 # [TEST] `ApkQGKbq8dRw5ha9...`
-> 2026-03-19 03:35 UTC | **1** pos | **1W/0L** | P&L: **+0.000381 SOL** (+173.1%) | 0 open
+> 2026-03-19 03:40 UTC | **2** pos | **1W/0L** | P&L: **+0.000381 SOL** (+173.1%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| XENOGEN | 03-19 03:35 | 1.15x | 1.31x | 0.1h | 0.0002 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 03:35 | XENOGEN | BUY | 0.0002 | `3ZTYxJw3ZdHVJ4Rm...` |
 | 03-19 03:23 | BLACKLINE | SELL | 0.0003 | `4xnrLtgRrxrwNPck...` |
 | 03-19 03:04 | BLACKLINE | SELL | 0.0001 | `3uBsLZ6dxScnRroC...` |
 | 03-19 02:59 | BLACKLINE | SELL | 0.0001 | `65XfcvQFw9by2Rx6...` |
