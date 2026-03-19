@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 02:30 UTC** | 7d | 85 buys, 62 sells | In: **0.02** | Out: **4.75** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 02:35 UTC** | 7d | 86 buys, 65 sells | In: **0.02** | Out: **4.75** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 02:33 | 💰 SELL | BORING  | 0.0001 | 9G4ytadk... | TP1 | `3pMw6mUkMd9V...` |
+| 03-19 | 02:32 | 💰 SELL | HUNT | 0.0001 | 6qTPHgnS... | TP3 | `4iAm6hy3Cq9R...` |
+| 03-19 | 02:31 | 🔴 SELL | WALL-E | 0.0001 | 6gN2SNYX... | SL | `HrER27kMaAYT...` |
+| 03-19 | 02:30 | 🟢 BUY | Lobsty | 0.0002 | 9G4ytadk... | copy_buy | `23XUdxEgZyKu...` |
 | 03-19 | 02:29 | 🔴 SELL | D6 | 0.0000 | 6raSuhfi... | SL | `2yKo5zgD5PWe...` |
 | 03-19 | 02:27 | 🔴 SELL | QUFR | 0.0001 | 4Ki54j4t... | SL | `ZQ8HQehfDkjD...` |
 | 03-19 | 02:27 | 🟢 BUY | QUFR | 0.0002 | 4Ki54j4t... | copy_buy | `XAVSLNd5Ng1T...` |
