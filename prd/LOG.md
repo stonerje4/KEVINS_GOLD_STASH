@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 02:00 UTC*
+*Last updated: 2026-03-19 02:05 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 02:01 | 🟢 buy | Chong | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/LwYfLbXTXgCPqfFQ6UwiL62S1H2WcYBrajSiNzKPWjUD6uf2iY9DJqQryrdSZTAGWYeFdVXPxvrAKMqCn1KDyLY) |
+| 2026-03-19 02:00 | 🟢 buy | CONSPIRATOR | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/ZgGTw93rJZVbUx3XwhTksrbnBE32KACsVrG3bGBGGKX81HWexsJJVAvbuRyDjtVzUSynsa8WpbGgt8PqxAsRwrP) |
 | 2026-03-19 01:50 | 🟢 buy | WRT | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2WTKVnr42Kskaoy2pitpQ2HW8gT2oauJtyR71CV4EfYpWKDBQxFLnqWytAc2cEKcUpqNCBRgCKvanQKUVAByvJw) |
 | 2026-03-19 01:41 | 🔴 sell | Handprint | `J5jm7BnBiGaB...` | 0.291 | 2.3x | tp_2x_half | [tx](https://solscan.io/tx/3C7XFjYa1LvDB3nsSTK2D1ULRqRec3kKwiLkEF71oqQ2zGo6XTRPbcaoKa7jqg5soZnBpfUeGfkzgurzHaoxTQ2R) |
 | 2026-03-19 01:31 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.580 | 1.2x | runner_trailing_stop | [tx](https://solscan.io/tx/5up3r4C7cKWVyrV6hSpt9yG2YanuFWgF4bZHFkCDBV3o4MW4QXbyz8fEF3xMUJg4ZbZ7xVm1L2pkJszauWMkJ8Dv) |
