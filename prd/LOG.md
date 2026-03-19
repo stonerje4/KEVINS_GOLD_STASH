@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 02:25 UTC*
+*Last updated: 2026-03-19 02:30 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 02:28 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.083 | 0.2x | stop_loss | [tx](https://solscan.io/tx/3tHpN9LiJ8ZVAeR26uLWFQvBXgxEPmbSa5B6T9WFv4Azc4zJGsXX6wtbFPo8RcGNsvzdoc8Zg2AZW82q59mjHW2T) |
+| 2026-03-19 02:26 | 🟢 buy | D6 | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5iB4TG9YCt5gTbc8thfKa6VPGeuk2QD6k6rwnUWwHKVbfd2auC5c9yn6kz5v58fFoQPUGpnvjAwtKNzvvZ5fnJFK) |
 | 2026-03-19 02:18 | 🔴 sell | BBX | `DHfshpzoC9Q7...` | 0.253 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/4fuPJwuE6DGLmvXU4g7uHp5HBQp7a1xay9rHGAQH1Uw9Cbij6MjtQmgJr2btSN4R6CRQju5nEAtNPgekxB6DaVqj) |
 | 2026-03-19 02:15 | 🔴 sell | Chocolatina | `DDApL88zun3v...` | 0.254 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/53xruYiyvV6uCJDjqmTGXVsUD1YDw7ye8hQrfF9zR5YWwyP2JyhjKtuHu8RZGKNfV4fZsWAFJJfutTYpnLHiD5u5) |
 | 2026-03-19 02:11 | 🟢 buy | USGAY | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/DzVYCXWYux2RRkfqXQCba3KzoBK5dGbj7dwS9JR8P9LgFvq9yQCvRp47qVr93VCizD5mcjx5BZsiJB4NXXPwuUF) |
