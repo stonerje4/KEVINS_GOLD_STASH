@@ -1,16 +1,17 @@
 # [TEST] `4Dpu2UjkFmnwmjSM...`
-> 2026-03-19 00:45 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 00:50 UTC | **1** pos | **1W/0L** | P&L: **+0.000180 SOL** (+81.8%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| NASDANQ | 03-18 23:27 | 2.56x | 4.29x | 1.3h | 0.0002 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ NASDANQ | +0.0002 | 03-18 23:27 | 4.3x | 03-19 00:47 | 0.0004/0.0002 | gc_trail |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 00:46 | NASDANQ | SELL | 0.0001 | `64vQUafhpgGd6Gkr...` |
 | 03-19 00:16 | NASDANQ | SELL | 0.0001 | `FeY7ijZ4CRCC66fd...` |
 | 03-19 00:09 | NASDANQ | SELL | 0.0001 | `Q36r4o411UbfwSfe...` |
 | 03-18 23:27 | NASDANQ | BUY | 0.0002 | `518RtYhf4RqftHXa...` |
