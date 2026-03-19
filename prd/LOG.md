@@ -1,9 +1,12 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 08:05 UTC*
+*Last updated: 2026-03-19 08:10 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 08:09 | 🔴 sell | KAT | `6raSuhfig5Y1...` | 0.416 | 3.3x | tp_3x_trim | [tx](https://solscan.io/tx/4r8J1Wx94TRZ4t34cCK3odQWdQVvMc2EsuBpYf4jKzuEUi9yTY6R25XwTx39rvbJP55Lt2TbsRSF82Rfd9G7YpX5) |
+| 2026-03-19 08:08 | 🔴 sell | FUCKENING | `5n593DWQkpfF...` | 0.197 | 0.4x | stop_loss | [tx](https://solscan.io/tx/3vrX2LfQkYZR8hdzFwNJfxBc29ameNNkGcag8HEDhqq2fu1r5LGnLoT63dFgkxLbUTHgukkZrmzpW8GEwonmAEeF) |
+| 2026-03-19 08:08 | 🟢 buy | KopiKamu | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/54Ci3MPsZBQHdWKXmQoGMWtUUt7MRfYbzB1bZHvXod4QX1t53ge4Lr2sLjYTymkC8qdtk1weWKai54BFRm1yAyn8) |
 | 2026-03-19 08:03 | 🟢 buy | Spiderman | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/624ZPrBDkcFHDBb5k22jZqgnfpWemFa3PDyfASaAfxMF48nWaUvmrVMMAQUDzU3eATBGY7tcWZogSYEyMvaeXmc9) |
 | 2026-03-19 07:44 | 🔴 sell | Handprint | `J5jm7BnBiGaB...` | 0.387 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/2tEqDfJ3urm6zXLSc7wb58mUVcr4AxcZ1JM9W3Ve5TFqMeCbTxDQ2YvMUdcmy5g2as3cPQiqVaaV3aiaTGZZZSbB) |
 | 2026-03-19 07:15 | 🔴 sell | TGR | `DHfshpzoC9Q7...` | 0.264 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/65xpmWYZ1VoLVHYppfFehP6sbYjCfo4dmnqcyHra7btM7bgXFXtAkNTH2q5Yh8mgQi4xxGJESfedPHCXymi9eKRZ) |

@@ -1,8 +1,11 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 08:05 UTC** | 7d | 90 buys, 70 sells | In: **45.00** | Out: **24.06** | Net: **-20.94 SOL**
+> Updated: **2026-03-19 08:10 UTC** | 7d | 91 buys, 72 sells | In: **45.50** | Out: **24.68** | Net: **-20.82 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 08:09 | 💰 SELL | KAT | 0.4162 | 6raSuhfi... | TP2 | `4r8J1Wx94TRZ...` |
+| 03-19 | 08:08 | 🔴 SELL | FUCKENING | 0.1968 | 5n593DWQ... | SL | `3vrX2LfQkYZR...` |
+| 03-19 | 08:08 | 🟢 BUY | KopiKamu | 0.5000 | 5n593DWQ... | copy | `54Ci3MPsZBQH...` |
 | 03-19 | 08:03 | 🟢 BUY | Spiderman | 0.5000 | J5jm7BnB... | copy | `624ZPrBDkcFH...` |
 | 03-19 | 07:44 | 💰 SELL | Handprint | 0.3868 | J5jm7BnB... | TP2 | `2tEqDfJ3urm6...` |
 | 03-19 | 07:15 | 🔴 SELL | TGR | 0.2644 | DHfshpzo... | stale | `65xpmWYZ1VoL...` |
