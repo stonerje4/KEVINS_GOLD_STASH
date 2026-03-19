@@ -1,9 +1,12 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 00:00 UTC*
+*Last updated: 2026-03-19 00:05 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 00:04 | 🟢 buy | Bananito | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/5RCFK2oPW8gU3yYmGKv7zeFG22ZmN2Sx9wtjsYRHGtQhov8a73uLMbnM6p1oZdYxn3jcg3YLVsquJmX5DWSk7YPq) |
+| 2026-03-19 00:03 | 🔴 sell | BLU | `6raSuhfig5Y1...` | 0.251 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/48XoPLxJ2BMtd44z9V9aytxAaP577T479ho2ZJCPB5YEGKkuJFTqtYS5fR783QJJHqvmsRoxZoY674EXvttstGtg) |
+| 2026-03-19 00:03 | 🟢 buy | ? | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4qfu3aPKb87Xtwt1nuJsVDBHaAUF2MwWXK6ptCzWDMtKg25iCuN38Qy9uhUbn89dxFDVs5mRZYdALyRpFmZHXzZE) |
 | 2026-03-18 23:54 | 🟢 buy | BLU | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/DpbiBdwWHFXTZbGFsjDmjzHTarqzwk5c6U867BHXm4YLHcRqvJRD24raFqmvwbSKa2dt5NMiFLTj1UCxyLFo2R7) |
 | 2026-03-18 23:54 | 🔴 sell | HIM | `2w85VLX4W4qm...` | 0.375 | 3.0x | tp_3x_trim | [tx](https://solscan.io/tx/2DYPFvkQE5SrKHXPogfVUmErgcRxsfx1KNtyVG7La5MnBPC2SEfmj27LaTcGfVaGTLY1azHj7fqpTnyytcZQXXih) |
 | 2026-03-18 23:47 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/3PbEmNFL1RXp8bWX3CDGEPjqCmjKG31YpHQJBPLZsBF7MmDS6M4iNjB2ZxTRdFFzkF6geuCHCPupQss9yQWg4541) |
