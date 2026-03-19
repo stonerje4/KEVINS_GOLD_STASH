@@ -1,12 +1,13 @@
 # [PRD] `2w85VLX4W4qm8SPS...`
-> 2026-03-19 11:30 UTC | **9** pos | **1W/6L** | P&L: **-1.415528 SOL** (-40.4%) | 2 open
+> 2026-03-19 11:35 UTC | **10** pos | **1W/6L** | P&L: **-1.415528 SOL** (-40.4%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Garbonzo | 03-19 11:19 | 0.00x | 1.00x | 0.2h | 0.5000 |
-| Type | 03-18 20:13 | 0.00x | 1.28x | 15.3h | 0.5000 |
+| Raccoon | 03-19 11:33 | 0.00x | 1.16x | 0.0h | 0.5000 |
+| Garbonzo | 03-19 11:19 | 0.00x | 1.00x | 0.3h | 0.5000 |
+| Type | 03-18 20:13 | 0.00x | 1.28x | 15.4h | 0.5000 |
 
 ## Closed
 
@@ -24,6 +25,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 11:33 | Raccoon | BUY | 0.5000 | `3b2z9mYEhmWL93ps...` |
 | 03-19 11:19 | Garbonzo | BUY | 0.5000 | `5cscvkeBa3tm1DFT...` |
 | 03-19 10:28 | Tincat | SELL | 0.1991 | `2uRWmfHCLhuer5Lc...` |
 | 03-19 09:07 | Genesis-2 | SELL | 0.1932 | `36j42KgrQRYZbuYN...` |

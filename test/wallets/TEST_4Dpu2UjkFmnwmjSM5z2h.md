@@ -1,5 +1,11 @@
 # [TEST] `4Dpu2UjkFmnwmjSM...`
-> 2026-03-19 11:30 UTC | **1** pos | **1W/0L** | P&L: **+0.000180 SOL** (+81.8%) | 0 open
+> 2026-03-19 11:35 UTC | **2** pos | **1W/0L** | P&L: **+0.000180 SOL** (+81.8%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| cashcow | 03-19 11:31 | 1.03x | 1.03x | 0.1h | 0.0002 |
 
 ## Closed
 
@@ -11,6 +17,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 11:31 | cashcow | BUY | 0.0002 | `4p3dVMAuDkLN9DGJ...` |
 | 03-19 00:46 | NASDANQ | SELL | 0.0001 | `64vQUafhpgGd6Gkr...` |
 | 03-19 00:16 | NASDANQ | SELL | 0.0001 | `FeY7ijZ4CRCC66fd...` |
 | 03-19 00:09 | NASDANQ | SELL | 0.0001 | `Q36r4o411UbfwSfe...` |
