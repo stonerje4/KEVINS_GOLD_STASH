@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 04:45 UTC** | 7d | 119 buys, 84 sells | In: **0.03** | Out: **4.75** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 04:50 UTC** | 7d | 121 buys, 85 sells | In: **0.03** | Out: **4.75** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 04:50 | 💰 SELL | D6 | 0.0001 | 6raSuhfi... | TP1 | `bvyaL63vmyGo...` |
+| 03-19 | 04:47 | 🟢 BUY | D6 | 0.0002 | 6raSuhfi... | copy_buy | `4ALbhwtsbJyF...` |
+| 03-19 | 04:46 | 🟢 BUY | peptard  | 0.0002 | 9G4ytadk... | copy_buy | `5mbga9DiD47Y...` |
 | 03-19 | 04:44 | 🟢 BUY | Who? | 0.0002 | 3XHiDvWC... | copy_buy | `2jUZHcSm321g...` |
 | 03-19 | 04:35 | 🟢 BUY | HIDE | 0.0002 | FoHJUYTh... | copy_buy | `tJ2hFer1Ygyp...` |
 | 03-19 | 04:34 | 🔴 SELL | TODAY | 0.0001 | 4yKnfzcf... | SL | `XqqgUfRBFwgs...` |
