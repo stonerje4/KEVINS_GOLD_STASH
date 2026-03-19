@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 12:15 UTC*
+*Last updated: 2026-03-19 12:20 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 12:15 | 🔴 sell | DELMO | `DDApL88zun3v...` | 0.236 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/2BkGhvco3wdD2mPux6z7WaYRzccEJxdAE4WvwtChLAKVy8Wkv1TMjozApZoydjfRCS6XQaVxsRv4PnTJsUoKidc5) |
+| 2026-03-19 12:15 | 🔴 sell | OIL#000 | `HCDsVE5Y22dz...` | 0.434 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3mLv5iRJHpFk3xnagaFaKMZQGH2uFMtQ8LFAMvyp4WWaWT4qZpy8fEc1GB5cgUcY7mLZM1vZaaQcLN36aqU9CvzP) |
 | 2026-03-19 11:48 | 🟢 buy | HE-GASSEN | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/ftox9ZfpYH9cZVHeC27wcySBdvRHXNArJaQhZ5YoHbXsiykbUcPyJmVTEQPWeqQx68VbiXtdPT9jjxdVZ934ArP) |
 | 2026-03-19 11:33 | 🟢 buy | Raccoon | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/3b2z9mYEhmWL93psDdacEafUXKMQSLpLqWkzgTSm9iZyaSh1q33QQrehRH6mLeAzMeVE1rEWTtwUH72YAPAqRSYT) |
 | 2026-03-19 11:32 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/4zBWMVuxzpuvJaibPHjsjMjhxqXh5J9SaYKY74F9inRMwrSakbr86BDtDgaAx9K5kDDX5ADt3USHMxRuT8ECG9mB) |

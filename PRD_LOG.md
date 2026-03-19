@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 12:15 UTC** | 7d | 109 buys, 89 sells | In: **54.50** | Out: **28.65** | Net: **-25.85 SOL**
+> Updated: **2026-03-19 12:20 UTC** | 7d | 109 buys, 91 sells | In: **54.50** | Out: **29.32** | Net: **-25.18 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 12:15 | 🔴 SELL | DELMO | 0.2363 | DDApL88z... | stale | `2BkGhvco3wdD...` |
+| 03-19 | 12:15 | 🔴 SELL | OIL#000 | 0.4336 | HCDsVE5Y... | stale | `3mLv5iRJHpFk...` |
 | 03-19 | 11:48 | 🟢 BUY | HE-GASSEN | 0.5000 | 2w85VLX4... | copy | `ftox9ZfpYH9c...` |
 | 03-19 | 11:33 | 🟢 BUY | Raccoon | 0.5000 | 2w85VLX4... | copy | `3b2z9mYEhmWL...` |
 | 03-19 | 11:32 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `4zBWMVuxzpuv...` |
