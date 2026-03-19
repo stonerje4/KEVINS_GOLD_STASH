@@ -1,8 +1,12 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 11:15 UTC** | 7d | 103 buys, 86 sells | In: **51.50** | Out: **27.60** | Net: **-23.90 SOL**
+> Updated: **2026-03-19 11:20 UTC** | 7d | 104 buys, 89 sells | In: **52.00** | Out: **28.65** | Net: **-23.35 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 11:19 | 🟢 BUY | Garbonzo | 0.5000 | 2w85VLX4... | copy | `5cscvkeBa3tm...` |
+| 03-19 | 11:15 | 🔴 SELL | TRG | 0.3686 | DHfshpzo... | stale | `24RziRhtBJQz...` |
+| 03-19 | 11:15 | 🔴 SELL | TGR | 0.4578 | r9pFHjFe... | stale | `aoAjyam5iUbN...` |
+| 03-19 | 11:15 | 🔴 SELL | TGR | 0.2218 | 5vweNikg... | stale | `2rnPZzhVgQVu...` |
 | 03-19 | 10:51 | 🟢 BUY | CTRUMP | 0.5000 | 6raSuhfi... | copy | `3N5Ved3igsZx...` |
 | 03-19 | 10:44 | 💰 SELL | XPXGOLD | 0.2507 | DHfshpzo... | TP1 | `64M9f4QuvX6r...` |
 | 03-19 | 10:42 | 🟢 BUY | ? | 0.5000 | HCDsVE5Y... | copy | `268ddEF8BYqZ...` |

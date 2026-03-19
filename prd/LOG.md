@@ -1,9 +1,13 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 11:15 UTC*
+*Last updated: 2026-03-19 11:20 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 11:19 | 🟢 buy | Garbonzo | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/5cscvkeBa3tm1DFTTKPu6zRwoSvLZjYifvF2QU2znHJeg2yi1YuuJyir2Vgr6M42JVNZahtLBWRE1UnGMxB4v4Ex) |
+| 2026-03-19 11:15 | 🔴 sell | TRG | `DHfshpzoC9Q7...` | 0.369 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/24RziRhtBJQz2zF1n1Rqrep7bJ6bzecnaqNdFKxP9zAVSj4LuuM3Rhn5fQkBJyPptFy5quY3Li2ZrXtBQmgTpfDa) |
+| 2026-03-19 11:15 | 🔴 sell | TGR | `r9pFHjFe2Cio...` | 0.458 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/aoAjyam5iUbNwFXgqhgmn8fxXm4vVacDXjnsGXnrRN8S77DDnKqFEAxrMhzSkWN3HT6gt5r7Skyb1qx4aFftFrZ) |
+| 2026-03-19 11:15 | 🔴 sell | TGR | `5vweNikgScdn...` | 0.222 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/2rnPZzhVgQVudc1ddrR8SowhDaH6f6cJQiAoZZ7yZFoNLRdukeCsezEx4y5CEnBUWAX89M9h65RETjSxdaek6iwn) |
 | 2026-03-19 10:51 | 🟢 buy | CTRUMP | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/3N5Ved3igsZxjG8ADnKF3Q3DiG9WSrtAaFT7MmfUxdibY8LMhcehWtCcDNei78S7x1MaFEBgT3JEmwj5QYsXnVWY) |
 | 2026-03-19 10:44 | 🔴 sell | XPXGOLD | `DHfshpzoC9Q7...` | 0.251 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/64M9f4QuvX6rDP6UPr1FMkPqWnZQpVP345zSGCE9Vsq38ZPnbbhKEaKRNjU6CTXnur7Qb4GqMHGeZJMCR4w9tKsq) |
 | 2026-03-19 10:42 | 🟢 buy | ? | `HCDsVE5Y22dz...` | 0.500 | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/268ddEF8BYqZCqgSUv72poBoeLrV5mZnuM9Lm2zQstZZmuD7dm2A8hVX6oULq9fzap5vYyR4ymeJXu68SUwDTUG8) |
