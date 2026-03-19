@@ -1,12 +1,12 @@
 # [TEST] `Div6cVovWmtPsoWH...`
-> 2026-03-19 06:15 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 06:20 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Veggietales | 03-19 04:18 | 0.73x | 1.37x | 1.9h | 0.0002 |
-| Quit | 03-19 02:49 | 0.57x | 1.18x | 3.4h | 0.0002 |
+| Veggietales | 03-19 04:18 | 0.72x | 1.37x | 2.0h | 0.0002 |
+| Quit | 03-19 02:49 | 0.57x | 1.18x | 3.5h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
