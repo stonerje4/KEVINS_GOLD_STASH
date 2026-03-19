@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 03:55 UTC** | 7d | 73 buys, 52 sells | In: **36.50** | Out: **18.86** | Net: **-17.64 SOL**
+> Updated: **2026-03-19 04:00 UTC** | 7d | 75 buys, 52 sells | In: **37.50** | Out: **18.86** | Net: **-18.64 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 03:56 | 🟢 BUY | gf | 0.5000 | 6raSuhfi... | copy | `2pQ1gYCSq26P...` |
+| 03-19 | 03:55 | 🟢 BUY | e-CNY | 0.5000 | r9pFHjFe... | copy | `2tpPjwnyUs7d...` |
 | 03-19 | 03:35 | 🟢 BUY | XENOGEN | 0.5000 | ApkQGKbq... | copy | `2QgWbsNuQLPD...` |
 | 03-19 | 03:23 | 💰 SELL | BLACKLINE | 1.2986 | ApkQGKbq... | trail | `4cjSzvpfbo1r...` |
 | 03-19 | 03:04 | 💰 SELL | BLACKLINE | 0.2603 | ApkQGKbq... | TP3 | `2Pp5PQEVom1J...` |
