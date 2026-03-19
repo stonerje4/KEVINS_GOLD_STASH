@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 10:25 UTC*
+*Last updated: 2026-03-19 10:30 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 10:28 | 🔴 sell | Tincat | `2w85VLX4W4qm...` | 0.199 | 0.4x | stop_loss | [tx](https://solscan.io/tx/2uRWmfHCLhuer5LcxvZbCnzmYRQAQbGCqY8wnUGHtdxPL3ygC9ZJFsgU1ddGCnjZxCAydJ547z5kUooBcAh2K3vb) |
 | 2026-03-19 10:22 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/PuBaYv4Z8xrZ457j9Jsjhf4aN1Jj6LSauJTXtRfKbPX3xXACiKVs7Ftm2jVC4QAVSwBNcXx6QZ21KeHPpMvJ8DR) |
 | 2026-03-19 10:15 | 🔴 sell | gf | `6raSuhfig5Y1...` | 0.255 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3zRsHpGb64edXAFVqw7wYM4dAbg5qUzLbaNng7PKSbuP6gs44dcnFpXfQ7ssKCzThfC3y1GHrHnqJRt8nYU3LxEc) |
 | 2026-03-19 10:15 | 🔴 sell | Chong | `6raSuhfig5Y1...` | 0.210 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/5kXa7XMBNQoivAG5dBuwb3fXq91LYBznQQvzc1CrShRpRgmpiLvqwwNFtn8kGLbiRcPVcx5Fyv2eoJhfUUSfLeoh) |
