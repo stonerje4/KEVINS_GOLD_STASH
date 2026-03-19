@@ -1,8 +1,9 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 08:45 UTC** | 7d | 174 buys, 134 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 08:50 UTC** | 7d | 174 buys, 135 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 08:49 | 🔴 SELL | HAMSTER | 0.0001 | 9G4ytadk... | SL | `5SCfKvys9Tje...` |
 | 03-19 | 08:44 | 🟢 BUY | MrWhiskers | 0.0002 | 37FGuPhk... | copy_buy | `5dox6XeqxtnT...` |
 | 03-19 | 08:43 | 🟢 BUY | HAMSTER | 0.0002 | 9G4ytadk... | copy_buy | `oTUQwXTCxXPk...` |
 | 03-19 | 08:43 | 🔴 SELL | MICHIKO | 0.0001 | 6raSuhfi... | SL | `3md8uNkNMa9d...` |
