@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 10:35 UTC** | 7d | 101 buys, 84 sells | In: **50.50** | Out: **27.10** | Net: **-23.40 SOL**
+> Updated: **2026-03-19 10:40 UTC** | 7d | 101 buys, 85 sells | In: **50.50** | Out: **27.35** | Net: **-23.15 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 10:37 | 💰 SELL | XPXGOLD | 0.2522 | r9pFHjFe... | TP1 | `4AK3pBJJEtc4...` |
 | 03-19 | 10:31 | 🔴 SELL | ? | 0.1890 | cqakon1K... | SL | `5uW5no2ojG7y...` |
 | 03-19 | 10:28 | 🔴 SELL | Tincat | 0.1991 | 2w85VLX4... | SL | `2uRWmfHCLhue...` |
 | 03-19 | 10:22 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `PuBaYv4Z8xrZ...` |

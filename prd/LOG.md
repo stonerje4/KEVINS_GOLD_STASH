@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 10:35 UTC*
+*Last updated: 2026-03-19 10:40 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 10:37 | 🔴 sell | XPXGOLD | `r9pFHjFe2Cio...` | 0.252 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/4AK3pBJJEtc4PLbJdXjTS2qHK5njiHvPKnGuRnd3s19wykyAF7wQh76MMo8zBU7ofd1ufV7JNfLbqVwbLWYfeLA4) |
 | 2026-03-19 10:31 | 🔴 sell | ? | `cqakon1K22iR...` | 0.189 | 0.4x | stop_loss | [tx](https://solscan.io/tx/5uW5no2ojG7yzoRyCCzketVHpw4cEY7pCeQCUWoJ6VWSvirsRiEZVq4YSjvcCVvntgDNMYdn6cnj632Ecs2muksk) |
 | 2026-03-19 10:28 | 🔴 sell | Tincat | `2w85VLX4W4qm...` | 0.199 | 0.4x | stop_loss | [tx](https://solscan.io/tx/2uRWmfHCLhuer5LcxvZbCnzmYRQAQbGCqY8wnUGHtdxPL3ygC9ZJFsgU1ddGCnjZxCAydJ547z5kUooBcAh2K3vb) |
 | 2026-03-19 10:22 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/PuBaYv4Z8xrZ457j9Jsjhf4aN1Jj6LSauJTXtRfKbPX3xXACiKVs7Ftm2jVC4QAVSwBNcXx6QZ21KeHPpMvJ8DR) |

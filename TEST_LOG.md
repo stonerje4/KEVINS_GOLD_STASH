@@ -1,8 +1,10 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 10:35 UTC** | 7d | 190 buys, 152 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 10:40 UTC** | 7d | 191 buys, 153 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 10:38 | 💰 SELL | Peace | 0.0001 | cqakon1K... | TP1 | `56J41rM5nybt...` |
+| 03-19 | 10:37 | 🟢 BUY | XPXGOLD | 0.0002 | 3AALd9Q4... | copy_buy | `3UtTvPVss4tF...` |
 | 03-19 | 10:27 | 🟢 BUY | Peace | 0.0002 | cqakon1K... | copy_buy | `5sPQj9LpDrSA...` |
 | 03-19 | 10:24 | 🟢 BUY | Baron | 0.0002 | 9G4ytadk... | copy_buy | `5n2GiiPX5rhq...` |
 | 03-19 | 10:20 | 🔴 SELL | WAR | 0.0001 | 9G4ytadk... | stale_cleanu | `4Tdrxv4wTrPR...` |
