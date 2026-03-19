@@ -1,11 +1,11 @@
 # [TEST] `G5eugJMkQmuHh4Zz...`
-> 2026-03-19 08:55 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 09:00 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| 電王 | 03-19 01:08 | 1.01x | 1.27x | 7.8h | 0.0002 |
+| 電王 | 03-19 01:08 | 1.00x | 1.27x | 7.9h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
