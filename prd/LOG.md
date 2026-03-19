@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 14:45 UTC*
+*Last updated: 2026-03-19 14:50 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
+| 2026-03-19 14:49 | 🔴 sell | Handprint | `J5jm7BnBiGaB...` | 0.718 | — | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/3pmeP3rToGp84qUAfaQkhiVhpxLEj4F9bcg3jNvj16FCYe4wL3y1AG5WsZSi5hwSg884Yre5tojePRU3pVUSXrGP) |
 | 2026-03-19 14:29 | 🔴 sell | KopiKamu | `5n593DWQkpfF...` | 0.240 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3r8nSUPRAfNfRJTARW1SgKWNVoazMXYHdqU1U22ZaRrq9BWHZywWFLJLaBk3temMVyjy5wvr79zYh1iYESXWMhEA) |
 | 2026-03-19 14:29 | 🔴 sell | TGR | `HCDsVE5Y22dz...` | 0.462 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/2RYLnFfFNptH8yJeFWGUMiaNzG2CV9VxEhdEd4UfRVijAsbxTipMX73JhTNxtihBSMDGh8G1vjcmNTPaoQNVeWRa) |
 | 2026-03-19 14:29 | 🔴 sell | USGAY | `6raSuhfig5Y1...` | 0.369 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4v2cTLiuwH83txURiWRUnP2HqqcqJe65kFwrM3rEN46kwUT3MbS13Aoizaf1n3kBVRTP3huM1yduzEVDyeVZVhFW) |
@@ -203,4 +204,3 @@
 | 2026-03-18 20:37 | 🔴 sell | SIGNS | `E79aNzAkDa92...` | 0.412 | 0.0005 | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/3cB3jaDnQg4oNwx7fitSLrVwnNhBXRBXMSYH1p3Cyygw8gbzDVdBV75ohYf3iEVMdTmKKT6QXYNHvtr2aceFx7BF) |
 | 2026-03-18 20:24 | 🔴 sell | SIGNS | `E79aNzAkDa92...` | 0.277 | 0.0005 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/2ARxtJB8c7Wg3Nry5sraRpXCVBUjKvMzbo8P9mzgT7ToHcXUBUGgbtMdzf4nC2KzWjEdp6VNZxcY7aJCSe6Kqmdn) |
 | 2026-03-18 20:24 | 🟢 buy | GroupChat | `5n593DWQkpfF...` | 0.500 | 0.0010 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/28Db2TuyqjFQhHapNHGKrCic5gw4mBwq9wiRVxVsav7vBHPxfZCECZm1rFBhqWXhLbsAunL9rJGY97Sii4rvqFQq) |
-| 2026-03-18 20:24 | 🟢 buy | Glitchiza | `6raSuhfig5Y1...` | 0.500 | 0.0010 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/3T1REDzEeGDaTagqgrYV2QtmycDmkKBWVF4TdcxSdeX8ncnEDqb2fZY4CqaRHodJh5EySC1kQT3EofqQkw3DY8Yp) |
