@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 12:30 UTC** | 7d | 224 buys, 175 sells | In: **0.05** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 12:35 UTC** | 7d | 224 buys, 179 sells | In: **0.05** | Out: **4.77** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 12:33 | 💰 SELL | Strawberina | 0.0001 | 6raSuhfi... | TP1 | `Q7FoKoUKaaTu...` |
+| 03-19 | 12:30 | 🔴 SELL | superD | 0.0001 | FoHJUYTh... | stale_cleanu | `5R89Atbdy7uz...` |
+| 03-19 | 12:30 | 🔴 SELL | BurningAlien | 0.0001 | FoHJUYTh... | stale_cleanu | `4RJgAyrmb11T...` |
+| 03-19 | 12:30 | 🔴 SELL | MiMo | 0.0001 | FoHJUYTh... | stale_cleanu | `3G8a6pUwc9cW...` |
 | 03-19 | 12:26 | 🟢 BUY | Raccoon | 0.0002 | 6raSuhfi... | copy_buy | `2LvuGyYRZprR...` |
 | 03-19 | 12:25 | 💰 SELL | Raccoon | 0.0001 | 6qTPHgnS... | TP1 | `4ASBjyT1kFDj...` |
 | 03-19 | 12:21 | 🔴 SELL | HOLLYANGELS | 0.0001 | 37FGuPhk... | SL | `2pL8MWzd46io...` |
