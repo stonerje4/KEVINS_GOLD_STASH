@@ -1,8 +1,13 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 12:20 UTC** | 7d | 222 buys, 170 sells | In: **0.05** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 12:25 UTC** | 7d | 223 buys, 174 sells | In: **0.05** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 12:21 | 🔴 SELL | HOLLYANGELS | 0.0001 | 37FGuPhk... | SL | `2pL8MWzd46io...` |
+| 03-19 | 12:21 | 🟢 BUY | SURVIVOR | 0.0002 | CZjxED3u... | copy_buy | `3MAeg9TDpd8A...` |
+| 03-19 | 12:20 | 🔴 SELL | inu | 0.0000 | 6gN2SNYX... | stale_cleanu | `5hh3EFPVNmde...` |
+| 03-19 | 12:20 | 🔴 SELL | Chud | 0.0001 | Ckm6DF7m... | stale_cleanu | `21REmwQH1WU5...` |
+| 03-19 | 12:20 | 🔴 SELL | NOLAN | 0.0001 | 9G4ytadk... | stale_cleanu | `23rEBKS8Khzx...` |
 | 03-19 | 12:14 | 🟢 BUY | Steve | 0.0002 | cqakon1K... | copy_buy | `2dfqtQeiaxKA...` |
 | 03-19 | 12:10 | 🔴 SELL | AI | 0.0001 | 3XHiDvWC... | SL | `4YvhnCAP46pW...` |
 | 03-19 | 12:09 | 🟢 BUY | Strawberina | 0.0002 | 6raSuhfi... | copy_buy | `4pd8JXZeutH6...` |

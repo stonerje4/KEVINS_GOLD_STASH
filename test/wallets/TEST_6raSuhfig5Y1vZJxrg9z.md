@@ -1,11 +1,11 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-19 12:20 UTC | **20** pos | **4W/15L** | P&L: **-0.002279 SOL** (-54.5%) | 1 open
+> 2026-03-19 12:25 UTC | **20** pos | **4W/15L** | P&L: **-0.002279 SOL** (-54.5%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Strawberina | 03-19 12:09 | 1.95x | 1.95x | 0.2h | 0.0002 |
+| Strawberina | 03-19 12:09 | 1.82x | 1.95x | 0.3h | 0.0002 |
 
 ## Closed
 

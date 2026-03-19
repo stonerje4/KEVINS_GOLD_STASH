@@ -1,18 +1,24 @@
 # [TEST] `37FGuPhkNCmBeKXm...`
-> 2026-03-19 12:20 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
+> 2026-03-19 12:25 UTC | **3** pos | **0W/1L** | P&L: **-0.000131 SOL** (-59.5%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| MrWhiskers | 03-19 08:44 | 0.89x | 1.78x | 3.6h | 0.0002 |
-| HOLLYANGELS | 03-18 22:35 | 0.45x | 1.01x | 13.7h | 0.0002 |
-| Community | 03-18 22:23 | 0.46x | 39525.68x | 13.9h | 0.0002 |
+| MrWhiskers | 03-19 08:44 | 0.89x | 1.78x | 3.7h | 0.0002 |
+| Community | 03-18 22:23 | 0.46x | 39525.68x | 14.0h | 0.0002 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ HOLLYANGELS | -0.0001 | 03-18 22:35 | 1.0x | 03-19 12:21 | 0.0001/0.0002 | SL |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 12:21 | HOLLYANGELS | SELL | 0.0001 | `2pL8MWzd46ioCehD...` |
 | 03-19 08:44 | MrWhiskers | BUY | 0.0002 | `5dox6XeqxtnTaA8T...` |
 | 03-19 00:06 | Community | SELL | 0.4417 | `2Nz1EE49KTpCYasd...` |
 | 03-19 00:06 | Community | SELL | 0.4901 | `2yJPgCvo7zGcnazZ...` |
