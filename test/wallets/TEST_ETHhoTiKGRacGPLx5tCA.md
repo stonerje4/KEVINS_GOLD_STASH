@@ -1,0 +1,66 @@
+# [TEST] `ETHhoTiKGRacGPLx...`
+> 2026-03-19 13:21 UTC | **20** pos | **1W/0L** | P&L: **+0.001142 SOL** (+519.0%) | 19 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| CHIBITRUMP | 03-19 11:51 | 1.25x | 1.38x | 1.5h | 0.0002 |
+| CRT | 03-19 11:50 | 1.43x | 1.43x | 1.5h | 0.0002 |
+| CrudeOil | 03-19 11:47 | 0.83x | 1.00x | 1.6h | 0.0002 |
+| XPXGOLD | 03-19 11:44 | 1.60x | 1.74x | 1.6h | 0.0002 |
+| NIOC | 03-19 11:40 | 0.99x | 1.00x | 1.7h | 0.0002 |
+| USAOIL | 03-19 11:22 | 0.98x | 1.02x | 2.0h | 0.0002 |
+| SPEPE | 03-19 11:03 | 0.85x | 1.00x | 2.3h | 0.0002 |
+| OIL#000 | 03-19 10:54 | 1.00x | 1.00x | 2.4h | 0.0002 |
+| DOGE | 03-19 10:43 | 0.87x | 1.00x | 2.6h | 0.0002 |
+| e-CNY | 03-19 08:53 | 0.98x | 1.02x | 4.5h | 0.0002 |
+| PEPEPUNCH | 03-19 06:58 | 0.93x | 1.29x | 6.4h | 0.0002 |
+| RevFi  | 03-19 06:44 | 0.69x | 1.00x | 6.6h | 0.0002 |
+| TGR | 03-19 06:41 | 0.83x | 1.03x | 6.7h | 0.0002 |
+| Profit | 03-19 04:23 | 0.84x | 1.00x | 9.0h | 0.0002 |
+| QuickRiches | 03-19 04:19 | 0.60x | 1.01x | 9.0h | 0.0002 |
+| p(dog)≈1 | 03-19 04:13 | 0.84x | 1.00x | 9.1h | 0.0002 |
+| GLUP | 03-19 04:00 | 1.11x | 1.12x | 9.4h | 0.0002 |
+| TGR | 03-19 03:59 | 0.71x | 1.19x | 9.4h | 0.0002 |
+| $WARSH | 03-19 03:58 | 0.91x | 1.00x | 9.4h | 0.0002 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ USAOIL | +0.0011 | 03-19 04:10 | 25.0x | 03-19 07:51 | 0.0014/0.0002 | trail |
+
+<details><summary>📋 Full Trade Log</summary>
+
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-19 11:51 | CHIBITRUMP | BUY | 0.0002 | `RprC9H5sN2sisqhx...` |
+| 03-19 11:50 | CRT | BUY | 0.0002 | `5yR7iAmnaUzyYecf...` |
+| 03-19 11:47 | CrudeOil | BUY | 0.0002 | `5um6UAKQ3hvEULEv...` |
+| 03-19 11:44 | XPXGOLD | BUY | 0.0002 | `4hUjAidUrmX5bCp1...` |
+| 03-19 11:40 | NIOC | BUY | 0.0002 | `3akDqg9KmYJgd2qL...` |
+| 03-19 11:22 | USAOIL | BUY | 0.0002 | `5Cbk74ULXb1oyLW1...` |
+| 03-19 11:03 | SPEPE | BUY | 0.0002 | `646wHVYFdxLSEyS6...` |
+| 03-19 10:54 | OIL#000 | BUY | 0.0002 | `5JvYW5saRrHvFLWS...` |
+| 03-19 10:43 | DOGE | BUY | 0.0002 | `4boKUviRCS4KAj73...` |
+| 03-19 08:53 | e-CNY | BUY | 0.0002 | `4KBGGbFLW1eHBati...` |
+| 03-19 07:51 | USAOIL | SELL | 0.0004 | `2Rtye9TXkYYnYggK...` |
+| 03-19 07:03 | USAOIL | SELL | 0.0002 | `3JXoDZYuQ16SS8hJ...` |
+| 03-19 06:59 | USAOIL | SELL | 0.0001 | `3HnMyM9S8jEU72sM...` |
+| 03-19 06:58 | PEPEPUNCH | BUY | 0.0002 | `58mumJUjuRrRJW6p...` |
+| 03-19 06:58 | USAOIL | SELL | 0.0001 | `2SAz8KDRx3ZCmBrw...` |
+| 03-19 06:58 | USAOIL | SELL | 0.0001 | `5pAngK9e34XbaJ9V...` |
+| 03-19 06:49 | USAOIL | SELL | 0.0002 | `4C2SuyK9b6TJ1GRP...` |
+| 03-19 06:49 | USAOIL | SELL | 0.0002 | `2dm7bd8ArnQZAzKM...` |
+| 03-19 06:44 | RevFi  | BUY | 0.0002 | `5MtbeDAFFWYu8Pd3...` |
+| 03-19 06:41 | TGR | BUY | 0.0002 | `3noxMSJ6hbeWJmPQ...` |
+| 03-19 04:23 | Profit | BUY | 0.0002 | `efo5CS53n7YiCqh2...` |
+| 03-19 04:19 | QuickRiches | BUY | 0.0002 | `4LjQUUWZQsz4kkap...` |
+| 03-19 04:13 | p(dog)≈1 | BUY | 0.0002 | `4SRVNHdrBab2oir3...` |
+| 03-19 04:10 | USAOIL | BUY | 0.0002 | `49bwaJqZQ6S8ZkNc...` |
+| 03-19 04:00 | GLUP | BUY | 0.0002 | `25sfNCnc9WdhwdFP...` |
+| 03-19 03:59 | TGR | BUY | 0.0002 | `3eHN21qnqhxRqNJf...` |
+| 03-19 03:58 | $WARSH | BUY | 0.0002 | `2AwumFZ1YwwqkDB9...` |
+
+</details>

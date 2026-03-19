@@ -1,206 +1,206 @@
-# PRD Trade Log
+# 📊 PRD Trade Log
+> Updated: **2026-03-19 13:21 UTC** | 7d | 110 buys, 91 sells | In: **54.78** | Out: **29.32** | Net: **-25.46 SOL**
 
-*Last updated: 2026-03-19 13:20 UTC*
-
-| Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
-|------|------|-------|--------|-----|------|--------|----|
-| 2026-03-19 12:51 | 🟢 buy | USAOIL | `DHfshpzoC9Q7...` | 0.280 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/mrpb1o2upuetE8cunYvxxwpmJA8DcUoJiaoq2DGUQJEuLFkSMw4pGyRLw5BrCdizWk95rEWmZk5Ko6h1dV5V4Lj) |
-| 2026-03-19 12:15 | 🔴 sell | DELMO | `DDApL88zun3v...` | 0.236 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/2BkGhvco3wdD2mPux6z7WaYRzccEJxdAE4WvwtChLAKVy8Wkv1TMjozApZoydjfRCS6XQaVxsRv4PnTJsUoKidc5) |
-| 2026-03-19 12:15 | 🔴 sell | OIL#000 | `HCDsVE5Y22dz...` | 0.434 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3mLv5iRJHpFk3xnagaFaKMZQGH2uFMtQ8LFAMvyp4WWaWT4qZpy8fEc1GB5cgUcY7mLZM1vZaaQcLN36aqU9CvzP) |
-| 2026-03-19 11:48 | 🟢 buy | HE-GASSEN | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/ftox9ZfpYH9cZVHeC27wcySBdvRHXNArJaQhZ5YoHbXsiykbUcPyJmVTEQPWeqQx68VbiXtdPT9jjxdVZ934ArP) |
-| 2026-03-19 11:33 | 🟢 buy | Raccoon | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/3b2z9mYEhmWL93psDdacEafUXKMQSLpLqWkzgTSm9iZyaSh1q33QQrehRH6mLeAzMeVE1rEWTtwUH72YAPAqRSYT) |
-| 2026-03-19 11:32 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/4zBWMVuxzpuvJaibPHjsjMjhxqXh5J9SaYKY74F9inRMwrSakbr86BDtDgaAx9K5kDDX5ADt3USHMxRuT8ECG9mB) |
-| 2026-03-19 11:29 | 🟢 buy | OKAY | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/53rJcT6iUDMF29tv9T6qxKHUthbgyWvbvfoL6earFW4VdKjB2AKAJDCtMUwhXDMcReXkMiWu7n3B9yZY6mDTTp8X) |
-| 2026-03-19 11:22 | 🟢 buy | USAOIL | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/25vA529du6fSwJ4ebo4p2fPeWwYhX4LUBnKWwZZEB2FMmNUNKEUUJFDbzjR7rSdYSus749YLt2JH9P9C26J996Kf) |
-| 2026-03-19 11:19 | 🟢 buy | Garbonzo | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/5cscvkeBa3tm1DFTTKPu6zRwoSvLZjYifvF2QU2znHJeg2yi1YuuJyir2Vgr6M42JVNZahtLBWRE1UnGMxB4v4Ex) |
-| 2026-03-19 11:15 | 🔴 sell | TRG | `DHfshpzoC9Q7...` | 0.369 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/24RziRhtBJQz2zF1n1Rqrep7bJ6bzecnaqNdFKxP9zAVSj4LuuM3Rhn5fQkBJyPptFy5quY3Li2ZrXtBQmgTpfDa) |
-| 2026-03-19 11:15 | 🔴 sell | TGR | `r9pFHjFe2Cio...` | 0.458 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/aoAjyam5iUbNwFXgqhgmn8fxXm4vVacDXjnsGXnrRN8S77DDnKqFEAxrMhzSkWN3HT6gt5r7Skyb1qx4aFftFrZ) |
-| 2026-03-19 11:15 | 🔴 sell | TGR | `5vweNikgScdn...` | 0.222 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/2rnPZzhVgQVudc1ddrR8SowhDaH6f6cJQiAoZZ7yZFoNLRdukeCsezEx4y5CEnBUWAX89M9h65RETjSxdaek6iwn) |
-| 2026-03-19 10:51 | 🟢 buy | CTRUMP | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/3N5Ved3igsZxjG8ADnKF3Q3DiG9WSrtAaFT7MmfUxdibY8LMhcehWtCcDNei78S7x1MaFEBgT3JEmwj5QYsXnVWY) |
-| 2026-03-19 10:44 | 🔴 sell | XPXGOLD | `DHfshpzoC9Q7...` | 0.251 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/64M9f4QuvX6rDP6UPr1FMkPqWnZQpVP345zSGCE9Vsq38ZPnbbhKEaKRNjU6CTXnur7Qb4GqMHGeZJMCR4w9tKsq) |
-| 2026-03-19 10:42 | 🟢 buy | ? | `HCDsVE5Y22dz...` | 0.500 | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/268ddEF8BYqZCqgSUv72poBoeLrV5mZnuM9Lm2zQstZZmuD7dm2A8hVX6oULq9fzap5vYyR4ymeJXu68SUwDTUG8) |
-| 2026-03-19 10:37 | 🔴 sell | XPXGOLD | `r9pFHjFe2Cio...` | 0.252 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/4AK3pBJJEtc4PLbJdXjTS2qHK5njiHvPKnGuRnd3s19wykyAF7wQh76MMo8zBU7ofd1ufV7JNfLbqVwbLWYfeLA4) |
-| 2026-03-19 10:31 | 🔴 sell | ? | `cqakon1K22iR...` | 0.189 | 0.4x | stop_loss | [tx](https://solscan.io/tx/5uW5no2ojG7yzoRyCCzketVHpw4cEY7pCeQCUWoJ6VWSvirsRiEZVq4YSjvcCVvntgDNMYdn6cnj632Ecs2muksk) |
-| 2026-03-19 10:28 | 🔴 sell | Tincat | `2w85VLX4W4qm...` | 0.199 | 0.4x | stop_loss | [tx](https://solscan.io/tx/2uRWmfHCLhuer5LcxvZbCnzmYRQAQbGCqY8wnUGHtdxPL3ygC9ZJFsgU1ddGCnjZxCAydJ547z5kUooBcAh2K3vb) |
-| 2026-03-19 10:22 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/PuBaYv4Z8xrZ457j9Jsjhf4aN1Jj6LSauJTXtRfKbPX3xXACiKVs7Ftm2jVC4QAVSwBNcXx6QZ21KeHPpMvJ8DR) |
-| 2026-03-19 10:15 | 🔴 sell | gf | `6raSuhfig5Y1...` | 0.255 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3zRsHpGb64edXAFVqw7wYM4dAbg5qUzLbaNng7PKSbuP6gs44dcnFpXfQ7ssKCzThfC3y1GHrHnqJRt8nYU3LxEc) |
-| 2026-03-19 10:15 | 🔴 sell | Chong | `6raSuhfig5Y1...` | 0.210 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/5kXa7XMBNQoivAG5dBuwb3fXq91LYBznQQvzc1CrShRpRgmpiLvqwwNFtn8kGLbiRcPVcx5Fyv2eoJhfUUSfLeoh) |
-| 2026-03-19 10:15 | 🔴 sell | MILK | `6raSuhfig5Y1...` | 0.319 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/5JT6tTaKnw4qRo6NX9K4Q5WS8QckpcTtHJUeH2Tvi96xLuBs6ZzZStGpzwqRix7rYB2oL2fdmnfQodwRyc21SC6K) |
-| 2026-03-19 09:39 | 🔴 sell | ? | `cqakon1K22iR...` | 0.142 | 0.3x | stop_loss | [tx](https://solscan.io/tx/2oK2pksQn5rs72h1qk3NAqW7a8KzhudZVjPDAf3FVCoce6n2gi83LtRSYgoK7Tf84Dmycjjf3qYrMp9svGoEAuC1) |
-| 2026-03-19 09:30 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/32u8j9WejVQUPCQNBbbBqNoqtk1Nv9froSXjKDadpSEDuJPsqSgsfsogwD4oHQrZXch2NKTDfUDY6HLZ5YyHiDs) |
-| 2026-03-19 09:24 | 🔴 sell | Billy | `cqakon1K22iR...` | 0.199 | 0.4x | stop_loss | [tx](https://solscan.io/tx/4t2yseGGEbbXbFGWMzQWZK57BY64wsWhZGopZatCoKoFMNXHE3vcVB67wGwNCb4EBxnHvU63FEDjinfzxYucpFbH) |
-| 2026-03-19 09:15 | 🔴 sell | GAYROT | `6raSuhfig5Y1...` | 0.224 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3rNwn8H84Zv5Za85YzU83TKqFfA9kborfY5gJPfqdRkHePBL6D1ht7uTyXxRHWV7r57gap8SpFtBnWM1ZUfd7ncP) |
-| 2026-03-19 09:13 | 🟢 buy | Billy | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/5sTQzkpwTWVuYe71UVynhGrSErWQb5PvzDmWvE7ERup1KeiuWubSXw5yWk18RqT5gaPV8nwpWYKJ7RgH23if38Mo) |
-| 2026-03-19 09:07 | 🔴 sell | Genesis-2 | `2w85VLX4W4qm...` | 0.193 | 0.4x | stop_loss | [tx](https://solscan.io/tx/36j42KgrQRYZbuYNrw9dk7UgswvCDcaZrRXQLSU6XryfAgCJiCtA5RNeQohuMKLrYLcJYebmCnfnVEiJYVa4dkPD) |
-| 2026-03-19 09:03 | 🟢 buy | USAOIL | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2kPUJcVmN8xQ1Z8jjFidPB24C44TL7ummrWFTfAGa981CzeRqEAq4mkHeDjgA5UcC1ZKXMKg8KnudBuuy1v7kzHo) |
-| 2026-03-19 09:01 | 🟢 buy | PIX | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5wfj2as8uYESaZiffW3qYTrwbzEG8xFA8h3idDXC63MFM1djCP5y5m7y815QaVHhLsJHFsUNaNU4f6qKJxr2yogC) |
-| 2026-03-19 08:58 | 🟢 buy | Genesis-2 | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/9Xy2Z4BHmJ3vZ1yKqmD9qAiEPKDDKg4fHcUrJWg5uc4L4jFjxt9M5VSvQkGxbdkkmgBZAz3TYBbyvEjqAYPVquf) |
-| 2026-03-19 08:44 | 🔴 sell | ? | `cqakon1K22iR...` | 0.185 | 0.4x | stop_loss | [tx](https://solscan.io/tx/3SuyqCrTN46MMtGDwR1reaZLxmPsLKkCT3z98DWLSphJ7r5foRwCbkoWGmhPtdv4TczYF6WwtzzpHthbkPLg7Srg) |
-| 2026-03-19 08:43 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/3vKi2M54HN6t3yPYWq4D2uenah7Tfutiut3BrV4vjuwPq8r1DBGvqKoYNTHkVPBopy8k4tFLuxecbzHwGSx1qNLj) |
-| 2026-03-19 08:43 | 🔴 sell | MICHIKO | `6raSuhfig5Y1...` | 0.116 | 0.2x | stop_loss | [tx](https://solscan.io/tx/2qM9qaMncHrMEB6PmYj9nQTKGEAiPtJPvLR27qJ73DdHKreq3ztTDe94Zfc459UP21BUA8WgJbfMC8TB6kzcYi2f) |
-| 2026-03-19 08:43 | 🟢 buy | XPXGOLD | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2koJgahkH8zMJ74rfDwDE8FUKiBDudn9eUE79tkLgRYgguf7ab51syji9ia31FpsAaH7oKUmYWGX1Rw4NA7STKBY) |
-| 2026-03-19 08:41 | 🟢 buy | MICHIKO | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/3jBSy4Qq53gbCHrEiGcvq2cQyR2cUfNoAoqGrzeXGaKp5pASZBAgCkXkHToP9i81n845qzUXEopXkSwZTgmNdUzW) |
-| 2026-03-19 08:24 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.188 | 0.4x | stop_loss | [tx](https://solscan.io/tx/49VRdAUaMwMFRw49ZWPaiBLnNxUJABa853ksM9CZNvSU3P3iZvbHLwEKbFKn92mWthiUGdM8cdgJCDTcLu98oF55) |
-| 2026-03-19 08:22 | 🟢 buy | ? | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5HXAbL95D8XzB83kFt8GjEa4kY1XNc3dwMVfmXtLxrJXL2ZQohvqGm7xB3m8uuAs136sXea2sX8M7hwZcBYfTUG8) |
-| 2026-03-19 08:09 | 🔴 sell | KAT | `6raSuhfig5Y1...` | 0.416 | 3.3x | tp_3x_trim | [tx](https://solscan.io/tx/4r8J1Wx94TRZ4t34cCK3odQWdQVvMc2EsuBpYf4jKzuEUi9yTY6R25XwTx39rvbJP55Lt2TbsRSF82Rfd9G7YpX5) |
-| 2026-03-19 08:08 | 🔴 sell | FUCKENING | `5n593DWQkpfF...` | 0.197 | 0.4x | stop_loss | [tx](https://solscan.io/tx/3vrX2LfQkYZR8hdzFwNJfxBc29ameNNkGcag8HEDhqq2fu1r5LGnLoT63dFgkxLbUTHgukkZrmzpW8GEwonmAEeF) |
-| 2026-03-19 08:08 | 🟢 buy | KopiKamu | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/54Ci3MPsZBQHdWKXmQoGMWtUUt7MRfYbzB1bZHvXod4QX1t53ge4Lr2sLjYTymkC8qdtk1weWKai54BFRm1yAyn8) |
-| 2026-03-19 08:03 | 🟢 buy | Spiderman | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/624ZPrBDkcFHDBb5k22jZqgnfpWemFa3PDyfASaAfxMF48nWaUvmrVMMAQUDzU3eATBGY7tcWZogSYEyMvaeXmc9) |
-| 2026-03-19 07:44 | 🔴 sell | Handprint | `J5jm7BnBiGaB...` | 0.387 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/2tEqDfJ3urm6zXLSc7wb58mUVcr4AxcZ1JM9W3Ve5TFqMeCbTxDQ2YvMUdcmy5g2as3cPQiqVaaV3aiaTGZZZSbB) |
-| 2026-03-19 07:15 | 🔴 sell | TGR | `DHfshpzoC9Q7...` | 0.264 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/65xpmWYZ1VoLVHYppfFehP6sbYjCfo4dmnqcyHra7btM7bgXFXtAkNTH2q5Yh8mgQi4xxGJESfedPHCXymi9eKRZ) |
-| 2026-03-19 07:15 | 🔴 sell | MEMENTUM | `DDApL88zun3v...` | 0.449 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4PFDX4Ao6hJCVbAhzM42CYiVQfbzVDu4HQ5MHg8SERcnawzBpKJ8UVHwkQPLkcewRKgs5DW3gyyS2cod9n4UmWnD) |
-| 2026-03-19 07:15 | 🔴 sell | OAC | `5n593DWQkpfF...` | 0.267 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4z2SZRKQumZcC4Xo7XSD9emQb7YK5PYwQaUB78CqNfsVakSwvj8JJ5wemgnYBmAiPxaUtdn4q6uLxc76FmQA5t6n) |
-| 2026-03-19 07:15 | 🔴 sell | JEET | `r9pFHjFe2Cio...` | 0.388 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/33GRe4au7pEjsQGMU5fSdV5Go9KnA3LKZfU8tPtBMpU6CNQfK9Uubnf1jFozFPpPvSczW91FBxaB7Heosy21EWdh) |
-| 2026-03-19 07:15 | 🔴 sell | ? | `cqakon1K22iR...` | 0.236 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4ayz1krcMJK7zXkZfvWJgs3VGfZwhQXNWynJm8oaR3XYPh3nMbjBHRDf3U2fxww4DRvTBNLGfHXRSm9dhkeMmiw4) |
-| 2026-03-19 07:09 | 🔴 sell | WORLD | `DDApL88zun3v...` | 0.195 | 0.4x | stop_loss | [tx](https://solscan.io/tx/643A25Up4voZ57jBbxcSMybtnbjNmKNnw9xcB2T8PkR23NWUQu4t76f76EZe3mHK13f17Qdw224xVv4ANmtxZZWc) |
-| 2026-03-19 06:57 | 🔴 sell | Gilbert | `6raSuhfig5Y1...` | 0.261 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/4VYZUUvwkZAzeuKLhaykYy3PwZo3xvcSH59CzCLQAA5uCj676GJDd26fkpwY8iNv9CNcJwqFFmuKfjxdPMZLBWT) |
-| 2026-03-19 06:57 | 🟢 buy | ? | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/2X4RTah5tXcubFsfG5dCiR5zmRecKpLXQeYh2Pd7Y8q6Wvec5Le9tFQk8b3CzCf6PLVwUEJSQUVvUC89jUupFXo1) |
-| 2026-03-19 06:48 | 🟢 buy | elonwifdoge | `7aMgK5L4qEQ8...` | 0.500 | — | cielo_copy:7aMgK5L4qEQ8Nyv6ZzhZ | [tx](https://solscan.io/tx/U5yC5JQZJ8QHDeNfHnb9ZhejjgKwfe3RZ3DfvbAKsvzaZxtss5yDwFsqPzenD6G2p6enJPcrsLGmgmptHzh4kDs) |
-| 2026-03-19 06:41 | 🟢 buy | McCasland | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/5FsMbR2fAuN2X4jjBxBzh2H5PnoX2y9TafoMjcNc1SVnwUcM868p1ETuED9rVqV8ePtTj4wBa6xJzKaLCA6ZHHLU) |
-| 2026-03-19 06:30 | 🟢 buy | Pizza | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/58uJ9ZGQpXT9JKvU4T9aZ6BzBamXjedxEnVZ3ijcZaTJqcntNpHAfvD6GM5KBZSQjFJPbFfMe629MMRHcBhSnUos) |
-| 2026-03-19 06:15 | 🔴 sell | ? | `cqakon1K22iR...` | 0.306 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/2NnDC1xMztjQNwvgSemNFhSPQTWTmVj6k7fgJVLui9eZtQfBFvUkJPs9dS1aWnTJ1b59HqxsstQep7tiEfic5yWi) |
-| 2026-03-19 06:15 | 🔴 sell | SQUIRE | `5n593DWQkpfF...` | 0.333 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/36bpZn5FeXKCQQvLP7C9pVrfZSZBDtQ9d9QinXSZxuQRP6PY7AM1i5hWcjmsffUHijt3UHiKFX549uJTEmcyn11Z) |
-| 2026-03-19 06:11 | 🟢 buy | TGR | `HCDsVE5Y22dz...` | 0.500 | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/5xwov5q48fAwvUe2jx23n5zjcTx7wvdTamX6LBqZcpENaPk2hbNa3t9AZdKp34bqTdawcAUB2y5ysfDW3Lf9Ustv) |
-| 2026-03-19 06:04 | 🟢 buy | Gilbert | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4jsSZcP5vCKLCSNse2iAamANNrc3Aa4enXuPisFbCEgHcvQtr82rk5eKWCote8L11ServdGYDPFTzMSy23ooyus3) |
-| 2026-03-19 05:56 | 🟢 buy | SCOTT | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/3KXrpQy47Q7EFjqMjYcS1Twu2wWxNnQuwm2QzaFXyuMqsVgXxbyXDpa8jecLuRB48KwdRAUZE298PkQUd9k4NdMT) |
-| 2026-03-19 05:47 | 🟢 buy | MPP | `ApkQGKbq8dRw...` | 0.500 | — | cielo_copy:ApkQGKbq8dRw5ha9n2bg | [tx](https://solscan.io/tx/5EZtGp4XR9ZoDjzmGqDSyQELvynH4hSKvKMhdcpvPTGVa6tL4393hSTUHW8CyYQv6grHthQtwaPfYvwcdj6iVuKP) |
-| 2026-03-19 05:36 | 🔴 sell | BBX | `DHfshpzoC9Q7...` | 0.376 | 3.0x | tp_3x_trim | [tx](https://solscan.io/tx/w3r6FVDq73M6ybDZ3jp34qLpmXU5MK7j8FtPrPVbAircJr14ghnWeyayrGPD4V6MkitMrNjwsiMooBcbcHhzu3V) |
-| 2026-03-19 05:15 | 🔴 sell | TGR | `5vweNikgScdn...` | 0.211 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4pVEzs2QW1EZSdbMxiSC9vmkzLGiWQ8AQbaXE1GXj3gfFgXF9VFAd7TDnDbGz9JvFuTMbmbnqYCZLJC16hCKmhqj) |
-| 2026-03-19 05:03 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.118 | 0.2x | runner_trailing_stop | [tx](https://solscan.io/tx/VrL6n4iBcN84gFwfPYSRYZWDHbbSTSY1GyE8o9GYrwe8AGiKbA4i56yHvGzGkvubTVZSmtYXbLDJQsNup4bLdAr) |
-| 2026-03-19 04:52 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.258 | 5.2x | tp_4x_trim | [tx](https://solscan.io/tx/26honsrDkJCPVsLEhZpCRrJJKgoBqjzEn4KFLLFA8b5HG9RCVua4Uo7Rs3vbk8T7H2t3E4rK9CyecedwuqWbKMmw) |
-| 2026-03-19 04:51 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.405 | 3.2x | tp_3x_trim | [tx](https://solscan.io/tx/xE7CcQQUg1jtfvFQZ3oJLXDtTwgPJ3u2kFbPxFdKWLu8MY1ZvRnpDAeNNdeiYmsdvUdVwwAPotvZTR1zzZCF59E) |
-| 2026-03-19 04:50 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.328 | 2.6x | tp_2x_half | [tx](https://solscan.io/tx/p3LeNtzcbTaJZ2gKrKyzuxX6jPkWxRA9Y4aE9cUbwyu7c6n37wbdBY5Ld2uehhX7qY8kAcrdHNvHbDLvsju46wg) |
-| 2026-03-19 04:47 | 🟢 buy | D6 | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/8w8byhQNLDBXjTQoUYqo84S3hNEsjGJXPVVuGAQGSBSMYAPbZ7nPXwF8GVTnKjKYWhCtG8PCPr3YAWMDPz1Uung) |
-| 2026-03-19 04:34 | 🟢 buy | DELMO | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/y4eWxxLheo8AfEsEyTsYpxPLi9GV6iohnrKyxcr1scKi4TMMSqQwbEV6U3b42RYbiZxCpQcT6gfboNmih8HMfSA) |
-| 2026-03-19 04:29 | 🟢 buy | WORLD | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/3PzsiC6sobRogkQEUufns22hsNRoT3W1PkzLizKFv5evTod5spQUADXr5hg2FPP9apc6BkrZ8DESTnwtHsGX9qhs) |
-| 2026-03-19 04:22 | 🟢 buy | Veggietales | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/2EUTiqmtb3PLZ8NTr1qTxrWbEyDoHT8RCqJzvPq4V1W8LE6cdVENvAMYTqpKoPfhYc95WbT2KixUiC5ov2QoKuqF) |
-| 2026-03-19 04:15 | 🔴 sell | House | `6raSuhfig5Y1...` | 0.242 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/KcTbySAN129tjffdFSkYk4yej4hqUfNqqya66dogf4g3b1z3JFWd6HquuHjzw3N8fntTsmVRvpkAcK8URcib8SW) |
-| 2026-03-19 04:12 | 🟢 buy | TRG | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/4j653Vga2Q8Einadi9rHbe1R9642aFrnEVhthvkoL41wLK5dQcCt9diqnsUQhb4y9sSAm9uh7jFaG293Xa3H3rZN) |
-| 2026-03-19 04:04 | 🟢 buy | TGR | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/5i9jb4AMkqrZ8TdB1ZW4vWL8gMVDVqYC3hagLw8TE7EdZ5XgN86E4bBWMQzhay2DTbEmxjKJi8CKjEScgRbP2M9f) |
-| 2026-03-19 04:01 | 🔴 sell | XENOGEN | `ApkQGKbq8dRw...` | 0.179 | 0.4x | stop_loss | [tx](https://solscan.io/tx/39ThpvK9Ku3va5nASQS84D5YpNKvQDYz8Q8gHwD1UKMadYNszdVVseJDACTqVBB5tHEpCL6zunrcfWGzybwkStY4) |
-| 2026-03-19 03:56 | 🟢 buy | gf | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/2pQ1gYCSq26PutNE2zV1GQdiZ1rQKhcwXM2gJkWL6UvEcqkzjUesqLnR5gwbSjUJk5dv399AsmSF2CCBN9nnMYch) |
-| 2026-03-19 03:55 | 🟢 buy | e-CNY | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2tpPjwnyUs7dZuVUaewm7PmM6qdF2Pbezt42qXxPJcGj7yJFwbF7SpjVrBmL2V6oZPqKGNDezYFUcc9Bf9fHeSTK) |
-| 2026-03-19 03:35 | 🟢 buy | XENOGEN | `ApkQGKbq8dRw...` | 0.500 | — | cielo_copy:ApkQGKbq8dRw5ha9n2bg | [tx](https://solscan.io/tx/2QgWbsNuQLPDZ69aqbZgG8wCkcBbMg1GmaX8uTio5Nhhj4vuyiKcYpe1MgLWhUCGa9vcJ7UbvUhAPhm7ACXfjQbc) |
-| 2026-03-19 03:23 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 1.299 | 2.6x | runner_trailing_stop | [tx](https://solscan.io/tx/4cjSzvpfbo1ryk3LBedvLE3Ax2E4kHhvurqqcUjLasiEau4prvhprZsmrqbkD3VPNoLyLTHV9RJ7z7e6F37xWYeM) |
-| 2026-03-19 03:04 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 0.260 | 5.2x | tp_4x_trim | [tx](https://solscan.io/tx/2Pp5PQEVom1JV8qNFQHLQCgnQduCBY8R14WdtA767XMpjFpph3oqEm6z9PnnEJq3bhuAWEy3GYMY18z9o4hyCqL5) |
-| 2026-03-19 02:58 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 0.384 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/4vDNsEhFesXRiuZWDoPMV5bDAteE4VUVHydoyKx9WuVPiKmQT1tKBT182SmJErkDJa1zDEPyas7xXWT5Rnih8soS) |
-| 2026-03-19 02:58 | 🟢 buy | MutantX | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/5H22XexbNLtSTd9fwEUsPkoRf5mQrZ1YjmJbsD4Fmvsru6PSaJYZKEYGcJhBnF17d5fUBqPcfCWTff3pGdjHYZz2) |
-| 2026-03-19 02:53 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 0.263 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/3Ku6KTho3yVFHrZYRgyERfULMRNGf3xVyq6N5ZGxc4aeJ9k87SEhSmzanL3k16DziXBmsQc8Y3CMyAy7R8bE4Qx9) |
-| 2026-03-19 02:45 | 🟢 buy | BLACKLINE | `ApkQGKbq8dRw...` | 0.500 | — | cielo_copy:ApkQGKbq8dRw5ha9n2bg | [tx](https://solscan.io/tx/5jr59xdTXpJqR2A9fdccq9V3koPrE4q9mAYk6xzRNesbYAa77GFPuEkdC9dgnzMaQfzdmANtJstVUXy55yyzgc37) |
-| 2026-03-19 02:38 | 🔴 sell | HIM | `2w85VLX4W4qm...` | 0.697 | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/52ynXXALDp5wytGrhHzsJFPbY5S8Ve1YeR87zx4XTXy9AC3wuqrvGP18mgeK6VKGM7m4DH6YQPqkYf7RXqNcKqhM) |
-| 2026-03-19 02:37 | 🟢 buy | GAYROT | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/3UDhL7F7iL7V9cgXzFtEBdUw83NFbN1fRviDvU5B6d13pMScF4AJa16eu1PMvwoSmoPha5mWttev3kGFk1CYfCrb) |
-| 2026-03-19 02:36 | 🔴 sell | KAT | `6raSuhfig5Y1...` | 0.330 | 2.6x | tp_2x_half | [tx](https://solscan.io/tx/27g8fNWdbyoxraVjEkv8wxEpLut6Pj8x3QQFBMAUmhkcrtmzEWm8pTGosjkaBByowQnJDxCANzCKdr1iWC9Pr9jN) |
-| 2026-03-19 02:28 | 🔴 sell | D6 | `6raSuhfig5Y1...` | 0.083 | 0.2x | stop_loss | [tx](https://solscan.io/tx/3tHpN9LiJ8ZVAeR26uLWFQvBXgxEPmbSa5B6T9WFv4Azc4zJGsXX6wtbFPo8RcGNsvzdoc8Zg2AZW82q59mjHW2T) |
-| 2026-03-19 02:26 | 🟢 buy | D6 | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5iB4TG9YCt5gTbc8thfKa6VPGeuk2QD6k6rwnUWwHKVbfd2auC5c9yn6kz5v58fFoQPUGpnvjAwtKNzvvZ5fnJFK) |
-| 2026-03-19 02:18 | 🔴 sell | BBX | `DHfshpzoC9Q7...` | 0.253 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/4fuPJwuE6DGLmvXU4g7uHp5HBQp7a1xay9rHGAQH1Uw9Cbij6MjtQmgJr2btSN4R6CRQju5nEAtNPgekxB6DaVqj) |
-| 2026-03-19 02:15 | 🔴 sell | Chocolatina | `DDApL88zun3v...` | 0.254 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/53xruYiyvV6uCJDjqmTGXVsUD1YDw7ye8hQrfF9zR5YWwyP2JyhjKtuHu8RZGKNfV4fZsWAFJJfutTYpnLHiD5u5) |
-| 2026-03-19 02:11 | 🟢 buy | USGAY | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/DzVYCXWYux2RRkfqXQCba3KzoBK5dGbj7dwS9JR8P9LgFvq9yQCvRp47qVr93VCizD5mcjx5BZsiJB4NXXPwuUF) |
-| 2026-03-19 02:01 | 🟢 buy | Chong | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/LwYfLbXTXgCPqfFQ6UwiL62S1H2WcYBrajSiNzKPWjUD6uf2iY9DJqQryrdSZTAGWYeFdVXPxvrAKMqCn1KDyLY) |
-| 2026-03-19 02:00 | 🟢 buy | CONSPIRATOR | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/ZgGTw93rJZVbUx3XwhTksrbnBE32KACsVrG3bGBGGKX81HWexsJJVAvbuRyDjtVzUSynsa8WpbGgt8PqxAsRwrP) |
-| 2026-03-19 01:50 | 🟢 buy | WRT | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2WTKVnr42Kskaoy2pitpQ2HW8gT2oauJtyR71CV4EfYpWKDBQxFLnqWytAc2cEKcUpqNCBRgCKvanQKUVAByvJw) |
-| 2026-03-19 01:41 | 🔴 sell | Handprint | `J5jm7BnBiGaB...` | 0.291 | 2.3x | tp_2x_half | [tx](https://solscan.io/tx/3C7XFjYa1LvDB3nsSTK2D1ULRqRec3kKwiLkEF71oqQ2zGo6XTRPbcaoKa7jqg5soZnBpfUeGfkzgurzHaoxTQ2R) |
-| 2026-03-19 01:31 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.580 | 1.2x | runner_trailing_stop | [tx](https://solscan.io/tx/5up3r4C7cKWVyrV6hSpt9yG2YanuFWgF4bZHFkCDBV3o4MW4QXbyz8fEF3xMUJg4ZbZ7xVm1L2pkJszauWMkJ8Dv) |
-| 2026-03-19 01:22 | 🟢 buy | BBX | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/45CB9p7woddX1ckGy6RfWMyhGJCpiPXErB4XjQYEeV8TKUNL5ww89FgsghUM4K3jNgLtiZi1VyCcU2qRneLvodyp) |
-| 2026-03-19 01:20 | 🟢 buy | Meteor | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/3Paw38G9fYcbQieJvnU3i8cdqiwmrRsagzxUKwbLAgcbiX6cSBuFDtGfRw7DCva2ZuHQnLfzA4sLPgbrTHSSjFZA) |
-| 2026-03-19 01:19 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.330 | 0.7x | runner_trailing_stop | [tx](https://solscan.io/tx/5cVE97DkBqtiejkfXSPao9DoECVL5vpeB6GhKksjCrF4hqjFCf8NC9vvNUhGuwReSDAGDJ1RtawM5NLLAkcFv1fW) |
-| 2026-03-19 01:06 | 🟢 buy | ALIENCOIN | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2UHUrJj7kGHvRzJrNhif8o4WtRudkWfxVEY7rhbPJqbEJKWp2upeaQAcw2WZUKQECRwEqMwWe2wkTfDqXFKDCACH) |
-| 2026-03-19 01:04 | 🟢 buy | TGR | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/4a5G9edpyJsDdKwmdZ3H4qUZmKS4dn7NfkE2aJCRrZG3T6sHo1EWM9Nv9WKwSAB7MWmhZpXAvLonkCU36GX2Mrkr) |
-| 2026-03-19 01:02 | 🟢 buy | MILK | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5xdPxB6yXeC2ddL4NVgsVibuShLE2VTjThEE6DrNdSWy9KhkCLoja44iosibnPzRgZPzW6oh5HuGWaiM8adVRvNG) |
-| 2026-03-19 01:02 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.252 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/5yuD9Erg7jFqc65Nc81qQ5jYJ8BqckkfBEpGUX8MZscuLowt1pYWD9MFCX2Uufkd61VZahv91A4YkxrP4Kek8QT1) |
-| 2026-03-19 01:00 | 🟢 buy | FTR | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/5i1wSKJa1yEq5DUfaUZL3HngzfETt8mDDSskGjWBrMfZC2zvq5t2vdtLL1o58iBgZUzugS5yjJd1UtdcFH2PVNjh) |
-| 2026-03-19 00:58 | 🟢 buy | STRAWBERRY | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4G7BG7Y8miccJgo67hJd8P3SdqyryNZWEdgPPvDrTupFnxetZ5e6LKNL8MGH83bCtPmkXid14LaGvoCSBvoaSHXC) |
-| 2026-03-19 00:58 | 🟢 buy | WRT | `5vweNikgScdn...` | 0.500 | — | cielo_copy:5vweNikgScdnGkZCC3ya | [tx](https://solscan.io/tx/4uKM1vc8q6DjkST7AzqL72bUsFsqvLzfmNtAkrc9g6NJ3iKyMbxPTgUsPbCecSCW66Fxi28a1U8HcvpYZia2tweZ) |
-| 2026-03-19 00:52 | 🟢 buy | MEMENTUM | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/44vBDk113qJkgi73TdQGnew9hh5YptNpNZ2UCpGYg9WDJfMeWHtHf6VhCGQUKLgjNTtfSDGnEKTkLyo7YUZuiEwM) |
-| 2026-03-19 00:50 | 🔴 sell | Bananito | `cqakon1K22iR...` | 0.413 | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/2fQ58NfVWvUS8cxGm9Kmj1WnAGdJBvUiiZ6eUAVD8oXBMjyPoLW2hwqXRX3YVpZ1L65x3PJ8jiDW5gcofHKMNZ8i) |
-| 2026-03-19 00:50 | 🟢 buy | ? | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5abLXj2tNavbgQ75kYF3Eemh7D5GT7rZdZuKFpiYivB8xpmsQojdnapqUiKXBYxd5PjtWZmuNjxYVj8y4ZaSdBZB) |
-| 2026-03-19 00:49 | 🟢 buy | MEMENTUM | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/3PQHpXCP8ZgPGutk8dcReBZ6G8bxt4N82SMfJ5492fRsHbg7XNCbtjUoAC4hJ1vSyD83deuz9oePKXXwYCWncePh) |
-| 2026-03-19 00:41 | 🟢 buy | OAC | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/5ExR97sXTQ14AUiQ1EtiXUaUgLz3N2sAjfM1bjsSb5Jib7qkUZKrZFyWuvFjexb5sesEWNhqreys68PED7B9phkG) |
-| 2026-03-19 00:40 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.393 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/4vg7V2iN6LQ2uPTc2GmoNgcLNHV2eqw7kZMZ58tu1f5KgSyZy6npY5davBtLAh9zkdpsLXQhZVxRoAoAurMXTZbV) |
-| 2026-03-19 00:34 | 🟢 buy | SPACE X | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/BzDtMTKxmfz9kEiukCCue9ZPZUW2vpFP1xYVZgyXpB9vPzFwuh85YtMkuXJ2g7AGi55RQEC1bvE3ji8NCxUVuvD) |
-| 2026-03-19 00:32 | 🟢 buy | JEET | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/43kWfgWYqJn26yMdAPJaXk5QFoag9tTjAvd8KdxEq6BnQLHBE56zztYgC9uWJK3xuB96v23zTmUzkdvsaTDjA9Qj) |
-| 2026-03-19 00:29 | 🟢 buy | XPXGOLD | `DHfshpzoC9Q7...` | 0.500 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/4gBADJ488qGyWjs9SQBRkC2n3NdmPeAU13BPANFJ5EZXXUCopJmHhnMRPp58PV13YbvYpmUJpAd4UCjXauVe5ynE) |
-| 2026-03-19 00:28 | 🔴 sell | SWMR | `6raSuhfig5Y1...` | 0.725 | 1.5x | runner_trailing_stop | [tx](https://solscan.io/tx/5DaDKcSYd4VSLEa1VtTvVXBiJp1hYMNexpMdri554gcW68jxseUnjNjRn9bkLczT5P5Zrh8WSDR3AUrT4DNnRARc) |
-| 2026-03-19 00:23 | 🔴 sell | BLU | `6raSuhfig5Y1...` | 0.359 | 0.7x | runner_trailing_stop | [tx](https://solscan.io/tx/4USCe94ogSVYDAXjnjgp3KFVvKkUyw6enWFeswZDNjRdL1ZB6y6zNUWBXobDkeWUAoHmixFF1XqKifRQEBKnDegD) |
-| 2026-03-19 00:20 | 🟢 buy | Chocolatina | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/4tACuaDyfsWCL1pV8NpSUc4KsWJXfJr6M8Qo7i3HTBS2HA4dsiiu47EbZkFAD4A5MAjm14bEXRg9hArS7FVyTcxS) |
-| 2026-03-19 00:06 | 🔴 sell | Bananito | `cqakon1K22iR...` | 0.263 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/E4gCUqFmk9jZyWDxcq94NvojxxPcohdwvqcWzYq983sgkk6QqDecoa3DGCrMz9F8JKQkBnYVZs6nH35NcCqjBNh) |
-| 2026-03-19 00:06 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.255 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/25fPLGNccDw19qukj6dpmY6efXEMzwwW8QHLmWFohVuyvQWe7Lq6TZ9qpEqNFjccu4kTK6gJTnrndqLXwEUkiJGA) |
-| 2026-03-19 00:04 | 🟢 buy | Bananito | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/5RCFK2oPW8gU3yYmGKv7zeFG22ZmN2Sx9wtjsYRHGtQhov8a73uLMbnM6p1oZdYxn3jcg3YLVsquJmX5DWSk7YPq) |
-| 2026-03-19 00:03 | 🔴 sell | BLU | `6raSuhfig5Y1...` | 0.251 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/48XoPLxJ2BMtd44z9V9aytxAaP577T479ho2ZJCPB5YEGKkuJFTqtYS5fR783QJJHqvmsRoxZoY674EXvttstGtg) |
-| 2026-03-19 00:03 | 🟢 buy | ? | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4qfu3aPKb87Xtwt1nuJsVDBHaAUF2MwWXK6ptCzWDMtKg25iCuN38Qy9uhUbn89dxFDVs5mRZYdALyRpFmZHXzZE) |
-| 2026-03-18 23:54 | 🟢 buy | BLU | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/DpbiBdwWHFXTZbGFsjDmjzHTarqzwk5c6U867BHXm4YLHcRqvJRD24raFqmvwbSKa2dt5NMiFLTj1UCxyLFo2R7) |
-| 2026-03-18 23:54 | 🔴 sell | HIM | `2w85VLX4W4qm...` | 0.375 | 3.0x | tp_3x_trim | [tx](https://solscan.io/tx/2DYPFvkQE5SrKHXPogfVUmErgcRxsfx1KNtyVG7La5MnBPC2SEfmj27LaTcGfVaGTLY1azHj7fqpTnyytcZQXXih) |
-| 2026-03-18 23:47 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/3PbEmNFL1RXp8bWX3CDGEPjqCmjKG31YpHQJBPLZsBF7MmDS6M4iNjB2ZxTRdFFzkF6geuCHCPupQss9yQWg4541) |
-| 2026-03-18 23:47 | 🔴 sell | HIM | `2w85VLX4W4qm...` | 0.252 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/4NqJt39GeXMYJGK6hDTezCxLNvQbXGumqKELvTrZZgKWRADBaQZGMmf94uBb2uBHmbd713nVeZVrfbAuB9d89Zrz) |
-| 2026-03-18 23:41 | 🔴 sell | Catrot | `6raSuhfig5Y1...` | 0.194 | 0.4x | stop_loss | [tx](https://solscan.io/tx/4RiPCBXfNaCcc9gCosqHgRER3pyHyYjMwbDS1U19oDH3jDKgNrwLigP8a72TZ7d1NBbHMxTm5yzhpxTTJdgPD75o) |
-| 2026-03-18 23:41 | 🟢 buy | Goose | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/2NgfCJZ5trsjkrd9bsyYC2bVDPSfBRTeCzL3bHsPSu3uy4D62DL3qMVc6ahczsmGXmkuw9aSQquDaXwMwSY2QYsC) |
-| 2026-03-18 23:36 | 🔴 sell | GNORTS | `6raSuhfig5Y1...` | 0.196 | 0.4x | stop_loss | [tx](https://solscan.io/tx/sh3AiJxPrnYra4phigAr5tCERkq3wAmdVcDgh5SZDkCEEcCEpNb8PZ5883s55i5VLjyVJRbNGjwtPkvfznDHFsM) |
-| 2026-03-18 23:16 | 🟢 buy | TGR | `5vweNikgScdn...` | 0.500 | — | cielo_copy:5vweNikgScdnGkZCC3ya | [tx](https://solscan.io/tx/25tq4H2Fau99pQqw2V7nL5yUgMpcYJXdW1uTEXVzJNspXQjVoYx1GQUpCCMJTWvQeGFCjwxJS5CUpLB3VZahdHqp) |
-| 2026-03-18 23:15 | 🟢 buy | SQUIRE | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/2SWzGWyHxSLLiicQpeH7MjwiNuyab7CxWceV6np145xETUvJLf8KhSmPYSdeqQvArtiBDjSuga6ao1Jy6ALj6G4p) |
-| 2026-03-18 23:14 | 🔴 sell | SWMR | `6raSuhfig5Y1...` | 0.416 | 3.3x | tp_3x_trim | [tx](https://solscan.io/tx/5krWR2vqy2KQ6QRU2iA1NKNxSFCkFQKU9DVZbCFoLb3ByJ9kHUMqesTinAZ3DF92p6HCWzTf85nr44Z5aHDBouyq) |
-| 2026-03-18 23:11 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/3PZh1MRo5e1tvmW5EUVvnSUnYxDpyE1yK38hka9qaZ3jAS7dy6UQ8MeRukvJZwRJfTP37ik1rukwsC4DVzA6ytbw) |
-| 2026-03-18 23:10 | 🔴 sell | Manchas | `J5jm7BnBiGaB...` | 0.179 | 0.4x | stop_loss | [tx](https://solscan.io/tx/3UAcRenvP8NDUy84tjLDAgCGvnrhnsYeNrSn2Ay4WomtMyARFQeo3v4kK4Can4Aa7h4LUEfET7peW2UBpkXt7uxY) |
-| 2026-03-18 23:09 | 🔴 sell | RUSH | `2w85VLX4W4qm...` | 0.192 | 0.4x | stop_loss | [tx](https://solscan.io/tx/22uL1Qv5btwgzfEzCCCt6ZMHMdr8H6aXqyKoGUQqcPrbQXiu2T9DwDwBdrDobpCoeWxjKx7s2wCMEGvejfGi3JgA) |
-| 2026-03-18 23:08 | 🔴 sell | MK1 | `5n593DWQkpfF...` | 0.198 | 0.4x | stop_loss | [tx](https://solscan.io/tx/244rWG6ESSztzLd9YEnE3Zu1X7meoy8ZDD19SagD95xzpmDJzZQziMZwf7RtPhgYzXELBahbT4QmghMxXmGNoUZY) |
-| 2026-03-18 23:03 | 🟢 buy | GNORTS | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5nJpa9pVBZ63abudZKNpiyavky8nD2oogAUejdSFcwoH1ws8WLFZVNFuZZLFEpjEjysDGM9Z3xMSi99SgStKHQob) |
-| 2026-03-18 23:02 | 🟢 buy | MK1 | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/5BjqPoX7oQosVdwRshm2pEFwapoffeCABm5yNk53JguVYS3wGHBFm6SR19i6dJLQ2A4eKaP3rLBZqdwqRDSJ9Vmi) |
-| 2026-03-18 22:59 | 🟢 buy | Catrot | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4vdxhk1NkwvyH4G7cJp97huf6GqxMKWuaB8U2SKWzufqJom8hTR6V2NJ5j7PoAQa4xxXMfXuZENwpjhDCUszBRJo) |
-| 2026-03-18 22:58 | 🔴 sell | SWMR | `6raSuhfig5Y1...` | 0.272 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/kKszHocVSo9k5BcYTjo6gTGNL1LPNfSq8iVbgrMzghUCvYuUPPW6hPdGV3KTubmNrveEtU1qG1CB6jp9cjPrZ3A) |
-| 2026-03-18 22:46 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.702 | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/4AKxXsWafNjJsLyHoRi4nnhCZB2JqV1eZgRwPVitT1tuwGnje4nRqx1KdzvTpbu6ZYwgrSXWi4qEE4jVAc8MHdGv) |
-| 2026-03-18 22:32 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.396 | 3.2x | tp_3x_trim | [tx](https://solscan.io/tx/5hAeYzM4sDSfJ5NVb33R73Xi8ro7FBbMatpiMV7wQoVBCqC1RdPFAna79xkhJedRjkDNeN2r24pRnJynyEw58sjV) |
-| 2026-03-18 22:30 | 🟢 buy | FUCKENING | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/SJRUw2X1rLh1WK7L6o1iff2zQY74erP1MfuhhPsjdwHbqQVWGePHrTcoPAdAzxeTmquqYTMEiwjqpo8GkXh7yMm) |
-| 2026-03-18 22:21 | 🔴 sell | FOOL | `HMM6RoT2Xo3B...` | 0.412 | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/4ippeMuPocvafxuyBK2pZXYkSHkQeRncppfFFqjygqwS8KikUFxmLCTLXZJ9aQEFRpsDSzWoAC47vMLXZNdjZa14) |
-| 2026-03-18 22:19 | 🔴 sell | Pumpfun | `J5jm7BnBiGaB...` | 0.179 | 0.4x | stop_loss | [tx](https://solscan.io/tx/2NWHwr7Fz1by6tAvtxqmfmT3aJtbzCobdDPztJ6ZAB6SzozEsryJQhmKb3hgiLxhYYZVkPmrcPqY7Jbcu1kg2nUT) |
-| 2026-03-18 22:11 | 🟢 buy | KAT | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5zxV7QprEa6ueNUid4N1vbtsjYoYJBiZu7NPmFHcSCgH3yZWip3NndH4vPTkFSTsgmxAUBg6ngvvQb255qAmZe2t) |
-| 2026-03-18 22:09 | 🟢 buy | Manchas | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/34CfjNrgEnYBGKsbq17M7Efe5fN4uuD7TiFr47LxJjQi3C3R4yYVJPuBvsoPu5SKEKxacUfGEbNjrRHAU1dfLxz5) |
-| 2026-03-18 22:08 | 🔴 sell | BERTIE | `J5jm7BnBiGaB...` | 0.197 | 0.4x | stop_loss | [tx](https://solscan.io/tx/5rSkj9QCRBrA2APEmZ1As1gMNik6aB6C2KA5jXKfkNL4gJ4wiVkHWogmg267FC35z3GgPY66FmdYuYjwjRMcCkej) |
-| 2026-03-18 22:08 | 🟢 buy | RUSH | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/2pXZrz6wPCpQ7efCdqKFiHqjwX7QYCAVAKJrhKCLUBBF2oWqxJ3urFMkQMYt65eHePJKK8FhuwmrzvyWK32ino4f) |
-| 2026-03-18 22:00 | 🔴 sell | FOOL | `HMM6RoT2Xo3B...` | 0.258 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/MTitfoDaPdKvc9bUsyq1Wc3bTPZM7zzmD9T2nDVQD6kHf7wqyeS9KWeLCiEKcwwSU38KTznCQdBxneEiKjc3bLm) |
-| 2026-03-18 21:58 | 🟢 buy | TGR | `5vweNikgScdn...` | 0.500 | — | cielo_copy:5vweNikgScdnGkZCC3ya | [tx](https://solscan.io/tx/2m6U5PPnwULKQT6EiZ6hAoA67nbwyKrD8SPZMBbUo6Ut4MHNJN8fJ1ZHKLbe9aB2DxifGnvQHSTyX4uRJ2rx2r1p) |
-| 2026-03-18 21:56 | 🟢 buy | FOOL | `HMM6RoT2Xo3B...` | 0.500 | — | cielo_copy:HMM6RoT2Xo3BNfD5FTNs | [tx](https://solscan.io/tx/5ponJwTXHRQuaPZx2yZH9o89gjbmd2RNKofAdY9556KSDqHJPCsMKmiJbwY2kwdv6UveMs5LVHps8xNRS5xdLhQZ) |
-| 2026-03-18 21:56 | 🟢 buy | BERTIE | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/4LumiLvyTJwt2nKFMLgdzFA9FVgNNdFnsHeiR8BtLpuwxgy6EMt6e7V1S1HXqnfM3dsJZN6ryFtBXBKbWR4H8kGc) |
-| 2026-03-18 21:55 | 🟢 buy | Handprint | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/2e7mV1G1iK15ffR5Cu2k1pcXaX9LmmLR7vAoGaR3maBJVygciWN6ecay4ex1AjRiw8EhxwyKAkL1AFw9BnrQ4Nrt) |
-| 2026-03-18 21:42 | 🟢 buy | Pumpfun | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/47h3hM3M87Bwz3cAzTF9mj8dyc1d4SjWhNNwUhH1QBXAbPG6UhAHN3koV4qHymct5BHGkAwTYQSqvLMPW6ih9maw) |
-| 2026-03-18 21:29 | 🔴 sell | DEATHMASK | `6raSuhfig5Y1...` | 0.171 | 0.3x | stop_loss | [tx](https://solscan.io/tx/AmN4u8FiK7p9YhqWWdcrYFBsvRm2BMtn8Me6EAzYYKYqMxvkH7KUYiW9ezb8MnHo1ACHxDyQqGcHWPhiZtkNdjR) |
-| 2026-03-18 21:29 | 🔴 sell | SPOON | `6raSuhfig5Y1...` | 0.276 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/3C7Z5vEM76mVTSMzJE5Ls6VqRXKLkFuhr93xVTeUK6j8AQLNw4V6gpLN6vq4ABDtv792dqnBKXyzxy5WnT7MW6yT) |
-| 2026-03-18 21:25 | 🟢 buy | HIM | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/34GqiN9wLu86rfNuaRRyLaq6nFPJzMEupya7jvLMUocgDU8qBBfpayCg3QQUfkLrsA3zeeZCug3cn9QhuSCKZRwe) |
-| 2026-03-18 21:22 | 🟢 buy | House | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4P4VKLRSEHuWrLEjL1pDq3scUneoKRQxo4m8GKv5u4Ak4LWWrmYGtCN24k44EZeWvs6qsrb6KPDUEGSJFHdjYBje) |
-| 2026-03-18 21:20 | 🟢 buy | DEATHMASK | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5h2qHUXTth9mtfa96DgcdeqGwP6KfQJWZNoLdZqaacUrecdQc5341GHAJwcgUNV7M5Vsg3ZqEMtaFMxyrHNggPk9) |
-| 2026-03-18 21:16 | 🟢 buy | SWMR | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5xT7sRgufhkdsrd3xw2cMNxPhP75yLePnCBimX1QXNPWNoindDsVjSXrkDmp5PsyPLGVG9kTEYQqi1JoA3FFY2wj) |
-| 2026-03-18 21:15 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.276 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/3RHQGqpZYjLJbC95SpRVirQNG5qTmhvAuK6dKmy3Zk9YaSRyP6RbfPeBib2D9kbEEH9r4aZpGU3w9nVD4RHzfcU) |
-| 2026-03-18 20:50 | 🟢 buy | CHOCOTINA | `E79aNzAkDa92...` | 0.500 | — | cielo_copy:E79aNzAkDa92b5bnBHED | [tx](https://solscan.io/tx/5fNY6TqpxqDP9S1aCmDmE2wiVqg7YrhjhK4xU1LoGkRfJaDZ88aPERP1cPtHrYBh1MfLxof3jszR3SoibaLTxpgw) |
-| 2026-03-18 20:49 | 🟢 buy | TR | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/2qoNaq5yFWy5U5jG1wTbi2KpXtM6XTJa7mfWvMuxiS65vRnNUwHa4AmbHiViaDPiFz1N2fmqY6J5FZaQ2FThcJiV) |
-| 2026-03-18 20:48 | 🔴 sell | GroupChat | `5n593DWQkpfF...` | 0.391 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/64rVP8g1376j1CZjJSs1U7f5HryTrrtwZtTkWmfr8VnBKWRi8t5GzfvTrXnUcmzGqRvat9dDQ9QjHRGREzZEbJk6) |
-| 2026-03-18 20:48 | 🟢 buy | IVERMECTIN | `J5jm7BnBiGaB...` | 0.500 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/5B5RWMctJ2ApU9mdCFMK4dDwiFofZjhbDfHLc9JFB7AXCraqQMD2UveKNGoBQ3oE7C67Wys3A69BEsjdtbgWMwck) |
-| 2026-03-18 20:46 | 🟢 buy | Tincat | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/3DVkCJQTcWztZbArYG1Ycda6J6V1vYC6TEAnc4ELA3X7jV1HypCbQTpog9oSEgdBiYWBYVweNHhzuoCegnN4fd9a) |
-| 2026-03-18 20:43 | 🟢 buy | ? | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/2dFR17AG5tKAKHfMytsrdvFYAZFWh8af2LBi7R43ehp7RvqziSFufkweaRVpEsvspurPQPsuhZJNBJStotniqsvC) |
-| 2026-03-18 20:37 | 🔴 sell | GroupChat | `5n593DWQkpfF...` | 0.250 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/cqAQ9YuDEZNR2PjzFTFJ7rnA8t2sZwiD3eKceXSSr2ebz9jXqcPJBpWkwqoQAkkcyyUyEXXU5fijGr9dnbxCGhw) |
-| 2026-03-18 20:37 | 🔴 sell | SIGNS | `E79aNzAkDa92...` | 0.412 | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/3cB3jaDnQg4oNwx7fitSLrVwnNhBXRBXMSYH1p3Cyygw8gbzDVdBV75ohYf3iEVMdTmKKT6QXYNHvtr2aceFx7BF) |
-| 2026-03-18 20:24 | 🔴 sell | SIGNS | `E79aNzAkDa92...` | 0.277 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/2ARxtJB8c7Wg3Nry5sraRpXCVBUjKvMzbo8P9mzgT7ToHcXUBUGgbtMdzf4nC2KzWjEdp6VNZxcY7aJCSe6Kqmdn) |
-| 2026-03-18 20:24 | 🟢 buy | GroupChat | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/28Db2TuyqjFQhHapNHGKrCic5gw4mBwq9wiRVxVsav7vBHPxfZCECZm1rFBhqWXhLbsAunL9rJGY97Sii4rvqFQq) |
-| 2026-03-18 20:24 | 🟢 buy | Glitchiza | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/3T1REDzEeGDaTagqgrYV2QtmycDmkKBWVF4TdcxSdeX8ncnEDqb2fZY4CqaRHodJh5EySC1kQT3EofqQkw3DY8Yp) |
-| 2026-03-18 20:18 | 🟢 buy | METAMEME | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/5fBqPXh2ZGVennBezrMcbxzv4sFLZMsug29qyEXHodES35GTDQ5omq5DvUqtiVjxJRw2LgXbKLXD7eDuM3oSFEH) |
-| 2026-03-18 20:18 | 🟢 buy | SPOON | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/3Snd4nJdeGSCrrHDhvaZYSs4Kpk5kqGHnCsgaatFyeeHRn7LjynHcBxvVgZAK6SgGdqnyrMEsMjvpmSrQCVHgZfH) |
-| 2026-03-18 20:13 | 🟢 buy | Type | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/24V1qkyXYCPAJmtPmCo6qvkg4vBPg9o7ReGw34whNsXYFh4a8hBQL7Lbw6cVFfpgySQ9hwbvREJ5ZgRYmCoMXXiM) |
-| 2026-03-18 20:12 | 🔴 sell | ? | `2w85VLX4W4qm...` | 0.175 | 0.4x | stop_loss | [tx](https://solscan.io/tx/2xU3eMBxNPigSqKmydhjyHcqdTFyxYtLuys5FQGqvgqWy6ac2XhNMsLYCWcxkYmyPR1EJ9vdxk3oTk4b8Av6GR1b) |
-| 2026-03-18 20:10 | 🟢 buy | SB | `DDApL88zun3v...` | 0.500 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/HgxUTktonvV7gYyPdUdKmrDCBZCnm9s7uMgxFT1Gsn1HiePyzC1hsGRCabNLqsMrt3cfCyfJYQBESKbNNUvtAkR) |
-| 2026-03-18 20:09 | 🟢 buy | ? | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/3N6KigsqQ3mtS8Msgpd4jyKWrJckgUyEiKfPEuhYdoePQDsc3MR46Qavx2ga8JCtc5pxMgpFS3fgKzGVF7k8Pej9) |
-| 2026-03-18 20:08 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.197 | 0.4x | stop_loss | [tx](https://solscan.io/tx/4Tcpw9gsrKztPHEvPzyuG9TMoyV6mA1eAqCJtX7ZLuWyitfrjxZaP7KjYXBfExRnvBmnoAPtbf4Ec5XJH1FBdZst) |
-| 2026-03-18 20:06 | 🔴 sell | POLSIA | `5n593DWQkpfF...` | 1.304 | 2.6x | runner_trailing_stop | [tx](https://solscan.io/tx/42yttPjZT5rrGkvMWD6S28xnKQTZ5dnxNnm8KYzVrWF6hUFRZmnxkLWsobeNF1bPuH8bHBuE1vRceQWuXmhEyH6S) |
-| 2026-03-18 20:05 | 🟢 buy | SIGNS | `E79aNzAkDa92...` | 0.500 | — | cielo_copy:E79aNzAkDa92b5bnBHED | [tx](https://solscan.io/tx/hE7XwKPtmNSJ5D4cM8ut6gZEy2ACM7QF31uVPw9rnijueNgcrQq6K4UmtWJ5mnLwcE7MZjt7YWHqj6XCjxtaU7Z) |
-| 2026-03-18 20:02 | 🔴 sell | POLSIA | `5n593DWQkpfF...` | 0.261 | 5.2x | tp_4x_trim | [tx](https://solscan.io/tx/5yJLL3N3smkXdsgaPdfpSdLQDTmrNLPpL444zhxVdvoSpv3eBk3iHSQXHsCv8L3HSPGvYFmJU2oFiV62W7kU5Aeo) |
-| 2026-03-18 19:57 | 🟢 buy | ? | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/22F9PjEa2bdKPNSLUxTYpueWbmSAq7oB738yiLcKx2swEqqKLTihZUAcQZWwSNDMyPKe5Lpze9s46KS8cBL5bsxP) |
-| 2026-03-18 19:55 | 🔴 sell | ALICE | `E79aNzAkDa92...` | 0.191 | 0.4x | stop_loss | [tx](https://solscan.io/tx/4pFSJdEDuQwxdCn93YtYivZWHftNUVDFRN6xeCNGwcuiFceBjBX3wiy2Hri9mK4rdaeTug9QCVy4TTe39xErh9HU) |
-| 2026-03-18 19:52 | 🔴 sell | POLSIA | `5n593DWQkpfF...` | 0.483 | 3.9x | tp_3x_trim | [tx](https://solscan.io/tx/5LYk5WFH3QLNEN7ELytn8Y39GAvWCzVPazsvKLiT4ydZgSkmtvvvKrsPBNk5yFXsMf43gNH3MDjvZMfQNF6UQHZR) |
-| 2026-03-18 19:50 | 🟢 buy | ALICE | `E79aNzAkDa92...` | 0.500 | — | cielo_copy:E79aNzAkDa92b5bnBHED | [tx](https://solscan.io/tx/3knKz1oT7Mf3XKz3pSR9Z4ApDAwzHSGaT3FGxs1jyh1R7eVzqpuzUr9wwVu6b7g3A5bMcpL1o35AM4NS8PaZLNa5) |
-| 2026-03-18 19:44 | 🔴 sell | POLSIA | `5n593DWQkpfF...` | 0.369 | 3.0x | tp_2x_half | [tx](https://solscan.io/tx/5pScSosqyNC6qsSQXqRknm66Sgk4ebcjdSyR7mwx8KUzrmiDsNCPYjhSP6Ps6uUmTEiR3RXHZcrvNFZ1wAUehCfn) |
-| 2026-03-18 19:44 | 🟢 buy | Files | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/q5gNNrhQgyYhZ9mkyfuGfwri8jh3umuWM4BKc9C32QB6u4FiLcRR5zeNUE2V5UF69Q9BWnKAQTzR9QGqznLXim5) |
-| 2026-03-18 19:42 | 🟢 buy | POLSIA | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/5cgrpubiKHmGmBiqMfZiE43pd8L7vyT9FAF3DbKUB7Q3HxSEu9xWAurdMmTedFwAwR1j6XKHFqx1TnZkGhnDZXik) |
-| 2026-03-18 19:35 | 🟢 buy | TGR | `HCDsVE5Y22dz...` | 0.500 | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/3zjqEs7XvAudx8oPhwcTDofYxyiXq9cEyn5x7tPjPi5Sk6TK4A7memv3UHH6mqBSVQyV34ESTT51arcAnGGfHnUQ) |
-| 2026-03-18 19:31 | 🟢 buy | functionless | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/3HSQQLgjgtc9jWRrLtUJ3kM7i7UoKkatZz6dXPi6mhyGa2wr6uzwZmiMNVxnJUxSRZ9tqPGRnAkQxiSzkuAejrhL) |
-| 2026-03-18 19:22 | 🔴 sell | QWIN | `5n593DWQkpfF...` | 0.708 | 1.4x | runner_trailing_stop | [tx](https://solscan.io/tx/PkopCqoUbMXfHL5mze9wC8TvXLQuuLyHuQ7oEcaTGXJWavW7BdHsGXKcbn3jRhCL8DcK3cZrtdLZR6yH6FFXjRW) |
-| 2026-03-18 19:14 | 🔴 sell | QWIN | `5n593DWQkpfF...` | 0.449 | 3.6x | tp_3x_trim | [tx](https://solscan.io/tx/67ZvSErW15GAitGtQJkniVBPyJUU8pSAPbGXPd5PkL3fZacHaAUiqCtUqtyiu3JkB7VqDPNctV7xq1p7wCQWEZxS) |
-| 2026-03-18 19:14 | 🟢 buy | GroupChats | `E79aNzAkDa92...` | 0.500 | — | cielo_copy:E79aNzAkDa92b5bnBHED | [tx](https://solscan.io/tx/5Paxpk6aLQ3SmFoF2j2Gy95yMY63FRWVtCDTP4Pzg8mR344sPiV7AksqdzYyxC1qqr9N2YCXj8Y6EL6H5Va4M1vQ) |
-| 2026-03-18 19:12 | 🔴 sell | QWIN | `5n593DWQkpfF...` | 0.319 | 2.6x | tp_2x_half | [tx](https://solscan.io/tx/4P8f825nRvuNo8ngTY2dJGRRSqCQAuMTYCze2TgdXRjGpomzQnr8Vreadzqv34GkHewcN7vz9dBaSDqmic5C9G6V) |
-| 2026-03-18 19:08 | 🟢 buy | QWIN | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/49VW2rieyUMHBQGd7UUmKKca51HpoWJd7nP761iZc8SQ2zK2mXPm9z8vY5teCKRR39sdcEWHsEgREuEETbRMtHEW) |
-| 2026-03-18 19:07 | 🟢 buy | ? | `HCDsVE5Y22dz...` | 0.500 | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/TkH9krqcFDkQ88v8AenALwMko4S3SfJpJuAEiEd7vUb9ztnwnJYTftnrRqcPYuH9bmAeVXffZAeTqyH7jgtKsvQ) |
-| 2026-03-18 19:02 | 🟢 buy | WAR | `HCDsVE5Y22dz...` | 0.500 | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/5DcQRY7JjGUmCMtoAFZDvANtqDfGQ9sp8c1RcjoR7vnCsNuaeWV7EN9nprUX7hmi1zqcfn8wkZ2xnaP3GJ6pMnSY) |
+| Date | Time | Action | Token | SOL | Wallet | Reason | TX |
+|------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 12:51 | 🟢 BUY | USAOIL | 0.2800 | DHfshpzo... | copy | `mrpb1o2upuet...` |
+| 03-19 | 12:15 | 🔴 SELL | DELMO | 0.2363 | DDApL88z... | stale | `2BkGhvco3wdD...` |
+| 03-19 | 12:15 | 🔴 SELL | OIL#000 | 0.4336 | HCDsVE5Y... | stale | `3mLv5iRJHpFk...` |
+| 03-19 | 11:48 | 🟢 BUY | HE-GASSEN | 0.5000 | 2w85VLX4... | copy | `ftox9ZfpYH9c...` |
+| 03-19 | 11:33 | 🟢 BUY | Raccoon | 0.5000 | 2w85VLX4... | copy | `3b2z9mYEhmWL...` |
+| 03-19 | 11:32 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `4zBWMVuxzpuv...` |
+| 03-19 | 11:29 | 🟢 BUY | OKAY | 0.5000 | cqakon1K... | copy | `53rJcT6iUDMF...` |
+| 03-19 | 11:22 | 🟢 BUY | USAOIL | 0.5000 | r9pFHjFe... | copy | `25vA529du6fS...` |
+| 03-19 | 11:19 | 🟢 BUY | Garbonzo | 0.5000 | 2w85VLX4... | copy | `5cscvkeBa3tm...` |
+| 03-19 | 11:15 | 🔴 SELL | TRG | 0.3686 | DHfshpzo... | stale | `24RziRhtBJQz...` |
+| 03-19 | 11:15 | 🔴 SELL | TGR | 0.4578 | r9pFHjFe... | stale | `aoAjyam5iUbN...` |
+| 03-19 | 11:15 | 🔴 SELL | TGR | 0.2218 | 5vweNikg... | stale | `2rnPZzhVgQVu...` |
+| 03-19 | 10:51 | 🟢 BUY | CTRUMP | 0.5000 | 6raSuhfi... | copy | `3N5Ved3igsZx...` |
+| 03-19 | 10:44 | 💰 SELL | XPXGOLD | 0.2507 | DHfshpzo... | TP1 | `64M9f4QuvX6r...` |
+| 03-19 | 10:42 | 🟢 BUY | ? | 0.5000 | HCDsVE5Y... | copy | `268ddEF8BYqZ...` |
+| 03-19 | 10:37 | 💰 SELL | XPXGOLD | 0.2522 | r9pFHjFe... | TP1 | `4AK3pBJJEtc4...` |
+| 03-19 | 10:31 | 🔴 SELL | ? | 0.1890 | cqakon1K... | SL | `5uW5no2ojG7y...` |
+| 03-19 | 10:28 | 🔴 SELL | Tincat | 0.1991 | 2w85VLX4... | SL | `2uRWmfHCLhue...` |
+| 03-19 | 10:22 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `PuBaYv4Z8xrZ...` |
+| 03-19 | 10:15 | 🔴 SELL | gf | 0.2546 | 6raSuhfi... | stale | `3zRsHpGb64ed...` |
+| 03-19 | 10:15 | 🔴 SELL | Chong | 0.2099 | 6raSuhfi... | stale | `5kXa7XMBNQoi...` |
+| 03-19 | 10:15 | 🔴 SELL | MILK | 0.3189 | 6raSuhfi... | stale | `5JT6tTaKnw4q...` |
+| 03-19 | 09:39 | 🔴 SELL | ? | 0.1421 | cqakon1K... | SL | `2oK2pksQn5rs...` |
+| 03-19 | 09:30 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `32u8j9WejVQU...` |
+| 03-19 | 09:24 | 🔴 SELL | Billy | 0.1988 | cqakon1K... | SL | `4t2yseGGEbbX...` |
+| 03-19 | 09:15 | 🔴 SELL | GAYROT | 0.2237 | 6raSuhfi... | stale | `3rNwn8H84Zv5...` |
+| 03-19 | 09:13 | 🟢 BUY | Billy | 0.5000 | cqakon1K... | copy | `5sTQzkpwTWVu...` |
+| 03-19 | 09:07 | 🔴 SELL | Genesis-2 | 0.1932 | 2w85VLX4... | SL | `36j42KgrQRYZ...` |
+| 03-19 | 09:03 | 🟢 BUY | USAOIL | 0.5000 | r9pFHjFe... | copy | `2kPUJcVmN8xQ...` |
+| 03-19 | 09:01 | 🟢 BUY | PIX | 0.5000 | 6raSuhfi... | copy | `5wfj2as8uYES...` |
+| 03-19 | 08:58 | 🟢 BUY | Genesis-2 | 0.5000 | 2w85VLX4... | copy | `9Xy2Z4BHmJ3v...` |
+| 03-19 | 08:44 | 🔴 SELL | ? | 0.1851 | cqakon1K... | SL | `3SuyqCrTN46M...` |
+| 03-19 | 08:43 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `3vKi2M54HN6t...` |
+| 03-19 | 08:43 | 🔴 SELL | MICHIKO | 0.1161 | 6raSuhfi... | SL | `2qM9qaMncHrM...` |
+| 03-19 | 08:43 | 🟢 BUY | XPXGOLD | 0.5000 | r9pFHjFe... | copy | `2koJgahkH8zM...` |
+| 03-19 | 08:41 | 🟢 BUY | MICHIKO | 0.5000 | 6raSuhfi... | copy | `3jBSy4Qq53gb...` |
+| 03-19 | 08:24 | 🔴 SELL | ? | 0.1875 | 6raSuhfi... | SL | `49VRdAUaMwMF...` |
+| 03-19 | 08:22 | 🟢 BUY | ? | 0.5000 | 6raSuhfi... | copy | `5HXAbL95D8Xz...` |
+| 03-19 | 08:09 | 💰 SELL | KAT | 0.4162 | 6raSuhfi... | TP2 | `4r8J1Wx94TRZ...` |
+| 03-19 | 08:08 | 🔴 SELL | FUCKENING | 0.1968 | 5n593DWQ... | SL | `3vrX2LfQkYZR...` |
+| 03-19 | 08:08 | 🟢 BUY | KopiKamu | 0.5000 | 5n593DWQ... | copy | `54Ci3MPsZBQH...` |
+| 03-19 | 08:03 | 🟢 BUY | Spiderman | 0.5000 | J5jm7BnB... | copy | `624ZPrBDkcFH...` |
+| 03-19 | 07:44 | 💰 SELL | Handprint | 0.3868 | J5jm7BnB... | TP2 | `2tEqDfJ3urm6...` |
+| 03-19 | 07:15 | 🔴 SELL | TGR | 0.2644 | DHfshpzo... | stale | `65xpmWYZ1VoL...` |
+| 03-19 | 07:15 | 🔴 SELL | MEMENTUM | 0.4489 | DDApL88z... | stale | `4PFDX4Ao6hJC...` |
+| 03-19 | 07:15 | 🔴 SELL | OAC | 0.2670 | 5n593DWQ... | stale | `4z2SZRKQumZc...` |
+| 03-19 | 07:15 | 🔴 SELL | JEET | 0.3882 | r9pFHjFe... | stale | `33GRe4au7pEj...` |
+| 03-19 | 07:15 | 🔴 SELL | ? | 0.2363 | cqakon1K... | stale | `4ayz1krcMJK7...` |
+| 03-19 | 07:09 | 🔴 SELL | WORLD | 0.1952 | DDApL88z... | SL | `643A25Up4voZ...` |
+| 03-19 | 06:57 | 💰 SELL | Gilbert | 0.2613 | 6raSuhfi... | TP1 | `4VYZUUvwkZAz...` |
+| 03-19 | 06:57 | 🟢 BUY | ? | 0.5000 | 5n593DWQ... | copy | `2X4RTah5tXcu...` |
+| 03-19 | 06:48 | 🟢 BUY | elonwifdoge | 0.5000 | 7aMgK5L4... | copy | `U5yC5JQZJ8QH...` |
+| 03-19 | 06:41 | 🟢 BUY | McCasland | 0.5000 | 5n593DWQ... | copy | `5FsMbR2fAuN2...` |
+| 03-19 | 06:30 | 🟢 BUY | Pizza | 0.5000 | 5n593DWQ... | copy | `58uJ9ZGQpXT9...` |
+| 03-19 | 06:15 | 🔴 SELL | ? | 0.3057 | cqakon1K... | stale | `2NnDC1xMztjQ...` |
+| 03-19 | 06:15 | 🔴 SELL | SQUIRE | 0.3325 | 5n593DWQ... | stale | `36bpZn5FeXKC...` |
+| 03-19 | 06:11 | 🟢 BUY | TGR | 0.5000 | HCDsVE5Y... | copy | `5xwov5q48fAw...` |
+| 03-19 | 06:04 | 🟢 BUY | Gilbert | 0.5000 | 6raSuhfi... | copy | `4jsSZcP5vCKL...` |
+| 03-19 | 05:56 | 🟢 BUY | SCOTT | 0.5000 | DDApL88z... | copy | `3KXrpQy47Q7E...` |
+| 03-19 | 05:47 | 🟢 BUY | MPP | 0.5000 | ApkQGKbq... | copy | `5EZtGp4XR9Zo...` |
+| 03-19 | 05:36 | 💰 SELL | BBX | 0.3764 | DHfshpzo... | TP2 | `w3r6FVDq73M6...` |
+| 03-19 | 05:15 | 🔴 SELL | TGR | 0.2108 | 5vweNikg... | stale | `4pVEzs2QW1EZ...` |
+| 03-19 | 05:03 | 🔴 SELL | D6 | 0.1176 | 6raSuhfi... | trail | `VrL6n4iBcN84...` |
+| 03-19 | 04:52 | 💰 SELL | D6 | 0.2578 | 6raSuhfi... | TP3 | `26honsrDkJCP...` |
+| 03-19 | 04:51 | 💰 SELL | D6 | 0.4052 | 6raSuhfi... | TP2 | `xE7CcQQUg1jt...` |
+| 03-19 | 04:50 | 💰 SELL | D6 | 0.3282 | 6raSuhfi... | TP1 | `p3LeNtzcbTaJ...` |
+| 03-19 | 04:47 | 🟢 BUY | D6 | 0.5000 | 6raSuhfi... | copy | `8w8byhQNLDBX...` |
+| 03-19 | 04:34 | 🟢 BUY | DELMO | 0.5000 | DDApL88z... | copy | `y4eWxxLheo8A...` |
+| 03-19 | 04:29 | 🟢 BUY | WORLD | 0.5000 | DDApL88z... | copy | `3PzsiC6sobRo...` |
+| 03-19 | 04:22 | 🟢 BUY | Veggietales | 0.5000 | 6raSuhfi... | copy | `2EUTiqmtb3PL...` |
+| 03-19 | 04:15 | 🔴 SELL | House | 0.2421 | 6raSuhfi... | stale | `KcTbySAN129t...` |
+| 03-19 | 04:12 | 🟢 BUY | TRG | 0.5000 | DHfshpzo... | copy | `4j653Vga2Q8E...` |
+| 03-19 | 04:04 | 🟢 BUY | TGR | 0.5000 | r9pFHjFe... | copy | `5i9jb4AMkqrZ...` |
+| 03-19 | 04:01 | 🔴 SELL | XENOGEN | 0.1790 | ApkQGKbq... | SL | `39ThpvK9Ku3v...` |
+| 03-19 | 03:56 | 🟢 BUY | gf | 0.5000 | 6raSuhfi... | copy | `2pQ1gYCSq26P...` |
+| 03-19 | 03:55 | 🟢 BUY | e-CNY | 0.5000 | r9pFHjFe... | copy | `2tpPjwnyUs7d...` |
+| 03-19 | 03:35 | 🟢 BUY | XENOGEN | 0.5000 | ApkQGKbq... | copy | `2QgWbsNuQLPD...` |
+| 03-19 | 03:23 | 💰 SELL | BLACKLINE | 1.2986 | ApkQGKbq... | trail | `4cjSzvpfbo1r...` |
+| 03-19 | 03:04 | 💰 SELL | BLACKLINE | 0.2603 | ApkQGKbq... | TP3 | `2Pp5PQEVom1J...` |
+| 03-19 | 02:58 | 💰 SELL | BLACKLINE | 0.3839 | ApkQGKbq... | TP2 | `4vDNsEhFesXR...` |
+| 03-19 | 02:58 | 🟢 BUY | MutantX | 0.5000 | r9pFHjFe... | copy | `5H22XexbNLtS...` |
+| 03-19 | 02:53 | 💰 SELL | BLACKLINE | 0.2628 | ApkQGKbq... | TP1 | `3Ku6KTho3yVF...` |
+| 03-19 | 02:45 | 🟢 BUY | BLACKLINE | 0.5000 | ApkQGKbq... | copy | `5jr59xdTXpJq...` |
+| 03-19 | 02:38 | 💰 SELL | HIM | 0.6973 | 2w85VLX4... | trail | `52ynXXALDp5w...` |
+| 03-19 | 02:37 | 🟢 BUY | GAYROT | 0.5000 | 6raSuhfi... | copy | `3UDhL7F7iL7V...` |
+| 03-19 | 02:36 | 💰 SELL | KAT | 0.3300 | 6raSuhfi... | TP1 | `27g8fNWdbyox...` |
+| 03-19 | 02:28 | 🔴 SELL | D6 | 0.0831 | 6raSuhfi... | SL | `3tHpN9LiJ8ZV...` |
+| 03-19 | 02:26 | 🟢 BUY | D6 | 0.5000 | 6raSuhfi... | copy | `5iB4TG9YCt5g...` |
+| 03-19 | 02:18 | 💰 SELL | BBX | 0.2529 | DHfshpzo... | TP1 | `4fuPJwuE6DGL...` |
+| 03-19 | 02:15 | 💰 SELL | Chocolatina | 0.2542 | DDApL88z... | TP1 | `53xruYiyvV6u...` |
+| 03-19 | 02:11 | 🟢 BUY | USGAY | 0.5000 | 6raSuhfi... | copy | `DzVYCXWYux2R...` |
+| 03-19 | 02:01 | 🟢 BUY | Chong | 0.5000 | 6raSuhfi... | copy | `LwYfLbXTXgCP...` |
+| 03-19 | 02:00 | 🟢 BUY | CONSPIRATOR | 0.5000 | J5jm7BnB... | copy | `ZgGTw93rJZVb...` |
+| 03-19 | 01:50 | 🟢 BUY | WRT | 0.5000 | r9pFHjFe... | copy | `2WTKVnr42Ksk...` |
+| 03-19 | 01:41 | 💰 SELL | Handprint | 0.2908 | J5jm7BnB... | TP1 | `3C7XFjYa1LvD...` |
+| 03-19 | 01:31 | 💰 SELL | ? | 0.5801 | 6raSuhfi... | trail | `5up3r4C7cKWV...` |
+| 03-19 | 01:22 | 🟢 BUY | BBX | 0.5000 | DHfshpzo... | copy | `45CB9p7woddX...` |
+| 03-19 | 01:20 | 🟢 BUY | Meteor | 0.5000 | DHfshpzo... | copy | `3Paw38G9fYcb...` |
+| 03-19 | 01:19 | 🔴 SELL | ? | 0.3302 | 6raSuhfi... | trail | `5cVE97DkBqti...` |
+| 03-19 | 01:06 | 🟢 BUY | ALIENCOIN | 0.5000 | r9pFHjFe... | copy | `2UHUrJj7kGHv...` |
+| 03-19 | 01:04 | 🟢 BUY | TGR | 0.5000 | DHfshpzo... | copy | `4a5G9edpyJsD...` |
+| 03-19 | 01:02 | 🟢 BUY | MILK | 0.5000 | 6raSuhfi... | copy | `5xdPxB6yXeC2...` |
+| 03-19 | 01:02 | 💰 SELL | ? | 0.2519 | 6raSuhfi... | TP1 | `5yuD9Erg7jFq...` |
+| 03-19 | 01:00 | 🟢 BUY | FTR | 0.5000 | DHfshpzo... | copy | `5i1wSKJa1yEq...` |
+| 03-19 | 00:58 | 🟢 BUY | STRAWBERRY | 0.5000 | 6raSuhfi... | copy | `4G7BG7Y8micc...` |
+| 03-19 | 00:58 | 🟢 BUY | WRT | 0.5000 | 5vweNikg... | copy | `4uKM1vc8q6Dj...` |
+| 03-19 | 00:52 | 🟢 BUY | MEMENTUM | 0.5000 | DDApL88z... | copy | `44vBDk113qJk...` |
+| 03-19 | 00:50 | 🔴 SELL | Bananito | 0.4132 | cqakon1K... | trail | `2fQ58NfVWvUS...` |
+| 03-19 | 00:50 | 🟢 BUY | ? | 0.5000 | 6raSuhfi... | copy | `5abLXj2tNavb...` |
+| 03-19 | 00:49 | 🟢 BUY | MEMENTUM | 0.5000 | DDApL88z... | copy | `3PQHpXCP8ZgP...` |
+| 03-19 | 00:41 | 🟢 BUY | OAC | 0.5000 | 5n593DWQ... | copy | `5ExR97sXTQ14...` |
+| 03-19 | 00:40 | 💰 SELL | ? | 0.3935 | 6raSuhfi... | TP2 | `4vg7V2iN6LQ2...` |
+| 03-19 | 00:34 | 🟢 BUY | SPACE X | 0.5000 | DHfshpzo... | copy | `BzDtMTKxmfz9...` |
+| 03-19 | 00:32 | 🟢 BUY | JEET | 0.5000 | r9pFHjFe... | copy | `43kWfgWYqJn2...` |
+| 03-19 | 00:29 | 🟢 BUY | XPXGOLD | 0.5000 | DHfshpzo... | copy | `4gBADJ488qGy...` |
+| 03-19 | 00:28 | 💰 SELL | SWMR | 0.7252 | 6raSuhfi... | trail | `5DaDKcSYd4VS...` |
+| 03-19 | 00:23 | 🔴 SELL | BLU | 0.3588 | 6raSuhfi... | trail | `4USCe94ogSVY...` |
+| 03-19 | 00:20 | 🟢 BUY | Chocolatina | 0.5000 | DDApL88z... | copy | `4tACuaDyfsWC...` |
+| 03-19 | 00:06 | 💰 SELL | Bananito | 0.2629 | cqakon1K... | TP1 | `E4gCUqFmk9jZ...` |
+| 03-19 | 00:06 | 💰 SELL | ? | 0.2551 | 6raSuhfi... | TP1 | `25fPLGNccDw1...` |
+| 03-19 | 00:04 | 🟢 BUY | Bananito | 0.5000 | cqakon1K... | copy | `5RCFK2oPW8gU...` |
+| 03-19 | 00:03 | 💰 SELL | BLU | 0.2509 | 6raSuhfi... | TP1 | `48XoPLxJ2BMt...` |
+| 03-19 | 00:03 | 🟢 BUY | ? | 0.5000 | 6raSuhfi... | copy | `4qfu3aPKb87X...` |
+| 03-18 | 23:54 | 🟢 BUY | BLU | 0.5000 | 6raSuhfi... | copy | `DpbiBdwWHFXT...` |
+| 03-18 | 23:54 | 💰 SELL | HIM | 0.3751 | 2w85VLX4... | TP2 | `2DYPFvkQE5Sr...` |
+| 03-18 | 23:47 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `3PbEmNFL1RXp...` |
+| 03-18 | 23:47 | 💰 SELL | HIM | 0.2521 | 2w85VLX4... | TP1 | `4NqJt39GeXMY...` |
+| 03-18 | 23:41 | 🔴 SELL | Catrot | 0.1942 | 6raSuhfi... | SL | `4RiPCBXfNaCc...` |
+| 03-18 | 23:41 | 🟢 BUY | Goose | 0.5000 | DDApL88z... | copy | `2NgfCJZ5trsj...` |
+| 03-18 | 23:36 | 🔴 SELL | GNORTS | 0.1959 | 6raSuhfi... | SL | `sh3AiJxPrnYr...` |
+| 03-18 | 23:16 | 🟢 BUY | TGR | 0.5000 | 5vweNikg... | copy | `25tq4H2Fau99...` |
+| 03-18 | 23:15 | 🟢 BUY | SQUIRE | 0.5000 | 5n593DWQ... | copy | `2SWzGWyHxSLL...` |
+| 03-18 | 23:14 | 💰 SELL | SWMR | 0.4160 | 6raSuhfi... | TP2 | `5krWR2vqy2KQ...` |
+| 03-18 | 23:11 | 🟢 BUY | ? | 0.5000 | cqakon1K... | copy | `3PZh1MRo5e1t...` |
+| 03-18 | 23:10 | 🔴 SELL | Manchas | 0.1787 | J5jm7BnB... | SL | `3UAcRenvP8ND...` |
+| 03-18 | 23:09 | 🔴 SELL | RUSH | 0.1924 | 2w85VLX4... | SL | `22uL1Qv5btwg...` |
+| 03-18 | 23:08 | 🔴 SELL | MK1 | 0.1978 | 5n593DWQ... | SL | `244rWG6ESSzt...` |
+| 03-18 | 23:03 | 🟢 BUY | GNORTS | 0.5000 | 6raSuhfi... | copy | `5nJpa9pVBZ63...` |
+| 03-18 | 23:02 | 🟢 BUY | MK1 | 0.5000 | 5n593DWQ... | copy | `5BjqPoX7oQos...` |
+| 03-18 | 22:59 | 🟢 BUY | Catrot | 0.5000 | 6raSuhfi... | copy | `4vdxhk1Nkwvy...` |
+| 03-18 | 22:58 | 💰 SELL | SWMR | 0.2716 | 6raSuhfi... | TP1 | `kKszHocVSo9k...` |
+| 03-18 | 22:46 | 💰 SELL | CHOCOTINA | 0.7020 | E79aNzAk... | trail | `4AKxXsWafNjJ...` |
+| 03-18 | 22:32 | 💰 SELL | CHOCOTINA | 0.3957 | E79aNzAk... | TP2 | `5hAeYzM4sDSf...` |
+| 03-18 | 22:30 | 🟢 BUY | FUCKENING | 0.5000 | 5n593DWQ... | copy | `SJRUw2X1rLh1...` |
+| 03-18 | 22:21 | 🔴 SELL | FOOL | 0.4115 | HMM6RoT2... | trail | `4ippeMuPocva...` |
+| 03-18 | 22:19 | 🔴 SELL | Pumpfun | 0.1791 | J5jm7BnB... | SL | `2NWHwr7Fz1by...` |
+| 03-18 | 22:11 | 🟢 BUY | KAT | 0.5000 | 6raSuhfi... | copy | `5zxV7QprEa6u...` |
+| 03-18 | 22:09 | 🟢 BUY | Manchas | 0.5000 | J5jm7BnB... | copy | `34CfjNrgEnYB...` |
+| 03-18 | 22:08 | 🔴 SELL | BERTIE | 0.1966 | J5jm7BnB... | SL | `5rSkj9QCRBrA...` |
+| 03-18 | 22:08 | 🟢 BUY | RUSH | 0.5000 | 2w85VLX4... | copy | `2pXZrz6wPCpQ...` |
+| 03-18 | 22:00 | 💰 SELL | FOOL | 0.2581 | HMM6RoT2... | TP1 | `MTitfoDaPdKv...` |
+| 03-18 | 21:58 | 🟢 BUY | TGR | 0.5000 | 5vweNikg... | copy | `2m6U5PPnwULK...` |
+| 03-18 | 21:56 | 🟢 BUY | FOOL | 0.5000 | HMM6RoT2... | copy | `5ponJwTXHRQu...` |
+| 03-18 | 21:56 | 🟢 BUY | BERTIE | 0.5000 | J5jm7BnB... | copy | `4LumiLvyTJwt...` |
+| 03-18 | 21:55 | 🟢 BUY | Handprint | 0.5000 | J5jm7BnB... | copy | `2e7mV1G1iK15...` |
+| 03-18 | 21:42 | 🟢 BUY | Pumpfun | 0.5000 | J5jm7BnB... | copy | `47h3hM3M87Bw...` |
+| 03-18 | 21:29 | 🔴 SELL | DEATHMASK | 0.1708 | 6raSuhfi... | SL | `AmN4u8FiK7p9...` |
+| 03-18 | 21:29 | 💰 SELL | SPOON | 0.2762 | 6raSuhfi... | TP1 | `3C7Z5vEM76mV...` |
+| 03-18 | 21:25 | 🟢 BUY | HIM | 0.5000 | 2w85VLX4... | copy | `34GqiN9wLu86...` |
+| 03-18 | 21:22 | 🟢 BUY | House | 0.5000 | 6raSuhfi... | copy | `4P4VKLRSEHuW...` |
+| 03-18 | 21:20 | 🟢 BUY | DEATHMASK | 0.5000 | 6raSuhfi... | copy | `5h2qHUXTth9m...` |
+| 03-18 | 21:16 | 🟢 BUY | SWMR | 0.5000 | 6raSuhfi... | copy | `5xT7sRgufhkd...` |
+| 03-18 | 21:15 | 💰 SELL | CHOCOTINA | 0.2765 | E79aNzAk... | TP1 | `3RHQGqpZYjLJ...` |
+| 03-18 | 20:50 | 🟢 BUY | CHOCOTINA | 0.5000 | E79aNzAk... | copy | `5fNY6TqpxqDP...` |
+| 03-18 | 20:49 | 🟢 BUY | TR | 0.5000 | DDApL88z... | copy | `2qoNaq5yFWy5...` |
+| 03-18 | 20:48 | 💰 SELL | GroupChat | 0.3912 | 5n593DWQ... | TP2 | `64rVP8g1376j...` |
+| 03-18 | 20:48 | 🟢 BUY | IVERMECTIN | 0.5000 | J5jm7BnB... | copy | `5B5RWMctJ2Ap...` |
+| 03-18 | 20:46 | 🟢 BUY | Tincat | 0.5000 | 2w85VLX4... | copy | `3DVkCJQTcWzt...` |
+| 03-18 | 20:43 | 🟢 BUY | ? | 0.5000 | 2w85VLX4... | copy | `2dFR17AG5tKA...` |
+| 03-18 | 20:37 | 💰 SELL | GroupChat | 0.2502 | 5n593DWQ... | TP1 | `cqAQ9YuDEZNR...` |
+| 03-18 | 20:37 | 🔴 SELL | SIGNS | 0.4124 | E79aNzAk... | trail | `3cB3jaDnQg4o...` |
+| 03-18 | 20:24 | 💰 SELL | SIGNS | 0.2767 | E79aNzAk... | TP1 | `2ARxtJB8c7Wg...` |
+| 03-18 | 20:24 | 🟢 BUY | GroupChat | 0.5000 | 5n593DWQ... | copy | `28Db2TuyqjFQ...` |
+| 03-18 | 20:24 | 🟢 BUY | Glitchiza | 0.5000 | 6raSuhfi... | copy | `3T1REDzEeGDa...` |
+| 03-18 | 20:18 | 🟢 BUY | METAMEME | 0.5000 | 2w85VLX4... | copy | `5fBqPXh2ZGVe...` |
+| 03-18 | 20:18 | 🟢 BUY | SPOON | 0.5000 | 6raSuhfi... | copy | `3Snd4nJdeGSC...` |
+| 03-18 | 20:13 | 🟢 BUY | Type | 0.5000 | 2w85VLX4... | copy | `24V1qkyXYCPA...` |
+| 03-18 | 20:12 | 🔴 SELL | ? | 0.1753 | 2w85VLX4... | SL | `2xU3eMBxNPig...` |
+| 03-18 | 20:10 | 🟢 BUY | SB | 0.5000 | DDApL88z... | copy | `HgxUTktonvV7...` |
+| 03-18 | 20:09 | 🟢 BUY | ? | 0.5000 | 2w85VLX4... | copy | `3N6KigsqQ3mt...` |
+| 03-18 | 20:08 | 🔴 SELL | ? | 0.1970 | 6raSuhfi... | SL | `4Tcpw9gsrKzt...` |
+| 03-18 | 20:06 | 💰 SELL | POLSIA | 1.3041 | 5n593DWQ... | trail | `42yttPjZT5rr...` |
+| 03-18 | 20:05 | 🟢 BUY | SIGNS | 0.5000 | E79aNzAk... | copy | `hE7XwKPtmNSJ...` |
+| 03-18 | 20:02 | 💰 SELL | POLSIA | 0.2606 | 5n593DWQ... | TP3 | `5yJLL3N3smkX...` |
+| 03-18 | 19:57 | 🟢 BUY | ? | 0.5000 | 6raSuhfi... | copy | `22F9PjEa2bdK...` |
+| 03-18 | 19:55 | 🔴 SELL | ALICE | 0.1907 | E79aNzAk... | SL | `4pFSJdEDuQwx...` |
+| 03-18 | 19:52 | 💰 SELL | POLSIA | 0.4825 | 5n593DWQ... | TP2 | `5LYk5WFH3QLN...` |
+| 03-18 | 19:50 | 🟢 BUY | ALICE | 0.5000 | E79aNzAk... | copy | `3knKz1oT7Mf3...` |
+| 03-18 | 19:44 | 💰 SELL | POLSIA | 0.3694 | 5n593DWQ... | TP1 | `5pScSosqyNC6...` |
+| 03-18 | 19:44 | 🟢 BUY | Files | 0.5000 | 6raSuhfi... | copy | `q5gNNrhQgyYh...` |
+| 03-18 | 19:42 | 🟢 BUY | POLSIA | 0.5000 | 5n593DWQ... | copy | `5cgrpubiKHmG...` |
+| 03-18 | 19:35 | 🟢 BUY | TGR | 0.5000 | HCDsVE5Y... | copy | `3zjqEs7XvAud...` |
+| 03-18 | 19:31 | 🟢 BUY | functionless | 0.5000 | 5n593DWQ... | copy | `3HSQQLgjgtc9...` |
+| 03-18 | 19:22 | 💰 SELL | QWIN | 0.7076 | 5n593DWQ... | trail | `PkopCqoUbMXf...` |
+| 03-18 | 19:14 | 💰 SELL | QWIN | 0.4492 | 5n593DWQ... | TP2 | `67ZvSErW15GA...` |
+| 03-18 | 19:14 | 🟢 BUY | GroupChats | 0.5000 | E79aNzAk... | copy | `5Paxpk6aLQ3S...` |
+| 03-18 | 19:12 | 💰 SELL | QWIN | 0.3188 | 5n593DWQ... | TP1 | `4P8f825nRvuN...` |
+| 03-18 | 19:08 | 🟢 BUY | QWIN | 0.5000 | 5n593DWQ... | copy | `49VW2rieyUMH...` |
+| 03-18 | 19:07 | 🟢 BUY | ? | 0.5000 | HCDsVE5Y... | copy | `TkH9krqcFDkQ...` |
+| 03-18 | 19:02 | 🟢 BUY | WAR | 0.5000 | HCDsVE5Y... | copy | `5DcQRY7JjGUm...` |
+| 03-18 | 18:36 | 🟢 BUY | OIL#000 | 0.5000 | HCDsVE5Y... | copy | `2yTnEFnBGxQp...` |
