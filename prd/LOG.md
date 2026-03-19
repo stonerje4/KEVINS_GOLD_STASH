@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 15:25 UTC*
+*Last updated: 2026-03-19 15:30 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
+| 2026-03-19 15:29 | 🔴 sell | WRT | `r9pFHjFe2Cio...` | 0.484 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/8oZWcbnpgQP5ymbHXYoiPicXsCx3ib7Ano7DFYng2ExgSCQQLtwtXd8DXB1diozDevRxDvgPrY91XkY3ZJp42Na) |
+| 2026-03-19 15:29 | 🔴 sell | ? | `HCDsVE5Y22dz...` | 0.486 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/5Zn8NEDZ7bWhu6teiU2ZJt6F8ZL2DC2twY6BXbT2xP5LR11MLYRZKQkHyVPa7YaSUGD62rSwLkQZkxEEMjRsuS8o) |
 | 2026-03-19 15:01 | 🟢 buy | $KAT | `r9pFHjFe2Cio...` | 0.280 | — | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/65nTyHrsDDfRHCMgPW7soTrV39hM8sDZBjjkPWkFgWFQP7ocu5KqDay36KHubu52bfN7bcwErK1WvyG4bEvbtWx3) |
 | 2026-03-19 14:57 | 🔴 sell | ? | `cqakon1K22iR...` | 0.199 | — | 0.4x | stop_loss | [tx](https://solscan.io/tx/3Xfu11fjpGH1oJrPrrpYLEU9apfcqYPECG574LYYAbXytd4dRna38U9qnStF5nsV26Lo8p9odLZoMXwfcq8gTZPh) |
 | 2026-03-19 14:57 | 🔴 sell | Veggietales | `6raSuhfig5Y1...` | 0.198 | — | 0.4x | stop_loss | [tx](https://solscan.io/tx/33pd5jYKQkEpMaH9ioHxBokU65xszMuzU4dom59h3xTTFXSAK9X9F66uP1kLZYAHbsXSCBoqMf1N7fEn5cfMrZPj) |
@@ -202,5 +204,3 @@
 | 2026-03-18 20:48 | 🔴 sell | GroupChat | `5n593DWQkpfF...` | 0.391 | 0.0005 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/64rVP8g1376j1CZjJSs1U7f5HryTrrtwZtTkWmfr8VnBKWRi8t5GzfvTrXnUcmzGqRvat9dDQ9QjHRGREzZEbJk6) |
 | 2026-03-18 20:48 | 🟢 buy | IVERMECTIN | `J5jm7BnBiGaB...` | 0.500 | 0.0010 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/5B5RWMctJ2ApU9mdCFMK4dDwiFofZjhbDfHLc9JFB7AXCraqQMD2UveKNGoBQ3oE7C67Wys3A69BEsjdtbgWMwck) |
 | 2026-03-18 20:46 | 🟢 buy | Tincat | `2w85VLX4W4qm...` | 0.500 | 0.0001 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/3DVkCJQTcWztZbArYG1Ycda6J6V1vYC6TEAnc4ELA3X7jV1HypCbQTpog9oSEgdBiYWBYVweNHhzuoCegnN4fd9a) |
-| 2026-03-18 20:43 | 🟢 buy | ? | `2w85VLX4W4qm...` | 0.500 | 0.0010 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/2dFR17AG5tKAKHfMytsrdvFYAZFWh8af2LBi7R43ehp7RvqziSFufkweaRVpEsvspurPQPsuhZJNBJStotniqsvC) |
-| 2026-03-18 20:37 | 🔴 sell | GroupChat | `5n593DWQkpfF...` | 0.250 | 0.0005 | 2.0x | tp_2x_half | [tx](https://solscan.io/tx/cqAQ9YuDEZNR2PjzFTFJ7rnA8t2sZwiD3eKceXSSr2ebz9jXqcPJBpWkwqoQAkkcyyUyEXXU5fijGr9dnbxCGhw) |
