@@ -1,5 +1,11 @@
 # [TEST] `FY5sWMqL2AQrsS2F...`
-> 2026-03-19 03:00 UTC | **2** pos | **1W/1L** | P&L: **+0.000748 SOL** (+169.9%) | 0 open
+> 2026-03-19 03:05 UTC | **3** pos | **1W/1L** | P&L: **+0.000748 SOL** (+169.9%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| intelligence | 03-19 03:01 | 1.87x | 1.87x | 0.1h | 0.0002 |
 
 ## Closed
 
@@ -12,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 03:01 | intelligence | BUY | 0.0002 | `23V4Nytbp4rKMmxN...` |
 | 03-18 23:51 | SQUIRE | SELL | 0.0004 | `M2B9bpQGjq7ATXDn...` |
 | 03-18 23:29 | STRAWBS | SELL | 0.0001 | `4PiGanAcZ96MCKfE...` |
 | 03-18 23:15 | SQUIRE | SELL | 0.0001 | `5da4Mo1FZp5MbeFP...` |
