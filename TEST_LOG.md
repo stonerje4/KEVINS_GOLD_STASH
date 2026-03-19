@@ -1,8 +1,10 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 07:50 UTC** | 7d | 159 buys, 120 sells | In: **0.03** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 07:55 UTC** | 7d | 159 buys, 122 sells | In: **0.03** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 07:52 | 💰 SELL | PERCOLATOR | 0.0001 | 4yKnfzcf... | TP2 | `4dQA6cGDuT1C...` |
+| 03-19 | 07:51 | 💰 SELL | USAOIL | 0.0004 | ETHhoTiK... | trail | `2Rtye9TXkYYn...` |
 | 03-19 | 07:48 | 🟢 BUY | NIOC | 0.0002 | BGGJhxGX... | copy_buy | `21DPvDYwcFDL...` |
 | 03-19 | 07:48 | 💰 SELL | PERCOLATOR | 0.0001 | 4yKnfzcf... | TP1 | `AVvfbi9dF2BK...` |
 | 03-19 | 07:47 | 🟢 BUY | OILLY | 0.0002 | 87nWQxQv... | copy_buy | `3SbpiUkxDjX8...` |
