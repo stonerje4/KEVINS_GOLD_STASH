@@ -1,5 +1,11 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-19 12:05 UTC | **19** pos | **4W/15L** | P&L: **-0.002279 SOL** (-54.5%) | 0 open
+> 2026-03-19 12:10 UTC | **20** pos | **4W/15L** | P&L: **-0.002279 SOL** (-54.5%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Strawberina | 03-19 12:09 | 0.96x | 1.00x | 0.0h | 0.0002 |
 
 ## Closed
 
@@ -29,6 +35,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 12:09 | Strawberina | BUY | 0.0002 | `4pd8JXZeutH6mcM5...` |
 | 03-19 11:42 | Solana | SELL | 0.0001 | `3LcFi5ccJXBML32P...` |
 | 03-19 11:35 | Solana | SELL | 0.0001 | `yzCvsXwo4ykhtcZy...` |
 | 03-19 11:29 | NIGEL | SELL | 0.0002 | `5z8CRxNBdZE6Bkan...` |

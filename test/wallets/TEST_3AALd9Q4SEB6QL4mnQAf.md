@@ -1,12 +1,12 @@
 # [TEST] `3AALd9Q4SEB6QL4m...`
-> 2026-03-19 12:05 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 12:10 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | KAT | 03-19 11:31 | 0.96x | 1.00x | 0.6h | 0.0002 |
-| XPXGOLD | 03-19 10:37 | 1.00x | 1.08x | 1.5h | 0.0002 |
+| XPXGOLD | 03-19 10:37 | 1.00x | 1.08x | 1.6h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
