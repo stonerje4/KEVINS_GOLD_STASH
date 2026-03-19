@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 07:40 UTC*
+*Last updated: 2026-03-19 07:45 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 07:44 | 🔴 sell | Handprint | `J5jm7BnBiGaB...` | 0.387 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/2tEqDfJ3urm6zXLSc7wb58mUVcr4AxcZ1JM9W3Ve5TFqMeCbTxDQ2YvMUdcmy5g2as3cPQiqVaaV3aiaTGZZZSbB) |
 | 2026-03-19 07:15 | 🔴 sell | TGR | `DHfshpzoC9Q7...` | 0.264 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/65xpmWYZ1VoLVHYppfFehP6sbYjCfo4dmnqcyHra7btM7bgXFXtAkNTH2q5Yh8mgQi4xxGJESfedPHCXymi9eKRZ) |
 | 2026-03-19 07:15 | 🔴 sell | MEMENTUM | `DDApL88zun3v...` | 0.449 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4PFDX4Ao6hJCVbAhzM42CYiVQfbzVDu4HQ5MHg8SERcnawzBpKJ8UVHwkQPLkcewRKgs5DW3gyyS2cod9n4UmWnD) |
 | 2026-03-19 07:15 | 🔴 sell | OAC | `5n593DWQkpfF...` | 0.267 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/4z2SZRKQumZcC4Xo7XSD9emQb7YK5PYwQaUB78CqNfsVakSwvj8JJ5wemgnYBmAiPxaUtdn4q6uLxc76FmQA5t6n) |

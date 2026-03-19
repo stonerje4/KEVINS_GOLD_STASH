@@ -1,12 +1,12 @@
 # [PRD] `J5jm7BnBiGaB1x72...`
-> 2026-03-19 07:40 UTC | **6** pos | **0W/4L** | P&L: **-1.445612 SOL** (-72.3%) | 2 open
+> 2026-03-19 07:45 UTC | **6** pos | **0W/4L** | P&L: **-1.445612 SOL** (-72.3%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
 | CONSPIRATOR | 03-19 02:00 | 0.00x | 1.22x | 5.7h | 0.5000 |
-| Handprint | 03-18 21:55 | 0.00x | 2.45x | 9.7h | 0.5000 |
+| Handprint | 03-18 21:55 | 0.00x | 3.09x | 9.8h | 0.5000 |
 
 ## Closed
 
@@ -21,6 +21,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 07:44 | Handprint | SELL | 0.3868 | `2tEqDfJ3urm6zXLS...` |
 | 03-19 02:00 | CONSPIRATOR | BUY | 0.5000 | `ZgGTw93rJZVbUx3X...` |
 | 03-19 01:41 | Handprint | SELL | 0.2908 | `3C7XFjYa1LvDB3ns...` |
 | 03-18 23:10 | Manchas | SELL | 0.1787 | `3UAcRenvP8NDUy84...` |

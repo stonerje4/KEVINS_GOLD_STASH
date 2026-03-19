@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 07:40 UTC** | 7d | 89 buys, 69 sells | In: **44.50** | Out: **23.68** | Net: **-20.82 SOL**
+> Updated: **2026-03-19 07:45 UTC** | 7d | 89 buys, 70 sells | In: **44.50** | Out: **24.06** | Net: **-20.44 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 07:44 | 💰 SELL | Handprint | 0.3868 | J5jm7BnB... | TP2 | `2tEqDfJ3urm6...` |
 | 03-19 | 07:15 | 🔴 SELL | TGR | 0.2644 | DHfshpzo... | stale | `65xpmWYZ1VoL...` |
 | 03-19 | 07:15 | 🔴 SELL | MEMENTUM | 0.4489 | DDApL88z... | stale | `4PFDX4Ao6hJC...` |
 | 03-19 | 07:15 | 🔴 SELL | OAC | 0.2670 | 5n593DWQ... | stale | `4z2SZRKQumZc...` |

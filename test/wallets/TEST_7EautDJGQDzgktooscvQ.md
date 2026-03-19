@@ -1,11 +1,11 @@
 # [TEST] `7EautDJGQDzgktoo...`
-> 2026-03-19 07:40 UTC | **2** pos | **0W/1L** | P&L: **-0.000134 SOL** (-60.8%) | 1 open
+> 2026-03-19 07:45 UTC | **2** pos | **0W/1L** | P&L: **-0.000134 SOL** (-60.8%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| DOGEFATHER | 03-19 07:14 | 0.81x | 1.42x | 0.4h | 0.0002 |
+| DOGEFATHER | 03-19 07:14 | 0.61x | 1.42x | 0.5h | 0.0002 |
 
 ## Closed
 
