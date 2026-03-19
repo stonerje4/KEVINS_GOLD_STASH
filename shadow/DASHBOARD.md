@@ -1,6 +1,6 @@
 # 👁️ SHADOW — Paper Trading Dashboard
 
-*Last updated: 2026-03-19 13:21 UTC*
+*Last updated: 2026-03-19 13:22 UTC*
 *P&L normalized to $100/buy for comparison*
 
 ## Summary
@@ -374,6 +374,7 @@
 | gmgn_discovery | 28 |
 | cielo_test | 14 |
 | manual_stoner | 10 |
+| wallet_discovery | 9 |
 | mihso_scan | 8 |
 | smart_cobuyer_5x | 7 |
 | smart_cobuyer | 5 |
