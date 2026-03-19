@@ -1,9 +1,13 @@
-# Exit Log — 2026-03-19 23:43 UTC
+# Exit Log — 2026-03-19 23:48 UTC
 
-Total closed: **78**
+Total closed: **82**
 
 | Token | Wallet | Result | Reason | Entry $ | Pool | Entry → Exit |
 |-------|--------|--------|--------|---------|------|-------------|
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000021 | pumpswap | 2026-03-19 23:48 → 2026-03-19 23:48 |
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000020 | pumpswap | 2026-03-19 23:47 → 2026-03-19 23:47 |
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000016 | pumpswap | 2026-03-19 23:46 → 2026-03-19 23:46 |
+| 🔴 tinfoil | `CL1RfEi1...` | **0.40x** | stop_loss | $0.000126 | pumpswap | 2026-03-19 23:32 → 2026-03-19 23:43 |
 | 🔴 NOW | `EaEf6TH8...` | **0.25x** | stop_loss | $0.000012 | pumpfun | 2026-03-19 23:42 → 2026-03-19 23:43 |
 | 🔴 FptNvXaH | `9SXSYuZ7...` | **0.83x** | trailing_stop_2x | $0.000009 | pumpfun | 2026-03-19 23:35 → 2026-03-19 23:40 |
 | 🔴 tremp | `9WZ6veBR...` | **0.40x** | stop_loss | $0.000013 | pumpfun | 2026-03-19 23:36 → 2026-03-19 23:38 |
