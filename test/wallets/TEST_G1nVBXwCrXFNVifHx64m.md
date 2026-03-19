@@ -1,18 +1,16 @@
 # [TEST] `G1nVBXwCrXFNVifH...`
-> 2026-03-18 17:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 08:25 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| OEF | 03-18 15:32 | 0.00x | 1.00x | 2.4h | 0.0001 |
-| USAID | 03-18 14:40 | 0.00x | 1.00x | 3.2h | 0.0001 |
+| USAOIL | 03-19 08:20 | 1.61x | 1.61x | 0.1h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 15:32 | OEF | BUY | 0.0001 | `4aEKTS6N5ad7zNHi...` |
-| 03-18 14:40 | USAID | BUY | 0.0001 | `7Wrdy6G4jaxBU88s...` |
+| 03-19 08:20 | USAOIL | BUY | 0.0002 | `n7ytaRvVrhjRuM8F...` |
 
 </details>

@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 08:20 UTC*
+*Last updated: 2026-03-19 08:25 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 08:24 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.188 | 0.4x | stop_loss | [tx](https://solscan.io/tx/49VRdAUaMwMFRw49ZWPaiBLnNxUJABa853ksM9CZNvSU3P3iZvbHLwEKbFKn92mWthiUGdM8cdgJCDTcLu98oF55) |
+| 2026-03-19 08:22 | 🟢 buy | ? | `6raSuhfig5Y1...` | 0.500 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5HXAbL95D8XzB83kFt8GjEa4kY1XNc3dwMVfmXtLxrJXL2ZQohvqGm7xB3m8uuAs136sXea2sX8M7hwZcBYfTUG8) |
 | 2026-03-19 08:09 | 🔴 sell | KAT | `6raSuhfig5Y1...` | 0.416 | 3.3x | tp_3x_trim | [tx](https://solscan.io/tx/4r8J1Wx94TRZ4t34cCK3odQWdQVvMc2EsuBpYf4jKzuEUi9yTY6R25XwTx39rvbJP55Lt2TbsRSF82Rfd9G7YpX5) |
 | 2026-03-19 08:08 | 🔴 sell | FUCKENING | `5n593DWQkpfF...` | 0.197 | 0.4x | stop_loss | [tx](https://solscan.io/tx/3vrX2LfQkYZR8hdzFwNJfxBc29ameNNkGcag8HEDhqq2fu1r5LGnLoT63dFgkxLbUTHgukkZrmzpW8GEwonmAEeF) |
 | 2026-03-19 08:08 | 🟢 buy | KopiKamu | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/54Ci3MPsZBQHdWKXmQoGMWtUUt7MRfYbzB1bZHvXod4QX1t53ge4Lr2sLjYTymkC8qdtk1weWKai54BFRm1yAyn8) |

@@ -1,17 +1,17 @@
 # [TEST] `4yKnfzcf98jm5z3u...`
-> 2026-03-19 08:20 UTC | **5** pos | **0W/3L** | P&L: **-0.000455 SOL** (-68.9%) | 2 open
+> 2026-03-19 08:25 UTC | **5** pos | **1W/3L** | P&L: **+0.000395 SOL** (+44.8%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| SOLANA | 03-19 07:57 | 1.36x | 1.38x | 0.4h | 0.0002 |
-| PERCOLATOR | 03-19 07:38 | 9.52x | 10.69x | 0.7h | 0.0002 |
+| SOLANA | 03-19 07:57 | 0.92x | 1.38x | 0.5h | 0.0002 |
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ✅ PERCOLATOR | +0.0008 | 03-19 07:38 | 11.1x | 03-19 08:24 | 0.0011/0.0002 | trail |
 | ❌ S&P500 | -0.0002 | 03-18 22:39 | 1.0x | 03-19 07:19 | 0.0000/0.0002 | stale_cleanup |
 | ❌ TODAY | -0.0001 | 03-18 22:33 | 1.0x | 03-19 04:34 | 0.0001/0.0002 | SL |
 | ❌ ASSDAQ | -0.0002 | 03-18 22:31 | 1.0x | 03-19 06:19 | 0.0001/0.0002 | stale_cleanup |
@@ -20,6 +20,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 08:24 | PERCOLATOR | SELL | 0.0005 | `5RAwVZvu2HzfMfus...` |
 | 03-19 08:11 | PERCOLATOR | SELL | 0.0001 | `3Arc5xHahMaPiYez...` |
 | 03-19 08:10 | PERCOLATOR | SELL | 0.0001 | `2NjhHK6StCUvuELL...` |
 | 03-19 08:03 | PERCOLATOR | SELL | 0.0001 | `59VZBB563Dm4rwY5...` |

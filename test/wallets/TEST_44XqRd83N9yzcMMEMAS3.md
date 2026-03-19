@@ -1,12 +1,12 @@
 # [TEST] `44XqRd83N9yzcMME...`
-> 2026-03-19 08:20 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 08:25 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| NIOC | 03-19 07:37 | 1.40x | 1.40x | 0.7h | 0.0002 |
-| MutantX | 03-19 05:18 | 1.00x | 1.06x | 3.0h | 0.0002 |
+| NIOC | 03-19 07:37 | 1.40x | 1.40x | 0.8h | 0.0002 |
+| MutantX | 03-19 05:18 | 1.00x | 1.06x | 3.1h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
