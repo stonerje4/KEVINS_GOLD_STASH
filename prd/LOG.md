@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 16:00 UTC*
+*Last updated: 2026-03-19 16:05 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
+| 2026-03-19 16:03 | 🟢 buy | GLUP | `r9pFHjFe2Cio...` | 0.280 | — | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/5KTuYHvMUAkeEdFrjXrJngLbKe6nkSFWNxDPLwjtve2aqJvCiN1PtoLqWUgG4trCFijYZ1StYmpgPWyZW2U7zQke) |
 | 2026-03-19 15:43 | 🔴 sell | Type | `2w85VLX4W4qm...` | 0.179 | — | 0.4x | stop_loss | [tx](https://solscan.io/tx/tGpmEciN21P4mmhm8kmBTDp14A1bJL7wxjk3dgbhDWEWXtALBktDsvTg72J3J2puz2mUUqo37fuJ8T5uriqecLh) |
 | 2026-03-19 15:40 | 🔴 sell | Gilbert | `6raSuhfig5Y1...` | 0.399 | — | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/46fcDbYzaCFT2Uk7vyVCxiH49NX3aNVZscUo5eV7sihxcPDQiedf6P564e3avCNWwt6AqCXvjfpdQ33pBhdEFE8d) |
 | 2026-03-19 15:29 | 🔴 sell | WRT | `r9pFHjFe2Cio...` | 0.484 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/8oZWcbnpgQP5ymbHXYoiPicXsCx3ib7Ano7DFYng2ExgSCQQLtwtXd8DXB1diozDevRxDvgPrY91XkY3ZJp42Na) |
@@ -203,4 +204,3 @@
 | 2026-03-18 21:15 | 🔴 sell | CHOCOTINA | `E79aNzAkDa92...` | 0.276 | 0.0005 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/3RHQGqpZYjLJbC95SpRVirQNG5qTmhvAuK6dKmy3Zk9YaSRyP6RbfPeBib2D9kbEEH9r4aZpGU3w9nVD4RHzfcU) |
 | 2026-03-18 20:50 | 🟢 buy | CHOCOTINA | `E79aNzAkDa92...` | 0.500 | 0.0010 | — | cielo_copy:E79aNzAkDa92b5bnBHED | [tx](https://solscan.io/tx/5fNY6TqpxqDP9S1aCmDmE2wiVqg7YrhjhK4xU1LoGkRfJaDZ88aPERP1cPtHrYBh1MfLxof3jszR3SoibaLTxpgw) |
 | 2026-03-18 20:49 | 🟢 buy | TR | `DDApL88zun3v...` | 0.500 | 0.0010 | — | cielo_copy:DDApL88zun3vGuhkxkUx | [tx](https://solscan.io/tx/2qoNaq5yFWy5U5jG1wTbi2KpXtM6XTJa7mfWvMuxiS65vRnNUwHa4AmbHiViaDPiFz1N2fmqY6J5FZaQ2FThcJiV) |
-| 2026-03-18 20:48 | 🔴 sell | GroupChat | `5n593DWQkpfF...` | 0.391 | 0.0005 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/64rVP8g1376j1CZjJSs1U7f5HryTrrtwZtTkWmfr8VnBKWRi8t5GzfvTrXnUcmzGqRvat9dDQ9QjHRGREzZEbJk6) |
