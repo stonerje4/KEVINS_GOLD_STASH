@@ -1,12 +1,12 @@
 # [TEST] `7d8W4xZdLa42oEKR...`
-> 2026-03-19 09:40 UTC | **3** pos | **1W/0L** | P&L: **+0.000028 SOL** (+12.7%) | 2 open
+> 2026-03-19 09:45 UTC | **3** pos | **1W/0L** | P&L: **+0.000028 SOL** (+12.7%) | 2 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| Island | 03-19 01:09 | 1.78x | 1.80x | 8.5h | 0.0002 |
-| CONSPIRATOR | 03-19 00:49 | 0.59x | 1.18x | 8.8h | 0.0002 |
+| Island | 03-19 01:09 | 1.92x | 2.01x | 8.6h | 0.0002 |
+| CONSPIRATOR | 03-19 00:49 | 0.59x | 1.18x | 8.9h | 0.0002 |
 
 ## Closed
 
@@ -18,6 +18,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 09:43 | Island | SELL | 0.0001 | `3q1pdcEh4HZdcFGw...` |
 | 03-19 02:05 | ABDUCTED | SELL | 0.0001 | `5PXgxedZfYq3QzeS...` |
 | 03-19 01:59 | ABDUCTED | SELL | 0.0001 | `k4mmRWsNLyWys8LE...` |
 | 03-19 01:49 | ABDUCTED | BUY | 0.0002 | `TBBhg3cY4NxCw1m9...` |
