@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 07:25 UTC** | 7d | 149 buys, 118 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 07:30 UTC** | 7d | 151 buys, 119 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 07:29 | 🟢 BUY | USAOIL | 0.0002 | 87nWQxQv... | copy_buy | `5e5K98vMs4Ry...` |
+| 03-19 | 07:29 | 🔴 SELL | Edgar | 0.0001 | BNCSPd6Q... | trail | `47AFvFDX3Jfx...` |
+| 03-19 | 07:28 | 🟢 BUY | USAOIL | 0.0002 | 87nWQxQv... | copy_buy | `5yyGwph3QihU...` |
 | 03-19 | 07:23 | 🟢 BUY | e-CNY | 0.0002 | BGGJhxGX... | copy_buy | `3ksWucY7HkxZ...` |
 | 03-19 | 07:21 | 🟢 BUY | USAID | 0.0002 | BGGJhxGX... | copy_buy | `2Lc2RFJxw7C6...` |
 | 03-19 | 07:21 | 🟢 BUY | USAID | 0.0002 | 87nWQxQv... | copy_buy | `28nHuCWgsPpc...` |
