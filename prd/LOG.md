@@ -1,15 +1,17 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 13:35 UTC*
+*Last updated: 2026-03-19 13:40 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
-| 2026-03-19 13:29 | 🔴 sell | ? | `5n593DWQkpfF...` | 0.223 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/5eP6mnCFTv7wj1u11FZkBP6QLvttxzwjAiLchQroctNwwmNMePc8ZE1WF111i752bWtcJ7CN8CU4DLELZChhp8eF) |
-| 2026-03-19 13:29 | 🔴 sell | McCasland | `5n593DWQkpfF...` | 0.320 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3ddncLzyWDFojTb7BxgsaaLug3hgcfJRLc4yuA8W34QP2emMtUAmw5gqT6kiVBbcxq1rDwGyYMpsPvVLYK2B2vUA) |
-| 2026-03-19 13:29 | 🔴 sell | Pizza | `5n593DWQkpfF...` | 0.295 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/99iWvAH4LYSQHU6u3E1wcN5mUKhGrw2ucC9fUFhmZCyYnqmyFNapWkT2CmJLrn6o6tnuj19SGrrcQJUDq9pmhoo) |
-| 2026-03-19 13:29 | 🔴 sell | MPP | `ApkQGKbq8dRw...` | 0.207 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3DQmeQmrnZeTaXPB256sxbP36mpGHNpEY5DxyDRECVNv32dpDjpVcB9XFRPSBKsPLaPKFpGmFGqrmDym9RNTWviA) |
-| 2026-03-19 13:25 | 🔴 sell | CTRUMP | `6raSuhfig5Y1...` | 0.191 | — | 0.4x | stop_loss | [tx](https://solscan.io/tx/5gscoeWoEobVuueYJ7nQ1oNtt15uhRNeKA38qo8BHXdoHbJqWpkcL4rsV99AJMWYri3XieXAxkA8ZG17GbTNtBK4) |
-| 2026-03-19 13:25 | 🔴 sell | Spiderman | `J5jm7BnBiGaB...` | 0.269 | — | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/41QnsUroHhfEJh5BY7DVGkBV14GixEo4ML3w9RqC3oqqdRRTWA75YRSrbr3o6rQp8MWMDkbybJDseowaSvL7xnqy) |
+| 2026-03-19 13:39 | 🟢 buy | Genesis-2 | `2w85VLX4W4qm...` | 0.280 | — | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/2BLDzYi1nSf6D4tLfyYATnhbgPC2XWF2rHtxWzznKuu87GJsVE4EXqum1hJZ49TxDxoqkW7LUSyW9i1nMjv4PeCM) |
+| 2026-03-19 13:38 | 🟢 buy | GAS | `r9pFHjFe2Cio...` | 0.280 | — | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/4G8fpmXSTvBhnX8sMKgqbpXK5iPzyb6KrZkS9rTPGkjcQ5sR646xN2EYPLZfq9WBbCY3YqC8gob4hB3wZ5chrHk2) |
+| 2026-03-19 13:29 | 🔴 sell | ? | `5n593DWQkpfF...` | 0.223 | 0.0005 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/5eP6mnCFTv7wj1u11FZkBP6QLvttxzwjAiLchQroctNwwmNMePc8ZE1WF111i752bWtcJ7CN8CU4DLELZChhp8eF) |
+| 2026-03-19 13:29 | 🔴 sell | McCasland | `5n593DWQkpfF...` | 0.320 | 0.0005 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3ddncLzyWDFojTb7BxgsaaLug3hgcfJRLc4yuA8W34QP2emMtUAmw5gqT6kiVBbcxq1rDwGyYMpsPvVLYK2B2vUA) |
+| 2026-03-19 13:29 | 🔴 sell | Pizza | `5n593DWQkpfF...` | 0.295 | 0.0005 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/99iWvAH4LYSQHU6u3E1wcN5mUKhGrw2ucC9fUFhmZCyYnqmyFNapWkT2CmJLrn6o6tnuj19SGrrcQJUDq9pmhoo) |
+| 2026-03-19 13:29 | 🔴 sell | MPP | `ApkQGKbq8dRw...` | 0.207 | 0.0005 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3DQmeQmrnZeTaXPB256sxbP36mpGHNpEY5DxyDRECVNv32dpDjpVcB9XFRPSBKsPLaPKFpGmFGqrmDym9RNTWviA) |
+| 2026-03-19 13:25 | 🔴 sell | CTRUMP | `6raSuhfig5Y1...` | 0.191 | 0.0005 | 0.4x | stop_loss | [tx](https://solscan.io/tx/5gscoeWoEobVuueYJ7nQ1oNtt15uhRNeKA38qo8BHXdoHbJqWpkcL4rsV99AJMWYri3XieXAxkA8ZG17GbTNtBK4) |
+| 2026-03-19 13:25 | 🔴 sell | Spiderman | `J5jm7BnBiGaB...` | 0.269 | 0.0001 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/41QnsUroHhfEJh5BY7DVGkBV14GixEo4ML3w9RqC3oqqdRRTWA75YRSrbr3o6rQp8MWMDkbybJDseowaSvL7xnqy) |
 | 2026-03-19 13:24 | 🔴 sell | WRT | `5vweNikgScdn...` | 0.000 | — | 0.0x | manual_sell_phantom | — |
 | 2026-03-19 13:24 | 🔴 sell | FTR | `DHfshpzoC9Q7...` | 0.000 | — | 0.0x | manual_sell_phantom | — |
 | 2026-03-19 13:24 | 🔴 sell | Meteor | `DHfshpzoC9Q7...` | 0.000 | — | 0.0x | manual_sell_phantom | — |
@@ -202,5 +204,3 @@
 | 2026-03-18 20:08 | 🔴 sell | ? | `6raSuhfig5Y1...` | 0.197 | 0.0005 | 0.4x | stop_loss | [tx](https://solscan.io/tx/4Tcpw9gsrKztPHEvPzyuG9TMoyV6mA1eAqCJtX7ZLuWyitfrjxZaP7KjYXBfExRnvBmnoAPtbf4Ec5XJH1FBdZst) |
 | 2026-03-18 20:06 | 🔴 sell | POLSIA | `5n593DWQkpfF...` | 1.304 | 0.0001 | 2.6x | runner_trailing_stop | [tx](https://solscan.io/tx/42yttPjZT5rrGkvMWD6S28xnKQTZ5dnxNnm8KYzVrWF6hUFRZmnxkLWsobeNF1bPuH8bHBuE1vRceQWuXmhEyH6S) |
 | 2026-03-18 20:05 | 🟢 buy | SIGNS | `E79aNzAkDa92...` | 0.500 | 0.0010 | — | cielo_copy:E79aNzAkDa92b5bnBHED | [tx](https://solscan.io/tx/hE7XwKPtmNSJ5D4cM8ut6gZEy2ACM7QF31uVPw9rnijueNgcrQq6K4UmtWJ5mnLwcE7MZjt7YWHqj6XCjxtaU7Z) |
-| 2026-03-18 20:02 | 🔴 sell | POLSIA | `5n593DWQkpfF...` | 0.261 | 0.0000 | 5.2x | tp_4x_trim | [tx](https://solscan.io/tx/5yJLL3N3smkXdsgaPdfpSdLQDTmrNLPpL444zhxVdvoSpv3eBk3iHSQXHsCv8L3HSPGvYFmJU2oFiV62W7kU5Aeo) |
-| 2026-03-18 19:57 | 🟢 buy | ? | `6raSuhfig5Y1...` | 0.500 | 0.0010 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/22F9PjEa2bdKPNSLUxTYpueWbmSAq7oB738yiLcKx2swEqqKLTihZUAcQZWwSNDMyPKe5Lpze9s46KS8cBL5bsxP) |
