@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 00:55 UTC** | 7d | 56 buys, 39 sells | In: **28.00** | Out: **13.59** | Net: **-14.41 SOL**
+> Updated: **2026-03-19 01:00 UTC** | 7d | 58 buys, 39 sells | In: **29.00** | Out: **13.59** | Net: **-15.41 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 00:58 | 🟢 BUY | STRAWBERRY | 0.5000 | 6raSuhfi... | copy | `4G7BG7Y8micc...` |
+| 03-19 | 00:58 | 🟢 BUY | WRT | 0.5000 | 5vweNikg... | copy | `4uKM1vc8q6Dj...` |
 | 03-19 | 00:52 | 🟢 BUY | MEMENTUM | 0.5000 | DDApL88z... | copy | `44vBDk113qJk...` |
 | 03-19 | 00:50 | 🔴 SELL | Bananito | 0.4132 | cqakon1K... | trail | `2fQ58NfVWvUS...` |
 | 03-19 | 00:50 | 🟢 BUY | ? | 0.5000 | 6raSuhfi... | copy | `5abLXj2tNavb...` |

@@ -1,11 +1,11 @@
 # [TEST] `8ACE6bZN4fG3vhAK...`
-> 2026-03-19 00:55 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 01:00 UTC | **1** pos | **0W/1L** | P&L: **-0.000220 SOL** (-100.0%) | 0 open
 
-## Open
+## Closed
 
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| LIQUIDAF | 03-19 00:39 | 0.41x | 1.37x | 0.3h | 0.0002 |
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ❌ LIQUIDAF | -0.0002 | 03-19 00:39 | 1.4x | 03-19 00:55 | 0.0000/0.0002 | gc_SL |
 
 <details><summary>📋 Full Trade Log</summary>
 

@@ -1,5 +1,11 @@
 # [TEST] `6raSuhfig5Y1vZJx...`
-> 2026-03-19 00:55 UTC | **3** pos | **1W/2L** | P&L: **-0.000249 SOL** (-37.7%) | 0 open
+> 2026-03-19 01:00 UTC | **4** pos | **1W/2L** | P&L: **-0.000249 SOL** (-37.7%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| STRAWBERRY | 03-19 00:58 | 0.92x | 1.04x | 0.0h | 0.0002 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 00:58 | STRAWBERRY | BUY | 0.0002 | `5kbD5rPfbHKUHrWq...` |
 | 03-19 00:23 | BLU | SELL | 0.0001 | `2GbiauXzqdGr9aBu...` |
 | 03-19 00:05 | BLU | SELL | 0.0001 | `4a8RjVGPSvu1n9ta...` |
 | 03-18 23:54 | BLU | BUY | 0.0002 | `53pVcNp1pbzqJfv6...` |
