@@ -1,9 +1,18 @@
-# Exit Log — 2026-03-19 23:53 UTC
+# Exit Log — 2026-03-19 23:58 UTC
 
-Total closed: **90**
+Total closed: **99**
 
 | Token | Wallet | Result | Reason | Entry $ | Pool | Entry → Exit |
 |-------|--------|--------|--------|---------|------|-------------|
+| 🔴 SHOENICE  | `dATMod1U...` | **0.38x** | stop_loss | $0.000016 | pumpfun | 2026-03-19 23:31 → 2026-03-19 23:57 |
+| 🔴 COMPUTE | `2ehX4zKx...` | **0.40x** | stop_loss | $0.000012 | pumpfun | 2026-03-19 23:52 → 2026-03-19 23:57 |
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000026 | pumpswap | 2026-03-19 23:56 → 2026-03-19 23:56 |
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000033 | pumpswap | 2026-03-19 23:55 → 2026-03-19 23:55 |
+| 🔴 SANAE | `CgwwjU2c...` | **0.33x** | stop_loss | $0.000039 | pumpswap | 2026-03-19 23:55 → 2026-03-19 23:55 |
+| 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000026 | pumpswap | 2026-03-19 23:54 → 2026-03-19 23:54 |
+| 🔴 COMPUTE | `PNbMdYRM...` | **0.22x** | stop_loss | $0.000012 | pumpfun | 2026-03-19 23:53 → 2026-03-19 23:53 |
+| 🔴 Massive | `CgwwjU2c...` | **0.28x** | stop_loss | $0.000079 | pumpswap | 2026-03-19 23:53 → 2026-03-19 23:53 |
+| 🟡 Massive | `dATMod1U...` | **1.47x** | trailing_stop_3x | $0.000025 | pumpswap | 2026-03-19 23:42 → 2026-03-19 23:53 |
 | 🔴 DOOLYSAURUS | `EaEf6TH8...` | **0.40x** | stop_loss | $0.000008 | pumpfun | 2026-03-19 23:51 → 2026-03-19 23:53 |
 | 🔴 Dickus | `4Sw7Rgum...` | **0.00x** | stop_loss | $0.000023 | pumpswap | 2026-03-19 23:53 → 2026-03-19 23:53 |
 | 🔴 sage | `8QdLq5UW...` | **0.38x** | stop_loss | $0.000007 | pumpfun | 2026-03-19 23:48 → 2026-03-19 23:52 |
