@@ -1,9 +1,12 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 10:15 UTC*
+*Last updated: 2026-03-19 10:20 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 10:15 | 🔴 sell | gf | `6raSuhfig5Y1...` | 0.255 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3zRsHpGb64edXAFVqw7wYM4dAbg5qUzLbaNng7PKSbuP6gs44dcnFpXfQ7ssKCzThfC3y1GHrHnqJRt8nYU3LxEc) |
+| 2026-03-19 10:15 | 🔴 sell | Chong | `6raSuhfig5Y1...` | 0.210 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/5kXa7XMBNQoivAG5dBuwb3fXq91LYBznQQvzc1CrShRpRgmpiLvqwwNFtn8kGLbiRcPVcx5Fyv2eoJhfUUSfLeoh) |
+| 2026-03-19 10:15 | 🔴 sell | MILK | `6raSuhfig5Y1...` | 0.319 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/5JT6tTaKnw4qRo6NX9K4Q5WS8QckpcTtHJUeH2Tvi96xLuBs6ZzZStGpzwqRix7rYB2oL2fdmnfQodwRyc21SC6K) |
 | 2026-03-19 09:39 | 🔴 sell | ? | `cqakon1K22iR...` | 0.142 | 0.3x | stop_loss | [tx](https://solscan.io/tx/2oK2pksQn5rs72h1qk3NAqW7a8KzhudZVjPDAf3FVCoce6n2gi83LtRSYgoK7Tf84Dmycjjf3qYrMp9svGoEAuC1) |
 | 2026-03-19 09:30 | 🟢 buy | ? | `cqakon1K22iR...` | 0.500 | — | cielo_copy:cqakon1K22iRvSAnzyNG | [tx](https://solscan.io/tx/32u8j9WejVQUPCQNBbbBqNoqtk1Nv9froSXjKDadpSEDuJPsqSgsfsogwD4oHQrZXch2NKTDfUDY6HLZ5YyHiDs) |
 | 2026-03-19 09:24 | 🔴 sell | Billy | `cqakon1K22iR...` | 0.199 | 0.4x | stop_loss | [tx](https://solscan.io/tx/4t2yseGGEbbXbFGWMzQWZK57BY64wsWhZGopZatCoKoFMNXHE3vcVB67wGwNCb4EBxnHvU63FEDjinfzxYucpFbH) |

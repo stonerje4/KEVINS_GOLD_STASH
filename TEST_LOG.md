@@ -1,8 +1,12 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 10:15 UTC** | 7d | 187 buys, 149 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
+> Updated: **2026-03-19 10:20 UTC** | 7d | 188 buys, 152 sells | In: **0.04** | Out: **4.76** | Net: **+4.72 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 10:20 | 🔴 SELL | WAR | 0.0001 | 9G4ytadk... | stale_cleanu | `4Tdrxv4wTrPR...` |
+| 03-19 | 10:19 | 🔴 SELL | TRUWE | 0.0001 | FoHJUYTh... | stale_cleanu | `67BpfY9JomTL...` |
+| 03-19 | 10:19 | 🔴 SELL | ClawBike | 0.0001 | FoHJUYTh... | stale_cleanu | `KbApKzasLVgZ...` |
+| 03-19 | 10:16 | 🟢 BUY | TUDOU | 0.0002 | 9G4ytadk... | copy_buy | `44LR5FpYDkiz...` |
 | 03-19 | 10:12 | 🟢 BUY | DINO | 0.0002 | FoHJUYTh... | copy_buy | `5C7YS77qAxo2...` |
 | 03-19 | 10:08 | 🟢 BUY | PACO | 0.0002 | 6raSuhfi... | copy_buy | `WxkWMXNwe6NS...` |
 | 03-19 | 10:08 | 🟢 BUY | PUMPBL | 0.0002 | FoHJUYTh... | copy_buy | `3EzGGHCcvx6E...` |
