@@ -1,5 +1,5 @@
 # [PRD] `r9pFHjFe2CiovRvr...`
-> 2026-03-19 13:28 UTC | **9** pos | **0W/5L** | P&L: **-1.401770 SOL** (-56.1%) | 4 open
+> 2026-03-19 13:29 UTC | **9** pos | **0W/5L** | P&L: **-1.401770 SOL** (-56.1%) | 4 open
 
 ## Open
 
@@ -24,9 +24,9 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-19 13:24 | e-CNY | SELL | 0.0000 | `?` |
-| 03-19 13:24 | MutantX | SELL | 0.0000 | `?` |
 | 03-19 13:24 | XPXGOLD | SELL | 0.0000 | `?` |
+| 03-19 13:24 | MutantX | SELL | 0.0000 | `?` |
+| 03-19 13:24 | e-CNY | SELL | 0.0000 | `?` |
 | 03-19 11:22 | USAOIL | BUY | 0.5000 | `25vA529du6fSwJ4e...` |
 | 03-19 11:15 | TGR | SELL | 0.4578 | `aoAjyam5iUbNwFXg...` |
 | 03-19 10:37 | XPXGOLD | SELL | 0.2522 | `4AK3pBJJEtc4PLbJ...` |
