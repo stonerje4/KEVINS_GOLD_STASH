@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 12:50 UTC*
+*Last updated: 2026-03-19 12:55 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 12:51 | 🟢 buy | USAOIL | `DHfshpzoC9Q7...` | 0.280 | — | cielo_copy:DHfshpzoC9Q7rz32j5ju | [tx](https://solscan.io/tx/mrpb1o2upuetE8cunYvxxwpmJA8DcUoJiaoq2DGUQJEuLFkSMw4pGyRLw5BrCdizWk95rEWmZk5Ko6h1dV5V4Lj) |
 | 2026-03-19 12:15 | 🔴 sell | DELMO | `DDApL88zun3v...` | 0.236 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/2BkGhvco3wdD2mPux6z7WaYRzccEJxdAE4WvwtChLAKVy8Wkv1TMjozApZoydjfRCS6XQaVxsRv4PnTJsUoKidc5) |
 | 2026-03-19 12:15 | 🔴 sell | OIL#000 | `HCDsVE5Y22dz...` | 0.434 | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3mLv5iRJHpFk3xnagaFaKMZQGH2uFMtQ8LFAMvyp4WWaWT4qZpy8fEc1GB5cgUcY7mLZM1vZaaQcLN36aqU9CvzP) |
 | 2026-03-19 11:48 | 🟢 buy | HE-GASSEN | `2w85VLX4W4qm...` | 0.500 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/ftox9ZfpYH9cZVHeC27wcySBdvRHXNArJaQhZ5YoHbXsiykbUcPyJmVTEQPWeqQx68VbiXtdPT9jjxdVZ934ArP) |
@@ -203,4 +204,3 @@
 | 2026-03-18 19:08 | 🟢 buy | QWIN | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/49VW2rieyUMHBQGd7UUmKKca51HpoWJd7nP761iZc8SQ2zK2mXPm9z8vY5teCKRR39sdcEWHsEgREuEETbRMtHEW) |
 | 2026-03-18 19:07 | 🟢 buy | ? | `HCDsVE5Y22dz...` | 0.500 | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/TkH9krqcFDkQ88v8AenALwMko4S3SfJpJuAEiEd7vUb9ztnwnJYTftnrRqcPYuH9bmAeVXffZAeTqyH7jgtKsvQ) |
 | 2026-03-18 19:02 | 🟢 buy | WAR | `HCDsVE5Y22dz...` | 0.500 | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/5DcQRY7JjGUmCMtoAFZDvANtqDfGQ9sp8c1RcjoR7vnCsNuaeWV7EN9nprUX7hmi1zqcfn8wkZ2xnaP3GJ6pMnSY) |
-| 2026-03-18 18:36 | 🟢 buy | OIL#000 | `HCDsVE5Y22dz...` | 0.500 | — | cielo_copy:HCDsVE5Y22dzxFzibEFS | [tx](https://solscan.io/tx/2yTnEFnBGxQp4yGF8DwFNTSR7dFj6mhjXoC8Y5811PrC3VurHRbuhAFhBFsnp6FZsMDz7x6HMNQVBPSrLvtDpbGY) |
