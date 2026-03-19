@@ -1,11 +1,5 @@
 # [PRD] `5n593DWQkpfFgA69...`
-> 2026-03-19 17:25 UTC | **12** pos | **3W/8L** | P&L: **+1.105555 SOL** (+20.1%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| functionless | 03-18 19:31 | 0.00x | 1.35x | 21.9h | 0.5000 |
+> 2026-03-19 17:30 UTC | **12** pos | **3W/9L** | P&L: **+0.605555 SOL** (+10.1%) | 0 open
 
 ## Closed
 
@@ -21,12 +15,14 @@
 | ❌ FUCKENING | -0.3032 | 03-18 22:30 | 1.6x | 03-19 08:08 | 0.1968/0.5000 | SL |
 | ✅ GroupChat | +0.1414 | 03-18 20:24 | 4.0x | 03-18 21:14 | 0.6414/0.5000 | gc_zero_balance |
 | ✅ POLSIA | +1.9166 | 03-18 19:42 | 5.3x | 03-18 20:06 | 2.4166/0.5000 | trail |
+| ❌ functionless | -0.5000 | 03-18 19:31 | 1.3x | 03-19 17:29 | 0.0000/0.5000 | stale_ghost_close |
 | ✅ QWIN | +0.9756 | 03-18 19:08 | 3.6x | 03-18 19:22 | 1.4756/0.5000 | trail |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 17:29 | functionless | SELL | 0.0000 | `?` |
 | 03-19 14:29 | KopiKamu | SELL | 0.2401 | `3r8nSUPRAfNfRJTA...` |
 | 03-19 13:29 | ? | SELL | 0.2226 | `5eP6mnCFTv7wj1u1...` |
 | 03-19 13:29 | McCasland | SELL | 0.3199 | `3ddncLzyWDFojTb7...` |
