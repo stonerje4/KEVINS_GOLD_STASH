@@ -1,8 +1,11 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 04:10 UTC** | 7d | 111 buys, 81 sells | In: **0.02** | Out: **4.75** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 04:15 UTC** | 7d | 113 buys, 82 sells | In: **0.02** | Out: **4.75** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 04:14 | 💰 SELL | Strawberita | 0.0001 | cqakon1K... | tp_8x_trim | `Hkg4mB6RM21S...` |
+| 03-19 | 04:13 | 🟢 BUY | p(dog)≈1 | 0.0002 | ETHhoTiK... | copy_buy | `4SRVNHdrBab2...` |
+| 03-19 | 04:10 | 🟢 BUY | USAOIL | 0.0002 | ETHhoTiK... | copy_buy | `49bwaJqZQ6S8...` |
 | 03-19 | 04:09 | 🟢 BUY | JEFF | 0.0002 | FoHJUYTh... | copy_buy | `34amDENJtqky...` |
 | 03-19 | 04:07 | 🟢 BUY | AIFRUIT | 0.0002 | ALJ4P5QN... | copy_buy | `4nfSqCL5RKrH...` |
 | 03-19 | 04:01 | 🔴 SELL | XENOGEN | 0.0001 | ApkQGKbq... | SL | `3EsyUqfWNwCt...` |
