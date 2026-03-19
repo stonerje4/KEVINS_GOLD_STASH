@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 03:20 UTC*
+*Last updated: 2026-03-19 03:25 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 03:23 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 1.299 | 2.6x | runner_trailing_stop | [tx](https://solscan.io/tx/4cjSzvpfbo1ryk3LBedvLE3Ax2E4kHhvurqqcUjLasiEau4prvhprZsmrqbkD3VPNoLyLTHV9RJ7z7e6F37xWYeM) |
 | 2026-03-19 03:04 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 0.260 | 5.2x | tp_4x_trim | [tx](https://solscan.io/tx/2Pp5PQEVom1JV8qNFQHLQCgnQduCBY8R14WdtA767XMpjFpph3oqEm6z9PnnEJq3bhuAWEy3GYMY18z9o4hyCqL5) |
 | 2026-03-19 02:58 | 🔴 sell | BLACKLINE | `ApkQGKbq8dRw...` | 0.384 | 3.1x | tp_3x_trim | [tx](https://solscan.io/tx/4vDNsEhFesXRiuZWDoPMV5bDAteE4VUVHydoyKx9WuVPiKmQT1tKBT182SmJErkDJa1zDEPyas7xXWT5Rnih8soS) |
 | 2026-03-19 02:58 | 🟢 buy | MutantX | `r9pFHjFe2Cio...` | 0.500 | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/5H22XexbNLtSTd9fwEUsPkoRf5mQrZ1YjmJbsD4Fmvsru6PSaJYZKEYGcJhBnF17d5fUBqPcfCWTff3pGdjHYZz2) |

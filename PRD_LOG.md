@@ -1,8 +1,9 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 03:20 UTC** | 7d | 72 buys, 51 sells | In: **36.00** | Out: **17.56** | Net: **-18.44 SOL**
+> Updated: **2026-03-19 03:25 UTC** | 7d | 72 buys, 52 sells | In: **36.00** | Out: **18.86** | Net: **-17.14 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 03:23 | 💰 SELL | BLACKLINE | 1.2986 | ApkQGKbq... | trail | `4cjSzvpfbo1r...` |
 | 03-19 | 03:04 | 💰 SELL | BLACKLINE | 0.2603 | ApkQGKbq... | TP3 | `2Pp5PQEVom1J...` |
 | 03-19 | 02:58 | 💰 SELL | BLACKLINE | 0.3839 | ApkQGKbq... | TP2 | `4vDNsEhFesXR...` |
 | 03-19 | 02:58 | 🟢 BUY | MutantX | 0.5000 | r9pFHjFe... | copy | `5H22XexbNLtS...` |
