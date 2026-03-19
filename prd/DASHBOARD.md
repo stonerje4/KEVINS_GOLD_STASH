@@ -1,9 +1,9 @@
 # 📈 PRD — Production Dashboard
 
-*Last updated: 2026-03-19 13:25 UTC*
+*Last updated: 2026-03-19 13:27 UTC*
 
 **Wallet:** [`DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h`](https://solscan.io/account/DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h)
-**Position Size:** 0.50 SOL (~$44/buy) · **SOL:** $88.03
+**Position Size:** 0.50 SOL (~$44/buy) · **SOL:** $87.95
 
 ## Summary
 
@@ -11,25 +11,26 @@
 |--------|-------|
 | Followed Wallets | 15 |
 | Total Positions | 110 |
-| Open | 36 |
-| Closed | 74 |
+| Open | 35 |
+| Closed | 75 |
+| Total Gas Fees | 0.4088 SOL ($35.96) |
 
 ## Wallet Performance
 
-| | Wallet | Pos | W/L | WR | Closed P&L | ROI | Unreal | **Total** | Avg Peak | Open | Solscan |
-|--|--------|-----|-----|-----|------------|-----|--------|-----------|----------|------|--------|
-| 🟢 | [`ApkQGKbq8dRw5ha9n2bg...`](wallets/PRD_ApkQGKbq8dRw5ha9n2bg.md) | 3 | 1/1 | 50% | $+122 | +138% | $-26 | **$+96** | 4.3x | 1 | [🔗](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
-| 🟢 | [`5n593DWQkpfFgA69mS1M...`](wallets/PRD_5n593DWQkpfFgA69mS1M.md) | 12 | 3/4 | 43% | $+179 | +58% | $-90 | **$+88** | 2.6x | 5 | [🔗](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
-| 🟢 | [`E79aNzAkDa92b5bnBHED...`](wallets/PRD_E79aNzAkDa92b5bnBHED.md) | 4 | 2/2 | 50% | $+22 | +13% | — | **$+22** | 2.2x | 0 | [🔗](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
-| 🟢 | [`HMM6RoT2Xo3BNfD5FTNs...`](wallets/PRD_HMM6RoT2Xo3BNfD5FTNs.md) | 1 | 1/0 | 100% | $+15 | +34% | — | **$+15** | 2.4x | 0 | [🔗](https://solscan.io/account/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) |
-| 🔴 | [`J5jm7BnBiGaB1x72FGNH...`](wallets/PRD_J5jm7BnBiGaB1x72FGNH.md) | 7 | 0/4 | 0% | $-68 | -38% | $+48 | **$-20** | 1.1x | 3 | [🔗](https://solscan.io/account/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) |
-| 🔴 | [`7aMgK5L4qEQ8Nyv6ZzhZ...`](wallets/PRD_7aMgK5L4qEQ8Nyv6ZzhZ.md) | 1 | 0/1 | 0% | $-44 | -100% | — | **$-44** | 1.2x | 0 | [🔗](https://solscan.io/account/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) |
-| 🔴 | [`DDApL88zun3vGuhkxkUx...`](wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 9 | 0/4 | 0% | $-76 | -43% | $-11 | **$-87** | 1.1x | 5 | [🔗](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
-| 🔴 | [`HCDsVE5Y22dzxFzibEFS...`](wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 6 | 0/3 | 0% | $-94 | -71% | $+3 | **$-91** | 1.3x | 3 | [🔗](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
-| 🔴 | [`5vweNikgScdnGkZCC3ya...`](wallets/PRD_5vweNikgScdnGkZCC3ya.md) | 3 | 0/3 | 0% | $-94 | -71% | — | **$-94** | 1.2x | 0 | [🔗](https://solscan.io/account/5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg) |
-| 🔴 | [`r9pFHjFe2CiovRvrakTC...`](wallets/PRD_r9pFHjFe2CiovRvrakTC.md) | 9 | 0/5 | 0% | $-123 | -56% | $+14 | **$-110** | 1.5x | 4 | [🔗](https://solscan.io/account/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) |
-| 🔴 | [`DHfshpzoC9Q7rz32j5ju...`](wallets/PRD_DHfshpzoC9Q7rz32j5ju.md) | 8 | 1/5 | 17% | $-131 | -50% | $-16 | **$-147** | 1.9x | 2 | [🔗](https://solscan.io/account/DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf) |
-| 🔴 | [`2w85VLX4W4qm8SPS7UJ3...`](wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 11 | 1/6 | 14% | $-125 | -40% | $-77 | **$-201** | 1.6x | 4 | [🔗](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
+| | Wallet | Pos | W/L | WR | Closed P&L | ROI | Unreal | Gas | **Total** | Avg Peak | Open | Solscan |
+|--|--------|-----|-----|-----|------------|-----|--------|-----|-----------|----------|------|--------|
+| 🟢 | [`ApkQGKbq8dRw5ha9n2bg...`](wallets/PRD_ApkQGKbq8dRw5ha9n2bg.md) | 3 | 1/1 | 50% | $+122 | +138% | $-26 | $1 | **$+96** | 4.3x | 1 | [🔗](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
+| 🟢 | [`5n593DWQkpfFgA69mS1M...`](wallets/PRD_5n593DWQkpfFgA69mS1M.md) | 12 | 3/4 | 43% | $+178 | +58% | $-90 | $4 | **$+88** | 2.6x | 5 | [🔗](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
+| 🟢 | [`E79aNzAkDa92b5bnBHED...`](wallets/PRD_E79aNzAkDa92b5bnBHED.md) | 4 | 2/2 | 50% | $+22 | +13% | — | $0.54 | **$+22** | 2.2x | 0 | [🔗](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
+| 🟢 | [`J5jm7BnBiGaB1x72FGNH...`](wallets/PRD_J5jm7BnBiGaB1x72FGNH.md) | 7 | 0/4 | 0% | $-44 | -25% | $+64 | $1 | **$+20** | 1.1x | 3 | [🔗](https://solscan.io/account/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) |
+| 🟢 | [`HMM6RoT2Xo3BNfD5FTNs...`](wallets/PRD_HMM6RoT2Xo3BNfD5FTNs.md) | 1 | 1/0 | 100% | $+15 | +34% | — | $0.49 | **$+15** | 2.4x | 0 | [🔗](https://solscan.io/account/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) |
+| 🔴 | [`7aMgK5L4qEQ8Nyv6ZzhZ...`](wallets/PRD_7aMgK5L4qEQ8Nyv6ZzhZ.md) | 1 | 0/1 | 0% | $-44 | -100% | — | $0.00 | **$-44** | 1.2x | 0 | [🔗](https://solscan.io/account/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) |
+| 🔴 | [`DDApL88zun3vGuhkxkUx...`](wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 9 | 0/4 | 0% | $-76 | -43% | $-11 | $3 | **$-87** | 1.1x | 5 | [🔗](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
+| 🔴 | [`HCDsVE5Y22dzxFzibEFS...`](wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 6 | 0/3 | 0% | $-94 | -71% | $+3 | $1 | **$-91** | 1.3x | 3 | [🔗](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
+| 🔴 | [`5vweNikgScdnGkZCC3ya...`](wallets/PRD_5vweNikgScdnGkZCC3ya.md) | 3 | 0/3 | 0% | $-94 | -71% | — | $0.01 | **$-94** | 1.2x | 0 | [🔗](https://solscan.io/account/5vweNikgScdnGkZCC3ya2FoJrezJBrSrhZgp8kK8bbtg) |
+| 🔴 | [`r9pFHjFe2CiovRvrakTC...`](wallets/PRD_r9pFHjFe2CiovRvrakTC.md) | 9 | 0/5 | 0% | $-123 | -56% | $+14 | $4 | **$-110** | 1.5x | 4 | [🔗](https://solscan.io/account/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) |
+| 🔴 | [`DHfshpzoC9Q7rz32j5ju...`](wallets/PRD_DHfshpzoC9Q7rz32j5ju.md) | 8 | 1/5 | 17% | $-131 | -50% | $-16 | $2 | **$-147** | 1.9x | 2 | [🔗](https://solscan.io/account/DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf) |
+| 🔴 | [`2w85VLX4W4qm8SPS7UJ3...`](wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 11 | 1/6 | 14% | $-124 | -40% | $-77 | $2 | **$-201** | 1.6x | 4 | [🔗](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 
 ## Followed Wallets (15)
 

@@ -1,8 +1,10 @@
 # 📊 PRD Trade Log
-> Updated: **2026-03-19 13:25 UTC** | 7d | 110 buys, 100 sells | In: **54.78** | Out: **29.32** | Net: **-25.46 SOL**
+> Updated: **2026-03-19 13:28 UTC** | 7d | 110 buys, 102 sells | In: **54.78** | Out: **29.78** | Net: **-25.00 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 13:25 | 🔴 SELL | CTRUMP | 0.1906 | 6raSuhfi... | SL | `5gscoeWoEobV...` |
+| 03-19 | 13:25 | 💰 SELL | Spiderman | 0.2689 | J5jm7BnB... | TP1 | `41QnsUroHhfE...` |
 | 03-19 | 13:24 | 🔴 SELL | WRT | 0.0000 | 5vweNikg... | manual_sell_ | `?` |
 | 03-19 | 13:24 | 🔴 SELL | FTR | 0.0000 | DHfshpzo... | manual_sell_ | `?` |
 | 03-19 | 13:24 | 🔴 SELL | Meteor | 0.0000 | DHfshpzo... | manual_sell_ | `?` |
