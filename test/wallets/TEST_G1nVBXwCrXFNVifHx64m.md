@@ -1,11 +1,11 @@
 # [TEST] `G1nVBXwCrXFNVifH...`
-> 2026-03-19 10:10 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 10:15 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| USAOIL | 03-19 08:20 | 1.47x | 1.74x | 1.8h | 0.0002 |
+| USAOIL | 03-19 08:20 | 1.44x | 1.74x | 1.9h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
