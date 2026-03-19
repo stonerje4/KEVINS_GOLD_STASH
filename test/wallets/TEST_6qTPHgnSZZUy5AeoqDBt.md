@@ -1,12 +1,11 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-19 06:55 UTC | **6** pos | **3W/1L** | P&L: **+0.001570 SOL** (+178.4%) | 2 open
+> 2026-03-19 07:00 UTC | **6** pos | **3W/2L** | P&L: **+0.001438 SOL** (+130.7%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| CANOPY | 03-19 01:56 | 1.58x | 1.58x | 5.0h | 0.0002 |
-| LINLIAN | 03-18 23:48 | 0.43x | 1.48x | 7.1h | 0.0002 |
+| CANOPY | 03-19 01:56 | 1.58x | 1.58x | 5.1h | 0.0002 |
 
 ## Closed
 
@@ -15,12 +14,14 @@
 | ✅ HUNT | +0.0004 | 03-19 01:01 | 6.4x | 03-19 03:46 | 0.0006/0.0002 | trail |
 | ❌ NOSTALGIA | -0.0001 | 03-19 00:13 | 1.0x | 03-19 00:32 | 0.0001/0.0002 | gc_SL |
 | ✅ CLAWCYCLE | +0.0009 | 03-18 23:58 | 10.1x | 03-19 01:47 | 0.0011/0.0002 | trail |
+| ❌ LINLIAN | -0.0001 | 03-18 23:48 | 1.5x | 03-19 06:59 | 0.0001/0.0002 | SL |
 | ✅ Spiderman | +0.0004 | 03-18 22:18 | 5.0x | 03-19 05:40 | 0.0007/0.0002 | trail |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 06:59 | LINLIAN | SELL | 0.0001 | `62kJHT3ZZebih8jV...` |
 | 03-19 05:40 | Spiderman | SELL | 0.0003 | `2VpLmCEVtdoboksL...` |
 | 03-19 05:34 | Spiderman | SELL | 0.0001 | `55Ty1atE43QRCkpx...` |
 | 03-19 05:25 | Spiderman | SELL | 0.0001 | `3f66pUSx4gn99dMU...` |

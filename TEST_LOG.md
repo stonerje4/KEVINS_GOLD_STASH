@@ -1,8 +1,14 @@
 # 🧪 TEST Trade Log
-> Updated: **2026-03-19 06:55 UTC** | 7d | 134 buys, 106 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
+> Updated: **2026-03-19 07:00 UTC** | 7d | 135 buys, 111 sells | In: **0.03** | Out: **4.76** | Net: **+4.73 SOL**
 
 | Date | Time | Action | Token | SOL | Wallet | Reason | TX |
 |------|------|--------|-------|-----|--------|--------|----|
+| 03-19 | 06:59 | 💰 SELL | USAOIL | 0.0001 | ETHhoTiK... | tp_8x_trim | `3HnMyM9S8jEU...` |
+| 03-19 | 06:59 | 🔴 SELL | LINLIAN | 0.0001 | 6qTPHgnS... | SL | `62kJHT3ZZebi...` |
+| 03-19 | 06:58 | 🟢 BUY | PEPEPUNCH | 0.0002 | ETHhoTiK... | copy_buy | `58mumJUjuRrR...` |
+| 03-19 | 06:58 | 💰 SELL | USAOIL | 0.0001 | ETHhoTiK... | TP4 | `2SAz8KDRx3ZC...` |
+| 03-19 | 06:58 | 💰 SELL | USAOIL | 0.0001 | ETHhoTiK... | TP3 | `5pAngK9e34Xb...` |
+| 03-19 | 06:57 | 💰 SELL | Gilbert | 0.0001 | 6raSuhfi... | TP1 | `28iovy4ZLzhX...` |
 | 03-19 | 06:49 | 💰 SELL | USAOIL | 0.0002 | ETHhoTiK... | TP2 | `4C2SuyK9b6TJ...` |
 | 03-19 | 06:49 | 💰 SELL | USAOIL | 0.0002 | ETHhoTiK... | TP1 | `2dm7bd8ArnQZ...` |
 | 03-19 | 06:47 | 🟢 BUY | Solana | 0.0002 | 7x3WYp6b... | copy_buy | `3z71TNA99Hv2...` |

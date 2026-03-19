@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 06:55 UTC*
+*Last updated: 2026-03-19 07:00 UTC*
 
 | Time | Type | Token | Wallet | SOL | Mult | Reason | TX |
 |------|------|-------|--------|-----|------|--------|----|
+| 2026-03-19 06:57 | 🔴 sell | Gilbert | `6raSuhfig5Y1...` | 0.261 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/4VYZUUvwkZAzeuKLhaykYy3PwZo3xvcSH59CzCLQAA5uCj676GJDd26fkpwY8iNv9CNcJwqFFmuKfjxdPMZLBWT) |
+| 2026-03-19 06:57 | 🟢 buy | ? | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/2X4RTah5tXcubFsfG5dCiR5zmRecKpLXQeYh2Pd7Y8q6Wvec5Le9tFQk8b3CzCf6PLVwUEJSQUVvUC89jUupFXo1) |
 | 2026-03-19 06:48 | 🟢 buy | elonwifdoge | `7aMgK5L4qEQ8...` | 0.500 | — | cielo_copy:7aMgK5L4qEQ8Nyv6ZzhZ | [tx](https://solscan.io/tx/U5yC5JQZJ8QHDeNfHnb9ZhejjgKwfe3RZ3DfvbAKsvzaZxtss5yDwFsqPzenD6G2p6enJPcrsLGmgmptHzh4kDs) |
 | 2026-03-19 06:41 | 🟢 buy | McCasland | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/5FsMbR2fAuN2X4jjBxBzh2H5PnoX2y9TafoMjcNc1SVnwUcM868p1ETuED9rVqV8ePtTj4wBa6xJzKaLCA6ZHHLU) |
 | 2026-03-19 06:30 | 🟢 buy | Pizza | `5n593DWQkpfF...` | 0.500 | — | cielo_copy:5n593DWQkpfFgA69mS1M | [tx](https://solscan.io/tx/58uJ9ZGQpXT9JKvU4T9aZ6BzBamXjedxEnVZ3ijcZaTJqcntNpHAfvD6GM5KBZSQjFJPbFfMe629MMRHcBhSnUos) |
