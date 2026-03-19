@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-19 16:55 UTC*
+*Last updated: 2026-03-19 17:00 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
+| 2026-03-19 16:58 | 🔴 sell | MEMENTUM | `DDApL88zun3v...` | 0.199 | — | 0.4x | stop_loss | [tx](https://solscan.io/tx/2x6Hao4EQBA8mAo6yz94TWZdTNiJqoDnBfRsFGrcu6UpubjY7T8SEUGScFKmWqWb9hByiJErww8oyitzGnfotKmr) |
 | 2026-03-19 16:42 | 🟢 buy | $GCOIN | `r9pFHjFe2Cio...` | 0.280 | — | — | cielo_copy:r9pFHjFe2CiovRvrakTC | [tx](https://solscan.io/tx/2eS3YD5zWrN8vfbb5LR6J87ExXBh9z3CE74wZV6SNto1B57tGsrPXyjXxApDnBgbajRRYM1acAujHTGrUmqWZDqj) |
 | 2026-03-19 16:29 | 🔴 sell | STRAWBERRY | `6raSuhfig5Y1...` | 0.349 | — | 0.0x | stale_position_cleanup | [tx](https://solscan.io/tx/3yyqttJMZMg126zLLaD98vbmL9pkRDKAvruY3PuP8FQ8fK4w8hiQjrCnPaRZPwp8mkK8x8TTVcvPsWnUmWMFkUDi) |
 | 2026-03-19 16:18 | 🔴 sell | USAOIL | `DHfshpzoC9Q7...` | 0.088 | — | 0.3x | stop_loss | [tx](https://solscan.io/tx/2YZpgWowF4mc7huzcgvKs3Z5bBbtG2SrbaDU45iLkWYdwJ367K5QCaQUdmn17uBz4k51kv4xBb9AqaYQ2wqxY5F4) |
@@ -203,4 +204,3 @@
 | 2026-03-18 21:29 | 🔴 sell | SPOON | `6raSuhfig5Y1...` | 0.276 | 0.0005 | 2.2x | tp_2x_half | [tx](https://solscan.io/tx/3C7Z5vEM76mVTSMzJE5Ls6VqRXKLkFuhr93xVTeUK6j8AQLNw4V6gpLN6vq4ABDtv792dqnBKXyzxy5WnT7MW6yT) |
 | 2026-03-18 21:25 | 🟢 buy | HIM | `2w85VLX4W4qm...` | 0.500 | 0.0000 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/34GqiN9wLu86rfNuaRRyLaq6nFPJzMEupya7jvLMUocgDU8qBBfpayCg3QQUfkLrsA3zeeZCug3cn9QhuSCKZRwe) |
 | 2026-03-18 21:22 | 🟢 buy | House | `6raSuhfig5Y1...` | 0.500 | 0.0050 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/4P4VKLRSEHuWrLEjL1pDq3scUneoKRQxo4m8GKv5u4Ak4LWWrmYGtCN24k44EZeWvs6qsrb6KPDUEGSJFHdjYBje) |
-| 2026-03-18 21:20 | 🟢 buy | DEATHMASK | `6raSuhfig5Y1...` | 0.500 | 0.0050 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5h2qHUXTth9mtfa96DgcdeqGwP6KfQJWZNoLdZqaacUrecdQc5341GHAJwcgUNV7M5Vsg3ZqEMtaFMxyrHNggPk9) |
