@@ -1,16 +1,11 @@
 # [PRD] `E79aNzAkDa92b5bn...`
-> 2026-03-19 14:20 UTC | **5** pos | **2W/2L** | P&L: **+0.253979 SOL** (+12.7%) | 1 open
-
-## Open
-
-| Token | Entry | Current | Peak | Age | SOL In |
-|-------|-------|---------|------|-----|--------|
-| BUILDOOR | 03-19 13:48 | 0.00x | 1.05x | 0.5h | 0.2800 |
+> 2026-03-19 14:25 UTC | **5** pos | **2W/3L** | P&L: **+0.079206 SOL** (+3.5%) | 0 open
 
 ## Closed
 
 | Token | Result | Entry | Peak | Exit | P&L | Reason |
 |-------|--------|-------|------|------|-----|--------|
+| ❌ BUILDOOR | -0.1748 | 03-19 13:48 | 1.0x | 03-19 14:25 | 0.1052/0.2800 | SL |
 | ✅ CHOCOTINA | +0.8742 | 03-18 20:50 | 3.5x | 03-18 22:46 | 1.3742/0.5000 | trail |
 | ✅ SIGNS | +0.1891 | 03-18 20:05 | 2.2x | 03-18 20:37 | 0.6891/0.5000 | trail |
 | ❌ ALICE | -0.3093 | 03-18 19:50 | 1.4x | 03-18 19:55 | 0.1907/0.5000 | SL |
@@ -20,6 +15,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-19 14:25 | BUILDOOR | SELL | 0.1052 | `5aRJrUNbW2E7HsKr...` |
 | 03-19 13:48 | BUILDOOR | BUY | 0.2800 | `2Cf2GQXe33PWTUZL...` |
 | 03-18 22:46 | CHOCOTINA | SELL | 0.7020 | `4AKxXsWafNjJsLyH...` |
 | 03-18 22:32 | CHOCOTINA | SELL | 0.3957 | `5hAeYzM4sDSfJ5NV...` |
