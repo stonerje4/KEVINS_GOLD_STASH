@@ -1,6 +1,6 @@
 # 👁️ SHADOW — Paper Trading Dashboard
 
-*Last updated: 2026-03-19 09:00 UTC*
+*Last updated: 2026-03-19 09:05 UTC*
 *P&L normalized to $100/buy for comparison*
 
 ## Summary
