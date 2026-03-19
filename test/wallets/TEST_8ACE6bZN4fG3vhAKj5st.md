@@ -1,16 +1,16 @@
-# [TEST] `EfU8P5AZBitRYGQV...`
+# [TEST] `8ACE6bZN4fG3vhAK...`
 > 2026-03-19 00:40 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| TRENCHCLAW | 03-18 23:17 | 0.56x | 1.01x | 1.4h | 0.0002 |
+| LIQUIDAF | 03-19 00:39 | 1.25x | 1.25x | 0.0h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
-| 03-18 23:17 | TRENCHCLAW | BUY | 0.0002 | `4QxEzi2g1P6yPWrb...` |
+| 03-19 00:39 | LIQUIDAF | BUY | 0.0002 | `4AqE5yF1hLMpxpVR...` |
 
 </details>
