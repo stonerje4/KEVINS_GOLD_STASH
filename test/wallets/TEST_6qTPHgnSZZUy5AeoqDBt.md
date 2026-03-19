@@ -1,17 +1,19 @@
 # [TEST] `6qTPHgnSZZUy5Aeo...`
-> 2026-03-18 23:55 UTC | **2** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 2 open
+> 2026-03-19 00:00 UTC | **3** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 3 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| LINLIAN | 03-18 23:48 | 0.81x | 1.02x | 0.1h | 0.0002 |
-| Spiderman | 03-18 22:18 | 1.01x | 1.39x | 1.6h | 0.0002 |
+| CLAWCYCLE | 03-18 23:58 | 1.03x | 1.03x | 0.0h | 0.0002 |
+| LINLIAN | 03-18 23:48 | 0.87x | 1.02x | 0.2h | 0.0002 |
+| Spiderman | 03-18 22:18 | 1.04x | 1.39x | 1.7h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-18 23:58 | CLAWCYCLE | BUY | 0.0002 | `61YE9PpxpYnY2cyJ...` |
 | 03-18 23:48 | LINLIAN | BUY | 0.0002 | `UujTtqd7R5ChkeM9...` |
 | 03-18 22:18 | Spiderman | BUY | 0.0002 | `VpiARiQSCGkBUWJt...` |
 

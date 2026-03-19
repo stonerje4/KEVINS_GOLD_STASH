@@ -1,11 +1,11 @@
 # [TEST] `4Dpu2UjkFmnwmjSM...`
-> 2026-03-18 23:55 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
+> 2026-03-19 00:00 UTC | **1** pos | **0W/0L** | P&L: **+0.000000 SOL** (+0.0%) | 1 open
 
 ## Open
 
 | Token | Entry | Current | Peak | Age | SOL In |
 |-------|-------|---------|------|-----|--------|
-| NASDANQ | 03-18 23:27 | 1.53x | 1.53x | 0.5h | 0.0002 |
+| NASDANQ | 03-18 23:27 | 1.99x | 1.99x | 0.5h | 0.0002 |
 
 <details><summary>📋 Full Trade Log</summary>
 
