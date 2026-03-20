@@ -1,16 +1,16 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 17:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 17:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (14 open, 8 closed) |
+| Positions | 23 (15 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-429 |
-| 📦 Unrealized | $-137 |
-| 🏦 Total | **$-566** |
+| 📦 Unrealized | $-143 |
+| 🏦 Total | **$-572** |
 | Best ROI | 1.35x |
 | Avg ROI | 0.46x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Cm8Bkkgs | $0.000007 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 17:50 |
 | 🟡 LIBERTY | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:08 |
 | 🔴 3TWMK851 | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 16:56 |
 | 🔴 3zYWEG1K | $0.000005 | **0.50x** ($-50) | 1.06x |  | pumpfun | 2026-03-20 16:27 |

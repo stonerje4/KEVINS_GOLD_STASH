@@ -1,6 +1,6 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 17:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 17:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (9 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-288 |
-| 📦 Unrealized | $+586 |
-| 🏦 Total | **$+298** |
+| 📦 Unrealized | $+582 |
+| 🏦 Total | **$+294** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.52x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 HORMUZ | $0.000224 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:20 |
-| 🟡 Pixels | $0.000015 | **1.25x** ($+25) | 1.34x |  | pumpswap | 2026-03-20 17:15 |
+| 🟡 Pixels | $0.000015 | **1.21x** ($+21) | 1.34x |  | pumpswap | 2026-03-20 17:15 |
 | 🟡 ME | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 16:41 |
 | 🟡 SCRIPT | $0.000006 | **1.15x** ($+15) | 1.20x |  | pumpfun | 2026-03-20 16:30 |
 | 🟡 GameTheory | $0.000016 | **1.00x** ($+0) | 1.03x |  | pumpswap | 2026-03-20 16:04 |

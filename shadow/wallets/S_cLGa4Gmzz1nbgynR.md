@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 17:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 17:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 176 (161 open, 15 closed) |
 | W/L | 2/13 (13%) |
 | 💵 Realized | $-723 |
-| 📦 Unrealized | $-120 |
-| 🏦 Total | **$-844** |
+| 📦 Unrealized | $-85 |
+| 🏦 Total | **$-808** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.52x |
 
@@ -57,8 +57,8 @@
 | 🟡 MAPLE | $0.000045 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 MINDLESS | $0.000168 | **1.16x** ($+16) | 1.22x |  | pumpswap | 2026-03-20 13:16 |
 | 🟡 butthole | $0.000117 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
-| 🟡 honkermog | $0.000033 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-20 12:32 |
-| 🔴 CHIBIELON | $0.000039 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
+| 🟡 honkermog | $0.000033 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-20 12:32 |
+| 🔴 CHIBIELON | $0.000039 | **0.44x** ($-56) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🟡 DISLIKE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:09 |
 | 🔴 CHIBITRUMP | $0.000015 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 Matthew | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
@@ -106,7 +106,7 @@
 | 🟢 CLAW3D | $0.000053 | **4.99x** ($+399) | 6.59x | ✅ | pumpswap | 2026-03-20 03:26 |
 | 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🔴 SAID | $0.000274 | **0.96x** ($-4) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
-| 🟡 SEALION | $0.000047 | **1.47x** ($+47) | 1.50x |  | pumpswap | 2026-03-20 03:12 |
+| 🟡 SEALION | $0.000047 | **1.50x** ($+50) | 1.51x |  | pumpswap | 2026-03-20 03:12 |
 | 🔴 Retardmaxx | $0.000356 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🔴 Rosie | $0.000878 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🔴 WhiteBoy  | $0.000014 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
@@ -141,8 +141,8 @@
 | 🔴 Speak | $0.000023 | **0.72x** ($-28) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
 | 🟡 SOLINU | $0.000176 | **1.05x** ($+5) | 1.07x |  | pumpswap | 2026-03-20 00:57 |
 | 🟡 LIFE | $0.000024 | **1.55x** ($+55) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
-| 🔴 RENTAI | $0.000096 | **0.93x** ($-7) | 1.21x |  | pumpswap | 2026-03-20 00:50 |
-| 🟡 LUMO | $0.000027 | **1.60x** ($+60) | 2.13x | ✅ | pumpswap | 2026-03-20 00:48 |
+| 🔴 RENTAI | $0.000096 | **0.91x** ($-9) | 1.21x |  | pumpswap | 2026-03-20 00:50 |
+| 🟡 LUMO | $0.000027 | **1.79x** ($+79) | 2.13x | ✅ | pumpswap | 2026-03-20 00:48 |
 | 🔴 RI | $0.000043 | **0.80x** ($-20) | 1.01x |  | pumpswap | 2026-03-20 00:46 |
 | 🟡 Aliens | $0.000662 | **1.12x** ($+12) | 1.15x |  | pumpswap | 2026-03-20 00:41 |
 | 🟡 Saleh | $0.000013 | **1.43x** ($+43) | 1.69x |  | pumpswap | 2026-03-20 00:35 |
@@ -169,7 +169,7 @@
 | 🔴 NBR | $0.000084 | **0.90x** ($-10) | 1.24x |  | pumpswap | 2026-03-19 23:06 |
 | 🔴 Hamster  | $0.000218 | **0.68x** ($-32) | 1.22x |  | pumpswap | 2026-03-19 23:05 |
 | 🔴 Island | $0.000035 | **0.97x** ($-3) | 1.33x |  | pumpswap | 2026-03-19 23:02 |
-| 🟡 ケイジ | $0.000090 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-19 23:00 |
+| 🟡 ケイジ | $0.000090 | **1.48x** ($+48) | 1.48x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 PIKAHORSE | $0.000373 | **0.57x** ($-43) | 1.12x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 MIROFISH | $0.000032 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 22:58 |
 | 🔴 Noesis | $0.000346 | **0.84x** ($-16) | 1.05x |  | pumpswap | 2026-03-19 22:58 |

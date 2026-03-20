@@ -1,6 +1,6 @@
 # Wallet: `BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y`
 
-> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 17:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 17:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-140 |
-| 📦 Unrealized | $+24 |
-| 🏦 Total | **$-116** |
+| 📦 Unrealized | $+21 |
+| 🏦 Total | **$-118** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.30x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SCUBA | $0.000240 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-20 02:36 |
+| 🟡 SCUBA | $0.000240 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 CHIBI | $0.001136 | **1.98x** ($+98) | 2.24x | ✅ | pumpswap | 2026-03-20 01:40 |
 | 🟡 Strawberita | $0.000046 | **1.30x** ($+30) | 1.81x |  | pumpswap | 2026-03-19 23:14 |
 | 🔴 ONESHOTTED | $0.000009 | **0.90x** ($-10) | 1.17x |  | pumpswap | 2026-03-19 22:51 |

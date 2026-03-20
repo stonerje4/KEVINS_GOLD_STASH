@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 17:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 17:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-42 |
-| 🏦 Total | **$-42** |
+| 📦 Unrealized | $-48 |
+| 🏦 Total | **$-48** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Civil Claude | $0.000023 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 17:32 |
-| 🟡 twump | $0.000007 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 17:31 |
+| 🔴 Civil Claude | $0.000023 | **0.82x** ($-18) | 1.00x |  | pumpfun | 2026-03-20 17:32 |
+| 🟡 twump | $0.000007 | **1.17x** ($+17) | 1.19x |  | pumpfun | 2026-03-20 17:31 |
 | 🟡 SCELON | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:49 |
 | 🟡 JupUSD | $0.182981 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 07:49 |
 | 🔴 SOLANA | $0.000005 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 06:22 |

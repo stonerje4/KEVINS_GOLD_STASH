@@ -1,6 +1,6 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 17:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 17:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (14 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-438 |
-| 📦 Unrealized | $+231 |
-| 🏦 Total | **$-207** |
+| 📦 Unrealized | $+221 |
+| 🏦 Total | **$-217** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.37x |
 
@@ -22,7 +22,7 @@
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 16:05 |
 | 🟡 HORMUZ | $0.000110 | **1.72x** ($+72) | 2.06x | ✅ | pumpswap | 2026-03-20 15:23 |
 | 🟡 NunChucks | $0.000016 | **1.94x** ($+94) | 2.33x | ✅ | pumpfun | 2026-03-20 14:32 |
-| 🔴 Chonk | $0.000014 | **0.72x** ($-28) | 1.41x |  | pumpfun | 2026-03-20 09:56 |
+| 🔴 Chonk | $0.000014 | **0.61x** ($-39) | 1.41x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000014 | **3.35x** ($+235) | 4.86x | ✅ | pumpfun | 2026-03-20 09:53 |
 | 🟢 omochi | $0.000015 | **2.49x** ($+149) | 2.49x | ✅ | pumpfun | 2026-03-20 09:36 |
 | 🟡 Attention | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:06 |

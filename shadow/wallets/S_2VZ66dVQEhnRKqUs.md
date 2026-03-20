@@ -1,16 +1,16 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 17:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 17:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (16 open, 8 closed) |
+| Positions | 25 (17 open, 8 closed) |
 | W/L | 0/8 (0%) |
 | 💵 Realized | $-473 |
-| 📦 Unrealized | $+230 |
-| 🏦 Total | **$-242** |
+| 📦 Unrealized | $+268 |
+| 🏦 Total | **$-205** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.41x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SKI | $0.000102 | **1.37x** ($+37) | 1.63x |  | pumpswap | 2026-03-20 17:45 |
 | 🟡 MFT | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:50 |
 | 🟡 HELLO | $0.000100 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:18 |
 | 🔴 CHIBI | $0.000010 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 16:03 |
