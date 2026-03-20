@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 308 (304 open, 4 closed) |
+| Positions | 309 (305 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
-| 📦 Unrealized | $+304 |
-| 🏦 Total | **$+299** |
-| Best Trade | 3.0x |
-| Avg Peak | 2.7x |
+| 📦 Unrealized | $+307 |
+| 🏦 Total | **$+303** |
+| Best ROI | 3.00x |
+| Avg ROI | 0.99x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 brainrot | $0.000140 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
 | 🟡 Kurumi | $0.000141 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:03 |
 | 🟡 CHIBELON | $0.000128 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:03 |
 | 🟡 chibify | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
@@ -318,7 +319,7 @@
 | 🟡 imagineslop | $0.000005 | **1.29x** ($+29) | 1.45x |  | pumpswap | 2026-03-19 22:40 |
 | 🔴 Baldi | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-19 22:39 |
 | 🔴 BAGWORKOOR | $0.000055 | **0.95x** ($-5) | 1.32x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000385 | **1.56x** ($+56) | 1.72x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000385 | **1.59x** ($+59) | 1.72x |  | pumpswap | 2026-03-19 22:38 |
 | 🟡 DATBOI | $0.000044 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 22:37 |
 | 🔴 CL1 | $0.000335 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:36 |
 | 🔴 worth | $0.000107 | **0.96x** ($-4) | 1.17x |  | pumpswap | 2026-03-19 22:35 |

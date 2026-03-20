@@ -9,10 +9,10 @@
 | Positions | 116 (115 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+126 |
-| 🏦 Total | **$+49** |
-| Best Trade | 0.2x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+129 |
+| 🏦 Total | **$+52** |
+| Best ROI | 0.23x |
+| Avg ROI | 0.23x |
 
 ## Open Positions
 
@@ -132,7 +132,7 @@
 | 🟡 我的刀盾 | $0.003081 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-19 22:45 |
 | 🔴 Foodrot | $0.000150 | **0.94x** ($-6) | 1.11x |  | pumpswap | 2026-03-19 22:41 |
 | 🔴 Raccoon | $0.000013 | **0.97x** ($-3) | 1.29x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000394 | **1.52x** ($+52) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000394 | **1.55x** ($+55) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

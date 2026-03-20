@@ -9,17 +9,17 @@
 | Positions | 49 (47 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+246 |
-| 📦 Unrealized | $-402 |
-| 🏦 Total | **$-156** |
-| Best Trade | 3.0x |
-| Avg Peak | 6.1x |
+| 📦 Unrealized | $-360 |
+| 🏦 Total | **$-114** |
+| Best ROI | 2.99x |
+| Avg ROI | 2.23x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 $RIPCHUCK | $0.000003 | **1.47x** ($+47) | 1.47x |  | pumpfun | 2026-03-20 13:57 |
-| 🟢 GbHQcNbZ | $0.000003 | **3.51x** ($+251) | 3.52x | ✅ | pumpfun | 2026-03-20 13:55 |
+| 🟡 $RIPCHUCK | $0.000003 | **1.45x** ($+45) | 1.47x |  | pumpfun | 2026-03-20 13:57 |
+| 🟢 GbHQcNbZ | $0.000003 | **4.58x** ($+358) | 4.66x | ✅ | pumpfun | 2026-03-20 13:55 |
 | 🟡 Floki | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:36 |
 | 🔴 4h4Qs4ae | $0.000004 | **0.78x** ($-22) | 1.13x |  | pumpfun | 2026-03-20 13:35 |
 | 🔴 CHIBI | $0.000004 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:32 |
