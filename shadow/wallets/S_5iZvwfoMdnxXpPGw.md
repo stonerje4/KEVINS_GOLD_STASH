@@ -1,28 +1,27 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 22:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 22:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (12 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-163 |
-| 📦 Unrealized | $+153 |
-| 🏦 Total | **$-10** |
+| Positions | 17 (11 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-223 |
+| 📦 Unrealized | $+203 |
+| 🏦 Total | **$-20** |
 | Best ROI | 1.02x |
-| Avg ROI | 0.67x |
+| Avg ROI | 0.63x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CRACK | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 21:41 |
-| 🔴 Jessica | $0.000008 | **0.46x** ($-54) | 1.27x |  | pumpswap | 2026-03-20 21:32 |
 | 🟢 Jessica | $0.000015 | **2.50x** ($+150) | 2.50x | ✅ | pumpfun | 2026-03-20 21:32 |
-| 🟡 Dickus | $0.000007 | **1.10x** ($+10) | 1.13x |  | pumpswap | 2026-03-20 21:27 |
-| 🔴 BUFFALO | $0.000008 | **0.64x** ($-36) | 1.22x |  | pumpfun | 2026-03-20 21:20 |
+| 🟡 Dickus | $0.000007 | **1.01x** ($+1) | 1.13x |  | pumpswap | 2026-03-20 21:27 |
+| 🔴 BUFFALO | $0.000008 | **0.68x** ($-32) | 1.22x |  | pumpfun | 2026-03-20 21:20 |
 | 🟡 Cigify | $0.000033 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 21:14 |
 | 🟡 HELLO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:12 |
 | 🔴 NORRIS | $0.000006 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
@@ -35,6 +34,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Jessica | 0.40x | $-60 | stop_loss | 1.27x | pumpswap | 2026-03-20 21:32 → 2026-03-20 22:26 |
 | 🔴 HelloWorld! | 0.77x | $-23 | trailing_stop_2x | 2.26x | pumpswap | 2026-03-20 16:53 → 2026-03-20 16:58 |
 | 🔴 Immortalism | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 15:11 → 2026-03-20 15:13 |
 | 🟡 ROUNDHOUSE | 1.02x | $+2 | trailing_stop_14x | 14.19x | pumpfun | 2026-03-20 15:08 → 2026-03-20 19:29 |

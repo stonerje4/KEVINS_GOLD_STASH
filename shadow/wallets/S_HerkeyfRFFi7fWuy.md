@@ -1,6 +1,6 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 22:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 22:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (5 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-411 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-413** |
+| 📦 Unrealized | $+2 |
+| 🏦 Total | **$-410** |
 | Best ROI | 1.43x |
 | Avg ROI | 0.49x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Jessica | $0.000026 | **1.39x** ($+39) | 1.39x |  | pumpfun | 2026-03-20 21:41 |
-| 🔴 BUFFALO | $0.000009 | **0.60x** ($-40) | 1.03x |  | pumpfun | 2026-03-20 21:36 |
-| 🔴 Noorung | $0.000021 | **0.94x** ($-6) | 1.75x |  | pumpswap | 2026-03-20 17:52 |
+| 🔴 BUFFALO | $0.000009 | **0.64x** ($-36) | 1.03x |  | pumpfun | 2026-03-20 21:36 |
+| 🔴 Noorung | $0.000021 | **0.93x** ($-7) | 1.75x |  | pumpswap | 2026-03-20 17:52 |
 | 🔴 PMINE | $0.000011 | **0.98x** ($-2) | 1.04x |  | pumpfun | 2026-03-20 16:48 |
 | 🟡 Chuck | $0.000016 | **1.07x** ($+7) | 1.79x |  | pumpswap | 2026-03-20 13:56 |
 

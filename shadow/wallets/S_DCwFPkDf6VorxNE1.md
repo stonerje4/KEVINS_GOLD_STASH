@@ -1,6 +1,6 @@
 # Wallet: `DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj`
 
-> [GMGN](https://gmgn.ai/sol/address/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | [Solscan](https://solscan.io/account/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | Updated: 2026-03-20 22:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | [Solscan](https://solscan.io/account/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | Updated: 2026-03-20 22:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-18 |
-| 🏦 Total | **$-18** |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-39** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 HELLO | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:13 |
-| 🔴 MIROFISH | $0.000028 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 11:19 |
+| 🔴 MIROFISH | $0.000028 | **0.61x** ($-39) | 1.00x |  | pumpswap | 2026-03-20 11:19 |
 
 ## Closed Positions
 

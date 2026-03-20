@@ -1,24 +1,23 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 22:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 22:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 76 (50 open, 26 closed) |
-| W/L | 2/24 (8%) |
-| 💵 Realized | $-1,192 |
-| 📦 Unrealized | $-462 |
-| 🏦 Total | **$-1,655** |
+| Positions | 76 (49 open, 27 closed) |
+| W/L | 2/25 (7%) |
+| 💵 Realized | $-1,208 |
+| 📦 Unrealized | $-455 |
+| 🏦 Total | **$-1,663** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.54x |
+| Avg ROI | 0.55x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SNIFFER | $0.000027 | **0.97x** ($-3) | 2.06x | ✅ | pumpfun | 2026-03-20 12:54 |
 | 🟡 됴지님 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:53 |
 | 🟡 9FuC9Jor | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:42 |
 | 🟡 DMT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:40 |
@@ -54,7 +53,7 @@
 | 🔴 Grok | $0.000005 | **0.47x** ($-53) | 1.19x |  | pumpfun | 2026-03-20 08:54 |
 | 🔴 OM | $0.000012 | **0.76x** ($-24) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000005 | **0.46x** ($-54) | 1.69x |  | pumpfun | 2026-03-20 08:12 |
-| 🔴 Pixels | $0.000024 | **0.98x** ($-2) | 1.58x |  | pumpfun | 2026-03-20 06:53 |
+| 🟡 Pixels | $0.000024 | **1.04x** ($+4) | 1.58x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 GETCLAW | $0.000006 | **0.43x** ($-57) | 1.25x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 BOAR | $0.000012 | **0.54x** ($-46) | 1.04x |  | pumpswap | 2026-03-20 06:42 |
@@ -74,6 +73,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 ✋ | 0.39x | $-61 | stop_loss | 1.56x | pumpfun | 2026-03-20 18:32 → 2026-03-20 18:43 |
+| 🟡 SNIFFER | 0.85x | $-15 | trailing_stop_2x | 2.06x | pumpfun | 2026-03-20 12:54 → 2026-03-20 22:27 |
 | 🔴 Income | 0.35x | $-65 | stop_loss | 1.00x | pumpfun | 2026-03-20 10:15 → 2026-03-20 15:56 |
 | 🔴 effect | 0.69x | $-31 | trailing_stop_4x | 3.60x | pumpfun | 2026-03-20 09:54 → 2026-03-20 20:08 |
 | 🔴 Doolysaurus | 0.39x | $-61 | stop_loss | 1.66x | pumpfun | 2026-03-20 09:28 → 2026-03-20 09:57 |

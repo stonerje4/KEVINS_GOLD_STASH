@@ -1,6 +1,6 @@
 # Wallet: `6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc`
 
-> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-20 22:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-20 22:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-34** |
+| 📦 Unrealized | $-23 |
+| 🏦 Total | **$-23** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PunchDeng | $0.000005 | **0.87x** ($-13) | 1.07x |  | pumpswap | 2026-03-20 22:22 |
+| 🟡 PunchDeng | $0.000005 | **1.01x** ($+1) | 1.32x |  | pumpswap | 2026-03-20 22:22 |
 | 🟡 Elongate | $0.000006 | **1.17x** ($+17) | 1.25x |  | pumpswap | 2026-03-20 22:21 |
 | 🔴 ACM | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 21:14 |
-| 🔴 BC | $0.000018 | **0.78x** ($-22) | 1.16x |  | pumpswap | 2026-03-20 20:50 |
+| 🔴 BC | $0.000018 | **0.76x** ($-24) | 1.16x |  | pumpswap | 2026-03-20 20:50 |
 | 🔴 Loui | $0.000006 | **0.60x** ($-40) | 1.47x |  | pumpfun | 2026-03-20 20:50 |
 | 🔴 Chud | $0.000026 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 20:21 |
 | 🟡 3984 | $0.000007 | **1.88x** ($+88) | 2.39x | ✅ | pumpswap | 2026-03-20 19:50 |

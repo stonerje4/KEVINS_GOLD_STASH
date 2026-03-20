@@ -1,15 +1,15 @@
 # Wallet: `H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm`
 
-> [GMGN](https://gmgn.ai/sol/address/H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm) | [Solscan](https://solscan.io/account/H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm) | Updated: 2026-03-20 22:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm) | [Solscan](https://solscan.io/account/H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm) | Updated: 2026-03-20 22:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (5 open, 1 closed) |
+| Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-148 |
+| 📦 Unrealized | $-147 |
 | 🏦 Total | **$-208** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Elongate | $0.000016 | **1.14x** ($+14) | 1.68x |  | pumpswap | 2026-03-20 22:20 |
+| 🟡 Elongate | $0.000012 | **1.31x** ($+31) | 1.34x |  | pumpfun | 2026-03-20 22:27 |
+| 🔴 Elongate | $0.000016 | **0.84x** ($-16) | 1.68x |  | pumpswap | 2026-03-20 22:20 |
 | 🔴 vufXxUyV | $0.000006 | **0.41x** ($-59) | 1.30x |  | pumpfun | 2026-03-20 18:41 |
 | 🟡 𝕏CAT | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:20 |
 | 🔴 BARRON | $0.000006 | **0.40x** ($-60) | 1.47x |  | pumpfun | 2026-03-20 17:16 |
