@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 18:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 18:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 80 (53 open, 27 closed) |
 | W/L | 2/25 (7%) |
 | 💵 Realized | $-1,312 |
-| 📦 Unrealized | $-304 |
-| 🏦 Total | **$-1,617** |
+| 📦 Unrealized | $-375 |
+| 🏦 Total | **$-1,687** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.51x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ✋ | $0.000009 | **1.43x** ($+43) | 1.56x |  | pumpfun | 2026-03-20 18:32 |
+| 🔴 ✋ | $0.000009 | **0.58x** ($-42) | 1.56x |  | pumpfun | 2026-03-20 18:32 |
 | 🟡 RULEBOOK | $0.000056 | **1.23x** ($+23) | 1.39x |  | pumpswap | 2026-03-20 12:57 |
 | 🟢 SNIFFER | $0.000027 | **2.03x** ($+103) | 2.06x | ✅ | pumpfun | 2026-03-20 12:54 |
 | 🟡 됴지님 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:53 |
@@ -57,7 +57,7 @@
 | 🔴 Grok | $0.000005 | **0.47x** ($-53) | 1.19x |  | pumpfun | 2026-03-20 08:54 |
 | 🔴 OM | $0.000012 | **0.76x** ($-24) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000005 | **0.46x** ($-54) | 1.69x |  | pumpfun | 2026-03-20 08:12 |
-| 🔴 Pixels | $0.000024 | **0.78x** ($-22) | 1.58x |  | pumpfun | 2026-03-20 06:53 |
+| 🔴 Pixels | $0.000024 | **0.93x** ($-7) | 1.58x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 GETCLAW | $0.000006 | **0.43x** ($-57) | 1.25x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 BOAR | $0.000012 | **0.54x** ($-46) | 1.04x |  | pumpswap | 2026-03-20 06:42 |

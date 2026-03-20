@@ -1,16 +1,16 @@
 # Wallet: `J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT`
 
-> [GMGN](https://gmgn.ai/sol/address/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | [Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 18:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | [Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 18:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (9 open, 4 closed) |
+| Positions | 14 (10 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-245 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$-239** |
+| 📦 Unrealized | $+7 |
+| 🏦 Total | **$-238** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ELONIFY | $0.000030 | **1.01x** ($+1) | 1.02x |  | pumpfun | 2026-03-20 18:37 |
 | 🟡 Sadly | $0.000110 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:30 |
 | 🟡 XCAT | $0.000137 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:22 |
 | 🟡 HELLO | $0.000131 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:18 |

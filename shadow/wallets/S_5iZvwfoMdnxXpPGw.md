@@ -1,6 +1,6 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 18:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 18:40 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 14 (9 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-203 |
-| 📦 Unrealized | $+367 |
+| 📦 Unrealized | $+366 |
 | 🏦 Total | **$+164** |
 | Best ROI | 0.79x |
 | Avg ROI | 0.59x |
@@ -26,7 +26,7 @@
 | 🟡 Doolysaurus | $0.000138 | **1.44x** ($+44) | 1.78x |  | pumpswap | 2026-03-20 13:04 |
 | 🚀 credit | $0.000005 | **7.24x** ($+624) | 7.24x | ✅ | pumpfun | 2026-03-20 03:02 |
 | 🔴 Taylor | $0.000009 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
-| 🔴 imagineslop | $0.000007 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
+| 🔴 imagineslop | $0.000007 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
 
 ## Closed Positions
 

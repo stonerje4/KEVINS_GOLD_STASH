@@ -1,18 +1,18 @@
 # Wallet: `EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE`
 
-> [GMGN](https://gmgn.ai/sol/address/EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE) | [Solscan](https://solscan.io/account/EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE) | Updated: 2026-03-20 18:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE) | [Solscan](https://solscan.io/account/EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE) | Updated: 2026-03-20 18:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
 | 📦 Unrealized | $+52 |
-| 🏦 Total | **$+52** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-8** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
@@ -24,6 +24,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 AI | 0.40x | $-60 | stop_loss | 1.05x | pumpfun | 2026-03-20 18:37 → 2026-03-20 18:39 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

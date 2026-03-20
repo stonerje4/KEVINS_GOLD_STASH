@@ -1,6 +1,6 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 18:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 18:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (14 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-85** |
+| 📦 Unrealized | $-72 |
+| 🏦 Total | **$-133** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CAINE | $853651.188788 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 18:10 |
-| 🟡 CHUCK | $0.000006 | **1.47x** ($+47) | 1.48x |  | pumpswap | 2026-03-20 17:42 |
+| 🔴 CHUCK | $0.000006 | **0.98x** ($-2) | 1.48x |  | pumpswap | 2026-03-20 17:42 |
 | 🟡 CHUCK | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:58 |
 | 🔴 Floki | $0.000016 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 16:07 |
 | 🔴 AlphA | $0.000012 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 15:54 |

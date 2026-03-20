@@ -1,6 +1,6 @@
 # Wallet: `BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ`
 
-> [GMGN](https://gmgn.ai/sol/address/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | [Solscan](https://solscan.io/account/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | Updated: 2026-03-20 18:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | [Solscan](https://solscan.io/account/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | Updated: 2026-03-20 18:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-100 |
-| 📦 Unrealized | $-1 |
-| 🏦 Total | **$-101** |
+| 📦 Unrealized | $-2 |
+| 🏦 Total | **$-102** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 

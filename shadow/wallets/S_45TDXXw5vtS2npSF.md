@@ -1,6 +1,6 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [GMGN](https://gmgn.ai/sol/address/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | [Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 18:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | [Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 18:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (13 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $+1,207 |
-| 🏦 Total | **$+1,024** |
+| 📦 Unrealized | $+1,131 |
+| 🏦 Total | **$+948** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ✋ | $0.000009 | **1.33x** ($+33) | 1.46x |  | pumpfun | 2026-03-20 18:32 |
-| 🔴 TITUATION | $0.000055 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 18:17 |
+| 🔴 ✋ | $0.000009 | **0.54x** ($-46) | 1.46x |  | pumpfun | 2026-03-20 18:32 |
+| 🔴 TITUATION | $0.000055 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 18:17 |
 | 🚀 Chuck | $0.000011 | **57.72x** ($+5,672) | 77.12x | ✅ | pumpfun | 2026-03-20 14:13 |
 | 🟡 ME | $0.000017 | **1.27x** ($+27) | 1.34x |  | pumpfun | 2026-03-20 13:23 |
 | 🔴 QUIT | $0.000005 | **0.77x** ($-23) | 1.40x |  | pumpfun | 2026-03-20 11:18 |
