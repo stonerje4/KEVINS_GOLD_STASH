@@ -1,18 +1,18 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:10 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 35 (23 open, 12 closed) |
-| W/L | 1/11 (8%) |
-| 💵 Realized | $-468 |
+| Positions | 36 (23 open, 13 closed) |
+| W/L | 1/12 (8%) |
+| 💵 Realized | $-528 |
 | 📦 Unrealized | $-329 |
-| 🏦 Total | **$-797** |
+| 🏦 Total | **$-857** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.0x |
+| Avg Peak | 1.9x |
 
 ## Open Positions
 
@@ -46,6 +46,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 MEMEFRONT | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:13 |
 | 🔴 Sublime | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:04 → 2026-03-20 05:05 |
 | 🟡 CORPORATE | 0.84x | $-16 | trailing_stop_3x | 2.77x | pumpfun | 2026-03-20 04:43 → 2026-03-20 04:58 |
 | 🔴 Civil Claude | 0.78x | $-22 | trailing_stop_2x | 2.09x | pumpfun | 2026-03-20 04:42 → 2026-03-20 04:55 |

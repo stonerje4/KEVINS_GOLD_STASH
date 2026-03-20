@@ -1,6 +1,6 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 05:10 UTC
+> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 05:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (17 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-63 |
-| 📦 Unrealized | $+34 |
-| 🏦 Total | **$-28** |
+| 📦 Unrealized | $+23 |
+| 🏦 Total | **$-39** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBIELON | $0.000014 | **1.60x** ($+60) | 1.82x |  | pumpfun | 2026-03-20 04:24 |
+| 🟡 CHIBIELON | $0.000014 | **1.49x** ($+49) | 1.82x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 屁合戦 | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 03:33 |
 | 🟡 ARIA | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:59 |
 | 🟡 JupUSD | $0.044639 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:59 |

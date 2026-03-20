@@ -1,6 +1,6 @@
 # Wallet: `HhABnzict8byp1XsU4wVYCV6oYYvsydXjjEqifB48qpb`
 
-> [View on Solscan](https://solscan.io/account/HhABnzict8byp1XsU4wVYCV6oYYvsydXjjEqifB48qpb) | Updated: 2026-03-20 05:10 UTC
+> [View on Solscan](https://solscan.io/account/HhABnzict8byp1XsU4wVYCV6oYYvsydXjjEqifB48qpb) | Updated: 2026-03-20 05:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-10 |
-| 🏦 Total | **$-10** |
+| 📦 Unrealized | $-11 |
+| 🏦 Total | **$-11** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 

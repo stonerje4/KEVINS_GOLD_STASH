@@ -1,6 +1,6 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 05:10 UTC
+> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 05:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (15 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-100 |
-| 📦 Unrealized | $-11 |
-| 🏦 Total | **$-111** |
+| 📦 Unrealized | $-12 |
+| 🏦 Total | **$-112** |
 | Best Trade | 0.0x |
 | Avg Peak | 1.0x |
 
@@ -28,7 +28,7 @@
 | 🟡 HIMS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 nl | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
 | 🔴 WBE | $0.000009 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
-| 🔴 Gizmo | $0.000016 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 02:19 |
+| 🔴 Gizmo | $0.000016 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 02:19 |
 | 🔴 BBBY | $0.000005 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 01:39 |
 | 🟡 Chibi | $0.000006 | **1.20x** ($+20) | 1.36x |  | cpmm | 2026-03-20 00:50 |
 | 🟡 RWA | $139.856155 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-19 23:32 |

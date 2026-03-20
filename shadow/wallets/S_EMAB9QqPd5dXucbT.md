@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 05:10 UTC
+> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 05:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 25 (25 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-109 |
-| 🏦 Total | **$-109** |
+| 📦 Unrealized | $-103 |
+| 🏦 Total | **$-103** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Saxophones | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
-| 🔴 Pixel | $0.000016 | **0.75x** ($-25) | 1.52x |  | pumpfun | 2026-03-20 04:08 |
+| 🔴 Pixel | $0.000016 | **0.80x** ($-20) | 1.52x |  | pumpfun | 2026-03-20 04:08 |
 | 🔴 しずく | $0.000022 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 plumber | $0.000058 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🔴 MILO | $0.000006 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
