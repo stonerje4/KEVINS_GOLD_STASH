@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 13:19 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 13:24 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+133 |
 | 📦 Unrealized | $+432 |
 | 🏦 Total | **$+565** |
-| Best ROI | 2.95x |
-| Avg ROI | 1.67x |
+| Best Trade | 2.9x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
@@ -23,7 +23,7 @@
 | 🟡 HORMUZ | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 Fro | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:09 |
 | 🟡 shitcoin | $0.000351 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
-| 🟡 Goyim | $0.000620 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 13:08 |
+| 🟡 Goyim | $0.000620 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 LIBERTY | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 fine999.9 | $0.002157 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:57 |
 | 🟡 TFW | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:38 |

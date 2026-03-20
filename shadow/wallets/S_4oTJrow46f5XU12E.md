@@ -1,6 +1,6 @@
 # Wallet: `4oTJrow46f5XU12EYh5YR5VWqvmnyk5QzuRK2zUHLSJE`
 
-> [View on Solscan](https://solscan.io/account/4oTJrow46f5XU12EYh5YR5VWqvmnyk5QzuRK2zUHLSJE) | Updated: 2026-03-20 13:19 UTC
+> [View on Solscan](https://solscan.io/account/4oTJrow46f5XU12EYh5YR5VWqvmnyk5QzuRK2zUHLSJE) | Updated: 2026-03-20 13:24 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-2** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-5 |
+| 🏦 Total | **$-5** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Attention | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:15 |
-| 🔴 Kardashev  | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 13:09 |
+| 🔴 Kardashev  | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 13:09 |
 | 🟡 FUEL | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:26 |
 | 🟡 MILK | $0.000003 | **1.08x** ($+8) | 2.25x | ✅ | pumpswap | 2026-03-20 07:16 |
 

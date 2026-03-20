@@ -1,23 +1,24 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 13:19 UTC
+> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 13:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (10 open, 2 closed) |
+| Positions | 13 (11 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
 | 📦 Unrealized | $-37 |
 | 🏦 Total | **$-159** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ME | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:23 |
 | 🟡 quit | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:18 |
 | 🔴 QUIT | $0.000005 | **0.77x** ($-23) | 1.40x |  | pumpfun | 2026-03-20 11:18 |
 | 🟡 OFFLINE | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |

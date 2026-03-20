@@ -1,25 +1,26 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 13:19 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 13:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 413 (408 open, 5 closed) |
+| Positions | 414 (409 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,093 |
-| 🏦 Total | **$-1,179** |
-| Best ROI | 2.75x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-1,095 |
+| 🏦 Total | **$-1,181** |
+| Best Trade | 2.8x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 BBX | $0.000129 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:20 |
 | 🟡 LAYOFF | $0.000271 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
-| 🔴 Ava | $0.000016 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
+| 🔴 Ava | $0.000016 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
 | 🔴 shitcoin | $0.000409 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
 | 🔴 Goyim | $0.000707 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:06 |
 | 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |

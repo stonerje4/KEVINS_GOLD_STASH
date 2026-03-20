@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 13:19 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 13:24 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 48 (47 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
-| 📦 Unrealized | $-160 |
-| 🏦 Total | **$+31** |
-| Best ROI | 2.91x |
-| Avg ROI | 2.91x |
+| 📦 Unrealized | $-162 |
+| 🏦 Total | **$+29** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chibiguy | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:19 |
+| 🔴 Chibiguy | $0.000003 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 13:19 |
 | 🟡 GAAS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:11 |
 | 🔴 CJELL | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:05 |
 | 🟡 HIDE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:28 |

@@ -1,23 +1,24 @@
 # Wallet: `294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN`
 
-> [View on Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 13:19 UTC
+> [View on Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 13:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (9 open, 0 closed) |
+| Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-142 |
 | 🏦 Total | **$-142** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 herm | $0.000294 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:23 |
 | 🟡 ChibiTrump | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:08 |
 | 🔴 CHIBI | $0.000017 | **0.90x** ($-10) | 1.37x |  | pumpfun | 2026-03-20 12:30 |
 | 🟡 Rosei | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:46 |

@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 13:19 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 13:24 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 301 (297 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
-| 📦 Unrealized | $+355 |
-| 🏦 Total | **$+351** |
-| Best ROI | 3.00x |
-| Avg ROI | 0.99x |
+| 📦 Unrealized | $+346 |
+| 🏦 Total | **$+342** |
+| Best Trade | 3.0x |
+| Avg Peak | 2.7x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Helios | $0.000030 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
-| 🟡 Ava | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
+| 🔴 Helios | $0.000030 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
+| 🔴 Ava | $0.000014 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
 | 🔴 shitcoin | $0.000372 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
 | 🟡 ZENT | $0.000120 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:45 |
 | 🔴 e/alt | $0.000011 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 12:42 |
@@ -311,7 +311,7 @@
 | 🟡 imagineslop | $0.000005 | **1.29x** ($+29) | 1.45x |  | pumpswap | 2026-03-19 22:40 |
 | 🔴 Baldi | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-19 22:39 |
 | 🔴 BAGWORKOOR | $0.000055 | **0.95x** ($-5) | 1.32x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000385 | **1.71x** ($+71) | 1.71x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000385 | **1.72x** ($+72) | 1.72x |  | pumpswap | 2026-03-19 22:38 |
 | 🟡 DATBOI | $0.000044 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 22:37 |
 | 🔴 CL1 | $0.000335 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:36 |
 | 🔴 worth | $0.000107 | **0.96x** ($-4) | 1.17x |  | pumpswap | 2026-03-19 22:35 |
