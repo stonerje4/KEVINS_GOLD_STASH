@@ -1,6 +1,6 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | [Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 51 (48 open, 3 closed) |
 | W/L | 3/0 (100%) |
 | 💵 Realized | $+422 |
-| 📦 Unrealized | $-573 |
-| 🏦 Total | **$-151** |
+| 📦 Unrealized | $-512 |
+| 🏦 Total | **$-90** |
 | Best ROI | 2.99x |
 | Avg ROI | 2.41x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 AGNT | $0.000004 | **1.03x** ($+3) | 1.30x |  | pumpfun | 2026-03-20 15:17 |
+| 🟡 AGNT | $0.000004 | **1.64x** ($+64) | 1.95x |  | pumpfun | 2026-03-20 15:17 |
 | 🔴 WTR | $0.000005 | **0.92x** ($-8) | 1.07x |  | pumpfun | 2026-03-20 15:00 |
 | 🔴 $RIPCHUCK | $0.000003 | **0.89x** ($-11) | 2.41x | ✅ | pumpfun | 2026-03-20 13:57 |
 | 🟡 Floki | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:36 |

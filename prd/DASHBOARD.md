@@ -1,6 +1,6 @@
 # 💰 PRD Copy Trader Dashboard
 
-> Updated: 2026-03-20 15:15 UTC | SOL = $88.84 | Buy size: 0.11 SOL (~$10)
+> Updated: 2026-03-20 15:20 UTC | SOL = $88.82 | Buy size: 0.11 SOL (~$10)
 > 
 > **P&L is from on-chain SOL movements (includes gas + slippage)**
 
@@ -8,39 +8,40 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | **12** (8 open, 3 closed) |
-| Win Rate | **0%** (0W / 3L) |
-| 💵 Realized P&L | **-0.1671 SOL** ($-14.84) |
-| ⛽ Gas (closed) | 0.0113 SOL ($1.00) |
-| 📦 Unrealized P&L | **-0.2147 SOL** ($-19.08) |
-| 🏦 Net P&L | **-0.3818 SOL** ($-33.92) |
+| Positions | **13** (8 open, 4 closed) |
+| Win Rate | **0%** (0W / 4L) |
+| 💵 Realized P&L | **-0.2432 SOL** ($-21.60) |
+| ⛽ Gas (closed) | 0.0168 SOL ($1.49) |
+| 📦 Unrealized P&L | **-0.2192 SOL** ($-19.47) |
+| 🏦 Net P&L | **-0.4624 SOL** ($-41.07) |
 
 ## Wallet Performance
 
 | | Wallet | Trades | Open | W/L | WR | Realized | Gas | Unreal | **Net** | GMGN |
 |--|--------|--------|------|-----|-----|----------|-----|--------|---------|------|
-| 🟢 | [`E79aNzAkDa92b5bn...`](wallets/PRD_E79aNzAkDa92b5bn.md) | 1 | 1 | 0/0 | 0% | +0.0000 | 0.0000 | +0.0600 | **+0.0600** | [📊](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
-| 🟢 | [`7aMgK5L4qEQ8Nyv6...`](wallets/PRD_7aMgK5L4qEQ8Nyv6.md) | 2 | 2 | 0/0 | 0% | +0.0000 | 0.0000 | +0.0037 | **+0.0037** | [📊](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) |
-| 🔴 | [`ApkQGKbq8dRw5ha9...`](wallets/PRD_ApkQGKbq8dRw5ha9.md) | 3 | 3 | 0/0 | 0% | +0.0000 | 0.0000 | -0.1724 | **-0.1724** | [📊](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
-| 🔴 | [`2w85VLX4W4qm8SPS...`](wallets/PRD_2w85VLX4W4qm8SPS.md) | 6 | 3 | 0/3 | 0% | -0.1671 | 0.0113 | -0.1157 | **-0.2828** | [📊](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
+| 🟢 | [`E79aNzAkDa92b5bn...`](wallets/PRD_E79aNzAkDa92b5bn.md) | 1 | 1 | 0/0 | 0% | +0.0000 | 0.0000 | +0.0297 | **+0.0297** | [📊](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
+| 🔴 | [`7aMgK5L4qEQ8Nyv6...`](wallets/PRD_7aMgK5L4qEQ8Nyv6.md) | 2 | 2 | 0/0 | 0% | +0.0000 | 0.0000 | -0.0210 | **-0.0210** | [📊](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) |
+| 🔴 | [`ApkQGKbq8dRw5ha9...`](wallets/PRD_ApkQGKbq8dRw5ha9.md) | 4 | 3 | 0/1 | 0% | -0.0761 | 0.0055 | -0.1389 | **-0.2150** | [📊](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
+| 🔴 | [`2w85VLX4W4qm8SPS...`](wallets/PRD_2w85VLX4W4qm8SPS.md) | 6 | 3 | 0/3 | 0% | -0.1671 | 0.0113 | -0.1040 | **-0.2710** | [📊](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 
 ## Open Positions
 
 | Token | Entry | Current | Peak | De-risked | Unreal SOL | Wallet | Time |
 |-------|-------|---------|------|-----------|------------|--------|------|
-| 🔴 Kin-Kun | 0.11 SOL | **0.85x** | 1.00x |  | -0.0219 | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | 2026-03-20 15:03 |
-| 🟡 Feels | 0.11 SOL | **1.17x** | 1.22x |  | +0.0134 | [7aMgK5L4qEQ8...](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | 2026-03-20 15:01 |
+| 🔴 ? | 0.11 SOL | **0.72x** | 1.00x |  | -0.0353 | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | 2026-03-20 15:18 |
+| 🔴 Kin-Kun | 0.11 SOL | **0.92x** | 1.00x |  | -0.0141 | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | 2026-03-20 15:03 |
+| 🔴 Feels | 0.11 SOL | **0.99x** | 1.22x |  | -0.0060 | [7aMgK5L4qEQ8...](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | 2026-03-20 15:01 |
 | 🔴 WALKER | 0.11 SOL | **0.65x** | 1.95x |  | -0.0437 | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | 2026-03-20 14:43 |
-| 🔴 RIPCHUCK | 0.11 SOL | **0.42x** | 1.01x |  | -0.0687 | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | 2026-03-20 14:37 |
 | 🔴 Hot | 0.11 SOL | **0.50x** | 1.64x |  | -0.0600 | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | 2026-03-20 14:32 |
-| 🟡 PRINCIPLES | 0.11 SOL | **1.59x** | 1.66x |  | +0.0600 | [E79aNzAkDa92...](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 2026-03-20 14:27 |
-| 🔴 awkward | 0.11 SOL | **0.69x** | 1.29x |  | -0.0394 | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | 2026-03-20 13:40 |
-| 🔴 FOID | 0.11 SOL | **0.55x** | 1.18x |  | -0.0544 | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | 2026-03-20 13:38 |
+| 🟡 PRINCIPLES | 0.11 SOL | **1.32x** | 1.66x |  | +0.0297 | [E79aNzAkDa92...](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 2026-03-20 14:27 |
+| 🔴 awkward | 0.11 SOL | **0.71x** | 1.29x |  | -0.0372 | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | 2026-03-20 13:40 |
+| 🔴 FOID | 0.11 SOL | **0.57x** | 1.18x |  | -0.0527 | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | 2026-03-20 13:38 |
 
 ## Closed Positions (on-chain verified)
 
 | Token | SOL In | SOL Out | Net P&L | Net $ | Gas | Reason | Peak | Wallet |
 |-------|--------|---------|---------|-------|-----|--------|------|--------|
+| 🔴 RIPCHUCK | 0.1189 | 0.0428 | -0.0761 | $-6.76 | 0.0055 | stop_loss | 1.01x | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
 | 🔴 CHUCK | 0.1195 | 0.0481 | -0.0713 | $-6.34 | 0.0055 | stop_loss | 1.13x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 NOR | 0.1190 | 0.0442 | -0.0748 | $-6.65 | 0.0055 | stop_loss | 1.03x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 CHUCK | 0.1122 | 0.0913 | -0.0209 | $-1.85 | 0.0003 | runner_trailing_stop | 2.82x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
@@ -49,6 +50,8 @@
 
 | # | Time | Action | Token | SOL | Reason | TX |
 |---|------|--------|-------|-----|--------|-----|
+| 18 | 2026-03-20 15:18 | 🟢 BUY | ? | 0.1100 | cielo_copy:ApkQGKbq8dRw5ha9n2bg | [tx](https://solscan.io/tx/2CxFhYghV6Csvom7igCNM7FGFsA8kvPdPYBRJbTaoFmi9N6VvTgSb9BHaFzcZVAAFJ4P4UjrLzFZv5WMCMAvHf8j) |
+| 17 | 2026-03-20 15:15 | 🔴 SELL | RIPCHUCK | 0.0417 | stop_loss | [tx](https://solscan.io/tx/2FLZVHtYKsqeM42oddCkf6DeyrsRa8MZBSQpmh7XX9yMDcjn5rvtzmoCnhbXUZczSCWyxNPf8exxNkuAXd4pfWQ1) |
 | 16 | 2026-03-20 15:03 | 🟢 BUY | Kin-Kun | 0.1100 | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/2cv23YKnY6DAfaZYmdYGhXK86xyXS9LugNuAYZU5Bga2qf4UEeFMwfNhYnnCTBt4Psfqrq7mQDFq6TgmnW4dNJR9) |
 | 15 | 2026-03-20 15:01 | 🟢 BUY | SHEEN | 0.1100 | cielo_copy:7aMgK5L4qEQ8Nyv6ZzhZ | [tx](https://solscan.io/tx/4CuwPTe2HGDTPNE8n48tXf5MGmH1LupnnLZahghq6kmiNsVYxyoUWsVEhBbaETYa4hHAJkXcrMTi1JnLJUbbdg2J) |
 | 14 | 2026-03-20 15:01 | 🟢 BUY | Feels | 0.1100 | cielo_copy:7aMgK5L4qEQ8Nyv6ZzhZ | [tx](https://solscan.io/tx/6AiM1vCxiqdUXYtNBn2vAi1mo6uk4qLwLsQXpz4Zqm2bfr4KgjqevVsiP4b1oABk7Fnc8XMeV68GgBEp7RcDaFi) |

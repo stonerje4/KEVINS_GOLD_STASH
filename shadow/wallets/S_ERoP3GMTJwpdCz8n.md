@@ -1,6 +1,6 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-12 |
-| 📦 Unrealized | $-92 |
-| 🏦 Total | **$-103** |
+| 📦 Unrealized | $-74 |
+| 🏦 Total | **$-86** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.94x |
 
@@ -24,7 +24,7 @@
 | 🟡 驚き | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:19 |
 | 🟡 SMCI | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:23 |
 | 🔴 INR | $0.000003 | **0.82x** ($-18) | 1.29x |  | pumpfun | 2026-03-20 02:31 |
-| 🟡 CHANNELS | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
+| 🟡 CHANNELS | $0.000019 | **1.17x** ($+17) | 1.35x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 Jesus | $0.000010 | **0.82x** ($-18) | 1.37x |  | pumpfun | 2026-03-19 22:46 |
 
 ## Closed Positions

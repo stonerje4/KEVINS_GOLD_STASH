@@ -1,6 +1,6 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | [Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (14 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+1,307 |
-| 🏦 Total | **$+1,185** |
+| 📦 Unrealized | $+1,278 |
+| 🏦 Total | **$+1,157** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Norban | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
-| 🚀 Chuck | $0.000011 | **66.02x** ($+6,502) | 69.26x | ✅ | pumpfun | 2026-03-20 14:13 |
-| 🔴 Chuck | $0.000516 | **0.61x** ($-39) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
+| 🚀 Chuck | $0.000011 | **64.55x** ($+6,355) | 70.21x | ✅ | pumpfun | 2026-03-20 14:13 |
+| 🔴 Chuck | $0.000516 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 ME | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:23 |
 | 🟡 quit | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:18 |
 | 🔴 QUIT | $0.000005 | **0.77x** ($-23) | 1.40x |  | pumpfun | 2026-03-20 11:18 |

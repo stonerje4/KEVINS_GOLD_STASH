@@ -1,12 +1,12 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (11 open, 1 closed) |
+| Positions | 13 (12 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
 | 📦 Unrealized | $-7 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Simulation | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:21 |
 | 🔴 Chuck | $0.000003 | **0.92x** ($-8) | 1.01x |  | pumpswap | 2026-03-20 14:58 |
 | 🟡 401k | $0.000008 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 08:48 |
 | 🟡 HUNT | $0.000003 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 08:41 |

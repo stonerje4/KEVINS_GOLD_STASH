@@ -1,6 +1,6 @@
 # Wallet: `6S1op4eXQ4PVG6XSa67VkZJR9FDMNV2GL87aLe1Hj6Zo`
 
-> [View on Solscan](https://solscan.io/account/6S1op4eXQ4PVG6XSa67VkZJR9FDMNV2GL87aLe1Hj6Zo) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/6S1op4eXQ4PVG6XSa67VkZJR9FDMNV2GL87aLe1Hj6Zo) | [Solscan](https://solscan.io/account/6S1op4eXQ4PVG6XSa67VkZJR9FDMNV2GL87aLe1Hj6Zo) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-32** |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$-29** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Fro | $0.000189 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
+| 🔴 Fro | $0.000189 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 XMONEY | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:24 |
 
 ## Closed Positions

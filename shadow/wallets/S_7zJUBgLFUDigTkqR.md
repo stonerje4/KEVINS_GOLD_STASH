@@ -1,18 +1,18 @@
 # Wallet: `7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i`
 
-> [View on Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | [Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (15 open, 2 closed) |
-| W/L | 1/1 (50%) |
-| 💵 Realized | $+31 |
+| Positions | 18 (15 open, 3 closed) |
+| W/L | 1/2 (33%) |
+| 💵 Realized | $-69 |
 | 📦 Unrealized | $-115 |
-| 🏦 Total | **$-84** |
+| 🏦 Total | **$-184** |
 | Best ROI | 1.47x |
-| Avg ROI | 1.15x |
+| Avg ROI | 0.77x |
 
 ## Open Positions
 
@@ -38,6 +38,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:20 → 2026-03-20 15:20 |
 | 🟡 $RIPCHUCK | 0.84x | $-16 | trailing_stop_2x | 2.19x | pumpfun | 2026-03-20 13:57 → 2026-03-20 14:45 |
 | 🟡 CHUCK | 1.47x | $+47 | trailing_stop_5x | 4.99x | pumpfun | 2026-03-20 13:57 → 2026-03-20 14:23 |
 

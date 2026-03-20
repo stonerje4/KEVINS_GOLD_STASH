@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 31 (24 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-394 |
-| 📦 Unrealized | $-49 |
-| 🏦 Total | **$-443** |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$-379** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.44x |
 
@@ -18,26 +18,26 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000332 | **0.95x** ($-5) | 1.04x |  | pumpswap | 2026-03-20 15:15 |
-| 🔴 Foodrot | $0.000161 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 15:11 |
+| 🟡 Chuck | $0.000332 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 15:15 |
+| 🔴 Foodrot | $0.000161 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 15:11 |
 | 🟡 Spiderman | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:58 |
 | 🟡 LOL | $0.000455 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 GOONERBI | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Chibis | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:07 |
 | 🟡 MICHIBI | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
-| 🟡 CHIBI | $0.002054 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-20 07:28 |
-| 🔴 Pixels | $0.000046 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 06:57 |
+| 🟡 CHIBI | $0.002054 | **1.18x** ($+18) | 1.20x |  | pumpswap | 2026-03-20 07:28 |
+| 🔴 Pixels | $0.000046 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 06:57 |
 | 🟡 Freebuff | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:48 |
 | 🟡 AIFRUITS | $0.000790 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
 | 🟡 CL1 | $0.000396 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |
-| 🟡 Downald | $0.000590 | **1.00x** ($+0) | 1.07x |  | pumpswap | 2026-03-20 02:58 |
+| 🟡 Downald | $0.000590 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 67 | $0.001291 | **1.20x** ($+20) | 1.23x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 BIG | $0.000081 | **1.06x** ($+6) | 1.10x |  | pumpswap | 2026-03-20 02:44 |
-| 🟡 CHANNELS | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
+| 🔴 CHANNELS | $0.000026 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 IMAGINE | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:08 |
 | 🔴 Luxury | $0.000029 | **0.79x** ($-21) | 1.06x |  | pumpswap | 2026-03-20 02:06 |
-| 🔴 CLAW3D | $0.000081 | **0.83x** ($-17) | 1.31x |  | pumpswap | 2026-03-20 01:57 |
+| 🟡 CLAW3D | $0.000081 | **1.50x** ($+50) | 1.50x |  | pumpswap | 2026-03-20 01:57 |
 | 🟡 PERCOLATOR | $0.000080 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:57 |
 | 🟡 SAVED | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:51 |
 | 🔴 attn | $0.000338 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 00:10 |

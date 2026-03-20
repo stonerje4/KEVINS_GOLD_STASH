@@ -1,6 +1,6 @@
 # Wallet: `MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM`
 
-> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | [Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (11 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-204 |
-| 📦 Unrealized | $-151 |
-| 🏦 Total | **$-355** |
+| 📦 Unrealized | $-157 |
+| 🏦 Total | **$-361** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.32x |
 
@@ -23,7 +23,7 @@
 | 🟡 SNIFFER | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:07 |
 | 🟡 Kin-Kun | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:46 |
 | 🟡 imagine | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:55 |
-| 🔴 Doolysaurus | $0.000143 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 12:36 |
+| 🔴 Doolysaurus | $0.000143 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 12:36 |
 | 🟡 Chonk | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:47 |
 | 🟡 genocide | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:44 |
 | 🔴 Happiness | $0.000004 | **0.90x** ($-10) | 1.37x |  | pumpfun | 2026-03-20 09:57 |

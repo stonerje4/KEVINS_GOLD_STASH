@@ -1,6 +1,6 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 23 (19 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-249 |
-| 📦 Unrealized | $+44 |
-| 🏦 Total | **$-205** |
+| 📦 Unrealized | $+45 |
+| 🏦 Total | **$-204** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -36,7 +36,7 @@
 | 🟡 world | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:36 |
 | 🔴 Wolverine | $0.000010 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 00:06 |
 | 🟡 herm | $0.000164 | **1.22x** ($+22) | 1.35x |  | pumpswap | 2026-03-19 23:42 |
-| 🟢 CHIBI | $0.000684 | **3.55x** ($+255) | 3.55x | ✅ | pumpswap | 2026-03-19 23:27 |
+| 🟢 CHIBI | $0.000684 | **3.56x** ($+256) | 3.62x | ✅ | pumpswap | 2026-03-19 23:27 |
 
 ## Closed Positions
 

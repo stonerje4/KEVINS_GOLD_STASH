@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 142 (140 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-241 |
-| 🏦 Total | **$-378** |
+| 📦 Unrealized | $-234 |
+| 🏦 Total | **$-371** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.31x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Moe | $0.000068 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 15:16 |
-| 🔴 plumber | $0.000043 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 15:15 |
+| 🟡 plumber | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:15 |
 | 🔴 SCAN | $0.000135 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
 | 🟡 creature | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
 | 🔴 Speak | $0.000019 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
@@ -65,7 +65,7 @@
 | 🟡 Achieve | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:08 |
 | 🟡 PRSM | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:59 |
 | 🟡 PIXELS | $0.000219 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:52 |
-| 🔴 Simulation | $0.000044 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 09:26 |
+| 🔴 Simulation | $0.000044 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 09:26 |
 | 🔴 MONA | $0.000064 | **0.86x** ($-14) | 1.20x |  | pumpswap | 2026-03-20 08:46 |
 | 🔴 SNAKE | $0.000009 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-20 08:44 |
 | 🟡 AIFRUITS | $0.000634 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:33 |
@@ -75,7 +75,7 @@
 | 🟡 OPTIMUS | $0.000016 | **1.17x** ($+17) | 1.23x |  | pumpswap | 2026-03-20 07:53 |
 | 🟡 NICK | $0.000029 | **1.01x** ($+1) | 1.17x |  | pumpswap | 2026-03-20 07:32 |
 | 🟡 WID | $0.000019 | **1.32x** ($+32) | 1.33x |  | pumpswap | 2026-03-20 07:27 |
-| 🔴 Solana | $0.000125 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
+| 🔴 Solana | $0.000125 | **0.50x** ($-50) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 PAPERCLIP | $0.000158 | **1.26x** ($+26) | 1.29x |  | pumpswap | 2026-03-20 06:54 |
 | 🔴 PARK | $0.000020 | **0.96x** ($-4) | 1.05x |  | pumpswap | 2026-03-20 06:51 |
 | 🟡 PYRO | $0.000034 | **1.14x** ($+14) | 1.29x |  | pumpswap | 2026-03-20 06:47 |
@@ -87,7 +87,7 @@
 | 🟡 SOS | $0.000870 | **1.27x** ($+27) | 1.34x |  | pumpswap | 2026-03-20 05:29 |
 | 🔴 WhiteHouse | $0.000345 | **0.96x** ($-4) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
 | 🔴 shitcoin | $0.000075 | **0.89x** ($-11) | 1.11x |  | pumpswap | 2026-03-20 05:20 |
-| 🔴 Optimus | $0.000037 | **0.94x** ($-6) | 1.14x |  | pumpswap | 2026-03-20 05:13 |
+| 🔴 Optimus | $0.000037 | **0.92x** ($-8) | 1.14x |  | pumpswap | 2026-03-20 05:13 |
 | 🟡 OPAL | $0.000469 | **1.06x** ($+6) | 1.15x |  | pumpswap | 2026-03-20 04:53 |
 | 🟡 FRUITS | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:36 |
 | 🟡 LOL | $0.000338 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
@@ -151,7 +151,7 @@
 | 🔴 HEY | $0.000738 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 wid | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 Barron | $0.000016 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-19 23:23 |
-| 🟡 Foodrot | $0.000138 | **1.12x** ($+12) | 1.13x |  | pumpswap | 2026-03-19 23:19 |
+| 🟡 Foodrot | $0.000138 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-19 23:19 |
 | 🔴 MIROFISH | $0.000035 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 PIKAHORSE | $0.000398 | **0.55x** ($-45) | 1.05x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 DEEPSEEKV4 | $0.000041 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 22:54 |

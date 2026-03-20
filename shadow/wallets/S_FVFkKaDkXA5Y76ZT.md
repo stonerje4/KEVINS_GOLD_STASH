@@ -1,6 +1,6 @@
 # Wallet: `FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg`
 
-> [View on Solscan](https://solscan.io/account/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | [Solscan](https://solscan.io/account/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-80 |
-| 📦 Unrealized | $+63 |
-| 🏦 Total | **$-17** |
+| 📦 Unrealized | $+66 |
+| 🏦 Total | **$-14** |
 | Best ROI | 0.20x |
 | Avg ROI | 0.20x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FOID | $0.000017 | **0.98x** ($-2) | 1.08x |  | pumpfun | 2026-03-20 15:02 |
-| 🟡 Chuck | $0.000386 | **1.82x** ($+82) | 1.91x |  | pumpswap | 2026-03-20 14:52 |
-| 🔴 Chuck | $0.000632 | **0.50x** ($-50) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
-| 🟡 Downald | $0.000443 | **1.33x** ($+33) | 1.43x |  | pumpswap | 2026-03-20 11:50 |
+| 🔴 FOID | $0.000017 | **1.00x** ($-0) | 1.08x |  | pumpfun | 2026-03-20 15:02 |
+| 🟡 Chuck | $0.000386 | **1.78x** ($+78) | 1.94x |  | pumpswap | 2026-03-20 14:52 |
+| 🔴 Chuck | $0.000632 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
+| 🟡 Downald | $0.000443 | **1.35x** ($+35) | 1.43x |  | pumpswap | 2026-03-20 11:50 |
 
 ## Closed Positions
 

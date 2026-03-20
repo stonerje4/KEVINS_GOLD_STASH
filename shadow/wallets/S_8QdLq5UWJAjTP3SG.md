@@ -1,6 +1,6 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 34 (15 open, 19 closed) |
 | W/L | 3/16 (16%) |
 | 💵 Realized | $-500 |
-| 📦 Unrealized | $-65 |
-| 🏦 Total | **$-565** |
+| 📦 Unrealized | $-76 |
+| 🏦 Total | **$-576** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.74x |
 
@@ -25,7 +25,7 @@
 | 🔴 ATXHQ1ch | $0.000005 | **0.51x** ($-49) | 1.16x |  | pumpfun | 2026-03-20 02:59 |
 | 🔴 5WAqTYuT | $0.000005 | **0.46x** ($-54) | 1.40x |  | pumpfun | 2026-03-20 02:26 |
 | 🔴 DuV1SgS2 | $0.000005 | **0.51x** ($-49) | 1.39x |  | pumpfun | 2026-03-20 02:22 |
-| 🟡 CHANNELS | $0.000023 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 02:19 |
+| 🔴 CHANNELS | $0.000023 | **0.98x** ($-2) | 1.13x |  | pumpfun | 2026-03-20 02:19 |
 | 🟡 CRAaCof9 | $0.000030 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 02:05 |
 | 🟡 SPARKOS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:52 |
 | 🟢 Freebuff | $0.000010 | **3.84x** ($+284) | 3.84x | ✅ | pumpfun | 2026-03-20 01:07 |

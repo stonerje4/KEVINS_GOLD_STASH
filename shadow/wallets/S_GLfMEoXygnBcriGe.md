@@ -1,6 +1,6 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | [Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (17 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-141 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$-138** |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$-136** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.53x |
 
@@ -21,13 +21,13 @@
 | 🟡 NEO | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:12 |
 | 🟡 CHIBI | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
 | 🔴 BIAO | $0.000011 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
-| 🟡 Downald | $0.000539 | **1.10x** ($+10) | 1.18x |  | pumpswap | 2026-03-20 12:13 |
+| 🟡 Downald | $0.000539 | **1.11x** ($+11) | 1.18x |  | pumpswap | 2026-03-20 12:13 |
 | 🟡 ケイジ | $0.000120 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
 | 🟡 early | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:40 |
 | 🔴 Ride | $0.000019 | **0.86x** ($-14) | 1.13x |  | pumpswap | 2026-03-20 07:26 |
 | 🔴 AIKO | $0.000010 | **0.88x** ($-12) | 1.08x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 PERCOLATOR | $0.000065 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:43 |
-| 🟢 CHIBI | $0.001118 | **2.17x** ($+117) | 2.17x | ✅ | pumpswap | 2026-03-20 02:33 |
+| 🟢 CHIBI | $0.001118 | **2.18x** ($+118) | 2.21x | ✅ | pumpswap | 2026-03-20 02:33 |
 | 🟡 Gany | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 GOBLIN | $0.000016 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:11 |
 | 🟡 herm | $0.000170 | **1.18x** ($+18) | 1.29x |  | pumpswap | 2026-03-20 00:33 |

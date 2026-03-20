@@ -1,6 +1,6 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [View on Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (15 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+161 |
-| 🏦 Total | **$+99** |
+| 📦 Unrealized | $+130 |
+| 🏦 Total | **$+68** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -19,10 +19,10 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Panya | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
-| 🔴 Doolysaurus | $0.000203 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
+| 🔴 Doolysaurus | $0.000203 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 CHIBISLOP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:42 |
 | 🟡 chibify | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:33 |
-| 🚀 clod | $0.000005 | **6.67x** ($+567) | 6.67x | ✅ | pumpswap | 2026-03-20 10:02 |
+| 🚀 clod | $0.000005 | **5.99x** ($+499) | 6.72x | ✅ | pumpswap | 2026-03-20 10:02 |
 | 🔴 Sunshine | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 09:59 |
 | 🟡 McCards | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:15 |
 | 🟡 Freebuff | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:49 |
@@ -32,7 +32,7 @@
 | 🔴 Genesis-2 | $0.000006 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 00:40 |
 | 🟡 Eugene | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:39 |
 | 🟡 FIH | $0.000305 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-19 23:10 |
-| 🟡 LUMO | $0.000035 | **1.50x** ($+50) | 1.65x |  | pumpswap | 2026-03-19 23:03 |
+| 🟡 LUMO | $0.000035 | **1.46x** ($+46) | 1.65x |  | pumpswap | 2026-03-19 23:03 |
 
 ## Closed Positions
 

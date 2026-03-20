@@ -1,6 +1,6 @@
 # PRD Wallet: `7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D`
 
-> [GMGN](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | [Solscan](https://solscan.io/account/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | Updated: 2026-03-20 15:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | [Solscan](https://solscan.io/account/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | Updated: 2026-03-20 15:20 UTC
 
 ## Summary
 
@@ -10,15 +10,15 @@
 | W/L | 0/0 (0%) |
 | 💵 Realized | +0.0000 SOL ($+0.00) |
 | ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | +0.0037 SOL |
-| 🏦 Net | **+0.0037 SOL** ($+0.33) |
+| 📦 Unrealized | -0.0210 SOL |
+| 🏦 Net | **-0.0210 SOL** ($-1.86) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 SHEEN | open | 0.11 | 0.96x | 1.07x | -0.0097 | — |
-| 🟢 Feels | open | 0.11 | 1.17x | 1.22x | +0.0134 | — |
+| 🔴 SHEEN | open | 0.11 | 0.91x | 1.07x | -0.0149 | — |
+| 🔴 Feels | open | 0.11 | 0.99x | 1.22x | -0.0060 | — |
 
 ---
 *[← Back to PRD Dashboard](../DASHBOARD.md)*

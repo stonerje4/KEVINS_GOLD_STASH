@@ -1,33 +1,32 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 33 (29 open, 4 closed) |
-| W/L | 1/3 (25%) |
-| 💵 Realized | $-190 |
-| 📦 Unrealized | $+365 |
-| 🏦 Total | **$+175** |
+| Positions | 33 (28 open, 5 closed) |
+| W/L | 1/4 (20%) |
+| 💵 Realized | $-255 |
+| 📦 Unrealized | $+355 |
+| 🏦 Total | **$+100** |
 | Best ROI | 1.10x |
-| Avg ROI | 0.52x |
+| Avg ROI | 0.49x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 Chuck | $0.000126 | **5.59x** ($+459) | 5.87x | ✅ | pumpswap | 2026-03-20 14:19 |
+| 🚀 Chuck | $0.000126 | **5.47x** ($+447) | 5.94x | ✅ | pumpswap | 2026-03-20 14:19 |
 | 🟡 CHUCK | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 pa | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:30 |
-| 🔴 Doolysaurus | $0.000149 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 12:28 |
+| 🔴 Doolysaurus | $0.000149 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 12:28 |
 | 🟡 CHIBITRUMP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:09 |
 | 🟡 Dittofy | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:55 |
-| 🟡 Chibify | $0.000099 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:53 |
 | 🟡 IMAGINE | $0.000150 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:05 |
-| 🟡 Downald | $0.000419 | **1.41x** ($+41) | 1.51x |  | pumpswap | 2026-03-20 09:53 |
+| 🟡 Downald | $0.000419 | **1.43x** ($+43) | 1.51x |  | pumpswap | 2026-03-20 09:53 |
 | 🟢 effect | $0.000011 | **3.25x** ($+225) | 3.25x | ✅ | pumpfun | 2026-03-20 09:49 |
 | 🔴 Life | $0.000171 | **0.87x** ($-13) | 1.02x |  | pumpswap | 2026-03-20 09:38 |
 | 🟡 COLLECTIBLE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:34 |
@@ -35,9 +34,9 @@
 | 🔴 beecat | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 08:59 |
 | 🟡 Beecat | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:58 |
 | 🟡 KIMCHI | $0.000435 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:33 |
-| 🟡 IMAGINE | $0.000068 | **1.46x** ($+46) | 1.46x |  | pumpswap | 2026-03-20 08:32 |
+| 🟡 IMAGINE | $0.000068 | **1.42x** ($+42) | 1.46x |  | pumpswap | 2026-03-20 08:32 |
 | 🟡 CHIBIELON | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:05 |
-| 🟢 Pixels | $0.000014 | **2.52x** ($+152) | 2.54x | ✅ | pumpswap | 2026-03-20 07:26 |
+| 🟢 Pixels | $0.000014 | **2.55x** ($+155) | 2.55x | ✅ | pumpswap | 2026-03-20 07:26 |
 | 🟡 来根华子 | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
 | 🟡 ZeroG | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
 | 🔴 INCOME | $0.000553 | **0.91x** ($-9) | 1.16x |  | pumpswap | 2026-03-20 06:50 |
@@ -52,6 +51,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Chibify | 0.35x | $-65 | stop_loss | 1.00x | pumpswap | 2026-03-20 10:53 → 2026-03-20 15:20 |
 | 🔴 Income | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 10:26 → 2026-03-20 15:10 |
 | 🔴 effect | 0.39x | $-61 | stop_loss | 1.07x | pumpfun | 2026-03-20 09:40 → 2026-03-20 09:45 |
 | 🟡 CHIBELON | 1.10x | $+10 | trailing_stop_4x | 4.06x | pumpswap | 2026-03-20 07:18 → 2026-03-20 15:15 |

@@ -1,6 +1,6 @@
 # Wallet: `VCMhd7d9pycCzDMSwsfs6hGELz3VqV9Mjzf1XrCHFnW`
 
-> [View on Solscan](https://solscan.io/account/VCMhd7d9pycCzDMSwsfs6hGELz3VqV9Mjzf1XrCHFnW) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/VCMhd7d9pycCzDMSwsfs6hGELz3VqV9Mjzf1XrCHFnW) | [Solscan](https://solscan.io/account/VCMhd7d9pycCzDMSwsfs6hGELz3VqV9Mjzf1XrCHFnW) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LOL | $0.000442 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
-| 🟡 CHIBI | $0.001859 | **1.31x** ($+31) | 1.31x |  | pumpswap | 2026-03-20 09:10 |
+| 🟡 CHIBI | $0.001859 | **1.31x** ($+31) | 1.33x |  | pumpswap | 2026-03-20 09:10 |
 | 🟡 CHIBI | $0.000084 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:01 |
 
 ## Closed Positions

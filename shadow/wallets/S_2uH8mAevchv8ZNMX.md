@@ -1,6 +1,6 @@
 # Wallet: `2uH8mAevchv8ZNMX9oaeWdxT8H4G52cxZDaJqg6pkLa7`
 
-> [View on Solscan](https://solscan.io/account/2uH8mAevchv8ZNMX9oaeWdxT8H4G52cxZDaJqg6pkLa7) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/2uH8mAevchv8ZNMX9oaeWdxT8H4G52cxZDaJqg6pkLa7) | [Solscan](https://solscan.io/account/2uH8mAevchv8ZNMX9oaeWdxT8H4G52cxZDaJqg6pkLa7) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+67 |
-| 🏦 Total | **$+67** |
+| 📦 Unrealized | $+68 |
+| 🏦 Total | **$+68** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 CHIBI | $0.000940 | **2.58x** ($+158) | 2.58x | ✅ | pumpswap | 2026-03-20 04:50 |
+| 🟢 CHIBI | $0.000940 | **2.59x** ($+159) | 2.63x | ✅ | pumpswap | 2026-03-20 04:50 |
 | 🟡 NIGGA | $0.000008 | **1.03x** ($+3) | 1.29x |  | pumpswap | 2026-03-20 02:31 |
 | 🔴 Surge | $0.000003 | **0.85x** ($-15) | 1.06x |  | pumpfun | 2026-03-20 02:17 |
 

@@ -1,25 +1,24 @@
 # Wallet: `HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6`
 
-> [View on Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | [Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
+| Positions | 5 (4 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-62 |
 | 📦 Unrealized | $+20 |
-| 🏦 Total | **$+20** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-41** |
+| Best ROI | 0.38x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 PIKE | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
-| 🟡 Chibify | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:51 |
 | 🟡 OBJECTS | $0.000129 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 06:03 |
 | 🔴 NICK | $0.000036 | **0.83x** ($-17) | 1.01x |  | pumpswap | 2026-03-20 06:03 |
 | 🟡 meowl | $0.000175 | **1.33x** ($+33) | 1.40x |  | pumpswap | 2026-03-20 06:02 |
@@ -28,6 +27,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Chibify | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 10:51 → 2026-03-20 15:20 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

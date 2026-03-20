@@ -1,6 +1,6 @@
 # Wallet: `AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x`
 
-> [View on Solscan](https://solscan.io/account/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | [Solscan](https://solscan.io/account/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 12MFghmg | $0.000004 | **0.71x** ($-29) | 1.16x |  | pumpfun | 2026-03-20 07:34 |
-| 🟡 CHIBI | $0.001772 | **1.37x** ($+37) | 1.37x |  | pumpswap | 2026-03-20 07:20 |
+| 🟡 CHIBI | $0.001772 | **1.37x** ($+37) | 1.40x |  | pumpswap | 2026-03-20 07:20 |
 
 ## Closed Positions
 

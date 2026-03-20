@@ -1,6 +1,6 @@
 # Wallet: `DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z`
 
-> [View on Solscan](https://solscan.io/account/DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z) | [Solscan](https://solscan.io/account/DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-19 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $-43 |
+| 🏦 Total | **$-62** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.81x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Agentmaxxing | $0.000009 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
 | 🔴 Strawberita | $0.000016 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-20 01:49 |
-| 🔴 Strawberita | $0.000062 | **0.71x** ($-29) | 1.35x |  | pumpswap | 2026-03-20 01:27 |
+| 🔴 Strawberita | $0.000062 | **0.69x** ($-31) | 1.35x |  | pumpswap | 2026-03-20 01:27 |
 | 🔴 LARP | $0.000251 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-20 01:17 |
 
 ## Closed Positions

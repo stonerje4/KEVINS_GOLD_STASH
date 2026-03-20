@@ -1,6 +1,6 @@
 # Wallet: `BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ`
 
-> [View on Solscan](https://solscan.io/account/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | [Solscan](https://solscan.io/account/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 

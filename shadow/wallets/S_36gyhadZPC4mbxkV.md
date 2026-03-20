@@ -1,6 +1,6 @@
 # Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
 
-> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | [Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-16 |
-| 📦 Unrealized | $-109 |
-| 🏦 Total | **$-125** |
+| 📦 Unrealized | $-100 |
+| 🏦 Total | **$-117** |
 | Best ROI | 1.44x |
 | Avg ROI | 0.92x |
 
@@ -24,7 +24,7 @@
 | 🟡 驚き | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:20 |
 | 🟡 SMCI | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:24 |
 | 🔴 INR | $0.000003 | **0.75x** ($-25) | 1.18x |  | pumpfun | 2026-03-20 02:31 |
-| 🟡 CHANNELS | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
+| 🟡 CHANNELS | $0.000020 | **1.08x** ($+8) | 1.25x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 Jesus | $0.000010 | **0.75x** ($-25) | 1.26x |  | pumpfun | 2026-03-19 22:46 |
 
 ## Closed Positions

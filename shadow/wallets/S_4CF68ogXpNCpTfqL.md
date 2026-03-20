@@ -1,6 +1,6 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | [Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-94 |
-| 🏦 Total | **$-94** |
+| 📦 Unrealized | $-90 |
+| 🏦 Total | **$-90** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,12 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Fro | $0.000184 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Fro | $0.000184 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
 | 🟡 0 | $0.000105 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 06:05 |
 | 🔴 butthole | $0.000169 | **0.78x** ($-22) | 1.09x |  | pumpswap | 2026-03-20 05:19 |
-| 🔴 Optimistic | $0.000763 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 04:11 |
+| 🔴 Optimistic | $0.000763 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 04:11 |
 | 🟡 Nigel | $0.000296 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
-| 🔴 Momo-chan | $0.000359 | **0.92x** ($-8) | 1.07x |  | pumpswap | 2026-03-20 01:51 |
+| 🔴 Momo-chan | $0.000359 | **1.00x** ($-0) | 1.07x |  | pumpswap | 2026-03-20 01:51 |
 | 🟡 HeavyPulp | $0.000753 | **1.23x** ($+23) | 1.23x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 MIM | $0.000074 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 WIZARD | $0.000435 | **0.91x** ($-9) | 1.04x |  | pumpswap | 2026-03-19 23:07 |

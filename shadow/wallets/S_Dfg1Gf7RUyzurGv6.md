@@ -1,6 +1,6 @@
 # Wallet: `Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS`
 
-> [View on Solscan](https://solscan.io/account/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | [Solscan](https://solscan.io/account/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+4,553 |
-| 📦 Unrealized | $+16,383 |
-| 🏦 Total | **$+20,936** |
+| 📦 Unrealized | $+16,429 |
+| 🏦 Total | **$+20,982** |
 | Best ROI | 47.53x |
 | Avg ROI | 23.76x |
 
@@ -22,7 +22,7 @@
 | 🟡 電王 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:19 |
 | 🟡 MOCHI | $0.000102 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:14 |
 | 🚀 CHANNELS | $0.000614 | **5.06x** ($+406) | 5.32x | ✅ | pumpswap | 2026-03-20 03:26 |
-| 🚀 CHIBI | $0.000003 | **729.23x** ($+72,823) | 729.23x | ✅ | pumpswap | 2026-03-19 23:36 |
+| 🚀 CHIBI | $0.000003 | **731.29x** ($+73,029) | 743.23x | ✅ | pumpswap | 2026-03-19 23:36 |
 
 ## Closed Positions
 

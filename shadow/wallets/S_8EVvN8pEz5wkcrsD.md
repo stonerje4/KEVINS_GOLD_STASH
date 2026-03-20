@@ -1,6 +1,6 @@
 # Wallet: `8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4`
 
-> [View on Solscan](https://solscan.io/account/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | Updated: 2026-03-20 15:19 UTC
+> [GMGN](https://gmgn.ai/sol/address/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | [Solscan](https://solscan.io/account/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | Updated: 2026-03-20 15:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+30 |
-| 🏦 Total | **$+30** |
+| 📦 Unrealized | $+22 |
+| 🏦 Total | **$+22** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -22,7 +22,7 @@
 | 🟡 DAU | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🟡 ANI | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:21 |
 | 🟡 API | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:21 |
-| 🔴 clod | $0.000039 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 12:20 |
+| 🔴 clod | $0.000039 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 12:20 |
 | 🟡 Pixel | $0.000010 | **1.39x** ($+39) | 1.70x |  | pumpswap | 2026-03-20 12:18 |
 
 ## Closed Positions
