@@ -1,12 +1,12 @@
 # Wallet: `ExybgiFoYWmarEoQ4vDJPo5oWtrC3xpN4Jb2DPeKmCme`
 
-> [GMGN](https://gmgn.ai/sol/address/ExybgiFoYWmarEoQ4vDJPo5oWtrC3xpN4Jb2DPeKmCme) | [Solscan](https://solscan.io/account/ExybgiFoYWmarEoQ4vDJPo5oWtrC3xpN4Jb2DPeKmCme) | Updated: 2026-03-20 19:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/ExybgiFoYWmarEoQ4vDJPo5oWtrC3xpN4Jb2DPeKmCme) | [Solscan](https://solscan.io/account/ExybgiFoYWmarEoQ4vDJPo5oWtrC3xpN4Jb2DPeKmCme) | Updated: 2026-03-20 19:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+31 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 RAGE | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 19:28 |
 | 🟡 sheep | $0.000011 | **1.31x** ($+31) | 1.31x |  | pumpfun | 2026-03-20 18:40 |
 
 ## Closed Positions

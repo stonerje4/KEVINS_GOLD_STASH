@@ -1,30 +1,30 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 19:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 19:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 126 (123 open, 3 closed) |
-| W/L | 1/2 (33%) |
-| 💵 Realized | $+73 |
-| 📦 Unrealized | $-73 |
-| 🏦 Total | **$+1** |
+| Positions | 126 (122 open, 4 closed) |
+| W/L | 1/3 (25%) |
+| 💵 Realized | $+56 |
+| 📦 Unrealized | $-95 |
+| 🏦 Total | **$-39** |
 | Best ROI | 2.95x |
-| Avg ROI | 1.24x |
+| Avg ROI | 1.14x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CRANK | $0.000017 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 19:14 |
-| 🟡 GOYBEAM | $0.000008 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 18:57 |
+| 🟡 CRANK | $0.000017 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 19:14 |
+| 🟡 GOYBEAM | $0.000008 | **1.02x** ($+2) | 1.06x |  | pumpswap | 2026-03-20 18:57 |
 | 🟡 aliens  | $0.000016 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 18:48 |
-| 🔴 Chud | $0.000031 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
+| 🔴 Chud | $0.000031 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
 | 🟡 Ride | $0.000014 | **1.10x** ($+10) | 1.13x |  | pumpswap | 2026-03-20 18:35 |
 | 🔴 FSC | $0.000023 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-20 17:48 |
-| 🟡 𝕏 | $0.000022 | **1.22x** ($+22) | 1.36x |  | pumpswap | 2026-03-20 17:39 |
+| 🟡 𝕏 | $0.000022 | **1.19x** ($+19) | 1.36x |  | pumpswap | 2026-03-20 17:39 |
 | 🔴 Situation | $0.000030 | **0.98x** ($-2) | 1.42x |  | pumpswap | 2026-03-20 17:24 |
 | 🟡 PEACE | $0.000021 | **1.32x** ($+32) | 1.53x |  | pumpswap | 2026-03-20 17:10 |
 | 🔴 INCOG | $0.000013 | **0.97x** ($-3) | 1.04x |  | pumpswap | 2026-03-20 17:05 |
@@ -77,7 +77,7 @@
 | 🟡 AIFRUIT | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
 | 🟡 CLAW | $0.000027 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-20 07:44 |
 | 🟡 NICK | $0.000029 | **1.01x** ($+1) | 1.16x |  | pumpswap | 2026-03-20 07:30 |
-| 🔴 WID | $0.000019 | **0.95x** ($-5) | 1.36x |  | pumpswap | 2026-03-20 07:27 |
+| 🔴 WID | $0.000019 | **0.96x** ($-4) | 1.36x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 clawedin | $0.000011 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
 | 🟡 XMONEY | $0.000026 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 07:12 |
 | 🟡 90S | $0.000015 | **1.18x** ($+18) | 1.42x |  | pumpswap | 2026-03-20 07:02 |
@@ -118,10 +118,9 @@
 | 🔴 italianrot | $0.000006 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-20 01:05 |
 | 🔴 Microwaved | $0.000025 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 01:02 |
 | 🟡 咕咕嘎嘎 | $0.000010 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 00:59 |
-| 🔴 Speak | $0.000023 | **0.59x** ($-41) | 1.20x |  | pumpswap | 2026-03-20 00:57 |
+| 🔴 Speak | $0.000023 | **0.60x** ($-40) | 1.20x |  | pumpswap | 2026-03-20 00:57 |
 | 🔴 SCOTT | $0.000012 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 00:51 |
 | 🔴 Monke | $0.000011 | **0.77x** ($-23) | 1.06x |  | pumpswap | 2026-03-20 00:51 |
-| 🟡 LIFE | $0.000025 | **1.46x** ($+46) | 2.51x | ✅ | pumpswap | 2026-03-20 00:34 |
 | 🟡 KING | $0.000027 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-20 00:23 |
 | 🔴 5 | $0.000010 | **0.98x** ($-2) | 1.24x |  | pumpswap | 2026-03-20 00:18 |
 | 🔴 wallahi | $0.000033 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-20 00:15 |
@@ -147,6 +146,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Gizmo | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:45 → 2026-03-20 08:22 |
+| 🟡 LIFE | 0.83x | $-17 | trailing_stop_3x | 2.51x | pumpswap | 2026-03-20 00:34 → 2026-03-20 19:25 |
 | 🟢 Ham | 2.95x | $+195 | trailing_stop_10x | 9.82x | pumpswap | 2026-03-20 00:03 → 2026-03-20 01:02 |
 | 🔴 HOSPICE | 0.40x | $-60 | stop_loss | 1.10x | pumpswap | 2026-03-19 23:11 → 2026-03-20 15:53 |
 

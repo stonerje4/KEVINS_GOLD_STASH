@@ -1,6 +1,6 @@
 # Wallet: `AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE`
 
-> [GMGN](https://gmgn.ai/sol/address/AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE) | [Solscan](https://solscan.io/account/AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE) | Updated: 2026-03-20 19:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE) | [Solscan](https://solscan.io/account/AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE) | Updated: 2026-03-20 19:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (6 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-143 |
-| 📦 Unrealized | $+419 |
-| 🏦 Total | **$+276** |
+| 📦 Unrealized | $+380 |
+| 🏦 Total | **$+237** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.29x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟢 8QhGyZEr | $0.000009 | **3.64x** ($+264) | 6.54x | ✅ | pumpfun | 2026-03-20 12:45 |
-| 🟡 genocide | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
+| 🔴 genocide | $0.000032 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
 | 🚀 Doolysaurus | $0.000010 | **14.28x** ($+1,328) | 24.21x | ✅ | pumpfun | 2026-03-20 10:48 |
 | 🟡 OFFLINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
 | 🟡 ANIME | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
