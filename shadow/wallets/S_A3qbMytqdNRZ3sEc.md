@@ -1,16 +1,16 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 06:15 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 06:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 36 (33 open, 3 closed) |
+| Positions | 38 (35 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $-131 |
-| 🏦 Total | **$-207** |
+| 📦 Unrealized | $-130 |
+| 🏦 Total | **$-206** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.2x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 IMAGINE | $0.000115 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:17 |
+| 🟡 HUGH | $0.002819 | **1.01x** ($+1) | 1.33x |  | pumpswap | 2026-03-20 06:17 |
 | 🟡 OIIA | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 Pete | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 GPD | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |

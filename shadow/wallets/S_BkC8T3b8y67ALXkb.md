@@ -1,16 +1,16 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 06:15 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 06:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 53 (51 open, 2 closed) |
+| Positions | 54 (52 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-120 |
-| 📦 Unrealized | $-4 |
-| 🏦 Total | **$-124** |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$-123** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🟡 worth | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 Rosie | $0.000797 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:51 |

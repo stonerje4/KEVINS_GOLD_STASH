@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 06:15 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 06:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (12 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
-| 📦 Unrealized | $-63 |
-| 🏦 Total | **$-185** |
+| 📦 Unrealized | $-73 |
+| 🏦 Total | **$-195** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.6x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 METEOR | $0.000005 | **0.85x** ($-15) | 1.15x |  | pumpfun | 2026-03-20 05:43 |
+| 🔴 METEOR | $0.000005 | **0.75x** ($-25) | 1.15x |  | pumpfun | 2026-03-20 05:43 |
 | 🔴 Veggietales | $0.000004 | **0.77x** ($-23) | 1.24x |  | pumpfun | 2026-03-20 03:56 |
 | 🔴 TRASHBAG | $0.000008 | **0.70x** ($-30) | 1.04x |  | pumpswap | 2026-03-20 03:53 |
 | 🟡 MATER | $0.000004 | **1.21x** ($+21) | 2.20x | ✅ | pumpswap | 2026-03-20 03:32 |

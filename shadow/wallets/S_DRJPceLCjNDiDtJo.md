@@ -1,16 +1,16 @@
 # Wallet: `DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX`
 
-> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 06:15 UTC
+> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 06:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (0 open, 2 closed) |
+| Positions | 3 (1 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-158 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-158** |
+| 📦 Unrealized | $+11 |
+| 🏦 Total | **$-146** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.1x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SHIBI | $0.000015 | **1.11x** ($+11) | 1.12x |  | pumpfun | 2026-03-20 06:20 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 06:15 UTC
+> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 06:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (12 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-223 |
-| 📦 Unrealized | $+195 |
-| 🏦 Total | **$-27** |
+| 📦 Unrealized | $+197 |
+| 🏦 Total | **$-26** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MENACE | $0.000004 | **1.11x** ($+11) | 2.68x | ✅ | pumpswap | 2026-03-20 06:05 |
+| 🟡 MENACE | $0.000004 | **1.15x** ($+15) | 2.68x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.51x** ($+151) | 2.51x | ✅ | pumpfun | 2026-03-20 05:51 |
 | 🟡 TRADITION | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:10 |
 | 🔴 BitPenis | $0.000006 | **0.42x** ($-58) | 1.30x |  | pumpfun | 2026-03-20 04:59 |
