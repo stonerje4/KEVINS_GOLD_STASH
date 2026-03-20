@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,22 +9,22 @@
 | Positions | 56 (32 open, 24 closed) |
 | W/L | 1/23 (4%) |
 | 💵 Realized | $-1,128 |
-| 📦 Unrealized | $+299 |
-| 🏦 Total | **$-829** |
-| Best ROI | 1.50x |
-| Avg ROI | 0.53x |
+| 📦 Unrealized | $+245 |
+| 🏦 Total | **$-882** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000012 | **0.62x** ($-38) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
+| 🔴 CHUCK | $0.000012 | **0.63x** ($-37) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
 | 🟡 kinton | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:01 |
 | 🟡 Chibify | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
-| 🟢 Judy | $0.000009 | **2.41x** ($+141) | 2.44x | ✅ | pumpfun | 2026-03-20 10:41 |
-| 🚀 Doolysaurus | $0.000006 | **18.60x** ($+1,760) | 18.93x | ✅ | pumpfun | 2026-03-20 09:52 |
+| 🟢 Judy | $0.000009 | **2.44x** ($+144) | 2.44x | ✅ | pumpfun | 2026-03-20 10:41 |
+| 🚀 Doolysaurus | $0.000006 | **16.30x** ($+1,530) | 18.93x | ✅ | pumpfun | 2026-03-20 09:52 |
 | 🔴 我的猪盾 | $0.000006 | **0.46x** ($-54) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 IMAGINE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |

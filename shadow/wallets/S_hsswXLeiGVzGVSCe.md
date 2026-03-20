@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,23 +9,23 @@
 | Positions | 194 (176 open, 18 closed) |
 | W/L | 8/10 (44%) |
 | 💵 Realized | $+1,033 |
-| 📦 Unrealized | $-2,742 |
-| 🏦 Total | **$-1,710** |
-| Best ROI | 5.93x |
-| Avg ROI | 1.57x |
+| 📦 Unrealized | $-2,727 |
+| 🏦 Total | **$-1,695** |
+| Best Trade | 5.9x |
+| Avg Peak | 3.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 STF | $0.000004 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 15:18 |
+| 🟡 STF | $0.000004 | **1.36x** ($+36) | 1.38x |  | pumpfun | 2026-03-20 15:18 |
 | 🔴 WTR | $0.000005 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 15:16 |
 | 🔴 WouldChuck | $0.000003 | **0.97x** ($-3) | 1.06x |  | pumpfun | 2026-03-20 15:11 |
 | 🔴 67 | $0.000003 | **0.94x** ($-6) | 1.02x |  | pumpfun | 2026-03-20 15:07 |
 | 🔴 CHUCK | $0.000003 | **0.76x** ($-24) | 1.09x |  | pumpfun | 2026-03-20 15:07 |
 | 🔴 G4yfGuS5 | $0.000004 | **0.71x** ($-29) | 1.00x |  | pumpfun | 2026-03-20 15:05 |
-| 🟡 momoko | $0.000003 | **1.74x** ($+74) | 2.01x | ✅ | pumpfun | 2026-03-20 15:05 |
-| 🟡 Chuck | $0.000004 | **1.00x** ($+0) | 1.06x |  | pumpfun | 2026-03-20 14:58 |
+| 🟡 momoko | $0.000003 | **1.61x** ($+61) | 2.01x | ✅ | pumpfun | 2026-03-20 15:05 |
+| 🔴 Chuck | $0.000004 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-20 14:58 |
 | 🔴 Chuck | $0.000004 | **0.80x** ($-20) | 1.06x |  | pumpfun | 2026-03-20 14:53 |
 | 🔴 TOPDOG | $0.000003 | **0.79x** ($-21) | 1.04x |  | pumpfun | 2026-03-20 14:50 |
 | 🟡 J8DmNTzc | $0.000003 | **1.01x** ($+1) | 1.12x |  | pumpfun | 2026-03-20 14:49 |

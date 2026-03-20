@@ -1,6 +1,6 @@
 # Wallet: `6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6`
 
-> [GMGN](https://gmgn.ai/sol/address/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | [Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-20** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+74 |
+| 🏦 Total | **$+74** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -21,8 +21,8 @@
 | 🟡 MERLIN | $0.000158 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 0 | $0.000106 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:16 |
 | 🟡 JupUSD | $0.182917 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:01 |
-| 🔴 YEPE | $0.000127 | **0.80x** ($-20) | 1.16x |  | pumpswap | 2026-03-20 12:05 |
-| 🟡 Optimistic | $0.000374 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:18 |
+| 🔴 YEPE | $0.000127 | **0.81x** ($-19) | 1.16x |  | pumpswap | 2026-03-20 12:05 |
+| 🟡 Optimistic | $0.000374 | **1.93x** ($+93) | 1.93x |  | pumpswap | 2026-03-20 11:18 |
 | 🟡 LNCHR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:13 |
 | 🟡 effect | $0.000084 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
 

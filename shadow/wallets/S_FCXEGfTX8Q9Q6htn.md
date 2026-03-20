@@ -1,6 +1,6 @@
 # Wallet: `FCXEGfTX8Q9Q6htnGogbLrMW9FrGCBsAxyqCpBT4Tj2k`
 
-> [GMGN](https://gmgn.ai/sol/address/FCXEGfTX8Q9Q6htnGogbLrMW9FrGCBsAxyqCpBT4Tj2k) | [Solscan](https://solscan.io/account/FCXEGfTX8Q9Q6htnGogbLrMW9FrGCBsAxyqCpBT4Tj2k) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/FCXEGfTX8Q9Q6htnGogbLrMW9FrGCBsAxyqCpBT4Tj2k) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-86 |
-| 🏦 Total | **$-86** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-83 |
+| 🏦 Total | **$-83** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 underdog | $0.000011 | **0.68x** ($-32) | 1.00x |  | pumpfun | 2026-03-20 15:14 |
+| 🔴 underdog | $0.000011 | **0.71x** ($-29) | 1.00x |  | pumpfun | 2026-03-20 15:14 |
 | 🔴 SPOELON | $0.000007 | **0.46x** ($-54) | 1.24x |  | pumpfun | 2026-03-20 00:30 |
 
 ## Closed Positions

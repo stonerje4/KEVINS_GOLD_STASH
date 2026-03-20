@@ -1,6 +1,6 @@
 # Wallet: `5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv`
 
-> [GMGN](https://gmgn.ai/sol/address/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | [Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -11,14 +11,14 @@
 | 💵 Realized | $-148 |
 | 📦 Unrealized | $+68 |
 | 🏦 Total | **$-80** |
-| Best ROI | 0.81x |
-| Avg ROI | 0.51x |
+| Best Trade | 0.8x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Momo-chan | $0.000319 | **1.02x** ($+2) | 1.21x |  | pumpswap | 2026-03-20 11:48 |
+| 🟡 Momo-chan | $0.000319 | **1.03x** ($+3) | 1.21x |  | pumpswap | 2026-03-20 11:48 |
 | 🟢 Dryer | $0.000013 | **2.78x** ($+178) | 2.78x | ✅ | pumpfun | 2026-03-20 03:39 |
 | 🔴 ORANMAMA | $0.000265 | **0.94x** ($-6) | 1.29x |  | pumpswap | 2026-03-20 03:01 |
 | 🔴 memecoin | $0.000092 | **0.96x** ($-4) | 1.04x |  | cpmm | 2026-03-20 02:26 |

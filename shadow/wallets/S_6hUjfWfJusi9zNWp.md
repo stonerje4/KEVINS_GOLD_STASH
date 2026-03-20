@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 19 (18 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-84 |
-| 📦 Unrealized | $+130 |
-| 🏦 Total | **$+46** |
-| Best ROI | 0.16x |
-| Avg ROI | 0.16x |
+| 📦 Unrealized | $+170 |
+| 🏦 Total | **$+87** |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -20,13 +20,13 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LEE | $0.000008 | **1.15x** ($+15) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 CHUCK | $0.000018 | **0.84x** ($-16) | 1.36x |  | pumpfun | 2026-03-20 14:37 |
-| 🟢 Chuck | $0.000195 | **3.03x** ($+203) | 3.36x | ✅ | pumpswap | 2026-03-20 14:26 |
+| 🟢 Chuck | $0.000195 | **3.66x** ($+266) | 3.79x | ✅ | pumpswap | 2026-03-20 14:26 |
 | 🟡 Nigel | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
-| 🟡 Hermes | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
+| 🟡 Hermes | $0.000026 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 ANIME | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:50 |
 | 🟡 Freddie | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:32 |
-| 🔴 Income | $0.000034 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
+| 🔴 Income | $0.000034 | **0.59x** ($-41) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000017 | **2.20x** ($+120) | 2.20x | ✅ | pumpfun | 2026-03-20 09:51 |
 | 🟡 CHIBI | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:50 |

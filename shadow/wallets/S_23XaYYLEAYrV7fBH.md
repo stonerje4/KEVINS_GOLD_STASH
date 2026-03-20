@@ -1,6 +1,6 @@
 # Wallet: `23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp`
 
-> [GMGN](https://gmgn.ai/sol/address/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | [Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 13 (9 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-298 |
-| 📦 Unrealized | $+606 |
-| 🏦 Total | **$+308** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.25x |
+| 📦 Unrealized | $+632 |
+| 🏦 Total | **$+333** |
+| Best Trade | 0.4x |
+| Avg Peak | 39.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 clod | $0.000001 | **29.19x** ($+2,819) | 29.86x | ✅ | pumpswap | 2026-03-20 12:25 |
+| 🚀 clod | $0.000001 | **30.33x** ($+2,933) | 30.33x | ✅ | pumpswap | 2026-03-20 12:25 |
 | 🟡 SHOENICE  | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:41 |
 | 🟡 ANIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:23 |
 | 🟡 Kin-kun | $0.000008 | **1.31x** ($+31) | 1.64x |  | pumpfun | 2026-03-20 09:53 |

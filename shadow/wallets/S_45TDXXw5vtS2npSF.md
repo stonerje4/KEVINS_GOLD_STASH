@@ -1,6 +1,6 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [GMGN](https://gmgn.ai/sol/address/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | [Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,18 +9,18 @@
 | Positions | 16 (14 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+1,070 |
-| 🏦 Total | **$+948** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| 📦 Unrealized | $+1,329 |
+| 🏦 Total | **$+1,207** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Norban | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
-| 🚀 Chuck | $0.000011 | **55.40x** ($+5,440) | 61.33x | ✅ | pumpfun | 2026-03-20 14:13 |
-| 🔴 Chuck | $0.000516 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
+| 🚀 Chuck | $0.000011 | **66.82x** ($+6,582) | 69.26x | ✅ | pumpfun | 2026-03-20 14:13 |
+| 🔴 Chuck | $0.000516 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 ME | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:23 |
 | 🟡 quit | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:18 |
 | 🔴 QUIT | $0.000005 | **0.77x** ($-23) | 1.40x |  | pumpfun | 2026-03-20 11:18 |
@@ -31,7 +31,7 @@
 | 🟡 EmH4y6zA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 Slap | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 Slap | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:13 |
-| 🔴 INCOME | $0.000685 | **0.71x** ($-29) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
+| 🔴 INCOME | $0.000685 | **0.74x** ($-26) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
 
 ## Closed Positions
 

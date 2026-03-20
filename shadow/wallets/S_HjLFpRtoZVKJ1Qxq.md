@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 142 (140 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-240 |
-| 🏦 Total | **$-377** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.31x |
+| 📦 Unrealized | $-241 |
+| 🏦 Total | **$-378** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Moe | $0.000068 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 15:16 |
-| 🔴 plumber | $0.000043 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 15:15 |
+| 🔴 Moe | $0.000068 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 15:16 |
+| 🔴 plumber | $0.000043 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 15:15 |
 | 🔴 SCAN | $0.000135 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
 | 🟡 creature | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
 | 🔴 Speak | $0.000019 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
@@ -75,7 +75,7 @@
 | 🟡 OPTIMUS | $0.000016 | **1.17x** ($+17) | 1.23x |  | pumpswap | 2026-03-20 07:53 |
 | 🟡 NICK | $0.000029 | **1.01x** ($+1) | 1.17x |  | pumpswap | 2026-03-20 07:32 |
 | 🟡 WID | $0.000019 | **1.32x** ($+32) | 1.33x |  | pumpswap | 2026-03-20 07:27 |
-| 🔴 Solana | $0.000125 | **0.50x** ($-50) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
+| 🔴 Solana | $0.000125 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 PAPERCLIP | $0.000158 | **1.26x** ($+26) | 1.29x |  | pumpswap | 2026-03-20 06:54 |
 | 🔴 PARK | $0.000020 | **0.96x** ($-4) | 1.05x |  | pumpswap | 2026-03-20 06:51 |
 | 🟡 PYRO | $0.000034 | **1.14x** ($+14) | 1.29x |  | pumpswap | 2026-03-20 06:47 |
@@ -147,7 +147,7 @@
 | 🔴 Life | $0.000182 | **0.82x** ($-18) | 1.06x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 ACV | $0.000002 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 5 | $0.000011 | **0.84x** ($-16) | 1.06x |  | pumpswap | 2026-03-19 23:36 |
-| 🔴 INCOME | $0.000640 | **0.76x** ($-24) | 1.14x |  | pumpswap | 2026-03-19 23:35 |
+| 🔴 INCOME | $0.000640 | **0.79x** ($-21) | 1.14x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 HEY | $0.000738 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 wid | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 Barron | $0.000016 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-19 23:23 |

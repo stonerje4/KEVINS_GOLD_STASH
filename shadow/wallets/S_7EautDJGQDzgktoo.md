@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 31 (24 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-394 |
-| 📦 Unrealized | $-62 |
-| 🏦 Total | **$-456** |
-| Best ROI | 0.82x |
-| Avg ROI | 0.44x |
+| 📦 Unrealized | $-60 |
+| 🏦 Total | **$-454** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000332 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-20 15:15 |
+| 🟡 Chuck | $0.000332 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 15:15 |
 | 🔴 Foodrot | $0.000161 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 15:11 |
 | 🟡 Spiderman | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:58 |
 | 🟡 LOL | $0.000455 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |

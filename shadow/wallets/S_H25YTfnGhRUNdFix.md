@@ -1,18 +1,18 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (12 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
+| Positions | 12 (11 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-77 |
 | 📦 Unrealized | $-7 |
-| 🏦 Total | **$-7** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-85** |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -26,7 +26,6 @@
 | 🔴 Ouroboros | $0.000026 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
 | 🟡 ZeroG | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:38 |
 | 🟡 MOCHI | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:37 |
-| 🟡 唐子兵法 | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:30 |
 | 🔴 EPSTEINBLI | $0.000002 | **0.89x** ($-11) | 1.19x |  | pumpswap | 2026-03-20 06:23 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:19 |
 | 🟡 IMAGINE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:13 |
@@ -35,6 +34,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 唐子兵法 | 0.23x | $-77 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:30 → 2026-03-20 15:19 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

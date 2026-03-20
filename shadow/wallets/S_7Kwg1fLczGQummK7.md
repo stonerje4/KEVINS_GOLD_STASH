@@ -1,6 +1,6 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 13 (12 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-263 |
-| 🏦 Total | **$-324** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| 📦 Unrealized | $-259 |
+| 🏦 Total | **$-320** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 MILK | $0.000001 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 15:17 |
-| 🔴 Optimislon | $0.000142 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
+| 🔴 Optimislon | $0.000142 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🔴 Smoklon | $0.000007 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
 | 🔴 XCEO | $0.000005 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
 | 🟡 Chibi | $0.000008 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 02:37 |

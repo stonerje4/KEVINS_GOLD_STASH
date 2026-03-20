@@ -1,6 +1,6 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [GMGN](https://gmgn.ai/sol/address/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | [Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 111 (86 open, 25 closed) |
 | W/L | 4/21 (16%) |
 | 💵 Realized | $-820 |
-| 📦 Unrealized | $-1,196 |
-| 🏦 Total | **$-2,016** |
-| Best ROI | 2.98x |
-| Avg ROI | 0.67x |
+| 📦 Unrealized | $-1,190 |
+| 🏦 Total | **$-2,010** |
+| Best Trade | 3.0x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
@@ -51,7 +51,7 @@
 | 🟡 6vxpPSg8 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:41 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:27 |
 | 🟡 ANIME | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
-| 🔴 Income | $0.000037 | **0.47x** ($-53) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
+| 🔴 Income | $0.000037 | **0.53x** ($-47) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 INCOME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 kawaifiy | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 CFLPJdY3 | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:04 |

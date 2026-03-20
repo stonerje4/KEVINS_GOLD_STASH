@@ -1,6 +1,6 @@
 # Wallet: `4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp`
 
-> [GMGN](https://gmgn.ai/sol/address/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | [Solscan](https://solscan.io/account/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
 | 🏦 Total | **$+0** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 

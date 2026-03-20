@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,26 +9,26 @@
 | Positions | 21 (21 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+94 |
-| 🏦 Total | **$+94** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+144 |
+| 🏦 Total | **$+144** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Pete | $0.000056 | **1.23x** ($+23) | 1.29x |  | pumpswap | 2026-03-20 15:07 |
-| 🟡 clod | $0.000031 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 14:55 |
+| 🟡 clod | $0.000031 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 effect | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:41 |
-| 🟡 Solana | $0.000043 | **1.48x** ($+48) | 1.69x |  | pumpswap | 2026-03-20 14:35 |
+| 🟡 Solana | $0.000043 | **1.49x** ($+49) | 1.69x |  | pumpswap | 2026-03-20 14:35 |
 | 🟡 MOCHI | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 Dryer | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:45 |
 | 🟡 CHIBI | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:09 |
 | 🟡 Pixel | $0.000008 | **1.61x** ($+61) | 1.97x |  | pumpswap | 2026-03-20 09:08 |
 | 🟡 驚き | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:43 |
 | 🟡 Freebuff | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:10 |
-| 🟡 Optimistic | $0.000500 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
+| 🟡 Optimistic | $0.000500 | **1.45x** ($+45) | 1.45x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 DRIVE | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:09 |
 | 🟡 Luxury | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:24 |
 | 🟡 Alien | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:58 |

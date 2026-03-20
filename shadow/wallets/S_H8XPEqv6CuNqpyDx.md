@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 118 (91 open, 27 closed) |
 | W/L | 2/25 (7%) |
 | 💵 Realized | $-1,233 |
-| 📦 Unrealized | $-1,112 |
-| 🏦 Total | **$-2,344** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.54x |
+| 📦 Unrealized | $-1,105 |
+| 🏦 Total | **$-2,338** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.7x |
 
 ## Open Positions
 
@@ -52,7 +52,7 @@
 | 🟡 ANIME | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:27 |
 | 🟡 EmH4y6zA | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 Umami | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:20 |
-| 🔴 Income | $0.000035 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
+| 🔴 Income | $0.000035 | **0.56x** ($-44) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 INCOME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 kawaifiy | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 FATE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:04 |

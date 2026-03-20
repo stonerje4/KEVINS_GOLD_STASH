@@ -1,6 +1,6 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [GMGN](https://gmgn.ai/sol/address/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | [Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 17 (14 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+372 |
-| 📦 Unrealized | $-106 |
-| 🏦 Total | **$+266** |
-| Best ROI | 5.95x |
-| Avg ROI | 2.24x |
+| 📦 Unrealized | $-102 |
+| 🏦 Total | **$+270** |
+| Best Trade | 5.9x |
+| Avg Peak | 4.4x |
 
 ## Open Positions
 
@@ -26,7 +26,7 @@
 | 🟡 LOL | $0.000318 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
 | 🟡 CLAW3D | $0.000060 | **1.12x** ($+12) | 1.32x |  | pumpswap | 2026-03-20 02:14 |
 | 🔴 GPD | $0.000012 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 01:47 |
-| 🔴 Optimistic | $0.000718 | **0.96x** ($-4) | 1.13x |  | pumpswap | 2026-03-20 01:30 |
+| 🟡 Optimistic | $0.000718 | **1.01x** ($+1) | 1.13x |  | pumpswap | 2026-03-20 01:30 |
 | 🟡 Ham | $0.000036 | **1.15x** ($+15) | 1.94x |  | pumpswap | 2026-03-20 00:59 |
 | 🔴 CHIBI | $0.000067 | **0.87x** ($-13) | 1.18x |  | pumpswap | 2026-03-20 00:25 |
 | 🔴 TOKEN | $0.000142 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-19 23:24 |

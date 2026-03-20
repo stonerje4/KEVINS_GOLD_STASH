@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [GMGN](https://gmgn.ai/sol/address/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | [Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 27 (9 open, 18 closed) |
 | W/L | 1/17 (6%) |
 | 💵 Realized | $-1,414 |
-| 📦 Unrealized | $+1,359 |
-| 🏦 Total | **$-56** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.21x |
+| 📦 Unrealized | $+1,370 |
+| 🏦 Total | **$-44** |
+| Best Trade | 1.5x |
+| Avg Peak | 108.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 Chuck | $0.000019 | **16.78x** ($+1,578) | 25.08x | ✅ | pumpswap | 2026-03-20 14:19 |
+| 🚀 Chuck | $0.000019 | **17.29x** ($+1,629) | 25.08x | ✅ | pumpswap | 2026-03-20 14:19 |
 | 🟡 CAVE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:46 |
 | 🚀 Pixels | $0.000001 | **27.37x** ($+2,637) | 27.38x | ✅ | pumpswap | 2026-03-20 11:18 |
 | 🚀 Simulation | $0.000002 | **12.33x** ($+1,133) | 13.13x | ✅ | pumpswap | 2026-03-20 04:58 |

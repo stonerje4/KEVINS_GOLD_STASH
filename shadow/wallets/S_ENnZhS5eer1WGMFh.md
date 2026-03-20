@@ -1,6 +1,6 @@
 # Wallet: `ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F`
 
-> [GMGN](https://gmgn.ai/sol/address/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | [Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 20 (20 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+3 |
+| 🏦 Total | **$+3** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Chuck | $0.000151 | **2.15x** ($+115) | 3.21x | ✅ | pumpswap | 2026-03-20 13:55 |
+| 🟢 Chuck | $0.000151 | **2.21x** ($+121) | 3.21x | ✅ | pumpswap | 2026-03-20 13:55 |
 | 🟡 BigDance | $0.000211 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 13:45 |
 | 🟡 ME | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:37 |
 | 🟡 Foodrot | $0.000148 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 13:19 |

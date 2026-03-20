@@ -1,6 +1,6 @@
 # Wallet: `4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH`
 
-> [GMGN](https://gmgn.ai/sol/address/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | [Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+334 |
-| 🏦 Total | **$+213** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| 📦 Unrealized | $+306 |
+| 🏦 Total | **$+186** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Interconnects | $0.000007 | **3.56x** ($+256) | 3.86x | ✅ | pumpfun | 2026-03-20 15:05 |
+| 🟢 Interconnects | $0.000007 | **2.87x** ($+187) | 3.86x | ✅ | pumpfun | 2026-03-20 15:05 |
 | 🟡 9wSZbC64 | $0.000003 | **1.71x** ($+71) | 1.71x |  | pumpfun | 2026-03-20 14:53 |
 | 🔴 JackieChan | $0.000003 | **0.88x** ($-12) | 1.02x |  | pumpfun | 2026-03-20 14:49 |
 | 🔴 Oracle | $0.000007 | **0.98x** ($-2) | 1.45x |  | pumpfun | 2026-03-20 13:57 |

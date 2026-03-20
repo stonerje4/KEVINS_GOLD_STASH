@@ -1,6 +1,6 @@
 # Wallet: `2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW`
 
-> [GMGN](https://gmgn.ai/sol/address/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | [Solscan](https://solscan.io/account/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | Updated: 2026-03-20 15:18 UTC
+> [View on Solscan](https://solscan.io/account/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | Updated: 2026-03-20 15:19 UTC
 
 ## Summary
 
@@ -11,15 +11,15 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+37 |
 | 🏦 Total | **$+37** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 DAVE | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
-| 🟡 Rocky | $0.000051 | **1.45x** ($+45) | 1.72x |  | pumpswap | 2026-03-20 04:44 |
+| 🟡 Rocky | $0.000051 | **1.46x** ($+46) | 1.72x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 SPARKOS | $0.000038 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 04:35 |
 | 🟡 NOSTALGIA | $0.000004 | **1.02x** ($+2) | 1.04x |  | pumpfun | 2026-03-20 04:32 |
 | 🟡 Genesis-2 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:47 |
