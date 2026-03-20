@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 47 (46 open, 1 closed) |
+| Positions | 48 (47 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
 | 📦 Unrealized | $-160 |
 | 🏦 Total | **$+31** |
-| Best Trade | 2.9x |
-| Avg Peak | 5.8x |
+| Best ROI | 2.91x |
+| Avg ROI | 2.91x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Chibiguy | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:19 |
 | 🟡 GAAS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:11 |
 | 🔴 CJELL | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:05 |
 | 🟡 HIDE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:28 |

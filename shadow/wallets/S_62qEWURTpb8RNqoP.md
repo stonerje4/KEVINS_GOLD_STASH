@@ -9,16 +9,16 @@
 | Positions | 15 (11 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $-84 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$-80** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.4x |
+| 📦 Unrealized | $+10 |
+| 🏦 Total | **$-74** |
+| Best ROI | 1.49x |
+| Avg ROI | 0.79x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Sunshine | $0.000005 | **1.69x** ($+69) | 2.43x | ✅ | pumpfun | 2026-03-20 13:13 |
+| 🟡 Sunshine | $0.000005 | **1.81x** ($+81) | 2.43x | ✅ | pumpfun | 2026-03-20 13:13 |
 | 🟡 Futa-kun | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🔴 JUMP | $0.000005 | **0.55x** ($-45) | 1.18x |  | pumpfun | 2026-03-20 08:39 |
 | 🟡 face | $0.000005 | **1.01x** ($+1) | 1.29x |  | pumpfun | 2026-03-20 08:22 |

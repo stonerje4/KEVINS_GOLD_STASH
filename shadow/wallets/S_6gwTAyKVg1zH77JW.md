@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 181 (178 open, 3 closed) |
+| Positions | 182 (179 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
 | 📦 Unrealized | $+155 |
 | 🏦 Total | **$+333** |
-| Best Trade | 2.9x |
-| Avg Peak | 4.5x |
+| Best ROI | 2.91x |
+| Avg ROI | 1.59x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chud | $0.000722 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 LAYOFF | $0.000248 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 Goyim | $0.000631 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 BBX | $0.000128 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
