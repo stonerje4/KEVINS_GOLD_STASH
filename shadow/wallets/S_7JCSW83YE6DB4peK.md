@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 145 (142 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+137 |
-| 🏦 Total | **$-64** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| 📦 Unrealized | $+129 |
+| 🏦 Total | **$-72** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
@@ -75,7 +75,7 @@
 | 🟡 WhiteHouse | $0.000317 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-20 08:15 |
 | 🟡 Baldi | $0.000019 | **1.05x** ($+5) | 1.10x |  | pumpswap | 2026-03-20 08:01 |
 | 🟡 OPTIMUS | $0.000015 | **1.27x** ($+27) | 1.34x |  | pumpswap | 2026-03-20 07:53 |
-| 🔴 abcdefg | $0.000977 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 07:32 |
+| 🔴 abcdefg | $0.000977 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 07:32 |
 | 🟡 clawedin | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
 | 🟡 RENTAI | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:02 |
 | 🔴 PATRIOT | $0.000010 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-20 07:01 |
@@ -133,7 +133,7 @@
 | 🔴 worth | $0.000104 | **0.98x** ($-2) | 1.15x |  | pumpswap | 2026-03-20 00:59 |
 | 🟡 CL1 | $0.000294 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 00:53 |
 | 🟡 KENJI | $0.000029 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 00:50 |
-| 🔴 Feels | $0.000012 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 00:49 |
+| 🔴 Feels | $0.000012 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 00:49 |
 | 🟡 Pippkin | $0.000090 | **1.00x** ($+0) | 1.09x |  | pumpswap | 2026-03-20 00:33 |
 | 🟡 Optimistic | $0.000683 | **1.01x** ($+1) | 1.31x |  | pumpswap | 2026-03-20 00:21 |
 | 🟡 KIWI | $0.000155 | **1.01x** ($+1) | 1.05x |  | pumpswap | 2026-03-20 00:17 |

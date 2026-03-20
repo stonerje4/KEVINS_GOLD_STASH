@@ -1,24 +1,25 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 202 (199 open, 3 closed) |
+| Positions | 203 (200 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
-| 📦 Unrealized | $+107 |
-| 🏦 Total | **$+284** |
-| Best ROI | 2.91x |
-| Avg ROI | 1.59x |
+| 📦 Unrealized | $+110 |
+| 🏦 Total | **$+287** |
+| Best Trade | 2.9x |
+| Avg Peak | 4.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 clod | $0.000030 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 15:00 |
+| 🔴 CaliFraud | $0.000005 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 15:03 |
+| 🔴 clod | $0.000030 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 15:00 |
 | 🟡 GameTheory | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 CHIBELON | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
 | 🟡 ZENT | $0.000109 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:47 |
@@ -184,7 +185,7 @@
 | 🟡 gay | $0.000370 | **1.09x** ($+9) | 1.11x |  | pumpswap | 2026-03-19 23:57 |
 | 🟡 PRSM | $0.000058 | **1.01x** ($+1) | 1.13x |  | pumpswap | 2026-03-19 23:56 |
 | 🟡 Manosphere | $0.000006 | **1.06x** ($+6) | 1.25x |  | pumpswap | 2026-03-19 23:54 |
-| 🔴 Feels | $0.000011 | **0.95x** ($-5) | 1.02x |  | pumpswap | 2026-03-19 23:53 |
+| 🔴 Feels | $0.000011 | **0.87x** ($-13) | 1.02x |  | pumpswap | 2026-03-19 23:53 |
 | 🟡 GAS | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:48 |
 | 🟡 GOBLIN | $0.000015 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-19 23:47 |
 | 🔴 UFO | $0.000105 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-19 23:46 |

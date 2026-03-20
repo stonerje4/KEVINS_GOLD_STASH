@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 139 (137 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-67 |
-| 🏦 Total | **$-204** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.31x |
+| 📦 Unrealized | $-50 |
+| 🏦 Total | **$-187** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -48,7 +48,7 @@
 | 🟡 XPD | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:24 |
 | 🟡 Matthew | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 gay | $0.000351 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
-| 🟡 Feels | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:51 |
+| 🟡 Feels | $0.000008 | **1.16x** ($+16) | 1.24x |  | pumpswap | 2026-03-20 11:51 |
 | 🟡 UNTAXED | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
 | 🟡 Otome | $0.000016 | **1.08x** ($+8) | 1.11x |  | pumpswap | 2026-03-20 11:14 |
 | 🟡 Twin | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:03 |
@@ -66,7 +66,7 @@
 | 🔴 MONA | $0.000064 | **0.86x** ($-14) | 1.20x |  | pumpswap | 2026-03-20 08:46 |
 | 🔴 SNAKE | $0.000009 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-20 08:44 |
 | 🟡 AIFRUITS | $0.000634 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:33 |
-| 🔴 abcdefg | $0.000945 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 08:27 |
+| 🔴 abcdefg | $0.000945 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 08:27 |
 | 🟡 snowball | $0.000344 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 08:17 |
 | 🔴 Noesis | $0.000321 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-20 07:55 |
 | 🟡 OPTIMUS | $0.000016 | **1.17x** ($+17) | 1.23x |  | pumpswap | 2026-03-20 07:53 |

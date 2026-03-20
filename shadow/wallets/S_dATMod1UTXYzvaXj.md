@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -9,21 +9,21 @@
 | Positions | 34 (23 open, 11 closed) |
 | W/L | 1/10 (9%) |
 | 💵 Realized | $-401 |
-| 📦 Unrealized | $+426 |
-| 🏦 Total | **$+25** |
-| Best ROI | 1.47x |
-| Avg ROI | 0.64x |
+| 📦 Unrealized | $+422 |
+| 🏦 Total | **$+21** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 T.E.A.M. | $0.000007 | **1.31x** ($+31) | 1.45x |  | pumpfun | 2026-03-20 15:01 |
+| 🟡 T.E.A.M. | $0.000007 | **1.10x** ($+10) | 1.45x |  | pumpfun | 2026-03-20 15:01 |
 | 🔴 Steel | $0.000010 | **0.73x** ($-27) | 1.79x |  | pumpfun | 2026-03-20 14:40 |
 | 🟡 NunChucks | $0.000018 | **1.69x** ($+69) | 2.03x | ✅ | pumpfun | 2026-03-20 14:28 |
 | 🟡 Chuck | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 Chuck | $0.000328 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:56 |
-| 🟡 clod | $0.000022 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-20 12:17 |
+| 🟡 clod | $0.000022 | **1.35x** ($+35) | 1.35x |  | pumpswap | 2026-03-20 12:17 |
 | 🟡 Doolysaurus | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |
 | 🟡 Chonk | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:44 |

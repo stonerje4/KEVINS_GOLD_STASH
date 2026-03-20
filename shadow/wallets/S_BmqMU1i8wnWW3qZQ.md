@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 434 (429 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,364 |
-| 🏦 Total | **$-1,450** |
-| Best ROI | 2.75x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-1,386 |
+| 🏦 Total | **$-1,472** |
+| Best Trade | 2.8x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 LNG | $0.000006 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 15:01 |
-| 🔴 clod | $0.000035 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 clod | $0.000035 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🟡 CHIBELON | $0.000108 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
 | 🔴 GANBARE | $0.000098 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 14:49 |
@@ -139,7 +139,7 @@
 | 🔴 Tastecoin | $0.000220 | **0.64x** ($-36) | 1.06x |  | pumpswap | 2026-03-20 06:14 |
 | 🟡 NeeDoh | $0.000063 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-20 06:06 |
 | 🔴 Messenger | $0.000034 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
-| 🔴 Thinker | $0.000010 | **0.82x** ($-18) | 1.01x |  | pumpswap | 2026-03-20 06:06 |
+| 🔴 Thinker | $0.000010 | **0.63x** ($-37) | 1.01x |  | pumpswap | 2026-03-20 06:06 |
 | 🔴 SQUIRE | $0.000004 | **0.87x** ($-13) | 1.58x |  | pumpswap | 2026-03-20 06:05 |
 | 🔴 Peptides | $0.000125 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 05:57 |
 | 🔴 XAIC | $0.000204 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-20 05:56 |
@@ -436,7 +436,7 @@
 | 🔴 LOL | $0.000548 | **0.77x** ($-23) | 1.06x |  | pumpswap | 2026-03-19 22:44 |
 | 🔴 SCOTT | $0.000016 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-19 22:43 |
 | 🟡 PZBCN | $0.000151 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-19 22:42 |
-| 🔴 CaliFraud | $0.000007 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-19 22:42 |
+| 🔴 CaliFraud | $0.000007 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 22:42 |
 | 🟡 SHELLY | $0.000009 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 22:41 |
 | 🟡 BBX | $0.000473 | **1.11x** ($+11) | 1.42x |  | pumpswap | 2026-03-19 22:41 |
 | 🟡 imagineslop | $0.000005 | **1.36x** ($+36) | 1.54x |  | pumpswap | 2026-03-19 22:40 |

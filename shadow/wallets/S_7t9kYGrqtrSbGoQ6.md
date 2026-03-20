@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 324 (320 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
-| 📦 Unrealized | $+205 |
-| 🏦 Total | **$+200** |
-| Best ROI | 3.00x |
-| Avg ROI | 0.99x |
+| 📦 Unrealized | $+208 |
+| 🏦 Total | **$+203** |
+| Best Trade | 3.0x |
+| Avg Peak | 2.7x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LNG | $0.000006 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 15:01 |
-| 🔴 clod | $0.000032 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 clod | $0.000032 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🟡 GANBARE | $0.000090 | **1.00x** ($+0) | 1.09x |  | pumpswap | 2026-03-20 14:49 |
 | 🟡 LIZARD | $0.000077 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:48 |
@@ -272,7 +272,7 @@
 | 🟡 gay | $0.000371 | **1.09x** ($+9) | 1.10x |  | pumpswap | 2026-03-19 23:57 |
 | 🟡 PRSM | $0.000058 | **1.01x** ($+1) | 1.12x |  | pumpswap | 2026-03-19 23:56 |
 | 🟡 AMBALABU | $0.000063 | **1.08x** ($+8) | 1.18x |  | pumpswap | 2026-03-19 23:54 |
-| 🔴 Feels | $0.000012 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-19 23:53 |
+| 🔴 Feels | $0.000012 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-19 23:53 |
 | 🟡 FWC | $0.000060 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:53 |
 | 🔴 Moe-chan | $0.000014 | **0.96x** ($-4) | 1.23x |  | pumpswap | 2026-03-19 23:52 |
 | 🔴 CatFu | $0.000354 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-19 23:50 |

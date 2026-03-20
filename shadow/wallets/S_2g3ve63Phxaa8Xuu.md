@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-1,353 |
 | 📦 Unrealized | $+148 |
 | 🏦 Total | **$-1,205** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.20x |
+| Best Trade | 1.5x |
+| Avg Peak | 115.1x |
 
 ## Open Positions
 

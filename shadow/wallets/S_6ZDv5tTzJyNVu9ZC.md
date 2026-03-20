@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 233 (231 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+348 |
-| 🏦 Total | **$+481** |
-| Best ROI | 2.95x |
-| Avg ROI | 1.67x |
+| 📦 Unrealized | $+317 |
+| 🏦 Total | **$+450** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
@@ -107,7 +107,7 @@
 | 🟡 JACKPOT | $0.000071 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:45 |
 | 🟡 IMAGINE | $0.000099 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:27 |
 | 🔴 Tastecoin | $0.000200 | **0.70x** ($-30) | 1.16x |  | pumpswap | 2026-03-20 06:14 |
-| 🔴 Thinker | $0.000008 | **0.99x** ($-1) | 1.22x |  | pumpswap | 2026-03-20 06:10 |
+| 🔴 Thinker | $0.000008 | **0.76x** ($-24) | 1.22x |  | pumpswap | 2026-03-20 06:10 |
 | 🔴 Messenger | $0.000030 | **0.92x** ($-8) | 1.13x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 plumber | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:05 |
 | 🟡 Optimistic | $0.000573 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:00 |
@@ -215,7 +215,7 @@
 | 🟡 CORP | $0.000105 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-19 23:58 |
 | 🟡 Twin | $0.000104 | **1.23x** ($+23) | 1.51x |  | pumpswap | 2026-03-19 23:57 |
 | 🟡 PRSM | $0.000057 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 23:56 |
-| 🔴 Feels | $0.000012 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-19 23:53 |
+| 🔴 Feels | $0.000012 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-19 23:53 |
 | 🟡 GAS | $0.000010 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-19 23:48 |
 | 🟡 来根华子 | $0.000010 | **1.07x** ($+7) | 1.11x |  | pumpswap | 2026-03-19 23:48 |
 | 🟡 Solana | $0.000185 | **1.04x** ($+4) | 1.19x |  | pumpswap | 2026-03-19 23:44 |

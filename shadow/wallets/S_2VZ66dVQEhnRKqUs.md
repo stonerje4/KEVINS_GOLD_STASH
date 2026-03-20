@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 22 (17 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-268 |
-| 📦 Unrealized | $-88 |
+| 📦 Unrealized | $-89 |
 | 🏦 Total | **$-357** |
-| Best ROI | 0.81x |
-| Avg ROI | 0.46x |
+| Best Trade | 0.8x |
+| Avg Peak | 1.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FOID | $0.000017 | **0.95x** ($-5) | 1.01x |  | pumpfun | 2026-03-20 14:58 |
+| 🔴 FOID | $0.000017 | **0.94x** ($-6) | 1.05x |  | pumpfun | 2026-03-20 14:58 |
 | 🟡 OIIA | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |
 | 🟡 IMAGINE | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:51 |

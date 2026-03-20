@@ -1,6 +1,6 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [View on Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 16 (15 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+160 |
-| 🏦 Total | **$+97** |
-| Best ROI | 0.38x |
-| Avg ROI | 0.38x |
+| 📦 Unrealized | $+183 |
+| 🏦 Total | **$+121** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🟡 Doolysaurus | $0.000203 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 CHIBISLOP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:42 |
 | 🟡 chibify | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:33 |
-| 🚀 clod | $0.000005 | **5.16x** ($+416) | 5.16x | ✅ | pumpswap | 2026-03-20 10:02 |
+| 🚀 clod | $0.000005 | **5.86x** ($+486) | 5.86x | ✅ | pumpswap | 2026-03-20 10:02 |
 | 🔴 Sunshine | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 09:59 |
 | 🟡 McCards | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:15 |
 | 🟡 Freebuff | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:49 |

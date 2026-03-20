@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 276 (272 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+17 |
-| 📦 Unrealized | $+7 |
-| 🏦 Total | **$+24** |
-| Best ROI | 2.99x |
-| Avg ROI | 1.04x |
+| 📦 Unrealized | $-24 |
+| 🏦 Total | **$-7** |
+| Best Trade | 3.0x |
+| Avg Peak | 3.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 clod | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:02 |
+| 🟡 clod | $0.000026 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 Sonny | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 14:59 |
 | 🟡 Speak | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 GameTheory | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
@@ -123,7 +123,7 @@
 | 🟡 IMAGINE | $0.000102 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:27 |
 | 🟡 TIMELESS | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🔴 Tastecoin | $0.000201 | **0.70x** ($-30) | 1.16x |  | pumpswap | 2026-03-20 06:14 |
-| 🔴 Thinker | $0.000008 | **0.97x** ($-3) | 1.20x |  | pumpswap | 2026-03-20 06:10 |
+| 🔴 Thinker | $0.000008 | **0.75x** ($-25) | 1.20x |  | pumpswap | 2026-03-20 06:10 |
 | 🟡 Pete | $0.000080 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:10 |
 | 🟡 YOU | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:07 |
 | 🔴 Messenger | $0.000030 | **0.91x** ($-9) | 1.11x |  | pumpswap | 2026-03-20 06:06 |
@@ -255,7 +255,7 @@
 | 🟡 Twin | $0.000105 | **1.22x** ($+22) | 1.50x |  | pumpswap | 2026-03-19 23:57 |
 | 🟡 PRSM | $0.000057 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 23:56 |
 | 🔴 GANYMEDE | $0.000006 | **0.84x** ($-16) | 1.03x |  | pumpswap | 2026-03-19 23:54 |
-| 🔴 Feels | $0.000012 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-19 23:53 |
+| 🔴 Feels | $0.000012 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-19 23:53 |
 | 🟡 GAS | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:48 |
 | 🟡 来根华子 | $0.000010 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-19 23:48 |
 | 🟡 Solana | $0.000186 | **1.04x** ($+4) | 1.19x |  | pumpswap | 2026-03-19 23:44 |
@@ -272,7 +272,7 @@
 | 🟡 MINDLESS | $0.000154 | **1.62x** ($+62) | 1.67x |  | pumpswap | 2026-03-19 23:24 |
 | 🟡 Barron | $0.000017 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-19 23:24 |
 | 🟡 Foodrot | $0.000137 | **1.03x** ($+3) | 1.14x |  | pumpswap | 2026-03-19 23:19 |
-| 🔴 CaliFraud | $0.000006 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-19 23:18 |
+| 🔴 CaliFraud | $0.000006 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-19 23:18 |
 | 🔴 whiskers | $0.000011 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-19 23:15 |
 | 🔴 FTR | $0.000030 | **0.88x** ($-12) | 1.12x |  | pumpswap | 2026-03-19 23:15 |
 | 🟡 NETANYAHU | $0.000096 | **1.04x** ($+4) | 1.24x |  | pumpswap | 2026-03-19 23:11 |

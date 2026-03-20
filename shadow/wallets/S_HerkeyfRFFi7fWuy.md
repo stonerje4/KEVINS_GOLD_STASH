@@ -1,6 +1,6 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 15:02 UTC
+> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 15:04 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-205 |
 | 📦 Unrealized | $-63 |
 | 🏦 Total | **$-268** |
-| Best ROI | 1.43x |
-| Avg ROI | 0.59x |
+| Best Trade | 1.4x |
+| Avg Peak | 1.7x |
 
 ## Open Positions
 
