@@ -9,10 +9,10 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+1,632 |
-| 🏦 Total | **$+1,632** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+1,612 |
+| 🏦 Total | **$+1,612** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -24,7 +24,7 @@
 | 🔴 riposhima | $0.000005 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 BAGWORKOOR | $0.000054 | **1.02x** ($+2) | 1.35x |  | pumpswap | 2026-03-20 04:39 |
 | 🟡 Billy | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:13 |
-| 🚀 GIGACHAD | $0.000000 | **56.07x** ($+5,507) | 100.88x | ✅ | pumpswap | 2026-03-20 03:56 |
+| 🚀 GIGACHAD | $0.000000 | **55.17x** ($+5,417) | 100.88x | ✅ | pumpswap | 2026-03-20 03:56 |
 
 ## Closed Positions
 

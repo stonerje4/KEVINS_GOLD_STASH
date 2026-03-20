@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (21 open, 6 closed) |
+| Positions | 28 (22 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-332 |
 | 📦 Unrealized | $-50 |
 | 🏦 Total | **$-383** |
-| Best Trade | 0.8x |
-| Avg Peak | 1.6x |
+| Best ROI | 0.82x |
+| Avg ROI | 0.45x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LOL | $0.000455 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 GOONERBI | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Chibis | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:07 |
 | 🟡 MICHIBI | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:42 |

@@ -9,16 +9,16 @@
 | Positions | 12 (10 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $+20 |
-| 🏦 Total | **$-56** |
-| Best Trade | 0.8x |
-| Avg Peak | 1.7x |
+| 📦 Unrealized | $+26 |
+| 🏦 Total | **$-50** |
+| Best ROI | 0.85x |
+| Avg ROI | 0.62x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ChibiTrump | $0.000029 | **0.78x** ($-22) | 1.00x |  | pumpfun | 2026-03-20 11:02 |
+| 🔴 ChibiTrump | $0.000029 | **0.83x** ($-17) | 1.00x |  | pumpfun | 2026-03-20 11:02 |
 | 🟡 Doolysaurus | $0.000022 | **1.63x** ($+63) | 1.63x |  | pumpfun | 2026-03-20 11:00 |
 | 🟡 CHIBI | $0.000016 | **1.01x** ($+1) | 1.31x |  | pumpfun | 2026-03-20 10:40 |
 | 🟡 Chibtardio | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:20 |
