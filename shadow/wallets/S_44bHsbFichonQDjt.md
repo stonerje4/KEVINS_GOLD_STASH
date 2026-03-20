@@ -1,16 +1,16 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 08:31 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 08:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (25 open, 2 closed) |
+| Positions | 28 (26 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+246 |
-| 📦 Unrealized | $-291 |
-| 🏦 Total | **$-45** |
+| 📦 Unrealized | $-304 |
+| 🏦 Total | **$-58** |
 | Best Trade | 3.0x |
 | Avg Peak | 6.1x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TROILL | $0.000003 | **0.99x** ($-1) | 1.02x |  | pumpfun | 2026-03-20 08:25 |
+| 🟡 CARL | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:35 |
+| 🔴 TROILL | $0.000003 | **0.86x** ($-14) | 1.02x |  | pumpfun | 2026-03-20 08:25 |
 | 🔴 CHIBELON | $0.000004 | **0.57x** ($-43) | 1.05x |  | pumpfun | 2026-03-20 08:04 |
 | 🔴 Gve9d1zq | $0.000004 | **0.66x** ($-34) | 1.13x |  | pumpfun | 2026-03-20 08:00 |
 | 🔴 PIXELS | $0.000003 | **0.73x** ($-27) | 1.06x |  | pumpfun | 2026-03-20 07:43 |
@@ -29,7 +30,7 @@
 | 🔴 KNOWMINT | $0.000004 | **0.65x** ($-35) | 1.00x |  | pumpfun | 2026-03-20 05:29 |
 | 🔴 bitpenis | $0.000004 | **0.58x** ($-42) | 1.27x |  | pumpfun | 2026-03-20 05:25 |
 | 🔴 3kycm3TE | $0.000004 | **0.64x** ($-36) | 1.15x |  | pumpfun | 2026-03-20 05:07 |
-| 🔴 PUPPY | $0.000004 | **0.69x** ($-31) | 1.03x |  | pumpfun | 2026-03-20 04:06 |
+| 🔴 PUPPY | $0.000004 | **0.70x** ($-30) | 1.03x |  | pumpfun | 2026-03-20 04:06 |
 | 🔴 EgLt9QYS | $0.000004 | **0.67x** ($-33) | 1.17x |  | pumpfun | 2026-03-20 04:03 |
 | 🔴 twump | $0.000004 | **0.70x** ($-30) | 1.20x |  | pumpfun | 2026-03-20 03:02 |
 | 🟡 Skynet | $0.000004 | **1.33x** ($+33) | 1.33x |  | pumpswap | 2026-03-20 02:46 |

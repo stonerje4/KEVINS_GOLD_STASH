@@ -1,16 +1,16 @@
 # Wallet: `9UVyTjpCwGtmuVJrBrmbxWvYLJTQkLNpJc769fvMKCC7`
 
-> [View on Solscan](https://solscan.io/account/9UVyTjpCwGtmuVJrBrmbxWvYLJTQkLNpJc769fvMKCC7) | Updated: 2026-03-20 08:31 UTC
+> [View on Solscan](https://solscan.io/account/9UVyTjpCwGtmuVJrBrmbxWvYLJTQkLNpJc769fvMKCC7) | Updated: 2026-03-20 08:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$-17** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Orangutan | $0.000020 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 08:34 |
+| 🟡 Goose | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:31 |
 | 🟡 BOAT | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:34 |
 
 ## Closed Positions
