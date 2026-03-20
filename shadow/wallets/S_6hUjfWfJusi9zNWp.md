@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 18:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 18:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 32 (22 open, 10 closed) |
 | W/L | 0/10 (0%) |
 | 💵 Realized | $-642 |
-| 📦 Unrealized | $+171 |
-| 🏦 Total | **$-471** |
+| 📦 Unrealized | $+168 |
+| 🏦 Total | **$-473** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.36x |
 
@@ -25,7 +25,7 @@
 | 🔴 LIBERTY | $0.000027 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 16:18 |
 | 🔴 CRYPTOKING | $0.000010 | **0.99x** ($-1) | 1.36x |  | pumpfun | 2026-03-20 16:13 |
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.80x |  | pumpswap | 2026-03-20 15:43 |
-| 🔴 LEE | $0.000008 | **0.80x** ($-20) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
+| 🔴 LEE | $0.000008 | **0.77x** ($-23) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
 | 🟢 Chuck | $0.000195 | **3.16x** ($+216) | 4.22x | ✅ | pumpswap | 2026-03-20 14:26 |
 | 🔴 Nigel | $0.000130 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |

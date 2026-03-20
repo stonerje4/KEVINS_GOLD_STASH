@@ -1,6 +1,6 @@
 # Wallet: `5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii`
 
-> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 18:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 18:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (14 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-39 |
-| 🏦 Total | **$-39** |
+| 📦 Unrealized | $-42 |
+| 🏦 Total | **$-42** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,17 +18,17 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 YEPE | $0.000156 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 18:43 |
+| 🔴 YEPE | $0.000156 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 18:43 |
 | 🟡 MFT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:43 |
 | 🟡 SNIFFER | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:41 |
 | 🔴 MOCHI | $0.000049 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 13:29 |
-| 🔴 Pixels | $0.000035 | **0.64x** ($-36) | 1.09x |  | pumpswap | 2026-03-20 11:31 |
+| 🔴 Pixels | $0.000035 | **0.62x** ($-38) | 1.09x |  | pumpswap | 2026-03-20 11:31 |
 | 🟡 AINL | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:55 |
 | 🔴 tinfoil | $0.000079 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 04:23 |
 | 🟡 ARIA | $0.000016 | **1.47x** ($+47) | 1.76x |  | pumpswap | 2026-03-20 02:51 |
 | 🟡 DICKUS | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 Dickus | $0.000056 | **0.93x** ($-7) | 1.09x |  | pumpswap | 2026-03-20 01:25 |
-| 🔴 plumber | $0.000051 | **0.75x** ($-25) | 1.37x |  | pumpswap | 2026-03-20 00:30 |
+| 🔴 plumber | $0.000051 | **0.76x** ($-24) | 1.37x |  | pumpswap | 2026-03-20 00:30 |
 | 🔴 AIFRUIT | $0.000024 | **0.86x** ($-14) | 1.15x |  | pumpswap | 2026-03-19 23:52 |
 | 🟡 Strawberita | $0.000035 | **1.71x** ($+71) | 2.39x | ✅ | pumpswap | 2026-03-19 22:57 |
 | 🔴 MINDLESS | $0.000196 | **0.99x** ($-1) | 1.31x |  | pumpswap | 2026-03-19 22:51 |

@@ -1,6 +1,6 @@
 # Wallet: `BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | [Solscan](https://solscan.io/account/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | Updated: 2026-03-20 18:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | [Solscan](https://solscan.io/account/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | Updated: 2026-03-20 18:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-16** |
+| 📦 Unrealized | $-15 |
+| 🏦 Total | **$-15** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 UGOR | $0.000200 | **1.34x** ($+34) | 1.54x |  | pumpswap | 2026-03-20 04:31 |
-| 🔴 Octogent | $0.000011 | **0.50x** ($-50) | 1.10x |  | pumpswap | 2026-03-20 01:25 |
+| 🟡 UGOR | $0.000200 | **1.36x** ($+36) | 1.54x |  | pumpswap | 2026-03-20 04:31 |
+| 🔴 Octogent | $0.000011 | **0.49x** ($-51) | 1.10x |  | pumpswap | 2026-03-20 01:25 |
 
 ## Closed Positions
 

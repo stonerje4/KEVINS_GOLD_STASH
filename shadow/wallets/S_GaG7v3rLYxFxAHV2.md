@@ -1,16 +1,16 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 18:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 18:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (9 open, 2 closed) |
+| Positions | 12 (10 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+58 |
-| 📦 Unrealized | $+212 |
-| 🏦 Total | **$+270** |
+| 📦 Unrealized | $+229 |
+| 🏦 Total | **$+287** |
 | Best ROI | 1.49x |
 | Avg ROI | 1.29x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CRAFT | $0.000030 | **1.16x** ($+16) | 1.22x |  | pumpswap | 2026-03-20 18:45 |
 | 🟢 Chuck | $0.000203 | **3.03x** ($+203) | 4.05x | ✅ | pumpswap | 2026-03-20 14:23 |
 | 🔴 Merlin | $0.000007 | **0.48x** ($-52) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟢 SNIFFER | $0.000023 | **2.42x** ($+142) | 2.46x | ✅ | pumpfun | 2026-03-20 12:59 |

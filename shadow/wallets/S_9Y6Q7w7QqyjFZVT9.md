@@ -1,6 +1,6 @@
 # Wallet: `9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf`
 
-> [GMGN](https://gmgn.ai/sol/address/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | [Solscan](https://solscan.io/account/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | Updated: 2026-03-20 18:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | [Solscan](https://solscan.io/account/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | Updated: 2026-03-20 18:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (7 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-241 |
-| 📦 Unrealized | $-118 |
-| 🏦 Total | **$-359** |
+| 📦 Unrealized | $-113 |
+| 🏦 Total | **$-353** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.20x |
 
@@ -23,8 +23,8 @@
 | 🟡 OSP | $0.000112 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:35 |
 | 🔴 Rocky | $0.000157 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 FTR | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:25 |
-| 🔴 Goose | $0.000029 | **0.50x** ($-50) | 1.38x |  | pumpswap | 2026-03-20 01:39 |
-| 🟡 ZENT | $0.000083 | **1.41x** ($+41) | 1.43x |  | pumpswap | 2026-03-20 01:34 |
+| 🔴 Goose | $0.000029 | **0.54x** ($-46) | 1.38x |  | pumpswap | 2026-03-20 01:39 |
+| 🟡 ZENT | $0.000083 | **1.42x** ($+42) | 1.43x |  | pumpswap | 2026-03-20 01:34 |
 
 ## Closed Positions
 

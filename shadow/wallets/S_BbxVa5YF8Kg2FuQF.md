@@ -1,6 +1,6 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 18:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 18:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (8 open, 10 closed) |
 | W/L | 3/7 (30%) |
 | 💵 Realized | $-7 |
-| 📦 Unrealized | $+255 |
-| 🏦 Total | **$+248** |
+| 📦 Unrealized | $+231 |
+| 🏦 Total | **$+223** |
 | Best ROI | 2.95x |
 | Avg ROI | 0.99x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TITUATION | $0.000045 | **1.07x** ($+7) | 1.21x |  | pumpswap | 2026-03-20 18:15 |
+| 🔴 TITUATION | $0.000045 | **0.83x** ($-17) | 1.21x |  | pumpswap | 2026-03-20 18:15 |
 | 🟡 XCAT | $0.000080 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:14 |
 | 🟡 JUMP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:37 |
 | 🟢 Patience | $0.000017 | **2.11x** ($+111) | 2.11x | ✅ | pumpfun | 2026-03-20 03:14 |

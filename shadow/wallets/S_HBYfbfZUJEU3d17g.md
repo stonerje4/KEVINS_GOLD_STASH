@@ -1,12 +1,12 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 18:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 18:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (8 open, 5 closed) |
+| Positions | 14 (9 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-374 |
 | 📦 Unrealized | $+69 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHIBI | $0.001953 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:47 |
 | 🔴 Handprint | $0.000011 | **0.76x** ($-24) | 1.17x |  | pumpswap | 2026-03-20 18:25 |
 | 🟢 𝕏CAT | $0.000009 | **4.27x** ($+327) | 4.27x | ✅ | pumpfun | 2026-03-20 18:06 |
 | 🟡 maxxing | $0.002495 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 18:02 |

@@ -1,16 +1,16 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 18:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 18:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (14 open, 0 closed) |
+| Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-207 |
-| 🏦 Total | **$-207** |
+| 📦 Unrealized | $-202 |
+| 🏦 Total | **$-202** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 𝕏CAT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:48 |
 | 🟡 Sunshine | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:17 |
-| 🔴 Samba | $0.000010 | **0.98x** ($-2) | 1.13x |  | pumpswap | 2026-03-20 18:13 |
+| 🟡 Samba | $0.000010 | **1.03x** ($+3) | 1.13x |  | pumpswap | 2026-03-20 18:13 |
 | 🔴 Rosei | $0.000022 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
 | 🟡 JEREMY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 比比拉布 | $0.000116 | **0.87x** ($-13) | 1.07x |  | pumpswap | 2026-03-20 03:24 |

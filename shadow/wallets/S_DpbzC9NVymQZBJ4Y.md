@@ -1,16 +1,16 @@
 # Wallet: `DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8`
 
-> [GMGN](https://gmgn.ai/sol/address/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | [Solscan](https://solscan.io/account/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | Updated: 2026-03-20 18:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | [Solscan](https://solscan.io/account/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | Updated: 2026-03-20 18:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
+| Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-78 |
-| 📦 Unrealized | $+222 |
-| 🏦 Total | **$+144** |
+| 📦 Unrealized | $+221 |
+| 🏦 Total | **$+143** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.61x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Apple | $0.000022 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 18:49 |
 | 🟡 Sunshine | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:31 |
 | 🟡 Punch | $0.015825 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 11:34 |
 | 🚀 CHIBI | $0.000353 | **6.35x** ($+535) | 7.20x | ✅ | pumpswap | 2026-03-19 23:03 |
