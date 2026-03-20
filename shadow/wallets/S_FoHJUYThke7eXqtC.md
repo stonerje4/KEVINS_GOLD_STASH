@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 06:50 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 06:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 26 (26 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+19 |
-| 🏦 Total | **$+19** |
+| 📦 Unrealized | $+18 |
+| 🏦 Total | **$+18** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 GRUM | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 06:36 |
 | 🔴 Jewboi | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 06:28 |
-| 🔴 MOHAMAD | $0.000003 | **0.91x** ($-9) | 1.20x |  | pumpfun | 2026-03-20 06:27 |
+| 🔴 MOHAMAD | $0.000003 | **0.90x** ($-10) | 1.20x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 Forest  | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 06:20 |
 | 🟡 alien | $0.000003 | **1.02x** ($+2) | 1.13x |  | pumpfun | 2026-03-20 05:26 |
 | 🔴 TBI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 04:48 |

@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 06:50 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 06:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 148 (134 open, 14 closed) |
 | W/L | 6/8 (43%) |
 | 💵 Realized | $+981 |
-| 📦 Unrealized | $-2,334 |
-| 🏦 Total | **$-1,353** |
+| 📦 Unrealized | $-2,328 |
+| 🏦 Total | **$-1,347** |
 | Best Trade | 5.9x |
 | Avg Peak | 3.9x |
 
@@ -19,12 +19,12 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 7LhHK6Yf | $0.000003 | **1.02x** ($+2) | 1.04x |  | pumpfun | 2026-03-20 05:59 |
-| 🔴 ragcityyy99 | $0.000004 | **0.83x** ($-17) | 1.05x |  | pumpfun | 2026-03-20 05:59 |
+| 🔴 ragcityyy99 | $0.000004 | **0.87x** ($-13) | 1.05x |  | pumpfun | 2026-03-20 05:59 |
 | 🔴 海遊館 | $0.000003 | **0.76x** ($-24) | 1.04x |  | pumpfun | 2026-03-20 05:56 |
 | 🔴 2tuR91ek | $0.000003 | **0.86x** ($-14) | 1.01x |  | pumpfun | 2026-03-20 05:50 |
 | 🟡 EidMubarak | $0.000005 | **1.18x** ($+18) | 1.37x |  | pumpfun | 2026-03-20 05:45 |
 | 🟡 CORPORATE | $0.000003 | **1.01x** ($+1) | 1.09x |  | pumpfun | 2026-03-20 05:42 |
-| 🟢 QUIT | $0.000005 | **3.48x** ($+248) | 3.96x | ✅ | pumpfun | 2026-03-20 05:33 |
+| 🟢 QUIT | $0.000005 | **3.57x** ($+257) | 3.96x | ✅ | pumpfun | 2026-03-20 05:33 |
 | 🔴 PIXEL | $0.000004 | **0.65x** ($-35) | 1.08x |  | pumpfun | 2026-03-20 05:28 |
 | 🔴 bitpenis | $0.000004 | **0.71x** ($-29) | 1.14x |  | pumpfun | 2026-03-20 05:27 |
 | 🔴 SMCI | $0.000004 | **0.61x** ($-39) | 1.22x |  | pumpfun | 2026-03-20 05:24 |
@@ -48,7 +48,7 @@
 | 🔴 Yuki-chan | $0.000003 | **0.95x** ($-5) | 1.10x |  | pumpfun | 2026-03-20 04:00 |
 | 🟡 TRASHBAG | $0.000004 | **1.99x** ($+99) | 2.78x | ✅ | pumpfun | 2026-03-20 03:57 |
 | 🔴 HKp6WMjQ | $0.000003 | **0.82x** ($-18) | 1.01x |  | pumpfun | 2026-03-20 03:57 |
-| 🟡 AYYGENT | $0.000004 | **1.11x** ($+11) | 1.14x |  | pumpfun | 2026-03-20 03:56 |
+| 🟡 AYYGENT | $0.000004 | **1.09x** ($+9) | 1.14x |  | pumpfun | 2026-03-20 03:56 |
 | 🔴 Jeremy | $0.000003 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 03:50 |
 | 🔴 8HZ3e62c | $0.000004 | **0.70x** ($-30) | 1.00x |  | pumpfun | 2026-03-20 03:49 |
 | 🔴 WePaid | $0.000003 | **0.76x** ($-24) | 1.00x |  | pumpfun | 2026-03-20 03:40 |

@@ -1,16 +1,16 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 06:50 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 06:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (11 open, 8 closed) |
+| Positions | 20 (12 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-249 |
-| 📦 Unrealized | $+227 |
-| 🏦 Total | **$-22** |
+| 📦 Unrealized | $+212 |
+| 🏦 Total | **$-37** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.0x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 BOAR | $0.000008 | **1.18x** ($+18) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
-| 🟡 AVATAR | $0.000060 | **1.04x** ($+4) | 1.91x |  | pumpswap | 2026-03-20 06:28 |
+| 🟡 Pixels | $0.000024 | **1.54x** ($+54) | 1.54x |  | pumpfun | 2026-03-20 06:53 |
+| 🔴 BOAR | $0.000008 | **0.94x** ($-6) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
+| 🔴 AVATAR | $0.000060 | **0.59x** ($-41) | 1.91x |  | pumpswap | 2026-03-20 06:28 |
 | 🟡 NEMO | $0.000012 | **1.21x** ($+21) | 2.10x | ✅ | pumpfun | 2026-03-20 02:34 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
 | 🟢 9Yqs3sVA | $0.000008 | **4.35x** ($+335) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |

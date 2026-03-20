@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 06:50 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 06:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 55 (53 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-120 |
-| 📦 Unrealized | $-7 |
-| 🏦 Total | **$-127** |
+| 📦 Unrealized | $-8 |
+| 🏦 Total | **$-128** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 George | $0.000019 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 06:41 |
+| 🔴 George | $0.000019 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 06:41 |
 | 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🟡 worth | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |

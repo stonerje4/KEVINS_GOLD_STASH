@@ -1,16 +1,16 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 06:50 UTC
+> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 06:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (6 open, 1 closed) |
+| Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+37 |
-| 🏦 Total | **$-40** |
+| 📦 Unrealized | $+34 |
+| 🏦 Total | **$-43** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 INCOME | $0.000553 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-20 06:50 |
 | 🟡 Unemployed | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:48 |
 | 🟡 Rosie | $0.000876 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:29 |
 | 🔴 LIBERTY | $0.000004 | **0.84x** ($-16) | 1.04x |  | pumpfun | 2026-03-19 23:30 |
 | 🟡 Nigel | $0.000200 | **1.04x** ($+4) | 1.33x |  | pumpswap | 2026-03-19 22:54 |
 | 🟡 gork | $0.000167 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 22:49 |
-| 🟡 butthole | $0.000120 | **1.45x** ($+45) | 1.53x |  | pumpswap | 2026-03-19 22:49 |
+| 🟡 butthole | $0.000120 | **1.42x** ($+42) | 1.53x |  | pumpswap | 2026-03-19 22:49 |
 
 ## Closed Positions
 

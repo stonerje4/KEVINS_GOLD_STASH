@@ -1,16 +1,16 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 06:50 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 06:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (19 open, 1 closed) |
+| Positions | 21 (20 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $+285 |
-| 🏦 Total | **$+199** |
+| 📦 Unrealized | $+290 |
+| 🏦 Total | **$+204** |
 | Best Trade | 0.1x |
 | Avg Peak | 1.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NBIS | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 06:52 |
 | 🟡 BBX | $0.000003 | **1.23x** ($+23) | 1.37x |  | pumpfun | 2026-03-20 05:19 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:09 |
 | 🟡 gold | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 05:06 |

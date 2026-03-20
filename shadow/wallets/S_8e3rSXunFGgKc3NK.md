@@ -1,30 +1,30 @@
 # Wallet: `8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt`
 
-> [View on Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 06:50 UTC
+> [View on Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 06:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+66 |
-| 🏦 Total | **$+66** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-18 |
+| 📦 Unrealized | $+46 |
+| 🏦 Total | **$+28** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 AVATAR | $0.000045 | **1.40x** ($+40) | 2.57x | ✅ | pumpswap | 2026-03-20 06:27 |
 | 🟡 CHIBI | $0.000713 | **1.46x** ($+46) | 1.82x |  | pumpswap | 2026-03-19 23:42 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 AVATAR | 0.82x | $-18 | trailing_stop_3x | 2.57x | pumpswap | 2026-03-20 06:27 → 2026-03-20 06:54 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

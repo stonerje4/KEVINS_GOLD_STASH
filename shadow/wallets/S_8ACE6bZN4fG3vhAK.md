@@ -1,24 +1,23 @@
 # Wallet: `8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f`
 
-> [View on Solscan](https://solscan.io/account/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | Updated: 2026-03-20 06:50 UTC
+> [View on Solscan](https://solscan.io/account/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | Updated: 2026-03-20 06:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-70 |
-| 🏦 Total | **$-70** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 5 (4 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-92** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AVATAR | $0.000103 | **0.61x** ($-39) | 1.12x |  | pumpswap | 2026-03-20 06:35 |
 | 🟡 Dryer | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:39 |
 | 🟡 AGI | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:45 |
 | 🔴 NBR | $0.000007 | **0.89x** ($-11) | 1.25x |  | pumpfun | 2026-03-20 00:22 |
@@ -28,6 +27,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.12x | pumpswap | 2026-03-20 06:35 → 2026-03-20 06:54 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
