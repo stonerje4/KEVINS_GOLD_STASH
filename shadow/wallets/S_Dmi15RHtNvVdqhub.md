@@ -1,6 +1,6 @@
 # Wallet: `Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD`
 
-> [GMGN](https://gmgn.ai/sol/address/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | [Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 22:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | [Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 22:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
-| 📦 Unrealized | $-27 |
-| 🏦 Total | **$+21** |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$+31** |
 | Best ROI | 1.48x |
 | Avg ROI | 1.48x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Sheep | $0.000031 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 09:59 |
-| 🔴 OPAY | $0.000035 | **0.88x** ($-12) | 1.22x |  | pumpswap | 2026-03-20 02:09 |
+| 🔴 Sheep | $0.000031 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 09:59 |
+| 🔴 OPAY | $0.000035 | **0.99x** ($-1) | 1.22x |  | pumpswap | 2026-03-20 02:09 |
 
 ## Closed Positions
 

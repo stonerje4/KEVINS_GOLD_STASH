@@ -1,30 +1,30 @@
 # Wallet: `HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6`
 
-> [GMGN](https://gmgn.ai/sol/address/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | [Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 22:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | [Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 22:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-68 |
-| 🏦 Total | **$-68** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-61 |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-83** |
+| Best ROI | 0.39x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FABIANA | $0.000031 | **0.54x** ($-46) | 1.18x |  | pumpfun | 2026-03-20 20:07 |
 | 🔴 NICK | $0.000036 | **0.78x** ($-22) | 1.01x |  | pumpswap | 2026-03-20 06:03 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 FABIANA | 0.39x | $-61 | stop_loss | 1.18x | pumpfun | 2026-03-20 20:07 → 2026-03-20 22:33 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

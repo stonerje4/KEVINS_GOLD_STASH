@@ -1,6 +1,6 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 22:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 22:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (15 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $+226 |
-| 📦 Unrealized | $-37 |
-| 🏦 Total | **$+189** |
+| 📦 Unrealized | $-44 |
+| 🏦 Total | **$+182** |
 | Best ROI | 5.85x |
 | Avg ROI | 1.38x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 EVERYTHING | $0.000025 | **0.96x** ($-4) | 1.08x |  | pumpfun | 2026-03-20 22:26 |
-| 🔴 Elongate | $0.000018 | **0.71x** ($-29) | 1.21x |  | pumpswap | 2026-03-20 22:24 |
+| 🔴 EVERYTHING | $0.000025 | **0.78x** ($-22) | 1.11x |  | pumpfun | 2026-03-20 22:26 |
+| 🟡 Elongate | $0.000018 | **1.07x** ($+7) | 1.21x |  | pumpswap | 2026-03-20 22:24 |
 | 🟡 PUNCHDENG | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 22:17 |
-| 🟡 genocide | $0.000039 | **1.01x** ($+1) | 1.21x |  | pumpswap | 2026-03-20 22:06 |
+| 🔴 genocide | $0.000039 | **0.75x** ($-25) | 1.21x |  | pumpswap | 2026-03-20 22:06 |
 | 🟡 TOKENMAXXING | $0.000028 | **1.24x** ($+24) | 1.29x |  | pumpfun | 2026-03-20 21:36 |
 | 🔴 Norriscoin | $0.000007 | **0.84x** ($-16) | 1.18x |  | pumpfun | 2026-03-20 16:17 |
 | 🟡 HELLO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:14 |

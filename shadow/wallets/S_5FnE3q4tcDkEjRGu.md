@@ -1,18 +1,18 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 22:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 22:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (12 open, 2 closed) |
-| W/L | 1/1 (50%) |
-| 💵 Realized | $+26 |
-| 📦 Unrealized | $+118 |
-| 🏦 Total | **$+144** |
-| Best ROI | 1.41x |
-| Avg ROI | 1.13x |
+| Positions | 14 (11 open, 3 closed) |
+| W/L | 2/1 (67%) |
+| 💵 Realized | $+213 |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$+228** |
+| Best ROI | 2.87x |
+| Avg ROI | 1.71x |
 
 ## Open Positions
 
@@ -24,7 +24,6 @@
 | 🟢 Immortalism | $0.000006 | **2.78x** ($+178) | 3.89x | ✅ | pumpfun | 2026-03-20 15:24 |
 | 🟡 CHUCK | $0.000008 | **1.17x** ($+17) | 1.58x |  | pumpfun | 2026-03-20 14:19 |
 | 🟡 Effect | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:11 |
-| 🟢 IMAGINE | $0.000011 | **4.34x** ($+334) | 9.27x | ✅ | pumpfun | 2026-03-20 02:37 |
 | 🟡 MFT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
 | 🟡 Cow | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:22 |
 | 🟡 world | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:42 |
@@ -36,6 +35,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🟡 CHIBI | 0.85x | $-15 | trailing_stop_2x | 2.45x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:33 |
+| 🟢 IMAGINE | 2.87x | $+187 | trailing_stop_9x | 9.27x | pumpfun | 2026-03-20 02:37 → 2026-03-20 22:30 |
 | 🟡 Fruits | 1.41x | $+41 | trailing_stop_3x | 3.26x | pumpfun | 2026-03-20 00:01 → 2026-03-20 00:23 |
 
 ---
