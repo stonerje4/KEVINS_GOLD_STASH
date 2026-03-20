@@ -1,6 +1,6 @@
 # Wallet: `4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA`
 
-> [View on Solscan](https://solscan.io/account/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA) | Updated: 2026-03-20 12:23 UTC
+> [View on Solscan](https://solscan.io/account/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA) | Updated: 2026-03-20 12:28 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-182 |
-| 🏦 Total | **$-182** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-184 |
+| 🏦 Total | **$-184** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CHIBI | $0.000010 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 11:02 |
-| 🔴 agentevent | $0.000007 | **0.50x** ($-50) | 1.75x |  | pumpfun | 2026-03-20 08:14 |
+| 🔴 agentevent | $0.000007 | **0.47x** ($-53) | 1.75x |  | pumpfun | 2026-03-20 08:14 |
 | 🔴 MIM | $0.000005 | **0.55x** ($-45) | 1.37x |  | pumpfun | 2026-03-20 07:50 |
 | 🔴 DOOMERCYCLE | $0.000006 | **0.44x** ($-56) | 1.15x |  | pumpfun | 2026-03-20 06:35 |
 | 🟢 DRIVE | $0.000011 | **3.41x** ($+241) | 3.41x | ✅ | pumpfun | 2026-03-20 00:45 |

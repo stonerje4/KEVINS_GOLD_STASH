@@ -1,23 +1,24 @@
 # Wallet: `9ihGVyV1r6SfNzHM9P97gEebGdR8St28wgn1i3DDNMW`
 
-> [View on Solscan](https://solscan.io/account/9ihGVyV1r6SfNzHM9P97gEebGdR8St28wgn1i3DDNMW) | Updated: 2026-03-20 12:23 UTC
+> [View on Solscan](https://solscan.io/account/9ihGVyV1r6SfNzHM9P97gEebGdR8St28wgn1i3DDNMW) | Updated: 2026-03-20 12:28 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (9 open, 0 closed) |
+| Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+116,491 |
-| 🏦 Total | **$+116,491** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+129,233 |
+| 🏦 Total | **$+129,233** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🚀 BBX | $0.000000 | **572.19x** ($+57,119) | 572.19x | ✅ | pumpswap | 2026-03-20 12:25 |
 | 🟡 KAT | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
 | 🚀 USOS | $0.000000 | **256.98x** ($+25,598) | 256.98x | ✅ | pumpfun | 2026-03-20 10:37 |
 | 🚀 UGOR | $0.000000 | **390.52x** ($+38,952) | 390.52x | ✅ | pumpfun | 2026-03-20 10:28 |

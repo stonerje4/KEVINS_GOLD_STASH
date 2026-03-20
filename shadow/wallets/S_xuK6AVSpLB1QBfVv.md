@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 12:23 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 12:28 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 71 (70 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-239 |
-| 🏦 Total | **$-255** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-241 |
+| 🏦 Total | **$-257** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
@@ -48,9 +48,9 @@
 | 🔴 HUGH | $0.000003 | **0.84x** ($-16) | 1.03x |  | pumpfun | 2026-03-20 06:36 |
 | 🔴 MOHAMAD | $0.000003 | **0.80x** ($-20) | 1.00x |  | pumpfun | 2026-03-20 06:33 |
 | 🔴 NBR | $0.000003 | **0.80x** ($-20) | 1.11x |  | pumpfun | 2026-03-20 06:28 |
-| 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.10x |  | pumpfun | 2026-03-20 06:27 |
+| 🔴 COLONEL | $0.000003 | **0.88x** ($-12) | 1.10x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 GisEmX5K | $0.000003 | **0.78x** ($-22) | 1.05x |  | pumpfun | 2026-03-20 06:20 |
-| 🟢 BOBOLIZ | $0.000003 | **2.27x** ($+127) | 2.57x | ✅ | pumpfun | 2026-03-20 06:16 |
+| 🟢 BOBOLIZ | $0.000003 | **2.30x** ($+130) | 2.57x | ✅ | pumpfun | 2026-03-20 06:16 |
 | 🔴 ZeroG | $0.000003 | **0.88x** ($-12) | 1.05x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 TRUTH | $0.000003 | **0.91x** ($-9) | 1.23x |  | pumpfun | 2026-03-20 05:58 |
 | 🔴 HUGH | $0.000003 | **0.76x** ($-24) | 1.08x |  | pumpfun | 2026-03-20 04:24 |

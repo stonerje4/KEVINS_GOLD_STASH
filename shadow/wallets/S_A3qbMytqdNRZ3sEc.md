@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 12:23 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 12:28 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 61 (56 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
-| 📦 Unrealized | $-142 |
-| 🏦 Total | **$-339** |
-| Best ROI | 1.46x |
-| Avg ROI | 0.60x |
+| 📦 Unrealized | $-107 |
+| 🏦 Total | **$-305** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🟡 LOL | $0.000352 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 DAU | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:59 |
 | 🟡 Saleh | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
-| 🟡 fine999.9 | $0.001470 | **1.81x** ($+81) | 2.12x | ✅ | pumpswap | 2026-03-20 11:48 |
+| 🟢 fine999.9 | $0.001470 | **2.40x** ($+140) | 2.49x | ✅ | pumpswap | 2026-03-20 11:48 |
 | 🟡 ceal | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:44 |
 | 🟡 MOCHI | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:41 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
@@ -34,7 +34,7 @@
 | 🟡 Pixels | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
 | 🟡 IMAGINE | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:55 |
 | 🟡 驚き | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:44 |
-| 🔴 Antigravity | $0.000008 | **0.53x** ($-47) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
+| 🔴 Antigravity | $0.000008 | **0.58x** ($-42) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 CHIBI | $0.001779 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 OLAF | $0.000134 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 IMAGINE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |

@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 12:23 UTC
+> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 12:28 UTC
 
 ## Summary
 
@@ -9,22 +9,22 @@
 | Positions | 22 (19 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-190 |
-| 📦 Unrealized | $+88 |
-| 🏦 Total | **$-102** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| 📦 Unrealized | $+59 |
+| 🏦 Total | **$-131** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 PLATYPI | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:45 |
-| 🟡 OM | $0.000008 | **1.22x** ($+22) | 1.53x |  | pumpfun | 2026-03-20 10:31 |
-| 🔴 omochi | $0.000023 | **0.79x** ($-21) | 1.05x |  | pumpfun | 2026-03-20 10:29 |
+| 🟡 OM | $0.000008 | **1.07x** ($+7) | 1.53x |  | pumpfun | 2026-03-20 10:31 |
+| 🔴 omochi | $0.000023 | **0.70x** ($-30) | 1.05x |  | pumpfun | 2026-03-20 10:29 |
 | 🟡 SIGNAL | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:26 |
-| 🟡 Imaginify | $0.000009 | **1.28x** ($+28) | 1.72x |  | pumpfun | 2026-03-20 09:42 |
+| 🟡 Imaginify | $0.000009 | **1.27x** ($+27) | 1.72x |  | pumpfun | 2026-03-20 09:42 |
 | 🟡 Zhdun | $0.000024 | **1.54x** ($+54) | 1.54x |  | pumpfun | 2026-03-20 09:07 |
-| 🔴 TRASHBAG | $0.000013 | **0.70x** ($-30) | 1.31x |  | pumpfun | 2026-03-20 08:18 |
+| 🔴 TRASHBAG | $0.000013 | **0.67x** ($-33) | 1.31x |  | pumpfun | 2026-03-20 08:18 |
 | 🟡 ZeroG | $0.000029 | **1.25x** ($+25) | 1.25x |  | pumpfun | 2026-03-20 06:03 |
 | 🟡 Aliens | $0.000104 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:48 |
 | 🔴 TRENCHY | $0.000022 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-20 04:23 |
