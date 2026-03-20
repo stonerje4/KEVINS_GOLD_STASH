@@ -1,12 +1,12 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 06:30 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 06:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 79 (78 open, 1 closed) |
+| Positions | 81 (80 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
 | 📦 Unrealized | $+90 |
@@ -18,7 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Tastecoin | $0.000192 | **1.14x** ($+14) | 1.18x |  | pumpswap | 2026-03-20 06:15 |
+| 🟡 Ray | $0.000005 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 06:34 |
+| 🔴 shitcoin | $0.000068 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 06:33 |
+| 🟡 Tastecoin | $0.000192 | **1.07x** ($+7) | 1.18x |  | pumpswap | 2026-03-20 06:15 |
 | 🟡 Lobstar | $0.006359 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:13 |
 | 🟡 Gascoin | $0.000030 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-20 06:04 |
 | 🟡 LULU | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
@@ -36,7 +38,7 @@
 | 🟡 BAGWORKOOR | $0.000047 | **1.14x** ($+14) | 1.16x |  | pumpswap | 2026-03-20 04:20 |
 | 🟡 Foodrot | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:56 |
 | 🟡 唐子兵法 | $0.001788 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:52 |
-| 🔴 Gizmo | $0.000014 | **0.49x** ($-51) | 1.01x |  | pumpswap | 2026-03-20 03:38 |
+| 🔴 Gizmo | $0.000014 | **0.46x** ($-54) | 1.01x |  | pumpswap | 2026-03-20 03:38 |
 | 🟡 Fro | $0.000206 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:32 |
 | 🟡 Spiderman | $0.000156 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🔴 CIRCLES | $0.000057 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
@@ -88,11 +90,11 @@
 | 🔴 Hamster  | $0.000228 | **0.98x** ($-2) | 1.17x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 XAI | $0.000159 | **1.65x** ($+65) | 2.12x | ✅ | pumpswap | 2026-03-19 23:36 |
 | 🟡 BBX | $0.000425 | **1.23x** ($+23) | 1.58x |  | pumpswap | 2026-03-19 23:36 |
-| 🔴 INCOME | $0.000623 | **0.88x** ($-12) | 1.17x |  | pumpswap | 2026-03-19 23:35 |
+| 🔴 INCOME | $0.000623 | **0.87x** ($-13) | 1.17x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 HOSPICE | $0.000024 | **0.99x** ($-1) | 1.21x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 Downald | $0.001104 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
 | 🔴 whiskers | $0.000011 | **0.75x** ($-25) | 1.02x |  | pumpswap | 2026-03-19 23:15 |
-| 🟡 Ride | $0.000016 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-19 22:57 |
+| 🟡 Ride | $0.000016 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-19 22:57 |
 | 🟡 DEEPSEEKV4 | $0.000040 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 22:54 |
 | 🟢 CHIBI | $0.000324 | **3.21x** ($+221) | 4.02x | ✅ | pumpswap | 2026-03-19 22:45 |
 | 🟡 PZBCN | $0.000136 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-19 22:42 |

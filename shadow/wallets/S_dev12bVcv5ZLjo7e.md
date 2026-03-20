@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 06:30 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 06:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 56 (55 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+19 |
-| 🏦 Total | **$+64** |
+| 📦 Unrealized | $+17 |
+| 🏦 Total | **$+62** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -19,11 +19,11 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 COLONEL | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 06:30 |
-| 🟡 PHM | $0.000004 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 06:29 |
+| 🟡 PHM | $0.000004 | **1.15x** ($+15) | 1.23x |  | pumpfun | 2026-03-20 06:29 |
 | 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 06:29 |
 | 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.01x |  | pumpfun | 2026-03-20 06:27 |
-| 🔴 COLONEL | $0.000003 | **0.99x** ($-1) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
-| 🟡 Invincible | $0.000007 | **1.00x** ($+0) | 1.22x |  | pumpfun | 2026-03-20 06:20 |
+| 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
+| 🟡 Invincible | $0.000007 | **1.01x** ($+1) | 1.22x |  | pumpfun | 2026-03-20 06:20 |
 | 🔴 BxrqpHmX | $0.000003 | **0.82x** ($-18) | 1.06x |  | pumpfun | 2026-03-20 06:15 |
 | 🔴 MOCHI | $0.000003 | **0.93x** ($-7) | 1.08x |  | pumpfun | 2026-03-20 05:46 |
 | 🟡 GROGU | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 05:44 |
@@ -47,7 +47,7 @@
 | 🔴 TdvdXT8S | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 03:11 |
 | 🔴 $ODA | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 03:10 |
 | 🔴 Floki | $0.000004 | **0.95x** ($-5) | 2.59x | ✅ | pumpfun | 2026-03-20 03:07 |
-| 🟡 XCHAT | $0.000003 | **1.00x** ($+0) | 1.10x |  | pumpfun | 2026-03-20 02:59 |
+| 🔴 XCHAT | $0.000003 | **1.00x** ($-0) | 1.10x |  | pumpfun | 2026-03-20 02:59 |
 | 🟡 FyFJ64RR | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:37 |
 | 🔴 J3bSHVhq | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 02:35 |
 | 🟡 Nanami | $0.000003 | **1.01x** ($+1) | 1.11x |  | pumpfun | 2026-03-20 02:25 |

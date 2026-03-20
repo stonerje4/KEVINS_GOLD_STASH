@@ -1,16 +1,16 @@
 # Wallet: `ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D`
 
-> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 06:30 UTC
+> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 06:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (11 open, 0 closed) |
+| Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-35 |
-| 🏦 Total | **$-35** |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$-46** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Possum | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:34 |
 | 🟡 ZeroG | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:01 |
-| 🔴 HUGH | $0.000004 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-20 05:50 |
+| 🔴 HUGH | $0.000004 | **0.69x** ($-31) | 1.00x |  | pumpfun | 2026-03-20 05:50 |
 | 🟡 JupUSD | $0.182933 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:28 |
 | 🟡 Manosphere | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:20 |
 | 🔴 CHIBITRUMP | $0.000004 | **0.88x** ($-12) | 1.15x |  | pumpfun | 2026-03-20 05:13 |
@@ -28,7 +29,7 @@
 | 🟡 ARIA | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
 | 🟡 IMAGINE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:25 |
 | 🟡 SURVIVOR | $0.000011 | **1.06x** ($+6) | 1.22x |  | pumpswap | 2026-03-20 00:09 |
-| 🟢 CHIBIELON | $0.000008 | **2.02x** ($+102) | 3.03x | ✅ | pumpfun | 2026-03-19 23:04 |
+| 🟡 CHIBIELON | $0.000008 | **1.89x** ($+89) | 3.03x | ✅ | pumpfun | 2026-03-19 23:04 |
 
 ## Closed Positions
 
