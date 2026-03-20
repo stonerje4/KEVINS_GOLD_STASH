@@ -1,6 +1,6 @@
 # Wallet: `9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ`
 
-> [View on Solscan](https://solscan.io/account/9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ) | Updated: 2026-03-20 00:54 UTC
+> [View on Solscan](https://solscan.io/account/9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ) | Updated: 2026-03-20 00:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (5 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-36 |
-| 🏦 Total | **$-112** |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$-110** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AIFRUITS | $0.000635 | **0.90x** ($-10) | 1.03x |  | pumpswap | 2026-03-19 23:45 |
+| 🔴 AIFRUITS | $0.000635 | **0.92x** ($-8) | 1.03x |  | pumpswap | 2026-03-19 23:45 |
 | 🔴 SEALVESTER | $0.000004 | **0.57x** ($-43) | 1.14x |  | pumpfun | 2026-03-19 23:31 |
 | 🔴 ישראל | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-19 23:27 |
 | 🟢 Attention | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-19 22:50 |

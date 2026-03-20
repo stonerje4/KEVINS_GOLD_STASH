@@ -1,6 +1,6 @@
-# Wallet: `Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD`
+# Wallet: `8NJ7Ujpji8uMF2675mqaTSEm2DCbfJA7fiRKtiaqkaLN`
 
-> [View on Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 00:59 UTC
+> [View on Solscan](https://solscan.io/account/8NJ7Ujpji8uMF2675mqaTSEm2DCbfJA7fiRKtiaqkaLN) | Updated: 2026-03-20 00:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+45 |
-| 🏦 Total | **$+45** |
+| 📦 Unrealized | $+42 |
+| 🏦 Total | **$+42** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GPD | $0.000024 | **1.45x** ($+45) | 1.70x |  | pumpswap | 2026-03-20 00:28 |
+| 🟡 Grokslop | $0.000013 | **1.42x** ($+42) | 1.45x |  | pumpfun | 2026-03-20 00:54 |
 
 ## Closed Positions
 

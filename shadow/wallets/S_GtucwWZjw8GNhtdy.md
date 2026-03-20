@@ -1,6 +1,6 @@
 # Wallet: `GtucwWZjw8GNhtdyj7f5nj47aE1guFD3QL3JfU7drbUZ`
 
-> [View on Solscan](https://solscan.io/account/GtucwWZjw8GNhtdyj7f5nj47aE1guFD3QL3JfU7drbUZ) | Updated: 2026-03-20 00:54 UTC
+> [View on Solscan](https://solscan.io/account/GtucwWZjw8GNhtdyj7f5nj47aE1guFD3QL3JfU7drbUZ) | Updated: 2026-03-20 00:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-21 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-23** |
+| 📦 Unrealized | $-52 |
+| 🏦 Total | **$-73** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.7x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 9pVz3EK1 | $0.000005 | **0.52x** ($-48) | 1.46x |  | pumpfun | 2026-03-20 00:40 |
 | 🔴 CHIBIMINAJ | $0.000017 | **0.58x** ($-42) | 1.08x |  | pumpfun | 2026-03-19 23:48 |
-| 🟢 BBdd6gHX | $0.000009 | **2.77x** ($+177) | 2.79x | ✅ | pumpfun | 2026-03-19 23:24 |
+| 🟡 BBdd6gHX | $0.000009 | **1.78x** ($+78) | 2.81x | ✅ | pumpfun | 2026-03-19 23:24 |
 
 ## Closed Positions
 
