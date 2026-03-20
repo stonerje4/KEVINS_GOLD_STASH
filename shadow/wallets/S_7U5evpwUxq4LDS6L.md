@@ -1,6 +1,6 @@
 # Wallet: `7U5evpwUxq4LDS6LeGa2fLsKxkTzcJytohT9SpyC5FZk`
 
-> [View on Solscan](https://solscan.io/account/7U5evpwUxq4LDS6LeGa2fLsKxkTzcJytohT9SpyC5FZk) | Updated: 2026-03-20 10:12 UTC
+> [View on Solscan](https://solscan.io/account/7U5evpwUxq4LDS6LeGa2fLsKxkTzcJytohT9SpyC5FZk) | Updated: 2026-03-20 10:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (1 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $-41 |
-| 📦 Unrealized | $+2 |
-| 🏦 Total | **$-38** |
+| 📦 Unrealized | $-8 |
+| 🏦 Total | **$-48** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.2x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 chiberine | $0.000044 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 10:11 |
+| 🔴 chiberine | $0.000044 | **0.92x** ($-8) | 1.29x |  | pumpswap | 2026-03-20 10:11 |
 
 ## Closed Positions
 

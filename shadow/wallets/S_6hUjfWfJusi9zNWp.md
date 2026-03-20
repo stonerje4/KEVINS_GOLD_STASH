@@ -1,12 +1,12 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 10:12 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 10:17 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (9 open, 0 closed) |
+| Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+98 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Income | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000017 | **2.20x** ($+120) | 2.20x | ✅ | pumpfun | 2026-03-20 09:51 |
 | 🟡 CHIBI | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:50 |

@@ -1,12 +1,12 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 10:12 UTC
+> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 10:17 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (7 open, 9 closed) |
+| Positions | 17 (8 open, 9 closed) |
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-314 |
 | 📦 Unrealized | $-201 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CfDa8np5 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:14 |
 | 🟡 5ycGinQL | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟡 8j6jehro | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:42 |
 | 🔴 6sJSQVtw | $0.000004 | **0.64x** ($-36) | 1.58x |  | pumpfun | 2026-03-20 09:25 |

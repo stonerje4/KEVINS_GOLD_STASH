@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 10:12 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 10:17 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 82 (57 open, 25 closed) |
+| Positions | 83 (58 open, 25 closed) |
 | W/L | 2/23 (8%) |
 | 💵 Realized | $-1,081 |
-| 📦 Unrealized | $-1,200 |
-| 🏦 Total | **$-2,281** |
+| 📦 Unrealized | $-1,187 |
+| 🏦 Total | **$-2,268** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Income | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 INCOME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 kawaifiy | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 FATE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:04 |
@@ -25,15 +26,15 @@
 | 🟡 effect | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 09:54 |
 | 🟡 7b678pp4 | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:49 |
 | 🟡 Tutu | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:48 |
-| 🟡 omochi | $0.000022 | **1.04x** ($+4) | 1.17x |  | pumpfun | 2026-03-20 09:19 |
+| 🟡 omochi | $0.000022 | **1.08x** ($+8) | 1.22x |  | pumpfun | 2026-03-20 09:19 |
 | 🔴 Income | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 09:12 |
 | 🔴 Income | $0.000006 | **0.46x** ($-54) | 1.91x |  | pumpfun | 2026-03-20 09:04 |
-| 🔴 VOID | $0.000294 | **0.54x** ($-46) | 1.06x |  | cpmm | 2026-03-20 08:59 |
+| 🔴 VOID | $0.000294 | **0.67x** ($-33) | 1.06x |  | cpmm | 2026-03-20 08:59 |
 | 🔴 CARL | $0.000006 | **0.40x** ($-60) | 1.00x |  | pumpfun | 2026-03-20 08:58 |
 | 🔴 GNr5Byrt | $0.000006 | **0.44x** ($-56) | 1.10x |  | pumpfun | 2026-03-20 08:56 |
 | 🔴 Grok | $0.000005 | **0.47x** ($-53) | 1.19x |  | pumpfun | 2026-03-20 08:54 |
 | 🔴 Chibi | $0.000005 | **0.54x** ($-46) | 1.18x |  | pumpfun | 2026-03-20 08:44 |
-| 🔴 OM | $0.000012 | **0.63x** ($-37) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
+| 🔴 OM | $0.000012 | **0.60x** ($-40) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000005 | **0.46x** ($-54) | 1.69x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.51x** ($-49) | 1.08x |  | pumpfun | 2026-03-20 08:10 |
 | 🔴 BGEYapkY | $0.000005 | **0.53x** ($-47) | 1.27x |  | pumpfun | 2026-03-20 07:41 |

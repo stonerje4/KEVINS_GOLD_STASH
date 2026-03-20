@@ -1,6 +1,6 @@
 # Wallet: `Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9`
 
-> [View on Solscan](https://solscan.io/account/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | Updated: 2026-03-20 10:12 UTC
+> [View on Solscan](https://solscan.io/account/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | Updated: 2026-03-20 10:17 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 pedgy | $0.000025 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 07:00 |
+| 🔴 pedgy | $0.000025 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 07:00 |
 | 🔴 MYTH | $0.000098 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:47 |
 | 🔴 Barron | $0.000019 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-19 23:18 |
 | 🔴 GROK | $0.000004 | **0.67x** ($-33) | 1.67x |  | pumpfun | 2026-03-19 23:03 |
