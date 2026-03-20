@@ -1,24 +1,24 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 18:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 18:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (18 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-393 |
-| 📦 Unrealized | $+94 |
-| 🏦 Total | **$-299** |
+| Positions | 26 (18 open, 8 closed) |
+| W/L | 0/8 (0%) |
+| 💵 Realized | $-514 |
+| 📦 Unrealized | $+98 |
+| 🏦 Total | **$-416** |
 | Best ROI | 0.85x |
-| Avg ROI | 0.35x |
+| Avg ROI | 0.36x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Maxxington | $0.000013 | **0.95x** ($-5) | 1.27x |  | pumpfun | 2026-03-20 18:02 |
+| 🟡 XCAT | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:06 |
 | 🔴 Foodrot | $0.000148 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 16:27 |
 | 🔴 Norriscoin | $0.000007 | **0.84x** ($-16) | 1.18x |  | pumpfun | 2026-03-20 16:17 |
 | 🟡 HELLO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:14 |
@@ -41,6 +41,8 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Monitoring | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 18:05 → 2026-03-20 18:05 |
+| 🔴 Maxxington | 0.39x | $-61 | stop_loss | 1.27x | pumpfun | 2026-03-20 18:02 → 2026-03-20 18:06 |
 | 🔴 WIF | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 17:55 → 2026-03-20 17:55 |
 | 🔴 WIF | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 17:55 → 2026-03-20 17:55 |
 | 🔴 Norris | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:10 → 2026-03-20 16:21 |

@@ -1,12 +1,12 @@
 # Wallet: `8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY`
 
-> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 18:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 18:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (8 open, 5 closed) |
+| Positions | 14 (9 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-224 |
 | 📦 Unrealized | $-33 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 XCAT | $0.000119 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:09 |
 | 🔴 CHIBI | $0.003616 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 10:58 |
 | 🟡 Lobstar | $0.006584 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:46 |
 | 🔴 WIZARD | $0.000358 | **0.99x** ($-1) | 1.08x |  | pumpswap | 2026-03-20 10:44 |

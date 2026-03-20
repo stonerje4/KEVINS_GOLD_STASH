@@ -1,6 +1,6 @@
 # Wallet: `AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8`
 
-> [GMGN](https://gmgn.ai/sol/address/AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8) | [Solscan](https://solscan.io/account/AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8) | Updated: 2026-03-20 18:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8) | [Solscan](https://solscan.io/account/AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8) | Updated: 2026-03-20 18:10 UTC
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | 🔴 OSP | $0.000009 | **0.83x** ($-17) | 1.33x |  | pumpfun | 2026-03-20 15:25 |
 | 🟡 NBR | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:43 |
 | 🟡 OSP | $0.000019 | **1.29x** ($+29) | 1.42x |  | pumpfun | 2026-03-20 06:43 |
-| 🟡 DRONE | $0.000054 | **1.40x** ($+40) | 1.43x |  | pumpswap | 2026-03-20 02:18 |
+| 🟡 DRONE | $0.000054 | **1.41x** ($+41) | 1.43x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 NBR | $0.000005 | **0.96x** ($-4) | 1.03x |  | pumpfun | 2026-03-20 02:13 |
 | 🔴 Chocolatina | $0.000020 | **0.96x** ($-4) | 1.14x |  | pumpfun | 2026-03-20 00:50 |
 | 🔴 FLAG | $0.000008 | **0.91x** ($-9) | 1.10x |  | pumpfun | 2026-03-20 00:26 |

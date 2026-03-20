@@ -1,6 +1,6 @@
 # Wallet: `ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F`
 
-> [GMGN](https://gmgn.ai/sol/address/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | [Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 18:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | [Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 18:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (15 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-231 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-234** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-235** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.54x |
 
@@ -30,7 +30,7 @@
 | 🔴 TripleT | $0.002401 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:09 |
 | 🟡 Freebuff | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:51 |
 | 🔴 AIFRUITS | $0.000916 | **0.51x** ($-49) | 1.01x |  | pumpswap | 2026-03-20 01:28 |
-| 🟡 LUMO | $0.000031 | **1.43x** ($+43) | 1.88x |  | pumpswap | 2026-03-20 01:24 |
+| 🟡 LUMO | $0.000031 | **1.41x** ($+41) | 1.88x |  | pumpswap | 2026-03-20 01:24 |
 | 🟡 tinfoil | $0.000048 | **1.57x** ($+57) | 1.65x |  | pumpswap | 2026-03-20 01:20 |
 | 🟡 SHOENICE  | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:08 |
 

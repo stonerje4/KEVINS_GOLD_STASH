@@ -1,16 +1,16 @@
 # Wallet: `9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf`
 
-> [GMGN](https://gmgn.ai/sol/address/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | [Solscan](https://solscan.io/account/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | Updated: 2026-03-20 18:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | [Solscan](https://solscan.io/account/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | Updated: 2026-03-20 18:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (6 open, 3 closed) |
+| Positions | 10 (7 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-241 |
-| 📦 Unrealized | $-121 |
-| 🏦 Total | **$-362** |
+| 📦 Unrealized | $-114 |
+| 🏦 Total | **$-354** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.20x |
 
@@ -18,11 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 XCAT | $0.000095 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:06 |
 | 🔴 GBN | $0.000022 | **0.43x** ($-57) | 1.00x |  | pumpswap | 2026-03-20 16:02 |
 | 🟡 OSP | $0.000112 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:35 |
 | 🔴 Rocky | $0.000157 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 FTR | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:25 |
-| 🔴 Goose | $0.000029 | **0.51x** ($-49) | 1.38x |  | pumpswap | 2026-03-20 01:39 |
+| 🔴 Goose | $0.000029 | **0.58x** ($-42) | 1.38x |  | pumpswap | 2026-03-20 01:39 |
 | 🟡 ZENT | $0.000083 | **1.37x** ($+37) | 1.37x |  | pumpswap | 2026-03-20 01:34 |
 
 ## Closed Positions

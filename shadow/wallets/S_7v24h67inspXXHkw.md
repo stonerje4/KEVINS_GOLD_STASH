@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 18:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 18:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (15 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-64 |
-| 📦 Unrealized | $+96 |
-| 🏦 Total | **$+32** |
+| 📦 Unrealized | $+99 |
+| 🏦 Total | **$+35** |
 | Best ROI | 0.36x |
 | Avg ROI | 0.36x |
 
@@ -32,7 +32,7 @@
 | 🟢 DRONE | $0.000037 | **2.05x** ($+105) | 2.09x | ✅ | pumpswap | 2026-03-19 23:45 |
 | 🔴 BBX | $0.000029 | **0.86x** ($-14) | 1.10x |  | pumpswap | 2026-03-19 23:22 |
 | 🟡 Downald | $0.000006 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:20 |
-| 🔴 BBX | $0.000483 | **0.72x** ($-28) | 1.40x |  | pumpswap | 2026-03-19 23:20 |
+| 🔴 BBX | $0.000483 | **0.74x** ($-26) | 1.40x |  | pumpswap | 2026-03-19 23:20 |
 
 ## Closed Positions
 

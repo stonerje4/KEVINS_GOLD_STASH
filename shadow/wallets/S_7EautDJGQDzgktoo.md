@@ -1,18 +1,18 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 18:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 18:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 34 (26 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-459 |
-| 📦 Unrealized | $-112 |
-| 🏦 Total | **$-572** |
+| Positions | 35 (26 open, 9 closed) |
+| W/L | 0/9 (0%) |
+| 💵 Realized | $-520 |
+| 📦 Unrealized | $-115 |
+| 🏦 Total | **$-635** |
 | Best ROI | 0.82x |
-| Avg ROI | 0.43x |
+| Avg ROI | 0.42x |
 
 ## Open Positions
 
@@ -34,7 +34,7 @@
 | 🟡 CL1 | $0.000396 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |
 | 🔴 Downald | $0.000590 | **0.76x** ($-24) | 1.07x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 67 | $0.001291 | **1.20x** ($+20) | 1.23x |  | pumpswap | 2026-03-20 02:57 |
-| 🔴 BIG | $0.000081 | **0.50x** ($-50) | 1.10x |  | pumpswap | 2026-03-20 02:44 |
+| 🔴 BIG | $0.000081 | **0.48x** ($-52) | 1.10x |  | pumpswap | 2026-03-20 02:44 |
 | 🔴 CHANNELS | $0.000026 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 IMAGINE | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:08 |
@@ -49,6 +49,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 TITUATION | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:06 → 2026-03-20 18:06 |
 | 🔴 CHILLBLI | 0.39x | $-61 | stop_loss | 1.92x | pumpswap | 2026-03-20 07:52 → 2026-03-20 08:21 |
 | 🔴 HUGH | 0.35x | $-65 | stop_loss | 1.17x | pumpswap | 2026-03-20 07:17 → 2026-03-20 09:04 |
 | 🔴 Pixels | 0.35x | $-65 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:57 → 2026-03-20 17:15 |

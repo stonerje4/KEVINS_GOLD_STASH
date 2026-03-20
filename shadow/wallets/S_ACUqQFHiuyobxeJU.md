@@ -1,12 +1,12 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 18:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 18:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 23 (14 open, 9 closed) |
+| Positions | 24 (15 open, 9 closed) |
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-489 |
 | 📦 Unrealized | $-137 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 5bZ8duCe | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 18:05 |
 | 🟡 LIBERTY | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:08 |
 | 🔴 3TWMK851 | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 16:56 |
 | 🔴 3zYWEG1K | $0.000005 | **0.50x** ($-50) | 1.06x |  | pumpfun | 2026-03-20 16:27 |

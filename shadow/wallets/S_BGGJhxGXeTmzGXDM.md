@@ -1,24 +1,23 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [GMGN](https://gmgn.ai/sol/address/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | [Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 18:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | [Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 18:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (11 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-32** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 11 (10 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-76 |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$-105** |
+| Best ROI | 0.24x |
+| Avg ROI | 0.24x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 J7kphqGy | $0.000010 | **0.97x** ($-3) | 1.04x |  | pumpfun | 2026-03-20 18:00 |
 | 🟡 e-CNY | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🟡 NBR | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
 | 🔴 OSP | $0.000030 | **0.83x** ($-17) | 1.00x |  | pumpfun | 2026-03-20 10:51 |
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 J7kphqGy | 0.24x | $-76 | stop_loss | 1.04x | pumpfun | 2026-03-20 18:00 → 2026-03-20 18:05 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
