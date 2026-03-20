@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 01:29 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 01:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 30 (16 open, 14 closed) |
 | W/L | 0/14 (0%) |
 | 💵 Realized | $-707 |
-| 📦 Unrealized | $-243 |
-| 🏦 Total | **$-949** |
+| 📦 Unrealized | $-253 |
+| 🏦 Total | **$-960** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.6x |
 
@@ -29,7 +29,7 @@
 | 🔴 ONEAI | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 RiceClaw | $0.000005 | **0.54x** ($-46) | 1.69x |  | pumpfun | 2026-03-19 23:18 |
 | 🟡 PEPE | $0.000008 | **1.32x** ($+32) | 1.32x |  | pumpfun | 2026-03-19 23:12 |
-| 🔴 twump | $0.000024 | **0.78x** ($-22) | 1.37x |  | pumpfun | 2026-03-19 23:10 |
+| 🔴 twump | $0.000024 | **0.67x** ($-33) | 1.37x |  | pumpfun | 2026-03-19 23:10 |
 | 🔴 PRINTER | $0.000005 | **0.49x** ($-51) | 1.38x |  | pumpfun | 2026-03-19 22:57 |
 | 🟡 Gusini | $0.000019 | **1.03x** ($+3) | 1.55x |  | pumpfun | 2026-03-19 22:51 |
 | 🔴 CLAUDEHOLE | $0.000006 | **0.43x** ($-57) | 1.24x |  | pumpfun | 2026-03-19 22:37 |

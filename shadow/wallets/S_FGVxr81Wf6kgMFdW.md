@@ -1,12 +1,12 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 01:29 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 01:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (8 open, 0 closed) |
+| Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+112 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ULM | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:31 |
 | 🟡 FLAG | $0.000003 | **1.29x** ($+29) | 1.29x |  | pumpfun | 2026-03-20 00:40 |
 | 🟡 OSP | $0.000004 | **1.01x** ($+1) | 1.14x |  | pumpfun | 2026-03-20 00:34 |
 | 🟡 BNB | $0.000003 | **1.29x** ($+29) | 1.35x |  | pumpfun | 2026-03-20 00:24 |

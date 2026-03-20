@@ -1,6 +1,6 @@
-# Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
+# Wallet: `GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW`
 
-> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 01:34 UTC
+> [View on Solscan](https://solscan.io/account/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | Updated: 2026-03-20 01:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-25 |
-| 🏦 Total | **$-25** |
+| 📦 Unrealized | $+2 |
+| 🏦 Total | **$+2** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Jesus | $0.000010 | **0.75x** ($-25) | 1.26x |  | pumpfun | 2026-03-19 22:46 |
+| 🟡 NBR | $0.000027 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 01:34 |
 
 ## Closed Positions
 

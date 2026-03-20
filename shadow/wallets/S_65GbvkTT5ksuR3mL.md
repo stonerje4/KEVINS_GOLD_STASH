@@ -1,12 +1,12 @@
 # Wallet: `65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa`
 
-> [View on Solscan](https://solscan.io/account/65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa) | Updated: 2026-03-20 01:29 UTC
+> [View on Solscan](https://solscan.io/account/65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa) | Updated: 2026-03-20 01:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-30 |
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PERCOLATOR | $0.000045 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:30 |
 | 🔴 NBR | $0.000106 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 01:08 |
-| 🔴 plumber | $0.000063 | **0.95x** ($-5) | 1.08x |  | pumpswap | 2026-03-20 00:58 |
+| 🔴 plumber | $0.000063 | **0.94x** ($-6) | 1.08x |  | pumpswap | 2026-03-20 00:58 |
 | 🔴 BALDCAT | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 00:57 |
 | 🟡 API | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:56 |
 | 🔴 Trenchies | $0.000005 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 00:56 |

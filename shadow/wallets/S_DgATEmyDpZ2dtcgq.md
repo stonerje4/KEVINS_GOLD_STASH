@@ -1,6 +1,6 @@
 # Wallet: `DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z`
 
-> [View on Solscan](https://solscan.io/account/DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z) | Updated: 2026-03-20 01:29 UTC
+> [View on Solscan](https://solscan.io/account/DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z) | Updated: 2026-03-20 01:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-19 |
-| 📦 Unrealized | $+15 |
-| 🏦 Total | **$-4** |
+| 📦 Unrealized | $+4 |
+| 🏦 Total | **$-15** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.3x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Strawberita | $0.000062 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-20 01:27 |
-| 🔴 LARP | $0.000251 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
+| 🟡 Strawberita | $0.000062 | **1.03x** ($+3) | 1.35x |  | pumpswap | 2026-03-20 01:27 |
+| 🟡 LARP | $0.000251 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 01:17 |
 
 ## Closed Positions
 

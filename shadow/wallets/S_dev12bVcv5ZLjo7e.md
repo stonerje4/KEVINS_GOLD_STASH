@@ -1,16 +1,16 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 01:29 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 01:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (15 open, 1 closed) |
+| Positions | 17 (16 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+7 |
-| 🏦 Total | **$+52** |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$+50** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Hyperskill | $0.000003 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 01:33 |
 | 🔴 FTR | $0.000005 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 00:51 |
 | 🔴 Dickus | $0.000003 | **0.89x** ($-11) | 1.17x |  | pumpfun | 2026-03-20 00:22 |
 | 🔴 ChibiToly | $0.000004 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 00:19 |
