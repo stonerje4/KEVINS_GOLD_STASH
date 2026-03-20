@@ -1,6 +1,6 @@
 # 💰 PRD Copy Trader Dashboard
 
-> Updated: 2026-03-20 15:35 UTC | SOL = $89.00 | Buy size: 0.11 SOL (~$10)
+> Updated: 2026-03-20 15:40 UTC | SOL = $89.04 | Buy size: 0.11 SOL (~$10)
 > 
 > **P&L is from on-chain SOL movements (includes gas + slippage)**
 
@@ -10,10 +10,10 @@
 |--------|-------|
 | Positions | **13** (8 open, 4 closed) |
 | Win Rate | **0%** (0W / 4L) |
-| 💵 Realized P&L | **-0.2432 SOL** ($-21.64) |
+| 💵 Realized P&L | **-0.2432 SOL** ($-21.65) |
 | ⛽ Gas (closed) | 0.0168 SOL ($1.50) |
-| 📦 Unrealized P&L | **-0.2688 SOL** ($-23.92) |
-| 🏦 Net P&L | **-0.5120 SOL** ($-45.57) |
+| 📦 Unrealized P&L | **-0.2688 SOL** ($-23.93) |
+| 🏦 Net P&L | **-0.5120 SOL** ($-45.59) |
 
 ## Wallet Performance
 
