@@ -1,6 +1,6 @@
 # Wallet: `DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj`
 
-> [GMGN](https://gmgn.ai/sol/address/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | [Solscan](https://solscan.io/account/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | Updated: 2026-03-20 18:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | [Solscan](https://solscan.io/account/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | Updated: 2026-03-20 18:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $-47 |
-| 🏦 Total | **$-109** |
+| 📦 Unrealized | $-45 |
+| 🏦 Total | **$-107** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 HELLO | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:13 |
-| 🔴 LUMO | $0.000061 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 11:38 |
+| 🔴 LUMO | $0.000061 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 11:38 |
 | 🔴 MIROFISH | $0.000028 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 11:19 |
 
 ## Closed Positions

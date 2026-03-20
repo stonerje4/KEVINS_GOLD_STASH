@@ -1,12 +1,12 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 18:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 18:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (6 open, 10 closed) |
+| Positions | 17 (7 open, 10 closed) |
 | W/L | 3/7 (30%) |
 | 💵 Realized | $-7 |
 | 📦 Unrealized | $+248 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 XCAT | $0.000080 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:14 |
 | 🟡 JUMP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:37 |
 | 🟢 Patience | $0.000017 | **2.11x** ($+111) | 2.11x | ✅ | pumpfun | 2026-03-20 03:14 |
 | 🟡 IMAGINE | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:09 |

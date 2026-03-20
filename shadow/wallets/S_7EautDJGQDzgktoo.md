@@ -1,16 +1,16 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 18:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 18:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 35 (26 open, 9 closed) |
+| Positions | 36 (27 open, 9 closed) |
 | W/L | 0/9 (0%) |
 | 💵 Realized | $-520 |
-| 📦 Unrealized | $-115 |
-| 🏦 Total | **$-635** |
+| 📦 Unrealized | $-114 |
+| 🏦 Total | **$-634** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.42x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 XCAT | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:11 |
 | 🟡 FOID | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:45 |
 | 🟡 Chuck | $0.000550 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:08 |
 | 🟡 spec | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:30 |

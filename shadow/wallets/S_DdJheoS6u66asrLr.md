@@ -1,16 +1,16 @@
 # Wallet: `DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V`
 
-> [GMGN](https://gmgn.ai/sol/address/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | [Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-20 18:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | [Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-20 18:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (2 open, 2 closed) |
+| Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-106 |
-| 📦 Unrealized | $-33 |
-| 🏦 Total | **$-138** |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$-135** |
 | Best ROI | 0.54x |
 | Avg ROI | 0.47x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 TITUATION | $0.000042 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 18:14 |
+| 🟡 sheep | $0.000015 | **1.09x** ($+9) | 1.30x |  | pumpfun | 2026-03-20 18:12 |
 | 🔴 gugugaga | $0.000174 | **0.99x** ($-1) | 1.21x |  | pumpswap | 2026-03-20 00:42 |
 | 🔴 Saleh | $0.000027 | **0.68x** ($-32) | 1.18x |  | pumpswap | 2026-03-19 22:49 |
 

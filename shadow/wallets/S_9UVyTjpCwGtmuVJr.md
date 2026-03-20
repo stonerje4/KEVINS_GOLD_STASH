@@ -1,6 +1,6 @@
 # Wallet: `9UVyTjpCwGtmuVJrBrmbxWvYLJTQkLNpJc769fvMKCC7`
 
-> [GMGN](https://gmgn.ai/sol/address/9UVyTjpCwGtmuVJrBrmbxWvYLJTQkLNpJc769fvMKCC7) | [Solscan](https://solscan.io/account/9UVyTjpCwGtmuVJrBrmbxWvYLJTQkLNpJc769fvMKCC7) | Updated: 2026-03-20 18:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/9UVyTjpCwGtmuVJrBrmbxWvYLJTQkLNpJc769fvMKCC7) | [Solscan](https://solscan.io/account/9UVyTjpCwGtmuVJrBrmbxWvYLJTQkLNpJc769fvMKCC7) | Updated: 2026-03-20 18:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-71 |
-| 🏦 Total | **$-71** |
+| 📦 Unrealized | $-77 |
+| 🏦 Total | **$-77** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Orangutan | $0.000020 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 08:34 |
-| 🔴 Goose | $0.000020 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 08:31 |
+| 🔴 Goose | $0.000020 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 08:31 |
 | 🔴 BOAT | $0.000008 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 07:34 |
 
 ## Closed Positions

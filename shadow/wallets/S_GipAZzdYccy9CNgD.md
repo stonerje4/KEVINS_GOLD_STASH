@@ -1,16 +1,16 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 18:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 18:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (11 open, 5 closed) |
+| Positions | 17 (12 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-357 |
-| 📦 Unrealized | $+343 |
-| 🏦 Total | **$-15** |
+| 📦 Unrealized | $+341 |
+| 🏦 Total | **$-17** |
 | Best ROI | 0.80x |
 | Avg ROI | 0.29x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 i | $0.000011 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 18:13 |
 | 🟡 IShowSpeed | $0.000008 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 17:26 |
 | 🟡 unemployed | $0.000006 | **1.32x** ($+32) | 1.33x |  | pumpswap | 2026-03-20 17:23 |
 | 🟡 TGR | $0.000008 | **1.05x** ($+5) | 1.15x |  | pumpfun | 2026-03-20 16:14 |

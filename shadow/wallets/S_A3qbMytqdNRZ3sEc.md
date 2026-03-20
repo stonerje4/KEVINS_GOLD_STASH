@@ -1,16 +1,16 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 18:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 18:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 77 (67 open, 10 closed) |
+| Positions | 78 (68 open, 10 closed) |
 | W/L | 2/8 (20%) |
 | 💵 Realized | $-422 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-455** |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$-440** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.58x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Pixels | $0.000020 | **1.15x** ($+15) | 1.16x |  | pumpswap | 2026-03-20 18:10 |
 | 🟡 FOID | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:53 |
 | 🟡 Solana | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:20 |
 | 🟡 NEURIX | $0.000151 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:54 |
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
 | 🟡 Dryer | $0.000016 | **1.75x** ($+75) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |
 | 🟡 LAYOFF | $0.000155 | **1.06x** ($+6) | 1.13x |  | pumpswap | 2026-03-20 15:16 |
-| 🟡 YEPE | $0.000101 | **1.48x** ($+48) | 1.68x |  | pumpswap | 2026-03-20 15:11 |
+| 🟡 YEPE | $0.000101 | **1.44x** ($+44) | 1.68x |  | pumpswap | 2026-03-20 15:11 |
 | 🔴 clod | $0.000024 | **1.00x** ($-0) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 Chuck | $0.000485 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
 | 🟡 Chuck | $0.000346 | **1.78x** ($+78) | 2.38x | ✅ | pumpswap | 2026-03-20 14:53 |
@@ -83,7 +84,7 @@
 | 🔴 DIVERGENT | $0.000007 | **0.60x** ($-40) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
 | 🟡 FML | $0.000196 | **1.27x** ($+27) | 1.51x |  | pumpswap | 2026-03-19 22:44 |
-| 🔴 BBX | $0.000434 | **0.82x** ($-18) | 1.55x |  | pumpswap | 2026-03-19 22:41 |
+| 🔴 BBX | $0.000434 | **0.85x** ($-15) | 1.55x |  | pumpswap | 2026-03-19 22:41 |
 | 🔴 RETURN | $0.000017 | **0.70x** ($-30) | 1.53x |  | pumpswap | 2026-03-19 22:34 |
 
 ## Closed Positions
