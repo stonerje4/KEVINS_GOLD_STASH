@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 08:36 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 08:41 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (21 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+70 |
-| 🏦 Total | **$+70** |
+| 📦 Unrealized | $+60 |
+| 🏦 Total | **$+60** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHILLBLI | $0.000003 | **0.70x** ($-30) | 1.06x |  | pumpswap | 2026-03-20 08:24 |
+| 🔴 CHILLBLI | $0.000003 | **0.59x** ($-41) | 1.06x |  | pumpswap | 2026-03-20 08:24 |
 | 🔴 TGR | $0.000010 | **0.98x** ($-2) | 1.05x |  | pumpfun | 2026-03-20 07:55 |
 | 🟡 USRNR | $0.000006 | **1.01x** ($+1) | 1.02x |  | pumpfun | 2026-03-20 07:46 |
 | 🟡 OIL | $0.000004 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 05:51 |
