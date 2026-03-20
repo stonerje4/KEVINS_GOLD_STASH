@@ -1,6 +1,6 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-24** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-51 |
+| 🏦 Total | **$-51** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Fro | $0.000184 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Fro | $0.000184 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
 | 🟡 0 | $0.000105 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 06:05 |
 | 🔴 butthole | $0.000169 | **0.78x** ($-22) | 1.09x |  | pumpswap | 2026-03-20 05:19 |
 | 🟡 Optimistic | $0.000763 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:11 |

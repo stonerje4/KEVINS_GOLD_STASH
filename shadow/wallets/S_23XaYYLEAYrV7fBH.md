@@ -1,6 +1,6 @@
 # Wallet: `23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp`
 
-> [View on Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 13 (9 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-298 |
-| 📦 Unrealized | $+539 |
-| 🏦 Total | **$+241** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.25x |
+| 📦 Unrealized | $+544 |
+| 🏦 Total | **$+245** |
+| Best Trade | 0.4x |
+| Avg Peak | 39.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 clod | $0.000001 | **26.17x** ($+2,517) | 26.64x | ✅ | pumpswap | 2026-03-20 12:25 |
+| 🚀 clod | $0.000001 | **26.38x** ($+2,538) | 26.64x | ✅ | pumpswap | 2026-03-20 12:25 |
 | 🟡 SHOENICE  | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:41 |
 | 🟡 ANIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:23 |
 | 🟡 Kin-kun | $0.000008 | **1.31x** ($+31) | 1.64x |  | pumpfun | 2026-03-20 09:53 |

@@ -1,6 +1,6 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [View on Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+538 |
-| 🏦 Total | **$+538** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+572 |
+| 🏦 Total | **$+572** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 Chuck | $0.000026 | **17.57x** ($+1,657) | 19.60x | ✅ | pumpfun | 2026-03-20 14:16 |
+| 🚀 Chuck | $0.000026 | **18.93x** ($+1,793) | 20.71x | ✅ | pumpfun | 2026-03-20 14:16 |
 | 🟡 RIPCHUCK | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 CHUCK | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟢 Chuck | $0.000137 | **3.20x** ($+220) | 3.54x | ✅ | pumpswap | 2026-03-20 13:55 |

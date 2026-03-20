@@ -1,23 +1,24 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (11 open, 2 closed) |
+| Positions | 14 (12 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-81 |
-| 📦 Unrealized | $+117 |
-| 🏦 Total | **$+36** |
-| Best ROI | 0.79x |
-| Avg ROI | 0.60x |
+| 📦 Unrealized | $+122 |
+| 🏦 Total | **$+41** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ROUNDHOUSE | $0.000009 | **1.05x** ($+5) | 1.06x |  | pumpfun | 2026-03-20 15:08 |
 | 🔴 Chuck | $0.000007 | **0.49x** ($-51) | 1.05x |  | pumpfun | 2026-03-20 14:51 |
 | 🔴 3Q4iaQgF | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:37 |
 | 🔴 NORRIS | $0.000003 | **0.79x** ($-21) | 1.06x |  | pumpfun | 2026-03-20 14:30 |

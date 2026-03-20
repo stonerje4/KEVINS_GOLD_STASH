@@ -1,6 +1,6 @@
 # Wallet: `BdFrckanz4sonyZxtVqNVDmw4teGUm9B2DNpK2amMuqP`
 
-> [View on Solscan](https://solscan.io/account/BdFrckanz4sonyZxtVqNVDmw4teGUm9B2DNpK2amMuqP) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/BdFrckanz4sonyZxtVqNVDmw4teGUm9B2DNpK2amMuqP) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-131 |
 | 📦 Unrealized | $+0 |
 | 🏦 Total | **$-131** |
-| Best ROI | 0.36x |
-| Avg ROI | 0.34x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 

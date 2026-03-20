@@ -1,18 +1,18 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (18 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-61 |
-| 📦 Unrealized | $-28 |
-| 🏦 Total | **$-89** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| Positions | 19 (17 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-78 |
+| 📦 Unrealized | $-66 |
+| 🏦 Total | **$-143** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
@@ -35,13 +35,13 @@
 | 🔴 POLSIA | $0.000136 | **0.72x** ($-28) | 1.18x |  | pumpswap | 2026-03-20 00:08 |
 | 🔴 Out | $0.000022 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 Chud | $0.000686 | **1.16x** ($+16) | 1.28x |  | pumpswap | 2026-03-19 22:45 |
-| 🟡 Fro | $0.000158 | **1.75x** ($+75) | 2.06x | ✅ | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 SOM | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:47 → 2026-03-20 10:38 |
+| 🟡 Fro | 0.83x | $-17 | trailing_stop_2x | 2.06x | pumpswap | 2026-03-19 22:38 → 2026-03-20 15:09 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

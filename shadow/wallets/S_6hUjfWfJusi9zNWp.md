@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 19 (19 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+109 |
-| 🏦 Total | **$+109** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+118 |
+| 🏦 Total | **$+118** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LEE | $0.000008 | **1.15x** ($+15) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 CHUCK | $0.000018 | **0.84x** ($-16) | 1.36x |  | pumpfun | 2026-03-20 14:37 |
-| 🟢 Chuck | $0.000195 | **2.36x** ($+136) | 2.63x | ✅ | pumpswap | 2026-03-20 14:26 |
+| 🟢 Chuck | $0.000195 | **2.55x** ($+155) | 2.78x | ✅ | pumpswap | 2026-03-20 14:26 |
 | 🟡 Nigel | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
 | 🟡 DECEPTICONS | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:37 |

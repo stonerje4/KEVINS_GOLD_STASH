@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 48 (46 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-164 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$-157** |
-| Best ROI | 0.36x |
-| Avg ROI | 0.18x |
+| 📦 Unrealized | $+2 |
+| 🏦 Total | **$-161** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chuck | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 15:07 |
+| 🔴 Chuck | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 15:07 |
 | 🔴 SIMULATION | $0.000003 | **0.92x** ($-8) | 1.06x |  | pumpfun | 2026-03-20 15:02 |
 | 🟡 FUEGO | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:56 |
 | 🟡 NBR | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:54 |

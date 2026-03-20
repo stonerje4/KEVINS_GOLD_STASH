@@ -1,18 +1,18 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 80 (77 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-190 |
-| 📦 Unrealized | $-51 |
-| 🏦 Total | **$-241** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| Positions | 80 (76 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-252 |
+| 📦 Unrealized | $-56 |
+| 🏦 Total | **$-308** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
@@ -50,9 +50,8 @@
 | 🟡 Rosie | $0.000797 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:51 |
 | 🟡 Momo-chan | $0.000312 | **1.21x** ($+21) | 1.24x |  | pumpswap | 2026-03-20 05:02 |
 | 🟡 LUMO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
-| 🔴 Solana | $0.000159 | **0.40x** ($-60) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Spiderman | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
-| 🟡 Fro | $0.000194 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
+| 🔴 Fro | $0.000194 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
 | 🟡 KIWI | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 herm | $0.000163 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 BBX | $0.000451 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:57 |
@@ -63,7 +62,7 @@
 | 🟡 SOS | $0.000976 | **1.14x** ($+14) | 1.20x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 CHIBI | $0.000816 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 LIFE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
-| 🟡 PIKAHORSE | $0.000331 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |
+| 🔴 PIKAHORSE | $0.000331 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 02:41 |
 | 🟡 FTR | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 XAI | $0.000210 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 TOKEN | $0.000105 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
@@ -102,6 +101,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 NATIVELY | 0.30x | $-70 | stop_loss | 1.31x | cpmm | 2026-03-20 04:46 → 2026-03-20 11:54 |
 | 🔴 MANEKI | 0.40x | $-60 | stop_loss | 1.20x | cpmm | 2026-03-20 04:46 → 2026-03-20 06:04 |
+| 🔴 Solana | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:31 → 2026-03-20 15:07 |
 | 🔴 ORNG | 0.40x | $-60 | stop_loss | 1.03x | cpmm | 2026-03-20 04:26 → 2026-03-20 04:29 |
 
 ---

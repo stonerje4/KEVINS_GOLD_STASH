@@ -1,6 +1,6 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [View on Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 11 (10 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+17 |
-| 🏦 Total | **$-44** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$-45** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FOID | $0.000019 | **0.99x** ($-1) | 1.26x |  | pumpfun | 2026-03-20 14:36 |
+| 🔴 FOID | $0.000019 | **0.97x** ($-3) | 1.26x |  | pumpfun | 2026-03-20 14:36 |
 | 🟡 Liqua | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
 | 🟡 ME | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:50 |
 | 🟡 Judy | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:26 |

@@ -1,18 +1,18 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 15:07 UTC
+> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 15:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 33 (32 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-60 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-89** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| Positions | 33 (31 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-124 |
+| 📦 Unrealized | $-7 |
+| 🏦 Total | **$-131** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
@@ -47,7 +47,6 @@
 | 🟡 Simulation | $0.000005 | **1.11x** ($+11) | 1.24x |  | pumpswap | 2026-03-20 01:43 |
 | 🔴 Manosphere | $0.000007 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🔴 AyyLMAO | $0.000059 | **0.81x** ($-19) | 1.14x |  | pumpswap | 2026-03-20 00:02 |
-| 🔴 Simulation | $0.000065 | **0.78x** ($-22) | 1.06x |  | pumpswap | 2026-03-20 00:02 |
 | 🔴 Strawberina | $0.000008 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-19 23:57 |
 | 🟡 CLAW3D | $0.000063 | **1.07x** ($+7) | 1.70x |  | pumpswap | 2026-03-19 23:49 |
 
@@ -56,6 +55,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 CRABBO | 0.40x | $-60 | stop_loss | 1.11x | pumpswap | 2026-03-20 07:46 → 2026-03-20 12:09 |
+| 🔴 Simulation | 0.36x | $-64 | stop_loss | 1.06x | pumpswap | 2026-03-20 00:02 → 2026-03-20 15:08 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
