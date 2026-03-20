@@ -9,16 +9,16 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+42 |
-| 🏦 Total | **$-18** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+56 |
+| 🏦 Total | **$-5** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Sunshine | $0.000010 | **1.42x** ($+42) | 1.51x |  | pumpfun | 2026-03-20 13:14 |
+| 🟡 Sunshine | $0.000010 | **1.56x** ($+56) | 1.56x |  | pumpfun | 2026-03-20 13:14 |
 | 🟡 Sybil  | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 IMAGINE | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:03 |
 
