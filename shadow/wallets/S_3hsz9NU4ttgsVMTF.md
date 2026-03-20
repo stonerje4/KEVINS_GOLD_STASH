@@ -1,6 +1,6 @@
 # Wallet: `3hsz9NU4ttgsVMTFZyfPjDctECYQMMHNkqL6Rx82gBSe`
 
-> [View on Solscan](https://solscan.io/account/3hsz9NU4ttgsVMTFZyfPjDctECYQMMHNkqL6Rx82gBSe) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/3hsz9NU4ttgsVMTFZyfPjDctECYQMMHNkqL6Rx82gBSe) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+2,367 |
-| 📦 Unrealized | $+53,819 |
-| 🏦 Total | **$+56,186** |
+| 📦 Unrealized | $+52,333 |
+| 🏦 Total | **$+54,700** |
 | Best Trade | 24.7x |
 | Avg Peak | 72.6x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 AIFRUITS | $0.000000 | **2289.52x** ($+228,852) | 2674.67x | ✅ | pumpswap | 2026-03-19 23:13 |
+| 🚀 AIFRUITS | $0.000000 | **2222.91x** ($+222,191) | 2674.67x | ✅ | pumpswap | 2026-03-19 23:13 |
 | 🚀 Gusini | $0.000000 | **125.08x** ($+12,408) | 188.33x | ✅ | pumpfun | 2026-03-19 23:00 |
 
 ## Closed Positions

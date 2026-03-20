@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+15,655 |
-| 🏦 Total | **$+15,655** |
+| 📦 Unrealized | $+15,628 |
+| 🏦 Total | **$+15,628** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Nigel | $0.000200 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 00:02 |
-| 🟡 Massive | $0.000024 | **1.60x** ($+60) | 1.67x |  | pumpswap | 2026-03-20 00:00 |
+| 🟡 Nigel | $0.000200 | **1.06x** ($+6) | 1.17x |  | pumpswap | 2026-03-20 00:02 |
+| 🟡 Massive | $0.000024 | **1.23x** ($+23) | 1.68x |  | pumpswap | 2026-03-20 00:00 |
 | 🟡 Luxury | $0.000010 | **1.35x** ($+35) | 1.89x |  | pumpfun | 2026-03-19 23:41 |
 | 🚀 herm | $0.000000 | **698.65x** ($+69,765) | 698.65x | ✅ | pumpswap | 2026-03-19 23:21 |
 

@@ -1,6 +1,6 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [View on Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+5 |
-| 🏦 Total | **$+5** |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-39** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Roast | $0.000005 | **1.63x** ($+63) | 1.91x |  | pumpswap | 2026-03-20 00:04 |
-| 🔴 ELEPHANT | $0.000007 | **0.84x** ($-16) | 1.36x |  | pumpswap | 2026-03-19 23:59 |
+| 🟡 Roast | $0.000005 | **1.04x** ($+4) | 1.91x |  | pumpswap | 2026-03-20 00:04 |
+| 🔴 ELEPHANT | $0.000007 | **0.99x** ($-1) | 1.36x |  | pumpswap | 2026-03-19 23:59 |
 | 🔴 TRASHBAG | $0.000008 | **0.80x** ($-20) | 1.09x |  | pumpswap | 2026-03-19 23:40 |
 | 🔴 Lia | $0.000011 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
 | 🟡 CLAW3D | $0.000040 | **1.85x** ($+85) | 2.53x | ✅ | pumpswap | 2026-03-19 23:06 |

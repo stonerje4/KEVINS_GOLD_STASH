@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-43 |
-| 🏦 Total | **$-43** |
+| 📦 Unrealized | $-33 |
+| 🏦 Total | **$-33** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TOKEN | $0.000131 | **0.84x** ($-16) | 1.01x |  | pumpswap | 2026-03-19 23:25 |
-| 🟡 Nigel | $0.000188 | **1.03x** ($+3) | 1.19x |  | pumpswap | 2026-03-19 22:52 |
+| 🔴 TOKEN | $0.000131 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-19 23:25 |
+| 🟡 Nigel | $0.000188 | **1.13x** ($+13) | 1.24x |  | pumpswap | 2026-03-19 22:52 |
 | 🔴 Pssh | $0.000007 | **0.69x** ($-31) | 1.11x |  | pumpswap | 2026-03-19 22:40 |
 
 ## Closed Positions

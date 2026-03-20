@@ -1,16 +1,16 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
+| Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-22 |
-| 🏦 Total | **$-39** |
+| 📦 Unrealized | $+33 |
+| 🏦 Total | **$+16** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 world | $0.000022 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 00:12 |
+| 🟡 Balenciaga | $0.000004 | **1.52x** ($+52) | 1.75x |  | pumpfun | 2026-03-20 00:09 |
 | 🟡 TENDIES | $0.000015 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:42 |
 | 🔴 5H7nmFxk | $0.000003 | **0.78x** ($-22) | 1.12x |  | pumpfun | 2026-03-19 23:15 |
 

@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 AyyLMAO | $0.000059 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 00:02 |
-| 🟡 Simulation | $0.000065 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 00:02 |
+| 🟡 Simulation | $0.000065 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-20 00:02 |
 | 🟡 Strawberina | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-19 23:57 |
 | 🟡 CLAW3D | $0.000063 | **1.19x** ($+19) | 1.24x |  | pumpswap | 2026-03-19 23:49 |
 

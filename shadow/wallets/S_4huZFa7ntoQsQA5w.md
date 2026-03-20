@@ -1,6 +1,6 @@
 # Wallet: `4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq`
 
-> [View on Solscan](https://solscan.io/account/4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-11 |
-| 🏦 Total | **$-11** |
+| 📦 Unrealized | $-16 |
+| 🏦 Total | **$-16** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 DOGEFATHER | $0.000015 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 00:04 |
+| 🔴 DOGEFATHER | $0.000015 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 00:04 |
 
 ## Closed Positions
 

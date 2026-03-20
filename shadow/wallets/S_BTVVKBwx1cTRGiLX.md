@@ -1,6 +1,6 @@
 # Wallet: `BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2`
 
-> [View on Solscan](https://solscan.io/account/BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-14 |
-| 🏦 Total | **$-14** |
+| 📦 Unrealized | $-44 |
+| 🏦 Total | **$-44** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBI | $0.000129 | **0.86x** ($-14) | 1.01x |  | pumpswap | 2026-03-19 23:37 |
+| 🔴 CHIBI | $0.000129 | **0.56x** ($-44) | 1.01x |  | pumpswap | 2026-03-19 23:37 |
 
 ## Closed Positions
 

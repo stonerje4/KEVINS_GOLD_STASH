@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 46 (44 open, 2 closed) |
+| Positions | 47 (45 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+174 |
-| 📦 Unrealized | $-587 |
-| 🏦 Total | **$-413** |
+| 📦 Unrealized | $-405 |
+| 🏦 Total | **$-232** |
 | Best Trade | 2.9x |
 | Avg Peak | 3.8x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Balenciaga | $0.000004 | **1.50x** ($+50) | 1.72x |  | pumpfun | 2026-03-20 00:09 |
 | 🔴 Abundance | $0.000004 | **0.60x** ($-40) | 1.05x |  | pumpfun | 2026-03-20 00:02 |
 | 🔴 TF | $0.000003 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-19 23:53 |
 | 🔴 COMPUTE | $0.000003 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-19 23:52 |
 | 🔴 Downey | $0.000004 | **0.95x** ($-5) | 1.57x |  | pumpfun | 2026-03-19 23:49 |
 | 🟡 TTJ | $0.000005 | **1.13x** ($+13) | 1.18x |  | pumpfun | 2026-03-19 23:49 |
-| 🟢 SHELBY | $0.000003 | **2.09x** ($+109) | 2.09x | ✅ | pumpfun | 2026-03-19 23:47 |
+| 🟢 SHELBY | $0.000003 | **3.97x** ($+297) | 3.97x | ✅ | pumpfun | 2026-03-19 23:47 |
 | 🔴 DULISAURUS | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-19 23:42 |
 | 🔴 Trashbag | $0.000005 | **0.81x** ($-19) | 1.67x |  | pumpfun | 2026-03-19 23:41 |
 | 🔴 TCOIN | $0.000004 | **0.90x** ($-10) | 1.01x |  | pumpfun | 2026-03-19 23:38 |
@@ -36,7 +37,7 @@
 | 🔴 ישראל | $0.000004 | **0.60x** ($-40) | 1.04x |  | pumpfun | 2026-03-19 23:27 |
 | 🟡 retire | $0.000004 | **1.42x** ($+42) | 1.42x |  | pumpfun | 2026-03-19 23:26 |
 | 🔴 Supaman | $0.000004 | **0.60x** ($-40) | 1.06x |  | pumpfun | 2026-03-19 23:23 |
-| 🟢 Fruits | $0.000004 | **2.66x** ($+166) | 3.06x | ✅ | pumpfun | 2026-03-19 23:20 |
+| 🟢 Fruits | $0.000004 | **4.35x** ($+335) | 4.35x | ✅ | pumpfun | 2026-03-19 23:20 |
 | 🔴 ONEAI | $0.000003 | **0.79x** ($-21) | 1.05x |  | pumpfun | 2026-03-19 23:19 |
 | 🔴 CC | $0.000005 | **0.53x** ($-47) | 1.64x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 OFF-35 | $0.000004 | **0.62x** ($-38) | 1.39x |  | pumpfun | 2026-03-19 23:17 |

@@ -1,6 +1,6 @@
 # Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
 
-> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 39 (29 open, 10 closed) |
 | W/L | 0/10 (0%) |
 | 💵 Realized | $-558 |
-| 📦 Unrealized | $-11 |
-| 🏦 Total | **$-569** |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-571** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -37,7 +37,7 @@
 | 🔴 Strava | $0.000005 | **0.77x** ($-23) | 1.02x |  | pumpfun | 2026-03-19 23:09 |
 | 🔴 Oracle | $0.000008 | **0.96x** ($-4) | 1.13x |  | pumpfun | 2026-03-19 23:08 |
 | 🔴 Record | $0.000012 | **0.77x** ($-23) | 1.80x |  | pumpfun | 2026-03-19 23:08 |
-| 🟢 Futa-kun | $0.000007 | **3.16x** ($+216) | 4.16x | ✅ | pumpfun | 2026-03-19 23:07 |
+| 🟢 Futa-kun | $0.000007 | **3.11x** ($+211) | 4.16x | ✅ | pumpfun | 2026-03-19 23:07 |
 | 🟢 Luxury | $0.000005 | **2.94x** ($+194) | 4.10x | ✅ | pumpfun | 2026-03-19 22:56 |
 | 🔴 QUIT | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-19 22:56 |
 | 🔴 WABORI | $0.000007 | **0.42x** ($-58) | 1.41x |  | pumpfun | 2026-03-19 22:54 |

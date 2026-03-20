@@ -1,16 +1,16 @@
 # Wallet: `9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv`
 
-> [View on Solscan](https://solscan.io/account/9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-49 |
-| 🏦 Total | **$-49** |
+| 📦 Unrealized | $-104 |
+| 🏦 Total | **$-104** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ELEPHANT | $0.000005 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 00:02 |
+| 🔴 EViRG6FH | $0.000005 | **0.49x** ($-51) | 1.10x |  | pumpfun | 2026-03-20 00:12 |
+| 🔴 ELEPHANT | $0.000005 | **0.47x** ($-53) | 1.00x |  | pumpfun | 2026-03-20 00:02 |
 
 ## Closed Positions
 

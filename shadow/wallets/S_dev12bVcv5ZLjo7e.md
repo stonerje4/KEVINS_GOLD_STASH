@@ -1,16 +1,16 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 00:08 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 00:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
+| Positions | 11 (10 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+44 |
-| 🏦 Total | **$+89** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$+65** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -18,7 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GLANS | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 00:01 |
+| 🔴 WOJAK | $0.000007 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 00:08 |
+| 🔴 HHSMVCWG | $0.000003 | **0.95x** ($-5) | 1.02x |  | pumpfun | 2026-03-20 00:08 |
+| 🔴 GLANS | $0.000003 | **0.90x** ($-10) | 1.03x |  | pumpfun | 2026-03-20 00:01 |
 | 🟡 chibilon | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-19 23:57 |
 | 🔴 6XBYC7LK | $0.000003 | **0.93x** ($-7) | 1.01x |  | pumpfun | 2026-03-19 23:53 |
 | 🟡 PAI | $0.000004 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-19 23:44 |
