@@ -1,6 +1,6 @@
 # Wallet: `5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m`
 
-> [View on Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 06:40 UTC
+> [View on Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 06:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-78 |
-| 📦 Unrealized | $-53 |
-| 🏦 Total | **$-131** |
+| 📦 Unrealized | $-61 |
+| 🏦 Total | **$-139** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Imaginify | $0.000017 | **1.13x** ($+13) | 1.15x |  | pumpfun | 2026-03-20 06:39 |
+| 🟡 Imaginify | $0.000017 | **1.05x** ($+5) | 1.15x |  | pumpfun | 2026-03-20 06:39 |
 | 🔴 PLOTT | $0.000008 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 06:37 |
 | 🔴 SOLANA | $0.000004 | **0.98x** ($-2) | 1.05x |  | pumpfun | 2026-03-20 06:28 |
 | 🟡 NEMO | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:13 |

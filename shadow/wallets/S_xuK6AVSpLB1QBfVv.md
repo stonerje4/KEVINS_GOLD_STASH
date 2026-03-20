@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 06:40 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 06:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 45 (44 open, 1 closed) |
+| Positions | 46 (45 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-109 |
-| 🏦 Total | **$-125** |
+| 📦 Unrealized | $-129 |
+| 🏦 Total | **$-145** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 4/20 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:40 |
+| 🔴 AEkbUJLT | $0.000003 | **0.82x** ($-18) | 1.06x |  | pumpfun | 2026-03-20 06:44 |
+| 🔴 4/20 | $0.000003 | **0.99x** ($-1) | 1.02x |  | pumpfun | 2026-03-20 06:40 |
 | 🔴 HUGH | $0.000003 | **0.88x** ($-12) | 1.03x |  | pumpfun | 2026-03-20 06:36 |
 | 🔴 MOHAMAD | $0.000003 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 06:33 |
 | 🔴 NBR | $0.000003 | **0.82x** ($-18) | 1.11x |  | pumpfun | 2026-03-20 06:28 |
@@ -32,7 +33,7 @@
 | 🟡 Yuki-chan | $0.000003 | **1.08x** ($+8) | 1.26x |  | pumpfun | 2026-03-20 04:00 |
 | 🔴 NoScam | $0.000003 | **0.81x** ($-19) | 1.17x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 Income | $0.000003 | **0.82x** ($-18) | 1.20x |  | pumpfun | 2026-03-20 03:29 |
-| 🚀 Nonchalant | $0.000003 | **5.08x** ($+408) | 5.69x | ✅ | pumpfun | 2026-03-20 03:18 |
+| 🚀 Nonchalant | $0.000003 | **5.05x** ($+405) | 5.69x | ✅ | pumpfun | 2026-03-20 03:18 |
 | 🔴 KIIUS | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 03:16 |
 | 🔴 Nonchalant | $0.000003 | **0.96x** ($-4) | 1.12x |  | pumpfun | 2026-03-20 02:50 |
 | 🔴 pepe | $0.000003 | **0.91x** ($-9) | 1.14x |  | pumpfun | 2026-03-20 02:44 |

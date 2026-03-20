@@ -1,6 +1,6 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 06:40 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 06:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (19 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $+281 |
-| 🏦 Total | **$+195** |
+| 📦 Unrealized | $+285 |
+| 🏦 Total | **$+199** |
 | Best Trade | 0.1x |
 | Avg Peak | 1.0x |
 
@@ -25,7 +25,7 @@
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:27 |
 | 🟡 OSP | $0.000003 | **1.26x** ($+26) | 1.41x |  | pumpfun | 2026-03-20 04:25 |
 | 🟢 MSBT | $0.000003 | **2.06x** ($+106) | 2.18x | ✅ | pumpfun | 2026-03-20 04:18 |
-| 🟡 USRNR | $0.000003 | **1.80x** ($+80) | 1.80x |  | pumpfun | 2026-03-20 03:23 |
+| 🟡 USRNR | $0.000003 | **1.84x** ($+84) | 1.84x |  | pumpfun | 2026-03-20 03:23 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:07 |
 | 🟡 SolGany | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:23 |
 | 🟡 SCRATCOFF | $0.000004 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 02:03 |

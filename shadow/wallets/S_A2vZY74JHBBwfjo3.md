@@ -1,29 +1,29 @@
-# Wallet: `8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe`
+# Wallet: `A2vZY74JHBBwfjo3F1Bo5iiLXpABfAhmgdyfUGzABY9F`
 
-> [View on Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 06:45 UTC
+> [View on Solscan](https://solscan.io/account/A2vZY74JHBBwfjo3F1Bo5iiLXpABfAhmgdyfUGzABY9F) | Updated: 2026-03-20 06:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-63 |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-63** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| 🏦 Total | **$+0** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WIZARD | $0.000356 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:44 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Patricia | 0.37x | $-63 | stop_loss | 1.24x | pumpswap | 2026-03-19 23:16 → 2026-03-20 02:38 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

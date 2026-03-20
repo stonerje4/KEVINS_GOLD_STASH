@@ -1,27 +1,29 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 06:40 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 06:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 51 (34 open, 17 closed) |
-| W/L | 1/16 (6%) |
-| 💵 Realized | $-739 |
-| 📦 Unrealized | $-517 |
-| 🏦 Total | **$-1,256** |
-| Best Trade | 1.4x |
-| Avg Peak | 1.8x |
+| Positions | 55 (36 open, 19 closed) |
+| W/L | 2/17 (11%) |
+| 💵 Realized | $-710 |
+| 📦 Unrealized | $-658 |
+| 🏦 Total | **$-1,368** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 7DMq1AbA | $0.000008 | **1.17x** ($+17) | 2.17x | ✅ | pumpfun | 2026-03-20 06:35 |
-| 🔴 DOOMERCYCLE | $0.000007 | **0.53x** ($-47) | 1.66x |  | pumpfun | 2026-03-20 06:33 |
+| 🔴 29tcP9b3 | $0.000004 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 06:45 |
+| 🔴 GETCLAW | $0.000006 | **0.43x** ($-57) | 1.25x |  | pumpfun | 2026-03-20 06:44 |
+| 🔴 BOAR | $0.000012 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-20 06:42 |
+| 🔴 2u4WY5Ui | $0.000006 | **0.73x** ($-27) | 1.91x |  | pumpfun | 2026-03-20 06:41 |
+| 🔴 DOOMERCYCLE | $0.000007 | **0.58x** ($-42) | 1.66x |  | pumpfun | 2026-03-20 06:33 |
 | 🔴 Hawk | $0.000005 | **0.46x** ($-54) | 1.20x |  | pumpfun | 2026-03-20 06:26 |
-| 🟡 AVATAR | $0.000038 | **1.65x** ($+65) | 3.03x | ✅ | pumpswap | 2026-03-20 06:20 |
 | 🔴 7MDPtxq1 | $0.000005 | **0.46x** ($-54) | 1.19x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 EA | $0.000002 | **0.69x** ($-31) | 1.33x |  | pumpswap | 2026-03-20 05:57 |
 | 🟢 DBT5vdmZ | $0.000010 | **3.59x** ($+259) | 3.59x | ✅ | pumpfun | 2026-03-20 05:51 |
@@ -57,6 +59,8 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 7DMq1AbA | 0.81x | $-19 | trailing_stop_2x | 2.17x | pumpfun | 2026-03-20 06:35 → 2026-03-20 06:43 |
+| 🟡 AVATAR | 1.49x | $+49 | trailing_stop_3x | 3.03x | pumpswap | 2026-03-20 06:20 → 2026-03-20 06:41 |
 | 🔴 startpup | 0.38x | $-62 | stop_loss | 1.27x | pumpfun | 2026-03-20 06:01 → 2026-03-20 06:20 |
 | 🔴 Hoverboard | 0.37x | $-63 | stop_loss | 1.40x | pumpfun | 2026-03-20 05:33 → 2026-03-20 05:39 |
 | 🔴 Fk6LNJWo | 0.74x | $-26 | trailing_stop_2x | 2.08x | pumpfun | 2026-03-20 05:17 → 2026-03-20 05:29 |
