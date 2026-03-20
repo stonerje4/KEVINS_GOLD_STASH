@@ -9,16 +9,16 @@
 | Positions | 24 (20 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-104 |
-| 📦 Unrealized | $+154 |
-| 🏦 Total | **$+50** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.0x |
+| 📦 Unrealized | $+159 |
+| 🏦 Total | **$+55** |
+| Best ROI | 1.49x |
+| Avg ROI | 0.74x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Coglet | $0.000010 | **0.95x** ($-5) | 1.37x |  | pumpfun | 2026-03-20 13:21 |
+| 🟡 Coglet | $0.000010 | **1.00x** ($+0) | 1.37x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Foodrot | $0.000123 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
 | 🟡 ME | $0.000006 | **1.25x** ($+25) | 1.53x |  | pumpfun | 2026-03-20 12:51 |

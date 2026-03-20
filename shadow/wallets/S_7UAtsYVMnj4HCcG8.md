@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (7 open, 1 closed) |
+| Positions | 9 (8 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-99 |
 | 📦 Unrealized | $+29 |
 | 🏦 Total | **$-70** |
-| Best Trade | 0.0x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.01x |
+| Avg ROI | 0.01x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ALIENBABY | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🟡 THOT | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 ALT | $0.000147 | **1.29x** ($+29) | 1.32x |  | cpmm | 2026-03-20 08:55 |
 | 🟡 SOL#000 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:53 |

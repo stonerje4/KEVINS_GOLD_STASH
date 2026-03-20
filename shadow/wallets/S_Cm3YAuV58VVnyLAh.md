@@ -9,17 +9,17 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+337 |
-| 🏦 Total | **$+337** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+308 |
+| 🏦 Total | **$+308** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CULTURE | $0.000013 | **0.65x** ($-35) | 1.24x |  | pumpfun | 2026-03-20 13:40 |
-| 🚀 methane | $0.000004 | **16.01x** ($+1,501) | 16.41x | ✅ | cpmm | 2026-03-20 13:15 |
+| 🔴 CULTURE | $0.000013 | **0.62x** ($-38) | 1.24x |  | pumpfun | 2026-03-20 13:40 |
+| 🚀 methane | $0.000004 | **14.95x** ($+1,395) | 16.56x | ✅ | cpmm | 2026-03-20 13:15 |
 
 ## Closed Positions
 

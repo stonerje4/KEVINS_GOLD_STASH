@@ -9,16 +9,16 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-1 |
-| 🏦 Total | **$-1** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-23 |
+| 🏦 Total | **$-23** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIPPIN | $0.000011 | **0.99x** ($-1) | 1.17x |  | pumpfun | 2026-03-20 13:36 |
+| 🔴 CHIPPIN | $0.000011 | **0.77x** ($-23) | 1.17x |  | pumpfun | 2026-03-20 13:36 |
 | 🟡 Chibi | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:43 |
 | 🟡 ChibiWhale | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:23 |
 

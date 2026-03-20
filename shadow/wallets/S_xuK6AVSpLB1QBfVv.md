@@ -9,16 +9,16 @@
 | Positions | 77 (76 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-290 |
-| 🏦 Total | **$-307** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.1x |
+| 📦 Unrealized | $-293 |
+| 🏦 Total | **$-310** |
+| Best ROI | 0.83x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GROKTIRED | $0.000003 | **1.05x** ($+5) | 1.06x |  | pumpfun | 2026-03-20 13:34 |
+| 🟡 GROKTIRED | $0.000003 | **1.03x** ($+3) | 1.06x |  | pumpfun | 2026-03-20 13:34 |
 | 🔴 DOJI | $0.000003 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-20 13:32 |
 | 🔴 PIKACHUGS | $0.000003 | **0.90x** ($-10) | 1.07x |  | pumpfun | 2026-03-20 13:28 |
 | 🟡 $1RUN | $0.000003 | **1.07x** ($+7) | 1.10x |  | pumpfun | 2026-03-20 13:22 |

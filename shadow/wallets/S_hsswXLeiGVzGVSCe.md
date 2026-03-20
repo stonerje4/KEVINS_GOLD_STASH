@@ -9,16 +9,16 @@
 | Positions | 153 (138 open, 15 closed) |
 | W/L | 7/8 (47%) |
 | 💵 Realized | $+1,019 |
-| 📦 Unrealized | $-2,637 |
-| 🏦 Total | **$-1,618** |
-| Best Trade | 5.9x |
-| Avg Peak | 4.0x |
+| 📦 Unrealized | $-2,633 |
+| 🏦 Total | **$-1,614** |
+| Best ROI | 5.93x |
+| Avg ROI | 1.68x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BEiMY5Wf | $0.000004 | **0.93x** ($-7) | 1.07x |  | pumpfun | 2026-03-20 13:43 |
+| 🔴 BEiMY5Wf | $0.000004 | **0.97x** ($-3) | 1.07x |  | pumpfun | 2026-03-20 13:43 |
 | 🔴 WRONG | $0.000003 | **0.80x** ($-20) | 1.24x |  | pumpfun | 2026-03-20 13:30 |
 | 🔴 chibi | $0.000005 | **0.76x** ($-24) | 1.00x |  | pumpfun | 2026-03-20 13:30 |
 | 🟡 COGLET | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:41 |
