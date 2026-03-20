@@ -1,24 +1,23 @@
 # Wallet: `CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs`
 
-> [View on Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 07:15 UTC
+> [View on Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 07:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (9 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-78 |
-| 📦 Unrealized | $+125 |
-| 🏦 Total | **$+48** |
+| Positions | 11 (8 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-94 |
+| 📦 Unrealized | $+127 |
+| 🏦 Total | **$+33** |
 | Best Trade | 0.8x |
-| Avg Peak | 1.9x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Imaginify | $0.000011 | **0.96x** ($-4) | 2.63x | ✅ | pumpfun | 2026-03-20 05:05 |
 | 🟡 HelloWorld! | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
 | 🟡 Jeremy | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:17 |
 | 🟢 credit | $0.000012 | **3.05x** ($+205) | 3.05x | ✅ | pumpfun | 2026-03-20 03:16 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Imaginify | 0.84x | $-16 | trailing_stop_3x | 2.63x | pumpfun | 2026-03-20 05:05 → 2026-03-20 07:16 |
 | 🟡 Patience | 0.82x | $-18 | trailing_stop_3x | 2.52x | pumpfun | 2026-03-20 03:13 → 2026-03-20 03:25 |
 | 🔴 Surge | 0.40x | $-60 | stop_loss | 1.19x | pumpfun | 2026-03-20 02:13 → 2026-03-20 02:17 |
 

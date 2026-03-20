@@ -1,16 +1,16 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 07:15 UTC
+> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 07:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
+| Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+31 |
-| 🏦 Total | **$-46** |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$-69** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 CHIBELON | $0.000062 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 07:18 |
 | 🟡 ZeroG | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
-| 🔴 INCOME | $0.000553 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 06:50 |
+| 🔴 INCOME | $0.000553 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-20 06:50 |
 | 🟡 Unemployed | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:48 |
 | 🟡 Rosie | $0.000876 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:29 |
 | 🔴 LIBERTY | $0.000004 | **0.84x** ($-16) | 1.04x |  | pumpfun | 2026-03-19 23:30 |

@@ -1,6 +1,6 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 07:15 UTC
+> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 07:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$+4** |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-13** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 QUIT | $0.000016 | **1.25x** ($+25) | 1.34x |  | pumpfun | 2026-03-20 07:06 |
-| 🔴 INCOME | $0.000685 | **0.80x** ($-20) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
+| 🟡 QUIT | $0.000016 | **1.07x** ($+7) | 1.34x |  | pumpfun | 2026-03-20 07:06 |
+| 🔴 INCOME | $0.000685 | **0.79x** ($-21) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
 
 ## Closed Positions
 

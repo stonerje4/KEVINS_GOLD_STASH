@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 07:15 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 07:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 59 (40 open, 19 closed) |
 | W/L | 2/17 (11%) |
 | 💵 Realized | $-710 |
-| 📦 Unrealized | $-782 |
-| 🏦 Total | **$-1,492** |
+| 📦 Unrealized | $-807 |
+| 🏦 Total | **$-1,517** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AVATAR | $0.000069 | **0.89x** ($-11) | 1.12x |  | pumpswap | 2026-03-20 07:03 |
+| 🔴 AVATAR | $0.000069 | **0.69x** ($-31) | 1.12x |  | pumpswap | 2026-03-20 07:03 |
 | 🟡 Pixels | $0.000024 | **1.53x** ($+53) | 1.53x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000005 | **0.47x** ($-53) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 Otocolobus | $0.000004 | **0.63x** ($-37) | 1.37x |  | pumpfun | 2026-03-20 06:49 |
 | 🔴 29tcP9b3 | $0.000004 | **0.56x** ($-44) | 1.56x |  | pumpfun | 2026-03-20 06:45 |
 | 🔴 GETCLAW | $0.000006 | **0.43x** ($-57) | 1.25x |  | pumpfun | 2026-03-20 06:44 |
-| 🔴 BOAR | $0.000012 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 06:42 |
-| 🔴 2u4WY5Ui | $0.000006 | **0.51x** ($-49) | 1.91x |  | pumpfun | 2026-03-20 06:41 |
+| 🔴 BOAR | $0.000012 | **0.66x** ($-34) | 1.04x |  | pumpswap | 2026-03-20 06:42 |
+| 🔴 2u4WY5Ui | $0.000006 | **0.49x** ($-51) | 1.91x |  | pumpfun | 2026-03-20 06:41 |
 | 🔴 DOOMERCYCLE | $0.000007 | **0.52x** ($-48) | 1.66x |  | pumpfun | 2026-03-20 06:33 |
 | 🔴 Hawk | $0.000005 | **0.46x** ($-54) | 1.20x |  | pumpfun | 2026-03-20 06:26 |
 | 🔴 7MDPtxq1 | $0.000005 | **0.46x** ($-54) | 1.19x |  | pumpfun | 2026-03-20 06:00 |

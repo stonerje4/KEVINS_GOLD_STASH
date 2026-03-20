@@ -1,6 +1,6 @@
 # Wallet: `HhABnzict8byp1XsU4wVYCV6oYYvsydXjjEqifB48qpb`
 
-> [View on Solscan](https://solscan.io/account/HhABnzict8byp1XsU4wVYCV6oYYvsydXjjEqifB48qpb) | Updated: 2026-03-20 07:15 UTC
+> [View on Solscan](https://solscan.io/account/HhABnzict8byp1XsU4wVYCV6oYYvsydXjjEqifB48qpb) | Updated: 2026-03-20 07:20 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 AIFRUITS | $0.000682 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:47 |
 | 🔴 Aliens | $0.000823 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:05 |
-| 🔴 INCOME | $0.000622 | **0.88x** ($-12) | 1.18x |  | pumpswap | 2026-03-19 23:32 |
+| 🔴 INCOME | $0.000622 | **0.87x** ($-13) | 1.18x |  | pumpswap | 2026-03-19 23:32 |
 
 ## Closed Positions
 

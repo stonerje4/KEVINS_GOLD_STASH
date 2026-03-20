@@ -1,12 +1,12 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 07:15 UTC
+> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 07:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (4 open, 1 closed) |
+| Positions | 6 (5 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+49 |
 | 📦 Unrealized | $-37 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 驚き | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:19 |
 | 🟡 SMCI | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:23 |
 | 🔴 INR | $0.000003 | **0.82x** ($-18) | 1.29x |  | pumpfun | 2026-03-20 02:31 |
 | 🟡 CHANNELS | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
