@@ -1,16 +1,16 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 03:59 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 04:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 75 (74 open, 1 closed) |
+| Positions | 76 (75 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$-71** |
+| 📦 Unrealized | $+11 |
+| 🏦 Total | **$-66** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,15 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |
 | 🟡 mogging | $0.000048 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 03:40 |
 | 🟡 AIFRUITS | $0.000659 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 Pete | $0.000252 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 CLAW3D | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 OILINU | $0.000078 | **1.04x** ($+4) | 1.06x |  | pumpswap | 2026-03-20 03:18 |
-| 🔴 SAID | $0.000276 | **0.99x** ($-1) | 1.07x |  | pumpswap | 2026-03-20 03:15 |
-| 🔴 Retardmaxx | $0.000354 | **1.00x** ($-0) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
-| 🟡 Machi | $0.000735 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-20 02:57 |
+| 🟡 SAID | $0.000276 | **1.03x** ($+3) | 1.07x |  | pumpswap | 2026-03-20 03:15 |
+| 🔴 Retardmaxx | $0.000354 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
+| 🟡 Machi | $0.000735 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 Rosie | $0.000879 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🟡 Snorp | $0.000215 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 WURK | $0.000138 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |

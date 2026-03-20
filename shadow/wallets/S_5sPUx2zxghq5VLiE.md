@@ -1,6 +1,6 @@
 # Wallet: `5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg`
 
-> [View on Solscan](https://solscan.io/account/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | Updated: 2026-03-20 03:59 UTC
+> [View on Solscan](https://solscan.io/account/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | Updated: 2026-03-20 04:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+192 |
-| 🏦 Total | **$+192** |
+| 📦 Unrealized | $+186 |
+| 🏦 Total | **$+186** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Dryer | $0.000020 | **1.09x** ($+9) | 1.36x |  | pumpfun | 2026-03-20 03:37 |
+| 🟡 Dryer | $0.000020 | **1.04x** ($+4) | 1.36x |  | pumpfun | 2026-03-20 03:37 |
 | 🟢 ceal | $0.000010 | **3.52x** ($+252) | 3.52x | ✅ | pumpfun | 2026-03-20 03:30 |
 | 🔴 驚き | $0.000020 | **0.71x** ($-29) | 1.19x |  | pumpswap | 2026-03-20 00:37 |
 | 🟡 LUMO | $0.000028 | **1.91x** ($+91) | 2.09x | ✅ | pumpswap | 2026-03-19 23:48 |

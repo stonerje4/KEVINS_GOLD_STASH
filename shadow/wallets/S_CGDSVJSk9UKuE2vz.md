@@ -1,29 +1,29 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 03:59 UTC
+> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 04:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (10 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+13 |
-| 🏦 Total | **$+13** |
+| Positions | 11 (10 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-100 |
+| 📦 Unrealized | $+12 |
+| 🏦 Total | **$-88** |
 | Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FIREBALL | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:01 |
 | 🔴 GMESHIRE | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
-| 🟡 BBBY | $0.000010 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 03:36 |
 | 🟡 HIMS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 nl | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
 | 🔴 WBE | $0.000009 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
-| 🔴 Gizmo | $0.000016 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 02:19 |
+| 🔴 Gizmo | $0.000016 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 02:19 |
 | 🔴 BBBY | $0.000005 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 01:39 |
 | 🟡 Chibi | $0.000006 | **1.20x** ($+20) | 1.36x |  | cpmm | 2026-03-20 00:50 |
 | 🟡 RWA | $139.856155 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-19 23:32 |
@@ -33,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 BBBY | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 03:36 → 2026-03-20 04:03 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

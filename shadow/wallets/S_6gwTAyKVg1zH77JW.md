@@ -1,16 +1,16 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:59 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 04:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 109 (107 open, 2 closed) |
+| Positions | 110 (108 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $+84 |
-| 🏦 Total | **$+322** |
+| 📦 Unrealized | $+89 |
+| 🏦 Total | **$+328** |
 | Best Trade | 2.9x |
 | Avg Peak | 6.2x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Gascoin | $0.000031 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
+| 🟡 KIWI | $0.000146 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:00 |
+| 🟡 Gascoin | $0.000031 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:48 |
 | 🟡 HOSPICE | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:47 |
 | 🟡 PYRO | $0.000036 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 UGOR | $0.000907 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000102 | **1.24x** ($+24) | 1.40x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000102 | **1.25x** ($+25) | 1.40x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CHIBI | $0.000747 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 CIRCLES | $0.000065 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
 | 🟡 APES | $0.000172 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:14 |

@@ -1,12 +1,12 @@
-# Wallet: `5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC`
+# Wallet: `GeoV6vnc1wdn4cgY8bL2upKMamvfPMKvKDr6N1mqWKRo`
 
-> [View on Solscan](https://solscan.io/account/5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC) | Updated: 2026-03-20 04:04 UTC
+> [View on Solscan](https://solscan.io/account/GeoV6vnc1wdn4cgY8bL2upKMamvfPMKvKDr6N1mqWKRo) | Updated: 2026-03-20 04:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (4 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
@@ -18,10 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WRT | $0.000033 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 03:44 |
-| 🟡 WRT | $0.000033 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 03:25 |
-| 🟡 WRT | $0.000032 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 03:06 |
-| 🟡 USOR | $0.000087 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-19 22:36 |
+| 🟡 DOGEFATHER | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 
 ## Closed Positions
 
