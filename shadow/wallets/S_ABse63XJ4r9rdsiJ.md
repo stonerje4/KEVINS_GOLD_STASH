@@ -1,6 +1,6 @@
 # Wallet: `ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D`
 
-> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 08:51 UTC
+> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 08:56 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (14 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+61 |
-| 🏦 Total | **$+61** |
+| 📦 Unrealized | $+59 |
+| 🏦 Total | **$+59** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -22,7 +22,7 @@
 | 🟡 Saleh | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
 | 🟡 Possum | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:34 |
 | 🟡 ZeroG | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:01 |
-| 🔴 HUGH | $0.000004 | **0.67x** ($-33) | 1.00x |  | pumpfun | 2026-03-20 05:50 |
+| 🔴 HUGH | $0.000004 | **0.65x** ($-35) | 1.00x |  | pumpfun | 2026-03-20 05:50 |
 | 🟡 JupUSD | $0.182933 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:28 |
 | 🟡 Manosphere | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:20 |
 | 🔴 CHIBITRUMP | $0.000004 | **0.92x** ($-8) | 1.15x |  | pumpfun | 2026-03-20 05:13 |

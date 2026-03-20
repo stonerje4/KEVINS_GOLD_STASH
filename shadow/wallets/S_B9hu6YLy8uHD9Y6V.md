@@ -1,16 +1,16 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 08:51 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 08:56 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 65 (0 open, 65 closed) |
-| W/L | 0/65 (0%) |
-| 💵 Realized | $-6,494 |
+| Positions | 68 (0 open, 68 closed) |
+| W/L | 0/68 (0%) |
+| 💵 Realized | $-6,793 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-6,494** |
+| 🏦 Total | **$-6,793** |
 | Best Trade | 0.0x |
 | Avg Peak | 1.0x |
 
@@ -23,6 +23,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Loong | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:54 → 2026-03-20 08:54 |
+| 🔴 Loong | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:53 → 2026-03-20 08:53 |
+| 🔴 Loong | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:51 → 2026-03-20 08:51 |
 | 🔴 Loong | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:49 → 2026-03-20 08:49 |
 | 🔴 Loong | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:47 → 2026-03-20 08:47 |
 | 🔴 Loong | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:45 → 2026-03-20 08:45 |

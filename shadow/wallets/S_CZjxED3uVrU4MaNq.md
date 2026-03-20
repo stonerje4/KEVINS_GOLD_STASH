@@ -1,16 +1,16 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
 
-> [View on Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-20 08:51 UTC
+> [View on Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-20 08:56 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (4 open, 0 closed) |
+| Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-13 |
-| 🏦 Total | **$-13** |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$-18** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Zhdun | $0.000020 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 08:55 |
 | 🟡 GROKHOUSE | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:38 |
 | 🔴 Bvzbq9YH | $0.000003 | **0.87x** ($-13) | 1.10x |  | pumpfun | 2026-03-20 08:36 |
 | 🟡 CLIPHUB | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:04 |

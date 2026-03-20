@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 08:51 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 08:56 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 73 (71 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $-27 |
-| 🏦 Total | **$+3** |
+| 📦 Unrealized | $-32 |
+| 🏦 Total | **$-2** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.1x |
 
@@ -20,8 +20,8 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 COLONEL | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
 | 🟡 GAS | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:46 |
-| 🔴 Chibi | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 08:39 |
-| 🟡 ChibiJak | $0.000003 | **1.15x** ($+15) | 1.27x |  | pumpfun | 2026-03-20 08:38 |
+| 🔴 Chibi | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 08:39 |
+| 🟡 ChibiJak | $0.000003 | **1.07x** ($+7) | 1.27x |  | pumpfun | 2026-03-20 08:38 |
 | 🔴 WFD | $0.000003 | **0.92x** ($-8) | 1.07x |  | pumpfun | 2026-03-20 08:33 |
 | 🔴 OSUUSHI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 08:16 |
 | 🔴 UOR | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 08:05 |
@@ -82,7 +82,7 @@
 | 🔴 WOJAK | $0.000007 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 00:08 |
 | 🔴 HHSMVCWG | $0.000003 | **0.89x** ($-11) | 1.02x |  | pumpfun | 2026-03-20 00:08 |
 | 🔴 GLANS | $0.000003 | **0.86x** ($-14) | 1.03x |  | pumpfun | 2026-03-20 00:01 |
-| 🟡 chibilon | $0.000003 | **1.12x** ($+12) | 1.35x |  | pumpfun | 2026-03-19 23:57 |
+| 🟡 chibilon | $0.000003 | **1.09x** ($+9) | 1.35x |  | pumpfun | 2026-03-19 23:57 |
 | 🔴 6XBYC7LK | $0.000003 | **0.93x** ($-7) | 1.01x |  | pumpfun | 2026-03-19 23:53 |
 | 🟡 PAI | $0.000004 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-19 23:44 |
 | 🟡 HVW1onRa | $0.000003 | **1.36x** ($+36) | 1.37x |  | pumpfun | 2026-03-19 23:39 |
