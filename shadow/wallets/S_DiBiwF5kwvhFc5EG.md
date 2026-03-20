@@ -1,16 +1,16 @@
 # Wallet: `DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft`
 
-> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 17:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 17:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (4 open, 3 closed) |
+| Positions | 8 (5 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-197 |
-| 📦 Unrealized | $+135 |
-| 🏦 Total | **$-61** |
+| 📦 Unrealized | $+136 |
+| 🏦 Total | **$-60** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.34x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Delusion | $0.000007 | **1.01x** ($+1) | 1.09x |  | pumpfun | 2026-03-20 17:51 |
 | 🔴 GBN | $0.000019 | **0.48x** ($-52) | 1.69x |  | pumpswap | 2026-03-20 15:43 |
 | 🟢 DICKUS | $0.000014 | **2.64x** ($+164) | 2.64x | ✅ | pumpfun | 2026-03-20 00:50 |
 | 🟡 PIKE | $0.000035 | **1.25x** ($+25) | 1.26x |  | pumpswap | 2026-03-19 23:28 |

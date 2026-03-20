@@ -1,6 +1,6 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 17:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 17:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (13 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-10 |
-| 🏦 Total | **$-71** |
+| 📦 Unrealized | $-6 |
+| 🏦 Total | **$-67** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000006 | **0.94x** ($-6) | 1.01x |  | pumpswap | 2026-03-20 17:42 |
+| 🔴 CHUCK | $0.000006 | **0.98x** ($-2) | 1.08x |  | pumpswap | 2026-03-20 17:42 |
 | 🟡 CHUCK | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:58 |
 | 🔴 Floki | $0.000016 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 16:07 |
 | 🔴 AlphA | $0.000012 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 15:54 |

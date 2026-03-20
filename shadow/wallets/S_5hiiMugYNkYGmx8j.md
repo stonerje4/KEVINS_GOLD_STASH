@@ -1,16 +1,16 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 17:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 17:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 31 (23 open, 8 closed) |
+| Positions | 32 (24 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-449 |
-| 📦 Unrealized | $+84 |
-| 🏦 Total | **$-365** |
+| 📦 Unrealized | $+82 |
+| 🏦 Total | **$-366** |
 | Best ROI | 1.10x |
 | Avg ROI | 0.44x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHIBI | $0.001921 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:53 |
 | 🔴 CHIBELON | $0.000079 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 16:05 |
 | 🔴 Distorted | $0.000877 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 16:04 |
 | 🟢 Chuck | $0.000126 | **4.89x** ($+389) | 6.53x | ✅ | pumpswap | 2026-03-20 14:19 |
@@ -33,7 +34,7 @@
 | 🟡 Zhdun | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:12 |
 | 🟡 KIMCHI | $0.000435 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:33 |
 | 🔴 IMAGINE | $0.000068 | **0.74x** ($-26) | 1.46x |  | pumpswap | 2026-03-20 08:32 |
-| 🟡 Pixels | $0.000014 | **1.24x** ($+24) | 2.63x | ✅ | pumpswap | 2026-03-20 07:26 |
+| 🟡 Pixels | $0.000014 | **1.20x** ($+20) | 2.63x | ✅ | pumpswap | 2026-03-20 07:26 |
 | 🔴 来根华子 | $0.000018 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
 | 🔴 INCOME | $0.000553 | **0.89x** ($-11) | 1.16x |  | pumpswap | 2026-03-20 06:50 |
 | 🟡 Unemployed | $0.000007 | **1.17x** ($+17) | 1.55x |  | pumpswap | 2026-03-20 06:48 |

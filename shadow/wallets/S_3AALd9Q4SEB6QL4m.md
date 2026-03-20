@@ -1,16 +1,16 @@
 # Wallet: `3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8`
 
-> [GMGN](https://gmgn.ai/sol/address/3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8) | [Solscan](https://solscan.io/account/3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8) | Updated: 2026-03-20 17:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8) | [Solscan](https://solscan.io/account/3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8) | Updated: 2026-03-20 17:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-91 |
+| Positions | 3 (1 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-183 |
 | 📦 Unrealized | $-2 |
-| 🏦 Total | **$-93** |
+| 🏦 Total | **$-184** |
 | Best ROI | 0.09x |
 | Avg ROI | 0.09x |
 
@@ -24,6 +24,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 BURRITO | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 17:52 → 2026-03-20 17:52 |
 | 🔴 eitherway | 0.09x | $-91 | stop_loss | 1.03x | pumpfun | 2026-03-20 16:50 → 2026-03-20 16:54 |
 
 ---

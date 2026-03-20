@@ -1,6 +1,6 @@
 # Wallet: `7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4`
 
-> [GMGN](https://gmgn.ai/sol/address/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | [Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 17:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | [Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 17:55 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 30 (18 open, 12 closed) |
 | W/L | 0/12 (0%) |
 | 💵 Realized | $-1,198 |
-| 📦 Unrealized | $-14 |
+| 📦 Unrealized | $-13 |
 | 🏦 Total | **$-1,212** |
 | Best ROI | 0.01x |
 | Avg ROI | 0.00x |
@@ -26,7 +26,7 @@
 | 🔴 ASSDAQ | $0.000170 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 15:23 |
 | 🔴 唐子兵法 | $0.000006 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 15:18 |
 | 🟡 pippin | $0.124294 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:14 |
-| 🟡 YEPE | $0.000131 | **1.02x** ($+2) | 1.30x |  | pumpswap | 2026-03-20 15:14 |
+| 🟡 YEPE | $0.000131 | **1.03x** ($+3) | 1.30x |  | pumpswap | 2026-03-20 15:14 |
 | 🔴 BONER | $0.000177 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
 | 🔴 $PRINT | $0.002412 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
 | 🔴 Franklin | $0.000111 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:51 |

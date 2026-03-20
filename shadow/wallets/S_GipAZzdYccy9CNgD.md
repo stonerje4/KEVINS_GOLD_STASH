@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 17:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 17:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (11 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-267 |
-| 📦 Unrealized | $+279 |
-| 🏦 Total | **$+12** |
+| 📦 Unrealized | $+305 |
+| 🏦 Total | **$+38** |
 | Best ROI | 0.80x |
 | Avg ROI | 0.33x |
 
@@ -26,7 +26,7 @@
 | 🟡 Samba | $0.000006 | **1.71x** ($+71) | 2.00x | ✅ | pumpswap | 2026-03-20 05:14 |
 | 🟡 UOR | $0.000035 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 SHOENICE  | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
-| 🟡 DRONE | $0.000041 | **1.28x** ($+28) | 1.30x |  | pumpswap | 2026-03-20 01:08 |
+| 🟡 DRONE | $0.000041 | **1.55x** ($+55) | 1.55x |  | pumpswap | 2026-03-20 01:08 |
 | 🟢 WRT | $0.000007 | **4.62x** ($+362) | 4.62x | ✅ | pumpswap | 2026-03-20 00:59 |
 | 🟡 NICKELS | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:57 |
 

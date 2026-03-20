@@ -1,16 +1,16 @@
 # Wallet: `6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt`
 
-> [GMGN](https://gmgn.ai/sol/address/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | [Solscan](https://solscan.io/account/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | Updated: 2026-03-20 17:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | [Solscan](https://solscan.io/account/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | Updated: 2026-03-20 17:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
+| Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-74 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-106** |
+| 📦 Unrealized | $-33 |
+| 🏦 Total | **$-107** |
 | Best ROI | 0.26x |
 | Avg ROI | 0.26x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBIELON | $0.000026 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 17:43 |
+| 🟡 FOID | $0.000078 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:54 |
+| 🔴 CHIBIELON | $0.000026 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 17:43 |
 | 🟡 Sunshine | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:19 |
 | 🟡 CHIBI | $0.000058 | **1.01x** ($+1) | 1.11x |  | pumpswap | 2026-03-20 01:16 |
 
