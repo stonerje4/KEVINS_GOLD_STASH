@@ -1,16 +1,16 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 09:26 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 09:31 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 28 (25 open, 3 closed) |
+| Positions | 29 (26 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-147 |
-| 📦 Unrealized | $+54 |
-| 🏦 Total | **$-93** |
+| 📦 Unrealized | $+45 |
+| 🏦 Total | **$-102** |
 | Best Trade | 0.7x |
 | Avg Peak | 2.6x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 OSP | $0.000003 | **0.91x** ($-9) | 1.14x |  | pumpfun | 2026-03-20 09:31 |
 | 🟡 LNG | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 08:25 |
 | 🔴 LNG | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 Sunshine | $0.000006 | **0.42x** ($-58) | 1.49x |  | pumpfun | 2026-03-20 08:17 |

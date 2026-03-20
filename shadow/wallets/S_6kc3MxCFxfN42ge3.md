@@ -1,16 +1,16 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 09:26 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 09:31 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 68 (47 open, 21 closed) |
+| Positions | 69 (48 open, 21 closed) |
 | W/L | 4/17 (19%) |
 | 💵 Realized | $-549 |
-| 📦 Unrealized | $-1,355 |
-| 🏦 Total | **$-1,904** |
+| 📦 Unrealized | $-1,380 |
+| 🏦 Total | **$-1,929** |
 | Best Trade | 3.0x |
 | Avg Peak | 2.0x |
 
@@ -18,15 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WRONG | $0.000008 | **1.00x** ($+0) | 1.20x |  | pumpfun | 2026-03-20 09:23 |
-| 🔴 omochi | $0.000022 | **0.56x** ($-44) | 1.11x |  | pumpfun | 2026-03-20 09:19 |
+| 🔴 Doolysaurus | $0.000013 | **1.00x** ($-0) | 1.36x |  | pumpfun | 2026-03-20 09:28 |
+| 🔴 WRONG | $0.000008 | **0.83x** ($-17) | 1.20x |  | pumpfun | 2026-03-20 09:23 |
+| 🔴 omochi | $0.000022 | **0.63x** ($-37) | 1.11x |  | pumpfun | 2026-03-20 09:19 |
 | 🔴 Income | $0.000006 | **0.44x** ($-56) | 1.06x |  | pumpfun | 2026-03-20 09:13 |
 | 🔴 Income | $0.000006 | **0.44x** ($-56) | 1.83x |  | pumpfun | 2026-03-20 09:04 |
 | 🔴 VOID | $0.000290 | **0.52x** ($-48) | 1.07x |  | cpmm | 2026-03-20 08:59 |
 | 🔴 FMxZcC62 | $0.000006 | **0.42x** ($-58) | 1.01x |  | pumpfun | 2026-03-20 08:58 |
 | 🔴 GNr5Byrt | $0.000005 | **0.46x** ($-54) | 1.14x |  | pumpfun | 2026-03-20 08:56 |
 | 🔴 Grok | $0.000006 | **0.45x** ($-55) | 1.16x |  | pumpfun | 2026-03-20 08:54 |
-| 🔴 OM | $0.000013 | **0.82x** ($-18) | 1.75x |  | pumpfun | 2026-03-20 08:18 |
+| 🔴 OM | $0.000013 | **0.68x** ($-32) | 1.75x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000006 | **0.45x** ($-55) | 1.65x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.53x** ($-47) | 1.12x |  | pumpfun | 2026-03-20 08:09 |
 | 🔴 BGEYapkY | $0.000005 | **0.54x** ($-46) | 1.29x |  | pumpfun | 2026-03-20 07:41 |

@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 09:26 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 09:31 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 74 (72 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $-86 |
-| 🏦 Total | **$-56** |
+| 📦 Unrealized | $-88 |
+| 🏦 Total | **$-58** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.1x |
 
@@ -29,16 +29,16 @@
 | 🟡 BBX | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 08:04 |
 | 🔴 $Chibi | $0.000003 | **0.88x** ($-12) | 1.21x |  | pumpfun | 2026-03-20 07:55 |
 | 🟡 COLONEL | $0.000005 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 07:37 |
-| 🟡 CHIBLON | $0.000003 | **1.21x** ($+21) | 1.94x |  | pumpfun | 2026-03-20 07:32 |
+| 🟡 CHIBLON | $0.000003 | **1.17x** ($+17) | 1.94x |  | pumpfun | 2026-03-20 07:32 |
 | 🔴 CHIBIFY | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 07:20 |
 | 🟡 GLQbYphM | $0.000003 | **1.03x** ($+3) | 1.24x |  | pumpfun | 2026-03-20 07:17 |
 | 🔴 OILLESS | $0.000004 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 07:07 |
 | 🔴 ‎  | $0.000003 | **0.85x** ($-15) | 1.32x |  | pumpfun | 2026-03-20 07:04 |
 | 🔴 OIL | $0.000005 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 06:57 |
 | 🔴 NBIS | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
-| 🔴 COLONEL | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 06:30 |
+| 🔴 COLONEL | $0.000003 | **0.96x** ($-4) | 1.04x |  | pumpfun | 2026-03-20 06:30 |
 | 🟡 PHM | $0.000004 | **1.05x** ($+5) | 1.23x |  | pumpfun | 2026-03-20 06:29 |
-| 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 06:29 |
+| 🔴 COLONEL | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 06:29 |
 | 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.01x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
 | 🟡 Invincible | $0.000007 | **1.12x** ($+12) | 1.26x |  | pumpfun | 2026-03-20 06:20 |
