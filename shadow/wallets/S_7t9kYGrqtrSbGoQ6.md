@@ -1,16 +1,16 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 03:19 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 03:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 169 (167 open, 2 closed) |
+| Positions | 173 (171 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+121 |
-| 📦 Unrealized | $+209 |
-| 🏦 Total | **$+329** |
+| 📦 Unrealized | $+208 |
+| 🏦 Total | **$+328** |
 | Best Trade | 3.0x |
 | Avg Peak | 4.3x |
 
@@ -18,7 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SAID | $0.000270 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 03:16 |
+| 🟡 creature | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000104 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
+| 🟡 HeavyPulp | $0.000927 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:19 |
+| 🔴 SAID | $0.000270 | **0.96x** ($-4) | 1.05x |  | pumpswap | 2026-03-20 03:16 |
 | 🟡 Wob | $0.000019 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 03:02 |
 | 🟡 42 | $0.000042 | **1.06x** ($+6) | 1.52x |  | pumpswap | 2026-03-20 02:57 |
 | 🔴 Lucia | $0.000032 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
@@ -130,7 +134,7 @@
 | 🟡 Solana | $0.000184 | **1.05x** ($+5) | 1.21x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 bio/acc | $0.000017 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:41 |
 | 🟡 TheSpot | $0.000016 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-19 23:40 |
-| 🔴 OILINU | $0.000089 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-19 23:38 |
+| 🔴 OILINU | $0.000089 | **0.92x** ($-8) | 1.01x |  | pumpswap | 2026-03-19 23:38 |
 | 🟡 XAI | $0.000169 | **1.55x** ($+55) | 1.99x |  | pumpswap | 2026-03-19 23:36 |
 | 🟡 Distorted | $0.001086 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 HEY | $0.000728 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 23:35 |

@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:19 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 79 (76 open, 3 closed) |
+| Positions | 80 (77 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+242 |
-| 🏦 Total | **$+152** |
+| 📦 Unrealized | $+238 |
+| 🏦 Total | **$+148** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 Solana | $0.000173 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:18 |
-| 🔴 SAID | $0.000274 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 03:15 |
+| 🔴 SAID | $0.000274 | **0.95x** ($-5) | 1.04x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 Retardmaxx | $0.000356 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Rosie | $0.000878 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
@@ -75,7 +76,7 @@
 | 🟡 Alien | $0.000014 | **1.61x** ($+61) | 1.71x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000025 | **1.20x** ($+20) | 1.21x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 KIWI | $0.000158 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-19 23:43 |
-| 🔴 OILINU | $0.000090 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
+| 🔴 OILINU | $0.000090 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
 | 🔴 Patricia | $0.000024 | **0.60x** ($-40) | 1.94x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Monke | $0.000013 | **0.64x** ($-36) | 1.04x |  | pumpswap | 2026-03-19 23:30 |
 | 🟡 Nigel | $0.000195 | **1.07x** ($+7) | 1.36x |  | pumpswap | 2026-03-19 23:24 |

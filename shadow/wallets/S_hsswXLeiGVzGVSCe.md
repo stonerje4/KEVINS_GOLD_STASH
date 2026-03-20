@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 03:19 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 03:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 98 (90 open, 8 closed) |
+| Positions | 102 (94 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+999 |
-| 📦 Unrealized | $-1,328 |
-| 🏦 Total | **$-329** |
+| 📦 Unrealized | $-1,399 |
+| 🏦 Total | **$-400** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.7x |
 
@@ -18,10 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 8pr5Afkz | $0.000004 | **0.91x** ($-9) | 1.12x |  | pumpfun | 2026-03-20 03:13 |
+| 🟡 SMCI | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:23 |
+| 🔴 Tehc | $0.000005 | **0.52x** ($-48) | 1.16x |  | pumpfun | 2026-03-20 03:21 |
+| 🟡 MYCO | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:21 |
+| 🟡 DtFBKXwG | $0.000004 | **1.09x** ($+9) | 1.15x |  | pumpfun | 2026-03-20 03:20 |
+| 🔴 8pr5Afkz | $0.000004 | **0.80x** ($-20) | 1.12x |  | pumpfun | 2026-03-20 03:13 |
 | 🔴 BjCprjck | $0.000003 | **0.81x** ($-19) | 1.00x |  | pumpfun | 2026-03-20 03:11 |
-| 🟡 BALD | $0.000003 | **1.21x** ($+21) | 1.21x |  | pumpfun | 2026-03-20 03:07 |
-| 🔴 SNEHA | $0.000005 | **0.76x** ($-24) | 1.57x |  | pumpfun | 2026-03-20 02:59 |
+| 🔴 BALD | $0.000003 | **0.94x** ($-6) | 1.21x |  | pumpfun | 2026-03-20 03:07 |
+| 🔴 SNEHA | $0.000005 | **0.82x** ($-18) | 1.57x |  | pumpfun | 2026-03-20 02:59 |
 | 🔴 Grokputer | $0.000005 | **0.86x** ($-14) | 1.01x |  | pumpfun | 2026-03-20 02:57 |
 | 🔴 Island | $0.000005 | **0.57x** ($-43) | 1.00x |  | pumpfun | 2026-03-20 02:52 |
 | 🔴 Semi | $0.000003 | **0.74x** ($-26) | 1.01x |  | pumpfun | 2026-03-20 02:50 |

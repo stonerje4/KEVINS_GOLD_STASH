@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 03:19 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 03:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 70 (69 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+1 |
-| 🏦 Total | **$-76** |
+| 📦 Unrealized | $-2 |
+| 🏦 Total | **$-79** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OILINU | $0.000078 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 03:18 |
-| 🔴 SAID | $0.000276 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 03:15 |
-| 🟡 Retardmaxx | $0.000354 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
-| 🔴 Machi | $0.000735 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
+| 🟡 OILINU | $0.000078 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 03:18 |
+| 🔴 SAID | $0.000276 | **0.94x** ($-6) | 1.03x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 Retardmaxx | $0.000354 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
+| 🟡 Machi | $0.000735 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 Rosie | $0.000879 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🟡 Snorp | $0.000215 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 WURK | $0.000138 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |

@@ -1,12 +1,12 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 03:19 UTC
+> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 03:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (7 open, 1 closed) |
+| Positions | 9 (8 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
 | 📦 Unrealized | $+12 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Floki | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:21 |
 | 🔴 PESSIMIST | $0.000004 | **0.72x** ($-28) | 1.10x |  | pumpfun | 2026-03-20 00:57 |
 | 🔴 DORO | $0.000005 | **0.78x** ($-22) | 1.27x |  | pumpfun | 2026-03-20 00:44 |
 | 🟡 DLORP | $0.000007 | **1.55x** ($+55) | 1.96x |  | pumpswap | 2026-03-20 00:15 |

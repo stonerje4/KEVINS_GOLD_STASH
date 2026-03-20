@@ -1,6 +1,6 @@
-# Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
+# Wallet: `22BpnynJA94KjAEfXTQV1KXFs3Toibt8YsH1rMuXP2Ba`
 
-> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 03:24 UTC
+> [View on Solscan](https://solscan.io/account/22BpnynJA94KjAEfXTQV1KXFs3Toibt8YsH1rMuXP2Ba) | Updated: 2026-03-20 03:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$+6** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 INCOME | $0.000685 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
+| 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
 
 ## Closed Positions
 
