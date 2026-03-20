@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 09:56 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 10:01 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 148 (133 open, 15 closed) |
 | W/L | 7/8 (47%) |
 | 💵 Realized | $+1,019 |
-| 📦 Unrealized | $-2,532 |
-| 🏦 Total | **$-1,513** |
+| 📦 Unrealized | $-2,529 |
+| 🏦 Total | **$-1,510** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.0x |
 
@@ -28,7 +28,7 @@
 | 🔴 bitpenis | $0.000004 | **0.71x** ($-29) | 1.14x |  | pumpfun | 2026-03-20 05:27 |
 | 🔴 SMCI | $0.000004 | **0.61x** ($-39) | 1.22x |  | pumpfun | 2026-03-20 05:24 |
 | 🔴 LiMuEmu | $0.000003 | **0.85x** ($-15) | 1.00x |  | pumpfun | 2026-03-20 05:23 |
-| 🔴 BitPenis | $0.000005 | **0.56x** ($-44) | 1.64x |  | pumpfun | 2026-03-20 05:17 |
+| 🔴 BitPenis | $0.000005 | **0.54x** ($-46) | 1.64x |  | pumpfun | 2026-03-20 05:17 |
 | 🔴 REMY | $0.000004 | **0.57x** ($-43) | 1.07x |  | pumpfun | 2026-03-20 05:15 |
 | 🔴 OZEMPIC | $0.000003 | **0.81x** ($-19) | 1.08x |  | pumpfun | 2026-03-20 05:14 |
 | 🔴 GENOCIDE | $0.000005 | **0.52x** ($-48) | 1.54x |  | pumpfun | 2026-03-20 05:14 |
@@ -45,7 +45,7 @@
 | 🔴 Arc | $0.000004 | **0.62x** ($-38) | 1.60x |  | pumpfun | 2026-03-20 04:07 |
 | 🔴 Mario | $0.000006 | **0.44x** ($-56) | 1.27x |  | pumpfun | 2026-03-20 04:06 |
 | 🔴 Yuki-chan | $0.000003 | **0.95x** ($-5) | 1.10x |  | pumpfun | 2026-03-20 04:00 |
-| 🟢 TRASHBAG | $0.000004 | **3.01x** ($+201) | 3.23x | ✅ | pumpfun | 2026-03-20 03:57 |
+| 🟢 TRASHBAG | $0.000004 | **3.13x** ($+213) | 3.23x | ✅ | pumpfun | 2026-03-20 03:57 |
 | 🔴 HKp6WMjQ | $0.000003 | **0.82x** ($-18) | 1.01x |  | pumpfun | 2026-03-20 03:57 |
 | 🟡 AYYGENT | $0.000004 | **1.05x** ($+5) | 1.54x |  | pumpfun | 2026-03-20 03:56 |
 | 🔴 Jeremy | $0.000003 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 03:50 |

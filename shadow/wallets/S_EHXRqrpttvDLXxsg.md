@@ -1,6 +1,6 @@
-# Wallet: `EBaHgdqGJkhZRydreGaYqeQoEA595tk6UVoE2ACTp597`
+# Wallet: `EHXRqrpttvDLXxsgvav5mHQ8RX7pcUZd2nCzystxmYGe`
 
-> [View on Solscan](https://solscan.io/account/EBaHgdqGJkhZRydreGaYqeQoEA595tk6UVoE2ACTp597) | Updated: 2026-03-20 10:01 UTC
+> [View on Solscan](https://solscan.io/account/EHXRqrpttvDLXxsgvav5mHQ8RX7pcUZd2nCzystxmYGe) | Updated: 2026-03-20 10:01 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Rosie | $0.000895 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:53 |
+| 🟡 Pixels | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:59 |
 
 ## Closed Positions
 

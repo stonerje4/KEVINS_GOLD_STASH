@@ -1,6 +1,6 @@
 # Wallet: `9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf`
 
-> [View on Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 09:56 UTC
+> [View on Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 10:01 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 JIANG | $0.000020 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 08:05 |
-| 🔴 APOPHENOTH | $0.000030 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 08:05 |
+| 🔴 APOPHENOTH | $0.000030 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 08:05 |
 | 🔴 Aliens | $0.000791 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:39 |
 | 🔴 AyyLMAO | $0.000050 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:29 |
 | 🔴 Rubio | $0.000143 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 01:27 |

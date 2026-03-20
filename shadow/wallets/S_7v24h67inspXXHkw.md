@@ -1,12 +1,12 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 09:56 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 10:01 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (22 open, 0 closed) |
+| Positions | 23 (23 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+91 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 BBX | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:58 |
 | 🟡 B3aYVios | $0.000003 | **1.36x** ($+36) | 1.37x |  | pumpfun | 2026-03-20 08:51 |
 | 🔴 CHILLBLI | $0.000003 | **0.64x** ($-36) | 1.06x |  | pumpswap | 2026-03-20 08:24 |
 | 🔴 TGR | $0.000010 | **0.98x** ($-2) | 1.05x |  | pumpfun | 2026-03-20 07:55 |
