@@ -1,6 +1,6 @@
 # Wallet: `73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt`
 
-> [View on Solscan](https://solscan.io/account/73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt) | Updated: 2026-03-20 11:02 UTC
+> [View on Solscan](https://solscan.io/account/73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt) | Updated: 2026-03-20 11:07 UTC
 
 ## Summary
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 tinfoil | $0.000064 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:11 |
-| 🔴 Moe-chan | $0.000014 | **1.00x** ($-0) | 1.20x |  | pumpswap | 2026-03-20 07:38 |
-| 🔴 Pixel | $0.000013 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 07:36 |
+| 🟡 Moe-chan | $0.000014 | **1.01x** ($+1) | 1.20x |  | pumpswap | 2026-03-20 07:38 |
+| 🔴 Pixel | $0.000013 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 07:36 |
 
 ## Closed Positions
 

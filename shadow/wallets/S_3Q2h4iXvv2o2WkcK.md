@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 11:02 UTC
+> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 11:07 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (16 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-91 |
-| 🏦 Total | **$-91** |
+| 📦 Unrealized | $-92 |
+| 🏦 Total | **$-92** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Dryer | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:45 |
 | 🟡 CHIBI | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:09 |
-| 🟡 Pixel | $0.000008 | **1.04x** ($+4) | 1.19x |  | pumpswap | 2026-03-20 09:08 |
+| 🟡 Pixel | $0.000008 | **1.03x** ($+3) | 1.19x |  | pumpswap | 2026-03-20 09:08 |
 | 🟡 驚き | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:43 |
 | 🟡 Freebuff | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:10 |
 | 🟡 Optimistic | $0.000500 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:26 |

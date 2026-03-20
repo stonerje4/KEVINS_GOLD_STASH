@@ -1,16 +1,16 @@
 # Wallet: `H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH`
 
-> [View on Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-20 11:02 UTC
+> [View on Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-20 11:07 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+33 |
-| 🏦 Total | **$+33** |
+| 📦 Unrealized | $+39 |
+| 🏦 Total | **$+39** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,11 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 $Tater | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:06 |
+| 🟡 FNXT | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:03 |
 | 🟡 WHALEBI | $0.000057 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:18 |
 | 🟡 HONGWU | $0.000148 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 07:47 |
 | 🟡 OXIDE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 電王 | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:31 |
-| 🟡 YEPE | $0.000088 | **1.32x** ($+32) | 1.36x |  | pumpswap | 2026-03-20 07:24 |
+| 🟡 YEPE | $0.000088 | **1.38x** ($+38) | 1.54x |  | pumpswap | 2026-03-20 07:24 |
 | 🟡 OSP | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:21 |
 
 ## Closed Positions
