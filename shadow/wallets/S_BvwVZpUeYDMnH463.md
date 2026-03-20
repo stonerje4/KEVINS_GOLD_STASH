@@ -1,16 +1,16 @@
 # Wallet: `BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y`
 
-> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 22:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 22:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (5 open, 1 closed) |
+| Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-23 |
-| 🏦 Total | **$-84** |
+| 📦 Unrealized | $-19 |
+| 🏦 Total | **$-80** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 STICKERS | $0.000012 | **1.04x** ($+4) | 1.23x |  | pumpfun | 2026-03-20 22:36 |
 | 🟡 LIFE | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:23 |
 | 🟡 CRACK | $0.000021 | **1.78x** ($+78) | 1.78x |  | pumpfun | 2026-03-20 19:41 |
 | 🔴 xcat | $0.000006 | **0.60x** ($-40) | 1.12x |  | pumpfun | 2026-03-20 18:06 |
