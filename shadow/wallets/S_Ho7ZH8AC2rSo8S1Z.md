@@ -1,6 +1,6 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 22:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 22:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (12 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $+226 |
-| 📦 Unrealized | $-77 |
-| 🏦 Total | **$+149** |
+| 📦 Unrealized | $-75 |
+| 🏦 Total | **$+150** |
 | Best ROI | 5.85x |
 | Avg ROI | 1.38x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 genocide | $0.000039 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-20 22:06 |
+| 🟡 genocide | $0.000039 | **1.06x** ($+6) | 1.12x |  | pumpswap | 2026-03-20 22:06 |
 | 🟡 TOKENMAXXING | $0.000028 | **1.24x** ($+24) | 1.29x |  | pumpfun | 2026-03-20 21:36 |
 | 🔴 Norriscoin | $0.000007 | **0.84x** ($-16) | 1.18x |  | pumpfun | 2026-03-20 16:17 |
 | 🟡 HELLO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:14 |

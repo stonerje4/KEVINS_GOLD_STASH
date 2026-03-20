@@ -1,6 +1,6 @@
 # Wallet: `BSJMmr9j21JVpsoB3cDxXegMyrAmNu4MotE8pLr6u2s6`
 
-> [GMGN](https://gmgn.ai/sol/address/BSJMmr9j21JVpsoB3cDxXegMyrAmNu4MotE8pLr6u2s6) | [Solscan](https://solscan.io/account/BSJMmr9j21JVpsoB3cDxXegMyrAmNu4MotE8pLr6u2s6) | Updated: 2026-03-20 22:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/BSJMmr9j21JVpsoB3cDxXegMyrAmNu4MotE8pLr6u2s6) | [Solscan](https://solscan.io/account/BSJMmr9j21JVpsoB3cDxXegMyrAmNu4MotE8pLr6u2s6) | Updated: 2026-03-20 22:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-2** |
+| 📦 Unrealized | $-8 |
+| 🏦 Total | **$-8** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 https | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 21:48 |
-| 🔴 chud | $0.000023 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 21:47 |
-| 🟡 Pixel | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 21:46 |
+| 🔴 chud | $0.000023 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 21:47 |
+| 🔴 Pixel | $0.000009 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 21:46 |
 | 🟡 AIKO | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 19:04 |
 
 ## Closed Positions

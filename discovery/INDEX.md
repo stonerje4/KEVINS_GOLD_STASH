@@ -1,6 +1,6 @@
 # 🔍 Wallet Discovery Pipeline
 
-> Updated: 2026-03-20 22:10 UTC | **5 runs** | **46 wallets** added to shadow
+> Updated: 2026-03-20 22:15 UTC | **6 runs** | **47 wallets** added to shadow
 
 ## How It Works
 
@@ -17,6 +17,7 @@
 
 | Run | Time (UTC) | Evaluated | Passed | Added | Details |
 |-----|------------|-----------|--------|-------|---------|
+| #6 | 2026-03-20 22:14 | 3 | 1 | **1** | [→ Run #6](runs/run_006.md) |
 | #5 | 2026-03-20 18:46 | 72 | 9 | **9** | [→ Run #5](runs/run_005.md) |
 | #4 | 2026-03-20 18:04 | 151 | 19 | **19** | [→ Run #4](runs/run_004.md) |
 | #3 | 2026-03-20 13:11 | 48 | 7 | **7** | [→ Run #3](runs/run_003.md) |
@@ -27,9 +28,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Runs | 5 |
-| Total Wallets Added | 46 |
-| Avg per Run | 9.2 |
+| Total Runs | 6 |
+| Total Wallets Added | 47 |
+| Avg per Run | 7.8 |
 
 ---
 *Auto-generated from wallet_discovery.db*

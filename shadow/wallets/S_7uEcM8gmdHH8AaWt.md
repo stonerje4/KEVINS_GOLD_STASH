@@ -1,6 +1,6 @@
 # Wallet: `7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t`
 
-> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 22:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 22:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (7 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-330 |
-| 📦 Unrealized | $+142 |
-| 🏦 Total | **$-187** |
+| 📦 Unrealized | $+144 |
+| 🏦 Total | **$-186** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.45x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Louis | $0.000008 | **0.67x** ($-33) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
-| 🟡 GeBYWNhf | $0.000009 | **1.95x** ($+95) | 3.12x | ✅ | pumpfun | 2026-03-20 20:06 |
+| 🔴 Louis | $0.000008 | **0.68x** ($-32) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
+| 🟡 GeBYWNhf | $0.000009 | **1.91x** ($+91) | 3.12x | ✅ | pumpfun | 2026-03-20 20:06 |
 | 🔴 EPSTEIN | $0.000005 | **0.48x** ($-52) | 1.11x |  | pumpfun | 2026-03-20 19:38 |
-| 🟢 genocide | $0.000019 | **2.13x** ($+113) | 2.29x | ✅ | pumpfun | 2026-03-20 19:27 |
+| 🟢 genocide | $0.000019 | **2.16x** ($+116) | 2.29x | ✅ | pumpfun | 2026-03-20 19:27 |
 | 🟡 RAGE | $0.000025 | **1.44x** ($+44) | 1.44x |  | pumpfun | 2026-03-20 19:19 |
 | 🟢 Needle | $0.000006 | **2.91x** ($+191) | 4.91x | ✅ | pumpfun | 2026-03-20 19:02 |
 | 🟡 5yAgqEmF | $0.000014 | **1.13x** ($+13) | 1.65x |  | pumpfun | 2026-03-20 18:11 |

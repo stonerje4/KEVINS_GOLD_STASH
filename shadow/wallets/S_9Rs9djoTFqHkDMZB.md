@@ -1,6 +1,6 @@
 # Wallet: `9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3`
 
-> [GMGN](https://gmgn.ai/sol/address/9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3) | [Solscan](https://solscan.io/account/9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3) | Updated: 2026-03-20 22:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3) | [Solscan](https://solscan.io/account/9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3) | Updated: 2026-03-20 22:15 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Jessica | $0.000005 | **0.90x** ($-10) | 2.34x | ✅ | pumpswap | 2026-03-20 21:29 |
+| 🔴 Jessica | $0.000005 | **0.89x** ($-11) | 2.34x | ✅ | pumpswap | 2026-03-20 21:29 |
 | 🔴 Thinker | $0.000009 | **0.67x** ($-33) | 1.30x |  | pumpswap | 2026-03-19 22:35 |
 
 ## Closed Positions
