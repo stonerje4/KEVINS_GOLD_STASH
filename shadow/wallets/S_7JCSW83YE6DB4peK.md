@@ -1,12 +1,12 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 03:04 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 53 (52 open, 1 closed) |
+| Positions | 54 (53 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
 | 📦 Unrealized | $+140 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 Distorted | $0.001015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:51 |
 | 🔴 PIZZA | $0.000203 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
 | 🟡 Snorp | $0.000216 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |

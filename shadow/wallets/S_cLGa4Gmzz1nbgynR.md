@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:04 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Retardmaxx | $0.000356 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:03 |
+| 🔴 Retardmaxx | $0.000356 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Rosie | $0.000878 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🔴 WhiteBoy  | $0.000014 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
 | 🟡 OSP | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
@@ -85,7 +85,7 @@
 | 🔴 PIKAHORSE | $0.000373 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 MIROFISH | $0.000032 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 22:58 |
 | 🟡 Noesis | $0.000346 | **1.00x** ($+0) | 1.05x |  | pumpswap | 2026-03-19 22:58 |
-| 🟡 67 | $0.001147 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-19 22:56 |
+| 🟡 67 | $0.001147 | **1.10x** ($+10) | 1.11x |  | pumpswap | 2026-03-19 22:56 |
 | 🔴 OXIDE | $0.000037 | **0.77x** ($-23) | 1.15x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 5 | $0.000011 | **0.89x** ($-11) | 1.12x |  | pumpswap | 2026-03-19 22:47 |
 | 🟡 TGR | $0.000104 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-19 22:43 |

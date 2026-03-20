@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 03:04 UTC
+> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+122 |
-| 🏦 Total | **$+122** |
+| 📦 Unrealized | $+188 |
+| 🏦 Total | **$+188** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 credit | $0.000005 | **1.69x** ($+69) | 2.09x | ✅ | pumpfun | 2026-03-20 03:03 |
+| 🟢 credit | $0.000005 | **3.50x** ($+250) | 3.50x | ✅ | pumpfun | 2026-03-20 03:03 |
 | 🔴 ARIA | $0.000036 | **0.64x** ($-36) | 1.22x |  | pumpswap | 2026-03-20 01:59 |
 | 🟢 D3g3T1ZD | $0.000003 | **4.64x** ($+364) | 5.46x | ✅ | pumpfun | 2026-03-20 01:52 |
 

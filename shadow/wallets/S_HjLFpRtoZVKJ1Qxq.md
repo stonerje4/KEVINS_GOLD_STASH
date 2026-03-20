@@ -1,12 +1,12 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 03:04 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 57 (56 open, 1 closed) |
+| Positions | 59 (58 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
 | 📦 Unrealized | $-39 |
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
+| 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
 | 🟡 Wob | $0.000019 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:02 |
 | 🟡 WIZARD | $0.000400 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:00 |
 | 🟡 APES | $0.000213 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |

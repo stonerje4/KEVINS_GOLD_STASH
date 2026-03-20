@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 03:04 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 116 (115 open, 1 closed) |
+| Positions | 118 (117 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+199 |
-| 📦 Unrealized | $+155 |
-| 🏦 Total | **$+354** |
+| 📦 Unrealized | $+156 |
+| 🏦 Total | **$+355** |
 | Best Trade | 3.0x |
 | Avg Peak | 9.7x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 JOC | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
+| 🟡 hahahaha | $0.000006 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 APES | $0.000207 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 Snorp | $0.000216 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 SNDK | $0.000007 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:47 |

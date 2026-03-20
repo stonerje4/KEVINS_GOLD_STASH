@@ -1,6 +1,6 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 03:04 UTC
+> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+37 |
-| 🏦 Total | **$+37** |
+| 📦 Unrealized | $+106 |
+| 🏦 Total | **$+106** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 credit | $0.000005 | **1.78x** ($+78) | 2.19x | ✅ | pumpfun | 2026-03-20 03:02 |
+| 🟢 credit | $0.000005 | **3.68x** ($+268) | 3.68x | ✅ | pumpfun | 2026-03-20 03:02 |
 | 🟡 Taylor | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 imagineslop | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
 | 🟡 EPSTEIN | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-19 23:28 |

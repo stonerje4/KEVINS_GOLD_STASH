@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 03:04 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 168 (166 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+121 |
-| 📦 Unrealized | $+221 |
-| 🏦 Total | **$+341** |
+| 📦 Unrealized | $+219 |
+| 🏦 Total | **$+340** |
 | Best Trade | 3.0x |
 | Avg Peak | 4.3x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Wob | $0.000019 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:02 |
-| 🟡 42 | $0.000042 | **1.07x** ($+7) | 1.52x |  | pumpswap | 2026-03-20 02:57 |
+| 🟡 42 | $0.000042 | **1.06x** ($+6) | 1.52x |  | pumpswap | 2026-03-20 02:57 |
 | 🔴 Lucia | $0.000032 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🔴 ovary  | $0.000020 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
 | 🔴 WhiteBoy  | $0.000015 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 02:48 |

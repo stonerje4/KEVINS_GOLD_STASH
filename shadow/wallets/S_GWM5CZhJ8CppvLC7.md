@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 03:04 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 68 (67 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-7 |
-| 🏦 Total | **$-84** |
+| 📦 Unrealized | $-6 |
+| 🏦 Total | **$-83** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Retardmaxx | $0.000354 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 03:03 |
+| 🔴 Retardmaxx | $0.000354 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 03:03 |
 | 🔴 Machi | $0.000735 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 Rosie | $0.000879 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🟡 Snorp | $0.000215 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |

@@ -1,12 +1,12 @@
 # Wallet: `5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC`
 
-> [View on Solscan](https://solscan.io/account/5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC) | Updated: 2026-03-20 03:04 UTC
+> [View on Solscan](https://solscan.io/account/5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WRT | $0.000032 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 03:06 |
 | 🟡 USOR | $0.000087 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-19 22:36 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
-# Wallet: `FYphxhsBRzBHEzFou5uXJ62gbuAKNJ6FZbGoY1Ppyq6d`
+# Wallet: `DJdvSC8tAscQ3tgdFXusesy3AqGjSe6dEeavm6NMbtkJ`
 
-> [View on Solscan](https://solscan.io/account/FYphxhsBRzBHEzFou5uXJ62gbuAKNJ6FZbGoY1Ppyq6d) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/DJdvSC8tAscQ3tgdFXusesy3AqGjSe6dEeavm6NMbtkJ) | Updated: 2026-03-20 03:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-2** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OmegaX | $0.000435 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 22:54 |
+| 🟡 NBR | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:05 |
 
 ## Closed Positions
 
