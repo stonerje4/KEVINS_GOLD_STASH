@@ -1,37 +1,37 @@
 # Wallet: `7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t`
 
-> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 21:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 21:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (9 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-252 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$-172** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| Positions | 13 (8 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-269 |
+| 📦 Unrealized | $+100 |
+| 🏦 Total | **$-170** |
+| Best ROI | 0.82x |
+| Avg ROI | 0.46x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Louis | $0.000008 | **0.63x** ($-37) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
-| 🔴 CHICK | $0.000011 | **0.96x** ($-4) | 2.59x | ✅ | pumpfun | 2026-03-20 20:48 |
-| 🔴 Dreamjob | $0.000009 | **0.87x** ($-13) | 1.16x |  | pumpfun | 2026-03-20 20:46 |
-| 🟢 GeBYWNhf | $0.000009 | **2.48x** ($+148) | 3.12x | ✅ | pumpfun | 2026-03-20 20:06 |
+| 🔴 Louis | $0.000008 | **0.62x** ($-38) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
+| 🔴 Dreamjob | $0.000009 | **0.88x** ($-12) | 1.16x |  | pumpfun | 2026-03-20 20:46 |
+| 🟢 GeBYWNhf | $0.000009 | **2.53x** ($+153) | 3.12x | ✅ | pumpfun | 2026-03-20 20:06 |
 | 🔴 EPSTEIN | $0.000005 | **0.48x** ($-52) | 1.11x |  | pumpfun | 2026-03-20 19:38 |
 | 🔴 genocide | $0.000019 | **0.90x** ($-10) | 1.03x |  | pumpfun | 2026-03-20 19:27 |
 | 🟡 RAGE | $0.000025 | **1.44x** ($+44) | 1.44x |  | pumpfun | 2026-03-20 19:19 |
 | 🟢 Needle | $0.000006 | **2.91x** ($+191) | 4.91x | ✅ | pumpfun | 2026-03-20 19:02 |
-| 🟡 5yAgqEmF | $0.000014 | **1.13x** ($+13) | 1.65x |  | pumpfun | 2026-03-20 18:11 |
+| 🟡 5yAgqEmF | $0.000014 | **1.31x** ($+31) | 1.65x |  | pumpfun | 2026-03-20 18:11 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 CHICK | 0.82x | $-18 | trailing_stop_3x | 2.59x | pumpfun | 2026-03-20 20:48 → 2026-03-20 21:49 |
 | 🔴 7fxCHxxB | 0.40x | $-60 | stop_loss | 1.65x | pumpfun | 2026-03-20 20:36 → 2026-03-20 20:51 |
 | 🔴 HezqhjwP | 0.37x | $-63 | stop_loss | 1.00x | pumpfun | 2026-03-20 20:06 → 2026-03-20 20:07 |
 | 🔴 8Qr4XG1w | 0.40x | $-60 | stop_loss | 1.12x | pumpfun | 2026-03-20 20:02 → 2026-03-20 20:02 |

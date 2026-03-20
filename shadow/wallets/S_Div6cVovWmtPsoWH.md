@@ -1,12 +1,12 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 21:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 21:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (11 open, 4 closed) |
+| Positions | 16 (12 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-203 |
 | 📦 Unrealized | $-157 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 face | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 21:47 |
 | 🟡 BOUNCE | $0.000006 | **1.01x** ($+1) | 1.08x |  | pumpfun | 2026-03-20 20:16 |
 | 🟡 Cow | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:10 |
 | 🟡 Invincible | $0.000006 | **1.12x** ($+12) | 1.24x |  | pumpswap | 2026-03-20 08:19 |

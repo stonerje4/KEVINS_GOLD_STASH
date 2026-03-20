@@ -1,6 +1,6 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 21:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 21:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (9 open, 9 closed) |
 | W/L | 0/9 (0%) |
 | 💵 Realized | $-517 |
-| 📦 Unrealized | $+71 |
-| 🏦 Total | **$-446** |
+| 📦 Unrealized | $+66 |
+| 🏦 Total | **$-450** |
 | Best ROI | 0.93x |
 | Avg ROI | 0.43x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CAINE | $0.000038 | **0.82x** ($-18) | 1.05x |  | pumpswap | 2026-03-20 21:28 |
+| 🔴 CAINE | $0.000038 | **0.78x** ($-22) | 1.05x |  | pumpswap | 2026-03-20 21:28 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 16:05 |
 | 🟡 NunChucks | $0.000016 | **1.94x** ($+94) | 2.33x | ✅ | pumpfun | 2026-03-20 14:32 |
 | 🔴 Chonk | $0.000014 | **0.48x** ($-52) | 1.41x |  | pumpfun | 2026-03-20 09:56 |

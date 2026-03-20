@@ -1,12 +1,12 @@
 # Wallet: `JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd`
 
-> [GMGN](https://gmgn.ai/sol/address/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | [Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-20 21:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | [Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-20 21:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-120 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Cigify | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 21:48 |
 | 🟡 CLIPHUB | $0.000015 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:32 |
 | 🔴 Pixels | $0.000033 | **0.72x** ($-28) | 1.15x |  | pumpswap | 2026-03-20 08:20 |
 | 🔴 Dryer | $0.000032 | **0.45x** ($-55) | 1.27x |  | pumpswap | 2026-03-20 04:25 |

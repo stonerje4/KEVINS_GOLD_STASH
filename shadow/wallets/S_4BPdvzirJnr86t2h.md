@@ -1,16 +1,16 @@
 # Wallet: `4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7`
 
-> [GMGN](https://gmgn.ai/sol/address/4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7) | [Solscan](https://solscan.io/account/4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7) | [Solscan](https://solscan.io/account/4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7) | Updated: 2026-03-20 21:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-100 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-100** |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$-18** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,12 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Jiji | $0.000005 | **0.82x** ($-18) | 1.06x |  | pumpfun | 2026-03-20 21:49 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Buffalo | 0.00x | $-100 | phantom_dust_entry | 1.10x | pumpfun | 2026-03-20 13:44 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
