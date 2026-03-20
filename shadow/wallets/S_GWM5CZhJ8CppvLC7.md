@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 03:54 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 03:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 75 (74 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+9 |
-| 🏦 Total | **$-68** |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$-71** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -23,8 +23,8 @@
 | 🟡 AIFRUITS | $0.000659 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 Pete | $0.000252 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 CLAW3D | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
-| 🟡 OILINU | $0.000078 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 03:18 |
-| 🔴 SAID | $0.000276 | **1.00x** ($-0) | 1.07x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 OILINU | $0.000078 | **1.04x** ($+4) | 1.06x |  | pumpswap | 2026-03-20 03:18 |
+| 🔴 SAID | $0.000276 | **0.99x** ($-1) | 1.07x |  | pumpswap | 2026-03-20 03:15 |
 | 🔴 Retardmaxx | $0.000354 | **1.00x** ($-0) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Machi | $0.000735 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 Rosie | $0.000879 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |

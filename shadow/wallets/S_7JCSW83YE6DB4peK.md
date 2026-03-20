@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 03:54 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 03:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 62 (61 open, 1 closed) |
+| Positions | 63 (62 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+134 |
-| 🏦 Total | **$+55** |
+| 📦 Unrealized | $+133 |
+| 🏦 Total | **$+54** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Foodrot | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:56 |
 | 🟡 唐子兵法 | $0.001788 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:52 |
 | 🔴 Gizmo | $0.000014 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-20 03:38 |
 | 🟡 Fro | $0.000206 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:32 |

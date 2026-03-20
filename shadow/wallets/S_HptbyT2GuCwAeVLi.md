@@ -1,12 +1,12 @@
-# Wallet: `7MBoioY9NNPVYCNUmdKzVfn4upSC4tzqgM8WUFtZ2gE2`
+# Wallet: `HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL`
 
-> [View on Solscan](https://solscan.io/account/7MBoioY9NNPVYCNUmdKzVfn4upSC4tzqgM8WUFtZ2gE2) | Updated: 2026-03-20 03:59 UTC
+> [View on Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-20 03:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (4 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
@@ -18,10 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 FNDRY | $0.000010 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:30 |
-| 🟡 01PL | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:28 |
-| 🟡 FIH | $0.000203 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:17 |
-| 🟡 SAVED | $0.000000 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:09 |
+| 🟡 Anduril  | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:58 |
 
 ## Closed Positions
 

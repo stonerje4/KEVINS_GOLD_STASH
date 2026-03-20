@@ -1,12 +1,12 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 03:54 UTC
+> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 03:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-94 |
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Alien | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:58 |
+| 🟡 LUMO | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:58 |
 | 🔴 Patricia | $0.000020 | **0.73x** ($-27) | 1.02x |  | pumpswap | 2026-03-20 02:38 |
 | 🔴 BOAT | $0.000009 | **0.92x** ($-8) | 1.10x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 Taylor | $0.000012 | **0.82x** ($-18) | 1.22x |  | pumpswap | 2026-03-20 00:15 |

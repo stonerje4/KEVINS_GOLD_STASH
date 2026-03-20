@@ -1,16 +1,16 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 03:54 UTC
+> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 03:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (14 open, 18 closed) |
-| W/L | 3/15 (17%) |
-| 💵 Realized | $-440 |
-| 📦 Unrealized | $-67 |
-| 🏦 Total | **$-507** |
+| Positions | 33 (14 open, 19 closed) |
+| W/L | 3/16 (16%) |
+| 💵 Realized | $-500 |
+| 📦 Unrealized | $-10 |
+| 🏦 Total | **$-511** |
 | Best Trade | 2.7x |
 | Avg Peak | 2.2x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OFFLINE | $0.000007 | **0.43x** ($-57) | 1.15x |  | pumpfun | 2026-03-20 03:47 |
+| 🟡 FEELESS | $0.000010 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:58 |
 | 🟢 2611vNhu | $0.000008 | **4.75x** ($+375) | 4.75x | ✅ | pumpfun | 2026-03-20 03:27 |
 | 🔴 DQ5vaFMa | $0.000006 | **0.44x** ($-56) | 1.26x |  | pumpfun | 2026-03-20 03:07 |
 | 🔴 ATXHQ1ch | $0.000005 | **0.50x** ($-50) | 1.16x |  | pumpfun | 2026-03-20 02:59 |
@@ -38,6 +38,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Dyoji-nim | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-20 03:49 → 2026-03-20 03:49 |
+| 🔴 OFFLINE | 0.39x | $-61 | stop_loss | 1.15x | pumpfun | 2026-03-20 03:47 → 2026-03-20 03:55 |
 | 🟢 52YzE9zQ | 2.75x | $+175 | trailing_stop_8x | 7.81x | pumpfun | 2026-03-20 03:16 → 2026-03-20 03:38 |
 | 🟡 KELSEY | 1.18x | $+18 | trailing_stop_3x | 3.11x | pumpfun | 2026-03-20 02:40 → 2026-03-20 02:46 |
 | 🔴 INR | 0.74x | $-26 | trailing_stop_2x | 2.24x | pumpfun | 2026-03-20 02:31 → 2026-03-20 02:34 |

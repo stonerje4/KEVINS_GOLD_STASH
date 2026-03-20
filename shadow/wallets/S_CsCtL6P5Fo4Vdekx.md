@@ -1,6 +1,6 @@
 # Wallet: `CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ`
 
-> [View on Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 03:54 UTC
+> [View on Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 03:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-32** |
+| 📦 Unrealized | $-28 |
+| 🏦 Total | **$-28** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 NBR | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 WRT | $0.000006 | **0.88x** ($-12) | 1.05x |  | pumpfun | 2026-03-20 03:41 |
-| 🟡 USOS | $0.000011 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-20 03:35 |
+| 🟡 USOS | $0.000011 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 03:35 |
 | 🟡 FTR | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:27 |
 | 🟡 FLAG | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:51 |
 | 🟡 OSP | $0.000008 | **1.03x** ($+3) | 1.11x |  | pumpfun | 2026-03-20 02:34 |
