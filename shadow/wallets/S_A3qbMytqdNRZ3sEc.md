@@ -1,16 +1,16 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 09:36 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 09:41 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 49 (44 open, 5 closed) |
+| Positions | 50 (45 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
 | 📦 Unrealized | $-170 |
-| 🏦 Total | **$-367** |
+| 🏦 Total | **$-368** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Dickus | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
 | 🟡 ARIA | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:04 |
 | 🟡 Pixels | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
 | 🟡 IMAGINE | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:55 |

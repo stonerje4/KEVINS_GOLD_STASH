@@ -1,16 +1,16 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 09:36 UTC
+> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 09:41 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (8 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-370 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-378** |
+| Positions | 14 (7 open, 7 closed) |
+| W/L | 0/7 (0%) |
+| 💵 Realized | $-438 |
+| 📦 Unrealized | $+32 |
+| 🏦 Total | **$-406** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.3x |
 
@@ -18,10 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 effect | $0.000004 | **6.11x** ($+511) | 6.11x | ✅ | pumpfun | 2026-03-20 09:30 |
-| 🟡 Doolysaurus | $0.000011 | **1.42x** ($+42) | 1.77x |  | pumpfun | 2026-03-20 09:27 |
+| 🚀 effect | $0.000004 | **5.34x** ($+434) | 7.83x | ✅ | pumpfun | 2026-03-20 09:30 |
+| 🟡 Doolysaurus | $0.000011 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 09:27 |
 | 🔴 6sJSQVtw | $0.000004 | **0.64x** ($-36) | 1.58x |  | pumpfun | 2026-03-20 09:25 |
-| 🔴 WRONG | $0.000010 | **0.73x** ($-27) | 1.27x |  | pumpfun | 2026-03-20 09:21 |
 | 🔴 32VQkt6V | $0.000003 | **0.80x** ($-20) | 1.53x |  | pumpfun | 2026-03-20 09:20 |
 | 🔴 FROG | $0.000004 | **0.67x** ($-33) | 1.49x |  | pumpfun | 2026-03-20 08:26 |
 | 🔴 Kin-kun | $0.000006 | **0.43x** ($-57) | 1.88x |  | pumpfun | 2026-03-20 07:53 |
@@ -31,6 +30,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 WRONG | 0.32x | $-68 | stop_loss | 1.27x | pumpfun | 2026-03-20 09:21 → 2026-03-20 09:39 |
 | 🔴 Ropet | 0.36x | $-64 | stop_loss | 1.31x | pumpfun | 2026-03-20 08:57 → 2026-03-20 08:58 |
 | 🔴 Ropet | 0.40x | $-60 | stop_loss | 1.58x | pumpfun | 2026-03-20 08:56 → 2026-03-20 09:02 |
 | 🔴 ME | 0.40x | $-60 | stop_loss | 1.16x | pumpfun | 2026-03-20 08:45 → 2026-03-20 08:59 |

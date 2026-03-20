@@ -1,6 +1,6 @@
 # Wallet: `GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu`
 
-> [View on Solscan](https://solscan.io/account/GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu) | Updated: 2026-03-20 09:36 UTC
+> [View on Solscan](https://solscan.io/account/GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu) | Updated: 2026-03-20 09:41 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (4 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-194 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$-143** |
+| 📦 Unrealized | $+54 |
+| 🏦 Total | **$-140** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.3x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 MOCHI | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:19 |
-| 🟡 WID | $0.000021 | **1.06x** ($+6) | 1.14x |  | pumpswap | 2026-03-20 07:07 |
+| 🟡 WID | $0.000021 | **1.09x** ($+9) | 1.14x |  | pumpswap | 2026-03-20 07:07 |
 | 🟡 ZeroG | $0.000020 | **1.83x** ($+83) | 1.83x |  | pumpfun | 2026-03-20 05:52 |
 | 🔴 Strawberita | $0.000082 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 01:32 |
 

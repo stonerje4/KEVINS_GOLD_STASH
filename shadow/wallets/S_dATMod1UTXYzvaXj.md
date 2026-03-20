@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 09:36 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 09:41 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 25 (15 open, 10 closed) |
 | W/L | 1/9 (10%) |
 | 💵 Realized | $-375 |
-| 📦 Unrealized | $+220 |
-| 🏦 Total | **$-155** |
+| 📦 Unrealized | $+299 |
+| 🏦 Total | **$-76** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 effect | $0.000016 | **1.59x** ($+59) | 1.59x |  | pumpfun | 2026-03-20 09:35 |
-| 🔴 SIGNAL | $0.000019 | **0.78x** ($-22) | 1.43x |  | pumpfun | 2026-03-20 09:23 |
-| 🔴 omochi | $0.000020 | **0.73x** ($-27) | 1.27x |  | pumpfun | 2026-03-20 09:13 |
+| 🟡 effect | $0.000016 | **1.39x** ($+39) | 2.03x | ✅ | pumpfun | 2026-03-20 09:35 |
+| 🟡 SIGNAL | $0.000019 | **1.93x** ($+93) | 1.93x |  | pumpfun | 2026-03-20 09:23 |
+| 🔴 omochi | $0.000020 | **0.76x** ($-24) | 1.27x |  | pumpfun | 2026-03-20 09:13 |
 | 🔴 VOID | $0.000183 | **0.74x** ($-26) | 1.70x |  | cpmm | 2026-03-20 08:59 |
 | 🟡 Pixels | $0.000024 | **1.54x** ($+54) | 1.54x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 BOAR | $0.000008 | **0.77x** ($-23) | 1.69x |  | pumpswap | 2026-03-20 06:37 |

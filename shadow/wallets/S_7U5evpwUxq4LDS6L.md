@@ -1,29 +1,29 @@
 # Wallet: `7U5evpwUxq4LDS6LeGa2fLsKxkTzcJytohT9SpyC5FZk`
 
-> [View on Solscan](https://solscan.io/account/7U5evpwUxq4LDS6LeGa2fLsKxkTzcJytohT9SpyC5FZk) | Updated: 2026-03-20 09:36 UTC
+> [View on Solscan](https://solscan.io/account/7U5evpwUxq4LDS6LeGa2fLsKxkTzcJytohT9SpyC5FZk) | Updated: 2026-03-20 09:41 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-60 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$-32** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| Positions | 2 (0 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $-11 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-11** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 chiberine | $0.000051 | **1.28x** ($+28) | 1.37x |  | pumpswap | 2026-03-20 09:34 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 chiberine | 1.49x | $+49 | trailing_stop_3x | 3.47x | pumpswap | 2026-03-20 09:34 → 2026-03-20 09:41 |
 | 🔴 chiberine | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:33 → 2026-03-20 09:33 |
 
 ---
