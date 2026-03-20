@@ -1,9 +1,11 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-20 14:20 UTC*
+*Last updated: 2026-03-20 14:25 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
+| 2026-03-20 14:24 | 🟢 buy | CHUCK | `2w85VLX4W4qm...` | 0.110 | 0.0050 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/4Mdyf1vu3frDBc7jHRYKFmLNzwR6ASgEX6LHAUqf6SHMiFQfyCSs1ixb2QxNZmogKrLhpYpEBbpA5aWWwu4PTJLB) |
+| 2026-03-20 14:22 | 🔴 sell | NOR | `2w85VLX4W4qm...` | 0.043 | — | 0.4x | stop_loss | [tx](https://solscan.io/tx/3uStvRegDJdxtquobuh54imG2oq2Z1nJ35zjKscqbdxAiMSpjvZxFw5zbFRFvBtRunTJnXLMVocT1bb69KcwCPGH) |
 | 2026-03-20 14:09 | 🟢 buy | NOR | `2w85VLX4W4qm...` | 0.110 | 0.0050 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/3EwUKHqSWjdJL8kLDYHGBG2j9spHX4AUWZnYMDowEugKs8LxBb5fdJiZrbyHNnV2j7XpTcXC3EufH1AP2tnwm2Kh) |
 | 2026-03-20 13:57 | 🔴 sell | CHUCK | `2w85VLX4W4qm...` | 0.079 | — | 0.7x | runner_trailing_stop | [tx](https://solscan.io/tx/tJhkK1XZUppyRhKN5z7SQYLfeEPUgY9W45dBPadGCLgTV9yApwUfcJdDAaNNeNo2S37FwnPHAbfLbNm7cwnoGLe) |
 | 2026-03-20 13:55 | 🔴 sell | CHUCK | `2w85VLX4W4qm...` | 0.059 | — | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/5SWiMaenJTnKnf8rqWfKQUoZCPiTW7MGwsQGcDHedqAGZsTm81EDpkaViZ1nsuhGxFEuUbXtnfap7YxyjcdjnLie) |
@@ -202,5 +204,3 @@
 | 2026-03-18 22:11 | 🟢 buy | KAT | `6raSuhfig5Y1...` | 0.500 | 0.0050 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5zxV7QprEa6ueNUid4N1vbtsjYoYJBiZu7NPmFHcSCgH3yZWip3NndH4vPTkFSTsgmxAUBg6ngvvQb255qAmZe2t) |
 | 2026-03-18 22:09 | 🟢 buy | Manchas | `J5jm7BnBiGaB...` | 0.500 | 0.0000 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/34CfjNrgEnYBGKsbq17M7Efe5fN4uuD7TiFr47LxJjQi3C3R4yYVJPuBvsoPu5SKEKxacUfGEbNjrRHAU1dfLxz5) |
 | 2026-03-18 22:08 | 🔴 sell | BERTIE | `J5jm7BnBiGaB...` | 0.197 | 0.0005 | 0.4x | stop_loss | [tx](https://solscan.io/tx/5rSkj9QCRBrA2APEmZ1As1gMNik6aB6C2KA5jXKfkNL4gJ4wiVkHWogmg267FC35z3GgPY66FmdYuYjwjRMcCkej) |
-| 2026-03-18 22:08 | 🟢 buy | RUSH | `2w85VLX4W4qm...` | 0.500 | 0.0050 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/2pXZrz6wPCpQ7efCdqKFiHqjwX7QYCAVAKJrhKCLUBBF2oWqxJ3urFMkQMYt65eHePJKK8FhuwmrzvyWK32ino4f) |
-| 2026-03-18 22:00 | 🔴 sell | FOOL | `HMM6RoT2Xo3B...` | 0.258 | 0.0005 | 2.1x | tp_2x_half | [tx](https://solscan.io/tx/MTitfoDaPdKvc9bUsyq1Wc3bTPZM7zzmD9T2nDVQD6kHf7wqyeS9KWeLCiEKcwwSU38KTznCQdBxneEiKjc3bLm) |
