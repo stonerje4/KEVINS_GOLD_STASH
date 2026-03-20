@@ -1,24 +1,23 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+188 |
-| 🏦 Total | **$+188** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 3 (2 open, 1 closed) |
+| W/L | 1/0 (100%) |
+| 💵 Realized | $+49 |
+| 📦 Unrealized | $+87 |
+| 🏦 Total | **$+137** |
+| Best Trade | 1.5x |
+| Avg Peak | 3.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 credit | $0.000005 | **3.50x** ($+250) | 3.50x | ✅ | pumpfun | 2026-03-20 03:03 |
 | 🔴 ARIA | $0.000036 | **0.64x** ($-36) | 1.22x |  | pumpswap | 2026-03-20 01:59 |
 | 🟢 D3g3T1ZD | $0.000003 | **4.64x** ($+364) | 5.46x | ✅ | pumpfun | 2026-03-20 01:52 |
 
@@ -26,6 +25,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 credit | 1.49x | $+49 | trailing_stop_4x | 3.64x | pumpfun | 2026-03-20 03:03 → 2026-03-20 03:14 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

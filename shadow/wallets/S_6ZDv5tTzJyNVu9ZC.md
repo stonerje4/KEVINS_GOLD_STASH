@@ -1,12 +1,12 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 108 (107 open, 1 closed) |
+| Positions | 109 (108 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+195 |
 | 📦 Unrealized | $+374 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 UBT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:05 |
 | 🟡 AFC | $0.000005 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 APES | $0.000206 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |

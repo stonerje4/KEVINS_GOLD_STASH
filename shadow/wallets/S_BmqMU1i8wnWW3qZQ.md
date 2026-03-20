@@ -1,16 +1,16 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 223 (221 open, 2 closed) |
+| Positions | 224 (222 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+94 |
-| 📦 Unrealized | $-177 |
-| 🏦 Total | **$-83** |
+| 📦 Unrealized | $-183 |
+| 🏦 Total | **$-88** |
 | Best Trade | 2.8x |
 | Avg Peak | 4.0x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Gayatollah | $0.000007 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 hahahaha | $0.000006 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 03:09 |
 | 🔴 Wob | $0.000021 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 03:01 |
 | 🟡 TeraFab | $0.000062 | **1.06x** ($+6) | 1.12x |  | pumpswap | 2026-03-20 02:59 |
 | 🔴 BBX | $0.000010 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 APES | $0.000239 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
 | 🔴 PAD | $0.000016 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
-| 🔴 42 | $0.000047 | **0.95x** ($-5) | 1.37x |  | pumpswap | 2026-03-20 02:57 |
+| 🔴 42 | $0.000047 | **0.97x** ($-3) | 1.37x |  | pumpswap | 2026-03-20 02:57 |
 | 🔴 CARROT | $0.000008 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🔴 GAS | $0.000009 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🟡 Gany | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:54 |

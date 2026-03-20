@@ -1,16 +1,16 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 35 (20 open, 15 closed) |
-| W/L | 0/15 (0%) |
-| 💵 Realized | $-768 |
+| Positions | 37 (21 open, 16 closed) |
+| W/L | 0/16 (0%) |
+| 💵 Realized | $-837 |
 | 📦 Unrealized | $-275 |
-| 🏦 Total | **$-1,042** |
+| 🏦 Total | **$-1,111** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 MFT | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🟡 SPARKOS | $0.000109 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:48 |
 | 🟡 W | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:13 |
 | 🟡 BOE | $0.000021 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:11 |
@@ -43,6 +44,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 badger | 0.31x | $-69 | stop_loss | 1.07x | pumpfun | 2026-03-20 03:10 → 2026-03-20 03:11 |
 | 🔴 GACEY | 0.39x | $-61 | stop_loss | 1.11x | pumpswap | 2026-03-20 01:50 → 2026-03-20 02:10 |
 | 🔴 Cyberfy | 0.38x | $-62 | stop_loss | 1.02x | pumpfun | 2026-03-20 00:43 → 2026-03-20 01:04 |
 | 🔴 BOB | 0.40x | $-60 | stop_loss | 1.07x | pumpswap | 2026-03-20 00:42 → 2026-03-20 00:48 |

@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 76 (73 open, 3 closed) |
+| Positions | 77 (74 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+250 |
-| 🏦 Total | **$+160** |
+| 📦 Unrealized | $+253 |
+| 🏦 Total | **$+163** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Retardmaxx | $0.000356 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 03:03 |
+| 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
+| 🟡 Retardmaxx | $0.000356 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Rosie | $0.000878 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🔴 WhiteBoy  | $0.000014 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
 | 🟡 OSP | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |

@@ -1,16 +1,16 @@
 # Wallet: `CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs`
 
-> [View on Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (5 open, 1 closed) |
+| Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+45 |
-| 🏦 Total | **$-15** |
+| 📦 Unrealized | $+95 |
+| 🏦 Total | **$+35** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Patience | $0.000012 | **1.50x** ($+50) | 1.71x |  | pumpfun | 2026-03-20 03:13 |
 | 🟡 Sentinel | $0.000006 | **1.19x** ($+19) | 1.42x |  | pumpfun | 2026-03-20 02:55 |
 | 🔴 7stJpuEK | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 02:48 |
 | 🔴 4bZz6epa | $0.000006 | **0.41x** ($-59) | 1.00x |  | pumpfun | 2026-03-20 02:09 |

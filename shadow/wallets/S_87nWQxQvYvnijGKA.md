@@ -1,6 +1,6 @@
-# Wallet: `DJdvSC8tAscQ3tgdFXusesy3AqGjSe6dEeavm6NMbtkJ`
+# Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
 
-> [View on Solscan](https://solscan.io/account/DJdvSC8tAscQ3tgdFXusesy3AqGjSe6dEeavm6NMbtkJ) | Updated: 2026-03-20 03:14 UTC
+> [View on Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 NBR | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:05 |
+| 🟡 WRT | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:13 |
 
 ## Closed Positions
 

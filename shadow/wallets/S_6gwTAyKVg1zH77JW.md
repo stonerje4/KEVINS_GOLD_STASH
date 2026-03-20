@@ -1,12 +1,12 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 99 (97 open, 2 closed) |
+| Positions | 101 (99 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
 | 📦 Unrealized | $+89 |
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 APES | $0.000172 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:14 |
+| 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 wallahi | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:06 |
 | 🟡 AFC | $0.000005 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Wob | $0.000019 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 03:02 |

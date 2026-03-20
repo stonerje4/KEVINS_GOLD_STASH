@@ -1,16 +1,16 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [View on Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (10 open, 6 closed) |
+| Positions | 17 (11 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+128 |
 | 📦 Unrealized | $+181 |
-| 🏦 Total | **$+310** |
+| 🏦 Total | **$+309** |
 | Best Trade | 2.9x |
 | Avg Peak | 2.8x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Patience | $0.000017 | **1.00x** ($-0) | 1.12x |  | pumpfun | 2026-03-20 03:14 |
 | 🔴 SMCI | $0.000004 | **0.69x** ($-31) | 1.00x |  | pumpfun | 2026-03-20 02:49 |
 | 🔴 MINKA | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 02:36 |
 | 🟡 IMAGINE | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:09 |

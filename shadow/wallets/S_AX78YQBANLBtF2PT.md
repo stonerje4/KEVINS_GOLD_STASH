@@ -1,12 +1,12 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 03:09 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 03:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (5 open, 2 closed) |
+| Positions | 8 (6 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
 | 📦 Unrealized | $+117 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Sentinel | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🔴 EefwCHU8 | $0.000004 | **0.60x** ($-40) | 1.16x |  | pumpfun | 2026-03-20 02:46 |
 | 🔴 INR | $0.000006 | **0.41x** ($-59) | 1.93x |  | pumpfun | 2026-03-20 02:31 |
 | 🟢 Grokslop | $0.000010 | **3.80x** ($+280) | 3.80x | ✅ | pumpfun | 2026-03-20 00:47 |
