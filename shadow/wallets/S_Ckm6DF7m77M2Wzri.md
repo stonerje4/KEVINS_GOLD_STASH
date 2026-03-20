@@ -1,6 +1,6 @@
 # Wallet: `Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq`
 
-> [GMGN](https://gmgn.ai/sol/address/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) | [Solscan](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) | Updated: 2026-03-20 23:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) | [Solscan](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) | Updated: 2026-03-20 23:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-78 |
-| 📦 Unrealized | $-84 |
-| 🏦 Total | **$-162** |
+| 📦 Unrealized | $-72 |
+| 🏦 Total | **$-150** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.61x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Grokputer | $0.000010 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 21:15 |
-| 🔴 METAMEME | $0.000010 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 12:21 |
+| 🔴 Grokputer | $0.000010 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 21:15 |
+| 🔴 METAMEME | $0.000010 | **0.61x** ($-39) | 1.00x |  | pumpswap | 2026-03-20 12:21 |
 | 🟡 DTC | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:25 |
 
 ## Closed Positions

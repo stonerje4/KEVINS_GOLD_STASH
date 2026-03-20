@@ -1,6 +1,6 @@
 # Wallet: `4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH`
 
-> [GMGN](https://gmgn.ai/sol/address/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | [Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 23:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | [Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 23:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (4 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-248 |
-| 📦 Unrealized | $+34 |
-| 🏦 Total | **$-214** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-252** |
 | Best ROI | 0.98x |
 | Avg ROI | 0.50x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 ESCAPE | $0.000005 | **0.52x** ($-48) | 1.32x |  | pumpfun | 2026-03-20 20:21 |
-| 🟡 Nonchalant | $0.000011 | **1.96x** ($+96) | 1.96x |  | pumpfun | 2026-03-20 18:41 |
+| 🟢 Nonchalant | $0.000011 | **2.17x** ($+117) | 2.31x | ✅ | pumpfun | 2026-03-20 18:41 |
 | 🔴 PIZZA | $0.000009 | **0.88x** ($-12) | 1.12x |  | pumpfun | 2026-03-20 16:53 |
 | 🔴 Oracle | $0.000007 | **0.98x** ($-2) | 1.45x |  | pumpfun | 2026-03-20 13:57 |
 
