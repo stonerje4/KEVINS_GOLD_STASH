@@ -1,6 +1,6 @@
 # Wallet: `294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN`
 
-> [GMGN](https://gmgn.ai/sol/address/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | [Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 20:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | [Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 20:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-174 |
-| 🏦 Total | **$-174** |
+| 📦 Unrealized | $-188 |
+| 🏦 Total | **$-188** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CRACK | $0.000016 | **1.36x** ($+36) | 1.69x |  | pumpfun | 2026-03-20 19:28 |
+| 🟡 CRACK | $0.000016 | **1.21x** ($+21) | 1.69x |  | pumpfun | 2026-03-20 19:28 |
 | 🔴 CAT | $0.000007 | **0.69x** ($-31) | 1.08x |  | pumpfun | 2026-03-20 19:19 |
 | 🔴 TITUATION | $0.000040 | **0.83x** ($-17) | 1.26x |  | pumpswap | 2026-03-20 18:37 |
 | 🟡 ChibiTrump | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:08 |

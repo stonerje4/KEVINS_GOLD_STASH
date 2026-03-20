@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 20:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 20:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 41 (38 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-89 |
-| 📦 Unrealized | $-65 |
-| 🏦 Total | **$-154** |
+| 📦 Unrealized | $-104 |
+| 🏦 Total | **$-193** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.70x |
 
@@ -23,8 +23,8 @@
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
 | 🔴 Dryer | $0.000016 | **0.87x** ($-13) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |
 | 🔴 clod | $0.000024 | **0.79x** ($-21) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
-| 🔴 Simulation | $0.000022 | **0.81x** ($-19) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
-| 🔴 CHANNELS | $0.000024 | **0.78x** ($-22) | 1.07x |  | pumpswap | 2026-03-20 13:59 |
+| 🔴 Simulation | $0.000022 | **0.66x** ($-34) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
+| 🔴 CHANNELS | $0.000024 | **0.76x** ($-24) | 1.07x |  | pumpswap | 2026-03-20 13:59 |
 | 🟡 Alien | $0.000020 | **1.03x** ($+3) | 2.14x | ✅ | pumpswap | 2026-03-20 13:28 |
 | 🟡 AVATAR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
 | 🟡 AIFRUIT | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:37 |
@@ -37,7 +37,7 @@
 | 🔴 Antigravity | $0.000008 | **0.59x** ($-41) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 IMAGINE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
 | 🟡 Futa-kun | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
-| 🟡 OIIA | $0.000019 | **1.51x** ($+51) | 1.68x |  | pumpswap | 2026-03-20 05:53 |
+| 🟡 OIIA | $0.000019 | **1.29x** ($+29) | 1.68x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 IShowSpeed | $0.000007 | **1.52x** ($+52) | 2.89x | ✅ | pumpswap | 2026-03-20 04:52 |
 | 🟡 Luxury | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:50 |
 | 🟡 DLORP | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:28 |

@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 20:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 20:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 160 (157 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+121 |
-| 📦 Unrealized | $-593 |
-| 🏦 Total | **$-472** |
+| 📦 Unrealized | $-665 |
+| 🏦 Total | **$-544** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.40x |
 
@@ -42,7 +42,7 @@
 | 🟡 Dozer | $0.000010 | **1.17x** ($+17) | 1.38x |  | pumpswap | 2026-03-20 15:27 |
 | 🔴 HAMILTON | $0.000012 | **0.77x** ($-23) | 1.05x |  | pumpswap | 2026-03-20 15:05 |
 | 🔴 clod | $0.000026 | **0.76x** ($-24) | 1.55x |  | pumpswap | 2026-03-20 15:02 |
-| 🔴 Speak | $0.000017 | **0.86x** ($-14) | 1.11x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 Speak | $0.000017 | **0.71x** ($-29) | 1.11x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 GameTheory | $0.000013 | **1.29x** ($+29) | 1.33x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🔴 Ava | $0.000010 | **0.90x** ($-10) | 1.01x |  | pumpswap | 2026-03-20 14:48 |
@@ -79,7 +79,7 @@
 | 🟡 AIFRUIT | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:37 |
 | 🔴 UGOR | $0.000024 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 09:28 |
 | 🟡 Hamster | $0.000028 | **1.20x** ($+20) | 1.21x |  | pumpswap | 2026-03-20 08:42 |
-| 🟡 LUMO | $0.000037 | **1.51x** ($+51) | 1.64x |  | pumpswap | 2026-03-20 08:32 |
+| 🟡 LUMO | $0.000037 | **1.06x** ($+6) | 1.64x |  | pumpswap | 2026-03-20 08:32 |
 | 🟡 Achieve | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:18 |
 | 🟡 しずく | $0.000015 | **1.04x** ($+4) | 1.26x |  | pumpswap | 2026-03-20 08:09 |
 | 🟡 OPTIMUS | $0.000015 | **1.20x** ($+20) | 1.26x |  | pumpswap | 2026-03-20 08:05 |
@@ -107,7 +107,7 @@
 | 🟡 TMRW | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:41 |
 | 🔴 Moe-chan | $0.000015 | **0.93x** ($-7) | 1.17x |  | pumpswap | 2026-03-20 04:36 |
 | 🔴 AGON | $0.000007 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 04:35 |
-| 🟡 Xingxing | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:25 |
+| 🔴 Xingxing | $0.000026 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 04:25 |
 | 🟡 eUSD | $0.000012 | **1.10x** ($+10) | 1.15x |  | pumpswap | 2026-03-20 04:04 |
 | 🔴 MOJTABA | $0.000011 | **0.87x** ($-13) | 1.01x |  | pumpswap | 2026-03-20 03:59 |
 | 🔴 stoic | $0.000016 | **0.99x** ($-1) | 1.05x |  | pumpswap | 2026-03-20 03:56 |

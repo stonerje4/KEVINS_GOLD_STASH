@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 20:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 20:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 65 (59 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $-187 |
-| 🏦 Total | **$-465** |
+| 📦 Unrealized | $-243 |
+| 🏦 Total | **$-521** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.54x |
 
@@ -48,7 +48,7 @@
 | 🔴 Goose | $0.000018 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
 | 🔴 IMAGINE | $0.000027 | **0.92x** ($-8) | 1.02x |  | pumpswap | 2026-03-20 05:02 |
 | 🟡 CHOPPER | $0.000025 | **1.31x** ($+31) | 1.32x |  | pumpswap | 2026-03-20 04:44 |
-| 🟡 OIIA | $0.000015 | **1.88x** ($+88) | 2.10x | ✅ | pumpswap | 2026-03-20 03:53 |
+| 🟡 OIIA | $0.000015 | **1.61x** ($+61) | 2.10x | ✅ | pumpswap | 2026-03-20 03:53 |
 | 🟡 COLLECTIBLE | $0.000040 | **1.40x** ($+40) | 1.50x |  | pumpswap | 2026-03-20 03:48 |
 | 🟡 Freebuff | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:27 |
 | 🟡 WhiteBoy  | $0.000014 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:50 |
@@ -59,9 +59,9 @@
 | 🟡 FKH | $0.000017 | **1.09x** ($+9) | 1.12x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 Hamster | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Ouroboros | $0.000029 | **0.61x** ($-39) | 1.03x |  | pumpswap | 2026-03-20 01:43 |
-| 🔴 Speak | $0.000023 | **0.63x** ($-37) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
-| 🔴 LIFE | $0.000024 | **0.86x** ($-14) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
-| 🟢 LUMO | $0.000027 | **2.08x** ($+108) | 2.26x | ✅ | pumpswap | 2026-03-20 00:48 |
+| 🔴 Speak | $0.000023 | **0.52x** ($-48) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
+| 🔴 LIFE | $0.000024 | **0.85x** ($-15) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
+| 🟡 LUMO | $0.000027 | **1.46x** ($+46) | 2.26x | ✅ | pumpswap | 2026-03-20 00:48 |
 | 🟡 Saleh | $0.000013 | **1.71x** ($+71) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
 | 🟢 WRT | $0.000014 | **2.15x** ($+115) | 2.15x | ✅ | pumpswap | 2026-03-20 00:34 |
 | 🔴 Billy | $0.000011 | **0.81x** ($-19) | 1.18x |  | pumpswap | 2026-03-20 00:23 |

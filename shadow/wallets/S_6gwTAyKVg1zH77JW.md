@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 20:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 20:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (95 open, 4 closed) |
 | W/L | 3/1 (75%) |
 | 💵 Realized | $+227 |
-| 📦 Unrealized | $-506 |
-| 🏦 Total | **$-279** |
+| 📦 Unrealized | $-526 |
+| 🏦 Total | **$-299** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.57x |
 
@@ -37,14 +37,14 @@
 | 🔴 DATBOI | $0.000038 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🔴 Higuruma | $0.000017 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:33 |
 | 🟡 Sybil  | $0.000033 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 14:25 |
-| 🟡 Xingxing | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
+| 🔴 Xingxing | $0.000025 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
 | 🟡 Squishy | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
 | 🔴 CLAIR | $0.000014 | **1.00x** ($-0) | 1.04x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 NICK | $0.000026 | **1.08x** ($+8) | 1.16x |  | pumpswap | 2026-03-20 13:22 |
 | 🟢 TFW | $0.000022 | **2.10x** ($+110) | 3.23x | ✅ | pumpswap | 2026-03-20 12:38 |
-| 🔴 Speak | $0.000022 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
+| 🔴 Speak | $0.000022 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
 | 🔴 honkermog | $0.000039 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🟡 Joobi | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:49 |
 | 🟡 MiniBob | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:35 |
