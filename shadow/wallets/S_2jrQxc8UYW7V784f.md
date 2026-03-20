@@ -1,6 +1,6 @@
 # Wallet: `2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW`
 
-> [View on Solscan](https://solscan.io/account/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | Updated: 2026-03-20 06:45 UTC
+> [View on Solscan](https://solscan.io/account/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | Updated: 2026-03-20 06:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+5 |
-| 🏦 Total | **$+5** |
+| 📦 Unrealized | $+2 |
+| 🏦 Total | **$+2** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -24,7 +24,7 @@
 | 🟡 NOSTALGIA | $0.000004 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 04:32 |
 | 🟡 Genesis-2 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:47 |
 | 🟡 glorp | $0.000004 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 03:42 |
-| 🟡 distraction | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
+| 🔴 distraction | $0.000007 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 
 ## Closed Positions
 
