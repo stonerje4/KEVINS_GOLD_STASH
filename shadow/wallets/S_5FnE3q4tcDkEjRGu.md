@@ -1,24 +1,23 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 23:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 23:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (11 open, 3 closed) |
-| W/L | 2/1 (67%) |
-| 💵 Realized | $+213 |
-| 📦 Unrealized | $+14 |
-| 🏦 Total | **$+227** |
+| Positions | 14 (10 open, 4 closed) |
+| W/L | 2/2 (50%) |
+| 💵 Realized | $+153 |
+| 📦 Unrealized | $+56 |
+| 🏦 Total | **$+208** |
 | Best ROI | 2.87x |
-| Avg ROI | 1.71x |
+| Avg ROI | 1.38x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Jessica | $0.000010 | **0.58x** ($-42) | 1.42x |  | pumpfun | 2026-03-20 22:12 |
 | 🟢 Cigify | $0.000012 | **3.00x** ($+200) | 3.00x | ✅ | pumpfun | 2026-03-20 21:02 |
 | 🔴 OpenRocket | $0.000005 | **0.52x** ($-48) | 1.44x |  | pumpfun | 2026-03-20 19:39 |
 | 🟢 Immortalism | $0.000006 | **2.78x** ($+178) | 3.89x | ✅ | pumpfun | 2026-03-20 15:24 |
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Jessica | 0.40x | $-60 | stop_loss | 1.42x | pumpfun | 2026-03-20 22:12 → 2026-03-20 23:12 |
 | 🟡 CHIBI | 0.85x | $-15 | trailing_stop_2x | 2.45x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:33 |
 | 🟢 IMAGINE | 2.87x | $+187 | trailing_stop_9x | 9.27x | pumpfun | 2026-03-20 02:37 → 2026-03-20 22:30 |
 | 🟡 Fruits | 1.41x | $+41 | trailing_stop_3x | 3.26x | pumpfun | 2026-03-20 00:01 → 2026-03-20 00:23 |

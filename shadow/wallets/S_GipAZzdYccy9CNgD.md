@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 23:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 23:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (13 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-101 |
-| 📦 Unrealized | $+199 |
-| 🏦 Total | **$+98** |
+| 📦 Unrealized | $+167 |
+| 🏦 Total | **$+67** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.75x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 OSP | $0.000008 | **2.18x** ($+118) | 2.65x | ✅ | pumpswap | 2026-03-20 22:56 |
-| 🟡 XCAT | $0.000005 | **1.08x** ($+8) | 1.14x |  | pumpfun | 2026-03-20 22:00 |
+| 🟡 OSP | $0.000008 | **1.75x** ($+75) | 2.65x | ✅ | pumpswap | 2026-03-20 22:56 |
+| 🔴 XCAT | $0.000005 | **0.99x** ($-1) | 1.14x |  | pumpfun | 2026-03-20 22:00 |
 | 🟡 TRACEWAY | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:00 |
 | 🔴 i | $0.000011 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 18:13 |
 | 🟡 IShowSpeed | $0.000008 | **1.90x** ($+90) | 2.31x | ✅ | pumpswap | 2026-03-20 17:26 |

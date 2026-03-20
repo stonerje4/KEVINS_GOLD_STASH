@@ -1,6 +1,6 @@
 # Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
 
-> [GMGN](https://gmgn.ai/sol/address/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | [Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 23:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | [Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 23:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (10 open, 12 closed) |
 | W/L | 2/10 (17%) |
 | 💵 Realized | $-458 |
-| 📦 Unrealized | $+60 |
-| 🏦 Total | **$-398** |
+| 📦 Unrealized | $+58 |
+| 🏦 Total | **$-401** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.62x |
 
@@ -26,7 +26,7 @@
 | 🔴 Oracle | $0.000008 | **0.85x** ($-15) | 1.26x |  | pumpfun | 2026-03-19 23:08 |
 | 🔴 Record | $0.000012 | **0.77x** ($-23) | 1.80x |  | pumpfun | 2026-03-19 23:08 |
 | 🔴 WABORI | $0.000007 | **0.42x** ($-58) | 1.41x |  | pumpfun | 2026-03-19 22:54 |
-| 🟡 PILOT | $0.000011 | **1.90x** ($+90) | 2.82x | ✅ | pumpfun | 2026-03-19 22:51 |
+| 🟡 PILOT | $0.000011 | **1.84x** ($+84) | 2.82x | ✅ | pumpfun | 2026-03-19 22:51 |
 | 🟡 Jesus | $0.000006 | **1.32x** ($+32) | 2.21x | ✅ | pumpfun | 2026-03-19 22:46 |
 
 ## Closed Positions
