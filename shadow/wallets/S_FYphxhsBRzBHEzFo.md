@@ -11,14 +11,14 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-23 |
 | 🏦 Total | **$-23** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WhiteHouse | $0.000378 | **0.81x** ($-19) | 1.03x |  | pumpswap | 2026-03-20 03:23 |
+| 🔴 WhiteHouse | $0.000378 | **0.82x** ($-18) | 1.03x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 OmegaX | $0.000435 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-19 22:54 |
 
 ## Closed Positions

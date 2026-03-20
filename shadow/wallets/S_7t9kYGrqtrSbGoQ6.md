@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 281 (277 open, 4 closed) |
+| Positions | 282 (278 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
 | 📦 Unrealized | $+141 |
 | 🏦 Total | **$+137** |
-| Best Trade | 3.0x |
-| Avg Peak | 2.7x |
+| Best ROI | 3.00x |
+| Avg ROI | 0.99x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SCUBA | $0.000286 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:33 |
 | 🟡 ORACLE | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:30 |
 | 🟡 NemoClaw | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
 | 🟡 UNTAXED | $0.000146 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:14 |
@@ -94,7 +95,7 @@
 | 🔴 Doom | $0.000071 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 05:34 |
 | 🟡 SOS | $0.000864 | **1.33x** ($+33) | 1.33x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 GIGACHAD | $0.000006 | **1.26x** ($+26) | 2.29x | ✅ | pumpswap | 2026-03-20 05:19 |
-| 🔴 WhiteHouse | $0.000365 | **0.84x** ($-16) | 1.02x |  | pumpswap | 2026-03-20 05:10 |
+| 🔴 WhiteHouse | $0.000365 | **0.85x** ($-15) | 1.02x |  | pumpswap | 2026-03-20 05:10 |
 | 🟡 shitcoin | $0.000072 | **1.11x** ($+11) | 1.15x |  | pumpswap | 2026-03-20 05:10 |
 | 🟡 Strawberita | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:03 |
 | 🟡 X | $0.000156 | **1.05x** ($+5) | 1.11x |  | pumpswap | 2026-03-20 05:02 |

@@ -9,16 +9,16 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+49 |
-| 📦 Unrealized | $+27 |
+| 📦 Unrealized | $+26 |
 | 🏦 Total | **$+76** |
-| Best Trade | 1.5x |
-| Avg Peak | 3.4x |
+| Best ROI | 1.49x |
+| Avg ROI | 1.49x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBELON | $0.000141 | **1.27x** ($+27) | 1.78x |  | pumpswap | 2026-03-20 09:39 |
+| 🟡 CHIBELON | $0.000141 | **1.26x** ($+26) | 1.78x |  | pumpswap | 2026-03-20 09:39 |
 
 ## Closed Positions
 

@@ -11,15 +11,15 @@
 | 💵 Realized | $-190 |
 | 📦 Unrealized | $+145 |
 | 🏦 Total | **$-45** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.37x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 OM | $0.000008 | **1.17x** ($+17) | 1.53x |  | pumpfun | 2026-03-20 10:31 |
-| 🔴 omochi | $0.000023 | **0.67x** ($-33) | 1.01x |  | pumpfun | 2026-03-20 10:29 |
+| 🔴 omochi | $0.000023 | **0.66x** ($-34) | 1.01x |  | pumpfun | 2026-03-20 10:29 |
 | 🟡 SIGNAL | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:26 |
 | 🟡 Imaginify | $0.000009 | **1.52x** ($+52) | 1.68x |  | pumpfun | 2026-03-20 09:42 |
 | 🟡 Zhdun | $0.000024 | **1.54x** ($+54) | 1.54x |  | pumpfun | 2026-03-20 09:07 |
