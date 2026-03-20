@@ -1,6 +1,6 @@
 # Wallet: `8WXpW2efsN5oML6XfcKu7FGq2dkaFw8B3nZsQY193UxY`
 
-> [View on Solscan](https://solscan.io/account/8WXpW2efsN5oML6XfcKu7FGq2dkaFw8B3nZsQY193UxY) | Updated: 2026-03-20 01:14 UTC
+> [View on Solscan](https://solscan.io/account/8WXpW2efsN5oML6XfcKu7FGq2dkaFw8B3nZsQY193UxY) | Updated: 2026-03-20 01:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (3 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-185 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-204** |
+| 📦 Unrealized | $-26 |
+| 🏦 Total | **$-212** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.3x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 TITTYKILLER | $0.000004 | **0.68x** ($-32) | 1.01x |  | pumpfun | 2026-03-20 00:44 |
 | 🟡 PETE | $0.000006 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:06 |
-| 🟡 ELEPHANT | $0.000006 | **1.13x** ($+13) | 1.73x |  | pumpswap | 2026-03-20 00:02 |
+| 🟡 ELEPHANT | $0.000006 | **1.05x** ($+5) | 1.73x |  | pumpswap | 2026-03-20 00:02 |
 
 ## Closed Positions
 

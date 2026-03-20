@@ -1,6 +1,6 @@
 # Wallet: `37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK`
 
-> [View on Solscan](https://solscan.io/account/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK) | Updated: 2026-03-20 01:14 UTC
+> [View on Solscan](https://solscan.io/account/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK) | Updated: 2026-03-20 01:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-17 |
-| 🏦 Total | **$-17** |
+| 📦 Unrealized | $-24 |
+| 🏦 Total | **$-24** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Monke | $0.000014 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-19 23:31 |
+| 🔴 Monke | $0.000014 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-19 23:31 |
 | 🟡 NeeDoh | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:30 |
 
 ## Closed Positions

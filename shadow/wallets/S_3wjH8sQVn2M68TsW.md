@@ -1,6 +1,6 @@
 # Wallet: `3wjH8sQVn2M68TsW17Nh9fpddQU11Mf6kDrf7x9BG1KC`
 
-> [View on Solscan](https://solscan.io/account/3wjH8sQVn2M68TsW17Nh9fpddQU11Mf6kDrf7x9BG1KC) | Updated: 2026-03-20 01:14 UTC
+> [View on Solscan](https://solscan.io/account/3wjH8sQVn2M68TsW17Nh9fpddQU11Mf6kDrf7x9BG1KC) | Updated: 2026-03-20 01:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+15 |
-| 🏦 Total | **$+15** |
+| 📦 Unrealized | $+10 |
+| 🏦 Total | **$+10** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Optimistrump | $0.000003 | **1.15x** ($+15) | 1.83x |  | pumpswap | 2026-03-20 00:25 |
+| 🟡 Optimistrump | $0.000003 | **1.10x** ($+10) | 1.83x |  | pumpswap | 2026-03-20 00:25 |
 | 🟡 NEXUS | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 00:22 |
 
 ## Closed Positions

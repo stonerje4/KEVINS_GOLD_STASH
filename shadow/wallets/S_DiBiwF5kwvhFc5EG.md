@@ -1,6 +1,6 @@
 # Wallet: `DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft`
 
-> [View on Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 01:14 UTC
+> [View on Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 01:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-126 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-125** |
+| 📦 Unrealized | $-20 |
+| 🏦 Total | **$-146** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 AFC | $0.000004 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 01:13 |
-| 🟡 DICKUS | $0.000014 | **1.08x** ($+8) | 1.78x |  | pumpfun | 2026-03-20 00:50 |
-| 🟡 PIKE | $0.000035 | **1.20x** ($+20) | 1.20x |  | pumpswap | 2026-03-19 23:28 |
-| 🔴 OIIA | $0.000017 | **0.72x** ($-28) | 1.27x |  | pumpswap | 2026-03-19 23:26 |
+| 🔴 AFC | $0.000004 | **0.98x** ($-2) | 1.01x |  | pumpfun | 2026-03-20 01:13 |
+| 🟡 DICKUS | $0.000014 | **1.03x** ($+3) | 1.78x |  | pumpfun | 2026-03-20 00:50 |
+| 🟡 PIKE | $0.000035 | **1.11x** ($+11) | 1.21x |  | pumpswap | 2026-03-19 23:28 |
+| 🔴 OIIA | $0.000017 | **0.67x** ($-33) | 1.27x |  | pumpswap | 2026-03-19 23:26 |
 
 ## Closed Positions
 

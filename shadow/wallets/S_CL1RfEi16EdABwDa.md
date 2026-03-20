@@ -1,6 +1,6 @@
 # Wallet: `CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft`
 
-> [View on Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-20 01:14 UTC
+> [View on Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-20 01:19 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 King | $0.000008 | **0.86x** ($-14) | 1.11x |  | pumpswap | 2026-03-20 00:45 |
 | 🟡 tinfoil | $0.000047 | **1.05x** ($+5) | 1.27x |  | pumpswap | 2026-03-20 00:23 |
-| 🔴 XAI | $0.000014 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
+| 🔴 XAI | $0.000014 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
 
 ## Closed Positions
 

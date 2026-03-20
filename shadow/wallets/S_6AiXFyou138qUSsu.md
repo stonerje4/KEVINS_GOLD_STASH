@@ -1,6 +1,6 @@
-# Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
+# Wallet: `6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n`
 
-> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 01:19 UTC
+> [View on Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 01:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+57 |
-| 🏦 Total | **$+57** |
+| 📦 Unrealized | $-5 |
+| 🏦 Total | **$-5** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Mainer | $0.000003 | **1.57x** ($+57) | 2.00x |  | pumpfun | 2026-03-19 23:54 |
+| 🔴 LIBERTY | $0.000480 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 
 ## Closed Positions
 
