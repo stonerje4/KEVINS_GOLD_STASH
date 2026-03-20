@@ -1,6 +1,6 @@
 # Wallet: `5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg`
 
-> [GMGN](https://gmgn.ai/sol/address/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | [Solscan](https://solscan.io/account/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | [Solscan](https://solscan.io/account/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | Updated: 2026-03-20 16:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+257 |
-| 🏦 Total | **$+257** |
+| 📦 Unrealized | $+172 |
+| 🏦 Total | **$+172** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Dryer | $0.000020 | **1.82x** ($+82) | 1.82x |  | pumpfun | 2026-03-20 03:37 |
+| 🔴 Dryer | $0.000020 | **0.98x** ($-2) | 1.82x |  | pumpfun | 2026-03-20 03:37 |
 | 🟢 ceal | $0.000010 | **3.52x** ($+252) | 3.52x | ✅ | pumpfun | 2026-03-20 03:30 |
 | 🔴 驚き | $0.000020 | **0.71x** ($-29) | 1.19x |  | pumpswap | 2026-03-20 00:37 |
 | 🟡 LUMO | $0.000028 | **1.75x** ($+75) | 2.09x | ✅ | pumpswap | 2026-03-19 23:48 |

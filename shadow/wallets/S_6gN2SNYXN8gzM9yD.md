@@ -1,16 +1,16 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 16:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (4 open, 0 closed) |
+| Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+117 |
-| 🏦 Total | **$+117** |
+| 📦 Unrealized | $+65 |
+| 🏦 Total | **$+65** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Jiji | $0.000005 | **0.49x** ($-51) | 1.08x |  | pumpfun | 2026-03-20 15:52 |
 | 🔴 clod | $0.000038 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 15:28 |
 | 🟡 DLORP | $0.000007 | **1.55x** ($+55) | 1.96x |  | pumpswap | 2026-03-20 00:15 |
 | 🟡 world | $0.000022 | **1.67x** ($+67) | 1.67x |  | pumpfun | 2026-03-20 00:12 |

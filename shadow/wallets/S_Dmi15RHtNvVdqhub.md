@@ -1,6 +1,6 @@
 # Wallet: `Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD`
 
-> [GMGN](https://gmgn.ai/sol/address/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | [Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | [Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 16:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
-| 📦 Unrealized | $-58 |
-| 🏦 Total | **$-10** |
+| 📦 Unrealized | $-72 |
+| 🏦 Total | **$-24** |
 | Best ROI | 1.48x |
 | Avg ROI | 1.48x |
 
@@ -19,9 +19,9 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Sheep | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:59 |
-| 🔴 MINDLESS | $0.000225 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 04:44 |
+| 🔴 MINDLESS | $0.000225 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 04:44 |
 | 🔴 QUEST | $0.000186 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
-| 🟡 KIWI | $0.000164 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
+| 🔴 KIWI | $0.000164 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
 | 🟡 OPAY | $0.000035 | **1.14x** ($+14) | 1.17x |  | pumpswap | 2026-03-20 02:09 |
 | 🔴 GPD | $0.000014 | **0.61x** ($-39) | 1.28x |  | pumpswap | 2026-03-20 01:40 |
 | 🔴 forg | $0.000108 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 01:00 |
