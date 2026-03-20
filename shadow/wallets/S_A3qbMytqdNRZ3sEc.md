@@ -1,12 +1,12 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 05:50 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 05:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 35 (32 open, 3 closed) |
+| Positions | 36 (33 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-76 |
 | 📦 Unrealized | $-128 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 OIIA | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 Pete | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 GPD | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
 | 🟡 IShowSpeed | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:52 |

@@ -1,6 +1,6 @@
 # Wallet: `AqK6GcpazY9bwaqHhkjQcNTnhzkbXwsNx5UYT4Vuzcr`
 
-> [View on Solscan](https://solscan.io/account/AqK6GcpazY9bwaqHhkjQcNTnhzkbXwsNx5UYT4Vuzcr) | Updated: 2026-03-20 05:50 UTC
+> [View on Solscan](https://solscan.io/account/AqK6GcpazY9bwaqHhkjQcNTnhzkbXwsNx5UYT4Vuzcr) | Updated: 2026-03-20 05:55 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 imagine | $0.000000 | **50.46x** ($+4,946) | 62.72x | ✅ | pumpswap | 2026-03-20 03:25 |
+| 🚀 imagine | $0.000000 | **50.43x** ($+4,943) | 62.72x | ✅ | pumpswap | 2026-03-20 03:25 |
 
 ## Closed Positions
 

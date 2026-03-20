@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:50 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 43 (27 open, 16 closed) |
+| Positions | 44 (28 open, 16 closed) |
 | W/L | 1/15 (6%) |
 | 💵 Realized | $-677 |
-| 📦 Unrealized | $-468 |
-| 🏦 Total | **$-1,146** |
+| 📦 Unrealized | $-411 |
+| 🏦 Total | **$-1,089** |
 | Best Trade | 1.4x |
 | Avg Peak | 1.9x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟢 DBT5vdmZ | $0.000010 | **2.14x** ($+114) | 2.48x | ✅ | pumpfun | 2026-03-20 05:51 |
 | 🔴 6QRzuEiP | $0.000003 | **0.72x** ($-28) | 1.11x |  | pumpfun | 2026-03-20 05:48 |
 | 🔴 5ju6JsxF | $0.000005 | **0.51x** ($-49) | 1.35x |  | pumpfun | 2026-03-20 05:42 |
 | 🔴 horse | $0.000003 | **0.80x** ($-20) | 1.00x |  | pumpfun | 2026-03-20 05:40 |

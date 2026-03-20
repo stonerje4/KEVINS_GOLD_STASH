@@ -1,6 +1,6 @@
 # Wallet: `Be6s18aTYhuBZCSY5Z3MRZ3Qc9ia6n5rmES7xuHRcoaW`
 
-> [View on Solscan](https://solscan.io/account/Be6s18aTYhuBZCSY5Z3MRZ3Qc9ia6n5rmES7xuHRcoaW) | Updated: 2026-03-20 05:50 UTC
+> [View on Solscan](https://solscan.io/account/Be6s18aTYhuBZCSY5Z3MRZ3Qc9ia6n5rmES7xuHRcoaW) | Updated: 2026-03-20 05:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-3** |
+| 📦 Unrealized | $-1 |
+| 🏦 Total | **$-1** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TITAN | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
+| 🟡 TITAN | $0.000004 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 05:23 |
 | 🔴 SUBLIME | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 05:05 |
 | 🟡 ceal | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:10 |
 | 🔴 FLOKI | $0.000004 | **0.97x** ($-3) | 1.36x |  | pumpswap | 2026-03-20 03:27 |

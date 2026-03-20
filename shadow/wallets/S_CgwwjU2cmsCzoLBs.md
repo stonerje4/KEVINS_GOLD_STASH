@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 05:50 UTC
+> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 05:55 UTC
 
 ## Summary
 
@@ -25,7 +25,7 @@
 | 🔴 Garbonzo | $0.000009 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 CHIBIELON | $0.000005 | **1.50x** ($+50) | 1.78x |  | pumpswap | 2026-03-19 23:28 |
 | 🟡 Samba | $0.000005 | **1.15x** ($+15) | 1.40x |  | pumpswap | 2026-03-19 23:28 |
-| 🟡 CHOCOTINA | $0.000007 | **1.05x** ($+5) | 1.12x |  | pumpswap | 2026-03-19 23:16 |
+| 🟡 CHOCOTINA | $0.000007 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-19 23:16 |
 | 🟡 TMRW | $0.000008 | **1.25x** ($+25) | 1.30x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 AIFRUIT | $0.000022 | **0.95x** ($-5) | 1.40x |  | pumpswap | 2026-03-19 23:08 |
 | 🔴 tinfoil | $0.000061 | **0.78x** ($-22) | 1.09x |  | pumpswap | 2026-03-19 23:01 |

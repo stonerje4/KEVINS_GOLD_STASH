@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 05:50 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 05:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 144 (131 open, 13 closed) |
+| Positions | 145 (132 open, 13 closed) |
 | W/L | 6/7 (46%) |
 | 💵 Realized | $+996 |
-| 📦 Unrealized | $-2,288 |
-| 🏦 Total | **$-1,292** |
+| 📦 Unrealized | $-2,372 |
+| 🏦 Total | **$-1,376** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.0x |
 
@@ -18,17 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 EidMubarak | $0.000005 | **1.31x** ($+31) | 1.31x |  | pumpfun | 2026-03-20 05:45 |
-| 🔴 CORPORATE | $0.000003 | **0.96x** ($-4) | 1.09x |  | pumpfun | 2026-03-20 05:42 |
-| 🟡 QUIT | $0.000005 | **1.00x** ($+0) | 1.38x |  | pumpfun | 2026-03-20 05:33 |
+| 🔴 2tuR91ek | $0.000003 | **0.86x** ($-14) | 1.01x |  | pumpfun | 2026-03-20 05:50 |
+| 🟡 EidMubarak | $0.000005 | **1.30x** ($+30) | 1.37x |  | pumpfun | 2026-03-20 05:45 |
+| 🔴 CORPORATE | $0.000003 | **0.99x** ($-1) | 1.09x |  | pumpfun | 2026-03-20 05:42 |
+| 🔴 QUIT | $0.000005 | **0.93x** ($-7) | 1.38x |  | pumpfun | 2026-03-20 05:33 |
 | 🔴 PHM | $0.000005 | **0.89x** ($-11) | 1.13x |  | pumpfun | 2026-03-20 05:32 |
 | 🔴 PIXEL | $0.000004 | **0.65x** ($-35) | 1.08x |  | pumpfun | 2026-03-20 05:28 |
 | 🔴 bitpenis | $0.000004 | **0.71x** ($-29) | 1.14x |  | pumpfun | 2026-03-20 05:27 |
 | 🔴 SMCI | $0.000004 | **0.61x** ($-39) | 1.22x |  | pumpfun | 2026-03-20 05:24 |
 | 🔴 LiMuEmu | $0.000003 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 05:23 |
-| 🟡 BitPenis | $0.000005 | **1.37x** ($+37) | 1.64x |  | pumpfun | 2026-03-20 05:17 |
+| 🔴 BitPenis | $0.000005 | **0.72x** ($-28) | 1.64x |  | pumpfun | 2026-03-20 05:17 |
 | 🔴 REMY | $0.000004 | **0.57x** ($-43) | 1.07x |  | pumpfun | 2026-03-20 05:15 |
-| 🔴 OZEMPIC | $0.000003 | **0.81x** ($-19) | 1.08x |  | pumpfun | 2026-03-20 05:14 |
+| 🔴 OZEMPIC | $0.000003 | **0.82x** ($-18) | 1.08x |  | pumpfun | 2026-03-20 05:14 |
 | 🔴 GENOCIDE | $0.000005 | **0.51x** ($-49) | 1.54x |  | pumpfun | 2026-03-20 05:14 |
 | 🔴 GPU Miners | $0.000003 | **0.76x** ($-24) | 1.06x |  | pumpfun | 2026-03-20 04:56 |
 | 🔴 LOCKIN | $0.000004 | **0.64x** ($-36) | 1.00x |  | pumpfun | 2026-03-20 04:53 |
@@ -49,7 +50,7 @@
 | 🔴 Jeremy | $0.000003 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 03:50 |
 | 🔴 8HZ3e62c | $0.000004 | **0.70x** ($-30) | 1.00x |  | pumpfun | 2026-03-20 03:49 |
 | 🔴 WePaid | $0.000003 | **0.76x** ($-24) | 1.00x |  | pumpfun | 2026-03-20 03:40 |
-| 🔴 MANGAFY | $0.000005 | **0.96x** ($-4) | 1.22x |  | pumpfun | 2026-03-20 03:39 |
+| 🔴 MANGAFY | $0.000005 | **0.95x** ($-5) | 1.22x |  | pumpfun | 2026-03-20 03:39 |
 | 🔴 88BZ2a75 | $0.000005 | **0.51x** ($-49) | 1.14x |  | pumpfun | 2026-03-20 03:38 |
 | 🔴 EEJNnxur | $0.000005 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-20 03:37 |
 | 🔴 AIVEG | $0.000005 | **0.57x** ($-43) | 1.04x |  | pumpfun | 2026-03-20 03:30 |

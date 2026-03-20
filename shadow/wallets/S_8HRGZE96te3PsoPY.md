@@ -1,6 +1,6 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 05:50 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 05:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (8 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $-127 |
-| 📦 Unrealized | $-97 |
-| 🏦 Total | **$-224** |
+| 📦 Unrealized | $-90 |
+| 🏦 Total | **$-217** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.6x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 6vuxS6wu | $0.000005 | **0.51x** ($-49) | 1.03x |  | pumpfun | 2026-03-20 05:09 |
-| 🟡 Civil Claude | $0.000009 | **1.34x** ($+34) | 2.45x | ✅ | pumpfun | 2026-03-20 04:45 |
+| 🟡 Civil Claude | $0.000009 | **1.47x** ($+47) | 2.45x | ✅ | pumpfun | 2026-03-20 04:45 |
 | 🔴 A8qiEkxf | $0.000005 | **0.51x** ($-49) | 1.26x |  | pumpfun | 2026-03-20 04:35 |
 | 🔴 hw | $0.000003 | **0.83x** ($-17) | 1.06x |  | pumpfun | 2026-03-20 04:27 |
 | 🟡 HeatGun | $0.000007 | **1.01x** ($+1) | 1.81x |  | pumpfun | 2026-03-20 04:16 |
