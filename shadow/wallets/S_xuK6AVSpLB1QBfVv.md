@@ -9,17 +9,17 @@
 | Positions | 81 (80 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-305 |
-| 🏦 Total | **$-321** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.1x |
+| 📦 Unrealized | $-311 |
+| 🏦 Total | **$-328** |
+| Best ROI | 0.83x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 H1EcKHzC | $0.000003 | **1.17x** ($+17) | 1.26x |  | pumpfun | 2026-03-20 14:13 |
-| 🟡 KWEK | $0.000003 | **1.08x** ($+8) | 1.08x |  | pumpfun | 2026-03-20 14:08 |
+| 🟡 KWEK | $0.000003 | **1.02x** ($+2) | 1.08x |  | pumpfun | 2026-03-20 14:08 |
 | 🔴 USGR | $0.000003 | **0.91x** ($-9) | 1.01x |  | pumpfun | 2026-03-20 14:01 |
 | 🔴 V8YdLi9g | $0.000003 | **0.78x** ($-22) | 1.07x |  | pumpfun | 2026-03-20 13:47 |
 | 🔴 GROKTIRED | $0.000003 | **0.97x** ($-3) | 1.06x |  | pumpfun | 2026-03-20 13:34 |

@@ -6,20 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 39 (39 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$+28** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 39 (38 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-64 |
+| 📦 Unrealized | $+60 |
+| 🏦 Total | **$-4** |
+| Best ROI | 0.36x |
+| Avg ROI | 0.36x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CWewsqNw | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:10 |
-| 🔴 CULTURE | $0.000007 | **0.69x** ($-31) | 1.44x |  | pumpfun | 2026-03-20 14:10 |
 | 🟡 HUGH | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:07 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:04 |
 | 🔴 USGR | $0.000003 | **0.96x** ($-4) | 1.06x |  | pumpfun | 2026-03-20 14:01 |
@@ -62,6 +61,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 CULTURE | 0.36x | $-64 | stop_loss | 1.44x | pumpfun | 2026-03-20 14:10 → 2026-03-20 14:14 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

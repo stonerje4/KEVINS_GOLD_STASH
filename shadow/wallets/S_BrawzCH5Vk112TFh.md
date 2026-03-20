@@ -11,14 +11,14 @@
 | 💵 Realized | $+17 |
 | 📦 Unrealized | $+57 |
 | 🏦 Total | **$+74** |
-| Best Trade | 3.0x |
-| Avg Peak | 3.4x |
+| Best ROI | 2.99x |
+| Avg ROI | 1.04x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ORAMAMA | $0.000010 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 14:13 |
+| 🟡 ORAMAMA | $0.000010 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 DOGEFATHER | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
 | 🔴 X | $0.000014 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 LUNAR | $0.000038 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 13:41 |

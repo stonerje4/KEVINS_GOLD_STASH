@@ -9,16 +9,16 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+50 |
-| 🏦 Total | **$+50** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+61 |
+| 🏦 Total | **$+61** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 RUNE | $0.000004 | **2.00x** ($+100) | 2.06x | ✅ | pumpfun | 2026-03-20 13:56 |
+| 🟢 RUNE | $0.000004 | **2.23x** ($+123) | 2.23x | ✅ | pumpfun | 2026-03-20 13:56 |
 
 ## Closed Positions
 

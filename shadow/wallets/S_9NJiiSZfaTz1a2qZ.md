@@ -9,16 +9,16 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-18 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+33** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.2x |
+| 📦 Unrealized | $+48 |
+| 🏦 Total | **$+30** |
+| Best ROI | 1.47x |
+| Avg ROI | 0.91x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ANIME | $0.000009 | **0.64x** ($-36) | 1.21x |  | pumpfun | 2026-03-20 13:34 |
+| 🔴 ANIME | $0.000009 | **0.61x** ($-39) | 1.21x |  | pumpfun | 2026-03-20 13:34 |
 | 🔴 9pVz3EK1 | $0.000005 | **0.49x** ($-51) | 1.39x |  | pumpfun | 2026-03-20 00:40 |
 | 🟢 BBdd6gHX | $0.000008 | **4.44x** ($+344) | 4.44x | ✅ | pumpfun | 2026-03-19 23:24 |
 

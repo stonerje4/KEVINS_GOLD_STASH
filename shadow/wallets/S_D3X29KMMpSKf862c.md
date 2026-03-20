@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (8 open, 0 closed) |
+| Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+47 |
 | 🏦 Total | **$+47** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Civil Claude | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
 | 🟡 OSP | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
 | 🟡 Clutch | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
 | 🔴 MUSK | $0.000004 | **0.61x** ($-39) | 1.68x |  | pumpfun | 2026-03-20 13:56 |

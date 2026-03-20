@@ -9,16 +9,16 @@
 | Positions | 142 (114 open, 28 closed) |
 | W/L | 3/25 (11%) |
 | 💵 Realized | $+2,094 |
-| 📦 Unrealized | $+27 |
-| 🏦 Total | **$+2,121** |
-| Best Trade | 24.9x |
-| Avg Peak | 4.8x |
+| 📦 Unrealized | $+29 |
+| 🏦 Total | **$+2,123** |
+| Best ROI | 24.90x |
+| Avg ROI | 1.75x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 LIQUA | $0.000078 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 LIQUA | $0.000078 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
 | 🟡 Chuck | $0.000103 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:54 |
 | 🟡 IMAGINE | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:27 |
 | 🟡 PIKAHORSE | $0.000248 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:24 |

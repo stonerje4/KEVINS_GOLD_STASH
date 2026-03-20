@@ -9,16 +9,16 @@
 | Positions | 6 (3 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-155 |
-| 📦 Unrealized | $+35 |
-| 🏦 Total | **$-120** |
-| Best Trade | 0.7x |
-| Avg Peak | 1.5x |
+| 📦 Unrealized | $+32 |
+| 🏦 Total | **$-123** |
+| Best ROI | 0.72x |
+| Avg ROI | 0.48x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ANIME | $0.000009 | **0.66x** ($-34) | 1.25x |  | pumpfun | 2026-03-20 13:34 |
+| 🔴 ANIME | $0.000009 | **0.63x** ($-37) | 1.25x |  | pumpfun | 2026-03-20 13:34 |
 | 🟢 DICKUS | $0.000009 | **4.05x** ($+305) | 4.05x | ✅ | pumpfun | 2026-03-20 00:47 |
 | 🔴 9pVz3EK1 | $0.000005 | **0.47x** ($-53) | 1.33x |  | pumpfun | 2026-03-20 00:40 |
 

@@ -11,8 +11,8 @@
 | 💵 Realized | $-21 |
 | 📦 Unrealized | $+211 |
 | 🏦 Total | **$+190** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.1x |
+| Best ROI | 0.79x |
+| Avg ROI | 0.79x |
 
 ## Open Positions
 
