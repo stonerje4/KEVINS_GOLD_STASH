@@ -1,6 +1,6 @@
 # Wallet: `CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6`
 
-> [View on Solscan](https://solscan.io/account/CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6) | Updated: 2026-03-20 08:01 UTC
+> [View on Solscan](https://solscan.io/account/CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6) | Updated: 2026-03-20 08:06 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (12 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-63 |
-| 📦 Unrealized | $+24 |
-| 🏦 Total | **$-40** |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$-48** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TGR | $0.000007 | **1.35x** ($+35) | 1.35x |  | pumpfun | 2026-03-20 07:31 |
+| 🟡 TGR | $0.000007 | **1.26x** ($+26) | 1.35x |  | pumpfun | 2026-03-20 07:31 |
 | 🔴 AGS | $0.000006 | **0.56x** ($-44) | 1.22x |  | pumpfun | 2026-03-20 07:01 |
 | 🟡 NBR | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:20 |
 | 🟡 NBR | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:12 |

@@ -1,18 +1,18 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 08:01 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 08:06 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 42 (39 open, 3 closed) |
-| W/L | 1/2 (33%) |
-| 💵 Realized | $-76 |
-| 📦 Unrealized | $-210 |
-| 🏦 Total | **$-285** |
+| Positions | 42 (38 open, 4 closed) |
+| W/L | 1/3 (25%) |
+| 💵 Realized | $-138 |
+| 📦 Unrealized | $-172 |
+| 🏦 Total | **$-310** |
 | Best Trade | 1.5x |
-| Avg Peak | 2.2x |
+| Avg Peak | 1.9x |
 
 ## Open Positions
 
@@ -23,7 +23,7 @@
 | 🟡 Futa-kun | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
 | 🔴 DOMES | $0.000004 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
 | 🟡 IMAGINE | $0.000115 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:17 |
-| 🔴 HUGH | $0.002819 | **0.72x** ($-28) | 1.33x |  | pumpswap | 2026-03-20 06:17 |
+| 🔴 HUGH | $0.002819 | **0.54x** ($-46) | 1.33x |  | pumpswap | 2026-03-20 06:17 |
 | 🟡 OIIA | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 Pete | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 GPD | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
@@ -52,7 +52,6 @@
 | 🔴 TOKEN | $0.000133 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 DIVERGENT | $0.000007 | **0.57x** ($-43) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
-| 🔴 George | $0.000026 | **0.45x** ($-55) | 1.00x |  | pumpswap | 2026-03-19 22:56 |
 | 🟡 FML | $0.000196 | **1.38x** ($+38) | 1.51x |  | pumpswap | 2026-03-19 22:44 |
 | 🔴 STITCH | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-19 22:42 |
 | 🟡 BBX | $0.000434 | **1.21x** ($+21) | 1.55x |  | pumpswap | 2026-03-19 22:41 |
@@ -65,6 +64,7 @@
 | 🔴 Floki | 0.39x | $-61 | stop_loss | 1.13x | pumpswap | 2026-03-20 04:19 → 2026-03-20 04:27 |
 | 🔴 Dickus | 0.40x | $-60 | stop_loss | 1.12x | pumpswap | 2026-03-20 00:53 → 2026-03-20 01:54 |
 | 🟡 GPD | 1.46x | $+46 | trailing_stop_4x | 4.37x | pumpswap | 2026-03-20 00:41 → 2026-03-20 01:27 |
+| 🔴 George | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-19 22:56 → 2026-03-20 08:02 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

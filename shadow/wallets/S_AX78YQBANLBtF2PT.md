@@ -1,24 +1,24 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 08:01 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 08:06 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (14 open, 10 closed) |
-| W/L | 1/9 (10%) |
-| 💵 Realized | $-393 |
-| 📦 Unrealized | $-83 |
-| 🏦 Total | **$-476** |
+| Positions | 25 (14 open, 11 closed) |
+| W/L | 1/10 (9%) |
+| 💵 Realized | $-453 |
+| 📦 Unrealized | $-88 |
+| 🏦 Total | **$-540** |
 | Best Trade | 1.5x |
-| Avg Peak | 2.3x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 76f2arMq | $0.000007 | **0.45x** ($-55) | 1.97x |  | pumpfun | 2026-03-20 07:44 |
+| 🔴 76f2arMq | $0.000007 | **0.40x** ($-60) | 1.97x |  | pumpfun | 2026-03-20 07:44 |
 | 🔴 FROG | $0.000004 | **0.62x** ($-38) | 1.52x |  | pumpfun | 2026-03-20 07:31 |
 | 🟡 MENACE | $0.000004 | **1.08x** ($+8) | 2.89x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 05:51 |
@@ -37,6 +37,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Vera | 0.40x | $-60 | stop_loss | 1.18x | pumpfun | 2026-03-20 08:01 → 2026-03-20 08:05 |
 | 🟡 awkward | 1.48x | $+48 | trailing_stop_4x | 4.18x | pumpfun | 2026-03-20 07:03 → 2026-03-20 07:52 |
 | 🔴 ME | 0.38x | $-62 | stop_loss | 1.82x | pumpfun | 2026-03-20 06:35 → 2026-03-20 06:47 |
 | 🔴 Yukon | 0.36x | $-64 | stop_loss | 1.21x | pumpfun | 2026-03-20 06:22 → 2026-03-20 06:24 |

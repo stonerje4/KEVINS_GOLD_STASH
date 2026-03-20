@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 08:01 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 08:06 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 89 (87 open, 2 closed) |
+| Positions | 90 (88 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $+184 |
-| 🏦 Total | **$+45** |
+| 📦 Unrealized | $+149 |
+| 🏦 Total | **$+10** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Baldi | $0.000019 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 08:01 |
 | 🟡 OPTIMUS | $0.000015 | **1.05x** ($+5) | 1.09x |  | pumpswap | 2026-03-20 07:53 |
 | 🟡 abcdefg | $0.000977 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:32 |
 | 🟡 clawedin | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
-| 🟡 HUGH | $0.001539 | **1.32x** ($+32) | 1.55x |  | pumpswap | 2026-03-20 07:22 |
+| 🔴 HUGH | $0.001539 | **0.98x** ($-2) | 1.55x |  | pumpswap | 2026-03-20 07:22 |
 | 🟡 RENTAI | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:02 |
-| 🔴 PATRIOT | $0.000010 | **0.91x** ($-9) | 1.04x |  | pumpswap | 2026-03-20 07:01 |
+| 🔴 PATRIOT | $0.000010 | **0.92x** ($-8) | 1.04x |  | pumpswap | 2026-03-20 07:01 |
 | 🟡 PYRO | $0.000034 | **1.05x** ($+5) | 1.11x |  | pumpswap | 2026-03-20 06:47 |
 | 🔴 NICK | $0.000031 | **0.93x** ($-7) | 1.10x |  | pumpswap | 2026-03-20 06:35 |
 | 🟡 Ray | $0.000005 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-20 06:34 |
@@ -32,9 +33,9 @@
 | 🟡 Lobstar | $0.006359 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:13 |
 | 🟡 Gascoin | $0.000030 | **1.07x** ($+7) | 1.11x |  | pumpswap | 2026-03-20 06:04 |
 | 🟡 LULU | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
-| 🟡 TeraFab | $0.000052 | **1.05x** ($+5) | 1.16x |  | pumpswap | 2026-03-20 05:33 |
+| 🟡 TeraFab | $0.000052 | **1.07x** ($+7) | 1.16x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 BOE | $0.000047 | **1.07x** ($+7) | 1.11x |  | pumpswap | 2026-03-20 05:30 |
-| 🟡 AIKO | $0.000008 | **1.13x** ($+13) | 1.31x |  | pumpswap | 2026-03-20 05:28 |
+| 🟡 AIKO | $0.000008 | **1.16x** ($+16) | 1.31x |  | pumpswap | 2026-03-20 05:28 |
 | 🟡 LIQUID | $0.000262 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 05:27 |
 | 🔴 TSUZUMI | $0.000025 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 05:25 |
 | 🔴 RealtorGPT | $0.000004 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-20 05:21 |
@@ -101,7 +102,7 @@
 | 🔴 HOSPICE | $0.000024 | **0.99x** ($-1) | 1.21x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 Downald | $0.001104 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
 | 🔴 whiskers | $0.000011 | **0.75x** ($-25) | 1.02x |  | pumpswap | 2026-03-19 23:15 |
-| 🟡 Ride | $0.000016 | **1.30x** ($+30) | 1.36x |  | pumpswap | 2026-03-19 22:57 |
+| 🟡 Ride | $0.000016 | **1.22x** ($+22) | 1.36x |  | pumpswap | 2026-03-19 22:57 |
 | 🟡 DEEPSEEKV4 | $0.000040 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 22:54 |
 | 🟢 CHIBI | $0.000324 | **3.21x** ($+221) | 4.02x | ✅ | pumpswap | 2026-03-19 22:45 |
 | 🟡 PZBCN | $0.000136 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-19 22:42 |

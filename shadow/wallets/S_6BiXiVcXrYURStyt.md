@@ -1,6 +1,6 @@
 # Wallet: `6BiXiVcXrYURStytdFPpmvdED6GEhF6KwTp6h8v2xmUT`
 
-> [View on Solscan](https://solscan.io/account/6BiXiVcXrYURStytdFPpmvdED6GEhF6KwTp6h8v2xmUT) | Updated: 2026-03-20 08:01 UTC
+> [View on Solscan](https://solscan.io/account/6BiXiVcXrYURStytdFPpmvdED6GEhF6KwTp6h8v2xmUT) | Updated: 2026-03-20 08:06 UTC
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | 🟡 TGR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:49 |
 | 🟡 NBR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:45 |
 | 🔴 YsyvNvHX | $0.000003 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 06:24 |
-| 🔴 OSP | $0.000004 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 04:25 |
+| 🔴 OSP | $0.000004 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-20 04:25 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:25 |
 | 🔴 4Fayh7Ed | $0.000003 | **0.99x** ($-1) | 1.16x |  | pumpfun | 2026-03-20 03:34 |
 

@@ -1,16 +1,16 @@
 # Wallet: `3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3`
 
-> [View on Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 08:01 UTC
+> [View on Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 08:06 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$+29** |
+| 📦 Unrealized | $+31 |
+| 🏦 Total | **$+31** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 UOR | $0.000005 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 08:05 |
 | 🟡 SaudiAramc | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:42 |
 | 🟡 UGOR | $0.000019 | **1.41x** ($+41) | 1.59x |  | pumpswap | 2026-03-20 00:58 |
 | 🟡 SPACEXIPO | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-19 23:12 |
