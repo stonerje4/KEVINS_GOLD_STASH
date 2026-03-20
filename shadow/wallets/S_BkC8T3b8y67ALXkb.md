@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 09:21 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 09:26 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 66 (64 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-120 |
-| 📦 Unrealized | $-45 |
-| 🏦 Total | **$-166** |
+| 📦 Unrealized | $-63 |
+| 🏦 Total | **$-183** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Alien | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:02 |
 | 🟡 Luxury | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:56 |
-| 🔴 Tastecoin | $0.000167 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 08:51 |
+| 🔴 Tastecoin | $0.000167 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 FIH | $0.000199 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:21 |
 | 🟡 Strawberita | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🔴 PATRIOT | $0.000009 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
@@ -29,7 +29,7 @@
 | 🟡 LIBERTY | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 HeavyPulp | $0.001092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
 | 🟡 Massive | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
-| 🔴 George | $0.000019 | **0.83x** ($-17) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
+| 🔴 George | $0.000019 | **0.67x** ($-33) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
 | 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🟡 worth | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |

@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 09:21 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 09:26 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 94 (92 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-161** |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$-171** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MONA | $0.000064 | **1.17x** ($+17) | 1.20x |  | pumpswap | 2026-03-20 08:46 |
+| 🟡 MONA | $0.000064 | **1.16x** ($+16) | 1.20x |  | pumpswap | 2026-03-20 08:46 |
 | 🔴 SNAKE | $0.000009 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 08:44 |
 | 🟡 AIFRUITS | $0.000634 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:33 |
 | 🟡 abcdefg | $0.000945 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:27 |
@@ -32,14 +32,14 @@
 | 🔴 PARK | $0.000020 | **0.93x** ($-7) | 1.05x |  | pumpswap | 2026-03-20 06:51 |
 | 🟡 PYRO | $0.000034 | **1.03x** ($+3) | 1.11x |  | pumpswap | 2026-03-20 06:47 |
 | 🟡 MECHA | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:00 |
-| 🔴 mogging | $0.000046 | **0.93x** ($-7) | 1.06x |  | pumpswap | 2026-03-20 05:59 |
-| 🔴 LOL | $0.000083 | **0.94x** ($-6) | 1.07x |  | pumpswap | 2026-03-20 05:53 |
+| 🔴 mogging | $0.000046 | **0.92x** ($-8) | 1.06x |  | pumpswap | 2026-03-20 05:59 |
+| 🔴 LOL | $0.000083 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 RENTAI | $0.000094 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🟡 Rosie | $0.000800 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 SOS | $0.000870 | **1.10x** ($+10) | 1.14x |  | pumpswap | 2026-03-20 05:29 |
-| 🔴 WhiteHouse | $0.000345 | **0.91x** ($-9) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
+| 🔴 WhiteHouse | $0.000345 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 shitcoin | $0.000075 | **1.00x** ($+0) | 1.11x |  | pumpswap | 2026-03-20 05:20 |
-| 🟡 Optimus | $0.000037 | **1.09x** ($+9) | 1.14x |  | pumpswap | 2026-03-20 05:13 |
+| 🟡 Optimus | $0.000037 | **1.02x** ($+2) | 1.14x |  | pumpswap | 2026-03-20 05:13 |
 | 🟡 OPAL | $0.000469 | **1.12x** ($+12) | 1.15x |  | pumpswap | 2026-03-20 04:53 |
 | 🟡 FRUITS | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:36 |
 | 🟡 LOL | $0.000338 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |

@@ -1,16 +1,16 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 09:21 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 09:26 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (27 open, 2 closed) |
+| Positions | 30 (28 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+246 |
-| 📦 Unrealized | $-394 |
-| 🏦 Total | **$-148** |
+| 📦 Unrealized | $-415 |
+| 🏦 Total | **$-169** |
 | Best Trade | 3.0x |
 | Avg Peak | 6.1x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Gjsw8QUC | $0.000004 | **0.79x** ($-21) | 1.17x |  | pumpfun | 2026-03-20 09:23 |
 | 🔴 GAAS | $0.000004 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 CARL | $0.000003 | **0.71x** ($-29) | 1.07x |  | pumpfun | 2026-03-20 08:35 |
 | 🔴 TROILL | $0.000003 | **0.86x** ($-14) | 1.02x |  | pumpfun | 2026-03-20 08:25 |
@@ -27,7 +28,7 @@
 | 🔴 Pixels | $0.000004 | **0.60x** ($-40) | 1.04x |  | pumpfun | 2026-03-20 07:07 |
 | 🟡 TITTYKILLER | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 ragcityyy99 | $0.000004 | **0.64x** ($-36) | 1.34x |  | pumpfun | 2026-03-20 05:56 |
-| 🟢 Gizmo | $0.000004 | **2.32x** ($+132) | 2.67x | ✅ | pumpfun | 2026-03-20 05:55 |
+| 🟢 Gizmo | $0.000004 | **2.33x** ($+133) | 2.67x | ✅ | pumpfun | 2026-03-20 05:55 |
 | 🔴 KNOWMINT | $0.000004 | **0.65x** ($-35) | 1.00x |  | pumpfun | 2026-03-20 05:29 |
 | 🔴 bitpenis | $0.000004 | **0.58x** ($-42) | 1.27x |  | pumpfun | 2026-03-20 05:25 |
 | 🔴 3kycm3TE | $0.000004 | **0.64x** ($-36) | 1.15x |  | pumpfun | 2026-03-20 05:07 |

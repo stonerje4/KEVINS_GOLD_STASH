@@ -1,6 +1,6 @@
-# Wallet: `99aWEJ1iXpcEg8CxEobZQiwBRBSpCd8m1Pwu3RqS6VNn`
+# Wallet: `5FqUo9aBjsp7QeeyN6Vi2ZmF2fjS4H5EU7wnAQwPy17z`
 
-> [View on Solscan](https://solscan.io/account/99aWEJ1iXpcEg8CxEobZQiwBRBSpCd8m1Pwu3RqS6VNn) | Updated: 2026-03-20 09:26 UTC
+> [View on Solscan](https://solscan.io/account/5FqUo9aBjsp7QeeyN6Vi2ZmF2fjS4H5EU7wnAQwPy17z) | Updated: 2026-03-20 09:26 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-12 |
-| 🏦 Total | **$-12** |
+| 📦 Unrealized | $-25 |
+| 🏦 Total | **$-25** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Goose | $0.000038 | **0.88x** ($-12) | 1.02x |  | pumpswap | 2026-03-20 01:47 |
+| 🔴 SIGNAL | $0.000028 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-20 09:23 |
 
 ## Closed Positions
 

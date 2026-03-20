@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 09:21 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 09:26 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 73 (50 open, 23 closed) |
+| Positions | 74 (51 open, 23 closed) |
 | W/L | 2/21 (9%) |
 | 💵 Realized | $-960 |
-| 📦 Unrealized | $-1,295 |
-| 🏦 Total | **$-2,255** |
+| 📦 Unrealized | $-1,321 |
+| 🏦 Total | **$-2,280** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 omochi | $0.000022 | **0.74x** ($-26) | 1.08x |  | pumpfun | 2026-03-20 09:19 |
+| 🔴 WRONG | $0.000008 | **0.93x** ($-7) | 1.11x |  | pumpfun | 2026-03-20 09:23 |
+| 🔴 omochi | $0.000022 | **0.55x** ($-45) | 1.08x |  | pumpfun | 2026-03-20 09:19 |
 | 🔴 Income | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 09:12 |
 | 🔴 Income | $0.000006 | **0.46x** ($-54) | 1.91x |  | pumpfun | 2026-03-20 09:04 |
 | 🔴 VOID | $0.000294 | **0.51x** ($-49) | 1.06x |  | cpmm | 2026-03-20 08:59 |

@@ -1,6 +1,6 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 09:21 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 09:26 UTC
 
 ## Summary
 
@@ -23,7 +23,7 @@
 | 🟡 NBIS | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 06:52 |
 | 🟡 BBX | $0.000003 | **1.23x** ($+23) | 1.37x |  | pumpfun | 2026-03-20 05:19 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:09 |
-| 🟡 gold | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 05:06 |
+| 🟡 gold | $0.000003 | **1.01x** ($+1) | 1.02x |  | pumpfun | 2026-03-20 05:06 |
 | 🔴 BBX | $0.000004 | **0.90x** ($-10) | 1.01x |  | pumpfun | 2026-03-20 04:41 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:27 |
 | 🟡 OSP | $0.000003 | **1.23x** ($+23) | 1.41x |  | pumpfun | 2026-03-20 04:25 |
