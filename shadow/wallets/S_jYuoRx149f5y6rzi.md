@@ -1,6 +1,6 @@
 # Wallet: `jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw`
 
-> [GMGN](https://gmgn.ai/sol/address/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | [Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-20 20:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | [Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-20 20:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+13 |
-| 🏦 Total | **$+13** |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$+15** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Capybara | $0.000038 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:38 |
-| 🟡 Obsessed | $0.000010 | **1.23x** ($+23) | 1.31x |  | pumpswap | 2026-03-20 00:34 |
+| 🟡 Obsessed | $0.000010 | **1.25x** ($+25) | 1.31x |  | pumpswap | 2026-03-20 00:34 |
 
 ## Closed Positions
 

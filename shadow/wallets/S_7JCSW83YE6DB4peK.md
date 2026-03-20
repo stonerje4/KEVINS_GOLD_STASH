@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 20:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 20:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 77 (76 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+140 |
-| 🏦 Total | **$+79** |
+| 📦 Unrealized | $+149 |
+| 🏦 Total | **$+89** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 chibify | $0.000007 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 20:37 |
+| 🔴 chibify | $0.000007 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-20 20:37 |
 | 🟡 Chud | $0.000025 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 20:18 |
 | 🟡 clod | $0.000015 | **1.09x** ($+9) | 1.27x |  | pumpswap | 2026-03-20 19:17 |
 | 🟡 UGOR | $0.000018 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-20 19:17 |
@@ -33,7 +33,7 @@
 | 🟡 PEACE | $0.000021 | **1.34x** ($+34) | 1.55x |  | pumpswap | 2026-03-20 17:10 |
 | 🟡 MOMO | $0.000029 | **1.26x** ($+26) | 1.35x |  | pumpswap | 2026-03-20 17:05 |
 | 🟡 Ava | $0.000008 | **1.20x** ($+20) | 1.34x |  | pumpswap | 2026-03-20 17:04 |
-| 🟡 90S | $0.000016 | **1.50x** ($+50) | 1.50x |  | pumpswap | 2026-03-20 17:02 |
+| 🟡 90S | $0.000016 | **1.61x** ($+61) | 1.63x |  | pumpswap | 2026-03-20 17:02 |
 | 🔴 repurt | $0.000006 | **0.57x** ($-43) | 1.01x |  | pumpswap | 2026-03-20 16:48 |
 | 🟡 Hamster | $0.000022 | **1.56x** ($+56) | 1.58x |  | pumpswap | 2026-03-20 16:39 |
 | 🟡 ROME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:30 |
