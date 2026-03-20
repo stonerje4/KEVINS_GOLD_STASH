@@ -1,24 +1,24 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 02:19 UTC
+> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 02:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (9 open, 10 closed) |
-| W/L | 1/9 (10%) |
-| 💵 Realized | $-341 |
-| 📦 Unrealized | $+42 |
-| 🏦 Total | **$-299** |
+| Positions | 22 (9 open, 13 closed) |
+| W/L | 1/12 (8%) |
+| 💵 Realized | $-484 |
+| 📦 Unrealized | $+27 |
+| 🏦 Total | **$-457** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.0x |
+| Avg Peak | 1.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 8vtrFBfQ | $0.000010 | **0.93x** ($-7) | 1.38x |  | pumpfun | 2026-03-20 02:19 |
+| 🔴 DuV1SgS2 | $0.000005 | **0.78x** ($-22) | 1.39x |  | pumpfun | 2026-03-20 02:22 |
 | 🟡 CHANNELS | $0.000023 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 02:19 |
 | 🟡 CRAaCof9 | $0.000030 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 02:05 |
 | 🟡 SPARKOS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:52 |
@@ -32,6 +32,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 78KFhaMs | 0.37x | $-63 | stop_loss | 1.13x | pumpfun | 2026-03-20 02:21 → 2026-03-20 02:21 |
+| 🔴 BotFather | 0.39x | $-61 | stop_loss | 1.18x | pumpfun | 2026-03-20 02:20 → 2026-03-20 02:20 |
+| 🟡 8vtrFBfQ | 0.82x | $-18 | trailing_stop_2x | 2.14x | pumpfun | 2026-03-20 02:19 → 2026-03-20 02:20 |
 | 🔴 CHANNELS | 0.37x | $-63 | stop_loss | 1.42x | pumpfun | 2026-03-20 02:17 → 2026-03-20 02:18 |
 | 🔴 Surge | 0.40x | $-60 | stop_loss | 1.47x | pumpfun | 2026-03-20 02:14 → 2026-03-20 02:17 |
 | 🔴 5eMhU9g6 | 0.78x | $-22 | trailing_stop_2x | 2.44x | pumpfun | 2026-03-20 02:13 → 2026-03-20 02:14 |

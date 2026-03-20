@@ -1,16 +1,16 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 02:19 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 02:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 147 (145 open, 2 closed) |
+| Positions | 151 (149 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+121 |
-| 📦 Unrealized | $+218 |
-| 🏦 Total | **$+339** |
+| 📦 Unrealized | $+214 |
+| 🏦 Total | **$+334** |
 | Best Trade | 3.0x |
 | Avg Peak | 4.3x |
 
@@ -18,6 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PIKE | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:22 |
+| 🔴 MULERUN | $0.000025 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:22 |
+| 🔴 LULU | $0.000034 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
+| 🔴 BB | $0.000009 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 fire | $0.000006 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 ANIMAL | $0.000258 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 GROKBUILD | $0.000021 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:09 |

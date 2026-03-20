@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 02:19 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 02:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 77 (70 open, 7 closed) |
+| Positions | 80 (73 open, 7 closed) |
 | W/L | 3/4 (43%) |
 | 💵 Realized | $+806 |
-| 📦 Unrealized | $-976 |
-| 🏦 Total | **$-170** |
+| 📦 Unrealized | $-1,011 |
+| 🏦 Total | **$-205** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.6x |
 
@@ -18,6 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 CCC | $0.000005 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 02:22 |
+| 🔴 BotFather | $0.000004 | **0.71x** ($-29) | 1.13x |  | pumpfun | 2026-03-20 02:20 |
+| 🟡 Eshkol LLM | $0.000004 | **1.42x** ($+42) | 1.42x |  | pumpfun | 2026-03-20 02:20 |
 | 🔴 OSP | $0.000003 | **0.81x** ($-19) | 1.13x |  | pumpfun | 2026-03-20 02:18 |
 | 🔴 CHANNELS | $0.000005 | **0.58x** ($-42) | 1.00x |  | pumpfun | 2026-03-20 02:18 |
 | 🔴 $METAWIN | $0.000004 | **0.92x** ($-8) | 1.09x |  | pumpfun | 2026-03-20 02:16 |

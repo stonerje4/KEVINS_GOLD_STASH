@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 02:19 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 02:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 103 (102 open, 1 closed) |
+| Positions | 105 (104 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+199 |
-| 📦 Unrealized | $+201 |
-| 🏦 Total | **$+400** |
+| 📦 Unrealized | $+204 |
+| 🏦 Total | **$+403** |
 | Best Trade | 3.0x |
 | Avg Peak | 9.7x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 LULU | $0.000033 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 02:20 |
+| 🟡 BB | $0.000009 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 FLAPPY | $0.000082 | **0.98x** ($-2) | 1.05x |  | pumpswap | 2026-03-20 02:17 |
 | 🔴 ANIMAL | $0.000257 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:15 |
 | 🟡 GAS | $0.000358 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:12 |

@@ -1,12 +1,12 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 02:19 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 02:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (13 open, 0 closed) |
+| Positions | 14 (14 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+19 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:23 |
 | 🔴 XXXY | $0.000003 | **0.95x** ($-5) | 1.03x |  | pumpfun | 2026-03-20 02:08 |
 | 🔴 NASDOG | $0.000003 | **0.94x** ($-6) | 1.15x |  | pumpfun | 2026-03-20 01:57 |
 | 🔴 NOSTALGIA | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 01:22 |

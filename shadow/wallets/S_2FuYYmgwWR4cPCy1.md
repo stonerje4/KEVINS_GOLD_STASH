@@ -1,6 +1,6 @@
-# Wallet: `8MoW9mtbEz6z3gPuAdYb1yWhjCAxQSYqpcTb1CQgN5qb`
+# Wallet: `2FuYYmgwWR4cPCy1dkePTT1Y8c3txdWLb9oAcmzxTcDM`
 
-> [View on Solscan](https://solscan.io/account/8MoW9mtbEz6z3gPuAdYb1yWhjCAxQSYqpcTb1CQgN5qb) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/2FuYYmgwWR4cPCy1dkePTT1Y8c3txdWLb9oAcmzxTcDM) | Updated: 2026-03-20 02:24 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TENDIES | $0.000014 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:42 |
+| 🟡 IMAGINE | $0.000052 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 
 ## Closed Positions
 

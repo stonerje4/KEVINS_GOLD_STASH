@@ -1,12 +1,12 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 02:19 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 02:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (9 open, 1 closed) |
+| Positions | 11 (10 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
 | 📦 Unrealized | $+120 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SolGany | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:23 |
 | 🟡 SCRATCOFF | $0.000004 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 02:03 |
 | 🟡 FLAG | $0.000003 | **1.23x** ($+23) | 1.29x |  | pumpfun | 2026-03-20 00:40 |
 | 🟡 OSP | $0.000004 | **1.01x** ($+1) | 1.14x |  | pumpfun | 2026-03-20 00:34 |

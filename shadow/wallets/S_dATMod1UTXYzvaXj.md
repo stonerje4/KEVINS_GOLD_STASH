@@ -1,16 +1,16 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 02:19 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 02:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (8 open, 6 closed) |
+| Positions | 15 (9 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-170 |
-| 📦 Unrealized | $+194 |
-| 🏦 Total | **$+25** |
+| 📦 Unrealized | $+200 |
+| 🏦 Total | **$+30** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NEMO | $0.000013 | **1.05x** ($+5) | 1.28x |  | pumpfun | 2026-03-20 02:23 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
 | 🟢 9Yqs3sVA | $0.000008 | **4.35x** ($+335) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
 | 🟡 DICKUS | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:34 |
