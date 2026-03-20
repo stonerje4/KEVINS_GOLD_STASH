@@ -1,6 +1,6 @@
 # Wallet: `7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ`
 
-> [View on Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-20 05:30 UTC
+> [View on Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-20 05:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+87 |
-| 🏦 Total | **$+87** |
+| 📦 Unrealized | $+83 |
+| 🏦 Total | **$+83** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 FAKER | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:21 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:08 |
-| 🔴 ORANMAMA | $0.000301 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 03:53 |
+| 🔴 ORANMAMA | $0.000301 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 03:53 |
 | 🟡 Freebuff | $0.000114 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:50 |
 | 🟡 Saxophones | $0.000035 | **1.31x** ($+31) | 1.67x |  | pumpswap | 2026-03-20 01:16 |
 | 🔴 PIKE | $0.000041 | **0.90x** ($-10) | 1.05x |  | pumpswap | 2026-03-20 01:10 |

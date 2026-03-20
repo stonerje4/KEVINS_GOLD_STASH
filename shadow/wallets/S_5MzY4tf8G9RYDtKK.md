@@ -1,16 +1,16 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 05:30 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 05:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 40 (24 open, 16 closed) |
+| Positions | 41 (25 open, 16 closed) |
 | W/L | 0/16 (0%) |
 | 💵 Realized | $-837 |
-| 📦 Unrealized | $-262 |
-| 🏦 Total | **$-1,099** |
+| 📦 Unrealized | $-257 |
+| 🏦 Total | **$-1,093** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 nickel | $0.000011 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 05:32 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |
 | 🟡 IMAGINE | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
 | 🟡 Civil Claude | $0.000013 | **1.13x** ($+13) | 1.80x |  | pumpfun | 2026-03-20 04:55 |

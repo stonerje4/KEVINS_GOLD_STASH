@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 05:30 UTC
+> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 05:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 28 (28 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-22 |
-| 🏦 Total | **$-22** |
+| 📦 Unrealized | $-26 |
+| 🏦 Total | **$-26** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -25,8 +25,8 @@
 | 🟢 Pixel | $0.000016 | **2.30x** ($+130) | 2.30x | ✅ | pumpfun | 2026-03-20 04:08 |
 | 🔴 しずく | $0.000022 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 plumber | $0.000058 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
-| 🔴 MILO | $0.000006 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
-| 🟡 AICOIN | $0.000082 | **1.05x** ($+5) | 1.10x |  | pumpswap | 2026-03-20 03:21 |
+| 🔴 MILO | $0.000006 | **0.88x** ($-12) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
+| 🟡 AICOIN | $0.000082 | **1.09x** ($+9) | 1.10x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 Hamster | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 Spiderman | $0.000203 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 02:11 |

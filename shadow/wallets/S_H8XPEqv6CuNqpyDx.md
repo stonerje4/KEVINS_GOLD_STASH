@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:30 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 39 (24 open, 15 closed) |
+| Positions | 40 (25 open, 15 closed) |
 | W/L | 1/14 (7%) |
 | 💵 Realized | $-615 |
-| 📦 Unrealized | $-371 |
-| 🏦 Total | **$-985** |
+| 📦 Unrealized | $-354 |
+| 🏦 Total | **$-969** |
 | Best Trade | 1.4x |
 | Avg Peak | 1.9x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Hoverboard | $0.000008 | **1.16x** ($+16) | 1.25x |  | pumpfun | 2026-03-20 05:33 |
 | 🔴 hopecore | $0.000004 | **0.57x** ($-43) | 1.00x |  | pumpfun | 2026-03-20 05:20 |
 | 🟡 94S763Nm | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.67x** ($-33) | 1.54x |  | pumpfun | 2026-03-20 04:14 |
