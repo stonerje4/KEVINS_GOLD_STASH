@@ -1,23 +1,24 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 13:29 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 13:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 112 (111 open, 1 closed) |
+| Positions | 113 (112 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+142 |
-| 🏦 Total | **$+64** |
-| Best ROI | 0.23x |
-| Avg ROI | 0.23x |
+| 📦 Unrealized | $+138 |
+| 🏦 Total | **$+61** |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 forg | $0.000093 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:32 |
 | 🟡 AMBALABU | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 MOCHI | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:03 |
 | 🟡 WIZARD | $0.000319 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:55 |
@@ -128,7 +129,7 @@
 | 🟡 我的刀盾 | $0.003081 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-19 22:45 |
 | 🔴 Foodrot | $0.000150 | **0.94x** ($-6) | 1.11x |  | pumpswap | 2026-03-19 22:41 |
 | 🔴 Raccoon | $0.000013 | **0.97x** ($-3) | 1.29x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000394 | **1.68x** ($+68) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000394 | **1.65x** ($+65) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

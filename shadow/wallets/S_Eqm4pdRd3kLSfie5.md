@@ -1,25 +1,27 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 13:29 UTC
+> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 13:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 44 (40 open, 4 closed) |
+| Positions | 46 (42 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-115 |
-| 📦 Unrealized | $+59 |
-| 🏦 Total | **$-56** |
-| Best ROI | 0.84x |
-| Avg ROI | 0.71x |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$-110** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Reaction  | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:26 |
-| 🟡 Sunshine | $0.000007 | **1.57x** ($+57) | 2.46x | ✅ | pumpfun | 2026-03-20 13:14 |
+| 🔴 FyMmeyqH | $0.000003 | **0.86x** ($-14) | 1.01x |  | pumpfun | 2026-03-20 13:31 |
+| 🔴 SHOCKED | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 13:31 |
+| 🔴 Reaction  | $0.000003 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-20 13:26 |
+| 🟡 Sunshine | $0.000007 | **1.21x** ($+21) | 2.46x | ✅ | pumpfun | 2026-03-20 13:14 |
 | 🟡 ME | $0.000395 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |
 | 🟡 H9vt8nXw | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |
 | 🟡 Rabbi | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:49 |

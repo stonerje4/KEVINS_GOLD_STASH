@@ -1,23 +1,25 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 13:29 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 13:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 113 (111 open, 2 closed) |
+| Positions | 115 (113 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $+40 |
-| 🏦 Total | **$-97** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.31x |
+| 📦 Unrealized | $+36 |
+| 🏦 Total | **$-101** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Helios | $0.000029 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 13:30 |
+| 🟡 Ava | $0.000013 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:30 |
 | 🟡 NMF | $0.000019 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 13:04 |
 | 🟡 XPD | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:24 |
 | 🟡 Matthew | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
@@ -126,7 +128,7 @@
 | 🔴 MIROFISH | $0.000035 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 PIKAHORSE | $0.000398 | **0.89x** ($-11) | 1.05x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 DEEPSEEKV4 | $0.000041 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 22:54 |
-| 🟡 Goyim | $0.000395 | **1.67x** ($+67) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000395 | **1.64x** ($+64) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
 | 🔴 GameTheory | $0.000019 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:37 |
 | 🟡 UGOR | $0.000161 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-19 22:37 |
 

@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 13:29 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 13:34 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 32 (32 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+34 |
-| 🏦 Total | **$+34** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+42 |
+| 🏦 Total | **$+42** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Gg39pYf9 | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:29 |
-| 🔴 MOSHI | $0.000003 | **0.95x** ($-5) | 1.13x |  | pumpfun | 2026-03-20 13:22 |
+| 🟡 MOSHI | $0.000003 | **1.03x** ($+3) | 1.13x |  | pumpfun | 2026-03-20 13:22 |
 | 🟡 $TFROG | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |
 | 🟡 SPR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |
 | 🟡 CHIBIS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:38 |

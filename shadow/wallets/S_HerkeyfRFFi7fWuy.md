@@ -1,6 +1,6 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 13:29 UTC
+> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 13:34 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$-56** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| 📦 Unrealized | $-5 |
+| 🏦 Total | **$-65** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CC | $0.000008 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 13:29 |
-| 🟡 Sunshine | $0.000010 | **1.06x** ($+6) | 1.66x |  | pumpfun | 2026-03-20 13:14 |
+| 🟡 CC | $0.000008 | **1.14x** ($+14) | 1.20x |  | pumpfun | 2026-03-20 13:29 |
+| 🔴 Sunshine | $0.000010 | **0.82x** ($-18) | 1.66x |  | pumpfun | 2026-03-20 13:14 |
 | 🟡 Sybil  | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 IMAGINE | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:03 |
 

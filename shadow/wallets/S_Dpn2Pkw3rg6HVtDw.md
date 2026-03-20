@@ -1,24 +1,23 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 13:29 UTC
+> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 13:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (16 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-66 |
-| 🏦 Total | **$-66** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 16 (15 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-18 |
+| 📦 Unrealized | $-86 |
+| 🏦 Total | **$-104** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 tired | $0.000009 | **1.40x** ($+40) | 2.36x | ✅ | pumpfun | 2026-03-20 13:21 |
 | 🟡 됴지님 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:48 |
 | 🟡 happiness | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:29 |
 | 🟡 Stanley | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:13 |
@@ -39,6 +38,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 tired | 0.82x | $-18 | trailing_stop_2x | 2.36x | pumpfun | 2026-03-20 13:21 → 2026-03-20 13:33 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

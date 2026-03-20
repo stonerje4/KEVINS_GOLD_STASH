@@ -1,6 +1,6 @@
 # Wallet: `FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3`
 
-> [View on Solscan](https://solscan.io/account/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | Updated: 2026-03-20 13:29 UTC
+> [View on Solscan](https://solscan.io/account/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | Updated: 2026-03-20 13:34 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-15 |
-| 📦 Unrealized | $+43 |
-| 🏦 Total | **$+27** |
-| Best ROI | 0.85x |
-| Avg ROI | 0.85x |
+| 📦 Unrealized | $+22 |
+| 🏦 Total | **$+7** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 DGPT | $0.014955 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:27 |
-| 🟡 PAIN | $0.000002 | **1.21x** ($+21) | 1.21x |  | pumpswap | 2026-03-20 13:26 |
+| 🟡 PAIN | $0.000002 | **1.00x** ($+0) | 1.23x |  | pumpswap | 2026-03-20 13:26 |
 | 🟡 Attention | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:34 |
 | 🟡 Patricia | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |
 | 🟡 PATAPIM | $0.000007 | **1.21x** ($+21) | 1.41x |  | pumpswap | 2026-03-20 00:37 |
