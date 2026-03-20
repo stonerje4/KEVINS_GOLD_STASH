@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 12:33 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 12:34 UTC
 
 ## Summary
 
@@ -10,9 +10,9 @@
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+17 |
 | 📦 Unrealized | $+18 |
-| 🏦 Total | **$+34** |
-| Best Trade | 3.0x |
-| Avg Peak | 3.4x |
+| 🏦 Total | **$+35** |
+| Best ROI | 2.99x |
+| Avg ROI | 1.04x |
 
 ## Open Positions
 
@@ -85,15 +85,15 @@
 | 🟡 ballsack | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:48 |
 | 🟡 HENRY | $0.000104 | **1.02x** ($+2) | 1.11x |  | pumpswap | 2026-03-20 05:47 |
 | 🔴 DAKY | $0.000003 | **0.93x** ($-7) | 1.00x |  | cpmm | 2026-03-20 05:39 |
-| 🟡 TeraFab | $0.000053 | **1.40x** ($+40) | 1.99x |  | pumpswap | 2026-03-20 05:37 |
-| 🟡 INCOME | $0.000571 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 05:35 |
+| 🟡 TeraFab | $0.000053 | **1.41x** ($+41) | 1.99x |  | pumpswap | 2026-03-20 05:37 |
+| 🟡 INCOME | $0.000571 | **1.07x** ($+7) | 1.12x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 ACT: S | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |
 | 🔴 STAR | $0.000019 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 05:34 |
 | 🔴 HUMANS | $0.000005 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🔴 RealtorGPT | $0.000004 | **0.92x** ($-8) | 1.04x |  | pumpswap | 2026-03-20 05:31 |
 | 🟡 BOE | $0.000047 | **1.02x** ($+2) | 1.12x |  | pumpswap | 2026-03-20 05:30 |
 | 🔴 WhiteHouse | $0.000338 | **0.94x** ($-6) | 1.10x |  | pumpswap | 2026-03-20 05:29 |
-| 🟡 LIQUID | $0.000261 | **1.13x** ($+13) | 1.26x |  | pumpswap | 2026-03-20 05:27 |
+| 🟡 LIQUID | $0.000261 | **1.14x** ($+14) | 1.26x |  | pumpswap | 2026-03-20 05:27 |
 | 🟡 TSUZUMI | $0.000025 | **1.07x** ($+7) | 1.38x |  | pumpswap | 2026-03-20 05:25 |
 | 🟡 GIGACHAD | $0.000006 | **1.24x** ($+24) | 2.35x | ✅ | pumpswap | 2026-03-20 05:19 |
 | 🟡 FKH | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |

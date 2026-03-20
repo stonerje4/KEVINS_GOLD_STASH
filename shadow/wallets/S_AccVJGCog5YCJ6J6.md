@@ -1,6 +1,6 @@
 # Wallet: `AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq`
 
-> [View on Solscan](https://solscan.io/account/AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq) | Updated: 2026-03-20 12:33 UTC
+> [View on Solscan](https://solscan.io/account/AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq) | Updated: 2026-03-20 12:34 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+59 |
 | 🏦 Total | **$+59** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 

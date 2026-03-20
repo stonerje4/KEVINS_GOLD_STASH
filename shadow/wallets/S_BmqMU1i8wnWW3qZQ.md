@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:33 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:34 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 404 (399 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,142 |
-| 🏦 Total | **$-1,228** |
-| Best Trade | 2.8x |
-| Avg Peak | 2.2x |
+| 📦 Unrealized | $-1,141 |
+| 🏦 Total | **$-1,227** |
+| Best ROI | 2.75x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
@@ -128,7 +128,7 @@
 | 🔴 HUMANS | $0.000005 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🔴 WhiteHouse | $0.000375 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 OIIA | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:29 |
-| 🟡 LIQUID | $0.000289 | **1.02x** ($+2) | 1.13x |  | pumpswap | 2026-03-20 05:27 |
+| 🟡 LIQUID | $0.000289 | **1.03x** ($+3) | 1.13x |  | pumpswap | 2026-03-20 05:27 |
 | 🔴 TSUZUMI | $0.000027 | **0.98x** ($-2) | 1.28x |  | pumpswap | 2026-03-20 05:23 |
 | 🔴 RealtorGPT | $0.000004 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 05:21 |
 | 🔴 shitcoin | $0.000081 | **0.83x** ($-17) | 1.03x |  | pumpswap | 2026-03-20 05:20 |
@@ -198,7 +198,7 @@
 | 🔴 Gayatollah | $0.000007 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🔴 hahahaha | $0.000006 | **0.93x** ($-7) | 1.25x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 Wob | $0.000021 | **1.04x** ($+4) | 1.16x |  | pumpswap | 2026-03-20 03:01 |
-| 🟡 TeraFab | $0.000062 | **1.20x** ($+20) | 1.72x |  | pumpswap | 2026-03-20 02:59 |
+| 🟡 TeraFab | $0.000062 | **1.21x** ($+21) | 1.72x |  | pumpswap | 2026-03-20 02:59 |
 | 🟡 BBX | $0.000010 | **1.72x** ($+72) | 1.72x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 APES | $0.000239 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 PAD | $0.000016 | **1.26x** ($+26) | 1.39x |  | pumpswap | 2026-03-20 02:57 |

@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 12:33 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 12:34 UTC
 
 ## Summary
 
@@ -10,9 +10,9 @@
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
 | 📦 Unrealized | $+251 |
-| 🏦 Total | **$+247** |
-| Best Trade | 3.0x |
-| Avg Peak | 2.7x |
+| 🏦 Total | **$+246** |
+| Best ROI | 3.00x |
+| Avg ROI | 0.99x |
 
 ## Open Positions
 
@@ -29,7 +29,7 @@
 | 🔴 butthole | $0.000126 | **0.99x** ($-1) | 1.09x |  | pumpswap | 2026-03-20 11:41 |
 | 🟡 oora | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:38 |
 | 🟡 CLANKER | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:35 |
-| 🟢 fine999.9 | $0.002007 | **2.23x** ($+123) | 2.33x | ✅ | pumpswap | 2026-03-20 11:34 |
+| 🟢 fine999.9 | $0.002007 | **2.22x** ($+122) | 2.33x | ✅ | pumpswap | 2026-03-20 11:34 |
 | 🟡 SCUBA | $0.000286 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:33 |
 | 🟡 ORACLE | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:30 |
 | 🟡 NemoClaw | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
@@ -131,7 +131,7 @@
 | 🔴 BOE | $0.000058 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 03:55 |
 | 🟡 herm | $0.000171 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:55 |
 | 🟡 WRT | $0.000013 | **1.34x** ($+34) | 1.34x |  | pumpswap | 2026-03-20 03:51 |
-| 🟡 TeraFab | $0.000061 | **1.22x** ($+22) | 1.73x |  | pumpswap | 2026-03-20 03:43 |
+| 🟡 TeraFab | $0.000061 | **1.23x** ($+23) | 1.73x |  | pumpswap | 2026-03-20 03:43 |
 | 🔴 Gascoin | $0.000032 | **0.87x** ($-13) | 1.05x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 CLAW3D | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 Replacement | $0.000017 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 03:35 |

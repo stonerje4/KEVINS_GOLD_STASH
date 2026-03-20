@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 12:33 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 12:34 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 174 (171 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
-| 📦 Unrealized | $+89 |
+| 📦 Unrealized | $+90 |
 | 🏦 Total | **$+267** |
-| Best Trade | 2.9x |
-| Avg Peak | 4.5x |
+| Best ROI | 2.91x |
+| Avg ROI | 1.59x |
 
 ## Open Positions
 
@@ -69,11 +69,11 @@
 | 🟡 plumber | $0.000052 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:05 |
 | 🟡 MINDLESS | $0.000196 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:49 |
 | 🟡 Pete | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
-| 🟡 INCOME | $0.000585 | **1.05x** ($+5) | 1.09x |  | pumpswap | 2026-03-20 05:31 |
+| 🟡 INCOME | $0.000585 | **1.04x** ($+4) | 1.09x |  | pumpswap | 2026-03-20 05:31 |
 | 🟡 SOS | $0.000861 | **1.35x** ($+35) | 1.36x |  | pumpswap | 2026-03-20 05:29 |
 | 🔴 WhiteHouse | $0.000343 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
-| 🟡 LIQUID | $0.000266 | **1.11x** ($+11) | 1.24x |  | pumpswap | 2026-03-20 05:27 |
-| 🟡 TeraFab | $0.000054 | **1.39x** ($+39) | 1.98x |  | pumpswap | 2026-03-20 05:17 |
+| 🟡 LIQUID | $0.000266 | **1.12x** ($+12) | 1.24x |  | pumpswap | 2026-03-20 05:27 |
+| 🟡 TeraFab | $0.000054 | **1.40x** ($+40) | 1.98x |  | pumpswap | 2026-03-20 05:17 |
 | 🟡 Clude | $0.001325 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
 | 🟡 Spiderman | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
 | 🔴 shitcoin | $0.000075 | **0.89x** ($-11) | 1.11x |  | pumpswap | 2026-03-20 05:08 |

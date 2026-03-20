@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 12:33 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 12:34 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 132 (105 open, 27 closed) |
 | W/L | 3/24 (11%) |
 | 💵 Realized | $+2,155 |
-| 📦 Unrealized | $-12 |
-| 🏦 Total | **$+2,142** |
-| Best Trade | 24.9x |
-| Avg Peak | 4.9x |
+| 📦 Unrealized | $-9 |
+| 🏦 Total | **$+2,145** |
+| Best ROI | 24.90x |
+| Avg ROI | 1.80x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Accelerando | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:29 |
-| 🔴 TeraFab | $0.000083 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-20 12:22 |
+| 🔴 TeraFab | $0.000083 | **0.90x** ($-10) | 1.08x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 TERAFAB | $0.000310 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:03 |
 | 🟡 SIMD | $0.000303 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:45 |
 | 🟡 GOONERBI | $0.000095 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
@@ -45,7 +45,7 @@
 | 🟡 CHIBIELON | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:39 |
 | 🟡 OLAF | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 POLSIA | $0.000108 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:00 |
-| 🔴 CHIBELON | $0.000132 | **0.95x** ($-5) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
+| 🔴 CHIBELON | $0.000132 | **0.98x** ($-2) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 DIRECTOR | $0.000035 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 TTT | $0.000123 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 07:58 |
 | 🔴 Noesis | $0.000315 | **0.88x** ($-12) | 1.03x |  | pumpswap | 2026-03-20 07:55 |

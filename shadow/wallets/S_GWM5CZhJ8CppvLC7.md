@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 12:33 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 12:34 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-77 |
 | 📦 Unrealized | $+57 |
 | 🏦 Total | **$-20** |
-| Best Trade | 0.2x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.23x |
+| Avg ROI | 0.23x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🟡 MOCHI | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:03 |
 | 🟡 WIZARD | $0.000319 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:55 |
 | 🔴 CRABBO | $0.000107 | **0.73x** ($-27) | 1.01x |  | pumpswap | 2026-03-20 11:49 |
-| 🟢 fine999.9 | $0.001312 | **3.41x** ($+241) | 3.56x | ✅ | pumpswap | 2026-03-20 11:47 |
+| 🟢 fine999.9 | $0.001312 | **3.40x** ($+240) | 3.56x | ✅ | pumpswap | 2026-03-20 11:47 |
 | 🟡 TERAFAB | $0.000290 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
 | 🟡 testicle | $0.008017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:23 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
@@ -39,11 +39,11 @@
 | 🔴 George | $0.000020 | **0.60x** ($-40) | 1.12x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 IMAGINE | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:26 |
 | 🔴 Tastecoin | $0.000191 | **0.76x** ($-24) | 1.22x |  | pumpswap | 2026-03-20 06:15 |
-| 🟡 INCOME | $0.000549 | **1.12x** ($+12) | 1.16x |  | pumpswap | 2026-03-20 05:48 |
+| 🟡 INCOME | $0.000549 | **1.11x** ($+11) | 1.16x |  | pumpswap | 2026-03-20 05:48 |
 | 🟡 DRIVE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:42 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:28 |
 | 🟡 Goose | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
-| 🟡 TeraFab | $0.000053 | **1.40x** ($+40) | 2.00x | ✅ | pumpswap | 2026-03-20 05:17 |
+| 🟡 TeraFab | $0.000053 | **1.42x** ($+42) | 2.00x | ✅ | pumpswap | 2026-03-20 05:17 |
 | 🟡 neet | $0.021822 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 05:13 |
 | 🔴 WhiteHouse | $0.000359 | **0.89x** ($-11) | 1.04x |  | pumpswap | 2026-03-20 05:10 |
 | 🔴 shitcoin | $0.000074 | **0.91x** ($-9) | 1.12x |  | pumpswap | 2026-03-20 05:08 |
@@ -51,7 +51,7 @@
 | 🟡 CHOPPER | $0.000025 | **1.19x** ($+19) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 Punch | $0.014730 | **1.05x** ($+5) | 1.16x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Spiderman | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:42 |
-| 🟡 YEPE | $0.000092 | **1.34x** ($+34) | 1.70x |  | pumpswap | 2026-03-20 04:40 |
+| 🟡 YEPE | $0.000092 | **1.35x** ($+35) | 1.70x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:14 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |
