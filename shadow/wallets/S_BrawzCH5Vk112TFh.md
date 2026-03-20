@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 04:55 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 05:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 146 (145 open, 1 closed) |
+| Positions | 147 (146 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+199 |
-| 📦 Unrealized | $+165 |
-| 🏦 Total | **$+364** |
+| 📦 Unrealized | $+155 |
+| 🏦 Total | **$+354** |
 | Best Trade | 3.0x |
 | Avg Peak | 9.7x |
 
@@ -18,17 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OPAL | $0.000460 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 04:53 |
-| 🟡 automaton | $0.000104 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 04:48 |
-| 🔴 Gizmo | $0.000013 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 04:45 |
+| 🔴 X | $0.000414 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 04:57 |
+| 🟡 OPAL | $0.000460 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-20 04:53 |
+| 🟡 automaton | $0.000104 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 04:48 |
+| 🔴 Gizmo | $0.000013 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 04:45 |
 | 🟡 TMRW | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:41 |
-| 🔴 Moe-chan | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 04:36 |
-| 🔴 AGON | $0.000007 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 04:35 |
+| 🔴 Moe-chan | $0.000015 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 04:36 |
+| 🔴 AGON | $0.000007 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 04:35 |
 | 🟡 Rosie | $0.000851 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Xingxing | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:25 |
 | 🔴 bearcoin | $0.000004 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 04:17 |
 | 🔴 eUSD | $0.000012 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-20 04:04 |
-| 🔴 MOJTABA | $0.000011 | **0.90x** ($-10) | 1.01x |  | pumpswap | 2026-03-20 03:59 |
+| 🔴 MOJTABA | $0.000011 | **0.87x** ($-13) | 1.01x |  | pumpswap | 2026-03-20 03:59 |
 | 🔴 stoic | $0.000016 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 03:56 |
 | 🔴 WhiteSwan | $0.000003 | **0.87x** ($-13) | 1.01x |  | pumpswap | 2026-03-20 03:53 |
 | 🟡 Rosei | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:52 |
@@ -151,7 +152,7 @@
 | 🟡 NETANYAHU | $0.000096 | **1.04x** ($+4) | 1.24x |  | pumpswap | 2026-03-19 23:11 |
 | 🔴 HOSPICE | $0.000026 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-19 23:11 |
 | 🟡 Hamster  | $0.000219 | **1.02x** ($+2) | 1.21x |  | pumpswap | 2026-03-19 23:05 |
-| 🟡 Island | $0.000036 | **1.23x** ($+23) | 1.28x |  | pumpswap | 2026-03-19 23:02 |
+| 🟡 Island | $0.000036 | **1.19x** ($+19) | 1.28x |  | pumpswap | 2026-03-19 23:02 |
 | 🔴 PIKAHORSE | $0.000375 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 Chibify | $0.000026 | **1.61x** ($+61) | 2.88x | ✅ | pumpswap | 2026-03-19 22:58 |
 | 🟡 Noesis | $0.000327 | **1.06x** ($+6) | 1.11x |  | pumpswap | 2026-03-19 22:57 |

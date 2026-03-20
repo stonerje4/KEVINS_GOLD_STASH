@@ -1,12 +1,12 @@
 # Wallet: `75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF`
 
-> [View on Solscan](https://solscan.io/account/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | Updated: 2026-03-20 04:55 UTC
+> [View on Solscan](https://solscan.io/account/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | Updated: 2026-03-20 05:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (2 open, 5 closed) |
+| Positions | 8 (3 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+133 |
 | 📦 Unrealized | $+13 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 RETURN | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:57 |
 | 🔴 NOMAD | $0.000005 | **0.55x** ($-45) | 1.34x |  | pumpfun | 2026-03-20 02:22 |
 | 🟡 CHANNELS | $0.000016 | **1.58x** ($+58) | 1.58x |  | pumpfun | 2026-03-20 02:18 |
 
