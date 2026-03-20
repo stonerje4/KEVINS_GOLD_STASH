@@ -1,6 +1,6 @@
 # Wallet: `Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ`
 
-> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 20:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 20:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (13 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-124 |
-| 📦 Unrealized | $+38 |
-| 🏦 Total | **$-86** |
+| 📦 Unrealized | $-10 |
+| 🏦 Total | **$-134** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -29,7 +29,7 @@
 | 🟡 Mirai | $0.000016 | **1.13x** ($+13) | 1.40x |  | pumpfun | 2026-03-20 13:56 |
 | 🟡 Kin-kun | $0.000008 | **1.00x** ($+0) | 1.61x |  | pumpfun | 2026-03-20 11:27 |
 | 🟡 Genesis-2 | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:10 |
-| 🟡 awkward | $0.000012 | **1.02x** ($+2) | 1.52x |  | pumpfun | 2026-03-20 11:07 |
+| 🔴 awkward | $0.000012 | **0.54x** ($-46) | 1.52x |  | pumpfun | 2026-03-20 11:07 |
 | 🟡 ONE | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:06 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 20:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 20:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (10 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $+226 |
-| 📦 Unrealized | $-109 |
-| 🏦 Total | **$+117** |
+| 📦 Unrealized | $-118 |
+| 🏦 Total | **$+108** |
 | Best ROI | 5.85x |
 | Avg ROI | 1.38x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Norriscoin | $0.000007 | **0.84x** ($-16) | 1.18x |  | pumpfun | 2026-03-20 16:17 |
 | 🟡 HELLO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:14 |
-| 🔴 wallahi | $0.000036 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 15:10 |
+| 🔴 wallahi | $0.000036 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 15:10 |
 | 🟡 MOSHI | $0.000022 | **1.65x** ($+65) | 1.65x |  | pumpfun | 2026-03-20 13:12 |
 | 🟡 AIMAXXING | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:19 |
 | 🔴 ChibiTrump | $0.000029 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 11:02 |

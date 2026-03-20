@@ -1,16 +1,16 @@
 # Wallet: `ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D`
 
-> [GMGN](https://gmgn.ai/sol/address/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | [Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 20:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | [Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 20:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (9 open, 2 closed) |
+| Positions | 12 (10 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+93 |
-| 📦 Unrealized | $+34 |
-| 🏦 Total | **$+127** |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$+131** |
 | Best ROI | 2.64x |
 | Avg ROI | 1.46x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WRONG | $0.000005 | **1.28x** ($+28) | 1.28x |  | pumpfun | 2026-03-20 20:08 |
 | 🔴 LEE | $0.000006 | **0.78x** ($-22) | 1.12x |  | pumpfun | 2026-03-20 17:57 |
 | 🔴 CHIBLON | $0.000006 | **0.73x** ($-27) | 1.00x |  | pumpfun | 2026-03-20 10:56 |
-| 🔴 Saleh | $0.000023 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
+| 🔴 Saleh | $0.000023 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
 | 🟡 Possum | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:34 |
 | 🟡 Manosphere | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:20 |
 | 🟡 ARIA | $0.000020 | **1.20x** ($+20) | 1.44x |  | pumpswap | 2026-03-20 02:35 |
