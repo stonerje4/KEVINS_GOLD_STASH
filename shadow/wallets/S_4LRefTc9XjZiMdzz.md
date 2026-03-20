@@ -1,6 +1,6 @@
 # Wallet: `4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN`
 
-> [View on Solscan](https://solscan.io/account/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | Updated: 2026-03-20 07:25 UTC
+> [View on Solscan](https://solscan.io/account/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | Updated: 2026-03-20 07:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+102 |
-| 🏦 Total | **$+102** |
+| 📦 Unrealized | $+111 |
+| 🏦 Total | **$+111** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 TANGY | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
-| 🟢 Nonchalant | $0.000005 | **2.80x** ($+180) | 3.03x | ✅ | pumpfun | 2026-03-20 03:44 |
+| 🟢 Nonchalant | $0.000005 | **3.01x** ($+201) | 3.03x | ✅ | pumpfun | 2026-03-20 03:44 |
 | 🟡 F3 | $0.000017 | **1.30x** ($+30) | 1.56x |  | pumpfun | 2026-03-20 00:21 |
 
 ## Closed Positions

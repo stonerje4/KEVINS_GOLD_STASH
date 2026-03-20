@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 07:25 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 07:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (13 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $-127 |
-| 🏦 Total | **$-310** |
+| 📦 Unrealized | $-123 |
+| 🏦 Total | **$-306** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CARROT | $0.000009 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 06:42 |
+| 🟡 CARROT | $0.000009 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 06:42 |
 | 🔴 METEOR | $0.000005 | **0.68x** ($-32) | 1.15x |  | pumpfun | 2026-03-20 05:43 |
 | 🔴 Veggietales | $0.000004 | **0.77x** ($-23) | 1.24x |  | pumpfun | 2026-03-20 03:56 |
-| 🔴 TRASHBAG | $0.000008 | **0.65x** ($-35) | 1.04x |  | pumpswap | 2026-03-20 03:53 |
+| 🔴 TRASHBAG | $0.000008 | **0.55x** ($-45) | 1.04x |  | pumpswap | 2026-03-20 03:53 |
 | 🔴 MATER | $0.000004 | **0.98x** ($-2) | 2.20x | ✅ | pumpswap | 2026-03-20 03:32 |
 | 🔴 Drip | $0.000004 | **0.72x** ($-28) | 1.08x |  | pumpfun | 2026-03-20 03:22 |
 | 🔴 Eshkol LLM | $0.000005 | **0.57x** ($-43) | 1.38x |  | pumpfun | 2026-03-20 02:23 |

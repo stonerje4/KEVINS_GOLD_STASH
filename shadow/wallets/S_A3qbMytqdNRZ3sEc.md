@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 07:25 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 07:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 41 (38 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $-215 |
-| 🏦 Total | **$-290** |
+| 📦 Unrealized | $-216 |
+| 🏦 Total | **$-292** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.2x |
 
@@ -22,7 +22,7 @@
 | 🟡 Futa-kun | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
 | 🔴 DOMES | $0.000004 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
 | 🟡 IMAGINE | $0.000115 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:17 |
-| 🔴 HUGH | $0.002819 | **0.58x** ($-42) | 1.33x |  | pumpswap | 2026-03-20 06:17 |
+| 🔴 HUGH | $0.002819 | **0.56x** ($-44) | 1.33x |  | pumpswap | 2026-03-20 06:17 |
 | 🟡 OIIA | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 Pete | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 GPD | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |

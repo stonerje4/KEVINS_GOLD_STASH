@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 07:25 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 07:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 47 (46 open, 1 closed) |
+| Positions | 48 (47 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-109 |
-| 🏦 Total | **$-125** |
+| 📦 Unrealized | $-60 |
+| 🏦 Total | **$-77** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ChibiElon | $0.000003 | **0.89x** ($-11) | 1.10x |  | pumpfun | 2026-03-20 07:22 |
+| 🟡 CHIBELON | $0.000003 | **1.02x** ($+2) | 1.12x |  | pumpfun | 2026-03-20 07:26 |
+| 🟡 ChibiElon | $0.000003 | **1.11x** ($+11) | 1.16x |  | pumpfun | 2026-03-20 07:22 |
 | 🔴 AEkbUJLT | $0.000003 | **0.81x** ($-19) | 1.06x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 4/20 | $0.000003 | **0.93x** ($-7) | 1.02x |  | pumpfun | 2026-03-20 06:40 |
 | 🔴 HUGH | $0.000003 | **0.84x** ($-16) | 1.03x |  | pumpfun | 2026-03-20 06:36 |
@@ -26,7 +27,7 @@
 | 🔴 NBR | $0.000003 | **0.80x** ($-20) | 1.11x |  | pumpfun | 2026-03-20 06:28 |
 | 🔴 COLONEL | $0.000003 | **0.97x** ($-3) | 1.10x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 GisEmX5K | $0.000003 | **0.78x** ($-22) | 1.05x |  | pumpfun | 2026-03-20 06:20 |
-| 🟢 BOBOLIZ | $0.000003 | **2.07x** ($+107) | 2.12x | ✅ | pumpfun | 2026-03-20 06:16 |
+| 🟢 BOBOLIZ | $0.000003 | **2.28x** ($+128) | 2.28x | ✅ | pumpfun | 2026-03-20 06:16 |
 | 🔴 ZeroG | $0.000003 | **0.88x** ($-12) | 1.05x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 TRUTH | $0.000003 | **0.91x** ($-9) | 1.23x |  | pumpfun | 2026-03-20 05:58 |
 | 🔴 HUGH | $0.000003 | **0.88x** ($-12) | 1.08x |  | pumpfun | 2026-03-20 04:24 |
@@ -34,7 +35,7 @@
 | 🟡 Yuki-chan | $0.000003 | **1.08x** ($+8) | 1.26x |  | pumpfun | 2026-03-20 04:00 |
 | 🔴 NoScam | $0.000003 | **0.81x** ($-19) | 1.17x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 Income | $0.000003 | **0.82x** ($-18) | 1.20x |  | pumpfun | 2026-03-20 03:29 |
-| 🚀 Nonchalant | $0.000003 | **5.26x** ($+426) | 5.69x | ✅ | pumpfun | 2026-03-20 03:18 |
+| 🚀 Nonchalant | $0.000003 | **5.67x** ($+467) | 5.69x | ✅ | pumpfun | 2026-03-20 03:18 |
 | 🔴 KIIUS | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 03:16 |
 | 🔴 Nonchalant | $0.000003 | **0.96x** ($-4) | 1.12x |  | pumpfun | 2026-03-20 02:50 |
 | 🔴 pepe | $0.000003 | **0.91x** ($-9) | 1.14x |  | pumpfun | 2026-03-20 02:44 |

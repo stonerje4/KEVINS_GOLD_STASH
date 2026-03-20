@@ -1,16 +1,16 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 07:25 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 07:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 42 (0 open, 42 closed) |
-| W/L | 0/42 (0%) |
-| 💵 Realized | $-4,196 |
+| Positions | 45 (0 open, 45 closed) |
+| W/L | 0/45 (0%) |
+| 💵 Realized | $-4,496 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-4,196** |
+| 🏦 Total | **$-4,496** |
 | Best Trade | 0.0x |
 | Avg Peak | 1.0x |
 
@@ -23,6 +23,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:30 → 2026-03-20 07:30 |
+| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:29 → 2026-03-20 07:29 |
+| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:27 → 2026-03-20 07:27 |
 | 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:25 → 2026-03-20 07:25 |
 | 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:23 → 2026-03-20 07:23 |
 | 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:22 → 2026-03-20 07:22 |

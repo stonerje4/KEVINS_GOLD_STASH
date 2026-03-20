@@ -1,30 +1,30 @@
 # Wallet: `FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa`
 
-> [View on Solscan](https://solscan.io/account/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa) | Updated: 2026-03-20 07:25 UTC
+> [View on Solscan](https://solscan.io/account/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa) | Updated: 2026-03-20 07:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-86 |
-| 🏦 Total | **$-86** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-64 |
+| 📦 Unrealized | $-51 |
+| 🏦 Total | **$-116** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 HeatGun | $0.000011 | **0.65x** ($-35) | 1.20x |  | pumpfun | 2026-03-20 05:21 |
 | 🔴 9dixUJjM | $0.000005 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-20 02:11 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 HeatGun | 0.36x | $-64 | stop_loss | 1.20x | pumpfun | 2026-03-20 05:21 → 2026-03-20 07:30 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

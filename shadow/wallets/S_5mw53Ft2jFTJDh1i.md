@@ -1,6 +1,6 @@
 # Wallet: `5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g`
 
-> [View on Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-20 07:25 UTC
+> [View on Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-20 07:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $-102 |
-| 🏦 Total | **$-181** |
+| 📦 Unrealized | $-127 |
+| 🏦 Total | **$-206** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Kin-Kun | $0.000003 | **1.02x** ($+2) | 1.18x |  | pumpfun | 2026-03-20 07:20 |
+| 🔴 Kin-Kun | $0.000003 | **0.77x** ($-23) | 1.18x |  | pumpfun | 2026-03-20 07:20 |
 | 🔴 BOARRIOR | $0.000006 | **0.43x** ($-57) | 1.14x |  | pumpfun | 2026-03-20 06:51 |
 | 🔴 Kin-kun | $0.000007 | **0.53x** ($-47) | 1.04x |  | pumpfun | 2026-03-20 06:33 |
 

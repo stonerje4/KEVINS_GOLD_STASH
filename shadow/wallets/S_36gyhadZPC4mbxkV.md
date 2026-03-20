@@ -1,6 +1,6 @@
 # Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
 
-> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 07:25 UTC
+> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 07:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+44 |
-| 📦 Unrealized | $-39 |
-| 🏦 Total | **$+5** |
+| 📦 Unrealized | $-66 |
+| 🏦 Total | **$-22** |
 | Best Trade | 1.4x |
 | Avg Peak | 3.9x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 chibinald | $0.000011 | **1.11x** ($+11) | 1.27x |  | pumpfun | 2026-03-20 07:24 |
+| 🔴 chibinald | $0.000011 | **0.84x** ($-16) | 1.29x |  | pumpfun | 2026-03-20 07:24 |
 | 🟡 驚き | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:20 |
 | 🟡 SMCI | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:24 |
 | 🔴 INR | $0.000003 | **0.75x** ($-25) | 1.18x |  | pumpfun | 2026-03-20 02:31 |

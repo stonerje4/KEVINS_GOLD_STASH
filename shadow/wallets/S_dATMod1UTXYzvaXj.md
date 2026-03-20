@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 07:25 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 07:30 UTC
 
 ## Summary
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AVATAR | $0.000052 | **0.64x** ($-36) | 1.50x |  | pumpswap | 2026-03-20 06:57 |
+| 🔴 AVATAR | $0.000052 | **0.68x** ($-32) | 1.50x |  | pumpswap | 2026-03-20 06:57 |
 | 🟡 Pixels | $0.000024 | **1.54x** ($+54) | 1.54x |  | pumpfun | 2026-03-20 06:53 |
-| 🔴 BOAR | $0.000008 | **0.94x** ($-6) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
+| 🔴 BOAR | $0.000008 | **0.90x** ($-10) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 NEMO | $0.000012 | **1.21x** ($+21) | 2.10x | ✅ | pumpfun | 2026-03-20 02:34 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
 | 🟢 9Yqs3sVA | $0.000008 | **4.35x** ($+335) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
