@@ -1,6 +1,6 @@
 # Wallet: `Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR`
 
-> [View on Solscan](https://solscan.io/account/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | Updated: 2026-03-20 14:04 UTC
+> [View on Solscan](https://solscan.io/account/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | Updated: 2026-03-20 14:09 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 6 (3 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-155 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$-127** |
-| Best ROI | 0.72x |
-| Avg ROI | 0.48x |
+| 📦 Unrealized | $+33 |
+| 🏦 Total | **$-122** |
+| Best Trade | 0.7x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ANIME | $0.000009 | **0.59x** ($-41) | 1.25x |  | pumpfun | 2026-03-20 13:34 |
+| 🔴 ANIME | $0.000009 | **0.64x** ($-36) | 1.25x |  | pumpfun | 2026-03-20 13:34 |
 | 🟢 DICKUS | $0.000009 | **4.05x** ($+305) | 4.05x | ✅ | pumpfun | 2026-03-20 00:47 |
 | 🔴 9pVz3EK1 | $0.000005 | **0.47x** ($-53) | 1.33x |  | pumpfun | 2026-03-20 00:40 |
 

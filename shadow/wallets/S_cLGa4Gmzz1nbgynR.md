@@ -1,23 +1,25 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:04 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 147 (141 open, 6 closed) |
+| Positions | 149 (143 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
 | 📦 Unrealized | $+282 |
 | 🏦 Total | **$+4** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.54x |
+| Best Trade | 1.5x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 forg | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
+| 🔴 brainrot | $0.000140 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
 | 🟡 Doolysaurus | $0.000148 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:57 |
 | 🟡 驚き | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:50 |
 | 🟡 JACKPOT | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:48 |

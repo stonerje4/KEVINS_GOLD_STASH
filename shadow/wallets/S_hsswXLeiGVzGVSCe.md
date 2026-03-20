@@ -1,33 +1,34 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 14:04 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 14:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 163 (148 open, 15 closed) |
+| Positions | 164 (149 open, 15 closed) |
 | W/L | 7/8 (47%) |
 | 💵 Realized | $+1,019 |
-| 📦 Unrealized | $-2,467 |
-| 🏦 Total | **$-1,447** |
-| Best ROI | 5.93x |
-| Avg ROI | 1.68x |
+| 📦 Unrealized | $-2,529 |
+| 🏦 Total | **$-1,510** |
+| Best Trade | 5.9x |
+| Avg Peak | 4.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chibi Chuck | $0.000003 | **1.11x** ($+11) | 1.13x |  | pumpfun | 2026-03-20 14:00 |
-| 🟢 CHUCK | $0.000005 | **2.99x** ($+199) | 3.04x | ✅ | pumpfun | 2026-03-20 13:57 |
+| 🔴 57eNic1L | $0.000003 | **0.95x** ($-5) | 1.04x |  | pumpfun | 2026-03-20 14:04 |
+| 🟡 Chibi Chuck | $0.000003 | **1.33x** ($+33) | 1.35x |  | pumpfun | 2026-03-20 14:00 |
+| 🟢 CHUCK | $0.000005 | **3.27x** ($+227) | 3.85x | ✅ | pumpfun | 2026-03-20 13:57 |
 | 🔴 GRACE | $0.000004 | **0.74x** ($-26) | 1.01x |  | pumpfun | 2026-03-20 13:56 |
-| 🟡 5hGP7TP2 | $0.000005 | **1.21x** ($+21) | 1.57x |  | pumpfun | 2026-03-20 13:55 |
-| 🔴 DOGEVERSE | $0.000003 | **0.88x** ($-12) | 1.02x |  | pumpfun | 2026-03-20 13:55 |
-| 🟡 $RIPCHUCK | $0.000003 | **1.60x** ($+60) | 1.61x |  | pumpfun | 2026-03-20 13:54 |
+| 🟡 5hGP7TP2 | $0.000005 | **1.26x** ($+26) | 1.57x |  | pumpfun | 2026-03-20 13:55 |
+| 🔴 DOGEVERSE | $0.000003 | **0.87x** ($-13) | 1.02x |  | pumpfun | 2026-03-20 13:55 |
+| 🟢 $RIPCHUCK | $0.000003 | **2.42x** ($+142) | 2.65x | ✅ | pumpfun | 2026-03-20 13:54 |
 | 🔴 N.O.M.A.D. | $0.000005 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 13:54 |
-| 🟡 Sunshine | $0.000005 | **1.16x** ($+16) | 1.18x |  | pumpfun | 2026-03-20 13:51 |
-| 🟡 G36Cig1K | $0.000005 | **1.35x** ($+35) | 1.64x |  | pumpfun | 2026-03-20 13:47 |
-| 🟡 NATO | $0.000003 | **1.31x** ($+31) | 1.96x |  | pumpfun | 2026-03-20 13:47 |
+| 🟡 Sunshine | $0.000005 | **1.07x** ($+7) | 1.18x |  | pumpfun | 2026-03-20 13:51 |
+| 🔴 G36Cig1K | $0.000005 | **0.55x** ($-45) | 1.64x |  | pumpfun | 2026-03-20 13:47 |
+| 🟡 NATO | $0.000003 | **1.13x** ($+13) | 1.96x |  | pumpfun | 2026-03-20 13:47 |
 | 🔴 BEiMY5Wf | $0.000004 | **0.67x** ($-33) | 1.16x |  | pumpfun | 2026-03-20 13:43 |
 | 🔴 WRONG | $0.000003 | **0.80x** ($-20) | 1.24x |  | pumpfun | 2026-03-20 13:30 |
 | 🔴 chibi | $0.000005 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 13:30 |

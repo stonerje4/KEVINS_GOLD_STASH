@@ -1,23 +1,24 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 14:04 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 14:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 72 (66 open, 6 closed) |
+| Positions | 73 (67 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $-149 |
 | 📦 Unrealized | $-170 |
 | 🏦 Total | **$-319** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.75x |
+| Best Trade | 1.5x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 effect | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:08 |
 | 🟡 Simulation | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 Doolysaurus | $0.000118 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:00 |
 | 🟡 CHANNELS | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:59 |

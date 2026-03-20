@@ -1,25 +1,26 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [View on Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 14:04 UTC
+> [View on Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 14:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (15 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-134 |
-| 📦 Unrealized | $-139 |
-| 🏦 Total | **$-273** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| Positions | 19 (16 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-194 |
+| 📦 Unrealized | $-183 |
+| 🏦 Total | **$-377** |
+| Best Trade | 0.4x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 NOR | $0.000015 | **0.69x** ($-31) | 1.00x |  | pumpfun | 2026-03-20 14:06 |
 | 🔴 7sc86ARX | $0.000003 | **0.88x** ($-12) | 1.15x |  | pumpfun | 2026-03-20 13:47 |
-| 🟡 AC3ydFNc | $0.000013 | **1.89x** ($+89) | 2.82x | ✅ | pumpfun | 2026-03-20 13:25 |
+| 🟡 AC3ydFNc | $0.000013 | **1.63x** ($+63) | 2.82x | ✅ | pumpfun | 2026-03-20 13:25 |
 | 🔴 Boobachu | $0.000006 | **0.43x** ($-57) | 1.12x |  | pumpfun | 2026-03-20 13:24 |
 | 🔴 2ttRZJaJ | $0.000003 | **0.92x** ($-8) | 1.81x |  | pumpfun | 2026-03-20 13:24 |
 | 🔴 Unikowsky | $0.000003 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 13:14 |
@@ -38,6 +39,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Norris | 0.40x | $-60 | stop_loss | 1.46x | pumpfun | 2026-03-20 14:05 → 2026-03-20 14:07 |
 | 🔴 AISexual | 0.40x | $-60 | stop_loss | 1.39x | pumpfun | 2026-03-20 13:35 → 2026-03-20 13:38 |
 | 🔴 BACK | 0.26x | $-74 | trailing_stop_4x | 3.53x | pumpfun | 2026-03-19 23:51 → 2026-03-20 07:58 |
 

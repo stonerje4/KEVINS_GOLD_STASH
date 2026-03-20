@@ -1,6 +1,6 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 14:04 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 14:09 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 49 (47 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+246 |
-| 📦 Unrealized | $-360 |
-| 🏦 Total | **$-114** |
-| Best ROI | 2.99x |
-| Avg ROI | 2.23x |
+| 📦 Unrealized | $-353 |
+| 🏦 Total | **$-107** |
+| Best Trade | 3.0x |
+| Avg Peak | 6.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 $RIPCHUCK | $0.000003 | **1.45x** ($+45) | 1.47x |  | pumpfun | 2026-03-20 13:57 |
-| 🟢 GbHQcNbZ | $0.000003 | **4.58x** ($+358) | 4.66x | ✅ | pumpfun | 2026-03-20 13:55 |
+| 🟢 $RIPCHUCK | $0.000003 | **2.20x** ($+120) | 2.41x | ✅ | pumpfun | 2026-03-20 13:57 |
+| 🚀 GbHQcNbZ | $0.000003 | **5.00x** ($+400) | 5.89x | ✅ | pumpfun | 2026-03-20 13:55 |
 | 🟡 Floki | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:36 |
 | 🔴 4h4Qs4ae | $0.000004 | **0.78x** ($-22) | 1.13x |  | pumpfun | 2026-03-20 13:35 |
 | 🔴 CHIBI | $0.000004 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:32 |

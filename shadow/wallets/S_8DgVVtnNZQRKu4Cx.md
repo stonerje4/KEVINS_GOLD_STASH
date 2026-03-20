@@ -1,23 +1,24 @@
 # Wallet: `8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU`
 
-> [View on Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-20 14:04 UTC
+> [View on Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-20 14:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
+| Positions | 4 (3 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
-| 📦 Unrealized | $+7 |
-| 🏦 Total | **$+55** |
-| Best ROI | 1.48x |
-| Avg ROI | 1.48x |
+| 📦 Unrealized | $-47 |
+| 🏦 Total | **$+1** |
+| Best Trade | 1.5x |
+| Avg Peak | 3.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Norris | $0.000014 | **0.46x** ($-54) | 1.29x |  | pumpfun | 2026-03-20 14:05 |
 | 🟡 RIPCHUCK | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟡 FeDZ6frq | $0.000034 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 13:54 |
 

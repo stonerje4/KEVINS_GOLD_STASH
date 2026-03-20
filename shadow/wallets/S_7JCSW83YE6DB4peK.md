@@ -1,23 +1,24 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 14:04 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 14:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 131 (128 open, 3 closed) |
+| Positions | 132 (129 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+210 |
-| 🏦 Total | **$+9** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| 📦 Unrealized | $+208 |
+| 🏦 Total | **$+7** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 mogging | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:07 |
 | 🟡 HeavyPulp | $0.001064 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:51 |
 | 🟡 我的刀盾 | $0.002892 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 Saxophones | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:40 |
@@ -26,9 +27,9 @@
 | 🟡 SEALION | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:35 |
 | 🟡 MIM | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🟡 BIG | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
-| 🟡 CLAIR | $0.000013 | **1.10x** ($+10) | 1.12x |  | pumpswap | 2026-03-20 13:28 |
+| 🟡 CLAIR | $0.000013 | **1.09x** ($+9) | 1.12x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 HORMUZ | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
-| 🔴 Goyim | $0.000621 | **0.98x** ($-2) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
+| 🔴 Goyim | $0.000621 | **0.97x** ($-3) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 fine999.9 | $0.001807 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:59 |
 | 🟡 Matthew | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:56 |
 | 🟡 NETAINYAHU | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
