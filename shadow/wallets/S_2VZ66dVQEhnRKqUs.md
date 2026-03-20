@@ -1,28 +1,26 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (17 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-473 |
-| 📦 Unrealized | $+324 |
-| 🏦 Total | **$-149** |
+| Positions | 25 (15 open, 10 closed) |
+| W/L | 0/10 (0%) |
+| 💵 Realized | $-673 |
+| 📦 Unrealized | $+311 |
+| 🏦 Total | **$-362** |
 | Best ROI | 0.81x |
-| Avg ROI | 0.41x |
+| Avg ROI | 0.33x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 SKI | $0.000102 | **2.88x** ($+188) | 2.99x | ✅ | pumpswap | 2026-03-20 17:45 |
+| 🟢 SKI | $0.000102 | **3.09x** ($+209) | 3.23x | ✅ | pumpswap | 2026-03-20 17:45 |
 | 🟡 MFT | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:50 |
 | 🟡 HELLO | $0.000100 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:18 |
-| 🔴 CHIBI | $0.000010 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 16:03 |
-| 🟡 Fro | $0.000112 | **1.09x** ($+9) | 1.17x |  | pumpswap | 2026-03-20 15:59 |
 | 🟢 FOID | $0.000017 | **2.10x** ($+110) | 2.10x | ✅ | pumpfun | 2026-03-20 14:58 |
 | 🟡 OIIA | $0.000021 | **1.51x** ($+51) | 1.51x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |
@@ -40,6 +38,8 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 CHIBI | 0.00x | $-100 | duplicate_entry | 1.00x | pumpfun | 2026-03-20 16:03 → 2026-03-20 18:52 |
+| 🔴 Fro | 0.00x | $-100 | duplicate_entry | 1.17x | pumpswap | 2026-03-20 15:59 → 2026-03-20 18:52 |
 | 🟡 CHIBI | 0.81x | $-19 | trailing_stop_2x | 2.19x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:32 |
 | 🔴 IMAGINE | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:51 → 2026-03-20 16:16 |
 | 🔴 DRIVE | 0.18x | $-82 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:19 → 2026-03-20 15:26 |

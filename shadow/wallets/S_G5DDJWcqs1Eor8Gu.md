@@ -1,18 +1,18 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (14 open, 7 closed) |
-| W/L | 0/7 (0%) |
-| 💵 Realized | $-438 |
+| Positions | 21 (13 open, 8 closed) |
+| W/L | 0/8 (0%) |
+| 💵 Realized | $-538 |
 | 📦 Unrealized | $+207 |
-| 🏦 Total | **$-231** |
+| 🏦 Total | **$-331** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| Avg ROI | 0.33x |
 
 ## Open Positions
 
@@ -25,7 +25,6 @@
 | 🔴 Chonk | $0.000014 | **0.48x** ($-52) | 1.41x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000014 | **3.35x** ($+235) | 4.86x | ✅ | pumpfun | 2026-03-20 09:53 |
 | 🟢 omochi | $0.000015 | **2.49x** ($+149) | 2.49x | ✅ | pumpfun | 2026-03-20 09:36 |
-| 🟡 Attention | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:06 |
 | 🔴 NEMO | $0.000016 | **0.88x** ($-12) | 1.53x |  | pumpfun | 2026-03-20 02:35 |
 | 🟡 IMAGINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:17 |
 | 🟡 SHOENICE  | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
@@ -42,6 +41,7 @@
 | 🔴 LEGO | 0.40x | $-60 | stop_loss | 1.01x | pumpfun | 2026-03-20 15:47 → 2026-03-20 15:54 |
 | 🔴 Steel | 0.28x | $-72 | stop_loss | 1.28x | pumpfun | 2026-03-20 14:41 → 2026-03-20 15:22 |
 | 🔴 Pixels | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:05 → 2026-03-20 17:20 |
+| 🔴 Attention | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 03:06 → 2026-03-20 18:52 |
 | 🔴 Attention | 0.39x | $-61 | stop_loss | 1.28x | pumpfun | 2026-03-20 01:22 → 2026-03-20 01:32 |
 | 🔴 Attention | 0.40x | $-60 | stop_loss | 1.21x | pumpswap | 2026-03-20 01:00 → 2026-03-20 01:20 |
 

@@ -1,6 +1,6 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+76 |
-| 🏦 Total | **$+14** |
+| 📦 Unrealized | $+47 |
+| 🏦 Total | **$-15** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Panya | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
-| 🔴 Doolysaurus | $0.000203 | **0.98x** ($-2) | 1.21x |  | pumpswap | 2026-03-20 13:38 |
+| 🔴 Doolysaurus | $0.000203 | **0.69x** ($-31) | 1.21x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 chibify | $0.000006 | **1.19x** ($+19) | 1.43x |  | pumpswap | 2026-03-20 10:33 |
 | 🟡 Freebuff | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:49 |
 | 🟡 Gerald | $0.000379 | **1.11x** ($+11) | 1.12x |  | pumpswap | 2026-03-20 01:39 |

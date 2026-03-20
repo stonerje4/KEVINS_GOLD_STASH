@@ -1,25 +1,24 @@
 # Wallet: `9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf`
 
-> [GMGN](https://gmgn.ai/sol/address/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | [Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | [Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (9 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-60 |
-| 📦 Unrealized | $-59 |
-| 🏦 Total | **$-119** |
+| Positions | 10 (8 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-160 |
+| 📦 Unrealized | $-66 |
+| 🏦 Total | **$-227** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| Avg ROI | 0.20x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Lili | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:07 |
-| 🟡 Fro | $0.000114 | **1.08x** ($+8) | 1.15x |  | pumpswap | 2026-03-20 16:21 |
 | 🔴 JIANG | $0.000020 | **0.89x** ($-11) | 1.01x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 APOPHENOTH | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:05 |
 | 🔴 Aliens | $0.000791 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 01:39 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Fro | 0.00x | $-100 | duplicate_entry | 1.15x | pumpswap | 2026-03-20 16:21 → 2026-03-20 18:52 |
 | 🔴 Fro | 0.40x | $-60 | stop_loss | 1.03x | pumpswap | 2026-03-20 01:08 → 2026-03-20 15:56 |
 
 ---

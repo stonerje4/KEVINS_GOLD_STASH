@@ -1,18 +1,18 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (9 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-374 |
-| 📦 Unrealized | $+69 |
-| 🏦 Total | **$-306** |
+| Positions | 14 (8 open, 6 closed) |
+| W/L | 0/6 (0%) |
+| 💵 Realized | $-474 |
+| 📦 Unrealized | $-63 |
+| 🏦 Total | **$-537** |
 | Best ROI | 0.37x |
-| Avg ROI | 0.25x |
+| Avg ROI | 0.21x |
 
 ## Open Positions
 
@@ -20,7 +20,6 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CHIBI | $0.001953 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:47 |
 | 🔴 Handprint | $0.000011 | **0.76x** ($-24) | 1.17x |  | pumpswap | 2026-03-20 18:25 |
-| 🟢 𝕏CAT | $0.000009 | **4.27x** ($+327) | 4.27x | ✅ | pumpfun | 2026-03-20 18:06 |
 | 🟡 maxxing | $0.002495 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 18:02 |
 | 🟡 HORMUZ | $0.000209 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:23 |
 | 🔴 OBJECTS | $0.000200 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 17:21 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 𝕏CAT | 0.00x | $-100 | duplicate_entry | 4.27x | pumpfun | 2026-03-20 18:06 → 2026-03-20 18:52 |
 | 🔴 𝕏CAT | 0.37x | $-63 | stop_loss | 1.00x | pumpfun | 2026-03-20 18:06 → 2026-03-20 18:06 |
 | 🔴 BURRITO | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 17:53 → 2026-03-20 17:53 |
 | 🔴 BURRITO | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 17:53 → 2026-03-20 17:53 |

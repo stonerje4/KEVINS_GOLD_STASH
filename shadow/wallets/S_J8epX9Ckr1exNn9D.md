@@ -1,6 +1,6 @@
 # Wallet: `J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT`
 
-> [GMGN](https://gmgn.ai/sol/address/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | [Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | [Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (9 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-305 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$-299** |
+| 📦 Unrealized | $+16 |
+| 🏦 Total | **$-289** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Sadly | $0.000110 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:30 |
+| 🟡 Sadly | $0.000110 | **1.11x** ($+11) | 1.19x |  | pumpswap | 2026-03-20 18:30 |
 | 🟡 XCAT | $0.000137 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:22 |
 | 🟡 HELLO | $0.000131 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:18 |
 | 🟡 MOSHI | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:24 |

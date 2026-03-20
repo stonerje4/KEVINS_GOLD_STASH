@@ -1,25 +1,24 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (12 open, 14 closed) |
-| W/L | 0/14 (0%) |
-| 💵 Realized | $-960 |
-| 📦 Unrealized | $+46 |
-| 🏦 Total | **$-914** |
+| Positions | 26 (11 open, 15 closed) |
+| W/L | 0/15 (0%) |
+| 💵 Realized | $-1,060 |
+| 📦 Unrealized | $+25 |
+| 🏦 Total | **$-1,034** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.31x |
+| Avg ROI | 0.29x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Rosei | $0.000014 | **0.85x** ($-15) | 1.10x |  | pumpswap | 2026-03-19 23:49 |
-| 🟡 AINL | $0.000025 | **1.20x** ($+20) | 1.21x |  | pumpswap | 2026-03-19 23:43 |
 | 🟢 CHIBI | $0.000656 | **3.43x** ($+243) | 3.88x | ✅ | pumpswap | 2026-03-19 23:36 |
 | 🔴 Garbonzo | $0.000009 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 CHIBIELON | $0.000005 | **1.50x** ($+50) | 1.78x |  | pumpswap | 2026-03-19 23:28 |
@@ -37,6 +36,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 SANAE | 0.33x | $-67 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:55 → 2026-03-19 23:55 |
 | 🔴 Massive | 0.28x | $-72 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:53 → 2026-03-19 23:53 |
+| 🔴 AINL | 0.00x | $-100 | duplicate_entry | 1.21x | pumpswap | 2026-03-19 23:43 → 2026-03-20 18:52 |
 | 🔴 CHIBI | 0.39x | $-61 | stop_loss | 1.04x | pumpswap | 2026-03-19 23:37 → 2026-03-20 00:53 |
 | 🔴 house | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:26 → 2026-03-19 23:30 |
 | 🔴 Dickus | 0.35x | $-65 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:23 → 2026-03-19 23:23 |

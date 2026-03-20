@@ -1,6 +1,6 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-202 |
-| 🏦 Total | **$-202** |
+| 📦 Unrealized | $-195 |
+| 🏦 Total | **$-195** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -31,7 +31,7 @@
 | 🔴 DAU | $0.000008 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 01:05 |
 | 🔴 Jorge | $0.000010 | **0.64x** ($-36) | 1.16x |  | pumpswap | 2026-03-20 00:00 |
 | 🟡 Bombardino | $0.000007 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:52 |
-| 🔴 Flash | $0.000076 | **0.46x** ($-54) | 1.02x |  | pumpswap | 2026-03-19 23:33 |
+| 🔴 Flash | $0.000076 | **0.54x** ($-46) | 1.02x |  | pumpswap | 2026-03-19 23:33 |
 | 🔴 DLORP | $0.000011 | **0.99x** ($-1) | 1.25x |  | pumpswap | 2026-03-19 23:08 |
 
 ## Closed Positions

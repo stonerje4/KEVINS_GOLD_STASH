@@ -1,31 +1,28 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 53 (26 open, 27 closed) |
-| W/L | 2/25 (7%) |
-| 💵 Realized | $-1,111 |
-| 📦 Unrealized | $+538 |
-| 🏦 Total | **$-572** |
+| Positions | 53 (22 open, 31 closed) |
+| W/L | 2/29 (6%) |
+| 💵 Realized | $-1,416 |
+| 📦 Unrealized | $-244 |
+| 🏦 Total | **$-1,660** |
 | Best ROI | 2.93x |
-| Avg ROI | 0.59x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 POLARA | $0.000022 | **0.85x** ($-15) | 1.07x |  | pumpfun | 2026-03-20 18:25 |
+| 🔴 POLARA | $0.000022 | **0.86x** ($-14) | 1.07x |  | pumpfun | 2026-03-20 18:25 |
 | 🟢 MFT | $0.000014 | **2.16x** ($+116) | 2.27x | ✅ | pumpfun | 2026-03-20 16:04 |
-| 🟡 IMAGINE | $0.000050 | **1.01x** ($+1) | 1.32x |  | pumpswap | 2026-03-20 15:52 |
 | 🔴 CHUCK | $0.000012 | **0.81x** ($-19) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
 | 🟡 kinton | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
-| 🟢 Judy | $0.000009 | **2.91x** ($+191) | 3.84x | ✅ | pumpfun | 2026-03-20 10:41 |
-| 🚀 Doolysaurus | $0.000006 | **31.17x** ($+3,017) | 38.41x | ✅ | pumpfun | 2026-03-20 09:52 |
 | 🔴 我的猪盾 | $0.000006 | **0.46x** ($-54) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |
 | 🟡 MFT | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
@@ -39,7 +36,6 @@
 | 🔴 jeff | $0.000023 | **0.95x** ($-5) | 1.08x |  | pumpswap | 2026-03-20 00:24 |
 | 🔴 REKT | $0.000009 | **0.52x** ($-48) | 1.34x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 ONEAI | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
-| 🟡 PEPE | $0.000008 | **1.32x** ($+32) | 1.32x |  | pumpfun | 2026-03-19 23:12 |
 | 🔴 PRINTER | $0.000005 | **0.49x** ($-51) | 1.38x |  | pumpfun | 2026-03-19 22:57 |
 | 🟡 Gusini | $0.000019 | **1.03x** ($+3) | 1.55x |  | pumpfun | 2026-03-19 22:51 |
 | 🔴 CLAUDEHOLE | $0.000006 | **0.43x** ($-57) | 1.24x |  | pumpfun | 2026-03-19 22:37 |
@@ -49,9 +45,12 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 IMAGINE | 0.00x | $-100 | duplicate_entry | 1.32x | pumpswap | 2026-03-20 15:52 → 2026-03-20 18:52 |
 | 🔴 FOID | 0.40x | $-60 | stop_loss | 1.13x | pumpfun | 2026-03-20 13:38 → 2026-03-20 15:17 |
 | 🟡 Miki | 1.50x | $+50 | trailing_stop_3x | 3.10x | pumpfun | 2026-03-20 13:12 → 2026-03-20 14:16 |
 | 🔴 Chibify | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-20 10:47 → 2026-03-20 15:20 |
+| 🟡 Judy | 0.94x | $-6 | trailing_stop_4x | 3.84x | pumpfun | 2026-03-20 10:41 → 2026-03-20 18:53 |
+| 🔴 Doolysaurus | 0.00x | $-100 | duplicate_entry | 38.41x | pumpfun | 2026-03-20 09:52 → 2026-03-20 18:52 |
 | 🔴 Doolysaurus | 0.33x | $-67 | stop_loss | 1.15x | pumpfun | 2026-03-20 09:40 → 2026-03-20 09:52 |
 | 🔴 GrokChibi | 0.40x | $-60 | stop_loss | 1.10x | pumpfun | 2026-03-20 07:37 → 2026-03-20 07:50 |
 | 🟡 awkward | 0.82x | $-18 | trailing_stop_2x | 2.31x | pumpfun | 2026-03-20 07:16 → 2026-03-20 07:52 |
@@ -71,6 +70,7 @@
 | 🔴 ABUNDANCE | 0.20x | $-80 | stop_loss | 1.11x | pumpfun | 2026-03-20 00:04 → 2026-03-20 00:05 |
 | 🔴 Optimistrump | 0.06x | $-94 | stop_loss | 1.14x | pumpswap | 2026-03-19 23:52 → 2026-03-20 00:21 |
 | 🟡 tremp | 0.85x | $-15 | trailing_stop_2x | 2.26x | pumpfun | 2026-03-19 23:51 → 2026-03-20 00:14 |
+| 🔴 PEPE | 0.00x | $-100 | duplicate_entry | 1.32x | pumpfun | 2026-03-19 23:12 → 2026-03-20 18:52 |
 | 🔴 twump | 0.36x | $-64 | stop_loss | 1.37x | pumpfun | 2026-03-19 23:10 → 2026-03-20 15:29 |
 | 🔴 QUIT | 0.26x | $-74 | stop_loss | 1.06x | pumpfun | 2026-03-19 23:07 → 2026-03-19 23:07 |
 | 🔴 Attention | 0.37x | $-63 | stop_loss | 1.61x | pumpfun | 2026-03-19 22:52 → 2026-03-20 01:17 |

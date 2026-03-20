@@ -1,18 +1,18 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (14 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-61 |
-| 📦 Unrealized | $-93 |
-| 🏦 Total | **$-154** |
+| Positions | 15 (13 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-161 |
+| 📦 Unrealized | $-66 |
+| 🏦 Total | **$-226** |
 | Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| Avg ROI | 0.20x |
 
 ## Open Positions
 
@@ -21,7 +21,6 @@
 | 🟡 CAINE | $853651.188788 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 18:10 |
 | 🔴 CHUCK | $0.000006 | **0.77x** ($-23) | 1.48x |  | pumpswap | 2026-03-20 17:42 |
 | 🟡 CHUCK | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:58 |
-| 🔴 Floki | $0.000016 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 16:07 |
 | 🔴 AlphA | $0.000012 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 15:54 |
 | 🔴 Optimislon | $0.000142 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🔴 Smoklon | $0.000007 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
@@ -37,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Floki | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 16:07 → 2026-03-20 18:52 |
 | 🔴 Floki | 0.39x | $-61 | stop_loss | 1.08x | pumpswap | 2026-03-20 04:52 → 2026-03-20 06:33 |
 
 ---

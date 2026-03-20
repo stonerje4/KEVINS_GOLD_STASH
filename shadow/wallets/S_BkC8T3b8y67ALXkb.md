@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 81 (73 open, 8 closed) |
 | W/L | 0/8 (0%) |
 | 💵 Realized | $-500 |
-| 📦 Unrealized | $-288 |
-| 🏦 Total | **$-788** |
+| 📦 Unrealized | $-231 |
+| 🏦 Total | **$-731** |
 | Best ROI | 0.73x |
 | Avg ROI | 0.38x |
 
@@ -42,7 +42,7 @@
 | 🟡 tinfoil | $0.000059 | **1.28x** ($+28) | 1.35x |  | pumpswap | 2026-03-20 08:04 |
 | 🔴 LIBERTY | $0.000043 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 HeavyPulp | $0.001092 | **1.15x** ($+15) | 1.33x |  | pumpswap | 2026-03-20 07:41 |
-| 🟡 Massive | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
+| 🟡 Massive | $0.000020 | **1.58x** ($+58) | 1.58x |  | pumpswap | 2026-03-20 07:28 |
 | 🔴 George | $0.000019 | **0.68x** ($-32) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
 | 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🔴 worth | $0.000089 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
@@ -84,7 +84,7 @@
 | 🔴 Billy | $0.000011 | **0.84x** ($-16) | 1.22x |  | pumpswap | 2026-03-20 00:26 |
 | 🔴 SPOT | $0.000011 | **0.98x** ($-2) | 1.06x |  | cpmm | 2026-03-20 00:26 |
 | 🔴 Aliens | $0.000779 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 00:11 |
-| 🔴 Octogent | $0.000010 | **0.53x** ($-47) | 1.19x |  | pumpswap | 2026-03-20 00:06 |
+| 🔴 Octogent | $0.000010 | **0.52x** ($-48) | 1.19x |  | pumpswap | 2026-03-20 00:06 |
 | 🔴 TIMELESS | $0.000021 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 00:02 |
 | 🔴 NETANYAHU | $0.000084 | **0.96x** ($-4) | 1.41x |  | pumpswap | 2026-03-20 00:02 |
 | 🟡 0 | $0.000068 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:02 |

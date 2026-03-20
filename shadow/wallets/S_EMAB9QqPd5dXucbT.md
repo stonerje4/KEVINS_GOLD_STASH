@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 33 (30 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-166 |
-| 📦 Unrealized | $-155 |
-| 🏦 Total | **$-321** |
+| 📦 Unrealized | $-87 |
+| 🏦 Total | **$-254** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.45x |
 
@@ -19,13 +19,13 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Wob | $0.000023 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
-| 🔴 Flash | $0.000038 | **0.91x** ($-9) | 1.03x |  | pumpswap | 2026-03-20 10:43 |
+| 🟡 Flash | $0.000038 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-20 10:43 |
 | 🔴 LUMO | $0.000061 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 10:27 |
 | 🔴 awkward | $0.000013 | **0.89x** ($-11) | 1.34x |  | pumpfun | 2026-03-20 10:09 |
-| 🟡 Massive | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:22 |
+| 🟡 Massive | $0.000021 | **1.56x** ($+56) | 1.56x |  | pumpswap | 2026-03-20 05:22 |
 | 🟡 Strawberita | $0.000049 | **1.23x** ($+23) | 1.26x |  | pumpswap | 2026-03-20 05:21 |
-| 🟡 PIKE | $0.000034 | **1.17x** ($+17) | 1.61x |  | pumpswap | 2026-03-20 05:16 |
-| 🔴 Saxophones | $0.000045 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
+| 🟡 PIKE | $0.000034 | **1.12x** ($+12) | 1.61x |  | pumpswap | 2026-03-20 05:16 |
+| 🔴 Saxophones | $0.000045 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🔴 しずく | $0.000022 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🔴 plumber | $0.000058 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🔴 MILO | $0.000006 | **0.90x** ($-10) | 1.06x |  | pumpswap | 2026-03-20 03:31 |

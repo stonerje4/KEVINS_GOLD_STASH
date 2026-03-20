@@ -1,18 +1,18 @@
 # Wallet: `CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ`
 
-> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (13 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-128 |
-| 📦 Unrealized | $+197 |
-| 🏦 Total | **$+69** |
+| Positions | 15 (12 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-228 |
+| 📦 Unrealized | $+246 |
+| 🏦 Total | **$+18** |
 | Best ROI | 0.38x |
-| Avg ROI | 0.36x |
+| Avg ROI | 0.24x |
 
 ## Open Positions
 
@@ -21,7 +21,6 @@
 | 🟡 e-CNY | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:07 |
 | 🟡 FTR | $0.000009 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 08:38 |
 | 🟡 TGR | $0.000009 | **1.05x** ($+5) | 1.12x |  | pumpfun | 2026-03-20 07:31 |
-| 🔴 AGS | $0.000007 | **0.51x** ($-49) | 1.11x |  | pumpfun | 2026-03-20 07:01 |
 | 🟡 NBR | $0.000035 | **1.29x** ($+29) | 1.33x |  | pumpfun | 2026-03-20 04:20 |
 | 🟡 NBR | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 WRT | $0.000006 | **0.89x** ($-11) | 1.05x |  | pumpfun | 2026-03-20 03:41 |
@@ -36,6 +35,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 AGS | 0.00x | $-100 | duplicate_entry | 1.11x | pumpfun | 2026-03-20 07:01 → 2026-03-20 18:52 |
 | 🔴 AGS | 0.38x | $-62 | stop_loss | 1.31x | pumpfun | 2026-03-20 06:57 → 2026-03-20 06:59 |
 | 🔴 NBR | 0.33x | $-67 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:12 → 2026-03-20 18:16 |
 

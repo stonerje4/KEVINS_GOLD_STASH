@@ -1,6 +1,6 @@
 # Wallet: `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4`
 
-> [GMGN](https://gmgn.ai/sol/address/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | [Solscan](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | [Solscan](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-10 |
-| 🏦 Total | **$-10** |
+| 📦 Unrealized | $-14 |
+| 🏦 Total | **$-14** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PIKE | $0.000042 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 18:46 |
+| 🔴 PIKE | $0.000042 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 18:46 |
 | 🟡 Bananito | $0.000006 | **1.05x** ($+5) | 1.40x |  | pumpfun | 2026-03-20 17:57 |
 | 🟡 knight | $0.000022 | **1.00x** ($+0) | 1.08x |  | pumpswap | 2026-03-20 15:54 |
 | 🔴 JJK | $0.000005 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 15:22 |

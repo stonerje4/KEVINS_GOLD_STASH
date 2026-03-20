@@ -1,6 +1,6 @@
 # Wallet: `CRprJTquSisjHNYQnpn7NpwiyALA6gGBJTwDkH1bVYHD`
 
-> [GMGN](https://gmgn.ai/sol/address/CRprJTquSisjHNYQnpn7NpwiyALA6gGBJTwDkH1bVYHD) | [Solscan](https://solscan.io/account/CRprJTquSisjHNYQnpn7NpwiyALA6gGBJTwDkH1bVYHD) | Updated: 2026-03-20 18:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/CRprJTquSisjHNYQnpn7NpwiyALA6gGBJTwDkH1bVYHD) | [Solscan](https://solscan.io/account/CRprJTquSisjHNYQnpn7NpwiyALA6gGBJTwDkH1bVYHD) | Updated: 2026-03-20 18:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+95 |
-| 🏦 Total | **$+95** |
+| 📦 Unrealized | $+107 |
+| 🏦 Total | **$+107** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -23,7 +23,7 @@
 | 🟡 FOID | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:38 |
 | 🟡 LNG | $0.000020 | **1.19x** ($+19) | 1.19x |  | pumpfun | 2026-03-20 16:33 |
 | 🔴 Island | $0.000044 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 13:47 |
-| 🔴 Flash | $0.000050 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 13:35 |
+| 🔴 Flash | $0.000050 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 13:35 |
 | 🟢 CLAW3D | $0.000054 | **4.86x** ($+386) | 6.41x | ✅ | pumpswap | 2026-03-19 23:11 |
 
 ## Closed Positions
