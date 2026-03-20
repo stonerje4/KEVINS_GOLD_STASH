@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 02:44 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 02:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (26 open, 0 closed) |
+| Positions | 27 (27 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-85 |
-| 🏦 Total | **$-85** |
+| 📦 Unrealized | $-94 |
+| 🏦 Total | **$-94** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 pepe | $0.000003 | **0.91x** ($-9) | 1.14x |  | pumpfun | 2026-03-20 02:44 |
 | 🔴 one day | $0.000003 | **0.92x** ($-8) | 1.06x |  | pumpfun | 2026-03-20 02:37 |
 | 🔴 外星小猫 | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 02:33 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:19 |

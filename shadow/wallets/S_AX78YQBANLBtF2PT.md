@@ -1,16 +1,16 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 02:44 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 02:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
+| Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $+158 |
-| 🏦 Total | **$+82** |
+| 📦 Unrealized | $+117 |
+| 🏦 Total | **$+42** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 EefwCHU8 | $0.000004 | **0.60x** ($-40) | 1.16x |  | pumpfun | 2026-03-20 02:46 |
 | 🔴 INR | $0.000006 | **0.41x** ($-59) | 1.93x |  | pumpfun | 2026-03-20 02:31 |
 | 🟢 Grokslop | $0.000010 | **3.80x** ($+280) | 3.80x | ✅ | pumpfun | 2026-03-20 00:47 |
 | 🟢 BACK | $0.000010 | **3.76x** ($+276) | 3.76x | ✅ | pumpfun | 2026-03-19 23:51 |

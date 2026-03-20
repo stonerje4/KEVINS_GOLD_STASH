@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 02:44 UTC
+> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 02:49 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000020 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 02:25 |
+| 🔴 Chuck | $0.000020 | **0.97x** ($-3) | 1.02x |  | pumpfun | 2026-03-20 02:25 |
 | 🟡 Cow | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:24 |
 | 🔴 Silly | $0.000004 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 

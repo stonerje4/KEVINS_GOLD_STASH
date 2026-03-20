@@ -1,16 +1,16 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 02:44 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 02:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 161 (159 open, 2 closed) |
+| Positions | 164 (162 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+121 |
-| 📦 Unrealized | $+221 |
-| 🏦 Total | **$+342** |
+| 📦 Unrealized | $+222 |
+| 🏦 Total | **$+343** |
 | Best Trade | 3.0x |
 | Avg Peak | 4.3x |
 
@@ -18,20 +18,23 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 WhiteBoy  | $0.000015 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
+| 🟡 Snorp | $0.000217 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
+| 🟡 attn | $0.000285 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🔴 PIZZA | $0.000210 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:42 |
-| 🔴 VAULT | $0.000180 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:41 |
-| 🔴 APES | $0.000226 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:40 |
-| 🔴 VAFR | $0.000025 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 02:40 |
+| 🟡 VAULT | $0.000180 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 02:41 |
+| 🟡 APES | $0.000226 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 02:40 |
+| 🔴 VAFR | $0.000025 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 02:40 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
 | 🟡 JOC | $0.000035 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 Singularity | $0.000281 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
 | 🟡 Gany | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
-| 🟡 CAGE | $0.000037 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:30 |
+| 🟡 CAGE | $0.000037 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 02:30 |
 | 🟡 YOU | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
 | 🟡 PIKE | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:22 |
-| 🟡 MULERUN | $0.000025 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-20 02:22 |
-| 🔴 LULU | $0.000034 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
-| 🔴 BB | $0.000009 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
+| 🟡 MULERUN | $0.000025 | **1.10x** ($+10) | 1.11x |  | pumpswap | 2026-03-20 02:22 |
+| 🔴 LULU | $0.000034 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
+| 🔴 BB | $0.000009 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 fire | $0.000006 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 ANIMAL | $0.000258 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 GROKBUILD | $0.000021 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:09 |

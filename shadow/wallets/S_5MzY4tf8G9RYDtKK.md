@@ -1,12 +1,12 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 02:44 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 02:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 34 (19 open, 15 closed) |
+| Positions | 35 (20 open, 15 closed) |
 | W/L | 0/15 (0%) |
 | 💵 Realized | $-768 |
 | 📦 Unrealized | $-275 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SPARKOS | $0.000109 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:48 |
 | 🟡 W | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:13 |
 | 🟡 BOE | $0.000021 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:11 |
 | 🔴 LIBERTY | $0.000021 | **1.00x** ($-0) | 1.15x |  | pumpswap | 2026-03-20 01:39 |

@@ -1,16 +1,16 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 02:44 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 02:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (10 open, 1 closed) |
+| Positions | 12 (11 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-25 |
-| 🏦 Total | **$+23** |
+| 📦 Unrealized | $+9 |
+| 🏦 Total | **$+56** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.4x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Skynet | $0.000004 | **1.33x** ($+33) | 1.33x |  | pumpswap | 2026-03-20 02:46 |
 | 🟡 MFT | $0.000004 | **1.59x** ($+59) | 1.68x |  | pumpfun | 2026-03-20 02:14 |
 | 🔴 SENTINEL | $0.000004 | **0.65x** ($-35) | 1.00x |  | pumpfun | 2026-03-20 01:56 |
 | 🔴 buVTnvJd | $0.000004 | **0.69x** ($-31) | 1.00x |  | pumpfun | 2026-03-20 01:36 |

@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 02:44 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 02:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+26 |
-| 🏦 Total | **$+26** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$+20** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 DEBT | $0.000003 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 02:42 |
+| 🟡 DEBT | $0.000003 | **1.01x** ($+1) | 1.07x |  | pumpfun | 2026-03-20 02:42 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:23 |
 | 🔴 XXXY | $0.000003 | **0.95x** ($-5) | 1.03x |  | pumpfun | 2026-03-20 02:08 |
 | 🔴 NASDOG | $0.000003 | **0.94x** ($-6) | 1.15x |  | pumpfun | 2026-03-20 01:57 |

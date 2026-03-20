@@ -1,16 +1,16 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 02:44 UTC
+> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 02:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (15 open, 0 closed) |
+| Positions | 16 (16 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-28 |
-| 🏦 Total | **$-28** |
+| 📦 Unrealized | $-36 |
+| 🏦 Total | **$-36** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 CASPER  | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 02:44 |
 | 🟡 NBR | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |
 | 🔴 $ZENDA  | $0.000004 | **0.84x** ($-16) | 1.04x |  | pumpfun | 2026-03-20 02:39 |
 | 🟡 OSP | $0.000097 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:39 |

@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 02:44 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 02:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 112 (111 open, 1 closed) |
+| Positions | 115 (114 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+199 |
-| 📦 Unrealized | $+196 |
-| 🏦 Total | **$+394** |
+| 📦 Unrealized | $+183 |
+| 🏦 Total | **$+381** |
 | Best Trade | 3.0x |
 | Avg Peak | 9.7x |
 
@@ -18,15 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 VAFR | $0.000024 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:40 |
+| 🟡 Snorp | $0.000216 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
+| 🔴 SNDK | $0.000007 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
+| 🟡 attn | $0.000285 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
+| 🔴 VAFR | $0.000024 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 02:40 |
 | 🟡 Devious | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
-| 🔴 COW | $0.000005 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:34 |
+| 🔴 COW | $0.000005 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:34 |
 | 🟡 LinLian | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:33 |
 | 🟡 Octogent | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:31 |
-| 🔴 KIKO | $0.000004 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
+| 🔴 KIKO | $0.000004 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
 | 🟡 Moe | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
-| 🔴 LULU | $0.000033 | **1.00x** ($-0) | 1.03x |  | pumpswap | 2026-03-20 02:20 |
-| 🟡 BB | $0.000009 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 02:20 |
+| 🔴 LULU | $0.000033 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 02:20 |
+| 🔴 BB | $0.000009 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 FLAPPY | $0.000082 | **0.98x** ($-2) | 1.05x |  | pumpswap | 2026-03-20 02:17 |
 | 🔴 ANIMAL | $0.000257 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:15 |
 | 🟡 GAS | $0.000358 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:12 |
