@@ -9,16 +9,16 @@
 | Positions | 13 (9 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-298 |
-| 📦 Unrealized | $+544 |
-| 🏦 Total | **$+245** |
-| Best Trade | 0.4x |
-| Avg Peak | 39.9x |
+| 📦 Unrealized | $+533 |
+| 🏦 Total | **$+235** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.25x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 clod | $0.000001 | **26.38x** ($+2,538) | 26.64x | ✅ | pumpswap | 2026-03-20 12:25 |
+| 🚀 clod | $0.000001 | **25.91x** ($+2,491) | 26.64x | ✅ | pumpswap | 2026-03-20 12:25 |
 | 🟡 SHOENICE  | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:41 |
 | 🟡 ANIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:23 |
 | 🟡 Kin-kun | $0.000008 | **1.31x** ($+31) | 1.64x |  | pumpfun | 2026-03-20 09:53 |

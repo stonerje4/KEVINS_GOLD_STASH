@@ -9,10 +9,10 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+19 |
-| 🏦 Total | **$+19** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+18 |
+| 🏦 Total | **$+18** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🟡 DAU | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🟡 ANI | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:21 |
 | 🟡 API | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:21 |
-| 🔴 clod | $0.000039 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 12:20 |
+| 🔴 clod | $0.000039 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 12:20 |
 | 🟡 Pixel | $0.000010 | **1.39x** ($+39) | 1.70x |  | pumpswap | 2026-03-20 12:18 |
 
 ## Closed Positions

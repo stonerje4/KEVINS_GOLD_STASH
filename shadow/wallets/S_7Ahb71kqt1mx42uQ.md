@@ -9,10 +9,10 @@
 | Positions | 16 (15 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+181 |
-| 🏦 Total | **$+119** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+178 |
+| 🏦 Total | **$+116** |
+| Best ROI | 0.38x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🟡 Doolysaurus | $0.000203 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 CHIBISLOP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:42 |
 | 🟡 chibify | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:33 |
-| 🚀 clod | $0.000005 | **5.81x** ($+481) | 5.86x | ✅ | pumpswap | 2026-03-20 10:02 |
+| 🚀 clod | $0.000005 | **5.70x** ($+470) | 5.86x | ✅ | pumpswap | 2026-03-20 10:02 |
 | 🔴 Sunshine | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 09:59 |
 | 🟡 McCards | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:15 |
 | 🟡 Freebuff | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:49 |

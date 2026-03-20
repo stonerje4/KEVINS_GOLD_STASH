@@ -9,17 +9,17 @@
 | Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+24 |
-| 🏦 Total | **$-36** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.3x |
+| 📦 Unrealized | $+28 |
+| 🏦 Total | **$-32** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 MOSHI | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
-| 🟢 Chuck | $0.000099 | **4.40x** ($+340) | 4.86x | ✅ | pumpswap | 2026-03-20 13:54 |
+| 🟢 Chuck | $0.000099 | **4.50x** ($+350) | 4.86x | ✅ | pumpswap | 2026-03-20 13:54 |
 | 🟡 PHM | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 Blou | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:15 |
