@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 104 (96 open, 8 closed) |
+| Positions | 105 (97 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+999 |
-| 📦 Unrealized | $-1,437 |
-| 🏦 Total | **$-437** |
+| 📦 Unrealized | $-1,491 |
+| 🏦 Total | **$-492** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.7x |
 
@@ -18,16 +18,17 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Income | $0.000003 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 03:29 |
-| 🔴 Floki | $0.000005 | **0.76x** ($-24) | 1.00x |  | pumpfun | 2026-03-20 03:27 |
+| 🔴 AIVEG | $0.000005 | **0.91x** ($-9) | 1.04x |  | pumpfun | 2026-03-20 03:30 |
+| 🔴 Income | $0.000003 | **0.73x** ($-27) | 1.07x |  | pumpfun | 2026-03-20 03:29 |
+| 🔴 Floki | $0.000005 | **0.80x** ($-20) | 1.00x |  | pumpfun | 2026-03-20 03:27 |
 | 🟡 SMCI | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:23 |
 | 🔴 Tehc | $0.000005 | **0.51x** ($-49) | 1.16x |  | pumpfun | 2026-03-20 03:21 |
 | 🔴 MYCO | $0.000004 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 03:21 |
-| 🟡 DtFBKXwG | $0.000004 | **1.09x** ($+9) | 1.15x |  | pumpfun | 2026-03-20 03:20 |
-| 🔴 8pr5Afkz | $0.000004 | **0.73x** ($-27) | 1.12x |  | pumpfun | 2026-03-20 03:13 |
+| 🟡 DtFBKXwG | $0.000004 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 03:20 |
+| 🔴 8pr5Afkz | $0.000004 | **0.68x** ($-32) | 1.12x |  | pumpfun | 2026-03-20 03:13 |
 | 🔴 BjCprjck | $0.000003 | **0.81x** ($-19) | 1.00x |  | pumpfun | 2026-03-20 03:11 |
 | 🔴 BALD | $0.000003 | **0.76x** ($-24) | 1.21x |  | pumpfun | 2026-03-20 03:07 |
-| 🔴 SNEHA | $0.000005 | **0.93x** ($-7) | 1.57x |  | pumpfun | 2026-03-20 02:59 |
+| 🔴 SNEHA | $0.000005 | **0.74x** ($-26) | 1.57x |  | pumpfun | 2026-03-20 02:59 |
 | 🔴 Grokputer | $0.000005 | **0.86x** ($-14) | 1.01x |  | pumpfun | 2026-03-20 02:57 |
 | 🔴 Island | $0.000005 | **0.57x** ($-43) | 1.00x |  | pumpfun | 2026-03-20 02:52 |
 | 🔴 Semi | $0.000003 | **0.74x** ($-26) | 1.01x |  | pumpfun | 2026-03-20 02:50 |

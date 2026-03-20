@@ -1,16 +1,16 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 61 (60 open, 1 closed) |
+| Positions | 62 (61 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-51 |
-| 🏦 Total | **$-128** |
+| 📦 Unrealized | $-42 |
+| 🏦 Total | **$-119** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SAID | $0.000286 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 UGOR | $0.000938 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
+| 🟡 SAID | $0.000286 | **1.00x** ($+0) | 1.03x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 Xingxing | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
@@ -26,7 +27,7 @@
 | 🟡 WIZARD | $0.000400 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:00 |
 | 🟡 APES | $0.000213 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 FTR | $0.000197 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
-| 🔴 CARROT | $0.000007 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
+| 🔴 CARROT | $0.000007 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 VAULT | $0.000179 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-20 02:41 |
 | 🔴 PIZZA | $0.000209 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:39 |
 | 🟡 JOC | $0.000034 | **1.08x** ($+8) | 1.09x |  | pumpswap | 2026-03-20 02:36 |

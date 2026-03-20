@@ -1,24 +1,23 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+226 |
-| 🏦 Total | **$+226** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 6 (5 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-21 |
+| 📦 Unrealized | $+211 |
+| 🏦 Total | **$+190** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 wepaid | $0.000006 | **1.31x** ($+31) | 2.12x | ✅ | pumpfun | 2026-03-20 03:13 |
 | 🚀 credit | $0.000005 | **7.24x** ($+624) | 7.24x | ✅ | pumpfun | 2026-03-20 03:02 |
 | 🟡 Taylor | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 imagineslop | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
@@ -29,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 wepaid | 0.79x | $-21 | trailing_stop_2x | 2.12x | pumpfun | 2026-03-20 03:13 → 2026-03-20 03:30 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

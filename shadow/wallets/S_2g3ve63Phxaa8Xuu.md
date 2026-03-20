@@ -1,12 +1,12 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (6 open, 5 closed) |
+| Positions | 12 (7 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-153 |
 | 📦 Unrealized | $+23,926 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHANNELS | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:31 |
 | 🟡 Massive | $0.000019 | **1.19x** ($+19) | 1.30x |  | pumpswap | 2026-03-20 01:31 |
 | 🟡 SHOENICE  | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:04 |
 | 🟢 Grokslop | $0.000014 | **2.67x** ($+167) | 2.67x | ✅ | pumpfun | 2026-03-20 00:54 |

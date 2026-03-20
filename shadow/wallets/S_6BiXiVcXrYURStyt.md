@@ -1,6 +1,6 @@
-# Wallet: `HPKKsYE1RVW7GgmffUroF93XHZjxQ1EqHpuAeMye3J5Y`
+# Wallet: `6BiXiVcXrYURStytdFPpmvdED6GEhF6KwTp6h8v2xmUT`
 
-> [View on Solscan](https://solscan.io/account/HPKKsYE1RVW7GgmffUroF93XHZjxQ1EqHpuAeMye3J5Y) | Updated: 2026-03-20 03:34 UTC
+> [View on Solscan](https://solscan.io/account/6BiXiVcXrYURStytdFPpmvdED6GEhF6KwTp6h8v2xmUT) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$+6** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Speak | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:29 |
+| 🟡 4Fayh7Ed | $0.000003 | **1.06x** ($+6) | 1.06x |  | pumpfun | 2026-03-20 03:34 |
 
 ## Closed Positions
 

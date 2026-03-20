@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 82 (79 open, 3 closed) |
+| Positions | 83 (80 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+249 |
-| 🏦 Total | **$+158** |
+| 📦 Unrealized | $+246 |
+| 🏦 Total | **$+156** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Fro | $0.000205 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:32 |
 | 🟡 Freebuff | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:27 |
 | 🟡 CLAW3D | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
@@ -78,7 +79,7 @@
 | 🟡 Alien | $0.000014 | **1.61x** ($+61) | 1.71x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000025 | **1.20x** ($+20) | 1.21x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 KIWI | $0.000158 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-19 23:43 |
-| 🔴 OILINU | $0.000090 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
+| 🔴 OILINU | $0.000090 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
 | 🔴 Patricia | $0.000024 | **0.60x** ($-40) | 1.94x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Monke | $0.000013 | **0.64x** ($-36) | 1.04x |  | pumpswap | 2026-03-19 23:30 |
 | 🟡 Nigel | $0.000195 | **1.07x** ($+7) | 1.36x |  | pumpswap | 2026-03-19 23:24 |
@@ -91,7 +92,7 @@
 | 🔴 PIKAHORSE | $0.000373 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 MIROFISH | $0.000032 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 22:58 |
 | 🟡 Noesis | $0.000346 | **1.00x** ($+0) | 1.05x |  | pumpswap | 2026-03-19 22:58 |
-| 🟡 67 | $0.001147 | **1.09x** ($+9) | 1.11x |  | pumpswap | 2026-03-19 22:56 |
+| 🟡 67 | $0.001147 | **1.08x** ($+8) | 1.11x |  | pumpswap | 2026-03-19 22:56 |
 | 🔴 OXIDE | $0.000037 | **0.77x** ($-23) | 1.15x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 5 | $0.000011 | **0.89x** ($-11) | 1.12x |  | pumpswap | 2026-03-19 22:47 |
 | 🟡 TGR | $0.000104 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-19 22:43 |

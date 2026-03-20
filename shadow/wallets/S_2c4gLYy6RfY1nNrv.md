@@ -1,16 +1,16 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (5 open, 3 closed) |
+| Positions | 9 (6 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-54 |
-| 📦 Unrealized | $+183 |
-| 🏦 Total | **$+128** |
+| 📦 Unrealized | $+177 |
+| 🏦 Total | **$+123** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.1x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 ceal | $0.000030 | **0.94x** ($-6) | 1.07x |  | pumpfun | 2026-03-20 03:33 |
 | 🟡 Sentinel | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🔴 EefwCHU8 | $0.000004 | **0.64x** ($-36) | 1.26x |  | pumpfun | 2026-03-20 02:46 |
 | 🟢 Grokslop | $0.000009 | **4.14x** ($+314) | 4.14x | ✅ | pumpfun | 2026-03-20 00:47 |

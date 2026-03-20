@@ -1,6 +1,6 @@
 # Wallet: `Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS`
 
-> [View on Solscan](https://solscan.io/account/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+6,981 |
-| 🏦 Total | **$+6,981** |
+| 📦 Unrealized | $+6,989 |
+| 🏦 Total | **$+6,989** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHANNELS | $0.000614 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 03:26 |
+| 🟡 CHANNELS | $0.000614 | **1.09x** ($+9) | 1.10x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 唐子兵法 | $0.003267 | **1.34x** ($+34) | 1.39x |  | pumpswap | 2026-03-20 00:59 |
 | 🚀 CHIBI | $0.000003 | **312.40x** ($+31,140) | 390.53x | ✅ | pumpswap | 2026-03-19 23:36 |
 

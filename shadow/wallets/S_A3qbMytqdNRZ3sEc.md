@@ -1,12 +1,12 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (24 open, 2 closed) |
+| Positions | 27 (25 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-15 |
 | 📦 Unrealized | $-99 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PIKAHORSE | $0.000235 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:31 |
 | 🟡 BOAT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:25 |
 | 🟡 ELEPHANT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
 | 🔴 Beecat | $0.000005 | **0.92x** ($-8) | 1.05x |  | pumpswap | 2026-03-20 02:44 |

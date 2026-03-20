@@ -1,16 +1,16 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
+| Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $+12 |
-| 🏦 Total | **$-6** |
+| 📦 Unrealized | $+51 |
+| 🏦 Total | **$+33** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Samba | $0.000004 | **1.39x** ($+39) | 1.42x |  | pumpfun | 2026-03-20 03:32 |
 | 🟡 Floki | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:21 |
 | 🔴 PESSIMIST | $0.000004 | **0.72x** ($-28) | 1.10x |  | pumpfun | 2026-03-20 00:57 |
 | 🔴 DORO | $0.000005 | **0.78x** ($-22) | 1.27x |  | pumpfun | 2026-03-20 00:44 |

@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 59 (58 open, 1 closed) |
+| Positions | 60 (59 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+139 |
-| 🏦 Total | **$+60** |
+| 📦 Unrealized | $+133 |
+| 🏦 Total | **$+54** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Fro | $0.000206 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:32 |
 | 🟡 Spiderman | $0.000156 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🔴 CIRCLES | $0.000057 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 Solana | $0.000158 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
@@ -72,7 +73,7 @@
 | 🔴 HOSPICE | $0.000024 | **0.99x** ($-1) | 1.21x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 Downald | $0.001104 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
 | 🔴 whiskers | $0.000011 | **0.75x** ($-25) | 1.02x |  | pumpswap | 2026-03-19 23:15 |
-| 🟡 Ride | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 22:57 |
+| 🔴 Ride | $0.000016 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-19 22:57 |
 | 🟡 DEEPSEEKV4 | $0.000040 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 22:54 |
 | 🟢 CHIBI | $0.000324 | **3.21x** ($+221) | 4.02x | ✅ | pumpswap | 2026-03-19 22:45 |
 | 🟡 PZBCN | $0.000136 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-19 22:42 |

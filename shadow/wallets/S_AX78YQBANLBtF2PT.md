@@ -1,16 +1,16 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 03:29 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 03:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
+| Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $+117 |
-| 🏦 Total | **$+42** |
+| 📦 Unrealized | $+107 |
+| 🏦 Total | **$+32** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 ceal | $0.000031 | **0.90x** ($-10) | 1.02x |  | pumpfun | 2026-03-20 03:33 |
 | 🟡 Sentinel | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🔴 EefwCHU8 | $0.000004 | **0.60x** ($-40) | 1.16x |  | pumpfun | 2026-03-20 02:46 |
 | 🔴 INR | $0.000006 | **0.41x** ($-59) | 1.93x |  | pumpfun | 2026-03-20 02:31 |
