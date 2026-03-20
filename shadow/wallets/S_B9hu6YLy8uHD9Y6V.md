@@ -1,16 +1,16 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 09:31 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 09:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 75 (0 open, 75 closed) |
-| W/L | 0/75 (0%) |
-| 💵 Realized | $-7,493 |
+| Positions | 79 (0 open, 79 closed) |
+| W/L | 0/79 (0%) |
+| 💵 Realized | $-7,892 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-7,493** |
+| 🏦 Total | **$-7,892** |
 | Best Trade | 0.0x |
 | Avg Peak | 1.0x |
 
@@ -23,6 +23,10 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Kin-kun | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:36 → 2026-03-20 09:36 |
+| 🔴 Kin-kun | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:35 → 2026-03-20 09:35 |
+| 🔴 Kin-kun | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:34 → 2026-03-20 09:34 |
+| 🔴 Kin-kun | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:32 → 2026-03-20 09:32 |
 | 🔴 Kin-kun | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:16 → 2026-03-20 09:16 |
 | 🔴 Kin-kun | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:14 → 2026-03-20 09:14 |
 | 🔴 Loong | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:03 → 2026-03-20 09:03 |

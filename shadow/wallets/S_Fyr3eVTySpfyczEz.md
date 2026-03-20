@@ -1,6 +1,6 @@
 # Wallet: `Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL`
 
-> [View on Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 09:31 UTC
+> [View on Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 09:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (5 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-91 |
-| 🏦 Total | **$-151** |
+| 📦 Unrealized | $-65 |
+| 🏦 Total | **$-125** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Doolysaurus | $0.000012 | **1.05x** ($+5) | 1.43x |  | pumpfun | 2026-03-20 09:27 |
+| 🟡 Doolysaurus | $0.000012 | **1.30x** ($+30) | 1.62x |  | pumpfun | 2026-03-20 09:27 |
 | 🔴 MIM | $0.000004 | **0.59x** ($-41) | 1.28x |  | pumpfun | 2026-03-20 09:21 |
 | 🔴 jDCdHPgk | $0.000006 | **0.48x** ($-52) | 1.98x |  | pumpfun | 2026-03-20 09:04 |
 | 🟡 Income | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:03 |

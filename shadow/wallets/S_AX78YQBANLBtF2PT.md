@@ -1,6 +1,6 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 09:31 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 09:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 28 (15 open, 13 closed) |
 | W/L | 1/12 (8%) |
 | 💵 Realized | $-573 |
-| 📦 Unrealized | $-117 |
-| 🏦 Total | **$-690** |
+| 📦 Unrealized | $-116 |
+| 🏦 Total | **$-689** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.1x |
 

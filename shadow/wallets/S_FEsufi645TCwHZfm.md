@@ -1,16 +1,16 @@
-# Wallet: `2FuYYmgwWR4cPCy1dkePTT1Y8c3txdWLb9oAcmzxTcDM`
+# Wallet: `FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc`
 
-> [View on Solscan](https://solscan.io/account/2FuYYmgwWR4cPCy1dkePTT1Y8c3txdWLb9oAcmzxTcDM) | Updated: 2026-03-20 09:36 UTC
+> [View on Solscan](https://solscan.io/account/FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc) | Updated: 2026-03-20 09:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$+20** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SPARKOS | $0.000034 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:54 |
-| 🟡 IMAGINE | $0.000052 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
+| 🟡 AVATAR | $0.000012 | **1.20x** ($+20) | 1.20x |  | pumpswap | 2026-03-20 09:34 |
 
 ## Closed Positions
 
