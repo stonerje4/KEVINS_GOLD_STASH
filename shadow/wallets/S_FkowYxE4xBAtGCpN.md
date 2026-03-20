@@ -1,23 +1,24 @@
 # Wallet: `FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3`
 
-> [View on Solscan](https://solscan.io/account/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | Updated: 2026-03-20 13:34 UTC
+> [View on Solscan](https://solscan.io/account/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | Updated: 2026-03-20 13:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (6 open, 1 closed) |
+| Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-15 |
 | 📦 Unrealized | $+22 |
 | 🏦 Total | **$+7** |
-| Best ROI | 0.85x |
-| Avg ROI | 0.85x |
+| Best Trade | 0.8x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 chiberine | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🟡 DGPT | $0.014955 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:27 |
 | 🟡 PAIN | $0.000002 | **1.00x** ($+0) | 1.23x |  | pumpswap | 2026-03-20 13:26 |
 | 🟡 Attention | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:34 |

@@ -1,18 +1,18 @@
 # Wallet: `997XTADKLUJ6tYAh5QoKEw22r8CdNe1R23jdjMnccHKv`
 
-> [View on Solscan](https://solscan.io/account/997XTADKLUJ6tYAh5QoKEw22r8CdNe1R23jdjMnccHKv) | Updated: 2026-03-20 13:34 UTC
+> [View on Solscan](https://solscan.io/account/997XTADKLUJ6tYAh5QoKEw22r8CdNe1R23jdjMnccHKv) | Updated: 2026-03-20 13:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
+| Positions | 3 (2 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-61 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-61** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
@@ -25,6 +25,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Labubu | 0.39x | $-61 | stop_loss | 1.12x | pumpfun | 2026-03-20 13:35 → 2026-03-20 13:36 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

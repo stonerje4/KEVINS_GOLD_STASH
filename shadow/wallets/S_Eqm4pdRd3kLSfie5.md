@@ -1,27 +1,27 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 13:34 UTC
+> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 13:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 46 (42 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-115 |
-| 📦 Unrealized | $+12 |
-| 🏦 Total | **$-103** |
-| Best ROI | 0.84x |
-| Avg ROI | 0.71x |
+| Positions | 47 (42 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-142 |
+| 📦 Unrealized | $+4 |
+| 🏦 Total | **$-138** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Sunshine | $0.000004 | **1.09x** ($+9) | 1.32x |  | pumpfun | 2026-03-20 13:37 |
 | 🔴 FyMmeyqH | $0.000003 | **0.86x** ($-14) | 1.01x |  | pumpfun | 2026-03-20 13:31 |
 | 🔴 SHOCKED | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 13:31 |
 | 🔴 Reaction  | $0.000003 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-20 13:26 |
-| 🟡 Sunshine | $0.000007 | **1.34x** ($+34) | 2.46x | ✅ | pumpfun | 2026-03-20 13:14 |
 | 🟡 ME | $0.000395 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |
 | 🟡 H9vt8nXw | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |
 | 🟡 Rabbi | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:49 |
@@ -65,6 +65,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Sunshine | 0.73x | $-27 | trailing_stop_2x | 2.46x | pumpfun | 2026-03-20 13:14 → 2026-03-20 13:36 |
 | 🟡 Kin-kun | 0.84x | $-16 | trailing_stop_2x | 2.41x | pumpfun | 2026-03-20 08:57 → 2026-03-20 09:32 |
 | 🟡 DfPT7K6G | 0.83x | $-17 | trailing_stop_2x | 2.41x | pumpfun | 2026-03-20 01:15 → 2026-03-20 01:17 |
 | 🔴 Fruits | 0.37x | $-63 | stop_loss | 1.96x | pumpfun | 2026-03-20 00:08 → 2026-03-20 00:30 |

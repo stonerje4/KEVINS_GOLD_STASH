@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 13:34 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 13:39 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-77 |
 | 📦 Unrealized | $+138 |
 | 🏦 Total | **$+61** |
-| Best ROI | 0.23x |
-| Avg ROI | 0.23x |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -129,7 +129,7 @@
 | 🟡 我的刀盾 | $0.003081 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-19 22:45 |
 | 🔴 Foodrot | $0.000150 | **0.94x** ($-6) | 1.11x |  | pumpswap | 2026-03-19 22:41 |
 | 🔴 Raccoon | $0.000013 | **0.97x** ($-3) | 1.29x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000394 | **1.65x** ($+65) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000394 | **1.64x** ($+64) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

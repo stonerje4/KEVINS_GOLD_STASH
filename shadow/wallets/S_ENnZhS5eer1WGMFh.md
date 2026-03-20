@@ -1,23 +1,24 @@
 # Wallet: `ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F`
 
-> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 13:34 UTC
+> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 13:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (17 open, 0 closed) |
+| Positions | 18 (18 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+38 |
 | 🏦 Total | **$+38** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ME | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:37 |
 | 🟡 Foodrot | $0.000148 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 Fro | $0.000161 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 RULEBOOK | $0.000054 | **1.29x** ($+29) | 1.45x |  | pumpswap | 2026-03-20 12:58 |

@@ -1,23 +1,24 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 13:34 UTC
+> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 13:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (10 open, 5 closed) |
+| Positions | 16 (11 open, 5 closed) |
 | W/L | 3/2 (60%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-31 |
-| 🏦 Total | **$-64** |
-| Best ROI | 1.50x |
-| Avg ROI | 0.93x |
+| 📦 Unrealized | $-27 |
+| 🏦 Total | **$-61** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FEEL | $0.000006 | **1.03x** ($+3) | 1.05x |  | pumpfun | 2026-03-20 13:35 |
 | 🟡 Futa-kun | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🔴 JUMP | $0.000005 | **0.55x** ($-45) | 1.18x |  | pumpfun | 2026-03-20 08:39 |
 | 🟡 face | $0.000005 | **1.01x** ($+1) | 1.29x |  | pumpfun | 2026-03-20 08:22 |

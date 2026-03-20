@@ -1,25 +1,26 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 13:34 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 13:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 302 (298 open, 4 closed) |
+| Positions | 303 (299 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
-| 📦 Unrealized | $+322 |
+| 📦 Unrealized | $+323 |
 | 🏦 Total | **$+318** |
-| Best ROI | 3.00x |
-| Avg ROI | 0.99x |
+| Best Trade | 3.0x |
+| Avg Peak | 2.7x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CLAIR | $0.000015 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
-| 🔴 Helios | $0.000030 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
+| 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
+| 🔴 CLAIR | $0.000015 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
+| 🔴 Helios | $0.000030 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
 | 🔴 Ava | $0.000014 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
 | 🔴 shitcoin | $0.000372 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
 | 🟡 ZENT | $0.000120 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:45 |

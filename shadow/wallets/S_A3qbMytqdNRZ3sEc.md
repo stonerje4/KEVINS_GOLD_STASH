@@ -1,23 +1,24 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 13:34 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 13:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 67 (61 open, 6 closed) |
+| Positions | 68 (62 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $-149 |
 | 📦 Unrealized | $-170 |
 | 🏦 Total | **$-319** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.75x |
+| Best Trade | 1.5x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Fro | $0.000128 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:36 |
 | 🟡 Alien | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 AVATAR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
 | 🟡 BBX | $0.000113 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 13:03 |
