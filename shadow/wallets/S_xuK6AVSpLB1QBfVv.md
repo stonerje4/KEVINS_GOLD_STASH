@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 08:16 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 08:21 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 53 (52 open, 1 closed) |
+| Positions | 54 (53 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-115 |
-| 🏦 Total | **$-131** |
+| 📦 Unrealized | $-81 |
+| 🏦 Total | **$-98** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chibililon | $0.000003 | **1.18x** ($+18) | 1.19x |  | pumpfun | 2026-03-20 08:19 |
 | 🔴 Rocky | $0.000003 | **0.87x** ($-13) | 1.12x |  | pumpfun | 2026-03-20 08:08 |
 | 🔴 $Chibi | $0.000003 | **0.98x** ($-2) | 1.29x |  | pumpfun | 2026-03-20 07:55 |
 | 🔴 engine | $0.000003 | **0.90x** ($-10) | 1.48x |  | pumpfun | 2026-03-20 07:48 |
 | 🔴 PIXELS | $0.000003 | **0.85x** ($-15) | 1.25x |  | pumpfun | 2026-03-20 07:43 |
 | 🔴 Kin-Kun | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 07:37 |
-| 🔴 CHIBELON | $0.000003 | **0.83x** ($-17) | 1.12x |  | pumpfun | 2026-03-20 07:26 |
+| 🟡 CHIBELON | $0.000003 | **1.04x** ($+4) | 1.12x |  | pumpfun | 2026-03-20 07:26 |
 | 🟡 ChibiElon | $0.000003 | **1.22x** ($+22) | 1.30x |  | pumpfun | 2026-03-20 07:22 |
 | 🔴 AEkbUJLT | $0.000003 | **0.81x** ($-19) | 1.06x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 4/20 | $0.000003 | **0.93x** ($-7) | 1.02x |  | pumpfun | 2026-03-20 06:40 |
@@ -40,7 +41,7 @@
 | 🟡 Yuki-chan | $0.000003 | **1.08x** ($+8) | 1.26x |  | pumpfun | 2026-03-20 04:00 |
 | 🔴 NoScam | $0.000003 | **0.81x** ($-19) | 1.17x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 Income | $0.000003 | **0.82x** ($-18) | 1.20x |  | pumpfun | 2026-03-20 03:29 |
-| 🚀 Nonchalant | $0.000003 | **5.54x** ($+454) | 5.77x | ✅ | pumpfun | 2026-03-20 03:18 |
+| 🚀 Nonchalant | $0.000003 | **5.37x** ($+437) | 5.77x | ✅ | pumpfun | 2026-03-20 03:18 |
 | 🔴 KIIUS | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 03:16 |
 | 🔴 Nonchalant | $0.000003 | **0.96x** ($-4) | 1.12x |  | pumpfun | 2026-03-20 02:50 |
 | 🔴 pepe | $0.000003 | **0.91x** ($-9) | 1.14x |  | pumpfun | 2026-03-20 02:44 |

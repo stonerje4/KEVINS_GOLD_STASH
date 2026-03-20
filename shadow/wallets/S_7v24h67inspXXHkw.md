@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 08:16 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 08:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (20 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+103 |
-| 🏦 Total | **$+103** |
+| 📦 Unrealized | $+101 |
+| 🏦 Total | **$+101** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -27,7 +27,7 @@
 | 🟡 BBX | $0.000003 | **1.27x** ($+27) | 1.27x |  | pumpfun | 2026-03-20 04:59 |
 | 🔴 TESLA AI | $0.000000 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 04:55 |
 | 🟡 UGOR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:45 |
-| 🟡 OSP | $0.000003 | **1.28x** ($+28) | 1.30x |  | pumpfun | 2026-03-20 04:26 |
+| 🟡 OSP | $0.000003 | **1.26x** ($+26) | 1.30x |  | pumpfun | 2026-03-20 04:26 |
 | 🟡 OSP | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:20 |
 | 🟡 WAR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:19 |
 | 🟡 OIL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:18 |

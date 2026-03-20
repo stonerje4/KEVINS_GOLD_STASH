@@ -1,12 +1,12 @@
 # Wallet: `AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ`
 
-> [View on Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 08:16 UTC
+> [View on Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 08:21 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
+| Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-36 |
 | 📦 Unrealized | $-103 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHIBIFY | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:20 |
 | 🔴 Chipe | $0.000005 | **0.47x** ($-53) | 1.21x |  | pumpfun | 2026-03-20 07:29 |
 | 🔴 G8DiKnXT | $0.000005 | **0.49x** ($-51) | 1.15x |  | pumpfun | 2026-03-20 04:13 |
 | 🟡 FEELESS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:58 |

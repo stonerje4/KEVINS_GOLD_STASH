@@ -1,18 +1,18 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 08:16 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 08:21 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 23 (14 open, 9 closed) |
-| W/L | 2/7 (22%) |
-| 💵 Realized | $-267 |
-| 📦 Unrealized | $-494 |
-| 🏦 Total | **$-761** |
+| Positions | 23 (13 open, 10 closed) |
+| W/L | 2/8 (20%) |
+| 💵 Realized | $-332 |
+| 📦 Unrealized | $-438 |
+| 🏦 Total | **$-769** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.4x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
@@ -28,7 +28,6 @@
 | 🔴 6vuxS6wu | $0.000005 | **0.51x** ($-49) | 1.03x |  | pumpfun | 2026-03-20 05:09 |
 | 🔴 A8qiEkxf | $0.000005 | **0.51x** ($-49) | 1.26x |  | pumpfun | 2026-03-20 04:35 |
 | 🔴 hw | $0.000003 | **0.83x** ($-17) | 1.06x |  | pumpfun | 2026-03-20 04:27 |
-| 🔴 HeatGun | $0.000007 | **0.44x** ($-56) | 1.81x |  | pumpfun | 2026-03-20 04:16 |
 | 🟡 Dryer | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:13 |
 | 🟡 FEELESS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:57 |
 | 🟡 Sentinel | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:48 |
@@ -46,6 +45,7 @@
 | 🟡 CORPORATE | 1.44x | $+44 | trailing_stop_4x | 4.20x | pumpfun | 2026-03-20 04:42 → 2026-03-20 04:58 |
 | 🟡 HelloWorld! | 0.84x | $-16 | trailing_stop_2x | 2.02x | pumpswap | 2026-03-20 04:28 → 2026-03-20 04:32 |
 | 🔴 HelloWorld! | 0.36x | $-64 | stop_loss | 1.79x | pumpswap | 2026-03-20 04:26 → 2026-03-20 04:26 |
+| 🔴 HeatGun | 0.35x | $-65 | stop_loss | 1.81x | pumpfun | 2026-03-20 04:16 → 2026-03-20 08:16 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
