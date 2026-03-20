@@ -1,6 +1,6 @@
 # Wallet: `3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ`
 
-> [GMGN](https://gmgn.ai/sol/address/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | [Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 21:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | [Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 21:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (5 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-98 |
-| 📦 Unrealized | $+81 |
-| 🏦 Total | **$-17** |
+| 📦 Unrealized | $+77 |
+| 🏦 Total | **$-21** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.67x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
-| 🟢 8QhGyZEr | $0.000008 | **4.67x** ($+367) | 6.83x | ✅ | pumpfun | 2026-03-20 12:45 |
+| 🟢 8QhGyZEr | $0.000008 | **4.55x** ($+355) | 6.83x | ✅ | pumpfun | 2026-03-20 12:45 |
 | 🔴 genocide | $0.000031 | **0.56x** ($-44) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
 | 🟡 OFFLINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
 | 🟡 ANIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |

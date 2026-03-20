@@ -1,6 +1,6 @@
 # Wallet: `2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS`
 
-> [GMGN](https://gmgn.ai/sol/address/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | [Solscan](https://solscan.io/account/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | Updated: 2026-03-20 21:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | [Solscan](https://solscan.io/account/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | Updated: 2026-03-20 21:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+34 |
-| 🏦 Total | **$+34** |
+| 📦 Unrealized | $+50 |
+| 🏦 Total | **$+50** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WAR | $0.000006 | **1.60x** ($+60) | 1.60x |  | pumpfun | 2026-03-20 20:23 |
+| 🟡 WAR | $0.000006 | **1.77x** ($+77) | 1.77x |  | pumpfun | 2026-03-20 20:23 |
 | 🔴 Chuck | $0.000006 | **0.73x** ($-27) | 1.00x |  | pumpfun | 2026-03-20 16:30 |
 
 ## Closed Positions

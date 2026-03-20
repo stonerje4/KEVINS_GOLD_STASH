@@ -1,16 +1,16 @@
 # Wallet: `9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R`
 
-> [GMGN](https://gmgn.ai/sol/address/9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R) | [Solscan](https://solscan.io/account/9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R) | Updated: 2026-03-20 21:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R) | [Solscan](https://solscan.io/account/9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R) | Updated: 2026-03-20 21:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
+| Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $+7 |
+| 🏦 Total | **$-53** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 José | $0.000006 | **1.07x** ($+7) | 1.09x |  | pumpfun | 2026-03-20 21:04 |
 
 ## Closed Positions
 

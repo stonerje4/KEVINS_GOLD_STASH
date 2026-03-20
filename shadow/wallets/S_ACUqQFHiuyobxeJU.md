@@ -1,24 +1,24 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 21:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 21:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 30 (17 open, 13 closed) |
-| W/L | 1/12 (8%) |
-| 💵 Realized | $-665 |
-| 📦 Unrealized | $-102 |
-| 🏦 Total | **$-767** |
+| Positions | 30 (16 open, 14 closed) |
+| W/L | 1/13 (7%) |
+| 💵 Realized | $-684 |
+| 📦 Unrealized | $-140 |
+| 🏦 Total | **$-824** |
 | Best ROI | 1.35x |
-| Avg ROI | 0.49x |
+| Avg ROI | 0.51x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 9erfJEY2 | $0.000007 | **1.37x** ($+37) | 1.54x |  | pumpfun | 2026-03-20 20:55 |
+| 🟡 9erfJEY2 | $0.000007 | **1.35x** ($+35) | 1.82x |  | pumpfun | 2026-03-20 20:55 |
 | 🔴 6dHNBjcn | $0.000006 | **0.41x** ($-59) | 1.63x |  | pumpfun | 2026-03-20 19:52 |
 | 🟢 VITALY | $0.000010 | **3.77x** ($+277) | 3.77x | ✅ | pumpfun | 2026-03-20 18:23 |
 | 🟡 LIBERTY | $0.000032 | **1.04x** ($+4) | 1.16x |  | pumpswap | 2026-03-20 17:08 |
@@ -28,7 +28,6 @@
 | 🔴 6tJ2qVoZ | $0.000006 | **0.43x** ($-57) | 1.03x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 FMVgNUm3 | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 14:33 |
 | 🔴 5siPZmTP | $0.000006 | **0.42x** ($-58) | 1.21x |  | pumpfun | 2026-03-20 14:22 |
-| 🟡 AC3ydFNc | $0.000013 | **1.71x** ($+71) | 2.90x | ✅ | pumpfun | 2026-03-20 13:25 |
 | 🔴 Boobachu | $0.000006 | **0.43x** ($-57) | 1.12x |  | pumpfun | 2026-03-20 13:24 |
 | 🟡 Attention | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:20 |
 | 🟡 Coglet | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:08 |
@@ -52,6 +51,7 @@
 | 🔴 NOR | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 14:06 → 2026-03-20 14:10 |
 | 🔴 Norris | 0.40x | $-60 | stop_loss | 1.46x | pumpfun | 2026-03-20 14:05 → 2026-03-20 14:07 |
 | 🔴 AISexual | 0.40x | $-60 | stop_loss | 1.39x | pumpfun | 2026-03-20 13:35 → 2026-03-20 13:38 |
+| 🟡 AC3ydFNc | 0.80x | $-20 | trailing_stop_3x | 2.90x | pumpfun | 2026-03-20 13:25 → 2026-03-20 21:01 |
 | 🔴 BACK | 0.26x | $-74 | trailing_stop_4x | 3.53x | pumpfun | 2026-03-19 23:51 → 2026-03-20 07:58 |
 
 ---

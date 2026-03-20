@@ -1,16 +1,16 @@
 # Wallet: `6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y`
 
-> [GMGN](https://gmgn.ai/sol/address/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | [Solscan](https://solscan.io/account/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | Updated: 2026-03-20 21:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | [Solscan](https://solscan.io/account/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | Updated: 2026-03-20 21:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
+| Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-95 |
-| 📦 Unrealized | $+39 |
-| 🏦 Total | **$-56** |
+| 📦 Unrealized | $+30 |
+| 🏦 Total | **$-66** |
 | Best ROI | 0.67x |
 | Avg ROI | 0.52x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 BUFFALO | $0.000010 | **0.91x** ($-9) | 1.06x |  | pumpfun | 2026-03-20 21:02 |
 | 🔴 PAPISTEAK | $0.000005 | **0.87x** ($-13) | 1.64x |  | pumpfun | 2026-03-20 17:33 |
 | 🟡 GORESLOP | $0.000007 | **1.51x** ($+51) | 1.66x |  | pumpfun | 2026-03-20 16:48 |
 | 🟡 tired | $0.000008 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 15:12 |
