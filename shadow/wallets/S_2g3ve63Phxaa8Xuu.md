@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 11:53 UTC
+> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 11:58 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 21 (16 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-153 |
-| 📦 Unrealized | $+26,538 |
-| 🏦 Total | **$+26,386** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.69x |
+| 📦 Unrealized | $+26,531 |
+| 🏦 Total | **$+26,378** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
@@ -23,7 +23,7 @@
 | 🟡 Patricia | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:25 |
 | 🟡 Pixels | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:18 |
 | 🟡 Attention | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
-| 🚀 CORPORATE | $0.000000 | **118.09x** ($+11,709) | 761.14x | ✅ | pumpfun | 2026-03-20 05:17 |
+| 🚀 CORPORATE | $0.000000 | **117.76x** ($+11,676) | 761.14x | ✅ | pumpfun | 2026-03-20 05:17 |
 | 🟡 Simulation | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:58 |
 | 🟡 Luxury | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:54 |
 | 🟡 Sentinel | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:53 |

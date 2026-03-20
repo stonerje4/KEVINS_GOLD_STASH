@@ -1,24 +1,25 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 11:53 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 11:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 58 (53 open, 5 closed) |
+| Positions | 59 (54 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
-| 📦 Unrealized | $-140 |
-| 🏦 Total | **$-337** |
-| Best ROI | 1.46x |
-| Avg ROI | 0.60x |
+| 📦 Unrealized | $-121 |
+| 🏦 Total | **$-319** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 fine999.9 | $0.001470 | **1.31x** ($+31) | 1.33x |  | pumpswap | 2026-03-20 11:48 |
+| 🟡 Saleh | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
+| 🟡 fine999.9 | $0.001470 | **1.52x** ($+52) | 1.59x |  | pumpswap | 2026-03-20 11:48 |
 | 🟡 ceal | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:44 |
 | 🟡 MOCHI | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:41 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
@@ -65,7 +66,7 @@
 | 🔴 LIBERTY | $0.000043 | **0.83x** ($-17) | 1.13x |  | pumpswap | 2026-03-20 00:10 |
 | 🟡 CHIBIELON | $0.000005 | **1.42x** ($+42) | 1.68x |  | pumpswap | 2026-03-19 23:29 |
 | 🔴 TOKEN | $0.000133 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 23:25 |
-| 🔴 DIVERGENT | $0.000007 | **0.60x** ($-40) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
+| 🔴 DIVERGENT | $0.000007 | **0.57x** ($-43) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
 | 🟡 FML | $0.000196 | **1.38x** ($+38) | 1.51x |  | pumpswap | 2026-03-19 22:44 |
 | 🔴 STITCH | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-19 22:42 |

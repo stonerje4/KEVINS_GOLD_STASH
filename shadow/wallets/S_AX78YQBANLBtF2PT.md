@@ -1,6 +1,6 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 11:53 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 11:58 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 28 (15 open, 13 closed) |
 | W/L | 1/12 (8%) |
 | 💵 Realized | $-573 |
-| 📦 Unrealized | $-116 |
-| 🏦 Total | **$-689** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.56x |
+| 📦 Unrealized | $-111 |
+| 🏦 Total | **$-684** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🔴 햇빛 | $0.000004 | **0.68x** ($-32) | 1.20x |  | pumpfun | 2026-03-20 08:55 |
 | 🔴 GAAS | $0.000006 | **0.46x** ($-54) | 1.33x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 FROG | $0.000004 | **0.61x** ($-39) | 1.52x |  | pumpfun | 2026-03-20 07:31 |
-| 🟡 MENACE | $0.000004 | **1.04x** ($+4) | 2.89x | ✅ | pumpswap | 2026-03-20 06:05 |
+| 🟡 MENACE | $0.000004 | **1.14x** ($+14) | 2.89x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 05:51 |
 | 🟡 TRADITION | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:10 |
 | 🔴 BitPenis | $0.000006 | **0.45x** ($-55) | 1.39x |  | pumpfun | 2026-03-20 04:59 |

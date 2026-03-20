@@ -1,6 +1,6 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 11:53 UTC
+> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 11:58 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 24 (19 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-226 |
-| 📦 Unrealized | $-79 |
-| 🏦 Total | **$-305** |
-| Best ROI | 1.30x |
-| Avg ROI | 0.55x |
+| 📦 Unrealized | $-75 |
+| 🏦 Total | **$-301** |
+| Best Trade | 1.3x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
@@ -32,7 +32,7 @@
 | 🟡 Kin-kun | $0.000003 | **1.01x** ($+1) | 2.31x | ✅ | pumpfun | 2026-03-20 08:53 |
 | 🔴 GENOCIDE | $0.000003 | **0.80x** ($-20) | 1.05x |  | pumpfun | 2026-03-20 07:34 |
 | 🟡 Saleh | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
-| 🔴 MENACE | $0.000009 | **0.41x** ($-59) | 1.12x |  | pumpswap | 2026-03-20 06:11 |
+| 🔴 MENACE | $0.000009 | **0.44x** ($-56) | 1.12x |  | pumpswap | 2026-03-20 06:11 |
 | 🟡 DRIVE | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:02 |
 | 🟡 MATEOS | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:58 |
 | 🟡 LIBERTY | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:36 |

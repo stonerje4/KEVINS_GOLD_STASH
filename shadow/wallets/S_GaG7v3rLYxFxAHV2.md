@@ -1,23 +1,24 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 11:53 UTC
+> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 11:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (4 open, 1 closed) |
+| Positions | 6 (5 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+49 |
 | 📦 Unrealized | $+358 |
 | 🏦 Total | **$+407** |
-| Best ROI | 1.49x |
-| Avg ROI | 1.49x |
+| Best Trade | 1.5x |
+| Avg Peak | 3.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Judy | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:55 |
 | 🟢 Pixel | $0.000008 | **4.35x** ($+335) | 4.35x | ✅ | pumpfun | 2026-03-20 03:39 |
 | 🟢 credit | $0.000008 | **4.40x** ($+340) | 4.40x | ✅ | pumpfun | 2026-03-20 03:19 |
 | 🔴 ARIA | $0.000036 | **0.64x** ($-36) | 1.22x |  | pumpswap | 2026-03-20 01:59 |

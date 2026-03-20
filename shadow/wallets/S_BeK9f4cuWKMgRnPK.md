@@ -1,29 +1,29 @@
-# Wallet: `8EXo5Y7rJznvaXGqKG7X4JiMMsjefmuJZbr859Xc9Zgg`
+# Wallet: `BeK9f4cuWKMgRnPKmMn8yzAe3EPB3g3dpBuGTbQZvHix`
 
-> [View on Solscan](https://solscan.io/account/8EXo5Y7rJznvaXGqKG7X4JiMMsjefmuJZbr859Xc9Zgg) | Updated: 2026-03-20 11:58 UTC
+> [View on Solscan](https://solscan.io/account/BeK9f4cuWKMgRnPKmMn8yzAe3EPB3g3dpBuGTbQZvHix) | Updated: 2026-03-20 11:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-61 |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-61** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 🏦 Total | **$+0** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 OSP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:57 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Attention | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:02 → 2026-03-20 01:17 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

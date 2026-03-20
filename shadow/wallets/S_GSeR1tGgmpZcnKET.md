@@ -1,23 +1,24 @@
 # Wallet: `GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo`
 
-> [View on Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-20 11:53 UTC
+> [View on Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-20 11:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-7 |
 | 🏦 Total | **$-7** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PILOT | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:55 |
 | 🔴 $DONMUSK | $0.000002 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 01:34 |
 | 🟡 CHIBITRUMP | $0.000009 | **1.25x** ($+25) | 2.00x | ✅ | pumpswap | 2026-03-19 22:40 |
 

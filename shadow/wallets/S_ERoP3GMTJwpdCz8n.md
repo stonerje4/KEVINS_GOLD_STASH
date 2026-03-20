@@ -1,6 +1,6 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 11:53 UTC
+> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 11:58 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-12 |
-| 📦 Unrealized | $-95 |
+| 📦 Unrealized | $-94 |
 | 🏦 Total | **$-106** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.94x |
+| Best Trade | 1.5x |
+| Avg Peak | 2.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SUNSHINE | $0.000006 | **0.48x** ($-52) | 1.42x |  | pumpfun | 2026-03-20 07:56 |
+| 🔴 SUNSHINE | $0.000006 | **0.49x** ($-51) | 1.42x |  | pumpfun | 2026-03-20 07:56 |
 | 🟡 Doolysaurus | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:45 |
 | 🔴 Raccoon | $0.000003 | **0.94x** ($-6) | 1.48x |  | pumpfun | 2026-03-20 07:35 |
 | 🟡 驚き | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:19 |

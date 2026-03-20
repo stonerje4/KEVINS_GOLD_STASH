@@ -1,23 +1,24 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [View on Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 11:53 UTC
+> [View on Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 11:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (5 open, 1 closed) |
+| Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-74 |
 | 📦 Unrealized | $-38 |
 | 🏦 Total | **$-112** |
-| Best ROI | 0.26x |
-| Avg ROI | 0.26x |
+| Best Trade | 0.3x |
+| Avg Peak | 3.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ATwyy6VS | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:55 |
 | 🟡 DECEPTICONS | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:46 |
 | 🟡 FROGE | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:24 |
 | 🟡 cUVWU6Y1 | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:59 |
