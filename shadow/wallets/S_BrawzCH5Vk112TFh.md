@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 19:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 19:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 157 (155 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+138 |
-| 📦 Unrealized | $-538 |
-| 🏦 Total | **$-401** |
+| 📦 Unrealized | $-594 |
+| 🏦 Total | **$-456** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.69x |
 
@@ -38,7 +38,7 @@
 | 🟡 90S | $0.000017 | **1.06x** ($+6) | 1.10x |  | pumpswap | 2026-03-20 15:44 |
 | 🟡 Dozer | $0.000010 | **1.17x** ($+17) | 1.38x |  | pumpswap | 2026-03-20 15:27 |
 | 🔴 HAMILTON | $0.000012 | **0.77x** ($-23) | 1.05x |  | pumpswap | 2026-03-20 15:05 |
-| 🔴 clod | $0.000026 | **0.95x** ($-5) | 1.55x |  | pumpswap | 2026-03-20 15:02 |
+| 🔴 clod | $0.000026 | **0.72x** ($-28) | 1.55x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 Speak | $0.000017 | **0.95x** ($-5) | 1.11x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 GameTheory | $0.000013 | **1.29x** ($+29) | 1.33x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
@@ -82,7 +82,7 @@
 | 🟡 OPTIMUS | $0.000015 | **1.20x** ($+20) | 1.26x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 chud | $0.000015 | **1.66x** ($+66) | 2.36x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🟡 CLAW | $0.000027 | **1.16x** ($+16) | 1.16x |  | pumpswap | 2026-03-20 07:44 |
-| 🟡 WID | $0.000019 | **1.31x** ($+31) | 1.35x |  | pumpswap | 2026-03-20 07:27 |
+| 🔴 WID | $0.000019 | **0.99x** ($-1) | 1.35x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 DLSS5 | $0.000021 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 07:16 |
 | 🟡 AMBER | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:15 |
 | 🟡 Raccoon | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:15 |

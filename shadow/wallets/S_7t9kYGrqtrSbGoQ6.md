@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 19:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 19:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 164 (162 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+139 |
-| 📦 Unrealized | $-514 |
-| 🏦 Total | **$-375** |
+| 📦 Unrealized | $-565 |
+| 🏦 Total | **$-426** |
 | Best ROI | 3.00x |
 | Avg ROI | 1.70x |
 
@@ -36,7 +36,7 @@
 | 🟡 OCTOPUS | $0.000009 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-20 15:15 |
 | 🔴 Hermes | $0.000028 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 15:07 |
 | 🟡 LNG | $0.000006 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 15:01 |
-| 🔴 clod | $0.000032 | **0.76x** ($-24) | 1.23x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 clod | $0.000032 | **0.58x** ($-42) | 1.23x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🔴 Pixel | $0.000011 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Newscum | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
@@ -82,7 +82,7 @@
 | 🟡 AIFRUIT | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
 | 🟡 CLAW | $0.000028 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 07:44 |
 | 🔴 Browt | $0.000019 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 07:27 |
-| 🟡 WID | $0.000019 | **1.34x** ($+34) | 1.38x |  | pumpswap | 2026-03-20 07:27 |
+| 🟡 WID | $0.000019 | **1.01x** ($+1) | 1.38x |  | pumpswap | 2026-03-20 07:27 |
 | 🟡 NOVAH | $0.000011 | **1.29x** ($+29) | 1.29x |  | pumpswap | 2026-03-20 07:27 |
 | 🟡 菲比啾比 | $0.000011 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-20 07:21 |
 | 🔴 XMONEY | $0.000027 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 07:12 |

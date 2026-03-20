@@ -1,6 +1,6 @@
 # Wallet: `Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR`
 
-> [GMGN](https://gmgn.ai/sol/address/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | [Solscan](https://solscan.io/account/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | Updated: 2026-03-20 19:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | [Solscan](https://solscan.io/account/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | Updated: 2026-03-20 19:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (2 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-276 |
-| 📦 Unrealized | $-75 |
-| 🏦 Total | **$-352** |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-329** |
 | Best ROI | 0.72x |
 | Avg ROI | 0.45x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CRACK | $0.000011 | **0.78x** ($-22) | 1.14x |  | pumpfun | 2026-03-20 19:00 |
+| 🟡 CRACK | $0.000011 | **1.00x** ($+0) | 1.29x |  | pumpfun | 2026-03-20 19:00 |
 | 🔴 9pVz3EK1 | $0.000005 | **0.47x** ($-53) | 1.33x |  | pumpfun | 2026-03-20 00:40 |
 
 ## Closed Positions

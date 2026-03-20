@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 19:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 19:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 73 (72 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+68 |
-| 🏦 Total | **$+8** |
+| 📦 Unrealized | $+57 |
+| 🏦 Total | **$-3** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 WhiteBoy  | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:58 |
 | 🟡 GOYBEAM | $0.000008 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 18:57 |
-| 🟡 WID | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:49 |
+| 🔴 WID | $0.000021 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 18:49 |
 | 🔴 FSC | $0.000023 | **0.94x** ($-6) | 1.05x |  | pumpswap | 2026-03-20 17:48 |
 | 🔴 哈基米 | $0.000007 | **0.98x** ($-2) | 1.08x |  | pumpswap | 2026-03-20 17:44 |
 | 🔴 imagineslop | $0.000005 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-20 17:43 |

@@ -1,6 +1,6 @@
 # PRD Wallet: `E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY`
 
-> [GMGN](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | [Solscan](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | Updated: 2026-03-20 19:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | [Solscan](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | Updated: 2026-03-20 19:10 UTC
 
 ## Summary
 
@@ -10,14 +10,14 @@
 | W/L | 0/0 (0%) |
 | 💵 Realized | +0.0000 SOL ($+0.00) |
 | ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | -0.0552 SOL |
-| 🏦 Net | **-0.0552 SOL** ($-4.89) |
+| 📦 Unrealized | -0.0595 SOL |
+| 🏦 Net | **-0.0595 SOL** ($-5.28) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 PRINCIPLES | open | 0.11 | 0.54x | 1.66x | -0.0552 | — |
+| 🔴 PRINCIPLES | open | 0.11 | 0.50x | 1.66x | -0.0595 | — |
 
 ---
 *[← Back to PRD Dashboard](../DASHBOARD.md)*

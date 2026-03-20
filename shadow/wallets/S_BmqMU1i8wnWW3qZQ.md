@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 19:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 19:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 235 (231 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $+101 |
-| 📦 Unrealized | $-1,071 |
-| 🏦 Total | **$-970** |
+| 📦 Unrealized | $-1,118 |
+| 🏦 Total | **$-1,017** |
 | Best ROI | 2.75x |
 | Avg ROI | 1.25x |
 
@@ -29,7 +29,7 @@
 | 🔴 Newscum | $0.000021 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 16:25 |
 | 🔴 NORMIE | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 15:19 |
 | 🔴 LNG | $0.000006 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 15:01 |
-| 🔴 clod | $0.000035 | **0.70x** ($-30) | 1.13x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 clod | $0.000035 | **0.53x** ($-47) | 1.13x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🟡 TRENCHERIA | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🔴 Pixel | $0.000011 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
@@ -65,7 +65,7 @@
 | 🔴 Momiage | $0.000010 | **0.90x** ($-10) | 1.13x |  | pumpswap | 2026-03-20 08:06 |
 | 🔴 Baldi | $0.000022 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 08:01 |
 | 🟡 TUKI | $0.000019 | **1.16x** ($+16) | 1.19x |  | pumpswap | 2026-03-20 07:56 |
-| 🟡 WID | $0.000021 | **1.20x** ($+20) | 1.24x |  | pumpswap | 2026-03-20 07:42 |
+| 🔴 WID | $0.000021 | **0.91x** ($-9) | 1.24x |  | pumpswap | 2026-03-20 07:42 |
 | 🔴 Browt | $0.000021 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 菲比啾比 | $0.000012 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
 | 🔴 POM | $0.000018 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 07:19 |
