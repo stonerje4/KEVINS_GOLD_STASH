@@ -11,14 +11,14 @@
 | 💵 Realized | $-122 |
 | 📦 Unrealized | $-104 |
 | 🏦 Total | **$-226** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.39x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NATO | $0.000005 | **0.59x** ($-41) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
+| 🔴 NATO | $0.000005 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
 | 🔴 N.O.M.A.D. | $0.000005 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:12 |
 | 🟡 SNIFFER | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:07 |
 | 🟡 Kin-Kun | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:46 |

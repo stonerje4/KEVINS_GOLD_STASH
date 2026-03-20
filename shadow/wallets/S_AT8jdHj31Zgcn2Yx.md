@@ -9,16 +9,16 @@
 | Positions | 146 (117 open, 29 closed) |
 | W/L | 3/26 (10%) |
 | 💵 Realized | $+2,018 |
-| 📦 Unrealized | $+66 |
-| 🏦 Total | **$+2,084** |
-| Best Trade | 24.9x |
-| Avg Peak | 4.7x |
+| 📦 Unrealized | $+83 |
+| 🏦 Total | **$+2,101** |
+| Best ROI | 24.90x |
+| Avg ROI | 1.70x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chuck | $0.000080 | **1.32x** ($+32) | 1.71x |  | pumpswap | 2026-03-20 14:25 |
+| 🟡 Chuck | $0.000080 | **1.49x** ($+49) | 1.71x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 RETARDINU | $0.000115 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Chuck | $0.000189 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 MERLIN | $0.000160 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |
