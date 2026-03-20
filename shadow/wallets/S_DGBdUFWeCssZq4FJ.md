@@ -1,6 +1,6 @@
 # Wallet: `DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv`
 
-> [GMGN](https://gmgn.ai/sol/address/DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv) | [Solscan](https://solscan.io/account/DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv) | Updated: 2026-03-20 22:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv) | [Solscan](https://solscan.io/account/DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv) | Updated: 2026-03-20 22:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-62 |
-| 🏦 Total | **$-62** |
+| 📦 Unrealized | $+28 |
+| 🏦 Total | **$+28** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 AGS | $0.000007 | **1.03x** ($+3) | 1.26x |  | pumpfun | 2026-03-20 12:10 |
+| 🟡 AGS | $0.000007 | **1.93x** ($+93) | 1.97x |  | pumpfun | 2026-03-20 12:10 |
 | 🔴 DRONE | $0.000009 | **0.83x** ($-17) | 1.00x |  | pumpfun | 2026-03-20 03:01 |
 | 🟡 FARTBUTT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:32 |
 | 🔴 MEMEPAL | $0.000006 | **0.53x** ($-47) | 1.03x |  | pumpfun | 2026-03-20 00:58 |

@@ -1,6 +1,6 @@
-# Wallet: `BbtVSGuJZh8XAsk41euS3Bik48nC8e8VrGBBn5UwePQw`
+# Wallet: `6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC`
 
-> [GMGN](https://gmgn.ai/sol/address/BbtVSGuJZh8XAsk41euS3Bik48nC8e8VrGBBn5UwePQw) | [Solscan](https://solscan.io/account/BbtVSGuJZh8XAsk41euS3Bik48nC8e8VrGBBn5UwePQw) | Updated: 2026-03-20 22:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | [Solscan](https://solscan.io/account/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | Updated: 2026-03-20 22:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+2 |
+| 🏦 Total | **$+2** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SPARKOS | $0.000019 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 11:01 |
+| 🟡 CAINE | $0.000026 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 22:49 |
 
 ## Closed Positions
 

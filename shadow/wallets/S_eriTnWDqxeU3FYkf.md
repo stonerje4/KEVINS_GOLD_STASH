@@ -1,24 +1,23 @@
 # Wallet: `eriTnWDqxeU3FYkfA69wiy7Xeha9PC4n6YVKrzMa9D5`
 
-> [GMGN](https://gmgn.ai/sol/address/eriTnWDqxeU3FYkfA69wiy7Xeha9PC4n6YVKrzMa9D5) | [Solscan](https://solscan.io/account/eriTnWDqxeU3FYkfA69wiy7Xeha9PC4n6YVKrzMa9D5) | Updated: 2026-03-20 22:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/eriTnWDqxeU3FYkfA69wiy7Xeha9PC4n6YVKrzMa9D5) | [Solscan](https://solscan.io/account/eriTnWDqxeU3FYkfA69wiy7Xeha9PC4n6YVKrzMa9D5) | Updated: 2026-03-20 22:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-177 |
-| 🏦 Total | **$-177** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 6 (5 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-19 |
+| 📦 Unrealized | $-184 |
+| 🏦 Total | **$-202** |
+| Best ROI | 0.81x |
+| Avg ROI | 0.81x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Elongate | $0.000013 | **1.14x** ($+14) | 2.82x | ✅ | pumpfun | 2026-03-20 22:27 |
 | 🔴 Elongate | $0.000015 | **0.75x** ($-25) | 1.80x |  | pumpswap | 2026-03-20 22:20 |
 | 🔴 144p | $0.000006 | **0.40x** ($-60) | 1.24x |  | pumpfun | 2026-03-20 18:42 |
 | 🟡 𝕏CAT | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:20 |
@@ -29,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Elongate | 0.81x | $-19 | trailing_stop_3x | 2.82x | pumpfun | 2026-03-20 22:27 → 2026-03-20 22:49 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

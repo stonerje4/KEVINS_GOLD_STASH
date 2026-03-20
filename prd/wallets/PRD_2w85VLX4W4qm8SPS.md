@@ -1,6 +1,6 @@
 # PRD Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
 
-> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-20 22:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-20 22:50 UTC
 
 ## Summary
 
@@ -10,14 +10,14 @@
 | W/L | 2/9 (18%) |
 | 💵 Realized | -0.5352 SOL ($-48.12) |
 | ⛽ Gas | 0.0448 SOL |
-| 📦 Unrealized | -0.0849 SOL |
-| 🏦 Net | **-0.6201 SOL** ($-55.75) |
+| 📦 Unrealized | -0.0837 SOL |
+| 🏦 Net | **-0.6190 SOL** ($-55.65) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 Dreamjob | open | 0.11 | 0.87x | 1.43x | -0.0190 | — |
+| 🔴 Dreamjob | open | 0.11 | 0.88x | 1.43x | -0.0179 | — |
 | 🟢 Jessica | closed | 0.11 | 2.98x | 7.43x | +0.1820 | runner_trailing_stop |
 | 🔴 BAB | open | 0.11 | 0.45x | 1.48x | -0.0658 | — |
 | 🟢 AI-Sexual | closed | 0.11 | 0.81x | 2.43x | +0.0094 | runner_trailing_stop |

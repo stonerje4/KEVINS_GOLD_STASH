@@ -1,6 +1,6 @@
 # Wallet: `Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z`
 
-> [GMGN](https://gmgn.ai/sol/address/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | [Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-20 22:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | [Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-20 22:50 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 XCAT | $0.000006 | **1.04x** ($+4) | 1.07x |  | pumpfun | 2026-03-20 21:32 |
+| 🟡 XCAT | $0.000006 | **1.05x** ($+5) | 1.07x |  | pumpfun | 2026-03-20 21:32 |
 | 🟡 Pokopia | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 20:22 |
 | 🔴 CHEMTRAILS | $0.000006 | **0.62x** ($-38) | 1.25x |  | pumpswap | 2026-03-20 13:18 |
 | 🟡 DEFORGE | $0.000006 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 12:03 |

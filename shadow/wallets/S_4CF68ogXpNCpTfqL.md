@@ -1,16 +1,16 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [GMGN](https://gmgn.ai/sol/address/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | [Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 22:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | [Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 22:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+71 |
-| 🏦 Total | **$+71** |
+| 📦 Unrealized | $+68 |
+| 🏦 Total | **$+68** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Meow | $0.000019 | **2.45x** ($+145) | 2.60x | ✅ | pumpswap | 2026-03-20 20:48 |
+| 🟡 LIFE | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:47 |
+| 🟢 Meow | $0.000019 | **2.39x** ($+139) | 2.60x | ✅ | pumpswap | 2026-03-20 20:48 |
 | 🔴 BGS | $0.000031 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 22:34 |
 
 ## Closed Positions
