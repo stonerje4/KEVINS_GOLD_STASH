@@ -1,16 +1,16 @@
-# Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
+# Wallet: `Be6s18aTYhuBZCSY5Z3MRZ3Qc9ia6n5rmES7xuHRcoaW`
 
-> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 01:44 UTC
+> [View on Solscan](https://solscan.io/account/Be6s18aTYhuBZCSY5Z3MRZ3Qc9ia6n5rmES7xuHRcoaW) | Updated: 2026-03-20 01:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-25 |
-| 🏦 Total | **$-25** |
+| 📦 Unrealized | $+4 |
+| 🏦 Total | **$+4** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Jesus | $0.000010 | **0.75x** ($-25) | 1.26x |  | pumpfun | 2026-03-19 22:46 |
+| 🟡 QRK | $0.000002 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 01:43 |
+| 🟡 herry | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 01:42 |
 
 ## Closed Positions
 

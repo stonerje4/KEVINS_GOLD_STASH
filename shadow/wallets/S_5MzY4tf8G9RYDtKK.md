@@ -1,16 +1,16 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 01:39 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 01:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 30 (16 open, 14 closed) |
+| Positions | 31 (17 open, 14 closed) |
 | W/L | 0/14 (0%) |
 | 💵 Realized | $-707 |
-| 📦 Unrealized | $-255 |
-| 🏦 Total | **$-962** |
+| 📦 Unrealized | $-252 |
+| 🏦 Total | **$-959** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.6x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LIBERTY | $0.000021 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 01:39 |
 | 🟢 Freebuff | $0.000015 | **2.49x** ($+149) | 2.49x | ✅ | pumpfun | 2026-03-20 01:17 |
 | 🔴 Apollo | $0.000004 | **0.65x** ($-35) | 1.02x |  | pumpfun | 2026-03-20 01:12 |
 | 🟡 JELLYTENT | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:52 |
-| 🟡 BOB | $0.000004 | **1.49x** ($+49) | 1.80x |  | pumpswap | 2026-03-20 00:49 |
+| 🟡 BOB | $0.000004 | **1.37x** ($+37) | 1.80x |  | pumpswap | 2026-03-20 00:49 |
 | 🔴 SKIBIDI | $0.000006 | **0.45x** ($-55) | 1.76x |  | pumpfun | 2026-03-20 00:40 |
 | 🔴 jeff | $0.000023 | **1.00x** ($-0) | 1.08x |  | pumpswap | 2026-03-20 00:24 |
 | 🔴 Optimistrump | $0.000003 | **0.90x** ($-10) | 1.74x |  | pumpswap | 2026-03-20 00:22 |
@@ -29,7 +30,7 @@
 | 🔴 ONEAI | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 RiceClaw | $0.000005 | **0.54x** ($-46) | 1.69x |  | pumpfun | 2026-03-19 23:18 |
 | 🟡 PEPE | $0.000008 | **1.32x** ($+32) | 1.32x |  | pumpfun | 2026-03-19 23:12 |
-| 🔴 twump | $0.000024 | **0.64x** ($-36) | 1.37x |  | pumpfun | 2026-03-19 23:10 |
+| 🔴 twump | $0.000024 | **0.70x** ($-30) | 1.37x |  | pumpfun | 2026-03-19 23:10 |
 | 🔴 PRINTER | $0.000005 | **0.49x** ($-51) | 1.38x |  | pumpfun | 2026-03-19 22:57 |
 | 🟡 Gusini | $0.000019 | **1.03x** ($+3) | 1.55x |  | pumpfun | 2026-03-19 22:51 |
 | 🔴 CLAUDEHOLE | $0.000006 | **0.43x** ($-57) | 1.24x |  | pumpfun | 2026-03-19 22:37 |

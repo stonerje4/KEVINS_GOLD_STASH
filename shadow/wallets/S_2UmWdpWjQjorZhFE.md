@@ -1,6 +1,6 @@
 # Wallet: `2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS`
 
-> [View on Solscan](https://solscan.io/account/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | Updated: 2026-03-20 01:39 UTC
+> [View on Solscan](https://solscan.io/account/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | Updated: 2026-03-20 01:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+60 |
-| 🏦 Total | **$+60** |
+| 📦 Unrealized | $+53 |
+| 🏦 Total | **$+53** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 MRBEASTFI | $0.000004 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 01:29 |
 | 🔴 Claude | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 00:44 |
-| 🟡 FLAG | $0.000003 | **1.38x** ($+38) | 1.38x |  | pumpfun | 2026-03-20 00:40 |
+| 🟡 FLAG | $0.000003 | **1.31x** ($+31) | 1.38x |  | pumpfun | 2026-03-20 00:40 |
 | 🟡 OSP | $0.000003 | **1.08x** ($+8) | 1.21x |  | pumpfun | 2026-03-20 00:34 |
 | 🟡 BNB | $0.000003 | **1.22x** ($+22) | 1.28x |  | pumpfun | 2026-03-20 00:24 |
 

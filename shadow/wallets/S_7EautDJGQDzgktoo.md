@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 01:39 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 01:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (2 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-27 |
-| 🏦 Total | **$-147** |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$-149** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 attn | $0.000338 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 00:10 |
-| 🔴 TOKEN | $0.000128 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 23:32 |
+| 🔴 TOKEN | $0.000128 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-19 23:32 |
 
 ## Closed Positions
 
