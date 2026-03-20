@@ -1,6 +1,6 @@
 # Wallet: `G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf`
 
-> [GMGN](https://gmgn.ai/sol/address/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | [Solscan](https://solscan.io/account/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | Updated: 2026-03-20 23:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | [Solscan](https://solscan.io/account/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | Updated: 2026-03-20 23:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$-162** |
+| 📦 Unrealized | $-47 |
+| 🏦 Total | **$-168** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 VAFR | $0.000033 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 14:09 |
-| 🟡 KAT | $0.000007 | **1.36x** ($+36) | 1.36x |  | pumpfun | 2026-03-20 12:40 |
+| 🔴 VAFR | $0.000033 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 14:09 |
+| 🟡 KAT | $0.000007 | **1.31x** ($+31) | 1.36x |  | pumpfun | 2026-03-20 12:40 |
 | 🔴 NBR | $0.000012 | **0.63x** ($-37) | 1.20x |  | pumpfun | 2026-03-20 10:52 |
 | 🔴 e-CNY | $0.000008 | **0.97x** ($-3) | 1.04x |  | pumpfun | 2026-03-20 00:30 |
 

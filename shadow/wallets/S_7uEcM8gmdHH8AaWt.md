@@ -1,6 +1,6 @@
 # Wallet: `7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t`
 
-> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 23:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 23:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (7 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-298 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-327** |
+| 📦 Unrealized | $-23 |
+| 🏦 Total | **$-321** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.63x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SHIT | $0.000012 | **1.40x** ($+40) | 2.01x | ✅ | pumpfun | 2026-03-20 23:16 |
-| 🔴 piggyvest | $0.000006 | **0.50x** ($-50) | 1.13x |  | pumpfun | 2026-03-20 23:07 |
+| 🟡 SHIT | $0.000012 | **1.54x** ($+54) | 2.01x | ✅ | pumpfun | 2026-03-20 23:16 |
+| 🔴 piggyvest | $0.000006 | **0.49x** ($-51) | 1.13x |  | pumpfun | 2026-03-20 23:07 |
 | 🔴 Louis | $0.000008 | **0.57x** ($-43) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
 | 🔴 EPSTEIN | $0.000005 | **0.48x** ($-52) | 1.11x |  | pumpfun | 2026-03-20 19:38 |
 | 🟡 RAGE | $0.000025 | **1.44x** ($+44) | 1.44x |  | pumpfun | 2026-03-20 19:19 |
 | 🟢 Needle | $0.000006 | **2.91x** ($+191) | 4.91x | ✅ | pumpfun | 2026-03-20 19:02 |
-| 🔴 5yAgqEmF | $0.000014 | **0.76x** ($-24) | 1.65x |  | pumpfun | 2026-03-20 18:11 |
+| 🔴 5yAgqEmF | $0.000014 | **0.75x** ($-25) | 1.65x |  | pumpfun | 2026-03-20 18:11 |
 
 ## Closed Positions
 

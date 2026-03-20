@@ -1,6 +1,6 @@
 # 💰 PRD Copy Trader Dashboard
 
-> Updated: 2026-03-20 23:45 UTC | SOL = $89.87 | Buy size: 0.11 SOL (~$10)
+> Updated: 2026-03-20 23:50 UTC | SOL = $89.87 | Buy size: 0.11 SOL (~$10)
 > 
 > **P&L is from on-chain SOL movements (includes gas + slippage)**
 
@@ -12,17 +12,17 @@
 | Win Rate | **13%** (4W / 26L) |
 | 💵 Realized P&L | **-2.2371 SOL** ($-201.05) |
 | ⛽ Gas (closed) | 0.1243 SOL ($11.17) |
-| 📦 Unrealized P&L | **-0.2479 SOL** ($-22.28) |
-| 🏦 Net P&L | **-2.4850 SOL** ($-223.33) |
+| 📦 Unrealized P&L | **-0.2713 SOL** ($-24.38) |
+| 🏦 Net P&L | **-2.5084 SOL** ($-225.43) |
 
 ## Wallet Performance
 
 | | Wallet | Trades | Open | W/L | WR | Realized | Gas | Unreal | **Net** | GMGN |
 |--|--------|--------|------|-----|-----|----------|-----|--------|---------|------|
-| 🟢 | [`HMM6RoT2Xo3BNfD5...`](wallets/PRD_HMM6RoT2Xo3BNfD5.md) | 2 | 1 | 1/0 | 100% | +0.0001 | 0.0056 | +0.0075 | **+0.0076** | [📊](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) |
 | 🟢 | [`DDApL88zun3vGuhk...`](wallets/PRD_DDApL88zun3vGuhk.md) | 2 | 1 | 0/1 | 0% | -0.0753 | 0.0055 | +0.0814 | **+0.0061** | [📊](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
-| 🔴 | [`E79aNzAkDa92b5bn...`](wallets/PRD_E79aNzAkDa92b5bn.md) | 2 | 1 | 0/1 | 0% | -0.1195 | 0.0055 | +0.0007 | **-0.1188** | [📊](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
-| 🔴 | [`5n593DWQkpfFgA69...`](wallets/PRD_5n593DWQkpfFgA69.md) | 6 | 5 | 1/0 | 100% | +0.1194 | 0.0065 | -0.2521 | **-0.1328** | [📊](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
+| 🔴 | [`HMM6RoT2Xo3BNfD5...`](wallets/PRD_HMM6RoT2Xo3BNfD5.md) | 2 | 1 | 1/0 | 100% | +0.0001 | 0.0056 | -0.0150 | **-0.0149** | [📊](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) |
+| 🔴 | [`E79aNzAkDa92b5bn...`](wallets/PRD_E79aNzAkDa92b5bn.md) | 2 | 1 | 0/1 | 0% | -0.1195 | 0.0055 | +0.0015 | **-0.1180** | [📊](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
+| 🔴 | [`5n593DWQkpfFgA69...`](wallets/PRD_5n593DWQkpfFgA69.md) | 6 | 5 | 1/0 | 100% | +0.1194 | 0.0065 | -0.2538 | **-0.1344** | [📊](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
 | 🔴 | [`BbxVa5YF8Kg2FuQF...`](wallets/PRD_BbxVa5YF8Kg2FuQF.md) | 2 | 0 | 0/2 | 0% | -0.1422 | 0.0057 | +0.0000 | **-0.1422** | [📊](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) |
 | 🔴 | [`7aMgK5L4qEQ8Nyv6...`](wallets/PRD_7aMgK5L4qEQ8Nyv6.md) | 3 | 0 | 0/3 | 0% | -0.3363 | 0.0000 | +0.0000 | **-0.3363** | [📊](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) |
 | 🔴 | [`ApkQGKbq8dRw5ha9...`](wallets/PRD_ApkQGKbq8dRw5ha9.md) | 5 | 0 | 0/5 | 0% | -0.5531 | 0.0255 | +0.0000 | **-0.5531** | [📊](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
@@ -34,10 +34,10 @@
 | Token | Entry | Current | Peak | De-risked | Unreal SOL | Wallet | Time |
 |-------|-------|---------|------|-----------|------------|--------|------|
 | 🔴 Samba | 0.11 SOL | **0.61x** | 1.00x |  | -0.0480 | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 2026-03-20 23:34 |
-| 🟡 F3 | 0.11 SOL | **1.11x** | 1.47x |  | +0.0075 | [HMM6RoT2Xo3B...](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | 2026-03-20 23:19 |
-| 🟡 wbs | 0.11 SOL | **1.05x** | 1.05x |  | +0.0007 | [E79aNzAkDa92...](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 2026-03-20 23:07 |
+| 🔴 F3 | 0.11 SOL | **0.91x** | 1.47x |  | -0.0150 | [HMM6RoT2Xo3B...](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | 2026-03-20 23:19 |
+| 🟡 wbs | 0.11 SOL | **1.06x** | 1.06x |  | +0.0015 | [E79aNzAkDa92...](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 2026-03-20 23:07 |
 | 🔴 DHS | 0.11 SOL | **0.51x** | 1.26x |  | -0.0592 | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 2026-03-20 22:45 |
-| 🔴 TOKENMAXXING | 0.11 SOL | **0.84x** | 1.30x |  | -0.0224 | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 2026-03-20 22:25 |
+| 🔴 TOKENMAXXING | 0.11 SOL | **0.83x** | 1.30x |  | -0.0240 | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 2026-03-20 22:25 |
 | 🔴 Dreamjob | 0.11 SOL | **0.87x** | 1.43x |  | -0.0196 | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | 2026-03-20 22:18 |
 | 🔴 TittyKiller | 0.11 SOL | **0.48x** | 1.12x |  | -0.0617 | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 2026-03-20 21:55 |
 | 🔴 TittyKiller | 0.11 SOL | **0.49x** | 1.00x |  | -0.0608 | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 2026-03-20 21:51 |

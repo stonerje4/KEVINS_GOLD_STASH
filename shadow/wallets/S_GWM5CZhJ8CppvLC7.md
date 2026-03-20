@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 23:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 23:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 43 (40 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-0 |
-| 📦 Unrealized | $-449 |
-| 🏦 Total | **$-450** |
+| 📦 Unrealized | $-503 |
+| 🏦 Total | **$-504** |
 | Best ROI | 1.32x |
 | Avg ROI | 1.00x |
 
@@ -18,22 +18,22 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 genocide | $0.000021 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 22:41 |
+| 🔴 genocide | $0.000021 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 22:41 |
 | 🔴 NBR | $0.000015 | **0.83x** ($-17) | 1.64x |  | pumpswap | 2026-03-20 22:39 |
 | 🔴 Ham | $0.000024 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 22:37 |
-| 🟢 MFT | $0.000012 | **2.09x** ($+109) | 2.28x | ✅ | pumpswap | 2026-03-20 22:05 |
-| 🔴 Massive | $0.000020 | **0.91x** ($-9) | 1.17x |  | pumpswap | 2026-03-20 20:45 |
-| 🔴 PILOT | $0.000025 | **0.71x** ($-29) | 1.24x |  | pumpswap | 2026-03-20 20:15 |
-| 🔴 Simulation | $0.000015 | **0.74x** ($-26) | 1.04x |  | pumpswap | 2026-03-20 20:01 |
-| 🔴 clod | $0.000016 | **0.93x** ($-7) | 1.20x |  | pumpswap | 2026-03-20 19:17 |
-| 🟡 SNIFFER | $0.000031 | **1.22x** ($+22) | 1.77x |  | pumpswap | 2026-03-20 19:00 |
-| 🔴 Chud | $0.000030 | **0.86x** ($-14) | 1.02x |  | pumpswap | 2026-03-20 18:52 |
+| 🟡 MFT | $0.000012 | **1.82x** ($+82) | 2.28x | ✅ | pumpswap | 2026-03-20 22:05 |
+| 🔴 Massive | $0.000020 | **0.89x** ($-11) | 1.17x |  | pumpswap | 2026-03-20 20:45 |
+| 🔴 PILOT | $0.000025 | **0.73x** ($-27) | 1.24x |  | pumpswap | 2026-03-20 20:15 |
+| 🔴 Simulation | $0.000015 | **0.73x** ($-27) | 1.04x |  | pumpswap | 2026-03-20 20:01 |
+| 🔴 clod | $0.000016 | **0.91x** ($-9) | 1.20x |  | pumpswap | 2026-03-20 19:17 |
+| 🟡 SNIFFER | $0.000031 | **1.07x** ($+7) | 1.77x |  | pumpswap | 2026-03-20 19:00 |
+| 🔴 Chud | $0.000030 | **0.78x** ($-22) | 1.02x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 honkermog | $0.000032 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
 | 🟡 CHIBI | $0.000014 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-20 18:08 |
-| 🔴 Situation | $0.000032 | **0.71x** ($-29) | 1.34x |  | pumpswap | 2026-03-20 17:22 |
-| 🔴 ARIA | $0.000021 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
+| 🔴 Situation | $0.000032 | **0.68x** ($-32) | 1.34x |  | pumpswap | 2026-03-20 17:22 |
+| 🔴 ARIA | $0.000021 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
 | 🟡 Hamster | $0.000021 | **1.63x** ($+63) | 1.64x |  | pumpswap | 2026-03-20 17:00 |
-| 🔴 Ouroboros | $0.000023 | **0.59x** ($-41) | 1.05x |  | pumpswap | 2026-03-20 14:13 |
+| 🔴 Ouroboros | $0.000023 | **0.58x** ($-42) | 1.05x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 CHIBIELON | $0.000032 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 Saleh | $0.000018 | **0.74x** ($-26) | 1.21x |  | pumpswap | 2026-03-20 08:48 |
 | 🔴 LUMO | $0.000038 | **0.74x** ($-26) | 1.63x |  | pumpswap | 2026-03-20 08:32 |
@@ -43,7 +43,7 @@
 | 🟡 CHOPPER | $0.000025 | **1.30x** ($+30) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
 | 🔴 JOC | $0.000034 | **0.97x** ($-3) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |
-| 🔴 VAFR | $0.000023 | **0.89x** ($-11) | 1.15x |  | pumpswap | 2026-03-20 02:40 |
+| 🔴 VAFR | $0.000023 | **0.88x** ($-12) | 1.15x |  | pumpswap | 2026-03-20 02:40 |
 | 🔴 LULU | $0.000035 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 MIROFISH | $0.000032 | **0.55x** ($-45) | 1.01x |  | pumpswap | 2026-03-20 02:11 |
 | 🟡 FKH | $0.000018 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-20 02:01 |

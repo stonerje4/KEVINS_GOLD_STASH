@@ -1,6 +1,6 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 23:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 23:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (7 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-152 |
-| 📦 Unrealized | $+5 |
-| 🏦 Total | **$-146** |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$-154** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.70x |
 
@@ -21,7 +21,7 @@
 | 🟢 few | $0.000013 | **2.74x** ($+174) | 2.74x | ✅ | pumpfun | 2026-03-20 23:24 |
 | 🔴 sheep | $0.000012 | **0.91x** ($-9) | 1.99x |  | pumpfun | 2026-03-20 20:30 |
 | 🔴 BiGymNtn | $0.000005 | **0.49x** ($-51) | 1.19x |  | pumpfun | 2026-03-20 19:46 |
-| 🟡 FABIANA | $0.000007 | **1.84x** ($+84) | 4.95x | ✅ | pumpfun | 2026-03-20 19:27 |
+| 🟡 FABIANA | $0.000007 | **1.65x** ($+65) | 4.95x | ✅ | pumpfun | 2026-03-20 19:27 |
 | 🔴 SUNSHINE | $0.000006 | **0.51x** ($-49) | 1.42x |  | pumpfun | 2026-03-20 07:56 |
 | 🟡 CHANNELS | $0.000019 | **1.12x** ($+12) | 1.35x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 Jesus | $0.000010 | **0.82x** ($-18) | 1.37x |  | pumpfun | 2026-03-19 22:46 |

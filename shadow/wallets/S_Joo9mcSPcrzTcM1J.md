@@ -1,6 +1,6 @@
 # Wallet: `Joo9mcSPcrzTcM1JxSLvCefjzxHHZybtGPijruL7h2U`
 
-> [GMGN](https://gmgn.ai/sol/address/Joo9mcSPcrzTcM1JxSLvCefjzxHHZybtGPijruL7h2U) | [Solscan](https://solscan.io/account/Joo9mcSPcrzTcM1JxSLvCefjzxHHZybtGPijruL7h2U) | Updated: 2026-03-20 23:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/Joo9mcSPcrzTcM1JxSLvCefjzxHHZybtGPijruL7h2U) | [Solscan](https://solscan.io/account/Joo9mcSPcrzTcM1JxSLvCefjzxHHZybtGPijruL7h2U) | Updated: 2026-03-20 23:50 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Meow | $0.000024 | **1.25x** ($+25) | 2.04x | ✅ | pumpswap | 2026-03-20 21:10 |
+| 🟡 Meow | $0.000024 | **1.23x** ($+23) | 2.04x | ✅ | pumpswap | 2026-03-20 21:10 |
 
 ## Closed Positions
 

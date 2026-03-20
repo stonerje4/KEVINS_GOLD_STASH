@@ -1,6 +1,6 @@
 # Wallet: `E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`
 
-> [GMGN](https://gmgn.ai/sol/address/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | [Solscan](https://solscan.io/account/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | Updated: 2026-03-20 23:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | [Solscan](https://solscan.io/account/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | Updated: 2026-03-20 23:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-16 |
-| 📦 Unrealized | $-9 |
-| 🏦 Total | **$-25** |
+| 📦 Unrealized | $-11 |
+| 🏦 Total | **$-27** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.84x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LIBERTY | $0.000039 | **1.47x** ($+47) | 2.45x | ✅ | pumpswap | 2026-03-20 21:34 |
-| 🔴 Jessica | $0.000007 | **0.49x** ($-51) | 1.66x |  | pumpswap | 2026-03-20 21:32 |
+| 🟡 LIBERTY | $0.000039 | **1.46x** ($+46) | 2.45x | ✅ | pumpswap | 2026-03-20 21:34 |
+| 🔴 Jessica | $0.000007 | **0.47x** ($-53) | 1.66x |  | pumpswap | 2026-03-20 21:32 |
 | 🟢 Jessica | $0.000008 | **4.54x** ($+354) | 4.54x | ✅ | pumpfun | 2026-03-20 21:31 |
-| 🔴 wbs | $0.000022 | **0.77x** ($-23) | 1.29x |  | pumpfun | 2026-03-20 21:12 |
+| 🔴 wbs | $0.000022 | **0.78x** ($-22) | 1.29x |  | pumpfun | 2026-03-20 21:12 |
 | 🔴 Gizmo | $0.000007 | **0.45x** ($-55) | 1.11x |  | pumpswap | 2026-03-20 06:52 |
 | 🔴 Gizmo | $0.000009 | **0.54x** ($-46) | 1.25x |  | pumpfun | 2026-03-20 05:59 |
 

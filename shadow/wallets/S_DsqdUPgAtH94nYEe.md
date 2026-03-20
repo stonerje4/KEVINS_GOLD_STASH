@@ -1,6 +1,6 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 23:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 23:50 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-442 |
 | 📦 Unrealized | $-174 |
-| 🏦 Total | **$-615** |
+| 🏦 Total | **$-616** |
 | Best ROI | 1.30x |
 | Avg ROI | 0.51x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Handprint | $0.000008 | **0.99x** ($-1) | 1.58x |  | pumpswap | 2026-03-20 13:29 |
-| 🔴 foid | $0.000027 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 13:25 |
+| 🔴 foid | $0.000027 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 13:25 |
 | 🟡 Autobots | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
 | 🔴 Samba | $0.000012 | **0.69x** ($-31) | 1.69x |  | pumpswap | 2026-03-20 12:17 |
 | 🟡 9suFTixZ | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:07 |
