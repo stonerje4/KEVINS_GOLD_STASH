@@ -1,6 +1,6 @@
 # Wallet: `MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM`
 
-> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 09:16 UTC
+> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 09:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-36 |
-| 🏦 Total | **$-36** |
+| 📦 Unrealized | $-57 |
+| 🏦 Total | **$-57** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ME | $0.000010 | **1.03x** ($+3) | 1.09x |  | pumpfun | 2026-03-20 09:10 |
+| 🔴 ME | $0.000010 | **0.81x** ($-19) | 1.09x |  | pumpfun | 2026-03-20 09:10 |
 | 🔴 PHM | $0.000011 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 08:51 |
-| 🔴 Beach | $0.000008 | **0.70x** ($-30) | 1.00x |  | pumpfun | 2026-03-20 08:49 |
+| 🔴 Beach | $0.000008 | **0.72x** ($-28) | 1.00x |  | pumpfun | 2026-03-20 08:49 |
 
 ## Closed Positions
 

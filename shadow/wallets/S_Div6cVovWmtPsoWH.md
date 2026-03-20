@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 09:16 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 09:21 UTC
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | 🟡 Cow | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:10 |
 | 🟡 Invincible | $0.000006 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 08:19 |
 | 🟡 BOAT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
-| 🔴 CARROT | $0.000009 | **0.92x** ($-8) | 1.12x |  | pumpswap | 2026-03-20 06:42 |
+| 🔴 CARROT | $0.000009 | **0.93x** ($-7) | 1.12x |  | pumpswap | 2026-03-20 06:42 |
 | 🔴 METEOR | $0.000005 | **0.67x** ($-33) | 1.15x |  | pumpfun | 2026-03-20 05:43 |
 | 🔴 Veggietales | $0.000004 | **0.77x** ($-23) | 1.24x |  | pumpfun | 2026-03-20 03:56 |
 | 🔴 TRASHBAG | $0.000008 | **0.53x** ($-47) | 1.04x |  | pumpswap | 2026-03-20 03:53 |

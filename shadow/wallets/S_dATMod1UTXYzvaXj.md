@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 09:16 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 09:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 23 (13 open, 10 closed) |
 | W/L | 1/9 (10%) |
 | 💵 Realized | $-375 |
-| 📦 Unrealized | $+186 |
-| 🏦 Total | **$-189** |
+| 📦 Unrealized | $+200 |
+| 🏦 Total | **$-176** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 omochi | $0.000020 | **0.69x** ($-31) | 1.27x |  | pumpfun | 2026-03-20 09:13 |
-| 🔴 VOID | $0.000183 | **0.81x** ($-19) | 1.70x |  | cpmm | 2026-03-20 08:59 |
+| 🔴 omochi | $0.000020 | **0.81x** ($-19) | 1.27x |  | pumpfun | 2026-03-20 09:13 |
+| 🔴 VOID | $0.000183 | **0.82x** ($-18) | 1.70x |  | cpmm | 2026-03-20 08:59 |
 | 🟡 Pixels | $0.000024 | **1.54x** ($+54) | 1.54x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 BOAR | $0.000008 | **0.77x** ($-23) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 NEMO | $0.000012 | **1.21x** ($+21) | 2.10x | ✅ | pumpfun | 2026-03-20 02:34 |

@@ -1,6 +1,6 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 09:16 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 09:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (18 open, 11 closed) |
 | W/L | 2/9 (18%) |
 | 💵 Realized | $-393 |
-| 📦 Unrealized | $-651 |
-| 🏦 Total | **$-1,044** |
+| 📦 Unrealized | $-652 |
+| 🏦 Total | **$-1,046** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.3x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 omochi | $0.000004 | **0.67x** ($-33) | 1.78x |  | pumpfun | 2026-03-20 09:11 |
-| 🔴 VOID | $0.000005 | **0.56x** ($-44) | 1.92x |  | pumpfun | 2026-03-20 09:03 |
+| 🔴 omochi | $0.000004 | **0.66x** ($-34) | 1.78x |  | pumpfun | 2026-03-20 09:11 |
+| 🔴 VOID | $0.000005 | **0.54x** ($-46) | 1.92x |  | pumpfun | 2026-03-20 09:03 |
 | 🔴 62fRErwW | $0.000005 | **0.54x** ($-46) | 1.22x |  | pumpfun | 2026-03-20 08:55 |
 | 🔴 4a4ziM4d | $0.000006 | **0.45x** ($-55) | 1.47x |  | pumpfun | 2026-03-20 08:49 |
-| 🔴 pisscoin | $0.000004 | **0.64x** ($-36) | 1.31x |  | pumpfun | 2026-03-20 08:48 |
+| 🔴 pisscoin | $0.000004 | **0.65x** ($-35) | 1.31x |  | pumpfun | 2026-03-20 08:48 |
 | 🔴 genocide | $0.000005 | **0.47x** ($-53) | 1.14x |  | pumpfun | 2026-03-20 07:51 |
 | 🔴 PEPE | $0.000005 | **0.50x** ($-50) | 1.18x |  | pumpfun | 2026-03-20 07:31 |
 | 🔴 Chipe | $0.000003 | **0.77x** ($-23) | 1.98x |  | pumpfun | 2026-03-20 07:28 |

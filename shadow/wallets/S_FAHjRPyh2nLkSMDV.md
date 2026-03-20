@@ -1,6 +1,6 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 09:16 UTC
+> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 09:21 UTC
 
 ## Summary
 
@@ -22,7 +22,7 @@
 | 🟡 IMAGINE | $0.000175 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
 | 🟡 Pete | $0.000196 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 IMAGINE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:04 |
-| 🔴 CIRCLES | $0.000061 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
+| 🔴 CIRCLES | $0.000061 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 APES | $0.000170 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 LOL | $0.000318 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
 | 🟡 CLAW3D | $0.000060 | **1.12x** ($+12) | 1.32x |  | pumpswap | 2026-03-20 02:14 |

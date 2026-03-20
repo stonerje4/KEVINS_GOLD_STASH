@@ -1,6 +1,6 @@
 # Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
 
-> [View on Solscan](https://solscan.io/account/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy) | Updated: 2026-03-20 09:16 UTC
+> [View on Solscan](https://solscan.io/account/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy) | Updated: 2026-03-20 09:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-78** |
+| 📦 Unrealized | $-14 |
+| 🏦 Total | **$-76** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 RATHBUN | $0.000009 | **0.87x** ($-13) | 1.19x |  | pumpswap | 2026-03-20 03:01 |
+| 🔴 RATHBUN | $0.000009 | **0.88x** ($-12) | 1.19x |  | pumpswap | 2026-03-20 03:01 |
 | 🟡 ZOO | $0.000015 | **1.06x** ($+6) | 1.11x |  | pumpswap | 2026-03-20 00:39 |
 | 🔴 TITTYKILLER | $0.000003 | **0.91x** ($-9) | 1.83x |  | pumpfun | 2026-03-20 00:14 |
 

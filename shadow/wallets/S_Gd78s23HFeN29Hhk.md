@@ -1,6 +1,6 @@
 # Wallet: `Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E`
 
-> [View on Solscan](https://solscan.io/account/Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E) | Updated: 2026-03-20 09:16 UTC
+> [View on Solscan](https://solscan.io/account/Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E) | Updated: 2026-03-20 09:21 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+35 |
-| 🏦 Total | **$+35** |
+| 📦 Unrealized | $+34 |
+| 🏦 Total | **$+34** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
