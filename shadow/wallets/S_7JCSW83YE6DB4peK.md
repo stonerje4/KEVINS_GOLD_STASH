@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 04:29 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 04:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 64 (63 open, 1 closed) |
+| Positions | 65 (64 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+150 |
-| 🏦 Total | **$+71** |
+| 📦 Unrealized | $+156 |
+| 🏦 Total | **$+77** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 BAGWORKOOR | $0.000047 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-20 04:20 |
+| 🟡 咕咕嘎嘎 | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
+| 🟡 BAGWORKOOR | $0.000047 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 04:20 |
 | 🟡 Foodrot | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:56 |
 | 🟡 唐子兵法 | $0.001788 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:52 |
 | 🔴 Gizmo | $0.000014 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 03:38 |
@@ -77,7 +78,7 @@
 | 🔴 HOSPICE | $0.000024 | **0.99x** ($-1) | 1.21x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 Downald | $0.001104 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
 | 🔴 whiskers | $0.000011 | **0.75x** ($-25) | 1.02x |  | pumpswap | 2026-03-19 23:15 |
-| 🔴 Ride | $0.000016 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-19 22:57 |
+| 🟡 Ride | $0.000016 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 22:57 |
 | 🟡 DEEPSEEKV4 | $0.000040 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 22:54 |
 | 🟢 CHIBI | $0.000324 | **3.21x** ($+221) | 4.02x | ✅ | pumpswap | 2026-03-19 22:45 |
 | 🟡 PZBCN | $0.000136 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-19 22:42 |

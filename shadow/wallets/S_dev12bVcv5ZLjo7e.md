@@ -1,16 +1,16 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 04:29 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 04:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 39 (38 open, 1 closed) |
+| Positions | 41 (40 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+99 |
-| 🏦 Total | **$+144** |
+| 📦 Unrealized | $+55 |
+| 🏦 Total | **$+100** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -18,7 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MSBT | $0.000003 | **1.55x** ($+55) | 1.55x |  | pumpfun | 2026-03-20 04:23 |
+| 🟡 キンくん | $0.000003 | **1.07x** ($+7) | 1.08x |  | pumpfun | 2026-03-20 04:32 |
+| 🔴 Nature | $0.000005 | **0.50x** ($-50) | 1.11x |  | pumpfun | 2026-03-20 04:31 |
+| 🟡 MSBT | $0.000003 | **1.56x** ($+56) | 1.56x |  | pumpfun | 2026-03-20 04:23 |
 | 🟡 dryer | $0.000003 | **1.03x** ($+3) | 1.05x |  | pumpfun | 2026-03-20 04:16 |
 | 🔴 PRVX | $0.000006 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 04:11 |
 | 🟡 spooder | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:08 |
@@ -29,7 +31,7 @@
 | 🟡 6yCBxqr7 | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:20 |
 | 🔴 TdvdXT8S | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 03:11 |
 | 🔴 $ODA | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 03:10 |
-| 🟡 Floki | $0.000004 | **1.04x** ($+4) | 2.59x | ✅ | pumpfun | 2026-03-20 03:07 |
+| 🟡 Floki | $0.000004 | **1.02x** ($+2) | 2.59x | ✅ | pumpfun | 2026-03-20 03:07 |
 | 🟡 XCHAT | $0.000003 | **1.03x** ($+3) | 1.10x |  | pumpfun | 2026-03-20 02:59 |
 | 🟡 FyFJ64RR | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:37 |
 | 🔴 J3bSHVhq | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 02:35 |

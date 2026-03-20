@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 04:29 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 04:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 122 (121 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+195 |
-| 📦 Unrealized | $+443 |
-| 🏦 Total | **$+638** |
+| 📦 Unrealized | $+440 |
+| 🏦 Total | **$+634** |
 | Best Trade | 2.9x |
 | Avg Peak | 9.8x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Gany | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:28 |
 | 🟡 Xingxing | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:25 |
-| 🟡 SPESH | $0.000005 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 04:09 |
+| 🔴 SPESH | $0.000005 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 04:09 |
 | 🟡 eUSD | $0.000012 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-20 04:04 |
 | 🟡 Gascoin | $0.000032 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-20 04:02 |
 | 🔴 MOJTABA | $0.000011 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-20 03:59 |
@@ -28,9 +28,9 @@
 | 🟡 AIFRUITS | $0.000658 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 UGOR | $0.000906 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000101 | **1.38x** ($+38) | 1.45x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000101 | **1.42x** ($+42) | 1.45x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 OILINU | $0.000077 | **1.05x** ($+5) | 1.10x |  | pumpswap | 2026-03-20 03:18 |
-| 🟡 SAID | $0.000274 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
+| 🔴 SAID | $0.000274 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 UBT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:05 |
 | 🟡 AFC | $0.000005 | **1.06x** ($+6) | 1.08x |  | pumpswap | 2026-03-20 03:03 |
@@ -122,7 +122,7 @@
 | 🟡 NETANYAHU | $0.000095 | **1.05x** ($+5) | 1.25x |  | pumpswap | 2026-03-19 23:11 |
 | 🟡 Manosphere | $0.000006 | **1.05x** ($+5) | 1.25x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 Hamster  | $0.000227 | **0.99x** ($-1) | 1.17x |  | pumpswap | 2026-03-19 23:05 |
-| 🟡 Island | $0.000036 | **1.19x** ($+19) | 1.23x |  | pumpswap | 2026-03-19 23:02 |
+| 🟡 Island | $0.000036 | **1.26x** ($+26) | 1.26x |  | pumpswap | 2026-03-19 23:02 |
 | 🟡 ケイジ | $0.000089 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 PIKAHORSE | $0.000381 | **0.93x** ($-7) | 1.10x |  | pumpswap | 2026-03-19 22:59 |
 | 🔴 Gerald | $0.000377 | **0.93x** ($-7) | 1.14x |  | pumpswap | 2026-03-19 22:59 |
