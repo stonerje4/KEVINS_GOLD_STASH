@@ -1,6 +1,6 @@
 # Wallet: `D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY`
 
-> [GMGN](https://gmgn.ai/sol/address/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | [Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-20 23:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | [Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-20 23:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-37 |
-| 🏦 Total | **$-37** |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$-46** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FABIANA | $0.000025 | **0.65x** ($-35) | 1.15x |  | pumpswap | 2026-03-20 21:46 |
-| 🟡 GAY | $0.000009 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 21:07 |
+| 🔴 FABIANA | $0.000025 | **0.56x** ($-44) | 1.15x |  | pumpswap | 2026-03-20 21:46 |
+| 🟡 GAY | $0.000009 | **1.02x** ($+2) | 1.03x |  | pumpfun | 2026-03-20 21:07 |
 | 🔴 SCC | $0.000013 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 20:57 |
 | 🟡 Homies  | $0.000006 | **1.01x** ($+1) | 1.07x |  | pumpfun | 2026-03-20 20:55 |
 | 🟡 almost | $0.000007 | **1.00x** ($+0) | 1.08x |  | pumpfun | 2026-03-20 20:53 |

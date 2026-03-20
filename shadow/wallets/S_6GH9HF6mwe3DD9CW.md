@@ -1,16 +1,16 @@
 # Wallet: `6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG`
 
-> [GMGN](https://gmgn.ai/sol/address/6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG) | [Solscan](https://solscan.io/account/6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG) | [Solscan](https://solscan.io/account/6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG) | Updated: 2026-03-20 23:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (0 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-600 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-600** |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$+6** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,17 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 KAT | $0.000009 | **1.06x** ($+6) | 1.06x |  | pumpfun | 2026-03-20 23:38 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 MemeDeptUS | 0.00x | $-100 | phantom_bad_entry_price | 324.13x | pumpfun | 2026-03-20 06:09 → 2026-03-20 14:58 |
-| 🔴 MSBT | 0.00x | $-100 | phantom_bad_entry_price | 340.59x | pumpfun | 2026-03-20 06:04 → 2026-03-20 14:58 |
-| 🔴 DVX | 0.00x | $-100 | phantom_bad_entry_price | 832.76x | pumpfun | 2026-03-19 23:03 → 2026-03-20 14:58 |
-| 🔴 IOR | 0.00x | $-100 | phantom_bad_entry_price | 404.30x | pumpfun | 2026-03-19 22:49 → 2026-03-20 14:58 |
-| 🔴 LNG | 0.00x | $-100 | phantom_bad_entry_price | 253.65x | pumpfun | 2026-03-19 22:44 → 2026-03-20 14:58 |
-| 🔴 Drone | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpfun | 2026-03-19 22:41 → 2026-03-20 14:58 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

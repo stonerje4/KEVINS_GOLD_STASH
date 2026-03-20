@@ -1,6 +1,6 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 23:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 23:40 UTC
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | 🟡 CRACK | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 21:41 |
 | 🟢 Jessica | $0.000015 | **2.50x** ($+150) | 2.50x | ✅ | pumpfun | 2026-03-20 21:32 |
 | 🔴 Dickus | $0.000007 | **0.93x** ($-7) | 1.13x |  | pumpswap | 2026-03-20 21:27 |
-| 🔴 BUFFALO | $0.000008 | **0.71x** ($-29) | 1.22x |  | pumpfun | 2026-03-20 21:20 |
+| 🔴 BUFFALO | $0.000008 | **0.72x** ($-28) | 1.22x |  | pumpfun | 2026-03-20 21:20 |
 | 🟡 Cigify | $0.000033 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 21:14 |
 | 🟡 HELLO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:12 |
 | 🔴 NORRIS | $0.000006 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 14:16 |

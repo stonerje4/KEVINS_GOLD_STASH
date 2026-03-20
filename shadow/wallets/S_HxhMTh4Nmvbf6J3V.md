@@ -1,16 +1,16 @@
 # Wallet: `HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx`
 
-> [GMGN](https://gmgn.ai/sol/address/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | [Solscan](https://solscan.io/account/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | Updated: 2026-03-20 23:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | [Solscan](https://solscan.io/account/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | Updated: 2026-03-20 23:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (2 open, 3 closed) |
+| Positions | 6 (3 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-57 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-57** |
+| 📦 Unrealized | $-20 |
+| 🏦 Total | **$-78** |
 | Best ROI | 1.32x |
 | Avg ROI | 0.81x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 BEE | $0.000008 | **0.80x** ($-20) | 1.54x |  | pumpfun | 2026-03-20 23:37 |
 | 🟡 MUSKITTY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 20:30 |
 | 🟡 VITALY | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 18:24 |
 

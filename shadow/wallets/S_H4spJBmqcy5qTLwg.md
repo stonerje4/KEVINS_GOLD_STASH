@@ -1,6 +1,6 @@
 # Wallet: `H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH`
 
-> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-20 23:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-20 23:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-43 |
-| 🏦 Total | **$-43** |
+| 📦 Unrealized | $-52 |
+| 🏦 Total | **$-52** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FABIANA | $0.000025 | **0.63x** ($-37) | 1.13x |  | pumpswap | 2026-03-20 21:46 |
+| 🔴 FABIANA | $0.000025 | **0.55x** ($-45) | 1.13x |  | pumpswap | 2026-03-20 21:46 |
 | 🔴 GAY | $0.000010 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 21:07 |
 | 🔴 SCC | $0.000013 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 20:57 |
 | 🔴 Homies  | $0.000006 | **0.98x** ($-2) | 1.03x |  | pumpfun | 2026-03-20 20:55 |
