@@ -1,6 +1,6 @@
 # Wallet: `5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m`
 
-> [View on Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 14 (11 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $-59 |
-| 🏦 Total | **$-198** |
-| Best Trade | 0.8x |
-| Avg Peak | 1.4x |
+| 📦 Unrealized | $-55 |
+| 🏦 Total | **$-194** |
+| Best ROI | 0.83x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 $CRAB | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:16 |
-| 🔴 awkward | $0.000015 | **0.99x** ($-1) | 1.10x |  | pumpfun | 2026-03-20 10:39 |
+| 🟡 awkward | $0.000015 | **1.03x** ($+3) | 1.10x |  | pumpfun | 2026-03-20 10:39 |
 | 🟡 Income | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:08 |
 | 🟡 twump | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:56 |
 | 🟡 CLAWPICKS | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 07:01 |

@@ -1,6 +1,6 @@
 # Wallet: `6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6`
 
-> [View on Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$+3** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+4 |
+| 🏦 Total | **$+4** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 YEPE | $0.000127 | **1.03x** ($+3) | 1.16x |  | pumpswap | 2026-03-20 12:05 |
+| 🟡 YEPE | $0.000127 | **1.04x** ($+4) | 1.16x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 Optimistic | $0.000374 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:18 |
 | 🟡 LNCHR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:13 |
 | 🟡 effect | $0.000084 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:11 |

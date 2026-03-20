@@ -1,6 +1,6 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+22 |
-| 🏦 Total | **$+22** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+21 |
+| 🏦 Total | **$+21** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+246 |
 | 📦 Unrealized | $-447 |
 | 🏦 Total | **$-201** |
-| Best Trade | 3.0x |
-| Avg Peak | 6.1x |
+| Best ROI | 2.99x |
+| Avg ROI | 2.23x |
 
 ## Open Positions
 

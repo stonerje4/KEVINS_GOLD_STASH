@@ -1,23 +1,24 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (27 open, 2 closed) |
+| Positions | 30 (28 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-139 |
 | 📦 Unrealized | $+145 |
 | 🏦 Total | **$+6** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.39x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Doolysaurus | $0.000149 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:28 |
 | 🟡 CHIBITRUMP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:09 |
 | 🟡 Dittofy | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:55 |

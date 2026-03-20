@@ -1,6 +1,6 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [View on Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -11,14 +11,14 @@
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $+32 |
 | 🏦 Total | **$-28** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.1x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Civil Claude | $0.000015 | **1.17x** ($+17) | 1.25x |  | pumpfun | 2026-03-20 12:12 |
+| 🟡 Civil Claude | $0.000015 | **1.16x** ($+16) | 1.25x |  | pumpfun | 2026-03-20 12:12 |
 | 🟡 Imaginify | $0.000010 | **1.15x** ($+15) | 1.56x |  | pumpfun | 2026-03-20 08:19 |
 | 🟡 NEMO | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:08 |
 | 🟡 twump | $0.000015 | **1.20x** ($+20) | 2.21x | ✅ | pumpfun | 2026-03-19 22:42 |

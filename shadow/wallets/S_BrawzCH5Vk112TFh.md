@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 228 (224 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+17 |
-| 📦 Unrealized | $+53 |
-| 🏦 Total | **$+70** |
-| Best Trade | 3.0x |
-| Avg Peak | 3.4x |
+| 📦 Unrealized | $+52 |
+| 🏦 Total | **$+68** |
+| Best ROI | 2.99x |
+| Avg ROI | 1.04x |
 
 ## Open Positions
 
@@ -96,7 +96,7 @@
 | 🟡 TSUZUMI | $0.000025 | **1.08x** ($+8) | 1.38x |  | pumpswap | 2026-03-20 05:25 |
 | 🟡 GIGACHAD | $0.000006 | **1.24x** ($+24) | 2.35x | ✅ | pumpswap | 2026-03-20 05:19 |
 | 🟡 FKH | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
-| 🔴 TRASHBAG | $0.000006 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
+| 🔴 TRASHBAG | $0.000006 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
 | 🔴 X | $0.000414 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-20 04:57 |
 | 🟡 OPAL | $0.000460 | **1.07x** ($+7) | 1.17x |  | pumpswap | 2026-03-20 04:53 |
 | 🟡 automaton | $0.000104 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-20 04:48 |

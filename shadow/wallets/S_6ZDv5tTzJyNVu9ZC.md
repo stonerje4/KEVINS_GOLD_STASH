@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -10,9 +10,9 @@
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
 | 📦 Unrealized | $+386 |
-| 🏦 Total | **$+519** |
-| Best Trade | 2.9x |
-| Avg Peak | 5.4x |
+| 🏦 Total | **$+520** |
+| Best ROI | 2.95x |
+| Avg ROI | 1.67x |
 
 ## Open Positions
 
@@ -201,7 +201,7 @@
 | 🟡 MIROFISH | $0.000031 | **1.05x** ($+5) | 1.17x |  | pumpswap | 2026-03-19 22:58 |
 | 🟡 Geeked | $0.000021 | **1.18x** ($+18) | 1.30x |  | pumpswap | 2026-03-19 22:57 |
 | 🔴 Noesis | $0.000326 | **0.86x** ($-14) | 1.11x |  | pumpswap | 2026-03-19 22:57 |
-| 🟡 mogging | $0.000044 | **1.08x** ($+8) | 1.19x |  | pumpswap | 2026-03-19 22:55 |
+| 🟡 mogging | $0.000044 | **1.09x** ($+9) | 1.19x |  | pumpswap | 2026-03-19 22:55 |
 | 🟡 DEEPSEEKV4 | $0.000039 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 AMBER | $0.000014 | **1.00x** ($-0) | 1.05x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 DLSS5 | $0.000026 | **1.00x** ($+0) | 1.09x |  | pumpswap | 2026-03-19 22:52 |

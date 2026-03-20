@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 404 (399 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,095 |
-| 🏦 Total | **$-1,181** |
-| Best Trade | 2.8x |
-| Avg Peak | 2.2x |
+| 📦 Unrealized | $-1,096 |
+| 🏦 Total | **$-1,182** |
+| Best ROI | 2.75x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
@@ -135,7 +135,7 @@
 | 🟡 GIGACHAD | $0.000007 | **1.19x** ($+19) | 2.24x | ✅ | pumpswap | 2026-03-20 05:19 |
 | 🟡 MECHA | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:17 |
 | 🔴 Optimus | $0.000040 | **0.90x** ($-10) | 1.04x |  | pumpswap | 2026-03-20 05:13 |
-| 🔴 TRASHBAG | $0.000007 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
+| 🔴 TRASHBAG | $0.000007 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
 | 🔴 X | $0.000170 | **0.92x** ($-8) | 1.02x |  | pumpswap | 2026-03-20 05:02 |
 | 🟡 Simulation | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
 | 🟡 ケイジ | $0.000109 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:01 |

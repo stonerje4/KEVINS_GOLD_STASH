@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 135 (130 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-218 |
-| 📦 Unrealized | $+191 |
-| 🏦 Total | **$-27** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.5x |
+| 📦 Unrealized | $+194 |
+| 🏦 Total | **$-24** |
+| Best ROI | 1.48x |
+| Avg ROI | 0.56x |
 
 ## Open Positions
 
@@ -24,7 +24,7 @@
 | 🟡 Matthew | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 Life | $0.000147 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 11:53 |
 | 🟡 Momo-chan | $0.000315 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:48 |
-| 🟢 fine999.9 | $0.001321 | **2.68x** ($+168) | 2.77x | ✅ | pumpswap | 2026-03-20 11:47 |
+| 🟢 fine999.9 | $0.001321 | **2.73x** ($+173) | 2.77x | ✅ | pumpswap | 2026-03-20 11:47 |
 | 🟡 MOCHI | $0.000122 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:34 |
 | 🟡 AIFRUITS | $0.000517 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
 | 🟡 gugugaga | $0.000149 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |

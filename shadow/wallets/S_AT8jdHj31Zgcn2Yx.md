@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 12:28 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 12:29 UTC
 
 ## Summary
 
@@ -10,9 +10,9 @@
 | W/L | 3/24 (11%) |
 | 💵 Realized | $+2,155 |
 | 📦 Unrealized | $+19 |
-| 🏦 Total | **$+2,174** |
-| Best Trade | 24.9x |
-| Avg Peak | 4.9x |
+| 🏦 Total | **$+2,173** |
+| Best ROI | 24.90x |
+| Avg ROI | 1.80x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🟡 TERAFAB | $0.000310 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:03 |
 | 🟡 SIMD | $0.000303 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:45 |
 | 🟡 GOONERBI | $0.000095 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
-| 🟡 LAYOFF | $0.000264 | **1.08x** ($+8) | 1.09x |  | pumpswap | 2026-03-20 11:38 |
+| 🟡 LAYOFF | $0.000264 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-20 11:38 |
 | 🟡 UNTAXED | $0.000142 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:14 |
 | 🟡 CHIBIS | $0.000080 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:04 |
 | 🔴 BAGWORKOOR | $0.000057 | **0.93x** ($-7) | 1.06x |  | pumpswap | 2026-03-20 11:01 |
