@@ -1,6 +1,6 @@
 # Wallet: `2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT`
 
-> [GMGN](https://gmgn.ai/sol/address/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | [Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-20 18:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | [Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-20 18:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (4 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-195 |
-| 📦 Unrealized | $+97 |
-| 🏦 Total | **$-99** |
+| 📦 Unrealized | $+94 |
+| 🏦 Total | **$-101** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.35x |
 
@@ -21,7 +21,7 @@
 | 🟢 SNIFFER | $0.000021 | **2.61x** ($+161) | 2.65x | ✅ | pumpswap | 2026-03-20 13:23 |
 | 🟡 Judy | $0.000027 | **1.00x** ($+0) | 1.32x |  | pumpfun | 2026-03-20 11:37 |
 | 🔴 PIXELS | $0.000267 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 08:09 |
-| 🟡 PIKE | $0.000039 | **1.23x** ($+23) | 1.43x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 PIKE | $0.000039 | **1.21x** ($+21) | 1.43x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

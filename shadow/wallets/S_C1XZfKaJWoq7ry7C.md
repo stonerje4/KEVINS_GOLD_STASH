@@ -1,12 +1,12 @@
 # Wallet: `C1XZfKaJWoq7ry7CBFN3xEZ1a9iqHKAFLpiuUZa87U4k`
 
-> [GMGN](https://gmgn.ai/sol/address/C1XZfKaJWoq7ry7CBFN3xEZ1a9iqHKAFLpiuUZa87U4k) | [Solscan](https://solscan.io/account/C1XZfKaJWoq7ry7CBFN3xEZ1a9iqHKAFLpiuUZa87U4k) | Updated: 2026-03-20 18:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/C1XZfKaJWoq7ry7CBFN3xEZ1a9iqHKAFLpiuUZa87U4k) | [Solscan](https://solscan.io/account/C1XZfKaJWoq7ry7CBFN3xEZ1a9iqHKAFLpiuUZa87U4k) | Updated: 2026-03-20 18:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
+| Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-100 |
 | 📦 Unrealized | $-27 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DRONE | $0.000081 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 18:28 |
 | 🔴 Rosie | $0.000746 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🔴 Aliens | $0.000894 | **0.83x** ($-17) | 1.06x |  | pumpswap | 2026-03-19 22:46 |
 

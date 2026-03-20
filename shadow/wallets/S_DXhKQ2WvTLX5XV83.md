@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 18:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 18:30 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 ROUNDHOUSE | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:23 |
-| 🟡 NARUTO | $0.000010 | **1.02x** ($+2) | 1.08x |  | pumpfun | 2026-03-20 18:15 |
+| 🟡 NARUTO | $0.000010 | **1.03x** ($+3) | 1.08x |  | pumpfun | 2026-03-20 18:15 |
 | 🟡 Sunshine | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:53 |
 | 🔴 Civil Claude | $0.000023 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 17:32 |
 | 🟡 twump | $0.000007 | **1.13x** ($+13) | 1.19x |  | pumpfun | 2026-03-20 17:31 |
