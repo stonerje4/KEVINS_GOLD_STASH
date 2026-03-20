@@ -1,16 +1,16 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 08:41 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 08:46 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 33 (33 open, 0 closed) |
+| Positions | 34 (34 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-22 |
-| 🏦 Total | **$-22** |
+| 📦 Unrealized | $-25 |
+| 🏦 Total | **$-25** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 ZHDUN | $0.000003 | **0.94x** ($-6) | 1.01x |  | pumpfun | 2026-03-20 08:43 |
 | 🔴 TROILL | $0.000003 | **0.90x** ($-10) | 1.06x |  | pumpfun | 2026-03-20 08:25 |
 | 🔴 2ayhuc2Q | $0.000003 | **0.83x** ($-17) | 1.00x |  | pumpfun | 2026-03-20 08:15 |
 | 🔴 BSFe4q3j | $0.000003 | **0.88x** ($-12) | 1.02x |  | pumpfun | 2026-03-20 08:08 |
@@ -34,7 +35,7 @@
 | 🔴 LIBERTY | $0.000003 | **0.94x** ($-6) | 1.08x |  | pumpfun | 2026-03-20 04:47 |
 | 🔴 COMPUTE | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 04:38 |
 | 🔴 CR7 | $0.000003 | **0.87x** ($-13) | 1.05x |  | pumpfun | 2026-03-20 04:24 |
-| 🟢 TRASHBAG | $0.000003 | **3.46x** ($+246) | 4.54x | ✅ | pumpfun | 2026-03-20 03:52 |
+| 🟢 TRASHBAG | $0.000003 | **3.52x** ($+252) | 4.54x | ✅ | pumpfun | 2026-03-20 03:52 |
 | 🔴 NASCAT | $0.000003 | **0.91x** ($-9) | 1.19x |  | pumpfun | 2026-03-20 03:36 |
 | 🔴 DEBT | $0.000003 | **0.98x** ($-2) | 1.07x |  | pumpfun | 2026-03-20 02:42 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:23 |

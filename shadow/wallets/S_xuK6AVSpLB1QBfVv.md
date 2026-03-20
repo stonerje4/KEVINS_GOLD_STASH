@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 08:41 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 08:46 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 55 (54 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-87 |
-| 🏦 Total | **$-104** |
+| 📦 Unrealized | $-102 |
+| 🏦 Total | **$-119** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Wolverine | $0.000003 | **0.90x** ($-10) | 1.13x |  | pumpfun | 2026-03-20 08:23 |
-| 🟡 Chibililon | $0.000003 | **1.35x** ($+35) | 1.68x |  | pumpfun | 2026-03-20 08:19 |
+| 🟡 Chibililon | $0.000003 | **1.20x** ($+20) | 1.68x |  | pumpfun | 2026-03-20 08:19 |
 | 🔴 Rocky | $0.000003 | **0.87x** ($-13) | 1.12x |  | pumpfun | 2026-03-20 08:08 |
 | 🔴 $Chibi | $0.000003 | **0.93x** ($-7) | 1.29x |  | pumpfun | 2026-03-20 07:55 |
 | 🔴 engine | $0.000003 | **0.90x** ($-10) | 1.48x |  | pumpfun | 2026-03-20 07:48 |

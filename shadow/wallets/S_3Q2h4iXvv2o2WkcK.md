@@ -1,12 +1,12 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 08:41 UTC
+> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 08:46 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (12 open, 0 closed) |
+| Positions | 13 (13 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-94 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 驚き | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:43 |
 | 🟡 Freebuff | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:10 |
 | 🟡 Optimistic | $0.000500 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 DRIVE | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:09 |

@@ -1,12 +1,12 @@
 # Wallet: `DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9`
 
-> [View on Solscan](https://solscan.io/account/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | Updated: 2026-03-20 08:41 UTC
+> [View on Solscan](https://solscan.io/account/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | Updated: 2026-03-20 08:46 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+10 |
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ARTEMIS | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:45 |
+| 🟡 DOME | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:44 |
 | 🟡 NBR | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:59 |
 | 🟡 BBX | $0.000003 | **1.31x** ($+31) | 1.31x |  | pumpfun | 2026-03-20 04:42 |
 | 🔴 WRT | $0.000003 | **0.98x** ($-2) | 1.06x |  | pumpfun | 2026-03-20 04:39 |
