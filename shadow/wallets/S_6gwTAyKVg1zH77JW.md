@@ -1,16 +1,16 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 91 (89 open, 2 closed) |
+| Positions | 92 (90 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $+88 |
-| 🏦 Total | **$+326** |
+| 📦 Unrealized | $+95 |
+| 🏦 Total | **$+334** |
 | Best Trade | 2.9x |
 | Avg Peak | 6.2x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PIZZA | $0.000207 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:39 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
-| 🟡 JOC | $0.000034 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:36 |
+| 🟡 JOC | $0.000034 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 Gany | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
 | 🟡 Moe | $0.000075 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
 | 🔴 LULU | $0.000035 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:20 |

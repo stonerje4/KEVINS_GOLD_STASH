@@ -1,12 +1,12 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (9 open, 2 closed) |
+| Positions | 12 (10 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
 | 📦 Unrealized | $-63 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 BIG | $0.000081 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:44 |
 | 🟡 CHANNELS | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 IMAGINE | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:08 |

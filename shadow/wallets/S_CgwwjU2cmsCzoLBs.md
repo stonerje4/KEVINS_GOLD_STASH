@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (16 open, 13 closed) |
 | W/L | 0/13 (0%) |
 | 💵 Realized | $-900 |
-| 📦 Unrealized | $+168 |
-| 🏦 Total | **$-731** |
+| 📦 Unrealized | $+174 |
+| 🏦 Total | **$-726** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Rosei | $0.000014 | **0.97x** ($-3) | 1.10x |  | pumpswap | 2026-03-19 23:49 |
-| 🟡 AINL | $0.000025 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-19 23:43 |
+| 🟡 AINL | $0.000025 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-19 23:43 |
 | 🟡 CHIBI | $0.000656 | **1.59x** ($+59) | 1.98x |  | pumpswap | 2026-03-19 23:36 |
 | 🔴 Chibify | $0.000004 | **0.89x** ($-11) | 1.03x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 Garbonzo | $0.000009 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-19 23:33 |

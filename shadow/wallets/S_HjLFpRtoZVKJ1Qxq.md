@@ -1,16 +1,16 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 50 (49 open, 1 closed) |
+| Positions | 52 (51 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-50 |
-| 🏦 Total | **$-127** |
+| 📦 Unrealized | $-44 |
+| 🏦 Total | **$-121** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 JOC | $0.000034 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 02:36 |
+| 🔴 VAULT | $0.000179 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |
+| 🔴 PIZZA | $0.000209 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:39 |
+| 🟡 JOC | $0.000034 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 Skull | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
 | 🟡 Noorung | $0.000011 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 02:25 |
 | 🔴 GAS | $0.000376 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:12 |

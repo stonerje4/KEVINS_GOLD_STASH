@@ -1,16 +1,16 @@
 # Wallet: `GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu`
 
-> [View on Solscan](https://solscan.io/account/GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (1 open, 2 closed) |
+| Positions | 4 (2 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-134 |
-| 📦 Unrealized | $-38 |
-| 🏦 Total | **$-171** |
+| 📦 Unrealized | $-45 |
+| 🏦 Total | **$-178** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 MINKA | $0.000023 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 02:42 |
 | 🔴 Strawberita | $0.000082 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 01:32 |
 
 ## Closed Positions

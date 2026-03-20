@@ -1,12 +1,12 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 48 (47 open, 1 closed) |
+| Positions | 49 (48 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
 | 📦 Unrealized | $+140 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Gerald | $0.000336 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:40 |
 | 🟡 Devious | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
 | 🟡 FTR | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:32 |
 | 🔴 KIKO | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:28 |

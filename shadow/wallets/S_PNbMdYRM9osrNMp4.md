@@ -1,6 +1,6 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-78 |
-| 📦 Unrealized | $+48 |
-| 🏦 Total | **$-30** |
+| 📦 Unrealized | $+41 |
+| 🏦 Total | **$-36** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.4x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MINKA | $0.000007 | **1.89x** ($+89) | 1.89x |  | pumpfun | 2026-03-20 02:36 |
+| 🟢 MINKA | $0.000007 | **3.06x** ($+206) | 3.27x | ✅ | pumpfun | 2026-03-20 02:36 |
 | 🔴 BOAT | $0.000018 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 01:07 |
 | 🔴 DORO | $0.000005 | **0.73x** ($-27) | 1.19x |  | pumpfun | 2026-03-20 00:46 |
 | 🟡 Futa-kun | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 00:00 |

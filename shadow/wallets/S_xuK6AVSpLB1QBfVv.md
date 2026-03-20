@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 one day | $0.000003 | **0.93x** ($-7) | 1.06x |  | pumpfun | 2026-03-20 02:37 |
+| 🔴 one day | $0.000003 | **0.92x** ($-8) | 1.06x |  | pumpfun | 2026-03-20 02:37 |
 | 🔴 外星小猫 | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 02:33 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:19 |
 | 🟡 7H7hFCF7 | $0.000003 | **1.11x** ($+11) | 1.15x |  | pumpfun | 2026-03-20 02:17 |

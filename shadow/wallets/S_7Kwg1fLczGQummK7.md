@@ -1,6 +1,6 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [View on Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-138 |
-| 🏦 Total | **$-138** |
+| 📦 Unrealized | $-139 |
+| 🏦 Total | **$-139** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Chibi | $0.000008 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 02:37 |
-| 🔴 CHIBI | $0.000016 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 02:33 |
+| 🔴 CHIBI | $0.000016 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 02:33 |
 | 🔴 Roast | $0.000005 | **0.56x** ($-44) | 1.91x |  | pumpswap | 2026-03-20 00:04 |
 | 🔴 ELEPHANT | $0.000007 | **0.71x** ($-29) | 1.65x |  | pumpswap | 2026-03-19 23:59 |
 | 🔴 TRASHBAG | $0.000008 | **0.80x** ($-20) | 1.09x |  | pumpswap | 2026-03-19 23:40 |

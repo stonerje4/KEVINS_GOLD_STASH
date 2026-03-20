@@ -1,16 +1,16 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (13 open, 0 closed) |
+| Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-12 |
-| 🏦 Total | **$-12** |
+| 📦 Unrealized | $-28 |
+| 🏦 Total | **$-28** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NBR | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |
+| 🔴 $ZENDA  | $0.000004 | **0.84x** ($-16) | 1.04x |  | pumpfun | 2026-03-20 02:39 |
 | 🟡 OSP | $0.000097 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:39 |
 | 🟡 OZ | $0.000004 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 02:35 |
 | 🟡 TORN | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:35 |

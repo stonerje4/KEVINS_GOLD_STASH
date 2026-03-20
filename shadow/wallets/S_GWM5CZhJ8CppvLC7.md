@@ -1,16 +1,16 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 61 (60 open, 1 closed) |
+| Positions | 63 (62 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-64 |
-| 🏦 Total | **$-141** |
+| 📦 Unrealized | $-57 |
+| 🏦 Total | **$-134** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 VAFR | $0.000023 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:40 |
+| 🟡 PIZZA | $0.000206 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:39 |
 | 🟡 Moe | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
 | 🔴 Lobstar | $0.007103 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 02:24 |
 | 🔴 LULU | $0.000035 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
@@ -63,7 +65,7 @@
 | 🟡 NETANYAHU | $0.000096 | **1.04x** ($+4) | 1.24x |  | pumpswap | 2026-03-19 23:49 |
 | 🟡 Alien | $0.000014 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 Solana | $0.000186 | **1.04x** ($+4) | 1.19x |  | pumpswap | 2026-03-19 23:44 |
-| 🟡 AINL | $0.000024 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-19 23:43 |
+| 🟡 AINL | $0.000024 | **1.25x** ($+25) | 1.25x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Monke | $0.000013 | **0.63x** ($-37) | 1.02x |  | pumpswap | 2026-03-19 23:30 |
 | 🟡 COLLECTIBLE | $0.000056 | **1.05x** ($+5) | 1.15x |  | pumpswap | 2026-03-19 23:28 |
 | 🟡 buddy | $0.000320 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 23:13 |

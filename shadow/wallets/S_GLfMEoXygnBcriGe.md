@@ -1,12 +1,12 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 02:39 UTC
+> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 02:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (9 open, 0 closed) |
+| Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+26 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PERCOLATOR | $0.000065 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:43 |
 | 🟡 CHIBI | $0.001118 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:33 |
 | 🟡 Gany | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 GOBLIN | $0.000016 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:11 |
