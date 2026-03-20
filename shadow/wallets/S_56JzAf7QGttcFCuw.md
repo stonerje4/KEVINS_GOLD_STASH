@@ -1,16 +1,16 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 07:50 UTC
+> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 07:56 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (9 open, 7 closed) |
-| W/L | 1/6 (14%) |
-| 💵 Realized | $-197 |
-| 📦 Unrealized | $+52 |
-| 🏦 Total | **$-145** |
+| Positions | 16 (8 open, 8 closed) |
+| W/L | 1/7 (12%) |
+| 💵 Realized | $-257 |
+| 📦 Unrealized | $+85 |
+| 🏦 Total | **$-172** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.3x |
 
@@ -18,12 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Kit | $0.000006 | **1.02x** ($+2) | 1.20x |  | pumpfun | 2026-03-20 07:40 |
-| 🔴 AVATAR | $0.000046 | **0.54x** ($-46) | 1.67x |  | pumpswap | 2026-03-20 06:56 |
+| 🔴 Kit | $0.000006 | **0.86x** ($-14) | 1.20x |  | pumpfun | 2026-03-20 07:40 |
 | 🔴 大郎 | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 06:44 |
-| 🔴 HAIL | $0.000015 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
+| 🔴 HAIL | $0.000015 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
 | 🔴 e/alt | $0.000012 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 05:56 |
-| 🔴 Moe-chan | $0.000015 | **0.93x** ($-7) | 1.05x |  | pumpswap | 2026-03-20 05:52 |
+| 🔴 Moe-chan | $0.000015 | **0.97x** ($-3) | 1.05x |  | pumpswap | 2026-03-20 05:52 |
 | 🟡 Moe | $0.000081 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:52 |
 | 🟢 Pixel | $0.000011 | **3.21x** ($+221) | 3.21x | ✅ | pumpfun | 2026-03-20 04:50 |
 | 🟢 94S763Nm | $0.000014 | **2.68x** ($+168) | 2.68x | ✅ | pumpfun | 2026-03-20 04:24 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.67x | pumpswap | 2026-03-20 06:56 → 2026-03-20 07:55 |
 | 🟡 我的猪盾 | 0.81x | $-19 | trailing_stop_3x | 2.55x | pumpfun | 2026-03-20 06:42 → 2026-03-20 07:15 |
 | 🟡 AVATAR | 1.49x | $+49 | trailing_stop_5x | 4.98x | pumpswap | 2026-03-20 06:24 → 2026-03-20 06:55 |
 | 🔴 Yukon | 0.33x | $-67 | stop_loss | 1.41x | pumpfun | 2026-03-20 06:18 → 2026-03-20 06:20 |

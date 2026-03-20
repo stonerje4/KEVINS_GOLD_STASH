@@ -1,27 +1,26 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 07:50 UTC
+> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 07:56 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (15 open, 9 closed) |
-| W/L | 1/8 (11%) |
-| 💵 Realized | $-346 |
-| 📦 Unrealized | $+173 |
-| 🏦 Total | **$-173** |
-| Best Trade | 1.4x |
-| Avg Peak | 1.9x |
+| Positions | 24 (14 open, 10 closed) |
+| W/L | 2/8 (20%) |
+| 💵 Realized | $-298 |
+| 📦 Unrealized | $+117 |
+| 🏦 Total | **$-181** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 76f2arMq | $0.000007 | **0.72x** ($-28) | 1.85x |  | pumpfun | 2026-03-20 07:44 |
-| 🔴 FROG | $0.000004 | **0.71x** ($-29) | 1.64x |  | pumpfun | 2026-03-20 07:31 |
-| 🟢 awkward | $0.000008 | **2.00x** ($+100) | 4.44x | ✅ | pumpfun | 2026-03-20 07:03 |
-| 🟡 MENACE | $0.000004 | **1.02x** ($+2) | 2.68x | ✅ | pumpswap | 2026-03-20 06:05 |
+| 🔴 76f2arMq | $0.000007 | **0.61x** ($-39) | 1.85x |  | pumpfun | 2026-03-20 07:44 |
+| 🔴 FROG | $0.000004 | **0.67x** ($-33) | 1.64x |  | pumpfun | 2026-03-20 07:31 |
+| 🟡 MENACE | $0.000004 | **1.00x** ($+0) | 2.68x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.51x** ($+151) | 2.51x | ✅ | pumpfun | 2026-03-20 05:51 |
 | 🟡 TRADITION | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:10 |
 | 🔴 BitPenis | $0.000006 | **0.42x** ($-58) | 1.30x |  | pumpfun | 2026-03-20 04:59 |
@@ -38,6 +37,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 awkward | 1.49x | $+49 | trailing_stop_4x | 4.44x | pumpfun | 2026-03-20 07:03 → 2026-03-20 07:52 |
 | 🔴 ME | 0.39x | $-61 | stop_loss | 1.73x | pumpfun | 2026-03-20 06:35 → 2026-03-20 06:47 |
 | 🔴 Yukon | 0.38x | $-62 | stop_loss | 1.28x | pumpfun | 2026-03-20 06:22 → 2026-03-20 06:24 |
 | 🔴 CORPORATE | 0.75x | $-25 | trailing_stop_2x | 2.50x | pumpfun | 2026-03-20 05:47 → 2026-03-20 06:13 |

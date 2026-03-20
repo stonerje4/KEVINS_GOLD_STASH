@@ -1,6 +1,6 @@
-# Wallet: `DJdvSC8tAscQ3tgdFXusesy3AqGjSe6dEeavm6NMbtkJ`
+# Wallet: `4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH`
 
-> [View on Solscan](https://solscan.io/account/DJdvSC8tAscQ3tgdFXusesy3AqGjSe6dEeavm6NMbtkJ) | Updated: 2026-03-20 07:56 UTC
+> [View on Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 07:56 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+19 |
+| 🏦 Total | **$+19** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 NBR | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:05 |
+| 🟡 ACT C | $0.000005 | **1.19x** ($+19) | 1.19x |  | pumpfun | 2026-03-20 07:55 |
 
 ## Closed Positions
 

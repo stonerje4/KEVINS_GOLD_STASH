@@ -1,16 +1,16 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 07:50 UTC
+> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 07:56 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
+| Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-82 |
-| 🏦 Total | **$-82** |
+| 📦 Unrealized | $-65 |
+| 🏦 Total | **$-65** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHIBI | $0.000004 | **1.17x** ($+17) | 1.21x |  | pumpfun | 2026-03-20 07:55 |
 | 🔴 FLAG | $0.000004 | **0.70x** ($-30) | 1.09x |  | pumpfun | 2026-03-20 04:32 |
 | 🟡 ROS | $0.000005 | **1.05x** ($+5) | 1.22x |  | pumpfun | 2026-03-20 04:22 |
 | 🔴 USAOIL | $0.000005 | **0.60x** ($-40) | 1.16x |  | pumpfun | 2026-03-20 04:00 |

@@ -1,6 +1,6 @@
 # Wallet: `3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx`
 
-> [View on Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-20 07:50 UTC
+> [View on Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-20 07:56 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 riposhima | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 04:40 |
-| 🟡 BAGWORKOOR | $0.000054 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 04:39 |
+| 🟡 BAGWORKOOR | $0.000054 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 04:39 |
 | 🟡 Billy | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:13 |
 | 🚀 GIGACHAD | $0.000000 | **51.08x** ($+5,008) | 57.84x | ✅ | pumpswap | 2026-03-20 03:56 |
 

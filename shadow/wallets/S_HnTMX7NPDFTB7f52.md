@@ -1,6 +1,6 @@
 # Wallet: `HnTMX7NPDFTB7f52CrDmvJDyU6AgQdDt4LbKVp8hp1fm`
 
-> [View on Solscan](https://solscan.io/account/HnTMX7NPDFTB7f52CrDmvJDyU6AgQdDt4LbKVp8hp1fm) | Updated: 2026-03-20 07:50 UTC
+> [View on Solscan](https://solscan.io/account/HnTMX7NPDFTB7f52CrDmvJDyU6AgQdDt4LbKVp8hp1fm) | Updated: 2026-03-20 07:56 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+69 |
-| 🏦 Total | **$+69** |
+| 📦 Unrealized | $+49 |
+| 🏦 Total | **$+49** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBELON | $0.000073 | **1.69x** ($+69) | 1.83x |  | pumpswap | 2026-03-20 07:42 |
+| 🟡 CHIBELON | $0.000073 | **1.99x** ($+99) | 2.07x | ✅ | pumpswap | 2026-03-20 07:42 |
 
 ## Closed Positions
 
