@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 20:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 20:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (15 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $+77 |
-| 🏦 Total | **$-63** |
+| 📦 Unrealized | $+75 |
+| 🏦 Total | **$-65** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.54x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 DogeFather | $0.000018 | **0.82x** ($-18) | 1.00x |  | pumpfun | 2026-03-20 19:50 |
-| 🔴 Forget | $0.000012 | **0.67x** ($-33) | 1.09x |  | pumpswap | 2026-03-20 19:28 |
+| 🔴 Forget | $0.000012 | **0.64x** ($-36) | 1.09x |  | pumpswap | 2026-03-20 19:28 |
 | 🟡 MFT | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:50 |
 | 🟡 FOID | $0.000017 | **1.24x** ($+24) | 2.10x | ✅ | pumpfun | 2026-03-20 14:58 |
 | 🟡 OIIA | $0.000021 | **1.25x** ($+25) | 1.55x |  | pumpswap | 2026-03-20 14:12 |
