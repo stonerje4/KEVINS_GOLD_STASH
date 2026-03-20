@@ -1,16 +1,16 @@
 # Wallet: `8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY`
 
-> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 22:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 22:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (3 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-293 |
-| 📦 Unrealized | $+23 |
-| 🏦 Total | **$-271** |
+| Positions | 8 (2 open, 6 closed) |
+| W/L | 0/6 (0%) |
+| 💵 Realized | $-355 |
+| 📦 Unrealized | $-0 |
+| 🏦 Total | **$-355** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.41x |
 
@@ -18,7 +18,6 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 2u79f8fb | $0.000011 | **1.23x** ($+23) | 1.36x |  | pumpfun | 2026-03-20 22:39 |
 | 🔴 TITUATION | $0.000033 | **1.00x** ($-0) | 1.63x |  | pumpswap | 2026-03-20 18:14 |
 | 🟡 SHOENICE  | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
 
@@ -26,6 +25,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 2u79f8fb | 0.38x | $-62 | stop_loss | 1.86x | pumpfun | 2026-03-20 22:39 → 2026-03-20 22:42 |
 | 🔴 SSP | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 21:40 → 2026-03-20 21:54 |
 | 🔴 BAB | 0.39x | $-61 | stop_loss | 1.21x | pumpfun | 2026-03-20 21:24 → 2026-03-20 21:25 |
 | 🔴 Man | 0.37x | $-63 | stop_loss | 1.11x | pumpfun | 2026-03-20 02:07 → 2026-03-20 02:07 |

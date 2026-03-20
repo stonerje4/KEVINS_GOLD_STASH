@@ -1,6 +1,6 @@
 # Wallet: `9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf`
 
-> [GMGN](https://gmgn.ai/sol/address/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | [Solscan](https://solscan.io/account/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | Updated: 2026-03-20 22:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | [Solscan](https://solscan.io/account/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | Updated: 2026-03-20 22:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+31 |
-| 🏦 Total | **$+31** |
+| 📦 Unrealized | $+25 |
+| 🏦 Total | **$+25** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Elongate | $0.000006 | **1.15x** ($+15) | 1.21x |  | pumpswap | 2026-03-20 22:26 |
+| 🟡 Elongate | $0.000006 | **1.08x** ($+8) | 1.21x |  | pumpswap | 2026-03-20 22:26 |
 | 🟡 Kin-kun | $0.000007 | **1.16x** ($+16) | 1.88x |  | pumpfun | 2026-03-20 09:45 |
 
 ## Closed Positions

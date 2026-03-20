@@ -1,6 +1,6 @@
 # Wallet: `4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN`
 
-> [GMGN](https://gmgn.ai/sol/address/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | [Solscan](https://solscan.io/account/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | Updated: 2026-03-20 22:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | [Solscan](https://solscan.io/account/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | Updated: 2026-03-20 22:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+108 |
-| 🏦 Total | **$+46** |
+| 📦 Unrealized | $+77 |
+| 🏦 Total | **$+15** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 WILLIAMR56748 | $0.000008 | **1.18x** ($+18) | 1.48x |  | pumpfun | 2026-03-20 12:58 |
 | 🟢 Nonchalant | $0.000005 | **2.32x** ($+132) | 3.07x | ✅ | pumpfun | 2026-03-20 03:44 |
-| 🟡 F3 | $0.000017 | **1.38x** ($+38) | 1.87x |  | pumpfun | 2026-03-20 00:21 |
+| 🟡 F3 | $0.000017 | **1.07x** ($+7) | 1.87x |  | pumpfun | 2026-03-20 00:21 |
 
 ## Closed Positions
 

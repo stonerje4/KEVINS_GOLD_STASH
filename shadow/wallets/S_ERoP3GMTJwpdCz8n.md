@@ -1,6 +1,6 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 22:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 22:45 UTC
 
 ## Summary
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 sheep | $0.000012 | **0.89x** ($-11) | 1.99x |  | pumpfun | 2026-03-20 20:30 |
+| 🔴 sheep | $0.000012 | **0.90x** ($-10) | 1.99x |  | pumpfun | 2026-03-20 20:30 |
 | 🔴 BiGymNtn | $0.000005 | **0.49x** ($-51) | 1.19x |  | pumpfun | 2026-03-20 19:46 |
-| 🟢 FABIANA | $0.000007 | **2.25x** ($+125) | 4.95x | ✅ | pumpfun | 2026-03-20 19:27 |
+| 🟢 FABIANA | $0.000007 | **2.23x** ($+123) | 4.95x | ✅ | pumpfun | 2026-03-20 19:27 |
 | 🔴 SUNSHINE | $0.000006 | **0.51x** ($-49) | 1.42x |  | pumpfun | 2026-03-20 07:56 |
 | 🟡 CHANNELS | $0.000019 | **1.02x** ($+2) | 1.35x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 Jesus | $0.000010 | **0.82x** ($-18) | 1.37x |  | pumpfun | 2026-03-19 22:46 |

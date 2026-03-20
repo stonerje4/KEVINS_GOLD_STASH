@@ -1,6 +1,6 @@
 # Wallet: `DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw`
 
-> [GMGN](https://gmgn.ai/sol/address/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | [Solscan](https://solscan.io/account/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | Updated: 2026-03-20 22:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | [Solscan](https://solscan.io/account/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | Updated: 2026-03-20 22:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+11 |
-| 🏦 Total | **$+11** |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$+6** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 DEATHCORE | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:56 |
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:19 |
-| 🟡 Obsessed | $0.000010 | **1.11x** ($+11) | 1.84x |  | pumpswap | 2026-03-20 10:18 |
+| 🟡 Obsessed | $0.000010 | **1.06x** ($+6) | 1.84x |  | pumpswap | 2026-03-20 10:18 |
 | 🟡 Happiness | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:53 |
 | 🟡 Croc | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:43 |
 

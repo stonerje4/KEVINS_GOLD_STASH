@@ -1,31 +1,31 @@
 # Wallet: `3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H`
 
-> [GMGN](https://gmgn.ai/sol/address/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | [Solscan](https://solscan.io/account/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | Updated: 2026-03-20 22:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | [Solscan](https://solscan.io/account/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | Updated: 2026-03-20 22:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-114 |
-| 🏦 Total | **$-114** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 3 (2 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-66 |
+| 📦 Unrealized | $-59 |
+| 🏦 Total | **$-126** |
+| Best ROI | 0.34x |
+| Avg ROI | 0.34x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Elongate | $0.000012 | **0.86x** ($-14) | 1.67x |  | pumpswap | 2026-03-20 22:27 |
-| 🔴 MINMIKO | $0.000017 | **0.48x** ($-52) | 1.63x |  | pumpfun | 2026-03-20 21:48 |
+| 🔴 Elongate | $0.000012 | **0.88x** ($-12) | 1.67x |  | pumpswap | 2026-03-20 22:27 |
 | 🔴 GBN | $0.000018 | **0.52x** ($-48) | 1.84x |  | pumpswap | 2026-03-20 15:47 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 MINMIKO | 0.34x | $-66 | stop_loss | 1.63x | pumpfun | 2026-03-20 21:48 → 2026-03-20 22:40 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

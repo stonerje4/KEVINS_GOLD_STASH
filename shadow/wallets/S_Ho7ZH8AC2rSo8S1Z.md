@@ -1,28 +1,27 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 22:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 22:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (16 open, 6 closed) |
-| W/L | 1/5 (17%) |
-| 💵 Realized | $+226 |
-| 📦 Unrealized | $-92 |
-| 🏦 Total | **$+134** |
+| Positions | 22 (15 open, 7 closed) |
+| W/L | 1/6 (14%) |
+| 💵 Realized | $+162 |
+| 📦 Unrealized | $-27 |
+| 🏦 Total | **$+136** |
 | Best ROI | 5.85x |
-| Avg ROI | 1.38x |
+| Avg ROI | 1.23x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TOP1 | $0.000023 | **0.93x** ($-7) | 1.03x |  | pumpfun | 2026-03-20 22:35 |
-| 🔴 EVERYTHING | $0.000025 | **0.89x** ($-11) | 1.11x |  | pumpfun | 2026-03-20 22:26 |
-| 🔴 Elongate | $0.000018 | **0.57x** ($-43) | 1.21x |  | pumpswap | 2026-03-20 22:24 |
+| 🟡 TOP1 | $0.000023 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 22:35 |
+| 🟡 EVERYTHING | $0.000025 | **1.14x** ($+14) | 1.34x |  | pumpfun | 2026-03-20 22:26 |
+| 🔴 Elongate | $0.000018 | **0.59x** ($-41) | 1.21x |  | pumpswap | 2026-03-20 22:24 |
 | 🟡 PUNCHDENG | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 22:17 |
-| 🔴 genocide | $0.000039 | **0.73x** ($-27) | 1.21x |  | pumpswap | 2026-03-20 22:06 |
 | 🟡 TOKENMAXXING | $0.000028 | **1.24x** ($+24) | 1.29x |  | pumpfun | 2026-03-20 21:36 |
 | 🔴 Norriscoin | $0.000007 | **0.84x** ($-16) | 1.18x |  | pumpfun | 2026-03-20 16:17 |
 | 🟡 HELLO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:14 |
@@ -39,6 +38,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 genocide | 0.37x | $-63 | stop_loss | 1.21x | pumpswap | 2026-03-20 22:06 → 2026-03-20 22:42 |
 | 🔴 Monitoring | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 18:05 → 2026-03-20 18:05 |
 | 🔴 Maxxington | 0.39x | $-61 | stop_loss | 1.27x | pumpfun | 2026-03-20 18:02 → 2026-03-20 18:06 |
 | 🔴 Norris | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:10 → 2026-03-20 16:21 |
