@@ -1,6 +1,6 @@
 # Wallet: `BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y`
 
-> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 20:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 20:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-115 |
-| 🏦 Total | **$-176** |
+| 📦 Unrealized | $-116 |
+| 🏦 Total | **$-177** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CRACK | $0.000021 | **0.85x** ($-15) | 1.30x |  | pumpfun | 2026-03-20 19:41 |
+| 🔴 CRACK | $0.000021 | **0.84x** ($-16) | 1.30x |  | pumpfun | 2026-03-20 19:41 |
 | 🔴 xcat | $0.000006 | **0.60x** ($-40) | 1.12x |  | pumpfun | 2026-03-20 18:06 |
 | 🔴 ONESHOTTED | $0.000009 | **0.90x** ($-10) | 1.17x |  | pumpswap | 2026-03-19 22:51 |
 | 🔴 ROME | $0.000013 | **0.50x** ($-50) | 1.18x |  | pumpswap | 2026-03-19 22:42 |

@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 20:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 20:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 78 (77 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-91 |
-| 🏦 Total | **$-151** |
+| 📦 Unrealized | $-94 |
+| 🏦 Total | **$-155** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 LIFE | $0.000022 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 20:30 |
+| 🔴 LIFE | $0.000022 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 20:30 |
 | 🟡 𝕏 Card  | $0.000016 | **1.12x** ($+12) | 1.17x |  | pumpswap | 2026-03-20 19:57 |
 | 🔴 Chud | $0.000030 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-20 19:29 |
 | 🔴 clawedin | $0.000008 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 18:35 |
@@ -35,7 +35,7 @@
 | 🔴 e/alt | $0.000006 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 15:51 |
 | 🔴 SPIRITS | $0.000015 | **0.47x** ($-53) | 1.08x |  | pumpswap | 2026-03-20 15:50 |
 | 🟡 creature | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
-| 🔴 Speak | $0.000019 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 Speak | $0.000019 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 $GROWN  | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:42 |
 | 🔴 DATBOI | $0.000039 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 Newscum | $0.000020 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 14:28 |

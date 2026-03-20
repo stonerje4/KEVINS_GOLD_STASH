@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 20:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 20:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-74 |
-| 🏦 Total | **$-74** |
+| 📦 Unrealized | $-104 |
+| 🏦 Total | **$-104** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ROUNDHOUSE | $0.000013 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 18:23 |
+| 🔴 ROUNDHOUSE | $0.000013 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 18:23 |
 | 🔴 NARUTO | $0.000010 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 18:15 |
 | 🟡 Sunshine | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:53 |
 | 🔴 SOLANA | $0.000005 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 06:22 |

@@ -1,18 +1,18 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 20:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 20:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (9 open, 9 closed) |
-| W/L | 1/8 (11%) |
-| 💵 Realized | $-255 |
-| 📦 Unrealized | $-137 |
-| 🏦 Total | **$-392** |
+| Positions | 18 (8 open, 10 closed) |
+| W/L | 1/9 (10%) |
+| 💵 Realized | $-316 |
+| 📦 Unrealized | $-79 |
+| 🏦 Total | **$-394** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.72x |
+| Avg ROI | 0.68x |
 
 ## Open Positions
 
@@ -20,7 +20,6 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟢 IonClaw | $0.000016 | **2.31x** ($+131) | 2.31x | ✅ | pumpfun | 2026-03-20 16:07 |
 | 🟡 pa | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
-| 🔴 chibify | $0.000017 | **0.42x** ($-58) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
 | 🟡 Chibify | $0.000028 | **1.26x** ($+26) | 1.43x |  | pumpswap | 2026-03-20 10:35 |
 | 🔴 Kit | $0.000006 | **0.62x** ($-38) | 1.34x |  | pumpfun | 2026-03-20 07:40 |
 | 🔴 大郎 | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 06:44 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 chibify | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 11:08 → 2026-03-20 20:37 |
 | 🟡 我的猪盾 | 0.81x | $-19 | trailing_stop_3x | 2.55x | pumpfun | 2026-03-20 06:42 → 2026-03-20 07:15 |
 | 🟡 AVATAR | 1.49x | $+49 | trailing_stop_5x | 4.98x | pumpswap | 2026-03-20 06:24 → 2026-03-20 06:55 |
 | 🔴 Yukon | 0.33x | $-67 | stop_loss | 1.41x | pumpfun | 2026-03-20 06:18 → 2026-03-20 06:20 |

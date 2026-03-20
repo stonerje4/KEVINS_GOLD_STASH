@@ -1,18 +1,18 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 20:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 20:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 41 (38 open, 3 closed) |
-| W/L | 1/2 (33%) |
-| 💵 Realized | $-89 |
-| 📦 Unrealized | $-95 |
-| 🏦 Total | **$-184** |
+| Positions | 41 (37 open, 4 closed) |
+| W/L | 1/3 (25%) |
+| 💵 Realized | $-108 |
+| 📦 Unrealized | $-100 |
+| 🏦 Total | **$-208** |
 | Best ROI | 1.46x |
-| Avg ROI | 0.70x |
+| Avg ROI | 0.73x |
 
 ## Open Positions
 
@@ -25,10 +25,9 @@
 | 🔴 clod | $0.000024 | **0.68x** ($-32) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 Simulation | $0.000022 | **0.64x** ($-36) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
 | 🔴 CHANNELS | $0.000024 | **0.70x** ($-30) | 1.07x |  | pumpswap | 2026-03-20 13:59 |
-| 🟡 Alien | $0.000020 | **1.02x** ($+2) | 2.14x | ✅ | pumpswap | 2026-03-20 13:28 |
 | 🟡 AVATAR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
 | 🟡 AIFRUIT | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:37 |
-| 🔴 Saleh | $0.000017 | **0.94x** ($-6) | 1.27x |  | pumpswap | 2026-03-20 11:57 |
+| 🔴 Saleh | $0.000017 | **0.90x** ($-10) | 1.27x |  | pumpswap | 2026-03-20 11:57 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 DRIVE | $0.000014 | **1.14x** ($+14) | 1.15x |  | pumpswap | 2026-03-20 10:54 |
 | 🔴 Ouroboros | $0.000034 | **0.49x** ($-51) | 1.00x |  | pumpswap | 2026-03-20 10:37 |
@@ -61,6 +60,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Alien | 0.81x | $-19 | trailing_stop_2x | 2.14x | pumpswap | 2026-03-20 13:28 → 2026-03-20 20:37 |
 | 🔴 驚き | 0.27x | $-73 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:44 → 2026-03-20 16:21 |
 | 🟡 GPD | 1.46x | $+46 | trailing_stop_4x | 4.37x | pumpswap | 2026-03-20 00:41 → 2026-03-20 01:27 |
 | 🔴 George | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-19 22:56 → 2026-03-20 08:02 |

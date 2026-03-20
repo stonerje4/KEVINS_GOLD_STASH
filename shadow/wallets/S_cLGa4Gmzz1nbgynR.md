@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 20:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 20:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 66 (60 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $-275 |
-| 🏦 Total | **$-553** |
+| 📦 Unrealized | $-296 |
+| 🏦 Total | **$-574** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.54x |
 
@@ -60,16 +60,16 @@
 | 🟡 FKH | $0.000017 | **1.09x** ($+9) | 1.12x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 Hamster | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Ouroboros | $0.000029 | **0.58x** ($-42) | 1.03x |  | pumpswap | 2026-03-20 01:43 |
-| 🔴 Speak | $0.000023 | **0.53x** ($-47) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
-| 🔴 LIFE | $0.000024 | **0.93x** ($-7) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
+| 🔴 Speak | $0.000023 | **0.51x** ($-49) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
+| 🔴 LIFE | $0.000024 | **0.91x** ($-9) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🟡 LUMO | $0.000027 | **1.44x** ($+44) | 2.26x | ✅ | pumpswap | 2026-03-20 00:48 |
-| 🟡 Saleh | $0.000013 | **1.26x** ($+26) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
+| 🟡 Saleh | $0.000013 | **1.22x** ($+22) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
 | 🟢 WRT | $0.000014 | **2.15x** ($+115) | 2.15x | ✅ | pumpswap | 2026-03-20 00:34 |
 | 🔴 Billy | $0.000011 | **0.81x** ($-19) | 1.18x |  | pumpswap | 2026-03-20 00:23 |
 | 🟡 DOGEFATHER | $0.000013 | **1.18x** ($+18) | 2.36x | ✅ | pumpswap | 2026-03-20 00:01 |
 | 🔴 TIMELESS | $0.000021 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:57 |
 | 🔴 GOBLIN | $0.000015 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-19 23:47 |
-| 🟡 Alien | $0.000014 | **1.40x** ($+40) | 2.92x | ✅ | pumpswap | 2026-03-19 23:47 |
+| 🟡 Alien | $0.000014 | **1.15x** ($+15) | 2.92x | ✅ | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000025 | **1.30x** ($+30) | 1.30x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Patricia | $0.000024 | **0.60x** ($-40) | 1.94x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Monke | $0.000013 | **0.64x** ($-36) | 1.04x |  | pumpswap | 2026-03-19 23:30 |
