@@ -1,6 +1,6 @@
 # Wallet: `DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3`
 
-> [View on Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 11:58 UTC
+> [View on Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 12:03 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-110 |
 | 🏦 Total | **$-110** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 

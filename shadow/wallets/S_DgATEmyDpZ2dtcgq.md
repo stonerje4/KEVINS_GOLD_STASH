@@ -1,6 +1,6 @@
 # Wallet: `DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z`
 
-> [View on Solscan](https://solscan.io/account/DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z) | Updated: 2026-03-20 11:58 UTC
+> [View on Solscan](https://solscan.io/account/DgATEmyDpZ2dtcgqBCdcKVdWJccTfPNMyGw7P29j4e2Z) | Updated: 2026-03-20 12:03 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-19 |
 | 📦 Unrealized | $-29 |
 | 🏦 Total | **$-48** |
-| Best ROI | 0.81x |
-| Avg ROI | 0.81x |
+| Best Trade | 0.8x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 

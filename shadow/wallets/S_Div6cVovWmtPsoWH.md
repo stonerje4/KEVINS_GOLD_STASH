@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 11:58 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 12:03 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 19 (15 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-203 |
-| 📦 Unrealized | $-148 |
+| 📦 Unrealized | $-149 |
 | 🏦 Total | **$-351** |
-| Best ROI | 0.80x |
-| Avg ROI | 0.49x |
+| Best Trade | 0.8x |
+| Avg Peak | 1.6x |
 
 ## Open Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
 
-> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 11:58 UTC
+> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 12:03 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-16 |
-| 📦 Unrealized | $-111 |
-| 🏦 Total | **$-128** |
-| Best ROI | 1.44x |
-| Avg ROI | 0.92x |
+| 📦 Unrealized | $-109 |
+| 🏦 Total | **$-125** |
+| Best Trade | 1.4x |
+| Avg Peak | 2.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SUNSHINE | $0.000006 | **0.50x** ($-50) | 1.47x |  | pumpfun | 2026-03-20 07:56 |
+| 🔴 SUNSHINE | $0.000006 | **0.53x** ($-47) | 1.47x |  | pumpfun | 2026-03-20 07:56 |
 | 🟡 Doolysaurus | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:45 |
 | 🔴 Raccoon | $0.000003 | **0.88x** ($-12) | 1.39x |  | pumpfun | 2026-03-20 07:35 |
 | 🟡 驚き | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:20 |

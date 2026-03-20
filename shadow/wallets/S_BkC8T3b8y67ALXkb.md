@@ -1,23 +1,24 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 11:58 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 12:03 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 70 (67 open, 3 closed) |
+| Positions | 71 (68 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-190 |
-| 📦 Unrealized | $-56 |
-| 🏦 Total | **$-246** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$-224** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WIZARD | $0.000317 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:02 |
 | 🟡 IMAGINE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:56 |
 | 🟡 PIXELS | $0.000184 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:46 |
 | 🟡 Nigel | $0.000244 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:59 |
@@ -84,7 +85,7 @@
 | 🟡 AMBER | $0.000014 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-19 23:21 |
 | 🟢 唐子兵法 | $0.001448 | **3.02x** ($+202) | 3.13x | ✅ | pumpswap | 2026-03-19 22:46 |
 | 🟡 Foodrot | $0.000135 | **1.04x** ($+4) | 1.23x |  | pumpswap | 2026-03-19 22:46 |
-| 🔴 PAD | $0.000019 | **0.92x** ($-8) | 1.07x |  | pumpswap | 2026-03-19 22:37 |
+| 🟡 PAD | $0.000019 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-19 22:37 |
 
 ## Closed Positions
 

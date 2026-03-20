@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 11:58 UTC
+> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 12:03 UTC
 
 ## Summary
 
@@ -9,25 +9,25 @@
 | Positions | 22 (19 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-190 |
-| 📦 Unrealized | $+155 |
-| 🏦 Total | **$-35** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| 📦 Unrealized | $+109 |
+| 🏦 Total | **$-81** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 PLATYPI | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:45 |
-| 🟡 OM | $0.000008 | **1.40x** ($+40) | 1.53x |  | pumpfun | 2026-03-20 10:31 |
-| 🔴 omochi | $0.000023 | **0.90x** ($-10) | 1.05x |  | pumpfun | 2026-03-20 10:29 |
+| 🟡 OM | $0.000008 | **1.39x** ($+39) | 1.53x |  | pumpfun | 2026-03-20 10:31 |
+| 🔴 omochi | $0.000023 | **0.79x** ($-21) | 1.05x |  | pumpfun | 2026-03-20 10:29 |
 | 🟡 SIGNAL | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:26 |
-| 🟡 Imaginify | $0.000009 | **1.39x** ($+39) | 1.72x |  | pumpfun | 2026-03-20 09:42 |
+| 🟡 Imaginify | $0.000009 | **1.31x** ($+31) | 1.72x |  | pumpfun | 2026-03-20 09:42 |
 | 🟡 Zhdun | $0.000024 | **1.54x** ($+54) | 1.54x |  | pumpfun | 2026-03-20 09:07 |
-| 🔴 TRASHBAG | $0.000013 | **0.94x** ($-6) | 1.31x |  | pumpfun | 2026-03-20 08:18 |
+| 🔴 TRASHBAG | $0.000013 | **0.69x** ($-31) | 1.31x |  | pumpfun | 2026-03-20 08:18 |
 | 🟡 ZeroG | $0.000029 | **1.25x** ($+25) | 1.25x |  | pumpfun | 2026-03-20 06:03 |
 | 🟡 Aliens | $0.000104 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:48 |
-| 🔴 TRENCHY | $0.000022 | **0.96x** ($-4) | 1.06x |  | pumpfun | 2026-03-20 04:23 |
+| 🔴 TRENCHY | $0.000022 | **0.97x** ($-3) | 1.06x |  | pumpfun | 2026-03-20 04:23 |
 | 🔴 CHOCOTINA | $0.000007 | **0.77x** ($-23) | 1.14x |  | pumpswap | 2026-03-20 04:17 |
 | 🟡 Dryer | $0.000023 | **1.62x** ($+62) | 1.62x |  | pumpfun | 2026-03-20 03:58 |
 | 🟡 NEMO | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:57 |

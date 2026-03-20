@@ -1,6 +1,6 @@
 # Wallet: `6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG`
 
-> [View on Solscan](https://solscan.io/account/6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG) | Updated: 2026-03-20 11:58 UTC
+> [View on Solscan](https://solscan.io/account/6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG) | Updated: 2026-03-20 12:03 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+49,614 |
-| 🏦 Total | **$+49,614** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+49,589 |
+| 🏦 Total | **$+49,589** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🚀 MSBT | $0.000000 | **317.37x** ($+31,637) | 340.59x | ✅ | pumpfun | 2026-03-20 06:04 |
 | 🚀 DVX | $0.000000 | **735.60x** ($+73,460) | 832.76x | ✅ | pumpfun | 2026-03-19 23:03 |
 | 🚀 IOR | $0.000000 | **401.27x** ($+40,027) | 404.30x | ✅ | pumpfun | 2026-03-19 22:49 |
-| 🚀 LNG | $0.000000 | **194.48x** ($+19,348) | 253.65x | ✅ | pumpfun | 2026-03-19 22:44 |
+| 🚀 LNG | $0.000000 | **193.36x** ($+19,236) | 253.65x | ✅ | pumpfun | 2026-03-19 22:44 |
 | 🟡 Drone | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-19 22:41 |
 
 ## Closed Positions

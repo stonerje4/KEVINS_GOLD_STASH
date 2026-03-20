@@ -1,25 +1,26 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 11:58 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 12:03 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 59 (54 open, 5 closed) |
+| Positions | 60 (55 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
-| 📦 Unrealized | $-123 |
-| 🏦 Total | **$-321** |
-| Best ROI | 1.46x |
-| Avg ROI | 0.60x |
+| 📦 Unrealized | $-104 |
+| 🏦 Total | **$-302** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DAU | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:59 |
 | 🟡 Saleh | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
-| 🟡 fine999.9 | $0.001470 | **1.50x** ($+50) | 1.59x |  | pumpswap | 2026-03-20 11:48 |
+| 🟡 fine999.9 | $0.001470 | **1.70x** ($+70) | 1.70x |  | pumpswap | 2026-03-20 11:48 |
 | 🟡 ceal | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:44 |
 | 🟡 MOCHI | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:41 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
@@ -32,7 +33,7 @@
 | 🟡 Pixels | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
 | 🟡 IMAGINE | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:55 |
 | 🟡 驚き | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:44 |
-| 🔴 Antigravity | $0.000008 | **0.56x** ($-44) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
+| 🔴 Antigravity | $0.000008 | **0.55x** ($-45) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 CHIBI | $0.001779 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 OLAF | $0.000134 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 IMAGINE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
