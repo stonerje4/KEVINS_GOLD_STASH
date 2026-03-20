@@ -9,16 +9,16 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+15 |
-| 🏦 Total | **$+15** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+11 |
+| 🏦 Total | **$+11** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CARLOSRAY | $0.000003 | **1.15x** ($+15) | 1.15x |  | pumpfun | 2026-03-20 15:04 |
+| 🟡 CARLOSRAY | $0.000003 | **1.11x** ($+11) | 1.15x |  | pumpfun | 2026-03-20 15:04 |
 
 ## Closed Positions
 

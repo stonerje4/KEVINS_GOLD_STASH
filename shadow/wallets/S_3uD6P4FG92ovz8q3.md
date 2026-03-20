@@ -9,17 +9,17 @@
 | Positions | 19 (19 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+146 |
-| 🏦 Total | **$+146** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+148 |
+| 🏦 Total | **$+148** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Chuck | $0.000004 | **1.03x** ($+3) | 1.10x |  | pumpfun | 2026-03-20 15:03 |
-| 🟡 SIMULATION | $0.000003 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 15:02 |
+| 🟡 SIMULATION | $0.000003 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 15:02 |
 | 🟡 NBR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 15:00 |
 | 🟡 NBR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🟡 WHOREMOSE | $0.000003 | **1.21x** ($+21) | 1.25x |  | pumpfun | 2026-03-20 14:13 |

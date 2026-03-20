@@ -11,14 +11,14 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+13 |
 | 🏦 Total | **$+13** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 YEPE | $0.000104 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-20 14:29 |
+| 🟡 YEPE | $0.000104 | **1.11x** ($+11) | 1.12x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Agentmaxxing | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:38 |
 
 ## Closed Positions
