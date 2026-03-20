@@ -1,6 +1,6 @@
 # Wallet: `65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa`
 
-> [GMGN](https://gmgn.ai/sol/address/65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa) | [Solscan](https://solscan.io/account/65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa) | Updated: 2026-03-20 18:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa) | [Solscan](https://solscan.io/account/65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa) | Updated: 2026-03-20 18:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-87 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-119** |
+| 📦 Unrealized | $-38 |
+| 🏦 Total | **$-125** |
 | Best ROI | 0.13x |
 | Avg ROI | 0.13x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Possum | $0.000007 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 02:05 |
 | 🟡 PERCOLATOR | $0.000045 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:30 |
-| 🔴 plumber | $0.000063 | **0.67x** ($-33) | 1.08x |  | pumpswap | 2026-03-20 00:58 |
+| 🔴 plumber | $0.000063 | **0.61x** ($-39) | 1.08x |  | pumpswap | 2026-03-20 00:58 |
 | 🟡 TENDIES | $0.000019 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:43 |
 
 ## Closed Positions

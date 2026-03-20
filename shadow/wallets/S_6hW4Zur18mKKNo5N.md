@@ -1,12 +1,12 @@
 # Wallet: `6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt`
 
-> [GMGN](https://gmgn.ai/sol/address/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | [Solscan](https://solscan.io/account/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | Updated: 2026-03-20 18:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | [Solscan](https://solscan.io/account/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | Updated: 2026-03-20 18:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (4 open, 1 closed) |
+| Positions | 6 (5 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-74 |
 | 📦 Unrealized | $-16 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 AIFRUITS | $0.000478 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:33 |
 | 🟡 FOID | $0.000078 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:54 |
 | 🔴 CHIBIELON | $0.000026 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 17:43 |
 | 🟡 Sunshine | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:19 |

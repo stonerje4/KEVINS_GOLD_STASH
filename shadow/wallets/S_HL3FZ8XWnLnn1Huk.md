@@ -1,6 +1,6 @@
 # Wallet: `HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt`
 
-> [GMGN](https://gmgn.ai/sol/address/HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt) | [Solscan](https://solscan.io/account/HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt) | Updated: 2026-03-20 18:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt) | [Solscan](https://solscan.io/account/HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt) | Updated: 2026-03-20 18:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+233 |
-| 🏦 Total | **$+156** |
+| 📦 Unrealized | $+252 |
+| 🏦 Total | **$+175** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.61x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 ApCDe6ti | $0.000006 | **3.40x** ($+240) | 3.88x | ✅ | pumpfun | 2026-03-20 18:17 |
+| 🟢 ApCDe6ti | $0.000006 | **3.86x** ($+286) | 3.88x | ✅ | pumpfun | 2026-03-20 18:17 |
 | 🔴 STRAIT | $0.000010 | **0.47x** ($-53) | 1.16x |  | pumpfun | 2026-03-20 17:00 |
 | 🟢 Hello World! | $0.000009 | **3.94x** ($+294) | 3.94x | ✅ | pumpfun | 2026-03-20 16:50 |
 | 🟢 7EWBKLiT | $0.000015 | **2.44x** ($+144) | 2.44x | ✅ | pumpfun | 2026-03-20 16:02 |

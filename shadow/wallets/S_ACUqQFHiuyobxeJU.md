@@ -1,25 +1,25 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 18:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 18:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (17 open, 9 closed) |
-| W/L | 1/8 (11%) |
-| 💵 Realized | $-489 |
-| 📦 Unrealized | $+15 |
-| 🏦 Total | **$-474** |
+| Positions | 27 (17 open, 10 closed) |
+| W/L | 1/9 (10%) |
+| 💵 Realized | $-551 |
+| 📦 Unrealized | $+34 |
+| 🏦 Total | **$-517** |
 | Best ROI | 1.35x |
-| Avg ROI | 0.46x |
+| Avg ROI | 0.45x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟢 VITALY | $0.000010 | **3.77x** ($+277) | 3.77x | ✅ | pumpfun | 2026-03-20 18:23 |
-| 🟡 ELONIFY | $0.000014 | **1.41x** ($+41) | 1.60x |  | pumpfun | 2026-03-20 18:22 |
+| 🟡 ELONIFY | $0.000014 | **1.60x** ($+60) | 1.60x |  | pumpfun | 2026-03-20 18:22 |
 | 🟡 5bZ8duCe | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 18:05 |
 | 🟡 LIBERTY | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:08 |
 | 🔴 3TWMK851 | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 16:56 |
@@ -40,6 +40,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 8gt5Ls5w | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-20 18:31 → 2026-03-20 18:31 |
 | 🔴 Cm8Bkkgs | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 17:50 → 2026-03-20 17:51 |
 | 🔴 3HbodVsc | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:48 → 2026-03-20 16:49 |
 | 🟡 91ZNjmsj | 1.35x | $+35 | trailing_stop_5x | 4.77x | pumpfun | 2026-03-20 16:48 → 2026-03-20 16:49 |

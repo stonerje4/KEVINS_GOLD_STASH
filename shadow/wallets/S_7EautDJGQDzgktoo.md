@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 18:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 18:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 36 (27 open, 9 closed) |
 | W/L | 0/9 (0%) |
 | 💵 Realized | $-520 |
-| 📦 Unrealized | $-101 |
-| 🏦 Total | **$-621** |
+| 📦 Unrealized | $-102 |
+| 🏦 Total | **$-623** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.42x |
 
@@ -35,7 +35,7 @@
 | 🟡 CL1 | $0.000396 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |
 | 🔴 Downald | $0.000590 | **0.76x** ($-24) | 1.07x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 67 | $0.001291 | **1.20x** ($+20) | 1.23x |  | pumpswap | 2026-03-20 02:57 |
-| 🔴 BIG | $0.000081 | **0.61x** ($-39) | 1.10x |  | pumpswap | 2026-03-20 02:44 |
+| 🔴 BIG | $0.000081 | **0.60x** ($-40) | 1.10x |  | pumpswap | 2026-03-20 02:44 |
 | 🔴 CHANNELS | $0.000026 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 IMAGINE | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:08 |

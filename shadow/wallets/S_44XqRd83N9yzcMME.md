@@ -1,6 +1,6 @@
 # Wallet: `44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw`
 
-> [GMGN](https://gmgn.ai/sol/address/44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw) | [Solscan](https://solscan.io/account/44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw) | Updated: 2026-03-20 18:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw) | [Solscan](https://solscan.io/account/44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw) | Updated: 2026-03-20 18:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-3** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-4** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 BBX | $0.000372 | **1.04x** ($+4) | 1.08x |  | pumpswap | 2026-03-20 17:32 |
+| 🟡 BBX | $0.000372 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 17:32 |
 | 🔴 USRNR | $0.000006 | **0.93x** ($-7) | 1.05x |  | pumpfun | 2026-03-20 06:42 |
 
 ## Closed Positions

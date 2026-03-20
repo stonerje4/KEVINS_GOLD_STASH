@@ -1,24 +1,23 @@
 # Wallet: `Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL`
 
-> [GMGN](https://gmgn.ai/sol/address/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | [Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 18:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | [Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 18:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (7 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-182 |
-| 📦 Unrealized | $-21 |
-| 🏦 Total | **$-203** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| Positions | 10 (6 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-213 |
+| 📦 Unrealized | $-49 |
+| 🏦 Total | **$-262** |
+| Best ROI | 0.69x |
+| Avg ROI | 0.47x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 7ffsfGY6 | $0.000006 | **1.28x** ($+28) | 1.60x |  | pumpfun | 2026-03-20 18:27 |
 | 🔴 imagineslop | $0.000009 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
 | 🟡 4kZQPNoq | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:29 |
@@ -30,6 +29,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 7ffsfGY6 | 0.69x | $-31 | trailing_stop_2x | 2.30x | pumpfun | 2026-03-20 18:27 → 2026-03-20 18:31 |
 | 🔴 LEGENDS | 0.39x | $-61 | stop_loss | 1.27x | pumpfun | 2026-03-20 14:44 → 2026-03-20 15:00 |
 | 🔴 Doolysaurus | 0.39x | $-61 | stop_loss | 1.66x | pumpfun | 2026-03-20 09:27 → 2026-03-20 09:57 |
 | 🔴 Ropet | 0.40x | $-60 | stop_loss | 1.38x | pumpfun | 2026-03-20 08:58 → 2026-03-20 09:14 |

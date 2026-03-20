@@ -1,6 +1,6 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 18:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 18:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 32 (24 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-449 |
-| 📦 Unrealized | $+89 |
-| 🏦 Total | **$-360** |
+| 📦 Unrealized | $+87 |
+| 🏦 Total | **$-361** |
 | Best ROI | 1.10x |
 | Avg ROI | 0.44x |
 
@@ -34,7 +34,7 @@
 | 🟡 Zhdun | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:12 |
 | 🟡 KIMCHI | $0.000435 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:33 |
 | 🔴 IMAGINE | $0.000068 | **0.74x** ($-26) | 1.46x |  | pumpswap | 2026-03-20 08:32 |
-| 🟡 Pixels | $0.000014 | **1.33x** ($+33) | 2.63x | ✅ | pumpswap | 2026-03-20 07:26 |
+| 🟡 Pixels | $0.000014 | **1.31x** ($+31) | 2.63x | ✅ | pumpswap | 2026-03-20 07:26 |
 | 🔴 来根华子 | $0.000018 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
 | 🔴 INCOME | $0.000553 | **0.89x** ($-11) | 1.16x |  | pumpswap | 2026-03-20 06:50 |
 | 🟡 Unemployed | $0.000007 | **1.17x** ($+17) | 1.55x |  | pumpswap | 2026-03-20 06:48 |
