@@ -6,18 +6,18 @@
 
 | Metric | Value |
 |--------|-------|
-| Trades | 1 (1 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | +0.0000 SOL ($+0.00) |
-| ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | -0.0095 SOL |
-| 🏦 Net | **-0.0095 SOL** ($-0.84) |
+| Trades | 1 (0 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | -0.1190 SOL ($-10.53) |
+| ⛽ Gas | 0.0050 SOL |
+| 📦 Unrealized | +0.0000 SOL |
+| 🏦 Net | **-0.1190 SOL** ($-10.53) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 CAT | open | 0.11 | 0.96x | 1.79x | -0.0095 | — |
+| 🔴 CAT | closed | 0.11 | 0.84x | 1.79x | -0.1190 | ghost_close_zero_balance |
 
 ---
 *[← Back to PRD Dashboard](../DASHBOARD.md)*

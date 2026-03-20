@@ -6,19 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Trades | 7 (2 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | -0.3467 SOL ($-30.67) |
-| ⛽ Gas | 0.0219 SOL |
-| 📦 Unrealized | -0.0614 SOL |
-| 🏦 Net | **-0.4081 SOL** ($-36.09) |
+| Trades | 7 (0 open, 7 closed) |
+| W/L | 0/7 (0%) |
+| 💵 Realized | -0.5778 SOL ($-51.12) |
+| ⛽ Gas | 0.0269 SOL |
+| 📦 Unrealized | +0.0000 SOL |
+| 🏦 Net | **-0.5778 SOL** ($-51.12) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 菲比啾比 | open | 0.11 | 0.88x | 1.01x | -0.0181 | — |
-| 🔴 Kin-Kun | open | 0.11 | 0.65x | 1.00x | -0.0433 | — |
+| 🔴 菲比啾比 | closed | 0.11 | 0.88x | 1.01x | -0.1121 | ghost_close_zero_balance |
+| 🔴 Kin-Kun | closed | 0.11 | 0.65x | 1.00x | -0.1190 | ghost_close_zero_balance |
 | 🔴 CHUCK | closed | 0.11 | 0.40x | 1.13x | -0.0713 | stop_loss |
 | 🔴 NOR | closed | 0.11 | 0.39x | 1.03x | -0.0748 | stop_loss |
 | 🔴 CHUCK | closed | 0.11 | 0.72x | 2.82x | -0.0209 | runner_trailing_stop |

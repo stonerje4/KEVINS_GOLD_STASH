@@ -6,19 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Trades | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | +0.0000 SOL ($+0.00) |
+| Trades | 2 (0 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | -0.2242 SOL ($-19.83) |
 | ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | -0.0041 SOL |
-| 🏦 Net | **-0.0041 SOL** ($-0.36) |
+| 📦 Unrealized | +0.0000 SOL |
+| 🏦 Net | **-0.2242 SOL** ($-19.83) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 SHEEN | open | 0.11 | 0.83x | 1.07x | -0.0241 | — |
-| 🟢 Feels | open | 0.11 | 1.23x | 1.87x | +0.0201 | — |
+| 🔴 SHEEN | closed | 0.11 | 0.83x | 1.07x | -0.1121 | ghost_close_zero_balance |
+| 🔴 Feels | closed | 0.11 | 1.23x | 1.87x | -0.1121 | ghost_close_zero_balance |
 
 ---
 *[← Back to PRD Dashboard](../DASHBOARD.md)*

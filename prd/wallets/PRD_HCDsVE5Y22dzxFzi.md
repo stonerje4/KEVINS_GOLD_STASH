@@ -6,22 +6,22 @@
 
 | Metric | Value |
 |--------|-------|
-| Trades | 5 (5 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | +0.0000 SOL ($+0.00) |
-| ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | -0.0091 SOL |
-| 🏦 Net | **-0.0091 SOL** ($-0.80) |
+| Trades | 5 (0 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | -0.5950 SOL ($-52.64) |
+| ⛽ Gas | 0.0250 SOL |
+| 📦 Unrealized | +0.0000 SOL |
+| 🏦 Net | **-0.5950 SOL** ($-52.64) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 OFP | open | 0.11 | 0.97x | 1.00x | -0.0081 | — |
-| 🔴 OSP | open | 0.11 | 0.98x | 1.34x | -0.0072 | — |
-| 🟢 OSP | open | 0.11 | 1.08x | 1.13x | +0.0042 | — |
-| 🔴 CAN | open | 0.11 | 0.98x | 1.00x | -0.0069 | — |
-| 🟢 OSP | open | 0.11 | 1.13x | 1.15x | +0.0089 | — |
+| 🔴 OFP | closed | 0.11 | 0.97x | 1.00x | -0.1190 | ghost_close_zero_balance |
+| 🔴 OSP | closed | 0.11 | 0.98x | 1.34x | -0.1190 | ghost_close_zero_balance |
+| 🔴 OSP | closed | 0.11 | 1.08x | 1.13x | -0.1190 | ghost_close_zero_balance |
+| 🔴 CAN | closed | 0.11 | 0.98x | 1.00x | -0.1190 | ghost_close_zero_balance |
+| 🔴 OSP | closed | 0.11 | 1.13x | 1.15x | -0.1190 | ghost_close_zero_balance |
 
 ---
 *[← Back to PRD Dashboard](../DASHBOARD.md)*
