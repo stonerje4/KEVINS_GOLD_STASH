@@ -1,23 +1,24 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 13:59 UTC
+> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 14:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 31 (29 open, 2 closed) |
+| Positions | 32 (30 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-139 |
 | 📦 Unrealized | $+143 |
 | 🏦 Total | **$+4** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.31x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHUCK | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 pa | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:30 |
 | 🟡 Doolysaurus | $0.000149 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:28 |
 | 🟡 CHIBITRUMP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |

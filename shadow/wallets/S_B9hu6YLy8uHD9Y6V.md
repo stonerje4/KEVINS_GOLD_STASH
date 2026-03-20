@@ -1,18 +1,18 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 13:59 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 14:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 103 (5 open, 98 closed) |
-| W/L | 0/98 (0%) |
-| 💵 Realized | $-9,790 |
+| Positions | 106 (5 open, 101 closed) |
+| W/L | 0/101 (0%) |
+| 💵 Realized | $-10,090 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-9,790** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-10,090** |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -28,6 +28,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:04 → 2026-03-20 14:04 |
+| 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:02 → 2026-03-20 14:02 |
+| 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:00 → 2026-03-20 14:00 |
 | 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:58 → 2026-03-20 13:58 |
 | 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:57 → 2026-03-20 13:57 |
 | 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:55 → 2026-03-20 13:55 |

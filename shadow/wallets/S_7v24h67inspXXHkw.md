@@ -1,23 +1,24 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 13:59 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 34 (34 open, 0 closed) |
+| Positions | 35 (35 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+71 |
-| 🏦 Total | **$+71** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+70 |
+| 🏦 Total | **$+70** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 USGR | $0.000003 | **0.98x** ($-2) | 1.04x |  | pumpfun | 2026-03-20 14:01 |
 | 🟡 War | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:57 |
 | 🟡 USGR | $0.000003 | **1.10x** ($+10) | 1.17x |  | pumpfun | 2026-03-20 13:56 |
 | 🔴 Gg39pYf9 | $0.000001 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 13:29 |

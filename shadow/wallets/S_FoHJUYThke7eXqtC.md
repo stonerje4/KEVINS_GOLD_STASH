@@ -1,24 +1,25 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 13:59 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 14:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 51 (50 open, 1 closed) |
+| Positions | 52 (51 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
-| 📦 Unrealized | $-161 |
-| 🏦 Total | **$+29** |
-| Best ROI | 2.91x |
-| Avg ROI | 2.91x |
+| 📦 Unrealized | $-158 |
+| 🏦 Total | **$+32** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 MOSHI | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 13:35 |
+| 🟡 OKARA | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:59 |
+| 🔴 MOSHI | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 13:35 |
 | 🔴 GROKTIRED | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:34 |
 | 🔴 央视币 | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:24 |
 | 🟡 Chibiguy | $0.000003 | **1.24x** ($+24) | 1.24x |  | pumpfun | 2026-03-20 13:19 |

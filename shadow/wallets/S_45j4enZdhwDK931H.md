@@ -1,16 +1,16 @@
-# Wallet: `4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ`
+# Wallet: `45j4enZdhwDK931HULiv4gGM7H39fb4wHa6CbWTDE8CP`
 
-> [View on Solscan](https://solscan.io/account/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | Updated: 2026-03-20 14:04 UTC
+> [View on Solscan](https://solscan.io/account/45j4enZdhwDK931HULiv4gGM7H39fb4wHa6CbWTDE8CP) | Updated: 2026-03-20 14:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-3** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WIZARD | $0.000335 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:49 |
-| 🔴 TripleT | $0.002434 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:07 |
+| 🟡 TeraFab | $0.000093 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:01 |
 
 ## Closed Positions
 

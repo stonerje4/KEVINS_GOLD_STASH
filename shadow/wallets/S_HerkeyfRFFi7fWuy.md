@@ -1,28 +1,27 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 13:59 UTC
+> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 14:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (7 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-125 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-159** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| Positions | 9 (6 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-187 |
+| 📦 Unrealized | $-19 |
+| 🏦 Total | **$-206** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000006 | **0.96x** ($-4) | 1.02x |  | pumpfun | 2026-03-20 13:58 |
-| 🔴 Chuck | $0.000016 | **0.85x** ($-15) | 1.08x |  | pumpswap | 2026-03-20 13:56 |
-| 🔴 Legoify | $0.000004 | **0.77x** ($-23) | 1.45x |  | pumpswap | 2026-03-20 13:48 |
-| 🔴 AISexual | $0.000007 | **0.46x** ($-54) | 1.12x |  | pumpfun | 2026-03-20 13:37 |
-| 🟡 CC | $0.000008 | **1.62x** ($+62) | 1.76x |  | pumpfun | 2026-03-20 13:29 |
+| 🟡 CHUCK | $0.000006 | **1.81x** ($+81) | 1.82x |  | pumpfun | 2026-03-20 13:58 |
+| 🔴 Chuck | $0.000016 | **0.80x** ($-20) | 1.08x |  | pumpswap | 2026-03-20 13:56 |
+| 🔴 Legoify | $0.000004 | **0.76x** ($-24) | 1.45x |  | pumpswap | 2026-03-20 13:48 |
+| 🔴 AISexual | $0.000007 | **0.43x** ($-57) | 1.12x |  | pumpfun | 2026-03-20 13:37 |
 | 🟡 Sybil  | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 IMAGINE | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:03 |
 
@@ -30,6 +29,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 CC | 0.38x | $-62 | stop_loss | 1.76x | pumpfun | 2026-03-20 13:29 → 2026-03-20 14:00 |
 | 🔴 Sunshine | 0.35x | $-65 | stop_loss | 1.66x | pumpfun | 2026-03-20 13:14 → 2026-03-20 13:37 |
 | 🔴 RULEBOOK | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 12:59 → 2026-03-20 12:59 |
 

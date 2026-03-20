@@ -1,24 +1,23 @@
 # Wallet: `BHe6MxiYqcM58rLvzGWefUq2UfgYJEdA2hnovoguBW6H`
 
-> [View on Solscan](https://solscan.io/account/BHe6MxiYqcM58rLvzGWefUq2UfgYJEdA2hnovoguBW6H) | Updated: 2026-03-20 13:59 UTC
+> [View on Solscan](https://solscan.io/account/BHe6MxiYqcM58rLvzGWefUq2UfgYJEdA2hnovoguBW6H) | Updated: 2026-03-20 14:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (7 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+110 |
-| 🏦 Total | **$+110** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 7 (6 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-62 |
+| 📦 Unrealized | $+135 |
+| 🏦 Total | **$+74** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Coglet | $0.000010 | **0.75x** ($-25) | 1.21x |  | pumpfun | 2026-03-20 13:22 |
 | 🟡 WILLIAMR56748 | $0.000009 | **1.12x** ($+12) | 1.40x |  | pumpfun | 2026-03-20 12:58 |
 | 🟡 Chonk | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
 | 🟡 TANGY | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
@@ -30,6 +29,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Coglet | 0.38x | $-62 | stop_loss | 1.21x | pumpfun | 2026-03-20 13:22 → 2026-03-20 14:02 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

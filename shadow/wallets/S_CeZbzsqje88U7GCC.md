@@ -1,25 +1,24 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 13:59 UTC
+> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 14:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (21 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-165 |
-| 📦 Unrealized | $+127 |
-| 🏦 Total | **$-39** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.67x |
+| Positions | 26 (20 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-227 |
+| 📦 Unrealized | $+152 |
+| 🏦 Total | **$-75** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Legoify | $0.000003 | **0.93x** ($-7) | 1.77x |  | pumpswap | 2026-03-20 13:47 |
-| 🔴 Coglet | $0.000010 | **0.75x** ($-25) | 1.37x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Foodrot | $0.000123 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
 | 🟡 ME | $0.000006 | **1.25x** ($+25) | 1.53x |  | pumpfun | 2026-03-20 12:51 |
@@ -45,6 +44,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 LEGO | 0.39x | $-61 | stop_loss | 1.67x | pumpfun | 2026-03-20 13:47 → 2026-03-20 13:55 |
+| 🔴 Coglet | 0.38x | $-62 | stop_loss | 1.37x | pumpfun | 2026-03-20 13:21 → 2026-03-20 14:02 |
 | 🟡 Trollbot | 1.49x | $+49 | trailing_stop_3x | 3.20x | pumpfun | 2026-03-20 00:31 → 2026-03-20 00:48 |
 | 🔴 Liberty | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-19 23:37 → 2026-03-19 23:37 |
 | 🟡 9c3ps1VC | 0.81x | $-19 | trailing_stop_3x | 2.63x | pumpfun | 2026-03-19 23:34 → 2026-03-20 00:25 |
