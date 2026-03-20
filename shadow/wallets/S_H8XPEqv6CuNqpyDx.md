@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:00 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 34 (23 open, 11 closed) |
+| Positions | 35 (24 open, 11 closed) |
 | W/L | 1/10 (9%) |
 | 💵 Realized | $-407 |
-| 📦 Unrealized | $-329 |
-| 🏦 Total | **$-735** |
+| 📦 Unrealized | $-340 |
+| 🏦 Total | **$-747** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.1x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Sublime | $0.000007 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-20 05:04 |
 | 🟡 94S763Nm | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.67x** ($-33) | 1.54x |  | pumpfun | 2026-03-20 04:14 |
 | 🔴 Arc | $0.000003 | **0.75x** ($-25) | 1.95x |  | pumpfun | 2026-03-20 04:07 |

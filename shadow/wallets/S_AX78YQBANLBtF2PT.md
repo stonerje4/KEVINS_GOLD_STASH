@@ -1,6 +1,6 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 05:00 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 05:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (11 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-92 |
-| 📦 Unrealized | $+129 |
-| 🏦 Total | **$+37** |
+| 📦 Unrealized | $+74 |
+| 🏦 Total | **$-18** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BitPenis | $0.000006 | **0.92x** ($-8) | 1.39x |  | pumpfun | 2026-03-20 04:59 |
-| 🟡 TADC | $0.000018 | **1.41x** ($+41) | 1.59x |  | pumpfun | 2026-03-20 04:34 |
+| 🔴 BitPenis | $0.000006 | **0.45x** ($-55) | 1.39x |  | pumpfun | 2026-03-20 04:59 |
+| 🟡 TADC | $0.000018 | **1.33x** ($+33) | 1.59x |  | pumpfun | 2026-03-20 04:34 |
 | 🟡 HelloWorld! | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 3vvqvjhV | $0.000004 | **0.62x** ($-38) | 1.11x |  | pumpfun | 2026-03-20 04:00 |
 | 🟡 ceal | $0.000031 | **1.17x** ($+17) | 1.17x |  | pumpfun | 2026-03-20 03:33 |

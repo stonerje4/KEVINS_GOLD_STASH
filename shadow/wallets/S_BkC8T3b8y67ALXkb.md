@@ -1,16 +1,16 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 05:00 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 05:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 49 (48 open, 1 closed) |
+| Positions | 50 (49 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-0 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $+4 |
+| 🏦 Total | **$-56** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 NATIVELY | $0.000038 | **1.02x** ($+2) | 1.02x |  | cpmm | 2026-03-20 04:46 |
-| 🟡 MANEKI | $0.000050 | **1.05x** ($+5) | 1.05x |  | cpmm | 2026-03-20 04:46 |
+| 🟡 Momo-chan | $0.000312 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
+| 🟡 NATIVELY | $0.000038 | **1.03x** ($+3) | 1.03x |  | cpmm | 2026-03-20 04:46 |
+| 🟡 MANEKI | $0.000050 | **1.08x** ($+8) | 1.08x |  | cpmm | 2026-03-20 04:46 |
 | 🟡 LUMO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Solana | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Spiderman | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
