@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 04:35 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 04:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 41 (40 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+55 |
-| 🏦 Total | **$+100** |
+| 📦 Unrealized | $+53 |
+| 🏦 Total | **$+98** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 キンくん | $0.000003 | **1.07x** ($+7) | 1.08x |  | pumpfun | 2026-03-20 04:32 |
+| 🟡 キンくん | $0.000003 | **1.04x** ($+4) | 1.08x |  | pumpfun | 2026-03-20 04:32 |
 | 🔴 Nature | $0.000005 | **0.50x** ($-50) | 1.11x |  | pumpfun | 2026-03-20 04:31 |
 | 🟡 MSBT | $0.000003 | **1.56x** ($+56) | 1.56x |  | pumpfun | 2026-03-20 04:23 |
-| 🟡 dryer | $0.000003 | **1.03x** ($+3) | 1.05x |  | pumpfun | 2026-03-20 04:16 |
+| 🟡 dryer | $0.000003 | **1.04x** ($+4) | 1.05x |  | pumpfun | 2026-03-20 04:16 |
 | 🔴 PRVX | $0.000006 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 04:11 |
 | 🟡 spooder | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:08 |
 | 🟡 OPTIMUS | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:43 |

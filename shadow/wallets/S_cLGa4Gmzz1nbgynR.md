@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 04:35 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 04:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 86 (83 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+245 |
-| 🏦 Total | **$+155** |
+| 📦 Unrealized | $+253 |
+| 🏦 Total | **$+163** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -26,9 +26,9 @@
 | 🟡 CLAW3D | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 Solana | $0.000173 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:18 |
-| 🔴 SAID | $0.000274 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
+| 🔴 SAID | $0.000274 | **0.96x** ($-4) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
-| 🔴 Retardmaxx | $0.000356 | **0.97x** ($-3) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
+| 🟡 Retardmaxx | $0.000356 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Rosie | $0.000878 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🔴 WhiteBoy  | $0.000014 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
 | 🟡 OSP | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
@@ -90,7 +90,7 @@
 | 🔴 HOSPICE | $0.000024 | **0.97x** ($-3) | 1.18x |  | pumpswap | 2026-03-19 23:12 |
 | 🔴 NBR | $0.000084 | **0.90x** ($-10) | 1.24x |  | pumpswap | 2026-03-19 23:06 |
 | 🟡 Hamster  | $0.000218 | **1.03x** ($+3) | 1.22x |  | pumpswap | 2026-03-19 23:05 |
-| 🟡 Island | $0.000035 | **1.29x** ($+29) | 1.29x |  | pumpswap | 2026-03-19 23:02 |
+| 🟡 Island | $0.000035 | **1.31x** ($+31) | 1.31x |  | pumpswap | 2026-03-19 23:02 |
 | 🟡 ケイジ | $0.000090 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 PIKAHORSE | $0.000373 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 MIROFISH | $0.000032 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 22:58 |

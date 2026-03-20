@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 04:35 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 04:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 65 (64 open, 1 closed) |
+| Positions | 66 (65 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+156 |
-| 🏦 Total | **$+77** |
+| 📦 Unrealized | $+157 |
+| 🏦 Total | **$+78** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SOLINU | $0.000194 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:37 |
 | 🟡 咕咕嘎嘎 | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 BAGWORKOOR | $0.000047 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 04:20 |
 | 🟡 Foodrot | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:56 |
@@ -27,7 +28,7 @@
 | 🟡 Spiderman | $0.000156 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🔴 CIRCLES | $0.000057 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 Solana | $0.000158 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
-| 🟡 CTWIKI | $0.000052 | **1.08x** ($+8) | 1.09x |  | pumpswap | 2026-03-20 03:17 |
+| 🟡 CTWIKI | $0.000052 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 03:17 |
 | 🟡 Gany | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:13 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 Distorted | $0.001015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:51 |

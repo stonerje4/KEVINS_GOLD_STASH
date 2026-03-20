@@ -1,6 +1,6 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 04:35 UTC
+> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 04:40 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Steak | $0.000005 | **0.97x** ($-3) | 1.05x |  | pumpswap | 2026-03-20 03:52 |
-| 🔴 比比拉布 | $0.000116 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
+| 🔴 比比拉布 | $0.000116 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
 | 🟡 imagine | $0.000004 | **1.02x** ($+2) | 1.37x |  | pumpfun | 2026-03-20 03:07 |
 | 🟡 IMAGINE | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🟡 Futa-kun | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:57 |

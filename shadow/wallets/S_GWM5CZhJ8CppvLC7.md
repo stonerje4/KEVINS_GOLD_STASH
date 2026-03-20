@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 04:35 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 04:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 77 (76 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+13 |
-| 🏦 Total | **$-64** |
+| 📦 Unrealized | $+21 |
+| 🏦 Total | **$-56** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -26,8 +26,8 @@
 | 🟡 Pete | $0.000252 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 CLAW3D | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 OILINU | $0.000078 | **1.04x** ($+4) | 1.08x |  | pumpswap | 2026-03-20 03:18 |
-| 🔴 SAID | $0.000276 | **0.92x** ($-8) | 1.07x |  | pumpswap | 2026-03-20 03:15 |
-| 🔴 Retardmaxx | $0.000354 | **0.97x** ($-3) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
+| 🔴 SAID | $0.000276 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 Retardmaxx | $0.000354 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Machi | $0.000735 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 Rosie | $0.000879 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🟡 Snorp | $0.000215 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
@@ -85,7 +85,7 @@
 | 🟡 buddy | $0.000320 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 HOSPICE | $0.000025 | **0.95x** ($-5) | 1.15x |  | pumpswap | 2026-03-19 23:12 |
 | 🟡 Hamster  | $0.000218 | **1.03x** ($+3) | 1.22x |  | pumpswap | 2026-03-19 23:05 |
-| 🟡 Island | $0.000036 | **1.25x** ($+25) | 1.25x |  | pumpswap | 2026-03-19 23:02 |
+| 🟡 Island | $0.000036 | **1.27x** ($+27) | 1.27x |  | pumpswap | 2026-03-19 23:02 |
 | 🟡 ケイジ | $0.000088 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 Clude | $0.001529 | **0.94x** ($-6) | 1.02x |  | pumpswap | 2026-03-19 22:57 |
 | 🔴 OXIDE | $0.000037 | **0.78x** ($-22) | 1.16x |  | pumpswap | 2026-03-19 22:54 |
