@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (6 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-153 |
-| 📦 Unrealized | $+24,601 |
-| 🏦 Total | **$+24,449** |
+| 📦 Unrealized | $+23,818 |
+| 🏦 Total | **$+23,666** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.3x |
 
@@ -18,12 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Massive | $0.000019 | **1.28x** ($+28) | 1.28x |  | pumpswap | 2026-03-20 01:31 |
+| 🟡 Massive | $0.000019 | **1.19x** ($+19) | 1.30x |  | pumpswap | 2026-03-20 01:31 |
 | 🟡 SHOENICE  | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:04 |
 | 🟢 Grokslop | $0.000014 | **2.67x** ($+167) | 2.67x | ✅ | pumpfun | 2026-03-20 00:54 |
-| 🟡 Pete | $0.000196 | **1.28x** ($+28) | 1.56x |  | pumpswap | 2026-03-20 00:15 |
-| 🟡 Nigel | $0.000200 | **1.08x** ($+8) | 1.33x |  | pumpswap | 2026-03-20 00:02 |
-| 🚀 herm | $0.000000 | **1097.19x** ($+109,619) | 1174.72x | ✅ | pumpswap | 2026-03-19 23:21 |
+| 🟡 Pete | $0.000196 | **1.37x** ($+37) | 1.56x |  | pumpswap | 2026-03-20 00:15 |
+| 🟡 Nigel | $0.000200 | **1.02x** ($+2) | 1.33x |  | pumpswap | 2026-03-20 00:02 |
+| 🚀 herm | $0.000000 | **1062.35x** ($+106,135) | 1174.72x | ✅ | pumpswap | 2026-03-19 23:21 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
-# Wallet: `4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ`
+# Wallet: `FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa`
 
-> [View on Solscan](https://solscan.io/account/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | Updated: 2026-03-20 02:14 UTC
+> [View on Solscan](https://solscan.io/account/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-3** |
+| 📦 Unrealized | $-51 |
+| 🏦 Total | **$-51** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TripleT | $0.002434 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:07 |
+| 🔴 9dixUJjM | $0.000005 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-20 02:11 |
 
 ## Closed Positions
 

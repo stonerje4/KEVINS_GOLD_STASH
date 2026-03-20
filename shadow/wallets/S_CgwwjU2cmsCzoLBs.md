@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (16 open, 13 closed) |
 | W/L | 0/13 (0%) |
 | 💵 Realized | $-900 |
-| 📦 Unrealized | $+197 |
-| 🏦 Total | **$-703** |
+| 📦 Unrealized | $+217 |
+| 🏦 Total | **$-683** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,22 +18,22 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Rosei | $0.000014 | **0.88x** ($-12) | 1.10x |  | pumpswap | 2026-03-19 23:49 |
+| 🔴 Rosei | $0.000014 | **0.97x** ($-3) | 1.10x |  | pumpswap | 2026-03-19 23:49 |
 | 🟡 AINL | $0.000025 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 23:43 |
-| 🟡 CHIBI | $0.000656 | **1.56x** ($+56) | 1.98x |  | pumpswap | 2026-03-19 23:36 |
+| 🟡 CHIBI | $0.000656 | **1.76x** ($+76) | 1.98x |  | pumpswap | 2026-03-19 23:36 |
 | 🔴 Chibify | $0.000004 | **0.89x** ($-11) | 1.03x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 Garbonzo | $0.000009 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 CHIBIELON | $0.000005 | **1.50x** ($+50) | 1.78x |  | pumpswap | 2026-03-19 23:28 |
 | 🟡 Samba | $0.000005 | **1.15x** ($+15) | 1.40x |  | pumpswap | 2026-03-19 23:28 |
 | 🟡 CHOCOTINA | $0.000007 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-19 23:16 |
 | 🟡 TMRW | $0.000008 | **1.27x** ($+27) | 1.30x |  | pumpswap | 2026-03-19 23:09 |
-| 🔴 AIFRUIT | $0.000022 | **0.98x** ($-2) | 1.40x |  | pumpswap | 2026-03-19 23:08 |
-| 🔴 tinfoil | $0.000061 | **0.85x** ($-15) | 1.09x |  | pumpswap | 2026-03-19 23:01 |
-| 🟡 Nigel | $0.000194 | **1.11x** ($+11) | 1.36x |  | pumpswap | 2026-03-19 22:52 |
+| 🔴 AIFRUIT | $0.000022 | **0.96x** ($-4) | 1.40x |  | pumpswap | 2026-03-19 23:08 |
+| 🔴 tinfoil | $0.000061 | **0.82x** ($-18) | 1.09x |  | pumpswap | 2026-03-19 23:01 |
+| 🟡 Nigel | $0.000194 | **1.05x** ($+5) | 1.36x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 TRAITOR | $0.000003 | **1.41x** ($+41) | 2.80x | ✅ | pumpswap | 2026-03-19 22:50 |
 | 🟡 NIGGA | $0.000014 | **1.08x** ($+8) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
-| 🟡 Pete | $0.000161 | **1.56x** ($+56) | 1.90x |  | pumpswap | 2026-03-19 22:49 |
-| 🟡 BBX | $0.000441 | **1.21x** ($+21) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
+| 🟡 Pete | $0.000161 | **1.67x** ($+67) | 1.90x |  | pumpswap | 2026-03-19 22:49 |
+| 🟡 BBX | $0.000441 | **1.16x** ($+16) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
 

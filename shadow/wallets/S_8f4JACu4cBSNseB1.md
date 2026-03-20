@@ -1,16 +1,16 @@
 # Wallet: `8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY`
 
-> [View on Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (6 open, 3 closed) |
+| Positions | 10 (7 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-98 |
-| 📦 Unrealized | $+74 |
-| 🏦 Total | **$-23** |
+| 📦 Unrealized | $+73 |
+| 🏦 Total | **$-24** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.9x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 IMAGINE | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:14 |
 | 🟡 SHOENICE  | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
-| 🟡 Optimistic | $0.000702 | **1.05x** ($+5) | 1.28x |  | pumpswap | 2026-03-20 00:44 |
+| 🔴 Optimistic | $0.000702 | **0.95x** ($-5) | 1.28x |  | pumpswap | 2026-03-20 00:44 |
 | 🔴 TripleT | $0.002509 | **0.94x** ($-6) | 1.03x |  | pumpswap | 2026-03-20 00:37 |
 | 🟡 BACK | $0.000032 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-19 23:54 |
-| 🟢 Pete | $0.000115 | **2.18x** ($+118) | 2.66x | ✅ | pumpswap | 2026-03-19 22:44 |
-| 🟡 Snorp | $0.000237 | **1.01x** ($+1) | 1.14x |  | pumpswap | 2026-03-19 22:38 |
+| 🟢 Pete | $0.000115 | **2.33x** ($+133) | 2.66x | ✅ | pumpswap | 2026-03-19 22:44 |
+| 🟡 Snorp | $0.000237 | **1.02x** ($+2) | 1.14x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

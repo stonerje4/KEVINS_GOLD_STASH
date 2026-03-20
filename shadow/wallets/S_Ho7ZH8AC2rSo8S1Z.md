@@ -1,6 +1,6 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [View on Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-84** |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$-77** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,12 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 JUMP | $0.000018 | **0.99x** ($-1) | 1.74x |  | pumpfun | 2026-03-20 02:01 |
+| 🔴 JUMP | $0.000018 | **0.90x** ($-10) | 1.74x |  | pumpfun | 2026-03-20 02:01 |
 | 🔴 bear | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-20 00:20 |
 | 🔴 Machi | $0.000832 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-19 23:14 |
 | 🔴 Record | $0.000011 | **0.81x** ($-19) | 1.34x |  | pumpfun | 2026-03-19 23:11 |
 | 🔴 PEPE | $0.000010 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-19 23:06 |
-| 🟡 Spiderman | $0.000110 | **1.59x** ($+59) | 1.74x |  | pumpswap | 2026-03-19 22:35 |
+| 🟡 Spiderman | $0.000110 | **1.75x** ($+75) | 1.87x |  | pumpswap | 2026-03-19 22:35 |
 
 ## Closed Positions
 

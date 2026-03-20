@@ -1,16 +1,16 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (7 open, 6 closed) |
+| Positions | 14 (8 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-170 |
-| 📦 Unrealized | $+209 |
-| 🏦 Total | **$+39** |
+| 📦 Unrealized | $+211 |
+| 🏦 Total | **$+41** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.0x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
 | 🟢 9Yqs3sVA | $0.000008 | **4.35x** ($+335) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
 | 🟡 DICKUS | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:34 |
 | 🟡 SHOENICE  | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:05 |
 | 🟡 Grokslop | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 01:01 |
-| 🟡 CHIBI | $0.000937 | **1.09x** ($+9) | 1.39x |  | pumpswap | 2026-03-20 00:46 |
+| 🟡 CHIBI | $0.000937 | **1.23x** ($+23) | 1.39x |  | pumpswap | 2026-03-20 00:46 |
 | 🟡 TENDIES | $0.000054 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:01 |
-| 🔴 LIBERTY | $0.000049 | **0.89x** ($-11) | 1.71x |  | pumpswap | 2026-03-19 23:35 |
+| 🔴 LIBERTY | $0.000049 | **0.78x** ($-22) | 1.71x |  | pumpswap | 2026-03-19 23:35 |
 
 ## Closed Positions
 

@@ -1,18 +1,18 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
+| Positions | 3 (1 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-181 |
 | 📦 Unrealized | $+57 |
-| 🏦 Total | **$+57** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 🏦 Total | **$-124** |
+| Best Trade | 0.1x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -24,6 +24,8 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 ShowMore | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:12 → 2026-03-20 02:12 |
+| 🔴 ShowMore | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:12 → 2026-03-20 02:12 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

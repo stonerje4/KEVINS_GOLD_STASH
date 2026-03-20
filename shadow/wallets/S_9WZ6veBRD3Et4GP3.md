@@ -1,6 +1,6 @@
 # Wallet: `9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ`
 
-> [View on Solscan](https://solscan.io/account/9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 AIFRUITS | $0.000635 | **1.27x** ($+27) | 1.59x |  | pumpswap | 2026-03-19 23:45 |
+| 🟡 AIFRUITS | $0.000635 | **1.28x** ($+28) | 1.59x |  | pumpswap | 2026-03-19 23:45 |
 | 🔴 SEALVESTER | $0.000004 | **0.57x** ($-43) | 1.14x |  | pumpfun | 2026-03-19 23:31 |
 | 🔴 ישראל | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-19 23:27 |
 | 🔴 tendies | $0.000005 | **0.70x** ($-30) | 1.05x |  | pumpfun | 2026-03-19 22:38 |

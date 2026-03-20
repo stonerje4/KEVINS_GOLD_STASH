@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (22 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-73 |
-| 🏦 Total | **$-73** |
+| 📦 Unrealized | $-71 |
+| 🏦 Total | **$-71** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -34,7 +34,7 @@
 | 🔴 3cUc5YtL | $0.000003 | **0.86x** ($-14) | 1.16x |  | pumpfun | 2026-03-19 23:54 |
 | 🟡 Trenchies | $0.000003 | **1.62x** ($+62) | 1.70x |  | pumpfun | 2026-03-19 23:52 |
 | 🔴 GQqH3H3a | $0.000003 | **0.90x** ($-10) | 1.29x |  | pumpfun | 2026-03-19 23:49 |
-| 🟢 SHELBY | $0.000003 | **3.35x** ($+235) | 4.78x | ✅ | pumpfun | 2026-03-19 23:47 |
+| 🟢 SHELBY | $0.000003 | **3.41x** ($+241) | 4.78x | ✅ | pumpfun | 2026-03-19 23:47 |
 | 🔴 XGqX2y8e | $0.000003 | **0.84x** ($-16) | 1.23x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 GKRgZZZi | $0.000003 | **0.87x** ($-13) | 1.20x |  | pumpfun | 2026-03-19 23:44 |
 | 🔴 ALF | $0.000003 | **0.96x** ($-4) | 1.03x |  | pumpfun | 2026-03-19 23:15 |

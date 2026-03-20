@@ -1,6 +1,6 @@
 # Wallet: `3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3`
 
-> [View on Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+37 |
-| 🏦 Total | **$+37** |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$+38** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 UGOR | $0.000019 | **1.47x** ($+47) | 1.59x |  | pumpswap | 2026-03-20 00:58 |
+| 🟡 UGOR | $0.000019 | **1.53x** ($+53) | 1.59x |  | pumpswap | 2026-03-20 00:58 |
 | 🟡 SPACEXIPO | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-19 23:12 |
 | 🔴 ROS | $0.000009 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-19 22:43 |
 | 🟡 TRN | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 22:43 |
-| 🟡 BBX | $0.000480 | **1.11x** ($+11) | 1.41x |  | pumpswap | 2026-03-19 22:41 |
+| 🟡 BBX | $0.000480 | **1.06x** ($+6) | 1.41x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
 

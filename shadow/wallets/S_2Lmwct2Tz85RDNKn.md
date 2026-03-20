@@ -1,6 +1,6 @@
 # Wallet: `2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT`
 
-> [View on Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-21 |
-| 🏦 Total | **$-21** |
+| 📦 Unrealized | $+13 |
+| 🏦 Total | **$+13** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Goose | $0.000032 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 01:56 |
-| 🔴 PIKE | $0.000039 | **0.94x** ($-6) | 1.10x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goose | $0.000032 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-20 01:56 |
+| 🔴 PIKE | $0.000039 | **0.95x** ($-5) | 1.10x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

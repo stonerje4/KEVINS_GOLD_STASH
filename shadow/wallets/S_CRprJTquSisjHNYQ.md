@@ -1,6 +1,6 @@
 # Wallet: `CRprJTquSisjHNYQnpn7NpwiyALA6gGBJTwDkH1bVYHD`
 
-> [View on Solscan](https://solscan.io/account/CRprJTquSisjHNYQnpn7NpwiyALA6gGBJTwDkH1bVYHD) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/CRprJTquSisjHNYQnpn7NpwiyALA6gGBJTwDkH1bVYHD) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+21 |
-| 🏦 Total | **$+21** |
+| 📦 Unrealized | $+18 |
+| 🏦 Total | **$+18** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CLAW3D | $0.000054 | **1.21x** ($+21) | 1.97x |  | pumpswap | 2026-03-19 23:11 |
+| 🟡 CLAW3D | $0.000054 | **1.18x** ($+18) | 1.97x |  | pumpswap | 2026-03-19 23:11 |
 
 ## Closed Positions
 

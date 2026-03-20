@@ -1,6 +1,6 @@
 # Wallet: `FBmjfKzJHKshx5RnZVjqBFDJ3mjh7fF9KtBh8EtcxTEK`
 
-> [View on Solscan](https://solscan.io/account/FBmjfKzJHKshx5RnZVjqBFDJ3mjh7fF9KtBh8EtcxTEK) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/FBmjfKzJHKshx5RnZVjqBFDJ3mjh7fF9KtBh8EtcxTEK) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-26 |
-| 🏦 Total | **$-26** |
+| 📦 Unrealized | $-36 |
+| 🏦 Total | **$-36** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 nuggets | $0.000003 | **0.95x** ($-5) | 1.21x |  | pumpswap | 2026-03-19 23:55 |
-| 🔴 LIBERTY | $0.000055 | **0.80x** ($-20) | 1.53x |  | pumpswap | 2026-03-19 23:42 |
+| 🔴 LIBERTY | $0.000055 | **0.69x** ($-31) | 1.53x |  | pumpswap | 2026-03-19 23:42 |
 
 ## Closed Positions
 

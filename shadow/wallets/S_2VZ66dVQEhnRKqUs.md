@@ -1,16 +1,16 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (9 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-189 |
-| 📦 Unrealized | $-142 |
-| 🏦 Total | **$-331** |
+| Positions | 13 (9 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-249 |
+| 📦 Unrealized | $-89 |
+| 🏦 Total | **$-338** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 IMAGINE | $0.000007 | **0.45x** ($-55) | 1.00x |  | pumpswap | 2026-03-20 02:06 |
+| 🟡 Fro | $0.000265 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 02:10 |
 | 🔴 UBT | $0.000007 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 01:32 |
-| 🔴 Cyberfy | $0.000003 | **0.98x** ($-2) | 1.17x |  | pumpfun | 2026-03-20 01:14 |
+| 🔴 Cyberfy | $0.000003 | **0.92x** ($-8) | 1.17x |  | pumpfun | 2026-03-20 01:14 |
 | 🔴 DECEL | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 01:06 |
 | 🔴 GDhuS8NJ | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-19 23:26 |
 | 🔴 Record | $0.000010 | **0.90x** ($-10) | 1.47x |  | pumpfun | 2026-03-19 23:10 |
@@ -32,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 IMAGINE | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:06 → 2026-03-20 02:10 |
 | 🔴 Cyberfy | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 00:39 → 2026-03-20 01:10 |
 | 🔴 Massive | 0.39x | $-61 | stop_loss | 1.13x | pumpswap | 2026-03-19 23:53 → 2026-03-20 01:21 |
 | 🔴 Attention | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:31 → 2026-03-20 01:01 |

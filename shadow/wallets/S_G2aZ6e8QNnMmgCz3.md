@@ -1,6 +1,6 @@
 # Wallet: `G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W`
 
-> [View on Solscan](https://solscan.io/account/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | Updated: 2026-03-20 02:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+23 |
-| 🏦 Total | **$+23** |
+| 📦 Unrealized | $+12 |
+| 🏦 Total | **$+12** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Squishy | $0.000018 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 01:36 |
-| 🟡 AMBALABU | $0.000064 | **1.12x** ($+12) | 1.17x |  | pumpswap | 2026-03-20 01:35 |
+| 🟡 Squishy | $0.000018 | **1.06x** ($+6) | 1.12x |  | pumpswap | 2026-03-20 01:36 |
+| 🟡 AMBALABU | $0.000064 | **1.06x** ($+6) | 1.17x |  | pumpswap | 2026-03-20 01:35 |
 
 ## Closed Positions
 
