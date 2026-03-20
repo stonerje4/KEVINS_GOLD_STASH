@@ -1,25 +1,25 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 18:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 18:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (9 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-107 |
-| 📦 Unrealized | $+242 |
-| 🏦 Total | **$+135** |
+| Positions | 12 (9 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-198 |
+| 📦 Unrealized | $+241 |
+| 🏦 Total | **$+43** |
 | Best ROI | 0.85x |
-| Avg ROI | 0.47x |
+| Avg ROI | 0.34x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 IShowSpeed | $0.000009 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 17:26 |
-| 🟡 unemployed | $0.000006 | **1.29x** ($+29) | 1.29x |  | pumpswap | 2026-03-20 17:23 |
+| 🟡 unemployed | $0.000006 | **1.28x** ($+28) | 1.29x |  | pumpswap | 2026-03-20 17:23 |
 | 🟡 TGR | $0.000008 | **1.09x** ($+9) | 1.21x |  | pumpfun | 2026-03-20 16:14 |
 | 🟡 Monke | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🟡 OSP | $0.000020 | **1.27x** ($+27) | 1.39x |  | pumpfun | 2026-03-20 05:22 |
@@ -32,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 WIF | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 18:03 → 2026-03-20 18:03 |
 | 🔴 Pixel | 0.08x | $-92 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:34 → 2026-03-20 16:38 |
 | 🟡 IShowSpeed | 0.85x | $-15 | trailing_stop_2x | 2.23x | pumpfun | 2026-03-20 02:02 → 2026-03-20 02:06 |
 

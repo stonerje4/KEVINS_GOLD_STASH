@@ -1,16 +1,16 @@
 # Wallet: `BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny`
 
-> [GMGN](https://gmgn.ai/sol/address/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | [Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 18:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | [Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 18:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (6 open, 3 closed) |
+| Positions | 10 (7 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-189 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$-161** |
+| 📦 Unrealized | $+36 |
+| 🏦 Total | **$-153** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.37x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chonk | $0.000007 | **1.09x** ($+9) | 1.17x |  | pumpfun | 2026-03-20 18:00 |
 | 🟡 MOSHI | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟢 Chuck | $0.000103 | **2.74x** ($+174) | 4.70x | ✅ | pumpswap | 2026-03-20 13:54 |
 | 🟡 PHM | $0.000006 | **1.41x** ($+41) | 1.41x |  | pumpfun | 2026-03-20 13:21 |

@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 18:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 18:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 77 (67 open, 10 closed) |
 | W/L | 2/8 (20%) |
 | 💵 Realized | $-422 |
-| 📦 Unrealized | $-49 |
-| 🏦 Total | **$-471** |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$-468** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.58x |
 
@@ -24,7 +24,7 @@
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
 | 🟡 Dryer | $0.000016 | **1.75x** ($+75) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |
 | 🟡 LAYOFF | $0.000155 | **1.06x** ($+6) | 1.13x |  | pumpswap | 2026-03-20 15:16 |
-| 🟡 YEPE | $0.000101 | **1.34x** ($+34) | 1.68x |  | pumpswap | 2026-03-20 15:11 |
+| 🟡 YEPE | $0.000101 | **1.36x** ($+36) | 1.68x |  | pumpswap | 2026-03-20 15:11 |
 | 🔴 clod | $0.000024 | **1.00x** ($-0) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 Chuck | $0.000485 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
 | 🟡 Chuck | $0.000346 | **1.78x** ($+78) | 2.38x | ✅ | pumpswap | 2026-03-20 14:53 |

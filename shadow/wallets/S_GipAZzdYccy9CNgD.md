@@ -1,25 +1,25 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 18:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 18:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (11 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-267 |
-| 📦 Unrealized | $+343 |
-| 🏦 Total | **$+76** |
+| Positions | 16 (11 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-357 |
+| 📦 Unrealized | $+342 |
+| 🏦 Total | **$-15** |
 | Best ROI | 0.80x |
-| Avg ROI | 0.33x |
+| Avg ROI | 0.29x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 IShowSpeed | $0.000008 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 17:26 |
-| 🟡 unemployed | $0.000006 | **1.33x** ($+33) | 1.33x |  | pumpswap | 2026-03-20 17:23 |
+| 🟡 unemployed | $0.000006 | **1.32x** ($+32) | 1.33x |  | pumpswap | 2026-03-20 17:23 |
 | 🟡 TGR | $0.000008 | **1.05x** ($+5) | 1.15x |  | pumpfun | 2026-03-20 16:14 |
 | 🟡 Monke | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
 | 🟡 OSP | $0.000019 | **1.30x** ($+30) | 1.43x |  | pumpfun | 2026-03-20 05:22 |
@@ -34,6 +34,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 WIF | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 18:03 → 2026-03-20 18:03 |
 | 🔴 Pixel | 0.08x | $-92 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:34 → 2026-03-20 16:38 |
 | 🔴 fine999.9 | 0.35x | $-65 | stop_loss | 1.03x | pumpfun | 2026-03-20 03:28 → 2026-03-20 03:30 |
 | 🟡 IShowSpeed | 0.80x | $-20 | trailing_stop_2x | 2.29x | pumpfun | 2026-03-20 02:02 → 2026-03-20 02:06 |

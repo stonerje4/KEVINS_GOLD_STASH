@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 18:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 18:05 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Sunshine | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:53 |
-| 🔴 Civil Claude | $0.000023 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-20 17:32 |
+| 🔴 Civil Claude | $0.000023 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 17:32 |
 | 🟡 twump | $0.000007 | **1.16x** ($+16) | 1.19x |  | pumpfun | 2026-03-20 17:31 |
 | 🟡 SCELON | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:49 |
 | 🟡 JupUSD | $0.182981 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 07:49 |

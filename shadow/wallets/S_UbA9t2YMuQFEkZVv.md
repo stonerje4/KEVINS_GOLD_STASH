@@ -1,6 +1,6 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [GMGN](https://gmgn.ai/sol/address/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | [Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 18:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | [Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 18:05 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $+86 |
-| 🏦 Total | **$+26** |
+| 🏦 Total | **$+25** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 

@@ -1,16 +1,16 @@
 # Wallet: `Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR`
 
-> [GMGN](https://gmgn.ai/sol/address/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | [Solscan](https://solscan.io/account/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | Updated: 2026-03-20 18:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | [Solscan](https://solscan.io/account/Gd7avc97eNHv3xXu1YmRrz9qC8ZaHcG6ReUMheMhwNzR) | Updated: 2026-03-20 18:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (2 open, 4 closed) |
+| Positions | 7 (3 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-216 |
-| 📦 Unrealized | $+69 |
-| 🏦 Total | **$-147** |
+| 📦 Unrealized | $+27 |
+| 🏦 Total | **$-189** |
 | Best ROI | 0.72x |
 | Avg ROI | 0.46x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 poundcake | $0.000019 | **0.58x** ($-42) | 1.00x |  | pumpfun | 2026-03-20 18:03 |
 | 🟢 DICKUS | $0.000009 | **4.05x** ($+305) | 4.05x | ✅ | pumpfun | 2026-03-20 00:47 |
 | 🔴 9pVz3EK1 | $0.000005 | **0.47x** ($-53) | 1.33x |  | pumpfun | 2026-03-20 00:40 |
 

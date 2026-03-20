@@ -1,16 +1,16 @@
 # Wallet: `GtucwWZjw8GNhtdyj7f5nj47aE1guFD3QL3JfU7drbUZ`
 
-> [GMGN](https://gmgn.ai/sol/address/GtucwWZjw8GNhtdyj7f5nj47aE1guFD3QL3JfU7drbUZ) | [Solscan](https://solscan.io/account/GtucwWZjw8GNhtdyj7f5nj47aE1guFD3QL3JfU7drbUZ) | Updated: 2026-03-20 18:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/GtucwWZjw8GNhtdyj7f5nj47aE1guFD3QL3JfU7drbUZ) | [Solscan](https://solscan.io/account/GtucwWZjw8GNhtdyj7f5nj47aE1guFD3QL3JfU7drbUZ) | Updated: 2026-03-20 18:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (1 open, 3 closed) |
+| Positions | 5 (2 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-149 |
-| 📦 Unrealized | $+127 |
-| 🏦 Total | **$-22** |
+| 📦 Unrealized | $+89 |
+| 🏦 Total | **$-60** |
 | Best ROI | 0.79x |
 | Avg ROI | 0.50x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 poundcake | $0.000018 | **0.62x** ($-38) | 1.00x |  | pumpfun | 2026-03-20 18:03 |
 | 🟢 BBdd6gHX | $0.000009 | **4.17x** ($+317) | 4.17x | ✅ | pumpfun | 2026-03-19 23:24 |
 
 ## Closed Positions
