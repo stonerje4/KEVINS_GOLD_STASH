@@ -1,6 +1,6 @@
 # Wallet: `BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ`
 
-> [GMGN](https://gmgn.ai/sol/address/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | [Solscan](https://solscan.io/account/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | Updated: 2026-03-20 23:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | [Solscan](https://solscan.io/account/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | Updated: 2026-03-20 23:55 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WRT | $0.000023 | **0.68x** ($-32) | 1.34x |  | pumpswap | 2026-03-20 12:11 |
+| 🔴 WRT | $0.000023 | **0.67x** ($-33) | 1.34x |  | pumpswap | 2026-03-20 12:11 |
 | 🔴 NBR | $0.000024 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 NBR | $0.000016 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 12:02 |
 

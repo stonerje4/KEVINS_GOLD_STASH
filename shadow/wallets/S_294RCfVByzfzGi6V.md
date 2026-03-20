@@ -1,6 +1,6 @@
 # Wallet: `294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN`
 
-> [GMGN](https://gmgn.ai/sol/address/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | [Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 23:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | [Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 23:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (12 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-124 |
-| 📦 Unrealized | $-113 |
-| 🏦 Total | **$-237** |
+| 📦 Unrealized | $-114 |
+| 🏦 Total | **$-238** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -23,7 +23,7 @@
 | 🔴 CAT | $0.000007 | **0.69x** ($-31) | 1.08x |  | pumpfun | 2026-03-20 19:19 |
 | 🔴 TITUATION | $0.000040 | **0.83x** ($-17) | 1.26x |  | pumpswap | 2026-03-20 18:37 |
 | 🟡 ChibiTrump | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:08 |
-| 🔴 CHIBI | $0.000017 | **0.44x** ($-56) | 1.37x |  | pumpfun | 2026-03-20 12:30 |
+| 🔴 CHIBI | $0.000017 | **0.43x** ($-57) | 1.37x |  | pumpfun | 2026-03-20 12:30 |
 | 🔴 Rosei | $0.000018 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 11:46 |
 | 🟡 DICKUS | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:31 |
 | 🔴 JAMES | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpswap | 2026-03-20 02:04 |
