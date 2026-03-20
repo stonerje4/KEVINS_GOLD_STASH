@@ -1,6 +1,6 @@
 # Wallet: `J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT`
 
-> [View on Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 03:39 UTC
+> [View on Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 03:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-63 |
-| 📦 Unrealized | $+12 |
-| 🏦 Total | **$-52** |
+| 📦 Unrealized | $+21 |
+| 🏦 Total | **$-42** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Floki | $0.000124 | **1.33x** ($+33) | 1.56x |  | pumpswap | 2026-03-20 03:24 |
+| 🟡 Floki | $0.000124 | **1.43x** ($+43) | 1.56x |  | pumpswap | 2026-03-20 03:24 |
 | 🔴 CHIBIMINAJ | $0.000012 | **0.79x** ($-21) | 1.47x |  | pumpfun | 2026-03-19 23:43 |
 
 ## Closed Positions

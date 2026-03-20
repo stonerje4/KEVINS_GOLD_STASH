@@ -1,16 +1,16 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 03:39 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 03:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 63 (52 open, 11 closed) |
+| Positions | 65 (54 open, 11 closed) |
 | W/L | 0/11 (0%) |
 | 💵 Realized | $-533 |
-| 📦 Unrealized | $+183 |
-| 🏦 Total | **$-349** |
+| 📦 Unrealized | $+188 |
+| 🏦 Total | **$-345** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,9 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 mogging | $0.000049 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 03:42 |
+| 🟡 Solana | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
-| 🟡 Floki | $0.000134 | **1.24x** ($+24) | 1.45x |  | pumpswap | 2026-03-20 03:31 |
-| 🟡 SAID | $0.000270 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 Floki | $0.000134 | **1.32x** ($+32) | 1.45x |  | pumpswap | 2026-03-20 03:31 |
+| 🟡 SAID | $0.000270 | **1.02x** ($+2) | 1.09x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 IMAGINE | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🔴 APES | $0.000234 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🟡 Momo-chan | $0.000375 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:44 |

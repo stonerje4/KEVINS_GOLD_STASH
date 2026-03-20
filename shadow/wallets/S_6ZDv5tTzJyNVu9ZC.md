@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 03:39 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 03:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 115 (114 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+195 |
-| 📦 Unrealized | $+424 |
-| 🏦 Total | **$+619** |
+| 📦 Unrealized | $+429 |
+| 🏦 Total | **$+624** |
 | Best Trade | 2.9x |
 | Avg Peak | 9.8x |
 
@@ -21,9 +21,9 @@
 | 🟡 AIFRUITS | $0.000658 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 UGOR | $0.000906 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000101 | **1.35x** ($+35) | 1.38x |  | pumpswap | 2026-03-20 03:23 |
-| 🟡 OILINU | $0.000077 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 03:18 |
-| 🟡 SAID | $0.000274 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 BioLLM | $0.000101 | **1.41x** ($+41) | 1.41x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 OILINU | $0.000077 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-20 03:18 |
+| 🟡 SAID | $0.000274 | **1.01x** ($+1) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 UBT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:05 |
 | 🟡 AFC | $0.000005 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 03:03 |
@@ -123,7 +123,7 @@
 | 🟡 MIROFISH | $0.000031 | **1.05x** ($+5) | 1.17x |  | pumpswap | 2026-03-19 22:58 |
 | 🟡 Geeked | $0.000021 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-19 22:57 |
 | 🟡 Noesis | $0.000326 | **1.06x** ($+6) | 1.11x |  | pumpswap | 2026-03-19 22:57 |
-| 🟡 mogging | $0.000044 | **1.09x** ($+9) | 1.19x |  | pumpswap | 2026-03-19 22:55 |
+| 🟡 mogging | $0.000044 | **1.12x** ($+12) | 1.19x |  | pumpswap | 2026-03-19 22:55 |
 | 🟡 DEEPSEEKV4 | $0.000039 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 AMBER | $0.000014 | **1.00x** ($-0) | 1.05x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 DLSS5 | $0.000026 | **1.00x** ($+0) | 1.09x |  | pumpswap | 2026-03-19 22:52 |
