@@ -1,23 +1,24 @@
 # Wallet: `ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F`
 
-> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 13:44 UTC
+> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 13:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (18 open, 0 closed) |
+| Positions | 19 (19 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+38 |
 | 🏦 Total | **$+38** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 BigDance | $0.000211 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 13:45 |
 | 🟡 ME | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:37 |
 | 🟡 Foodrot | $0.000148 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 Fro | $0.000161 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |

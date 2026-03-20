@@ -1,30 +1,31 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 13:44 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 13:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 416 (411 open, 5 closed) |
+| Positions | 417 (412 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,127 |
-| 🏦 Total | **$-1,213** |
-| Best ROI | 2.75x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-1,130 |
+| 🏦 Total | **$-1,216** |
+| Best Trade | 2.8x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Yahu | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🟡 我的刀盾 | $0.003172 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
-| 🔴 LUNAR | $0.000040 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
+| 🔴 LUNAR | $0.000040 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 BBX | $0.000129 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:20 |
 | 🟡 LAYOFF | $0.000271 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🔴 Ava | $0.000016 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
-| 🔴 shitcoin | $0.000409 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
-| 🔴 Goyim | $0.000707 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 13:06 |
+| 🔴 shitcoin | $0.000409 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
+| 🔴 Goyim | $0.000707 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:06 |
 | 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
 | 🟡 KAGE | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:47 |
 | 🟡 ZENT | $0.000131 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:45 |

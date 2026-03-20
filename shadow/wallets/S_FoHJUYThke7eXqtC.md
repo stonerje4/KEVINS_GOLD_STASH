@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 13:44 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 13:49 UTC
 
 ## Summary
 
@@ -9,19 +9,19 @@
 | Positions | 51 (50 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
-| 📦 Unrealized | $-165 |
-| 🏦 Total | **$+25** |
-| Best ROI | 2.91x |
-| Avg ROI | 2.91x |
+| 📦 Unrealized | $-167 |
+| 🏦 Total | **$+23** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 MOSHI | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 13:35 |
-| 🔴 GROKTIRED | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 13:34 |
+| 🔴 GROKTIRED | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:34 |
 | 🔴 央视币 | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:24 |
-| 🟡 Chibiguy | $0.000003 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 13:19 |
+| 🟡 Chibiguy | $0.000003 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 13:19 |
 | 🟡 GAAS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:11 |
 | 🔴 CJELL | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:05 |
 | 🟡 HIDE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:28 |

@@ -1,24 +1,25 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [View on Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 13:44 UTC
+> [View on Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 13:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (14 open, 2 closed) |
+| Positions | 17 (15 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-134 |
-| 📦 Unrealized | $-100 |
-| 🏦 Total | **$-234** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| 📦 Unrealized | $-150 |
+| 🏦 Total | **$-283** |
+| Best Trade | 0.4x |
+| Avg Peak | 2.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 AC3ydFNc | $0.000013 | **2.43x** ($+143) | 2.82x | ✅ | pumpfun | 2026-03-20 13:25 |
+| 🔴 7sc86ARX | $0.000003 | **0.88x** ($-12) | 1.15x |  | pumpfun | 2026-03-20 13:47 |
+| 🟡 AC3ydFNc | $0.000013 | **1.69x** ($+69) | 2.82x | ✅ | pumpfun | 2026-03-20 13:25 |
 | 🔴 Boobachu | $0.000006 | **0.43x** ($-57) | 1.12x |  | pumpfun | 2026-03-20 13:24 |
 | 🔴 2ttRZJaJ | $0.000003 | **0.92x** ($-8) | 1.81x |  | pumpfun | 2026-03-20 13:24 |
 | 🔴 Unikowsky | $0.000003 | **0.78x** ($-22) | 1.00x |  | pumpfun | 2026-03-20 13:14 |

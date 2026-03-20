@@ -1,30 +1,30 @@
 # Wallet: `Cm3YAuV58VVnyLAhNgbnwG8p4J3mDe7aYct7BCqQpag3`
 
-> [View on Solscan](https://solscan.io/account/Cm3YAuV58VVnyLAhNgbnwG8p4J3mDe7aYct7BCqQpag3) | Updated: 2026-03-20 13:44 UTC
+> [View on Solscan](https://solscan.io/account/Cm3YAuV58VVnyLAhNgbnwG8p4J3mDe7aYct7BCqQpag3) | Updated: 2026-03-20 13:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+308 |
-| 🏦 Total | **$+308** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
+| 📦 Unrealized | $+396 |
+| 🏦 Total | **$+335** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CULTURE | $0.000013 | **0.62x** ($-38) | 1.24x |  | pumpfun | 2026-03-20 13:40 |
-| 🚀 methane | $0.000004 | **14.95x** ($+1,395) | 16.56x | ✅ | cpmm | 2026-03-20 13:15 |
+| 🚀 methane | $0.000004 | **16.97x** ($+1,597) | 17.52x | ✅ | cpmm | 2026-03-20 13:15 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 CULTURE | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 13:40 → 2026-03-20 13:47 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

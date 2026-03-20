@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 13:44 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 13:49 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 187 (184 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
-| 📦 Unrealized | $+148 |
-| 🏦 Total | **$+326** |
-| Best ROI | 2.91x |
-| Avg ROI | 1.59x |
+| 📦 Unrealized | $+156 |
+| 🏦 Total | **$+334** |
+| Best Trade | 2.9x |
+| Avg Peak | 4.5x |
 
 ## Open Positions
 
@@ -21,11 +21,11 @@
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
 | 🟡 我的刀盾 | $0.002903 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 Squishy | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
-| 🔴 CLAIR | $0.000014 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 13:28 |
+| 🟡 CLAIR | $0.000014 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 NICK | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:22 |
 | 🟡 Chud | $0.000722 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 LAYOFF | $0.000248 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
-| 🟡 Goyim | $0.000631 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-20 13:08 |
+| 🟡 Goyim | $0.000631 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 BBX | $0.000128 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
 | 🟡 IMAGINE | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:58 |
 | 🟡 forg | $0.000110 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
