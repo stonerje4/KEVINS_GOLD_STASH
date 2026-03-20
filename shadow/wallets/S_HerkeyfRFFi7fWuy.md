@@ -1,6 +1,6 @@
-# Wallet: `A2vZY74JHBBwfjo3F1Bo5iiLXpABfAhmgdyfUGzABY9F`
+# Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [View on Solscan](https://solscan.io/account/A2vZY74JHBBwfjo3F1Bo5iiLXpABfAhmgdyfUGzABY9F) | Updated: 2026-03-20 12:59 UTC
+> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 12:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-53** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WIZARD | $0.000356 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:44 |
+| 🔴 RULEBOOK | $0.000138 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 12:59 |
 
 ## Closed Positions
 

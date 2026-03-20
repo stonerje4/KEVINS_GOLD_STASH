@@ -1,6 +1,6 @@
 # Wallet: `DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX`
 
-> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 12:58 UTC
+> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 12:59 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-373 |
 | 📦 Unrealized | $+94 |
 | 🏦 Total | **$-279** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| Best ROI | 0.39x |
+| Avg ROI | 0.25x |
 
 ## Open Positions
 
