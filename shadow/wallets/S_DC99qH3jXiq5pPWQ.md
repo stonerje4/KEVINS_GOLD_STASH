@@ -1,6 +1,6 @@
-# Wallet: `BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2`
+# Wallet: `DC99qH3jXiq5pPWQd6PjjJcCxTV593s58CLPxWGpEywt`
 
-> [View on Solscan](https://solscan.io/account/BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2) | Updated: 2026-03-20 05:20 UTC
+> [View on Solscan](https://solscan.io/account/DC99qH3jXiq5pPWQd6PjjJcCxTV593s58CLPxWGpEywt) | Updated: 2026-03-20 05:20 UTC
 
 ## Summary
 
@@ -8,23 +8,23 @@
 |--------|-------|
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
-| 💵 Realized | $-62 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-62** |
-| Best Trade | 0.4x |
+| 💵 Realized | $-66 |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-88** |
+| Best Trade | 0.3x |
 | Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBI | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
+| 🔴 9mKdPcth | $0.000001 | **0.78x** ($-22) | 1.00x |  | pumpfun | 2026-03-20 05:20 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CHIBI | 0.38x | $-62 | stop_loss | 1.01x | pumpswap | 2026-03-19 23:37 → 2026-03-20 00:53 |
+| 🔴 9mKdPcth | 0.34x | $-66 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:20 → 2026-03-20 05:20 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

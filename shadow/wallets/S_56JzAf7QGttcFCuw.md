@@ -1,6 +1,6 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 05:15 UTC
+> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 05:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $+97 |
-| 🏦 Total | **$+21** |
+| 📦 Unrealized | $+137 |
+| 🏦 Total | **$+61** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.9x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 nickel | $0.000007 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 05:14 |
-| 🟡 Pixel | $0.000011 | **1.12x** ($+12) | 1.48x |  | pumpfun | 2026-03-20 04:50 |
+| 🟡 nickel | $0.000007 | **1.91x** ($+91) | 2.45x | ✅ | pumpfun | 2026-03-20 05:14 |
+| 🟡 Pixel | $0.000011 | **1.07x** ($+7) | 1.48x |  | pumpfun | 2026-03-20 04:50 |
 | 🟢 94S763Nm | $0.000014 | **2.68x** ($+168) | 2.68x | ✅ | pumpfun | 2026-03-20 04:24 |
 
 ## Closed Positions

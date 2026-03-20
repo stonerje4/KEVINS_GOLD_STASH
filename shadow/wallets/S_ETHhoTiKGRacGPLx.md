@@ -1,16 +1,16 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 05:15 UTC
+> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 05:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (18 open, 0 closed) |
+| Positions | 19 (19 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-82 |
-| 🏦 Total | **$-82** |
+| 📦 Unrealized | $-79 |
+| 🏦 Total | **$-79** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 JFR | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 05:16 |
 | 🔴 OSP | $0.000004 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-20 03:00 |
 | 🔴 Evq4G9ru | $0.000002 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 02:56 |
 | 🔴 CASPER  | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 02:44 |

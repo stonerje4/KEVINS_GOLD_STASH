@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:15 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 36 (23 open, 13 closed) |
-| W/L | 1/12 (8%) |
-| 💵 Realized | $-528 |
-| 📦 Unrealized | $-329 |
-| 🏦 Total | **$-857** |
+| Positions | 39 (25 open, 14 closed) |
+| W/L | 1/13 (7%) |
+| 💵 Realized | $-589 |
+| 📦 Unrealized | $-274 |
+| 🏦 Total | **$-863** |
 | Best Trade | 1.4x |
 | Avg Peak | 1.9x |
 
@@ -18,12 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 hopecore | $0.000004 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 05:20 |
+| 🟡 Fk6LNJWo | $0.000004 | **1.54x** ($+54) | 1.89x |  | pumpfun | 2026-03-20 05:17 |
 | 🟡 94S763Nm | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.67x** ($-33) | 1.54x |  | pumpfun | 2026-03-20 04:14 |
 | 🔴 Arc | $0.000003 | **0.75x** ($-25) | 1.95x |  | pumpfun | 2026-03-20 04:07 |
 | 🔴 AGzUnMmR | $0.000005 | **0.54x** ($-46) | 1.77x |  | pumpfun | 2026-03-20 03:55 |
 | 🟢 Jeremy | $0.000008 | **4.78x** ($+378) | 4.78x | ✅ | pumpfun | 2026-03-20 03:51 |
-| 🔴 HHxWiMez | $0.000005 | **0.46x** ($-54) | 1.27x |  | pumpfun | 2026-03-20 03:49 |
+| 🔴 HHxWiMez | $0.000005 | **0.47x** ($-53) | 1.27x |  | pumpfun | 2026-03-20 03:49 |
 | 🔴 59DQqRKs | $0.000005 | **0.46x** ($-54) | 1.06x |  | pumpfun | 2026-03-20 03:38 |
 | 🔴 2NbLjyqS | $0.000003 | **0.72x** ($-28) | 1.32x |  | pumpfun | 2026-03-20 02:57 |
 | 🟡 Sentinel | $0.000006 | **1.10x** ($+10) | 1.75x |  | pumpfun | 2026-03-20 02:54 |
@@ -46,6 +48,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Bcx1k6h8 | 0.40x | $-60 | stop_loss | 1.15x | pumpfun | 2026-03-20 05:15 → 2026-03-20 05:16 |
 | 🔴 MEMEFRONT | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:13 |
 | 🔴 Sublime | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:04 → 2026-03-20 05:05 |
 | 🟡 CORPORATE | 0.84x | $-16 | trailing_stop_3x | 2.77x | pumpfun | 2026-03-20 04:43 → 2026-03-20 04:58 |
