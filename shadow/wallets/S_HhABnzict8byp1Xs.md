@@ -1,6 +1,6 @@
 # Wallet: `HhABnzict8byp1XsU4wVYCV6oYYvsydXjjEqifB48qpb`
 
-> [View on Solscan](https://solscan.io/account/HhABnzict8byp1XsU4wVYCV6oYYvsydXjjEqifB48qpb) | Updated: 2026-03-20 09:01 UTC
+> [View on Solscan](https://solscan.io/account/HhABnzict8byp1XsU4wVYCV6oYYvsydXjjEqifB48qpb) | Updated: 2026-03-20 09:06 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-15 |
-| 🏦 Total | **$-15** |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$-17** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 AIFRUITS | $0.000682 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:47 |
 | 🔴 Aliens | $0.000823 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:05 |
-| 🔴 INCOME | $0.000622 | **0.95x** ($-5) | 1.18x |  | pumpswap | 2026-03-19 23:32 |
+| 🔴 INCOME | $0.000622 | **0.93x** ($-7) | 1.18x |  | pumpswap | 2026-03-19 23:32 |
 
 ## Closed Positions
 

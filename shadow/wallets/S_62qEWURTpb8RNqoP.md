@@ -1,6 +1,6 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 09:01 UTC
+> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 09:06 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (10 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-181 |
-| 📦 Unrealized | $+120 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $+79 |
+| 🏦 Total | **$-102** |
 | Best Trade | 0.1x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Kin-kun | $0.000004 | **3.86x** ($+286) | 4.04x | ✅ | pumpfun | 2026-03-20 08:54 |
+| 🟢 Kin-kun | $0.000004 | **2.83x** ($+183) | 4.30x | ✅ | pumpfun | 2026-03-20 08:54 |
 | 🔴 JUMP | $0.000005 | **0.55x** ($-45) | 1.18x |  | pumpfun | 2026-03-20 08:39 |
 | 🟡 face | $0.000005 | **1.05x** ($+5) | 1.29x |  | pumpfun | 2026-03-20 08:22 |
 | 🔴 SUNSHINE | $0.000005 | **0.83x** ($-17) | 1.93x |  | pumpfun | 2026-03-20 07:56 |

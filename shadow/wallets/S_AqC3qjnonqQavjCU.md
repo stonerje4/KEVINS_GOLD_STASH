@@ -1,18 +1,18 @@
 # Wallet: `AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ`
 
-> [View on Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 09:01 UTC
+> [View on Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 09:06 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (5 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-36 |
+| Positions | 8 (5 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-98 |
 | 📦 Unrealized | $-103 |
-| 🏦 Total | **$-139** |
+| 🏦 Total | **$-201** |
 | Best Trade | 0.8x |
-| Avg Peak | 2.8x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
@@ -28,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 VOID | 0.38x | $-62 | stop_loss | 1.22x | pumpfun | 2026-03-20 09:04 → 2026-03-20 09:05 |
 | 🟡 Gurneet | 0.80x | $-20 | trailing_stop_3x | 2.83x | pumpfun | 2026-03-20 07:05 → 2026-03-20 07:12 |
 | 🟡 6QhfiQKU | 0.84x | $-16 | trailing_stop_3x | 2.71x | pumpfun | 2026-03-20 05:19 → 2026-03-20 05:23 |
 

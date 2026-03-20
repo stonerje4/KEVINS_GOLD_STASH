@@ -1,6 +1,6 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [View on Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 09:01 UTC
+> [View on Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 09:06 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (10 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-235 |
-| 🏦 Total | **$-296** |
+| 📦 Unrealized | $-239 |
+| 🏦 Total | **$-300** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Smoklon | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
-| 🔴 XCEO | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
+| 🔴 XCEO | $0.000005 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
 | 🟡 Chibi | $0.000008 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 02:37 |
 | 🔴 CHIBI | $0.000016 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 02:33 |
 | 🔴 Roast | $0.000005 | **0.56x** ($-44) | 1.91x |  | pumpswap | 2026-03-20 00:04 |

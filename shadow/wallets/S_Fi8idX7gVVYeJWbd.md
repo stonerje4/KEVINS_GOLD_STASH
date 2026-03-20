@@ -1,29 +1,29 @@
-# Wallet: `F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU`
+# Wallet: `Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z`
 
-> [View on Solscan](https://solscan.io/account/F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU) | Updated: 2026-03-20 09:06 UTC
+> [View on Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-20 09:06 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-62 |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-62** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.4x |
+| 🏦 Total | **$+0** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WorldID | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:05 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Bean | 0.38x | $-62 | stop_loss | 1.44x | pumpfun | 2026-03-20 00:03 → 2026-03-20 00:07 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

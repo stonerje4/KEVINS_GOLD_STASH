@@ -1,16 +1,16 @@
 # Wallet: `DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX`
 
-> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 09:01 UTC
+> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 09:06 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (1 open, 5 closed) |
+| Positions | 7 (2 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-373 |
-| 📦 Unrealized | $+87 |
-| 🏦 Total | **$-285** |
+| 📦 Unrealized | $+94 |
+| 🏦 Total | **$-279** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PsyopChibi | $0.000014 | **1.06x** ($+6) | 1.06x |  | pumpfun | 2026-03-20 09:03 |
 | 🟢 TRUMPI | $0.000011 | **3.19x** ($+219) | 3.19x | ✅ | pumpfun | 2026-03-20 06:29 |
 
 ## Closed Positions

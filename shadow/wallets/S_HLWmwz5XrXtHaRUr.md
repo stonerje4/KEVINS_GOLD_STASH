@@ -1,6 +1,6 @@
 # Wallet: `HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6`
 
-> [View on Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 09:01 UTC
+> [View on Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 09:06 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+17 |
-| 🏦 Total | **$+17** |
+| 📦 Unrealized | $+16 |
+| 🏦 Total | **$+16** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 OBJECTS | $0.000129 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 06:03 |
-| 🔴 NICK | $0.000036 | **0.80x** ($-20) | 1.01x |  | pumpswap | 2026-03-20 06:03 |
+| 🔴 NICK | $0.000036 | **0.79x** ($-21) | 1.01x |  | pumpswap | 2026-03-20 06:03 |
 | 🟡 meowl | $0.000175 | **1.30x** ($+30) | 1.40x |  | pumpswap | 2026-03-20 06:02 |
 
 ## Closed Positions
