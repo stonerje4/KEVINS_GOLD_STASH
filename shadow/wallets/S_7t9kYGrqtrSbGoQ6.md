@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 166 (162 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-522 |
-| 🏦 Total | **$-583** |
+| 📦 Unrealized | $-521 |
+| 🏦 Total | **$-582** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.85x |
 
@@ -26,7 +26,7 @@
 | 🔴 ZOO | $0.000013 | **0.96x** ($-4) | 1.01x |  | pumpswap | 2026-03-20 17:28 |
 | 🟡 PEACE | $0.000023 | **1.25x** ($+25) | 1.44x |  | pumpswap | 2026-03-20 17:10 |
 | 🟡 F4LC0N | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:02 |
-| 🔴 Situation | $0.000034 | **0.84x** ($-16) | 1.26x |  | pumpswap | 2026-03-20 17:01 |
+| 🔴 Situation | $0.000034 | **0.85x** ($-15) | 1.26x |  | pumpswap | 2026-03-20 17:01 |
 | 🟡 TUNE | $0.000013 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-20 16:49 |
 | 🟡 TerpBot | $0.000014 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 16:42 |
 | 🔴 PIZZAGATE | $0.000016 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 16:32 |

@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 157 (155 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+138 |
-| 📦 Unrealized | $-538 |
-| 🏦 Total | **$-400** |
+| 📦 Unrealized | $-537 |
+| 🏦 Total | **$-399** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.69x |
 
@@ -26,7 +26,7 @@
 | 🟡 MIROFISH | $0.000023 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 17:57 |
 | 🔴 ZWF | $0.000009 | **0.44x** ($-56) | 1.01x |  | pumpswap | 2026-03-20 17:44 |
 | 🔴 𝕏 | $0.000023 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 17:39 |
-| 🔴 Situation | $0.000030 | **0.93x** ($-7) | 1.41x |  | pumpswap | 2026-03-20 17:24 |
+| 🔴 Situation | $0.000030 | **0.94x** ($-6) | 1.41x |  | pumpswap | 2026-03-20 17:24 |
 | 🟡 PEACE | $0.000021 | **1.34x** ($+34) | 1.55x |  | pumpswap | 2026-03-20 17:10 |
 | 🔴 INCOG | $0.000013 | **0.98x** ($-2) | 1.05x |  | pumpswap | 2026-03-20 17:05 |
 | 🟡 Sybil  | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:57 |

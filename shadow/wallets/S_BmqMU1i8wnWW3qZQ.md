@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 237 (231 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $-99 |
-| 📦 Unrealized | $-1,069 |
-| 🏦 Total | **$-1,169** |
+| 📦 Unrealized | $-1,068 |
+| 🏦 Total | **$-1,168** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.83x |
 
@@ -24,7 +24,7 @@
 | 🔴 PATAPIM | $0.000007 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 17:34 |
 | 🔴 SNAKE | $0.000007 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 17:30 |
 | 🟡 PEACE | $0.000025 | **1.14x** ($+14) | 1.32x |  | pumpswap | 2026-03-20 17:10 |
-| 🔴 Situation | $0.000037 | **0.75x** ($-25) | 1.14x |  | pumpswap | 2026-03-20 17:01 |
+| 🔴 Situation | $0.000037 | **0.76x** ($-24) | 1.14x |  | pumpswap | 2026-03-20 17:01 |
 | 🔴 PIZZAGATE | $0.000017 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 16:32 |
 | 🔴 Newscum | $0.000021 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 16:25 |
 | 🔴 NORMIE | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 15:19 |

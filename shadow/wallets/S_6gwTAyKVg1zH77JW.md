@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 101 (96 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $-23 |
-| 📦 Unrealized | $-365 |
-| 🏦 Total | **$-388** |
+| 📦 Unrealized | $-364 |
+| 🏦 Total | **$-387** |
 | Best ROI | 2.91x |
 | Avg ROI | 0.95x |
 
@@ -24,7 +24,7 @@
 | 🔴 哈基米 | $0.000007 | **0.94x** ($-6) | 1.05x |  | pumpswap | 2026-03-20 17:44 |
 | 🟡 Ava | $0.000008 | **1.13x** ($+13) | 1.26x |  | pumpswap | 2026-03-20 17:05 |
 | 🟡 Moe-chan | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:02 |
-| 🔴 Situation | $0.000034 | **0.83x** ($-17) | 1.26x |  | pumpswap | 2026-03-20 17:01 |
+| 🔴 Situation | $0.000034 | **0.84x** ($-16) | 1.26x |  | pumpswap | 2026-03-20 17:01 |
 | 🔴 TUNE | $0.000014 | **0.97x** ($-3) | 1.05x |  | pumpswap | 2026-03-20 16:49 |
 | 🔴 SPIRITS | $0.000011 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 16:20 |
 | 🔴 ANIME | $0.000005 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-20 16:09 |

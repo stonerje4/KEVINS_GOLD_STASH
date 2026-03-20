@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 67 (58 open, 9 closed) |
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-608 |
-| 📦 Unrealized | $-92 |
-| 🏦 Total | **$-700** |
+| 📦 Unrealized | $-156 |
+| 🏦 Total | **$-764** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.32x |
 
@@ -22,7 +22,7 @@
 | 🟡 FAKER | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:10 |
 | 🔴 CHIBI | $0.000014 | **1.00x** ($-0) | 1.08x |  | pumpswap | 2026-03-20 18:08 |
 | 🟡 ROUNDHOUSE | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:35 |
-| 🔴 Situation | $0.000032 | **0.89x** ($-11) | 1.34x |  | pumpswap | 2026-03-20 17:22 |
+| 🔴 Situation | $0.000032 | **0.90x** ($-10) | 1.34x |  | pumpswap | 2026-03-20 17:22 |
 | 🟡 Sybil  | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
 | 🟡 PAD | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🔴 Rosei | $0.000015 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
@@ -40,7 +40,7 @@
 | 🔴 LIBERTY | $0.000039 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 07:53 |
 | 🔴 DRIVE | $0.000032 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 07:09 |
 | 🟡 Luxury | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:39 |
-| 🟡 Dryer | $0.000023 | **1.27x** ($+27) | 1.76x |  | pumpswap | 2026-03-20 06:38 |
+| 🔴 Dryer | $0.000023 | **0.63x** ($-37) | 1.76x |  | pumpswap | 2026-03-20 06:38 |
 | 🔴 George | $0.000020 | **0.67x** ($-33) | 1.15x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 LULU | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
 | 🟡 DICKUS | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |

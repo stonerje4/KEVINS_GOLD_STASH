@@ -1,6 +1,6 @@
 # PRD Wallet: `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`
 
-> [GMGN](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | [Solscan](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | [Solscan](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
@@ -10,8 +10,8 @@
 | W/L | 0/0 (0%) |
 | 💵 Realized | +0.0000 SOL ($+0.00) |
 | ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | -0.0165 SOL |
-| 🏦 Net | **-0.0165 SOL** ($-1.46) |
+| 📦 Unrealized | -0.0152 SOL |
+| 🏦 Net | **-0.0152 SOL** ($-1.35) |
 
 ## Positions
 
@@ -19,7 +19,7 @@
 |-------|--------|-----------|---------|------|---------|--------|
 | 🔴 OFP | open | 0.11 | 0.97x | 1.00x | -0.0081 | — |
 | 🔴 OSP | open | 0.11 | 0.98x | 1.34x | -0.0072 | — |
-| 🟢 OSP | open | 0.11 | 1.02x | 1.04x | -0.0033 | — |
+| 🟢 OSP | open | 0.11 | 1.03x | 1.04x | -0.0020 | — |
 | 🔴 CAN | open | 0.11 | 0.98x | 1.00x | -0.0069 | — |
 | 🟢 OSP | open | 0.11 | 1.13x | 1.15x | +0.0089 | — |
 

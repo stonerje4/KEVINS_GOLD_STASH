@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 28 (23 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-356 |
-| 📦 Unrealized | $+504 |
-| 🏦 Total | **$+147** |
+| 📦 Unrealized | $+438 |
+| 🏦 Total | **$+82** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.29x |
 
@@ -36,7 +36,7 @@
 | 🔴 TRASHBAG | $0.000013 | **0.56x** ($-44) | 1.31x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 TRENCHY | $0.000022 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-20 04:23 |
 | 🔴 CHOCOTINA | $0.000007 | **0.76x** ($-24) | 1.14x |  | pumpswap | 2026-03-20 04:17 |
-| 🟡 Dryer | $0.000023 | **1.28x** ($+28) | 1.77x |  | pumpfun | 2026-03-20 03:58 |
+| 🔴 Dryer | $0.000023 | **0.63x** ($-37) | 1.77x |  | pumpfun | 2026-03-20 03:58 |
 | 🟡 NEMO | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:57 |
 | 🟡 Chocolatina | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:42 |
 | 🚀 Chuck | $0.000020 | **13.81x** ($+1,281) | 23.66x | ✅ | pumpfun | 2026-03-20 02:25 |

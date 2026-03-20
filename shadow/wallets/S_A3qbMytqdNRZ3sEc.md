@@ -1,16 +1,16 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 43 (37 open, 6 closed) |
+| Positions | 44 (38 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-389 |
-| 📦 Unrealized | $+93 |
-| 🏦 Total | **$-296** |
+| 📦 Unrealized | $+48 |
+| 🏦 Total | **$-341** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.35x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SNIFFER | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:59 |
 | 🔴 Octogent | $0.000006 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 18:41 |
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
-| 🟡 Dryer | $0.000016 | **1.75x** ($+75) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |
+| 🔴 Dryer | $0.000016 | **0.86x** ($-14) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |
 | 🔴 clod | $0.000024 | **1.00x** ($-0) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 Simulation | $0.000022 | **0.81x** ($-19) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
 | 🔴 CHANNELS | $0.000024 | **0.84x** ($-16) | 1.07x |  | pumpswap | 2026-03-20 13:59 |

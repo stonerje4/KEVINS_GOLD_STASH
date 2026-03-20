@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (7 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $-106 |
-| 📦 Unrealized | $+7 |
-| 🏦 Total | **$-99** |
+| 📦 Unrealized | $-37 |
+| 🏦 Total | **$-144** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.73x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CRAFT | $0.000030 | **1.19x** ($+19) | 1.22x |  | pumpswap | 2026-03-20 18:45 |
 | 🔴 Merlin | $0.000007 | **0.48x** ($-52) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
-| 🟢 SNIFFER | $0.000023 | **2.42x** ($+142) | 2.46x | ✅ | pumpfun | 2026-03-20 12:59 |
+| 🟡 SNIFFER | $0.000023 | **1.52x** ($+52) | 2.46x | ✅ | pumpfun | 2026-03-20 12:59 |
 | 🟡 MMORPG | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:44 |
 | 🟡 Quokka | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
 | 🟡 Saleh | $0.000019 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 12:01 |

@@ -1,18 +1,18 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [GMGN](https://gmgn.ai/sol/address/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | [Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | [Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (10 open, 9 closed) |
-| W/L | 2/7 (22%) |
-| 💵 Realized | $-315 |
-| 📦 Unrealized | $-331 |
-| 🏦 Total | **$-646** |
+| Positions | 19 (9 open, 10 closed) |
+| W/L | 2/8 (20%) |
+| 💵 Realized | $-375 |
+| 📦 Unrealized | $-313 |
+| 🏦 Total | **$-688** |
 | Best ROI | 1.44x |
-| Avg ROI | 0.65x |
+| Avg ROI | 0.62x |
 
 ## Open Positions
 
@@ -25,7 +25,6 @@
 | 🔴 CHIBILON | $0.000007 | **0.50x** ($-50) | 1.14x |  | pumpfun | 2026-03-20 07:16 |
 | 🔴 Gurneet | $0.000005 | **0.46x** ($-54) | 1.84x |  | pumpfun | 2026-03-20 07:06 |
 | 🔴 GrwBPsCc | $0.000005 | **0.49x** ($-51) | 1.49x |  | pumpfun | 2026-03-20 06:51 |
-| 🔴 Dryer | $0.000036 | **0.81x** ($-19) | 1.13x |  | pumpswap | 2026-03-20 04:13 |
 | 🟡 FEELESS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:57 |
 | 🟡 Sentinel | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:48 |
 
@@ -42,6 +41,7 @@
 | 🟡 CORPORATE | 1.44x | $+44 | trailing_stop_4x | 4.20x | pumpfun | 2026-03-20 04:42 → 2026-03-20 04:58 |
 | 🔴 HelloWorld! | 0.36x | $-64 | stop_loss | 1.79x | pumpswap | 2026-03-20 04:26 → 2026-03-20 04:26 |
 | 🔴 HeatGun | 0.35x | $-65 | stop_loss | 1.81x | pumpfun | 2026-03-20 04:16 → 2026-03-20 08:16 |
+| 🔴 Dryer | 0.40x | $-60 | stop_loss | 1.13x | pumpswap | 2026-03-20 04:13 → 2026-03-20 19:00 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 18:59 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 19:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 127 (122 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-127 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-145** |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$-144** |
 | Best ROI | 2.95x |
 | Avg ROI | 0.75x |
 
@@ -24,7 +24,7 @@
 | 🟡 Ride | $0.000014 | **1.10x** ($+10) | 1.13x |  | pumpswap | 2026-03-20 18:35 |
 | 🔴 FSC | $0.000023 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-20 17:48 |
 | 🔴 𝕏 | $0.000022 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-20 17:39 |
-| 🔴 Situation | $0.000030 | **0.94x** ($-6) | 1.42x |  | pumpswap | 2026-03-20 17:24 |
+| 🔴 Situation | $0.000030 | **0.95x** ($-5) | 1.42x |  | pumpswap | 2026-03-20 17:24 |
 | 🟡 PEACE | $0.000021 | **1.32x** ($+32) | 1.53x |  | pumpswap | 2026-03-20 17:10 |
 | 🔴 INCOG | $0.000013 | **0.97x** ($-3) | 1.04x |  | pumpswap | 2026-03-20 17:05 |
 | 🟡 Sybil  | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
