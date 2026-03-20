@@ -1,23 +1,24 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 11:43 UTC
+> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 11:48 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (16 open, 0 closed) |
+| Positions | 17 (17 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+166 |
 | 🏦 Total | **$+166** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 USDC | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:46 |
 | 🟡 OSP | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:51 |
 | 🟡 Fc1CPZb3 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:30 |
 | 🟡 NBR | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:18 |

@@ -1,6 +1,6 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [View on Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 11:43 UTC
+> [View on Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 11:48 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-30 |
-| 🏦 Total | **$-30** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-31** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Grok | $0.000007 | **0.61x** ($-39) | 1.17x |  | pumpfun | 2026-03-20 05:23 |
+| 🔴 Grok | $0.000007 | **0.60x** ($-40) | 1.17x |  | pumpfun | 2026-03-20 05:23 |
 | 🟡 Obsessed | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
 | 🟡 Fro | $0.000220 | **1.26x** ($+26) | 1.30x |  | pumpswap | 2026-03-20 01:41 |
 | 🔴 驚き | $0.000017 | **0.83x** ($-17) | 1.08x |  | pumpswap | 2026-03-20 01:13 |

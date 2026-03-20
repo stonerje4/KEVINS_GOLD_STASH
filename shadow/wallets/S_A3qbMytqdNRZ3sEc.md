@@ -1,23 +1,24 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 11:43 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 11:48 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 56 (51 open, 5 closed) |
+| Positions | 57 (52 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
 | 📦 Unrealized | $-159 |
 | 🏦 Total | **$-357** |
-| Best ROI | 1.46x |
-| Avg ROI | 0.60x |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ceal | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:44 |
 | 🟡 MOCHI | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:41 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 Sybil  | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:16 |

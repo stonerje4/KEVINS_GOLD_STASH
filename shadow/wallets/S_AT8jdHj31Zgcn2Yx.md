@@ -1,23 +1,25 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 11:43 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 11:48 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 127 (100 open, 27 closed) |
+| Positions | 129 (102 open, 27 closed) |
 | W/L | 3/24 (11%) |
 | 💵 Realized | $+2,155 |
-| 📦 Unrealized | $+96 |
-| 🏦 Total | **$+2,251** |
-| Best ROI | 24.90x |
-| Avg ROI | 1.80x |
+| 📦 Unrealized | $+58 |
+| 🏦 Total | **$+2,212** |
+| Best Trade | 24.9x |
+| Avg Peak | 4.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SIMD | $0.000303 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:45 |
+| 🟡 GOONERBI | $0.000095 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 LAYOFF | $0.000264 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 11:38 |
 | 🟡 UNTAXED | $0.000142 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:14 |
 | 🟡 CHIBIS | $0.000080 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:04 |
@@ -30,7 +32,7 @@
 | 🟡 Sybil  | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:38 |
 | 🟡 effect | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:35 |
 | 🟡 herm | $0.000258 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:29 |
-| 🔴 CRABBO | $0.000142 | **0.84x** ($-16) | 1.32x |  | pumpswap | 2026-03-20 10:01 |
+| 🔴 CRABBO | $0.000142 | **0.85x** ($-15) | 1.32x |  | pumpswap | 2026-03-20 10:01 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:41 |
 | 🔴 TEDDY | $0.000084 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
 | 🟡 PsyopChibi | $0.000103 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:32 |
@@ -40,12 +42,12 @@
 | 🟡 CHIBIELON | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:39 |
 | 🟡 OLAF | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 POLSIA | $0.000108 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:00 |
-| 🟡 CHIBELON | $0.000132 | **1.40x** ($+40) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
+| 🟡 CHIBELON | $0.000132 | **1.07x** ($+7) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 DIRECTOR | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 TTT | $0.000123 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 07:58 |
-| 🔴 Noesis | $0.000315 | **0.81x** ($-19) | 1.03x |  | pumpswap | 2026-03-20 07:55 |
-| 🔴 MOSS | $0.000188 | **0.97x** ($-3) | 1.13x |  | pumpswap | 2026-03-20 07:33 |
-| 🔴 Tastecoin | $0.000190 | **0.76x** ($-24) | 1.12x |  | pumpswap | 2026-03-20 07:24 |
+| 🔴 Noesis | $0.000315 | **0.82x** ($-18) | 1.03x |  | pumpswap | 2026-03-20 07:55 |
+| 🔴 MOSS | $0.000188 | **0.96x** ($-4) | 1.13x |  | pumpswap | 2026-03-20 07:33 |
+| 🔴 Tastecoin | $0.000190 | **0.73x** ($-27) | 1.12x |  | pumpswap | 2026-03-20 07:24 |
 | 🔴 MONA | $0.000071 | **0.90x** ($-10) | 1.08x |  | pumpswap | 2026-03-20 07:03 |
 | 🟡 Downald | $0.000391 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
 | 🟡 CHIBI | $0.000072 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:39 |
@@ -54,7 +56,7 @@
 | 🔴 NEO | $0.000030 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 06:14 |
 | 🟡 Clutch | $0.000051 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 Rocky | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
-| 🟡 Phoneclaw | $0.000094 | **1.25x** ($+25) | 1.30x |  | pumpswap | 2026-03-20 05:39 |
+| 🟡 Phoneclaw | $0.000094 | **1.19x** ($+19) | 1.30x |  | pumpswap | 2026-03-20 05:39 |
 | 🔴 MICRO | $0.000093 | **0.94x** ($-6) | 1.15x |  | pumpswap | 2026-03-20 05:34 |
 | 🟡 Pixel | $0.000118 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 automaton | $0.000107 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-20 05:16 |

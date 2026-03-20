@@ -1,23 +1,24 @@
 # Wallet: `BHe6MxiYqcM58rLvzGWefUq2UfgYJEdA2hnovoguBW6H`
 
-> [View on Solscan](https://solscan.io/account/BHe6MxiYqcM58rLvzGWefUq2UfgYJEdA2hnovoguBW6H) | Updated: 2026-03-20 11:43 UTC
+> [View on Solscan](https://solscan.io/account/BHe6MxiYqcM58rLvzGWefUq2UfgYJEdA2hnovoguBW6H) | Updated: 2026-03-20 11:48 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (4 open, 0 closed) |
+| Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+126 |
 | 🏦 Total | **$+126** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chonk | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
 | 🟡 TANGY | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
 | 🟢 Nonchalant | $0.000005 | **2.92x** ($+192) | 3.30x | ✅ | pumpfun | 2026-03-20 03:44 |
 | 🟡 F3 | $0.000017 | **1.29x** ($+29) | 1.54x |  | pumpfun | 2026-03-20 00:21 |

@@ -1,6 +1,6 @@
 # Wallet: `6sktBBsEBAndTScFBnqW2JFbNb7iu9Q7PFwVLhdCtU6s`
 
-> [View on Solscan](https://solscan.io/account/6sktBBsEBAndTScFBnqW2JFbNb7iu9Q7PFwVLhdCtU6s) | Updated: 2026-03-20 11:43 UTC
+> [View on Solscan](https://solscan.io/account/6sktBBsEBAndTScFBnqW2JFbNb7iu9Q7PFwVLhdCtU6s) | Updated: 2026-03-20 11:48 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+48 |
-| 🏦 Total | **$+48** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+53 |
+| 🏦 Total | **$+53** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -24,7 +24,7 @@
 | 🟡 HONGWU | $0.000145 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 07:47 |
 | 🟡 OXIDE | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 電王 | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
-| 🟡 YEPE | $0.000087 | **1.45x** ($+45) | 1.80x |  | pumpswap | 2026-03-20 07:24 |
+| 🟡 YEPE | $0.000087 | **1.50x** ($+50) | 1.80x |  | pumpswap | 2026-03-20 07:24 |
 | 🟡 OSP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:21 |
 
 ## Closed Positions
