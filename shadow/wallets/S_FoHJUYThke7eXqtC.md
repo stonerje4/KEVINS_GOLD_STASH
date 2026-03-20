@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 08:56 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 09:01 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 35 (35 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-55 |
-| 🏦 Total | **$-55** |
+| 📦 Unrealized | $-57 |
+| 🏦 Total | **$-57** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AMBER | $0.000003 | **0.93x** ($-7) | 1.04x |  | pumpfun | 2026-03-20 08:52 |
+| 🔴 AMBER | $0.000003 | **0.91x** ($-9) | 1.04x |  | pumpfun | 2026-03-20 08:52 |
 | 🔴 ZHDUN | $0.000003 | **0.94x** ($-6) | 1.01x |  | pumpfun | 2026-03-20 08:43 |
 | 🔴 TROILL | $0.000003 | **0.90x** ($-10) | 1.06x |  | pumpfun | 2026-03-20 08:25 |
 | 🔴 2ayhuc2Q | $0.000003 | **0.83x** ($-17) | 1.00x |  | pumpfun | 2026-03-20 08:15 |

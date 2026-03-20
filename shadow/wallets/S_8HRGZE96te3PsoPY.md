@@ -1,16 +1,16 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 08:56 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 09:01 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (16 open, 10 closed) |
-| W/L | 2/8 (20%) |
-| 💵 Realized | $-332 |
-| 📦 Unrealized | $-531 |
-| 🏦 Total | **$-862** |
+| Positions | 27 (16 open, 11 closed) |
+| W/L | 2/9 (18%) |
+| 💵 Realized | $-393 |
+| 📦 Unrealized | $-573 |
+| 🏦 Total | **$-966** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.3x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 62fRErwW | $0.000005 | **0.97x** ($-3) | 1.22x |  | pumpfun | 2026-03-20 08:55 |
+| 🔴 62fRErwW | $0.000005 | **0.54x** ($-46) | 1.22x |  | pumpfun | 2026-03-20 08:55 |
 | 🔴 4a4ziM4d | $0.000006 | **0.45x** ($-55) | 1.47x |  | pumpfun | 2026-03-20 08:49 |
 | 🔴 pisscoin | $0.000004 | **0.64x** ($-36) | 1.31x |  | pumpfun | 2026-03-20 08:48 |
 | 🔴 genocide | $0.000005 | **0.47x** ($-53) | 1.14x |  | pumpfun | 2026-03-20 07:51 |
@@ -39,6 +39,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 wr9rN8VM | 0.38x | $-62 | stop_loss | 1.55x | pumpfun | 2026-03-20 08:56 → 2026-03-20 08:58 |
 | 🔴 Chibi | 0.37x | $-63 | stop_loss | 1.88x | pumpfun | 2026-03-20 07:35 → 2026-03-20 07:54 |
 | 🔴 AVATAR | 0.38x | $-62 | stop_loss | 1.50x | pumpswap | 2026-03-20 06:56 → 2026-03-20 07:46 |
 | 🔴 HAIRDRYER | 0.39x | $-61 | stop_loss | 1.60x | pumpfun | 2026-03-20 05:20 → 2026-03-20 05:23 |

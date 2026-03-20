@@ -1,12 +1,12 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 08:56 UTC
+> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 09:01 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (14 open, 2 closed) |
+| Positions | 17 (15 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+433 |
 | 📦 Unrealized | $-39 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Pixels | $0.000072 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
 | 🟡 IMAGINE | $0.000175 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
 | 🟡 Pete | $0.000196 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 IMAGINE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:04 |

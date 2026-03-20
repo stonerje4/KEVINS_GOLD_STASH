@@ -1,6 +1,6 @@
 # Wallet: `3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1`
 
-> [View on Solscan](https://solscan.io/account/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | Updated: 2026-03-20 08:56 UTC
+> [View on Solscan](https://solscan.io/account/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | Updated: 2026-03-20 09:01 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Baldi | $0.000025 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🔴 90S | $0.000019 | **0.96x** ($-4) | 1.05x |  | pumpswap | 2026-03-19 23:33 |
-| 🔴 NICK | $0.000032 | **0.88x** ($-12) | 1.13x |  | pumpswap | 2026-03-19 23:32 |
+| 🔴 NICK | $0.000032 | **0.89x** ($-11) | 1.13x |  | pumpswap | 2026-03-19 23:32 |
 
 ## Closed Positions
 

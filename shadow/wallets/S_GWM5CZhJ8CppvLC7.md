@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 08:56 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 09:01 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 100 (99 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-4 |
-| 🏦 Total | **$-81** |
+| 📦 Unrealized | $+12 |
+| 🏦 Total | **$-66** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -24,23 +24,23 @@
 | 🟡 $PRINT | $0.001752 | **1.10x** ($+10) | 1.12x |  | pumpswap | 2026-03-20 08:03 |
 | 🟡 HeavyPulp | $0.000992 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:57 |
 | 🟡 MONA | $0.000073 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-20 07:03 |
-| 🟡 Buttcoin | $0.012911 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-20 07:01 |
-| 🔴 George | $0.000020 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 06:37 |
+| 🟡 Buttcoin | $0.012911 | **1.05x** ($+5) | 1.12x |  | pumpswap | 2026-03-20 07:01 |
+| 🔴 George | $0.000020 | **0.89x** ($-11) | 1.12x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 IMAGINE | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:26 |
-| 🔴 Tastecoin | $0.000191 | **0.89x** ($-11) | 1.22x |  | pumpswap | 2026-03-20 06:15 |
-| 🟡 INCOME | $0.000549 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-20 05:48 |
+| 🔴 Tastecoin | $0.000191 | **0.90x** ($-10) | 1.22x |  | pumpswap | 2026-03-20 06:15 |
+| 🟡 INCOME | $0.000549 | **1.08x** ($+8) | 1.09x |  | pumpswap | 2026-03-20 05:48 |
 | 🟡 DRIVE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:42 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:28 |
 | 🟡 Goose | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
-| 🔴 TeraFab | $0.000053 | **0.97x** ($-3) | 1.14x |  | pumpswap | 2026-03-20 05:17 |
+| 🔴 TeraFab | $0.000053 | **0.99x** ($-1) | 1.14x |  | pumpswap | 2026-03-20 05:17 |
 | 🟡 neet | $0.021822 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 05:13 |
-| 🔴 WhiteHouse | $0.000359 | **0.88x** ($-12) | 1.04x |  | pumpswap | 2026-03-20 05:10 |
-| 🟡 shitcoin | $0.000074 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-20 05:08 |
+| 🔴 WhiteHouse | $0.000359 | **0.89x** ($-11) | 1.04x |  | pumpswap | 2026-03-20 05:10 |
+| 🟡 shitcoin | $0.000074 | **1.03x** ($+3) | 1.12x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 SOS | $0.000926 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 04:45 |
-| 🟡 CHOPPER | $0.000025 | **1.29x** ($+29) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
-| 🟡 Punch | $0.014730 | **1.11x** ($+11) | 1.16x |  | pumpswap | 2026-03-20 04:43 |
+| 🟡 CHOPPER | $0.000025 | **1.23x** ($+23) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
+| 🟡 Punch | $0.014730 | **1.09x** ($+9) | 1.16x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Spiderman | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:42 |
-| 🔴 YEPE | $0.000092 | **0.92x** ($-8) | 1.16x |  | pumpswap | 2026-03-20 04:40 |
+| 🔴 YEPE | $0.000092 | **0.93x** ($-7) | 1.16x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:14 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |

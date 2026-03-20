@@ -1,16 +1,16 @@
-# Wallet: `A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t`
+# Wallet: `Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL`
 
-> [View on Solscan](https://solscan.io/account/A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t) | Updated: 2026-03-20 09:01 UTC
+> [View on Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 09:01 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+14 |
-| 🏦 Total | **$+14** |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$-34** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pixels | $0.000101 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:44 |
-| 🟡 iClaw | $0.000005 | **1.28x** ($+28) | 2.04x | ✅ | pumpswap | 2026-03-20 00:07 |
+| 🔴 Ropet | $0.000007 | **0.66x** ($-34) | 1.38x |  | pumpfun | 2026-03-20 08:58 |
 
 ## Closed Positions
 
