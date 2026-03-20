@@ -1,24 +1,25 @@
 # Wallet: `7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4`
 
-> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-99 |
+| Positions | 14 (9 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-499 |
 | 📦 Unrealized | $+33 |
-| 🏦 Total | **$-66** |
-| Best ROI | 0.01x |
-| Avg ROI | 0.01x |
+| 🏦 Total | **$-466** |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ALIENBABY | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 13:44 |
+| 🟡 Hosico | $0.000931 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 14:17 |
+| 🟡 ALIENBABY | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 13:44 |
 | 🟡 THOT | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 ALT | $0.000147 | **1.29x** ($+29) | 1.32x |  | cpmm | 2026-03-20 08:55 |
 | 🟡 SOL#000 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:53 |
@@ -31,6 +32,10 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Hosico | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 14:16 → 2026-03-20 14:16 |
+| 🔴 Hosico | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 14:16 → 2026-03-20 14:16 |
+| 🔴 Hosico | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 14:16 → 2026-03-20 14:16 |
+| 🔴 Hosico | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 14:16 → 2026-03-20 14:16 |
 | 🔴 AIKEK | 0.01x | $-99 | stop_loss | 1.00x | cpmm | 2026-03-20 01:57 → 2026-03-20 01:57 |
 
 ---

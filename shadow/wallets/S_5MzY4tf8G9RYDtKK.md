@@ -1,25 +1,24 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 55 (33 open, 22 closed) |
-| W/L | 0/22 (0%) |
-| 💵 Realized | $-1,117 |
-| 📦 Unrealized | $-166 |
-| 🏦 Total | **$-1,283** |
-| Best ROI | 0.85x |
-| Avg ROI | 0.49x |
+| Positions | 55 (32 open, 23 closed) |
+| W/L | 1/22 (4%) |
+| 💵 Realized | $-1,068 |
+| 📦 Unrealized | $-213 |
+| 🏦 Total | **$-1,281** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FOID | $0.000032 | **0.68x** ($-32) | 1.13x |  | pumpfun | 2026-03-20 13:38 |
-| 🟡 Miki | $0.000006 | **1.88x** ($+88) | 3.10x | ✅ | pumpfun | 2026-03-20 13:12 |
+| 🔴 FOID | $0.000032 | **0.56x** ($-44) | 1.13x |  | pumpfun | 2026-03-20 13:38 |
 | 🟡 kinton | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:01 |
@@ -56,6 +55,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Miki | 1.50x | $+50 | trailing_stop_3x | 3.10x | pumpfun | 2026-03-20 13:12 → 2026-03-20 14:16 |
 | 🔴 Doolysaurus | 0.33x | $-67 | stop_loss | 1.15x | pumpfun | 2026-03-20 09:40 → 2026-03-20 09:52 |
 | 🔴 GrokChibi | 0.40x | $-60 | stop_loss | 1.10x | pumpfun | 2026-03-20 07:37 → 2026-03-20 07:50 |
 | 🟡 awkward | 0.82x | $-18 | trailing_stop_2x | 2.31x | pumpfun | 2026-03-20 07:16 → 2026-03-20 07:52 |

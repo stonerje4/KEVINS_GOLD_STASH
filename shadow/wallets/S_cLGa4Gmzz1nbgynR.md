@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 150 (144 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $+281 |
-| 🏦 Total | **$+2** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.54x |
+| 📦 Unrealized | $+283 |
+| 🏦 Total | **$+5** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
@@ -28,7 +28,7 @@
 | 🟡 Saxophones | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:40 |
 | 🟡 effect | $0.000093 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🟡 MIM | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
-| 🟡 MAPLE | $0.000045 | **1.02x** ($+2) | 1.10x |  | pumpswap | 2026-03-20 13:19 |
+| 🟡 MAPLE | $0.000045 | **1.04x** ($+4) | 1.10x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 MINDLESS | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:16 |
 | 🟡 butthole | $0.000117 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 ZeroG | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:39 |

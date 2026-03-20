@@ -1,25 +1,24 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
 
-> [View on Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (11 open, 1 closed) |
-| W/L | 1/0 (100%) |
-| 💵 Realized | $+196 |
-| 📦 Unrealized | $+129 |
-| 🏦 Total | **$+325** |
-| Best ROI | 2.96x |
-| Avg ROI | 2.96x |
+| Positions | 12 (10 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $+180 |
+| 📦 Unrealized | $+80 |
+| 🏦 Total | **$+260** |
+| Best Trade | 3.0x |
+| Avg Peak | 4.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 FOID | $0.000020 | **1.06x** ($+6) | 1.13x |  | pumpfun | 2026-03-20 14:10 |
-| 🟡 Miki | $0.000008 | **1.61x** ($+61) | 2.65x | ✅ | pumpfun | 2026-03-20 13:21 |
+| 🔴 FOID | $0.000020 | **0.88x** ($-12) | 1.25x |  | pumpfun | 2026-03-20 14:10 |
 | 🟡 菲比啾比 | $0.000012 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 12:43 |
 | 🟡 CHIBI | $0.000011 | **1.36x** ($+36) | 2.07x | ✅ | pumpfun | 2026-03-20 10:36 |
 | 🟡 Bispider | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:53 |
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Miki | 0.84x | $-16 | trailing_stop_3x | 2.65x | pumpfun | 2026-03-20 13:21 → 2026-03-20 14:17 |
 | 🟢 CHIBI | 2.96x | $+196 | trailing_stop_5x | 5.40x | pumpfun | 2026-03-20 09:30 → 2026-03-20 10:07 |
 
 ---

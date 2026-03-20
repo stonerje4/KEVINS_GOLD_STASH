@@ -1,25 +1,27 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 312 (308 open, 4 closed) |
+| Positions | 314 (310 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
-| 📦 Unrealized | $+320 |
-| 🏦 Total | **$+315** |
-| Best ROI | 3.00x |
-| Avg ROI | 0.99x |
+| 📦 Unrealized | $+276 |
+| 🏦 Total | **$+272** |
+| Best Trade | 3.0x |
+| Avg Peak | 2.7x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Sonny | $0.000005 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 14:11 |
-| 🟡 Higuruma | $0.000020 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 14:09 |
+| 🔴 TPH | $0.000174 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
+| 🟡 GameTheory | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
+| 🔴 Sonny | $0.000005 | **0.96x** ($-4) | 1.06x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Higuruma | $0.000020 | **0.75x** ($-25) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
 | 🟡 BBX | $0.000104 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:06 |
 | 🔴 brainrot | $0.000140 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
 | 🟡 Kurumi | $0.000141 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 14:03 |
@@ -30,7 +32,7 @@
 | 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
 | 🔴 CLAIR | $0.000015 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 Helios | $0.000030 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 13:17 |
-| 🔴 Ava | $0.000014 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
+| 🔴 Ava | $0.000014 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
 | 🔴 shitcoin | $0.000372 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
 | 🟡 ZENT | $0.000120 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:45 |
 | 🔴 e/alt | $0.000011 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 12:42 |

@@ -1,26 +1,28 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 135 (132 open, 3 closed) |
+| Positions | 137 (134 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+212 |
-| 🏦 Total | **$+11** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| 📦 Unrealized | $+173 |
+| 🏦 Total | **$-28** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Sonny | $0.000005 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 TPH | $0.000171 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
+| 🟡 GameTheory | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
+| 🔴 Sonny | $0.000005 | **0.93x** ($-7) | 1.02x |  | pumpswap | 2026-03-20 14:11 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
-| 🟡 Higuruma | $0.000020 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 14:09 |
+| 🔴 Higuruma | $0.000020 | **0.74x** ($-26) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
 | 🟡 mogging | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:07 |
 | 🟡 HeavyPulp | $0.001064 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:51 |
 | 🟡 我的刀盾 | $0.002892 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |

@@ -1,18 +1,18 @@
 # Wallet: `4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF`
 
-> [View on Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-61 |
-| 📦 Unrealized | $-63 |
-| 🏦 Total | **$-124** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| Positions | 9 (7 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-121 |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-125** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
@@ -20,7 +20,6 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 PHM | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 13:56 |
 | 🟡 SQUIDCAT | $0.000004 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:14 |
-| 🔴 Coglet | $0.000008 | **0.41x** ($-59) | 1.85x |  | pumpfun | 2026-03-20 13:09 |
 | 🟡 Coglet | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 Coglet | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:37 |
 | 🟡 PHM | $0.000007 | **1.01x** ($+1) | 1.16x |  | pumpfun | 2026-03-20 11:11 |
@@ -31,6 +30,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Coglet | 0.40x | $-60 | stop_loss | 1.85x | pumpfun | 2026-03-20 13:09 → 2026-03-20 14:16 |
 | 🔴 Civil Claude | 0.39x | $-61 | stop_loss | 1.02x | pumpfun | 2026-03-20 05:43 → 2026-03-20 06:01 |
 
 ---

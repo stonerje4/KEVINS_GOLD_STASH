@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
@@ -9,18 +9,18 @@
 | Positions | 423 (418 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,180 |
-| 🏦 Total | **$-1,266** |
-| Best ROI | 2.75x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-1,224 |
+| 🏦 Total | **$-1,310** |
+| Best Trade | 2.8x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ORAMAMA | $0.000011 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
-| 🔴 Sonny | $0.000005 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
-| 🔴 Higuruma | $0.000022 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 14:09 |
+| 🔴 ORAMAMA | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
+| 🔴 Sonny | $0.000005 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Higuruma | $0.000022 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 14:09 |
 | 🔴 brainrot | $0.000154 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
 | 🔴 Kurumi | $0.000156 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 14:03 |
 | 🟡 LUMO | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:51 |
@@ -29,7 +29,7 @@
 | 🔴 LUNAR | $0.000040 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 BBX | $0.000129 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:20 |
 | 🟡 LAYOFF | $0.000271 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
-| 🔴 Ava | $0.000016 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
+| 🔴 Ava | $0.000016 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
 | 🔴 shitcoin | $0.000409 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
 | 🔴 Goyim | $0.000707 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 13:06 |
 | 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |

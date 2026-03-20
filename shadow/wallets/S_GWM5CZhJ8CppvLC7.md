@@ -1,23 +1,24 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 118 (117 open, 1 closed) |
+| Positions | 119 (118 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
 | 📦 Unrealized | $+126 |
 | 🏦 Total | **$+49** |
-| Best ROI | 0.23x |
-| Avg ROI | 0.23x |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Nigel | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:18 |
 | 🟡 Ouroboros | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 effect | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:08 |
 | 🟡 JACKPOT | $0.000057 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:48 |

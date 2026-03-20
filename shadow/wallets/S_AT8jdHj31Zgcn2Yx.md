@@ -1,24 +1,25 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 142 (114 open, 28 closed) |
+| Positions | 143 (115 open, 28 closed) |
 | W/L | 3/25 (11%) |
 | 💵 Realized | $+2,094 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$+2,123** |
-| Best ROI | 24.90x |
-| Avg ROI | 1.75x |
+| 📦 Unrealized | $+49 |
+| 🏦 Total | **$+2,143** |
+| Best Trade | 24.9x |
+| Avg Peak | 4.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 LIQUA | $0.000078 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
+| 🟡 MERLIN | $0.000160 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |
+| 🟡 LIQUA | $0.000078 | **1.16x** ($+16) | 1.18x |  | pumpswap | 2026-03-20 14:11 |
 | 🟡 Chuck | $0.000103 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:54 |
 | 🟡 IMAGINE | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:27 |
 | 🟡 PIKAHORSE | $0.000248 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:24 |

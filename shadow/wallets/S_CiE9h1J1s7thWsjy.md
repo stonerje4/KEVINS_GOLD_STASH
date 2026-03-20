@@ -1,23 +1,24 @@
 # Wallet: `CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c`
 
-> [View on Solscan](https://solscan.io/account/CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (0 open, 4 closed) |
+| Positions | 5 (1 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+10 |
 | 📦 Unrealized | $+0 |
 | 🏦 Total | **$+10** |
-| Best ROI | 2.92x |
-| Avg ROI | 1.02x |
+| Best Trade | 2.9x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHUCK | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:18 |
 
 ## Closed Positions
 

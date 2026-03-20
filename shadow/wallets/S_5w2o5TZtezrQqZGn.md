@@ -1,23 +1,24 @@
 # Wallet: `5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m`
 
-> [View on Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (11 open, 3 closed) |
+| Positions | 15 (12 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$-180** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.54x |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-178** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Mirai | $0.000011 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 14:19 |
 | 🟡 $CRAB | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:16 |
 | 🟡 awkward | $0.000015 | **1.18x** ($+18) | 1.20x |  | pumpfun | 2026-03-20 10:39 |
 | 🟡 Income | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:08 |

@@ -1,6 +1,6 @@
 # Wallet: `Cm3YAuV58VVnyLAhNgbnwG8p4J3mDe7aYct7BCqQpag3`
 
-> [View on Solscan](https://solscan.io/account/Cm3YAuV58VVnyLAhNgbnwG8p4J3mDe7aYct7BCqQpag3) | Updated: 2026-03-20 14:14 UTC
+> [View on Solscan](https://solscan.io/account/Cm3YAuV58VVnyLAhNgbnwG8p4J3mDe7aYct7BCqQpag3) | Updated: 2026-03-20 14:19 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+338 |
-| 🏦 Total | **$+217** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| 📦 Unrealized | $+380 |
+| 🏦 Total | **$+259** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 methane | $0.000004 | **14.62x** ($+1,362) | 23.04x | ✅ | cpmm | 2026-03-20 13:15 |
+| 🚀 methane | $0.000004 | **16.34x** ($+1,534) | 23.04x | ✅ | cpmm | 2026-03-20 13:15 |
 
 ## Closed Positions
 
