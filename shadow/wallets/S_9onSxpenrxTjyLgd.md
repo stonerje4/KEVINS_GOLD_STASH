@@ -1,6 +1,6 @@
 # Wallet: `9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf`
 
-> [GMGN](https://gmgn.ai/sol/address/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | [Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 23:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | [Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 23:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-14 |
-| 🏦 Total | **$-14** |
+| 📦 Unrealized | $-20 |
+| 🏦 Total | **$-20** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Lili | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:07 |
-| 🟡 JIANG | $0.000020 | **1.31x** ($+31) | 1.34x |  | pumpswap | 2026-03-20 08:05 |
+| 🟡 JIANG | $0.000020 | **1.25x** ($+25) | 1.34x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 APOPHENOTH | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:05 |
 | 🔴 WhiteBoy  | $0.000026 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-19 23:07 |
 

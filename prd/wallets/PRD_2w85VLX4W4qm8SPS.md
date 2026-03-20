@@ -1,6 +1,6 @@
 # PRD Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
 
-> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-20 23:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-20 23:35 UTC
 
 ## Summary
 
@@ -8,10 +8,10 @@
 |--------|-------|
 | Trades | 13 (2 open, 11 closed) |
 | W/L | 2/9 (18%) |
-| 💵 Realized | -0.5352 SOL ($-48.14) |
+| 💵 Realized | -0.5352 SOL ($-48.12) |
 | ⛽ Gas | 0.0448 SOL |
 | 📦 Unrealized | -0.0853 SOL |
-| 🏦 Net | **-0.6206 SOL** ($-55.82) |
+| 🏦 Net | **-0.6206 SOL** ($-55.79) |
 
 ## Positions
 

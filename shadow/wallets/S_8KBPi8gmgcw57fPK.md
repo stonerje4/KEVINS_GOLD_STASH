@@ -1,6 +1,6 @@
 # Wallet: `8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ`
 
-> [GMGN](https://gmgn.ai/sol/address/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | [Solscan](https://solscan.io/account/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | Updated: 2026-03-20 23:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | [Solscan](https://solscan.io/account/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | Updated: 2026-03-20 23:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-99 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-102** |
+| 📦 Unrealized | $-11 |
+| 🏦 Total | **$-109** |
 | Best ROI | 0.61x |
 | Avg ROI | 0.51x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Income | $0.000020 | **1.07x** ($+7) | 1.39x |  | pumpswap | 2026-03-20 15:07 |
+| 🔴 Income | $0.000020 | **0.97x** ($-3) | 1.39x |  | pumpswap | 2026-03-20 15:07 |
 | 🟡 ElonEffect | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:23 |
-| 🔴 Forget | $0.000010 | **0.90x** ($-10) | 1.39x |  | pumpswap | 2026-03-20 09:52 |
+| 🔴 Forget | $0.000010 | **0.92x** ($-8) | 1.39x |  | pumpswap | 2026-03-20 09:52 |
 
 ## Closed Positions
 
