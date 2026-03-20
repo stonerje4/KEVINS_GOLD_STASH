@@ -1,6 +1,6 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 08:26 UTC
+> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 08:31 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ONSING | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 08:00 |
+| 🟡 ONSING | $0.000009 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 08:00 |
 | 🔴 AUTISM | $0.000188 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 07:43 |
 | 🟡 Ouroboros | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
 | 🟡 ZeroG | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:38 |

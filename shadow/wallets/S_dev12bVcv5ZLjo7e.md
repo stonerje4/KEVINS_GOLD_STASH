@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 08:26 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 08:31 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 68 (66 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $-12 |
-| 🏦 Total | **$+18** |
+| 📦 Unrealized | $-8 |
+| 🏦 Total | **$+22** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.1x |
 
@@ -21,11 +21,11 @@
 | 🔴 OSUUSHI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 08:16 |
 | 🔴 UOR | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 08:05 |
 | 🟡 BBX | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 08:04 |
-| 🔴 $Chibi | $0.000003 | **0.92x** ($-8) | 1.21x |  | pumpfun | 2026-03-20 07:55 |
+| 🔴 $Chibi | $0.000003 | **0.88x** ($-12) | 1.21x |  | pumpfun | 2026-03-20 07:55 |
 | 🔴 COLONEL | $0.000005 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 07:37 |
 | 🟡 CHIBLON | $0.000003 | **1.28x** ($+28) | 1.94x |  | pumpfun | 2026-03-20 07:32 |
 | 🔴 CHIBIFY | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 07:20 |
-| 🟡 GLQbYphM | $0.000003 | **1.21x** ($+21) | 1.24x |  | pumpfun | 2026-03-20 07:17 |
+| 🟡 GLQbYphM | $0.000003 | **1.18x** ($+18) | 1.24x |  | pumpfun | 2026-03-20 07:17 |
 | 🔴 OILLESS | $0.000004 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 07:07 |
 | 🔴 ‎  | $0.000003 | **0.85x** ($-15) | 1.32x |  | pumpfun | 2026-03-20 07:04 |
 | 🔴 OIL | $0.000005 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 06:57 |
@@ -35,7 +35,7 @@
 | 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 06:29 |
 | 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.01x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
-| 🟡 Invincible | $0.000007 | **1.15x** ($+15) | 1.22x |  | pumpfun | 2026-03-20 06:20 |
+| 🟡 Invincible | $0.000007 | **1.26x** ($+26) | 1.26x |  | pumpfun | 2026-03-20 06:20 |
 | 🔴 BxrqpHmX | $0.000003 | **0.82x** ($-18) | 1.06x |  | pumpfun | 2026-03-20 06:15 |
 | 🔴 MOCHI | $0.000003 | **0.93x** ($-7) | 1.08x |  | pumpfun | 2026-03-20 05:46 |
 | 🟡 GROGU | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 05:44 |
