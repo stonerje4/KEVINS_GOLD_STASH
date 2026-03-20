@@ -1,6 +1,6 @@
 # Wallet: `3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx`
 
-> [GMGN](https://gmgn.ai/sol/address/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | [Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-20 19:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | [Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-20 19:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-33 |
-| 🏦 Total | **$-33** |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$-34** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WID | $0.000026 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 17:24 |
+| 🔴 WID | $0.000026 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 17:24 |
 | 🟡 Salary | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:20 |
 | 🔴 ROSE | $0.000006 | **0.84x** ($-16) | 1.03x |  | pumpswap | 2026-03-20 09:07 |
 | 🟡 401k | $0.000008 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-20 08:53 |

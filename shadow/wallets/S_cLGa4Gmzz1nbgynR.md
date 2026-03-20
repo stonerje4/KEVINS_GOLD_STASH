@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 19:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 19:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 63 (58 open, 5 closed) |
+| Positions | 64 (59 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-208 |
-| 📦 Unrealized | $-140 |
-| 🏦 Total | **$-348** |
+| 📦 Unrealized | $-149 |
+| 🏦 Total | **$-357** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.58x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 PIKE | $0.000038 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 19:11 |
 | 🟡 Chud | $0.000028 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 FAKER | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:10 |
 | 🔴 CHIBI | $0.000014 | **1.00x** ($-0) | 1.08x |  | pumpswap | 2026-03-20 18:08 |
@@ -34,7 +35,7 @@
 | 🟡 DISLIKE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:09 |
 | 🔴 CHIBITRUMP | $0.000015 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 Matthew | $0.000016 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 12:05 |
-| 🟡 IMAGINE | $0.000037 | **1.31x** ($+31) | 2.68x | ✅ | pumpswap | 2026-03-20 10:15 |
+| 🟡 IMAGINE | $0.000037 | **1.15x** ($+15) | 2.68x | ✅ | pumpswap | 2026-03-20 10:15 |
 | 🟡 chud | $0.000014 | **1.71x** ($+71) | 2.42x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🟡 ARIA | $0.000015 | **1.55x** ($+55) | 1.86x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 LIBERTY | $0.000039 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 07:53 |

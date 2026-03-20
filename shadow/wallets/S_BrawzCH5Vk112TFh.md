@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 19:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 19:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 157 (155 open, 2 closed) |
+| Positions | 158 (156 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+138 |
-| 📦 Unrealized | $-594 |
-| 🏦 Total | **$-456** |
+| 📦 Unrealized | $-560 |
+| 🏦 Total | **$-423** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.69x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Geeked | $0.000022 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 19:10 |
 | 🟡 aliens  | $0.000016 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 18:48 |
 | 🔴 Chud | $0.000031 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
 | 🔴 Saxophones | $0.000038 | **0.81x** ($-19) | 1.03x |  | pumpswap | 2026-03-20 18:40 |
@@ -25,7 +26,7 @@
 | 🟡 CRANK | $0.000017 | **1.02x** ($+2) | 1.08x |  | pumpswap | 2026-03-20 18:19 |
 | 🟡 MIROFISH | $0.000023 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 17:57 |
 | 🔴 ZWF | $0.000009 | **0.44x** ($-56) | 1.01x |  | pumpswap | 2026-03-20 17:44 |
-| 🔴 𝕏 | $0.000023 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 17:39 |
+| 🟡 𝕏 | $0.000023 | **1.24x** ($+24) | 1.30x |  | pumpswap | 2026-03-20 17:39 |
 | 🔴 Situation | $0.000030 | **0.97x** ($-3) | 1.41x |  | pumpswap | 2026-03-20 17:24 |
 | 🟡 PEACE | $0.000021 | **1.34x** ($+34) | 1.55x |  | pumpswap | 2026-03-20 17:10 |
 | 🔴 INCOG | $0.000013 | **0.98x** ($-2) | 1.05x |  | pumpswap | 2026-03-20 17:05 |
@@ -82,7 +83,7 @@
 | 🟡 OPTIMUS | $0.000015 | **1.20x** ($+20) | 1.26x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 chud | $0.000015 | **1.66x** ($+66) | 2.36x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🟡 CLAW | $0.000027 | **1.16x** ($+16) | 1.16x |  | pumpswap | 2026-03-20 07:44 |
-| 🔴 WID | $0.000019 | **0.99x** ($-1) | 1.35x |  | pumpswap | 2026-03-20 07:27 |
+| 🔴 WID | $0.000019 | **0.97x** ($-3) | 1.35x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 DLSS5 | $0.000021 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 07:16 |
 | 🟡 AMBER | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:15 |
 | 🟡 Raccoon | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:15 |

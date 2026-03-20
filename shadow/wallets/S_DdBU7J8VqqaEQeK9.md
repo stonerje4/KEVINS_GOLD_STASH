@@ -1,6 +1,6 @@
 # Wallet: `DdBU7J8VqqaEQeK9AXDJmzuZJaBKGMvdJVWWEEAbGkmb`
 
-> [GMGN](https://gmgn.ai/sol/address/DdBU7J8VqqaEQeK9AXDJmzuZJaBKGMvdJVWWEEAbGkmb) | [Solscan](https://solscan.io/account/DdBU7J8VqqaEQeK9AXDJmzuZJaBKGMvdJVWWEEAbGkmb) | Updated: 2026-03-20 19:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/DdBU7J8VqqaEQeK9AXDJmzuZJaBKGMvdJVWWEEAbGkmb) | [Solscan](https://solscan.io/account/DdBU7J8VqqaEQeK9AXDJmzuZJaBKGMvdJVWWEEAbGkmb) | Updated: 2026-03-20 19:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-90 |
-| 📦 Unrealized | $+39 |
-| 🏦 Total | **$-52** |
+| 📦 Unrealized | $+54 |
+| 🏦 Total | **$-36** |
 | Best ROI | 0.10x |
 | Avg ROI | 0.10x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TD | $0.000018 | **1.77x** ($+77) | 2.02x | ✅ | pumpfun | 2026-03-20 19:02 |
+| 🟢 TD | $0.000018 | **2.09x** ($+109) | 2.68x | ✅ | pumpfun | 2026-03-20 19:02 |
 | 🟡 FOID | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:42 |
 
 ## Closed Positions

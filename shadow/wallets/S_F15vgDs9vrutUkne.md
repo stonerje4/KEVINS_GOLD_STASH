@@ -1,6 +1,6 @@
 # Wallet: `F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU`
 
-> [GMGN](https://gmgn.ai/sol/address/F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU) | [Solscan](https://solscan.io/account/F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU) | Updated: 2026-03-20 19:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU) | [Solscan](https://solscan.io/account/F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU) | Updated: 2026-03-20 19:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-9 |
-| 🏦 Total | **$-95** |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$-79** |
 | Best ROI | 0.76x |
 | Avg ROI | 0.57x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TD | $0.000035 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 19:09 |
+| 🟡 TD | $0.000035 | **1.08x** ($+8) | 1.38x |  | pumpswap | 2026-03-20 19:09 |
 
 ## Closed Positions
 
