@@ -1,16 +1,16 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 07:30 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 07:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (13 open, 7 closed) |
+| Positions | 22 (15 open, 7 closed) |
 | W/L | 2/5 (29%) |
 | 💵 Realized | $-142 |
-| 📦 Unrealized | $-424 |
-| 🏦 Total | **$-566** |
+| 📦 Unrealized | $-445 |
+| 🏦 Total | **$-587** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.6x |
 
@@ -18,10 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chipe | $0.000003 | **0.83x** ($-17) | 1.98x |  | pumpfun | 2026-03-20 07:28 |
-| 🔴 CHIBILON | $0.000007 | **0.43x** ($-57) | 1.14x |  | pumpfun | 2026-03-20 07:16 |
+| 🟡 Chibi | $0.000009 | **1.52x** ($+52) | 1.69x |  | pumpfun | 2026-03-20 07:35 |
+| 🔴 PEPE | $0.000005 | **0.50x** ($-50) | 1.18x |  | pumpfun | 2026-03-20 07:31 |
+| 🔴 Chipe | $0.000003 | **0.77x** ($-23) | 1.98x |  | pumpfun | 2026-03-20 07:28 |
+| 🔴 CHIBILON | $0.000007 | **0.42x** ($-58) | 1.14x |  | pumpfun | 2026-03-20 07:16 |
 | 🔴 Gurneet | $0.000005 | **0.46x** ($-54) | 1.84x |  | pumpfun | 2026-03-20 07:06 |
-| 🔴 AVATAR | $0.000052 | **0.68x** ($-32) | 1.50x |  | pumpswap | 2026-03-20 06:56 |
+| 🔴 AVATAR | $0.000052 | **0.53x** ($-47) | 1.50x |  | pumpswap | 2026-03-20 06:56 |
 | 🔴 GrwBPsCc | $0.000005 | **0.49x** ($-51) | 1.49x |  | pumpfun | 2026-03-20 06:51 |
 | 🔴 Justice | $0.000004 | **0.59x** ($-41) | 1.10x |  | pumpfun | 2026-03-20 06:46 |
 | 🔴 6vuxS6wu | $0.000005 | **0.51x** ($-49) | 1.03x |  | pumpfun | 2026-03-20 05:09 |

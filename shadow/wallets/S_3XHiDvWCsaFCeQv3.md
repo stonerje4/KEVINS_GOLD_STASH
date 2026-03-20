@@ -1,24 +1,23 @@
 # Wallet: `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt`
 
-> [View on Solscan](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | Updated: 2026-03-20 07:30 UTC
+> [View on Solscan](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | Updated: 2026-03-20 07:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-20** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 6 (5 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-21 |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-53** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBELON | $0.000041 | **1.23x** ($+23) | 2.20x | ✅ | pumpswap | 2026-03-20 07:16 |
 | 🟡 Dryer | $0.000052 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:44 |
 | 🟡 CHANNELS | $0.000021 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 02:18 |
 | 🟡 IMAGINE | $0.000030 | **1.24x** ($+24) | 1.24x |  | pumpfun | 2026-03-20 02:07 |
@@ -29,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 CHIBELON | 0.79x | $-21 | trailing_stop_2x | 2.20x | pumpswap | 2026-03-20 07:16 → 2026-03-20 07:32 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

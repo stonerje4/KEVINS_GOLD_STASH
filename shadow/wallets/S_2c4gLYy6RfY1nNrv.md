@@ -1,16 +1,16 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 07:30 UTC
+> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 07:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (13 open, 9 closed) |
+| Positions | 23 (14 open, 9 closed) |
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-346 |
-| 📦 Unrealized | $+295 |
-| 🏦 Total | **$-51** |
+| 📦 Unrealized | $+253 |
+| 🏦 Total | **$-93** |
 | Best Trade | 1.4x |
 | Avg Peak | 1.9x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 awkward | $0.000008 | **3.51x** ($+251) | 4.44x | ✅ | pumpfun | 2026-03-20 07:03 |
-| 🟡 MENACE | $0.000004 | **1.10x** ($+10) | 2.68x | ✅ | pumpswap | 2026-03-20 06:05 |
+| 🔴 FROG | $0.000004 | **0.80x** ($-20) | 1.64x |  | pumpfun | 2026-03-20 07:31 |
+| 🟢 awkward | $0.000008 | **3.08x** ($+208) | 4.44x | ✅ | pumpfun | 2026-03-20 07:03 |
+| 🟡 MENACE | $0.000004 | **1.02x** ($+2) | 2.68x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.51x** ($+151) | 2.51x | ✅ | pumpfun | 2026-03-20 05:51 |
 | 🟡 TRADITION | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:10 |
 | 🔴 BitPenis | $0.000006 | **0.42x** ($-58) | 1.30x |  | pumpfun | 2026-03-20 04:59 |

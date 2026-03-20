@@ -1,24 +1,24 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 07:30 UTC
+> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 07:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (6 open, 1 closed) |
-| W/L | 1/0 (100%) |
-| 💵 Realized | $+49 |
-| 📦 Unrealized | $-60 |
-| 🏦 Total | **$-11** |
+| Positions | 8 (6 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $-12 |
+| 📦 Unrealized | $+9 |
+| 🏦 Total | **$-3** |
 | Best Trade | 1.5x |
-| Avg Peak | 3.7x |
+| Avg Peak | 2.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 chibinald | $0.000012 | **0.76x** ($-24) | 1.17x |  | pumpfun | 2026-03-20 07:24 |
+| 🟡 Raccoon | $0.000003 | **1.45x** ($+45) | 1.45x |  | pumpfun | 2026-03-20 07:35 |
 | 🟡 驚き | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:19 |
 | 🟡 SMCI | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:23 |
 | 🔴 INR | $0.000003 | **0.82x** ($-18) | 1.29x |  | pumpfun | 2026-03-20 02:31 |
@@ -29,6 +29,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 chibinald | 0.39x | $-61 | stop_loss | 1.17x | pumpfun | 2026-03-20 07:24 → 2026-03-20 07:34 |
 | 🟡 MINKA | 1.49x | $+49 | trailing_stop_4x | 3.69x | pumpfun | 2026-03-20 02:34 → 2026-03-20 02:54 |
 
 ---

@@ -1,6 +1,6 @@
 # Wallet: `3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1`
 
-> [View on Solscan](https://solscan.io/account/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | Updated: 2026-03-20 07:30 UTC
+> [View on Solscan](https://solscan.io/account/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | Updated: 2026-03-20 07:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-33 |
-| 🏦 Total | **$-33** |
+| 📦 Unrealized | $-41 |
+| 🏦 Total | **$-41** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Baldi | $0.000025 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
-| 🔴 90S | $0.000019 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
-| 🔴 NICK | $0.000032 | **0.94x** ($-6) | 1.13x |  | pumpswap | 2026-03-19 23:32 |
+| 🔴 90S | $0.000019 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
+| 🔴 NICK | $0.000032 | **0.89x** ($-11) | 1.13x |  | pumpswap | 2026-03-19 23:32 |
 
 ## Closed Positions
 

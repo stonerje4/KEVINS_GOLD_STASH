@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 07:30 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 07:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 41 (38 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $-216 |
-| 🏦 Total | **$-292** |
+| 📦 Unrealized | $-217 |
+| 🏦 Total | **$-293** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.2x |
 
@@ -51,7 +51,7 @@
 | 🔴 TOKEN | $0.000133 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 DIVERGENT | $0.000007 | **0.61x** ($-39) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
-| 🔴 George | $0.000026 | **0.49x** ($-51) | 1.00x |  | pumpswap | 2026-03-19 22:56 |
+| 🔴 George | $0.000026 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-19 22:56 |
 | 🟡 FML | $0.000196 | **1.38x** ($+38) | 1.51x |  | pumpswap | 2026-03-19 22:44 |
 | 🔴 STITCH | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-19 22:42 |
 | 🟡 BBX | $0.000434 | **1.21x** ($+21) | 1.55x |  | pumpswap | 2026-03-19 22:41 |

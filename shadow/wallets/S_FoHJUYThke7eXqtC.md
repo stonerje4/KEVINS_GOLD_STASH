@@ -1,16 +1,16 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 07:30 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 07:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 28 (28 open, 0 closed) |
+| Positions | 29 (29 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+24 |
-| 🏦 Total | **$+24** |
+| 📦 Unrealized | $+30 |
+| 🏦 Total | **$+30** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 asstattoo | $0.000003 | **1.06x** ($+6) | 1.06x |  | pumpfun | 2026-03-20 07:33 |
 | 🔴 SOLOWORKER | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 07:13 |
 | 🔴 PBPETE | $0.000003 | **0.97x** ($-3) | 1.09x |  | pumpfun | 2026-03-20 07:02 |
 | 🔴 GRUM | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 06:36 |
