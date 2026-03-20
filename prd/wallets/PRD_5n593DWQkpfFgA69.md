@@ -1,6 +1,6 @@
 # PRD Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
 
-> [GMGN](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | [Solscan](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | Updated: 2026-03-20 23:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | [Solscan](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | Updated: 2026-03-20 23:10 UTC
 
 ## Summary
 
@@ -8,17 +8,17 @@
 |--------|-------|
 | Trades | 5 (4 open, 1 closed) |
 | W/L | 1/0 (100%) |
-| 💵 Realized | +0.1194 SOL ($+10.76) |
+| 💵 Realized | +0.1194 SOL ($+10.75) |
 | ⛽ Gas | 0.0065 SOL |
-| 📦 Unrealized | -0.1837 SOL |
-| 🏦 Net | **-0.0643 SOL** ($-5.80) |
+| 📦 Unrealized | -0.1899 SOL |
+| 🏦 Net | **-0.0705 SOL** ($-6.35) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 DHS | open | 0.11 | 0.63x | 1.26x | -0.0455 | — |
-| 🔴 TOKENMAXXING | open | 0.11 | 0.90x | 1.30x | -0.0157 | — |
+| 🔴 DHS | open | 0.11 | 0.56x | 1.26x | -0.0538 | — |
+| 🔴 TOKENMAXXING | open | 0.11 | 0.92x | 1.30x | -0.0137 | — |
 | 🔴 TittyKiller | open | 0.11 | 0.49x | 1.12x | -0.0616 | — |
 | 🔴 TittyKiller | open | 0.11 | 0.49x | 1.00x | -0.0608 | — |
 | 🟢 CAT | closed | 0.11 | 1.45x | 4.44x | +0.1194 | runner_trailing_stop |

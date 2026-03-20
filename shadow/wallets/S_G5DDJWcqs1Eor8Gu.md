@@ -1,6 +1,6 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 23:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 23:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (10 open, 12 closed) |
 | W/L | 0/12 (0%) |
 | 💵 Realized | $-711 |
-| 📦 Unrealized | $+203 |
-| 🏦 Total | **$-508** |
+| 📦 Unrealized | $+192 |
+| 🏦 Total | **$-519** |
 | Best ROI | 0.93x |
 | Avg ROI | 0.41x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TADC | $0.000032 | **1.07x** ($+7) | 1.21x |  | pumpswap | 2026-03-20 22:52 |
+| 🟡 TADC | $0.000032 | **1.13x** ($+13) | 1.21x |  | pumpswap | 2026-03-20 22:52 |
 | 🟡 p-token | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:36 |
-| 🟢 CAINE | $0.000038 | **2.09x** ($+109) | 2.26x | ✅ | pumpswap | 2026-03-20 21:28 |
+| 🟡 CAINE | $0.000038 | **1.76x** ($+76) | 2.26x | ✅ | pumpswap | 2026-03-20 21:28 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 16:05 |
 | 🟡 NunChucks | $0.000016 | **1.94x** ($+94) | 2.33x | ✅ | pumpfun | 2026-03-20 14:32 |
 | 🟢 omochi | $0.000015 | **2.49x** ($+149) | 2.49x | ✅ | pumpfun | 2026-03-20 09:36 |

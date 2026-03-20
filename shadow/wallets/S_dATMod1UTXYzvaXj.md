@@ -1,18 +1,18 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 23:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 23:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (16 open, 16 closed) |
-| W/L | 1/15 (6%) |
-| 💵 Realized | $-618 |
-| 📦 Unrealized | $+304 |
-| 🏦 Total | **$-314** |
+| Positions | 32 (15 open, 17 closed) |
+| W/L | 1/16 (6%) |
+| 💵 Realized | $-679 |
+| 📦 Unrealized | $+413 |
+| 🏦 Total | **$-266** |
 | Best ROI | 1.47x |
-| Avg ROI | 0.61x |
+| Avg ROI | 0.60x |
 
 ## Open Positions
 
@@ -26,10 +26,9 @@
 | 🔴 clod | $0.000022 | **0.78x** ($-22) | 1.84x |  | pumpswap | 2026-03-20 12:17 |
 | 🟢 Doolysaurus | $0.000038 | **3.78x** ($+278) | 6.40x | ✅ | pumpswap | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |
-| 🔴 Chonk | $0.000013 | **0.43x** ($-57) | 1.50x |  | pumpfun | 2026-03-20 09:44 |
 | 🟡 SIGNAL | $0.000019 | **1.93x** ($+93) | 1.93x |  | pumpfun | 2026-03-20 09:23 |
 | 🟡 omochi | $0.000020 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 09:13 |
-| 🔴 Pixels | $0.000024 | **0.95x** ($-5) | 1.59x |  | pumpfun | 2026-03-20 06:53 |
+| 🟡 Pixels | $0.000024 | **1.46x** ($+46) | 1.76x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 BOAR | $0.000008 | **0.77x** ($-23) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
 | 🟢 9Yqs3sVA | $0.000008 | **2.69x** ($+169) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
@@ -48,6 +47,7 @@
 | 🔴 HELLO | 0.39x | $-61 | stop_loss | 1.22x | pumpfun | 2026-03-20 16:02 → 2026-03-20 16:09 |
 | 🟡 LEGO | 0.83x | $-17 | trailing_stop_2x | 2.05x | pumpfun | 2026-03-20 15:46 → 2026-03-20 15:52 |
 | 🔴 Steel | 0.39x | $-61 | stop_loss | 1.79x | pumpfun | 2026-03-20 14:40 → 2026-03-20 15:22 |
+| 🔴 Chonk | 0.39x | $-61 | stop_loss | 1.50x | pumpfun | 2026-03-20 09:44 → 2026-03-20 23:07 |
 | 🔴 effect | 0.74x | $-26 | trailing_stop_2x | 2.03x | pumpfun | 2026-03-20 09:35 → 2026-03-20 09:45 |
 | 🔴 5GsJXBfX | 0.37x | $-63 | stop_loss | 1.54x | pumpfun | 2026-03-20 02:59 → 2026-03-20 03:01 |
 | 🟡 NEMO | 0.84x | $-16 | trailing_stop_2x | 2.43x | pumpfun | 2026-03-20 02:23 → 2026-03-20 02:34 |
