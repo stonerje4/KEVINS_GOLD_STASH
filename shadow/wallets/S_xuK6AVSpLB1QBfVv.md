@@ -1,24 +1,25 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 14:29 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 14:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 83 (82 open, 1 closed) |
+| Positions | 84 (83 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-354 |
-| 🏦 Total | **$-370** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-345 |
+| 🏦 Total | **$-361** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Walletmaxxing | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:26 |
+| 🟡 Chucks | $0.000003 | **1.12x** ($+12) | 1.12x |  | pumpfun | 2026-03-20 14:33 |
+| 🔴 Walletmaxxing | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:26 |
 | 🟡 180K | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 14:23 |
 | 🔴 H1EcKHzC | $0.000003 | **0.84x** ($-16) | 1.26x |  | pumpfun | 2026-03-20 14:13 |
 | 🔴 KWEK | $0.000003 | **0.98x** ($-2) | 1.08x |  | pumpfun | 2026-03-20 14:08 |

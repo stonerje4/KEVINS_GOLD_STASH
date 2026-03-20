@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 14:29 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 14:34 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 133 (131 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-169** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.31x |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$-171** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🔴 imagine | $0.000059 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🟡 Newscum | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🟡 Machi | $0.000743 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:27 |
-| 🔴 Higuruma | $0.000018 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
+| 🔴 Higuruma | $0.000018 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 INCOG | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 FSC | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 MICRO | $0.000076 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
@@ -36,7 +36,7 @@
 | 🟡 house | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
 | 🟡 TFW | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:35 |
-| 🟡 Helios | $0.000029 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 13:30 |
+| 🔴 Helios | $0.000029 | **0.99x** ($-1) | 1.08x |  | pumpswap | 2026-03-20 13:30 |
 | 🔴 Ava | $0.000013 | **0.75x** ($-25) | 1.02x |  | pumpswap | 2026-03-20 13:30 |
 | 🟡 NMF | $0.000019 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 13:04 |
 | 🟡 XPD | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:24 |
@@ -146,7 +146,7 @@
 | 🔴 MIROFISH | $0.000035 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 PIKAHORSE | $0.000398 | **0.89x** ($-11) | 1.05x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 DEEPSEEKV4 | $0.000041 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 22:54 |
-| 🟡 Goyim | $0.000395 | **1.45x** ($+45) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000395 | **1.46x** ($+46) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
 | 🔴 GameTheory | $0.000019 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:37 |
 | 🟡 UGOR | $0.000161 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-19 22:37 |
 

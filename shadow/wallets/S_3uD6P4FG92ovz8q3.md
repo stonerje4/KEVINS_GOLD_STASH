@@ -1,6 +1,6 @@
 # Wallet: `3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3`
 
-> [View on Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 14:29 UTC
+> [View on Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 14:34 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+109 |
-| 🏦 Total | **$+109** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+122 |
+| 🏦 Total | **$+122** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🟡 MOSHI | $0.000003 | **1.25x** ($+25) | 1.47x |  | pumpfun | 2026-03-20 13:22 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
-| 🟡 C7NSBRKs | $0.000003 | **1.50x** ($+50) | 1.50x |  | pumpfun | 2026-03-20 13:19 |
+| 🟡 C7NSBRKs | $0.000003 | **1.63x** ($+63) | 1.63x |  | pumpfun | 2026-03-20 13:19 |
 | 🟡 WRT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:54 |
 | 🟡 $TFROG | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |
 | 🟡 TGR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:46 |

@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 14:29 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 14:34 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 317 (313 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
-| 📦 Unrealized | $+240 |
-| 🏦 Total | **$+236** |
-| Best ROI | 3.00x |
-| Avg ROI | 0.99x |
+| 📦 Unrealized | $+230 |
+| 🏦 Total | **$+226** |
+| Best Trade | 3.0x |
+| Avg Peak | 2.7x |
 
 ## Open Positions
 
@@ -23,10 +23,10 @@
 | 🟡 Newscum | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🔴 TPH | $0.000174 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 GameTheory | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
-| 🔴 Sonny | $0.000005 | **0.77x** ($-23) | 1.06x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Sonny | $0.000005 | **0.72x** ($-28) | 1.06x |  | pumpswap | 2026-03-20 14:11 |
 | 🔴 Higuruma | $0.000020 | **0.81x** ($-19) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
 | 🟡 BBX | $0.000104 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:06 |
-| 🔴 brainrot | $0.000140 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
+| 🔴 brainrot | $0.000140 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
 | 🟡 Kurumi | $0.000141 | **1.11x** ($+11) | 1.16x |  | pumpswap | 2026-03-20 14:03 |
 | 🟡 CHIBELON | $0.000128 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:03 |
 | 🟡 chibify | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
@@ -34,7 +34,7 @@
 | 🔴 LUNAR | $0.000037 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
 | 🔴 CLAIR | $0.000015 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
-| 🔴 Helios | $0.000030 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-20 13:17 |
+| 🔴 Helios | $0.000030 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-20 13:17 |
 | 🔴 Ava | $0.000014 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
 | 🔴 shitcoin | $0.000372 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
 | 🟡 ZENT | $0.000120 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:45 |
@@ -327,7 +327,7 @@
 | 🟡 imagineslop | $0.000005 | **1.29x** ($+29) | 1.45x |  | pumpswap | 2026-03-19 22:40 |
 | 🔴 Baldi | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-19 22:39 |
 | 🔴 BAGWORKOOR | $0.000055 | **0.95x** ($-5) | 1.32x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000385 | **1.49x** ($+49) | 1.72x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000385 | **1.50x** ($+50) | 1.72x |  | pumpswap | 2026-03-19 22:38 |
 | 🟡 DATBOI | $0.000044 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 22:37 |
 | 🔴 CL1 | $0.000335 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:36 |
 | 🔴 worth | $0.000107 | **0.96x** ($-4) | 1.17x |  | pumpswap | 2026-03-19 22:35 |

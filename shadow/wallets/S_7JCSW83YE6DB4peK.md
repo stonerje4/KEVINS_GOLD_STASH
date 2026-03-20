@@ -1,31 +1,32 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 14:29 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 14:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 140 (137 open, 3 closed) |
+| Positions | 141 (138 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+160 |
-| 🏦 Total | **$-42** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| 📦 Unrealized | $+156 |
+| 🏦 Total | **$-45** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Doom | $0.000063 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:32 |
 | 🟡 MICRO | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 Chud | $0.000525 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 Xingxing | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🔴 TPH | $0.000171 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 GameTheory | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
-| 🔴 Sonny | $0.000005 | **0.75x** ($-25) | 1.02x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Sonny | $0.000005 | **0.70x** ($-30) | 1.02x |  | pumpswap | 2026-03-20 14:11 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
-| 🔴 Higuruma | $0.000020 | **0.80x** ($-20) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
+| 🔴 Higuruma | $0.000020 | **0.81x** ($-19) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
 | 🟡 mogging | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:07 |
 | 🟡 HeavyPulp | $0.001064 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:51 |
 | 🟡 我的刀盾 | $0.002892 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -37,7 +38,7 @@
 | 🟡 BIG | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🟡 CLAIR | $0.000013 | **1.11x** ($+11) | 1.12x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 HORMUZ | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
-| 🔴 Goyim | $0.000621 | **0.92x** ($-8) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
+| 🔴 Goyim | $0.000621 | **0.93x** ($-7) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 fine999.9 | $0.001807 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:59 |
 | 🟡 Matthew | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:56 |
 | 🟡 NETAINYAHU | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:44 |

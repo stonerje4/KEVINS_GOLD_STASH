@@ -1,23 +1,24 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 14:29 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 14:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 194 (191 open, 3 closed) |
+| Positions | 195 (192 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
-| 📦 Unrealized | $+144 |
-| 🏦 Total | **$+322** |
-| Best ROI | 2.91x |
-| Avg ROI | 1.59x |
+| 📦 Unrealized | $+143 |
+| 🏦 Total | **$+321** |
+| Best Trade | 2.9x |
+| Avg Peak | 4.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Higuruma | $0.000017 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:33 |
 | 🟡 Doom | $0.000067 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Sybil  | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 MICRO | $0.000075 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
