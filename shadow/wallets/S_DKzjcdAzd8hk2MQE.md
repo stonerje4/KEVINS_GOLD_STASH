@@ -1,6 +1,6 @@
 # Wallet: `DKzjcdAzd8hk2MQEuykWud9hx6WfY6rhRXQH4fMQJkkS`
 
-> [GMGN](https://gmgn.ai/sol/address/DKzjcdAzd8hk2MQEuykWud9hx6WfY6rhRXQH4fMQJkkS) | [Solscan](https://solscan.io/account/DKzjcdAzd8hk2MQEuykWud9hx6WfY6rhRXQH4fMQJkkS) | Updated: 2026-03-20 21:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/DKzjcdAzd8hk2MQEuykWud9hx6WfY6rhRXQH4fMQJkkS) | [Solscan](https://solscan.io/account/DKzjcdAzd8hk2MQEuykWud9hx6WfY6rhRXQH4fMQJkkS) | Updated: 2026-03-20 21:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-64 |
-| 🏦 Total | **$-64** |
+| 📦 Unrealized | $-65 |
+| 🏦 Total | **$-65** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ROUNDHOUSE | $0.000011 | **0.46x** ($-54) | 1.11x |  | pumpswap | 2026-03-20 20:01 |
+| 🔴 ROUNDHOUSE | $0.000011 | **0.45x** ($-55) | 1.11x |  | pumpswap | 2026-03-20 20:01 |
 | 🔴 Frac | $0.000007 | **0.90x** ($-10) | 1.18x |  | pumpfun | 2026-03-20 00:39 |
 
 ## Closed Positions

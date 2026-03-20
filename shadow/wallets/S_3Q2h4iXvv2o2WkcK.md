@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 21:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 21:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 23 (20 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-159 |
-| 📦 Unrealized | $-250 |
-| 🏦 Total | **$-410** |
+| 📦 Unrealized | $-246 |
+| 🏦 Total | **$-406** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.47x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 FOID | $0.000009 | **1.02x** ($+2) | 1.12x |  | pumpswap | 2026-03-20 21:06 |
-| 🔴 ROUNDHOUSE | $0.000006 | **0.81x** ($-19) | 1.01x |  | pumpswap | 2026-03-20 20:35 |
-| 🔴 Saleh | $0.000015 | **0.83x** ($-17) | 1.15x |  | pumpswap | 2026-03-20 20:28 |
-| 🟡 SNIFFER | $0.000037 | **1.25x** ($+25) | 1.49x |  | pumpswap | 2026-03-20 18:46 |
+| 🟡 FOID | $0.000009 | **1.01x** ($+1) | 1.12x |  | pumpswap | 2026-03-20 21:06 |
+| 🔴 ROUNDHOUSE | $0.000006 | **0.79x** ($-21) | 1.01x |  | pumpswap | 2026-03-20 20:35 |
+| 🔴 Saleh | $0.000015 | **0.84x** ($-16) | 1.15x |  | pumpswap | 2026-03-20 20:28 |
+| 🟡 SNIFFER | $0.000037 | **1.33x** ($+33) | 1.49x |  | pumpswap | 2026-03-20 18:46 |
 | 🔴 Judy | $0.000010 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 18:34 |
 | 🟡 ARIA | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:49 |
 | 🟡 ME | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
-| 🔴 ZeroG | $0.000011 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 16:23 |
+| 🔴 ZeroG | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 16:23 |
 | 🟡 PACO | $0.000009 | **1.39x** ($+39) | 1.40x |  | pumpswap | 2026-03-20 15:45 |
 | 🔴 clod | $0.000031 | **0.53x** ($-47) | 1.26x |  | pumpswap | 2026-03-20 14:55 |
 | 🔴 Dryer | $0.000034 | **0.42x** ($-58) | 1.18x |  | pumpswap | 2026-03-20 10:45 |

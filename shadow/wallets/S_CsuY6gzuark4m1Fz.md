@@ -1,6 +1,6 @@
 # Wallet: `CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs`
 
-> [GMGN](https://gmgn.ai/sol/address/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | [Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 21:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | [Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 21:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (7 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-155 |
-| 📦 Unrealized | $+156 |
-| 🏦 Total | **$+1** |
+| 📦 Unrealized | $+154 |
+| 🏦 Total | **$-1** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.61x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHICK | $0.000012 | **1.47x** ($+47) | 2.29x | ✅ | pumpfun | 2026-03-20 20:49 |
+| 🟡 CHICK | $0.000012 | **1.42x** ($+42) | 2.29x | ✅ | pumpfun | 2026-03-20 20:49 |
 | 🟡 Jeremy | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:17 |
 | 🟢 credit | $0.000012 | **3.05x** ($+205) | 3.05x | ✅ | pumpfun | 2026-03-20 03:16 |
 | 🟡 Sentinel | $0.000006 | **1.19x** ($+19) | 1.42x |  | pumpfun | 2026-03-20 02:55 |

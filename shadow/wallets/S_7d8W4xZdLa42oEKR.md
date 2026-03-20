@@ -1,26 +1,25 @@
 # Wallet: `7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ`
 
-> [GMGN](https://gmgn.ai/sol/address/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | [Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-20 21:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | [Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-20 21:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-17 |
-| 🏦 Total | **$-17** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 5 (4 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-16 |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-29** |
+| Best ROI | 0.84x |
+| Avg ROI | 0.84x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CRACK | $0.000018 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 20:37 |
+| 🟡 CRACK | $0.000018 | **1.29x** ($+29) | 1.45x |  | pumpfun | 2026-03-20 20:37 |
 | 🟡 Imaginify | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 19:49 |
-| 🟡 DogeFather | $0.000021 | **1.21x** ($+21) | 2.15x | ✅ | pumpfun | 2026-03-20 19:47 |
 | 🔴 Forget | $0.000011 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 19:33 |
 | 🔴 Saxophones | $0.000035 | **0.89x** ($-11) | 1.67x |  | pumpswap | 2026-03-20 01:16 |
 
@@ -28,6 +27,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 DogeFather | 0.84x | $-16 | trailing_stop_2x | 2.15x | pumpfun | 2026-03-20 19:47 → 2026-03-20 21:27 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
