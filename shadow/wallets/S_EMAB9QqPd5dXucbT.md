@@ -9,16 +9,16 @@
 | Positions | 33 (33 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-65 |
-| 🏦 Total | **$-65** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-66 |
+| 🏦 Total | **$-66** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Wob | $0.000023 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
+| 🟡 Wob | $0.000023 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 Flash | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:43 |
 | 🟡 LUMO | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:27 |
 | 🔴 awkward | $0.000013 | **1.00x** ($-0) | 1.24x |  | pumpfun | 2026-03-20 10:09 |

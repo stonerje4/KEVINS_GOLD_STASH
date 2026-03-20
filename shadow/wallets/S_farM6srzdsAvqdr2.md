@@ -9,16 +9,16 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+53 |
-| 🏦 Total | **$-7** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.1x |
+| 📦 Unrealized | $+54 |
+| 🏦 Total | **$-6** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Imaginify | $0.000010 | **1.52x** ($+52) | 1.52x |  | pumpfun | 2026-03-20 08:19 |
+| 🟡 Imaginify | $0.000010 | **1.53x** ($+53) | 1.53x |  | pumpfun | 2026-03-20 08:19 |
 | 🟡 NEMO | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:08 |
 | 🟡 twump | $0.000015 | **1.20x** ($+20) | 2.21x | ✅ | pumpfun | 2026-03-19 22:42 |
 | 🔴 DD | $0.000006 | **0.91x** ($-9) | 1.01x |  | pumpfun | 2026-03-19 22:39 |

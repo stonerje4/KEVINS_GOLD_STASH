@@ -11,15 +11,15 @@
 | 💵 Realized | $-68 |
 | 📦 Unrealized | $-14 |
 | 🏦 Total | **$-82** |
-| Best Trade | 0.3x |
-| Avg Peak | 1.1x |
+| Best ROI | 0.32x |
+| Avg ROI | 0.32x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Rosei | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:24 |
-| 🔴 Mario | $0.000005 | **0.48x** ($-52) | 1.09x |  | pumpfun | 2026-03-20 04:11 |
+| 🔴 Mario | $0.000005 | **0.47x** ($-53) | 1.09x |  | pumpfun | 2026-03-20 04:11 |
 | 🟡 Cow | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:13 |
 | 🟡 retardyahu | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:02 |
 | 🟡 MFT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:20 |

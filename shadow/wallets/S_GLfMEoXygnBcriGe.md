@@ -11,15 +11,15 @@
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $+7 |
 | 🏦 Total | **$-53** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.39x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 early | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:40 |
-| 🔴 Ride | $0.000019 | **0.87x** ($-13) | 1.13x |  | pumpswap | 2026-03-20 07:26 |
+| 🔴 Ride | $0.000019 | **0.86x** ($-14) | 1.13x |  | pumpswap | 2026-03-20 07:26 |
 | 🔴 AIKO | $0.000010 | **0.79x** ($-21) | 1.08x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 PERCOLATOR | $0.000065 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:43 |
 | 🟡 CHIBI | $0.001118 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:33 |

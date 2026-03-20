@@ -9,16 +9,16 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-28 |
-| 🏦 Total | **$-28** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$-29** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 INCOME | $0.000724 | **0.72x** ($-28) | 1.01x |  | pumpswap | 2026-03-19 23:54 |
+| 🔴 INCOME | $0.000724 | **0.71x** ($-29) | 1.01x |  | pumpswap | 2026-03-19 23:54 |
 
 ## Closed Positions
 

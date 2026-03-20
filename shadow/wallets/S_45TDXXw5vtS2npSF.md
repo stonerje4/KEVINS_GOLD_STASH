@@ -11,8 +11,8 @@
 | 💵 Realized | $-121 |
 | 📦 Unrealized | $-41 |
 | 🏦 Total | **$-162** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.4x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
@@ -27,7 +27,7 @@
 | 🟡 EmH4y6zA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 Slap | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 Slap | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:13 |
-| 🔴 INCOME | $0.000685 | **0.76x** ($-24) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
+| 🔴 INCOME | $0.000685 | **0.75x** ($-25) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
 
 ## Closed Positions
 
