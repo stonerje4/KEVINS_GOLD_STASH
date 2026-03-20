@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 19:58 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 20:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 169 (166 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+121 |
-| 📦 Unrealized | $-586 |
-| 🏦 Total | **$-465** |
+| 📦 Unrealized | $-589 |
+| 🏦 Total | **$-468** |
 | Best ROI | 3.00x |
 | Avg ROI | 1.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Noorung | $0.000023 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 19:57 |
+| 🔴 Noorung | $0.000023 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 19:57 |
 | 🔴 Alien | $0.000021 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-20 19:57 |
 | 🔴 OIIA | $0.000032 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 19:33 |
 | 🟡 Samba | $0.000008 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-20 19:10 |
@@ -56,7 +56,7 @@
 | 🔴 Ava | $0.000014 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
 | 🔴 e/alt | $0.000011 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 12:42 |
 | 🟡 MOMO | $0.000035 | **1.05x** ($+5) | 1.12x |  | pumpswap | 2026-03-20 12:41 |
-| 🔴 𝕏 Card  | $0.000023 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 12:30 |
+| 🔴 𝕏 Card  | $0.000023 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 12:30 |
 | 🔴 PATAPIM | $0.000006 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🔴 CHIBITRUMP | $0.000015 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 FSC | $0.000030 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 11:56 |
