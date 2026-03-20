@@ -1,6 +1,6 @@
 # Wallet: `HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx`
 
-> [GMGN](https://gmgn.ai/sol/address/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | [Solscan](https://solscan.io/account/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | Updated: 2026-03-20 21:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | [Solscan](https://solscan.io/account/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | Updated: 2026-03-20 21:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+32 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$+35** |
+| 📦 Unrealized | $+10 |
+| 🏦 Total | **$+42** |
 | Best ROI | 1.32x |
 | Avg ROI | 1.32x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Jessica | $0.000006 | **1.06x** ($+6) | 2.18x | ✅ | pumpswap | 2026-03-20 21:25 |
+| 🟡 Jessica | $0.000006 | **1.20x** ($+20) | 2.18x | ✅ | pumpswap | 2026-03-20 21:25 |
 | 🟡 MUSKITTY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 20:30 |
 | 🟡 VITALY | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 18:24 |
 

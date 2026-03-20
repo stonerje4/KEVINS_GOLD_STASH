@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 21:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 21:55 UTC
 
 ## Summary
 
@@ -23,7 +23,7 @@
 | 🟡 IShowSpeed | $0.000008 | **1.90x** ($+90) | 2.31x | ✅ | pumpswap | 2026-03-20 17:26 |
 | 🟡 unemployed | $0.000006 | **1.32x** ($+32) | 1.33x |  | pumpswap | 2026-03-20 17:23 |
 | 🟡 TGR | $0.000008 | **1.05x** ($+5) | 1.15x |  | pumpfun | 2026-03-20 16:14 |
-| 🔴 Monke | $0.000009 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
+| 🔴 Monke | $0.000009 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
 | 🟡 OSP | $0.000019 | **1.30x** ($+30) | 1.43x |  | pumpfun | 2026-03-20 05:22 |
 | 🟡 Samba | $0.000006 | **1.88x** ($+88) | 3.28x | ✅ | pumpswap | 2026-03-20 05:14 |
 | 🟡 UOR | $0.000035 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 01:59 |

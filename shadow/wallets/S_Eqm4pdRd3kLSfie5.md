@@ -1,16 +1,16 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 21:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 21:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (16 open, 8 closed) |
+| Positions | 25 (17 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-277 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-309** |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$-323** |
 | Best ROI | 1.32x |
 | Avg ROI | 0.65x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 JEREMY | $0.000016 | **0.68x** ($-32) | 1.05x |  | pumpswap | 2026-03-20 20:56 |
+| 🔴 LIFE | $0.000005 | **0.87x** ($-13) | 1.06x |  | pumpfun | 2026-03-20 21:52 |
+| 🔴 JEREMY | $0.000016 | **0.67x** ($-33) | 1.05x |  | pumpswap | 2026-03-20 20:56 |
 | 🟢 Cigify | $0.000010 | **3.68x** ($+268) | 3.68x | ✅ | pumpfun | 2026-03-20 20:55 |
 | 🔴 Samba | $0.000015 | **0.77x** ($-23) | 1.35x |  | pumpswap | 2026-03-20 20:42 |
 | 🟡 6eZMXJNA | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 20:29 |
