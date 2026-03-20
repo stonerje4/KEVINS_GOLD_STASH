@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 03:34 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 03:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (16 open, 3 closed) |
+| Positions | 20 (17 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-84 |
-| 📦 Unrealized | $-267 |
-| 🏦 Total | **$-352** |
+| 📦 Unrealized | $-321 |
+| 🏦 Total | **$-406** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.3x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 59DQqRKs | $0.000005 | **0.46x** ($-54) | 1.06x |  | pumpfun | 2026-03-20 03:38 |
 | 🔴 2NbLjyqS | $0.000003 | **0.72x** ($-28) | 1.32x |  | pumpfun | 2026-03-20 02:57 |
 | 🟡 Sentinel | $0.000006 | **1.10x** ($+10) | 1.75x |  | pumpfun | 2026-03-20 02:54 |
 | 🔴 5yfsG1t6 | $0.000004 | **0.71x** ($-29) | 1.08x |  | pumpfun | 2026-03-20 02:53 |

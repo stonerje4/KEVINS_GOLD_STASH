@@ -1,12 +1,12 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 03:34 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 03:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 174 (172 open, 2 closed) |
+| Positions | 178 (176 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+121 |
 | 📦 Unrealized | $+244 |
@@ -18,9 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CLAW3D | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
+| 🔴 Gizmo | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:38 |
+| 🔴 Replacement | $0.000017 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
+| 🟡 PYRO | $0.000039 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 03:35 |
 | 🟡 Fro | $0.000205 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:32 |
 | 🟡 creature | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
-| 🟡 BioLLM | $0.000104 | **1.20x** ($+20) | 1.28x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000104 | **1.32x** ($+32) | 1.35x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 HeavyPulp | $0.000927 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:19 |
 | 🟡 SAID | $0.000270 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-20 03:16 |
@@ -171,7 +175,7 @@
 | 🟡 Geeked | $0.000022 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-19 22:57 |
 | 🔴 Noesis | $0.000351 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-19 22:57 |
 | 🔴 OXIDE | $0.000038 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 22:56 |
-| 🟡 mogging | $0.000044 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-19 22:55 |
+| 🟡 mogging | $0.000044 | **1.08x** ($+8) | 1.17x |  | pumpswap | 2026-03-19 22:55 |
 | 🟢 Spiderman | $0.000082 | **2.55x** ($+155) | 2.68x | ✅ | pumpswap | 2026-03-19 22:54 |
 | 🔴 DLSS5 | $0.000026 | **1.00x** ($-0) | 1.08x |  | pumpswap | 2026-03-19 22:52 |
 | 🔴 BLUECOLLAR | $0.000010 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-19 22:52 |

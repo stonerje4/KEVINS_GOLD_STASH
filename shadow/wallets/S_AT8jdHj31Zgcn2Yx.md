@@ -1,16 +1,16 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 03:34 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 03:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 62 (52 open, 10 closed) |
-| W/L | 0/10 (0%) |
-| 💵 Realized | $-472 |
-| 📦 Unrealized | $+141 |
-| 🏦 Total | **$-331** |
+| Positions | 63 (52 open, 11 closed) |
+| W/L | 0/11 (0%) |
+| 💵 Realized | $-533 |
+| 📦 Unrealized | $+183 |
+| 🏦 Total | **$-349** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Floki | $0.000134 | **1.38x** ($+38) | 1.45x |  | pumpswap | 2026-03-20 03:31 |
-| 🔴 HUGH | $0.000093 | **0.44x** ($-56) | 1.54x |  | pumpswap | 2026-03-20 03:20 |
+| 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
+| 🟡 Floki | $0.000134 | **1.24x** ($+24) | 1.45x |  | pumpswap | 2026-03-20 03:31 |
 | 🟡 SAID | $0.000270 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 IMAGINE | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🔴 APES | $0.000234 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
@@ -75,6 +75,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 HUGH | 0.40x | $-60 | stop_loss | 1.54x | pumpswap | 2026-03-20 03:20 → 2026-03-20 03:35 |
 | 🔴 DickusTrump | 0.77x | $-23 | trailing_stop_2x | 2.03x | pumpswap | 2026-03-20 01:27 → 2026-03-20 02:16 |
 | 🔴 Chibify | 0.38x | $-62 | stop_loss | 1.09x | pumpswap | 2026-03-20 00:53 → 2026-03-20 01:17 |
 | 🟡 CHIBIAURA | 0.84x | $-16 | trailing_stop_3x | 2.54x | pumpswap | 2026-03-20 00:53 → 2026-03-20 01:37 |

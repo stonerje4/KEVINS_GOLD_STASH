@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 03:34 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 03:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 34 (34 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-5 |
-| 🏦 Total | **$-5** |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$-3** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -51,7 +51,7 @@
 | 🟡 AMBER | $0.000014 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-19 23:21 |
 | 🟢 唐子兵法 | $0.001448 | **3.02x** ($+202) | 3.13x | ✅ | pumpswap | 2026-03-19 22:46 |
 | 🟡 Foodrot | $0.000135 | **1.04x** ($+4) | 1.23x |  | pumpswap | 2026-03-19 22:46 |
-| 🔴 PAD | $0.000019 | **0.79x** ($-21) | 1.03x |  | pumpswap | 2026-03-19 22:37 |
+| 🔴 PAD | $0.000019 | **0.80x** ($-20) | 1.03x |  | pumpswap | 2026-03-19 22:37 |
 
 ## Closed Positions
 

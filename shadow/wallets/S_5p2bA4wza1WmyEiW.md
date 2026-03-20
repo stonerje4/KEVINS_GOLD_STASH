@@ -1,16 +1,16 @@
 # Wallet: `5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv`
 
-> [View on Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 03:34 UTC
+> [View on Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 03:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
+| Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-80 |
-| 📦 Unrealized | $-18 |
-| 🏦 Total | **$-98** |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$-83** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.4x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ORANMAMA | $0.000265 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 03:01 |
+| 🟡 Dryer | $0.000013 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 03:39 |
+| 🟡 ORANMAMA | $0.000265 | **1.08x** ($+8) | 1.09x |  | pumpswap | 2026-03-20 03:01 |
 | 🔴 memecoin | $0.000092 | **0.96x** ($-4) | 1.04x |  | cpmm | 2026-03-20 02:26 |
 | 🔴 AIFRUITS | $0.000841 | **0.93x** ($-7) | 1.20x |  | pumpswap | 2026-03-20 01:26 |
 | 🟡 UNKNOWN | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:12 |

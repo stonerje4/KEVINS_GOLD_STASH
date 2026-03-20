@@ -1,16 +1,16 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 03:34 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 03:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (13 open, 2 closed) |
+| Positions | 16 (14 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-16 |
-| 📦 Unrealized | $-344 |
-| 🏦 Total | **$-360** |
+| 📦 Unrealized | $-400 |
+| 🏦 Total | **$-416** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.7x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 59DQqRKs | $0.000006 | **0.44x** ($-56) | 1.02x |  | pumpfun | 2026-03-20 03:38 |
 | 🔴 2NbLjyqS | $0.000004 | **0.63x** ($-37) | 1.16x |  | pumpfun | 2026-03-20 02:57 |
 | 🟡 ICEMAN | $0.000013 | **1.85x** ($+85) | 2.26x | ✅ | pumpfun | 2026-03-20 02:51 |
 | 🔴 5CZM95YX | $0.000004 | **0.64x** ($-36) | 1.13x |  | pumpfun | 2026-03-20 02:50 |

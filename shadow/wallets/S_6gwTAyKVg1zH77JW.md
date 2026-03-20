@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:34 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 106 (104 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $+88 |
-| 🏦 Total | **$+326** |
+| 📦 Unrealized | $+99 |
+| 🏦 Total | **$+338** |
 | Best Trade | 2.9x |
 | Avg Peak | 6.2x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 UGOR | $0.000907 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000102 | **1.23x** ($+23) | 1.31x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000102 | **1.34x** ($+34) | 1.37x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CHIBI | $0.000747 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 CIRCLES | $0.000065 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
 | 🟡 APES | $0.000172 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:14 |
