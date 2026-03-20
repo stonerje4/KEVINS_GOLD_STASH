@@ -1,6 +1,6 @@
 # Wallet: `6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc`
 
-> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-20 21:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-20 21:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-20** |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-22** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 ACM | $0.000008 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 21:14 |
 | 🔴 BC | $0.000018 | **0.97x** ($-3) | 1.16x |  | pumpswap | 2026-03-20 20:50 |
-| 🔴 Loui | $0.000006 | **0.64x** ($-36) | 1.47x |  | pumpfun | 2026-03-20 20:50 |
+| 🔴 Loui | $0.000006 | **0.63x** ($-37) | 1.47x |  | pumpfun | 2026-03-20 20:50 |
 | 🔴 Chud | $0.000026 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 20:21 |
 | 🟡 3984 | $0.000007 | **1.88x** ($+88) | 2.39x | ✅ | pumpswap | 2026-03-20 19:50 |
 | 🔴 Handprint | $0.000009 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 19:44 |

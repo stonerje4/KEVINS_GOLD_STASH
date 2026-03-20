@@ -1,25 +1,24 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [GMGN](https://gmgn.ai/sol/address/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | [Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 21:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | [Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 21:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (7 open, 15 closed) |
-| W/L | 2/13 (13%) |
-| 💵 Realized | $-587 |
-| 📦 Unrealized | $+98 |
-| 🏦 Total | **$-489** |
+| Positions | 22 (6 open, 16 closed) |
+| W/L | 2/14 (12%) |
+| 💵 Realized | $-602 |
+| 📦 Unrealized | $+95 |
+| 🏦 Total | **$-508** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.61x |
+| Avg ROI | 0.62x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Jessica | $0.000011 | **1.29x** ($+29) | 1.48x |  | pumpfun | 2026-03-20 21:32 |
-| 🟡 EVERYTHING | $0.000009 | **1.58x** ($+58) | 2.97x | ✅ | pumpfun | 2026-03-20 20:46 |
+| 🟡 Jessica | $0.000011 | **1.55x** ($+55) | 1.55x |  | pumpfun | 2026-03-20 21:32 |
 | 🔴 GAAS | $0.000005 | **0.49x** ($-51) | 1.42x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 BitPenis | $0.000006 | **0.42x** ($-58) | 1.30x |  | pumpfun | 2026-03-20 04:59 |
 | 🟡 ceal | $0.000030 | **1.22x** ($+22) | 1.22x |  | pumpfun | 2026-03-20 03:33 |
@@ -30,6 +29,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 EVERYTHING | 0.84x | $-16 | trailing_stop_3x | 2.97x | pumpfun | 2026-03-20 20:46 → 2026-03-20 21:39 |
 | 🔴 AShEeQQB | 0.39x | $-61 | stop_loss | 1.74x | pumpfun | 2026-03-20 09:01 → 2026-03-20 09:05 |
 | 🔴 Vera | 0.38x | $-62 | stop_loss | 1.06x | pumpfun | 2026-03-20 08:01 → 2026-03-20 08:04 |
 | 🔴 76f2arMq | 0.39x | $-61 | stop_loss | 1.85x | pumpfun | 2026-03-20 07:44 → 2026-03-20 08:04 |

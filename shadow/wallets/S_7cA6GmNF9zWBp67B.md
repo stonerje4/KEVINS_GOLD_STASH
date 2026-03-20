@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 21:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 21:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 28 (24 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-266 |
-| 📦 Unrealized | $+339 |
-| 🏦 Total | **$+73** |
+| 📦 Unrealized | $+343 |
+| 🏦 Total | **$+77** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.34x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Ignotus  | $0.000034 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 21:33 |
+| 🟡 Ignotus  | $0.000034 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 21:33 |
 | 🔴 DogeFather | $0.000026 | **0.53x** ($-47) | 1.28x |  | pumpswap | 2026-03-20 20:58 |
 | 🔴 corporate | $0.000014 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 17:48 |
 | 🟡 XAI | $0.000009 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 17:33 |

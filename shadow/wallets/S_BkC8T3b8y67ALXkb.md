@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 21:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 21:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 26 (23 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-105 |
-| 📦 Unrealized | $-285 |
-| 🏦 Total | **$-391** |
+| 📦 Unrealized | $-290 |
+| 🏦 Total | **$-396** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.65x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Saleh | $0.000012 | **0.97x** ($-3) | 1.14x |  | pumpswap | 2026-03-20 21:01 |
+| 🔴 Saleh | $0.000012 | **0.96x** ($-4) | 1.14x |  | pumpswap | 2026-03-20 21:01 |
 | 🔴 WID | $0.000019 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 19:06 |
 | 🔴 HOSPICE | $0.000012 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-20 16:13 |
 | 🟡 KENNY | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:26 |
@@ -33,7 +33,7 @@
 | 🔴 Hamster | $0.000035 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 OXIDE | $0.000029 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 FKH | $0.000018 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 02:12 |
-| 🔴 Monke | $0.000009 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
+| 🔴 Monke | $0.000009 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 Rosei | $0.000014 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 LINLIAN | $0.000014 | **0.47x** ($-53) | 1.03x |  | pumpfun | 2026-03-20 00:41 |
 | 🔴 Billy | $0.000011 | **0.84x** ($-16) | 1.22x |  | pumpswap | 2026-03-20 00:26 |

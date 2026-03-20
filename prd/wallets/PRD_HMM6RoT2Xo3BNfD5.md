@@ -1,6 +1,6 @@
 # PRD Wallet: `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j`
 
-> [GMGN](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | [Solscan](https://solscan.io/account/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | Updated: 2026-03-20 21:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | [Solscan](https://solscan.io/account/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | Updated: 2026-03-20 21:40 UTC
 
 ## Summary
 
@@ -10,14 +10,14 @@
 | W/L | 0/0 (0%) |
 | 💵 Realized | +0.0000 SOL ($+0.00) |
 | ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | +0.0599 SOL |
-| 🏦 Net | **+0.0599 SOL** ($+5.37) |
+| 📦 Unrealized | +0.0600 SOL |
+| 🏦 Net | **+0.0600 SOL** ($+5.39) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🟢 CRACK | open | 0.11 | 1.59x | 1.64x | +0.0599 | — |
+| 🟢 CRACK | open | 0.11 | 1.59x | 2.10x | +0.0600 | — |
 
 ---
 *[← Back to PRD Dashboard](../DASHBOARD.md)*
