@@ -1,25 +1,24 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 06:05 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 06:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (16 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-121 |
-| 📦 Unrealized | $-48 |
-| 🏦 Total | **$-168** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.1x |
+| Positions | 18 (15 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-139 |
+| 📦 Unrealized | $-60 |
+| 🏦 Total | **$-198** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 AIFRUITS | $0.000790 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
-| 🟡 EPSTEINBLI | $0.000097 | **1.24x** ($+24) | 2.66x | ✅ | pumpswap | 2026-03-20 05:07 |
 | 🟡 CL1 | $0.000396 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |
 | 🟡 Solana | $0.000150 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:43 |
 | 🟡 Downald | $0.000590 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
@@ -39,6 +38,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 EPSTEINBLI | 0.82x | $-18 | trailing_stop_3x | 2.66x | pumpswap | 2026-03-20 05:07 → 2026-03-20 06:09 |
 | 🔴 CHIBIAURA | 0.40x | $-60 | stop_loss | 1.16x | pumpswap | 2026-03-20 01:26 → 2026-03-20 01:37 |
 | 🔴 CHIBIAURA | 0.40x | $-60 | stop_loss | 1.10x | pumpswap | 2026-03-20 01:04 → 2026-03-20 01:15 |
 

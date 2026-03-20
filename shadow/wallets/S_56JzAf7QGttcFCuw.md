@@ -1,6 +1,6 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 06:05 UTC
+> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 06:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (6 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-96 |
-| 📦 Unrealized | $+128 |
-| 🏦 Total | **$+32** |
+| 📦 Unrealized | $+121 |
+| 🏦 Total | **$+25** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 e/alt | $0.000010 | **0.66x** ($-34) | 1.12x |  | pumpfun | 2026-03-20 05:58 |
+| 🔴 e/alt | $0.000010 | **0.59x** ($-41) | 1.12x |  | pumpfun | 2026-03-20 05:58 |
 | 🔴 e/alt | $0.000012 | **0.92x** ($-8) | 1.08x |  | pumpswap | 2026-03-20 05:56 |
 | 🔴 Moe-chan | $0.000015 | **0.97x** ($-3) | 1.05x |  | pumpswap | 2026-03-20 05:52 |
 | 🟡 Moe | $0.000081 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:52 |

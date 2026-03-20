@@ -1,16 +1,16 @@
 # Wallet: `5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv`
 
-> [View on Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 06:05 UTC
+> [View on Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 06:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (7 open, 2 closed) |
+| Positions | 10 (8 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-80 |
-| 📦 Unrealized | $+72 |
-| 🏦 Total | **$-9** |
+| 📦 Unrealized | $+53 |
+| 🏦 Total | **$-28** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.4x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 CATS | $0.000012 | **0.81x** ($-19) | 1.08x |  | pumpfun | 2026-03-20 06:07 |
 | 🟢 Dryer | $0.000013 | **2.78x** ($+178) | 2.78x | ✅ | pumpfun | 2026-03-20 03:39 |
 | 🟡 ORANMAMA | $0.000265 | **1.10x** ($+10) | 1.14x |  | pumpswap | 2026-03-20 03:01 |
 | 🔴 memecoin | $0.000092 | **0.96x** ($-4) | 1.04x |  | cpmm | 2026-03-20 02:26 |

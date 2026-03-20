@@ -1,6 +1,6 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 06:05 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 06:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (20 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+117 |
-| 🏦 Total | **$+117** |
+| 📦 Unrealized | $+107 |
+| 🏦 Total | **$+107** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -22,13 +22,13 @@
 | 🔴 NBR | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 05:40 |
 | 🔴 ABsNV1Eg | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 05:39 |
 | 🟡 WRT | $0.000003 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 05:21 |
-| 🔴 BBX | $0.000004 | **1.00x** ($-0) | 1.09x |  | pumpfun | 2026-03-20 05:19 |
+| 🔴 BBX | $0.000004 | **0.98x** ($-2) | 1.09x |  | pumpfun | 2026-03-20 05:19 |
 | 🟡 NBR | $0.000003 | **1.12x** ($+12) | 1.14x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 JFR | $0.000003 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 GxZGb4wQ | $0.000003 | **1.08x** ($+8) | 1.18x |  | pumpfun | 2026-03-20 04:38 |
 | 🔴 OSP | $0.000004 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 04:26 |
 | 🔴 OSP | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 04:25 |
-| 🟡 MSBT | $0.000004 | **1.54x** ($+54) | 1.54x |  | pumpfun | 2026-03-20 04:24 |
+| 🟡 MSBT | $0.000004 | **1.45x** ($+45) | 1.54x |  | pumpfun | 2026-03-20 04:24 |
 | 🟡 C34FiRrM | $0.000003 | **1.03x** ($+3) | 1.11x |  | pumpfun | 2026-03-20 04:05 |
 | 🟡 2PQ1tBc5 | $0.000003 | **1.02x** ($+2) | 1.12x |  | pumpfun | 2026-03-20 03:49 |
 | 🟡 USRNR | $0.000004 | **1.19x** ($+19) | 1.20x |  | pumpfun | 2026-03-20 03:24 |

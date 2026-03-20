@@ -1,18 +1,18 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 06:05 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 06:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 38 (38 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-48 |
-| 🏦 Total | **$-48** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 38 (37 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-17 |
+| 📦 Unrealized | $-50 |
+| 🏦 Total | **$-66** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
@@ -20,13 +20,12 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 ZeroG | $0.000003 | **0.88x** ($-12) | 1.05x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 TRUTH | $0.000003 | **0.91x** ($-9) | 1.04x |  | pumpfun | 2026-03-20 05:58 |
-| 🔴 HUGH | $0.000003 | **0.95x** ($-5) | 1.08x |  | pumpfun | 2026-03-20 04:24 |
-| 🔴 NOBODY | $0.000003 | **0.99x** ($-1) | 2.06x | ✅ | pumpfun | 2026-03-20 04:18 |
+| 🔴 HUGH | $0.000003 | **0.94x** ($-6) | 1.08x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 EftNvqrA | $0.000003 | **0.80x** ($-20) | 1.19x |  | pumpfun | 2026-03-20 04:05 |
 | 🟡 Yuki-chan | $0.000003 | **1.08x** ($+8) | 1.26x |  | pumpfun | 2026-03-20 04:00 |
 | 🔴 NoScam | $0.000003 | **0.81x** ($-19) | 1.17x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 Income | $0.000003 | **0.82x** ($-18) | 1.20x |  | pumpfun | 2026-03-20 03:29 |
-| 🟢 Nonchalant | $0.000003 | **4.95x** ($+395) | 5.69x | ✅ | pumpfun | 2026-03-20 03:18 |
+| 🟢 Nonchalant | $0.000003 | **4.92x** ($+392) | 5.69x | ✅ | pumpfun | 2026-03-20 03:18 |
 | 🔴 KIIUS | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 03:16 |
 | 🔴 Nonchalant | $0.000003 | **0.96x** ($-4) | 1.12x |  | pumpfun | 2026-03-20 02:50 |
 | 🔴 pepe | $0.000003 | **0.91x** ($-9) | 1.14x |  | pumpfun | 2026-03-20 02:44 |
@@ -61,6 +60,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 NOBODY | 0.83x | $-17 | trailing_stop_2x | 2.06x | pumpfun | 2026-03-20 04:18 → 2026-03-20 06:09 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

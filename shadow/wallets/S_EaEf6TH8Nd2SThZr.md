@@ -1,6 +1,6 @@
 # Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
 
-> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 06:05 UTC
+> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 06:10 UTC
 
 ## Summary
 
@@ -28,7 +28,7 @@
 | 🔴 TRUMP | $0.000004 | **0.96x** ($-4) | 1.06x |  | pumpfun | 2026-03-19 23:37 |
 | 🔴 𝕏AI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-19 23:35 |
 | 🔴 IOR | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-19 23:33 |
-| 🟡 PVC | $0.000008 | **1.08x** ($+8) | 1.08x |  | pumpfun | 2026-03-19 23:29 |
+| 🟡 PVC | $0.000008 | **1.07x** ($+7) | 1.08x |  | pumpfun | 2026-03-19 23:29 |
 | 🔴 Lol | $0.000004 | **0.96x** ($-4) | 1.02x |  | pumpfun | 2026-03-19 23:21 |
 | 🔴 Void | $0.000014 | **0.82x** ($-18) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 RAVE | $0.000004 | **0.63x** ($-37) | 1.33x |  | pumpfun | 2026-03-19 23:14 |
