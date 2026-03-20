@@ -1,6 +1,6 @@
 # Wallet: `HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6`
 
-> [View on Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 10:37 UTC
+> [View on Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 10:42 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 OBJECTS | $0.000129 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 06:03 |
-| 🔴 NICK | $0.000036 | **0.75x** ($-25) | 1.01x |  | pumpswap | 2026-03-20 06:03 |
+| 🔴 NICK | $0.000036 | **0.76x** ($-24) | 1.01x |  | pumpswap | 2026-03-20 06:03 |
 | 🟡 meowl | $0.000175 | **1.40x** ($+40) | 1.40x |  | pumpswap | 2026-03-20 06:02 |
 
 ## Closed Positions

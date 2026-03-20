@@ -1,25 +1,25 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 10:37 UTC
+> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 10:42 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (13 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-39 |
-| 🏦 Total | **$-39** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 14 (13 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-61 |
+| 📦 Unrealized | $+19 |
+| 🏦 Total | **$-42** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SOM | $0.000014 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 08:47 |
-| 🔴 Ride | $0.000019 | **0.93x** ($-7) | 1.13x |  | pumpswap | 2026-03-20 07:26 |
+| 🟡 early | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:40 |
+| 🔴 Ride | $0.000019 | **0.97x** ($-3) | 1.13x |  | pumpswap | 2026-03-20 07:26 |
 | 🔴 AIKO | $0.000010 | **0.83x** ($-17) | 1.08x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 PERCOLATOR | $0.000065 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:43 |
 | 🟡 CHIBI | $0.001118 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:33 |
@@ -36,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 SOM | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:47 → 2026-03-20 10:38 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

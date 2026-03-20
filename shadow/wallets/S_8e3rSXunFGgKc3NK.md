@@ -1,6 +1,6 @@
 # Wallet: `8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt`
 
-> [View on Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 10:37 UTC
+> [View on Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 10:42 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-18 |
-| 📦 Unrealized | $+44 |
-| 🏦 Total | **$+26** |
+| 📦 Unrealized | $+46 |
+| 🏦 Total | **$+29** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.6x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Downald | $0.000528 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:14 |
 | 🟡 effect | $0.000024 | **1.51x** ($+51) | 1.51x |  | pumpfun | 2026-03-20 10:06 |
-| 🔴 fine999.9 | $0.004774 | **0.47x** ($-53) | 1.01x |  | pumpswap | 2026-03-20 09:43 |
+| 🔴 fine999.9 | $0.004774 | **0.50x** ($-50) | 1.01x |  | pumpswap | 2026-03-20 09:43 |
 | 🟡 CHIBI | $0.000713 | **1.46x** ($+46) | 1.82x |  | pumpswap | 2026-03-19 23:42 |
 
 ## Closed Positions

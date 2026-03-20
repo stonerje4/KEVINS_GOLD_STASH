@@ -1,16 +1,16 @@
 # Wallet: `2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6`
 
-> [View on Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 10:37 UTC
+> [View on Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 10:42 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (13 open, 8 closed) |
+| Positions | 22 (14 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-274 |
-| 📦 Unrealized | $-226 |
-| 🏦 Total | **$-500** |
+| 📦 Unrealized | $-241 |
+| 🏦 Total | **$-516** |
 | Best Trade | 2.6x |
 | Avg Peak | 2.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LIBERTY | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
 | 🟡 Caesar | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:33 |
 | 🟡 FtaKCius | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:27 |
 | 🟡 Nostalgia | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:25 |
@@ -25,7 +26,7 @@
 | 🟡 CfDa8np5 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:14 |
 | 🟡 5ycGinQL | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟡 8j6jehro | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:42 |
-| 🔴 Doolysaurus | $0.000011 | **0.70x** ($-30) | 1.87x |  | pumpfun | 2026-03-20 09:27 |
+| 🔴 Doolysaurus | $0.000011 | **0.54x** ($-46) | 1.87x |  | pumpfun | 2026-03-20 09:27 |
 | 🔴 6sJSQVtw | $0.000004 | **0.67x** ($-33) | 1.67x |  | pumpfun | 2026-03-20 09:25 |
 | 🔴 32VQkt6V | $0.000003 | **0.76x** ($-24) | 1.44x |  | pumpfun | 2026-03-20 09:20 |
 | 🔴 FROG | $0.000004 | **0.65x** ($-35) | 1.57x |  | pumpfun | 2026-03-20 08:26 |
