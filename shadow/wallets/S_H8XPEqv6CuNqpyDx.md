@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:35 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 05:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 40 (25 open, 15 closed) |
-| W/L | 1/14 (7%) |
-| 💵 Realized | $-615 |
-| 📦 Unrealized | $-354 |
-| 🏦 Total | **$-969** |
+| Positions | 41 (25 open, 16 closed) |
+| W/L | 1/15 (6%) |
+| 💵 Realized | $-677 |
+| 📦 Unrealized | $-373 |
+| 🏦 Total | **$-1,051** |
 | Best Trade | 1.4x |
 | Avg Peak | 1.9x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Hoverboard | $0.000008 | **1.16x** ($+16) | 1.25x |  | pumpfun | 2026-03-20 05:33 |
+| 🔴 horse | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 05:40 |
 | 🔴 hopecore | $0.000004 | **0.57x** ($-43) | 1.00x |  | pumpfun | 2026-03-20 05:20 |
 | 🟡 94S763Nm | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.67x** ($-33) | 1.54x |  | pumpfun | 2026-03-20 04:14 |
@@ -48,6 +48,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Hoverboard | 0.37x | $-63 | stop_loss | 1.40x | pumpfun | 2026-03-20 05:33 → 2026-03-20 05:39 |
 | 🔴 Fk6LNJWo | 0.74x | $-26 | trailing_stop_2x | 2.08x | pumpfun | 2026-03-20 05:17 → 2026-03-20 05:29 |
 | 🔴 Bcx1k6h8 | 0.40x | $-60 | stop_loss | 1.15x | pumpfun | 2026-03-20 05:15 → 2026-03-20 05:16 |
 | 🔴 MEMEFRONT | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:13 |

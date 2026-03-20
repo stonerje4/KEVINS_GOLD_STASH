@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 05:35 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 05:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 46 (45 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+69 |
-| 🏦 Total | **$+114** |
+| 📦 Unrealized | $+57 |
+| 🏦 Total | **$+102** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 EID | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 05:34 |
-| 🟡 BBX | $0.000003 | **1.30x** ($+30) | 1.30x |  | pumpfun | 2026-03-20 05:19 |
+| 🟡 BBX | $0.000003 | **1.19x** ($+19) | 1.30x |  | pumpfun | 2026-03-20 05:19 |
 | 🟡 3rqUx4d2 | $0.000003 | **1.06x** ($+6) | 1.07x |  | pumpfun | 2026-03-20 05:19 |
 | 🟡 imaginify | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 05:09 |
 | 🟡 Jimbo | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 04:48 |
@@ -37,7 +37,7 @@
 | 🔴 TdvdXT8S | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 03:11 |
 | 🔴 $ODA | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 03:10 |
 | 🔴 Floki | $0.000004 | **0.95x** ($-5) | 2.59x | ✅ | pumpfun | 2026-03-20 03:07 |
-| 🟡 XCHAT | $0.000003 | **1.01x** ($+1) | 1.10x |  | pumpfun | 2026-03-20 02:59 |
+| 🟡 XCHAT | $0.000003 | **1.00x** ($+0) | 1.10x |  | pumpfun | 2026-03-20 02:59 |
 | 🟡 FyFJ64RR | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:37 |
 | 🔴 J3bSHVhq | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 02:35 |
 | 🟡 Nanami | $0.000003 | **1.01x** ($+1) | 1.11x |  | pumpfun | 2026-03-20 02:25 |
