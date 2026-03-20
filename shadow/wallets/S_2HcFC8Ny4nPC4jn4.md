@@ -1,23 +1,24 @@
 # Wallet: `2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6`
 
-> [View on Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 11:33 UTC
+> [View on Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 11:38 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 23 (15 open, 8 closed) |
+| Positions | 24 (16 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-274 |
 | 📦 Unrealized | $-103 |
 | 🏦 Total | **$-377** |
-| Best ROI | 2.59x |
-| Avg ROI | 0.66x |
+| Best Trade | 2.6x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 genocide | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 AMinfd57 | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |
 | 🟡 LIBERTY | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
 | 🟡 Caesar | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:33 |

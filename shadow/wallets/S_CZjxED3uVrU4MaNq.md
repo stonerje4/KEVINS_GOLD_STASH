@@ -1,6 +1,6 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
 
-> [View on Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-20 11:33 UTC
+> [View on Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-20 11:38 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 9 (8 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+196 |
-| 📦 Unrealized | $+123 |
-| 🏦 Total | **$+319** |
-| Best ROI | 2.96x |
-| Avg ROI | 2.96x |
+| 📦 Unrealized | $+119 |
+| 🏦 Total | **$+315** |
+| Best Trade | 3.0x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBI | $0.000011 | **1.50x** ($+50) | 1.89x |  | pumpfun | 2026-03-20 10:36 |
+| 🟡 CHIBI | $0.000011 | **1.47x** ($+47) | 1.89x |  | pumpfun | 2026-03-20 10:36 |
 | 🟡 Bispider | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:53 |
 | 🟡 BISPIDER | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:51 |
 | 🟡 Zhdun | $0.000020 | **1.85x** ($+85) | 1.85x |  | pumpfun | 2026-03-20 08:55 |

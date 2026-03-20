@@ -1,23 +1,26 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 11:33 UTC
+> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 11:38 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (14 open, 5 closed) |
+| Positions | 22 (17 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-226 |
 | 📦 Unrealized | $-79 |
-| 🏦 Total | **$-304** |
-| Best ROI | 1.30x |
-| Avg ROI | 0.55x |
+| 🏦 Total | **$-305** |
+| Best Trade | 1.3x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Sonny | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
+| 🟡 genocide | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
+| 🟡 FMgfgeLF | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 5eU5zLhc | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:35 |
 | 🟡 8qg4F6Vh | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:14 |
 | 🟡 HEgvC1Sk | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |

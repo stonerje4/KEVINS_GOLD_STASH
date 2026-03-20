@@ -1,6 +1,6 @@
 # Wallet: `HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5`
 
-> [View on Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 11:33 UTC
+> [View on Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 11:38 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-2** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-4** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Floki | $0.000014 | **0.98x** ($-2) | 1.08x |  | pumpswap | 2026-03-20 10:37 |
+| 🔴 Floki | $0.000014 | **0.96x** ($-4) | 1.08x |  | pumpswap | 2026-03-20 10:37 |
 
 ## Closed Positions
 

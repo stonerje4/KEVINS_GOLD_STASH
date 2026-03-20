@@ -1,6 +1,6 @@
 # Wallet: `9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf`
 
-> [View on Solscan](https://solscan.io/account/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | Updated: 2026-03-20 11:33 UTC
+> [View on Solscan](https://solscan.io/account/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | Updated: 2026-03-20 11:38 UTC
 
 ## Summary
 
@@ -11,15 +11,15 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-14 |
 | 🏦 Total | **$-14** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Kin-kun | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:26 |
-| 🔴 Kin-kun | $0.000004 | **0.77x** ($-23) | 1.01x |  | pumpfun | 2026-03-20 09:55 |
+| 🔴 Kin-kun | $0.000004 | **0.76x** ($-24) | 1.01x |  | pumpfun | 2026-03-20 09:55 |
 | 🟡 Kin-kun | $0.000007 | **1.10x** ($+10) | 1.14x |  | pumpfun | 2026-03-20 09:45 |
 
 ## Closed Positions

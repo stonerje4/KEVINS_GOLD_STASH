@@ -1,6 +1,6 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 11:33 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 11:38 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 23 (22 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+251 |
-| 🏦 Total | **$+191** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| 📦 Unrealized | $+250 |
+| 🏦 Total | **$+189** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
@@ -24,7 +24,7 @@
 | 🟡 MutantX | $0.000004 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 08:15 |
 | 🟡 CPC | $0.000003 | **1.03x** ($+3) | 1.04x |  | pumpfun | 2026-03-20 08:07 |
 | 🟡 TGR | $0.000003 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-20 08:06 |
-| 🟡 GASR | $0.000003 | **1.16x** ($+16) | 1.26x |  | pumpfun | 2026-03-20 08:03 |
+| 🟡 GASR | $0.000003 | **1.15x** ($+15) | 1.26x |  | pumpfun | 2026-03-20 08:03 |
 | 🟡 UGOR | $0.000004 | **1.19x** ($+19) | 1.19x |  | pumpfun | 2026-03-20 07:50 |
 | 🟡 GCOIN | $0.000004 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 07:46 |
 | 🟡 OSP | $0.000003 | **1.42x** ($+42) | 1.45x |  | pumpfun | 2026-03-20 07:17 |
