@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 02:34 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 02:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 61 (60 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-71 |
-| 🏦 Total | **$-148** |
+| 📦 Unrealized | $-64 |
+| 🏦 Total | **$-141** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -63,7 +63,7 @@
 | 🟡 NETANYAHU | $0.000096 | **1.04x** ($+4) | 1.24x |  | pumpswap | 2026-03-19 23:49 |
 | 🟡 Alien | $0.000014 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 Solana | $0.000186 | **1.04x** ($+4) | 1.19x |  | pumpswap | 2026-03-19 23:44 |
-| 🟡 AINL | $0.000024 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-19 23:43 |
+| 🟡 AINL | $0.000024 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Monke | $0.000013 | **0.63x** ($-37) | 1.02x |  | pumpswap | 2026-03-19 23:30 |
 | 🟡 COLLECTIBLE | $0.000056 | **1.05x** ($+5) | 1.15x |  | pumpswap | 2026-03-19 23:28 |
 | 🟡 buddy | $0.000320 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 23:13 |

@@ -1,12 +1,12 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 02:34 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 02:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (23 open, 1 closed) |
+| Positions | 26 (25 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
 | 📦 Unrealized | $+45 |
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FyFJ64RR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:37 |
+| 🟡 J3bSHVhq | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:35 |
 | 🟡 Nanami | $0.000003 | **1.01x** ($+1) | 1.11x |  | pumpfun | 2026-03-20 02:25 |
 | 🟡 DOWNG | $0.000006 | **1.17x** ($+17) | 1.17x |  | pumpfun | 2026-03-20 02:07 |
 | 🟡 DEADJEW | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:02 |

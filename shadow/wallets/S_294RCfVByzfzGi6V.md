@@ -1,6 +1,6 @@
 # Wallet: `294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN`
 
-> [View on Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 02:34 UTC
+> [View on Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 02:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-54 |
-| 🏦 Total | **$-54** |
+| 📦 Unrealized | $-73 |
+| 🏦 Total | **$-73** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -22,7 +22,7 @@
 | 🔴 JAMES | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpswap | 2026-03-20 02:04 |
 | 🔴 IShowSpeed | $0.000014 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 02:02 |
 | 🔴 CHIBITRUMP | $0.000018 | **0.65x** ($-35) | 1.04x |  | pumpswap | 2026-03-20 00:52 |
-| 🟡 CHIBI | $0.000010 | **1.55x** ($+55) | 1.86x |  | pumpswap | 2026-03-19 23:18 |
+| 🟡 CHIBI | $0.000010 | **1.36x** ($+36) | 1.86x |  | pumpswap | 2026-03-19 23:18 |
 
 ## Closed Positions
 

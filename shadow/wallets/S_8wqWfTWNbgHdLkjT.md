@@ -1,29 +1,29 @@
 # Wallet: `8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe`
 
-> [View on Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 02:34 UTC
+> [View on Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 02:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-20** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 1 (0 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-63 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-63** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Patricia | $0.000038 | **0.80x** ($-20) | 1.24x |  | pumpswap | 2026-03-19 23:16 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Patricia | 0.37x | $-63 | stop_loss | 1.24x | pumpswap | 2026-03-19 23:16 → 2026-03-20 02:38 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

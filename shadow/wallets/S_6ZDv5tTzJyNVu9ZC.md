@@ -1,16 +1,16 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 02:34 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 02:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 99 (98 open, 1 closed) |
+| Positions | 101 (100 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+195 |
-| 📦 Unrealized | $+371 |
-| 🏦 Total | **$+566** |
+| 📦 Unrealized | $+374 |
+| 🏦 Total | **$+569** |
 | Best Trade | 2.9x |
 | Avg Peak | 9.8x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Devious | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
+| 🟡 JOC | $0.000033 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 Moe | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
 | 🟡 BB | $0.000009 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 ANIMAL | $0.000252 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:15 |

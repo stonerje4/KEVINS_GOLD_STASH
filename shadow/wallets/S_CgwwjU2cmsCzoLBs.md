@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 02:34 UTC
+> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 02:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (16 open, 13 closed) |
 | W/L | 0/13 (0%) |
 | 💵 Realized | $-900 |
-| 📦 Unrealized | $+162 |
-| 🏦 Total | **$-738** |
+| 📦 Unrealized | $+168 |
+| 🏦 Total | **$-731** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Rosei | $0.000014 | **0.97x** ($-3) | 1.10x |  | pumpswap | 2026-03-19 23:49 |
-| 🟡 AINL | $0.000025 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 23:43 |
+| 🟡 AINL | $0.000025 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-19 23:43 |
 | 🟡 CHIBI | $0.000656 | **1.59x** ($+59) | 1.98x |  | pumpswap | 2026-03-19 23:36 |
 | 🔴 Chibify | $0.000004 | **0.89x** ($-11) | 1.03x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 Garbonzo | $0.000009 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
@@ -31,7 +31,7 @@
 | 🔴 tinfoil | $0.000061 | **0.78x** ($-22) | 1.09x |  | pumpswap | 2026-03-19 23:01 |
 | 🟡 Nigel | $0.000194 | **1.07x** ($+7) | 1.36x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 TRAITOR | $0.000003 | **1.41x** ($+41) | 2.80x | ✅ | pumpswap | 2026-03-19 22:50 |
-| 🔴 NIGGA | $0.000014 | **0.65x** ($-35) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
+| 🔴 NIGGA | $0.000014 | **0.64x** ($-36) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
 | 🟡 Pete | $0.000161 | **1.72x** ($+72) | 1.90x |  | pumpswap | 2026-03-19 22:49 |
 | 🟡 BBX | $0.000441 | **1.19x** ($+19) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
 
