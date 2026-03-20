@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 07:40 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 07:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 87 (86 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-65 |
-| 🏦 Total | **$-142** |
+| 📦 Unrealized | $-69 |
+| 🏦 Total | **$-146** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -19,18 +19,18 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 NICK | $0.000029 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 07:32 |
-| 🔴 WID | $0.000019 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 07:27 |
+| 🔴 WID | $0.000019 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 07:27 |
 | 🟡 Solana | $0.000125 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 PAPERCLIP | $0.000158 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 06:54 |
-| 🔴 PARK | $0.000020 | **0.97x** ($-3) | 1.05x |  | pumpswap | 2026-03-20 06:51 |
-| 🟡 PYRO | $0.000034 | **1.07x** ($+7) | 1.11x |  | pumpswap | 2026-03-20 06:47 |
+| 🔴 PARK | $0.000020 | **0.95x** ($-5) | 1.05x |  | pumpswap | 2026-03-20 06:51 |
+| 🟡 PYRO | $0.000034 | **1.05x** ($+5) | 1.11x |  | pumpswap | 2026-03-20 06:47 |
 | 🟡 MECHA | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:00 |
-| 🔴 mogging | $0.000046 | **0.94x** ($-6) | 1.06x |  | pumpswap | 2026-03-20 05:59 |
-| 🔴 LOL | $0.000083 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 05:53 |
+| 🔴 mogging | $0.000046 | **0.91x** ($-9) | 1.06x |  | pumpswap | 2026-03-20 05:59 |
+| 🔴 LOL | $0.000083 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 RENTAI | $0.000094 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🟡 Rosie | $0.000800 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 SOS | $0.000870 | **1.12x** ($+12) | 1.13x |  | pumpswap | 2026-03-20 05:29 |
-| 🟡 WhiteHouse | $0.000345 | **1.01x** ($+1) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
+| 🔴 WhiteHouse | $0.000345 | **1.00x** ($-0) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
 | 🔴 shitcoin | $0.000075 | **0.87x** ($-13) | 1.04x |  | pumpswap | 2026-03-20 05:20 |
 | 🟡 Optimus | $0.000037 | **1.12x** ($+12) | 1.14x |  | pumpswap | 2026-03-20 05:13 |
 | 🟡 OPAL | $0.000469 | **1.12x** ($+12) | 1.15x |  | pumpswap | 2026-03-20 04:53 |
@@ -93,7 +93,7 @@
 | 🔴 Life | $0.000182 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 ACV | $0.000002 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 5 | $0.000011 | **0.84x** ($-16) | 1.06x |  | pumpswap | 2026-03-19 23:36 |
-| 🔴 INCOME | $0.000640 | **0.85x** ($-15) | 1.14x |  | pumpswap | 2026-03-19 23:35 |
+| 🔴 INCOME | $0.000640 | **0.87x** ($-13) | 1.14x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 HEY | $0.000738 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 wid | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 Barron | $0.000016 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-19 23:23 |

@@ -1,6 +1,6 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 07:40 UTC
+> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 07:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-41 |
-| 📦 Unrealized | $-100 |
-| 🏦 Total | **$-141** |
+| 📦 Unrealized | $-118 |
+| 🏦 Total | **$-159** |
 | Best Trade | 1.3x |
 | Avg Peak | 2.2x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 GENOCIDE | $0.000003 | **0.97x** ($-3) | 1.05x |  | pumpfun | 2026-03-20 07:34 |
-| 🔴 AVATAR | $0.000041 | **0.60x** ($-40) | 1.89x |  | pumpswap | 2026-03-20 06:56 |
+| 🔴 GENOCIDE | $0.000003 | **0.80x** ($-20) | 1.05x |  | pumpfun | 2026-03-20 07:34 |
+| 🔴 AVATAR | $0.000041 | **0.59x** ($-41) | 1.89x |  | pumpswap | 2026-03-20 06:56 |
 | 🟡 Saleh | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
 | 🔴 MENACE | $0.000009 | **0.43x** ($-57) | 1.12x |  | pumpswap | 2026-03-20 06:11 |
 | 🟡 DRIVE | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:02 |

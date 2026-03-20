@@ -1,6 +1,6 @@
 # Wallet: `73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt`
 
-> [View on Solscan](https://solscan.io/account/73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt) | Updated: 2026-03-20 07:40 UTC
+> [View on Solscan](https://solscan.io/account/73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt) | Updated: 2026-03-20 07:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-8** |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-13** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Moe-chan | $0.000014 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 07:38 |
-| 🔴 Pixel | $0.000013 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 07:36 |
+| 🔴 Moe-chan | $0.000014 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 07:38 |
+| 🔴 Pixel | $0.000013 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 07:36 |
 
 ## Closed Positions
 

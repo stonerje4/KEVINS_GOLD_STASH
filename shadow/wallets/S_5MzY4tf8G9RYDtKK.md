@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 07:40 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 07:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 46 (28 open, 18 closed) |
 | W/L | 0/18 (0%) |
 | 💵 Realized | $-957 |
-| 📦 Unrealized | $-312 |
-| 🏦 Total | **$-1,269** |
+| 📦 Unrealized | $-329 |
+| 🏦 Total | **$-1,286** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 GrokChibi | $0.000009 | **0.78x** ($-22) | 1.10x |  | pumpfun | 2026-03-20 07:37 |
-| 🟡 awkward | $0.000015 | **1.21x** ($+21) | 2.31x | ✅ | pumpfun | 2026-03-20 07:16 |
-| 🔴 我的猪盾 | $0.000006 | **0.53x** ($-47) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
+| 🔴 GrokChibi | $0.000009 | **0.50x** ($-50) | 1.10x |  | pumpfun | 2026-03-20 07:37 |
+| 🟡 awkward | $0.000015 | **1.42x** ($+42) | 2.31x | ✅ | pumpfun | 2026-03-20 07:16 |
+| 🔴 我的猪盾 | $0.000006 | **0.52x** ($-48) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 IMAGINE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |
 | 🟡 IMAGINE | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🟡 Civil Claude | $0.000013 | **1.43x** ($+43) | 2.16x | ✅ | pumpfun | 2026-03-20 04:55 |
+| 🟡 Civil Claude | $0.000013 | **1.44x** ($+44) | 2.16x | ✅ | pumpfun | 2026-03-20 04:55 |
 | 🟡 MFT | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🟡 SPARKOS | $0.000109 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:48 |
 | 🟡 W | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:13 |

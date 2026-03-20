@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 07:40 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 07:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 49 (48 open, 1 closed) |
+| Positions | 50 (49 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-69 |
-| 🏦 Total | **$-86** |
+| 📦 Unrealized | $-102 |
+| 🏦 Total | **$-118** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Kin-Kun | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:37 |
-| 🔴 CHIBELON | $0.000003 | **0.91x** ($-9) | 1.12x |  | pumpfun | 2026-03-20 07:26 |
-| 🟡 ChibiElon | $0.000003 | **1.19x** ($+19) | 1.24x |  | pumpfun | 2026-03-20 07:22 |
+| 🔴 PIXELS | $0.000003 | **0.87x** ($-13) | 1.25x |  | pumpfun | 2026-03-20 07:43 |
+| 🔴 Kin-Kun | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 07:37 |
+| 🔴 CHIBELON | $0.000003 | **0.83x** ($-17) | 1.12x |  | pumpfun | 2026-03-20 07:26 |
+| 🟡 ChibiElon | $0.000003 | **1.12x** ($+12) | 1.24x |  | pumpfun | 2026-03-20 07:22 |
 | 🔴 AEkbUJLT | $0.000003 | **0.81x** ($-19) | 1.06x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 4/20 | $0.000003 | **0.93x** ($-7) | 1.02x |  | pumpfun | 2026-03-20 06:40 |
 | 🔴 HUGH | $0.000003 | **0.84x** ($-16) | 1.03x |  | pumpfun | 2026-03-20 06:36 |
@@ -28,7 +29,7 @@
 | 🔴 NBR | $0.000003 | **0.80x** ($-20) | 1.11x |  | pumpfun | 2026-03-20 06:28 |
 | 🔴 COLONEL | $0.000003 | **0.97x** ($-3) | 1.10x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 GisEmX5K | $0.000003 | **0.78x** ($-22) | 1.05x |  | pumpfun | 2026-03-20 06:20 |
-| 🟢 BOBOLIZ | $0.000003 | **2.44x** ($+144) | 2.47x | ✅ | pumpfun | 2026-03-20 06:16 |
+| 🟢 BOBOLIZ | $0.000003 | **2.42x** ($+142) | 2.47x | ✅ | pumpfun | 2026-03-20 06:16 |
 | 🔴 ZeroG | $0.000003 | **0.88x** ($-12) | 1.05x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 TRUTH | $0.000003 | **0.91x** ($-9) | 1.23x |  | pumpfun | 2026-03-20 05:58 |
 | 🔴 HUGH | $0.000003 | **0.85x** ($-15) | 1.08x |  | pumpfun | 2026-03-20 04:24 |

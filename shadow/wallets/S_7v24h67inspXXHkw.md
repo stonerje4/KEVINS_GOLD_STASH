@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 07:40 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 07:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (18 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+81 |
-| 🏦 Total | **$+81** |
+| 📦 Unrealized | $+85 |
+| 🏦 Total | **$+85** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 OIL | $0.000004 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 05:51 |
 | 🟡 NBR | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:46 |
-| 🔴 NBR | $0.000005 | **0.77x** ($-23) | 1.00x |  | pumpfun | 2026-03-20 05:44 |
+| 🔴 NBR | $0.000005 | **0.81x** ($-19) | 1.00x |  | pumpfun | 2026-03-20 05:44 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 BBX | $0.000003 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 04:59 |
 | 🔴 TESLA AI | $0.000000 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 04:55 |
