@@ -1,16 +1,16 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
-| W/L | 1/1 (50%) |
-| 💵 Realized | $-22 |
+| Positions | 6 (3 open, 3 closed) |
+| W/L | 1/2 (33%) |
+| 💵 Realized | $-54 |
 | 📦 Unrealized | $+218 |
-| 🏦 Total | **$+196** |
+| 🏦 Total | **$+164** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.1x |
 
@@ -26,6 +26,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 INR | 0.68x | $-32 | trailing_stop_2x | 2.06x | pumpfun | 2026-03-20 02:31 → 2026-03-20 02:34 |
 | 🟡 PISSCOIN | 1.40x | $+40 | trailing_stop_3x | 3.09x | pumpfun | 2026-03-20 01:37 → 2026-03-20 01:43 |
 | 🔴 Aiden | 0.38x | $-62 | stop_loss | 1.03x | pumpfun | 2026-03-20 00:39 → 2026-03-20 00:47 |
 

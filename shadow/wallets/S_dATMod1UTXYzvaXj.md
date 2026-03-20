@@ -1,24 +1,23 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (9 open, 6 closed) |
-| W/L | 1/5 (17%) |
-| 💵 Realized | $-170 |
-| 📦 Unrealized | $+209 |
-| 🏦 Total | **$+39** |
+| Positions | 15 (8 open, 7 closed) |
+| W/L | 1/6 (14%) |
+| 💵 Realized | $-186 |
+| 📦 Unrealized | $+194 |
+| 🏦 Total | **$+9** |
 | Best Trade | 1.5x |
-| Avg Peak | 2.0x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 NEMO | $0.000013 | **1.28x** ($+28) | 2.43x | ✅ | pumpfun | 2026-03-20 02:23 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
 | 🟢 9Yqs3sVA | $0.000008 | **4.35x** ($+335) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
 | 🟡 DICKUS | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:34 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 NEMO | 0.84x | $-16 | trailing_stop_2x | 2.43x | pumpfun | 2026-03-20 02:23 → 2026-03-20 02:34 |
 | 🔴 Gz95UGCX | 0.40x | $-60 | stop_loss | 1.53x | pumpfun | 2026-03-20 01:22 → 2026-03-20 01:27 |
 | 🟡 Ham | 0.81x | $-19 | trailing_stop_2x | 2.40x | pumpswap | 2026-03-20 00:31 → 2026-03-20 00:58 |
 | 🟡 Massive | 1.47x | $+47 | trailing_stop_3x | 3.03x | pumpswap | 2026-03-19 23:42 → 2026-03-19 23:53 |

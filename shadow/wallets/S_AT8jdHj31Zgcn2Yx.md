@@ -1,16 +1,16 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 54 (44 open, 10 closed) |
+| Positions | 55 (45 open, 10 closed) |
 | W/L | 0/10 (0%) |
 | 💵 Realized | $-472 |
-| 📦 Unrealized | $+159 |
-| 🏦 Total | **$-314** |
+| 📦 Unrealized | $+157 |
+| 🏦 Total | **$-315** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 CAGE | $0.000039 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:32 |
 | 🔴 Devious | $0.000074 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:17 |
 | 🔴 Optimislon | $0.000087 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 02:17 |
 | 🟡 OSP | $0.000090 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:16 |

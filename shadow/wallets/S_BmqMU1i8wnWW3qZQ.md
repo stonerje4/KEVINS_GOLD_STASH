@@ -1,16 +1,16 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 201 (199 open, 2 closed) |
+| Positions | 202 (200 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+94 |
-| 📦 Unrealized | $-12 |
-| 🏦 Total | **$+82** |
+| 📦 Unrealized | $-27 |
+| 🏦 Total | **$+67** |
 | Best Trade | 2.8x |
 | Avg Peak | 4.0x |
 
@@ -18,11 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 CAGE | $0.000040 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 02:30 |
 | 🔴 KIKO | $0.000005 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
-| 🔴 Noorung | $0.000012 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 02:25 |
+| 🔴 Noorung | $0.000012 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:25 |
 | 🟡 PIKE | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:22 |
 | 🟡 PRVT | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:21 |
-| 🔴 BB | $0.000010 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
+| 🔴 BB | $0.000010 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 fire | $0.000006 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 ANIMAL | $0.000280 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:15 |
 | 🟡 Dozer | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
@@ -170,7 +171,7 @@
 | 🟡 ROME | $0.000010 | **1.06x** ($+6) | 1.62x |  | pumpswap | 2026-03-19 23:26 |
 | 🔴 Downald | $0.001080 | **0.59x** ($-41) | 1.02x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 TOKEN | $0.000157 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
-| 🟡 COW | $0.000005 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-19 23:22 |
+| 🟡 COW | $0.000005 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-19 23:22 |
 | 🟡 VAFR | $0.000027 | **1.15x** ($+15) | 1.24x |  | pumpswap | 2026-03-19 23:18 |
 | 🟡 TRAITOR | $0.000003 | **1.59x** ($+59) | 3.16x | ✅ | pumpswap | 2026-03-19 23:17 |
 | 🔴 90S | $0.000019 | **0.95x** ($-5) | 1.05x |  | pumpswap | 2026-03-19 23:17 |
@@ -213,7 +214,7 @@
 | 🔴 5 | $0.000012 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-19 22:40 |
 | 🔴 Flash | $0.000062 | **0.96x** ($-4) | 1.25x |  | pumpswap | 2026-03-19 22:39 |
 | 🔴 NETANYAHU | $0.000012 | **0.92x** ($-8) | 1.09x |  | pumpswap | 2026-03-19 22:39 |
-| 🔴 LinLian | $0.000006 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-19 22:38 |
+| 🔴 LinLian | $0.000006 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-19 22:38 |
 | 🔴 Moe | $0.000090 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:37 |
 | 🔴 DATBOI | $0.000047 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-19 22:37 |
 | 🔴 CL1 | $0.000335 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:36 |

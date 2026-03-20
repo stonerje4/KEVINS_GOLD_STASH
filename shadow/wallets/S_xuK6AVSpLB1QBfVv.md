@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (24 open, 0 closed) |
+| Positions | 25 (25 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-65 |
-| 🏦 Total | **$-65** |
+| 📦 Unrealized | $-74 |
+| 🏦 Total | **$-74** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 外星小猫 | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 02:33 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:19 |
 | 🟡 7H7hFCF7 | $0.000003 | **1.11x** ($+11) | 1.15x |  | pumpfun | 2026-03-20 02:17 |
 | 🔴 DickusTrump | $0.000003 | **0.85x** ($-15) | 1.18x |  | pumpfun | 2026-03-20 01:47 |

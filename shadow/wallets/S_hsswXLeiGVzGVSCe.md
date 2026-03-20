@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 82 (75 open, 7 closed) |
+| Positions | 85 (78 open, 7 closed) |
 | W/L | 3/4 (43%) |
 | 💵 Realized | $+806 |
-| 📦 Unrealized | $-1,042 |
-| 🏦 Total | **$-235** |
+| 📦 Unrealized | $-1,138 |
+| 🏦 Total | **$-331** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.6x |
 
@@ -18,11 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Cats | $0.000003 | **1.04x** ($+4) | 1.18x |  | pumpfun | 2026-03-20 02:26 |
+| 🔴 Nonchalant | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 02:32 |
+| 🔴 INR | $0.000004 | **0.63x** ($-37) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
+| 🔴 EDX84hQ6 | $0.000004 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
+| 🟡 Cats | $0.000003 | **1.02x** ($+2) | 1.18x |  | pumpfun | 2026-03-20 02:26 |
 | 🔴 FUCKENING | $0.000004 | **0.65x** ($-35) | 1.00x |  | pumpfun | 2026-03-20 02:25 |
 | 🔴 CCC | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 02:22 |
 | 🔴 BotFather | $0.000004 | **0.67x** ($-33) | 1.13x |  | pumpfun | 2026-03-20 02:20 |
-| 🟡 Eshkol LLM | $0.000004 | **1.48x** ($+48) | 1.61x |  | pumpfun | 2026-03-20 02:20 |
+| 🟡 Eshkol LLM | $0.000004 | **1.38x** ($+38) | 1.61x |  | pumpfun | 2026-03-20 02:20 |
 | 🔴 OSP | $0.000003 | **0.81x** ($-19) | 1.13x |  | pumpfun | 2026-03-20 02:18 |
 | 🔴 CHANNELS | $0.000005 | **0.58x** ($-42) | 1.00x |  | pumpfun | 2026-03-20 02:18 |
 | 🔴 $METAWIN | $0.000004 | **0.92x** ($-8) | 1.09x |  | pumpfun | 2026-03-20 02:16 |

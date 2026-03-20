@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 24 (23 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+96** |
+| 📦 Unrealized | $+45 |
+| 🏦 Total | **$+90** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Nanami | $0.000003 | **1.07x** ($+7) | 1.11x |  | pumpfun | 2026-03-20 02:25 |
+| 🟡 Nanami | $0.000003 | **1.01x** ($+1) | 1.11x |  | pumpfun | 2026-03-20 02:25 |
 | 🟡 DOWNG | $0.000006 | **1.17x** ($+17) | 1.17x |  | pumpfun | 2026-03-20 02:07 |
 | 🟡 DEADJEW | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:02 |
 | 🟡 Dinergoth | $0.000003 | **1.13x** ($+13) | 1.14x |  | pumpfun | 2026-03-20 01:41 |

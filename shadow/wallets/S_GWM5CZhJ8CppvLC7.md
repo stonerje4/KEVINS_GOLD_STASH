@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Moe | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
-| 🔴 Lobstar | $0.007103 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:24 |
-| 🔴 LULU | $0.000035 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
+| 🔴 Lobstar | $0.007103 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 02:24 |
+| 🔴 LULU | $0.000035 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 MIROFISH | $0.000032 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:11 |
 | 🟡 OLAF | $0.000122 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 02:04 |
 | 🟡 LEGEND | $0.000066 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 02:04 |

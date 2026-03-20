@@ -1,6 +1,6 @@
-# Wallet: `8NJ7Ujpji8uMF2675mqaTSEm2DCbfJA7fiRKtiaqkaLN`
+# Wallet: `4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp`
 
-> [View on Solscan](https://solscan.io/account/8NJ7Ujpji8uMF2675mqaTSEm2DCbfJA7fiRKtiaqkaLN) | Updated: 2026-03-20 02:34 UTC
+> [View on Solscan](https://solscan.io/account/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+93 |
-| 🏦 Total | **$+93** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Grokslop | $0.000013 | **2.87x** ($+187) | 2.87x | ✅ | pumpfun | 2026-03-20 00:54 |
+| 🟡 YOU | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:30 |
 
 ## Closed Positions
 

@@ -1,12 +1,12 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 46 (45 open, 1 closed) |
+| Positions | 47 (46 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
 | 📦 Unrealized | $+140 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FTR | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:32 |
 | 🔴 KIKO | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
 | 🔴 ANIMAL | $0.000265 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 02:15 |
 | 🟡 GAS | $0.000363 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 02:12 |

@@ -1,16 +1,16 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 02:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 23 (10 open, 13 closed) |
-| W/L | 1/12 (8%) |
-| 💵 Realized | $-484 |
+| Positions | 25 (10 open, 15 closed) |
+| W/L | 1/14 (7%) |
+| 💵 Realized | $-571 |
 | 📦 Unrealized | $-54 |
-| 🏦 Total | **$-537** |
+| 🏦 Total | **$-625** |
 | Best Trade | 1.4x |
 | Avg Peak | 1.9x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 5WAqTYuT | $0.000005 | **0.46x** ($-54) | 1.40x |  | pumpfun | 2026-03-20 02:26 |
-| 🔴 DuV1SgS2 | $0.000005 | **0.52x** ($-48) | 1.39x |  | pumpfun | 2026-03-20 02:22 |
+| 🔴 DuV1SgS2 | $0.000005 | **0.51x** ($-49) | 1.39x |  | pumpfun | 2026-03-20 02:22 |
 | 🟡 CHANNELS | $0.000023 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 02:19 |
 | 🟡 CRAaCof9 | $0.000030 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 02:05 |
 | 🟡 SPARKOS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:52 |
@@ -33,6 +33,8 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 INR | 0.74x | $-26 | trailing_stop_2x | 2.24x | pumpfun | 2026-03-20 02:31 → 2026-03-20 02:34 |
+| 🔴 IDR | 0.39x | $-61 | stop_loss | 1.32x | pumpfun | 2026-03-20 02:30 → 2026-03-20 02:32 |
 | 🔴 78KFhaMs | 0.37x | $-63 | stop_loss | 1.13x | pumpfun | 2026-03-20 02:21 → 2026-03-20 02:21 |
 | 🔴 BotFather | 0.39x | $-61 | stop_loss | 1.18x | pumpfun | 2026-03-20 02:20 → 2026-03-20 02:20 |
 | 🟡 8vtrFBfQ | 0.82x | $-18 | trailing_stop_2x | 2.14x | pumpfun | 2026-03-20 02:19 → 2026-03-20 02:20 |
