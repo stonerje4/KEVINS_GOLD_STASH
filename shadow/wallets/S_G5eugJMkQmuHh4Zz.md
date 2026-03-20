@@ -1,6 +1,6 @@
 # Wallet: `G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf`
 
-> [View on Solscan](https://solscan.io/account/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | Updated: 2026-03-20 10:52 UTC
+> [View on Solscan](https://solscan.io/account/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | Updated: 2026-03-20 10:57 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-58 |
-| 🏦 Total | **$-118** |
+| 📦 Unrealized | $-63 |
+| 🏦 Total | **$-123** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 NBR | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:52 |
-| 🔴 ChibiTrump | $0.000008 | **0.45x** ($-55) | 1.16x |  | pumpfun | 2026-03-20 08:33 |
+| 🔴 ChibiTrump | $0.000008 | **0.40x** ($-60) | 1.16x |  | pumpfun | 2026-03-20 08:33 |
 | 🔴 e-CNY | $0.000008 | **0.97x** ($-3) | 1.04x |  | pumpfun | 2026-03-20 00:30 |
 
 ## Closed Positions

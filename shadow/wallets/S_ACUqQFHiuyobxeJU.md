@@ -1,12 +1,12 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [View on Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 10:52 UTC
+> [View on Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 10:57 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
+| Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-74 |
 | 📦 Unrealized | $-38 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 6Fp5DgN7 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:57 |
 | 🔴 AyVSMWys | $0.000004 | **0.62x** ($-38) | 1.82x |  | pumpfun | 2026-03-19 23:49 |
 
 ## Closed Positions

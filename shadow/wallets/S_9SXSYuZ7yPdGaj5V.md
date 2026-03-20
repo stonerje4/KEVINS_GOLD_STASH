@@ -1,6 +1,6 @@
 # Wallet: `9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc`
 
-> [View on Solscan](https://solscan.io/account/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | Updated: 2026-03-20 10:52 UTC
+> [View on Solscan](https://solscan.io/account/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | Updated: 2026-03-20 10:57 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-10 |
-| 🏦 Total | **$-26** |
+| 📦 Unrealized | $-7 |
+| 🏦 Total | **$-24** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Garbonzo | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:20 |
 | 🟡 BISPIDER | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:51 |
-| 🔴 Slap | $0.000006 | **0.49x** ($-51) | 1.57x |  | pumpfun | 2026-03-20 09:34 |
+| 🔴 Slap | $0.000006 | **0.52x** ($-48) | 1.57x |  | pumpfun | 2026-03-20 09:34 |
 | 🟡 PIXEL | $0.000004 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-20 06:58 |
 | 🟡 Simulation | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:20 |
 | 🟡 驚き | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |

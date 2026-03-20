@@ -1,6 +1,6 @@
 # Wallet: `A9S1bt9fVLMzmAtuJPjLwYRJRKyWi9PfD1AAKF8dh4cN`
 
-> [View on Solscan](https://solscan.io/account/A9S1bt9fVLMzmAtuJPjLwYRJRKyWi9PfD1AAKF8dh4cN) | Updated: 2026-03-20 10:52 UTC
+> [View on Solscan](https://solscan.io/account/A9S1bt9fVLMzmAtuJPjLwYRJRKyWi9PfD1AAKF8dh4cN) | Updated: 2026-03-20 10:57 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-6 |
-| 🏦 Total | **$-6** |
+| 📦 Unrealized | $-7 |
+| 🏦 Total | **$-7** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 RYS | $0.000351 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 08:31 |
+| 🔴 RYS | $0.000351 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 08:31 |
 | 🔴 WIZARD | $0.000002 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
 | 🟡 Silly | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:34 |
 | 🔴 Edgar | $0.000003 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-20 03:56 |
