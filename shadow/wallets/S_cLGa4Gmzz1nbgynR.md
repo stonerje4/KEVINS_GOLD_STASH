@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:39 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:44 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 157 (151 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $+291 |
-| 🏦 Total | **$+13** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.54x |
+| 📦 Unrealized | $+295 |
+| 🏦 Total | **$+17** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
@@ -23,7 +23,7 @@
 | 🟡 Rosei | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🟡 Strawberita | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:33 |
 | 🟡 foid | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
-| 🟡 RETARDINU | $0.000105 | **1.04x** ($+4) | 1.11x |  | pumpswap | 2026-03-20 14:22 |
+| 🟡 RETARDINU | $0.000105 | **1.03x** ($+3) | 1.11x |  | pumpswap | 2026-03-20 14:22 |
 | 🟡 比比拉布 | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:21 |
 | 🟡 plumber | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |
 | 🟡 forg | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
@@ -35,7 +35,7 @@
 | 🟡 Saxophones | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:40 |
 | 🟡 effect | $0.000093 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🟡 MIM | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
-| 🟡 MAPLE | $0.000045 | **1.04x** ($+4) | 1.10x |  | pumpswap | 2026-03-20 13:19 |
+| 🟡 MAPLE | $0.000045 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 MINDLESS | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:16 |
 | 🟡 butthole | $0.000117 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 ZeroG | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:39 |

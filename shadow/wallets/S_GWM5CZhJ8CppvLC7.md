@@ -1,25 +1,26 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 14:39 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 14:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 121 (120 open, 1 closed) |
+| Positions | 122 (121 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
 | 📦 Unrealized | $+120 |
 | 🏦 Total | **$+43** |
-| Best ROI | 0.23x |
-| Avg ROI | 0.23x |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 boob | $0.002428 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 14:41 |
 | 🟡 Doolysaurus | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
-| 🟡 RETARDINU | $0.000108 | **1.01x** ($+1) | 1.07x |  | pumpswap | 2026-03-20 14:22 |
+| 🔴 RETARDINU | $0.000108 | **1.00x** ($-0) | 1.07x |  | pumpswap | 2026-03-20 14:22 |
 | 🟡 Nigel | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:18 |
 | 🟡 Ouroboros | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 effect | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:08 |
@@ -137,7 +138,7 @@
 | 🟡 我的刀盾 | $0.003081 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-19 22:45 |
 | 🔴 Foodrot | $0.000150 | **0.94x** ($-6) | 1.11x |  | pumpswap | 2026-03-19 22:41 |
 | 🔴 Raccoon | $0.000013 | **0.97x** ($-3) | 1.29x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000394 | **1.45x** ($+45) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000394 | **1.49x** ($+49) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

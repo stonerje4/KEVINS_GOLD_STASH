@@ -1,23 +1,24 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 14:39 UTC
+> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 14:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (17 open, 1 closed) |
+| Positions | 19 (18 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $+21 |
 | 🏦 Total | **$-40** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHIBI | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
 | 🔴 BIAO | $0.000011 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 CHIBELON | $0.000185 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:29 |
 | 🟡 Downald | $0.000539 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:13 |

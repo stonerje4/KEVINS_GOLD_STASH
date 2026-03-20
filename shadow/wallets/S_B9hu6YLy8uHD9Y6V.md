@@ -1,18 +1,18 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 14:39 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 14:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 116 (5 open, 111 closed) |
-| W/L | 0/111 (0%) |
-| 💵 Realized | $-11,089 |
+| Positions | 119 (5 open, 114 closed) |
+| W/L | 0/114 (0%) |
+| 💵 Realized | $-11,389 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-11,089** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-11,389** |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -28,6 +28,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:44 → 2026-03-20 14:44 |
+| 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:42 → 2026-03-20 14:42 |
+| 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:40 → 2026-03-20 14:40 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:38 → 2026-03-20 14:38 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:36 → 2026-03-20 14:36 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:35 → 2026-03-20 14:35 |

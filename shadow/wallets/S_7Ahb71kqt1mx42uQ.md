@@ -1,23 +1,24 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [View on Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 14:39 UTC
+> [View on Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 14:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (14 open, 1 closed) |
+| Positions | 16 (15 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
 | 📦 Unrealized | $+18 |
 | 🏦 Total | **$-44** |
-| Best ROI | 0.38x |
-| Avg ROI | 0.38x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Panya | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🟡 Doolysaurus | $0.000203 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 CHIBISLOP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:42 |
 | 🟡 chibify | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:33 |

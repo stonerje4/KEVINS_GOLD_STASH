@@ -1,23 +1,24 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:39 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 42 (41 open, 1 closed) |
+| Positions | 43 (42 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-64 |
 | 📦 Unrealized | $+44 |
 | 🏦 Total | **$-19** |
-| Best ROI | 0.36x |
-| Avg ROI | 0.36x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FTR | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:42 |
 | 🟡 UOR | $0.000005 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 14:34 |
 | 🔴 HdbDNtPu | $0.000003 | **0.86x** ($-14) | 1.12x |  | pumpfun | 2026-03-20 14:20 |
 | 🟡 OIL#000 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:17 |

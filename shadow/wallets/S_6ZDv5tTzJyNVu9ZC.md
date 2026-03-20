@@ -1,23 +1,24 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 14:39 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 14:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 224 (222 open, 2 closed) |
+| Positions | 225 (223 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+364 |
-| 🏦 Total | **$+498** |
-| Best ROI | 2.95x |
-| Avg ROI | 1.67x |
+| 📦 Unrealized | $+367 |
+| 🏦 Total | **$+501** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 TRENCHERIA | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🟡 DATBOI | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 FAKER | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:32 |
 | 🟡 foid | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
@@ -33,16 +34,16 @@
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 Chud | $0.000658 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:42 |
 | 🔴 X | $0.000014 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
-| 🔴 LUNAR | $0.000037 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
+| 🔴 LUNAR | $0.000037 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 house | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 Squishy | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
-| 🔴 Ava | $0.000013 | **0.75x** ($-25) | 1.03x |  | pumpswap | 2026-03-20 13:30 |
+| 🔴 Ava | $0.000013 | **0.76x** ($-24) | 1.03x |  | pumpswap | 2026-03-20 13:30 |
 | 🟡 BBX | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 LAYOFF | $0.000242 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 HORMUZ | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 Fro | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:09 |
-| 🔴 shitcoin | $0.000351 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
-| 🔴 Goyim | $0.000620 | **0.92x** ($-8) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
+| 🔴 shitcoin | $0.000351 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
+| 🔴 Goyim | $0.000620 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 LIBERTY | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 fine999.9 | $0.002157 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:57 |
 | 🟡 TFW | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:38 |
