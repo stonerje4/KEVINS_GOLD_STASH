@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 07:05 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 07:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 55 (53 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-120 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-123** |
+| 📦 Unrealized | $-8 |
+| 🏦 Total | **$-129** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 George | $0.000019 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 06:41 |
+| 🔴 George | $0.000019 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-20 06:41 |
 | 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🟡 worth | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
@@ -36,7 +36,7 @@
 | 🟡 PIZZA | $0.000184 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 UGOR | $0.000863 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 AIFRUITS | $0.000671 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
-| 🔴 SOS | $0.000976 | **0.92x** ($-8) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
+| 🔴 SOS | $0.000976 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 CHIBI | $0.000816 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 LIFE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 PIKAHORSE | $0.000331 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |

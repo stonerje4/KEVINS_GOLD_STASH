@@ -1,6 +1,6 @@
 # Wallet: `CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c`
 
-> [View on Solscan](https://solscan.io/account/CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c) | Updated: 2026-03-20 07:05 UTC
+> [View on Solscan](https://solscan.io/account/CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c) | Updated: 2026-03-20 07:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-85** |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-99** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 我的猪盾 | $0.000012 | **0.76x** ($-24) | 1.04x |  | pumpfun | 2026-03-20 07:02 |
+| 🔴 我的猪盾 | $0.000012 | **0.61x** ($-39) | 1.04x |  | pumpfun | 2026-03-20 07:02 |
 
 ## Closed Positions
 

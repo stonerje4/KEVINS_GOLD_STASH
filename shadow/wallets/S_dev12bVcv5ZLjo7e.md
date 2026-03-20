@@ -1,16 +1,16 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 07:05 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 07:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 59 (57 open, 2 closed) |
+| Positions | 60 (58 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$+58** |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$+12** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.1x |
 
@@ -18,15 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ‎  | $0.000003 | **1.32x** ($+32) | 1.32x |  | pumpfun | 2026-03-20 07:04 |
+| 🟡 OILLESS | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:07 |
+| 🔴 ‎  | $0.000003 | **0.94x** ($-6) | 1.32x |  | pumpfun | 2026-03-20 07:04 |
 | 🟡 OIL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:57 |
 | 🔴 NBIS | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 COLONEL | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 06:30 |
 | 🟡 PHM | $0.000004 | **1.07x** ($+7) | 1.23x |  | pumpfun | 2026-03-20 06:29 |
 | 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 06:29 |
 | 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.01x |  | pumpfun | 2026-03-20 06:27 |
-| 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
-| 🔴 Invincible | $0.000007 | **0.99x** ($-1) | 1.22x |  | pumpfun | 2026-03-20 06:20 |
+| 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
+| 🔴 Invincible | $0.000007 | **0.95x** ($-5) | 1.22x |  | pumpfun | 2026-03-20 06:20 |
 | 🔴 BxrqpHmX | $0.000003 | **0.82x** ($-18) | 1.06x |  | pumpfun | 2026-03-20 06:15 |
 | 🔴 MOCHI | $0.000003 | **0.93x** ($-7) | 1.08x |  | pumpfun | 2026-03-20 05:46 |
 | 🟡 GROGU | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 05:44 |

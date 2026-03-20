@@ -1,6 +1,6 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 07:05 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 07:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 54 (38 open, 16 closed) |
 | W/L | 3/13 (19%) |
 | 💵 Realized | $-498 |
-| 📦 Unrealized | $-734 |
-| 🏦 Total | **$-1,232** |
+| 📦 Unrealized | $-696 |
+| 🏦 Total | **$-1,194** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AVATAR | $0.000072 | **0.87x** ($-13) | 1.06x |  | pumpswap | 2026-03-20 07:03 |
+| 🔴 AVATAR | $0.000072 | **0.91x** ($-9) | 1.07x |  | pumpswap | 2026-03-20 07:03 |
 | 🟡 Pixels | $0.000026 | **1.42x** ($+42) | 1.42x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 Otocolobus | $0.000004 | **0.61x** ($-39) | 1.32x |  | pumpfun | 2026-03-20 06:49 |
 | 🔴 29tcP9b3 | $0.000004 | **0.58x** ($-42) | 1.61x |  | pumpfun | 2026-03-20 06:45 |
-| 🔴 BOAR | $0.000011 | **0.72x** ($-28) | 1.10x |  | pumpswap | 2026-03-20 06:42 |
-| 🔴 2u4WY5Ui | $0.000006 | **0.90x** ($-10) | 1.70x |  | pumpfun | 2026-03-20 06:41 |
+| 🔴 BOAR | $0.000011 | **0.79x** ($-21) | 1.10x |  | pumpswap | 2026-03-20 06:42 |
+| 🔴 2u4WY5Ui | $0.000006 | **0.80x** ($-20) | 1.70x |  | pumpfun | 2026-03-20 06:41 |
 | 🔴 DOOMERCYCLE | $0.000008 | **0.44x** ($-56) | 1.34x |  | pumpfun | 2026-03-20 06:33 |
 | 🔴 Hawk | $0.000006 | **0.42x** ($-58) | 1.11x |  | pumpfun | 2026-03-20 06:26 |
 | 🔴 7MDPtxq1 | $0.000005 | **0.48x** ($-52) | 1.23x |  | pumpfun | 2026-03-20 06:00 |
@@ -34,7 +34,7 @@
 | 🔴 5ju6JsxF | $0.000005 | **0.51x** ($-49) | 1.37x |  | pumpfun | 2026-03-20 05:42 |
 | 🔴 horse | $0.000003 | **0.86x** ($-14) | 1.05x |  | pumpfun | 2026-03-20 05:40 |
 | 🔴 hopecore | $0.000004 | **0.59x** ($-41) | 1.02x |  | pumpfun | 2026-03-20 05:20 |
-| 🟢 Fk6LNJWo | $0.000004 | **3.33x** ($+233) | 4.40x | ✅ | pumpfun | 2026-03-20 05:17 |
+| 🟢 Fk6LNJWo | $0.000004 | **4.28x** ($+328) | 4.40x | ✅ | pumpfun | 2026-03-20 05:17 |
 | 🔴 GnT2LQRZ | $0.000003 | **0.76x** ($-24) | 1.35x |  | pumpfun | 2026-03-20 05:02 |
 | 🟡 94S763Nm | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.62x** ($-38) | 1.43x |  | pumpfun | 2026-03-20 04:14 |

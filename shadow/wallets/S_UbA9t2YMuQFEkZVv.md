@@ -1,12 +1,12 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 07:05 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 07:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (11 open, 1 closed) |
+| Positions | 13 (12 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $+161 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 UGOR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:10 |
 | 🟡 BBX | $0.000266 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:33 |
 | 🟡 FLAG | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:17 |
 | 🟡 FLAG | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:16 |

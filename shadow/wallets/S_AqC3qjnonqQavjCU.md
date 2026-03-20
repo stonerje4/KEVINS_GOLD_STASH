@@ -1,6 +1,6 @@
 # Wallet: `AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ`
 
-> [View on Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 07:05 UTC
+> [View on Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 07:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-16 |
-| 📦 Unrealized | $-26 |
-| 🏦 Total | **$-42** |
+| 📦 Unrealized | $-15 |
+| 🏦 Total | **$-31** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.7x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Gurneet | $0.000004 | **1.24x** ($+24) | 1.31x |  | pumpfun | 2026-03-20 07:05 |
+| 🟡 Gurneet | $0.000004 | **1.70x** ($+70) | 2.83x | ✅ | pumpfun | 2026-03-20 07:05 |
 | 🔴 G8DiKnXT | $0.000005 | **0.49x** ($-51) | 1.15x |  | pumpfun | 2026-03-20 04:13 |
 | 🟡 FEELESS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:58 |
 | 🟡 Sentinel | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:48 |

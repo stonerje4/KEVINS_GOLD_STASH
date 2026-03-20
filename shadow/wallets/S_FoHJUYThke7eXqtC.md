@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 07:05 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 07:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 27 (27 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+74 |
-| 🏦 Total | **$+74** |
+| 📦 Unrealized | $+58 |
+| 🏦 Total | **$+58** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PBPETE | $0.000003 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 07:02 |
+| 🟡 PBPETE | $0.000003 | **1.01x** ($+1) | 1.09x |  | pumpfun | 2026-03-20 07:02 |
 | 🔴 GRUM | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 06:36 |
 | 🔴 Jewboi | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 06:28 |
 | 🔴 MOHAMAD | $0.000003 | **0.90x** ($-10) | 1.20x |  | pumpfun | 2026-03-20 06:27 |
@@ -28,7 +28,7 @@
 | 🔴 LIBERTY | $0.000003 | **0.94x** ($-6) | 1.08x |  | pumpfun | 2026-03-20 04:47 |
 | 🔴 COMPUTE | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 04:38 |
 | 🔴 CR7 | $0.000003 | **0.87x** ($-13) | 1.05x |  | pumpfun | 2026-03-20 04:24 |
-| 🟢 TRASHBAG | $0.000003 | **4.00x** ($+300) | 4.07x | ✅ | pumpfun | 2026-03-20 03:52 |
+| 🟢 TRASHBAG | $0.000003 | **3.77x** ($+277) | 4.21x | ✅ | pumpfun | 2026-03-20 03:52 |
 | 🔴 NASCAT | $0.000003 | **0.91x** ($-9) | 1.19x |  | pumpfun | 2026-03-20 03:36 |
 | 🔴 DEBT | $0.000003 | **0.98x** ($-2) | 1.07x |  | pumpfun | 2026-03-20 02:42 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:23 |
