@@ -1,6 +1,6 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 21:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 21:45 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Simulation | $0.000024 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 15:21 |
+| 🔴 Simulation | $0.000024 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 15:21 |
 | 🟡 401k | $0.000008 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 08:48 |
 | 🔴 ONSING | $0.000009 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 08:00 |
 | 🔴 Ouroboros | $0.000026 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 07:13 |

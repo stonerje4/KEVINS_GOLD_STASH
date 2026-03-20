@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 21:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 21:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 42 (19 open, 23 closed) |
 | W/L | 2/21 (9%) |
 | 💵 Realized | $-810 |
-| 📦 Unrealized | $-267 |
-| 🏦 Total | **$-1,077** |
+| 📦 Unrealized | $-268 |
+| 🏦 Total | **$-1,079** |
 | Best ROI | 2.93x |
 | Avg ROI | 0.65x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MFT | $0.000014 | **1.42x** ($+42) | 2.27x | ✅ | pumpfun | 2026-03-20 16:04 |
+| 🟡 MFT | $0.000014 | **1.39x** ($+39) | 2.27x | ✅ | pumpfun | 2026-03-20 16:04 |
 | 🔴 CHUCK | $0.000012 | **0.81x** ($-19) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🔴 我的猪盾 | $0.000006 | **0.46x** ($-54) | 1.18x |  | pumpfun | 2026-03-20 07:13 |

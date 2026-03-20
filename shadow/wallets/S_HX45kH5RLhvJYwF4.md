@@ -1,6 +1,6 @@
 # Wallet: `HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5`
 
-> [GMGN](https://gmgn.ai/sol/address/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | [Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 21:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | [Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 21:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (4 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-250 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-266** |
+| 📦 Unrealized | $+43 |
+| 🏦 Total | **$-206** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Jessica | $0.000016 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 21:39 |
+| 🟢 Jessica | $0.000016 | **2.27x** ($+127) | 2.27x | ✅ | pumpfun | 2026-03-20 21:39 |
 | 🔴 ELONIFY | $0.000014 | **0.97x** ($-3) | 1.10x |  | pumpfun | 2026-03-20 19:03 |
 | 🟡 CHIBIPUNCH | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:10 |
 | 🔴 Floki | $0.000014 | **0.83x** ($-17) | 1.16x |  | pumpswap | 2026-03-20 10:37 |

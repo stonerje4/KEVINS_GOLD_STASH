@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 21:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 21:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 80 (79 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-4 |
-| 🏦 Total | **$-65** |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-91** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 HAIRCUT | $0.000016 | **0.98x** ($-2) | 1.12x |  | pumpswap | 2026-03-20 21:24 |
-| 🟡 Ouroboros | $0.000015 | **1.02x** ($+2) | 1.11x |  | pumpswap | 2026-03-20 20:51 |
-| 🔴 LIFE | $0.000022 | **0.97x** ($-3) | 1.11x |  | pumpswap | 2026-03-20 20:30 |
+| 🔴 HAIRCUT | $0.000016 | **0.88x** ($-12) | 1.12x |  | pumpswap | 2026-03-20 21:24 |
+| 🟡 Ouroboros | $0.000015 | **1.01x** ($+1) | 1.11x |  | pumpswap | 2026-03-20 20:51 |
+| 🔴 LIFE | $0.000022 | **0.95x** ($-5) | 1.11x |  | pumpswap | 2026-03-20 20:30 |
 | 🟡 𝕏 Card  | $0.000016 | **1.12x** ($+12) | 1.17x |  | pumpswap | 2026-03-20 19:57 |
 | 🔴 Chud | $0.000030 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-20 19:29 |
 | 🔴 clawedin | $0.000008 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 18:35 |
@@ -37,7 +37,7 @@
 | 🔴 e/alt | $0.000006 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 15:51 |
 | 🔴 SPIRITS | $0.000015 | **0.47x** ($-53) | 1.08x |  | pumpswap | 2026-03-20 15:50 |
 | 🟡 creature | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
-| 🔴 Speak | $0.000019 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 Speak | $0.000019 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 $GROWN  | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:42 |
 | 🔴 DATBOI | $0.000039 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 Newscum | $0.000020 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 14:28 |
@@ -74,15 +74,15 @@
 | 🟡 eUSD | $0.000012 | **1.11x** ($+11) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 WhiteBoy  | $0.000013 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-20 04:01 |
 | 🟡 Gascoin | $0.000033 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-20 03:41 |
-| 🔴 VAFR | $0.000022 | **0.95x** ($-5) | 1.18x |  | pumpswap | 2026-03-20 03:39 |
+| 🔴 VAFR | $0.000022 | **0.94x** ($-6) | 1.18x |  | pumpswap | 2026-03-20 03:39 |
 | 🔴 Xingxing | $0.000024 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
 | 🔴 Wob | $0.000019 | **0.82x** ($-18) | 1.26x |  | pumpswap | 2026-03-20 03:02 |
 | 🟡 CARROT | $0.000007 | **1.10x** ($+10) | 1.37x |  | pumpswap | 2026-03-20 02:56 |
 | 🔴 JOC | $0.000034 | **0.97x** ($-3) | 1.16x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 Skull | $0.000008 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 02:28 |
-| 🟡 Noorung | $0.000011 | **1.99x** ($+99) | 3.39x | ✅ | pumpswap | 2026-03-20 02:25 |
-| 🟢 CAINE | $0.000014 | **2.44x** ($+144) | 2.86x | ✅ | pumpswap | 2026-03-20 02:05 |
+| 🟡 Noorung | $0.000011 | **1.92x** ($+92) | 3.39x | ✅ | pumpswap | 2026-03-20 02:25 |
+| 🟢 CAINE | $0.000014 | **2.24x** ($+124) | 2.86x | ✅ | pumpswap | 2026-03-20 02:05 |
 | 🔴 COMPUTER | $0.000008 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:04 |
 | 🟡 MINT | $0.000021 | **1.16x** ($+16) | 1.16x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 MEMETIC | $0.000020 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:40 |
@@ -96,7 +96,7 @@
 | 🔴 5 | $0.000011 | **0.65x** ($-35) | 1.06x |  | pumpswap | 2026-03-19 23:36 |
 | 🟡 Barron | $0.000016 | **1.47x** ($+47) | 1.58x |  | pumpswap | 2026-03-19 23:23 |
 | 🔴 MIROFISH | $0.000035 | **0.66x** ($-34) | 1.06x |  | pumpswap | 2026-03-19 23:13 |
-| 🟡 GameTheory | $0.000019 | **1.16x** ($+16) | 1.16x |  | pumpswap | 2026-03-19 22:37 |
+| 🟡 GameTheory | $0.000019 | **1.13x** ($+13) | 1.16x |  | pumpswap | 2026-03-19 22:37 |
 
 ## Closed Positions
 
