@@ -1,15 +1,15 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 07:45 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 07:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (13 open, 3 closed) |
+| Positions | 17 (14 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $-123 |
+| 📦 Unrealized | $-124 |
 | 🏦 Total | **$-306** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 BOAT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
 | 🟡 CARROT | $0.000009 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 06:42 |
 | 🔴 METEOR | $0.000005 | **0.68x** ($-32) | 1.15x |  | pumpfun | 2026-03-20 05:43 |
 | 🔴 Veggietales | $0.000004 | **0.77x** ($-23) | 1.24x |  | pumpfun | 2026-03-20 03:56 |

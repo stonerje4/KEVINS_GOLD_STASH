@@ -1,6 +1,6 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 07:45 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 07:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 24 (16 open, 8 closed) |
 | W/L | 0/8 (0%) |
 | 💵 Realized | $-369 |
-| 📦 Unrealized | $+208 |
-| 🏦 Total | **$-161** |
+| 📦 Unrealized | $+99 |
+| 🏦 Total | **$-270** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.8x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 76f2arMq | $0.000007 | **1.58x** ($+58) | 1.97x |  | pumpfun | 2026-03-20 07:44 |
+| 🔴 76f2arMq | $0.000007 | **0.76x** ($-24) | 1.97x |  | pumpfun | 2026-03-20 07:44 |
 | 🔴 FROG | $0.000004 | **0.65x** ($-35) | 1.52x |  | pumpfun | 2026-03-20 07:31 |
-| 🟢 awkward | $0.000008 | **2.57x** ($+157) | 4.18x | ✅ | pumpfun | 2026-03-20 07:03 |
+| 🟡 awkward | $0.000008 | **1.88x** ($+88) | 4.18x | ✅ | pumpfun | 2026-03-20 07:03 |
 | 🟡 MENACE | $0.000004 | **1.10x** ($+10) | 2.89x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 05:51 |
 | 🟡 TRADITION | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:10 |

@@ -1,6 +1,6 @@
 # Wallet: `294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN`
 
-> [View on Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 07:45 UTC
+> [View on Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 07:50 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 HUGH | $0.000004 | **0.67x** ($-33) | 1.00x |  | pumpfun | 2026-03-20 05:56 |
+| 🔴 HUGH | $0.000004 | **0.66x** ($-34) | 1.00x |  | pumpfun | 2026-03-20 05:56 |
 | 🟡 DICKUS | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:31 |
 | 🔴 JAMES | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpswap | 2026-03-20 02:04 |
 | 🔴 IShowSpeed | $0.000014 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 02:02 |

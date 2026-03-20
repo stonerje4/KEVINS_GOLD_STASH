@@ -1,18 +1,18 @@
 # Wallet: `AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x`
 
-> [View on Solscan](https://solscan.io/account/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | Updated: 2026-03-20 07:45 UTC
+> [View on Solscan](https://solscan.io/account/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | Updated: 2026-03-20 07:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
+| Positions | 3 (2 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-70 |
 | 📦 Unrealized | $-29 |
-| 🏦 Total | **$-29** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 🏦 Total | **$-99** |
+| Best Trade | 0.3x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -25,6 +25,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 DOGEFATHER | 0.30x | $-70 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:47 → 2026-03-20 07:48 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

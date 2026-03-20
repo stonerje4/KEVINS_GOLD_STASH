@@ -1,29 +1,28 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 07:45 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 07:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (15 open, 7 closed) |
-| W/L | 2/5 (29%) |
-| 💵 Realized | $-142 |
-| 📦 Unrealized | $-540 |
-| 🏦 Total | **$-682** |
+| Positions | 22 (14 open, 8 closed) |
+| W/L | 2/6 (25%) |
+| 💵 Realized | $-204 |
+| 📦 Unrealized | $-496 |
+| 🏦 Total | **$-700** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.6x |
+| Avg Peak | 2.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chibi | $0.000009 | **0.61x** ($-39) | 1.88x |  | pumpfun | 2026-03-20 07:35 |
+| 🔴 Chibi | $0.000009 | **0.51x** ($-49) | 1.88x |  | pumpfun | 2026-03-20 07:35 |
 | 🔴 PEPE | $0.000005 | **0.50x** ($-50) | 1.18x |  | pumpfun | 2026-03-20 07:31 |
 | 🔴 Chipe | $0.000003 | **0.77x** ($-23) | 1.98x |  | pumpfun | 2026-03-20 07:28 |
 | 🔴 CHIBILON | $0.000007 | **0.44x** ($-56) | 1.14x |  | pumpfun | 2026-03-20 07:16 |
 | 🔴 Gurneet | $0.000005 | **0.46x** ($-54) | 1.84x |  | pumpfun | 2026-03-20 07:06 |
-| 🔴 AVATAR | $0.000052 | **0.46x** ($-54) | 1.50x |  | pumpswap | 2026-03-20 06:56 |
 | 🔴 GrwBPsCc | $0.000005 | **0.49x** ($-51) | 1.49x |  | pumpfun | 2026-03-20 06:51 |
 | 🔴 Justice | $0.000004 | **0.59x** ($-41) | 1.10x |  | pumpfun | 2026-03-20 06:46 |
 | 🔴 6vuxS6wu | $0.000005 | **0.51x** ($-49) | 1.03x |  | pumpfun | 2026-03-20 05:09 |
@@ -38,6 +37,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 AVATAR | 0.38x | $-62 | stop_loss | 1.50x | pumpswap | 2026-03-20 06:56 → 2026-03-20 07:46 |
 | 🔴 HAIRDRYER | 0.39x | $-61 | stop_loss | 1.60x | pumpfun | 2026-03-20 05:20 → 2026-03-20 05:23 |
 | 🟡 H5YKrAF3 | 1.34x | $+34 | trailing_stop_5x | 4.97x | pumpfun | 2026-03-20 04:56 → 2026-03-20 05:00 |
 | 🔴 Jango | 0.37x | $-63 | stop_loss | 1.24x | pumpfun | 2026-03-20 04:54 → 2026-03-20 04:54 |

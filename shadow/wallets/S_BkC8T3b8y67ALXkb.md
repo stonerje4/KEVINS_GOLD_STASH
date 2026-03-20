@@ -1,16 +1,16 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 07:45 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 07:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 57 (55 open, 2 closed) |
+| Positions | 58 (56 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-120 |
-| 📦 Unrealized | $-27 |
-| 🏦 Total | **$-147** |
+| 📦 Unrealized | $-23 |
+| 🏦 Total | **$-143** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,15 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LIBERTY | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 HeavyPulp | $0.001092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
 | 🟡 Massive | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
-| 🔴 George | $0.000019 | **0.59x** ($-41) | 1.03x |  | pumpswap | 2026-03-20 06:41 |
+| 🔴 George | $0.000019 | **0.63x** ($-37) | 1.03x |  | pumpswap | 2026-03-20 06:41 |
 | 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🟡 worth | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 Rosie | $0.000797 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:51 |
 | 🟡 Momo-chan | $0.000312 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🟡 NATIVELY | $0.000038 | **1.23x** ($+23) | 1.23x |  | cpmm | 2026-03-20 04:46 |
+| 🟡 NATIVELY | $0.000038 | **1.24x** ($+24) | 1.24x |  | cpmm | 2026-03-20 04:46 |
 | 🟡 LUMO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Solana | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Spiderman | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
@@ -72,7 +73,7 @@
 | 🟡 AMBER | $0.000014 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-19 23:21 |
 | 🟢 唐子兵法 | $0.001448 | **3.02x** ($+202) | 3.13x | ✅ | pumpswap | 2026-03-19 22:46 |
 | 🟡 Foodrot | $0.000135 | **1.04x** ($+4) | 1.23x |  | pumpswap | 2026-03-19 22:46 |
-| 🔴 PAD | $0.000019 | **0.75x** ($-25) | 1.03x |  | pumpswap | 2026-03-19 22:37 |
+| 🔴 PAD | $0.000019 | **0.74x** ($-26) | 1.03x |  | pumpswap | 2026-03-19 22:37 |
 
 ## Closed Positions
 

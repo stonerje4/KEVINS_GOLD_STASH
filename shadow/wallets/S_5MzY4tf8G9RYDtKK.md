@@ -1,16 +1,16 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 07:45 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 07:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 46 (28 open, 18 closed) |
-| W/L | 0/18 (0%) |
-| 💵 Realized | $-957 |
-| 📦 Unrealized | $-329 |
-| 🏦 Total | **$-1,286** |
+| Positions | 46 (27 open, 19 closed) |
+| W/L | 0/19 (0%) |
+| 💵 Realized | $-1,017 |
+| 📦 Unrealized | $-304 |
+| 🏦 Total | **$-1,321** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,13 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 GrokChibi | $0.000009 | **0.50x** ($-50) | 1.10x |  | pumpfun | 2026-03-20 07:37 |
-| 🟡 awkward | $0.000015 | **1.42x** ($+42) | 2.31x | ✅ | pumpfun | 2026-03-20 07:16 |
+| 🟡 awkward | $0.000015 | **1.04x** ($+4) | 2.31x | ✅ | pumpfun | 2026-03-20 07:16 |
 | 🔴 我的猪盾 | $0.000006 | **0.52x** ($-48) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 IMAGINE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |
 | 🟡 IMAGINE | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🟡 Civil Claude | $0.000013 | **1.44x** ($+44) | 2.16x | ✅ | pumpfun | 2026-03-20 04:55 |
+| 🟡 Civil Claude | $0.000013 | **1.33x** ($+33) | 2.16x | ✅ | pumpfun | 2026-03-20 04:55 |
 | 🟡 MFT | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🟡 SPARKOS | $0.000109 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:48 |
 | 🟡 W | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:13 |
@@ -51,6 +50,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 GrokChibi | 0.40x | $-60 | stop_loss | 1.10x | pumpfun | 2026-03-20 07:37 → 2026-03-20 07:50 |
 | 🔴 startpup | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 06:09 → 2026-03-20 06:22 |
 | 🔴 nickel | 0.40x | $-60 | stop_loss | 1.12x | pumpfun | 2026-03-20 05:32 → 2026-03-20 06:01 |
 | 🔴 badger | 0.31x | $-69 | stop_loss | 1.07x | pumpfun | 2026-03-20 03:10 → 2026-03-20 03:11 |
