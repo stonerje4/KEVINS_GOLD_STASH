@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (5 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-104 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$-100** |
+| 📦 Unrealized | $-26 |
+| 🏦 Total | **$-130** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.0x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Ancestors | $0.000006 | **1.42x** ($+42) | 1.53x |  | pumpfun | 2026-03-20 00:47 |
+| 🟡 Ancestors | $0.000006 | **1.17x** ($+17) | 1.53x |  | pumpfun | 2026-03-20 00:47 |
 | 🔴 Ouroboros | $0.000035 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-20 00:46 |
 | 🔴 Charles | $0.000003 | **0.92x** ($-8) | 2.05x | ✅ | pumpfun | 2026-03-20 00:17 |
 | 🟡 trump | $0.000006 | **1.17x** ($+17) | 2.88x | ✅ | pumpfun | 2026-03-19 23:36 |
-| 🔴 LIBERTY | $0.000063 | **0.64x** ($-36) | 1.33x |  | pumpswap | 2026-03-19 23:36 |
+| 🔴 LIBERTY | $0.000063 | **0.59x** ($-41) | 1.33x |  | pumpswap | 2026-03-19 23:36 |
 
 ## Closed Positions
 

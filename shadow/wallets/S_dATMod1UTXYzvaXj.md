@@ -1,34 +1,34 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (6 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-109 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$-30** |
+| Positions | 11 (5 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-170 |
+| 📦 Unrealized | $+50 |
+| 🏦 Total | **$-120** |
 | Best Trade | 1.5x |
-| Avg Peak | 2.1x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Gz95UGCX | $0.000008 | **1.12x** ($+12) | 1.53x |  | pumpfun | 2026-03-20 01:22 |
 | 🟡 SHOENICE  | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:05 |
 | 🟡 Grokslop | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 01:01 |
-| 🟡 CHIBI | $0.000937 | **1.10x** ($+10) | 1.17x |  | pumpswap | 2026-03-20 00:46 |
+| 🔴 CHIBI | $0.000937 | **0.98x** ($-2) | 1.17x |  | pumpswap | 2026-03-20 00:46 |
 | 🟡 TENDIES | $0.000054 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:01 |
-| 🔴 LIBERTY | $0.000049 | **0.82x** ($-18) | 1.71x |  | pumpswap | 2026-03-19 23:35 |
+| 🔴 LIBERTY | $0.000049 | **0.76x** ($-24) | 1.71x |  | pumpswap | 2026-03-19 23:35 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Gz95UGCX | 0.40x | $-60 | stop_loss | 1.53x | pumpfun | 2026-03-20 01:22 → 2026-03-20 01:27 |
 | 🟡 Ham | 0.81x | $-19 | trailing_stop_2x | 2.40x | pumpswap | 2026-03-20 00:31 → 2026-03-20 00:58 |
 | 🟡 Massive | 1.47x | $+47 | trailing_stop_3x | 3.03x | pumpswap | 2026-03-19 23:42 → 2026-03-19 23:53 |
 | 🔴 SHOENICE  | 0.38x | $-62 | stop_loss | 1.90x | pumpfun | 2026-03-19 23:31 → 2026-03-19 23:57 |

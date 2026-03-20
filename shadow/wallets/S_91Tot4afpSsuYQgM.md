@@ -1,6 +1,6 @@
 # Wallet: `91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso`
 
-> [View on Solscan](https://solscan.io/account/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+63 |
-| 🏦 Total | **$+63** |
+| 📦 Unrealized | $+44 |
+| 🏦 Total | **$+44** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -22,9 +22,9 @@
 | 🔴 ballsack | $0.000005 | **0.94x** ($-6) | 1.02x |  | pumpswap | 2026-03-20 01:00 |
 | 🟡 CT | $0.000004 | **1.03x** ($+3) | 1.33x |  | pumpswap | 2026-03-20 00:49 |
 | 🟡 clitoris | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:36 |
-| 🟡 CHIBITRUMP | $0.000010 | **1.34x** ($+34) | 1.89x |  | pumpswap | 2026-03-20 00:26 |
-| 🟡 CHIBIELON | $0.000005 | **1.43x** ($+43) | 1.80x |  | pumpswap | 2026-03-20 00:06 |
-| 🔴 Chibify | $0.000004 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
+| 🟡 CHIBITRUMP | $0.000010 | **1.13x** ($+13) | 1.89x |  | pumpswap | 2026-03-20 00:26 |
+| 🟡 CHIBIELON | $0.000005 | **1.51x** ($+51) | 1.80x |  | pumpswap | 2026-03-20 00:06 |
+| 🔴 Chibify | $0.000004 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
 
 ## Closed Positions
 

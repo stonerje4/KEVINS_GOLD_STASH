@@ -1,6 +1,6 @@
 # Wallet: `23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp`
 
-> [View on Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-96** |
+| 📦 Unrealized | $-25 |
+| 🏦 Total | **$-101** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 DLORP | $0.000012 | **0.80x** ($-20) | 1.23x |  | pumpswap | 2026-03-19 22:48 |
+| 🔴 DLORP | $0.000012 | **0.75x** ($-25) | 1.23x |  | pumpswap | 2026-03-19 22:48 |
 
 ## Closed Positions
 

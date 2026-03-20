@@ -1,6 +1,6 @@
 # Wallet: `NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv`
 
-> [View on Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-8** |
+| 📦 Unrealized | $-23 |
+| 🏦 Total | **$-23** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 DRIVE | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:22 |
-| 🔴 Chibify | $0.000044 | **0.92x** ($-8) | 1.06x |  | pumpswap | 2026-03-20 01:20 |
+| 🔴 Chibify | $0.000044 | **0.77x** ($-23) | 1.06x |  | pumpswap | 2026-03-20 01:20 |
 
 ## Closed Positions
 

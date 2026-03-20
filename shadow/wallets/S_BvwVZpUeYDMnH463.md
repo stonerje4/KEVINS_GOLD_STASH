@@ -1,6 +1,6 @@
 # Wallet: `BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y`
 
-> [View on Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-14 |
-| 🏦 Total | **$-75** |
+| 📦 Unrealized | $+19 |
+| 🏦 Total | **$-42** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Strawberita | $0.000046 | **1.23x** ($+23) | 1.49x |  | pumpswap | 2026-03-19 23:14 |
+| 🟡 Strawberita | $0.000046 | **1.57x** ($+57) | 1.57x |  | pumpswap | 2026-03-19 23:14 |
 | 🔴 ONESHOTTED | $0.000009 | **0.90x** ($-10) | 1.17x |  | pumpswap | 2026-03-19 22:51 |
-| 🔴 ROME | $0.000013 | **0.73x** ($-27) | 1.18x |  | pumpswap | 2026-03-19 22:42 |
+| 🔴 ROME | $0.000013 | **0.72x** ($-28) | 1.18x |  | pumpswap | 2026-03-19 22:42 |
 
 ## Closed Positions
 

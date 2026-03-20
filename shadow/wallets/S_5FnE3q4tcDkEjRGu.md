@@ -1,6 +1,6 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [View on Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-19 |
-| 📦 Unrealized | $-30 |
-| 🏦 Total | **$-49** |
+| 📦 Unrealized | $-32 |
+| 🏦 Total | **$-51** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.1x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 DRIVE | $0.000026 | **1.40x** ($+40) | 1.40x |  | pumpfun | 2026-03-20 01:03 |
-| 🔴 SPODER | $0.000012 | **0.81x** ($-19) | 1.59x |  | pumpswap | 2026-03-20 00:41 |
+| 🔴 SPODER | $0.000012 | **0.80x** ($-20) | 1.59x |  | pumpswap | 2026-03-20 00:41 |
 | 🔴 Fruits | $0.000007 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 00:34 |
 
 ## Closed Positions

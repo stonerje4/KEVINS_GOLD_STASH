@@ -1,16 +1,16 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
+| Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-79** |
+| 📦 Unrealized | $-35 |
+| 🏦 Total | **$-95** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 attn | $0.000338 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 00:10 |
+| 🔴 CHIBIAURA | $0.000169 | **0.85x** ($-15) | 1.16x |  | pumpswap | 2026-03-20 01:26 |
+| 🔴 attn | $0.000338 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 00:10 |
 | 🔴 TOKEN | $0.000128 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-19 23:32 |
 
 ## Closed Positions

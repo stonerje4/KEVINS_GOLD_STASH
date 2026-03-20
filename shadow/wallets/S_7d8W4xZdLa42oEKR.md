@@ -1,6 +1,6 @@
 # Wallet: `7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ`
 
-> [View on Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+101 |
-| 🏦 Total | **$+101** |
+| 📦 Unrealized | $+102 |
+| 🏦 Total | **$+102** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Saxophones | $0.000035 | **1.41x** ($+41) | 1.67x |  | pumpswap | 2026-03-20 01:16 |
-| 🔴 PIKE | $0.000041 | **0.97x** ($-3) | 1.05x |  | pumpswap | 2026-03-20 01:10 |
-| 🟡 herm | $0.000163 | **1.18x** ($+18) | 1.23x |  | pumpswap | 2026-03-20 00:23 |
-| 🟡 tinfoil | $0.000043 | **1.22x** ($+22) | 1.39x |  | pumpswap | 2026-03-20 00:22 |
-| 🟡 Fro | $0.000177 | **1.30x** ($+30) | 1.84x |  | pumpswap | 2026-03-19 23:13 |
+| 🟡 Saxophones | $0.000035 | **1.20x** ($+20) | 1.67x |  | pumpswap | 2026-03-20 01:16 |
+| 🔴 PIKE | $0.000041 | **0.91x** ($-9) | 1.05x |  | pumpswap | 2026-03-20 01:10 |
+| 🟡 herm | $0.000163 | **1.31x** ($+31) | 1.35x |  | pumpswap | 2026-03-20 00:23 |
+| 🟡 tinfoil | $0.000043 | **1.20x** ($+20) | 1.39x |  | pumpswap | 2026-03-20 00:22 |
+| 🟡 Fro | $0.000177 | **1.49x** ($+49) | 1.84x |  | pumpswap | 2026-03-19 23:13 |
 | 🟡 FL | $0.000100 | **1.06x** ($+6) | 1.12x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 NETANYAHU | $0.000108 | **0.86x** ($-14) | 1.10x |  | pumpswap | 2026-03-19 23:08 |
 

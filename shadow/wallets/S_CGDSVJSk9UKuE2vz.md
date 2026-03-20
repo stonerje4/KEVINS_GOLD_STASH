@@ -1,6 +1,6 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Chibi | $0.000006 | **1.26x** ($+26) | 1.36x |  | cpmm | 2026-03-20 00:50 |
 | 🟡 RWA | $139.856155 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-19 23:32 |
-| 🟡 FKH | $0.000015 | **1.32x** ($+32) | 2.09x | ✅ | pumpswap | 2026-03-19 22:56 |
+| 🟡 FKH | $0.000015 | **1.31x** ($+31) | 2.09x | ✅ | pumpswap | 2026-03-19 22:56 |
 
 ## Closed Positions
 

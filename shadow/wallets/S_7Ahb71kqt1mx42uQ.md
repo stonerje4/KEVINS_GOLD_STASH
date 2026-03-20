@@ -1,6 +1,6 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [View on Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 01:24 UTC
+> [View on Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 01:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $-25 |
-| 🏦 Total | **$-87** |
+| 📦 Unrealized | $-30 |
+| 🏦 Total | **$-92** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -23,7 +23,7 @@
 | 🔴 Genesis-2 | $0.000006 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:40 |
 | 🟡 Eugene | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:39 |
 | 🟡 FIH | $0.000305 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-19 23:10 |
-| 🔴 LUMO | $0.000035 | **0.86x** ($-14) | 1.16x |  | pumpswap | 2026-03-19 23:03 |
+| 🔴 LUMO | $0.000035 | **0.80x** ($-20) | 1.16x |  | pumpswap | 2026-03-19 23:03 |
 
 ## Closed Positions
 
