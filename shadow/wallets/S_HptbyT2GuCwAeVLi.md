@@ -1,6 +1,6 @@
 # Wallet: `HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL`
 
-> [View on Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-20 12:13 UTC
+> [View on Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-20 12:18 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-4 |
-| 🏦 Total | **$-4** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-5 |
+| 🏦 Total | **$-5** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Próspera | $0.000005 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 04:03 |
+| 🔴 Próspera | $0.000005 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 04:03 |
 | 🟡 Anduril  | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:58 |
 
 ## Closed Positions

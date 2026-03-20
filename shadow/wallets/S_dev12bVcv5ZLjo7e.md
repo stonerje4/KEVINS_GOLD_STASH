@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 12:13 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 12:18 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 89 (87 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $-18 |
-| 🏦 Total | **$+12** |
-| Best ROI | 1.45x |
-| Avg ROI | 1.15x |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$+13** |
+| Best Trade | 1.5x |
+| Avg Peak | 3.1x |
 
 ## Open Positions
 
@@ -35,7 +35,7 @@
 | 🟡 KIYON | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:44 |
 | 🟡 Chibi | $0.000003 | **1.07x** ($+7) | 1.89x |  | pumpfun | 2026-03-20 09:02 |
 | 🔴 COLONEL | $0.000004 | **0.98x** ($-2) | 1.11x |  | pumpfun | 2026-03-20 08:50 |
-| 🔴 GAS | $0.000006 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 08:46 |
+| 🔴 GAS | $0.000006 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 08:46 |
 | 🟡 Chibi | $0.000003 | **1.01x** ($+1) | 1.02x |  | pumpfun | 2026-03-20 08:39 |
 | 🔴 ChibiJak | $0.000003 | **0.89x** ($-11) | 1.27x |  | pumpfun | 2026-03-20 08:38 |
 | 🔴 WFD | $0.000003 | **0.92x** ($-8) | 1.07x |  | pumpfun | 2026-03-20 08:33 |
@@ -57,7 +57,7 @@
 | 🔴 COLONEL | $0.000003 | **0.85x** ($-15) | 1.01x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
 | 🟡 Invincible | $0.000007 | **1.28x** ($+28) | 1.38x |  | pumpfun | 2026-03-20 06:20 |
-| 🔴 BxrqpHmX | $0.000003 | **0.82x** ($-18) | 1.06x |  | pumpfun | 2026-03-20 06:15 |
+| 🔴 BxrqpHmX | $0.000003 | **0.80x** ($-20) | 1.06x |  | pumpfun | 2026-03-20 06:15 |
 | 🔴 MOCHI | $0.000003 | **0.93x** ($-7) | 1.08x |  | pumpfun | 2026-03-20 05:46 |
 | 🔴 GROGU | $0.000003 | **0.94x** ($-6) | 1.01x |  | pumpfun | 2026-03-20 05:44 |
 | 🔴 1000PERP | $0.000003 | **1.00x** ($-0) | 1.03x |  | pumpfun | 2026-03-20 05:40 |

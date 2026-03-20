@@ -1,6 +1,6 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 12:13 UTC
+> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 12:18 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$-41** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-42 |
+| 🏦 Total | **$-42** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 0 | $0.000105 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 06:05 |
-| 🔴 butthole | $0.000169 | **0.80x** ($-20) | 1.09x |  | pumpswap | 2026-03-20 05:19 |
+| 🔴 butthole | $0.000169 | **0.78x** ($-22) | 1.09x |  | pumpswap | 2026-03-20 05:19 |
 | 🟡 Optimistic | $0.000763 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:11 |
 | 🟡 Nigel | $0.000296 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
 | 🔴 Momo-chan | $0.000359 | **0.86x** ($-14) | 1.03x |  | pumpswap | 2026-03-20 01:51 |

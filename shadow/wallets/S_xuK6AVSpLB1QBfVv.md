@@ -1,23 +1,24 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 12:13 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 12:18 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 70 (69 open, 1 closed) |
+| Positions | 71 (70 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
 | 📦 Unrealized | $-239 |
 | 🏦 Total | **$-255** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.83x |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 GOONE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:14 |
 | 🟡 Bispider  | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:00 |
 | 🟡 4dahFDZd | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |
 | 🟡 NBR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:17 |

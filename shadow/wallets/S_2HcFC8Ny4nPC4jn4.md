@@ -1,23 +1,26 @@
 # Wallet: `2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6`
 
-> [View on Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 12:13 UTC
+> [View on Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 12:18 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (21 open, 8 closed) |
+| Positions | 32 (24 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-274 |
 | 📦 Unrealized | $-103 |
 | 🏦 Total | **$-377** |
-| Best ROI | 2.59x |
-| Avg ROI | 0.66x |
+| Best Trade | 2.6x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 B6jsFauS | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
+| 🟡 G3irSc1a | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
+| 🟡 BEANS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:13 |
 | 🟡 e6PLK8kb | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:11 |
 | 🟡 Gq1vv6XM | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:10 |
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |

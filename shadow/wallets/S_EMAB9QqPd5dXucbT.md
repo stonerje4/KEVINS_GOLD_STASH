@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 12:13 UTC
+> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 12:18 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 33 (32 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-44 |
-| 🏦 Total | **$-104** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| 📦 Unrealized | $-54 |
+| 🏦 Total | **$-114** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🔴 Wob | $0.000023 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 Flash | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:43 |
 | 🟡 LUMO | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:27 |
-| 🟡 awkward | $0.000013 | **1.07x** ($+7) | 1.24x |  | pumpfun | 2026-03-20 10:09 |
+| 🟡 awkward | $0.000013 | **1.04x** ($+4) | 1.24x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 Massive | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:22 |
 | 🟡 Strawberita | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:21 |
 | 🟡 PIKE | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
@@ -29,8 +29,8 @@
 | 🟢 Pixel | $0.000016 | **2.30x** ($+130) | 2.30x | ✅ | pumpfun | 2026-03-20 04:08 |
 | 🔴 しずく | $0.000022 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 plumber | $0.000058 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
-| 🟡 MILO | $0.000006 | **1.00x** ($+0) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
-| 🔴 AICOIN | $0.000082 | **0.88x** ($-12) | 1.10x |  | pumpswap | 2026-03-20 03:21 |
+| 🔴 MILO | $0.000006 | **0.92x** ($-8) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
+| 🔴 AICOIN | $0.000082 | **0.89x** ($-11) | 1.10x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 Hamster | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 Spiderman | $0.000203 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 02:11 |

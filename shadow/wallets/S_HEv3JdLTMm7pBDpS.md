@@ -1,6 +1,6 @@
 # Wallet: `HEv3JdLTMm7pBDpS9u2PXXhfMegvrN5gKpj6eQLYhXRW`
 
-> [View on Solscan](https://solscan.io/account/HEv3JdLTMm7pBDpS9u2PXXhfMegvrN5gKpj6eQLYhXRW) | Updated: 2026-03-20 12:13 UTC
+> [View on Solscan](https://solscan.io/account/HEv3JdLTMm7pBDpS9u2PXXhfMegvrN5gKpj6eQLYhXRW) | Updated: 2026-03-20 12:18 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+50 |
-| 🏦 Total | **$+50** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+96 |
+| 🏦 Total | **$+96** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OSP | $0.000003 | **1.26x** ($+26) | 1.29x |  | pumpfun | 2026-03-20 07:17 |
+| 🟡 OSP | $0.000003 | **1.73x** ($+73) | 1.73x |  | pumpfun | 2026-03-20 07:17 |
 | 🟡 NBR | $0.000004 | **1.23x** ($+23) | 1.23x |  | pumpfun | 2026-03-20 06:51 |
 
 ## Closed Positions
