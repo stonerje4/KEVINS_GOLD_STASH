@@ -1,12 +1,12 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 09:41 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 09:46 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (18 open, 11 closed) |
+| Positions | 30 (19 open, 11 closed) |
 | W/L | 2/9 (18%) |
 | 💵 Realized | $-393 |
 | 📦 Unrealized | $-650 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 omochi | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:43 |
 | 🔴 omochi | $0.000004 | **0.68x** ($-32) | 1.78x |  | pumpfun | 2026-03-20 09:11 |
 | 🔴 VOID | $0.000005 | **0.54x** ($-46) | 1.92x |  | pumpfun | 2026-03-20 09:03 |
 | 🔴 62fRErwW | $0.000005 | **0.54x** ($-46) | 1.22x |  | pumpfun | 2026-03-20 08:55 |

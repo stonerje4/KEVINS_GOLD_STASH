@@ -1,6 +1,6 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 09:41 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 09:46 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 30 (27 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-147 |
-| 📦 Unrealized | $+64 |
-| 🏦 Total | **$-82** |
+| 📦 Unrealized | $+49 |
+| 🏦 Total | **$-97** |
 | Best Trade | 0.7x |
 | Avg Peak | 2.6x |
 
@@ -38,7 +38,7 @@
 | 🟡 MSBT | $0.000004 | **1.43x** ($+43) | 1.54x |  | pumpfun | 2026-03-20 04:24 |
 | 🟡 C34FiRrM | $0.000003 | **1.02x** ($+2) | 1.11x |  | pumpfun | 2026-03-20 04:05 |
 | 🟡 2PQ1tBc5 | $0.000003 | **1.02x** ($+2) | 1.12x |  | pumpfun | 2026-03-20 03:49 |
-| 🟡 USRNR | $0.000004 | **1.59x** ($+59) | 1.60x |  | pumpfun | 2026-03-20 03:24 |
+| 🟡 USRNR | $0.000004 | **1.44x** ($+44) | 1.60x |  | pumpfun | 2026-03-20 03:24 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:07 |
 | 🟡 XRP | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:59 |
 | 🔴 WAR | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 00:27 |

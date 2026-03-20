@@ -1,25 +1,25 @@
 # Wallet: `2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6`
 
-> [View on Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 09:41 UTC
+> [View on Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 09:46 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (7 open, 7 closed) |
-| W/L | 0/7 (0%) |
-| 💵 Realized | $-434 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$-406** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.3x |
+| Positions | 15 (7 open, 8 closed) |
+| W/L | 1/7 (12%) |
+| 💵 Realized | $-274 |
+| 📦 Unrealized | $-191 |
+| 🏦 Total | **$-466** |
+| Best Trade | 2.6x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 effect | $0.000005 | **4.84x** ($+384) | 7.11x | ✅ | pumpfun | 2026-03-20 09:30 |
-| 🟡 Doolysaurus | $0.000011 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 09:27 |
+| 🟡 8j6jehro | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:42 |
+| 🔴 Doolysaurus | $0.000011 | **0.99x** ($-1) | 1.87x |  | pumpfun | 2026-03-20 09:27 |
 | 🔴 6sJSQVtw | $0.000004 | **0.67x** ($-33) | 1.67x |  | pumpfun | 2026-03-20 09:25 |
 | 🔴 32VQkt6V | $0.000003 | **0.76x** ($-24) | 1.44x |  | pumpfun | 2026-03-20 09:20 |
 | 🔴 FROG | $0.000004 | **0.70x** ($-30) | 1.57x |  | pumpfun | 2026-03-20 08:26 |
@@ -30,6 +30,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟢 effect | 2.59x | $+159 | trailing_stop_7x | 7.11x | pumpfun | 2026-03-20 09:30 → 2026-03-20 09:45 |
 | 🔴 WRONG | 0.34x | $-66 | stop_loss | 1.33x | pumpfun | 2026-03-20 09:21 → 2026-03-20 09:39 |
 | 🔴 Ropet | 0.40x | $-60 | stop_loss | 1.47x | pumpfun | 2026-03-20 08:57 → 2026-03-20 08:58 |
 | 🔴 Ropet | 0.39x | $-61 | stop_loss | 1.49x | pumpfun | 2026-03-20 08:56 → 2026-03-20 09:01 |

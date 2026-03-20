@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 09:41 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 09:46 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 75 (51 open, 24 closed) |
 | W/L | 2/22 (8%) |
 | 💵 Realized | $-1,020 |
-| 📦 Unrealized | $-1,266 |
-| 🏦 Total | **$-2,286** |
+| 📦 Unrealized | $-1,347 |
+| 🏦 Total | **$-2,367** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Doolysaurus | $0.000012 | **1.66x** ($+66) | 1.66x |  | pumpfun | 2026-03-20 09:28 |
-| 🔴 omochi | $0.000022 | **0.69x** ($-31) | 1.08x |  | pumpfun | 2026-03-20 09:19 |
+| 🔴 Doolysaurus | $0.000012 | **0.87x** ($-13) | 1.66x |  | pumpfun | 2026-03-20 09:28 |
+| 🔴 omochi | $0.000022 | **0.65x** ($-35) | 1.08x |  | pumpfun | 2026-03-20 09:19 |
 | 🔴 Income | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 09:12 |
 | 🔴 Income | $0.000006 | **0.46x** ($-54) | 1.91x |  | pumpfun | 2026-03-20 09:04 |
 | 🔴 VOID | $0.000294 | **0.46x** ($-54) | 1.06x |  | cpmm | 2026-03-20 08:59 |
@@ -27,7 +27,7 @@
 | 🔴 GNr5Byrt | $0.000006 | **0.44x** ($-56) | 1.10x |  | pumpfun | 2026-03-20 08:56 |
 | 🔴 Grok | $0.000005 | **0.46x** ($-54) | 1.19x |  | pumpfun | 2026-03-20 08:54 |
 | 🔴 Chibi | $0.000005 | **0.54x** ($-46) | 1.18x |  | pumpfun | 2026-03-20 08:44 |
-| 🔴 OM | $0.000012 | **0.62x** ($-38) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
+| 🔴 OM | $0.000012 | **0.63x** ($-37) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000005 | **0.46x** ($-54) | 1.69x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.51x** ($-49) | 1.08x |  | pumpfun | 2026-03-20 08:10 |
 | 🔴 BGEYapkY | $0.000005 | **0.53x** ($-47) | 1.27x |  | pumpfun | 2026-03-20 07:41 |
