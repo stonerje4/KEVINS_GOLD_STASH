@@ -1,16 +1,16 @@
 # Wallet: `4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF`
 
-> [GMGN](https://gmgn.ai/sol/address/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | [Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 21:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | [Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 21:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
+| Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+30 |
-| 🏦 Total | **$-91** |
+| 📦 Unrealized | $-1 |
+| 🏦 Total | **$-122** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Cigify | $0.000009 | **0.68x** ($-32) | 1.14x |  | pumpfun | 2026-03-20 21:08 |
 | 🟡 Coglet | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:37 |
 | 🟡 PHM | $0.000007 | **1.22x** ($+22) | 1.37x |  | pumpfun | 2026-03-20 11:11 |
 | 🔴 BOAT | $0.000008 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 05:47 |
-| 🟡 Obsessed | $0.000008 | **1.75x** ($+75) | 2.23x | ✅ | pumpswap | 2026-03-20 05:04 |
+| 🟡 Obsessed | $0.000008 | **1.76x** ($+76) | 2.23x | ✅ | pumpswap | 2026-03-20 05:04 |
 
 ## Closed Positions
 

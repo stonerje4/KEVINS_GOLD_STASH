@@ -1,6 +1,6 @@
 # Wallet: `DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft`
 
-> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 21:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 21:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (8 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-258 |
-| 📦 Unrealized | $+8 |
-| 🏦 Total | **$-250** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$-238** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.35x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 IRS | $0.000014 | **0.78x** ($-22) | 1.28x |  | pumpswap | 2026-03-20 20:41 |
+| 🔴 IRS | $0.000014 | **0.90x** ($-10) | 1.28x |  | pumpswap | 2026-03-20 20:41 |
 | 🔴 FCHqr9vG | $0.000006 | **0.70x** ($-30) | 1.35x |  | pumpfun | 2026-03-20 20:20 |
 | 🟡 Terafab | $0.000018 | **1.16x** ($+16) | 1.19x |  | pumpfun | 2026-03-20 19:09 |
 | 🔴 Delusion | $0.000007 | **0.44x** ($-56) | 1.41x |  | pumpfun | 2026-03-20 17:51 |
