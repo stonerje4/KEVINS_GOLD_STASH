@@ -1,16 +1,16 @@
 # Wallet: `6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y`
 
-> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (10 open, 3 closed) |
+| Positions | 14 (11 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-73 |
-| 📦 Unrealized | $-97 |
-| 🏦 Total | **$-171** |
+| 📦 Unrealized | $-99 |
+| 🏦 Total | **$-172** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.76x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Reach | $0.000003 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:59 |
 | 🔴 Happiness | $0.000006 | **0.43x** ($-57) | 1.26x |  | pumpfun | 2026-03-20 13:41 |
 | 🔴 Imaginify | $0.000015 | **0.68x** ($-32) | 1.03x |  | pumpfun | 2026-03-20 11:37 |
 | 🟡 EID | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:18 |

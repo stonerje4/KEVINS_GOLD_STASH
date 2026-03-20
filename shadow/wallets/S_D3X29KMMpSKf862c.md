@@ -1,6 +1,6 @@
 # Wallet: `D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq`
 
-> [View on Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+44 |
-| 🏦 Total | **$+44** |
+| 📦 Unrealized | $+58 |
+| 🏦 Total | **$+58** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 tired | $0.000011 | **0.98x** ($-2) | 1.22x |  | pumpfun | 2026-03-20 14:16 |
+| 🟡 tired | $0.000011 | **1.12x** ($+12) | 1.22x |  | pumpfun | 2026-03-20 14:16 |
 | 🟡 Civil Claude | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
 | 🟡 OSP | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
 | 🟡 Clutch | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |

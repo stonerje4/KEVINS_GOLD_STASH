@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 139 (137 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-57 |
-| 🏦 Total | **$-194** |
+| 📦 Unrealized | $-67 |
+| 🏦 Total | **$-204** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.31x |
 
@@ -25,16 +25,16 @@
 | 🟡 DATBOI | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 MIM | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🟡 Doom | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
-| 🔴 imagine | $0.000059 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
+| 🔴 imagine | $0.000059 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🟡 Newscum | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🟡 Machi | $0.000743 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:27 |
-| 🔴 Higuruma | $0.000018 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
+| 🔴 Higuruma | $0.000018 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 INCOG | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 FSC | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 MICRO | $0.000076 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 Distorted | $0.000927 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 比比拉布 | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:21 |
-| 🔴 ORAMAMA | $0.000010 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
+| 🔴 ORAMAMA | $0.000010 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
 | 🟡 JACKPOT | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟡 Chud | $0.000661 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:42 |
 | 🔴 LUNAR | $0.000035 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -66,7 +66,7 @@
 | 🔴 MONA | $0.000064 | **0.86x** ($-14) | 1.20x |  | pumpswap | 2026-03-20 08:46 |
 | 🔴 SNAKE | $0.000009 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-20 08:44 |
 | 🟡 AIFRUITS | $0.000634 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:33 |
-| 🟡 abcdefg | $0.000945 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:27 |
+| 🔴 abcdefg | $0.000945 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 08:27 |
 | 🟡 snowball | $0.000344 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 08:17 |
 | 🔴 Noesis | $0.000321 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-20 07:55 |
 | 🟡 OPTIMUS | $0.000016 | **1.17x** ($+17) | 1.23x |  | pumpswap | 2026-03-20 07:53 |

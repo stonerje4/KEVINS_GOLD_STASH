@@ -1,6 +1,6 @@
 # Wallet: `Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ`
 
-> [View on Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (8 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+62 |
-| 🏦 Total | **$+1** |
+| 📦 Unrealized | $+63 |
+| 🏦 Total | **$+3** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 UP | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:58 |
-| 🔴 Mirai | $0.000016 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 13:56 |
+| 🔴 Mirai | $0.000016 | **0.85x** ($-15) | 1.00x |  | pumpfun | 2026-03-20 13:56 |
 | 🟡 Judy | $0.000076 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:50 |
 | 🟡 Kin-kun | $0.000008 | **1.29x** ($+29) | 1.61x |  | pumpfun | 2026-03-20 11:27 |
 | 🟡 Genesis-2 | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:10 |

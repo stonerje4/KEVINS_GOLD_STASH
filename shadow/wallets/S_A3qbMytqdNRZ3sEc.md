@@ -1,16 +1,16 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 76 (70 open, 6 closed) |
+| Positions | 77 (71 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $-149 |
-| 📦 Unrealized | $-170 |
-| 🏦 Total | **$-319** |
+| 📦 Unrealized | $-166 |
+| 🏦 Total | **$-314** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.75x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 clod | $0.000024 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 15:02 |
 | 🟡 Chuck | $0.000485 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
 | 🟡 Chuck | $0.000346 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🟡 Nigel | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:19 |

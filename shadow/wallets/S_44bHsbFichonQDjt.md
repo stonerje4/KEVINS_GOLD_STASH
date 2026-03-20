@@ -1,16 +1,16 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 49 (46 open, 3 closed) |
+| Positions | 50 (47 open, 3 closed) |
 | W/L | 3/0 (100%) |
 | 💵 Realized | $+422 |
-| 📦 Unrealized | $-567 |
-| 🏦 Total | **$-144** |
+| 📦 Unrealized | $-563 |
+| 🏦 Total | **$-141** |
 | Best ROI | 2.99x |
 | Avg ROI | 2.41x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WTR | $0.000005 | **1.05x** ($+5) | 1.07x |  | pumpfun | 2026-03-20 15:00 |
 | 🔴 $RIPCHUCK | $0.000003 | **0.89x** ($-11) | 2.41x | ✅ | pumpfun | 2026-03-20 13:57 |
 | 🟡 Floki | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:36 |
 | 🔴 4h4Qs4ae | $0.000004 | **0.67x** ($-33) | 1.13x |  | pumpfun | 2026-03-20 13:35 |
@@ -28,7 +29,7 @@
 | 🟡 UOR | $0.000004 | **1.17x** ($+17) | 1.20x |  | pumpfun | 2026-03-20 13:22 |
 | 🔴 Overworked | $0.000002 | **0.82x** ($-18) | 1.03x |  | pumpswap | 2026-03-20 13:21 |
 | 🟡 chibilon | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:16 |
-| 🔴 kekkek | $0.000003 | **0.90x** ($-10) | 1.02x |  | pumpswap | 2026-03-20 13:13 |
+| 🔴 kekkek | $0.000003 | **0.89x** ($-11) | 1.02x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 HOPPS | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:39 |
 | 🟡 Ao5QpwxE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:09 |
 | 🟡 Look | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |

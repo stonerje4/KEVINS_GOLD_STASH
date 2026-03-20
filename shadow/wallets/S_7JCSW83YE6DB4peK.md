@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 145 (142 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+151 |
-| 🏦 Total | **$-50** |
+| 📦 Unrealized | $+137 |
+| 🏦 Total | **$-64** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.33x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LOCK | $0.000003 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 14:47 |
+| 🟡 LOCK | $0.000003 | **1.03x** ($+3) | 1.07x |  | pumpswap | 2026-03-20 14:47 |
 | 🟡 BOE | $0.000142 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:46 |
 | 🟡 ZENT | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:42 |
 | 🟡 ACT: S | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
@@ -28,9 +28,9 @@
 | 🟡 Xingxing | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 TPH | $0.000171 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 GameTheory | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
-| 🔴 Sonny | $0.000005 | **0.61x** ($-39) | 1.02x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Sonny | $0.000005 | **0.63x** ($-37) | 1.02x |  | pumpswap | 2026-03-20 14:11 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
-| 🔴 Higuruma | $0.000020 | **0.70x** ($-30) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
+| 🔴 Higuruma | $0.000020 | **0.67x** ($-33) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
 | 🟡 mogging | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:07 |
 | 🟡 HeavyPulp | $0.001064 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:51 |
 | 🟡 我的刀盾 | $0.002892 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -75,7 +75,7 @@
 | 🟡 WhiteHouse | $0.000317 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-20 08:15 |
 | 🟡 Baldi | $0.000019 | **1.05x** ($+5) | 1.10x |  | pumpswap | 2026-03-20 08:01 |
 | 🟡 OPTIMUS | $0.000015 | **1.27x** ($+27) | 1.34x |  | pumpswap | 2026-03-20 07:53 |
-| 🟡 abcdefg | $0.000977 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:32 |
+| 🔴 abcdefg | $0.000977 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 07:32 |
 | 🟡 clawedin | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
 | 🟡 RENTAI | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:02 |
 | 🔴 PATRIOT | $0.000010 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-20 07:01 |

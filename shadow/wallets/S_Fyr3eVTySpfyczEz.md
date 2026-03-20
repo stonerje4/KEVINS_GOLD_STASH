@@ -1,16 +1,16 @@
 # Wallet: `Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL`
 
-> [View on Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (11 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-121 |
-| 📦 Unrealized | $-159 |
-| 🏦 Total | **$-280** |
+| Positions | 13 (10 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-182 |
+| 📦 Unrealized | $-99 |
+| 🏦 Total | **$-282** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,6 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 LEGENDS | $0.000007 | **0.40x** ($-60) | 1.27x |  | pumpfun | 2026-03-20 14:44 |
 | 🟡 Shelby | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:59 |
 | 🟡 imagineslop | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 LEGENDS | 0.39x | $-61 | stop_loss | 1.27x | pumpfun | 2026-03-20 14:44 → 2026-03-20 15:00 |
 | 🔴 Doolysaurus | 0.39x | $-61 | stop_loss | 1.66x | pumpfun | 2026-03-20 09:27 → 2026-03-20 09:57 |
 | 🔴 Ropet | 0.40x | $-60 | stop_loss | 1.38x | pumpfun | 2026-03-20 08:58 → 2026-03-20 09:14 |
 

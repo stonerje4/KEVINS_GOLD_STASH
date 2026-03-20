@@ -1,6 +1,6 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [View on Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (14 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+119 |
-| 🏦 Total | **$-1** |
+| 📦 Unrealized | $+110 |
+| 🏦 Total | **$-11** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Steel | $0.000014 | **0.46x** ($-54) | 1.28x |  | pumpfun | 2026-03-20 14:41 |
-| 🟢 NunChucks | $0.000016 | **2.26x** ($+126) | 2.27x | ✅ | pumpfun | 2026-03-20 14:32 |
+| 🔴 Steel | $0.000014 | **0.53x** ($-47) | 1.28x |  | pumpfun | 2026-03-20 14:41 |
+| 🟡 NunChucks | $0.000016 | **1.94x** ($+94) | 2.33x | ✅ | pumpfun | 2026-03-20 14:32 |
 | 🟡 Chonk | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000014 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 09:53 |
 | 🟢 omochi | $0.000015 | **2.49x** ($+149) | 2.49x | ✅ | pumpfun | 2026-03-20 09:36 |

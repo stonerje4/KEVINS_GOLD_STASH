@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (26 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-190 |
-| 📦 Unrealized | $+120 |
-| 🏦 Total | **$-70** |
+| 📦 Unrealized | $+129 |
+| 🏦 Total | **$-61** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.37x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 xAI | $0.000019 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
+| 🔴 xAI | $0.000019 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
 | 🔴 Astro | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
 | 🟡 Anime | $0.000013 | **1.08x** ($+8) | 1.09x |  | pumpfun | 2026-03-20 14:39 |
 | 🟡 ANIME | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:31 |
 | 🟡 imagine | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
 | 🟡 BIBI | $0.000010 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 14:11 |
-| 🔴 Chuck | $0.000014 | **0.97x** ($-3) | 2.02x | ✅ | pumpswap | 2026-03-20 13:59 |
+| 🟡 Chuck | $0.000014 | **1.21x** ($+21) | 2.02x | ✅ | pumpswap | 2026-03-20 13:59 |
 | 🟡 PLATYPI | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:45 |
 | 🟡 OM | $0.000008 | **1.07x** ($+7) | 1.53x |  | pumpfun | 2026-03-20 10:31 |
 | 🟡 omochi | $0.000023 | **1.59x** ($+59) | 1.59x |  | pumpfun | 2026-03-20 10:29 |

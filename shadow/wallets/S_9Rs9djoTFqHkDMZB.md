@@ -1,6 +1,6 @@
 # Wallet: `9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3`
 
-> [View on Solscan](https://solscan.io/account/9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (12 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+183 |
-| 📦 Unrealized | $-13 |
-| 🏦 Total | **$+170** |
+| 📦 Unrealized | $-14 |
+| 🏦 Total | **$+168** |
 | Best ROI | 2.83x |
 | Avg ROI | 2.83x |
 
@@ -28,7 +28,7 @@
 | 🟡 UOR | $0.000004 | **1.22x** ($+22) | 1.25x |  | pumpfun | 2026-03-20 13:22 |
 | 🔴 Overworked | $0.000002 | **0.89x** ($-11) | 1.11x |  | pumpswap | 2026-03-20 13:21 |
 | 🟡 chibilon | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:16 |
-| 🔴 kekkek | $0.000003 | **0.97x** ($-3) | 1.09x |  | pumpswap | 2026-03-20 13:13 |
+| 🔴 kekkek | $0.000003 | **0.96x** ($-4) | 1.09x |  | pumpswap | 2026-03-20 13:13 |
 | 🔴 Thinker | $0.000009 | **0.87x** ($-13) | 1.30x |  | pumpswap | 2026-03-19 22:35 |
 
 ## Closed Positions

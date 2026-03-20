@@ -1,16 +1,16 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 201 (198 open, 3 closed) |
+| Positions | 202 (199 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
-| 📦 Unrealized | $+125 |
-| 🏦 Total | **$+303** |
+| 📦 Unrealized | $+107 |
+| 🏦 Total | **$+284** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.59x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 clod | $0.000030 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 15:00 |
 | 🟡 GameTheory | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 CHIBELON | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
 | 🟡 ZENT | $0.000109 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:47 |
 | 🟡 Strawberita | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🟡 DATBOI | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 Doolysaurus | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
-| 🔴 Higuruma | $0.000017 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 14:33 |
+| 🔴 Higuruma | $0.000017 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:33 |
 | 🟡 Doom | $0.000067 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Sybil  | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 MICRO | $0.000075 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |

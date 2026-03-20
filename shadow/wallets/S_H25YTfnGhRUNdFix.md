@@ -1,6 +1,6 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+26 |
-| 🏦 Total | **$+26** |
+| 📦 Unrealized | $+18 |
+| 🏦 Total | **$+18** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chuck | $0.000003 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-20 14:58 |
+| 🔴 Chuck | $0.000003 | **0.92x** ($-8) | 1.01x |  | pumpswap | 2026-03-20 14:58 |
 | 🟡 401k | $0.000008 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 08:48 |
 | 🟡 HUNT | $0.000003 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 08:41 |
 | 🔴 ONSING | $0.000009 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 08:00 |

@@ -1,6 +1,6 @@
 # Wallet: `6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n`
 
-> [View on Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-41 |
 | 📦 Unrealized | $+15 |
-| 🏦 Total | **$-27** |
+| 🏦 Total | **$-26** |
 | Best ROI | 1.19x |
 | Avg ROI | 0.79x |
 

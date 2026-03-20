@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 160 (154 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $+305 |
-| 🏦 Total | **$+27** |
+| 📦 Unrealized | $+297 |
+| 🏦 Total | **$+18** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.54x |
 
@@ -26,11 +26,11 @@
 | 🟡 Rosei | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🟡 Strawberita | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:33 |
 | 🟡 foid | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
-| 🔴 RETARDINU | $0.000105 | **0.92x** ($-8) | 1.11x |  | pumpswap | 2026-03-20 14:22 |
+| 🔴 RETARDINU | $0.000105 | **0.83x** ($-17) | 1.11x |  | pumpswap | 2026-03-20 14:22 |
 | 🟡 比比拉布 | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:21 |
 | 🟡 plumber | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |
 | 🟡 forg | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
-| 🔴 brainrot | $0.000140 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-20 14:04 |
+| 🔴 brainrot | $0.000140 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-20 14:04 |
 | 🟡 Doolysaurus | $0.000148 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:57 |
 | 🟡 驚き | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:50 |
 | 🟡 JACKPOT | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:48 |

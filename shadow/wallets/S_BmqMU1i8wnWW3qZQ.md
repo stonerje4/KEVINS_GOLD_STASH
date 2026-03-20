@@ -1,16 +1,16 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 433 (428 open, 5 closed) |
+| Positions | 434 (429 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,298 |
-| 🏦 Total | **$-1,384** |
+| 📦 Unrealized | $-1,364 |
+| 🏦 Total | **$-1,450** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.83x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 clod | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 LNG | $0.000006 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 15:01 |
+| 🔴 clod | $0.000035 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🟡 CHIBELON | $0.000108 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
-| 🔴 GANBARE | $0.000098 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 14:49 |
+| 🔴 GANBARE | $0.000098 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 14:49 |
 | 🟡 BOE | $0.000158 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:46 |
 | 🟡 TRENCHERIA | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🔴 boob | $0.002681 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 14:41 |
@@ -29,9 +30,9 @@
 | 🟡 Pixel | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🟡 Doom | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🔴 ORAMAMA | $0.000011 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
-| 🔴 Sonny | $0.000005 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
-| 🔴 Higuruma | $0.000022 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 14:09 |
-| 🔴 brainrot | $0.000154 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
+| 🔴 Sonny | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Higuruma | $0.000022 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 14:09 |
+| 🔴 brainrot | $0.000154 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
 | 🟡 Kurumi | $0.000156 | **1.01x** ($+1) | 1.05x |  | pumpswap | 2026-03-20 14:03 |
 | 🟡 LUMO | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:51 |
 | 🔴 Yahu | $0.000028 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
@@ -331,7 +332,7 @@
 | 🔴 Pokopia | $0.000009 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 00:34 |
 | 🟡 HIMS | $0.000008 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-20 00:34 |
 | 🟢 LIFE | $0.000026 | **2.10x** ($+110) | 2.49x | ✅ | pumpswap | 2026-03-20 00:34 |
-| 🟡 abcdefg | $0.001067 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-20 00:30 |
+| 🔴 abcdefg | $0.001067 | **0.84x** ($-16) | 1.20x |  | pumpswap | 2026-03-20 00:30 |
 | 🔴 chibi | $0.000002 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-20 00:29 |
 | 🔴 DISLIKE | $0.000049 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 00:27 |
 | 🔴 SOBAT | $0.000124 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 00:26 |

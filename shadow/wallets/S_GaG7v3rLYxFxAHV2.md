@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Chuck | $0.000203 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:23 |
-| 🔴 Merlin | $0.000007 | **0.45x** ($-55) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
+| 🔴 Merlin | $0.000007 | **0.46x** ($-54) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 SNIFFER | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |
 | 🟡 Mirai | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:46 |
 | 🟡 MMORPG | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:44 |

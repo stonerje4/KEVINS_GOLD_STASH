@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (231 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+354 |
-| 🏦 Total | **$+487** |
+| 📦 Unrealized | $+348 |
+| 🏦 Total | **$+481** |
 | Best ROI | 2.95x |
 | Avg ROI | 1.67x |
 
@@ -32,13 +32,13 @@
 | 🟡 foid | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Socrates | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Pixel | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
-| 🔴 Higuruma | $0.000016 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
+| 🔴 Higuruma | $0.000016 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Doom | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 MICRO | $0.000071 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 Distorted | $0.000890 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:23 |
 | 🟡 比比拉布 | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:21 |
 | 🟡 KIWI | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:16 |
-| 🔴 ORAMAMA | $0.000010 | **0.92x** ($-8) | 1.03x |  | pumpswap | 2026-03-20 14:13 |
+| 🔴 ORAMAMA | $0.000010 | **0.91x** ($-9) | 1.03x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 Chud | $0.000658 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:42 |
 | 🔴 X | $0.000014 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 13:41 |

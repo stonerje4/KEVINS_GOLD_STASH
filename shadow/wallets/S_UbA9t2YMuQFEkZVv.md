@@ -1,6 +1,6 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 15:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 31 (30 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+325 |
-| 🏦 Total | **$+265** |
+| 📦 Unrealized | $+265 |
+| 🏦 Total | **$+204** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 LIQUA | $0.000003 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-20 14:43 |
-| 🟡 UOR | $0.000003 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 14:43 |
+| 🟡 UOR | $0.000003 | **1.15x** ($+15) | 1.16x |  | pumpfun | 2026-03-20 14:43 |
 | 🟡 OIL#000 | $0.000003 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 14:42 |
 | 🟡 USGR | $0.000003 | **1.02x** ($+2) | 1.22x |  | pumpfun | 2026-03-20 13:56 |
 | 🟡 FTR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
@@ -42,7 +42,7 @@
 | 🟡 FLAG | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:16 |
 | 🟡 USRNR | $0.000005 | **1.03x** ($+3) | 1.16x |  | pumpfun | 2026-03-20 06:15 |
 | 🟡 NBR | $0.000003 | **1.36x** ($+36) | 1.36x |  | pumpfun | 2026-03-20 02:58 |
-| 🟡 SIMULATION | $0.000003 | **1.61x** ($+61) | 1.61x |  | pumpfun | 2026-03-20 02:00 |
+| 🟡 SIMULATION | $0.000003 | **1.02x** ($+2) | 1.61x |  | pumpfun | 2026-03-20 02:00 |
 | 🟡 GLUP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:47 |
 | 🟡 Anduril  | $0.000005 | **1.53x** ($+53) | 1.59x |  | pumpfun | 2026-03-20 01:22 |
 | 🟡 DSNT | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:11 |
