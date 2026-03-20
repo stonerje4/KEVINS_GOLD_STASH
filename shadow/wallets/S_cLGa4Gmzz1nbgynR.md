@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 06:25 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 06:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 102 (99 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+170 |
-| 🏦 Total | **$+79** |
+| 📦 Unrealized | $+196 |
+| 🏦 Total | **$+105** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -19,18 +19,18 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 IMAGINE | $0.000113 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:18 |
-| 🔴 Tastecoin | $0.000189 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 06:15 |
+| 🟡 Tastecoin | $0.000189 | **1.15x** ($+15) | 1.19x |  | pumpswap | 2026-03-20 06:15 |
 | 🟡 LULU | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
 | 🟡 DICKUS | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |
-| 🔴 INCOME | $0.000572 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-20 05:35 |
+| 🔴 INCOME | $0.000572 | **0.95x** ($-5) | 1.04x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 Goose | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
 | 🟡 Clude | $0.001321 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
 | 🔴 WhiteHouse | $0.000358 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-20 05:10 |
 | 🟡 Spiderman | $0.000134 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
-| 🔴 TeraFab | $0.000055 | **0.92x** ($-8) | 1.03x |  | pumpswap | 2026-03-20 05:08 |
+| 🔴 TeraFab | $0.000055 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-20 05:08 |
 | 🔴 shitcoin | $0.000073 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 IMAGINE | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🔴 Floki | $0.000053 | **0.43x** ($-57) | 1.14x |  | pumpswap | 2026-03-20 04:51 |
+| 🔴 Floki | $0.000053 | **0.46x** ($-54) | 1.14x |  | pumpswap | 2026-03-20 04:51 |
 | 🟡 Flash | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:47 |
 | 🔴 automaton | $0.000107 | **1.00x** ($-0) | 1.01x |  | pumpswap | 2026-03-20 04:47 |
 | 🟡 CHOPPER | $0.000025 | **1.03x** ($+3) | 1.11x |  | pumpswap | 2026-03-20 04:44 |

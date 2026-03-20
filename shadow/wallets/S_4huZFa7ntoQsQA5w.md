@@ -1,12 +1,12 @@
 # Wallet: `4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq`
 
-> [View on Solscan](https://solscan.io/account/4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq) | Updated: 2026-03-20 06:25 UTC
+> [View on Solscan](https://solscan.io/account/4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq) | Updated: 2026-03-20 06:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-3 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Patricia | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:26 |
 | 🔴 DOGEFATHER | $0.000015 | **0.97x** ($-3) | 1.95x |  | pumpswap | 2026-03-20 00:04 |
 
 ## Closed Positions

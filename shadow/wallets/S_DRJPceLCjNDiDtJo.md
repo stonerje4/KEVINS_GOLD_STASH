@@ -1,16 +1,16 @@
 # Wallet: `DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX`
 
-> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 06:25 UTC
+> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 06:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (0 open, 3 closed) |
+| Positions | 4 (1 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-240 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-240** |
+| 📦 Unrealized | $+9 |
+| 🏦 Total | **$-231** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.1x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 TRUMPI | $0.000011 | **1.09x** ($+9) | 1.16x |  | pumpfun | 2026-03-20 06:29 |
 
 ## Closed Positions
 

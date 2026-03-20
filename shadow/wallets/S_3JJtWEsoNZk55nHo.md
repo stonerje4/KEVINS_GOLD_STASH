@@ -1,6 +1,6 @@
 # Wallet: `3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT`
 
-> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 06:25 UTC
+> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 06:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+1,979 |
-| 🏦 Total | **$+1,979** |
+| 📦 Unrealized | $+1,975 |
+| 🏦 Total | **$+1,975** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 EPSTEINBLI | $0.000000 | **89.71x** ($+8,871) | 114.28x | ✅ | pumpswap | 2026-03-20 06:12 |
+| 🚀 EPSTEINBLI | $0.000000 | **89.55x** ($+8,855) | 114.28x | ✅ | pumpswap | 2026-03-20 06:12 |
 | 🟡 credit | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:52 |
 
 ## Closed Positions

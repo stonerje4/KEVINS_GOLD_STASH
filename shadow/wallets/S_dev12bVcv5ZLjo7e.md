@@ -1,16 +1,16 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 06:25 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 06:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 51 (50 open, 1 closed) |
+| Positions | 56 (55 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+59 |
-| 🏦 Total | **$+104** |
+| 📦 Unrealized | $+19 |
+| 🏦 Total | **$+64** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -18,9 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Invincible | $0.000007 | **1.20x** ($+20) | 1.22x |  | pumpfun | 2026-03-20 06:20 |
+| 🔴 COLONEL | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 06:30 |
+| 🟡 PHM | $0.000004 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 06:29 |
+| 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 06:29 |
+| 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.01x |  | pumpfun | 2026-03-20 06:27 |
+| 🔴 COLONEL | $0.000003 | **0.99x** ($-1) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
+| 🟡 Invincible | $0.000007 | **1.00x** ($+0) | 1.22x |  | pumpfun | 2026-03-20 06:20 |
 | 🔴 BxrqpHmX | $0.000003 | **0.82x** ($-18) | 1.06x |  | pumpfun | 2026-03-20 06:15 |
-| 🔴 MOCHI | $0.000003 | **1.00x** ($-0) | 1.08x |  | pumpfun | 2026-03-20 05:46 |
+| 🔴 MOCHI | $0.000003 | **0.93x** ($-7) | 1.08x |  | pumpfun | 2026-03-20 05:46 |
 | 🟡 GROGU | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 05:44 |
 | 🟡 1000PERP | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 05:40 |
 | 🔴 EID | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 05:34 |
