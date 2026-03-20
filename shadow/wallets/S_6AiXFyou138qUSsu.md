@@ -1,29 +1,29 @@
 # Wallet: `6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n`
 
-> [View on Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 12:49 UTC
+> [View on Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 12:53 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-60 |
-| 📦 Unrealized | $+111 |
-| 🏦 Total | **$+50** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| Positions | 2 (0 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $-41 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-41** |
+| Best Trade | 1.2x |
+| Avg Peak | 2.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 PUPPY | $0.000338 | **3.77x** ($+277) | 3.84x | ✅ | pumpswap | 2026-03-20 03:53 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 PUPPY | 1.19x | $+19 | trailing_stop_4x | 3.86x | pumpswap | 2026-03-20 03:53 → 2026-03-20 12:50 |
 | 🔴 LIBERTY | 0.40x | $-60 | stop_loss | 1.17x | pumpswap | 2026-03-20 01:17 → 2026-03-20 01:39 |
 
 ---

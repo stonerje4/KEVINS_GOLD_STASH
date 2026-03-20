@@ -1,12 +1,12 @@
-# Wallet: `FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg`
+# Wallet: `3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8`
 
-> [View on Solscan](https://solscan.io/account/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | Updated: 2026-03-20 12:53 UTC
+> [View on Solscan](https://solscan.io/account/3AALd9Q4SEB6QL4mnQAfHyQKPqXXcPxwrS8XfSeKJuk8) | Updated: 2026-03-20 12:53 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
@@ -18,8 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 DECEPTICONS | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
-| 🟡 Downald | $0.000443 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:50 |
+| 🟡 OSP | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:53 |
 
 ## Closed Positions
 

@@ -1,23 +1,24 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 12:49 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 12:53 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 115 (89 open, 26 closed) |
+| Positions | 116 (90 open, 26 closed) |
 | W/L | 2/24 (8%) |
 | 💵 Realized | $-1,144 |
-| 📦 Unrealized | $-1,077 |
-| 🏦 Total | **$-2,222** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.56x |
+| 📦 Unrealized | $-1,084 |
+| 🏦 Total | **$-2,228** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 됴지님 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:53 |
 | 🟡 9FuC9Jor | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:42 |
 | 🟡 DMT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:40 |
 | 🟡 GpZsEjRc | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:38 |
@@ -65,7 +66,7 @@
 | 🔴 GNr5Byrt | $0.000006 | **0.44x** ($-56) | 1.10x |  | pumpfun | 2026-03-20 08:56 |
 | 🔴 Grok | $0.000005 | **0.47x** ($-53) | 1.19x |  | pumpfun | 2026-03-20 08:54 |
 | 🔴 Chibi | $0.000005 | **0.54x** ($-46) | 1.18x |  | pumpfun | 2026-03-20 08:44 |
-| 🔴 OM | $0.000012 | **0.82x** ($-18) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
+| 🔴 OM | $0.000012 | **0.76x** ($-24) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000005 | **0.46x** ($-54) | 1.69x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.51x** ($-49) | 1.08x |  | pumpfun | 2026-03-20 08:10 |
 | 🔴 BGEYapkY | $0.000005 | **0.53x** ($-47) | 1.27x |  | pumpfun | 2026-03-20 07:41 |
