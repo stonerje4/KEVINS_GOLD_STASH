@@ -1,6 +1,6 @@
 # Wallet: `D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah`
 
-> [GMGN](https://gmgn.ai/sol/address/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | [Solscan](https://solscan.io/account/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | Updated: 2026-03-20 19:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | [Solscan](https://solscan.io/account/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | Updated: 2026-03-20 19:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
-| 📦 Unrealized | $-79 |
-| 🏦 Total | **$-201** |
+| 📦 Unrealized | $-73 |
+| 🏦 Total | **$-195** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FOID | $0.000021 | **0.99x** ($-1) | 1.09x |  | pumpswap | 2026-03-20 19:43 |
+| 🟡 FOID | $0.000021 | **1.05x** ($+5) | 1.13x |  | pumpswap | 2026-03-20 19:43 |
 | 🔴 TITUATION | $0.000034 | **0.96x** ($-4) | 1.45x |  | pumpswap | 2026-03-20 18:24 |
 | 🟡 SMCI | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:18 |
 | 🟡 EwEiU6Ju | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:34 |

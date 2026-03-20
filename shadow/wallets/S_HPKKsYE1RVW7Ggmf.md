@@ -1,6 +1,6 @@
 # Wallet: `HPKKsYE1RVW7GgmffUroF93XHZjxQ1EqHpuAeMye3J5Y`
 
-> [GMGN](https://gmgn.ai/sol/address/HPKKsYE1RVW7GgmffUroF93XHZjxQ1EqHpuAeMye3J5Y) | [Solscan](https://solscan.io/account/HPKKsYE1RVW7GgmffUroF93XHZjxQ1EqHpuAeMye3J5Y) | Updated: 2026-03-20 19:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/HPKKsYE1RVW7GgmffUroF93XHZjxQ1EqHpuAeMye3J5Y) | [Solscan](https://solscan.io/account/HPKKsYE1RVW7GgmffUroF93XHZjxQ1EqHpuAeMye3J5Y) | Updated: 2026-03-20 19:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-45 |
-| 🏦 Total | **$-45** |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$-46** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Speak | $0.000027 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 02:29 |
+| 🔴 Speak | $0.000027 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 02:29 |
 
 ## Closed Positions
 

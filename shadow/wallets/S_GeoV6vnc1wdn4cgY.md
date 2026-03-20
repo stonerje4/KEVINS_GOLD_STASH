@@ -1,6 +1,6 @@
 # Wallet: `GeoV6vnc1wdn4cgY8bL2upKMamvfPMKvKDr6N1mqWKRo`
 
-> [GMGN](https://gmgn.ai/sol/address/GeoV6vnc1wdn4cgY8bL2upKMamvfPMKvKDr6N1mqWKRo) | [Solscan](https://solscan.io/account/GeoV6vnc1wdn4cgY8bL2upKMamvfPMKvKDr6N1mqWKRo) | Updated: 2026-03-20 19:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/GeoV6vnc1wdn4cgY8bL2upKMamvfPMKvKDr6N1mqWKRo) | [Solscan](https://solscan.io/account/GeoV6vnc1wdn4cgY8bL2upKMamvfPMKvKDr6N1mqWKRo) | Updated: 2026-03-20 19:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-23 |
-| 🏦 Total | **$-23** |
+| 📦 Unrealized | $-35 |
+| 🏦 Total | **$-35** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 DogeFather | $0.000021 | **0.82x** ($-18) | 1.14x |  | pumpfun | 2026-03-20 19:48 |
+| 🔴 DogeFather | $0.000021 | **0.70x** ($-30) | 1.14x |  | pumpfun | 2026-03-20 19:48 |
 | 🔴 xAI | $0.000016 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 17:24 |
 | 🟡 DOGEFATHER | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 

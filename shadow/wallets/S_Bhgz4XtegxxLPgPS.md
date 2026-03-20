@@ -1,6 +1,6 @@
 # Wallet: `Bhgz4XtegxxLPgPSRbcxRyhPcfuTYCBdf71DXkYH2qns`
 
-> [GMGN](https://gmgn.ai/sol/address/Bhgz4XtegxxLPgPSRbcxRyhPcfuTYCBdf71DXkYH2qns) | [Solscan](https://solscan.io/account/Bhgz4XtegxxLPgPSRbcxRyhPcfuTYCBdf71DXkYH2qns) | Updated: 2026-03-20 19:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/Bhgz4XtegxxLPgPSRbcxRyhPcfuTYCBdf71DXkYH2qns) | [Solscan](https://solscan.io/account/Bhgz4XtegxxLPgPSRbcxRyhPcfuTYCBdf71DXkYH2qns) | Updated: 2026-03-20 19:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$+4** |
+| 📦 Unrealized | $+1 |
+| 🏦 Total | **$+1** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 NICK | $0.000028 | **1.04x** ($+4) | 1.23x |  | pumpswap | 2026-03-20 10:46 |
+| 🟡 NICK | $0.000028 | **1.01x** ($+1) | 1.23x |  | pumpswap | 2026-03-20 10:46 |
 
 ## Closed Positions
 

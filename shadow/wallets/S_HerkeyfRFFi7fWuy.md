@@ -1,24 +1,23 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 19:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 19:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (4 open, 7 closed) |
-| W/L | 1/6 (14%) |
-| 💵 Realized | $-350 |
-| 📦 Unrealized | $+110 |
-| 🏦 Total | **$-240** |
+| Positions | 11 (3 open, 8 closed) |
+| W/L | 1/7 (12%) |
+| 💵 Realized | $-411 |
+| 📦 Unrealized | $+23 |
+| 🏦 Total | **$-388** |
 | Best ROI | 1.43x |
-| Avg ROI | 0.50x |
+| Avg ROI | 0.49x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Grokputer | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 18:41 |
 | 🟡 Noorung | $0.000021 | **1.18x** ($+18) | 1.75x |  | pumpswap | 2026-03-20 17:52 |
 | 🔴 PMINE | $0.000011 | **0.98x** ($-2) | 1.04x |  | pumpfun | 2026-03-20 16:48 |
 | 🟡 Chuck | $0.000016 | **1.07x** ($+7) | 1.79x |  | pumpswap | 2026-03-20 13:56 |
@@ -27,6 +26,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Grokputer | 0.39x | $-61 | stop_loss | 1.87x | pumpfun | 2026-03-20 18:41 → 2026-03-20 19:51 |
 | 🔴 HelloWorld! | 0.40x | $-60 | stop_loss | 1.55x | pumpswap | 2026-03-20 16:53 → 2026-03-20 16:58 |
 | 🔴 FROGE | 0.15x | $-85 | stop_loss | 1.72x | pumpfun | 2026-03-20 16:52 → 2026-03-20 16:52 |
 | 🔴 CHUCK | 0.39x | $-61 | stop_loss | 1.66x | pumpfun | 2026-03-20 14:24 → 2026-03-20 16:23 |

@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 19:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 19:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 25 (23 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-88 |
-| 📦 Unrealized | $-107 |
-| 🏦 Total | **$-195** |
+| 📦 Unrealized | $-75 |
+| 🏦 Total | **$-163** |
 | Best ROI | 0.73x |
 | Avg ROI | 0.56x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WID | $0.000019 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 19:06 |
-| 🟡 HOSPICE | $0.000012 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:13 |
+| 🔴 WID | $0.000019 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 19:06 |
+| 🔴 HOSPICE | $0.000012 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-20 16:13 |
 | 🟡 KENNY | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:26 |
 | 🔴 IMAGINE | $0.000039 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 11:56 |
 | 🟢 Alien | $0.000015 | **2.53x** ($+153) | 2.88x | ✅ | pumpswap | 2026-03-20 09:02 |
@@ -30,7 +30,7 @@
 | 🟡 LUMO | $0.000035 | **1.60x** ($+60) | 1.74x |  | pumpswap | 2026-03-20 04:31 |
 | 🔴 LIFE | $0.000039 | **0.53x** ($-47) | 1.01x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 FTR | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:36 |
-| 🔴 Hamster | $0.000035 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
+| 🔴 Hamster | $0.000035 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 OXIDE | $0.000029 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 FKH | $0.000018 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 Monke | $0.000009 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
