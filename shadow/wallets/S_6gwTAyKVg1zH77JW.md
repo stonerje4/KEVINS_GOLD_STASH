@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 04:04 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 04:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 110 (108 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $+89 |
-| 🏦 Total | **$+328** |
+| 📦 Unrealized | $+100 |
+| 🏦 Total | **$+339** |
 | Best Trade | 2.9x |
 | Avg Peak | 6.2x |
 
@@ -19,19 +19,19 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 KIWI | $0.000146 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:00 |
-| 🟡 Gascoin | $0.000031 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:48 |
+| 🟡 Gascoin | $0.000031 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 03:48 |
 | 🟡 HOSPICE | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:47 |
 | 🟡 PYRO | $0.000036 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 UGOR | $0.000907 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000102 | **1.25x** ($+25) | 1.40x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000102 | **1.32x** ($+32) | 1.40x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CHIBI | $0.000747 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
-| 🔴 CIRCLES | $0.000065 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
+| 🔴 CIRCLES | $0.000065 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
 | 🟡 APES | $0.000172 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:14 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 wallahi | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:06 |
 | 🟡 AFC | $0.000005 | **1.01x** ($+1) | 1.10x |  | pumpswap | 2026-03-20 03:03 |
-| 🔴 Wob | $0.000019 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 03:02 |
+| 🔴 Wob | $0.000019 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-20 03:02 |
 | 🟡 Hamster | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:54 |
 | 🟡 Snorp | $0.000213 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 SNDK | $0.000007 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 02:47 |
@@ -99,7 +99,7 @@
 | 🔴 UFO | $0.000105 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-19 23:46 |
 | 🟡 Solana | $0.000187 | **1.03x** ($+3) | 1.19x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 bio/acc | $0.000018 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-19 23:41 |
-| 🔴 OILINU | $0.000089 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-19 23:38 |
+| 🔴 OILINU | $0.000089 | **0.94x** ($-6) | 1.01x |  | pumpswap | 2026-03-19 23:38 |
 | 🟢 唐子兵法 | $0.001340 | **3.26x** ($+226) | 3.38x | ✅ | pumpswap | 2026-03-19 23:38 |
 | 🟡 XAI | $0.000162 | **1.62x** ($+62) | 2.08x | ✅ | pumpswap | 2026-03-19 23:36 |
 | 🟡 XAIC | $0.000191 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-19 23:30 |

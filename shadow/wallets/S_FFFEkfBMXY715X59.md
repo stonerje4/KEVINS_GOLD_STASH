@@ -1,6 +1,6 @@
-# Wallet: `GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW`
+# Wallet: `FFFEkfBMXY715X59w4xHPHwnxBMyJzfUuArJ2sGMNRLM`
 
-> [View on Solscan](https://solscan.io/account/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | Updated: 2026-03-20 04:09 UTC
+> [View on Solscan](https://solscan.io/account/FFFEkfBMXY715X59w4xHPHwnxBMyJzfUuArJ2sGMNRLM) | Updated: 2026-03-20 04:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$+6** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 NBR | $0.000027 | **1.06x** ($+6) | 1.06x |  | pumpfun | 2026-03-20 01:34 |
+| 🟡 GAS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:05 |
 
 ## Closed Positions
 

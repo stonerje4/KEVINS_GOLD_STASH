@@ -1,16 +1,16 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 04:04 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 04:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (13 open, 1 closed) |
+| Positions | 15 (14 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-54 |
-| 🏦 Total | **$-6** |
+| 📦 Unrealized | $-85 |
+| 🏦 Total | **$-37** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.4x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 PUPPY | $0.000004 | **0.70x** ($-30) | 1.03x |  | pumpfun | 2026-03-20 04:06 |
 | 🔴 EgLt9QYS | $0.000004 | **0.67x** ($-33) | 1.17x |  | pumpfun | 2026-03-20 04:03 |
 | 🔴 twump | $0.000004 | **0.70x** ($-30) | 1.20x |  | pumpfun | 2026-03-20 03:02 |
 | 🟡 Skynet | $0.000004 | **1.33x** ($+33) | 1.33x |  | pumpswap | 2026-03-20 02:46 |
