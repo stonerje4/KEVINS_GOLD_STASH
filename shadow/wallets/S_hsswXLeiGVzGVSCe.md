@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 00:34 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 00:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 53 (49 open, 4 closed) |
+| Positions | 54 (50 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $+349 |
-| 📦 Unrealized | $-640 |
-| 🏦 Total | **$-290** |
+| 📦 Unrealized | $-697 |
+| 🏦 Total | **$-348** |
 | Best Trade | 2.9x |
 | Avg Peak | 3.9x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBIT | $0.000004 | **1.01x** ($+1) | 1.08x |  | pumpfun | 2026-03-20 00:27 |
-| 🟢 Cyberfy | $0.000005 | **2.47x** ($+147) | 2.88x | ✅ | pumpfun | 2026-03-20 00:25 |
-| 🔴 bear | $0.000004 | **0.69x** ($-31) | 1.18x |  | pumpfun | 2026-03-20 00:21 |
+| 🔴 fX2YiCRn | $0.000004 | **0.70x** ($-30) | 1.07x |  | pumpfun | 2026-03-20 00:37 |
+| 🔴 CHIBIT | $0.000004 | **0.96x** ($-4) | 1.08x |  | pumpfun | 2026-03-20 00:27 |
+| 🟡 Cyberfy | $0.000005 | **1.76x** ($+76) | 2.88x | ✅ | pumpfun | 2026-03-20 00:25 |
+| 🔴 bear | $0.000004 | **0.67x** ($-33) | 1.18x |  | pumpfun | 2026-03-20 00:21 |
 | 🔴 GARAGE | $0.000003 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 00:14 |
-| 🟡 744wjiDE | $0.000003 | **1.26x** ($+26) | 1.64x |  | pumpfun | 2026-03-20 00:14 |
-| 🔴 Balenciaga | $0.000004 | **0.62x** ($-38) | 1.75x |  | pumpfun | 2026-03-20 00:09 |
+| 🟡 744wjiDE | $0.000003 | **1.41x** ($+41) | 1.64x |  | pumpfun | 2026-03-20 00:14 |
+| 🔴 Balenciaga | $0.000004 | **0.61x** ($-39) | 1.75x |  | pumpfun | 2026-03-20 00:09 |
 | 🔴 Abundance | $0.000004 | **0.60x** ($-40) | 1.05x |  | pumpfun | 2026-03-20 00:02 |
 | 🔴 TF | $0.000003 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-19 23:53 |
 | 🔴 COMPUTE | $0.000003 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-19 23:52 |

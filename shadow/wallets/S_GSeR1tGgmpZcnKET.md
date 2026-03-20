@@ -1,6 +1,6 @@
 # Wallet: `GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo`
 
-> [View on Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-20 00:34 UTC
+> [View on Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-20 00:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$+28** |
+| 📦 Unrealized | $+32 |
+| 🏦 Total | **$+32** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBITRUMP | $0.000009 | **1.28x** ($+28) | 1.37x |  | pumpswap | 2026-03-19 22:40 |
+| 🟡 CHIBITRUMP | $0.000009 | **1.32x** ($+32) | 1.41x |  | pumpswap | 2026-03-19 22:40 |
 
 ## Closed Positions
 

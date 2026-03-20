@@ -1,16 +1,16 @@
 # Wallet: `D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah`
 
-> [View on Solscan](https://solscan.io/account/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | Updated: 2026-03-20 00:34 UTC
+> [View on Solscan](https://solscan.io/account/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | Updated: 2026-03-20 00:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+18 |
-| 🏦 Total | **$+18** |
+| 📦 Unrealized | $+51 |
+| 🏦 Total | **$+51** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 驚き | $0.000015 | **1.34x** ($+34) | 1.37x |  | pumpswap | 2026-03-20 00:34 |
 | 🔴 Rosei | $0.000015 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-19 23:51 |
 | 🟡 Strawberina | $0.000008 | **1.31x** ($+31) | 1.39x |  | pumpfun | 2026-03-19 23:19 |
 

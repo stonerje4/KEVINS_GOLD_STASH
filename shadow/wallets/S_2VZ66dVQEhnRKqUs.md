@@ -1,16 +1,16 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 00:34 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 00:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (7 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-120 |
-| 🏦 Total | **$-120** |
+| 📦 Unrealized | $-116 |
+| 🏦 Total | **$-116** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Massive | $0.000048 | **0.56x** ($-44) | 1.13x |  | pumpswap | 2026-03-19 23:53 |
+| 🟡 Cyberfy | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 00:39 |
+| 🔴 Massive | $0.000048 | **0.60x** ($-40) | 1.13x |  | pumpswap | 2026-03-19 23:53 |
 | 🟡 Attention | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:31 |
 | 🔴 GDhuS8NJ | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-19 23:26 |
 | 🔴 Record | $0.000010 | **0.90x** ($-10) | 1.47x |  | pumpfun | 2026-03-19 23:10 |
