@@ -1,6 +1,6 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 12:48 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 12:49 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 108 (84 open, 24 closed) |
 | W/L | 4/20 (17%) |
 | 💵 Realized | $-733 |
-| 📦 Unrealized | $-1,154 |
+| 📦 Unrealized | $-1,153 |
 | 🏦 Total | **$-1,886** |
-| Best Trade | 3.0x |
-| Avg Peak | 1.9x |
+| Best ROI | 2.98x |
+| Avg ROI | 0.69x |
 
 ## Open Positions
 
@@ -63,7 +63,7 @@
 | 🔴 FMxZcC62 | $0.000006 | **0.42x** ($-58) | 1.01x |  | pumpfun | 2026-03-20 08:58 |
 | 🔴 GNr5Byrt | $0.000005 | **0.46x** ($-54) | 1.14x |  | pumpfun | 2026-03-20 08:56 |
 | 🔴 Grok | $0.000006 | **0.46x** ($-54) | 1.16x |  | pumpfun | 2026-03-20 08:54 |
-| 🔴 OM | $0.000013 | **0.75x** ($-25) | 1.75x |  | pumpfun | 2026-03-20 08:18 |
+| 🔴 OM | $0.000013 | **0.76x** ($-24) | 1.75x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000006 | **0.45x** ($-55) | 1.65x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.53x** ($-47) | 1.12x |  | pumpfun | 2026-03-20 08:09 |
 | 🔴 BGEYapkY | $0.000005 | **0.54x** ($-46) | 1.29x |  | pumpfun | 2026-03-20 07:41 |

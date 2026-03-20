@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:48 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:49 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 408 (403 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,086 |
-| 🏦 Total | **$-1,172** |
-| Best Trade | 2.8x |
-| Avg Peak | 2.2x |
+| 📦 Unrealized | $-1,087 |
+| 🏦 Total | **$-1,173** |
+| Best ROI | 2.75x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 

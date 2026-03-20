@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 12:48 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 12:49 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 111 (110 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+57 |
-| 🏦 Total | **$-20** |
-| Best Trade | 0.2x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+60 |
+| 🏦 Total | **$-17** |
+| Best ROI | 0.23x |
+| Avg ROI | 0.23x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🟡 MOCHI | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:03 |
 | 🟡 WIZARD | $0.000319 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:55 |
 | 🔴 CRABBO | $0.000107 | **0.84x** ($-16) | 1.01x |  | pumpswap | 2026-03-20 11:49 |
-| 🟢 fine999.9 | $0.001312 | **2.15x** ($+115) | 3.78x | ✅ | pumpswap | 2026-03-20 11:47 |
+| 🟢 fine999.9 | $0.001312 | **2.25x** ($+125) | 3.78x | ✅ | pumpswap | 2026-03-20 11:47 |
 | 🟡 TERAFAB | $0.000290 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
 | 🟡 testicle | $0.008017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:23 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
@@ -51,7 +51,7 @@
 | 🟡 CHOPPER | $0.000025 | **1.24x** ($+24) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 Punch | $0.014730 | **1.09x** ($+9) | 1.16x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Spiderman | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:42 |
-| 🟡 YEPE | $0.000092 | **1.32x** ($+32) | 1.70x |  | pumpswap | 2026-03-20 04:40 |
+| 🟡 YEPE | $0.000092 | **1.31x** ($+31) | 1.70x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:14 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |
