@@ -1,6 +1,6 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [View on Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 01:44 UTC
+> [View on Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 01:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (7 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+128 |
-| 📦 Unrealized | $+219 |
-| 🏦 Total | **$+347** |
+| 📦 Unrealized | $+224 |
+| 🏦 Total | **$+352** |
 | Best Trade | 2.9x |
 | Avg Peak | 2.8x |
 
@@ -22,9 +22,9 @@
 | 🟡 BDxAH4ix | $0.000020 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 00:02 |
 | 🔴 Saleh | $0.000020 | **0.79x** ($-21) | 1.14x |  | pumpswap | 2026-03-20 00:00 |
 | 🔴 MILO | $0.000004 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-19 23:33 |
-| 🟢 CHIBI | $0.000500 | **2.27x** ($+127) | 2.37x | ✅ | pumpswap | 2026-03-19 23:22 |
+| 🟢 CHIBI | $0.000500 | **2.49x** ($+149) | 2.60x | ✅ | pumpswap | 2026-03-19 23:22 |
 | 🔴 SpiderMan | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-19 23:22 |
-| 🚀 Pete | $0.000052 | **5.44x** ($+444) | 5.55x | ✅ | pumpswap | 2026-03-19 22:39 |
+| 🚀 Pete | $0.000052 | **5.26x** ($+426) | 5.92x | ✅ | pumpswap | 2026-03-19 22:39 |
 
 ## Closed Positions
 

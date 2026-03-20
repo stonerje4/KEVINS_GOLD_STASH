@@ -1,6 +1,6 @@
 # Wallet: `GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo`
 
-> [View on Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-20 01:44 UTC
+> [View on Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-20 01:49 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 $DONMUSK | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:34 |
-| 🟡 CHIBITRUMP | $0.000009 | **1.59x** ($+59) | 2.00x | ✅ | pumpswap | 2026-03-19 22:40 |
+| 🟡 CHIBITRUMP | $0.000009 | **1.57x** ($+57) | 2.00x | ✅ | pumpswap | 2026-03-19 22:40 |
 
 ## Closed Positions
 

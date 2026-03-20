@@ -1,6 +1,6 @@
 # Wallet: `BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny`
 
-> [View on Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 01:44 UTC
+> [View on Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 01:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-50 |
-| 🏦 Total | **$-50** |
+| 📦 Unrealized | $-47 |
+| 🏦 Total | **$-47** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 驚き | $0.000018 | **0.68x** ($-32) | 1.32x |  | pumpswap | 2026-03-20 00:20 |
-| 🔴 Taylor | $0.000014 | **0.68x** ($-32) | 1.03x |  | pumpswap | 2026-03-20 00:19 |
+| 🔴 驚き | $0.000018 | **0.63x** ($-37) | 1.32x |  | pumpswap | 2026-03-20 00:20 |
+| 🔴 Taylor | $0.000014 | **0.76x** ($-24) | 1.03x |  | pumpswap | 2026-03-20 00:19 |
 | 🔴 Trashbag | $0.000004 | **0.94x** ($-6) | 1.94x |  | pumpfun | 2026-03-19 23:41 |
 | 🟡 TRASHBAG | $0.000006 | **1.21x** ($+21) | 1.64x |  | pumpswap | 2026-03-19 23:39 |
 

@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 01:44 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 01:49 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 UBT | $0.000007 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 01:32 |
-| 🟡 Cyberfy | $0.000003 | **1.12x** ($+12) | 1.17x |  | pumpfun | 2026-03-20 01:14 |
+| 🟡 Cyberfy | $0.000003 | **1.11x** ($+11) | 1.17x |  | pumpfun | 2026-03-20 01:14 |
 | 🟡 DECEL | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:06 |
 | 🔴 GDhuS8NJ | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-19 23:26 |
 | 🔴 Record | $0.000010 | **0.90x** ($-10) | 1.47x |  | pumpfun | 2026-03-19 23:10 |
