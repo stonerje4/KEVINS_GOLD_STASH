@@ -1,0 +1,46 @@
+# Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
+
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 00:08 UTC
+
+## Summary
+
+| Metric | Value |
+|--------|-------|
+| Positions | 18 (18 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
+| 📦 Unrealized | $+16 |
+| 🏦 Total | **$+16** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
+
+## Open Positions
+
+| Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
+|-------|---------|---------|------|-----------|------|------------|
+| 🟡 Aliens | $0.000809 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 00:06 |
+| 🔴 Spawn | $0.000138 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 00:02 |
+| 🔴 NETANYAHU | $0.000090 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-19 23:57 |
+| 🟡 CEO | $0.000077 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-19 23:50 |
+| 🔴 Life | $0.000182 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-19 23:45 |
+| 🟡 ACV | $0.000002 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:44 |
+| 🔴 5 | $0.000011 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-19 23:36 |
+| 🟡 INCOME | $0.000640 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-19 23:35 |
+| 🔴 HEY | $0.000738 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
+| 🔴 wid | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
+| 🟡 Barron | $0.000016 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-19 23:23 |
+| 🟡 Foodrot | $0.000138 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-19 23:19 |
+| 🟡 MIROFISH | $0.000035 | **1.03x** ($+3) | 1.06x |  | pumpswap | 2026-03-19 23:13 |
+| 🔴 PIKAHORSE | $0.000398 | **0.94x** ($-6) | 1.05x |  | pumpswap | 2026-03-19 22:59 |
+| 🟡 DEEPSEEKV4 | $0.000041 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 22:54 |
+| 🟡 Goyim | $0.000395 | **1.14x** ($+14) | 1.15x |  | pumpswap | 2026-03-19 22:38 |
+| 🔴 GameTheory | $0.000019 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-19 22:37 |
+| 🟡 UGOR | $0.000161 | **1.09x** ($+9) | 1.13x |  | pumpswap | 2026-03-19 22:37 |
+
+## Closed Positions
+
+| Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
+|-------|--------|-----|--------|------|------|-------------|
+
+---
+*[← Back to Dashboard](../../DASHBOARD.md)*
