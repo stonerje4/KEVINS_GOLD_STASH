@@ -9,17 +9,17 @@
 | Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-125 |
-| 📦 Unrealized | $-27 |
-| 🏦 Total | **$-152** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.3x |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$-159** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.37x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHUCK | $0.000006 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 13:58 |
-| 🔴 Chuck | $0.000016 | **0.87x** ($-13) | 1.08x |  | pumpswap | 2026-03-20 13:56 |
+| 🔴 CHUCK | $0.000006 | **0.96x** ($-4) | 1.02x |  | pumpfun | 2026-03-20 13:58 |
+| 🔴 Chuck | $0.000016 | **0.85x** ($-15) | 1.08x |  | pumpswap | 2026-03-20 13:56 |
 | 🔴 Legoify | $0.000004 | **0.77x** ($-23) | 1.45x |  | pumpswap | 2026-03-20 13:48 |
 | 🔴 AISexual | $0.000007 | **0.46x** ($-54) | 1.12x |  | pumpfun | 2026-03-20 13:37 |
 | 🟡 CC | $0.000008 | **1.62x** ($+62) | 1.76x |  | pumpfun | 2026-03-20 13:29 |

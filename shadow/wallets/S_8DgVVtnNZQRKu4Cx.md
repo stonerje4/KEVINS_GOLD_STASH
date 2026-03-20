@@ -9,10 +9,10 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+51** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+49 |
+| 🏦 Total | **$+49** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 RIPCHUCK | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟡 FeDZ6frq | $0.000034 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 13:54 |
-| 🟢 Chuck | $0.000007 | **2.09x** ($+109) | 3.89x | ✅ | pumpswap | 2026-03-20 13:54 |
+| 🟢 Chuck | $0.000007 | **2.06x** ($+106) | 3.89x | ✅ | pumpswap | 2026-03-20 13:54 |
 
 ## Closed Positions
 
