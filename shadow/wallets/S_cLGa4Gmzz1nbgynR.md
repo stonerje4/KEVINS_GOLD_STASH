@@ -1,26 +1,28 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:19 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 150 (144 open, 6 closed) |
+| Positions | 152 (146 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $+283 |
-| 🏦 Total | **$+5** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.54x |
+| 📦 Unrealized | $+285 |
+| 🏦 Total | **$+7** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 RETARDINU | $0.000105 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 14:22 |
+| 🟡 比比拉布 | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:21 |
 | 🟡 plumber | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |
 | 🟡 forg | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
-| 🔴 brainrot | $0.000140 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
+| 🔴 brainrot | $0.000140 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
 | 🟡 Doolysaurus | $0.000148 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:57 |
 | 🟡 驚き | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:50 |
 | 🟡 JACKPOT | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:48 |

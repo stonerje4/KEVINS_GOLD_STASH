@@ -1,23 +1,24 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 14:19 UTC
+> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 14:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (21 open, 6 closed) |
+| Positions | 28 (22 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-227 |
 | 📦 Unrealized | $+139 |
 | 🏦 Total | **$-88** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.62x |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Alien | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 FAKER | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 Legoify | $0.000003 | **0.81x** ($-19) | 1.77x |  | pumpswap | 2026-03-20 13:47 |
 | 🟡 Foodrot | $0.000123 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:18 |

@@ -1,25 +1,27 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 14:19 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 14:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 214 (212 open, 2 closed) |
+| Positions | 216 (214 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+398 |
-| 🏦 Total | **$+532** |
-| Best ROI | 2.95x |
-| Avg ROI | 1.67x |
+| 📦 Unrealized | $+400 |
+| 🏦 Total | **$+533** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Distorted | $0.000890 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:23 |
+| 🟡 比比拉布 | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:21 |
 | 🟡 KIWI | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:16 |
-| 🔴 ORAMAMA | $0.000010 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 14:13 |
+| 🔴 ORAMAMA | $0.000010 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 Chud | $0.000658 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:42 |
 | 🔴 X | $0.000014 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -31,8 +33,8 @@
 | 🟡 LAYOFF | $0.000242 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 HORMUZ | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 Fro | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:09 |
-| 🔴 shitcoin | $0.000351 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
-| 🔴 Goyim | $0.000620 | **0.97x** ($-3) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
+| 🔴 shitcoin | $0.000351 | **1.00x** ($-0) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
+| 🔴 Goyim | $0.000620 | **0.98x** ($-2) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 LIBERTY | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 fine999.9 | $0.002157 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:57 |
 | 🟡 TFW | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:38 |

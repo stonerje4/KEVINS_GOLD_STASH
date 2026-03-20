@@ -1,6 +1,6 @@
 # Wallet: `6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n`
 
-> [View on Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 14:19 UTC
+> [View on Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 14:24 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-41 |
-| 📦 Unrealized | $+22 |
-| 🏦 Total | **$-20** |
-| Best ROI | 1.19x |
-| Avg ROI | 0.79x |
+| 📦 Unrealized | $+30 |
+| 🏦 Total | **$-12** |
+| Best Trade | 1.2x |
+| Avg Peak | 2.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MRSPUNCH | $0.000253 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 14:03 |
+| 🟡 MRSPUNCH | $0.000253 | **1.30x** ($+30) | 1.32x |  | pumpswap | 2026-03-20 14:03 |
 
 ## Closed Positions
 

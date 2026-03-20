@@ -1,23 +1,24 @@
 # Wallet: `8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU`
 
-> [View on Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-20 14:19 UTC
+> [View on Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-20 14:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (2 open, 3 closed) |
+| Positions | 6 (3 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-76 |
 | 📦 Unrealized | $+7 |
 | 🏦 Total | **$-69** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.75x |
+| Best Trade | 1.5x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chuck | $0.000150 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 RIPCHUCK | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟡 FeDZ6frq | $0.000034 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 13:54 |
 

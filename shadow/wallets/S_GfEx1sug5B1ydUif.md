@@ -1,24 +1,25 @@
 # Wallet: `GfEx1sug5B1ydUif3K8XBy3BitVQDQy33ozhMCnXVwNR`
 
-> [View on Solscan](https://solscan.io/account/GfEx1sug5B1ydUif3K8XBy3BitVQDQy33ozhMCnXVwNR) | Updated: 2026-03-20 14:19 UTC
+> [View on Solscan](https://solscan.io/account/GfEx1sug5B1ydUif3K8XBy3BitVQDQy33ozhMCnXVwNR) | Updated: 2026-03-20 14:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+60 |
-| 🏦 Total | **$+60** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+4 |
+| 🏦 Total | **$+4** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 RUNE | $0.000004 | **2.20x** ($+120) | 2.55x | ✅ | pumpfun | 2026-03-20 13:56 |
+| 🔴 5siPZmTP | $0.000005 | **0.49x** ($-51) | 1.33x |  | pumpfun | 2026-03-20 14:22 |
+| 🟢 RUNE | $0.000004 | **2.10x** ($+110) | 2.55x | ✅ | pumpfun | 2026-03-20 13:56 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 14:19 UTC
+> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 14:24 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 11 (6 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-205 |
-| 📦 Unrealized | $-82 |
-| 🏦 Total | **$-287** |
-| Best ROI | 1.43x |
-| Avg ROI | 0.59x |
+| 📦 Unrealized | $-71 |
+| 🏦 Total | **$-275** |
+| Best Trade | 1.4x |
+| Avg Peak | 1.7x |
 
 ## Open Positions
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Chuck | $0.000072 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 RIPCHUCK | $0.000067 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:12 |
-| 🔴 Chuck | $0.000016 | **0.52x** ($-48) | 1.08x |  | pumpswap | 2026-03-20 13:56 |
+| 🔴 Chuck | $0.000016 | **0.63x** ($-37) | 1.08x |  | pumpswap | 2026-03-20 13:56 |
 | 🔴 Legoify | $0.000004 | **0.66x** ($-34) | 1.45x |  | pumpswap | 2026-03-20 13:48 |
 | 🟡 Sybil  | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 IMAGINE | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:03 |
