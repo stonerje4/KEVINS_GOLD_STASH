@@ -1,18 +1,18 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (7 open, 15 closed) |
-| W/L | 1/14 (7%) |
-| 💵 Realized | $-686 |
+| Positions | 21 (7 open, 14 closed) |
+| W/L | 1/13 (7%) |
+| 💵 Realized | $-605 |
 | 📦 Unrealized | $-39 |
-| 🏦 Total | **$-725** |
+| 🏦 Total | **$-644** |
 | Best ROI | 1.48x |
-| Avg ROI | 0.54x |
+| Avg ROI | 0.57x |
 
 ## Open Positions
 
@@ -41,7 +41,6 @@
 | 🔴 nickel | 0.40x | $-60 | stop_loss | 1.39x | pumpfun | 2026-03-20 05:16 → 2026-03-20 05:42 |
 | 🟡 Gnd9Cmzo | 0.84x | $-16 | trailing_stop_2x | 2.20x | pumpfun | 2026-03-20 04:54 → 2026-03-20 04:56 |
 | 🔴 TADC | 0.30x | $-70 | stop_loss | 1.59x | pumpfun | 2026-03-20 04:34 → 2026-03-20 05:09 |
-| 🔴 HelloWorld! | 0.19x | $-81 | stop_loss | 1.00x | pumpfun | 2026-03-20 04:24 → 2026-03-20 16:49 |
 | 🟡 PISSCOIN | 0.84x | $-16 | trailing_stop_3x | 2.82x | pumpfun | 2026-03-20 01:37 → 2026-03-20 01:45 |
 | 🔴 Aiden | 0.40x | $-60 | stop_loss | 1.10x | pumpfun | 2026-03-20 00:39 → 2026-03-20 00:48 |
 | 🔴 BACK | 0.28x | $-72 | trailing_stop_4x | 3.76x | pumpfun | 2026-03-19 23:51 → 2026-03-20 07:58 |

@@ -1,26 +1,24 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (14 open, 8 closed) |
-| W/L | 1/7 (12%) |
-| 💵 Realized | $-306 |
-| 📦 Unrealized | $+334 |
-| 🏦 Total | **$+27** |
+| Positions | 17 (11 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-175 |
+| 📦 Unrealized | $+346 |
+| 🏦 Total | **$+171** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.62x |
+| Avg ROI | 0.71x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Alien | $0.000022 | **1.73x** ($+73) | 1.97x |  | pumpswap | 2026-03-20 14:20 |
-| 🔴 FAKER | $0.000049 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
-| 🟡 Foodrot | $0.000123 | **1.13x** ($+13) | 1.29x |  | pumpswap | 2026-03-20 13:18 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
 | 🟢 ME | $0.000006 | **3.77x** ($+277) | 3.99x | ✅ | pumpfun | 2026-03-20 12:51 |
 | 🟡 NOTICER | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
@@ -28,7 +26,6 @@
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:14 |
 | 🟡 Stanley | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:59 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:42 |
-| 🔴 Punch | $0.016257 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Ancestors | $0.000006 | **1.37x** ($+37) | 1.53x |  | pumpfun | 2026-03-20 00:47 |
 | 🔴 Ouroboros | $0.000035 | **0.65x** ($-35) | 1.03x |  | pumpswap | 2026-03-20 00:46 |
 | 🟡 trump | $0.000006 | **1.17x** ($+17) | 2.88x | ✅ | pumpfun | 2026-03-19 23:36 |
@@ -42,9 +39,7 @@
 | 🔴 Coglet | 0.38x | $-62 | stop_loss | 1.37x | pumpfun | 2026-03-20 13:21 → 2026-03-20 14:02 |
 | 🟡 Trollbot | 1.49x | $+49 | trailing_stop_3x | 3.20x | pumpfun | 2026-03-20 00:31 → 2026-03-20 00:48 |
 | 🔴 Liberty | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-19 23:37 → 2026-03-19 23:37 |
-| 🔴 LIBERTY | 0.40x | $-60 | stop_loss | 1.33x | pumpswap | 2026-03-19 23:36 → 2026-03-20 16:30 |
 | 🟡 9c3ps1VC | 0.81x | $-19 | trailing_stop_3x | 2.63x | pumpfun | 2026-03-19 23:34 → 2026-03-20 00:25 |
-| 🔴 Attention | 0.29x | $-71 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:24 → 2026-03-20 01:01 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

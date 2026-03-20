@@ -1,12 +1,12 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (10 open, 5 closed) |
+| Positions | 14 (9 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-235 |
 | 📦 Unrealized | $+132 |
@@ -24,7 +24,6 @@
 | 🟢 IMAGINE | $0.000011 | **4.52x** ($+352) | 9.27x | ✅ | pumpfun | 2026-03-20 02:37 |
 | 🟡 MFT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
 | 🟡 Cow | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:22 |
-| 🟡 PERCOLATOR | $0.000054 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:49 |
 | 🟡 world | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:42 |
 | 🔴 DRIVE | $0.000026 | **0.62x** ($-38) | 1.40x |  | pumpfun | 2026-03-20 01:03 |
 | 🔴 SPODER | $0.000012 | **0.74x** ($-26) | 1.59x |  | pumpswap | 2026-03-20 00:41 |

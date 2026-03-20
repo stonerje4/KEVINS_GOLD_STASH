@@ -1,16 +1,16 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (11 open, 3 closed) |
+| Positions | 13 (10 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $-122 |
-| 🏦 Total | **$-305** |
+| 📦 Unrealized | $-92 |
+| 🏦 Total | **$-275** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -25,7 +25,6 @@
 | 🔴 METEOR | $0.000005 | **0.53x** ($-47) | 1.15x |  | pumpfun | 2026-03-20 05:43 |
 | 🔴 TRASHBAG | $0.000008 | **0.52x** ($-48) | 1.04x |  | pumpswap | 2026-03-20 03:53 |
 | 🟡 Loui | $0.000005 | **1.37x** ($+37) | 1.41x |  | pumpfun | 2026-03-20 01:32 |
-| 🔴 KIWI | $0.000161 | **0.70x** ($-30) | 1.02x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 SURVIVOR | $0.000008 | **1.39x** ($+39) | 1.60x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 italianrot | $0.000008 | **0.77x** ($-23) | 1.01x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 Trillium | $0.000006 | **0.67x** ($-33) | 1.95x |  | pumpfun | 2026-03-19 22:36 |

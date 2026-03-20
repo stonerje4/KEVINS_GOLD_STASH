@@ -1,18 +1,18 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (7 open, 8 closed) |
-| W/L | 2/6 (25%) |
-| 💵 Realized | $-419 |
+| Positions | 10 (7 open, 3 closed) |
+| W/L | 2/1 (67%) |
+| 💵 Realized | $+35 |
 | 📦 Unrealized | $+8 |
-| 🏦 Total | **$-411** |
+| 🏦 Total | **$+42** |
 | Best ROI | 1.50x |
-| Avg ROI | 0.48x |
+| Avg ROI | 1.12x |
 
 ## Open Positions
 
@@ -30,14 +30,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 phibz | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:41 → 2026-03-20 16:41 |
-| 🔴 Kin-kun | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:30 → 2026-03-20 16:30 |
 | 🟡 Sunshine | 1.50x | $+50 | trailing_stop_3x | 3.19x | pumpfun | 2026-03-20 13:13 → 2026-03-20 13:31 |
 | 🟡 awkward | 1.49x | $+49 | trailing_stop_3x | 3.47x | pumpfun | 2026-03-20 09:07 → 2026-03-20 11:17 |
-| 🔴 Strawberita | 0.07x | $-93 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:25 → 2026-03-20 18:40 |
 | 🔴 驚き | 0.35x | $-65 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:22 → 2026-03-20 16:21 |
-| 🔴 ShowMore | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:12 → 2026-03-20 02:12 |
-| 🔴 ShowMore | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:12 → 2026-03-20 02:12 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,16 +1,16 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (15 open, 2 closed) |
+| Positions | 12 (10 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-160 |
-| 📦 Unrealized | $+36 |
-| 🏦 Total | **$-125** |
+| 📦 Unrealized | $+28 |
+| 🏦 Total | **$-133** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.20x |
 
@@ -18,12 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 memecoin | $0.000092 | **0.92x** ($-8) | 1.00x |  | cpmm | 2026-03-20 11:56 |
-| 🟡 B | $0.000051 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 10:05 |
 | 🟡 Bonkyo | $0.000021 | **1.01x** ($+1) | 1.01x |  | cpmm | 2026-03-20 09:00 |
-| 🟡 LYN | $0.000055 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 04:53 |
 | 🟡 pepeto | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:43 |
-| 🟡 TTT | $0.000073 | **1.21x** ($+21) | 2.14x | ✅ | pumpswap | 2026-03-20 04:25 |
 | 🟡 Grokipedia | $0.000016 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-20 04:09 |
 | 🔴 FIREBALL | $0.000018 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 04:01 |
 | 🟡 HIMS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
@@ -31,7 +27,6 @@
 | 🔴 WBE | $0.000009 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
 | 🔴 BBBY | $0.000005 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 01:39 |
 | 🟡 Chibi | $0.000006 | **1.20x** ($+20) | 1.36x |  | cpmm | 2026-03-20 00:50 |
-| 🟡 RWA | $139.856155 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-19 23:32 |
 | 🟡 FKH | $0.000015 | **1.24x** ($+24) | 2.09x | ✅ | pumpswap | 2026-03-19 22:56 |
 
 ## Closed Positions

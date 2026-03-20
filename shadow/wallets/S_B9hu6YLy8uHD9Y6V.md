@@ -1,16 +1,16 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 180 (5 open, 175 closed) |
-| W/L | 0/175 (0%) |
-| 💵 Realized | $-17,483 |
+| Positions | 134 (5 open, 129 closed) |
+| W/L | 0/129 (0%) |
+| 💵 Realized | $-12,887 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-17,483** |
+| 🏦 Total | **$-12,887** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -50,61 +50,32 @@
 | 🔴 SMCI | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:04 → 2026-03-20 18:04 |
 | 🔴 SMCI | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:03 → 2026-03-20 18:03 |
 | 🔴 SMCI | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:01 → 2026-03-20 18:01 |
-| 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:51 → 2026-03-20 17:51 |
-| 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:49 → 2026-03-20 17:49 |
-| 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:48 → 2026-03-20 17:48 |
-| 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:45 → 2026-03-20 17:45 |
-| 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:42 → 2026-03-20 17:42 |
-| 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:41 → 2026-03-20 17:41 |
 | 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:40 → 2026-03-20 17:40 |
 | 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:38 → 2026-03-20 17:38 |
 | 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:36 → 2026-03-20 17:36 |
 | 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:34 → 2026-03-20 17:34 |
 | 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:33 → 2026-03-20 17:33 |
 | 🔴 Sunshine | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:31 → 2026-03-20 17:31 |
-| 🔴 GBN | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:59 → 2026-03-20 15:59 |
 | 🔴 GBN | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:56 → 2026-03-20 15:56 |
-| 🔴 GBN | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:54 → 2026-03-20 15:54 |
-| 🔴 GBN | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:52 → 2026-03-20 15:52 |
 | 🔴 GBN | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:49 → 2026-03-20 15:49 |
 | 🔴 GBN | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:47 → 2026-03-20 15:47 |
 | 🔴 GBN | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:45 → 2026-03-20 15:45 |
 | 🔴 GBN | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:42 → 2026-03-20 15:42 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:19 → 2026-03-20 15:19 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:18 → 2026-03-20 15:18 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:16 → 2026-03-20 15:16 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:13 → 2026-03-20 15:13 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:11 → 2026-03-20 15:11 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:10 → 2026-03-20 15:10 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:09 → 2026-03-20 15:09 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:08 → 2026-03-20 15:08 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:07 → 2026-03-20 15:07 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:04 → 2026-03-20 15:04 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:04 → 2026-03-20 15:04 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:02 → 2026-03-20 15:02 |
-| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:01 → 2026-03-20 15:01 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:00 → 2026-03-20 15:00 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:58 → 2026-03-20 14:58 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:56 → 2026-03-20 14:56 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:55 → 2026-03-20 14:55 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:53 → 2026-03-20 14:53 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:52 → 2026-03-20 14:52 |
-| 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:44 → 2026-03-20 14:44 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:42 → 2026-03-20 14:42 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:40 → 2026-03-20 14:40 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:38 → 2026-03-20 14:38 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:36 → 2026-03-20 14:36 |
-| 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:35 → 2026-03-20 14:35 |
-| 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:30 → 2026-03-20 14:30 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:28 → 2026-03-20 14:28 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:26 → 2026-03-20 14:26 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:23 → 2026-03-20 14:23 |
 | 🔴 Judy | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:20 → 2026-03-20 14:20 |
-| 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:07 → 2026-03-20 14:07 |
-| 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:06 → 2026-03-20 14:06 |
-| 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:04 → 2026-03-20 14:04 |
-| 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:02 → 2026-03-20 14:02 |
-| 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:00 → 2026-03-20 14:00 |
 | 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:58 → 2026-03-20 13:58 |
 | 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:57 → 2026-03-20 13:57 |
 | 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:55 → 2026-03-20 13:55 |
@@ -151,21 +122,6 @@
 | 🔴 AGS | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:10 → 2026-03-20 08:10 |
 | 🔴 AGS | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:08 → 2026-03-20 08:08 |
 | 🔴 CHIBELON | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:58 → 2026-03-20 07:58 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:44 → 2026-03-20 07:44 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:42 → 2026-03-20 07:42 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:40 → 2026-03-20 07:40 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:38 → 2026-03-20 07:38 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:37 → 2026-03-20 07:37 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:35 → 2026-03-20 07:35 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:33 → 2026-03-20 07:33 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:30 → 2026-03-20 07:30 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:29 → 2026-03-20 07:29 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:27 → 2026-03-20 07:27 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:25 → 2026-03-20 07:25 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:23 → 2026-03-20 07:23 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:22 → 2026-03-20 07:22 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:20 → 2026-03-20 07:20 |
-| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:18 → 2026-03-20 07:18 |
 | 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:16 → 2026-03-20 07:16 |
 | 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:15 → 2026-03-20 07:15 |
 | 🔴 F-35 | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:42 → 2026-03-20 06:42 |
@@ -189,8 +145,6 @@
 | 🔴 $F35T | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:03 → 2026-03-20 06:03 |
 | 🔴 $F35T | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:00 → 2026-03-20 06:00 |
 | 🔴 $F35T | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:59 → 2026-03-20 05:59 |
-| 🔴 Pixel | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:51 → 2026-03-20 05:51 |
-| 🔴 Pixel | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:49 → 2026-03-20 05:49 |
 | 🔴 Pixel | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:47 → 2026-03-20 05:47 |
 | 🔴 Pixel | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:47 → 2026-03-20 05:47 |
 | 🔴 Pixel | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:45 → 2026-03-20 05:45 |

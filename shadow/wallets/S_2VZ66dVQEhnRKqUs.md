@@ -1,26 +1,24 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (15 open, 10 closed) |
-| W/L | 0/10 (0%) |
-| 💵 Realized | $-673 |
-| 📦 Unrealized | $+311 |
-| 🏦 Total | **$-362** |
+| Positions | 17 (13 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-239 |
+| 📦 Unrealized | $+227 |
+| 🏦 Total | **$-12** |
 | Best ROI | 0.81x |
-| Avg ROI | 0.33x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 SKI | $0.000102 | **3.09x** ($+209) | 3.23x | ✅ | pumpswap | 2026-03-20 17:45 |
 | 🟡 MFT | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:50 |
-| 🟡 HELLO | $0.000100 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:18 |
 | 🟢 FOID | $0.000017 | **2.10x** ($+110) | 2.10x | ✅ | pumpfun | 2026-03-20 14:58 |
 | 🟡 OIIA | $0.000021 | **1.51x** ($+51) | 1.51x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |
@@ -39,15 +37,9 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 CHIBI | 0.00x | $-100 | duplicate_entry | 1.00x | pumpfun | 2026-03-20 16:03 → 2026-03-20 18:52 |
-| 🔴 Fro | 0.00x | $-100 | duplicate_entry | 1.17x | pumpswap | 2026-03-20 15:59 → 2026-03-20 18:52 |
 | 🟡 CHIBI | 0.81x | $-19 | trailing_stop_2x | 2.19x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:32 |
-| 🔴 IMAGINE | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:51 → 2026-03-20 16:16 |
-| 🔴 DRIVE | 0.18x | $-82 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:19 → 2026-03-20 15:26 |
-| 🔴 Fro | 0.39x | $-61 | stop_loss | 1.07x | pumpswap | 2026-03-20 02:10 → 2026-03-20 15:57 |
 | 🔴 IMAGINE | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:06 → 2026-03-20 02:10 |
 | 🔴 Cyberfy | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 00:39 → 2026-03-20 01:10 |
-| 🔴 Massive | 0.39x | $-61 | stop_loss | 1.13x | pumpswap | 2026-03-19 23:53 → 2026-03-20 01:21 |
-| 🔴 Attention | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:31 → 2026-03-20 01:01 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

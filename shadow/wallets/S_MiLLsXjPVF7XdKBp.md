@@ -1,16 +1,16 @@
 # Wallet: `MiLLsXjPVF7XdKBpKSYoKR8igxajpAcrmvXJ1h2kode`
 
-> [GMGN](https://gmgn.ai/sol/address/MiLLsXjPVF7XdKBpKSYoKR8igxajpAcrmvXJ1h2kode) | [Solscan](https://solscan.io/account/MiLLsXjPVF7XdKBpKSYoKR8igxajpAcrmvXJ1h2kode) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/MiLLsXjPVF7XdKBpKSYoKR8igxajpAcrmvXJ1h2kode) | [Solscan](https://solscan.io/account/MiLLsXjPVF7XdKBpKSYoKR8igxajpAcrmvXJ1h2kode) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
+| Positions | 1 (0 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+14 |
-| 🏦 Total | **$-47** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-61** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,6 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chuck | $0.000248 | **1.14x** ($+14) | 1.38x |  | pumpswap | 2026-03-20 15:47 |
 
 ## Closed Positions
 

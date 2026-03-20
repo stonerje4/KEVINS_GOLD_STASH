@@ -1,18 +1,18 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (7 open, 5 closed) |
-| W/L | 3/2 (60%) |
-| 💵 Realized | $-98 |
+| Positions | 11 (7 open, 4 closed) |
+| W/L | 2/2 (50%) |
+| 💵 Realized | $-106 |
 | 📦 Unrealized | $+7 |
-| 🏦 Total | **$-90** |
+| 🏦 Total | **$-99** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.80x |
+| Avg ROI | 0.73x |
 
 ## Open Positions
 
@@ -30,7 +30,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🟡 Chuck | 1.09x | $+9 | trailing_stop_4x | 4.05x | pumpswap | 2026-03-20 14:23 → 2026-03-20 18:53 |
 | 🔴 Judy | 0.36x | $-64 | stop_loss | 1.45x | pumpfun | 2026-03-20 11:55 → 2026-03-20 18:53 |
 | 🟡 Pixel | 1.09x | $+9 | trailing_stop_4x | 4.35x | pumpfun | 2026-03-20 03:39 → 2026-03-20 16:38 |
 | 🔴 credit | 0.00x | $-100 | duplicate_entry | 4.40x | pumpfun | 2026-03-20 03:19 → 2026-03-20 18:52 |

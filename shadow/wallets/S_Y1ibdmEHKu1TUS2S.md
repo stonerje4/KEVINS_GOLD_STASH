@@ -1,27 +1,24 @@
 # Wallet: `Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ`
 
-> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (16 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-400 |
-| 📦 Unrealized | $+13 |
-| 🏦 Total | **$-387** |
+| Positions | 17 (13 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-324 |
+| 📦 Unrealized | $-2 |
+| 🏦 Total | **$-326** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.20x |
+| Avg ROI | 0.19x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Grokputer | $0.000054 | **1.15x** ($+15) | 1.49x |  | pumpswap | 2026-03-20 18:46 |
 | 🟡 Shake | $0.000013 | **1.26x** ($+26) | 1.32x |  | pumpfun | 2026-03-20 18:42 |
-| 🟡 XCAT | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:24 |
-| 🟡 Optimistic | $0.000696 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:22 |
 | 🟡 corporate | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 17:29 |
 | 🟡 SMCI | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:23 |
 | 🔴 SHELLY | $0.000009 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 16:42 |
@@ -42,7 +39,6 @@
 | 🔴 HelloWorld! | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 17:01 → 2026-03-20 18:52 |
 | 🔴 HelloWorld! | 0.36x | $-64 | stop_loss | 1.07x | pumpswap | 2026-03-20 16:53 → 2026-03-20 16:58 |
 | 🔴 Judy | 0.00x | $-100 | duplicate_entry | 1.28x | pumpswap | 2026-03-20 15:52 → 2026-03-20 18:52 |
-| 🔴 Judy | 0.24x | $-76 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:50 → 2026-03-20 15:12 |
 | 🔴 CC | 0.40x | $-60 | stop_loss | 1.23x | pumpfun | 2026-03-20 13:48 → 2026-03-20 14:00 |
 
 ---

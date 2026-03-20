@@ -1,43 +1,33 @@
 # Wallet: `8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY`
 
-> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (10 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-224 |
-| 📦 Unrealized | $-33 |
-| 🏦 Total | **$-257** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.55x |
+| Positions | 5 (2 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-172 |
+| 📦 Unrealized | $-0 |
+| 🏦 Total | **$-172** |
+| Best ROI | 0.82x |
+| Avg ROI | 0.43x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 TITUATION | $0.000033 | **1.00x** ($-0) | 1.63x |  | pumpswap | 2026-03-20 18:14 |
-| 🟡 XCAT | $0.000119 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:09 |
-| 🔴 CHIBI | $0.003616 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 10:58 |
-| 🟡 Lobstar | $0.006584 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:46 |
-| 🔴 WIZARD | $0.000358 | **0.99x** ($-1) | 1.08x |  | pumpswap | 2026-03-20 10:44 |
-| 🟡 IMAGINE | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:14 |
 | 🟡 SHOENICE  | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
-| 🟡 Optimistic | $0.000702 | **1.16x** ($+16) | 1.44x |  | pumpswap | 2026-03-20 00:44 |
-| 🔴 TripleT | $0.002509 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 00:37 |
-| 🔴 Snorp | $0.000237 | **0.95x** ($-5) | 1.14x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Man | 0.37x | $-63 | stop_loss | 1.11x | pumpfun | 2026-03-20 02:07 → 2026-03-20 02:07 |
-| 🟡 Dickus | 0.83x | $-17 | trailing_stop_2x | 2.34x | pumpswap | 2026-03-20 00:24 → 2026-03-20 00:55 |
 | 🟡 TITTYKILLER | 0.82x | $-18 | trailing_stop_2x | 2.26x | pumpfun | 2026-03-20 00:17 → 2026-03-20 00:44 |
 | 🔴 BACK | 0.09x | $-91 | stop_loss | 1.16x | pumpfun | 2026-03-19 23:54 → 2026-03-20 07:58 |
-| 🔴 Pete | 0.65x | $-35 | trailing_stop_3x | 2.66x | pumpswap | 2026-03-19 22:44 → 2026-03-20 15:04 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

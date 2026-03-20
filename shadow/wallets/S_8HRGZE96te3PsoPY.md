@@ -1,18 +1,18 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [GMGN](https://gmgn.ai/sol/address/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | [Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | [Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (10 open, 10 closed) |
-| W/L | 2/8 (20%) |
-| 💵 Realized | $-377 |
+| Positions | 19 (10 open, 9 closed) |
+| W/L | 2/7 (22%) |
+| 💵 Realized | $-315 |
 | 📦 Unrealized | $-331 |
-| 🏦 Total | **$-708** |
+| 🏦 Total | **$-646** |
 | Best ROI | 1.44x |
-| Avg ROI | 0.62x |
+| Avg ROI | 0.65x |
 
 ## Open Positions
 
@@ -35,7 +35,6 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 wr9rN8VM | 0.38x | $-62 | stop_loss | 1.55x | pumpfun | 2026-03-20 08:56 → 2026-03-20 08:58 |
 | 🔴 Chibi | 0.37x | $-63 | stop_loss | 1.88x | pumpfun | 2026-03-20 07:35 → 2026-03-20 07:54 |
-| 🔴 AVATAR | 0.38x | $-62 | stop_loss | 1.50x | pumpswap | 2026-03-20 06:56 → 2026-03-20 07:46 |
 | 🔴 HAIRDRYER | 0.39x | $-61 | stop_loss | 1.60x | pumpfun | 2026-03-20 05:20 → 2026-03-20 05:23 |
 | 🟡 H5YKrAF3 | 1.34x | $+34 | trailing_stop_5x | 4.97x | pumpfun | 2026-03-20 04:56 → 2026-03-20 05:00 |
 | 🔴 Jango | 0.37x | $-63 | stop_loss | 1.24x | pumpfun | 2026-03-20 04:54 → 2026-03-20 04:54 |

@@ -1,34 +1,29 @@
 # Wallet: `Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX`
 
-> [GMGN](https://gmgn.ai/sol/address/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | [Solscan](https://solscan.io/account/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | [Solscan](https://solscan.io/account/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-83 |
-| 📦 Unrealized | $-36 |
-| 🏦 Total | **$-119** |
-| Best ROI | 0.85x |
-| Avg ROI | 0.58x |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-53** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 BABYCHIBI | $0.000029 | **0.47x** ($-53) | 1.14x |  | pumpfun | 2026-03-20 14:46 |
-| 🟡 PsyopChibi | $0.000261 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:57 |
-| 🔴 effect | $0.000087 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 10:52 |
-| 🟡 CHIBI | $0.001386 | **1.62x** ($+62) | 1.84x |  | pumpswap | 2026-03-20 05:17 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 PUPPY | 0.32x | $-68 | stop_loss | 1.34x | pumpswap | 2026-03-20 10:45 → 2026-03-20 12:50 |
-| 🟡 HUGH | 0.85x | $-15 | trailing_stop_3x | 2.79x | pumpswap | 2026-03-20 05:08 → 2026-03-20 06:22 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,16 +1,16 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (13 open, 8 closed) |
+| Positions | 18 (10 open, 8 closed) |
 | W/L | 0/8 (0%) |
 | 💵 Realized | $-538 |
-| 📦 Unrealized | $+207 |
-| 🏦 Total | **$-331** |
+| 📦 Unrealized | $+171 |
+| 🏦 Total | **$-367** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.33x |
 
@@ -18,9 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 HELLO | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:16 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 16:05 |
-| 🟡 HORMUZ | $0.000110 | **1.72x** ($+72) | 2.06x | ✅ | pumpswap | 2026-03-20 15:23 |
 | 🟡 NunChucks | $0.000016 | **1.94x** ($+94) | 2.33x | ✅ | pumpfun | 2026-03-20 14:32 |
 | 🔴 Chonk | $0.000014 | **0.48x** ($-52) | 1.41x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000014 | **3.35x** ($+235) | 4.86x | ✅ | pumpfun | 2026-03-20 09:53 |
@@ -30,7 +28,6 @@
 | 🟡 SHOENICE  | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🟡 Grokslop | $0.000027 | **1.38x** ($+38) | 1.38x |  | pumpfun | 2026-03-20 01:03 |
 | 🔴 RETURN | $0.000014 | **0.82x** ($-18) | 1.21x |  | pumpswap | 2026-03-20 00:39 |
-| 🟡 TENDIES | $0.000054 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:02 |
 
 ## Closed Positions
 

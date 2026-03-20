@@ -1,16 +1,16 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (17 open, 4 closed) |
+| Positions | 20 (16 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-168 |
-| 📦 Unrealized | $+170 |
-| 🏦 Total | **$+2** |
+| 📦 Unrealized | $+130 |
+| 🏦 Total | **$-37** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.58x |
 
@@ -25,7 +25,7 @@
 | 🟡 Feels | $0.000010 | **1.24x** ($+24) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 LVLUP | $0.000007 | **0.96x** ($-4) | 1.32x |  | pumpfun | 2026-03-20 15:00 |
 | 🟡 clod | $0.000020 | **1.22x** ($+22) | 1.99x |  | pumpswap | 2026-03-20 12:04 |
-| 🟡 chud | $0.000022 | **1.36x** ($+36) | 1.53x |  | pumpswap | 2026-03-20 05:50 |
+| 🟡 chud | $0.000022 | **1.08x** ($+8) | 1.53x |  | pumpswap | 2026-03-20 05:50 |
 | 🟡 RETURN | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 Patience | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟢 SMCI | $0.000011 | **3.24x** ($+224) | 3.24x | ✅ | pumpfun | 2026-03-20 04:14 |
@@ -33,8 +33,7 @@
 | 🔴 DORO | $0.000005 | **0.73x** ($-27) | 1.19x |  | pumpfun | 2026-03-20 00:46 |
 | 🟡 Futa-kun | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 00:00 |
 | 🔴 TRASHBAG | $0.000009 | **0.43x** ($-57) | 1.00x |  | pumpswap | 2026-03-19 23:41 |
-| 🟡 Strawberita | $0.000052 | **1.15x** ($+15) | 1.61x |  | pumpswap | 2026-03-19 23:17 |
-| 🔴 WhiteBoy  | $0.000022 | **0.61x** ($-39) | 1.06x |  | pumpswap | 2026-03-19 23:06 |
+| 🔴 WhiteBoy  | $0.000022 | **0.65x** ($-35) | 1.06x |  | pumpswap | 2026-03-19 23:06 |
 
 ## Closed Positions
 

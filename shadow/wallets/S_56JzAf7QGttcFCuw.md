@@ -1,18 +1,18 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (10 open, 11 closed) |
-| W/L | 1/10 (9%) |
-| 💵 Realized | $-376 |
-| 📦 Unrealized | $-150 |
-| 🏦 Total | **$-526** |
+| Positions | 19 (9 open, 10 closed) |
+| W/L | 1/9 (10%) |
+| 💵 Realized | $-316 |
+| 📦 Unrealized | $-138 |
+| 🏦 Total | **$-453** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.66x |
+| Avg ROI | 0.68x |
 
 ## Open Positions
 
@@ -27,14 +27,12 @@
 | 🔴 HAIL | $0.000015 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
 | 🔴 e/alt | $0.000012 | **0.43x** ($-57) | 1.08x |  | pumpswap | 2026-03-20 05:56 |
 | 🔴 Moe-chan | $0.000015 | **0.90x** ($-10) | 1.13x |  | pumpswap | 2026-03-20 05:52 |
-| 🔴 Moe | $0.000081 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 05:52 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 HelloWorld! | 0.40x | $-60 | stop_loss | 1.47x | pumpswap | 2026-03-20 16:53 → 2026-03-20 16:58 |
-| 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.67x | pumpswap | 2026-03-20 06:56 → 2026-03-20 07:55 |
 | 🟡 我的猪盾 | 0.81x | $-19 | trailing_stop_3x | 2.55x | pumpfun | 2026-03-20 06:42 → 2026-03-20 07:15 |
 | 🟡 AVATAR | 1.49x | $+49 | trailing_stop_5x | 4.98x | pumpswap | 2026-03-20 06:24 → 2026-03-20 06:55 |
 | 🔴 Yukon | 0.33x | $-67 | stop_loss | 1.41x | pumpfun | 2026-03-20 06:18 → 2026-03-20 06:20 |

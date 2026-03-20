@@ -1,16 +1,16 @@
 # Wallet: `7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i`
 
-> [GMGN](https://gmgn.ai/sol/address/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | [Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | [Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (8 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-400 |
+| Positions | 9 (8 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-100 |
 | 📦 Unrealized | $-60 |
-| 🏦 Total | **$-460** |
+| 🏦 Total | **$-160** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -31,9 +31,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:24 → 2026-03-20 15:24 |
-| 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:23 → 2026-03-20 15:23 |
-| 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:23 → 2026-03-20 15:23 |
 | 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:20 → 2026-03-20 15:20 |
 
 ---

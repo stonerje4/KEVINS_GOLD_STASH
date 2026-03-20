@@ -1,6 +1,6 @@
 # Wallet: `9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R`
 
-> [GMGN](https://gmgn.ai/sol/address/9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R) | [Solscan](https://solscan.io/account/9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R) | [Solscan](https://solscan.io/account/9kw7XkVco3bDSvqaEUCCSf3XWLWMFeBvpULdJVRq6p3R) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-29** |
+| 📦 Unrealized | $-19 |
+| 🏦 Total | **$-19** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CAT | $0.000015 | **0.71x** ($-29) | 1.63x |  | pumpfun | 2026-03-20 18:47 |
+| 🔴 CAT | $0.000015 | **0.81x** ($-19) | 1.63x |  | pumpfun | 2026-03-20 18:47 |
 
 ## Closed Positions
 

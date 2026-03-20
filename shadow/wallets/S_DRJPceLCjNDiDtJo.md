@@ -1,18 +1,18 @@
 # Wallet: `DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX`
 
-> [GMGN](https://gmgn.ai/sol/address/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | [Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | [Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (2 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-373 |
+| Positions | 6 (2 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-312 |
 | 📦 Unrealized | $+94 |
-| 🏦 Total | **$-279** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.25x |
+| 🏦 Total | **$-218** |
+| Best ROI | 0.28x |
+| Avg ROI | 0.22x |
 
 ## Open Positions
 
@@ -25,7 +25,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CHIBIGUY | 0.39x | $-61 | stop_loss | 1.38x | pumpswap | 2026-03-20 08:34 → 2026-03-20 08:48 |
 | 🔴 Psyfruit | 0.28x | $-72 | stop_loss | 1.18x | pumpfun | 2026-03-20 06:53 → 2026-03-20 06:53 |
 | 🔴 SHIBI | 0.17x | $-83 | stop_loss | 1.16x | pumpfun | 2026-03-20 06:20 → 2026-03-20 06:22 |
 | 🔴 FruitAura | 0.18x | $-82 | stop_loss | 1.07x | pumpfun | 2026-03-20 06:04 → 2026-03-20 06:05 |

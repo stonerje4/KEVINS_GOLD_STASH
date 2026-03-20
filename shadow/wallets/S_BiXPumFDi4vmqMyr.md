@@ -1,16 +1,16 @@
 # Wallet: `BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny`
 
-> [GMGN](https://gmgn.ai/sol/address/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | [Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | [Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (7 open, 4 closed) |
+| Positions | 10 (6 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-289 |
-| 📦 Unrealized | $+48 |
-| 🏦 Total | **$-241** |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-311** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.28x |
 
@@ -20,7 +20,6 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 TITUATION | $0.000027 | **1.20x** ($+20) | 1.97x |  | pumpswap | 2026-03-20 18:09 |
 | 🟡 MOSHI | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
-| 🟢 Chuck | $0.000103 | **2.74x** ($+174) | 4.70x | ✅ | pumpswap | 2026-03-20 13:54 |
 | 🟡 PHM | $0.000006 | **1.41x** ($+41) | 1.41x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🔴 Taylor | $0.000014 | **0.47x** ($-53) | 1.03x |  | pumpswap | 2026-03-20 00:19 |

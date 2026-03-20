@@ -1,18 +1,18 @@
 # Wallet: `CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ`
 
-> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (12 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-228 |
+| Positions | 14 (12 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-162 |
 | 📦 Unrealized | $+246 |
-| 🏦 Total | **$+18** |
+| 🏦 Total | **$+84** |
 | Best ROI | 0.38x |
-| Avg ROI | 0.24x |
+| Avg ROI | 0.19x |
 
 ## Open Positions
 
@@ -37,7 +37,6 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 AGS | 0.00x | $-100 | duplicate_entry | 1.11x | pumpfun | 2026-03-20 07:01 → 2026-03-20 18:52 |
 | 🔴 AGS | 0.38x | $-62 | stop_loss | 1.31x | pumpfun | 2026-03-20 06:57 → 2026-03-20 06:59 |
-| 🔴 NBR | 0.33x | $-67 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:12 → 2026-03-20 18:16 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

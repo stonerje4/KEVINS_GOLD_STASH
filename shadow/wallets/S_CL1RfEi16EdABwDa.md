@@ -1,18 +1,18 @@
 # Wallet: `CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft`
 
-> [GMGN](https://gmgn.ai/sol/address/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | [Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | [Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-20 18:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (2 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-160 |
+| Positions | 2 (2 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-39 |
-| 🏦 Total | **$-200** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.20x |
+| 🏦 Total | **$-39** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -25,8 +25,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 tinfoil | 0.00x | $-100 | duplicate_entry | 1.68x | pumpswap | 2026-03-20 00:23 → 2026-03-20 18:52 |
-| 🔴 tinfoil | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:32 → 2026-03-19 23:43 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
