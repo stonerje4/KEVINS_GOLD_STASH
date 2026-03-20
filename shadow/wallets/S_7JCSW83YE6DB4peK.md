@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 11:23 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 11:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 107 (104 open, 3 closed) |
+| Positions | 108 (105 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+170 |
-| 🏦 Total | **$-31** |
+| 📦 Unrealized | $+168 |
+| 🏦 Total | **$-33** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.33x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 UNTAXED | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
 | 🟡 butthole | $0.000134 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 11:13 |
 | 🟡 JACKPOT | $0.000057 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
@@ -41,7 +42,7 @@
 | 🟡 clawedin | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
 | 🟡 RENTAI | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:02 |
 | 🔴 PATRIOT | $0.000010 | **0.79x** ($-21) | 1.04x |  | pumpswap | 2026-03-20 07:01 |
-| 🟡 PYRO | $0.000034 | **1.15x** ($+15) | 1.19x |  | pumpswap | 2026-03-20 06:47 |
+| 🟡 PYRO | $0.000034 | **1.13x** ($+13) | 1.19x |  | pumpswap | 2026-03-20 06:47 |
 | 🔴 NICK | $0.000031 | **0.86x** ($-14) | 1.10x |  | pumpswap | 2026-03-20 06:35 |
 | 🟡 Ray | $0.000005 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 06:34 |
 | 🟡 shitcoin | $0.000068 | **1.19x** ($+19) | 1.23x |  | pumpswap | 2026-03-20 06:33 |

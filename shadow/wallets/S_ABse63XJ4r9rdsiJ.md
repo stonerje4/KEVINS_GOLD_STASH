@@ -1,6 +1,6 @@
 # Wallet: `ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D`
 
-> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 11:23 UTC
+> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 11:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+35 |
-| 🏦 Total | **$+35** |
+| 📦 Unrealized | $+44 |
+| 🏦 Total | **$+44** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBLON | $0.000006 | **0.78x** ($-22) | 1.00x |  | pumpfun | 2026-03-20 10:56 |
+| 🔴 CHIBLON | $0.000006 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 10:56 |
 | 🟡 ZeroG | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
 | 🟡 Saleh | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
 | 🟡 Possum | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:34 |

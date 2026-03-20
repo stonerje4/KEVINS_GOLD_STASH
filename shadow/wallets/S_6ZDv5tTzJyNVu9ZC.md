@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 11:23 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 11:24 UTC
 
 ## Summary
 
@@ -47,7 +47,7 @@
 | 🟡 CLAW | $0.000027 | **1.10x** ($+10) | 1.15x |  | pumpswap | 2026-03-20 07:44 |
 | 🔴 114514 | $0.000165 | **1.00x** ($-0) | 1.07x |  | pumpswap | 2026-03-20 07:41 |
 | 🔴 NICK | $0.000029 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-20 07:30 |
-| 🟡 WID | $0.000019 | **1.18x** ($+18) | 1.28x |  | pumpswap | 2026-03-20 07:27 |
+| 🟡 WID | $0.000019 | **1.20x** ($+20) | 1.28x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 Life | $0.000176 | **0.87x** ($-13) | 1.04x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 clawedin | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
 | 🔴 XMONEY | $0.000026 | **1.00x** ($-0) | 1.07x |  | pumpswap | 2026-03-20 07:12 |
@@ -87,11 +87,11 @@
 | 🟡 eUSD | $0.000012 | **1.11x** ($+11) | 1.16x |  | pumpswap | 2026-03-20 04:04 |
 | 🔴 Gascoin | $0.000032 | **0.92x** ($-8) | 1.07x |  | pumpswap | 2026-03-20 04:02 |
 | 🔴 MOJTABA | $0.000011 | **0.88x** ($-12) | 1.02x |  | pumpswap | 2026-03-20 03:59 |
-| 🟡 PYRO | $0.000036 | **1.08x** ($+8) | 1.13x |  | pumpswap | 2026-03-20 03:46 |
+| 🟡 PYRO | $0.000036 | **1.06x** ($+6) | 1.13x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 AIFRUITS | $0.000658 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 UGOR | $0.000906 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000101 | **1.26x** ($+26) | 1.50x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000101 | **1.25x** ($+25) | 1.50x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 OILINU | $0.000077 | **1.03x** ($+3) | 1.20x |  | pumpswap | 2026-03-20 03:18 |
 | 🔴 SAID | $0.000274 | **0.98x** ($-2) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |

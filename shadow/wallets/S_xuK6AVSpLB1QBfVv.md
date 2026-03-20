@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 11:23 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 11:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 68 (67 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-176 |
-| 🏦 Total | **$-192** |
+| 📦 Unrealized | $-175 |
+| 🏦 Total | **$-191** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.83x |
 

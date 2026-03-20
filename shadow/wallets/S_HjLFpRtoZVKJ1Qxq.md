@@ -1,15 +1,15 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 11:23 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 11:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 107 (105 open, 2 closed) |
+| Positions | 108 (106 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-47 |
+| 📦 Unrealized | $-46 |
 | 🏦 Total | **$-184** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.31x |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 UNTAXED | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
 | 🟡 Otome | $0.000016 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 11:14 |
 | 🟡 Twin | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:03 |
 | 🔴 BAGWORKOOR | $0.000059 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 11:01 |
@@ -39,14 +40,14 @@
 | 🔴 Noesis | $0.000321 | **0.78x** ($-22) | 1.01x |  | pumpswap | 2026-03-20 07:55 |
 | 🟡 OPTIMUS | $0.000016 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-20 07:53 |
 | 🔴 NICK | $0.000029 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 07:32 |
-| 🟡 WID | $0.000019 | **1.16x** ($+16) | 1.25x |  | pumpswap | 2026-03-20 07:27 |
+| 🟡 WID | $0.000019 | **1.18x** ($+18) | 1.25x |  | pumpswap | 2026-03-20 07:27 |
 | 🟡 Solana | $0.000125 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 PAPERCLIP | $0.000158 | **1.15x** ($+15) | 1.17x |  | pumpswap | 2026-03-20 06:54 |
 | 🔴 PARK | $0.000020 | **0.91x** ($-9) | 1.05x |  | pumpswap | 2026-03-20 06:51 |
-| 🟡 PYRO | $0.000034 | **1.15x** ($+15) | 1.19x |  | pumpswap | 2026-03-20 06:47 |
+| 🟡 PYRO | $0.000034 | **1.13x** ($+13) | 1.19x |  | pumpswap | 2026-03-20 06:47 |
 | 🟡 MECHA | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:00 |
 | 🔴 mogging | $0.000046 | **0.98x** ($-2) | 1.06x |  | pumpswap | 2026-03-20 05:59 |
-| 🔴 LOL | $0.000083 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-20 05:53 |
+| 🔴 LOL | $0.000083 | **0.96x** ($-4) | 1.07x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 RENTAI | $0.000094 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🟡 Rosie | $0.000800 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 SOS | $0.000870 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 05:29 |

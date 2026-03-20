@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 11:23 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 11:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 126 (99 open, 27 closed) |
 | W/L | 3/24 (11%) |
 | 💵 Realized | $+2,155 |
-| 📦 Unrealized | $+105 |
-| 🏦 Total | **$+2,259** |
+| 📦 Unrealized | $+102 |
+| 🏦 Total | **$+2,256** |
 | Best ROI | 24.90x |
 | Avg ROI | 1.80x |
 
@@ -29,7 +29,7 @@
 | 🟡 Sybil  | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:38 |
 | 🟡 effect | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:35 |
 | 🟡 herm | $0.000258 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:29 |
-| 🔴 CRABBO | $0.000142 | **0.95x** ($-5) | 1.32x |  | pumpswap | 2026-03-20 10:01 |
+| 🔴 CRABBO | $0.000142 | **0.96x** ($-4) | 1.32x |  | pumpswap | 2026-03-20 10:01 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:41 |
 | 🔴 TEDDY | $0.000084 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
 | 🟡 PsyopChibi | $0.000103 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:32 |
@@ -39,7 +39,7 @@
 | 🟡 CHIBIELON | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:39 |
 | 🟡 OLAF | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 POLSIA | $0.000108 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:00 |
-| 🟡 CHIBELON | $0.000132 | **1.49x** ($+49) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
+| 🟡 CHIBELON | $0.000132 | **1.45x** ($+45) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 DIRECTOR | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 TTT | $0.000123 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 07:58 |
 | 🔴 Noesis | $0.000315 | **0.79x** ($-21) | 1.03x |  | pumpswap | 2026-03-20 07:55 |

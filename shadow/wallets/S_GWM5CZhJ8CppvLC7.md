@@ -1,16 +1,16 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 11:23 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 11:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 105 (104 open, 1 closed) |
+| Positions | 107 (106 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-35 |
-| 🏦 Total | **$-112** |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-109** |
 | Best ROI | 0.23x |
 | Avg ROI | 0.23x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 TERAFAB | $0.000290 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
+| 🟡 testicle | $0.008017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:23 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
 | 🔴 Noesis | $0.000257 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 11:08 |
 | 🟡 gugugaga | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
@@ -45,7 +47,7 @@
 | 🟡 CHOPPER | $0.000025 | **1.26x** ($+26) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 Punch | $0.014730 | **1.05x** ($+5) | 1.16x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Spiderman | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:42 |
-| 🟡 YEPE | $0.000092 | **1.44x** ($+44) | 1.70x |  | pumpswap | 2026-03-20 04:40 |
+| 🟡 YEPE | $0.000092 | **1.48x** ($+48) | 1.70x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:14 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |
