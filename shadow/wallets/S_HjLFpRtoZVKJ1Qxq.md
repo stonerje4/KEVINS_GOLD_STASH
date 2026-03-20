@@ -9,10 +9,10 @@
 | Positions | 111 (109 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-18 |
-| 🏦 Total | **$-155** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $-20 |
+| 🏦 Total | **$-157** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
@@ -25,7 +25,7 @@
 | 🟡 Otome | $0.000016 | **1.08x** ($+8) | 1.11x |  | pumpswap | 2026-03-20 11:14 |
 | 🟡 Twin | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:03 |
 | 🔴 BAGWORKOOR | $0.000059 | **0.90x** ($-10) | 1.02x |  | pumpswap | 2026-03-20 11:01 |
-| 🔴 butthole | $0.000135 | **0.97x** ($-3) | 1.06x |  | pumpswap | 2026-03-20 10:55 |
+| 🔴 butthole | $0.000135 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-20 10:55 |
 | 🟡 hyrax  | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:55 |
 | 🟡 FATCHUD | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:39 |
 | 🟡 FAKER | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:35 |

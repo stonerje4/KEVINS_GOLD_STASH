@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (4 open, 0 closed) |
+| Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+18 |
 | 🏦 Total | **$+18** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DAU | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🟡 ANI | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:21 |
 | 🟡 API | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:21 |
 | 🟡 clod | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:20 |
