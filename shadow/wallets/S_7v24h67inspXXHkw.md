@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
@@ -9,21 +9,21 @@
 | Positions | 41 (40 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-64 |
-| 📦 Unrealized | $+50 |
-| 🏦 Total | **$-14** |
-| Best ROI | 0.36x |
-| Avg ROI | 0.36x |
+| 📦 Unrealized | $+67 |
+| 🏦 Total | **$+4** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 HdbDNtPu | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:20 |
+| 🟡 HdbDNtPu | $0.000003 | **1.12x** ($+12) | 1.12x |  | pumpfun | 2026-03-20 14:20 |
 | 🟡 OIL#000 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:17 |
 | 🟡 CWewsqNw | $0.000003 | **1.05x** ($+5) | 1.06x |  | pumpfun | 2026-03-20 14:10 |
 | 🟡 HUGH | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:07 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:04 |
-| 🔴 USGR | $0.000003 | **0.93x** ($-7) | 1.06x |  | pumpfun | 2026-03-20 14:01 |
+| 🔴 USGR | $0.000003 | **0.90x** ($-10) | 1.06x |  | pumpfun | 2026-03-20 14:01 |
 | 🟡 War | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:57 |
 | 🟡 USGR | $0.000003 | **1.10x** ($+10) | 1.17x |  | pumpfun | 2026-03-20 13:56 |
 | 🔴 Gg39pYf9 | $0.000001 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 13:29 |

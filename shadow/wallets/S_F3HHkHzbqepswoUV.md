@@ -1,6 +1,6 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 53 (48 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-272 |
-| 📦 Unrealized | $+213 |
-| 🏦 Total | **$-59** |
-| Best ROI | 0.75x |
-| Avg ROI | 0.46x |
+| 📦 Unrealized | $+220 |
+| 🏦 Total | **$-52** |
+| Best Trade | 0.7x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 4QQiUarf | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:21 |
+| 🔴 4QQiUarf | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 14:21 |
 | 🟡 BOURBON | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:09 |
 | 🟡 5WQE4u3F | $0.000003 | **1.12x** ($+12) | 1.12x |  | pumpfun | 2026-03-20 13:59 |
 | 🔴 AEq2EbgJ | $0.000003 | **0.96x** ($-4) | 1.02x |  | pumpfun | 2026-03-20 13:58 |
@@ -26,7 +26,7 @@
 | 🟡 Luxury | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🔴 MOSHI | $0.000003 | **0.99x** ($-1) | 1.16x |  | pumpfun | 2026-03-20 13:34 |
 | 🟡 UOR | $0.000004 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 13:21 |
-| 🟢 methane | $0.000015 | **4.76x** ($+376) | 6.81x | ✅ | cpmm | 2026-03-20 13:16 |
+| 🚀 methane | $0.000015 | **5.04x** ($+404) | 6.81x | ✅ | cpmm | 2026-03-20 13:16 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:31 |
 | 🟡 DRONE | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:31 |
 | 🟡 $GENIUS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:15 |

@@ -1,23 +1,24 @@
 # Wallet: `J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU`
 
-> [View on Solscan](https://solscan.io/account/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (1 open, 2 closed) |
+| Positions | 4 (2 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
 | 📦 Unrealized | $+0 |
 | 🏦 Total | **$-121** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Hamster  | $0.000140 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Dryer | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:04 |
 
 ## Closed Positions

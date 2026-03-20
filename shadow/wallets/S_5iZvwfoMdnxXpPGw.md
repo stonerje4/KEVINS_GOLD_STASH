@@ -1,6 +1,6 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 9 (8 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-21 |
-| 📦 Unrealized | $+166 |
-| 🏦 Total | **$+145** |
-| Best ROI | 0.79x |
-| Avg ROI | 0.79x |
+| 📦 Unrealized | $+203 |
+| 🏦 Total | **$+182** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NORRIS | $0.000006 | **0.54x** ($-46) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
-| 🟡 Chuck | $0.000010 | **1.02x** ($+2) | 1.15x |  | pumpswap | 2026-03-20 14:15 |
+| 🔴 NORRIS | $0.000006 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
+| 🟡 Chuck | $0.000010 | **1.41x** ($+41) | 1.51x |  | pumpswap | 2026-03-20 14:15 |
 | 🟡 Doolysaurus | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
 | 🚀 credit | $0.000005 | **7.24x** ($+624) | 7.24x | ✅ | pumpfun | 2026-03-20 03:02 |
 | 🟡 Taylor | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |

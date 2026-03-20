@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 47 (42 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-142 |
-| 📦 Unrealized | $+57 |
-| 🏦 Total | **$-85** |
-| Best ROI | 0.84x |
-| Avg ROI | 0.72x |
+| 📦 Unrealized | $+74 |
+| 🏦 Total | **$-68** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Sunshine | $0.000004 | **1.65x** ($+65) | 1.73x |  | pumpfun | 2026-03-20 13:37 |
+| 🟡 Sunshine | $0.000004 | **1.82x** ($+82) | 1.88x |  | pumpfun | 2026-03-20 13:37 |
 | 🔴 FyMmeyqH | $0.000003 | **0.86x** ($-14) | 1.01x |  | pumpfun | 2026-03-20 13:31 |
 | 🔴 SHOCKED | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 13:31 |
 | 🔴 Reaction  | $0.000003 | **0.72x** ($-28) | 1.00x |  | pumpfun | 2026-03-20 13:26 |

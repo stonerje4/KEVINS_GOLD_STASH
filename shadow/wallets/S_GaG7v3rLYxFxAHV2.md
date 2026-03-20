@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 16 (15 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+49 |
-| 📦 Unrealized | $+306 |
-| 🏦 Total | **$+355** |
-| Best ROI | 1.49x |
-| Avg ROI | 1.49x |
+| 📦 Unrealized | $+305 |
+| 🏦 Total | **$+354** |
+| Best Trade | 1.5x |
+| Avg Peak | 3.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Chuck | $0.000203 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:23 |
-| 🔴 Merlin | $0.000007 | **0.49x** ($-51) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
+| 🔴 Merlin | $0.000007 | **0.47x** ($-53) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 SNIFFER | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |
 | 🟡 Mirai | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:46 |
 | 🟡 MMORPG | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:44 |

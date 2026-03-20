@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 25 (22 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-190 |
-| 📦 Unrealized | $+94 |
-| 🏦 Total | **$-96** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| 📦 Unrealized | $+121 |
+| 🏦 Total | **$-69** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 imagine | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
 | 🟡 BIBI | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:11 |
-| 🔴 Chuck | $0.000014 | **0.70x** ($-30) | 1.17x |  | pumpswap | 2026-03-20 13:59 |
+| 🔴 Chuck | $0.000014 | **0.97x** ($-3) | 1.17x |  | pumpswap | 2026-03-20 13:59 |
 | 🟡 PLATYPI | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:45 |
 | 🟡 OM | $0.000008 | **1.07x** ($+7) | 1.53x |  | pumpfun | 2026-03-20 10:31 |
 | 🟡 omochi | $0.000023 | **1.59x** ($+59) | 1.59x |  | pumpfun | 2026-03-20 10:29 |

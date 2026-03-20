@@ -1,27 +1,28 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 82 (81 open, 1 closed) |
+| Positions | 83 (82 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-348 |
-| 🏦 Total | **$-365** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-353 |
+| 🏦 Total | **$-370** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Walletmaxxing | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:26 |
 | 🟡 180K | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 14:23 |
 | 🔴 H1EcKHzC | $0.000003 | **0.84x** ($-16) | 1.26x |  | pumpfun | 2026-03-20 14:13 |
-| 🔴 KWEK | $0.000003 | **0.96x** ($-4) | 1.08x |  | pumpfun | 2026-03-20 14:08 |
-| 🔴 USGR | $0.000003 | **0.88x** ($-12) | 1.01x |  | pumpfun | 2026-03-20 14:01 |
+| 🔴 KWEK | $0.000003 | **0.98x** ($-2) | 1.08x |  | pumpfun | 2026-03-20 14:08 |
+| 🔴 USGR | $0.000003 | **0.85x** ($-15) | 1.01x |  | pumpfun | 2026-03-20 14:01 |
 | 🔴 V8YdLi9g | $0.000003 | **0.78x** ($-22) | 1.07x |  | pumpfun | 2026-03-20 13:47 |
 | 🔴 GROKTIRED | $0.000003 | **0.97x** ($-3) | 1.06x |  | pumpfun | 2026-03-20 13:34 |
 | 🔴 DOJI | $0.000003 | **0.73x** ($-27) | 1.00x |  | pumpfun | 2026-03-20 13:32 |

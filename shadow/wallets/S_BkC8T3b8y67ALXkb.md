@@ -1,23 +1,25 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 77 (74 open, 3 closed) |
+| Positions | 79 (76 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-190 |
 | 📦 Unrealized | $-11 |
 | 🏦 Total | **$-201** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Hamster  | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
+| 🟡 Distorted | $0.000898 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:26 |
 | 🟡 Chud | $0.000580 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:46 |
 | 🟡 MIM | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 KENNY | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:26 |

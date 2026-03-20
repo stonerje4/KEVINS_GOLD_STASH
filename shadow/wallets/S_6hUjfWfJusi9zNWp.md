@@ -1,23 +1,25 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (15 open, 0 closed) |
+| Positions | 17 (17 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+85 |
 | 🏦 Total | **$+85** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chuck | $0.000195 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:26 |
+| 🟡 Nigel | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
 | 🟡 DECEPTICONS | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:37 |
 | 🟡 Hermes | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |

@@ -1,6 +1,6 @@
 # Wallet: `MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM`
 
-> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 14:24 UTC
+> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 14:29 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 14 (12 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
-| 📦 Unrealized | $-90 |
-| 🏦 Total | **$-212** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| 📦 Unrealized | $-104 |
+| 🏦 Total | **$-226** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NATO | $0.000005 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
+| 🔴 NATO | $0.000005 | **0.59x** ($-41) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
 | 🔴 N.O.M.A.D. | $0.000005 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:12 |
 | 🟡 SNIFFER | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:07 |
 | 🟡 Kin-Kun | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:46 |
