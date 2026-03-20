@@ -1,6 +1,6 @@
-# Wallet: `GCBYPEJFSAghsHUooDX2uKLzFrdh35VZt1FtQzpvoRNq`
+# Wallet: `Bhgz4XtegxxLPgPSRbcxRyhPcfuTYCBdf71DXkYH2qns`
 
-> [View on Solscan](https://solscan.io/account/GCBYPEJFSAghsHUooDX2uKLzFrdh35VZt1FtQzpvoRNq) | Updated: 2026-03-20 10:47 UTC
+> [View on Solscan](https://solscan.io/account/Bhgz4XtegxxLPgPSRbcxRyhPcfuTYCBdf71DXkYH2qns) | Updated: 2026-03-20 10:47 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $-0 |
+| 🏦 Total | **$-0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Aliens | $0.000799 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
+| 🔴 NICK | $0.000028 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 10:46 |
 
 ## Closed Positions
 

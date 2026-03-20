@@ -1,12 +1,12 @@
-# Wallet: `BQrJEre4PV4f5qJWxi1SNVqtHzjKBRhFmgZPh6FC6uWp`
+# Wallet: `3ysbi5yraecE3Sc6LHDBK8vvJYvYRMHBu7FXUNa4n5pg`
 
-> [View on Solscan](https://solscan.io/account/BQrJEre4PV4f5qJWxi1SNVqtHzjKBRhFmgZPh6FC6uWp) | Updated: 2026-03-20 10:47 UTC
+> [View on Solscan](https://solscan.io/account/3ysbi5yraecE3Sc6LHDBK8vvJYvYRMHBu7FXUNa4n5pg) | Updated: 2026-03-20 10:47 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
@@ -18,9 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Freebuff | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:36 |
-| 🟡 IMAGINE | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:29 |
-| 🟡 SHOENICE  | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:10 |
+| 🟡 NIGGA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
 
 ## Closed Positions
 
