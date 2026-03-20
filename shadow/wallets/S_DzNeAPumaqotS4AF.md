@@ -1,6 +1,6 @@
 # Wallet: `DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3`
 
-> [View on Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$-32** |
+| 📦 Unrealized | $+23 |
+| 🏦 Total | **$-37** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 MOSHI | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
-| 🟢 Chuck | $0.000099 | **4.50x** ($+350) | 4.86x | ✅ | pumpswap | 2026-03-20 13:54 |
+| 🟢 Chuck | $0.000099 | **4.37x** ($+337) | 4.86x | ✅ | pumpswap | 2026-03-20 13:54 |
 | 🟡 PHM | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 Blou | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:15 |

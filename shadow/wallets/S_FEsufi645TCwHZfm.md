@@ -1,6 +1,6 @@
 # Wallet: `FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc`
 
-> [View on Solscan](https://solscan.io/account/FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-60 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $-59 |
+| 🏦 Total | **$-59** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Solana | $0.000070 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 14:30 |
+| 🔴 Solana | $0.000070 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:30 |
 | 🟡 DOOLY | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:44 |
 | 🔴 AVATAR | $0.000012 | **0.59x** ($-41) | 1.29x |  | pumpswap | 2026-03-20 09:34 |
 

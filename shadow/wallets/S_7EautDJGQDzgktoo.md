@@ -1,16 +1,16 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (22 open, 7 closed) |
+| Positions | 30 (23 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-394 |
-| 📦 Unrealized | $-37 |
-| 🏦 Total | **$-430** |
+| 📦 Unrealized | $-62 |
+| 🏦 Total | **$-456** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.44x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Foodrot | $0.000161 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:11 |
 | 🟡 Spiderman | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:58 |
 | 🟡 LOL | $0.000455 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 GOONERBI | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Chibis | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:07 |
 | 🟡 MICHIBI | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
 | 🟡 CHIBI | $0.002054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
-| 🟡 Pixels | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:57 |
+| 🔴 Pixels | $0.000046 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 06:57 |
 | 🟡 Freebuff | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:48 |
 | 🟡 AIFRUITS | $0.000790 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
 | 🟡 CL1 | $0.000396 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |

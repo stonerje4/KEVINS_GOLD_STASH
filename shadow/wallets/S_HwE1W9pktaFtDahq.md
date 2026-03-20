@@ -1,6 +1,6 @@
 # Wallet: `HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q`
 
-> [View on Solscan](https://solscan.io/account/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+47 |
-| 🏦 Total | **$+47** |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$+38** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,9 +20,9 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Mirai | $0.000015 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 13:51 |
 | 🔴 Civil Claude | $0.000019 | **0.92x** ($-8) | 1.03x |  | pumpfun | 2026-03-20 12:28 |
-| 🟡 clod | $0.000016 | **1.82x** ($+82) | 1.88x |  | pumpswap | 2026-03-20 11:59 |
+| 🟡 clod | $0.000016 | **1.80x** ($+80) | 1.88x |  | pumpswap | 2026-03-20 11:59 |
 | 🟡 CHIBI | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 10:13 |
-| 🟡 Income | $0.000013 | **1.39x** ($+39) | 1.47x |  | pumpfun | 2026-03-20 09:33 |
+| 🟡 Income | $0.000013 | **1.32x** ($+32) | 1.52x |  | pumpfun | 2026-03-20 09:33 |
 | 🔴 KeepYard | $0.000006 | **0.47x** ($-53) | 1.19x |  | pumpfun | 2026-03-19 22:35 |
 
 ## Closed Positions

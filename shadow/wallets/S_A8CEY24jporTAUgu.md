@@ -1,30 +1,30 @@
 # Wallet: `A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t`
 
-> [View on Solscan](https://solscan.io/account/A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-66 |
 | 📦 Unrealized | $+14 |
-| 🏦 Total | **$+14** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-52** |
+| Best ROI | 0.34x |
+| Avg ROI | 0.34x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pixels | $0.000101 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:44 |
 | 🟡 iClaw | $0.000005 | **1.28x** ($+28) | 2.04x | ✅ | pumpswap | 2026-03-20 00:07 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Pixels | 0.34x | $-66 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:44 → 2026-03-20 15:11 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

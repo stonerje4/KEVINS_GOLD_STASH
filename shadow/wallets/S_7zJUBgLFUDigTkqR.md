@@ -1,16 +1,16 @@
 # Wallet: `7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i`
 
-> [View on Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (14 open, 2 closed) |
+| Positions | 17 (15 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+31 |
-| 📦 Unrealized | $-118 |
-| 🏦 Total | **$-87** |
+| 📦 Unrealized | $-115 |
+| 🏦 Total | **$-84** |
 | Best ROI | 1.47x |
 | Avg ROI | 1.15x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chuck | $0.000003 | **1.03x** ($+3) | 1.04x |  | pumpfun | 2026-03-20 15:10 |
 | 🟡 ICY | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:58 |
 | 🟡 BBX | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:14 |
 | 🟡 DTC | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:02 |

@@ -1,6 +1,6 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (14 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+372 |
-| 📦 Unrealized | $-40 |
-| 🏦 Total | **$+332** |
+| 📦 Unrealized | $-92 |
+| 🏦 Total | **$+280** |
 | Best ROI | 5.95x |
 | Avg ROI | 2.24x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pixels | $0.000072 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
+| 🔴 Pixels | $0.000072 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
 | 🟡 IMAGINE | $0.000175 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
 | 🟡 IMAGINE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:04 |
 | 🔴 CIRCLES | $0.000061 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 03:21 |

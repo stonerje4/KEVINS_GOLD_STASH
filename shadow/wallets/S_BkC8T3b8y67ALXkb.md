@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 80 (76 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-252 |
-| 📦 Unrealized | $-58 |
-| 🏦 Total | **$-309** |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-274** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.37x |
 
@@ -36,7 +36,7 @@
 | 🟡 Luxury | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:56 |
 | 🔴 Tastecoin | $0.000167 | **0.84x** ($-16) | 1.03x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 FIH | $0.000199 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:21 |
-| 🟡 Strawberita | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
+| 🔴 Strawberita | $0.000050 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🔴 PATRIOT | $0.000009 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 DAU | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
@@ -48,10 +48,10 @@
 | 🟡 worth | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 Rosie | $0.000797 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:51 |
-| 🟡 Momo-chan | $0.000312 | **1.21x** ($+21) | 1.24x |  | pumpswap | 2026-03-20 05:02 |
-| 🟡 LUMO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
+| 🟡 Momo-chan | $0.000312 | **1.22x** ($+22) | 1.24x |  | pumpswap | 2026-03-20 05:02 |
+| 🟡 LUMO | $0.000035 | **1.50x** ($+50) | 1.52x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Spiderman | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
-| 🔴 Fro | $0.000194 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
+| 🔴 Fro | $0.000194 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
 | 🟡 KIWI | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 herm | $0.000163 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 BBX | $0.000451 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:57 |

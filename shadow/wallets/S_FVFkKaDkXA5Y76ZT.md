@@ -1,6 +1,6 @@
 # Wallet: `FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg`
 
-> [View on Solscan](https://solscan.io/account/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$+6** |
+| 📦 Unrealized | $-21 |
+| 🏦 Total | **$-21** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 FOID | $0.000017 | **1.06x** ($+6) | 1.08x |  | pumpfun | 2026-03-20 15:02 |
-| 🟡 Chuck | $0.000386 | **1.29x** ($+29) | 1.40x |  | pumpswap | 2026-03-20 14:52 |
-| 🔴 Chuck | $0.000632 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
+| 🔴 FOID | $0.000017 | **0.91x** ($-9) | 1.08x |  | pumpfun | 2026-03-20 15:02 |
+| 🟡 Chuck | $0.000386 | **1.19x** ($+19) | 1.40x |  | pumpswap | 2026-03-20 14:52 |
+| 🔴 Chuck | $0.000632 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 DECEPTICONS | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 Downald | $0.000443 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:50 |
 

@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 27 (9 open, 18 closed) |
 | W/L | 1/17 (6%) |
 | 💵 Realized | $-1,414 |
-| 📦 Unrealized | $+921 |
-| 🏦 Total | **$-493** |
+| 📦 Unrealized | $+1,743 |
+| 🏦 Total | **$+329** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.21x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 Chuck | $0.000019 | **23.21x** ($+2,221) | 25.08x | ✅ | pumpswap | 2026-03-20 14:19 |
+| 🚀 Chuck | $0.000019 | **22.57x** ($+2,157) | 25.08x | ✅ | pumpswap | 2026-03-20 14:19 |
 | 🟡 CAVE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:46 |
-| 🟡 Pixels | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:18 |
-| 🚀 Simulation | $0.000002 | **12.61x** ($+1,161) | 12.82x | ✅ | pumpswap | 2026-03-20 04:58 |
+| 🚀 Pixels | $0.000001 | **25.59x** ($+2,459) | 25.65x | ✅ | pumpswap | 2026-03-20 11:18 |
+| 🚀 Simulation | $0.000002 | **12.60x** ($+1,160) | 12.82x | ✅ | pumpswap | 2026-03-20 04:58 |
 | 🟡 Luxury | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:54 |
 | 🟡 Massive | $0.000019 | **1.19x** ($+19) | 1.30x |  | pumpswap | 2026-03-20 01:31 |
 | 🟡 SHOENICE  | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:04 |

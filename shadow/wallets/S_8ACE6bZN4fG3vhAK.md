@@ -1,6 +1,6 @@
 # Wallet: `8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f`
 
-> [View on Solscan](https://solscan.io/account/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-31 |
-| 🏦 Total | **$-92** |
+| 📦 Unrealized | $-89 |
+| 🏦 Total | **$-149** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -19,11 +19,11 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 YOU | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:45 |
-| 🟡 Pixels | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:56 |
+| 🔴 Pixels | $0.000059 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 06:56 |
 | 🟡 Dryer | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:39 |
 | 🟡 AGI | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:45 |
 | 🔴 NBR | $0.000007 | **0.89x** ($-11) | 1.25x |  | pumpfun | 2026-03-20 00:22 |
-| 🔴 Strawberita | $0.000064 | **0.80x** ($-20) | 1.31x |  | pumpswap | 2026-03-19 23:19 |
+| 🔴 Strawberita | $0.000064 | **0.64x** ($-36) | 1.31x |  | pumpswap | 2026-03-19 23:19 |
 
 ## Closed Positions
 

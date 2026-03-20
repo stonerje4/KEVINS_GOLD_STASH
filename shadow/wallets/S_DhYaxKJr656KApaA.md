@@ -1,6 +1,6 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [View on Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+577 |
-| 🏦 Total | **$+577** |
+| 📦 Unrealized | $+524 |
+| 🏦 Total | **$+524** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,12 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 Chuck | $0.000026 | **19.02x** ($+1,802) | 20.71x | ✅ | pumpfun | 2026-03-20 14:16 |
+| 🚀 Chuck | $0.000026 | **17.61x** ($+1,661) | 20.71x | ✅ | pumpfun | 2026-03-20 14:16 |
 | 🟡 RIPCHUCK | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 CHUCK | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
-| 🟢 Chuck | $0.000137 | **3.27x** ($+227) | 3.54x | ✅ | pumpswap | 2026-03-20 13:55 |
+| 🟢 Chuck | $0.000137 | **3.18x** ($+218) | 3.54x | ✅ | pumpswap | 2026-03-20 13:55 |
 | 🟡 RULEBOOK | $0.000057 | **1.21x** ($+21) | 1.36x |  | pumpswap | 2026-03-20 13:00 |
-| 🟡 Doolysaurus | $0.000137 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
+| 🔴 Doolysaurus | $0.000137 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
 | 🟡 Sybil  | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:40 |
 | 🟡 Chud | $0.000669 | **1.19x** ($+19) | 1.31x |  | pumpswap | 2026-03-20 07:40 |
 | 🟡 MOCHI | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:07 |

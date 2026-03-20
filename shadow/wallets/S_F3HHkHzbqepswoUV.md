@@ -1,16 +1,16 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 55 (50 open, 5 closed) |
+| Positions | 56 (51 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-272 |
-| 📦 Unrealized | $+212 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $+207 |
+| 🏦 Total | **$-65** |
 | Best ROI | 0.75x |
 | Avg ROI | 0.46x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 e-CNY | $0.000004 | **0.95x** ($-5) | 1.05x |  | pumpfun | 2026-03-20 15:11 |
 | 🟡 e-CNY | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🔴 PL | $0.000003 | **0.77x** ($-23) | 1.00x |  | pumpfun | 2026-03-20 14:37 |
 | 🔴 4QQiUarf | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 14:21 |

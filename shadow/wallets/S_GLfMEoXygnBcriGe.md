@@ -1,12 +1,12 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (17 open, 2 closed) |
+| Positions | 20 (18 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-78 |
 | 📦 Unrealized | $-66 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NEO | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:12 |
 | 🟡 CHIBI | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
 | 🔴 BIAO | $0.000011 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 CHIBELON | $0.000185 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:29 |

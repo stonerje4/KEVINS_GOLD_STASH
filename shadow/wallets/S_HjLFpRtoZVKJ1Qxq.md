@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 139 (137 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-193 |
-| 🏦 Total | **$-330** |
+| 📦 Unrealized | $-183 |
+| 🏦 Total | **$-320** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.31x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 creature | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
-| 🔴 Speak | $0.000019 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 Speak | $0.000019 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 LIZARD | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:47 |
 | 🟡 $GROWN  | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:42 |
 | 🟡 DATBOI | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
@@ -48,7 +48,7 @@
 | 🟡 XPD | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:24 |
 | 🟡 Matthew | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 gay | $0.000351 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
-| 🟡 Feels | $0.000008 | **1.32x** ($+32) | 1.33x |  | pumpswap | 2026-03-20 11:51 |
+| 🟡 Feels | $0.000008 | **1.30x** ($+30) | 1.33x |  | pumpswap | 2026-03-20 11:51 |
 | 🟡 UNTAXED | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
 | 🟡 Otome | $0.000016 | **1.08x** ($+8) | 1.11x |  | pumpswap | 2026-03-20 11:14 |
 | 🟡 Twin | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:03 |
@@ -135,7 +135,7 @@
 | 🔴 KIWI | $0.000161 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 00:17 |
 | 🟡 MHGA | $0.000125 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-20 00:16 |
 | 🔴 FAFO | $0.000019 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 00:16 |
-| 🔴 wallahi | $0.000034 | **0.94x** ($-6) | 1.07x |  | pumpswap | 2026-03-20 00:15 |
+| 🟡 wallahi | $0.000034 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-20 00:15 |
 | 🔴 Peace  | $0.000685 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 00:12 |
 | 🔴 bio/acc | $0.000017 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-20 00:09 |
 | 🔴 Aliens | $0.000809 | **0.92x** ($-8) | 1.02x |  | pumpswap | 2026-03-20 00:06 |

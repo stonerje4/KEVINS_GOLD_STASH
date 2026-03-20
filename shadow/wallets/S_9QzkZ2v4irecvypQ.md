@@ -1,6 +1,6 @@
 # Wallet: `9QzkZ2v4irecvypQpvJgK4SonWK1HedRHb9hqLNxT4Q5`
 
-> [View on Solscan](https://solscan.io/account/9QzkZ2v4irecvypQpvJgK4SonWK1HedRHb9hqLNxT4Q5) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/9QzkZ2v4irecvypQpvJgK4SonWK1HedRHb9hqLNxT4Q5) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $-30 |
-| 🏦 Total | **$-109** |
+| 📦 Unrealized | $-32 |
+| 🏦 Total | **$-111** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.60x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000640 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
+| 🔴 Chuck | $0.000640 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 MOSHI | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 CHIBIELON | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:14 |
 

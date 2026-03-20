@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 191 (173 open, 18 closed) |
+| Positions | 192 (174 open, 18 closed) |
 | W/L | 8/10 (44%) |
 | 💵 Realized | $+1,033 |
-| 📦 Unrealized | $-2,758 |
-| 🏦 Total | **$-1,725** |
+| 📦 Unrealized | $-2,747 |
+| 🏦 Total | **$-1,715** |
 | Best ROI | 5.93x |
 | Avg ROI | 1.57x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 67 | $0.000003 | **0.96x** ($-4) | 1.02x |  | pumpfun | 2026-03-20 15:07 |
+| 🟡 WouldChuck | $0.000003 | **1.06x** ($+6) | 1.06x |  | pumpfun | 2026-03-20 15:11 |
+| 🔴 67 | $0.000003 | **0.95x** ($-5) | 1.02x |  | pumpfun | 2026-03-20 15:07 |
 | 🔴 CHUCK | $0.000003 | **0.76x** ($-24) | 1.09x |  | pumpfun | 2026-03-20 15:07 |
 | 🔴 G4yfGuS5 | $0.000004 | **0.71x** ($-29) | 1.00x |  | pumpfun | 2026-03-20 15:05 |
-| 🟡 momoko | $0.000003 | **1.29x** ($+29) | 1.93x |  | pumpfun | 2026-03-20 15:05 |
+| 🟡 momoko | $0.000003 | **1.35x** ($+35) | 1.93x |  | pumpfun | 2026-03-20 15:05 |
 | 🔴 Chuck | $0.000004 | **0.89x** ($-11) | 1.01x |  | pumpfun | 2026-03-20 14:58 |
 | 🔴 Chuck | $0.000004 | **0.80x** ($-20) | 1.06x |  | pumpfun | 2026-03-20 14:53 |
 | 🔴 TOPDOG | $0.000003 | **0.79x** ($-21) | 1.04x |  | pumpfun | 2026-03-20 14:50 |

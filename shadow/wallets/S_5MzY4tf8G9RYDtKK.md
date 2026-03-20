@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 56 (33 open, 23 closed) |
 | W/L | 1/22 (4%) |
 | 💵 Realized | $-1,068 |
-| 📦 Unrealized | $-233 |
-| 🏦 Total | **$-1,301** |
+| 📦 Unrealized | $+27 |
+| 🏦 Total | **$-1,041** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.54x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000012 | **0.77x** ($-23) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
-| 🔴 FOID | $0.000032 | **0.58x** ($-42) | 1.13x |  | pumpfun | 2026-03-20 13:38 |
+| 🔴 CHUCK | $0.000012 | **0.73x** ($-27) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
+| 🔴 FOID | $0.000032 | **0.50x** ($-50) | 1.13x |  | pumpfun | 2026-03-20 13:38 |
 | 🟡 kinton | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:01 |
 | 🟡 Chibify | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
 | 🟡 Judy | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:41 |
-| 🚀 Doolysaurus | $0.000006 | **5.72x** ($+472) | 5.72x | ✅ | pumpfun | 2026-03-20 09:52 |
+| 🚀 Doolysaurus | $0.000006 | **18.44x** ($+1,744) | 18.52x | ✅ | pumpfun | 2026-03-20 09:52 |
 | 🔴 我的猪盾 | $0.000006 | **0.46x** ($-54) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 IMAGINE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |

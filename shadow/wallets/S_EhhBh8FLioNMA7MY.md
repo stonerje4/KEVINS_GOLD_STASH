@@ -1,6 +1,6 @@
 # Wallet: `EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX`
 
-> [View on Solscan](https://solscan.io/account/EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-7 |
-| 🏦 Total | **$-7** |
+| 📦 Unrealized | $+4 |
+| 🏦 Total | **$+4** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 C9PAjfYp | $0.000003 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 15:04 |
+| 🟡 C9PAjfYp | $0.000003 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 15:04 |
 | 🔴 FHuQRoD8 | $0.000003 | **0.90x** ($-10) | 2.37x | ✅ | pumpfun | 2026-03-20 13:35 |
 | 🟡 CLAWDIA | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:36 |
 

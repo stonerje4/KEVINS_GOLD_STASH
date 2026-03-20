@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (15 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+32 |
-| 📦 Unrealized | $+376 |
-| 🏦 Total | **$+408** |
+| 📦 Unrealized | $+367 |
+| 🏦 Total | **$+399** |
 | Best ROI | 1.49x |
 | Avg ROI | 1.16x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Chuck | $0.000203 | **2.46x** ($+146) | 2.67x | ✅ | pumpswap | 2026-03-20 14:23 |
+| 🟢 Chuck | $0.000203 | **2.27x** ($+127) | 2.67x | ✅ | pumpswap | 2026-03-20 14:23 |
 | 🔴 Merlin | $0.000007 | **0.46x** ($-54) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 SNIFFER | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |
 | 🟡 Mirai | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:46 |

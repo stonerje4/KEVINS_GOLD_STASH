@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (21 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-4 |
-| 🏦 Total | **$-4** |
+| 📦 Unrealized | $+71 |
+| 🏦 Total | **$+71** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pete | $0.000056 | **1.05x** ($+5) | 1.10x |  | pumpswap | 2026-03-20 15:07 |
-| 🔴 clod | $0.000031 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
+| 🟡 Pete | $0.000056 | **1.22x** ($+22) | 1.29x |  | pumpswap | 2026-03-20 15:07 |
+| 🔴 clod | $0.000031 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 effect | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:41 |
-| 🟡 Solana | $0.000043 | **1.34x** ($+34) | 1.50x |  | pumpswap | 2026-03-20 14:35 |
+| 🟡 Solana | $0.000043 | **1.36x** ($+36) | 1.50x |  | pumpswap | 2026-03-20 14:35 |
 | 🟡 MOCHI | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 Dryer | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:45 |
 | 🟡 CHIBI | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:09 |
@@ -32,7 +32,7 @@
 | 🟡 DRIVE | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:09 |
 | 🟡 Luxury | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:24 |
 | 🟡 Alien | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:58 |
-| 🟡 LUMO | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:58 |
+| 🟡 LUMO | $0.000034 | **1.56x** ($+56) | 1.59x |  | pumpswap | 2026-03-20 03:58 |
 | 🔴 Patricia | $0.000020 | **0.73x** ($-27) | 1.02x |  | pumpswap | 2026-03-20 02:38 |
 | 🔴 BOAT | $0.000009 | **0.92x** ($-8) | 1.10x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 Taylor | $0.000012 | **0.82x** ($-18) | 1.22x |  | pumpswap | 2026-03-20 00:15 |

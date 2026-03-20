@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 15:09 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 15:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 118 (92 open, 26 closed) |
 | W/L | 2/24 (8%) |
 | 💵 Realized | $-1,144 |
-| 📦 Unrealized | $-1,109 |
-| 🏦 Total | **$-2,253** |
+| 📦 Unrealized | $-1,121 |
+| 🏦 Total | **$-2,266** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.56x |
 
@@ -53,7 +53,7 @@
 | 🟡 ANIME | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:27 |
 | 🟡 EmH4y6zA | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 Umami | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:20 |
-| 🔴 Income | $0.000035 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
+| 🔴 Income | $0.000035 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 INCOME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 kawaifiy | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 FATE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:04 |
@@ -72,7 +72,7 @@
 | 🔴 CjqwnET8 | $0.000005 | **0.46x** ($-54) | 1.69x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.51x** ($-49) | 1.08x |  | pumpfun | 2026-03-20 08:10 |
 | 🔴 BGEYapkY | $0.000005 | **0.53x** ($-47) | 1.27x |  | pumpfun | 2026-03-20 07:41 |
-| 🟡 Pixels | $0.000024 | **1.53x** ($+53) | 1.53x |  | pumpfun | 2026-03-20 06:53 |
+| 🟡 Pixels | $0.000024 | **1.42x** ($+42) | 1.53x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 Otocolobus | $0.000004 | **0.63x** ($-37) | 1.37x |  | pumpfun | 2026-03-20 06:49 |
 | 🔴 29tcP9b3 | $0.000004 | **0.56x** ($-44) | 1.56x |  | pumpfun | 2026-03-20 06:45 |
