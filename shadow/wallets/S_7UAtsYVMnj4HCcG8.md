@@ -1,23 +1,24 @@
 # Wallet: `7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4`
 
-> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 14:44 UTC
+> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 14:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (11 open, 5 closed) |
+| Positions | 17 (12 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-499 |
 | 📦 Unrealized | $+33 |
 | 🏦 Total | **$-466** |
-| Best ROI | 0.01x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SFM | $0.000003 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 14:48 |
 | 🔴 SNP500 | $0.000105 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
 | 🟡 LOCK | $0.094967 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 14:28 |
 | 🟡 Hosico | $0.000931 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 14:17 |

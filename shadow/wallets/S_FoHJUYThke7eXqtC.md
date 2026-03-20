@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 14:44 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 14:49 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 54 (53 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
-| 📦 Unrealized | $-47 |
-| 🏦 Total | **$+144** |
-| Best ROI | 2.91x |
-| Avg ROI | 2.91x |
+| 📦 Unrealized | $-93 |
+| 🏦 Total | **$+97** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GSCOPE | $0.000003 | **1.77x** ($+77) | 1.85x |  | pumpfun | 2026-03-20 14:37 |
+| 🟡 GSCOPE | $0.000003 | **1.31x** ($+31) | 1.85x |  | pumpfun | 2026-03-20 14:37 |
 | 🔴 CHUCKNORRIS | $0.000003 | **0.99x** ($-1) | 1.13x |  | pumpfun | 2026-03-20 14:10 |
 | 🔴 OKARA | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 13:59 |
 | 🔴 MOSHI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:35 |

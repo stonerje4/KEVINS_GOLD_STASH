@@ -1,23 +1,24 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:44 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 43 (42 open, 1 closed) |
+| Positions | 44 (43 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-64 |
-| 📦 Unrealized | $+44 |
-| 🏦 Total | **$-19** |
-| Best ROI | 0.36x |
-| Avg ROI | 0.36x |
+| 📦 Unrealized | $+42 |
+| 🏦 Total | **$-21** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 RIPCN | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 14:46 |
 | 🟡 FTR | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:42 |
 | 🟡 UOR | $0.000005 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 14:34 |
 | 🔴 HdbDNtPu | $0.000003 | **0.86x** ($-14) | 1.12x |  | pumpfun | 2026-03-20 14:20 |
@@ -26,7 +27,7 @@
 | 🟡 HUGH | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:07 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:04 |
 | 🔴 USGR | $0.000003 | **0.90x** ($-10) | 1.06x |  | pumpfun | 2026-03-20 14:01 |
-| 🟡 War | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:57 |
+| 🔴 War | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 13:57 |
 | 🟡 USGR | $0.000003 | **1.10x** ($+10) | 1.17x |  | pumpfun | 2026-03-20 13:56 |
 | 🔴 Gg39pYf9 | $0.000001 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 13:29 |
 | 🟡 MOSHI | $0.000003 | **1.19x** ($+19) | 1.39x |  | pumpfun | 2026-03-20 13:22 |

@@ -1,6 +1,6 @@
 # Wallet: `4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi`
 
-> [View on Solscan](https://solscan.io/account/4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi) | Updated: 2026-03-20 14:44 UTC
+> [View on Solscan](https://solscan.io/account/4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi) | Updated: 2026-03-20 14:49 UTC
 
 ## Summary
 
@@ -11,14 +11,14 @@
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $-63 |
 | 🏦 Total | **$-124** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CULTURE | $0.000006 | **0.43x** ($-57) | 1.01x |  | pumpfun | 2026-03-20 14:12 |
+| 🔴 CULTURE | $0.000006 | **0.42x** ($-58) | 1.01x |  | pumpfun | 2026-03-20 14:12 |
 | 🟡 BBX | $0.000016 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 12:26 |
 | 🟡 FTR | $0.000014 | **1.08x** ($+8) | 1.08x |  | pumpfun | 2026-03-20 01:09 |
 | 🔴 WRT | $0.000013 | **0.84x** ($-16) | 1.36x |  | pumpswap | 2026-03-20 01:07 |
