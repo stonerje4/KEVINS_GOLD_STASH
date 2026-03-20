@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 00:13 UTC
+> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 00:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (18 open, 11 closed) |
 | W/L | 0/11 (0%) |
 | 💵 Realized | $-747 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-763** |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$-765** |
 | Best Trade | 0.3x |
 | Avg Peak | 1.0x |
 
@@ -20,8 +20,8 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Rosei | $0.000014 | **0.96x** ($-4) | 1.10x |  | pumpswap | 2026-03-19 23:49 |
 | 🟡 AINL | $0.000025 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 23:43 |
-| 🔴 CHIBI | $0.000125 | **0.57x** ($-43) | 1.04x |  | pumpswap | 2026-03-19 23:37 |
-| 🟡 CHIBI | $0.000656 | **1.27x** ($+27) | 1.55x |  | pumpswap | 2026-03-19 23:36 |
+| 🔴 CHIBI | $0.000125 | **0.55x** ($-45) | 1.04x |  | pumpswap | 2026-03-19 23:37 |
+| 🟡 CHIBI | $0.000656 | **1.28x** ($+28) | 1.55x |  | pumpswap | 2026-03-19 23:36 |
 | 🔴 Chibify | $0.000004 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 Garbonzo | $0.000009 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 CHIBIELON | $0.000005 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-19 23:28 |
@@ -31,11 +31,11 @@
 | 🟡 TMRW | $0.000008 | **1.21x** ($+21) | 1.28x |  | pumpswap | 2026-03-19 23:09 |
 | 🟡 AIFRUIT | $0.000022 | **1.10x** ($+10) | 1.40x |  | pumpswap | 2026-03-19 23:08 |
 | 🔴 tinfoil | $0.000061 | **0.70x** ($-30) | 1.09x |  | pumpswap | 2026-03-19 23:01 |
-| 🟡 Nigel | $0.000194 | **1.09x** ($+9) | 1.20x |  | pumpswap | 2026-03-19 22:52 |
+| 🟡 Nigel | $0.000194 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 TRAITOR | $0.000003 | **1.41x** ($+41) | 2.80x | ✅ | pumpswap | 2026-03-19 22:50 |
 | 🟡 NIGGA | $0.000014 | **1.08x** ($+8) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
 | 🟡 Pete | $0.000161 | **1.01x** ($+1) | 1.38x |  | pumpswap | 2026-03-19 22:49 |
-| 🔴 BBX | $0.000441 | **0.85x** ($-15) | 1.28x |  | pumpswap | 2026-03-19 22:41 |
+| 🔴 BBX | $0.000441 | **0.83x** ($-17) | 1.28x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
 

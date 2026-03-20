@@ -1,6 +1,6 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [View on Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 00:13 UTC
+> [View on Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 00:14 UTC
 
 ## Summary
 
@@ -24,7 +24,7 @@
 | 🔴 MILO | $0.000004 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-19 23:33 |
 | 🔴 Dickus | $0.000034 | **0.95x** ($-5) | 1.44x |  | pumpswap | 2026-03-19 23:28 |
 | 🟡 Attention | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:25 |
-| 🟡 CHIBI | $0.000500 | **1.66x** ($+66) | 2.04x | ✅ | pumpswap | 2026-03-19 23:22 |
+| 🟡 CHIBI | $0.000500 | **1.68x** ($+68) | 2.04x | ✅ | pumpswap | 2026-03-19 23:22 |
 | 🔴 SpiderMan | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-19 23:22 |
 | 🟢 Pete | $0.000052 | **3.17x** ($+217) | 4.31x | ✅ | pumpswap | 2026-03-19 22:39 |
 

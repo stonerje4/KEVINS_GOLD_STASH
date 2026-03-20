@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 00:13 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 00:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 33 (33 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+91 |
-| 🏦 Total | **$+91** |
+| 📦 Unrealized | $+96 |
+| 🏦 Total | **$+96** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,24 +18,24 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chibify | $0.000022 | **1.22x** ($+22) | 1.34x |  | pumpswap | 2026-03-20 00:03 |
+| 🟡 Chibify | $0.000022 | **1.21x** ($+21) | 1.34x |  | pumpswap | 2026-03-20 00:03 |
 | 🔴 LARP | $0.000242 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 00:02 |
-| 🟡 Spawn | $0.000133 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 00:02 |
-| 🟡 DOGEFATHER | $0.000013 | **1.02x** ($+2) | 1.12x |  | pumpswap | 2026-03-20 00:01 |
+| 🟡 Spawn | $0.000133 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 00:02 |
+| 🟡 DOGEFATHER | $0.000013 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 00:01 |
 | 🟡 gay | $0.000367 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-19 23:57 |
 | 🟡 TIMELESS | $0.000021 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-19 23:57 |
 | 🔴 CEO | $0.000078 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-19 23:50 |
-| 🟡 NETANYAHU | $0.000095 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-19 23:49 |
-| 🟡 CHIBI | $0.000690 | **1.20x** ($+20) | 1.48x |  | pumpswap | 2026-03-19 23:48 |
+| 🟡 NETANYAHU | $0.000095 | **1.00x** ($+0) | 1.05x |  | pumpswap | 2026-03-19 23:49 |
+| 🟡 CHIBI | $0.000690 | **1.21x** ($+21) | 1.48x |  | pumpswap | 2026-03-19 23:48 |
 | 🔴 GOBLIN | $0.000015 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 Alien | $0.000014 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000025 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 23:43 |
 | 🟡 KIWI | $0.000158 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 OILINU | $0.000090 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
-| 🔴 CHIBI | $0.000126 | **0.57x** ($-43) | 1.03x |  | pumpswap | 2026-03-19 23:36 |
+| 🔴 CHIBI | $0.000126 | **0.55x** ($-45) | 1.03x |  | pumpswap | 2026-03-19 23:36 |
 | 🟡 Patricia | $0.000024 | **1.13x** ($+13) | 1.27x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Monke | $0.000013 | **0.89x** ($-11) | 1.04x |  | pumpswap | 2026-03-19 23:30 |
-| 🟡 Nigel | $0.000195 | **1.09x** ($+9) | 1.20x |  | pumpswap | 2026-03-19 23:24 |
+| 🟡 Nigel | $0.000195 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-19 23:24 |
 | 🟡 buddy | $0.000319 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 HOSPICE | $0.000024 | **0.96x** ($-4) | 1.18x |  | pumpswap | 2026-03-19 23:12 |
 | 🟡 NBR | $0.000084 | **1.03x** ($+3) | 1.13x |  | pumpswap | 2026-03-19 23:06 |

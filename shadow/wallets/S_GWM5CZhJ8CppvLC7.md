@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 00:13 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 00:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 32 (32 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-21 |
-| 🏦 Total | **$-21** |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$-18** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,21 +18,21 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Peace  | $0.000676 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 00:12 |
+| 🔴 Peace  | $0.000676 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 00:12 |
 | 🔴 Grandma | $0.000346 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 00:11 |
-| 🔴 tinfoil | $0.000049 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 00:11 |
+| 🔴 tinfoil | $0.000049 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 00:11 |
 | 🔴 Flash | $0.000063 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 00:07 |
 | 🔴 MIM | $0.000064 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 00:04 |
 | 🔴 LARP | $0.000246 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 00:02 |
 | 🔴 Aliens | $0.000836 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 00:02 |
-| 🔴 Spawn | $0.000135 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 00:02 |
+| 🟡 Spawn | $0.000135 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 00:02 |
 | 🟡 CORP | $0.000111 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-19 23:58 |
-| 🔴 CHIBI | $0.000109 | **0.66x** ($-34) | 1.03x |  | pumpswap | 2026-03-19 23:57 |
+| 🔴 CHIBI | $0.000109 | **0.64x** ($-36) | 1.03x |  | pumpswap | 2026-03-19 23:57 |
 | 🟡 gay | $0.000366 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-19 23:57 |
-| 🟡 DOGEFATHER | $0.000013 | **1.02x** ($+2) | 1.12x |  | pumpswap | 2026-03-19 23:56 |
+| 🟡 DOGEFATHER | $0.000013 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-19 23:56 |
 | 🟡 GAS | $0.000379 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:53 |
 | 🔴 CEO | $0.000078 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-19 23:50 |
-| 🟡 NETANYAHU | $0.000096 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-19 23:49 |
+| 🔴 NETANYAHU | $0.000096 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-19 23:49 |
 | 🟡 Alien | $0.000014 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 Solana | $0.000186 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-19 23:44 |
 | 🟡 AINL | $0.000024 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-19 23:43 |

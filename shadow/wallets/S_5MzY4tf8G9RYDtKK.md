@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 00:13 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 00:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (12 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-253 |
-| 📦 Unrealized | $-159 |
-| 🏦 Total | **$-411** |
+| 📦 Unrealized | $-160 |
+| 🏦 Total | **$-413** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.6x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Optimistrump | $0.000052 | **1.07x** ($+7) | 1.14x |  | pumpswap | 2026-03-19 23:52 |
-| 🟡 tremp | $0.000008 | **1.03x** ($+3) | 2.26x | ✅ | pumpfun | 2026-03-19 23:51 |
+| 🔴 tremp | $0.000008 | **1.00x** ($-0) | 2.26x | ✅ | pumpfun | 2026-03-19 23:51 |
 | 🔴 REKT | $0.000009 | **0.52x** ($-48) | 1.34x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 ONEAI | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 RiceClaw | $0.000005 | **0.54x** ($-46) | 1.69x |  | pumpfun | 2026-03-19 23:18 |
