@@ -1,6 +1,6 @@
 # Wallet: `BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny`
 
-> [GMGN](https://gmgn.ai/sol/address/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | [Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 22:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | [Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 22:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (7 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-189 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-218** |
+| 📦 Unrealized | $-11 |
+| 🏦 Total | **$-200** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.37x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Massive | $0.000015 | **1.09x** ($+9) | 1.38x |  | pumpswap | 2026-03-20 21:21 |
+| 🟡 Massive | $0.000015 | **1.27x** ($+27) | 1.38x |  | pumpswap | 2026-03-20 21:21 |
 | 🟡 TITUATION | $0.000027 | **1.20x** ($+20) | 1.97x |  | pumpswap | 2026-03-20 18:09 |
 | 🟡 MOSHI | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 PHM | $0.000006 | **1.25x** ($+25) | 1.41x |  | pumpfun | 2026-03-20 13:21 |

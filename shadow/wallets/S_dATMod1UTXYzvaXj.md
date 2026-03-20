@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 22:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 22:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 31 (17 open, 14 closed) |
 | W/L | 1/13 (7%) |
 | 💵 Realized | $-538 |
-| 📦 Unrealized | $+335 |
-| 🏦 Total | **$-204** |
+| 📦 Unrealized | $+352 |
+| 🏦 Total | **$-186** |
 | Best ROI | 1.47x |
 | Avg ROI | 0.62x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TADC | $0.000008 | **1.18x** ($+18) | 1.60x |  | pumpfun | 2026-03-20 21:51 |
+| 🟡 TADC | $0.000008 | **1.36x** ($+36) | 1.60x |  | pumpfun | 2026-03-20 21:51 |
 | 🟡 ME | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 16:44 |
 | 🟡 Lana | $0.000030 | **1.23x** ($+23) | 1.23x |  | pumpfun | 2026-03-20 16:31 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:53 |

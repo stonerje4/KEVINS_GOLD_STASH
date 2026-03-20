@@ -1,16 +1,16 @@
 # Wallet: `8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe`
 
-> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 22:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 22:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (4 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-494 |
-| 📦 Unrealized | $-81 |
-| 🏦 Total | **$-575** |
+| Positions | 12 (3 open, 9 closed) |
+| W/L | 0/9 (0%) |
+| 💵 Realized | $-555 |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-578** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.38x |
 
@@ -19,9 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 WRONG | $0.000007 | **0.52x** ($-48) | 1.12x |  | pumpfun | 2026-03-20 20:13 |
-| 🟡 wbs | $0.000012 | **1.38x** ($+38) | 2.37x | ✅ | pumpfun | 2026-03-20 20:10 |
+| 🟡 wbs | $0.000012 | **1.51x** ($+51) | 2.37x | ✅ | pumpfun | 2026-03-20 20:10 |
 | 🟡 Sunshine | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:34 |
-| 🔴 MFT | $0.000035 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 17:33 |
 
 ## Closed Positions
 
@@ -33,6 +32,7 @@
 | 🔴 POLARA | 0.39x | $-61 | stop_loss | 1.61x | pumpfun | 2026-03-20 18:30 → 2026-03-20 20:24 |
 | 🔴 wstDOG | 0.36x | $-64 | stop_loss | 1.00x | pumpfun | 2026-03-20 17:57 → 2026-03-20 18:00 |
 | 🔴 FROGS | 0.37x | $-63 | stop_loss | 1.00x | pumpfun | 2026-03-20 17:34 → 2026-03-20 17:41 |
+| 🔴 MFT | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:33 → 2026-03-20 22:05 |
 | 🔴 FROGE | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 17:33 → 2026-03-20 17:37 |
 | 🔴 Patricia | 0.37x | $-63 | stop_loss | 1.24x | pumpswap | 2026-03-19 23:16 → 2026-03-20 02:38 |
 

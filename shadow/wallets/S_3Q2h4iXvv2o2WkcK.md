@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 22:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 22:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 23 (20 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-159 |
-| 📦 Unrealized | $-221 |
-| 🏦 Total | **$-381** |
+| 📦 Unrealized | $-272 |
+| 🏦 Total | **$-431** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.47x |
 
@@ -19,13 +19,13 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 FOID | $0.000009 | **0.92x** ($-8) | 1.12x |  | pumpswap | 2026-03-20 21:06 |
-| 🔴 ROUNDHOUSE | $0.000006 | **0.78x** ($-22) | 1.01x |  | pumpswap | 2026-03-20 20:35 |
-| 🔴 Saleh | $0.000015 | **0.80x** ($-20) | 1.15x |  | pumpswap | 2026-03-20 20:28 |
-| 🟡 SNIFFER | $0.000037 | **1.30x** ($+30) | 1.49x |  | pumpswap | 2026-03-20 18:46 |
+| 🔴 ROUNDHOUSE | $0.000006 | **0.73x** ($-27) | 1.01x |  | pumpswap | 2026-03-20 20:35 |
+| 🔴 Saleh | $0.000015 | **0.74x** ($-26) | 1.15x |  | pumpswap | 2026-03-20 20:28 |
+| 🟡 SNIFFER | $0.000037 | **1.01x** ($+1) | 1.49x |  | pumpswap | 2026-03-20 18:46 |
 | 🔴 Judy | $0.000010 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 18:34 |
 | 🟡 ARIA | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:49 |
 | 🟡 ME | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
-| 🟢 ZeroG | $0.000011 | **2.45x** ($+145) | 4.09x | ✅ | pumpswap | 2026-03-20 16:23 |
+| 🟢 ZeroG | $0.000011 | **2.15x** ($+115) | 4.09x | ✅ | pumpswap | 2026-03-20 16:23 |
 | 🟡 PACO | $0.000009 | **1.39x** ($+39) | 1.40x |  | pumpswap | 2026-03-20 15:45 |
 | 🔴 clod | $0.000031 | **0.53x** ($-47) | 1.26x |  | pumpswap | 2026-03-20 14:55 |
 | 🔴 Dryer | $0.000034 | **0.42x** ($-58) | 1.18x |  | pumpswap | 2026-03-20 10:45 |
@@ -33,7 +33,7 @@
 | 🟡 Freebuff | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:10 |
 | 🔴 DRIVE | $0.000028 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 07:09 |
 | 🟡 Luxury | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:24 |
-| 🔴 LUMO | $0.000034 | **0.86x** ($-14) | 1.82x |  | pumpswap | 2026-03-20 03:58 |
+| 🔴 LUMO | $0.000034 | **0.88x** ($-12) | 1.82x |  | pumpswap | 2026-03-20 03:58 |
 | 🔴 Patricia | $0.000020 | **0.73x** ($-27) | 1.02x |  | pumpswap | 2026-03-20 02:38 |
 | 🔴 BOAT | $0.000009 | **0.62x** ($-38) | 1.10x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 Taylor | $0.000012 | **0.56x** ($-44) | 1.22x |  | pumpswap | 2026-03-20 00:15 |
