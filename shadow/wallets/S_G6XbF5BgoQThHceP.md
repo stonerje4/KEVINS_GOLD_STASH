@@ -1,16 +1,16 @@
 # Wallet: `G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX`
 
-> [GMGN](https://gmgn.ai/sol/address/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | [Solscan](https://solscan.io/account/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | Updated: 2026-03-20 18:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | [Solscan](https://solscan.io/account/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | Updated: 2026-03-20 18:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
+| Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-126 |
-| 📦 Unrealized | $-100 |
-| 🏦 Total | **$-226** |
+| 📦 Unrealized | $-101 |
+| 🏦 Total | **$-228** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.37x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 6jSwsik5 | $0.000009 | **0.98x** ($-2) | 1.02x |  | pumpfun | 2026-03-20 18:20 |
 | 🟢 𝕏CAT | $0.000011 | **3.32x** ($+232) | 3.32x | ✅ | pumpfun | 2026-03-20 18:06 |
 | 🔴 STRAIT | $0.000011 | **0.42x** ($-58) | 1.03x |  | pumpfun | 2026-03-20 17:00 |
 | 🟡 ME | $0.000088 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:46 |

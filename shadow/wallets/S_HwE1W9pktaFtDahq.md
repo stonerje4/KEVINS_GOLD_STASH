@@ -1,6 +1,6 @@
 # Wallet: `HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q`
 
-> [GMGN](https://gmgn.ai/sol/address/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | [Solscan](https://solscan.io/account/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | Updated: 2026-03-20 18:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | [Solscan](https://solscan.io/account/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | Updated: 2026-03-20 18:20 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Mirai | $0.000015 | **1.16x** ($+16) | 1.44x |  | pumpfun | 2026-03-20 13:51 |
-| 🟡 Civil Claude | $0.000019 | **1.07x** ($+7) | 1.60x |  | pumpfun | 2026-03-20 12:28 |
+| 🟡 Civil Claude | $0.000019 | **1.08x** ($+8) | 1.60x |  | pumpfun | 2026-03-20 12:28 |
 | 🟡 clod | $0.000016 | **1.57x** ($+57) | 2.55x | ✅ | pumpswap | 2026-03-20 11:59 |
 | 🟡 CHIBI | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 10:13 |
 | 🔴 Income | $0.000013 | **0.96x** ($-4) | 1.63x |  | pumpfun | 2026-03-20 09:33 |

@@ -1,12 +1,12 @@
 # Wallet: `D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah`
 
-> [GMGN](https://gmgn.ai/sol/address/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | [Solscan](https://solscan.io/account/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | Updated: 2026-03-20 18:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | [Solscan](https://solscan.io/account/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | Updated: 2026-03-20 18:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
+| Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
 | 📦 Unrealized | $-25 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SMCI | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:18 |
 | 🟡 EwEiU6Ju | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:34 |
 | 🟡 Strawberita | $0.000013 | **1.07x** ($+7) | 1.37x |  | pumpfun | 2026-03-20 00:54 |
 | 🔴 Rosei | $0.000015 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-19 23:51 |

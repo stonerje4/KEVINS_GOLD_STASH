@@ -1,6 +1,6 @@
 # Wallet: `Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9`
 
-> [GMGN](https://gmgn.ai/sol/address/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | [Solscan](https://solscan.io/account/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | Updated: 2026-03-20 18:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | [Solscan](https://solscan.io/account/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | Updated: 2026-03-20 18:20 UTC
 
 ## Summary
 
@@ -23,7 +23,7 @@
 | 🔴 MYTH | $0.000098 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:47 |
 | 🔴 Barron | $0.000019 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-19 23:18 |
 | 🔴 Xingxing | $0.000032 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-19 22:55 |
-| 🔴 UGOR | $0.001002 | **0.73x** ($-27) | 1.08x |  | pumpswap | 2026-03-19 22:36 |
+| 🔴 UGOR | $0.001002 | **0.72x** ($-28) | 1.08x |  | pumpswap | 2026-03-19 22:36 |
 
 ## Closed Positions
 

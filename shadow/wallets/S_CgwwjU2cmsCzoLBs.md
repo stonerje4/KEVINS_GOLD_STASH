@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 18:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 18:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 26 (12 open, 14 closed) |
 | W/L | 0/14 (0%) |
 | 💵 Realized | $-960 |
-| 📦 Unrealized | $+43 |
-| 🏦 Total | **$-917** |
+| 📦 Unrealized | $+41 |
+| 🏦 Total | **$-919** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.31x |
 
@@ -29,7 +29,7 @@
 | 🟡 tinfoil | $0.000061 | **1.23x** ($+23) | 1.29x |  | pumpswap | 2026-03-19 23:01 |
 | 🔴 Nigel | $0.000194 | **0.57x** ($-43) | 1.36x |  | pumpswap | 2026-03-19 22:52 |
 | 🔴 NIGGA | $0.000014 | **0.63x** ($-37) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
-| 🔴 BBX | $0.000441 | **0.84x** ($-16) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
+| 🔴 BBX | $0.000441 | **0.82x** ($-18) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 18:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 18:20 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 e-CNY | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🟡 Luxury | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
-| 🚀 methane | $0.000015 | **5.27x** ($+427) | 6.81x | ✅ | cpmm | 2026-03-20 13:16 |
+| 🚀 methane | $0.000015 | **5.26x** ($+426) | 6.81x | ✅ | cpmm | 2026-03-20 13:16 |
 | 🟡 DRONE | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:31 |
 | 🟡 $PEPETO | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
 | 🟡 NBR | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:11 |

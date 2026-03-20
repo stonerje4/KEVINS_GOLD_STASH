@@ -1,6 +1,6 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [GMGN](https://gmgn.ai/sol/address/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | [Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 18:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | [Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 18:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (13 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+294 |
-| 📦 Unrealized | $-15 |
-| 🏦 Total | **$+279** |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$+277** |
 | Best ROI | 5.95x |
 | Avg ROI | 1.74x |
 
@@ -30,7 +30,7 @@
 | 🔴 CHIBI | $0.000067 | **0.87x** ($-13) | 1.18x |  | pumpswap | 2026-03-20 00:25 |
 | 🔴 TOKEN | $0.000142 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
 | 🔴 Nigel | $0.000209 | **0.53x** ($-47) | 1.27x |  | pumpswap | 2026-03-19 22:50 |
-| 🔴 BBX | $0.000435 | **0.85x** ($-15) | 1.55x |  | pumpswap | 2026-03-19 22:41 |
+| 🔴 BBX | $0.000435 | **0.83x** ($-17) | 1.55x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
 

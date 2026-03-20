@@ -1,31 +1,31 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 18:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 18:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 78 (68 open, 10 closed) |
-| W/L | 2/8 (20%) |
-| 💵 Realized | $-422 |
-| 📦 Unrealized | $-18 |
-| 🏦 Total | **$-440** |
+| Positions | 78 (67 open, 11 closed) |
+| W/L | 2/9 (18%) |
+| 💵 Realized | $-507 |
+| 📦 Unrealized | $-0 |
+| 🏦 Total | **$-508** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.58x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pixels | $0.000020 | **1.15x** ($+15) | 1.16x |  | pumpswap | 2026-03-20 18:10 |
+| 🟡 Pixels | $0.000020 | **1.12x** ($+12) | 1.35x |  | pumpswap | 2026-03-20 18:10 |
 | 🟡 FOID | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:53 |
 | 🟡 Solana | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:20 |
 | 🟡 NEURIX | $0.000151 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:54 |
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
 | 🟡 Dryer | $0.000016 | **1.75x** ($+75) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |
 | 🟡 LAYOFF | $0.000155 | **1.06x** ($+6) | 1.13x |  | pumpswap | 2026-03-20 15:16 |
-| 🟡 YEPE | $0.000101 | **1.44x** ($+44) | 1.68x |  | pumpswap | 2026-03-20 15:11 |
+| 🟡 YEPE | $0.000101 | **1.47x** ($+47) | 1.68x |  | pumpswap | 2026-03-20 15:11 |
 | 🔴 clod | $0.000024 | **1.00x** ($-0) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 Chuck | $0.000485 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
 | 🟡 Chuck | $0.000346 | **1.78x** ($+78) | 2.38x | ✅ | pumpswap | 2026-03-20 14:53 |
@@ -74,7 +74,6 @@
 | 🔴 TMRW | $0.000011 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:10 |
 | 🟡 Ham | $0.000035 | **1.16x** ($+16) | 1.97x |  | pumpswap | 2026-03-20 00:58 |
 | 🔴 ROME | $0.000010 | **0.64x** ($-36) | 1.52x |  | pumpswap | 2026-03-20 00:47 |
-| 🔴 NBR | $0.000093 | **0.81x** ($-19) | 1.12x |  | pumpswap | 2026-03-20 00:30 |
 | 🟢 Rocky | $0.000033 | **2.26x** ($+126) | 2.60x | ✅ | pumpswap | 2026-03-20 00:29 |
 | 🔴 CHIBI | $0.000067 | **0.86x** ($-14) | 1.18x |  | pumpswap | 2026-03-20 00:25 |
 | 🟡 Raccoon | $0.000011 | **1.13x** ($+13) | 1.49x |  | pumpswap | 2026-03-20 00:18 |
@@ -84,7 +83,7 @@
 | 🔴 DIVERGENT | $0.000007 | **0.60x** ($-40) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
 | 🟡 FML | $0.000196 | **1.27x** ($+27) | 1.51x |  | pumpswap | 2026-03-19 22:44 |
-| 🔴 BBX | $0.000434 | **0.85x** ($-15) | 1.55x |  | pumpswap | 2026-03-19 22:41 |
+| 🔴 BBX | $0.000434 | **0.83x** ($-17) | 1.55x |  | pumpswap | 2026-03-19 22:41 |
 | 🔴 RETURN | $0.000017 | **0.70x** ($-30) | 1.53x |  | pumpswap | 2026-03-19 22:34 |
 
 ## Closed Positions
@@ -100,6 +99,7 @@
 | 🔴 Solana | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 03:42 → 2026-03-20 15:07 |
 | 🔴 Dickus | 0.40x | $-60 | stop_loss | 1.12x | pumpswap | 2026-03-20 00:53 → 2026-03-20 01:54 |
 | 🟡 GPD | 1.46x | $+46 | trailing_stop_4x | 4.37x | pumpswap | 2026-03-20 00:41 → 2026-03-20 01:27 |
+| 🔴 NBR | 0.15x | $-85 | stop_loss | 1.12x | pumpswap | 2026-03-20 00:30 → 2026-03-20 18:16 |
 | 🔴 George | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-19 22:56 → 2026-03-20 08:02 |
 
 ---
