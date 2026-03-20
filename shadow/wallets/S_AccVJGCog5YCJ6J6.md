@@ -1,6 +1,6 @@
 # Wallet: `AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq`
 
-> [View on Solscan](https://solscan.io/account/AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq) | Updated: 2026-03-20 00:14 UTC
+> [View on Solscan](https://solscan.io/account/AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq) | Updated: 2026-03-20 00:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-6 |
-| 🏦 Total | **$-6** |
+| 📦 Unrealized | $+14 |
+| 🏦 Total | **$+14** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Pete | $0.000174 | **0.94x** ($-6) | 1.28x |  | pumpswap | 2026-03-19 22:55 |
+| 🟡 Pete | $0.000174 | **1.14x** ($+14) | 1.28x |  | pumpswap | 2026-03-19 22:55 |
 
 ## Closed Positions
 

@@ -1,16 +1,16 @@
-# Wallet: `8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx`
+# Wallet: `5ugQyf6niPqFqsaNUAiwE6AbDmrFyp2DmSZc7LHBudoC`
 
-> [View on Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-20 00:19 UTC
+> [View on Solscan](https://solscan.io/account/5ugQyf6niPqFqsaNUAiwE6AbDmrFyp2DmSZc7LHBudoC) | Updated: 2026-03-20 00:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-50 |
-| 🏦 Total | **$-50** |
+| 📦 Unrealized | $+13,409 |
+| 🏦 Total | **$+13,409** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Beecat | $0.000016 | **0.72x** ($-28) | 1.07x |  | pumpswap | 2026-03-19 23:09 |
-| 🔴 CIP | $0.000013 | **0.78x** ($-22) | 1.32x |  | pumpfun | 2026-03-19 22:39 |
+| 🚀 ELEPHANT | $0.000000 | **602.12x** ($+60,112) | 666.83x | ✅ | pumpswap | 2026-03-20 00:14 |
 
 ## Closed Positions
 

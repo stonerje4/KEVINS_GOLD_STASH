@@ -1,6 +1,6 @@
-# Wallet: `8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx`
+# Wallet: `6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE`
 
-> [View on Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-20 00:19 UTC
+> [View on Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-20 00:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-50 |
-| 🏦 Total | **$-50** |
+| 📦 Unrealized | $-12 |
+| 🏦 Total | **$-12** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Beecat | $0.000016 | **0.72x** ($-28) | 1.07x |  | pumpswap | 2026-03-19 23:09 |
-| 🔴 CIP | $0.000013 | **0.78x** ($-22) | 1.32x |  | pumpfun | 2026-03-19 22:39 |
+| 🟡 tinfoil | $0.000043 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 00:16 |
+| 🔴 Billy | $0.000014 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 00:15 |
 
 ## Closed Positions
 
