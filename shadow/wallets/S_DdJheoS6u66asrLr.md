@@ -9,16 +9,16 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+27 |
-| 🏦 Total | **$+27** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+28 |
+| 🏦 Total | **$+28** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBELON | $0.000150 | **1.10x** ($+10) | 1.67x |  | pumpswap | 2026-03-20 08:54 |
+| 🟡 CHIBELON | $0.000150 | **1.11x** ($+11) | 1.67x |  | pumpswap | 2026-03-20 08:54 |
 | 🔴 gugugaga | $0.000174 | **0.99x** ($-1) | 1.21x |  | pumpswap | 2026-03-20 00:42 |
 | 🟡 Pete | $0.000139 | **2.00x** ($+100) | 2.20x | ✅ | pumpswap | 2026-03-19 23:12 |
 | 🔴 Saleh | $0.000027 | **0.68x** ($-32) | 1.18x |  | pumpswap | 2026-03-19 22:49 |

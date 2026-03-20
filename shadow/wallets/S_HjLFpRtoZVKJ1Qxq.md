@@ -9,10 +9,10 @@
 | Positions | 111 (109 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-38 |
-| 🏦 Total | **$-175** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $-37 |
+| 🏦 Total | **$-174** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
@@ -40,7 +40,7 @@
 | 🟡 AIFRUITS | $0.000634 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:33 |
 | 🟡 abcdefg | $0.000945 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:27 |
 | 🟡 snowball | $0.000344 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 08:17 |
-| 🔴 Noesis | $0.000321 | **0.84x** ($-16) | 1.01x |  | pumpswap | 2026-03-20 07:55 |
+| 🔴 Noesis | $0.000321 | **0.86x** ($-14) | 1.01x |  | pumpswap | 2026-03-20 07:55 |
 | 🟡 OPTIMUS | $0.000016 | **1.04x** ($+4) | 1.10x |  | pumpswap | 2026-03-20 07:53 |
 | 🟡 NICK | $0.000029 | **1.03x** ($+3) | 1.17x |  | pumpswap | 2026-03-20 07:32 |
 | 🟡 WID | $0.000019 | **1.22x** ($+22) | 1.25x |  | pumpswap | 2026-03-20 07:27 |

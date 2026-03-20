@@ -1,6 +1,6 @@
-# Wallet: `3aUK8hnFCzU8XbUCyF4ZdntCUKU9t3UL3VraCHPBpatB`
+# Wallet: `8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4`
 
-> [View on Solscan](https://solscan.io/account/3aUK8hnFCzU8XbUCyF4ZdntCUKU9t3UL3VraCHPBpatB) | Updated: 2026-03-20 12:18 UTC
+> [View on Solscan](https://solscan.io/account/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | Updated: 2026-03-20 12:18 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-4** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 JupUSD | $0.036580 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:28 |
+| 🔴 Pixel | $0.000010 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 12:18 |
 
 ## Closed Positions
 

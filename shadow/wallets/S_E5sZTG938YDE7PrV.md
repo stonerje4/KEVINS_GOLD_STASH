@@ -9,17 +9,17 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-75 |
+| 📦 Unrealized | $-76 |
 | 🏦 Total | **$-136** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Gizmo | $0.000007 | **0.54x** ($-46) | 1.11x |  | pumpswap | 2026-03-20 06:52 |
-| 🔴 Doomer | $0.000004 | **0.75x** ($-25) | 1.11x |  | pumpswap | 2026-03-20 06:33 |
+| 🔴 Doomer | $0.000004 | **0.74x** ($-26) | 1.11x |  | pumpswap | 2026-03-20 06:33 |
 | 🔴 Gizmo | $0.000009 | **0.96x** ($-4) | 1.25x |  | pumpfun | 2026-03-20 05:59 |
 | 🟡 Freebuff | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:27 |
 

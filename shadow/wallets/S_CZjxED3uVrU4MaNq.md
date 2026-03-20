@@ -11,14 +11,14 @@
 | 💵 Realized | $+196 |
 | 📦 Unrealized | $+75 |
 | 🏦 Total | **$+271** |
-| Best Trade | 3.0x |
-| Avg Peak | 5.4x |
+| Best ROI | 2.96x |
+| Avg ROI | 2.96x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBI | $0.000011 | **1.03x** ($+3) | 1.89x |  | pumpfun | 2026-03-20 10:36 |
+| 🟡 CHIBI | $0.000011 | **1.02x** ($+2) | 1.89x |  | pumpfun | 2026-03-20 10:36 |
 | 🟡 Bispider | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:53 |
 | 🟡 BISPIDER | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:51 |
 | 🟡 Zhdun | $0.000020 | **1.85x** ($+85) | 1.85x |  | pumpfun | 2026-03-20 08:55 |
