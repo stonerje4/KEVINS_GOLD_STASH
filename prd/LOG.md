@@ -1,9 +1,10 @@
 # PRD Trade Log
 
-*Last updated: 2026-03-20 14:30 UTC*
+*Last updated: 2026-03-20 14:35 UTC*
 
 | Time | Type | Token | Wallet | SOL | Gas | Mult | Reason | TX |
 |------|------|-------|--------|-----|-----|------|--------|----|
+| 2026-03-20 14:32 | 🟢 buy | Hot | `ApkQGKbq8dRw...` | 0.110 | 0.0050 | — | cielo_copy:ApkQGKbq8dRw5ha9n2bg | [tx](https://solscan.io/tx/4wK78yzEJGfnY8QYH2qwzVwxVCSFHjBvgrHZtMkKeQCF7NCjp9vZAUwij4HAyRxMgSmneyW3m8kCbu96127P9kL9) |
 | 2026-03-20 14:27 | 🟢 buy | PRINCIPLES | `E79aNzAkDa92...` | 0.110 | 0.0050 | — | cielo_copy:E79aNzAkDa92b5bnBHED | [tx](https://solscan.io/tx/3ZD2sELYT1LVW9W28p8ym2AYH9pQQo3sUSePpwJRuonAUDwXuSi7zcee55VFkbcxHNShLQFux8rUoAHpwPSNR191) |
 | 2026-03-20 14:24 | 🟢 buy | CHUCK | `2w85VLX4W4qm...` | 0.110 | 0.0050 | — | cielo_copy:2w85VLX4W4qm8SPS7UJ3 | [tx](https://solscan.io/tx/4Mdyf1vu3frDBc7jHRYKFmLNzwR6ASgEX6LHAUqf6SHMiFQfyCSs1ixb2QxNZmogKrLhpYpEBbpA5aWWwu4PTJLB) |
 | 2026-03-20 14:22 | 🔴 sell | NOR | `2w85VLX4W4qm...` | 0.043 | — | 0.4x | stop_loss | [tx](https://solscan.io/tx/3uStvRegDJdxtquobuh54imG2oq2Z1nJ35zjKscqbdxAiMSpjvZxFw5zbFRFvBtRunTJnXLMVocT1bb69KcwCPGH) |
@@ -203,4 +204,3 @@
 | 2026-03-18 22:21 | 🔴 sell | FOOL | `HMM6RoT2Xo3B...` | 0.412 | 0.0000 | 0.8x | runner_trailing_stop | [tx](https://solscan.io/tx/4ippeMuPocvafxuyBK2pZXYkSHkQeRncppfFFqjygqwS8KikUFxmLCTLXZJ9aQEFRpsDSzWoAC47vMLXZNdjZa14) |
 | 2026-03-18 22:19 | 🔴 sell | Pumpfun | `J5jm7BnBiGaB...` | 0.179 | 0.0005 | 0.4x | stop_loss | [tx](https://solscan.io/tx/2NWHwr7Fz1by6tAvtxqmfmT3aJtbzCobdDPztJ6ZAB6SzozEsryJQhmKb3hgiLxhYYZVkPmrcPqY7Jbcu1kg2nUT) |
 | 2026-03-18 22:11 | 🟢 buy | KAT | `6raSuhfig5Y1...` | 0.500 | 0.0050 | — | cielo_copy:6raSuhfig5Y1vZJxrg9z | [tx](https://solscan.io/tx/5zxV7QprEa6ueNUid4N1vbtsjYoYJBiZu7NPmFHcSCgH3yZWip3NndH4vPTkFSTsgmxAUBg6ngvvQb255qAmZe2t) |
-| 2026-03-18 22:09 | 🟢 buy | Manchas | `J5jm7BnBiGaB...` | 0.500 | 0.0000 | — | cielo_copy:J5jm7BnBiGaB1x72FGNH | [tx](https://solscan.io/tx/34CfjNrgEnYBGKsbq17M7Efe5fN4uuD7TiFr47LxJjQi3C3R4yYVJPuBvsoPu5SKEKxacUfGEbNjrRHAU1dfLxz5) |

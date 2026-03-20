@@ -1,5 +1,11 @@
 # [PRD] `ApkQGKbq8dRw5ha9...`
-> 2026-03-20 14:30 UTC | **3** pos | **1W/2L** | P&L: **+1.091333 SOL** (+72.8%) | 0 open
+> 2026-03-20 14:35 UTC | **4** pos | **1W/2L** | P&L: **+1.091333 SOL** (+72.8%) | 1 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| Hot | 03-20 14:32 | 0.00x | 1.22x | 0.0h | 0.1100 |
 
 ## Closed
 
@@ -13,6 +19,7 @@
 
 | Time | Token | Action | SOL | TX |
 |------|-------|--------|-----|----|
+| 03-20 14:32 | Hot | BUY | 0.1100 | `4wK78yzEJGfnY8QY...` |
 | 03-19 13:29 | MPP | SELL | 0.2067 | `3DQmeQmrnZeTaXPB...` |
 | 03-19 05:47 | MPP | BUY | 0.5000 | `5EZtGp4XR9ZoDjzm...` |
 | 03-19 04:01 | XENOGEN | SELL | 0.1790 | `39ThpvK9Ku3va5nA...` |
