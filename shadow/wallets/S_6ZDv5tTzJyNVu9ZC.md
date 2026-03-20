@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 186 (184 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+375 |
-| 🏦 Total | **$+508** |
-| Best Trade | 2.9x |
-| Avg Peak | 5.4x |
+| 📦 Unrealized | $+374 |
+| 🏦 Total | **$+507** |
+| Best ROI | 2.95x |
+| Avg ROI | 1.67x |
 
 ## Open Positions
 
@@ -68,7 +68,7 @@
 | 🔴 F4LC0N | $0.000007 | **0.96x** ($-4) | 1.16x |  | pumpswap | 2026-03-20 05:51 |
 | 🟡 ballsack | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:48 |
 | 🟡 HENRY | $0.000105 | **1.04x** ($+4) | 1.11x |  | pumpswap | 2026-03-20 05:47 |
-| 🟡 INCOME | $0.000571 | **1.01x** ($+1) | 1.12x |  | pumpswap | 2026-03-20 05:35 |
+| 🔴 INCOME | $0.000571 | **1.00x** ($-0) | 1.12x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 ACT: S | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 Pete | $0.000113 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🔴 WhiteHouse | $0.000338 | **0.93x** ($-7) | 1.10x |  | pumpswap | 2026-03-20 05:29 |

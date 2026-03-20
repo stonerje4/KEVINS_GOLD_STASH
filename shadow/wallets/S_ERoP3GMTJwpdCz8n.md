@@ -1,6 +1,6 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-12 |
 | 📦 Unrealized | $-95 |
 | 🏦 Total | **$-106** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.4x |
+| Best ROI | 1.49x |
+| Avg ROI | 0.94x |
 
 ## Open Positions
 

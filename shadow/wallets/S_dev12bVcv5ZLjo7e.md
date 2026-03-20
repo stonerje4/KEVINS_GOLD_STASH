@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+30 |
 | 📦 Unrealized | $+47 |
 | 🏦 Total | **$+77** |
-| Best Trade | 1.5x |
-| Avg Peak | 3.1x |
+| Best ROI | 1.45x |
+| Avg ROI | 1.15x |
 
 ## Open Positions
 

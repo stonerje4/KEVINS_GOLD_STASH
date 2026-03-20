@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-401 |
 | 📦 Unrealized | $+241 |
 | 🏦 Total | **$-160** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.0x |
+| Best ROI | 1.47x |
+| Avg ROI | 0.64x |
 
 ## Open Positions
 

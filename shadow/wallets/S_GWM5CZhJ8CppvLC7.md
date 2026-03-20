@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-77 |
 | 📦 Unrealized | $-35 |
 | 🏦 Total | **$-112** |
-| Best Trade | 0.2x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.23x |
+| Avg ROI | 0.23x |
 
 ## Open Positions
 
@@ -33,7 +33,7 @@
 | 🔴 George | $0.000020 | **0.47x** ($-53) | 1.12x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 IMAGINE | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:26 |
 | 🔴 Tastecoin | $0.000191 | **0.78x** ($-22) | 1.22x |  | pumpswap | 2026-03-20 06:15 |
-| 🟡 INCOME | $0.000549 | **1.05x** ($+5) | 1.16x |  | pumpswap | 2026-03-20 05:48 |
+| 🟡 INCOME | $0.000549 | **1.04x** ($+4) | 1.16x |  | pumpswap | 2026-03-20 05:48 |
 | 🟡 DRIVE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:42 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:28 |
 | 🟡 Goose | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
@@ -45,7 +45,7 @@
 | 🟡 CHOPPER | $0.000025 | **1.26x** ($+26) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 Punch | $0.014730 | **1.05x** ($+5) | 1.16x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Spiderman | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:42 |
-| 🟡 YEPE | $0.000092 | **1.43x** ($+43) | 1.70x |  | pumpswap | 2026-03-20 04:40 |
+| 🟡 YEPE | $0.000092 | **1.44x** ($+44) | 1.70x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:14 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |

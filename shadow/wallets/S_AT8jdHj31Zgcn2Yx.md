@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 126 (99 open, 27 closed) |
 | W/L | 3/24 (11%) |
 | 💵 Realized | $+2,155 |
-| 📦 Unrealized | $+108 |
-| 🏦 Total | **$+2,263** |
-| Best Trade | 24.9x |
-| Avg Peak | 4.9x |
+| 📦 Unrealized | $+105 |
+| 🏦 Total | **$+2,259** |
+| Best ROI | 24.90x |
+| Avg ROI | 1.80x |
 
 ## Open Positions
 
@@ -39,7 +39,7 @@
 | 🟡 CHIBIELON | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:39 |
 | 🟡 OLAF | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 POLSIA | $0.000108 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:00 |
-| 🟡 CHIBELON | $0.000132 | **1.52x** ($+52) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
+| 🟡 CHIBELON | $0.000132 | **1.49x** ($+49) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 DIRECTOR | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 TTT | $0.000123 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 07:58 |
 | 🔴 Noesis | $0.000315 | **0.79x** ($-21) | 1.03x |  | pumpswap | 2026-03-20 07:55 |

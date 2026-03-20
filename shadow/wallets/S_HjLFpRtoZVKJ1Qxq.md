@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 107 (105 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-46 |
-| 🏦 Total | **$-183** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $-47 |
+| 🏦 Total | **$-184** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
@@ -46,7 +46,7 @@
 | 🟡 PYRO | $0.000034 | **1.15x** ($+15) | 1.19x |  | pumpswap | 2026-03-20 06:47 |
 | 🟡 MECHA | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:00 |
 | 🔴 mogging | $0.000046 | **0.98x** ($-2) | 1.06x |  | pumpswap | 2026-03-20 05:59 |
-| 🔴 LOL | $0.000083 | **0.96x** ($-4) | 1.07x |  | pumpswap | 2026-03-20 05:53 |
+| 🔴 LOL | $0.000083 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 RENTAI | $0.000094 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🟡 Rosie | $0.000800 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 SOS | $0.000870 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 05:29 |
@@ -112,7 +112,7 @@
 | 🔴 Life | $0.000182 | **0.84x** ($-16) | 1.06x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 ACV | $0.000002 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 5 | $0.000011 | **0.84x** ($-16) | 1.06x |  | pumpswap | 2026-03-19 23:36 |
-| 🔴 INCOME | $0.000640 | **0.90x** ($-10) | 1.14x |  | pumpswap | 2026-03-19 23:35 |
+| 🔴 INCOME | $0.000640 | **0.89x** ($-11) | 1.14x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 HEY | $0.000738 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 wid | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 Barron | $0.000016 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-19 23:23 |

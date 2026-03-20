@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 127 (122 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-218 |
-| 📦 Unrealized | $+131 |
-| 🏦 Total | **$-87** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.5x |
+| 📦 Unrealized | $+128 |
+| 🏦 Total | **$-90** |
+| Best ROI | 1.48x |
+| Avg ROI | 0.56x |
 
 ## Open Positions
 
@@ -25,7 +25,7 @@
 | 🟡 IMAGINE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:15 |
 | 🔴 CRABBO | $0.000142 | **0.95x** ($-5) | 1.32x |  | pumpswap | 2026-03-20 10:02 |
 | 🟡 Pixels | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:55 |
-| 🟡 CHIBELON | $0.000110 | **1.83x** ($+83) | 2.29x | ✅ | pumpswap | 2026-03-20 09:32 |
+| 🟡 CHIBELON | $0.000110 | **1.80x** ($+80) | 2.29x | ✅ | pumpswap | 2026-03-20 09:32 |
 | 🟡 MONA | $0.000060 | **1.05x** ($+5) | 1.29x |  | pumpswap | 2026-03-20 08:47 |
 | 🔴 AVATAR | $0.000017 | **0.49x** ($-51) | 1.46x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 Optimistic | $0.000420 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:15 |
@@ -46,7 +46,7 @@
 | 🔴 Tastecoin | $0.000189 | **0.79x** ($-21) | 1.23x |  | pumpswap | 2026-03-20 06:15 |
 | 🟡 LULU | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
 | 🟡 DICKUS | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |
-| 🟡 INCOME | $0.000572 | **1.01x** ($+1) | 1.12x |  | pumpswap | 2026-03-20 05:35 |
+| 🔴 INCOME | $0.000572 | **1.00x** ($-0) | 1.12x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 Goose | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
 | 🟡 Clude | $0.001321 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
 | 🔴 WhiteHouse | $0.000358 | **0.88x** ($-12) | 1.04x |  | pumpswap | 2026-03-20 05:10 |

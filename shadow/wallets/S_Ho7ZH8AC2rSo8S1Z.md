@@ -1,6 +1,6 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [View on Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 12 (10 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-110** |
-| Best Trade | 0.8x |
-| Avg Peak | 1.7x |
+| 📦 Unrealized | $-43 |
+| 🏦 Total | **$-119** |
+| Best ROI | 0.85x |
+| Avg ROI | 0.62x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ChibiTrump | $0.000029 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 11:02 |
-| 🟡 Doolysaurus | $0.000022 | **1.11x** ($+11) | 1.34x |  | pumpfun | 2026-03-20 11:00 |
+| 🔴 ChibiTrump | $0.000029 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 11:02 |
+| 🟡 Doolysaurus | $0.000022 | **1.06x** ($+6) | 1.34x |  | pumpfun | 2026-03-20 11:00 |
 | 🔴 CHIBI | $0.000016 | **0.77x** ($-23) | 1.31x |  | pumpfun | 2026-03-20 10:40 |
 | 🟡 Chibtardio | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:20 |
 | 🔴 JUMP | $0.000018 | **0.75x** ($-25) | 1.74x |  | pumpfun | 2026-03-20 02:01 |

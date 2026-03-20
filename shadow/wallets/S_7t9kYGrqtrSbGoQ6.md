@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 279 (275 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
-| 📦 Unrealized | $+157 |
-| 🏦 Total | **$+152** |
-| Best Trade | 3.0x |
-| Avg Peak | 2.7x |
+| 📦 Unrealized | $+155 |
+| 🏦 Total | **$+151** |
+| Best ROI | 3.00x |
+| Avg ROI | 0.99x |
 
 ## Open Positions
 
@@ -92,7 +92,7 @@
 | 🔴 Doom | $0.000071 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 05:34 |
 | 🟡 SOS | $0.000864 | **1.23x** ($+23) | 1.23x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 GIGACHAD | $0.000006 | **1.26x** ($+26) | 2.29x | ✅ | pumpswap | 2026-03-20 05:19 |
-| 🔴 WhiteHouse | $0.000365 | **0.86x** ($-14) | 1.02x |  | pumpswap | 2026-03-20 05:10 |
+| 🔴 WhiteHouse | $0.000365 | **0.87x** ($-13) | 1.02x |  | pumpswap | 2026-03-20 05:10 |
 | 🟡 shitcoin | $0.000072 | **1.11x** ($+11) | 1.15x |  | pumpswap | 2026-03-20 05:10 |
 | 🟡 Strawberita | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:03 |
 | 🟡 X | $0.000156 | **1.04x** ($+4) | 1.11x |  | pumpswap | 2026-03-20 05:02 |
@@ -105,7 +105,7 @@
 | 🟡 Pete | $0.000198 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 ACT: S | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:29 |
 | 🟡 CHIBI | $0.000058 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:16 |
-| 🟡 比比拉布 | $0.000099 | **1.06x** ($+6) | 1.25x |  | pumpswap | 2026-03-20 04:16 |
+| 🟡 比比拉布 | $0.000099 | **1.05x** ($+5) | 1.25x |  | pumpswap | 2026-03-20 04:16 |
 | 🟡 BIG | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:15 |
 | 🟡 ROME | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:13 |
 | 🟡 OIL | $0.000068 | **1.26x** ($+26) | 1.28x |  | pumpswap | 2026-03-20 04:08 |

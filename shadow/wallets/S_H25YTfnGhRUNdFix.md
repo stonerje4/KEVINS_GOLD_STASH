@@ -1,6 +1,6 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-23 |
-| 🏦 Total | **$-23** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-22** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 401k | $0.000008 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 08:48 |
+| 🔴 401k | $0.000008 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 08:48 |
 | 🔴 HUNT | $0.000003 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 08:41 |
 | 🔴 ONSING | $0.000009 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 08:00 |
 | 🟡 AUTISM | $0.000188 | **1.11x** ($+11) | 1.12x |  | pumpswap | 2026-03-20 07:43 |

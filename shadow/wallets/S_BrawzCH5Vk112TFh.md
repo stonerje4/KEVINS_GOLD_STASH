@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 11:22 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 11:23 UTC
 
 ## Summary
 
@@ -10,9 +10,9 @@
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+17 |
 | 📦 Unrealized | $-23 |
-| 🏦 Total | **$-6** |
-| Best Trade | 3.0x |
-| Avg Peak | 3.4x |
+| 🏦 Total | **$-7** |
+| Best ROI | 2.99x |
+| Avg ROI | 1.04x |
 
 ## Open Positions
 
@@ -75,7 +75,7 @@
 | 🟡 HENRY | $0.000104 | **1.05x** ($+5) | 1.11x |  | pumpswap | 2026-03-20 05:47 |
 | 🔴 DAKY | $0.000003 | **0.93x** ($-7) | 1.00x |  | cpmm | 2026-03-20 05:39 |
 | 🔴 TeraFab | $0.000053 | **0.89x** ($-11) | 1.13x |  | pumpswap | 2026-03-20 05:37 |
-| 🟡 INCOME | $0.000571 | **1.01x** ($+1) | 1.12x |  | pumpswap | 2026-03-20 05:35 |
+| 🟡 INCOME | $0.000571 | **1.00x** ($+0) | 1.12x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 ACT: S | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |
 | 🔴 STAR | $0.000019 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 05:34 |
 | 🔴 HUMANS | $0.000005 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
