@@ -1,6 +1,6 @@
 # Wallet: `DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V`
 
-> [GMGN](https://gmgn.ai/sol/address/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | [Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-20 21:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | [Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-20 21:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-57 |
-| 🏦 Total | **$-57** |
+| 📦 Unrealized | $-62 |
+| 🏦 Total | **$-62** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 sheep | $0.000015 | **0.96x** ($-4) | 1.54x |  | pumpfun | 2026-03-20 18:12 |
-| 🔴 Saleh | $0.000027 | **0.47x** ($-53) | 1.18x |  | pumpswap | 2026-03-19 22:49 |
+| 🔴 sheep | $0.000015 | **0.92x** ($-8) | 1.54x |  | pumpfun | 2026-03-20 18:12 |
+| 🔴 Saleh | $0.000027 | **0.46x** ($-54) | 1.18x |  | pumpswap | 2026-03-19 22:49 |
 
 ## Closed Positions
 

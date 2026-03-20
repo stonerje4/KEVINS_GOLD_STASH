@@ -1,6 +1,6 @@
 # Wallet: `Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL`
 
-> [GMGN](https://gmgn.ai/sol/address/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | [Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 21:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | [Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 21:25 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 10 (6 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-213 |
-| 📦 Unrealized | $+44 |
+| 📦 Unrealized | $+43 |
 | 🏦 Total | **$-169** |
 | Best ROI | 0.69x |
 | Avg ROI | 0.47x |
@@ -23,7 +23,7 @@
 | 🟡 4kZQPNoq | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:29 |
 | 🟡 INCOME | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:07 |
 | 🔴 jDCdHPgk | $0.000006 | **0.46x** ($-54) | 1.98x |  | pumpfun | 2026-03-20 09:04 |
-| 🟢 Income | $0.000006 | **4.57x** ($+357) | 4.68x | ✅ | pumpfun | 2026-03-20 09:03 |
+| 🟢 Income | $0.000006 | **4.56x** ($+356) | 4.68x | ✅ | pumpfun | 2026-03-20 09:03 |
 
 ## Closed Positions
 

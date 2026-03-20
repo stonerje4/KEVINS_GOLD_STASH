@@ -1,6 +1,6 @@
 # Wallet: `EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ`
 
-> [GMGN](https://gmgn.ai/sol/address/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | [Solscan](https://solscan.io/account/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | Updated: 2026-03-20 21:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | [Solscan](https://solscan.io/account/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | Updated: 2026-03-20 21:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-4 |
-| 🏦 Total | **$-4** |
+| 📦 Unrealized | $-25 |
+| 🏦 Total | **$-25** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 IShowSpeed | $0.000020 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 19:33 |
-| 🟡 Meow | $0.000021 | **1.17x** ($+17) | 1.78x |  | pumpfun | 2026-03-20 17:52 |
+| 🔴 Meow | $0.000021 | **0.96x** ($-4) | 1.78x |  | pumpfun | 2026-03-20 17:52 |
 | 🟡 Zhdun | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:10 |
 
 ## Closed Positions

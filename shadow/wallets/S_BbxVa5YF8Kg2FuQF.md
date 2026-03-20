@@ -1,33 +1,33 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 21:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 21:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (5 open, 7 closed) |
-| W/L | 1/6 (14%) |
-| 💵 Realized | $-172 |
-| 📦 Unrealized | $+58 |
-| 🏦 Total | **$-114** |
+| Positions | 12 (4 open, 8 closed) |
+| W/L | 1/7 (12%) |
+| 💵 Realized | $-232 |
+| 📦 Unrealized | $+98 |
+| 🏦 Total | **$-133** |
 | Best ROI | 2.95x |
-| Avg ROI | 0.75x |
+| Avg ROI | 0.71x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 EVERYTHING | $0.000023 | **0.57x** ($-43) | 1.13x |  | pumpfun | 2026-03-20 20:55 |
 | 🟡 JUMP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:37 |
 | 🟢 Patience | $0.000017 | **2.11x** ($+111) | 2.11x | ✅ | pumpfun | 2026-03-20 03:14 |
 | 🟡 BDxAH4ix | $0.000020 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 00:02 |
-| 🔴 Saleh | $0.000020 | **0.63x** ($-37) | 1.14x |  | pumpswap | 2026-03-20 00:00 |
+| 🔴 Saleh | $0.000020 | **0.62x** ($-38) | 1.14x |  | pumpswap | 2026-03-20 00:00 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 EVERYTHING | 0.40x | $-60 | stop_loss | 1.13x | pumpfun | 2026-03-20 20:55 → 2026-03-20 21:24 |
 | 🔴 51u3kX9N | 0.39x | $-61 | stop_loss | 1.17x | pumpfun | 2026-03-20 17:36 → 2026-03-20 17:43 |
 | 🔴 HELLO | 0.40x | $-60 | stop_loss | 1.18x | pumpfun | 2026-03-20 16:02 → 2026-03-20 16:10 |
 | 🔴 TEAROOM | 0.39x | $-61 | stop_loss | 1.56x | pumpfun | 2026-03-20 14:53 → 2026-03-20 14:58 |
