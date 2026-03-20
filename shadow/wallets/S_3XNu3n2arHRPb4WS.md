@@ -1,26 +1,25 @@
 # Wallet: `3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF`
 
-> [View on Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 07:20 UTC
+> [View on Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 07:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-113 |
-| 🏦 Total | **$-113** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 5 (4 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
+| 📦 Unrealized | $-77 |
+| 🏦 Total | **$-137** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AVATAR | $0.000063 | **0.75x** ($-25) | 1.03x |  | pumpswap | 2026-03-20 07:12 |
+| 🔴 AVATAR | $0.000063 | **0.52x** ($-48) | 1.03x |  | pumpswap | 2026-03-20 07:12 |
 | 🟡 電王 | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:29 |
-| 🔴 Floki | $0.000041 | **0.42x** ($-58) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
 | 🔴 RIPCHUCK | $0.000011 | **0.71x** ($-29) | 1.03x |  | pumpfun | 2026-03-20 06:08 |
 | 🟡 MOCHI | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:46 |
 
@@ -28,6 +27,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Floki | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:28 → 2026-03-20 07:24 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

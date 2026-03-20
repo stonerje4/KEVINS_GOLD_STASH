@@ -1,24 +1,23 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 07:20 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 07:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 54 (38 open, 16 closed) |
-| W/L | 3/13 (19%) |
-| 💵 Realized | $-498 |
-| 📦 Unrealized | $-796 |
-| 🏦 Total | **$-1,294** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.9x |
+| Positions | 54 (36 open, 18 closed) |
+| W/L | 4/14 (22%) |
+| 💵 Realized | $-361 |
+| 📦 Unrealized | $-864 |
+| 🏦 Total | **$-1,225** |
+| Best Trade | 3.0x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AVATAR | $0.000072 | **0.65x** ($-35) | 1.07x |  | pumpswap | 2026-03-20 07:03 |
 | 🟡 Pixels | $0.000026 | **1.42x** ($+42) | 1.42x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 Otocolobus | $0.000004 | **0.61x** ($-39) | 1.32x |  | pumpfun | 2026-03-20 06:49 |
@@ -34,7 +33,6 @@
 | 🔴 5ju6JsxF | $0.000005 | **0.51x** ($-49) | 1.37x |  | pumpfun | 2026-03-20 05:42 |
 | 🔴 horse | $0.000003 | **0.86x** ($-14) | 1.05x |  | pumpfun | 2026-03-20 05:40 |
 | 🔴 hopecore | $0.000004 | **0.59x** ($-41) | 1.02x |  | pumpfun | 2026-03-20 05:20 |
-| 🟢 Fk6LNJWo | $0.000004 | **4.03x** ($+303) | 5.04x | ✅ | pumpfun | 2026-03-20 05:17 |
 | 🔴 GnT2LQRZ | $0.000003 | **0.76x** ($-24) | 1.35x |  | pumpfun | 2026-03-20 05:02 |
 | 🟡 94S763Nm | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.62x** ($-38) | 1.43x |  | pumpfun | 2026-03-20 04:14 |
@@ -61,10 +59,12 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.07x | pumpswap | 2026-03-20 07:03 → 2026-03-20 07:25 |
 | 🔴 7DMq1AbA | 0.75x | $-25 | trailing_stop_2x | 2.03x | pumpfun | 2026-03-20 06:35 → 2026-03-20 06:43 |
 | 🟡 AVATAR | 1.36x | $+36 | trailing_stop_3x | 3.12x | pumpswap | 2026-03-20 06:20 → 2026-03-20 06:41 |
 | 🔴 startpup | 0.40x | $-60 | stop_loss | 1.20x | pumpfun | 2026-03-20 06:01 → 2026-03-20 06:20 |
 | 🔴 Hoverboard | 0.36x | $-64 | stop_loss | 1.36x | pumpfun | 2026-03-20 05:33 → 2026-03-20 05:39 |
+| 🟢 Fk6LNJWo | 2.98x | $+198 | trailing_stop_5x | 5.04x | pumpfun | 2026-03-20 05:17 → 2026-03-20 07:22 |
 | 🔴 Bcx1k6h8 | 0.40x | $-60 | stop_loss | 1.17x | pumpfun | 2026-03-20 05:15 → 2026-03-20 05:17 |
 | 🔴 MEMEFRONT | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:13 |
 | 🔴 Sublime | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:04 → 2026-03-20 05:05 |

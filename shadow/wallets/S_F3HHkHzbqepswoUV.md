@@ -1,24 +1,24 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 07:20 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 07:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (22 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+221 |
-| 🏦 Total | **$+221** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 23 (22 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-25 |
+| 📦 Unrealized | $+160 |
+| 🏦 Total | **$+135** |
+| Best Trade | 0.7x |
+| Avg Peak | 5.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 EK2BE2UC | $0.000004 | **3.91x** ($+291) | 4.40x | ✅ | pumpfun | 2026-03-20 07:17 |
+| 🟡 awkward | $0.000021 | **1.56x** ($+56) | 1.64x |  | pumpfun | 2026-03-20 07:21 |
 | 🔴 jerk | $0.000004 | **0.63x** ($-37) | 1.65x |  | pumpfun | 2026-03-20 06:35 |
 | 🔴 TD9FQMu7 | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 05:42 |
 | 🔴 NBR | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 05:40 |
@@ -45,6 +45,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 EK2BE2UC | 0.75x | $-25 | trailing_stop_5x | 5.03x | pumpfun | 2026-03-20 07:17 → 2026-03-20 07:21 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
