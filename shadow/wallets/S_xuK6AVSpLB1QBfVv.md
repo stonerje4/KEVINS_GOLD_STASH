@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 04:14 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 04:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 34 (34 open, 0 closed) |
+| Positions | 35 (35 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-19** |
+| 📦 Unrealized | $-25 |
+| 🏦 Total | **$-25** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,11 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 EftNvqrA | $0.000003 | **0.81x** ($-19) | 1.19x |  | pumpfun | 2026-03-20 04:05 |
+| 🔴 NOBODY | $0.000003 | **0.88x** ($-12) | 1.06x |  | pumpfun | 2026-03-20 04:18 |
+| 🔴 EftNvqrA | $0.000003 | **0.80x** ($-20) | 1.19x |  | pumpfun | 2026-03-20 04:05 |
 | 🟡 Yuki-chan | $0.000003 | **1.12x** ($+12) | 1.26x |  | pumpfun | 2026-03-20 04:00 |
 | 🔴 NoScam | $0.000003 | **0.81x** ($-19) | 1.17x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 Income | $0.000003 | **0.82x** ($-18) | 1.20x |  | pumpfun | 2026-03-20 03:29 |
-| 🟢 Nonchalant | $0.000003 | **4.89x** ($+389) | 5.60x | ✅ | pumpfun | 2026-03-20 03:18 |
+| 🚀 Nonchalant | $0.000003 | **5.11x** ($+411) | 5.60x | ✅ | pumpfun | 2026-03-20 03:18 |
 | 🔴 KIIUS | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 03:16 |
 | 🔴 Nonchalant | $0.000003 | **0.96x** ($-4) | 1.12x |  | pumpfun | 2026-03-20 02:50 |
 | 🔴 pepe | $0.000003 | **0.91x** ($-9) | 1.14x |  | pumpfun | 2026-03-20 02:44 |

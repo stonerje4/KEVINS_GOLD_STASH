@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 04:14 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 04:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 28 (23 open, 5 closed) |
+| Positions | 29 (24 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-208 |
-| 📦 Unrealized | $-259 |
-| 🏦 Total | **$-467** |
+| 📦 Unrealized | $-284 |
+| 🏦 Total | **$-492** |
 | Best Trade | 1.4x |
 | Avg Peak | 1.9x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Cffkpxmi | $0.000004 | **1.13x** ($+13) | 1.54x |  | pumpfun | 2026-03-20 04:14 |
-| 🟡 CUTIS | $0.000009 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 04:10 |
-| 🔴 Arc | $0.000003 | **0.81x** ($-19) | 1.95x |  | pumpfun | 2026-03-20 04:07 |
+| 🟢 9yxNfMaA | $0.000004 | **2.03x** ($+103) | 2.13x | ✅ | pumpfun | 2026-03-20 04:16 |
+| 🔴 Cffkpxmi | $0.000004 | **0.67x** ($-33) | 1.54x |  | pumpfun | 2026-03-20 04:14 |
+| 🔴 CUTIS | $0.000009 | **0.93x** ($-7) | 1.37x |  | pumpfun | 2026-03-20 04:10 |
+| 🔴 Arc | $0.000003 | **0.75x** ($-25) | 1.95x |  | pumpfun | 2026-03-20 04:07 |
 | 🔴 AGzUnMmR | $0.000005 | **0.54x** ($-46) | 1.77x |  | pumpfun | 2026-03-20 03:55 |
 | 🟢 Jeremy | $0.000008 | **4.78x** ($+378) | 4.78x | ✅ | pumpfun | 2026-03-20 03:51 |
 | 🔴 HHxWiMez | $0.000005 | **0.46x** ($-54) | 1.27x |  | pumpfun | 2026-03-20 03:49 |

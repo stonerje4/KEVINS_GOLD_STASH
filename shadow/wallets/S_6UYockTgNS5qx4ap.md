@@ -1,24 +1,23 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 04:14 UTC
+> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 04:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (17 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+5 |
-| 🏦 Total | **$+5** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 17 (16 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-63 |
+| 📦 Unrealized | $-25 |
+| 🏦 Total | **$-88** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 USFC | $0.000007 | **1.30x** ($+30) | 1.32x |  | pumpfun | 2026-03-20 04:12 |
 | 🔴 屁合戦 | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 03:33 |
 | 🟡 ARIA | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:59 |
 | 🟡 JupUSD | $0.044639 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:59 |
@@ -40,6 +39,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 USFC | 0.37x | $-63 | stop_loss | 1.38x | pumpfun | 2026-03-20 04:12 → 2026-03-20 04:19 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,6 +1,6 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 04:14 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 04:19 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PUPPY | $0.000004 | **0.70x** ($-30) | 1.03x |  | pumpfun | 2026-03-20 04:06 |
+| 🔴 PUPPY | $0.000004 | **0.69x** ($-31) | 1.03x |  | pumpfun | 2026-03-20 04:06 |
 | 🔴 EgLt9QYS | $0.000004 | **0.67x** ($-33) | 1.17x |  | pumpfun | 2026-03-20 04:03 |
 | 🔴 twump | $0.000004 | **0.70x** ($-30) | 1.20x |  | pumpfun | 2026-03-20 03:02 |
 | 🟡 Skynet | $0.000004 | **1.33x** ($+33) | 1.33x |  | pumpswap | 2026-03-20 02:46 |
