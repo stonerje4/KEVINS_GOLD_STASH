@@ -1,6 +1,6 @@
 # Wallet: `Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E`
 
-> [View on Solscan](https://solscan.io/account/Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E) | Updated: 2026-03-20 12:29 UTC
+> [View on Solscan](https://solscan.io/account/Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E) | Updated: 2026-03-20 12:33 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+21 |
-| 🏦 Total | **$+21** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+16 |
+| 🏦 Total | **$+16** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🟡 CTRUMP | $0.000003 | **1.02x** ($+2) | 1.48x |  | pumpfun | 2026-03-20 10:16 |
 | 🟡 CHIBIMINAJ | $0.000006 | **1.17x** ($+17) | 1.53x |  | pumpfun | 2026-03-20 05:17 |
 | 🟡 IMAGINE | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:03 |
-| 🟡 HUGH | $0.000003 | **1.04x** ($+4) | 1.64x |  | pumpfun | 2026-03-20 05:01 |
+| 🔴 HUGH | $0.000003 | **0.99x** ($-1) | 1.64x |  | pumpfun | 2026-03-20 05:01 |
 | 🔴 RYS | $0.000351 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 22:50 |
 
 ## Closed Positions

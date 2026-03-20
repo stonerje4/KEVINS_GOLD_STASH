@@ -1,23 +1,24 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 12:29 UTC
+> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 12:33 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (28 open, 4 closed) |
+| Positions | 33 (29 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-115 |
-| 📦 Unrealized | $+5 |
-| 🏦 Total | **$-110** |
-| Best ROI | 0.84x |
-| Avg ROI | 0.71x |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$-109** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SOLS0CIETY | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:30 |
 | 🟡 MCCAT | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:14 |
 | 🟡 cigarette | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 22ZdShHj | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:30 |
@@ -29,7 +30,7 @@
 | 🟡 Freddie | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:36 |
 | 🟡 EmH4y6zA | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 Kin-kun | $0.000007 | **1.04x** ($+4) | 1.43x |  | pumpfun | 2026-03-20 09:35 |
-| 🔴 SUNSHINE | $0.000004 | **0.89x** ($-11) | 1.15x |  | pumpfun | 2026-03-20 08:07 |
+| 🔴 SUNSHINE | $0.000004 | **0.90x** ($-10) | 1.15x |  | pumpfun | 2026-03-20 08:07 |
 | 🟡 PVC | $0.000008 | **1.29x** ($+29) | 1.69x |  | pumpfun | 2026-03-20 03:18 |
 | 🟡 ShowMore | $0.000004 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 02:12 |
 | 🔴 imagineslop | $0.000009 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 02:11 |

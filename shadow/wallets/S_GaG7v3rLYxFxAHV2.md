@@ -1,23 +1,24 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 12:29 UTC
+> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 12:33 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
+| Positions | 10 (9 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+49 |
 | 📦 Unrealized | $+358 |
 | 🏦 Total | **$+407** |
-| Best ROI | 1.49x |
-| Avg ROI | 1.49x |
+| Best Trade | 1.5x |
+| Avg Peak | 3.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 HPY | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:30 |
 | 🟡 Quokka | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
 | 🟡 REMY | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:11 |
 | 🟡 Saleh | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:01 |

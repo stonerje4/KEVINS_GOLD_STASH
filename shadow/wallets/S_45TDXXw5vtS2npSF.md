@@ -1,6 +1,6 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 12:29 UTC
+> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 12:33 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 12 (10 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-28 |
+| 📦 Unrealized | $-27 |
 | 🏦 Total | **$-149** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
@@ -27,7 +27,7 @@
 | 🟡 EmH4y6zA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 Slap | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 Slap | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:13 |
-| 🔴 INCOME | $0.000685 | **0.89x** ($-11) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
+| 🔴 INCOME | $0.000685 | **0.90x** ($-10) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
 
 ## Closed Positions
 

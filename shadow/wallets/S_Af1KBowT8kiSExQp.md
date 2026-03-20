@@ -1,6 +1,6 @@
 # Wallet: `Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9`
 
-> [View on Solscan](https://solscan.io/account/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | Updated: 2026-03-20 12:29 UTC
+> [View on Solscan](https://solscan.io/account/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | Updated: 2026-03-20 12:33 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-73 |
-| 🏦 Total | **$-73** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-74 |
+| 🏦 Total | **$-74** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 AIFRUITS | $0.000584 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:18 |
-| 🔴 pedgy | $0.000025 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 07:00 |
+| 🔴 pedgy | $0.000025 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 07:00 |
 | 🔴 MYTH | $0.000098 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:47 |
 | 🔴 Barron | $0.000019 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-19 23:18 |
 | 🔴 GROK | $0.000004 | **0.67x** ($-33) | 1.67x |  | pumpfun | 2026-03-19 23:03 |

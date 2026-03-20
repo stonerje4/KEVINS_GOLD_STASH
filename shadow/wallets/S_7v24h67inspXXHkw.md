@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 12:29 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 12:33 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 29 (29 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+44 |
-| 🏦 Total | **$+44** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+39 |
+| 🏦 Total | **$+39** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -38,7 +38,7 @@
 | 🟡 UGOR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:45 |
 | 🟡 OSP | $0.000003 | **1.06x** ($+6) | 1.30x |  | pumpfun | 2026-03-20 04:26 |
 | 🟡 OSP | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:20 |
-| 🔴 WAR | $0.000004 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 04:19 |
+| 🔴 WAR | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 04:19 |
 | 🟡 OIL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:18 |
 | 🟡 UGOR | $0.000018 | **1.53x** ($+53) | 1.73x |  | pumpswap | 2026-03-20 00:31 |
 | 🔴 2pf9dyj8 | $0.000003 | **0.96x** ($-4) | 1.01x |  | pumpfun | 2026-03-20 00:24 |

@@ -1,6 +1,6 @@
-# Wallet: `FC4rpNEMY3EFpEm1RtzZtUkyUFjDFBbunuDYcEgTeGoL`
+# Wallet: `7naFFwuEJWeWwWYQUkgAWHsxYKg3KctEuUj42JdAMidP`
 
-> [View on Solscan](https://solscan.io/account/FC4rpNEMY3EFpEm1RtzZtUkyUFjDFBbunuDYcEgTeGoL) | Updated: 2026-03-20 12:33 UTC
+> [View on Solscan](https://solscan.io/account/7naFFwuEJWeWwWYQUkgAWHsxYKg3KctEuUj42JdAMidP) | Updated: 2026-03-20 12:33 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pixel | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:12 |
+| 🟡 Nigel | $0.000206 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ`
 
-> [View on Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 12:29 UTC
+> [View on Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 12:33 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 16 (15 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $-56 |
-| 🏦 Total | **$-118** |
-| Best ROI | 0.38x |
-| Avg ROI | 0.38x |
+| 📦 Unrealized | $-55 |
+| 🏦 Total | **$-117** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 e-CNY | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:07 |
-| 🟡 FTR | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 08:38 |
+| 🟡 FTR | $0.000009 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 08:38 |
 | 🟡 TGR | $0.000009 | **1.05x** ($+5) | 1.12x |  | pumpfun | 2026-03-20 07:31 |
 | 🔴 AGS | $0.000007 | **0.51x** ($-49) | 1.11x |  | pumpfun | 2026-03-20 07:01 |
 | 🟡 NBR | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:20 |
