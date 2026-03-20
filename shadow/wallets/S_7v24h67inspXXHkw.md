@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 41 (40 open, 1 closed) |
+| Positions | 42 (41 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-64 |
-| 📦 Unrealized | $+41 |
-| 🏦 Total | **$-23** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.4x |
+| 📦 Unrealized | $+44 |
+| 🏦 Total | **$-19** |
+| Best ROI | 0.36x |
+| Avg ROI | 0.36x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 UOR | $0.000005 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 14:34 |
 | 🔴 HdbDNtPu | $0.000003 | **0.86x** ($-14) | 1.12x |  | pumpfun | 2026-03-20 14:20 |
 | 🟡 OIL#000 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:17 |
 | 🟡 CWewsqNw | $0.000003 | **1.05x** ($+5) | 1.06x |  | pumpfun | 2026-03-20 14:10 |

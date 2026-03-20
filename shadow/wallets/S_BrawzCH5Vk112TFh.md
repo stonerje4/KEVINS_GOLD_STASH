@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 261 (257 open, 4 closed) |
+| Positions | 262 (258 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+17 |
 | 📦 Unrealized | $+42 |
 | 🏦 Total | **$+59** |
-| Best Trade | 3.0x |
-| Avg Peak | 3.4x |
+| Best ROI | 2.99x |
+| Avg ROI | 1.04x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chuck | $0.000157 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🟡 forg | $0.000088 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:32 |
 | 🟡 foid | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Socrates | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |

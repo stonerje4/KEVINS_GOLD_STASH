@@ -9,16 +9,16 @@
 | Positions | 17 (16 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+49 |
-| 📦 Unrealized | $+350 |
-| 🏦 Total | **$+399** |
-| Best Trade | 1.5x |
-| Avg Peak | 3.6x |
+| 📦 Unrealized | $+332 |
+| 🏦 Total | **$+381** |
+| Best ROI | 1.49x |
+| Avg ROI | 1.49x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 B8FYzh4G | $0.000003 | **1.93x** ($+93) | 2.07x | ✅ | pumpfun | 2026-03-20 14:34 |
+| 🟡 B8FYzh4G | $0.000003 | **1.57x** ($+57) | 2.07x | ✅ | pumpfun | 2026-03-20 14:34 |
 | 🟡 Chuck | $0.000203 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:23 |
 | 🔴 Merlin | $0.000007 | **0.46x** ($-54) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 SNIFFER | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |

@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 133 (131 open, 2 closed) |
+| Positions | 134 (132 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
 | 📦 Unrealized | $-34 |
 | 🏦 Total | **$-171** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 MIM | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🟡 Doom | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 imagine | $0.000059 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🟡 Newscum | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:28 |

@@ -9,16 +9,16 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+2,475 |
-| 🏦 Total | **$+2,475** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+5,548 |
+| 🏦 Total | **$+5,548** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ELONCHIBI | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:31 |
+| 🚀 ELONCHIBI | $0.000000 | **62.45x** ($+6,145) | 62.45x | ✅ | pumpfun | 2026-03-20 14:31 |
 | 🚀 URX | $0.000000 | **73.80x** ($+7,280) | 77.17x | ✅ | pumpfun | 2026-03-20 04:01 |
 
 ## Closed Positions
