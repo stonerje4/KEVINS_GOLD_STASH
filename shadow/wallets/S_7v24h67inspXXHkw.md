@@ -1,16 +1,16 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 23 (23 open, 0 closed) |
+| Positions | 24 (24 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+91 |
-| 🏦 Total | **$+91** |
+| 📦 Unrealized | $+84 |
+| 🏦 Total | **$+84** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,11 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LIBERTY | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:33 |
 | 🟡 BBX | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:58 |
 | 🟡 B3aYVios | $0.000003 | **1.36x** ($+36) | 1.37x |  | pumpfun | 2026-03-20 08:51 |
 | 🔴 CHILLBLI | $0.000003 | **0.64x** ($-36) | 1.06x |  | pumpswap | 2026-03-20 08:24 |
 | 🔴 TGR | $0.000010 | **0.98x** ($-2) | 1.05x |  | pumpfun | 2026-03-20 07:55 |
-| 🔴 USRNR | $0.000006 | **0.92x** ($-8) | 1.02x |  | pumpfun | 2026-03-20 07:46 |
+| 🔴 USRNR | $0.000006 | **0.90x** ($-10) | 1.02x |  | pumpfun | 2026-03-20 07:46 |
 | 🟡 OIL | $0.000004 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 05:51 |
 | 🟡 NBR | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:46 |
 | 🔴 NBR | $0.000005 | **0.81x** ($-19) | 1.00x |  | pumpfun | 2026-03-20 05:44 |
@@ -32,7 +33,7 @@
 | 🟡 UGOR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:45 |
 | 🟡 OSP | $0.000003 | **1.26x** ($+26) | 1.30x |  | pumpfun | 2026-03-20 04:26 |
 | 🟡 OSP | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:20 |
-| 🟡 WAR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:19 |
+| 🔴 WAR | $0.000004 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 04:19 |
 | 🟡 OIL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:18 |
 | 🟡 UGOR | $0.000018 | **1.53x** ($+53) | 1.73x |  | pumpswap | 2026-03-20 00:31 |
 | 🔴 2pf9dyj8 | $0.000003 | **0.96x** ($-4) | 1.01x |  | pumpfun | 2026-03-20 00:24 |

@@ -1,6 +1,6 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [View on Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (12 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+70 |
-| 🏦 Total | **$-51** |
+| 📦 Unrealized | $+37 |
+| 🏦 Total | **$-84** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Chonk | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000014 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 09:53 |
-| 🟡 omochi | $0.000015 | **1.34x** ($+34) | 1.86x |  | pumpfun | 2026-03-20 09:36 |
+| 🟡 omochi | $0.000015 | **1.01x** ($+1) | 1.86x |  | pumpfun | 2026-03-20 09:36 |
 | 🟡 Pixels | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:05 |
 | 🟡 Attention | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:06 |
 | 🔴 Explorer | $0.000005 | **0.51x** ($-49) | 1.01x |  | pumpfun | 2026-03-20 03:03 |

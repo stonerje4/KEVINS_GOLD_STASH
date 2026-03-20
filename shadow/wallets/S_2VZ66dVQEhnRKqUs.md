@@ -1,27 +1,26 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (15 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-249 |
-| 📦 Unrealized | $-104 |
-| 🏦 Total | **$-354** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.1x |
+| Positions | 19 (14 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-268 |
+| 📦 Unrealized | $-106 |
+| 🏦 Total | **$-374** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBI | $0.000010 | **0.99x** ($-1) | 2.19x | ✅ | pumpfun | 2026-03-20 09:57 |
 | 🟡 IMAGINE | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 SMCI | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
-| 🔴 WID | $0.000026 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 03:36 |
+| 🔴 WID | $0.000026 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 03:36 |
 | 🟡 Sentinel | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:13 |
 | 🟡 DRIVE | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:19 |
 | 🟡 Fro | $0.000265 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 02:10 |
@@ -32,12 +31,13 @@
 | 🔴 Record | $0.000010 | **0.90x** ($-10) | 1.47x |  | pumpfun | 2026-03-19 23:10 |
 | 🔴 bio/acc | $0.000020 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 22:54 |
 | 🟡 RIPCHUCK | $0.000008 | **1.17x** ($+17) | 1.49x |  | pumpfun | 2026-03-19 22:43 |
-| 🔴 dlorp | $0.000006 | **0.47x** ($-53) | 1.12x |  | pumpfun | 2026-03-19 22:38 |
+| 🔴 dlorp | $0.000006 | **0.45x** ($-55) | 1.12x |  | pumpfun | 2026-03-19 22:38 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 CHIBI | 0.81x | $-19 | trailing_stop_2x | 2.19x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:32 |
 | 🔴 IMAGINE | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:06 → 2026-03-20 02:10 |
 | 🔴 Cyberfy | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 00:39 → 2026-03-20 01:10 |
 | 🔴 Massive | 0.39x | $-61 | stop_loss | 1.13x | pumpswap | 2026-03-19 23:53 → 2026-03-20 01:21 |

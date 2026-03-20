@@ -1,6 +1,6 @@
 # Wallet: `D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY`
 
-> [View on Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
@@ -19,10 +19,10 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 WHALEBI | $0.000058 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:18 |
-| 🔴 HONGWU | $0.000146 | **0.95x** ($-5) | 1.01x |  | pumpswap | 2026-03-20 07:47 |
+| 🔴 HONGWU | $0.000146 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 07:47 |
 | 🟡 OXIDE | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 電王 | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:31 |
-| 🔴 YEPE | $0.000087 | **0.95x** ($-5) | 1.11x |  | pumpswap | 2026-03-20 07:24 |
+| 🔴 YEPE | $0.000087 | **0.91x** ($-9) | 1.11x |  | pumpswap | 2026-03-20 07:24 |
 | 🟡 OSP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:21 |
 
 ## Closed Positions

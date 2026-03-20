@@ -1,6 +1,6 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (20 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+245 |
-| 🏦 Total | **$+185** |
+| 📦 Unrealized | $+253 |
+| 🏦 Total | **$+193** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -23,14 +23,14 @@
 | 🟡 CPC | $0.000003 | **1.03x** ($+3) | 1.04x |  | pumpfun | 2026-03-20 08:07 |
 | 🟡 TGR | $0.000003 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-20 08:06 |
 | 🟡 GASR | $0.000003 | **1.16x** ($+16) | 1.26x |  | pumpfun | 2026-03-20 08:03 |
-| 🟡 UGOR | $0.000004 | **1.10x** ($+10) | 1.12x |  | pumpfun | 2026-03-20 07:50 |
+| 🟡 UGOR | $0.000004 | **1.19x** ($+19) | 1.19x |  | pumpfun | 2026-03-20 07:50 |
 | 🟡 GCOIN | $0.000004 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 07:46 |
 | 🟡 OSP | $0.000003 | **1.42x** ($+42) | 1.45x |  | pumpfun | 2026-03-20 07:17 |
 | 🟡 UGOR | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 07:10 |
 | 🟡 BBX | $0.000266 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:33 |
 | 🟡 FLAG | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:17 |
 | 🟡 FLAG | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:16 |
-| 🟡 USRNR | $0.000005 | **1.04x** ($+4) | 1.16x |  | pumpfun | 2026-03-20 06:15 |
+| 🟡 USRNR | $0.000005 | **1.03x** ($+3) | 1.16x |  | pumpfun | 2026-03-20 06:15 |
 | 🟡 NBR | $0.000003 | **1.36x** ($+36) | 1.36x |  | pumpfun | 2026-03-20 02:58 |
 | 🟡 SIMULATION | $0.000003 | **1.61x** ($+61) | 1.61x |  | pumpfun | 2026-03-20 02:00 |
 | 🟡 GLUP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:47 |

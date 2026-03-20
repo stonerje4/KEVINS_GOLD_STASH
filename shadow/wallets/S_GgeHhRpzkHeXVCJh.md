@@ -1,6 +1,6 @@
 # Wallet: `GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu`
 
-> [View on Solscan](https://solscan.io/account/GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-194 |
 | 📦 Unrealized | $+46 |
-| 🏦 Total | **$-149** |
+| 🏦 Total | **$-148** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.3x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 MOCHI | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:19 |
-| 🟡 WID | $0.000021 | **1.00x** ($+0) | 1.14x |  | pumpswap | 2026-03-20 07:07 |
+| 🟡 WID | $0.000021 | **1.01x** ($+1) | 1.14x |  | pumpswap | 2026-03-20 07:07 |
 | 🟡 ZeroG | $0.000020 | **1.83x** ($+83) | 1.83x |  | pumpfun | 2026-03-20 05:52 |
 | 🔴 Strawberita | $0.000082 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 01:32 |
 

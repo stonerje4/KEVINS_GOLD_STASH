@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 62 (61 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-174 |
-| 🏦 Total | **$-190** |
+| 📦 Unrealized | $-170 |
+| 🏦 Total | **$-187** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -46,7 +46,7 @@
 | 🔴 TRUTH | $0.000003 | **0.91x** ($-9) | 1.23x |  | pumpfun | 2026-03-20 05:58 |
 | 🔴 HUGH | $0.000003 | **0.76x** ($-24) | 1.08x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 EftNvqrA | $0.000003 | **0.80x** ($-20) | 1.19x |  | pumpfun | 2026-03-20 04:05 |
-| 🟡 Yuki-chan | $0.000003 | **1.30x** ($+30) | 1.44x |  | pumpfun | 2026-03-20 04:00 |
+| 🟡 Yuki-chan | $0.000003 | **1.33x** ($+33) | 1.44x |  | pumpfun | 2026-03-20 04:00 |
 | 🔴 NoScam | $0.000003 | **0.81x** ($-19) | 1.17x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 Income | $0.000003 | **0.82x** ($-18) | 1.20x |  | pumpfun | 2026-03-20 03:29 |
 | 🚀 Nonchalant | $0.000003 | **5.08x** ($+408) | 5.77x | ✅ | pumpfun | 2026-03-20 03:18 |

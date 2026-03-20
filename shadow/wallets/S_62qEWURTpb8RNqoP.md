@@ -1,6 +1,6 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (10 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-133 |
-| 📦 Unrealized | $+57 |
-| 🏦 Total | **$-76** |
+| 📦 Unrealized | $+48 |
+| 🏦 Total | **$-85** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.1x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 awkward | $0.000006 | **2.57x** ($+157) | 3.47x | ✅ | pumpfun | 2026-03-20 09:07 |
+| 🟢 awkward | $0.000006 | **2.36x** ($+136) | 3.47x | ✅ | pumpfun | 2026-03-20 09:07 |
 | 🔴 JUMP | $0.000005 | **0.55x** ($-45) | 1.18x |  | pumpfun | 2026-03-20 08:39 |
 | 🟡 face | $0.000005 | **1.02x** ($+2) | 1.29x |  | pumpfun | 2026-03-20 08:22 |
 | 🔴 SUNSHINE | $0.000005 | **0.84x** ($-16) | 1.93x |  | pumpfun | 2026-03-20 07:56 |
-| 🟡 SCRIPT | $0.000008 | **1.13x** ($+13) | 1.35x |  | pumpfun | 2026-03-20 07:52 |
+| 🟡 SCRIPT | $0.000008 | **1.12x** ($+12) | 1.35x |  | pumpfun | 2026-03-20 07:52 |
 | 🔴 LOUIE | $0.000003 | **0.78x** ($-22) | 1.32x |  | pumpfun | 2026-03-20 07:50 |
 | 🟡 Thinker | $0.000008 | **1.06x** ($+6) | 1.25x |  | pumpswap | 2026-03-20 07:45 |
 | 🟡 Strawberita | $0.000146 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:25 |

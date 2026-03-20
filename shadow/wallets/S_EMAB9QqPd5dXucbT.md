@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 31 (31 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-33 |
-| 🏦 Total | **$-33** |
+| 📦 Unrealized | $-47 |
+| 🏦 Total | **$-47** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LUMO | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:27 |
-| 🟡 awkward | $0.000013 | **1.18x** ($+18) | 1.24x |  | pumpfun | 2026-03-20 10:09 |
-| 🔴 CRABBO | $0.000168 | **0.88x** ($-12) | 1.11x |  | pumpswap | 2026-03-20 07:46 |
+| 🟡 awkward | $0.000013 | **1.08x** ($+8) | 1.24x |  | pumpfun | 2026-03-20 10:09 |
+| 🔴 CRABBO | $0.000168 | **0.86x** ($-14) | 1.11x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 Massive | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:22 |
 | 🟡 Strawberita | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:21 |
 | 🟡 PIKE | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
@@ -29,7 +29,7 @@
 | 🔴 しずく | $0.000022 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 plumber | $0.000058 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🔴 MILO | $0.000006 | **0.96x** ($-4) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
-| 🔴 AICOIN | $0.000082 | **0.92x** ($-8) | 1.10x |  | pumpswap | 2026-03-20 03:21 |
+| 🔴 AICOIN | $0.000082 | **0.90x** ($-10) | 1.10x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 Hamster | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 Spiderman | $0.000203 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 02:11 |

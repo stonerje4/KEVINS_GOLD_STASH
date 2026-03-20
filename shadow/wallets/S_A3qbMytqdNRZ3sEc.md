@@ -1,16 +1,16 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 10:32 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 50 (45 open, 5 closed) |
+| Positions | 51 (46 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
-| 📦 Unrealized | $-159 |
-| 🏦 Total | **$-357** |
+| 📦 Unrealized | $-162 |
+| 🏦 Total | **$-359** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Ouroboros | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:37 |
 | 🟡 Dickus | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
 | 🟡 ARIA | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:04 |
 | 🟡 Pixels | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
 | 🟡 IMAGINE | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:55 |
 | 🟡 驚き | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:44 |
-| 🔴 Antigravity | $0.000008 | **0.56x** ($-44) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
+| 🔴 Antigravity | $0.000008 | **0.53x** ($-47) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 CHIBI | $0.001779 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 OLAF | $0.000134 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 IMAGINE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |

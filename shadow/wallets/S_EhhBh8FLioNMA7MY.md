@@ -1,16 +1,16 @@
-# Wallet: `5ugQyf6niPqFqsaNUAiwE6AbDmrFyp2DmSZc7LHBudoC`
+# Wallet: `EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX`
 
-> [View on Solscan](https://solscan.io/account/5ugQyf6niPqFqsaNUAiwE6AbDmrFyp2DmSZc7LHBudoC) | Updated: 2026-03-20 10:37 UTC
+> [View on Solscan](https://solscan.io/account/EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX) | Updated: 2026-03-20 10:37 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+6,347 |
-| 🏦 Total | **$+6,347** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Optimistic | $0.000487 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:04 |
-| 🚀 ELEPHANT | $0.000000 | **285.52x** ($+28,452) | 666.83x | ✅ | pumpswap | 2026-03-20 00:14 |
+| 🟡 CLAWDIA | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:36 |
 
 ## Closed Positions
 
