@@ -1,18 +1,18 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 07:35 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 07:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 54 (36 open, 18 closed) |
-| W/L | 4/14 (22%) |
-| 💵 Realized | $-361 |
-| 📦 Unrealized | $-872 |
-| 🏦 Total | **$-1,233** |
+| Positions | 54 (35 open, 19 closed) |
+| W/L | 4/15 (21%) |
+| 💵 Realized | $-423 |
+| 📦 Unrealized | $-818 |
+| 🏦 Total | **$-1,240** |
 | Best Trade | 3.0x |
-| Avg Peak | 2.1x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
@@ -22,9 +22,8 @@
 | 🔴 Angrenor | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 Otocolobus | $0.000004 | **0.61x** ($-39) | 1.32x |  | pumpfun | 2026-03-20 06:49 |
 | 🔴 29tcP9b3 | $0.000004 | **0.58x** ($-42) | 1.61x |  | pumpfun | 2026-03-20 06:45 |
-| 🔴 BOAR | $0.000011 | **0.63x** ($-37) | 1.10x |  | pumpswap | 2026-03-20 06:42 |
+| 🔴 BOAR | $0.000011 | **0.60x** ($-40) | 1.10x |  | pumpswap | 2026-03-20 06:42 |
 | 🔴 2u4WY5Ui | $0.000006 | **0.42x** ($-58) | 1.70x |  | pumpfun | 2026-03-20 06:41 |
-| 🔴 DOOMERCYCLE | $0.000008 | **0.42x** ($-58) | 1.34x |  | pumpfun | 2026-03-20 06:33 |
 | 🔴 Hawk | $0.000006 | **0.42x** ($-58) | 1.11x |  | pumpfun | 2026-03-20 06:26 |
 | 🔴 7MDPtxq1 | $0.000005 | **0.48x** ($-52) | 1.23x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 EA | $0.000002 | **0.77x** ($-23) | 1.48x |  | pumpswap | 2026-03-20 05:57 |
@@ -61,6 +60,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.07x | pumpswap | 2026-03-20 07:03 → 2026-03-20 07:25 |
 | 🔴 7DMq1AbA | 0.75x | $-25 | trailing_stop_2x | 2.03x | pumpfun | 2026-03-20 06:35 → 2026-03-20 06:43 |
+| 🔴 DOOMERCYCLE | 0.38x | $-62 | stop_loss | 1.34x | pumpfun | 2026-03-20 06:33 → 2026-03-20 07:37 |
 | 🟡 AVATAR | 1.36x | $+36 | trailing_stop_3x | 3.12x | pumpswap | 2026-03-20 06:20 → 2026-03-20 06:41 |
 | 🔴 startpup | 0.40x | $-60 | stop_loss | 1.20x | pumpfun | 2026-03-20 06:01 → 2026-03-20 06:20 |
 | 🔴 Hoverboard | 0.36x | $-64 | stop_loss | 1.36x | pumpfun | 2026-03-20 05:33 → 2026-03-20 05:39 |

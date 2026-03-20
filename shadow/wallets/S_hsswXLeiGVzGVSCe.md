@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 07:35 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 07:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 148 (133 open, 15 closed) |
 | W/L | 7/8 (47%) |
 | 💵 Realized | $+1,019 |
-| 📦 Unrealized | $-2,426 |
-| 🏦 Total | **$-1,407** |
+| 📦 Unrealized | $-2,431 |
+| 🏦 Total | **$-1,411** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.0x |
 
@@ -31,14 +31,14 @@
 | 🔴 BitPenis | $0.000005 | **0.56x** ($-44) | 1.64x |  | pumpfun | 2026-03-20 05:17 |
 | 🔴 REMY | $0.000004 | **0.59x** ($-41) | 1.07x |  | pumpfun | 2026-03-20 05:15 |
 | 🔴 OZEMPIC | $0.000003 | **0.81x** ($-19) | 1.08x |  | pumpfun | 2026-03-20 05:14 |
-| 🔴 GENOCIDE | $0.000005 | **0.64x** ($-36) | 1.54x |  | pumpfun | 2026-03-20 05:14 |
+| 🔴 GENOCIDE | $0.000005 | **0.63x** ($-37) | 1.54x |  | pumpfun | 2026-03-20 05:14 |
 | 🔴 GPU Miners | $0.000003 | **0.76x** ($-24) | 1.06x |  | pumpfun | 2026-03-20 04:56 |
 | 🔴 LOCKIN | $0.000004 | **0.64x** ($-36) | 1.00x |  | pumpfun | 2026-03-20 04:53 |
 | 🔴 NOBODY | $0.000005 | **0.57x** ($-43) | 1.46x |  | pumpfun | 2026-03-20 04:39 |
 | 🔴 dlorp | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 04:35 |
 | 🔴 Early | $0.000004 | **0.60x** ($-40) | 1.20x |  | pumpfun | 2026-03-20 04:27 |
 | 🔴 dump.fun | $0.000003 | **0.85x** ($-15) | 1.04x |  | pumpfun | 2026-03-20 04:26 |
-| 🟡 HUGH | $0.000003 | **1.06x** ($+6) | 1.31x |  | pumpfun | 2026-03-20 04:24 |
+| 🟡 HUGH | $0.000003 | **1.02x** ($+2) | 1.31x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 meme | $0.000005 | **0.49x** ($-51) | 1.23x |  | pumpfun | 2026-03-20 04:23 |
 | 🔴 POLYWOG | $0.000004 | **0.84x** ($-16) | 1.06x |  | pumpfun | 2026-03-20 04:15 |
 | 🔴 Dryer | $0.000004 | **0.61x** ($-39) | 1.06x |  | pumpfun | 2026-03-20 04:14 |

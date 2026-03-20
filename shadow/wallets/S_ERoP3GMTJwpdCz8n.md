@@ -1,6 +1,6 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 07:35 UTC
+> [View on Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-20 07:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (6 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-12 |
-| 📦 Unrealized | $+9 |
-| 🏦 Total | **$-3** |
+| 📦 Unrealized | $-43 |
+| 🏦 Total | **$-54** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.4x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Raccoon | $0.000003 | **1.45x** ($+45) | 1.45x |  | pumpfun | 2026-03-20 07:35 |
+| 🔴 Raccoon | $0.000003 | **0.94x** ($-6) | 1.48x |  | pumpfun | 2026-03-20 07:35 |
 | 🟡 驚き | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:19 |
 | 🟡 SMCI | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:23 |
 | 🔴 INR | $0.000003 | **0.82x** ($-18) | 1.29x |  | pumpfun | 2026-03-20 02:31 |

@@ -1,6 +1,6 @@
 # Wallet: `AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x`
 
-> [View on Solscan](https://solscan.io/account/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | Updated: 2026-03-20 07:35 UTC
+> [View on Solscan](https://solscan.io/account/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | Updated: 2026-03-20 07:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-23 |
-| 🏦 Total | **$-23** |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$-29** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 12MFghmg | $0.000004 | **0.77x** ($-23) | 1.16x |  | pumpfun | 2026-03-20 07:34 |
+| 🔴 12MFghmg | $0.000004 | **0.71x** ($-29) | 1.16x |  | pumpfun | 2026-03-20 07:34 |
 | 🟡 CHIBI | $0.001772 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:20 |
 
 ## Closed Positions
