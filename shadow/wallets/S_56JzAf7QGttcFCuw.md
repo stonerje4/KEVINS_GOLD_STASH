@@ -1,6 +1,6 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 12:03 UTC
+> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 12:08 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 19 (11 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-257 |
-| 📦 Unrealized | $+46 |
-| 🏦 Total | **$-211** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.68x |
+| 📦 Unrealized | $+54 |
+| 🏦 Total | **$-203** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
@@ -24,7 +24,7 @@
 | 🔴 Kit | $0.000006 | **0.63x** ($-37) | 1.34x |  | pumpfun | 2026-03-20 07:40 |
 | 🔴 大郎 | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 HAIL | $0.000015 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
-| 🔴 e/alt | $0.000012 | **0.94x** ($-6) | 1.08x |  | pumpswap | 2026-03-20 05:56 |
+| 🟡 e/alt | $0.000012 | **1.02x** ($+2) | 1.08x |  | pumpswap | 2026-03-20 05:56 |
 | 🔴 Moe-chan | $0.000015 | **0.84x** ($-16) | 1.13x |  | pumpswap | 2026-03-20 05:52 |
 | 🟡 Moe | $0.000081 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:52 |
 | 🟢 Pixel | $0.000011 | **3.21x** ($+221) | 3.21x | ✅ | pumpfun | 2026-03-20 04:50 |

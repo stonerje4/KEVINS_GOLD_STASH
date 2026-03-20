@@ -1,6 +1,6 @@
-# Wallet: `9iwJcFf5bpLgugM8hJpwmfqzYLzFv7PGeZMvRvKhB998`
+# Wallet: `3x6beCUhtXGFhfSaDtB7FJmjFuML9SL8HrbYND3SHkMu`
 
-> [View on Solscan](https://solscan.io/account/9iwJcFf5bpLgugM8hJpwmfqzYLzFv7PGeZMvRvKhB998) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/3x6beCUhtXGFhfSaDtB7FJmjFuML9SL8HrbYND3SHkMu) | Updated: 2026-03-20 12:08 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CORGI | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:35 |
+| 🟡 $PEPETO | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:06 |
 
 ## Closed Positions
 

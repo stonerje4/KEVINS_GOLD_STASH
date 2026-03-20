@@ -1,6 +1,6 @@
 # Wallet: `3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf`
 
-> [View on Solscan](https://solscan.io/account/3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf) | Updated: 2026-03-20 12:03 UTC
+> [View on Solscan](https://solscan.io/account/3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf) | Updated: 2026-03-20 12:08 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-11 |
-| 🏦 Total | **$-11** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-12 |
+| 🏦 Total | **$-12** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 dog#001 | $0.000005 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 08:49 |
 | 🟡 Gany | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:49 |
-| 🔴 TRUST | $0.000006 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 08:49 |
+| 🔴 TRUST | $0.000006 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 08:49 |
 | 🟡 pippin | $0.081709 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:47 |
 
 ## Closed Positions
