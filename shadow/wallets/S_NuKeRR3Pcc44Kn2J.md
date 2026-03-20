@@ -1,6 +1,6 @@
 # Wallet: `NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv`
 
-> [View on Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 10:27 UTC
+> [View on Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 10:32 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-23 |
+| 📦 Unrealized | $-24 |
 | 🏦 Total | **$-85** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |

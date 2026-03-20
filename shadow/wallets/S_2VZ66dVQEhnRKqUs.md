@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 10:27 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 10:32 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 19 (15 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-249 |
-| 📦 Unrealized | $-105 |
+| 📦 Unrealized | $-104 |
 | 🏦 Total | **$-354** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBI | $0.000010 | **0.98x** ($-2) | 2.19x | ✅ | pumpfun | 2026-03-20 09:57 |
+| 🔴 CHIBI | $0.000010 | **0.99x** ($-1) | 2.19x | ✅ | pumpfun | 2026-03-20 09:57 |
 | 🟡 IMAGINE | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 SMCI | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 WID | $0.000026 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 03:36 |

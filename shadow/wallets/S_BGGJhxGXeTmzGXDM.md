@@ -1,12 +1,12 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 10:27 UTC
+> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 10:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (14 open, 0 closed) |
+| Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+173 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Fc1CPZb3 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:30 |
 | 🟡 NBR | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:18 |
 | 🟡 f26 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:10 |
 | 🟡 FTR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |

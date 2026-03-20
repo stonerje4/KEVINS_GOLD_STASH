@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 10:27 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 10:32 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-203 |
 | 📦 Unrealized | $-120 |
-| 🏦 Total | **$-322** |
+| 🏦 Total | **$-323** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.6x |
 

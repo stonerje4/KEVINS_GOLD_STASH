@@ -1,6 +1,6 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 10:27 UTC
+> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 10:32 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
 | 📦 Unrealized | $-10 |
-| 🏦 Total | **$-131** |
+| 🏦 Total | **$-132** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 

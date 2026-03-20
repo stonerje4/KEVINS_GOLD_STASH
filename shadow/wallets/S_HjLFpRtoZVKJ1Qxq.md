@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 10:27 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 10:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 100 (98 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-46 |
-| 🏦 Total | **$-183** |
+| 📦 Unrealized | $-37 |
+| 🏦 Total | **$-174** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Tastecoin | $0.000152 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 10:19 |
+| 🔴 Tastecoin | $0.000152 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 10:19 |
 | 🔴 Momiage | $0.000009 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 10:14 |
 | 🟡 Achieve | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:08 |
 | 🟡 PRSM | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:59 |
@@ -38,12 +38,12 @@
 | 🔴 PARK | $0.000020 | **0.92x** ($-8) | 1.05x |  | pumpswap | 2026-03-20 06:51 |
 | 🟡 PYRO | $0.000034 | **1.04x** ($+4) | 1.11x |  | pumpswap | 2026-03-20 06:47 |
 | 🟡 MECHA | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:00 |
-| 🔴 mogging | $0.000046 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-20 05:59 |
-| 🔴 LOL | $0.000083 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-20 05:53 |
+| 🔴 mogging | $0.000046 | **1.00x** ($-0) | 1.06x |  | pumpswap | 2026-03-20 05:59 |
+| 🔴 LOL | $0.000083 | **0.94x** ($-6) | 1.07x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 RENTAI | $0.000094 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🟡 Rosie | $0.000800 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 SOS | $0.000870 | **1.21x** ($+21) | 1.21x |  | pumpswap | 2026-03-20 05:29 |
-| 🔴 WhiteHouse | $0.000345 | **0.86x** ($-14) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
+| 🔴 WhiteHouse | $0.000345 | **0.90x** ($-10) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 shitcoin | $0.000075 | **1.09x** ($+9) | 1.11x |  | pumpswap | 2026-03-20 05:20 |
 | 🔴 Optimus | $0.000037 | **0.97x** ($-3) | 1.14x |  | pumpswap | 2026-03-20 05:13 |
 | 🟡 OPAL | $0.000469 | **1.05x** ($+5) | 1.15x |  | pumpswap | 2026-03-20 04:53 |
@@ -53,14 +53,14 @@
 | 🔴 MOJTABA | $0.000010 | **0.99x** ($-1) | 1.08x |  | pumpswap | 2026-03-20 04:21 |
 | 🟡 eUSD | $0.000012 | **1.11x** ($+11) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 WhiteBoy  | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:01 |
-| 🔴 Gascoin | $0.000033 | **0.88x** ($-12) | 1.02x |  | pumpswap | 2026-03-20 03:41 |
+| 🔴 Gascoin | $0.000033 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 VAFR | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 UGOR | $0.000938 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🔴 SAID | $0.000286 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 Xingxing | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
-| 🟡 Wob | $0.000019 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 03:02 |
+| 🟡 Wob | $0.000019 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-20 03:02 |
 | 🟡 WIZARD | $0.000400 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:00 |
 | 🟡 APES | $0.000213 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 FTR | $0.000197 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
