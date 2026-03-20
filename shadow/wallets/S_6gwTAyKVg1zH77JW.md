@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 05:20 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 05:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 119 (117 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$+318** |
+| 📦 Unrealized | $+83 |
+| 🏦 Total | **$+322** |
 | Best Trade | 2.9x |
 | Avg Peak | 6.2x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TeraFab | $0.000054 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 05:17 |
+| 🟡 TeraFab | $0.000054 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 05:17 |
 | 🟡 Clude | $0.001325 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
 | 🟡 Spiderman | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
-| 🔴 shitcoin | $0.000075 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 05:08 |
+| 🔴 shitcoin | $0.000075 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 IShowSpeed | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:52 |
 | 🔴 Gizmo | $0.000014 | **0.82x** ($-18) | 1.01x |  | pumpswap | 2026-03-20 04:29 |
 | 🔴 MOJTABA | $0.000010 | **0.93x** ($-7) | 1.05x |  | pumpswap | 2026-03-20 04:21 |
@@ -33,7 +33,7 @@
 | 🟡 PYRO | $0.000036 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 UGOR | $0.000907 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000102 | **1.45x** ($+45) | 1.45x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000102 | **1.42x** ($+42) | 1.45x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CHIBI | $0.000747 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 CIRCLES | $0.000065 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
 | 🟡 APES | $0.000172 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:14 |

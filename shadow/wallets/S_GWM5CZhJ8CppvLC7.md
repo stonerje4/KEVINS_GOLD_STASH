@@ -1,16 +1,16 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 05:20 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 05:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 86 (85 open, 1 closed) |
+| Positions | 87 (86 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+35 |
-| 🏦 Total | **$-43** |
+| 📦 Unrealized | $+33 |
+| 🏦 Total | **$-45** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,15 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TeraFab | $0.000053 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 05:17 |
+| 🟡 Goose | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
+| 🟡 TeraFab | $0.000053 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 05:17 |
 | 🟡 neet | $0.021822 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-20 05:13 |
-| 🔴 WhiteHouse | $0.000359 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
-| 🔴 shitcoin | $0.000074 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 05:08 |
+| 🔴 WhiteHouse | $0.000359 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
+| 🔴 shitcoin | $0.000074 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 05:08 |
 | 🔴 SOS | $0.000926 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 04:45 |
-| 🟡 CHOPPER | $0.000025 | **1.08x** ($+8) | 1.10x |  | pumpswap | 2026-03-20 04:44 |
+| 🟡 CHOPPER | $0.000025 | **1.06x** ($+6) | 1.10x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 Punch | $0.014730 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Spiderman | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:42 |
-| 🔴 YEPE | $0.000092 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 04:40 |
+| 🔴 YEPE | $0.000092 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:14 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |

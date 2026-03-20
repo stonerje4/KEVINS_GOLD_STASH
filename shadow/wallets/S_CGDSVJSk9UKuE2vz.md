@@ -1,16 +1,16 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 05:20 UTC
+> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 05:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (15 open, 1 closed) |
+| Positions | 17 (16 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-100 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-103** |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$-94** |
 | Best Trade | 0.0x |
 | Avg Peak | 1.0x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LYN | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:53 |
+| 🟡 YZY | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:22 |
+| 🟡 LYN | $0.000055 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 04:53 |
 | 🟡 pepeto | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:43 |
 | 🔴 IMAGINE | $0.000002 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 04:27 |
-| 🟡 TTT | $0.000073 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-20 04:25 |
+| 🟡 TTT | $0.000073 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-20 04:25 |
 | 🔴 Grokipedia | $0.000016 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 04:09 |
-| 🔴 FIREBALL | $0.000018 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 04:01 |
+| 🔴 FIREBALL | $0.000018 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 04:01 |
 | 🔴 GMESHIRE | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 HIMS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 nl | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:17 |

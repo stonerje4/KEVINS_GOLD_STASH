@@ -1,16 +1,16 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 05:20 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 05:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (16 open, 0 closed) |
+| Positions | 17 (17 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+60 |
-| 🏦 Total | **$+60** |
+| 📦 Unrealized | $+68 |
+| 🏦 Total | **$+68** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,16 +18,17 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BBX | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 05:19 |
+| 🔴 WRT | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 05:21 |
+| 🟡 BBX | $0.000004 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 05:19 |
 | 🟡 NBR | $0.000003 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 JFR | $0.000003 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 GxZGb4wQ | $0.000003 | **1.02x** ($+2) | 1.18x |  | pumpfun | 2026-03-20 04:38 |
 | 🔴 OSP | $0.000004 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 04:26 |
 | 🔴 OSP | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 04:25 |
 | 🟡 MSBT | $0.000004 | **1.06x** ($+6) | 1.17x |  | pumpfun | 2026-03-20 04:24 |
-| 🟡 C34FiRrM | $0.000003 | **1.05x** ($+5) | 1.11x |  | pumpfun | 2026-03-20 04:05 |
+| 🟡 C34FiRrM | $0.000003 | **1.04x** ($+4) | 1.11x |  | pumpfun | 2026-03-20 04:05 |
 | 🟡 2PQ1tBc5 | $0.000003 | **1.04x** ($+4) | 1.12x |  | pumpfun | 2026-03-20 03:49 |
-| 🟡 USRNR | $0.000004 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 03:24 |
+| 🟡 USRNR | $0.000004 | **1.19x** ($+19) | 1.20x |  | pumpfun | 2026-03-20 03:24 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:07 |
 | 🟡 XRP | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:59 |
 | 🔴 WAR | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 00:27 |

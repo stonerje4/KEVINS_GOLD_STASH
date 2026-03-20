@@ -1,28 +1,28 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 05:20 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 05:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (8 open, 5 closed) |
-| W/L | 2/3 (40%) |
-| 💵 Realized | $-65 |
-| 📦 Unrealized | $-56 |
-| 🏦 Total | **$-121** |
+| Positions | 14 (8 open, 6 closed) |
+| W/L | 2/4 (33%) |
+| 💵 Realized | $-127 |
+| 📦 Unrealized | $-70 |
+| 🏦 Total | **$-196** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.8x |
+| Avg Peak | 2.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 6vuxS6wu | $0.000005 | **0.50x** ($-50) | 1.03x |  | pumpfun | 2026-03-20 05:09 |
-| 🟢 Civil Claude | $0.000009 | **2.22x** ($+122) | 2.45x | ✅ | pumpfun | 2026-03-20 04:45 |
+| 🟡 Civil Claude | $0.000009 | **1.74x** ($+74) | 2.45x | ✅ | pumpfun | 2026-03-20 04:45 |
 | 🔴 A8qiEkxf | $0.000005 | **0.51x** ($-49) | 1.26x |  | pumpfun | 2026-03-20 04:35 |
 | 🔴 hw | $0.000003 | **0.83x** ($-17) | 1.06x |  | pumpfun | 2026-03-20 04:27 |
-| 🔴 HeatGun | $0.000007 | **0.99x** ($-1) | 1.24x |  | pumpfun | 2026-03-20 04:16 |
+| 🟡 HeatGun | $0.000007 | **1.09x** ($+9) | 1.81x |  | pumpfun | 2026-03-20 04:16 |
 | 🟡 Dryer | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:13 |
 | 🟡 FEELESS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:57 |
 | 🟡 Sentinel | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:48 |
@@ -31,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 HAIRDRYER | 0.39x | $-61 | stop_loss | 1.60x | pumpfun | 2026-03-20 05:20 → 2026-03-20 05:23 |
 | 🟡 H5YKrAF3 | 1.34x | $+34 | trailing_stop_5x | 4.97x | pumpfun | 2026-03-20 04:56 → 2026-03-20 05:00 |
 | 🔴 Jango | 0.37x | $-63 | stop_loss | 1.24x | pumpfun | 2026-03-20 04:54 → 2026-03-20 04:54 |
 | 🟡 CORPORATE | 1.44x | $+44 | trailing_stop_4x | 4.20x | pumpfun | 2026-03-20 04:42 → 2026-03-20 04:58 |

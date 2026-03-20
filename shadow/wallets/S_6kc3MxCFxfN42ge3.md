@@ -1,6 +1,6 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 05:20 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 05:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 35 (24 open, 11 closed) |
 | W/L | 2/9 (18%) |
 | 💵 Realized | $-366 |
-| 📦 Unrealized | $-379 |
-| 🏦 Total | **$-745** |
+| 📦 Unrealized | $-401 |
+| 🏦 Total | **$-767** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 hopecore | $0.000004 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 05:20 |
-| 🟡 Fk6LNJWo | $0.000004 | **1.46x** ($+46) | 1.79x |  | pumpfun | 2026-03-20 05:17 |
+| 🔴 hopecore | $0.000004 | **0.59x** ($-41) | 1.02x |  | pumpfun | 2026-03-20 05:20 |
+| 🟡 Fk6LNJWo | $0.000004 | **1.88x** ($+88) | 1.95x |  | pumpfun | 2026-03-20 05:17 |
 | 🔴 GnT2LQRZ | $0.000003 | **0.76x** ($-24) | 1.35x |  | pumpfun | 2026-03-20 05:02 |
-| 🟡 Civil Claude | $0.000011 | **1.83x** ($+83) | 2.03x | ✅ | pumpfun | 2026-03-20 04:42 |
+| 🟡 Civil Claude | $0.000011 | **1.43x** ($+43) | 2.03x | ✅ | pumpfun | 2026-03-20 04:42 |
 | 🟡 94S763Nm | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.62x** ($-38) | 1.43x |  | pumpfun | 2026-03-20 04:14 |
 | 🔴 Arc | $0.000004 | **0.65x** ($-35) | 1.68x |  | pumpfun | 2026-03-20 04:07 |

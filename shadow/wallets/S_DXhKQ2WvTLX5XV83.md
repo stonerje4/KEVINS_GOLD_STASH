@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [View on Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 05:20 UTC
+> [View on Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 05:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+28,549 |
-| 🏦 Total | **$+28,549** |
+| 📦 Unrealized | $+21,744 |
+| 🏦 Total | **$+21,744** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 CHIBIMINAJ | $0.000000 | **107.48x** ($+10,648) | 115.89x | ✅ | pumpfun | 2026-03-20 05:15 |
+| 🚀 CHIBIMINAJ | $0.000000 | **116.14x** ($+11,514) | 116.14x | ✅ | pumpfun | 2026-03-20 05:15 |
 | 🟡 credit | $0.000434 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:08 |
-| 🚀 AYYGENT | $0.000000 | **134.67x** ($+13,367) | 146.52x | ✅ | pumpfun | 2026-03-20 04:53 |
-| 🚀 Imaginify | $0.000000 | **1040.62x** ($+103,962) | 1509.41x | ✅ | pumpfun | 2026-03-20 04:28 |
+| 🚀 AYYGENT | $0.000000 | **116.05x** ($+11,505) | 146.52x | ✅ | pumpfun | 2026-03-20 04:53 |
+| 🚀 Imaginify | $0.000000 | **745.52x** ($+74,452) | 1509.41x | ✅ | pumpfun | 2026-03-20 04:28 |
 | 🟡 twump | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:26 |
 | 🟡 Ancestors | $0.000008 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 02:11 |
 | 🔴 Trollbot | $0.000005 | **0.93x** ($-7) | 1.50x |  | pumpfun | 2026-03-20 01:25 |
