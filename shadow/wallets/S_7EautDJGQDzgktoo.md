@@ -1,16 +1,16 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 02:04 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (5 open, 2 closed) |
+| Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-45 |
-| 🏦 Total | **$-165** |
+| 📦 Unrealized | $-38 |
+| 🏦 Total | **$-159** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,11 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CLAW3D | $0.000081 | **0.82x** ($-18) | 1.31x |  | pumpswap | 2026-03-20 01:57 |
+| 🟡 IMAGINE | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:08 |
+| 🟡 Luxury | $0.000029 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 02:06 |
+| 🔴 CLAW3D | $0.000081 | **0.81x** ($-19) | 1.31x |  | pumpswap | 2026-03-20 01:57 |
 | 🟡 PERCOLATOR | $0.000080 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:57 |
 | 🟡 SAVED | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:51 |
 | 🔴 attn | $0.000338 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 00:10 |
-| 🔴 TOKEN | $0.000128 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-19 23:32 |
+| 🔴 TOKEN | $0.000128 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-19 23:32 |
 
 ## Closed Positions
 

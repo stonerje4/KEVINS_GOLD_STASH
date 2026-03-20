@@ -1,34 +1,35 @@
 # Wallet: `8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY`
 
-> [View on Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 02:04 UTC
+> [View on Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-35 |
-| 📦 Unrealized | $+88 |
-| 🏦 Total | **$+53** |
+| Positions | 9 (6 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-98 |
+| 📦 Unrealized | $+74 |
+| 🏦 Total | **$-23** |
 | Best Trade | 0.8x |
-| Avg Peak | 2.3x |
+| Avg Peak | 1.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 SHOENICE  | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
-| 🟡 Optimistic | $0.000702 | **1.08x** ($+8) | 1.28x |  | pumpswap | 2026-03-20 00:44 |
-| 🔴 TripleT | $0.002509 | **0.92x** ($-8) | 1.03x |  | pumpswap | 2026-03-20 00:37 |
+| 🟡 Optimistic | $0.000702 | **1.05x** ($+5) | 1.28x |  | pumpswap | 2026-03-20 00:44 |
+| 🔴 TripleT | $0.002509 | **0.94x** ($-6) | 1.03x |  | pumpswap | 2026-03-20 00:37 |
 | 🟡 BACK | $0.000032 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-19 23:54 |
-| 🟢 Pete | $0.000115 | **2.35x** ($+135) | 2.66x | ✅ | pumpswap | 2026-03-19 22:44 |
-| 🟡 Snorp | $0.000237 | **1.06x** ($+6) | 1.14x |  | pumpswap | 2026-03-19 22:38 |
+| 🟢 Pete | $0.000115 | **2.18x** ($+118) | 2.66x | ✅ | pumpswap | 2026-03-19 22:44 |
+| 🟡 Snorp | $0.000237 | **1.01x** ($+1) | 1.14x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Man | 0.37x | $-63 | stop_loss | 1.11x | pumpfun | 2026-03-20 02:07 → 2026-03-20 02:07 |
 | 🟡 Dickus | 0.83x | $-17 | trailing_stop_2x | 2.34x | pumpswap | 2026-03-20 00:24 → 2026-03-20 00:55 |
 | 🟡 TITTYKILLER | 0.82x | $-18 | trailing_stop_2x | 2.26x | pumpfun | 2026-03-20 00:17 → 2026-03-20 00:44 |
 

@@ -1,16 +1,16 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 02:04 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (21 open, 1 closed) |
+| Positions | 23 (22 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+7 |
-| 🏦 Total | **$+52** |
+| 📦 Unrealized | $+19 |
+| 🏦 Total | **$+64** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -18,17 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 DOWNG | $0.000006 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 02:07 |
 | 🟡 DEADJEW | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:02 |
-| 🟡 Dinergoth | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 01:41 |
+| 🟡 Dinergoth | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 01:41 |
 | 🟡 WBEgjEf5 | $0.000003 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 01:41 |
 | 🔴 Chibiusa | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 01:36 |
-| 🟡 MiMo | $0.000004 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 01:34 |
+| 🟡 MiMo | $0.000004 | **1.15x** ($+15) | 1.32x |  | pumpfun | 2026-03-20 01:34 |
 | 🔴 Hyperskill | $0.000003 | **0.86x** ($-14) | 1.06x |  | pumpfun | 2026-03-20 01:33 |
 | 🔴 FTR | $0.000005 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 00:51 |
 | 🔴 Dickus | $0.000003 | **0.89x** ($-11) | 1.17x |  | pumpfun | 2026-03-20 00:22 |
 | 🔴 ChibiToly | $0.000004 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 00:19 |
 | 🟡 BBX | $0.000004 | **1.00x** ($+0) | 1.08x |  | pumpfun | 2026-03-20 00:16 |
-| 🟡 GRAFFITI | $0.000003 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 00:14 |
+| 🟡 GRAFFITI | $0.000003 | **1.25x** ($+25) | 1.25x |  | pumpfun | 2026-03-20 00:14 |
 | 🔴 WOJAK | $0.000007 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 00:08 |
 | 🔴 HHSMVCWG | $0.000003 | **0.89x** ($-11) | 1.02x |  | pumpfun | 2026-03-20 00:08 |
 | 🔴 GLANS | $0.000003 | **0.86x** ($-14) | 1.03x |  | pumpfun | 2026-03-20 00:01 |

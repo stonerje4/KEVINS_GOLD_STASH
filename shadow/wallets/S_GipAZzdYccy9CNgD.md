@@ -1,25 +1,24 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [View on Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 02:04 UTC
+> [View on Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (10 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-91 |
-| 📦 Unrealized | $+32 |
-| 🏦 Total | **$-59** |
-| Best Trade | 0.1x |
-| Avg Peak | 1.0x |
+| Positions | 11 (9 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-110 |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$-127** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SCRATCOFF | $0.000004 | **0.98x** ($-2) | 1.04x |  | pumpfun | 2026-03-20 02:03 |
-| 🟡 IShowSpeed | $0.000006 | **1.66x** ($+66) | 2.29x | ✅ | pumpfun | 2026-03-20 02:02 |
+| 🔴 SCRATCOFF | $0.000004 | **0.82x** ($-18) | 1.05x |  | pumpfun | 2026-03-20 02:03 |
 | 🟡 UOR | $0.000035 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 MATEOS | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:41 |
 | 🟡 SHOENICE  | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
@@ -33,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 IShowSpeed | 0.80x | $-20 | trailing_stop_2x | 2.29x | pumpfun | 2026-03-20 02:02 → 2026-03-20 02:06 |
 | 🔴 BTC2 | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 01:45 → 2026-03-20 01:49 |
 
 ---

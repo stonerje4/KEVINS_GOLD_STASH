@@ -1,6 +1,6 @@
 # Wallet: `FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3`
 
-> [View on Solscan](https://solscan.io/account/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | Updated: 2026-03-20 02:04 UTC
+> [View on Solscan](https://solscan.io/account/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+13 |
-| 🏦 Total | **$+13** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$+20** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PATAPIM | $0.000007 | **1.12x** ($+12) | 1.41x |  | pumpswap | 2026-03-20 00:37 |
-| 🟡 GROKHOUSE | $0.000006 | **1.01x** ($+1) | 1.25x |  | pumpswap | 2026-03-20 00:35 |
+| 🟡 PATAPIM | $0.000007 | **1.13x** ($+13) | 1.41x |  | pumpswap | 2026-03-20 00:37 |
+| 🟡 GROKHOUSE | $0.000006 | **1.07x** ($+7) | 1.25x |  | pumpswap | 2026-03-20 00:35 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 02:04 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 32 (18 open, 14 closed) |
 | W/L | 0/14 (0%) |
 | 💵 Realized | $-707 |
-| 📦 Unrealized | $-238 |
-| 🏦 Total | **$-944** |
+| 📦 Unrealized | $-253 |
+| 🏦 Total | **$-959** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.6x |
 
@@ -18,20 +18,20 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 GACEY | $0.000030 | **0.85x** ($-15) | 1.08x |  | pumpswap | 2026-03-20 01:50 |
-| 🟡 LIBERTY | $0.000021 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-20 01:39 |
+| 🔴 GACEY | $0.000030 | **0.94x** ($-6) | 1.11x |  | pumpswap | 2026-03-20 01:50 |
+| 🔴 LIBERTY | $0.000021 | **1.00x** ($-0) | 1.15x |  | pumpswap | 2026-03-20 01:39 |
 | 🟢 Freebuff | $0.000015 | **2.49x** ($+149) | 2.49x | ✅ | pumpfun | 2026-03-20 01:17 |
 | 🔴 Apollo | $0.000004 | **0.65x** ($-35) | 1.02x |  | pumpfun | 2026-03-20 01:12 |
 | 🟡 JELLYTENT | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:52 |
-| 🟡 BOB | $0.000004 | **1.60x** ($+60) | 1.80x |  | pumpswap | 2026-03-20 00:49 |
-| 🔴 SKIBIDI | $0.000006 | **0.45x** ($-55) | 1.76x |  | pumpfun | 2026-03-20 00:40 |
+| 🟢 BOB | $0.000004 | **2.03x** ($+103) | 2.13x | ✅ | pumpswap | 2026-03-20 00:49 |
+| 🔴 SKIBIDI | $0.000006 | **0.44x** ($-56) | 1.76x |  | pumpfun | 2026-03-20 00:40 |
 | 🔴 jeff | $0.000023 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 00:24 |
-| 🔴 Optimistrump | $0.000003 | **0.87x** ($-13) | 1.74x |  | pumpswap | 2026-03-20 00:22 |
+| 🔴 Optimistrump | $0.000003 | **0.88x** ($-12) | 1.74x |  | pumpswap | 2026-03-20 00:22 |
 | 🔴 REKT | $0.000009 | **0.52x** ($-48) | 1.34x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 ONEAI | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 RiceClaw | $0.000005 | **0.54x** ($-46) | 1.69x |  | pumpfun | 2026-03-19 23:18 |
 | 🟡 PEPE | $0.000008 | **1.32x** ($+32) | 1.32x |  | pumpfun | 2026-03-19 23:12 |
-| 🔴 twump | $0.000024 | **0.76x** ($-24) | 1.37x |  | pumpfun | 2026-03-19 23:10 |
+| 🔴 twump | $0.000024 | **0.77x** ($-23) | 1.37x |  | pumpfun | 2026-03-19 23:10 |
 | 🔴 PRINTER | $0.000005 | **0.49x** ($-51) | 1.38x |  | pumpfun | 2026-03-19 22:57 |
 | 🟡 Gusini | $0.000019 | **1.03x** ($+3) | 1.55x |  | pumpfun | 2026-03-19 22:51 |
 | 🔴 CLAUDEHOLE | $0.000006 | **0.43x** ($-57) | 1.24x |  | pumpfun | 2026-03-19 22:37 |

@@ -1,6 +1,6 @@
-# Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
+# Wallet: `9f7pjiVi7QDqW6T2wUJbD59MwWaCszwneBaF62BPm14r`
 
-> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 02:09 UTC
+> [View on Solscan](https://solscan.io/account/9f7pjiVi7QDqW6T2wUJbD59MwWaCszwneBaF62BPm14r) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-6 |
-| 🏦 Total | **$-6** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NBR | $0.000007 | **0.94x** ($-6) | 1.32x |  | pumpfun | 2026-03-20 00:22 |
+| 🟡 $BIGLEZ | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:09 |
 
 ## Closed Positions
 

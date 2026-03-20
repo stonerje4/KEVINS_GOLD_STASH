@@ -1,6 +1,6 @@
 # Wallet: `jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw`
 
-> [View on Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-20 02:04 UTC
+> [View on Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-15 |
-| 📦 Unrealized | $-27 |
-| 🏦 Total | **$-42** |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-46** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -20,8 +20,8 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Capybara | $0.000038 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:38 |
 | 🔴 Obsessed | $0.000010 | **0.70x** ($-30) | 1.03x |  | pumpswap | 2026-03-20 00:34 |
-| 🟡 LIBERTY | $0.000039 | **1.14x** ($+14) | 1.27x |  | pumpswap | 2026-03-20 00:32 |
-| 🔴 NETAINYAHU | $0.000057 | **0.99x** ($-1) | 1.16x |  | pumpswap | 2026-03-20 00:26 |
+| 🟡 LIBERTY | $0.000039 | **1.13x** ($+13) | 1.27x |  | pumpswap | 2026-03-20 00:32 |
+| 🔴 NETAINYAHU | $0.000057 | **0.97x** ($-3) | 1.16x |  | pumpswap | 2026-03-20 00:26 |
 
 ## Closed Positions
 

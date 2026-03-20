@@ -1,6 +1,6 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 02:04 UTC
+> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-21 |
-| 🏦 Total | **$-21** |
+| 📦 Unrealized | $-15 |
+| 🏦 Total | **$-15** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,9 +19,9 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Momo-chan | $0.000359 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 01:51 |
-| 🟡 HeavyPulp | $0.000753 | **1.10x** ($+10) | 1.13x |  | pumpswap | 2026-03-19 23:44 |
-| 🔴 MIM | $0.000074 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-19 23:34 |
-| 🔴 WIZARD | $0.000435 | **0.89x** ($-11) | 1.04x |  | pumpswap | 2026-03-19 23:07 |
+| 🟡 HeavyPulp | $0.000753 | **1.15x** ($+15) | 1.16x |  | pumpswap | 2026-03-19 23:44 |
+| 🔴 MIM | $0.000074 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-19 23:34 |
+| 🔴 WIZARD | $0.000435 | **0.91x** ($-9) | 1.04x |  | pumpswap | 2026-03-19 23:07 |
 | 🔴 SHAPE | $0.001378 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-19 22:35 |
 | 🟡 BGS | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 22:34 |
 

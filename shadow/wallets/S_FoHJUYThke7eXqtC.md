@@ -1,12 +1,12 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 02:04 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 02:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (12 open, 0 closed) |
+| Positions | 13 (13 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+26 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 XXXY | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 02:08 |
 | 🔴 NASDOG | $0.000003 | **0.95x** ($-5) | 1.15x |  | pumpfun | 2026-03-20 01:57 |
 | 🔴 NOSTALGIA | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 01:22 |
 | 🔴 RQR | $0.000003 | **0.85x** ($-15) | 1.05x |  | pumpfun | 2026-03-20 00:46 |
@@ -26,7 +27,7 @@
 | 🔴 Dickus | $0.000003 | **0.91x** ($-9) | 1.15x |  | pumpfun | 2026-03-20 00:19 |
 | 🔴 OMNIMAN | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 00:09 |
 | 🔴 FITR | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-19 23:56 |
-| 🟢 SHELBY | $0.000003 | **3.50x** ($+250) | 4.92x | ✅ | pumpfun | 2026-03-19 23:47 |
+| 🟢 SHELBY | $0.000003 | **3.45x** ($+245) | 4.92x | ✅ | pumpfun | 2026-03-19 23:47 |
 | 🔴 DULISAURUS | $0.000003 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 5GokR6FA | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-19 23:42 |
 | 🔴 BTEBnjqG | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-19 22:52 |
