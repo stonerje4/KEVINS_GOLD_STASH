@@ -1,18 +1,18 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 02:59 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 03:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (9 open, 7 closed) |
-| W/L | 1/6 (14%) |
-| 💵 Realized | $-186 |
+| Positions | 17 (9 open, 8 closed) |
+| W/L | 1/7 (12%) |
+| 💵 Realized | $-249 |
 | 📦 Unrealized | $+205 |
-| 🏦 Total | **$+20** |
+| 🏦 Total | **$-44** |
 | Best Trade | 1.5x |
-| Avg Peak | 2.1x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
@@ -32,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 5GsJXBfX | 0.37x | $-63 | stop_loss | 1.54x | pumpfun | 2026-03-20 02:59 → 2026-03-20 03:01 |
 | 🟡 NEMO | 0.84x | $-16 | trailing_stop_2x | 2.43x | pumpfun | 2026-03-20 02:23 → 2026-03-20 02:34 |
 | 🔴 Gz95UGCX | 0.40x | $-60 | stop_loss | 1.53x | pumpfun | 2026-03-20 01:22 → 2026-03-20 01:27 |
 | 🟡 Ham | 0.81x | $-19 | trailing_stop_2x | 2.40x | pumpswap | 2026-03-20 00:31 → 2026-03-20 00:58 |

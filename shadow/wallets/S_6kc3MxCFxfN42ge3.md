@@ -1,6 +1,6 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 02:59 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 03:04 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 2NbLjyqS | $0.000004 | **0.64x** ($-36) | 1.16x |  | pumpfun | 2026-03-20 02:57 |
+| 🔴 2NbLjyqS | $0.000004 | **0.63x** ($-37) | 1.16x |  | pumpfun | 2026-03-20 02:57 |
 | 🟡 ICEMAN | $0.000013 | **1.85x** ($+85) | 2.26x | ✅ | pumpfun | 2026-03-20 02:51 |
 | 🔴 5CZM95YX | $0.000004 | **0.64x** ($-36) | 1.13x |  | pumpfun | 2026-03-20 02:50 |
 | 🔴 SMCI | $0.000004 | **0.65x** ($-35) | 1.45x |  | pumpfun | 2026-03-20 02:48 |

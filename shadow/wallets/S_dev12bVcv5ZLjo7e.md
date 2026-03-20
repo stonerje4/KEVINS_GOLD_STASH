@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 02:59 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 03:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 27 (26 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+44 |
-| 🏦 Total | **$+89** |
+| 📦 Unrealized | $+50 |
+| 🏦 Total | **$+95** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 XCHAT | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 02:59 |
+| 🟡 XCHAT | $0.000003 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 02:59 |
 | 🟡 FyFJ64RR | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:37 |
 | 🔴 J3bSHVhq | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 02:35 |
 | 🟡 Nanami | $0.000003 | **1.01x** ($+1) | 1.11x |  | pumpfun | 2026-03-20 02:25 |

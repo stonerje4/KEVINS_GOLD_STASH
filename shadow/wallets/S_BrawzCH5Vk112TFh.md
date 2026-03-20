@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 02:59 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 03:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 116 (115 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+199 |
-| 📦 Unrealized | $+172 |
-| 🏦 Total | **$+370** |
+| 📦 Unrealized | $+155 |
+| 🏦 Total | **$+354** |
 | Best Trade | 3.0x |
 | Avg Peak | 9.7x |
 
@@ -108,7 +108,7 @@
 | 🟡 BBX | $0.000369 | **1.42x** ($+42) | 1.83x |  | pumpswap | 2026-03-19 23:39 |
 | 🟡 XAI | $0.000170 | **1.54x** ($+54) | 1.98x |  | pumpswap | 2026-03-19 23:36 |
 | 🔴 HEY | $0.000718 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
-| 🟡 AFC | $0.000006 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 23:34 |
+| 🔴 AFC | $0.000006 | **0.86x** ($-14) | 1.03x |  | pumpswap | 2026-03-19 23:34 |
 | 🟡 BOOF | $0.000009 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-19 23:31 |
 | 🟡 XAIC | $0.000190 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-19 23:30 |
 | 🟡 ROME | $0.000009 | **1.15x** ($+15) | 1.75x |  | pumpswap | 2026-03-19 23:26 |

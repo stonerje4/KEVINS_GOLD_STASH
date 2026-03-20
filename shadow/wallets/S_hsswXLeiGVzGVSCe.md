@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 02:59 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 03:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 94 (86 open, 8 closed) |
+| Positions | 95 (87 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+999 |
-| 📦 Unrealized | $-1,283 |
-| 🏦 Total | **$-284** |
+| 📦 Unrealized | $-1,255 |
+| 🏦 Total | **$-256** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.7x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Grokputer | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:57 |
+| 🟡 SNEHA | $0.000005 | **1.36x** ($+36) | 1.57x |  | pumpfun | 2026-03-20 02:59 |
+| 🔴 Grokputer | $0.000005 | **0.91x** ($-9) | 1.01x |  | pumpfun | 2026-03-20 02:57 |
 | 🔴 Island | $0.000005 | **0.57x** ($-43) | 1.00x |  | pumpfun | 2026-03-20 02:52 |
 | 🔴 Semi | $0.000003 | **0.74x** ($-26) | 1.01x |  | pumpfun | 2026-03-20 02:50 |
 | 🟡 Agent | $0.000004 | **2.00x** ($+100) | 2.00x |  | pumpfun | 2026-03-20 02:50 |

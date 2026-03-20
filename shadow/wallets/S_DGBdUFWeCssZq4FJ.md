@@ -1,12 +1,12 @@
 # Wallet: `DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv`
 
-> [View on Solscan](https://solscan.io/account/DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv) | Updated: 2026-03-20 02:59 UTC
+> [View on Solscan](https://solscan.io/account/DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv) | Updated: 2026-03-20 03:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
+| Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-76 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DRONE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:01 |
 | 🟡 FARTBUTT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:32 |
 | 🔴 MEMEPAL | $0.000006 | **0.53x** ($-47) | 1.03x |  | pumpfun | 2026-03-20 00:58 |
 | 🔴 TPCT | $0.000004 | **0.71x** ($-29) | 1.00x |  | pumpfun | 2026-03-19 23:19 |

@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 02:59 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 03:04 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-84 |
 | 📦 Unrealized | $-267 |
-| 🏦 Total | **$-351** |
+| 🏦 Total | **$-352** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.3x |
 

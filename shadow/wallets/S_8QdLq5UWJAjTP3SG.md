@@ -1,6 +1,6 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 02:59 UTC
+> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 03:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 27 (11 open, 16 closed) |
 | W/L | 2/14 (12%) |
 | 💵 Realized | $-553 |
-| 📦 Unrealized | $-76 |
-| 🏦 Total | **$-629** |
+| 📦 Unrealized | $-105 |
+| 🏦 Total | **$-658** |
 | Best Trade | 1.4x |
 | Avg Peak | 1.9x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ATXHQ1ch | $0.000005 | **0.78x** ($-22) | 1.16x |  | pumpfun | 2026-03-20 02:59 |
+| 🔴 ATXHQ1ch | $0.000005 | **0.50x** ($-50) | 1.16x |  | pumpfun | 2026-03-20 02:59 |
 | 🔴 5WAqTYuT | $0.000005 | **0.46x** ($-54) | 1.40x |  | pumpfun | 2026-03-20 02:26 |
 | 🔴 DuV1SgS2 | $0.000005 | **0.51x** ($-49) | 1.39x |  | pumpfun | 2026-03-20 02:22 |
 | 🟡 CHANNELS | $0.000023 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 02:19 |
