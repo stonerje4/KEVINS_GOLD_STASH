@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 13:54 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 13:59 UTC
 
 ## Summary
 
@@ -9,21 +9,21 @@
 | Positions | 306 (302 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
-| 📦 Unrealized | $+301 |
-| 🏦 Total | **$+297** |
-| Best ROI | 3.00x |
-| Avg ROI | 0.99x |
+| 📦 Unrealized | $+303 |
+| 🏦 Total | **$+299** |
+| Best Trade | 3.0x |
+| Avg Peak | 2.7x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 chibify | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
-| 🟡 Yahu | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
+| 🟡 Yahu | $0.000025 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
-| 🔴 CLAIR | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
-| 🔴 Helios | $0.000030 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
+| 🔴 CLAIR | $0.000015 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
+| 🔴 Helios | $0.000030 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
 | 🔴 Ava | $0.000014 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
 | 🔴 shitcoin | $0.000372 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
 | 🟡 ZENT | $0.000120 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:45 |
@@ -316,7 +316,7 @@
 | 🟡 imagineslop | $0.000005 | **1.29x** ($+29) | 1.45x |  | pumpswap | 2026-03-19 22:40 |
 | 🔴 Baldi | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-19 22:39 |
 | 🔴 BAGWORKOOR | $0.000055 | **0.95x** ($-5) | 1.32x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000385 | **1.55x** ($+55) | 1.72x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000385 | **1.54x** ($+54) | 1.72x |  | pumpswap | 2026-03-19 22:38 |
 | 🟡 DATBOI | $0.000044 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 22:37 |
 | 🔴 CL1 | $0.000335 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:36 |
 | 🔴 worth | $0.000107 | **0.96x** ($-4) | 1.17x |  | pumpswap | 2026-03-19 22:35 |

@@ -1,30 +1,35 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 13:54 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 13:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 157 (142 open, 15 closed) |
+| Positions | 162 (147 open, 15 closed) |
 | W/L | 7/8 (47%) |
 | 💵 Realized | $+1,019 |
-| 📦 Unrealized | $-2,585 |
-| 🏦 Total | **$-1,565** |
-| Best ROI | 5.93x |
-| Avg ROI | 1.68x |
+| 📦 Unrealized | $-2,596 |
+| 🏦 Total | **$-1,577** |
+| Best Trade | 5.9x |
+| Avg Peak | 4.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 N.O.M.A.D. | $0.000005 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-20 13:54 |
-| 🔴 Sunshine | $0.000005 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 13:51 |
-| 🟡 G36Cig1K | $0.000005 | **1.42x** ($+42) | 1.64x |  | pumpfun | 2026-03-20 13:47 |
-| 🟡 NATO | $0.000003 | **1.28x** ($+28) | 1.96x |  | pumpfun | 2026-03-20 13:47 |
-| 🔴 BEiMY5Wf | $0.000004 | **0.99x** ($-1) | 1.16x |  | pumpfun | 2026-03-20 13:43 |
+| 🟡 CHUCK | $0.000005 | **1.29x** ($+29) | 1.46x |  | pumpfun | 2026-03-20 13:57 |
+| 🔴 GRACE | $0.000004 | **0.79x** ($-21) | 1.01x |  | pumpfun | 2026-03-20 13:56 |
+| 🟡 5hGP7TP2 | $0.000005 | **1.24x** ($+24) | 1.57x |  | pumpfun | 2026-03-20 13:55 |
+| 🔴 DOGEVERSE | $0.000003 | **0.88x** ($-12) | 1.02x |  | pumpfun | 2026-03-20 13:55 |
+| 🟡 $RIPCHUCK | $0.000003 | **1.14x** ($+14) | 1.52x |  | pumpfun | 2026-03-20 13:54 |
+| 🔴 N.O.M.A.D. | $0.000005 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 13:54 |
+| 🔴 Sunshine | $0.000005 | **0.85x** ($-15) | 1.00x |  | pumpfun | 2026-03-20 13:51 |
+| 🟡 G36Cig1K | $0.000005 | **1.35x** ($+35) | 1.64x |  | pumpfun | 2026-03-20 13:47 |
+| 🟡 NATO | $0.000003 | **1.17x** ($+17) | 1.96x |  | pumpfun | 2026-03-20 13:47 |
+| 🔴 BEiMY5Wf | $0.000004 | **0.75x** ($-25) | 1.16x |  | pumpfun | 2026-03-20 13:43 |
 | 🔴 WRONG | $0.000003 | **0.80x** ($-20) | 1.24x |  | pumpfun | 2026-03-20 13:30 |
-| 🔴 chibi | $0.000005 | **0.76x** ($-24) | 1.00x |  | pumpfun | 2026-03-20 13:30 |
+| 🔴 chibi | $0.000005 | **0.71x** ($-29) | 1.00x |  | pumpfun | 2026-03-20 13:30 |
 | 🟡 COGLET | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:41 |
 | 🟡 ME | $0.000004 | **1.79x** ($+79) | 2.20x | ✅ | pumpfun | 2026-03-20 10:28 |
 | 🟡 7LhHK6Yf | $0.000003 | **1.02x** ($+2) | 1.04x |  | pumpfun | 2026-03-20 05:59 |

@@ -1,6 +1,6 @@
-# Wallet: `3x6beCUhtXGFhfSaDtB7FJmjFuML9SL8HrbYND3SHkMu`
+# Wallet: `G3bRFhiCr3nGZEhDUss6dnGjqyTzCwdXEWCsepdpZ9r4`
 
-> [View on Solscan](https://solscan.io/account/3x6beCUhtXGFhfSaDtB7FJmjFuML9SL8HrbYND3SHkMu) | Updated: 2026-03-20 13:59 UTC
+> [View on Solscan](https://solscan.io/account/G3bRFhiCr3nGZEhDUss6dnGjqyTzCwdXEWCsepdpZ9r4) | Updated: 2026-03-20 13:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+30 |
+| 🏦 Total | **$+30** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 $PEPETO | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:06 |
+| 🟡 RUNE | $0.000004 | **1.60x** ($+60) | 2.03x | ✅ | pumpfun | 2026-03-20 13:56 |
 
 ## Closed Positions
 

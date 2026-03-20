@@ -1,23 +1,24 @@
 # Wallet: `3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT`
 
-> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 13:54 UTC
+> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 13:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (13 open, 0 closed) |
+| Positions | 14 (14 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+6,304 |
 | 🏦 Total | **$+6,304** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SIGNAL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:58 |
 | 🟡 Patricia | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:15 |
 | 🟡 happiness | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:43 |
 | 🟡 PsyopChibi | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:16 |

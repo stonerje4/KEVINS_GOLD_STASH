@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 13:54 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 13:59 UTC
 
 ## Summary
 
@@ -11,14 +11,14 @@
 | 💵 Realized | $-268 |
 | 📦 Unrealized | $-73 |
 | 🏦 Total | **$-341** |
-| Best ROI | 0.81x |
-| Avg ROI | 0.46x |
+| Best Trade | 0.8x |
+| Avg Peak | 1.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Miki | $0.000012 | **1.27x** ($+27) | 1.36x |  | pumpfun | 2026-03-20 13:46 |
+| 🟡 Miki | $0.000012 | **1.27x** ($+27) | 1.37x |  | pumpfun | 2026-03-20 13:46 |
 | 🟡 IMAGINE | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 SMCI | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 WID | $0.000026 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:36 |
