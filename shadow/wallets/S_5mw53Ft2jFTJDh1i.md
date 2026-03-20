@@ -1,6 +1,6 @@
 # Wallet: `5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g`
 
-> [GMGN](https://gmgn.ai/sol/address/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | [Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-20 22:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | [Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-20 22:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (8 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-200 |
-| 📦 Unrealized | $+300 |
-| 🏦 Total | **$+100** |
+| 📦 Unrealized | $+293 |
+| 🏦 Total | **$+92** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.50x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 p-token | $0.000010 | **1.90x** ($+90) | 1.97x |  | pumpfun | 2026-03-20 21:57 |
-| 🟡 ZeroG | $0.000022 | **1.10x** ($+10) | 2.09x | ✅ | pumpswap | 2026-03-20 21:42 |
+| 🟢 p-token | $0.000010 | **2.51x** ($+151) | 2.66x | ✅ | pumpfun | 2026-03-20 21:57 |
+| 🟡 ZeroG | $0.000022 | **1.23x** ($+23) | 2.09x | ✅ | pumpswap | 2026-03-20 21:42 |
 | 🟢 TOKENMAXXING | $0.000015 | **2.40x** ($+140) | 2.48x | ✅ | pumpfun | 2026-03-20 21:16 |
 | 🚀 Sunshine | $0.000005 | **6.67x** ($+567) | 6.67x | ✅ | pumpfun | 2026-03-20 16:20 |
 | 🟡 Look | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |

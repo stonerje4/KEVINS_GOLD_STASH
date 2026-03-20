@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 22:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 22:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 25 (17 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-277 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-297** |
+| 📦 Unrealized | $+18 |
+| 🏦 Total | **$-259** |
 | Best ROI | 1.32x |
 | Avg ROI | 0.65x |
 
@@ -18,19 +18,19 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LIFE | $0.000005 | **1.04x** ($+4) | 1.28x |  | pumpfun | 2026-03-20 21:52 |
+| 🟡 LIFE | $0.000005 | **1.39x** ($+39) | 1.47x |  | pumpfun | 2026-03-20 21:52 |
 | 🔴 JEREMY | $0.000016 | **0.68x** ($-32) | 1.05x |  | pumpswap | 2026-03-20 20:56 |
 | 🟢 Cigify | $0.000010 | **3.68x** ($+268) | 3.68x | ✅ | pumpfun | 2026-03-20 20:55 |
 | 🔴 Samba | $0.000015 | **0.77x** ($-23) | 1.35x |  | pumpswap | 2026-03-20 20:42 |
 | 🟡 6eZMXJNA | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 20:29 |
 | 🔴 Aura | $0.000006 | **0.71x** ($-29) | 1.31x |  | pumpfun | 2026-03-20 20:22 |
 | 🔴 Forget | $0.000008 | **0.93x** ($-7) | 1.59x |  | pumpswap | 2026-03-20 19:24 |
-| 🔴 Massive | $0.000029 | **0.64x** ($-36) | 1.10x |  | pumpswap | 2026-03-20 18:52 |
+| 🔴 Massive | $0.000029 | **0.62x** ($-38) | 1.10x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 Sunshine | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
 | 🟡 SBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:34 |
 | 🟡 cigarette | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 PHIBZ | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:28 |
-| 🔴 chibify | $0.000011 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-20 10:59 |
+| 🔴 chibify | $0.000011 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 10:59 |
 | 🟡 EmH4y6zA | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 PVC | $0.000008 | **1.55x** ($+55) | 1.69x |  | pumpfun | 2026-03-20 03:18 |
 | 🔴 imagineslop | $0.000009 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 02:11 |

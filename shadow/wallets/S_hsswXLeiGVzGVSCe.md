@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 22:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 22:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 23 (18 open, 5 closed) |
 | W/L | 3/2 (60%) |
 | 💵 Realized | $+377 |
-| 📦 Unrealized | $-689 |
-| 🏦 Total | **$-312** |
+| 📦 Unrealized | $-664 |
+| 🏦 Total | **$-287** |
 | Best ROI | 2.93x |
 | Avg ROI | 1.75x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LIFE | $0.000005 | **1.06x** ($+6) | 1.30x |  | pumpfun | 2026-03-20 21:57 |
-| 🔴 TittyKiller | $0.000005 | **0.80x** ($-20) | 1.16x |  | pumpfun | 2026-03-20 21:56 |
+| 🟡 LIFE | $0.000005 | **1.41x** ($+41) | 1.50x |  | pumpfun | 2026-03-20 21:57 |
+| 🔴 TittyKiller | $0.000005 | **0.69x** ($-31) | 1.16x |  | pumpfun | 2026-03-20 21:56 |
 | 🔴 balanced | $0.000005 | **0.50x** ($-50) | 1.71x |  | pumpfun | 2026-03-20 20:44 |
 | 🔴 ESCAPE | $0.000005 | **0.56x** ($-44) | 1.00x |  | pumpfun | 2026-03-20 20:33 |
 | 🔴 HOLOYAHU | $0.000005 | **0.64x** ($-36) | 1.84x |  | pumpfun | 2026-03-20 18:22 |

@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 22:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 22:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 26 (23 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-105 |
-| 📦 Unrealized | $-314 |
-| 🏦 Total | **$-419** |
+| 📦 Unrealized | $-321 |
+| 🏦 Total | **$-427** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.65x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Saleh | $0.000012 | **0.88x** ($-12) | 1.14x |  | pumpswap | 2026-03-20 21:01 |
+| 🔴 Saleh | $0.000012 | **0.83x** ($-17) | 1.14x |  | pumpswap | 2026-03-20 21:01 |
 | 🔴 WID | $0.000019 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 19:06 |
 | 🔴 HOSPICE | $0.000012 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-20 16:13 |
 | 🟡 KENNY | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:26 |
 | 🔴 IMAGINE | $0.000039 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 11:56 |
 | 🟡 Luxury | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:56 |
 | 🔴 PATRIOT | $0.000009 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
-| 🔴 Massive | $0.000020 | **0.91x** ($-9) | 1.58x |  | pumpswap | 2026-03-20 07:28 |
+| 🔴 Massive | $0.000020 | **0.89x** ($-11) | 1.58x |  | pumpswap | 2026-03-20 07:28 |
 | 🔴 George | $0.000019 | **0.68x** ($-32) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
 | 🔴 LUMO | $0.000035 | **0.84x** ($-16) | 1.74x |  | pumpswap | 2026-03-20 04:31 |
 | 🔴 LIFE | $0.000039 | **0.54x** ($-46) | 1.01x |  | pumpswap | 2026-03-20 02:56 |

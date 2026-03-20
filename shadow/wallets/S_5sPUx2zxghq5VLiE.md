@@ -1,6 +1,6 @@
 # Wallet: `5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg`
 
-> [GMGN](https://gmgn.ai/sol/address/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | [Solscan](https://solscan.io/account/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | Updated: 2026-03-20 22:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | [Solscan](https://solscan.io/account/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | Updated: 2026-03-20 22:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (5 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-70 |
-| 📦 Unrealized | $+101 |
-| 🏦 Total | **$+31** |
+| 📦 Unrealized | $+104 |
+| 🏦 Total | **$+34** |
 | Best ROI | 0.30x |
 | Avg ROI | 0.30x |
 
@@ -22,7 +22,7 @@
 | 🟢 ceal | $0.000010 | **3.52x** ($+252) | 3.52x | ✅ | pumpfun | 2026-03-20 03:30 |
 | 🟡 LUMO | $0.000028 | **1.07x** ($+7) | 2.21x | ✅ | pumpswap | 2026-03-19 23:48 |
 | 🟢 Futa-kun | $0.000015 | **2.40x** ($+140) | 2.40x | ✅ | pumpfun | 2026-03-19 23:45 |
-| 🔴 F3 | $0.000023 | **0.55x** ($-45) | 1.14x |  | pumpfun | 2026-03-19 23:29 |
+| 🔴 F3 | $0.000023 | **0.58x** ($-42) | 1.14x |  | pumpfun | 2026-03-19 23:29 |
 
 ## Closed Positions
 
