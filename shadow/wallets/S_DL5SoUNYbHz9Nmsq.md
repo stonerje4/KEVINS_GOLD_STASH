@@ -1,6 +1,6 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 04:50 UTC
+> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 04:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (14 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-114 |
-| 🏦 Total | **$-114** |
+| 📦 Unrealized | $-104 |
+| 🏦 Total | **$-104** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Steak | $0.000005 | **0.97x** ($-3) | 1.05x |  | pumpswap | 2026-03-20 03:52 |
 | 🔴 比比拉布 | $0.000116 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 imagine | $0.000004 | **1.02x** ($+2) | 1.37x |  | pumpfun | 2026-03-20 03:07 |
+| 🟡 imagine | $0.000004 | **1.11x** ($+11) | 1.37x |  | pumpfun | 2026-03-20 03:07 |
 | 🟡 IMAGINE | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🟡 Futa-kun | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:57 |
 | 🔴 SCOTT | $0.000012 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:29 |

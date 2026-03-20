@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 04:50 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 04:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 89 (86 open, 3 closed) |
+| Positions | 90 (87 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+253 |
-| 🏦 Total | **$+163** |
+| 📦 Unrealized | $+260 |
+| 🏦 Total | **$+169** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Floki | $0.000053 | **1.00x** ($+0) | 1.09x |  | pumpswap | 2026-03-20 04:51 |
 | 🟡 Flash | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:47 |
-| 🔴 automaton | $0.000107 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 04:47 |
-| 🟡 CHOPPER | $0.000025 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 04:44 |
+| 🔴 automaton | $0.000107 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 04:47 |
+| 🟡 CHOPPER | $0.000025 | **1.10x** ($+10) | 1.11x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 Pete | $0.000219 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:55 |
 | 🟡 OIIA | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:53 |
 | 🟡 COLLECTIBLE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
@@ -29,7 +30,7 @@
 | 🟡 CLAW3D | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 Solana | $0.000173 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:18 |
-| 🔴 SAID | $0.000274 | **0.96x** ($-4) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
+| 🔴 SAID | $0.000274 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 Retardmaxx | $0.000356 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Rosie | $0.000878 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
@@ -98,7 +99,7 @@
 | 🔴 PIKAHORSE | $0.000373 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 MIROFISH | $0.000032 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 22:58 |
 | 🟡 Noesis | $0.000346 | **1.00x** ($+0) | 1.05x |  | pumpswap | 2026-03-19 22:58 |
-| 🟡 67 | $0.001147 | **1.08x** ($+8) | 1.11x |  | pumpswap | 2026-03-19 22:56 |
+| 🟡 67 | $0.001147 | **1.07x** ($+7) | 1.11x |  | pumpswap | 2026-03-19 22:56 |
 | 🔴 OXIDE | $0.000037 | **0.77x** ($-23) | 1.15x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 5 | $0.000011 | **0.89x** ($-11) | 1.12x |  | pumpswap | 2026-03-19 22:47 |
 | 🟡 TGR | $0.000104 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-19 22:43 |

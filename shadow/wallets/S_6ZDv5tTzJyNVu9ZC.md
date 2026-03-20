@@ -1,16 +1,16 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 04:50 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 04:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 126 (125 open, 1 closed) |
+| Positions | 127 (126 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+195 |
-| 📦 Unrealized | $+426 |
-| 🏦 Total | **$+621** |
+| 📦 Unrealized | $+424 |
+| 🏦 Total | **$+619** |
 | Best Trade | 2.9x |
 | Avg Peak | 9.8x |
 
@@ -18,23 +18,24 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 automaton | $0.000104 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 04:48 |
-| 🔴 Gizmo | $0.000013 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 04:45 |
+| 🟡 OPAL | $0.000458 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 04:53 |
+| 🟡 automaton | $0.000104 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 04:48 |
+| 🔴 Gizmo | $0.000013 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 04:45 |
 | 🟡 Spiderman | $0.000121 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:42 |
 | 🟡 Moe-chan | $0.000014 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 04:36 |
 | 🟡 Gany | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:28 |
 | 🟡 Xingxing | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:25 |
 | 🔴 SPESH | $0.000005 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 04:09 |
 | 🔴 eUSD | $0.000012 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 04:04 |
-| 🟡 Gascoin | $0.000032 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 04:02 |
-| 🔴 MOJTABA | $0.000011 | **0.94x** ($-6) | 1.02x |  | pumpswap | 2026-03-20 03:59 |
-| 🟡 PYRO | $0.000036 | **1.00x** ($+0) | 1.03x |  | pumpswap | 2026-03-20 03:46 |
+| 🟡 Gascoin | $0.000032 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-20 04:02 |
+| 🔴 MOJTABA | $0.000011 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-20 03:59 |
+| 🟡 PYRO | $0.000036 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 AIFRUITS | $0.000658 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 UGOR | $0.000906 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000101 | **1.40x** ($+40) | 1.45x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000101 | **1.39x** ($+39) | 1.45x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 OILINU | $0.000077 | **1.07x** ($+7) | 1.10x |  | pumpswap | 2026-03-20 03:18 |
-| 🔴 SAID | $0.000274 | **0.96x** ($-4) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
+| 🔴 SAID | $0.000274 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 UBT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:05 |
 | 🟡 AFC | $0.000005 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 03:03 |

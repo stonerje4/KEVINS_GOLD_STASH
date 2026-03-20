@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 04:50 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 04:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 82 (81 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+17 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$-57** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -19,10 +19,10 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 SOS | $0.000926 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 04:45 |
-| 🟡 CHOPPER | $0.000025 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-20 04:44 |
+| 🟡 CHOPPER | $0.000025 | **1.09x** ($+9) | 1.10x |  | pumpswap | 2026-03-20 04:44 |
 | 🔴 Punch | $0.014730 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Spiderman | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:42 |
-| 🔴 YEPE | $0.000092 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 04:40 |
+| 🔴 YEPE | $0.000092 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:14 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |

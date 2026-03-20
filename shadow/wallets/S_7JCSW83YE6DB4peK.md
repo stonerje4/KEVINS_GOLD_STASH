@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 04:50 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 04:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 66 (65 open, 1 closed) |
+| Positions | 67 (66 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+125 |
-| 🏦 Total | **$+46** |
+| 📦 Unrealized | $+128 |
+| 🏦 Total | **$+49** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,17 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 OPAL | $0.000466 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 04:53 |
 | 🟡 SOLINU | $0.000194 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:37 |
 | 🟡 咕咕嘎嘎 | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 BAGWORKOOR | $0.000047 | **1.12x** ($+12) | 1.13x |  | pumpswap | 2026-03-20 04:20 |
 | 🟡 Foodrot | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:56 |
 | 🟡 唐子兵法 | $0.001788 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:52 |
-| 🔴 Gizmo | $0.000014 | **0.82x** ($-18) | 1.01x |  | pumpswap | 2026-03-20 03:38 |
+| 🔴 Gizmo | $0.000014 | **0.78x** ($-22) | 1.01x |  | pumpswap | 2026-03-20 03:38 |
 | 🟡 Fro | $0.000206 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:32 |
 | 🟡 Spiderman | $0.000156 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🔴 CIRCLES | $0.000057 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 Solana | $0.000158 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
-| 🟡 CTWIKI | $0.000052 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 03:17 |
+| 🟡 CTWIKI | $0.000052 | **1.09x** ($+9) | 1.10x |  | pumpswap | 2026-03-20 03:17 |
 | 🟡 Gany | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:13 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 Distorted | $0.001015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:51 |
@@ -75,7 +76,7 @@
 | 🔴 Hamster  | $0.000228 | **0.98x** ($-2) | 1.17x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 XAI | $0.000159 | **1.65x** ($+65) | 2.12x | ✅ | pumpswap | 2026-03-19 23:36 |
 | 🟡 BBX | $0.000425 | **1.23x** ($+23) | 1.58x |  | pumpswap | 2026-03-19 23:36 |
-| 🟡 INCOME | $0.000623 | **1.00x** ($+0) | 1.17x |  | pumpswap | 2026-03-19 23:35 |
+| 🟡 INCOME | $0.000623 | **1.04x** ($+4) | 1.17x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 HOSPICE | $0.000024 | **0.99x** ($-1) | 1.21x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 Downald | $0.001104 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
 | 🔴 whiskers | $0.000011 | **0.75x** ($-25) | 1.02x |  | pumpswap | 2026-03-19 23:15 |

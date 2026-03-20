@@ -1,12 +1,12 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 04:50 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 04:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 31 (28 open, 3 closed) |
+| Positions | 33 (30 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-76 |
 | 📦 Unrealized | $-126 |
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 IShowSpeed | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:52 |
+| 🟡 Luxury | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:50 |
 | 🟡 DLORP | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:28 |
 | 🟡 FKH | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:54 |
 | 🟡 Solana | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:42 |

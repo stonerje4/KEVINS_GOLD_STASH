@@ -1,16 +1,16 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 04:50 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 04:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (10 open, 2 closed) |
+| Positions | 13 (11 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $+131 |
-| 🏦 Total | **$+55** |
+| 📦 Unrealized | $+110 |
+| 🏦 Total | **$+34** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TADC | $0.000018 | **1.35x** ($+35) | 1.57x |  | pumpfun | 2026-03-20 04:34 |
+| 🟡 Gnd9Cmzo | $0.000005 | **1.22x** ($+22) | 1.33x |  | pumpfun | 2026-03-20 04:54 |
+| 🔴 TADC | $0.000018 | **0.92x** ($-8) | 1.57x |  | pumpfun | 2026-03-20 04:34 |
 | 🟡 HelloWorld! | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 3vvqvjhV | $0.000004 | **0.62x** ($-38) | 1.11x |  | pumpfun | 2026-03-20 04:00 |
 | 🟡 ceal | $0.000031 | **1.17x** ($+17) | 1.17x |  | pumpfun | 2026-03-20 03:33 |

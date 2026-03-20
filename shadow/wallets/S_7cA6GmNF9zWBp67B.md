@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 04:50 UTC
+> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 04:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+38 |
-| 🏦 Total | **$+38** |
+| 📦 Unrealized | $+47 |
+| 🏦 Total | **$+47** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Aliens | $0.000104 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:48 |
-| 🔴 TRENCHY | $0.000022 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 04:23 |
+| 🟡 TRENCHY | $0.000022 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 04:23 |
 | 🟡 CHOCOTINA | $0.000007 | **1.05x** ($+5) | 1.14x |  | pumpswap | 2026-03-20 04:17 |
 | 🟡 Dryer | $0.000023 | **1.62x** ($+62) | 1.62x |  | pumpfun | 2026-03-20 03:58 |
 | 🟡 NEMO | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:57 |
