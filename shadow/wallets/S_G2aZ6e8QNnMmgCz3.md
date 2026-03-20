@@ -1,6 +1,6 @@
 # Wallet: `G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W`
 
-> [View on Solscan](https://solscan.io/account/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | Updated: 2026-03-20 15:17 UTC
+> [GMGN](https://gmgn.ai/sol/address/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | [Solscan](https://solscan.io/account/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | Updated: 2026-03-20 15:18 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Squishy | $0.000018 | **1.06x** ($+6) | 1.12x |  | pumpswap | 2026-03-20 01:36 |
-| 🔴 AMBALABU | $0.000064 | **0.45x** ($-55) | 1.17x |  | pumpswap | 2026-03-20 01:35 |
+| 🔴 AMBALABU | $0.000064 | **0.46x** ($-54) | 1.17x |  | pumpswap | 2026-03-20 01:35 |
 
 ## Closed Positions
 

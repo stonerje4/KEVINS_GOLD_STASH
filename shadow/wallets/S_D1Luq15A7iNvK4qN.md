@@ -1,6 +1,6 @@
 # Wallet: `D1Luq15A7iNvK4qNuVYTBqGS6g1dJRkvete7xK5Tjvhu`
 
-> [View on Solscan](https://solscan.io/account/D1Luq15A7iNvK4qNuVYTBqGS6g1dJRkvete7xK5Tjvhu) | Updated: 2026-03-20 15:17 UTC
+> [GMGN](https://gmgn.ai/sol/address/D1Luq15A7iNvK4qNuVYTBqGS6g1dJRkvete7xK5Tjvhu) | [Solscan](https://solscan.io/account/D1Luq15A7iNvK4qNuVYTBqGS6g1dJRkvete7xK5Tjvhu) | Updated: 2026-03-20 15:18 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$+4** |
+| 📦 Unrealized | $+1 |
+| 🏦 Total | **$+1** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 YEPE | $0.000104 | **1.02x** ($+2) | 1.12x |  | pumpswap | 2026-03-20 14:29 |
+| 🔴 YEPE | $0.000104 | **0.98x** ($-2) | 1.12x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Agentmaxxing | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:38 |
 
 ## Closed Positions

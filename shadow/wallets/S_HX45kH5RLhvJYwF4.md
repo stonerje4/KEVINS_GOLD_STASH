@@ -1,6 +1,6 @@
 # Wallet: `HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5`
 
-> [View on Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 15:17 UTC
+> [GMGN](https://gmgn.ai/sol/address/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | [Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 15:18 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-40 |
-| 🏦 Total | **$-40** |
+| 📦 Unrealized | $-41 |
+| 🏦 Total | **$-41** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Judy | $0.000024 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 13:57 |
+| 🔴 Judy | $0.000024 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:57 |
 | 🟡 CHIBIPUNCH | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:10 |
 | 🟡 Cented | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:59 |
 | 🔴 Floki | $0.000014 | **0.66x** ($-34) | 1.08x |  | pumpswap | 2026-03-20 10:37 |

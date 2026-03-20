@@ -1,6 +1,6 @@
 # Wallet: `HyCy2Eq6bcoSTNTddoowsiqPZo87toizscTpeUKg8otQ`
 
-> [View on Solscan](https://solscan.io/account/HyCy2Eq6bcoSTNTddoowsiqPZo87toizscTpeUKg8otQ) | Updated: 2026-03-20 15:17 UTC
+> [GMGN](https://gmgn.ai/sol/address/HyCy2Eq6bcoSTNTddoowsiqPZo87toizscTpeUKg8otQ) | [Solscan](https://solscan.io/account/HyCy2Eq6bcoSTNTddoowsiqPZo87toizscTpeUKg8otQ) | Updated: 2026-03-20 15:18 UTC
 
 ## Summary
 

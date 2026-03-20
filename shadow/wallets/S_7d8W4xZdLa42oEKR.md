@@ -1,6 +1,6 @@
 # Wallet: `7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ`
 
-> [View on Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-20 15:17 UTC
+> [GMGN](https://gmgn.ai/sol/address/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | [Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-20 15:18 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-30 |
-| 🏦 Total | **$-30** |
+| 📦 Unrealized | $-32 |
+| 🏦 Total | **$-32** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -26,7 +26,7 @@
 | 🔴 PIKE | $0.000041 | **0.90x** ($-10) | 1.05x |  | pumpswap | 2026-03-20 01:10 |
 | 🟡 herm | $0.000163 | **1.23x** ($+23) | 1.35x |  | pumpswap | 2026-03-20 00:23 |
 | 🟡 tinfoil | $0.000043 | **1.12x** ($+12) | 1.39x |  | pumpswap | 2026-03-20 00:22 |
-| 🔴 Fro | $0.000177 | **0.74x** ($-26) | 1.84x |  | pumpswap | 2026-03-19 23:13 |
+| 🔴 Fro | $0.000177 | **0.72x** ($-28) | 1.84x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 FL | $0.000100 | **0.91x** ($-9) | 1.12x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 NETANYAHU | $0.000108 | **0.92x** ($-8) | 1.10x |  | pumpswap | 2026-03-19 23:08 |
 

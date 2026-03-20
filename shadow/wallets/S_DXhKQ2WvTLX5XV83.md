@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [View on Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 15:17 UTC
+> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 15:18 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 26 (10 open, 16 closed) |
 | W/L | 0/16 (0%) |
 | 💵 Realized | $-1,600 |
-| 📦 Unrealized | $+1,936 |
-| 🏦 Total | **$+336** |
+| 📦 Unrealized | $+2,000 |
+| 🏦 Total | **$+400** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 FOID | $0.000000 | **89.93x** ($+8,893) | 109.46x | ✅ | pumpfun | 2026-03-20 14:59 |
+| 🚀 FOID | $0.000000 | **92.80x** ($+9,180) | 109.46x | ✅ | pumpfun | 2026-03-20 14:59 |
 | 🟡 CHIBIPUNCH | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:42 |
 | 🟡 SNIFFER | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:05 |
 | 🟡 Me/Me | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:01 |

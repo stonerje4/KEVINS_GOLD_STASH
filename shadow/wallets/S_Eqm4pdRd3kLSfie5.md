@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 15:17 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 15:18 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-142 |
 | 📦 Unrealized | $+226 |
-| 🏦 Total | **$+84** |
+| 🏦 Total | **$+85** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.72x |
 
@@ -52,7 +52,7 @@
 | 🔴 驚き | $0.000015 | **0.92x** ($-8) | 1.06x |  | pumpswap | 2026-03-20 01:59 |
 | 🔴 bitty | $0.000004 | **0.67x** ($-33) | 1.54x |  | pumpfun | 2026-03-20 01:55 |
 | 🔴 Baby | $0.000003 | **0.87x** ($-13) | 1.02x |  | pumpfun | 2026-03-20 01:30 |
-| 🚀 Income | $0.000003 | **6.25x** ($+525) | 7.23x | ✅ | pumpfun | 2026-03-20 01:25 |
+| 🚀 Income | $0.000003 | **6.26x** ($+526) | 7.23x | ✅ | pumpfun | 2026-03-20 01:25 |
 | 🔴 Futa-san | $0.000003 | **0.79x** ($-21) | 1.01x |  | pumpfun | 2026-03-20 01:18 |
 | 🟡 CHIBI | $0.000860 | **1.21x** ($+21) | 1.51x |  | pumpswap | 2026-03-20 00:26 |
 | 🟡 Mainer | $0.000004 | **1.32x** ($+32) | 1.67x |  | pumpfun | 2026-03-19 23:54 |

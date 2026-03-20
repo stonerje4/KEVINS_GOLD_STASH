@@ -1,6 +1,6 @@
 # Wallet: `9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv`
 
-> [View on Solscan](https://solscan.io/account/9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv) | Updated: 2026-03-20 15:17 UTC
+> [GMGN](https://gmgn.ai/sol/address/9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv) | [Solscan](https://solscan.io/account/9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv) | Updated: 2026-03-20 15:18 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000392 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
+| 🔴 Chuck | $0.000392 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
 | 🔴 SPIDERMAN | $0.000004 | **0.60x** ($-40) | 1.38x |  | pumpfun | 2026-03-20 01:20 |
 | 🔴 2tGXZnrU | $0.000005 | **0.51x** ($-49) | 1.23x |  | pumpfun | 2026-03-20 00:46 |
 | 🔴 EViRG6FH | $0.000005 | **0.49x** ($-51) | 1.10x |  | pumpfun | 2026-03-20 00:12 |

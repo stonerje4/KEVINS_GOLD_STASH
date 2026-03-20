@@ -1,6 +1,6 @@
 # Wallet: `J4n7sK27eoDCVwzGJdcrmQz4kEH6cvvL2strjkYu5imW`
 
-> [View on Solscan](https://solscan.io/account/J4n7sK27eoDCVwzGJdcrmQz4kEH6cvvL2strjkYu5imW) | Updated: 2026-03-20 15:17 UTC
+> [GMGN](https://gmgn.ai/sol/address/J4n7sK27eoDCVwzGJdcrmQz4kEH6cvvL2strjkYu5imW) | [Solscan](https://solscan.io/account/J4n7sK27eoDCVwzGJdcrmQz4kEH6cvvL2strjkYu5imW) | Updated: 2026-03-20 15:18 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+36 |
-| 🏦 Total | **$+36** |
+| 📦 Unrealized | $+43 |
+| 🏦 Total | **$+43** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OSP | $0.000020 | **1.27x** ($+27) | 1.27x |  | pumpfun | 2026-03-20 05:25 |
+| 🟡 OSP | $0.000020 | **1.33x** ($+33) | 1.33x |  | pumpfun | 2026-03-20 05:25 |
 | 🟡 DRONE | $0.000048 | **1.09x** ($+9) | 1.11x |  | pumpswap | 2026-03-20 02:17 |
 
 ## Closed Positions
