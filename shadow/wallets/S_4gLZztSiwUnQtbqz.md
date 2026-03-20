@@ -1,6 +1,6 @@
 # Wallet: `4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u`
 
-> [GMGN](https://gmgn.ai/sol/address/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | [Solscan](https://solscan.io/account/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | Updated: 2026-03-20 22:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | [Solscan](https://solscan.io/account/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | Updated: 2026-03-20 23:00 UTC
 
 ## Summary
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CAINE | $0.000028 | **1.83x** ($+83) | 2.20x | ✅ | pumpswap | 2026-03-20 22:51 |
-| 🔴 5bZ8duCe | $0.000029 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-20 18:05 |
+| 🟡 CAINE | $0.000028 | **1.77x** ($+77) | 2.54x | ✅ | pumpswap | 2026-03-20 22:51 |
+| 🔴 5bZ8duCe | $0.000029 | **0.58x** ($-42) | 1.00x |  | pumpfun | 2026-03-20 18:05 |
 | 🟡 9Yqs3sVA | $0.000014 | **1.62x** ($+62) | 2.62x | ✅ | pumpfun | 2026-03-20 02:07 |
 
 ## Closed Positions

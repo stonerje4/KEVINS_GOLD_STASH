@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 22:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 23:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (12 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-236 |
-| 📦 Unrealized | $+263 |
-| 🏦 Total | **$+27** |
+| 📦 Unrealized | $+261 |
+| 🏦 Total | **$+25** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.66x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Realize | $0.000019 | **0.97x** ($-3) | 1.27x |  | pumpswap | 2026-03-20 20:41 |
 | 🟡 NICK | $0.000027 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-20 19:41 |
-| 🔴 Alien | $0.000022 | **0.54x** ($-46) | 1.97x |  | pumpswap | 2026-03-20 14:20 |
+| 🔴 Alien | $0.000022 | **0.52x** ($-48) | 1.97x |  | pumpswap | 2026-03-20 14:20 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
 | 🟢 ME | $0.000006 | **3.77x** ($+277) | 3.99x | ✅ | pumpfun | 2026-03-20 12:51 |
 | 🟡 NOTICER | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |

@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 22:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 23:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 45 (39 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-184 |
-| 📦 Unrealized | $-153 |
-| 🏦 Total | **$-337** |
+| 📦 Unrealized | $-159 |
+| 🏦 Total | **$-344** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.69x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 LIBERTY | $0.000005 | **0.96x** ($-4) | 1.25x |  | pumpswap | 2026-03-20 22:22 |
+| 🟡 LIBERTY | $0.000005 | **1.00x** ($+0) | 1.25x |  | pumpswap | 2026-03-20 22:22 |
 | 🔴 Hello World! | $0.000012 | **0.60x** ($-40) | 1.03x |  | pumpswap | 2026-03-20 22:19 |
-| 🟡 CAINE | $0.000027 | **1.90x** ($+90) | 2.29x | ✅ | pumpswap | 2026-03-20 22:09 |
+| 🟡 CAINE | $0.000027 | **1.84x** ($+84) | 2.63x | ✅ | pumpswap | 2026-03-20 22:09 |
 | 🔴 METAMEME | $0.000006 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 20:51 |
-| 🔴 SNIFFER | $0.000034 | **0.57x** ($-43) | 1.59x |  | pumpswap | 2026-03-20 18:59 |
+| 🔴 SNIFFER | $0.000034 | **0.50x** ($-50) | 1.59x |  | pumpswap | 2026-03-20 18:59 |
 | 🔴 Octogent | $0.000006 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 18:41 |
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
 | 🔴 Dryer | $0.000016 | **0.87x** ($-13) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |
