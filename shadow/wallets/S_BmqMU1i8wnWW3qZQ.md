@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 19:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 19:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 235 (231 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $+101 |
-| 📦 Unrealized | $-1,132 |
-| 🏦 Total | **$-1,031** |
+| 📦 Unrealized | $-1,162 |
+| 🏦 Total | **$-1,061** |
 | Best ROI | 2.75x |
 | Avg ROI | 1.25x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chud | $0.000035 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
+| 🔴 Chud | $0.000035 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
 | 🟡 Feels | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:24 |
 | 🔴 ZWF | $0.000010 | **0.40x** ($-60) | 1.00x |  | pumpswap | 2026-03-20 17:44 |
 | 🔴 PATAPIM | $0.000007 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 17:34 |
@@ -29,7 +29,7 @@
 | 🔴 Newscum | $0.000021 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 16:25 |
 | 🔴 NORMIE | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 15:19 |
 | 🔴 LNG | $0.000006 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 15:01 |
-| 🔴 clod | $0.000035 | **0.53x** ($-47) | 1.13x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 clod | $0.000035 | **0.48x** ($-52) | 1.13x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🟡 TRENCHERIA | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🔴 Pixel | $0.000011 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
@@ -43,7 +43,7 @@
 | 🔴 KAGE | $0.000015 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 12:47 |
 | 🔴 Sybil  | $0.000039 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
 | 🔴 MOMO | $0.000038 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-20 12:41 |
-| 🔴 Speak | $0.000024 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 12:27 |
+| 🔴 Speak | $0.000024 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 12:27 |
 | 🟡 XPD | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:25 |
 | 🟡 basefun | $0.000024 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 12:08 |
 | 🔴 CHIBITRUMP | $0.000017 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
@@ -194,7 +194,7 @@
 | 🔴 house | $0.000008 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-20 00:24 |
 | 🔴 Skull | $0.000011 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 00:22 |
 | 🔴 DiCaprio | $0.000013 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 00:20 |
-| 🔴 Ouroboros | $0.000037 | **0.61x** ($-39) | 1.00x |  | pumpswap | 2026-03-20 00:20 |
+| 🔴 Ouroboros | $0.000037 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 00:20 |
 | 🟡 Lana | $0.000024 | **1.28x** ($+28) | 1.67x |  | pumpswap | 2026-03-20 00:16 |
 | 🔴 SKILL | $0.000015 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 00:15 |
 | 🔴 wallahi | $0.000033 | **0.90x** ($-10) | 1.08x |  | pumpswap | 2026-03-20 00:15 |
@@ -230,7 +230,7 @@
 | 🔴 whiskers | $0.000010 | **0.79x** ($-21) | 1.07x |  | pumpswap | 2026-03-19 23:15 |
 | 🔴 FTR | $0.000033 | **0.79x** ($-21) | 1.02x |  | pumpswap | 2026-03-19 23:15 |
 | 🔴 INCOG | $0.000015 | **0.84x** ($-16) | 1.23x |  | pumpswap | 2026-03-19 23:14 |
-| 🔴 HOSPICE | $0.000026 | **0.43x** ($-57) | 1.12x |  | pumpswap | 2026-03-19 23:11 |
+| 🔴 HOSPICE | $0.000026 | **0.42x** ($-58) | 1.12x |  | pumpswap | 2026-03-19 23:11 |
 | 🔴 clawedin | $0.000018 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-19 23:10 |
 | 🔴 Octogent | $0.000012 | **0.44x** ($-56) | 1.00x |  | pumpswap | 2026-03-19 23:03 |
 | 🔴 페이커 | $0.000007 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-19 23:02 |

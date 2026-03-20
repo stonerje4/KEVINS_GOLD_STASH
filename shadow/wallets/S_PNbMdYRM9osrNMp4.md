@@ -1,6 +1,6 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 19:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 19:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (16 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-168 |
-| 📦 Unrealized | $+87 |
-| 🏦 Total | **$-81** |
+| 📦 Unrealized | $+78 |
+| 🏦 Total | **$-89** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.58x |
 
@@ -24,7 +24,7 @@
 | 🔴 Samba | $0.000013 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 15:27 |
 | 🟡 Feels | $0.000010 | **1.24x** ($+24) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 LVLUP | $0.000007 | **0.96x** ($-4) | 1.32x |  | pumpfun | 2026-03-20 15:00 |
-| 🔴 clod | $0.000020 | **0.93x** ($-7) | 1.99x |  | pumpswap | 2026-03-20 12:04 |
+| 🔴 clod | $0.000020 | **0.84x** ($-16) | 1.99x |  | pumpswap | 2026-03-20 12:04 |
 | 🟡 chud | $0.000022 | **1.08x** ($+8) | 1.53x |  | pumpswap | 2026-03-20 05:50 |
 | 🟡 RETURN | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 Patience | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |

@@ -1,6 +1,6 @@
 # Wallet: `8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe`
 
-> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 19:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 19:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (4 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-340 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-374** |
+| 📦 Unrealized | $-16 |
+| 🏦 Total | **$-356** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.32x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 CAT | $0.000011 | **0.71x** ($-29) | 1.33x |  | pumpfun | 2026-03-20 18:56 |
-| 🔴 POLARA | $0.000020 | **0.94x** ($-6) | 1.01x |  | pumpfun | 2026-03-20 18:30 |
+| 🟡 POLARA | $0.000020 | **1.13x** ($+13) | 1.20x |  | pumpfun | 2026-03-20 18:30 |
 | 🟡 Sunshine | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:34 |
 | 🟡 MFT | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:33 |
 

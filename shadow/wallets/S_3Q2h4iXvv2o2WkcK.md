@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 19:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 19:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (19 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-162 |
-| 🏦 Total | **$-240** |
+| 📦 Unrealized | $-168 |
+| 🏦 Total | **$-245** |
 | Best ROI | 0.23x |
 | Avg ROI | 0.23x |
 
@@ -24,7 +24,7 @@
 | 🟡 ME | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
 | 🔴 ZeroG | $0.000011 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 16:23 |
 | 🟡 PACO | $0.000009 | **1.39x** ($+39) | 1.40x |  | pumpswap | 2026-03-20 15:45 |
-| 🔴 clod | $0.000031 | **0.59x** ($-41) | 1.26x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 clod | $0.000031 | **0.53x** ($-47) | 1.26x |  | pumpswap | 2026-03-20 14:55 |
 | 🔴 Dryer | $0.000034 | **0.42x** ($-58) | 1.18x |  | pumpswap | 2026-03-20 10:45 |
 | 🟡 CHIBI | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:09 |
 | 🟡 Pixel | $0.000008 | **1.13x** ($+13) | 1.97x |  | pumpswap | 2026-03-20 09:08 |

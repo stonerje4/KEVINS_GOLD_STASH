@@ -1,6 +1,6 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 19:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 19:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-149 |
-| 📦 Unrealized | $-18 |
-| 🏦 Total | **$-166** |
+| 📦 Unrealized | $-36 |
+| 🏦 Total | **$-185** |
 | Best ROI | 0.28x |
 | Avg ROI | 0.26x |
 
@@ -21,7 +21,7 @@
 | 🔴 Simulation | $0.000024 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 15:21 |
 | 🟡 401k | $0.000008 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 08:48 |
 | 🔴 ONSING | $0.000009 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 08:00 |
-| 🔴 Ouroboros | $0.000026 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
+| 🔴 Ouroboros | $0.000026 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
 
 ## Closed Positions
 

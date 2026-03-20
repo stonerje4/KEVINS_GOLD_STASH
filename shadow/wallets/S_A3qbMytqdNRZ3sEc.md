@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 19:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 19:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 41 (38 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-89 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$-85** |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-112** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.70x |
 
@@ -22,7 +22,7 @@
 | 🔴 Octogent | $0.000006 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 18:41 |
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
 | 🔴 Dryer | $0.000016 | **0.87x** ($-13) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |
-| 🔴 clod | $0.000024 | **0.75x** ($-25) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
+| 🔴 clod | $0.000024 | **0.68x** ($-32) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 Simulation | $0.000022 | **0.81x** ($-19) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
 | 🔴 CHANNELS | $0.000024 | **0.84x** ($-16) | 1.07x |  | pumpswap | 2026-03-20 13:59 |
 | 🟡 Alien | $0.000020 | **1.88x** ($+88) | 2.14x | ✅ | pumpswap | 2026-03-20 13:28 |
@@ -31,9 +31,9 @@
 | 🟡 Saleh | $0.000017 | **1.27x** ($+27) | 1.27x |  | pumpswap | 2026-03-20 11:57 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 DRIVE | $0.000014 | **1.14x** ($+14) | 1.15x |  | pumpswap | 2026-03-20 10:54 |
-| 🔴 Ouroboros | $0.000034 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 10:37 |
+| 🔴 Ouroboros | $0.000034 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 10:37 |
 | 🟡 ARIA | $0.000022 | **1.09x** ($+9) | 1.31x |  | pumpswap | 2026-03-20 09:04 |
-| 🟡 IMAGINE | $0.000036 | **1.17x** ($+17) | 2.73x | ✅ | pumpswap | 2026-03-20 08:55 |
+| 🟡 IMAGINE | $0.000036 | **1.07x** ($+7) | 2.73x | ✅ | pumpswap | 2026-03-20 08:55 |
 | 🔴 Antigravity | $0.000008 | **0.59x** ($-41) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 IMAGINE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
 | 🟡 Futa-kun | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
