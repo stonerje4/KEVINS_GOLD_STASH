@@ -1,17 +1,17 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 15:04 UTC
+> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 15:07 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (16 open, 13 closed) |
-| W/L | 0/13 (0%) |
-| 💵 Realized | $-900 |
-| 📦 Unrealized | $+152 |
-| 🏦 Total | **$-748** |
-| Best ROI | 0.39x |
+| Positions | 29 (15 open, 14 closed) |
+| W/L | 0/14 (0%) |
+| 💵 Realized | $-960 |
+| 📦 Unrealized | $+80 |
+| 🏦 Total | **$-880** |
+| Best ROI | 0.40x |
 | Avg ROI | 0.31x |
 
 ## Open Positions
@@ -32,7 +32,6 @@
 | 🟡 Nigel | $0.000194 | **1.07x** ($+7) | 1.36x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 TRAITOR | $0.000003 | **1.41x** ($+41) | 2.80x | ✅ | pumpswap | 2026-03-19 22:50 |
 | 🔴 NIGGA | $0.000014 | **0.63x** ($-37) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
-| 🟡 Pete | $0.000161 | **1.72x** ($+72) | 1.90x |  | pumpswap | 2026-03-19 22:49 |
 | 🟡 BBX | $0.000441 | **1.19x** ($+19) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
@@ -50,6 +49,7 @@
 | 🔴 Patricia | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:14 → 2026-03-19 23:14 |
 | 🔴 $Alienator | 0.33x | $-67 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:12 → 2026-03-19 23:12 |
 | 🔴 WhiteBoy  | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-19 22:52 → 2026-03-19 22:52 |
+| 🔴 Pete | 0.40x | $-60 | stop_loss | 1.90x | pumpswap | 2026-03-19 22:49 → 2026-03-20 15:05 |
 | 🔴 Anton | 0.33x | $-67 | stop_loss | 1.00x | pumpswap | 2026-03-19 22:47 → 2026-03-19 22:47 |
 | 🔴 Pete | 0.31x | $-69 | stop_loss | 1.00x | pumpswap | 2026-03-19 22:39 → 2026-03-19 22:39 |
 

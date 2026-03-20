@@ -1,6 +1,6 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 15:04 UTC
+> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 15:07 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 23 (22 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-178 |
-| 🏦 Total | **$-264** |
+| 📦 Unrealized | $-195 |
+| 🏦 Total | **$-281** |
 | Best ROI | 0.14x |
 | Avg ROI | 0.14x |
 
@@ -36,7 +36,7 @@
 | 🔴 NASDOG | $0.000003 | **0.86x** ($-14) | 1.05x |  | pumpfun | 2026-03-20 02:02 |
 | 🟡 CDWtsB8C | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 01:59 |
 | 🔴 SUBLIME | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 01:58 |
-| 🟡 SIMULATION | $0.000003 | **1.28x** ($+28) | 1.92x |  | pumpfun | 2026-03-20 01:57 |
+| 🟡 SIMULATION | $0.000003 | **1.11x** ($+11) | 1.92x |  | pumpfun | 2026-03-20 01:57 |
 | 🔴 X OpenClaw | $0.000003 | **0.83x** ($-17) | 1.00x |  | pumpfun | 2026-03-20 01:57 |
 | 🔴 OPE | $0.000003 | **0.82x** ($-18) | 1.02x |  | pumpfun | 2026-03-20 01:54 |
 | 🔴 RETARDS | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 01:53 |

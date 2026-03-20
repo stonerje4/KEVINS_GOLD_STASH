@@ -1,6 +1,6 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 15:04 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 15:07 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 111 (87 open, 24 closed) |
 | W/L | 4/20 (17%) |
 | 💵 Realized | $-733 |
-| 📦 Unrealized | $-1,142 |
-| 🏦 Total | **$-1,875** |
+| 📦 Unrealized | $-1,192 |
+| 🏦 Total | **$-1,925** |
 | Best ROI | 2.98x |
 | Avg ROI | 0.69x |
 
@@ -52,7 +52,7 @@
 | 🟡 6vxpPSg8 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:41 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:27 |
 | 🟡 ANIME | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
-| 🟡 Income | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
+| 🔴 Income | $0.000037 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 INCOME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 kawaifiy | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 CFLPJdY3 | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:04 |

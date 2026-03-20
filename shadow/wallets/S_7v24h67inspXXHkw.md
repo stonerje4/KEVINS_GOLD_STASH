@@ -1,16 +1,16 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 15:04 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 15:07 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 47 (45 open, 2 closed) |
+| Positions | 48 (46 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-164 |
-| 📦 Unrealized | $+20 |
-| 🏦 Total | **$-143** |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$-157** |
 | Best ROI | 0.36x |
 | Avg ROI | 0.18x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SIMULATION | $0.000003 | **1.06x** ($+6) | 1.06x |  | pumpfun | 2026-03-20 15:02 |
+| 🟡 Chuck | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 15:07 |
+| 🔴 SIMULATION | $0.000003 | **0.92x** ($-8) | 1.06x |  | pumpfun | 2026-03-20 15:02 |
 | 🟡 FUEGO | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:56 |
 | 🟡 NBR | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:54 |
 | 🟡 RIPCN | $0.000003 | **1.06x** ($+6) | 1.09x |  | pumpfun | 2026-03-20 14:46 |

@@ -1,16 +1,16 @@
 # Wallet: `8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ`
 
-> [View on Solscan](https://solscan.io/account/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | Updated: 2026-03-20 15:04 UTC
+> [View on Solscan](https://solscan.io/account/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | Updated: 2026-03-20 15:07 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+1 |
-| 🏦 Total | **$+1** |
+| 📦 Unrealized | $+10 |
+| 🏦 Total | **$+10** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Income | $0.000020 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 15:07 |
 | 🟡 SNIFFER | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:59 |
-| 🟡 FOID | $0.000017 | **1.01x** ($+1) | 1.45x |  | pumpfun | 2026-03-20 14:19 |
+| 🟡 FOID | $0.000017 | **1.13x** ($+13) | 1.45x |  | pumpfun | 2026-03-20 14:19 |
 | 🟡 ElonEffect | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:23 |
 | 🟡 effect | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:16 |
 | 🟡 CHIBIELON | $0.000058 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:11 |

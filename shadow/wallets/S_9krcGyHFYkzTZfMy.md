@@ -1,30 +1,30 @@
 # Wallet: `9krcGyHFYkzTZfMytF33qpaJkAgxRtQVSjXQN836TSLw`
 
-> [View on Solscan](https://solscan.io/account/9krcGyHFYkzTZfMytF33qpaJkAgxRtQVSjXQN836TSLw) | Updated: 2026-03-20 15:04 UTC
+> [View on Solscan](https://solscan.io/account/9krcGyHFYkzTZfMytF33qpaJkAgxRtQVSjXQN836TSLw) | Updated: 2026-03-20 15:07 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-2** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-73 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-73** |
+| Best ROI | 0.27x |
+| Avg ROI | 0.27x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 NIGGA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:04 |
-| 🔴 Pete | $0.000283 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-20 02:11 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Pete | 0.27x | $-73 | stop_loss | 1.02x | pumpswap | 2026-03-20 02:11 → 2026-03-20 15:04 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

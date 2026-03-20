@@ -1,18 +1,18 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 15:04 UTC
+> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 15:07 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 23 (20 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-183 |
-| 📦 Unrealized | $+12 |
-| 🏦 Total | **$-171** |
+| Positions | 23 (19 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-249 |
+| 📦 Unrealized | $+11 |
+| 🏦 Total | **$-238** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -35,7 +35,6 @@
 | 🔴 電王 | $0.000029 | **0.88x** ($-12) | 1.07x |  | pumpfun | 2026-03-20 00:44 |
 | 🟡 world | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:36 |
 | 🔴 Wolverine | $0.000010 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 00:06 |
-| 🟡 Solana | $0.000190 | **1.02x** ($+2) | 1.16x |  | pumpswap | 2026-03-19 23:44 |
 | 🟡 herm | $0.000164 | **1.22x** ($+22) | 1.35x |  | pumpswap | 2026-03-19 23:42 |
 | 🟡 CHIBI | $0.000684 | **1.52x** ($+52) | 1.90x |  | pumpswap | 2026-03-19 23:27 |
 
@@ -46,6 +45,7 @@
 | 🔴 ChibiTrump | 0.40x | $-60 | stop_loss | 1.05x | pumpfun | 2026-03-20 08:20 → 2026-03-20 08:24 |
 | 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.26x | pumpswap | 2026-03-20 07:59 → 2026-03-20 10:32 |
 | 🔴 USFC | 0.37x | $-63 | stop_loss | 1.38x | pumpfun | 2026-03-20 04:12 → 2026-03-20 04:19 |
+| 🔴 Solana | 0.34x | $-66 | stop_loss | 1.16x | pumpswap | 2026-03-19 23:44 → 2026-03-20 15:06 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

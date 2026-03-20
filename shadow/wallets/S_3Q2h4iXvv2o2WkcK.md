@@ -1,16 +1,16 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 15:04 UTC
+> [View on Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 15:07 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (20 open, 0 closed) |
+| Positions | 21 (21 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$-41** |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$+6** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 clod | $0.000031 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 Pete | $0.000056 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 15:07 |
+| 🔴 clod | $0.000031 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 effect | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:41 |
-| 🟡 Solana | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:35 |
+| 🟡 Solana | $0.000043 | **1.50x** ($+50) | 1.50x |  | pumpswap | 2026-03-20 14:35 |
 | 🟡 MOCHI | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 Dryer | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:45 |
 | 🟡 CHIBI | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:09 |

@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 15:04 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 15:07 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 77 (71 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $-149 |
-| 📦 Unrealized | $-149 |
-| 🏦 Total | **$-298** |
+| 📦 Unrealized | $-238 |
+| 🏦 Total | **$-387** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.75x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 clod | $0.000024 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-20 15:02 |
-| 🟡 Chuck | $0.000485 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
-| 🟡 Chuck | $0.000346 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 14:53 |
+| 🟡 clod | $0.000024 | **1.17x** ($+17) | 1.19x |  | pumpswap | 2026-03-20 15:02 |
+| 🔴 Chuck | $0.000485 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
+| 🟡 Chuck | $0.000346 | **1.33x** ($+33) | 1.48x |  | pumpswap | 2026-03-20 14:53 |
 | 🟡 Nigel | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:19 |
 | 🟡 effect | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:08 |
 | 🟡 Simulation | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
@@ -58,13 +58,13 @@
 | 🔴 DOMES | $0.000004 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
 | 🟡 IMAGINE | $0.000115 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:17 |
 | 🟡 OIIA | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
-| 🟡 Pete | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
+| 🔴 Pete | $0.000116 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 GPD | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
 | 🟡 IShowSpeed | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:52 |
 | 🟡 Luxury | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:50 |
 | 🟡 DLORP | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:28 |
 | 🟡 FKH | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:54 |
-| 🟡 Solana | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:42 |
+| 🔴 Solana | $0.000144 | **0.44x** ($-56) | 1.00x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 PIKAHORSE | $0.000235 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:31 |
 | 🟡 BOAT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:25 |
 | 🟡 ELEPHANT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
