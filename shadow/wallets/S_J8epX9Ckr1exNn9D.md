@@ -1,6 +1,6 @@
 # Wallet: `J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT`
 
-> [View on Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 7 (4 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-184 |
-| 📦 Unrealized | $+31 |
-| 🏦 Total | **$-153** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| 📦 Unrealized | $+29 |
+| 🏦 Total | **$-155** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🟡 MOCHI | $0.000022 | **1.66x** ($+66) | 1.66x |  | pumpfun | 2026-03-20 05:35 |
 | 🟡 IMAGINE | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:09 |
 | 🟡 credit | $0.000052 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:57 |
-| 🔴 CHIBIMINAJ | $0.000012 | **0.65x** ($-35) | 1.47x |  | pumpfun | 2026-03-19 23:43 |
+| 🔴 CHIBIMINAJ | $0.000012 | **0.63x** ($-37) | 1.47x |  | pumpfun | 2026-03-19 23:43 |
 
 ## Closed Positions
 

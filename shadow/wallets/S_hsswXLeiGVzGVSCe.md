@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 149 (134 open, 15 closed) |
 | W/L | 7/8 (47%) |
 | 💵 Realized | $+1,019 |
-| 📦 Unrealized | $-2,546 |
-| 🏦 Total | **$-1,526** |
-| Best ROI | 5.93x |
-| Avg ROI | 1.68x |
+| 📦 Unrealized | $-2,528 |
+| 🏦 Total | **$-1,508** |
+| Best Trade | 5.9x |
+| Avg Peak | 4.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ME | $0.000004 | **0.94x** ($-6) | 1.04x |  | pumpfun | 2026-03-20 10:28 |
+| 🔴 ME | $0.000004 | **0.93x** ($-7) | 1.04x |  | pumpfun | 2026-03-20 10:28 |
 | 🟡 7LhHK6Yf | $0.000003 | **1.02x** ($+2) | 1.04x |  | pumpfun | 2026-03-20 05:59 |
 | 🔴 ragcityyy99 | $0.000004 | **0.65x** ($-35) | 1.05x |  | pumpfun | 2026-03-20 05:59 |
 | 🔴 海遊館 | $0.000003 | **0.76x** ($-24) | 1.04x |  | pumpfun | 2026-03-20 05:56 |
@@ -46,7 +46,7 @@
 | 🔴 Arc | $0.000004 | **0.62x** ($-38) | 1.60x |  | pumpfun | 2026-03-20 04:07 |
 | 🔴 Mario | $0.000006 | **0.43x** ($-57) | 1.27x |  | pumpfun | 2026-03-20 04:06 |
 | 🔴 Yuki-chan | $0.000003 | **0.75x** ($-25) | 1.26x |  | pumpfun | 2026-03-20 04:00 |
-| 🟢 TRASHBAG | $0.000004 | **3.29x** ($+229) | 4.11x | ✅ | pumpfun | 2026-03-20 03:57 |
+| 🟢 TRASHBAG | $0.000004 | **3.76x** ($+276) | 4.11x | ✅ | pumpfun | 2026-03-20 03:57 |
 | 🔴 HKp6WMjQ | $0.000003 | **0.82x** ($-18) | 1.01x |  | pumpfun | 2026-03-20 03:57 |
 | 🟡 AYYGENT | $0.000004 | **1.05x** ($+5) | 1.54x |  | pumpfun | 2026-03-20 03:56 |
 | 🔴 Jeremy | $0.000003 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 03:50 |

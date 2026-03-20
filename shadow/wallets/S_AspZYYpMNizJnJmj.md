@@ -1,6 +1,6 @@
 # Wallet: `AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE`
 
-> [View on Solscan](https://solscan.io/account/AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
@@ -9,20 +9,20 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+59 |
-| 🏦 Total | **$+59** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+96 |
+| 🏦 Total | **$+96** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Doolysaurus | $0.000010 | **2.36x** ($+136) | 2.98x | ✅ | pumpfun | 2026-03-20 10:48 |
+| 🟢 Doolysaurus | $0.000010 | **3.60x** ($+260) | 3.60x | ✅ | pumpfun | 2026-03-20 10:48 |
 | 🟡 Chibify | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
 | 🟡 Freddie | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:31 |
-| 🔴 Yuki-chan | $0.000005 | **0.91x** ($-9) | 1.08x |  | pumpswap | 2026-03-20 10:28 |
+| 🔴 Yuki-chan | $0.000005 | **0.92x** ($-8) | 1.08x |  | pumpswap | 2026-03-20 10:28 |
 | 🟡 ANIME | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 
 ## Closed Positions

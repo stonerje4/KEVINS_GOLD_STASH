@@ -1,23 +1,24 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (20 open, 6 closed) |
+| Positions | 27 (21 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-332 |
 | 📦 Unrealized | $-51 |
 | 🏦 Total | **$-383** |
-| Best ROI | 0.82x |
-| Avg ROI | 0.45x |
+| Best Trade | 0.8x |
+| Avg Peak | 1.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 GOONERBI | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Chibis | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:07 |
 | 🟡 MICHIBI | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
 | 🟡 CHIBI | $0.002054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |

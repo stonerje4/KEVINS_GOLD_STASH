@@ -1,23 +1,24 @@
 # Wallet: `5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii`
 
-> [View on Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (9 open, 0 closed) |
+| Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+24 |
 | 🏦 Total | **$+24** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Pixels | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:31 |
 | 🟡 AINL | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:55 |
 | 🟡 tinfoil | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:23 |
 | 🟡 ARIA | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:51 |

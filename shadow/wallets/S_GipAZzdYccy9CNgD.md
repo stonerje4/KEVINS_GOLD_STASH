@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [View on Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-175 |
 | 📦 Unrealized | $+257 |
 | 🏦 Total | **$+82** |
-| Best ROI | 0.80x |
-| Avg ROI | 0.42x |
+| Best Trade | 0.8x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 

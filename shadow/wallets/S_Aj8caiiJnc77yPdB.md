@@ -1,6 +1,6 @@
 # Wallet: `Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX`
 
-> [View on Solscan](https://solscan.io/account/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-15 |
-| 📦 Unrealized | $+7 |
-| 🏦 Total | **$-9** |
-| Best ROI | 0.85x |
-| Avg ROI | 0.85x |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$-10** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.8x |
 
 ## Open Positions
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 PsyopChibi | $0.000261 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 effect | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:52 |
-| 🟡 PUPPY | $0.000977 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 10:45 |
+| 🟡 PUPPY | $0.000977 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 10:45 |
 | 🟡 CHIBI | $0.001386 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:17 |
 
 ## Closed Positions

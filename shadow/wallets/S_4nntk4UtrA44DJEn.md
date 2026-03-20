@@ -1,6 +1,6 @@
 # Wallet: `4nntk4UtrA44DJEnD676kGSoF1HYiADPYjqGXkBrrHCc`
 
-> [View on Solscan](https://solscan.io/account/4nntk4UtrA44DJEnD676kGSoF1HYiADPYjqGXkBrrHCc) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/4nntk4UtrA44DJEnD676kGSoF1HYiADPYjqGXkBrrHCc) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-16** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$-17** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Thinker | $0.000010 | **0.84x** ($-16) | 1.22x |  | pumpswap | 2026-03-19 22:37 |
+| 🔴 Thinker | $0.000010 | **0.83x** ($-17) | 1.22x |  | pumpswap | 2026-03-19 22:37 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
@@ -10,9 +10,9 @@
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
 | 📦 Unrealized | $-158 |
-| 🏦 Total | **$-356** |
-| Best ROI | 1.46x |
-| Avg ROI | 0.60x |
+| 🏦 Total | **$-355** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
@@ -28,7 +28,7 @@
 | 🟡 Pixels | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
 | 🟡 IMAGINE | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:55 |
 | 🟡 驚き | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:44 |
-| 🔴 Antigravity | $0.000008 | **0.54x** ($-46) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
+| 🔴 Antigravity | $0.000008 | **0.55x** ($-45) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 CHIBI | $0.001779 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 OLAF | $0.000134 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 IMAGINE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |

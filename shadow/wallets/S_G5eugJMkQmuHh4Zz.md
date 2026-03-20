@@ -1,31 +1,31 @@
 # Wallet: `G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf`
 
-> [View on Solscan](https://solscan.io/account/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-60 |
-| 📦 Unrealized | $-60 |
-| 🏦 Total | **$-121** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| Positions | 4 (2 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-121 |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$-124** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 NBR | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:52 |
-| 🔴 ChibiTrump | $0.000008 | **0.43x** ($-57) | 1.16x |  | pumpfun | 2026-03-20 08:33 |
 | 🔴 e-CNY | $0.000008 | **0.97x** ($-3) | 1.04x |  | pumpfun | 2026-03-20 00:30 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 ChibiTrump | 0.39x | $-61 | stop_loss | 1.16x | pumpfun | 2026-03-20 08:33 → 2026-03-20 11:32 |
 | 🔴 WRT | 0.40x | $-60 | stop_loss | 1.14x | pumpswap | 2026-03-19 23:31 → 2026-03-20 00:57 |
 
 ---

@@ -1,6 +1,6 @@
 # Wallet: `6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE`
 
-> [View on Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-17 |
-| 🏦 Total | **$-17** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-20 |
+| 🏦 Total | **$-20** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Optimistic | $0.000375 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:21 |
-| 🔴 Moe-chan | $0.000014 | **0.98x** ($-2) | 1.17x |  | pumpswap | 2026-03-20 09:33 |
+| 🔴 Moe-chan | $0.000014 | **0.95x** ($-5) | 1.17x |  | pumpswap | 2026-03-20 09:33 |
 | 🟡 Dryer | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:07 |
 | 🟡 DLSS5 | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:05 |
 | 🟡 ceal | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:54 |

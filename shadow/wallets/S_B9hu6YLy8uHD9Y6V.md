@@ -1,23 +1,24 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 11:28 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 11:33 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 86 (3 open, 83 closed) |
+| Positions | 87 (4 open, 83 closed) |
 | W/L | 0/83 (0%) |
 | 💵 Realized | $-8,292 |
 | 📦 Unrealized | $+0 |
 | 🏦 Total | **$-8,292** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Judy | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Judy | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:20 |
 | 🟡 Mirai | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:10 |
 | 🟡 ANIME | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:31 |
