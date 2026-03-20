@@ -1,16 +1,16 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 10:57 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 11:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 67 (65 open, 2 closed) |
+| Positions | 68 (66 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-120 |
-| 📦 Unrealized | $-80 |
-| 🏦 Total | **$-200** |
+| 📦 Unrealized | $-71 |
+| 🏦 Total | **$-191** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,19 +18,20 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Nigel | $0.000244 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:59 |
 | 🟡 gugugaga | $0.000146 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:56 |
 | 🟡 Alien | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:02 |
 | 🟡 Luxury | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:56 |
-| 🔴 Tastecoin | $0.000167 | **0.86x** ($-14) | 1.03x |  | pumpswap | 2026-03-20 08:51 |
+| 🔴 Tastecoin | $0.000167 | **0.88x** ($-12) | 1.03x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 FIH | $0.000199 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:21 |
 | 🟡 Strawberita | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
-| 🔴 PATRIOT | $0.000009 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
+| 🔴 PATRIOT | $0.000009 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 DAU | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 LIBERTY | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 HeavyPulp | $0.001092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
 | 🟡 Massive | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
-| 🔴 George | $0.000019 | **0.52x** ($-48) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
+| 🔴 George | $0.000019 | **0.55x** ($-45) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
 | 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🟡 worth | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
@@ -82,7 +83,7 @@
 | 🟡 AMBER | $0.000014 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-19 23:21 |
 | 🟢 唐子兵法 | $0.001448 | **3.02x** ($+202) | 3.13x | ✅ | pumpswap | 2026-03-19 22:46 |
 | 🟡 Foodrot | $0.000135 | **1.04x** ($+4) | 1.23x |  | pumpswap | 2026-03-19 22:46 |
-| 🔴 PAD | $0.000019 | **0.90x** ($-10) | 1.07x |  | pumpswap | 2026-03-19 22:37 |
+| 🔴 PAD | $0.000019 | **0.88x** ($-12) | 1.07x |  | pumpswap | 2026-03-19 22:37 |
 
 ## Closed Positions
 

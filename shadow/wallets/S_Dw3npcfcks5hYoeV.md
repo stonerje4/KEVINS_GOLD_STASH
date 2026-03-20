@@ -1,6 +1,6 @@
 # Wallet: `Dw3npcfcks5hYoeViCKGFEctykaReBGKJnLrmoxtggRA`
 
-> [View on Solscan](https://solscan.io/account/Dw3npcfcks5hYoeViCKGFEctykaReBGKJnLrmoxtggRA) | Updated: 2026-03-20 10:57 UTC
+> [View on Solscan](https://solscan.io/account/Dw3npcfcks5hYoeViCKGFEctykaReBGKJnLrmoxtggRA) | Updated: 2026-03-20 11:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$+4** |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$+8** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OCCUPY | $0.000002 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 08:12 |
+| 🟡 OCCUPY | $0.000002 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 08:12 |
 | 🔴 XMONEY | $0.000026 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 07:14 |
 | 🟡 Chibify | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
 

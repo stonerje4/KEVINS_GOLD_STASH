@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 10:57 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 11:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 65 (64 open, 1 closed) |
+| Positions | 66 (65 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-183 |
-| 🏦 Total | **$-200** |
+| 📦 Unrealized | $-185 |
+| 🏦 Total | **$-202** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Starship | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:00 |
 | 🟡 CHIBIIRON | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:54 |
 | 🟡 CHIBITOLY | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:51 |
 | 🟡 Chibis | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:50 |
@@ -49,7 +50,7 @@
 | 🔴 TRUTH | $0.000003 | **0.91x** ($-9) | 1.23x |  | pumpfun | 2026-03-20 05:58 |
 | 🔴 HUGH | $0.000003 | **0.76x** ($-24) | 1.08x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 EftNvqrA | $0.000003 | **0.80x** ($-20) | 1.19x |  | pumpfun | 2026-03-20 04:05 |
-| 🟡 Yuki-chan | $0.000003 | **1.17x** ($+17) | 1.44x |  | pumpfun | 2026-03-20 04:00 |
+| 🟡 Yuki-chan | $0.000003 | **1.14x** ($+14) | 1.44x |  | pumpfun | 2026-03-20 04:00 |
 | 🔴 NoScam | $0.000003 | **0.81x** ($-19) | 1.17x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 Income | $0.000003 | **0.82x** ($-18) | 1.20x |  | pumpfun | 2026-03-20 03:29 |
 | 🚀 Nonchalant | $0.000003 | **5.08x** ($+408) | 5.77x | ✅ | pumpfun | 2026-03-20 03:18 |

@@ -1,6 +1,6 @@
 # Wallet: `44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw`
 
-> [View on Solscan](https://solscan.io/account/44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw) | Updated: 2026-03-20 10:57 UTC
+> [View on Solscan](https://solscan.io/account/44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw) | Updated: 2026-03-20 11:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+51** |
+| 📦 Unrealized | $+45 |
+| 🏦 Total | **$+45** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -24,7 +24,7 @@
 | 🔴 USRNR | $0.000006 | **0.93x** ($-7) | 1.05x |  | pumpfun | 2026-03-20 06:42 |
 | 🔴 HUGH | $0.000003 | **0.97x** ($-3) | 1.03x |  | pumpfun | 2026-03-20 06:41 |
 | 🟡 GxZGb4wQ | $0.000003 | **1.02x** ($+2) | 1.11x |  | pumpfun | 2026-03-20 04:39 |
-| 🟡 OSP | $0.000003 | **1.07x** ($+7) | 1.21x |  | pumpfun | 2026-03-20 04:26 |
+| 🟡 OSP | $0.000003 | **1.01x** ($+1) | 1.21x |  | pumpfun | 2026-03-20 04:26 |
 
 ## Closed Positions
 

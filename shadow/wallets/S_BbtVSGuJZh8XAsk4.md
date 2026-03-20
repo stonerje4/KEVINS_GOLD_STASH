@@ -1,12 +1,12 @@
 # Wallet: `BbtVSGuJZh8XAsk41euS3Bik48nC8e8VrGBBn5UwePQw`
 
-> [View on Solscan](https://solscan.io/account/BbtVSGuJZh8XAsk41euS3Bik48nC8e8VrGBBn5UwePQw) | Updated: 2026-03-20 10:57 UTC
+> [View on Solscan](https://solscan.io/account/BbtVSGuJZh8XAsk41euS3Bik48nC8e8VrGBBn5UwePQw) | Updated: 2026-03-20 11:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
+| Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SPARKOS | $0.000019 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 11:01 |
 | 🟡 CHIBI | $0.000063 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:59 |
 
 ## Closed Positions

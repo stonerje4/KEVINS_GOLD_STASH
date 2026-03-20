@@ -1,6 +1,6 @@
 # Wallet: `23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp`
 
-> [View on Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 10:57 UTC
+> [View on Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 11:02 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (9 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-198 |
-| 📦 Unrealized | $+3,292 |
-| 🏦 Total | **$+3,093** |
+| 📦 Unrealized | $+3,262 |
+| 🏦 Total | **$+3,064** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -20,9 +20,9 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 SHOENICE  | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:41 |
 | 🟡 ANIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:23 |
-| 🔴 Kin-kun | $0.000008 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 09:53 |
+| 🔴 Kin-kun | $0.000008 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 09:53 |
 | 🟡 CHIBI | $0.000001 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 09:39 |
-| 🚀 OM | $0.000000 | **151.24x** ($+15,024) | 156.42x | ✅ | pumpfun | 2026-03-20 09:18 |
+| 🚀 OM | $0.000000 | **149.97x** ($+14,897) | 156.42x | ✅ | pumpfun | 2026-03-20 09:18 |
 | 🔴 Kin-kun | $0.000005 | **0.57x** ($-43) | 1.41x |  | pumpfun | 2026-03-20 09:09 |
 | 🔴 Nemunemu | $0.000005 | **1.00x** ($-0) | 1.10x |  | pumpswap | 2026-03-20 04:52 |
 | 🔴 Nemunemu | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 04:52 |

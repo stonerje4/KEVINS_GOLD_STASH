@@ -1,12 +1,12 @@
 # Wallet: `8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY`
 
-> [View on Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 10:57 UTC
+> [View on Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 11:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (8 open, 4 closed) |
+| Positions | 13 (9 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-189 |
 | 📦 Unrealized | $+65 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHIBI | $0.003616 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:58 |
 | 🟡 Lobstar | $0.006584 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:46 |
 | 🟡 WIZARD | $0.000358 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 IMAGINE | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:14 |

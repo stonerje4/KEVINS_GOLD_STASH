@@ -1,12 +1,12 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 10:57 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 11:02 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 31 (29 open, 2 closed) |
+| Positions | 32 (30 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+246 |
 | 📦 Unrealized | $-418 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ONE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:58 |
 | 🟡 UP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:14 |
 | 🔴 Gjsw8QUC | $0.000004 | **0.65x** ($-35) | 1.17x |  | pumpfun | 2026-03-20 09:23 |
 | 🔴 GAAS | $0.000004 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
