@@ -1,6 +1,6 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 13:03 UTC
+> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 13:04 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-86 |
 | 📦 Unrealized | $-113 |
 | 🏦 Total | **$-199** |
-| Best Trade | 0.1x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.14x |
+| Avg ROI | 0.14x |
 
 ## Open Positions
 

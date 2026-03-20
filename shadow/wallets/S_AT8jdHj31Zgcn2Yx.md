@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 13:03 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 13:04 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 137 (110 open, 27 closed) |
 | W/L | 3/24 (11%) |
 | 💵 Realized | $+2,155 |
-| 📦 Unrealized | $+30 |
-| 🏦 Total | **$+2,185** |
-| Best Trade | 24.9x |
-| Avg Peak | 4.9x |
+| 📦 Unrealized | $+34 |
+| 🏦 Total | **$+2,189** |
+| Best ROI | 24.90x |
+| Avg ROI | 1.80x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 SCELON | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:03 |
-| 🔴 BBX | $0.000132 | **0.86x** ($-14) | 1.04x |  | pumpswap | 2026-03-20 13:03 |
+| 🔴 BBX | $0.000132 | **0.89x** ($-11) | 1.04x |  | pumpswap | 2026-03-20 13:03 |
 | 🟡 NEURIX | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:49 |
 | 🟡 REL | $0.000162 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:43 |
 | 🟡 Doolysaurus | $0.000128 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |

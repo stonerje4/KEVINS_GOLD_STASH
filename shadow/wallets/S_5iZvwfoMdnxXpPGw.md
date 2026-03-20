@@ -1,23 +1,24 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 13:03 UTC
+> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 13:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (5 open, 1 closed) |
+| Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-21 |
 | 📦 Unrealized | $+211 |
 | 🏦 Total | **$+190** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.1x |
+| Best ROI | 0.79x |
+| Avg ROI | 0.79x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Doolysaurus | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
 | 🚀 credit | $0.000005 | **7.24x** ($+624) | 7.24x | ✅ | pumpfun | 2026-03-20 03:02 |
 | 🟡 Taylor | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 imagineslop | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |

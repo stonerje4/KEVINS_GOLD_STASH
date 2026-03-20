@@ -1,6 +1,6 @@
 # Wallet: `J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT`
 
-> [View on Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 13:03 UTC
+> [View on Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 13:04 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 8 (5 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-184 |
-| 📦 Unrealized | $+18 |
-| 🏦 Total | **$-166** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| 📦 Unrealized | $+7 |
+| 🏦 Total | **$-177** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 RULEBOOK | $0.000069 | **0.94x** ($-6) | 1.12x |  | pumpswap | 2026-03-20 13:03 |
+| 🔴 RULEBOOK | $0.000069 | **0.83x** ($-17) | 1.12x |  | pumpswap | 2026-03-20 13:03 |
 | 🟡 MOCHI | $0.000022 | **1.66x** ($+66) | 1.66x |  | pumpfun | 2026-03-20 05:35 |
 | 🟡 IMAGINE | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:09 |
 | 🟡 credit | $0.000052 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:57 |
