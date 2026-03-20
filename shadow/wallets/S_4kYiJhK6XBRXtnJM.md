@@ -9,16 +9,16 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+49 |
-| 🏦 Total | **$-12** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+65 |
+| 🏦 Total | **$+5** |
+| Best ROI | 0.39x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Coglet | $0.000008 | **1.47x** ($+47) | 1.84x |  | pumpfun | 2026-03-20 13:09 |
+| 🟡 Coglet | $0.000008 | **1.64x** ($+64) | 1.84x |  | pumpfun | 2026-03-20 13:09 |
 | 🟡 Coglet | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 Coglet | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:37 |
 | 🟡 PHM | $0.000007 | **1.01x** ($+1) | 1.16x |  | pumpfun | 2026-03-20 11:11 |

@@ -9,16 +9,16 @@
 | Positions | 16 (14 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $+21 |
-| 🏦 Total | **$-54** |
-| Best Trade | 0.8x |
-| Avg Peak | 1.7x |
+| 📦 Unrealized | $+51 |
+| 🏦 Total | **$-25** |
+| Best ROI | 0.85x |
+| Avg ROI | 0.62x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MOSHI | $0.000022 | **1.22x** ($+22) | 1.25x |  | pumpfun | 2026-03-20 13:12 |
+| 🟡 MOSHI | $0.000022 | **1.52x** ($+52) | 1.52x |  | pumpfun | 2026-03-20 13:12 |
 | 🟡 AIMAXXING | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:19 |
 | 🟡 Solana | $0.000236 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 8jmDBWhx | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
