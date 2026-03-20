@@ -1,6 +1,6 @@
 # Wallet: `5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii`
 
-> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 17:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 18:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (13 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-52 |
-| 🏦 Total | **$-52** |
+| 📦 Unrealized | $-45 |
+| 🏦 Total | **$-45** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -21,13 +21,13 @@
 | 🟡 MFT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:43 |
 | 🟡 SNIFFER | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:41 |
 | 🔴 MOCHI | $0.000049 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 13:29 |
-| 🔴 Pixels | $0.000035 | **0.50x** ($-50) | 1.09x |  | pumpswap | 2026-03-20 11:31 |
+| 🔴 Pixels | $0.000035 | **0.49x** ($-51) | 1.09x |  | pumpswap | 2026-03-20 11:31 |
 | 🟡 AINL | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:55 |
 | 🔴 tinfoil | $0.000079 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 04:23 |
 | 🟡 ARIA | $0.000016 | **1.47x** ($+47) | 1.76x |  | pumpswap | 2026-03-20 02:51 |
 | 🟡 DICKUS | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 Dickus | $0.000056 | **0.93x** ($-7) | 1.09x |  | pumpswap | 2026-03-20 01:25 |
-| 🔴 plumber | $0.000051 | **0.78x** ($-22) | 1.37x |  | pumpswap | 2026-03-20 00:30 |
+| 🔴 plumber | $0.000051 | **0.85x** ($-15) | 1.37x |  | pumpswap | 2026-03-20 00:30 |
 | 🔴 AIFRUIT | $0.000024 | **0.86x** ($-14) | 1.15x |  | pumpswap | 2026-03-19 23:52 |
 | 🟡 Strawberita | $0.000035 | **1.71x** ($+71) | 2.39x | ✅ | pumpswap | 2026-03-19 22:57 |
 | 🔴 MINDLESS | $0.000196 | **0.99x** ($-1) | 1.31x |  | pumpswap | 2026-03-19 22:51 |

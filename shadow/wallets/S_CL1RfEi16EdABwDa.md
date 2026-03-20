@@ -1,6 +1,6 @@
 # Wallet: `CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft`
 
-> [GMGN](https://gmgn.ai/sol/address/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | [Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-20 17:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | [Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-20 18:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$-32** |
+| 📦 Unrealized | $+16 |
+| 🏦 Total | **$-45** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 King | $0.000008 | **0.91x** ($-9) | 1.11x |  | pumpswap | 2026-03-20 00:45 |
 | 🟡 tinfoil | $0.000047 | **1.60x** ($+60) | 1.68x |  | pumpswap | 2026-03-20 00:23 |
-| 🔴 XAI | $0.000014 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
+| 🔴 XAI | $0.000014 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
 
 ## Closed Positions
 

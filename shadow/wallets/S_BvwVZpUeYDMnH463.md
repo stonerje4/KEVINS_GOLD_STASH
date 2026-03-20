@@ -1,18 +1,18 @@
 # Wallet: `BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y`
 
-> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 17:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 18:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (5 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-140 |
+| Positions | 8 (5 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-231 |
 | 📦 Unrealized | $+25 |
-| 🏦 Total | **$-115** |
+| 🏦 Total | **$-206** |
 | Best ROI | 0.39x |
-| Avg ROI | 0.30x |
+| Avg ROI | 0.23x |
 
 ## Open Positions
 
@@ -28,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 WIF | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 17:55 → 2026-03-20 17:55 |
 | 🔴 Pixels | 0.22x | $-78 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:39 → 2026-03-20 17:15 |
 | 🔴 2ozhSu4G | 0.39x | $-61 | stop_loss | 1.05x | pumpfun | 2026-03-20 00:14 → 2026-03-20 00:15 |
 

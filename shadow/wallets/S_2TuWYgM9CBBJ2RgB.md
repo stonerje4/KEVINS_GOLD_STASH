@@ -1,6 +1,6 @@
-# Wallet: `4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp`
+# Wallet: `2TuWYgM9CBBJ2RgBSEsNdruk5jrz25sDRMyKdNjCC6VD`
 
-> [GMGN](https://gmgn.ai/sol/address/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | [Solscan](https://solscan.io/account/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | Updated: 2026-03-20 18:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/2TuWYgM9CBBJ2RgBSEsNdruk5jrz25sDRMyKdNjCC6VD) | [Solscan](https://solscan.io/account/2TuWYgM9CBBJ2RgBSEsNdruk5jrz25sDRMyKdNjCC6VD) | Updated: 2026-03-20 18:00 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 YOU | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:30 |
+| 🟡 Method | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:59 |
 
 ## Closed Positions
 

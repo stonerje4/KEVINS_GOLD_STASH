@@ -1,6 +1,6 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 17:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 18:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (15 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-160 |
-| 📦 Unrealized | $+39 |
-| 🏦 Total | **$-122** |
+| 📦 Unrealized | $+33 |
+| 🏦 Total | **$-128** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.20x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 memecoin | $0.000092 | **0.95x** ($-5) | 1.00x |  | cpmm | 2026-03-20 11:56 |
+| 🔴 memecoin | $0.000092 | **0.89x** ($-11) | 1.00x |  | cpmm | 2026-03-20 11:56 |
 | 🟡 B | $0.000051 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 10:05 |
 | 🟡 Bonkyo | $0.000021 | **1.01x** ($+1) | 1.01x |  | cpmm | 2026-03-20 09:00 |
 | 🟡 LYN | $0.000055 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 04:53 |

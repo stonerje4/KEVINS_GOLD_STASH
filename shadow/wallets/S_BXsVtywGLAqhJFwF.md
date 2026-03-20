@@ -1,6 +1,6 @@
 # Wallet: `BXsVtywGLAqhJFwFvbkNPekKBrNxQehtCwWy5Q8tdNJY`
 
-> [GMGN](https://gmgn.ai/sol/address/BXsVtywGLAqhJFwFvbkNPekKBrNxQehtCwWy5Q8tdNJY) | [Solscan](https://solscan.io/account/BXsVtywGLAqhJFwFvbkNPekKBrNxQehtCwWy5Q8tdNJY) | Updated: 2026-03-20 17:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BXsVtywGLAqhJFwFvbkNPekKBrNxQehtCwWy5Q8tdNJY) | [Solscan](https://solscan.io/account/BXsVtywGLAqhJFwFvbkNPekKBrNxQehtCwWy5Q8tdNJY) | Updated: 2026-03-20 18:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+12 |
-| 🏦 Total | **$+12** |
+| 📦 Unrealized | $+25 |
+| 🏦 Total | **$+25** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SKI | $0.000154 | **1.12x** ($+12) | 1.29x |  | pumpswap | 2026-03-20 17:49 |
+| 🟡 SKI | $0.000154 | **1.25x** ($+25) | 1.29x |  | pumpswap | 2026-03-20 17:49 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 17:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 18:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 45 (28 open, 17 closed) |
 | W/L | 1/16 (6%) |
 | 💵 Realized | $-683 |
-| 📦 Unrealized | $+718 |
-| 🏦 Total | **$+36** |
+| 📦 Unrealized | $+710 |
+| 🏦 Total | **$+28** |
 | Best ROI | 1.47x |
 | Avg ROI | 0.60x |
 
@@ -31,11 +31,11 @@
 | 🟡 clod | $0.000022 | **1.13x** ($+13) | 1.84x |  | pumpswap | 2026-03-20 12:17 |
 | 🚀 Doolysaurus | $0.000038 | **5.20x** ($+420) | 6.40x | ✅ | pumpswap | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |
-| 🔴 Chonk | $0.000013 | **0.58x** ($-42) | 1.50x |  | pumpfun | 2026-03-20 09:44 |
+| 🔴 Chonk | $0.000013 | **0.51x** ($-49) | 1.50x |  | pumpfun | 2026-03-20 09:44 |
 | 🟡 SIGNAL | $0.000019 | **1.93x** ($+93) | 1.93x |  | pumpfun | 2026-03-20 09:23 |
 | 🟡 omochi | $0.000020 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 09:13 |
 | 🔴 VOID | $0.000183 | **0.58x** ($-42) | 1.70x |  | cpmm | 2026-03-20 08:59 |
-| 🔴 Pixels | $0.000024 | **0.73x** ($-27) | 1.59x |  | pumpfun | 2026-03-20 06:53 |
+| 🔴 Pixels | $0.000024 | **0.71x** ($-29) | 1.59x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 BOAR | $0.000008 | **0.77x** ($-23) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 NEMO | $0.000012 | **1.21x** ($+21) | 2.10x | ✅ | pumpfun | 2026-03-20 02:34 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
