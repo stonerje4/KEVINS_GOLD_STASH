@@ -9,16 +9,16 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+9 |
-| 🏦 Total | **$+9** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+34 |
+| 🏦 Total | **$+34** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OSP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:25 |
+| 🟡 OSP | $0.000020 | **1.25x** ($+25) | 1.25x |  | pumpfun | 2026-03-20 05:25 |
 | 🟡 DRONE | $0.000048 | **1.09x** ($+9) | 1.11x |  | pumpswap | 2026-03-20 02:17 |
 
 ## Closed Positions

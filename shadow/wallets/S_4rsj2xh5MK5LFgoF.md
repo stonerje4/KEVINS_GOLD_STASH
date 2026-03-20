@@ -9,17 +9,17 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$+80** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+78 |
+| 🏦 Total | **$+78** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 SQUIDCAT | $0.000008 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 12:37 |
-| 🟢 Doolysaurus | $0.000040 | **2.99x** ($+199) | 3.01x | ✅ | pumpswap | 2026-03-20 12:18 |
+| 🟢 Doolysaurus | $0.000040 | **2.95x** ($+195) | 3.01x | ✅ | pumpswap | 2026-03-20 12:18 |
 | 🟡 Freebuff | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:01 |
 | 🟡 CLIPHUB | $0.000008 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:29 |
 | 🟡 WIZARDSHIT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:07 |

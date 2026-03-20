@@ -9,16 +9,16 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+306 |
-| 🏦 Total | **$+185** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.5x |
+| 📦 Unrealized | $+308 |
+| 🏦 Total | **$+187** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Interconnects | $0.000007 | **2.48x** ($+148) | 2.51x | ✅ | pumpfun | 2026-03-20 15:05 |
+| 🟢 Interconnects | $0.000007 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 15:05 |
 | 🟡 9wSZbC64 | $0.000003 | **1.71x** ($+71) | 1.71x |  | pumpfun | 2026-03-20 14:53 |
 | 🔴 JackieChan | $0.000003 | **0.88x** ($-12) | 1.02x |  | pumpfun | 2026-03-20 14:49 |
 | 🔴 Oracle | $0.000007 | **0.98x** ($-2) | 1.45x |  | pumpfun | 2026-03-20 13:57 |

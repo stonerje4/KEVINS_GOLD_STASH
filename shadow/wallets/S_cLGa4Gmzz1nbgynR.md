@@ -9,10 +9,10 @@
 | Positions | 163 (155 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-407 |
-| 📦 Unrealized | $-64 |
-| 🏦 Total | **$-471** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.4x |
+| 📦 Unrealized | $-65 |
+| 🏦 Total | **$-472** |
+| Best ROI | 1.48x |
+| Avg ROI | 0.49x |
 
 ## Open Positions
 
@@ -34,7 +34,7 @@
 | 🟡 plumber | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |
 | 🟡 forg | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
 | 🔴 brainrot | $0.000140 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-20 14:04 |
-| 🔴 Doolysaurus | $0.000148 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 13:57 |
+| 🔴 Doolysaurus | $0.000148 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 13:57 |
 | 🟡 驚き | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:50 |
 | 🟡 JACKPOT | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:48 |
 | 🟡 Chud | $0.000649 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:42 |

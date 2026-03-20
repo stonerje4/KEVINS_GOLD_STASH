@@ -9,10 +9,10 @@
 | Positions | 14 (11 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-204 |
-| 📦 Unrealized | $-140 |
-| 🏦 Total | **$-344** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $-141 |
+| 🏦 Total | **$-345** |
+| Best ROI | 0.39x |
+| Avg ROI | 0.32x |
 
 ## Open Positions
 
@@ -23,7 +23,7 @@
 | 🟡 SNIFFER | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:07 |
 | 🟡 Kin-Kun | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:46 |
 | 🟡 imagine | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:55 |
-| 🔴 Doolysaurus | $0.000143 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 12:36 |
+| 🔴 Doolysaurus | $0.000143 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 12:36 |
 | 🟡 Chonk | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:47 |
 | 🟡 genocide | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:44 |
 | 🔴 Happiness | $0.000004 | **0.90x** ($-10) | 1.37x |  | pumpfun | 2026-03-20 09:57 |

@@ -9,17 +9,17 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-19** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+11 |
+| 🏦 Total | **$+11** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 NBR | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:43 |
-| 🟡 OSP | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:43 |
+| 🟡 OSP | $0.000019 | **1.30x** ($+30) | 1.30x |  | pumpfun | 2026-03-20 06:43 |
 | 🔴 DRONE | $0.000054 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 NBR | $0.000005 | **0.96x** ($-4) | 1.03x |  | pumpfun | 2026-03-20 02:13 |
 | 🔴 Chocolatina | $0.000020 | **0.96x** ($-4) | 1.14x |  | pumpfun | 2026-03-20 00:50 |

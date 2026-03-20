@@ -9,16 +9,16 @@
 | Positions | 20 (20 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$+28** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+21 |
+| 🏦 Total | **$+21** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Chuck | $0.000151 | **2.52x** ($+152) | 3.21x | ✅ | pumpswap | 2026-03-20 13:55 |
+| 🟢 Chuck | $0.000151 | **2.34x** ($+134) | 3.21x | ✅ | pumpswap | 2026-03-20 13:55 |
 | 🟡 BigDance | $0.000211 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 13:45 |
 | 🟡 ME | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:37 |
 | 🟡 Foodrot | $0.000148 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 13:19 |

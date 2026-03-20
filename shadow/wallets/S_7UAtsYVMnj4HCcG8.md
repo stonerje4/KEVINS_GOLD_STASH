@@ -9,17 +9,17 @@
 | Positions | 22 (16 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-599 |
-| 📦 Unrealized | $-5 |
-| 🏦 Total | **$-604** |
-| Best Trade | 0.0x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $-6 |
+| 🏦 Total | **$-605** |
+| Best ROI | 0.01x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 YEPE | $0.000131 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
-| 🔴 BONER | $0.000177 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
+| 🔴 BONER | $0.000177 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
 | 🟡 $PRINT | $0.002412 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
 | 🔴 Franklin | $0.000111 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
 | 🟡 BFS | $0.000406 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:49 |
