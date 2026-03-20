@@ -1,36 +1,35 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 23:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 23:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (15 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-184 |
-| 📦 Unrealized | $-129 |
-| 🏦 Total | **$-313** |
+| Positions | 20 (14 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-252 |
+| 📦 Unrealized | $-216 |
+| 🏦 Total | **$-469** |
 | Best ROI | 1.45x |
-| Avg ROI | 0.63x |
+| Avg ROI | 0.58x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 ME | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:51 |
-| 🟡 Income | $0.000013 | **1.59x** ($+59) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
+| 🟡 Income | $0.000013 | **1.66x** ($+66) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
 | 🔴 PVE | $0.000012 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 15:52 |
 | 🔴 Samba | $0.000013 | **0.68x** ($-32) | 1.59x |  | pumpswap | 2026-03-20 15:27 |
 | 🟡 Feels | $0.000010 | **1.07x** ($+7) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 LVLUP | $0.000007 | **0.96x** ($-4) | 1.32x |  | pumpfun | 2026-03-20 15:00 |
-| 🔴 clod | $0.000020 | **0.84x** ($-16) | 1.99x |  | pumpswap | 2026-03-20 12:04 |
+| 🔴 clod | $0.000020 | **0.80x** ($-20) | 1.99x |  | pumpswap | 2026-03-20 12:04 |
 | 🔴 chud | $0.000022 | **0.89x** ($-11) | 1.53x |  | pumpswap | 2026-03-20 05:50 |
 | 🟡 RETURN | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 Patience | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🔴 Alien | $0.000024 | **0.43x** ($-57) | 1.78x |  | pumpswap | 2026-03-20 02:51 |
 | 🔴 DORO | $0.000005 | **0.73x** ($-27) | 1.19x |  | pumpfun | 2026-03-20 00:46 |
-| 🟡 Futa-kun | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 00:00 |
 | 🔴 TRASHBAG | $0.000009 | **0.43x** ($-57) | 1.00x |  | pumpswap | 2026-03-19 23:41 |
 | 🔴 WhiteBoy  | $0.000022 | **0.65x** ($-35) | 1.06x |  | pumpswap | 2026-03-19 23:06 |
 
@@ -42,6 +41,7 @@
 | 🟡 SMCI | 0.83x | $-17 | trailing_stop_3x | 3.24x | pumpfun | 2026-03-20 04:14 → 2026-03-20 22:21 |
 | 🟡 MINKA | 1.45x | $+45 | trailing_stop_4x | 3.93x | pumpfun | 2026-03-20 02:36 → 2026-03-20 02:54 |
 | 🔴 BOAT | 0.26x | $-74 | stop_loss | 1.00x | pumpswap | 2026-03-20 01:07 → 2026-03-20 16:14 |
+| 🔴 Futa-kun | 0.32x | $-68 | stop_loss | 1.87x | pumpfun | 2026-03-20 00:00 → 2026-03-20 23:24 |
 | 🔴 COMPUTE | 0.22x | $-78 | stop_loss | 1.38x | pumpfun | 2026-03-19 23:53 → 2026-03-19 23:53 |
 
 ---

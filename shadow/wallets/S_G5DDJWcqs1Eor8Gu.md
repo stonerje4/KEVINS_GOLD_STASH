@@ -1,26 +1,25 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 23:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 23:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (10 open, 12 closed) |
-| W/L | 0/12 (0%) |
-| 💵 Realized | $-711 |
-| 📦 Unrealized | $+180 |
-| 🏦 Total | **$-531** |
+| Positions | 22 (9 open, 13 closed) |
+| W/L | 0/13 (0%) |
+| 💵 Realized | $-727 |
+| 📦 Unrealized | $+157 |
+| 🏦 Total | **$-570** |
 | Best ROI | 0.93x |
-| Avg ROI | 0.41x |
+| Avg ROI | 0.44x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TADC | $0.000032 | **1.24x** ($+24) | 1.34x |  | pumpswap | 2026-03-20 22:52 |
+| 🟡 TADC | $0.000032 | **1.16x** ($+16) | 1.34x |  | pumpswap | 2026-03-20 22:52 |
 | 🟡 p-token | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:36 |
-| 🟡 CAINE | $0.000038 | **1.29x** ($+29) | 2.26x | ✅ | pumpswap | 2026-03-20 21:28 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 16:05 |
 | 🟡 NunChucks | $0.000016 | **1.94x** ($+94) | 2.33x | ✅ | pumpfun | 2026-03-20 14:32 |
 | 🟢 omochi | $0.000015 | **2.49x** ($+149) | 2.49x | ✅ | pumpfun | 2026-03-20 09:36 |
@@ -35,6 +34,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Elongate | 0.39x | $-61 | stop_loss | 1.08x | pumpfun | 2026-03-20 22:23 → 2026-03-20 22:26 |
 | 🔴 TADC | 0.26x | $-74 | stop_loss | 1.00x | pumpfun | 2026-03-20 21:52 → 2026-03-20 22:14 |
+| 🟡 CAINE | 0.84x | $-16 | trailing_stop_2x | 2.26x | pumpswap | 2026-03-20 21:28 → 2026-03-20 23:22 |
 | 🔴 MEME | 0.38x | $-62 | stop_loss | 1.84x | pumpfun | 2026-03-20 16:08 → 2026-03-20 16:40 |
 | 🔴 GBN | 0.37x | $-63 | stop_loss | 1.06x | pumpswap | 2026-03-20 15:54 → 2026-03-20 16:07 |
 | 🔴 LEGO | 0.40x | $-60 | stop_loss | 1.01x | pumpfun | 2026-03-20 15:47 → 2026-03-20 15:54 |

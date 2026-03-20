@@ -1,6 +1,6 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 23:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 23:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (13 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $-66 |
-| 🏦 Total | **$-249** |
+| 📦 Unrealized | $-125 |
+| 🏦 Total | **$-307** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -22,7 +22,7 @@
 | 🟡 CHIBIT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:30 |
 | 🔴 Kin-kun | $0.000005 | **0.46x** ($-54) | 1.19x |  | pumpfun | 2026-03-20 07:58 |
 | 🟡 CHIBIELON | $0.000014 | **1.95x** ($+95) | 2.63x | ✅ | pumpfun | 2026-03-20 04:24 |
-| 🟡 ARIA | $0.000020 | **1.18x** ($+18) | 1.42x |  | pumpswap | 2026-03-20 02:59 |
+| 🔴 ARIA | $0.000020 | **0.60x** ($-40) | 1.42x |  | pumpswap | 2026-03-20 02:59 |
 | 🔴 Saleh | $0.000019 | **0.67x** ($-33) | 1.13x |  | pumpswap | 2026-03-20 01:53 |
 | 🟡 SHELBY | $0.000009 | **1.10x** ($+10) | 1.21x |  | pumpfun | 2026-03-20 01:27 |
 | 🟡 creature | $0.000019 | **1.02x** ($+2) | 1.13x |  | pumpswap | 2026-03-20 01:23 |

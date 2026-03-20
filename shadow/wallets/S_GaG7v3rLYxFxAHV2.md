@@ -1,18 +1,18 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 23:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 23:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (9 open, 5 closed) |
-| W/L | 2/3 (40%) |
-| 💵 Realized | $-84 |
-| 📦 Unrealized | $-141 |
-| 🏦 Total | **$-224** |
+| Positions | 14 (8 open, 6 closed) |
+| W/L | 2/4 (33%) |
+| 💵 Realized | $-155 |
+| 📦 Unrealized | $-107 |
+| 🏦 Total | **$-262** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.83x |
+| Avg ROI | 0.74x |
 
 ## Open Positions
 
@@ -26,7 +26,6 @@
 | 🟡 MMORPG | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:44 |
 | 🟡 Quokka | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
 | 🔴 Saleh | $0.000019 | **0.68x** ($-32) | 1.14x |  | pumpswap | 2026-03-20 12:01 |
-| 🔴 ARIA | $0.000036 | **0.66x** ($-34) | 1.22x |  | pumpswap | 2026-03-20 01:59 |
 
 ## Closed Positions
 
@@ -37,6 +36,7 @@
 | 🔴 Judy | 0.36x | $-64 | stop_loss | 1.45x | pumpfun | 2026-03-20 11:55 → 2026-03-20 18:53 |
 | 🟡 Pixel | 1.09x | $+9 | trailing_stop_4x | 4.35x | pumpfun | 2026-03-20 03:39 → 2026-03-20 16:38 |
 | 🟡 credit | 1.49x | $+49 | trailing_stop_4x | 3.64x | pumpfun | 2026-03-20 03:03 → 2026-03-20 03:14 |
+| 🔴 ARIA | 0.28x | $-72 | stop_loss | 1.22x | pumpswap | 2026-03-20 01:59 → 2026-03-20 23:22 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

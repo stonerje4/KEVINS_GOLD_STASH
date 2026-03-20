@@ -1,6 +1,6 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 23:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 23:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (8 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+35 |
-| 📦 Unrealized | $-26 |
-| 🏦 Total | **$+9** |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$+5** |
 | Best ROI | 1.50x |
 | Avg ROI | 1.12x |
 
@@ -18,12 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FABIANA | $0.000020 | **0.92x** ($-8) | 1.24x |  | pumpswap | 2026-03-20 21:58 |
+| 🔴 FABIANA | $0.000020 | **0.87x** ($-13) | 1.24x |  | pumpswap | 2026-03-20 21:58 |
 | 🟡 PVC | $0.000012 | **1.06x** ($+6) | 1.15x |  | pumpfun | 2026-03-20 16:35 |
 | 🔴 Dozer | $0.000011 | **0.83x** ($-17) | 1.27x |  | pumpswap | 2026-03-20 16:34 |
 | 🟡 SCOTT | $0.000006 | **1.20x** ($+20) | 1.26x |  | pumpswap | 2026-03-20 16:20 |
 | 🟡 FEEL | $0.000006 | **1.07x** ($+7) | 1.11x |  | pumpfun | 2026-03-20 13:35 |
-| 🟡 Futa-kun | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
+| 🟡 Futa-kun | $0.000006 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:02 |
 | 🔴 SCRIPT | $0.000008 | **0.88x** ($-12) | 1.35x |  | pumpfun | 2026-03-20 07:52 |
 | 🔴 Thinker | $0.000008 | **0.78x** ($-22) | 1.25x |  | pumpswap | 2026-03-20 07:45 |
 

@@ -1,16 +1,16 @@
 # Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
 
-> [GMGN](https://gmgn.ai/sol/address/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | [Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 23:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | [Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 23:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (6 open, 4 closed) |
+| Positions | 11 (7 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-95 |
-| 📦 Unrealized | $-67 |
-| 🏦 Total | **$-162** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-99** |
 | Best ROI | 1.44x |
 | Avg ROI | 0.76x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 sheep | $0.000012 | **1.11x** ($+11) | 1.93x |  | pumpfun | 2026-03-20 20:30 |
+| 🟡 few | $0.000013 | **1.86x** ($+86) | 1.86x |  | pumpfun | 2026-03-20 23:24 |
+| 🔴 sheep | $0.000012 | **0.94x** ($-6) | 1.93x |  | pumpfun | 2026-03-20 20:30 |
 | 🔴 BiGymNtn | $0.000005 | **0.49x** ($-51) | 1.20x |  | pumpfun | 2026-03-20 19:46 |
-| 🟢 FABIANA | $0.000008 | **2.37x** ($+137) | 4.70x | ✅ | pumpfun | 2026-03-20 19:27 |
+| 🟢 FABIANA | $0.000008 | **2.24x** ($+124) | 4.70x | ✅ | pumpfun | 2026-03-20 19:27 |
 | 🔴 SUNSHINE | $0.000006 | **0.53x** ($-47) | 1.47x |  | pumpfun | 2026-03-20 07:56 |
 | 🔴 CHANNELS | $0.000020 | **0.90x** ($-10) | 1.25x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 Jesus | $0.000010 | **0.75x** ($-25) | 1.26x |  | pumpfun | 2026-03-19 22:46 |
