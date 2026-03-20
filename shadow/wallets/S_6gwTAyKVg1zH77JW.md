@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 19:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 19:58 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (95 open, 4 closed) |
 | W/L | 3/1 (75%) |
 | 💵 Realized | $+227 |
-| 📦 Unrealized | $-505 |
-| 🏦 Total | **$-278** |
+| 📦 Unrealized | $-506 |
+| 🏦 Total | **$-279** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.57x |
 
@@ -90,7 +90,7 @@
 | 🔴 italianrot | $0.000006 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 01:05 |
 | 🟡 Apple | $0.000017 | **1.30x** ($+30) | 1.30x |  | pumpswap | 2026-03-20 01:00 |
 | 🟡 aliens  | $0.000016 | **1.04x** ($+4) | 1.09x |  | pumpswap | 2026-03-20 00:59 |
-| 🔴 LIFE | $0.000023 | **0.89x** ($-11) | 2.72x | ✅ | pumpswap | 2026-03-20 00:52 |
+| 🔴 LIFE | $0.000023 | **0.87x** ($-13) | 2.72x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🔴 CHINAMAX | $0.000013 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-20 00:51 |
 | 🔴 KENJI | $0.000031 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 00:50 |
 | 🟡 FRUITS | $0.000006 | **1.18x** ($+18) | 1.34x |  | pumpswap | 2026-03-20 00:37 |

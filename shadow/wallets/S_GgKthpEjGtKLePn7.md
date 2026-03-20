@@ -1,18 +1,18 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 19:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 19:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (10 open, 2 closed) |
-| W/L | 1/1 (50%) |
-| 💵 Realized | $+31 |
+| Positions | 11 (10 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-15 |
 | 📦 Unrealized | $+234 |
-| 🏦 Total | **$+265** |
-| Best ROI | 1.46x |
-| Avg ROI | 1.15x |
+| 🏦 Total | **$+219** |
+| Best ROI | 0.85x |
+| Avg ROI | 0.85x |
 
 ## Open Positions
 
@@ -33,7 +33,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🟡 YINYANG | 1.46x | $+46 | trailing_stop_3x | 3.39x | cpmm | 2026-03-20 19:31 → 2026-03-20 19:45 |
 | 🟡 IShowSpeed | 0.85x | $-15 | trailing_stop_2x | 2.23x | pumpfun | 2026-03-20 02:02 → 2026-03-20 02:06 |
 
 ---

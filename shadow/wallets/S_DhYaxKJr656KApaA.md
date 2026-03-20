@@ -1,16 +1,16 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 19:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 19:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (4 open, 3 closed) |
+| Positions | 8 (5 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+596 |
-| 📦 Unrealized | $+76 |
-| 🏦 Total | **$+672** |
+| 📦 Unrealized | $+96 |
+| 🏦 Total | **$+692** |
 | Best ROI | 8.43x |
 | Avg ROI | 2.99x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Needle | $0.000023 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 19:56 |
 | 🟡 Pixels | $0.000015 | **1.61x** ($+61) | 1.80x |  | pumpswap | 2026-03-20 17:15 |
 | 🟡 ME | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 16:41 |
 | 🟡 SCRIPT | $0.000006 | **1.15x** ($+15) | 1.20x |  | pumpfun | 2026-03-20 16:30 |

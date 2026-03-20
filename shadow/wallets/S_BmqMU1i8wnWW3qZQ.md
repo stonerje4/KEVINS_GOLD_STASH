@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 19:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 19:58 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (228 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+83 |
-| 📦 Unrealized | $-2,096 |
-| 🏦 Total | **$-2,013** |
+| 📦 Unrealized | $-2,102 |
+| 🏦 Total | **$-2,019** |
 | Best ROI | 2.75x |
 | Avg ROI | 1.17x |
 
@@ -142,7 +142,7 @@
 | 🔴 SNDK | $0.000008 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🔴 JOC | $0.000039 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 AINL | $0.000029 | **1.16x** ($+16) | 1.16x |  | pumpswap | 2026-03-20 02:35 |
-| 🟢 Noorung | $0.000012 | **2.05x** ($+105) | 3.05x | ✅ | pumpswap | 2026-03-20 02:25 |
+| 🟡 Noorung | $0.000012 | **1.91x** ($+91) | 3.05x | ✅ | pumpswap | 2026-03-20 02:25 |
 | 🟡 PIKE | $0.000033 | **1.12x** ($+12) | 1.66x |  | pumpswap | 2026-03-20 02:22 |
 | 🔴 BB | $0.000010 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 fire | $0.000006 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 02:18 |

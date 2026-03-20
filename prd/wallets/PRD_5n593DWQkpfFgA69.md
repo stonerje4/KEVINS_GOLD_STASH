@@ -1,23 +1,23 @@
 # PRD Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
 
-> [GMGN](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | [Solscan](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | Updated: 2026-03-20 19:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | [Solscan](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | Updated: 2026-03-20 19:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Trades | 1 (0 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | -0.1190 SOL ($-10.56) |
-| ⛽ Gas | 0.0050 SOL |
-| 📦 Unrealized | +0.0000 SOL |
-| 🏦 Net | **-0.1190 SOL** ($-10.56) |
+| Trades | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | +0.0000 SOL ($+0.00) |
+| ⛽ Gas | 0.0000 SOL |
+| 📦 Unrealized | +0.2614 SOL |
+| 🏦 Net | **+0.2614 SOL** ($+23.22) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 CAT | closed | 0.11 | 0.84x | 1.79x | -0.1190 | ghost_close_zero_balance |
+| 🟢 CAT | open | 0.11 | 3.42x | 3.93x | +0.2614 | — |
 
 ---
 *[← Back to PRD Dashboard](../DASHBOARD.md)*

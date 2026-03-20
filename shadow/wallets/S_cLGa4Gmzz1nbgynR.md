@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 19:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 19:58 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 65 (59 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $-128 |
-| 🏦 Total | **$-406** |
+| 📦 Unrealized | $-187 |
+| 🏦 Total | **$-465** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.54x |
 
@@ -60,7 +60,7 @@
 | 🔴 Hamster | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Ouroboros | $0.000029 | **0.61x** ($-39) | 1.03x |  | pumpswap | 2026-03-20 01:43 |
 | 🔴 Speak | $0.000023 | **0.63x** ($-37) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
-| 🔴 LIFE | $0.000024 | **0.88x** ($-12) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
+| 🔴 LIFE | $0.000024 | **0.86x** ($-14) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🟢 LUMO | $0.000027 | **2.08x** ($+108) | 2.26x | ✅ | pumpswap | 2026-03-20 00:48 |
 | 🟡 Saleh | $0.000013 | **1.71x** ($+71) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
 | 🟢 WRT | $0.000014 | **2.15x** ($+115) | 2.15x | ✅ | pumpswap | 2026-03-20 00:34 |
@@ -68,7 +68,7 @@
 | 🟡 DOGEFATHER | $0.000013 | **1.18x** ($+18) | 2.36x | ✅ | pumpswap | 2026-03-20 00:01 |
 | 🔴 TIMELESS | $0.000021 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:57 |
 | 🔴 GOBLIN | $0.000015 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-19 23:47 |
-| 🟢 Alien | $0.000014 | **2.57x** ($+157) | 2.92x | ✅ | pumpswap | 2026-03-19 23:47 |
+| 🟡 Alien | $0.000014 | **1.40x** ($+40) | 2.92x | ✅ | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000025 | **1.30x** ($+30) | 1.30x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Patricia | $0.000024 | **0.60x** ($-40) | 1.94x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Monke | $0.000013 | **0.64x** ($-36) | 1.04x |  | pumpswap | 2026-03-19 23:30 |

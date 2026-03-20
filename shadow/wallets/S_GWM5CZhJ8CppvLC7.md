@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 19:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 19:58 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 36 (35 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+32 |
-| 📦 Unrealized | $+23 |
-| 🏦 Total | **$+55** |
+| 📦 Unrealized | $-36 |
+| 🏦 Total | **$-3** |
 | Best ROI | 1.32x |
 | Avg ROI | 1.32x |
 
@@ -45,7 +45,7 @@
 | 🟢 WRT | $0.000014 | **2.21x** ($+121) | 2.21x | ✅ | pumpswap | 2026-03-20 00:34 |
 | 🟢 OIIA | $0.000013 | **2.16x** ($+116) | 2.41x | ✅ | pumpswap | 2026-03-20 00:22 |
 | 🟡 DOGEFATHER | $0.000013 | **1.18x** ($+18) | 2.37x | ✅ | pumpswap | 2026-03-19 23:56 |
-| 🟢 Alien | $0.000014 | **2.56x** ($+156) | 2.92x | ✅ | pumpswap | 2026-03-19 23:47 |
+| 🟡 Alien | $0.000014 | **1.40x** ($+40) | 2.92x | ✅ | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000024 | **1.40x** ($+40) | 1.40x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Monke | $0.000013 | **0.63x** ($-37) | 1.02x |  | pumpswap | 2026-03-19 23:30 |
 | 🔴 HOSPICE | $0.000025 | **0.46x** ($-54) | 1.15x |  | pumpswap | 2026-03-19 23:12 |
