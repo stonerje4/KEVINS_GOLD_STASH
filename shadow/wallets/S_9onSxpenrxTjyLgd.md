@@ -1,6 +1,6 @@
 # Wallet: `9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf`
 
-> [View on Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 11:48 UTC
+> [View on Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 11:53 UTC
 
 ## Summary
 
@@ -11,14 +11,14 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-83 |
 | 🏦 Total | **$-83** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 JIANG | $0.000020 | **0.88x** ($-12) | 1.01x |  | pumpswap | 2026-03-20 08:05 |
+| 🔴 JIANG | $0.000020 | **0.89x** ($-11) | 1.01x |  | pumpswap | 2026-03-20 08:05 |
 | 🔴 APOPHENOTH | $0.000030 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 08:05 |
 | 🔴 Aliens | $0.000791 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:39 |
 | 🔴 AyyLMAO | $0.000050 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:29 |

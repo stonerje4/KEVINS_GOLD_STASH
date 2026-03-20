@@ -1,6 +1,6 @@
 # Wallet: `MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM`
 
-> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 11:48 UTC
+> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 11:53 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-104 |
-| 🏦 Total | **$-165** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| 📦 Unrealized | $-100 |
+| 🏦 Total | **$-161** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🟡 genocide | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:44 |
 | 🔴 Happiness | $0.000004 | **0.82x** ($-18) | 1.01x |  | pumpfun | 2026-03-20 09:57 |
 | 🟡 Homies  | $0.000005 | **1.08x** ($+8) | 1.20x |  | pumpfun | 2026-03-20 09:30 |
-| 🔴 PHM | $0.000011 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-20 08:51 |
+| 🔴 PHM | $0.000011 | **0.59x** ($-41) | 1.00x |  | pumpfun | 2026-03-20 08:51 |
 | 🔴 Beach | $0.000008 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 08:49 |
 
 ## Closed Positions

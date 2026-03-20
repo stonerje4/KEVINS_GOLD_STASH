@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 11:48 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 11:53 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 19 (14 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-268 |
-| 📦 Unrealized | $-101 |
-| 🏦 Total | **$-369** |
-| Best ROI | 0.81x |
-| Avg ROI | 0.46x |
+| 📦 Unrealized | $-102 |
+| 🏦 Total | **$-370** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.3x |
 
 ## Open Positions
 
@@ -31,7 +31,7 @@
 | 🔴 Record | $0.000010 | **0.90x** ($-10) | 1.47x |  | pumpfun | 2026-03-19 23:10 |
 | 🔴 bio/acc | $0.000020 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 22:54 |
 | 🟡 RIPCHUCK | $0.000008 | **1.13x** ($+13) | 1.49x |  | pumpfun | 2026-03-19 22:43 |
-| 🔴 dlorp | $0.000006 | **0.45x** ($-55) | 1.12x |  | pumpfun | 2026-03-19 22:38 |
+| 🔴 dlorp | $0.000006 | **0.44x** ($-56) | 1.12x |  | pumpfun | 2026-03-19 22:38 |
 
 ## Closed Positions
 

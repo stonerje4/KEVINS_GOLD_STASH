@@ -1,6 +1,6 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 11:48 UTC
+> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 11:53 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 17 (17 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+166 |
-| 🏦 Total | **$+166** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+164 |
+| 🏦 Total | **$+164** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -30,7 +30,7 @@
 | 🟡 NBR | $0.000003 | **1.26x** ($+26) | 1.26x |  | pumpfun | 2026-03-20 05:45 |
 | 🟡 TD9FQMu7 | $0.000003 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 05:42 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:09 |
-| 🟡 ROS | $0.000004 | **1.28x** ($+28) | 1.52x |  | pumpfun | 2026-03-20 04:21 |
+| 🟡 ROS | $0.000004 | **1.25x** ($+25) | 1.52x |  | pumpfun | 2026-03-20 04:21 |
 | 🟡 USRNR | $0.000003 | **1.58x** ($+58) | 1.78x |  | pumpfun | 2026-03-20 03:23 |
 | 🟡 KAT | $0.000006 | **1.96x** ($+96) | 2.53x | ✅ | pumpfun | 2026-03-19 23:00 |
 | 🔴 e-CNY | $0.000008 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-19 22:55 |
