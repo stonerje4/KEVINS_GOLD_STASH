@@ -1,6 +1,6 @@
 # Wallet: `Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq`
 
-> [View on Solscan](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) | Updated: 2026-03-20 02:14 UTC
+> [View on Solscan](https://solscan.io/account/Ckm6DF7m77M2WzriP8W26vLWuoNz6EKGC1gRxLHsNZDq) | Updated: 2026-03-20 02:19 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Ham | $0.000027 | **1.50x** ($+50) | 2.53x | ✅ | pumpswap | 2026-03-20 01:41 |
+| 🟡 Ham | $0.000027 | **1.49x** ($+49) | 2.53x | ✅ | pumpswap | 2026-03-20 01:41 |
 | 🟡 DTC | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:25 |
 
 ## Closed Positions

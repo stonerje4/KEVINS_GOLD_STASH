@@ -1,6 +1,6 @@
 # Wallet: `4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS`
 
-> [View on Solscan](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | Updated: 2026-03-20 02:14 UTC
+> [View on Solscan](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | Updated: 2026-03-20 02:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$+4** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 SPARKOS | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:09 |
-| 🟡 ACT: S | $0.000011 | **1.04x** ($+4) | 1.09x |  | pumpswap | 2026-03-20 01:46 |
+| 🟡 ACT: S | $0.000011 | **1.00x** ($+0) | 1.09x |  | pumpswap | 2026-03-20 01:46 |
 
 ## Closed Positions
 

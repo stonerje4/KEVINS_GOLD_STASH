@@ -1,16 +1,16 @@
 # Wallet: `6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y`
 
-> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 02:14 UTC
+> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 02:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (7 open, 3 closed) |
+| Positions | 11 (8 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-73 |
-| 📦 Unrealized | $-25 |
-| 🏦 Total | **$-99** |
+| 📦 Unrealized | $-8 |
+| 🏦 Total | **$-82** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TK5 | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 02:12 |
+| 🟡 EID | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:18 |
+| 🟡 TK5 | $0.000003 | **1.15x** ($+15) | 1.35x |  | pumpfun | 2026-03-20 02:12 |
 | 🔴 Taylor | $0.000003 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 02:08 |
 | 🔴 Grokslop | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:00 |
-| 🟢 Cow | $0.000005 | **2.93x** ($+193) | 3.00x | ✅ | pumpfun | 2026-03-20 01:57 |
+| 🟢 Cow | $0.000005 | **3.16x** ($+216) | 3.72x | ✅ | pumpfun | 2026-03-20 01:57 |
 | 🔴 Xombat | $0.000006 | **0.99x** ($-1) | 1.25x |  | pumpswap | 2026-03-20 01:31 |
-| 🔴 Doolysaurus | $0.000009 | **0.58x** ($-42) | 1.07x |  | pumpfun | 2026-03-20 01:17 |
+| 🔴 Doolysaurus | $0.000009 | **0.57x** ($-43) | 1.07x |  | pumpfun | 2026-03-20 01:17 |
 | 🔴 Imaginify | $0.000005 | **0.59x** ($-41) | 1.00x |  | pumpfun | 2026-03-20 01:04 |
 
 ## Closed Positions

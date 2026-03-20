@@ -1,12 +1,12 @@
 # Wallet: `7MBoioY9NNPVYCNUmdKzVfn4upSC4tzqgM8WUFtZ2gE2`
 
-> [View on Solscan](https://solscan.io/account/7MBoioY9NNPVYCNUmdKzVfn4upSC4tzqgM8WUFtZ2gE2) | Updated: 2026-03-20 02:14 UTC
+> [View on Solscan](https://solscan.io/account/7MBoioY9NNPVYCNUmdKzVfn4upSC4tzqgM8WUFtZ2gE2) | Updated: 2026-03-20 02:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FIH | $0.000203 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:17 |
 | 🟡 SAVED | $0.000000 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:09 |
 
 ## Closed Positions

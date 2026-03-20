@@ -1,6 +1,6 @@
 # Wallet: `91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso`
 
-> [View on Solscan](https://solscan.io/account/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | Updated: 2026-03-20 02:14 UTC
+> [View on Solscan](https://solscan.io/account/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | Updated: 2026-03-20 02:19 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 boobs | $0.000004 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 01:04 |
 | 🔴 ballsack | $0.000005 | **0.94x** ($-6) | 1.02x |  | pumpswap | 2026-03-20 01:00 |
-| 🟡 CT | $0.000004 | **1.02x** ($+2) | 1.33x |  | pumpswap | 2026-03-20 00:49 |
+| 🟡 CT | $0.000004 | **1.01x** ($+1) | 1.33x |  | pumpswap | 2026-03-20 00:49 |
 | 🟡 clitoris | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:36 |
 | 🟡 CHIBITRUMP | $0.000010 | **1.18x** ($+18) | 1.89x |  | pumpswap | 2026-03-20 00:26 |
 | 🟡 CHIBIELON | $0.000005 | **1.52x** ($+52) | 1.80x |  | pumpswap | 2026-03-20 00:06 |
