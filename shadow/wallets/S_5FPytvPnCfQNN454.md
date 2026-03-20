@@ -1,6 +1,6 @@
 # Wallet: `5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii`
 
-> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 19:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 19:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$+28** |
+| 📦 Unrealized | $+37 |
+| 🏦 Total | **$+37** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 MFT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:43 |
-| 🔴 Pixels | $0.000035 | **0.68x** ($-32) | 1.09x |  | pumpswap | 2026-03-20 11:31 |
-| 🔴 AINL | $0.000032 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 04:55 |
+| 🔴 Pixels | $0.000035 | **0.72x** ($-28) | 1.09x |  | pumpswap | 2026-03-20 11:31 |
+| 🔴 AINL | $0.000032 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 04:55 |
 | 🟡 ARIA | $0.000016 | **1.47x** ($+47) | 1.76x |  | pumpswap | 2026-03-20 02:51 |
 | 🟡 DICKUS | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 AIFRUIT | $0.000024 | **0.86x** ($-14) | 1.15x |  | pumpswap | 2026-03-19 23:52 |

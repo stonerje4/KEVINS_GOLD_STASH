@@ -1,6 +1,6 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 19:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 19:45 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-192 |
 | 📦 Unrealized | $-17 |
-| 🏦 Total | **$-209** |
+| 🏦 Total | **$-210** |
 | Best ROI | 0.37x |
 | Avg ROI | 0.36x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Handprint | $0.000011 | **0.76x** ($-24) | 1.17x |  | pumpswap | 2026-03-20 18:25 |
+| 🔴 Handprint | $0.000011 | **0.75x** ($-25) | 1.17x |  | pumpswap | 2026-03-20 18:25 |
 | 🟡 Pixel | $0.000009 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 16:37 |
 | 🟡 Obsessed | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
 

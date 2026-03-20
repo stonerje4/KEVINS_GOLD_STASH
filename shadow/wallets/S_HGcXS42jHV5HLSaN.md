@@ -1,16 +1,16 @@
 # Wallet: `HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK`
 
-> [GMGN](https://gmgn.ai/sol/address/HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK) | [Solscan](https://solscan.io/account/HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK) | Updated: 2026-03-20 19:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK) | [Solscan](https://solscan.io/account/HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK) | Updated: 2026-03-20 19:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (1 open, 4 closed) |
+| Positions | 6 (2 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-241 |
-| 📦 Unrealized | $-5 |
-| 🏦 Total | **$-246** |
+| 📦 Unrealized | $-102 |
+| 🏦 Total | **$-343** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Collin | $0.000009 | **0.95x** ($-5) | 1.85x |  | pumpfun | 2026-03-20 19:19 |
+| 🔴 STOP | $0.000006 | **0.46x** ($-54) | 1.24x |  | pumpfun | 2026-03-20 19:44 |
+| 🔴 Collin | $0.000009 | **0.52x** ($-48) | 1.85x |  | pumpfun | 2026-03-20 19:19 |
 
 ## Closed Positions
 

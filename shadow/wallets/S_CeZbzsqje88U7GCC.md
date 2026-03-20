@@ -1,16 +1,16 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 19:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 19:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (11 open, 6 closed) |
+| Positions | 18 (12 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-175 |
-| 📦 Unrealized | $+331 |
-| 🏦 Total | **$+156** |
+| 📦 Unrealized | $+338 |
+| 🏦 Total | **$+163** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.71x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NICK | $0.000027 | **1.07x** ($+7) | 1.10x |  | pumpswap | 2026-03-20 19:41 |
 | 🟡 Alien | $0.000022 | **1.73x** ($+73) | 1.97x |  | pumpswap | 2026-03-20 14:20 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
 | 🟢 ME | $0.000006 | **3.77x** ($+277) | 3.99x | ✅ | pumpfun | 2026-03-20 12:51 |

@@ -1,6 +1,6 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [GMGN](https://gmgn.ai/sol/address/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | [Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 19:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | [Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 19:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 72 (49 open, 23 closed) |
 | W/L | 3/20 (13%) |
 | 💵 Realized | $-1,040 |
-| 📦 Unrealized | $-538 |
-| 🏦 Total | **$-1,578** |
+| 📦 Unrealized | $-532 |
+| 🏦 Total | **$-1,572** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.55x |
 
@@ -53,7 +53,7 @@
 | 🔴 Grok | $0.000006 | **0.46x** ($-54) | 1.16x |  | pumpfun | 2026-03-20 08:54 |
 | 🔴 OM | $0.000013 | **0.70x** ($-30) | 1.75x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000006 | **0.45x** ($-55) | 1.65x |  | pumpfun | 2026-03-20 08:12 |
-| 🔴 Pixels | $0.000026 | **0.91x** ($-9) | 1.47x |  | pumpfun | 2026-03-20 06:53 |
+| 🔴 Pixels | $0.000026 | **0.97x** ($-3) | 1.47x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 BOAR | $0.000011 | **0.57x** ($-43) | 1.10x |  | pumpswap | 2026-03-20 06:42 |
 | 🔴 2u4WY5Ui | $0.000006 | **0.43x** ($-57) | 1.70x |  | pumpfun | 2026-03-20 06:41 |

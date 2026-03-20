@@ -1,25 +1,24 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 19:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 19:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (12 open, 6 closed) |
-| W/L | 1/5 (17%) |
-| 💵 Realized | $-200 |
-| 📦 Unrealized | $+5 |
-| 🏦 Total | **$-195** |
+| Positions | 18 (11 open, 7 closed) |
+| W/L | 1/6 (14%) |
+| 💵 Realized | $-216 |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$-233** |
 | Best ROI | 1.32x |
-| Avg ROI | 0.67x |
+| Avg ROI | 0.69x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Forget | $0.000008 | **1.16x** ($+16) | 1.59x |  | pumpswap | 2026-03-20 19:24 |
-| 🟡 Collin | $0.000006 | **1.44x** ($+44) | 2.79x | ✅ | pumpfun | 2026-03-20 19:18 |
+| 🟡 Forget | $0.000008 | **1.19x** ($+19) | 1.59x |  | pumpswap | 2026-03-20 19:24 |
 | 🟡 Massive | $0.000029 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 Sunshine | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
 | 🟡 SBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:34 |
@@ -29,12 +28,13 @@
 | 🟡 EmH4y6zA | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 PVC | $0.000008 | **1.55x** ($+55) | 1.69x |  | pumpfun | 2026-03-20 03:18 |
 | 🔴 imagineslop | $0.000009 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 02:11 |
-| 🔴 IShowSpeed | $0.000013 | **0.84x** ($-16) | 1.53x |  | pumpswap | 2026-03-20 02:02 |
+| 🔴 IShowSpeed | $0.000013 | **0.81x** ($-19) | 1.53x |  | pumpswap | 2026-03-20 02:02 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Collin | 0.84x | $-16 | trailing_stop_3x | 2.79x | pumpfun | 2026-03-20 19:18 → 2026-03-20 19:43 |
 | 🔴 Sunshine | 0.73x | $-27 | trailing_stop_2x | 2.46x | pumpfun | 2026-03-20 13:14 → 2026-03-20 13:36 |
 | 🔴 Freddie | 0.35x | $-65 | stop_loss | 1.00x | pumpfun | 2026-03-20 10:36 → 2026-03-20 16:50 |
 | 🟡 Kin-kun | 0.84x | $-16 | trailing_stop_2x | 2.41x | pumpfun | 2026-03-20 08:57 → 2026-03-20 09:32 |

@@ -1,6 +1,6 @@
-# Wallet: `9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3`
+# Wallet: `oMhYGWmMbvcN79J1Ujmp8zyRWyrpjnkqMUeqhV8BihK`
 
-> [GMGN](https://gmgn.ai/sol/address/9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3) | [Solscan](https://solscan.io/account/9Rs9djoTFqHkDMZB54pFDAKpUuknQPz34WfNn3f8C6Y3) | Updated: 2026-03-20 19:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/oMhYGWmMbvcN79J1Ujmp8zyRWyrpjnkqMUeqhV8BihK) | [Solscan](https://solscan.io/account/oMhYGWmMbvcN79J1Ujmp8zyRWyrpjnkqMUeqhV8BihK) | Updated: 2026-03-20 19:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-33 |
-| 🏦 Total | **$-33** |
+| 📦 Unrealized | $+36 |
+| 🏦 Total | **$+36** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Thinker | $0.000009 | **0.67x** ($-33) | 1.30x |  | pumpswap | 2026-03-19 22:35 |
+| 🟡 GePJ8HFv | $0.000008 | **1.36x** ($+36) | 1.71x |  | pumpfun | 2026-03-20 19:40 |
 
 ## Closed Positions
 

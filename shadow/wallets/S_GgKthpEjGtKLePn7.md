@@ -1,6 +1,6 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 19:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 19:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (11 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-15 |
-| 📦 Unrealized | $+296 |
-| 🏦 Total | **$+281** |
+| 📦 Unrealized | $+264 |
+| 🏦 Total | **$+248** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.85x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 YINYANG | $0.000014 | **1.56x** ($+56) | 1.67x |  | cpmm | 2026-03-20 19:31 |
+| 🟡 YINYANG | $0.000014 | **1.60x** ($+60) | 3.39x | ✅ | cpmm | 2026-03-20 19:31 |
 | 🔴 i | $0.000011 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 18:13 |
-| 🟡 IShowSpeed | $0.000009 | **1.23x** ($+23) | 2.24x | ✅ | pumpswap | 2026-03-20 17:26 |
+| 🟡 IShowSpeed | $0.000009 | **1.18x** ($+18) | 2.24x | ✅ | pumpswap | 2026-03-20 17:26 |
 | 🟡 unemployed | $0.000006 | **1.28x** ($+28) | 1.29x |  | pumpswap | 2026-03-20 17:23 |
 | 🟡 TGR | $0.000008 | **1.09x** ($+9) | 1.21x |  | pumpfun | 2026-03-20 16:14 |
 | 🟡 Monke | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🟡 OSP | $0.000020 | **1.27x** ($+27) | 1.39x |  | pumpfun | 2026-03-20 05:22 |
-| 🟡 Samba | $0.000006 | **1.52x** ($+52) | 2.07x | ✅ | pumpswap | 2026-03-20 05:14 |
+| 🟡 Samba | $0.000006 | **1.55x** ($+55) | 2.07x | ✅ | pumpswap | 2026-03-20 05:14 |
 | 🟡 UOR | $0.000036 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 SHOENICE  | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
 | 🟢 WRT | $0.000007 | **4.35x** ($+335) | 4.35x | ✅ | pumpswap | 2026-03-20 00:59 |

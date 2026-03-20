@@ -1,6 +1,6 @@
 # Wallet: `3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1`
 
-> [GMGN](https://gmgn.ai/sol/address/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | [Solscan](https://solscan.io/account/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | Updated: 2026-03-20 19:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | [Solscan](https://solscan.io/account/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | Updated: 2026-03-20 19:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (5 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-73 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-102** |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-104** |
 | Best ROI | 0.27x |
 | Avg ROI | 0.27x |
 
@@ -22,7 +22,7 @@
 | 🟡 STIV | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:08 |
 | 🔴 Baldi | $0.000025 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🔴 90S | $0.000019 | **0.97x** ($-3) | 1.16x |  | pumpswap | 2026-03-19 23:33 |
-| 🔴 NICK | $0.000032 | **0.92x** ($-8) | 1.13x |  | pumpswap | 2026-03-19 23:32 |
+| 🔴 NICK | $0.000032 | **0.90x** ($-10) | 1.13x |  | pumpswap | 2026-03-19 23:32 |
 
 ## Closed Positions
 
