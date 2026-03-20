@@ -1,6 +1,6 @@
 # Wallet: `8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4`
 
-> [GMGN](https://gmgn.ai/sol/address/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | [Solscan](https://solscan.io/account/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | [Solscan](https://solscan.io/account/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+39 |
-| 🏦 Total | **$+39** |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$-34** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,8 +20,8 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 NATIVELY | $0.000017 | **1.05x** ($+5) | 1.05x |  | cpmm | 2026-03-20 12:24 |
 | 🟡 API | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:21 |
-| 🔴 clod | $0.000039 | **0.94x** ($-6) | 1.03x |  | pumpswap | 2026-03-20 12:20 |
-| 🟡 Pixel | $0.000010 | **1.39x** ($+39) | 1.70x |  | pumpswap | 2026-03-20 12:18 |
+| 🔴 clod | $0.000039 | **0.63x** ($-37) | 1.03x |  | pumpswap | 2026-03-20 12:20 |
+| 🔴 Pixel | $0.000010 | **0.98x** ($-2) | 1.70x |  | pumpswap | 2026-03-20 12:18 |
 
 ## Closed Positions
 

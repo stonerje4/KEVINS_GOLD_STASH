@@ -1,24 +1,26 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (10 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-79 |
-| 📦 Unrealized | $-50 |
-| 🏦 Total | **$-129** |
+| Positions | 16 (12 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-199 |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$-185** |
 | Best ROI | 0.82x |
-| Avg ROI | 0.61x |
+| Avg ROI | 0.50x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 HELLO | $0.000012 | **0.76x** ($-24) | 1.10x |  | pumpfun | 2026-03-20 16:08 |
+| 🟢 Hello World! | $0.000010 | **3.49x** ($+249) | 3.49x | ✅ | pumpfun | 2026-03-20 16:52 |
+| 🔴 Polara | $0.000006 | **0.41x** ($-59) | 1.27x |  | pumpfun | 2026-03-20 16:47 |
+| 🟡 HELLO | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:31 |
 | 🟢 Chuck | $0.000006 | **2.27x** ($+127) | 2.32x | ✅ | pumpfun | 2026-03-20 14:55 |
 | 🔴 CHUCK | $0.000008 | **0.60x** ($-40) | 1.10x |  | pumpfun | 2026-03-20 14:48 |
 | 🟡 됴지님 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:48 |
@@ -33,6 +35,8 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Happiness | 0.40x | $-60 | stop_loss | 1.35x | pumpfun | 2026-03-20 17:05 → 2026-03-20 17:32 |
+| 🔴 HELLO | 0.39x | $-61 | stop_loss | 1.10x | pumpfun | 2026-03-20 16:08 → 2026-03-20 16:17 |
 | 🔴 8DvZcPdA | 0.39x | $-61 | stop_loss | 1.63x | pumpfun | 2026-03-20 14:53 → 2026-03-20 14:57 |
 | 🟡 tired | 0.82x | $-18 | trailing_stop_2x | 2.36x | pumpfun | 2026-03-20 13:21 → 2026-03-20 13:33 |
 

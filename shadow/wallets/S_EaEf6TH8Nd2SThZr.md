@@ -1,6 +1,6 @@
 # Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
 
-> [GMGN](https://gmgn.ai/sol/address/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | [Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | [Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (10 open, 12 closed) |
 | W/L | 2/10 (17%) |
 | 💵 Realized | $-458 |
-| 📦 Unrealized | $+52 |
-| 🏦 Total | **$-407** |
+| 📦 Unrealized | $+79 |
+| 🏦 Total | **$-380** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.62x |
 
@@ -21,7 +21,7 @@
 | 🔴 TGC | $0.000005 | **0.81x** ($-19) | 1.14x |  | pumpfun | 2026-03-19 23:47 |
 | 🟢 CHILLDOWN | $0.000013 | **2.91x** ($+191) | 2.91x | ✅ | pumpfun | 2026-03-19 23:44 |
 | 🔴 POUNDCAKE | $0.000005 | **0.78x** ($-22) | 1.49x |  | pumpfun | 2026-03-19 23:39 |
-| 🟡 PVC | $0.000008 | **1.32x** ($+32) | 1.73x |  | pumpfun | 2026-03-19 23:29 |
+| 🟡 PVC | $0.000008 | **1.59x** ($+59) | 1.73x |  | pumpfun | 2026-03-19 23:29 |
 | 🔴 Void | $0.000014 | **0.82x** ($-18) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 Oracle | $0.000008 | **0.85x** ($-15) | 1.26x |  | pumpfun | 2026-03-19 23:08 |
 | 🔴 Record | $0.000012 | **0.77x** ($-23) | 1.80x |  | pumpfun | 2026-03-19 23:08 |

@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (11 open, 4 closed) |
+| Positions | 17 (13 open, 4 closed) |
 | W/L | 3/1 (75%) |
 | 💵 Realized | $+393 |
-| 📦 Unrealized | $-450 |
-| 🏦 Total | **$-57** |
+| 📦 Unrealized | $-458 |
+| 🏦 Total | **$-66** |
 | Best ROI | 2.93x |
 | Avg ROI | 1.98x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FROGE | $0.000005 | **1.37x** ($+37) | 1.88x |  | pumpfun | 2026-03-20 17:29 |
+| 🔴 Freddie | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-20 16:44 |
 | 🔴 EidMubarak | $0.000005 | **0.75x** ($-25) | 1.47x |  | pumpfun | 2026-03-20 05:45 |
 | 🔴 BitPenis | $0.000005 | **0.52x** ($-48) | 1.64x |  | pumpfun | 2026-03-20 05:17 |
 | 🔴 meme | $0.000005 | **0.49x** ($-51) | 1.23x |  | pumpfun | 2026-03-20 04:23 |

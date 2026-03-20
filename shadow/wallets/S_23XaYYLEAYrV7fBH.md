@@ -1,6 +1,6 @@
 # Wallet: `23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp`
 
-> [GMGN](https://gmgn.ai/sol/address/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | [Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | [Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (6 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-198 |
-| 📦 Unrealized | $+15 |
-| 🏦 Total | **$-183** |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-212** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.34x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 SHOENICE  | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:41 |
 | 🟡 ANIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:23 |
-| 🟡 Kin-kun | $0.000008 | **1.31x** ($+31) | 1.64x |  | pumpfun | 2026-03-20 09:53 |
+| 🟡 Kin-kun | $0.000008 | **1.02x** ($+2) | 1.64x |  | pumpfun | 2026-03-20 09:53 |
 | 🔴 Nemunemu | $0.000005 | **1.00x** ($-0) | 1.10x |  | pumpswap | 2026-03-20 04:52 |
 | 🔴 Nemunemu | $0.000008 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 04:52 |
 | 🔴 DLORP | $0.000012 | **0.91x** ($-9) | 1.23x |  | pumpswap | 2026-03-19 22:48 |

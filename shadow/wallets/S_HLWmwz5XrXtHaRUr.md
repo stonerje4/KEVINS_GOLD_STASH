@@ -1,6 +1,6 @@
 # Wallet: `HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6`
 
-> [GMGN](https://gmgn.ai/sol/address/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | [Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | [Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+20 |
-| 🏦 Total | **$-41** |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$-23** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PIKE | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
-| 🟡 OBJECTS | $0.000129 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 06:03 |
+| 🔴 PIKE | $0.000050 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
+| 🟡 OBJECTS | $0.000129 | **1.34x** ($+34) | 1.63x |  | pumpswap | 2026-03-20 06:03 |
 | 🔴 NICK | $0.000036 | **0.83x** ($-17) | 1.01x |  | pumpswap | 2026-03-20 06:03 |
 | 🟡 meowl | $0.000175 | **1.33x** ($+33) | 1.40x |  | pumpswap | 2026-03-20 06:02 |
 

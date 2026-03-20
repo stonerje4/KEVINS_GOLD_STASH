@@ -1,6 +1,6 @@
 # Wallet: `2RWo4qUbn65LKiGA1hm45LRxJqAyumFk7hDupDD1Nq5e`
 
-> [GMGN](https://gmgn.ai/sol/address/2RWo4qUbn65LKiGA1hm45LRxJqAyumFk7hDupDD1Nq5e) | [Solscan](https://solscan.io/account/2RWo4qUbn65LKiGA1hm45LRxJqAyumFk7hDupDD1Nq5e) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/2RWo4qUbn65LKiGA1hm45LRxJqAyumFk7hDupDD1Nq5e) | [Solscan](https://solscan.io/account/2RWo4qUbn65LKiGA1hm45LRxJqAyumFk7hDupDD1Nq5e) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+20 |
-| 🏦 Total | **$+20** |
+| 📦 Unrealized | $+19 |
+| 🏦 Total | **$+19** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 COLLECTIBLE | $0.000047 | **1.20x** ($+20) | 1.20x |  | pumpswap | 2026-03-20 04:01 |
+| 🟡 COLLECTIBLE | $0.000047 | **1.19x** ($+19) | 1.27x |  | pumpswap | 2026-03-20 04:01 |
 
 ## Closed Positions
 

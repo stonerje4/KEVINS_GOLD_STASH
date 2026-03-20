@@ -1,6 +1,6 @@
 # Wallet: `8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY`
 
-> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (8 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-224 |
-| 📦 Unrealized | $-31 |
-| 🏦 Total | **$-255** |
+| 📦 Unrealized | $-33 |
+| 🏦 Total | **$-256** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.55x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBI | $0.003616 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 10:58 |
+| 🔴 CHIBI | $0.003616 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 10:58 |
 | 🟡 Lobstar | $0.006584 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:46 |
-| 🟡 WIZARD | $0.000358 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 10:44 |
+| 🔴 WIZARD | $0.000358 | **0.99x** ($-1) | 1.08x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 IMAGINE | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:14 |
 | 🟡 SHOENICE  | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
-| 🟡 Optimistic | $0.000702 | **1.09x** ($+9) | 1.31x |  | pumpswap | 2026-03-20 00:44 |
-| 🔴 TripleT | $0.002509 | **0.94x** ($-6) | 1.03x |  | pumpswap | 2026-03-20 00:37 |
-| 🔴 Snorp | $0.000237 | **0.96x** ($-4) | 1.14x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Optimistic | $0.000702 | **1.16x** ($+16) | 1.44x |  | pumpswap | 2026-03-20 00:44 |
+| 🔴 TripleT | $0.002509 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 00:37 |
+| 🔴 Snorp | $0.000237 | **0.95x** ($-5) | 1.14x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

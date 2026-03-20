@@ -1,6 +1,6 @@
 # Wallet: `G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf`
 
-> [GMGN](https://gmgn.ai/sol/address/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | [Solscan](https://solscan.io/account/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | [Solscan](https://solscan.io/account/G5eugJMkQmuHh4ZztMEUmBRL8oMCBfguqwURb1USzRHf) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-150** |
+| 📦 Unrealized | $-51 |
+| 🏦 Total | **$-172** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SPACE X | $0.000052 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 16:08 |
-| 🔴 VAFR | $0.000033 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 14:09 |
+| 🔴 SPACE X | $0.000052 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 16:08 |
+| 🔴 VAFR | $0.000033 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 14:09 |
 | 🟡 KAT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:40 |
 | 🟡 NBR | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:52 |
 | 🔴 e-CNY | $0.000008 | **0.97x** ($-3) | 1.04x |  | pumpfun | 2026-03-20 00:30 |

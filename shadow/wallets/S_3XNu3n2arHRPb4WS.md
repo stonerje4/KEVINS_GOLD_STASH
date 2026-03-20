@@ -1,18 +1,18 @@
 # Wallet: `3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF`
 
-> [GMGN](https://gmgn.ai/sol/address/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | [Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | [Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (5 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-137 |
-| 📦 Unrealized | $-94 |
-| 🏦 Total | **$-230** |
+| Positions | 8 (4 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-197 |
+| 📦 Unrealized | $-108 |
+| 🏦 Total | **$-305** |
 | Best ROI | 0.85x |
-| Avg ROI | 0.54x |
+| Avg ROI | 0.51x |
 
 ## Open Positions
 
@@ -21,8 +21,7 @@
 | 🔴 Peace  | $0.000543 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 09:10 |
 | 🔴 QUIT | $0.000008 | **0.51x** ($-49) | 1.07x |  | pumpfun | 2026-03-20 08:41 |
 | 🟡 電王 | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:29 |
-| 🔴 RIPCHUCK | $0.000011 | **0.78x** ($-22) | 1.51x |  | pumpfun | 2026-03-20 06:08 |
-| 🟡 MOCHI | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:46 |
+| 🔴 RIPCHUCK | $0.000011 | **0.64x** ($-36) | 1.51x |  | pumpfun | 2026-03-20 06:08 |
 
 ## Closed Positions
 
@@ -31,6 +30,7 @@
 | 🟡 Happiness | 0.85x | $-15 | trailing_stop_3x | 2.70x | pumpfun | 2026-03-20 08:03 → 2026-03-20 08:41 |
 | 🔴 AVATAR | 0.39x | $-61 | stop_loss | 1.03x | pumpswap | 2026-03-20 07:12 → 2026-03-20 07:35 |
 | 🔴 Floki | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:28 → 2026-03-20 07:24 |
+| 🔴 MOCHI | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:46 → 2026-03-20 16:19 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (15 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-64 |
-| 📦 Unrealized | $+140 |
-| 🏦 Total | **$+76** |
+| 📦 Unrealized | $+93 |
+| 🏦 Total | **$+29** |
 | Best ROI | 0.36x |
 | Avg ROI | 0.36x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Distorted | $0.000867 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 15:50 |
+| 🔴 Distorted | $0.000867 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-20 15:50 |
 | 🟡 FUEGO | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:56 |
 | 🟡 NBR | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:54 |
 | 🟡 FTR | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:42 |
@@ -28,11 +28,11 @@
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 OSP | $0.000014 | **1.80x** ($+80) | 1.97x |  | pumpfun | 2026-03-20 04:20 |
 | 🟡 OIL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:18 |
-| 🟡 UGOR | $0.000018 | **1.53x** ($+53) | 1.73x |  | pumpswap | 2026-03-20 00:31 |
+| 🟡 UGOR | $0.000018 | **1.19x** ($+19) | 1.73x |  | pumpswap | 2026-03-20 00:31 |
 | 🟡 DRONE | $0.000037 | **1.42x** ($+42) | 1.45x |  | pumpswap | 2026-03-19 23:45 |
 | 🔴 BBX | $0.000029 | **0.86x** ($-14) | 1.10x |  | pumpswap | 2026-03-19 23:22 |
 | 🟡 Downald | $0.000006 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:20 |
-| 🔴 BBX | $0.000483 | **0.92x** ($-8) | 1.40x |  | pumpswap | 2026-03-19 23:20 |
+| 🔴 BBX | $0.000483 | **0.78x** ($-22) | 1.40x |  | pumpswap | 2026-03-19 23:20 |
 
 ## Closed Positions
 

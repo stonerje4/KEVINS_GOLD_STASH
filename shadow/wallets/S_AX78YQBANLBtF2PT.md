@@ -1,28 +1,26 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (9 open, 13 closed) |
-| W/L | 1/12 (8%) |
-| 💵 Realized | $-573 |
-| 📦 Unrealized | $+37 |
-| 🏦 Total | **$-536** |
+| Positions | 22 (7 open, 15 closed) |
+| W/L | 1/14 (7%) |
+| 💵 Realized | $-686 |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-725** |
 | Best ROI | 1.48x |
-| Avg ROI | 0.56x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 GAAS | $0.000006 | **0.46x** ($-54) | 1.33x |  | pumpfun | 2026-03-20 08:50 |
-| 🟢 ZeroG | $0.000015 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 05:51 |
 | 🟡 TRADITION | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:10 |
 | 🔴 BitPenis | $0.000006 | **0.45x** ($-55) | 1.39x |  | pumpfun | 2026-03-20 04:59 |
-| 🟡 HelloWorld! | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🟡 ceal | $0.000031 | **1.17x** ($+17) | 1.17x |  | pumpfun | 2026-03-20 03:33 |
 | 🟡 Sentinel | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🔴 INR | $0.000006 | **0.41x** ($-59) | 1.93x |  | pumpfun | 2026-03-20 02:31 |
@@ -38,10 +36,12 @@
 | 🟡 awkward | 1.48x | $+48 | trailing_stop_4x | 4.18x | pumpfun | 2026-03-20 07:03 → 2026-03-20 07:52 |
 | 🔴 ME | 0.38x | $-62 | stop_loss | 1.82x | pumpfun | 2026-03-20 06:35 → 2026-03-20 06:47 |
 | 🔴 Yukon | 0.36x | $-64 | stop_loss | 1.21x | pumpfun | 2026-03-20 06:22 → 2026-03-20 06:24 |
+| 🔴 ZeroG | 0.68x | $-32 | trailing_stop_3x | 2.52x | pumpfun | 2026-03-20 05:51 → 2026-03-20 16:23 |
 | 🔴 CORPORATE | 0.80x | $-20 | trailing_stop_3x | 2.65x | pumpfun | 2026-03-20 05:47 → 2026-03-20 06:13 |
 | 🔴 nickel | 0.40x | $-60 | stop_loss | 1.39x | pumpfun | 2026-03-20 05:16 → 2026-03-20 05:42 |
 | 🟡 Gnd9Cmzo | 0.84x | $-16 | trailing_stop_2x | 2.20x | pumpfun | 2026-03-20 04:54 → 2026-03-20 04:56 |
 | 🔴 TADC | 0.30x | $-70 | stop_loss | 1.59x | pumpfun | 2026-03-20 04:34 → 2026-03-20 05:09 |
+| 🔴 HelloWorld! | 0.19x | $-81 | stop_loss | 1.00x | pumpfun | 2026-03-20 04:24 → 2026-03-20 16:49 |
 | 🟡 PISSCOIN | 0.84x | $-16 | trailing_stop_3x | 2.82x | pumpfun | 2026-03-20 01:37 → 2026-03-20 01:45 |
 | 🔴 Aiden | 0.40x | $-60 | stop_loss | 1.10x | pumpfun | 2026-03-20 00:39 → 2026-03-20 00:48 |
 | 🔴 BACK | 0.28x | $-72 | trailing_stop_4x | 3.76x | pumpfun | 2026-03-19 23:51 → 2026-03-20 07:58 |

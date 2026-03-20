@@ -1,6 +1,6 @@
 # Wallet: `J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU`
 
-> [GMGN](https://gmgn.ai/sol/address/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | [Solscan](https://solscan.io/account/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | [Solscan](https://solscan.io/account/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (1 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-182 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-182** |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$-177** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Hamster  | $0.000140 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
+| 🟡 Hamster  | $0.000140 | **1.05x** ($+5) | 1.07x |  | pumpswap | 2026-03-20 14:25 |
 
 ## Closed Positions
 

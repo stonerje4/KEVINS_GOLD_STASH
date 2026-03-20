@@ -1,6 +1,6 @@
 # Wallet: `jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw`
 
-> [GMGN](https://gmgn.ai/sol/address/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | [Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | [Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-15 |
-| 📦 Unrealized | $-48 |
-| 🏦 Total | **$-63** |
+| 📦 Unrealized | $-76 |
+| 🏦 Total | **$-91** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.85x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Capybara | $0.000038 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:38 |
 | 🔴 Obsessed | $0.000010 | **0.70x** ($-30) | 1.03x |  | pumpswap | 2026-03-20 00:34 |
-| 🔴 LIBERTY | $0.000039 | **0.93x** ($-7) | 1.27x |  | pumpswap | 2026-03-20 00:32 |
+| 🔴 LIBERTY | $0.000039 | **0.65x** ($-35) | 1.27x |  | pumpswap | 2026-03-20 00:32 |
 | 🔴 NETAINYAHU | $0.000057 | **1.00x** ($-0) | 1.16x |  | pumpswap | 2026-03-20 00:26 |
 
 ## Closed Positions

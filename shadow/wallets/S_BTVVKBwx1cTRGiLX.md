@@ -1,6 +1,6 @@
 # Wallet: `BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2`
 
-> [GMGN](https://gmgn.ai/sol/address/BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2) | [Solscan](https://solscan.io/account/BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2) | [Solscan](https://solscan.io/account/BTVVKBwx1cTRGiLXHReE6n2UGidAXmnDFiX4VC422PP2) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+45 |
-| 🏦 Total | **$-17** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$-42** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Downald | $0.000371 | **1.45x** ($+45) | 1.71x |  | pumpswap | 2026-03-20 09:42 |
+| 🟡 Downald | $0.000371 | **1.20x** ($+20) | 1.71x |  | pumpswap | 2026-03-20 09:42 |
 | 🟡 CHIBI | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
 
 ## Closed Positions

@@ -1,16 +1,16 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (11 open, 1 closed) |
+| Positions | 13 (12 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-95 |
-| 🏦 Total | **$-156** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-65** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Floki | $0.000016 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 16:07 |
-| 🔴 AlphA | $0.000012 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 15:54 |
+| 🟡 CHUCK | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:58 |
+| 🔴 Floki | $0.000016 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 16:07 |
+| 🔴 AlphA | $0.000012 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 15:54 |
 | 🔴 Optimislon | $0.000142 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🔴 Smoklon | $0.000007 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
 | 🟡 Chibi | $0.000008 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 02:37 |
@@ -27,7 +28,7 @@
 | 🔴 ELEPHANT | $0.000007 | **0.71x** ($-29) | 1.65x |  | pumpswap | 2026-03-19 23:59 |
 | 🔴 TRASHBAG | $0.000008 | **0.46x** ($-54) | 1.09x |  | pumpswap | 2026-03-19 23:40 |
 | 🔴 Lia | $0.000011 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
-| 🟢 CLAW3D | $0.000040 | **2.88x** ($+188) | 3.10x | ✅ | pumpswap | 2026-03-19 23:06 |
+| 🚀 CLAW3D | $0.000040 | **6.50x** ($+550) | 8.57x | ✅ | pumpswap | 2026-03-19 23:06 |
 | 🔴 IRAN | $0.000007 | **0.45x** ($-55) | 1.12x |  | pumpswap | 2026-03-19 22:48 |
 
 ## Closed Positions

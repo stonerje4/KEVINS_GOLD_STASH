@@ -1,30 +1,29 @@
 # Wallet: `DC99qH3jXiq5pPWQd6PjjJcCxTV593s58CLPxWGpEywt`
 
-> [GMGN](https://gmgn.ai/sol/address/DC99qH3jXiq5pPWQd6PjjJcCxTV593s58CLPxWGpEywt) | [Solscan](https://solscan.io/account/DC99qH3jXiq5pPWQd6PjjJcCxTV593s58CLPxWGpEywt) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/DC99qH3jXiq5pPWQd6PjjJcCxTV593s58CLPxWGpEywt) | [Solscan](https://solscan.io/account/DC99qH3jXiq5pPWQd6PjjJcCxTV593s58CLPxWGpEywt) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (0 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-127 |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-127** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.37x |
+| 🏦 Total | **$+0** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ME | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:03 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 9mKdPcth | 0.39x | $-61 | stop_loss | 1.71x | pumpfun | 2026-03-20 05:20 → 2026-03-20 05:20 |
-| 🔴 9mKdPcth | 0.34x | $-66 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:20 → 2026-03-20 05:20 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,6 +1,6 @@
 # Wallet: `AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq`
 
-> [GMGN](https://gmgn.ai/sol/address/AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq) | [Solscan](https://solscan.io/account/AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq) | [Solscan](https://solscan.io/account/AccVJGCog5YCJ6J64CvxkQNGADLHUvc4ZjqBU1z56coq) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $+19 |
+| 🏦 Total | **$-41** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LOL | $0.000289 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
+| 🟡 LOL | $0.000289 | **1.19x** ($+19) | 1.20x |  | pumpswap | 2026-03-20 02:27 |
 
 ## Closed Positions
 

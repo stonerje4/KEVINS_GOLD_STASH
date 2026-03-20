@@ -1,6 +1,6 @@
 # Wallet: `NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv`
 
-> [GMGN](https://gmgn.ai/sol/address/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | [Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | [Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (6 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $-79 |
-| 🏦 Total | **$-34** |
+| 📦 Unrealized | $-86 |
+| 🏦 Total | **$-42** |
 | Best ROI | 2.67x |
 | Avg ROI | 1.15x |
 
@@ -23,7 +23,7 @@
 | 🟡 DICKUS | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:00 |
 | 🔴 JACKPOT | $0.000080 | **0.86x** ($-14) | 1.08x |  | pumpswap | 2026-03-20 01:56 |
 | 🔴 DRIVE | $0.000034 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 01:22 |
-| 🔴 Chibify | $0.000044 | **0.87x** ($-13) | 1.73x |  | pumpswap | 2026-03-20 01:20 |
+| 🔴 Chibify | $0.000044 | **0.79x** ($-21) | 1.73x |  | pumpswap | 2026-03-20 01:20 |
 
 ## Closed Positions
 

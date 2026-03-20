@@ -1,6 +1,6 @@
 # Wallet: `Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv`
 
-> [GMGN](https://gmgn.ai/sol/address/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | [Solscan](https://solscan.io/account/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | [Solscan](https://solscan.io/account/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-36 |
-| 🏦 Total | **$-36** |
+| 📦 Unrealized | $+10 |
+| 🏦 Total | **$+10** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 tinfoil | $0.000049 | **0.97x** ($-3) | 1.21x |  | pumpswap | 2026-03-20 00:35 |
+| 🟡 tinfoil | $0.000049 | **1.52x** ($+52) | 1.60x |  | pumpswap | 2026-03-20 00:35 |
 | 🔴 XAI | $0.000011 | **0.96x** ($-4) | 1.01x |  | pumpswap | 2026-03-19 23:36 |
-| 🔴 xAI | $0.000025 | **0.71x** ($-29) | 1.00x |  | pumpfun | 2026-03-19 23:34 |
+| 🔴 xAI | $0.000025 | **0.62x** ($-38) | 1.00x |  | pumpfun | 2026-03-19 23:34 |
 
 ## Closed Positions
 

@@ -1,16 +1,16 @@
 # Wallet: `6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6`
 
-> [GMGN](https://gmgn.ai/sol/address/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | [Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | [Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (7 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-10 |
-| 🏦 Total | **$-10** |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$+15** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MERLIN | $0.000158 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
+| 🔴 Gascoin | $0.000037 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 17:16 |
+| 🔴 MERLIN | $0.000158 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 0 | $0.000106 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:16 |
 | 🟡 JupUSD | $0.182917 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:01 |
-| 🔴 YEPE | $0.000127 | **0.83x** ($-17) | 1.16x |  | pumpswap | 2026-03-20 12:05 |
-| 🟢 Optimistic | $0.000374 | **2.04x** ($+104) | 2.46x | ✅ | pumpswap | 2026-03-20 11:18 |
+| 🟡 YEPE | $0.000127 | **1.13x** ($+13) | 1.34x |  | pumpswap | 2026-03-20 12:05 |
+| 🟢 Optimistic | $0.000374 | **2.17x** ($+117) | 2.70x | ✅ | pumpswap | 2026-03-20 11:18 |
 | 🟡 LNCHR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:13 |
-| 🔴 effect | $0.000084 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
+| 🔴 effect | $0.000084 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
 
 ## Closed Positions
 

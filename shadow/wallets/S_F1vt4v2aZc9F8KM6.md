@@ -1,6 +1,6 @@
-# Wallet: `Da6s2A815tKadQ7gUSRPaUoyNP6qDjGJoEKD54fpx5Pc`
+# Wallet: `F1vt4v2aZc9F8KM6S7hjyVKuqQCngFJFjL23dkNdt8Cr`
 
-> [GMGN](https://gmgn.ai/sol/address/Da6s2A815tKadQ7gUSRPaUoyNP6qDjGJoEKD54fpx5Pc) | [Solscan](https://solscan.io/account/Da6s2A815tKadQ7gUSRPaUoyNP6qDjGJoEKD54fpx5Pc) | Updated: 2026-03-20 17:36 UTC
+> [GMGN](https://gmgn.ai/sol/address/F1vt4v2aZc9F8KM6S7hjyVKuqQCngFJFjL23dkNdt8Cr) | [Solscan](https://solscan.io/account/F1vt4v2aZc9F8KM6S7hjyVKuqQCngFJFjL23dkNdt8Cr) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-21 |
-| 🏦 Total | **$-21** |
+| 📦 Unrealized | $-10 |
+| 🏦 Total | **$-10** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 RETURN | $0.000015 | **0.79x** ($-21) | 1.17x |  | pumpswap | 2026-03-19 23:27 |
+| 🔴 NEURIX | $0.000243 | **0.90x** ($-10) | 1.10x |  | pumpswap | 2026-03-20 16:25 |
 
 ## Closed Positions
 

@@ -1,24 +1,23 @@
 # Wallet: `CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs`
 
-> [GMGN](https://gmgn.ai/sol/address/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | [Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | [Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (7 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-94 |
+| Positions | 10 (6 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-155 |
 | 📦 Unrealized | $+133 |
-| 🏦 Total | **$+39** |
+| 🏦 Total | **$-22** |
 | Best ROI | 0.84x |
-| Avg ROI | 0.69x |
+| Avg ROI | 0.61x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 HelloWorld! | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
 | 🟡 Jeremy | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:17 |
 | 🟢 credit | $0.000012 | **3.05x** ($+205) | 3.05x | ✅ | pumpfun | 2026-03-20 03:16 |
 | 🟡 Sentinel | $0.000006 | **1.19x** ($+19) | 1.42x |  | pumpfun | 2026-03-20 02:55 |
@@ -31,6 +30,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🟡 Imaginify | 0.84x | $-16 | trailing_stop_3x | 2.63x | pumpfun | 2026-03-20 05:05 → 2026-03-20 07:16 |
+| 🔴 HelloWorld! | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:26 → 2026-03-20 16:49 |
 | 🟡 Patience | 0.82x | $-18 | trailing_stop_3x | 2.52x | pumpfun | 2026-03-20 03:13 → 2026-03-20 03:25 |
 | 🔴 Surge | 0.40x | $-60 | stop_loss | 1.19x | pumpfun | 2026-03-20 02:13 → 2026-03-20 02:17 |
 

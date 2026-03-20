@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 26 (12 open, 14 closed) |
 | W/L | 0/14 (0%) |
 | 💵 Realized | $-960 |
-| 📦 Unrealized | $+23 |
-| 🏦 Total | **$-937** |
+| 📦 Unrealized | $+45 |
+| 🏦 Total | **$-915** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.31x |
 
@@ -18,18 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Rosei | $0.000014 | **0.89x** ($-11) | 1.10x |  | pumpswap | 2026-03-19 23:49 |
+| 🔴 Rosei | $0.000014 | **0.85x** ($-15) | 1.10x |  | pumpswap | 2026-03-19 23:49 |
 | 🟡 AINL | $0.000025 | **1.20x** ($+20) | 1.21x |  | pumpswap | 2026-03-19 23:43 |
-| 🟢 CHIBI | $0.000656 | **3.73x** ($+273) | 3.88x | ✅ | pumpswap | 2026-03-19 23:36 |
+| 🟢 CHIBI | $0.000656 | **3.43x** ($+243) | 3.88x | ✅ | pumpswap | 2026-03-19 23:36 |
 | 🔴 Garbonzo | $0.000009 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 CHIBIELON | $0.000005 | **1.50x** ($+50) | 1.78x |  | pumpswap | 2026-03-19 23:28 |
 | 🔴 CHOCOTINA | $0.000007 | **0.75x** ($-25) | 1.12x |  | pumpswap | 2026-03-19 23:16 |
 | 🟡 TMRW | $0.000008 | **1.25x** ($+25) | 1.30x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 AIFRUIT | $0.000022 | **0.95x** ($-5) | 1.40x |  | pumpswap | 2026-03-19 23:08 |
-| 🔴 tinfoil | $0.000061 | **0.78x** ($-22) | 1.09x |  | pumpswap | 2026-03-19 23:01 |
-| 🔴 Nigel | $0.000194 | **0.49x** ($-51) | 1.36x |  | pumpswap | 2026-03-19 22:52 |
+| 🟡 tinfoil | $0.000061 | **1.23x** ($+23) | 1.29x |  | pumpswap | 2026-03-19 23:01 |
+| 🔴 Nigel | $0.000194 | **0.57x** ($-43) | 1.36x |  | pumpswap | 2026-03-19 22:52 |
 | 🔴 NIGGA | $0.000014 | **0.63x** ($-37) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
-| 🟡 BBX | $0.000441 | **1.01x** ($+1) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
+| 🔴 BBX | $0.000441 | **0.86x** ($-14) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
 

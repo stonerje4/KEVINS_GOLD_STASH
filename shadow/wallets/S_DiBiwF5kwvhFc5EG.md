@@ -1,6 +1,6 @@
 # Wallet: `DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft`
 
-> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (4 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-197 |
-| 📦 Unrealized | $+106 |
-| 🏦 Total | **$-91** |
+| 📦 Unrealized | $+136 |
+| 🏦 Total | **$-60** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.34x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 GBN | $0.000019 | **0.95x** ($-5) | 1.69x |  | pumpswap | 2026-03-20 15:43 |
+| 🔴 GBN | $0.000019 | **0.48x** ($-52) | 1.69x |  | pumpswap | 2026-03-20 15:43 |
 | 🟢 DICKUS | $0.000014 | **2.64x** ($+164) | 2.64x | ✅ | pumpfun | 2026-03-20 00:50 |
-| 🟡 PIKE | $0.000035 | **1.04x** ($+4) | 1.21x |  | pumpswap | 2026-03-19 23:28 |
-| 🟡 OIIA | $0.000017 | **1.24x** ($+24) | 1.27x |  | pumpswap | 2026-03-19 23:26 |
+| 🟡 PIKE | $0.000035 | **1.26x** ($+26) | 1.26x |  | pumpswap | 2026-03-19 23:28 |
+| 🟡 OIIA | $0.000017 | **1.80x** ($+80) | 1.80x |  | pumpswap | 2026-03-19 23:26 |
 
 ## Closed Positions
 

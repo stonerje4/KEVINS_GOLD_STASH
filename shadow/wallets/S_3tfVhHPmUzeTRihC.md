@@ -1,29 +1,28 @@
 # Wallet: `3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ`
 
-> [GMGN](https://gmgn.ai/sol/address/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | [Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | [Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (7 open, 2 closed) |
-| W/L | 1/1 (50%) |
-| 💵 Realized | $-35 |
-| 📦 Unrealized | $-50 |
-| 🏦 Total | **$-84** |
+| Positions | 9 (6 open, 3 closed) |
+| W/L | 1/2 (33%) |
+| 💵 Realized | $-98 |
+| 📦 Unrealized | $+140 |
+| 🏦 Total | **$+42** |
 | Best ROI | 1.45x |
-| Avg ROI | 0.83x |
+| Avg ROI | 0.67x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
-| 🟡 8QhGyZEr | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:45 |
+| 🚀 8QhGyZEr | $0.000008 | **6.72x** ($+572) | 6.83x | ✅ | pumpfun | 2026-03-20 12:45 |
 | 🟡 genocide | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
-| 🔴 Chibify | $0.000076 | **0.50x** ($-50) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
+| 🔴 Chibify | $0.000076 | **0.46x** ($-54) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
-| 🟡 Freddie | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:31 |
 | 🟡 ANIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 
 ## Closed Positions
@@ -32,6 +31,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 DECEPTICONS | 0.20x | $-80 | stop_loss | 1.00x | pumpfun | 2026-03-20 11:38 → 2026-03-20 15:13 |
 | 🟡 Doolysaurus | 1.45x | $+45 | trailing_stop_3x | 3.13x | pumpfun | 2026-03-20 10:48 → 2026-03-20 11:08 |
+| 🔴 Freddie | 0.36x | $-64 | stop_loss | 1.00x | pumpfun | 2026-03-20 10:31 → 2026-03-20 16:51 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

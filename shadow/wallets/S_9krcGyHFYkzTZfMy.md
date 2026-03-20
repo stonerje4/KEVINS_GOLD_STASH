@@ -1,12 +1,12 @@
 # Wallet: `9krcGyHFYkzTZfMytF33qpaJkAgxRtQVSjXQN836TSLw`
 
-> [GMGN](https://gmgn.ai/sol/address/9krcGyHFYkzTZfMytF33qpaJkAgxRtQVSjXQN836TSLw) | [Solscan](https://solscan.io/account/9krcGyHFYkzTZfMytF33qpaJkAgxRtQVSjXQN836TSLw) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/9krcGyHFYkzTZfMytF33qpaJkAgxRtQVSjXQN836TSLw) | [Solscan](https://solscan.io/account/9krcGyHFYkzTZfMytF33qpaJkAgxRtQVSjXQN836TSLw) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
+| Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-73 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Pete | $0.000192 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:18 |
 | 🟡 NIGGA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:04 |
 
 ## Closed Positions

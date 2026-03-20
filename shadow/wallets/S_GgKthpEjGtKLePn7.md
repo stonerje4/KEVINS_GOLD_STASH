@@ -1,35 +1,38 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (7 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-15 |
-| 📦 Unrealized | $+98 |
-| 🏦 Total | **$+83** |
+| Positions | 11 (9 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-107 |
+| 📦 Unrealized | $+234 |
+| 🏦 Total | **$+127** |
 | Best ROI | 0.85x |
-| Avg ROI | 0.85x |
+| Avg ROI | 0.47x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 IShowSpeed | $0.000009 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 17:26 |
+| 🟡 unemployed | $0.000006 | **1.21x** ($+21) | 1.21x |  | pumpswap | 2026-03-20 17:23 |
+| 🟡 TGR | $0.000008 | **1.09x** ($+9) | 1.21x |  | pumpfun | 2026-03-20 16:14 |
 | 🟡 Monke | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
-| 🟡 Pixel | $0.000112 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:34 |
 | 🟡 OSP | $0.000020 | **1.27x** ($+27) | 1.39x |  | pumpfun | 2026-03-20 05:22 |
 | 🟡 Samba | $0.000006 | **1.77x** ($+77) | 2.07x | ✅ | pumpswap | 2026-03-20 05:14 |
 | 🟡 UOR | $0.000036 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 SHOENICE  | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
-| 🟡 WRT | $0.000007 | **1.54x** ($+54) | 2.49x | ✅ | pumpswap | 2026-03-20 00:59 |
+| 🟢 WRT | $0.000007 | **4.35x** ($+335) | 4.35x | ✅ | pumpswap | 2026-03-20 00:59 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Pixel | 0.08x | $-92 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:34 → 2026-03-20 16:38 |
 | 🟡 IShowSpeed | 0.85x | $-15 | trailing_stop_2x | 2.23x | pumpfun | 2026-03-20 02:02 → 2026-03-20 02:06 |
 
 ---

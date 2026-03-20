@@ -1,16 +1,16 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-65 |
-| 📦 Unrealized | $-65 |
-| 🏦 Total | **$-130** |
+| Positions | 7 (5 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-130 |
+| 📦 Unrealized | $-51 |
+| 🏦 Total | **$-181** |
 | Best ROI | 0.35x |
 | Avg ROI | 0.35x |
 
@@ -18,15 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 HORMUZ | $0.000209 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:23 |
+| 🔴 OBJECTS | $0.000200 | **0.86x** ($-14) | 1.05x |  | pumpswap | 2026-03-20 17:21 |
+| 🟡 Pixel | $0.000009 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 16:37 |
 | 🟡 Obsessed | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
-| 🔴 Fro | $0.000220 | **0.52x** ($-48) | 1.30x |  | pumpswap | 2026-03-20 01:41 |
-| 🔴 驚き | $0.000017 | **0.83x** ($-17) | 1.08x |  | pumpswap | 2026-03-20 01:13 |
+| 🔴 Fro | $0.000220 | **0.56x** ($-44) | 1.30x |  | pumpswap | 2026-03-20 01:41 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Grok | 0.35x | $-65 | stop_loss | 1.17x | pumpfun | 2026-03-20 05:23 → 2026-03-20 12:53 |
+| 🔴 驚き | 0.35x | $-65 | stop_loss | 1.08x | pumpswap | 2026-03-20 01:13 → 2026-03-20 16:21 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

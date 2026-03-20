@@ -1,6 +1,6 @@
 # Wallet: `Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w`
 
-> [GMGN](https://gmgn.ai/sol/address/Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w) | [Solscan](https://solscan.io/account/Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w) | [Solscan](https://solscan.io/account/Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-23 |
-| 🏦 Total | **$-23** |
+| 📦 Unrealized | $-41 |
+| 🏦 Total | **$-41** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 twump | $0.000011 | **0.77x** ($-23) | 1.00x |  | pumpfun | 2026-03-20 13:45 |
+| 🔴 twump | $0.000011 | **0.59x** ($-41) | 1.00x |  | pumpfun | 2026-03-20 13:45 |
 
 ## Closed Positions
 

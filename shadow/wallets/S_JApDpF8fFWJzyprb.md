@@ -1,6 +1,6 @@
 # Wallet: `JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd`
 
-> [GMGN](https://gmgn.ai/sol/address/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | [Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | [Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-66 |
-| 🏦 Total | **$-66** |
+| 📦 Unrealized | $-90 |
+| 🏦 Total | **$-90** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pixels | $0.000033 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-20 08:20 |
-| 🔴 Dryer | $0.000032 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 04:25 |
-| 🔴 Optimistic | $0.000813 | **0.94x** ($-6) | 1.13x |  | pumpswap | 2026-03-20 03:40 |
+| 🔴 Pixels | $0.000033 | **0.55x** ($-45) | 1.15x |  | pumpswap | 2026-03-20 08:20 |
+| 🔴 Dryer | $0.000032 | **0.92x** ($-8) | 1.27x |  | pumpswap | 2026-03-20 04:25 |
+| 🔴 Optimistic | $0.000813 | **1.00x** ($-0) | 1.24x |  | pumpswap | 2026-03-20 03:40 |
 | 🟡 SHOENICE  | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🟡 PETE | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:28 |
 | 🔴 Pete | $0.000008 | **0.63x** ($-37) | 1.00x |  | pumpfun | 2026-03-19 23:44 |

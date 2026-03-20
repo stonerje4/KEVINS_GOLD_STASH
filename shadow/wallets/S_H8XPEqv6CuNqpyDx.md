@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 79 (54 open, 25 closed) |
-| W/L | 2/23 (8%) |
-| 💵 Realized | $-1,233 |
-| 📦 Unrealized | $-219 |
-| 🏦 Total | **$-1,452** |
+| Positions | 79 (52 open, 27 closed) |
+| W/L | 2/25 (7%) |
+| 💵 Realized | $-1,312 |
+| 📦 Unrealized | $-349 |
+| 🏦 Total | **$-1,662** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.51x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 RULEBOOK | $0.000056 | **1.23x** ($+23) | 1.39x |  | pumpswap | 2026-03-20 12:57 |
-| 🟡 SNIFFER | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:54 |
+| 🟢 SNIFFER | $0.000027 | **2.03x** ($+103) | 2.06x | ✅ | pumpfun | 2026-03-20 12:54 |
 | 🟡 됴지님 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:53 |
 | 🟡 9FuC9Jor | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:42 |
 | 🟡 DMT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:40 |
@@ -47,7 +47,7 @@
 | 🟡 INCOME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 kawaifiy | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 Effect | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:58 |
-| 🟢 effect | $0.000020 | **2.38x** ($+138) | 3.60x | ✅ | pumpfun | 2026-03-20 09:54 |
+| 🟢 effect | $0.000020 | **2.49x** ($+149) | 3.60x | ✅ | pumpfun | 2026-03-20 09:54 |
 | 🟡 Tutu | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:48 |
 | 🟡 omochi | $0.000022 | **1.64x** ($+64) | 1.64x |  | pumpfun | 2026-03-20 09:19 |
 | 🔴 Income | $0.000006 | **0.45x** ($-55) | 1.91x |  | pumpfun | 2026-03-20 09:04 |
@@ -56,15 +56,13 @@
 | 🔴 Grok | $0.000005 | **0.47x** ($-53) | 1.19x |  | pumpfun | 2026-03-20 08:54 |
 | 🔴 OM | $0.000012 | **0.76x** ($-24) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000005 | **0.46x** ($-54) | 1.69x |  | pumpfun | 2026-03-20 08:12 |
-| 🟡 Pixels | $0.000024 | **1.58x** ($+58) | 1.58x |  | pumpfun | 2026-03-20 06:53 |
+| 🔴 Pixels | $0.000024 | **0.76x** ($-24) | 1.58x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 GETCLAW | $0.000006 | **0.43x** ($-57) | 1.25x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 BOAR | $0.000012 | **0.54x** ($-46) | 1.04x |  | pumpswap | 2026-03-20 06:42 |
 | 🔴 2u4WY5Ui | $0.000006 | **0.48x** ($-52) | 1.91x |  | pumpfun | 2026-03-20 06:41 |
 | 🔴 Hawk | $0.000005 | **0.46x** ($-54) | 1.20x |  | pumpfun | 2026-03-20 06:26 |
 | 🔴 7MDPtxq1 | $0.000005 | **0.46x** ($-54) | 1.19x |  | pumpfun | 2026-03-20 06:00 |
-| 🟢 DBT5vdmZ | $0.000010 | **3.59x** ($+259) | 3.59x | ✅ | pumpfun | 2026-03-20 05:51 |
-| 🟡 94S763Nm | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🟢 Jeremy | $0.000008 | **4.78x** ($+378) | 4.78x | ✅ | pumpfun | 2026-03-20 03:51 |
 | 🔴 HHxWiMez | $0.000005 | **0.46x** ($-54) | 1.27x |  | pumpfun | 2026-03-20 03:49 |
 | 🔴 59DQqRKs | $0.000005 | **0.46x** ($-54) | 1.06x |  | pumpfun | 2026-03-20 03:38 |
@@ -89,12 +87,14 @@
 | 🔴 DOOMERCYCLE | 0.38x | $-62 | stop_loss | 1.66x | pumpfun | 2026-03-20 06:33 → 2026-03-20 07:37 |
 | 🟡 AVATAR | 1.49x | $+49 | trailing_stop_3x | 3.03x | pumpswap | 2026-03-20 06:20 → 2026-03-20 06:41 |
 | 🔴 startpup | 0.38x | $-62 | stop_loss | 1.27x | pumpfun | 2026-03-20 06:01 → 2026-03-20 06:20 |
+| 🟡 DBT5vdmZ | 0.97x | $-3 | trailing_stop_4x | 3.59x | pumpfun | 2026-03-20 05:51 → 2026-03-20 16:23 |
 | 🔴 Hoverboard | 0.37x | $-63 | stop_loss | 1.40x | pumpfun | 2026-03-20 05:33 → 2026-03-20 05:39 |
 | 🔴 Bcx1k6h8 | 0.40x | $-60 | stop_loss | 1.15x | pumpfun | 2026-03-20 05:15 → 2026-03-20 05:16 |
 | 🔴 MEMEFRONT | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:13 |
 | 🔴 Sublime | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:04 → 2026-03-20 05:05 |
 | 🟡 CORPORATE | 0.84x | $-16 | trailing_stop_3x | 2.77x | pumpfun | 2026-03-20 04:43 → 2026-03-20 04:58 |
 | 🔴 Civil Claude | 0.78x | $-22 | trailing_stop_2x | 2.09x | pumpfun | 2026-03-20 04:42 → 2026-03-20 04:55 |
+| 🔴 94S763Nm | 0.23x | $-77 | stop_loss | 1.00x | pumpfun | 2026-03-20 04:24 → 2026-03-20 16:49 |
 | 🔴 SMCI | 0.40x | $-60 | stop_loss | 1.30x | pumpfun | 2026-03-20 04:23 → 2026-03-20 04:25 |
 | 🔴 hamood | 0.38x | $-62 | stop_loss | 1.35x | pumpfun | 2026-03-20 04:11 → 2026-03-20 04:12 |
 | 🔴 CUTIS | 0.38x | $-62 | stop_loss | 1.37x | pumpfun | 2026-03-20 04:10 → 2026-03-20 04:26 |

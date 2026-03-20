@@ -1,6 +1,6 @@
 # Wallet: `4b3RtDTjmT5haKwLtDX4Ebee5KE5Let7WUetEFDXPGFu`
 
-> [GMGN](https://gmgn.ai/sol/address/4b3RtDTjmT5haKwLtDX4Ebee5KE5Let7WUetEFDXPGFu) | [Solscan](https://solscan.io/account/4b3RtDTjmT5haKwLtDX4Ebee5KE5Let7WUetEFDXPGFu) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/4b3RtDTjmT5haKwLtDX4Ebee5KE5Let7WUetEFDXPGFu) | [Solscan](https://solscan.io/account/4b3RtDTjmT5haKwLtDX4Ebee5KE5Let7WUetEFDXPGFu) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-33 |
-| 🏦 Total | **$-94** |
+| 📦 Unrealized | $+51 |
+| 🏦 Total | **$-10** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CLAW3D | $0.000174 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 14:26 |
+| 🟡 CLAW3D | $0.000174 | **1.51x** ($+51) | 1.99x |  | pumpswap | 2026-03-20 14:26 |
 
 ## Closed Positions
 

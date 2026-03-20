@@ -1,36 +1,37 @@
 # Wallet: `DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3`
 
-> [GMGN](https://gmgn.ai/sol/address/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | [Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | [Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (7 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-60 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-94** |
+| Positions | 9 (6 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-186 |
+| 📦 Unrealized | $+10 |
+| 🏦 Total | **$-176** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 MOSHI | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
-| 🟢 Chuck | $0.000099 | **2.46x** ($+146) | 4.86x | ✅ | pumpswap | 2026-03-20 13:54 |
-| 🟡 PHM | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
+| 🟢 Chuck | $0.000099 | **2.84x** ($+184) | 4.86x | ✅ | pumpswap | 2026-03-20 13:54 |
+| 🟡 PHM | $0.000007 | **1.33x** ($+33) | 1.33x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
-| 🔴 驚き | $0.000017 | **0.83x** ($-17) | 1.39x |  | pumpswap | 2026-03-20 00:20 |
-| 🔴 Taylor | $0.000015 | **0.68x** ($-32) | 1.01x |  | pumpswap | 2026-03-20 00:19 |
+| 🔴 Taylor | $0.000015 | **0.46x** ($-54) | 1.01x |  | pumpswap | 2026-03-20 00:19 |
 | 🔴 TRASHBAG | $0.000007 | **0.57x** ($-43) | 1.34x |  | pumpswap | 2026-03-19 23:39 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Chonk | 0.40x | $-60 | stop_loss | 1.28x | pumpfun | 2026-03-20 17:13 → 2026-03-20 17:27 |
 | 🔴 GRACE | 0.40x | $-60 | stop_loss | 1.31x | pumpfun | 2026-03-20 13:53 → 2026-03-20 14:23 |
+| 🔴 驚き | 0.35x | $-65 | stop_loss | 1.39x | pumpswap | 2026-03-20 00:20 → 2026-03-20 16:21 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,16 +1,16 @@
 # Wallet: `45j4enZdhwDK931HULiv4gGM7H39fb4wHa6CbWTDE8CP`
 
-> [GMGN](https://gmgn.ai/sol/address/45j4enZdhwDK931HULiv4gGM7H39fb4wHa6CbWTDE8CP) | [Solscan](https://solscan.io/account/45j4enZdhwDK931HULiv4gGM7H39fb4wHa6CbWTDE8CP) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/45j4enZdhwDK931HULiv4gGM7H39fb4wHa6CbWTDE8CP) | [Solscan](https://solscan.io/account/45j4enZdhwDK931HULiv4gGM7H39fb4wHa6CbWTDE8CP) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (1 open, 3 closed) |
+| Positions | 5 (2 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-135 |
-| 📦 Unrealized | $-21 |
-| 🏦 Total | **$-156** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-139** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.55x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TeraFab | $0.000093 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 14:01 |
+| 🟡 Lana | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:19 |
+| 🔴 TeraFab | $0.000093 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 14:01 |
 
 ## Closed Positions
 

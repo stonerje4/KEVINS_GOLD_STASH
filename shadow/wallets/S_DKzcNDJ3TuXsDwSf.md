@@ -1,16 +1,16 @@
 # Wallet: `DKzcNDJ3TuXsDwSfruX5GYRxNkmWXLkAcXGhTApLi26L`
 
-> [GMGN](https://gmgn.ai/sol/address/DKzcNDJ3TuXsDwSfruX5GYRxNkmWXLkAcXGhTApLi26L) | [Solscan](https://solscan.io/account/DKzcNDJ3TuXsDwSfruX5GYRxNkmWXLkAcXGhTApLi26L) | Updated: 2026-03-20 16:11 UTC
+> [GMGN](https://gmgn.ai/sol/address/DKzcNDJ3TuXsDwSfruX5GYRxNkmWXLkAcXGhTApLi26L) | [Solscan](https://solscan.io/account/DKzcNDJ3TuXsDwSfruX5GYRxNkmWXLkAcXGhTApLi26L) | Updated: 2026-03-20 17:36 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $-1 |
+| 🏦 Total | **$-1** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 testicle | $0.007428 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 16:11 |
 | 🟡 JLP | $3.830955 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:38 |
 
 ## Closed Positions
