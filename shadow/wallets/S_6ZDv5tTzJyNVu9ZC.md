@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 21:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 21:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 132 (128 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+56 |
-| 📦 Unrealized | $-296 |
-| 🏦 Total | **$-240** |
+| 📦 Unrealized | $-298 |
+| 🏦 Total | **$-242** |
 | Best ROI | 2.95x |
 | Avg ROI | 1.14x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 FitGirl | $0.000019 | **1.00x** ($+0) | 1.03x |  | pumpswap | 2026-03-20 20:55 |
-| 🟡 Noorung | $0.000021 | **1.06x** ($+6) | 1.14x |  | pumpswap | 2026-03-20 20:55 |
-| 🔴 Alien | $0.000019 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 20:33 |
+| 🟡 FitGirl | $0.000019 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 20:55 |
+| 🟡 Noorung | $0.000021 | **1.02x** ($+2) | 1.14x |  | pumpswap | 2026-03-20 20:55 |
+| 🔴 Alien | $0.000019 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 20:33 |
 | 🟡 ODDS | $0.000019 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 20:22 |
-| 🔴 Massive | $0.000027 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 20:12 |
+| 🔴 Massive | $0.000027 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 20:12 |
 | 🔴 BCKR | $0.000025 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 20:04 |
 | 🟡 CRANK | $0.000017 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 19:14 |
 | 🔴 GOYBEAM | $0.000008 | **1.00x** ($-0) | 1.06x |  | pumpswap | 2026-03-20 18:57 |
@@ -36,7 +36,7 @@
 | 🔴 INCOG | $0.000013 | **0.97x** ($-3) | 1.04x |  | pumpswap | 2026-03-20 17:05 |
 | 🔴 Sybil  | $0.000025 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
 | 🟡 TUNE | $0.000014 | **1.01x** ($+1) | 1.08x |  | pumpswap | 2026-03-20 16:49 |
-| 🔴 chibify | $0.000008 | **0.86x** ($-14) | 1.05x |  | pumpswap | 2026-03-20 16:18 |
+| 🔴 chibify | $0.000008 | **0.95x** ($-5) | 1.05x |  | pumpswap | 2026-03-20 16:18 |
 | 🟡 NORMIE | $0.000020 | **1.36x** ($+36) | 1.36x |  | pumpswap | 2026-03-20 16:06 |
 | 🔴 Rosei | $0.000013 | **0.94x** ($-6) | 1.05x |  | pumpswap | 2026-03-20 16:02 |
 | 🔴 Wob | $0.000017 | **0.92x** ($-8) | 1.01x |  | pumpswap | 2026-03-20 15:59 |
@@ -78,7 +78,7 @@
 | 🟡 Hamster | $0.000028 | **1.23x** ($+23) | 1.24x |  | pumpswap | 2026-03-20 08:42 |
 | 🔴 Achieve | $0.000020 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 08:18 |
 | 🟡 AIKO | $0.000008 | **1.08x** ($+8) | 1.22x |  | pumpswap | 2026-03-20 08:08 |
-| 🟡 chud | $0.000015 | **1.36x** ($+36) | 2.34x | ✅ | pumpswap | 2026-03-20 08:01 |
+| 🟡 chud | $0.000015 | **1.46x** ($+46) | 2.34x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🟡 OPTIMUS | $0.000015 | **1.21x** ($+21) | 1.27x |  | pumpswap | 2026-03-20 07:53 |
 | 🟡 AIFRUIT | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
 | 🟡 CLAW | $0.000027 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-20 07:44 |
@@ -145,7 +145,7 @@
 | 🟡 Geeked | $0.000021 | **1.07x** ($+7) | 1.30x |  | pumpswap | 2026-03-19 22:57 |
 | 🟡 DEEPSEEKV4 | $0.000039 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 AMBER | $0.000014 | **1.00x** ($-0) | 1.05x |  | pumpswap | 2026-03-19 22:52 |
-| 🔴 DLSS5 | $0.000026 | **0.68x** ($-32) | 1.09x |  | pumpswap | 2026-03-19 22:52 |
+| 🔴 DLSS5 | $0.000026 | **0.60x** ($-40) | 1.09x |  | pumpswap | 2026-03-19 22:52 |
 
 ## Closed Positions
 
