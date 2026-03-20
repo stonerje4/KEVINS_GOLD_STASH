@@ -1,16 +1,16 @@
 # Wallet: `H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH`
 
-> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-200 |
+| Positions | 6 (6 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+42 |
-| 🏦 Total | **$-158** |
+| 🏦 Total | **$+42** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -29,8 +29,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 $Tater | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:06 → 2026-03-20 15:42 |
-| 🔴 FNXT | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:03 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

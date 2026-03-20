@@ -1,18 +1,18 @@
 # Wallet: `E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`
 
-> [GMGN](https://gmgn.ai/sol/address/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | [Solscan](https://solscan.io/account/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | [Solscan](https://solscan.io/account/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-160 |
+| Positions | 4 (3 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
 | 📦 Unrealized | $-100 |
-| 🏦 Total | **$-261** |
+| 🏦 Total | **$-161** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.20x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
@@ -26,7 +26,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Doomer | 0.00x | $-100 | phantom_dust_entry | 1.11x | pumpswap | 2026-03-20 06:33 → 2026-03-20 15:42 |
 | 🔴 Patricia | 0.40x | $-60 | stop_loss | 1.15x | pumpswap | 2026-03-20 02:24 → 2026-03-20 02:38 |
 
 ---

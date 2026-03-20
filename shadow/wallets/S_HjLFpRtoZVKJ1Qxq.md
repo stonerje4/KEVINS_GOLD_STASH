@@ -1,23 +1,26 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 143 (139 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-337 |
-| 📦 Unrealized | $-225 |
-| 🏦 Total | **$-562** |
+| Positions | 144 (142 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-137 |
+| 📦 Unrealized | $-230 |
+| 🏦 Total | **$-367** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.16x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 QLENS | $0.000046 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 15:48 |
+| 🔴 Jellybean | $0.000667 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 15:47 |
+| 🔴 LAYOFF | $0.000179 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 15:44 |
 | 🟡 CORP | $0.000117 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 15:22 |
 | 🟡 Moe | $0.000068 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 15:16 |
 | 🟡 plumber | $0.000043 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-20 15:15 |
@@ -42,7 +45,7 @@
 | 🟡 JACKPOT | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟡 Chud | $0.000661 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:42 |
 | 🔴 LUNAR | $0.000035 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
-| 🟡 MINDLESS | $0.000174 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:39 |
+| 🔴 MINDLESS | $0.000174 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 13:39 |
 | 🟡 house | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
 | 🟡 TFW | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:35 |
@@ -164,8 +167,6 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Gizmo | 0.40x | $-60 | stop_loss | 1.04x | pumpswap | 2026-03-20 04:29 → 2026-03-20 08:22 |
 | 🔴 CEO | 0.23x | $-77 | stop_loss | 1.02x | pumpswap | 2026-03-19 23:50 → 2026-03-20 01:13 |
-| 🔴 ACV | 0.00x | $-100 | phantom_dust_entry | 1.02x | pumpswap | 2026-03-19 23:44 → 2026-03-20 15:42 |
-| 🔴 wid | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-19 23:33 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,16 +1,16 @@
 # Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
 
-> [GMGN](https://gmgn.ai/sol/address/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | [Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | [Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (8 open, 12 closed) |
-| W/L | 0/12 (0%) |
-| 💵 Realized | $-1,200 |
+| Positions | 8 (8 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+40 |
-| 🏦 Total | **$-1,160** |
+| 🏦 Total | **$+40** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -31,18 +31,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 BBX | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:00 → 2026-03-20 15:42 |
-| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 3.49x | pumpfun | 2026-03-20 09:34 → 2026-03-20 15:42 |
-| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.11x | pumpfun | 2026-03-20 07:52 → 2026-03-20 15:42 |
-| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 07:13 → 2026-03-20 15:42 |
-| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.12x | pumpfun | 2026-03-20 06:52 → 2026-03-20 15:42 |
-| 🔴 68MATKdQ | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 05:59 → 2026-03-20 15:42 |
-| 🔴 BBX | 0.00x | $-100 | phantom_dust_entry | 1.11x | pumpfun | 2026-03-20 04:40 → 2026-03-20 15:42 |
-| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 04:25 → 2026-03-20 15:42 |
-| 🔴 MSBT | 0.00x | $-100 | phantom_dust_entry | 1.92x | pumpfun | 2026-03-20 04:24 → 2026-03-20 15:42 |
-| 🔴 ROS | 0.00x | $-100 | phantom_dust_entry | 1.69x | pumpfun | 2026-03-20 04:20 → 2026-03-20 15:42 |
-| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 1.18x | pumpfun | 2026-03-20 03:45 → 2026-03-20 15:42 |
-| 🔴 USOS | 0.00x | $-100 | phantom_dust_entry | 1.02x | pumpfun | 2026-03-20 03:35 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

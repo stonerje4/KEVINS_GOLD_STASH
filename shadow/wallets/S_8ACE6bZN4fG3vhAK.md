@@ -1,6 +1,6 @@
 # Wallet: `8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f`
 
-> [GMGN](https://gmgn.ai/sol/address/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | [Solscan](https://solscan.io/account/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | [Solscan](https://solscan.io/account/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-86 |
-| 🏦 Total | **$-146** |
+| 📦 Unrealized | $-114 |
+| 🏦 Total | **$-174** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000336 | **0.95x** ($-5) | 1.14x |  | pumpswap | 2026-03-20 15:20 |
+| 🔴 Chuck | $0.000336 | **0.67x** ($-33) | 1.14x |  | pumpswap | 2026-03-20 15:20 |
 | 🟡 YOU | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:45 |
 | 🔴 Pixels | $0.000059 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 06:56 |
 | 🟡 Dryer | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:39 |

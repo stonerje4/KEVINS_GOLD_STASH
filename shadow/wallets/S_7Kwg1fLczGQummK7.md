@@ -1,18 +1,18 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (9 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-361 |
+| Positions | 10 (9 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-61 |
 | 📦 Unrealized | $-45 |
-| 🏦 Total | **$-406** |
+| 🏦 Total | **$-106** |
 | Best ROI | 0.39x |
-| Avg ROI | 0.10x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
@@ -32,10 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 MILK | 0.00x | $-100 | phantom_dust_entry | 1.00x | cpmm | 2026-03-20 15:17 → 2026-03-20 15:42 |
 | 🔴 Floki | 0.39x | $-61 | stop_loss | 1.08x | pumpswap | 2026-03-20 04:52 → 2026-03-20 06:33 |
-| 🔴 XCEO | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 03:20 → 2026-03-20 15:42 |
-| 🔴 Roast | 0.00x | $-100 | phantom_dust_entry | 1.91x | pumpswap | 2026-03-20 00:04 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

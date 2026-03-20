@@ -1,18 +1,18 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 23 (15 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-760 |
+| Positions | 17 (15 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-160 |
 | 📦 Unrealized | $+38 |
-| 🏦 Total | **$-723** |
+| 🏦 Total | **$-123** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.05x |
+| Avg ROI | 0.20x |
 
 ## Open Positions
 
@@ -38,12 +38,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Reach | 0.00x | $-100 | phantom_dust_entry | 1.09x | pumpswap | 2026-03-20 14:47 → 2026-03-20 15:42 |
-| 🔴 Solmaxxing | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 09:49 → 2026-03-20 15:42 |
-| 🔴 HODL | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 09:02 → 2026-03-20 15:42 |
-| 🔴 YZY | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 05:22 → 2026-03-20 15:42 |
-| 🔴 IMAGINE | 0.00x | $-100 | phantom_dust_entry | 1.02x | pumpswap | 2026-03-20 04:27 → 2026-03-20 15:42 |
-| 🔴 GMESHIRE | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 03:46 → 2026-03-20 15:42 |
 | 🔴 BBBY | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 03:36 → 2026-03-20 04:03 |
 | 🔴 Gizmo | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:19 → 2026-03-20 06:39 |
 

@@ -1,16 +1,16 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 35 (23 open, 12 closed) |
+| Positions | 36 (24 open, 12 closed) |
 | W/L | 1/11 (8%) |
 | 💵 Realized | $-462 |
-| 📦 Unrealized | $+788 |
-| 🏦 Total | **$+326** |
+| 📦 Unrealized | $+848 |
+| 🏦 Total | **$+386** |
 | Best ROI | 1.47x |
 | Avg ROI | 0.62x |
 
@@ -18,11 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LEGO | $0.000005 | **1.19x** ($+19) | 2.05x | ✅ | pumpfun | 2026-03-20 15:46 |
 | 🟡 HORMUZ | $0.000097 | **1.14x** ($+14) | 1.25x |  | pumpswap | 2026-03-20 15:15 |
 | 🔴 T.E.A.M. | $0.000007 | **0.42x** ($-58) | 1.45x |  | pumpfun | 2026-03-20 15:01 |
 | 🟡 NunChucks | $0.000018 | **1.69x** ($+69) | 2.03x | ✅ | pumpfun | 2026-03-20 14:28 |
-| 🚀 Chuck | $0.000062 | **9.29x** ($+829) | 12.16x | ✅ | pumpswap | 2026-03-20 14:17 |
-| 🔴 Chuck | $0.000328 | **0.97x** ($-3) | 1.47x |  | pumpswap | 2026-03-20 13:56 |
+| 🚀 Chuck | $0.000062 | **12.19x** ($+1,119) | 13.36x | ✅ | pumpswap | 2026-03-20 14:17 |
+| 🔴 Chuck | $0.000328 | **0.68x** ($-32) | 1.47x |  | pumpswap | 2026-03-20 13:56 |
 | 🟡 clod | $0.000022 | **1.69x** ($+69) | 1.84x |  | pumpswap | 2026-03-20 12:17 |
 | 🟢 Doolysaurus | $0.000038 | **2.68x** ($+168) | 3.16x | ✅ | pumpswap | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |

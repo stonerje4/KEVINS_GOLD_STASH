@@ -1,16 +1,16 @@
 # Wallet: `9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf`
 
-> [GMGN](https://gmgn.ai/sol/address/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | [Solscan](https://solscan.io/account/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | [Solscan](https://solscan.io/account/9MtWVfyxv6n3zcWrVag4d3UwPKpWkz3g3AtGbGKsiNf) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (1 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-200 |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+49 |
-| 🏦 Total | **$-151** |
+| 🏦 Total | **$+49** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -24,8 +24,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Kin-kun | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:26 → 2026-03-20 15:42 |
-| 🔴 Kin-kun | 0.00x | $-100 | phantom_dust_entry | 1.01x | pumpfun | 2026-03-20 09:55 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

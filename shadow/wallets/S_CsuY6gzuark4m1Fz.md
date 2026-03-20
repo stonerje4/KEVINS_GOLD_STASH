@@ -1,18 +1,18 @@
 # Wallet: `CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs`
 
-> [GMGN](https://gmgn.ai/sol/address/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | [Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | [Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (7 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-194 |
+| Positions | 10 (7 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-94 |
 | 📦 Unrealized | $+133 |
-| 🏦 Total | **$-61** |
+| 🏦 Total | **$+39** |
 | Best ROI | 0.84x |
-| Avg ROI | 0.52x |
+| Avg ROI | 0.69x |
 
 ## Open Positions
 
@@ -33,7 +33,6 @@
 | 🟡 Imaginify | 0.84x | $-16 | trailing_stop_3x | 2.63x | pumpfun | 2026-03-20 05:05 → 2026-03-20 07:16 |
 | 🟡 Patience | 0.82x | $-18 | trailing_stop_3x | 2.52x | pumpfun | 2026-03-20 03:13 → 2026-03-20 03:25 |
 | 🔴 Surge | 0.40x | $-60 | stop_loss | 1.19x | pumpfun | 2026-03-20 02:13 → 2026-03-20 02:17 |
-| 🔴 Templates | 0.00x | $-100 | phantom_dust_entry | 1.73x | pumpfun | 2026-03-20 00:41 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

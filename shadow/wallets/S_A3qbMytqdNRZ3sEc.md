@@ -1,30 +1,30 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 79 (65 open, 14 closed) |
-| W/L | 2/12 (14%) |
-| 💵 Realized | $-909 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$-905** |
+| Positions | 72 (65 open, 7 closed) |
+| W/L | 2/5 (29%) |
+| 💵 Realized | $-209 |
+| 📦 Unrealized | $-62 |
+| 🏦 Total | **$-271** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.35x |
+| Avg ROI | 0.70x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LAYOFF | $0.000155 | **1.10x** ($+10) | 1.11x |  | pumpswap | 2026-03-20 15:16 |
+| 🟡 LAYOFF | $0.000155 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 15:16 |
 | 🟡 YEPE | $0.000101 | **1.04x** ($+4) | 1.13x |  | pumpswap | 2026-03-20 15:11 |
 | 🟡 clod | $0.000024 | **1.49x** ($+49) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
-| 🔴 Chuck | $0.000485 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
-| 🟡 Chuck | $0.000346 | **1.65x** ($+65) | 2.16x | ✅ | pumpswap | 2026-03-20 14:53 |
+| 🔴 Chuck | $0.000485 | **0.46x** ($-54) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
+| 🟢 Chuck | $0.000346 | **2.17x** ($+117) | 2.38x | ✅ | pumpswap | 2026-03-20 14:53 |
 | 🟡 Nigel | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:19 |
-| 🟡 effect | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:08 |
+| 🔴 effect | $0.000070 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 14:08 |
 | 🔴 Simulation | $0.000022 | **0.91x** ($-9) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
 | 🔴 Doolysaurus | $0.000118 | **0.87x** ($-13) | 1.02x |  | pumpswap | 2026-03-20 14:00 |
 | 🔴 CHANNELS | $0.000024 | **0.84x** ($-16) | 1.07x |  | pumpswap | 2026-03-20 13:59 |
@@ -32,8 +32,8 @@
 | 🟡 Alien | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 AVATAR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
 | 🟡 BBX | $0.000113 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 13:03 |
-| 🟡 fine999.9 | $0.001813 | **1.08x** ($+8) | 1.58x |  | pumpswap | 2026-03-20 12:59 |
-| 🟡 Spiderman | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:51 |
+| 🔴 fine999.9 | $0.001813 | **0.91x** ($-9) | 1.58x |  | pumpswap | 2026-03-20 12:59 |
+| 🟡 Spiderman | $0.000087 | **1.25x** ($+25) | 1.30x |  | pumpswap | 2026-03-20 12:51 |
 | 🟡 AIFRUIT | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:37 |
 | 🟡 LOL | $0.000352 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 Saleh | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
@@ -46,7 +46,7 @@
 | 🟡 Dickus | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
 | 🟡 ARIA | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:04 |
 | 🔴 Pixels | $0.000070 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
-| 🟢 IMAGINE | $0.000036 | **2.64x** ($+164) | 2.73x | ✅ | pumpswap | 2026-03-20 08:55 |
+| 🟡 IMAGINE | $0.000036 | **1.73x** ($+73) | 2.73x | ✅ | pumpswap | 2026-03-20 08:55 |
 | 🟡 驚き | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:44 |
 | 🔴 Antigravity | $0.000008 | **0.59x** ($-41) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 CHIBI | $0.001779 | **1.29x** ($+29) | 1.39x |  | pumpswap | 2026-03-20 08:21 |
@@ -56,7 +56,7 @@
 | 🟡 Futa-kun | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
 | 🟡 IMAGINE | $0.000115 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:17 |
 | 🟡 OIIA | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
-| 🔴 Pete | $0.000116 | **0.61x** ($-39) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
+| 🔴 Pete | $0.000116 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 IShowSpeed | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:52 |
 | 🟡 Luxury | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:50 |
 | 🟡 DLORP | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:28 |
@@ -88,20 +88,13 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Freebuff | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 13:43 → 2026-03-20 15:42 |
-| 🔴 DAU | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 11:59 → 2026-03-20 15:42 |
 | 🟡 fine999.9 | 1.49x | $+49 | trailing_stop_3x | 3.37x | pumpswap | 2026-03-20 11:48 → 2026-03-20 12:40 |
-| 🔴 ceal | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 11:44 → 2026-03-20 15:42 |
-| 🔴 DOMES | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 06:28 → 2026-03-20 15:42 |
 | 🔴 HUGH | 0.40x | $-60 | stop_loss | 1.33x | pumpswap | 2026-03-20 06:17 → 2026-03-20 08:24 |
-| 🔴 GPD | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 05:16 → 2026-03-20 15:42 |
 | 🔴 Floki | 0.39x | $-61 | stop_loss | 1.13x | pumpswap | 2026-03-20 04:19 → 2026-03-20 04:27 |
 | 🔴 Solana | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 03:42 → 2026-03-20 15:07 |
-| 🔴 Beecat | 0.00x | $-100 | phantom_dust_entry | 1.05x | pumpswap | 2026-03-20 02:44 → 2026-03-20 15:42 |
 | 🔴 Dickus | 0.40x | $-60 | stop_loss | 1.12x | pumpswap | 2026-03-20 00:53 → 2026-03-20 01:54 |
 | 🟡 GPD | 1.46x | $+46 | trailing_stop_4x | 4.37x | pumpswap | 2026-03-20 00:41 → 2026-03-20 01:27 |
 | 🔴 George | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-19 22:56 → 2026-03-20 08:02 |
-| 🔴 STITCH | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-19 22:42 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

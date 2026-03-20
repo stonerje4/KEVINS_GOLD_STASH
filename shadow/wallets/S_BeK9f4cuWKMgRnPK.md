@@ -1,18 +1,18 @@
 # Wallet: `BeK9f4cuWKMgRnPKmMn8yzAe3EPB3g3dpBuGTbQZvHix`
 
-> [GMGN](https://gmgn.ai/sol/address/BeK9f4cuWKMgRnPKmMn8yzAe3EPB3g3dpBuGTbQZvHix) | [Solscan](https://solscan.io/account/BeK9f4cuWKMgRnPKmMn8yzAe3EPB3g3dpBuGTbQZvHix) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/BeK9f4cuWKMgRnPKmMn8yzAe3EPB3g3dpBuGTbQZvHix) | [Solscan](https://solscan.io/account/BeK9f4cuWKMgRnPKmMn8yzAe3EPB3g3dpBuGTbQZvHix) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (1 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-261 |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-61 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-261** |
+| 🏦 Total | **$-61** |
 | Best ROI | 0.39x |
-| Avg ROI | 0.13x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
@@ -25,8 +25,6 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 launcrr | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 14:34 → 2026-03-20 14:36 |
-| 🔴 GAS | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:59 → 2026-03-20 15:42 |
-| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:57 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

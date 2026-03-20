@@ -1,18 +1,18 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (4 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-717 |
+| Positions | 4 (4 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+117 |
-| 🏦 Total | **$-601** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.10x |
+| 🏦 Total | **$+117** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -27,14 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 BfUio6io | 0.00x | $-100 | phantom_dust_entry | 1.14x | pumpfun | 2026-03-20 15:16 → 2026-03-20 15:42 |
-| 🔴 Samba | 0.00x | $-100 | phantom_dust_entry | 1.92x | pumpfun | 2026-03-20 03:32 → 2026-03-20 15:42 |
-| 🔴 Floki | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 03:21 → 2026-03-20 15:42 |
-| 🔴 PESSIMIST | 0.00x | $-100 | phantom_dust_entry | 1.10x | pumpfun | 2026-03-20 00:57 → 2026-03-20 15:42 |
-| 🔴 DORO | 0.00x | $-100 | phantom_dust_entry | 1.27x | pumpfun | 2026-03-20 00:44 → 2026-03-20 15:42 |
-| 🔴 Balenciaga | 0.00x | $-100 | phantom_dust_entry | 1.78x | pumpfun | 2026-03-20 00:09 → 2026-03-20 15:42 |
-| 🟡 GKVERwoA | 0.83x | $-17 | trailing_stop_2x | 2.06x | pumpfun | 2026-03-19 23:21 → 2026-03-19 23:21 |
-| 🔴 5H7nmFxk | 0.00x | $-100 | phantom_dust_entry | 1.12x | pumpfun | 2026-03-19 23:15 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

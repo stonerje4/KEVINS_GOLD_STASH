@@ -1,18 +1,18 @@
 # Wallet: `FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3`
 
-> [GMGN](https://gmgn.ai/sol/address/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | [Solscan](https://solscan.io/account/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | [Solscan](https://solscan.io/account/FkowYxE4xBAtGCpNr7hPLfg4L6XfTqvXN8RLg2ZK1fv3) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (4 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-315 |
+| Positions | 4 (4 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+22 |
-| 🏦 Total | **$-294** |
-| Best ROI | 0.85x |
-| Avg ROI | 0.21x |
+| 🏦 Total | **$+22** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -27,10 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 chiberine | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 13:34 → 2026-03-20 15:42 |
-| 🔴 PAIN | 0.00x | $-100 | phantom_dust_entry | 1.23x | pumpswap | 2026-03-20 13:26 → 2026-03-20 15:42 |
-| 🔴 Attention | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 09:34 → 2026-03-20 15:42 |
-| 🟡 Antigravity | 0.85x | $-15 | trailing_stop_2x | 2.02x | pumpswap | 2026-03-20 04:33 → 2026-03-20 10:51 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

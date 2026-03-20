@@ -1,16 +1,16 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (21 open, 0 closed) |
+| Positions | 22 (22 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+110 |
-| 🏦 Total | **$+110** |
+| 📦 Unrealized | $+76 |
+| 🏦 Total | **$+76** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pete | $0.000056 | **1.25x** ($+25) | 1.32x |  | pumpswap | 2026-03-20 15:07 |
+| 🔴 PACO | $0.000009 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 15:45 |
+| 🟡 Pete | $0.000056 | **1.06x** ($+6) | 1.32x |  | pumpswap | 2026-03-20 15:07 |
 | 🟡 clod | $0.000031 | **1.16x** ($+16) | 1.26x |  | pumpswap | 2026-03-20 14:55 |
-| 🟡 effect | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:41 |
+| 🟡 effect | $0.000042 | **1.20x** ($+20) | 1.26x |  | pumpswap | 2026-03-20 14:41 |
 | 🟡 Solana | $0.000043 | **1.95x** ($+95) | 2.02x | ✅ | pumpswap | 2026-03-20 14:35 |
 | 🟡 MOCHI | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 Dryer | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:45 |

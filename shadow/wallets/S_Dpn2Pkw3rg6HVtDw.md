@@ -1,18 +1,18 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (9 open, 10 closed) |
-| W/L | 0/10 (0%) |
-| 💵 Realized | $-879 |
+| Positions | 11 (9 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-79 |
 | 📦 Unrealized | $-26 |
-| 🏦 Total | **$-905** |
+| 🏦 Total | **$-105** |
 | Best ROI | 0.82x |
-| Avg ROI | 0.12x |
+| Avg ROI | 0.61x |
 
 ## Open Positions
 
@@ -34,14 +34,6 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 8DvZcPdA | 0.39x | $-61 | stop_loss | 1.63x | pumpfun | 2026-03-20 14:53 → 2026-03-20 14:57 |
 | 🟡 tired | 0.82x | $-18 | trailing_stop_2x | 2.36x | pumpfun | 2026-03-20 13:21 → 2026-03-20 13:33 |
-| 🔴 SPR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:03 → 2026-03-20 15:42 |
-| 🔴 GAS | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:59 → 2026-03-20 15:42 |
-| 🔴 UGOR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:58 → 2026-03-20 15:42 |
-| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:57 → 2026-03-20 15:42 |
-| 🔴 FLAG | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 11:04 → 2026-03-20 15:42 |
-| 🔴 CHIBI | 0.00x | $-100 | phantom_dust_entry | 1.29x | pumpfun | 2026-03-20 07:55 → 2026-03-20 15:42 |
-| 🔴 FLAG | 0.00x | $-100 | phantom_dust_entry | 1.09x | pumpfun | 2026-03-20 04:32 → 2026-03-20 15:42 |
-| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 1.28x | pumpfun | 2026-03-20 03:00 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

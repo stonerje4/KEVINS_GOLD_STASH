@@ -1,16 +1,16 @@
 # Wallet: `GfEx1sug5B1ydUif3K8XBy3BitVQDQy33ozhMCnXVwNR`
 
-> [GMGN](https://gmgn.ai/sol/address/GfEx1sug5B1ydUif3K8XBy3BitVQDQy33ozhMCnXVwNR) | [Solscan](https://solscan.io/account/GfEx1sug5B1ydUif3K8XBy3BitVQDQy33ozhMCnXVwNR) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/GfEx1sug5B1ydUif3K8XBy3BitVQDQy33ozhMCnXVwNR) | [Solscan](https://solscan.io/account/GfEx1sug5B1ydUif3K8XBy3BitVQDQy33ozhMCnXVwNR) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-100 |
+| Positions | 3 (3 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-113 |
-| 🏦 Total | **$-213** |
+| 🏦 Total | **$-113** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -26,7 +26,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 RUNE | 0.00x | $-100 | phantom_dust_entry | 2.55x | pumpfun | 2026-03-20 13:56 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

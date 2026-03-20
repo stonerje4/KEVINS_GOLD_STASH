@@ -1,18 +1,18 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (8 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-477 |
+| Positions | 9 (8 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-77 |
 | 📦 Unrealized | $-4 |
-| 🏦 Total | **$-481** |
+| 🏦 Total | **$-81** |
 | Best ROI | 0.23x |
-| Avg ROI | 0.05x |
+| Avg ROI | 0.23x |
 
 ## Open Positions
 
@@ -31,11 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Chuck | 0.00x | $-100 | phantom_dust_entry | 1.01x | pumpswap | 2026-03-20 14:58 → 2026-03-20 15:42 |
-| 🔴 HUNT | 0.00x | $-100 | phantom_dust_entry | 1.03x | pumpswap | 2026-03-20 08:41 → 2026-03-20 15:42 |
 | 🔴 唐子兵法 | 0.23x | $-77 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:30 → 2026-03-20 15:19 |
-| 🔴 EPSTEINBLI | 0.00x | $-100 | phantom_dust_entry | 1.19x | pumpswap | 2026-03-20 06:23 → 2026-03-20 15:42 |
-| 🔴 IMAGINE | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 06:13 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

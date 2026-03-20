@@ -1,16 +1,16 @@
 # Wallet: `FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc`
 
-> [GMGN](https://gmgn.ai/sol/address/FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc) | [Solscan](https://solscan.io/account/FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc) | [Solscan](https://solscan.io/account/FEsufi645TCwHZfmUqkHgixJ6A6yGuroUGB729dZNZsc) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-100 |
+| Positions | 2 (2 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-23 |
-| 🏦 Total | **$-123** |
+| 🏦 Total | **$-23** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -25,7 +25,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 DOOLY | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:44 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

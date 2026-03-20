@@ -1,18 +1,18 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (9 open, 7 closed) |
-| W/L | 0/7 (0%) |
-| 💵 Realized | $-662 |
+| Positions | 10 (9 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-62 |
 | 📦 Unrealized | $-32 |
-| 🏦 Total | **$-694** |
+| 🏦 Total | **$-94** |
 | Best ROI | 0.38x |
-| Avg ROI | 0.05x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -32,13 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CHIBISLOP | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:42 → 2026-03-20 15:42 |
-| 🔴 clod | 0.00x | $-100 | phantom_dust_entry | 7.97x | pumpswap | 2026-03-20 10:02 → 2026-03-20 15:42 |
-| 🔴 Sunshine | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 09:59 → 2026-03-20 15:42 |
-| 🔴 McCards | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 02:15 → 2026-03-20 15:42 |
 | 🔴 Luxury | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 00:59 → 2026-03-20 01:09 |
-| 🔴 PUMA | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 00:48 → 2026-03-20 15:42 |
-| 🔴 格林 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 00:47 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,18 +1,18 @@
 # Wallet: `5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g`
 
-> [GMGN](https://gmgn.ai/sol/address/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | [Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | [Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (4 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-440 |
+| Positions | 7 (4 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-140 |
 | 📦 Unrealized | $-57 |
-| 🏦 Total | **$-497** |
+| 🏦 Total | **$-197** |
 | Best ROI | 0.81x |
-| Avg ROI | 0.27x |
+| Avg ROI | 0.53x |
 
 ## Open Positions
 
@@ -27,9 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 REMY | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:09 → 2026-03-20 15:42 |
-| 🔴 QUIT | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 09:52 → 2026-03-20 15:42 |
-| 🔴 Kin-Kun | 0.00x | $-100 | phantom_dust_entry | 1.18x | pumpfun | 2026-03-20 07:20 → 2026-03-20 15:42 |
 | 🟡 CHIBILON | 0.81x | $-19 | trailing_stop_2x | 2.04x | pumpfun | 2026-03-20 07:16 → 2026-03-20 07:18 |
 | 🔴 Kin-kun | 0.39x | $-61 | stop_loss | 1.04x | pumpfun | 2026-03-20 06:33 → 2026-03-20 08:07 |
 | 🔴 CC | 0.40x | $-60 | stop_loss | 1.02x | pumpfun | 2026-03-19 23:27 → 2026-03-19 23:29 |

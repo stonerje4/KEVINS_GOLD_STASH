@@ -1,16 +1,16 @@
 # Wallet: `3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx`
 
-> [GMGN](https://gmgn.ai/sol/address/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | [Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | [Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (4 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-300 |
+| Positions | 4 (4 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-9 |
-| 🏦 Total | **$-309** |
+| 🏦 Total | **$-9** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -27,9 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 MyDad | 0.00x | $-100 | phantom_bad_entry_price | 42.73x | pumpswap | 2026-03-20 09:13 → 2026-03-20 14:58 |
-| 🔴 Billy | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 04:13 → 2026-03-20 15:42 |
-| 🔴 GIGACHAD | 0.00x | $-100 | phantom_bad_entry_price | 100.88x | pumpswap | 2026-03-20 03:56 → 2026-03-20 14:58 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

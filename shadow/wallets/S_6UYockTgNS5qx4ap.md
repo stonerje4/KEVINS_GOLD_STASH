@@ -1,18 +1,18 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 23 (17 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-449 |
-| 📦 Unrealized | $+91 |
-| 🏦 Total | **$-358** |
+| Positions | 21 (17 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-249 |
+| 📦 Unrealized | $+131 |
+| 🏦 Total | **$-118** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.25x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -33,7 +33,7 @@
 | 🔴 電王 | $0.000029 | **0.88x** ($-12) | 1.07x |  | pumpfun | 2026-03-20 00:44 |
 | 🟡 world | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:36 |
 | 🔴 Wolverine | $0.000010 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 00:06 |
-| 🟡 herm | $0.000164 | **1.22x** ($+22) | 1.35x |  | pumpswap | 2026-03-19 23:42 |
+| 🟡 herm | $0.000164 | **1.63x** ($+63) | 1.63x |  | pumpswap | 2026-03-19 23:42 |
 | 🟢 CHIBI | $0.000684 | **3.37x** ($+237) | 3.62x | ✅ | pumpswap | 2026-03-19 23:27 |
 
 ## Closed Positions
@@ -43,8 +43,6 @@
 | 🔴 ChibiTrump | 0.40x | $-60 | stop_loss | 1.05x | pumpfun | 2026-03-20 08:20 → 2026-03-20 08:24 |
 | 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.26x | pumpswap | 2026-03-20 07:59 → 2026-03-20 10:32 |
 | 🔴 USFC | 0.37x | $-63 | stop_loss | 1.38x | pumpfun | 2026-03-20 04:12 → 2026-03-20 04:19 |
-| 🔴 屁合戦 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 03:33 → 2026-03-20 15:42 |
-| 🔴 BALD | 0.00x | $-100 | phantom_dust_entry | 1.14x | pumpfun | 2026-03-20 01:36 → 2026-03-20 15:42 |
 | 🔴 Solana | 0.34x | $-66 | stop_loss | 1.16x | pumpswap | 2026-03-19 23:44 → 2026-03-20 15:06 |
 
 ---

@@ -1,16 +1,16 @@
 # Wallet: `G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX`
 
-> [GMGN](https://gmgn.ai/sol/address/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | [Solscan](https://solscan.io/account/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | [Solscan](https://solscan.io/account/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-200 |
-| 📦 Unrealized | $-125 |
-| 🏦 Total | **$-325** |
+| Positions | 3 (3 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
+| 📦 Unrealized | $-149 |
+| 🏦 Total | **$-149** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000396 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
+| 🔴 Chuck | $0.000396 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
 | 🔴 2tGXZnrU | $0.000005 | **0.46x** ($-54) | 1.11x |  | pumpfun | 2026-03-20 00:46 |
 | 🔴 ELEPHANT | $0.000005 | **0.48x** ($-52) | 1.04x |  | pumpfun | 2026-03-20 00:02 |
 
@@ -26,8 +26,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 SPIDERMAN | 0.00x | $-100 | phantom_dust_entry | 1.44x | pumpfun | 2026-03-20 01:20 → 2026-03-20 15:42 |
-| 🔴 EViRG6FH | 0.00x | $-100 | phantom_dust_entry | 1.18x | pumpfun | 2026-03-20 00:12 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

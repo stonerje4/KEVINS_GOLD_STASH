@@ -1,18 +1,18 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (11 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-603 |
+| Positions | 14 (11 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-183 |
 | 📦 Unrealized | $-77 |
-| 🏦 Total | **$-680** |
-| Best ROI | 0.80x |
-| Avg ROI | 0.25x |
+| 🏦 Total | **$-260** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
@@ -36,12 +36,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 e/alt | 0.39x | $-61 | stop_loss | 1.04x | pumpfun | 2026-03-20 06:21 → 2026-03-20 07:03 |
 | 🔴 AoE | 0.38x | $-62 | stop_loss | 1.30x | pumpfun | 2026-03-20 04:38 → 2026-03-20 04:47 |
-| 🔴 Veggietales | 0.00x | $-100 | phantom_dust_entry | 1.24x | pumpfun | 2026-03-20 03:56 → 2026-03-20 15:42 |
-| 🟡 MATER | 0.80x | $-20 | trailing_stop_2x | 2.20x | pumpswap | 2026-03-20 03:32 → 2026-03-20 07:56 |
-| 🔴 Drip | 0.00x | $-100 | phantom_dust_entry | 1.08x | pumpfun | 2026-03-20 03:22 → 2026-03-20 15:42 |
 | 🔴 wepaid | 0.40x | $-60 | stop_loss | 1.88x | pumpfun | 2026-03-20 03:12 → 2026-03-20 03:42 |
-| 🔴 Eshkol LLM | 0.00x | $-100 | phantom_dust_entry | 1.38x | pumpfun | 2026-03-20 02:23 → 2026-03-20 15:42 |
-| 🔴 Dyoji | 0.00x | $-100 | phantom_dust_entry | 1.67x | pumpfun | 2026-03-20 01:52 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

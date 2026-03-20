@@ -1,6 +1,6 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [GMGN](https://gmgn.ai/sol/address/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | [Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | [Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-94 |
-| 🏦 Total | **$-94** |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-31** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -24,7 +24,7 @@
 | 🟡 Optimistic | $0.000763 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 04:11 |
 | 🟡 Nigel | $0.000296 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
 | 🔴 Momo-chan | $0.000359 | **0.97x** ($-3) | 1.07x |  | pumpswap | 2026-03-20 01:51 |
-| 🟡 HeavyPulp | $0.000753 | **1.23x** ($+23) | 1.23x |  | pumpswap | 2026-03-19 23:44 |
+| 🟡 HeavyPulp | $0.000753 | **1.85x** ($+85) | 1.90x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 MIM | $0.000074 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 WIZARD | $0.000435 | **0.81x** ($-19) | 1.04x |  | pumpswap | 2026-03-19 23:07 |
 | 🔴 SHAPE | $0.001378 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-19 22:35 |

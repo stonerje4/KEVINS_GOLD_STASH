@@ -1,18 +1,18 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (23 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-490 |
-| 📦 Unrealized | $+485 |
-| 🏦 Total | **$-5** |
+| Positions | 26 (23 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-190 |
+| 📦 Unrealized | $+371 |
+| 🏦 Total | **$+181** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.18x |
+| Avg ROI | 0.37x |
 
 ## Open Positions
 
@@ -39,19 +39,16 @@
 | 🟡 Chocolatina | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:42 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 IMAGINE | $0.000119 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
-| 🚀 Chuck | $0.000020 | **15.58x** ($+1,458) | 23.66x | ✅ | pumpfun | 2026-03-20 02:25 |
+| 🚀 Chuck | $0.000020 | **10.99x** ($+999) | 23.66x | ✅ | pumpfun | 2026-03-20 02:25 |
 | 🟡 Cow | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:24 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 ANIME | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 14:31 → 2026-03-20 15:42 |
-| 🔴 PLATYPI | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 11:45 → 2026-03-20 15:42 |
 | 🔴 CATS | 0.32x | $-68 | stop_loss | 1.35x | pumpfun | 2026-03-20 06:06 → 2026-03-20 07:14 |
 | 🔴 Imaginify | 0.40x | $-60 | stop_loss | 1.11x | pumpfun | 2026-03-20 05:48 → 2026-03-20 07:57 |
 | 🔴 Imaginify | 0.38x | $-62 | stop_loss | 1.11x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:24 |
-| 🔴 Silly | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 01:17 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

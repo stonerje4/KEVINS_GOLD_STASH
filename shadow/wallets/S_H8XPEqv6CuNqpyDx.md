@@ -1,18 +1,18 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 118 (55 open, 63 closed) |
-| W/L | 2/61 (3%) |
-| 💵 Realized | $-4,833 |
-| 📦 Unrealized | $-243 |
-| 🏦 Total | **$-5,076** |
+| Positions | 79 (55 open, 24 closed) |
+| W/L | 2/22 (8%) |
+| 💵 Realized | $-1,168 |
+| 📦 Unrealized | $-251 |
+| 🏦 Total | **$-1,419** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.23x |
+| Avg ROI | 0.51x |
 
 ## Open Positions
 
@@ -48,7 +48,7 @@
 | 🟡 INCOME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 kawaifiy | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 Effect | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:58 |
-| 🟡 effect | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 09:54 |
+| 🟢 effect | $0.000020 | **2.58x** ($+158) | 2.73x | ✅ | pumpfun | 2026-03-20 09:54 |
 | 🟡 Tutu | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:48 |
 | 🟡 omochi | $0.000022 | **1.64x** ($+64) | 1.64x |  | pumpfun | 2026-03-20 09:19 |
 | 🔴 Income | $0.000006 | **0.45x** ($-55) | 1.91x |  | pumpfun | 2026-03-20 09:04 |
@@ -78,68 +78,29 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 GpZsEjRc | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:38 → 2026-03-20 15:42 |
-| 🔴 LufNed6s | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:14 → 2026-03-20 15:42 |
-| 🔴 MMORPG | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:12 → 2026-03-20 15:42 |
-| 🔴 QUIT | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:09 → 2026-03-20 15:42 |
-| 🔴 Tutu | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:58 → 2026-03-20 15:42 |
 | 🔴 DECEPTICONS | 0.12x | $-88 | stop_loss | 1.00x | pumpswap | 2026-03-20 11:53 → 2026-03-20 15:13 |
-| 🔴 5vNma6x4 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:52 → 2026-03-20 15:42 |
-| 🔴 AFCy63Lh | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:51 → 2026-03-20 15:42 |
-| 🔴 FnCUMhXQ | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:49 → 2026-03-20 15:42 |
-| 🔴 FATE | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:04 → 2026-03-20 15:42 |
-| 🔴 7b678pp4 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 09:49 → 2026-03-20 15:42 |
 | 🔴 Doolysaurus | 0.39x | $-61 | stop_loss | 1.66x | pumpfun | 2026-03-20 09:28 → 2026-03-20 09:57 |
 | 🔴 WRONG | 0.40x | $-60 | stop_loss | 1.11x | pumpfun | 2026-03-20 09:23 → 2026-03-20 09:39 |
-| 🔴 Income | 0.00x | $-100 | phantom_dust_entry | 1.20x | pumpfun | 2026-03-20 09:12 → 2026-03-20 15:42 |
 | 🔴 VOID | 0.37x | $-63 | stop_loss | 1.06x | cpmm | 2026-03-20 08:59 → 2026-03-20 10:57 |
 | 🔴 Ropet | 0.33x | $-67 | stop_loss | 1.21x | pumpfun | 2026-03-20 08:57 → 2026-03-20 08:58 |
 | 🔴 ME | 0.39x | $-61 | stop_loss | 1.38x | pumpfun | 2026-03-20 08:45 → 2026-03-20 09:00 |
-| 🔴 Chibi | 0.00x | $-100 | phantom_dust_entry | 1.18x | pumpfun | 2026-03-20 08:44 → 2026-03-20 15:42 |
-| 🔴 Moe | 0.00x | $-100 | phantom_dust_entry | 1.08x | pumpfun | 2026-03-20 08:10 → 2026-03-20 15:42 |
-| 🔴 BGEYapkY | 0.00x | $-100 | phantom_dust_entry | 1.27x | pumpfun | 2026-03-20 07:41 → 2026-03-20 15:42 |
 | 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.12x | pumpswap | 2026-03-20 07:03 → 2026-03-20 07:27 |
-| 🔴 Otocolobus | 0.00x | $-100 | phantom_dust_entry | 1.37x | pumpfun | 2026-03-20 06:49 → 2026-03-20 15:42 |
-| 🔴 29tcP9b3 | 0.00x | $-100 | phantom_dust_entry | 1.56x | pumpfun | 2026-03-20 06:45 → 2026-03-20 15:42 |
 | 🟡 7DMq1AbA | 0.81x | $-19 | trailing_stop_2x | 2.17x | pumpfun | 2026-03-20 06:35 → 2026-03-20 06:43 |
 | 🔴 DOOMERCYCLE | 0.38x | $-62 | stop_loss | 1.66x | pumpfun | 2026-03-20 06:33 → 2026-03-20 07:37 |
 | 🟡 AVATAR | 1.49x | $+49 | trailing_stop_3x | 3.03x | pumpswap | 2026-03-20 06:20 → 2026-03-20 06:41 |
 | 🔴 startpup | 0.38x | $-62 | stop_loss | 1.27x | pumpfun | 2026-03-20 06:01 → 2026-03-20 06:20 |
-| 🔴 EA | 0.00x | $-100 | phantom_dust_entry | 1.33x | pumpswap | 2026-03-20 05:57 → 2026-03-20 15:42 |
-| 🔴 6QRzuEiP | 0.00x | $-100 | phantom_dust_entry | 1.11x | pumpfun | 2026-03-20 05:48 → 2026-03-20 15:42 |
-| 🔴 5ju6JsxF | 0.00x | $-100 | phantom_dust_entry | 1.35x | pumpfun | 2026-03-20 05:42 → 2026-03-20 15:42 |
-| 🔴 horse | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 05:40 → 2026-03-20 15:42 |
 | 🔴 Hoverboard | 0.37x | $-63 | stop_loss | 1.40x | pumpfun | 2026-03-20 05:33 → 2026-03-20 05:39 |
-| 🔴 hopecore | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 05:20 → 2026-03-20 15:42 |
-| 🔴 Fk6LNJWo | 0.74x | $-26 | trailing_stop_2x | 2.08x | pumpfun | 2026-03-20 05:17 → 2026-03-20 05:29 |
 | 🔴 Bcx1k6h8 | 0.40x | $-60 | stop_loss | 1.15x | pumpfun | 2026-03-20 05:15 → 2026-03-20 05:16 |
 | 🔴 MEMEFRONT | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:13 |
 | 🔴 Sublime | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:04 → 2026-03-20 05:05 |
 | 🟡 CORPORATE | 0.84x | $-16 | trailing_stop_3x | 2.77x | pumpfun | 2026-03-20 04:43 → 2026-03-20 04:58 |
 | 🔴 Civil Claude | 0.78x | $-22 | trailing_stop_2x | 2.09x | pumpfun | 2026-03-20 04:42 → 2026-03-20 04:55 |
-| 🟡 9LkTsjEb | 0.90x | $-10 | trailing_stop_4x | 3.83x | pumpfun | 2026-03-20 04:36 → 2026-03-20 04:40 |
 | 🔴 SMCI | 0.40x | $-60 | stop_loss | 1.30x | pumpfun | 2026-03-20 04:23 → 2026-03-20 04:25 |
-| 🔴 9yxNfMaA | 0.71x | $-29 | trailing_stop_3x | 2.54x | pumpfun | 2026-03-20 04:16 → 2026-03-20 04:23 |
-| 🔴 Cffkpxmi | 0.00x | $-100 | phantom_dust_entry | 1.54x | pumpfun | 2026-03-20 04:14 → 2026-03-20 15:42 |
 | 🔴 hamood | 0.38x | $-62 | stop_loss | 1.35x | pumpfun | 2026-03-20 04:11 → 2026-03-20 04:12 |
 | 🔴 CUTIS | 0.38x | $-62 | stop_loss | 1.37x | pumpfun | 2026-03-20 04:10 → 2026-03-20 04:26 |
-| 🔴 Arc | 0.00x | $-100 | phantom_dust_entry | 1.95x | pumpfun | 2026-03-20 04:07 → 2026-03-20 15:42 |
-| 🔴 AGzUnMmR | 0.00x | $-100 | phantom_dust_entry | 1.77x | pumpfun | 2026-03-20 03:55 → 2026-03-20 15:42 |
 | 🔴 OFFLINE | 0.39x | $-61 | stop_loss | 1.01x | pumpfun | 2026-03-20 03:47 → 2026-03-20 03:47 |
-| 🔴 2NbLjyqS | 0.00x | $-100 | phantom_dust_entry | 1.32x | pumpfun | 2026-03-20 02:57 → 2026-03-20 15:42 |
 | 🔴 SINGULARITY | 0.40x | $-60 | stop_loss | 1.25x | pumpfun | 2026-03-20 02:56 → 2026-03-20 02:57 |
-| 🔴 5yfsG1t6 | 0.00x | $-100 | phantom_dust_entry | 1.08x | pumpfun | 2026-03-20 02:53 → 2026-03-20 15:42 |
-| 🔴 5CZM95YX | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 02:50 → 2026-03-20 15:42 |
-| 🔴 SMCI | 0.00x | $-100 | phantom_dust_entry | 1.37x | pumpfun | 2026-03-20 02:48 → 2026-03-20 15:42 |
-| 🔴 Calculator | 0.00x | $-100 | phantom_dust_entry | 1.20x | pumpfun | 2026-03-20 02:43 → 2026-03-20 15:42 |
-| 🔴 3naSsVFJ | 0.00x | $-100 | phantom_dust_entry | 1.33x | pumpfun | 2026-03-20 02:42 → 2026-03-20 15:42 |
-| 🔴 FG9LTsMb | 0.00x | $-100 | phantom_dust_entry | 1.09x | pumpfun | 2026-03-20 02:42 → 2026-03-20 15:42 |
-| 🔴 9uKKsd8p | 0.00x | $-100 | phantom_dust_entry | 1.15x | pumpfun | 2026-03-20 02:41 → 2026-03-20 15:42 |
-| 🔴 81M3Vmz3 | 0.00x | $-100 | phantom_dust_entry | 1.26x | pumpfun | 2026-03-20 02:39 → 2026-03-20 15:42 |
-| 🔴 EzcE19GY | 0.00x | $-100 | phantom_dust_entry | 1.74x | pumpfun | 2026-03-20 02:39 → 2026-03-20 15:42 |
-| 🔴 6PTpSGSH | 0.00x | $-100 | phantom_dust_entry | 1.45x | pumpfun | 2026-03-20 02:38 → 2026-03-20 15:42 |
 | 🟡 MINKA | 1.36x | $+36 | trailing_stop_4x | 4.16x | pumpfun | 2026-03-20 02:35 → 2026-03-20 02:54 |
-| 🔴 Bh2eHyCa | 0.00x | $-100 | phantom_dust_entry | 1.23x | pumpfun | 2026-03-20 02:32 → 2026-03-20 15:42 |
 | 🔴 IDR | 0.40x | $-60 | stop_loss | 1.62x | pumpfun | 2026-03-20 02:30 → 2026-03-20 02:33 |
 
 ---

@@ -1,18 +1,18 @@
 # Wallet: `8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx`
 
-> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-168 |
+| Positions | 7 (6 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-68 |
 | 📦 Unrealized | $-75 |
-| 🏦 Total | **$-243** |
+| 🏦 Total | **$-143** |
 | Best ROI | 0.32x |
-| Avg ROI | 0.16x |
+| Avg ROI | 0.32x |
 
 ## Open Positions
 
@@ -29,7 +29,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 NEVER | 0.00x | $-100 | phantom_dust_entry | 1.61x | pumpfun | 2026-03-20 02:13 → 2026-03-20 15:42 |
 | 🔴 Beecat | 0.32x | $-68 | stop_loss | 1.07x | pumpswap | 2026-03-19 23:09 → 2026-03-20 02:44 |
 
 ---

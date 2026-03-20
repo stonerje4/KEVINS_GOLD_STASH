@@ -1,6 +1,6 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [GMGN](https://gmgn.ai/sol/address/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | [Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | [Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (17 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-141 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-156** |
+| 📦 Unrealized | $+13 |
+| 🏦 Total | **$-128** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.53x |
 
@@ -30,9 +30,9 @@
 | 🟢 CHIBI | $0.001118 | **2.06x** ($+106) | 2.21x | ✅ | pumpswap | 2026-03-20 02:33 |
 | 🟡 Gany | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 GOBLIN | $0.000016 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:11 |
-| 🟡 herm | $0.000170 | **1.18x** ($+18) | 1.29x |  | pumpswap | 2026-03-20 00:33 |
+| 🟡 herm | $0.000170 | **1.57x** ($+57) | 1.57x |  | pumpswap | 2026-03-20 00:33 |
 | 🔴 jeff | $0.000025 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 00:26 |
-| 🔴 POLSIA | $0.000136 | **0.70x** ($-30) | 1.18x |  | pumpswap | 2026-03-20 00:08 |
+| 🔴 POLSIA | $0.000136 | **0.60x** ($-40) | 1.18x |  | pumpswap | 2026-03-20 00:08 |
 | 🔴 Out | $0.000022 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 Chud | $0.000686 | **1.16x** ($+16) | 1.28x |  | pumpswap | 2026-03-19 22:45 |
 

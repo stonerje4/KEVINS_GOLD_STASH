@@ -1,18 +1,18 @@
 # Wallet: `4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN`
 
-> [GMGN](https://gmgn.ai/sol/address/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | [Solscan](https://solscan.io/account/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | [Solscan](https://solscan.io/account/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-162 |
+| Positions | 4 (3 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-62 |
 | 📦 Unrealized | $+115 |
-| 🏦 Total | **$-48** |
+| 🏦 Total | **$+52** |
 | Best ROI | 0.38x |
-| Avg ROI | 0.19x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -27,7 +27,6 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Coglet | 0.38x | $-62 | stop_loss | 1.18x | pumpfun | 2026-03-20 13:22 → 2026-03-20 14:02 |
-| 🔴 TANGY | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 04:06 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

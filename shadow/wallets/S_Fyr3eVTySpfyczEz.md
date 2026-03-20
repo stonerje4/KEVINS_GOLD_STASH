@@ -1,18 +1,18 @@
 # Wallet: `Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL`
 
-> [GMGN](https://gmgn.ai/sol/address/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | [Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | [Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (6 open, 7 closed) |
-| W/L | 0/7 (0%) |
-| 💵 Realized | $-582 |
+| Positions | 9 (6 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-182 |
 | 📦 Unrealized | $+15 |
-| 🏦 Total | **$-567** |
+| 🏦 Total | **$-167** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.17x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
@@ -30,11 +30,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 LEGENDS | 0.39x | $-61 | stop_loss | 1.27x | pumpfun | 2026-03-20 14:44 → 2026-03-20 15:00 |
-| 🔴 Shelby | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:59 → 2026-03-20 15:42 |
-| 🔴 5rShZBY5 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:41 → 2026-03-20 15:42 |
 | 🔴 Doolysaurus | 0.39x | $-61 | stop_loss | 1.66x | pumpfun | 2026-03-20 09:27 → 2026-03-20 09:57 |
-| 🔴 MIM | 0.00x | $-100 | phantom_dust_entry | 1.28x | pumpfun | 2026-03-20 09:21 → 2026-03-20 15:42 |
-| 🔴 A1p4jhbm | 0.00x | $-100 | phantom_dust_entry | 2.30x | pumpfun | 2026-03-20 09:03 → 2026-03-20 15:42 |
 | 🔴 Ropet | 0.40x | $-60 | stop_loss | 1.38x | pumpfun | 2026-03-20 08:58 → 2026-03-20 09:14 |
 
 ---

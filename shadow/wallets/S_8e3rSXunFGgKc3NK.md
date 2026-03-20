@@ -1,6 +1,6 @@
 # Wallet: `8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt`
 
-> [GMGN](https://gmgn.ai/sol/address/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | [Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | [Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+134 |
-| 🏦 Total | **$+55** |
+| 📦 Unrealized | $+137 |
+| 🏦 Total | **$+58** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.60x |
 
@@ -21,7 +21,7 @@
 | 🔴 RULEBOOK | $0.000075 | **0.92x** ($-8) | 1.03x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 spaghetti | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:43 |
 | 🟡 Downald | $0.000528 | **1.02x** ($+2) | 1.20x |  | pumpswap | 2026-03-20 10:14 |
-| 🟡 effect | $0.000024 | **1.51x** ($+51) | 1.51x |  | pumpfun | 2026-03-20 10:06 |
+| 🟢 effect | $0.000024 | **2.08x** ($+108) | 2.20x | ✅ | pumpfun | 2026-03-20 10:06 |
 | 🟢 CHIBI | $0.000713 | **3.23x** ($+223) | 3.47x | ✅ | pumpswap | 2026-03-19 23:42 |
 
 ## Closed Positions

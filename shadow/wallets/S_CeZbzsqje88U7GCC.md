@@ -1,18 +1,18 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 28 (15 open, 13 closed) |
-| W/L | 1/12 (8%) |
-| 💵 Realized | $-927 |
+| Positions | 21 (15 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-227 |
 | 📦 Unrealized | $+163 |
-| 🏦 Total | **$-763** |
+| 🏦 Total | **$-63** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.29x |
+| Avg ROI | 0.62x |
 
 ## Open Positions
 
@@ -38,16 +38,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Legoify | 0.00x | $-100 | phantom_dust_entry | 1.77x | pumpswap | 2026-03-20 13:47 → 2026-03-20 15:42 |
 | 🔴 LEGO | 0.39x | $-61 | stop_loss | 1.67x | pumpfun | 2026-03-20 13:47 → 2026-03-20 13:55 |
 | 🔴 Coglet | 0.38x | $-62 | stop_loss | 1.37x | pumpfun | 2026-03-20 13:21 → 2026-03-20 14:02 |
-| 🔴 Dyoji-nim | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:50 → 2026-03-20 15:42 |
-| 🔴 됴지님 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:49 → 2026-03-20 15:42 |
-| 🔴 Me/Me | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:45 → 2026-03-20 15:42 |
-| 🔴 SOLS0CIETY | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:29 → 2026-03-20 15:42 |
-| 🔴 FNQUzuhB | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:04 → 2026-03-20 15:42 |
 | 🟡 Trollbot | 1.49x | $+49 | trailing_stop_3x | 3.20x | pumpfun | 2026-03-20 00:31 → 2026-03-20 00:48 |
-| 🔴 Charles | 0.00x | $-100 | phantom_dust_entry | 2.05x | pumpfun | 2026-03-20 00:17 → 2026-03-20 15:42 |
 | 🔴 Liberty | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-19 23:37 → 2026-03-19 23:37 |
 | 🟡 9c3ps1VC | 0.81x | $-19 | trailing_stop_3x | 2.63x | pumpfun | 2026-03-19 23:34 → 2026-03-20 00:25 |
 | 🔴 Attention | 0.29x | $-71 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:24 → 2026-03-20 01:01 |

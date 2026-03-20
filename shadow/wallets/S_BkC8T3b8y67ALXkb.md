@@ -1,18 +1,18 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 80 (74 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-451 |
-| 📦 Unrealized | $-76 |
-| 🏦 Total | **$-527** |
+| Positions | 79 (74 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-351 |
+| 📦 Unrealized | $-11 |
+| 🏦 Total | **$-362** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.25x |
+| Avg ROI | 0.30x |
 
 ## Open Positions
 
@@ -40,7 +40,7 @@
 | 🔴 PATRIOT | $0.000009 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 LIBERTY | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
-| 🟡 HeavyPulp | $0.001092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
+| 🟡 HeavyPulp | $0.001092 | **1.28x** ($+28) | 1.31x |  | pumpswap | 2026-03-20 07:41 |
 | 🟡 Massive | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
 | 🔴 George | $0.000019 | **0.85x** ($-15) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
 | 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
@@ -49,10 +49,10 @@
 | 🔴 Rosie | $0.000797 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 05:51 |
 | 🟡 Momo-chan | $0.000312 | **1.12x** ($+12) | 1.24x |  | pumpswap | 2026-03-20 05:02 |
 | 🟡 LUMO | $0.000035 | **1.37x** ($+37) | 1.52x |  | pumpswap | 2026-03-20 04:31 |
-| 🟡 Spiderman | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
+| 🔴 Spiderman | $0.000144 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
 | 🔴 Fro | $0.000194 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
 | 🟡 KIWI | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
-| 🟡 herm | $0.000163 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
+| 🟡 herm | $0.000163 | **1.64x** ($+64) | 1.64x |  | pumpswap | 2026-03-20 04:02 |
 | 🔴 BBX | $0.000451 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-20 03:57 |
 | 🟡 NBR | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:51 |
 | 🟡 PIZZA | $0.000184 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
@@ -60,7 +60,7 @@
 | 🟡 AIFRUITS | $0.000671 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 SOS | $0.000976 | **1.14x** ($+14) | 1.20x |  | pumpswap | 2026-03-20 03:41 |
 | 🟢 CHIBI | $0.000816 | **2.82x** ($+182) | 3.03x | ✅ | pumpswap | 2026-03-20 03:12 |
-| 🔴 LIFE | $0.000039 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
+| 🔴 LIFE | $0.000039 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🔴 PIKAHORSE | $0.000331 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 02:41 |
 | 🟡 FTR | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 XAI | $0.000210 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:36 |
@@ -97,7 +97,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 DAU | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 08:04 → 2026-03-20 15:42 |
 | 🔴 NATIVELY | 0.30x | $-70 | stop_loss | 1.31x | cpmm | 2026-03-20 04:46 → 2026-03-20 11:54 |
 | 🔴 MANEKI | 0.40x | $-60 | stop_loss | 1.20x | cpmm | 2026-03-20 04:46 → 2026-03-20 06:04 |
 | 🔴 Solana | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:31 → 2026-03-20 15:07 |

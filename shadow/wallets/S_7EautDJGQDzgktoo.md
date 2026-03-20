@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 31 (24 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-394 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-414** |
+| 📦 Unrealized | $-30 |
+| 🏦 Total | **$-424** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.44x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000332 | **0.96x** ($-4) | 1.16x |  | pumpswap | 2026-03-20 15:15 |
+| 🔴 Chuck | $0.000332 | **0.68x** ($-32) | 1.16x |  | pumpswap | 2026-03-20 15:15 |
 | 🔴 Foodrot | $0.000161 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 15:11 |
-| 🟡 Spiderman | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:58 |
+| 🟡 Spiderman | $0.000092 | **1.18x** ($+18) | 1.23x |  | pumpswap | 2026-03-20 12:58 |
 | 🟡 LOL | $0.000455 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 GOONERBI | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Chibis | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:07 |

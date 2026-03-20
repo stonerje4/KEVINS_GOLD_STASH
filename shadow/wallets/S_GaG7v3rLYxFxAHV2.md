@@ -1,24 +1,24 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (10 open, 7 closed) |
-| W/L | 1/6 (14%) |
-| 💵 Realized | $-468 |
-| 📦 Unrealized | $+247 |
-| 🏦 Total | **$-221** |
+| Positions | 11 (10 open, 1 closed) |
+| W/L | 1/0 (100%) |
+| 💵 Realized | $+49 |
+| 📦 Unrealized | $+282 |
+| 🏦 Total | **$+331** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.33x |
+| Avg ROI | 1.49x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Chuck | $0.000203 | **2.82x** ($+182) | 3.69x | ✅ | pumpswap | 2026-03-20 14:23 |
+| 🟢 Chuck | $0.000203 | **3.70x** ($+270) | 4.05x | ✅ | pumpswap | 2026-03-20 14:23 |
 | 🔴 Merlin | $0.000007 | **0.48x** ($-52) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 SNIFFER | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |
 | 🟡 MMORPG | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:44 |
@@ -33,13 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🟡 B8FYzh4G | 0.83x | $-17 | trailing_stop_2x | 2.07x | pumpfun | 2026-03-20 14:34 → 2026-03-20 14:34 |
-| 🔴 Mirai | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:46 → 2026-03-20 15:42 |
-| 🔴 DMT | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:40 → 2026-03-20 15:42 |
-| 🔴 HPY | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:30 → 2026-03-20 15:42 |
-| 🔴 REMY | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:11 → 2026-03-20 15:42 |
 | 🟡 credit | 1.49x | $+49 | trailing_stop_4x | 3.64x | pumpfun | 2026-03-20 03:03 → 2026-03-20 03:14 |
-| 🔴 D3g3T1ZD | 0.00x | $-100 | phantom_dust_entry | 5.46x | pumpfun | 2026-03-20 01:52 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

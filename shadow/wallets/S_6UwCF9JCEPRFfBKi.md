@@ -1,18 +1,18 @@
 # Wallet: `6UwCF9JCEPRFfBKibwAoyuEZukLwzATiWRjiGnH1Eass`
 
-> [GMGN](https://gmgn.ai/sol/address/6UwCF9JCEPRFfBKibwAoyuEZukLwzATiWRjiGnH1Eass) | [Solscan](https://solscan.io/account/6UwCF9JCEPRFfBKibwAoyuEZukLwzATiWRjiGnH1Eass) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/6UwCF9JCEPRFfBKibwAoyuEZukLwzATiWRjiGnH1Eass) | [Solscan](https://solscan.io/account/6UwCF9JCEPRFfBKibwAoyuEZukLwzATiWRjiGnH1Eass) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-160 |
+| Positions | 7 (6 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
 | 📦 Unrealized | $+219 |
-| 🏦 Total | **$+59** |
+| 🏦 Total | **$+159** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.20x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
@@ -29,7 +29,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CAWB | 0.00x | $-100 | phantom_dust_entry | 1.11x | pumpfun | 2026-03-19 23:31 → 2026-03-20 15:42 |
 | 🔴 BRENT | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-19 23:25 → 2026-03-19 23:25 |
 
 ---

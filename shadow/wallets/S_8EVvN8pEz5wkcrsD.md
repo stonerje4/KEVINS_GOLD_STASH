@@ -1,16 +1,16 @@
 # Wallet: `8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4`
 
-> [GMGN](https://gmgn.ai/sol/address/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | [Solscan](https://solscan.io/account/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | [Solscan](https://solscan.io/account/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-200 |
+| Positions | 4 (4 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+39 |
-| 🏦 Total | **$-161** |
+| 🏦 Total | **$+39** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -27,8 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 DAU | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 12:23 → 2026-03-20 15:42 |
-| 🔴 ANI | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 12:21 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

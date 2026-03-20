@@ -1,16 +1,16 @@
 # Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
 
-> [GMGN](https://gmgn.ai/sol/address/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | [Solscan](https://solscan.io/account/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | [Solscan](https://solscan.io/account/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-100 |
+| Positions | 2 (2 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-26 |
-| 🏦 Total | **$-126** |
+| 🏦 Total | **$-26** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -25,7 +25,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Anton | 0.00x | $-100 | phantom_dust_entry | 1.10x | pumpswap | 2026-03-19 22:47 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

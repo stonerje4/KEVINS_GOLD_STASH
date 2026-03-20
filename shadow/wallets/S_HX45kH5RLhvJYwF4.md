@@ -1,16 +1,16 @@
 # Wallet: `HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5`
 
-> [GMGN](https://gmgn.ai/sol/address/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | [Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | [Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-100 |
-| 📦 Unrealized | $-39 |
-| 🏦 Total | **$-139** |
+| Positions | 4 (4 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
+| 📦 Unrealized | $-27 |
+| 🏦 Total | **$-27** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ROUNDHOUSE | $0.000026 | **1.12x** ($+12) | 1.19x |  | pumpswap | 2026-03-20 15:45 |
 | 🔴 Judy | $0.000024 | **0.95x** ($-5) | 1.02x |  | pumpswap | 2026-03-20 13:57 |
 | 🟡 CHIBIPUNCH | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:10 |
 | 🔴 Floki | $0.000014 | **0.66x** ($-34) | 1.08x |  | pumpswap | 2026-03-20 10:37 |
@@ -26,7 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Cented | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:59 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

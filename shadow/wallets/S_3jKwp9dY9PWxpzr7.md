@@ -1,16 +1,16 @@
 # Wallet: `3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc`
 
-> [GMGN](https://gmgn.ai/sol/address/3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc) | [Solscan](https://solscan.io/account/3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc) | [Solscan](https://solscan.io/account/3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (2 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-200 |
+| Positions | 2 (2 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-89 |
-| 🏦 Total | **$-289** |
+| 🏦 Total | **$-89** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -25,8 +25,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Charles | 0.00x | $-100 | phantom_dust_entry | 1.24x | pumpfun | 2026-03-20 00:17 → 2026-03-20 15:42 |
-| 🔴 POUCH | 0.00x | $-100 | phantom_dust_entry | 1.19x | pumpfun | 2026-03-20 00:02 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

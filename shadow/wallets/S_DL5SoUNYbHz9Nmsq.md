@@ -1,16 +1,16 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (12 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-600 |
+| Positions | 12 (12 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-91 |
-| 🏦 Total | **$-691** |
+| 🏦 Total | **$-91** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -35,12 +35,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Stanley | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 14:58 → 2026-03-20 15:42 |
-| 🔴 Yuki-chan | 0.00x | $-100 | phantom_dust_entry | 1.63x | pumpswap | 2026-03-20 05:23 → 2026-03-20 15:42 |
-| 🔴 Steak | 0.00x | $-100 | phantom_dust_entry | 1.31x | pumpswap | 2026-03-20 03:52 → 2026-03-20 15:42 |
-| 🔴 imagine | 0.00x | $-100 | phantom_dust_entry | 1.57x | pumpfun | 2026-03-20 03:07 → 2026-03-20 15:42 |
-| 🔴 Futa-san | 0.00x | $-100 | phantom_dust_entry | 1.14x | pumpfun | 2026-03-20 01:21 → 2026-03-20 15:42 |
-| 🔴 Tincat | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-19 23:41 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

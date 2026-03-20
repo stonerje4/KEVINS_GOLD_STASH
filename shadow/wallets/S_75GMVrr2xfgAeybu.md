@@ -1,18 +1,18 @@
 # Wallet: `75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF`
 
-> [GMGN](https://gmgn.ai/sol/address/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | [Solscan](https://solscan.io/account/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | [Solscan](https://solscan.io/account/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (2 open, 6 closed) |
-| W/L | 2/4 (33%) |
-| 💵 Realized | $+33 |
+| Positions | 3 (2 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
 | 📦 Unrealized | $+29 |
-| 🏦 Total | **$+62** |
-| Best ROI | 2.85x |
-| Avg ROI | 1.06x |
+| 🏦 Total | **$-32** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
@@ -25,11 +25,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🟢 A1LON | 2.44x | $+144 | trailing_stop_6x | 5.83x | pumpfun | 2026-03-20 03:22 → 2026-03-20 03:22 |
-| 🔴 7v5VSKe9 | 0.37x | $-63 | stop_loss | 1.56x | pumpfun | 2026-03-20 03:21 → 2026-03-20 03:22 |
-| 🔴 Pls | 0.27x | $-73 | stop_loss | 1.00x | pumpfun | 2026-03-20 03:19 → 2026-03-20 03:19 |
-| 🟢 Pls | 2.85x | $+185 | trailing_stop_6x | 5.57x | pumpfun | 2026-03-20 03:18 → 2026-03-20 03:19 |
-| 🔴 NOMAD | 0.00x | $-100 | phantom_dust_entry | 1.34x | pumpfun | 2026-03-20 02:22 → 2026-03-20 15:42 |
 | 🔴 CHANNELS | 0.40x | $-60 | stop_loss | 1.17x | pumpfun | 2026-03-20 02:17 → 2026-03-20 02:18 |
 
 ---

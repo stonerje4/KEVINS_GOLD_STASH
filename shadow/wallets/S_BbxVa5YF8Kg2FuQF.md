@@ -1,18 +1,18 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (6 open, 13 closed) |
-| W/L | 3/10 (23%) |
-| 💵 Realized | $-386 |
+| Positions | 14 (6 open, 8 closed) |
+| W/L | 3/5 (38%) |
+| 💵 Realized | $+114 |
 | 📦 Unrealized | $+273 |
-| 🏦 Total | **$-113** |
+| 🏦 Total | **$+387** |
 | Best ROI | 2.95x |
-| Avg ROI | 0.70x |
+| Avg ROI | 1.14x |
 
 ## Open Positions
 
@@ -30,16 +30,11 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 TEAROOM | 0.39x | $-61 | stop_loss | 1.56x | pumpfun | 2026-03-20 14:53 → 2026-03-20 14:58 |
-| 🔴 SMCI | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 02:49 → 2026-03-20 15:42 |
-| 🔴 MINKA | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 02:36 → 2026-03-20 15:42 |
-| 🔴 SHOCKED | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 00:40 → 2026-03-20 15:42 |
 | 🟢 GPD | 2.94x | $+194 | trailing_stop_6x | 6.48x | pumpswap | 2026-03-20 00:20 → 2026-03-20 01:27 |
 | 🔴 GPD | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 00:19 → 2026-03-20 00:20 |
 | 🔴 Doolysaurus | 0.40x | $-60 | stop_loss | 1.55x | pumpfun | 2026-03-19 23:40 → 2026-03-20 01:24 |
-| 🔴 MILO | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-19 23:33 → 2026-03-20 15:42 |
 | 🟢 Dickus | 2.95x | $+195 | trailing_stop_6x | 5.62x | pumpswap | 2026-03-19 23:28 → 2026-03-20 00:43 |
 | 🔴 Attention | 0.25x | $-75 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:25 → 2026-03-20 01:01 |
-| 🔴 SpiderMan | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-19 23:22 → 2026-03-20 15:42 |
 | 🔴 Haley | 0.36x | $-64 | stop_loss | 1.21x | pumpfun | 2026-03-19 22:40 → 2026-03-19 22:43 |
 | 🟡 Pete | 1.46x | $+46 | trailing_stop_6x | 5.92x | pumpswap | 2026-03-19 22:39 → 2026-03-20 15:04 |
 

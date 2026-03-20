@@ -1,16 +1,16 @@
 # Wallet: `DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9`
 
-> [GMGN](https://gmgn.ai/sol/address/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | [Solscan](https://solscan.io/account/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | [Solscan](https://solscan.io/account/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (4 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-600 |
+| Positions | 4 (4 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-9 |
-| 🏦 Total | **$-609** |
+| 🏦 Total | **$-9** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -27,12 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CuAj75o1 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:46 → 2026-03-20 15:42 |
-| 🔴 ARTEMIS | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 08:45 → 2026-03-20 15:42 |
-| 🔴 BBX | 0.00x | $-100 | phantom_dust_entry | 1.31x | pumpfun | 2026-03-20 04:42 → 2026-03-20 15:42 |
-| 🔴 WRT | 0.00x | $-100 | phantom_dust_entry | 1.06x | pumpfun | 2026-03-20 04:39 → 2026-03-20 15:42 |
-| 🔴 ROS | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 02:40 → 2026-03-20 15:42 |
-| 🔴 FTR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 02:37 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

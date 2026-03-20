@@ -1,16 +1,16 @@
 # Wallet: `3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3`
 
-> [GMGN](https://gmgn.ai/sol/address/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | [Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | [Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (9 open, 10 closed) |
-| W/L | 0/10 (0%) |
-| 💵 Realized | $-1,000 |
+| Positions | 9 (9 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+8 |
-| 🏦 Total | **$-992** |
+| 🏦 Total | **$+8** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -32,16 +32,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Chuck | 0.00x | $-100 | phantom_dust_entry | 1.18x | pumpfun | 2026-03-20 15:03 → 2026-03-20 15:42 |
-| 🔴 SIMULATION | 0.00x | $-100 | phantom_dust_entry | 1.14x | pumpfun | 2026-03-20 15:02 → 2026-03-20 15:42 |
-| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 15:00 → 2026-03-20 15:42 |
-| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 14:57 → 2026-03-20 15:42 |
-| 🔴 WHOREMOSE | 0.00x | $-100 | phantom_dust_entry | 1.25x | pumpfun | 2026-03-20 14:13 → 2026-03-20 15:42 |
-| 🔴 MOSHI | 0.00x | $-100 | phantom_dust_entry | 1.47x | pumpfun | 2026-03-20 13:22 → 2026-03-20 15:42 |
-| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 13:21 → 2026-03-20 15:42 |
-| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 3.22x | pumpfun | 2026-03-20 13:21 → 2026-03-20 15:42 |
-| 🔴 C7NSBRKs | 0.00x | $-100 | phantom_dust_entry | 1.78x | pumpfun | 2026-03-20 13:19 → 2026-03-20 15:42 |
-| 🔴 $TFROG | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:50 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,18 +1,18 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (7 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-617 |
+| Positions | 8 (7 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-15 |
 | 📦 Unrealized | $+98 |
-| 🏦 Total | **$-519** |
-| Best ROI | 0.98x |
-| Avg ROI | 0.23x |
+| 🏦 Total | **$+83** |
+| Best ROI | 0.85x |
+| Avg ROI | 0.85x |
 
 ## Open Positions
 
@@ -30,14 +30,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 BuhNGftS | 0.00x | $-100 | phantom_dust_entry | 1.41x | pumpfun | 2026-03-20 05:27 → 2026-03-20 15:42 |
-| 🟡 $RBUNNY | 0.98x | $-2 | trailing_stop_4x | 4.41x | pumpswap | 2026-03-20 04:59 → 2026-03-20 05:03 |
-| 🔴 UOR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 03:22 → 2026-03-20 15:42 |
-| 🔴 credit | 0.00x | $-100 | phantom_dust_entry | 9.15x | pumpfun | 2026-03-20 03:02 → 2026-03-20 15:42 |
-| 🔴 SCRATCOFF | 0.00x | $-100 | phantom_dust_entry | 1.05x | pumpfun | 2026-03-20 02:03 → 2026-03-20 15:42 |
 | 🟡 IShowSpeed | 0.85x | $-15 | trailing_stop_2x | 2.23x | pumpfun | 2026-03-20 02:02 → 2026-03-20 02:06 |
-| 🔴 MATEOS | 0.00x | $-100 | phantom_dust_entry | 1.00x | dlmm | 2026-03-20 01:41 → 2026-03-20 15:42 |
-| 🔴 nostalgia | 0.00x | $-100 | phantom_dust_entry | 1.05x | pumpswap | 2026-03-19 22:46 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

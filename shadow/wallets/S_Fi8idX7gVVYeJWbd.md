@@ -1,16 +1,16 @@
 # Wallet: `Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z`
 
-> [GMGN](https://gmgn.ai/sol/address/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | [Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | [Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-200 |
+| Positions | 4 (4 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-38 |
-| 🏦 Total | **$-238** |
+| 🏦 Total | **$-38** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -27,8 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 $CRAB | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:13 → 2026-03-20 15:42 |
-| 🔴 WorldID | 0.00x | $-100 | phantom_dust_entry | 1.04x | pumpfun | 2026-03-20 09:05 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,18 +1,18 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (6 open, 10 closed) |
-| W/L | 3/7 (30%) |
-| 💵 Realized | $-534 |
+| Positions | 10 (6 open, 4 closed) |
+| W/L | 2/2 (50%) |
+| 💵 Realized | $-81 |
 | 📦 Unrealized | $-6 |
-| 🏦 Total | **$-540** |
+| 🏦 Total | **$-87** |
 | Best ROI | 1.50x |
-| Avg ROI | 0.47x |
+| Avg ROI | 0.80x |
 
 ## Open Positions
 
@@ -31,14 +31,8 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🟡 Sunshine | 1.50x | $+50 | trailing_stop_3x | 3.19x | pumpfun | 2026-03-20 13:13 → 2026-03-20 13:31 |
 | 🟡 awkward | 1.49x | $+49 | trailing_stop_3x | 3.47x | pumpfun | 2026-03-20 09:07 → 2026-03-20 11:17 |
-| 🟡 Kin-kun | 1.48x | $+48 | trailing_stop_4x | 4.30x | pumpfun | 2026-03-20 08:54 → 2026-03-20 09:32 |
-| 🔴 JUMP | 0.00x | $-100 | phantom_dust_entry | 1.18x | pumpfun | 2026-03-20 08:39 → 2026-03-20 15:42 |
-| 🔴 face | 0.00x | $-100 | phantom_dust_entry | 1.29x | pumpfun | 2026-03-20 08:22 → 2026-03-20 15:42 |
-| 🔴 SUNSHINE | 0.00x | $-100 | phantom_dust_entry | 1.93x | pumpfun | 2026-03-20 07:56 → 2026-03-20 15:42 |
-| 🔴 LOUIE | 0.00x | $-100 | phantom_dust_entry | 1.32x | pumpfun | 2026-03-20 07:50 → 2026-03-20 15:42 |
 | 🔴 ShowMore | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:12 → 2026-03-20 02:12 |
 | 🔴 ShowMore | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:12 → 2026-03-20 02:12 |
-| 🔴 Mainer | 0.00x | $-100 | phantom_dust_entry | 2.00x | pumpfun | 2026-03-19 23:54 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

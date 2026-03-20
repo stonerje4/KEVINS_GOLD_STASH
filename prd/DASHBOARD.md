@@ -1,6 +1,6 @@
 # 💰 PRD Copy Trader Dashboard
 
-> Updated: 2026-03-20 15:40 UTC | SOL = $89.04 | Buy size: 0.11 SOL (~$10)
+> Updated: 2026-03-20 15:45 UTC | SOL = $89.04 | Buy size: 0.11 SOL (~$10)
 > 
 > **P&L is from on-chain SOL movements (includes gas + slippage)**
 

@@ -1,18 +1,18 @@
 # Wallet: `5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv`
 
-> [GMGN](https://gmgn.ai/sol/address/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | [Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | [Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (7 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-248 |
+| Positions | 10 (7 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-148 |
 | 📦 Unrealized | $+86 |
-| 🏦 Total | **$-162** |
+| 🏦 Total | **$-62** |
 | Best ROI | 0.81x |
-| Avg ROI | 0.38x |
+| Avg ROI | 0.51x |
 
 ## Open Positions
 
@@ -32,7 +32,6 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 CATS | 0.32x | $-68 | stop_loss | 1.35x | pumpfun | 2026-03-20 06:07 → 2026-03-20 07:14 |
 | 🟡 MINKA | 0.81x | $-19 | trailing_stop_3x | 2.84x | pumpfun | 2026-03-20 02:38 → 2026-03-20 02:54 |
-| 🔴 TASKS | 0.00x | $-100 | phantom_dust_entry | 1.16x | pumpfun | 2026-03-19 22:46 → 2026-03-20 15:42 |
 | 🔴 STRONG | 0.39x | $-61 | stop_loss | 1.94x | pumpfun | 2026-03-19 22:35 → 2026-03-19 22:51 |
 
 ---

@@ -1,24 +1,23 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [GMGN](https://gmgn.ai/sol/address/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | [Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | [Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (5 open, 22 closed) |
-| W/L | 1/21 (5%) |
-| 💵 Realized | $-1,814 |
-| 📦 Unrealized | $+453 |
-| 🏦 Total | **$-1,362** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.18x |
+| Positions | 11 (4 open, 7 closed) |
+| W/L | 2/5 (29%) |
+| 💵 Realized | $+827 |
+| 📦 Unrealized | $+106 |
+| 🏦 Total | **$+933** |
+| Best ROI | 11.41x |
+| Avg ROI | 2.18x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 Chuck | $0.000019 | **16.52x** ($+1,552) | 25.08x | ✅ | pumpswap | 2026-03-20 14:19 |
 | 🟡 Massive | $0.000019 | **1.19x** ($+19) | 1.30x |  | pumpswap | 2026-03-20 01:31 |
 | 🟡 SHOENICE  | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:04 |
 | 🟢 Grokslop | $0.000014 | **2.67x** ($+167) | 2.67x | ✅ | pumpfun | 2026-03-20 00:54 |
@@ -28,28 +27,13 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CAVE | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 13:46 → 2026-03-20 15:42 |
-| 🔴 Quokka | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 13:33 → 2026-03-20 14:58 |
-| 🔴 RULEBOOK | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 13:31 → 2026-03-20 14:58 |
-| 🔴 NIGGA | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 12:03 → 2026-03-20 14:58 |
-| 🔴 Pssh | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 12:02 → 2026-03-20 14:58 |
-| 🔴 PLATYPI | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 11:28 → 2026-03-20 14:58 |
-| 🔴 GROKHOUSE | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 11:27 → 2026-03-20 14:58 |
-| 🔴 Patricia | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 11:25 → 2026-03-20 14:58 |
-| 🔴 Pixels | 0.00x | $-100 | phantom_dust_entry | 28.40x | pumpswap | 2026-03-20 11:18 → 2026-03-20 15:42 |
-| 🔴 Attention | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 07:46 → 2026-03-20 14:58 |
-| 🔴 CORPORATE | 0.00x | $-100 | phantom_bad_entry_price | 761.14x | pumpfun | 2026-03-20 05:17 → 2026-03-20 14:58 |
-| 🔴 Simulation | 0.00x | $-100 | phantom_dust_entry | 13.13x | pumpswap | 2026-03-20 04:58 → 2026-03-20 15:42 |
-| 🔴 Luxury | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 04:54 → 2026-03-20 15:42 |
-| 🔴 Sentinel | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpfun | 2026-03-20 03:53 → 2026-03-20 14:58 |
-| 🔴 CHANNELS | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 03:31 → 2026-03-20 14:58 |
+| 🟢 Chuck | 11.41x | $+1,041 | trailing_stop_25x | 25.08x | pumpswap | 2026-03-20 14:19 → 2026-03-20 15:46 |
 | 🔴 GPD | 0.38x | $-62 | stop_loss | 1.41x | pumpfun | 2026-03-20 01:28 → 2026-03-20 01:38 |
 | 🔴 Rhinehart | 0.37x | $-63 | stop_loss | 1.12x | pumpfun | 2026-03-20 01:27 → 2026-03-20 01:32 |
 | 🔴 Dickus | 0.40x | $-60 | stop_loss | 1.65x | pumpswap | 2026-03-20 00:19 → 2026-03-20 01:16 |
 | 🔴 Pete | 0.38x | $-62 | stop_loss | 1.56x | pumpswap | 2026-03-20 00:15 → 2026-03-20 15:04 |
 | 🟡 Massive | 0.84x | $-16 | trailing_stop_2x | 2.30x | pumpswap | 2026-03-20 00:00 → 2026-03-20 01:21 |
 | 🟡 Luxury | 1.49x | $+49 | trailing_stop_5x | 4.92x | pumpfun | 2026-03-19 23:41 → 2026-03-20 01:09 |
-| 🔴 herm | 0.00x | $-100 | phantom_bad_entry_price | 1174.72x | pumpswap | 2026-03-19 23:21 → 2026-03-20 14:58 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,16 +1,16 @@
 # Wallet: `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4`
 
-> [GMGN](https://gmgn.ai/sol/address/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | [Solscan](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | [Solscan](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-100 |
+| Positions | 3 (3 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-10 |
-| 🏦 Total | **$-110** |
+| 🏦 Total | **$-10** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -26,7 +26,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Anton | 0.00x | $-100 | phantom_dust_entry | 1.01x | pumpswap | 2026-03-19 22:47 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

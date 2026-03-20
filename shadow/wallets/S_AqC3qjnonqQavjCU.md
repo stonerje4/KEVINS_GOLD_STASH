@@ -1,18 +1,18 @@
 # Wallet: `AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ`
 
-> [GMGN](https://gmgn.ai/sol/address/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | [Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | [Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (6 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-98 |
+| Positions | 7 (6 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-62 |
 | 📦 Unrealized | $-158 |
-| 🏦 Total | **$-256** |
-| Best ROI | 0.84x |
-| Avg ROI | 0.67x |
+| 🏦 Total | **$-221** |
+| Best ROI | 0.38x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -30,8 +30,6 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 VOID | 0.38x | $-62 | stop_loss | 1.22x | pumpfun | 2026-03-20 09:04 → 2026-03-20 09:05 |
-| 🟡 Gurneet | 0.80x | $-20 | trailing_stop_3x | 2.83x | pumpfun | 2026-03-20 07:05 → 2026-03-20 07:12 |
-| 🟡 6QhfiQKU | 0.84x | $-16 | trailing_stop_3x | 2.71x | pumpfun | 2026-03-20 05:19 → 2026-03-20 05:23 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

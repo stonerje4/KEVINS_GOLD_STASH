@@ -1,18 +1,18 @@
 # Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
 
-> [GMGN](https://gmgn.ai/sol/address/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | [Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 15:43 UTC
+> [GMGN](https://gmgn.ai/sol/address/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | [Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 15:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (4 open, 6 closed) |
-| W/L | 1/5 (17%) |
-| 💵 Realized | $-416 |
+| Positions | 6 (4 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $-16 |
 | 📦 Unrealized | $-73 |
-| 🏦 Total | **$-490** |
+| 🏦 Total | **$-90** |
 | Best ROI | 1.44x |
-| Avg ROI | 0.31x |
+| Avg ROI | 0.92x |
 
 ## Open Positions
 
@@ -27,12 +27,8 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Doolysaurus | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 07:45 → 2026-03-20 15:42 |
-| 🔴 Raccoon | 0.00x | $-100 | phantom_dust_entry | 1.39x | pumpfun | 2026-03-20 07:35 → 2026-03-20 15:42 |
 | 🔴 chibinald | 0.40x | $-60 | stop_loss | 1.29x | pumpfun | 2026-03-20 07:24 → 2026-03-20 07:36 |
-| 🔴 SMCI | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 03:24 → 2026-03-20 15:42 |
 | 🟡 MINKA | 1.44x | $+44 | trailing_stop_4x | 3.91x | pumpfun | 2026-03-20 02:34 → 2026-03-20 02:54 |
-| 🔴 INR | 0.00x | $-100 | phantom_dust_entry | 1.18x | pumpfun | 2026-03-20 02:31 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
