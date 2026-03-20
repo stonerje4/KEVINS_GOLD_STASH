@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 19:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 19:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (15 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-370 |
-| 📦 Unrealized | $+32 |
-| 🏦 Total | **$-338** |
+| 📦 Unrealized | $+37 |
+| 🏦 Total | **$-334** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.47x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ROUNDHOUSE | $0.000009 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 19:29 |
-| 🟡 Lana | $0.000021 | **1.45x** ($+45) | 1.78x |  | pumpfun | 2026-03-20 17:04 |
+| 🔴 ROUNDHOUSE | $0.000009 | **0.95x** ($-5) | 1.01x |  | pumpswap | 2026-03-20 19:29 |
+| 🟡 Lana | $0.000021 | **1.52x** ($+52) | 1.78x |  | pumpfun | 2026-03-20 17:04 |
 | 🟡 Lana | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:48 |
 | 🔴 LIBERTY | $0.000027 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 16:18 |
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.80x |  | pumpswap | 2026-03-20 15:43 |

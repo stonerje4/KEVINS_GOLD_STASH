@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 19:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 19:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (18 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-42 |
-| 📦 Unrealized | $-44 |
-| 🏦 Total | **$-86** |
+| 📦 Unrealized | $-51 |
+| 🏦 Total | **$-93** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.58x |
 
@@ -26,7 +26,7 @@
 | 🔴 しずく | $0.000022 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🔴 MILO | $0.000006 | **0.90x** ($-10) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
 | 🔴 Hamster | $0.000034 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
-| 🟡 Forget | $0.000007 | **1.41x** ($+41) | 1.84x |  | pumpswap | 2026-03-20 01:56 |
+| 🟡 Forget | $0.000007 | **1.34x** ($+34) | 1.84x |  | pumpswap | 2026-03-20 01:56 |
 | 🟡 tetanus | $0.000012 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 01:51 |
 | 🔴 GPD | $0.000009 | **0.89x** ($-11) | 1.27x |  | pumpswap | 2026-03-20 01:51 |
 | 🟡 Freebuff | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:50 |

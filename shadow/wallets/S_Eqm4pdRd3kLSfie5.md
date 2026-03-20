@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 19:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 19:40 UTC
 
 ## Summary
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Forget | $0.000008 | **1.22x** ($+22) | 1.59x |  | pumpswap | 2026-03-20 19:24 |
-| 🟡 Collin | $0.000006 | **1.39x** ($+39) | 2.79x | ✅ | pumpfun | 2026-03-20 19:18 |
+| 🟡 Forget | $0.000008 | **1.16x** ($+16) | 1.59x |  | pumpswap | 2026-03-20 19:24 |
+| 🟡 Collin | $0.000006 | **1.44x** ($+44) | 2.79x | ✅ | pumpfun | 2026-03-20 19:18 |
 | 🟡 Massive | $0.000029 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 Sunshine | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
 | 🟡 SBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:34 |
@@ -29,7 +29,7 @@
 | 🟡 EmH4y6zA | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 PVC | $0.000008 | **1.55x** ($+55) | 1.69x |  | pumpfun | 2026-03-20 03:18 |
 | 🔴 imagineslop | $0.000009 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 02:11 |
-| 🔴 IShowSpeed | $0.000013 | **0.80x** ($-20) | 1.53x |  | pumpswap | 2026-03-20 02:02 |
+| 🔴 IShowSpeed | $0.000013 | **0.84x** ($-16) | 1.53x |  | pumpswap | 2026-03-20 02:02 |
 
 ## Closed Positions
 

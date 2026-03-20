@@ -1,6 +1,6 @@
 # Wallet: `9vXjRRVfmw3cHJFrxirog5oEZrMg7CChs4Hst668wCUM`
 
-> [GMGN](https://gmgn.ai/sol/address/9vXjRRVfmw3cHJFrxirog5oEZrMg7CChs4Hst668wCUM) | [Solscan](https://solscan.io/account/9vXjRRVfmw3cHJFrxirog5oEZrMg7CChs4Hst668wCUM) | Updated: 2026-03-20 19:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/9vXjRRVfmw3cHJFrxirog5oEZrMg7CChs4Hst668wCUM) | [Solscan](https://solscan.io/account/9vXjRRVfmw3cHJFrxirog5oEZrMg7CChs4Hst668wCUM) | Updated: 2026-03-20 19:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-2** |
+| 📦 Unrealized | $+3 |
+| 🏦 Total | **$+3** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Lana | $0.000030 | **0.98x** ($-2) | 1.11x |  | pumpswap | 2026-03-20 19:15 |
+| 🟡 Lana | $0.000030 | **1.03x** ($+3) | 1.11x |  | pumpswap | 2026-03-20 19:15 |
 | 🟡 cigarette | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
 
 ## Closed Positions

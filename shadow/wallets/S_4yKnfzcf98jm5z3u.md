@@ -1,16 +1,16 @@
 # Wallet: `4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH`
 
-> [GMGN](https://gmgn.ai/sol/address/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | [Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 19:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | [Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 19:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (3 open, 3 closed) |
+| Positions | 7 (4 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-131** |
+| 📦 Unrealized | $-26 |
+| 🏦 Total | **$-149** |
 | Best ROI | 0.98x |
 | Avg ROI | 0.59x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 OpenRocket | $0.000007 | **0.82x** ($-18) | 1.06x |  | pumpfun | 2026-03-20 19:37 |
 | 🟡 Nonchalant | $0.000011 | **1.06x** ($+6) | 1.10x |  | pumpfun | 2026-03-20 18:41 |
 | 🔴 PIZZA | $0.000009 | **0.88x** ($-12) | 1.12x |  | pumpfun | 2026-03-20 16:53 |
 | 🔴 Oracle | $0.000007 | **0.98x** ($-2) | 1.45x |  | pumpfun | 2026-03-20 13:57 |

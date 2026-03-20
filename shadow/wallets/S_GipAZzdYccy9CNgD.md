@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 19:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 19:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (12 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-84 |
-| 📦 Unrealized | $+253 |
-| 🏦 Total | **$+169** |
+| 📦 Unrealized | $+314 |
+| 🏦 Total | **$+230** |
 | Best ROI | 0.80x |
 | Avg ROI | 0.58x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 YINYANG | $0.000014 | **1.01x** ($+1) | 1.61x |  | cpmm | 2026-03-20 19:31 |
+| 🟡 YINYANG | $0.000014 | **1.60x** ($+60) | 1.71x |  | cpmm | 2026-03-20 19:31 |
 | 🔴 i | $0.000011 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 18:13 |
-| 🟡 IShowSpeed | $0.000008 | **1.22x** ($+22) | 2.31x | ✅ | pumpswap | 2026-03-20 17:26 |
+| 🟡 IShowSpeed | $0.000008 | **1.27x** ($+27) | 2.31x | ✅ | pumpswap | 2026-03-20 17:26 |
 | 🟡 unemployed | $0.000006 | **1.32x** ($+32) | 1.33x |  | pumpswap | 2026-03-20 17:23 |
 | 🟡 TGR | $0.000008 | **1.05x** ($+5) | 1.15x |  | pumpfun | 2026-03-20 16:14 |
 | 🟡 Monke | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:43 |

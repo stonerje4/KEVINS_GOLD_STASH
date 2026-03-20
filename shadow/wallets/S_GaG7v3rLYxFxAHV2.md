@@ -1,24 +1,23 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 19:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 19:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (8 open, 3 closed) |
-| W/L | 2/1 (67%) |
-| 💵 Realized | $-6 |
-| 📦 Unrealized | $-90 |
-| 🏦 Total | **$-96** |
+| Positions | 11 (7 open, 4 closed) |
+| W/L | 2/2 (50%) |
+| 💵 Realized | $-66 |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$-100** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.98x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 MOONER | $0.000006 | **0.44x** ($-56) | 1.27x |  | pumpfun | 2026-03-20 19:33 |
 | 🟡 CRAFT | $0.000030 | **1.19x** ($+19) | 1.22x |  | pumpswap | 2026-03-20 18:45 |
 | 🔴 Merlin | $0.000007 | **0.48x** ($-52) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 SNIFFER | $0.000023 | **1.37x** ($+37) | 2.46x | ✅ | pumpfun | 2026-03-20 12:59 |
@@ -31,6 +30,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 MOONER | 0.40x | $-60 | stop_loss | 1.27x | pumpfun | 2026-03-20 19:33 → 2026-03-20 19:36 |
 | 🔴 Judy | 0.36x | $-64 | stop_loss | 1.45x | pumpfun | 2026-03-20 11:55 → 2026-03-20 18:53 |
 | 🟡 Pixel | 1.09x | $+9 | trailing_stop_4x | 4.35x | pumpfun | 2026-03-20 03:39 → 2026-03-20 16:38 |
 | 🟡 credit | 1.49x | $+49 | trailing_stop_4x | 3.64x | pumpfun | 2026-03-20 03:03 → 2026-03-20 03:14 |
