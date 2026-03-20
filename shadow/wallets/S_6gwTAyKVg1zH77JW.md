@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:14 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 101 (99 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $+89 |
-| 🏦 Total | **$+327** |
+| 📦 Unrealized | $+84 |
+| 🏦 Total | **$+323** |
 | Best Trade | 2.9x |
 | Avg Peak | 6.2x |
 
@@ -21,8 +21,8 @@
 | 🟡 APES | $0.000172 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:14 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 wallahi | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:06 |
-| 🟡 AFC | $0.000005 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-20 03:03 |
-| 🟡 Wob | $0.000019 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 03:02 |
+| 🟡 AFC | $0.000005 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 03:03 |
+| 🟡 Wob | $0.000019 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-20 03:02 |
 | 🟡 Hamster | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:54 |
 | 🟡 Snorp | $0.000213 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 SNDK | $0.000007 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 02:47 |
@@ -90,7 +90,7 @@
 | 🔴 UFO | $0.000105 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-19 23:46 |
 | 🟡 Solana | $0.000187 | **1.03x** ($+3) | 1.19x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 bio/acc | $0.000018 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-19 23:41 |
-| 🟡 OILINU | $0.000089 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-19 23:38 |
+| 🔴 OILINU | $0.000089 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-19 23:38 |
 | 🟢 唐子兵法 | $0.001340 | **3.26x** ($+226) | 3.38x | ✅ | pumpswap | 2026-03-19 23:38 |
 | 🟡 XAI | $0.000162 | **1.62x** ($+62) | 2.08x | ✅ | pumpswap | 2026-03-19 23:36 |
 | 🟡 XAIC | $0.000191 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-19 23:30 |

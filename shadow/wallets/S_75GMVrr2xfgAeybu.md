@@ -1,18 +1,18 @@
 # Wallet: `75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF`
 
-> [View on Solscan](https://solscan.io/account/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | Updated: 2026-03-20 03:14 UTC
+> [View on Solscan](https://solscan.io/account/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | Updated: 2026-03-20 03:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-60 |
+| Positions | 4 (2 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $+124 |
 | 📦 Unrealized | $+13 |
-| 🏦 Total | **$-48** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| 🏦 Total | **$+137** |
+| Best Trade | 2.8x |
+| Avg Peak | 3.4x |
 
 ## Open Positions
 
@@ -25,6 +25,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟢 Pls | 2.85x | $+185 | trailing_stop_6x | 5.57x | pumpfun | 2026-03-20 03:18 → 2026-03-20 03:19 |
 | 🔴 CHANNELS | 0.40x | $-60 | stop_loss | 1.17x | pumpfun | 2026-03-20 02:17 → 2026-03-20 02:18 |
 
 ---

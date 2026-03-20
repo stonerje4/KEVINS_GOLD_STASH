@@ -1,16 +1,16 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 03:14 UTC
+> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 03:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (15 open, 3 closed) |
+| Positions | 19 (16 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-99 |
-| 📦 Unrealized | $-17 |
-| 🏦 Total | **$-116** |
+| 📦 Unrealized | $-14 |
+| 🏦 Total | **$-113** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.3x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PVC | $0.000008 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 03:18 |
 | 🟡 ShowMore | $0.000004 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 02:12 |
 | 🔴 imagineslop | $0.000009 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 02:11 |
 | 🔴 IMAGINE | $0.000003 | **0.88x** ($-12) | 1.06x |  | pumpfun | 2026-03-20 02:07 |
