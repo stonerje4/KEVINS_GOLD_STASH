@@ -9,16 +9,16 @@
 | Positions | 11 (10 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+196 |
-| 📦 Unrealized | $+134 |
-| 🏦 Total | **$+330** |
-| Best Trade | 3.0x |
-| Avg Peak | 5.4x |
+| 📦 Unrealized | $+140 |
+| 🏦 Total | **$+335** |
+| Best ROI | 2.96x |
+| Avg ROI | 2.96x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Miki | $0.000008 | **1.82x** ($+82) | 2.12x | ✅ | pumpfun | 2026-03-20 13:21 |
+| 🟡 Miki | $0.000008 | **1.94x** ($+94) | 2.12x | ✅ | pumpfun | 2026-03-20 13:21 |
 | 🟡 菲比啾比 | $0.000012 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 12:43 |
 | 🟡 CHIBI | $0.000011 | **1.36x** ($+36) | 2.07x | ✅ | pumpfun | 2026-03-20 10:36 |
 | 🟡 Bispider | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:53 |

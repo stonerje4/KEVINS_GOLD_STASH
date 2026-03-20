@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 118 (116 open, 2 closed) |
+| Positions | 119 (117 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
 | 📦 Unrealized | $+33 |
 | 🏦 Total | **$-104** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 MINDLESS | $0.000174 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:39 |
 | 🟡 house | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
 | 🟡 TFW | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:35 |
