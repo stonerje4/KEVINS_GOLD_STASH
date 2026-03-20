@@ -1,6 +1,6 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 10:01 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 10:06 UTC
 
 ## Summary
 
@@ -24,7 +24,7 @@
 | 🔴 62fRErwW | $0.000005 | **0.54x** ($-46) | 1.22x |  | pumpfun | 2026-03-20 08:55 |
 | 🔴 4a4ziM4d | $0.000006 | **0.45x** ($-55) | 1.47x |  | pumpfun | 2026-03-20 08:49 |
 | 🔴 pisscoin | $0.000004 | **0.66x** ($-34) | 1.31x |  | pumpfun | 2026-03-20 08:48 |
-| 🔴 genocide | $0.000005 | **0.47x** ($-53) | 1.14x |  | pumpfun | 2026-03-20 07:51 |
+| 🔴 genocide | $0.000005 | **0.48x** ($-52) | 1.14x |  | pumpfun | 2026-03-20 07:51 |
 | 🔴 PEPE | $0.000005 | **0.50x** ($-50) | 1.18x |  | pumpfun | 2026-03-20 07:31 |
 | 🔴 Chipe | $0.000003 | **0.77x** ($-23) | 1.98x |  | pumpfun | 2026-03-20 07:28 |
 | 🔴 CHIBILON | $0.000007 | **0.50x** ($-50) | 1.14x |  | pumpfun | 2026-03-20 07:16 |

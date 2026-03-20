@@ -1,6 +1,6 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 10:01 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 10:06 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:33 |
-| 🟡 OSP | $0.000003 | **1.11x** ($+11) | 1.14x |  | pumpfun | 2026-03-20 09:31 |
+| 🟡 OSP | $0.000003 | **1.10x** ($+10) | 1.14x |  | pumpfun | 2026-03-20 09:31 |
 | 🟡 LNG | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 08:25 |
 | 🔴 LNG | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 08:18 |
 | 🟡 USI | $0.000003 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 07:49 |

@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 10:01 UTC
+> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 10:06 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (18 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-115 |
-| 📦 Unrealized | $-22 |
-| 🏦 Total | **$-137** |
+| 📦 Unrealized | $-20 |
+| 🏦 Total | **$-135** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.3x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Kin-kun | $0.000007 | **0.84x** ($-16) | 1.25x |  | pumpfun | 2026-03-20 09:35 |
-| 🟡 SUNSHINE | $0.000004 | **1.06x** ($+6) | 1.15x |  | pumpfun | 2026-03-20 08:07 |
+| 🔴 Kin-kun | $0.000007 | **0.86x** ($-14) | 1.25x |  | pumpfun | 2026-03-20 09:35 |
+| 🟡 SUNSHINE | $0.000004 | **1.07x** ($+7) | 1.15x |  | pumpfun | 2026-03-20 08:07 |
 | 🟡 PVC | $0.000008 | **1.04x** ($+4) | 1.06x |  | pumpfun | 2026-03-20 03:18 |
 | 🟡 ShowMore | $0.000004 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 02:12 |
 | 🔴 imagineslop | $0.000009 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 02:11 |

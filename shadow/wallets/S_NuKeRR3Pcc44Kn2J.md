@@ -1,6 +1,6 @@
 # Wallet: `NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv`
 
-> [View on Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 10:01 UTC
+> [View on Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 10:06 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-22 |
-| 🏦 Total | **$-83** |
+| 📦 Unrealized | $-23 |
+| 🏦 Total | **$-84** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -21,7 +21,7 @@
 | 🟡 TOKEN | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:12 |
 | 🟡 wolverine | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:05 |
 | 🔴 chibilon | $0.000004 | **0.89x** ($-11) | 1.10x |  | pumpfun | 2026-03-20 07:35 |
-| 🔴 IMAGINE  | $0.000007 | **0.42x** ($-58) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
+| 🔴 IMAGINE  | $0.000007 | **0.41x** ($-59) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🟡 IMAGINE | $0.000019 | **1.50x** ($+50) | 1.71x |  | pumpfun | 2026-03-20 02:43 |
 | 🟡 DICKUS | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:00 |
 | 🟡 JACKPOT | $0.000080 | **1.01x** ($+1) | 1.08x |  | pumpswap | 2026-03-20 01:56 |

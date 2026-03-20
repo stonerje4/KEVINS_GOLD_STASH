@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 10:01 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 10:06 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 48 (27 open, 21 closed) |
 | W/L | 0/21 (0%) |
 | 💵 Realized | $-1,102 |
-| 📦 Unrealized | $-301 |
-| 🏦 Total | **$-1,403** |
+| 📦 Unrealized | $-289 |
+| 🏦 Total | **$-1,390** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Doolysaurus | $0.000006 | **1.17x** ($+17) | 1.22x |  | pumpfun | 2026-03-20 09:52 |
+| 🟡 Doolysaurus | $0.000006 | **1.29x** ($+29) | 1.32x |  | pumpfun | 2026-03-20 09:52 |
 | 🔴 我的猪盾 | $0.000006 | **0.47x** ($-53) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 IMAGINE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |

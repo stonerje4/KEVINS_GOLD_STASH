@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 10:01 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 10:06 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+87 |
-| 🏦 Total | **$+87** |
+| 📦 Unrealized | $+106 |
+| 🏦 Total | **$+106** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
-| 🟡 effect | $0.000017 | **1.49x** ($+49) | 1.65x |  | pumpfun | 2026-03-20 09:51 |
+| 🟡 effect | $0.000017 | **1.67x** ($+67) | 1.68x |  | pumpfun | 2026-03-20 09:51 |
 | 🟡 CHIBI | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:50 |
 | 🟡 Zhdun | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:33 |
 | 🟢 SIGNAL | $0.000018 | **2.03x** ($+103) | 2.03x | ✅ | pumpfun | 2026-03-20 09:28 |

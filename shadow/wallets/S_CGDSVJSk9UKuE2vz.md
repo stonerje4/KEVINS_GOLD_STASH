@@ -1,16 +1,16 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 10:01 UTC
+> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 10:06 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (18 open, 2 closed) |
+| Positions | 21 (19 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-160 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$-132** |
+| 📦 Unrealized | $+27 |
+| 🏦 Total | **$-134** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 B | $0.000051 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 10:05 |
 | 🟡 Solmaxxing | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:49 |
 | 🔴 HODL | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 09:02 |
 | 🟡 Bonkyo | $0.000021 | **1.01x** ($+1) | 1.01x |  | cpmm | 2026-03-20 09:00 |
@@ -25,10 +26,10 @@
 | 🟡 LYN | $0.000055 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 04:53 |
 | 🟡 pepeto | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:43 |
 | 🔴 IMAGINE | $0.000002 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 04:27 |
-| 🟡 TTT | $0.000073 | **1.25x** ($+25) | 2.14x | ✅ | pumpswap | 2026-03-20 04:25 |
+| 🟡 TTT | $0.000073 | **1.24x** ($+24) | 2.14x | ✅ | pumpswap | 2026-03-20 04:25 |
 | 🟡 Grokipedia | $0.000016 | **1.02x** ($+2) | 1.09x |  | pumpswap | 2026-03-20 04:09 |
 | 🔴 FIREBALL | $0.000018 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 04:01 |
-| 🔴 GMESHIRE | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
+| 🔴 GMESHIRE | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 HIMS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 nl | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
 | 🔴 WBE | $0.000009 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
