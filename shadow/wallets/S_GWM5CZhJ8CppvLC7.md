@@ -9,16 +9,16 @@
 | Positions | 108 (107 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-106** |
-| Best Trade | 0.2x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $-28 |
+| 🏦 Total | **$-105** |
+| Best ROI | 0.23x |
+| Avg ROI | 0.23x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 fine999.9 | $0.001312 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 11:47 |
+| 🟡 fine999.9 | $0.001312 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 11:47 |
 | 🟡 TERAFAB | $0.000290 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
 | 🟡 testicle | $0.008017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:23 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
