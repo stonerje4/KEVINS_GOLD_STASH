@@ -1,0 +1,62 @@
+# [PRD] `2w85VLX4W4qm8SPS...`
+> 2026-03-20 14:10 UTC | **16** pos | **2W/11L** | P&L: **-3.292236 SOL** (-55.9%) | 3 open
+
+## Open
+
+| Token | Entry | Current | Peak | Age | SOL In |
+|-------|-------|---------|------|-----|--------|
+| NOR | 03-20 14:09 | 0.00x | 1.03x | 0.0h | 0.1100 |
+| awkward | 03-20 13:40 | 0.00x | 1.29x | 0.5h | 0.1100 |
+| FOID | 03-20 13:38 | 0.00x | 1.18x | 0.5h | 0.1100 |
+
+## Closed
+
+| Token | Result | Entry | Peak | Exit | P&L | Reason |
+|-------|--------|-------|------|------|-----|--------|
+| ✅ CHUCK | +0.0272 | 03-20 13:55 | 2.8x | 03-20 13:57 | 0.1372/0.1100 | trail |
+| ❌ Genesis-2 | -0.2800 | 03-19 13:39 | 1.2x | 03-19 17:52 | 0.0000/0.2800 | manual_sell_phantom |
+| ❌ HE-GASSEN | -0.5000 | 03-19 11:48 | 1.2x | 03-19 17:52 | 0.0000/0.5000 | manual_sell_phantom |
+| ❌ Raccoon | -0.5000 | 03-19 11:33 | 1.2x | 03-19 17:52 | 0.0000/0.5000 | manual_sell_phantom |
+| ❌ Garbonzo | -0.3032 | 03-19 11:19 | 1.0x | 03-19 14:17 | 0.1968/0.5000 | SL |
+| ❌ Genesis-2 | -0.3068 | 03-19 08:58 | 1.1x | 03-19 09:07 | 0.1932/0.5000 | SL |
+| ❌ RUSH | -0.3076 | 03-18 22:08 | 1.7x | 03-18 23:09 | 0.1924/0.5000 | SL |
+| ✅ HIM | +0.8245 | 03-18 21:25 | 3.0x | 03-19 02:38 | 1.3245/0.5000 | trail |
+| ❌ Tincat | -0.3009 | 03-18 20:46 | 1.7x | 03-19 10:28 | 0.1991/0.5000 | SL |
+| ❌ ? | -0.5000 | 03-18 20:43 | 1.6x | 03-18 21:14 | 0.0000/0.5000 | gc_zero_balance |
+| ❌ METAMEME | -0.5000 | 03-18 20:18 | 1.2x | 03-18 21:14 | 0.0000/0.5000 | gc_zero_balance |
+| ❌ Type | -0.3207 | 03-18 20:13 | 1.3x | 03-19 15:43 | 0.1793/0.5000 | SL |
+| ❌ ? | -0.3247 | 03-18 20:09 | 1.0x | 03-18 20:12 | 0.1753/0.5000 | SL |
+
+<details><summary>📋 Full Trade Log</summary>
+
+| Time | Token | Action | SOL | TX |
+|------|-------|--------|-----|----|
+| 03-20 14:09 | NOR | BUY | 0.1100 | `3EwUKHqSWjdJL8kL...` |
+| 03-20 13:57 | CHUCK | SELL | 0.0787 | `tJhkK1XZUppyRhKN...` |
+| 03-20 13:55 | CHUCK | SELL | 0.0585 | `5SWiMaenJTnKnf8r...` |
+| 03-20 13:55 | CHUCK | BUY | 0.1100 | `5vF75XSLHDLTuFA5...` |
+| 03-20 13:40 | awkward | BUY | 0.1100 | `4qao5VYKFph3je4K...` |
+| 03-20 13:38 | FOID | BUY | 0.1100 | `3xybviyYesj2na3K...` |
+| 03-19 15:43 | Type | SELL | 0.1793 | `tGpmEciN21P4mmhm...` |
+| 03-19 14:17 | Garbonzo | SELL | 0.1968 | `eJ5835ZE125PWudu...` |
+| 03-19 13:39 | Genesis-2 | BUY | 0.2800 | `2BLDzYi1nSf6D4tL...` |
+| 03-19 11:48 | HE-GASSEN | BUY | 0.5000 | `ftox9ZfpYH9cZVHe...` |
+| 03-19 11:33 | Raccoon | BUY | 0.5000 | `3b2z9mYEhmWL93ps...` |
+| 03-19 11:19 | Garbonzo | BUY | 0.5000 | `5cscvkeBa3tm1DFT...` |
+| 03-19 10:28 | Tincat | SELL | 0.1991 | `2uRWmfHCLhuer5Lc...` |
+| 03-19 09:07 | Genesis-2 | SELL | 0.1932 | `36j42KgrQRYZbuYN...` |
+| 03-19 08:58 | Genesis-2 | BUY | 0.5000 | `9Xy2Z4BHmJ3vZ1yK...` |
+| 03-19 02:38 | HIM | SELL | 0.6973 | `52ynXXALDp5wytGr...` |
+| 03-18 23:54 | HIM | SELL | 0.3751 | `2DYPFvkQE5SrKHXP...` |
+| 03-18 23:47 | HIM | SELL | 0.2521 | `4NqJt39GeXMYJGK6...` |
+| 03-18 23:09 | RUSH | SELL | 0.1924 | `22uL1Qv5btwgzfEz...` |
+| 03-18 22:08 | RUSH | BUY | 0.5000 | `2pXZrz6wPCpQ7efC...` |
+| 03-18 21:25 | HIM | BUY | 0.5000 | `34GqiN9wLu86rfNu...` |
+| 03-18 20:46 | Tincat | BUY | 0.5000 | `3DVkCJQTcWztZbAr...` |
+| 03-18 20:43 | ? | BUY | 0.5000 | `2dFR17AG5tKAKHfM...` |
+| 03-18 20:18 | METAMEME | BUY | 0.5000 | `5fBqPXh2ZGVennBe...` |
+| 03-18 20:13 | Type | BUY | 0.5000 | `24V1qkyXYCPAJmtP...` |
+| 03-18 20:12 | ? | SELL | 0.1753 | `2xU3eMBxNPigSqKm...` |
+| 03-18 20:09 | ? | BUY | 0.5000 | `3N6KigsqQ3mtS8Ms...` |
+
+</details>
