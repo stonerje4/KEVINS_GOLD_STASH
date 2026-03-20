@@ -1,27 +1,25 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 04:24 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 04:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 31 (25 open, 6 closed) |
-| W/L | 1/5 (17%) |
-| 💵 Realized | $-236 |
-| 📦 Unrealized | $-440 |
-| 🏦 Total | **$-676** |
+| Positions | 31 (23 open, 8 closed) |
+| W/L | 1/7 (12%) |
+| 💵 Realized | $-358 |
+| 📦 Unrealized | $-329 |
+| 🏦 Total | **$-687** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.0x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 94S763Nm | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
-| 🔴 SMCI | $0.000008 | **0.44x** ($-56) | 1.30x |  | pumpfun | 2026-03-20 04:23 |
 | 🔴 Cffkpxmi | $0.000004 | **0.67x** ($-33) | 1.54x |  | pumpfun | 2026-03-20 04:14 |
-| 🔴 CUTIS | $0.000009 | **0.45x** ($-55) | 1.37x |  | pumpfun | 2026-03-20 04:10 |
 | 🔴 Arc | $0.000003 | **0.75x** ($-25) | 1.95x |  | pumpfun | 2026-03-20 04:07 |
 | 🔴 AGzUnMmR | $0.000005 | **0.54x** ($-46) | 1.77x |  | pumpfun | 2026-03-20 03:55 |
 | 🟢 Jeremy | $0.000008 | **4.78x** ($+378) | 4.78x | ✅ | pumpfun | 2026-03-20 03:51 |
@@ -48,8 +46,10 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 SMCI | 0.40x | $-60 | stop_loss | 1.30x | pumpfun | 2026-03-20 04:23 → 2026-03-20 04:25 |
 | 🔴 9yxNfMaA | 0.71x | $-29 | trailing_stop_3x | 2.54x | pumpfun | 2026-03-20 04:16 → 2026-03-20 04:23 |
 | 🔴 hamood | 0.38x | $-62 | stop_loss | 1.35x | pumpfun | 2026-03-20 04:11 → 2026-03-20 04:12 |
+| 🔴 CUTIS | 0.38x | $-62 | stop_loss | 1.37x | pumpfun | 2026-03-20 04:10 → 2026-03-20 04:26 |
 | 🔴 OFFLINE | 0.39x | $-61 | stop_loss | 1.01x | pumpfun | 2026-03-20 03:47 → 2026-03-20 03:47 |
 | 🔴 SINGULARITY | 0.40x | $-60 | stop_loss | 1.25x | pumpfun | 2026-03-20 02:56 → 2026-03-20 02:57 |
 | 🟡 MINKA | 1.36x | $+36 | trailing_stop_4x | 4.16x | pumpfun | 2026-03-20 02:35 → 2026-03-20 02:54 |

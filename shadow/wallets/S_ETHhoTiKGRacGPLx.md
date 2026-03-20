@@ -1,6 +1,6 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 04:24 UTC
+> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 04:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (18 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-98 |
-| 🏦 Total | **$-98** |
+| 📦 Unrealized | $-80 |
+| 🏦 Total | **$-80** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OSP | $0.000004 | **0.58x** ($-42) | 1.00x |  | pumpfun | 2026-03-20 03:00 |
+| 🔴 OSP | $0.000004 | **0.76x** ($-24) | 1.00x |  | pumpfun | 2026-03-20 03:00 |
 | 🔴 Evq4G9ru | $0.000002 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 02:56 |
 | 🔴 CASPER  | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 02:44 |
 | 🟡 NBR | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |

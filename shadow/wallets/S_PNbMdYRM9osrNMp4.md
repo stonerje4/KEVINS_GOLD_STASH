@@ -1,24 +1,23 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 04:24 UTC
+> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 04:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (9 open, 2 closed) |
-| W/L | 1/1 (50%) |
-| 💵 Realized | $-33 |
-| 📦 Unrealized | $-103 |
-| 🏦 Total | **$-136** |
+| Positions | 11 (8 open, 3 closed) |
+| W/L | 1/2 (33%) |
+| 💵 Realized | $-93 |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-146** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.7x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SMCI | $0.000007 | **0.50x** ($-50) | 1.60x |  | pumpfun | 2026-03-20 04:22 |
 | 🟡 SMCI | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:14 |
 | 🔴 Alien | $0.000024 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 02:51 |
 | 🔴 BOAT | $0.000018 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 01:07 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 SMCI | 0.40x | $-60 | stop_loss | 1.60x | pumpfun | 2026-03-20 04:22 → 2026-03-20 04:25 |
 | 🟡 MINKA | 1.45x | $+45 | trailing_stop_4x | 3.93x | pumpfun | 2026-03-20 02:36 → 2026-03-20 02:54 |
 | 🔴 COMPUTE | 0.22x | $-78 | stop_loss | 1.38x | pumpfun | 2026-03-19 23:53 → 2026-03-19 23:53 |
 

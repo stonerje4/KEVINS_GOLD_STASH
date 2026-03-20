@@ -1,6 +1,6 @@
 # Wallet: `8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx`
 
-> [View on Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-20 04:24 UTC
+> [View on Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-20 04:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-68 |
-| 📦 Unrealized | $-9 |
-| 🏦 Total | **$-77** |
+| 📦 Unrealized | $-11 |
+| 🏦 Total | **$-79** |
 | Best Trade | 0.3x |
 | Avg Peak | 1.1x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Rosei | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:24 |
-| 🔴 Mario | $0.000005 | **0.53x** ($-47) | 1.09x |  | pumpfun | 2026-03-20 04:11 |
+| 🔴 Mario | $0.000005 | **0.50x** ($-50) | 1.09x |  | pumpfun | 2026-03-20 04:11 |
 | 🟡 Cow | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:13 |
 | 🟡 retardyahu | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:02 |
 | 🟡 MFT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:20 |

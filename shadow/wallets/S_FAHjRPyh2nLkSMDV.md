@@ -1,24 +1,23 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 04:24 UTC
+> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 04:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (13 open, 1 closed) |
-| W/L | 1/0 (100%) |
-| 💵 Realized | $+495 |
-| 📦 Unrealized | $-78 |
-| 🏦 Total | **$+417** |
+| Positions | 14 (12 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $+433 |
+| 📦 Unrealized | $-40 |
+| 🏦 Total | **$+393** |
 | Best Trade | 5.9x |
-| Avg Peak | 11.1x |
+| Avg Peak | 6.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Floki | $0.000102 | **0.62x** ($-38) | 1.10x |  | pumpswap | 2026-03-20 04:18 |
 | 🟡 IMAGINE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:04 |
 | 🔴 CIRCLES | $0.000061 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 APES | $0.000170 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
@@ -36,6 +35,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Floki | 0.38x | $-62 | stop_loss | 1.10x | pumpswap | 2026-03-20 04:18 → 2026-03-20 04:26 |
 | 🟢 Ham | 5.95x | $+495 | trailing_stop_11x | 11.10x | pumpswap | 2026-03-19 23:52 → 2026-03-20 00:58 |
 
 ---

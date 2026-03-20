@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 04:24 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 04:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 86 (83 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+246 |
-| 🏦 Total | **$+155** |
+| 📦 Unrealized | $+248 |
+| 🏦 Total | **$+158** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -90,12 +90,12 @@
 | 🔴 HOSPICE | $0.000024 | **0.97x** ($-3) | 1.18x |  | pumpswap | 2026-03-19 23:12 |
 | 🔴 NBR | $0.000084 | **0.90x** ($-10) | 1.24x |  | pumpswap | 2026-03-19 23:06 |
 | 🟡 Hamster  | $0.000218 | **1.03x** ($+3) | 1.22x |  | pumpswap | 2026-03-19 23:05 |
-| 🟡 Island | $0.000035 | **1.19x** ($+19) | 1.20x |  | pumpswap | 2026-03-19 23:02 |
+| 🟡 Island | $0.000035 | **1.22x** ($+22) | 1.27x |  | pumpswap | 2026-03-19 23:02 |
 | 🟡 ケイジ | $0.000090 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 PIKAHORSE | $0.000373 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 MIROFISH | $0.000032 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 22:58 |
 | 🟡 Noesis | $0.000346 | **1.00x** ($+0) | 1.05x |  | pumpswap | 2026-03-19 22:58 |
-| 🟡 67 | $0.001147 | **1.08x** ($+8) | 1.11x |  | pumpswap | 2026-03-19 22:56 |
+| 🟡 67 | $0.001147 | **1.09x** ($+9) | 1.11x |  | pumpswap | 2026-03-19 22:56 |
 | 🔴 OXIDE | $0.000037 | **0.77x** ($-23) | 1.15x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 5 | $0.000011 | **0.89x** ($-11) | 1.12x |  | pumpswap | 2026-03-19 22:47 |
 | 🟡 TGR | $0.000104 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-19 22:43 |
