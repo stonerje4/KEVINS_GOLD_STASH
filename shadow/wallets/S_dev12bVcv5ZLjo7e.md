@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 01:54 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 01:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (20 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$+49** |
+| 📦 Unrealized | $-1 |
+| 🏦 Total | **$+44** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Dinergoth | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 01:41 |
 | 🟡 WBEgjEf5 | $0.000003 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 01:41 |
-| 🔴 Chibiusa | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 01:36 |
+| 🔴 Chibiusa | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 01:36 |
 | 🟡 MiMo | $0.000004 | **1.03x** ($+3) | 1.09x |  | pumpfun | 2026-03-20 01:34 |
 | 🔴 Hyperskill | $0.000003 | **0.86x** ($-14) | 1.06x |  | pumpfun | 2026-03-20 01:33 |
 | 🔴 FTR | $0.000005 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 00:51 |

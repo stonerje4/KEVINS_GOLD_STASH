@@ -1,6 +1,6 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 01:54 UTC
+> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 01:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-78 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-97** |
+| 📦 Unrealized | $-15 |
+| 🏦 Total | **$-93** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.4x |
 
@@ -22,7 +22,7 @@
 | 🔴 DORO | $0.000005 | **0.73x** ($-27) | 1.19x |  | pumpfun | 2026-03-20 00:46 |
 | 🟡 Futa-kun | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 00:00 |
 | 🔴 TRASHBAG | $0.000009 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-19 23:41 |
-| 🔴 Strawberita | $0.000052 | **0.96x** ($-4) | 1.61x |  | pumpswap | 2026-03-19 23:17 |
+| 🟡 Strawberita | $0.000052 | **1.01x** ($+1) | 1.61x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 WhiteBoy  | $0.000022 | **0.80x** ($-20) | 1.06x |  | pumpswap | 2026-03-19 23:06 |
 
 ## Closed Positions

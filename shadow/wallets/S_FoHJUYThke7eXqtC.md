@@ -1,16 +1,16 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 01:54 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 01:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (11 open, 0 closed) |
+| Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$+29** |
+| 📦 Unrealized | $+31 |
+| 🏦 Total | **$+31** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NASDOG | $0.000003 | **1.02x** ($+2) | 1.10x |  | pumpfun | 2026-03-20 01:57 |
 | 🔴 NOSTALGIA | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 01:22 |
 | 🔴 RQR | $0.000003 | **0.85x** ($-15) | 1.05x |  | pumpfun | 2026-03-20 00:46 |
 | 🔴 HAOSHI | $0.000003 | **0.88x** ($-12) | 1.05x |  | pumpfun | 2026-03-20 00:45 |

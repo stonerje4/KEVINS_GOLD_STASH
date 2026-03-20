@@ -1,29 +1,29 @@
-# Wallet: `Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E`
+# Wallet: `7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4`
 
-> [View on Solscan](https://solscan.io/account/Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E) | Updated: 2026-03-20 01:59 UTC
+> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 01:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-1 |
-| 🏦 Total | **$-1** |
+| Positions | 1 (0 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-99 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-99** |
 | Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 RYS | $0.000351 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-19 22:50 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 AIKEK | 0.01x | $-99 | stop_loss | 1.00x | cpmm | 2026-03-20 01:57 → 2026-03-20 01:57 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
