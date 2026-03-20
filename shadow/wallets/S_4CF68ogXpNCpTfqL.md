@@ -1,12 +1,12 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 04:09 UTC
+> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 04:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (7 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-20 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Optimistic | $0.000763 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:11 |
 | 🟡 Nigel | $0.000296 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
 | 🔴 Momo-chan | $0.000359 | **0.86x** ($-14) | 1.03x |  | pumpswap | 2026-03-20 01:51 |
 | 🟡 HeavyPulp | $0.000753 | **1.23x** ($+23) | 1.23x |  | pumpswap | 2026-03-19 23:44 |

@@ -1,16 +1,16 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 04:09 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 04:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 69 (58 open, 11 closed) |
+| Positions | 70 (59 open, 11 closed) |
 | W/L | 0/11 (0%) |
 | 💵 Realized | $-533 |
-| 📦 Unrealized | $+218 |
-| 🏦 Total | **$-314** |
+| 📦 Unrealized | $+257 |
+| 🏦 Total | **$-276** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,11 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 HUGH | $0.000147 | **1.19x** ($+19) | 1.27x |  | pumpswap | 2026-03-20 04:13 |
 | 🟡 KIWI | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:00 |
 | 🟡 3EYES | $0.000051 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:58 |
-| 🟡 fine999.9 | $0.000118 | **1.63x** ($+63) | 1.82x |  | pumpswap | 2026-03-20 03:57 |
+| 🟡 fine999.9 | $0.000118 | **1.83x** ($+83) | 1.84x |  | pumpswap | 2026-03-20 03:57 |
 | 🟡 forg | $0.000101 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
-| 🟡 mogging | $0.000049 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:42 |
+| 🟡 mogging | $0.000049 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 Solana | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🔴 Floki | $0.000134 | **0.90x** ($-10) | 1.46x |  | pumpswap | 2026-03-20 03:31 |
