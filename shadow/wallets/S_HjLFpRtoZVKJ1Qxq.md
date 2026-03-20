@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 00:39 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 00:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 28 (28 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-4 |
-| 🏦 Total | **$-4** |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-22** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,17 +20,17 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 buddy | $0.000309 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-20 00:37 |
 | 🔴 SOBAT | $0.000116 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 00:26 |
-| 🟡 CatFu | $0.000324 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-20 00:17 |
-| 🔴 UFO | $0.000107 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 00:17 |
-| 🔴 KIWI | $0.000161 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 00:17 |
-| 🔴 MHGA | $0.000125 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 00:16 |
+| 🔴 CatFu | $0.000324 | **1.00x** ($-0) | 1.01x |  | pumpswap | 2026-03-20 00:17 |
+| 🔴 UFO | $0.000107 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 00:17 |
+| 🔴 KIWI | $0.000161 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 00:17 |
+| 🔴 MHGA | $0.000125 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 00:16 |
 | 🔴 FAFO | $0.000019 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 00:16 |
-| 🟡 wallahi | $0.000034 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-20 00:15 |
-| 🔴 Peace  | $0.000685 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 00:12 |
+| 🟡 wallahi | $0.000034 | **1.05x** ($+5) | 1.07x |  | pumpswap | 2026-03-20 00:15 |
+| 🔴 Peace  | $0.000685 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 00:12 |
 | 🔴 bio/acc | $0.000017 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-20 00:09 |
-| 🔴 Aliens | $0.000809 | **0.95x** ($-5) | 1.02x |  | pumpswap | 2026-03-20 00:06 |
-| 🔴 Spawn | $0.000138 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 00:02 |
-| 🟡 NETANYAHU | $0.000090 | **1.05x** ($+5) | 1.28x |  | pumpswap | 2026-03-19 23:57 |
+| 🔴 Aliens | $0.000809 | **0.86x** ($-14) | 1.02x |  | pumpswap | 2026-03-20 00:06 |
+| 🔴 Spawn | $0.000138 | **1.00x** ($-0) | 1.04x |  | pumpswap | 2026-03-20 00:02 |
+| 🟡 NETANYAHU | $0.000090 | **1.04x** ($+4) | 1.28x |  | pumpswap | 2026-03-19 23:57 |
 | 🟡 CEO | $0.000077 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-19 23:50 |
 | 🔴 Life | $0.000182 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 ACV | $0.000002 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:44 |

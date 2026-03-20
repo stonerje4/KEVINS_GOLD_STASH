@@ -1,6 +1,6 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 00:39 UTC
+> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 00:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-21 |
-| 📦 Unrealized | $+56 |
-| 🏦 Total | **$+35** |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$-25** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.2x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 FARTBUTT | $0.000005 | **1.64x** ($+64) | 1.64x |  | pumpfun | 2026-03-20 00:37 |
-| 🟡 Trollbot | $0.000008 | **1.84x** ($+84) | 1.95x |  | pumpfun | 2026-03-20 00:32 |
+| 🟡 FARTBUTT | $0.000005 | **1.46x** ($+46) | 2.52x | ✅ | pumpfun | 2026-03-20 00:37 |
+| 🟢 Trollbot | $0.000008 | **2.30x** ($+130) | 2.56x | ✅ | pumpfun | 2026-03-20 00:32 |
 | 🟡 GIB | $0.000006 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-19 23:57 |
 | 🔴 47jCjmv1 | $0.000004 | **0.68x** ($-32) | 1.22x |  | pumpfun | 2026-03-19 23:49 |
 | 🔴 Massive | $0.000006 | **0.41x** ($-59) | 1.00x |  | pumpfun | 2026-03-19 23:40 |

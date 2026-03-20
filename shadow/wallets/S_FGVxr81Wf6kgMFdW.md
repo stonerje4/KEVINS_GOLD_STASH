@@ -1,16 +1,16 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 00:39 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 00:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (7 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+83 |
-| 🏦 Total | **$+83** |
+| 📦 Unrealized | $+95 |
+| 🏦 Total | **$+95** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FLAG | $0.000003 | **1.12x** ($+12) | 1.12x |  | pumpfun | 2026-03-20 00:40 |
 | 🟡 OSP | $0.000004 | **1.01x** ($+1) | 1.14x |  | pumpfun | 2026-03-20 00:34 |
 | 🟡 BNB | $0.000003 | **1.29x** ($+29) | 1.35x |  | pumpfun | 2026-03-20 00:24 |
 | 🟡 BGNzSZYh | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 00:03 |

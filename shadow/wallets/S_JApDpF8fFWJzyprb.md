@@ -1,6 +1,6 @@
 # Wallet: `JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd`
 
-> [View on Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-20 00:39 UTC
+> [View on Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-20 00:44 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+16 |
-| 🏦 Total | **$+16** |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$+15** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
