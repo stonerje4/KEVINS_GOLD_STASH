@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 22:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 22:55 UTC
 
 ## Summary
 
@@ -23,11 +23,11 @@
 | 🔴 ROUNDHOUSE | $0.000009 | **0.49x** ($-51) | 1.33x |  | pumpswap | 2026-03-20 19:29 |
 | 🟡 Lana | $0.000021 | **1.32x** ($+32) | 1.78x |  | pumpfun | 2026-03-20 17:04 |
 | 🟡 Lana | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:48 |
-| 🟢 LIBERTY | $0.000027 | **2.07x** ($+107) | 3.63x | ✅ | pumpswap | 2026-03-20 16:18 |
+| 🟢 LIBERTY | $0.000027 | **2.08x** ($+108) | 3.63x | ✅ | pumpswap | 2026-03-20 16:18 |
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.80x |  | pumpswap | 2026-03-20 15:43 |
 | 🔴 LEE | $0.000008 | **0.63x** ($-37) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
-| 🔴 Hermes | $0.000026 | **0.82x** ($-18) | 1.09x |  | pumpswap | 2026-03-20 11:26 |
+| 🔴 Hermes | $0.000026 | **0.81x** ($-19) | 1.09x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 ANIME | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:50 |
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🔴 CHIBI | $0.000031 | **0.46x** ($-54) | 1.00x |  | pumpswap | 2026-03-20 09:50 |

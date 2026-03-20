@@ -1,18 +1,18 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 22:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 22:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (13 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-146 |
-| 📦 Unrealized | $+197 |
-| 🏦 Total | **$+50** |
-| Best ROI | 0.80x |
-| Avg ROI | 0.51x |
+| Positions | 16 (12 open, 4 closed) |
+| W/L | 1/3 (25%) |
+| 💵 Realized | $-101 |
+| 📦 Unrealized | $+163 |
+| 🏦 Total | **$+62** |
+| Best ROI | 1.46x |
+| Avg ROI | 0.75x |
 
 ## Open Positions
 
@@ -26,10 +26,9 @@
 | 🟡 TGR | $0.000008 | **1.05x** ($+5) | 1.15x |  | pumpfun | 2026-03-20 16:14 |
 | 🔴 Monke | $0.000009 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
 | 🟡 OSP | $0.000019 | **1.30x** ($+30) | 1.43x |  | pumpfun | 2026-03-20 05:22 |
-| 🟡 Samba | $0.000006 | **1.81x** ($+81) | 3.28x | ✅ | pumpswap | 2026-03-20 05:14 |
 | 🟡 UOR | $0.000035 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 SHOENICE  | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
-| 🟢 WRT | $0.000007 | **2.16x** ($+116) | 4.62x | ✅ | pumpswap | 2026-03-20 00:59 |
+| 🟢 WRT | $0.000007 | **2.12x** ($+112) | 4.62x | ✅ | pumpswap | 2026-03-20 00:59 |
 | 🟡 NICKELS | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:57 |
 
 ## Closed Positions
@@ -37,6 +36,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 PunchDeng | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 22:18 → 2026-03-20 22:24 |
+| 🟡 Samba | 1.46x | $+46 | trailing_stop_3x | 3.28x | pumpswap | 2026-03-20 05:14 → 2026-03-20 22:53 |
 | 🔴 fine999.9 | 0.35x | $-65 | stop_loss | 1.03x | pumpfun | 2026-03-20 03:28 → 2026-03-20 03:30 |
 | 🟡 IShowSpeed | 0.80x | $-20 | trailing_stop_2x | 2.29x | pumpfun | 2026-03-20 02:02 → 2026-03-20 02:06 |
 

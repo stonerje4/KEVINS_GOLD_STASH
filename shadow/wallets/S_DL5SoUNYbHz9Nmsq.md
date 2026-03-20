@@ -1,6 +1,6 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 22:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 22:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-137 |
-| 🏦 Total | **$-137** |
+| 📦 Unrealized | $-147 |
+| 🏦 Total | **$-147** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 𝕏CAT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:48 |
 | 🟡 Sunshine | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:17 |
-| 🟡 Samba | $0.000010 | **1.14x** ($+14) | 2.06x | ✅ | pumpswap | 2026-03-20 18:13 |
+| 🔴 Samba | $0.000010 | **0.93x** ($-7) | 2.06x | ✅ | pumpswap | 2026-03-20 18:13 |
 | 🔴 Rosei | $0.000022 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
 | 🔴 JEREMY | $0.000011 | **0.95x** ($-5) | 1.51x |  | pumpswap | 2026-03-20 12:10 |
 | 🟡 Futa-kun | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:57 |
