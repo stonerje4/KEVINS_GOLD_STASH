@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 20:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 21:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 67 (61 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $-359 |
-| 🏦 Total | **$-637** |
+| 📦 Unrealized | $-361 |
+| 🏦 Total | **$-639** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.54x |
 
@@ -64,13 +64,13 @@
 | 🔴 Speak | $0.000023 | **0.50x** ($-50) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
 | 🟡 LIFE | $0.000024 | **1.02x** ($+2) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🟡 LUMO | $0.000027 | **1.44x** ($+44) | 2.26x | ✅ | pumpswap | 2026-03-20 00:48 |
-| 🔴 Saleh | $0.000013 | **0.95x** ($-5) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
+| 🔴 Saleh | $0.000013 | **0.94x** ($-6) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
 | 🟢 WRT | $0.000014 | **2.15x** ($+115) | 2.15x | ✅ | pumpswap | 2026-03-20 00:34 |
 | 🔴 Billy | $0.000011 | **0.81x** ($-19) | 1.18x |  | pumpswap | 2026-03-20 00:23 |
 | 🟡 DOGEFATHER | $0.000013 | **1.18x** ($+18) | 2.36x | ✅ | pumpswap | 2026-03-20 00:01 |
 | 🔴 TIMELESS | $0.000021 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:57 |
 | 🔴 GOBLIN | $0.000015 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-19 23:47 |
-| 🟡 Alien | $0.000014 | **1.02x** ($+2) | 2.92x | ✅ | pumpswap | 2026-03-19 23:47 |
+| 🟡 Alien | $0.000014 | **1.00x** ($+0) | 2.92x | ✅ | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000025 | **1.30x** ($+30) | 1.30x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Patricia | $0.000024 | **0.60x** ($-40) | 1.94x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Monke | $0.000013 | **0.64x** ($-36) | 1.04x |  | pumpswap | 2026-03-19 23:30 |

@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 20:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 21:00 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-88 |
 | 📦 Unrealized | $-254 |
-| 🏦 Total | **$-341** |
+| 🏦 Total | **$-342** |
 | Best ROI | 0.73x |
 | Avg ROI | 0.56x |
 
@@ -22,7 +22,7 @@
 | 🔴 HOSPICE | $0.000012 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-20 16:13 |
 | 🟡 KENNY | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:26 |
 | 🔴 IMAGINE | $0.000039 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 11:56 |
-| 🟡 Alien | $0.000015 | **1.00x** ($+0) | 2.88x | ✅ | pumpswap | 2026-03-20 09:02 |
+| 🔴 Alien | $0.000015 | **0.99x** ($-1) | 2.88x | ✅ | pumpswap | 2026-03-20 09:02 |
 | 🟡 Luxury | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:56 |
 | 🔴 PATRIOT | $0.000009 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🔴 Massive | $0.000020 | **0.96x** ($-4) | 1.58x |  | pumpswap | 2026-03-20 07:28 |

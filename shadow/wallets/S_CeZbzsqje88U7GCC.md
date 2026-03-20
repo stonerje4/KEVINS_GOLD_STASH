@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 20:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 21:00 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 19 (13 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-175 |
-| 📦 Unrealized | $+231 |
+| 📦 Unrealized | $+230 |
 | 🏦 Total | **$+56** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.71x |
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Realize | $0.000019 | **1.06x** ($+6) | 1.27x |  | pumpswap | 2026-03-20 20:41 |
 | 🟡 NICK | $0.000027 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-20 19:41 |
-| 🔴 Alien | $0.000022 | **0.69x** ($-31) | 1.97x |  | pumpswap | 2026-03-20 14:20 |
+| 🔴 Alien | $0.000022 | **0.67x** ($-33) | 1.97x |  | pumpswap | 2026-03-20 14:20 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
 | 🟢 ME | $0.000006 | **3.77x** ($+277) | 3.99x | ✅ | pumpfun | 2026-03-20 12:51 |
 | 🟡 NOTICER | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
@@ -29,7 +29,7 @@
 | 🟡 Stanley | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:59 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:42 |
 | 🟡 Ancestors | $0.000006 | **1.37x** ($+37) | 1.53x |  | pumpfun | 2026-03-20 00:47 |
-| 🔴 Ouroboros | $0.000035 | **0.45x** ($-55) | 1.03x |  | pumpswap | 2026-03-20 00:46 |
+| 🔴 Ouroboros | $0.000035 | **0.46x** ($-54) | 1.03x |  | pumpswap | 2026-03-20 00:46 |
 | 🟡 trump | $0.000006 | **1.17x** ($+17) | 2.88x | ✅ | pumpfun | 2026-03-19 23:36 |
 
 ## Closed Positions

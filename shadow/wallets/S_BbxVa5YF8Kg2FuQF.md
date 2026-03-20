@@ -1,16 +1,16 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 20:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 21:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (4 open, 7 closed) |
+| Positions | 12 (5 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-172 |
-| 📦 Unrealized | $+98 |
-| 🏦 Total | **$-73** |
+| 📦 Unrealized | $+97 |
+| 🏦 Total | **$-75** |
 | Best ROI | 2.95x |
 | Avg ROI | 0.75x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 EVERYTHING | $0.000023 | **1.00x** ($-0) | 1.07x |  | pumpfun | 2026-03-20 20:55 |
 | 🟡 JUMP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:37 |
 | 🟢 Patience | $0.000017 | **2.11x** ($+111) | 2.11x | ✅ | pumpfun | 2026-03-20 03:14 |
 | 🟡 BDxAH4ix | $0.000020 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 00:02 |
-| 🔴 Saleh | $0.000020 | **0.61x** ($-39) | 1.14x |  | pumpswap | 2026-03-20 00:00 |
+| 🔴 Saleh | $0.000020 | **0.60x** ($-40) | 1.14x |  | pumpswap | 2026-03-20 00:00 |
 
 ## Closed Positions
 

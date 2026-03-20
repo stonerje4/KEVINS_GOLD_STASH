@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 20:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 21:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 78 (77 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+102 |
-| 🏦 Total | **$+42** |
+| 📦 Unrealized | $+104 |
+| 🏦 Total | **$+44** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Flash | $0.000023 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 20:50 |
+| 🟡 Flash | $0.000023 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 20:50 |
 | 🔴 chibify | $0.000007 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-20 20:37 |
 | 🟡 Chud | $0.000025 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 20:18 |
 | 🟡 clod | $0.000015 | **1.09x** ($+9) | 1.27x |  | pumpswap | 2026-03-20 19:17 |
@@ -80,7 +80,7 @@
 | 🟡 Skull | $0.000008 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 $GROWN  | $0.000039 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 01:42 |
 | 🟡 FAFO | $0.000017 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 01:42 |
-| 🔴 Ouroboros | $0.000033 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 01:31 |
+| 🔴 Ouroboros | $0.000033 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 01:31 |
 | 🟡 SaudiAramc | $0.000030 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 01:30 |
 | 🔴 n0rth4evr | $0.000035 | **0.83x** ($-17) | 1.03x |  | pumpswap | 2026-03-20 01:08 |
 | 🟡 KENJI | $0.000029 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 00:50 |

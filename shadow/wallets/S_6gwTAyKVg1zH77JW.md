@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 20:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 21:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (94 open, 5 closed) |
 | W/L | 3/2 (60%) |
 | 💵 Realized | $+167 |
-| 📦 Unrealized | $-562 |
-| 🏦 Total | **$-395** |
+| 📦 Unrealized | $-564 |
+| 🏦 Total | **$-397** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.33x |
 
@@ -84,11 +84,11 @@
 | 🔴 5 | $0.000009 | **0.81x** ($-19) | 1.08x |  | pumpswap | 2026-03-20 02:06 |
 | 🔴 Microwaved | $0.000022 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-20 01:49 |
 | 🟡 FAFO | $0.000017 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 01:42 |
-| 🔴 Ouroboros | $0.000031 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 01:31 |
+| 🔴 Ouroboros | $0.000031 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 01:31 |
 | 🔴 DM | $0.000028 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 01:26 |
 | 🔴 italianrot | $0.000006 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 01:05 |
 | 🔴 Apple | $0.000017 | **0.99x** ($-1) | 1.30x |  | pumpswap | 2026-03-20 01:00 |
-| 🔴 aliens  | $0.000016 | **0.96x** ($-4) | 1.09x |  | pumpswap | 2026-03-20 00:59 |
+| 🔴 aliens  | $0.000016 | **0.94x** ($-6) | 1.09x |  | pumpswap | 2026-03-20 00:59 |
 | 🟡 LIFE | $0.000023 | **1.05x** ($+5) | 2.72x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🔴 CHINAMAX | $0.000013 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-20 00:51 |
 | 🔴 KENJI | $0.000031 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 00:50 |
