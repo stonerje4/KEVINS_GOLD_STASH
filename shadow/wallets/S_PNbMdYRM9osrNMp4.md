@@ -1,6 +1,6 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 23:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 23:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (15 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-184 |
-| 📦 Unrealized | $-127 |
-| 🏦 Total | **$-312** |
+| 📦 Unrealized | $-119 |
+| 🏦 Total | **$-303** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.63x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 ME | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:51 |
-| 🟡 Income | $0.000013 | **1.45x** ($+45) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
+| 🟡 Income | $0.000013 | **1.63x** ($+63) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
 | 🔴 PVE | $0.000012 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 15:52 |
 | 🔴 Samba | $0.000013 | **0.72x** ($-28) | 1.59x |  | pumpswap | 2026-03-20 15:27 |
 | 🟡 Feels | $0.000010 | **1.07x** ($+7) | 1.77x |  | pumpswap | 2026-03-20 15:02 |

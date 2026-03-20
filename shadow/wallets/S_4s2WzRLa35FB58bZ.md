@@ -1,6 +1,6 @@
-# Wallet: `G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W`
+# Wallet: `4s2WzRLa35FB58bZY1i4CN3WoywJeuYrGYHnTKFsT23z`
 
-> [GMGN](https://gmgn.ai/sol/address/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | [Solscan](https://solscan.io/account/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | Updated: 2026-03-20 23:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/4s2WzRLa35FB58bZY1i4CN3WoywJeuYrGYHnTKFsT23z) | [Solscan](https://solscan.io/account/4s2WzRLa35FB58bZY1i4CN3WoywJeuYrGYHnTKFsT23z) | Updated: 2026-03-20 23:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-24** |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$+8** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Squishy | $0.000018 | **0.76x** ($-24) | 1.12x |  | pumpswap | 2026-03-20 01:36 |
+| 🟡 Meow | $0.000036 | **1.08x** ($+8) | 1.13x |  | pumpswap | 2026-03-20 23:00 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 23:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 23:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (13 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $+98 |
-| 🏦 Total | **$+21** |
+| 📦 Unrealized | $+128 |
+| 🏦 Total | **$+52** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.62x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OSP | $0.000009 | **1.00x** ($+0) | 1.13x |  | pumpswap | 2026-03-20 22:56 |
+| 🟡 OSP | $0.000009 | **1.35x** ($+35) | 1.55x |  | pumpswap | 2026-03-20 22:56 |
 | 🟡 TRACEWAY | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:00 |
 | 🔴 NURO | $0.000005 | **0.49x** ($-51) | 1.47x |  | pumpfun | 2026-03-20 20:00 |
 | 🔴 i | $0.000011 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 18:13 |
@@ -30,7 +30,7 @@
 | 🟡 Samba | $0.000006 | **1.54x** ($+54) | 3.40x | ✅ | pumpswap | 2026-03-20 05:14 |
 | 🟡 UOR | $0.000036 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 SHOENICE  | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
-| 🟡 WRT | $0.000007 | **1.64x** ($+64) | 4.35x | ✅ | pumpswap | 2026-03-20 00:59 |
+| 🟡 WRT | $0.000007 | **1.53x** ($+53) | 4.35x | ✅ | pumpswap | 2026-03-20 00:59 |
 
 ## Closed Positions
 

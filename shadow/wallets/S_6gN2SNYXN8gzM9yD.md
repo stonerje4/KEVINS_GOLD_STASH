@@ -1,6 +1,6 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 23:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 23:05 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 wbs | $0.000018 | **0.85x** ($-15) | 1.59x |  | pumpfun | 2026-03-20 20:26 |
+| 🔴 wbs | $0.000018 | **0.86x** ($-14) | 1.59x |  | pumpfun | 2026-03-20 20:26 |
 | 🔴 Jiji | $0.000005 | **0.49x** ($-51) | 1.08x |  | pumpfun | 2026-03-20 15:52 |
 | 🟡 DLORP | $0.000007 | **1.55x** ($+55) | 1.96x |  | pumpswap | 2026-03-20 00:15 |
 | 🟡 world | $0.000022 | **1.67x** ($+67) | 1.67x |  | pumpfun | 2026-03-20 00:12 |

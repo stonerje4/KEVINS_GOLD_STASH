@@ -1,6 +1,6 @@
 # Wallet: `99aWEJ1iXpcEg8CxEobZQiwBRBSpCd8m1Pwu3RqS6VNn`
 
-> [GMGN](https://gmgn.ai/sol/address/99aWEJ1iXpcEg8CxEobZQiwBRBSpCd8m1Pwu3RqS6VNn) | [Solscan](https://solscan.io/account/99aWEJ1iXpcEg8CxEobZQiwBRBSpCd8m1Pwu3RqS6VNn) | Updated: 2026-03-20 23:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/99aWEJ1iXpcEg8CxEobZQiwBRBSpCd8m1Pwu3RqS6VNn) | [Solscan](https://solscan.io/account/99aWEJ1iXpcEg8CxEobZQiwBRBSpCd8m1Pwu3RqS6VNn) | Updated: 2026-03-20 23:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-129 |
-| 📦 Unrealized | $-23 |
-| 🏦 Total | **$-152** |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-151** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.35x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Obsessed | $0.000013 | **0.77x** ($-23) | 1.40x |  | pumpswap | 2026-03-20 20:44 |
+| 🔴 Obsessed | $0.000013 | **0.78x** ($-22) | 1.40x |  | pumpswap | 2026-03-20 20:44 |
 
 ## Closed Positions
 
