@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 07:00 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 07:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 108 (104 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-151 |
-| 📦 Unrealized | $+260 |
-| 🏦 Total | **$+110** |
+| 📦 Unrealized | $+263 |
+| 🏦 Total | **$+112** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.6x |
 
@@ -19,26 +19,26 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 𝕏Money | $0.000308 | **1.04x** ($+4) | 1.08x |  | pumpswap | 2026-03-20 06:50 |
-| 🟡 Floki | $0.000018 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 06:49 |
+| 🟡 Floki | $0.000018 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 06:49 |
 | 🟡 Chibify | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
 | 🟡 Luxury | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:39 |
 | 🟡 Dryer | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:38 |
 | 🔴 George | $0.000020 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 IMAGINE | $0.000113 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:18 |
-| 🟡 Tastecoin | $0.000189 | **1.21x** ($+21) | 1.23x |  | pumpswap | 2026-03-20 06:15 |
+| 🟡 Tastecoin | $0.000189 | **1.17x** ($+17) | 1.23x |  | pumpswap | 2026-03-20 06:15 |
 | 🟡 LULU | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
 | 🟡 DICKUS | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |
 | 🔴 INCOME | $0.000572 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 Goose | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
 | 🟡 Clude | $0.001321 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
-| 🔴 WhiteHouse | $0.000358 | **1.00x** ($-0) | 1.04x |  | pumpswap | 2026-03-20 05:10 |
+| 🔴 WhiteHouse | $0.000358 | **0.97x** ($-3) | 1.04x |  | pumpswap | 2026-03-20 05:10 |
 | 🟡 Spiderman | $0.000134 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
-| 🟡 TeraFab | $0.000055 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 05:08 |
+| 🟡 TeraFab | $0.000055 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-20 05:08 |
 | 🔴 shitcoin | $0.000073 | **0.93x** ($-7) | 1.06x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 IMAGINE | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
 | 🟡 Flash | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:47 |
 | 🟡 automaton | $0.000107 | **1.08x** ($+8) | 1.14x |  | pumpswap | 2026-03-20 04:47 |
-| 🔴 CHOPPER | $0.000025 | **1.00x** ($-0) | 1.11x |  | pumpswap | 2026-03-20 04:44 |
+| 🟡 CHOPPER | $0.000025 | **1.00x** ($+0) | 1.11x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 Pete | $0.000219 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:55 |
 | 🟡 OIIA | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:53 |
 | 🟡 COLLECTIBLE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
@@ -49,7 +49,7 @@
 | 🟡 Solana | $0.000173 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:18 |
 | 🟡 SAID | $0.000274 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
-| 🔴 Retardmaxx | $0.000356 | **0.89x** ($-11) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
+| 🔴 Retardmaxx | $0.000356 | **0.91x** ($-9) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Rosie | $0.000878 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🔴 WhiteBoy  | $0.000014 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
 | 🟡 OSP | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |

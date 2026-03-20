@@ -1,16 +1,16 @@
 # Wallet: `CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ`
 
-> [View on Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 07:00 UTC
+> [View on Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 07:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (11 open, 1 closed) |
+| Positions | 13 (12 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-80** |
+| 📦 Unrealized | $-45 |
+| 🏦 Total | **$-106** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.3x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 AGS | $0.000007 | **0.74x** ($-26) | 1.11x |  | pumpfun | 2026-03-20 07:01 |
 | 🟡 NBR | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:20 |
 | 🟡 NBR | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:12 |
 | 🟡 NBR | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:51 |

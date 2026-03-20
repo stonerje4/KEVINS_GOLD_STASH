@@ -1,6 +1,6 @@
 # Wallet: `3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT`
 
-> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 07:00 UTC
+> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 07:05 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 HelloWorld! | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:43 |
 | 🟡 ceal | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:35 |
-| 🚀 EPSTEINBLI | $0.000000 | **90.06x** ($+8,906) | 114.28x | ✅ | pumpswap | 2026-03-20 06:12 |
+| 🚀 EPSTEINBLI | $0.000000 | **90.05x** ($+8,905) | 114.28x | ✅ | pumpswap | 2026-03-20 06:12 |
 | 🟡 credit | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:52 |
 
 ## Closed Positions

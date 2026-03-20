@@ -1,28 +1,27 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 07:00 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 07:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (14 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-122 |
-| 📦 Unrealized | $-167 |
-| 🏦 Total | **$-289** |
+| Positions | 16 (13 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-183 |
+| 📦 Unrealized | $-111 |
+| 🏦 Total | **$-294** |
 | Best Trade | 0.4x |
-| Avg Peak | 1.6x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CARROT | $0.000009 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 06:42 |
-| 🔴 e/alt | $0.000007 | **0.42x** ($-58) | 1.04x |  | pumpfun | 2026-03-20 06:21 |
 | 🔴 METEOR | $0.000005 | **0.68x** ($-32) | 1.15x |  | pumpfun | 2026-03-20 05:43 |
 | 🔴 Veggietales | $0.000004 | **0.77x** ($-23) | 1.24x |  | pumpfun | 2026-03-20 03:56 |
-| 🔴 TRASHBAG | $0.000008 | **0.67x** ($-33) | 1.04x |  | pumpswap | 2026-03-20 03:53 |
+| 🔴 TRASHBAG | $0.000008 | **0.65x** ($-35) | 1.04x |  | pumpswap | 2026-03-20 03:53 |
 | 🔴 MATER | $0.000004 | **0.98x** ($-2) | 2.20x | ✅ | pumpswap | 2026-03-20 03:32 |
 | 🔴 Drip | $0.000004 | **0.86x** ($-14) | 1.08x |  | pumpfun | 2026-03-20 03:22 |
 | 🔴 Eshkol LLM | $0.000005 | **0.57x** ($-43) | 1.38x |  | pumpfun | 2026-03-20 02:23 |
@@ -37,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 e/alt | 0.39x | $-61 | stop_loss | 1.04x | pumpfun | 2026-03-20 06:21 → 2026-03-20 07:03 |
 | 🔴 AoE | 0.38x | $-62 | stop_loss | 1.30x | pumpfun | 2026-03-20 04:38 → 2026-03-20 04:47 |
 | 🔴 wepaid | 0.40x | $-60 | stop_loss | 1.88x | pumpfun | 2026-03-20 03:12 → 2026-03-20 03:42 |
 

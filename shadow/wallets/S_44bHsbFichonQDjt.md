@@ -1,16 +1,16 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 07:00 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 07:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (20 open, 1 closed) |
+| Positions | 22 (21 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-154 |
-| 🏦 Total | **$-106** |
+| 📦 Unrealized | $-103 |
+| 🏦 Total | **$-55** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.4x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟢 Fg23icoW | $0.000004 | **2.29x** ($+129) | 2.47x | ✅ | pumpfun | 2026-03-20 07:00 |
 | 🟡 TITTYKILLER | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:00 |
-| 🔴 ragcityyy99 | $0.000004 | **0.85x** ($-15) | 1.34x |  | pumpfun | 2026-03-20 05:56 |
-| 🟢 Gizmo | $0.000004 | **2.15x** ($+115) | 2.27x | ✅ | pumpfun | 2026-03-20 05:55 |
+| 🔴 ragcityyy99 | $0.000004 | **0.83x** ($-17) | 1.34x |  | pumpfun | 2026-03-20 05:56 |
+| 🟡 Gizmo | $0.000004 | **1.93x** ($+93) | 2.27x | ✅ | pumpfun | 2026-03-20 05:55 |
 | 🔴 KNOWMINT | $0.000004 | **0.65x** ($-35) | 1.00x |  | pumpfun | 2026-03-20 05:29 |
 | 🔴 bitpenis | $0.000004 | **0.58x** ($-42) | 1.27x |  | pumpfun | 2026-03-20 05:25 |
 | 🔴 3kycm3TE | $0.000004 | **0.64x** ($-36) | 1.15x |  | pumpfun | 2026-03-20 05:07 |

@@ -1,6 +1,6 @@
 # Wallet: `6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG`
 
-> [View on Solscan](https://solscan.io/account/6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG) | Updated: 2026-03-20 07:00 UTC
+> [View on Solscan](https://solscan.io/account/6GH9HF6mwe3DD9CW26tdzqW3572EMV3HhgQanUVVePhG) | Updated: 2026-03-20 07:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+55,955 |
-| 🏦 Total | **$+55,955** |
+| 📦 Unrealized | $+55,109 |
+| 🏦 Total | **$+55,109** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🚀 MemeDeptUS | $0.000000 | **324.13x** ($+32,313) | 324.13x | ✅ | pumpfun | 2026-03-20 06:09 |
-| 🚀 MSBT | $0.000000 | **322.04x** ($+32,104) | 340.59x | ✅ | pumpfun | 2026-03-20 06:04 |
+| 🚀 MSBT | $0.000000 | **323.60x** ($+32,260) | 340.59x | ✅ | pumpfun | 2026-03-20 06:04 |
 | 🚀 DVX | $0.000000 | **735.60x** ($+73,460) | 832.76x | ✅ | pumpfun | 2026-03-19 23:03 |
 | 🚀 IOR | $0.000000 | **401.27x** ($+40,027) | 404.30x | ✅ | pumpfun | 2026-03-19 22:49 |
 | 🚀 LNG | $0.000000 | **222.81x** ($+22,181) | 253.65x | ✅ | pumpfun | 2026-03-19 22:44 |
