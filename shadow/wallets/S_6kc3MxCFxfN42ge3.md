@@ -1,23 +1,24 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 12:18 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 12:23 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 100 (76 open, 24 closed) |
+| Positions | 101 (77 open, 24 closed) |
 | W/L | 4/20 (17%) |
 | 💵 Realized | $-733 |
-| 📦 Unrealized | $-1,229 |
-| 🏦 Total | **$-1,961** |
-| Best ROI | 2.98x |
-| Avg ROI | 0.69x |
+| 📦 Unrealized | $-1,233 |
+| 🏦 Total | **$-1,966** |
+| Best Trade | 3.0x |
+| Avg Peak | 1.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 AIMAXXING | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
 | 🟡 Quokka | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:16 |
 | 🟡 LufNed6s | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:14 |
 | 🟡 MMORPG | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:12 |
@@ -49,7 +50,7 @@
 | 🟢 effect | $0.000018 | **2.01x** ($+101) | 2.01x | ✅ | pumpfun | 2026-03-20 09:54 |
 | 🟡 7b678pp4 | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:49 |
 | 🟡 Tutu | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:48 |
-| 🔴 omochi | $0.000022 | **0.88x** ($-12) | 1.25x |  | pumpfun | 2026-03-20 09:19 |
+| 🔴 omochi | $0.000022 | **0.84x** ($-16) | 1.25x |  | pumpfun | 2026-03-20 09:19 |
 | 🔴 Income | $0.000006 | **0.44x** ($-56) | 1.06x |  | pumpfun | 2026-03-20 09:13 |
 | 🔴 Income | $0.000006 | **0.43x** ($-57) | 1.83x |  | pumpfun | 2026-03-20 09:04 |
 | 🔴 FMxZcC62 | $0.000006 | **0.42x** ($-58) | 1.01x |  | pumpfun | 2026-03-20 08:58 |

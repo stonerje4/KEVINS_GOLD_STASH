@@ -1,23 +1,24 @@
 # Wallet: `9ihGVyV1r6SfNzHM9P97gEebGdR8St28wgn1i3DDNMW`
 
-> [View on Solscan](https://solscan.io/account/9ihGVyV1r6SfNzHM9P97gEebGdR8St28wgn1i3DDNMW) | Updated: 2026-03-20 12:18 UTC
+> [View on Solscan](https://solscan.io/account/9ihGVyV1r6SfNzHM9P97gEebGdR8St28wgn1i3DDNMW) | Updated: 2026-03-20 12:23 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (8 open, 0 closed) |
+| Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+116,491 |
 | 🏦 Total | **$+116,491** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 KAT | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
 | 🚀 USOS | $0.000000 | **256.98x** ($+25,598) | 256.98x | ✅ | pumpfun | 2026-03-20 10:37 |
 | 🚀 UGOR | $0.000000 | **390.52x** ($+38,952) | 390.52x | ✅ | pumpfun | 2026-03-20 10:28 |
 | 🚀 MSBT | $0.000000 | **175.99x** ($+17,499) | 188.86x | ✅ | pumpfun | 2026-03-20 06:02 |

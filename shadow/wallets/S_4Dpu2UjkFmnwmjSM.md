@@ -1,6 +1,6 @@
 # Wallet: `4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G`
 
-> [View on Solscan](https://solscan.io/account/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) | Updated: 2026-03-20 12:18 UTC
+> [View on Solscan](https://solscan.io/account/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) | Updated: 2026-03-20 12:23 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-12 |
-| 🏦 Total | **$-72** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-74** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OM | $0.000012 | **0.86x** ($-14) | 1.24x |  | pumpfun | 2026-03-20 08:52 |
-| 🟡 PACO | $0.000023 | **1.03x** ($+3) | 1.07x |  | pumpfun | 2026-03-20 04:43 |
+| 🔴 OM | $0.000012 | **0.85x** ($-15) | 1.24x |  | pumpfun | 2026-03-20 08:52 |
+| 🟡 PACO | $0.000023 | **1.01x** ($+1) | 1.07x |  | pumpfun | 2026-03-20 04:43 |
 
 ## Closed Positions
 
