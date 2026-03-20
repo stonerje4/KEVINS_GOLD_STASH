@@ -1,25 +1,25 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 06:35 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 06:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 56 (55 open, 1 closed) |
-| W/L | 1/0 (100%) |
-| 💵 Realized | $+45 |
-| 📦 Unrealized | $+17 |
-| 🏦 Total | **$+62** |
+| Positions | 56 (54 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $+30 |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$+45** |
 | Best Trade | 1.5x |
-| Avg Peak | 3.6x |
+| Avg Peak | 3.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 COLONEL | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 06:30 |
-| 🟡 PHM | $0.000004 | **1.15x** ($+15) | 1.23x |  | pumpfun | 2026-03-20 06:29 |
+| 🟡 PHM | $0.000004 | **1.17x** ($+17) | 1.23x |  | pumpfun | 2026-03-20 06:29 |
 | 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 06:29 |
 | 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.01x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 COLONEL | $0.000003 | **0.92x** ($-8) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
@@ -38,15 +38,14 @@
 | 🟡 MSBT | $0.000003 | **1.95x** ($+95) | 2.06x | ✅ | pumpfun | 2026-03-20 04:23 |
 | 🟡 dryer | $0.000003 | **1.04x** ($+4) | 1.06x |  | pumpfun | 2026-03-20 04:16 |
 | 🔴 PRVX | $0.000006 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 04:11 |
-| 🟡 spooder | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:08 |
+| 🔴 spooder | $0.000005 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 04:08 |
 | 🟡 OPTIMUS | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:43 |
 | 🟡 WRT | $0.000005 | **1.11x** ($+11) | 1.32x |  | pumpfun | 2026-03-20 03:36 |
 | 🟡 Brand | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 03:35 |
 | 🔴 NADOMAC | $0.000003 | **0.95x** ($-5) | 1.02x |  | pumpfun | 2026-03-20 03:35 |
-| 🔴 6yCBxqr7 | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 03:20 |
+| 🔴 6yCBxqr7 | $0.000004 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 03:20 |
 | 🔴 TdvdXT8S | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 03:11 |
 | 🔴 $ODA | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 03:10 |
-| 🔴 Floki | $0.000004 | **0.95x** ($-5) | 2.59x | ✅ | pumpfun | 2026-03-20 03:07 |
 | 🔴 XCHAT | $0.000003 | **1.00x** ($-0) | 1.10x |  | pumpfun | 2026-03-20 02:59 |
 | 🟡 FyFJ64RR | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:37 |
 | 🔴 J3bSHVhq | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 02:35 |
@@ -78,6 +77,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Floki | 0.85x | $-15 | trailing_stop_3x | 2.59x | pumpfun | 2026-03-20 03:07 → 2026-03-20 06:38 |
 | 🟡 3CBiZ6XG | 1.45x | $+45 | trailing_stop_4x | 3.58x | pumpfun | 2026-03-19 23:18 → 2026-03-19 23:25 |
 
 ---

@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [View on Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 06:35 UTC
+> [View on Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-20 06:40 UTC
 
 ## Summary
 
@@ -23,7 +23,7 @@
 | 🔴 BuhNGftS | $0.000004 | **0.59x** ($-41) | 1.37x |  | pumpfun | 2026-03-20 05:27 |
 | 🟡 OSP | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:22 |
 | 🟡 Samba | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:14 |
-| 🟡 UOR | $0.000004 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 03:22 |
+| 🟡 UOR | $0.000004 | **1.02x** ($+2) | 1.03x |  | pumpfun | 2026-03-20 03:22 |
 | 🚀 credit | $0.000004 | **9.46x** ($+846) | 9.46x | ✅ | pumpfun | 2026-03-20 03:02 |
 | 🟡 SCRATCOFF | $0.000004 | **1.08x** ($+8) | 1.08x |  | pumpfun | 2026-03-20 02:03 |
 | 🟡 UOR | $0.000035 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 01:59 |

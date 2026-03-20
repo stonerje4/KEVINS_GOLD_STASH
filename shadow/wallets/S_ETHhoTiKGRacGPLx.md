@@ -1,6 +1,6 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 06:35 UTC
+> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 06:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (20 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-77 |
-| 🏦 Total | **$-163** |
+| 📦 Unrealized | $-86 |
+| 🏦 Total | **$-172** |
 | Best Trade | 0.1x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 HUGH | $0.000003 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 06:35 |
+| 🔴 HUGH | $0.000003 | **0.97x** ($-3) | 1.07x |  | pumpfun | 2026-03-20 06:35 |
 | 🟡 JFR | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 05:16 |
 | 🔴 OSP | $0.000004 | **0.70x** ($-30) | 1.00x |  | pumpfun | 2026-03-20 03:00 |
 | 🔴 Evq4G9ru | $0.000002 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 02:56 |
