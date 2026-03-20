@@ -1,15 +1,15 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 47 (46 open, 1 closed) |
+| Positions | 49 (48 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-60 |
+| 📦 Unrealized | $-59 |
 | 🏦 Total | **$-136** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Skull | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
+| 🟡 Noorung | $0.000011 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:25 |
 | 🔴 GAS | $0.000376 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 LEGEND | $0.000067 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:10 |
 | 🟡 PIGEON  | $0.000224 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 02:06 |

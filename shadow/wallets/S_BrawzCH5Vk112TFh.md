@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 105 (104 open, 1 closed) |
+| Positions | 107 (106 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+199 |
-| 📦 Unrealized | $+204 |
-| 🏦 Total | **$+403** |
+| 📦 Unrealized | $+203 |
+| 🏦 Total | **$+402** |
 | Best Trade | 3.0x |
 | Avg Peak | 9.7x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 KIKO | $0.000004 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
+| 🟡 Moe | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
 | 🔴 LULU | $0.000033 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 BB | $0.000009 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 FLAPPY | $0.000082 | **0.98x** ($-2) | 1.05x |  | pumpswap | 2026-03-20 02:17 |

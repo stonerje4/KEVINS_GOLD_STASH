@@ -1,12 +1,12 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
+| Positions | 10 (9 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+495 |
 | 📦 Unrealized | $-29 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LOL | $0.000318 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
 | 🟡 CLAW3D | $0.000060 | **1.12x** ($+12) | 1.32x |  | pumpswap | 2026-03-20 02:14 |
 | 🔴 GPD | $0.000012 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 01:47 |
 | 🔴 Optimistic | $0.000718 | **0.96x** ($-4) | 1.13x |  | pumpswap | 2026-03-20 01:30 |

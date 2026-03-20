@@ -1,12 +1,12 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (2 open, 2 closed) |
+| Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-181 |
 | 📦 Unrealized | $+57 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Strawberita | $0.000146 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:25 |
 | 🟡 驚き | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:22 |
 | 🟡 Mainer | $0.000003 | **1.57x** ($+57) | 2.00x |  | pumpfun | 2026-03-19 23:54 |
 

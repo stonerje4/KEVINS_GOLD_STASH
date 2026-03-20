@@ -1,16 +1,16 @@
 # Wallet: `DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft`
 
-> [View on Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
+| Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-126 |
-| 📦 Unrealized | $+110 |
-| 🏦 Total | **$-15** |
+| 📦 Unrealized | $+143 |
+| 🏦 Total | **$+17** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ALrw8SrK | $0.000017 | **1.32x** ($+32) | 1.55x |  | pumpfun | 2026-03-20 02:24 |
 | 🔴 AFC | $0.000004 | **1.00x** ($-0) | 1.01x |  | pumpfun | 2026-03-20 01:13 |
 | 🟢 DICKUS | $0.000014 | **2.64x** ($+164) | 2.64x | ✅ | pumpfun | 2026-03-20 00:50 |
 | 🟡 PIKE | $0.000035 | **1.04x** ($+4) | 1.21x |  | pumpswap | 2026-03-19 23:28 |

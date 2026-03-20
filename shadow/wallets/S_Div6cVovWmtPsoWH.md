@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+59 |
-| 🏦 Total | **$+59** |
+| 📦 Unrealized | $+64 |
+| 🏦 Total | **$+64** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Eshkol LLM | $0.000005 | **1.22x** ($+22) | 1.22x |  | pumpfun | 2026-03-20 02:23 |
+| 🟡 Eshkol LLM | $0.000005 | **1.28x** ($+28) | 1.38x |  | pumpfun | 2026-03-20 02:23 |
 | 🟡 Dyoji | $0.000003 | **1.19x** ($+19) | 1.67x |  | pumpfun | 2026-03-20 01:52 |
 | 🟡 Loui | $0.000005 | **1.37x** ($+37) | 1.41x |  | pumpfun | 2026-03-20 01:32 |
 | 🔴 KIWI | $0.000161 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-19 23:45 |

@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 64 (61 open, 3 closed) |
+| Positions | 67 (64 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+284 |
-| 🏦 Total | **$+193** |
+| 📦 Unrealized | $+274 |
+| 🏦 Total | **$+183** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,7 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 cigarette | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:21 |
+| 🟡 YOU | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
+| 🟡 Moe | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
+| 🟡 Gany | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:25 |
+| 🔴 cigarette | $0.000018 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:21 |
 | 🟡 GAS | $0.000358 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 LEGEND | $0.000066 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 02:04 |
 | 🟡 Devious | $0.000072 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 02:02 |
@@ -61,7 +64,7 @@
 | 🟡 AINL | $0.000025 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 KIWI | $0.000158 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 OILINU | $0.000090 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
-| 🟡 Patricia | $0.000024 | **1.62x** ($+62) | 1.65x |  | pumpswap | 2026-03-19 23:34 |
+| 🟡 Patricia | $0.000024 | **1.55x** ($+55) | 1.94x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Monke | $0.000013 | **0.64x** ($-36) | 1.04x |  | pumpswap | 2026-03-19 23:30 |
 | 🟡 Nigel | $0.000195 | **1.07x** ($+7) | 1.36x |  | pumpswap | 2026-03-19 23:24 |
 | 🟡 buddy | $0.000319 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-19 23:13 |

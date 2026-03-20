@@ -1,12 +1,12 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (7 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+26 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Gany | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 GOBLIN | $0.000016 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:11 |
 | 🟡 herm | $0.000170 | **1.18x** ($+18) | 1.29x |  | pumpswap | 2026-03-20 00:33 |
 | 🔴 jeff | $0.000025 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 00:26 |

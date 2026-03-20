@@ -1,29 +1,29 @@
-# Wallet: `5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g`
+# Wallet: `HPKKsYE1RVW7GgmffUroF93XHZjxQ1EqHpuAeMye3J5Y`
 
-> [View on Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-20 02:29 UTC
+> [View on Solscan](https://solscan.io/account/HPKKsYE1RVW7GgmffUroF93XHZjxQ1EqHpuAeMye3J5Y) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-60 |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-60** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 🏦 Total | **$+0** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Speak | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:29 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CC | 0.40x | $-60 | stop_loss | 1.02x | pumpfun | 2026-03-19 23:27 → 2026-03-19 23:29 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

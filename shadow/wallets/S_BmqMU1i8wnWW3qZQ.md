@@ -1,16 +1,16 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 199 (197 open, 2 closed) |
+| Positions | 201 (199 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+94 |
-| 📦 Unrealized | $+7 |
-| 🏦 Total | **$+102** |
+| 📦 Unrealized | $-12 |
+| 🏦 Total | **$+82** |
 | Best Trade | 2.8x |
 | Avg Peak | 4.0x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 KIKO | $0.000005 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
+| 🔴 Noorung | $0.000012 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 02:25 |
 | 🟡 PIKE | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:22 |
 | 🟡 PRVT | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:21 |
 | 🔴 BB | $0.000010 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:20 |

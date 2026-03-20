@@ -1,15 +1,15 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 87 (85 open, 2 closed) |
+| Positions | 88 (86 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $+87 |
+| 📦 Unrealized | $+86 |
 | 🏦 Total | **$+325** |
 | Best Trade | 2.9x |
 | Avg Peak | 6.2x |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Moe | $0.000075 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
 | 🔴 LULU | $0.000035 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 GAS | $0.000360 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 LEGEND | $0.000066 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 02:10 |

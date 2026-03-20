@@ -1,12 +1,12 @@
 # Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
 
-> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 02:24 UTC
+> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 02:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-25 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHANNELS | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 Jesus | $0.000010 | **0.75x** ($-25) | 1.26x |  | pumpfun | 2026-03-19 22:46 |
 
 ## Closed Positions
