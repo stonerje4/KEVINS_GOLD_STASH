@@ -1,6 +1,6 @@
 # Wallet: `AtaaM5QXRo2dWgg9bKGs39wVUZTSQqq8XGoXtuPnzGKy`
 
-> [View on Solscan](https://solscan.io/account/AtaaM5QXRo2dWgg9bKGs39wVUZTSQqq8XGoXtuPnzGKy) | Updated: 2026-03-20 11:07 UTC
+> [View on Solscan](https://solscan.io/account/AtaaM5QXRo2dWgg9bKGs39wVUZTSQqq8XGoXtuPnzGKy) | Updated: 2026-03-20 11:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-8** |
+| 📦 Unrealized | $-16 |
+| 🏦 Total | **$-16** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CTRUMP | $0.000004 | **0.96x** ($-4) | 1.01x |  | pumpfun | 2026-03-20 11:04 |
+| 🔴 CTRUMP | $0.000004 | **0.88x** ($-12) | 1.01x |  | pumpfun | 2026-03-20 11:04 |
 | 🟡 Chibify | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:46 |
 | 🔴 DOWNALD | $0.000004 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-19 23:05 |
 

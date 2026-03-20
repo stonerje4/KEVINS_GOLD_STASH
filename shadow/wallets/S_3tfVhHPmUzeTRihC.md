@@ -1,24 +1,23 @@
 # Wallet: `3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ`
 
-> [View on Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 11:07 UTC
+> [View on Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 11:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+51** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 6 (5 open, 1 closed) |
+| W/L | 1/0 (100%) |
+| 💵 Realized | $+45 |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$+42** |
+| Best Trade | 1.4x |
+| Avg Peak | 3.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Doolysaurus | $0.000010 | **2.35x** ($+135) | 3.13x | ✅ | pumpfun | 2026-03-20 10:48 |
 | 🟡 Chibify | $0.000076 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
 | 🟡 Freddie | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:31 |
@@ -29,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Doolysaurus | 1.45x | $+45 | trailing_stop_3x | 3.13x | pumpfun | 2026-03-20 10:48 → 2026-03-20 11:08 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

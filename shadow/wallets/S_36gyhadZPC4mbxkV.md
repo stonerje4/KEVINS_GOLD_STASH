@@ -1,6 +1,6 @@
 # Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
 
-> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 11:07 UTC
+> [View on Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-20 11:12 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-16 |
 | 📦 Unrealized | $-112 |
-| 🏦 Total | **$-128** |
+| 🏦 Total | **$-129** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.6x |
 

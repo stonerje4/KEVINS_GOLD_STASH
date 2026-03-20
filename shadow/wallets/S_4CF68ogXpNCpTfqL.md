@@ -1,6 +1,6 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 11:07 UTC
+> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 11:12 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 0 | $0.000105 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 06:05 |
-| 🔴 butthole | $0.000169 | **0.79x** ($-21) | 1.09x |  | pumpswap | 2026-03-20 05:19 |
+| 🔴 butthole | $0.000169 | **0.80x** ($-20) | 1.09x |  | pumpswap | 2026-03-20 05:19 |
 | 🟡 Optimistic | $0.000763 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:11 |
 | 🟡 Nigel | $0.000296 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
 | 🔴 Momo-chan | $0.000359 | **0.86x** ($-14) | 1.03x |  | pumpswap | 2026-03-20 01:51 |

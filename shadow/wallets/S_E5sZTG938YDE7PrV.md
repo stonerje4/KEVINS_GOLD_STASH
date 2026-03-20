@@ -1,6 +1,6 @@
 # Wallet: `E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`
 
-> [View on Solscan](https://solscan.io/account/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | Updated: 2026-03-20 11:07 UTC
+> [View on Solscan](https://solscan.io/account/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | Updated: 2026-03-20 11:12 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $-53 |
-| 🏦 Total | **$-114** |
+| 🏦 Total | **$-113** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Gizmo | $0.000007 | **0.58x** ($-42) | 1.11x |  | pumpswap | 2026-03-20 06:52 |
+| 🔴 Gizmo | $0.000007 | **0.59x** ($-41) | 1.11x |  | pumpswap | 2026-03-20 06:52 |
 | 🔴 Doomer | $0.000004 | **0.75x** ($-25) | 1.11x |  | pumpswap | 2026-03-20 06:33 |
 | 🟡 Gizmo | $0.000009 | **1.14x** ($+14) | 1.25x |  | pumpfun | 2026-03-20 05:59 |
 | 🟡 Freebuff | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:27 |

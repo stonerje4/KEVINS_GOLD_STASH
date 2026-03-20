@@ -1,12 +1,12 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 11:07 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 11:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 84 (1 open, 83 closed) |
+| Positions | 85 (2 open, 83 closed) |
 | W/L | 0/83 (0%) |
 | 💵 Realized | $-8,292 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Mirai | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:10 |
 | 🟡 ANIME | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:31 |
 
 ## Closed Positions
