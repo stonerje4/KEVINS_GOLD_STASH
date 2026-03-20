@@ -9,18 +9,18 @@
 | Positions | 12 (11 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-21 |
-| 📦 Unrealized | $+229 |
-| 🏦 Total | **$+208** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.1x |
+| 📦 Unrealized | $+224 |
+| 🏦 Total | **$+203** |
+| Best ROI | 0.79x |
+| Avg ROI | 0.79x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chuck | $0.000013 | **1.30x** ($+30) | 1.40x |  | pumpfun | 2026-03-20 14:48 |
+| 🟡 Chuck | $0.000013 | **1.16x** ($+16) | 1.40x |  | pumpfun | 2026-03-20 14:48 |
 | 🔴 3Q4iaQgF | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:37 |
-| 🔴 NORRIS | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 14:30 |
+| 🟡 NORRIS | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 14:30 |
 | 🔴 NORRIS | $0.000006 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
 | 🟡 Chuck | $0.000010 | **1.79x** ($+79) | 2.92x | ✅ | pumpswap | 2026-03-20 14:15 |
 | 🟡 Doolysaurus | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:04 |

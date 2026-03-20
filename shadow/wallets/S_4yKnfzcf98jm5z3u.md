@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (5 open, 2 closed) |
+| Positions | 8 (6 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+182 |
-| 🏦 Total | **$+61** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.5x |
+| 📦 Unrealized | $+184 |
+| 🏦 Total | **$+63** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 JackieChan | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 14:49 |
 | 🟡 Oracle | $0.000007 | **1.07x** ($+7) | 1.45x |  | pumpfun | 2026-03-20 13:57 |
 | 🔴 BANKSY | $0.000003 | **0.84x** ($-16) | 1.60x |  | pumpfun | 2026-03-20 13:15 |
 | 🔴 Chibi | $0.000005 | **0.68x** ($-32) | 1.20x |  | pumpfun | 2026-03-20 10:39 |

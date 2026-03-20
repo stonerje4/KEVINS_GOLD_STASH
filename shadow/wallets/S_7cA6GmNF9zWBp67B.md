@@ -9,16 +9,16 @@
 | Positions | 29 (26 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-190 |
-| 📦 Unrealized | $+133 |
-| 🏦 Total | **$-58** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| 📦 Unrealized | $+130 |
+| 🏦 Total | **$-60** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.37x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 xAI | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
+| 🔴 xAI | $0.000019 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
 | 🔴 Astro | $0.000007 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
 | 🟡 Anime | $0.000013 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 14:39 |
 | 🟡 ANIME | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:31 |

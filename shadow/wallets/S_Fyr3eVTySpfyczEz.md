@@ -9,16 +9,16 @@
 | Positions | 13 (11 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-92 |
-| 🏦 Total | **$-213** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.5x |
+| 📦 Unrealized | $-86 |
+| 🏦 Total | **$-207** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LEGENDS | $0.000007 | **1.08x** ($+8) | 1.27x |  | pumpfun | 2026-03-20 14:44 |
+| 🟡 LEGENDS | $0.000007 | **1.13x** ($+13) | 1.27x |  | pumpfun | 2026-03-20 14:44 |
 | 🟡 Shelby | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:59 |
 | 🟡 imagineslop | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
