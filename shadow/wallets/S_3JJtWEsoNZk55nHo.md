@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (10 open, 4 closed) |
+| Positions | 15 (11 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-400 |
 | 📦 Unrealized | $-11 |
 | 🏦 Total | **$-411** |
-| Best Trade | 0.0x |
-| Avg Peak | 102.5x |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DECEPTICONS | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:59 |
 | 🟡 SIGNAL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:58 |
 | 🟡 Patricia | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:15 |
 | 🟡 happiness | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:43 |

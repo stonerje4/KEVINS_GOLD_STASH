@@ -9,17 +9,17 @@
 | Positions | 55 (54 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
-| 📦 Unrealized | $-53 |
-| 🏦 Total | **$+138** |
-| Best Trade | 2.9x |
-| Avg Peak | 5.8x |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$+145** |
+| Best ROI | 2.91x |
+| Avg ROI | 2.91x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 FROGGO | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:51 |
-| 🟢 GSCOPE | $0.000003 | **2.51x** ($+151) | 2.85x | ✅ | pumpfun | 2026-03-20 14:37 |
+| 🟢 GSCOPE | $0.000003 | **2.66x** ($+166) | 2.85x | ✅ | pumpfun | 2026-03-20 14:37 |
 | 🔴 CHUCKNORRIS | $0.000003 | **0.99x** ($-1) | 1.13x |  | pumpfun | 2026-03-20 14:10 |
 | 🔴 OKARA | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 13:59 |
 | 🔴 MOSHI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:35 |

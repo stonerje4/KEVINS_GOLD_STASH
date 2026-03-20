@@ -9,16 +9,16 @@
 | Positions | 151 (120 open, 31 closed) |
 | W/L | 3/28 (10%) |
 | 💵 Realized | $+1,942 |
-| 📦 Unrealized | $+59 |
-| 🏦 Total | **$+2,001** |
-| Best Trade | 24.9x |
-| Avg Peak | 4.5x |
+| 📦 Unrealized | $+47 |
+| 🏦 Total | **$+1,989** |
+| Best ROI | 24.90x |
+| Avg ROI | 1.63x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBICC | $0.000077 | **1.14x** ($+14) | 1.29x |  | pumpswap | 2026-03-20 14:55 |
+| 🟡 CHIBICC | $0.000077 | **1.02x** ($+2) | 1.29x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 GANBARE | $0.000076 | **1.20x** ($+20) | 1.29x |  | pumpswap | 2026-03-20 14:50 |
 | 🟡 TPH | $0.000179 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 14:42 |
 | 🟡 Doom | $0.000063 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:31 |

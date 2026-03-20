@@ -9,10 +9,10 @@
 | Positions | 145 (142 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+152 |
-| 🏦 Total | **$-49** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| 📦 Unrealized | $+151 |
+| 🏦 Total | **$-50** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.33x |
 
 ## Open Positions
 
@@ -28,7 +28,7 @@
 | 🟡 Xingxing | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 TPH | $0.000171 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 GameTheory | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
-| 🔴 Sonny | $0.000005 | **0.62x** ($-38) | 1.02x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Sonny | $0.000005 | **0.61x** ($-39) | 1.02x |  | pumpswap | 2026-03-20 14:11 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🔴 Higuruma | $0.000020 | **0.70x** ($-30) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
 | 🟡 mogging | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:07 |

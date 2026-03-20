@@ -9,17 +9,17 @@
 | Positions | 19 (19 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+100 |
-| 🏦 Total | **$+100** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+101 |
+| 🏦 Total | **$+101** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LEE | $0.000008 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-20 14:54 |
-| 🟡 CHUCK | $0.000018 | **1.01x** ($+1) | 1.36x |  | pumpfun | 2026-03-20 14:37 |
+| 🟡 CHUCK | $0.000018 | **1.02x** ($+2) | 1.36x |  | pumpfun | 2026-03-20 14:37 |
 | 🟡 Chuck | $0.000195 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:26 |
 | 🟡 Nigel | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |

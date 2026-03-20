@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 86 (85 open, 1 closed) |
+| Positions | 87 (86 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
 | 📦 Unrealized | $-398 |
 | 🏦 Total | **$-415** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.1x |
+| Best ROI | 0.83x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHUCK | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:59 |
 | 🟡 BURNBEAR | $0.000003 | **1.02x** ($+2) | 1.03x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 Coglet | $0.000003 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-20 14:38 |
 | 🔴 Chucks | $0.000003 | **0.83x** ($-17) | 1.14x |  | pumpfun | 2026-03-20 14:33 |

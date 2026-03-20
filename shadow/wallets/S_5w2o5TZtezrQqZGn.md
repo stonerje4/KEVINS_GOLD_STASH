@@ -9,16 +9,16 @@
 | Positions | 15 (12 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $-30 |
-| 🏦 Total | **$-169** |
-| Best Trade | 0.8x |
-| Avg Peak | 1.4x |
+| 📦 Unrealized | $-27 |
+| 🏦 Total | **$-166** |
+| Best ROI | 0.83x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Mirai | $0.000011 | **1.11x** ($+11) | 1.31x |  | pumpfun | 2026-03-20 14:19 |
+| 🟡 Mirai | $0.000011 | **1.13x** ($+13) | 1.31x |  | pumpfun | 2026-03-20 14:19 |
 | 🟡 $CRAB | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:16 |
 | 🟡 awkward | $0.000015 | **1.18x** ($+18) | 1.20x |  | pumpfun | 2026-03-20 10:39 |
 | 🟡 Income | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:08 |

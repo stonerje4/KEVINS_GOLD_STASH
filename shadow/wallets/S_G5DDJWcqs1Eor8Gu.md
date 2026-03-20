@@ -9,17 +9,17 @@
 | Positions | 16 (14 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+150 |
-| 🏦 Total | **$+29** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| 📦 Unrealized | $+119 |
+| 🏦 Total | **$-1** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Steel | $0.000014 | **0.48x** ($-52) | 1.28x |  | pumpfun | 2026-03-20 14:41 |
-| 🟡 NunChucks | $0.000016 | **1.91x** ($+91) | 1.99x |  | pumpfun | 2026-03-20 14:32 |
+| 🔴 Steel | $0.000014 | **0.46x** ($-54) | 1.28x |  | pumpfun | 2026-03-20 14:41 |
+| 🟢 NunChucks | $0.000016 | **2.26x** ($+126) | 2.27x | ✅ | pumpfun | 2026-03-20 14:32 |
 | 🟡 Chonk | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000014 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 09:53 |
 | 🟢 omochi | $0.000015 | **2.49x** ($+149) | 2.49x | ✅ | pumpfun | 2026-03-20 09:36 |
