@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 73 (67 open, 6 closed) |
+| Positions | 74 (68 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $-149 |
 | 📦 Unrealized | $-170 |
 | 🏦 Total | **$-319** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.1x |
+| Best ROI | 1.49x |
+| Avg ROI | 0.75x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Nigel | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:19 |
 | 🟡 effect | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:08 |
 | 🟡 Simulation | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 Doolysaurus | $0.000118 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:00 |

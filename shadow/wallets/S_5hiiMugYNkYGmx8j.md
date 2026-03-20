@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (30 open, 2 closed) |
+| Positions | 33 (31 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-139 |
 | 📦 Unrealized | $+143 |
 | 🏦 Total | **$+4** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.39x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chuck | $0.000126 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:19 |
 | 🟡 CHUCK | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 pa | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:30 |
 | 🟡 Doolysaurus | $0.000149 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:28 |

@@ -9,16 +9,16 @@
 | Positions | 16 (14 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+58 |
-| 🏦 Total | **$-64** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.4x |
+| 📦 Unrealized | $+56 |
+| 🏦 Total | **$-65** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Norban | $0.000003 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
+| 🔴 Norban | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
 | 🟢 Chuck | $0.000011 | **3.43x** ($+243) | 3.43x | ✅ | pumpfun | 2026-03-20 14:13 |
 | 🟡 Chuck | $0.000516 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 ME | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:23 |

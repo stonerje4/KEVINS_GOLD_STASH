@@ -6,20 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 49 (47 open, 2 closed) |
-| W/L | 2/0 (100%) |
-| 💵 Realized | $+246 |
-| 📦 Unrealized | $-470 |
-| 🏦 Total | **$-223** |
-| Best Trade | 3.0x |
-| Avg Peak | 6.1x |
+| Positions | 49 (46 open, 3 closed) |
+| W/L | 3/0 (100%) |
+| 💵 Realized | $+422 |
+| 📦 Unrealized | $-538 |
+| 🏦 Total | **$-116** |
+| Best ROI | 2.99x |
+| Avg ROI | 2.41x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 $RIPCHUCK | $0.000003 | **1.39x** ($+39) | 2.41x | ✅ | pumpfun | 2026-03-20 13:57 |
-| 🟢 GbHQcNbZ | $0.000003 | **3.02x** ($+202) | 5.89x | ✅ | pumpfun | 2026-03-20 13:55 |
+| 🟡 $RIPCHUCK | $0.000003 | **1.40x** ($+40) | 2.41x | ✅ | pumpfun | 2026-03-20 13:57 |
 | 🟡 Floki | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:36 |
 | 🔴 4h4Qs4ae | $0.000004 | **0.67x** ($-33) | 1.13x |  | pumpfun | 2026-03-20 13:35 |
 | 🔴 CHIBI | $0.000004 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:32 |
@@ -70,6 +69,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟢 GbHQcNbZ | 2.76x | $+176 | trailing_stop_6x | 5.89x | pumpfun | 2026-03-20 13:55 → 2026-03-20 14:19 |
 | 🟢 Fg23icoW | 2.99x | $+199 | trailing_stop_9x | 8.92x | pumpfun | 2026-03-20 07:00 → 2026-03-20 07:52 |
 | 🟡 5X1D8L6s | 1.47x | $+47 | trailing_stop_3x | 3.37x | pumpfun | 2026-03-19 22:59 → 2026-03-19 23:36 |
 
