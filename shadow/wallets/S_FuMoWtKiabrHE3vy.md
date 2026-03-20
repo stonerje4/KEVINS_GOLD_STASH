@@ -1,6 +1,6 @@
-# Wallet: `4oTJrow46f5XU12EYh5YR5VWqvmnyk5QzuRK2zUHLSJE`
+# Wallet: `FuMoWtKiabrHE3vy9fSUVSgAgaCbRymQs9e9CJFwNo4b`
 
-> [View on Solscan](https://solscan.io/account/4oTJrow46f5XU12EYh5YR5VWqvmnyk5QzuRK2zUHLSJE) | Updated: 2026-03-20 10:52 UTC
+> [View on Solscan](https://solscan.io/account/FuMoWtKiabrHE3vy9fSUVSgAgaCbRymQs9e9CJFwNo4b) | Updated: 2026-03-20 10:52 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-5 |
-| 🏦 Total | **$-5** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 MILK | $0.000003 | **0.95x** ($-5) | 1.10x |  | pumpswap | 2026-03-20 07:16 |
+| 🟡 CHIBI | $0.003536 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:48 |
 
 ## Closed Positions
 

@@ -1,12 +1,12 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 10:47 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 10:52 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (11 open, 0 closed) |
+| Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+98 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ANIME | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:50 |
 | 🟡 Freddie | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:32 |
 | 🟡 Income | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |

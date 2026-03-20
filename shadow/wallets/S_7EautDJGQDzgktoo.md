@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 10:47 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 10:52 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-332 |
 | 📦 Unrealized | $-53 |
-| 🏦 Total | **$-385** |
+| 🏦 Total | **$-386** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.6x |
 
@@ -26,7 +26,7 @@
 | 🟡 CL1 | $0.000396 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |
 | 🟡 Solana | $0.000150 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:43 |
 | 🟡 Downald | $0.000590 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
-| 🟡 67 | $0.001291 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 02:57 |
+| 🟡 67 | $0.001291 | **1.03x** ($+3) | 1.07x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 BIG | $0.000081 | **1.06x** ($+6) | 1.10x |  | pumpswap | 2026-03-20 02:44 |
 | 🟡 CHANNELS | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:12 |

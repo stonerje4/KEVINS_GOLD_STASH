@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 10:47 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 10:52 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 66 (64 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-120 |
-| 📦 Unrealized | $-63 |
-| 🏦 Total | **$-183** |
+| 📦 Unrealized | $-69 |
+| 🏦 Total | **$-189** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -23,7 +23,7 @@
 | 🔴 Tastecoin | $0.000167 | **0.89x** ($-11) | 1.03x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 FIH | $0.000199 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:21 |
 | 🟡 Strawberita | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
-| 🔴 PATRIOT | $0.000009 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
+| 🔴 PATRIOT | $0.000009 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 DAU | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 LIBERTY | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |

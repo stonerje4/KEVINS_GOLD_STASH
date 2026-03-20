@@ -1,6 +1,6 @@
 # Wallet: `H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH`
 
-> [View on Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-20 10:47 UTC
+> [View on Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-20 10:52 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+20 |
-| 🏦 Total | **$+20** |
+| 📦 Unrealized | $+25 |
+| 🏦 Total | **$+25** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -22,7 +22,7 @@
 | 🔴 HONGWU | $0.000148 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 07:47 |
 | 🟡 OXIDE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 電王 | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:31 |
-| 🟡 YEPE | $0.000088 | **1.21x** ($+21) | 1.29x |  | pumpswap | 2026-03-20 07:24 |
+| 🟡 YEPE | $0.000088 | **1.26x** ($+26) | 1.32x |  | pumpswap | 2026-03-20 07:24 |
 | 🟡 OSP | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:21 |
 
 ## Closed Positions

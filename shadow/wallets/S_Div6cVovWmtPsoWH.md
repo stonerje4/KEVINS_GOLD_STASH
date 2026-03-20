@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 10:47 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 10:52 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (15 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-203 |
-| 📦 Unrealized | $-128 |
-| 🏦 Total | **$-331** |
+| 📦 Unrealized | $-141 |
+| 🏦 Total | **$-343** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.6x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Cow | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:10 |
-| 🟡 Invincible | $0.000006 | **1.24x** ($+24) | 1.24x |  | pumpswap | 2026-03-20 08:19 |
+| 🟡 Invincible | $0.000006 | **1.12x** ($+12) | 1.24x |  | pumpswap | 2026-03-20 08:19 |
 | 🟡 BOAT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
 | 🔴 CARROT | $0.000009 | **0.92x** ($-8) | 1.12x |  | pumpswap | 2026-03-20 06:42 |
 | 🔴 METEOR | $0.000005 | **0.67x** ($-33) | 1.15x |  | pumpfun | 2026-03-20 05:43 |
