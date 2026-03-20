@@ -1,23 +1,25 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 11:24 UTC
+> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 11:28 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (13 open, 5 closed) |
+| Positions | 20 (15 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-153 |
 | 📦 Unrealized | $+26,616 |
 | 🏦 Total | **$+26,463** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.69x |
+| Best Trade | 1.5x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 GROKHOUSE | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:27 |
+| 🟡 Patricia | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:25 |
 | 🟡 Pixels | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:18 |
 | 🟡 Attention | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🚀 CORPORATE | $0.000000 | **121.57x** ($+12,057) | 761.14x | ✅ | pumpfun | 2026-03-20 05:17 |

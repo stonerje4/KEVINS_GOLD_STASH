@@ -1,23 +1,24 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 11:24 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 11:28 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 54 (49 open, 5 closed) |
+| Positions | 55 (50 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
 | 📦 Unrealized | $-158 |
 | 🏦 Total | **$-356** |
-| Best ROI | 1.46x |
-| Avg ROI | 0.60x |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 Sybil  | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:16 |
 | 🟡 Chibify | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:16 |
 | 🟡 DRIVE | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:54 |

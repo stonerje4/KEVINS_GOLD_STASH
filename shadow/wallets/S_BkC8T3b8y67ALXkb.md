@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 11:24 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 11:28 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 68 (66 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-120 |
-| 📦 Unrealized | $-72 |
-| 🏦 Total | **$-193** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| 📦 Unrealized | $-64 |
+| 🏦 Total | **$-184** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🟡 gugugaga | $0.000146 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:56 |
 | 🟡 Alien | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:02 |
 | 🟡 Luxury | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:56 |
-| 🔴 Tastecoin | $0.000167 | **0.89x** ($-11) | 1.03x |  | pumpswap | 2026-03-20 08:51 |
+| 🔴 Tastecoin | $0.000167 | **0.88x** ($-12) | 1.03x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 FIH | $0.000199 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:21 |
 | 🟡 Strawberita | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🔴 PATRIOT | $0.000009 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
@@ -31,13 +31,13 @@
 | 🟡 LIBERTY | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 HeavyPulp | $0.001092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
 | 🟡 Massive | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
-| 🔴 George | $0.000019 | **0.49x** ($-51) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
+| 🔴 George | $0.000019 | **0.48x** ($-52) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
 | 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🟡 worth | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 Rosie | $0.000797 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:51 |
 | 🟡 Momo-chan | $0.000312 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🔴 NATIVELY | $0.000038 | **0.89x** ($-11) | 1.31x |  | cpmm | 2026-03-20 04:46 |
+| 🔴 NATIVELY | $0.000038 | **0.90x** ($-10) | 1.31x |  | cpmm | 2026-03-20 04:46 |
 | 🟡 LUMO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Solana | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Spiderman | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
@@ -49,7 +49,7 @@
 | 🟡 PIZZA | $0.000184 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 UGOR | $0.000863 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 AIFRUITS | $0.000671 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
-| 🟡 SOS | $0.000976 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-20 03:41 |
+| 🟡 SOS | $0.000976 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 CHIBI | $0.000816 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 LIFE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 PIKAHORSE | $0.000331 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |

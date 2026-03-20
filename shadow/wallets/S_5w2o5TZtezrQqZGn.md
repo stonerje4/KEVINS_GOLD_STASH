@@ -1,6 +1,6 @@
 # Wallet: `5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m`
 
-> [View on Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 11:24 UTC
+> [View on Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 11:28 UTC
 
 ## Summary
 
@@ -9,25 +9,25 @@
 | Positions | 14 (11 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $-56 |
-| 🏦 Total | **$-195** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.54x |
+| 📦 Unrealized | $-66 |
+| 🏦 Total | **$-205** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 $CRAB | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:16 |
-| 🔴 awkward | $0.000015 | **0.69x** ($-31) | 1.00x |  | pumpfun | 2026-03-20 10:39 |
+| 🔴 awkward | $0.000015 | **0.66x** ($-34) | 1.00x |  | pumpfun | 2026-03-20 10:39 |
 | 🟡 Income | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:08 |
 | 🟡 twump | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:56 |
 | 🟡 CLAWPICKS | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 07:01 |
-| 🔴 Imaginify | $0.000017 | **0.84x** ($-16) | 1.15x |  | pumpfun | 2026-03-20 06:39 |
-| 🔴 PLOTT | $0.000008 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 06:37 |
+| 🔴 Imaginify | $0.000017 | **0.80x** ($-20) | 1.15x |  | pumpfun | 2026-03-20 06:39 |
+| 🔴 PLOTT | $0.000008 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 06:37 |
 | 🔴 SOLANA | $0.000004 | **0.70x** ($-30) | 1.15x |  | pumpfun | 2026-03-20 06:28 |
 | 🟡 NEMO | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:13 |
-| 🟡 PACO | $0.000019 | **1.31x** ($+31) | 1.32x |  | pumpfun | 2026-03-20 05:07 |
+| 🟡 PACO | $0.000019 | **1.30x** ($+30) | 1.32x |  | pumpfun | 2026-03-20 05:07 |
 | 🟡 01PL | $0.000023 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 04:32 |
 
 ## Closed Positions

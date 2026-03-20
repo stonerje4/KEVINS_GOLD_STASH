@@ -1,23 +1,24 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 11:24 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 11:28 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (25 open, 0 closed) |
+| Positions | 26 (26 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+50 |
 | 🏦 Total | **$+50** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 EDGE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:27 |
 | 🟡 NBR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:09 |
 | 🟡 LIBERTY | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:33 |
 | 🟡 BBX | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:58 |
