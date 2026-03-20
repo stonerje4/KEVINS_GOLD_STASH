@@ -1,16 +1,16 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 18:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 18:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (10 open, 0 closed) |
+| Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-42 |
-| 🏦 Total | **$-42** |
+| 📦 Unrealized | $-41 |
+| 🏦 Total | **$-41** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 NARUTO | $0.000010 | **1.03x** ($+3) | 1.08x |  | pumpfun | 2026-03-20 18:15 |
+| 🟡 ROUNDHOUSE | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:23 |
+| 🟡 NARUTO | $0.000010 | **1.02x** ($+2) | 1.08x |  | pumpfun | 2026-03-20 18:15 |
 | 🟡 Sunshine | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:53 |
-| 🔴 Civil Claude | $0.000023 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-20 17:32 |
+| 🔴 Civil Claude | $0.000023 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 17:32 |
 | 🟡 twump | $0.000007 | **1.13x** ($+13) | 1.19x |  | pumpfun | 2026-03-20 17:31 |
 | 🟡 SCELON | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:49 |
 | 🟡 JupUSD | $0.182981 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 07:49 |

@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 18:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 18:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 26 (25 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-104 |
-| 🏦 Total | **$-182** |
+| 📦 Unrealized | $-75 |
+| 🏦 Total | **$-153** |
 | Best ROI | 0.23x |
 | Avg ROI | 0.23x |
 
@@ -36,7 +36,7 @@
 | 🔴 DRIVE | $0.000028 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 07:09 |
 | 🟡 Luxury | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:24 |
 | 🟢 Alien | $0.000016 | **2.39x** ($+139) | 2.72x | ✅ | pumpswap | 2026-03-20 03:58 |
-| 🟡 LUMO | $0.000034 | **1.42x** ($+42) | 1.65x |  | pumpswap | 2026-03-20 03:58 |
+| 🟡 LUMO | $0.000034 | **1.71x** ($+71) | 1.82x |  | pumpswap | 2026-03-20 03:58 |
 | 🔴 Patricia | $0.000020 | **0.73x** ($-27) | 1.02x |  | pumpswap | 2026-03-20 02:38 |
 | 🔴 BOAT | $0.000009 | **0.62x** ($-38) | 1.10x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 Taylor | $0.000012 | **0.56x** ($-44) | 1.22x |  | pumpswap | 2026-03-20 00:15 |

@@ -1,12 +1,12 @@
 # Wallet: `Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ`
 
-> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 18:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 18:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (14 open, 3 closed) |
+| Positions | 19 (16 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-200 |
 | 📦 Unrealized | $-16 |
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 XCAT | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:24 |
+| 🟡 Optimistic | $0.000696 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:22 |
 | 🟡 corporate | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 17:29 |
 | 🟡 SMCI | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:23 |
 | 🟡 HelloWorld! | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:01 |

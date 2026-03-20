@@ -1,12 +1,12 @@
 # Wallet: `J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT`
 
-> [GMGN](https://gmgn.ai/sol/address/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | [Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 18:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | [Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-20 18:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (7 open, 4 closed) |
+| Positions | 12 (8 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-245 |
 | 📦 Unrealized | $+6 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 XCAT | $0.000137 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:22 |
 | 🟡 HELLO | $0.000131 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:18 |
 | 🟡 MOSHI | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:24 |
 | 🟡 RULEBOOK | $0.000069 | **1.00x** ($+0) | 1.12x |  | pumpswap | 2026-03-20 13:03 |

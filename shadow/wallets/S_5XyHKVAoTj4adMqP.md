@@ -1,6 +1,6 @@
 # Wallet: `5XyHKVAoTj4adMqPgZ6UkYvRGhpTRnC5b1KytPy7WCtR`
 
-> [GMGN](https://gmgn.ai/sol/address/5XyHKVAoTj4adMqPgZ6UkYvRGhpTRnC5b1KytPy7WCtR) | [Solscan](https://solscan.io/account/5XyHKVAoTj4adMqPgZ6UkYvRGhpTRnC5b1KytPy7WCtR) | Updated: 2026-03-20 18:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/5XyHKVAoTj4adMqPgZ6UkYvRGhpTRnC5b1KytPy7WCtR) | [Solscan](https://solscan.io/account/5XyHKVAoTj4adMqPgZ6UkYvRGhpTRnC5b1KytPy7WCtR) | Updated: 2026-03-20 18:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (2 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+2 |
-| 🏦 Total | **$-118** |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-143** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 HUGH | $0.000013 | **1.02x** ($+2) | 1.51x |  | pumpswap | 2026-03-20 10:18 |
+| 🔴 HUGH | $0.000013 | **0.77x** ($-23) | 1.51x |  | pumpswap | 2026-03-20 10:18 |
 | 🟡 DOGEFATHER | $0.000015 | **1.01x** ($+1) | 2.02x | ✅ | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions

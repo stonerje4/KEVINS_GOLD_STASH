@@ -1,6 +1,6 @@
 # Wallet: `5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m`
 
-> [GMGN](https://gmgn.ai/sol/address/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | [Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 18:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | [Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 18:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (9 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-337 |
-| 📦 Unrealized | $+37 |
-| 🏦 Total | **$-299** |
+| 📦 Unrealized | $+39 |
+| 🏦 Total | **$-298** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.44x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 twump | $0.000008 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 17:47 |
-| 🟡 Civil Claude | $0.000020 | **1.02x** ($+2) | 1.52x |  | pumpfun | 2026-03-20 17:19 |
+| 🟡 Civil Claude | $0.000020 | **1.04x** ($+4) | 1.52x |  | pumpfun | 2026-03-20 17:19 |
 | 🟡 Mirai | $0.000011 | **1.54x** ($+54) | 1.90x |  | pumpfun | 2026-03-20 14:19 |
 | 🔴 awkward | $0.000015 | **0.80x** ($-20) | 1.20x |  | pumpfun | 2026-03-20 10:39 |
 | 🟡 Income | $0.000009 | **1.46x** ($+46) | 2.48x | ✅ | pumpfun | 2026-03-20 09:08 |
