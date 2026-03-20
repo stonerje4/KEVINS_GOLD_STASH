@@ -1,16 +1,16 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 09:51 UTC
+> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 09:56 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (7 open, 8 closed) |
+| Positions | 16 (8 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-252 |
-| 📦 Unrealized | $-183 |
-| 🏦 Total | **$-436** |
+| 📦 Unrealized | $-250 |
+| 🏦 Total | **$-502** |
 | Best Trade | 2.9x |
 | Avg Peak | 2.1x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 5ycGinQL | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟡 8j6jehro | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:42 |
-| 🟡 Doolysaurus | $0.000011 | **1.18x** ($+18) | 1.81x |  | pumpfun | 2026-03-20 09:27 |
+| 🔴 Doolysaurus | $0.000011 | **0.52x** ($-48) | 1.81x |  | pumpfun | 2026-03-20 09:27 |
 | 🔴 6sJSQVtw | $0.000004 | **0.64x** ($-36) | 1.58x |  | pumpfun | 2026-03-20 09:25 |
 | 🔴 32VQkt6V | $0.000003 | **0.80x** ($-20) | 1.53x |  | pumpfun | 2026-03-20 09:20 |
 | 🔴 FROG | $0.000004 | **0.62x** ($-38) | 1.49x |  | pumpfun | 2026-03-20 08:26 |

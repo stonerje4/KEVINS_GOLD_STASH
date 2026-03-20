@@ -1,6 +1,6 @@
 # Wallet: `4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G`
 
-> [View on Solscan](https://solscan.io/account/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) | Updated: 2026-03-20 09:51 UTC
+> [View on Solscan](https://solscan.io/account/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) | Updated: 2026-03-20 09:56 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OM | $0.000012 | **0.61x** ($-39) | 1.24x |  | pumpfun | 2026-03-20 08:52 |
+| 🔴 OM | $0.000012 | **0.60x** ($-40) | 1.24x |  | pumpfun | 2026-03-20 08:52 |
 | 🔴 SOLANA | $0.000008 | **0.44x** ($-56) | 1.15x |  | pumpfun | 2026-03-20 06:18 |
 | 🔴 PACO | $0.000023 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 04:43 |
 

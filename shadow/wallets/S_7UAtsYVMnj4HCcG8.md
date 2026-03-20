@@ -1,6 +1,6 @@
 # Wallet: `7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4`
 
-> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 09:51 UTC
+> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 09:56 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-99 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-115** |
+| 📦 Unrealized | $-12 |
+| 🏦 Total | **$-111** |
 | Best Trade | 0.0x |
 | Avg Peak | 1.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 ALT | $0.000147 | **1.01x** ($+1) | 1.01x |  | cpmm | 2026-03-20 08:55 |
 | 🟡 SOL#000 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:53 |
-| 🔴 COMMODITIES | $0.000003 | **0.78x** ($-22) | 1.07x |  | pumpswap | 2026-03-20 08:52 |
+| 🔴 COMMODITIES | $0.000003 | **0.82x** ($-18) | 1.07x |  | pumpswap | 2026-03-20 08:52 |
 | 🟡 JOBS | $0.000008 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 02:14 |
 | 🟡 FXnXfw9m | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:12 |
 | 🟡 JupUSD | $0.030481 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:00 |

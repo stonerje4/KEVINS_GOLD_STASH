@@ -1,6 +1,6 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 09:51 UTC
+> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 09:56 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-24** |
+| 📦 Unrealized | $-21 |
+| 🏦 Total | **$-21** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -21,7 +21,7 @@
 | 🔴 401k | $0.000008 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 08:48 |
 | 🟡 HUNT | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 08:41 |
 | 🔴 ONSING | $0.000009 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-20 08:00 |
-| 🟡 AUTISM | $0.000188 | **1.01x** ($+1) | 1.12x |  | pumpswap | 2026-03-20 07:43 |
+| 🟡 AUTISM | $0.000188 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-20 07:43 |
 | 🟡 Ouroboros | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
 | 🟡 ZeroG | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:38 |
 | 🟡 MOCHI | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:37 |

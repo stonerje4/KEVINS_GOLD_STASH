@@ -1,6 +1,6 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 09:51 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 09:56 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 30 (28 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+246 |
-| 📦 Unrealized | $-426 |
+| 📦 Unrealized | $-427 |
 | 🏦 Total | **$-180** |
 | Best Trade | 3.0x |
 | Avg Peak | 6.1x |
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Gjsw8QUC | $0.000004 | **0.66x** ($-34) | 1.17x |  | pumpfun | 2026-03-20 09:23 |
+| 🔴 Gjsw8QUC | $0.000004 | **0.65x** ($-35) | 1.17x |  | pumpfun | 2026-03-20 09:23 |
 | 🔴 GAAS | $0.000004 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 CARL | $0.000003 | **0.71x** ($-29) | 1.07x |  | pumpfun | 2026-03-20 08:35 |
 | 🔴 TROILL | $0.000003 | **0.86x** ($-14) | 1.02x |  | pumpfun | 2026-03-20 08:25 |

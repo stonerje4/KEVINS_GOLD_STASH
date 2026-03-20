@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 09:51 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 09:56 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 60 (59 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-181 |
-| 🏦 Total | **$-197** |
+| 📦 Unrealized | $-178 |
+| 🏦 Total | **$-194** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 chibidoge | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:43 |
-| 🔴 SWAGGY | $0.000003 | **0.94x** ($-6) | 1.04x |  | pumpfun | 2026-03-20 09:40 |
+| 🔴 SWAGGY | $0.000003 | **0.99x** ($-1) | 1.04x |  | pumpfun | 2026-03-20 09:40 |
 | 🔴 CTRUMP | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 09:36 |
 | 🔴 Nascat | $0.000003 | **0.81x** ($-19) | 1.04x |  | pumpfun | 2026-03-20 09:08 |
 | 🔴 ChibiJak | $0.000003 | **0.87x** ($-13) | 1.23x |  | pumpfun | 2026-03-20 08:46 |
@@ -31,7 +31,7 @@
 | 🔴 PIXELS | $0.000003 | **0.85x** ($-15) | 1.25x |  | pumpfun | 2026-03-20 07:43 |
 | 🔴 Kin-Kun | $0.000003 | **0.92x** ($-8) | 1.03x |  | pumpfun | 2026-03-20 07:37 |
 | 🔴 CHIBELON | $0.000003 | **0.92x** ($-8) | 1.12x |  | pumpfun | 2026-03-20 07:26 |
-| 🟡 ChibiElon | $0.000003 | **1.33x** ($+33) | 1.33x |  | pumpfun | 2026-03-20 07:22 |
+| 🟡 ChibiElon | $0.000003 | **1.31x** ($+31) | 1.33x |  | pumpfun | 2026-03-20 07:22 |
 | 🔴 AEkbUJLT | $0.000003 | **0.81x** ($-19) | 1.06x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 4/20 | $0.000003 | **0.93x** ($-7) | 1.02x |  | pumpfun | 2026-03-20 06:40 |
 | 🔴 HUGH | $0.000003 | **0.84x** ($-16) | 1.03x |  | pumpfun | 2026-03-20 06:36 |
