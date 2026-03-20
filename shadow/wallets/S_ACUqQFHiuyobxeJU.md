@@ -9,16 +9,16 @@
 | Positions | 15 (14 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-74 |
-| 📦 Unrealized | $-119 |
-| 🏦 Total | **$-193** |
-| Best Trade | 0.3x |
-| Avg Peak | 3.5x |
+| 📦 Unrealized | $-125 |
+| 🏦 Total | **$-198** |
+| Best ROI | 0.26x |
+| Avg ROI | 0.26x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 AC3ydFNc | $0.000013 | **2.01x** ($+101) | 2.41x | ✅ | pumpfun | 2026-03-20 13:25 |
+| 🟡 AC3ydFNc | $0.000013 | **1.90x** ($+90) | 2.41x | ✅ | pumpfun | 2026-03-20 13:25 |
 | 🔴 Boobachu | $0.000006 | **0.45x** ($-55) | 1.12x |  | pumpfun | 2026-03-20 13:24 |
 | 🔴 2ttRZJaJ | $0.000003 | **0.92x** ($-8) | 1.81x |  | pumpfun | 2026-03-20 13:24 |
 | 🔴 Unikowsky | $0.000003 | **0.78x** ($-22) | 1.00x |  | pumpfun | 2026-03-20 13:14 |

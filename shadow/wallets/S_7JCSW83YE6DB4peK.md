@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 124 (121 open, 3 closed) |
+| Positions | 125 (122 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
 | 📦 Unrealized | $+205 |
 | 🏦 Total | **$+4** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.33x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 MIM | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🟡 BIG | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🔴 CLAIR | $0.000013 | **0.99x** ($-1) | 1.12x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 HORMUZ | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |

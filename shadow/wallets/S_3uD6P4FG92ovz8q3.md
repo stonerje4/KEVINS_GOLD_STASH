@@ -9,16 +9,16 @@
 | Positions | 14 (14 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+70 |
-| 🏦 Total | **$+70** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+90 |
+| 🏦 Total | **$+90** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MOSHI | $0.000003 | **1.09x** ($+9) | 1.20x |  | pumpfun | 2026-03-20 13:22 |
+| 🟡 MOSHI | $0.000003 | **1.29x** ($+29) | 1.29x |  | pumpfun | 2026-03-20 13:22 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 C7NSBRKs | $0.000003 | **1.37x** ($+37) | 1.47x |  | pumpfun | 2026-03-20 13:19 |

@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 242 (238 open, 4 closed) |
+| Positions | 243 (239 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+17 |
 | 📦 Unrealized | $+89 |
 | 🏦 Total | **$+105** |
-| Best Trade | 3.0x |
-| Avg Peak | 3.4x |
+| Best ROI | 2.99x |
+| Avg ROI | 1.04x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Fro | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🟡 JEREMY | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:15 |
 | 🟡 BBX | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 LAYOFF | $0.000243 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |

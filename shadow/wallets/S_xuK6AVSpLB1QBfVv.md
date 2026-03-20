@@ -6,19 +6,20 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 76 (75 open, 1 closed) |
+| Positions | 77 (76 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-299 |
-| 🏦 Total | **$-316** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.1x |
+| 📦 Unrealized | $-295 |
+| 🏦 Total | **$-311** |
+| Best ROI | 0.83x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 DOJI | $0.000003 | **0.80x** ($-20) | 1.00x |  | pumpfun | 2026-03-20 13:32 |
+| 🟡 GROKTIRED | $0.000003 | **1.06x** ($+6) | 1.06x |  | pumpfun | 2026-03-20 13:34 |
+| 🔴 DOJI | $0.000003 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 13:32 |
 | 🔴 PIKACHUGS | $0.000003 | **0.90x** ($-10) | 1.07x |  | pumpfun | 2026-03-20 13:28 |
 | 🔴 $1RUN | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 13:22 |
 | 🔴 D23KwwsG | $0.000003 | **0.87x** ($-13) | 1.05x |  | pumpfun | 2026-03-20 13:04 |
