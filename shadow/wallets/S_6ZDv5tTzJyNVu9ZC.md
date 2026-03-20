@@ -1,16 +1,16 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 20:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 20:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 127 (123 open, 4 closed) |
+| Positions | 128 (124 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+56 |
-| 📦 Unrealized | $-199 |
-| 🏦 Total | **$-143** |
+| 📦 Unrealized | $-215 |
+| 🏦 Total | **$-159** |
 | Best ROI | 2.95x |
 | Avg ROI | 1.14x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BCKR | $0.000025 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 20:04 |
+| 🔴 Massive | $0.000027 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 20:12 |
+| 🔴 BCKR | $0.000025 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 20:04 |
 | 🟡 CRANK | $0.000017 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 19:14 |
 | 🔴 GOYBEAM | $0.000008 | **1.00x** ($-0) | 1.06x |  | pumpswap | 2026-03-20 18:57 |
 | 🟡 aliens  | $0.000016 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 18:48 |
@@ -29,7 +30,7 @@
 | 🔴 Situation | $0.000030 | **0.98x** ($-2) | 1.42x |  | pumpswap | 2026-03-20 17:24 |
 | 🟡 PEACE | $0.000021 | **1.32x** ($+32) | 1.53x |  | pumpswap | 2026-03-20 17:10 |
 | 🔴 INCOG | $0.000013 | **0.97x** ($-3) | 1.04x |  | pumpswap | 2026-03-20 17:05 |
-| 🔴 Sybil  | $0.000025 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
+| 🔴 Sybil  | $0.000025 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
 | 🟡 TUNE | $0.000014 | **1.01x** ($+1) | 1.08x |  | pumpswap | 2026-03-20 16:49 |
 | 🔴 chibify | $0.000008 | **0.88x** ($-12) | 1.05x |  | pumpswap | 2026-03-20 16:18 |
 | 🟡 NORMIE | $0.000020 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 16:06 |
@@ -91,7 +92,7 @@
 | 🟡 ACT: S | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 FKH | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🔴 Moe-chan | $0.000014 | **0.95x** ($-5) | 1.20x |  | pumpswap | 2026-03-20 04:36 |
-| 🔴 Xingxing | $0.000025 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 04:25 |
+| 🔴 Xingxing | $0.000025 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 04:25 |
 | 🟡 SPESH | $0.000005 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-20 04:09 |
 | 🟡 eUSD | $0.000012 | **1.11x** ($+11) | 1.16x |  | pumpswap | 2026-03-20 04:04 |
 | 🟡 Gascoin | $0.000032 | **1.08x** ($+8) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
@@ -119,13 +120,13 @@
 | 🔴 italianrot | $0.000006 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-20 01:05 |
 | 🔴 Microwaved | $0.000025 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 01:02 |
 | 🟡 咕咕嘎嘎 | $0.000010 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 00:59 |
-| 🔴 Speak | $0.000023 | **0.52x** ($-48) | 1.20x |  | pumpswap | 2026-03-20 00:57 |
+| 🔴 Speak | $0.000023 | **0.53x** ($-47) | 1.20x |  | pumpswap | 2026-03-20 00:57 |
 | 🔴 SCOTT | $0.000012 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 00:51 |
 | 🔴 Monke | $0.000011 | **0.77x** ($-23) | 1.06x |  | pumpswap | 2026-03-20 00:51 |
 | 🟡 KING | $0.000027 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-20 00:23 |
 | 🔴 5 | $0.000010 | **0.76x** ($-24) | 1.24x |  | pumpswap | 2026-03-20 00:18 |
 | 🔴 wallahi | $0.000033 | **0.81x** ($-19) | 1.10x |  | pumpswap | 2026-03-20 00:15 |
-| 🔴 Feels | $0.000012 | **0.93x** ($-7) | 1.50x |  | pumpswap | 2026-03-19 23:53 |
+| 🔴 Feels | $0.000012 | **0.91x** ($-9) | 1.50x |  | pumpswap | 2026-03-19 23:53 |
 | 🟡 GAS | $0.000010 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-19 23:48 |
 | 🟡 来根华子 | $0.000010 | **1.05x** ($+5) | 1.11x |  | pumpswap | 2026-03-19 23:48 |
 | 🔴 bio/acc | $0.000017 | **0.92x** ($-8) | 1.03x |  | pumpswap | 2026-03-19 23:41 |

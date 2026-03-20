@@ -1,16 +1,16 @@
 # Wallet: `Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w`
 
-> [GMGN](https://gmgn.ai/sol/address/Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w) | [Solscan](https://solscan.io/account/Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w) | Updated: 2026-03-20 20:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w) | [Solscan](https://solscan.io/account/Drn9pj3cVfZRBgqtSPESdePC27qWQRzbSBY5qWPzTs5w) | Updated: 2026-03-20 20:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-34** |
+| 📦 Unrealized | $-30 |
+| 🏦 Total | **$-30** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 BABYCHIBI | $0.000014 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 20:12 |
 | 🔴 twump | $0.000011 | **0.66x** ($-34) | 1.00x |  | pumpfun | 2026-03-20 13:45 |
 
 ## Closed Positions
