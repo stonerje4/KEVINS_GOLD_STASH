@@ -1,6 +1,6 @@
 # Wallet: `6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n`
 
-> [View on Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 10:17 UTC
+> [View on Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 10:22 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 PUPPY | $0.000338 | **2.60x** ($+160) | 2.67x | ✅ | pumpswap | 2026-03-20 03:53 |
+| 🟢 PUPPY | $0.000338 | **2.61x** ($+161) | 2.67x | ✅ | pumpswap | 2026-03-20 03:53 |
 
 ## Closed Positions
 

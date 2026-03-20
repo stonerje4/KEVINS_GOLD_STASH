@@ -1,6 +1,6 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [View on Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 10:17 UTC
+> [View on Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 10:22 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (10 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-19 |
-| 📦 Unrealized | $+36 |
-| 🏦 Total | **$+17** |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$+19** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.1x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Effect | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:11 |
-| 🟡 CHIBI | $0.000009 | **1.15x** ($+15) | 2.45x | ✅ | pumpfun | 2026-03-20 09:57 |
+| 🟡 CHIBI | $0.000009 | **1.18x** ($+18) | 2.45x | ✅ | pumpfun | 2026-03-20 09:57 |
 | 🟢 IMAGINE | $0.000011 | **2.67x** ($+167) | 3.04x | ✅ | pumpfun | 2026-03-20 02:37 |
 | 🟡 MFT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
 | 🟡 Cow | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:22 |

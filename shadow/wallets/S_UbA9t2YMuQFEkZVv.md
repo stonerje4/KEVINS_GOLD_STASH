@@ -1,6 +1,6 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 10:17 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 10:22 UTC
 
 ## Summary
 
@@ -24,7 +24,7 @@
 | 🟡 TGR | $0.000003 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-20 08:06 |
 | 🟡 GASR | $0.000003 | **1.16x** ($+16) | 1.26x |  | pumpfun | 2026-03-20 08:03 |
 | 🟡 UGOR | $0.000004 | **1.02x** ($+2) | 1.12x |  | pumpfun | 2026-03-20 07:50 |
-| 🟡 GCOIN | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:46 |
+| 🟡 GCOIN | $0.000004 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 07:46 |
 | 🟡 OSP | $0.000003 | **1.42x** ($+42) | 1.45x |  | pumpfun | 2026-03-20 07:17 |
 | 🟡 UGOR | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 07:10 |
 | 🟡 BBX | $0.000266 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:33 |

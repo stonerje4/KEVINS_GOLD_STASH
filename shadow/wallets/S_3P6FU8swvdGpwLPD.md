@@ -1,12 +1,12 @@
 # Wallet: `3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1`
 
-> [View on Solscan](https://solscan.io/account/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | Updated: 2026-03-20 10:17 UTC
+> [View on Solscan](https://solscan.io/account/3P6FU8swvdGpwLPD88eHX6oHujA2zhqRxKxbGrqZF3a1) | Updated: 2026-03-20 10:22 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
+| Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-38 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WIZARD | $0.000368 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:17 |
 | 🟡 STIV | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:08 |
 | 🟡 0 | $0.000099 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 09:42 |
 | 🔴 Baldi | $0.000025 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 05:38 |

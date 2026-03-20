@@ -1,6 +1,6 @@
-# Wallet: `3DvvfDupSoTDJrPmcG7MW6CK3sm4j161WSsQYQEs4FLZ`
+# Wallet: `AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE`
 
-> [View on Solscan](https://solscan.io/account/3DvvfDupSoTDJrPmcG7MW6CK3sm4j161WSsQYQEs4FLZ) | Updated: 2026-03-20 10:22 UTC
+> [View on Solscan](https://solscan.io/account/AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE) | Updated: 2026-03-20 10:22 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 DAWAE | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:27 |
+| 🟡 ANIME | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 
 ## Closed Positions
 

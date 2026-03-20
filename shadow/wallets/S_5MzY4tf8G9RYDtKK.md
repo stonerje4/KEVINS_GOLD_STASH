@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 10:17 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 10:22 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 48 (27 open, 21 closed) |
 | W/L | 0/21 (0%) |
 | 💵 Realized | $-1,102 |
-| 📦 Unrealized | $-321 |
-| 🏦 Total | **$-1,423** |
+| 📦 Unrealized | $-295 |
+| 🏦 Total | **$-1,396** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,12 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Doolysaurus | $0.000006 | **0.99x** ($-1) | 1.46x |  | pumpfun | 2026-03-20 09:52 |
+| 🟡 Doolysaurus | $0.000006 | **1.26x** ($+26) | 1.46x |  | pumpfun | 2026-03-20 09:52 |
 | 🔴 我的猪盾 | $0.000006 | **0.47x** ($-53) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 IMAGINE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |
 | 🟡 IMAGINE | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🟡 Civil Claude | $0.000013 | **1.15x** ($+15) | 2.16x | ✅ | pumpfun | 2026-03-20 04:55 |
+| 🟡 Civil Claude | $0.000013 | **1.14x** ($+14) | 2.16x | ✅ | pumpfun | 2026-03-20 04:55 |
 | 🟡 MFT | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🟡 SPARKOS | $0.000109 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:48 |
 | 🟡 W | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:13 |

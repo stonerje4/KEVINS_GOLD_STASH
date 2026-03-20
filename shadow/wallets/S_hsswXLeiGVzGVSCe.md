@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 10:17 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 10:22 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 148 (133 open, 15 closed) |
 | W/L | 7/8 (47%) |
 | 💵 Realized | $+1,019 |
-| 📦 Unrealized | $-2,534 |
-| 🏦 Total | **$-1,514** |
+| 📦 Unrealized | $-2,528 |
+| 🏦 Total | **$-1,508** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.0x |
 
@@ -45,7 +45,7 @@
 | 🔴 Arc | $0.000004 | **0.62x** ($-38) | 1.60x |  | pumpfun | 2026-03-20 04:07 |
 | 🔴 Mario | $0.000006 | **0.44x** ($-56) | 1.27x |  | pumpfun | 2026-03-20 04:06 |
 | 🔴 Yuki-chan | $0.000003 | **0.95x** ($-5) | 1.10x |  | pumpfun | 2026-03-20 04:00 |
-| 🟢 TRASHBAG | $0.000004 | **2.96x** ($+196) | 3.23x | ✅ | pumpfun | 2026-03-20 03:57 |
+| 🟢 TRASHBAG | $0.000004 | **3.10x** ($+210) | 3.23x | ✅ | pumpfun | 2026-03-20 03:57 |
 | 🔴 HKp6WMjQ | $0.000003 | **0.82x** ($-18) | 1.01x |  | pumpfun | 2026-03-20 03:57 |
 | 🟡 AYYGENT | $0.000004 | **1.05x** ($+5) | 1.54x |  | pumpfun | 2026-03-20 03:56 |
 | 🔴 Jeremy | $0.000003 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 03:50 |

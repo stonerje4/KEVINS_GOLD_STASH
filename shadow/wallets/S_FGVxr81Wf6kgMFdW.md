@@ -1,16 +1,16 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 10:17 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 10:22 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (23 open, 1 closed) |
+| Positions | 25 (24 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $+353 |
-| 🏦 Total | **$+267** |
+| 📦 Unrealized | $+345 |
+| 🏦 Total | **$+260** |
 | Best Trade | 0.1x |
 | Avg Peak | 1.0x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DRAFT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:18 |
 | 🟡 f26 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:10 |
 | 🟡 LNG | $0.000003 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 08:21 |
 | 🟡 LNG | $0.000003 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 08:17 |
 | 🟡 NBIS | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 06:52 |
 | 🟡 BBX | $0.000003 | **1.23x** ($+23) | 1.37x |  | pumpfun | 2026-03-20 05:19 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:09 |
-| 🟡 gold | $0.000003 | **1.01x** ($+1) | 1.02x |  | pumpfun | 2026-03-20 05:06 |
+| 🔴 gold | $0.000003 | **0.94x** ($-6) | 1.02x |  | pumpfun | 2026-03-20 05:06 |
 | 🔴 BBX | $0.000004 | **0.90x** ($-10) | 1.01x |  | pumpfun | 2026-03-20 04:41 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:27 |
 | 🟡 OSP | $0.000003 | **1.23x** ($+23) | 1.41x |  | pumpfun | 2026-03-20 04:25 |
