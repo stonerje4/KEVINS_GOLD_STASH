@@ -1,6 +1,6 @@
 # Wallet: `ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D`
 
-> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 05:45 UTC
+> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 05:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+34 |
-| 🏦 Total | **$+34** |
+| 📦 Unrealized | $+35 |
+| 🏦 Total | **$+35** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -26,7 +26,7 @@
 | 🟡 ARIA | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
 | 🟡 IMAGINE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:25 |
 | 🟡 SURVIVOR | $0.000011 | **1.06x** ($+6) | 1.22x |  | pumpswap | 2026-03-20 00:09 |
-| 🟢 CHIBIELON | $0.000008 | **2.75x** ($+175) | 3.03x | ✅ | pumpfun | 2026-03-19 23:04 |
+| 🟢 CHIBIELON | $0.000008 | **2.77x** ($+177) | 3.03x | ✅ | pumpfun | 2026-03-19 23:04 |
 
 ## Closed Positions
 

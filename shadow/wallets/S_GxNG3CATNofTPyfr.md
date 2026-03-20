@@ -1,16 +1,16 @@
-# Wallet: `HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q`
+# Wallet: `GxNG3CATNofTPyfrwniZnCY2VsYywDUn3HwxgMap2aZX`
 
-> [View on Solscan](https://solscan.io/account/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | Updated: 2026-03-20 05:50 UTC
+> [View on Solscan](https://solscan.io/account/GxNG3CATNofTPyfrwniZnCY2VsYywDUn3HwxgMap2aZX) | Updated: 2026-03-20 05:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-53 |
-| 🏦 Total | **$-53** |
+| 📦 Unrealized | $-0 |
+| 🏦 Total | **$-0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 KeepYard | $0.000006 | **0.47x** ($-53) | 1.19x |  | pumpfun | 2026-03-19 22:35 |
+| 🔴 BOXABL | $0.000216 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 05:47 |
+| 🟡 GALI | $0.000154 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:45 |
 
 ## Closed Positions
 
