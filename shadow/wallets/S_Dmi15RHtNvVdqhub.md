@@ -1,18 +1,18 @@
 # Wallet: `Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD`
 
-> [GMGN](https://gmgn.ai/sol/address/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | [Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | [Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (2 open, 2 closed) |
-| W/L | 1/1 (50%) |
-| 💵 Realized | $-52 |
+| Positions | 3 (2 open, 1 closed) |
+| W/L | 1/0 (100%) |
+| 💵 Realized | $+48 |
 | 📦 Unrealized | $-4 |
-| 🏦 Total | **$-56** |
+| 🏦 Total | **$+44** |
 | Best ROI | 1.48x |
-| Avg ROI | 0.74x |
+| Avg ROI | 1.48x |
 
 ## Open Positions
 
@@ -25,7 +25,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 GPD | 0.00x | $-100 | duplicate_entry | 1.28x | pumpswap | 2026-03-20 01:40 → 2026-03-20 18:52 |
 | 🟡 GPD | 1.48x | $+48 | trailing_stop_4x | 3.68x | pumpswap | 2026-03-20 00:28 → 2026-03-20 01:27 |
 
 ---

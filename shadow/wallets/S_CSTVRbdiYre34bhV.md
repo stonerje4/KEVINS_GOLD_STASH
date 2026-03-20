@@ -1,18 +1,18 @@
 # Wallet: `CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6`
 
-> [GMGN](https://gmgn.ai/sol/address/CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6) | [Solscan](https://solscan.io/account/CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6) | [Solscan](https://solscan.io/account/CSTVRbdiYre34bhVEPvkFHcKuNB7CbYi9thFfnKk6ER6) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (11 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-228 |
+| Positions | 13 (11 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-128 |
 | 📦 Unrealized | $+279 |
-| 🏦 Total | **$+50** |
+| 🏦 Total | **$+150** |
 | Best ROI | 0.37x |
-| Avg ROI | 0.24x |
+| Avg ROI | 0.36x |
 
 ## Open Positions
 
@@ -34,7 +34,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 AGS | 0.00x | $-100 | duplicate_entry | 1.22x | pumpfun | 2026-03-20 07:01 → 2026-03-20 18:52 |
 | 🔴 AGS | 0.37x | $-63 | stop_loss | 1.41x | pumpfun | 2026-03-20 06:57 → 2026-03-20 06:59 |
 | 🔴 NBR | 0.35x | $-65 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:12 → 2026-03-20 18:16 |
 

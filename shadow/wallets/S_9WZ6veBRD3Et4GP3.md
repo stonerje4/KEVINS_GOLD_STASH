@@ -1,18 +1,18 @@
 # Wallet: `9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ`
 
-> [GMGN](https://gmgn.ai/sol/address/9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ) | [Solscan](https://solscan.io/account/9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ) | [Solscan](https://solscan.io/account/9WZ6veBRD3Et4GP3rNbzqzPqW5uXuYMTMwxN1oYX2KkZ) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (1 open, 3 closed) |
-| W/L | 1/2 (33%) |
-| 💵 Realized | $-74 |
+| Positions | 3 (1 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-123 |
 | 📦 Unrealized | $-50 |
-| 🏦 Total | **$-125** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.75x |
+| 🏦 Total | **$-174** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -25,7 +25,6 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 tremp | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-19 23:36 → 2026-03-19 23:38 |
-| 🟡 Attention | 1.49x | $+49 | trailing_stop_3x | 3.47x | pumpfun | 2026-03-19 22:50 → 2026-03-20 01:16 |
 | 🔴 Attention | 0.37x | $-63 | stop_loss | 1.00x | pumpfun | 2026-03-19 22:35 → 2026-03-19 22:43 |
 
 ---

@@ -1,18 +1,18 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [GMGN](https://gmgn.ai/sol/address/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | [Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | [Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-186 |
+| Positions | 4 (3 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-86 |
 | 📦 Unrealized | $-8 |
-| 🏦 Total | **$-195** |
+| 🏦 Total | **$-95** |
 | Best ROI | 0.14x |
-| Avg ROI | 0.07x |
+| Avg ROI | 0.14x |
 
 ## Open Positions
 
@@ -26,7 +26,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 NBR | 0.00x | $-100 | duplicate_entry | 1.01x | pumpswap | 2026-03-20 18:18 → 2026-03-20 18:52 |
 | 🔴 MODHIcoin | 0.14x | $-86 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:34 → 2026-03-20 06:34 |
 
 ---

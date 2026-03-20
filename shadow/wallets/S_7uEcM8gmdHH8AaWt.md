@@ -1,16 +1,16 @@
 # Wallet: `7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t`
 
-> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
+| Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-69 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$-66** |
+| 📦 Unrealized | $+1 |
+| 🏦 Total | **$-67** |
 | Best ROI | 0.31x |
 | Avg ROI | 0.31x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Needle | $0.000006 | **0.98x** ($-2) | 1.27x |  | pumpfun | 2026-03-20 19:02 |
 | 🟡 5yAgqEmF | $0.000014 | **1.03x** ($+3) | 1.61x |  | pumpfun | 2026-03-20 18:11 |
 
 ## Closed Positions

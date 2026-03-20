@@ -1,18 +1,18 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (10 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-538 |
+| Positions | 17 (10 open, 7 closed) |
+| W/L | 0/7 (0%) |
+| 💵 Realized | $-438 |
 | 📦 Unrealized | $+171 |
-| 🏦 Total | **$-367** |
+| 🏦 Total | **$-267** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| Avg ROI | 0.37x |
 
 ## Open Positions
 
@@ -38,7 +38,6 @@
 | 🔴 LEGO | 0.40x | $-60 | stop_loss | 1.01x | pumpfun | 2026-03-20 15:47 → 2026-03-20 15:54 |
 | 🔴 Steel | 0.28x | $-72 | stop_loss | 1.28x | pumpfun | 2026-03-20 14:41 → 2026-03-20 15:22 |
 | 🔴 Pixels | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:05 → 2026-03-20 17:20 |
-| 🔴 Attention | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 03:06 → 2026-03-20 18:52 |
 | 🔴 Attention | 0.39x | $-61 | stop_loss | 1.28x | pumpfun | 2026-03-20 01:22 → 2026-03-20 01:32 |
 | 🔴 Attention | 0.40x | $-60 | stop_loss | 1.21x | pumpswap | 2026-03-20 01:00 → 2026-03-20 01:20 |
 

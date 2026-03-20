@@ -1,18 +1,18 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (9 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-235 |
+| Positions | 11 (9 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $+26 |
 | 📦 Unrealized | $+132 |
-| 🏦 Total | **$-103** |
+| 🏦 Total | **$+158** |
 | Best ROI | 1.41x |
-| Avg ROI | 0.53x |
+| Avg ROI | 1.13x |
 
 ## Open Positions
 
@@ -32,10 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CHIBI | 0.00x | $-100 | duplicate_entry | 1.70x | pumpfun | 2026-03-20 10:36 → 2026-03-20 18:52 |
 | 🟡 CHIBI | 0.85x | $-15 | trailing_stop_2x | 2.45x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:33 |
-| 🔴 Fruits | 0.00x | $-100 | duplicate_entry | 1.00x | pumpfun | 2026-03-20 00:34 → 2026-03-20 18:52 |
-| 🔴 Fruits | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 00:25 → 2026-03-20 00:30 |
 | 🟡 Fruits | 1.41x | $+41 | trailing_stop_3x | 3.26x | pumpfun | 2026-03-20 00:01 → 2026-03-20 00:23 |
 
 ---

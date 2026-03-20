@@ -1,18 +1,18 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (10 open, 8 closed) |
-| W/L | 1/7 (12%) |
-| 💵 Realized | $-400 |
+| Positions | 16 (10 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-200 |
 | 📦 Unrealized | $-49 |
-| 🏦 Total | **$-449** |
+| 🏦 Total | **$-249** |
 | Best ROI | 1.32x |
-| Avg ROI | 0.50x |
+| Avg ROI | 0.67x |
 
 ## Open Positions
 
@@ -33,10 +33,8 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 驚き | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 18:36 → 2026-03-20 18:52 |
 | 🔴 Sunshine | 0.73x | $-27 | trailing_stop_2x | 2.46x | pumpfun | 2026-03-20 13:14 → 2026-03-20 13:36 |
 | 🔴 Freddie | 0.35x | $-65 | stop_loss | 1.00x | pumpfun | 2026-03-20 10:36 → 2026-03-20 16:50 |
-| 🔴 Kin-kun | 0.00x | $-100 | duplicate_entry | 1.93x | pumpfun | 2026-03-20 09:35 → 2026-03-20 18:52 |
 | 🟡 Kin-kun | 0.84x | $-16 | trailing_stop_2x | 2.41x | pumpfun | 2026-03-20 08:57 → 2026-03-20 09:32 |
 | 🔴 驚き | 0.39x | $-61 | stop_loss | 1.06x | pumpswap | 2026-03-20 01:59 → 2026-03-20 16:21 |
 | 🔴 Fruits | 0.37x | $-63 | stop_loss | 1.96x | pumpfun | 2026-03-20 00:08 → 2026-03-20 00:30 |

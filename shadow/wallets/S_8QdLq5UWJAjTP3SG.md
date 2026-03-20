@@ -1,18 +1,18 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (11 open, 16 closed) |
-| W/L | 1/15 (6%) |
-| 💵 Realized | $-700 |
+| Positions | 25 (11 open, 14 closed) |
+| W/L | 1/13 (7%) |
+| 💵 Realized | $-579 |
 | 📦 Unrealized | $+48 |
-| 🏦 Total | **$-652** |
+| 🏦 Total | **$-531** |
 | Best ROI | 1.18x |
-| Avg ROI | 0.56x |
+| Avg ROI | 0.59x |
 
 ## Open Positions
 
@@ -40,10 +40,8 @@
 | 🔴 INR | 0.74x | $-26 | trailing_stop_2x | 2.24x | pumpfun | 2026-03-20 02:31 → 2026-03-20 02:34 |
 | 🔴 IDR | 0.39x | $-61 | stop_loss | 1.32x | pumpfun | 2026-03-20 02:30 → 2026-03-20 02:32 |
 | 🔴 78KFhaMs | 0.37x | $-63 | stop_loss | 1.13x | pumpfun | 2026-03-20 02:21 → 2026-03-20 02:21 |
-| 🔴 BotFather | 0.39x | $-61 | stop_loss | 1.18x | pumpfun | 2026-03-20 02:20 → 2026-03-20 02:20 |
 | 🟡 8vtrFBfQ | 0.82x | $-18 | trailing_stop_2x | 2.14x | pumpfun | 2026-03-20 02:19 → 2026-03-20 02:20 |
 | 🔴 CHANNELS | 0.37x | $-63 | stop_loss | 1.42x | pumpfun | 2026-03-20 02:17 → 2026-03-20 02:18 |
-| 🔴 Surge | 0.40x | $-60 | stop_loss | 1.47x | pumpfun | 2026-03-20 02:14 → 2026-03-20 02:17 |
 | 🔴 5eMhU9g6 | 0.78x | $-22 | trailing_stop_2x | 2.44x | pumpfun | 2026-03-20 02:13 → 2026-03-20 02:14 |
 | 🔴 MzZ8Bmhr | 0.40x | $-60 | stop_loss | 1.09x | pumpfun | 2026-03-20 02:12 → 2026-03-20 02:13 |
 | 🔴 Man | 0.79x | $-21 | trailing_stop_3x | 2.76x | pumpfun | 2026-03-20 02:06 → 2026-03-20 02:07 |

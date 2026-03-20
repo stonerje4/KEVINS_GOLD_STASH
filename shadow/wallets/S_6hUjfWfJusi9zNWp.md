@@ -1,24 +1,24 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (14 open, 11 closed) |
-| W/L | 0/11 (0%) |
-| 💵 Realized | $-751 |
-| 📦 Unrealized | $+81 |
-| 🏦 Total | **$-670** |
+| Positions | 21 (14 open, 7 closed) |
+| W/L | 0/7 (0%) |
+| 💵 Realized | $-370 |
+| 📦 Unrealized | $+51 |
+| 🏦 Total | **$-319** |
 | Best ROI | 0.85x |
-| Avg ROI | 0.32x |
+| Avg ROI | 0.47x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Lana | $0.000021 | **1.78x** ($+78) | 1.78x |  | pumpfun | 2026-03-20 17:04 |
+| 🟡 Lana | $0.000021 | **1.48x** ($+48) | 1.78x |  | pumpfun | 2026-03-20 17:04 |
 | 🟡 Lana | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:48 |
 | 🔴 LIBERTY | $0.000027 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 16:18 |
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.80x |  | pumpswap | 2026-03-20 15:43 |
@@ -37,11 +37,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 BURRITO | 0.10x | $-90 | stop_loss | 1.00x | cpmm | 2026-03-20 18:06 → 2026-03-20 18:06 |
-| 🔴 BURRITO | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 17:53 → 2026-03-20 17:53 |
-| 🔴 HelloWorld! | 0.00x | $-100 | duplicate_entry | 1.05x | pumpswap | 2026-03-20 16:58 → 2026-03-20 18:52 |
 | 🔴 HelloWorld! | 0.37x | $-63 | stop_loss | 1.03x | pumpswap | 2026-03-20 16:55 → 2026-03-20 16:58 |
-| 🔴 CRYPTOKING | 0.00x | $-100 | duplicate_entry | 1.36x | pumpfun | 2026-03-20 16:13 → 2026-03-20 18:52 |
 | 🟡 CRYPTOKING | 0.85x | $-15 | trailing_stop_2x | 2.14x | pumpfun | 2026-03-20 16:09 → 2026-03-20 16:13 |
 | 🔴 HELLO | 0.38x | $-62 | stop_loss | 1.15x | pumpfun | 2026-03-20 16:04 → 2026-03-20 16:12 |
 | 🟡 CHUCK | 0.83x | $-17 | trailing_stop_2x | 2.07x | pumpfun | 2026-03-20 14:37 → 2026-03-20 16:20 |

@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 76 (51 open, 25 closed) |
 | W/L | 2/23 (8%) |
 | 💵 Realized | $-1,161 |
-| 📦 Unrealized | $-388 |
-| 🏦 Total | **$-1,549** |
+| 📦 Unrealized | $-394 |
+| 🏦 Total | **$-1,556** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.54x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SNIFFER | $0.000027 | **1.27x** ($+27) | 2.06x | ✅ | pumpfun | 2026-03-20 12:54 |
+| 🟡 SNIFFER | $0.000027 | **1.15x** ($+15) | 2.06x | ✅ | pumpfun | 2026-03-20 12:54 |
 | 🟡 됴지님 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:53 |
 | 🟡 9FuC9Jor | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:42 |
 | 🟡 DMT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:40 |

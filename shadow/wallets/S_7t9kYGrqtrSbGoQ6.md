@@ -1,32 +1,32 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 166 (162 open, 4 closed) |
-| W/L | 1/3 (25%) |
-| 💵 Realized | $-61 |
-| 📦 Unrealized | $-521 |
-| 🏦 Total | **$-582** |
+| Positions | 164 (162 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $+139 |
+| 📦 Unrealized | $-514 |
+| 🏦 Total | **$-375** |
 | Best ROI | 3.00x |
-| Avg ROI | 0.85x |
+| Avg ROI | 1.70x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 GOYBEAM | $0.000008 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 18:57 |
-| 🔴 Saleh | $0.000020 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 18:52 |
+| 🟡 Saleh | $0.000020 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 Cardboard | $0.000012 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 18:15 |
 | 🟡 𝕏 | $0.000022 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 17:40 |
 | 🔴 SNAKE | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 17:30 |
 | 🔴 ZOO | $0.000013 | **0.96x** ($-4) | 1.01x |  | pumpswap | 2026-03-20 17:28 |
 | 🟡 PEACE | $0.000023 | **1.25x** ($+25) | 1.44x |  | pumpswap | 2026-03-20 17:10 |
 | 🟡 F4LC0N | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:02 |
-| 🔴 Situation | $0.000034 | **0.85x** ($-15) | 1.26x |  | pumpswap | 2026-03-20 17:01 |
+| 🔴 Situation | $0.000034 | **0.87x** ($-13) | 1.26x |  | pumpswap | 2026-03-20 17:01 |
 | 🟡 TUNE | $0.000013 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-20 16:49 |
 | 🟡 TerpBot | $0.000014 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 16:42 |
 | 🔴 PIZZAGATE | $0.000016 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 16:32 |
@@ -127,7 +127,7 @@
 | 🔴 fire | $0.000006 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 GROKBUILD | $0.000021 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:09 |
 | 🟡 KENNY | $0.000013 | **1.10x** ($+10) | 1.12x |  | pumpswap | 2026-03-20 02:01 |
-| 🟡 foid | $0.000016 | **1.13x** ($+13) | 1.36x |  | pumpswap | 2026-03-20 02:00 |
+| 🟡 foid | $0.000016 | **1.08x** ($+8) | 1.36x |  | pumpswap | 2026-03-20 02:00 |
 | 🟡 MINT | $0.000023 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 01:56 |
 | 🟡 TFW | $0.000026 | **1.79x** ($+79) | 2.74x | ✅ | pumpswap | 2026-03-20 01:56 |
 | 🔴 DoubleT | $0.000028 | **0.95x** ($-5) | 1.05x |  | pumpswap | 2026-03-20 01:54 |
@@ -185,9 +185,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 AMBALABU | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 17:06 → 2026-03-20 18:52 |
 | 🔴 Gizmo | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 03:38 → 2026-03-20 07:54 |
-| 🔴 Ham | 0.00x | $-100 | duplicate_entry | 2.58x | pumpswap | 2026-03-20 01:23 → 2026-03-20 18:52 |
 | 🟢 Ham | 3.00x | $+200 | trailing_stop_8x | 7.68x | pumpswap | 2026-03-19 23:51 → 2026-03-20 00:58 |
 
 ---

@@ -1,18 +1,18 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (13 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-239 |
+| Positions | 16 (13 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-139 |
 | 📦 Unrealized | $+227 |
-| 🏦 Total | **$-12** |
+| 🏦 Total | **$+88** |
 | Best ROI | 0.81x |
-| Avg ROI | 0.40x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
@@ -36,7 +36,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CHIBI | 0.00x | $-100 | duplicate_entry | 1.00x | pumpfun | 2026-03-20 16:03 → 2026-03-20 18:52 |
 | 🟡 CHIBI | 0.81x | $-19 | trailing_stop_2x | 2.19x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:32 |
 | 🔴 IMAGINE | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:06 → 2026-03-20 02:10 |
 | 🔴 Cyberfy | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 00:39 → 2026-03-20 01:10 |

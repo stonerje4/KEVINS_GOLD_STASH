@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 157 (155 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+138 |
-| 📦 Unrealized | $-537 |
-| 🏦 Total | **$-399** |
+| 📦 Unrealized | $-538 |
+| 🏦 Total | **$-401** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.69x |
 
@@ -26,7 +26,7 @@
 | 🟡 MIROFISH | $0.000023 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 17:57 |
 | 🔴 ZWF | $0.000009 | **0.44x** ($-56) | 1.01x |  | pumpswap | 2026-03-20 17:44 |
 | 🔴 𝕏 | $0.000023 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 17:39 |
-| 🔴 Situation | $0.000030 | **0.94x** ($-6) | 1.41x |  | pumpswap | 2026-03-20 17:24 |
+| 🔴 Situation | $0.000030 | **0.97x** ($-3) | 1.41x |  | pumpswap | 2026-03-20 17:24 |
 | 🟡 PEACE | $0.000021 | **1.34x** ($+34) | 1.55x |  | pumpswap | 2026-03-20 17:10 |
 | 🔴 INCOG | $0.000013 | **0.98x** ($-2) | 1.05x |  | pumpswap | 2026-03-20 17:05 |
 | 🟡 Sybil  | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
@@ -46,7 +46,7 @@
 | 🟡 TRENCHERIA | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🔴 DATBOI | $0.000037 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 PAD | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
-| 🔴 foid | $0.000020 | **0.90x** ($-10) | 1.09x |  | pumpswap | 2026-03-20 14:29 |
+| 🔴 foid | $0.000020 | **0.86x** ($-14) | 1.09x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Socrates | $0.000031 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 Pixel | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Higuruma | $0.000016 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
@@ -112,7 +112,7 @@
 | 🟡 PYRO | $0.000036 | **1.06x** ($+6) | 1.20x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 Gascoin | $0.000032 | **1.07x** ($+7) | 1.15x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 IShowSpeed | $0.000006 | **1.46x** ($+46) | 1.47x |  | pumpswap | 2026-03-20 03:41 |
-| 🟡 WhiteBoy  | $0.000013 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 03:35 |
+| 🟡 WhiteBoy  | $0.000013 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-20 03:35 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
 | 🔴 Gayatollah | $0.000005 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CARROT | $0.000007 | **1.21x** ($+21) | 1.51x |  | pumpswap | 2026-03-20 03:15 |

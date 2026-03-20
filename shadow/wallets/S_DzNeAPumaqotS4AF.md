@@ -1,18 +1,18 @@
 # Wallet: `DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3`
 
-> [GMGN](https://gmgn.ai/sol/address/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | [Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | [Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (6 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-286 |
+| Positions | 9 (6 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-186 |
 | 📦 Unrealized | $-48 |
-| 🏦 Total | **$-334** |
+| 🏦 Total | **$-234** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.29x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -29,7 +29,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Chonk | 0.00x | $-100 | duplicate_entry | 1.17x | pumpfun | 2026-03-20 18:00 → 2026-03-20 18:52 |
 | 🔴 Chonk | 0.40x | $-60 | stop_loss | 1.28x | pumpfun | 2026-03-20 17:13 → 2026-03-20 17:27 |
 | 🔴 GRACE | 0.40x | $-60 | stop_loss | 1.31x | pumpfun | 2026-03-20 13:53 → 2026-03-20 14:23 |
 | 🔴 驚き | 0.35x | $-65 | stop_loss | 1.39x | pumpswap | 2026-03-20 00:20 → 2026-03-20 16:21 |

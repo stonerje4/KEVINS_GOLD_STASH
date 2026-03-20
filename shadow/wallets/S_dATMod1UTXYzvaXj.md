@@ -1,18 +1,18 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (16 open, 16 closed) |
-| W/L | 1/15 (6%) |
-| 💵 Realized | $-738 |
+| Positions | 29 (16 open, 13 closed) |
+| W/L | 1/12 (8%) |
+| 💵 Realized | $-522 |
 | 📦 Unrealized | $+418 |
-| 🏦 Total | **$-320** |
+| 🏦 Total | **$-104** |
 | Best ROI | 1.47x |
-| Avg ROI | 0.54x |
+| Avg ROI | 0.60x |
 
 ## Open Positions
 
@@ -47,13 +47,10 @@
 | 🔴 Steel | 0.39x | $-61 | stop_loss | 1.79x | pumpfun | 2026-03-20 14:40 → 2026-03-20 15:22 |
 | 🔴 effect | 0.74x | $-26 | trailing_stop_2x | 2.03x | pumpfun | 2026-03-20 09:35 → 2026-03-20 09:45 |
 | 🔴 5GsJXBfX | 0.37x | $-63 | stop_loss | 1.54x | pumpfun | 2026-03-20 02:59 → 2026-03-20 03:01 |
-| 🔴 NEMO | 0.00x | $-100 | duplicate_entry | 2.10x | pumpfun | 2026-03-20 02:34 → 2026-03-20 18:52 |
 | 🟡 NEMO | 0.84x | $-16 | trailing_stop_2x | 2.43x | pumpfun | 2026-03-20 02:23 → 2026-03-20 02:34 |
 | 🔴 Gz95UGCX | 0.40x | $-60 | stop_loss | 1.53x | pumpfun | 2026-03-20 01:22 → 2026-03-20 01:27 |
-| 🔴 SHOENICE  | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 01:05 → 2026-03-20 18:52 |
 | 🟡 Massive | 1.47x | $+47 | trailing_stop_3x | 3.03x | pumpswap | 2026-03-19 23:42 → 2026-03-19 23:53 |
 | 🔴 SHOENICE  | 0.38x | $-62 | stop_loss | 1.90x | pumpfun | 2026-03-19 23:31 → 2026-03-19 23:57 |
-| 🟡 Attention | 0.84x | $-16 | trailing_stop_2x | 2.15x | pumpfun | 2026-03-19 22:52 → 2026-03-20 01:16 |
 | 🔴 Attention | 0.40x | $-60 | stop_loss | 1.09x | pumpfun | 2026-03-19 22:35 → 2026-03-19 22:43 |
 
 ---

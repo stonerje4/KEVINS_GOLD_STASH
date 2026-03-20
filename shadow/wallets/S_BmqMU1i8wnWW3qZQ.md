@@ -1,18 +1,18 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 237 (231 open, 6 closed) |
-| W/L | 2/4 (33%) |
-| 💵 Realized | $-99 |
-| 📦 Unrealized | $-1,068 |
-| 🏦 Total | **$-1,168** |
+| Positions | 235 (231 open, 4 closed) |
+| W/L | 2/2 (50%) |
+| 💵 Realized | $+101 |
+| 📦 Unrealized | $-1,071 |
+| 🏦 Total | **$-970** |
 | Best ROI | 2.75x |
-| Avg ROI | 0.83x |
+| Avg ROI | 1.25x |
 
 ## Open Positions
 
@@ -24,7 +24,7 @@
 | 🔴 PATAPIM | $0.000007 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 17:34 |
 | 🔴 SNAKE | $0.000007 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 17:30 |
 | 🟡 PEACE | $0.000025 | **1.14x** ($+14) | 1.32x |  | pumpswap | 2026-03-20 17:10 |
-| 🔴 Situation | $0.000037 | **0.76x** ($-24) | 1.14x |  | pumpswap | 2026-03-20 17:01 |
+| 🔴 Situation | $0.000037 | **0.79x** ($-21) | 1.14x |  | pumpswap | 2026-03-20 17:01 |
 | 🔴 PIZZAGATE | $0.000017 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 16:32 |
 | 🔴 Newscum | $0.000021 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 16:25 |
 | 🔴 NORMIE | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 15:19 |
@@ -155,7 +155,7 @@
 | 🔴 GS | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 02:02 |
 | 🟡 FKH | $0.000017 | **1.09x** ($+9) | 1.11x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 OIL | $0.000006 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 02:00 |
-| 🟡 foid | $0.000017 | **1.04x** ($+4) | 1.25x |  | pumpswap | 2026-03-20 02:00 |
+| 🔴 foid | $0.000017 | **0.99x** ($-1) | 1.25x |  | pumpswap | 2026-03-20 02:00 |
 | 🔴 DoubleT | $0.000030 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 01:55 |
 | 🔴 DAWAE | $0.000012 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 01:54 |
 | 🟡 MINT | $0.000022 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-20 01:52 |
@@ -254,9 +254,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Chibify | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 16:31 → 2026-03-20 18:52 |
 | 🔴 George | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:37 → 2026-03-20 08:08 |
-| 🔴 Ham | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 05:40 → 2026-03-20 18:52 |
 | 🔴 Gizmo | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 03:38 → 2026-03-20 06:39 |
 | 🟡 Chibify | 1.45x | $+45 | trailing_stop_3x | 3.16x | pumpswap | 2026-03-20 00:03 → 2026-03-20 15:20 |
 | 🟢 Ham | 2.75x | $+175 | trailing_stop_7x | 6.93x | pumpswap | 2026-03-19 23:51 → 2026-03-20 00:58 |

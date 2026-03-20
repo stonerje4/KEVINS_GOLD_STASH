@@ -1,18 +1,18 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | [Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (4 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-249 |
+| Positions | 6 (4 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-149 |
 | 📦 Unrealized | $-18 |
-| 🏦 Total | **$-266** |
+| 🏦 Total | **$-166** |
 | Best ROI | 0.28x |
-| Avg ROI | 0.17x |
+| Avg ROI | 0.26x |
 
 ## Open Positions
 
@@ -27,7 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 MOCHI | 0.00x | $-100 | duplicate_entry | 1.08x | pumpswap | 2026-03-20 16:19 → 2026-03-20 18:52 |
 | 🔴 ZeroG | 0.28x | $-72 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:38 → 2026-03-20 16:23 |
 | 🔴 唐子兵法 | 0.23x | $-77 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:30 → 2026-03-20 15:19 |
 

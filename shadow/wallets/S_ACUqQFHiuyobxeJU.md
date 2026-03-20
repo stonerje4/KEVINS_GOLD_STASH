@@ -1,6 +1,6 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 27 (16 open, 11 closed) |
 | W/L | 1/10 (9%) |
 | 💵 Realized | $-544 |
-| 📦 Unrealized | $-45 |
-| 🏦 Total | **$-588** |
+| 📦 Unrealized | $-73 |
+| 🏦 Total | **$-617** |
 | Best ROI | 1.35x |
 | Avg ROI | 0.51x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CAT | $0.000014 | **0.81x** ($-19) | 1.67x |  | pumpfun | 2026-03-20 18:47 |
+| 🔴 CAT | $0.000014 | **0.53x** ($-47) | 1.67x |  | pumpfun | 2026-03-20 18:47 |
 | 🟢 VITALY | $0.000010 | **3.77x** ($+277) | 3.77x | ✅ | pumpfun | 2026-03-20 18:23 |
 | 🟡 LIBERTY | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:08 |
 | 🔴 3TWMK851 | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 16:56 |

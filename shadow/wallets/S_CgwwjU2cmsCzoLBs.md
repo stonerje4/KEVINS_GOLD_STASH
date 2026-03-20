@@ -1,18 +1,18 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (7 open, 7 closed) |
-| W/L | 0/7 (0%) |
-| 💵 Realized | $-505 |
+| Positions | 13 (7 open, 6 closed) |
+| W/L | 0/6 (0%) |
+| 💵 Realized | $-405 |
 | 📦 Unrealized | $-38 |
-| 🏦 Total | **$-543** |
+| 🏦 Total | **$-443** |
 | Best ROI | 0.33x |
-| Avg ROI | 0.28x |
+| Avg ROI | 0.32x |
 
 ## Open Positions
 
@@ -31,7 +31,6 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 SANAE | 0.33x | $-67 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:55 → 2026-03-19 23:55 |
-| 🔴 AINL | 0.00x | $-100 | duplicate_entry | 1.21x | pumpswap | 2026-03-19 23:43 → 2026-03-20 18:52 |
 | 🔴 house | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:26 → 2026-03-19 23:30 |
 | 🔴 EA | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:18 → 2026-03-19 23:19 |
 | 🔴 $Alienator | 0.33x | $-67 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:12 → 2026-03-19 23:12 |

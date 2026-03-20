@@ -1,18 +1,18 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 101 (96 open, 5 closed) |
-| W/L | 2/3 (40%) |
-| 💵 Realized | $-23 |
-| 📦 Unrealized | $-364 |
-| 🏦 Total | **$-387** |
+| Positions | 99 (96 open, 3 closed) |
+| W/L | 2/1 (67%) |
+| 💵 Realized | $+177 |
+| 📦 Unrealized | $-362 |
+| 🏦 Total | **$-184** |
 | Best ROI | 2.91x |
-| Avg ROI | 0.95x |
+| Avg ROI | 1.59x |
 
 ## Open Positions
 
@@ -24,7 +24,7 @@
 | 🔴 哈基米 | $0.000007 | **0.94x** ($-6) | 1.05x |  | pumpswap | 2026-03-20 17:44 |
 | 🟡 Ava | $0.000008 | **1.13x** ($+13) | 1.26x |  | pumpswap | 2026-03-20 17:05 |
 | 🟡 Moe-chan | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:02 |
-| 🔴 Situation | $0.000034 | **0.84x** ($-16) | 1.26x |  | pumpswap | 2026-03-20 17:01 |
+| 🔴 Situation | $0.000034 | **0.87x** ($-13) | 1.26x |  | pumpswap | 2026-03-20 17:01 |
 | 🔴 TUNE | $0.000014 | **0.97x** ($-3) | 1.05x |  | pumpswap | 2026-03-20 16:49 |
 | 🔴 SPIRITS | $0.000011 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 16:20 |
 | 🔴 ANIME | $0.000005 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-20 16:09 |
@@ -119,8 +119,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Chibify | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 18:01 → 2026-03-20 18:52 |
-| 🔴 AMBALABU | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 17:45 → 2026-03-20 18:52 |
 | 🔴 Gizmo | 0.39x | $-61 | stop_loss | 1.01x | pumpswap | 2026-03-20 04:29 → 2026-03-20 08:22 |
 | 🟢 Ham | 2.91x | $+191 | trailing_stop_9x | 9.44x | pumpswap | 2026-03-19 23:52 → 2026-03-20 01:02 |
 | 🟡 Chibify | 1.48x | $+48 | trailing_stop_3x | 3.00x | pumpswap | 2026-03-19 23:22 → 2026-03-20 01:02 |

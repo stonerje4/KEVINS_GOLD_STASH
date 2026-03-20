@@ -1,18 +1,18 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 127 (122 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-127 |
-| 📦 Unrealized | $-17 |
-| 🏦 Total | **$-144** |
+| Positions | 125 (122 open, 3 closed) |
+| W/L | 1/2 (33%) |
+| 💵 Realized | $+73 |
+| 📦 Unrealized | $-19 |
+| 🏦 Total | **$+54** |
 | Best ROI | 2.95x |
-| Avg ROI | 0.75x |
+| Avg ROI | 1.24x |
 
 ## Open Positions
 
@@ -24,7 +24,7 @@
 | 🟡 Ride | $0.000014 | **1.10x** ($+10) | 1.13x |  | pumpswap | 2026-03-20 18:35 |
 | 🔴 FSC | $0.000023 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-20 17:48 |
 | 🔴 𝕏 | $0.000022 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-20 17:39 |
-| 🔴 Situation | $0.000030 | **0.95x** ($-5) | 1.42x |  | pumpswap | 2026-03-20 17:24 |
+| 🔴 Situation | $0.000030 | **0.98x** ($-2) | 1.42x |  | pumpswap | 2026-03-20 17:24 |
 | 🟡 PEACE | $0.000021 | **1.32x** ($+32) | 1.53x |  | pumpswap | 2026-03-20 17:10 |
 | 🔴 INCOG | $0.000013 | **0.97x** ($-3) | 1.04x |  | pumpswap | 2026-03-20 17:05 |
 | 🟡 Sybil  | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
@@ -42,7 +42,7 @@
 | 🟡 DOGEFATHER | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🟡 TRENCHERIA | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🔴 DATBOI | $0.000037 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
-| 🔴 foid | $0.000020 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-20 14:29 |
+| 🔴 foid | $0.000020 | **0.87x** ($-13) | 1.10x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Socrates | $0.000031 | **1.09x** ($+9) | 1.11x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 Pixel | $0.000011 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Higuruma | $0.000016 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
@@ -145,8 +145,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 AMBALABU | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 17:06 → 2026-03-20 18:52 |
-| 🔴 HOSPICE | 0.00x | $-100 | duplicate_entry | 1.11x | pumpswap | 2026-03-20 15:53 → 2026-03-20 18:52 |
 | 🔴 Gizmo | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:45 → 2026-03-20 08:22 |
 | 🟢 Ham | 2.95x | $+195 | trailing_stop_10x | 9.82x | pumpswap | 2026-03-20 00:03 → 2026-03-20 01:02 |
 | 🔴 HOSPICE | 0.40x | $-60 | stop_loss | 1.10x | pumpswap | 2026-03-19 23:11 → 2026-03-20 15:53 |

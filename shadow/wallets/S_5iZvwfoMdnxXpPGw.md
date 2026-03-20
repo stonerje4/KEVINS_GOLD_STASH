@@ -1,18 +1,18 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (7 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-265 |
+| Positions | 11 (7 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-165 |
 | 📦 Unrealized | $+372 |
-| 🏦 Total | **$+107** |
+| 🏦 Total | **$+207** |
 | Best ROI | 0.79x |
-| Avg ROI | 0.47x |
+| Avg ROI | 0.59x |
 
 ## Open Positions
 
@@ -32,7 +32,6 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 HelloWorld! | 0.77x | $-23 | trailing_stop_2x | 2.26x | pumpswap | 2026-03-20 16:53 → 2026-03-20 16:58 |
 | 🔴 Immortalism | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 15:11 → 2026-03-20 15:13 |
-| 🔴 Chuck | 0.00x | $-100 | duplicate_entry | 1.05x | pumpfun | 2026-03-20 14:51 → 2026-03-20 18:52 |
 | 🔴 Chuck | 0.40x | $-60 | stop_loss | 1.40x | pumpfun | 2026-03-20 14:48 → 2026-03-20 14:51 |
 | 🔴 wepaid | 0.79x | $-21 | trailing_stop_2x | 2.12x | pumpfun | 2026-03-20 03:13 → 2026-03-20 03:30 |
 

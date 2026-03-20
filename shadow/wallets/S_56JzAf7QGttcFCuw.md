@@ -1,18 +1,18 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (9 open, 10 closed) |
-| W/L | 1/9 (10%) |
-| 💵 Realized | $-316 |
+| Positions | 18 (9 open, 9 closed) |
+| W/L | 1/8 (11%) |
+| 💵 Realized | $-255 |
 | 📦 Unrealized | $-138 |
-| 🏦 Total | **$-453** |
+| 🏦 Total | **$-393** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.68x |
+| Avg ROI | 0.72x |
 
 ## Open Positions
 
@@ -32,7 +32,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 HelloWorld! | 0.40x | $-60 | stop_loss | 1.47x | pumpswap | 2026-03-20 16:53 → 2026-03-20 16:58 |
 | 🟡 我的猪盾 | 0.81x | $-19 | trailing_stop_3x | 2.55x | pumpfun | 2026-03-20 06:42 → 2026-03-20 07:15 |
 | 🟡 AVATAR | 1.49x | $+49 | trailing_stop_5x | 4.98x | pumpswap | 2026-03-20 06:24 → 2026-03-20 06:55 |
 | 🔴 Yukon | 0.33x | $-67 | stop_loss | 1.41x | pumpfun | 2026-03-20 06:18 → 2026-03-20 06:20 |

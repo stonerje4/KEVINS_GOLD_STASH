@@ -1,18 +1,18 @@
 # Wallet: `73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt`
 
-> [GMGN](https://gmgn.ai/sol/address/73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt) | [Solscan](https://solscan.io/account/73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt) | [Solscan](https://solscan.io/account/73trpFUSSB7a7wMAjVB4N5HKkxf8vw6gHMjPYRYxkTpt) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-68 |
+| Positions | 2 (2 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $-33 |
-| 🏦 Total | **$-101** |
-| Best ROI | 0.32x |
-| Avg ROI | 0.32x |
+| 🏦 Total | **$-33** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -25,7 +25,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 CHILLBLI | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-20 08:21 → 2026-03-20 08:21 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

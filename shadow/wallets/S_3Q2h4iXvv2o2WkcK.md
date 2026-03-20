@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (19 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-134 |
-| 🏦 Total | **$-212** |
+| 📦 Unrealized | $-143 |
+| 🏦 Total | **$-221** |
 | Best ROI | 0.23x |
 | Avg ROI | 0.23x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SNIFFER | $0.000037 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 18:46 |
+| 🔴 SNIFFER | $0.000037 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 18:46 |
 | 🔴 Judy | $0.000010 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 18:34 |
 | 🟡 ARIA | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:49 |
 | 🟡 ME | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:12 |

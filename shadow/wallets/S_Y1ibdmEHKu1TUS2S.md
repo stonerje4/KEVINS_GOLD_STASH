@@ -1,18 +1,18 @@
 # Wallet: `Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ`
 
-> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (13 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-324 |
+| Positions | 15 (13 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-124 |
 | 📦 Unrealized | $-2 |
-| 🏦 Total | **$-326** |
+| 🏦 Total | **$-126** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.19x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -36,9 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 HelloWorld! | 0.00x | $-100 | duplicate_entry | 1.00x | pumpswap | 2026-03-20 17:01 → 2026-03-20 18:52 |
 | 🔴 HelloWorld! | 0.36x | $-64 | stop_loss | 1.07x | pumpswap | 2026-03-20 16:53 → 2026-03-20 16:58 |
-| 🔴 Judy | 0.00x | $-100 | duplicate_entry | 1.28x | pumpswap | 2026-03-20 15:52 → 2026-03-20 18:52 |
 | 🔴 CC | 0.40x | $-60 | stop_loss | 1.23x | pumpfun | 2026-03-20 13:48 → 2026-03-20 14:00 |
 
 ---

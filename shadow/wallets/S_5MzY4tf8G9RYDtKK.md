@@ -1,18 +1,18 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 46 (20 open, 26 closed) |
-| W/L | 2/24 (8%) |
-| 💵 Realized | $-1,073 |
+| Positions | 42 (20 open, 22 closed) |
+| W/L | 2/20 (9%) |
+| 💵 Realized | $-750 |
 | 📦 Unrealized | $-244 |
-| 🏦 Total | **$-1,317** |
+| 🏦 Total | **$-994** |
 | Best ROI | 2.93x |
-| Avg ROI | 0.59x |
+| Avg ROI | 0.66x |
 
 ## Open Positions
 
@@ -46,7 +46,6 @@
 | 🔴 FOID | 0.40x | $-60 | stop_loss | 1.13x | pumpfun | 2026-03-20 13:38 → 2026-03-20 15:17 |
 | 🟡 Miki | 1.50x | $+50 | trailing_stop_3x | 3.10x | pumpfun | 2026-03-20 13:12 → 2026-03-20 14:16 |
 | 🟡 Judy | 0.94x | $-6 | trailing_stop_4x | 3.84x | pumpfun | 2026-03-20 10:41 → 2026-03-20 18:53 |
-| 🔴 Doolysaurus | 0.00x | $-100 | duplicate_entry | 38.41x | pumpfun | 2026-03-20 09:52 → 2026-03-20 18:52 |
 | 🔴 Doolysaurus | 0.33x | $-67 | stop_loss | 1.15x | pumpfun | 2026-03-20 09:40 → 2026-03-20 09:52 |
 | 🔴 GrokChibi | 0.40x | $-60 | stop_loss | 1.10x | pumpfun | 2026-03-20 07:37 → 2026-03-20 07:50 |
 | 🟡 awkward | 0.82x | $-18 | trailing_stop_2x | 2.31x | pumpfun | 2026-03-20 07:16 → 2026-03-20 07:52 |
@@ -56,14 +55,11 @@
 | 🟡 Civil Claude | 0.84x | $-16 | trailing_stop_2x | 2.16x | pumpfun | 2026-03-20 04:55 → 2026-03-20 11:39 |
 | 🔴 badger | 0.31x | $-69 | stop_loss | 1.07x | pumpfun | 2026-03-20 03:10 → 2026-03-20 03:11 |
 | 🔴 GACEY | 0.39x | $-61 | stop_loss | 1.11x | pumpswap | 2026-03-20 01:50 → 2026-03-20 02:10 |
-| 🔴 Cyberfy | 0.38x | $-62 | stop_loss | 1.02x | pumpfun | 2026-03-20 00:43 → 2026-03-20 01:04 |
-| 🔴 BOB | 0.40x | $-60 | stop_loss | 1.07x | pumpswap | 2026-03-20 00:42 → 2026-03-20 00:48 |
 | 🟡 Apollo | 0.84x | $-16 | trailing_stop_2x | 2.14x | pumpfun | 2026-03-20 00:25 → 2026-03-20 01:11 |
 | 🔴 BOB | 0.39x | $-61 | stop_loss | 1.46x | pumpswap | 2026-03-20 00:16 → 2026-03-20 00:28 |
 | 🔴 Cyberfy | 0.37x | $-63 | stop_loss | 1.02x | pumpfun | 2026-03-20 00:15 → 2026-03-20 00:21 |
 | 🔴 ABUNDANCE | 0.20x | $-80 | stop_loss | 1.11x | pumpfun | 2026-03-20 00:04 → 2026-03-20 00:05 |
 | 🟡 tremp | 0.85x | $-15 | trailing_stop_2x | 2.26x | pumpfun | 2026-03-19 23:51 → 2026-03-20 00:14 |
-| 🔴 PEPE | 0.00x | $-100 | duplicate_entry | 1.32x | pumpfun | 2026-03-19 23:12 → 2026-03-20 18:52 |
 | 🔴 twump | 0.36x | $-64 | stop_loss | 1.37x | pumpfun | 2026-03-19 23:10 → 2026-03-20 15:29 |
 | 🔴 QUIT | 0.26x | $-74 | stop_loss | 1.06x | pumpfun | 2026-03-19 23:07 → 2026-03-19 23:07 |
 | 🔴 Attention | 0.37x | $-63 | stop_loss | 1.61x | pumpfun | 2026-03-19 22:52 → 2026-03-20 01:17 |

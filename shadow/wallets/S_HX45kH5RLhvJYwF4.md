@@ -1,16 +1,16 @@
 # Wallet: `HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5`
 
-> [GMGN](https://gmgn.ai/sol/address/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | [Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | [Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
+| Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-63 |
-| 📦 Unrealized | $+71 |
-| 🏦 Total | **$+7** |
+| 📦 Unrealized | $+67 |
+| 🏦 Total | **$+4** |
 | Best ROI | 0.37x |
 | Avg ROI | 0.37x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 ELONIFY | $0.000014 | **0.97x** ($-3) | 1.10x |  | pumpfun | 2026-03-20 19:03 |
 | 🟢 ROUNDHOUSE | $0.000026 | **3.19x** ($+219) | 4.93x | ✅ | pumpswap | 2026-03-20 15:45 |
 | 🟡 CHIBIPUNCH | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:10 |
 | 🔴 Floki | $0.000014 | **0.83x** ($-17) | 1.16x |  | pumpswap | 2026-03-20 10:37 |

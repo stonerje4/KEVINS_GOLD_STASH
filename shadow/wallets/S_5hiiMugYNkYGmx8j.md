@@ -1,18 +1,18 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 19:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 19:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (7 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-434 |
+| Positions | 12 (7 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-334 |
 | 📦 Unrealized | $-25 |
-| 🏦 Total | **$-459** |
+| 🏦 Total | **$-359** |
 | Best ROI | 0.39x |
-| Avg ROI | 0.28x |
+| Avg ROI | 0.33x |
 
 ## Open Positions
 
@@ -32,7 +32,6 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 CHUCK | 0.33x | $-67 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:02 → 2026-03-20 17:42 |
 | 🔴 Income | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 10:26 → 2026-03-20 15:10 |
-| 🔴 effect | 0.00x | $-100 | duplicate_entry | 6.27x | pumpfun | 2026-03-20 09:49 → 2026-03-20 18:52 |
 | 🔴 effect | 0.39x | $-61 | stop_loss | 1.07x | pumpfun | 2026-03-20 09:40 → 2026-03-20 09:45 |
 | 🔴 ZeroG | 0.33x | $-67 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:13 → 2026-03-20 16:23 |
 | 🔴 Beecat | 0.23x | $-77 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:02 → 2026-03-20 02:44 |
