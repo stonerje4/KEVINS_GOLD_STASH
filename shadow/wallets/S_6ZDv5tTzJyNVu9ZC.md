@@ -1,23 +1,24 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 12:54 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 12:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 197 (195 open, 2 closed) |
+| Positions | 198 (196 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
 | 📦 Unrealized | $+422 |
 | 🏦 Total | **$+556** |
-| Best ROI | 2.95x |
-| Avg ROI | 1.67x |
+| Best Trade | 2.9x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 fine999.9 | $0.002157 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:57 |
 | 🟡 TFW | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:38 |
 | 🟡 imagineslop | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
 | 🟡 ARIA | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:29 |

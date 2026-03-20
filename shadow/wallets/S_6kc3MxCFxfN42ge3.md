@@ -1,23 +1,25 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 12:54 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 12:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 109 (85 open, 24 closed) |
+| Positions | 111 (87 open, 24 closed) |
 | W/L | 4/20 (17%) |
 | 💵 Realized | $-733 |
-| 📦 Unrealized | $-1,159 |
-| 🏦 Total | **$-1,892** |
-| Best ROI | 2.98x |
-| Avg ROI | 0.69x |
+| 📦 Unrealized | $-1,158 |
+| 🏦 Total | **$-1,890** |
+| Best Trade | 3.0x |
+| Avg Peak | 1.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 RULEBOOK | $0.000059 | **1.02x** ($+2) | 1.16x |  | pumpswap | 2026-03-20 12:58 |
+| 🟡 SNIFFER | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:54 |
 | 🟡 됴지님 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:53 |
 | 🟡 9FuC9Jor | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:42 |
 | 🟡 DMT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:40 |

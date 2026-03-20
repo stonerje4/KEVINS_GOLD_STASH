@@ -1,23 +1,24 @@
 # Wallet: `3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3`
 
-> [View on Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 12:54 UTC
+> [View on Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 12:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (9 open, 0 closed) |
+| Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+24 |
 | 🏦 Total | **$+24** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WRT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:54 |
 | 🟡 $TFROG | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |
 | 🟡 TGR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:46 |
 | 🔴 UOR | $0.000005 | **0.95x** ($-5) | 1.02x |  | pumpfun | 2026-03-20 08:05 |

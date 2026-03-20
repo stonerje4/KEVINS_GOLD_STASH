@@ -1,23 +1,24 @@
 # Wallet: `MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM`
 
-> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 12:54 UTC
+> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 12:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (7 open, 2 closed) |
+| Positions | 10 (8 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
 | 📦 Unrealized | $-59 |
 | 🏦 Total | **$-181** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 imagine | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:55 |
 | 🟡 Doolysaurus | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:36 |
 | 🟡 DECEPTICONS | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:12 |
 | 🟡 Chonk | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:47 |

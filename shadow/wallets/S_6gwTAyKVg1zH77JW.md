@@ -1,23 +1,24 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 12:54 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 12:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 177 (174 open, 3 closed) |
+| Positions | 178 (175 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
 | 📦 Unrealized | $+151 |
 | 🏦 Total | **$+328** |
-| Best ROI | 2.91x |
-| Avg ROI | 1.59x |
+| Best Trade | 2.9x |
+| Avg Peak | 4.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 IMAGINE | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:58 |
 | 🟡 forg | $0.000110 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
 | 🟡 TFW | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:38 |
 | 🟡 TERAFAB | $0.000293 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:36 |

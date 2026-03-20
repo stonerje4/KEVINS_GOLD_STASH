@@ -1,23 +1,24 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 12:54 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 12:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 28 (22 open, 6 closed) |
+| Positions | 29 (23 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-332 |
 | 📦 Unrealized | $-37 |
 | 🏦 Total | **$-369** |
-| Best ROI | 0.82x |
-| Avg ROI | 0.45x |
+| Best Trade | 0.8x |
+| Avg Peak | 1.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Spiderman | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:58 |
 | 🟡 LOL | $0.000455 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 GOONERBI | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Chibis | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:07 |

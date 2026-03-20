@@ -1,23 +1,24 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 12:54 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 12:58 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 72 (69 open, 3 closed) |
+| Positions | 73 (70 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-190 |
 | 📦 Unrealized | $-11 |
 | 🏦 Total | **$-201** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CRABBO | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:57 |
 | 🟡 BLINK | $0.000143 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 12:26 |
 | 🟡 WIZARD | $0.000317 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:02 |
 | 🟡 IMAGINE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:56 |
