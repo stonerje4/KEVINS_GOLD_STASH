@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 12:44 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 12:48 UTC
 
 ## Summary
 
@@ -9,22 +9,22 @@
 | Positions | 150 (135 open, 15 closed) |
 | W/L | 7/8 (47%) |
 | 💵 Realized | $+1,019 |
-| 📦 Unrealized | $-2,621 |
-| 🏦 Total | **$-1,602** |
-| Best ROI | 5.93x |
-| Avg ROI | 1.68x |
+| 📦 Unrealized | $-2,617 |
+| 🏦 Total | **$-1,598** |
+| Best Trade | 5.9x |
+| Avg Peak | 4.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 COGLET | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:41 |
-| 🟡 ME | $0.000004 | **1.01x** ($+1) | 1.23x |  | pumpfun | 2026-03-20 10:28 |
+| 🟡 ME | $0.000004 | **1.05x** ($+5) | 1.23x |  | pumpfun | 2026-03-20 10:28 |
 | 🟡 7LhHK6Yf | $0.000003 | **1.02x** ($+2) | 1.04x |  | pumpfun | 2026-03-20 05:59 |
 | 🔴 ragcityyy99 | $0.000004 | **0.65x** ($-35) | 1.05x |  | pumpfun | 2026-03-20 05:59 |
 | 🔴 海遊館 | $0.000003 | **0.76x** ($-24) | 1.04x |  | pumpfun | 2026-03-20 05:56 |
 | 🔴 2tuR91ek | $0.000003 | **0.86x** ($-14) | 1.01x |  | pumpfun | 2026-03-20 05:50 |
-| 🔴 EidMubarak | $0.000005 | **0.74x** ($-26) | 1.47x |  | pumpfun | 2026-03-20 05:45 |
+| 🔴 EidMubarak | $0.000005 | **0.75x** ($-25) | 1.47x |  | pumpfun | 2026-03-20 05:45 |
 | 🔴 CORPORATE | $0.000003 | **0.92x** ($-8) | 1.09x |  | pumpfun | 2026-03-20 05:42 |
 | 🔴 PIXEL | $0.000004 | **0.65x** ($-35) | 1.08x |  | pumpfun | 2026-03-20 05:28 |
 | 🔴 bitpenis | $0.000004 | **0.73x** ($-27) | 1.14x |  | pumpfun | 2026-03-20 05:27 |
@@ -137,7 +137,7 @@
 | 🔴 TIERLIST | $0.000005 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-19 23:11 |
 | 🔴 BBM | $0.000005 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-19 23:10 |
 | 🔴 ZetaTalk | $0.000004 | **0.61x** ($-39) | 1.12x |  | pumpfun | 2026-03-19 23:09 |
-| 🔴 LIBERTY | $0.000004 | **0.79x** ($-21) | 1.29x |  | pumpfun | 2026-03-19 23:06 |
+| 🔴 LIBERTY | $0.000004 | **0.78x** ($-22) | 1.29x |  | pumpfun | 2026-03-19 23:06 |
 | 🔴 PRINTER | $0.000004 | **0.62x** ($-38) | 1.75x |  | pumpfun | 2026-03-19 23:06 |
 | 🔴 MemeMagic | $0.000006 | **0.73x** ($-27) | 1.15x |  | pumpfun | 2026-03-19 23:05 |
 | 🔴 ישראל | $0.000003 | **0.88x** ($-12) | 1.09x |  | pumpfun | 2026-03-19 23:03 |

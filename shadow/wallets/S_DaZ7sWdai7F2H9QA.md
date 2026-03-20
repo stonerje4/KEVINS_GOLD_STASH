@@ -1,6 +1,6 @@
 # Wallet: `DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9`
 
-> [View on Solscan](https://solscan.io/account/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | Updated: 2026-03-20 12:44 UTC
+> [View on Solscan](https://solscan.io/account/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | Updated: 2026-03-20 12:48 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-8 |
 | 🏦 Total | **$-8** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 

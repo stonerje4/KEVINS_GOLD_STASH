@@ -1,23 +1,24 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 12:44 UTC
+> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 12:48 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (13 open, 4 closed) |
+| Positions | 18 (14 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-104 |
-| 📦 Unrealized | $-18 |
+| 📦 Unrealized | $-17 |
 | 🏦 Total | **$-121** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.74x |
+| Best Trade | 1.5x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Me/Me | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:45 |
 | 🟡 NOTICER | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
 | 🟡 SOLS0CIETY | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:29 |
 | 🟡 9kMuVQa8 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:26 |

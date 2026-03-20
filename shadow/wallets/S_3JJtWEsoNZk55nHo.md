@@ -1,6 +1,6 @@
 # Wallet: `3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT`
 
-> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 12:44 UTC
+> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 12:48 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+6,306 |
-| 🏦 Total | **$+6,306** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+6,305 |
+| 🏦 Total | **$+6,305** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 happiness | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:43 |
 | 🟡 PsyopChibi | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:16 |
-| 🔴 AVATAR | $0.000009 | **0.83x** ($-17) | 1.16x |  | pumpswap | 2026-03-20 11:25 |
+| 🔴 AVATAR | $0.000009 | **0.81x** ($-19) | 1.16x |  | pumpswap | 2026-03-20 11:25 |
 | 🟡 Chibiusa | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:21 |
 | 🟡 Doomer | $0.000002 | **1.09x** ($+9) | 1.49x |  | pumpswap | 2026-03-20 10:23 |
 | 🟡 Freebuff | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:28 |

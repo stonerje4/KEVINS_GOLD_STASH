@@ -1,6 +1,6 @@
 # Wallet: `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj`
 
-> [View on Solscan](https://solscan.io/account/BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj) | Updated: 2026-03-20 12:44 UTC
+> [View on Solscan](https://solscan.io/account/BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj) | Updated: 2026-03-20 12:48 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-2** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+7 |
+| 🏦 Total | **$+7** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 APOPHENOTH | $0.000028 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 07:55 |
+| 🟡 APOPHENOTH | $0.000028 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 07:55 |
 
 ## Closed Positions
 
