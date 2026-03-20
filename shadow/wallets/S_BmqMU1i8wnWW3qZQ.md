@@ -9,10 +9,10 @@
 | Positions | 400 (395 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,128 |
-| 🏦 Total | **$-1,214** |
-| Best Trade | 2.8x |
-| Avg Peak | 2.2x |
+| 📦 Unrealized | $-1,127 |
+| 🏦 Total | **$-1,213** |
+| Best ROI | 2.75x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 

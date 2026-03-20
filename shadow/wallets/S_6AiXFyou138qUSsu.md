@@ -11,14 +11,14 @@
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $+89 |
 | 🏦 Total | **$+29** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 PUPPY | $0.000338 | **3.23x** ($+223) | 3.33x | ✅ | pumpswap | 2026-03-20 03:53 |
+| 🟢 PUPPY | $0.000338 | **3.24x** ($+224) | 3.33x | ✅ | pumpswap | 2026-03-20 03:53 |
 
 ## Closed Positions
 
