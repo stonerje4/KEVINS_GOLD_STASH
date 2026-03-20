@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 10:22 UTC
+> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 10:27 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 30 (30 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-60 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-53** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 awkward | $0.000013 | **0.95x** ($-5) | 1.10x |  | pumpfun | 2026-03-20 10:09 |
+| 🟡 awkward | $0.000013 | **1.02x** ($+2) | 1.10x |  | pumpfun | 2026-03-20 10:09 |
 | 🔴 CRABBO | $0.000168 | **0.83x** ($-17) | 1.01x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 Massive | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:22 |
 | 🟡 Strawberita | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:21 |

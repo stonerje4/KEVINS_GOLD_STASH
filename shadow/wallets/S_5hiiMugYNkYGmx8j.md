@@ -1,16 +1,16 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 10:22 UTC
+> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 10:27 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (22 open, 2 closed) |
+| Positions | 25 (23 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $+172 |
-| 🏦 Total | **$+33** |
+| 📦 Unrealized | $+196 |
+| 🏦 Total | **$+58** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Income | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:26 |
 | 🟡 IMAGINE | $0.000150 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:05 |
 | 🟡 Downald | $0.000419 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:53 |
 | 🟢 effect | $0.000011 | **3.25x** ($+225) | 3.25x | ✅ | pumpfun | 2026-03-20 09:49 |
-| 🔴 Life | $0.000171 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 09:38 |
+| 🔴 Life | $0.000171 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 09:38 |
 | 🟡 COLLECTIBLE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:34 |
 | 🟡 Zhdun | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:12 |
 | 🔴 beecat | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 08:59 |
@@ -31,10 +32,10 @@
 | 🟡 CHIBIELON | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 Pixels | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 来根华子 | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
-| 🟢 CHIBELON | $0.000062 | **2.27x** ($+127) | 4.06x | ✅ | pumpswap | 2026-03-20 07:18 |
+| 🟢 CHIBELON | $0.000062 | **2.41x** ($+141) | 4.06x | ✅ | pumpswap | 2026-03-20 07:18 |
 | 🟡 ZeroG | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
 | 🟡 INCOME | $0.000553 | **1.11x** ($+11) | 1.16x |  | pumpswap | 2026-03-20 06:50 |
-| 🟡 Unemployed | $0.000007 | **1.28x** ($+28) | 1.40x |  | pumpswap | 2026-03-20 06:48 |
+| 🟡 Unemployed | $0.000007 | **1.40x** ($+40) | 1.55x |  | pumpswap | 2026-03-20 06:48 |
 | 🟡 Rosie | $0.000876 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:29 |
 | 🔴 LIBERTY | $0.000004 | **0.79x** ($-21) | 1.29x |  | pumpfun | 2026-03-19 23:30 |
 | 🟡 Nigel | $0.000200 | **1.04x** ($+4) | 1.33x |  | pumpswap | 2026-03-19 22:54 |

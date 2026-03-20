@@ -1,6 +1,6 @@
 # Wallet: `Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z`
 
-> [View on Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-20 10:22 UTC
+> [View on Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-20 10:27 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 RETURN | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:13 |
-| 🟡 PLOTT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:07 |
+| 🔴 PLOTT | $0.000007 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 09:07 |
 | 🔴 WorldID | $0.000005 | **0.99x** ($-1) | 1.04x |  | pumpfun | 2026-03-20 09:05 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 10:22 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 10:27 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 85 (60 open, 25 closed) |
 | W/L | 2/23 (8%) |
 | 💵 Realized | $-1,081 |
-| 📦 Unrealized | $-1,202 |
-| 🏦 Total | **$-2,283** |
+| 📦 Unrealized | $-1,199 |
+| 🏦 Total | **$-2,280** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -28,15 +28,15 @@
 | 🟡 effect | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 09:54 |
 | 🟡 7b678pp4 | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:49 |
 | 🟡 Tutu | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:48 |
-| 🔴 omochi | $0.000022 | **0.90x** ($-10) | 1.22x |  | pumpfun | 2026-03-20 09:19 |
+| 🔴 omochi | $0.000022 | **0.97x** ($-3) | 1.22x |  | pumpfun | 2026-03-20 09:19 |
 | 🔴 Income | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 09:12 |
 | 🔴 Income | $0.000006 | **0.46x** ($-54) | 1.91x |  | pumpfun | 2026-03-20 09:04 |
-| 🔴 VOID | $0.000294 | **0.57x** ($-43) | 1.06x |  | cpmm | 2026-03-20 08:59 |
+| 🔴 VOID | $0.000294 | **0.59x** ($-41) | 1.06x |  | cpmm | 2026-03-20 08:59 |
 | 🔴 CARL | $0.000006 | **0.40x** ($-60) | 1.00x |  | pumpfun | 2026-03-20 08:58 |
 | 🔴 GNr5Byrt | $0.000006 | **0.44x** ($-56) | 1.10x |  | pumpfun | 2026-03-20 08:56 |
 | 🔴 Grok | $0.000005 | **0.47x** ($-53) | 1.19x |  | pumpfun | 2026-03-20 08:54 |
 | 🔴 Chibi | $0.000005 | **0.54x** ($-46) | 1.18x |  | pumpfun | 2026-03-20 08:44 |
-| 🔴 OM | $0.000012 | **0.72x** ($-28) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
+| 🔴 OM | $0.000012 | **0.67x** ($-33) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000005 | **0.46x** ($-54) | 1.69x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.51x** ($-49) | 1.08x |  | pumpfun | 2026-03-20 08:10 |
 | 🔴 BGEYapkY | $0.000005 | **0.53x** ($-47) | 1.27x |  | pumpfun | 2026-03-20 07:41 |
