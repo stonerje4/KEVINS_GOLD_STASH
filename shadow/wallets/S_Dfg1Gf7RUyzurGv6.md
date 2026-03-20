@@ -1,18 +1,18 @@
 # Wallet: `Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS`
 
-> [GMGN](https://gmgn.ai/sol/address/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | [Solscan](https://solscan.io/account/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | [Solscan](https://solscan.io/account/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (5 open, 2 closed) |
-| W/L | 1/1 (50%) |
-| 💵 Realized | $+4,553 |
-| 📦 Unrealized | $+15,550 |
-| 🏦 Total | **$+20,103** |
+| Positions | 7 (4 open, 3 closed) |
+| W/L | 1/2 (33%) |
+| 💵 Realized | $+4,453 |
+| 📦 Unrealized | $+138 |
+| 🏦 Total | **$+4,591** |
 | Best ROI | 47.53x |
-| Avg ROI | 23.76x |
+| Avg ROI | 15.84x |
 
 ## Open Positions
 
@@ -22,7 +22,6 @@
 | 🟡 電王 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:19 |
 | 🟡 MOCHI | $0.000102 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:14 |
 | 🚀 CHANNELS | $0.000614 | **5.06x** ($+406) | 5.32x | ✅ | pumpswap | 2026-03-20 03:26 |
-| 🚀 CHIBI | $0.000003 | **691.89x** ($+69,089) | 743.23x | ✅ | pumpswap | 2026-03-19 23:36 |
 
 ## Closed Positions
 
@@ -30,6 +29,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🟢 PUPPY | 47.53x | $+4,653 | trailing_stop_503x | 502.71x | pumpswap | 2026-03-20 03:54 → 2026-03-20 12:50 |
 | 🔴 唐子兵法 | 0.00x | $-100 | stop_loss | 1.39x | pumpswap | 2026-03-20 00:59 → 2026-03-20 15:19 |
+| 🔴 CHIBI | 0.00x | $-100 | phantom_dust_entry | 743.23x | pumpswap | 2026-03-19 23:36 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

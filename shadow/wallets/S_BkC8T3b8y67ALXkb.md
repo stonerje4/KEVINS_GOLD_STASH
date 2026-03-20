@@ -1,18 +1,18 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 80 (75 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-351 |
+| Positions | 80 (74 open, 6 closed) |
+| W/L | 0/6 (0%) |
+| 💵 Realized | $-451 |
 | 📦 Unrealized | $-76 |
-| 🏦 Total | **$-427** |
+| 🏦 Total | **$-527** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.30x |
+| Avg ROI | 0.25x |
 
 ## Open Positions
 
@@ -38,7 +38,6 @@
 | 🟡 FIH | $0.000199 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:21 |
 | 🔴 Strawberita | $0.000050 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🔴 PATRIOT | $0.000009 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
-| 🟡 DAU | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 LIBERTY | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 HeavyPulp | $0.001092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
@@ -98,6 +97,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 DAU | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 08:04 → 2026-03-20 15:42 |
 | 🔴 NATIVELY | 0.30x | $-70 | stop_loss | 1.31x | cpmm | 2026-03-20 04:46 → 2026-03-20 11:54 |
 | 🔴 MANEKI | 0.40x | $-60 | stop_loss | 1.20x | cpmm | 2026-03-20 04:46 → 2026-03-20 06:04 |
 | 🔴 Solana | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:31 → 2026-03-20 15:07 |

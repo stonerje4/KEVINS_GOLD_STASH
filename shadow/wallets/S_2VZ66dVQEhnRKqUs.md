@@ -1,18 +1,18 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (16 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-351 |
-| 📦 Unrealized | $-145 |
-| 🏦 Total | **$-495** |
+| Positions | 22 (14 open, 8 closed) |
+| W/L | 0/8 (0%) |
+| 💵 Realized | $-551 |
+| 📦 Unrealized | $-132 |
+| 🏦 Total | **$-682** |
 | Best ROI | 0.81x |
-| Avg ROI | 0.42x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
@@ -27,9 +27,7 @@
 | 🟡 Sentinel | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:13 |
 | 🔴 Fro | $0.000265 | **0.49x** ($-51) | 1.07x |  | pumpswap | 2026-03-20 02:10 |
 | 🔴 UBT | $0.000007 | **0.94x** ($-6) | 1.01x |  | pumpswap | 2026-03-20 01:32 |
-| 🔴 Cyberfy | $0.000003 | **0.91x** ($-9) | 1.17x |  | pumpfun | 2026-03-20 01:14 |
 | 🔴 DECEL | $0.000015 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:06 |
-| 🔴 GDhuS8NJ | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-19 23:26 |
 | 🔴 Record | $0.000010 | **0.90x** ($-10) | 1.47x |  | pumpfun | 2026-03-19 23:10 |
 | 🔴 bio/acc | $0.000020 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 22:54 |
 | 🟡 RIPCHUCK | $0.000008 | **1.08x** ($+8) | 1.49x |  | pumpfun | 2026-03-19 22:43 |
@@ -42,9 +40,11 @@
 | 🟡 CHIBI | 0.81x | $-19 | trailing_stop_2x | 2.19x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:32 |
 | 🔴 DRIVE | 0.18x | $-82 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:19 → 2026-03-20 15:26 |
 | 🔴 IMAGINE | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:06 → 2026-03-20 02:10 |
+| 🔴 Cyberfy | 0.00x | $-100 | phantom_dust_entry | 1.17x | pumpfun | 2026-03-20 01:14 → 2026-03-20 15:42 |
 | 🔴 Cyberfy | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 00:39 → 2026-03-20 01:10 |
 | 🔴 Massive | 0.39x | $-61 | stop_loss | 1.13x | pumpswap | 2026-03-19 23:53 → 2026-03-20 01:21 |
 | 🔴 Attention | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:31 → 2026-03-20 01:01 |
+| 🔴 GDhuS8NJ | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-19 23:26 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

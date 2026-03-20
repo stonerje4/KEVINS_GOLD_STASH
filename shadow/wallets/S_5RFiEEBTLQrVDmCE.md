@@ -1,16 +1,16 @@
 # Wallet: `5RFiEEBTLQrVDmCEpuT4p7ywy13XCGsPc8ASKhoWTCQY`
 
-> [GMGN](https://gmgn.ai/sol/address/5RFiEEBTLQrVDmCEpuT4p7ywy13XCGsPc8ASKhoWTCQY) | [Solscan](https://solscan.io/account/5RFiEEBTLQrVDmCEpuT4p7ywy13XCGsPc8ASKhoWTCQY) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/5RFiEEBTLQrVDmCEpuT4p7ywy13XCGsPc8ASKhoWTCQY) | [Solscan](https://solscan.io/account/5RFiEEBTLQrVDmCEpuT4p7ywy13XCGsPc8ASKhoWTCQY) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-11 |
-| 🏦 Total | **$-11** |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-100 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-100** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Nascat | $0.000004 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 04:57 |
 | 🟡 Patricia | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:54 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Nascat | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 04:57 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

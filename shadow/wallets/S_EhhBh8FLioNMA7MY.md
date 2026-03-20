@@ -1,16 +1,16 @@
 # Wallet: `EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX`
 
-> [GMGN](https://gmgn.ai/sol/address/EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX) | [Solscan](https://solscan.io/account/EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX) | [Solscan](https://solscan.io/account/EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-10 |
-| 🏦 Total | **$-10** |
+| Positions | 3 (0 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-300 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-300** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 C9PAjfYp | $0.000003 | **0.90x** ($-10) | 2.42x | ✅ | pumpfun | 2026-03-20 15:04 |
-| 🔴 FHuQRoD8 | $0.000003 | **0.90x** ($-10) | 2.37x | ✅ | pumpfun | 2026-03-20 13:35 |
-| 🟡 CLAWDIA | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:36 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 C9PAjfYp | 0.00x | $-100 | phantom_dust_entry | 2.42x | pumpfun | 2026-03-20 15:04 → 2026-03-20 15:42 |
+| 🔴 FHuQRoD8 | 0.00x | $-100 | phantom_dust_entry | 2.37x | pumpfun | 2026-03-20 13:35 → 2026-03-20 15:42 |
+| 🔴 CLAWDIA | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:36 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

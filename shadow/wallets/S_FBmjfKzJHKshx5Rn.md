@@ -1,16 +1,16 @@
 # Wallet: `FBmjfKzJHKshx5RnZVjqBFDJ3mjh7fF9KtBh8EtcxTEK`
 
-> [GMGN](https://gmgn.ai/sol/address/FBmjfKzJHKshx5RnZVjqBFDJ3mjh7fF9KtBh8EtcxTEK) | [Solscan](https://solscan.io/account/FBmjfKzJHKshx5RnZVjqBFDJ3mjh7fF9KtBh8EtcxTEK) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/FBmjfKzJHKshx5RnZVjqBFDJ3mjh7fF9KtBh8EtcxTEK) | [Solscan](https://solscan.io/account/FBmjfKzJHKshx5RnZVjqBFDJ3mjh7fF9KtBh8EtcxTEK) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-75 |
-| 🏦 Total | **$-75** |
+| Positions | 5 (2 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-300 |
+| 📦 Unrealized | $-52 |
+| 🏦 Total | **$-352** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,16 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 COMEDIAN | $0.000003 | **0.82x** ($-18) | 1.65x |  | pumpfun | 2026-03-20 06:05 |
 | 🔴 Qclaw | $0.000011 | **0.83x** ($-17) | 1.19x |  | pumpswap | 2026-03-20 06:01 |
-| 🟡 電王 | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:41 |
-| 🔴 nuggets | $0.000003 | **0.95x** ($-5) | 1.21x |  | pumpswap | 2026-03-19 23:55 |
 | 🔴 LIBERTY | $0.000055 | **0.65x** ($-35) | 1.53x |  | pumpswap | 2026-03-19 23:42 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 COMEDIAN | 0.00x | $-100 | phantom_dust_entry | 1.65x | pumpfun | 2026-03-20 06:05 → 2026-03-20 15:42 |
+| 🔴 電王 | 0.00x | $-100 | phantom_dust_entry | 1.00x | dlmm | 2026-03-20 05:41 → 2026-03-20 15:42 |
+| 🔴 nuggets | 0.00x | $-100 | phantom_dust_entry | 1.21x | pumpswap | 2026-03-19 23:55 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

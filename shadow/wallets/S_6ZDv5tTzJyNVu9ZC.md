@@ -1,18 +1,18 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 243 (239 open, 4 closed) |
-| W/L | 1/3 (25%) |
-| 💵 Realized | $-32 |
-| 📦 Unrealized | $-194 |
-| 🏦 Total | **$-226** |
+| Positions | 243 (237 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-232 |
+| 📦 Unrealized | $-178 |
+| 🏦 Total | **$-410** |
 | Best ROI | 2.95x |
-| Avg ROI | 0.92x |
+| Avg ROI | 0.61x |
 
 ## Open Positions
 
@@ -82,7 +82,6 @@
 | 🟡 hyrax  | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:55 |
 | 🟡 AINL | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:52 |
 | 🟡 gugugaga | $0.000151 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
-| 🟡 Cock | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
 | 🔴 Rocky | $0.000126 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 10:35 |
 | 🟡 Matthew | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:34 |
 | 🟡 Saxophones | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:05 |
@@ -253,7 +252,6 @@
 | 🟡 DEEPSEEKV4 | $0.000039 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 AMBER | $0.000014 | **1.00x** ($-0) | 1.05x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 DLSS5 | $0.000026 | **1.00x** ($+0) | 1.09x |  | pumpswap | 2026-03-19 22:52 |
-| 🔴 Anton | $0.000004 | **0.84x** ($-16) | 1.16x |  | pumpswap | 2026-03-19 22:47 |
 | 🔴 Nigel | $0.000212 | **0.98x** ($-2) | 1.25x |  | pumpswap | 2026-03-19 22:47 |
 | 🟡 PZBCN | $0.000137 | **1.10x** ($+10) | 1.12x |  | pumpswap | 2026-03-19 22:42 |
 | 🔴 CL1 | $0.000328 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-19 22:37 |
@@ -262,9 +260,11 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Cock | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 10:42 → 2026-03-20 15:42 |
 | 🔴 Gizmo | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:45 → 2026-03-20 08:22 |
 | 🟢 Ham | 2.95x | $+195 | trailing_stop_10x | 9.82x | pumpswap | 2026-03-20 00:03 → 2026-03-20 01:02 |
 | 🔴 Solana | 0.35x | $-65 | stop_loss | 1.19x | pumpswap | 2026-03-19 23:44 → 2026-03-20 15:06 |
+| 🔴 Anton | 0.00x | $-100 | phantom_dust_entry | 1.16x | pumpswap | 2026-03-19 22:47 → 2026-03-20 15:42 |
 | 🔴 唐子兵法 | 0.00x | $-100 | trailing_stop_3x | 3.07x | pumpswap | 2026-03-19 22:44 → 2026-03-20 15:19 |
 
 ---

@@ -1,18 +1,18 @@
 # Wallet: `CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs`
 
-> [GMGN](https://gmgn.ai/sol/address/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | [Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | [Solscan](https://solscan.io/account/CsuY6gzuark4m1FzX9ey4txSFZedBKPpHv4RZifWxkYs) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (8 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-94 |
-| 📦 Unrealized | $+127 |
-| 🏦 Total | **$+33** |
+| Positions | 11 (7 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-194 |
+| 📦 Unrealized | $+133 |
+| 🏦 Total | **$-61** |
 | Best ROI | 0.84x |
-| Avg ROI | 0.69x |
+| Avg ROI | 0.52x |
 
 ## Open Positions
 
@@ -25,7 +25,6 @@
 | 🔴 7stJpuEK | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 02:48 |
 | 🔴 4bZz6epa | $0.000006 | **0.41x** ($-59) | 1.00x |  | pumpfun | 2026-03-20 02:09 |
 | 🚀 FFe5jm5v | $0.000007 | **5.25x** ($+425) | 5.25x | ✅ | pumpfun | 2026-03-20 00:44 |
-| 🔴 Templates | $0.000003 | **0.94x** ($-6) | 1.73x |  | pumpfun | 2026-03-20 00:41 |
 
 ## Closed Positions
 
@@ -34,6 +33,7 @@
 | 🟡 Imaginify | 0.84x | $-16 | trailing_stop_3x | 2.63x | pumpfun | 2026-03-20 05:05 → 2026-03-20 07:16 |
 | 🟡 Patience | 0.82x | $-18 | trailing_stop_3x | 2.52x | pumpfun | 2026-03-20 03:13 → 2026-03-20 03:25 |
 | 🔴 Surge | 0.40x | $-60 | stop_loss | 1.19x | pumpfun | 2026-03-20 02:13 → 2026-03-20 02:17 |
+| 🔴 Templates | 0.00x | $-100 | phantom_dust_entry | 1.73x | pumpfun | 2026-03-20 00:41 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

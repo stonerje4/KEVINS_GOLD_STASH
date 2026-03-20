@@ -1,116 +1,116 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [GMGN](https://gmgn.ai/sol/address/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | [Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | [Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 88 (87 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-17 |
-| 📦 Unrealized | $-348 |
-| 🏦 Total | **$-365** |
+| Positions | 88 (0 open, 88 closed) |
+| W/L | 0/88 (0%) |
+| 💵 Realized | $-8,717 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-8,717** |
 | Best ROI | 0.83x |
-| Avg ROI | 0.83x |
+| Avg ROI | 0.01x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Immortalism | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 15:27 |
-| 🟡 CHUCK | $0.000003 | **1.55x** ($+55) | 1.55x |  | pumpfun | 2026-03-20 14:59 |
-| 🟡 BURNBEAR | $0.000003 | **1.02x** ($+2) | 1.03x |  | pumpfun | 2026-03-20 14:54 |
-| 🔴 Coglet | $0.000003 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-20 14:38 |
-| 🔴 Chucks | $0.000003 | **0.83x** ($-17) | 1.14x |  | pumpfun | 2026-03-20 14:33 |
-| 🔴 Walletmaxxing | $0.000003 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 14:26 |
-| 🔴 180K | $0.000003 | **0.93x** ($-7) | 1.05x |  | pumpfun | 2026-03-20 14:23 |
-| 🔴 H1EcKHzC | $0.000003 | **0.84x** ($-16) | 1.26x |  | pumpfun | 2026-03-20 14:13 |
-| 🔴 KWEK | $0.000003 | **0.98x** ($-2) | 1.08x |  | pumpfun | 2026-03-20 14:08 |
-| 🔴 USGR | $0.000003 | **0.85x** ($-15) | 1.01x |  | pumpfun | 2026-03-20 14:01 |
-| 🔴 V8YdLi9g | $0.000003 | **0.78x** ($-22) | 1.07x |  | pumpfun | 2026-03-20 13:47 |
-| 🔴 GROKTIRED | $0.000003 | **0.97x** ($-3) | 1.06x |  | pumpfun | 2026-03-20 13:34 |
-| 🔴 DOJI | $0.000003 | **0.73x** ($-27) | 1.00x |  | pumpfun | 2026-03-20 13:32 |
-| 🔴 PIKACHUGS | $0.000003 | **0.90x** ($-10) | 1.07x |  | pumpfun | 2026-03-20 13:28 |
-| 🟡 $1RUN | $0.000003 | **1.08x** ($+8) | 1.10x |  | pumpfun | 2026-03-20 13:22 |
-| 🔴 D23KwwsG | $0.000003 | **0.87x** ($-13) | 1.05x |  | pumpfun | 2026-03-20 13:04 |
-| 🟡 Kuro | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:42 |
-| 🟡 GOONE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:14 |
-| 🟡 Bispider  | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:00 |
-| 🟡 4dahFDZd | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |
-| 🟡 NBR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:17 |
-| 🟡 SLAP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:06 |
-| 🟡 Starship | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:00 |
-| 🟡 CHIBIIRON | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:54 |
-| 🟡 CHIBITOLY | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:51 |
-| 🟡 Chibis | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:50 |
-| 🟡 吹风机 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:31 |
-| 🟡 PEPE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:03 |
-| 🟡 chibidoge | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:43 |
-| 🔴 SWAGGY | $0.000003 | **0.81x** ($-19) | 1.04x |  | pumpfun | 2026-03-20 09:40 |
-| 🔴 CTRUMP | $0.000003 | **0.85x** ($-15) | 1.39x |  | pumpfun | 2026-03-20 09:36 |
-| 🔴 Nascat | $0.000003 | **0.80x** ($-20) | 1.04x |  | pumpfun | 2026-03-20 09:08 |
-| 🔴 ChibiJak | $0.000003 | **0.86x** ($-14) | 1.23x |  | pumpfun | 2026-03-20 08:46 |
-| 🔴 Wolverine | $0.000003 | **0.89x** ($-11) | 1.13x |  | pumpfun | 2026-03-20 08:23 |
-| 🔴 Chibililon | $0.000003 | **0.90x** ($-10) | 1.68x |  | pumpfun | 2026-03-20 08:19 |
-| 🔴 Rocky | $0.000003 | **0.87x** ($-13) | 1.12x |  | pumpfun | 2026-03-20 08:08 |
-| 🔴 $Chibi | $0.000003 | **0.98x** ($-2) | 1.31x |  | pumpfun | 2026-03-20 07:55 |
-| 🔴 engine | $0.000003 | **0.87x** ($-13) | 1.48x |  | pumpfun | 2026-03-20 07:48 |
-| 🔴 PIXELS | $0.000003 | **0.85x** ($-15) | 1.25x |  | pumpfun | 2026-03-20 07:43 |
-| 🔴 Kin-Kun | $0.000003 | **0.92x** ($-8) | 1.03x |  | pumpfun | 2026-03-20 07:37 |
-| 🔴 CHIBELON | $0.000003 | **0.93x** ($-7) | 1.12x |  | pumpfun | 2026-03-20 07:26 |
-| 🟡 ChibiElon | $0.000003 | **1.31x** ($+31) | 1.33x |  | pumpfun | 2026-03-20 07:22 |
-| 🔴 AEkbUJLT | $0.000003 | **0.81x** ($-19) | 1.06x |  | pumpfun | 2026-03-20 06:44 |
-| 🔴 4/20 | $0.000003 | **0.93x** ($-7) | 1.02x |  | pumpfun | 2026-03-20 06:40 |
-| 🔴 HUGH | $0.000003 | **0.84x** ($-16) | 1.03x |  | pumpfun | 2026-03-20 06:36 |
-| 🔴 MOHAMAD | $0.000003 | **0.80x** ($-20) | 1.00x |  | pumpfun | 2026-03-20 06:33 |
-| 🔴 NBR | $0.000003 | **0.80x** ($-20) | 1.11x |  | pumpfun | 2026-03-20 06:28 |
-| 🔴 COLONEL | $0.000003 | **0.88x** ($-12) | 1.10x |  | pumpfun | 2026-03-20 06:27 |
-| 🔴 GisEmX5K | $0.000003 | **0.78x** ($-22) | 1.05x |  | pumpfun | 2026-03-20 06:20 |
-| 🟢 BOBOLIZ | $0.000003 | **2.30x** ($+130) | 2.57x | ✅ | pumpfun | 2026-03-20 06:16 |
-| 🔴 ZeroG | $0.000003 | **0.88x** ($-12) | 1.05x |  | pumpfun | 2026-03-20 06:00 |
-| 🔴 TRUTH | $0.000003 | **0.91x** ($-9) | 1.23x |  | pumpfun | 2026-03-20 05:58 |
-| 🔴 HUGH | $0.000003 | **0.76x** ($-24) | 1.08x |  | pumpfun | 2026-03-20 04:24 |
-| 🔴 EftNvqrA | $0.000003 | **0.80x** ($-20) | 1.19x |  | pumpfun | 2026-03-20 04:05 |
-| 🔴 Yuki-chan | $0.000003 | **0.85x** ($-15) | 1.44x |  | pumpfun | 2026-03-20 04:00 |
-| 🔴 NoScam | $0.000003 | **0.81x** ($-19) | 1.17x |  | pumpfun | 2026-03-20 03:51 |
-| 🔴 Income | $0.000003 | **0.82x** ($-18) | 1.20x |  | pumpfun | 2026-03-20 03:29 |
-| 🚀 Nonchalant | $0.000003 | **5.03x** ($+403) | 5.77x | ✅ | pumpfun | 2026-03-20 03:18 |
-| 🔴 KIIUS | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 03:16 |
-| 🔴 Nonchalant | $0.000003 | **0.96x** ($-4) | 1.12x |  | pumpfun | 2026-03-20 02:50 |
-| 🔴 pepe | $0.000003 | **0.91x** ($-9) | 1.14x |  | pumpfun | 2026-03-20 02:44 |
-| 🔴 one day | $0.000003 | **0.92x** ($-8) | 1.06x |  | pumpfun | 2026-03-20 02:37 |
-| 🔴 外星小猫 | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 02:33 |
-| 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:19 |
-| 🟡 7H7hFCF7 | $0.000003 | **1.11x** ($+11) | 1.15x |  | pumpfun | 2026-03-20 02:17 |
-| 🔴 DickusTrump | $0.000003 | **0.85x** ($-15) | 1.18x |  | pumpfun | 2026-03-20 01:47 |
-| 🔴 TITTYKILLER | $0.000003 | **0.85x** ($-15) | 1.26x |  | pumpfun | 2026-03-20 01:21 |
-| 🔴 NGC74kZf | $0.000003 | **0.84x** ($-16) | 1.04x |  | pumpfun | 2026-03-20 01:19 |
-| 🔴 JELLYTENT | $0.000003 | **0.81x** ($-19) | 1.03x |  | pumpfun | 2026-03-20 01:10 |
-| 🔴 NBR | $0.000003 | **0.84x** ($-16) | 1.08x |  | pumpfun | 2026-03-20 00:56 |
-| 🔴 Fro | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 00:44 |
-| 🟡 MEMEPAL | $0.000003 | **1.06x** ($+6) | 2.22x | ✅ | pumpfun | 2026-03-20 00:32 |
-| 🟡 chibidoge | $0.000003 | **1.02x** ($+2) | 1.16x |  | pumpfun | 2026-03-20 00:29 |
-| 🔴 NETANYAHU | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 00:29 |
-| 🔴 Naughtiest | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 00:20 |
-| 🔴 CHIBIMINAJ | $0.000003 | **0.82x** ($-18) | 1.00x |  | pumpfun | 2026-03-20 00:18 |
-| 🔴 MiniTrump | $0.000003 | **0.77x** ($-23) | 1.00x |  | pumpfun | 2026-03-20 00:01 |
-| 🟡 Chibinski | $0.000003 | **1.02x** ($+2) | 1.06x |  | pumpfun | 2026-03-19 23:55 |
-| 🔴 3cUc5YtL | $0.000003 | **0.86x** ($-14) | 1.16x |  | pumpfun | 2026-03-19 23:54 |
-| 🟡 Trenchies | $0.000003 | **1.62x** ($+62) | 1.70x |  | pumpfun | 2026-03-19 23:52 |
-| 🔴 GQqH3H3a | $0.000003 | **0.90x** ($-10) | 1.29x |  | pumpfun | 2026-03-19 23:49 |
-| 🟢 SHELBY | $0.000003 | **3.40x** ($+240) | 4.78x | ✅ | pumpfun | 2026-03-19 23:47 |
-| 🔴 XGqX2y8e | $0.000003 | **0.84x** ($-16) | 1.23x |  | pumpfun | 2026-03-19 23:46 |
-| 🔴 GKRgZZZi | $0.000003 | **0.87x** ($-13) | 1.20x |  | pumpfun | 2026-03-19 23:44 |
-| 🔴 ALF | $0.000003 | **0.96x** ($-4) | 1.03x |  | pumpfun | 2026-03-19 23:15 |
-| 🔴 JOB | $0.000003 | **0.83x** ($-17) | 1.03x |  | pumpfun | 2026-03-19 22:42 |
-| 🔴 PESSIMIST | $0.000003 | **0.87x** ($-13) | 1.34x |  | pumpfun | 2026-03-19 22:37 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Immortalism | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 15:27 → 2026-03-20 15:42 |
+| 🔴 CHUCK | 0.00x | $-100 | phantom_dust_entry | 1.55x | pumpfun | 2026-03-20 14:59 → 2026-03-20 15:42 |
+| 🔴 BURNBEAR | 0.00x | $-100 | phantom_dust_entry | 1.03x | pumpfun | 2026-03-20 14:54 → 2026-03-20 15:42 |
+| 🔴 Coglet | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 14:38 → 2026-03-20 15:42 |
+| 🔴 Chucks | 0.00x | $-100 | phantom_dust_entry | 1.14x | pumpfun | 2026-03-20 14:33 → 2026-03-20 15:42 |
+| 🔴 Walletmaxxing | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 14:26 → 2026-03-20 15:42 |
+| 🔴 180K | 0.00x | $-100 | phantom_dust_entry | 1.05x | pumpfun | 2026-03-20 14:23 → 2026-03-20 15:42 |
+| 🔴 H1EcKHzC | 0.00x | $-100 | phantom_dust_entry | 1.26x | pumpfun | 2026-03-20 14:13 → 2026-03-20 15:42 |
+| 🔴 KWEK | 0.00x | $-100 | phantom_dust_entry | 1.08x | pumpfun | 2026-03-20 14:08 → 2026-03-20 15:42 |
+| 🔴 USGR | 0.00x | $-100 | phantom_dust_entry | 1.01x | pumpfun | 2026-03-20 14:01 → 2026-03-20 15:42 |
+| 🔴 V8YdLi9g | 0.00x | $-100 | phantom_dust_entry | 1.07x | pumpfun | 2026-03-20 13:47 → 2026-03-20 15:42 |
+| 🔴 GROKTIRED | 0.00x | $-100 | phantom_dust_entry | 1.06x | pumpfun | 2026-03-20 13:34 → 2026-03-20 15:42 |
+| 🔴 DOJI | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 13:32 → 2026-03-20 15:42 |
+| 🔴 PIKACHUGS | 0.00x | $-100 | phantom_dust_entry | 1.07x | pumpfun | 2026-03-20 13:28 → 2026-03-20 15:42 |
+| 🔴 $1RUN | 0.00x | $-100 | phantom_dust_entry | 1.10x | pumpfun | 2026-03-20 13:22 → 2026-03-20 15:42 |
+| 🔴 D23KwwsG | 0.00x | $-100 | phantom_dust_entry | 1.05x | pumpfun | 2026-03-20 13:04 → 2026-03-20 15:42 |
+| 🔴 Kuro | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:42 → 2026-03-20 15:42 |
+| 🔴 GOONE | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:14 → 2026-03-20 15:42 |
+| 🔴 Bispider  | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:00 → 2026-03-20 15:42 |
+| 🔴 4dahFDZd | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:26 → 2026-03-20 15:42 |
+| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:17 → 2026-03-20 15:42 |
+| 🔴 SLAP | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:06 → 2026-03-20 15:42 |
+| 🔴 Starship | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 11:00 → 2026-03-20 15:42 |
+| 🔴 CHIBIIRON | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:54 → 2026-03-20 15:42 |
+| 🔴 CHIBITOLY | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:51 → 2026-03-20 15:42 |
+| 🔴 Chibis | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:50 → 2026-03-20 15:42 |
+| 🔴 吹风机 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:31 → 2026-03-20 15:42 |
+| 🔴 PEPE | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:03 → 2026-03-20 15:42 |
+| 🔴 chibidoge | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 09:43 → 2026-03-20 15:42 |
+| 🔴 SWAGGY | 0.00x | $-100 | phantom_dust_entry | 1.04x | pumpfun | 2026-03-20 09:40 → 2026-03-20 15:42 |
+| 🔴 CTRUMP | 0.00x | $-100 | phantom_dust_entry | 1.39x | pumpfun | 2026-03-20 09:36 → 2026-03-20 15:42 |
+| 🔴 Nascat | 0.00x | $-100 | phantom_dust_entry | 1.04x | pumpfun | 2026-03-20 09:08 → 2026-03-20 15:42 |
+| 🔴 ChibiJak | 0.00x | $-100 | phantom_dust_entry | 1.23x | pumpfun | 2026-03-20 08:46 → 2026-03-20 15:42 |
+| 🔴 Wolverine | 0.00x | $-100 | phantom_dust_entry | 1.13x | pumpfun | 2026-03-20 08:23 → 2026-03-20 15:42 |
+| 🔴 Chibililon | 0.00x | $-100 | phantom_dust_entry | 1.68x | pumpfun | 2026-03-20 08:19 → 2026-03-20 15:42 |
+| 🔴 Rocky | 0.00x | $-100 | phantom_dust_entry | 1.12x | pumpfun | 2026-03-20 08:08 → 2026-03-20 15:42 |
+| 🔴 $Chibi | 0.00x | $-100 | phantom_dust_entry | 1.31x | pumpfun | 2026-03-20 07:55 → 2026-03-20 15:42 |
+| 🔴 engine | 0.00x | $-100 | phantom_dust_entry | 1.48x | pumpfun | 2026-03-20 07:48 → 2026-03-20 15:42 |
+| 🔴 PIXELS | 0.00x | $-100 | phantom_dust_entry | 1.25x | pumpfun | 2026-03-20 07:43 → 2026-03-20 15:42 |
+| 🔴 Kin-Kun | 0.00x | $-100 | phantom_dust_entry | 1.03x | pumpfun | 2026-03-20 07:37 → 2026-03-20 15:42 |
+| 🔴 CHIBELON | 0.00x | $-100 | phantom_dust_entry | 1.12x | pumpfun | 2026-03-20 07:26 → 2026-03-20 15:42 |
+| 🔴 ChibiElon | 0.00x | $-100 | phantom_dust_entry | 1.33x | pumpfun | 2026-03-20 07:22 → 2026-03-20 15:42 |
+| 🔴 AEkbUJLT | 0.00x | $-100 | phantom_dust_entry | 1.06x | pumpfun | 2026-03-20 06:44 → 2026-03-20 15:42 |
+| 🔴 4/20 | 0.00x | $-100 | phantom_dust_entry | 1.02x | pumpfun | 2026-03-20 06:40 → 2026-03-20 15:42 |
+| 🔴 HUGH | 0.00x | $-100 | phantom_dust_entry | 1.03x | pumpfun | 2026-03-20 06:36 → 2026-03-20 15:42 |
+| 🔴 MOHAMAD | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 06:33 → 2026-03-20 15:42 |
+| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.11x | pumpfun | 2026-03-20 06:28 → 2026-03-20 15:42 |
+| 🔴 COLONEL | 0.00x | $-100 | phantom_dust_entry | 1.10x | pumpfun | 2026-03-20 06:27 → 2026-03-20 15:42 |
+| 🔴 GisEmX5K | 0.00x | $-100 | phantom_dust_entry | 1.05x | pumpfun | 2026-03-20 06:20 → 2026-03-20 15:42 |
+| 🔴 BOBOLIZ | 0.00x | $-100 | phantom_dust_entry | 2.57x | pumpfun | 2026-03-20 06:16 → 2026-03-20 15:42 |
+| 🔴 ZeroG | 0.00x | $-100 | phantom_dust_entry | 1.05x | pumpfun | 2026-03-20 06:00 → 2026-03-20 15:42 |
+| 🔴 TRUTH | 0.00x | $-100 | phantom_dust_entry | 1.23x | pumpfun | 2026-03-20 05:58 → 2026-03-20 15:42 |
+| 🔴 HUGH | 0.00x | $-100 | phantom_dust_entry | 1.08x | pumpfun | 2026-03-20 04:24 → 2026-03-20 15:42 |
 | 🟡 NOBODY | 0.83x | $-17 | trailing_stop_2x | 2.06x | pumpfun | 2026-03-20 04:18 → 2026-03-20 06:09 |
+| 🔴 EftNvqrA | 0.00x | $-100 | phantom_dust_entry | 1.19x | pumpfun | 2026-03-20 04:05 → 2026-03-20 15:42 |
+| 🔴 Yuki-chan | 0.00x | $-100 | phantom_dust_entry | 1.44x | pumpfun | 2026-03-20 04:00 → 2026-03-20 15:42 |
+| 🔴 NoScam | 0.00x | $-100 | phantom_dust_entry | 1.17x | pumpfun | 2026-03-20 03:51 → 2026-03-20 15:42 |
+| 🔴 Income | 0.00x | $-100 | phantom_dust_entry | 1.20x | pumpfun | 2026-03-20 03:29 → 2026-03-20 15:42 |
+| 🔴 Nonchalant | 0.00x | $-100 | phantom_dust_entry | 5.77x | pumpfun | 2026-03-20 03:18 → 2026-03-20 15:42 |
+| 🔴 KIIUS | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 03:16 → 2026-03-20 15:42 |
+| 🔴 Nonchalant | 0.00x | $-100 | phantom_dust_entry | 1.12x | pumpfun | 2026-03-20 02:50 → 2026-03-20 15:42 |
+| 🔴 pepe | 0.00x | $-100 | phantom_dust_entry | 1.14x | pumpfun | 2026-03-20 02:44 → 2026-03-20 15:42 |
+| 🔴 one day | 0.00x | $-100 | phantom_dust_entry | 1.06x | pumpfun | 2026-03-20 02:37 → 2026-03-20 15:42 |
+| 🔴 外星小猫 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 02:33 → 2026-03-20 15:42 |
+| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 02:19 → 2026-03-20 15:42 |
+| 🔴 7H7hFCF7 | 0.00x | $-100 | phantom_dust_entry | 1.15x | pumpfun | 2026-03-20 02:17 → 2026-03-20 15:42 |
+| 🔴 DickusTrump | 0.00x | $-100 | phantom_dust_entry | 1.18x | pumpfun | 2026-03-20 01:47 → 2026-03-20 15:42 |
+| 🔴 TITTYKILLER | 0.00x | $-100 | phantom_dust_entry | 1.26x | pumpfun | 2026-03-20 01:21 → 2026-03-20 15:42 |
+| 🔴 NGC74kZf | 0.00x | $-100 | phantom_dust_entry | 1.04x | pumpfun | 2026-03-20 01:19 → 2026-03-20 15:42 |
+| 🔴 JELLYTENT | 0.00x | $-100 | phantom_dust_entry | 1.03x | pumpfun | 2026-03-20 01:10 → 2026-03-20 15:42 |
+| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.08x | pumpfun | 2026-03-20 00:56 → 2026-03-20 15:42 |
+| 🔴 Fro | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 00:44 → 2026-03-20 15:42 |
+| 🔴 MEMEPAL | 0.00x | $-100 | phantom_dust_entry | 2.22x | pumpfun | 2026-03-20 00:32 → 2026-03-20 15:42 |
+| 🔴 chibidoge | 0.00x | $-100 | phantom_dust_entry | 1.16x | pumpfun | 2026-03-20 00:29 → 2026-03-20 15:42 |
+| 🔴 NETANYAHU | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 00:29 → 2026-03-20 15:42 |
+| 🔴 Naughtiest | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 00:20 → 2026-03-20 15:42 |
+| 🔴 CHIBIMINAJ | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 00:18 → 2026-03-20 15:42 |
+| 🔴 MiniTrump | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 00:01 → 2026-03-20 15:42 |
+| 🔴 Chibinski | 0.00x | $-100 | phantom_dust_entry | 1.06x | pumpfun | 2026-03-19 23:55 → 2026-03-20 15:42 |
+| 🔴 3cUc5YtL | 0.00x | $-100 | phantom_dust_entry | 1.16x | pumpfun | 2026-03-19 23:54 → 2026-03-20 15:42 |
+| 🔴 Trenchies | 0.00x | $-100 | phantom_dust_entry | 1.70x | pumpfun | 2026-03-19 23:52 → 2026-03-20 15:42 |
+| 🔴 GQqH3H3a | 0.00x | $-100 | phantom_dust_entry | 1.29x | pumpfun | 2026-03-19 23:49 → 2026-03-20 15:42 |
+| 🔴 SHELBY | 0.00x | $-100 | phantom_dust_entry | 4.78x | pumpfun | 2026-03-19 23:47 → 2026-03-20 15:42 |
+| 🔴 XGqX2y8e | 0.00x | $-100 | phantom_dust_entry | 1.23x | pumpfun | 2026-03-19 23:46 → 2026-03-20 15:42 |
+| 🔴 GKRgZZZi | 0.00x | $-100 | phantom_dust_entry | 1.20x | pumpfun | 2026-03-19 23:44 → 2026-03-20 15:42 |
+| 🔴 ALF | 0.00x | $-100 | phantom_dust_entry | 1.03x | pumpfun | 2026-03-19 23:15 → 2026-03-20 15:42 |
+| 🔴 JOB | 0.00x | $-100 | phantom_dust_entry | 1.03x | pumpfun | 2026-03-19 22:42 → 2026-03-20 15:42 |
+| 🔴 PESSIMIST | 0.00x | $-100 | phantom_dust_entry | 1.34x | pumpfun | 2026-03-19 22:37 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,16 +1,16 @@
 # Wallet: `3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3`
 
-> [GMGN](https://gmgn.ai/sol/address/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | [Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | [Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (19 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+189 |
-| 🏦 Total | **$+189** |
+| Positions | 19 (9 open, 10 closed) |
+| W/L | 0/10 (0%) |
+| 💵 Realized | $-1,000 |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$-992** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,17 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000004 | **0.98x** ($-2) | 1.18x |  | pumpfun | 2026-03-20 15:03 |
-| 🔴 SIMULATION | $0.000003 | **0.99x** ($-1) | 1.14x |  | pumpfun | 2026-03-20 15:02 |
-| 🟡 NBR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 15:00 |
-| 🟡 NBR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
-| 🟡 WHOREMOSE | $0.000003 | **1.21x** ($+21) | 1.25x |  | pumpfun | 2026-03-20 14:13 |
-| 🟡 MOSHI | $0.000003 | **1.12x** ($+12) | 1.47x |  | pumpfun | 2026-03-20 13:22 |
-| 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
-| 🟢 OSP | $0.000004 | **2.91x** ($+191) | 3.22x | ✅ | pumpfun | 2026-03-20 13:21 |
-| 🟡 C7NSBRKs | $0.000003 | **1.74x** ($+74) | 1.78x |  | pumpfun | 2026-03-20 13:19 |
 | 🟡 WRT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:54 |
-| 🟡 $TFROG | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |
 | 🟡 TGR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:46 |
 | 🔴 UOR | $0.000005 | **0.95x** ($-5) | 1.02x |  | pumpfun | 2026-03-20 08:05 |
 | 🟡 SaudiAramc | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:42 |
@@ -42,6 +32,16 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Chuck | 0.00x | $-100 | phantom_dust_entry | 1.18x | pumpfun | 2026-03-20 15:03 → 2026-03-20 15:42 |
+| 🔴 SIMULATION | 0.00x | $-100 | phantom_dust_entry | 1.14x | pumpfun | 2026-03-20 15:02 → 2026-03-20 15:42 |
+| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 15:00 → 2026-03-20 15:42 |
+| 🔴 NBR | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 14:57 → 2026-03-20 15:42 |
+| 🔴 WHOREMOSE | 0.00x | $-100 | phantom_dust_entry | 1.25x | pumpfun | 2026-03-20 14:13 → 2026-03-20 15:42 |
+| 🔴 MOSHI | 0.00x | $-100 | phantom_dust_entry | 1.47x | pumpfun | 2026-03-20 13:22 → 2026-03-20 15:42 |
+| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 13:21 → 2026-03-20 15:42 |
+| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 3.22x | pumpfun | 2026-03-20 13:21 → 2026-03-20 15:42 |
+| 🔴 C7NSBRKs | 0.00x | $-100 | phantom_dust_entry | 1.78x | pumpfun | 2026-03-20 13:19 → 2026-03-20 15:42 |
+| 🔴 $TFROG | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 12:50 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

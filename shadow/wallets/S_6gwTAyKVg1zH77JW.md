@@ -1,18 +1,18 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 211 (206 open, 5 closed) |
-| W/L | 2/3 (40%) |
-| 💵 Realized | $+12 |
-| 📦 Unrealized | $-471 |
-| 🏦 Total | **$-459** |
+| Positions | 211 (201 open, 10 closed) |
+| W/L | 2/8 (20%) |
+| 💵 Realized | $-488 |
+| 📦 Unrealized | $-416 |
+| 🏦 Total | **$-903** |
 | Best ROI | 2.91x |
-| Avg ROI | 1.02x |
+| Avg ROI | 0.51x |
 
 ## Open Positions
 
@@ -22,7 +22,6 @@
 | 🟡 Optimus | $0.000034 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 15:20 |
 | 🟡 OCTOPUS | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 15:15 |
 | 🟡 SCAN | $0.000131 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
-| 🔴 SYSTEM  | $0.000004 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
 | 🔴 Chuck | $0.000458 | **0.70x** ($-30) | 1.05x |  | pumpswap | 2026-03-20 15:07 |
 | 🔴 HAMILTON | $0.000012 | **0.93x** ($-7) | 1.02x |  | pumpswap | 2026-03-20 15:05 |
 | 🟡 ORANMAMA | $0.000247 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 15:05 |
@@ -96,7 +95,6 @@
 | 🟡 clawedin | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:02 |
 | 🟡 90S | $0.000016 | **1.25x** ($+25) | 1.36x |  | pumpswap | 2026-03-20 07:02 |
 | 🟡 𝕏Money | $0.000327 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 06:59 |
-| 🔴 KIWI | $0.000003 | **0.91x** ($-9) | 1.05x |  | pumpswap | 2026-03-20 06:58 |
 | 🔴 OXE | $0.000420 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 06:58 |
 | 🟡 Ballerina | $0.000064 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:48 |
 | 🟡 FKH | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:39 |
@@ -116,7 +114,6 @@
 | 🔴 shitcoin | $0.000075 | **0.89x** ($-11) | 1.11x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 IShowSpeed | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:52 |
 | 🔴 MOJTABA | $0.000010 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-20 04:21 |
-| 🔴 bearcoin | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 04:17 |
 | 🟡 ROME | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:13 |
 | 🟡 KIWI | $0.000146 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:00 |
 | 🔴 Gascoin | $0.000031 | **0.88x** ($-12) | 1.08x |  | pumpswap | 2026-03-20 03:48 |
@@ -186,7 +183,6 @@
 | 🔴 TOKEN | $0.000112 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-20 00:08 |
 | 🔴 Flash | $0.000061 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 00:07 |
 | 🔴 FAKER | $0.000036 | **0.97x** ($-3) | 1.07x |  | pumpswap | 2026-03-20 00:07 |
-| 🔴 Thanos | $0.000004 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 00:04 |
 | 🔴 MIM | $0.000062 | **0.71x** ($-29) | 1.04x |  | pumpswap | 2026-03-20 00:04 |
 | 🔴 LARP | $0.000249 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-20 00:02 |
 | 🟡 Spawn | $0.000134 | **1.17x** ($+17) | 1.25x |  | pumpswap | 2026-03-20 00:02 |
@@ -218,7 +214,6 @@
 | 🟡 Geeked | $0.000022 | **1.18x** ($+18) | 1.29x |  | pumpswap | 2026-03-19 22:57 |
 | 🔴 DLSS5 | $0.000026 | **0.99x** ($-1) | 1.07x |  | pumpswap | 2026-03-19 22:52 |
 | 🔴 BLUECOLLAR | $0.000010 | **0.82x** ($-18) | 1.01x |  | pumpswap | 2026-03-19 22:52 |
-| 🔴 Anton | $0.000004 | **0.81x** ($-19) | 1.12x |  | pumpswap | 2026-03-19 22:47 |
 | 🔴 SOS | $0.000021 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-19 22:42 |
 | 🟡 SHELLY | $0.000009 | **1.10x** ($+10) | 1.11x |  | pumpswap | 2026-03-19 22:41 |
 | 🔴 BBX | $0.000450 | **0.99x** ($-1) | 1.50x |  | pumpswap | 2026-03-19 22:41 |
@@ -229,11 +224,16 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 SYSTEM  | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 15:13 → 2026-03-20 15:42 |
+| 🔴 KIWI | 0.00x | $-100 | phantom_dust_entry | 1.05x | pumpswap | 2026-03-20 06:58 → 2026-03-20 15:42 |
 | 🔴 Gizmo | 0.39x | $-61 | stop_loss | 1.01x | pumpswap | 2026-03-20 04:29 → 2026-03-20 08:22 |
+| 🔴 bearcoin | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 04:17 → 2026-03-20 15:42 |
+| 🔴 Thanos | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 00:04 → 2026-03-20 15:42 |
 | 🟢 Ham | 2.91x | $+191 | trailing_stop_9x | 9.44x | pumpswap | 2026-03-19 23:52 → 2026-03-20 01:02 |
 | 🔴 Solana | 0.34x | $-66 | stop_loss | 1.19x | pumpswap | 2026-03-19 23:44 → 2026-03-20 15:06 |
 | 🔴 唐子兵法 | 0.00x | $-100 | trailing_stop_3x | 3.38x | pumpswap | 2026-03-19 23:38 → 2026-03-20 15:19 |
 | 🟡 Chibify | 1.48x | $+48 | trailing_stop_3x | 3.00x | pumpswap | 2026-03-19 23:22 → 2026-03-20 01:02 |
+| 🔴 Anton | 0.00x | $-100 | phantom_dust_entry | 1.12x | pumpswap | 2026-03-19 22:47 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

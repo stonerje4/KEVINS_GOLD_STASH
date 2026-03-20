@@ -1,16 +1,16 @@
 # Wallet: `2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS`
 
-> [GMGN](https://gmgn.ai/sol/address/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | [Solscan](https://solscan.io/account/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | [Solscan](https://solscan.io/account/2UmWdpWjQjorZhFEZHU7DxbbeQGZj5cxKNr6eGGGM9fS) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+53 |
-| 🏦 Total | **$+53** |
+| Positions | 5 (0 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-500 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-500** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,16 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 MRBEASTFI | $0.000004 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 01:29 |
-| 🔴 Claude | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 00:44 |
-| 🟡 FLAG | $0.000003 | **1.31x** ($+31) | 1.38x |  | pumpfun | 2026-03-20 00:40 |
-| 🟡 OSP | $0.000003 | **1.08x** ($+8) | 1.21x |  | pumpfun | 2026-03-20 00:34 |
-| 🟡 BNB | $0.000003 | **1.22x** ($+22) | 1.28x |  | pumpfun | 2026-03-20 00:24 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 MRBEASTFI | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 01:29 → 2026-03-20 15:42 |
+| 🔴 Claude | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 00:44 → 2026-03-20 15:42 |
+| 🔴 FLAG | 0.00x | $-100 | phantom_dust_entry | 1.38x | pumpfun | 2026-03-20 00:40 → 2026-03-20 15:42 |
+| 🔴 OSP | 0.00x | $-100 | phantom_dust_entry | 1.21x | pumpfun | 2026-03-20 00:34 → 2026-03-20 15:42 |
+| 🔴 BNB | 0.00x | $-100 | phantom_dust_entry | 1.28x | pumpfun | 2026-03-20 00:24 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

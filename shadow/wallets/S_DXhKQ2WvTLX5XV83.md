@@ -1,16 +1,16 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (10 open, 16 closed) |
-| W/L | 0/16 (0%) |
-| 💵 Realized | $-1,600 |
-| 📦 Unrealized | $+2,043 |
-| 🏦 Total | **$+443** |
+| Positions | 26 (6 open, 20 closed) |
+| W/L | 0/20 (0%) |
+| 💵 Realized | $-2,000 |
+| 📦 Unrealized | $-47 |
+| 🏦 Total | **$-2,047** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,10 +18,6 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 FOID | $0.000000 | **94.72x** ($+9,372) | 109.46x | ✅ | pumpfun | 2026-03-20 14:59 |
-| 🟡 CHIBIPUNCH | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:42 |
-| 🟡 SNIFFER | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:05 |
-| 🟡 Me/Me | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:01 |
 | 🟡 SCELON | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:49 |
 | 🟡 JupUSD | $0.182981 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 07:49 |
 | 🔴 SOLANA | $0.000005 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 06:22 |
@@ -33,6 +29,10 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 FOID | 0.00x | $-100 | phantom_dust_entry | 109.46x | pumpfun | 2026-03-20 14:59 → 2026-03-20 15:42 |
+| 🔴 CHIBIPUNCH | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 14:42 → 2026-03-20 15:42 |
+| 🔴 SNIFFER | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 13:05 → 2026-03-20 15:42 |
+| 🔴 Me/Me | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 13:01 → 2026-03-20 15:42 |
 | 🔴 Chibli-fy | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpfun | 2026-03-20 12:19 → 2026-03-20 14:58 |
 | 🔴 FAIR | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpfun | 2026-03-20 12:10 → 2026-03-20 14:58 |
 | 🔴 Look | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpfun | 2026-03-20 12:06 → 2026-03-20 14:58 |

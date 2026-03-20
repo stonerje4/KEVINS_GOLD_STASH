@@ -1,18 +1,18 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 143 (141 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-137 |
-| 📦 Unrealized | $-226 |
-| 🏦 Total | **$-363** |
+| Positions | 143 (139 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-337 |
+| 📦 Unrealized | $-225 |
+| 🏦 Total | **$-562** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.31x |
+| Avg ROI | 0.16x |
 
 ## Open Positions
 
@@ -146,11 +146,9 @@
 | 🟡 Spawn | $0.000138 | **1.13x** ($+13) | 1.21x |  | pumpswap | 2026-03-20 00:02 |
 | 🟡 NETANYAHU | $0.000090 | **1.11x** ($+11) | 1.33x |  | pumpswap | 2026-03-19 23:57 |
 | 🔴 Life | $0.000182 | **0.82x** ($-18) | 1.06x |  | pumpswap | 2026-03-19 23:45 |
-| 🟡 ACV | $0.000002 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 5 | $0.000011 | **0.84x** ($-16) | 1.06x |  | pumpswap | 2026-03-19 23:36 |
 | 🔴 INCOME | $0.000640 | **0.78x** ($-22) | 1.14x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 HEY | $0.000738 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
-| 🔴 wid | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 Barron | $0.000016 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-19 23:23 |
 | 🟡 Foodrot | $0.000138 | **1.13x** ($+13) | 1.15x |  | pumpswap | 2026-03-19 23:19 |
 | 🔴 MIROFISH | $0.000035 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:13 |
@@ -166,6 +164,8 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Gizmo | 0.40x | $-60 | stop_loss | 1.04x | pumpswap | 2026-03-20 04:29 → 2026-03-20 08:22 |
 | 🔴 CEO | 0.23x | $-77 | stop_loss | 1.02x | pumpswap | 2026-03-19 23:50 → 2026-03-20 01:13 |
+| 🔴 ACV | 0.00x | $-100 | phantom_dust_entry | 1.02x | pumpswap | 2026-03-19 23:44 → 2026-03-20 15:42 |
+| 🔴 wid | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-19 23:33 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,18 +1,18 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 15:34 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 15:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (15 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-62 |
-| 📦 Unrealized | $+171 |
-| 🏦 Total | **$+109** |
+| Positions | 16 (9 open, 7 closed) |
+| W/L | 0/7 (0%) |
+| 💵 Realized | $-662 |
+| 📦 Unrealized | $-32 |
+| 🏦 Total | **$-694** |
 | Best ROI | 0.38x |
-| Avg ROI | 0.38x |
+| Avg ROI | 0.05x |
 
 ## Open Positions
 
@@ -20,15 +20,9 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Panya | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🔴 Doolysaurus | $0.000203 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
-| 🟡 CHIBISLOP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:42 |
 | 🟡 chibify | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:33 |
-| 🚀 clod | $0.000005 | **7.33x** ($+633) | 7.97x | ✅ | pumpswap | 2026-03-20 10:02 |
-| 🔴 Sunshine | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 09:59 |
-| 🟡 McCards | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:15 |
 | 🟡 Freebuff | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:49 |
 | 🔴 Gerald | $0.000379 | **0.92x** ($-8) | 1.01x |  | pumpswap | 2026-03-20 01:39 |
-| 🔴 PUMA | $0.000002 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 00:48 |
-| 🔴 格林 | $0.000004 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 00:47 |
 | 🔴 Genesis-2 | $0.000006 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 00:40 |
 | 🟡 Eugene | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:39 |
 | 🟡 FIH | $0.000305 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-19 23:10 |
@@ -38,7 +32,13 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 CHIBISLOP | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 10:42 → 2026-03-20 15:42 |
+| 🔴 clod | 0.00x | $-100 | phantom_dust_entry | 7.97x | pumpswap | 2026-03-20 10:02 → 2026-03-20 15:42 |
+| 🔴 Sunshine | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpfun | 2026-03-20 09:59 → 2026-03-20 15:42 |
+| 🔴 McCards | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 02:15 → 2026-03-20 15:42 |
 | 🔴 Luxury | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 00:59 → 2026-03-20 01:09 |
+| 🔴 PUMA | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 00:48 → 2026-03-20 15:42 |
+| 🔴 格林 | 0.00x | $-100 | phantom_dust_entry | 1.00x | pumpswap | 2026-03-20 00:47 → 2026-03-20 15:42 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
