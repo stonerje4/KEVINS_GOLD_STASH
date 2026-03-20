@@ -1,6 +1,6 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 08:06 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 08:11 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 1/10 (9%) |
 | 💵 Realized | $-453 |
 | 📦 Unrealized | $-88 |
-| 🏦 Total | **$-540** |
+| 🏦 Total | **$-541** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.2x |
 

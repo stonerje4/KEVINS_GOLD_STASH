@@ -1,6 +1,6 @@
 # Wallet: `3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT`
 
-> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 08:06 UTC
+> [View on Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 08:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+13,126 |
-| 🏦 Total | **$+13,126** |
+| 📦 Unrealized | $+9,939 |
+| 🏦 Total | **$+9,939** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 BACK | $0.000000 | **229.36x** ($+22,836) | 229.36x | ✅ | pumpswap | 2026-03-20 07:38 |
+| 🚀 BACK | $0.000000 | **243.08x** ($+24,208) | 243.08x | ✅ | pumpswap | 2026-03-20 07:38 |
 | 🟡 HelloWorld! | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:43 |
 | 🟡 ceal | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:35 |
 | 🚀 EPSTEINBLI | $0.000000 | **77.57x** ($+7,657) | 114.28x | ✅ | pumpswap | 2026-03-20 06:12 |

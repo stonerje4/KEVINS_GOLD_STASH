@@ -1,6 +1,6 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 08:06 UTC
+> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 08:11 UTC
 
 ## Summary
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Kit | $0.000006 | **0.76x** ($-24) | 1.20x |  | pumpfun | 2026-03-20 07:40 |
+| 🔴 Kit | $0.000006 | **0.75x** ($-25) | 1.20x |  | pumpfun | 2026-03-20 07:40 |
 | 🔴 大郎 | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 06:44 |
-| 🔴 HAIL | $0.000015 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
+| 🔴 HAIL | $0.000015 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
 | 🔴 e/alt | $0.000012 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 05:56 |
 | 🔴 Moe-chan | $0.000015 | **0.97x** ($-3) | 1.05x |  | pumpswap | 2026-03-20 05:52 |
 | 🟡 Moe | $0.000081 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:52 |

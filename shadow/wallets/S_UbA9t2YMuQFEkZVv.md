@@ -1,16 +1,16 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 08:06 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 08:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (16 open, 1 closed) |
+| Positions | 19 (18 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+230 |
-| 🏦 Total | **$+169** |
+| 📦 Unrealized | $+246 |
+| 🏦 Total | **$+185** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CPC | $0.000003 | **1.03x** ($+3) | 1.04x |  | pumpfun | 2026-03-20 08:07 |
+| 🟡 TGR | $0.000003 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-20 08:06 |
 | 🟡 GASR | $0.000003 | **1.16x** ($+16) | 1.26x |  | pumpfun | 2026-03-20 08:03 |
 | 🟡 UGOR | $0.000004 | **1.03x** ($+3) | 1.12x |  | pumpfun | 2026-03-20 07:50 |
 | 🟡 GCOIN | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:46 |

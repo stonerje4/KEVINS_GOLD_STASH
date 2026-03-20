@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 08:06 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 08:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 67 (65 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $+8 |
-| 🏦 Total | **$+38** |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-1** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.1x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 UOR | $0.000005 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 08:05 |
+| 🔴 UOR | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 08:05 |
 | 🟡 BBX | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 08:04 |
 | 🟡 $Chibi | $0.000003 | **1.00x** ($+0) | 1.21x |  | pumpfun | 2026-03-20 07:55 |
 | 🔴 COLONEL | $0.000005 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 07:37 |
-| 🟡 CHIBLON | $0.000003 | **1.66x** ($+66) | 1.94x |  | pumpfun | 2026-03-20 07:32 |
+| 🟡 CHIBLON | $0.000003 | **1.38x** ($+38) | 1.94x |  | pumpfun | 2026-03-20 07:32 |
 | 🔴 CHIBIFY | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 07:20 |
-| 🔴 GLQbYphM | $0.000003 | **1.00x** ($-0) | 1.24x |  | pumpfun | 2026-03-20 07:17 |
+| 🔴 GLQbYphM | $0.000003 | **0.96x** ($-4) | 1.24x |  | pumpfun | 2026-03-20 07:17 |
 | 🔴 OILLESS | $0.000004 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 07:07 |
 | 🔴 ‎  | $0.000003 | **0.85x** ($-15) | 1.32x |  | pumpfun | 2026-03-20 07:04 |
 | 🔴 OIL | $0.000005 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 06:57 |

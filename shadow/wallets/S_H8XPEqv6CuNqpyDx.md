@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 08:06 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 08:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 60 (39 open, 21 closed) |
+| Positions | 61 (40 open, 21 closed) |
 | W/L | 2/19 (10%) |
 | 💵 Realized | $-832 |
-| 📦 Unrealized | $-784 |
-| 🏦 Total | **$-1,616** |
+| 📦 Unrealized | $-833 |
+| 🏦 Total | **$-1,665** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Moe | $0.000005 | **0.52x** ($-48) | 1.08x |  | pumpfun | 2026-03-20 08:10 |
 | 🔴 BGEYapkY | $0.000005 | **0.53x** ($-47) | 1.27x |  | pumpfun | 2026-03-20 07:41 |
 | 🟡 Pixels | $0.000024 | **1.53x** ($+53) | 1.53x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000005 | **0.47x** ($-53) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
@@ -25,7 +26,7 @@
 | 🔴 29tcP9b3 | $0.000004 | **0.56x** ($-44) | 1.56x |  | pumpfun | 2026-03-20 06:45 |
 | 🔴 GETCLAW | $0.000006 | **0.43x** ($-57) | 1.25x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 BOAR | $0.000012 | **0.55x** ($-45) | 1.04x |  | pumpswap | 2026-03-20 06:42 |
-| 🔴 2u4WY5Ui | $0.000006 | **0.50x** ($-50) | 1.91x |  | pumpfun | 2026-03-20 06:41 |
+| 🔴 2u4WY5Ui | $0.000006 | **0.49x** ($-51) | 1.91x |  | pumpfun | 2026-03-20 06:41 |
 | 🔴 Hawk | $0.000005 | **0.46x** ($-54) | 1.20x |  | pumpfun | 2026-03-20 06:26 |
 | 🔴 7MDPtxq1 | $0.000005 | **0.46x** ($-54) | 1.19x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 EA | $0.000002 | **0.69x** ($-31) | 1.33x |  | pumpswap | 2026-03-20 05:57 |

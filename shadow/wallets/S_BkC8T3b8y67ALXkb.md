@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 08:06 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 08:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 62 (60 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-120 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$-161** |
+| 📦 Unrealized | $-45 |
+| 🏦 Total | **$-165** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -19,13 +19,13 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Strawberita | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
-| 🔴 PATRIOT | $0.000009 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
+| 🔴 PATRIOT | $0.000009 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 DAU | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 LIBERTY | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 HeavyPulp | $0.001092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
 | 🟡 Massive | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
-| 🔴 George | $0.000019 | **0.48x** ($-52) | 1.03x |  | pumpswap | 2026-03-20 06:41 |
+| 🔴 George | $0.000019 | **0.45x** ($-55) | 1.03x |  | pumpswap | 2026-03-20 06:41 |
 | 🟡 Lobstar | $0.006200 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:16 |
 | 🟡 worth | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:06 |
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
@@ -43,7 +43,7 @@
 | 🟡 PIZZA | $0.000184 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 UGOR | $0.000863 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 AIFRUITS | $0.000671 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
-| 🔴 SOS | $0.000976 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
+| 🔴 SOS | $0.000976 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 CHIBI | $0.000816 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 LIFE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 PIKAHORSE | $0.000331 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |
