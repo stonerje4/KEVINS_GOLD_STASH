@@ -1,6 +1,6 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 08:11 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 08:16 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 25 (23 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $+78 |
-| 🏦 Total | **$-8** |
+| 📦 Unrealized | $+69 |
+| 🏦 Total | **$-18** |
 | Best Trade | 0.7x |
 | Avg Peak | 3.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 USI | $0.000003 | **1.01x** ($+1) | 1.03x |  | pumpfun | 2026-03-20 07:49 |
-| 🔴 awkward | $0.000021 | **0.72x** ($-28) | 1.64x |  | pumpfun | 2026-03-20 07:21 |
+| 🔴 awkward | $0.000021 | **0.63x** ($-37) | 1.64x |  | pumpfun | 2026-03-20 07:21 |
 | 🔴 jerk | $0.000004 | **0.63x** ($-37) | 1.65x |  | pumpfun | 2026-03-20 06:35 |
 | 🔴 TD9FQMu7 | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 05:42 |
 | 🔴 NBR | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 05:40 |

@@ -1,6 +1,6 @@
 # Wallet: `3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF`
 
-> [View on Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 08:11 UTC
+> [View on Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 08:16 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
-| 📦 Unrealized | $+26 |
-| 🏦 Total | **$-96** |
+| 📦 Unrealized | $+31 |
+| 🏦 Total | **$-91** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Happiness | $0.000006 | **2.11x** ($+111) | 2.27x | ✅ | pumpfun | 2026-03-20 08:03 |
+| 🟢 Happiness | $0.000006 | **2.20x** ($+120) | 2.43x | ✅ | pumpfun | 2026-03-20 08:03 |
 | 🟡 電王 | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:29 |
-| 🔴 RIPCHUCK | $0.000011 | **0.70x** ($-30) | 1.03x |  | pumpfun | 2026-03-20 06:08 |
+| 🔴 RIPCHUCK | $0.000011 | **0.71x** ($-29) | 1.03x |  | pumpfun | 2026-03-20 06:08 |
 | 🟡 MOCHI | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:46 |
 
 ## Closed Positions

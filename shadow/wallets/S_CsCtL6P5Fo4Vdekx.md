@@ -1,6 +1,6 @@
 # Wallet: `CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ`
 
-> [View on Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 08:11 UTC
+> [View on Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-20 08:16 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 14 (13 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $-63 |
+| 📦 Unrealized | $-64 |
 | 🏦 Total | **$-125** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.3x |

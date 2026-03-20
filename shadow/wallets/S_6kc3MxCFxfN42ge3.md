@@ -1,16 +1,16 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 08:11 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 08:16 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 56 (37 open, 19 closed) |
+| Positions | 57 (38 open, 19 closed) |
 | W/L | 4/15 (21%) |
 | 💵 Realized | $-423 |
-| 📦 Unrealized | $-910 |
-| 🏦 Total | **$-1,333** |
+| 📦 Unrealized | $-849 |
+| 🏦 Total | **$-1,272** |
 | Best Trade | 3.0x |
 | Avg Peak | 2.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CjqwnET8 | $0.000006 | **1.61x** ($+61) | 1.65x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.54x** ($-46) | 1.12x |  | pumpfun | 2026-03-20 08:09 |
 | 🔴 BGEYapkY | $0.000005 | **0.54x** ($-46) | 1.29x |  | pumpfun | 2026-03-20 07:41 |
 | 🟡 Pixels | $0.000026 | **1.42x** ($+42) | 1.42x |  | pumpfun | 2026-03-20 06:53 |

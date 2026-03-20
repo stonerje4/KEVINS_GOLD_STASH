@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 08:11 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 08:16 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 42 (38 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-138 |
-| 📦 Unrealized | $-177 |
-| 🏦 Total | **$-315** |
+| 📦 Unrealized | $-175 |
+| 🏦 Total | **$-313** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -23,7 +23,7 @@
 | 🟡 Futa-kun | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
 | 🔴 DOMES | $0.000004 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
 | 🟡 IMAGINE | $0.000115 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:17 |
-| 🔴 HUGH | $0.002819 | **0.49x** ($-51) | 1.33x |  | pumpswap | 2026-03-20 06:17 |
+| 🔴 HUGH | $0.002819 | **0.50x** ($-50) | 1.33x |  | pumpswap | 2026-03-20 06:17 |
 | 🟡 OIIA | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 Pete | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 GPD | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
@@ -50,7 +50,7 @@
 | 🔴 LIBERTY | $0.000043 | **0.83x** ($-17) | 1.13x |  | pumpswap | 2026-03-20 00:10 |
 | 🟡 CHIBIELON | $0.000005 | **1.42x** ($+42) | 1.68x |  | pumpswap | 2026-03-19 23:29 |
 | 🔴 TOKEN | $0.000133 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 23:25 |
-| 🔴 DIVERGENT | $0.000007 | **0.57x** ($-43) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
+| 🔴 DIVERGENT | $0.000007 | **0.56x** ($-44) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
 | 🟡 FML | $0.000196 | **1.38x** ($+38) | 1.51x |  | pumpswap | 2026-03-19 22:44 |
 | 🔴 STITCH | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-19 22:42 |

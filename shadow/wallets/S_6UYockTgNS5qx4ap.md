@@ -1,6 +1,6 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 08:11 UTC
+> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 08:16 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (19 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-63 |
-| 📦 Unrealized | $+10 |
-| 🏦 Total | **$-53** |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$-57** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 AVATAR | $0.000020 | **1.07x** ($+7) | 1.14x |  | pumpswap | 2026-03-20 07:59 |
-| 🔴 Kin-kun | $0.000005 | **0.47x** ($-53) | 1.19x |  | pumpfun | 2026-03-20 07:58 |
+| 🟡 AVATAR | $0.000020 | **1.04x** ($+4) | 1.14x |  | pumpswap | 2026-03-20 07:59 |
+| 🔴 Kin-kun | $0.000005 | **0.46x** ($-54) | 1.19x |  | pumpfun | 2026-03-20 07:58 |
 | 🟢 CHIBIELON | $0.000014 | **2.63x** ($+163) | 2.63x | ✅ | pumpfun | 2026-03-20 04:24 |
 | 🔴 屁合戦 | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 03:33 |
 | 🟡 ARIA | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:59 |

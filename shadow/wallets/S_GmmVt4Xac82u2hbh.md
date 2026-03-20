@@ -1,6 +1,6 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 08:11 UTC
+> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 08:16 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-124 |
-| 📦 Unrealized | $-166 |
-| 🏦 Total | **$-290** |
+| 📦 Unrealized | $-167 |
+| 🏦 Total | **$-291** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Vera | $0.000007 | **0.40x** ($-60) | 1.21x |  | pumpfun | 2026-03-20 08:02 |
-| 🔴 Kin-kun | $0.000006 | **0.44x** ($-56) | 1.88x |  | pumpfun | 2026-03-20 07:53 |
+| 🔴 Kin-kun | $0.000006 | **0.43x** ($-57) | 1.88x |  | pumpfun | 2026-03-20 07:53 |
 | 🔴 3gKurAfr | $0.000005 | **0.50x** ($-50) | 1.35x |  | pumpfun | 2026-03-20 07:41 |
 
 ## Closed Positions
