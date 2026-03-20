@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 14:34 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 14:39 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 147 (118 open, 29 closed) |
 | W/L | 3/26 (10%) |
 | 💵 Realized | $+2,018 |
-| 📦 Unrealized | $+49 |
-| 🏦 Total | **$+2,067** |
-| Best ROI | 24.90x |
-| Avg ROI | 1.70x |
+| 📦 Unrealized | $+27 |
+| 🏦 Total | **$+2,045** |
+| Best Trade | 24.9x |
+| Avg Peak | 4.7x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Doom | $0.000063 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:31 |
-| 🟡 Chuck | $0.000080 | **1.42x** ($+42) | 2.19x | ✅ | pumpswap | 2026-03-20 14:25 |
+| 🔴 Chuck | $0.000080 | **0.98x** ($-2) | 2.19x | ✅ | pumpswap | 2026-03-20 14:25 |
 | 🔴 RETARDINU | $0.000115 | **0.95x** ($-5) | 1.01x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Chuck | $0.000189 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 MERLIN | $0.000160 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |

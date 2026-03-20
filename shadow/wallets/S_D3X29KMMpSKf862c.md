@@ -1,6 +1,6 @@
 # Wallet: `D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq`
 
-> [View on Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 14:34 UTC
+> [View on Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 14:39 UTC
 
 ## Summary
 
@@ -9,20 +9,20 @@
 | Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+45 |
-| 🏦 Total | **$+45** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+35 |
+| 🏦 Total | **$+35** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 tired | $0.000011 | **0.99x** ($-1) | 1.22x |  | pumpfun | 2026-03-20 14:16 |
+| 🔴 tired | $0.000011 | **0.89x** ($-11) | 1.22x |  | pumpfun | 2026-03-20 14:16 |
 | 🟡 Civil Claude | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
 | 🟡 OSP | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
 | 🟡 Clutch | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
-| 🔴 MUSK | $0.000004 | **0.61x** ($-39) | 1.68x |  | pumpfun | 2026-03-20 13:56 |
+| 🔴 MUSK | $0.000004 | **0.60x** ($-40) | 1.68x |  | pumpfun | 2026-03-20 13:56 |
 | 🟡 PAD | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 IMAGINE | $0.000086 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:04 |
 | 🟡 twump | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:21 |

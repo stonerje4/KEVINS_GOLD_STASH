@@ -1,6 +1,6 @@
 # Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
 
-> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 14:34 UTC
+> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 14:39 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 39 (26 open, 13 closed) |
 | W/L | 3/10 (23%) |
 | 💵 Realized | $+25 |
-| 📦 Unrealized | $-38 |
-| 🏦 Total | **$-13** |
-| Best ROI | 5.83x |
-| Avg ROI | 1.02x |
+| 📦 Unrealized | $-52 |
+| 🏦 Total | **$-27** |
+| Best Trade | 5.8x |
+| Avg Peak | 2.5x |
 
 ## Open Positions
 
@@ -34,7 +34,7 @@
 | 🔴 RAVE | $0.000004 | **0.63x** ($-37) | 1.33x |  | pumpfun | 2026-03-19 23:14 |
 | 🟡 AMADEA | $0.000005 | **1.12x** ($+12) | 2.63x | ✅ | pumpfun | 2026-03-19 23:10 |
 | 🔴 Strava | $0.000005 | **0.77x** ($-23) | 1.02x |  | pumpfun | 2026-03-19 23:09 |
-| 🟡 Oracle | $0.000008 | **1.26x** ($+26) | 1.26x |  | pumpfun | 2026-03-19 23:08 |
+| 🟡 Oracle | $0.000008 | **1.12x** ($+12) | 1.26x |  | pumpfun | 2026-03-19 23:08 |
 | 🔴 Record | $0.000012 | **0.77x** ($-23) | 1.80x |  | pumpfun | 2026-03-19 23:08 |
 | 🔴 QUIT | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-19 22:56 |
 | 🔴 WABORI | $0.000007 | **0.42x** ($-58) | 1.41x |  | pumpfun | 2026-03-19 22:54 |

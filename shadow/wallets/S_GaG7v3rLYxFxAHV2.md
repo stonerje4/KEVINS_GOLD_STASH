@@ -1,26 +1,25 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 14:34 UTC
+> [View on Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 14:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (16 open, 1 closed) |
-| W/L | 1/0 (100%) |
-| 💵 Realized | $+49 |
-| 📦 Unrealized | $+332 |
-| 🏦 Total | **$+381** |
-| Best ROI | 1.49x |
-| Avg ROI | 1.49x |
+| Positions | 17 (15 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $+32 |
+| 📦 Unrealized | $+304 |
+| 🏦 Total | **$+336** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 B8FYzh4G | $0.000003 | **1.57x** ($+57) | 2.07x | ✅ | pumpfun | 2026-03-20 14:34 |
 | 🟡 Chuck | $0.000203 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:23 |
-| 🔴 Merlin | $0.000007 | **0.46x** ($-54) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
+| 🔴 Merlin | $0.000007 | **0.47x** ($-53) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 SNIFFER | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |
 | 🟡 Mirai | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:46 |
 | 🟡 MMORPG | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:44 |
@@ -39,6 +38,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 B8FYzh4G | 0.83x | $-17 | trailing_stop_2x | 2.07x | pumpfun | 2026-03-20 14:34 → 2026-03-20 14:34 |
 | 🟡 credit | 1.49x | $+49 | trailing_stop_4x | 3.64x | pumpfun | 2026-03-20 03:03 → 2026-03-20 03:14 |
 
 ---

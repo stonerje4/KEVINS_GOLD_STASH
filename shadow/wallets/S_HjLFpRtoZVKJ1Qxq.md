@@ -1,26 +1,27 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 14:34 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 14:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 134 (132 open, 2 closed) |
+| Positions | 135 (133 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-171** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.31x |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-176** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DATBOI | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 MIM | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🟡 Doom | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
-| 🔴 imagine | $0.000059 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
+| 🔴 imagine | $0.000059 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🟡 Newscum | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🟡 Machi | $0.000743 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:27 |
 | 🔴 Higuruma | $0.000018 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
@@ -32,7 +33,7 @@
 | 🔴 ORAMAMA | $0.000010 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
 | 🟡 JACKPOT | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟡 Chud | $0.000661 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:42 |
-| 🔴 LUNAR | $0.000035 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
+| 🔴 LUNAR | $0.000035 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 MINDLESS | $0.000174 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:39 |
 | 🟡 house | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
@@ -147,7 +148,7 @@
 | 🔴 MIROFISH | $0.000035 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 PIKAHORSE | $0.000398 | **0.89x** ($-11) | 1.05x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 DEEPSEEKV4 | $0.000041 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 22:54 |
-| 🟡 Goyim | $0.000395 | **1.46x** ($+46) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000395 | **1.44x** ($+44) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
 | 🔴 GameTheory | $0.000019 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:37 |
 | 🟡 UGOR | $0.000161 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-19 22:37 |
 
