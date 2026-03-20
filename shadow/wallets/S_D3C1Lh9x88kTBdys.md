@@ -1,6 +1,6 @@
 # Wallet: `D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah`
 
-> [View on Solscan](https://solscan.io/account/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | Updated: 2026-03-20 01:49 UTC
+> [View on Solscan](https://solscan.io/account/D3C1Lh9x88kTBdysNiZ7QRfYZTC8T5u1Sjj7f7G64Bah) | Updated: 2026-03-20 01:54 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $+6 |
-| 🏦 Total | **$-55** |
+| 🏦 Total | **$-54** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Strawberita | $0.000013 | **1.09x** ($+9) | 1.37x |  | pumpfun | 2026-03-20 00:54 |
-| 🔴 驚き | $0.000015 | **0.75x** ($-25) | 1.56x |  | pumpswap | 2026-03-20 00:34 |
+| 🟡 Strawberita | $0.000013 | **1.11x** ($+11) | 1.37x |  | pumpfun | 2026-03-20 00:54 |
+| 🔴 驚き | $0.000015 | **0.74x** ($-26) | 1.56x |  | pumpswap | 2026-03-20 00:34 |
 | 🔴 Rosei | $0.000015 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-19 23:51 |
 | 🟡 Strawberina | $0.000008 | **1.31x** ($+31) | 1.39x |  | pumpfun | 2026-03-19 23:19 |
 

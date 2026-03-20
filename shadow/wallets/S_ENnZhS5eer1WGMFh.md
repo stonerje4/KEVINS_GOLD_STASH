@@ -1,16 +1,16 @@
 # Wallet: `ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F`
 
-> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 01:49 UTC
+> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 01:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
+| Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-16** |
+| 📦 Unrealized | $+21 |
+| 🏦 Total | **$+21** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,11 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AIFRUITS | $0.000916 | **0.81x** ($-19) | 1.01x |  | pumpswap | 2026-03-20 01:28 |
-| 🔴 LUMO | $0.000031 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:24 |
-| 🟡 tinfoil | $0.000048 | **1.11x** ($+11) | 1.12x |  | pumpswap | 2026-03-20 01:20 |
+| 🟡 Freebuff | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:51 |
+| 🔴 AIFRUITS | $0.000916 | **0.88x** ($-12) | 1.01x |  | pumpswap | 2026-03-20 01:28 |
+| 🟡 LUMO | $0.000031 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 01:24 |
+| 🟡 tinfoil | $0.000048 | **1.22x** ($+22) | 1.24x |  | pumpswap | 2026-03-20 01:20 |
 | 🟡 SHOENICE  | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:08 |
-| 🔴 Nigel | $0.000237 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 01:06 |
+| 🔴 Nigel | $0.000237 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-20 01:06 |
 
 ## Closed Positions
 

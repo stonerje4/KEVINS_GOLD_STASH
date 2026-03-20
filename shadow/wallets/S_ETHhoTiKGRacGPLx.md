@@ -1,16 +1,16 @@
-# Wallet: `4nntk4UtrA44DJEnD676kGSoF1HYiADPYjqGXkBrrHCc`
+# Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [View on Solscan](https://solscan.io/account/4nntk4UtrA44DJEnD676kGSoF1HYiADPYjqGXkBrrHCc) | Updated: 2026-03-20 01:54 UTC
+> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 01:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+1 |
-| 🏦 Total | **$+1** |
+| 📦 Unrealized | $-8 |
+| 🏦 Total | **$-8** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Thinker | $0.000010 | **1.01x** ($+1) | 1.22x |  | pumpswap | 2026-03-19 22:37 |
+| 🟡 OPE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:54 |
+| 🔴 RETARDS | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 01:53 |
 
 ## Closed Positions
 

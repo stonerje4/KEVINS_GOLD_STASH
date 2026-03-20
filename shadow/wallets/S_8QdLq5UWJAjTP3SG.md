@@ -1,16 +1,16 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 01:49 UTC
+> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 01:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (5 open, 5 closed) |
+| Positions | 11 (6 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-115 |
-| 📦 Unrealized | $+12 |
-| 🏦 Total | **$-103** |
+| 📦 Unrealized | $+39 |
+| 🏦 Total | **$-76** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.2x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SPARKOS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:52 |
 | 🟢 Freebuff | $0.000010 | **3.84x** ($+284) | 3.84x | ✅ | pumpfun | 2026-03-20 01:07 |
-| 🔴 FARTBUTT | $0.000004 | **0.90x** ($-10) | 1.29x |  | pumpfun | 2026-03-20 00:45 |
+| 🟡 FARTBUTT | $0.000004 | **1.17x** ($+17) | 1.29x |  | pumpfun | 2026-03-20 00:45 |
 | 🟡 GIB | $0.000006 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-19 23:57 |
 | 🔴 47jCjmv1 | $0.000004 | **0.68x** ($-32) | 1.22x |  | pumpfun | 2026-03-19 23:49 |
 | 🔴 Massive | $0.000006 | **0.41x** ($-59) | 1.00x |  | pumpfun | 2026-03-19 23:40 |

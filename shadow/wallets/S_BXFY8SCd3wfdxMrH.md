@@ -1,6 +1,6 @@
 # Wallet: `BXFY8SCd3wfdxMrHVb1A17didP97HtEU9JE67eAkB9nD`
 
-> [View on Solscan](https://solscan.io/account/BXFY8SCd3wfdxMrHVb1A17didP97HtEU9JE67eAkB9nD) | Updated: 2026-03-20 01:49 UTC
+> [View on Solscan](https://solscan.io/account/BXFY8SCd3wfdxMrHVb1A17didP97HtEU9JE67eAkB9nD) | Updated: 2026-03-20 01:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-5 |
-| 🏦 Total | **$-5** |
+| 📦 Unrealized | $-0 |
+| 🏦 Total | **$-0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chibify | $0.000041 | **1.09x** ($+9) | 1.87x |  | pumpswap | 2026-03-20 01:00 |
+| 🟡 Chibify | $0.000041 | **1.14x** ($+14) | 1.87x |  | pumpswap | 2026-03-20 01:00 |
 | 🔴 Rosei | $0.000016 | **0.86x** ($-14) | 1.04x |  | pumpswap | 2026-03-19 22:59 |
 
 ## Closed Positions

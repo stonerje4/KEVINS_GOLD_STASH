@@ -1,6 +1,6 @@
 # Wallet: `JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2`
 
-> [View on Solscan](https://solscan.io/account/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | Updated: 2026-03-20 01:49 UTC
+> [View on Solscan](https://solscan.io/account/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | Updated: 2026-03-20 01:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+65 |
-| 🏦 Total | **$+65** |
+| 📦 Unrealized | $+63 |
+| 🏦 Total | **$+63** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Freebuff | $0.000020 | **1.83x** ($+83) | 1.83x |  | pumpfun | 2026-03-20 01:45 |
-| 🔴 驚き | $0.000014 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 01:25 |
+| 🔴 驚き | $0.000014 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 01:25 |
 
 ## Closed Positions
 

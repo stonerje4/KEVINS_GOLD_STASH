@@ -1,6 +1,6 @@
 # Wallet: `GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu`
 
-> [View on Solscan](https://solscan.io/account/GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu) | Updated: 2026-03-20 01:49 UTC
+> [View on Solscan](https://solscan.io/account/GgeHhRpzkHeXVCJhUqKaKcFspMtXybGgPHPXJrG3xnbu) | Updated: 2026-03-20 01:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-73 |
-| 📦 Unrealized | $-28 |
-| 🏦 Total | **$-101** |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-112** |
 | Best Trade | 0.3x |
 | Avg Peak | 1.7x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Strawberita | $0.000082 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 01:32 |
+| 🔴 Strawberita | $0.000082 | **0.61x** ($-39) | 1.00x |  | pumpswap | 2026-03-20 01:32 |
 
 ## Closed Positions
 

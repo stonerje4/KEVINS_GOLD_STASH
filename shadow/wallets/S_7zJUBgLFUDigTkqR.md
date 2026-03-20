@@ -1,12 +1,12 @@
 # Wallet: `7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i`
 
-> [View on Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 01:49 UTC
+> [View on Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 01:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-74 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 rial | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:51 |
 | 🟡 e-CNY | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 00:27 |
 | 🔴 HELP | $0.000004 | **0.68x** ($-32) | 1.00x |  | pumpfun | 2026-03-20 00:15 |
 | 🔴 DRUN | $0.000004 | **0.68x** ($-32) | 1.00x |  | pumpfun | 2026-03-20 00:15 |
