@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 20:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 20:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (94 open, 5 closed) |
 | W/L | 3/2 (60%) |
 | 💵 Realized | $+167 |
-| 📦 Unrealized | $-571 |
-| 🏦 Total | **$-404** |
+| 📦 Unrealized | $-541 |
+| 🏦 Total | **$-374** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.33x |
 
@@ -43,7 +43,7 @@
 | 🔴 CLAIR | $0.000014 | **1.00x** ($-0) | 1.04x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 NICK | $0.000026 | **1.08x** ($+8) | 1.16x |  | pumpswap | 2026-03-20 13:22 |
 | 🟢 TFW | $0.000022 | **2.10x** ($+110) | 3.23x | ✅ | pumpswap | 2026-03-20 12:38 |
-| 🔴 Speak | $0.000022 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
+| 🔴 Speak | $0.000022 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
 | 🔴 honkermog | $0.000039 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🟡 Joobi | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:49 |
 | 🟡 MiniBob | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:35 |
@@ -53,7 +53,7 @@
 | 🟡 Momiage | $0.000008 | **1.06x** ($+6) | 1.08x |  | pumpswap | 2026-03-20 10:25 |
 | 🟡 CTO | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:05 |
 | 🔴 Saxophones | $0.000040 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 10:05 |
-| 🔴 LIBERTY | $0.000035 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 09:55 |
+| 🟡 LIBERTY | $0.000035 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 09:55 |
 | 🟡 AIFRUIT | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:50 |
 | 🔴 DICK | $0.000007 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 09:25 |
 | 🟡 Realize | $0.000015 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-20 08:52 |

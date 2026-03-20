@@ -1,12 +1,12 @@
 # Wallet: `HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx`
 
-> [GMGN](https://gmgn.ai/sol/address/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | [Solscan](https://solscan.io/account/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | Updated: 2026-03-20 20:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | [Solscan](https://solscan.io/account/HxhMTh4Nmvbf6J3VnnNy6VLrFkZSnaYS8NukaCAPgnrx) | Updated: 2026-03-20 20:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
+| Positions | 3 (2 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+32 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 MUSKITTY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 20:30 |
 | 🟡 VITALY | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 18:24 |
 
 ## Closed Positions

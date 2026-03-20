@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 20:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 20:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 172 (169 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+121 |
-| 📦 Unrealized | $-721 |
-| 🏦 Total | **$-599** |
+| 📦 Unrealized | $-692 |
+| 🏦 Total | **$-571** |
 | Best ROI | 3.00x |
 | Avg ROI | 1.40x |
 
@@ -27,7 +27,7 @@
 | 🟡 Samba | $0.000008 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-20 19:10 |
 | 🟡 IMAGINE | $0.000034 | **1.35x** ($+35) | 1.38x |  | pumpswap | 2026-03-20 19:10 |
 | 🔴 GOYBEAM | $0.000008 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 18:57 |
-| 🔴 Saleh | $0.000020 | **0.76x** ($-24) | 1.09x |  | pumpswap | 2026-03-20 18:52 |
+| 🔴 Saleh | $0.000020 | **0.74x** ($-26) | 1.09x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 Cardboard | $0.000012 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 18:15 |
 | 🟡 𝕏 | $0.000022 | **1.22x** ($+22) | 1.41x |  | pumpswap | 2026-03-20 17:40 |
 | 🔴 SNAKE | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 17:30 |
@@ -73,7 +73,7 @@
 | 🟡 CTO | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:05 |
 | 🔴 Saxophones | $0.000037 | **0.83x** ($-17) | 1.06x |  | pumpswap | 2026-03-20 10:04 |
 | 🔴 Ride | $0.000017 | **0.89x** ($-11) | 1.09x |  | pumpswap | 2026-03-20 09:45 |
-| 🔴 LIBERTY | $0.000036 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 09:34 |
+| 🟡 LIBERTY | $0.000036 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 09:34 |
 | 🔴 UGOR | $0.000023 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 09:28 |
 | 🟡 TRENCHERIA | $0.000015 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 09:24 |
 | 🟡 Universe | $0.000013 | **1.08x** ($+8) | 1.20x |  | pumpswap | 2026-03-20 09:20 |
@@ -150,7 +150,7 @@
 | 🟡 Apple | $0.000016 | **1.32x** ($+32) | 1.32x |  | pumpswap | 2026-03-20 01:00 |
 | 🟡 咕咕嘎嘎 | $0.000010 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-20 00:59 |
 | 🟡 aliens  | $0.000016 | **1.04x** ($+4) | 1.08x |  | pumpswap | 2026-03-20 00:59 |
-| 🔴 Speak | $0.000022 | **0.60x** ($-40) | 1.24x |  | pumpswap | 2026-03-20 00:57 |
+| 🔴 Speak | $0.000022 | **0.56x** ($-44) | 1.24x |  | pumpswap | 2026-03-20 00:57 |
 | 🔴 DM | $0.000035 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 00:51 |
 | 🔴 CHINAMAX | $0.000014 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 00:51 |
 | 🟡 KENJI | $0.000029 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 00:50 |

@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 20:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 20:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 129 (125 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+56 |
-| 📦 Unrealized | $-181 |
-| 🏦 Total | **$-125** |
+| 📦 Unrealized | $-143 |
+| 🏦 Total | **$-88** |
 | Best ROI | 2.95x |
 | Avg ROI | 1.14x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ODDS | $0.000019 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 20:22 |
+| 🟡 ODDS | $0.000019 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 20:22 |
 | 🔴 Massive | $0.000027 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 20:12 |
 | 🔴 BCKR | $0.000025 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 20:04 |
 | 🟡 CRANK | $0.000017 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 19:14 |
@@ -58,7 +58,7 @@
 | 🔴 Squishy | $0.000017 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
 | 🔴 Ava | $0.000013 | **0.71x** ($-29) | 1.03x |  | pumpswap | 2026-03-20 13:30 |
 | 🟢 HORMUZ | $0.000040 | **4.80x** ($+380) | 5.74x | ✅ | pumpswap | 2026-03-20 13:12 |
-| 🔴 LIBERTY | $0.000030 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
+| 🟡 LIBERTY | $0.000030 | **1.24x** ($+24) | 1.25x |  | pumpswap | 2026-03-20 13:02 |
 | 🟢 TFW | $0.000021 | **2.20x** ($+120) | 3.38x | ✅ | pumpswap | 2026-03-20 12:38 |
 | 🔴 imagineslop | $0.000006 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
 | 🟡 ARIA | $0.000019 | **1.27x** ($+27) | 1.52x |  | pumpswap | 2026-03-20 12:29 |
@@ -121,7 +121,7 @@
 | 🔴 italianrot | $0.000006 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-20 01:05 |
 | 🔴 Microwaved | $0.000025 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 01:02 |
 | 🟡 咕咕嘎嘎 | $0.000010 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 00:59 |
-| 🔴 Speak | $0.000023 | **0.58x** ($-42) | 1.20x |  | pumpswap | 2026-03-20 00:57 |
+| 🔴 Speak | $0.000023 | **0.55x** ($-45) | 1.20x |  | pumpswap | 2026-03-20 00:57 |
 | 🔴 SCOTT | $0.000012 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 00:51 |
 | 🔴 Monke | $0.000011 | **0.77x** ($-23) | 1.06x |  | pumpswap | 2026-03-20 00:51 |
 | 🟡 KING | $0.000027 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-20 00:23 |
