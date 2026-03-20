@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 03:49 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 03:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 66 (55 open, 11 closed) |
 | W/L | 0/11 (0%) |
 | 💵 Realized | $-533 |
-| 📦 Unrealized | $+182 |
-| 🏦 Total | **$-351** |
+| 📦 Unrealized | $+152 |
+| 🏦 Total | **$-381** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -22,7 +22,7 @@
 | 🟡 mogging | $0.000049 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 Solana | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
-| 🟡 Floki | $0.000134 | **1.23x** ($+23) | 1.46x |  | pumpswap | 2026-03-20 03:31 |
+| 🔴 Floki | $0.000134 | **0.93x** ($-7) | 1.46x |  | pumpswap | 2026-03-20 03:31 |
 | 🟡 SAID | $0.000270 | **1.02x** ($+2) | 1.09x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 IMAGINE | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🔴 APES | $0.000234 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:48 |

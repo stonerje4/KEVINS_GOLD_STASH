@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 03:49 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 03:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 116 (115 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+195 |
-| 📦 Unrealized | $+434 |
-| 🏦 Total | **$+629** |
+| 📦 Unrealized | $+423 |
+| 🏦 Total | **$+618** |
 | Best Trade | 2.9x |
 | Avg Peak | 9.8x |
 
@@ -22,12 +22,12 @@
 | 🟡 AIFRUITS | $0.000658 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 UGOR | $0.000906 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000101 | **1.38x** ($+38) | 1.41x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000101 | **1.29x** ($+29) | 1.41x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 OILINU | $0.000077 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 03:18 |
 | 🟡 SAID | $0.000274 | **1.01x** ($+1) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 UBT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:05 |
-| 🟡 AFC | $0.000005 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 03:03 |
+| 🟡 AFC | $0.000005 | **1.01x** ($+1) | 1.08x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 APES | $0.000206 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
 | 🔴 WhiteBoy  | $0.000014 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 02:50 |
 | 🟡 Snorp | $0.000215 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |

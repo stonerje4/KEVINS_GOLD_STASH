@@ -1,12 +1,12 @@
 # Wallet: `6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE`
 
-> [View on Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-20 03:49 UTC
+> [View on Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-20 03:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
+| Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-16 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ceal | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:54 |
 | 🟡 Dickus | $0.000049 | **1.07x** ($+7) | 1.26x |  | pumpswap | 2026-03-20 01:19 |
 | 🟡 tinfoil | $0.000043 | **1.11x** ($+11) | 1.38x |  | pumpswap | 2026-03-20 00:16 |
 | 🔴 Billy | $0.000014 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 00:15 |

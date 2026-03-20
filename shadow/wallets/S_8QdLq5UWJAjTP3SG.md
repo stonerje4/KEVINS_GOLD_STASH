@@ -1,6 +1,6 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 03:49 UTC
+> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 03:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 32 (14 open, 18 closed) |
 | W/L | 3/15 (17%) |
 | 💵 Realized | $-440 |
-| 📦 Unrealized | $-63 |
-| 🏦 Total | **$-503** |
+| 📦 Unrealized | $-67 |
+| 🏦 Total | **$-507** |
 | Best Trade | 2.7x |
 | Avg Peak | 2.2x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OFFLINE | $0.000007 | **0.47x** ($-53) | 1.15x |  | pumpfun | 2026-03-20 03:47 |
+| 🔴 OFFLINE | $0.000007 | **0.43x** ($-57) | 1.15x |  | pumpfun | 2026-03-20 03:47 |
 | 🟢 2611vNhu | $0.000008 | **4.75x** ($+375) | 4.75x | ✅ | pumpfun | 2026-03-20 03:27 |
 | 🔴 DQ5vaFMa | $0.000006 | **0.44x** ($-56) | 1.26x |  | pumpfun | 2026-03-20 03:07 |
 | 🔴 ATXHQ1ch | $0.000005 | **0.50x** ($-50) | 1.16x |  | pumpfun | 2026-03-20 02:59 |

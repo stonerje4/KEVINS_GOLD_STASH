@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:49 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 109 (107 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $+104 |
-| 🏦 Total | **$+342** |
+| 📦 Unrealized | $+92 |
+| 🏦 Total | **$+331** |
 | Best Trade | 2.9x |
 | Avg Peak | 6.2x |
 
@@ -23,13 +23,13 @@
 | 🟡 PYRO | $0.000036 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 UGOR | $0.000907 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000102 | **1.37x** ($+37) | 1.40x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000102 | **1.28x** ($+28) | 1.40x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CHIBI | $0.000747 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
-| 🔴 CIRCLES | $0.000065 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
+| 🔴 CIRCLES | $0.000065 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
 | 🟡 APES | $0.000172 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:14 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 wallahi | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:06 |
-| 🟡 AFC | $0.000005 | **1.05x** ($+5) | 1.10x |  | pumpswap | 2026-03-20 03:03 |
+| 🟡 AFC | $0.000005 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-20 03:03 |
 | 🔴 Wob | $0.000019 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 03:02 |
 | 🟡 Hamster | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:54 |
 | 🟡 Snorp | $0.000213 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |

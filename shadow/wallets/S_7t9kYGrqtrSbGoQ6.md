@@ -1,16 +1,16 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 03:49 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 03:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 180 (178 open, 2 closed) |
+| Positions | 181 (179 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+121 |
-| 📦 Unrealized | $+249 |
-| 🏦 Total | **$+370** |
+| 📦 Unrealized | $+241 |
+| 🏦 Total | **$+361** |
 | Best Trade | 3.0x |
 | Avg Peak | 4.3x |
 
@@ -18,15 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TeraFab | $0.000061 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:43 |
+| 🔴 WRT | $0.000013 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 03:51 |
+| 🟡 TeraFab | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:43 |
 | 🔴 Gascoin | $0.000032 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 CLAW3D | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
-| 🔴 Gizmo | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:38 |
+| 🔴 Gizmo | $0.000015 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 03:38 |
 | 🟡 Replacement | $0.000017 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:35 |
 | 🔴 PYRO | $0.000039 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-20 03:35 |
 | 🟡 Fro | $0.000205 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:32 |
 | 🟡 creature | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
-| 🟡 BioLLM | $0.000104 | **1.34x** ($+34) | 1.38x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000104 | **1.26x** ($+26) | 1.38x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 HeavyPulp | $0.000927 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:19 |
 | 🟡 SAID | $0.000270 | **1.02x** ($+2) | 1.09x |  | pumpswap | 2026-03-20 03:16 |

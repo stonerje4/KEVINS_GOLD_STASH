@@ -1,6 +1,6 @@
 # Wallet: `BHe6MxiYqcM58rLvzGWefUq2UfgYJEdA2hnovoguBW6H`
 
-> [View on Solscan](https://solscan.io/account/BHe6MxiYqcM58rLvzGWefUq2UfgYJEdA2hnovoguBW6H) | Updated: 2026-03-20 03:49 UTC
+> [View on Solscan](https://solscan.io/account/BHe6MxiYqcM58rLvzGWefUq2UfgYJEdA2hnovoguBW6H) | Updated: 2026-03-20 03:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+101 |
-| 🏦 Total | **$+101** |
+| 📦 Unrealized | $+113 |
+| 🏦 Total | **$+113** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Nonchalant | $0.000005 | **1.52x** ($+52) | 1.58x |  | pumpfun | 2026-03-20 03:44 |
+| 🟢 Nonchalant | $0.000005 | **2.28x** ($+128) | 2.28x | ✅ | pumpfun | 2026-03-20 03:44 |
 | 🟡 F3 | $0.000017 | **1.29x** ($+29) | 1.54x |  | pumpfun | 2026-03-20 00:21 |
 | 🟡 WhiteBoy  | $0.000010 | **1.40x** ($+40) | 2.43x | ✅ | pumpswap | 2026-03-19 22:52 |
 
