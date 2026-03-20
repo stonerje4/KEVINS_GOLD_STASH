@@ -1,16 +1,16 @@
 # Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
 
-> [GMGN](https://gmgn.ai/sol/address/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | [Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-20 20:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | [Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-20 20:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (11 open, 0 closed) |
+| Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$-41** |
+| 📦 Unrealized | $-21 |
+| 🏦 Total | **$-21** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WAR | $0.000008 | **0.78x** ($-22) | 1.42x |  | pumpfun | 2026-03-20 19:39 |
+| 🟡 WRT | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 20:34 |
+| 🔴 WAR | $0.000008 | **0.98x** ($-2) | 1.42x |  | pumpfun | 2026-03-20 19:39 |
 | 🔴 OSP | $0.000005 | **0.92x** ($-8) | 1.01x |  | pumpfun | 2026-03-20 17:10 |
 | 🔴 UGOR | $0.000020 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 16:35 |
 | 🟡 OSP | $0.000005 | **1.23x** ($+23) | 1.26x |  | pumpfun | 2026-03-20 16:33 |

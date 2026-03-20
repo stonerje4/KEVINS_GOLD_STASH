@@ -1,6 +1,6 @@
 # Wallet: `8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe`
 
-> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 20:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 20:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (4 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-372 |
-| 📦 Unrealized | $-9 |
-| 🏦 Total | **$-381** |
+| 📦 Unrealized | $+42 |
+| 🏦 Total | **$-330** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.38x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 WRONG | $0.000007 | **0.52x** ($-48) | 1.12x |  | pumpfun | 2026-03-20 20:13 |
-| 🟡 wbs | $0.000012 | **1.39x** ($+39) | 1.54x |  | pumpfun | 2026-03-20 20:10 |
+| 🟡 wbs | $0.000012 | **1.90x** ($+90) | 1.92x |  | pumpfun | 2026-03-20 20:10 |
 | 🟡 Sunshine | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:34 |
 | 🟡 MFT | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:33 |
 

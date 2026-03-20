@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 20:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 20:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (227 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+18 |
-| 📦 Unrealized | $-2,046 |
-| 🏦 Total | **$-2,027** |
+| 📦 Unrealized | $-2,047 |
+| 🏦 Total | **$-2,029** |
 | Best ROI | 2.75x |
 | Avg ROI | 1.03x |
 
@@ -42,7 +42,7 @@
 | 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
 | 🔴 KAGE | $0.000015 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 12:47 |
 | 🔴 MOMO | $0.000038 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-20 12:41 |
-| 🔴 Speak | $0.000024 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 12:27 |
+| 🔴 Speak | $0.000024 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 12:27 |
 | 🟡 XPD | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:25 |
 | 🔴 CHIBITRUMP | $0.000017 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 FSC | $0.000034 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 11:56 |

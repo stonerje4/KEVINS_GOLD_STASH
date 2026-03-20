@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 20:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 20:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 66 (60 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $-286 |
-| 🏦 Total | **$-564** |
+| 📦 Unrealized | $-275 |
+| 🏦 Total | **$-553** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.54x |
 
@@ -60,10 +60,10 @@
 | 🟡 FKH | $0.000017 | **1.09x** ($+9) | 1.12x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 Hamster | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Ouroboros | $0.000029 | **0.58x** ($-42) | 1.03x |  | pumpswap | 2026-03-20 01:43 |
-| 🔴 Speak | $0.000023 | **0.54x** ($-46) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
-| 🔴 LIFE | $0.000024 | **0.90x** ($-10) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
+| 🔴 Speak | $0.000023 | **0.53x** ($-47) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
+| 🔴 LIFE | $0.000024 | **0.93x** ($-7) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🟡 LUMO | $0.000027 | **1.44x** ($+44) | 2.26x | ✅ | pumpswap | 2026-03-20 00:48 |
-| 🟡 Saleh | $0.000013 | **1.16x** ($+16) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
+| 🟡 Saleh | $0.000013 | **1.26x** ($+26) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
 | 🟢 WRT | $0.000014 | **2.15x** ($+115) | 2.15x | ✅ | pumpswap | 2026-03-20 00:34 |
 | 🔴 Billy | $0.000011 | **0.81x** ($-19) | 1.18x |  | pumpswap | 2026-03-20 00:23 |
 | 🟡 DOGEFATHER | $0.000013 | **1.18x** ($+18) | 2.36x | ✅ | pumpswap | 2026-03-20 00:01 |

@@ -1,6 +1,6 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 20:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 20:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (10 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-422 |
-| 📦 Unrealized | $-163 |
-| 🏦 Total | **$-585** |
+| 📦 Unrealized | $-158 |
+| 🏦 Total | **$-579** |
 | Best ROI | 1.30x |
 | Avg ROI | 0.47x |
 
@@ -26,7 +26,7 @@
 | 🔴 genocide | $0.000018 | **0.97x** ($-3) | 1.10x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 5eU5zLhc | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:35 |
 | 🟡 HEgvC1Sk | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
-| 🔴 Saleh | $0.000023 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
+| 🔴 Saleh | $0.000023 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
 | 🔴 MENACE | $0.000009 | **0.44x** ($-56) | 1.12x |  | pumpswap | 2026-03-20 06:11 |
 
 ## Closed Positions

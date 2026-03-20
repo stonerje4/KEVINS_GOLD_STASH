@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 20:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 20:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 163 (160 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+121 |
-| 📦 Unrealized | $-674 |
-| 🏦 Total | **$-553** |
+| 📦 Unrealized | $-676 |
+| 🏦 Total | **$-555** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.40x |
 
@@ -45,7 +45,7 @@
 | 🟡 Dozer | $0.000010 | **1.17x** ($+17) | 1.38x |  | pumpswap | 2026-03-20 15:27 |
 | 🔴 HAMILTON | $0.000012 | **0.77x** ($-23) | 1.05x |  | pumpswap | 2026-03-20 15:05 |
 | 🔴 clod | $0.000026 | **0.65x** ($-35) | 1.55x |  | pumpswap | 2026-03-20 15:02 |
-| 🔴 Speak | $0.000017 | **0.74x** ($-26) | 1.11x |  | pumpswap | 2026-03-20 14:55 |
+| 🔴 Speak | $0.000017 | **0.72x** ($-28) | 1.11x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 GameTheory | $0.000013 | **1.29x** ($+29) | 1.33x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
 | 🔴 Ava | $0.000010 | **0.90x** ($-10) | 1.01x |  | pumpswap | 2026-03-20 14:48 |
