@@ -1,16 +1,16 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 00:29 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 00:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (12 open, 0 closed) |
+| Positions | 13 (13 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+2 |
-| 🏦 Total | **$+2** |
+| 📦 Unrealized | $-1 |
+| 🏦 Total | **$-1** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Goose | $0.000017 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 00:26 |
-| 🔴 Billy | $0.000011 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 00:26 |
-| 🟡 SPOT | $0.000011 | **1.02x** ($+2) | 1.02x |  | cpmm | 2026-03-20 00:26 |
-| 🟡 Aliens | $0.000779 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 00:11 |
+| 🟡 CatFu | $0.000311 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 00:31 |
+| 🟡 Goose | $0.000017 | **1.08x** ($+8) | 1.10x |  | pumpswap | 2026-03-20 00:26 |
+| 🔴 Billy | $0.000011 | **0.92x** ($-8) | 1.02x |  | pumpswap | 2026-03-20 00:26 |
+| 🟡 SPOT | $0.000011 | **1.06x** ($+6) | 1.06x |  | cpmm | 2026-03-20 00:26 |
+| 🟡 Aliens | $0.000779 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 00:11 |
 | 🔴 Octogent | $0.000010 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 00:06 |
-| 🟡 TIMELESS | $0.000021 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 00:02 |
-| 🟡 NETANYAHU | $0.000084 | **1.18x** ($+18) | 1.21x |  | pumpswap | 2026-03-20 00:02 |
+| 🟡 TIMELESS | $0.000021 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 00:02 |
+| 🟡 NETANYAHU | $0.000084 | **1.10x** ($+10) | 1.36x |  | pumpswap | 2026-03-20 00:02 |
 | 🟡 0 | $0.000068 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:02 |
 | 🟡 AMBER | $0.000014 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-19 23:21 |
 | 🔴 唐子兵法 | $0.001448 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-19 22:46 |

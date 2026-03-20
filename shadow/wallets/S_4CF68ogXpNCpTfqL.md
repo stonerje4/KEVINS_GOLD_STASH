@@ -1,6 +1,6 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 00:29 UTC
+> [View on Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 00:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-16** |
+| 📦 Unrealized | $-19 |
+| 🏦 Total | **$-19** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 HeavyPulp | $0.000753 | **1.11x** ($+11) | 1.12x |  | pumpswap | 2026-03-19 23:44 |
+| 🟡 HeavyPulp | $0.000753 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 MIM | $0.000074 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 WIZARD | $0.000435 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-19 23:07 |
 | 🔴 SHAPE | $0.001378 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-19 22:35 |

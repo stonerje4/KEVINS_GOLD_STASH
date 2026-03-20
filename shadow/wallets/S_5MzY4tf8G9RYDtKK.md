@@ -1,16 +1,16 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 00:29 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 00:34 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (13 open, 9 closed) |
+| Positions | 23 (14 open, 9 closed) |
 | W/L | 0/9 (0%) |
 | 💵 Realized | $-486 |
-| 📦 Unrealized | $-89 |
-| 🏦 Total | **$-575** |
+| 📦 Unrealized | $-137 |
+| 🏦 Total | **$-623** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.6x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Apollo | $0.000007 | **1.78x** ($+78) | 1.81x |  | pumpfun | 2026-03-20 00:25 |
-| 🟡 jeff | $0.000023 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-20 00:24 |
-| 🔴 Optimistrump | $0.000003 | **0.92x** ($-8) | 1.11x |  | pumpswap | 2026-03-20 00:22 |
+| 🟡 Ham | $0.000049 | **1.07x** ($+7) | 1.30x |  | pumpswap | 2026-03-20 00:31 |
+| 🟡 Apollo | $0.000007 | **1.13x** ($+13) | 1.94x |  | pumpfun | 2026-03-20 00:25 |
+| 🔴 jeff | $0.000023 | **0.94x** ($-6) | 1.08x |  | pumpswap | 2026-03-20 00:24 |
+| 🟡 Optimistrump | $0.000003 | **1.16x** ($+16) | 1.22x |  | pumpswap | 2026-03-20 00:22 |
 | 🔴 REKT | $0.000009 | **0.52x** ($-48) | 1.34x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 ONEAI | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 RiceClaw | $0.000005 | **0.54x** ($-46) | 1.69x |  | pumpfun | 2026-03-19 23:18 |

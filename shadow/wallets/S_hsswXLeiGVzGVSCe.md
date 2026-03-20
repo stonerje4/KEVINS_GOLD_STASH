@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 00:29 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 00:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 53 (49 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $+349 |
-| 📦 Unrealized | $-635 |
-| 🏦 Total | **$-286** |
+| 📦 Unrealized | $-640 |
+| 🏦 Total | **$-290** |
 | Best Trade | 2.9x |
 | Avg Peak | 3.9x |
 
@@ -19,17 +19,17 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CHIBIT | $0.000004 | **1.01x** ($+1) | 1.08x |  | pumpfun | 2026-03-20 00:27 |
-| 🟡 Cyberfy | $0.000005 | **1.57x** ($+57) | 1.68x |  | pumpfun | 2026-03-20 00:25 |
+| 🟢 Cyberfy | $0.000005 | **2.47x** ($+147) | 2.88x | ✅ | pumpfun | 2026-03-20 00:25 |
 | 🔴 bear | $0.000004 | **0.69x** ($-31) | 1.18x |  | pumpfun | 2026-03-20 00:21 |
 | 🔴 GARAGE | $0.000003 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 00:14 |
-| 🟡 744wjiDE | $0.000003 | **1.36x** ($+36) | 1.64x |  | pumpfun | 2026-03-20 00:14 |
+| 🟡 744wjiDE | $0.000003 | **1.26x** ($+26) | 1.64x |  | pumpfun | 2026-03-20 00:14 |
 | 🔴 Balenciaga | $0.000004 | **0.62x** ($-38) | 1.75x |  | pumpfun | 2026-03-20 00:09 |
 | 🔴 Abundance | $0.000004 | **0.60x** ($-40) | 1.05x |  | pumpfun | 2026-03-20 00:02 |
 | 🔴 TF | $0.000003 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-19 23:53 |
 | 🔴 COMPUTE | $0.000003 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-19 23:52 |
 | 🔴 Downey | $0.000004 | **0.95x** ($-5) | 1.57x |  | pumpfun | 2026-03-19 23:49 |
 | 🟡 TTJ | $0.000005 | **1.13x** ($+13) | 1.18x |  | pumpfun | 2026-03-19 23:49 |
-| 🟢 SHELBY | $0.000003 | **2.55x** ($+155) | 4.08x | ✅ | pumpfun | 2026-03-19 23:47 |
+| 🟢 SHELBY | $0.000003 | **2.26x** ($+126) | 4.08x | ✅ | pumpfun | 2026-03-19 23:47 |
 | 🔴 DULISAURUS | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-19 23:42 |
 | 🔴 Trashbag | $0.000005 | **0.81x** ($-19) | 1.67x |  | pumpfun | 2026-03-19 23:41 |
 | 🔴 TCOIN | $0.000004 | **0.90x** ($-10) | 1.01x |  | pumpfun | 2026-03-19 23:38 |

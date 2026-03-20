@@ -1,6 +1,6 @@
 # Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
 
-> [View on Solscan](https://solscan.io/account/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy) | Updated: 2026-03-20 00:29 UTC
+> [View on Solscan](https://solscan.io/account/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy) | Updated: 2026-03-20 00:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+15 |
-| 🏦 Total | **$+15** |
+| 📦 Unrealized | $+26 |
+| 🏦 Total | **$+26** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TITTYKILLER | $0.000010 | **1.08x** ($+8) | 1.19x |  | pumpfun | 2026-03-20 00:23 |
-| 🟡 TITTYKILLER | $0.000003 | **1.08x** ($+8) | 1.83x |  | pumpfun | 2026-03-20 00:14 |
+| 🟡 TITTYKILLER | $0.000010 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 00:23 |
+| 🟡 TITTYKILLER | $0.000003 | **1.06x** ($+6) | 1.83x |  | pumpfun | 2026-03-20 00:14 |
 
 ## Closed Positions
 

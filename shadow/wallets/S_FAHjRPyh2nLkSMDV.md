@@ -1,6 +1,6 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 00:29 UTC
+> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 00:34 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+17 |
-| 🏦 Total | **$+17** |
+| 📦 Unrealized | $+147 |
+| 🏦 Total | **$+147** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBI | $0.000067 | **1.09x** ($+9) | 1.11x |  | pumpswap | 2026-03-20 00:25 |
-| 🟡 Ham | $0.000009 | **1.99x** ($+99) | 2.26x | ✅ | pumpswap | 2026-03-19 23:52 |
+| 🟡 CHIBI | $0.000067 | **1.12x** ($+12) | 1.18x |  | pumpswap | 2026-03-20 00:25 |
+| 🚀 Ham | $0.000009 | **5.93x** ($+493) | 7.18x | ✅ | pumpswap | 2026-03-19 23:52 |
 | 🔴 TOKEN | $0.000142 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
-| 🟡 Nigel | $0.000209 | **1.05x** ($+5) | 1.19x |  | pumpswap | 2026-03-19 22:50 |
-| 🔴 BBX | $0.000435 | **0.74x** ($-26) | 1.30x |  | pumpswap | 2026-03-19 22:41 |
+| 🟡 Nigel | $0.000209 | **1.08x** ($+8) | 1.19x |  | pumpswap | 2026-03-19 22:50 |
+| 🔴 BBX | $0.000435 | **0.81x** ($-19) | 1.30x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
 
