@@ -9,16 +9,16 @@
 | Positions | 4 (2 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+13 |
+| 📦 Unrealized | $+12 |
 | 🏦 Total | **$-108** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.4x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 HUGH | $0.000013 | **1.13x** ($+13) | 1.42x |  | pumpswap | 2026-03-20 10:18 |
+| 🟡 HUGH | $0.000013 | **1.12x** ($+12) | 1.42x |  | pumpswap | 2026-03-20 10:18 |
 | 🟡 DOGEFATHER | $0.000015 | **1.01x** ($+1) | 2.02x | ✅ | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions

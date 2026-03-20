@@ -9,10 +9,10 @@
 | Positions | 6 (5 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-18 |
-| 📦 Unrealized | $+47 |
-| 🏦 Total | **$+29** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.6x |
+| 📦 Unrealized | $+48 |
+| 🏦 Total | **$+30** |
+| Best ROI | 0.82x |
+| Avg ROI | 0.82x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🟡 spaghetti | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:43 |
 | 🟡 Downald | $0.000528 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:14 |
 | 🟡 effect | $0.000024 | **1.51x** ($+51) | 1.51x |  | pumpfun | 2026-03-20 10:06 |
-| 🔴 fine999.9 | $0.004774 | **0.50x** ($-50) | 1.01x |  | pumpswap | 2026-03-20 09:43 |
+| 🔴 fine999.9 | $0.004774 | **0.51x** ($-49) | 1.01x |  | pumpswap | 2026-03-20 09:43 |
 | 🟡 CHIBI | $0.000713 | **1.46x** ($+46) | 1.82x |  | pumpswap | 2026-03-19 23:42 |
 
 ## Closed Positions

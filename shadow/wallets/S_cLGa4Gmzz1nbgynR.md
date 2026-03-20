@@ -9,10 +9,10 @@
 | Positions | 127 (122 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-218 |
-| 📦 Unrealized | $+104 |
-| 🏦 Total | **$-115** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.5x |
+| 📦 Unrealized | $+106 |
+| 🏦 Total | **$-112** |
+| Best ROI | 1.48x |
+| Avg ROI | 0.56x |
 
 ## Open Positions
 
@@ -25,7 +25,7 @@
 | 🟡 IMAGINE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:15 |
 | 🔴 CRABBO | $0.000142 | **0.95x** ($-5) | 1.32x |  | pumpswap | 2026-03-20 10:02 |
 | 🟡 Pixels | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:55 |
-| 🟡 CHIBELON | $0.000110 | **1.59x** ($+59) | 2.29x | ✅ | pumpswap | 2026-03-20 09:32 |
+| 🟡 CHIBELON | $0.000110 | **1.64x** ($+64) | 2.29x | ✅ | pumpswap | 2026-03-20 09:32 |
 | 🟡 MONA | $0.000060 | **1.03x** ($+3) | 1.29x |  | pumpswap | 2026-03-20 08:47 |
 | 🔴 AVATAR | $0.000017 | **0.49x** ($-51) | 1.46x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 Optimistic | $0.000420 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:15 |

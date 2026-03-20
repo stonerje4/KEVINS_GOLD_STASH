@@ -9,17 +9,17 @@
 | Positions | 12 (10 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-155** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.4x |
+| 📦 Unrealized | $-35 |
+| 🏦 Total | **$-157** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 quit | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:18 |
-| 🔴 QUIT | $0.000005 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 11:18 |
+| 🔴 QUIT | $0.000005 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-20 11:18 |
 | 🟡 OFFLINE | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
 | 🟡 Ouroboros | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:37 |
 | 🟡 ANIMEFY | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:23 |

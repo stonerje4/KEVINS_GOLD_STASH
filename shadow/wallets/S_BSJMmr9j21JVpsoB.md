@@ -9,17 +9,17 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+24,439 |
-| 🏦 Total | **$+24,439** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+24,110 |
+| 🏦 Total | **$+24,110** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Nigel | $0.000278 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:26 |
-| 🚀 我的刀盾 | $0.000003 | **1096.56x** ($+109,556) | 1157.53x | ✅ | pumpswap | 2026-03-20 06:06 |
+| 🚀 我的刀盾 | $0.000003 | **1081.80x** ($+108,080) | 1157.53x | ✅ | pumpswap | 2026-03-20 06:06 |
 
 ## Closed Positions
 

@@ -9,10 +9,10 @@
 | Positions | 29 (27 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $+179 |
-| 🏦 Total | **$+40** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+182 |
+| 🏦 Total | **$+43** |
+| Best ROI | 0.39x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
@@ -36,7 +36,7 @@
 | 🟡 CHIBIELON | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 Pixels | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 来根华子 | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
-| 🟢 CHIBELON | $0.000062 | **2.81x** ($+181) | 4.06x | ✅ | pumpswap | 2026-03-20 07:18 |
+| 🟢 CHIBELON | $0.000062 | **2.88x** ($+188) | 4.06x | ✅ | pumpswap | 2026-03-20 07:18 |
 | 🟡 ZeroG | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
 | 🔴 INCOME | $0.000553 | **0.98x** ($-2) | 1.16x |  | pumpswap | 2026-03-20 06:50 |
 | 🟡 Unemployed | $0.000007 | **1.37x** ($+37) | 1.55x |  | pumpswap | 2026-03-20 06:48 |

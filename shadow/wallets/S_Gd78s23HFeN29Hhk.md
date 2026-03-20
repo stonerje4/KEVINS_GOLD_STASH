@@ -9,17 +9,17 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+51** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+64 |
+| 🏦 Total | **$+64** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CTRUMP | $0.000003 | **1.30x** ($+30) | 1.48x |  | pumpfun | 2026-03-20 10:16 |
-| 🟡 CHIBIMINAJ | $0.000006 | **1.16x** ($+16) | 1.53x |  | pumpfun | 2026-03-20 05:17 |
+| 🟡 CHIBIMINAJ | $0.000006 | **1.29x** ($+29) | 1.53x |  | pumpfun | 2026-03-20 05:17 |
 | 🟡 IMAGINE | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:03 |
 | 🟡 HUGH | $0.000003 | **1.06x** ($+6) | 1.64x |  | pumpfun | 2026-03-20 05:01 |
 | 🔴 RYS | $0.000351 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-19 22:50 |

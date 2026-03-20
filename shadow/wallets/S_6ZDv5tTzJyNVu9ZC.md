@@ -9,10 +9,10 @@
 | Positions | 186 (184 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+362 |
-| 🏦 Total | **$+495** |
-| Best Trade | 2.9x |
-| Avg Peak | 5.4x |
+| 📦 Unrealized | $+361 |
+| 🏦 Total | **$+494** |
+| Best ROI | 2.95x |
+| Avg ROI | 1.67x |
 
 ## Open Positions
 
@@ -191,7 +191,7 @@
 | 🔴 Gerald | $0.000377 | **0.93x** ($-7) | 1.14x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 Chibify | $0.000026 | **1.62x** ($+62) | 2.90x | ✅ | pumpswap | 2026-03-19 22:58 |
 | 🟡 MIROFISH | $0.000031 | **1.05x** ($+5) | 1.17x |  | pumpswap | 2026-03-19 22:58 |
-| 🟡 Geeked | $0.000021 | **1.29x** ($+29) | 1.30x |  | pumpswap | 2026-03-19 22:57 |
+| 🟡 Geeked | $0.000021 | **1.28x** ($+28) | 1.30x |  | pumpswap | 2026-03-19 22:57 |
 | 🔴 Noesis | $0.000326 | **0.75x** ($-25) | 1.11x |  | pumpswap | 2026-03-19 22:57 |
 | 🟡 mogging | $0.000044 | **1.01x** ($+1) | 1.19x |  | pumpswap | 2026-03-19 22:55 |
 | 🟡 DEEPSEEKV4 | $0.000039 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-19 22:54 |
