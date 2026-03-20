@@ -1,18 +1,18 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 11:38 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 11:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 52 (31 open, 21 closed) |
-| W/L | 0/21 (0%) |
-| 💵 Realized | $-1,102 |
+| Positions | 52 (30 open, 22 closed) |
+| W/L | 0/22 (0%) |
+| 💵 Realized | $-1,117 |
 | 📦 Unrealized | $-167 |
-| 🏦 Total | **$-1,269** |
-| Best ROI | 0.85x |
-| Avg ROI | 0.48x |
+| 🏦 Total | **$-1,285** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
@@ -23,11 +23,10 @@
 | 🟡 Chibify | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
 | 🟡 Judy | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:41 |
 | 🚀 Doolysaurus | $0.000006 | **5.72x** ($+472) | 5.72x | ✅ | pumpfun | 2026-03-20 09:52 |
-| 🔴 我的猪盾 | $0.000006 | **0.53x** ($-47) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
+| 🔴 我的猪盾 | $0.000006 | **0.47x** ($-53) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 IMAGINE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |
 | 🟡 IMAGINE | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🔴 Civil Claude | $0.000013 | **0.88x** ($-12) | 2.16x | ✅ | pumpfun | 2026-03-20 04:55 |
 | 🟡 MFT | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🟡 SPARKOS | $0.000109 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:48 |
 | 🟡 W | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:13 |
@@ -59,6 +58,7 @@
 | 🟡 awkward | 0.82x | $-18 | trailing_stop_2x | 2.31x | pumpfun | 2026-03-20 07:16 → 2026-03-20 07:52 |
 | 🔴 startpup | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 06:09 → 2026-03-20 06:22 |
 | 🔴 nickel | 0.40x | $-60 | stop_loss | 1.12x | pumpfun | 2026-03-20 05:32 → 2026-03-20 06:01 |
+| 🟡 Civil Claude | 0.84x | $-16 | trailing_stop_2x | 2.16x | pumpfun | 2026-03-20 04:55 → 2026-03-20 11:39 |
 | 🔴 badger | 0.31x | $-69 | stop_loss | 1.07x | pumpfun | 2026-03-20 03:10 → 2026-03-20 03:11 |
 | 🔴 GACEY | 0.39x | $-61 | stop_loss | 1.11x | pumpswap | 2026-03-20 01:50 → 2026-03-20 02:10 |
 | 🔴 Cyberfy | 0.38x | $-62 | stop_loss | 1.02x | pumpfun | 2026-03-20 00:43 → 2026-03-20 01:04 |

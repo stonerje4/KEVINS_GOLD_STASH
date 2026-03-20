@@ -1,6 +1,6 @@
 # Wallet: `6AmDuBQq6hBjPgi2vWKE26nmunwBsd9UdTVNtgU5F3Kr`
 
-> [View on Solscan](https://solscan.io/account/6AmDuBQq6hBjPgi2vWKE26nmunwBsd9UdTVNtgU5F3Kr) | Updated: 2026-03-20 11:38 UTC
+> [View on Solscan](https://solscan.io/account/6AmDuBQq6hBjPgi2vWKE26nmunwBsd9UdTVNtgU5F3Kr) | Updated: 2026-03-20 11:43 UTC
 
 ## Summary
 
@@ -11,15 +11,15 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+163 |
 | 🏦 Total | **$+163** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 TANGY | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
-| 🟢 Nonchalant | $0.000006 | **2.36x** ($+136) | 2.66x | ✅ | pumpfun | 2026-03-20 03:45 |
+| 🟢 Nonchalant | $0.000006 | **2.35x** ($+135) | 2.66x | ✅ | pumpfun | 2026-03-20 03:45 |
 | 🟢 Spiderman | $0.000082 | **2.53x** ($+153) | 2.66x | ✅ | pumpswap | 2026-03-19 22:54 |
 | 🟡 WhiteBoy  | $0.000010 | **1.38x** ($+38) | 2.38x | ✅ | pumpswap | 2026-03-19 22:52 |
 

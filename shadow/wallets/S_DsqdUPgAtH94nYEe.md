@@ -1,23 +1,24 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 11:38 UTC
+> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 11:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (17 open, 5 closed) |
+| Positions | 23 (18 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-226 |
 | 📦 Unrealized | $-79 |
 | 🏦 Total | **$-305** |
-| Best ROI | 1.30x |
-| Avg ROI | 0.55x |
+| Best Trade | 1.3x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DECEPTICONS | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:41 |
 | 🟡 Sonny | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
 | 🟡 genocide | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 FMgfgeLF | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |

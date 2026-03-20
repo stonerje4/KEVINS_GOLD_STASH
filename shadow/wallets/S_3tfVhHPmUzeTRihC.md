@@ -1,23 +1,24 @@
 # Wallet: `3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ`
 
-> [View on Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 11:38 UTC
+> [View on Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 11:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (6 open, 1 closed) |
+| Positions | 8 (7 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
 | 📦 Unrealized | $+6 |
 | 🏦 Total | **$+51** |
-| Best ROI | 1.45x |
-| Avg ROI | 1.45x |
+| Best Trade | 1.4x |
+| Avg Peak | 3.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DECEPTICONS | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:38 |
 | 🟡 genocide | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
 | 🟡 Chibify | $0.000076 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |

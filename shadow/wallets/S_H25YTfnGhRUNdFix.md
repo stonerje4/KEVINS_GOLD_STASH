@@ -1,6 +1,6 @@
 # Wallet: `H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp`
 
-> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 11:38 UTC
+> [View on Solscan](https://solscan.io/account/H25YTfnGhRUNdFixbZ5NDrfdZhodKS9RrRfXF9HR3Gyp) | Updated: 2026-03-20 11:43 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-22 |
 | 🏦 Total | **$-22** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -26,7 +26,7 @@
 | 🟡 ZeroG | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:38 |
 | 🟡 MOCHI | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 唐子兵法 | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:30 |
-| 🔴 EPSTEINBLI | $0.000002 | **0.81x** ($-19) | 1.19x |  | pumpswap | 2026-03-20 06:23 |
+| 🔴 EPSTEINBLI | $0.000002 | **0.80x** ($-20) | 1.19x |  | pumpswap | 2026-03-20 06:23 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:19 |
 | 🟡 IMAGINE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:13 |
 

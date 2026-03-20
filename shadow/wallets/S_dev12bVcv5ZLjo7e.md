@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 11:38 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 11:43 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 87 (85 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $+14 |
-| 🏦 Total | **$+44** |
-| Best ROI | 1.45x |
-| Avg ROI | 1.15x |
+| 📦 Unrealized | $+9 |
+| 🏦 Total | **$+39** |
+| Best Trade | 1.5x |
+| Avg Peak | 3.1x |
 
 ## Open Positions
 
@@ -39,10 +39,10 @@
 | 🔴 WFD | $0.000003 | **0.92x** ($-8) | 1.07x |  | pumpfun | 2026-03-20 08:33 |
 | 🔴 OSUUSHI | $0.000003 | **0.91x** ($-9) | 1.61x |  | pumpfun | 2026-03-20 08:16 |
 | 🔴 UOR | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 08:05 |
-| 🔴 BBX | $0.000003 | **0.90x** ($-10) | 1.01x |  | pumpfun | 2026-03-20 08:04 |
+| 🔴 BBX | $0.000003 | **0.87x** ($-13) | 1.01x |  | pumpfun | 2026-03-20 08:04 |
 | 🔴 $Chibi | $0.000003 | **0.92x** ($-8) | 1.23x |  | pumpfun | 2026-03-20 07:55 |
 | 🟢 COLONEL | $0.000005 | **2.40x** ($+140) | 2.40x | ✅ | pumpfun | 2026-03-20 07:37 |
-| 🟡 CHIBLON | $0.000003 | **1.48x** ($+48) | 2.22x | ✅ | pumpfun | 2026-03-20 07:32 |
+| 🟡 CHIBLON | $0.000003 | **1.41x** ($+41) | 2.22x | ✅ | pumpfun | 2026-03-20 07:32 |
 | 🟡 CHIBIFY | $0.000003 | **1.33x** ($+33) | 2.25x | ✅ | pumpfun | 2026-03-20 07:20 |
 | 🟡 GLQbYphM | $0.000003 | **1.03x** ($+3) | 1.24x |  | pumpfun | 2026-03-20 07:17 |
 | 🔴 OILLESS | $0.000004 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 07:07 |
@@ -71,7 +71,7 @@
 | 🔴 PRVX | $0.000006 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 04:11 |
 | 🔴 spooder | $0.000005 | **0.85x** ($-15) | 1.00x |  | pumpfun | 2026-03-20 04:08 |
 | 🟡 OPTIMUS | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:43 |
-| 🟡 WRT | $0.000005 | **1.11x** ($+11) | 1.32x |  | pumpfun | 2026-03-20 03:36 |
+| 🟡 WRT | $0.000005 | **1.12x** ($+12) | 1.32x |  | pumpfun | 2026-03-20 03:36 |
 | 🔴 Brand | $0.000003 | **0.87x** ($-13) | 1.01x |  | pumpfun | 2026-03-20 03:35 |
 | 🔴 NADOMAC | $0.000003 | **0.90x** ($-10) | 1.02x |  | pumpfun | 2026-03-20 03:35 |
 | 🔴 6yCBxqr7 | $0.000004 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 03:20 |
