@@ -1,6 +1,6 @@
-# Wallet: `GtKGUsjXJcaRcVi3ZfbJ6kWEuivmQQeEwjRvPjzKHrBj`
+# Wallet: `Cm3YAuV58VVnyLAhNgbnwG8p4J3mDe7aYct7BCqQpag3`
 
-> [View on Solscan](https://solscan.io/account/GtKGUsjXJcaRcVi3ZfbJ6kWEuivmQQeEwjRvPjzKHrBj) | Updated: 2026-03-20 13:19 UTC
+> [View on Solscan](https://solscan.io/account/Cm3YAuV58VVnyLAhNgbnwG8p4J3mDe7aYct7BCqQpag3) | Updated: 2026-03-20 13:19 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+204 |
+| 🏦 Total | **$+204** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Jomvet | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:22 |
+| 🚀 methane | $0.000004 | **6.99x** ($+599) | 7.13x | ✅ | cpmm | 2026-03-20 13:15 |
 
 ## Closed Positions
 

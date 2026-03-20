@@ -1,23 +1,24 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 13:14 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 13:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 138 (132 open, 6 closed) |
+| Positions | 139 (133 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
 | 📦 Unrealized | $+281 |
 | 🏦 Total | **$+3** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.54x |
+| Best Trade | 1.5x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 MINDLESS | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:16 |
 | 🟡 butthole | $0.000117 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 ZeroG | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:39 |
 | 🟡 honkermog | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:32 |

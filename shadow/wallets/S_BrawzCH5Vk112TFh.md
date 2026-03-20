@@ -1,28 +1,29 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 13:14 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 13:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 241 (237 open, 4 closed) |
+| Positions | 242 (238 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+17 |
 | 📦 Unrealized | $+91 |
-| 🏦 Total | **$+107** |
-| Best ROI | 2.99x |
-| Avg ROI | 1.04x |
+| 🏦 Total | **$+108** |
+| Best Trade | 3.0x |
+| Avg Peak | 3.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 JEREMY | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:15 |
 | 🟡 BBX | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 LAYOFF | $0.000243 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 HORMUZ | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 shitcoin | $0.000352 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
-| 🟡 Goyim | $0.000623 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 13:08 |
+| 🟡 Goyim | $0.000623 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 LIBERTY | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 e/alt | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 fine999.9 | $0.002209 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:57 |

@@ -1,18 +1,18 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 13:14 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 13:19 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 88 (5 open, 83 closed) |
-| W/L | 0/83 (0%) |
-| 💵 Realized | $-8,292 |
+| Positions | 91 (5 open, 86 closed) |
+| W/L | 0/86 (0%) |
+| 💵 Realized | $-8,591 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-8,292** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-8,591** |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -28,6 +28,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 됴지님 | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:17 → 2026-03-20 13:17 |
+| 🔴 됴지님 | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:16 → 2026-03-20 13:16 |
+| 🔴 됴지님 | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:14 → 2026-03-20 13:14 |
 | 🔴 Kin-kun | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:43 → 2026-03-20 09:43 |
 | 🔴 Kin-kun | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:42 → 2026-03-20 09:42 |
 | 🔴 Kin-kun | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 09:40 → 2026-03-20 09:40 |

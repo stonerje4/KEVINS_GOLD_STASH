@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 13:14 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 13:19 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 122 (119 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+207 |
-| 🏦 Total | **$+6** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| 📦 Unrealized | $+208 |
+| 🏦 Total | **$+7** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 HORMUZ | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
-| 🟡 Goyim | $0.000621 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 13:08 |
+| 🟡 Goyim | $0.000621 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 fine999.9 | $0.001807 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:59 |
 | 🟡 Matthew | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:56 |
 | 🟡 NETAINYAHU | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
