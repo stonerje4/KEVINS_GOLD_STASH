@@ -1,6 +1,6 @@
 # PRD Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
 
-> [GMGN](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | [Solscan](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | Updated: 2026-03-20 15:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | [Solscan](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | Updated: 2026-03-20 15:30 UTC
 
 ## Summary
 
@@ -8,17 +8,17 @@
 |--------|-------|
 | Trades | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
-| 💵 Realized | -0.0761 SOL ($-6.76) |
+| 💵 Realized | -0.0761 SOL ($-6.77) |
 | ⛽ Gas | 0.0055 SOL |
-| 📦 Unrealized | -0.1677 SOL |
-| 🏦 Net | **-0.2439 SOL** ($-21.65) |
+| 📦 Unrealized | -0.1674 SOL |
+| 🏦 Net | **-0.2436 SOL** ($-21.66) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
 | 🔴 ? | open | 0.11 | 0.46x | 1.00x | -0.0639 | — |
-| 🔴 WALKER | open | 0.11 | 0.65x | 1.95x | -0.0439 | — |
+| 🔴 WALKER | open | 0.11 | 0.65x | 1.95x | -0.0435 | — |
 | 🔴 RIPCHUCK | closed | 0.11 | 0.38x | 1.01x | -0.0761 | stop_loss |
 | 🔴 Hot | open | 0.11 | 0.50x | 1.64x | -0.0600 | — |
 
