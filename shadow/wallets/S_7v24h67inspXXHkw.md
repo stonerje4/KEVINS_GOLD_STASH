@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 00:59 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 01:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-14 |
-| 🏦 Total | **$-14** |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-13** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -24,7 +24,7 @@
 | 🟡 DRONE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 BBX | $0.000029 | **1.09x** ($+9) | 1.10x |  | pumpswap | 2026-03-19 23:22 |
 | 🟡 Downald | $0.000006 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:20 |
-| 🔴 BBX | $0.000483 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-19 23:20 |
+| 🔴 BBX | $0.000483 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-19 23:20 |
 
 ## Closed Positions
 

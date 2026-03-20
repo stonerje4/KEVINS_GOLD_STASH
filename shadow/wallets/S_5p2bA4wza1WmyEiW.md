@@ -1,6 +1,6 @@
 # Wallet: `5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv`
 
-> [View on Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 00:59 UTC
+> [View on Solscan](https://solscan.io/account/5p2bA4wza1WmyEiWwyDJVNrXXsAM4M9yQcKDvTK5mWKv) | Updated: 2026-03-20 01:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-17 |
-| 🏦 Total | **$-79** |
+| 📦 Unrealized | $-11 |
+| 🏦 Total | **$-72** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.9x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Foodrot | $0.000145 | **0.96x** ($-4) | 1.15x |  | pumpswap | 2026-03-19 22:48 |
+| 🟡 Foodrot | $0.000145 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 22:48 |
 | 🔴 TASKS | $0.000003 | **0.87x** ($-13) | 1.16x |  | pumpfun | 2026-03-19 22:46 |
 
 ## Closed Positions

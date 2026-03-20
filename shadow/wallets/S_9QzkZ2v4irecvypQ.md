@@ -1,6 +1,6 @@
 # Wallet: `9QzkZ2v4irecvypQpvJgK4SonWK1HedRHb9hqLNxT4Q5`
 
-> [View on Solscan](https://solscan.io/account/9QzkZ2v4irecvypQpvJgK4SonWK1HedRHb9hqLNxT4Q5) | Updated: 2026-03-20 00:59 UTC
+> [View on Solscan](https://solscan.io/account/9QzkZ2v4irecvypQpvJgK4SonWK1HedRHb9hqLNxT4Q5) | Updated: 2026-03-20 01:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-34** |
+| 📦 Unrealized | $-37 |
+| 🏦 Total | **$-37** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Dickus | $0.000131 | **0.66x** ($-34) | 1.09x |  | pumpswap | 2026-03-20 00:50 |
+| 🔴 Dickus | $0.000131 | **0.63x** ($-37) | 1.09x |  | pumpswap | 2026-03-20 00:50 |
 
 ## Closed Positions
 

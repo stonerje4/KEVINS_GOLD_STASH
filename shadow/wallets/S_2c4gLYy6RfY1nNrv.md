@@ -1,6 +1,6 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 00:59 UTC
+> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 01:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+146 |
-| 🏦 Total | **$+83** |
+| 📦 Unrealized | $+218 |
+| 🏦 Total | **$+156** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Grokslop | $0.000009 | **2.05x** ($+105) | 2.10x | ✅ | pumpfun | 2026-03-20 00:47 |
+| 🟢 Grokslop | $0.000009 | **4.14x** ($+314) | 4.14x | ✅ | pumpfun | 2026-03-20 00:47 |
 | 🟢 BACK | $0.000010 | **3.58x** ($+258) | 3.58x | ✅ | pumpfun | 2026-03-19 23:51 |
 | 🔴 Pete | $0.000005 | **0.90x** ($-10) | 1.06x |  | pumpfun | 2026-03-19 23:50 |
 

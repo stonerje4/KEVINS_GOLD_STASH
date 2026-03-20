@@ -1,6 +1,6 @@
 # Wallet: `6UwCF9JCEPRFfBKibwAoyuEZukLwzATiWRjiGnH1Eass`
 
-> [View on Solscan](https://solscan.io/account/6UwCF9JCEPRFfBKibwAoyuEZukLwzATiWRjiGnH1Eass) | Updated: 2026-03-20 00:59 UTC
+> [View on Solscan](https://solscan.io/account/6UwCF9JCEPRFfBKibwAoyuEZukLwzATiWRjiGnH1Eass) | Updated: 2026-03-20 01:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+60 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+110 |
+| 🏦 Total | **$+50** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -19,11 +19,11 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 PEACE | $0.000123 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:44 |
-| 🟡 SHOENICE  | $0.000022 | **1.22x** ($+22) | 1.42x |  | pumpfun | 2026-03-20 00:37 |
+| 🟡 SHOENICE  | $0.000022 | **1.65x** ($+65) | 1.65x |  | pumpfun | 2026-03-20 00:37 |
 | 🟡 TENDIES | $0.000051 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:00 |
 | 🟡 BRENT | $0.000010 | **1.00x** ($+0) | 1.12x |  | pumpfun | 2026-03-19 23:33 |
 | 🔴 CAWB | $0.000003 | **0.95x** ($-5) | 1.11x |  | pumpfun | 2026-03-19 23:31 |
-| 🟢 DICKUS | $0.000008 | **2.06x** ($+106) | 3.25x | ✅ | pumpfun | 2026-03-19 23:24 |
+| 🟢 DICKUS | $0.000008 | **2.24x** ($+124) | 3.25x | ✅ | pumpfun | 2026-03-19 23:24 |
 
 ## Closed Positions
 

@@ -1,29 +1,28 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 00:59 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 01:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (8 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-127 |
-| 🏦 Total | **$-127** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 8 (7 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-68 |
+| 📦 Unrealized | $-163 |
+| 🏦 Total | **$-231** |
+| Best Trade | 0.3x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Cyberfy | $0.000008 | **0.90x** ($-10) | 1.24x |  | pumpfun | 2026-03-20 00:39 |
-| 🔴 Massive | $0.000048 | **0.54x** ($-46) | 1.13x |  | pumpswap | 2026-03-19 23:53 |
-| 🟡 Attention | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:31 |
+| 🔴 Cyberfy | $0.000008 | **0.50x** ($-50) | 1.24x |  | pumpfun | 2026-03-20 00:39 |
+| 🔴 Massive | $0.000048 | **0.58x** ($-42) | 1.13x |  | pumpswap | 2026-03-19 23:53 |
 | 🔴 GDhuS8NJ | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-19 23:26 |
 | 🔴 Record | $0.000010 | **0.90x** ($-10) | 1.47x |  | pumpfun | 2026-03-19 23:10 |
-| 🔴 bio/acc | $0.000020 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-19 22:54 |
+| 🔴 bio/acc | $0.000020 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 RIPCHUCK | $0.000008 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-19 22:43 |
 | 🔴 dlorp | $0.000006 | **0.61x** ($-39) | 1.12x |  | pumpfun | 2026-03-19 22:38 |
 
@@ -31,6 +30,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Attention | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-19 23:31 → 2026-03-20 01:01 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

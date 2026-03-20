@@ -1,6 +1,6 @@
 # Wallet: `ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D`
 
-> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 00:59 UTC
+> [View on Solscan](https://solscan.io/account/ABse63XJ4r9rdsiJQpoqWKsXrpNyDAngoSjz1M12TG1D) | Updated: 2026-03-20 01:04 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SURVIVOR | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 00:09 |
+| 🔴 SURVIVOR | $0.000011 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 00:09 |
 | 🟡 CHIBIELON | $0.000008 | **1.15x** ($+15) | 1.20x |  | pumpfun | 2026-03-19 23:04 |
 
 ## Closed Positions
