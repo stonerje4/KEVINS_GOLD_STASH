@@ -1,24 +1,24 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 07:56 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 08:01 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (15 open, 9 closed) |
-| W/L | 1/8 (11%) |
-| 💵 Realized | $-321 |
-| 📦 Unrealized | $+47 |
-| 🏦 Total | **$-274** |
+| Positions | 24 (14 open, 10 closed) |
+| W/L | 1/9 (10%) |
+| 💵 Realized | $-393 |
+| 📦 Unrealized | $-83 |
+| 🏦 Total | **$-476** |
 | Best Trade | 1.5x |
-| Avg Peak | 2.1x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 76f2arMq | $0.000007 | **0.65x** ($-35) | 1.97x |  | pumpfun | 2026-03-20 07:44 |
+| 🔴 76f2arMq | $0.000007 | **0.45x** ($-55) | 1.97x |  | pumpfun | 2026-03-20 07:44 |
 | 🔴 FROG | $0.000004 | **0.62x** ($-38) | 1.52x |  | pumpfun | 2026-03-20 07:31 |
 | 🟡 MENACE | $0.000004 | **1.08x** ($+8) | 2.89x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 05:51 |
@@ -31,7 +31,6 @@
 | 🔴 EefwCHU8 | $0.000004 | **0.60x** ($-40) | 1.16x |  | pumpfun | 2026-03-20 02:46 |
 | 🔴 INR | $0.000006 | **0.41x** ($-59) | 1.93x |  | pumpfun | 2026-03-20 02:31 |
 | 🟢 Grokslop | $0.000010 | **3.80x** ($+280) | 3.80x | ✅ | pumpfun | 2026-03-20 00:47 |
-| 🟢 BACK | $0.000010 | **3.76x** ($+276) | 3.76x | ✅ | pumpfun | 2026-03-19 23:51 |
 | 🔴 Pete | $0.000004 | **0.94x** ($-6) | 1.12x |  | pumpfun | 2026-03-19 23:50 |
 
 ## Closed Positions
@@ -47,6 +46,7 @@
 | 🔴 TADC | 0.30x | $-70 | stop_loss | 1.59x | pumpfun | 2026-03-20 04:34 → 2026-03-20 05:09 |
 | 🟡 PISSCOIN | 0.84x | $-16 | trailing_stop_3x | 2.82x | pumpfun | 2026-03-20 01:37 → 2026-03-20 01:45 |
 | 🔴 Aiden | 0.40x | $-60 | stop_loss | 1.10x | pumpfun | 2026-03-20 00:39 → 2026-03-20 00:48 |
+| 🔴 BACK | 0.28x | $-72 | trailing_stop_4x | 3.76x | pumpfun | 2026-03-19 23:51 → 2026-03-20 07:58 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

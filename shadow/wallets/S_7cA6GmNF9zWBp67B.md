@@ -1,16 +1,16 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 07:56 UTC
+> [View on Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 08:01 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (13 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-130 |
-| 📦 Unrealized | $-9 |
-| 🏦 Total | **$-139** |
+| Positions | 15 (12 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-190 |
+| 📦 Unrealized | $+45 |
+| 🏦 Total | **$-145** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -19,7 +19,6 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 ZeroG | $0.000029 | **1.25x** ($+25) | 1.25x |  | pumpfun | 2026-03-20 06:03 |
-| 🔴 Imaginify | $0.000019 | **0.46x** ($-54) | 1.11x |  | pumpfun | 2026-03-20 05:48 |
 | 🟡 Aliens | $0.000104 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:48 |
 | 🔴 TRENCHY | $0.000022 | **0.88x** ($-12) | 1.06x |  | pumpfun | 2026-03-20 04:23 |
 | 🔴 CHOCOTINA | $0.000007 | **0.94x** ($-6) | 1.14x |  | pumpswap | 2026-03-20 04:17 |
@@ -37,6 +36,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 CATS | 0.32x | $-68 | stop_loss | 1.35x | pumpfun | 2026-03-20 06:06 → 2026-03-20 07:14 |
+| 🔴 Imaginify | 0.40x | $-60 | stop_loss | 1.11x | pumpfun | 2026-03-20 05:48 → 2026-03-20 07:57 |
 | 🔴 Imaginify | 0.38x | $-62 | stop_loss | 1.11x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:24 |
 
 ---

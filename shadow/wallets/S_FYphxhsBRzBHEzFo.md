@@ -1,6 +1,6 @@
 # Wallet: `FYphxhsBRzBHEzFou5uXJ62gbuAKNJ6FZbGoY1Ppyq6d`
 
-> [View on Solscan](https://solscan.io/account/FYphxhsBRzBHEzFou5uXJ62gbuAKNJ6FZbGoY1Ppyq6d) | Updated: 2026-03-20 07:56 UTC
+> [View on Solscan](https://solscan.io/account/FYphxhsBRzBHEzFou5uXJ62gbuAKNJ6FZbGoY1Ppyq6d) | Updated: 2026-03-20 08:01 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-13 |
-| 🏦 Total | **$-13** |
+| 📦 Unrealized | $-15 |
+| 🏦 Total | **$-15** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WhiteHouse | $0.000378 | **0.90x** ($-10) | 1.03x |  | pumpswap | 2026-03-20 03:23 |
+| 🔴 WhiteHouse | $0.000378 | **0.89x** ($-11) | 1.03x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 OmegaX | $0.000435 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-19 22:54 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 07:56 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 08:01 UTC
 
 ## Summary
 
@@ -27,7 +27,7 @@
 | 🟡 Optimistic | $0.000604 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 Rosie | $0.000797 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:51 |
 | 🟡 Momo-chan | $0.000312 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🟡 NATIVELY | $0.000038 | **1.25x** ($+25) | 1.25x |  | cpmm | 2026-03-20 04:46 |
+| 🟡 NATIVELY | $0.000038 | **1.26x** ($+26) | 1.26x |  | cpmm | 2026-03-20 04:46 |
 | 🟡 LUMO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Solana | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Spiderman | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
@@ -39,7 +39,7 @@
 | 🟡 PIZZA | $0.000184 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 UGOR | $0.000863 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 AIFRUITS | $0.000671 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
-| 🔴 SOS | $0.000976 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
+| 🔴 SOS | $0.000976 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 CHIBI | $0.000816 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 LIFE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 PIKAHORSE | $0.000331 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |

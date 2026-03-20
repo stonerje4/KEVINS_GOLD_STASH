@@ -1,6 +1,6 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 07:56 UTC
+> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 08:01 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (8 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-257 |
-| 📦 Unrealized | $+85 |
-| 🏦 Total | **$-172** |
+| 📦 Unrealized | $+72 |
+| 🏦 Total | **$-185** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.3x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Kit | $0.000006 | **0.86x** ($-14) | 1.20x |  | pumpfun | 2026-03-20 07:40 |
+| 🔴 Kit | $0.000006 | **0.73x** ($-27) | 1.20x |  | pumpfun | 2026-03-20 07:40 |
 | 🔴 大郎 | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 HAIL | $0.000015 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
 | 🔴 e/alt | $0.000012 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 05:56 |

@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 07:56 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 08:01 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 24 (20 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-207 |
-| 📦 Unrealized | $-4 |
-| 🏦 Total | **$-211** |
+| 📦 Unrealized | $-37 |
+| 🏦 Total | **$-244** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.6x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHILLBLI | $0.000097 | **1.58x** ($+58) | 1.92x |  | pumpswap | 2026-03-20 07:52 |
+| 🟡 CHILLBLI | $0.000097 | **1.22x** ($+22) | 1.92x |  | pumpswap | 2026-03-20 07:52 |
 | 🟡 CHIBI | $0.002054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
-| 🔴 HUGH | $0.002043 | **0.96x** ($-4) | 1.07x |  | pumpswap | 2026-03-20 07:17 |
+| 🔴 HUGH | $0.002043 | **0.99x** ($-1) | 1.17x |  | pumpswap | 2026-03-20 07:17 |
 | 🟡 Pixels | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:57 |
 | 🟡 Freebuff | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:48 |
 | 🟡 AIFRUITS | $0.000790 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |

@@ -1,6 +1,6 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 07:56 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 08:01 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 25 (23 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$-7** |
+| 📦 Unrealized | $+72 |
+| 🏦 Total | **$-14** |
 | Best Trade | 0.7x |
 | Avg Peak | 3.0x |
 
@@ -18,20 +18,20 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 USI | $0.000003 | **1.02x** ($+2) | 1.03x |  | pumpfun | 2026-03-20 07:49 |
-| 🔴 awkward | $0.000021 | **0.65x** ($-35) | 1.64x |  | pumpfun | 2026-03-20 07:21 |
+| 🟡 USI | $0.000003 | **1.01x** ($+1) | 1.03x |  | pumpfun | 2026-03-20 07:49 |
+| 🔴 awkward | $0.000021 | **0.62x** ($-38) | 1.64x |  | pumpfun | 2026-03-20 07:21 |
 | 🔴 jerk | $0.000004 | **0.63x** ($-37) | 1.65x |  | pumpfun | 2026-03-20 06:35 |
 | 🔴 TD9FQMu7 | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 05:42 |
 | 🔴 NBR | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 05:40 |
 | 🔴 ABsNV1Eg | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 05:39 |
-| 🟡 WRT | $0.000003 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 05:21 |
+| 🟡 WRT | $0.000003 | **1.17x** ($+17) | 1.20x |  | pumpfun | 2026-03-20 05:21 |
 | 🔴 BBX | $0.000004 | **0.98x** ($-2) | 1.09x |  | pumpfun | 2026-03-20 05:19 |
 | 🟡 NBR | $0.000003 | **1.12x** ($+12) | 1.14x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 JFR | $0.000003 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 GxZGb4wQ | $0.000003 | **1.08x** ($+8) | 1.18x |  | pumpfun | 2026-03-20 04:38 |
 | 🔴 OSP | $0.000004 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 04:26 |
 | 🔴 OSP | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 04:25 |
-| 🟡 MSBT | $0.000004 | **1.46x** ($+46) | 1.54x |  | pumpfun | 2026-03-20 04:24 |
+| 🟡 MSBT | $0.000004 | **1.45x** ($+45) | 1.54x |  | pumpfun | 2026-03-20 04:24 |
 | 🟡 C34FiRrM | $0.000003 | **1.03x** ($+3) | 1.11x |  | pumpfun | 2026-03-20 04:05 |
 | 🟡 2PQ1tBc5 | $0.000003 | **1.03x** ($+3) | 1.12x |  | pumpfun | 2026-03-20 03:49 |
 | 🟡 USRNR | $0.000004 | **1.59x** ($+59) | 1.60x |  | pumpfun | 2026-03-20 03:24 |
