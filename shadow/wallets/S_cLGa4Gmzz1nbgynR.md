@@ -1,25 +1,26 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:09 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 149 (143 open, 6 closed) |
+| Positions | 150 (144 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $+282 |
-| 🏦 Total | **$+4** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.54x |
+| 📦 Unrealized | $+281 |
+| 🏦 Total | **$+2** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 plumber | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |
 | 🟡 forg | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
-| 🔴 brainrot | $0.000140 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
+| 🔴 brainrot | $0.000140 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:04 |
 | 🟡 Doolysaurus | $0.000148 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:57 |
 | 🟡 驚き | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:50 |
 | 🟡 JACKPOT | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:48 |
@@ -27,7 +28,7 @@
 | 🟡 Saxophones | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:40 |
 | 🟡 effect | $0.000093 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🟡 MIM | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
-| 🟡 MAPLE | $0.000045 | **1.01x** ($+1) | 1.10x |  | pumpswap | 2026-03-20 13:19 |
+| 🟡 MAPLE | $0.000045 | **1.02x** ($+2) | 1.10x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 MINDLESS | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:16 |
 | 🟡 butthole | $0.000117 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 ZeroG | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:39 |

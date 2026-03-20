@@ -1,23 +1,24 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 14:09 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 14:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 117 (116 open, 1 closed) |
+| Positions | 118 (117 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+127 |
-| 🏦 Total | **$+50** |
-| Best ROI | 0.23x |
-| Avg ROI | 0.23x |
+| 📦 Unrealized | $+126 |
+| 🏦 Total | **$+49** |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Ouroboros | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 effect | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:08 |
 | 🟡 JACKPOT | $0.000057 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:48 |
 | 🟡 CHIBIELON | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
@@ -133,7 +134,7 @@
 | 🟡 我的刀盾 | $0.003081 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-19 22:45 |
 | 🔴 Foodrot | $0.000150 | **0.94x** ($-6) | 1.11x |  | pumpswap | 2026-03-19 22:41 |
 | 🔴 Raccoon | $0.000013 | **0.97x** ($-3) | 1.29x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000394 | **1.53x** ($+53) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000394 | **1.52x** ($+52) | 1.68x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

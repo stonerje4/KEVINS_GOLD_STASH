@@ -1,26 +1,28 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:09 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 37 (37 open, 0 closed) |
+| Positions | 39 (39 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+62 |
-| 🏦 Total | **$+62** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+28 |
+| 🏦 Total | **$+28** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CWewsqNw | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:10 |
+| 🔴 CULTURE | $0.000007 | **0.69x** ($-31) | 1.44x |  | pumpfun | 2026-03-20 14:10 |
 | 🟡 HUGH | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:07 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:04 |
-| 🔴 USGR | $0.000003 | **0.98x** ($-2) | 1.04x |  | pumpfun | 2026-03-20 14:01 |
+| 🔴 USGR | $0.000003 | **0.96x** ($-4) | 1.06x |  | pumpfun | 2026-03-20 14:01 |
 | 🟡 War | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:57 |
 | 🟡 USGR | $0.000003 | **1.10x** ($+10) | 1.17x |  | pumpfun | 2026-03-20 13:56 |
 | 🔴 Gg39pYf9 | $0.000001 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 13:29 |

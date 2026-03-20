@@ -1,26 +1,28 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 14:09 UTC
+> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 14:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (22 open, 0 closed) |
+| Positions | 24 (24 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+216 |
-| 🏦 Total | **$+216** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+208 |
+| 🏦 Total | **$+208** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NBR | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
+| 🟡 BOURBON | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:09 |
 | 🟡 5WQE4u3F | $0.000003 | **1.26x** ($+26) | 1.26x |  | pumpfun | 2026-03-20 13:59 |
 | 🟡 AEq2EbgJ | $0.000003 | **1.12x** ($+12) | 1.20x |  | pumpfun | 2026-03-20 13:58 |
-| 🟡 USGR | $0.000003 | **1.16x** ($+16) | 1.37x |  | pumpfun | 2026-03-20 13:58 |
+| 🟡 USGR | $0.000003 | **1.08x** ($+8) | 1.37x |  | pumpfun | 2026-03-20 13:58 |
 | 🟡 Luxury | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟡 $PEPETO | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
 | 🟡 USDC | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:46 |

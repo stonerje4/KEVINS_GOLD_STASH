@@ -1,6 +1,6 @@
 # Wallet: `44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw`
 
-> [View on Solscan](https://solscan.io/account/44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw) | Updated: 2026-03-20 14:09 UTC
+> [View on Solscan](https://solscan.io/account/44XqRd83N9yzcMMEMAS3aVmXf1BNTi5qwxD8pRKi6Dzw) | Updated: 2026-03-20 14:14 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+61 |
-| 🏦 Total | **$+61** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+59 |
+| 🏦 Total | **$+59** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 USGR | $0.000003 | **1.02x** ($+2) | 1.03x |  | pumpfun | 2026-03-20 14:04 |
+| 🔴 USGR | $0.000003 | **0.99x** ($-1) | 1.03x |  | pumpfun | 2026-03-20 14:04 |
 | 🟡 USGR | $0.000003 | **1.25x** ($+25) | 1.25x |  | pumpfun | 2026-03-20 13:59 |
 | 🟡 UGCR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:12 |
 | 🟡 OSP | $0.000003 | **1.13x** ($+13) | 1.19x |  | pumpfun | 2026-03-20 09:31 |
