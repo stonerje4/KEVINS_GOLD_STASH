@@ -1,6 +1,6 @@
 # Wallet: `Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv`
 
-> [View on Solscan](https://solscan.io/account/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | Updated: 2026-03-20 01:19 UTC
+> [View on Solscan](https://solscan.io/account/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | Updated: 2026-03-20 01:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-20** |
+| 📦 Unrealized | $-15 |
+| 🏦 Total | **$-15** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 tinfoil | $0.000049 | **1.00x** ($+0) | 1.21x |  | pumpswap | 2026-03-20 00:35 |
+| 🟡 tinfoil | $0.000049 | **1.06x** ($+6) | 1.21x |  | pumpswap | 2026-03-20 00:35 |
 | 🔴 XAI | $0.000011 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-19 23:36 |
 | 🔴 xAI | $0.000025 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-19 23:34 |
 

@@ -1,6 +1,6 @@
 # Wallet: `3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc`
 
-> [View on Solscan](https://solscan.io/account/3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc) | Updated: 2026-03-20 01:19 UTC
+> [View on Solscan](https://solscan.io/account/3jKwp9dY9PWxpzr7Hxmm64ZhJBhGWvXmKP8Xcc5opcMc) | Updated: 2026-03-20 01:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-131 |
-| 🏦 Total | **$-131** |
+| 📦 Unrealized | $-135 |
+| 🏦 Total | **$-135** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -21,7 +21,7 @@
 | 🔴 Charles | $0.000005 | **0.55x** ($-45) | 1.24x |  | pumpfun | 2026-03-20 00:17 |
 | 🔴 Roast | $0.000007 | **0.42x** ($-58) | 1.40x |  | pumpswap | 2026-03-20 00:07 |
 | 🔴 POUCH | $0.000004 | **0.90x** ($-10) | 1.19x |  | pumpfun | 2026-03-20 00:02 |
-| 🔴 LIBERTY | $0.000052 | **0.81x** ($-19) | 1.62x |  | pumpswap | 2026-03-19 23:50 |
+| 🔴 LIBERTY | $0.000052 | **0.78x** ($-22) | 1.62x |  | pumpswap | 2026-03-19 23:50 |
 
 ## Closed Positions
 

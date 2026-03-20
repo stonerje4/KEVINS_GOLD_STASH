@@ -1,6 +1,6 @@
 # Wallet: `D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq`
 
-> [View on Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 01:19 UTC
+> [View on Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 01:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+102 |
-| 🏦 Total | **$+102** |
+| 📦 Unrealized | $+108 |
+| 🏦 Total | **$+108** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Optimistic | $0.000667 | **1.22x** ($+22) | 1.34x |  | pumpswap | 2026-03-20 00:51 |
-| 🟢 CHIBI | $0.000342 | **3.01x** ($+201) | 3.22x | ✅ | pumpswap | 2026-03-19 22:53 |
+| 🟡 Optimistic | $0.000667 | **1.27x** ($+27) | 1.34x |  | pumpswap | 2026-03-20 00:51 |
+| 🟢 CHIBI | $0.000342 | **3.02x** ($+202) | 3.22x | ✅ | pumpswap | 2026-03-19 22:53 |
 
 ## Closed Positions
 

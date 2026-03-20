@@ -1,6 +1,6 @@
 # Wallet: `Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD`
 
-> [View on Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 01:19 UTC
+> [View on Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 01:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+55 |
-| 🏦 Total | **$+55** |
+| 📦 Unrealized | $+60 |
+| 🏦 Total | **$+60** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 forg | $0.000108 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 01:00 |
-| 🟢 GPD | $0.000024 | **2.28x** ($+128) | 2.62x | ✅ | pumpswap | 2026-03-20 00:28 |
+| 🔴 forg | $0.000108 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:00 |
+| 🟢 GPD | $0.000024 | **2.63x** ($+163) | 3.68x | ✅ | pumpswap | 2026-03-20 00:28 |
 
 ## Closed Positions
 

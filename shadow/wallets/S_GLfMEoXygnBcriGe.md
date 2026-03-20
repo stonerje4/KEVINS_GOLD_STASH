@@ -1,6 +1,6 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 01:19 UTC
+> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 01:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-23 |
-| 🏦 Total | **$-23** |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-13** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 GOBLIN | $0.000016 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 01:11 |
-| 🟡 herm | $0.000170 | **1.06x** ($+6) | 1.14x |  | pumpswap | 2026-03-20 00:33 |
+| 🔴 GOBLIN | $0.000016 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:11 |
+| 🟡 herm | $0.000170 | **1.13x** ($+13) | 1.17x |  | pumpswap | 2026-03-20 00:33 |
 | 🔴 jeff | $0.000025 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:26 |
-| 🔴 POLSIA | $0.000136 | **0.90x** ($-10) | 1.05x |  | pumpswap | 2026-03-20 00:08 |
+| 🔴 POLSIA | $0.000136 | **0.93x** ($-7) | 1.05x |  | pumpswap | 2026-03-20 00:08 |
 | 🔴 Out | $0.000022 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-19 22:52 |
 | 🔴 Chud | $0.000686 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:45 |
-| 🟡 Fro | $0.000158 | **1.44x** ($+44) | 2.06x | ✅ | pumpswap | 2026-03-19 22:38 |
+| 🟡 Fro | $0.000158 | **1.46x** ($+46) | 2.06x | ✅ | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

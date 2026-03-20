@@ -1,6 +1,6 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 01:19 UTC
+> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 01:24 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-9 |
+| 📦 Unrealized | $-8 |
 | 🏦 Total | **$-26** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PESSIMIST | $0.000004 | **0.79x** ($-21) | 1.10x |  | pumpfun | 2026-03-20 00:57 |
+| 🔴 PESSIMIST | $0.000004 | **0.71x** ($-29) | 1.10x |  | pumpfun | 2026-03-20 00:57 |
 | 🔴 DORO | $0.000005 | **0.78x** ($-22) | 1.27x |  | pumpfun | 2026-03-20 00:44 |
-| 🟡 DLORP | $0.000007 | **1.27x** ($+27) | 1.96x |  | pumpswap | 2026-03-20 00:15 |
+| 🟡 DLORP | $0.000007 | **1.35x** ($+35) | 1.96x |  | pumpswap | 2026-03-20 00:15 |
 | 🟡 world | $0.000022 | **1.67x** ($+67) | 1.67x |  | pumpfun | 2026-03-20 00:12 |
 | 🔴 Balenciaga | $0.000004 | **0.62x** ($-38) | 1.78x |  | pumpfun | 2026-03-20 00:09 |
 | 🟡 TENDIES | $0.000015 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:42 |

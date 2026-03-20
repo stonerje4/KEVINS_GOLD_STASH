@@ -1,6 +1,6 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 01:19 UTC
+> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 01:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+30 |
-| 🏦 Total | **$+30** |
+| 📦 Unrealized | $+42 |
+| 🏦 Total | **$+42** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chibi | $0.000006 | **1.14x** ($+14) | 1.36x |  | cpmm | 2026-03-20 00:50 |
+| 🟡 Chibi | $0.000006 | **1.26x** ($+26) | 1.36x |  | cpmm | 2026-03-20 00:50 |
 | 🟡 RWA | $139.856155 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-19 23:32 |
 | 🟡 FKH | $0.000015 | **1.32x** ($+32) | 2.09x | ✅ | pumpswap | 2026-03-19 22:56 |
 
