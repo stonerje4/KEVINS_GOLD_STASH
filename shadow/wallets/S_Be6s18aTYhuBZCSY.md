@@ -1,6 +1,6 @@
 # Wallet: `Be6s18aTYhuBZCSY5Z3MRZ3Qc9ia6n5rmES7xuHRcoaW`
 
-> [View on Solscan](https://solscan.io/account/Be6s18aTYhuBZCSY5Z3MRZ3Qc9ia6n5rmES7xuHRcoaW) | Updated: 2026-03-20 03:44 UTC
+> [View on Solscan](https://solscan.io/account/Be6s18aTYhuBZCSY5Z3MRZ3Qc9ia6n5rmES7xuHRcoaW) | Updated: 2026-03-20 03:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$+6** |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$+8** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 FLOKI | $0.000004 | **1.02x** ($+2) | 1.36x |  | pumpswap | 2026-03-20 03:27 |
+| 🟡 FLOKI | $0.000004 | **1.03x** ($+3) | 1.36x |  | pumpswap | 2026-03-20 03:27 |
 | 🟡 QRK | $0.000002 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 01:43 |
 | 🟡 herry | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 01:42 |
 

@@ -1,12 +1,12 @@
 # Wallet: `2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW`
 
-> [View on Solscan](https://solscan.io/account/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | Updated: 2026-03-20 03:44 UTC
+> [View on Solscan](https://solscan.io/account/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | Updated: 2026-03-20 03:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+1 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Genesis-2 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:47 |
 | 🟡 glorp | $0.000004 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 distraction | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 

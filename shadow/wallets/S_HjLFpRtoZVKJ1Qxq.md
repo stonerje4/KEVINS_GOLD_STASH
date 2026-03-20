@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 03:44 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 03:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 64 (63 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-52 |
-| 🏦 Total | **$-129** |
+| 📦 Unrealized | $-59 |
+| 🏦 Total | **$-136** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Gascoin | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
+| 🔴 Gascoin | $0.000033 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 VAFR | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 | 🟡 UGOR | $0.000938 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🔴 SAID | $0.000286 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-20 03:15 |

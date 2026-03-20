@@ -1,12 +1,12 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 03:44 UTC
+> [View on Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 03:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (9 open, 0 closed) |
+| Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+16 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 GMESHIRE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 BBBY | $0.000010 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 03:36 |
 | 🟡 HIMS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 nl | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:17 |

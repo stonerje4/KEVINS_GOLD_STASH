@@ -1,23 +1,24 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 03:44 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 03:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (17 open, 3 closed) |
-| W/L | 1/2 (33%) |
-| 💵 Realized | $-84 |
-| 📦 Unrealized | $-321 |
-| 🏦 Total | **$-406** |
+| Positions | 22 (18 open, 4 closed) |
+| W/L | 1/3 (25%) |
+| 💵 Realized | $-145 |
+| 📦 Unrealized | $-294 |
+| 🏦 Total | **$-440** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.3x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 HHxWiMez | $0.000005 | **1.27x** ($+27) | 1.27x |  | pumpfun | 2026-03-20 03:49 |
 | 🔴 59DQqRKs | $0.000005 | **0.46x** ($-54) | 1.06x |  | pumpfun | 2026-03-20 03:38 |
 | 🔴 2NbLjyqS | $0.000003 | **0.72x** ($-28) | 1.32x |  | pumpfun | 2026-03-20 02:57 |
 | 🟡 Sentinel | $0.000006 | **1.10x** ($+10) | 1.75x |  | pumpfun | 2026-03-20 02:54 |
@@ -40,6 +41,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 OFFLINE | 0.39x | $-61 | stop_loss | 1.01x | pumpfun | 2026-03-20 03:47 → 2026-03-20 03:47 |
 | 🔴 SINGULARITY | 0.40x | $-60 | stop_loss | 1.25x | pumpfun | 2026-03-20 02:56 → 2026-03-20 02:57 |
 | 🟡 MINKA | 1.36x | $+36 | trailing_stop_4x | 4.16x | pumpfun | 2026-03-20 02:35 → 2026-03-20 02:54 |
 | 🔴 IDR | 0.40x | $-60 | stop_loss | 1.62x | pumpfun | 2026-03-20 02:30 → 2026-03-20 02:33 |

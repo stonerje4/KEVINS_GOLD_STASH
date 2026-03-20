@@ -1,16 +1,16 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:44 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 03:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 107 (105 open, 2 closed) |
+| Positions | 109 (107 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $+105 |
-| 🏦 Total | **$+344** |
+| 📦 Unrealized | $+104 |
+| 🏦 Total | **$+342** |
 | Best Trade | 2.9x |
 | Avg Peak | 6.2x |
 
@@ -18,10 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PYRO | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
+| 🔴 Gascoin | $0.000031 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
+| 🟡 HOSPICE | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:47 |
+| 🟡 PYRO | $0.000036 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 UGOR | $0.000907 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 BioLLM | $0.000102 | **1.40x** ($+40) | 1.40x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000102 | **1.37x** ($+37) | 1.40x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CHIBI | $0.000747 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 CIRCLES | $0.000065 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
 | 🟡 APES | $0.000172 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:14 |
@@ -96,7 +98,7 @@
 | 🔴 UFO | $0.000105 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-19 23:46 |
 | 🟡 Solana | $0.000187 | **1.03x** ($+3) | 1.19x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 bio/acc | $0.000018 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-19 23:41 |
-| 🔴 OILINU | $0.000089 | **0.92x** ($-8) | 1.01x |  | pumpswap | 2026-03-19 23:38 |
+| 🔴 OILINU | $0.000089 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-19 23:38 |
 | 🟢 唐子兵法 | $0.001340 | **3.26x** ($+226) | 3.38x | ✅ | pumpswap | 2026-03-19 23:38 |
 | 🟡 XAI | $0.000162 | **1.62x** ($+62) | 2.08x | ✅ | pumpswap | 2026-03-19 23:36 |
 | 🟡 XAIC | $0.000191 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-19 23:30 |

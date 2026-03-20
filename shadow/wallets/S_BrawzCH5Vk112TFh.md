@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 03:44 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 03:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 131 (130 open, 1 closed) |
+| Positions | 132 (131 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+199 |
-| 📦 Unrealized | $+192 |
-| 🏦 Total | **$+391** |
+| 📦 Unrealized | $+188 |
+| 🏦 Total | **$+386** |
 | Best Trade | 3.0x |
 | Avg Peak | 9.7x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Gascoin | $0.000032 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
+| 🟡 PYRO | $0.000036 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:46 |
+| 🔴 Gascoin | $0.000032 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 IShowSpeed | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 WhiteBoy  | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🟡 UGOR | $0.000908 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
 | 🟡 Gayatollah | $0.000005 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 03:23 |
-| 🟡 BioLLM | $0.000101 | **1.42x** ($+42) | 1.42x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000101 | **1.39x** ($+39) | 1.42x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CHIBI | $0.000747 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 CIRCLES | $0.000064 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
 | 🟡 CTWIKI | $0.000051 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 03:17 |
