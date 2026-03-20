@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
@@ -9,23 +9,23 @@
 | Positions | 78 (71 open, 7 closed) |
 | W/L | 2/5 (29%) |
 | 💵 Realized | $-209 |
-| 📦 Unrealized | $-133 |
-| 🏦 Total | **$-342** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.70x |
+| 📦 Unrealized | $-87 |
+| 🏦 Total | **$-296** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 YEPE | $0.000101 | **1.07x** ($+7) | 1.13x |  | pumpswap | 2026-03-20 15:11 |
-| 🟡 clod | $0.000024 | **1.14x** ($+14) | 1.19x |  | pumpswap | 2026-03-20 15:02 |
-| 🔴 Chuck | $0.000485 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
-| 🟡 Chuck | $0.000346 | **1.33x** ($+33) | 1.57x |  | pumpswap | 2026-03-20 14:53 |
+| 🟡 YEPE | $0.000101 | **1.06x** ($+6) | 1.13x |  | pumpswap | 2026-03-20 15:11 |
+| 🟡 clod | $0.000024 | **1.26x** ($+26) | 1.33x |  | pumpswap | 2026-03-20 15:02 |
+| 🔴 Chuck | $0.000485 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 14:57 |
+| 🟡 Chuck | $0.000346 | **1.70x** ($+70) | 1.72x |  | pumpswap | 2026-03-20 14:53 |
 | 🟡 Nigel | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:19 |
 | 🟡 effect | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:08 |
-| 🟡 Simulation | $0.000022 | **1.05x** ($+5) | 1.07x |  | pumpswap | 2026-03-20 14:02 |
-| 🔴 Doolysaurus | $0.000118 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:00 |
+| 🟡 Simulation | $0.000022 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
+| 🟡 Doolysaurus | $0.000118 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 14:00 |
 | 🟡 CHANNELS | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:59 |
 | 🟡 Freebuff | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
 | 🟡 Fro | $0.000128 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 13:36 |
@@ -65,19 +65,19 @@
 | 🟡 Luxury | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:50 |
 | 🟡 DLORP | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:28 |
 | 🟡 FKH | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:54 |
-| 🔴 PIKAHORSE | $0.000235 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 03:31 |
+| 🔴 PIKAHORSE | $0.000235 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 03:31 |
 | 🟡 BOAT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:25 |
 | 🟡 ELEPHANT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
 | 🔴 Beecat | $0.000005 | **0.92x** ($-8) | 1.05x |  | pumpswap | 2026-03-20 02:44 |
 | 🔴 whiskers | $0.000008 | **0.95x** ($-5) | 1.02x |  | pumpswap | 2026-03-20 02:08 |
 | 🔴 Samba | $0.000006 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-20 01:26 |
-| 🔴 Downald | $0.000735 | **0.87x** ($-13) | 1.03x |  | pumpswap | 2026-03-20 01:18 |
+| 🔴 Downald | $0.000735 | **0.86x** ($-14) | 1.03x |  | pumpswap | 2026-03-20 01:18 |
 | 🔴 Manosphere | $0.000007 | **0.87x** ($-13) | 1.04x |  | pumpswap | 2026-03-20 01:10 |
 | 🔴 TMRW | $0.000011 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:10 |
 | 🟡 Ham | $0.000035 | **1.16x** ($+16) | 1.97x |  | pumpswap | 2026-03-20 00:58 |
 | 🔴 ROME | $0.000010 | **0.99x** ($-1) | 1.52x |  | pumpswap | 2026-03-20 00:47 |
 | 🔴 NBR | $0.000093 | **0.81x** ($-19) | 1.12x |  | pumpswap | 2026-03-20 00:30 |
-| 🟢 Rocky | $0.000033 | **2.33x** ($+133) | 2.60x | ✅ | pumpswap | 2026-03-20 00:29 |
+| 🟢 Rocky | $0.000033 | **2.37x** ($+137) | 2.60x | ✅ | pumpswap | 2026-03-20 00:29 |
 | 🔴 CHIBI | $0.000067 | **0.86x** ($-14) | 1.18x |  | pumpswap | 2026-03-20 00:25 |
 | 🟡 Raccoon | $0.000011 | **1.13x** ($+13) | 1.49x |  | pumpswap | 2026-03-20 00:18 |
 | 🔴 LIBERTY | $0.000043 | **0.83x** ($-17) | 1.13x |  | pumpswap | 2026-03-20 00:10 |

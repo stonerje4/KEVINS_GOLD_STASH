@@ -1,6 +1,6 @@
 # Wallet: `Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD`
 
-> [View on Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
-| 📦 Unrealized | $-36 |
-| 🏦 Total | **$+12** |
-| Best ROI | 1.48x |
-| Avg ROI | 1.48x |
+| 📦 Unrealized | $-34 |
+| 🏦 Total | **$+14** |
+| Best Trade | 1.5x |
+| Avg Peak | 3.7x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🟡 MINDLESS | $0.000225 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:44 |
 | 🔴 QUEST | $0.000186 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
 | 🟡 KIWI | $0.000164 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
-| 🟡 OPAY | $0.000035 | **1.14x** ($+14) | 1.17x |  | pumpswap | 2026-03-20 02:09 |
+| 🟡 OPAY | $0.000035 | **1.16x** ($+16) | 1.17x |  | pumpswap | 2026-03-20 02:09 |
 | 🔴 GPD | $0.000014 | **0.61x** ($-39) | 1.28x |  | pumpswap | 2026-03-20 01:40 |
 | 🔴 forg | $0.000108 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 01:00 |
 

@@ -1,6 +1,6 @@
 # Wallet: `Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL`
 
-> [View on Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 13 (10 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-182 |
-| 📦 Unrealized | $-18 |
-| 🏦 Total | **$-200** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| 📦 Unrealized | $-21 |
+| 🏦 Total | **$-203** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
@@ -26,7 +26,7 @@
 | 🟡 INCOME | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:07 |
 | 🔴 MIM | $0.000004 | **0.59x** ($-41) | 1.28x |  | pumpfun | 2026-03-20 09:21 |
 | 🔴 jDCdHPgk | $0.000006 | **0.46x** ($-54) | 1.98x |  | pumpfun | 2026-03-20 09:04 |
-| 🟢 Income | $0.000006 | **3.05x** ($+205) | 3.51x | ✅ | pumpfun | 2026-03-20 09:03 |
+| 🟢 Income | $0.000006 | **2.97x** ($+197) | 3.51x | ✅ | pumpfun | 2026-03-20 09:03 |
 | 🔴 A1p4jhbm | $0.000003 | **0.91x** ($-9) | 2.30x | ✅ | pumpfun | 2026-03-20 09:03 |
 
 ## Closed Positions

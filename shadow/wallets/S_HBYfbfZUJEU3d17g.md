@@ -1,6 +1,6 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [View on Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
@@ -11,15 +11,15 @@
 | 💵 Realized | $-65 |
 | 📦 Unrealized | $-54 |
 | 🏦 Total | **$-118** |
-| Best ROI | 0.35x |
-| Avg ROI | 0.35x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Obsessed | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
-| 🔴 Fro | $0.000220 | **0.63x** ($-37) | 1.30x |  | pumpswap | 2026-03-20 01:41 |
+| 🔴 Fro | $0.000220 | **0.64x** ($-36) | 1.30x |  | pumpswap | 2026-03-20 01:41 |
 | 🔴 驚き | $0.000017 | **0.83x** ($-17) | 1.08x |  | pumpswap | 2026-03-20 01:13 |
 
 ## Closed Positions

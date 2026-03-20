@@ -1,6 +1,6 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-79 |
 | 📦 Unrealized | $-62 |
 | 🏦 Total | **$-140** |
-| Best ROI | 0.82x |
-| Avg ROI | 0.61x |
+| Best Trade | 0.8x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 

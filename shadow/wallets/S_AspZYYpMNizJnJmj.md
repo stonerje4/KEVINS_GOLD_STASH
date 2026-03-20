@@ -1,18 +1,18 @@
 # Wallet: `AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE`
 
-> [View on Solscan](https://solscan.io/account/AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/AspZYYpMNizJnJmjyAbyBjmmYq4feRc7FyBJLrZezAzE) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (10 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+287 |
-| 🏦 Total | **$+287** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 10 (9 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-80 |
+| 📦 Unrealized | $+294 |
+| 🏦 Total | **$+214** |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -20,9 +20,8 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 8QhGyZEr | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:45 |
-| 🟡 DECEPTICONS | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:38 |
 | 🟡 genocide | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
-| 🚀 Doolysaurus | $0.000010 | **11.63x** ($+1,063) | 11.68x | ✅ | pumpfun | 2026-03-20 10:48 |
+| 🚀 Doolysaurus | $0.000010 | **11.87x** ($+1,087) | 11.93x | ✅ | pumpfun | 2026-03-20 10:48 |
 | 🟡 Chibify | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
 | 🟡 Freddie | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:31 |
@@ -33,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 DECEPTICONS | 0.20x | $-80 | stop_loss | 1.00x | pumpfun | 2026-03-20 11:38 → 2026-03-20 15:13 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

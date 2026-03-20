@@ -1,18 +1,18 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (19 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+118 |
-| 🏦 Total | **$+118** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 19 (18 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-84 |
+| 📦 Unrealized | $+129 |
+| 🏦 Total | **$+46** |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -20,14 +20,13 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LEE | $0.000008 | **1.15x** ($+15) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 CHUCK | $0.000018 | **0.84x** ($-16) | 1.36x |  | pumpfun | 2026-03-20 14:37 |
-| 🟢 Chuck | $0.000195 | **2.37x** ($+137) | 2.78x | ✅ | pumpswap | 2026-03-20 14:26 |
+| 🟢 Chuck | $0.000195 | **3.01x** ($+201) | 3.06x | ✅ | pumpswap | 2026-03-20 14:26 |
 | 🟡 Nigel | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
-| 🟡 DECEPTICONS | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:37 |
 | 🟡 Hermes | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 ANIME | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:50 |
 | 🟡 Freddie | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:32 |
-| 🔴 Income | $0.000034 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
+| 🔴 Income | $0.000034 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000017 | **2.20x** ($+120) | 2.20x | ✅ | pumpfun | 2026-03-20 09:51 |
 | 🟡 CHIBI | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:50 |
@@ -42,6 +41,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 DECEPTICONS | 0.16x | $-84 | stop_loss | 1.00x | pumpfun | 2026-03-20 11:37 → 2026-03-20 15:13 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

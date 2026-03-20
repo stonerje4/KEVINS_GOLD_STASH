@@ -1,6 +1,6 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 28 (28 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+208 |
-| 🏦 Total | **$+208** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+212 |
+| 🏦 Total | **$+212** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 e-CNY | $0.000003 | **1.06x** ($+6) | 1.18x |  | pumpfun | 2026-03-20 15:11 |
+| 🟡 e-CNY | $0.000003 | **1.10x** ($+10) | 1.18x |  | pumpfun | 2026-03-20 15:11 |
 | 🟡 e-CNY | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🔴 PL | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:37 |
 | 🟡 4QQiUarf | $0.000003 | **1.03x** ($+3) | 1.12x |  | pumpfun | 2026-03-20 14:21 |

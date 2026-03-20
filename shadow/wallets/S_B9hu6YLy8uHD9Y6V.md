@@ -1,18 +1,18 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 134 (5 open, 129 closed) |
-| W/L | 0/129 (0%) |
-| 💵 Realized | $-12,887 |
+| Positions | 135 (5 open, 130 closed) |
+| W/L | 0/130 (0%) |
+| 💵 Realized | $-12,987 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-12,887** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-12,987** |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -28,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:13 → 2026-03-20 15:13 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:11 → 2026-03-20 15:11 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:10 → 2026-03-20 15:10 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:09 → 2026-03-20 15:09 |

@@ -1,6 +1,6 @@
 # Wallet: `2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT`
 
-> [View on Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-35 |
-| 🏦 Total | **$-35** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-56 |
+| 🏦 Total | **$-56** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 SNIFFER | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:23 |
-| 🟡 Judy | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:37 |
+| 🔴 Judy | $0.000027 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 11:37 |
 | 🔴 Pixels | $0.000052 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 10:07 |
 | 🟡 Nigel | $0.000323 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:35 |
 | 🟡 PIXELS | $0.000267 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:09 |

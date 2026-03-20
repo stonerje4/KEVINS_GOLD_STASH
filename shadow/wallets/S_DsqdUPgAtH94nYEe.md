@@ -1,18 +1,18 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 33 (28 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-226 |
+| Positions | 33 (27 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-298 |
 | 📦 Unrealized | $-75 |
-| 🏦 Total | **$-300** |
-| Best ROI | 1.30x |
-| Avg ROI | 0.55x |
+| 🏦 Total | **$-373** |
+| Best Trade | 1.3x |
+| Avg Peak | 1.6x |
 
 ## Open Positions
 
@@ -28,7 +28,6 @@
 | 🟡 28yU23RZ | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |
 | 🟡 DahJ6Acb | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
 | 🟡 8WRgb2Lq | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:45 |
-| 🟡 DECEPTICONS | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:41 |
 | 🟡 Sonny | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
 | 🟡 genocide | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 FMgfgeLF | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
@@ -51,6 +50,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 DECEPTICONS | 0.28x | $-72 | stop_loss | 1.00x | pumpfun | 2026-03-20 11:41 → 2026-03-20 15:13 |
 | 🔴 Ropet | 0.37x | $-63 | stop_loss | 1.48x | pumpfun | 2026-03-20 08:57 → 2026-03-20 08:58 |
 | 🔴 BMpoFKvn | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 08:01 → 2026-03-20 08:04 |
 | 🔴 AVATAR | 0.39x | $-61 | stop_loss | 1.89x | pumpswap | 2026-03-20 06:56 → 2026-03-20 08:52 |

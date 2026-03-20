@@ -1,18 +1,18 @@
 # Wallet: `3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ`
 
-> [View on Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/3tfVhHPmUzeTRihCGnfVFbnMUYibv8emfBTrSSDkRRhQ) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (9 open, 1 closed) |
-| W/L | 1/0 (100%) |
-| 💵 Realized | $+45 |
+| Positions | 10 (8 open, 2 closed) |
+| W/L | 1/1 (50%) |
+| 💵 Realized | $-35 |
 | 📦 Unrealized | $+1 |
-| 🏦 Total | **$+46** |
-| Best ROI | 1.45x |
-| Avg ROI | 1.45x |
+| 🏦 Total | **$-33** |
+| Best Trade | 1.4x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
@@ -20,7 +20,6 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 8QhGyZEr | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:45 |
-| 🟡 DECEPTICONS | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:38 |
 | 🟡 genocide | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
 | 🟡 Chibify | $0.000076 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 DECEPTICONS | 0.20x | $-80 | stop_loss | 1.00x | pumpfun | 2026-03-20 11:38 → 2026-03-20 15:13 |
 | 🟡 Doolysaurus | 1.45x | $+45 | trailing_stop_3x | 3.13x | pumpfun | 2026-03-20 10:48 → 2026-03-20 11:08 |
 
 ---

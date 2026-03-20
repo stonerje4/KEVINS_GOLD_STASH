@@ -1,23 +1,26 @@
 # Wallet: `7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4`
 
-> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (13 open, 6 closed) |
+| Positions | 22 (16 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-599 |
-| 📦 Unrealized | $+32 |
-| 🏦 Total | **$-567** |
-| Best ROI | 0.01x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-5 |
+| 🏦 Total | **$-604** |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 YEPE | $0.000131 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
+| 🔴 BONER | $0.000177 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
+| 🟡 $PRINT | $0.002412 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
 | 🔴 Franklin | $0.000111 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
 | 🟡 BFS | $0.000406 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:49 |
 | 🟡 SFM | $0.000003 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 14:48 |

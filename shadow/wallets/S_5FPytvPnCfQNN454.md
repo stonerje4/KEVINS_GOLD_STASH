@@ -1,6 +1,6 @@
 # Wallet: `5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii`
 
-> [View on Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+8 |
 | 🏦 Total | **$+8** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -27,7 +27,7 @@
 | 🔴 Dickus | $0.000056 | **0.93x** ($-7) | 1.09x |  | pumpswap | 2026-03-20 01:25 |
 | 🔴 plumber | $0.000051 | **0.96x** ($-4) | 1.37x |  | pumpswap | 2026-03-20 00:30 |
 | 🔴 AIFRUIT | $0.000024 | **0.86x** ($-14) | 1.15x |  | pumpswap | 2026-03-19 23:52 |
-| 🟡 Strawberita | $0.000035 | **1.18x** ($+18) | 2.39x | ✅ | pumpswap | 2026-03-19 22:57 |
+| 🟡 Strawberita | $0.000035 | **1.17x** ($+17) | 2.39x | ✅ | pumpswap | 2026-03-19 22:57 |
 | 🟡 MINDLESS | $0.000196 | **1.26x** ($+26) | 1.31x |  | pumpswap | 2026-03-19 22:51 |
 
 ## Closed Positions

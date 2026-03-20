@@ -1,6 +1,6 @@
 # Wallet: `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt`
 
-> [View on Solscan](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-21 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+29** |
-| Best ROI | 0.79x |
-| Avg ROI | 0.79x |
+| 📦 Unrealized | $-2 |
+| 🏦 Total | **$-23** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Doolysaurus | $0.000045 | **2.64x** ($+164) | 2.66x | ✅ | pumpswap | 2026-03-20 11:34 |
-| 🟡 3iyZi3YR | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
+| 🟢 Doolysaurus | $0.000045 | **2.70x** ($+170) | 2.71x | ✅ | pumpswap | 2026-03-20 11:34 |
+| 🔴 3iyZi3YR | $0.000011 | **0.44x** ($-56) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 Dryer | $0.000052 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:44 |
 | 🟡 CHANNELS | $0.000021 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-20 02:18 |
 | 🟡 IMAGINE | $0.000030 | **1.24x** ($+24) | 1.24x |  | pumpfun | 2026-03-20 02:07 |

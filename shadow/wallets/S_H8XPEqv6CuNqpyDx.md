@@ -1,18 +1,18 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 15:12 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 15:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 118 (92 open, 26 closed) |
-| W/L | 2/24 (8%) |
-| 💵 Realized | $-1,144 |
-| 📦 Unrealized | $-1,121 |
-| 🏦 Total | **$-2,266** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.56x |
+| Positions | 118 (91 open, 27 closed) |
+| W/L | 2/25 (7%) |
+| 💵 Realized | $-1,233 |
+| 📦 Unrealized | $-1,123 |
+| 🏦 Total | **$-2,355** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.7x |
 
 ## Open Positions
 
@@ -39,7 +39,6 @@
 | 🟡 Stanley | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:59 |
 | 🟡 Tutu | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:58 |
 | 🟡 A6KdsLpf | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:56 |
-| 🟡 DECEPTICONS | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:53 |
 | 🟡 5vNma6x4 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:52 |
 | 🟡 MYTKN | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:51 |
 | 🟡 Tutu | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:46 |
@@ -53,7 +52,7 @@
 | 🟡 ANIME | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:27 |
 | 🟡 EmH4y6zA | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 Umami | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:20 |
-| 🔴 Income | $0.000035 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
+| 🔴 Income | $0.000035 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 INCOME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 kawaifiy | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 FATE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:04 |
@@ -115,6 +114,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 DECEPTICONS | 0.12x | $-88 | stop_loss | 1.00x | pumpswap | 2026-03-20 11:53 → 2026-03-20 15:13 |
 | 🔴 Doolysaurus | 0.39x | $-61 | stop_loss | 1.66x | pumpfun | 2026-03-20 09:28 → 2026-03-20 09:57 |
 | 🔴 WRONG | 0.40x | $-60 | stop_loss | 1.11x | pumpfun | 2026-03-20 09:23 → 2026-03-20 09:39 |
 | 🔴 VOID | 0.37x | $-63 | stop_loss | 1.06x | cpmm | 2026-03-20 08:59 → 2026-03-20 10:57 |
