@@ -1,6 +1,6 @@
 # Wallet: `JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2`
 
-> [GMGN](https://gmgn.ai/sol/address/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | [Solscan](https://solscan.io/account/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | Updated: 2026-03-20 23:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | [Solscan](https://solscan.io/account/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | Updated: 2026-03-20 23:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (4 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-196 |
-| 📦 Unrealized | $+86 |
-| 🏦 Total | **$-110** |
+| 📦 Unrealized | $+83 |
+| 🏦 Total | **$-113** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.35x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Nonchalant | $0.000021 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 22:52 |
+| 🟡 Nonchalant | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 22:52 |
 | 🟡 stickers | $0.000026 | **1.43x** ($+43) | 1.43x |  | pumpfun | 2026-03-20 22:48 |
-| 🔴 corporate | $0.000017 | **0.62x** ($-38) | 1.00x |  | pumpfun | 2026-03-20 16:40 |
+| 🔴 corporate | $0.000017 | **0.57x** ($-43) | 1.00x |  | pumpfun | 2026-03-20 16:40 |
 | 🟡 Freebuff | $0.000020 | **1.83x** ($+83) | 1.83x |  | pumpfun | 2026-03-20 01:45 |
 
 ## Closed Positions

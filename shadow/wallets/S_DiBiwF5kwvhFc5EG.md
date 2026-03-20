@@ -1,6 +1,6 @@
 # Wallet: `DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft`
 
-> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 23:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-20 23:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (8 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-318 |
-| 📦 Unrealized | $+101 |
-| 🏦 Total | **$-217** |
+| 📦 Unrealized | $+119 |
+| 🏦 Total | **$-199** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.36x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Printer | $0.000006 | **1.96x** ($+96) | 2.10x | ✅ | pumpfun | 2026-03-20 23:09 |
+| 🟢 Printer | $0.000006 | **2.08x** ($+108) | 2.10x | ✅ | pumpfun | 2026-03-20 23:09 |
 | 🔴 FCHqr9vG | $0.000006 | **0.70x** ($-30) | 1.35x |  | pumpfun | 2026-03-20 20:20 |
 | 🟡 Terafab | $0.000018 | **1.16x** ($+16) | 1.19x |  | pumpfun | 2026-03-20 19:09 |
 | 🔴 Delusion | $0.000007 | **0.44x** ($-56) | 1.41x |  | pumpfun | 2026-03-20 17:51 |
 | 🔴 GBN | $0.000019 | **0.48x** ($-52) | 1.69x |  | pumpswap | 2026-03-20 15:43 |
 | 🟢 DICKUS | $0.000014 | **2.64x** ($+164) | 2.64x | ✅ | pumpfun | 2026-03-20 00:50 |
-| 🟡 PIKE | $0.000035 | **1.39x** ($+39) | 1.57x |  | pumpswap | 2026-03-19 23:28 |
-| 🟢 OIIA | $0.000017 | **2.07x** ($+107) | 2.13x | ✅ | pumpswap | 2026-03-19 23:26 |
+| 🟡 PIKE | $0.000035 | **1.46x** ($+46) | 1.59x |  | pumpswap | 2026-03-19 23:28 |
+| 🟢 OIIA | $0.000017 | **2.16x** ($+116) | 2.18x | ✅ | pumpswap | 2026-03-19 23:26 |
 
 ## Closed Positions
 
