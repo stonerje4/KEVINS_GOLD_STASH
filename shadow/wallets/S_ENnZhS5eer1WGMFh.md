@@ -1,16 +1,16 @@
-# Wallet: `4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN`
+# Wallet: `ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F`
 
-> [View on Solscan](https://solscan.io/account/4LRefTc9XjZiMdzzmj4VgijJqUuwLUNDiBHVkUmQXWkN) | Updated: 2026-03-20 01:09 UTC
+> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 01:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-19** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-4** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 F3 | $0.000017 | **0.81x** ($-19) | 1.08x |  | pumpfun | 2026-03-20 00:21 |
+| 🟡 SHOENICE  | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:08 |
+| 🔴 Nigel | $0.000237 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 01:06 |
 
 ## Closed Positions
 

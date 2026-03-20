@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 01:04 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 01:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+23 |
-| 🏦 Total | **$+23** |
+| 📦 Unrealized | $+28 |
+| 🏦 Total | **$+28** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -24,7 +24,7 @@
 | 🔴 Dickus | $0.000003 | **0.92x** ($-8) | 1.15x |  | pumpfun | 2026-03-20 00:19 |
 | 🔴 OMNIMAN | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 00:09 |
 | 🔴 FITR | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-19 23:56 |
-| 🟢 SHELBY | $0.000003 | **3.18x** ($+218) | 4.92x | ✅ | pumpfun | 2026-03-19 23:47 |
+| 🟢 SHELBY | $0.000003 | **3.29x** ($+229) | 4.92x | ✅ | pumpfun | 2026-03-19 23:47 |
 | 🔴 DULISAURUS | $0.000003 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 5GokR6FA | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-19 23:42 |
 | 🔴 BTEBnjqG | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-19 22:52 |

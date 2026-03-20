@@ -1,6 +1,6 @@
 # Wallet: `A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t`
 
-> [View on Solscan](https://solscan.io/account/A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t) | Updated: 2026-03-20 01:04 UTC
+> [View on Solscan](https://solscan.io/account/A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t) | Updated: 2026-03-20 01:09 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 iClaw | $0.000005 | **1.65x** ($+65) | 2.04x | ✅ | pumpswap | 2026-03-20 00:07 |
+| 🟡 iClaw | $0.000005 | **1.64x** ($+64) | 2.04x | ✅ | pumpswap | 2026-03-20 00:07 |
 
 ## Closed Positions
 

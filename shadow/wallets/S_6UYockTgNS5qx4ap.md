@@ -1,6 +1,6 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 01:04 UTC
+> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 01:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+35 |
-| 🏦 Total | **$+35** |
+| 📦 Unrealized | $-5 |
+| 🏦 Total | **$-5** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBITRUMP | $0.000019 | **0.78x** ($-22) | 1.01x |  | pumpswap | 2026-03-20 00:52 |
-| 🟡 CHIBIELON | $0.000008 | **1.06x** ($+6) | 1.10x |  | pumpswap | 2026-03-20 00:49 |
-| 🔴 電王 | $0.000029 | **0.94x** ($-6) | 1.07x |  | pumpfun | 2026-03-20 00:44 |
+| 🔴 CHIBITRUMP | $0.000019 | **0.70x** ($-30) | 1.01x |  | pumpswap | 2026-03-20 00:52 |
+| 🔴 CHIBIELON | $0.000008 | **0.92x** ($-8) | 1.10x |  | pumpswap | 2026-03-20 00:49 |
+| 🔴 電王 | $0.000029 | **0.93x** ($-7) | 1.07x |  | pumpfun | 2026-03-20 00:44 |
 | 🟡 world | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:36 |
-| 🟡 Wolverine | $0.000010 | **1.04x** ($+4) | 1.08x |  | pumpfun | 2026-03-20 00:06 |
+| 🔴 Wolverine | $0.000010 | **0.95x** ($-5) | 1.08x |  | pumpfun | 2026-03-20 00:06 |
 | 🟡 Solana | $0.000190 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-19 23:44 |
-| 🟡 herm | $0.000164 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-19 23:42 |
-| 🟡 CHIBI | $0.000684 | **1.25x** ($+25) | 1.61x |  | pumpswap | 2026-03-19 23:27 |
+| 🟡 herm | $0.000164 | **1.17x** ($+17) | 1.18x |  | pumpswap | 2026-03-19 23:42 |
+| 🟡 CHIBI | $0.000684 | **1.17x** ($+17) | 1.61x |  | pumpswap | 2026-03-19 23:27 |
 
 ## Closed Positions
 

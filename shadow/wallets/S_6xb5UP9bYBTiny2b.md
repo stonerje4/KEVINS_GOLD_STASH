@@ -1,29 +1,29 @@
 # Wallet: `6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y`
 
-> [View on Solscan](https://solscan.io/account/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | Updated: 2026-03-20 01:04 UTC
+> [View on Solscan](https://solscan.io/account/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | Updated: 2026-03-20 01:09 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-54 |
-| 🏦 Total | **$-54** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 1 (0 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-62 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-62** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 STANDING  | $0.000007 | **0.46x** ($-54) | 1.80x |  | pumpfun | 2026-03-20 00:52 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 STANDING  | 0.38x | $-62 | stop_loss | 1.80x | pumpfun | 2026-03-20 00:52 → 2026-03-20 01:06 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

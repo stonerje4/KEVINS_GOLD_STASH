@@ -1,6 +1,6 @@
 # Wallet: `4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc`
 
-> [View on Solscan](https://solscan.io/account/4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc) | Updated: 2026-03-20 01:04 UTC
+> [View on Solscan](https://solscan.io/account/4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc) | Updated: 2026-03-20 01:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$+6** |
+| 📦 Unrealized | $+1 |
+| 🏦 Total | **$+1** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Nigel | $0.000224 | **1.06x** ($+6) | 1.18x |  | pumpswap | 2026-03-20 00:53 |
+| 🟡 Nigel | $0.000224 | **1.01x** ($+1) | 1.18x |  | pumpswap | 2026-03-20 00:53 |
 
 ## Closed Positions
 

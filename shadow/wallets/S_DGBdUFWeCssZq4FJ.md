@@ -1,6 +1,6 @@
 # Wallet: `DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv`
 
-> [View on Solscan](https://solscan.io/account/DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv) | Updated: 2026-03-20 01:04 UTC
+> [View on Solscan](https://solscan.io/account/DGBdUFWeCssZq4FJbNfjH7qiT5secz2KWfLKLT6Bf7rv) | Updated: 2026-03-20 01:09 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-32** |
+| 📦 Unrealized | $-41 |
+| 🏦 Total | **$-41** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 MEMEPAL | $0.000006 | **0.96x** ($-4) | 1.03x |  | pumpfun | 2026-03-20 00:58 |
+| 🔴 MEMEPAL | $0.000006 | **0.88x** ($-12) | 1.03x |  | pumpfun | 2026-03-20 00:58 |
 | 🔴 TPCT | $0.000004 | **0.71x** ($-29) | 1.00x |  | pumpfun | 2026-03-19 23:19 |
 
 ## Closed Positions
