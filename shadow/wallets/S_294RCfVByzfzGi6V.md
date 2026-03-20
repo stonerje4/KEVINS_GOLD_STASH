@@ -1,6 +1,6 @@
 # Wallet: `294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN`
 
-> [View on Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 12:43 UTC
+> [View on Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 12:44 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-96 |
-| 🏦 Total | **$-96** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-99 |
+| 🏦 Total | **$-99** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBI | $0.000017 | **1.36x** ($+36) | 1.36x |  | pumpfun | 2026-03-20 12:30 |
+| 🟡 CHIBI | $0.000017 | **1.32x** ($+32) | 1.37x |  | pumpfun | 2026-03-20 12:30 |
 | 🟡 Rosei | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:46 |
 | 🔴 HUGH | $0.000004 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 05:56 |
 | 🟡 DICKUS | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:31 |

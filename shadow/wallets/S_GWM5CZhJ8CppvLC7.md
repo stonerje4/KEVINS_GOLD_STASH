@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 12:43 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 12:44 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-77 |
 | 📦 Unrealized | $+31 |
 | 🏦 Total | **$-46** |
-| Best Trade | 0.2x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.23x |
+| Avg ROI | 0.23x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🟡 MOCHI | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:03 |
 | 🟡 WIZARD | $0.000319 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:55 |
 | 🔴 CRABBO | $0.000107 | **0.77x** ($-23) | 1.01x |  | pumpswap | 2026-03-20 11:49 |
-| 🟡 fine999.9 | $0.001312 | **1.74x** ($+74) | 3.78x | ✅ | pumpswap | 2026-03-20 11:47 |
+| 🟡 fine999.9 | $0.001312 | **1.77x** ($+77) | 3.78x | ✅ | pumpswap | 2026-03-20 11:47 |
 | 🟡 TERAFAB | $0.000290 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:24 |
 | 🟡 testicle | $0.008017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:23 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
@@ -119,7 +119,7 @@
 | 🟡 buddy | $0.000320 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 HOSPICE | $0.000025 | **0.95x** ($-5) | 1.15x |  | pumpswap | 2026-03-19 23:12 |
 | 🟡 Hamster  | $0.000218 | **1.03x** ($+3) | 1.22x |  | pumpswap | 2026-03-19 23:05 |
-| 🔴 Island | $0.000036 | **0.93x** ($-7) | 1.29x |  | pumpswap | 2026-03-19 23:02 |
+| 🔴 Island | $0.000036 | **0.92x** ($-8) | 1.29x |  | pumpswap | 2026-03-19 23:02 |
 | 🟡 ケイジ | $0.000088 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 Clude | $0.001529 | **0.94x** ($-6) | 1.02x |  | pumpswap | 2026-03-19 22:57 |
 | 🔴 OXIDE | $0.000037 | **0.78x** ($-22) | 1.16x |  | pumpswap | 2026-03-19 22:54 |

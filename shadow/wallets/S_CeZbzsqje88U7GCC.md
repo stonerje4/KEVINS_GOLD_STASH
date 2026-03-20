@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 12:43 UTC
+> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 12:44 UTC
 
 ## Summary
 
@@ -10,9 +10,9 @@
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-104 |
 | 📦 Unrealized | $-18 |
-| 🏦 Total | **$-122** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.0x |
+| 🏦 Total | **$-121** |
+| Best ROI | 1.49x |
+| Avg ROI | 0.74x |
 
 ## Open Positions
 

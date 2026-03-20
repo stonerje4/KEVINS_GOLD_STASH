@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 12:43 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 12:44 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 231 (227 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+17 |
-| 📦 Unrealized | $+24 |
-| 🏦 Total | **$+41** |
-| Best Trade | 3.0x |
-| Avg Peak | 3.4x |
+| 📦 Unrealized | $+23 |
+| 🏦 Total | **$+40** |
+| Best ROI | 2.99x |
+| Avg ROI | 1.04x |
 
 ## Open Positions
 
@@ -233,7 +233,7 @@
 | 🟡 NETANYAHU | $0.000096 | **1.04x** ($+4) | 1.24x |  | pumpswap | 2026-03-19 23:11 |
 | 🔴 HOSPICE | $0.000026 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-19 23:11 |
 | 🟡 Hamster  | $0.000219 | **1.02x** ($+2) | 1.21x |  | pumpswap | 2026-03-19 23:05 |
-| 🔴 Island | $0.000036 | **0.94x** ($-6) | 1.30x |  | pumpswap | 2026-03-19 23:02 |
+| 🔴 Island | $0.000036 | **0.92x** ($-8) | 1.30x |  | pumpswap | 2026-03-19 23:02 |
 | 🔴 PIKAHORSE | $0.000375 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 Chibify | $0.000026 | **1.61x** ($+61) | 2.88x | ✅ | pumpswap | 2026-03-19 22:58 |
 | 🔴 Noesis | $0.000327 | **0.87x** ($-13) | 1.11x |  | pumpswap | 2026-03-19 22:57 |

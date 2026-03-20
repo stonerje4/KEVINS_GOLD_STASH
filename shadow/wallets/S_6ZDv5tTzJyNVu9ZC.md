@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 12:43 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 12:44 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 197 (195 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+390 |
-| 🏦 Total | **$+523** |
-| Best Trade | 2.9x |
-| Avg Peak | 5.4x |
+| 📦 Unrealized | $+389 |
+| 🏦 Total | **$+522** |
+| Best ROI | 2.95x |
+| Avg ROI | 1.67x |
 
 ## Open Positions
 
@@ -196,7 +196,7 @@
 | 🟡 NETANYAHU | $0.000095 | **1.05x** ($+5) | 1.25x |  | pumpswap | 2026-03-19 23:11 |
 | 🟡 Manosphere | $0.000006 | **1.05x** ($+5) | 1.25x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 Hamster  | $0.000227 | **0.99x** ($-1) | 1.17x |  | pumpswap | 2026-03-19 23:05 |
-| 🔴 Island | $0.000036 | **0.93x** ($-7) | 1.29x |  | pumpswap | 2026-03-19 23:02 |
+| 🔴 Island | $0.000036 | **0.92x** ($-8) | 1.29x |  | pumpswap | 2026-03-19 23:02 |
 | 🟡 ケイジ | $0.000089 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 PIKAHORSE | $0.000381 | **0.93x** ($-7) | 1.10x |  | pumpswap | 2026-03-19 22:59 |
 | 🔴 Gerald | $0.000377 | **0.93x** ($-7) | 1.14x |  | pumpswap | 2026-03-19 22:59 |

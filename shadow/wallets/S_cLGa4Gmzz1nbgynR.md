@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 12:43 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 12:44 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 137 (132 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-218 |
-| 📦 Unrealized | $+141 |
-| 🏦 Total | **$-78** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.5x |
+| 📦 Unrealized | $+139 |
+| 🏦 Total | **$-79** |
+| Best ROI | 1.48x |
+| Avg ROI | 0.56x |
 
 ## Open Positions
 
@@ -26,7 +26,7 @@
 | 🟡 Matthew | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 Life | $0.000147 | **0.99x** ($-1) | 1.07x |  | pumpswap | 2026-03-20 11:53 |
 | 🟡 Momo-chan | $0.000315 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:48 |
-| 🟡 fine999.9 | $0.001321 | **1.73x** ($+73) | 3.75x | ✅ | pumpswap | 2026-03-20 11:47 |
+| 🟡 fine999.9 | $0.001321 | **1.75x** ($+75) | 3.75x | ✅ | pumpswap | 2026-03-20 11:47 |
 | 🟡 MOCHI | $0.000122 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:34 |
 | 🟡 AIFRUITS | $0.000517 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
 | 🟡 gugugaga | $0.000149 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
@@ -35,7 +35,7 @@
 | 🟡 IMAGINE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:15 |
 | 🔴 CRABBO | $0.000142 | **0.58x** ($-42) | 1.32x |  | pumpswap | 2026-03-20 10:02 |
 | 🟡 Pixels | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:55 |
-| 🟡 CHIBELON | $0.000110 | **1.09x** ($+9) | 2.29x | ✅ | pumpswap | 2026-03-20 09:32 |
+| 🟡 CHIBELON | $0.000110 | **1.07x** ($+7) | 2.29x | ✅ | pumpswap | 2026-03-20 09:32 |
 | 🔴 MONA | $0.000060 | **0.93x** ($-7) | 1.29x |  | pumpswap | 2026-03-20 08:47 |
 | 🔴 AVATAR | $0.000017 | **0.41x** ($-59) | 1.46x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 Optimistic | $0.000420 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:15 |
@@ -139,7 +139,7 @@
 | 🔴 HOSPICE | $0.000024 | **0.97x** ($-3) | 1.18x |  | pumpswap | 2026-03-19 23:12 |
 | 🔴 NBR | $0.000084 | **0.90x** ($-10) | 1.24x |  | pumpswap | 2026-03-19 23:06 |
 | 🟡 Hamster  | $0.000218 | **1.03x** ($+3) | 1.22x |  | pumpswap | 2026-03-19 23:05 |
-| 🔴 Island | $0.000035 | **0.96x** ($-4) | 1.33x |  | pumpswap | 2026-03-19 23:02 |
+| 🔴 Island | $0.000035 | **0.95x** ($-5) | 1.33x |  | pumpswap | 2026-03-19 23:02 |
 | 🟡 ケイジ | $0.000090 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 PIKAHORSE | $0.000373 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 MIROFISH | $0.000032 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-19 22:58 |

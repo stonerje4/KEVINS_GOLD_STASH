@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:43 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:44 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 405 (400 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,123 |
-| 🏦 Total | **$-1,209** |
-| Best Trade | 2.8x |
-| Avg Peak | 2.2x |
+| 📦 Unrealized | $-1,109 |
+| 🏦 Total | **$-1,195** |
+| Best ROI | 2.75x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
@@ -203,7 +203,7 @@
 | 🟡 BBX | $0.000010 | **1.72x** ($+72) | 1.72x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 APES | $0.000239 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 PAD | $0.000016 | **1.23x** ($+23) | 1.39x |  | pumpswap | 2026-03-20 02:57 |
-| 🔴 42 | $0.000047 | **0.90x** ($-10) | 1.37x |  | pumpswap | 2026-03-20 02:57 |
+| 🟡 42 | $0.000047 | **1.06x** ($+6) | 1.37x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 CARROT | $0.000008 | **1.09x** ($+9) | 1.35x |  | pumpswap | 2026-03-20 02:55 |
 | 🔴 GAS | $0.000009 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🟡 Gany | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:54 |
@@ -387,7 +387,7 @@
 | 🔴 MIM | $0.000066 | **0.95x** ($-5) | 1.11x |  | pumpswap | 2026-03-19 23:05 |
 | 🔴 Octogent | $0.000012 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-19 23:03 |
 | 🔴 페이커 | $0.000007 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-19 23:02 |
-| 🔴 Island | $0.000038 | **0.87x** ($-13) | 1.21x |  | pumpswap | 2026-03-19 23:01 |
+| 🔴 Island | $0.000038 | **0.86x** ($-14) | 1.21x |  | pumpswap | 2026-03-19 23:01 |
 | 🟡 Forget | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 PIKAHORSE | $0.000419 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 Geeked | $0.000021 | **1.20x** ($+20) | 1.31x |  | pumpswap | 2026-03-19 22:57 |
