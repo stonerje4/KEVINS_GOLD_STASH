@@ -1,18 +1,18 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 12:39 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 12:43 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 62 (57 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-198 |
-| 📦 Unrealized | $-111 |
-| 🏦 Total | **$-309** |
-| Best ROI | 1.46x |
-| Avg ROI | 0.60x |
+| Positions | 62 (56 open, 6 closed) |
+| W/L | 2/4 (33%) |
+| 💵 Realized | $-149 |
+| 📦 Unrealized | $-173 |
+| 🏦 Total | **$-322** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
@@ -22,7 +22,6 @@
 | 🟡 LOL | $0.000352 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 DAU | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:59 |
 | 🟡 Saleh | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
-| 🟢 fine999.9 | $0.001470 | **2.55x** ($+155) | 3.37x | ✅ | pumpswap | 2026-03-20 11:48 |
 | 🟡 ceal | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:44 |
 | 🟡 MOCHI | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:41 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
@@ -80,6 +79,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 fine999.9 | 1.49x | $+49 | trailing_stop_3x | 3.37x | pumpswap | 2026-03-20 11:48 → 2026-03-20 12:40 |
 | 🔴 HUGH | 0.40x | $-60 | stop_loss | 1.33x | pumpswap | 2026-03-20 06:17 → 2026-03-20 08:24 |
 | 🔴 Floki | 0.39x | $-61 | stop_loss | 1.13x | pumpswap | 2026-03-20 04:19 → 2026-03-20 04:27 |
 | 🔴 Dickus | 0.40x | $-60 | stop_loss | 1.12x | pumpswap | 2026-03-20 00:53 → 2026-03-20 01:54 |

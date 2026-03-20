@@ -1,6 +1,6 @@
 # Wallet: `Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD`
 
-> [View on Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 12:39 UTC
+> [View on Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 12:43 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+48 |
 | 📦 Unrealized | $-35 |
 | 🏦 Total | **$+13** |
-| Best ROI | 1.48x |
-| Avg ROI | 1.48x |
+| Best Trade | 1.5x |
+| Avg Peak | 3.7x |
 
 ## Open Positions
 

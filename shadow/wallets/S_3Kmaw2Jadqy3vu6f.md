@@ -1,6 +1,6 @@
 # Wallet: `3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx`
 
-> [View on Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-20 12:39 UTC
+> [View on Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-20 12:43 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+1,594 |
-| 🏦 Total | **$+1,594** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+1,598 |
+| 🏦 Total | **$+1,598** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
@@ -20,8 +20,8 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🚀 MyDad | $0.000000 | **20.35x** ($+1,935) | 42.73x | ✅ | pumpswap | 2026-03-20 09:13 |
 | 🔴 ROSE | $0.000006 | **0.84x** ($-16) | 1.03x |  | pumpswap | 2026-03-20 09:07 |
-| 🟡 401k | $0.000008 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-20 08:53 |
-| 🔴 riposhima | $0.000005 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 04:40 |
+| 🟡 401k | $0.000008 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-20 08:53 |
+| 🔴 riposhima | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 BAGWORKOOR | $0.000054 | **1.03x** ($+3) | 1.35x |  | pumpswap | 2026-03-20 04:39 |
 | 🟡 Billy | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:13 |
 | 🚀 GIGACHAD | $0.000000 | **53.44x** ($+5,244) | 100.88x | ✅ | pumpswap | 2026-03-20 03:56 |

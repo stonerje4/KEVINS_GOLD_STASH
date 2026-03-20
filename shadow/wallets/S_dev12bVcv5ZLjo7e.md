@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 12:39 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 12:43 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 89 (87 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $-38 |
-| 🏦 Total | **$-8** |
-| Best ROI | 1.45x |
-| Avg ROI | 1.15x |
+| 📦 Unrealized | $-37 |
+| 🏦 Total | **$-7** |
+| Best Trade | 1.5x |
+| Avg Peak | 3.1x |
 
 ## Open Positions
 
@@ -45,7 +45,7 @@
 | 🔴 $Chibi | $0.000003 | **0.92x** ($-8) | 1.23x |  | pumpfun | 2026-03-20 07:55 |
 | 🟢 COLONEL | $0.000005 | **2.40x** ($+140) | 2.40x | ✅ | pumpfun | 2026-03-20 07:37 |
 | 🟡 CHIBLON | $0.000003 | **1.47x** ($+47) | 2.22x | ✅ | pumpfun | 2026-03-20 07:32 |
-| 🟡 CHIBIFY | $0.000003 | **1.25x** ($+25) | 2.25x | ✅ | pumpfun | 2026-03-20 07:20 |
+| 🟡 CHIBIFY | $0.000003 | **1.21x** ($+21) | 2.25x | ✅ | pumpfun | 2026-03-20 07:20 |
 | 🟡 GLQbYphM | $0.000003 | **1.03x** ($+3) | 1.24x |  | pumpfun | 2026-03-20 07:17 |
 | 🔴 OILLESS | $0.000004 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 07:07 |
 | 🔴 ‎  | $0.000003 | **0.85x** ($-15) | 1.32x |  | pumpfun | 2026-03-20 07:04 |
@@ -56,7 +56,7 @@
 | 🔴 COLONEL | $0.000003 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 06:29 |
 | 🔴 COLONEL | $0.000003 | **0.81x** ($-19) | 1.01x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 COLONEL | $0.000003 | **0.89x** ($-11) | 1.04x |  | pumpfun | 2026-03-20 06:26 |
-| 🟡 Invincible | $0.000007 | **1.28x** ($+28) | 1.38x |  | pumpfun | 2026-03-20 06:20 |
+| 🟡 Invincible | $0.000007 | **1.32x** ($+32) | 1.38x |  | pumpfun | 2026-03-20 06:20 |
 | 🔴 BxrqpHmX | $0.000003 | **0.80x** ($-20) | 1.06x |  | pumpfun | 2026-03-20 06:15 |
 | 🔴 MOCHI | $0.000003 | **0.93x** ($-7) | 1.08x |  | pumpfun | 2026-03-20 05:46 |
 | 🔴 GROGU | $0.000003 | **0.94x** ($-6) | 1.01x |  | pumpfun | 2026-03-20 05:44 |
@@ -98,7 +98,7 @@
 | 🔴 WOJAK | $0.000007 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 00:08 |
 | 🔴 HHSMVCWG | $0.000003 | **0.89x** ($-11) | 1.02x |  | pumpfun | 2026-03-20 00:08 |
 | 🔴 GLANS | $0.000003 | **0.86x** ($-14) | 1.03x |  | pumpfun | 2026-03-20 00:01 |
-| 🟡 chibilon | $0.000003 | **1.03x** ($+3) | 1.35x |  | pumpfun | 2026-03-19 23:57 |
+| 🟡 chibilon | $0.000003 | **1.02x** ($+2) | 1.35x |  | pumpfun | 2026-03-19 23:57 |
 | 🔴 6XBYC7LK | $0.000003 | **0.93x** ($-7) | 1.01x |  | pumpfun | 2026-03-19 23:53 |
 | 🟡 PAI | $0.000004 | **1.20x** ($+20) | 1.20x |  | pumpfun | 2026-03-19 23:44 |
 | 🟡 HVW1onRa | $0.000003 | **1.36x** ($+36) | 1.37x |  | pumpfun | 2026-03-19 23:39 |
