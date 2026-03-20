@@ -1,6 +1,6 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-91 |
-| 🏦 Total | **$-91** |
+| 📦 Unrealized | $-133 |
+| 🏦 Total | **$-133** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Rosei | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
+| 🔴 Rosei | $0.000022 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
 | 🟡 JEREMY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 比比拉布 | $0.000116 | **0.87x** ($-13) | 1.07x |  | pumpswap | 2026-03-20 03:24 |
 | 🟡 IMAGINE | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |

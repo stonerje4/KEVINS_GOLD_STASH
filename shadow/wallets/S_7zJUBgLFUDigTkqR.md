@@ -1,16 +1,16 @@
 # Wallet: `7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i`
 
-> [GMGN](https://gmgn.ai/sol/address/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | [Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | [Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (5 open, 4 closed) |
+| Positions | 10 (6 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-400 |
-| 📦 Unrealized | $-54 |
-| 🏦 Total | **$-453** |
+| 📦 Unrealized | $-47 |
+| 🏦 Total | **$-446** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NBR | $0.000008 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 15:55 |
 | 🟡 ICY | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:58 |
 | 🟡 BBX | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:14 |
 | 🟡 DTC | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:02 |

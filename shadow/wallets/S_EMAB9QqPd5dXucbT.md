@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 33 (31 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-124 |
-| 📦 Unrealized | $-125 |
-| 🏦 Total | **$-249** |
+| 📦 Unrealized | $-200 |
+| 🏦 Total | **$-324** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Wob | $0.000023 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
+| 🔴 Wob | $0.000023 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 Flash | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:43 |
 | 🔴 LUMO | $0.000061 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 10:27 |
 | 🔴 awkward | $0.000013 | **0.89x** ($-11) | 1.34x |  | pumpfun | 2026-03-20 10:09 |
@@ -31,12 +31,12 @@
 | 🔴 plumber | $0.000058 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🔴 MILO | $0.000006 | **0.90x** ($-10) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
 | 🔴 AICOIN | $0.000082 | **0.89x** ($-11) | 1.10x |  | pumpswap | 2026-03-20 03:21 |
-| 🟡 Hamster | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
-| 🔴 LIFE | $0.000040 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
-| 🔴 Spiderman | $0.000203 | **0.54x** ($-46) | 1.07x |  | pumpswap | 2026-03-20 02:11 |
+| 🔴 Hamster | $0.000034 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
+| 🔴 LIFE | $0.000040 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
+| 🔴 Spiderman | $0.000203 | **0.46x** ($-54) | 1.07x |  | pumpswap | 2026-03-20 02:11 |
 | 🔴 Forget | $0.000007 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 01:56 |
-| 🔴 Twin | $0.000154 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 01:55 |
-| 🟡 Gany | $0.000040 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-20 01:52 |
+| 🟡 Twin | $0.000154 | **1.07x** ($+7) | 1.12x |  | pumpswap | 2026-03-20 01:55 |
+| 🔴 Gany | $0.000040 | **0.71x** ($-29) | 1.09x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 tinfoil | $0.000054 | **0.89x** ($-11) | 1.10x |  | pumpswap | 2026-03-20 01:51 |
 | 🟡 tetanus | $0.000012 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 01:51 |
 | 🔴 GPD | $0.000009 | **0.89x** ($-11) | 1.27x |  | pumpswap | 2026-03-20 01:51 |

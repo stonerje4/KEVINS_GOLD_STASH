@@ -1,6 +1,6 @@
 # Wallet: `An6bw7zLwR9CjSNk7pLu1ZHpfPCTMV8UgoR5Ns4gGq1t`
 
-> [GMGN](https://gmgn.ai/sol/address/An6bw7zLwR9CjSNk7pLu1ZHpfPCTMV8UgoR5Ns4gGq1t) | [Solscan](https://solscan.io/account/An6bw7zLwR9CjSNk7pLu1ZHpfPCTMV8UgoR5Ns4gGq1t) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/An6bw7zLwR9CjSNk7pLu1ZHpfPCTMV8UgoR5Ns4gGq1t) | [Solscan](https://solscan.io/account/An6bw7zLwR9CjSNk7pLu1ZHpfPCTMV8UgoR5Ns4gGq1t) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+46 |
-| 🏦 Total | **$+46** |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$+38** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SPACE X | $0.000039 | **1.21x** ($+21) | 1.21x |  | pumpswap | 2026-03-20 15:43 |
-| 🟡 OSP | $0.000008 | **1.25x** ($+25) | 1.55x |  | pumpfun | 2026-03-20 15:24 |
+| 🟡 SPACE X | $0.000039 | **1.34x** ($+34) | 1.34x |  | pumpswap | 2026-03-20 15:43 |
+| 🟡 OSP | $0.000008 | **1.04x** ($+4) | 1.55x |  | pumpfun | 2026-03-20 15:24 |
 
 ## Closed Positions
 

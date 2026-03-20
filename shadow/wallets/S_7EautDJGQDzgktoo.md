@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 31 (24 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-394 |
-| 📦 Unrealized | $-30 |
-| 🏦 Total | **$-424** |
+| 📦 Unrealized | $-75 |
+| 🏦 Total | **$-468** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.44x |
 
@@ -18,17 +18,17 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000332 | **0.68x** ($-32) | 1.16x |  | pumpswap | 2026-03-20 15:15 |
+| 🔴 Chuck | $0.000332 | **0.74x** ($-26) | 1.16x |  | pumpswap | 2026-03-20 15:15 |
 | 🔴 Foodrot | $0.000161 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 15:11 |
-| 🟡 Spiderman | $0.000092 | **1.18x** ($+18) | 1.23x |  | pumpswap | 2026-03-20 12:58 |
+| 🟡 Spiderman | $0.000092 | **1.02x** ($+2) | 1.23x |  | pumpswap | 2026-03-20 12:58 |
 | 🟡 LOL | $0.000455 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 GOONERBI | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Chibis | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:07 |
 | 🟡 MICHIBI | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
-| 🟡 CHIBI | $0.002054 | **1.12x** ($+12) | 1.20x |  | pumpswap | 2026-03-20 07:28 |
+| 🟡 CHIBI | $0.002054 | **1.19x** ($+19) | 1.24x |  | pumpswap | 2026-03-20 07:28 |
 | 🔴 Pixels | $0.000046 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 06:57 |
 | 🟡 Freebuff | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:48 |
-| 🟡 AIFRUITS | $0.000790 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
+| 🔴 AIFRUITS | $0.000790 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
 | 🟡 CL1 | $0.000396 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |
 | 🔴 Downald | $0.000590 | **0.91x** ($-9) | 1.07x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 67 | $0.001291 | **1.20x** ($+20) | 1.23x |  | pumpswap | 2026-03-20 02:57 |

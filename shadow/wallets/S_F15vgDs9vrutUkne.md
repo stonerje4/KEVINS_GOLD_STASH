@@ -1,16 +1,16 @@
 # Wallet: `F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU`
 
-> [GMGN](https://gmgn.ai/sol/address/F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU) | [Solscan](https://solscan.io/account/F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU) | [Solscan](https://solscan.io/account/F15vgDs9vrutUknejy8yeaPyqhb51F6Pu1WG2Ky326RU) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
+| Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-62** |
+| 📦 Unrealized | $+48 |
+| 🏦 Total | **$-14** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Norris | $0.000006 | **1.96x** ($+96) | 2.09x | ✅ | pumpfun | 2026-03-20 16:07 |
 
 ## Closed Positions
 

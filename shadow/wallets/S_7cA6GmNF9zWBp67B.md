@@ -1,16 +1,16 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (23 open, 3 closed) |
+| Positions | 27 (24 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-190 |
-| 📦 Unrealized | $+371 |
-| 🏦 Total | **$+181** |
+| 📦 Unrealized | $+357 |
+| 🏦 Total | **$+167** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.37x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 spec | $0.000024 | **1.31x** ($+31) | 1.38x |  | pumpfun | 2026-03-20 15:59 |
 | 🔴 xAI | $0.000019 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
 | 🔴 Astro | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
-| 🟡 Anime | $0.000013 | **1.08x** ($+8) | 1.09x |  | pumpfun | 2026-03-20 14:39 |
+| 🟡 Anime | $0.000013 | **1.14x** ($+14) | 1.18x |  | pumpfun | 2026-03-20 14:39 |
 | 🟡 imagine | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
 | 🟡 BIBI | $0.000010 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 14:11 |
 | 🟡 Chuck | $0.000014 | **1.21x** ($+21) | 2.02x | ✅ | pumpswap | 2026-03-20 13:59 |
@@ -34,12 +35,12 @@
 | 🔴 Aliens | $0.000104 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 04:48 |
 | 🔴 TRENCHY | $0.000022 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-20 04:23 |
 | 🔴 CHOCOTINA | $0.000007 | **0.76x** ($-24) | 1.14x |  | pumpswap | 2026-03-20 04:17 |
-| 🟡 Dryer | $0.000023 | **1.62x** ($+62) | 1.62x |  | pumpfun | 2026-03-20 03:58 |
+| 🔴 Dryer | $0.000023 | **0.87x** ($-13) | 1.62x |  | pumpfun | 2026-03-20 03:58 |
 | 🟡 NEMO | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:57 |
 | 🟡 Chocolatina | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:42 |
 | 🟡 tinfoil | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 IMAGINE | $0.000119 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
-| 🚀 Chuck | $0.000020 | **10.99x** ($+999) | 23.66x | ✅ | pumpfun | 2026-03-20 02:25 |
+| 🚀 Chuck | $0.000020 | **11.98x** ($+1,098) | 23.66x | ✅ | pumpfun | 2026-03-20 02:25 |
 | 🟡 Cow | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:24 |
 
 ## Closed Positions

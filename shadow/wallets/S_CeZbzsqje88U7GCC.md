@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (15 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-227 |
-| 📦 Unrealized | $+163 |
-| 🏦 Total | **$-63** |
+| 📦 Unrealized | $+140 |
+| 🏦 Total | **$-86** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.62x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Alien | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
-| 🟡 FAKER | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
+| 🔴 FAKER | $0.000049 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 Foodrot | $0.000123 | **1.26x** ($+26) | 1.29x |  | pumpswap | 2026-03-20 13:18 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
 | 🟡 ME | $0.000006 | **1.25x** ($+25) | 1.53x |  | pumpfun | 2026-03-20 12:51 |

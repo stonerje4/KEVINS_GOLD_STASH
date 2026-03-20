@@ -1,6 +1,6 @@
 # Wallet: `2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6`
 
-> [GMGN](https://gmgn.ai/sol/address/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | [Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | [Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (13 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-434 |
-| 📦 Unrealized | $+174 |
-| 🏦 Total | **$-260** |
+| 📦 Unrealized | $+351 |
+| 🏦 Total | **$-83** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -29,7 +29,7 @@
 | 🟡 Garbonzo | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:17 |
 | 🟡 CfDa8np5 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:14 |
 | 🟡 8j6jehro | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:42 |
-| 🚀 Doolysaurus | $0.000011 | **9.33x** ($+833) | 10.98x | ✅ | pumpfun | 2026-03-20 09:27 |
+| 🚀 Doolysaurus | $0.000011 | **17.38x** ($+1,638) | 21.40x | ✅ | pumpfun | 2026-03-20 09:27 |
 | 🔴 Kin-kun | $0.000006 | **0.45x** ($-55) | 1.96x |  | pumpfun | 2026-03-20 07:53 |
 
 ## Closed Positions

@@ -1,16 +1,16 @@
 # Wallet: `7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4`
 
-> [GMGN](https://gmgn.ai/sol/address/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | [Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | [Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (13 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-599 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-618** |
+| Positions | 26 (14 open, 12 closed) |
+| W/L | 0/12 (0%) |
+| 💵 Realized | $-1,198 |
+| 📦 Unrealized | $-20 |
+| 🏦 Total | **$-1,218** |
 | Best ROI | 0.01x |
 | Avg ROI | 0.00x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Accelerando | $0.000056 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 16:04 |
 | 🔴 ASSDAQ | $0.000170 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 15:23 |
 | 🔴 唐子兵法 | $0.000006 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 15:18 |
 | 🟡 pippin | $0.124294 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:14 |
@@ -36,6 +37,12 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 DRUGS | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:59 → 2026-03-20 15:59 |
+| 🔴 DRUGS | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:59 → 2026-03-20 15:59 |
+| 🔴 DRUGS | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:59 → 2026-03-20 15:59 |
+| 🔴 DRUGS | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:59 → 2026-03-20 15:59 |
+| 🔴 DRUGS | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:58 → 2026-03-20 15:59 |
+| 🔴 DRUGS | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:58 → 2026-03-20 15:58 |
 | 🔴 Hosico | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 14:17 → 2026-03-20 14:53 |
 | 🔴 Hosico | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 14:16 → 2026-03-20 14:16 |
 | 🔴 Hosico | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 14:16 → 2026-03-20 14:16 |

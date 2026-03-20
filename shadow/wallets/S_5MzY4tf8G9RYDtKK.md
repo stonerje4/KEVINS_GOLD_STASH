@@ -1,32 +1,33 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 50 (25 open, 25 closed) |
-| W/L | 1/24 (4%) |
-| 💵 Realized | $-1,243 |
-| 📦 Unrealized | $+281 |
-| 🏦 Total | **$-962** |
-| Best ROI | 1.50x |
-| Avg ROI | 0.50x |
+| Positions | 52 (26 open, 26 closed) |
+| W/L | 2/24 (8%) |
+| 💵 Realized | $-1,049 |
+| 📦 Unrealized | $+458 |
+| 🏦 Total | **$-591** |
+| Best ROI | 2.93x |
+| Avg ROI | 0.60x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 MFT | $0.000014 | **0.91x** ($-9) | 1.20x |  | pumpfun | 2026-03-20 16:04 |
+| 🟡 IMAGINE | $0.000050 | **1.02x** ($+2) | 1.09x |  | pumpswap | 2026-03-20 15:52 |
 | 🔴 CHUCK | $0.000012 | **0.81x** ($-19) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
 | 🟡 kinton | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
-| 🟢 Judy | $0.000009 | **2.46x** ($+146) | 2.64x | ✅ | pumpfun | 2026-03-20 10:41 |
-| 🚀 Doolysaurus | $0.000006 | **16.09x** ($+1,509) | 18.93x | ✅ | pumpfun | 2026-03-20 09:52 |
+| 🟢 Judy | $0.000009 | **2.85x** ($+185) | 3.84x | ✅ | pumpfun | 2026-03-20 10:41 |
+| 🚀 Doolysaurus | $0.000006 | **29.98x** ($+2,898) | 36.90x | ✅ | pumpfun | 2026-03-20 09:52 |
 | 🔴 我的猪盾 | $0.000006 | **0.46x** ($-54) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 IMAGINE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |
-| 🟢 IMAGINE | $0.000017 | **3.63x** ($+263) | 5.72x | ✅ | pumpswap | 2026-03-20 05:02 |
 | 🟡 MFT | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🟡 SPARKOS | $0.000109 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:48 |
 | 🟡 W | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:13 |
@@ -56,6 +57,7 @@
 | 🟡 awkward | 0.82x | $-18 | trailing_stop_2x | 2.31x | pumpfun | 2026-03-20 07:16 → 2026-03-20 07:52 |
 | 🔴 startpup | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 06:09 → 2026-03-20 06:22 |
 | 🔴 nickel | 0.40x | $-60 | stop_loss | 1.12x | pumpfun | 2026-03-20 05:32 → 2026-03-20 06:01 |
+| 🟢 IMAGINE | 2.93x | $+193 | trailing_stop_6x | 5.72x | pumpswap | 2026-03-20 05:02 → 2026-03-20 15:52 |
 | 🟡 Civil Claude | 0.84x | $-16 | trailing_stop_2x | 2.16x | pumpfun | 2026-03-20 04:55 → 2026-03-20 11:39 |
 | 🔴 badger | 0.31x | $-69 | stop_loss | 1.07x | pumpfun | 2026-03-20 03:10 → 2026-03-20 03:11 |
 | 🔴 GACEY | 0.39x | $-61 | stop_loss | 1.11x | pumpswap | 2026-03-20 01:50 → 2026-03-20 02:10 |

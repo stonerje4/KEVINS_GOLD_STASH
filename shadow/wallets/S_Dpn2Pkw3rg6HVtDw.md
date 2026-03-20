@@ -1,16 +1,16 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (9 open, 2 closed) |
+| Positions | 12 (10 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $-26 |
-| 🏦 Total | **$-105** |
+| 📦 Unrealized | $-50 |
+| 🏦 Total | **$-129** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.61x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 HELLO | $0.000012 | **0.76x** ($-24) | 1.10x |  | pumpfun | 2026-03-20 16:08 |
 | 🟢 Chuck | $0.000006 | **2.27x** ($+127) | 2.32x | ✅ | pumpfun | 2026-03-20 14:55 |
 | 🔴 CHUCK | $0.000008 | **0.60x** ($-40) | 1.10x |  | pumpfun | 2026-03-20 14:48 |
 | 🟡 됴지님 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:48 |

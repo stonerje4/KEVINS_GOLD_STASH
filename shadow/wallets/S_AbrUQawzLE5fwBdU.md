@@ -1,6 +1,6 @@
 # Wallet: `AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x`
 
-> [GMGN](https://gmgn.ai/sol/address/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | [Solscan](https://solscan.io/account/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | [Solscan](https://solscan.io/account/AbrUQawzLE5fwBdU6bhhVC5C6HL166WJGDWsoQNeiw3x) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-70 |
-| 📦 Unrealized | $+30 |
-| 🏦 Total | **$-40** |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$-32** |
 | Best ROI | 0.30x |
 | Avg ROI | 0.30x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBI | $0.001772 | **1.30x** ($+30) | 1.40x |  | pumpswap | 2026-03-20 07:20 |
+| 🟡 CHIBI | $0.001772 | **1.38x** ($+38) | 1.44x |  | pumpswap | 2026-03-20 07:20 |
 
 ## Closed Positions
 

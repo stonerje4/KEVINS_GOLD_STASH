@@ -1,6 +1,6 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-65 |
-| 📦 Unrealized | $-58 |
-| 🏦 Total | **$-123** |
+| 📦 Unrealized | $-65 |
+| 🏦 Total | **$-130** |
 | Best ROI | 0.35x |
 | Avg ROI | 0.35x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Obsessed | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
-| 🔴 Fro | $0.000220 | **0.59x** ($-41) | 1.30x |  | pumpswap | 2026-03-20 01:41 |
+| 🔴 Fro | $0.000220 | **0.52x** ($-48) | 1.30x |  | pumpswap | 2026-03-20 01:41 |
 | 🔴 驚き | $0.000017 | **0.83x** ($-17) | 1.08x |  | pumpswap | 2026-03-20 01:13 |
 
 ## Closed Positions

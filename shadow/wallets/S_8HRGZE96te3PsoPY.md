@@ -1,6 +1,6 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [GMGN](https://gmgn.ai/sol/address/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | [Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | [Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (10 open, 10 closed) |
 | W/L | 2/8 (20%) |
 | 💵 Realized | $-377 |
-| 📦 Unrealized | $-313 |
-| 🏦 Total | **$-689** |
+| 📦 Unrealized | $-357 |
+| 🏦 Total | **$-734** |
 | Best ROI | 1.44x |
 | Avg ROI | 0.62x |
 
@@ -25,7 +25,7 @@
 | 🔴 CHIBILON | $0.000007 | **0.50x** ($-50) | 1.14x |  | pumpfun | 2026-03-20 07:16 |
 | 🔴 Gurneet | $0.000005 | **0.46x** ($-54) | 1.84x |  | pumpfun | 2026-03-20 07:06 |
 | 🔴 GrwBPsCc | $0.000005 | **0.49x** ($-51) | 1.49x |  | pumpfun | 2026-03-20 06:51 |
-| 🟡 Dryer | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:13 |
+| 🔴 Dryer | $0.000036 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 04:13 |
 | 🟡 FEELESS | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:57 |
 | 🟡 Sentinel | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:48 |
 

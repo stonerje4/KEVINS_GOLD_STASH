@@ -1,16 +1,16 @@
 # Wallet: `J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU`
 
-> [GMGN](https://gmgn.ai/sol/address/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | [Solscan](https://solscan.io/account/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | [Solscan](https://solscan.io/account/J6u8F32vNdJuncHAsRnZ2nL5BdS8fd3GrWECDd7h65bU) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (2 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-121 |
+| Positions | 4 (1 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-182 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-121** |
+| 🏦 Total | **$-182** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -19,7 +19,6 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Hamster  | $0.000140 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
-| 🟡 Dryer | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:04 |
 
 ## Closed Positions
 
@@ -27,6 +26,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.29x | pumpswap | 2026-03-20 08:13 → 2026-03-20 10:32 |
 | 🔴 AVATAR | 0.39x | $-61 | stop_loss | 1.23x | pumpswap | 2026-03-20 06:58 → 2026-03-20 07:35 |
+| 🔴 Dryer | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:04 → 2026-03-20 15:49 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

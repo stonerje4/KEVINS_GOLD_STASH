@@ -1,6 +1,6 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [GMGN](https://gmgn.ai/sol/address/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | [Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | [Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (17 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-141 |
-| 📦 Unrealized | $+13 |
-| 🏦 Total | **$-128** |
+| 📦 Unrealized | $-45 |
+| 🏦 Total | **$-186** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.53x |
 
@@ -27,14 +27,14 @@
 | 🔴 Ride | $0.000019 | **0.86x** ($-14) | 1.13x |  | pumpswap | 2026-03-20 07:26 |
 | 🔴 AIKO | $0.000010 | **0.88x** ($-12) | 1.08x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 PERCOLATOR | $0.000065 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:43 |
-| 🟢 CHIBI | $0.001118 | **2.06x** ($+106) | 2.21x | ✅ | pumpswap | 2026-03-20 02:33 |
-| 🟡 Gany | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
+| 🟢 CHIBI | $0.001118 | **2.19x** ($+119) | 2.28x | ✅ | pumpswap | 2026-03-20 02:33 |
+| 🔴 Gany | $0.000041 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 GOBLIN | $0.000016 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:11 |
-| 🟡 herm | $0.000170 | **1.57x** ($+57) | 1.57x |  | pumpswap | 2026-03-20 00:33 |
+| 🟡 herm | $0.000170 | **1.69x** ($+69) | 1.73x |  | pumpswap | 2026-03-20 00:33 |
 | 🔴 jeff | $0.000025 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 00:26 |
-| 🔴 POLSIA | $0.000136 | **0.60x** ($-40) | 1.18x |  | pumpswap | 2026-03-20 00:08 |
+| 🔴 POLSIA | $0.000136 | **0.55x** ($-45) | 1.18x |  | pumpswap | 2026-03-20 00:08 |
 | 🔴 Out | $0.000022 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-19 22:52 |
-| 🟡 Chud | $0.000686 | **1.16x** ($+16) | 1.28x |  | pumpswap | 2026-03-19 22:45 |
+| 🔴 Chud | $0.000686 | **0.74x** ($-26) | 1.28x |  | pumpswap | 2026-03-19 22:45 |
 
 ## Closed Positions
 

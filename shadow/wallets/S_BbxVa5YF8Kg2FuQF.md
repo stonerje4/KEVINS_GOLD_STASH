@@ -1,6 +1,6 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 16:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (6 open, 9 closed) |
 | W/L | 3/6 (33%) |
 | 💵 Realized | $+53 |
-| 📦 Unrealized | $+260 |
-| 🏦 Total | **$+314** |
+| 📦 Unrealized | $+261 |
+| 🏦 Total | **$+315** |
 | Best ROI | 2.95x |
 | Avg ROI | 1.06x |
 
@@ -23,7 +23,7 @@
 | 🟡 IMAGINE | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:09 |
 | 🟡 BDxAH4ix | $0.000020 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 00:02 |
 | 🔴 Saleh | $0.000020 | **0.92x** ($-8) | 1.14x |  | pumpswap | 2026-03-20 00:00 |
-| 🟢 CHIBI | $0.000500 | **4.86x** ($+386) | 5.09x | ✅ | pumpswap | 2026-03-19 23:22 |
+| 🟢 CHIBI | $0.000500 | **4.89x** ($+389) | 5.09x | ✅ | pumpswap | 2026-03-19 23:22 |
 
 ## Closed Positions
 

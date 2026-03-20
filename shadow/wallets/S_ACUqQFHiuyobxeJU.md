@@ -1,6 +1,6 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (11 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-342 |
-| 📦 Unrealized | $-231 |
-| 🏦 Total | **$-573** |
+| 📦 Unrealized | $-210 |
+| 🏦 Total | **$-552** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.32x |
 
@@ -22,7 +22,7 @@
 | 🔴 6tJ2qVoZ | $0.000006 | **0.43x** ($-57) | 1.03x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 FMVgNUm3 | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 14:33 |
 | 🔴 5siPZmTP | $0.000006 | **0.42x** ($-58) | 1.21x |  | pumpfun | 2026-03-20 14:22 |
-| 🟡 AC3ydFNc | $0.000013 | **1.29x** ($+29) | 2.82x | ✅ | pumpfun | 2026-03-20 13:25 |
+| 🟡 AC3ydFNc | $0.000013 | **1.70x** ($+70) | 2.82x | ✅ | pumpfun | 2026-03-20 13:25 |
 | 🔴 Boobachu | $0.000006 | **0.43x** ($-57) | 1.12x |  | pumpfun | 2026-03-20 13:24 |
 | 🟡 Attention | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:20 |
 | 🟡 Coglet | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:08 |

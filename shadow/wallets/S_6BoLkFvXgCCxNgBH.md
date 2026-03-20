@@ -1,6 +1,6 @@
 # Wallet: `6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE`
 
-> [GMGN](https://gmgn.ai/sol/address/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | [Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-20 16:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | [Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-12 |
-| 🏦 Total | **$-12** |
+| 📦 Unrealized | $-19 |
+| 🏦 Total | **$-19** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Optimistic | $0.000375 | **2.19x** ($+119) | 2.46x | ✅ | pumpswap | 2026-03-20 11:21 |
+| 🟢 Optimistic | $0.000375 | **2.04x** ($+104) | 2.46x | ✅ | pumpswap | 2026-03-20 11:21 |
 | 🔴 Moe-chan | $0.000014 | **0.91x** ($-9) | 1.17x |  | pumpswap | 2026-03-20 09:33 |
 | 🔴 Dryer | $0.000037 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 06:07 |
 | 🟡 DLSS5 | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:05 |

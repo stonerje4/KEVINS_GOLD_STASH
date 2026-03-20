@@ -1,6 +1,6 @@
 # Wallet: `5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m`
 
-> [GMGN](https://gmgn.ai/sol/address/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | [Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | [Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (9 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-208 |
-| 📦 Unrealized | $-66 |
-| 🏦 Total | **$-273** |
+| 📦 Unrealized | $-81 |
+| 🏦 Total | **$-288** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.48x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Mirai | $0.000011 | **1.16x** ($+16) | 1.31x |  | pumpfun | 2026-03-20 14:19 |
 | 🔴 awkward | $0.000015 | **0.80x** ($-20) | 1.20x |  | pumpfun | 2026-03-20 10:39 |
-| 🟡 Income | $0.000009 | **1.79x** ($+79) | 2.48x | ✅ | pumpfun | 2026-03-20 09:08 |
+| 🟡 Income | $0.000009 | **1.50x** ($+50) | 2.48x | ✅ | pumpfun | 2026-03-20 09:08 |
 | 🔴 twump | $0.000016 | **0.54x** ($-46) | 1.00x |  | pumpfun | 2026-03-20 08:56 |
 | 🟡 CLAWPICKS | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 07:01 |
 | 🔴 Imaginify | $0.000017 | **0.58x** ($-42) | 1.15x |  | pumpfun | 2026-03-20 06:39 |

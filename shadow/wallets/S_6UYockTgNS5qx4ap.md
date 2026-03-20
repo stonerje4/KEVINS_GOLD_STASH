@@ -1,6 +1,6 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (17 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-249 |
-| 📦 Unrealized | $+131 |
-| 🏦 Total | **$-118** |
+| 📦 Unrealized | $+152 |
+| 🏦 Total | **$-97** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -33,8 +33,8 @@
 | 🔴 電王 | $0.000029 | **0.88x** ($-12) | 1.07x |  | pumpfun | 2026-03-20 00:44 |
 | 🟡 world | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:36 |
 | 🔴 Wolverine | $0.000010 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 00:06 |
-| 🟡 herm | $0.000164 | **1.63x** ($+63) | 1.63x |  | pumpswap | 2026-03-19 23:42 |
-| 🟢 CHIBI | $0.000684 | **3.37x** ($+237) | 3.62x | ✅ | pumpswap | 2026-03-19 23:27 |
+| 🟡 herm | $0.000164 | **1.76x** ($+76) | 1.80x |  | pumpswap | 2026-03-19 23:42 |
+| 🟢 CHIBI | $0.000684 | **3.57x** ($+257) | 3.72x | ✅ | pumpswap | 2026-03-19 23:27 |
 
 ## Closed Positions
 

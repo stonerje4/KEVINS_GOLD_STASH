@@ -1,32 +1,31 @@
 # Wallet: `4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B`
 
-> [GMGN](https://gmgn.ai/sol/address/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | [Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | [Solscan](https://solscan.io/account/4CF68ogXpNCpTfqLMc8Jxs4VCs3nqP6spGD5i2M3CE7B) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (11 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-31 |
-| 🏦 Total | **$-31** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 11 (10 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-61 |
+| 📦 Unrealized | $-51 |
+| 🏦 Total | **$-111** |
+| Best ROI | 0.39x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Fro | $0.000184 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
+| 🔴 Fro | $0.000184 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
 | 🟡 0 | $0.000105 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 06:05 |
 | 🔴 butthole | $0.000169 | **0.78x** ($-22) | 1.09x |  | pumpswap | 2026-03-20 05:19 |
-| 🟡 Optimistic | $0.000763 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 04:11 |
-| 🟡 Nigel | $0.000296 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
-| 🔴 Momo-chan | $0.000359 | **0.97x** ($-3) | 1.07x |  | pumpswap | 2026-03-20 01:51 |
-| 🟡 HeavyPulp | $0.000753 | **1.85x** ($+85) | 1.90x |  | pumpswap | 2026-03-19 23:44 |
+| 🟡 Optimistic | $0.000763 | **1.00x** ($+0) | 1.21x |  | pumpswap | 2026-03-20 04:11 |
+| 🔴 Momo-chan | $0.000359 | **0.88x** ($-12) | 1.07x |  | pumpswap | 2026-03-20 01:51 |
+| 🟡 HeavyPulp | $0.000753 | **1.81x** ($+81) | 1.92x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 MIM | $0.000074 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-19 23:34 |
-| 🔴 WIZARD | $0.000435 | **0.81x** ($-19) | 1.04x |  | pumpswap | 2026-03-19 23:07 |
+| 🔴 WIZARD | $0.000435 | **0.85x** ($-15) | 1.04x |  | pumpswap | 2026-03-19 23:07 |
 | 🔴 SHAPE | $0.001378 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-19 22:35 |
 | 🟡 BGS | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 22:34 |
 
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Nigel | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 03:17 → 2026-03-20 15:57 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,6 +1,6 @@
 # Wallet: `6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n`
 
-> [GMGN](https://gmgn.ai/sol/address/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | [Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | [Solscan](https://solscan.io/account/6AiXFyou138qUSsuMJbUcBwm2Duy1pPP7keXeqtq5Q1n) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-41 |
-| 📦 Unrealized | $+15 |
-| 🏦 Total | **$-26** |
+| 📦 Unrealized | $-43 |
+| 🏦 Total | **$-85** |
 | Best ROI | 1.19x |
 | Avg ROI | 0.79x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MRSPUNCH | $0.000253 | **1.15x** ($+15) | 1.50x |  | pumpswap | 2026-03-20 14:03 |
+| 🔴 MRSPUNCH | $0.000253 | **0.57x** ($-43) | 1.50x |  | pumpswap | 2026-03-20 14:03 |
 
 ## Closed Positions
 

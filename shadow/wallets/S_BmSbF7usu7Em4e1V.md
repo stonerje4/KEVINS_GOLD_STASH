@@ -1,16 +1,16 @@
 # Wallet: `BmSbF7usu7Em4e1VT7Fxxw2BRCZfggyC5pTMi4NJcPYo`
 
-> [GMGN](https://gmgn.ai/sol/address/BmSbF7usu7Em4e1VT7Fxxw2BRCZfggyC5pTMi4NJcPYo) | [Solscan](https://solscan.io/account/BmSbF7usu7Em4e1VT7Fxxw2BRCZfggyC5pTMi4NJcPYo) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmSbF7usu7Em4e1VT7Fxxw2BRCZfggyC5pTMi4NJcPYo) | [Solscan](https://solscan.io/account/BmSbF7usu7Em4e1VT7Fxxw2BRCZfggyC5pTMi4NJcPYo) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
+| Positions | 4 (3 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-100 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 🏦 Total | **$-100** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -26,6 +26,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:49 → 2026-03-20 15:49 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

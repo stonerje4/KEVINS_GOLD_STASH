@@ -1,6 +1,6 @@
 # Wallet: `6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6`
 
-> [GMGN](https://gmgn.ai/sol/address/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | [Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-20 16:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | [Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-3** |
+| 📦 Unrealized | $-10 |
+| 🏦 Total | **$-10** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -22,7 +22,7 @@
 | 🟡 0 | $0.000106 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:16 |
 | 🟡 JupUSD | $0.182917 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:01 |
 | 🔴 YEPE | $0.000127 | **0.83x** ($-17) | 1.16x |  | pumpswap | 2026-03-20 12:05 |
-| 🟢 Optimistic | $0.000374 | **2.19x** ($+119) | 2.46x | ✅ | pumpswap | 2026-03-20 11:18 |
+| 🟢 Optimistic | $0.000374 | **2.04x** ($+104) | 2.46x | ✅ | pumpswap | 2026-03-20 11:18 |
 | 🟡 LNCHR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:13 |
 | 🔴 effect | $0.000084 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
 

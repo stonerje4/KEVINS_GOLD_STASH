@@ -1,6 +1,6 @@
 # Wallet: `6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y`
 
-> [GMGN](https://gmgn.ai/sol/address/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | [Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | [Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (5 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-73 |
-| 📦 Unrealized | $-143 |
-| 🏦 Total | **$-216** |
+| 📦 Unrealized | $-106 |
+| 🏦 Total | **$-179** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.76x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000020 | **0.91x** ($-9) | 1.25x |  | pumpswap | 2026-03-20 15:43 |
+| 🟡 CHUCK | $0.000020 | **1.27x** ($+27) | 1.80x |  | pumpswap | 2026-03-20 15:43 |
 | 🔴 Happiness | $0.000006 | **0.43x** ($-57) | 1.26x |  | pumpfun | 2026-03-20 13:41 |
 | 🔴 Imaginify | $0.000015 | **0.68x** ($-32) | 1.03x |  | pumpfun | 2026-03-20 11:37 |
 | 🔴 Xombat | $0.000006 | **0.99x** ($-1) | 1.25x |  | pumpswap | 2026-03-20 01:31 |

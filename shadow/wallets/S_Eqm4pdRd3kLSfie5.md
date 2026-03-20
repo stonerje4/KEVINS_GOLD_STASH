@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (15 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-269 |
-| 📦 Unrealized | $+210 |
-| 🏦 Total | **$-59** |
+| 📦 Unrealized | $+218 |
+| 🏦 Total | **$-51** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.46x |
 
@@ -31,7 +31,7 @@
 | 🔴 imagineslop | $0.000009 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 02:11 |
 | 🔴 IShowSpeed | $0.000013 | **0.88x** ($-12) | 1.01x |  | pumpswap | 2026-03-20 02:02 |
 | 🔴 驚き | $0.000015 | **0.92x** ($-8) | 1.06x |  | pumpswap | 2026-03-20 01:59 |
-| 🟢 CHIBI | $0.000860 | **2.68x** ($+168) | 2.87x | ✅ | pumpswap | 2026-03-20 00:26 |
+| 🟢 CHIBI | $0.000860 | **2.84x** ($+184) | 2.96x | ✅ | pumpswap | 2026-03-20 00:26 |
 | 🟢 F3 | $0.000007 | **3.13x** ($+213) | 3.78x | ✅ | pumpfun | 2026-03-19 23:13 |
 
 ## Closed Positions

@@ -1,16 +1,16 @@
 # Wallet: `9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf`
 
-> [GMGN](https://gmgn.ai/sol/address/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | [Solscan](https://solscan.io/account/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | [Solscan](https://solscan.io/account/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (6 open, 1 closed) |
+| Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$-54** |
+| 📦 Unrealized | $-9 |
+| 🏦 Total | **$-69** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 GBN | $0.000022 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 16:02 |
 | 🟡 OSP | $0.000112 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:35 |
 | 🔴 Rocky | $0.000157 | **0.50x** ($-50) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 Pixel | $0.000110 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:40 |

@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [GMGN](https://gmgn.ai/sol/address/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | [Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 16:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | [Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (4 open, 7 closed) |
 | W/L | 2/5 (29%) |
 | 💵 Realized | $+827 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+878** |
+| 📦 Unrealized | $+49 |
+| 🏦 Total | **$+876** |
 | Best ROI | 11.41x |
 | Avg ROI | 2.18x |
 
@@ -21,7 +21,7 @@
 | 🟡 Massive | $0.000019 | **1.19x** ($+19) | 1.30x |  | pumpswap | 2026-03-20 01:31 |
 | 🟡 SHOENICE  | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:04 |
 | 🟢 Grokslop | $0.000014 | **2.67x** ($+167) | 2.67x | ✅ | pumpfun | 2026-03-20 00:54 |
-| 🔴 Nigel | $0.000200 | **0.49x** ($-51) | 1.33x |  | pumpswap | 2026-03-20 00:02 |
+| 🔴 Nigel | $0.000200 | **0.47x** ($-53) | 1.33x |  | pumpswap | 2026-03-20 00:02 |
 
 ## Closed Positions
 

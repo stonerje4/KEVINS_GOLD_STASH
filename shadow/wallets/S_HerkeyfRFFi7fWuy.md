@@ -1,6 +1,6 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 15:49 UTC
+> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 16:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (4 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-342 |
-| 📦 Unrealized | $+252 |
-| 🏦 Total | **$-90** |
+| 📦 Unrealized | $+169 |
+| 🏦 Total | **$-173** |
 | Best ROI | 1.43x |
 | Avg ROI | 0.51x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000022 | **0.83x** ($-17) | 1.35x |  | pumpfun | 2026-03-20 14:24 |
-| 🚀 Chuck | $0.000072 | **10.49x** ($+949) | 11.49x | ✅ | pumpswap | 2026-03-20 14:17 |
+| 🟡 CHUCK | $0.000022 | **1.18x** ($+18) | 1.66x |  | pumpfun | 2026-03-20 14:24 |
+| 🚀 Chuck | $0.000072 | **7.38x** ($+638) | 11.49x | ✅ | pumpswap | 2026-03-20 14:17 |
 | 🟡 Chuck | $0.000016 | **1.07x** ($+7) | 1.79x |  | pumpswap | 2026-03-20 13:56 |
-| 🟡 Sybil  | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
+| 🔴 Sybil  | $0.000050 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
 
 ## Closed Positions
 
