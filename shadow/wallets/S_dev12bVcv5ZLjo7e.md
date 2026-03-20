@@ -1,12 +1,12 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 04:45 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 04:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 41 (40 open, 1 closed) |
+| Positions | 42 (41 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
 | 📦 Unrealized | $+36 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Jimbo | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:48 |
 | 🟡 キンくん | $0.000003 | **1.04x** ($+4) | 1.08x |  | pumpfun | 2026-03-20 04:32 |
 | 🔴 Nature | $0.000005 | **0.50x** ($-50) | 1.11x |  | pumpfun | 2026-03-20 04:31 |
 | 🟡 MSBT | $0.000003 | **1.42x** ($+42) | 1.56x |  | pumpfun | 2026-03-20 04:23 |
