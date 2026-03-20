@@ -9,10 +9,10 @@
 | Positions | 172 (169 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
-| 📦 Unrealized | $+127 |
-| 🏦 Total | **$+305** |
-| Best Trade | 2.9x |
-| Avg Peak | 4.5x |
+| 📦 Unrealized | $+134 |
+| 🏦 Total | **$+311** |
+| Best ROI | 2.91x |
+| Avg ROI | 1.59x |
 
 ## Open Positions
 
@@ -71,7 +71,7 @@
 | 🟡 SOS | $0.000861 | **1.28x** ($+28) | 1.34x |  | pumpswap | 2026-03-20 05:29 |
 | 🔴 WhiteHouse | $0.000343 | **0.90x** ($-10) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 LIQUID | $0.000266 | **1.11x** ($+11) | 1.24x |  | pumpswap | 2026-03-20 05:27 |
-| 🟡 TeraFab | $0.000054 | **1.46x** ($+46) | 1.46x |  | pumpswap | 2026-03-20 05:17 |
+| 🟡 TeraFab | $0.000054 | **1.52x** ($+52) | 1.58x |  | pumpswap | 2026-03-20 05:17 |
 | 🟡 Clude | $0.001325 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
 | 🟡 Spiderman | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
 | 🔴 shitcoin | $0.000075 | **0.97x** ($-3) | 1.11x |  | pumpswap | 2026-03-20 05:08 |

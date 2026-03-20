@@ -9,10 +9,10 @@
 | Positions | 33 (33 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-93 |
-| 🏦 Total | **$-93** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-95 |
+| 🏦 Total | **$-95** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🔴 Wob | $0.000023 | **0.95x** ($-5) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 Flash | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:43 |
 | 🟡 LUMO | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:27 |
-| 🟡 awkward | $0.000013 | **1.09x** ($+9) | 1.24x |  | pumpfun | 2026-03-20 10:09 |
+| 🟡 awkward | $0.000013 | **1.07x** ($+7) | 1.24x |  | pumpfun | 2026-03-20 10:09 |
 | 🔴 CRABBO | $0.000168 | **0.41x** ($-59) | 1.11x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 Massive | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:22 |
 | 🟡 Strawberita | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:21 |

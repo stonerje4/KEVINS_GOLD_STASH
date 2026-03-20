@@ -9,16 +9,16 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-6 |
-| 🏦 Total | **$-6** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-5 |
+| 🏦 Total | **$-5** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 YEPE | $0.000127 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
+| 🔴 YEPE | $0.000127 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 Optimistic | $0.000374 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:18 |
 | 🟡 LNCHR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:13 |
 | 🟡 effect | $0.000084 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
