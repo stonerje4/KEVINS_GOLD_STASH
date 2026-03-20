@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 130 (103 open, 27 closed) |
 | W/L | 3/24 (11%) |
 | 💵 Realized | $+2,155 |
-| 📦 Unrealized | $+17 |
-| 🏦 Total | **$+2,172** |
-| Best ROI | 24.90x |
-| Avg ROI | 1.80x |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$+2,150** |
+| Best Trade | 24.9x |
+| Avg Peak | 4.9x |
 
 ## Open Positions
 
@@ -33,7 +33,7 @@
 | 🟡 Sybil  | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:38 |
 | 🟡 effect | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:35 |
 | 🟡 herm | $0.000258 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:29 |
-| 🔴 CRABBO | $0.000142 | **0.48x** ($-52) | 1.32x |  | pumpswap | 2026-03-20 10:01 |
+| 🔴 CRABBO | $0.000142 | **0.49x** ($-51) | 1.32x |  | pumpswap | 2026-03-20 10:01 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:41 |
 | 🔴 TEDDY | $0.000084 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
 | 🟡 PsyopChibi | $0.000103 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:32 |
@@ -49,7 +49,7 @@
 | 🔴 Noesis | $0.000315 | **0.86x** ($-14) | 1.03x |  | pumpswap | 2026-03-20 07:55 |
 | 🔴 MOSS | $0.000188 | **0.95x** ($-5) | 1.13x |  | pumpswap | 2026-03-20 07:33 |
 | 🔴 Tastecoin | $0.000190 | **0.75x** ($-25) | 1.12x |  | pumpswap | 2026-03-20 07:24 |
-| 🔴 MONA | $0.000071 | **0.83x** ($-17) | 1.08x |  | pumpswap | 2026-03-20 07:03 |
+| 🔴 MONA | $0.000071 | **0.78x** ($-22) | 1.08x |  | pumpswap | 2026-03-20 07:03 |
 | 🟡 Downald | $0.000391 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
 | 🟡 CHIBI | $0.000072 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:39 |
 | 🟡 唐子兵法 | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
@@ -61,7 +61,7 @@
 | 🔴 MICRO | $0.000093 | **0.94x** ($-6) | 1.15x |  | pumpswap | 2026-03-20 05:34 |
 | 🟡 Pixel | $0.000118 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 automaton | $0.000107 | **1.14x** ($+14) | 1.15x |  | pumpswap | 2026-03-20 05:16 |
-| 🔴 shitcoin | $0.000075 | **0.97x** ($-3) | 1.11x |  | pumpswap | 2026-03-20 05:08 |
+| 🔴 shitcoin | $0.000075 | **0.80x** ($-20) | 1.11x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 tinfoil | $0.000068 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 BIG | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:05 |
 | 🟡 JACKPOT | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:24 |

@@ -1,26 +1,27 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (15 open, 0 closed) |
+| Positions | 16 (16 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-63 |
 | 🏦 Total | **$-63** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 JEREMY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🟡 Yuki-chan | $0.000003 | **1.37x** ($+37) | 1.63x |  | pumpswap | 2026-03-20 05:23 |
 | 🟡 Steak | $0.000005 | **1.01x** ($+1) | 1.31x |  | pumpswap | 2026-03-20 03:52 |
-| 🔴 比比拉布 | $0.000116 | **0.89x** ($-11) | 1.07x |  | pumpswap | 2026-03-20 03:24 |
+| 🔴 比比拉布 | $0.000116 | **0.88x** ($-12) | 1.07x |  | pumpswap | 2026-03-20 03:24 |
 | 🟡 imagine | $0.000004 | **1.09x** ($+9) | 1.37x |  | pumpfun | 2026-03-20 03:07 |
 | 🟡 IMAGINE | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🟡 Futa-kun | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:57 |

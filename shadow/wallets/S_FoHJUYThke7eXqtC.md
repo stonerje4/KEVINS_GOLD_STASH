@@ -1,23 +1,24 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 43 (43 open, 0 closed) |
+| Positions | 44 (44 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-80 |
 | 🏦 Total | **$-80** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WKC | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:11 |
 | 🟡 Huhmini | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:45 |
 | 🟡 YES | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:32 |
 | 🟡 OCEANPUMP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:22 |

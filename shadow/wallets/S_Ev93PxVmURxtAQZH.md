@@ -1,6 +1,6 @@
 # Wallet: `Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R`
 
-> [View on Solscan](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-100 |
-| 🏦 Total | **$-100** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-101 |
+| 🏦 Total | **$-101** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 COMEDIAN | $0.000003 | **0.77x** ($-23) | 1.50x |  | pumpfun | 2026-03-20 06:05 |
+| 🔴 COMEDIAN | $0.000003 | **0.75x** ($-25) | 1.50x |  | pumpfun | 2026-03-20 06:05 |
 | 🔴 Qclaw | $0.000012 | **0.68x** ($-32) | 1.08x |  | pumpswap | 2026-03-20 06:01 |
 | 🟡 電王 | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:41 |
 | 🔴 nuggets | $0.000003 | **0.84x** ($-16) | 1.07x |  | pumpswap | 2026-03-19 23:55 |

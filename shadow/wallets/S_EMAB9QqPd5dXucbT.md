@@ -1,28 +1,27 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 33 (33 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-95 |
-| 🏦 Total | **$-95** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 33 (32 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
+| 📦 Unrealized | $-44 |
+| 🏦 Total | **$-104** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Wob | $0.000023 | **0.95x** ($-5) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
+| 🔴 Wob | $0.000023 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 Flash | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:43 |
 | 🟡 LUMO | $0.000061 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:27 |
 | 🟡 awkward | $0.000013 | **1.07x** ($+7) | 1.24x |  | pumpfun | 2026-03-20 10:09 |
-| 🔴 CRABBO | $0.000168 | **0.41x** ($-59) | 1.11x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 Massive | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:22 |
 | 🟡 Strawberita | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:21 |
 | 🟡 PIKE | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
@@ -31,7 +30,7 @@
 | 🔴 しずく | $0.000022 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 plumber | $0.000058 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🟡 MILO | $0.000006 | **1.00x** ($+0) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
-| 🔴 AICOIN | $0.000082 | **0.93x** ($-7) | 1.10x |  | pumpswap | 2026-03-20 03:21 |
+| 🔴 AICOIN | $0.000082 | **0.88x** ($-12) | 1.10x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 Hamster | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
 | 🟡 LIFE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 Spiderman | $0.000203 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 02:11 |
@@ -56,6 +55,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 CRABBO | 0.40x | $-60 | stop_loss | 1.11x | pumpswap | 2026-03-20 07:46 → 2026-03-20 12:09 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

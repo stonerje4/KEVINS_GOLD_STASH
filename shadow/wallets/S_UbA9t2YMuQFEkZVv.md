@@ -1,23 +1,24 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (23 open, 1 closed) |
+| Positions | 25 (24 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+250 |
-| 🏦 Total | **$+189** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| 📦 Unrealized | $+254 |
+| 🏦 Total | **$+193** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 TGR | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 12:10 |
 | 🟡 WAR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:07 |
 | 🟡 NBR | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:23 |
 | 🟡 AQu77Gcq | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:15 |

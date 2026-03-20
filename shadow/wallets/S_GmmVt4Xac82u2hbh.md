@@ -1,23 +1,25 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (18 open, 9 closed) |
+| Positions | 29 (20 open, 9 closed) |
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-314 |
 | 📦 Unrealized | $-202 |
 | 🏦 Total | **$-515** |
-| Best ROI | 2.86x |
-| Avg ROI | 0.65x |
+| Best Trade | 2.9x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 e6PLK8kb | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:11 |
+| 🟡 Gq1vv6XM | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:10 |
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
 | 🟡 2krmh9hC | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
 | 🟡 pa | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:47 |

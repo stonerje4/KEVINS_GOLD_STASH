@@ -1,23 +1,24 @@
 # Wallet: `CGca86J4NmYN8ETNT9sDrsExNLEck9YThLoURKC7YFFN`
 
-> [View on Solscan](https://solscan.io/account/CGca86J4NmYN8ETNT9sDrsExNLEck9YThLoURKC7YFFN) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/CGca86J4NmYN8ETNT9sDrsExNLEck9YThLoURKC7YFFN) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
 | 🏦 Total | **$+0** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WRT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:11 |
 | 🟡 NBR | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 NBR | $0.000015 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 12:02 |
 

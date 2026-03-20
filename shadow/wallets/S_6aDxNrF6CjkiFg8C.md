@@ -1,6 +1,6 @@
 # Wallet: `6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y`
 
-> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 12 (9 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-73 |
-| 📦 Unrealized | $-18 |
+| 📦 Unrealized | $-19 |
 | 🏦 Total | **$-92** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.76x |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Imaginify | $0.000015 | **0.90x** ($-10) | 1.03x |  | pumpfun | 2026-03-20 11:37 |
+| 🔴 Imaginify | $0.000015 | **0.89x** ($-11) | 1.03x |  | pumpfun | 2026-03-20 11:37 |
 | 🟡 EID | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:18 |
 | 🟡 TK5 | $0.000003 | **1.15x** ($+15) | 1.35x |  | pumpfun | 2026-03-20 02:12 |
 | 🔴 Taylor | $0.000003 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 02:08 |

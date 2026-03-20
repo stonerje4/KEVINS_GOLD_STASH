@@ -1,23 +1,24 @@
 # Wallet: `5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g`
 
-> [View on Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-20 12:08 UTC
+> [View on Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-20 12:13 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (6 open, 3 closed) |
+| Positions | 10 (7 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-140 |
 | 📦 Unrealized | $-84 |
 | 🏦 Total | **$-224** |
-| Best ROI | 0.81x |
-| Avg ROI | 0.53x |
+| Best Trade | 0.8x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 REMY | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:09 |
 | 🟡 Look | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |
 | 🟡 ONE | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:02 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:35 |
