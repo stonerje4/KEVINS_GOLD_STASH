@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 20:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 20:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 77 (76 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+83 |
-| 🏦 Total | **$+23** |
+| 📦 Unrealized | $+140 |
+| 🏦 Total | **$+79** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -33,7 +33,7 @@
 | 🟡 PEACE | $0.000021 | **1.34x** ($+34) | 1.55x |  | pumpswap | 2026-03-20 17:10 |
 | 🟡 MOMO | $0.000029 | **1.26x** ($+26) | 1.35x |  | pumpswap | 2026-03-20 17:05 |
 | 🟡 Ava | $0.000008 | **1.20x** ($+20) | 1.34x |  | pumpswap | 2026-03-20 17:04 |
-| 🟡 90S | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:02 |
+| 🟡 90S | $0.000016 | **1.50x** ($+50) | 1.50x |  | pumpswap | 2026-03-20 17:02 |
 | 🔴 repurt | $0.000006 | **0.57x** ($-43) | 1.01x |  | pumpswap | 2026-03-20 16:48 |
 | 🟡 Hamster | $0.000022 | **1.56x** ($+56) | 1.58x |  | pumpswap | 2026-03-20 16:39 |
 | 🟡 ROME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:30 |
@@ -56,7 +56,7 @@
 | 🔴 honkermog | $0.000038 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🔴 PATAPIM | $0.000006 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 MiniBob | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:35 |
-| 🔴 LIFE | $0.000040 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
+| 🔴 LIFE | $0.000040 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
 | 🟡 hyrax  | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:55 |
 | 🔴 DICK | $0.000006 | **0.97x** ($-3) | 1.09x |  | pumpswap | 2026-03-20 09:25 |
 | 🟡 KENNY | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:14 |

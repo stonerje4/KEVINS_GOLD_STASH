@@ -1,16 +1,16 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 20:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 20:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (13 open, 8 closed) |
+| Positions | 22 (14 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-277 |
-| 📦 Unrealized | $-56 |
-| 🏦 Total | **$-333** |
+| 📦 Unrealized | $-49 |
+| 🏦 Total | **$-325** |
 | Best ROI | 1.32x |
 | Avg ROI | 0.65x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Samba | $0.000015 | **1.07x** ($+7) | 1.35x |  | pumpswap | 2026-03-20 20:42 |
 | 🟡 6eZMXJNA | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 20:29 |
 | 🔴 Aura | $0.000006 | **0.71x** ($-29) | 1.31x |  | pumpfun | 2026-03-20 20:22 |
 | 🔴 Forget | $0.000008 | **0.93x** ($-7) | 1.59x |  | pumpswap | 2026-03-20 19:24 |

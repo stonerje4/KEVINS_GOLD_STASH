@@ -1,6 +1,6 @@
 # Wallet: `HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK`
 
-> [GMGN](https://gmgn.ai/sol/address/HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK) | [Solscan](https://solscan.io/account/HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK) | Updated: 2026-03-20 20:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK) | [Solscan](https://solscan.io/account/HGcXS42jHV5HLSaNi9njkVAXpGUnyrQc2kQUGn6zMoDK) | Updated: 2026-03-20 20:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (2 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-302 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-310** |
+| 📦 Unrealized | $-12 |
+| 🏦 Total | **$-314** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 GeBYWNhf | $0.000010 | **2.02x** ($+102) | 2.40x | ✅ | pumpfun | 2026-03-20 20:06 |
+| 🟡 GeBYWNhf | $0.000010 | **1.94x** ($+94) | 2.40x | ✅ | pumpfun | 2026-03-20 20:06 |
 | 🔴 STOP | $0.000006 | **0.41x** ($-59) | 1.24x |  | pumpfun | 2026-03-20 19:44 |
 
 ## Closed Positions

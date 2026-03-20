@@ -1,6 +1,6 @@
-# Wallet: `CdLGPqQUht3F3XwStiWGWNa16foVzYC5u4xy8TLWXJfG`
+# Wallet: `2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71`
 
-> [GMGN](https://gmgn.ai/sol/address/CdLGPqQUht3F3XwStiWGWNa16foVzYC5u4xy8TLWXJfG) | [Solscan](https://solscan.io/account/CdLGPqQUht3F3XwStiWGWNa16foVzYC5u4xy8TLWXJfG) | Updated: 2026-03-20 20:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | [Solscan](https://solscan.io/account/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | Updated: 2026-03-20 20:45 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Hamster | $0.000035 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 19:50 |
+| 🔴 B3jXaehq | $0.000007 | **0.97x** ($-3) | 1.25x |  | pumpfun | 2026-03-20 20:44 |
 
 ## Closed Positions
 
