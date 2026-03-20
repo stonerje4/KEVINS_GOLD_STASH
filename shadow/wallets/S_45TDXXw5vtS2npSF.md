@@ -1,16 +1,16 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 11:17 UTC
+> [View on Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 11:22 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (8 open, 2 closed) |
+| Positions | 12 (10 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-12 |
-| 🏦 Total | **$-133** |
+| 📦 Unrealized | $-26 |
+| 🏦 Total | **$-147** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 quit | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:18 |
+| 🔴 QUIT | $0.000005 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 11:18 |
 | 🟡 OFFLINE | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
 | 🟡 Ouroboros | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:37 |
 | 🟡 ANIMEFY | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:23 |
@@ -25,7 +27,7 @@
 | 🟡 EmH4y6zA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 Slap | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 Slap | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:13 |
-| 🔴 INCOME | $0.000685 | **0.88x** ($-12) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
+| 🔴 INCOME | $0.000685 | **0.84x** ($-16) | 1.07x |  | pumpswap | 2026-03-19 22:42 |
 
 ## Closed Positions
 

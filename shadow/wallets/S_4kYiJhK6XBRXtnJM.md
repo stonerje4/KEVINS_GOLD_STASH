@@ -1,6 +1,6 @@
 # Wallet: `4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF`
 
-> [View on Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 11:17 UTC
+> [View on Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 11:22 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$-57** |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$-64** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PHM | $0.000007 | **1.04x** ($+4) | 1.16x |  | pumpfun | 2026-03-20 11:11 |
+| 🔴 PHM | $0.000007 | **0.97x** ($-3) | 1.16x |  | pumpfun | 2026-03-20 11:11 |
 | 🟡 BOAT | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:47 |
 | 🟡 Obsessed | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
 
