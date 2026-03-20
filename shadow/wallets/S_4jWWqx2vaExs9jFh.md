@@ -1,6 +1,6 @@
 # Wallet: `4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT`
 
-> [GMGN](https://gmgn.ai/sol/address/4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT) | [Solscan](https://solscan.io/account/4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT) | Updated: 2026-03-20 19:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT) | [Solscan](https://solscan.io/account/4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT) | Updated: 2026-03-20 19:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+59 |
-| 🏦 Total | **$+59** |
+| 📦 Unrealized | $+55 |
+| 🏦 Total | **$+55** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OIIA | $0.000030 | **0.98x** ($-2) | 1.08x |  | pumpswap | 2026-03-20 16:15 |
+| 🔴 OIIA | $0.000030 | **0.94x** ($-6) | 1.08x |  | pumpswap | 2026-03-20 16:15 |
 | 🟡 Saleh | $0.000013 | **1.61x** ($+61) | 1.61x |  | pumpswap | 2026-03-20 00:47 |
 
 ## Closed Positions

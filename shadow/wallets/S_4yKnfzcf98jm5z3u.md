@@ -1,24 +1,23 @@
 # Wallet: `4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH`
 
-> [GMGN](https://gmgn.ai/sol/address/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | [Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 19:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | [Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 19:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (4 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-123 |
-| 📦 Unrealized | $-51 |
-| 🏦 Total | **$-174** |
+| Positions | 7 (3 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-184 |
+| 📦 Unrealized | $-8 |
+| 🏦 Total | **$-192** |
 | Best ROI | 0.98x |
-| Avg ROI | 0.59x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OpenRocket | $0.000007 | **0.57x** ($-43) | 1.06x |  | pumpfun | 2026-03-20 19:37 |
 | 🟡 Nonchalant | $0.000011 | **1.06x** ($+6) | 1.10x |  | pumpfun | 2026-03-20 18:41 |
 | 🔴 PIZZA | $0.000009 | **0.88x** ($-12) | 1.12x |  | pumpfun | 2026-03-20 16:53 |
 | 🔴 Oracle | $0.000007 | **0.98x** ($-2) | 1.45x |  | pumpfun | 2026-03-20 13:57 |
@@ -27,6 +26,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 OpenRocket | 0.39x | $-61 | stop_loss | 1.06x | pumpfun | 2026-03-20 19:37 → 2026-03-20 19:46 |
 | 🟡 Interconnects | 0.98x | $-2 | trailing_stop_4x | 3.86x | pumpfun | 2026-03-20 15:05 → 2026-03-20 15:52 |
 | 🔴 CC | 0.39x | $-61 | stop_loss | 1.99x | pumpfun | 2026-03-20 13:28 → 2026-03-20 14:02 |
 | 🔴 Kin-kun | 0.40x | $-60 | stop_loss | 1.04x | pumpfun | 2026-03-20 07:59 → 2026-03-20 08:11 |

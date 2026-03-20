@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 19:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 19:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 25 (23 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-88 |
-| 📦 Unrealized | $-104 |
-| 🏦 Total | **$-192** |
+| 📦 Unrealized | $-107 |
+| 🏦 Total | **$-195** |
 | Best ROI | 0.73x |
 | Avg ROI | 0.56x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WID | $0.000019 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 19:06 |
+| 🔴 WID | $0.000019 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 19:06 |
 | 🟡 HOSPICE | $0.000012 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:13 |
 | 🟡 KENNY | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:26 |
 | 🔴 IMAGINE | $0.000039 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 11:56 |

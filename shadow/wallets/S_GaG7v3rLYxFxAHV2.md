@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 19:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-20 19:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (9 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $-66 |
-| 📦 Unrealized | $-57 |
-| 🏦 Total | **$-124** |
+| 📦 Unrealized | $+4 |
+| 🏦 Total | **$-63** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.83x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Benicio | $0.000010 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 19:44 |
-| 🔴 CAT | $0.000007 | **0.70x** ($-30) | 1.30x |  | pumpfun | 2026-03-20 19:42 |
+| 🟡 Benicio | $0.000010 | **1.30x** ($+30) | 1.47x |  | pumpfun | 2026-03-20 19:44 |
+| 🟡 CAT | $0.000007 | **1.07x** ($+7) | 1.30x |  | pumpfun | 2026-03-20 19:42 |
 | 🟡 CRAFT | $0.000030 | **1.19x** ($+19) | 1.22x |  | pumpswap | 2026-03-20 18:45 |
 | 🔴 Merlin | $0.000007 | **0.48x** ($-52) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 SNIFFER | $0.000023 | **1.37x** ($+37) | 2.46x | ✅ | pumpfun | 2026-03-20 12:59 |

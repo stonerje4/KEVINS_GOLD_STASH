@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 19:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 19:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (16 open, 13 closed) |
 | W/L | 1/12 (8%) |
 | 💵 Realized | $-522 |
-| 📦 Unrealized | $+331 |
-| 🏦 Total | **$-191** |
+| 📦 Unrealized | $+321 |
+| 🏦 Total | **$-201** |
 | Best ROI | 1.47x |
 | Avg ROI | 0.60x |
 
@@ -23,16 +23,16 @@
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:53 |
 | 🔴 T.E.A.M. | $0.000007 | **0.42x** ($-58) | 1.45x |  | pumpfun | 2026-03-20 15:01 |
 | 🟡 NunChucks | $0.000018 | **1.69x** ($+69) | 2.03x | ✅ | pumpfun | 2026-03-20 14:28 |
-| 🔴 clod | $0.000022 | **0.90x** ($-10) | 1.84x |  | pumpswap | 2026-03-20 12:17 |
+| 🔴 clod | $0.000022 | **0.87x** ($-13) | 1.84x |  | pumpswap | 2026-03-20 12:17 |
 | 🟢 Doolysaurus | $0.000038 | **3.78x** ($+278) | 6.40x | ✅ | pumpswap | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |
 | 🔴 Chonk | $0.000013 | **0.51x** ($-49) | 1.50x |  | pumpfun | 2026-03-20 09:44 |
 | 🟡 SIGNAL | $0.000019 | **1.93x** ($+93) | 1.93x |  | pumpfun | 2026-03-20 09:23 |
 | 🟡 omochi | $0.000020 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 09:13 |
-| 🟡 Pixels | $0.000024 | **1.05x** ($+5) | 1.59x |  | pumpfun | 2026-03-20 06:53 |
+| 🔴 Pixels | $0.000024 | **0.99x** ($-1) | 1.59x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 BOAR | $0.000008 | **0.77x** ($-23) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
-| 🟢 9Yqs3sVA | $0.000008 | **2.60x** ($+160) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
+| 🟢 9Yqs3sVA | $0.000008 | **2.59x** ($+159) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
 | 🟡 Grokslop | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 01:01 |
 
 ## Closed Positions
