@@ -1,6 +1,6 @@
 # Wallet: `Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX`
 
-> [View on Solscan](https://solscan.io/account/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | Updated: 2026-03-20 05:40 UTC
+> [View on Solscan](https://solscan.io/account/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | Updated: 2026-03-20 05:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+18 |
-| 🏦 Total | **$+18** |
+| 📦 Unrealized | $+14 |
+| 🏦 Total | **$+14** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CHIBI | $0.001386 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:17 |
-| 🟡 HUGH | $0.002145 | **1.18x** ($+18) | 1.81x |  | pumpswap | 2026-03-20 05:08 |
+| 🟡 HUGH | $0.002145 | **1.14x** ($+14) | 1.81x |  | pumpswap | 2026-03-20 05:08 |
 
 ## Closed Positions
 

@@ -1,24 +1,23 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 05:40 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 05:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (12 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-162 |
-| 📦 Unrealized | $+26 |
-| 🏦 Total | **$-136** |
+| Positions | 16 (11 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-223 |
+| 📦 Unrealized | $+41 |
+| 🏦 Total | **$-182** |
 | Best Trade | 0.8x |
-| Avg Peak | 1.9x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 nickel | $0.000013 | **0.85x** ($-15) | 1.39x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 TRADITION | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:10 |
 | 🔴 BitPenis | $0.000006 | **0.45x** ($-55) | 1.39x |  | pumpfun | 2026-03-20 04:59 |
 | 🟡 HelloWorld! | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
@@ -35,6 +34,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 nickel | 0.40x | $-60 | stop_loss | 1.39x | pumpfun | 2026-03-20 05:16 → 2026-03-20 05:42 |
 | 🟡 Gnd9Cmzo | 0.84x | $-16 | trailing_stop_2x | 2.20x | pumpfun | 2026-03-20 04:54 → 2026-03-20 04:56 |
 | 🔴 TADC | 0.30x | $-70 | stop_loss | 1.59x | pumpfun | 2026-03-20 04:34 → 2026-03-20 05:09 |
 | 🟡 PISSCOIN | 0.84x | $-16 | trailing_stop_3x | 2.82x | pumpfun | 2026-03-20 01:37 → 2026-03-20 01:45 |
