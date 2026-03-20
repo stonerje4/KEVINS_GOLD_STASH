@@ -9,10 +9,10 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+57 |
-| 🏦 Total | **$+57** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+60 |
+| 🏦 Total | **$+60** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -25,7 +25,7 @@
 | 🟡 OXIDE | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 電王 | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:28 |
 | 🟡 YEPE | $0.000087 | **1.20x** ($+20) | 1.80x |  | pumpswap | 2026-03-20 07:24 |
-| 🟡 OSP | $0.000020 | **1.34x** ($+34) | 1.34x |  | pumpfun | 2026-03-20 07:21 |
+| 🟡 OSP | $0.000020 | **1.36x** ($+36) | 1.36x |  | pumpfun | 2026-03-20 07:21 |
 
 ## Closed Positions
 

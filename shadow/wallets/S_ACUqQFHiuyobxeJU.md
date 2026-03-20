@@ -9,16 +9,16 @@
 | Positions | 23 (18 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-342 |
-| 📦 Unrealized | $-338 |
-| 🏦 Total | **$-681** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.7x |
+| 📦 Unrealized | $-340 |
+| 🏦 Total | **$-682** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.32x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CUJO | $0.000011 | **0.91x** ($-9) | 1.18x |  | pumpfun | 2026-03-20 15:12 |
+| 🔴 CUJO | $0.000011 | **0.90x** ($-10) | 1.18x |  | pumpfun | 2026-03-20 15:12 |
 | 🔴 6tJ2qVoZ | $0.000006 | **0.43x** ($-57) | 1.03x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 FMVgNUm3 | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 14:33 |
 | 🔴 5siPZmTP | $0.000006 | **0.42x** ($-58) | 1.21x |  | pumpfun | 2026-03-20 14:22 |

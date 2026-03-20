@@ -9,10 +9,10 @@
 | Positions | 23 (19 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-249 |
-| 📦 Unrealized | $-6 |
-| 🏦 Total | **$-255** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| 📦 Unrealized | $+44 |
+| 🏦 Total | **$-205** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -36,7 +36,7 @@
 | 🟡 world | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:36 |
 | 🔴 Wolverine | $0.000010 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 00:06 |
 | 🟡 herm | $0.000164 | **1.22x** ($+22) | 1.35x |  | pumpswap | 2026-03-19 23:42 |
-| 🟡 CHIBI | $0.000684 | **1.52x** ($+52) | 1.90x |  | pumpswap | 2026-03-19 23:27 |
+| 🟢 CHIBI | $0.000684 | **3.55x** ($+255) | 3.55x | ✅ | pumpswap | 2026-03-19 23:27 |
 
 ## Closed Positions
 

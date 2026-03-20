@@ -9,16 +9,16 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $-48 |
-| 🏦 Total | **$-127** |
-| Best Trade | 0.8x |
-| Avg Peak | 1.8x |
+| 📦 Unrealized | $-51 |
+| 🏦 Total | **$-130** |
+| Best ROI | 0.82x |
+| Avg ROI | 0.60x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000640 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
+| 🔴 Chuck | $0.000640 | **0.49x** ($-51) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 MOSHI | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 CHIBIELON | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:14 |
 

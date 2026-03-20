@@ -9,16 +9,16 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+60 |
-| 🏦 Total | **$-2** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+59 |
+| 🏦 Total | **$-3** |
+| Best ROI | 0.38x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Downald | $0.000371 | **1.60x** ($+60) | 1.71x |  | pumpswap | 2026-03-20 09:42 |
+| 🟡 Downald | $0.000371 | **1.59x** ($+59) | 1.71x |  | pumpswap | 2026-03-20 09:42 |
 | 🟡 CHIBI | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:08 |
 
 ## Closed Positions

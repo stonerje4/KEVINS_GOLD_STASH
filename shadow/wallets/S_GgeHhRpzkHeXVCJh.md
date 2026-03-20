@@ -11,8 +11,8 @@
 | 💵 Realized | $-194 |
 | 📦 Unrealized | $+56 |
 | 🏦 Total | **$-138** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.3x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.35x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🟡 MOCHI | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:19 |
 | 🟡 WID | $0.000021 | **1.20x** ($+20) | 1.21x |  | pumpswap | 2026-03-20 07:07 |
 | 🟡 ZeroG | $0.000020 | **1.83x** ($+83) | 1.83x |  | pumpfun | 2026-03-20 05:52 |
-| 🔴 Strawberita | $0.000082 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 01:32 |
+| 🔴 Strawberita | $0.000082 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 01:32 |
 
 ## Closed Positions
 

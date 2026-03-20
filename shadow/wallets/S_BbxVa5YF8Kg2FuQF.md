@@ -9,10 +9,10 @@
 | Positions | 19 (11 open, 8 closed) |
 | W/L | 3/5 (38%) |
 | 💵 Realized | $+114 |
-| 📦 Unrealized | $+88 |
-| 🏦 Total | **$+202** |
-| Best Trade | 2.9x |
-| Avg Peak | 3.0x |
+| 📦 Unrealized | $+189 |
+| 🏦 Total | **$+302** |
+| Best ROI | 2.95x |
+| Avg ROI | 1.14x |
 
 ## Open Positions
 
@@ -27,7 +27,7 @@
 | 🟡 BDxAH4ix | $0.000020 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 00:02 |
 | 🔴 Saleh | $0.000020 | **0.92x** ($-8) | 1.14x |  | pumpswap | 2026-03-20 00:00 |
 | 🔴 MILO | $0.000004 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-19 23:33 |
-| 🟢 CHIBI | $0.000500 | **2.08x** ($+108) | 2.60x | ✅ | pumpswap | 2026-03-19 23:22 |
+| 🟢 CHIBI | $0.000500 | **4.85x** ($+385) | 4.85x | ✅ | pumpswap | 2026-03-19 23:22 |
 | 🔴 SpiderMan | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-19 23:22 |
 
 ## Closed Positions

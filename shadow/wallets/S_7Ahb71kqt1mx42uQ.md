@@ -11,15 +11,15 @@
 | 💵 Realized | $-62 |
 | 📦 Unrealized | $+161 |
 | 🏦 Total | **$+99** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.38x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Panya | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
-| 🔴 Doolysaurus | $0.000203 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
+| 🔴 Doolysaurus | $0.000203 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 CHIBISLOP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:42 |
 | 🟡 chibify | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:33 |
 | 🚀 clod | $0.000005 | **6.67x** ($+567) | 6.67x | ✅ | pumpswap | 2026-03-20 10:02 |

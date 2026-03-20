@@ -9,10 +9,10 @@
 | Positions | 17 (14 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-149 |
-| 📦 Unrealized | $+125 |
+| 📦 Unrealized | $+126 |
 | 🏦 Total | **$-23** |
-| Best Trade | 0.8x |
-| Avg Peak | 1.5x |
+| Best ROI | 0.85x |
+| Avg ROI | 0.50x |
 
 ## Open Positions
 
@@ -23,7 +23,7 @@
 | 🟡 AIMAXXING | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:19 |
 | 🟡 8jmDBWhx | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
 | 🔴 ChibiTrump | $0.000029 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 11:02 |
-| 🟢 Doolysaurus | $0.000022 | **4.65x** ($+365) | 5.40x | ✅ | pumpfun | 2026-03-20 11:00 |
+| 🟢 Doolysaurus | $0.000022 | **4.66x** ($+366) | 5.40x | ✅ | pumpfun | 2026-03-20 11:00 |
 | 🔴 CHIBI | $0.000016 | **0.94x** ($-6) | 1.43x |  | pumpfun | 2026-03-20 10:40 |
 | 🟡 Chibtardio | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:20 |
 | 🔴 JUMP | $0.000018 | **0.75x** ($-25) | 1.74x |  | pumpfun | 2026-03-20 02:01 |

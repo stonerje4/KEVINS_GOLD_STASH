@@ -9,16 +9,16 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+68 |
-| 🏦 Total | **$+68** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+72 |
+| 🏦 Total | **$+72** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Optimistic | $0.000375 | **1.93x** ($+93) | 1.93x |  | pumpswap | 2026-03-20 11:21 |
+| 🟡 Optimistic | $0.000375 | **1.96x** ($+96) | 1.96x |  | pumpswap | 2026-03-20 11:21 |
 | 🔴 Moe-chan | $0.000014 | **0.91x** ($-9) | 1.17x |  | pumpswap | 2026-03-20 09:33 |
 | 🟡 Dryer | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:07 |
 | 🟡 DLSS5 | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:05 |

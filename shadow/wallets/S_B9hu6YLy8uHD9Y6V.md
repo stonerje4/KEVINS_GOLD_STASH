@@ -6,13 +6,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 137 (5 open, 132 closed) |
-| W/L | 0/132 (0%) |
-| 💵 Realized | $-13,187 |
+| Positions | 138 (5 open, 133 closed) |
+| W/L | 0/133 (0%) |
+| 💵 Realized | $-13,287 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-13,187** |
-| Best Trade | 0.0x |
-| Avg Peak | 1.0x |
+| 🏦 Total | **$-13,287** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -28,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:19 → 2026-03-20 15:19 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:18 → 2026-03-20 15:18 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:16 → 2026-03-20 15:16 |
 | 🔴 Vibe | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 15:13 → 2026-03-20 15:13 |

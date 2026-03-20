@@ -9,16 +9,16 @@
 | Positions | 194 (176 open, 18 closed) |
 | W/L | 8/10 (44%) |
 | 💵 Realized | $+1,033 |
-| 📦 Unrealized | $-2,727 |
-| 🏦 Total | **$-1,695** |
-| Best Trade | 5.9x |
-| Avg Peak | 3.8x |
+| 📦 Unrealized | $-2,737 |
+| 🏦 Total | **$-1,705** |
+| Best ROI | 5.93x |
+| Avg ROI | 1.57x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 STF | $0.000004 | **1.36x** ($+36) | 1.38x |  | pumpfun | 2026-03-20 15:18 |
+| 🟡 STF | $0.000004 | **1.26x** ($+26) | 1.38x |  | pumpfun | 2026-03-20 15:18 |
 | 🔴 WTR | $0.000005 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 15:16 |
 | 🔴 WouldChuck | $0.000003 | **0.97x** ($-3) | 1.06x |  | pumpfun | 2026-03-20 15:11 |
 | 🔴 67 | $0.000003 | **0.94x** ($-6) | 1.02x |  | pumpfun | 2026-03-20 15:07 |

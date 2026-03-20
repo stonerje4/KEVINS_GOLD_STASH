@@ -9,10 +9,10 @@
 | Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-80 |
-| 📦 Unrealized | $+250 |
-| 🏦 Total | **$+170** |
-| Best Trade | 0.2x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+251 |
+| 🏦 Total | **$+171** |
+| Best ROI | 0.20x |
+| Avg ROI | 0.20x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 8QhGyZEr | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:45 |
 | 🟡 genocide | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:36 |
-| 🚀 Doolysaurus | $0.000010 | **10.27x** ($+927) | 11.93x | ✅ | pumpfun | 2026-03-20 10:48 |
+| 🚀 Doolysaurus | $0.000010 | **10.31x** ($+931) | 11.93x | ✅ | pumpfun | 2026-03-20 10:48 |
 | 🟡 Chibify | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
 | 🟡 Freddie | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:31 |

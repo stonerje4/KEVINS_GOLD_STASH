@@ -11,15 +11,15 @@
 | 💵 Realized | $+49 |
 | 📦 Unrealized | $-59 |
 | 🏦 Total | **$-10** |
-| Best Trade | 1.5x |
-| Avg Peak | 3.4x |
+| Best ROI | 1.49x |
+| Avg ROI | 1.49x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Downald | $0.000645 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
-| 🔴 CHIBELON | $0.000141 | **0.49x** ($-51) | 1.78x |  | pumpswap | 2026-03-20 09:39 |
+| 🔴 CHIBELON | $0.000141 | **0.50x** ($-50) | 1.78x |  | pumpswap | 2026-03-20 09:39 |
 
 ## Closed Positions
 

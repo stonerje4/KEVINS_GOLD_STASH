@@ -9,19 +9,19 @@
 | Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+657 |
-| 🏦 Total | **$+657** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+644 |
+| 🏦 Total | **$+644** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 Chuck | $0.000026 | **27.19x** ($+2,619) | 28.19x | ✅ | pumpfun | 2026-03-20 14:16 |
+| 🚀 Chuck | $0.000026 | **26.87x** ($+2,587) | 28.19x | ✅ | pumpfun | 2026-03-20 14:16 |
 | 🟡 RIPCHUCK | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 CHUCK | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
-| 🟢 Chuck | $0.000137 | **2.44x** ($+144) | 3.54x | ✅ | pumpswap | 2026-03-20 13:55 |
+| 🟢 Chuck | $0.000137 | **2.30x** ($+130) | 3.54x | ✅ | pumpswap | 2026-03-20 13:55 |
 | 🟡 RULEBOOK | $0.000057 | **1.21x** ($+21) | 1.36x |  | pumpswap | 2026-03-20 13:00 |
 | 🔴 Doolysaurus | $0.000137 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
 | 🟡 Sybil  | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:40 |

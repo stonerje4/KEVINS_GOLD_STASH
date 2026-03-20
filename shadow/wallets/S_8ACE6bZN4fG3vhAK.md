@@ -11,8 +11,8 @@
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $-81 |
 | 🏦 Total | **$-141** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.1x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
@@ -23,7 +23,7 @@
 | 🟡 Dryer | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:39 |
 | 🟡 AGI | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:45 |
 | 🔴 NBR | $0.000007 | **0.89x** ($-11) | 1.25x |  | pumpfun | 2026-03-20 00:22 |
-| 🔴 Strawberita | $0.000064 | **0.69x** ($-31) | 1.31x |  | pumpswap | 2026-03-19 23:19 |
+| 🔴 Strawberita | $0.000064 | **0.68x** ($-32) | 1.31x |  | pumpswap | 2026-03-19 23:19 |
 
 ## Closed Positions
 

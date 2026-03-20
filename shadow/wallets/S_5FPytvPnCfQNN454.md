@@ -9,17 +9,17 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$+3** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+2 |
+| 🏦 Total | **$+2** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 MOCHI | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:29 |
-| 🟡 Pixels | $0.000035 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 11:31 |
+| 🟡 Pixels | $0.000035 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-20 11:31 |
 | 🟡 AINL | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:55 |
 | 🟡 tinfoil | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:23 |
 | 🟡 ARIA | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:51 |

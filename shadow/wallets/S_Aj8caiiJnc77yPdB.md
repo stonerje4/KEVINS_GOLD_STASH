@@ -9,10 +9,10 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-83 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-103** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.1x |
+| 📦 Unrealized | $+56 |
+| 🏦 Total | **$-28** |
+| Best ROI | 0.85x |
+| Avg ROI | 0.58x |
 
 ## Open Positions
 
@@ -22,7 +22,7 @@
 | 🟡 Goxz9EgL | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
 | 🟡 PsyopChibi | $0.000261 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 effect | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:52 |
-| 🟡 CHIBI | $0.001386 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:17 |
+| 🟡 CHIBI | $0.001386 | **1.75x** ($+75) | 1.75x |  | pumpswap | 2026-03-20 05:17 |
 
 ## Closed Positions
 

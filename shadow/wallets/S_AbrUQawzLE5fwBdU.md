@@ -9,17 +9,17 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-70 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-99** |
-| Best Trade | 0.3x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$-62** |
+| Best ROI | 0.30x |
+| Avg ROI | 0.30x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 12MFghmg | $0.000004 | **0.71x** ($-29) | 1.16x |  | pumpfun | 2026-03-20 07:34 |
-| 🟡 CHIBI | $0.001772 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:20 |
+| 🟡 CHIBI | $0.001772 | **1.37x** ($+37) | 1.37x |  | pumpswap | 2026-03-20 07:20 |
 
 ## Closed Positions
 
