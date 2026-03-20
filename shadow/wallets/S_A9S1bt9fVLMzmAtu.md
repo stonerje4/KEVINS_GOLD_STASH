@@ -1,6 +1,6 @@
 # Wallet: `A9S1bt9fVLMzmAtuJPjLwYRJRKyWi9PfD1AAKF8dh4cN`
 
-> [View on Solscan](https://solscan.io/account/A9S1bt9fVLMzmAtuJPjLwYRJRKyWi9PfD1AAKF8dh4cN) | Updated: 2026-03-20 08:21 UTC
+> [View on Solscan](https://solscan.io/account/A9S1bt9fVLMzmAtuJPjLwYRJRKyWi9PfD1AAKF8dh4cN) | Updated: 2026-03-20 08:26 UTC
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | 🟡 WIZARD | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
 | 🟡 Silly | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:34 |
 | 🔴 Edgar | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 03:56 |
-| 🟡 Solana | $0.000003 | **1.03x** ($+3) | 2.26x | ✅ | pumpswap | 2026-03-20 03:48 |
+| 🟡 Solana | $0.000003 | **1.02x** ($+2) | 2.26x | ✅ | pumpswap | 2026-03-20 03:48 |
 | 🟡 Doolysaurus | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:24 |
 
 ## Closed Positions

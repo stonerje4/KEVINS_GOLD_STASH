@@ -1,31 +1,31 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 08:21 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 08:26 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 98 (81 open, 17 closed) |
-| W/L | 1/16 (6%) |
-| 💵 Realized | $+206 |
-| 📦 Unrealized | $+605 |
-| 🏦 Total | **$+811** |
+| Positions | 99 (81 open, 18 closed) |
+| W/L | 1/17 (6%) |
+| 💵 Realized | $+175 |
+| 📦 Unrealized | $+590 |
+| 🏦 Total | **$+765** |
 | Best Trade | 11.5x |
-| Avg Peak | 3.8x |
+| Avg Peak | 3.7x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHILLBLI | $0.000072 | **1.61x** ($+61) | 2.60x | ✅ | pumpswap | 2026-03-20 08:10 |
+| 🟡 OLAF | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 POLSIA | $0.000108 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:00 |
-| 🟡 CHIBELON | $0.000132 | **1.60x** ($+60) | 1.66x |  | pumpswap | 2026-03-20 07:59 |
+| 🟡 CHIBELON | $0.000132 | **1.39x** ($+39) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 DIRECTOR | $0.000035 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 07:59 |
-| 🔴 TTT | $0.000123 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 07:58 |
+| 🔴 TTT | $0.000123 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 07:58 |
 | 🟡 Noesis | $0.000315 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 07:55 |
 | 🟡 MOSS | $0.000188 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-20 07:33 |
-| 🟡 Tastecoin | $0.000190 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-20 07:24 |
+| 🟡 Tastecoin | $0.000190 | **1.05x** ($+5) | 1.09x |  | pumpswap | 2026-03-20 07:24 |
 | 🔴 MONA | $0.000071 | **0.96x** ($-4) | 1.05x |  | pumpswap | 2026-03-20 07:03 |
 | 🟡 Downald | $0.000391 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
 | 🟡 CHIBI | $0.000072 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:39 |
@@ -34,19 +34,19 @@
 | 🔴 NEO | $0.000030 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 06:14 |
 | 🔴 Clutch | $0.000051 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 Rocky | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
-| 🔴 Phoneclaw | $0.000094 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 05:39 |
+| 🔴 Phoneclaw | $0.000094 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 05:39 |
 | 🟡 MICRO | $0.000093 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-20 05:34 |
 | 🟡 Pixel | $0.000118 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:29 |
-| 🟡 automaton | $0.000107 | **1.07x** ($+7) | 1.13x |  | pumpswap | 2026-03-20 05:16 |
-| 🟡 shitcoin | $0.000075 | **1.04x** ($+4) | 1.11x |  | pumpswap | 2026-03-20 05:08 |
+| 🟡 automaton | $0.000107 | **1.12x** ($+12) | 1.13x |  | pumpswap | 2026-03-20 05:16 |
+| 🟡 shitcoin | $0.000075 | **1.03x** ($+3) | 1.11x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 tinfoil | $0.000068 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 BIG | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:05 |
 | 🟡 JACKPOT | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:24 |
 | 🟡 KIWI | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:00 |
 | 🟡 3EYES | $0.000051 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 03:58 |
-| 🚀 fine999.9 | $0.000118 | **15.02x** ($+1,402) | 16.12x | ✅ | pumpswap | 2026-03-20 03:57 |
+| 🚀 fine999.9 | $0.000118 | **16.81x** ($+1,581) | 17.16x | ✅ | pumpswap | 2026-03-20 03:57 |
 | 🟡 forg | $0.000101 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
-| 🔴 mogging | $0.000049 | **0.88x** ($-12) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
+| 🔴 mogging | $0.000049 | **0.89x** ($-11) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 Solana | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🟡 SAID | $0.000270 | **1.02x** ($+2) | 1.09x |  | pumpswap | 2026-03-20 03:15 |
@@ -104,6 +104,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 CHILLBLI | 0.69x | $-31 | trailing_stop_3x | 2.60x | pumpswap | 2026-03-20 08:10 → 2026-03-20 08:21 |
 | 🔴 DOGEFATHER | 0.31x | $-69 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:50 → 2026-03-20 07:50 |
 | 🔴 AVATAR | 0.40x | $-60 | stop_loss | 1.10x | pumpswap | 2026-03-20 06:39 → 2026-03-20 06:55 |
 | 🔴 EPSTEINBLI | 0.40x | $-60 | stop_loss | 1.67x | pumpswap | 2026-03-20 05:46 → 2026-03-20 06:11 |
