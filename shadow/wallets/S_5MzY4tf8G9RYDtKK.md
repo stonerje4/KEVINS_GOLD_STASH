@@ -1,26 +1,25 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 00:19 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 00:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (13 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-268 |
-| 📦 Unrealized | $-174 |
-| 🏦 Total | **$-442** |
+| Positions | 20 (12 open, 8 closed) |
+| W/L | 0/8 (0%) |
+| 💵 Realized | $-425 |
+| 📦 Unrealized | $-175 |
+| 🏦 Total | **$-599** |
 | Best Trade | 0.8x |
-| Avg Peak | 1.7x |
+| Avg Peak | 1.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 BOB | $0.000016 | **1.22x** ($+22) | 1.46x |  | pumpswap | 2026-03-20 00:16 |
-| 🔴 Cyberfy | $0.000010 | **0.64x** ($-36) | 1.02x |  | pumpfun | 2026-03-20 00:15 |
-| 🟡 Optimistrump | $0.000052 | **1.07x** ($+7) | 1.14x |  | pumpswap | 2026-03-19 23:52 |
+| 🟡 Optimistrump | $0.000003 | **1.10x** ($+10) | 1.11x |  | pumpswap | 2026-03-20 00:22 |
+| 🔴 BOB | $0.000016 | **0.82x** ($-18) | 1.46x |  | pumpswap | 2026-03-20 00:16 |
 | 🔴 REKT | $0.000009 | **0.52x** ($-48) | 1.34x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 ONEAI | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 RiceClaw | $0.000005 | **0.54x** ($-46) | 1.69x |  | pumpfun | 2026-03-19 23:18 |
@@ -36,7 +35,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Cyberfy | 0.37x | $-63 | stop_loss | 1.02x | pumpfun | 2026-03-20 00:15 → 2026-03-20 00:21 |
 | 🔴 ABUNDANCE | 0.20x | $-80 | stop_loss | 1.11x | pumpfun | 2026-03-20 00:04 → 2026-03-20 00:05 |
+| 🔴 Optimistrump | 0.06x | $-94 | stop_loss | 1.14x | pumpswap | 2026-03-19 23:52 → 2026-03-20 00:21 |
 | 🟡 tremp | 0.85x | $-15 | trailing_stop_2x | 2.26x | pumpfun | 2026-03-19 23:51 → 2026-03-20 00:14 |
 | 🟡 CC | 0.82x | $-18 | trailing_stop_3x | 2.55x | pumpfun | 2026-03-19 23:20 → 2026-03-19 23:29 |
 | 🔴 QUIT | 0.26x | $-74 | stop_loss | 1.06x | pumpfun | 2026-03-19 23:07 → 2026-03-19 23:07 |

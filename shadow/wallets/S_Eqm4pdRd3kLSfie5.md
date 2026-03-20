@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 00:19 UTC
+> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 00:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-20 |
-| 📦 Unrealized | $+123 |
-| 🏦 Total | **$+103** |
+| 📦 Unrealized | $-14 |
+| 🏦 Total | **$-34** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.4x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Fruits | $0.000012 | **1.74x** ($+74) | 1.82x |  | pumpfun | 2026-03-20 00:08 |
+| 🔴 Fruits | $0.000012 | **0.66x** ($-34) | 1.96x |  | pumpfun | 2026-03-20 00:08 |
 | 🟡 Mainer | $0.000004 | **1.32x** ($+32) | 1.67x |  | pumpfun | 2026-03-19 23:54 |
 | 🔴 8kDxGVRz | $0.000005 | **0.53x** ($-47) | 1.07x |  | pumpfun | 2026-03-19 23:31 |
 | 🔴 7UkkYv1q | $0.000003 | **0.88x** ($-12) | 1.22x |  | pumpfun | 2026-03-19 23:14 |
-| 🟢 F3 | $0.000007 | **3.21x** ($+221) | 3.78x | ✅ | pumpfun | 2026-03-19 23:13 |
+| 🟢 F3 | $0.000007 | **2.50x** ($+150) | 3.78x | ✅ | pumpfun | 2026-03-19 23:13 |
 | 🔴 7oq7ZeBP | $0.000003 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-19 23:10 |
 
 ## Closed Positions

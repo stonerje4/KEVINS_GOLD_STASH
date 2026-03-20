@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 00:19 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 00:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-93 |
-| 🏦 Total | **$-93** |
+| 📦 Unrealized | $-97 |
+| 🏦 Total | **$-97** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Raccoon | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:18 |
-| 🟡 LIBERTY | $0.000043 | **1.00x** ($+0) | 1.13x |  | pumpswap | 2026-03-20 00:10 |
-| 🔴 CHIBIELON | $0.000005 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-19 23:29 |
-| 🔴 TOKEN | $0.000133 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-19 23:25 |
+| 🔴 Raccoon | $0.000011 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-20 00:18 |
+| 🟡 LIBERTY | $0.000043 | **1.09x** ($+9) | 1.13x |  | pumpswap | 2026-03-20 00:10 |
+| 🔴 CHIBIELON | $0.000005 | **0.83x** ($-17) | 1.03x |  | pumpswap | 2026-03-19 23:29 |
+| 🔴 TOKEN | $0.000133 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 DIVERGENT | $0.000007 | **1.00x** ($-0) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
 | 🔴 George | $0.000026 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-19 22:56 |

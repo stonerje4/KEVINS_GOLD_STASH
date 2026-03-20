@@ -1,6 +1,6 @@
 # Wallet: `44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz`
 
-> [View on Solscan](https://solscan.io/account/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | Updated: 2026-03-20 00:19 UTC
+> [View on Solscan](https://solscan.io/account/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | Updated: 2026-03-20 00:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
-| 📦 Unrealized | $+10 |
-| 🏦 Total | **$+58** |
+| 📦 Unrealized | $+12 |
+| 🏦 Total | **$+60** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 world | $0.000017 | **1.56x** ($+56) | 1.60x |  | pumpfun | 2026-03-20 00:05 |
+| 🟢 world | $0.000017 | **2.16x** ($+116) | 2.16x | ✅ | pumpfun | 2026-03-20 00:05 |
 | 🔴 APEPE | $0.000012 | **0.54x** ($-46) | 1.51x |  | pumpfun | 2026-03-19 22:42 |
 
 ## Closed Positions

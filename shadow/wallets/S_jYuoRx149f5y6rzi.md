@@ -1,6 +1,6 @@
 # Wallet: `jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw`
 
-> [View on Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-20 00:19 UTC
+> [View on Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-20 00:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$+4** |
+| 📦 Unrealized | $+9 |
+| 🏦 Total | **$+9** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LIBERTY | $0.000040 | **1.08x** ($+8) | 2.08x | ✅ | pumpswap | 2026-03-19 23:33 |
+| 🟡 LIBERTY | $0.000040 | **1.17x** ($+17) | 2.08x | ✅ | pumpswap | 2026-03-19 23:33 |
 
 ## Closed Positions
 

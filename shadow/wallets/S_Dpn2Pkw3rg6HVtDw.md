@@ -1,6 +1,6 @@
-# Wallet: `65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa`
+# Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [View on Solscan](https://solscan.io/account/65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa) | Updated: 2026-03-20 00:24 UTC
+> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 00:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+24 |
+| 🏦 Total | **$+24** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TENDIES | $0.000019 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:43 |
+| 🟡 NBR | $0.000007 | **1.24x** ($+24) | 1.32x |  | pumpfun | 2026-03-20 00:22 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
-# Wallet: `65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa`
+# Wallet: `3wjH8sQVn2M68TsW17Nh9fpddQU11Mf6kDrf7x9BG1KC`
 
-> [View on Solscan](https://solscan.io/account/65GbvkTT5ksuR3mLNBiERcZeEMfGKjdfmZxraKQCYWQa) | Updated: 2026-03-20 00:24 UTC
+> [View on Solscan](https://solscan.io/account/3wjH8sQVn2M68TsW17Nh9fpddQU11Mf6kDrf7x9BG1KC) | Updated: 2026-03-20 00:24 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TENDIES | $0.000019 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:43 |
+| 🟡 NEXUS | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 00:22 |
 
 ## Closed Positions
 

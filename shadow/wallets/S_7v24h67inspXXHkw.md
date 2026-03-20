@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 00:19 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 00:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-27 |
-| 🏦 Total | **$-27** |
+| 📦 Unrealized | $-28 |
+| 🏦 Total | **$-28** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
