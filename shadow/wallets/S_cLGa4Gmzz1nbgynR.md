@@ -6,20 +6,21 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 130 (125 open, 5 closed) |
+| Positions | 131 (126 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-218 |
-| 📦 Unrealized | $+138 |
+| 📦 Unrealized | $+137 |
 | 🏦 Total | **$-81** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.5x |
+| Best ROI | 1.48x |
+| Avg ROI | 0.56x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Life | $0.000147 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 11:53 |
 | 🟡 Momo-chan | $0.000315 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:48 |
-| 🟡 fine999.9 | $0.001321 | **1.46x** ($+46) | 1.46x |  | pumpswap | 2026-03-20 11:47 |
+| 🟡 fine999.9 | $0.001321 | **1.45x** ($+45) | 1.48x |  | pumpswap | 2026-03-20 11:47 |
 | 🟡 MOCHI | $0.000122 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:34 |
 | 🟡 AIFRUITS | $0.000517 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
 | 🟡 gugugaga | $0.000149 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |

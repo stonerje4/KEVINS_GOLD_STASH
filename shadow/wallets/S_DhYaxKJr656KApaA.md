@@ -9,17 +9,17 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$+28** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+29 |
+| 🏦 Total | **$+29** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Sybil  | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:40 |
-| 🟡 Chud | $0.000669 | **1.28x** ($+28) | 1.29x |  | pumpswap | 2026-03-20 07:40 |
+| 🟡 Chud | $0.000669 | **1.29x** ($+29) | 1.29x |  | pumpswap | 2026-03-20 07:40 |
 | 🟡 MOCHI | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:07 |
 
 ## Closed Positions

@@ -9,16 +9,16 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+22 |
-| 🏦 Total | **$+22** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+21 |
+| 🏦 Total | **$+21** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Kin-kun | $0.000008 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 11:27 |
+| 🔴 Kin-kun | $0.000008 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 11:27 |
 | 🟡 Genesis-2 | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:10 |
 | 🟡 Coffeegate | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:08 |
 | 🟡 awkward | $0.000012 | **1.26x** ($+26) | 1.40x |  | pumpfun | 2026-03-20 11:07 |
