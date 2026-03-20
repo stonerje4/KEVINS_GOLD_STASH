@@ -9,17 +9,17 @@
 | Positions | 160 (154 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $+316 |
-| 🏦 Total | **$+38** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.5x |
+| 📦 Unrealized | $+317 |
+| 🏦 Total | **$+39** |
+| Best ROI | 1.48x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 GANBARE | $0.000078 | **1.20x** ($+20) | 1.25x |  | pumpswap | 2026-03-20 14:50 |
-| 🟡 boob | $0.002304 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 14:50 |
+| 🟡 boob | $0.002304 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 14:50 |
 | 🟡 BOE | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:46 |
 | 🟡 PAD | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 LAYOFF | $0.000189 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:35 |

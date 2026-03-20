@@ -9,16 +9,16 @@
 | Positions | 19 (13 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+128 |
-| 📦 Unrealized | $+230 |
-| 🏦 Total | **$+358** |
-| Best Trade | 2.9x |
-| Avg Peak | 2.8x |
+| 📦 Unrealized | $+231 |
+| 🏦 Total | **$+359** |
+| Best ROI | 2.95x |
+| Avg ROI | 1.21x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TEAROOM | $0.000015 | **0.93x** ($-7) | 1.54x |  | pumpfun | 2026-03-20 14:53 |
+| 🔴 TEAROOM | $0.000015 | **0.94x** ($-6) | 1.54x |  | pumpfun | 2026-03-20 14:53 |
 | 🟡 JUMP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:37 |
 | 🟢 Patience | $0.000017 | **2.11x** ($+111) | 2.11x | ✅ | pumpfun | 2026-03-20 03:14 |
 | 🔴 SMCI | $0.000004 | **0.69x** ($-31) | 1.00x |  | pumpfun | 2026-03-20 02:49 |

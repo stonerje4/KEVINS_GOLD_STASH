@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 44 (43 open, 1 closed) |
+| Positions | 45 (44 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-64 |
 | 📦 Unrealized | $+10 |
 | 🏦 Total | **$-53** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.4x |
+| Best ROI | 0.36x |
+| Avg ROI | 0.36x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NBR | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:54 |
 | 🟡 RIPCN | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 14:46 |
 | 🟡 FTR | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:42 |
 | 🟡 UOR | $0.000005 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 14:34 |

@@ -9,16 +9,16 @@
 | Positions | 23 (21 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-160 |
-| 📦 Unrealized | $+36 |
-| 🏦 Total | **$-124** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$-123** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.20x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Reach | $0.000003 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 14:47 |
+| 🟡 Reach | $0.000003 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 14:47 |
 | 🟡 memecoin | $0.000092 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 11:56 |
 | 🟡 B | $0.000051 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 10:05 |
 | 🟡 Solmaxxing | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:49 |

@@ -9,16 +9,16 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-83 |
-| 📦 Unrealized | $-5 |
+| 📦 Unrealized | $-4 |
 | 🏦 Total | **$-88** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.1x |
+| Best ROI | 0.85x |
+| Avg ROI | 0.58x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BABYCHIBI | $0.000029 | **0.95x** ($-5) | 1.14x |  | pumpfun | 2026-03-20 14:46 |
+| 🔴 BABYCHIBI | $0.000029 | **0.96x** ($-4) | 1.14x |  | pumpfun | 2026-03-20 14:46 |
 | 🟡 Goxz9EgL | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
 | 🟡 PsyopChibi | $0.000261 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 effect | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:52 |
