@@ -1,16 +1,16 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 174 (5 open, 169 closed) |
-| W/L | 0/169 (0%) |
-| 💵 Realized | $-16,883 |
+| Positions | 177 (5 open, 172 closed) |
+| W/L | 0/172 (0%) |
+| 💵 Realized | $-17,183 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-16,883** |
+| 🏦 Total | **$-17,183** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -28,6 +28,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 ELONIFY | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:43 → 2026-03-20 18:43 |
+| 🔴 ELONIFY | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:41 → 2026-03-20 18:41 |
+| 🔴 ELONIFY | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:40 → 2026-03-20 18:40 |
 | 🔴 ELONIFY | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:38 → 2026-03-20 18:38 |
 | 🔴 ELONIFY | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:36 → 2026-03-20 18:36 |
 | 🔴 SMCI | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:24 → 2026-03-20 18:24 |

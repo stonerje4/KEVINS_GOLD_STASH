@@ -1,18 +1,18 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (8 open, 7 closed) |
-| W/L | 2/5 (29%) |
-| 💵 Realized | $-326 |
+| Positions | 15 (7 open, 8 closed) |
+| W/L | 2/6 (25%) |
+| 💵 Realized | $-419 |
 | 📦 Unrealized | $+8 |
-| 🏦 Total | **$-318** |
+| 🏦 Total | **$-411** |
 | Best ROI | 1.50x |
-| Avg ROI | 0.53x |
+| Avg ROI | 0.48x |
 
 ## Open Positions
 
@@ -25,7 +25,6 @@
 | 🟡 Futa-kun | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🔴 SCRIPT | $0.000008 | **0.88x** ($-12) | 1.35x |  | pumpfun | 2026-03-20 07:52 |
 | 🔴 Thinker | $0.000008 | **0.78x** ($-22) | 1.25x |  | pumpswap | 2026-03-20 07:45 |
-| 🟡 Strawberita | $0.000146 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:25 |
 
 ## Closed Positions
 
@@ -35,6 +34,7 @@
 | 🔴 Kin-kun | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:30 → 2026-03-20 16:30 |
 | 🟡 Sunshine | 1.50x | $+50 | trailing_stop_3x | 3.19x | pumpfun | 2026-03-20 13:13 → 2026-03-20 13:31 |
 | 🟡 awkward | 1.49x | $+49 | trailing_stop_3x | 3.47x | pumpfun | 2026-03-20 09:07 → 2026-03-20 11:17 |
+| 🔴 Strawberita | 0.07x | $-93 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:25 → 2026-03-20 18:40 |
 | 🔴 驚き | 0.35x | $-65 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:22 → 2026-03-20 16:21 |
 | 🔴 ShowMore | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:12 → 2026-03-20 02:12 |
 | 🔴 ShowMore | 0.10x | $-90 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:12 → 2026-03-20 02:12 |

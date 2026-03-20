@@ -1,16 +1,16 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [GMGN](https://gmgn.ai/sol/address/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | [Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | [Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (13 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-183 |
-| 📦 Unrealized | $+1,131 |
-| 🏦 Total | **$+948** |
+| Positions | 17 (13 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-244 |
+| 📦 Unrealized | $+1,231 |
+| 🏦 Total | **$+987** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ✋ | $0.000009 | **0.54x** ($-46) | 1.46x |  | pumpfun | 2026-03-20 18:32 |
-| 🔴 TITUATION | $0.000055 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 18:17 |
+| 🟡 Pessimist | $0.000006 | **1.46x** ($+46) | 1.58x |  | pumpfun | 2026-03-20 18:44 |
+| 🔴 TITUATION | $0.000055 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 18:17 |
 | 🚀 Chuck | $0.000011 | **57.72x** ($+5,672) | 77.12x | ✅ | pumpfun | 2026-03-20 14:13 |
 | 🟡 ME | $0.000017 | **1.27x** ($+27) | 1.34x |  | pumpfun | 2026-03-20 13:23 |
 | 🔴 QUIT | $0.000005 | **0.77x** ($-23) | 1.40x |  | pumpfun | 2026-03-20 11:18 |
@@ -36,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 ✋ | 0.39x | $-61 | stop_loss | 1.46x | pumpfun | 2026-03-20 18:32 → 2026-03-20 18:43 |
 | 🔴 Chuck | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:10 → 2026-03-20 16:11 |
 | 🔴 ME | 0.39x | $-61 | stop_loss | 1.43x | pumpfun | 2026-03-20 08:49 → 2026-03-20 09:03 |
 | 🔴 QUIT | 0.40x | $-60 | stop_loss | 1.34x | pumpfun | 2026-03-20 07:06 → 2026-03-20 07:38 |

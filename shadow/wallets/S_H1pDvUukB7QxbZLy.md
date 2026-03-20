@@ -1,6 +1,6 @@
 # Wallet: `H1pDvUukB7QxbZLyjW7LTTqZt188ovB47ce5hSBK27hC`
 
-> [GMGN](https://gmgn.ai/sol/address/H1pDvUukB7QxbZLyjW7LTTqZt188ovB47ce5hSBK27hC) | [Solscan](https://solscan.io/account/H1pDvUukB7QxbZLyjW7LTTqZt188ovB47ce5hSBK27hC) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/H1pDvUukB7QxbZLyjW7LTTqZt188ovB47ce5hSBK27hC) | [Solscan](https://solscan.io/account/H1pDvUukB7QxbZLyjW7LTTqZt188ovB47ce5hSBK27hC) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+40 |
-| 🏦 Total | **$+40** |
+| 📦 Unrealized | $+42 |
+| 🏦 Total | **$+42** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Norriscoin | $0.000008 | **0.71x** ($-29) | 1.53x |  | pumpfun | 2026-03-20 15:14 |
 | 🟡 NBR | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:08 |
-| 🟡 DRONE | $0.000045 | **1.70x** ($+70) | 1.73x |  | pumpswap | 2026-03-20 02:15 |
+| 🟡 DRONE | $0.000045 | **1.71x** ($+71) | 1.73x |  | pumpswap | 2026-03-20 02:15 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 32 (24 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-449 |
-| 📦 Unrealized | $+99 |
-| 🏦 Total | **$-349** |
+| 📦 Unrealized | $+93 |
+| 🏦 Total | **$-356** |
 | Best ROI | 1.10x |
 | Avg ROI | 0.44x |
 
@@ -41,7 +41,7 @@
 | 🔴 Rosie | $0.000876 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 06:29 |
 | 🔴 Nigel | $0.000200 | **0.56x** ($-44) | 1.33x |  | pumpswap | 2026-03-19 22:54 |
 | 🟡 gork | $0.000167 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 22:49 |
-| 🟡 butthole | $0.000120 | **1.11x** ($+11) | 1.55x |  | pumpswap | 2026-03-19 22:49 |
+| 🟡 butthole | $0.000120 | **1.04x** ($+4) | 1.55x |  | pumpswap | 2026-03-19 22:49 |
 
 ## Closed Positions
 

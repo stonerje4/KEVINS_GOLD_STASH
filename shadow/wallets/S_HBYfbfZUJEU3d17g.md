@@ -1,6 +1,6 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (8 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-374 |
-| 📦 Unrealized | $+70 |
-| 🏦 Total | **$-305** |
+| 📦 Unrealized | $+69 |
+| 🏦 Total | **$-306** |
 | Best ROI | 0.37x |
 | Avg ROI | 0.25x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Handprint | $0.000011 | **0.76x** ($-24) | 1.17x |  | pumpswap | 2026-03-20 18:25 |
 | 🟢 𝕏CAT | $0.000009 | **4.27x** ($+327) | 4.27x | ✅ | pumpfun | 2026-03-20 18:06 |
-| 🟡 maxxing | $0.002495 | **1.03x** ($+3) | 1.06x |  | pumpswap | 2026-03-20 18:02 |
+| 🟡 maxxing | $0.002495 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 18:02 |
 | 🟡 HORMUZ | $0.000209 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:23 |
 | 🔴 OBJECTS | $0.000200 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 17:21 |
 | 🟡 Pixel | $0.000009 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 16:37 |

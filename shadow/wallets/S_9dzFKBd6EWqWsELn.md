@@ -1,6 +1,6 @@
 # Wallet: `9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv`
 
-> [GMGN](https://gmgn.ai/sol/address/9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv) | [Solscan](https://solscan.io/account/9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv) | [Solscan](https://solscan.io/account/9dzFKBd6EWqWsELnNQ6sDsrHEU6U6S17xjWmNo7dQdzv) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-127 |
-| 📦 Unrealized | $-72 |
-| 🏦 Total | **$-198** |
+| 📦 Unrealized | $-52 |
+| 🏦 Total | **$-178** |
 | Best ROI | 0.37x |
 | Avg ROI | 0.37x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 VITALY | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:24 |
-| 🟡 6jSwsik5 | $0.000009 | **1.47x** ($+47) | 2.26x | ✅ | pumpfun | 2026-03-20 18:20 |
+| 🟡 6jSwsik5 | $0.000009 | **1.87x** ($+87) | 2.26x | ✅ | pumpfun | 2026-03-20 18:20 |
 | 🟢 𝕏CAT | $0.000011 | **3.42x** ($+242) | 3.42x | ✅ | pumpfun | 2026-03-20 18:06 |
 | 🔴 STRAIT | $0.000012 | **0.41x** ($-59) | 1.00x |  | pumpfun | 2026-03-20 17:00 |
 | 🟡 ME | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:46 |

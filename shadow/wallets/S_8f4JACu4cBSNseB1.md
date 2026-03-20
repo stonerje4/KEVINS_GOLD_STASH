@@ -1,6 +1,6 @@
 # Wallet: `8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY`
 
-> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | [Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (10 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-224 |
-| 📦 Unrealized | $-1 |
-| 🏦 Total | **$-224** |
+| 📦 Unrealized | $+12 |
+| 🏦 Total | **$-212** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.55x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TITUATION | $0.000033 | **1.32x** ($+32) | 1.63x |  | pumpswap | 2026-03-20 18:14 |
+| 🟡 TITUATION | $0.000033 | **1.45x** ($+45) | 1.63x |  | pumpswap | 2026-03-20 18:14 |
 | 🟡 XCAT | $0.000119 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:09 |
 | 🔴 CHIBI | $0.003616 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 10:58 |
 | 🟡 Lobstar | $0.006584 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:46 |

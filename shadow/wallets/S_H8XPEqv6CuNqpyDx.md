@@ -1,16 +1,16 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | [Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 80 (53 open, 27 closed) |
-| W/L | 2/25 (7%) |
-| 💵 Realized | $-1,312 |
-| 📦 Unrealized | $-375 |
-| 🏦 Total | **$-1,687** |
+| Positions | 80 (52 open, 28 closed) |
+| W/L | 2/26 (7%) |
+| 💵 Realized | $-1,373 |
+| 📦 Unrealized | $-332 |
+| 🏦 Total | **$-1,705** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.51x |
 
@@ -18,7 +18,6 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ✋ | $0.000009 | **0.58x** ($-42) | 1.56x |  | pumpfun | 2026-03-20 18:32 |
 | 🟡 RULEBOOK | $0.000056 | **1.23x** ($+23) | 1.39x |  | pumpswap | 2026-03-20 12:57 |
 | 🟢 SNIFFER | $0.000027 | **2.03x** ($+103) | 2.06x | ✅ | pumpfun | 2026-03-20 12:54 |
 | 🟡 됴지님 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:53 |
@@ -76,6 +75,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 ✋ | 0.39x | $-61 | stop_loss | 1.56x | pumpfun | 2026-03-20 18:32 → 2026-03-20 18:43 |
 | 🔴 DECEPTICONS | 0.12x | $-88 | stop_loss | 1.00x | pumpswap | 2026-03-20 11:53 → 2026-03-20 15:13 |
 | 🔴 Income | 0.35x | $-65 | stop_loss | 1.00x | pumpfun | 2026-03-20 10:15 → 2026-03-20 15:56 |
 | 🔴 Doolysaurus | 0.39x | $-61 | stop_loss | 1.66x | pumpfun | 2026-03-20 09:28 → 2026-03-20 09:57 |

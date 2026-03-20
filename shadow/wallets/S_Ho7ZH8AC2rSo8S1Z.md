@@ -1,12 +1,12 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 18:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 18:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (18 open, 8 closed) |
+| Positions | 27 (19 open, 8 closed) |
 | W/L | 0/8 (0%) |
 | 💵 Realized | $-514 |
 | 📦 Unrealized | $+92 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Solana | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:43 |
 | 🟡 XCAT | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:06 |
 | 🔴 Foodrot | $0.000148 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 16:27 |
 | 🔴 Norriscoin | $0.000007 | **0.84x** ($-16) | 1.18x |  | pumpfun | 2026-03-20 16:17 |
