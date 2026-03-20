@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 02:49 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 02:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 90 (82 open, 8 closed) |
+| Positions | 93 (85 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+999 |
-| 📦 Unrealized | $-1,196 |
-| 🏦 Total | **$-197** |
+| 📦 Unrealized | $-1,262 |
+| 🏦 Total | **$-263** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.7x |
 
@@ -18,18 +18,21 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Island | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 02:52 |
+| 🔴 Semi | $0.000003 | **0.74x** ($-26) | 1.01x |  | pumpfun | 2026-03-20 02:50 |
+| 🟡 Agent | $0.000004 | **1.79x** ($+79) | 1.79x |  | pumpfun | 2026-03-20 02:50 |
 | 🔴 pepe | $0.000004 | **0.81x** ($-19) | 1.01x |  | pumpfun | 2026-03-20 02:45 |
-| 🔴 Bp6gB4SG | $0.000004 | **0.67x** ($-33) | 1.12x |  | pumpfun | 2026-03-20 02:43 |
+| 🔴 Bp6gB4SG | $0.000004 | **0.63x** ($-37) | 1.12x |  | pumpfun | 2026-03-20 02:43 |
 | 🔴 FAKESTEIN | $0.000003 | **0.93x** ($-7) | 1.24x |  | pumpfun | 2026-03-20 02:40 |
-| 🟡 JAPAN | $0.000004 | **1.67x** ($+67) | 1.67x |  | pumpfun | 2026-03-20 02:38 |
-| 🔴 Nonchalant | $0.000003 | **1.00x** ($-0) | 1.07x |  | pumpfun | 2026-03-20 02:32 |
+| 🔴 JAPAN | $0.000004 | **0.72x** ($-28) | 1.67x |  | pumpfun | 2026-03-20 02:38 |
+| 🟡 Nonchalant | $0.000003 | **1.03x** ($+3) | 1.16x |  | pumpfun | 2026-03-20 02:32 |
 | 🔴 INR | $0.000004 | **0.63x** ($-37) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
 | 🔴 EDX84hQ6 | $0.000004 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
 | 🔴 Cats | $0.000003 | **0.83x** ($-17) | 1.18x |  | pumpfun | 2026-03-20 02:26 |
 | 🔴 FUCKENING | $0.000004 | **0.65x** ($-35) | 1.00x |  | pumpfun | 2026-03-20 02:25 |
 | 🔴 CCC | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 02:22 |
 | 🔴 BotFather | $0.000004 | **0.67x** ($-33) | 1.13x |  | pumpfun | 2026-03-20 02:20 |
-| 🔴 Eshkol LLM | $0.000004 | **0.82x** ($-18) | 1.61x |  | pumpfun | 2026-03-20 02:20 |
+| 🔴 Eshkol LLM | $0.000004 | **0.66x** ($-34) | 1.61x |  | pumpfun | 2026-03-20 02:20 |
 | 🔴 OSP | $0.000003 | **0.81x** ($-19) | 1.13x |  | pumpfun | 2026-03-20 02:18 |
 | 🔴 CHANNELS | $0.000005 | **0.58x** ($-42) | 1.00x |  | pumpfun | 2026-03-20 02:18 |
 | 🔴 $METAWIN | $0.000004 | **0.92x** ($-8) | 1.09x |  | pumpfun | 2026-03-20 02:16 |

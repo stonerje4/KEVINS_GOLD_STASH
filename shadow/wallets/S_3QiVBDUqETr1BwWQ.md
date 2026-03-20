@@ -1,6 +1,6 @@
 # Wallet: `3QiVBDUqETr1BwWQpC5LaiwihjwhtePCnzp1vjTUbtfN`
 
-> [View on Solscan](https://solscan.io/account/3QiVBDUqETr1BwWQpC5LaiwihjwhtePCnzp1vjTUbtfN) | Updated: 2026-03-20 02:49 UTC
+> [View on Solscan](https://solscan.io/account/3QiVBDUqETr1BwWQpC5LaiwihjwhtePCnzp1vjTUbtfN) | Updated: 2026-03-20 02:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-24** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$+20** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Alien | $0.000019 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-19 23:43 |
+| 🟡 Alien | $0.000019 | **1.20x** ($+20) | 1.28x |  | pumpswap | 2026-03-19 23:43 |
 
 ## Closed Positions
 

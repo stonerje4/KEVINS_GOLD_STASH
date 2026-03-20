@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 02:49 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 02:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 58 (48 open, 10 closed) |
 | W/L | 0/10 (0%) |
 | 💵 Realized | $-472 |
-| 📦 Unrealized | $+156 |
-| 🏦 Total | **$-316** |
+| 📦 Unrealized | $+154 |
+| 🏦 Total | **$-319** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 APES | $0.000234 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🟡 Momo-chan | $0.000375 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:44 |
-| 🟡 PIZZA | $0.000205 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 02:39 |
+| 🔴 PIZZA | $0.000205 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 02:39 |
 | 🔴 CAGE | $0.000039 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:32 |
 | 🔴 Devious | $0.000074 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:17 |
 | 🔴 Optimislon | $0.000087 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 02:17 |

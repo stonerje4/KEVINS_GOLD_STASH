@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 02:49 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 02:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 51 (50 open, 1 closed) |
+| Positions | 53 (52 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+141 |
-| 🏦 Total | **$+62** |
+| 📦 Unrealized | $+140 |
+| 🏦 Total | **$+61** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Distorted | $0.001015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:51 |
+| 🔴 PIZZA | $0.000203 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
 | 🟡 Snorp | $0.000216 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🟡 TOKEN | $0.000077 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🟡 Gerald | $0.000336 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:40 |

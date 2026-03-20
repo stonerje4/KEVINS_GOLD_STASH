@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 02:49 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 02:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 52 (51 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-45 |
-| 🏦 Total | **$-122** |
+| 📦 Unrealized | $-40 |
+| 🏦 Total | **$-117** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 VAULT | $0.000179 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:41 |
-| 🔴 PIZZA | $0.000209 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:39 |
+| 🟡 VAULT | $0.000179 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-20 02:41 |
+| 🔴 PIZZA | $0.000209 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:39 |
 | 🟡 JOC | $0.000034 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 Skull | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
-| 🟡 Noorung | $0.000011 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 02:25 |
+| 🟡 Noorung | $0.000011 | **1.05x** ($+5) | 1.07x |  | pumpswap | 2026-03-20 02:25 |
 | 🔴 GAS | $0.000376 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 LEGEND | $0.000067 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 02:10 |
 | 🟡 PIGEON  | $0.000224 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 02:06 |
@@ -67,7 +67,7 @@
 | 🔴 PIKAHORSE | $0.000398 | **0.89x** ($-11) | 1.05x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 DEEPSEEKV4 | $0.000041 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 22:54 |
 | 🟡 Goyim | $0.000395 | **1.14x** ($+14) | 1.15x |  | pumpswap | 2026-03-19 22:38 |
-| 🔴 GameTheory | $0.000019 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-19 22:37 |
+| 🔴 GameTheory | $0.000019 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:37 |
 | 🟡 UGOR | $0.000161 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-19 22:37 |
 
 ## Closed Positions

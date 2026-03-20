@@ -1,16 +1,16 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 02:49 UTC
+> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 02:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (7 open, 1 closed) |
+| Positions | 9 (8 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-78 |
-| 📦 Unrealized | $+1 |
-| 🏦 Total | **$-77** |
+| 📦 Unrealized | $-28 |
+| 🏦 Total | **$-106** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.4x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 MINKA | $0.000007 | **2.36x** ($+136) | 3.93x | ✅ | pumpfun | 2026-03-20 02:36 |
+| 🔴 Alien | $0.000024 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 02:51 |
+| 🟡 MINKA | $0.000007 | **1.85x** ($+85) | 3.93x | ✅ | pumpfun | 2026-03-20 02:36 |
 | 🔴 BOAT | $0.000018 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 01:07 |
 | 🔴 DORO | $0.000005 | **0.73x** ($-27) | 1.19x |  | pumpfun | 2026-03-20 00:46 |
 | 🟡 Futa-kun | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 00:00 |
 | 🔴 TRASHBAG | $0.000009 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-19 23:41 |
 | 🔴 Strawberita | $0.000052 | **0.99x** ($-1) | 1.61x |  | pumpswap | 2026-03-19 23:17 |
-| 🔴 WhiteBoy  | $0.000022 | **0.68x** ($-32) | 1.06x |  | pumpswap | 2026-03-19 23:06 |
+| 🔴 WhiteBoy  | $0.000022 | **0.61x** ($-39) | 1.06x |  | pumpswap | 2026-03-19 23:06 |
 
 ## Closed Positions
 

@@ -1,16 +1,16 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 02:49 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 02:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 65 (64 open, 1 closed) |
+| Positions | 66 (65 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-55 |
-| 🏦 Total | **$-132** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-81** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Rosie | $0.000879 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🟡 Snorp | $0.000215 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
-| 🟡 WURK | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
+| 🔴 WURK | $0.000138 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🔴 VAFR | $0.000023 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:40 |
-| 🟡 PIZZA | $0.000206 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:39 |
+| 🔴 PIZZA | $0.000206 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 02:39 |
 | 🟡 Moe | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
-| 🔴 Lobstar | $0.007103 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 02:24 |
+| 🔴 Lobstar | $0.007103 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:24 |
 | 🔴 LULU | $0.000035 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 MIROFISH | $0.000032 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:11 |
 | 🟡 OLAF | $0.000122 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 02:04 |
@@ -65,9 +66,9 @@
 | 🟡 DOGEFATHER | $0.000013 | **1.18x** ($+18) | 2.37x | ✅ | pumpswap | 2026-03-19 23:56 |
 | 🔴 GAS | $0.000379 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-19 23:53 |
 | 🟡 NETANYAHU | $0.000096 | **1.04x** ($+4) | 1.24x |  | pumpswap | 2026-03-19 23:49 |
-| 🟡 Alien | $0.000014 | **1.02x** ($+2) | 1.05x |  | pumpswap | 2026-03-19 23:47 |
+| 🟡 Alien | $0.000014 | **1.61x** ($+61) | 1.71x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 Solana | $0.000186 | **1.04x** ($+4) | 1.19x |  | pumpswap | 2026-03-19 23:44 |
-| 🟡 AINL | $0.000024 | **1.30x** ($+30) | 1.30x |  | pumpswap | 2026-03-19 23:43 |
+| 🟡 AINL | $0.000024 | **1.29x** ($+29) | 1.30x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Monke | $0.000013 | **0.63x** ($-37) | 1.02x |  | pumpswap | 2026-03-19 23:30 |
 | 🟡 COLLECTIBLE | $0.000056 | **1.05x** ($+5) | 1.15x |  | pumpswap | 2026-03-19 23:28 |
 | 🟡 buddy | $0.000320 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 23:13 |

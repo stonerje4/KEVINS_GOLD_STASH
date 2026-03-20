@@ -1,16 +1,16 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 02:49 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 02:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 104 (103 open, 1 closed) |
+| Positions | 105 (104 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+195 |
-| 📦 Unrealized | $+377 |
-| 🏦 Total | **$+571** |
+| 📦 Unrealized | $+373 |
+| 🏦 Total | **$+568** |
 | Best Trade | 2.9x |
 | Avg Peak | 9.8x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 WhiteBoy  | $0.000014 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 02:50 |
 | 🟡 Snorp | $0.000215 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🟡 attn | $0.000286 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🟡 MINDLESS | $0.000198 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |
