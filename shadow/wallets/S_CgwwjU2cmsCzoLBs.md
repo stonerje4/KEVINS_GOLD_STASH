@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (15 open, 14 closed) |
 | W/L | 0/14 (0%) |
 | 💵 Realized | $-960 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$-880** |
+| 📦 Unrealized | $+63 |
+| 🏦 Total | **$-897** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.31x |
 
@@ -32,7 +32,7 @@
 | 🟡 Nigel | $0.000194 | **1.07x** ($+7) | 1.36x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 TRAITOR | $0.000003 | **1.41x** ($+41) | 2.80x | ✅ | pumpswap | 2026-03-19 22:50 |
 | 🔴 NIGGA | $0.000014 | **0.63x** ($-37) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
-| 🟡 BBX | $0.000441 | **1.19x** ($+19) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
+| 🟡 BBX | $0.000441 | **1.02x** ($+2) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
 

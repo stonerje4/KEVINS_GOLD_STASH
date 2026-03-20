@@ -1,16 +1,16 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 31 (29 open, 2 closed) |
+| Positions | 32 (30 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-186 |
-| 📦 Unrealized | $+328 |
-| 🏦 Total | **$+142** |
+| 📦 Unrealized | $+338 |
+| 🏦 Total | **$+152** |
 | Best ROI | 0.14x |
 | Avg ROI | 0.07x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 OSP | $0.000004 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 15:15 |
 | 🟡 NBR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🟡 A6eNhaYz | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 14:11 |
 | 🔴 WAR | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:08 |

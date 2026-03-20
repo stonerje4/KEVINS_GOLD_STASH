@@ -1,6 +1,6 @@
 # Wallet: `DKzjcdAzd8hk2MQEuykWud9hx6WfY6rhRXQH4fMQJkkS`
 
-> [View on Solscan](https://solscan.io/account/DKzjcdAzd8hk2MQEuykWud9hx6WfY6rhRXQH4fMQJkkS) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/DKzjcdAzd8hk2MQEuykWud9hx6WfY6rhRXQH4fMQJkkS) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-35 |
-| 🏦 Total | **$-35** |
+| 📦 Unrealized | $-36 |
+| 🏦 Total | **$-36** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 LUMO | $0.000071 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 14:40 |
+| 🔴 LUMO | $0.000071 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 14:40 |
 | 🟡 Nigel | $0.000291 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
 | 🔴 Frac | $0.000007 | **0.90x** ($-10) | 1.18x |  | pumpfun | 2026-03-20 00:39 |
 

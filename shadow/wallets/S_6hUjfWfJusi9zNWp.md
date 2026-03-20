@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (18 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-84 |
-| 📦 Unrealized | $+133 |
-| 🏦 Total | **$+49** |
+| 📦 Unrealized | $+134 |
+| 🏦 Total | **$+51** |
 | Best ROI | 0.16x |
 | Avg ROI | 0.16x |
 
@@ -20,13 +20,13 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LEE | $0.000008 | **1.15x** ($+15) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 CHUCK | $0.000018 | **0.84x** ($-16) | 1.36x |  | pumpfun | 2026-03-20 14:37 |
-| 🟢 Chuck | $0.000195 | **3.04x** ($+204) | 3.22x | ✅ | pumpswap | 2026-03-20 14:26 |
+| 🟢 Chuck | $0.000195 | **3.14x** ($+214) | 3.36x | ✅ | pumpswap | 2026-03-20 14:26 |
 | 🟡 Nigel | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
 | 🟡 Hermes | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 ANIME | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:50 |
 | 🟡 Freddie | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:32 |
-| 🔴 Income | $0.000034 | **0.53x** ($-47) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
+| 🔴 Income | $0.000034 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 effect | $0.000017 | **2.20x** ($+120) | 2.20x | ✅ | pumpfun | 2026-03-20 09:51 |
 | 🟡 CHIBI | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:50 |
@@ -34,7 +34,7 @@
 | 🟢 SIGNAL | $0.000018 | **2.03x** ($+103) | 2.03x | ✅ | pumpfun | 2026-03-20 09:28 |
 | 🔴 Socrates | $0.000045 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 08:41 |
 | 🔴 EV01 | $0.000017 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 08:19 |
-| 🟡 LUMO | $0.000047 | **1.13x** ($+13) | 1.15x |  | pumpswap | 2026-03-20 07:33 |
+| 🟡 LUMO | $0.000047 | **1.12x** ($+12) | 1.15x |  | pumpswap | 2026-03-20 07:33 |
 | 🔴 CHIBI | $0.001134 | **0.92x** ($-8) | 1.15x |  | pumpswap | 2026-03-20 00:49 |
 
 ## Closed Positions

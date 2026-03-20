@@ -1,16 +1,16 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (9 open, 1 closed) |
+| Positions | 11 (10 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-32 |
-| 🏦 Total | **$-50** |
+| 📦 Unrealized | $-44 |
+| 🏦 Total | **$-61** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.83x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 BfUio6io | $0.000003 | **0.89x** ($-11) | 1.14x |  | pumpfun | 2026-03-20 15:16 |
 | 🔴 Samba | $0.000004 | **0.56x** ($-44) | 1.92x |  | pumpfun | 2026-03-20 03:32 |
 | 🟡 Floki | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:21 |
 | 🔴 PESSIMIST | $0.000004 | **0.72x** ($-28) | 1.10x |  | pumpfun | 2026-03-20 00:57 |

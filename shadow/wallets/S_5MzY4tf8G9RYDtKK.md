@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 56 (33 open, 23 closed) |
 | W/L | 1/22 (4%) |
 | 💵 Realized | $-1,068 |
-| 📦 Unrealized | $+85 |
-| 🏦 Total | **$-982** |
+| 📦 Unrealized | $+235 |
+| 🏦 Total | **$-833** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.54x |
 
@@ -18,18 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000012 | **0.63x** ($-37) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
-| 🔴 FOID | $0.000032 | **0.53x** ($-47) | 1.13x |  | pumpfun | 2026-03-20 13:38 |
+| 🔴 CHUCK | $0.000012 | **0.61x** ($-39) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
+| 🔴 FOID | $0.000032 | **0.49x** ($-51) | 1.13x |  | pumpfun | 2026-03-20 13:38 |
 | 🟡 kinton | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:01 |
 | 🟡 Chibify | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
-| 🟢 Judy | $0.000009 | **2.28x** ($+128) | 2.28x | ✅ | pumpfun | 2026-03-20 10:41 |
-| 🚀 Doolysaurus | $0.000006 | **18.55x** ($+1,755) | 18.93x | ✅ | pumpfun | 2026-03-20 09:52 |
+| 🟢 Judy | $0.000009 | **2.44x** ($+144) | 2.44x | ✅ | pumpfun | 2026-03-20 10:41 |
+| 🚀 Doolysaurus | $0.000006 | **18.13x** ($+1,713) | 18.93x | ✅ | pumpfun | 2026-03-20 09:52 |
 | 🔴 我的猪盾 | $0.000006 | **0.46x** ($-54) | 1.18x |  | pumpfun | 2026-03-20 07:13 |
 | 🟡 IMAGINE | $0.000054 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 TRADITION | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:19 |
-| 🟡 IMAGINE | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
+| 🚀 IMAGINE | $0.000017 | **5.63x** ($+463) | 5.72x | ✅ | pumpswap | 2026-03-20 05:02 |
 | 🟡 MFT | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:12 |
 | 🟡 SPARKOS | $0.000109 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:48 |
 | 🟡 W | $0.000009 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 02:13 |

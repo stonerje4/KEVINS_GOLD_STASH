@@ -1,6 +1,6 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (14 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+372 |
-| 📦 Unrealized | $-92 |
-| 🏦 Total | **$+280** |
+| 📦 Unrealized | $-107 |
+| 🏦 Total | **$+265** |
 | Best ROI | 5.95x |
 | Avg ROI | 2.24x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Pixels | $0.000072 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
+| 🔴 Pixels | $0.000072 | **0.50x** ($-50) | 1.00x |  | pumpswap | 2026-03-20 08:57 |
 | 🟡 IMAGINE | $0.000175 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
 | 🟡 IMAGINE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:04 |
 | 🔴 CIRCLES | $0.000061 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
@@ -31,7 +31,7 @@
 | 🔴 CHIBI | $0.000067 | **0.87x** ($-13) | 1.18x |  | pumpswap | 2026-03-20 00:25 |
 | 🔴 TOKEN | $0.000142 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
 | 🔴 Nigel | $0.000209 | **1.00x** ($-0) | 1.27x |  | pumpswap | 2026-03-19 22:50 |
-| 🟡 BBX | $0.000435 | **1.20x** ($+20) | 1.55x |  | pumpswap | 2026-03-19 22:41 |
+| 🟡 BBX | $0.000435 | **1.03x** ($+3) | 1.55x |  | pumpswap | 2026-03-19 22:41 |
 
 ## Closed Positions
 

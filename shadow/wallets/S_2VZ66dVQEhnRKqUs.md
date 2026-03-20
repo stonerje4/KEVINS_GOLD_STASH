@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (17 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-268 |
-| 📦 Unrealized | $-139 |
-| 🏦 Total | **$-407** |
+| 📦 Unrealized | $-149 |
+| 🏦 Total | **$-417** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.46x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FOID | $0.000017 | **0.96x** ($-4) | 1.08x |  | pumpfun | 2026-03-20 14:58 |
+| 🔴 FOID | $0.000017 | **0.89x** ($-11) | 1.08x |  | pumpfun | 2026-03-20 14:58 |
 | 🟡 OIIA | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |
 | 🟡 IMAGINE | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:51 |
@@ -26,7 +26,7 @@
 | 🔴 WID | $0.000026 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:36 |
 | 🟡 Sentinel | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:13 |
 | 🟡 DRIVE | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:19 |
-| 🔴 Fro | $0.000265 | **0.53x** ($-47) | 1.07x |  | pumpswap | 2026-03-20 02:10 |
+| 🔴 Fro | $0.000265 | **0.49x** ($-51) | 1.07x |  | pumpswap | 2026-03-20 02:10 |
 | 🔴 UBT | $0.000007 | **0.94x** ($-6) | 1.01x |  | pumpswap | 2026-03-20 01:32 |
 | 🔴 Cyberfy | $0.000003 | **0.91x** ($-9) | 1.17x |  | pumpfun | 2026-03-20 01:14 |
 | 🔴 DECEL | $0.000015 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:06 |

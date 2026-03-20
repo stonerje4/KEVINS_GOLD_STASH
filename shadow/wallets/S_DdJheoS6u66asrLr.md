@@ -1,6 +1,6 @@
 # Wallet: `DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V`
 
-> [View on Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-46 |
-| 📦 Unrealized | $-38 |
-| 🏦 Total | **$-83** |
+| 📦 Unrealized | $-91 |
+| 🏦 Total | **$-136** |
 | Best ROI | 0.54x |
 | Avg ROI | 0.54x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBELON | $0.000150 | **0.95x** ($-5) | 1.67x |  | pumpswap | 2026-03-20 08:54 |
+| 🔴 CHIBELON | $0.000150 | **0.42x** ($-58) | 1.67x |  | pumpswap | 2026-03-20 08:54 |
 | 🔴 gugugaga | $0.000174 | **0.99x** ($-1) | 1.21x |  | pumpswap | 2026-03-20 00:42 |
 | 🔴 Saleh | $0.000027 | **0.68x** ($-32) | 1.18x |  | pumpswap | 2026-03-19 22:49 |
 

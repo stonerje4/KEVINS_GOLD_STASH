@@ -1,6 +1,6 @@
 # Wallet: `3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H`
 
-> [View on Solscan](https://solscan.io/account/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-44 |
-| 🏦 Total | **$-44** |
+| 📦 Unrealized | $-48 |
+| 🏦 Total | **$-48** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000628 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 14:52 |
+| 🔴 Chuck | $0.000628 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 14:52 |
 
 ## Closed Positions
 

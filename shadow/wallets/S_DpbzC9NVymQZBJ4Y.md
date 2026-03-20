@@ -1,6 +1,6 @@
 # Wallet: `DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8`
 
-> [View on Solscan](https://solscan.io/account/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-78 |
 | 📦 Unrealized | $+90 |
-| 🏦 Total | **$+12** |
+| 🏦 Total | **$+13** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.61x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Punch | $0.015825 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 11:34 |
 | 🟢 CHIBI | $0.000353 | **2.94x** ($+194) | 3.68x | ✅ | pumpswap | 2026-03-19 23:03 |
-| 🟡 Strawberita | $0.000034 | **1.22x** ($+22) | 2.49x | ✅ | pumpswap | 2026-03-19 22:48 |
+| 🟡 Strawberita | $0.000034 | **1.24x** ($+24) | 2.49x | ✅ | pumpswap | 2026-03-19 22:48 |
 
 ## Closed Positions
 

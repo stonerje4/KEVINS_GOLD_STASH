@@ -1,6 +1,6 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 23 (19 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-249 |
-| 📦 Unrealized | $+11 |
-| 🏦 Total | **$-238** |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$-252** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -29,7 +29,7 @@
 | 🔴 BALD | $0.000005 | **0.59x** ($-41) | 1.14x |  | pumpfun | 2026-03-20 01:36 |
 | 🟡 SHELBY | $0.000009 | **1.10x** ($+10) | 1.21x |  | pumpfun | 2026-03-20 01:27 |
 | 🟡 creature | $0.000019 | **1.02x** ($+2) | 1.13x |  | pumpswap | 2026-03-20 01:23 |
-| 🔴 Moe | $0.000085 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 01:13 |
+| 🔴 Moe | $0.000085 | **0.80x** ($-20) | 1.04x |  | pumpswap | 2026-03-20 01:13 |
 | 🔴 CHIBITRUMP | $0.000019 | **0.63x** ($-37) | 1.01x |  | pumpswap | 2026-03-20 00:52 |
 | 🔴 CHIBIELON | $0.000008 | **0.97x** ($-3) | 1.10x |  | pumpswap | 2026-03-20 00:49 |
 | 🔴 電王 | $0.000029 | **0.88x** ($-12) | 1.07x |  | pumpfun | 2026-03-20 00:44 |

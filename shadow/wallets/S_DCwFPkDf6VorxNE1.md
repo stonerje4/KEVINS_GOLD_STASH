@@ -1,6 +1,6 @@
 # Wallet: `DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj`
 
-> [View on Solscan](https://solscan.io/account/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | Updated: 2026-03-20 15:14 UTC
+> [View on Solscan](https://solscan.io/account/DCwFPkDf6VorxNE1cxR38Fxc18mFq7uPweU735FwyzAj) | Updated: 2026-03-20 15:17 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-13 |
-| 🏦 Total | **$-13** |
+| 📦 Unrealized | $-14 |
+| 🏦 Total | **$-14** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 LUMO | $0.000061 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 11:38 |
+| 🔴 LUMO | $0.000061 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 11:38 |
 | 🟡 MIROFISH | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:19 |
 | 🟡 Nigel | $0.000255 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 
