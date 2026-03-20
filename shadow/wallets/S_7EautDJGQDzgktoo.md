@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 05:55 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 06:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (16 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-145** |
+| 📦 Unrealized | $-33 |
+| 🏦 Total | **$-154** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 AIFRUITS | $0.000790 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:54 |
-| 🟡 EPSTEINBLI | $0.000097 | **1.70x** ($+70) | 2.66x | ✅ | pumpswap | 2026-03-20 05:07 |
+| 🟡 EPSTEINBLI | $0.000097 | **1.53x** ($+53) | 2.66x | ✅ | pumpswap | 2026-03-20 05:07 |
 | 🟡 CL1 | $0.000396 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |
 | 🟡 Solana | $0.000150 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:43 |
 | 🟡 Downald | $0.000590 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |

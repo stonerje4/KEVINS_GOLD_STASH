@@ -1,16 +1,16 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 05:55 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 06:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 40 (28 open, 12 closed) |
-| W/L | 2/10 (17%) |
-| 💵 Realized | $-430 |
-| 📦 Unrealized | $-526 |
-| 🏦 Total | **$-955** |
+| Positions | 42 (29 open, 13 closed) |
+| W/L | 2/11 (15%) |
+| 💵 Realized | $-450 |
+| 📦 Unrealized | $-475 |
+| 🏦 Total | **$-925** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,14 +18,15 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 DBT5vdmZ | $0.000010 | **2.28x** ($+128) | 2.64x | ✅ | pumpfun | 2026-03-20 05:51 |
+| 🟡 7MDPtxq1 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:00 |
+| 🔴 EA | $0.000002 | **0.86x** ($-14) | 1.48x |  | pumpswap | 2026-03-20 05:57 |
+| 🟢 DBT5vdmZ | $0.000010 | **2.00x** ($+100) | 2.64x | ✅ | pumpfun | 2026-03-20 05:51 |
 | 🔴 6QRzuEiP | $0.000004 | **0.69x** ($-31) | 1.08x |  | pumpfun | 2026-03-20 05:48 |
 | 🔴 5ju6JsxF | $0.000005 | **0.51x** ($-49) | 1.37x |  | pumpfun | 2026-03-20 05:42 |
 | 🔴 horse | $0.000003 | **0.86x** ($-14) | 1.05x |  | pumpfun | 2026-03-20 05:40 |
 | 🔴 hopecore | $0.000004 | **0.59x** ($-41) | 1.02x |  | pumpfun | 2026-03-20 05:20 |
-| 🟡 Fk6LNJWo | $0.000004 | **1.03x** ($+3) | 1.97x |  | pumpfun | 2026-03-20 05:17 |
+| 🟡 Fk6LNJWo | $0.000004 | **1.93x** ($+93) | 1.97x |  | pumpfun | 2026-03-20 05:17 |
 | 🔴 GnT2LQRZ | $0.000003 | **0.76x** ($-24) | 1.35x |  | pumpfun | 2026-03-20 05:02 |
-| 🟡 Civil Claude | $0.000011 | **1.22x** ($+22) | 2.03x | ✅ | pumpfun | 2026-03-20 04:42 |
 | 🟡 94S763Nm | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.62x** ($-38) | 1.43x |  | pumpfun | 2026-03-20 04:14 |
 | 🔴 Arc | $0.000004 | **0.65x** ($-35) | 1.68x |  | pumpfun | 2026-03-20 04:07 |
@@ -56,6 +57,7 @@
 | 🔴 MEMEFRONT | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:13 |
 | 🔴 Sublime | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:04 → 2026-03-20 05:05 |
 | 🟡 CORPORATE | 0.80x | $-20 | trailing_stop_2x | 2.35x | pumpfun | 2026-03-20 04:43 → 2026-03-20 04:58 |
+| 🔴 Civil Claude | 0.80x | $-20 | trailing_stop_2x | 2.03x | pumpfun | 2026-03-20 04:42 → 2026-03-20 05:59 |
 | 🟡 9LkTsjEb | 1.49x | $+49 | trailing_stop_4x | 3.62x | pumpfun | 2026-03-20 04:36 → 2026-03-20 04:40 |
 | 🔴 SMCI | 0.38x | $-62 | stop_loss | 1.24x | pumpfun | 2026-03-20 04:23 → 2026-03-20 04:25 |
 | 🟡 9yxNfMaA | 0.84x | $-16 | trailing_stop_3x | 2.99x | pumpfun | 2026-03-20 04:16 → 2026-03-20 04:23 |

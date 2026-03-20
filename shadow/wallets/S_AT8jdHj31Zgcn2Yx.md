@@ -1,16 +1,16 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 05:55 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 06:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 81 (68 open, 13 closed) |
+| Positions | 82 (69 open, 13 closed) |
 | W/L | 0/13 (0%) |
 | 💵 Realized | $-654 |
-| 📦 Unrealized | $+706 |
-| 🏦 Total | **$+52** |
+| 📦 Unrealized | $+754 |
+| 🏦 Total | **$+100** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 EPSTEINBLI | $0.000126 | **1.32x** ($+32) | 1.58x |  | pumpswap | 2026-03-20 05:46 |
+| 🔴 Clutch | $0.000051 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
+| 🟡 EPSTEINBLI | $0.000126 | **1.19x** ($+19) | 1.67x |  | pumpswap | 2026-03-20 05:46 |
 | 🟡 Rocky | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
 | 🟡 Phoneclaw | $0.000094 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:39 |
 | 🔴 MICRO | $0.000093 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 05:34 |
@@ -28,12 +29,12 @@
 | 🟡 tinfoil | $0.000068 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 BIG | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:05 |
 | 🟡 JACKPOT | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:24 |
-| 🚀 HUGH | $0.000147 | **17.93x** ($+1,693) | 26.41x | ✅ | pumpswap | 2026-03-20 04:13 |
+| 🚀 HUGH | $0.000147 | **20.38x** ($+1,938) | 26.41x | ✅ | pumpswap | 2026-03-20 04:13 |
 | 🟡 KIWI | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:00 |
 | 🟡 3EYES | $0.000051 | **1.00x** ($+0) | 1.03x |  | pumpswap | 2026-03-20 03:58 |
-| 🟢 fine999.9 | $0.000118 | **4.97x** ($+397) | 7.22x | ✅ | pumpswap | 2026-03-20 03:57 |
+| 🚀 fine999.9 | $0.000118 | **5.44x** ($+444) | 7.22x | ✅ | pumpswap | 2026-03-20 03:57 |
 | 🟡 forg | $0.000101 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
-| 🟡 mogging | $0.000049 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
+| 🔴 mogging | $0.000049 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 Solana | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🟡 SAID | $0.000270 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-20 03:15 |

@@ -1,16 +1,16 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 05:55 UTC
+> [View on Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-20 06:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 33 (14 open, 19 closed) |
+| Positions | 34 (15 open, 19 closed) |
 | W/L | 3/16 (16%) |
 | 💵 Realized | $-500 |
-| 📦 Unrealized | $-9 |
-| 🏦 Total | **$-510** |
+| 📦 Unrealized | $-63 |
+| 🏦 Total | **$-564** |
 | Best Trade | 2.7x |
 | Avg Peak | 2.2x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 job | $0.000006 | **0.46x** ($-54) | 1.08x |  | pumpfun | 2026-03-20 05:59 |
 | 🟡 FEELESS | $0.000010 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:58 |
 | 🟢 2611vNhu | $0.000008 | **4.75x** ($+375) | 4.75x | ✅ | pumpfun | 2026-03-20 03:27 |
 | 🔴 DQ5vaFMa | $0.000006 | **0.44x** ($-56) | 1.26x |  | pumpfun | 2026-03-20 03:07 |
