@@ -1,6 +1,6 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 26 (26 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+203 |
-| 🏦 Total | **$+203** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+202 |
+| 🏦 Total | **$+202** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PL | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 14:37 |
+| 🔴 PL | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:37 |
 | 🟡 4QQiUarf | $0.000003 | **1.03x** ($+3) | 1.12x |  | pumpfun | 2026-03-20 14:21 |
 | 🟡 NBR | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
 | 🟡 BOURBON | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:09 |

@@ -1,24 +1,24 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 149 (119 open, 30 closed) |
-| W/L | 3/27 (10%) |
-| 💵 Realized | $+2,003 |
-| 📦 Unrealized | $+8 |
-| 🏦 Total | **$+2,011** |
-| Best ROI | 24.90x |
-| Avg ROI | 1.67x |
+| Positions | 150 (119 open, 31 closed) |
+| W/L | 3/28 (10%) |
+| 💵 Realized | $+1,942 |
+| 📦 Unrealized | $+57 |
+| 🏦 Total | **$+1,999** |
+| Best Trade | 24.9x |
+| Avg Peak | 4.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000084 | **0.74x** ($-26) | 1.21x |  | pumpswap | 2026-03-20 14:46 |
+| 🟡 GANBARE | $0.000076 | **1.23x** ($+23) | 1.29x |  | pumpswap | 2026-03-20 14:50 |
 | 🟡 TPH | $0.000179 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 14:42 |
 | 🟡 Doom | $0.000063 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:31 |
 | 🔴 RETARDINU | $0.000115 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 14:25 |
@@ -142,6 +142,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Chuck | 0.39x | $-61 | stop_loss | 1.21x | pumpswap | 2026-03-20 14:46 → 2026-03-20 14:51 |
 | 🟡 Chuck | 0.85x | $-15 | trailing_stop_2x | 2.19x | pumpswap | 2026-03-20 14:25 → 2026-03-20 14:42 |
 | 🔴 LIQUA | 0.24x | $-76 | stop_loss | 1.40x | pumpswap | 2026-03-20 14:11 → 2026-03-20 14:22 |
 | 🔴 tired | 0.40x | $-60 | stop_loss | 1.47x | pumpswap | 2026-03-20 13:28 → 2026-03-20 13:40 |

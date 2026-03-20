@@ -1,45 +1,46 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 321 (317 open, 4 closed) |
+| Positions | 322 (318 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-4 |
-| 📦 Unrealized | $+238 |
-| 🏦 Total | **$+234** |
-| Best ROI | 3.00x |
-| Avg ROI | 0.99x |
+| 📦 Unrealized | $+223 |
+| 🏦 Total | **$+219** |
+| Best Trade | 3.0x |
+| Avg Peak | 2.7x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GANBARE | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:49 |
+| 🟡 Sheep | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
+| 🟡 GANBARE | $0.000090 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-20 14:49 |
 | 🟡 LIZARD | $0.000077 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:48 |
-| 🔴 BigTrout | $0.000279 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:47 |
-| 🟡 boob | $0.002439 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 14:42 |
+| 🔴 BigTrout | $0.000279 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:47 |
+| 🔴 boob | $0.002439 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 14:42 |
 | 🟡 Pixel | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 LOCK | $0.000004 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:22 |
 | 🟡 Newscum | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 TPH | $0.000174 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 GameTheory | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
 | 🔴 Sonny | $0.000005 | **0.70x** ($-30) | 1.06x |  | pumpswap | 2026-03-20 14:11 |
-| 🔴 Higuruma | $0.000020 | **0.82x** ($-18) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
+| 🔴 Higuruma | $0.000020 | **0.68x** ($-32) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
 | 🟡 BBX | $0.000104 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:06 |
-| 🔴 brainrot | $0.000140 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-20 14:04 |
+| 🔴 brainrot | $0.000140 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-20 14:04 |
 | 🟡 Kurumi | $0.000141 | **1.11x** ($+11) | 1.16x |  | pumpswap | 2026-03-20 14:03 |
 | 🟡 CHIBELON | $0.000128 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:03 |
 | 🟡 chibify | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
 | 🟡 Yahu | $0.000025 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
-| 🔴 CLAIR | $0.000015 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
+| 🔴 CLAIR | $0.000015 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
 | 🔴 Helios | $0.000030 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-20 13:17 |
-| 🔴 Ava | $0.000014 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
+| 🔴 Ava | $0.000014 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 13:10 |
 | 🔴 shitcoin | $0.000372 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
 | 🟡 ZENT | $0.000120 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:45 |
 | 🔴 e/alt | $0.000011 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 12:42 |
@@ -331,7 +332,7 @@
 | 🟡 imagineslop | $0.000005 | **1.29x** ($+29) | 1.45x |  | pumpswap | 2026-03-19 22:40 |
 | 🔴 Baldi | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-19 22:39 |
 | 🔴 BAGWORKOOR | $0.000055 | **0.95x** ($-5) | 1.32x |  | pumpswap | 2026-03-19 22:39 |
-| 🟡 Goyim | $0.000385 | **1.46x** ($+46) | 1.72x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000385 | **1.47x** ($+47) | 1.72x |  | pumpswap | 2026-03-19 22:38 |
 | 🟡 DATBOI | $0.000044 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 22:37 |
 | 🔴 CL1 | $0.000335 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:36 |
 | 🔴 worth | $0.000107 | **0.96x** ($-4) | 1.17x |  | pumpswap | 2026-03-19 22:35 |

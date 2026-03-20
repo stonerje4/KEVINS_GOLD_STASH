@@ -1,28 +1,28 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (11 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-21 |
-| 📦 Unrealized | $+224 |
-| 🏦 Total | **$+203** |
-| Best ROI | 0.79x |
-| Avg ROI | 0.79x |
+| Positions | 13 (11 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-81 |
+| 📦 Unrealized | $+158 |
+| 🏦 Total | **$+77** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chuck | $0.000013 | **1.16x** ($+16) | 1.40x |  | pumpfun | 2026-03-20 14:48 |
+| 🔴 Chuck | $0.000007 | **0.56x** ($-44) | 1.05x |  | pumpfun | 2026-03-20 14:51 |
 | 🔴 3Q4iaQgF | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:37 |
-| 🟡 NORRIS | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 14:30 |
-| 🔴 NORRIS | $0.000006 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
-| 🟡 Chuck | $0.000010 | **1.79x** ($+79) | 2.92x | ✅ | pumpswap | 2026-03-20 14:15 |
+| 🔴 NORRIS | $0.000003 | **0.87x** ($-13) | 1.06x |  | pumpfun | 2026-03-20 14:30 |
+| 🔴 NORRIS | $0.000006 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
+| 🟢 Chuck | $0.000010 | **2.25x** ($+125) | 2.92x | ✅ | pumpswap | 2026-03-20 14:15 |
 | 🟡 Doolysaurus | $0.000138 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
 | 🚀 credit | $0.000005 | **7.24x** ($+624) | 7.24x | ✅ | pumpfun | 2026-03-20 03:02 |
 | 🟡 Taylor | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
@@ -34,6 +34,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Chuck | 0.40x | $-60 | stop_loss | 1.40x | pumpfun | 2026-03-20 14:48 → 2026-03-20 14:51 |
 | 🔴 wepaid | 0.79x | $-21 | trailing_stop_2x | 2.12x | pumpfun | 2026-03-20 03:13 → 2026-03-20 03:30 |
 
 ---

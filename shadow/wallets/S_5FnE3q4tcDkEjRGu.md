@@ -1,6 +1,6 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [View on Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 14 (11 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-35 |
-| 📦 Unrealized | $+64 |
-| 🏦 Total | **$+29** |
-| Best ROI | 1.41x |
-| Avg ROI | 0.88x |
+| 📦 Unrealized | $+80 |
+| 🏦 Total | **$+45** |
+| Best Trade | 1.4x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHUCK | $0.000008 | **1.23x** ($+23) | 1.36x |  | pumpfun | 2026-03-20 14:19 |
+| 🟡 CHUCK | $0.000008 | **1.39x** ($+39) | 1.58x |  | pumpfun | 2026-03-20 14:19 |
 | 🟡 CHIBI | $0.000014 | **1.12x** ($+12) | 1.70x |  | pumpfun | 2026-03-20 10:36 |
 | 🟡 Effect | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:11 |
 | 🟢 IMAGINE | $0.000011 | **2.67x** ($+167) | 3.04x | ✅ | pumpfun | 2026-03-20 02:37 |

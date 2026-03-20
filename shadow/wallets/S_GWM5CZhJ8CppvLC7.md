@@ -1,24 +1,26 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 122 (121 open, 1 closed) |
+| Positions | 124 (123 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+117 |
-| 🏦 Total | **$+40** |
-| Best ROI | 0.23x |
-| Avg ROI | 0.23x |
+| 📦 Unrealized | $+133 |
+| 🏦 Total | **$+56** |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 boob | $0.002428 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 14:41 |
+| 🟡 CHIBELON | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
+| 🟡 GANBARE | $0.000079 | **1.18x** ($+18) | 1.24x |  | pumpswap | 2026-03-20 14:50 |
+| 🔴 boob | $0.002428 | **0.99x** ($-1) | 1.01x |  | pumpswap | 2026-03-20 14:41 |
 | 🟡 Doolysaurus | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🔴 RETARDINU | $0.000108 | **0.99x** ($-1) | 1.07x |  | pumpswap | 2026-03-20 14:22 |
 | 🟡 Nigel | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:18 |

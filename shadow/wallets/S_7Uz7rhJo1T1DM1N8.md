@@ -1,23 +1,24 @@
 # Wallet: `7Uz7rhJo1T1DM1N8RgoGcRevzgH3TNmamJ8qnUfQphPa`
 
-> [View on Solscan](https://solscan.io/account/7Uz7rhJo1T1DM1N8RgoGcRevzgH3TNmamJ8qnUfQphPa) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/7Uz7rhJo1T1DM1N8RgoGcRevzgH3TNmamJ8qnUfQphPa) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
 | 🏦 Total | **$+0** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PACO | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:50 |
 | 🟡 CHIBI | $0.003726 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:58 |
 | 🟡 COPPERINU | $0.006067 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
 

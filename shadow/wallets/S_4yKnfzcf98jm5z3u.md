@@ -1,25 +1,26 @@
 # Wallet: `4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH`
 
-> [View on Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
+| Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+184 |
-| 🏦 Total | **$+63** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| 📦 Unrealized | $+177 |
+| 🏦 Total | **$+56** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 JackieChan | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 14:49 |
-| 🟡 Oracle | $0.000007 | **1.07x** ($+7) | 1.45x |  | pumpfun | 2026-03-20 13:57 |
+| 🟡 9wSZbC64 | $0.000003 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 14:53 |
+| 🔴 JackieChan | $0.000003 | **0.88x** ($-12) | 1.02x |  | pumpfun | 2026-03-20 14:49 |
+| 🟡 Oracle | $0.000007 | **1.05x** ($+5) | 1.45x |  | pumpfun | 2026-03-20 13:57 |
 | 🔴 BANKSY | $0.000003 | **0.84x** ($-16) | 1.60x |  | pumpfun | 2026-03-20 13:15 |
 | 🔴 Chibi | $0.000005 | **0.68x** ($-32) | 1.20x |  | pumpfun | 2026-03-20 10:39 |
 | 🚀 Zhdun | $0.000003 | **10.57x** ($+957) | 10.57x | ✅ | pumpfun | 2026-03-20 08:04 |

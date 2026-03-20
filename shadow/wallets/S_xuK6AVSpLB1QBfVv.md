@@ -1,23 +1,24 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 85 (84 open, 1 closed) |
+| Positions | 86 (85 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-398 |
-| 🏦 Total | **$-414** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-399 |
+| 🏦 Total | **$-415** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 BURNBEAR | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 Coglet | $0.000003 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-20 14:38 |
 | 🔴 Chucks | $0.000003 | **0.83x** ($-17) | 1.14x |  | pumpfun | 2026-03-20 14:33 |
 | 🔴 Walletmaxxing | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 14:26 |

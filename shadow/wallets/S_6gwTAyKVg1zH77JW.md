@@ -1,28 +1,29 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 199 (196 open, 3 closed) |
+| Positions | 200 (197 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
-| 📦 Unrealized | $+140 |
-| 🏦 Total | **$+318** |
-| Best ROI | 2.91x |
-| Avg ROI | 1.59x |
+| 📦 Unrealized | $+122 |
+| 🏦 Total | **$+300** |
+| Best Trade | 2.9x |
+| Avg Peak | 4.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHIBELON | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
 | 🟡 ZENT | $0.000109 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:47 |
 | 🟡 Strawberita | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🟡 DATBOI | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 Doolysaurus | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
-| 🔴 Higuruma | $0.000017 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:33 |
+| 🔴 Higuruma | $0.000017 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 14:33 |
 | 🟡 Doom | $0.000067 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Sybil  | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 MICRO | $0.000075 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
@@ -33,7 +34,7 @@
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
 | 🟡 我的刀盾 | $0.002903 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 Squishy | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
-| 🟡 CLAIR | $0.000014 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 13:28 |
+| 🔴 CLAIR | $0.000014 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 NICK | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:22 |
 | 🟡 Chud | $0.000722 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 LAYOFF | $0.000248 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |

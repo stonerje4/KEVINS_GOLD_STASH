@@ -1,6 +1,6 @@
 # Wallet: `F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS`
 
-> [View on Solscan](https://solscan.io/account/F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-1 |
+| 🏦 Total | **$-1** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Elephant | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
+| 🔴 Elephant | $0.000015 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 Beecat | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:06 |
 
 ## Closed Positions

@@ -1,24 +1,25 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (16 open, 1 closed) |
+| Positions | 18 (17 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-18 |
-| 📦 Unrealized | $-110 |
-| 🏦 Total | **$-128** |
-| Best ROI | 0.82x |
-| Avg ROI | 0.82x |
+| 📦 Unrealized | $-116 |
+| 🏦 Total | **$-134** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000008 | **0.76x** ($-24) | 1.10x |  | pumpfun | 2026-03-20 14:48 |
+| 🔴 8DvZcPdA | $0.000007 | **0.95x** ($-5) | 1.63x |  | pumpfun | 2026-03-20 14:53 |
+| 🔴 CHUCK | $0.000008 | **0.75x** ($-25) | 1.10x |  | pumpfun | 2026-03-20 14:48 |
 | 🟡 됴지님 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:48 |
 | 🟡 happiness | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:29 |
 | 🟡 Stanley | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:13 |

@@ -1,30 +1,31 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 54 (53 open, 1 closed) |
+| Positions | 55 (54 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
-| 📦 Unrealized | $-93 |
-| 🏦 Total | **$+97** |
-| Best ROI | 2.91x |
-| Avg ROI | 2.91x |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$+162** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GSCOPE | $0.000003 | **1.31x** ($+31) | 1.85x |  | pumpfun | 2026-03-20 14:37 |
+| 🔴 FROGGO | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 14:51 |
+| 🟢 GSCOPE | $0.000003 | **2.74x** ($+174) | 2.85x | ✅ | pumpfun | 2026-03-20 14:37 |
 | 🔴 CHUCKNORRIS | $0.000003 | **0.99x** ($-1) | 1.13x |  | pumpfun | 2026-03-20 14:10 |
 | 🔴 OKARA | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 13:59 |
 | 🔴 MOSHI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:35 |
 | 🔴 GROKTIRED | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:34 |
 | 🔴 央视币 | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:24 |
-| 🟡 Chibiguy | $0.000003 | **1.66x** ($+66) | 1.95x |  | pumpfun | 2026-03-20 13:19 |
+| 🟡 Chibiguy | $0.000003 | **1.75x** ($+75) | 1.95x |  | pumpfun | 2026-03-20 13:19 |
 | 🟡 GAAS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:11 |
 | 🔴 CJELL | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:05 |
 | 🟡 HIDE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:28 |

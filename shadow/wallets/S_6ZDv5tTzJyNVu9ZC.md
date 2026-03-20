@@ -1,23 +1,27 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 14:49 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 14:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 228 (226 open, 2 closed) |
+| Positions | 232 (230 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+361 |
-| 🏦 Total | **$+494** |
-| Best ROI | 2.95x |
-| Avg ROI | 1.67x |
+| 📦 Unrealized | $+354 |
+| 🏦 Total | **$+487** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Sheep | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
+| 🟡 DOGEFATHER | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
+| 🟡 boob | $0.002300 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 14:50 |
+| 🟡 GANBARE | $0.000088 | **1.06x** ($+6) | 1.11x |  | pumpswap | 2026-03-20 14:50 |
 | 🟡 LIZARD | $0.000075 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:47 |
 | 🟡 BOE | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:46 |
 | 🟡 Strawberita | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:45 |
@@ -27,7 +31,7 @@
 | 🟡 foid | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Socrates | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Pixel | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
-| 🟡 Higuruma | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
+| 🔴 Higuruma | $0.000016 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Doom | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 MICRO | $0.000071 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 Distorted | $0.000890 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:23 |
@@ -40,12 +44,12 @@
 | 🔴 LUNAR | $0.000037 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 house | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 Squishy | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
-| 🔴 Ava | $0.000013 | **0.78x** ($-22) | 1.03x |  | pumpswap | 2026-03-20 13:30 |
+| 🔴 Ava | $0.000013 | **0.77x** ($-23) | 1.03x |  | pumpswap | 2026-03-20 13:30 |
 | 🟡 BBX | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 LAYOFF | $0.000242 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 HORMUZ | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 Fro | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:09 |
-| 🔴 shitcoin | $0.000351 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
+| 🔴 shitcoin | $0.000351 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
 | 🔴 Goyim | $0.000620 | **0.91x** ($-9) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 LIBERTY | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 fine999.9 | $0.002157 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:57 |
