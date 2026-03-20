@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 03:24 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 03:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 58 (57 open, 1 closed) |
+| Positions | 59 (58 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+138 |
-| 🏦 Total | **$+59** |
+| 📦 Unrealized | $+139 |
+| 🏦 Total | **$+60** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Spiderman | $0.000156 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🔴 CIRCLES | $0.000057 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 Solana | $0.000158 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
-| 🟡 CTWIKI | $0.000052 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 03:17 |
+| 🟡 CTWIKI | $0.000052 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 03:17 |
 | 🟡 Gany | $0.000046 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:13 |
 | 🟡 JOC | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 Distorted | $0.001015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:51 |

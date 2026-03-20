@@ -1,12 +1,12 @@
 # Wallet: `9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc`
 
-> [View on Solscan](https://solscan.io/account/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | Updated: 2026-03-20 03:24 UTC
+> [View on Solscan](https://solscan.io/account/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | Updated: 2026-03-20 03:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (1 open, 1 closed) |
+| Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
 | 📦 Unrealized | $+27 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 驚き | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 Bananito | $0.000005 | **1.27x** ($+27) | 1.37x |  | pumpfun | 2026-03-19 23:25 |
 
 ## Closed Positions

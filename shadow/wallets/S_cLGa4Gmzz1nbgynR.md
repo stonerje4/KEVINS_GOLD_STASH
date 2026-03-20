@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:24 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 03:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 80 (77 open, 3 closed) |
+| Positions | 82 (79 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+238 |
-| 🏦 Total | **$+148** |
+| 📦 Unrealized | $+249 |
+| 🏦 Total | **$+158** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,9 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Freebuff | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:27 |
+| 🟡 CLAW3D | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 Solana | $0.000173 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:18 |
-| 🔴 SAID | $0.000274 | **0.95x** ($-5) | 1.04x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 SAID | $0.000274 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 Retardmaxx | $0.000356 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Rosie | $0.000878 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |

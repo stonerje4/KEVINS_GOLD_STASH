@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 03:24 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 03:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 127 (126 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+199 |
-| 📦 Unrealized | $+141 |
-| 🏦 Total | **$+339** |
+| 📦 Unrealized | $+161 |
+| 🏦 Total | **$+360** |
 | Best Trade | 3.0x |
 | Avg Peak | 9.7x |
 
@@ -19,12 +19,12 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
-| 🟡 Gayatollah | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
-| 🟡 BioLLM | $0.000101 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 Gayatollah | $0.000005 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 03:23 |
+| 🟡 BioLLM | $0.000101 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CHIBI | $0.000747 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
 | 🔴 CIRCLES | $0.000064 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 03:20 |
-| 🟡 CTWIKI | $0.000051 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 03:17 |
-| 🔴 SAID | $0.000277 | **0.94x** ($-6) | 1.03x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 CTWIKI | $0.000051 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 03:17 |
+| 🟡 SAID | $0.000277 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 03:15 |
 | 🔴 CARROT | $0.000007 | **0.96x** ($-4) | 1.02x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000048 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 JOC | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:09 |
@@ -119,7 +119,7 @@
 | 🟡 BBX | $0.000369 | **1.42x** ($+42) | 1.83x |  | pumpswap | 2026-03-19 23:39 |
 | 🟡 XAI | $0.000170 | **1.54x** ($+54) | 1.98x |  | pumpswap | 2026-03-19 23:36 |
 | 🔴 HEY | $0.000718 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-19 23:35 |
-| 🔴 AFC | $0.000006 | **0.86x** ($-14) | 1.03x |  | pumpswap | 2026-03-19 23:34 |
+| 🔴 AFC | $0.000006 | **0.87x** ($-13) | 1.03x |  | pumpswap | 2026-03-19 23:34 |
 | 🟡 BOOF | $0.000009 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-19 23:31 |
 | 🟡 XAIC | $0.000190 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-19 23:30 |
 | 🟡 ROME | $0.000009 | **1.15x** ($+15) | 1.75x |  | pumpswap | 2026-03-19 23:26 |
