@@ -1,12 +1,12 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 05:05 UTC
+> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 05:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (9 open, 3 closed) |
+| Positions | 13 (10 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-93 |
 | 📦 Unrealized | $-68 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 RETURN | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 Patience | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 SMCI | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:14 |
 | 🔴 Alien | $0.000024 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 02:51 |

@@ -1,6 +1,6 @@
-# Wallet: `4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G`
+# Wallet: `Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX`
 
-> [View on Solscan](https://solscan.io/account/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) | Updated: 2026-03-20 05:10 UTC
+> [View on Solscan](https://solscan.io/account/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | Updated: 2026-03-20 05:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-20** |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$+15** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PACO | $0.000023 | **0.80x** ($-20) | 1.00x |  | pumpfun | 2026-03-20 04:43 |
+| 🟡 HUGH | $0.002145 | **1.15x** ($+15) | 1.21x |  | pumpswap | 2026-03-20 05:08 |
 
 ## Closed Positions
 

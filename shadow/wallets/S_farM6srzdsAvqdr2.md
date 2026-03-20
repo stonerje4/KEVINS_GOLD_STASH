@@ -1,12 +1,12 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [View on Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 05:05 UTC
+> [View on Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 05:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
+| Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $+1 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NEMO | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:08 |
 | 🟡 twump | $0.000015 | **1.20x** ($+20) | 2.21x | ✅ | pumpfun | 2026-03-19 22:42 |
 | 🔴 DD | $0.000006 | **0.91x** ($-9) | 1.01x |  | pumpfun | 2026-03-19 22:39 |
 

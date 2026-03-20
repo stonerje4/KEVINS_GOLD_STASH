@@ -1,25 +1,24 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 05:05 UTC
+> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 05:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (10 open, 4 closed) |
-| W/L | 1/3 (25%) |
-| 💵 Realized | $-70 |
-| 📦 Unrealized | $+156 |
-| 🏦 Total | **$+87** |
+| Positions | 14 (9 open, 5 closed) |
+| W/L | 1/4 (20%) |
+| 💵 Realized | $-138 |
+| 📦 Unrealized | $+114 |
+| 🏦 Total | **$-24** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.1x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 BitPenis | $0.000006 | **0.42x** ($-58) | 1.30x |  | pumpfun | 2026-03-20 04:59 |
-| 🟡 TADC | $0.000017 | **1.42x** ($+42) | 1.70x |  | pumpfun | 2026-03-20 04:34 |
 | 🟡 HelloWorld! | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 3vvqvjhV | $0.000004 | **0.67x** ($-33) | 1.20x |  | pumpfun | 2026-03-20 04:00 |
 | 🟡 ceal | $0.000030 | **1.22x** ($+22) | 1.22x |  | pumpfun | 2026-03-20 03:33 |
@@ -34,6 +33,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🟡 Gnd9Cmzo | 0.85x | $-15 | trailing_stop_2x | 2.36x | pumpfun | 2026-03-20 04:54 → 2026-03-20 04:56 |
+| 🔴 TADC | 0.32x | $-68 | stop_loss | 1.70x | pumpfun | 2026-03-20 04:34 → 2026-03-20 05:09 |
 | 🔴 INR | 0.68x | $-32 | trailing_stop_2x | 2.06x | pumpfun | 2026-03-20 02:31 → 2026-03-20 02:34 |
 | 🟡 PISSCOIN | 1.40x | $+40 | trailing_stop_3x | 3.09x | pumpfun | 2026-03-20 01:37 → 2026-03-20 01:43 |
 | 🔴 Aiden | 0.38x | $-62 | stop_loss | 1.03x | pumpfun | 2026-03-20 00:39 → 2026-03-20 00:47 |

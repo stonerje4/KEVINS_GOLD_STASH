@@ -1,12 +1,12 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 05:05 UTC
+> [View on Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-20 05:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
+| Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+107 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:09 |
 | 🟡 ROS | $0.000004 | **1.48x** ($+48) | 1.52x |  | pumpfun | 2026-03-20 04:21 |
 | 🟡 USRNR | $0.000003 | **1.33x** ($+33) | 1.33x |  | pumpfun | 2026-03-20 03:23 |
 | 🟡 KAT | $0.000006 | **1.96x** ($+96) | 2.53x | ✅ | pumpfun | 2026-03-19 23:00 |

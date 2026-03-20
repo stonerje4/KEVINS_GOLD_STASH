@@ -1,16 +1,16 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 05:05 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 05:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 72 (59 open, 13 closed) |
+| Positions | 75 (62 open, 13 closed) |
 | W/L | 0/13 (0%) |
 | 💵 Realized | $-654 |
-| 📦 Unrealized | $+558 |
-| 🏦 Total | **$-95** |
+| 📦 Unrealized | $+657 |
+| 🏦 Total | **$+3** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -18,13 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 shitcoin | $0.000075 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 05:08 |
+| 🟡 tinfoil | $0.000068 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
+| 🟡 BIG | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:05 |
 | 🟡 JACKPOT | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:24 |
-| 🚀 HUGH | $0.000147 | **12.52x** ($+1,152) | 15.33x | ✅ | pumpswap | 2026-03-20 04:13 |
+| 🚀 HUGH | $0.000147 | **16.86x** ($+1,586) | 17.71x | ✅ | pumpswap | 2026-03-20 04:13 |
 | 🟡 KIWI | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:00 |
 | 🟡 3EYES | $0.000051 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 03:58 |
-| 🟢 fine999.9 | $0.000118 | **3.83x** ($+283) | 4.00x | ✅ | pumpswap | 2026-03-20 03:57 |
+| 🟢 fine999.9 | $0.000118 | **3.62x** ($+262) | 4.00x | ✅ | pumpswap | 2026-03-20 03:57 |
 | 🟡 forg | $0.000101 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
-| 🟡 mogging | $0.000049 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
+| 🟡 mogging | $0.000049 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 Solana | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
 | 🟡 SAID | $0.000270 | **1.05x** ($+5) | 1.09x |  | pumpswap | 2026-03-20 03:15 |

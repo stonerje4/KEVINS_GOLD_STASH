@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 05:05 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 05:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 91 (88 open, 3 closed) |
+| Positions | 93 (90 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+273 |
-| 🏦 Total | **$+183** |
+| 📦 Unrealized | $+255 |
+| 🏦 Total | **$+165** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,11 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 TeraFab | $0.000055 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 05:08 |
+| 🔴 shitcoin | $0.000073 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 IMAGINE | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🟡 Floki | $0.000053 | **1.04x** ($+4) | 1.14x |  | pumpswap | 2026-03-20 04:51 |
+| 🔴 Floki | $0.000053 | **0.87x** ($-13) | 1.14x |  | pumpswap | 2026-03-20 04:51 |
 | 🟡 Flash | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:47 |
-| 🟡 automaton | $0.000107 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:47 |
-| 🟡 CHOPPER | $0.000025 | **1.08x** ($+8) | 1.11x |  | pumpswap | 2026-03-20 04:44 |
+| 🔴 automaton | $0.000107 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 04:47 |
+| 🟡 CHOPPER | $0.000025 | **1.07x** ($+7) | 1.11x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 Pete | $0.000219 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:55 |
 | 🟡 OIIA | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:53 |
 | 🟡 COLLECTIBLE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
@@ -33,7 +35,7 @@
 | 🟡 Solana | $0.000173 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:18 |
 | 🟡 SAID | $0.000274 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
-| 🟡 Retardmaxx | $0.000356 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
+| 🟡 Retardmaxx | $0.000356 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Rosie | $0.000878 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🔴 WhiteBoy  | $0.000014 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
 | 🟡 OSP | $0.000085 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
