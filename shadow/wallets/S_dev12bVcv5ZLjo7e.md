@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 09:06 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 09:11 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 74 (72 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $-74 |
-| 🏦 Total | **$-44** |
+| 📦 Unrealized | $-76 |
+| 🏦 Total | **$-46** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.1x |
 
@@ -20,9 +20,9 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Chibi | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 09:02 |
 | 🟡 COLONEL | $0.000004 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 08:50 |
-| 🔴 GAS | $0.000006 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 08:46 |
+| 🔴 GAS | $0.000006 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 08:46 |
 | 🔴 Chibi | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 08:39 |
-| 🔴 ChibiJak | $0.000003 | **0.90x** ($-10) | 1.27x |  | pumpfun | 2026-03-20 08:38 |
+| 🔴 ChibiJak | $0.000003 | **0.89x** ($-11) | 1.27x |  | pumpfun | 2026-03-20 08:38 |
 | 🔴 WFD | $0.000003 | **0.92x** ($-8) | 1.07x |  | pumpfun | 2026-03-20 08:33 |
 | 🔴 OSUUSHI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 08:16 |
 | 🔴 UOR | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 08:05 |

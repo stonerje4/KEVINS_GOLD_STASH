@@ -1,29 +1,29 @@
-# Wallet: `EXyZdw5q4iUvAZAvs4q8QD61ZuhsZ4k7r1hfAkEh7FTY`
+# Wallet: `EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ`
 
-> [View on Solscan](https://solscan.io/account/EXyZdw5q4iUvAZAvs4q8QD61ZuhsZ4k7r1hfAkEh7FTY) | Updated: 2026-03-20 09:11 UTC
+> [View on Solscan](https://solscan.io/account/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | Updated: 2026-03-20 09:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-61 |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-61** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 🏦 Total | **$+0** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Zhdun | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:10 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 QUIT | 0.39x | $-61 | stop_loss | 1.01x | pumpfun | 2026-03-20 06:43 → 2026-03-20 07:26 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,26 +1,25 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 09:06 UTC
+> [View on Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 09:11 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 28 (16 open, 12 closed) |
-| W/L | 1/11 (8%) |
-| 💵 Realized | $-513 |
-| 📦 Unrealized | $-177 |
-| 🏦 Total | **$-689** |
+| Positions | 28 (15 open, 13 closed) |
+| W/L | 1/12 (8%) |
+| 💵 Realized | $-573 |
+| 📦 Unrealized | $-117 |
+| 🏦 Total | **$-690** |
 | Best Trade | 1.5x |
-| Avg Peak | 2.2x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AShEeQQB | $0.000007 | **0.41x** ($-59) | 1.85x |  | pumpfun | 2026-03-20 09:01 |
 | 🔴 햇빛 | $0.000004 | **0.68x** ($-32) | 1.20x |  | pumpfun | 2026-03-20 08:55 |
-| 🔴 GAAS | $0.000006 | **0.45x** ($-55) | 1.33x |  | pumpfun | 2026-03-20 08:50 |
+| 🔴 GAAS | $0.000006 | **0.46x** ($-54) | 1.33x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 FROG | $0.000004 | **0.61x** ($-39) | 1.52x |  | pumpfun | 2026-03-20 07:31 |
 | 🟡 MENACE | $0.000004 | **1.04x** ($+4) | 2.89x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 05:51 |
@@ -39,6 +38,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 AShEeQQB | 0.40x | $-60 | stop_loss | 1.85x | pumpfun | 2026-03-20 09:01 → 2026-03-20 09:07 |
 | 🔴 Vera | 0.40x | $-60 | stop_loss | 1.18x | pumpfun | 2026-03-20 08:01 → 2026-03-20 08:05 |
 | 🔴 76f2arMq | 0.40x | $-60 | stop_loss | 1.97x | pumpfun | 2026-03-20 07:44 → 2026-03-20 08:40 |
 | 🟡 awkward | 1.48x | $+48 | trailing_stop_4x | 4.18x | pumpfun | 2026-03-20 07:03 → 2026-03-20 07:52 |
