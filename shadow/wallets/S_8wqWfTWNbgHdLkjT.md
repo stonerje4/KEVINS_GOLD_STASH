@@ -1,16 +1,16 @@
 # Wallet: `8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe`
 
-> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 17:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 17:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-123 |
-| 📦 Unrealized | $-33 |
-| 🏦 Total | **$-156** |
+| Positions | 6 (3 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-187 |
+| 📦 Unrealized | $+13 |
+| 🏦 Total | **$-174** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.38x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FROGS | $0.000023 | **0.67x** ($-33) | 1.00x |  | pumpfun | 2026-03-20 17:34 |
+| 🟡 FROGS | $0.000009 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-20 17:43 |
 | 🟡 Sunshine | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:34 |
 | 🟡 MFT | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:33 |
 
@@ -26,6 +26,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 FROGS | 0.37x | $-63 | stop_loss | 1.00x | pumpfun | 2026-03-20 17:34 → 2026-03-20 17:41 |
 | 🔴 FROGE | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 17:33 → 2026-03-20 17:37 |
 | 🔴 Patricia | 0.37x | $-63 | stop_loss | 1.24x | pumpswap | 2026-03-19 23:16 → 2026-03-20 02:38 |
 

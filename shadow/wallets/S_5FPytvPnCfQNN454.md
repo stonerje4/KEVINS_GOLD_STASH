@@ -1,16 +1,16 @@
 # Wallet: `5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii`
 
-> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 17:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 17:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 11 (11 open, 0 closed) |
+| Positions | 13 (13 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-51 |
-| 🏦 Total | **$-51** |
+| 📦 Unrealized | $-50 |
+| 🏦 Total | **$-50** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 MFT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:43 |
+| 🟡 SNIFFER | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:41 |
 | 🔴 MOCHI | $0.000049 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 13:29 |
 | 🔴 Pixels | $0.000035 | **0.53x** ($-47) | 1.09x |  | pumpswap | 2026-03-20 11:31 |
 | 🟡 AINL | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:55 |

@@ -1,18 +1,18 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 17:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 17:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (12 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-491 |
-| 📦 Unrealized | $+149 |
-| 🏦 Total | **$-342** |
-| Best ROI | 0.84x |
-| Avg ROI | 0.39x |
+| Positions | 20 (11 open, 9 closed) |
+| W/L | 1/8 (11%) |
+| 💵 Realized | $-459 |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$-421** |
+| Best ROI | 1.32x |
+| Avg ROI | 0.49x |
 
 ## Open Positions
 
@@ -26,10 +26,9 @@
 | 🟡 EmH4y6zA | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 Kin-kun | $0.000007 | **1.20x** ($+20) | 1.93x |  | pumpfun | 2026-03-20 09:35 |
 | 🟡 PVC | $0.000008 | **1.55x** ($+55) | 1.69x |  | pumpfun | 2026-03-20 03:18 |
-| 🔴 imagineslop | $0.000009 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 02:11 |
+| 🔴 imagineslop | $0.000009 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 02:11 |
 | 🔴 IShowSpeed | $0.000013 | **0.67x** ($-33) | 1.01x |  | pumpswap | 2026-03-20 02:02 |
 | 🟢 CHIBI | $0.000860 | **2.61x** ($+161) | 2.96x | ✅ | pumpswap | 2026-03-20 00:26 |
-| 🟢 F3 | $0.000007 | **3.13x** ($+213) | 3.78x | ✅ | pumpfun | 2026-03-19 23:13 |
 
 ## Closed Positions
 
@@ -43,6 +42,7 @@
 | 🟡 Kin-kun | 0.84x | $-16 | trailing_stop_2x | 2.41x | pumpfun | 2026-03-20 08:57 → 2026-03-20 09:32 |
 | 🔴 驚き | 0.39x | $-61 | stop_loss | 1.06x | pumpswap | 2026-03-20 01:59 → 2026-03-20 16:21 |
 | 🔴 Fruits | 0.37x | $-63 | stop_loss | 1.96x | pumpfun | 2026-03-20 00:08 → 2026-03-20 00:30 |
+| 🟡 F3 | 1.32x | $+32 | trailing_stop_4x | 3.78x | pumpfun | 2026-03-19 23:13 → 2026-03-20 17:44 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

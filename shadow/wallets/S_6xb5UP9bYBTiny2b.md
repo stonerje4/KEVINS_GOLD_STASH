@@ -1,6 +1,6 @@
 # Wallet: `6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y`
 
-> [GMGN](https://gmgn.ai/sol/address/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | [Solscan](https://solscan.io/account/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | Updated: 2026-03-20 17:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | [Solscan](https://solscan.io/account/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | Updated: 2026-03-20 17:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-95 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$-15** |
+| 📦 Unrealized | $+105 |
+| 🏦 Total | **$+10** |
 | Best ROI | 0.67x |
 | Avg ROI | 0.52x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PAPISTEAK | $0.000005 | **1.28x** ($+28) | 1.55x |  | pumpfun | 2026-03-20 17:33 |
+| 🟡 PAPISTEAK | $0.000005 | **1.53x** ($+53) | 1.55x |  | pumpfun | 2026-03-20 17:33 |
 | 🟡 GORESLOP | $0.000007 | **1.51x** ($+51) | 1.66x |  | pumpfun | 2026-03-20 16:48 |
 | 🟡 tired | $0.000008 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 15:12 |
 

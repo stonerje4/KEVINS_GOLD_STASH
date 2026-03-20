@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 17:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 17:45 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 33 (30 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-166 |
-| 📦 Unrealized | $-131 |
+| 📦 Unrealized | $-132 |
 | 🏦 Total | **$-298** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.45x |
@@ -24,7 +24,7 @@
 | 🔴 awkward | $0.000013 | **0.89x** ($-11) | 1.34x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 Massive | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:22 |
 | 🟡 Strawberita | $0.000049 | **1.23x** ($+23) | 1.26x |  | pumpswap | 2026-03-20 05:21 |
-| 🟡 PIKE | $0.000034 | **1.29x** ($+29) | 1.30x |  | pumpswap | 2026-03-20 05:16 |
+| 🟡 PIKE | $0.000034 | **1.28x** ($+28) | 1.30x |  | pumpswap | 2026-03-20 05:16 |
 | 🟡 Saxophones | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🔴 しずく | $0.000022 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🔴 plumber | $0.000058 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
