@@ -1,6 +1,6 @@
 # Wallet: `5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg`
 
-> [View on Solscan](https://solscan.io/account/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | Updated: 2026-03-20 00:24 UTC
+> [View on Solscan](https://solscan.io/account/5sPUx2zxghq5VLiETEa66g7mj5zTNMUcAzBxQAQrKLvg) | Updated: 2026-03-20 00:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+26 |
+| 🏦 Total | **$+26** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LUMO | $0.000028 | **1.06x** ($+6) | 1.08x |  | pumpswap | 2026-03-19 23:48 |
-| 🟡 Futa-kun | $0.000015 | **1.18x** ($+18) | 1.90x |  | pumpfun | 2026-03-19 23:45 |
-| 🔴 F3 | $0.000023 | **0.76x** ($-24) | 1.06x |  | pumpfun | 2026-03-19 23:29 |
+| 🟡 Futa-kun | $0.000015 | **1.42x** ($+42) | 1.90x |  | pumpfun | 2026-03-19 23:45 |
+| 🔴 F3 | $0.000023 | **0.77x** ($-23) | 1.06x |  | pumpfun | 2026-03-19 23:29 |
 
 ## Closed Positions
 

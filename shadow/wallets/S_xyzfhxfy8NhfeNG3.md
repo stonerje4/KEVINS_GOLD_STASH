@@ -1,6 +1,6 @@
-# Wallet: `6qqr3oi7sZwMJ8ikwFv5cZsz2CEzMUhQ9sn6nUDXcwfm`
+# Wallet: `xyzfhxfy8NhfeNG3Um3WaUvFXzNuHkrhrZMD8dsStB6`
 
-> [View on Solscan](https://solscan.io/account/6qqr3oi7sZwMJ8ikwFv5cZsz2CEzMUhQ9sn6nUDXcwfm) | Updated: 2026-03-20 00:29 UTC
+> [View on Solscan](https://solscan.io/account/xyzfhxfy8NhfeNG3Um3WaUvFXzNuHkrhrZMD8dsStB6) | Updated: 2026-03-20 00:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$+28** |
+| 📦 Unrealized | $+48 |
+| 🏦 Total | **$+48** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pete | $0.000156 | **1.28x** ($+28) | 1.45x |  | pumpswap | 2026-03-19 23:54 |
+| 🟡 Spoder | $0.000013 | **1.48x** ($+48) | 1.64x |  | pumpfun | 2026-03-20 00:25 |
 
 ## Closed Positions
 

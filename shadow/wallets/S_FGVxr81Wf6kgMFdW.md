@@ -1,16 +1,16 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 00:24 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 00:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (5 open, 0 closed) |
+| Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+53 |
-| 🏦 Total | **$+53** |
+| 📦 Unrealized | $+82 |
+| 🏦 Total | **$+82** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 BNB | $0.000003 | **1.29x** ($+29) | 1.35x |  | pumpfun | 2026-03-20 00:24 |
 | 🟡 BGNzSZYh | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 00:03 |
 | 🟡 Downald | $0.000003 | **1.04x** ($+4) | 1.05x |  | pumpfun | 2026-03-19 23:19 |
 | 🟡 FTR | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-19 22:52 |

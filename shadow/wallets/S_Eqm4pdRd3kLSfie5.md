@@ -1,16 +1,16 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 00:24 UTC
+> [View on Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 00:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (6 open, 1 closed) |
+| Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-20 |
-| 📦 Unrealized | $-14 |
-| 🏦 Total | **$-34** |
+| 📦 Unrealized | $-11 |
+| 🏦 Total | **$-30** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.4x |
 
@@ -18,11 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Fruits | $0.000012 | **0.66x** ($-34) | 1.96x |  | pumpfun | 2026-03-20 00:08 |
+| 🟡 CHIBI | $0.000860 | **1.07x** ($+7) | 1.12x |  | pumpswap | 2026-03-20 00:26 |
+| 🔴 Fruits | $0.000012 | **0.60x** ($-40) | 1.96x |  | pumpfun | 2026-03-20 00:08 |
 | 🟡 Mainer | $0.000004 | **1.32x** ($+32) | 1.67x |  | pumpfun | 2026-03-19 23:54 |
 | 🔴 8kDxGVRz | $0.000005 | **0.53x** ($-47) | 1.07x |  | pumpfun | 2026-03-19 23:31 |
 | 🔴 7UkkYv1q | $0.000003 | **0.88x** ($-12) | 1.22x |  | pumpfun | 2026-03-19 23:14 |
-| 🟢 F3 | $0.000007 | **2.50x** ($+150) | 3.78x | ✅ | pumpfun | 2026-03-19 23:13 |
+| 🟢 F3 | $0.000007 | **2.54x** ($+154) | 3.78x | ✅ | pumpfun | 2026-03-19 23:13 |
 | 🔴 7oq7ZeBP | $0.000003 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-19 23:10 |
 
 ## Closed Positions

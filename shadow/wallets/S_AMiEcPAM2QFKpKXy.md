@@ -1,6 +1,6 @@
-# Wallet: `6qqr3oi7sZwMJ8ikwFv5cZsz2CEzMUhQ9sn6nUDXcwfm`
+# Wallet: `AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8`
 
-> [View on Solscan](https://solscan.io/account/6qqr3oi7sZwMJ8ikwFv5cZsz2CEzMUhQ9sn6nUDXcwfm) | Updated: 2026-03-20 00:29 UTC
+> [View on Solscan](https://solscan.io/account/AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8) | Updated: 2026-03-20 00:29 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$+28** |
+| 📦 Unrealized | $-3 |
+| 🏦 Total | **$-3** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pete | $0.000156 | **1.28x** ($+28) | 1.45x |  | pumpswap | 2026-03-19 23:54 |
+| 🔴 FLAG | $0.000008 | **0.97x** ($-3) | 1.03x |  | pumpfun | 2026-03-20 00:26 |
 
 ## Closed Positions
 
