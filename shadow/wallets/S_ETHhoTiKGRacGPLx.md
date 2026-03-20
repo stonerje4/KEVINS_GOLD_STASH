@@ -1,6 +1,6 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 06:55 UTC
+> [View on Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 07:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 23 (22 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-102 |
-| 🏦 Total | **$-188** |
+| 📦 Unrealized | $-105 |
+| 🏦 Total | **$-191** |
 | Best Trade | 0.1x |
 | Avg Peak | 1.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 火马 | $0.000004 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 06:44 |
 | 🔴 7HN2Kb4J | $0.000003 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 06:41 |
-| 🟡 HUGH | $0.000003 | **1.05x** ($+5) | 1.07x |  | pumpfun | 2026-03-20 06:35 |
+| 🟡 HUGH | $0.000003 | **1.01x** ($+1) | 1.07x |  | pumpfun | 2026-03-20 06:35 |
 | 🟡 JFR | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 05:16 |
 | 🔴 OSP | $0.000004 | **0.70x** ($-30) | 1.00x |  | pumpfun | 2026-03-20 03:00 |
 | 🔴 Evq4G9ru | $0.000002 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 02:56 |

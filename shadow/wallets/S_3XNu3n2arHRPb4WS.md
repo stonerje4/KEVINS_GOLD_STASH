@@ -1,6 +1,6 @@
 # Wallet: `3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF`
 
-> [View on Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 06:55 UTC
+> [View on Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 07:00 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 電王 | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:29 |
-| 🔴 Floki | $0.000041 | **0.43x** ($-57) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
+| 🔴 Floki | $0.000041 | **0.44x** ($-56) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
 | 🔴 RIPCHUCK | $0.000011 | **0.74x** ($-26) | 1.03x |  | pumpfun | 2026-03-20 06:08 |
 | 🟡 MOCHI | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:46 |
 

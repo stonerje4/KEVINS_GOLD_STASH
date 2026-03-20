@@ -1,16 +1,16 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 06:55 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 07:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (12 open, 8 closed) |
-| W/L | 1/7 (12%) |
-| 💵 Realized | $-249 |
-| 📦 Unrealized | $+212 |
-| 🏦 Total | **$-37** |
+| Positions | 21 (12 open, 9 closed) |
+| W/L | 1/8 (11%) |
+| 💵 Realized | $-314 |
+| 📦 Unrealized | $+277 |
+| 🏦 Total | **$-36** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.0x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 AVATAR | $0.000052 | **1.26x** ($+26) | 1.48x |  | pumpswap | 2026-03-20 06:57 |
 | 🟡 Pixels | $0.000024 | **1.54x** ($+54) | 1.54x |  | pumpfun | 2026-03-20 06:53 |
-| 🔴 BOAR | $0.000008 | **0.94x** ($-6) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
-| 🔴 AVATAR | $0.000060 | **0.59x** ($-41) | 1.91x |  | pumpswap | 2026-03-20 06:28 |
+| 🔴 BOAR | $0.000008 | **0.93x** ($-7) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 NEMO | $0.000012 | **1.21x** ($+21) | 2.10x | ✅ | pumpfun | 2026-03-20 02:34 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
 | 🟢 9Yqs3sVA | $0.000008 | **4.35x** ($+335) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
@@ -35,6 +35,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 AVATAR | 0.35x | $-65 | stop_loss | 1.91x | pumpswap | 2026-03-20 06:28 → 2026-03-20 06:56 |
 | 🔴 5GsJXBfX | 0.37x | $-63 | stop_loss | 1.54x | pumpfun | 2026-03-20 02:59 → 2026-03-20 03:01 |
 | 🟡 NEMO | 0.84x | $-16 | trailing_stop_2x | 2.43x | pumpfun | 2026-03-20 02:23 → 2026-03-20 02:34 |
 | 🔴 Gz95UGCX | 0.40x | $-60 | stop_loss | 1.53x | pumpfun | 2026-03-20 01:22 → 2026-03-20 01:27 |

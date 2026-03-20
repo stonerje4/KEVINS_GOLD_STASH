@@ -1,16 +1,16 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 06:55 UTC
+> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 07:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (8 open, 6 closed) |
+| Positions | 15 (9 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-178 |
-| 📦 Unrealized | $+121 |
-| 🏦 Total | **$-56** |
+| 📦 Unrealized | $+183 |
+| 🏦 Total | **$+5** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.3x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 AVATAR | $0.000046 | **1.40x** ($+40) | 1.65x |  | pumpswap | 2026-03-20 06:56 |
 | 🔴 大郎 | $0.000005 | **0.51x** ($-49) | 1.20x |  | pumpfun | 2026-03-20 06:44 |
-| 🟡 我的猪盾 | $0.000005 | **1.46x** ($+46) | 2.41x | ✅ | pumpfun | 2026-03-20 06:42 |
+| 🟡 我的猪盾 | $0.000005 | **1.90x** ($+90) | 2.41x | ✅ | pumpfun | 2026-03-20 06:42 |
 | 🔴 HAIL | $0.000015 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
 | 🔴 e/alt | $0.000012 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-20 05:56 |
 | 🔴 Moe-chan | $0.000015 | **0.98x** ($-2) | 1.05x |  | pumpswap | 2026-03-20 05:52 |

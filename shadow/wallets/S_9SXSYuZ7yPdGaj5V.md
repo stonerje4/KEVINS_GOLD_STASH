@@ -1,16 +1,16 @@
 # Wallet: `9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc`
 
-> [View on Solscan](https://solscan.io/account/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | Updated: 2026-03-20 06:55 UTC
+> [View on Solscan](https://solscan.io/account/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | Updated: 2026-03-20 07:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
+| Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $+27 |
-| 🏦 Total | **$+10** |
+| 📦 Unrealized | $+22 |
+| 🏦 Total | **$+6** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 PIXEL | $0.000004 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 06:58 |
 | 🟡 Simulation | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:20 |
 | 🟡 驚き | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 Bananito | $0.000005 | **1.27x** ($+27) | 1.37x |  | pumpfun | 2026-03-19 23:25 |

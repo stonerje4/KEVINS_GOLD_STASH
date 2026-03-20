@@ -1,6 +1,6 @@
-# Wallet: `9SGEqD8mKdx5VHYt9KrYyMc1XBz1yroCfV4RERpwdTnp`
+# Wallet: `AbbUUxWgWJSwibtmyYTfAk6u8pXn9Z1BXnrEu3Z3H6zY`
 
-> [View on Solscan](https://solscan.io/account/9SGEqD8mKdx5VHYt9KrYyMc1XBz1yroCfV4RERpwdTnp) | Updated: 2026-03-20 07:00 UTC
+> [View on Solscan](https://solscan.io/account/AbbUUxWgWJSwibtmyYTfAk6u8pXn9Z1BXnrEu3Z3H6zY) | Updated: 2026-03-20 07:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-22 |
-| 🏦 Total | **$-22** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 INCOME | $0.000724 | **0.78x** ($-22) | 1.01x |  | pumpswap | 2026-03-19 23:54 |
+| 🟡 Newscum | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:55 |
 
 ## Closed Positions
 
