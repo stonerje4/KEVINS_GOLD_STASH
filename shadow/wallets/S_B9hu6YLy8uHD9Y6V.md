@@ -6,13 +6,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 97 (5 open, 92 closed) |
-| W/L | 0/92 (0%) |
-| 💵 Realized | $-9,191 |
+| Positions | 98 (5 open, 93 closed) |
+| W/L | 0/93 (0%) |
+| 💵 Realized | $-9,291 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-9,191** |
-| Best Trade | 0.0x |
-| Avg Peak | 1.0x |
+| 🏦 Total | **$-9,291** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -28,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:49 → 2026-03-20 13:49 |
 | 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:48 → 2026-03-20 13:48 |
 | 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:45 → 2026-03-20 13:45 |
 | 🔴 SNIFFER | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:43 → 2026-03-20 13:43 |

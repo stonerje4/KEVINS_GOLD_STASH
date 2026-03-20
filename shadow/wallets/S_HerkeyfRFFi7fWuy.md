@@ -9,16 +9,16 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-125 |
-| 📦 Unrealized | $+11 |
-| 🏦 Total | **$-114** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.3x |
+| 📦 Unrealized | $+16 |
+| 🏦 Total | **$-109** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.37x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Legoify | $0.000004 | **1.25x** ($+25) | 1.36x |  | pumpswap | 2026-03-20 13:48 |
+| 🟡 Legoify | $0.000004 | **1.29x** ($+29) | 1.36x |  | pumpswap | 2026-03-20 13:48 |
 | 🔴 AISexual | $0.000007 | **0.52x** ($-48) | 1.12x |  | pumpfun | 2026-03-20 13:37 |
 | 🟡 CC | $0.000008 | **1.34x** ($+34) | 1.57x |  | pumpfun | 2026-03-20 13:29 |
 | 🟡 Sybil  | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
