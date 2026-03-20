@@ -1,24 +1,23 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 13:39 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 13:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 140 (113 open, 27 closed) |
-| W/L | 3/24 (11%) |
-| 💵 Realized | $+2,155 |
-| 📦 Unrealized | $-7 |
-| 🏦 Total | **$+2,148** |
-| Best ROI | 24.90x |
-| Avg ROI | 1.80x |
+| Positions | 140 (112 open, 28 closed) |
+| W/L | 3/25 (11%) |
+| 💵 Realized | $+2,094 |
+| 📦 Unrealized | $+33 |
+| 🏦 Total | **$+2,127** |
+| Best Trade | 24.9x |
+| Avg Peak | 4.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 tired | $0.000093 | **0.60x** ($-40) | 1.47x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 IMAGINE | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:27 |
 | 🟡 PIKAHORSE | $0.000248 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:24 |
 | 🟡 SCELON | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:03 |
@@ -136,6 +135,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 tired | 0.40x | $-60 | stop_loss | 1.47x | pumpswap | 2026-03-20 13:28 → 2026-03-20 13:40 |
 | 🔴 HUGH | 0.33x | $-67 | stop_loss | 1.04x | pumpswap | 2026-03-20 10:08 → 2026-03-20 10:12 |
 | 🔴 chiberine | 0.38x | $-62 | stop_loss | 1.18x | pumpswap | 2026-03-20 09:50 → 2026-03-20 09:53 |
 | 🔴 chiberine | 0.38x | $-62 | stop_loss | 1.27x | pumpswap | 2026-03-20 09:39 → 2026-03-20 09:41 |

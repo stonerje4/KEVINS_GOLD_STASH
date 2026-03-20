@@ -1,31 +1,33 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 13:39 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 13:44 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 128 (125 open, 3 closed) |
+| Positions | 130 (127 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
 | 📦 Unrealized | $+209 |
-| 🏦 Total | **$+7** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| 🏦 Total | **$+8** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 我的刀盾 | $0.002892 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
+| 🟡 Saxophones | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:40 |
 | 🟡 house | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 Squishy | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
 | 🟡 SEALION | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:35 |
 | 🟡 MIM | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
 | 🟡 BIG | $0.000070 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:34 |
-| 🟡 CLAIR | $0.000013 | **1.03x** ($+3) | 1.12x |  | pumpswap | 2026-03-20 13:28 |
+| 🟡 CLAIR | $0.000013 | **1.02x** ($+2) | 1.12x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 HORMUZ | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
-| 🟡 Goyim | $0.000621 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
+| 🟡 Goyim | $0.000621 | **1.05x** ($+5) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 fine999.9 | $0.001807 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:59 |
 | 🟡 Matthew | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:56 |
 | 🟡 NETAINYAHU | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:44 |

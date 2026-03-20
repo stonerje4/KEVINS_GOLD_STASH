@@ -1,6 +1,6 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 13:39 UTC
+> [View on Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-20 13:44 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-125 |
-| 📦 Unrealized | $+30 |
-| 🏦 Total | **$-96** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.37x |
+| 📦 Unrealized | $-6 |
+| 🏦 Total | **$-131** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AISexual | $0.000007 | **0.99x** ($-1) | 1.04x |  | pumpfun | 2026-03-20 13:37 |
-| 🟡 CC | $0.000008 | **1.31x** ($+31) | 1.31x |  | pumpfun | 2026-03-20 13:29 |
+| 🔴 AISexual | $0.000007 | **0.63x** ($-37) | 1.12x |  | pumpfun | 2026-03-20 13:37 |
+| 🟡 CC | $0.000008 | **1.31x** ($+31) | 1.42x |  | pumpfun | 2026-03-20 13:29 |
 | 🟡 Sybil  | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 IMAGINE | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:03 |
 
