@@ -1,12 +1,12 @@
 # Wallet: `D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq`
 
-> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 19:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 19:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (10 open, 2 closed) |
+| Positions | 13 (11 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-129 |
 | 📦 Unrealized | $+6 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Kit | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 19:30 |
 | 🟡 ME | $0.000021 | **1.01x** ($+1) | 1.07x |  | pumpfun | 2026-03-20 16:37 |
 | 🟡 LNG | $0.000021 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 16:35 |
 | 🟡 CUJO | $0.000019 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 16:34 |

@@ -1,6 +1,6 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 19:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 19:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (8 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-153 |
-| 📦 Unrealized | $+82 |
-| 🏦 Total | **$-71** |
+| 📦 Unrealized | $+75 |
+| 🏦 Total | **$-78** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.49x |
 
@@ -21,7 +21,7 @@
 | 🟡 FOID | $0.000019 | **1.93x** ($+93) | 1.93x |  | pumpfun | 2026-03-20 14:36 |
 | 🔴 Liqua | $0.000012 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
 | 🟡 ME | $0.000019 | **1.14x** ($+14) | 1.21x |  | pumpfun | 2026-03-20 13:50 |
-| 🟡 genocide | $0.000012 | **1.62x** ($+62) | 1.62x |  | pumpfun | 2026-03-20 12:41 |
+| 🟡 genocide | $0.000012 | **1.55x** ($+55) | 1.62x |  | pumpfun | 2026-03-20 12:41 |
 | 🟡 Civil Claude | $0.000015 | **1.33x** ($+33) | 2.00x | ✅ | pumpfun | 2026-03-20 12:12 |
 | 🔴 Imaginify | $0.000010 | **0.60x** ($-40) | 1.56x |  | pumpfun | 2026-03-20 08:19 |
 | 🟡 NEMO | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:08 |

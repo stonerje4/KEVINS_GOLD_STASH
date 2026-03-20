@@ -1,6 +1,6 @@
 # Wallet: `8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f`
 
-> [GMGN](https://gmgn.ai/sol/address/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | [Solscan](https://solscan.io/account/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | Updated: 2026-03-20 19:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | [Solscan](https://solscan.io/account/8ACE6bZN4fG3vhAKj5stcuRxdtPjoz92Bo7VvDEXu15f) | Updated: 2026-03-20 19:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+50 |
-| 🏦 Total | **$+50** |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$+8** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Collin | $0.000006 | **2.23x** ($+123) | 2.80x | ✅ | pumpfun | 2026-03-20 19:17 |
+| 🟡 Collin | $0.000006 | **1.39x** ($+39) | 2.80x | ✅ | pumpfun | 2026-03-20 19:17 |
 | 🟡 YOU | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:45 |
 | 🟡 AGI | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:45 |
 | 🔴 NBR | $0.000007 | **0.89x** ($-11) | 1.25x |  | pumpfun | 2026-03-20 00:22 |
