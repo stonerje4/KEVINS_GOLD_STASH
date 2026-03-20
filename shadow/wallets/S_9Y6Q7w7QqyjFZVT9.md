@@ -1,12 +1,12 @@
 # Wallet: `9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf`
 
-> [View on Solscan](https://solscan.io/account/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | Updated: 2026-03-20 05:25 UTC
+> [View on Solscan](https://solscan.io/account/9Y6Q7w7QqyjFZVT9KZDL3jswbeJo1RKbELRmpVua3Saf) | Updated: 2026-03-20 05:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+15 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FTR | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:25 |
 | 🟡 Goose | $0.000029 | **1.19x** ($+19) | 1.38x |  | pumpswap | 2026-03-20 01:39 |
 | 🔴 ZENT | $0.000083 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:34 |
 

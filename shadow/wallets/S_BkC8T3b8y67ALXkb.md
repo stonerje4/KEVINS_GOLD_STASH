@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 05:25 UTC
+> [View on Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 05:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 50 (49 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+12 |
-| 🏦 Total | **$-48** |
+| 📦 Unrealized | $+9 |
+| 🏦 Total | **$-52** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Momo-chan | $0.000312 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🟡 NATIVELY | $0.000038 | **1.05x** ($+5) | 1.05x |  | cpmm | 2026-03-20 04:46 |
-| 🟡 MANEKI | $0.000050 | **1.15x** ($+15) | 1.15x |  | cpmm | 2026-03-20 04:46 |
+| 🟡 NATIVELY | $0.000038 | **1.06x** ($+6) | 1.06x |  | cpmm | 2026-03-20 04:46 |
+| 🟡 MANEKI | $0.000050 | **1.17x** ($+17) | 1.18x |  | cpmm | 2026-03-20 04:46 |
 | 🟡 LUMO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Solana | $0.000159 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟡 Spiderman | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
@@ -32,7 +32,7 @@
 | 🟡 PIZZA | $0.000184 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 UGOR | $0.000863 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 AIFRUITS | $0.000671 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
-| 🔴 SOS | $0.000976 | **0.94x** ($-6) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
+| 🔴 SOS | $0.000976 | **0.87x** ($-13) | 1.01x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 CHIBI | $0.000816 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🟡 LIFE | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 PIKAHORSE | $0.000331 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:41 |

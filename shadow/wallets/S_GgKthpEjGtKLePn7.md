@@ -1,16 +1,16 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [View on Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 05:25 UTC
+> [View on Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 05:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (10 open, 2 closed) |
+| Positions | 13 (11 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $+270 |
-| 🏦 Total | **$+253** |
+| 📦 Unrealized | $+232 |
+| 🏦 Total | **$+215** |
 | Best Trade | 1.0x |
 | Avg Peak | 3.3x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 BuhNGftS | $0.000004 | **0.62x** ($-38) | 1.41x |  | pumpfun | 2026-03-20 05:27 |
 | 🟡 OSP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:22 |
 | 🟡 Samba | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:14 |
 | 🔴 UOR | $0.000004 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 03:22 |

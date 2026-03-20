@@ -1,16 +1,16 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 05:25 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 05:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 87 (86 open, 1 closed) |
+| Positions | 88 (87 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+33 |
-| 🏦 Total | **$-45** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$-57** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -18,14 +18,15 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:28 |
 | 🟡 Goose | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
-| 🟡 TeraFab | $0.000053 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 05:17 |
+| 🟡 TeraFab | $0.000053 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 05:17 |
 | 🟡 neet | $0.021822 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-20 05:13 |
-| 🔴 WhiteHouse | $0.000359 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
+| 🔴 WhiteHouse | $0.000359 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
 | 🔴 shitcoin | $0.000074 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 05:08 |
-| 🔴 SOS | $0.000926 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 04:45 |
+| 🔴 SOS | $0.000926 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 04:45 |
 | 🟡 CHOPPER | $0.000025 | **1.06x** ($+6) | 1.10x |  | pumpswap | 2026-03-20 04:44 |
-| 🟡 Punch | $0.014730 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 04:43 |
+| 🟡 Punch | $0.014730 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Spiderman | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:42 |
 | 🔴 YEPE | $0.000092 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 04:40 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:14 |
@@ -95,7 +96,7 @@
 | 🟡 buddy | $0.000320 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 HOSPICE | $0.000025 | **0.95x** ($-5) | 1.15x |  | pumpswap | 2026-03-19 23:12 |
 | 🟡 Hamster  | $0.000218 | **1.03x** ($+3) | 1.22x |  | pumpswap | 2026-03-19 23:05 |
-| 🟡 Island | $0.000036 | **1.29x** ($+29) | 1.29x |  | pumpswap | 2026-03-19 23:02 |
+| 🟡 Island | $0.000036 | **1.28x** ($+28) | 1.29x |  | pumpswap | 2026-03-19 23:02 |
 | 🟡 ケイジ | $0.000088 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 Clude | $0.001529 | **0.94x** ($-6) | 1.02x |  | pumpswap | 2026-03-19 22:57 |
 | 🔴 OXIDE | $0.000037 | **0.78x** ($-22) | 1.16x |  | pumpswap | 2026-03-19 22:54 |

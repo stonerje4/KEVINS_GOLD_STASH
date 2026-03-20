@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 05:25 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 05:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 45 (44 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$+125** |
+| 📦 Unrealized | $+79 |
+| 🏦 Total | **$+124** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 BBX | $0.000003 | **1.30x** ($+30) | 1.30x |  | pumpfun | 2026-03-20 05:19 |
-| 🟡 3rqUx4d2 | $0.000003 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 05:19 |
+| 🟡 3rqUx4d2 | $0.000003 | **1.06x** ($+6) | 1.07x |  | pumpfun | 2026-03-20 05:19 |
 | 🟡 imaginify | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 05:09 |
 | 🟡 Jimbo | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 04:48 |
 | 🟡 キンくん | $0.000003 | **1.04x** ($+4) | 1.08x |  | pumpfun | 2026-03-20 04:32 |

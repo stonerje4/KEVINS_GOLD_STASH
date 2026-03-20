@@ -1,6 +1,6 @@
 # Wallet: `Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E`
 
-> [View on Solscan](https://solscan.io/account/Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E) | Updated: 2026-03-20 05:25 UTC
+> [View on Solscan](https://solscan.io/account/Gd78s23HFeN29Hhk4KAReoqysb2KdCZqJSodq5a9Es3E) | Updated: 2026-03-20 05:30 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBIMINAJ | $0.000006 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 05:17 |
+| 🟡 CHIBIMINAJ | $0.000006 | **1.05x** ($+5) | 1.07x |  | pumpfun | 2026-03-20 05:17 |
 | 🟡 IMAGINE | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:03 |
 | 🟡 HUGH | $0.000003 | **1.05x** ($+5) | 1.07x |  | pumpfun | 2026-03-20 05:01 |
 | 🔴 RYS | $0.000351 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-19 22:50 |
