@@ -1,12 +1,12 @@
 # Wallet: `3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF`
 
-> [GMGN](https://gmgn.ai/sol/address/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | [Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 17:36 UTC
+> [GMGN](https://gmgn.ai/sol/address/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | [Solscan](https://solscan.io/account/3XNu3n2arHRPb4WS8dDDYax4zYB8YWPKB9UkXWrpidxF) | Updated: 2026-03-20 17:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (4 open, 4 closed) |
+| Positions | 9 (5 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-197 |
 | 📦 Unrealized | $-108 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Chuck | $0.000374 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:39 |
 | 🔴 Peace  | $0.000543 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 09:10 |
 | 🔴 QUIT | $0.000008 | **0.51x** ($-49) | 1.07x |  | pumpfun | 2026-03-20 08:41 |
 | 🟡 電王 | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:29 |

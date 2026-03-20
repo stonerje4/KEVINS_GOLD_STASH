@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 17:36 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-20 17:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 33 (30 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-166 |
-| 📦 Unrealized | $-128 |
-| 🏦 Total | **$-295** |
+| 📦 Unrealized | $-131 |
+| 🏦 Total | **$-298** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.45x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Wob | $0.000023 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🔴 Flash | $0.000038 | **0.91x** ($-9) | 1.03x |  | pumpswap | 2026-03-20 10:43 |
-| 🔴 LUMO | $0.000061 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 10:27 |
+| 🔴 LUMO | $0.000061 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 10:27 |
 | 🔴 awkward | $0.000013 | **0.89x** ($-11) | 1.34x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 Massive | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:22 |
 | 🟡 Strawberita | $0.000049 | **1.23x** ($+23) | 1.26x |  | pumpswap | 2026-03-20 05:21 |

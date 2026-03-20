@@ -1,6 +1,6 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 17:36 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-20 17:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+45 |
-| 🏦 Total | **$-17** |
+| 📦 Unrealized | $+40 |
+| 🏦 Total | **$-22** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -26,7 +26,7 @@
 | 🔴 Genesis-2 | $0.000006 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 00:40 |
 | 🟡 Eugene | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:39 |
 | 🟡 FIH | $0.000305 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-19 23:10 |
-| 🟡 LUMO | $0.000035 | **1.30x** ($+30) | 1.65x |  | pumpswap | 2026-03-19 23:03 |
+| 🟡 LUMO | $0.000035 | **1.25x** ($+25) | 1.65x |  | pumpswap | 2026-03-19 23:03 |
 
 ## Closed Positions
 

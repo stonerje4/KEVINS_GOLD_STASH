@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 17:36 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-20 17:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 81 (74 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-439 |
-| 📦 Unrealized | $-238 |
-| 🏦 Total | **$-677** |
+| 📦 Unrealized | $-245 |
+| 🏦 Total | **$-684** |
 | Best ROI | 0.73x |
 | Avg ROI | 0.37x |
 
@@ -49,14 +49,14 @@
 | 🟡 Optimistic | $0.000604 | **1.34x** ($+34) | 1.67x |  | pumpswap | 2026-03-20 05:56 |
 | 🔴 Rosie | $0.000797 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 05:51 |
 | 🟡 Momo-chan | $0.000312 | **1.07x** ($+7) | 1.24x |  | pumpswap | 2026-03-20 05:02 |
-| 🟡 LUMO | $0.000035 | **1.29x** ($+29) | 1.57x |  | pumpswap | 2026-03-20 04:31 |
+| 🟡 LUMO | $0.000035 | **1.24x** ($+24) | 1.57x |  | pumpswap | 2026-03-20 04:31 |
 | 🔴 Spiderman | $0.000144 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 04:26 |
 | 🔴 Fro | $0.000194 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 04:06 |
 | 🔴 KIWI | $0.000143 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 herm | $0.000163 | **1.73x** ($+73) | 1.81x |  | pumpswap | 2026-03-20 04:02 |
-| 🔴 BBX | $0.000451 | **0.84x** ($-16) | 1.01x |  | pumpswap | 2026-03-20 03:57 |
+| 🔴 BBX | $0.000451 | **0.82x** ($-18) | 1.01x |  | pumpswap | 2026-03-20 03:57 |
 | 🟡 NBR | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:51 |
-| 🟡 PIZZA | $0.000184 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 03:46 |
+| 🟡 PIZZA | $0.000184 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 UGOR | $0.000863 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🔴 AIFRUITS | $0.000671 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 SOS | $0.000976 | **1.14x** ($+14) | 1.20x |  | pumpswap | 2026-03-20 03:41 |

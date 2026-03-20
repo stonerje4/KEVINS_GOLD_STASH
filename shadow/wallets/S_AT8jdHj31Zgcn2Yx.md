@@ -1,6 +1,6 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [GMGN](https://gmgn.ai/sol/address/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | [Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 17:36 UTC
+> [GMGN](https://gmgn.ai/sol/address/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | [Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 17:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 165 (121 open, 44 closed) |
 | W/L | 3/41 (7%) |
 | 💵 Realized | $+1,045 |
-| 📦 Unrealized | $-70 |
-| 🏦 Total | **$+975** |
+| 📦 Unrealized | $-71 |
+| 🏦 Total | **$+974** |
 | Best ROI | 24.90x |
 | Avg ROI | 1.24x |
 
@@ -54,7 +54,7 @@
 | 🟡 UNTAXED | $0.000142 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:14 |
 | 🟡 CHIBIS | $0.000080 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:04 |
 | 🟡 BAGWORKOOR | $0.000057 | **1.03x** ($+3) | 1.06x |  | pumpswap | 2026-03-20 11:01 |
-| 🔴 LUMO | $0.000089 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 10:52 |
+| 🔴 LUMO | $0.000089 | **0.49x** ($-51) | 1.00x |  | pumpswap | 2026-03-20 10:52 |
 | 🟡 MICHIBI | $0.000073 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:52 |
 | 🟡 gugugaga | $0.000160 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 fren | $0.000132 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
@@ -84,7 +84,7 @@
 | 🟡 automaton | $0.000107 | **1.14x** ($+14) | 1.15x |  | pumpswap | 2026-03-20 05:16 |
 | 🔴 shitcoin | $0.000075 | **0.89x** ($-11) | 1.11x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 tinfoil | $0.000068 | **1.10x** ($+10) | 1.16x |  | pumpswap | 2026-03-20 05:06 |
-| 🔴 BIG | $0.000082 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 05:05 |
+| 🔴 BIG | $0.000082 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 05:05 |
 | 🔴 JACKPOT | $0.000079 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 04:24 |
 | 🔴 KIWI | $0.000144 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 04:00 |
 | 🔴 3EYES | $0.000051 | **0.95x** ($-5) | 1.13x |  | pumpswap | 2026-03-20 03:58 |
@@ -95,7 +95,7 @@
 | 🟡 IMAGINE | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🔴 APES | $0.000234 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🔴 Momo-chan | $0.000375 | **0.89x** ($-11) | 1.03x |  | pumpswap | 2026-03-20 02:44 |
-| 🔴 PIZZA | $0.000205 | **0.90x** ($-10) | 1.02x |  | pumpswap | 2026-03-20 02:39 |
+| 🔴 PIZZA | $0.000205 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-20 02:39 |
 | 🔴 CAGE | $0.000039 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:32 |
 | 🔴 Devious | $0.000074 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:17 |
 | 🟡 Optimislon | $0.000087 | **1.26x** ($+26) | 1.32x |  | pumpswap | 2026-03-20 02:17 |

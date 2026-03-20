@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 17:36 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 17:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (22 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-370 |
-| 📦 Unrealized | $+217 |
-| 🏦 Total | **$-154** |
+| 📦 Unrealized | $+213 |
+| 🏦 Total | **$-158** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.47x |
 
@@ -38,7 +38,7 @@
 | 🟢 SIGNAL | $0.000018 | **2.03x** ($+103) | 2.03x | ✅ | pumpfun | 2026-03-20 09:28 |
 | 🔴 Socrates | $0.000045 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 08:41 |
 | 🔴 EV01 | $0.000017 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 08:19 |
-| 🔴 LUMO | $0.000047 | **0.98x** ($-2) | 1.19x |  | pumpswap | 2026-03-20 07:33 |
+| 🔴 LUMO | $0.000047 | **0.93x** ($-7) | 1.19x |  | pumpswap | 2026-03-20 07:33 |
 | 🟡 CHIBI | $0.001134 | **1.98x** ($+98) | 2.24x | ✅ | pumpswap | 2026-03-20 00:49 |
 
 ## Closed Positions
