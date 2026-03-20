@@ -9,16 +9,16 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-89 |
-| 🏦 Total | **$-89** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-90 |
+| 🏦 Total | **$-90** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Mirai | $0.000015 | **0.73x** ($-27) | 1.00x |  | pumpfun | 2026-03-20 13:51 |
+| 🔴 Mirai | $0.000015 | **0.72x** ($-28) | 1.00x |  | pumpfun | 2026-03-20 13:51 |
 | 🔴 Civil Claude | $0.000019 | **0.92x** ($-8) | 1.03x |  | pumpfun | 2026-03-20 12:28 |
 | 🟡 clod | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:59 |
 | 🟡 CHIBI | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 10:13 |

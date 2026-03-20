@@ -9,17 +9,17 @@
 | Positions | 9 (8 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+49 |
+| 📦 Unrealized | $+48 |
 | 🏦 Total | **$-12** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 UP | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:58 |
-| 🔴 Mirai | $0.000016 | **0.71x** ($-29) | 1.00x |  | pumpfun | 2026-03-20 13:56 |
+| 🔴 Mirai | $0.000016 | **0.70x** ($-30) | 1.00x |  | pumpfun | 2026-03-20 13:56 |
 | 🟡 Judy | $0.000076 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:50 |
 | 🟡 Kin-kun | $0.000008 | **1.29x** ($+29) | 1.61x |  | pumpfun | 2026-03-20 11:27 |
 | 🟡 Genesis-2 | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:10 |

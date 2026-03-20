@@ -9,18 +9,18 @@
 | Positions | 19 (16 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-194 |
-| 📦 Unrealized | $-183 |
-| 🏦 Total | **$-377** |
-| Best Trade | 0.4x |
-| Avg Peak | 2.1x |
+| 📦 Unrealized | $-199 |
+| 🏦 Total | **$-393** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.35x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NOR | $0.000015 | **0.69x** ($-31) | 1.00x |  | pumpfun | 2026-03-20 14:06 |
+| 🔴 NOR | $0.000015 | **0.67x** ($-33) | 1.00x |  | pumpfun | 2026-03-20 14:06 |
 | 🔴 7sc86ARX | $0.000003 | **0.88x** ($-12) | 1.15x |  | pumpfun | 2026-03-20 13:47 |
-| 🟡 AC3ydFNc | $0.000013 | **1.63x** ($+63) | 2.82x | ✅ | pumpfun | 2026-03-20 13:25 |
+| 🟡 AC3ydFNc | $0.000013 | **1.36x** ($+36) | 2.82x | ✅ | pumpfun | 2026-03-20 13:25 |
 | 🔴 Boobachu | $0.000006 | **0.43x** ($-57) | 1.12x |  | pumpfun | 2026-03-20 13:24 |
 | 🔴 2ttRZJaJ | $0.000003 | **0.92x** ($-8) | 1.81x |  | pumpfun | 2026-03-20 13:24 |
 | 🔴 Unikowsky | $0.000003 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 13:14 |

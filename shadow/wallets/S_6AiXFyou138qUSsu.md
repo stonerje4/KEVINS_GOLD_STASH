@@ -9,16 +9,16 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-41 |
-| 📦 Unrealized | $+1 |
-| 🏦 Total | **$-40** |
-| Best Trade | 1.2x |
-| Avg Peak | 2.5x |
+| 📦 Unrealized | $+3 |
+| 🏦 Total | **$-38** |
+| Best ROI | 1.19x |
+| Avg ROI | 0.79x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MRSPUNCH | $0.000253 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 14:03 |
+| 🟡 MRSPUNCH | $0.000253 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 14:03 |
 
 ## Closed Positions
 

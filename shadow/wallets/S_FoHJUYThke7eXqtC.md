@@ -9,17 +9,17 @@
 | Positions | 52 (51 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
-| 📦 Unrealized | $-155 |
-| 🏦 Total | **$+36** |
-| Best Trade | 2.9x |
-| Avg Peak | 5.8x |
+| 📦 Unrealized | $-152 |
+| 🏦 Total | **$+39** |
+| Best ROI | 2.91x |
+| Avg ROI | 2.91x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 OKARA | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:59 |
-| 🔴 MOSHI | $0.000003 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 13:35 |
+| 🔴 MOSHI | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 13:35 |
 | 🔴 GROKTIRED | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:34 |
 | 🔴 央视币 | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:24 |
 | 🟡 Chibiguy | $0.000003 | **1.30x** ($+30) | 1.30x |  | pumpfun | 2026-03-20 13:19 |
