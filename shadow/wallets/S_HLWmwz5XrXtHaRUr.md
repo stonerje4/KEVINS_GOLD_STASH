@@ -1,6 +1,6 @@
-# Wallet: `4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS`
+# Wallet: `HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6`
 
-> [View on Solscan](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | Updated: 2026-03-20 06:05 UTC
+> [View on Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-20 06:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$+5** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WIZARDSHIT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:07 |
-| 🟡 SPARKOS | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:09 |
-| 🟡 ACT: S | $0.000011 | **1.00x** ($+0) | 1.09x |  | pumpswap | 2026-03-20 01:46 |
+| 🟡 OBJECTS | $0.000129 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:03 |
+| 🟡 NICK | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:03 |
+| 🟡 meowl | $0.000175 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 06:02 |
 
 ## Closed Positions
 

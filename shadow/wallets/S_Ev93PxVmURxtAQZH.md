@@ -1,16 +1,16 @@
 # Wallet: `Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R`
 
-> [View on Solscan](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R) | Updated: 2026-03-20 06:00 UTC
+> [View on Solscan](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R) | Updated: 2026-03-20 06:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
+| Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-45 |
-| 🏦 Total | **$-45** |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-53** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Qclaw | $0.000012 | **0.92x** ($-8) | 1.08x |  | pumpswap | 2026-03-20 06:01 |
 | 🟡 電王 | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:41 |
 | 🔴 nuggets | $0.000003 | **0.84x** ($-16) | 1.07x |  | pumpswap | 2026-03-19 23:55 |
 | 🔴 LIBERTY | $0.000050 | **0.72x** ($-28) | 1.68x |  | pumpswap | 2026-03-19 23:42 |

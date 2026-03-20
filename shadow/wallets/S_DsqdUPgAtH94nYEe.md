@@ -1,16 +1,16 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 06:00 UTC
+> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 06:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (4 open, 1 closed) |
+| Positions | 6 (5 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-4** |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$-16** |
 | Best Trade | 1.3x |
 | Avg Peak | 3.4x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DRIVE | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:02 |
 | 🟡 MATEOS | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:58 |
 | 🟡 LIBERTY | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:36 |
 | 🟡 PIXEL | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:33 |
-| 🔴 HeatGun | $0.000013 | **0.66x** ($-34) | 1.00x |  | pumpfun | 2026-03-20 05:21 |
+| 🔴 HeatGun | $0.000013 | **0.54x** ($-46) | 1.00x |  | pumpfun | 2026-03-20 05:21 |
 
 ## Closed Positions
 

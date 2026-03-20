@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 06:00 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 06:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 36 (33 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $-129 |
-| 🏦 Total | **$-204** |
+| 📦 Unrealized | $-131 |
+| 🏦 Total | **$-207** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.2x |
 
@@ -44,7 +44,7 @@
 | 🔴 LIBERTY | $0.000043 | **0.83x** ($-17) | 1.13x |  | pumpswap | 2026-03-20 00:10 |
 | 🟡 CHIBIELON | $0.000005 | **1.42x** ($+42) | 1.68x |  | pumpswap | 2026-03-19 23:29 |
 | 🔴 TOKEN | $0.000133 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 23:25 |
-| 🔴 DIVERGENT | $0.000007 | **0.70x** ($-30) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
+| 🔴 DIVERGENT | $0.000007 | **0.68x** ($-32) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
 | 🔴 George | $0.000026 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-19 22:56 |
 | 🟡 FML | $0.000196 | **1.38x** ($+38) | 1.51x |  | pumpswap | 2026-03-19 22:44 |

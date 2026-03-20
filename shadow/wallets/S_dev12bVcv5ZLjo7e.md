@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 06:00 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 06:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 49 (48 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+58 |
-| 🏦 Total | **$+103** |
+| 📦 Unrealized | $+69 |
+| 🏦 Total | **$+114** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -28,7 +28,7 @@
 | 🟡 Jimbo | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 04:48 |
 | 🟡 キンくん | $0.000003 | **1.04x** ($+4) | 1.08x |  | pumpfun | 2026-03-20 04:32 |
 | 🔴 Nature | $0.000005 | **0.50x** ($-50) | 1.11x |  | pumpfun | 2026-03-20 04:31 |
-| 🟡 MSBT | $0.000003 | **1.42x** ($+42) | 1.56x |  | pumpfun | 2026-03-20 04:23 |
+| 🟢 MSBT | $0.000003 | **2.06x** ($+106) | 2.06x | ✅ | pumpfun | 2026-03-20 04:23 |
 | 🟡 dryer | $0.000003 | **1.04x** ($+4) | 1.06x |  | pumpfun | 2026-03-20 04:16 |
 | 🔴 PRVX | $0.000006 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 04:11 |
 | 🟡 spooder | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:08 |
