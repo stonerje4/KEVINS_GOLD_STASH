@@ -9,16 +9,16 @@
 | Positions | 14 (11 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-35 |
-| 📦 Unrealized | $+17 |
-| 🏦 Total | **$-17** |
-| Best Trade | 1.4x |
-| Avg Peak | 2.2x |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$-20** |
+| Best ROI | 1.41x |
+| Avg ROI | 0.88x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000008 | **0.77x** ($-23) | 1.13x |  | pumpfun | 2026-03-20 14:19 |
+| 🔴 CHUCK | $0.000008 | **0.74x** ($-26) | 1.13x |  | pumpfun | 2026-03-20 14:19 |
 | 🟡 CHIBI | $0.000014 | **1.12x** ($+12) | 1.70x |  | pumpfun | 2026-03-20 10:36 |
 | 🟡 Effect | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:11 |
 | 🟢 IMAGINE | $0.000011 | **2.67x** ($+167) | 3.04x | ✅ | pumpfun | 2026-03-20 02:37 |
