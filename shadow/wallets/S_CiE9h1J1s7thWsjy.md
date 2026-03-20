@@ -1,16 +1,16 @@
 # Wallet: `CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c`
 
-> [GMGN](https://gmgn.ai/sol/address/CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c) | [Solscan](https://solscan.io/account/CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c) | [Solscan](https://solscan.io/account/CiE9h1J1s7thWsjykes1TbHwCjkf2bf1BcajcMYd4y1c) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (0 open, 3 closed) |
+| Positions | 4 (1 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-183** |
+| 📦 Unrealized | $-37 |
+| 🏦 Total | **$-219** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 froge | $0.000011 | **0.63x** ($-37) | 1.00x |  | pumpfun | 2026-03-20 21:32 |
 
 ## Closed Positions
 

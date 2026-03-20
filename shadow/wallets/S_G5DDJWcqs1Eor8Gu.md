@@ -1,29 +1,28 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (10 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-445 |
-| 📦 Unrealized | $+75 |
-| 🏦 Total | **$-370** |
+| Positions | 18 (9 open, 9 closed) |
+| W/L | 0/9 (0%) |
+| 💵 Realized | $-517 |
+| 📦 Unrealized | $+84 |
+| 🏦 Total | **$-432** |
 | Best ROI | 0.93x |
-| Avg ROI | 0.44x |
+| Avg ROI | 0.43x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CAINE | $0.000038 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-20 21:28 |
+| 🔴 CAINE | $0.000038 | **0.96x** ($-4) | 1.05x |  | pumpswap | 2026-03-20 21:28 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 16:05 |
 | 🟡 NunChucks | $0.000016 | **1.94x** ($+94) | 2.33x | ✅ | pumpfun | 2026-03-20 14:32 |
 | 🔴 Chonk | $0.000014 | **0.48x** ($-52) | 1.41x |  | pumpfun | 2026-03-20 09:56 |
 | 🟢 omochi | $0.000015 | **2.49x** ($+149) | 2.49x | ✅ | pumpfun | 2026-03-20 09:36 |
-| 🔴 NEMO | $0.000016 | **0.88x** ($-12) | 1.53x |  | pumpfun | 2026-03-20 02:35 |
 | 🟡 IMAGINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:17 |
 | 🟡 SHOENICE  | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🟡 Grokslop | $0.000027 | **1.38x** ($+38) | 1.38x |  | pumpfun | 2026-03-20 01:03 |
@@ -39,6 +38,7 @@
 | 🔴 Steel | 0.28x | $-72 | stop_loss | 1.28x | pumpfun | 2026-03-20 14:41 → 2026-03-20 15:22 |
 | 🟡 effect | 0.93x | $-7 | trailing_stop_5x | 4.86x | pumpfun | 2026-03-20 09:53 → 2026-03-20 20:08 |
 | 🔴 Pixels | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:05 → 2026-03-20 17:20 |
+| 🔴 NEMO | 0.29x | $-71 | stop_loss | 1.53x | pumpfun | 2026-03-20 02:35 → 2026-03-20 21:32 |
 | 🔴 Attention | 0.39x | $-61 | stop_loss | 1.28x | pumpfun | 2026-03-20 01:22 → 2026-03-20 01:32 |
 | 🔴 Attention | 0.40x | $-60 | stop_loss | 1.21x | pumpswap | 2026-03-20 01:00 → 2026-03-20 01:20 |
 

@@ -1,6 +1,6 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (12 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-15 |
-| 📦 Unrealized | $+227 |
-| 🏦 Total | **$+212** |
+| 📦 Unrealized | $+223 |
+| 🏦 Total | **$+208** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.85x |
 
@@ -26,7 +26,7 @@
 | 🟡 TGR | $0.000008 | **1.09x** ($+9) | 1.21x |  | pumpfun | 2026-03-20 16:14 |
 | 🔴 Monke | $0.000009 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🟡 OSP | $0.000020 | **1.27x** ($+27) | 1.39x |  | pumpfun | 2026-03-20 05:22 |
-| 🟢 Samba | $0.000006 | **2.05x** ($+105) | 3.40x | ✅ | pumpswap | 2026-03-20 05:14 |
+| 🟡 Samba | $0.000006 | **1.95x** ($+95) | 3.40x | ✅ | pumpswap | 2026-03-20 05:14 |
 | 🟡 UOR | $0.000036 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 SHOENICE  | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
 | 🟢 WRT | $0.000007 | **4.35x** ($+335) | 4.35x | ✅ | pumpswap | 2026-03-20 00:59 |

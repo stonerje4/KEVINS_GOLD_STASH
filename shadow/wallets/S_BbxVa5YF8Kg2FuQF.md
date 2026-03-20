@@ -1,16 +1,16 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (4 open, 8 closed) |
+| Positions | 13 (5 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-232 |
-| 📦 Unrealized | $+99 |
-| 🏦 Total | **$-133** |
+| 📦 Unrealized | $+100 |
+| 🏦 Total | **$-132** |
 | Best ROI | 2.95x |
 | Avg ROI | 0.71x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Jessica | $0.000007 | **1.03x** ($+3) | 1.83x |  | pumpswap | 2026-03-20 21:32 |
 | 🟡 JUMP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:37 |
 | 🟢 Patience | $0.000017 | **2.11x** ($+111) | 2.11x | ✅ | pumpfun | 2026-03-20 03:14 |
 | 🟡 BDxAH4ix | $0.000020 | **1.81x** ($+81) | 1.81x |  | pumpfun | 2026-03-20 00:02 |
-| 🔴 Saleh | $0.000020 | **0.62x** ($-38) | 1.14x |  | pumpswap | 2026-03-20 00:00 |
+| 🔴 Saleh | $0.000020 | **0.61x** ($-39) | 1.14x |  | pumpswap | 2026-03-20 00:00 |
 
 ## Closed Positions
 

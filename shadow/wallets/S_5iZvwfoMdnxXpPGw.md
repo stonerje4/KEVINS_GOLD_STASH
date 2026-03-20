@@ -1,16 +1,16 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (9 open, 5 closed) |
+| Positions | 16 (11 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-163 |
-| 📦 Unrealized | $+160 |
-| 🏦 Total | **$-2** |
+| 📦 Unrealized | $+138 |
+| 🏦 Total | **$-25** |
 | Best ROI | 1.02x |
 | Avg ROI | 0.67x |
 
@@ -18,7 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Dickus | $0.000007 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 21:27 |
+| 🔴 Jessica | $0.000008 | **0.83x** ($-17) | 1.16x |  | pumpswap | 2026-03-20 21:32 |
+| 🔴 Jessica | $0.000015 | **0.96x** ($-4) | 1.10x |  | pumpfun | 2026-03-20 21:32 |
+| 🔴 Dickus | $0.000007 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 21:27 |
 | 🟡 BUFFALO | $0.000008 | **1.04x** ($+4) | 1.22x |  | pumpfun | 2026-03-20 21:20 |
 | 🟡 Cigify | $0.000033 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 21:14 |
 | 🟡 HELLO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:12 |

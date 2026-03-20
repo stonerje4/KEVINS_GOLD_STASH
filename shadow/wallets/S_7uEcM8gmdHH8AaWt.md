@@ -1,6 +1,6 @@
 # Wallet: `7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t`
 
-> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (9 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-252 |
-| 📦 Unrealized | $+135 |
-| 🏦 Total | **$-117** |
+| 📦 Unrealized | $+160 |
+| 🏦 Total | **$-92** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.37x |
 
@@ -18,15 +18,15 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Louis | $0.000008 | **0.64x** ($-36) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
-| 🟡 CHICK | $0.000011 | **1.61x** ($+61) | 2.59x | ✅ | pumpfun | 2026-03-20 20:48 |
-| 🔴 Dreamjob | $0.000009 | **0.91x** ($-9) | 1.16x |  | pumpfun | 2026-03-20 20:46 |
-| 🟢 GeBYWNhf | $0.000009 | **2.81x** ($+181) | 3.12x | ✅ | pumpfun | 2026-03-20 20:06 |
+| 🔴 Louis | $0.000008 | **0.81x** ($-19) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
+| 🟡 CHICK | $0.000011 | **1.64x** ($+64) | 2.59x | ✅ | pumpfun | 2026-03-20 20:48 |
+| 🔴 Dreamjob | $0.000009 | **0.89x** ($-11) | 1.16x |  | pumpfun | 2026-03-20 20:46 |
+| 🟢 GeBYWNhf | $0.000009 | **2.67x** ($+167) | 3.12x | ✅ | pumpfun | 2026-03-20 20:06 |
 | 🔴 EPSTEIN | $0.000005 | **0.48x** ($-52) | 1.11x |  | pumpfun | 2026-03-20 19:38 |
 | 🔴 genocide | $0.000019 | **0.90x** ($-10) | 1.03x |  | pumpfun | 2026-03-20 19:27 |
 | 🟡 RAGE | $0.000025 | **1.44x** ($+44) | 1.44x |  | pumpfun | 2026-03-20 19:19 |
 | 🟢 Needle | $0.000006 | **2.91x** ($+191) | 4.91x | ✅ | pumpfun | 2026-03-20 19:02 |
-| 🟡 5yAgqEmF | $0.000014 | **1.19x** ($+19) | 1.65x |  | pumpfun | 2026-03-20 18:11 |
+| 🟡 5yAgqEmF | $0.000014 | **1.32x** ($+32) | 1.65x |  | pumpfun | 2026-03-20 18:11 |
 
 ## Closed Positions
 

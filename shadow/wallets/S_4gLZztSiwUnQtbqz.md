@@ -1,6 +1,6 @@
 # Wallet: `4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u`
 
-> [GMGN](https://gmgn.ai/sol/address/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | [Solscan](https://solscan.io/account/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | [Solscan](https://solscan.io/account/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (2 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-20 |
-| 📦 Unrealized | $+8 |
-| 🏦 Total | **$-12** |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$-15** |
 | Best ROI | 1.42x |
 | Avg ROI | 0.90x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 5bZ8duCe | $0.000029 | **0.77x** ($-23) | 1.00x |  | pumpfun | 2026-03-20 18:05 |
+| 🔴 5bZ8duCe | $0.000029 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-20 18:05 |
 | 🟡 9Yqs3sVA | $0.000014 | **1.62x** ($+62) | 2.62x | ✅ | pumpfun | 2026-03-20 02:07 |
 
 ## Closed Positions

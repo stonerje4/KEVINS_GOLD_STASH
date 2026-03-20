@@ -1,6 +1,6 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (13 open, 8 closed) |
 | W/L | 0/8 (0%) |
 | 💵 Realized | $-499 |
-| 📦 Unrealized | $-108 |
-| 🏦 Total | **$-608** |
+| 📦 Unrealized | $-98 |
+| 🏦 Total | **$-598** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -24,7 +24,7 @@
 | 🟡 2krmh9hC | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
 | 🟡 pa | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:47 |
 | 🟡 genocide | $0.000015 | **1.14x** ($+14) | 1.30x |  | pumpfun | 2026-03-20 11:34 |
-| 🔴 LIBERTY | $0.000040 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
+| 🔴 LIBERTY | $0.000040 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
 | 🟡 Nostalgia | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:25 |
 | 🟡 Garbonzo | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:17 |
 | 🟡 CfDa8np5 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:14 |

@@ -1,24 +1,25 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (24 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-196 |
-| 📦 Unrealized | $+361 |
-| 🏦 Total | **$+165** |
+| Positions | 28 (24 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-266 |
+| 📦 Unrealized | $+339 |
+| 🏦 Total | **$+73** |
 | Best ROI | 0.38x |
-| Avg ROI | 0.35x |
+| Avg ROI | 0.34x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 DogeFather | $0.000026 | **0.74x** ($-26) | 1.28x |  | pumpswap | 2026-03-20 20:58 |
+| 🔴 Ignotus  | $0.000034 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 21:33 |
+| 🔴 DogeFather | $0.000026 | **0.53x** ($-47) | 1.28x |  | pumpswap | 2026-03-20 20:58 |
 | 🔴 corporate | $0.000014 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 17:48 |
 | 🟡 XAI | $0.000009 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 17:33 |
 | 🟡 LNG | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 17:21 |
@@ -38,7 +39,6 @@
 | 🔴 TRENCHY | $0.000022 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-20 04:23 |
 | 🔴 CHOCOTINA | $0.000007 | **0.76x** ($-24) | 1.14x |  | pumpswap | 2026-03-20 04:17 |
 | 🔴 Dryer | $0.000023 | **0.64x** ($-36) | 1.77x |  | pumpfun | 2026-03-20 03:58 |
-| 🟡 NEMO | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:57 |
 | 🟡 Chocolatina | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:42 |
 | 🚀 Chuck | $0.000020 | **13.81x** ($+1,281) | 23.66x | ✅ | pumpfun | 2026-03-20 02:25 |
 | 🟡 Cow | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:24 |
@@ -50,6 +50,7 @@
 | 🔴 CATS | 0.32x | $-68 | stop_loss | 1.35x | pumpfun | 2026-03-20 06:06 → 2026-03-20 07:14 |
 | 🔴 ZeroG | 0.34x | $-66 | stop_loss | 1.25x | pumpfun | 2026-03-20 06:03 → 2026-03-20 16:23 |
 | 🔴 Imaginify | 0.38x | $-62 | stop_loss | 1.11x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:24 |
+| 🔴 NEMO | 0.30x | $-70 | stop_loss | 1.00x | pumpfun | 2026-03-20 03:57 → 2026-03-20 21:32 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,16 +1,16 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [GMGN](https://gmgn.ai/sol/address/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | [Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | [Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (6 open, 15 closed) |
+| Positions | 22 (7 open, 15 closed) |
 | W/L | 2/13 (13%) |
 | 💵 Realized | $-587 |
-| 📦 Unrealized | $+67 |
-| 🏦 Total | **$-520** |
+| 📦 Unrealized | $+98 |
+| 🏦 Total | **$-489** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.61x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 EVERYTHING | $0.000009 | **1.56x** ($+56) | 2.97x | ✅ | pumpfun | 2026-03-20 20:46 |
+| 🟡 Jessica | $0.000011 | **1.29x** ($+29) | 1.48x |  | pumpfun | 2026-03-20 21:32 |
+| 🟡 EVERYTHING | $0.000009 | **1.58x** ($+58) | 2.97x | ✅ | pumpfun | 2026-03-20 20:46 |
 | 🔴 GAAS | $0.000005 | **0.49x** ($-51) | 1.42x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 BitPenis | $0.000006 | **0.42x** ($-58) | 1.30x |  | pumpfun | 2026-03-20 04:59 |
 | 🟡 ceal | $0.000030 | **1.22x** ($+22) | 1.22x |  | pumpfun | 2026-03-20 03:33 |

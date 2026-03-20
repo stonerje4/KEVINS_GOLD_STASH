@@ -1,26 +1,25 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 21:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 21:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (14 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-181 |
-| 📦 Unrealized | $+62 |
-| 🏦 Total | **$-119** |
-| Best ROI | 0.81x |
-| Avg ROI | 0.55x |
+| Positions | 18 (13 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-196 |
+| 📦 Unrealized | $+68 |
+| 🏦 Total | **$-128** |
+| Best ROI | 0.85x |
+| Avg ROI | 0.61x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 DogeFather | $0.000018 | **1.05x** ($+5) | 2.47x | ✅ | pumpfun | 2026-03-20 19:50 |
 | 🔴 Forget | $0.000012 | **0.64x** ($-36) | 1.09x |  | pumpswap | 2026-03-20 19:28 |
-| 🔴 MFT | $0.000026 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 16:50 |
+| 🔴 MFT | $0.000026 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 16:50 |
 | 🟡 OIIA | $0.000021 | **1.37x** ($+37) | 1.55x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |
 | 🚀 SMCI | $0.000005 | **7.13x** ($+613) | 7.13x | ✅ | pumpfun | 2026-03-20 08:50 |
@@ -37,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 DogeFather | 0.85x | $-15 | trailing_stop_2x | 2.47x | pumpfun | 2026-03-20 19:50 → 2026-03-20 21:32 |
 | 🔴 FOID | 0.58x | $-42 | trailing_stop_2x | 2.10x | pumpfun | 2026-03-20 14:58 → 2026-03-20 21:01 |
 | 🟡 CHIBI | 0.81x | $-19 | trailing_stop_2x | 2.19x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:32 |
 | 🔴 IMAGINE | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:06 → 2026-03-20 02:10 |
