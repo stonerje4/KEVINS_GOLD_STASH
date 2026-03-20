@@ -1,23 +1,24 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [View on Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 13:24 UTC
+> [View on Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-20 13:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (6 open, 1 closed) |
+| Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $+18 |
 | 🏦 Total | **$-42** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| Best Trade | 0.4x |
+| Avg Peak | 1.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Judy | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:26 |
 | 🟡 genocide | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:41 |
 | 🟡 Civil Claude | $0.000015 | **1.15x** ($+15) | 1.29x |  | pumpfun | 2026-03-20 12:12 |
 | 🟡 Imaginify | $0.000010 | **1.02x** ($+2) | 1.56x |  | pumpfun | 2026-03-20 08:19 |

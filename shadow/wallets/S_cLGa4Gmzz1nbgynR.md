@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 13:24 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 13:29 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 140 (134 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $+288 |
-| 🏦 Total | **$+10** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.54x |
+| 📦 Unrealized | $+291 |
+| 🏦 Total | **$+12** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MAPLE | $0.000045 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 13:19 |
+| 🟡 MAPLE | $0.000045 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 MINDLESS | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:16 |
 | 🟡 butthole | $0.000117 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 ZeroG | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:39 |

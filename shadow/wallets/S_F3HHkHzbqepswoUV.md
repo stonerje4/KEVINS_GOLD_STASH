@@ -1,6 +1,6 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 13:24 UTC
+> [View on Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 13:29 UTC
 
 ## Summary
 
@@ -9,17 +9,17 @@
 | Positions | 45 (41 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-207 |
-| 📦 Unrealized | $+175 |
-| 🏦 Total | **$-33** |
-| Best ROI | 0.75x |
-| Avg ROI | 0.48x |
+| 📦 Unrealized | $+173 |
+| 🏦 Total | **$-34** |
+| Best Trade | 0.7x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 UOR | $0.000004 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 13:21 |
-| 🟢 methane | $0.000015 | **3.33x** ($+233) | 3.89x | ✅ | cpmm | 2026-03-20 13:16 |
+| 🔴 UOR | $0.000004 | **1.00x** ($-0) | 1.07x |  | pumpfun | 2026-03-20 13:21 |
+| 🟢 methane | $0.000015 | **3.48x** ($+248) | 4.76x | ✅ | cpmm | 2026-03-20 13:16 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:31 |
 | 🟡 DRONE | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:31 |
 | 🟡 $GENIUS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:15 |

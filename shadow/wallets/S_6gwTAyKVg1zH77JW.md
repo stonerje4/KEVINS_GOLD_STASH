@@ -1,23 +1,24 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 13:24 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 13:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 183 (180 open, 3 closed) |
+| Positions | 184 (181 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
-| 📦 Unrealized | $+156 |
-| 🏦 Total | **$+333** |
-| Best ROI | 2.91x |
-| Avg ROI | 1.59x |
+| 📦 Unrealized | $+147 |
+| 🏦 Total | **$+325** |
+| Best Trade | 2.9x |
+| Avg Peak | 4.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 CLAIR | $0.000014 | **0.92x** ($-8) | 1.03x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 NICK | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:22 |
 | 🟡 Chud | $0.000722 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:19 |
 | 🟡 LAYOFF | $0.000248 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |

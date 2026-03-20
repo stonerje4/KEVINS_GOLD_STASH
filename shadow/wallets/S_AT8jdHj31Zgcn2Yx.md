@@ -1,23 +1,26 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 13:24 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 13:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 137 (110 open, 27 closed) |
+| Positions | 140 (113 open, 27 closed) |
 | W/L | 3/24 (11%) |
 | 💵 Realized | $+2,155 |
-| 📦 Unrealized | $+33 |
-| 🏦 Total | **$+2,188** |
-| Best ROI | 24.90x |
-| Avg ROI | 1.80x |
+| 📦 Unrealized | $+63 |
+| 🏦 Total | **$+2,217** |
+| Best Trade | 24.9x |
+| Avg Peak | 4.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 tired | $0.000093 | **1.30x** ($+30) | 1.34x |  | pumpswap | 2026-03-20 13:28 |
+| 🟡 IMAGINE | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:27 |
+| 🟡 PIKAHORSE | $0.000248 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:24 |
 | 🟡 SCELON | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:03 |
 | 🔴 BBX | $0.000132 | **0.88x** ($-12) | 1.04x |  | pumpswap | 2026-03-20 13:03 |
 | 🟡 NEURIX | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:49 |

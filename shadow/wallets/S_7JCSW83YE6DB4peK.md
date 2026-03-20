@@ -1,23 +1,24 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 13:24 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 13:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 122 (119 open, 3 closed) |
+| Positions | 123 (120 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+208 |
-| 🏦 Total | **$+7** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.33x |
+| 📦 Unrealized | $+207 |
+| 🏦 Total | **$+6** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 CLAIR | $0.000013 | **0.99x** ($-1) | 1.12x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 HORMUZ | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 Goyim | $0.000621 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 fine999.9 | $0.001807 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:59 |

@@ -1,24 +1,25 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 13:24 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 13:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 74 (73 open, 1 closed) |
+| Positions | 75 (74 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-267 |
-| 🏦 Total | **$-283** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-274 |
+| 🏦 Total | **$-291** |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 $1RUN | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:22 |
+| 🔴 PIKACHUGS | $0.000003 | **0.96x** ($-4) | 1.07x |  | pumpfun | 2026-03-20 13:28 |
+| 🔴 $1RUN | $0.000003 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 13:22 |
 | 🔴 D23KwwsG | $0.000003 | **0.87x** ($-13) | 1.05x |  | pumpfun | 2026-03-20 13:04 |
 | 🟡 Kuro | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:42 |
 | 🟡 GOONE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:14 |

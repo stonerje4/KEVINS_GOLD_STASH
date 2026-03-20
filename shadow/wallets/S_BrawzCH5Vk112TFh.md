@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 13:24 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 13:29 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $+17 |
 | 📦 Unrealized | $+92 |
 | 🏦 Total | **$+108** |
-| Best ROI | 2.99x |
-| Avg ROI | 1.04x |
+| Best Trade | 3.0x |
+| Avg Peak | 3.4x |
 
 ## Open Positions
 

@@ -1,23 +1,24 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 13:24 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 13:29 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 111 (110 open, 1 closed) |
+| Positions | 112 (111 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
 | 📦 Unrealized | $+142 |
 | 🏦 Total | **$+64** |
-| Best ROI | 0.23x |
-| Avg ROI | 0.23x |
+| Best Trade | 0.2x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 AMBALABU | $0.000043 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 MOCHI | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:03 |
 | 🟡 WIZARD | $0.000319 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:55 |
 | 🔴 CRABBO | $0.000107 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-20 11:49 |
