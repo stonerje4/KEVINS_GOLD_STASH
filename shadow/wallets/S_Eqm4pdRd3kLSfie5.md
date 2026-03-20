@@ -9,17 +9,17 @@
 | Positions | 44 (40 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-115 |
-| 📦 Unrealized | $+57 |
-| 🏦 Total | **$-58** |
-| Best Trade | 0.8x |
-| Avg Peak | 2.3x |
+| 📦 Unrealized | $+59 |
+| 🏦 Total | **$-56** |
+| Best ROI | 0.84x |
+| Avg ROI | 0.71x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Reaction  | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 13:26 |
-| 🟡 Sunshine | $0.000007 | **1.53x** ($+53) | 2.46x | ✅ | pumpfun | 2026-03-20 13:14 |
+| 🟡 Sunshine | $0.000007 | **1.57x** ($+57) | 2.46x | ✅ | pumpfun | 2026-03-20 13:14 |
 | 🟡 ME | $0.000395 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |
 | 🟡 H9vt8nXw | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |
 | 🟡 Rabbi | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:49 |

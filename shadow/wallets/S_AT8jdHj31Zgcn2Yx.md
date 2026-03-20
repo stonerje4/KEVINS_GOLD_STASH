@@ -9,16 +9,16 @@
 | Positions | 140 (113 open, 27 closed) |
 | W/L | 3/24 (11%) |
 | 💵 Realized | $+2,155 |
-| 📦 Unrealized | $+63 |
-| 🏦 Total | **$+2,217** |
-| Best Trade | 24.9x |
-| Avg Peak | 4.9x |
+| 📦 Unrealized | $+34 |
+| 🏦 Total | **$+2,189** |
+| Best ROI | 24.90x |
+| Avg ROI | 1.80x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 tired | $0.000093 | **1.30x** ($+30) | 1.34x |  | pumpswap | 2026-03-20 13:28 |
+| 🟡 tired | $0.000093 | **1.01x** ($+1) | 1.34x |  | pumpswap | 2026-03-20 13:28 |
 | 🟡 IMAGINE | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:27 |
 | 🟡 PIKAHORSE | $0.000248 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:24 |
 | 🟡 SCELON | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:03 |

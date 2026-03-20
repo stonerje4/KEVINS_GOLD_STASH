@@ -9,16 +9,16 @@
 | Positions | 15 (14 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+49 |
-| 📦 Unrealized | $+375 |
-| 🏦 Total | **$+424** |
-| Best Trade | 1.5x |
-| Avg Peak | 3.6x |
+| 📦 Unrealized | $+349 |
+| 🏦 Total | **$+398** |
+| Best ROI | 1.49x |
+| Avg ROI | 1.49x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Merlin | $0.000007 | **1.17x** ($+17) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
+| 🔴 Merlin | $0.000007 | **0.91x** ($-9) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 SNIFFER | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:59 |
 | 🟡 Mirai | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:46 |
 | 🟡 MMORPG | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:44 |

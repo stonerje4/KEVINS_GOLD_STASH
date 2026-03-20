@@ -9,16 +9,16 @@
 | Positions | 6 (5 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$-34** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| 📦 Unrealized | $+26 |
+| 🏦 Total | **$-36** |
+| Best ROI | 0.38x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Happiness | $0.000007 | **1.32x** ($+32) | 1.33x |  | pumpfun | 2026-03-20 13:12 |
+| 🟡 Happiness | $0.000007 | **1.29x** ($+29) | 1.33x |  | pumpfun | 2026-03-20 13:12 |
 | 🟡 RULEBOOK | $0.000064 | **1.09x** ($+9) | 1.23x |  | pumpswap | 2026-03-20 12:59 |
 | 🔴 RATHBUN | $0.000009 | **0.91x** ($-9) | 1.19x |  | pumpswap | 2026-03-20 03:01 |
 | 🟡 ZOO | $0.000015 | **1.06x** ($+6) | 1.11x |  | pumpswap | 2026-03-20 00:39 |
