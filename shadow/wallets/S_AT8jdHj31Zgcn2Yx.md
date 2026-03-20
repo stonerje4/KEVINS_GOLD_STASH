@@ -1,38 +1,38 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 10:06 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 10:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 114 (90 open, 24 closed) |
-| W/L | 3/21 (12%) |
-| 💵 Realized | $+2,348 |
-| 📦 Unrealized | $+102 |
-| 🏦 Total | **$+2,450** |
+| Positions | 115 (90 open, 25 closed) |
+| W/L | 3/22 (12%) |
+| 💵 Realized | $+2,284 |
+| 📦 Unrealized | $+81 |
+| 🏦 Total | **$+2,365** |
 | Best Trade | 24.9x |
-| Avg Peak | 5.4x |
+| Avg Peak | 5.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CRABBO | $0.000142 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 10:01 |
+| 🔴 HUGH | $0.000060 | **0.49x** ($-51) | 1.04x |  | pumpswap | 2026-03-20 10:08 |
+| 🔴 CRABBO | $0.000142 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 10:01 |
 | 🟡 Ballerina | $0.000065 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:41 |
-| 🔴 TEDDY | $0.000084 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
+| 🔴 TEDDY | $0.000084 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
 | 🟡 PsyopChibi | $0.000103 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:32 |
-| 🔴 HUGH | $0.000150 | **0.49x** ($-51) | 1.10x |  | pumpswap | 2026-03-20 09:32 |
-| 🟡 BARREL | $0.000105 | **1.18x** ($+18) | 1.24x |  | pumpswap | 2026-03-20 09:31 |
+| 🟡 BARREL | $0.000105 | **1.09x** ($+9) | 1.24x |  | pumpswap | 2026-03-20 09:31 |
 | 🔴 Manchas | $0.000081 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 09:14 |
 | 🟡 ZENT | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:03 |
 | 🟡 Pixels | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:56 |
 | 🟡 CHIBIELON | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:39 |
 | 🟡 OLAF | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 POLSIA | $0.000108 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:00 |
-| 🟡 CHIBELON | $0.000132 | **1.27x** ($+27) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
+| 🟡 CHIBELON | $0.000132 | **1.17x** ($+17) | 1.91x |  | pumpswap | 2026-03-20 07:59 |
 | 🔴 DIRECTOR | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 07:59 |
-| 🔴 TTT | $0.000123 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 07:58 |
+| 🔴 TTT | $0.000123 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 07:58 |
 | 🔴 Noesis | $0.000315 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-20 07:55 |
 | 🟡 MOSS | $0.000188 | **1.05x** ($+5) | 1.13x |  | pumpswap | 2026-03-20 07:33 |
 | 🔴 Tastecoin | $0.000190 | **0.84x** ($-16) | 1.12x |  | pumpswap | 2026-03-20 07:24 |
@@ -58,7 +58,7 @@
 | 🔴 mogging | $0.000049 | **0.87x** ($-13) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 Solana | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
-| 🔴 SAID | $0.000270 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 03:15 |
+| 🔴 SAID | $0.000270 | **0.99x** ($-1) | 1.09x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 IMAGINE | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🔴 APES | $0.000234 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🟡 Momo-chan | $0.000375 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:44 |
@@ -115,6 +115,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 chiberine | 0.38x | $-62 | stop_loss | 1.18x | pumpswap | 2026-03-20 09:50 → 2026-03-20 09:53 |
 | 🔴 chiberine | 0.38x | $-62 | stop_loss | 1.27x | pumpswap | 2026-03-20 09:39 → 2026-03-20 09:41 |
+| 🔴 HUGH | 0.36x | $-64 | stop_loss | 1.10x | pumpswap | 2026-03-20 09:32 → 2026-03-20 10:07 |
 | 🔴 PEPE | 0.23x | $-77 | stop_loss | 1.34x | pumpswap | 2026-03-20 09:26 → 2026-03-20 09:45 |
 | 🟡 HUGH | 1.46x | $+46 | trailing_stop_5x | 4.63x | pumpswap | 2026-03-20 09:17 → 2026-03-20 09:29 |
 | 🔴 HUGH | 0.38x | $-62 | stop_loss | 1.22x | pumpswap | 2026-03-20 09:13 → 2026-03-20 09:17 |

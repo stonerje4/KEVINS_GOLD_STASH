@@ -1,6 +1,6 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [View on Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 10:06 UTC
+> [View on Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 10:12 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
 | 📦 Unrealized | $+93 |
-| 🏦 Total | **$-28** |
+| 🏦 Total | **$-27** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Chonk | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
-| 🟡 effect | $0.000014 | **1.92x** ($+92) | 1.92x |  | pumpfun | 2026-03-20 09:53 |
-| 🟡 omochi | $0.000015 | **1.41x** ($+41) | 1.78x |  | pumpfun | 2026-03-20 09:36 |
+| 🟢 effect | $0.000014 | **2.52x** ($+152) | 2.52x | ✅ | pumpfun | 2026-03-20 09:53 |
+| 🟡 omochi | $0.000015 | **1.58x** ($+58) | 1.78x |  | pumpfun | 2026-03-20 09:36 |
 | 🟡 Pixels | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:05 |
 | 🟡 Attention | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:06 |
 | 🔴 Explorer | $0.000005 | **0.51x** ($-49) | 1.01x |  | pumpfun | 2026-03-20 03:03 |

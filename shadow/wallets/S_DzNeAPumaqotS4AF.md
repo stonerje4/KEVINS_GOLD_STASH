@@ -1,6 +1,6 @@
 # Wallet: `DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3`
 
-> [View on Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 10:06 UTC
+> [View on Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-20 10:12 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 驚き | $0.000017 | **0.83x** ($-17) | 1.39x |  | pumpswap | 2026-03-20 00:20 |
 | 🔴 Taylor | $0.000015 | **0.68x** ($-32) | 1.01x |  | pumpswap | 2026-03-20 00:19 |
-| 🔴 Trashbag | $0.000004 | **0.82x** ($-18) | 1.85x |  | pumpfun | 2026-03-19 23:41 |
+| 🔴 Trashbag | $0.000004 | **0.81x** ($-19) | 1.85x |  | pumpfun | 2026-03-19 23:41 |
 | 🔴 TRASHBAG | $0.000007 | **0.60x** ($-40) | 1.34x |  | pumpswap | 2026-03-19 23:39 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [View on Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 10:06 UTC
+> [View on Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 10:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (17 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+39,087 |
-| 🏦 Total | **$+39,087** |
+| 📦 Unrealized | $+39,468 |
+| 🏦 Total | **$+39,468** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 JupUSD | $0.182981 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 07:49 |
-| 🚀 chibinald | $0.000000 | **70.17x** ($+6,917) | 182.62x | ✅ | pumpfun | 2026-03-20 07:45 |
+| 🚀 chibinald | $0.000000 | **68.67x** ($+6,767) | 182.62x | ✅ | pumpfun | 2026-03-20 07:45 |
 | 🟡 MINKA | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:25 |
 | 🚀 PURPOSE  | $0.000000 | **86.23x** ($+8,523) | 130.42x | ✅ | pumpfun | 2026-03-20 07:11 |
 | 🟡 Cow | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 07:01 |
@@ -27,11 +27,11 @@
 | 🚀 jerk | $0.000000 | **17.71x** ($+1,671) | 46.65x | ✅ | pumpfun | 2026-03-20 06:44 |
 | 🚀 Pixels | $0.000000 | **421.58x** ($+42,058) | 421.58x | ✅ | pumpfun | 2026-03-20 06:39 |
 | 🔴 SOLANA | $0.000005 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 06:22 |
-| 🚀 Civil Claude | $0.000000 | **306.93x** ($+30,593) | 554.15x | ✅ | pumpfun | 2026-03-20 06:04 |
-| 🚀 CHIBIMINAJ | $0.000000 | **144.89x** ($+14,389) | 169.05x | ✅ | pumpfun | 2026-03-20 05:15 |
+| 🚀 Civil Claude | $0.000000 | **299.58x** ($+29,858) | 554.15x | ✅ | pumpfun | 2026-03-20 06:04 |
+| 🚀 CHIBIMINAJ | $0.000000 | **141.73x** ($+14,073) | 169.05x | ✅ | pumpfun | 2026-03-20 05:15 |
 | 🟡 credit | $0.000434 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:08 |
 | 🚀 AYYGENT | $0.000000 | **159.21x** ($+15,821) | 233.60x | ✅ | pumpfun | 2026-03-20 04:53 |
-| 🚀 Imaginify | $0.000000 | **528.19x** ($+52,719) | 1509.41x | ✅ | pumpfun | 2026-03-20 04:28 |
+| 🚀 Imaginify | $0.000000 | **557.28x** ($+55,628) | 1509.41x | ✅ | pumpfun | 2026-03-20 04:28 |
 | 🟡 twump | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:26 |
 | 🟡 Ancestors | $0.000008 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 02:11 |
 | 🔴 Trollbot | $0.000005 | **0.93x** ($-7) | 1.50x |  | pumpfun | 2026-03-20 01:25 |

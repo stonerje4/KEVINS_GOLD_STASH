@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 10:06 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 10:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 61 (60 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-174 |
-| 🏦 Total | **$-190** |
+| 📦 Unrealized | $-199 |
+| 🏦 Total | **$-215** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 PEPE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:03 |
 | 🟡 chibidoge | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:43 |
-| 🟡 SWAGGY | $0.000003 | **1.02x** ($+2) | 1.04x |  | pumpfun | 2026-03-20 09:40 |
+| 🔴 SWAGGY | $0.000003 | **0.81x** ($-19) | 1.04x |  | pumpfun | 2026-03-20 09:40 |
 | 🔴 CTRUMP | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 09:36 |
 | 🔴 Nascat | $0.000003 | **0.80x** ($-20) | 1.04x |  | pumpfun | 2026-03-20 09:08 |
 | 🔴 ChibiJak | $0.000003 | **0.87x** ($-13) | 1.23x |  | pumpfun | 2026-03-20 08:46 |
@@ -40,7 +40,7 @@
 | 🔴 NBR | $0.000003 | **0.80x** ($-20) | 1.11x |  | pumpfun | 2026-03-20 06:28 |
 | 🔴 COLONEL | $0.000003 | **0.97x** ($-3) | 1.10x |  | pumpfun | 2026-03-20 06:27 |
 | 🔴 GisEmX5K | $0.000003 | **0.78x** ($-22) | 1.05x |  | pumpfun | 2026-03-20 06:20 |
-| 🟢 BOBOLIZ | $0.000003 | **2.57x** ($+157) | 2.57x | ✅ | pumpfun | 2026-03-20 06:16 |
+| 🟢 BOBOLIZ | $0.000003 | **2.51x** ($+151) | 2.57x | ✅ | pumpfun | 2026-03-20 06:16 |
 | 🔴 ZeroG | $0.000003 | **0.88x** ($-12) | 1.05x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 TRUTH | $0.000003 | **0.91x** ($-9) | 1.23x |  | pumpfun | 2026-03-20 05:58 |
 | 🔴 HUGH | $0.000003 | **0.76x** ($-24) | 1.08x |  | pumpfun | 2026-03-20 04:24 |

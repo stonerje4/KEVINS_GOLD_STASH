@@ -1,6 +1,6 @@
 # Wallet: `8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt`
 
-> [View on Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 10:06 UTC
+> [View on Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 10:12 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-18 |
-| 📦 Unrealized | $+27 |
-| 🏦 Total | **$+9** |
+| 📦 Unrealized | $+65 |
+| 🏦 Total | **$+48** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.6x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 effect | $0.000024 | **1.14x** ($+14) | 1.15x |  | pumpfun | 2026-03-20 10:06 |
-| 🔴 fine999.9 | $0.004774 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 09:43 |
+| 🟡 effect | $0.000024 | **1.51x** ($+51) | 1.51x |  | pumpfun | 2026-03-20 10:06 |
+| 🔴 fine999.9 | $0.004774 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 09:43 |
 | 🟡 CHIBI | $0.000713 | **1.46x** ($+46) | 1.82x |  | pumpswap | 2026-03-19 23:42 |
 
 ## Closed Positions

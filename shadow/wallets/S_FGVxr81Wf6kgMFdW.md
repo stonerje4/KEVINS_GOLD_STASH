@@ -1,12 +1,12 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 10:06 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 10:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 23 (22 open, 1 closed) |
+| Positions | 24 (23 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
 | 📦 Unrealized | $+353 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 f26 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:10 |
 | 🟡 LNG | $0.000003 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 08:21 |
 | 🟡 LNG | $0.000003 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-20 08:17 |
 | 🟡 NBIS | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 06:52 |

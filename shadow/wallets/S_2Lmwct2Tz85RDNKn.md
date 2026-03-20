@@ -1,12 +1,12 @@
 # Wallet: `2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT`
 
-> [View on Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-20 10:06 UTC
+> [View on Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-20 10:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (4 open, 0 closed) |
+| Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Pixels | $0.000052 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:07 |
 | 🟡 Nigel | $0.000323 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:35 |
 | 🟡 PIXELS | $0.000267 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:09 |
 | 🟡 Goose | $0.000032 | **1.05x** ($+5) | 1.22x |  | pumpswap | 2026-03-20 01:56 |

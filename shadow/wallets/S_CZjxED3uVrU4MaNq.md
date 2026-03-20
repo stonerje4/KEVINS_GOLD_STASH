@@ -1,18 +1,18 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
 
-> [View on Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-20 10:06 UTC
+> [View on Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-20 10:12 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (8 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+172 |
-| 🏦 Total | **$+172** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| Positions | 8 (7 open, 1 closed) |
+| W/L | 1/0 (100%) |
+| 💵 Realized | $+196 |
+| 📦 Unrealized | $+72 |
+| 🏦 Total | **$+268** |
+| Best Trade | 3.0x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
@@ -20,7 +20,6 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Bispider | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:53 |
 | 🟡 BISPIDER | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:51 |
-| 🟢 CHIBI | $0.000004 | **3.93x** ($+293) | 5.40x | ✅ | pumpfun | 2026-03-20 09:30 |
 | 🟡 Zhdun | $0.000020 | **1.85x** ($+85) | 1.85x |  | pumpfun | 2026-03-20 08:55 |
 | 🟡 GROKHOUSE | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:38 |
 | 🔴 Bvzbq9YH | $0.000003 | **0.87x** ($-13) | 1.10x |  | pumpfun | 2026-03-20 08:36 |
@@ -31,6 +30,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟢 CHIBI | 2.96x | $+196 | trailing_stop_5x | 5.40x | pumpfun | 2026-03-20 09:30 → 2026-03-20 10:07 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
