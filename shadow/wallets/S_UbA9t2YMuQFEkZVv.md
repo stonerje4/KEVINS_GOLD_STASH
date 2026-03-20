@@ -1,12 +1,12 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 02:54 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 02:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+116 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NBR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:58 |
 | 🟡 SIMULATION | $0.000003 | **1.61x** ($+61) | 1.61x |  | pumpfun | 2026-03-20 02:00 |
 | 🟡 GLUP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:47 |
 | 🟡 Anduril  | $0.000005 | **1.53x** ($+53) | 1.59x |  | pumpfun | 2026-03-20 01:22 |

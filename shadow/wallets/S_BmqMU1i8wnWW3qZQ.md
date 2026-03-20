@@ -1,16 +1,16 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 02:54 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 02:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 214 (212 open, 2 closed) |
+| Positions | 220 (218 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+94 |
-| 📦 Unrealized | $-143 |
-| 🏦 Total | **$-49** |
+| 📦 Unrealized | $-158 |
+| 🏦 Total | **$-63** |
 | Best Trade | 2.8x |
 | Avg Peak | 4.0x |
 
@@ -18,6 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 BBX | $0.000010 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
+| 🟡 APES | $0.000239 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
+| 🔴 PAD | $0.000016 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
+| 🟡 42 | $0.000047 | **1.02x** ($+2) | 1.37x |  | pumpswap | 2026-03-20 02:57 |
+| 🔴 CARROT | $0.000008 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
+| 🔴 GAS | $0.000009 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🟡 Gany | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:54 |
 | 🔴 Lobstar | $0.007121 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:53 |
 | 🔴 PIZZA | $0.000226 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:50 |

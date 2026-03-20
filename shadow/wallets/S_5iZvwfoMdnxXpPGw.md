@@ -1,12 +1,12 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 02:54 UTC
+> [View on Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 02:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
+| Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-2 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Taylor | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 imagineslop | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:27 |
 | 🟡 EPSTEIN | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-19 23:28 |
 | 🔴 8R4gQAnC | $0.000003 | **0.96x** ($-4) | 1.01x |  | pumpfun | 2026-03-19 23:28 |

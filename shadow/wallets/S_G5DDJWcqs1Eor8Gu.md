@@ -1,6 +1,6 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [View on Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 02:54 UTC
+> [View on Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-20 02:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (6 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+5 |
-| 🏦 Total | **$-115** |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$-113** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NEMO | $0.000016 | **0.86x** ($-14) | 1.53x |  | pumpfun | 2026-03-20 02:35 |
+| 🔴 NEMO | $0.000016 | **0.88x** ($-12) | 1.53x |  | pumpfun | 2026-03-20 02:35 |
 | 🟡 IMAGINE | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:17 |
 | 🟡 SHOENICE  | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🟡 Grokslop | $0.000027 | **1.38x** ($+38) | 1.38x |  | pumpfun | 2026-03-20 01:03 |

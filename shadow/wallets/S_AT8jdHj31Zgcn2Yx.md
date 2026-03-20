@@ -1,12 +1,12 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 02:54 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 02:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 58 (48 open, 10 closed) |
+| Positions | 59 (49 open, 10 closed) |
 | W/L | 0/10 (0%) |
 | 💵 Realized | $-472 |
 | 📦 Unrealized | $+154 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 IMAGINE | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🔴 APES | $0.000234 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🟡 Momo-chan | $0.000375 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:44 |
 | 🔴 PIZZA | $0.000205 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 02:39 |

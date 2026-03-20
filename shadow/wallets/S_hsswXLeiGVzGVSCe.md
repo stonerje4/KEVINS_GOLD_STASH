@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 02:54 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 02:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 93 (85 open, 8 closed) |
+| Positions | 94 (86 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+999 |
-| 📦 Unrealized | $-1,262 |
-| 🏦 Total | **$-263** |
+| 📦 Unrealized | $-1,283 |
+| 🏦 Total | **$-284** |
 | Best Trade | 5.9x |
 | Avg Peak | 4.7x |
 
@@ -18,14 +18,15 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Island | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 02:52 |
+| 🟡 Grokputer | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:57 |
+| 🔴 Island | $0.000005 | **0.57x** ($-43) | 1.00x |  | pumpfun | 2026-03-20 02:52 |
 | 🔴 Semi | $0.000003 | **0.74x** ($-26) | 1.01x |  | pumpfun | 2026-03-20 02:50 |
-| 🟡 Agent | $0.000004 | **1.79x** ($+79) | 1.79x |  | pumpfun | 2026-03-20 02:50 |
+| 🟡 Agent | $0.000004 | **2.00x** ($+100) | 2.00x |  | pumpfun | 2026-03-20 02:50 |
 | 🔴 pepe | $0.000004 | **0.81x** ($-19) | 1.01x |  | pumpfun | 2026-03-20 02:45 |
 | 🔴 Bp6gB4SG | $0.000004 | **0.63x** ($-37) | 1.12x |  | pumpfun | 2026-03-20 02:43 |
 | 🔴 FAKESTEIN | $0.000003 | **0.93x** ($-7) | 1.24x |  | pumpfun | 2026-03-20 02:40 |
-| 🔴 JAPAN | $0.000004 | **0.72x** ($-28) | 1.67x |  | pumpfun | 2026-03-20 02:38 |
-| 🟡 Nonchalant | $0.000003 | **1.03x** ($+3) | 1.16x |  | pumpfun | 2026-03-20 02:32 |
+| 🔴 JAPAN | $0.000004 | **0.69x** ($-31) | 1.67x |  | pumpfun | 2026-03-20 02:38 |
+| 🔴 Nonchalant | $0.000003 | **1.00x** ($-0) | 1.16x |  | pumpfun | 2026-03-20 02:32 |
 | 🔴 INR | $0.000004 | **0.63x** ($-37) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
 | 🔴 EDX84hQ6 | $0.000004 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
 | 🔴 Cats | $0.000003 | **0.83x** ($-17) | 1.18x |  | pumpfun | 2026-03-20 02:26 |

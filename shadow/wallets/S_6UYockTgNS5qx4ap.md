@@ -1,12 +1,12 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 02:54 UTC
+> [View on Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-20 02:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (14 open, 0 closed) |
+| Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-18 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ARIA | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:59 |
 | 🟡 JupUSD | $0.044639 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:59 |
 | 🔴 Saleh | $0.000019 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-20 01:53 |
 | 🔴 BALD | $0.000005 | **0.59x** ($-41) | 1.14x |  | pumpfun | 2026-03-20 01:36 |

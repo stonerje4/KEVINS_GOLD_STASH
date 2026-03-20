@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 02:54 UTC
+> [View on Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-20 02:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (16 open, 13 closed) |
 | W/L | 0/13 (0%) |
 | 💵 Realized | $-900 |
-| 📦 Unrealized | $+180 |
-| 🏦 Total | **$-720** |
+| 📦 Unrealized | $+176 |
+| 🏦 Total | **$-723** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -31,7 +31,7 @@
 | 🔴 tinfoil | $0.000061 | **0.78x** ($-22) | 1.09x |  | pumpswap | 2026-03-19 23:01 |
 | 🟡 Nigel | $0.000194 | **1.07x** ($+7) | 1.36x |  | pumpswap | 2026-03-19 22:52 |
 | 🟡 TRAITOR | $0.000003 | **1.41x** ($+41) | 2.80x | ✅ | pumpswap | 2026-03-19 22:50 |
-| 🔴 NIGGA | $0.000014 | **0.66x** ($-34) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
+| 🔴 NIGGA | $0.000014 | **0.63x** ($-37) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
 | 🟡 Pete | $0.000161 | **1.72x** ($+72) | 1.90x |  | pumpswap | 2026-03-19 22:49 |
 | 🟡 BBX | $0.000441 | **1.19x** ($+19) | 1.53x |  | pumpswap | 2026-03-19 22:41 |
 

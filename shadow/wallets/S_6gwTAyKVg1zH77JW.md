@@ -1,12 +1,12 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 02:54 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 02:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 95 (93 open, 2 closed) |
+| Positions | 96 (94 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+239 |
 | 📦 Unrealized | $+84 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Hamster | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:54 |
 | 🟡 Snorp | $0.000213 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 SNDK | $0.000007 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 02:47 |
 | 🟡 Devious | $0.000069 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:45 |
