@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [View on Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 01:59 UTC
+> [View on Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 02:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+13 |
-| 🏦 Total | **$+13** |
+| 📦 Unrealized | $-8 |
+| 🏦 Total | **$-8** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Trollbot | $0.000005 | **1.13x** ($+13) | 1.50x |  | pumpfun | 2026-03-20 01:25 |
+| 🔴 Trollbot | $0.000005 | **0.92x** ($-8) | 1.50x |  | pumpfun | 2026-03-20 01:25 |
 
 ## Closed Positions
 

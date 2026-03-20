@@ -1,6 +1,6 @@
 # Wallet: `DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V`
 
-> [View on Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-20 01:59 UTC
+> [View on Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-20 02:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+16 |
-| 🏦 Total | **$+16** |
+| 📦 Unrealized | $+21 |
+| 🏦 Total | **$+21** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 gugugaga | $0.000174 | **1.00x** ($+0) | 1.21x |  | pumpswap | 2026-03-20 00:42 |
-| 🟡 Pete | $0.000139 | **1.87x** ($+87) | 2.20x | ✅ | pumpswap | 2026-03-19 23:12 |
+| 🟡 gugugaga | $0.000174 | **1.02x** ($+2) | 1.21x |  | pumpswap | 2026-03-20 00:42 |
+| 🟡 Pete | $0.000139 | **1.95x** ($+95) | 2.20x | ✅ | pumpswap | 2026-03-19 23:12 |
 | 🔴 Saleh | $0.000027 | **0.72x** ($-28) | 1.18x |  | pumpswap | 2026-03-19 22:49 |
 
 ## Closed Positions

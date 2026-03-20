@@ -1,6 +1,6 @@
 # Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
 
-> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 01:59 UTC
+> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 02:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 39 (26 open, 13 closed) |
 | W/L | 3/10 (23%) |
 | 💵 Realized | $+25 |
-| 📦 Unrealized | $-90 |
-| 🏦 Total | **$-65** |
+| 📦 Unrealized | $-94 |
+| 🏦 Total | **$-69** |
 | Best Trade | 5.8x |
 | Avg Peak | 2.5x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟢 UGOR | $0.000004 | **2.79x** ($+179) | 2.96x | ✅ | pumpfun | 2026-03-19 23:54 |
 | 🔴 TF | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-19 23:53 |
-| 🟡 wolverine | $0.000004 | **1.54x** ($+54) | 2.01x | ✅ | pumpfun | 2026-03-19 23:52 |
+| 🟡 wolverine | $0.000004 | **1.47x** ($+47) | 2.01x | ✅ | pumpfun | 2026-03-19 23:52 |
 | 🔴 TGC | $0.000005 | **0.81x** ($-19) | 1.14x |  | pumpfun | 2026-03-19 23:47 |
 | 🔴 LTF | $0.000004 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-19 23:44 |
 | 🟢 CHILLDOWN | $0.000013 | **2.91x** ($+191) | 2.91x | ✅ | pumpfun | 2026-03-19 23:44 |

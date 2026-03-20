@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 01:59 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 02:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$+3** |
+| 📦 Unrealized | $-7 |
+| 🏦 Total | **$-7** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBI | $0.001134 | **1.03x** ($+3) | 1.15x |  | pumpswap | 2026-03-20 00:49 |
+| 🔴 CHIBI | $0.001134 | **0.93x** ($-7) | 1.15x |  | pumpswap | 2026-03-20 00:49 |
 
 ## Closed Positions
 

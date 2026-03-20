@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 01:59 UTC
+> [View on Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 02:04 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (6 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-170 |
-| 📦 Unrealized | $+96 |
-| 🏦 Total | **$-73** |
+| 📦 Unrealized | $+79 |
+| 🏦 Total | **$-91** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.0x |
 
@@ -21,9 +21,9 @@
 | 🟡 DICKUS | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:34 |
 | 🟡 SHOENICE  | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:05 |
 | 🟡 Grokslop | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 01:01 |
-| 🟡 CHIBI | $0.000937 | **1.25x** ($+25) | 1.39x |  | pumpswap | 2026-03-20 00:46 |
+| 🟡 CHIBI | $0.000937 | **1.12x** ($+12) | 1.39x |  | pumpswap | 2026-03-20 00:46 |
 | 🟡 TENDIES | $0.000054 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:01 |
-| 🔴 LIBERTY | $0.000049 | **0.96x** ($-4) | 1.71x |  | pumpswap | 2026-03-19 23:35 |
+| 🔴 LIBERTY | $0.000049 | **0.91x** ($-9) | 1.71x |  | pumpswap | 2026-03-19 23:35 |
 
 ## Closed Positions
 

@@ -1,16 +1,16 @@
 # Wallet: `6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y`
 
-> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 01:59 UTC
+> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 02:04 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
+| Positions | 7 (5 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-13 |
-| 📦 Unrealized | $-74 |
-| 🏦 Total | **$-87** |
+| 📦 Unrealized | $+3 |
+| 🏦 Total | **$-10** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.3x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Cow | $0.000005 | **1.14x** ($+14) | 1.15x |  | pumpfun | 2026-03-20 01:57 |
+| 🔴 Grokslop | $0.000003 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:00 |
+| 🟢 Cow | $0.000005 | **2.80x** ($+180) | 2.96x | ✅ | pumpfun | 2026-03-20 01:57 |
 | 🟡 Xombat | $0.000006 | **1.03x** ($+3) | 1.25x |  | pumpswap | 2026-03-20 01:31 |
-| 🔴 Doolysaurus | $0.000009 | **0.51x** ($-49) | 1.07x |  | pumpfun | 2026-03-20 01:17 |
+| 🔴 Doolysaurus | $0.000009 | **0.55x** ($-45) | 1.07x |  | pumpfun | 2026-03-20 01:17 |
 | 🔴 Imaginify | $0.000005 | **0.59x** ($-41) | 1.00x |  | pumpfun | 2026-03-20 01:04 |
 
 ## Closed Positions
