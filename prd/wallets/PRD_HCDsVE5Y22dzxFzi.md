@@ -8,10 +8,10 @@
 |--------|-------|
 | Trades | 5 (0 open, 5 closed) |
 | W/L | 0/5 (0%) |
-| 💵 Realized | -0.5950 SOL ($-52.96) |
+| 💵 Realized | -0.5950 SOL ($-52.95) |
 | ⛽ Gas | 0.0250 SOL |
 | 📦 Unrealized | +0.0000 SOL |
-| 🏦 Net | **-0.5950 SOL** ($-52.96) |
+| 🏦 Net | **-0.5950 SOL** ($-52.95) |
 
 ## Positions
 

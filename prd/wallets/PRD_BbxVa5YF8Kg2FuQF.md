@@ -10,14 +10,14 @@
 | W/L | 0/0 (0%) |
 | 💵 Realized | +0.0000 SOL ($+0.00) |
 | ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | -0.0553 SOL |
-| 🏦 Net | **-0.0553 SOL** ($-4.92) |
+| 📦 Unrealized | -0.0558 SOL |
+| 🏦 Net | **-0.0558 SOL** ($-4.96) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 EVERYTHING | open | 0.11 | 0.54x | 1.17x | -0.0553 | — |
+| 🔴 EVERYTHING | open | 0.11 | 0.54x | 1.17x | -0.0558 | — |
 
 ---
 *[← Back to PRD Dashboard](../DASHBOARD.md)*

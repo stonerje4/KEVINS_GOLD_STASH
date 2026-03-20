@@ -8,18 +8,18 @@
 |--------|-------|
 | Trades | 10 (2 open, 8 closed) |
 | W/L | 0/8 (0%) |
-| 💵 Realized | -0.6556 SOL ($-58.36) |
+| 💵 Realized | -0.6556 SOL ($-58.35) |
 | ⛽ Gas | 0.0324 SOL |
-| 📦 Unrealized | +0.0198 SOL |
-| 🏦 Net | **-0.6358 SOL** ($-56.59) |
+| 📦 Unrealized | +0.0276 SOL |
+| 🏦 Net | **-0.6280 SOL** ($-55.89) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🟢 AI-Sexual | open | 0.11 | 1.59x | 1.71x | +0.0596 | — |
-| 🔴 ? | closed | 0.11 | 0.40x | 1.00x | -0.0778 | stop_loss |
-| 🔴 FABIANA | open | 0.11 | 0.68x | 1.25x | -0.0398 | — |
+| 🟢 AI-Sexual | open | 0.11 | 1.66x | 1.71x | +0.0672 | — |
+| 🔴 Dreamjob | closed | 0.11 | 0.40x | 1.00x | -0.0778 | stop_loss |
+| 🔴 FABIANA | open | 0.11 | 0.69x | 1.25x | -0.0395 | — |
 | 🔴 菲比啾比 | closed | 0.11 | 0.88x | 1.01x | -0.1121 | ghost_close_zero_balance |
 | 🔴 Kin-Kun | closed | 0.11 | 0.65x | 1.00x | -0.1190 | ghost_close_zero_balance |
 | 🔴 CHUCK | closed | 0.11 | 0.40x | 1.13x | -0.0713 | stop_loss |
