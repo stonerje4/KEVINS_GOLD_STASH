@@ -1,16 +1,16 @@
-# Wallet: `77RYvZP9oKRdPySXmiAagoJvAD61Qw1Hdr1vNjnC9SL3`
+# Wallet: `FC4rpNEMY3EFpEm1RtzZtUkyUFjDFBbunuDYcEgTeGoL`
 
-> [View on Solscan](https://solscan.io/account/77RYvZP9oKRdPySXmiAagoJvAD61Qw1Hdr1vNjnC9SL3) | Updated: 2026-03-20 06:15 UTC
+> [View on Solscan](https://solscan.io/account/FC4rpNEMY3EFpEm1RtzZtUkyUFjDFBbunuDYcEgTeGoL) | Updated: 2026-03-20 06:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-13 |
-| 🏦 Total | **$-13** |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$+0** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PIXELS | $0.000039 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 00:07 |
-| 🔴 BH32 | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 00:03 |
+| 🟡 Pixel | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:12 |
 
 ## Closed Positions
 

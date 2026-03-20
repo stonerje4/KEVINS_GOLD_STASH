@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 06:10 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 06:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 47 (31 open, 16 closed) |
 | W/L | 1/15 (6%) |
 | 💵 Realized | $-677 |
-| 📦 Unrealized | $-464 |
-| 🏦 Total | **$-1,142** |
+| 📦 Unrealized | $-474 |
+| 🏦 Total | **$-1,152** |
 | Best Trade | 1.4x |
 | Avg Peak | 1.9x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 startpup | $0.000012 | **0.85x** ($-15) | 1.27x |  | pumpfun | 2026-03-20 06:01 |
+| 🔴 startpup | $0.000012 | **0.75x** ($-25) | 1.27x |  | pumpfun | 2026-03-20 06:01 |
 | 🔴 7MDPtxq1 | $0.000005 | **0.46x** ($-54) | 1.19x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 EA | $0.000002 | **0.69x** ($-31) | 1.33x |  | pumpswap | 2026-03-20 05:57 |
 | 🟢 DBT5vdmZ | $0.000010 | **3.59x** ($+259) | 3.59x | ✅ | pumpfun | 2026-03-20 05:51 |

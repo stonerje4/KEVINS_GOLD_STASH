@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 06:10 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 06:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 100 (97 open, 3 closed) |
+| Positions | 101 (98 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-91 |
-| 📦 Unrealized | $+205 |
-| 🏦 Total | **$+114** |
+| 📦 Unrealized | $+195 |
+| 🏦 Total | **$+105** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -18,20 +18,21 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Tastecoin | $0.000189 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:15 |
 | 🟡 LULU | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
 | 🟡 DICKUS | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |
-| 🔴 INCOME | $0.000572 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 05:35 |
+| 🔴 INCOME | $0.000572 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 Goose | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
 | 🟡 Clude | $0.001321 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
 | 🟡 WhiteHouse | $0.000358 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 05:10 |
 | 🟡 Spiderman | $0.000134 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
-| 🔴 TeraFab | $0.000055 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 05:08 |
-| 🔴 shitcoin | $0.000073 | **1.00x** ($-0) | 1.06x |  | pumpswap | 2026-03-20 05:08 |
+| 🔴 TeraFab | $0.000055 | **0.92x** ($-8) | 1.03x |  | pumpswap | 2026-03-20 05:08 |
+| 🔴 shitcoin | $0.000073 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 IMAGINE | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:02 |
-| 🔴 Floki | $0.000053 | **0.70x** ($-30) | 1.14x |  | pumpswap | 2026-03-20 04:51 |
+| 🔴 Floki | $0.000053 | **0.58x** ($-42) | 1.14x |  | pumpswap | 2026-03-20 04:51 |
 | 🟡 Flash | $0.000055 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:47 |
-| 🟡 automaton | $0.000107 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 04:47 |
-| 🟡 CHOPPER | $0.000025 | **1.04x** ($+4) | 1.11x |  | pumpswap | 2026-03-20 04:44 |
+| 🟡 automaton | $0.000107 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-20 04:47 |
+| 🟡 CHOPPER | $0.000025 | **1.03x** ($+3) | 1.11x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 Pete | $0.000219 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:55 |
 | 🟡 OIIA | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:53 |
 | 🟡 COLLECTIBLE | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
@@ -40,7 +41,7 @@
 | 🟡 CLAW3D | $0.000053 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 | 🟡 NETAINYAHU | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 Solana | $0.000173 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:18 |
-| 🟡 SAID | $0.000274 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 SAID | $0.000274 | **1.06x** ($+6) | 1.08x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 SEALION | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🔴 Retardmaxx | $0.000356 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 Rosie | $0.000878 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
@@ -96,7 +97,7 @@
 | 🟡 Alien | $0.000014 | **1.61x** ($+61) | 1.71x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000025 | **1.20x** ($+20) | 1.21x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 KIWI | $0.000158 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-19 23:43 |
-| 🔴 OILINU | $0.000090 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
+| 🔴 OILINU | $0.000090 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
 | 🔴 Patricia | $0.000024 | **0.60x** ($-40) | 1.94x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Monke | $0.000013 | **0.64x** ($-36) | 1.04x |  | pumpswap | 2026-03-19 23:30 |
 | 🟡 Nigel | $0.000195 | **1.07x** ($+7) | 1.36x |  | pumpswap | 2026-03-19 23:24 |
