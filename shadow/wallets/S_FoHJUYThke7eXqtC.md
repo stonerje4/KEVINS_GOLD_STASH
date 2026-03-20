@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [GMGN](https://gmgn.ai/sol/address/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | [Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | [Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 56 (55 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
-| 📦 Unrealized | $-31 |
-| 🏦 Total | **$+160** |
+| 📦 Unrealized | $-42 |
+| 🏦 Total | **$+149** |
 | Best ROI | 2.91x |
 | Avg ROI | 2.91x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chuck | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 15:20 |
+| 🔴 Chuck | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 15:20 |
 | 🔴 FROGGO | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:51 |
 | 🟢 GSCOPE | $0.000003 | **3.33x** ($+233) | 3.35x | ✅ | pumpfun | 2026-03-20 14:37 |
 | 🔴 CHUCKNORRIS | $0.000003 | **0.99x** ($-1) | 1.13x |  | pumpfun | 2026-03-20 14:10 |

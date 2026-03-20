@@ -1,32 +1,31 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (17 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-268 |
-| 📦 Unrealized | $-137 |
-| 🏦 Total | **$-405** |
+| Positions | 22 (16 open, 6 closed) |
+| W/L | 0/6 (0%) |
+| 💵 Realized | $-351 |
+| 📦 Unrealized | $-145 |
+| 🏦 Total | **$-495** |
 | Best ROI | 0.81x |
-| Avg ROI | 0.46x |
+| Avg ROI | 0.42x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 FOID | $0.000017 | **1.00x** ($+0) | 1.08x |  | pumpfun | 2026-03-20 14:58 |
+| 🔴 FOID | $0.000017 | **0.94x** ($-6) | 1.08x |  | pumpfun | 2026-03-20 14:58 |
 | 🟡 OIIA | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |
 | 🟡 IMAGINE | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 SMCI | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 WID | $0.000026 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:36 |
 | 🟡 Sentinel | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:13 |
-| 🟡 DRIVE | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:19 |
-| 🔴 Fro | $0.000265 | **0.51x** ($-49) | 1.07x |  | pumpswap | 2026-03-20 02:10 |
+| 🔴 Fro | $0.000265 | **0.49x** ($-51) | 1.07x |  | pumpswap | 2026-03-20 02:10 |
 | 🔴 UBT | $0.000007 | **0.94x** ($-6) | 1.01x |  | pumpswap | 2026-03-20 01:32 |
 | 🔴 Cyberfy | $0.000003 | **0.91x** ($-9) | 1.17x |  | pumpfun | 2026-03-20 01:14 |
 | 🔴 DECEL | $0.000015 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:06 |
@@ -41,6 +40,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🟡 CHIBI | 0.81x | $-19 | trailing_stop_2x | 2.19x | pumpfun | 2026-03-20 09:57 → 2026-03-20 10:32 |
+| 🔴 DRIVE | 0.18x | $-82 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:19 → 2026-03-20 15:26 |
 | 🔴 IMAGINE | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:06 → 2026-03-20 02:10 |
 | 🔴 Cyberfy | 0.40x | $-60 | stop_loss | 1.24x | pumpfun | 2026-03-20 00:39 → 2026-03-20 01:10 |
 | 🔴 Massive | 0.39x | $-61 | stop_loss | 1.13x | pumpswap | 2026-03-19 23:53 → 2026-03-20 01:21 |

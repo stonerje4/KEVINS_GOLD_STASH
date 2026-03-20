@@ -1,6 +1,6 @@
 # Wallet: `5ugQyf6niPqFqsaNUAiwE6AbDmrFyp2DmSZc7LHBudoC`
 
-> [GMGN](https://gmgn.ai/sol/address/5ugQyf6niPqFqsaNUAiwE6AbDmrFyp2DmSZc7LHBudoC) | [Solscan](https://solscan.io/account/5ugQyf6niPqFqsaNUAiwE6AbDmrFyp2DmSZc7LHBudoC) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/5ugQyf6niPqFqsaNUAiwE6AbDmrFyp2DmSZc7LHBudoC) | [Solscan](https://solscan.io/account/5ugQyf6niPqFqsaNUAiwE6AbDmrFyp2DmSZc7LHBudoC) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-100 |
-| 📦 Unrealized | $+40 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $+59 |
+| 🏦 Total | **$-41** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Optimistic | $0.000487 | **1.40x** ($+40) | 1.51x |  | pumpswap | 2026-03-20 09:04 |
+| 🟡 Optimistic | $0.000487 | **1.59x** ($+59) | 1.63x |  | pumpswap | 2026-03-20 09:04 |
 
 ## Closed Positions
 

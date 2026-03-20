@@ -1,6 +1,6 @@
 # Wallet: `EBaHgdqGJkhZRydreGaYqeQoEA595tk6UVoE2ACTp597`
 
-> [GMGN](https://gmgn.ai/sol/address/EBaHgdqGJkhZRydreGaYqeQoEA595tk6UVoE2ACTp597) | [Solscan](https://solscan.io/account/EBaHgdqGJkhZRydreGaYqeQoEA595tk6UVoE2ACTp597) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/EBaHgdqGJkhZRydreGaYqeQoEA595tk6UVoE2ACTp597) | [Solscan](https://solscan.io/account/EBaHgdqGJkhZRydreGaYqeQoEA595tk6UVoE2ACTp597) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$-18** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Rosie | $0.000895 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:53 |
+| 🔴 Rosie | $0.000895 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 02:53 |
 
 ## Closed Positions
 

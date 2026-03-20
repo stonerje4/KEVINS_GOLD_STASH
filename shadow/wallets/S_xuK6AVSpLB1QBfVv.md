@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [GMGN](https://gmgn.ai/sol/address/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | [Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | [Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 87 (86 open, 1 closed) |
+| Positions | 88 (87 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
 | 📦 Unrealized | $-348 |
-| 🏦 Total | **$-364** |
+| 🏦 Total | **$-365** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.83x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Immortalism | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 15:27 |
 | 🟡 CHUCK | $0.000003 | **1.55x** ($+55) | 1.55x |  | pumpfun | 2026-03-20 14:59 |
 | 🟡 BURNBEAR | $0.000003 | **1.02x** ($+2) | 1.03x |  | pumpfun | 2026-03-20 14:54 |
 | 🔴 Coglet | $0.000003 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-20 14:38 |

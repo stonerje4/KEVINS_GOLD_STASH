@@ -1,6 +1,6 @@
 # Wallet: `D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY`
 
-> [GMGN](https://gmgn.ai/sol/address/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | [Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | [Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+57 |
-| 🏦 Total | **$+57** |
+| 📦 Unrealized | $+46 |
+| 🏦 Total | **$+46** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -25,7 +25,7 @@
 | 🟡 OXIDE | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 電王 | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:31 |
 | 🟡 YEPE | $0.000087 | **1.21x** ($+21) | 1.79x |  | pumpswap | 2026-03-20 07:24 |
-| 🟡 OSP | $0.000020 | **1.33x** ($+33) | 1.35x |  | pumpfun | 2026-03-20 07:21 |
+| 🟡 OSP | $0.000020 | **1.23x** ($+23) | 1.35x |  | pumpfun | 2026-03-20 07:21 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST`
 
-> [GMGN](https://gmgn.ai/sol/address/C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST) | [Solscan](https://solscan.io/account/C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST) | [Solscan](https://solscan.io/account/C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-2** |
+| 📦 Unrealized | $+23 |
+| 🏦 Total | **$+23** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 KIWI | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
-| 🔴 Judy | $0.000018 | **0.98x** ($-2) | 1.22x |  | pumpfun | 2026-03-20 13:14 |
+| 🟡 Judy | $0.000018 | **1.23x** ($+23) | 1.32x |  | pumpfun | 2026-03-20 13:14 |
 | 🟡 Barron | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:30 |
 
 ## Closed Positions

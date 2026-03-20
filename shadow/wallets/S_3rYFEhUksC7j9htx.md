@@ -1,6 +1,6 @@
 # Wallet: `3rYFEhUksC7j9htxCGPDgGowF6TGg1y4TFf8kaE5Gsch`
 
-> [GMGN](https://gmgn.ai/sol/address/3rYFEhUksC7j9htxCGPDgGowF6TGg1y4TFf8kaE5Gsch) | [Solscan](https://solscan.io/account/3rYFEhUksC7j9htxCGPDgGowF6TGg1y4TFf8kaE5Gsch) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/3rYFEhUksC7j9htxCGPDgGowF6TGg1y4TFf8kaE5Gsch) | [Solscan](https://solscan.io/account/3rYFEhUksC7j9htxCGPDgGowF6TGg1y4TFf8kaE5Gsch) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-23 |
-| 🏦 Total | **$-23** |
+| 📦 Unrealized | $-22 |
+| 🏦 Total | **$-22** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 TripleT | $0.002235 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
-| 🔴 worth | $0.000104 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
+| 🔴 worth | $0.000104 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 
 ## Closed Positions
 

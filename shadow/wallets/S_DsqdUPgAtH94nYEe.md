@@ -1,18 +1,18 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 33 (27 open, 6 closed) |
-| W/L | 1/5 (17%) |
-| 💵 Realized | $-298 |
-| 📦 Unrealized | $-75 |
-| 🏦 Total | **$-373** |
+| Positions | 33 (26 open, 7 closed) |
+| W/L | 1/6 (14%) |
+| 💵 Realized | $-362 |
+| 📦 Unrealized | $-87 |
+| 🏦 Total | **$-448** |
 | Best ROI | 1.30x |
-| Avg ROI | 0.50x |
+| Avg ROI | 0.48x |
 
 ## Open Positions
 
@@ -23,7 +23,7 @@
 | 🟡 Sybil  | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 NOTICER | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
 | 🟡 Autobots | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
-| 🟡 Samba | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:17 |
+| 🔴 Samba | $0.000012 | **0.88x** ($-12) | 1.03x |  | pumpswap | 2026-03-20 12:17 |
 | 🟡 9suFTixZ | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:07 |
 | 🟡 28yU23RZ | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |
 | 🟡 DahJ6Acb | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
@@ -41,7 +41,6 @@
 | 🔴 GENOCIDE | $0.000003 | **0.80x** ($-20) | 1.05x |  | pumpfun | 2026-03-20 07:34 |
 | 🟡 Saleh | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
 | 🔴 MENACE | $0.000009 | **0.44x** ($-56) | 1.12x |  | pumpswap | 2026-03-20 06:11 |
-| 🟡 DRIVE | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:02 |
 | 🟡 MATEOS | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:58 |
 | 🟡 LIBERTY | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:36 |
 | 🟡 PIXEL | $0.000003 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:33 |
@@ -54,6 +53,7 @@
 | 🔴 Ropet | 0.37x | $-63 | stop_loss | 1.48x | pumpfun | 2026-03-20 08:57 → 2026-03-20 08:58 |
 | 🔴 BMpoFKvn | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 08:01 → 2026-03-20 08:04 |
 | 🔴 AVATAR | 0.39x | $-61 | stop_loss | 1.89x | pumpswap | 2026-03-20 06:56 → 2026-03-20 08:52 |
+| 🔴 DRIVE | 0.36x | $-64 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:02 → 2026-03-20 15:26 |
 | 🔴 HeatGun | 0.30x | $-70 | stop_loss | 1.00x | pumpfun | 2026-03-20 05:21 → 2026-03-20 07:30 |
 | 🟡 nickel | 1.30x | $+30 | trailing_stop_3x | 3.40x | pumpfun | 2026-03-20 05:12 → 2026-03-20 05:42 |
 

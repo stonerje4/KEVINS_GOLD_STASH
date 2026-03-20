@@ -1,6 +1,6 @@
 # Wallet: `9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf`
 
-> [GMGN](https://gmgn.ai/sol/address/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | [Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | [Solscan](https://solscan.io/account/9onSxpenrxTjyLgduB7Mb73L7KfT1XAwTeZk8bBHwxMf) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-114 |
-| 🏦 Total | **$-114** |
+| 📦 Unrealized | $-118 |
+| 🏦 Total | **$-118** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -23,8 +23,8 @@
 | 🔴 Aliens | $0.000791 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:39 |
 | 🔴 AyyLMAO | $0.000050 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:29 |
 | 🔴 Rubio | $0.000143 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 01:27 |
-| 🟡 Foodrot | $0.000138 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-20 01:26 |
-| 🔴 Fro | $0.000277 | **0.48x** ($-52) | 1.03x |  | pumpswap | 2026-03-20 01:08 |
+| 🟡 Foodrot | $0.000138 | **1.12x** ($+12) | 1.14x |  | pumpswap | 2026-03-20 01:26 |
+| 🔴 Fro | $0.000277 | **0.47x** ($-53) | 1.03x |  | pumpswap | 2026-03-20 01:08 |
 | 🔴 WhiteBoy  | $0.000026 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-19 23:07 |
 
 ## Closed Positions

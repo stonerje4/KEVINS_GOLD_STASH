@@ -1,6 +1,6 @@
 # Wallet: `6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y`
 
-> [GMGN](https://gmgn.ai/sol/address/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | [Solscan](https://solscan.io/account/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | [Solscan](https://solscan.io/account/6xb5UP9bYBTiny2byx4wu66tmZGnbrFJYS4WwC6HCX8y) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-95 |
-| 📦 Unrealized | $-5 |
-| 🏦 Total | **$-100** |
+| 📦 Unrealized | $+1 |
+| 🏦 Total | **$-94** |
 | Best ROI | 0.67x |
 | Avg ROI | 0.52x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 tired | $0.000008 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 15:12 |
+| 🟡 tired | $0.000008 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 15:12 |
 
 ## Closed Positions
 

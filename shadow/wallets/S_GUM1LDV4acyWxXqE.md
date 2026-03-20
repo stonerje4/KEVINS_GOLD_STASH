@@ -1,16 +1,16 @@
 # Wallet: `GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW`
 
-> [GMGN](https://gmgn.ai/sol/address/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | [Solscan](https://solscan.io/account/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | [Solscan](https://solscan.io/account/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$+6** |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$+15** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 OSP | $0.000010 | **1.08x** ($+8) | 1.20x |  | pumpfun | 2026-03-20 15:27 |
 | 🟡 NBR | $0.000027 | **1.06x** ($+6) | 1.06x |  | pumpfun | 2026-03-20 01:34 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 28 (22 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-227 |
-| 📦 Unrealized | $+137 |
-| 🏦 Total | **$-90** |
+| 📦 Unrealized | $+135 |
+| 🏦 Total | **$-92** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.62x |
 
@@ -21,7 +21,7 @@
 | 🟡 Alien | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 FAKER | $0.000049 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 Legoify | $0.000003 | **0.76x** ($-24) | 1.77x |  | pumpswap | 2026-03-20 13:47 |
-| 🟡 Foodrot | $0.000123 | **1.29x** ($+29) | 1.29x |  | pumpswap | 2026-03-20 13:18 |
+| 🟡 Foodrot | $0.000123 | **1.26x** ($+26) | 1.29x |  | pumpswap | 2026-03-20 13:18 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
 | 🟡 ME | $0.000006 | **1.25x** ($+25) | 1.53x |  | pumpfun | 2026-03-20 12:51 |
 | 🟡 Dyoji-nim | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |

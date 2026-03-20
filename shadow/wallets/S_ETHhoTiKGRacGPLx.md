@@ -1,16 +1,16 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [GMGN](https://gmgn.ai/sol/address/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | [Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | [Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (23 open, 1 closed) |
+| Positions | 25 (24 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-195 |
-| 🏦 Total | **$-281** |
+| 📦 Unrealized | $-197 |
+| 🏦 Total | **$-283** |
 | Best ROI | 0.14x |
 | Avg ROI | 0.14x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OSP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 15:15 |
+| 🟡 e-USD | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 15:25 |
+| 🔴 OSP | $0.000005 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-20 15:15 |
 | 🔴 火马 | $0.000004 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 06:44 |
 | 🔴 7HN2Kb4J | $0.000003 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 06:41 |
 | 🔴 HUGH | $0.000003 | **0.99x** ($-1) | 1.07x |  | pumpfun | 2026-03-20 06:35 |

@@ -1,18 +1,18 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 47 (41 open, 6 closed) |
-| W/L | 0/6 (0%) |
-| 💵 Realized | $-207 |
-| 📦 Unrealized | $+317 |
-| 🏦 Total | **$+110** |
+| Positions | 47 (40 open, 7 closed) |
+| W/L | 0/7 (0%) |
+| 💵 Realized | $-306 |
+| 📦 Unrealized | $+267 |
+| 🏦 Total | **$-39** |
 | Best ROI | 0.84x |
-| Avg ROI | 0.65x |
+| Avg ROI | 0.56x |
 
 ## Open Positions
 
@@ -36,7 +36,6 @@
 | 🟡 cigarette | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 22ZdShHj | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:30 |
 | 🟡 PHIBZ | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:28 |
-| 🟡 Dozer | $0.000615 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
 | 🟡 chibify | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:59 |
 | 🟡 Ghibli | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:52 |
 | 🟡 Freddie | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:36 |
@@ -51,9 +50,9 @@
 | 🔴 驚き | $0.000015 | **0.92x** ($-8) | 1.06x |  | pumpswap | 2026-03-20 01:59 |
 | 🔴 bitty | $0.000004 | **0.67x** ($-33) | 1.54x |  | pumpfun | 2026-03-20 01:55 |
 | 🔴 Baby | $0.000003 | **0.87x** ($-13) | 1.02x |  | pumpfun | 2026-03-20 01:30 |
-| 🚀 Income | $0.000003 | **6.86x** ($+586) | 7.73x | ✅ | pumpfun | 2026-03-20 01:25 |
+| 🚀 Income | $0.000003 | **5.60x** ($+460) | 7.73x | ✅ | pumpfun | 2026-03-20 01:25 |
 | 🔴 Futa-san | $0.000003 | **0.79x** ($-21) | 1.01x |  | pumpfun | 2026-03-20 01:18 |
-| 🟢 CHIBI | $0.000860 | **2.83x** ($+183) | 2.87x | ✅ | pumpswap | 2026-03-20 00:26 |
+| 🟢 CHIBI | $0.000860 | **2.68x** ($+168) | 2.87x | ✅ | pumpswap | 2026-03-20 00:26 |
 | 🟡 Mainer | $0.000004 | **1.32x** ($+32) | 1.67x |  | pumpfun | 2026-03-19 23:54 |
 | 🔴 8kDxGVRz | $0.000005 | **0.53x** ($-47) | 1.07x |  | pumpfun | 2026-03-19 23:31 |
 | 🔴 7UkkYv1q | $0.000003 | **0.88x** ($-12) | 1.22x |  | pumpfun | 2026-03-19 23:14 |
@@ -65,6 +64,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Sunshine | 0.73x | $-27 | trailing_stop_2x | 2.46x | pumpfun | 2026-03-20 13:14 → 2026-03-20 13:36 |
+| 🔴 Dozer | 0.02x | $-98 | stop_loss | 1.00x | pumpswap | 2026-03-20 11:11 → 2026-03-20 15:27 |
 | 🔴 Chibify | 0.34x | $-66 | stop_loss | 1.00x | pumpswap | 2026-03-20 10:45 → 2026-03-20 15:20 |
 | 🟡 Kin-kun | 0.84x | $-16 | trailing_stop_2x | 2.41x | pumpfun | 2026-03-20 08:57 → 2026-03-20 09:32 |
 | 🟡 DfPT7K6G | 0.83x | $-17 | trailing_stop_2x | 2.41x | pumpfun | 2026-03-20 01:15 → 2026-03-20 01:17 |

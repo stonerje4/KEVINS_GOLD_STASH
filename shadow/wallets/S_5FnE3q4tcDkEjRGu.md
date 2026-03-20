@@ -1,16 +1,16 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (11 open, 3 closed) |
+| Positions | 15 (12 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $-35 |
-| 📦 Unrealized | $+207 |
-| 🏦 Total | **$+173** |
+| 📦 Unrealized | $+200 |
+| 🏦 Total | **$+166** |
 | Best ROI | 1.41x |
 | Avg ROI | 0.88x |
 
@@ -18,15 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHUCK | $0.000008 | **0.88x** ($-12) | 1.58x |  | pumpfun | 2026-03-20 14:19 |
+| 🟡 Immortalism | $0.000006 | **1.88x** ($+88) | 2.18x | ✅ | pumpfun | 2026-03-20 15:24 |
+| 🟡 CHUCK | $0.000008 | **1.17x** ($+17) | 1.58x |  | pumpfun | 2026-03-20 14:19 |
 | 🟡 CHIBI | $0.000014 | **1.12x** ($+12) | 1.70x |  | pumpfun | 2026-03-20 10:36 |
 | 🟡 Effect | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:11 |
-| 🚀 IMAGINE | $0.000011 | **9.02x** ($+802) | 9.27x | ✅ | pumpfun | 2026-03-20 02:37 |
+| 🚀 IMAGINE | $0.000011 | **8.97x** ($+797) | 9.27x | ✅ | pumpfun | 2026-03-20 02:37 |
 | 🟡 MFT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
 | 🟡 Cow | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:22 |
 | 🟡 PERCOLATOR | $0.000054 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:49 |
 | 🟡 world | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:42 |
-| 🟡 DRIVE | $0.000026 | **1.40x** ($+40) | 1.40x |  | pumpfun | 2026-03-20 01:03 |
+| 🔴 DRIVE | $0.000026 | **0.62x** ($-38) | 1.40x |  | pumpfun | 2026-03-20 01:03 |
 | 🔴 SPODER | $0.000012 | **0.74x** ($-26) | 1.59x |  | pumpswap | 2026-03-20 00:41 |
 | 🔴 Fruits | $0.000007 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 00:34 |
 

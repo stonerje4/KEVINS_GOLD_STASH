@@ -1,6 +1,6 @@
 # Wallet: `Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX`
 
-> [GMGN](https://gmgn.ai/sol/address/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | [Solscan](https://solscan.io/account/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | [Solscan](https://solscan.io/account/Aj8caiiJnc77yPdBvVE1ZFZknRbvCX9qDnPx1SeijaRX) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-83 |
-| 📦 Unrealized | $+56 |
-| 🏦 Total | **$-27** |
+| 📦 Unrealized | $+47 |
+| 🏦 Total | **$-36** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.58x |
 
@@ -22,7 +22,7 @@
 | 🟡 Goxz9EgL | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
 | 🟡 PsyopChibi | $0.000261 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 effect | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:52 |
-| 🟡 CHIBI | $0.001386 | **1.76x** ($+76) | 1.78x |  | pumpswap | 2026-03-20 05:17 |
+| 🟡 CHIBI | $0.001386 | **1.66x** ($+66) | 1.78x |  | pumpswap | 2026-03-20 05:17 |
 
 ## Closed Positions
 

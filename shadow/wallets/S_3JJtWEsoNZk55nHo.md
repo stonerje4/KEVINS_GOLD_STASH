@@ -1,16 +1,16 @@
 # Wallet: `3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT`
 
-> [GMGN](https://gmgn.ai/sol/address/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | [Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | [Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (11 open, 4 closed) |
+| Positions | 16 (12 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-400 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-419** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$-380** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 DECEPTICONS | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 14:59 |
+| 🔴 Steel | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 15:22 |
+| 🔴 DECEPTICONS | $0.000005 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:59 |
 | 🟡 SIGNAL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:58 |
 | 🟡 Patricia | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:15 |
 | 🟡 happiness | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:43 |
@@ -27,7 +28,7 @@
 | 🟡 Chibiusa | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:21 |
 | 🟡 Doomer | $0.000002 | **1.09x** ($+9) | 1.49x |  | pumpswap | 2026-03-20 10:23 |
 | 🟡 Freebuff | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:28 |
-| 🟡 DRIVE | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
+| 🟢 DRIVE | $0.000008 | **2.11x** ($+111) | 2.14x | ✅ | pumpswap | 2026-03-20 08:21 |
 | 🟡 HelloWorld! | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:43 |
 
 ## Closed Positions

@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 194 (176 open, 18 closed) |
+| Positions | 198 (180 open, 18 closed) |
 | W/L | 8/10 (44%) |
 | 💵 Realized | $+1,033 |
-| 📦 Unrealized | $-2,686 |
-| 🏦 Total | **$-1,654** |
+| 📦 Unrealized | $-2,774 |
+| 🏦 Total | **$-1,742** |
 | Best ROI | 5.93x |
 | Avg ROI | 1.57x |
 
@@ -18,14 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 STF | $0.000004 | **1.77x** ($+77) | 2.00x |  | pumpfun | 2026-03-20 15:18 |
-| 🔴 WTR | $0.000005 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 15:16 |
+| 🔴 CHUK | $0.000003 | **0.84x** ($-16) | 1.00x |  | pumpfun | 2026-03-20 15:25 |
+| 🟡 CLINT | $0.000004 | **1.01x** ($+1) | 1.06x |  | pumpfun | 2026-03-20 15:24 |
+| 🟡 BSSPCcHA | $0.000004 | **1.39x** ($+39) | 2.34x | ✅ | pumpfun | 2026-03-20 15:23 |
+| 🔴 Merlin | $0.000004 | **0.92x** ($-8) | 1.04x |  | pumpfun | 2026-03-20 15:21 |
+| 🔴 STF | $0.000004 | **0.76x** ($-24) | 2.00x |  | pumpfun | 2026-03-20 15:18 |
+| 🟡 WTR | $0.000005 | **1.02x** ($+2) | 1.05x |  | pumpfun | 2026-03-20 15:16 |
 | 🔴 WouldChuck | $0.000003 | **0.93x** ($-7) | 1.06x |  | pumpfun | 2026-03-20 15:11 |
 | 🔴 67 | $0.000003 | **0.94x** ($-6) | 1.02x |  | pumpfun | 2026-03-20 15:07 |
 | 🔴 CHUCK | $0.000003 | **0.76x** ($-24) | 1.09x |  | pumpfun | 2026-03-20 15:07 |
 | 🔴 G4yfGuS5 | $0.000004 | **0.71x** ($-29) | 1.00x |  | pumpfun | 2026-03-20 15:05 |
-| 🟡 momoko | $0.000003 | **1.71x** ($+71) | 2.01x | ✅ | pumpfun | 2026-03-20 15:05 |
-| 🔴 Chuck | $0.000004 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-20 14:58 |
+| 🟡 momoko | $0.000003 | **1.94x** ($+94) | 2.01x | ✅ | pumpfun | 2026-03-20 15:05 |
+| 🔴 Chuck | $0.000004 | **0.88x** ($-12) | 1.06x |  | pumpfun | 2026-03-20 14:58 |
 | 🔴 Chuck | $0.000004 | **0.80x** ($-20) | 1.06x |  | pumpfun | 2026-03-20 14:53 |
 | 🔴 TOPDOG | $0.000003 | **0.79x** ($-21) | 1.04x |  | pumpfun | 2026-03-20 14:50 |
 | 🟡 J8DmNTzc | $0.000003 | **1.01x** ($+1) | 1.12x |  | pumpfun | 2026-03-20 14:49 |

@@ -1,24 +1,24 @@
 # Wallet: `7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i`
 
-> [GMGN](https://gmgn.ai/sol/address/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | [Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | [Solscan](https://solscan.io/account/7zJUBgLFUDigTkqRnjpbrYHLmc4niRrJqkmpLjLvS91i) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (15 open, 3 closed) |
-| W/L | 1/2 (33%) |
-| 💵 Realized | $-69 |
-| 📦 Unrealized | $-115 |
-| 🏦 Total | **$-184** |
+| Positions | 21 (15 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-369 |
+| 📦 Unrealized | $-124 |
+| 🏦 Total | **$-493** |
 | Best ROI | 1.47x |
-| Avg ROI | 0.77x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chuck | $0.000003 | **1.03x** ($+3) | 1.04x |  | pumpfun | 2026-03-20 15:10 |
+| 🔴 Chuck | $0.000003 | **0.94x** ($-6) | 1.04x |  | pumpfun | 2026-03-20 15:10 |
 | 🟡 ICY | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:58 |
 | 🟡 BBX | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:14 |
 | 🟡 DTC | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:02 |
@@ -38,6 +38,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:24 → 2026-03-20 15:24 |
+| 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:23 → 2026-03-20 15:23 |
+| 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:23 → 2026-03-20 15:23 |
 | 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 15:20 → 2026-03-20 15:20 |
 | 🟡 $RIPCHUCK | 0.84x | $-16 | trailing_stop_2x | 2.19x | pumpfun | 2026-03-20 13:57 → 2026-03-20 14:45 |
 | 🟡 CHUCK | 1.47x | $+47 | trailing_stop_5x | 4.99x | pumpfun | 2026-03-20 13:57 → 2026-03-20 14:23 |

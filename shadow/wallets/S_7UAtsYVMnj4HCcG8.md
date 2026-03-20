@@ -1,16 +1,16 @@
 # Wallet: `7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4`
 
-> [GMGN](https://gmgn.ai/sol/address/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | [Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | [Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (19 open, 6 closed) |
+| Positions | 26 (20 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-599 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-607** |
+| 📦 Unrealized | $-21 |
+| 🏦 Total | **$-620** |
 | Best ROI | 0.01x |
 | Avg ROI | 0.00x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 ASSDAQ | $0.000170 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 15:23 |
 | 🔴 唐子兵法 | $0.000006 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 15:18 |
 | 🔴 eliza | $0.000003 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 15:16 |
 | 🟡 pippin | $0.124294 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:14 |
 | 🔴 YEPE | $0.000131 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
-| 🔴 BONER | $0.000177 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
-| 🟡 $PRINT | $0.002412 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
+| 🔴 BONER | $0.000177 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
+| 🔴 $PRINT | $0.002412 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 15:13 |
 | 🔴 Franklin | $0.000111 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
 | 🟡 BFS | $0.000406 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:49 |
 | 🟡 SFM | $0.000003 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 14:48 |

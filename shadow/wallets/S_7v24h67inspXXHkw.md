@@ -1,16 +1,16 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 48 (46 open, 2 closed) |
+| Positions | 49 (47 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-164 |
-| 📦 Unrealized | $+102 |
-| 🏦 Total | **$-62** |
+| 📦 Unrealized | $+79 |
+| 🏦 Total | **$-85** |
 | Best ROI | 0.36x |
 | Avg ROI | 0.18x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Chuck | $0.000003 | **1.16x** ($+16) | 1.18x |  | pumpfun | 2026-03-20 15:07 |
+| 🟡 CHUCK | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 15:24 |
+| 🟡 Chuck | $0.000003 | **1.06x** ($+6) | 1.18x |  | pumpfun | 2026-03-20 15:07 |
 | 🔴 SIMULATION | $0.000003 | **0.92x** ($-8) | 1.06x |  | pumpfun | 2026-03-20 15:02 |
 | 🟡 FUEGO | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:56 |
 | 🟡 NBR | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:54 |
@@ -54,7 +55,7 @@
 | 🟡 BBX | $0.000003 | **1.09x** ($+9) | 1.27x |  | pumpfun | 2026-03-20 04:59 |
 | 🟡 UGOR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:45 |
 | 🟡 OSP | $0.000003 | **1.06x** ($+6) | 1.30x |  | pumpfun | 2026-03-20 04:26 |
-| 🟡 OSP | $0.000014 | **1.95x** ($+95) | 1.97x |  | pumpfun | 2026-03-20 04:20 |
+| 🟡 OSP | $0.000014 | **1.80x** ($+80) | 1.97x |  | pumpfun | 2026-03-20 04:20 |
 | 🔴 WAR | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 04:19 |
 | 🟡 OIL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:18 |
 | 🟡 UGOR | $0.000018 | **1.53x** ($+53) | 1.73x |  | pumpswap | 2026-03-20 00:31 |
@@ -63,7 +64,7 @@
 | 🟡 DRONE | $0.000037 | **1.42x** ($+42) | 1.45x |  | pumpswap | 2026-03-19 23:45 |
 | 🔴 BBX | $0.000029 | **0.86x** ($-14) | 1.10x |  | pumpswap | 2026-03-19 23:22 |
 | 🟡 Downald | $0.000006 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:20 |
-| 🔴 BBX | $0.000483 | **0.93x** ($-7) | 1.40x |  | pumpswap | 2026-03-19 23:20 |
+| 🔴 BBX | $0.000483 | **0.92x** ($-8) | 1.40x |  | pumpswap | 2026-03-19 23:20 |
 
 ## Closed Positions
 

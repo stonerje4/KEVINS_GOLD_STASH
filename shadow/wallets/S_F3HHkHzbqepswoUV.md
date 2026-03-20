@@ -1,16 +1,16 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 56 (51 open, 5 closed) |
+| Positions | 57 (52 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-272 |
-| 📦 Unrealized | $+238 |
-| 🏦 Total | **$-34** |
+| 📦 Unrealized | $+302 |
+| 🏦 Total | **$+31** |
 | Best ROI | 0.75x |
 | Avg ROI | 0.46x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 e-CNY | $0.000004 | **0.98x** ($-2) | 1.05x |  | pumpfun | 2026-03-20 15:11 |
+| 🔴 e-CNY | $0.000003 | **0.94x** ($-6) | 1.07x |  | pumpfun | 2026-03-20 15:24 |
+| 🔴 e-CNY | $0.000004 | **0.91x** ($-9) | 1.05x |  | pumpfun | 2026-03-20 15:11 |
 | 🟡 e-CNY | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🔴 PL | $0.000003 | **0.77x** ($-23) | 1.00x |  | pumpfun | 2026-03-20 14:37 |
 | 🔴 4QQiUarf | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 14:21 |
@@ -37,14 +38,14 @@
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:56 |
 | 🟡 USDC | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:46 |
 | 🟡 NBR | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
-| 🟡 OSP | $0.000021 | **1.28x** ($+28) | 1.29x |  | pumpfun | 2026-03-20 10:51 |
+| 🟡 OSP | $0.000021 | **1.18x** ($+18) | 1.29x |  | pumpfun | 2026-03-20 10:51 |
 | 🟡 Fc1CPZb3 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:30 |
 | 🟡 BBX | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:17 |
 | 🟡 f26 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:10 |
 | 🟡 FTR | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 UGCR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:07 |
 | 🟡 OSP | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:33 |
-| 🟡 OSP | $0.000003 | **1.08x** ($+8) | 1.14x |  | pumpfun | 2026-03-20 09:31 |
+| 🟢 OSP | $0.000003 | **3.40x** ($+240) | 3.76x | ✅ | pumpfun | 2026-03-20 09:31 |
 | 🟡 LNG | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 08:25 |
 | 🔴 LNG | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 08:18 |
 | 🟡 USI | $0.000003 | **1.07x** ($+7) | 1.10x |  | pumpfun | 2026-03-20 07:49 |

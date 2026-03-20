@@ -1,6 +1,6 @@
 # Wallet: `7Uz7rhJo1T1DM1N8RgoGcRevzgH3TNmamJ8qnUfQphPa`
 
-> [GMGN](https://gmgn.ai/sol/address/7Uz7rhJo1T1DM1N8RgoGcRevzgH3TNmamJ8qnUfQphPa) | [Solscan](https://solscan.io/account/7Uz7rhJo1T1DM1N8RgoGcRevzgH3TNmamJ8qnUfQphPa) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Uz7rhJo1T1DM1N8RgoGcRevzgH3TNmamJ8qnUfQphPa) | [Solscan](https://solscan.io/account/7Uz7rhJo1T1DM1N8RgoGcRevzgH3TNmamJ8qnUfQphPa) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-35 |
-| 🏦 Total | **$-35** |
+| 📦 Unrealized | $-38 |
+| 🏦 Total | **$-38** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 PACO | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:50 |
-| 🔴 CHIBI | $0.003726 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 10:58 |
+| 🔴 CHIBI | $0.003726 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 10:58 |
 | 🟡 COPPERINU | $0.006067 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:47 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [GMGN](https://gmgn.ai/sol/address/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | [Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | [Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 111 (86 open, 25 closed) |
 | W/L | 4/21 (16%) |
 | 💵 Realized | $-820 |
-| 📦 Unrealized | $-1,191 |
-| 🏦 Total | **$-2,011** |
+| 📦 Unrealized | $-1,196 |
+| 🏦 Total | **$-2,016** |
 | Best ROI | 2.98x |
 | Avg ROI | 0.67x |
 
@@ -51,7 +51,7 @@
 | 🟡 6vxpPSg8 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:41 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:27 |
 | 🟡 ANIME | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
-| 🔴 Income | $0.000037 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
+| 🔴 Income | $0.000037 | **0.42x** ($-58) | 1.00x |  | pumpfun | 2026-03-20 10:15 |
 | 🟡 INCOME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:09 |
 | 🟡 kawaifiy | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 CFLPJdY3 | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:04 |
@@ -69,7 +69,7 @@
 | 🔴 CjqwnET8 | $0.000006 | **0.45x** ($-55) | 1.65x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.53x** ($-47) | 1.12x |  | pumpfun | 2026-03-20 08:09 |
 | 🔴 BGEYapkY | $0.000005 | **0.54x** ($-46) | 1.29x |  | pumpfun | 2026-03-20 07:41 |
-| 🟡 Pixels | $0.000026 | **1.42x** ($+42) | 1.42x |  | pumpfun | 2026-03-20 06:53 |
+| 🟡 Pixels | $0.000026 | **1.47x** ($+47) | 1.47x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 Angrenor | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 Otocolobus | $0.000004 | **0.61x** ($-39) | 1.32x |  | pumpfun | 2026-03-20 06:49 |
 | 🔴 29tcP9b3 | $0.000004 | **0.58x** ($-42) | 1.61x |  | pumpfun | 2026-03-20 06:45 |

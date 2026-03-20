@@ -1,6 +1,6 @@
 # Wallet: `EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE`
 
-> [GMGN](https://gmgn.ai/sol/address/EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE) | [Solscan](https://solscan.io/account/EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE) | [Solscan](https://solscan.io/account/EM1ZxD8rvSc3wbEcCaEebTF1pzUN7ugvLyX21fTAekCE) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+64 |
-| 🏦 Total | **$+64** |
+| 📦 Unrealized | $+45 |
+| 🏦 Total | **$+45** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Chuck | $0.000302 | **2.28x** ($+128) | 2.48x | ✅ | pumpswap | 2026-03-20 14:51 |
+| 🟡 Chuck | $0.000302 | **1.89x** ($+89) | 2.48x | ✅ | pumpswap | 2026-03-20 14:51 |
 
 ## Closed Positions
 

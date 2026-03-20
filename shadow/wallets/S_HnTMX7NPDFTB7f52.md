@@ -1,6 +1,6 @@
 # Wallet: `HnTMX7NPDFTB7f52CrDmvJDyU6AgQdDt4LbKVp8hp1fm`
 
-> [GMGN](https://gmgn.ai/sol/address/HnTMX7NPDFTB7f52CrDmvJDyU6AgQdDt4LbKVp8hp1fm) | [Solscan](https://solscan.io/account/HnTMX7NPDFTB7f52CrDmvJDyU6AgQdDt4LbKVp8hp1fm) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/HnTMX7NPDFTB7f52CrDmvJDyU6AgQdDt4LbKVp8hp1fm) | [Solscan](https://solscan.io/account/HnTMX7NPDFTB7f52CrDmvJDyU6AgQdDt4LbKVp8hp1fm) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+49 |
-| 📦 Unrealized | $-59 |
-| 🏦 Total | **$-9** |
+| 📦 Unrealized | $-68 |
+| 🏦 Total | **$-19** |
 | Best ROI | 1.49x |
 | Avg ROI | 1.49x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Downald | $0.000645 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
+| 🔴 Downald | $0.000645 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
 | 🔴 CHIBELON | $0.000141 | **0.49x** ($-51) | 1.78x |  | pumpswap | 2026-03-20 09:39 |
 
 ## Closed Positions

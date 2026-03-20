@@ -1,16 +1,16 @@
 # Wallet: `44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz`
 
-> [GMGN](https://gmgn.ai/sol/address/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | [Solscan](https://solscan.io/account/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | [Solscan](https://solscan.io/account/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
+| Positions | 5 (4 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
-| 📦 Unrealized | $+12 |
-| 🏦 Total | **$+60** |
+| 📦 Unrealized | $-27 |
+| 🏦 Total | **$+21** |
 | Best ROI | 1.48x |
 | Avg ROI | 1.48x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 STF | $0.000005 | **0.61x** ($-39) | 1.30x |  | pumpfun | 2026-03-20 15:25 |
 | 🟡 SPARKOS | $0.000063 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:32 |
 | 🟢 world | $0.000017 | **2.16x** ($+116) | 2.16x | ✅ | pumpfun | 2026-03-20 00:05 |
 | 🔴 APEPE | $0.000012 | **0.54x** ($-46) | 1.51x |  | pumpfun | 2026-03-19 22:42 |

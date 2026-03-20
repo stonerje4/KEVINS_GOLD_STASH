@@ -1,6 +1,6 @@
 # Wallet: `G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX`
 
-> [GMGN](https://gmgn.ai/sol/address/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | [Solscan](https://solscan.io/account/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | Updated: 2026-03-20 15:21 UTC
+> [GMGN](https://gmgn.ai/sol/address/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | [Solscan](https://solscan.io/account/G6XbF5BgoQThHcePijATNjeA9x1aXardrrEkeNxi5gNX) | Updated: 2026-03-20 15:32 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-207 |
-| 🏦 Total | **$-207** |
+| 📦 Unrealized | $-211 |
+| 🏦 Total | **$-211** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Chuck | $0.000396 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
+| 🔴 Chuck | $0.000396 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 15:14 |
 | 🔴 SPIDERMAN | $0.000004 | **0.62x** ($-38) | 1.44x |  | pumpfun | 2026-03-20 01:20 |
 | 🔴 2tGXZnrU | $0.000005 | **0.46x** ($-54) | 1.11x |  | pumpfun | 2026-03-20 00:46 |
 | 🔴 EViRG6FH | $0.000005 | **0.52x** ($-48) | 1.18x |  | pumpfun | 2026-03-20 00:12 |
