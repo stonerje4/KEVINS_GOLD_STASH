@@ -1,23 +1,24 @@
 # Wallet: `4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS`
 
-> [View on Solscan](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | Updated: 2026-03-20 12:34 UTC
+> [View on Solscan](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | Updated: 2026-03-20 12:38 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
 | 🏦 Total | **$+0** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SQUIDCAT | $0.000008 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 12:37 |
 | 🟡 Doolysaurus | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:18 |
 | 🟡 Freebuff | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:01 |
 | 🟡 CLIPHUB | $0.000008 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:29 |

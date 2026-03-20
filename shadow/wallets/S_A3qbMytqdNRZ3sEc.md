@@ -1,27 +1,28 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 12:34 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 12:38 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 61 (56 open, 5 closed) |
+| Positions | 62 (57 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
-| 📦 Unrealized | $-96 |
-| 🏦 Total | **$-294** |
-| Best ROI | 1.46x |
-| Avg ROI | 0.60x |
+| 📦 Unrealized | $-108 |
+| 🏦 Total | **$-306** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 AIFRUIT | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:37 |
 | 🟡 LOL | $0.000352 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 DAU | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:59 |
 | 🟡 Saleh | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
-| 🟢 fine999.9 | $0.001470 | **3.03x** ($+203) | 3.18x | ✅ | pumpswap | 2026-03-20 11:48 |
+| 🟢 fine999.9 | $0.001470 | **2.64x** ($+164) | 3.37x | ✅ | pumpswap | 2026-03-20 11:48 |
 | 🟡 ceal | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:44 |
 | 🟡 MOCHI | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:41 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
@@ -68,7 +69,7 @@
 | 🔴 LIBERTY | $0.000043 | **0.83x** ($-17) | 1.13x |  | pumpswap | 2026-03-20 00:10 |
 | 🟡 CHIBIELON | $0.000005 | **1.42x** ($+42) | 1.68x |  | pumpswap | 2026-03-19 23:29 |
 | 🔴 TOKEN | $0.000133 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 23:25 |
-| 🔴 DIVERGENT | $0.000007 | **0.57x** ($-43) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
+| 🔴 DIVERGENT | $0.000007 | **0.61x** ($-39) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
 | 🟡 FML | $0.000196 | **1.38x** ($+38) | 1.51x |  | pumpswap | 2026-03-19 22:44 |
 | 🔴 STITCH | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-19 22:42 |

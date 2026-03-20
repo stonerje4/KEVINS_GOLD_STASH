@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 12:34 UTC
+> [View on Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 12:38 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 19 (14 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-268 |
-| 📦 Unrealized | $-101 |
-| 🏦 Total | **$-370** |
-| Best ROI | 0.81x |
-| Avg ROI | 0.46x |
+| 📦 Unrealized | $-100 |
+| 🏦 Total | **$-369** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.3x |
 
 ## Open Positions
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 IMAGINE | $0.000059 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:51 |
 | 🟡 SMCI | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
-| 🔴 WID | $0.000026 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:36 |
+| 🔴 WID | $0.000026 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 03:36 |
 | 🟡 Sentinel | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:13 |
 | 🟡 DRIVE | $0.000083 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:19 |
 | 🟡 Fro | $0.000265 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 02:10 |

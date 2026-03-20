@@ -1,23 +1,24 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [View on Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 12:34 UTC
+> [View on Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 12:38 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
+| Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+21 |
 | 🏦 Total | **$+21** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Doolysaurus | $0.000137 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
 | 🟡 Sybil  | $0.000091 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:40 |
 | 🟡 Chud | $0.000669 | **1.21x** ($+21) | 1.31x |  | pumpswap | 2026-03-20 07:40 |
 | 🟡 MOCHI | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:07 |

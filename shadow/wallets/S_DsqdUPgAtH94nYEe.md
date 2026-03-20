@@ -1,23 +1,24 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 12:34 UTC
+> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 12:38 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (24 open, 5 closed) |
+| Positions | 30 (25 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-226 |
 | 📦 Unrealized | $-75 |
 | 🏦 Total | **$-301** |
-| Best ROI | 1.30x |
-| Avg ROI | 0.55x |
+| Best Trade | 1.3x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NOTICER | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
 | 🟡 Autobots | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
 | 🟡 Samba | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:17 |
 | 🟡 9suFTixZ | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:07 |
