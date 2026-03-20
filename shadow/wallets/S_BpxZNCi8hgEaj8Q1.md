@@ -1,6 +1,6 @@
 # Wallet: `BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM`
 
-> [GMGN](https://gmgn.ai/sol/address/BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM) | [Solscan](https://solscan.io/account/BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM) | Updated: 2026-03-20 23:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM) | [Solscan](https://solscan.io/account/BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM) | Updated: 2026-03-20 23:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (2 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-150 |
-| 📦 Unrealized | $-47 |
-| 🏦 Total | **$-197** |
+| 📦 Unrealized | $-84 |
+| 🏦 Total | **$-234** |
 | Best ROI | 0.31x |
 | Avg ROI | 0.25x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Pixify | $0.000012 | **0.79x** ($-21) | 1.47x |  | pumpfun | 2026-03-20 23:08 |
-| 🔴 NBR | $0.000021 | **0.74x** ($-26) | 1.12x |  | pumpswap | 2026-03-20 23:00 |
+| 🔴 Pixify | $0.000012 | **0.55x** ($-45) | 1.47x |  | pumpfun | 2026-03-20 23:08 |
+| 🔴 NBR | $0.000021 | **0.61x** ($-39) | 1.12x |  | pumpswap | 2026-03-20 23:00 |
 
 ## Closed Positions
 
