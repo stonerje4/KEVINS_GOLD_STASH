@@ -1,23 +1,24 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 13:09 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 13:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 46 (45 open, 1 closed) |
+| Positions | 47 (46 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+191 |
 | 📦 Unrealized | $-160 |
 | 🏦 Total | **$+31** |
-| Best ROI | 2.91x |
-| Avg ROI | 2.91x |
+| Best Trade | 2.9x |
+| Avg Peak | 5.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 GAAS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:11 |
 | 🔴 CJELL | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 13:05 |
 | 🟡 HIDE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:28 |
 | 🟡 WKC | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:11 |

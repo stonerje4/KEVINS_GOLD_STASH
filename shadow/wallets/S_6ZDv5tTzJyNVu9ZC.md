@@ -1,24 +1,29 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 13:09 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 13:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 200 (198 open, 2 closed) |
+| Positions | 205 (203 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+422 |
-| 🏦 Total | **$+555** |
-| Best ROI | 2.95x |
-| Avg ROI | 1.67x |
+| 📦 Unrealized | $+431 |
+| 🏦 Total | **$+564** |
+| Best Trade | 2.9x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Goyim | $0.000620 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 13:08 |
+| 🟡 BBX | $0.000111 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
+| 🟡 LAYOFF | $0.000242 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
+| 🟡 HORMUZ | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
+| 🟡 Fro | $0.000168 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:09 |
+| 🟡 shitcoin | $0.000351 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
+| 🟡 Goyim | $0.000620 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 LIBERTY | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 fine999.9 | $0.002157 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:57 |
 | 🟡 TFW | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:38 |

@@ -1,23 +1,24 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 13:09 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 13:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 53 (31 open, 22 closed) |
+| Positions | 54 (32 open, 22 closed) |
 | W/L | 0/22 (0%) |
 | 💵 Realized | $-1,117 |
-| 📦 Unrealized | $-169 |
-| 🏦 Total | **$-1,286** |
-| Best ROI | 0.85x |
-| Avg ROI | 0.49x |
+| 📦 Unrealized | $-168 |
+| 🏦 Total | **$-1,285** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Miki | $0.000006 | **1.01x** ($+1) | 1.02x |  | pumpfun | 2026-03-20 13:12 |
 | 🟡 kinton | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:01 |

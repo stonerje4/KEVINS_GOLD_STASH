@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 13:09 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 13:14 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 113 (111 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$-108** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.31x |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$-99** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -126,7 +126,7 @@
 | 🔴 MIROFISH | $0.000035 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 PIKAHORSE | $0.000398 | **0.89x** ($-11) | 1.05x |  | pumpswap | 2026-03-19 22:59 |
 | 🟡 DEEPSEEKV4 | $0.000041 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-19 22:54 |
-| 🟡 Goyim | $0.000395 | **1.56x** ($+56) | 1.62x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Goyim | $0.000395 | **1.65x** ($+65) | 1.65x |  | pumpswap | 2026-03-19 22:38 |
 | 🔴 GameTheory | $0.000019 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 22:37 |
 | 🟡 UGOR | $0.000161 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-19 22:37 |
 

@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 13:09 UTC
+> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 13:14 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 22 (18 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-104 |
-| 📦 Unrealized | $+41 |
-| 🏦 Total | **$-63** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.74x |
+| 📦 Unrealized | $+129 |
+| 🏦 Total | **$+25** |
+| Best Trade | 1.5x |
+| Avg Peak | 2.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MOSHI | $0.000007 | **1.34x** ($+34) | 1.47x |  | pumpfun | 2026-03-20 13:08 |
+| 🟢 MOSHI | $0.000007 | **4.04x** ($+304) | 4.14x | ✅ | pumpfun | 2026-03-20 13:08 |
 | 🟡 ME | $0.000006 | **1.25x** ($+25) | 1.53x |  | pumpfun | 2026-03-20 12:51 |
 | 🟡 Dyoji-nim | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |
 | 🟡 됴지님 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:49 |

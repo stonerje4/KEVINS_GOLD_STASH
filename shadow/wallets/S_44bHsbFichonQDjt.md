@@ -1,23 +1,24 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 13:09 UTC
+> [View on Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-20 13:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 37 (35 open, 2 closed) |
+| Positions | 38 (36 open, 2 closed) |
 | W/L | 2/0 (100%) |
 | 💵 Realized | $+246 |
-| 📦 Unrealized | $-486 |
-| 🏦 Total | **$-240** |
-| Best ROI | 2.99x |
-| Avg ROI | 2.23x |
+| 📦 Unrealized | $-484 |
+| 🏦 Total | **$-238** |
+| Best Trade | 3.0x |
+| Avg Peak | 6.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 kekkek | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 HOPPS | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:39 |
 | 🟡 Ao5QpwxE | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:09 |
 | 🟡 Look | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |

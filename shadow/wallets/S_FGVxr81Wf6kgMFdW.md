@@ -1,23 +1,24 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 13:09 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 13:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (25 open, 1 closed) |
+| Positions | 27 (26 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $+336 |
-| 🏦 Total | **$+250** |
-| Best ROI | 0.14x |
-| Avg ROI | 0.14x |
+| 📦 Unrealized | $+339 |
+| 🏦 Total | **$+253** |
+| Best Trade | 0.1x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 STRAWBS | $0.000003 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 13:10 |
 | 🟡 $PEPETO | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
 | 🟡 DRAFT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:18 |
 | 🟡 f26 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:10 |

@@ -1,25 +1,26 @@
 # Wallet: `6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc`
 
-> [View on Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-20 13:09 UTC
+> [View on Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-20 13:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
+| Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+1 |
-| 🏦 Total | **$+1** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-6 |
+| 🏦 Total | **$-6** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ELEPHANT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🟡 AI | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:06 |
-| 🟡 AI | $0.000004 | **1.01x** ($+1) | 1.13x |  | pumpswap | 2026-03-20 13:05 |
+| 🔴 AI | $0.000004 | **0.94x** ($-6) | 1.13x |  | pumpswap | 2026-03-20 13:05 |
 
 ## Closed Positions
 
