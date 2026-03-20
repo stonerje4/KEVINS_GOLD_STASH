@@ -1,16 +1,16 @@
 # Wallet: `Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS`
 
-> [View on Solscan](https://solscan.io/account/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | Updated: 2026-03-20 11:12 UTC
+> [View on Solscan](https://solscan.io/account/Dfg1Gf7RUyzurGv6pqfcvihdwHZz8FZxgYhqUo3zC2oS) | Updated: 2026-03-20 11:17 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+15,435 |
-| 🏦 Total | **$+15,435** |
+| 📦 Unrealized | $+15,572 |
+| 🏦 Total | **$+15,572** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 herm | $0.000334 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:17 |
 | 🟡 電王 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:19 |
 | 🟡 MOCHI | $0.000102 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:14 |
-| 🚀 PUPPY | $0.000003 | **374.47x** ($+37,347) | 383.96x | ✅ | pumpswap | 2026-03-20 03:54 |
-| 🟢 CHANNELS | $0.000614 | **4.09x** ($+309) | 4.13x | ✅ | pumpswap | 2026-03-20 03:26 |
+| 🚀 PUPPY | $0.000003 | **380.69x** ($+37,969) | 390.65x | ✅ | pumpswap | 2026-03-20 03:54 |
+| 🟢 CHANNELS | $0.000614 | **4.04x** ($+304) | 4.25x | ✅ | pumpswap | 2026-03-20 03:26 |
 | 🟡 唐子兵法 | $0.003267 | **1.34x** ($+34) | 1.39x |  | pumpswap | 2026-03-20 00:59 |
 | 🚀 CHIBI | $0.000003 | **312.40x** ($+31,140) | 390.53x | ✅ | pumpswap | 2026-03-19 23:36 |
 

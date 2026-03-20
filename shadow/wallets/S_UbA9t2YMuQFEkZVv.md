@@ -1,12 +1,12 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 11:12 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 11:17 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (20 open, 1 closed) |
+| Positions | 22 (21 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $+251 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 AQu77Gcq | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:15 |
 | 🟡 $mexcpump | $0.000004 | **1.00x** ($+0) | 1.02x |  | pumpfun | 2026-03-20 08:52 |
 | 🟡 MutantX | $0.000004 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 08:15 |
 | 🟡 CPC | $0.000003 | **1.03x** ($+3) | 1.04x |  | pumpfun | 2026-03-20 08:07 |

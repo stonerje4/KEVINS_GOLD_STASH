@@ -1,6 +1,6 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 11:12 UTC
+> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 11:17 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 햇빛 | $0.000004 | **0.63x** ($-37) | 1.10x |  | pumpfun | 2026-03-20 08:55 |
-| 🔴 GAAS | $0.000005 | **0.50x** ($-50) | 1.42x |  | pumpfun | 2026-03-20 08:50 |
+| 🔴 GAAS | $0.000005 | **0.49x** ($-51) | 1.42x |  | pumpfun | 2026-03-20 08:50 |
 | 🔴 FROG | $0.000004 | **0.66x** ($-34) | 1.64x |  | pumpfun | 2026-03-20 07:31 |
 | 🔴 MENACE | $0.000004 | **0.96x** ($-4) | 2.68x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.51x** ($+151) | 2.51x | ✅ | pumpfun | 2026-03-20 05:51 |
