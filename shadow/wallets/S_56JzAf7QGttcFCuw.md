@@ -1,6 +1,6 @@
-# Wallet: `C1XZfKaJWoq7ry7CBFN3xEZ1a9iqHKAFLpiuUZa87U4k`
+# Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [View on Solscan](https://solscan.io/account/C1XZfKaJWoq7ry7CBFN3xEZ1a9iqHKAFLpiuUZa87U4k) | Updated: 2026-03-20 04:24 UTC
+> [View on Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-20 04:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-17 |
-| 🏦 Total | **$-17** |
+| 📦 Unrealized | $+84 |
+| 🏦 Total | **$+84** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Aliens | $0.000894 | **0.83x** ($-17) | 1.06x |  | pumpswap | 2026-03-19 22:46 |
+| 🟢 94S763Nm | $0.000014 | **2.68x** ($+168) | 2.68x | ✅ | pumpfun | 2026-03-20 04:24 |
 
 ## Closed Positions
 

@@ -1,16 +1,16 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 04:19 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 04:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (21 open, 3 closed) |
-| W/L | 1/2 (33%) |
-| 💵 Realized | $-76 |
-| 📦 Unrealized | $-387 |
-| 🏦 Total | **$-463** |
+| Positions | 26 (21 open, 5 closed) |
+| W/L | 1/4 (20%) |
+| 💵 Realized | $-152 |
+| 📦 Unrealized | $-504 |
+| 🏦 Total | **$-656** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.2x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 9yxNfMaA | $0.000004 | **2.39x** ($+139) | 2.51x | ✅ | pumpfun | 2026-03-20 04:16 |
+| 🟡 94S763Nm | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
+| 🔴 SMCI | $0.000009 | **0.42x** ($-58) | 1.24x |  | pumpfun | 2026-03-20 04:23 |
 | 🔴 Cffkpxmi | $0.000004 | **0.62x** ($-38) | 1.43x |  | pumpfun | 2026-03-20 04:14 |
-| 🔴 CUTIS | $0.000010 | **0.89x** ($-11) | 1.31x |  | pumpfun | 2026-03-20 04:10 |
 | 🔴 Arc | $0.000004 | **0.65x** ($-35) | 1.68x |  | pumpfun | 2026-03-20 04:07 |
 | 🔴 AGzUnMmR | $0.000006 | **0.41x** ($-59) | 1.35x |  | pumpfun | 2026-03-20 03:55 |
 | 🚀 Jeremy | $0.000007 | **5.08x** ($+408) | 5.08x | ✅ | pumpfun | 2026-03-20 03:51 |
@@ -44,7 +44,9 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 9yxNfMaA | 0.84x | $-16 | trailing_stop_3x | 2.99x | pumpfun | 2026-03-20 04:16 → 2026-03-20 04:23 |
 | 🔴 hamood | 0.40x | $-60 | stop_loss | 1.27x | pumpfun | 2026-03-20 04:11 → 2026-03-20 04:12 |
+| 🔴 CUTIS | 0.40x | $-60 | stop_loss | 1.31x | pumpfun | 2026-03-20 04:10 → 2026-03-20 04:23 |
 | 🟡 MINKA | 1.45x | $+45 | trailing_stop_4x | 3.95x | pumpfun | 2026-03-20 02:35 → 2026-03-20 02:54 |
 | 🔴 IDR | 0.39x | $-61 | stop_loss | 1.48x | pumpfun | 2026-03-20 02:30 → 2026-03-20 02:33 |
 

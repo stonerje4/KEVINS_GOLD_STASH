@@ -1,16 +1,16 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 04:19 UTC
+> [View on Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 04:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (8 open, 2 closed) |
+| Positions | 11 (9 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-33 |
-| 📦 Unrealized | $-53 |
-| 🏦 Total | **$-86** |
+| 📦 Unrealized | $-103 |
+| 🏦 Total | **$-136** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.7x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 SMCI | $0.000007 | **0.50x** ($-50) | 1.60x |  | pumpfun | 2026-03-20 04:22 |
 | 🟡 SMCI | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:14 |
 | 🔴 Alien | $0.000024 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 02:51 |
 | 🔴 BOAT | $0.000018 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 01:07 |

@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 04:19 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 04:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (11 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$-31** |
+| 📦 Unrealized | $+22 |
+| 🏦 Total | **$-38** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.9x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Veggietales | $0.000004 | **0.92x** ($-8) | 1.24x |  | pumpfun | 2026-03-20 03:56 |
 | 🟡 TRASHBAG | $0.000008 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 03:53 |
-| 🟡 MATER | $0.000004 | **1.73x** ($+73) | 2.20x | ✅ | pumpswap | 2026-03-20 03:32 |
+| 🟡 MATER | $0.000004 | **1.59x** ($+59) | 2.20x | ✅ | pumpswap | 2026-03-20 03:32 |
 | 🟡 Drip | $0.000004 | **1.07x** ($+7) | 1.08x |  | pumpfun | 2026-03-20 03:22 |
 | 🔴 Eshkol LLM | $0.000005 | **0.57x** ($-43) | 1.38x |  | pumpfun | 2026-03-20 02:23 |
 | 🟡 Dyoji | $0.000003 | **1.19x** ($+19) | 1.67x |  | pumpfun | 2026-03-20 01:52 |

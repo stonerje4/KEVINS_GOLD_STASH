@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 04:19 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 04:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 30 (28 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-15 |
-| 📦 Unrealized | $-98 |
-| 🏦 Total | **$-113** |
+| 📦 Unrealized | $-116 |
+| 🏦 Total | **$-131** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.7x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Floki | $0.000077 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 04:19 |
+| 🔴 Floki | $0.000077 | **0.83x** ($-17) | 1.13x |  | pumpswap | 2026-03-20 04:19 |
 | 🟡 FKH | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:54 |
 | 🟡 Solana | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 PIKAHORSE | $0.000235 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:31 |

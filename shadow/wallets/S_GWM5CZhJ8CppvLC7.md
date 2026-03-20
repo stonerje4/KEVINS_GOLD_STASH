@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 04:19 UTC
+> [View on Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 04:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 77 (76 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+2 |
-| 🏦 Total | **$-75** |
+| 📦 Unrealized | $+14 |
+| 🏦 Total | **$-63** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -85,7 +85,7 @@
 | 🟡 buddy | $0.000320 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-19 23:13 |
 | 🔴 HOSPICE | $0.000025 | **0.95x** ($-5) | 1.15x |  | pumpswap | 2026-03-19 23:12 |
 | 🟡 Hamster  | $0.000218 | **1.03x** ($+3) | 1.22x |  | pumpswap | 2026-03-19 23:05 |
-| 🟡 Island | $0.000036 | **1.03x** ($+3) | 1.14x |  | pumpswap | 2026-03-19 23:02 |
+| 🟡 Island | $0.000036 | **1.15x** ($+15) | 1.16x |  | pumpswap | 2026-03-19 23:02 |
 | 🟡 ケイジ | $0.000088 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-19 23:00 |
 | 🔴 Clude | $0.001529 | **0.94x** ($-6) | 1.02x |  | pumpswap | 2026-03-19 22:57 |
 | 🔴 OXIDE | $0.000037 | **0.78x** ($-22) | 1.16x |  | pumpswap | 2026-03-19 22:54 |

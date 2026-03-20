@@ -1,12 +1,12 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 04:19 UTC
+> [View on Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 04:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (13 open, 2 closed) |
+| Positions | 16 (14 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
 | 📦 Unrealized | $-60 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CL1 | $0.000396 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:22 |
 | 🟡 Solana | $0.000150 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:43 |
 | 🟡 Downald | $0.000590 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:58 |
 | 🔴 67 | $0.001291 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 02:57 |

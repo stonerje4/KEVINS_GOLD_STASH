@@ -1,6 +1,6 @@
 # Wallet: `4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi`
 
-> [View on Solscan](https://solscan.io/account/4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi) | Updated: 2026-03-20 04:19 UTC
+> [View on Solscan](https://solscan.io/account/4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi) | Updated: 2026-03-20 04:24 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-55 |
-| 🏦 Total | **$-55** |
+| 📦 Unrealized | $-54 |
+| 🏦 Total | **$-54** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Retard | $0.000009 | **0.53x** ($-47) | 1.13x |  | pumpfun | 2026-03-20 03:59 |
+| 🔴 Retard | $0.000009 | **0.54x** ($-46) | 1.13x |  | pumpfun | 2026-03-20 03:59 |
 | 🟡 FTR | $0.000014 | **1.08x** ($+8) | 1.08x |  | pumpfun | 2026-03-20 01:09 |
 | 🔴 WRT | $0.000013 | **0.84x** ($-16) | 1.36x |  | pumpswap | 2026-03-20 01:07 |
 

@@ -1,12 +1,12 @@
 # Wallet: `5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii`
 
-> [View on Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 04:19 UTC
+> [View on Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-20 04:24 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (7 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+24 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 tinfoil | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:23 |
 | 🟡 ARIA | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:51 |
 | 🟡 DICKUS | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 Dickus | $0.000056 | **0.93x** ($-7) | 1.09x |  | pumpswap | 2026-03-20 01:25 |
