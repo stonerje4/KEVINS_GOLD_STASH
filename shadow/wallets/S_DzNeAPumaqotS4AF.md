@@ -9,16 +9,16 @@
 | Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-107 |
-| 🏦 Total | **$-107** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-108 |
+| 🏦 Total | **$-108** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GRACE | $0.000007 | **1.04x** ($+4) | 1.31x |  | pumpfun | 2026-03-20 13:53 |
+| 🟡 GRACE | $0.000007 | **1.03x** ($+3) | 1.31x |  | pumpfun | 2026-03-20 13:53 |
 | 🟡 PHM | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 Blou | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:15 |

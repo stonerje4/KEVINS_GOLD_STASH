@@ -9,17 +9,17 @@
 | Positions | 26 (22 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-104 |
-| 📦 Unrealized | $+123 |
-| 🏦 Total | **$+19** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.0x |
+| 📦 Unrealized | $+128 |
+| 🏦 Total | **$+24** |
+| Best ROI | 1.49x |
+| Avg ROI | 0.74x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Legoify | $0.000003 | **0.96x** ($-4) | 1.77x |  | pumpswap | 2026-03-20 13:47 |
-| 🔴 LEGO | $0.000008 | **0.84x** ($-16) | 1.67x |  | pumpfun | 2026-03-20 13:47 |
+| 🔴 LEGO | $0.000008 | **0.88x** ($-12) | 1.67x |  | pumpfun | 2026-03-20 13:47 |
 | 🔴 Coglet | $0.000010 | **0.85x** ($-15) | 1.37x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Foodrot | $0.000123 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |

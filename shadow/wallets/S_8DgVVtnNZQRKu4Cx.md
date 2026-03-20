@@ -1,6 +1,6 @@
-# Wallet: `GxNG3CATNofTPyfrwniZnCY2VsYywDUn3HwxgMap2aZX`
+# Wallet: `8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU`
 
-> [View on Solscan](https://solscan.io/account/GxNG3CATNofTPyfrwniZnCY2VsYywDUn3HwxgMap2aZX) | Updated: 2026-03-20 13:54 UTC
+> [View on Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-20 13:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+1 |
-| 🏦 Total | **$+1** |
+| 📦 Unrealized | $+62 |
+| 🏦 Total | **$+62** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BOXABL | $0.000216 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 05:47 |
-| 🟡 GALI | $0.000154 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 05:45 |
+| 🟡 FeDZ6frq | $0.000034 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 13:54 |
+| 🟢 Chuck | $0.000007 | **2.10x** ($+110) | 2.11x | ✅ | pumpswap | 2026-03-20 13:54 |
 
 ## Closed Positions
 

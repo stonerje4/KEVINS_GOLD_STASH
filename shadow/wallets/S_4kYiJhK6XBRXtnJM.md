@@ -11,15 +11,15 @@
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $+16 |
 | 🏦 Total | **$-45** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.39x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 SQUIDCAT | $0.000004 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:14 |
-| 🟡 Coglet | $0.000008 | **1.14x** ($+14) | 1.85x |  | pumpfun | 2026-03-20 13:09 |
+| 🟡 Coglet | $0.000008 | **1.15x** ($+15) | 1.85x |  | pumpfun | 2026-03-20 13:09 |
 | 🟡 Coglet | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 Coglet | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:37 |
 | 🟡 PHM | $0.000007 | **1.01x** ($+1) | 1.16x |  | pumpfun | 2026-03-20 11:11 |
