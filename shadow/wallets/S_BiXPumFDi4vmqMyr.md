@@ -1,23 +1,24 @@
 # Wallet: `BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny`
 
-> [View on Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 13:49 UTC
+> [View on Solscan](https://solscan.io/account/BiXPumFDi4vmqMyrrwDKd3Bu3AfqCTtmUap25ooMtEny) | Updated: 2026-03-20 13:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (7 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-98 |
-| 🏦 Total | **$-98** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $-100 |
+| 🏦 Total | **$-100** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 GRACE | $0.000007 | **0.98x** ($-2) | 1.24x |  | pumpfun | 2026-03-20 13:53 |
 | 🟡 PHM | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🟡 Blou | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:15 |

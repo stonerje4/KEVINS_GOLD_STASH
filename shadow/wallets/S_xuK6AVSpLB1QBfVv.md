@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 13:49 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 13:54 UTC
 
 ## Summary
 
@@ -11,18 +11,18 @@
 | 💵 Realized | $-17 |
 | 📦 Unrealized | $-319 |
 | 🏦 Total | **$-336** |
-| Best ROI | 0.83x |
-| Avg ROI | 0.83x |
+| Best Trade | 0.8x |
+| Avg Peak | 2.1x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 V8YdLi9g | $0.000003 | **0.80x** ($-20) | 1.07x |  | pumpfun | 2026-03-20 13:47 |
+| 🔴 V8YdLi9g | $0.000003 | **0.79x** ($-21) | 1.07x |  | pumpfun | 2026-03-20 13:47 |
 | 🔴 GROKTIRED | $0.000003 | **0.97x** ($-3) | 1.06x |  | pumpfun | 2026-03-20 13:34 |
 | 🔴 DOJI | $0.000003 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-20 13:32 |
 | 🔴 PIKACHUGS | $0.000003 | **0.90x** ($-10) | 1.07x |  | pumpfun | 2026-03-20 13:28 |
-| 🟡 $1RUN | $0.000003 | **1.07x** ($+7) | 1.10x |  | pumpfun | 2026-03-20 13:22 |
+| 🟡 $1RUN | $0.000003 | **1.08x** ($+8) | 1.10x |  | pumpfun | 2026-03-20 13:22 |
 | 🔴 D23KwwsG | $0.000003 | **0.87x** ($-13) | 1.05x |  | pumpfun | 2026-03-20 13:04 |
 | 🟡 Kuro | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:42 |
 | 🟡 GOONE | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:14 |
