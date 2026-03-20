@@ -1,6 +1,6 @@
-# Wallet: `EBaHgdqGJkhZRydreGaYqeQoEA595tk6UVoE2ACTp597`
+# Wallet: `BXsVtywGLAqhJFwFvbkNPekKBrNxQehtCwWy5Q8tdNJY`
 
-> [View on Solscan](https://solscan.io/account/EBaHgdqGJkhZRydreGaYqeQoEA595tk6UVoE2ACTp597) | Updated: 2026-03-20 14:59 UTC
+> [View on Solscan](https://solscan.io/account/BXsVtywGLAqhJFwFvbkNPekKBrNxQehtCwWy5Q8tdNJY) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
+| 📦 Unrealized | $+625 |
+| 🏦 Total | **$+625** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Rosie | $0.000895 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:53 |
+| 🚀 Chuck | $0.000001 | **29.02x** ($+2,802) | 39.97x | ✅ | pumpswap | 2026-03-20 14:55 |
 
 ## Closed Positions
 

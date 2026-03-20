@@ -1,23 +1,24 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (17 open, 0 closed) |
+| Positions | 18 (18 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-38 |
 | 🏦 Total | **$-38** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Stanley | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:58 |
 | 🟡 Rosei | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
 | 🟡 JEREMY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🟡 Yuki-chan | $0.000003 | **1.33x** ($+33) | 1.63x |  | pumpswap | 2026-03-20 05:23 |

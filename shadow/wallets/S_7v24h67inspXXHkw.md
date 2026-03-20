@@ -1,27 +1,28 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 45 (44 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-64 |
-| 📦 Unrealized | $+10 |
-| 🏦 Total | **$-53** |
-| Best ROI | 0.36x |
-| Avg ROI | 0.36x |
+| Positions | 46 (44 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-164 |
+| 📦 Unrealized | $+14 |
+| 🏦 Total | **$-150** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FUEGO | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:56 |
 | 🟡 NBR | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:54 |
-| 🟡 RIPCN | $0.000003 | **1.04x** ($+4) | 1.04x |  | pumpfun | 2026-03-20 14:46 |
+| 🟡 RIPCN | $0.000003 | **1.06x** ($+6) | 1.09x |  | pumpfun | 2026-03-20 14:46 |
 | 🟡 FTR | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:42 |
-| 🟡 UOR | $0.000005 | **1.03x** ($+3) | 1.03x |  | pumpfun | 2026-03-20 14:34 |
+| 🟡 UOR | $0.000005 | **1.01x** ($+1) | 1.03x |  | pumpfun | 2026-03-20 14:34 |
 | 🔴 HdbDNtPu | $0.000003 | **0.86x** ($-14) | 1.12x |  | pumpfun | 2026-03-20 14:20 |
 | 🟡 OIL#000 | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:17 |
 | 🔴 CWewsqNw | $0.000003 | **0.94x** ($-6) | 1.06x |  | pumpfun | 2026-03-20 14:10 |
@@ -31,7 +32,7 @@
 | 🔴 War | $0.000004 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 13:57 |
 | 🔴 USGR | $0.000003 | **0.97x** ($-3) | 1.17x |  | pumpfun | 2026-03-20 13:56 |
 | 🔴 Gg39pYf9 | $0.000001 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 13:29 |
-| 🟡 MOSHI | $0.000003 | **1.10x** ($+10) | 1.39x |  | pumpfun | 2026-03-20 13:22 |
+| 🟡 MOSHI | $0.000003 | **1.06x** ($+6) | 1.39x |  | pumpfun | 2026-03-20 13:22 |
 | 🟡 $TFROG | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:50 |
 | 🟡 SPR | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |
 | 🟡 CHIBIS | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:38 |
@@ -49,7 +50,6 @@
 | 🔴 NBR | $0.000005 | **0.81x** ($-19) | 1.00x |  | pumpfun | 2026-03-20 05:44 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 BBX | $0.000003 | **1.09x** ($+9) | 1.27x |  | pumpfun | 2026-03-20 04:59 |
-| 🔴 TESLA AI | $0.000000 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 04:55 |
 | 🟡 UGOR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:45 |
 | 🟡 OSP | $0.000003 | **1.06x** ($+6) | 1.30x |  | pumpfun | 2026-03-20 04:26 |
 | 🟡 OSP | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:20 |
@@ -68,6 +68,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 CULTURE | 0.36x | $-64 | stop_loss | 1.44x | pumpfun | 2026-03-20 14:10 → 2026-03-20 14:14 |
+| 🔴 TESLA AI | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpfun | 2026-03-20 04:55 → 2026-03-20 14:58 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

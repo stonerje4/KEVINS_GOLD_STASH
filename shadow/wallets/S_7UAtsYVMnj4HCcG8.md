@@ -1,6 +1,6 @@
 # Wallet: `7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4`
 
-> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/7UAtsYVMnj4HCcG8v5QzQ31kCnjXfhc17Sp6MbYyz5c4) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
@@ -11,8 +11,8 @@
 | 💵 Realized | $-599 |
 | 📦 Unrealized | $+32 |
 | 🏦 Total | **$-567** |
-| Best ROI | 0.01x |
-| Avg ROI | 0.00x |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
@@ -21,7 +21,7 @@
 | 🔴 Franklin | $0.000111 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:51 |
 | 🟡 BFS | $0.000406 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:49 |
 | 🟡 SFM | $0.000003 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 14:48 |
-| 🔴 SNP500 | $0.000105 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
+| 🔴 SNP500 | $0.000105 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
 | 🟡 LOCK | $0.094967 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 14:28 |
 | 🟡 ALIENBABY | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 13:44 |
 | 🟡 THOT | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:41 |

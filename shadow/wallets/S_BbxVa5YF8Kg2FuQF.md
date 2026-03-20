@@ -1,24 +1,23 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [View on Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (13 open, 6 closed) |
-| W/L | 2/4 (33%) |
-| 💵 Realized | $+128 |
-| 📦 Unrealized | $+231 |
-| 🏦 Total | **$+359** |
-| Best ROI | 2.95x |
-| Avg ROI | 1.21x |
+| Positions | 19 (12 open, 7 closed) |
+| W/L | 2/5 (29%) |
+| 💵 Realized | $+68 |
+| 📦 Unrealized | $+237 |
+| 🏦 Total | **$+304** |
+| Best Trade | 2.9x |
+| Avg Peak | 2.6x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TEAROOM | $0.000015 | **0.94x** ($-6) | 1.54x |  | pumpfun | 2026-03-20 14:53 |
 | 🟡 JUMP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:37 |
 | 🟢 Patience | $0.000017 | **2.11x** ($+111) | 2.11x | ✅ | pumpfun | 2026-03-20 03:14 |
 | 🔴 SMCI | $0.000004 | **0.69x** ($-31) | 1.00x |  | pumpfun | 2026-03-20 02:49 |
@@ -36,6 +35,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 TEAROOM | 0.39x | $-61 | stop_loss | 1.56x | pumpfun | 2026-03-20 14:53 → 2026-03-20 14:58 |
 | 🟢 GPD | 2.94x | $+194 | trailing_stop_6x | 6.48x | pumpswap | 2026-03-20 00:20 → 2026-03-20 01:27 |
 | 🔴 GPD | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 00:19 → 2026-03-20 00:20 |
 | 🔴 Doolysaurus | 0.40x | $-60 | stop_loss | 1.55x | pumpfun | 2026-03-19 23:40 → 2026-03-20 01:24 |

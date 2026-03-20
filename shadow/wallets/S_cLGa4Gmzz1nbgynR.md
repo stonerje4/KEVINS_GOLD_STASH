@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
@@ -9,24 +9,24 @@
 | Positions | 160 (154 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-278 |
-| 📦 Unrealized | $+317 |
-| 🏦 Total | **$+39** |
-| Best ROI | 1.48x |
-| Avg ROI | 0.54x |
+| 📦 Unrealized | $+305 |
+| 🏦 Total | **$+27** |
+| Best Trade | 1.5x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GANBARE | $0.000078 | **1.20x** ($+20) | 1.25x |  | pumpswap | 2026-03-20 14:50 |
-| 🟡 boob | $0.002304 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 14:50 |
+| 🟡 GANBARE | $0.000078 | **1.16x** ($+16) | 1.25x |  | pumpswap | 2026-03-20 14:50 |
+| 🟡 boob | $0.002304 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 14:50 |
 | 🟡 BOE | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:46 |
 | 🟡 PAD | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 LAYOFF | $0.000189 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:35 |
 | 🟡 Rosei | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🟡 Strawberita | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:33 |
 | 🟡 foid | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
-| 🟡 RETARDINU | $0.000105 | **1.02x** ($+2) | 1.11x |  | pumpswap | 2026-03-20 14:22 |
+| 🔴 RETARDINU | $0.000105 | **0.92x** ($-8) | 1.11x |  | pumpswap | 2026-03-20 14:22 |
 | 🟡 比比拉布 | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:21 |
 | 🟡 plumber | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |
 | 🟡 forg | $0.000090 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:04 |

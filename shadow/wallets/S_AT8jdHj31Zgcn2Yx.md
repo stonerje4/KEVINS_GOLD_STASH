@@ -1,27 +1,28 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 150 (119 open, 31 closed) |
+| Positions | 151 (120 open, 31 closed) |
 | W/L | 3/28 (10%) |
 | 💵 Realized | $+1,942 |
-| 📦 Unrealized | $+57 |
-| 🏦 Total | **$+1,999** |
-| Best ROI | 24.90x |
-| Avg ROI | 1.63x |
+| 📦 Unrealized | $+59 |
+| 🏦 Total | **$+2,001** |
+| Best Trade | 24.9x |
+| Avg Peak | 4.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GANBARE | $0.000076 | **1.23x** ($+23) | 1.29x |  | pumpswap | 2026-03-20 14:50 |
+| 🟡 CHIBICC | $0.000077 | **1.14x** ($+14) | 1.29x |  | pumpswap | 2026-03-20 14:55 |
+| 🟡 GANBARE | $0.000076 | **1.20x** ($+20) | 1.29x |  | pumpswap | 2026-03-20 14:50 |
 | 🟡 TPH | $0.000179 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 14:42 |
 | 🟡 Doom | $0.000063 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:31 |
-| 🔴 RETARDINU | $0.000115 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-20 14:25 |
+| 🔴 RETARDINU | $0.000115 | **0.84x** ($-16) | 1.01x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Chuck | $0.000189 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 MERLIN | $0.000160 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:14 |
 | 🟡 Chuck | $0.000103 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:54 |

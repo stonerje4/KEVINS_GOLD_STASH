@@ -1,27 +1,29 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 272 (268 open, 4 closed) |
+| Positions | 274 (270 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+17 |
-| 📦 Unrealized | $+16 |
-| 🏦 Total | **$+33** |
-| Best ROI | 2.99x |
-| Avg ROI | 1.04x |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$+32** |
+| Best Trade | 3.0x |
+| Avg Peak | 3.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Speak | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
+| 🟡 GameTheory | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Sheep | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
-| 🔴 boob | $0.002563 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 14:50 |
-| 🟡 GANBARE | $0.000088 | **1.06x** ($+6) | 1.12x |  | pumpswap | 2026-03-20 14:50 |
-| 🔴 Ava | $0.000010 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 14:48 |
+| 🔴 boob | $0.002563 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 14:50 |
+| 🟡 GANBARE | $0.000088 | **1.03x** ($+3) | 1.12x |  | pumpswap | 2026-03-20 14:50 |
+| 🔴 Ava | $0.000010 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 14:48 |
 | 🟡 LIZARD | $0.000076 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:47 |
 | 🟡 BOE | $0.000143 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:46 |
 | 🟡 Strawberita | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:45 |
@@ -33,7 +35,7 @@
 | 🟡 foid | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Socrates | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Pixel | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
-| 🔴 Higuruma | $0.000016 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
+| 🔴 Higuruma | $0.000016 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 SOLINU | $0.000224 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Doom | $0.000066 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 MICRO | $0.000074 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
@@ -53,7 +55,7 @@
 | 🟡 LAYOFF | $0.000243 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:13 |
 | 🟡 HORMUZ | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:12 |
 | 🔴 shitcoin | $0.000352 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 13:09 |
-| 🔴 Goyim | $0.000623 | **0.91x** ($-9) | 1.06x |  | pumpswap | 2026-03-20 13:08 |
+| 🔴 Goyim | $0.000623 | **0.90x** ($-10) | 1.06x |  | pumpswap | 2026-03-20 13:08 |
 | 🟡 LIBERTY | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 e/alt | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 fine999.9 | $0.002209 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:57 |

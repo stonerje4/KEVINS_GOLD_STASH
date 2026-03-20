@@ -1,23 +1,24 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 30 (29 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-86 |
+| Positions | 31 (29 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-186 |
 | 📦 Unrealized | $+328 |
-| 🏦 Total | **$+242** |
-| Best ROI | 0.14x |
-| Avg ROI | 0.14x |
+| 🏦 Total | **$+142** |
+| Best Trade | 0.1x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NBR | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🟡 A6eNhaYz | $0.000003 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 14:11 |
 | 🔴 WAR | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 14:08 |
 | 🟡 HUGH | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:06 |
@@ -46,13 +47,13 @@
 | 🟡 Downald | $0.000003 | **1.04x** ($+4) | 1.05x |  | pumpfun | 2026-03-19 23:19 |
 | 🟡 FTR | $0.000006 | **1.47x** ($+47) | 1.47x |  | pumpfun | 2026-03-19 22:52 |
 | 🟡 wojack | $0.000003 | **1.47x** ($+47) | 1.47x |  | pumpfun | 2026-03-19 22:52 |
-| 🟡 ANzF15dx | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-19 22:42 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 ULM | 0.14x | $-86 | stop_loss | 1.00x | pumpfun | 2026-03-20 01:31 → 2026-03-20 01:56 |
+| 🔴 ANzF15dx | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpfun | 2026-03-19 22:42 → 2026-03-20 14:58 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

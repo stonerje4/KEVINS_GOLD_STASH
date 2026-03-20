@@ -1,29 +1,29 @@
 # Wallet: `2RxrBZPJePYpCffmPF6gx3BodUUiZ4p6PM6XMiKrKTpw`
 
-> [View on Solscan](https://solscan.io/account/2RxrBZPJePYpCffmPF6gx3BodUUiZ4p6PM6XMiKrKTpw) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/2RxrBZPJePYpCffmPF6gx3BodUUiZ4p6PM6XMiKrKTpw) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
+| Positions | 1 (0 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-100 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$+0** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 🏦 Total | **$-100** |
+| Best Trade | 0.0x |
+| Avg Peak | 1.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OXIDE | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:56 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 OXIDE | 0.00x | $-100 | phantom_bad_entry_price | 1.00x | pumpswap | 2026-03-20 04:56 → 2026-03-20 14:58 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

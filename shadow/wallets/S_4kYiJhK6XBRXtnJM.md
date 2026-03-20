@@ -1,6 +1,6 @@
 # Wallet: `4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF`
 
-> [View on Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 14:54 UTC
+> [View on Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 14:59 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+67 |
-| 🏦 Total | **$-54** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| 📦 Unrealized | $+63 |
+| 🏦 Total | **$-59** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Norriscoin | $0.000003 | **2.79x** ($+179) | 3.19x | ✅ | pumpfun | 2026-03-20 14:33 |
+| 🟢 Norriscoin | $0.000003 | **2.66x** ($+166) | 3.19x | ✅ | pumpfun | 2026-03-20 14:33 |
 | 🔴 PHM | $0.000003 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 13:56 |
 | 🟡 SQUIDCAT | $0.000004 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 13:14 |
 | 🟡 Coglet | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
