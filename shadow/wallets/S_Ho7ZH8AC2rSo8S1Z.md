@@ -1,18 +1,18 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (10 open, 7 closed) |
-| W/L | 1/6 (14%) |
-| 💵 Realized | $+135 |
+| Positions | 16 (10 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $+226 |
 | 📦 Unrealized | $-109 |
-| 🏦 Total | **$+26** |
+| 🏦 Total | **$+117** |
 | Best ROI | 5.85x |
-| Avg ROI | 1.19x |
+| Avg ROI | 1.38x |
 
 ## Open Positions
 
@@ -35,7 +35,6 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Monitoring | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 18:05 → 2026-03-20 18:05 |
 | 🔴 Maxxington | 0.39x | $-61 | stop_loss | 1.27x | pumpfun | 2026-03-20 18:02 → 2026-03-20 18:06 |
-| 🔴 WIF | 0.09x | $-91 | stop_loss | 1.00x | cpmm | 2026-03-20 17:55 → 2026-03-20 17:55 |
 | 🔴 Norris | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:10 → 2026-03-20 16:21 |
 | 🟢 Doolysaurus | 5.85x | $+485 | trailing_stop_11x | 10.95x | pumpfun | 2026-03-20 11:00 → 2026-03-20 18:54 |
 | 🟡 CHIBI | 0.85x | $-15 | trailing_stop_2x | 2.03x | pumpfun | 2026-03-20 09:42 → 2026-03-20 10:26 |

@@ -1,6 +1,6 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (10 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-358 |
-| 📦 Unrealized | $-127 |
-| 🏦 Total | **$-485** |
+| 📦 Unrealized | $-129 |
+| 🏦 Total | **$-487** |
 | Best ROI | 1.30x |
 | Avg ROI | 0.49x |
 
@@ -21,7 +21,7 @@
 | 🟡 Handprint | $0.000008 | **1.02x** ($+2) | 1.58x |  | pumpswap | 2026-03-20 13:29 |
 | 🔴 foid | $0.000027 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 13:25 |
 | 🟡 Autobots | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
-| 🔴 Samba | $0.000012 | **0.70x** ($-30) | 1.03x |  | pumpswap | 2026-03-20 12:17 |
+| 🔴 Samba | $0.000012 | **0.68x** ($-32) | 1.03x |  | pumpswap | 2026-03-20 12:17 |
 | 🟡 9suFTixZ | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:07 |
 | 🟡 genocide | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 5eU5zLhc | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:35 |

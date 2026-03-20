@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 36 (35 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+32 |
-| 📦 Unrealized | $-52 |
-| 🏦 Total | **$-20** |
+| 📦 Unrealized | $-54 |
+| 🏦 Total | **$-22** |
 | Best ROI | 1.32x |
 | Avg ROI | 1.32x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 clod | $0.000016 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 19:17 |
+| 🟡 clod | $0.000016 | **1.01x** ($+1) | 1.03x |  | pumpswap | 2026-03-20 19:17 |
 | 🟡 SNIFFER | $0.000031 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 19:00 |
 | 🔴 Chud | $0.000030 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 honkermog | $0.000032 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
@@ -48,7 +48,7 @@
 | 🟢 Alien | $0.000014 | **2.56x** ($+156) | 2.92x | ✅ | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000024 | **1.29x** ($+29) | 1.30x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Monke | $0.000013 | **0.63x** ($-37) | 1.02x |  | pumpswap | 2026-03-19 23:30 |
-| 🔴 HOSPICE | $0.000025 | **0.43x** ($-57) | 1.15x |  | pumpswap | 2026-03-19 23:12 |
+| 🔴 HOSPICE | $0.000025 | **0.44x** ($-56) | 1.15x |  | pumpswap | 2026-03-19 23:12 |
 | 🔴 Island | $0.000036 | **0.76x** ($-24) | 1.29x |  | pumpswap | 2026-03-19 23:02 |
 | 🔴 OXIDE | $0.000037 | **0.78x** ($-22) | 1.16x |  | pumpswap | 2026-03-19 22:54 |
 | 🔴 5 | $0.000011 | **0.85x** ($-15) | 1.08x |  | pumpswap | 2026-03-19 22:47 |

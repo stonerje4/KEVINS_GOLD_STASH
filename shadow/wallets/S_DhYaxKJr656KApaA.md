@@ -1,18 +1,18 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (4 open, 4 closed) |
-| W/L | 1/3 (25%) |
-| 💵 Realized | $+508 |
+| Positions | 7 (4 open, 3 closed) |
+| W/L | 1/2 (33%) |
+| 💵 Realized | $+596 |
 | 📦 Unrealized | $+76 |
-| 🏦 Total | **$+584** |
+| 🏦 Total | **$+672** |
 | Best ROI | 8.43x |
-| Avg ROI | 2.27x |
+| Avg ROI | 2.99x |
 
 ## Open Positions
 
@@ -27,7 +27,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 BURRITO | 0.12x | $-88 | stop_loss | 1.00x | cpmm | 2026-03-20 18:23 → 2026-03-20 18:23 |
 | 🟢 Chuck | 8.43x | $+743 | trailing_stop_31x | 31.39x | pumpfun | 2026-03-20 14:16 → 2026-03-20 18:53 |
 | 🔴 RIPCHUCK | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 14:02 → 2026-03-20 15:48 |
 | 🔴 CHUCK | 0.14x | $-86 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:55 → 2026-03-20 17:42 |

@@ -1,24 +1,23 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (10 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-160 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$-133** |
+| Positions | 9 (8 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
+| 📦 Unrealized | $+7 |
+| 🏦 Total | **$-54** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.20x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Bonkyo | $0.000021 | **1.01x** ($+1) | 1.01x |  | cpmm | 2026-03-20 09:00 |
 | 🟡 pepeto | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Grokipedia | $0.000016 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-20 04:09 |
 | 🔴 FIREBALL | $0.000018 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 04:01 |
@@ -26,14 +25,12 @@
 | 🔴 nl | $0.000015 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:17 |
 | 🔴 WBE | $0.000009 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
 | 🔴 BBBY | $0.000005 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 01:39 |
-| 🟡 Chibi | $0.000006 | **1.20x** ($+20) | 1.36x |  | cpmm | 2026-03-20 00:50 |
 | 🟡 FKH | $0.000015 | **1.24x** ($+24) | 2.09x | ✅ | pumpswap | 2026-03-19 22:56 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 BBBY | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 03:36 → 2026-03-20 04:03 |
 | 🔴 Gizmo | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 02:19 → 2026-03-20 06:39 |
 
 ---

@@ -1,16 +1,16 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (13 open, 4 closed) |
+| Positions | 16 (12 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-247 |
-| 📦 Unrealized | $+165 |
-| 🏦 Total | **$-82** |
+| 📦 Unrealized | $+48 |
+| 🏦 Total | **$-199** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.38x |
 
@@ -20,7 +20,6 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 e-CNY | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🟡 Luxury | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
-| 🟢 methane | $0.000015 | **4.46x** ($+346) | 6.81x | ✅ | cpmm | 2026-03-20 13:16 |
 | 🟡 DRONE | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:31 |
 | 🟡 $PEPETO | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
 | 🟢 NBR | $0.000022 | **2.08x** ($+108) | 2.15x | ✅ | pumpswap | 2026-03-20 11:11 |

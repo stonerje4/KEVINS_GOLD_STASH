@@ -1,18 +1,18 @@
 # Wallet: `997XTADKLUJ6tYAh5QoKEw22r8CdNe1R23jdjMnccHKv`
 
-> [GMGN](https://gmgn.ai/sol/address/997XTADKLUJ6tYAh5QoKEw22r8CdNe1R23jdjMnccHKv) | [Solscan](https://solscan.io/account/997XTADKLUJ6tYAh5QoKEw22r8CdNe1R23jdjMnccHKv) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/997XTADKLUJ6tYAh5QoKEw22r8CdNe1R23jdjMnccHKv) | [Solscan](https://solscan.io/account/997XTADKLUJ6tYAh5QoKEw22r8CdNe1R23jdjMnccHKv) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (1 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-161 |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-61 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-161** |
+| 🏦 Total | **$-61** |
 | Best ROI | 0.39x |
-| Avg ROI | 0.20x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
@@ -24,7 +24,6 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 GJ | 0.00x | $-100 | stop_loss | 1.00x | cpmm | 2026-03-20 19:14 → 2026-03-20 19:14 |
 | 🔴 Labubu | 0.39x | $-61 | stop_loss | 1.12x | pumpfun | 2026-03-20 13:35 → 2026-03-20 13:36 |
 
 ---

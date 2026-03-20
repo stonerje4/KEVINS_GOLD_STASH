@@ -1,6 +1,6 @@
 # Wallet: `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt`
 
-> [GMGN](https://gmgn.ai/sol/address/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | [Solscan](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | [Solscan](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 CHANNELS | $0.000021 | **0.98x** ($-2) | 1.24x |  | pumpfun | 2026-03-20 02:18 |
-| 🔴 IMAGINE | $0.000030 | **0.69x** ($-31) | 1.24x |  | pumpfun | 2026-03-20 02:07 |
+| 🔴 IMAGINE | $0.000030 | **0.70x** ($-30) | 1.24x |  | pumpfun | 2026-03-20 02:07 |
 
 ## Closed Positions
 

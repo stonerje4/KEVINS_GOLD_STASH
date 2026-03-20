@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 75 (74 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+50 |
-| 🏦 Total | **$-10** |
+| 📦 Unrealized | $+46 |
+| 🏦 Total | **$-14** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 clod | $0.000015 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-20 19:17 |
+| 🟡 clod | $0.000015 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-20 19:17 |
 | 🟡 UGOR | $0.000018 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 19:17 |
 | 🟡 WhiteBoy  | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:58 |
 | 🟡 GOYBEAM | $0.000008 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 18:57 |
-| 🔴 WID | $0.000021 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 18:49 |
+| 🔴 WID | $0.000021 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 18:49 |
 | 🔴 FSC | $0.000023 | **0.94x** ($-6) | 1.05x |  | pumpswap | 2026-03-20 17:48 |
 | 🔴 哈基米 | $0.000007 | **0.98x** ($-2) | 1.08x |  | pumpswap | 2026-03-20 17:44 |
 | 🔴 imagineslop | $0.000005 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-20 17:43 |
@@ -77,7 +77,7 @@
 | 🔴 Skull | $0.000008 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 $GROWN  | $0.000039 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 01:42 |
 | 🟡 FAFO | $0.000017 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 01:42 |
-| 🔴 Ouroboros | $0.000033 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 01:31 |
+| 🔴 Ouroboros | $0.000033 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 01:31 |
 | 🟡 SaudiAramc | $0.000030 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 01:30 |
 | 🔴 n0rth4evr | $0.000035 | **0.83x** ($-17) | 1.03x |  | pumpswap | 2026-03-20 01:08 |
 | 🟡 KENJI | $0.000029 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 00:50 |

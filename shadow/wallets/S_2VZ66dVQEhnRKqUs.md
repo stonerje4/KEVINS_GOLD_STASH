@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (13 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $+202 |
-| 🏦 Total | **$+62** |
+| 📦 Unrealized | $+200 |
+| 🏦 Total | **$+60** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.54x |
 
@@ -23,7 +23,7 @@
 | 🟡 OIIA | $0.000021 | **1.51x** ($+51) | 1.51x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |
 | 🚀 SMCI | $0.000005 | **7.13x** ($+613) | 7.13x | ✅ | pumpfun | 2026-03-20 08:50 |
-| 🔴 WID | $0.000026 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 03:36 |
+| 🔴 WID | $0.000026 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 03:36 |
 | 🟡 Sentinel | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:13 |
 | 🔴 UBT | $0.000007 | **0.94x** ($-6) | 1.01x |  | pumpswap | 2026-03-20 01:32 |
 | 🔴 DECEL | $0.000015 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:06 |

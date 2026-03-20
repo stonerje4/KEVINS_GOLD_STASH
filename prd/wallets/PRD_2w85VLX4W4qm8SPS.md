@@ -1,17 +1,17 @@
 # PRD Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
 
-> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-20 19:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-20 19:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Trades | 7 (3 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | -0.2847 SOL ($-25.22) |
-| ⛽ Gas | 0.0163 SOL |
-| 📦 Unrealized | -0.1203 SOL |
-| 🏦 Net | **-0.4050 SOL** ($-35.87) |
+| Trades | 7 (2 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | -0.3467 SOL ($-30.71) |
+| ⛽ Gas | 0.0219 SOL |
+| 📦 Unrealized | -0.0572 SOL |
+| 🏦 Net | **-0.4038 SOL** ($-35.77) |
 
 ## Positions
 
@@ -21,8 +21,8 @@
 | 🔴 Kin-Kun | open | 0.11 | 0.65x | 1.00x | -0.0433 | — |
 | 🔴 CHUCK | closed | 0.11 | 0.40x | 1.13x | -0.0713 | stop_loss |
 | 🔴 NOR | closed | 0.11 | 0.39x | 1.03x | -0.0748 | stop_loss |
-| 🔴 CHUCK | closed | 0.11 | 0.72x | 2.82x | -0.0784 | runner_trailing_stop |
-| 🔴 awkward | open | 0.11 | 0.47x | 1.29x | -0.0632 | — |
+| 🔴 CHUCK | closed | 0.11 | 0.72x | 2.82x | -0.0209 | runner_trailing_stop |
+| 🔴 awkward | closed | 0.11 | 0.39x | 1.29x | -0.1195 | stop_loss |
 | 🔴 FOID | closed | 0.11 | 3.09x | 3.09x | -0.0601 | ghost_close_tp_3x_trim |
 
 ---
