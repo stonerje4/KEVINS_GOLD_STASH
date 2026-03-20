@@ -1,16 +1,16 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 08:46 UTC
+> [View on Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (12 open, 0 closed) |
+| Positions | 13 (13 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+44 |
-| 🏦 Total | **$+44** |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$+38** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 SOM | $0.000014 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 08:47 |
 | 🟡 Ride | $0.000019 | **1.01x** ($+1) | 1.13x |  | pumpswap | 2026-03-20 07:26 |
 | 🔴 AIKO | $0.000010 | **0.91x** ($-9) | 1.08x |  | pumpswap | 2026-03-20 03:21 |
 | 🟡 PERCOLATOR | $0.000065 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 02:43 |

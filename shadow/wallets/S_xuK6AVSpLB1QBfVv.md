@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 08:46 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 55 (54 open, 1 closed) |
+| Positions | 56 (55 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-17 |
-| 📦 Unrealized | $-102 |
-| 🏦 Total | **$-119** |
+| 📦 Unrealized | $-112 |
+| 🏦 Total | **$-129** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.1x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Wolverine | $0.000003 | **0.90x** ($-10) | 1.13x |  | pumpfun | 2026-03-20 08:23 |
-| 🟡 Chibililon | $0.000003 | **1.20x** ($+20) | 1.68x |  | pumpfun | 2026-03-20 08:19 |
+| 🟡 ChibiJak | $0.000003 | **1.12x** ($+12) | 1.23x |  | pumpfun | 2026-03-20 08:46 |
+| 🔴 Wolverine | $0.000003 | **0.89x** ($-11) | 1.13x |  | pumpfun | 2026-03-20 08:23 |
+| 🔴 Chibililon | $0.000003 | **0.99x** ($-1) | 1.68x |  | pumpfun | 2026-03-20 08:19 |
 | 🔴 Rocky | $0.000003 | **0.87x** ($-13) | 1.12x |  | pumpfun | 2026-03-20 08:08 |
 | 🔴 $Chibi | $0.000003 | **0.93x** ($-7) | 1.29x |  | pumpfun | 2026-03-20 07:55 |
 | 🔴 engine | $0.000003 | **0.90x** ($-10) | 1.48x |  | pumpfun | 2026-03-20 07:48 |
@@ -38,7 +39,7 @@
 | 🔴 ZeroG | $0.000003 | **0.88x** ($-12) | 1.05x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 TRUTH | $0.000003 | **0.91x** ($-9) | 1.23x |  | pumpfun | 2026-03-20 05:58 |
 | 🔴 HUGH | $0.000003 | **0.86x** ($-14) | 1.08x |  | pumpfun | 2026-03-20 04:24 |
-| 🔴 EftNvqrA | $0.000003 | **0.81x** ($-19) | 1.19x |  | pumpfun | 2026-03-20 04:05 |
+| 🔴 EftNvqrA | $0.000003 | **0.80x** ($-20) | 1.19x |  | pumpfun | 2026-03-20 04:05 |
 | 🟡 Yuki-chan | $0.000003 | **1.08x** ($+8) | 1.26x |  | pumpfun | 2026-03-20 04:00 |
 | 🔴 NoScam | $0.000003 | **0.81x** ($-19) | 1.17x |  | pumpfun | 2026-03-20 03:51 |
 | 🔴 Income | $0.000003 | **0.82x** ($-18) | 1.20x |  | pumpfun | 2026-03-20 03:29 |

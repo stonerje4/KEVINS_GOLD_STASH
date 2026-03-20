@@ -1,6 +1,6 @@
-# Wallet: `9vXjRRVfmw3cHJFrxirog5oEZrMg7CChs4Hst668wCUM`
+# Wallet: `MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM`
 
-> [View on Solscan](https://solscan.io/account/9vXjRRVfmw3cHJFrxirog5oEZrMg7CChs4Hst668wCUM) | Updated: 2026-03-20 08:51 UTC
+> [View on Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 cigarette | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
+| 🟡 Beach | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:49 |
 
 ## Closed Positions
 

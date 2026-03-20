@@ -1,6 +1,6 @@
-# Wallet: `2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT`
+# Wallet: `3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf`
 
-> [View on Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-20 08:51 UTC
+> [View on Solscan](https://solscan.io/account/3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Nigel | $0.000323 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:35 |
-| 🟡 PIXELS | $0.000267 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:09 |
-| 🟡 Goose | $0.000032 | **1.05x** ($+5) | 1.22x |  | pumpswap | 2026-03-20 01:56 |
-| 🔴 PIKE | $0.000039 | **0.95x** ($-5) | 1.10x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 dog#001 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:49 |
+| 🟡 Gany | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:49 |
+| 🟡 TRUST | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:49 |
+| 🟡 pippin | $0.081709 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:47 |
 
 ## Closed Positions
 

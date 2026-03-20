@@ -1,6 +1,6 @@
 # Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
 
-> [View on Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-20 08:46 UTC
+> [View on Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (16 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+67 |
-| 🏦 Total | **$+67** |
+| 📦 Unrealized | $+65 |
+| 🏦 Total | **$+65** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -31,7 +31,7 @@
 | 🟡 MSBT | $0.000003 | **1.79x** ($+79) | 1.92x |  | pumpfun | 2026-03-20 04:24 |
 | 🟡 ROS | $0.000004 | **1.44x** ($+44) | 1.69x |  | pumpfun | 2026-03-20 04:20 |
 | 🔴 USAOIL | $0.000005 | **0.54x** ($-46) | 1.13x |  | pumpfun | 2026-03-20 04:01 |
-| 🟡 OSP | $0.000003 | **1.05x** ($+5) | 1.18x |  | pumpfun | 2026-03-20 03:45 |
+| 🟡 OSP | $0.000003 | **1.04x** ($+4) | 1.18x |  | pumpfun | 2026-03-20 03:45 |
 | 🔴 USOS | $0.000003 | **0.87x** ($-13) | 1.02x |  | pumpfun | 2026-03-20 03:35 |
 | 🟡 WRT | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:13 |
 

@@ -1,30 +1,30 @@
 # Wallet: `DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX`
 
-> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 08:46 UTC
+> [View on Solscan](https://solscan.io/account/DRJPceLCjNDiDtJoDJCQtH2P8UUNit5kndRiCwMjxFDX) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (2 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-312 |
-| 📦 Unrealized | $+119 |
-| 🏦 Total | **$-193** |
-| Best Trade | 0.3x |
-| Avg Peak | 1.1x |
+| Positions | 6 (1 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-373 |
+| 📦 Unrealized | $+87 |
+| 🏦 Total | **$-285** |
+| Best Trade | 0.4x |
+| Avg Peak | 1.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBIGUY | $0.000048 | **1.31x** ($+31) | 1.38x |  | pumpswap | 2026-03-20 08:34 |
 | 🟢 TRUMPI | $0.000011 | **3.19x** ($+219) | 3.19x | ✅ | pumpfun | 2026-03-20 06:29 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 CHIBIGUY | 0.39x | $-61 | stop_loss | 1.38x | pumpswap | 2026-03-20 08:34 → 2026-03-20 08:48 |
 | 🔴 Psyfruit | 0.28x | $-72 | stop_loss | 1.18x | pumpfun | 2026-03-20 06:53 → 2026-03-20 06:53 |
 | 🔴 SHIBI | 0.17x | $-83 | stop_loss | 1.16x | pumpfun | 2026-03-20 06:20 → 2026-03-20 06:22 |
 | 🔴 FruitAura | 0.18x | $-82 | stop_loss | 1.07x | pumpfun | 2026-03-20 06:04 → 2026-03-20 06:05 |

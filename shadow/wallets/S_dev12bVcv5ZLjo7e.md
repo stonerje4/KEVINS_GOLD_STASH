@@ -1,16 +1,16 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 08:46 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 72 (70 open, 2 closed) |
+| Positions | 73 (71 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $-51 |
-| 🏦 Total | **$-21** |
+| 📦 Unrealized | $-27 |
+| 🏦 Total | **$+3** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.1x |
 
@@ -18,15 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 COLONEL | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:50 |
 | 🟡 GAS | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:46 |
 | 🔴 Chibi | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 08:39 |
-| 🔴 ChibiJak | $0.000003 | **0.95x** ($-5) | 1.15x |  | pumpfun | 2026-03-20 08:38 |
+| 🟡 ChibiJak | $0.000003 | **1.15x** ($+15) | 1.27x |  | pumpfun | 2026-03-20 08:38 |
 | 🔴 WFD | $0.000003 | **0.92x** ($-8) | 1.07x |  | pumpfun | 2026-03-20 08:33 |
 | 🔴 OSUUSHI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 08:16 |
 | 🔴 UOR | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 08:05 |
 | 🟡 BBX | $0.000003 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 08:04 |
 | 🔴 $Chibi | $0.000003 | **0.88x** ($-12) | 1.21x |  | pumpfun | 2026-03-20 07:55 |
-| 🔴 COLONEL | $0.000005 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 07:37 |
+| 🔴 COLONEL | $0.000005 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 07:37 |
 | 🟡 CHIBLON | $0.000003 | **1.28x** ($+28) | 1.94x |  | pumpfun | 2026-03-20 07:32 |
 | 🔴 CHIBIFY | $0.000003 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 07:20 |
 | 🟡 GLQbYphM | $0.000003 | **1.03x** ($+3) | 1.24x |  | pumpfun | 2026-03-20 07:17 |

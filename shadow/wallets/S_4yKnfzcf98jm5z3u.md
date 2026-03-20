@@ -1,6 +1,6 @@
 # Wallet: `4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH`
 
-> [View on Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 08:46 UTC
+> [View on Solscan](https://solscan.io/account/4yKnfzcf98jm5z3uHvBXjLa9vFB713jWfnWDcpWZCqpH) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $+62 |
-| 🏦 Total | **$+2** |
+| 📦 Unrealized | $+83 |
+| 🏦 Total | **$+23** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Zhdun | $0.000003 | **3.39x** ($+239) | 3.62x | ✅ | pumpfun | 2026-03-20 08:04 |
+| 🟢 Zhdun | $0.000003 | **3.92x** ($+292) | 4.32x | ✅ | pumpfun | 2026-03-20 08:04 |
 | 🔴 ACT C | $0.000005 | **0.66x** ($-34) | 1.34x |  | pumpfun | 2026-03-20 07:55 |
 
 ## Closed Positions

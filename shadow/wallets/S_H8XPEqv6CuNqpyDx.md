@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 08:46 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 65 (44 open, 21 closed) |
 | W/L | 2/19 (10%) |
 | 💵 Realized | $-832 |
-| 📦 Unrealized | $-903 |
-| 🏦 Total | **$-1,734** |
+| 📦 Unrealized | $-905 |
+| 🏦 Total | **$-1,737** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ME | $0.000016 | **1.32x** ($+32) | 1.38x |  | pumpfun | 2026-03-20 08:45 |
+| 🟡 ME | $0.000016 | **1.17x** ($+17) | 1.38x |  | pumpfun | 2026-03-20 08:45 |
 | 🔴 Chibi | $0.000005 | **0.54x** ($-46) | 1.18x |  | pumpfun | 2026-03-20 08:44 |
-| 🔴 OM | $0.000012 | **1.00x** ($-0) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
+| 🟡 OM | $0.000012 | **1.12x** ($+12) | 1.90x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000005 | **0.46x** ($-54) | 1.69x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.51x** ($-49) | 1.08x |  | pumpfun | 2026-03-20 08:10 |
 | 🔴 BGEYapkY | $0.000005 | **0.53x** ($-47) | 1.27x |  | pumpfun | 2026-03-20 07:41 |

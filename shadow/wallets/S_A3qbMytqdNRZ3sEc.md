@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 08:46 UTC
+> [View on Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 46 (41 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
-| 📦 Unrealized | $-127 |
-| 🏦 Total | **$-325** |
+| 📦 Unrealized | $-135 |
+| 🏦 Total | **$-333** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.8x |
 
@@ -19,13 +19,13 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 驚き | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:44 |
-| 🟡 Antigravity | $0.000008 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
+| 🔴 Antigravity | $0.000008 | **0.93x** ($-7) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 CHIBI | $0.001779 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 OLAF | $0.000134 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 IMAGINE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
 | 🟡 Optimistic | $0.000500 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:24 |
 | 🟡 Futa-kun | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
-| 🔴 DOMES | $0.000004 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
+| 🔴 DOMES | $0.000004 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 06:28 |
 | 🟡 IMAGINE | $0.000115 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:17 |
 | 🟡 OIIA | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟡 Pete | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |

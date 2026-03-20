@@ -1,6 +1,6 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 08:46 UTC
+> [View on Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-20 08:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (14 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+67 |
-| 🏦 Total | **$-10** |
+| 📦 Unrealized | $+62 |
+| 🏦 Total | **$-15** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -23,15 +23,15 @@
 | 🟡 CHIBIELON | $0.000051 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 Pixels | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:26 |
 | 🟡 来根华子 | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
-| 🟢 CHIBELON | $0.000062 | **2.31x** ($+131) | 4.06x | ✅ | pumpswap | 2026-03-20 07:18 |
+| 🟢 CHIBELON | $0.000062 | **2.19x** ($+119) | 4.06x | ✅ | pumpswap | 2026-03-20 07:18 |
 | 🟡 ZeroG | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:13 |
-| 🟡 INCOME | $0.000553 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 06:50 |
+| 🟡 INCOME | $0.000553 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-20 06:50 |
 | 🔴 Unemployed | $0.000007 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 06:48 |
 | 🟡 Rosie | $0.000876 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:29 |
 | 🔴 LIBERTY | $0.000004 | **0.79x** ($-21) | 1.29x |  | pumpfun | 2026-03-19 23:30 |
 | 🟡 Nigel | $0.000200 | **1.04x** ($+4) | 1.33x |  | pumpswap | 2026-03-19 22:54 |
 | 🟡 gork | $0.000167 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-19 22:49 |
-| 🟡 butthole | $0.000120 | **1.28x** ($+28) | 1.55x |  | pumpswap | 2026-03-19 22:49 |
+| 🟡 butthole | $0.000120 | **1.27x** ($+27) | 1.55x |  | pumpswap | 2026-03-19 22:49 |
 
 ## Closed Positions
 
