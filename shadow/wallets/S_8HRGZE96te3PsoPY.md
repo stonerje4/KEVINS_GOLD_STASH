@@ -1,16 +1,16 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 04:40 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 04:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
+| Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-81 |
-| 📦 Unrealized | $-64 |
-| 🏦 Total | **$-144** |
+| 📦 Unrealized | $-35 |
+| 🏦 Total | **$-116** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.9x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CORPORATE | $0.000007 | **1.57x** ($+57) | 2.19x | ✅ | pumpfun | 2026-03-20 04:42 |
 | 🔴 A8qiEkxf | $0.000005 | **0.51x** ($-49) | 1.26x |  | pumpfun | 2026-03-20 04:35 |
 | 🔴 hw | $0.000003 | **0.83x** ($-17) | 1.06x |  | pumpfun | 2026-03-20 04:27 |
 | 🟡 HeatGun | $0.000007 | **1.02x** ($+2) | 1.24x |  | pumpfun | 2026-03-20 04:16 |

@@ -1,6 +1,6 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 04:40 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 04:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (19 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+107 |
-| 🏦 Total | **$+107** |
+| 📦 Unrealized | $+77 |
+| 🏦 Total | **$+77** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 COMPUTE | $0.000003 | **1.00x** ($-0) | 1.00x |  | pumpfun | 2026-03-20 04:38 |
 | 🔴 CR7 | $0.000003 | **0.87x** ($-13) | 1.05x |  | pumpfun | 2026-03-20 04:24 |
-| 🟢 TRASHBAG | $0.000003 | **3.82x** ($+282) | 3.90x | ✅ | pumpfun | 2026-03-20 03:52 |
+| 🟢 TRASHBAG | $0.000003 | **3.09x** ($+209) | 3.90x | ✅ | pumpfun | 2026-03-20 03:52 |
 | 🔴 NASCAT | $0.000003 | **0.91x** ($-9) | 1.19x |  | pumpfun | 2026-03-20 03:36 |
 | 🔴 DEBT | $0.000003 | **0.98x** ($-2) | 1.07x |  | pumpfun | 2026-03-20 02:42 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:23 |

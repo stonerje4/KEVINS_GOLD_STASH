@@ -1,12 +1,12 @@
 # Wallet: `Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD`
 
-> [View on Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 04:40 UTC
+> [View on Solscan](https://solscan.io/account/Dmi15RHtNvVdqhubYBFNYRocpj9DhbgEwCH86zd3zCtD) | Updated: 2026-03-20 04:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (5 open, 1 closed) |
+| Positions | 7 (6 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
 | 📦 Unrealized | $-33 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 MINDLESS | $0.000225 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:44 |
 | 🔴 QUEST | $0.000186 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
 | 🟡 KIWI | $0.000164 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:22 |
 | 🟡 OPAY | $0.000035 | **1.15x** ($+15) | 1.17x |  | pumpswap | 2026-03-20 02:09 |

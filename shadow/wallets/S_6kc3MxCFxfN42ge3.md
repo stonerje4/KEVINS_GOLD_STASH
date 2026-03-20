@@ -1,24 +1,25 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 04:40 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 04:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (21 open, 6 closed) |
-| W/L | 1/5 (17%) |
-| 💵 Realized | $-214 |
-| 📦 Unrealized | $-346 |
-| 🏦 Total | **$-561** |
+| Positions | 29 (22 open, 7 closed) |
+| W/L | 2/5 (29%) |
+| 💵 Realized | $-165 |
+| 📦 Unrealized | $-479 |
+| 🏦 Total | **$-644** |
 | Best Trade | 1.5x |
-| Avg Peak | 2.0x |
+| Avg Peak | 2.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 9LkTsjEb | $0.000004 | **3.49x** ($+249) | 3.62x | ✅ | pumpfun | 2026-03-20 04:36 |
+| 🔴 CORPORATE | $0.000013 | **0.88x** ($-12) | 1.22x |  | pumpfun | 2026-03-20 04:43 |
+| 🔴 Civil Claude | $0.000011 | **0.79x** ($-21) | 1.16x |  | pumpfun | 2026-03-20 04:42 |
 | 🟡 94S763Nm | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.62x** ($-38) | 1.43x |  | pumpfun | 2026-03-20 04:14 |
 | 🔴 Arc | $0.000004 | **0.65x** ($-35) | 1.68x |  | pumpfun | 2026-03-20 04:07 |
@@ -44,6 +45,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 9LkTsjEb | 1.49x | $+49 | trailing_stop_4x | 3.62x | pumpfun | 2026-03-20 04:36 → 2026-03-20 04:40 |
 | 🔴 SMCI | 0.38x | $-62 | stop_loss | 1.24x | pumpfun | 2026-03-20 04:23 → 2026-03-20 04:25 |
 | 🟡 9yxNfMaA | 0.84x | $-16 | trailing_stop_3x | 2.99x | pumpfun | 2026-03-20 04:16 → 2026-03-20 04:23 |
 | 🔴 hamood | 0.40x | $-60 | stop_loss | 1.27x | pumpfun | 2026-03-20 04:11 → 2026-03-20 04:12 |

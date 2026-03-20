@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 04:40 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 04:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 66 (65 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+157 |
-| 🏦 Total | **$+78** |
+| 📦 Unrealized | $+136 |
+| 🏦 Total | **$+57** |
 | Best Trade | 0.2x |
 | Avg Peak | 1.0x |
 
@@ -23,7 +23,7 @@
 | 🟡 BAGWORKOOR | $0.000047 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 04:20 |
 | 🟡 Foodrot | $0.000135 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:56 |
 | 🟡 唐子兵法 | $0.001788 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:52 |
-| 🔴 Gizmo | $0.000014 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 03:38 |
+| 🔴 Gizmo | $0.000014 | **0.89x** ($-11) | 1.01x |  | pumpswap | 2026-03-20 03:38 |
 | 🟡 Fro | $0.000206 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:32 |
 | 🟡 Spiderman | $0.000156 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:29 |
 | 🔴 CIRCLES | $0.000057 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 03:23 |
@@ -75,7 +75,7 @@
 | 🔴 Hamster  | $0.000228 | **0.98x** ($-2) | 1.17x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 XAI | $0.000159 | **1.65x** ($+65) | 2.12x | ✅ | pumpswap | 2026-03-19 23:36 |
 | 🟡 BBX | $0.000425 | **1.23x** ($+23) | 1.58x |  | pumpswap | 2026-03-19 23:36 |
-| 🟡 INCOME | $0.000623 | **1.17x** ($+17) | 1.17x |  | pumpswap | 2026-03-19 23:35 |
+| 🟡 INCOME | $0.000623 | **1.03x** ($+3) | 1.17x |  | pumpswap | 2026-03-19 23:35 |
 | 🔴 HOSPICE | $0.000024 | **0.99x** ($-1) | 1.21x |  | pumpswap | 2026-03-19 23:25 |
 | 🔴 Downald | $0.001104 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-19 23:24 |
 | 🔴 whiskers | $0.000011 | **0.75x** ($-25) | 1.02x |  | pumpswap | 2026-03-19 23:15 |
