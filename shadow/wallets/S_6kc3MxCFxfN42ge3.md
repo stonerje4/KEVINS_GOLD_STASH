@@ -1,16 +1,16 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 06:20 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 06:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 43 (29 open, 14 closed) |
+| Positions | 44 (30 open, 14 closed) |
 | W/L | 2/12 (14%) |
 | 💵 Realized | $-510 |
-| 📦 Unrealized | $-506 |
-| 🏦 Total | **$-1,016** |
+| 📦 Unrealized | $-522 |
+| 🏦 Total | **$-1,032** |
 | Best Trade | 1.5x |
 | Avg Peak | 1.9x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 AVATAR | $0.000037 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 06:20 |
 | 🔴 7MDPtxq1 | $0.000005 | **0.48x** ($-52) | 1.23x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 EA | $0.000002 | **0.77x** ($-23) | 1.48x |  | pumpswap | 2026-03-20 05:57 |
 | 🟢 DBT5vdmZ | $0.000010 | **3.82x** ($+282) | 3.82x | ✅ | pumpfun | 2026-03-20 05:51 |
@@ -25,7 +26,7 @@
 | 🔴 5ju6JsxF | $0.000005 | **0.51x** ($-49) | 1.37x |  | pumpfun | 2026-03-20 05:42 |
 | 🔴 horse | $0.000003 | **0.86x** ($-14) | 1.05x |  | pumpfun | 2026-03-20 05:40 |
 | 🔴 hopecore | $0.000004 | **0.59x** ($-41) | 1.02x |  | pumpfun | 2026-03-20 05:20 |
-| 🟢 Fk6LNJWo | $0.000004 | **2.23x** ($+123) | 2.34x | ✅ | pumpfun | 2026-03-20 05:17 |
+| 🟢 Fk6LNJWo | $0.000004 | **2.54x** ($+154) | 2.54x | ✅ | pumpfun | 2026-03-20 05:17 |
 | 🔴 GnT2LQRZ | $0.000003 | **0.76x** ($-24) | 1.35x |  | pumpfun | 2026-03-20 05:02 |
 | 🟡 94S763Nm | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:24 |
 | 🔴 Cffkpxmi | $0.000004 | **0.62x** ($-38) | 1.43x |  | pumpfun | 2026-03-20 04:14 |

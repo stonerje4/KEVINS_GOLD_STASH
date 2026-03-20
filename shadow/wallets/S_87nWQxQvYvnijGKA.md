@@ -1,6 +1,6 @@
 # Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
 
-> [View on Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-20 06:20 UTC
+> [View on Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-20 06:25 UTC
 
 ## Summary
 
@@ -24,7 +24,7 @@
 | 🔴 BBX | $0.000003 | **0.85x** ($-15) | 1.11x |  | pumpfun | 2026-03-20 04:40 |
 | 🟡 OSP | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:25 |
 | 🟡 MSBT | $0.000003 | **1.81x** ($+81) | 1.92x |  | pumpfun | 2026-03-20 04:24 |
-| 🟡 ROS | $0.000004 | **1.47x** ($+47) | 1.69x |  | pumpfun | 2026-03-20 04:20 |
+| 🟡 ROS | $0.000004 | **1.46x** ($+46) | 1.69x |  | pumpfun | 2026-03-20 04:20 |
 | 🔴 USAOIL | $0.000005 | **0.59x** ($-41) | 1.13x |  | pumpfun | 2026-03-20 04:01 |
 | 🟡 OSP | $0.000003 | **1.06x** ($+6) | 1.18x |  | pumpfun | 2026-03-20 03:45 |
 | 🔴 USOS | $0.000003 | **0.87x** ($-13) | 1.02x |  | pumpfun | 2026-03-20 03:35 |

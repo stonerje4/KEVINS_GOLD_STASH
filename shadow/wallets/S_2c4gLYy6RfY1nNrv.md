@@ -1,24 +1,24 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 06:20 UTC
+> [View on Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-20 06:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (12 open, 7 closed) |
-| W/L | 1/6 (14%) |
-| 💵 Realized | $-223 |
-| 📦 Unrealized | $+197 |
-| 🏦 Total | **$-26** |
+| Positions | 20 (12 open, 8 closed) |
+| W/L | 1/7 (12%) |
+| 💵 Realized | $-285 |
+| 📦 Unrealized | $+196 |
+| 🏦 Total | **$-89** |
 | Best Trade | 1.4x |
-| Avg Peak | 2.0x |
+| Avg Peak | 1.9x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MENACE | $0.000004 | **1.15x** ($+15) | 2.68x | ✅ | pumpswap | 2026-03-20 06:05 |
+| 🟡 MENACE | $0.000004 | **1.13x** ($+13) | 2.68x | ✅ | pumpswap | 2026-03-20 06:05 |
 | 🟢 ZeroG | $0.000015 | **2.51x** ($+151) | 2.51x | ✅ | pumpfun | 2026-03-20 05:51 |
 | 🟡 TRADITION | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:10 |
 | 🔴 BitPenis | $0.000006 | **0.42x** ($-58) | 1.30x |  | pumpfun | 2026-03-20 04:59 |
@@ -35,6 +35,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Yukon | 0.38x | $-62 | stop_loss | 1.28x | pumpfun | 2026-03-20 06:22 → 2026-03-20 06:24 |
 | 🔴 CORPORATE | 0.75x | $-25 | trailing_stop_2x | 2.50x | pumpfun | 2026-03-20 05:47 → 2026-03-20 06:13 |
 | 🔴 nickel | 0.40x | $-60 | stop_loss | 1.46x | pumpfun | 2026-03-20 05:16 → 2026-03-20 05:43 |
 | 🟡 Gnd9Cmzo | 0.85x | $-15 | trailing_stop_2x | 2.36x | pumpfun | 2026-03-20 04:54 → 2026-03-20 04:56 |

@@ -1,23 +1,24 @@
 # Wallet: `AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda`
 
-> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 06:20 UTC
+> [View on Solscan](https://solscan.io/account/AT8jdHj31Zgcn2YxtgKVUCfX5hZdWPxXgiiQo1pmvJda) | Updated: 2026-03-20 06:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 83 (69 open, 14 closed) |
-| W/L | 0/14 (0%) |
-| 💵 Realized | $-714 |
-| 📦 Unrealized | $+733 |
-| 🏦 Total | **$+19** |
-| Best Trade | 0.8x |
-| Avg Peak | 1.5x |
+| Positions | 84 (69 open, 15 closed) |
+| W/L | 1/14 (7%) |
+| 💵 Realized | $+335 |
+| 📦 Unrealized | $+338 |
+| 🏦 Total | **$+673** |
+| Best Trade | 11.5x |
+| Avg Peak | 4.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 MOCHI | $0.000094 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
 | 🔴 NEO | $0.000030 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 06:14 |
 | 🔴 Clutch | $0.000051 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 05:56 |
 | 🟡 Rocky | $0.000096 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
@@ -29,15 +30,14 @@
 | 🟡 tinfoil | $0.000068 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 BIG | $0.000082 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:05 |
 | 🟡 JACKPOT | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:24 |
-| 🚀 HUGH | $0.000147 | **19.34x** ($+1,834) | 40.83x | ✅ | pumpswap | 2026-03-20 04:13 |
 | 🟡 KIWI | $0.000144 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:00 |
 | 🟡 3EYES | $0.000051 | **1.00x** ($+0) | 1.03x |  | pumpswap | 2026-03-20 03:58 |
-| 🚀 fine999.9 | $0.000118 | **6.48x** ($+548) | 7.22x | ✅ | pumpswap | 2026-03-20 03:57 |
+| 🚀 fine999.9 | $0.000118 | **6.99x** ($+599) | 7.22x | ✅ | pumpswap | 2026-03-20 03:57 |
 | 🟡 forg | $0.000101 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:48 |
-| 🔴 mogging | $0.000049 | **0.98x** ($-2) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
+| 🔴 mogging | $0.000049 | **0.95x** ($-5) | 1.04x |  | pumpswap | 2026-03-20 03:42 |
 | 🟡 Solana | $0.000153 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:41 |
 | 🟡 plumber | $0.000056 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:35 |
-| 🟡 SAID | $0.000270 | **1.07x** ($+7) | 1.09x |  | pumpswap | 2026-03-20 03:15 |
+| 🟡 SAID | $0.000270 | **1.08x** ($+8) | 1.09x |  | pumpswap | 2026-03-20 03:15 |
 | 🟡 IMAGINE | $0.000098 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:55 |
 | 🔴 APES | $0.000234 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🟡 Momo-chan | $0.000375 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:44 |
@@ -94,6 +94,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 EPSTEINBLI | 0.40x | $-60 | stop_loss | 1.67x | pumpswap | 2026-03-20 05:46 → 2026-03-20 06:11 |
 | 🔴 WOMI | 0.39x | $-61 | stop_loss | 1.67x | pumpswap | 2026-03-20 04:19 → 2026-03-20 04:35 |
+| 🟢 HUGH | 11.48x | $+1,048 | trailing_stop_41x | 40.83x | pumpswap | 2026-03-20 04:13 → 2026-03-20 06:22 |
 | 🔴 Floki | 0.40x | $-60 | stop_loss | 1.46x | pumpswap | 2026-03-20 03:31 → 2026-03-20 04:26 |
 | 🔴 HUGH | 0.40x | $-60 | stop_loss | 1.54x | pumpswap | 2026-03-20 03:20 → 2026-03-20 03:35 |
 | 🔴 DickusTrump | 0.77x | $-23 | trailing_stop_2x | 2.03x | pumpswap | 2026-03-20 01:27 → 2026-03-20 02:16 |

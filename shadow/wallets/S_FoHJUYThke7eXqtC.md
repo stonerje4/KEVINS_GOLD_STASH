@@ -1,16 +1,16 @@
 # Wallet: `FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy`
 
-> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 06:20 UTC
+> [View on Solscan](https://solscan.io/account/FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy) | Updated: 2026-03-20 06:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (22 open, 0 closed) |
+| Positions | 23 (23 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+41 |
-| 🏦 Total | **$+41** |
+| 📦 Unrealized | $+40 |
+| 🏦 Total | **$+40** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Forest  | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-20 06:20 |
 | 🟡 alien | $0.000003 | **1.02x** ($+2) | 1.13x |  | pumpfun | 2026-03-20 05:26 |
 | 🔴 TBI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 04:48 |
 | 🔴 LIBERTY | $0.000003 | **0.94x** ($-6) | 1.08x |  | pumpfun | 2026-03-20 04:47 |
