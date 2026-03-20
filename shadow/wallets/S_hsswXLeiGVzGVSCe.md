@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 01:34 UTC
+> [View on Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 01:39 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 64 (58 open, 6 closed) |
+| Positions | 65 (59 open, 6 closed) |
 | W/L | 3/3 (50%) |
 | 💵 Realized | $+827 |
-| 📦 Unrealized | $-836 |
-| 🏦 Total | **$-9** |
+| 📦 Unrealized | $-861 |
+| 🏦 Total | **$-34** |
 | Best Trade | 5.9x |
 | Avg Peak | 5.0x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Jesus | $0.000003 | **0.78x** ($-22) | 1.03x |  | pumpfun | 2026-03-20 01:36 |
 | 🔴 void | $0.000003 | **0.78x** ($-22) | 1.05x |  | pumpfun | 2026-03-20 01:28 |
 | 🔴 chibidoge | $0.000003 | **0.96x** ($-4) | 1.05x |  | pumpfun | 2026-03-20 01:20 |
 | 🔴 UWUNALD | $0.000005 | **0.54x** ($-46) | 1.00x |  | pumpfun | 2026-03-20 01:16 |
 | 🚀 Freebuff | $0.000005 | **7.50x** ($+650) | 7.50x | ✅ | pumpfun | 2026-03-20 01:09 |
 | 🟡 wolverine | $0.000005 | **1.05x** ($+5) | 1.55x |  | pumpfun | 2026-03-20 01:04 |
 | 🔴 BQbHgrPD | $0.000004 | **0.59x** ($-41) | 1.05x |  | pumpfun | 2026-03-20 01:01 |
-| 🟡 wooly | $0.000004 | **1.00x** ($+0) | 1.06x |  | pumpfun | 2026-03-20 00:50 |
+| 🔴 wooly | $0.000004 | **0.96x** ($-4) | 1.06x |  | pumpfun | 2026-03-20 00:50 |
 | 🔴 PESSIMIST | $0.000004 | **0.75x** ($-25) | 1.16x |  | pumpfun | 2026-03-20 00:42 |
 | 🔴 Fruits | $0.000004 | **0.83x** ($-17) | 1.16x |  | pumpfun | 2026-03-20 00:40 |
 | 🔴 9pVz3EK1 | $0.000005 | **0.49x** ($-51) | 1.40x |  | pumpfun | 2026-03-20 00:40 |
@@ -39,7 +40,7 @@
 | 🔴 COMPUTE | $0.000003 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-19 23:52 |
 | 🔴 Downey | $0.000004 | **0.95x** ($-5) | 1.57x |  | pumpfun | 2026-03-19 23:49 |
 | 🟡 TTJ | $0.000005 | **1.13x** ($+13) | 1.18x |  | pumpfun | 2026-03-19 23:49 |
-| 🟢 SHELBY | $0.000003 | **2.93x** ($+193) | 4.08x | ✅ | pumpfun | 2026-03-19 23:47 |
+| 🟢 SHELBY | $0.000003 | **2.98x** ($+198) | 4.08x | ✅ | pumpfun | 2026-03-19 23:47 |
 | 🔴 DULISAURUS | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-19 23:42 |
 | 🔴 Trashbag | $0.000005 | **0.81x** ($-19) | 1.67x |  | pumpfun | 2026-03-19 23:41 |
 | 🔴 TCOIN | $0.000004 | **0.90x** ($-10) | 1.01x |  | pumpfun | 2026-03-19 23:38 |

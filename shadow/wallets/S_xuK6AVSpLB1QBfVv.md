@@ -1,6 +1,6 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 01:34 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 01:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (21 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-49 |
-| 🏦 Total | **$-49** |
+| 📦 Unrealized | $-48 |
+| 🏦 Total | **$-48** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 TITTYKILLER | $0.000003 | **0.85x** ($-15) | 1.26x |  | pumpfun | 2026-03-20 01:21 |
-| 🔴 NGC74kZf | $0.000003 | **0.85x** ($-15) | 1.04x |  | pumpfun | 2026-03-20 01:19 |
+| 🔴 NGC74kZf | $0.000003 | **0.84x** ($-16) | 1.04x |  | pumpfun | 2026-03-20 01:19 |
 | 🔴 JELLYTENT | $0.000003 | **0.81x** ($-19) | 1.03x |  | pumpfun | 2026-03-20 01:10 |
 | 🔴 NBR | $0.000003 | **0.84x** ($-16) | 1.08x |  | pumpfun | 2026-03-20 00:56 |
 | 🔴 Fro | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 00:44 |
@@ -33,7 +33,7 @@
 | 🔴 3cUc5YtL | $0.000003 | **0.86x** ($-14) | 1.16x |  | pumpfun | 2026-03-19 23:54 |
 | 🟡 Trenchies | $0.000003 | **1.70x** ($+70) | 1.70x |  | pumpfun | 2026-03-19 23:52 |
 | 🔴 GQqH3H3a | $0.000003 | **0.90x** ($-10) | 1.29x |  | pumpfun | 2026-03-19 23:49 |
-| 🟢 SHELBY | $0.000003 | **3.43x** ($+243) | 4.78x | ✅ | pumpfun | 2026-03-19 23:47 |
+| 🟢 SHELBY | $0.000003 | **3.49x** ($+249) | 4.78x | ✅ | pumpfun | 2026-03-19 23:47 |
 | 🔴 XGqX2y8e | $0.000003 | **0.84x** ($-16) | 1.23x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 GKRgZZZi | $0.000003 | **0.87x** ($-13) | 1.20x |  | pumpfun | 2026-03-19 23:44 |
 | 🔴 ALF | $0.000003 | **0.96x** ($-4) | 1.03x |  | pumpfun | 2026-03-19 23:15 |

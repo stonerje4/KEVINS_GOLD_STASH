@@ -1,6 +1,6 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 01:34 UTC
+> [View on Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-20 01:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+50 |
-| 🏦 Total | **$+50** |
+| 📦 Unrealized | $+55 |
+| 🏦 Total | **$+55** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Anduril  | $0.000005 | **1.48x** ($+48) | 1.48x |  | pumpfun | 2026-03-20 01:22 |
+| 🟡 Anduril  | $0.000005 | **1.53x** ($+53) | 1.59x |  | pumpfun | 2026-03-20 01:22 |
 | 🟡 DSNT | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 01:11 |
 | 🟡 FOR | $0.000003 | **1.02x** ($+2) | 1.11x |  | pumpfun | 2026-03-20 00:56 |
 | 🟡 OIL | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 00:56 |

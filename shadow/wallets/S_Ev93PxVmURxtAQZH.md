@@ -1,6 +1,6 @@
 # Wallet: `Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R`
 
-> [View on Solscan](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R) | Updated: 2026-03-20 01:34 UTC
+> [View on Solscan](https://solscan.io/account/Ev93PxVmURxtAQZHRAHszAqMWBQFSUhwKFHFKdeUoy5R) | Updated: 2026-03-20 01:39 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 nuggets | $0.000003 | **0.84x** ($-16) | 1.07x |  | pumpswap | 2026-03-19 23:55 |
-| 🔴 LIBERTY | $0.000050 | **0.88x** ($-12) | 1.68x |  | pumpswap | 2026-03-19 23:42 |
+| 🔴 LIBERTY | $0.000050 | **0.89x** ($-11) | 1.68x |  | pumpswap | 2026-03-19 23:42 |
 
 ## Closed Positions
 

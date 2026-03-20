@@ -1,6 +1,6 @@
 # Wallet: `Da6s2A815tKadQ7gUSRPaUoyNP6qDjGJoEKD54fpx5Pc`
 
-> [View on Solscan](https://solscan.io/account/Da6s2A815tKadQ7gUSRPaUoyNP6qDjGJoEKD54fpx5Pc) | Updated: 2026-03-20 01:34 UTC
+> [View on Solscan](https://solscan.io/account/Da6s2A815tKadQ7gUSRPaUoyNP6qDjGJoEKD54fpx5Pc) | Updated: 2026-03-20 01:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-16** |
+| 📦 Unrealized | $-20 |
+| 🏦 Total | **$-20** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 RETURN | $0.000015 | **0.84x** ($-16) | 1.17x |  | pumpswap | 2026-03-19 23:27 |
+| 🔴 RETURN | $0.000015 | **0.80x** ($-20) | 1.17x |  | pumpswap | 2026-03-19 23:27 |
 
 ## Closed Positions
 

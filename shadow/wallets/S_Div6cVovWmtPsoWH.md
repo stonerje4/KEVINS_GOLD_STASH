@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 01:34 UTC
+> [View on Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 01:39 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-18 |
-| 🏦 Total | **$-18** |
+| 📦 Unrealized | $-20 |
+| 🏦 Total | **$-20** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Loui | $0.000005 | **1.02x** ($+2) | 1.09x |  | pumpfun | 2026-03-20 01:32 |
+| 🟡 Loui | $0.000005 | **1.01x** ($+1) | 1.09x |  | pumpfun | 2026-03-20 01:32 |
 | 🔴 KIWI | $0.000161 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-19 23:45 |
 | 🟡 SURVIVOR | $0.000008 | **1.32x** ($+32) | 1.43x |  | pumpswap | 2026-03-19 23:43 |
-| 🔴 italianrot | $0.000008 | **0.82x** ($-18) | 1.01x |  | pumpswap | 2026-03-19 23:09 |
+| 🔴 italianrot | $0.000008 | **0.81x** ($-19) | 1.01x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 Trillium | $0.000006 | **0.67x** ($-33) | 1.95x |  | pumpfun | 2026-03-19 22:36 |
 
 ## Closed Positions
