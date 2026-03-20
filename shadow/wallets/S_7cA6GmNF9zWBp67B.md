@@ -1,26 +1,25 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 22:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-20 22:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (25 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-266 |
-| 📦 Unrealized | $+340 |
-| 🏦 Total | **$+75** |
-| Best ROI | 0.38x |
-| Avg ROI | 0.34x |
+| Positions | 29 (24 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-326 |
+| 📦 Unrealized | $+386 |
+| 🏦 Total | **$+60** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.35x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 EVERYTHING | $0.000011 | **1.14x** ($+14) | 1.15x |  | pumpfun | 2026-03-20 22:09 |
-| 🔴 Ignotus  | $0.000034 | **0.92x** ($-8) | 1.08x |  | pumpfun | 2026-03-20 21:33 |
-| 🔴 DogeFather | $0.000026 | **0.47x** ($-53) | 1.28x |  | pumpswap | 2026-03-20 20:58 |
+| 🟡 EVERYTHING | $0.000011 | **1.04x** ($+4) | 1.15x |  | pumpfun | 2026-03-20 22:09 |
+| 🔴 Ignotus  | $0.000034 | **0.95x** ($-5) | 1.08x |  | pumpfun | 2026-03-20 21:33 |
 | 🔴 corporate | $0.000014 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 17:48 |
 | 🟡 XAI | $0.000009 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 17:33 |
 | 🟡 LNG | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 17:21 |
@@ -48,6 +47,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 DogeFather | 0.40x | $-60 | stop_loss | 1.28x | pumpswap | 2026-03-20 20:58 → 2026-03-20 22:18 |
 | 🔴 CATS | 0.32x | $-68 | stop_loss | 1.35x | pumpfun | 2026-03-20 06:06 → 2026-03-20 07:14 |
 | 🔴 ZeroG | 0.34x | $-66 | stop_loss | 1.25x | pumpfun | 2026-03-20 06:03 → 2026-03-20 16:23 |
 | 🔴 Imaginify | 0.38x | $-62 | stop_loss | 1.11x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:24 |

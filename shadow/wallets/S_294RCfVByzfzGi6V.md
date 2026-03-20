@@ -1,16 +1,16 @@
 # Wallet: `294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN`
 
-> [GMGN](https://gmgn.ai/sol/address/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | [Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 22:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | [Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-20 22:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (11 open, 1 closed) |
+| Positions | 13 (12 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $-108 |
-| 🏦 Total | **$-169** |
+| 📦 Unrealized | $-125 |
+| 🏦 Total | **$-187** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Jessica | $0.000012 | **0.83x** ($-17) | 1.15x |  | pumpfun | 2026-03-20 22:16 |
 | 🟢 CRACK | $0.000016 | **2.32x** ($+132) | 2.32x | ✅ | pumpfun | 2026-03-20 19:28 |
 | 🔴 CAT | $0.000007 | **0.69x** ($-31) | 1.08x |  | pumpfun | 2026-03-20 19:19 |
 | 🔴 TITUATION | $0.000040 | **0.83x** ($-17) | 1.26x |  | pumpswap | 2026-03-20 18:37 |

@@ -1,6 +1,6 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 22:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-20 22:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (16 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-168 |
-| 📦 Unrealized | $-11 |
-| 🏦 Total | **$-178** |
+| 📦 Unrealized | $-16 |
+| 🏦 Total | **$-184** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.58x |
 
@@ -29,7 +29,7 @@
 | 🟡 RETURN | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 Patience | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🟢 SMCI | $0.000011 | **3.24x** ($+224) | 3.24x | ✅ | pumpfun | 2026-03-20 04:14 |
-| 🔴 Alien | $0.000024 | **0.51x** ($-49) | 1.78x |  | pumpswap | 2026-03-20 02:51 |
+| 🔴 Alien | $0.000024 | **0.46x** ($-54) | 1.78x |  | pumpswap | 2026-03-20 02:51 |
 | 🔴 DORO | $0.000005 | **0.73x** ($-27) | 1.19x |  | pumpfun | 2026-03-20 00:46 |
 | 🟡 Futa-kun | $0.000020 | **1.87x** ($+87) | 1.87x |  | pumpfun | 2026-03-20 00:00 |
 | 🔴 TRASHBAG | $0.000009 | **0.43x** ($-57) | 1.00x |  | pumpswap | 2026-03-19 23:41 |

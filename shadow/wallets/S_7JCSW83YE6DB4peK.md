@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 22:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 22:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 82 (80 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+132 |
-| 📦 Unrealized | $+119 |
-| 🏦 Total | **$+251** |
+| 📦 Unrealized | $+113 |
+| 🏦 Total | **$+245** |
 | Best ROI | 2.92x |
 | Avg ROI | 1.66x |
 
@@ -19,11 +19,11 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Sheep | $0.000027 | **1.00x** ($-0) | 1.04x |  | pumpswap | 2026-03-20 21:44 |
-| 🟡 Aliens | $0.000037 | **1.07x** ($+7) | 1.17x |  | pumpswap | 2026-03-20 21:32 |
-| 🟡 Monke | $0.000008 | **1.00x** ($+0) | 1.10x |  | pumpswap | 2026-03-20 21:16 |
+| 🟡 Aliens | $0.000037 | **1.00x** ($+0) | 1.17x |  | pumpswap | 2026-03-20 21:32 |
+| 🔴 Monke | $0.000008 | **0.98x** ($-2) | 1.10x |  | pumpswap | 2026-03-20 21:16 |
 | 🔴 stoic | $0.000013 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 21:12 |
-| 🟡 Flash | $0.000023 | **1.02x** ($+2) | 1.36x |  | pumpswap | 2026-03-20 20:50 |
-| 🟡 chibify | $0.000007 | **1.05x** ($+5) | 1.16x |  | pumpswap | 2026-03-20 20:37 |
+| 🟡 Flash | $0.000023 | **1.04x** ($+4) | 1.36x |  | pumpswap | 2026-03-20 20:50 |
+| 🟡 chibify | $0.000007 | **1.04x** ($+4) | 1.16x |  | pumpswap | 2026-03-20 20:37 |
 | 🟡 Chud | $0.000025 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 20:18 |
 | 🟡 clod | $0.000015 | **1.09x** ($+9) | 1.27x |  | pumpswap | 2026-03-20 19:17 |
 | 🟡 UGOR | $0.000018 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-20 19:17 |
@@ -38,7 +38,7 @@
 | 🟡 PEACE | $0.000021 | **1.34x** ($+34) | 1.55x |  | pumpswap | 2026-03-20 17:10 |
 | 🟡 MOMO | $0.000029 | **1.26x** ($+26) | 1.35x |  | pumpswap | 2026-03-20 17:05 |
 | 🔴 Ava | $0.000008 | **0.88x** ($-12) | 1.34x |  | pumpswap | 2026-03-20 17:04 |
-| 🟡 90S | $0.000016 | **1.58x** ($+58) | 1.78x |  | pumpswap | 2026-03-20 17:02 |
+| 🟡 90S | $0.000016 | **1.54x** ($+54) | 1.78x |  | pumpswap | 2026-03-20 17:02 |
 | 🔴 repurt | $0.000006 | **0.57x** ($-43) | 1.01x |  | pumpswap | 2026-03-20 16:48 |
 | 🟡 Hamster | $0.000022 | **1.56x** ($+56) | 1.58x |  | pumpswap | 2026-03-20 16:39 |
 | 🟡 ROME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:30 |
@@ -47,7 +47,7 @@
 | 🟡 Otome | $0.000016 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-20 15:13 |
 | 🔴 ACT: S | $0.000008 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
 | 🔴 Xingxing | $0.000024 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:24 |
-| 🟡 GameTheory | $0.000014 | **1.43x** ($+43) | 1.53x |  | pumpswap | 2026-03-20 14:15 |
+| 🟡 GameTheory | $0.000014 | **1.47x** ($+47) | 1.53x |  | pumpswap | 2026-03-20 14:15 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🔴 Higuruma | $0.000020 | **0.67x** ($-33) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
 | 🔴 Saxophones | $0.000034 | **0.91x** ($-9) | 1.15x |  | pumpswap | 2026-03-20 13:40 |
@@ -74,7 +74,7 @@
 | 🔴 NICK | $0.000031 | **0.90x** ($-10) | 1.10x |  | pumpswap | 2026-03-20 06:35 |
 | 🟡 Ray | $0.000005 | **1.06x** ($+6) | 1.12x |  | pumpswap | 2026-03-20 06:34 |
 | 🟡 Gascoin | $0.000030 | **1.16x** ($+16) | 1.24x |  | pumpswap | 2026-03-20 06:04 |
-| 🔴 LULU | $0.000031 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
+| 🔴 LULU | $0.000031 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
 | 🟡 AIKO | $0.000008 | **1.07x** ($+7) | 1.31x |  | pumpswap | 2026-03-20 05:28 |
 | 🟡 TSUZUMI | $0.000025 | **1.06x** ($+6) | 1.38x |  | pumpswap | 2026-03-20 05:25 |
 | 🟡 咕咕嘎嘎 | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |

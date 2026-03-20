@@ -1,6 +1,6 @@
 # Wallet: `8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx`
 
-> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-20 22:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-20 22:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (8 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-68 |
-| 📦 Unrealized | $+248 |
-| 🏦 Total | **$+179** |
+| 📦 Unrealized | $+245 |
+| 🏦 Total | **$+177** |
 | Best ROI | 0.32x |
 | Avg ROI | 0.32x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 90S | $0.000023 | **1.11x** ($+11) | 1.26x |  | pumpswap | 2026-03-20 20:40 |
+| 🟡 90S | $0.000023 | **1.08x** ($+8) | 1.26x |  | pumpswap | 2026-03-20 20:40 |
 | 🚀 Sadly | $0.000010 | **12.53x** ($+1,153) | 13.75x | ✅ | pumpfun | 2026-03-20 18:00 |
 | 🔴 Rosei | $0.000013 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 04:24 |
 | 🔴 Mario | $0.000005 | **0.47x** ($-53) | 1.09x |  | pumpfun | 2026-03-20 04:11 |

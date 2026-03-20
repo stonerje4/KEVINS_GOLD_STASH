@@ -1,6 +1,6 @@
 # Wallet: `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4`
 
-> [GMGN](https://gmgn.ai/sol/address/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | [Solscan](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | Updated: 2026-03-20 22:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | [Solscan](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | Updated: 2026-03-20 22:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+54 |
-| 🏦 Total | **$+54** |
+| 📦 Unrealized | $+59 |
+| 🏦 Total | **$+59** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 F3 | $0.000012 | **1.45x** ($+45) | 1.47x |  | pumpfun | 2026-03-20 21:45 |
-| 🟡 MINMIKO | $0.000011 | **1.27x** ($+27) | 2.42x | ✅ | pumpfun | 2026-03-20 21:39 |
+| 🟡 F3 | $0.000012 | **1.91x** ($+91) | 2.20x | ✅ | pumpfun | 2026-03-20 21:45 |
+| 🟡 MINMIKO | $0.000011 | **1.37x** ($+37) | 2.42x | ✅ | pumpfun | 2026-03-20 21:39 |
 | 🟡 Bananito | $0.000006 | **1.05x** ($+5) | 1.40x |  | pumpfun | 2026-03-20 17:57 |
 | 🟡 knight | $0.000022 | **1.00x** ($+0) | 1.08x |  | pumpswap | 2026-03-20 15:54 |
 | 🔴 JJK | $0.000005 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 15:22 |
