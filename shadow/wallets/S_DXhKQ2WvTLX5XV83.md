@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [View on Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 12:38 UTC
+> [View on Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-20 12:39 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 21 (21 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+39,217 |
-| 🏦 Total | **$+39,217** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+39,010 |
+| 🏦 Total | **$+39,010** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
@@ -31,11 +31,11 @@
 | 🚀 jerk | $0.000000 | **17.71x** ($+1,671) | 46.65x | ✅ | pumpfun | 2026-03-20 06:44 |
 | 🚀 Pixels | $0.000000 | **421.58x** ($+42,058) | 421.58x | ✅ | pumpfun | 2026-03-20 06:39 |
 | 🔴 SOLANA | $0.000005 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 06:22 |
-| 🚀 Civil Claude | $0.000000 | **374.90x** ($+37,390) | 554.15x | ✅ | pumpfun | 2026-03-20 06:04 |
+| 🚀 Civil Claude | $0.000000 | **365.51x** ($+36,451) | 554.15x | ✅ | pumpfun | 2026-03-20 06:04 |
 | 🚀 CHIBIMINAJ | $0.000000 | **128.57x** ($+12,757) | 169.05x | ✅ | pumpfun | 2026-03-20 05:15 |
 | 🟡 credit | $0.000434 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:08 |
 | 🚀 AYYGENT | $0.000000 | **158.85x** ($+15,785) | 233.60x | ✅ | pumpfun | 2026-03-20 04:53 |
-| 🚀 Imaginify | $0.000000 | **495.58x** ($+49,458) | 1509.41x | ✅ | pumpfun | 2026-03-20 04:28 |
+| 🚀 Imaginify | $0.000000 | **495.69x** ($+49,469) | 1509.41x | ✅ | pumpfun | 2026-03-20 04:28 |
 | 🟡 twump | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:26 |
 | 🟡 Ancestors | $0.000008 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 02:11 |
 | 🔴 Trollbot | $0.000005 | **0.93x** ($-7) | 1.50x |  | pumpfun | 2026-03-20 01:25 |

@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 12:38 UTC
+> [View on Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-20 12:39 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 117 (114 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+187 |
-| 🏦 Total | **$-14** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.2x |
+| 📦 Unrealized | $+183 |
+| 🏦 Total | **$-18** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.33x |
 
 ## Open Positions
 
@@ -44,7 +44,7 @@
 | 🟡 TERAFAB | $0.000295 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:26 |
 | 🟡 OLAF | $0.000142 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:21 |
 | 🟡 Achieve | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:19 |
-| 🟡 WhiteHouse | $0.000317 | **1.01x** ($+1) | 1.04x |  | pumpswap | 2026-03-20 08:15 |
+| 🟡 WhiteHouse | $0.000317 | **1.00x** ($+0) | 1.04x |  | pumpswap | 2026-03-20 08:15 |
 | 🟡 Baldi | $0.000019 | **1.05x** ($+5) | 1.10x |  | pumpswap | 2026-03-20 08:01 |
 | 🟡 OPTIMUS | $0.000015 | **1.28x** ($+28) | 1.34x |  | pumpswap | 2026-03-20 07:53 |
 | 🟡 abcdefg | $0.000977 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:32 |
@@ -59,9 +59,9 @@
 | 🟡 Lobstar | $0.006359 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:13 |
 | 🔴 Gascoin | $0.000030 | **0.95x** ($-5) | 1.11x |  | pumpswap | 2026-03-20 06:04 |
 | 🟡 LULU | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:01 |
-| 🟡 TeraFab | $0.000052 | **1.40x** ($+40) | 2.03x | ✅ | pumpswap | 2026-03-20 05:33 |
+| 🟡 TeraFab | $0.000052 | **1.41x** ($+41) | 2.03x | ✅ | pumpswap | 2026-03-20 05:33 |
 | 🟡 BOE | $0.000047 | **1.03x** ($+3) | 1.11x |  | pumpswap | 2026-03-20 05:30 |
-| 🔴 AIKO | $0.000008 | **0.90x** ($-10) | 1.31x |  | pumpswap | 2026-03-20 05:28 |
+| 🔴 AIKO | $0.000008 | **0.87x** ($-13) | 1.31x |  | pumpswap | 2026-03-20 05:28 |
 | 🟡 LIQUID | $0.000262 | **1.13x** ($+13) | 1.25x |  | pumpswap | 2026-03-20 05:27 |
 | 🟡 TSUZUMI | $0.000025 | **1.06x** ($+6) | 1.38x |  | pumpswap | 2026-03-20 05:25 |
 | 🔴 RealtorGPT | $0.000004 | **0.91x** ($-9) | 1.03x |  | pumpswap | 2026-03-20 05:21 |

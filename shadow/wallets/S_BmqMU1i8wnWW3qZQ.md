@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:38 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 12:39 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 404 (399 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,139 |
-| 🏦 Total | **$-1,225** |
-| Best Trade | 2.8x |
-| Avg Peak | 2.2x |
+| 📦 Unrealized | $-1,142 |
+| 🏦 Total | **$-1,227** |
+| Best ROI | 2.75x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
@@ -65,7 +65,7 @@
 | 🔴 snowball | $0.000357 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 08:08 |
 | 🔴 しずく | $0.000018 | **0.87x** ($-13) | 1.05x |  | pumpswap | 2026-03-20 08:08 |
 | 🟡 forg | $0.000101 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:08 |
-| 🔴 AIKO | $0.000009 | **0.81x** ($-19) | 1.10x |  | pumpswap | 2026-03-20 08:08 |
+| 🔴 AIKO | $0.000009 | **0.79x** ($-21) | 1.10x |  | pumpswap | 2026-03-20 08:08 |
 | 🔴 brainrot | $0.000017 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 08:07 |
 | 🔴 Momiage | $0.000010 | **0.85x** ($-15) | 1.13x |  | pumpswap | 2026-03-20 08:06 |
 | 🔴 Baldi | $0.000022 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 08:01 |
@@ -126,7 +126,7 @@
 | 🟡 Ham | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:40 |
 | 🔴 STAR | $0.000020 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 05:34 |
 | 🔴 HUMANS | $0.000005 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
-| 🔴 WhiteHouse | $0.000375 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 05:29 |
+| 🔴 WhiteHouse | $0.000375 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 OIIA | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 LIQUID | $0.000289 | **1.03x** ($+3) | 1.13x |  | pumpswap | 2026-03-20 05:27 |
 | 🔴 TSUZUMI | $0.000027 | **0.98x** ($-2) | 1.28x |  | pumpswap | 2026-03-20 05:23 |
@@ -198,7 +198,7 @@
 | 🔴 Gayatollah | $0.000007 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 03:12 |
 | 🔴 hahahaha | $0.000006 | **0.93x** ($-7) | 1.25x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 Wob | $0.000021 | **1.04x** ($+4) | 1.16x |  | pumpswap | 2026-03-20 03:01 |
-| 🟡 TeraFab | $0.000062 | **1.18x** ($+18) | 1.72x |  | pumpswap | 2026-03-20 02:59 |
+| 🟡 TeraFab | $0.000062 | **1.19x** ($+19) | 1.72x |  | pumpswap | 2026-03-20 02:59 |
 | 🟡 BBX | $0.000010 | **1.72x** ($+72) | 1.72x |  | pumpswap | 2026-03-20 02:58 |
 | 🟡 APES | $0.000239 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:57 |
 | 🟡 PAD | $0.000016 | **1.26x** ($+26) | 1.39x |  | pumpswap | 2026-03-20 02:57 |

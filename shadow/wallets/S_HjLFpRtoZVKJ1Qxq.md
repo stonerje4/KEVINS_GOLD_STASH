@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 12:38 UTC
+> [View on Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-20 12:39 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 112 (110 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-145** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $-9 |
+| 🏦 Total | **$-146** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
@@ -55,7 +55,7 @@
 | 🟡 RENTAI | $0.000094 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:38 |
 | 🟡 Rosie | $0.000800 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 SOS | $0.000870 | **1.34x** ($+34) | 1.34x |  | pumpswap | 2026-03-20 05:29 |
-| 🔴 WhiteHouse | $0.000345 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
+| 🔴 WhiteHouse | $0.000345 | **0.92x** ($-8) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
 | 🔴 shitcoin | $0.000075 | **0.91x** ($-9) | 1.11x |  | pumpswap | 2026-03-20 05:20 |
 | 🔴 Optimus | $0.000037 | **0.90x** ($-10) | 1.14x |  | pumpswap | 2026-03-20 05:13 |
 | 🟡 OPAL | $0.000469 | **1.06x** ($+6) | 1.15x |  | pumpswap | 2026-03-20 04:53 |

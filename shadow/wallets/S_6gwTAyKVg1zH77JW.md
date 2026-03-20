@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 12:38 UTC
+> [View on Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-20 12:39 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 176 (173 open, 3 closed) |
 | W/L | 2/1 (67%) |
 | 💵 Realized | $+177 |
-| 📦 Unrealized | $+103 |
-| 🏦 Total | **$+280** |
-| Best Trade | 2.9x |
-| Avg Peak | 4.5x |
+| 📦 Unrealized | $+100 |
+| 🏦 Total | **$+277** |
+| Best ROI | 2.91x |
+| Avg ROI | 1.59x |
 
 ## Open Positions
 
@@ -49,7 +49,7 @@
 | 🔴 TTT | $0.000101 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 08:22 |
 | 🟡 しずく | $0.000015 | **1.01x** ($+1) | 1.22x |  | pumpswap | 2026-03-20 08:09 |
 | 🔴 snowball | $0.000354 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-20 08:08 |
-| 🔴 AIKO | $0.000009 | **0.85x** ($-15) | 1.15x |  | pumpswap | 2026-03-20 08:08 |
+| 🔴 AIKO | $0.000009 | **0.83x** ($-17) | 1.15x |  | pumpswap | 2026-03-20 08:08 |
 | 🟡 WID | $0.000019 | **1.38x** ($+38) | 1.38x |  | pumpswap | 2026-03-20 08:04 |
 | 🟡 MINT | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:56 |
 | 🟡 CLAW | $0.000028 | **1.07x** ($+7) | 1.10x |  | pumpswap | 2026-03-20 07:44 |
@@ -73,9 +73,9 @@
 | 🟡 Pete | $0.000116 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
 | 🟡 INCOME | $0.000585 | **1.04x** ($+4) | 1.09x |  | pumpswap | 2026-03-20 05:31 |
 | 🟡 SOS | $0.000861 | **1.35x** ($+35) | 1.36x |  | pumpswap | 2026-03-20 05:29 |
-| 🔴 WhiteHouse | $0.000343 | **0.94x** ($-6) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
+| 🔴 WhiteHouse | $0.000343 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 LIQUID | $0.000266 | **1.12x** ($+12) | 1.24x |  | pumpswap | 2026-03-20 05:27 |
-| 🟡 TeraFab | $0.000054 | **1.36x** ($+36) | 1.98x |  | pumpswap | 2026-03-20 05:17 |
+| 🟡 TeraFab | $0.000054 | **1.38x** ($+38) | 1.98x |  | pumpswap | 2026-03-20 05:17 |
 | 🟡 Clude | $0.001325 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:16 |
 | 🟡 Spiderman | $0.000130 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:10 |
 | 🔴 shitcoin | $0.000075 | **0.91x** ($-9) | 1.11x |  | pumpswap | 2026-03-20 05:08 |

@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 12:38 UTC
+> [View on Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-20 12:39 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 197 (195 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+133 |
-| 📦 Unrealized | $+389 |
-| 🏦 Total | **$+522** |
-| Best Trade | 2.9x |
-| Avg Peak | 5.4x |
+| 📦 Unrealized | $+386 |
+| 🏦 Total | **$+519** |
+| Best ROI | 2.95x |
+| Avg ROI | 1.67x |
 
 ## Open Positions
 
@@ -51,7 +51,7 @@
 | 🔴 TTT | $0.000101 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 08:22 |
 | 🟡 Achieve | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:18 |
 | 🟡 DISLIKE | $0.000042 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:16 |
-| 🔴 AIKO | $0.000008 | **0.91x** ($-9) | 1.22x |  | pumpswap | 2026-03-20 08:08 |
+| 🔴 AIKO | $0.000008 | **0.88x** ($-12) | 1.22x |  | pumpswap | 2026-03-20 08:08 |
 | 🟡 chud | $0.000015 | **1.11x** ($+11) | 1.39x |  | pumpswap | 2026-03-20 08:01 |
 | 🟡 OPTIMUS | $0.000015 | **1.22x** ($+22) | 1.27x |  | pumpswap | 2026-03-20 07:53 |
 | 🟡 AIFRUIT | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
@@ -82,9 +82,9 @@
 | 🟡 INCOME | $0.000571 | **1.06x** ($+6) | 1.12x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 ACT: S | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:35 |
 | 🟡 Pete | $0.000113 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:33 |
-| 🔴 WhiteHouse | $0.000338 | **0.95x** ($-5) | 1.10x |  | pumpswap | 2026-03-20 05:29 |
+| 🔴 WhiteHouse | $0.000338 | **0.94x** ($-6) | 1.10x |  | pumpswap | 2026-03-20 05:29 |
 | 🟡 LIQUID | $0.000261 | **1.14x** ($+14) | 1.25x |  | pumpswap | 2026-03-20 05:27 |
-| 🟡 TeraFab | $0.000053 | **1.39x** ($+39) | 2.02x | ✅ | pumpswap | 2026-03-20 05:17 |
+| 🟡 TeraFab | $0.000053 | **1.40x** ($+40) | 2.02x | ✅ | pumpswap | 2026-03-20 05:17 |
 | 🔴 shitcoin | $0.000072 | **0.95x** ($-5) | 1.16x |  | pumpswap | 2026-03-20 05:08 |
 | 🟡 FKH | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🔴 X | $0.000413 | **0.99x** ($-1) | 1.04x |  | pumpswap | 2026-03-20 04:57 |

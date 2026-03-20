@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 12:38 UTC
+> [View on Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 12:39 UTC
 
 ## Summary
 
@@ -9,10 +9,10 @@
 | Positions | 17 (13 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-104 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-124** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.0x |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$-122** |
+| Best ROI | 1.49x |
+| Avg ROI | 0.74x |
 
 ## Open Positions
 
@@ -25,7 +25,7 @@
 | 🟡 FNQUzuhB | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
 | 🟡 Stanley | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:59 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:42 |
-| 🔴 Punch | $0.016257 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
+| 🔴 Punch | $0.016257 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 11:29 |
 | 🟡 Ancestors | $0.000006 | **1.37x** ($+37) | 1.53x |  | pumpfun | 2026-03-20 00:47 |
 | 🔴 Ouroboros | $0.000035 | **0.85x** ($-15) | 1.03x |  | pumpswap | 2026-03-20 00:46 |
 | 🔴 Charles | $0.000003 | **0.92x** ($-8) | 2.05x | ✅ | pumpfun | 2026-03-20 00:17 |
