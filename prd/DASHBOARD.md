@@ -1,9 +1,9 @@
 # 📈 PRD — Production Dashboard
 
-*Last updated: 2026-03-20 14:15 UTC*
+*Last updated: 2026-03-20 14:20 UTC*
 
 **Wallet:** [`DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h`](https://solscan.io/account/DDJZdWDvv8YkoB6VvmtVmQb5LY7NsKZLME6oj8wrFj1h)
-**Position Size:** 0.50 SOL (~$44/buy) · **SOL:** $88.78
+**Position Size:** 0.50 SOL (~$44/buy) · **SOL:** $88.61
 
 ## Summary
 
@@ -13,7 +13,7 @@
 | Total Positions | 123 |
 | Open | 3 |
 | Closed | 120 |
-| Total Gas Fees | 0.4266 SOL ($37.87) |
+| Total Gas Fees | 0.4266 SOL ($37.80) |
 
 ## Wallet Performance
 
@@ -29,8 +29,8 @@
 | 🔴 | [`HCDsVE5Y22dzxFzibEFS...`](wallets/PRD_HCDsVE5Y22dzxFzibEFS.md) | 7 | 0/7 | 0% | $-127 | -44% | — | $1 | **$-127** | 1.2x | 0 | [🔗](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
 | 🔴 | [`DHfshpzoC9Q7rz32j5ju...`](wallets/PRD_DHfshpzoC9Q7rz32j5ju.md) | 8 | 1/7 | 12% | $-193 | -58% | — | $2 | **$-193** | 1.7x | 0 | [🔗](https://solscan.io/account/DHfshpzoC9Q7rz32j5juq2do3Bo8bA1KLmkNiRYaA8tf) |
 | 🔴 | [`DDApL88zun3vGuhkxkUx...`](wallets/PRD_DDApL88zun3vGuhkxkUx.md) | 9 | 0/9 | 0% | $-261 | -65% | — | $3 | **$-261** | 1.5x | 0 | [🔗](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
-| 🔴 | [`2w85VLX4W4qm8SPS7UJ3...`](wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 16 | 2/11 | 15% | $-292 | -56% | $-8 | $4 | **$-300** | 1.5x | 3 | [🔗](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
-| 🔴 | [`r9pFHjFe2CiovRvrakTC...`](wallets/PRD_r9pFHjFe2CiovRvrakTC.md) | 15 | 0/15 | 0% | $-408 | -74% | — | $4 | **$-408** | 1.3x | 0 | [🔗](https://solscan.io/account/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) |
+| 🔴 | [`2w85VLX4W4qm8SPS7UJ3...`](wallets/PRD_2w85VLX4W4qm8SPS7UJ3.md) | 16 | 2/11 | 15% | $-292 | -56% | $-9 | $4 | **$-301** | 1.5x | 3 | [🔗](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
+| 🔴 | [`r9pFHjFe2CiovRvrakTC...`](wallets/PRD_r9pFHjFe2CiovRvrakTC.md) | 15 | 0/15 | 0% | $-407 | -74% | — | $4 | **$-407** | 1.3x | 0 | [🔗](https://solscan.io/account/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) |
 
 ## Followed Wallets (15)
 
