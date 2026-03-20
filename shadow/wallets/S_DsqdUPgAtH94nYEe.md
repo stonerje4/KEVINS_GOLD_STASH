@@ -1,6 +1,6 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 07:10 UTC
+> [View on Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-20 07:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (8 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+30 |
-| 📦 Unrealized | $-42 |
-| 🏦 Total | **$-13** |
+| 📦 Unrealized | $-54 |
+| 🏦 Total | **$-24** |
 | Best Trade | 1.3x |
 | Avg Peak | 3.4x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 AVATAR | $0.000041 | **1.60x** ($+60) | 1.89x |  | pumpswap | 2026-03-20 06:56 |
+| 🟡 AVATAR | $0.000041 | **1.49x** ($+49) | 1.89x |  | pumpswap | 2026-03-20 06:56 |
 | 🟡 Saleh | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:46 |
 | 🔴 MENACE | $0.000009 | **0.43x** ($-57) | 1.12x |  | pumpswap | 2026-03-20 06:11 |
 | 🟡 DRIVE | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:02 |

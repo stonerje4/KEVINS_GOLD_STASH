@@ -1,16 +1,16 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 07:10 UTC
+> [View on Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-20 07:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 35 (0 open, 35 closed) |
-| W/L | 0/35 (0%) |
-| 💵 Realized | $-3,497 |
+| Positions | 36 (0 open, 36 closed) |
+| W/L | 0/36 (0%) |
+| 💵 Realized | $-3,596 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-3,497** |
+| 🏦 Total | **$-3,596** |
 | Best Trade | 0.0x |
 | Avg Peak | 1.0x |
 
@@ -23,6 +23,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 ZeroG | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:15 → 2026-03-20 07:15 |
 | 🔴 F-35 | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:42 → 2026-03-20 06:42 |
 | 🔴 F-35 | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:39 → 2026-03-20 06:39 |
 | 🔴 F-35 | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-20 06:37 → 2026-03-20 06:37 |
