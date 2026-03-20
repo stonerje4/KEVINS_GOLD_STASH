@@ -1,6 +1,6 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 22:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-20 22:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (12 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-163 |
-| 📦 Unrealized | $+162 |
-| 🏦 Total | **$-1** |
+| 📦 Unrealized | $+153 |
+| 🏦 Total | **$-10** |
 | Best ROI | 1.02x |
 | Avg ROI | 0.67x |
 
@@ -19,10 +19,10 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CRACK | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 21:41 |
-| 🔴 Jessica | $0.000008 | **0.51x** ($-49) | 1.27x |  | pumpswap | 2026-03-20 21:32 |
+| 🔴 Jessica | $0.000008 | **0.46x** ($-54) | 1.27x |  | pumpswap | 2026-03-20 21:32 |
 | 🟢 Jessica | $0.000015 | **2.50x** ($+150) | 2.50x | ✅ | pumpfun | 2026-03-20 21:32 |
 | 🟡 Dickus | $0.000007 | **1.10x** ($+10) | 1.13x |  | pumpswap | 2026-03-20 21:27 |
-| 🔴 BUFFALO | $0.000008 | **0.67x** ($-33) | 1.22x |  | pumpfun | 2026-03-20 21:20 |
+| 🔴 BUFFALO | $0.000008 | **0.64x** ($-36) | 1.22x |  | pumpfun | 2026-03-20 21:20 |
 | 🟡 Cigify | $0.000033 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 21:14 |
 | 🟡 HELLO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:12 |
 | 🔴 NORRIS | $0.000006 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 14:16 |

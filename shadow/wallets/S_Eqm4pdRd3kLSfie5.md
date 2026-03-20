@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 22:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 22:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 26 (18 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-277 |
-| 📦 Unrealized | $+98 |
-| 🏦 Total | **$-179** |
+| 📦 Unrealized | $+167 |
+| 🏦 Total | **$-110** |
 | Best ROI | 1.32x |
 | Avg ROI | 0.65x |
 
@@ -18,15 +18,15 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SNIFFER | $0.000026 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-20 22:13 |
-| 🟢 LIFE | $0.000005 | **4.26x** ($+326) | 5.30x | ✅ | pumpfun | 2026-03-20 21:52 |
-| 🔴 JEREMY | $0.000016 | **0.68x** ($-32) | 1.05x |  | pumpswap | 2026-03-20 20:56 |
+| 🟡 SNIFFER | $0.000026 | **1.01x** ($+1) | 1.09x |  | pumpswap | 2026-03-20 22:13 |
+| 🚀 LIFE | $0.000005 | **6.68x** ($+568) | 6.68x | ✅ | pumpfun | 2026-03-20 21:52 |
+| 🔴 JEREMY | $0.000016 | **0.67x** ($-33) | 1.05x |  | pumpswap | 2026-03-20 20:56 |
 | 🟢 Cigify | $0.000010 | **3.68x** ($+268) | 3.68x | ✅ | pumpfun | 2026-03-20 20:55 |
-| 🔴 Samba | $0.000015 | **0.77x** ($-23) | 1.35x |  | pumpswap | 2026-03-20 20:42 |
+| 🔴 Samba | $0.000015 | **0.73x** ($-27) | 1.35x |  | pumpswap | 2026-03-20 20:42 |
 | 🟡 6eZMXJNA | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 20:29 |
 | 🔴 Aura | $0.000006 | **0.71x** ($-29) | 1.31x |  | pumpfun | 2026-03-20 20:22 |
 | 🔴 Forget | $0.000008 | **0.93x** ($-7) | 1.59x |  | pumpswap | 2026-03-20 19:24 |
-| 🔴 Massive | $0.000029 | **0.65x** ($-35) | 1.10x |  | pumpswap | 2026-03-20 18:52 |
+| 🔴 Massive | $0.000029 | **0.61x** ($-39) | 1.10x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 Sunshine | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
 | 🟡 SBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:34 |
 | 🟡 cigarette | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |

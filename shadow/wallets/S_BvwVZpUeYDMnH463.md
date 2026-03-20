@@ -1,12 +1,12 @@
 # Wallet: `BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y`
 
-> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 22:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-20 22:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (4 open, 1 closed) |
+| Positions | 6 (5 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $-23 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LIFE | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:23 |
 | 🟡 CRACK | $0.000021 | **1.78x** ($+78) | 1.78x |  | pumpfun | 2026-03-20 19:41 |
 | 🔴 xcat | $0.000006 | **0.60x** ($-40) | 1.12x |  | pumpfun | 2026-03-20 18:06 |
 | 🔴 ONESHOTTED | $0.000009 | **0.90x** ($-10) | 1.17x |  | pumpswap | 2026-03-19 22:51 |

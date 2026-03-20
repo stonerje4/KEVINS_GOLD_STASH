@@ -1,6 +1,6 @@
 # Wallet: `7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp`
 
-> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 22:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | [Solscan](https://solscan.io/account/7EautDJGQDzgktooscvQ8mP5Xpu2q91YcvEqgekredbp) | Updated: 2026-03-20 22:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-87 |
-| 🏦 Total | **$-148** |
+| 📦 Unrealized | $-91 |
+| 🏦 Total | **$-152** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -21,7 +21,7 @@
 | 🟡 spec | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:30 |
 | 🔴 Chibis | $0.000025 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 11:07 |
 | 🟡 Freebuff | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:48 |
-| 🔴 CHANNELS | $0.000026 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
+| 🔴 CHANNELS | $0.000026 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 Luxury | $0.000029 | **0.79x** ($-21) | 1.06x |  | pumpswap | 2026-03-20 02:06 |
 | 🟡 SAVED | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:51 |

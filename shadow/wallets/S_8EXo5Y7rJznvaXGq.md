@@ -1,6 +1,6 @@
 # Wallet: `8EXo5Y7rJznvaXGqKG7X4JiMMsjefmuJZbr859Xc9Zgg`
 
-> [GMGN](https://gmgn.ai/sol/address/8EXo5Y7rJznvaXGqKG7X4JiMMsjefmuJZbr859Xc9Zgg) | [Solscan](https://solscan.io/account/8EXo5Y7rJznvaXGqKG7X4JiMMsjefmuJZbr859Xc9Zgg) | Updated: 2026-03-20 22:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/8EXo5Y7rJznvaXGqKG7X4JiMMsjefmuJZbr859Xc9Zgg) | [Solscan](https://solscan.io/account/8EXo5Y7rJznvaXGqKG7X4JiMMsjefmuJZbr859Xc9Zgg) | Updated: 2026-03-20 22:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+21 |
-| 🏦 Total | **$-40** |
+| 📦 Unrealized | $+90 |
+| 🏦 Total | **$+29** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LIFE | $0.000019 | **1.21x** ($+21) | 1.51x |  | pumpfun | 2026-03-20 22:17 |
+| 🟡 LIFE | $0.000019 | **1.90x** ($+90) | 1.90x |  | pumpfun | 2026-03-20 22:17 |
 
 ## Closed Positions
 

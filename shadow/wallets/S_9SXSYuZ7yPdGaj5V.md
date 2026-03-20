@@ -1,6 +1,6 @@
 # Wallet: `9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc`
 
-> [GMGN](https://gmgn.ai/sol/address/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | [Solscan](https://solscan.io/account/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | Updated: 2026-03-20 22:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | [Solscan](https://solscan.io/account/9SXSYuZ7yPdGaj5VL4KQvrqU5s4vg1vgDKTX9hLHv8uc) | Updated: 2026-03-20 22:25 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-81 |
 | 📦 Unrealized | $+19 |
-| 🏦 Total | **$-62** |
+| 🏦 Total | **$-61** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.60x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 F3 | $0.000009 | **2.52x** ($+152) | 2.89x | ✅ | pumpfun | 2026-03-20 17:44 |
+| 🟢 F3 | $0.000009 | **2.92x** ($+192) | 3.05x | ✅ | pumpfun | 2026-03-20 17:44 |
 | 🔴 Slap | $0.000006 | **0.43x** ($-57) | 1.57x |  | pumpfun | 2026-03-20 09:34 |
 
 ## Closed Positions
