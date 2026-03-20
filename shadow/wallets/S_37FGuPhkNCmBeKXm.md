@@ -1,6 +1,6 @@
 # Wallet: `37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK`
 
-> [GMGN](https://gmgn.ai/sol/address/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK) | [Solscan](https://solscan.io/account/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK) | Updated: 2026-03-20 20:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK) | [Solscan](https://solscan.io/account/37FGuPhkNCmBeKXmrKNfXe7BWR1QtG3L26CGs1a7xyLK) | Updated: 2026-03-20 20:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-62 |
-| 🏦 Total | **$-62** |
+| 📦 Unrealized | $-72 |
+| 🏦 Total | **$-72** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 e/alt | $0.000005 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 19:19 |
 | 🔴 5 | $0.000008 | **0.97x** ($-3) | 1.01x |  | pumpswap | 2026-03-20 19:18 |
-| 🔴 Chud | $0.000030 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 19:15 |
+| 🔴 Chud | $0.000030 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 19:15 |
 | 🔴 DM | $0.000024 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 19:02 |
 | 🔴 Monke | $0.000014 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-19 23:31 |
 

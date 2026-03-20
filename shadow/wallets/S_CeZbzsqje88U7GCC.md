@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 20:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-20 20:25 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-175 |
 | 📦 Unrealized | $+254 |
-| 🏦 Total | **$+80** |
+| 🏦 Total | **$+79** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.71x |
 
@@ -28,7 +28,7 @@
 | 🟡 Stanley | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:59 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:42 |
 | 🟡 Ancestors | $0.000006 | **1.37x** ($+37) | 1.53x |  | pumpfun | 2026-03-20 00:47 |
-| 🔴 Ouroboros | $0.000035 | **0.48x** ($-52) | 1.03x |  | pumpswap | 2026-03-20 00:46 |
+| 🔴 Ouroboros | $0.000035 | **0.47x** ($-53) | 1.03x |  | pumpswap | 2026-03-20 00:46 |
 | 🟡 trump | $0.000006 | **1.17x** ($+17) | 2.88x | ✅ | pumpfun | 2026-03-19 23:36 |
 
 ## Closed Positions

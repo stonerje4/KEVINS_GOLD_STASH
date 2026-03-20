@@ -1,16 +1,16 @@
 # Wallet: `8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe`
 
-> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 20:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | [Solscan](https://solscan.io/account/8wqWfTWNbgHdLkjTbDXaLxgtbuYBjEC7Uuz1PeezXKwe) | Updated: 2026-03-20 20:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (5 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-311 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-311** |
+| Positions | 10 (4 open, 6 closed) |
+| W/L | 0/6 (0%) |
+| 💵 Realized | $-372 |
+| 📦 Unrealized | $-21 |
+| 🏦 Total | **$-393** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.38x |
 
@@ -18,9 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WRONG | $0.000007 | **0.56x** ($-44) | 1.12x |  | pumpfun | 2026-03-20 20:13 |
-| 🟡 wbs | $0.000012 | **1.03x** ($+3) | 1.23x |  | pumpfun | 2026-03-20 20:10 |
-| 🟡 POLARA | $0.000020 | **1.42x** ($+42) | 1.61x |  | pumpfun | 2026-03-20 18:30 |
+| 🔴 WRONG | $0.000007 | **0.52x** ($-48) | 1.12x |  | pumpfun | 2026-03-20 20:13 |
+| 🟡 wbs | $0.000012 | **1.27x** ($+27) | 1.32x |  | pumpfun | 2026-03-20 20:10 |
 | 🟡 Sunshine | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:34 |
 | 🟡 MFT | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:33 |
 
@@ -29,6 +28,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 CAT | 0.39x | $-61 | stop_loss | 1.33x | pumpfun | 2026-03-20 18:56 → 2026-03-20 19:31 |
+| 🔴 POLARA | 0.39x | $-61 | stop_loss | 1.61x | pumpfun | 2026-03-20 18:30 → 2026-03-20 20:24 |
 | 🔴 wstDOG | 0.36x | $-64 | stop_loss | 1.00x | pumpfun | 2026-03-20 17:57 → 2026-03-20 18:00 |
 | 🔴 FROGS | 0.37x | $-63 | stop_loss | 1.00x | pumpfun | 2026-03-20 17:34 → 2026-03-20 17:41 |
 | 🔴 FROGE | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 17:33 → 2026-03-20 17:37 |

@@ -1,6 +1,6 @@
 # Wallet: `D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq`
 
-> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 20:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-20 20:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (11 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-129 |
-| 📦 Unrealized | $+2 |
-| 🏦 Total | **$-127** |
+| 📦 Unrealized | $-1 |
+| 🏦 Total | **$-130** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.36x |
 
@@ -22,7 +22,7 @@
 | 🟡 ME | $0.000021 | **1.01x** ($+1) | 1.07x |  | pumpfun | 2026-03-20 16:37 |
 | 🟡 LNG | $0.000021 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 16:35 |
 | 🟡 CUJO | $0.000019 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 16:34 |
-| 🔴 BABYCHIBI | $0.000015 | **0.88x** ($-12) | 1.18x |  | pumpfun | 2026-03-20 16:26 |
+| 🔴 BABYCHIBI | $0.000015 | **0.85x** ($-15) | 1.18x |  | pumpfun | 2026-03-20 16:26 |
 | 🟡 Chibijak | $0.000014 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 15:18 |
 | 🟡 CHIBIS | $0.000015 | **1.01x** ($+1) | 1.05x |  | pumpfun | 2026-03-20 15:17 |
 | 🔴 tired | $0.000011 | **0.76x** ($-24) | 1.22x |  | pumpfun | 2026-03-20 14:16 |

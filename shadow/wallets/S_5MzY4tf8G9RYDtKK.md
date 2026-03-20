@@ -1,24 +1,23 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 20:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 20:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 42 (20 open, 22 closed) |
-| W/L | 2/20 (9%) |
-| 💵 Realized | $-750 |
-| 📦 Unrealized | $-201 |
-| 🏦 Total | **$-952** |
+| Positions | 42 (19 open, 23 closed) |
+| W/L | 2/21 (9%) |
+| 💵 Realized | $-810 |
+| 📦 Unrealized | $-230 |
+| 🏦 Total | **$-1,040** |
 | Best ROI | 2.93x |
-| Avg ROI | 0.66x |
+| Avg ROI | 0.65x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 POLARA | $0.000022 | **1.28x** ($+28) | 1.46x |  | pumpfun | 2026-03-20 18:25 |
 | 🟢 MFT | $0.000014 | **2.16x** ($+116) | 2.27x | ✅ | pumpfun | 2026-03-20 16:04 |
 | 🔴 CHUCK | $0.000012 | **0.81x** ($-19) | 1.09x |  | pumpfun | 2026-03-20 14:51 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
@@ -43,6 +42,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 POLARA | 0.40x | $-60 | stop_loss | 1.46x | pumpfun | 2026-03-20 18:25 → 2026-03-20 20:23 |
 | 🔴 FOID | 0.40x | $-60 | stop_loss | 1.13x | pumpfun | 2026-03-20 13:38 → 2026-03-20 15:17 |
 | 🟡 Miki | 1.50x | $+50 | trailing_stop_3x | 3.10x | pumpfun | 2026-03-20 13:12 → 2026-03-20 14:16 |
 | 🟡 Judy | 0.94x | $-6 | trailing_stop_4x | 3.84x | pumpfun | 2026-03-20 10:41 → 2026-03-20 18:53 |

@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 20:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-20 20:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (16 open, 13 closed) |
 | W/L | 1/12 (8%) |
 | 💵 Realized | $-522 |
-| 📦 Unrealized | $+318 |
-| 🏦 Total | **$-204** |
+| 📦 Unrealized | $+316 |
+| 🏦 Total | **$-205** |
 | Best ROI | 1.47x |
 | Avg ROI | 0.60x |
 
@@ -23,7 +23,7 @@
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:53 |
 | 🔴 T.E.A.M. | $0.000007 | **0.42x** ($-58) | 1.45x |  | pumpfun | 2026-03-20 15:01 |
 | 🟡 NunChucks | $0.000018 | **1.69x** ($+69) | 2.03x | ✅ | pumpfun | 2026-03-20 14:28 |
-| 🔴 clod | $0.000022 | **0.79x** ($-21) | 1.84x |  | pumpswap | 2026-03-20 12:17 |
+| 🔴 clod | $0.000022 | **0.78x** ($-22) | 1.84x |  | pumpswap | 2026-03-20 12:17 |
 | 🟢 Doolysaurus | $0.000038 | **3.78x** ($+278) | 6.40x | ✅ | pumpswap | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |
 | 🔴 Chonk | $0.000013 | **0.51x** ($-49) | 1.50x |  | pumpfun | 2026-03-20 09:44 |
