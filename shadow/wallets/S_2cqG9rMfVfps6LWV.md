@@ -1,6 +1,6 @@
 # Wallet: `2cqG9rMfVfps6LWVtTC3cHNqQX15ZYgWDAKF4uXgwtPF`
 
-> [GMGN](https://gmgn.ai/sol/address/2cqG9rMfVfps6LWVtTC3cHNqQX15ZYgWDAKF4uXgwtPF) | [Solscan](https://solscan.io/account/2cqG9rMfVfps6LWVtTC3cHNqQX15ZYgWDAKF4uXgwtPF) | Updated: 2026-03-20 20:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/2cqG9rMfVfps6LWVtTC3cHNqQX15ZYgWDAKF4uXgwtPF) | [Solscan](https://solscan.io/account/2cqG9rMfVfps6LWVtTC3cHNqQX15ZYgWDAKF4uXgwtPF) | Updated: 2026-03-20 20:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-56 |
-| 🏦 Total | **$-117** |
+| 📦 Unrealized | $-58 |
+| 🏦 Total | **$-118** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Alien | $0.000035 | **0.44x** ($-56) | 1.21x |  | pumpswap | 2026-03-20 16:28 |
+| 🔴 Alien | $0.000035 | **0.42x** ($-58) | 1.21x |  | pumpswap | 2026-03-20 16:28 |
 
 ## Closed Positions
 

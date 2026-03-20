@@ -1,6 +1,6 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 20:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-20 20:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (8 open, 14 closed) |
 | W/L | 1/13 (7%) |
 | 💵 Realized | $-605 |
-| 📦 Unrealized | $-6 |
-| 🏦 Total | **$-611** |
+| 📦 Unrealized | $+35 |
+| 🏦 Total | **$-569** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.57x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 EVERYTHING | $0.000008 | **1.33x** ($+33) | 1.89x |  | pumpfun | 2026-03-20 20:46 |
+| 🟢 EVERYTHING | $0.000008 | **2.49x** ($+149) | 2.65x | ✅ | pumpfun | 2026-03-20 20:46 |
 | 🔴 GAAS | $0.000006 | **0.46x** ($-54) | 1.33x |  | pumpfun | 2026-03-20 08:50 |
 | 🟡 TRADITION | $0.000005 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 05:10 |
 | 🔴 BitPenis | $0.000006 | **0.45x** ($-55) | 1.39x |  | pumpfun | 2026-03-20 04:59 |

@@ -1,6 +1,6 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 20:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-20 20:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (16 open, 4 closed) |
 | W/L | 3/1 (75%) |
 | 💵 Realized | $+393 |
-| 📦 Unrealized | $-670 |
-| 🏦 Total | **$-277** |
+| 📦 Unrealized | $-673 |
+| 🏦 Total | **$-280** |
 | Best ROI | 2.93x |
 | Avg ROI | 1.98x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 balanced | $0.000005 | **0.50x** ($-50) | 1.71x |  | pumpfun | 2026-03-20 20:44 |
-| 🔴 ESCAPE | $0.000005 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 20:33 |
+| 🔴 ESCAPE | $0.000005 | **0.57x** ($-43) | 1.00x |  | pumpfun | 2026-03-20 20:33 |
 | 🔴 HOLOYAHU | $0.000005 | **0.64x** ($-36) | 1.84x |  | pumpfun | 2026-03-20 18:22 |
 | 🔴 FROGE | $0.000005 | **0.51x** ($-49) | 1.88x |  | pumpfun | 2026-03-20 17:29 |
 | 🔴 Freddie | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-20 16:44 |

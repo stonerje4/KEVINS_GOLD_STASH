@@ -1,24 +1,24 @@
 # PRD Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
 
-> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-20 20:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-20 20:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Trades | 9 (2 open, 7 closed) |
-| W/L | 0/7 (0%) |
-| 💵 Realized | -0.5778 SOL ($-51.30) |
-| ⛽ Gas | 0.0269 SOL |
-| 📦 Unrealized | -0.0927 SOL |
-| 🏦 Net | **-0.6705 SOL** ($-59.53) |
+| Trades | 9 (1 open, 8 closed) |
+| W/L | 0/8 (0%) |
+| 💵 Realized | -0.6556 SOL ($-58.26) |
+| ⛽ Gas | 0.0324 SOL |
+| 📦 Unrealized | -0.0286 SOL |
+| 🏦 Net | **-0.6843 SOL** ($-60.81) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 ? | open | 0.11 | 0.62x | 1.00x | -0.0468 | — |
-| 🔴 FABIANA | open | 0.11 | 0.63x | 1.25x | -0.0459 | — |
+| 🔴 ? | closed | 0.11 | 0.40x | 1.00x | -0.0778 | stop_loss |
+| 🔴 FABIANA | open | 0.11 | 0.79x | 1.25x | -0.0286 | — |
 | 🔴 菲比啾比 | closed | 0.11 | 0.88x | 1.01x | -0.1121 | ghost_close_zero_balance |
 | 🔴 Kin-Kun | closed | 0.11 | 0.65x | 1.00x | -0.1190 | ghost_close_zero_balance |
 | 🔴 CHUCK | closed | 0.11 | 0.40x | 1.13x | -0.0713 | stop_loss |

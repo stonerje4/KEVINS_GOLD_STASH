@@ -1,6 +1,6 @@
 # Wallet: `4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF`
 
-> [GMGN](https://gmgn.ai/sol/address/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | [Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 20:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | [Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-20 20:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+69 |
-| 🏦 Total | **$-52** |
+| 📦 Unrealized | $+39 |
+| 🏦 Total | **$-82** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -19,9 +19,9 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Coglet | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:37 |
-| 🟡 PHM | $0.000007 | **1.37x** ($+37) | 1.37x |  | pumpfun | 2026-03-20 11:11 |
+| 🟡 PHM | $0.000007 | **1.22x** ($+22) | 1.37x |  | pumpfun | 2026-03-20 11:11 |
 | 🔴 BOAT | $0.000008 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 05:47 |
-| 🟡 Obsessed | $0.000008 | **1.60x** ($+60) | 1.68x |  | pumpswap | 2026-03-20 05:04 |
+| 🟡 Obsessed | $0.000008 | **1.93x** ($+93) | 2.23x | ✅ | pumpswap | 2026-03-20 05:04 |
 
 ## Closed Positions
 

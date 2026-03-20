@@ -1,30 +1,29 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 20:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 20:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (17 open, 8 closed) |
-| W/L | 0/8 (0%) |
-| 💵 Realized | $-389 |
-| 📦 Unrealized | $-106 |
-| 🏦 Total | **$-495** |
+| Positions | 25 (16 open, 9 closed) |
+| W/L | 0/9 (0%) |
+| 💵 Realized | $-452 |
+| 📦 Unrealized | $-102 |
+| 🏦 Total | **$-554** |
 | Best ROI | 0.85x |
-| Avg ROI | 0.51x |
+| Avg ROI | 0.50x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ✨ | $0.000009 | **0.57x** ($-43) | 1.07x |  | pumpfun | 2026-03-20 20:49 |
-| 🔴 BVG | $0.000007 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-20 20:47 |
+| 🔴 BVG | $0.000007 | **0.66x** ($-34) | 1.00x |  | pumpfun | 2026-03-20 20:47 |
 | 🟡 IShowSpeed | $0.000015 | **1.03x** ($+3) | 1.07x |  | pumpswap | 2026-03-20 20:22 |
-| 🔴 ROUNDHOUSE | $0.000009 | **0.56x** ($-44) | 1.33x |  | pumpswap | 2026-03-20 19:29 |
+| 🔴 ROUNDHOUSE | $0.000009 | **0.53x** ($-47) | 1.33x |  | pumpswap | 2026-03-20 19:29 |
 | 🟡 Lana | $0.000021 | **1.32x** ($+32) | 1.78x |  | pumpfun | 2026-03-20 17:04 |
 | 🟡 Lana | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:48 |
-| 🟡 LIBERTY | $0.000027 | **1.39x** ($+39) | 1.41x |  | pumpswap | 2026-03-20 16:18 |
+| 🟡 LIBERTY | $0.000027 | **1.27x** ($+27) | 1.41x |  | pumpswap | 2026-03-20 16:18 |
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.80x |  | pumpswap | 2026-03-20 15:43 |
 | 🔴 LEE | $0.000008 | **0.63x** ($-37) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
@@ -40,6 +39,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 ✨ | 0.37x | $-63 | stop_loss | 1.07x | pumpfun | 2026-03-20 20:49 → 2026-03-20 20:51 |
 | 🔴 HelloWorld! | 0.37x | $-63 | stop_loss | 1.03x | pumpswap | 2026-03-20 16:55 → 2026-03-20 16:58 |
 | 🟡 CRYPTOKING | 0.85x | $-15 | trailing_stop_2x | 2.14x | pumpfun | 2026-03-20 16:09 → 2026-03-20 16:13 |
 | 🔴 HELLO | 0.38x | $-62 | stop_loss | 1.15x | pumpfun | 2026-03-20 16:04 → 2026-03-20 16:12 |

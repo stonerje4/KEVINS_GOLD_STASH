@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 20:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-20 20:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (12 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $-65 |
-| 🏦 Total | **$-248** |
+| 📦 Unrealized | $-70 |
+| 🏦 Total | **$-253** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Minmiko | $0.000009 | **2.42x** ($+142) | 2.73x | ✅ | pumpfun | 2026-03-20 20:28 |
+| 🟢 Minmiko | $0.000009 | **2.37x** ($+137) | 2.73x | ✅ | pumpfun | 2026-03-20 20:28 |
 | 🟡 BOUNCE | $0.000006 | **1.01x** ($+1) | 1.08x |  | pumpfun | 2026-03-20 20:16 |
 | 🟡 Cow | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:10 |
 | 🟡 Invincible | $0.000006 | **1.12x** ($+12) | 1.24x |  | pumpswap | 2026-03-20 08:19 |
@@ -26,7 +26,7 @@
 | 🔴 CARROT | $0.000009 | **0.90x** ($-10) | 1.12x |  | pumpswap | 2026-03-20 06:42 |
 | 🔴 METEOR | $0.000005 | **0.53x** ($-47) | 1.15x |  | pumpfun | 2026-03-20 05:43 |
 | 🔴 TRASHBAG | $0.000008 | **0.52x** ($-48) | 1.04x |  | pumpswap | 2026-03-20 03:53 |
-| 🔴 Loui | $0.000005 | **0.92x** ($-8) | 1.81x |  | pumpfun | 2026-03-20 01:32 |
+| 🔴 Loui | $0.000005 | **0.89x** ($-11) | 1.81x |  | pumpfun | 2026-03-20 01:32 |
 | 🟡 SURVIVOR | $0.000008 | **1.39x** ($+39) | 1.60x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 italianrot | $0.000008 | **0.77x** ($-23) | 1.01x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 Trillium | $0.000006 | **0.67x** ($-33) | 1.95x |  | pumpfun | 2026-03-19 22:36 |
