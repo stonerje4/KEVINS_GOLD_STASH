@@ -1,23 +1,24 @@
 # Wallet: `Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm`
 
-> [View on Solscan](https://solscan.io/account/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | Updated: 2026-03-20 12:59 UTC
+> [View on Solscan](https://solscan.io/account/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | Updated: 2026-03-20 13:03 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (7 open, 1 closed) |
+| Positions | 9 (8 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+196 |
-| 📦 Unrealized | $-131 |
-| 🏦 Total | **$+65** |
-| Best ROI | 2.96x |
-| Avg ROI | 2.96x |
+| 📦 Unrealized | $-130 |
+| 🏦 Total | **$+66** |
+| Best Trade | 3.0x |
+| Avg Peak | 5.4x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Dooly | $0.000004 | **1.01x** ($+1) | 1.08x |  | pumpfun | 2026-03-20 12:59 |
 | 🔴 Chibi | $0.000004 | **0.74x** ($-26) | 1.30x |  | pumpfun | 2026-03-20 10:38 |
 | 🔴 CHIBLON | $0.000005 | **0.95x** ($-5) | 1.47x |  | pumpfun | 2026-03-20 09:57 |
 | 🔴 Sunshine | $0.000003 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-20 09:15 |

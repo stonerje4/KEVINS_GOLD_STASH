@@ -1,23 +1,24 @@
 # Wallet: `8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt`
 
-> [View on Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 12:59 UTC
+> [View on Solscan](https://solscan.io/account/8e3rSXunFGgKc3NKQbKd4FCMCDDxEXsYDozuq27gKDt) | Updated: 2026-03-20 13:03 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (4 open, 2 closed) |
+| Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-79 |
-| 📦 Unrealized | $+96 |
-| 🏦 Total | **$+17** |
-| Best ROI | 0.82x |
-| Avg ROI | 0.60x |
+| 📦 Unrealized | $+83 |
+| 🏦 Total | **$+4** |
+| Best Trade | 0.8x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 RULEBOOK | $0.000075 | **0.87x** ($-13) | 1.03x |  | pumpswap | 2026-03-20 13:02 |
 | 🟡 spaghetti | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:43 |
 | 🟡 Downald | $0.000528 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:14 |
 | 🟡 effect | $0.000024 | **1.51x** ($+51) | 1.51x |  | pumpfun | 2026-03-20 10:06 |

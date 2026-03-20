@@ -1,6 +1,6 @@
 # Wallet: `H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6`
 
-> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 12:59 UTC
+> [View on Solscan](https://solscan.io/account/H8XPEqv6CuNqpyDx3Dyc3CWq1AUvsQwbPmXBpFXdFb6) | Updated: 2026-03-20 13:03 UTC
 
 ## Summary
 
@@ -11,14 +11,14 @@
 | 💵 Realized | $-1,144 |
 | 📦 Unrealized | $-1,068 |
 | 🏦 Total | **$-2,213** |
-| Best ROI | 1.49x |
-| Avg ROI | 0.56x |
+| Best Trade | 1.5x |
+| Avg Peak | 1.8x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 RULEBOOK | $0.000056 | **1.16x** ($+16) | 1.23x |  | pumpswap | 2026-03-20 12:57 |
+| 🟡 RULEBOOK | $0.000056 | **1.16x** ($+16) | 1.39x |  | pumpswap | 2026-03-20 12:57 |
 | 🟡 SNIFFER | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:54 |
 | 🟡 됴지님 | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:53 |
 | 🟡 9FuC9Jor | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:42 |
