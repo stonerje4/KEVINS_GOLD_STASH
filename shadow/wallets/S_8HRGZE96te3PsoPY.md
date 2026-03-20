@@ -1,6 +1,6 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 09:46 UTC
+> [View on Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-20 09:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 30 (19 open, 11 closed) |
 | W/L | 2/9 (18%) |
 | 💵 Realized | $-393 |
-| 📦 Unrealized | $-650 |
-| 🏦 Total | **$-1,043** |
+| 📦 Unrealized | $-649 |
+| 🏦 Total | **$-1,042** |
 | Best Trade | 1.4x |
 | Avg Peak | 2.3x |
 

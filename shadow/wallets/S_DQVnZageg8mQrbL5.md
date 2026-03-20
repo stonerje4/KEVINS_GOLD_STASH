@@ -1,6 +1,6 @@
 # Wallet: `DQVnZageg8mQrbL5qRc5P3qAWxFGXfQvKdy1bFwuHQi2`
 
-> [View on Solscan](https://solscan.io/account/DQVnZageg8mQrbL5qRc5P3qAWxFGXfQvKdy1bFwuHQi2) | Updated: 2026-03-20 09:46 UTC
+> [View on Solscan](https://solscan.io/account/DQVnZageg8mQrbL5qRc5P3qAWxFGXfQvKdy1bFwuHQi2) | Updated: 2026-03-20 09:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-2 |
-| 🏦 Total | **$-2** |
+| 📦 Unrealized | $-7 |
+| 🏦 Total | **$-7** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Hyojo | $0.000003 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 03:45 |
 | 🟡 Qi | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
-| 🔴 chance | $0.000002 | **0.99x** ($-1) | 1.14x |  | pumpswap | 2026-03-20 03:26 |
+| 🔴 chance | $0.000002 | **0.94x** ($-6) | 1.14x |  | pumpswap | 2026-03-20 03:26 |
 
 ## Closed Positions
 

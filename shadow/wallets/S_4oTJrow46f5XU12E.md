@@ -1,6 +1,6 @@
 # Wallet: `4oTJrow46f5XU12EYh5YR5VWqvmnyk5QzuRK2zUHLSJE`
 
-> [View on Solscan](https://solscan.io/account/4oTJrow46f5XU12EYh5YR5VWqvmnyk5QzuRK2zUHLSJE) | Updated: 2026-03-20 09:46 UTC
+> [View on Solscan](https://solscan.io/account/4oTJrow46f5XU12EYh5YR5VWqvmnyk5QzuRK2zUHLSJE) | Updated: 2026-03-20 09:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-3** |
+| 📦 Unrealized | $-6 |
+| 🏦 Total | **$-6** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 MILK | $0.000003 | **0.97x** ($-3) | 1.10x |  | pumpswap | 2026-03-20 07:16 |
+| 🔴 MILK | $0.000003 | **0.94x** ($-6) | 1.10x |  | pumpswap | 2026-03-20 07:16 |
 
 ## Closed Positions
 

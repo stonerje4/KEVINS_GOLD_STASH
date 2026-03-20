@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 09:46 UTC
+> [View on Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-20 09:51 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-153 |
 | 📦 Unrealized | $+26,445 |
-| 🏦 Total | **$+26,293** |
+| 🏦 Total | **$+26,292** |
 | Best Trade | 1.5x |
 | Avg Peak | 2.3x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Attention | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
-| 🚀 CORPORATE | $0.000000 | **113.93x** ($+11,293) | 761.14x | ✅ | pumpfun | 2026-03-20 05:17 |
+| 🚀 CORPORATE | $0.000000 | **113.90x** ($+11,290) | 761.14x | ✅ | pumpfun | 2026-03-20 05:17 |
 | 🟡 Simulation | $0.000002 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:58 |
 | 🟡 Luxury | $0.000001 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:54 |
 | 🟡 Sentinel | $0.000000 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:53 |

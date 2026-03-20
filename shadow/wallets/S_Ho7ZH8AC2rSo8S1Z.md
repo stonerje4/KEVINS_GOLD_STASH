@@ -1,6 +1,6 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [View on Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 09:46 UTC
+> [View on Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-20 09:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-27 |
-| 🏦 Total | **$-88** |
+| 📦 Unrealized | $-52 |
+| 🏦 Total | **$-113** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.4x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBI | $0.000011 | **0.96x** ($-4) | 1.05x |  | pumpfun | 2026-03-20 09:42 |
+| 🔴 CHIBI | $0.000011 | **0.71x** ($-29) | 1.05x |  | pumpfun | 2026-03-20 09:42 |
 | 🔴 JUMP | $0.000018 | **0.75x** ($-25) | 1.74x |  | pumpfun | 2026-03-20 02:01 |
 | 🔴 bear | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-20 00:20 |
 | 🔴 Machi | $0.000832 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-19 23:14 |

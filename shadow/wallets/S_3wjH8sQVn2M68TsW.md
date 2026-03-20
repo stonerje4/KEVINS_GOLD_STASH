@@ -1,6 +1,6 @@
 # Wallet: `3wjH8sQVn2M68TsW17Nh9fpddQU11Mf6kDrf7x9BG1KC`
 
-> [View on Solscan](https://solscan.io/account/3wjH8sQVn2M68TsW17Nh9fpddQU11Mf6kDrf7x9BG1KC) | Updated: 2026-03-20 09:46 UTC
+> [View on Solscan](https://solscan.io/account/3wjH8sQVn2M68TsW17Nh9fpddQU11Mf6kDrf7x9BG1KC) | Updated: 2026-03-20 09:51 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-129** |
+| 📦 Unrealized | $-11 |
+| 🏦 Total | **$-132** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBELON | $0.000180 | **0.99x** ($-1) | 1.23x |  | pumpswap | 2026-03-20 08:34 |
+| 🔴 CHIBELON | $0.000180 | **0.97x** ($-3) | 1.23x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 唐子兵法 | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:49 |
 | 🔴 Optimistrump | $0.000003 | **0.93x** ($-7) | 1.83x |  | pumpswap | 2026-03-20 00:25 |
 | 🟡 NEXUS | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 00:22 |
