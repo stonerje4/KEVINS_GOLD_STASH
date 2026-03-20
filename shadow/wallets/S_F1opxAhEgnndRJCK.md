@@ -1,6 +1,6 @@
-# Wallet: `EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX`
+# Wallet: `F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS`
 
-> [View on Solscan](https://solscan.io/account/EhhBh8FLioNMA7MYMZNtLwo3hZaAEqX1UsJeSQXeYbGX) | Updated: 2026-03-20 13:08 UTC
+> [View on Solscan](https://solscan.io/account/F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS) | Updated: 2026-03-20 13:08 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CLAWDIA | $0.000003 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:36 |
+| 🟡 Beecat | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:06 |
 
 ## Closed Positions
 

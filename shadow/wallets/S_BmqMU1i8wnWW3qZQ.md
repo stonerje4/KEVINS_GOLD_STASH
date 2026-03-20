@@ -1,23 +1,26 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 13:04 UTC
+> [View on Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-20 13:08 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 408 (403 open, 5 closed) |
+| Positions | 411 (406 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $-1,057 |
-| 🏦 Total | **$-1,143** |
-| Best ROI | 2.75x |
-| Avg ROI | 0.83x |
+| 📦 Unrealized | $-1,089 |
+| 🏦 Total | **$-1,174** |
+| Best Trade | 2.8x |
+| Avg Peak | 2.2x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 shitcoin | $0.000409 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 13:07 |
+| 🔴 Goyim | $0.000707 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 13:06 |
+| 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
 | 🟡 KAGE | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:47 |
 | 🟡 ZENT | $0.000131 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:45 |
 | 🟡 Sybil  | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:44 |

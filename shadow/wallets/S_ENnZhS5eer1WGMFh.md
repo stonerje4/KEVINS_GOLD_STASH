@@ -1,6 +1,6 @@
 # Wallet: `ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F`
 
-> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 13:04 UTC
+> [View on Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-20 13:08 UTC
 
 ## Summary
 
@@ -9,16 +9,16 @@
 | Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+15 |
-| 🏦 Total | **$+15** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| 📦 Unrealized | $+38 |
+| 🏦 Total | **$+38** |
+| Best Trade | 0.0x |
+| Avg Peak | 0.0x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 RULEBOOK | $0.000054 | **1.07x** ($+7) | 1.45x |  | pumpswap | 2026-03-20 12:58 |
+| 🟡 RULEBOOK | $0.000054 | **1.29x** ($+29) | 1.45x |  | pumpswap | 2026-03-20 12:58 |
 | 🟡 effect | $0.000067 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:18 |
 | 🟡 SIGNAL | $0.000041 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:52 |
 | 🟡 Pixels | $0.000079 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:28 |
