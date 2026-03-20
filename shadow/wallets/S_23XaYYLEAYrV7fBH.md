@@ -1,6 +1,6 @@
 # Wallet: `23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp`
 
-> [View on Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 09:11 UTC
+> [View on Solscan](https://solscan.io/account/23XaYYLEAYrV7fBHWWT5WNvUbxkdPDN5H8izv5Fx6iWp) | Updated: 2026-03-20 09:16 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-138 |
-| 📦 Unrealized | $-40 |
-| 🏦 Total | **$-178** |
+| 📦 Unrealized | $-33 |
+| 🏦 Total | **$-171** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.1x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Kin-kun | $0.000005 | **0.98x** ($-2) | 1.25x |  | pumpfun | 2026-03-20 09:09 |
-| 🔴 Kin-kun | $0.000015 | **0.69x** ($-31) | 1.14x |  | pumpfun | 2026-03-20 09:01 |
+| 🟡 Kin-kun | $0.000005 | **1.07x** ($+7) | 1.25x |  | pumpfun | 2026-03-20 09:09 |
+| 🔴 Kin-kun | $0.000015 | **0.68x** ($-32) | 1.14x |  | pumpfun | 2026-03-20 09:01 |
 | 🟡 Nemunemu | $0.000005 | **1.02x** ($+2) | 1.10x |  | pumpswap | 2026-03-20 04:52 |
 | 🔴 Nemunemu | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 04:52 |
 | 🔴 DLORP | $0.000012 | **0.91x** ($-9) | 1.23x |  | pumpswap | 2026-03-19 22:48 |

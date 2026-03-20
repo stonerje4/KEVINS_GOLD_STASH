@@ -1,12 +1,12 @@
 # Wallet: `NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv`
 
-> [View on Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 09:11 UTC
+> [View on Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-20 09:16 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
+| Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $-19 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 TOKEN | $0.000089 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:12 |
 | 🟡 wolverine | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:05 |
 | 🔴 chibilon | $0.000004 | **0.89x** ($-11) | 1.10x |  | pumpfun | 2026-03-20 07:35 |
 | 🔴 IMAGINE  | $0.000007 | **0.45x** ($-55) | 1.00x |  | pumpfun | 2026-03-20 04:24 |

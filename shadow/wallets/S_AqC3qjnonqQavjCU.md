@@ -1,16 +1,16 @@
 # Wallet: `AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ`
 
-> [View on Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 09:11 UTC
+> [View on Solscan](https://solscan.io/account/AqC3qjnonqQavjCUYMhiQrPLaua6TnHEVZGwZ8N6jXUJ) | Updated: 2026-03-20 09:16 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (5 open, 3 closed) |
+| Positions | 9 (6 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-98 |
-| 📦 Unrealized | $-103 |
-| 🏦 Total | **$-201** |
+| 📦 Unrealized | $-159 |
+| 🏦 Total | **$-257** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.3x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 omochi | $0.000006 | **0.44x** ($-56) | 1.08x |  | pumpfun | 2026-03-20 09:12 |
 | 🟡 CHIBIFY | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:20 |
 | 🔴 Chipe | $0.000005 | **0.47x** ($-53) | 1.21x |  | pumpfun | 2026-03-20 07:29 |
 | 🔴 G8DiKnXT | $0.000005 | **0.49x** ($-51) | 1.15x |  | pumpfun | 2026-03-20 04:13 |

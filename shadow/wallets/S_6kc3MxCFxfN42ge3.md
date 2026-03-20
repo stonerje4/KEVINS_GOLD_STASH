@@ -1,16 +1,16 @@
 # Wallet: `6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux`
 
-> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 09:11 UTC
+> [View on Solscan](https://solscan.io/account/6kc3MxCFxfN42ge3Dc7AuhgyVDkcWUKJegbRkazTQ9Ux) | Updated: 2026-03-20 09:16 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 65 (44 open, 21 closed) |
+| Positions | 66 (45 open, 21 closed) |
 | W/L | 4/17 (19%) |
 | 💵 Realized | $-549 |
-| 📦 Unrealized | $-1,257 |
-| 🏦 Total | **$-1,805** |
+| 📦 Unrealized | $-1,312 |
+| 🏦 Total | **$-1,860** |
 | Best Trade | 3.0x |
 | Avg Peak | 2.0x |
 
@@ -18,12 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Income | $0.000006 | **0.46x** ($-54) | 1.83x |  | pumpfun | 2026-03-20 09:04 |
-| 🔴 VOID | $0.000290 | **0.53x** ($-47) | 1.07x |  | cpmm | 2026-03-20 08:59 |
+| 🔴 Income | $0.000006 | **0.44x** ($-56) | 1.06x |  | pumpfun | 2026-03-20 09:13 |
+| 🔴 Income | $0.000006 | **0.44x** ($-56) | 1.83x |  | pumpfun | 2026-03-20 09:04 |
+| 🔴 VOID | $0.000290 | **0.51x** ($-49) | 1.07x |  | cpmm | 2026-03-20 08:59 |
 | 🔴 FMxZcC62 | $0.000006 | **0.42x** ($-58) | 1.01x |  | pumpfun | 2026-03-20 08:58 |
 | 🔴 GNr5Byrt | $0.000005 | **0.46x** ($-54) | 1.14x |  | pumpfun | 2026-03-20 08:56 |
 | 🔴 Grok | $0.000006 | **0.45x** ($-55) | 1.16x |  | pumpfun | 2026-03-20 08:54 |
-| 🔴 OM | $0.000013 | **0.77x** ($-23) | 1.75x |  | pumpfun | 2026-03-20 08:18 |
+| 🔴 OM | $0.000013 | **0.83x** ($-17) | 1.75x |  | pumpfun | 2026-03-20 08:18 |
 | 🔴 CjqwnET8 | $0.000006 | **0.45x** ($-55) | 1.65x |  | pumpfun | 2026-03-20 08:12 |
 | 🔴 Moe | $0.000005 | **0.53x** ($-47) | 1.12x |  | pumpfun | 2026-03-20 08:09 |
 | 🔴 BGEYapkY | $0.000005 | **0.54x** ($-46) | 1.29x |  | pumpfun | 2026-03-20 07:41 |
@@ -31,8 +32,8 @@
 | 🔴 Angrenor | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpfun | 2026-03-20 06:52 |
 | 🔴 Otocolobus | $0.000004 | **0.61x** ($-39) | 1.32x |  | pumpfun | 2026-03-20 06:49 |
 | 🔴 29tcP9b3 | $0.000004 | **0.58x** ($-42) | 1.61x |  | pumpfun | 2026-03-20 06:45 |
-| 🔴 BOAR | $0.000011 | **0.58x** ($-42) | 1.10x |  | pumpswap | 2026-03-20 06:42 |
-| 🔴 2u4WY5Ui | $0.000006 | **0.44x** ($-56) | 1.70x |  | pumpfun | 2026-03-20 06:41 |
+| 🔴 BOAR | $0.000011 | **0.57x** ($-43) | 1.10x |  | pumpswap | 2026-03-20 06:42 |
+| 🔴 2u4WY5Ui | $0.000006 | **0.43x** ($-57) | 1.70x |  | pumpfun | 2026-03-20 06:41 |
 | 🔴 Hawk | $0.000006 | **0.42x** ($-58) | 1.11x |  | pumpfun | 2026-03-20 06:26 |
 | 🔴 7MDPtxq1 | $0.000005 | **0.48x** ($-52) | 1.23x |  | pumpfun | 2026-03-20 06:00 |
 | 🔴 EA | $0.000002 | **0.77x** ($-23) | 1.48x |  | pumpswap | 2026-03-20 05:57 |

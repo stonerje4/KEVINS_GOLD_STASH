@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 09:11 UTC
+> [View on Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-20 09:16 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-14 |
-| 🏦 Total | **$-14** |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-13** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Socrates | $0.000045 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 08:41 |
+| 🔴 Socrates | $0.000045 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 08:41 |
 | 🔴 EV01 | $0.000017 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 08:19 |
 | 🟡 LUMO | $0.000047 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:33 |
 | 🔴 CHIBI | $0.001134 | **0.92x** ($-8) | 1.15x |  | pumpswap | 2026-03-20 00:49 |
