@@ -9,17 +9,17 @@
 | Positions | 33 (22 open, 11 closed) |
 | W/L | 1/10 (9%) |
 | 💵 Realized | $-401 |
-| 📦 Unrealized | $+418 |
-| 🏦 Total | **$+18** |
-| Best Trade | 1.5x |
-| Avg Peak | 2.0x |
+| 📦 Unrealized | $+414 |
+| 🏦 Total | **$+13** |
+| Best ROI | 1.47x |
+| Avg ROI | 0.64x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Steel | $0.000010 | **1.37x** ($+37) | 1.77x |  | pumpfun | 2026-03-20 14:40 |
-| 🟡 NunChucks | $0.000018 | **1.13x** ($+13) | 1.42x |  | pumpfun | 2026-03-20 14:28 |
+| 🟡 Steel | $0.000010 | **1.38x** ($+38) | 1.77x |  | pumpfun | 2026-03-20 14:40 |
+| 🟡 NunChucks | $0.000018 | **1.08x** ($+8) | 1.42x |  | pumpfun | 2026-03-20 14:28 |
 | 🟡 Chuck | $0.000062 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:17 |
 | 🟡 Chuck | $0.000328 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:56 |
 | 🟡 clod | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:17 |

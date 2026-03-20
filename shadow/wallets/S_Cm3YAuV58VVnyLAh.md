@@ -9,16 +9,16 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $+420 |
-| 🏦 Total | **$+299** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.4x |
+| 📦 Unrealized | $+409 |
+| 🏦 Total | **$+288** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🚀 methane | $0.000004 | **17.94x** ($+1,694) | 23.04x | ✅ | cpmm | 2026-03-20 13:15 |
+| 🚀 methane | $0.000004 | **17.51x** ($+1,651) | 23.04x | ✅ | cpmm | 2026-03-20 13:15 |
 
 ## Closed Positions
 

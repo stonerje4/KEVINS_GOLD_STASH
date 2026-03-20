@@ -11,14 +11,14 @@
 | 💵 Realized | $+2,003 |
 | 📦 Unrealized | $+34 |
 | 🏦 Total | **$+2,037** |
-| Best Trade | 24.9x |
-| Avg Peak | 4.6x |
+| Best ROI | 24.90x |
+| Avg ROI | 1.67x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TPH | $0.000179 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-20 14:42 |
+| 🟡 TPH | $0.000179 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 14:42 |
 | 🟡 Doom | $0.000063 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:31 |
 | 🔴 RETARDINU | $0.000115 | **0.94x** ($-6) | 1.01x |  | pumpswap | 2026-03-20 14:25 |
 | 🟡 Chuck | $0.000189 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
