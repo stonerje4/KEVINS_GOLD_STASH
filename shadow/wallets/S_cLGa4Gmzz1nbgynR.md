@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 21:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-20 22:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 67 (60 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-295 |
-| 📦 Unrealized | $-394 |
-| 🏦 Total | **$-688** |
+| 📦 Unrealized | $-393 |
+| 🏦 Total | **$-687** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.58x |
 
@@ -25,7 +25,7 @@
 | 🔴 Chud | $0.000028 | **0.89x** ($-11) | 1.06x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 FAKER | $0.000034 | **1.32x** ($+32) | 1.42x |  | pumpswap | 2026-03-20 18:10 |
 | 🔴 CHIBI | $0.000014 | **1.00x** ($-0) | 1.08x |  | pumpswap | 2026-03-20 18:08 |
-| 🔴 Situation | $0.000032 | **0.93x** ($-7) | 1.34x |  | pumpswap | 2026-03-20 17:22 |
+| 🔴 Situation | $0.000032 | **0.99x** ($-1) | 1.34x |  | pumpswap | 2026-03-20 17:22 |
 | 🔴 Sybil  | $0.000025 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
 | 🟡 PAD | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🔴 Rosei | $0.000015 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
@@ -54,7 +54,7 @@
 | 🟡 COLLECTIBLE | $0.000040 | **1.40x** ($+40) | 1.50x |  | pumpswap | 2026-03-20 03:48 |
 | 🟡 Freebuff | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:27 |
 | 🟡 WhiteBoy  | $0.000014 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:50 |
-| 🔴 VAFR | $0.000023 | **0.91x** ($-9) | 1.14x |  | pumpswap | 2026-03-20 02:40 |
+| 🔴 VAFR | $0.000023 | **0.89x** ($-11) | 1.14x |  | pumpswap | 2026-03-20 02:40 |
 | 🔴 JOC | $0.000033 | **1.00x** ($-0) | 1.19x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 YOU | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
 | 🔴 cigarette | $0.000018 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:21 |
@@ -63,7 +63,7 @@
 | 🔴 Ouroboros | $0.000029 | **0.49x** ($-51) | 1.03x |  | pumpswap | 2026-03-20 01:43 |
 | 🔴 Speak | $0.000023 | **0.49x** ($-51) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
 | 🔴 LIFE | $0.000024 | **0.89x** ($-11) | 2.66x | ✅ | pumpswap | 2026-03-20 00:52 |
-| 🟡 LUMO | $0.000027 | **1.10x** ($+10) | 2.26x | ✅ | pumpswap | 2026-03-20 00:48 |
+| 🟡 LUMO | $0.000027 | **1.07x** ($+7) | 2.26x | ✅ | pumpswap | 2026-03-20 00:48 |
 | 🔴 Saleh | $0.000013 | **0.93x** ($-7) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
 | 🟢 WRT | $0.000014 | **2.15x** ($+115) | 2.15x | ✅ | pumpswap | 2026-03-20 00:34 |
 | 🔴 Billy | $0.000011 | **0.81x** ($-19) | 1.18x |  | pumpswap | 2026-03-20 00:23 |

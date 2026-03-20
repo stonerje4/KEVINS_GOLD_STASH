@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 21:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-20 22:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 42 (37 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-169 |
-| 📦 Unrealized | $-52 |
-| 🏦 Total | **$-220** |
+| 📦 Unrealized | $-44 |
+| 🏦 Total | **$-213** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.66x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 METAMEME | $0.000006 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 20:51 |
-| 🟡 SNIFFER | $0.000034 | **1.32x** ($+32) | 1.59x |  | pumpswap | 2026-03-20 18:59 |
+| 🟡 SNIFFER | $0.000034 | **1.39x** ($+39) | 1.59x |  | pumpswap | 2026-03-20 18:59 |
 | 🔴 Octogent | $0.000006 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 18:41 |
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
 | 🔴 Dryer | $0.000016 | **0.87x** ($-13) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |

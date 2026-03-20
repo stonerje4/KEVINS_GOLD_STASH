@@ -1,6 +1,6 @@
 # PRD Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
 
-> [GMGN](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | [Solscan](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | Updated: 2026-03-20 21:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | [Solscan](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | Updated: 2026-03-20 22:00 UTC
 
 ## Summary
 
@@ -10,14 +10,14 @@
 | W/L | 0/1 (0%) |
 | 💵 Realized | -0.0753 SOL ($-6.75) |
 | ⛽ Gas | 0.0055 SOL |
-| 📦 Unrealized | +0.0418 SOL |
-| 🏦 Net | **-0.0335 SOL** ($-3.00) |
+| 📦 Unrealized | +0.0787 SOL |
+| 🏦 Net | **+0.0035 SOL** ($+0.31) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🟢 STRAWBERRIES | open | 0.11 | 1.43x | 1.43x | +0.0418 | — |
+| 🟢 STRAWBERRIES | open | 0.11 | 1.76x | 1.79x | +0.0787 | — |
 | 🔴 LIFE | closed | 0.11 | 0.39x | 1.21x | -0.0753 | stop_loss |
 
 ---
