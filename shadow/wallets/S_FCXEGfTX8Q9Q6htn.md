@@ -1,6 +1,6 @@
 # Wallet: `FCXEGfTX8Q9Q6htnGogbLrMW9FrGCBsAxyqCpBT4Tj2k`
 
-> [View on Solscan](https://solscan.io/account/FCXEGfTX8Q9Q6htnGogbLrMW9FrGCBsAxyqCpBT4Tj2k) | Updated: 2026-03-20 01:09 UTC
+> [View on Solscan](https://solscan.io/account/FCXEGfTX8Q9Q6htnGogbLrMW9FrGCBsAxyqCpBT4Tj2k) | Updated: 2026-03-20 01:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-34** |
+| 📦 Unrealized | $-51 |
+| 🏦 Total | **$-51** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SPOELON | $0.000007 | **0.66x** ($-34) | 1.24x |  | pumpfun | 2026-03-20 00:30 |
+| 🔴 SPOELON | $0.000007 | **0.49x** ($-51) | 1.24x |  | pumpfun | 2026-03-20 00:30 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 01:09 UTC
+> [View on Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-20 01:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-65 |
-| 🏦 Total | **$-65** |
+| 📦 Unrealized | $-66 |
+| 🏦 Total | **$-66** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -22,8 +22,8 @@
 | 🔴 Jorge | $0.000010 | **0.86x** ($-14) | 1.16x |  | pumpswap | 2026-03-20 00:00 |
 | 🟡 Bombardino | $0.000007 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-19 23:52 |
 | 🔴 Tincat | $0.000004 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-19 23:41 |
-| 🔴 Flash | $0.000076 | **0.76x** ($-24) | 1.02x |  | pumpswap | 2026-03-19 23:33 |
-| 🔴 DLORP | $0.000011 | **0.82x** ($-18) | 1.25x |  | pumpswap | 2026-03-19 23:08 |
+| 🔴 Flash | $0.000076 | **0.78x** ($-22) | 1.02x |  | pumpswap | 2026-03-19 23:33 |
+| 🔴 DLORP | $0.000011 | **0.81x** ($-19) | 1.25x |  | pumpswap | 2026-03-19 23:08 |
 
 ## Closed Positions
 

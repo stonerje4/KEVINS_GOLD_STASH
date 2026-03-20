@@ -1,6 +1,6 @@
 # Wallet: `6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y`
 
-> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 01:09 UTC
+> [View on Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-20 01:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
-| 📦 Unrealized | $-57 |
-| 🏦 Total | **$-9** |
+| 📦 Unrealized | $-61 |
+| 🏦 Total | **$-13** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.3x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Imaginify | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 01:04 |
-| 🔴 tremp | $0.000009 | **0.50x** ($-50) | 1.17x |  | pumpfun | 2026-03-20 00:45 |
+| 🔴 tremp | $0.000009 | **0.47x** ($-53) | 1.17x |  | pumpfun | 2026-03-20 00:45 |
 
 ## Closed Positions
 

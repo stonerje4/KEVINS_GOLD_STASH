@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 01:09 UTC
+> [View on Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-20 01:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (15 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $+15 |
-| 🏦 Total | **$+60** |
+| 📦 Unrealized | $+7 |
+| 🏦 Total | **$+52** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.6x |
 
@@ -21,7 +21,7 @@
 | 🔴 FTR | $0.000005 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 00:51 |
 | 🔴 Dickus | $0.000003 | **0.89x** ($-11) | 1.17x |  | pumpfun | 2026-03-20 00:22 |
 | 🔴 ChibiToly | $0.000004 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 00:19 |
-| 🟡 BBX | $0.000004 | **1.08x** ($+8) | 1.08x |  | pumpfun | 2026-03-20 00:16 |
+| 🟡 BBX | $0.000004 | **1.00x** ($+0) | 1.08x |  | pumpfun | 2026-03-20 00:16 |
 | 🟡 GRAFFITI | $0.000003 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 00:14 |
 | 🔴 WOJAK | $0.000007 | **0.95x** ($-5) | 1.00x |  | pumpfun | 2026-03-20 00:08 |
 | 🔴 HHSMVCWG | $0.000003 | **0.89x** ($-11) | 1.02x |  | pumpfun | 2026-03-20 00:08 |

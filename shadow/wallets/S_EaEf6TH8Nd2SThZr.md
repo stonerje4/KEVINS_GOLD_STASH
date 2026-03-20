@@ -1,18 +1,18 @@
 # Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
 
-> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 01:09 UTC
+> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 01:14 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 39 (27 open, 12 closed) |
-| W/L | 2/10 (17%) |
-| 💵 Realized | $-458 |
-| 📦 Unrealized | $+54 |
-| 🏦 Total | **$-404** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.9x |
+| Positions | 39 (26 open, 13 closed) |
+| W/L | 3/10 (23%) |
+| 💵 Realized | $+25 |
+| 📦 Unrealized | $-56 |
+| 🏦 Total | **$-31** |
+| Best Trade | 5.8x |
+| Avg Peak | 2.5x |
 
 ## Open Positions
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟢 UGOR | $0.000004 | **2.79x** ($+179) | 2.96x | ✅ | pumpfun | 2026-03-19 23:54 |
 | 🔴 TF | $0.000003 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-19 23:53 |
-| 🟡 wolverine | $0.000004 | **1.30x** ($+30) | 1.30x |  | pumpfun | 2026-03-19 23:52 |
+| 🟡 wolverine | $0.000004 | **1.61x** ($+61) | 1.61x |  | pumpfun | 2026-03-19 23:52 |
 | 🔴 TGC | $0.000005 | **0.81x** ($-19) | 1.14x |  | pumpfun | 2026-03-19 23:47 |
 | 🔴 LTF | $0.000004 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-19 23:44 |
 | 🟢 CHILLDOWN | $0.000013 | **2.91x** ($+191) | 2.91x | ✅ | pumpfun | 2026-03-19 23:44 |
@@ -36,7 +36,6 @@
 | 🔴 Strava | $0.000005 | **0.77x** ($-23) | 1.02x |  | pumpfun | 2026-03-19 23:09 |
 | 🔴 Oracle | $0.000008 | **0.96x** ($-4) | 1.13x |  | pumpfun | 2026-03-19 23:08 |
 | 🔴 Record | $0.000012 | **0.77x** ($-23) | 1.80x |  | pumpfun | 2026-03-19 23:08 |
-| 🚀 Luxury | $0.000005 | **6.13x** ($+513) | 10.67x | ✅ | pumpfun | 2026-03-19 22:56 |
 | 🔴 QUIT | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-19 22:56 |
 | 🔴 WABORI | $0.000007 | **0.42x** ($-58) | 1.41x |  | pumpfun | 2026-03-19 22:54 |
 | 🟢 PILOT | $0.000011 | **2.26x** ($+126) | 2.54x | ✅ | pumpfun | 2026-03-19 22:51 |
@@ -60,6 +59,7 @@
 | 🟡 Futa-kun | 1.50x | $+50 | trailing_stop_4x | 4.16x | pumpfun | 2026-03-19 23:07 → 2026-03-20 01:02 |
 | 🔴 MEME | 0.39x | $-61 | stop_loss | 1.88x | pumpfun | 2026-03-19 23:01 → 2026-03-19 23:36 |
 | 🔴 MEAW3D | 0.35x | $-65 | stop_loss | 1.00x | pumpfun | 2026-03-19 22:58 → 2026-03-19 23:26 |
+| 🟢 Luxury | 5.83x | $+483 | trailing_stop_11x | 10.67x | pumpfun | 2026-03-19 22:56 → 2026-03-20 01:09 |
 | 🔴 CXo4dUwJ | 0.36x | $-64 | stop_loss | 1.65x | pumpfun | 2026-03-19 22:55 → 2026-03-19 23:15 |
 | 🟡 PEPE | 0.85x | $-15 | trailing_stop_2x | 2.05x | pumpfun | 2026-03-19 22:48 → 2026-03-19 23:07 |
 

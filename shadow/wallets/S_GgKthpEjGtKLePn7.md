@@ -1,6 +1,6 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [View on Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 01:09 UTC
+> [View on Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-20 01:14 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WRT | $0.000007 | **1.91x** ($+91) | 1.95x |  | pumpswap | 2026-03-20 00:59 |
+| 🟡 WRT | $0.000007 | **1.90x** ($+90) | 1.95x |  | pumpswap | 2026-03-20 00:59 |
 | 🔴 nostalgia | $0.000004 | **0.85x** ($-15) | 1.05x |  | pumpswap | 2026-03-19 22:46 |
 
 ## Closed Positions

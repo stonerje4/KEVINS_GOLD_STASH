@@ -1,6 +1,6 @@
 # Wallet: `8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY`
 
-> [View on Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 01:09 UTC
+> [View on Solscan](https://solscan.io/account/8f4JACu4cBSNseB1jKG5WNfaD7kpBMq8D4oDLdoCh5YY) | Updated: 2026-03-20 01:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-35 |
-| 📦 Unrealized | $+77 |
-| 🏦 Total | **$+42** |
+| 📦 Unrealized | $+62 |
+| 🏦 Total | **$+27** |
 | Best Trade | 0.8x |
 | Avg Peak | 2.3x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Optimistic | $0.000702 | **1.15x** ($+15) | 1.28x |  | pumpswap | 2026-03-20 00:44 |
-| 🟡 TripleT | $0.002509 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 00:37 |
+| 🟡 Optimistic | $0.000702 | **1.06x** ($+6) | 1.28x |  | pumpswap | 2026-03-20 00:44 |
+| 🔴 TripleT | $0.002509 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-20 00:37 |
 | 🟡 BACK | $0.000032 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-19 23:54 |
-| 🟡 Pete | $0.000115 | **1.46x** ($+46) | 1.97x |  | pumpswap | 2026-03-19 22:44 |
-| 🔴 Snorp | $0.000237 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-19 22:38 |
+| 🟡 Pete | $0.000115 | **1.44x** ($+44) | 1.97x |  | pumpswap | 2026-03-19 22:44 |
+| 🔴 Snorp | $0.000237 | **0.96x** ($-4) | 1.02x |  | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

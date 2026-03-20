@@ -1,6 +1,6 @@
 # Wallet: `A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t`
 
-> [View on Solscan](https://solscan.io/account/A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t) | Updated: 2026-03-20 01:09 UTC
+> [View on Solscan](https://solscan.io/account/A8CEY24jporTAUguhQgaWgykAETM2K1UAxKHhbdceo1t) | Updated: 2026-03-20 01:14 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+32 |
-| 🏦 Total | **$+32** |
+| 📦 Unrealized | $+31 |
+| 🏦 Total | **$+31** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 iClaw | $0.000005 | **1.64x** ($+64) | 2.04x | ✅ | pumpswap | 2026-03-20 00:07 |
+| 🟡 iClaw | $0.000005 | **1.63x** ($+63) | 2.04x | ✅ | pumpswap | 2026-03-20 00:07 |
 
 ## Closed Positions
 
