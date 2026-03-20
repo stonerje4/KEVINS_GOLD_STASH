@@ -9,17 +9,17 @@
 | Positions | 59 (54 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-198 |
-| 📦 Unrealized | $-121 |
-| 🏦 Total | **$-319** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.8x |
+| 📦 Unrealized | $-123 |
+| 🏦 Total | **$-321** |
+| Best ROI | 1.46x |
+| Avg ROI | 0.60x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Saleh | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |
-| 🟡 fine999.9 | $0.001470 | **1.52x** ($+52) | 1.59x |  | pumpswap | 2026-03-20 11:48 |
+| 🟡 fine999.9 | $0.001470 | **1.50x** ($+50) | 1.59x |  | pumpswap | 2026-03-20 11:48 |
 | 🟡 ceal | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:44 |
 | 🟡 MOCHI | $0.000092 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:41 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |

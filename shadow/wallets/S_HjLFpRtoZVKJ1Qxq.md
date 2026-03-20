@@ -9,10 +9,10 @@
 | Positions | 110 (108 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-166** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $-30 |
+| 🏦 Total | **$-167** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.31x |
 
 ## Open Positions
 
@@ -34,7 +34,7 @@
 | 🟡 PRSM | $0.000050 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:59 |
 | 🟡 PIXELS | $0.000219 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:52 |
 | 🟡 Simulation | $0.000044 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:26 |
-| 🔴 MONA | $0.000064 | **0.93x** ($-7) | 1.20x |  | pumpswap | 2026-03-20 08:46 |
+| 🔴 MONA | $0.000064 | **0.92x** ($-8) | 1.20x |  | pumpswap | 2026-03-20 08:46 |
 | 🔴 SNAKE | $0.000009 | **0.96x** ($-4) | 1.07x |  | pumpswap | 2026-03-20 08:44 |
 | 🟡 AIFRUITS | $0.000634 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:33 |
 | 🟡 abcdefg | $0.000945 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:27 |

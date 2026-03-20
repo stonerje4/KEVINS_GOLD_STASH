@@ -9,16 +9,16 @@
 | Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+5,854 |
-| 🏦 Total | **$+5,854** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $+5,852 |
+| 🏦 Total | **$+5,852** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 AVATAR | $0.000009 | **1.03x** ($+3) | 1.16x |  | pumpswap | 2026-03-20 11:25 |
+| 🟡 AVATAR | $0.000009 | **1.02x** ($+2) | 1.16x |  | pumpswap | 2026-03-20 11:25 |
 | 🟡 Chibiusa | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:21 |
 | 🟡 Doomer | $0.000002 | **1.25x** ($+25) | 1.49x |  | pumpswap | 2026-03-20 10:23 |
 | 🟡 Freebuff | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 08:28 |
