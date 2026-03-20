@@ -1,6 +1,6 @@
 # Wallet: `7cEUmLmHbmWyk8LyTUigJebWi85q1NP1PactFc5QLYgD`
 
-> [View on Solscan](https://solscan.io/account/7cEUmLmHbmWyk8LyTUigJebWi85q1NP1PactFc5QLYgD) | Updated: 2026-03-20 00:49 UTC
+> [View on Solscan](https://solscan.io/account/7cEUmLmHbmWyk8LyTUigJebWi85q1NP1PactFc5QLYgD) | Updated: 2026-03-20 00:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-15 |
-| 🏦 Total | **$-76** |
+| 📦 Unrealized | $+1 |
+| 🏦 Total | **$-59** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.2x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 tinfoil | $0.000057 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-19 23:39 |
+| 🟡 tinfoil | $0.000057 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-19 23:39 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA`
 
-> [View on Solscan](https://solscan.io/account/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA) | Updated: 2026-03-20 00:49 UTC
+> [View on Solscan](https://solscan.io/account/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA) | Updated: 2026-03-20 00:54 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-45 |
-| 🏦 Total | **$-45** |
+| 📦 Unrealized | $-43 |
+| 🏦 Total | **$-43** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 DRIVE | $0.000011 | **1.44x** ($+44) | 1.85x |  | pumpfun | 2026-03-20 00:45 |
+| 🟡 DRIVE | $0.000011 | **1.46x** ($+46) | 1.94x |  | pumpfun | 2026-03-20 00:45 |
 | 🔴 CHENHAO | $0.000003 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 00:38 |
 | 🔴 fX2YiCRn | $0.000003 | **0.74x** ($-26) | 1.12x |  | pumpfun | 2026-03-20 00:37 |
 | 🟡 Pete | $0.000005 | **1.36x** ($+36) | 1.49x |  | pumpfun | 2026-03-19 23:25 |

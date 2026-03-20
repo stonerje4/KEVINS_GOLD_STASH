@@ -1,16 +1,16 @@
 # Wallet: `AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8`
 
-> [View on Solscan](https://solscan.io/account/AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8) | Updated: 2026-03-20 00:49 UTC
+> [View on Solscan](https://solscan.io/account/AMiEcPAM2QFKpKXyRhQd9NdbGgVXm78HY6R3Bp1Z52S8) | Updated: 2026-03-20 00:54 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-6 |
-| 🏦 Total | **$-6** |
+| 📦 Unrealized | $+11 |
+| 🏦 Total | **$+11** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FLAG | $0.000008 | **0.94x** ($-6) | 1.03x |  | pumpfun | 2026-03-20 00:26 |
+| 🟡 Chocolatina | $0.000020 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-20 00:50 |
+| 🟡 FLAG | $0.000008 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 00:26 |
 
 ## Closed Positions
 
