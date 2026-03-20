@@ -9,16 +9,16 @@
 | Positions | 149 (134 open, 15 closed) |
 | W/L | 7/8 (47%) |
 | 💵 Realized | $+1,019 |
-| 📦 Unrealized | $-2,615 |
-| 🏦 Total | **$-1,595** |
-| Best Trade | 5.9x |
-| Avg Peak | 4.0x |
+| 📦 Unrealized | $-2,612 |
+| 🏦 Total | **$-1,593** |
+| Best ROI | 5.93x |
+| Avg ROI | 1.68x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ME | $0.000004 | **0.83x** ($-17) | 1.04x |  | pumpfun | 2026-03-20 10:28 |
+| 🔴 ME | $0.000004 | **0.86x** ($-14) | 1.04x |  | pumpfun | 2026-03-20 10:28 |
 | 🟡 7LhHK6Yf | $0.000003 | **1.02x** ($+2) | 1.04x |  | pumpfun | 2026-03-20 05:59 |
 | 🔴 ragcityyy99 | $0.000004 | **0.65x** ($-35) | 1.05x |  | pumpfun | 2026-03-20 05:59 |
 | 🔴 海遊館 | $0.000003 | **0.76x** ($-24) | 1.04x |  | pumpfun | 2026-03-20 05:56 |

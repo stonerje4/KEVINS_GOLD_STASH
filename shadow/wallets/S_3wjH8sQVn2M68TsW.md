@@ -9,16 +9,16 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-21 |
-| 🏦 Total | **$-142** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.1x |
+| 📦 Unrealized | $-24 |
+| 🏦 Total | **$-145** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBELON | $0.000180 | **0.86x** ($-14) | 1.39x |  | pumpswap | 2026-03-20 08:34 |
+| 🔴 CHIBELON | $0.000180 | **0.84x** ($-16) | 1.39x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 唐子兵法 | $0.000124 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:49 |
 | 🔴 Optimistrump | $0.000003 | **0.93x** ($-7) | 1.83x |  | pumpswap | 2026-03-20 00:25 |
 | 🟡 NEXUS | $0.000004 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 00:22 |
