@@ -9,16 +9,16 @@
 | Positions | 55 (32 open, 23 closed) |
 | W/L | 1/22 (4%) |
 | 💵 Realized | $-1,068 |
-| 📦 Unrealized | $-205 |
-| 🏦 Total | **$-1,272** |
-| Best Trade | 1.5x |
-| Avg Peak | 1.6x |
+| 📦 Unrealized | $-206 |
+| 🏦 Total | **$-1,273** |
+| Best ROI | 1.50x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FOID | $0.000032 | **0.64x** ($-36) | 1.13x |  | pumpfun | 2026-03-20 13:38 |
+| 🔴 FOID | $0.000032 | **0.63x** ($-37) | 1.13x |  | pumpfun | 2026-03-20 13:38 |
 | 🟡 kinton | $0.000087 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:43 |
 | 🟡 FROGE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:01 |

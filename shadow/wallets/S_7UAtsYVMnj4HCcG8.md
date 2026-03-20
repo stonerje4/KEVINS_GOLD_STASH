@@ -6,18 +6,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (10 open, 5 closed) |
+| Positions | 16 (11 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-499 |
 | 📦 Unrealized | $+33 |
 | 🏦 Total | **$-466** |
-| Best Trade | 0.0x |
-| Avg Peak | 1.0x |
+| Best ROI | 0.01x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SNP500 | $0.000105 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
 | 🟡 LOCK | $0.094967 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 14:28 |
 | 🟡 Hosico | $0.000931 | **1.00x** ($+0) | 1.00x |  | cpmm | 2026-03-20 14:17 |
 | 🟡 ALIENBABY | $0.000003 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 13:44 |

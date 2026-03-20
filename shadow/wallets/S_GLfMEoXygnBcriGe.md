@@ -9,16 +9,16 @@
 | Positions | 18 (17 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+27 |
-| 🏦 Total | **$-34** |
-| Best Trade | 0.4x |
-| Avg Peak | 1.0x |
+| 📦 Unrealized | $+21 |
+| 🏦 Total | **$-40** |
+| Best ROI | 0.39x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 BIAO | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
+| 🔴 BIAO | $0.000011 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 CHIBELON | $0.000185 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:29 |
 | 🟡 Downald | $0.000539 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:13 |
 | 🟡 ケイジ | $0.000120 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:57 |

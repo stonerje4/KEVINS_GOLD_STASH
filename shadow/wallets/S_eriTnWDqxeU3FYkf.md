@@ -9,16 +9,16 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-49 |
-| 🏦 Total | **$-49** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-47 |
+| 🏦 Total | **$-47** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 RIPCHUCK | $0.000005 | **0.87x** ($-13) | 1.32x |  | pumpfun | 2026-03-20 14:37 |
+| 🔴 RIPCHUCK | $0.000005 | **0.89x** ($-11) | 1.32x |  | pumpfun | 2026-03-20 14:37 |
 | 🔴 3dTVvHSk | $0.000004 | **0.64x** ($-36) | 1.10x |  | pumpfun | 2026-03-20 14:22 |
 
 ## Closed Positions

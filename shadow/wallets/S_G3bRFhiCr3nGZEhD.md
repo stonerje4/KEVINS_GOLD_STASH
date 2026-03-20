@@ -9,19 +9,19 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-40 |
-| 🏦 Total | **$-40** |
-| Best Trade | 0.0x |
-| Avg Peak | 0.0x |
+| 📦 Unrealized | $-41 |
+| 🏦 Total | **$-41** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 C4YBzB9Z | $0.000007 | **0.62x** ($-38) | 1.03x |  | pumpfun | 2026-03-20 14:36 |
+| 🔴 C4YBzB9Z | $0.000007 | **0.64x** ($-36) | 1.03x |  | pumpfun | 2026-03-20 14:36 |
 | 🟡 ROCKET | $0.000023 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:24 |
 | 🔴 5siPZmTP | $0.000006 | **0.45x** ($-55) | 1.29x |  | pumpfun | 2026-03-20 14:22 |
-| 🟢 RUNE | $0.000004 | **2.08x** ($+108) | 2.66x | ✅ | pumpfun | 2026-03-20 13:56 |
+| 🟢 RUNE | $0.000004 | **2.02x** ($+102) | 2.66x | ✅ | pumpfun | 2026-03-20 13:56 |
 
 ## Closed Positions
 
