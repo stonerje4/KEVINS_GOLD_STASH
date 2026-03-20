@@ -1,30 +1,29 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 00:44 UTC
+> [View on Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-20 00:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (17 open, 9 closed) |
-| W/L | 0/9 (0%) |
-| 💵 Realized | $-486 |
-| 📦 Unrealized | $-145 |
-| 🏦 Total | **$-631** |
+| Positions | 26 (16 open, 10 closed) |
+| W/L | 0/10 (0%) |
+| 💵 Realized | $-546 |
+| 📦 Unrealized | $-148 |
+| 🏦 Total | **$-694** |
 | Best Trade | 0.8x |
-| Avg Peak | 1.6x |
+| Avg Peak | 1.5x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Cyberfy | $0.000010 | **0.92x** ($-8) | 1.02x |  | pumpfun | 2026-03-20 00:43 |
-| 🟡 BOB | $0.000010 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-20 00:42 |
-| 🟡 SKIBIDI | $0.000006 | **1.00x** ($+0) | 1.04x |  | pumpfun | 2026-03-20 00:40 |
-| 🟡 Ham | $0.000049 | **1.60x** ($+60) | 1.83x |  | pumpswap | 2026-03-20 00:31 |
-| 🔴 Apollo | $0.000007 | **0.77x** ($-23) | 1.94x |  | pumpfun | 2026-03-20 00:25 |
+| 🔴 Cyberfy | $0.000010 | **0.87x** ($-13) | 1.02x |  | pumpfun | 2026-03-20 00:43 |
+| 🔴 SKIBIDI | $0.000006 | **0.98x** ($-2) | 1.04x |  | pumpfun | 2026-03-20 00:40 |
+| 🟡 Ham | $0.000049 | **1.65x** ($+65) | 2.01x | ✅ | pumpswap | 2026-03-20 00:31 |
+| 🔴 Apollo | $0.000007 | **0.72x** ($-28) | 1.94x |  | pumpfun | 2026-03-20 00:25 |
 | 🔴 jeff | $0.000023 | **1.00x** ($-0) | 1.08x |  | pumpswap | 2026-03-20 00:24 |
-| 🔴 Optimistrump | $0.000003 | **0.88x** ($-12) | 1.74x |  | pumpswap | 2026-03-20 00:22 |
+| 🟡 Optimistrump | $0.000003 | **1.30x** ($+30) | 1.74x |  | pumpswap | 2026-03-20 00:22 |
 | 🔴 REKT | $0.000009 | **0.52x** ($-48) | 1.34x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 ONEAI | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 RiceClaw | $0.000005 | **0.54x** ($-46) | 1.69x |  | pumpfun | 2026-03-19 23:18 |
@@ -40,6 +39,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 BOB | 0.40x | $-60 | stop_loss | 1.07x | pumpswap | 2026-03-20 00:42 → 2026-03-20 00:48 |
 | 🔴 BOB | 0.39x | $-61 | stop_loss | 1.46x | pumpswap | 2026-03-20 00:16 → 2026-03-20 00:28 |
 | 🔴 Cyberfy | 0.37x | $-63 | stop_loss | 1.02x | pumpfun | 2026-03-20 00:15 → 2026-03-20 00:21 |
 | 🔴 ABUNDANCE | 0.20x | $-80 | stop_loss | 1.11x | pumpfun | 2026-03-20 00:04 → 2026-03-20 00:05 |

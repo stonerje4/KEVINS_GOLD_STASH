@@ -1,16 +1,16 @@
 # Wallet: `xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk`
 
-> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 00:44 UTC
+> [View on Solscan](https://solscan.io/account/xuK6AVSpLB1QBfVvZTDVQ8y2uKFmmeUU58JnE6oC8Xk) | Updated: 2026-03-20 00:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (16 open, 0 closed) |
+| Positions | 17 (17 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-21 |
-| 🏦 Total | **$-21** |
+| 📦 Unrealized | $-36 |
+| 🏦 Total | **$-36** |
 | Best Trade | 0.0x |
 | Avg Peak | 0.0x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 MEMEPAL | $0.000003 | **2.06x** ($+106) | 2.22x | ✅ | pumpfun | 2026-03-20 00:32 |
-| 🟡 chibidoge | $0.000003 | **1.13x** ($+13) | 1.16x |  | pumpfun | 2026-03-20 00:29 |
+| 🔴 Fro | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 00:44 |
+| 🟢 MEMEPAL | $0.000003 | **2.07x** ($+107) | 2.22x | ✅ | pumpfun | 2026-03-20 00:32 |
+| 🟡 chibidoge | $0.000003 | **1.02x** ($+2) | 1.16x |  | pumpfun | 2026-03-20 00:29 |
 | 🔴 NETANYAHU | $0.000003 | **0.88x** ($-12) | 1.00x |  | pumpfun | 2026-03-20 00:29 |
 | 🔴 Naughtiest | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 00:20 |
 | 🔴 CHIBIMINAJ | $0.000003 | **0.82x** ($-18) | 1.00x |  | pumpfun | 2026-03-20 00:18 |
@@ -28,7 +29,7 @@
 | 🔴 3cUc5YtL | $0.000003 | **0.86x** ($-14) | 1.16x |  | pumpfun | 2026-03-19 23:54 |
 | 🔴 Trenchies | $0.000003 | **1.00x** ($-0) | 1.29x |  | pumpfun | 2026-03-19 23:52 |
 | 🔴 GQqH3H3a | $0.000003 | **0.90x** ($-10) | 1.29x |  | pumpfun | 2026-03-19 23:49 |
-| 🟢 SHELBY | $0.000003 | **2.63x** ($+163) | 4.78x | ✅ | pumpfun | 2026-03-19 23:47 |
+| 🟢 SHELBY | $0.000003 | **2.82x** ($+182) | 4.78x | ✅ | pumpfun | 2026-03-19 23:47 |
 | 🔴 XGqX2y8e | $0.000003 | **0.84x** ($-16) | 1.23x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 GKRgZZZi | $0.000003 | **0.87x** ($-13) | 1.20x |  | pumpfun | 2026-03-19 23:44 |
 | 🔴 ALF | $0.000003 | **0.96x** ($-4) | 1.03x |  | pumpfun | 2026-03-19 23:15 |

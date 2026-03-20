@@ -1,6 +1,6 @@
 # Wallet: `9NJiiSZfaTz1a2qZfcYmeYrQAFvwFHLf3sM4uZ2wgKLr`
 
-> [View on Solscan](https://solscan.io/account/9NJiiSZfaTz1a2qZfcYmeYrQAFvwFHLf3sM4uZ2wgKLr) | Updated: 2026-03-20 00:44 UTC
+> [View on Solscan](https://solscan.io/account/9NJiiSZfaTz1a2qZfcYmeYrQAFvwFHLf3sM4uZ2wgKLr) | Updated: 2026-03-20 00:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-142 |
-| 🏦 Total | **$-95** |
+| 📦 Unrealized | $-48 |
+| 🏦 Total | **$-0** |
 | Best Trade | 1.5x |
 | Avg Peak | 3.3x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 9pVz3EK1 | $0.000005 | **0.52x** ($-48) | 1.39x |  | pumpfun | 2026-03-20 00:40 |
+| 🔴 9pVz3EK1 | $0.000005 | **0.49x** ($-51) | 1.39x |  | pumpfun | 2026-03-20 00:40 |
 | 🔴 CHIBIMINAJ | $0.000016 | **0.61x** ($-39) | 1.14x |  | pumpfun | 2026-03-19 23:48 |
-| 🔴 BBdd6gHX | $0.000008 | **0.44x** ($-56) | 1.20x |  | pumpfun | 2026-03-19 23:24 |
+| 🟡 BBdd6gHX | $0.000008 | **1.42x** ($+42) | 1.44x |  | pumpfun | 2026-03-19 23:24 |
 
 ## Closed Positions
 

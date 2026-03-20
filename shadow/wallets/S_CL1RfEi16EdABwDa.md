@@ -1,16 +1,16 @@
 # Wallet: `CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft`
 
-> [View on Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-20 00:44 UTC
+> [View on Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-20 00:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
+| Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-23 |
-| 🏦 Total | **$-83** |
+| 📦 Unrealized | $-24 |
+| 🏦 Total | **$-84** |
 | Best Trade | 0.4x |
 | Avg Peak | 1.0x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 tinfoil | $0.000047 | **1.08x** ($+8) | 1.16x |  | pumpswap | 2026-03-20 00:23 |
-| 🔴 XAI | $0.000014 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
+| 🟡 King | $0.000008 | **1.04x** ($+4) | 1.11x |  | pumpswap | 2026-03-20 00:45 |
+| 🟡 tinfoil | $0.000047 | **1.03x** ($+3) | 1.16x |  | pumpswap | 2026-03-20 00:23 |
+| 🔴 XAI | $0.000014 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
 
 ## Closed Positions
 

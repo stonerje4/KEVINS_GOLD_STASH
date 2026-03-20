@@ -1,6 +1,6 @@
 # Wallet: `EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw`
 
-> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 00:44 UTC
+> [View on Solscan](https://solscan.io/account/EaEf6TH8Nd2SThZrPKLkR11U6NojWZEExVL4HiQ1XXuw) | Updated: 2026-03-20 00:49 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 39 (29 open, 10 closed) |
 | W/L | 0/10 (0%) |
 | 💵 Realized | $-558 |
-| 📦 Unrealized | $-39 |
-| 🏦 Total | **$-597** |
+| 📦 Unrealized | $+64 |
+| 🏦 Total | **$-494** |
 | Best Trade | 0.8x |
 | Avg Peak | 1.5x |
 
@@ -29,7 +29,7 @@
 | 🔴 𝕏AI | $0.000003 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-19 23:35 |
 | 🔴 IOR | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-19 23:33 |
 | 🟡 PVC | $0.000008 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-19 23:29 |
-| 🔴 DICKUS | $0.000008 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-19 23:24 |
+| 🟡 DICKUS | $0.000008 | **1.47x** ($+47) | 1.49x |  | pumpfun | 2026-03-19 23:24 |
 | 🔴 Lol | $0.000004 | **0.96x** ($-4) | 1.02x |  | pumpfun | 2026-03-19 23:21 |
 | 🔴 Void | $0.000014 | **0.82x** ($-18) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 RAVE | $0.000004 | **0.63x** ($-37) | 1.33x |  | pumpfun | 2026-03-19 23:14 |
@@ -37,7 +37,7 @@
 | 🔴 Strava | $0.000005 | **0.77x** ($-23) | 1.02x |  | pumpfun | 2026-03-19 23:09 |
 | 🔴 Oracle | $0.000008 | **0.96x** ($-4) | 1.13x |  | pumpfun | 2026-03-19 23:08 |
 | 🔴 Record | $0.000012 | **0.77x** ($-23) | 1.80x |  | pumpfun | 2026-03-19 23:08 |
-| 🟢 Futa-kun | $0.000007 | **2.48x** ($+148) | 4.16x | ✅ | pumpfun | 2026-03-19 23:07 |
+| 🟢 Futa-kun | $0.000007 | **2.53x** ($+153) | 4.16x | ✅ | pumpfun | 2026-03-19 23:07 |
 | 🟢 Luxury | $0.000005 | **2.94x** ($+194) | 4.10x | ✅ | pumpfun | 2026-03-19 22:56 |
 | 🔴 QUIT | $0.000004 | **0.90x** ($-10) | 1.00x |  | pumpfun | 2026-03-19 22:56 |
 | 🔴 WABORI | $0.000007 | **0.42x** ($-58) | 1.41x |  | pumpfun | 2026-03-19 22:54 |

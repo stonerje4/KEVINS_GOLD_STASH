@@ -1,24 +1,24 @@
 # Wallet: `8WXpW2efsN5oML6XfcKu7FGq2dkaFw8B3nZsQY193UxY`
 
-> [View on Solscan](https://solscan.io/account/8WXpW2efsN5oML6XfcKu7FGq2dkaFw8B3nZsQY193UxY) | Updated: 2026-03-20 00:44 UTC
+> [View on Solscan](https://solscan.io/account/8WXpW2efsN5oML6XfcKu7FGq2dkaFw8B3nZsQY193UxY) | Updated: 2026-03-20 00:49 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-123 |
-| 📦 Unrealized | $-65 |
-| 🏦 Total | **$-188** |
+| Positions | 6 (3 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-185 |
+| 📦 Unrealized | $-41 |
+| 🏦 Total | **$-226** |
 | Best Trade | 0.4x |
-| Avg Peak | 1.4x |
+| Avg Peak | 1.3x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TITTYKILLER | $0.000012 | **0.45x** ($-55) | 1.05x |  | pumpfun | 2026-03-20 00:23 |
+| 🔴 TITTYKILLER | $0.000004 | **0.69x** ($-31) | 1.01x |  | pumpfun | 2026-03-20 00:44 |
 | 🟡 PETE | $0.000006 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:06 |
 | 🔴 ELEPHANT | $0.000006 | **0.90x** ($-10) | 1.73x |  | pumpswap | 2026-03-20 00:02 |
 
@@ -26,6 +26,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 TITTYKILLER | 0.38x | $-62 | stop_loss | 1.05x | pumpfun | 2026-03-20 00:23 → 2026-03-20 00:44 |
 | 🔴 tremp | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 00:04 → 2026-03-20 00:14 |
 | 🔴 SHOENICE  | 0.38x | $-62 | stop_loss | 1.71x | pumpfun | 2026-03-19 23:32 → 2026-03-19 23:51 |
 
