@@ -1,12 +1,12 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 03:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 03:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 46 (42 open, 4 closed) |
+| Positions | 47 (43 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $-465 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LIFE | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:05 |
 | 🔴 Income | $0.000016 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-21 02:17 |
 | 🔴 BLON | $0.000011 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-21 01:59 |
 | 🟢 Terafab | $0.000036 | **2.29x** ($+129) | 2.48x | ✅ | pumpswap | 2026-03-21 00:35 |
