@@ -1,6 +1,6 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 14:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 14:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (17 open, 12 closed) |
 | W/L | 1/11 (8%) |
 | 💵 Realized | $-154 |
-| 📦 Unrealized | $+99 |
-| 🏦 Total | **$-55** |
+| 📦 Unrealized | $+102 |
+| 🏦 Total | **$-52** |
 | Best ROI | 5.85x |
 | Avg ROI | 0.87x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 wolverine | $0.000018 | **1.38x** ($+38) | 1.61x |  | pumpfun | 2026-03-21 11:44 |
+| 🟡 wolverine | $0.000018 | **1.41x** ($+41) | 1.61x |  | pumpfun | 2026-03-21 11:44 |
 | 🟡 Toly | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:24 |
 | 🔴 Beecat | $0.000009 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-21 00:27 |
 | 🔴 Income | $0.000020 | **0.65x** ($-35) | 1.36x |  | pumpswap | 2026-03-20 23:51 |

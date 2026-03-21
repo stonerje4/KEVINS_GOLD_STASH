@@ -1,6 +1,6 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-21 14:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-21 14:40 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 2/7 (22%) |
 | 💵 Realized | $-364 |
 | 📦 Unrealized | $-48 |
-| 🏦 Total | **$-411** |
+| 🏦 Total | **$-412** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.60x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 BioReason | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 14:07 |
-| 🔴 Astro | $0.000016 | **0.51x** ($-49) | 1.13x |  | pumpfun | 2026-03-21 12:28 |
+| 🔴 Astro | $0.000016 | **0.50x** ($-50) | 1.13x |  | pumpfun | 2026-03-21 12:28 |
 | 🟡 Simulation | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:38 |
 | 🟡 Jessica | $0.000026 | **1.39x** ($+39) | 1.39x |  | pumpfun | 2026-03-20 21:41 |
 | 🔴 BUFFALO | $0.000009 | **0.69x** ($-31) | 1.03x |  | pumpfun | 2026-03-20 21:36 |

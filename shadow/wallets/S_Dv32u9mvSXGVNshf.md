@@ -1,6 +1,6 @@
 # Wallet: `Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY`
 
-> [GMGN](https://gmgn.ai/sol/address/Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY) | [Solscan](https://solscan.io/account/Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY) | Updated: 2026-03-21 14:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY) | [Solscan](https://solscan.io/account/Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY) | Updated: 2026-03-21 14:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+25 |
-| 🏦 Total | **$+25** |
+| 📦 Unrealized | $+18 |
+| 🏦 Total | **$+18** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 chwog | $0.000009 | **1.50x** ($+50) | 2.43x | ✅ | pumpfun | 2026-03-21 13:44 |
+| 🟡 chwog | $0.000009 | **1.36x** ($+36) | 2.43x | ✅ | pumpfun | 2026-03-21 13:44 |
 
 ## Closed Positions
 
