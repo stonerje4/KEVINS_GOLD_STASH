@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 09:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 09:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 186 (179 open, 7 closed) |
 | W/L | 3/4 (43%) |
 | 💵 Realized | $+239 |
-| 📦 Unrealized | $-1,207 |
-| 🏦 Total | **$-968** |
+| 📦 Unrealized | $-1,205 |
+| 🏦 Total | **$-966** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.34x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Pixel | $0.000014 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-21 08:43 |
+| 🔴 Pixel | $0.000014 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-21 08:43 |
 | 🟡 SNIFFER | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:34 |
 | 🔴 BCKR | $0.000015 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-21 08:07 |
 | 🟡 Obsessed | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:03 |
@@ -26,7 +26,7 @@
 | 🟡 Pixels | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 Income | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 SHOEBILL | $0.000039 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-21 05:10 |
-| 🟡 CHIBELON | $0.000024 | **1.28x** ($+28) | 2.04x | ✅ | pumpswap | 2026-03-21 04:39 |
+| 🟡 CHIBELON | $0.000024 | **1.27x** ($+27) | 2.04x | ✅ | pumpswap | 2026-03-21 04:39 |
 | 🔴 Joobi | $0.000009 | **0.92x** ($-8) | 1.25x |  | pumpswap | 2026-03-21 04:32 |
 | 🔴 X COINS | $0.000017 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 04:06 |
 | 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
@@ -105,7 +105,7 @@
 | 🔴 LUMO | $0.000037 | **0.54x** ($-46) | 1.64x |  | pumpswap | 2026-03-20 08:32 |
 | 🔴 Achieve | $0.000020 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 08:18 |
 | 🟡 しずく | $0.000015 | **1.04x** ($+4) | 1.26x |  | pumpswap | 2026-03-20 08:09 |
-| 🟡 OPTIMUS | $0.000015 | **1.26x** ($+26) | 1.54x |  | pumpswap | 2026-03-20 08:05 |
+| 🟡 OPTIMUS | $0.000015 | **1.30x** ($+30) | 1.54x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 chud | $0.000015 | **1.05x** ($+5) | 2.36x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🟡 CLAW | $0.000027 | **1.01x** ($+1) | 1.16x |  | pumpswap | 2026-03-20 07:44 |
 | 🔴 WID | $0.000019 | **0.80x** ($-20) | 1.35x |  | pumpswap | 2026-03-20 07:27 |

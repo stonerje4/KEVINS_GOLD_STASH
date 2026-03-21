@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 09:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 09:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 107 (104 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+71 |
-| 📦 Unrealized | $+410 |
-| 🏦 Total | **$+482** |
+| 📦 Unrealized | $+424 |
+| 🏦 Total | **$+495** |
 | Best ROI | 2.92x |
 | Avg ROI | 1.24x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Cardboard | $0.000010 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-21 08:53 |
+| 🟡 Cardboard | $0.000010 | **1.12x** ($+12) | 1.14x |  | pumpswap | 2026-03-21 08:53 |
 | 🔴 BCKR | $0.000015 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-21 08:07 |
-| 🔴 BIBILABU | $0.000008 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-21 08:00 |
+| 🔴 BIBILABU | $0.000008 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-21 08:00 |
 | 🟡 TUKI | $0.000018 | **1.04x** ($+4) | 1.09x |  | pumpswap | 2026-03-21 07:22 |
 | 🔴 PVE | $0.000008 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-21 07:11 |
 | 🟡 BISON | $0.000030 | **1.67x** ($+67) | 1.67x |  | pumpswap | 2026-03-21 06:31 |
@@ -69,7 +69,7 @@
 | 🟡 ROME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:30 |
 | 🔴 Wob | $0.000016 | **0.98x** ($-2) | 1.08x |  | pumpswap | 2026-03-20 15:59 |
 | 🟡 OCTOPUS | $0.000009 | **1.76x** ($+76) | 2.30x | ✅ | pumpswap | 2026-03-20 15:15 |
-| 🔴 Otome | $0.000016 | **0.82x** ($-18) | 1.08x |  | pumpswap | 2026-03-20 15:13 |
+| 🔴 Otome | $0.000016 | **0.83x** ($-17) | 1.08x |  | pumpswap | 2026-03-20 15:13 |
 | 🔴 ACT: S | $0.000008 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
 | 🔴 Xingxing | $0.000024 | **0.90x** ($-10) | 1.08x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 GameTheory | $0.000014 | **1.53x** ($+53) | 1.72x |  | pumpswap | 2026-03-20 14:15 |
@@ -92,7 +92,7 @@
 | 🟡 KENNY | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:14 |
 | 🔴 Achieve | $0.000019 | **0.95x** ($-5) | 1.09x |  | pumpswap | 2026-03-20 08:19 |
 | 🔴 Baldi | $0.000019 | **0.94x** ($-6) | 1.10x |  | pumpswap | 2026-03-20 08:01 |
-| 🟡 OPTIMUS | $0.000015 | **1.34x** ($+34) | 1.64x |  | pumpswap | 2026-03-20 07:53 |
+| 🟡 OPTIMUS | $0.000015 | **1.38x** ($+38) | 1.64x |  | pumpswap | 2026-03-20 07:53 |
 | 🔴 clawedin | $0.000011 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
 | 🔴 PATRIOT | $0.000010 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-20 07:01 |
 | 🟡 PYRO | $0.000034 | **1.15x** ($+15) | 1.28x |  | pumpswap | 2026-03-20 06:47 |

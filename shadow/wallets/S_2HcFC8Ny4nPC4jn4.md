@@ -1,6 +1,6 @@
 # Wallet: `2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6`
 
-> [GMGN](https://gmgn.ai/sol/address/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | [Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-21 09:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | [Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-21 09:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (11 open, 11 closed) |
 | W/L | 2/9 (18%) |
 | 💵 Realized | $-423 |
-| 📦 Unrealized | $+200 |
-| 🏦 Total | **$-223** |
+| 📦 Unrealized | $+182 |
+| 🏦 Total | **$-241** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.62x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SREF | $0.000007 | **0.86x** ($-14) | 1.12x |  | pumpfun | 2026-03-21 08:57 |
-| 🔴 Simulation | $0.000010 | **0.69x** ($-31) | 1.03x |  | pumpswap | 2026-03-21 07:42 |
+| 🔴 SREF | $0.000007 | **0.62x** ($-38) | 1.12x |  | pumpfun | 2026-03-21 08:57 |
+| 🔴 Simulation | $0.000010 | **0.75x** ($-25) | 1.03x |  | pumpswap | 2026-03-21 07:42 |
 | 🟡 Autobots | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
 | 🟡 B6jsFauS | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |

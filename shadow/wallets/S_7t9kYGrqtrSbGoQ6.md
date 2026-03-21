@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 09:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 09:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,385 |
-| 🏦 Total | **$-1,419** |
+| 📦 Unrealized | $-1,381 |
+| 🏦 Total | **$-1,415** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -45,7 +45,7 @@
 | 🔴 IMAGINE | $0.000034 | **0.94x** ($-6) | 1.38x |  | pumpswap | 2026-03-20 19:10 |
 | 🔴 GOYBEAM | $0.000008 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 18:57 |
 | 🔴 Saleh | $0.000020 | **0.68x** ($-32) | 1.09x |  | pumpswap | 2026-03-20 18:52 |
-| 🔴 Cardboard | $0.000012 | **0.92x** ($-8) | 1.02x |  | pumpswap | 2026-03-20 18:15 |
+| 🔴 Cardboard | $0.000012 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-20 18:15 |
 | 🟡 𝕏 | $0.000022 | **1.11x** ($+11) | 1.41x |  | pumpswap | 2026-03-20 17:40 |
 | 🔴 SNAKE | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 17:30 |
 | 🔴 ZOO | $0.000013 | **0.96x** ($-4) | 1.01x |  | pumpswap | 2026-03-20 17:28 |
@@ -65,7 +65,7 @@
 | 🔴 Pixel | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Newscum | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 GameTheory | $0.000015 | **1.47x** ($+47) | 1.64x |  | pumpswap | 2026-03-20 14:15 |
-| 🟢 Higuruma | $0.000020 | **2.01x** ($+101) | 2.95x | ✅ | pumpswap | 2026-03-20 14:09 |
+| 🟢 Higuruma | $0.000020 | **2.00x** ($+100) | 2.95x | ✅ | pumpswap | 2026-03-20 14:09 |
 | 🔴 chibify | $0.000011 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
 | 🟡 Yahu | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -92,7 +92,7 @@
 | 🟡 LIBERTY | $0.000036 | **1.33x** ($+33) | 2.69x | ✅ | pumpswap | 2026-03-20 09:34 |
 | 🔴 UGOR | $0.000023 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 09:28 |
 | 🔴 TRENCHERIA | $0.000015 | **0.85x** ($-15) | 1.10x |  | pumpswap | 2026-03-20 09:24 |
-| 🟡 Universe | $0.000013 | **1.15x** ($+15) | 1.20x |  | pumpswap | 2026-03-20 09:20 |
+| 🟡 Universe | $0.000013 | **1.11x** ($+11) | 1.20x |  | pumpswap | 2026-03-20 09:20 |
 | 🟡 AIKO | $0.000008 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 09:14 |
 | 🟡 chud | $0.000015 | **1.03x** ($+3) | 2.32x | ✅ | pumpswap | 2026-03-20 09:05 |
 | 🟡 Realize | $0.000015 | **1.27x** ($+27) | 1.64x |  | pumpswap | 2026-03-20 08:52 |
