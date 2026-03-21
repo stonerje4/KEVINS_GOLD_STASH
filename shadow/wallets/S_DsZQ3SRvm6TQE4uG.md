@@ -1,16 +1,16 @@
 # Wallet: `DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw`
 
-> [GMGN](https://gmgn.ai/sol/address/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | [Solscan](https://solscan.io/account/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | Updated: 2026-03-21 14:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | [Solscan](https://solscan.io/account/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | Updated: 2026-03-21 14:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (11 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-122 |
-| 📦 Unrealized | $-38 |
-| 🏦 Total | **$-160** |
+| Positions | 13 (10 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-182 |
+| 📦 Unrealized | $+52 |
+| 🏦 Total | **$-130** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,12 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 78FqBTpn | $0.000006 | **1.90x** ($+90) | 2.11x | ✅ | pumpfun | 2026-03-21 13:54 |
+| 🟢 78FqBTpn | $0.000006 | **2.60x** ($+160) | 2.64x | ✅ | pumpfun | 2026-03-21 13:54 |
 | 🔴 Koko | $0.000006 | **0.42x** ($-58) | 1.76x |  | pumpfun | 2026-03-21 13:50 |
 | 🔴 SLOW | $0.000005 | **0.47x** ($-53) | 1.00x |  | pumpfun | 2026-03-21 12:53 |
-| 🔴 PIP | $0.000016 | **0.44x** ($-56) | 1.21x |  | pumpfun | 2026-03-21 11:10 |
 | 🟢 man | $0.000010 | **3.72x** ($+272) | 3.72x | ✅ | pumpfun | 2026-03-21 10:32 |
-| 🔴 GoutGout | $0.000013 | **0.83x** ($-17) | 1.97x |  | pumpfun | 2026-03-21 10:14 |
+| 🔴 GoutGout | $0.000013 | **0.81x** ($-19) | 1.97x |  | pumpfun | 2026-03-21 10:14 |
 | 🟡 DEATHCORE | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:56 |
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:19 |
 | 🔴 Obsessed | $0.000010 | **0.93x** ($-7) | 1.84x |  | pumpswap | 2026-03-20 10:18 |
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 PIP | 0.40x | $-60 | stop_loss | 1.21x | pumpfun | 2026-03-21 11:10 → 2026-03-21 14:18 |
 | 🔴 Puffer | 0.40x | $-60 | stop_loss | 1.53x | pumpfun | 2026-03-21 10:49 → 2026-03-21 11:09 |
 | 🔴 PIP | 0.38x | $-62 | stop_loss | 1.03x | pumpfun | 2026-03-21 10:39 → 2026-03-21 11:31 |
 

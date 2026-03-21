@@ -1,6 +1,6 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 14:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 14:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 22 (15 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-289 |
-| 📦 Unrealized | $-111 |
-| 🏦 Total | **$-400** |
+| 📦 Unrealized | $-162 |
+| 🏦 Total | **$-450** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.59x |
 
@@ -19,12 +19,12 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 9vovnotu | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 13:54 |
-| 🟡 TRUDY | $0.000011 | **1.91x** ($+91) | 1.91x |  | pumpfun | 2026-03-21 13:26 |
+| 🟡 TRUDY | $0.000011 | **1.89x** ($+89) | 2.02x | ✅ | pumpfun | 2026-03-21 13:26 |
 | 🟡 GIGACHAD | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 12:04 |
 | 🟢 Tsuki | $0.000018 | **2.07x** ($+107) | 2.07x | ✅ | pumpfun | 2026-03-21 11:37 |
-| 🔴 GoutGout | $0.000015 | **0.73x** ($-27) | 1.26x |  | pumpfun | 2026-03-21 11:27 |
-| 🔴 PIP | $0.000014 | **0.51x** ($-49) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
-| 🔴 Optimus+PV | $0.000010 | **0.62x** ($-38) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
+| 🔴 GoutGout | $0.000015 | **0.71x** ($-29) | 1.26x |  | pumpfun | 2026-03-21 11:27 |
+| 🔴 PIP | $0.000014 | **0.50x** ($-50) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
+| 🔴 Optimus+PV | $0.000010 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
 | 🟡 BUFFALO | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 09:08 |
 | 🟡 Babyify | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:21 |
 | 🔴 Elongate | $0.000010 | **0.47x** ($-53) | 1.17x |  | pumpfun | 2026-03-20 23:42 |

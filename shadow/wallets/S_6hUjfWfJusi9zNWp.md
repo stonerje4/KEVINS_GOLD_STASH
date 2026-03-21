@@ -1,16 +1,16 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 14:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 14:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 31 (19 open, 12 closed) |
-| W/L | 0/12 (0%) |
-| 💵 Realized | $-633 |
-| 📦 Unrealized | $-7 |
-| 🏦 Total | **$-640** |
+| Positions | 31 (18 open, 13 closed) |
+| W/L | 0/13 (0%) |
+| 💵 Realized | $-693 |
+| 📦 Unrealized | $+45 |
+| 🏦 Total | **$-647** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.47x |
 
@@ -19,8 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 GUI | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 14:04 |
-| 🔴 SPANBERGER | $0.000018 | **0.50x** ($-50) | 1.35x |  | pumpfun | 2026-03-21 13:13 |
-| 🟡 TRUDY | $0.000014 | **1.44x** ($+44) | 1.93x |  | pumpfun | 2026-03-21 11:17 |
+| 🟡 TRUDY | $0.000014 | **1.43x** ($+43) | 1.93x |  | pumpfun | 2026-03-21 11:17 |
 | 🔴 LBARK | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-21 00:28 |
 | 🟡 few | $0.000022 | **1.67x** ($+67) | 1.67x |  | pumpfun | 2026-03-20 23:25 |
 | 🔴 BVG | $0.000007 | **0.40x** ($-60) | 1.00x |  | pumpfun | 2026-03-20 20:47 |
@@ -36,12 +35,13 @@
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟡 Zhdun | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:33 |
 | 🟢 SIGNAL | $0.000018 | **2.03x** ($+103) | 2.03x | ✅ | pumpfun | 2026-03-20 09:28 |
-| 🟡 EV01 | $0.000017 | **1.14x** ($+14) | 2.31x | ✅ | pumpswap | 2026-03-20 08:19 |
+| 🟡 EV01 | $0.000017 | **1.21x** ($+21) | 2.31x | ✅ | pumpswap | 2026-03-20 08:19 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 SPANBERGER | 0.40x | $-60 | stop_loss | 1.35x | pumpfun | 2026-03-21 13:13 → 2026-03-21 14:16 |
 | 🔴 few | 0.40x | $-60 | stop_loss | 1.26x | pumpfun | 2026-03-21 12:04 → 2026-03-21 12:06 |
 | 🔴 ✨ | 0.37x | $-63 | stop_loss | 1.07x | pumpfun | 2026-03-20 20:49 → 2026-03-20 20:51 |
 | 🔴 ROUNDHOUSE | 0.40x | $-60 | stop_loss | 1.33x | pumpswap | 2026-03-20 19:29 → 2026-03-20 23:26 |

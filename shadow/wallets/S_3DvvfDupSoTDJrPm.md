@@ -1,6 +1,6 @@
 # Wallet: `3DvvfDupSoTDJrPmcG7MW6CK3sm4j161WSsQYQEs4FLZ`
 
-> [GMGN](https://gmgn.ai/sol/address/3DvvfDupSoTDJrPmcG7MW6CK3sm4j161WSsQYQEs4FLZ) | [Solscan](https://solscan.io/account/3DvvfDupSoTDJrPmcG7MW6CK3sm4j161WSsQYQEs4FLZ) | Updated: 2026-03-21 14:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/3DvvfDupSoTDJrPmcG7MW6CK3sm4j161WSsQYQEs4FLZ) | [Solscan](https://solscan.io/account/3DvvfDupSoTDJrPmcG7MW6CK3sm4j161WSsQYQEs4FLZ) | Updated: 2026-03-21 14:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-105 |
-| 🏦 Total | **$-105** |
+| 📦 Unrealized | $-109 |
+| 🏦 Total | **$-109** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,9 +20,9 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 驚き | $0.000006 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 21:22 |
 | 🔴 HOLOYAHU | $0.000006 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 19:40 |
-| 🔴 Anime | $0.000013 | **0.43x** ($-57) | 1.32x |  | pumpfun | 2026-03-20 14:35 |
+| 🔴 Anime | $0.000013 | **0.41x** ($-59) | 1.32x |  | pumpfun | 2026-03-20 14:35 |
 | 🔴 PRINCIPLES | $0.000015 | **0.78x** ($-22) | 1.23x |  | pumpfun | 2026-03-20 14:30 |
-| 🟢 DAWAE | $0.000012 | **2.10x** ($+110) | 2.75x | ✅ | pumpswap | 2026-03-20 09:27 |
+| 🟢 DAWAE | $0.000012 | **2.06x** ($+106) | 2.75x | ✅ | pumpswap | 2026-03-20 09:27 |
 
 ## Closed Positions
 

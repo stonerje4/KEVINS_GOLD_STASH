@@ -1,16 +1,16 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 14:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 14:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 71 (60 open, 11 closed) |
+| Positions | 72 (61 open, 11 closed) |
 | W/L | 4/7 (36%) |
 | 💵 Realized | $-7 |
-| 📦 Unrealized | $-355 |
-| 🏦 Total | **$-361** |
+| 📦 Unrealized | $-352 |
+| 🏦 Total | **$-359** |
 | Best ROI | 2.97x |
 | Avg ROI | 0.99x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 man | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 14:17 |
 | 🟡 DRONE | $0.000022 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-21 13:49 |
 | 🟡 WRT | $0.000011 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-21 12:42 |
 | 🟡 Grokputer | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:28 |
@@ -25,15 +26,15 @@
 | 🟡 FABIANA | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:16 |
 | 🟡 p-token | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:23 |
 | 🟡 Situation | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:47 |
-| 🔴 honkermog | $0.000023 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-21 07:44 |
+| 🔴 honkermog | $0.000023 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-21 07:44 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:44 |
 | 🟡 OSP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:00 |
 | 🟡 Income | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:56 |
-| 🔴 DAWAE | $0.000027 | **0.95x** ($-5) | 1.25x |  | pumpswap | 2026-03-21 04:50 |
+| 🔴 DAWAE | $0.000027 | **0.93x** ($-7) | 1.25x |  | pumpswap | 2026-03-21 04:50 |
 | 🟡 LUMO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:48 |
 | 🟡 LIFE | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:39 |
 | 🟡 ZeroG | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:28 |
-| 🟡 EV01 | $0.000013 | **1.46x** ($+46) | 2.97x | ✅ | pumpswap | 2026-03-21 04:18 |
+| 🟡 EV01 | $0.000013 | **1.55x** ($+55) | 2.97x | ✅ | pumpswap | 2026-03-21 04:18 |
 | 🟡 CRACK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:14 |
 | 🟡 MFT | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:02 |
 | 🟡 SMCI | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:51 |

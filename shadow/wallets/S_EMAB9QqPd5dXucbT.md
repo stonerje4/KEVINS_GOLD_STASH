@@ -1,16 +1,16 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 14:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 14:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (24 open, 1 closed) |
+| Positions | 27 (26 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-42 |
-| 📦 Unrealized | $-97 |
-| 🏦 Total | **$-140** |
+| 📦 Unrealized | $-99 |
+| 🏦 Total | **$-142** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.58x |
 
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Geeked | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 14:19 |
+| 🟡 jeff | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 14:19 |
 | 🟡 AlphA | $0.000011 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-21 14:14 |
 | 🟡 Takaichi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 13:42 |
 | 🟡 Apple | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:37 |
@@ -31,15 +33,15 @@
 | 🟢 PIKE | $0.000034 | **2.05x** ($+105) | 2.64x | ✅ | pumpswap | 2026-03-20 05:16 |
 | 🔴 しずく | $0.000022 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🔴 MILO | $0.000006 | **0.77x** ($-23) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
-| 🟡 Hamster | $0.000034 | **1.08x** ($+8) | 1.16x |  | pumpswap | 2026-03-20 03:07 |
+| 🟡 Hamster | $0.000034 | **1.07x** ($+7) | 1.16x |  | pumpswap | 2026-03-20 03:07 |
 | 🟡 Forget | $0.000007 | **1.16x** ($+16) | 1.84x |  | pumpswap | 2026-03-20 01:56 |
 | 🟡 tetanus | $0.000012 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 01:51 |
 | 🔴 GPD | $0.000009 | **0.89x** ($-11) | 1.27x |  | pumpswap | 2026-03-20 01:51 |
 | 🟡 Freebuff | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:50 |
 | 🔴 AGI | $0.000018 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:46 |
-| 🔴 Method | $0.000014 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 01:45 |
+| 🔴 Method | $0.000014 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:45 |
 | 🟡 Slop | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:43 |
-| 🟡 Simulation | $0.000005 | **1.28x** ($+28) | 2.73x | ✅ | pumpswap | 2026-03-20 01:43 |
+| 🟡 Simulation | $0.000005 | **1.23x** ($+23) | 2.73x | ✅ | pumpswap | 2026-03-20 01:43 |
 | 🔴 Manosphere | $0.000007 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🔴 Strawberina | $0.000008 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-19 23:57 |
 
