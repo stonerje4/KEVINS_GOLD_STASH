@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 06:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 06:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,344 |
-| 🏦 Total | **$-1,378** |
+| 📦 Unrealized | $-1,336 |
+| 🏦 Total | **$-1,370** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -57,7 +57,7 @@
 | 🟡 Method | $0.000013 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-20 16:31 |
 | 🟡 Optimus | $0.000034 | **1.50x** ($+50) | 1.51x |  | pumpswap | 2026-03-20 15:20 |
 | 🟡 NORMIE | $0.000021 | **1.22x** ($+22) | 1.37x |  | pumpswap | 2026-03-20 15:19 |
-| 🟡 OCTOPUS | $0.000009 | **1.97x** ($+97) | 2.13x | ✅ | pumpswap | 2026-03-20 15:15 |
+| 🟢 OCTOPUS | $0.000009 | **2.15x** ($+115) | 2.15x | ✅ | pumpswap | 2026-03-20 15:15 |
 | 🔴 Hermes | $0.000028 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 15:07 |
 | 🟡 LNG | $0.000006 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 15:01 |
 | 🔴 clod | $0.000032 | **0.42x** ($-58) | 1.23x |  | pumpswap | 2026-03-20 14:55 |
@@ -65,7 +65,7 @@
 | 🔴 Pixel | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Newscum | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 GameTheory | $0.000015 | **1.47x** ($+47) | 1.64x |  | pumpswap | 2026-03-20 14:15 |
-| 🟡 Higuruma | $0.000020 | **1.20x** ($+20) | 1.69x |  | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000020 | **1.16x** ($+16) | 1.69x |  | pumpswap | 2026-03-20 14:09 |
 | 🔴 chibify | $0.000011 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
 | 🟡 Yahu | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -137,7 +137,7 @@
 | 🔴 Wob | $0.000019 | **0.82x** ($-18) | 1.26x |  | pumpswap | 2026-03-20 03:02 |
 | 🔴 Lucia | $0.000032 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🔴 ovary  | $0.000020 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
-| 🔴 WhiteBoy  | $0.000015 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
+| 🔴 WhiteBoy  | $0.000015 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🔴 VAFR | $0.000025 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 02:40 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
 | 🔴 JOC | $0.000035 | **0.83x** ($-17) | 1.11x |  | pumpswap | 2026-03-20 02:36 |

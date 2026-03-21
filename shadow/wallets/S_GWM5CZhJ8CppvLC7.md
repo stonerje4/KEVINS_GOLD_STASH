@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 06:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 06:10 UTC
 
 ## Summary
 
@@ -37,7 +37,7 @@
 | 🟡 honkermog | $0.000032 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
 | 🟡 CHIBI | $0.000014 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 18:08 |
 | 🔴 ARIA | $0.000021 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
-| 🟡 Hamster | $0.000021 | **1.59x** ($+59) | 1.64x |  | pumpswap | 2026-03-20 17:00 |
+| 🟡 Hamster | $0.000021 | **1.60x** ($+60) | 1.64x |  | pumpswap | 2026-03-20 17:00 |
 | 🔴 Ouroboros | $0.000023 | **0.52x** ($-48) | 1.05x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 CHIBIELON | $0.000032 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 Saleh | $0.000018 | **0.75x** ($-25) | 1.21x |  | pumpswap | 2026-03-20 08:48 |

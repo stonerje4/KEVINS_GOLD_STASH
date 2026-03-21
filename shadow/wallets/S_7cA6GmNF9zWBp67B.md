@@ -1,16 +1,16 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 06:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 06:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 33 (26 open, 7 closed) |
+| Positions | 34 (27 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-456 |
-| 📦 Unrealized | $+567 |
-| 🏦 Total | **$+112** |
+| 📦 Unrealized | $+590 |
+| 🏦 Total | **$+135** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.35x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 cabbage | $0.000021 | **1.37x** ($+37) | 1.44x |  | pumpfun | 2026-03-21 06:01 |
-| 🔴 PIP | $0.000012 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-21 05:40 |
+| 🟡 grokputer | $0.000014 | **1.10x** ($+10) | 1.10x |  | pumpfun | 2026-03-21 06:07 |
+| 🟡 cabbage | $0.000021 | **1.49x** ($+49) | 1.66x |  | pumpfun | 2026-03-21 06:01 |
+| 🔴 PIP | $0.000012 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-21 05:40 |
 | 🟡 Babyify | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:32 |
 | 🟡 FAKER | $0.000035 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-21 05:18 |
 | 🟢 EVERYTHING | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-20 22:09 |

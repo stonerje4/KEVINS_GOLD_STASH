@@ -1,6 +1,6 @@
 # Wallet: `FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x`
 
-> [GMGN](https://gmgn.ai/sol/address/FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x) | [Solscan](https://solscan.io/account/FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x) | Updated: 2026-03-21 06:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x) | [Solscan](https://solscan.io/account/FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x) | Updated: 2026-03-21 06:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+75 |
-| 🏦 Total | **$+15** |
+| 📦 Unrealized | $+115 |
+| 🏦 Total | **$+54** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ROGER | $0.000007 | **0.77x** ($-23) | 1.10x |  | pumpfun | 2026-03-21 06:04 |
+| 🟡 ROGER | $0.000007 | **1.17x** ($+17) | 1.41x |  | pumpfun | 2026-03-21 06:04 |
 | 🟡  Apollo | $0.000028 | **1.28x** ($+28) | 1.29x |  | pumpfun | 2026-03-21 05:51 |
 | 🟡 believe | $0.000022 | **1.70x** ($+70) | 1.70x |  | pumpfun | 2026-03-21 05:25 |
 
