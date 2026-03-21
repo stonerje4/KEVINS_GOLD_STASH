@@ -1,6 +1,6 @@
-# Wallet: `9iwJcFf5bpLgugM8hJpwmfqzYLzFv7PGeZMvRvKhB998`
+# Wallet: `EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK`
 
-> [GMGN](https://gmgn.ai/sol/address/9iwJcFf5bpLgugM8hJpwmfqzYLzFv7PGeZMvRvKhB998) | [Solscan](https://solscan.io/account/9iwJcFf5bpLgugM8hJpwmfqzYLzFv7PGeZMvRvKhB998) | Updated: 2026-03-21 00:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | [Solscan](https://solscan.io/account/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | Updated: 2026-03-21 00:40 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CORGI | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:35 |
+| 🟡 TIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 00:38 |
 
 ## Closed Positions
 
