@@ -1,6 +1,6 @@
 # Wallet: `BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4`
 
-> [GMGN](https://gmgn.ai/sol/address/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | [Solscan](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | Updated: 2026-03-21 00:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | [Solscan](https://solscan.io/account/BmXugVGYfGMj9QRLkdcEGijGgWo4X558tV1QR6ih2eE4) | Updated: 2026-03-21 01:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (8 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-16 |
-| 📦 Unrealized | $+91 |
-| 🏦 Total | **$+75** |
+| 📦 Unrealized | $+90 |
+| 🏦 Total | **$+74** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.84x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 STRAWBERRIES | $0.000010 | **0.95x** ($-5) | 1.12x |  | pumpfun | 2026-03-21 00:37 |
+| 🔴 STRAWBERRIES | $0.000010 | **0.94x** ($-6) | 1.12x |  | pumpfun | 2026-03-21 00:37 |
 | 🟡 PATAPIM | $0.000005 | **1.02x** ($+2) | 1.12x |  | pumpswap | 2026-03-21 00:35 |
 | 🟢 F3 | $0.000012 | **2.99x** ($+199) | 2.99x | ✅ | pumpfun | 2026-03-20 21:45 |
 | 🟡 Bananito | $0.000006 | **1.05x** ($+5) | 1.40x |  | pumpfun | 2026-03-20 17:57 |

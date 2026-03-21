@@ -1,6 +1,6 @@
 # Wallet: `4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp`
 
-> [GMGN](https://gmgn.ai/sol/address/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | [Solscan](https://solscan.io/account/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | Updated: 2026-03-21 00:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | [Solscan](https://solscan.io/account/4mrvor3wdEm1x75fHUnZGPNSC7TyhHivLo2RZtW8jKcp) | Updated: 2026-03-21 01:00 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CRACK | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:20 |
-| 🟡 Gff11UMt | $0.000008 | **1.24x** ($+24) | 2.34x | ✅ | pumpfun | 2026-03-20 21:41 |
+| 🟡 Gff11UMt | $0.000008 | **1.23x** ($+23) | 2.34x | ✅ | pumpfun | 2026-03-20 21:41 |
 | 🔴 Deepfake | $0.000006 | **0.85x** ($-15) | 1.02x |  | pumpswap | 2026-03-20 21:24 |
 | 🟡 YOU | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:30 |
 

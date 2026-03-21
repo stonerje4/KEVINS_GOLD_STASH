@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-21 00:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-21 01:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (14 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-203 |
-| 📦 Unrealized | $-86 |
-| 🏦 Total | **$-289** |
+| 📦 Unrealized | $-126 |
+| 🏦 Total | **$-328** |
 | Best ROI | 0.80x |
 | Avg ROI | 0.49x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡  SPINJITZU | $0.000006 | **1.83x** ($+83) | 1.99x |  | pumpfun | 2026-03-21 00:48 |
+| 🟡  SPINJITZU | $0.000006 | **1.43x** ($+43) | 1.99x |  | pumpfun | 2026-03-21 00:48 |
 | 🔴 FSC | $0.000025 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 22:07 |
 | 🟡 face | $0.000006 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 21:47 |
 | 🟡 BOUNCE | $0.000006 | **1.01x** ($+1) | 1.08x |  | pumpfun | 2026-03-20 20:16 |

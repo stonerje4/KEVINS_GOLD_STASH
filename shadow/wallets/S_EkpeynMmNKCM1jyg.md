@@ -1,31 +1,31 @@
 # Wallet: `EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo`
 
-> [GMGN](https://gmgn.ai/sol/address/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | [Solscan](https://solscan.io/account/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | Updated: 2026-03-21 00:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | [Solscan](https://solscan.io/account/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | Updated: 2026-03-21 01:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-79 |
-| 🏦 Total | **$-79** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 3 (2 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-61 |
+| 📦 Unrealized | $-49 |
+| 🏦 Total | **$-110** |
+| Best ROI | 0.39x |
+| Avg ROI | 0.39x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BABYCHIBI | $0.000014 | **0.66x** ($-34) | 1.08x |  | pumpfun | 2026-03-20 16:41 |
-| 🔴 Sunshine | $0.000015 | **0.50x** ($-50) | 1.00x |  | pumpswap | 2026-03-20 16:33 |
+| 🔴 BABYCHIBI | $0.000014 | **0.46x** ($-54) | 1.08x |  | pumpfun | 2026-03-20 16:41 |
 | 🟡 NOVAH | $0.000013 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 16:19 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Sunshine | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 16:33 → 2026-03-21 00:57 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,25 +1,24 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-21 00:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-21 01:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (10 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-90 |
-| 📦 Unrealized | $-210 |
-| 🏦 Total | **$-300** |
+| Positions | 12 (9 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-152 |
+| 📦 Unrealized | $-165 |
+| 🏦 Total | **$-317** |
 | Best ROI | 0.78x |
-| Avg ROI | 0.55x |
+| Avg ROI | 0.49x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 𝕏CAT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:48 |
-| 🔴 Sunshine | $0.000014 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 18:17 |
 | 🔴 Rosei | $0.000022 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
 | 🔴 JEREMY | $0.000011 | **0.73x** ($-27) | 1.51x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 SCOTT | $0.000012 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 01:29 |
@@ -33,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Sunshine | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 18:17 → 2026-03-21 00:57 |
 | 🔴 Samba | 0.78x | $-22 | trailing_stop_2x | 2.06x | pumpswap | 2026-03-20 18:13 → 2026-03-20 23:26 |
 | 🔴 Futa-kun | 0.32x | $-68 | stop_loss | 1.00x | pumpswap | 2026-03-20 01:57 → 2026-03-20 23:24 |
 

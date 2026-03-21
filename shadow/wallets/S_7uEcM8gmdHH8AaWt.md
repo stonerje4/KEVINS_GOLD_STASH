@@ -1,26 +1,25 @@
 # Wallet: `7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t`
 
-> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-21 00:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-21 01:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (7 open, 9 closed) |
-| W/L | 1/8 (11%) |
-| 💵 Realized | $-316 |
-| 📦 Unrealized | $-4 |
-| 🏦 Total | **$-320** |
+| Positions | 16 (6 open, 10 closed) |
+| W/L | 2/8 (20%) |
+| 💵 Realized | $-271 |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-325** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.65x |
+| Avg ROI | 0.73x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 GIGACHAD | $0.000009 | **2.26x** ($+126) | 3.10x | ✅ | pumpfun | 2026-03-20 23:51 |
 | 🔴 piggyvest | $0.000006 | **0.44x** ($-56) | 1.13x |  | pumpfun | 2026-03-20 23:07 |
-| 🔴 Louis | $0.000008 | **0.58x** ($-42) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
+| 🔴 Louis | $0.000008 | **0.59x** ($-41) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
 | 🔴 EPSTEIN | $0.000005 | **0.48x** ($-52) | 1.11x |  | pumpfun | 2026-03-20 19:38 |
 | 🟡 RAGE | $0.000025 | **1.44x** ($+44) | 1.44x |  | pumpfun | 2026-03-20 19:19 |
 | 🟢 Needle | $0.000006 | **2.91x** ($+191) | 4.91x | ✅ | pumpfun | 2026-03-20 19:02 |
@@ -30,6 +29,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 GIGACHAD | 1.45x | $+45 | trailing_stop_3x | 3.10x | pumpfun | 2026-03-20 23:51 → 2026-03-21 00:58 |
 | 🟡 SHIT | 0.82x | $-18 | trailing_stop_2x | 2.01x | pumpfun | 2026-03-20 23:16 → 2026-03-21 00:01 |
 | 🟡 CHICK | 0.82x | $-18 | trailing_stop_3x | 2.59x | pumpfun | 2026-03-20 20:48 → 2026-03-20 21:49 |
 | 🔴 Dreamjob | 0.40x | $-60 | stop_loss | 1.16x | pumpfun | 2026-03-20 20:46 → 2026-03-20 21:54 |

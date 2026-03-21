@@ -1,18 +1,18 @@
 # Wallet: `D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq`
 
-> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-21 00:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-21 01:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (10 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-191 |
-| 📦 Unrealized | $-15 |
-| 🏦 Total | **$-206** |
+| Positions | 13 (9 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-252 |
+| 📦 Unrealized | $+25 |
+| 🏦 Total | **$-227** |
 | Best ROI | 0.39x |
-| Avg ROI | 0.36x |
+| Avg ROI | 0.37x |
 
 ## Open Positions
 
@@ -21,7 +21,6 @@
 | 🔴 Kit | $0.000011 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 19:30 |
 | 🟡 LNG | $0.000021 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 16:35 |
 | 🟡 CUJO | $0.000019 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 16:34 |
-| 🔴 BABYCHIBI | $0.000015 | **0.60x** ($-40) | 1.18x |  | pumpfun | 2026-03-20 16:26 |
 | 🟡 Chibijak | $0.000014 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 15:18 |
 | 🟡 CHIBIS | $0.000015 | **1.01x** ($+1) | 1.05x |  | pumpfun | 2026-03-20 15:17 |
 | 🔴 tired | $0.000011 | **0.76x** ($-24) | 1.22x |  | pumpfun | 2026-03-20 14:16 |
@@ -35,6 +34,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 N.O.M.A.D. | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 18:16 → 2026-03-20 18:30 |
 | 🔴 ME | 0.38x | $-62 | stop_loss | 1.07x | pumpfun | 2026-03-20 16:37 → 2026-03-21 00:44 |
+| 🔴 BABYCHIBI | 0.39x | $-61 | stop_loss | 1.18x | pumpfun | 2026-03-20 16:26 → 2026-03-21 00:59 |
 | 🔴 twump | 0.32x | $-68 | stop_loss | 1.00x | pumpfun | 2026-03-20 02:21 → 2026-03-20 17:31 |
 
 ---

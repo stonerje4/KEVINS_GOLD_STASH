@@ -1,6 +1,6 @@
 # Wallet: `6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc`
 
-> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 00:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 01:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (15 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-74 |
-| 🏦 Total | **$-74** |
+| 📦 Unrealized | $-69 |
+| 🏦 Total | **$-69** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Grokputer | $0.000007 | **0.96x** ($-4) | 1.09x |  | pumpswap | 2026-03-21 00:52 |
-| 🟡 Beecat | $0.000005 | **1.12x** ($+12) | 1.55x |  | pumpswap | 2026-03-21 00:22 |
-| 🟡 lmeow | $0.000020 | **1.29x** ($+29) | 1.77x |  | pumpswap | 2026-03-21 00:05 |
-| 🔴 SMCI | $0.000007 | **0.97x** ($-3) | 1.27x |  | pumpswap | 2026-03-20 23:25 |
-| 🔴 TADC | $0.000031 | **0.73x** ($-27) | 1.37x |  | pumpswap | 2026-03-20 23:18 |
+| 🔴 Grokputer | $0.000007 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-21 00:52 |
+| 🟡 Beecat | $0.000005 | **1.03x** ($+3) | 1.55x |  | pumpswap | 2026-03-21 00:22 |
+| 🟡 lmeow | $0.000020 | **1.43x** ($+43) | 1.77x |  | pumpswap | 2026-03-21 00:05 |
+| 🔴 SMCI | $0.000007 | **0.96x** ($-4) | 1.27x |  | pumpswap | 2026-03-20 23:25 |
+| 🔴 TADC | $0.000031 | **0.74x** ($-26) | 1.37x |  | pumpswap | 2026-03-20 23:18 |
 | 🔴 PunchDeng | $0.000005 | **0.63x** ($-37) | 1.32x |  | pumpswap | 2026-03-20 22:22 |
 | 🟡 Elongate | $0.000006 | **1.13x** ($+13) | 1.32x |  | pumpswap | 2026-03-20 22:21 |
 | 🔴 ACM | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 21:14 |

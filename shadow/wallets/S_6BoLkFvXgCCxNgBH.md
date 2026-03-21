@@ -1,6 +1,6 @@
 # Wallet: `6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE`
 
-> [GMGN](https://gmgn.ai/sol/address/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | [Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-21 00:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | [Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-21 01:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-94 |
-| 🏦 Total | **$-155** |
+| 📦 Unrealized | $-91 |
+| 🏦 Total | **$-152** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -21,7 +21,7 @@
 | 🟡 TIME | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 00:52 |
 | 🟡 few | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 00:13 |
 | 🟡 LIFE | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 00:05 |
-| 🔴 Moe-chan | $0.000014 | **0.72x** ($-28) | 1.17x |  | pumpswap | 2026-03-20 09:33 |
+| 🔴 Moe-chan | $0.000014 | **0.75x** ($-25) | 1.17x |  | pumpswap | 2026-03-20 09:33 |
 | 🔴 DLSS5 | $0.000025 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 04:05 |
 | 🟡 ceal | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:54 |
 | 🔴 Billy | $0.000014 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 00:15 |
