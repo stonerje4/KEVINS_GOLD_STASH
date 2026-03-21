@@ -1,18 +1,18 @@
 # Wallet: `Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ`
 
-> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-21 00:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-21 00:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (11 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-245 |
-| 📦 Unrealized | $-49 |
-| 🏦 Total | **$-294** |
+| Positions | 15 (10 open, 5 closed) |
+| W/L | 0/5 (0%) |
+| 💵 Realized | $-310 |
+| 📦 Unrealized | $-41 |
+| 🏦 Total | **$-351** |
 | Best ROI | 0.40x |
-| Avg ROI | 0.39x |
+| Avg ROI | 0.38x |
 
 ## Open Positions
 
@@ -22,7 +22,6 @@
 | 🔴 corporate | $0.000011 | **0.73x** ($-27) | 1.00x |  | pumpfun | 2026-03-20 17:29 |
 | 🔴 SHELLY | $0.000009 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 16:42 |
 | 🟡 Imaginify | $0.000006 | **1.38x** ($+38) | 1.38x |  | pumpfun | 2026-03-20 16:41 |
-| 🔴 ME | $0.000023 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 16:40 |
 | 🔴 Immortalism | $0.000018 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 16:37 |
 | 🔴 UP | $0.000006 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 13:58 |
 | 🟡 Kin-kun | $0.000008 | **1.00x** ($+0) | 1.61x |  | pumpfun | 2026-03-20 11:27 |
@@ -36,6 +35,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 SMCI | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:23 → 2026-03-20 22:21 |
 | 🔴 HelloWorld! | 0.36x | $-64 | stop_loss | 1.07x | pumpswap | 2026-03-20 16:53 → 2026-03-20 16:58 |
+| 🔴 ME | 0.34x | $-66 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:40 → 2026-03-21 00:44 |
 | 🔴 Mirai | 0.40x | $-60 | stop_loss | 1.40x | pumpfun | 2026-03-20 13:56 → 2026-03-20 22:21 |
 | 🔴 CC | 0.40x | $-60 | stop_loss | 1.23x | pumpfun | 2026-03-20 13:48 → 2026-03-20 14:00 |
 

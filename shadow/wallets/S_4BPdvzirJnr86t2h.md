@@ -1,6 +1,6 @@
 # Wallet: `4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7`
 
-> [GMGN](https://gmgn.ai/sol/address/4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7) | [Solscan](https://solscan.io/account/4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7) | Updated: 2026-03-21 00:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7) | [Solscan](https://solscan.io/account/4BPdvzirJnr86t2hh8nccQjd4JdQZS3GdyiR5ftXcXE7) | Updated: 2026-03-21 00:45 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Jiji | $0.000005 | **1.05x** ($+5) | 2.76x | ✅ | pumpfun | 2026-03-20 21:49 |
+| 🟡 Jiji | $0.000005 | **1.06x** ($+6) | 2.76x | ✅ | pumpfun | 2026-03-20 21:49 |
 
 ## Closed Positions
 

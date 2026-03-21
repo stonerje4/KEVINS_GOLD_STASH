@@ -1,6 +1,6 @@
 # Wallet: `4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ`
 
-> [GMGN](https://gmgn.ai/sol/address/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | [Solscan](https://solscan.io/account/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | Updated: 2026-03-21 00:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | [Solscan](https://solscan.io/account/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | Updated: 2026-03-21 00:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $+45 |
-| 🏦 Total | **$-16** |
+| 📦 Unrealized | $+41 |
+| 🏦 Total | **$-20** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 LIFE | $0.000025 | **1.45x** ($+45) | 1.81x |  | pumpswap | 2026-03-21 00:14 |
+| 🟡 LIFE | $0.000025 | **1.41x** ($+41) | 1.81x |  | pumpswap | 2026-03-21 00:14 |
 | 🟡 PUNCHDENG | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:22 |
 
 ## Closed Positions

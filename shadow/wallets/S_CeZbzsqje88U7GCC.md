@@ -1,18 +1,18 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-21 00:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-21 00:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (11 open, 8 closed) |
-| W/L | 1/7 (12%) |
-| 💵 Realized | $-296 |
-| 📦 Unrealized | $+311 |
-| 🏦 Total | **$+15** |
+| Positions | 19 (10 open, 9 closed) |
+| W/L | 2/7 (22%) |
+| 💵 Realized | $-255 |
+| 📦 Unrealized | $+200 |
+| 🏦 Total | **$-55** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.63x |
+| Avg ROI | 0.72x |
 
 ## Open Positions
 
@@ -21,7 +21,6 @@
 | 🔴 Realize | $0.000019 | **0.99x** ($-1) | 1.27x |  | pumpswap | 2026-03-20 20:41 |
 | 🟡 NICK | $0.000027 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-20 19:41 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
-| 🟢 ME | $0.000006 | **3.77x** ($+277) | 3.99x | ✅ | pumpfun | 2026-03-20 12:51 |
 | 🟡 NOTICER | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:34 |
 | 🟡 9kMuVQa8 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:26 |
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:14 |
@@ -38,6 +37,7 @@
 | 🔴 Alien | 0.40x | $-60 | stop_loss | 1.97x | pumpswap | 2026-03-20 14:20 → 2026-03-21 00:00 |
 | 🔴 LEGO | 0.39x | $-61 | stop_loss | 1.67x | pumpfun | 2026-03-20 13:47 → 2026-03-20 13:55 |
 | 🔴 Coglet | 0.38x | $-62 | stop_loss | 1.37x | pumpfun | 2026-03-20 13:21 → 2026-03-20 14:02 |
+| 🟡 ME | 1.41x | $+41 | trailing_stop_4x | 3.99x | pumpfun | 2026-03-20 12:51 → 2026-03-21 00:44 |
 | 🔴 Ouroboros | 0.39x | $-61 | stop_loss | 1.03x | pumpswap | 2026-03-20 00:46 → 2026-03-20 21:45 |
 | 🟡 Trollbot | 1.49x | $+49 | trailing_stop_3x | 3.20x | pumpfun | 2026-03-20 00:31 → 2026-03-20 00:48 |
 | 🔴 Liberty | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-19 23:37 → 2026-03-19 23:37 |

@@ -1,6 +1,6 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 00:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 00:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (7 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-227 |
-| 📦 Unrealized | $-84 |
-| 🏦 Total | **$-311** |
+| 📦 Unrealized | $-173 |
+| 🏦 Total | **$-401** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.62x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Elongate | $0.000010 | **0.71x** ($-29) | 1.17x |  | pumpfun | 2026-03-20 23:42 |
-| 🔴 BABYCHIBI | $0.000010 | **0.93x** ($-7) | 1.02x |  | pumpfun | 2026-03-20 23:40 |
+| 🔴 Elongate | $0.000010 | **0.55x** ($-45) | 1.17x |  | pumpfun | 2026-03-20 23:42 |
+| 🔴 BABYCHIBI | $0.000010 | **0.91x** ($-9) | 1.02x |  | pumpfun | 2026-03-20 23:40 |
 | 🔴 Liqua | $0.000012 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
-| 🟡 ME | $0.000019 | **1.14x** ($+14) | 1.21x |  | pumpfun | 2026-03-20 13:50 |
+| 🔴 ME | $0.000019 | **0.43x** ($-57) | 1.21x |  | pumpfun | 2026-03-20 13:50 |
 | 🟡 Civil Claude | $0.000015 | **1.33x** ($+33) | 2.00x | ✅ | pumpfun | 2026-03-20 12:12 |
 | 🔴 Imaginify | $0.000010 | **0.85x** ($-15) | 1.56x |  | pumpfun | 2026-03-20 08:19 |
 | 🔴 DD | $0.000006 | **0.91x** ($-9) | 1.01x |  | pumpfun | 2026-03-19 22:39 |

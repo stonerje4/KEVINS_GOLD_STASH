@@ -1,28 +1,27 @@
 # Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
 
-> [GMGN](https://gmgn.ai/sol/address/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | [Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-21 00:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | [Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-21 00:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (8 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-157 |
-| 📦 Unrealized | $+5 |
-| 🏦 Total | **$-152** |
-| Best ROI | 1.44x |
-| Avg ROI | 0.69x |
+| Positions | 13 (7 open, 6 closed) |
+| W/L | 2/4 (33%) |
+| 💵 Realized | $-107 |
+| 📦 Unrealized | $-61 |
+| 🏦 Total | **$-169** |
+| Best ROI | 1.49x |
+| Avg ROI | 0.82x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GoutGout | $0.000006 | **1.69x** ($+69) | 1.81x |  | pumpfun | 2026-03-21 00:34 |
+| 🟡 GoutGout | $0.000006 | **1.33x** ($+33) | 1.81x |  | pumpfun | 2026-03-21 00:34 |
 | 🟢 few | $0.000013 | **2.79x** ($+179) | 2.79x | ✅ | pumpfun | 2026-03-20 23:24 |
-| 🔴 sheep | $0.000012 | **0.89x** ($-11) | 1.93x |  | pumpfun | 2026-03-20 20:30 |
+| 🔴 sheep | $0.000012 | **0.86x** ($-14) | 1.93x |  | pumpfun | 2026-03-20 20:30 |
 | 🔴 BiGymNtn | $0.000005 | **0.49x** ($-51) | 1.20x |  | pumpfun | 2026-03-20 19:46 |
-| 🟡 FABIANA | $0.000008 | **1.69x** ($+69) | 4.70x | ✅ | pumpfun | 2026-03-20 19:27 |
 | 🔴 SUNSHINE | $0.000006 | **0.53x** ($-47) | 1.47x |  | pumpfun | 2026-03-20 07:56 |
 | 🔴 CHANNELS | $0.000020 | **0.53x** ($-47) | 1.25x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 Jesus | $0.000010 | **0.75x** ($-25) | 1.26x |  | pumpfun | 2026-03-19 22:46 |
@@ -33,6 +32,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 599MRKGc | 0.39x | $-61 | stop_loss | 1.30x | pumpfun | 2026-03-20 23:30 → 2026-03-20 23:33 |
 | 🟡 MINMIKO | 0.83x | $-17 | trailing_stop_2x | 2.02x | pumpfun | 2026-03-20 21:49 → 2026-03-20 22:24 |
+| 🟡 FABIANA | 1.49x | $+49 | trailing_stop_5x | 4.70x | pumpfun | 2026-03-20 19:27 → 2026-03-21 00:44 |
 | 🔴 chibinald | 0.40x | $-60 | stop_loss | 1.29x | pumpfun | 2026-03-20 07:24 → 2026-03-20 07:36 |
 | 🔴 驚き | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 07:20 → 2026-03-20 16:21 |
 | 🟡 MINKA | 1.44x | $+44 | trailing_stop_4x | 3.91x | pumpfun | 2026-03-20 02:34 → 2026-03-20 02:54 |

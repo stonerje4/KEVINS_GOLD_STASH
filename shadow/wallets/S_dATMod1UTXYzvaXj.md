@@ -1,24 +1,23 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 00:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 00:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (15 open, 17 closed) |
-| W/L | 1/16 (6%) |
-| 💵 Realized | $-679 |
-| 📦 Unrealized | $+416 |
-| 🏦 Total | **$-263** |
+| Positions | 32 (14 open, 18 closed) |
+| W/L | 1/17 (6%) |
+| 💵 Realized | $-752 |
+| 📦 Unrealized | $+415 |
+| 🏦 Total | **$-336** |
 | Best ROI | 1.47x |
-| Avg ROI | 0.60x |
+| Avg ROI | 0.58x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 ME | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 16:44 |
 | 🟡 Lana | $0.000030 | **1.23x** ($+23) | 1.23x |  | pumpfun | 2026-03-20 16:31 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:53 |
 | 🔴 T.E.A.M. | $0.000007 | **0.42x** ($-58) | 1.45x |  | pumpfun | 2026-03-20 15:01 |
@@ -42,6 +41,7 @@
 | 🔴 TADC | 0.38x | $-62 | stop_loss | 1.60x | pumpfun | 2026-03-20 21:51 → 2026-03-20 22:14 |
 | 🟡 AGI | 0.83x | $-17 | trailing_stop_3x | 2.85x | pumpfun | 2026-03-20 21:45 → 2026-03-20 21:57 |
 | 🔴 Hello World! | 0.39x | $-61 | stop_loss | 1.29x | pumpfun | 2026-03-20 16:50 → 2026-03-20 16:51 |
+| 🔴 ME | 0.27x | $-73 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:44 → 2026-03-21 00:44 |
 | 🔴 CRYPTOKING | 0.38x | $-62 | stop_loss | 1.28x | pumpfun | 2026-03-20 16:11 → 2026-03-20 16:15 |
 | 🔴 MEME | 0.79x | $-21 | trailing_stop_2x | 2.16x | pumpfun | 2026-03-20 16:05 → 2026-03-20 16:16 |
 | 🔴 HELLO | 0.39x | $-61 | stop_loss | 1.22x | pumpfun | 2026-03-20 16:02 → 2026-03-20 16:09 |
