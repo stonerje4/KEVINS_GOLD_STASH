@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-21 12:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-21 12:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (14 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $-84 |
-| 📦 Unrealized | $+239 |
-| 🏦 Total | **$+155** |
+| 📦 Unrealized | $+249 |
+| 🏦 Total | **$+165** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.83x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 omg | $0.000006 | **0.68x** ($-32) | 1.64x |  | pumpswap | 2026-03-21 05:10 |
+| 🔴 omg | $0.000006 | **0.69x** ($-31) | 1.64x |  | pumpswap | 2026-03-21 05:10 |
 | 🔴 PEDO | $0.000007 | **0.51x** ($-49) | 1.19x |  | pumpfun | 2026-03-21 04:42 |
 | 🔴 XCAT | $0.000005 | **0.79x** ($-21) | 1.14x |  | pumpfun | 2026-03-20 22:00 |
 | 🟡 TRACEWAY | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:00 |
@@ -27,7 +27,7 @@
 | 🟡 unemployed | $0.000006 | **1.32x** ($+32) | 1.33x |  | pumpswap | 2026-03-20 17:23 |
 | 🟡 TGR | $0.000008 | **1.98x** ($+98) | 1.98x |  | pumpfun | 2026-03-20 16:14 |
 | 🔴 Monke | $0.000009 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 05:43 |
-| 🟡 OSP | $0.000019 | **1.43x** ($+43) | 1.65x |  | pumpfun | 2026-03-20 05:22 |
+| 🟡 OSP | $0.000019 | **1.52x** ($+52) | 1.65x |  | pumpfun | 2026-03-20 05:22 |
 | 🟡 UOR | $0.000035 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 SHOENICE  | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
 | 🟢 WRT | $0.000007 | **4.49x** ($+349) | 4.62x | ✅ | pumpswap | 2026-03-20 00:59 |

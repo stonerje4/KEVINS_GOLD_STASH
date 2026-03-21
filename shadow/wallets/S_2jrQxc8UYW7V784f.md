@@ -1,6 +1,6 @@
 # Wallet: `2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW`
 
-> [GMGN](https://gmgn.ai/sol/address/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | [Solscan](https://solscan.io/account/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | Updated: 2026-03-21 12:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | [Solscan](https://solscan.io/account/2jrQxc8UYW7V784f8sLVnfRWr82YiQa5GhGvRAMEkHbW) | Updated: 2026-03-21 12:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-26 |
-| 🏦 Total | **$-26** |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-31** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -21,7 +21,7 @@
 | 🟡 MOCHI | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:58 |
 | 🔴 LINLIAN | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-21 01:54 |
 | 🟡 SPARKOS | $0.000038 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 04:35 |
-| 🔴 Genesis-2 | $0.000006 | **0.84x** ($-16) | 1.03x |  | pumpswap | 2026-03-20 03:47 |
+| 🔴 Genesis-2 | $0.000006 | **0.79x** ($-21) | 1.03x |  | pumpswap | 2026-03-20 03:47 |
 | 🔴 distraction | $0.000007 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 03:39 |
 
 ## Closed Positions

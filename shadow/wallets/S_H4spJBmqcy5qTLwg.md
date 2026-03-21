@@ -1,6 +1,6 @@
 # Wallet: `H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH`
 
-> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-21 12:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-21 12:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (16 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-52 |
-| 🏦 Total | **$-112** |
+| 📦 Unrealized | $-43 |
+| 🏦 Total | **$-104** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -33,7 +33,7 @@
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.10x |  | pumpswap | 2026-03-20 16:03 |
 | 🔴 OXIDE | $0.000032 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 電王 | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:31 |
-| 🟡 OSP | $0.000021 | **1.32x** ($+32) | 1.52x |  | pumpfun | 2026-03-20 07:21 |
+| 🟡 OSP | $0.000021 | **1.41x** ($+41) | 1.52x |  | pumpfun | 2026-03-20 07:21 |
 
 ## Closed Positions
 

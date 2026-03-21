@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 12:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 12:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 35 (26 open, 9 closed) |
 | W/L | 2/7 (22%) |
 | 💵 Realized | $-178 |
-| 📦 Unrealized | $-354 |
-| 🏦 Total | **$-531** |
+| 📦 Unrealized | $-355 |
+| 🏦 Total | **$-532** |
 | Best ROI | 2.95x |
 | Avg ROI | 0.80x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Dogue | $0.000007 | **0.69x** ($-31) | 1.03x |  | pumpswap | 2026-03-21 11:17 |
+| 🔴 Dogue | $0.000007 | **0.68x** ($-32) | 1.03x |  | pumpswap | 2026-03-21 11:17 |
 | 🟡 Sunshine | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:48 |
 | 🟡 JAMEELA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:05 |
 | 🟡 p-token | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:38 |
