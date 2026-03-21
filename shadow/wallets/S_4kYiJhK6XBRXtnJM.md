@@ -1,26 +1,25 @@
 # Wallet: `4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF`
 
-> [GMGN](https://gmgn.ai/sol/address/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | [Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-21 01:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | [Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-21 01:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (7 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-261 |
-| 📦 Unrealized | $-76 |
-| 🏦 Total | **$-338** |
+| Positions | 12 (6 open, 6 closed) |
+| W/L | 0/6 (0%) |
+| 💵 Realized | $-323 |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$-352** |
 | Best ROI | 0.82x |
-| Avg ROI | 0.48x |
+| Avg ROI | 0.46x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 YOU | $0.000019 | **0.48x** ($-52) | 1.13x |  | pumpfun | 2026-03-21 00:41 |
-| 🔴 world | $0.000027 | **0.99x** ($-1) | 1.25x |  | pumpswap | 2026-03-20 23:33 |
-| 🟡 STRAWBERRIES | $0.000008 | **1.22x** ($+22) | 2.31x | ✅ | pumpfun | 2026-03-20 21:50 |
+| 🔴 world | $0.000027 | **0.96x** ($-4) | 1.25x |  | pumpswap | 2026-03-20 23:33 |
+| 🟡 STRAWBERRIES | $0.000008 | **1.19x** ($+19) | 2.31x | ✅ | pumpfun | 2026-03-20 21:50 |
 | 🟡 Coglet | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:37 |
 | 🔴 PHM | $0.000007 | **0.86x** ($-14) | 1.37x |  | pumpfun | 2026-03-20 11:11 |
 | 🔴 BOAT | $0.000008 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 05:47 |
@@ -30,6 +29,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 YOU | 0.39x | $-61 | stop_loss | 1.13x | pumpfun | 2026-03-21 00:41 → 2026-03-21 01:20 |
 | 🟡 Minmiko | 0.82x | $-18 | trailing_stop_2x | 2.17x | pumpfun | 2026-03-20 21:32 → 2026-03-20 21:42 |
 | 🔴 LIFE | 0.40x | $-60 | stop_loss | 1.06x | pumpfun | 2026-03-20 21:30 → 2026-03-20 21:34 |
 | 🔴 Cigify | 0.38x | $-62 | stop_loss | 1.53x | pumpfun | 2026-03-20 21:08 → 2026-03-20 21:15 |

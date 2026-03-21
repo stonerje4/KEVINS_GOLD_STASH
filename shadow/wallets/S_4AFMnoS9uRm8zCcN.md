@@ -1,12 +1,12 @@
 # Wallet: `4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi`
 
-> [GMGN](https://gmgn.ai/sol/address/4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi) | [Solscan](https://solscan.io/account/4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi) | Updated: 2026-03-21 01:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi) | [Solscan](https://solscan.io/account/4AFMnoS9uRm8zCcNaqEJhnTWsLkswz1o5TZpPpz9qgTi) | Updated: 2026-03-21 01:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
+| Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
 | 📦 Unrealized | $-38 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 GLD | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:23 |
 | 🔴 CULTURE | $0.000006 | **0.42x** ($-58) | 1.01x |  | pumpfun | 2026-03-20 14:12 |
 | 🟡 BBX | $0.000016 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 12:26 |
 | 🟡 FTR | $0.000014 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 01:09 |

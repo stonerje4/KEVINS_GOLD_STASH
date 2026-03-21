@@ -1,6 +1,6 @@
 # Wallet: `C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST`
 
-> [GMGN](https://gmgn.ai/sol/address/C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST) | [Solscan](https://solscan.io/account/C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST) | Updated: 2026-03-21 01:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST) | [Solscan](https://solscan.io/account/C1cq7hN2ir63VzEiA5k54ho5GGXxqpUJHvBcenDbLDST) | Updated: 2026-03-21 01:25 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Massive | $0.000023 | **0.85x** ($-15) | 1.02x |  | pumpswap | 2026-03-20 23:20 |
+| 🔴 Massive | $0.000023 | **0.84x** ($-16) | 1.02x |  | pumpswap | 2026-03-20 23:20 |
 | 🟡 F3 | $0.000030 | **1.23x** ($+23) | 1.23x |  | pumpfun | 2026-03-20 22:27 |
 | 🔴 Judy | $0.000018 | **0.47x** ($-53) | 1.92x |  | pumpfun | 2026-03-20 13:14 |
 | 🟡 Barron | $0.000019 | **1.23x** ($+23) | 1.40x |  | pumpswap | 2026-03-20 10:30 |
