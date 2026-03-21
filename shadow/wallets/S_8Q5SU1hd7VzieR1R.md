@@ -1,16 +1,16 @@
 # Wallet: `8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx`
 
-> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-21 03:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-21 03:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
+| Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-68 |
-| 📦 Unrealized | $+225 |
-| 🏦 Total | **$+157** |
+| 📦 Unrealized | $+229 |
+| 🏦 Total | **$+161** |
 | Best ROI | 0.32x |
 | Avg ROI | 0.32x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PissElon | $0.000006 | **1.04x** ($+4) | 1.05x |  | pumpfun | 2026-03-21 03:18 |
 | 🔴 90S | $0.000023 | **0.89x** ($-11) | 1.26x |  | pumpswap | 2026-03-20 20:40 |
 | 🚀 Sadly | $0.000010 | **12.53x** ($+1,153) | 13.75x | ✅ | pumpfun | 2026-03-20 18:00 |
 | 🔴 Rosei | $0.000013 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 04:24 |
