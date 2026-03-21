@@ -1,6 +1,6 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-21 14:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-21 14:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (8 open, 10 closed) |
 | W/L | 0/10 (0%) |
 | 💵 Realized | $-600 |
-| 📦 Unrealized | $+17 |
-| 🏦 Total | **$-583** |
+| 📦 Unrealized | $+19 |
+| 🏦 Total | **$-581** |
 | Best ROI | 0.79x |
 | Avg ROI | 0.40x |
 
@@ -24,7 +24,7 @@
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:09 |
 | 🟡 Zhdun | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:12 |
 | 🟢 Pixels | $0.000014 | **2.32x** ($+132) | 3.11x | ✅ | pumpswap | 2026-03-20 07:26 |
-| 🔴 来根华子 | $0.000018 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
+| 🔴 来根华子 | $0.000018 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
 | 🟡 Unemployed | $0.000007 | **1.17x** ($+17) | 1.55x |  | pumpswap | 2026-03-20 06:48 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-21 14:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-21 14:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (8 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-75 |
-| 🏦 Total | **$-135** |
+| 📦 Unrealized | $-66 |
+| 🏦 Total | **$-126** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 dick | $0.000006 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-21 14:06 |
+| 🟡 dick | $0.000006 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-21 14:06 |
 | 🟡 CHICK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 13:12 |
 | 🟡 HDD | $0.000036 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-21 13:02 |
 | 🔴 NARUTO | $0.000010 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 18:15 |

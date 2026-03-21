@@ -1,6 +1,6 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-21 14:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-21 14:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+42 |
-| 🏦 Total | **$+42** |
+| 📦 Unrealized | $+18 |
+| 🏦 Total | **$+18** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -23,7 +23,7 @@
 | 🔴 Panya | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🟡 chibify | $0.000006 | **1.09x** ($+9) | 1.43x |  | pumpswap | 2026-03-20 10:33 |
 | 🔴 Genesis-2 | $0.000006 | **0.94x** ($-6) | 1.26x |  | pumpswap | 2026-03-20 00:40 |
-| 🟡 Eugene | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:39 |
+| 🔴 Eugene | $0.000040 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 00:39 |
 | 🔴 LUMO | $0.000035 | **0.58x** ($-42) | 1.75x |  | pumpswap | 2026-03-19 23:03 |
 
 ## Closed Positions

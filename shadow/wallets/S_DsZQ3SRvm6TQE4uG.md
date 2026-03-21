@@ -1,16 +1,16 @@
 # Wallet: `DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw`
 
-> [GMGN](https://gmgn.ai/sol/address/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | [Solscan](https://solscan.io/account/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | Updated: 2026-03-21 14:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | [Solscan](https://solscan.io/account/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | Updated: 2026-03-21 14:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (10 open, 3 closed) |
+| Positions | 14 (11 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-182 |
-| 📦 Unrealized | $+22 |
-| 🏦 Total | **$-160** |
+| 📦 Unrealized | $+3 |
+| 🏦 Total | **$-179** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 78FqBTpn | $0.000006 | **2.31x** ($+131) | 3.03x | ✅ | pumpfun | 2026-03-21 13:54 |
+| 🔴 HANK | $0.000008 | **0.85x** ($-15) | 1.32x |  | pumpfun | 2026-03-21 14:40 |
+| 🟢 78FqBTpn | $0.000006 | **2.22x** ($+122) | 3.03x | ✅ | pumpfun | 2026-03-21 13:54 |
 | 🔴 Koko | $0.000006 | **0.41x** ($-59) | 1.76x |  | pumpfun | 2026-03-21 13:50 |
 | 🔴 SLOW | $0.000005 | **0.47x** ($-53) | 1.00x |  | pumpfun | 2026-03-21 12:53 |
 | 🟢 man | $0.000010 | **3.72x** ($+272) | 3.72x | ✅ | pumpfun | 2026-03-21 10:32 |

@@ -1,6 +1,6 @@
 # Wallet: `FnLcMfuGXdSRzQPDjVhmNsQB3yX2paciFXFCSzC5Vej6`
 
-> [GMGN](https://gmgn.ai/sol/address/FnLcMfuGXdSRzQPDjVhmNsQB3yX2paciFXFCSzC5Vej6) | [Solscan](https://solscan.io/account/FnLcMfuGXdSRzQPDjVhmNsQB3yX2paciFXFCSzC5Vej6) | Updated: 2026-03-21 14:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/FnLcMfuGXdSRzQPDjVhmNsQB3yX2paciFXFCSzC5Vej6) | [Solscan](https://solscan.io/account/FnLcMfuGXdSRzQPDjVhmNsQB3yX2paciFXFCSzC5Vej6) | Updated: 2026-03-21 14:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-131 |
-| 📦 Unrealized | $-25 |
-| 🏦 Total | **$-156** |
+| 📦 Unrealized | $-23 |
+| 🏦 Total | **$-154** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.34x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 来根华子 | $0.000020 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 07:22 |
+| 🔴 来根华子 | $0.000020 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 07:22 |
 
 ## Closed Positions
 
