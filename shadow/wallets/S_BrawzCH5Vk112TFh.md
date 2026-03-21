@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 04:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 04:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 176 (170 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-1,320 |
-| 🏦 Total | **$-1,273** |
+| 📦 Unrealized | $-1,322 |
+| 🏦 Total | **$-1,275** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.08x |
 
@@ -98,7 +98,7 @@
 | 🟡 しずく | $0.000015 | **1.04x** ($+4) | 1.26x |  | pumpswap | 2026-03-20 08:09 |
 | 🟡 OPTIMUS | $0.000015 | **1.20x** ($+20) | 1.26x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 chud | $0.000015 | **1.05x** ($+5) | 2.36x | ✅ | pumpswap | 2026-03-20 08:01 |
-| 🟡 CLAW | $0.000027 | **1.04x** ($+4) | 1.16x |  | pumpswap | 2026-03-20 07:44 |
+| 🟡 CLAW | $0.000027 | **1.01x** ($+1) | 1.16x |  | pumpswap | 2026-03-20 07:44 |
 | 🔴 WID | $0.000019 | **0.80x** ($-20) | 1.35x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 DLSS5 | $0.000021 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 07:16 |
 | 🔴 AMBER | $0.000013 | **0.87x** ($-13) | 1.13x |  | pumpswap | 2026-03-20 07:15 |

@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 04:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 04:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 157 (148 open, 9 closed) |
 | W/L | 2/7 (22%) |
 | 💵 Realized | $+6 |
-| 📦 Unrealized | $-714 |
-| 🏦 Total | **$-707** |
+| 📦 Unrealized | $-716 |
+| 🏦 Total | **$-710** |
 | Best ROI | 2.96x |
 | Avg ROI | 1.01x |
 
@@ -103,7 +103,7 @@
 | 🟡 chud | $0.000015 | **1.03x** ($+3) | 2.34x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🟡 OPTIMUS | $0.000015 | **1.21x** ($+21) | 1.27x |  | pumpswap | 2026-03-20 07:53 |
 | 🟡 AIFRUIT | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
-| 🟡 CLAW | $0.000027 | **1.04x** ($+4) | 1.17x |  | pumpswap | 2026-03-20 07:44 |
+| 🟡 CLAW | $0.000027 | **1.02x** ($+2) | 1.17x |  | pumpswap | 2026-03-20 07:44 |
 | 🔴 NICK | $0.000029 | **0.81x** ($-19) | 1.16x |  | pumpswap | 2026-03-20 07:30 |
 | 🔴 WID | $0.000019 | **0.80x** ($-20) | 1.36x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 clawedin | $0.000011 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
