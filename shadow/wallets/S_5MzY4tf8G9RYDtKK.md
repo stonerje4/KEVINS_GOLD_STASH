@@ -1,6 +1,6 @@
 # Wallet: `5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A`
 
-> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | [Solscan](https://solscan.io/account/5MzY4tf8G9RYDtKK1bSyqmArmuVRsrbAeieh48DUdE9A) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 42 (17 open, 25 closed) |
 | W/L | 2/23 (8%) |
 | 💵 Realized | $-878 |
-| 📦 Unrealized | $-363 |
-| 🏦 Total | **$-1,240** |
+| 📦 Unrealized | $-377 |
+| 🏦 Total | **$-1,255** |
 | Best ROI | 2.93x |
 | Avg ROI | 0.65x |
 
@@ -28,7 +28,7 @@
 | 🔴 LIBERTY | $0.000021 | **1.00x** ($-0) | 1.15x |  | pumpswap | 2026-03-20 01:39 |
 | 🟡 JELLYTENT | $0.000011 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:52 |
 | 🔴 SKIBIDI | $0.000006 | **0.44x** ($-56) | 1.76x |  | pumpfun | 2026-03-20 00:40 |
-| 🔴 jeff | $0.000023 | **0.95x** ($-5) | 1.08x |  | pumpswap | 2026-03-20 00:24 |
+| 🔴 jeff | $0.000023 | **0.81x** ($-19) | 1.08x |  | pumpswap | 2026-03-20 00:24 |
 | 🔴 REKT | $0.000009 | **0.52x** ($-48) | 1.34x |  | pumpfun | 2026-03-19 23:46 |
 | 🔴 ONEAI | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-19 23:18 |
 | 🔴 PRINTER | $0.000005 | **0.49x** ($-51) | 1.38x |  | pumpfun | 2026-03-19 22:57 |

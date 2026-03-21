@@ -1,6 +1,6 @@
 # Wallet: `CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft`
 
-> [GMGN](https://gmgn.ai/sol/address/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | [Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | [Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+51** |
+| 📦 Unrealized | $+50 |
+| 🏦 Total | **$+50** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 King | $0.000008 | **2.48x** ($+148) | 2.79x | ✅ | pumpswap | 2026-03-20 00:45 |
-| 🔴 XAI | $0.000014 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
+| 🟢 King | $0.000008 | **2.90x** ($+190) | 3.30x | ✅ | pumpswap | 2026-03-20 00:45 |
+| 🔴 XAI | $0.000014 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
 
 ## Closed Positions
 

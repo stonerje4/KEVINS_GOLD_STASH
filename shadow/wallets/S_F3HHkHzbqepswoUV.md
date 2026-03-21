@@ -1,6 +1,6 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (14 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-325 |
-| 📦 Unrealized | $+142 |
-| 🏦 Total | **$-183** |
+| 📦 Unrealized | $+144 |
+| 🏦 Total | **$-180** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.46x |
 
@@ -25,7 +25,7 @@
 | 🟡 Luxury | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟡 DRONE | $0.000006 | **1.23x** ($+23) | 1.23x |  | pumpfun | 2026-03-20 12:31 |
 | 🟡 $PEPETO | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
-| 🟡 OSP | $0.000021 | **1.63x** ($+63) | 1.63x |  | pumpfun | 2026-03-20 10:51 |
+| 🟡 OSP | $0.000021 | **1.65x** ($+65) | 1.67x |  | pumpfun | 2026-03-20 10:51 |
 | 🔴 BBX | $0.000009 | **0.76x** ($-24) | 1.00x |  | pumpfun | 2026-03-20 10:17 |
 | 🟡 f26 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:10 |
 | 🟡 FTR | $0.000006 | **1.24x** ($+24) | 1.53x |  | pumpfun | 2026-03-20 10:08 |

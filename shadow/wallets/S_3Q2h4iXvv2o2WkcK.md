@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 37 (28 open, 9 closed) |
 | W/L | 2/7 (22%) |
 | 💵 Realized | $-178 |
-| 📦 Unrealized | $-362 |
-| 🏦 Total | **$-540** |
+| 📦 Unrealized | $-365 |
+| 🏦 Total | **$-542** |
 | Best ROI | 2.95x |
 | Avg ROI | 0.80x |
 
@@ -38,7 +38,7 @@
 | 🟡 PACO | $0.000009 | **1.39x** ($+39) | 1.40x |  | pumpswap | 2026-03-20 15:45 |
 | 🔴 clod | $0.000031 | **0.43x** ($-57) | 1.26x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Pixel | $0.000008 | **1.14x** ($+14) | 1.97x |  | pumpswap | 2026-03-20 09:08 |
-| 🔴 Freebuff | $0.000006 | **0.64x** ($-36) | 1.29x |  | pumpswap | 2026-03-20 08:10 |
+| 🔴 Freebuff | $0.000006 | **0.61x** ($-39) | 1.29x |  | pumpswap | 2026-03-20 08:10 |
 | 🔴 DRIVE | $0.000028 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 07:09 |
 | 🟡 Luxury | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:24 |
 | 🔴 LUMO | $0.000034 | **0.60x** ($-40) | 1.82x |  | pumpswap | 2026-03-20 03:58 |

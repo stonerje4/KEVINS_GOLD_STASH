@@ -1,6 +1,6 @@
 # Wallet: `Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T`
 
-> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | [Solscan](https://solscan.io/account/Div6cVovWmtPsoWH5PENUqwTxPgDtHEhfDZUbzZJP32T) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (14 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-218 |
-| 📦 Unrealized | $-174 |
-| 🏦 Total | **$-392** |
+| 📦 Unrealized | $-180 |
+| 🏦 Total | **$-399** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.56x |
 
@@ -21,7 +21,7 @@
 | 🟡 MINMIKO | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 04:01 |
 | 🔴 FSC | $0.000025 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 22:07 |
 | 🟡 face | $0.000006 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-20 21:47 |
-| 🟡 BOUNCE | $0.000006 | **1.01x** ($+1) | 1.08x |  | pumpfun | 2026-03-20 20:16 |
+| 🔴 BOUNCE | $0.000006 | **0.94x** ($-6) | 1.09x |  | pumpfun | 2026-03-20 20:16 |
 | 🟡 Cow | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:10 |
 | 🟡 Invincible | $0.000006 | **1.12x** ($+12) | 1.24x |  | pumpswap | 2026-03-20 08:19 |
 | 🔴 BOAT | $0.000007 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 07:49 |

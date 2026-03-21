@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 emy | $0.000030 | **0.75x** ($-25) | 1.41x |  | pumpswap | 2026-03-21 13:31 |
+| 🔴 emy | $0.000030 | **0.74x** ($-26) | 1.41x |  | pumpswap | 2026-03-21 13:31 |
 | 🟢 アトム | $0.000013 | **2.75x** ($+175) | 2.75x | ✅ | pumpfun | 2026-03-21 12:20 |
 | 🔴 CAGE | $0.000005 | **0.47x** ($-53) | 1.54x |  | pumpfun | 2026-03-20 20:01 |
 | 🔴 Benicio | $0.000010 | **0.87x** ($-13) | 1.47x |  | pumpfun | 2026-03-20 19:44 |

@@ -1,12 +1,12 @@
 # Wallet: `6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc`
 
-> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (16 open, 0 closed) |
+| Positions | 17 (17 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-193 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DLSS5 | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 14:32 |
 | 🔴 effect | $0.000009 | **0.83x** ($-17) | 1.02x |  | pumpswap | 2026-03-21 01:05 |
 | 🔴 Grokputer | $0.000007 | **0.82x** ($-18) | 1.31x |  | pumpswap | 2026-03-21 00:52 |
 | 🔴 Beecat | $0.000005 | **0.76x** ($-24) | 1.57x |  | pumpswap | 2026-03-21 00:22 |

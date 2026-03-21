@@ -1,6 +1,6 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 24 (13 open, 11 closed) |
 | W/L | 2/9 (18%) |
 | 💵 Realized | $-458 |
-| 📦 Unrealized | $-259 |
-| 🏦 Total | **$-717** |
+| 📦 Unrealized | $-258 |
+| 🏦 Total | **$-716** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.58x |
 
@@ -21,7 +21,7 @@
 | 🟡 GUI | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 14:04 |
 | 🟡 FOID | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:42 |
 | 🔴 7aNXLDmt | $0.000006 | **0.44x** ($-56) | 1.07x |  | pumpfun | 2026-03-21 08:31 |
-| 🔴 pa | $0.000013 | **0.67x** ($-33) | 1.30x |  | pumpfun | 2026-03-21 05:50 |
+| 🔴 pa | $0.000013 | **0.68x** ($-32) | 1.30x |  | pumpfun | 2026-03-21 05:50 |
 | 🔴 Handprint | $0.000008 | **0.99x** ($-1) | 1.58x |  | pumpswap | 2026-03-20 13:29 |
 | 🔴 foid | $0.000027 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 13:25 |
 | 🟡 Autobots | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |

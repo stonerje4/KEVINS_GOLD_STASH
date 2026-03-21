@@ -1,6 +1,6 @@
 # Wallet: `D1Luq15A7iNvK4qNuVYTBqGS6g1dJRkvete7xK5Tjvhu`
 
-> [GMGN](https://gmgn.ai/sol/address/D1Luq15A7iNvK4qNuVYTBqGS6g1dJRkvete7xK5Tjvhu) | [Solscan](https://solscan.io/account/D1Luq15A7iNvK4qNuVYTBqGS6g1dJRkvete7xK5Tjvhu) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/D1Luq15A7iNvK4qNuVYTBqGS6g1dJRkvete7xK5Tjvhu) | [Solscan](https://solscan.io/account/D1Luq15A7iNvK4qNuVYTBqGS6g1dJRkvete7xK5Tjvhu) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-9 |
-| 🏦 Total | **$-9** |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$-17** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 EMY | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:43 |
-| 🔴 Agentmaxxing | $0.000009 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-20 13:38 |
+| 🔴 Agentmaxxing | $0.000009 | **0.83x** ($-17) | 1.02x |  | pumpswap | 2026-03-20 13:38 |
 
 ## Closed Positions
 

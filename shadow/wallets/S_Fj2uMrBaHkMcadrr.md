@@ -1,6 +1,6 @@
 # Wallet: `Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv`
 
-> [GMGN](https://gmgn.ai/sol/address/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | [Solscan](https://solscan.io/account/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | [Solscan](https://solscan.io/account/Fj2uMrBaHkMcadrrTXeT5WSKfS6TCZyMUN1sSnoxQawv) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-59 |
-| 🏦 Total | **$-59** |
+| 📦 Unrealized | $-65 |
+| 🏦 Total | **$-65** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -21,8 +21,8 @@
 | 🔴 Universe | $0.000015 | **0.95x** ($-5) | 1.02x |  | pumpswap | 2026-03-21 07:51 |
 | 🟡 METAMEME | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:35 |
 | 🔴 LOBCOIN | $0.000014 | **0.83x** ($-17) | 1.05x |  | pumpswap | 2026-03-21 04:08 |
-| 🔴 XAI | $0.000011 | **0.95x** ($-5) | 1.01x |  | pumpswap | 2026-03-19 23:36 |
-| 🔴 xAI | $0.000025 | **0.68x** ($-32) | 1.00x |  | pumpfun | 2026-03-19 23:34 |
+| 🔴 XAI | $0.000011 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-19 23:36 |
+| 🔴 xAI | $0.000025 | **0.66x** ($-34) | 1.00x |  | pumpfun | 2026-03-19 23:34 |
 
 ## Closed Positions
 

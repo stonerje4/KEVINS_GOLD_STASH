@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 27 (26 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-42 |
-| 📦 Unrealized | $-99 |
-| 🏦 Total | **$-142** |
+| 📦 Unrealized | $-94 |
+| 🏦 Total | **$-137** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.58x |
 
@@ -19,13 +19,13 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Geeked | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 14:19 |
-| 🟡 jeff | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 14:19 |
-| 🟡 AlphA | $0.000011 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-21 14:14 |
+| 🔴 jeff | $0.000021 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-21 14:19 |
+| 🟡 AlphA | $0.000011 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-21 14:14 |
 | 🟡 Takaichi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 13:42 |
 | 🟡 Apple | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:37 |
 | 🟡 DoubleT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:32 |
 | 🟡 NemoClaw | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:20 |
-| 🔴 K2 | $0.000020 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-21 12:55 |
+| 🟡 K2 | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:55 |
 | 🔴 Wob | $0.000023 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 Flash | $0.000038 | **1.33x** ($+33) | 1.53x |  | pumpswap | 2026-03-20 10:43 |
 | 🔴 awkward | $0.000013 | **0.48x** ($-52) | 1.34x |  | pumpfun | 2026-03-20 10:09 |
@@ -41,8 +41,8 @@
 | 🔴 AGI | $0.000018 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 01:46 |
 | 🔴 Method | $0.000014 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:45 |
 | 🟡 Slop | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:43 |
-| 🟡 Simulation | $0.000005 | **1.23x** ($+23) | 2.73x | ✅ | pumpswap | 2026-03-20 01:43 |
-| 🔴 Manosphere | $0.000007 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
+| 🟡 Simulation | $0.000005 | **1.37x** ($+37) | 2.73x | ✅ | pumpswap | 2026-03-20 01:43 |
+| 🔴 Manosphere | $0.000007 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🔴 Strawberina | $0.000008 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-19 23:57 |
 
 ## Closed Positions

@@ -1,16 +1,16 @@
 # Wallet: `8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU`
 
-> [GMGN](https://gmgn.ai/sol/address/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | [Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | [Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (1 open, 8 closed) |
+| Positions | 10 (2 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-375 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-375** |
+| 📦 Unrealized | $-58 |
+| 🏦 Total | **$-433** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.53x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 twttr | $0.000022 | **0.42x** ($-58) | 1.29x |  | pumpfun | 2026-03-21 14:31 |
 | 🟡 EMY | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:35 |
 
 ## Closed Positions

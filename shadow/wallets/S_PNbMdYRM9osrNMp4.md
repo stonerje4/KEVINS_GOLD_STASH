@@ -1,30 +1,29 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 14:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 14:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 24 (14 open, 10 closed) |
-| W/L | 1/9 (10%) |
-| 💵 Realized | $-484 |
-| 📦 Unrealized | $-332 |
+| Positions | 24 (13 open, 11 closed) |
+| W/L | 1/10 (9%) |
+| 💵 Realized | $-546 |
+| 📦 Unrealized | $-270 |
 | 🏦 Total | **$-816** |
 | Best ROI | 1.45x |
-| Avg ROI | 0.52x |
+| Avg ROI | 0.50x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 FOID | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:10 |
-| 🟡 Simulation | $0.000005 | **1.20x** ($+20) | 2.67x | ✅ | pumpswap | 2026-03-21 07:32 |
-| 🔴 Shake | $0.000008 | **0.45x** ($-55) | 1.09x |  | pumpfun | 2026-03-21 05:35 |
+| 🟡 Simulation | $0.000005 | **1.35x** ($+35) | 2.67x | ✅ | pumpswap | 2026-03-21 07:32 |
 | 🟡 Income | $0.000013 | **1.03x** ($+3) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
 | 🔴 PVE | $0.000012 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 15:52 |
 | 🔴 Samba | $0.000013 | **0.70x** ($-30) | 1.59x |  | pumpswap | 2026-03-20 15:27 |
-| 🟡 Feels | $0.000010 | **1.18x** ($+18) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
+| 🟡 Feels | $0.000010 | **1.17x** ($+17) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 LVLUP | $0.000007 | **0.96x** ($-4) | 1.32x |  | pumpfun | 2026-03-20 15:00 |
 | 🔴 clod | $0.000020 | **0.67x** ($-33) | 1.99x |  | pumpswap | 2026-03-20 12:04 |
 | 🔴 chud | $0.000022 | **0.68x** ($-32) | 1.53x |  | pumpswap | 2026-03-20 05:50 |
@@ -37,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Shake | 0.38x | $-62 | stop_loss | 1.09x | pumpfun | 2026-03-21 05:35 → 2026-03-21 14:33 |
 | 🔴 Beecat | 0.76x | $-24 | trailing_stop_3x | 2.57x | pumpswap | 2026-03-20 23:41 → 2026-03-21 00:19 |
 | 🔴 ME | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:51 → 2026-03-21 02:40 |
 | 🔴 Patience | 0.16x | $-84 | stop_loss | 1.00x | pumpswap | 2026-03-20 04:31 → 2026-03-21 08:46 |
