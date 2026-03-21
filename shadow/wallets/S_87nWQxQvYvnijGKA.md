@@ -1,18 +1,18 @@
 # Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
 
-> [GMGN](https://gmgn.ai/sol/address/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | [Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-21 01:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | [Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-21 01:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (11 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-61 |
-| 📦 Unrealized | $-49 |
-| 🏦 Total | **$-110** |
+| Positions | 12 (10 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-136 |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$-130** |
 | Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| Avg ROI | 0.32x |
 
 ## Open Positions
 
@@ -25,8 +25,7 @@
 | 🟡 OSP | $0.000005 | **1.23x** ($+23) | 1.26x |  | pumpfun | 2026-03-20 16:33 |
 | 🟡 e-CNY | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:06 |
 | 🔴 OSP | $0.000015 | **1.00x** ($-0) | 1.06x |  | pumpfun | 2026-03-20 08:58 |
-| 🔴 NBR | $0.000011 | **0.87x** ($-13) | 1.31x |  | pumpfun | 2026-03-20 07:07 |
-| 🔴 NBR | $0.000024 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 05:05 |
+| 🔴 NBR | $0.000011 | **0.88x** ($-12) | 1.31x |  | pumpfun | 2026-03-20 07:07 |
 | 🔴 USAOIL | $0.000005 | **0.54x** ($-46) | 1.13x |  | pumpfun | 2026-03-20 04:01 |
 | 🟡 WRT | $0.000018 | **1.65x** ($+65) | 1.75x |  | pumpswap | 2026-03-20 03:13 |
 
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 NBR | 0.25x | $-75 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:05 → 2026-03-21 01:39 |
 | 🔴 NBR | 0.39x | $-61 | stop_loss | 1.29x | pumpfun | 2026-03-20 04:55 → 2026-03-20 22:39 |
 
 ---

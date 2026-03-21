@@ -1,6 +1,6 @@
 # Wallet: `DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW`
 
-> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-21 01:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | [Solscan](https://solscan.io/account/DL5SoUNYbHz9NmsqmwYrwWouwkzsLseMuzhJYwh5HFaW) | Updated: 2026-03-21 01:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (9 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-152 |
-| 📦 Unrealized | $-186 |
-| 🏦 Total | **$-337** |
+| 📦 Unrealized | $-193 |
+| 🏦 Total | **$-344** |
 | Best ROI | 0.78x |
 | Avg ROI | 0.49x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 𝕏CAT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:48 |
 | 🔴 Rosei | $0.000022 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 13:18 |
-| 🔴 JEREMY | $0.000011 | **0.53x** ($-47) | 1.51x |  | pumpswap | 2026-03-20 12:10 |
+| 🔴 JEREMY | $0.000011 | **0.45x** ($-55) | 1.51x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 SCOTT | $0.000012 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 01:29 |
 | 🔴 FKH | $0.000020 | **0.93x** ($-7) | 1.14x |  | pumpswap | 2026-03-20 01:26 |
 | 🔴 DAU | $0.000008 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 01:05 |

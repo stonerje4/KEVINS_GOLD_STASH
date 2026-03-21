@@ -1,18 +1,18 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-21 01:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-21 01:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (13 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-124 |
-| 📦 Unrealized | $+81 |
-| 🏦 Total | **$-43** |
+| Positions | 15 (12 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-199 |
+| 📦 Unrealized | $+129 |
+| 🏦 Total | **$-71** |
 | Best ROI | 0.39x |
-| Avg ROI | 0.38x |
+| Avg ROI | 0.34x |
 
 ## Open Positions
 
@@ -20,10 +20,9 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 UGOR | $0.000005 | **1.01x** ($+1) | 1.04x |  | pumpfun | 2026-03-21 00:21 |
 | 🟡 FUEGO | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:56 |
-| 🟡 FTR | $0.000014 | **1.21x** ($+21) | 1.21x |  | pumpfun | 2026-03-20 14:42 |
+| 🟡 FTR | $0.000014 | **1.16x** ($+16) | 1.21x |  | pumpfun | 2026-03-20 14:42 |
 | 🔴 TGR | $0.000010 | **0.98x** ($-2) | 1.05x |  | pumpfun | 2026-03-20 07:55 |
 | 🔴 USRNR | $0.000006 | **0.90x** ($-10) | 1.02x |  | pumpfun | 2026-03-20 07:46 |
-| 🔴 NBR | $0.000024 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 05:46 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:16 |
 | 🟡 OSP | $0.000014 | **1.80x** ($+80) | 1.97x |  | pumpfun | 2026-03-20 04:20 |
 | 🟡 OIL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:18 |
@@ -38,6 +37,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 NBR | 0.39x | $-61 | stop_loss | 1.26x | pumpswap | 2026-03-20 14:54 → 2026-03-20 22:39 |
 | 🔴 CULTURE | 0.36x | $-64 | stop_loss | 1.44x | pumpfun | 2026-03-20 14:10 → 2026-03-20 14:14 |
+| 🔴 NBR | 0.25x | $-75 | stop_loss | 1.00x | pumpswap | 2026-03-20 05:46 → 2026-03-21 01:39 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,23 +1,23 @@
 # PRD Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
 
-> [GMGN](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | [Solscan](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | Updated: 2026-03-21 01:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | [Solscan](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | Updated: 2026-03-21 01:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Trades | 6 (1 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | -0.5531 SOL ($-49.77) |
-| ⛽ Gas | 0.0255 SOL |
-| 📦 Unrealized | +0.2162 SOL |
-| 🏦 Net | **-0.3369 SOL** ($-30.32) |
+| Trades | 6 (0 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | -0.3480 SOL ($-31.32) |
+| ⛽ Gas | 0.0326 SOL |
+| 📦 Unrealized | +0.0000 SOL |
+| 🏦 Net | **-0.3480 SOL** ($-31.32) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🟢 OIL | open | 0.11 | 3.01x | 3.15x | +0.2162 | — |
+| 🟢 OIL | closed | 0.11 | 2.88x | 5.30x | +0.2051 | runner_trailing_stop |
 | 🔴 Oatmeal | closed | 0.11 | 0.82x | 1.03x | -0.1190 | ghost_close_zero_balance |
 | 🔴 GENA | closed | 0.11 | 0.46x | 1.00x | -0.1199 | ghost_close_zero_balance |
 | 🔴 WALKER | closed | 0.11 | 0.63x | 1.95x | -0.1190 | ghost_close_zero_balance |
