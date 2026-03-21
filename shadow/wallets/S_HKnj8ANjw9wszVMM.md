@@ -1,6 +1,6 @@
 # Wallet: `HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4`
 
-> [GMGN](https://gmgn.ai/sol/address/HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4) | [Solscan](https://solscan.io/account/HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4) | Updated: 2026-03-21 02:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4) | [Solscan](https://solscan.io/account/HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4) | Updated: 2026-03-21 02:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
-| 📦 Unrealized | $+37 |
-| 🏦 Total | **$+84** |
+| 📦 Unrealized | $+27 |
+| 🏦 Total | **$+74** |
 | Best ROI | 1.48x |
 | Avg ROI | 1.48x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Babyify | $0.000009 | **1.16x** ($+16) | 1.59x |  | pumpfun | 2026-03-21 01:23 |
+| 🟡 Babyify | $0.000009 | **1.06x** ($+6) | 1.59x |  | pumpfun | 2026-03-21 01:23 |
 | 🟡 TUNE | $0.000014 | **1.11x** ($+11) | 1.26x |  | pumpswap | 2026-03-21 00:37 |
 | 🟡 STRAWBERRIES | $0.000008 | **1.20x** ($+20) | 2.27x | ✅ | pumpfun | 2026-03-20 21:42 |
 
