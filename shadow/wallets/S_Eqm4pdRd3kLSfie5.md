@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 02:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 02:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 30 (19 open, 11 closed) |
 | W/L | 2/9 (18%) |
 | 💵 Realized | $-352 |
-| 📦 Unrealized | $+8 |
-| 🏦 Total | **$-344** |
+| 📦 Unrealized | $+12 |
+| 🏦 Total | **$-340** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.68x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 J8piKJCf | $0.000005 | **0.49x** ($-51) | 1.30x |  | pumpfun | 2026-03-20 23:20 |
 | 🔴 ✨ | $0.000006 | **0.40x** ($-60) | 1.10x |  | pumpfun | 2026-03-20 22:29 |
-| 🔴 SNIFFER | $0.000026 | **1.00x** ($-0) | 1.49x |  | pumpswap | 2026-03-20 22:13 |
+| 🟡 SNIFFER | $0.000026 | **1.04x** ($+4) | 1.49x |  | pumpswap | 2026-03-20 22:13 |
 | 🚀 LIFE | $0.000005 | **6.68x** ($+568) | 6.68x | ✅ | pumpfun | 2026-03-20 21:52 |
 | 🟢 Cigify | $0.000010 | **3.68x** ($+268) | 3.68x | ✅ | pumpfun | 2026-03-20 20:55 |
 | 🔴 Samba | $0.000015 | **0.53x** ($-47) | 1.35x |  | pumpswap | 2026-03-20 20:42 |
@@ -28,7 +28,7 @@
 | 🔴 Aura | $0.000006 | **0.71x** ($-29) | 1.31x |  | pumpfun | 2026-03-20 20:22 |
 | 🔴 Forget | $0.000008 | **0.96x** ($-4) | 1.59x |  | pumpswap | 2026-03-20 19:24 |
 | 🔴 Massive | $0.000029 | **0.49x** ($-51) | 1.10x |  | pumpswap | 2026-03-20 18:52 |
-| 🔴 Sunshine | $0.000008 | **0.58x** ($-42) | 1.12x |  | pumpswap | 2026-03-20 18:45 |
+| 🔴 Sunshine | $0.000008 | **0.57x** ($-43) | 1.12x |  | pumpswap | 2026-03-20 18:45 |
 | 🟡 SBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:34 |
 | 🟡 cigarette | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 PHIBZ | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:28 |

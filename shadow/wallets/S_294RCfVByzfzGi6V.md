@@ -1,6 +1,6 @@
 # Wallet: `294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN`
 
-> [GMGN](https://gmgn.ai/sol/address/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | [Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-21 02:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | [Solscan](https://solscan.io/account/294RCfVByzfzGi6Vb4xkHvXwJ6ed2wsSegFtdNMQFSEN) | Updated: 2026-03-21 02:05 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 14 (11 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-186 |
-| 📦 Unrealized | $-65 |
+| 📦 Unrealized | $-66 |
 | 🏦 Total | **$-251** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
@@ -28,7 +28,7 @@
 | 🔴 JAMES | $0.000006 | **0.45x** ($-55) | 1.00x |  | pumpswap | 2026-03-20 02:04 |
 | 🟡 IShowSpeed | $0.000014 | **1.16x** ($+16) | 1.42x |  | pumpswap | 2026-03-20 02:02 |
 | 🔴 CHIBITRUMP | $0.000018 | **0.77x** ($-23) | 1.04x |  | pumpswap | 2026-03-20 00:52 |
-| 🟡 CHIBI | $0.000010 | **1.26x** ($+26) | 2.60x | ✅ | pumpswap | 2026-03-19 23:18 |
+| 🟡 CHIBI | $0.000010 | **1.25x** ($+25) | 2.60x | ✅ | pumpswap | 2026-03-19 23:18 |
 
 ## Closed Positions
 

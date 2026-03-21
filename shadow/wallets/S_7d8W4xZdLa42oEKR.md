@@ -1,6 +1,6 @@
 # Wallet: `7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ`
 
-> [GMGN](https://gmgn.ai/sol/address/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | [Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-21 02:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | [Solscan](https://solscan.io/account/7d8W4xZdLa42oEKRzCxKrtrKjC5vREZk42gkUMFfTrZJ) | Updated: 2026-03-21 02:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $-6 |
-| 🏦 Total | **$-84** |
+| 📦 Unrealized | $-5 |
+| 🏦 Total | **$-82** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.61x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 IMAGINE | $0.000035 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-21 01:53 |
+| 🔴 IMAGINE | $0.000035 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-21 01:53 |
 | 🟢 CRACK | $0.000018 | **2.08x** ($+108) | 2.08x | ✅ | pumpfun | 2026-03-20 20:37 |
 | 🟡 Imaginify | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 19:49 |
 | 🔴 Forget | $0.000011 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 19:33 |
-| 🔴 Saxophones | $0.000035 | **0.83x** ($-17) | 1.67x |  | pumpswap | 2026-03-20 01:16 |
+| 🔴 Saxophones | $0.000035 | **0.82x** ($-18) | 1.67x |  | pumpswap | 2026-03-20 01:16 |
 
 ## Closed Positions
 

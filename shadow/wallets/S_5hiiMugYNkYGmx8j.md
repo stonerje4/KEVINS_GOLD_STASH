@@ -1,6 +1,6 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-21 02:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-21 02:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (9 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-334 |
-| 📦 Unrealized | $-15 |
-| 🏦 Total | **$-349** |
+| 📦 Unrealized | $-16 |
+| 🏦 Total | **$-350** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.33x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Ray | $0.000006 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 23:18 |
+| 🔴 Ray | $0.000006 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 23:18 |
 | 🟡 p-token | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:22 |
 | 🟡 pa | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:30 |
 | 🔴 CHIBITRUMP | $0.000020 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 11:26 |

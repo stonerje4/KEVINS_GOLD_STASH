@@ -1,6 +1,6 @@
 # Wallet: `CbC6Q9kTHNNVaQtc6i8kAYrdZDdMazf13EgnsbBzgVTs`
 
-> [GMGN](https://gmgn.ai/sol/address/CbC6Q9kTHNNVaQtc6i8kAYrdZDdMazf13EgnsbBzgVTs) | [Solscan](https://solscan.io/account/CbC6Q9kTHNNVaQtc6i8kAYrdZDdMazf13EgnsbBzgVTs) | Updated: 2026-03-21 02:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/CbC6Q9kTHNNVaQtc6i8kAYrdZDdMazf13EgnsbBzgVTs) | [Solscan](https://solscan.io/account/CbC6Q9kTHNNVaQtc6i8kAYrdZDdMazf13EgnsbBzgVTs) | Updated: 2026-03-21 02:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-16** |
+| 📦 Unrealized | $-50 |
+| 🏦 Total | **$-50** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PISSCOIN | $0.000015 | **1.29x** ($+29) | 1.32x |  | pumpfun | 2026-03-21 01:50 |
-| 🔴 B9hvw4Wa | $0.000012 | **0.63x** ($-37) | 1.31x |  | pumpfun | 2026-03-20 20:28 |
+| 🟡 PISSCOIN | $0.000015 | **1.00x** ($+0) | 1.33x |  | pumpfun | 2026-03-21 01:50 |
+| 🔴 B9hvw4Wa | $0.000012 | **0.58x** ($-42) | 1.31x |  | pumpfun | 2026-03-20 20:28 |
 | 🔴 71uFjah7 | $0.000010 | **0.92x** ($-8) | 1.52x |  | pumpfun | 2026-03-20 20:10 |
 
 ## Closed Positions
