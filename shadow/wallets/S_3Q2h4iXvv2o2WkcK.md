@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 10:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 10:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 34 (26 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-372 |
-| 📦 Unrealized | $-139 |
-| 🏦 Total | **$-512** |
+| 📦 Unrealized | $-158 |
+| 🏦 Total | **$-530** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.53x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Sunshine | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:48 |
 | 🟡 JAMEELA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:05 |
-| 🚀 Grokputer | $0.000018 | **5.97x** ($+497) | 6.93x | ✅ | pumpswap | 2026-03-21 05:15 |
+| 🚀 Grokputer | $0.000018 | **6.26x** ($+526) | 8.08x | ✅ | pumpswap | 2026-03-21 05:15 |
 | 🟡 p-token | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:38 |
 | 🔴 Spiderman | $0.000029 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-21 02:40 |
 | 🟡 LIFE | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:29 |
@@ -36,7 +36,7 @@
 | 🟡 PACO | $0.000009 | **1.39x** ($+39) | 1.40x |  | pumpswap | 2026-03-20 15:45 |
 | 🔴 clod | $0.000031 | **0.43x** ($-57) | 1.26x |  | pumpswap | 2026-03-20 14:55 |
 | 🟡 Pixel | $0.000008 | **1.14x** ($+14) | 1.97x |  | pumpswap | 2026-03-20 09:08 |
-| 🔴 Freebuff | $0.000006 | **0.78x** ($-22) | 1.29x |  | pumpswap | 2026-03-20 08:10 |
+| 🔴 Freebuff | $0.000006 | **0.68x** ($-32) | 1.29x |  | pumpswap | 2026-03-20 08:10 |
 | 🔴 DRIVE | $0.000028 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 07:09 |
 | 🟡 Luxury | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:24 |
 | 🔴 LUMO | $0.000034 | **0.60x** ($-40) | 1.82x |  | pumpswap | 2026-03-20 03:58 |

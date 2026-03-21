@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 10:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 10:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (18 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-42 |
-| 📦 Unrealized | $-42 |
-| 🏦 Total | **$-85** |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-81** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.58x |
 
@@ -33,7 +33,7 @@
 | 🟡 AGI | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:46 |
 | 🔴 Method | $0.000014 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 01:45 |
 | 🟡 Slop | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:43 |
-| 🟢 Simulation | $0.000005 | **2.12x** ($+112) | 2.73x | ✅ | pumpswap | 2026-03-20 01:43 |
+| 🟢 Simulation | $0.000005 | **2.18x** ($+118) | 2.73x | ✅ | pumpswap | 2026-03-20 01:43 |
 | 🔴 Manosphere | $0.000007 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🔴 Strawberina | $0.000008 | **0.95x** ($-5) | 1.06x |  | pumpfun | 2026-03-19 23:57 |
 

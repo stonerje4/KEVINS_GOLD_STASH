@@ -1,25 +1,24 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-21 10:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-21 10:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (10 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $+507 |
-| 📦 Unrealized | $+307 |
-| 🏦 Total | **$+814** |
+| Positions | 15 (9 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $+486 |
+| 📦 Unrealized | $+281 |
+| 🏦 Total | **$+767** |
 | Best ROI | 8.43x |
-| Avg ROI | 2.01x |
+| Avg ROI | 1.81x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🚀 Toly | $0.000007 | **5.27x** ($+427) | 5.27x | ✅ | pumpfun | 2026-03-21 09:51 |
-| 🟡 Samba | $0.000008 | **1.53x** ($+53) | 2.05x | ✅ | pumpfun | 2026-03-21 09:50 |
 | 🟡 uAI | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:43 |
 | 🟡 Simulation | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:37 |
 | 🟡 Bread | $0.000017 | **1.09x** ($+9) | 1.16x |  | pumpfun | 2026-03-20 20:17 |
@@ -33,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Samba | 0.79x | $-21 | trailing_stop_2x | 2.05x | pumpfun | 2026-03-21 09:50 → 2026-03-21 10:50 |
 | 🟡 CHICK | 0.80x | $-20 | trailing_stop_3x | 2.52x | pumpfun | 2026-03-20 20:49 → 2026-03-20 21:49 |
 | 🔴 ME | 0.30x | $-70 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:41 → 2026-03-21 00:44 |
 | 🟢 Chuck | 8.43x | $+743 | trailing_stop_31x | 31.39x | pumpfun | 2026-03-20 14:16 → 2026-03-20 18:53 |
