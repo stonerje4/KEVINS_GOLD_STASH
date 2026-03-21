@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 13:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 13:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 56 (51 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+136 |
-| 📦 Unrealized | $-543 |
-| 🏦 Total | **$-407** |
+| 📦 Unrealized | $-533 |
+| 🏦 Total | **$-397** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.27x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Strawberita | $0.000039 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-21 12:06 |
+| 🔴 Strawberita | $0.000039 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-21 12:06 |
 | 🟡 Chibify | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:10 |
 | 🟡 Lana | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:49 |
 | 🟡 EVERYTHING | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:27 |
@@ -53,7 +53,7 @@
 | 🔴 DRIVE | $0.000032 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 05:42 |
 | 🔴 Goose | $0.000019 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
 | 🟡 CHOPPER | $0.000025 | **1.30x** ($+30) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
-| 🔴 JOC | $0.000034 | **0.71x** ($-29) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
+| 🔴 JOC | $0.000034 | **0.73x** ($-27) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |
 | 🔴 VAFR | $0.000023 | **0.99x** ($-1) | 1.15x |  | pumpswap | 2026-03-20 02:40 |
 | 🔴 LULU | $0.000035 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
