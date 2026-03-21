@@ -1,18 +1,18 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 06:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 07:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (16 open, 10 closed) |
-| W/L | 1/9 (10%) |
-| 💵 Realized | $-23 |
-| 📦 Unrealized | $+21 |
-| 🏦 Total | **$-2** |
+| Positions | 26 (15 open, 11 closed) |
+| W/L | 1/10 (9%) |
+| 💵 Realized | $-92 |
+| 📦 Unrealized | $+61 |
+| 🏦 Total | **$-30** |
 | Best ROI | 5.85x |
-| Avg ROI | 0.98x |
+| Avg ROI | 0.92x |
 
 ## Open Positions
 
@@ -29,7 +29,6 @@
 | 🔴 wallahi | $0.000036 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 15:10 |
 | 🟡 MOSHI | $0.000022 | **1.65x** ($+65) | 1.65x |  | pumpfun | 2026-03-20 13:12 |
 | 🟡 AIMAXXING | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:19 |
-| 🔴 ChibiTrump | $0.000029 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 11:02 |
 | 🔴 JUMP | $0.000018 | **0.75x** ($-25) | 1.74x |  | pumpfun | 2026-03-20 02:01 |
 | 🔴 bear | $0.000006 | **0.43x** ($-57) | 1.00x |  | pumpfun | 2026-03-20 00:20 |
 | 🔴 Record | $0.000011 | **0.81x** ($-19) | 1.34x |  | pumpfun | 2026-03-19 23:11 |
@@ -46,6 +45,7 @@
 | 🔴 Monitoring | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 18:05 → 2026-03-20 18:05 |
 | 🔴 Maxxington | 0.39x | $-61 | stop_loss | 1.27x | pumpfun | 2026-03-20 18:02 → 2026-03-20 18:06 |
 | 🔴 Norris | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-20 16:10 → 2026-03-20 16:21 |
+| 🔴 ChibiTrump | 0.31x | $-69 | stop_loss | 1.00x | pumpfun | 2026-03-20 11:02 → 2026-03-21 06:57 |
 | 🟢 Doolysaurus | 5.85x | $+485 | trailing_stop_11x | 10.95x | pumpfun | 2026-03-20 11:00 → 2026-03-20 18:54 |
 | 🟡 CHIBI | 0.85x | $-15 | trailing_stop_2x | 2.03x | pumpfun | 2026-03-20 09:42 → 2026-03-20 10:26 |
 | 🔴 BEE | 0.39x | $-61 | stop_loss | 1.42x | pumpfun | 2026-03-20 00:21 → 2026-03-20 00:34 |

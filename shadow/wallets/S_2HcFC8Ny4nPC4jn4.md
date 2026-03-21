@@ -1,18 +1,18 @@
 # Wallet: `2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6`
 
-> [GMGN](https://gmgn.ai/sol/address/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | [Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-21 06:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | [Solscan](https://solscan.io/account/2HcFC8Ny4nPC4jn4uBRsZTKkxQrKFh7QbgRb4QbKUbY6) | Updated: 2026-03-21 07:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (10 open, 9 closed) |
-| W/L | 2/7 (22%) |
-| 💵 Realized | $-346 |
-| 📦 Unrealized | $+243 |
-| 🏦 Total | **$-102** |
+| Positions | 19 (9 open, 10 closed) |
+| W/L | 2/8 (20%) |
+| 💵 Realized | $-363 |
+| 📦 Unrealized | $+246 |
+| 🏦 Total | **$-118** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.62x |
+| Avg ROI | 0.64x |
 
 ## Open Positions
 
@@ -22,7 +22,6 @@
 | 🟡 B6jsFauS | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
 | 🟡 2krmh9hC | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
-| 🔴 pa | $0.000011 | **0.96x** ($-4) | 2.03x | ✅ | pumpfun | 2026-03-20 11:47 |
 | 🟡 Nostalgia | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:25 |
 | 🟡 Garbonzo | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:17 |
 | 🟡 CfDa8np5 | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:14 |
@@ -33,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 pa | 0.82x | $-18 | trailing_stop_2x | 2.03x | pumpfun | 2026-03-20 11:47 → 2026-03-21 06:57 |
 | 🟡 genocide | 1.49x | $+49 | trailing_stop_3x | 3.00x | pumpfun | 2026-03-20 11:34 → 2026-03-20 22:30 |
 | 🟡 8j6jehro | 1.39x | $+39 | trailing_stop_3x | 3.02x | pumpfun | 2026-03-20 09:42 → 2026-03-20 17:27 |
 | 🔴 WRONG | 0.34x | $-66 | stop_loss | 1.33x | pumpfun | 2026-03-20 09:21 → 2026-03-20 09:39 |

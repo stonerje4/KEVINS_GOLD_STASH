@@ -1,16 +1,16 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 06:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 07:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 40 (36 open, 4 closed) |
+| Positions | 41 (37 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-166 |
-| 📦 Unrealized | $-202 |
-| 🏦 Total | **$-368** |
+| 📦 Unrealized | $-217 |
+| 🏦 Total | **$-383** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.59x |
 
@@ -18,14 +18,15 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 IMAGINE | $0.000016 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 06:36 |
-| 🟡 Civil Claude | $0.000017 | **1.19x** ($+19) | 1.22x |  | pumpfun | 2026-03-21 06:11 |
+| 🟡 DogeFather | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:56 |
+| 🔴 IMAGINE | $0.000016 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-21 06:36 |
+| 🟡 Civil Claude | $0.000017 | **1.08x** ($+8) | 1.22x |  | pumpfun | 2026-03-21 06:11 |
 | 🟡 MFT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:06 |
 | 🟡 XCAT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:51 |
 | 🟡 SNIFFER | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:06 |
 | 🟡 Pixels | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:02 |
 | 🟡 Income | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:56 |
-| 🟡 CHIBELON | $0.000027 | **1.12x** ($+12) | 1.78x |  | pumpswap | 2026-03-21 04:48 |
+| 🟡 CHIBELON | $0.000027 | **1.10x** ($+10) | 1.78x |  | pumpswap | 2026-03-21 04:48 |
 | 🔴 OIIA | $0.000028 | **0.94x** ($-6) | 1.22x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 ZeroG | $0.000010 | **0.91x** ($-9) | 1.13x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 Dryer | $0.000007 | **0.85x** ($-15) | 1.04x |  | pumpswap | 2026-03-21 01:18 |

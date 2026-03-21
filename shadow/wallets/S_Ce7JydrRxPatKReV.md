@@ -1,6 +1,6 @@
 # Wallet: `Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm`
 
-> [GMGN](https://gmgn.ai/sol/address/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | [Solscan](https://solscan.io/account/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | Updated: 2026-03-21 06:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | [Solscan](https://solscan.io/account/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | Updated: 2026-03-21 07:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+196 |
-| 📦 Unrealized | $+2 |
-| 🏦 Total | **$+198** |
+| 📦 Unrealized | $+17 |
+| 🏦 Total | **$+213** |
 | Best ROI | 2.96x |
 | Avg ROI | 2.96x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 YUMI | $0.000005 | **1.02x** ($+2) | 1.10x |  | pumpfun | 2026-03-21 06:39 |
+| 🟡 YUMI | $0.000005 | **1.17x** ($+17) | 1.32x |  | pumpfun | 2026-03-21 06:39 |
 | 🟡 PHM | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:48 |
 
 ## Closed Positions

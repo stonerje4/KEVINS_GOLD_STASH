@@ -1,25 +1,24 @@
 # Wallet: `8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx`
 
-> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-21 06:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-21 07:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (12 open, 2 closed) |
-| W/L | 1/1 (50%) |
-| 💵 Realized | $-19 |
-| 📦 Unrealized | $+225 |
-| 🏦 Total | **$+206** |
+| Positions | 14 (11 open, 3 closed) |
+| W/L | 2/1 (67%) |
+| 💵 Realized | $+27 |
+| 📦 Unrealized | $+166 |
+| 🏦 Total | **$+193** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.91x |
+| Avg ROI | 1.09x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 cabbage | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:17 |
-| 🟢 ROGER | $0.000008 | **2.49x** ($+149) | 3.50x | ✅ | pumpfun | 2026-03-21 06:15 |
 | 🟡 JAMEELA | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:24 |
 | 🔴 PissElon | $0.000006 | **0.40x** ($-60) | 1.05x |  | pumpfun | 2026-03-21 03:18 |
 | 🔴 90S | $0.000023 | **0.89x** ($-11) | 1.26x |  | pumpswap | 2026-03-20 20:40 |
@@ -35,6 +34,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 ROGER | 1.46x | $+46 | trailing_stop_4x | 3.50x | pumpfun | 2026-03-21 06:15 → 2026-03-21 06:59 |
 | 🟡 bEnK | 1.49x | $+49 | trailing_stop_4x | 3.86x | pumpfun | 2026-03-21 05:47 → 2026-03-21 06:26 |
 | 🔴 Beecat | 0.32x | $-68 | stop_loss | 1.07x | pumpswap | 2026-03-19 23:09 → 2026-03-20 02:44 |
 
