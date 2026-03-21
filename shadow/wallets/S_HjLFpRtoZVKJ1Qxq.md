@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 07:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 07:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 97 (95 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+137 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$+116** |
+| 📦 Unrealized | $-24 |
+| 🏦 Total | **$+113** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.68x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 AAI | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:26 |
-| 🔴 Joobi | $0.000009 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-21 05:25 |
+| 🔴 AAI | $0.000014 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-21 07:26 |
+| 🔴 Joobi | $0.000009 | **0.94x** ($-6) | 1.03x |  | pumpswap | 2026-03-21 05:25 |
 | 🟡 GAS | $0.000009 | **1.10x** ($+10) | 1.12x |  | pumpswap | 2026-03-21 04:49 |
 | 🔴 EV01 | $0.000012 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-21 04:48 |
 | 🔴 Manchas | $0.000006 | **0.89x** ($-11) | 1.05x |  | pumpswap | 2026-03-21 04:16 |

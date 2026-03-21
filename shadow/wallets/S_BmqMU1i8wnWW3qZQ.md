@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 07:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 07:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,452 |
-| 🏦 Total | **$-2,575** |
+| 📦 Unrealized | $-2,451 |
+| 🏦 Total | **$-2,574** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -59,7 +59,7 @@
 | 🔴 brainrot | $0.000017 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 08:07 |
 | 🔴 Momiage | $0.000010 | **0.90x** ($-10) | 1.13x |  | pumpswap | 2026-03-20 08:06 |
 | 🔴 Baldi | $0.000022 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 08:01 |
-| 🟡 TUKI | $0.000019 | **1.02x** ($+2) | 1.19x |  | pumpswap | 2026-03-20 07:56 |
+| 🟡 TUKI | $0.000019 | **1.01x** ($+1) | 1.19x |  | pumpswap | 2026-03-20 07:56 |
 | 🔴 WID | $0.000021 | **0.73x** ($-27) | 1.24x |  | pumpswap | 2026-03-20 07:42 |
 | 🔴 Browt | $0.000021 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 菲比啾比 | $0.000012 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 07:21 |
@@ -67,10 +67,10 @@
 | 🔴 Alysa | $0.000006 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 07:18 |
 | 🔴 XMONEY | $0.000029 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
 | 🔴 JJK | $0.000005 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
-| 🔴 Billy | $0.000007 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
+| 🔴 Billy | $0.000007 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
 | 🔴 HOWL | $0.000011 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 07:03 |
 | 🔴 Otome | $0.000018 | **0.73x** ($-27) | 1.24x |  | pumpswap | 2026-03-20 07:01 |
-| 🔴 XAI | $0.000010 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 06:58 |
+| 🔴 XAI | $0.000010 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 06:58 |
 | 🔴 PARK | $0.000022 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 06:51 |
 | 🔴 PATRIOT | $0.000012 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 06:47 |
 | 🔴 TORTA | $0.000019 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 06:41 |

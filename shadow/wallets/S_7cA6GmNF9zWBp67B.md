@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 07:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 07:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 34 (26 open, 8 closed) |
 | W/L | 0/8 (0%) |
 | 💵 Realized | $-516 |
-| 📦 Unrealized | $+726 |
-| 🏦 Total | **$+210** |
+| 📦 Unrealized | $+724 |
+| 🏦 Total | **$+207** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.35x |
 
@@ -24,7 +24,7 @@
 | 🔴 FAKER | $0.000035 | **0.98x** ($-2) | 1.01x |  | pumpswap | 2026-03-21 05:18 |
 | 🟢 EVERYTHING | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-20 22:09 |
 | 🔴 Ignotus  | $0.000034 | **0.63x** ($-37) | 1.08x |  | pumpfun | 2026-03-20 21:33 |
-| 🟡 XAI | $0.000009 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 17:33 |
+| 🟡 XAI | $0.000009 | **1.05x** ($+5) | 1.08x |  | pumpswap | 2026-03-20 17:33 |
 | 🟡 LNG | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 17:21 |
 | 🟡 Anime | $0.000009 | **1.49x** ($+49) | 1.78x |  | pumpfun | 2026-03-20 16:19 |
 | 🟡 spec | $0.000024 | **1.55x** ($+55) | 1.55x |  | pumpfun | 2026-03-20 15:59 |
