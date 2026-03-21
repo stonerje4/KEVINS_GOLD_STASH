@@ -1,16 +1,16 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-21 08:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-21 08:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (11 open, 11 closed) |
+| Positions | 23 (12 open, 11 closed) |
 | W/L | 1/10 (9%) |
 | 💵 Realized | $-489 |
-| 📦 Unrealized | $-136 |
-| 🏦 Total | **$-625** |
+| 📦 Unrealized | $-132 |
+| 🏦 Total | **$-621** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.56x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Simulation | $0.000010 | **0.61x** ($-39) | 1.08x |  | pumpswap | 2026-03-21 07:42 |
+| 🔴 253FmKbf | $0.000007 | **0.86x** ($-14) | 1.20x |  | pumpfun | 2026-03-21 08:52 |
+| 🔴 Simulation | $0.000010 | **0.79x** ($-21) | 1.08x |  | pumpswap | 2026-03-21 07:42 |
 | 🟡 Autobots | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
 | 🟡 B6jsFauS | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
