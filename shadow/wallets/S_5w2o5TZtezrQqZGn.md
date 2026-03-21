@@ -1,6 +1,6 @@
 # Wallet: `5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m`
 
-> [GMGN](https://gmgn.ai/sol/address/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | [Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-21 08:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | [Solscan](https://solscan.io/account/5w2o5TZtezrQqZGnH6jbKmKQaABVMSLUMHpSvwKpmG4m) | Updated: 2026-03-21 08:35 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Civil Claude | $0.000020 | **0.86x** ($-14) | 1.52x |  | pumpfun | 2026-03-20 17:19 |
+| 🔴 Civil Claude | $0.000020 | **0.85x** ($-15) | 1.52x |  | pumpfun | 2026-03-20 17:19 |
 | 🔴 awkward | $0.000015 | **0.43x** ($-57) | 1.20x |  | pumpfun | 2026-03-20 10:39 |
 | 🟡 CLAWPICKS | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 07:01 |
 | 🔴 PLOTT | $0.000008 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-20 06:37 |

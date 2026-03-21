@@ -1,6 +1,6 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-21 08:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-21 08:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (7 open, 7 closed) |
 | W/L | 2/5 (29%) |
 | 💵 Realized | $-168 |
-| 📦 Unrealized | $-132 |
-| 🏦 Total | **$-300** |
+| 📦 Unrealized | $-133 |
+| 🏦 Total | **$-301** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.76x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TURD | $0.000007 | **0.46x** ($-54) | 1.37x |  | pumpfun | 2026-03-21 08:15 |
+| 🔴 TURD | $0.000007 | **0.45x** ($-55) | 1.37x |  | pumpfun | 2026-03-21 08:15 |
 | 🟢 few | $0.000013 | **2.74x** ($+174) | 2.74x | ✅ | pumpfun | 2026-03-20 23:24 |
 | 🔴 sheep | $0.000012 | **0.68x** ($-32) | 1.99x |  | pumpfun | 2026-03-20 20:30 |
 | 🔴 BiGymNtn | $0.000005 | **0.49x** ($-51) | 1.19x |  | pumpfun | 2026-03-20 19:46 |
