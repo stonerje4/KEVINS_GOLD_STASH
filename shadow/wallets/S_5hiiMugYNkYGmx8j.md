@@ -1,6 +1,6 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-21 07:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-21 07:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (10 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-334 |
-| 📦 Unrealized | $-28 |
-| 🏦 Total | **$-361** |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-372** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.33x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 benk | $0.000007 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-21 06:54 |
+| 🔴 benk | $0.000007 | **0.79x** ($-21) | 1.00x |  | pumpfun | 2026-03-21 06:54 |
 | 🔴 Ray | $0.000006 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 23:18 |
 | 🟡 p-token | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:22 |
-| 🔴 pa | $0.000010 | **0.88x** ($-12) | 2.17x | ✅ | pumpfun | 2026-03-20 12:30 |
+| 🔴 pa | $0.000010 | **0.86x** ($-14) | 2.17x | ✅ | pumpfun | 2026-03-20 12:30 |
 | 🔴 CHIBITRUMP | $0.000020 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:09 |
 | 🟡 Zhdun | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:12 |
