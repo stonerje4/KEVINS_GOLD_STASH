@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 11:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 11:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 80 (61 open, 19 closed) |
 | W/L | 2/17 (11%) |
 | 💵 Realized | $-656 |
-| 📦 Unrealized | $-444 |
-| 🏦 Total | **$-1,100** |
+| 📦 Unrealized | $-439 |
+| 🏦 Total | **$-1,096** |
 | Best ROI | 2.97x |
 | Avg ROI | 0.65x |
 
@@ -44,7 +44,7 @@
 | 🔴 honkermog | $0.000033 | **0.63x** ($-37) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
 | 🔴 CHIBIELON | $0.000039 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 DISLIKE | $0.000039 | **0.92x** ($-8) | 1.21x |  | pumpswap | 2026-03-20 12:09 |
-| 🔴 CHIBITRUMP | $0.000015 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
+| 🔴 CHIBITRUMP | $0.000015 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 Matthew | $0.000016 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 chud | $0.000014 | **1.07x** ($+7) | 2.42x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🔴 ARIA | $0.000015 | **0.79x** ($-21) | 1.86x |  | pumpswap | 2026-03-20 07:59 |
