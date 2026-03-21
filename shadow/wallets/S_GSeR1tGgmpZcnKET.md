@@ -1,6 +1,6 @@
 # Wallet: `GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo`
 
-> [GMGN](https://gmgn.ai/sol/address/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | [Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-21 00:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | [Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-21 00:55 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $-69 |
-| 🏦 Total | **$-129** |
+| 🏦 Total | **$-130** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Sunshine | $0.000016 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
+| 🔴 Sunshine | $0.000016 | **0.46x** ($-54) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
 | 🔴 PILOT | $0.000031 | **0.61x** ($-39) | 1.00x |  | pumpswap | 2026-03-20 11:55 |
 | 🟡 CHIBITRUMP | $0.000009 | **1.48x** ($+48) | 2.00x | ✅ | pumpswap | 2026-03-19 22:40 |
 

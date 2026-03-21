@@ -1,6 +1,6 @@
 # Wallet: `HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL`
 
-> [GMGN](https://gmgn.ai/sol/address/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | [Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-21 00:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | [Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-21 00:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+17 |
-| 🏦 Total | **$+17** |
+| 📦 Unrealized | $+18 |
+| 🏦 Total | **$+18** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 PHILXC | $0.000008 | **1.05x** ($+5) | 1.12x |  | pumpfun | 2026-03-20 19:37 |
-| 🟡 KAT | $0.000008 | **1.12x** ($+12) | 1.17x |  | pumpfun | 2026-03-20 17:48 |
+| 🟡 KAT | $0.000008 | **1.13x** ($+13) | 1.17x |  | pumpfun | 2026-03-20 17:48 |
 | 🟡 Anduril  | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:58 |
 
 ## Closed Positions

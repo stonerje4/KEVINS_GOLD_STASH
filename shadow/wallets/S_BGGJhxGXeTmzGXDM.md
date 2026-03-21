@@ -1,6 +1,6 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [GMGN](https://gmgn.ai/sol/address/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | [Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-21 00:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | [Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-21 00:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (9 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-156** |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$-155** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.31x |
 
@@ -24,7 +24,7 @@
 | 🟡 f26 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:10 |
 | 🟡 FTR | $0.000005 | **1.58x** ($+58) | 1.68x |  | pumpfun | 2026-03-20 10:08 |
 | 🟡 NBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 05:09 |
-| 🟡 KAT | $0.000006 | **1.40x** ($+40) | 2.53x | ✅ | pumpfun | 2026-03-19 23:00 |
+| 🟡 KAT | $0.000006 | **1.41x** ($+41) | 2.53x | ✅ | pumpfun | 2026-03-19 23:00 |
 | 🔴 e-CNY | $0.000008 | **0.87x** ($-13) | 1.00x |  | pumpfun | 2026-03-19 22:55 |
 | 🔴 BBX | $0.000010 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-19 22:55 |
 

@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [GMGN](https://gmgn.ai/sol/address/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | [Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-21 00:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | [Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-21 00:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (3 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+948 |
-| 📦 Unrealized | $+74 |
-| 🏦 Total | **$+1,022** |
+| 📦 Unrealized | $+72 |
+| 🏦 Total | **$+1,020** |
 | Best ROI | 11.41x |
 | Avg ROI | 2.90x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 XCAT | $0.000017 | **0.90x** ($-10) | 1.65x |  | pumpswap | 2026-03-20 23:07 |
+| 🔴 XCAT | $0.000017 | **0.88x** ($-12) | 1.65x |  | pumpswap | 2026-03-20 23:07 |
 | 🟡 SHOENICE  | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:04 |
 | 🟢 Grokslop | $0.000014 | **2.67x** ($+167) | 2.67x | ✅ | pumpfun | 2026-03-20 00:54 |
 
