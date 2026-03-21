@@ -1,6 +1,6 @@
 # Wallet: `CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ`
 
-> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-21 13:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-21 13:45 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
 | 📦 Unrealized | $+287 |
-| 🏦 Total | **$+165** |
+| 🏦 Total | **$+166** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 WRT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:02 |
 | 🟡 OSP | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:56 |
-| 🟡 DRONE | $0.000018 | **1.13x** ($+13) | 1.16x |  | pumpswap | 2026-03-21 12:35 |
+| 🟡 DRONE | $0.000018 | **1.14x** ($+14) | 1.16x |  | pumpswap | 2026-03-21 12:35 |
 | 🔴 WRT | $0.000024 | **0.49x** ($-51) | 1.01x |  | pumpswap | 2026-03-21 12:15 |
 | 🟡 OSP | $0.000010 | **1.03x** ($+3) | 1.05x |  | pumpfun | 2026-03-21 11:51 |
 | 🟡 OSP | $0.000013 | **1.21x** ($+21) | 1.25x |  | pumpfun | 2026-03-21 11:48 |
@@ -32,7 +32,7 @@
 | 🟡 USOS | $0.000011 | **1.29x** ($+29) | 1.31x |  | pumpfun | 2026-03-20 03:35 |
 | 🔴 FTR | $0.000016 | **0.99x** ($-1) | 1.04x |  | pumpfun | 2026-03-20 03:27 |
 | 🟡 FLAG | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:51 |
-| 🟢 OSP | $0.000008 | **4.48x** ($+348) | 4.57x | ✅ | pumpfun | 2026-03-20 02:34 |
+| 🟢 OSP | $0.000008 | **4.50x** ($+350) | 4.57x | ✅ | pumpfun | 2026-03-20 02:34 |
 | 🟡 DOME | $0.000008 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:27 |
 | 🟡 WRT | $0.000016 | **1.87x** ($+87) | 1.93x |  | pumpswap | 2026-03-20 01:26 |
 

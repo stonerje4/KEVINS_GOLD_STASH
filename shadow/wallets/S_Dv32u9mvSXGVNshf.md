@@ -1,6 +1,6 @@
-# Wallet: `4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc`
+# Wallet: `Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY`
 
-> [GMGN](https://gmgn.ai/sol/address/4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc) | [Solscan](https://solscan.io/account/4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc) | Updated: 2026-03-21 13:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY) | [Solscan](https://solscan.io/account/Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY) | Updated: 2026-03-21 13:45 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 BABYCHIBI | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 08:55 |
+| 🟡 chwog | $0.000009 | **1.00x** ($+0) | 1.22x |  | pumpfun | 2026-03-21 13:44 |
 
 ## Closed Positions
 

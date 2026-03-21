@@ -1,16 +1,16 @@
 # Wallet: `xyzfhxfy8NhfeNG3Um3WaUvFXzNuHkrhrZMD8dsStB6`
 
-> [GMGN](https://gmgn.ai/sol/address/xyzfhxfy8NhfeNG3Um3WaUvFXzNuHkrhrZMD8dsStB6) | [Solscan](https://solscan.io/account/xyzfhxfy8NhfeNG3Um3WaUvFXzNuHkrhrZMD8dsStB6) | Updated: 2026-03-21 13:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/xyzfhxfy8NhfeNG3Um3WaUvFXzNuHkrhrZMD8dsStB6) | [Solscan](https://solscan.io/account/xyzfhxfy8NhfeNG3Um3WaUvFXzNuHkrhrZMD8dsStB6) | Updated: 2026-03-21 13:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (0 open, 3 closed) |
+| Positions | 4 (1 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-194 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-194** |
+| 📦 Unrealized | $+36 |
+| 🏦 Total | **$-158** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.35x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 GT3fEPnX | $0.000009 | **1.36x** ($+36) | 1.54x |  | pumpfun | 2026-03-21 13:43 |
 
 ## Closed Positions
 
