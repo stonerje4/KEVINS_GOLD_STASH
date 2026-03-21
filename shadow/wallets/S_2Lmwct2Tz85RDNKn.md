@@ -1,6 +1,6 @@
 # Wallet: `2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT`
 
-> [GMGN](https://gmgn.ai/sol/address/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | [Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-21 01:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | [Solscan](https://solscan.io/account/2Lmwct2Tz85RDNKnbQnTZeupP1DPjJ1E4GF9E2dpGtaT) | Updated: 2026-03-21 01:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (1 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-148 |
-| 📦 Unrealized | $+24 |
-| 🏦 Total | **$-124** |
+| 📦 Unrealized | $+25 |
+| 🏦 Total | **$-123** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.51x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PIKE | $0.000039 | **1.49x** ($+49) | 2.34x | ✅ | pumpswap | 2026-03-19 22:38 |
+| 🟡 PIKE | $0.000039 | **1.50x** ($+50) | 2.34x | ✅ | pumpswap | 2026-03-19 22:38 |
 
 ## Closed Positions
 

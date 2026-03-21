@@ -1,6 +1,6 @@
 # Wallet: `6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6`
 
-> [GMGN](https://gmgn.ai/sol/address/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | [Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-21 01:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | [Solscan](https://solscan.io/account/6cBxq2sPrnhm46gLFVYjHFqzsPcpGxGQ3wSaawUMsqR6) | Updated: 2026-03-21 01:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+8 |
-| 🏦 Total | **$+8** |
+| 📦 Unrealized | $+12 |
+| 🏦 Total | **$+12** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Gascoin | $0.000037 | **1.08x** ($+8) | 1.16x |  | pumpswap | 2026-03-20 17:16 |
+| 🟡 Gascoin | $0.000037 | **1.12x** ($+12) | 1.16x |  | pumpswap | 2026-03-20 17:16 |
 | 🟡 LNCHR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:13 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
 # Wallet: `EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK`
 
-> [GMGN](https://gmgn.ai/sol/address/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | [Solscan](https://solscan.io/account/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | Updated: 2026-03-21 01:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | [Solscan](https://solscan.io/account/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | Updated: 2026-03-21 01:55 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PMARCA | $0.000009 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-21 01:16 |
+| 🟡 PMARCA | $0.000009 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-21 01:16 |
 | 🟡 BIBI | $0.000013 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-21 01:15 |
 | 🟡 TIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 00:38 |
 

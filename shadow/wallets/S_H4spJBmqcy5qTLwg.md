@@ -1,6 +1,6 @@
 # Wallet: `H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH`
 
-> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-21 01:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-21 01:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (11 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-6 |
-| 🏦 Total | **$-66** |
+| 📦 Unrealized | $-1 |
+| 🏦 Total | **$-62** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GAY | $0.000010 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 21:07 |
+| 🟡 GAY | $0.000010 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 21:07 |
 | 🔴 SCC | $0.000013 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 20:57 |
 | 🔴 Homies  | $0.000006 | **0.99x** ($-1) | 1.03x |  | pumpfun | 2026-03-20 20:55 |
 | 🔴 almost | $0.000007 | **0.97x** ($-3) | 1.04x |  | pumpfun | 2026-03-20 20:53 |

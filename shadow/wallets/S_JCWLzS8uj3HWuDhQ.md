@@ -1,6 +1,6 @@
 # Wallet: `JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2`
 
-> [GMGN](https://gmgn.ai/sol/address/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | [Solscan](https://solscan.io/account/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | Updated: 2026-03-21 01:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | [Solscan](https://solscan.io/account/JCWLzS8uj3HWuDhQXeMfY48QGkaf7RMg8pEgsD9HPNp2) | Updated: 2026-03-21 01:55 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Nonchalant | $0.000021 | **1.12x** ($+12) | 1.32x |  | pumpfun | 2026-03-20 22:52 |
 | 🟡 stickers | $0.000026 | **1.43x** ($+43) | 1.43x |  | pumpfun | 2026-03-20 22:48 |
-| 🔴 corporate | $0.000017 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-20 16:40 |
+| 🔴 corporate | $0.000017 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 16:40 |
 | 🟡 Freebuff | $0.000020 | **1.83x** ($+83) | 1.83x |  | pumpfun | 2026-03-20 01:45 |
 
 ## Closed Positions

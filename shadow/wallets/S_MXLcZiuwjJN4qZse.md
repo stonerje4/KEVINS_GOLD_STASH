@@ -1,6 +1,6 @@
 # Wallet: `MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM`
 
-> [GMGN](https://gmgn.ai/sol/address/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | [Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-21 01:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | [Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-21 01:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (5 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-176 |
-| 📦 Unrealized | $-85 |
-| 🏦 Total | **$-261** |
+| 📦 Unrealized | $-94 |
+| 🏦 Total | **$-270** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.65x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 AGS | $0.000012 | **0.89x** ($-11) | 1.00x |  | pumpfun | 2026-03-21 00:00 |
+| 🔴 AGS | $0.000012 | **0.85x** ($-15) | 1.00x |  | pumpfun | 2026-03-21 00:00 |
 | 🔴 NATO | $0.000005 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
 | 🟡 imagine | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:55 |
 | 🟡 Homies  | $0.000005 | **1.24x** ($+24) | 1.31x |  | pumpfun | 2026-03-20 09:30 |
-| 🔴 PHM | $0.000011 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 08:51 |
+| 🔴 PHM | $0.000011 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 08:51 |
 
 ## Closed Positions
 
