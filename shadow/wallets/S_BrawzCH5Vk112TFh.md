@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 04:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 05:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 178 (172 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-1,304 |
-| 🏦 Total | **$-1,257** |
+| 📦 Unrealized | $-1,294 |
+| 🏦 Total | **$-1,248** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.08x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBELON | $0.000024 | **1.23x** ($+23) | 1.24x |  | pumpswap | 2026-03-21 04:39 |
+| 🟡 CHIBELON | $0.000024 | **1.56x** ($+56) | 2.04x | ✅ | pumpswap | 2026-03-21 04:39 |
 | 🟡 Joobi | $0.000009 | **1.03x** ($+3) | 1.25x |  | pumpswap | 2026-03-21 04:32 |
 | 🔴 X COINS | $0.000017 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-21 04:06 |
 | 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
@@ -87,7 +87,7 @@
 | 🔴 Matthew | $0.000016 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 11:22 |
 | 🔴 OXIDE | $0.000026 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 11:09 |
 | 🟡 Wolverine | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:54 |
-| 🟡 FAKER | $0.000033 | **1.10x** ($+10) | 1.49x |  | pumpswap | 2026-03-20 10:34 |
+| 🟡 FAKER | $0.000033 | **1.09x** ($+9) | 1.49x |  | pumpswap | 2026-03-20 10:34 |
 | 🟡 LIPPY | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:20 |
 | 🔴 CHOCOTINA | $0.000006 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-20 10:14 |
 | 🟡 hyrax  | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:09 |
@@ -131,7 +131,7 @@
 | 🟡 PYRO | $0.000036 | **1.07x** ($+7) | 1.20x |  | pumpswap | 2026-03-20 03:46 |
 | 🟡 Gascoin | $0.000032 | **1.38x** ($+38) | 1.38x |  | pumpswap | 2026-03-20 03:41 |
 | 🟢 IShowSpeed | $0.000006 | **2.72x** ($+172) | 3.31x | ✅ | pumpswap | 2026-03-20 03:41 |
-| 🟡 WhiteBoy  | $0.000013 | **1.04x** ($+4) | 1.14x |  | pumpswap | 2026-03-20 03:35 |
+| 🟡 WhiteBoy  | $0.000013 | **1.10x** ($+10) | 1.14x |  | pumpswap | 2026-03-20 03:35 |
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
 | 🔴 Gayatollah | $0.000005 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CARROT | $0.000007 | **1.21x** ($+21) | 1.51x |  | pumpswap | 2026-03-20 03:15 |
