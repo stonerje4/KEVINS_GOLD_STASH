@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 08:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 08:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 106 (103 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+71 |
-| 📦 Unrealized | $+447 |
-| 🏦 Total | **$+518** |
+| 📦 Unrealized | $+429 |
+| 🏦 Total | **$+500** |
 | Best ROI | 2.92x |
 | Avg ROI | 1.24x |
 
@@ -32,7 +32,7 @@
 | 🔴 401k | $0.000008 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-21 04:14 |
 | 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:11 |
 | 🟡 TerpBot | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
-| 🔴 DISLIKE | $0.000033 | **0.98x** ($-2) | 1.44x |  | pumpswap | 2026-03-21 03:17 |
+| 🔴 DISLIKE | $0.000033 | **0.97x** ($-3) | 1.44x |  | pumpswap | 2026-03-21 03:17 |
 | 🟡 Out | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:00 |
 | 🔴 Lana | $0.000019 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 02:32 |
 | 🔴 chud | $0.000017 | **0.91x** ($-9) | 1.05x |  | pumpswap | 2026-03-21 02:12 |
@@ -73,7 +73,7 @@
 | 🔴 Xingxing | $0.000024 | **0.90x** ($-10) | 1.08x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 GameTheory | $0.000014 | **1.53x** ($+53) | 1.72x |  | pumpswap | 2026-03-20 14:15 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
-| 🟢 Higuruma | $0.000020 | **2.28x** ($+128) | 2.93x | ✅ | pumpswap | 2026-03-20 14:09 |
+| 🟢 Higuruma | $0.000020 | **2.27x** ($+127) | 2.93x | ✅ | pumpswap | 2026-03-20 14:09 |
 | 🔴 Saxophones | $0.000034 | **0.81x** ($-19) | 1.15x |  | pumpswap | 2026-03-20 13:40 |
 | 🟡 house | $0.000006 | **1.60x** ($+60) | 1.61x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 Squishy | $0.000016 | **1.21x** ($+21) | 1.22x |  | pumpswap | 2026-03-20 13:37 |
@@ -82,7 +82,7 @@
 | 🟡 Matthew | $0.000015 | **1.05x** ($+5) | 1.17x |  | pumpswap | 2026-03-20 12:56 |
 | 🔴 NETAINYAHU | $0.000037 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
 | 🟡 AINL | $0.000022 | **1.62x** ($+62) | 1.84x |  | pumpswap | 2026-03-20 12:32 |
-| 🔴 honkermog | $0.000038 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
+| 🔴 honkermog | $0.000038 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🔴 PATAPIM | $0.000006 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 MiniBob | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:35 |
 | 🟡 LIFE | $0.000040 | **1.41x** ($+41) | 1.78x |  | pumpswap | 2026-03-20 11:08 |
@@ -91,7 +91,7 @@
 | 🟡 KENNY | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:14 |
 | 🔴 Achieve | $0.000019 | **0.95x** ($-5) | 1.09x |  | pumpswap | 2026-03-20 08:19 |
 | 🔴 Baldi | $0.000019 | **0.94x** ($-6) | 1.10x |  | pumpswap | 2026-03-20 08:01 |
-| 🟡 OPTIMUS | $0.000015 | **1.35x** ($+35) | 1.64x |  | pumpswap | 2026-03-20 07:53 |
+| 🟡 OPTIMUS | $0.000015 | **1.30x** ($+30) | 1.64x |  | pumpswap | 2026-03-20 07:53 |
 | 🔴 clawedin | $0.000011 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
 | 🔴 PATRIOT | $0.000010 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-20 07:01 |
 | 🟡 PYRO | $0.000034 | **1.15x** ($+15) | 1.28x |  | pumpswap | 2026-03-20 06:47 |
@@ -106,7 +106,7 @@
 | 🟡 FTR | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:32 |
 | 🔴 Skull | $0.000008 | **0.77x** ($-23) | 1.15x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 $GROWN  | $0.000039 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 01:42 |
-| 🟡 FAFO | $0.000017 | **1.25x** ($+25) | 1.40x |  | pumpswap | 2026-03-20 01:42 |
+| 🟡 FAFO | $0.000017 | **1.13x** ($+13) | 1.40x |  | pumpswap | 2026-03-20 01:42 |
 | 🟡 SaudiAramc | $0.000030 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 01:30 |
 | 🔴 n0rth4evr | $0.000035 | **0.83x** ($-17) | 1.03x |  | pumpswap | 2026-03-20 01:08 |
 | 🟡 KENJI | $0.000029 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 00:50 |
