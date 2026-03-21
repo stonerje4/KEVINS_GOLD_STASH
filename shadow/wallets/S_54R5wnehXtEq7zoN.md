@@ -1,6 +1,6 @@
-# Wallet: `DsUVGPXJw9Mr9W2HZMG7TjXRVKJAUMnz59VXvUD1DRTy`
+# Wallet: `54R5wnehXtEq7zoNDyRnjgvzVwANLrdovsxBfKRSp9SY`
 
-> [GMGN](https://gmgn.ai/sol/address/DsUVGPXJw9Mr9W2HZMG7TjXRVKJAUMnz59VXvUD1DRTy) | [Solscan](https://solscan.io/account/DsUVGPXJw9Mr9W2HZMG7TjXRVKJAUMnz59VXvUD1DRTy) | Updated: 2026-03-21 05:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/54R5wnehXtEq7zoNDyRnjgvzVwANLrdovsxBfKRSp9SY) | [Solscan](https://solscan.io/account/54R5wnehXtEq7zoNDyRnjgvzVwANLrdovsxBfKRSp9SY) | Updated: 2026-03-21 05:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$+3** |
+| 📦 Unrealized | $-52 |
+| 🏦 Total | **$-52** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 George | $0.000009 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-21 00:16 |
+| 🔴 Zero | $0.000006 | **0.48x** ($-52) | 1.01x |  | pumpswap | 2026-03-21 05:21 |
 
 ## Closed Positions
 

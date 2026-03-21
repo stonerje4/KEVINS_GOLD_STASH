@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 05:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 05:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (91 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+92 |
-| 📦 Unrealized | $-516 |
-| 🏦 Total | **$-424** |
+| 📦 Unrealized | $-511 |
+| 🏦 Total | **$-419** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.11x |
 
@@ -34,7 +34,7 @@
 | 🔴 clod | $0.000030 | **0.45x** ($-55) | 1.32x |  | pumpswap | 2026-03-20 15:00 |
 | 🟡 GameTheory | $0.000014 | **1.59x** ($+59) | 1.78x |  | pumpswap | 2026-03-20 14:55 |
 | 🔴 DATBOI | $0.000038 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
-| 🟡 Higuruma | $0.000017 | **1.53x** ($+53) | 2.05x | ✅ | pumpswap | 2026-03-20 14:33 |
+| 🟡 Higuruma | $0.000017 | **1.69x** ($+69) | 2.05x | ✅ | pumpswap | 2026-03-20 14:33 |
 | 🔴 Xingxing | $0.000025 | **0.89x** ($-11) | 1.06x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
@@ -44,7 +44,7 @@
 | 🟢 TFW | $0.000022 | **2.10x** ($+110) | 3.23x | ✅ | pumpswap | 2026-03-20 12:38 |
 | 🔴 Speak | $0.000022 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
 | 🔴 honkermog | $0.000039 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
-| 🔴 Joobi | $0.000010 | **0.99x** ($-1) | 1.20x |  | pumpswap | 2026-03-20 11:49 |
+| 🔴 Joobi | $0.000010 | **0.97x** ($-3) | 1.20x |  | pumpswap | 2026-03-20 11:49 |
 | 🟡 MiniBob | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:35 |
 | 🔴 Matthew | $0.000020 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
 | 🟡 hyrax  | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:55 |

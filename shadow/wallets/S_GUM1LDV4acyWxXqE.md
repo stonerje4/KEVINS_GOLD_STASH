@@ -1,6 +1,6 @@
 # Wallet: `GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW`
 
-> [GMGN](https://gmgn.ai/sol/address/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | [Solscan](https://solscan.io/account/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | Updated: 2026-03-21 05:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | [Solscan](https://solscan.io/account/GUM1LDV4acyWxXqEPnUg5CiBjv4xZ1LPDNwrjY1UAcFW) | Updated: 2026-03-21 05:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-64 |
-| 📦 Unrealized | $-19 |
-| 🏦 Total | **$-83** |
+| 📦 Unrealized | $-17 |
+| 🏦 Total | **$-81** |
 | Best ROI | 0.36x |
 | Avg ROI | 0.36x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TGR | $0.000013 | **1.07x** ($+7) | 1.16x |  | pumpfun | 2026-03-21 04:51 |
+| 🟡 TGR | $0.000013 | **1.08x** ($+8) | 1.16x |  | pumpfun | 2026-03-21 04:51 |
 | 🔴 OSP | $0.000010 | **0.74x** ($-26) | 1.20x |  | pumpfun | 2026-03-20 15:27 |
 
 ## Closed Positions
