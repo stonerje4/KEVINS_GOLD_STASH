@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 09:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 09:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 27 (16 open, 11 closed) |
 | W/L | 0/11 (0%) |
 | 💵 Realized | $-572 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$-613** |
+| 📦 Unrealized | $-28 |
+| 🏦 Total | **$-600** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.48x |
 
@@ -33,7 +33,7 @@
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟡 Zhdun | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:33 |
 | 🟢 SIGNAL | $0.000018 | **2.03x** ($+103) | 2.03x | ✅ | pumpfun | 2026-03-20 09:28 |
-| 🔴 EV01 | $0.000017 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 08:19 |
+| 🔴 EV01 | $0.000017 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 08:19 |
 
 ## Closed Positions
 
