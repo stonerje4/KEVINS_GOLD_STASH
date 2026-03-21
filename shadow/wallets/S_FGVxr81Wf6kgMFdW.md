@@ -1,6 +1,6 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [GMGN](https://gmgn.ai/sol/address/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | [Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-21 14:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | [Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-21 14:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$+80** |
+| 📦 Unrealized | $+76 |
+| 🏦 Total | **$+76** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OSP | $0.000006 | **1.37x** ($+37) | 1.78x |  | pumpfun | 2026-03-21 13:00 |
+| 🟡 OSP | $0.000006 | **1.33x** ($+33) | 1.78x |  | pumpfun | 2026-03-21 13:00 |
 | 🔴 VDOR | $0.000006 | **0.97x** ($-3) | 1.10x |  | pumpfun | 2026-03-21 04:48 |
 | 🟡 Próspera | $0.000005 | **1.24x** ($+24) | 1.26x |  | pumpfun | 2026-03-21 01:56 |
 | 🔴 Chuck | $0.000006 | **0.76x** ($-24) | 1.04x |  | pumpfun | 2026-03-20 16:30 |

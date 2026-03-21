@@ -1,6 +1,6 @@
 # Wallet: `4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS`
 
-> [GMGN](https://gmgn.ai/sol/address/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | [Solscan](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | Updated: 2026-03-21 14:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | [Solscan](https://solscan.io/account/4rsj2xh5MK5LFgoFe7AGzLvtspiwQapMJhMpF2ze8quS) | Updated: 2026-03-21 14:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-58 |
-| 🏦 Total | **$-58** |
+| 📦 Unrealized | $-47 |
+| 🏦 Total | **$-47** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Skull | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:58 |
-| 🟡 emy | $0.000018 | **1.19x** ($+19) | 2.33x | ✅ | pumpswap | 2026-03-21 13:18 |
+| 🟡 emy | $0.000018 | **1.41x** ($+41) | 2.33x | ✅ | pumpswap | 2026-03-21 13:18 |
 | 🟡 house | $0.000007 | **1.44x** ($+44) | 1.45x |  | pumpswap | 2026-03-20 16:46 |
 | 🟡 SQUIDCAT | $0.000008 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 12:37 |
 | 🔴 Freebuff | $0.000008 | **0.43x** ($-57) | 1.00x |  | pumpswap | 2026-03-20 11:01 |

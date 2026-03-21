@@ -1,6 +1,6 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 14:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 14:05 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 24 (14 open, 10 closed) |
 | W/L | 1/9 (10%) |
 | 💵 Realized | $-484 |
-| 📦 Unrealized | $-323 |
+| 📦 Unrealized | $-322 |
 | 🏦 Total | **$-806** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.52x |
@@ -19,12 +19,12 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 FOID | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:10 |
-| 🟡 Simulation | $0.000005 | **1.22x** ($+22) | 2.67x | ✅ | pumpswap | 2026-03-21 07:32 |
+| 🟡 Simulation | $0.000005 | **1.25x** ($+25) | 2.67x | ✅ | pumpswap | 2026-03-21 07:32 |
 | 🔴 Shake | $0.000008 | **0.45x** ($-55) | 1.09x |  | pumpfun | 2026-03-21 05:35 |
 | 🟡 Income | $0.000013 | **1.03x** ($+3) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
 | 🔴 PVE | $0.000012 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 15:52 |
 | 🔴 Samba | $0.000013 | **0.70x** ($-30) | 1.59x |  | pumpswap | 2026-03-20 15:27 |
-| 🟡 Feels | $0.000010 | **1.25x** ($+25) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
+| 🟡 Feels | $0.000010 | **1.24x** ($+24) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 LVLUP | $0.000007 | **0.96x** ($-4) | 1.32x |  | pumpfun | 2026-03-20 15:00 |
 | 🔴 clod | $0.000020 | **0.67x** ($-33) | 1.99x |  | pumpswap | 2026-03-20 12:04 |
 | 🔴 chud | $0.000022 | **0.68x** ($-32) | 1.53x |  | pumpswap | 2026-03-20 05:50 |

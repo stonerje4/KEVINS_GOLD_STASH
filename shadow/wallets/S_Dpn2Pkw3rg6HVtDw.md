@@ -1,25 +1,24 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-21 14:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-21 14:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (13 open, 6 closed) |
-| W/L | 1/5 (17%) |
-| 💵 Realized | $-247 |
-| 📦 Unrealized | $-144 |
-| 🏦 Total | **$-391** |
+| Positions | 19 (12 open, 7 closed) |
+| W/L | 1/6 (14%) |
+| 💵 Realized | $-308 |
+| 📦 Unrealized | $-85 |
+| 🏦 Total | **$-393** |
 | Best ROI | 1.13x |
-| Avg ROI | 0.59x |
+| Avg ROI | 0.56x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 believe | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |
-| 🔴 benk | $0.000007 | **0.41x** ($-59) | 1.48x |  | pumpfun | 2026-03-21 05:24 |
 | 🔴 Polara | $0.000006 | **0.41x** ($-59) | 1.27x |  | pumpfun | 2026-03-20 16:47 |
 | 🟡 HELLO | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:31 |
 | 🟢 Chuck | $0.000006 | **2.27x** ($+127) | 2.32x | ✅ | pumpfun | 2026-03-20 14:55 |
@@ -37,6 +36,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Nuggets | 0.40x | $-60 | stop_loss | 1.04x | pumpfun | 2026-03-21 07:18 → 2026-03-21 07:31 |
+| 🔴 benk | 0.39x | $-61 | stop_loss | 1.48x | pumpfun | 2026-03-21 05:24 → 2026-03-21 14:03 |
 | 🔴 Happiness | 0.40x | $-60 | stop_loss | 1.35x | pumpfun | 2026-03-20 17:05 → 2026-03-20 17:32 |
 | 🟡 Hello World! | 1.13x | $+13 | trailing_stop_3x | 3.49x | pumpfun | 2026-03-20 16:52 → 2026-03-20 22:19 |
 | 🔴 HELLO | 0.39x | $-61 | stop_loss | 1.10x | pumpfun | 2026-03-20 16:08 → 2026-03-20 16:17 |
