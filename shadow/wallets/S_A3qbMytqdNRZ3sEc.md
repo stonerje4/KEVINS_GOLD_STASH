@@ -1,12 +1,12 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 03:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 03:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 51 (41 open, 10 closed) |
+| Positions | 52 (42 open, 10 closed) |
 | W/L | 3/7 (30%) |
 | 💵 Realized | $-203 |
 | 📦 Unrealized | $-310 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SMCI | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:51 |
 | 🔴 POLARA | $0.000005 | **0.75x** ($-25) | 1.07x |  | pumpswap | 2026-03-21 02:46 |
 | 🟡 DogeFather | $0.000015 | **1.00x** ($+0) | 1.22x |  | pumpswap | 2026-03-21 02:19 |
 | 🔴 Meow | $0.000031 | **0.82x** ($-18) | 1.15x |  | pumpswap | 2026-03-21 01:30 |
