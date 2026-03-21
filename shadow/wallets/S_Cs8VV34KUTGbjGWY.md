@@ -1,6 +1,6 @@
 # Wallet: `Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro`
 
-> [GMGN](https://gmgn.ai/sol/address/Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro) | [Solscan](https://solscan.io/account/Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro) | Updated: 2026-03-21 02:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro) | [Solscan](https://solscan.io/account/Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro) | Updated: 2026-03-21 02:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$+29** |
+| 📦 Unrealized | $+24 |
+| 🏦 Total | **$+24** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 MOCHI | $0.000017 | **1.07x** ($+7) | 1.27x |  | pumpswap | 2026-03-20 22:12 |
+| 🟡 MOCHI | $0.000017 | **1.02x** ($+2) | 1.27x |  | pumpswap | 2026-03-20 22:12 |
 | 🟡 Attention | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
 | 🟡 Hamster | $0.000028 | **1.22x** ($+22) | 1.23x |  | pumpswap | 2026-03-20 08:12 |
 
