@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 05:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 05:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 101 (98 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+71 |
-| 📦 Unrealized | $+350 |
-| 🏦 Total | **$+422** |
+| 📦 Unrealized | $+374 |
+| 🏦 Total | **$+445** |
 | Best ROI | 2.92x |
 | Avg ROI | 1.24x |
 
@@ -20,14 +20,14 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 NORMIE | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:36 |
 | 🟡 CRANK | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:36 |
-| 🟡 SHOEBILL | $0.000039 | **1.04x** ($+4) | 1.06x |  | pumpswap | 2026-03-21 05:10 |
+| 🟡 SHOEBILL | $0.000039 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-21 05:10 |
 | 🔴 Fartless | $0.000012 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 04:59 |
 | 🔴 Socrates | $0.000033 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-21 04:59 |
 | 🟡 GAS | $0.000010 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-21 04:43 |
 | 🔴 401k | $0.000008 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-21 04:14 |
 | 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:11 |
 | 🟡 TerpBot | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
-| 🟡 DISLIKE | $0.000033 | **1.08x** ($+8) | 1.44x |  | pumpswap | 2026-03-21 03:17 |
+| 🟡 DISLIKE | $0.000033 | **1.09x** ($+9) | 1.44x |  | pumpswap | 2026-03-21 03:17 |
 | 🟡 Out | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:00 |
 | 🔴 Lana | $0.000019 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 02:32 |
 | 🔴 chud | $0.000017 | **0.91x** ($-9) | 1.05x |  | pumpswap | 2026-03-21 02:12 |
@@ -76,7 +76,7 @@
 | 🟢 HORMUZ | $0.000039 | **4.82x** ($+382) | 5.77x | ✅ | pumpswap | 2026-03-20 13:12 |
 | 🟡 Matthew | $0.000015 | **1.05x** ($+5) | 1.17x |  | pumpswap | 2026-03-20 12:56 |
 | 🔴 NETAINYAHU | $0.000037 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 12:44 |
-| 🟡 AINL | $0.000022 | **1.53x** ($+53) | 1.53x |  | pumpswap | 2026-03-20 12:32 |
+| 🟡 AINL | $0.000022 | **1.75x** ($+75) | 1.77x |  | pumpswap | 2026-03-20 12:32 |
 | 🔴 honkermog | $0.000038 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🔴 PATAPIM | $0.000006 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 MiniBob | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:35 |

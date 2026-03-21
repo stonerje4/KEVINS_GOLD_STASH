@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 05:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 05:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 32 (25 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-456 |
-| 📦 Unrealized | $+558 |
-| 🏦 Total | **$+102** |
+| 📦 Unrealized | $+554 |
+| 🏦 Total | **$+98** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.35x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PIP | $0.000012 | **0.78x** ($-22) | 1.00x |  | pumpfun | 2026-03-21 05:40 |
+| 🔴 PIP | $0.000012 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-21 05:40 |
 | 🟡 Babyify | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:32 |
 | 🔴 FAKER | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-21 05:18 |
 | 🟢 EVERYTHING | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-20 22:09 |

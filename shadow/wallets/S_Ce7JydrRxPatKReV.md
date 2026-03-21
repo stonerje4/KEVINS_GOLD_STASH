@@ -1,12 +1,12 @@
 # Wallet: `Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm`
 
-> [GMGN](https://gmgn.ai/sol/address/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | [Solscan](https://solscan.io/account/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | Updated: 2026-03-21 05:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | [Solscan](https://solscan.io/account/Ce7JydrRxPatKReV2dwgi5vnLosavQmy735A58J9t9Zm) | Updated: 2026-03-21 05:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
+| Positions | 2 (1 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+196 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PHM | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:48 |
 
 ## Closed Positions
 
