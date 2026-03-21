@@ -1,6 +1,6 @@
 # Wallet: `5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g`
 
-> [GMGN](https://gmgn.ai/sol/address/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | [Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-21 07:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | [Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-21 07:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (8 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-153 |
-| 📦 Unrealized | $+117 |
-| 🏦 Total | **$-35** |
+| 📦 Unrealized | $+116 |
+| 🏦 Total | **$-37** |
 | Best ROI | 1.65x |
 | Avg ROI | 0.75x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OCTOPUS | $0.000018 | **0.95x** ($-5) | 1.11x |  | pumpswap | 2026-03-21 05:59 |
+| 🔴 OCTOPUS | $0.000018 | **0.94x** ($-6) | 1.11x |  | pumpswap | 2026-03-21 05:59 |
 | 🟡 LIBERTY | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-21 05:00 |
 | 🟢 p-token | $0.000010 | **3.74x** ($+274) | 3.74x | ✅ | pumpfun | 2026-03-20 21:57 |
 | 🟢 TOKENMAXXING | $0.000015 | **2.40x** ($+140) | 2.48x | ✅ | pumpfun | 2026-03-20 21:16 |

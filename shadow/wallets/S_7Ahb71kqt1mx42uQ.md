@@ -1,6 +1,6 @@
 # Wallet: `7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY`
 
-> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-21 07:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | [Solscan](https://solscan.io/account/7Ahb71kqt1mx42uQAuLqbk2yaKh5LoVs9aR2tn5R75KY) | Updated: 2026-03-21 07:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$+3** |
+| 📦 Unrealized | $-1 |
+| 🏦 Total | **$-1** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 grokputer | $0.000014 | **1.49x** ($+49) | 1.83x |  | pumpfun | 2026-03-21 04:37 |
+| 🟡 grokputer | $0.000014 | **1.45x** ($+45) | 1.83x |  | pumpfun | 2026-03-21 04:37 |
 | 🔴 Panya | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 14:43 |
 | 🟡 chibify | $0.000006 | **1.09x** ($+9) | 1.43x |  | pumpswap | 2026-03-20 10:33 |
 | 🔴 Genesis-2 | $0.000006 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 00:40 |

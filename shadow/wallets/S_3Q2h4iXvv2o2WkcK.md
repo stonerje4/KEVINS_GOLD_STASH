@@ -1,12 +1,12 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 07:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 07:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (24 open, 8 closed) |
+| Positions | 33 (25 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-372 |
 | 📦 Unrealized | $-283 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 JAMEELA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:05 |
 | 🟡 Grokputer | $0.000018 | **1.04x** ($+4) | 1.13x |  | pumpswap | 2026-03-21 05:15 |
 | 🟡 p-token | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:38 |
 | 🔴 Spiderman | $0.000029 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-21 02:40 |

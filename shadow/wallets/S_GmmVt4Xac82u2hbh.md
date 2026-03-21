@@ -1,18 +1,18 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-21 07:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-21 07:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (11 open, 10 closed) |
-| W/L | 1/9 (10%) |
-| 💵 Realized | $-468 |
-| 📦 Unrealized | $-105 |
-| 🏦 Total | **$-572** |
+| Positions | 21 (10 open, 11 closed) |
+| W/L | 1/10 (9%) |
+| 💵 Realized | $-489 |
+| 📦 Unrealized | $-97 |
+| 🏦 Total | **$-586** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.53x |
+| Avg ROI | 0.56x |
 
 ## Open Positions
 
@@ -22,7 +22,6 @@
 | 🟡 B6jsFauS | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
 | 🟡 2krmh9hC | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
-| 🔴 pa | $0.000010 | **0.85x** ($-15) | 2.14x | ✅ | pumpfun | 2026-03-20 11:47 |
 | 🟡 LIBERTY | $0.000040 | **1.20x** ($+20) | 2.43x | ✅ | pumpswap | 2026-03-20 10:42 |
 | 🟡 Nostalgia | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:25 |
 | 🟡 Garbonzo | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:17 |
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 pa | 0.79x | $-21 | trailing_stop_2x | 2.14x | pumpfun | 2026-03-20 11:47 → 2026-03-21 07:08 |
 | 🟡 genocide | 1.49x | $+49 | trailing_stop_3x | 3.13x | pumpfun | 2026-03-20 11:34 → 2026-03-20 22:33 |
 | 🟡 8j6jehro | 0.83x | $-17 | trailing_stop_3x | 2.93x | pumpfun | 2026-03-20 09:42 → 2026-03-20 23:04 |
 | 🔴 Doolysaurus | 0.39x | $-61 | stop_loss | 1.81x | pumpfun | 2026-03-20 09:27 → 2026-03-20 09:57 |
