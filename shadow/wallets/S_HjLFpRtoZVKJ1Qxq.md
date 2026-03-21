@@ -1,16 +1,16 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 04:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 04:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 92 (90 open, 2 closed) |
+| Positions | 93 (91 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+137 |
-| 📦 Unrealized | $-52 |
-| 🏦 Total | **$+84** |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$+91** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.68x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 DISLIKE | $0.000031 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 04:08 |
+| 🟡 Manchas | $0.000006 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-21 04:16 |
+| 🟡 DISLIKE | $0.000031 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-21 04:08 |
 | 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:48 |
 | 🔴 Apple | $0.000013 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-21 01:35 |
 | 🔴 Baldi | $0.000020 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-21 01:11 |

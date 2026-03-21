@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 04:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 04:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,426 |
-| 🏦 Total | **$-1,460** |
+| 📦 Unrealized | $-1,425 |
+| 🏦 Total | **$-1,459** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -119,7 +119,7 @@
 | 🟡 OPAY | $0.000035 | **1.17x** ($+17) | 1.75x |  | pumpswap | 2026-03-20 06:25 |
 | 🟡 UOR | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:15 |
 | 🔴 Messenger | $0.000031 | **0.85x** ($-15) | 1.08x |  | pumpswap | 2026-03-20 06:06 |
-| 🔴 LOBCOIN | $0.000017 | **0.82x** ($-18) | 1.01x |  | pumpswap | 2026-03-20 05:45 |
+| 🔴 LOBCOIN | $0.000017 | **0.83x** ($-17) | 1.01x |  | pumpswap | 2026-03-20 05:45 |
 | 🔴 STAR | $0.000019 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 05:34 |
 | 🔴 GIGACHAD | $0.000006 | **0.98x** ($-2) | 2.29x | ✅ | pumpswap | 2026-03-20 05:19 |
 | 🔴 IMAGINE | $0.000031 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 04:35 |
