@@ -1,6 +1,6 @@
 # Wallet: `G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W`
 
-> [GMGN](https://gmgn.ai/sol/address/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | [Solscan](https://solscan.io/account/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | Updated: 2026-03-21 13:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | [Solscan](https://solscan.io/account/G2aZ6e8QNnMmgCz3nmC1591dYYdPMcUBcYdwjQ12VM5W) | Updated: 2026-03-21 13:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+11 |
-| 🏦 Total | **$+11** |
+| 📦 Unrealized | $+8 |
+| 🏦 Total | **$+8** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Louis | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 13:09 |
 | 🟡 Sunshine | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:09 |
-| 🟡 Squishy | $0.000018 | **1.11x** ($+11) | 1.21x |  | pumpswap | 2026-03-20 01:36 |
+| 🟡 Squishy | $0.000018 | **1.08x** ($+8) | 1.21x |  | pumpswap | 2026-03-20 01:36 |
 
 ## Closed Positions
 

@@ -1,16 +1,16 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 13:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 13:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 34 (22 open, 12 closed) |
+| Positions | 35 (23 open, 12 closed) |
 | W/L | 2/10 (17%) |
 | 💵 Realized | $-369 |
-| 📦 Unrealized | $+112 |
-| 🏦 Total | **$-257** |
+| 📦 Unrealized | $+109 |
+| 🏦 Total | **$-260** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.69x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 CHIBILON | $0.000007 | **2.24x** ($+124) | 3.96x | ✅ | pumpswap | 2026-03-21 11:29 |
+| 🔴 F3qinGHm | $0.000008 | **0.76x** ($-24) | 1.41x |  | pumpfun | 2026-03-21 13:10 |
+| 🟢 CHIBILON | $0.000007 | **2.77x** ($+177) | 3.96x | ✅ | pumpswap | 2026-03-21 11:29 |
 | 🟡 YOU | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 08:56 |
 | 🟡 Takaichi | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 08:39 |
 | 🔴 J8piKJCf | $0.000005 | **0.49x** ($-51) | 1.30x |  | pumpfun | 2026-03-20 23:20 |

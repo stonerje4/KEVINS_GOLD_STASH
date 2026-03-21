@@ -1,6 +1,6 @@
 # Wallet: `CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ`
 
-> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-21 13:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-21 13:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (17 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
-| 📦 Unrealized | $+264 |
-| 🏦 Total | **$+142** |
+| 📦 Unrealized | $+292 |
+| 🏦 Total | **$+170** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -20,10 +20,10 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 WRT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:02 |
 | 🟡 OSP | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:56 |
-| 🟡 DRONE | $0.000018 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-21 12:35 |
-| 🔴 WRT | $0.000024 | **0.53x** ($-47) | 1.01x |  | pumpswap | 2026-03-21 12:15 |
+| 🟡 DRONE | $0.000018 | **1.15x** ($+15) | 1.15x |  | pumpswap | 2026-03-21 12:35 |
+| 🔴 WRT | $0.000024 | **0.49x** ($-51) | 1.01x |  | pumpswap | 2026-03-21 12:15 |
 | 🟡 OSP | $0.000010 | **1.03x** ($+3) | 1.05x |  | pumpfun | 2026-03-21 11:51 |
-| 🟡 OSP | $0.000013 | **1.21x** ($+21) | 1.21x |  | pumpfun | 2026-03-21 11:48 |
+| 🟡 OSP | $0.000013 | **1.21x** ($+21) | 1.25x |  | pumpfun | 2026-03-21 11:48 |
 | 🟡 e-CNY | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:07 |
 | 🟡 FTR | $0.000009 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-20 08:38 |
 | 🟡 TGR | $0.000009 | **1.05x** ($+5) | 1.12x |  | pumpfun | 2026-03-20 07:31 |
@@ -32,7 +32,7 @@
 | 🟡 USOS | $0.000011 | **1.29x** ($+29) | 1.31x |  | pumpfun | 2026-03-20 03:35 |
 | 🔴 FTR | $0.000016 | **0.99x** ($-1) | 1.04x |  | pumpfun | 2026-03-20 03:27 |
 | 🟡 FLAG | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:51 |
-| 🟢 OSP | $0.000008 | **3.89x** ($+289) | 4.19x | ✅ | pumpfun | 2026-03-20 02:34 |
+| 🟢 OSP | $0.000008 | **4.57x** ($+357) | 4.57x | ✅ | pumpfun | 2026-03-20 02:34 |
 | 🟡 DOME | $0.000008 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:27 |
 | 🟡 WRT | $0.000016 | **1.87x** ($+87) | 1.93x |  | pumpswap | 2026-03-20 01:26 |
 

@@ -1,16 +1,16 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 13:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 13:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (17 open, 12 closed) |
+| Positions | 30 (18 open, 12 closed) |
 | W/L | 0/12 (0%) |
 | 💵 Realized | $-633 |
-| 📦 Unrealized | $-13 |
-| 🏦 Total | **$-646** |
+| 📦 Unrealized | $-29 |
+| 🏦 Total | **$-661** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.47x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TRUDY | $0.000014 | **0.74x** ($-26) | 1.93x |  | pumpfun | 2026-03-21 11:17 |
+| 🔴 SPANBERGER | $0.000018 | **0.86x** ($-14) | 1.12x |  | pumpfun | 2026-03-21 13:13 |
+| 🔴 TRUDY | $0.000014 | **0.72x** ($-28) | 1.93x |  | pumpfun | 2026-03-21 11:17 |
 | 🔴 LBARK | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-21 00:28 |
 | 🟡 few | $0.000022 | **1.67x** ($+67) | 1.67x |  | pumpfun | 2026-03-20 23:25 |
 | 🔴 BVG | $0.000007 | **0.40x** ($-60) | 1.00x |  | pumpfun | 2026-03-20 20:47 |

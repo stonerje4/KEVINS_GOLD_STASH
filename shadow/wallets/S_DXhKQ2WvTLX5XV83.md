@@ -1,12 +1,12 @@
 # Wallet: `DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA`
 
-> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-21 13:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | [Solscan](https://solscan.io/account/DXhKQ2WvTLX5XV83CpMuxKLoX4Ge1Ufh9JBifv19qUtA) | Updated: 2026-03-21 13:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (6 open, 1 closed) |
+| Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $-82 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHICK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 13:12 |
 | 🟡 HDD | $0.000036 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-21 13:02 |
 | 🔴 NARUTO | $0.000010 | **0.97x** ($-3) | 1.08x |  | pumpfun | 2026-03-20 18:15 |
 | 🔴 Sunshine | $0.000010 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 17:53 |
