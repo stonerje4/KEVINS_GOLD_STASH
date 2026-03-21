@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 07:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 08:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,372 |
-| 🏦 Total | **$-1,406** |
+| 📦 Unrealized | $-1,410 |
+| 🏦 Total | **$-1,444** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -39,7 +39,7 @@
 | 🔴 TBOE | $0.000026 | **0.92x** ($-8) | 1.01x |  | pumpswap | 2026-03-20 20:36 |
 | 🔴 Deepfake | $0.000005 | **0.84x** ($-16) | 1.10x |  | pumpswap | 2026-03-20 20:15 |
 | 🔴 Massive | $0.000027 | **0.55x** ($-45) | 1.01x |  | pumpswap | 2026-03-20 20:11 |
-| 🔴 BCKR | $0.000024 | **1.00x** ($-0) | 1.05x |  | pumpswap | 2026-03-20 20:01 |
+| 🔴 BCKR | $0.000024 | **0.65x** ($-35) | 1.05x |  | pumpswap | 2026-03-20 20:01 |
 | 🔴 Noorung | $0.000023 | **0.80x** ($-20) | 1.21x |  | pumpswap | 2026-03-20 19:57 |
 | 🔴 OIIA | $0.000032 | **0.81x** ($-19) | 1.18x |  | pumpswap | 2026-03-20 19:33 |
 | 🔴 IMAGINE | $0.000034 | **0.94x** ($-6) | 1.38x |  | pumpswap | 2026-03-20 19:10 |
@@ -57,7 +57,7 @@
 | 🟡 Method | $0.000013 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-20 16:31 |
 | 🟡 Optimus | $0.000034 | **1.50x** ($+50) | 1.51x |  | pumpswap | 2026-03-20 15:20 |
 | 🟡 NORMIE | $0.000021 | **1.22x** ($+22) | 1.37x |  | pumpswap | 2026-03-20 15:19 |
-| 🟡 OCTOPUS | $0.000009 | **1.44x** ($+44) | 2.17x | ✅ | pumpswap | 2026-03-20 15:15 |
+| 🟡 OCTOPUS | $0.000009 | **1.39x** ($+39) | 2.17x | ✅ | pumpswap | 2026-03-20 15:15 |
 | 🔴 Hermes | $0.000028 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 15:07 |
 | 🟡 LNG | $0.000006 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 15:01 |
 | 🔴 clod | $0.000032 | **0.42x** ($-58) | 1.23x |  | pumpswap | 2026-03-20 14:55 |
@@ -65,7 +65,7 @@
 | 🔴 Pixel | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Newscum | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 GameTheory | $0.000015 | **1.47x** ($+47) | 1.64x |  | pumpswap | 2026-03-20 14:15 |
-| 🟢 Higuruma | $0.000020 | **2.19x** ($+119) | 2.46x | ✅ | pumpswap | 2026-03-20 14:09 |
+| 🟢 Higuruma | $0.000020 | **2.23x** ($+123) | 2.46x | ✅ | pumpswap | 2026-03-20 14:09 |
 | 🔴 chibify | $0.000011 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
 | 🟡 Yahu | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -137,7 +137,7 @@
 | 🔴 Wob | $0.000019 | **0.82x** ($-18) | 1.26x |  | pumpswap | 2026-03-20 03:02 |
 | 🔴 Lucia | $0.000032 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:52 |
 | 🔴 ovary  | $0.000020 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-20 02:50 |
-| 🔴 WhiteBoy  | $0.000015 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
+| 🔴 WhiteBoy  | $0.000015 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🔴 VAFR | $0.000025 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 02:40 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
 | 🔴 JOC | $0.000035 | **0.77x** ($-23) | 1.11x |  | pumpswap | 2026-03-20 02:36 |
@@ -186,7 +186,7 @@
 | 🔴 Otome | $0.000017 | **0.78x** ($-22) | 1.31x |  | pumpswap | 2026-03-19 23:33 |
 | 🔴 Xingxing | $0.000026 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-19 23:32 |
 | 🔴 AMBER | $0.000013 | **0.88x** ($-12) | 1.17x |  | pumpswap | 2026-03-19 23:29 |
-| 🔴 Hamster | $0.000037 | **0.95x** ($-5) | 1.15x |  | pumpswap | 2026-03-19 23:27 |
+| 🔴 Hamster | $0.000037 | **0.96x** ($-4) | 1.15x |  | pumpswap | 2026-03-19 23:27 |
 | 🟡 Barron | $0.000017 | **1.28x** ($+28) | 1.60x |  | pumpswap | 2026-03-19 23:23 |
 | 🔴 whiskers | $0.000010 | **0.80x** ($-20) | 1.09x |  | pumpswap | 2026-03-19 23:15 |
 | 🔴 FTR | $0.000030 | **0.85x** ($-15) | 1.09x |  | pumpswap | 2026-03-19 23:15 |

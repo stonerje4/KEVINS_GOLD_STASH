@@ -1,16 +1,16 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 07:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 08:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (14 open, 15 closed) |
-| W/L | 2/13 (13%) |
-| 💵 Realized | $-532 |
-| 📦 Unrealized | $+80 |
-| 🏦 Total | **$-452** |
+| Positions | 29 (13 open, 16 closed) |
+| W/L | 2/14 (12%) |
+| 💵 Realized | $-553 |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$-548** |
 | Best ROI | 1.47x |
 | Avg ROI | 0.65x |
 
@@ -18,9 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Visine | $0.000006 | **1.74x** ($+74) | 1.79x |  | pumpfun | 2026-03-21 07:52 |
 | 🟡  Apollo | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |
-| 🔴 omg | $0.000006 | **0.76x** ($-24) | 1.51x |  | pumpswap | 2026-03-21 05:12 |
+| 🔴 omg | $0.000006 | **0.75x** ($-25) | 1.51x |  | pumpswap | 2026-03-21 05:12 |
 | 🔴 job | $0.000006 | **0.45x** ($-55) | 1.08x |  | pumpfun | 2026-03-20 05:59 |
 | 🟡 FEELESS | $0.000010 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 03:58 |
 | 🟢 2611vNhu | $0.000008 | **4.75x** ($+375) | 4.75x | ✅ | pumpfun | 2026-03-20 03:27 |
@@ -37,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Visine | 0.79x | $-21 | trailing_stop_2x | 2.21x | pumpfun | 2026-03-21 07:52 → 2026-03-21 07:59 |
 | 🟡 FY6H4PCa | 1.47x | $+47 | trailing_stop_3x | 3.32x | pumpfun | 2026-03-21 06:33 → 2026-03-21 06:41 |
 | 🔴 Dyoji-nim | 0.38x | $-62 | stop_loss | 1.00x | pumpfun | 2026-03-20 03:49 → 2026-03-20 03:49 |
 | 🔴 OFFLINE | 0.39x | $-61 | stop_loss | 1.15x | pumpfun | 2026-03-20 03:47 → 2026-03-20 03:55 |

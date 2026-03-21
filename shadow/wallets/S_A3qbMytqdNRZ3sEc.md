@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 07:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 08:00 UTC
 
 ## Summary
 
@@ -19,14 +19,14 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Situation | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:47 |
-| 🔴 honkermog | $0.000023 | **1.00x** ($-0) | 1.01x |  | pumpswap | 2026-03-21 07:44 |
+| 🟡 honkermog | $0.000023 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-21 07:44 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:44 |
 | 🟡 OSP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:00 |
 | 🟡 Income | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:56 |
 | 🟡 DAWAE | $0.000027 | **1.10x** ($+10) | 1.25x |  | pumpswap | 2026-03-21 04:50 |
 | 🟡 LUMO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:48 |
 | 🟡 LIFE | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:39 |
-| 🔴 Grokputer | $0.000027 | **0.75x** ($-25) | 1.04x |  | pumpswap | 2026-03-21 04:34 |
+| 🔴 Grokputer | $0.000027 | **0.74x** ($-26) | 1.04x |  | pumpswap | 2026-03-21 04:34 |
 | 🟡 ZeroG | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:28 |
 | 🔴 EV01 | $0.000013 | **0.88x** ($-12) | 1.01x |  | pumpswap | 2026-03-21 04:18 |
 | 🟡 CRACK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:14 |
