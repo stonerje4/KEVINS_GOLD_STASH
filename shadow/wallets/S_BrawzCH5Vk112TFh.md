@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 04:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 04:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 174 (168 open, 6 closed) |
+| Positions | 175 (169 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-1,307 |
-| 🏦 Total | **$-1,260** |
+| 📦 Unrealized | $-1,318 |
+| 🏦 Total | **$-1,271** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.08x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
 | 🟡 TerpBot | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
 | 🟡 NORMIE | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-21 02:48 |
 | 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-21 02:42 |
@@ -83,7 +84,7 @@
 | 🔴 Matthew | $0.000016 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 11:22 |
 | 🔴 OXIDE | $0.000026 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 11:09 |
 | 🟡 Wolverine | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:54 |
-| 🟡 FAKER | $0.000033 | **1.19x** ($+19) | 1.49x |  | pumpswap | 2026-03-20 10:34 |
+| 🟡 FAKER | $0.000033 | **1.09x** ($+9) | 1.49x |  | pumpswap | 2026-03-20 10:34 |
 | 🟡 LIPPY | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:20 |
 | 🔴 CHOCOTINA | $0.000006 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-20 10:14 |
 | 🟡 hyrax  | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:09 |

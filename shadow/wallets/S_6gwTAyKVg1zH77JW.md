@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 04:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 04:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (91 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+92 |
-| 📦 Unrealized | $-521 |
-| 🏦 Total | **$-429** |
+| 📦 Unrealized | $-531 |
+| 🏦 Total | **$-439** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.11x |
 
@@ -60,7 +60,7 @@
 | 🟡 AIKO | $0.000009 | **1.02x** ($+2) | 1.15x |  | pumpswap | 2026-03-20 08:08 |
 | 🔴 WID | $0.000019 | **0.82x** ($-18) | 1.38x |  | pumpswap | 2026-03-20 08:04 |
 | 🔴 MINT | $0.000025 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 07:56 |
-| 🟡 CLAW | $0.000028 | **1.00x** ($+0) | 1.12x |  | pumpswap | 2026-03-20 07:44 |
+| 🔴 CLAW | $0.000028 | **1.00x** ($-0) | 1.12x |  | pumpswap | 2026-03-20 07:44 |
 | 🟡 KENNY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:36 |
 | 🔴 clawedin | $0.000012 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 07:02 |
 | 🟡 90S | $0.000016 | **1.26x** ($+26) | 1.78x |  | pumpswap | 2026-03-20 07:02 |
@@ -94,7 +94,7 @@
 | 🔴 NETANYAHU | $0.000013 | **0.89x** ($-11) | 1.05x |  | pumpswap | 2026-03-20 00:31 |
 | 🟡 KING | $0.000028 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-20 00:23 |
 | 🔴 DiCaprio | $0.000012 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 00:20 |
-| 🟡 FAKER | $0.000036 | **1.07x** ($+7) | 1.34x |  | pumpswap | 2026-03-20 00:07 |
+| 🔴 FAKER | $0.000036 | **0.98x** ($-2) | 1.34x |  | pumpswap | 2026-03-20 00:07 |
 | 🟡 Manosphere | $0.000006 | **1.06x** ($+6) | 1.25x |  | pumpswap | 2026-03-19 23:54 |
 | 🔴 Feels | $0.000011 | **0.92x** ($-8) | 1.52x |  | pumpswap | 2026-03-19 23:53 |
 | 🟡 GAS | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:48 |

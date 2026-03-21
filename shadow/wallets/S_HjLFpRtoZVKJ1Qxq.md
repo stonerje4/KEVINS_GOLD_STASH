@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 04:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 04:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 91 (89 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+137 |
-| 📦 Unrealized | $-39 |
-| 🏦 Total | **$+98** |
+| 📦 Unrealized | $-49 |
+| 🏦 Total | **$+88** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.68x |
 
@@ -68,7 +68,7 @@
 | 🟡 Feels | $0.000008 | **1.24x** ($+24) | 2.04x | ✅ | pumpswap | 2026-03-20 11:51 |
 | 🟡 Otome | $0.000016 | **1.03x** ($+3) | 1.11x |  | pumpswap | 2026-03-20 11:14 |
 | 🟡 hyrax  | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:55 |
-| 🟡 FAKER | $0.000033 | **1.18x** ($+18) | 1.48x |  | pumpswap | 2026-03-20 10:35 |
+| 🟡 FAKER | $0.000033 | **1.08x** ($+8) | 1.48x |  | pumpswap | 2026-03-20 10:35 |
 | 🟡 Momiage | $0.000009 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 10:14 |
 | 🟡 Achieve | $0.000017 | **1.04x** ($+4) | 1.20x |  | pumpswap | 2026-03-20 10:08 |
 | 🔴 SNAKE | $0.000009 | **0.74x** ($-26) | 1.07x |  | pumpswap | 2026-03-20 08:44 |

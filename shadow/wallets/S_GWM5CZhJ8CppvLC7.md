@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 04:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 04:05 UTC
 
 ## Summary
 
@@ -44,7 +44,7 @@
 | 🔴 DRIVE | $0.000032 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 05:42 |
 | 🔴 Goose | $0.000019 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
 | 🟡 CHOPPER | $0.000025 | **1.30x** ($+30) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
-| 🔴 JOC | $0.000034 | **0.94x** ($-6) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
+| 🔴 JOC | $0.000034 | **0.93x** ($-7) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |
 | 🔴 VAFR | $0.000023 | **0.99x** ($-1) | 1.15x |  | pumpswap | 2026-03-20 02:40 |
 | 🔴 LULU | $0.000035 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
