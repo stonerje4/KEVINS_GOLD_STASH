@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 09:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 09:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 78 (60 open, 18 closed) |
 | W/L | 2/16 (11%) |
 | 💵 Realized | $-595 |
-| 📦 Unrealized | $-529 |
-| 🏦 Total | **$-1,124** |
+| 📦 Unrealized | $-531 |
+| 🏦 Total | **$-1,127** |
 | Best ROI | 2.97x |
 | Avg ROI | 0.67x |
 
@@ -40,10 +40,10 @@
 | 🔴 Rosei | $0.000015 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🔴 foid | $0.000020 | **0.75x** ($-25) | 1.11x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 Saxophones | $0.000034 | **0.82x** ($-18) | 1.15x |  | pumpswap | 2026-03-20 13:40 |
-| 🔴 honkermog | $0.000033 | **0.67x** ($-33) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
+| 🔴 honkermog | $0.000033 | **0.63x** ($-37) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
 | 🔴 CHIBIELON | $0.000039 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 DISLIKE | $0.000039 | **0.86x** ($-14) | 1.21x |  | pumpswap | 2026-03-20 12:09 |
-| 🔴 CHIBITRUMP | $0.000015 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
+| 🔴 CHIBITRUMP | $0.000015 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 Matthew | $0.000016 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 chud | $0.000014 | **1.07x** ($+7) | 2.42x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🔴 ARIA | $0.000015 | **0.79x** ($-21) | 1.86x |  | pumpswap | 2026-03-20 07:59 |
@@ -58,7 +58,7 @@
 | 🟡 CHOPPER | $0.000025 | **1.31x** ($+31) | 1.32x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 OIIA | $0.000015 | **1.70x** ($+70) | 2.50x | ✅ | pumpswap | 2026-03-20 03:53 |
 | 🟡 COLLECTIBLE | $0.000040 | **1.40x** ($+40) | 1.50x |  | pumpswap | 2026-03-20 03:48 |
-| 🔴 WhiteBoy  | $0.000014 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-20 02:50 |
+| 🔴 WhiteBoy  | $0.000014 | **0.86x** ($-14) | 1.01x |  | pumpswap | 2026-03-20 02:50 |
 | 🔴 VAFR | $0.000023 | **0.98x** ($-2) | 1.14x |  | pumpswap | 2026-03-20 02:40 |
 | 🔴 JOC | $0.000033 | **0.83x** ($-17) | 1.19x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 YOU | $0.000014 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 02:28 |

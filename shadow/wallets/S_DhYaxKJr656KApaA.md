@@ -1,16 +1,16 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-21 09:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-21 09:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (8 open, 5 closed) |
+| Positions | 14 (9 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $+507 |
-| 📦 Unrealized | $+135 |
-| 🏦 Total | **$+642** |
+| 📦 Unrealized | $+150 |
+| 🏦 Total | **$+657** |
 | Best ROI | 8.43x |
 | Avg ROI | 2.01x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Samba | $0.000008 | **1.15x** ($+15) | 1.17x |  | pumpfun | 2026-03-21 09:50 |
 | 🟡 uAI | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:43 |
 | 🟡 Simulation | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:37 |
 | 🟡 Bread | $0.000017 | **1.09x** ($+9) | 1.16x |  | pumpfun | 2026-03-20 20:17 |
