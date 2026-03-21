@@ -1,6 +1,6 @@
 # PRD Wallet: `J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU`
 
-> [GMGN](https://gmgn.ai/sol/address/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) | [Solscan](https://solscan.io/account/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) | Updated: 2026-03-21 12:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) | [Solscan](https://solscan.io/account/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) | Updated: 2026-03-21 12:25 UTC
 
 ## Summary
 
@@ -10,16 +10,16 @@
 | W/L | 0/0 (0%) |
 | 💵 Realized | +0.0000 SOL ($+0.00) |
 | ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | -0.1286 SOL |
-| 🏦 Net | **-0.1286 SOL** ($-11.57) |
+| 📦 Unrealized | -0.1371 SOL |
+| 🏦 Net | **-0.1371 SOL** ($-12.34) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 YOU | open | 0.11 | 0.73x | 1.02x | -0.0348 | — |
+| 🔴 YOU | open | 0.11 | 0.68x | 1.02x | -0.0400 | — |
 | 🔴 drog | open | 0.11 | 0.79x | 1.10x | -0.0276 | — |
-| 🔴 Jiji | open | 0.11 | 0.92x | 1.34x | -0.0143 | — |
+| 🔴 Jiji | open | 0.11 | 0.88x | 1.34x | -0.0177 | — |
 | 🔴 Collin | open | 0.11 | 0.57x | 1.40x | -0.0518 | — |
 
 ---

@@ -1,6 +1,6 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-21 12:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-21 12:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (13 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-247 |
-| 📦 Unrealized | $-133 |
-| 🏦 Total | **$-380** |
+| 📦 Unrealized | $-136 |
+| 🏦 Total | **$-383** |
 | Best ROI | 1.13x |
 | Avg ROI | 0.59x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 believe | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |
-| 🔴 benk | $0.000007 | **0.52x** ($-48) | 1.48x |  | pumpfun | 2026-03-21 05:24 |
+| 🔴 benk | $0.000007 | **0.49x** ($-51) | 1.48x |  | pumpfun | 2026-03-21 05:24 |
 | 🔴 Polara | $0.000006 | **0.41x** ($-59) | 1.27x |  | pumpfun | 2026-03-20 16:47 |
 | 🟡 HELLO | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:31 |
 | 🟢 Chuck | $0.000006 | **2.27x** ($+127) | 2.32x | ✅ | pumpfun | 2026-03-20 14:55 |
