@@ -1,26 +1,25 @@
 # Wallet: `3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT`
 
-> [GMGN](https://gmgn.ai/sol/address/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | [Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-21 12:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | [Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-21 12:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (10 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-109 |
-| 🏦 Total | **$-109** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 10 (9 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-60 |
+| 📦 Unrealized | $-75 |
+| 🏦 Total | **$-136** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 few | $0.000008 | **0.73x** ($-27) | 1.00x |  | pumpfun | 2026-03-21 12:06 |
 | 🔴 DODO | $0.000005 | **0.54x** ($-46) | 1.53x |  | pumpfun | 2026-03-21 10:36 |
-| 🔴 GoutGout | $0.000019 | **0.44x** ($-56) | 1.32x |  | pumpfun | 2026-03-21 10:21 |
+| 🔴 GoutGout | $0.000019 | **0.50x** ($-50) | 1.32x |  | pumpfun | 2026-03-21 10:21 |
 | 🟡 PISSTINA | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:18 |
 | 🟡 SKI | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:50 |
 | 🔴 DECEPTICONS | $0.000005 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:59 |
@@ -33,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 few | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-21 12:06 → 2026-03-21 12:11 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

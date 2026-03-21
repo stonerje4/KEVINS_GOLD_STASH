@@ -1,6 +1,6 @@
 # Wallet: `2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa`
 
-> [GMGN](https://gmgn.ai/sol/address/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | [Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-21 12:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | [Solscan](https://solscan.io/account/2g3ve63Phxaa8XuuTHkX52JYS27noLiunopjvSMq7EAa) | Updated: 2026-03-21 12:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (5 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+888 |
-| 📦 Unrealized | $+107 |
-| 🏦 Total | **$+995** |
+| 📦 Unrealized | $+72 |
+| 🏦 Total | **$+960** |
 | Best ROI | 11.41x |
 | Avg ROI | 2.48x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Optimus | $0.000015 | **1.33x** ($+33) | 1.38x |  | pumpfun | 2026-03-21 11:55 |
+| 🔴 Optimus | $0.000015 | **0.98x** ($-2) | 1.38x |  | pumpfun | 2026-03-21 11:55 |
 | 🟡 p-token | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 02:38 |
 | 🔴 XCAT | $0.000017 | **0.91x** ($-9) | 1.65x |  | pumpswap | 2026-03-20 23:07 |
 | 🟡 SHOENICE  | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:04 |

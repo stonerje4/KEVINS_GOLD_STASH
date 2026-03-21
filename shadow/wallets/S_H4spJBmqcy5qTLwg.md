@@ -1,6 +1,6 @@
 # Wallet: `H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH`
 
-> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-21 12:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-21 12:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (16 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
-| 📦 Unrealized | $-43 |
-| 🏦 Total | **$-104** |
+| 📦 Unrealized | $-40 |
+| 🏦 Total | **$-100** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.40x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 $pissin | $0.000023 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 11:56 |
+| 🟡 $pissin | $0.000023 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-21 11:56 |
 | 🟡 Toly | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:39 |
 | 🟡 FRIEND | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:05 |
 | 🟡 AGS | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:02 |
