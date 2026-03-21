@@ -1,6 +1,6 @@
 # Wallet: `BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj`
 
-> [GMGN](https://gmgn.ai/sol/address/BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj) | [Solscan](https://solscan.io/account/BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj) | Updated: 2026-03-21 11:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj) | [Solscan](https://solscan.io/account/BUiDP9QmZfRnXSqi4po9SsPhuwbjRDQYWB9rXEe1QHmj) | Updated: 2026-03-21 12:00 UTC
 
 ## Summary
 

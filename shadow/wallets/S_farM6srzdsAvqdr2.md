@@ -1,6 +1,6 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 11:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 12:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (12 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-289 |
-| 📦 Unrealized | $-196 |
-| 🏦 Total | **$-485** |
+| 📦 Unrealized | $-201 |
+| 🏦 Total | **$-489** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.59x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟢 Tsuki | $0.000018 | **2.07x** ($+107) | 2.07x | ✅ | pumpfun | 2026-03-21 11:37 |
-| 🔴 GoutGout | $0.000015 | **0.59x** ($-41) | 1.09x |  | pumpfun | 2026-03-21 11:27 |
+| 🔴 GoutGout | $0.000015 | **0.57x** ($-43) | 1.09x |  | pumpfun | 2026-03-21 11:27 |
 | 🔴 PIP | $0.000014 | **0.76x** ($-24) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
 | 🔴 Optimus+PV | $0.000010 | **0.56x** ($-44) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
 | 🟡 BUFFALO | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 09:08 |
@@ -27,7 +27,7 @@
 | 🔴 Elongate | $0.000010 | **0.47x** ($-53) | 1.17x |  | pumpfun | 2026-03-20 23:42 |
 | 🔴 BABYCHIBI | $0.000010 | **0.84x** ($-16) | 1.02x |  | pumpfun | 2026-03-20 23:40 |
 | 🔴 Liqua | $0.000012 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
-| 🟡 Civil Claude | $0.000015 | **1.14x** ($+14) | 2.00x | ✅ | pumpfun | 2026-03-20 12:12 |
+| 🟡 Civil Claude | $0.000015 | **1.10x** ($+10) | 2.00x | ✅ | pumpfun | 2026-03-20 12:12 |
 | 🔴 Imaginify | $0.000010 | **0.85x** ($-15) | 1.56x |  | pumpfun | 2026-03-20 08:19 |
 | 🔴 DD | $0.000006 | **0.91x** ($-9) | 1.01x |  | pumpfun | 2026-03-19 22:39 |
 

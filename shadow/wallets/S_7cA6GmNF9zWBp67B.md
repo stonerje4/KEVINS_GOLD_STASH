@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 11:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 12:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 43 (31 open, 12 closed) |
 | W/L | 1/11 (8%) |
 | 💵 Realized | $-615 |
-| 📦 Unrealized | $+707 |
-| 🏦 Total | **$+92** |
+| 📦 Unrealized | $+713 |
+| 🏦 Total | **$+98** |
 | Best ROI | 1.43x |
 | Avg ROI | 0.49x |
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Mirai | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 11:46 |
-| 🔴 CHIBITRUMP | $0.000016 | **0.95x** ($-5) | 1.12x |  | pumpswap | 2026-03-21 11:45 |
-| 🔴 GoutGout | $0.000014 | **0.61x** ($-39) | 1.12x |  | pumpfun | 2026-03-21 11:17 |
+| 🟡 CHIBITRUMP | $0.000016 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-21 11:45 |
+| 🔴 GoutGout | $0.000014 | **0.59x** ($-41) | 1.12x |  | pumpfun | 2026-03-21 11:17 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:45 |
 | 🟡 IMAGINE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:59 |
 | 🟢 grokputer | $0.000014 | **2.54x** ($+154) | 2.54x | ✅ | pumpfun | 2026-03-21 06:07 |

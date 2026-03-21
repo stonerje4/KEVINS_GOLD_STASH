@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 11:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 12:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 103 (95 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+92 |
-| 📦 Unrealized | $-561 |
-| 🏦 Total | **$-469** |
+| 📦 Unrealized | $-554 |
+| 🏦 Total | **$-462** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.11x |
 
@@ -21,7 +21,7 @@
 | 🟡 Baldi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:45 |
 | 🟡 DoubleT | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:29 |
 | 🟡 Out | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:29 |
-| 🔴 DOGEFATHER | $0.000027 | **0.78x** ($-22) | 1.01x |  | pumpswap | 2026-03-21 11:21 |
+| 🔴 DOGEFATHER | $0.000027 | **0.88x** ($-12) | 1.01x |  | pumpswap | 2026-03-21 11:21 |
 | 🔴 GOYBEAM | $0.000008 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 18:57 |
 | 🔴 Chud | $0.000030 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 18:52 |
 | 🔴 CRANK | $0.000018 | **0.87x** ($-13) | 1.07x |  | pumpswap | 2026-03-20 18:19 |
@@ -101,7 +101,7 @@
 | 🔴 FAKER | $0.000036 | **0.93x** ($-7) | 1.34x |  | pumpswap | 2026-03-20 00:07 |
 | 🟡 Manosphere | $0.000006 | **1.06x** ($+6) | 1.25x |  | pumpswap | 2026-03-19 23:54 |
 | 🔴 Feels | $0.000011 | **0.92x** ($-8) | 1.52x |  | pumpswap | 2026-03-19 23:53 |
-| 🔴 GAS | $0.000010 | **0.98x** ($-2) | 1.10x |  | pumpswap | 2026-03-19 23:48 |
+| 🔴 GAS | $0.000010 | **0.97x** ($-3) | 1.10x |  | pumpswap | 2026-03-19 23:48 |
 | 🔴 GOBLIN | $0.000015 | **0.92x** ($-8) | 1.12x |  | pumpswap | 2026-03-19 23:47 |
 | 🔴 bio/acc | $0.000018 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-19 23:41 |
 | 🟡 Socrates | $0.000032 | **1.13x** ($+13) | 1.35x |  | pumpswap | 2026-03-19 23:22 |

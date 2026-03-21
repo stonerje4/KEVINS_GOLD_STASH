@@ -1,6 +1,6 @@
 # Wallet: `3xWG24oVzDVaTsGkWLcLtebtvSE9oL4jkuAG8uR4sruT`
 
-> [GMGN](https://gmgn.ai/sol/address/3xWG24oVzDVaTsGkWLcLtebtvSE9oL4jkuAG8uR4sruT) | [Solscan](https://solscan.io/account/3xWG24oVzDVaTsGkWLcLtebtvSE9oL4jkuAG8uR4sruT) | Updated: 2026-03-21 11:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/3xWG24oVzDVaTsGkWLcLtebtvSE9oL4jkuAG8uR4sruT) | [Solscan](https://solscan.io/account/3xWG24oVzDVaTsGkWLcLtebtvSE9oL4jkuAG8uR4sruT) | Updated: 2026-03-21 12:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+75 |
-| 🏦 Total | **$+75** |
+| 📦 Unrealized | $+49 |
+| 🏦 Total | **$+49** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Toly | $0.000010 | **1.75x** ($+75) | 1.75x |  | pumpfun | 2026-03-21 11:40 |
+| 🟡 Toly | $0.000010 | **1.98x** ($+98) | 2.06x | ✅ | pumpfun | 2026-03-21 11:40 |
 
 ## Closed Positions
 

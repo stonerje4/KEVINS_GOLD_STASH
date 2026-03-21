@@ -1,6 +1,6 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 11:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 12:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 24 (14 open, 10 closed) |
 | W/L | 1/9 (10%) |
 | 💵 Realized | $-484 |
-| 📦 Unrealized | $-321 |
-| 🏦 Total | **$-804** |
+| 📦 Unrealized | $-318 |
+| 🏦 Total | **$-802** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.52x |
 
@@ -31,7 +31,7 @@
 | 🔴 RETURN | $0.000020 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🔴 DORO | $0.000005 | **0.73x** ($-27) | 1.19x |  | pumpfun | 2026-03-20 00:46 |
 | 🔴 TRASHBAG | $0.000009 | **0.43x** ($-57) | 1.00x |  | pumpswap | 2026-03-19 23:41 |
-| 🔴 WhiteBoy  | $0.000022 | **0.50x** ($-50) | 1.06x |  | pumpswap | 2026-03-19 23:06 |
+| 🔴 WhiteBoy  | $0.000022 | **0.52x** ($-48) | 1.06x |  | pumpswap | 2026-03-19 23:06 |
 
 ## Closed Positions
 
