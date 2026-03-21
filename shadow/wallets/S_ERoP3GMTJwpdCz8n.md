@@ -1,16 +1,16 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-21 00:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-21 00:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (7 open, 5 closed) |
+| Positions | 13 (8 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-152 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$-193** |
+| 📦 Unrealized | $-45 |
+| 🏦 Total | **$-197** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.70x |
 
@@ -18,10 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 GoutGout | $0.000007 | **0.99x** ($-1) | 1.09x |  | pumpfun | 2026-03-21 00:34 |
 | 🟢 few | $0.000013 | **2.74x** ($+174) | 2.74x | ✅ | pumpfun | 2026-03-20 23:24 |
 | 🔴 sheep | $0.000012 | **0.98x** ($-2) | 1.99x |  | pumpfun | 2026-03-20 20:30 |
 | 🔴 BiGymNtn | $0.000005 | **0.49x** ($-51) | 1.19x |  | pumpfun | 2026-03-20 19:46 |
-| 🟡 FABIANA | $0.000007 | **1.88x** ($+88) | 4.95x | ✅ | pumpfun | 2026-03-20 19:27 |
+| 🟡 FABIANA | $0.000007 | **1.81x** ($+81) | 4.95x | ✅ | pumpfun | 2026-03-20 19:27 |
 | 🔴 SUNSHINE | $0.000006 | **0.51x** ($-49) | 1.42x |  | pumpfun | 2026-03-20 07:56 |
 | 🔴 CHANNELS | $0.000019 | **0.57x** ($-43) | 1.35x |  | pumpswap | 2026-03-20 02:26 |
 | 🔴 Jesus | $0.000010 | **0.82x** ($-18) | 1.37x |  | pumpfun | 2026-03-19 22:46 |

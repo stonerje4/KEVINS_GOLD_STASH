@@ -1,6 +1,6 @@
 # Wallet: `6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt`
 
-> [GMGN](https://gmgn.ai/sol/address/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | [Solscan](https://solscan.io/account/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | Updated: 2026-03-21 00:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | [Solscan](https://solscan.io/account/6hW4Zur18mKKNo5NqE2Yj9WPKhLWnnAEhghnctpBZKUt) | Updated: 2026-03-21 00:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-55 |
-| 🏦 Total | **$-55** |
+| 📦 Unrealized | $-59 |
+| 🏦 Total | **$-59** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Sunshine | $0.000020 | **0.45x** ($-55) | 1.00x |  | pumpswap | 2026-03-20 17:19 |
+| 🔴 Sunshine | $0.000020 | **0.41x** ($-59) | 1.00x |  | pumpswap | 2026-03-20 17:19 |
 
 ## Closed Positions
 

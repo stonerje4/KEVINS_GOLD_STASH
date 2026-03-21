@@ -1,6 +1,6 @@
 # Wallet: `HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4`
 
-> [GMGN](https://gmgn.ai/sol/address/HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4) | [Solscan](https://solscan.io/account/HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4) | Updated: 2026-03-21 00:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4) | [Solscan](https://solscan.io/account/HKnj8ANjw9wszVMMzsZJ8PkyjWBqhAeYkJDJVDXZCXq4) | Updated: 2026-03-21 00:35 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+48 |
-| 📦 Unrealized | $+9 |
+| 📦 Unrealized | $+8 |
 | 🏦 Total | **$+56** |
 | Best ROI | 1.48x |
 | Avg ROI | 1.48x |
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 STRAWBERRIES | $0.000008 | **1.17x** ($+17) | 2.27x | ✅ | pumpfun | 2026-03-20 21:42 |
+| 🟡 STRAWBERRIES | $0.000008 | **1.16x** ($+16) | 2.27x | ✅ | pumpfun | 2026-03-20 21:42 |
 
 ## Closed Positions
 
