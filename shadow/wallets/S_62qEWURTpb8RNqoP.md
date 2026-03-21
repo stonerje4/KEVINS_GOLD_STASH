@@ -1,16 +1,16 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-21 10:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-21 10:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 13 (9 open, 4 closed) |
+| Positions | 14 (10 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $-26 |
-| 📦 Unrealized | $-54 |
-| 🏦 Total | **$-80** |
+| 📦 Unrealized | $-37 |
+| 🏦 Total | **$-63** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.93x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PIP | $0.000005 | **1.17x** ($+17) | 1.50x |  | pumpfun | 2026-03-21 10:38 |
 | 🟡 YOU | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 08:55 |
 | 🟡 Takaichi | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:07 |
 | 🟡 PVC | $0.000012 | **1.06x** ($+6) | 1.15x |  | pumpfun | 2026-03-20 16:35 |

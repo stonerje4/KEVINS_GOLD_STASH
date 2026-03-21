@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 10:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 10:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 34 (26 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-372 |
-| 📦 Unrealized | $-214 |
-| 🏦 Total | **$-586** |
+| 📦 Unrealized | $-145 |
+| 🏦 Total | **$-517** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.53x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Sunshine | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:48 |
 | 🟡 JAMEELA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:05 |
-| 🟢 Grokputer | $0.000018 | **3.37x** ($+237) | 4.22x | ✅ | pumpswap | 2026-03-21 05:15 |
+| 🚀 Grokputer | $0.000018 | **5.81x** ($+481) | 6.02x | ✅ | pumpswap | 2026-03-21 05:15 |
 | 🟡 p-token | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:38 |
 | 🔴 Spiderman | $0.000029 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-21 02:40 |
 | 🟡 LIFE | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:29 |

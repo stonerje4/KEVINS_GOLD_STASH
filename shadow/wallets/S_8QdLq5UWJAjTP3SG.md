@@ -1,25 +1,24 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 10:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 10:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 34 (15 open, 19 closed) |
-| W/L | 3/16 (16%) |
-| 💵 Realized | $-589 |
-| 📦 Unrealized | $-156 |
-| 🏦 Total | **$-745** |
+| Positions | 34 (14 open, 20 closed) |
+| W/L | 3/17 (15%) |
+| 💵 Realized | $-607 |
+| 📦 Unrealized | $-232 |
+| 🏦 Total | **$-839** |
 | Best ROI | 1.48x |
-| Avg ROI | 0.69x |
+| Avg ROI | 0.70x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 DODO | $0.000005 | **1.77x** ($+77) | 1.85x |  | pumpfun | 2026-03-21 10:32 |
-| 🔴 24MKAzKb | $0.000005 | **0.47x** ($-53) | 1.84x |  | pumpfun | 2026-03-21 10:18 |
+| 🔴 24MKAzKb | $0.000005 | **0.48x** ($-52) | 1.84x |  | pumpfun | 2026-03-21 10:18 |
 | 🔴 MOON | $0.000006 | **0.43x** ($-57) | 1.49x |  | pumpfun | 2026-03-21 08:51 |
 | 🟡  Apollo | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |
 | 🔴 omg | $0.000006 | **0.61x** ($-39) | 1.51x |  | pumpswap | 2026-03-21 05:12 |
@@ -38,6 +37,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 DODO | 0.83x | $-17 | trailing_stop_2x | 2.02x | pumpfun | 2026-03-21 10:32 → 2026-03-21 10:36 |
 | 🔴 TERMINATOR | 0.40x | $-60 | stop_loss | 1.62x | pumpfun | 2026-03-21 08:26 → 2026-03-21 08:41 |
 | 🟡 Optimus+PV | 1.48x | $+48 | trailing_stop_4x | 4.16x | pumpfun | 2026-03-21 08:00 → 2026-03-21 08:03 |
 | 🔴 Visine | 0.79x | $-21 | trailing_stop_2x | 2.21x | pumpfun | 2026-03-21 07:52 → 2026-03-21 07:59 |
