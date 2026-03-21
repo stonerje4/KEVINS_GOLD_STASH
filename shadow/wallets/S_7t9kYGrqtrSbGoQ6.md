@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 11:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 11:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,495 |
-| 🏦 Total | **$-1,529** |
+| 📦 Unrealized | $-1,498 |
+| 🏦 Total | **$-1,532** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -54,7 +54,7 @@
 | 🟡 TUNE | $0.000013 | **1.17x** ($+17) | 1.33x |  | pumpswap | 2026-03-20 16:49 |
 | 🟡 TerpBot | $0.000014 | **1.17x** ($+17) | 1.28x |  | pumpswap | 2026-03-20 16:42 |
 | 🔴 PIZZAGATE | $0.000016 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 16:32 |
-| 🟡 Method | $0.000013 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-20 16:31 |
+| 🟡 Method | $0.000013 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-20 16:31 |
 | 🟡 Optimus | $0.000034 | **1.50x** ($+50) | 1.51x |  | pumpswap | 2026-03-20 15:20 |
 | 🟡 NORMIE | $0.000021 | **1.22x** ($+22) | 1.37x |  | pumpswap | 2026-03-20 15:19 |
 | 🟡 OCTOPUS | $0.000009 | **1.31x** ($+31) | 2.17x | ✅ | pumpswap | 2026-03-20 15:15 |
@@ -77,7 +77,7 @@
 | 🟡 MOMO | $0.000035 | **1.05x** ($+5) | 1.12x |  | pumpswap | 2026-03-20 12:41 |
 | 🔴 𝕏 Card  | $0.000023 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 12:30 |
 | 🔴 PATAPIM | $0.000006 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
-| 🔴 CHIBITRUMP | $0.000015 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 12:05 |
+| 🔴 CHIBITRUMP | $0.000015 | **0.95x** ($-5) | 1.10x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 FSC | $0.000030 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 11:56 |
 | 🔴 CRANK | $0.000018 | **0.88x** ($-12) | 1.08x |  | pumpswap | 2026-03-20 11:53 |
 | 🔴 ORACLE | $0.000031 | **0.81x** ($-19) | 1.14x |  | pumpswap | 2026-03-20 11:30 |
@@ -140,7 +140,7 @@
 | 🔴 WhiteBoy  | $0.000015 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🔴 VAFR | $0.000025 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 02:40 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
-| 🔴 JOC | $0.000035 | **0.78x** ($-22) | 1.11x |  | pumpswap | 2026-03-20 02:36 |
+| 🔴 JOC | $0.000035 | **0.74x** ($-26) | 1.11x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 Gany | $0.000032 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
 | 🟡 CAGE | $0.000037 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 02:30 |
 | 🔴 YOU | $0.000013 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 02:28 |

@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 11:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 11:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 42 (37 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $+315 |
-| 📦 Unrealized | $-232 |
-| 🏦 Total | **$+83** |
+| 📦 Unrealized | $-223 |
+| 🏦 Total | **$+92** |
 | Best ROI | 5.81x |
 | Avg ROI | 1.63x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Higuruma | $0.000034 | **1.05x** ($+5) | 1.16x |  | pumpswap | 2026-03-21 09:21 |
 | 🟡 DogeFather | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:56 |
-| 🔴 IMAGINE | $0.000016 | **0.94x** ($-6) | 1.29x |  | pumpswap | 2026-03-21 06:36 |
+| 🟡 IMAGINE | $0.000016 | **1.04x** ($+4) | 1.29x |  | pumpswap | 2026-03-21 06:36 |
 | 🔴 Civil Claude | $0.000017 | **0.94x** ($-6) | 1.22x |  | pumpfun | 2026-03-21 06:11 |
 | 🟡 MFT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:06 |
 | 🟡 XCAT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:51 |

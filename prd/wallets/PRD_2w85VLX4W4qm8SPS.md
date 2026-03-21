@@ -1,6 +1,6 @@
 # PRD Wallet: `2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF`
 
-> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-21 11:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | [Solscan](https://solscan.io/account/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) | Updated: 2026-03-21 11:40 UTC
 
 ## Summary
 
@@ -8,18 +8,18 @@
 |--------|-------|
 | Trades | 16 (3 open, 13 closed) |
 | W/L | 2/11 (15%) |
-| 💵 Realized | -0.6272 SOL ($-56.40) |
+| 💵 Realized | -0.6272 SOL ($-56.38) |
 | ⛽ Gas | 0.0558 SOL |
-| 📦 Unrealized | +0.1187 SOL |
-| 🏦 Net | **-0.5086 SOL** ($-45.73) |
+| 📦 Unrealized | +0.0441 SOL |
+| 🏦 Net | **-0.5832 SOL** ($-52.42) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 Judy | open | 0.11 | 0.93x | 1.03x | -0.0124 | — |
-| 🟢 Cigify | open | 0.11 | 2.22x | 3.06x | +0.1291 | — |
-| 🟢 WORTH | open | 0.11 | 1.06x | 1.15x | +0.0019 | — |
+| 🔴 Judy | open | 0.11 | 0.92x | 1.03x | -0.0135 | — |
+| 🟢 Cigify | open | 0.11 | 1.67x | 3.06x | +0.0692 | — |
+| 🔴 WORTH | open | 0.11 | 0.94x | 1.15x | -0.0116 | — |
 | 🔴 Dreamjob | closed | 0.11 | 0.87x | 1.43x | -0.0241 | stale_position_cleanup |
 | 🟢 Jessica | closed | 0.11 | 2.98x | 7.43x | +0.1820 | runner_trailing_stop |
 | 🔴 BAB | closed | 0.11 | 0.45x | 1.48x | -0.0679 | stale_position_cleanup |

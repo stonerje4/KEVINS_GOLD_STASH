@@ -1,6 +1,6 @@
 # Wallet: `EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ`
 
-> [GMGN](https://gmgn.ai/sol/address/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | [Solscan](https://solscan.io/account/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | Updated: 2026-03-21 11:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | [Solscan](https://solscan.io/account/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | Updated: 2026-03-21 11:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-33 |
-| 📦 Unrealized | $-16 |
-| 🏦 Total | **$-49** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-37** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.84x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Tsuki | $0.000017 | **0.94x** ($-6) | 1.06x |  | pumpfun | 2026-03-21 11:33 |
+| 🟡 Tsuki | $0.000017 | **1.06x** ($+6) | 1.16x |  | pumpfun | 2026-03-21 11:33 |
 | 🔴 IShowSpeed | $0.000020 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 19:33 |
 | 🟡 Meow | $0.000021 | **1.22x** ($+22) | 2.38x | ✅ | pumpfun | 2026-03-20 17:52 |
 | 🟡 Zhdun | $0.000040 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:10 |

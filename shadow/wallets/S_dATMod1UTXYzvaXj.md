@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 11:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 11:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 35 (17 open, 18 closed) |
 | W/L | 1/17 (6%) |
 | 💵 Realized | $-752 |
-| 📦 Unrealized | $+393 |
-| 🏦 Total | **$-359** |
+| 📦 Unrealized | $+399 |
+| 🏦 Total | **$-353** |
 | Best ROI | 1.47x |
 | Avg ROI | 0.58x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CHIBELON | $0.000026 | **1.41x** ($+41) | 1.41x |  | pumpfun | 2026-03-21 11:27 |
-| 🔴 TRUDY | $0.000017 | **0.97x** ($-3) | 1.79x |  | pumpfun | 2026-03-21 11:06 |
+| 🔴 TRUDY | $0.000017 | **0.95x** ($-5) | 1.79x |  | pumpfun | 2026-03-21 11:06 |
 | 🟡 CREB | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:26 |
 | 🟡 Lana | $0.000030 | **1.23x** ($+23) | 1.23x |  | pumpfun | 2026-03-20 16:31 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:53 |
@@ -33,7 +33,7 @@
 | 🟡 Pixels | $0.000024 | **1.40x** ($+40) | 1.88x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 BOAR | $0.000008 | **0.77x** ($-23) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
-| 🟡 9Yqs3sVA | $0.000008 | **1.81x** ($+81) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
+| 🟡 9Yqs3sVA | $0.000008 | **2.00x** ($+100) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
 | 🟡 Grokslop | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 01:01 |
 
 ## Closed Positions
