@@ -1,6 +1,6 @@
 # Wallet: `DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft`
 
-> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-21 05:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | [Solscan](https://solscan.io/account/DiBiwF5kwvhFc5EGkXE6Pje3XoqMmWjvE9MVtXjZhfft) | Updated: 2026-03-21 05:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (10 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-343 |
-| 📦 Unrealized | $+182 |
-| 🏦 Total | **$-160** |
+| 📦 Unrealized | $+187 |
+| 🏦 Total | **$-156** |
 | Best ROI | 0.75x |
 | Avg ROI | 0.43x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 goldepe | $0.000018 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-21 05:39 |
+| 🟡 goldepe | $0.000018 | **1.12x** ($+12) | 1.12x |  | pumpfun | 2026-03-21 05:39 |
 | 🔴 Maxilla | $0.000006 | **0.44x** ($-56) | 1.53x |  | pumpfun | 2026-03-20 23:50 |
 | 🟢 BEE | $0.000015 | **2.39x** ($+139) | 2.39x | ✅ | pumpfun | 2026-03-20 23:39 |
 | 🔴 FCHqr9vG | $0.000006 | **0.70x** ($-30) | 1.35x |  | pumpfun | 2026-03-20 20:20 |
