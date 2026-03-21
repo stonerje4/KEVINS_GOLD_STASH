@@ -1,6 +1,6 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 11:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 11:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 24 (14 open, 10 closed) |
 | W/L | 1/9 (10%) |
 | 💵 Realized | $-484 |
-| 📦 Unrealized | $-297 |
-| 🏦 Total | **$-781** |
+| 📦 Unrealized | $-301 |
+| 🏦 Total | **$-785** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.52x |
 
@@ -22,7 +22,7 @@
 | 🟡 Simulation | $0.000005 | **1.70x** ($+70) | 2.67x | ✅ | pumpswap | 2026-03-21 07:32 |
 | 🔴 Shake | $0.000008 | **0.51x** ($-49) | 1.09x |  | pumpfun | 2026-03-21 05:35 |
 | 🟡 Income | $0.000013 | **1.03x** ($+3) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
-| 🔴 PVE | $0.000012 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 15:52 |
+| 🔴 PVE | $0.000012 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 15:52 |
 | 🔴 Samba | $0.000013 | **0.70x** ($-30) | 1.59x |  | pumpswap | 2026-03-20 15:27 |
 | 🟡 Feels | $0.000010 | **1.07x** ($+7) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 LVLUP | $0.000007 | **0.96x** ($-4) | 1.32x |  | pumpfun | 2026-03-20 15:00 |

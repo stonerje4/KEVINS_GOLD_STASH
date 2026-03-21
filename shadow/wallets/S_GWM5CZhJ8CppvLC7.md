@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 11:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 11:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 55 (50 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+136 |
-| 📦 Unrealized | $-506 |
-| 🏦 Total | **$-370** |
+| 📦 Unrealized | $-502 |
+| 🏦 Total | **$-366** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.27x |
 
@@ -40,7 +40,7 @@
 | 🔴 clod | $0.000016 | **0.82x** ($-18) | 1.20x |  | pumpswap | 2026-03-20 19:17 |
 | 🔴 SNIFFER | $0.000031 | **0.92x** ($-8) | 1.77x |  | pumpswap | 2026-03-20 19:00 |
 | 🔴 Chud | $0.000030 | **0.73x** ($-27) | 1.02x |  | pumpswap | 2026-03-20 18:52 |
-| 🔴 honkermog | $0.000032 | **0.71x** ($-29) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
+| 🔴 honkermog | $0.000032 | **0.74x** ($-26) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
 | 🟡 CHIBI | $0.000014 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 18:08 |
 | 🔴 ARIA | $0.000021 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
 | 🟡 Hamster | $0.000021 | **1.63x** ($+63) | 1.72x |  | pumpswap | 2026-03-20 17:00 |
@@ -52,7 +52,7 @@
 | 🔴 DRIVE | $0.000032 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 05:42 |
 | 🔴 Goose | $0.000019 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 05:23 |
 | 🟡 CHOPPER | $0.000025 | **1.30x** ($+30) | 1.30x |  | pumpswap | 2026-03-20 04:44 |
-| 🔴 JOC | $0.000034 | **0.81x** ($-19) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
+| 🔴 JOC | $0.000034 | **0.82x** ($-18) | 1.16x |  | pumpswap | 2026-03-20 04:02 |
 | 🟡 DICKUS | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:49 |
 | 🔴 VAFR | $0.000023 | **0.99x** ($-1) | 1.15x |  | pumpswap | 2026-03-20 02:40 |
 | 🔴 LULU | $0.000035 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 02:20 |

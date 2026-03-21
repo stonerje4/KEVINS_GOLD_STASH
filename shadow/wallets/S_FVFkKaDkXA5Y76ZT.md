@@ -1,12 +1,12 @@
 # Wallet: `FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg`
 
-> [GMGN](https://gmgn.ai/sol/address/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | [Solscan](https://solscan.io/account/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | Updated: 2026-03-21 11:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | [Solscan](https://solscan.io/account/FVFkKaDkXA5Y76ZT6qSbNP12ViWxF1uQq5syNhZpduTg) | Updated: 2026-03-21 11:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (0 open, 3 closed) |
+| Positions | 4 (1 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 PISSTINA | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:25 |
 
 ## Closed Positions
 

@@ -1,16 +1,16 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 11:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 11:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (10 open, 7 closed) |
+| Positions | 18 (11 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-289 |
-| 📦 Unrealized | $-203 |
-| 🏦 Total | **$-492** |
+| 📦 Unrealized | $-195 |
+| 🏦 Total | **$-484** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.59x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PIP | $0.000014 | **0.83x** ($-17) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
-| 🔴 Optimus+PV | $0.000010 | **0.59x** ($-41) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
+| 🟡 GoutGout | $0.000015 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-21 11:27 |
+| 🔴 PIP | $0.000014 | **0.91x** ($-9) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
+| 🔴 Optimus+PV | $0.000010 | **0.58x** ($-42) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
 | 🟡 BUFFALO | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 09:08 |
 | 🟡 Babyify | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:21 |
 | 🔴 Elongate | $0.000010 | **0.47x** ($-53) | 1.17x |  | pumpfun | 2026-03-20 23:42 |
