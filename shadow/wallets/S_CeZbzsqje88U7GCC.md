@@ -1,16 +1,16 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-21 10:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-21 10:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (11 open, 9 closed) |
+| Positions | 21 (12 open, 9 closed) |
 | W/L | 2/7 (22%) |
 | 💵 Realized | $-255 |
-| 📦 Unrealized | $+195 |
-| 🏦 Total | **$-60** |
+| 📦 Unrealized | $+199 |
+| 🏦 Total | **$-56** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.72x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GoutGout | $0.000020 | **1.11x** ($+11) | 1.25x |  | pumpfun | 2026-03-21 10:18 |
+| 🟡 Samba | $0.000011 | **1.04x** ($+4) | 1.39x |  | pumpfun | 2026-03-21 10:28 |
+| 🟡 GoutGout | $0.000020 | **1.12x** ($+12) | 1.25x |  | pumpfun | 2026-03-21 10:18 |
 | 🔴 Realize | $0.000019 | **0.98x** ($-2) | 1.27x |  | pumpswap | 2026-03-20 20:41 |
 | 🔴 NICK | $0.000027 | **0.88x** ($-12) | 1.10x |  | pumpswap | 2026-03-20 19:41 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |

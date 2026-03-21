@@ -1,16 +1,16 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 10:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 10:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 52 (47 open, 5 closed) |
+| Positions | 53 (48 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+136 |
-| 📦 Unrealized | $-472 |
-| 🏦 Total | **$-336** |
+| 📦 Unrealized | $-476 |
+| 🏦 Total | **$-340** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.27x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 EVERYTHING | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:27 |
 | 🟡 CAINE | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:23 |
 | 🟡 DogeFather | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:17 |
-| 🟡 Pixel | $0.000015 | **1.04x** ($+4) | 1.10x |  | pumpswap | 2026-03-21 07:34 |
+| 🔴 Pixel | $0.000015 | **1.00x** ($-0) | 1.10x |  | pumpswap | 2026-03-21 07:34 |
 | 🟡 Pixels | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:48 |
 | 🟡 uAI | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:23 |
 | 🟡 LIFE | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:05 |

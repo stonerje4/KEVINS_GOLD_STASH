@@ -1,6 +1,6 @@
 # Wallet: `7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr`
 
-> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 10:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 10:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (9 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+112 |
-| 🏦 Total | **$+36** |
+| 📦 Unrealized | $+142 |
+| 🏦 Total | **$+65** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.62x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Tsuki | $0.000007 | **1.70x** ($+70) | 1.99x |  | pumpfun | 2026-03-21 10:14 |
-| 🟡 OPTITRUMP | $0.000006 | **1.14x** ($+14) | 1.47x |  | pumpfun | 2026-03-21 09:45 |
-| 🔴 BUDDY | $0.000007 | **0.45x** ($-55) | 1.06x |  | pumpfun | 2026-03-21 09:27 |
+| 🟡 Tsuki | $0.000007 | **1.81x** ($+81) | 1.99x |  | pumpfun | 2026-03-21 10:14 |
+| 🟡 OPTITRUMP | $0.000006 | **1.34x** ($+34) | 1.47x |  | pumpfun | 2026-03-21 09:45 |
+| 🔴 BUDDY | $0.000007 | **0.43x** ($-57) | 1.06x |  | pumpfun | 2026-03-21 09:27 |
 | 🟡 HLT | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-21 09:17 |
 | 🔴 CHEEMS | $0.000008 | **0.98x** ($-2) | 1.37x |  | pumpfun | 2026-03-21 07:08 |
 | 🟢 grokputer | $0.000014 | **2.70x** ($+170) | 2.70x | ✅ | pumpfun | 2026-03-21 04:22 |
