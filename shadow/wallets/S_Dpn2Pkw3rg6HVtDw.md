@@ -1,24 +1,23 @@
 # Wallet: `Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m`
 
-> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-21 07:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | [Solscan](https://solscan.io/account/Dpn2Pkw3rg6HVtDwZhtFJi5HQPtk35kuebRSHYc1Va3m) | Updated: 2026-03-21 07:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (14 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-186 |
-| 📦 Unrealized | $-151 |
-| 🏦 Total | **$-338** |
+| Positions | 19 (13 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-247 |
+| 📦 Unrealized | $-112 |
+| 🏦 Total | **$-359** |
 | Best ROI | 1.13x |
-| Avg ROI | 0.63x |
+| Avg ROI | 0.59x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Nuggets | $0.000011 | **0.61x** ($-39) | 1.04x |  | pumpfun | 2026-03-21 07:18 |
 | 🟡 believe | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |
 | 🔴 benk | $0.000007 | **0.73x** ($-27) | 1.48x |  | pumpfun | 2026-03-21 05:24 |
 | 🔴 Polara | $0.000006 | **0.41x** ($-59) | 1.27x |  | pumpfun | 2026-03-20 16:47 |
@@ -37,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Nuggets | 0.40x | $-60 | stop_loss | 1.04x | pumpfun | 2026-03-21 07:18 → 2026-03-21 07:31 |
 | 🔴 Happiness | 0.40x | $-60 | stop_loss | 1.35x | pumpfun | 2026-03-20 17:05 → 2026-03-20 17:32 |
 | 🟡 Hello World! | 1.13x | $+13 | trailing_stop_3x | 3.49x | pumpfun | 2026-03-20 16:52 → 2026-03-20 22:19 |
 | 🔴 HELLO | 0.39x | $-61 | stop_loss | 1.10x | pumpfun | 2026-03-20 16:08 → 2026-03-20 16:17 |
