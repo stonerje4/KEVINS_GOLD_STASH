@@ -1,6 +1,6 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-21 01:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-21 01:35 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 15 (7 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-232 |
-| 📦 Unrealized | $+27 |
+| 📦 Unrealized | $+26 |
 | 🏦 Total | **$-205** |
 | Best ROI | 2.95x |
 | Avg ROI | 0.71x |
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TADC | $0.000032 | **0.74x** ($-26) | 1.36x |  | pumpswap | 2026-03-20 23:17 |
+| 🔴 TADC | $0.000032 | **0.73x** ($-27) | 1.36x |  | pumpswap | 2026-03-20 23:17 |
 | 🟡 PUNCHDENG | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:22 |
 | 🔴 Jessica | $0.000007 | **0.49x** ($-51) | 1.83x |  | pumpswap | 2026-03-20 21:32 |
 | 🟡 JUMP | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 03:37 |

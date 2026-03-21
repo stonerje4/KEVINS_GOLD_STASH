@@ -1,25 +1,24 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-21 01:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-21 01:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 18 (7 open, 11 closed) |
-| W/L | 1/10 (9%) |
-| 💵 Realized | $-365 |
-| 📦 Unrealized | $-155 |
-| 🏦 Total | **$-520** |
+| Positions | 18 (6 open, 12 closed) |
+| W/L | 2/10 (17%) |
+| 💵 Realized | $-320 |
+| 📦 Unrealized | $-190 |
+| 🏦 Total | **$-511** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.67x |
+| Avg ROI | 0.73x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 pa | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
-| 🟡 Chibify | $0.000028 | **1.88x** ($+88) | 3.04x | ✅ | pumpswap | 2026-03-20 10:35 |
 | 🔴 Kit | $0.000006 | **0.62x** ($-38) | 1.34x |  | pumpfun | 2026-03-20 07:40 |
 | 🔴 大郎 | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 HAIL | $0.000015 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 06:21 |
@@ -32,6 +31,7 @@
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 IonClaw | 0.51x | $-49 | trailing_stop_2x | 2.31x | pumpfun | 2026-03-20 16:07 → 2026-03-20 23:07 |
 | 🔴 chibify | 0.40x | $-60 | stop_loss | 1.00x | pumpswap | 2026-03-20 11:08 → 2026-03-20 20:37 |
+| 🟡 Chibify | 1.44x | $+44 | trailing_stop_3x | 3.04x | pumpswap | 2026-03-20 10:35 → 2026-03-21 01:34 |
 | 🟡 我的猪盾 | 0.81x | $-19 | trailing_stop_3x | 2.55x | pumpfun | 2026-03-20 06:42 → 2026-03-20 07:15 |
 | 🟡 AVATAR | 1.49x | $+49 | trailing_stop_5x | 4.98x | pumpswap | 2026-03-20 06:24 → 2026-03-20 06:55 |
 | 🔴 Yukon | 0.33x | $-67 | stop_loss | 1.41x | pumpfun | 2026-03-20 06:18 → 2026-03-20 06:20 |

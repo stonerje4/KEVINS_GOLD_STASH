@@ -1,6 +1,6 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-21 01:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-21 01:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (14 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-223 |
-| 📦 Unrealized | $+156 |
-| 🏦 Total | **$-67** |
+| 📦 Unrealized | $+145 |
+| 🏦 Total | **$-78** |
 | Best ROI | 1.02x |
 | Avg ROI | 0.63x |
 
@@ -19,12 +19,12 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 BABIFY | $0.000009 | **0.70x** ($-30) | 1.26x |  | pumpswap | 2026-03-21 00:22 |
-| 🔴 Babyify | $0.000015 | **0.77x** ($-23) | 1.89x |  | pumpfun | 2026-03-21 00:22 |
-| 🟡 lmeow | $0.000022 | **1.17x** ($+17) | 1.57x |  | pumpswap | 2026-03-21 00:14 |
+| 🔴 Babyify | $0.000015 | **0.79x** ($-21) | 1.89x |  | pumpfun | 2026-03-21 00:22 |
+| 🔴 lmeow | $0.000022 | **0.95x** ($-5) | 1.57x |  | pumpswap | 2026-03-21 00:14 |
 | 🟡 CRACK | $0.000030 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 21:41 |
 | 🟢 Jessica | $0.000015 | **2.50x** ($+150) | 2.50x | ✅ | pumpfun | 2026-03-20 21:32 |
-| 🔴 Dickus | $0.000007 | **0.70x** ($-30) | 1.13x |  | pumpswap | 2026-03-20 21:27 |
-| 🔴 BUFFALO | $0.000008 | **0.88x** ($-12) | 1.22x |  | pumpfun | 2026-03-20 21:20 |
+| 🔴 Dickus | $0.000007 | **0.81x** ($-19) | 1.13x |  | pumpswap | 2026-03-20 21:27 |
+| 🔴 BUFFALO | $0.000008 | **0.87x** ($-13) | 1.22x |  | pumpfun | 2026-03-20 21:20 |
 | 🟡 Cigify | $0.000033 | **1.11x** ($+11) | 1.11x |  | pumpfun | 2026-03-20 21:14 |
 | 🟡 HELLO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:12 |
 | 🔴 NORRIS | $0.000006 | **0.48x** ($-52) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
