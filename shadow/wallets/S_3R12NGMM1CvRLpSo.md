@@ -1,6 +1,6 @@
 # Wallet: `3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H`
 
-> [GMGN](https://gmgn.ai/sol/address/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | [Solscan](https://solscan.io/account/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | Updated: 2026-03-21 01:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | [Solscan](https://solscan.io/account/3R12NGMM1CvRLpSoNqa7cjE237kBk1cAmWSSEQuvVV1H) | Updated: 2026-03-21 01:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-66 |
-| 📦 Unrealized | $-89 |
-| 🏦 Total | **$-156** |
+| 📦 Unrealized | $-87 |
+| 🏦 Total | **$-153** |
 | Best ROI | 0.34x |
 | Avg ROI | 0.34x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Elongate | $0.000012 | **0.58x** ($-42) | 1.67x |  | pumpswap | 2026-03-20 22:27 |
+| 🔴 Elongate | $0.000012 | **0.61x** ($-39) | 1.67x |  | pumpswap | 2026-03-20 22:27 |
 | 🔴 GBN | $0.000018 | **0.52x** ($-48) | 1.84x |  | pumpswap | 2026-03-20 15:47 |
 
 ## Closed Positions

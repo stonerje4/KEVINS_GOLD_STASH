@@ -1,31 +1,31 @@
 # Wallet: `4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ`
 
-> [GMGN](https://gmgn.ai/sol/address/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | [Solscan](https://solscan.io/account/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | Updated: 2026-03-21 01:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | [Solscan](https://solscan.io/account/4SAx6eg5iEKrbag9mbPnUU1PAgQfrUstWmmC7QpfLqjJ) | Updated: 2026-03-21 01:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-61 |
-| 📦 Unrealized | $+34 |
-| 🏦 Total | **$-27** |
-| Best ROI | 0.39x |
-| Avg ROI | 0.39x |
+| Positions | 4 (2 open, 2 closed) |
+| W/L | 0/2 (0%) |
+| 💵 Realized | $-121 |
+| 📦 Unrealized | $+62 |
+| 🏦 Total | **$-58** |
+| Best ROI | 0.40x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NOTHING | $0.000016 | **0.59x** ($-41) | 1.37x |  | pumpfun | 2026-03-21 01:09 |
-| 🟢 LIFE | $0.000025 | **2.50x** ($+150) | 2.77x | ✅ | pumpswap | 2026-03-21 00:14 |
+| 🟢 LIFE | $0.000025 | **2.25x** ($+125) | 2.77x | ✅ | pumpswap | 2026-03-21 00:14 |
 | 🟡 PUNCHDENG | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:22 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 NOTHING | 0.40x | $-60 | stop_loss | 1.37x | pumpfun | 2026-03-21 01:09 → 2026-03-21 01:43 |
 | 🔴 POLARA | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 20:21 → 2026-03-20 20:24 |
 
 ---

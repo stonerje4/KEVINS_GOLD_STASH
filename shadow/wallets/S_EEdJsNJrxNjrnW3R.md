@@ -1,6 +1,6 @@
 # Wallet: `EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK`
 
-> [GMGN](https://gmgn.ai/sol/address/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | [Solscan](https://solscan.io/account/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | Updated: 2026-03-21 01:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | [Solscan](https://solscan.io/account/EEdJsNJrxNjrnW3RLGRn3hajoZEcjiuLLkeQbbma5DTK) | Updated: 2026-03-21 01:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+21 |
-| 🏦 Total | **$+21** |
+| 📦 Unrealized | $+23 |
+| 🏦 Total | **$+23** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PMARCA | $0.000009 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-21 01:16 |
+| 🟡 PMARCA | $0.000009 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-21 01:16 |
 | 🟡 BIBI | $0.000013 | **1.09x** ($+9) | 1.09x |  | pumpfun | 2026-03-21 01:15 |
 | 🟡 TIME | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 00:38 |
 

@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 01:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 01:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (8 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $-155 |
-| 📦 Unrealized | $-106 |
-| 🏦 Total | **$-261** |
+| 📦 Unrealized | $-107 |
+| 🏦 Total | **$-262** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.74x |
 
@@ -25,7 +25,7 @@
 | 🔴 Merlin | $0.000007 | **0.48x** ($-52) | 1.49x |  | pumpfun | 2026-03-20 13:25 |
 | 🟡 MMORPG | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:44 |
 | 🟡 Quokka | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
-| 🔴 Saleh | $0.000019 | **0.69x** ($-31) | 1.14x |  | pumpswap | 2026-03-20 12:01 |
+| 🔴 Saleh | $0.000019 | **0.68x** ($-32) | 1.14x |  | pumpswap | 2026-03-20 12:01 |
 
 ## Closed Positions
 
