@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 10:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 10:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (9 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $-155 |
-| 📦 Unrealized | $-86 |
-| 🏦 Total | **$-241** |
+| 📦 Unrealized | $-73 |
+| 🏦 Total | **$-228** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.74x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 likudbot | $0.000010 | **1.19x** ($+19) | 1.22x |  | pumpfun | 2026-03-21 10:49 |
+| 🟡 likudbot | $0.000010 | **1.32x** ($+32) | 1.32x |  | pumpfun | 2026-03-21 10:49 |
 | 🔴 CAGE | $0.000005 | **0.47x** ($-53) | 1.54x |  | pumpfun | 2026-03-20 20:01 |
 | 🔴 Benicio | $0.000010 | **0.87x** ($-13) | 1.47x |  | pumpfun | 2026-03-20 19:44 |
 | 🟡 CAT | $0.000007 | **1.23x** ($+23) | 1.56x |  | pumpfun | 2026-03-20 19:42 |

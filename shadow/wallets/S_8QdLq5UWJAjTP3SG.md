@@ -1,6 +1,6 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 10:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 10:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 35 (15 open, 20 closed) |
 | W/L | 3/17 (15%) |
 | 💵 Realized | $-607 |
-| 📦 Unrealized | $-267 |
-| 🏦 Total | **$-874** |
+| 📦 Unrealized | $-260 |
+| 🏦 Total | **$-867** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.70x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 likudbot | $0.000018 | **0.66x** ($-34) | 1.78x |  | pumpfun | 2026-03-21 10:42 |
+| 🔴 likudbot | $0.000018 | **0.74x** ($-26) | 1.78x |  | pumpfun | 2026-03-21 10:42 |
 | 🔴 24MKAzKb | $0.000005 | **0.48x** ($-52) | 1.84x |  | pumpfun | 2026-03-21 10:18 |
 | 🔴 MOON | $0.000006 | **0.43x** ($-57) | 1.49x |  | pumpfun | 2026-03-21 08:51 |
 | 🟡  Apollo | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |

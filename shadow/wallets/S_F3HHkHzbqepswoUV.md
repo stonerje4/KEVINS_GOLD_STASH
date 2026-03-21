@@ -1,16 +1,16 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-21 10:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-21 10:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (14 open, 5 closed) |
+| Positions | 20 (15 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-263 |
-| 📦 Unrealized | $+72 |
-| 🏦 Total | **$-191** |
+| 📦 Unrealized | $+103 |
+| 🏦 Total | **$-160** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.47x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 likudbot | $0.000010 | **1.31x** ($+31) | 1.31x |  | pumpfun | 2026-03-21 10:51 |
 | 🟡 DRONE | $0.000007 | **1.27x** ($+27) | 1.40x |  | pumpswap | 2026-03-21 06:48 |
 | 🔴 OSP | $0.000007 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-21 03:22 |
 | 🟡 GLD | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 02:38 |

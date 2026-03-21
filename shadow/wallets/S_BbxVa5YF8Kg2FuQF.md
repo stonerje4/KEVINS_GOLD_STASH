@@ -1,6 +1,6 @@
 # Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-21 10:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-21 10:55 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 18 (9 open, 9 closed) |
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-304 |
-| 📦 Unrealized | $-15 |
+| 📦 Unrealized | $-14 |
 | 🏦 Total | **$-319** |
 | Best ROI | 2.95x |
 | Avg ROI | 0.66x |
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Higuruma | $0.000028 | **1.15x** ($+15) | 2.09x | ✅ | pumpswap | 2026-03-21 05:10 |
+| 🟡 Higuruma | $0.000028 | **1.16x** ($+16) | 2.09x | ✅ | pumpswap | 2026-03-21 05:10 |
 | 🔴 omg | $0.000009 | **0.44x** ($-56) | 1.12x |  | pumpswap | 2026-03-21 05:09 |
 | 🟢 CREB | $0.000015 | **2.34x** ($+134) | 2.34x | ✅ | pumpfun | 2026-03-21 03:16 |
 | 🔴 TADC | $0.000032 | **0.75x** ($-25) | 1.36x |  | pumpswap | 2026-03-20 23:17 |

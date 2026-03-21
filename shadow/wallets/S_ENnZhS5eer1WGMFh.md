@@ -1,6 +1,6 @@
 # Wallet: `ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F`
 
-> [GMGN](https://gmgn.ai/sol/address/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | [Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-21 10:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | [Solscan](https://solscan.io/account/ENnZhS5eer1WGMFhYXss45VpKTEJo9S1g1EoKHXc8Y3F) | Updated: 2026-03-21 10:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-68 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$-62** |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-81** |
 | Best ROI | 0.32x |
 | Avg ROI | 0.32x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Puffer | $0.000012 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-21 10:50 |
+| 🔴 Puffer | $0.000012 | **0.74x** ($-26) | 1.00x |  | pumpfun | 2026-03-21 10:50 |
 | 🟡 CREB | $0.000024 | **1.47x** ($+47) | 1.47x |  | pumpfun | 2026-03-21 03:16 |
 | 🔴 LUMO | $0.000031 | **0.66x** ($-34) | 1.99x |  | pumpswap | 2026-03-20 01:24 |
 

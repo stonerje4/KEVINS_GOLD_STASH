@@ -1,6 +1,6 @@
 # Wallet: `6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332`
 
-> [GMGN](https://gmgn.ai/sol/address/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | [Solscan](https://solscan.io/account/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | Updated: 2026-03-21 10:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | [Solscan](https://solscan.io/account/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | Updated: 2026-03-21 10:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (4 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-136 |
-| 📦 Unrealized | $+108 |
-| 🏦 Total | **$-28** |
+| 📦 Unrealized | $+86 |
+| 🏦 Total | **$-51** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.55x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Sybil | $0.000011 | **0.86x** ($-14) | 1.32x |  | pumpfun | 2026-03-21 10:32 |
+| 🔴 Sybil | $0.000011 | **0.64x** ($-36) | 1.32x |  | pumpfun | 2026-03-21 10:32 |
 | 🔴 0xSero | $0.000008 | **0.99x** ($-1) | 1.00x |  | pumpfun | 2026-03-21 10:01 |
 | 🚀 Toly | $0.000006 | **6.10x** ($+510) | 6.10x | ✅ | pumpfun | 2026-03-21 09:51 |
 | 🔴 4k5zTDb8 | $0.000005 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-21 09:27 |
