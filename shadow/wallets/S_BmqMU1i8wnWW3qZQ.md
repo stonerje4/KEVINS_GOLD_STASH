@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 04:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 04:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,547 |
-| 🏦 Total | **$-2,670** |
+| 📦 Unrealized | $-2,554 |
+| 🏦 Total | **$-2,677** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -190,7 +190,7 @@
 | 🟡 wallahi | $0.000033 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 00:15 |
 | 🔴 Microwaved | $0.000029 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 00:14 |
 | 🔴 DAU | $0.000008 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:12 |
-| 🔴 FAKER | $0.000035 | **0.99x** ($-1) | 1.40x |  | pumpswap | 2026-03-20 00:07 |
+| 🔴 FAKER | $0.000035 | **0.98x** ($-2) | 1.40x |  | pumpswap | 2026-03-20 00:07 |
 | 🟡 WORLD | $0.000005 | **1.28x** ($+28) | 1.28x |  | pumpswap | 2026-03-20 00:04 |
 | 🔴 GOBLIN | $0.000016 | **0.86x** ($-14) | 1.04x |  | pumpswap | 2026-03-20 00:01 |
 | 🔴 oilcoin | $0.000009 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-19 23:59 |
@@ -208,7 +208,7 @@
 | 🔴 chibify | $0.000009 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-19 23:42 |
 | 🔴 bio/acc | $0.000017 | **0.96x** ($-4) | 1.08x |  | pumpswap | 2026-03-19 23:41 |
 | 🟡 TheSpot | $0.000018 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-19 23:40 |
-| 🟡 FAFO | $0.000022 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-19 23:39 |
+| 🔴 FAFO | $0.000022 | **0.98x** ($-2) | 1.06x |  | pumpswap | 2026-03-19 23:39 |
 | 🟡 Barron | $0.000019 | **1.14x** ($+14) | 1.43x |  | pumpswap | 2026-03-19 23:39 |
 | 🟡 TFW | $0.000030 | **1.55x** ($+55) | 2.37x | ✅ | pumpswap | 2026-03-19 23:35 |
 | 🔴 AFC | $0.000006 | **0.70x** ($-30) | 1.05x |  | pumpswap | 2026-03-19 23:34 |

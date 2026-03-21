@@ -1,12 +1,12 @@
 # Wallet: `DQVnZageg8mQrbL5qRc5P3qAWxFGXfQvKdy1bFwuHQi2`
 
-> [GMGN](https://gmgn.ai/sol/address/DQVnZageg8mQrbL5qRc5P3qAWxFGXfQvKdy1bFwuHQi2) | [Solscan](https://solscan.io/account/DQVnZageg8mQrbL5qRc5P3qAWxFGXfQvKdy1bFwuHQi2) | Updated: 2026-03-21 04:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/DQVnZageg8mQrbL5qRc5P3qAWxFGXfQvKdy1bFwuHQi2) | [Solscan](https://solscan.io/account/DQVnZageg8mQrbL5qRc5P3qAWxFGXfQvKdy1bFwuHQi2) | Updated: 2026-03-21 04:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (1 open, 0 closed) |
+| Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHANNELS | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:24 |
 | 🟡 Qi | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:26 |
 
 ## Closed Positions
