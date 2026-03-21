@@ -1,6 +1,6 @@
 # Wallet: `CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi`
 
-> [GMGN](https://gmgn.ai/sol/address/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | [Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-21 13:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | [Solscan](https://solscan.io/account/CZjxED3uVrU4MaNqkbw6jsVQfCTjb8ctenJfJGBpYJi) | Updated: 2026-03-21 13:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+89 |
-| 🏦 Total | **$+13** |
+| 📦 Unrealized | $+84 |
+| 🏦 Total | **$+7** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.62x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Grokputer | $0.000013 | **1.09x** ($+9) | 1.15x |  | pumpfun | 2026-03-21 12:13 |
-| 🔴 ANIME | $0.000010 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 16:47 |
+| 🟡 Grokputer | $0.000013 | **1.05x** ($+5) | 1.15x |  | pumpfun | 2026-03-21 12:13 |
+| 🔴 ANIME | $0.000010 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 16:47 |
 | 🟡 菲比啾比 | $0.000012 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 12:43 |
 | 🟡 BISPIDER | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:51 |
 | 🟡 Zhdun | $0.000020 | **1.85x** ($+85) | 1.85x |  | pumpfun | 2026-03-20 08:55 |

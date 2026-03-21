@@ -1,6 +1,6 @@
 # Wallet: `91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso`
 
-> [GMGN](https://gmgn.ai/sol/address/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | [Solscan](https://solscan.io/account/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | Updated: 2026-03-21 13:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | [Solscan](https://solscan.io/account/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | Updated: 2026-03-21 13:25 UTC
 
 ## Summary
 
@@ -20,12 +20,12 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 EVERYTHING | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 02:25 |
 | 🔴 PATAPIM | $0.000005 | **0.98x** ($-2) | 1.14x |  | pumpswap | 2026-03-20 22:41 |
-| 🟡 CHIBI | $0.000011 | **1.05x** ($+5) | 1.35x |  | pumpswap | 2026-03-20 19:47 |
+| 🟡 CHIBI | $0.000011 | **1.02x** ($+2) | 1.35x |  | pumpswap | 2026-03-20 19:47 |
 | 🟡 Chibis | $0.000011 | **1.32x** ($+32) | 1.32x |  | pumpswap | 2026-03-20 19:34 |
-| 🔴 Otome | $0.000016 | **0.66x** ($-34) | 1.04x |  | pumpswap | 2026-03-20 16:32 |
+| 🔴 Otome | $0.000016 | **0.70x** ($-30) | 1.04x |  | pumpswap | 2026-03-20 16:32 |
 | 🔴 Moe-chan | $0.000013 | **0.73x** ($-27) | 1.08x |  | pumpswap | 2026-03-20 12:44 |
 | 🔴 ballsack | $0.000005 | **0.94x** ($-6) | 1.02x |  | pumpswap | 2026-03-20 01:00 |
-| 🟡 CHIBITRUMP | $0.000010 | **1.35x** ($+35) | 1.99x |  | pumpswap | 2026-03-20 00:26 |
+| 🟡 CHIBITRUMP | $0.000010 | **1.32x** ($+32) | 1.99x |  | pumpswap | 2026-03-20 00:26 |
 | 🟡 CHIBIELON | $0.000005 | **1.52x** ($+52) | 1.80x |  | pumpswap | 2026-03-20 00:06 |
 
 ## Closed Positions

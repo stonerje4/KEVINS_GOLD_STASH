@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 13:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 13:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 57 (52 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+136 |
-| 📦 Unrealized | $-527 |
-| 🏦 Total | **$-391** |
+| 📦 Unrealized | $-526 |
+| 🏦 Total | **$-390** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.27x |
 
@@ -42,7 +42,7 @@
 | 🔴 clod | $0.000016 | **0.82x** ($-18) | 1.20x |  | pumpswap | 2026-03-20 19:17 |
 | 🔴 SNIFFER | $0.000031 | **0.92x** ($-8) | 1.77x |  | pumpswap | 2026-03-20 19:00 |
 | 🔴 Chud | $0.000030 | **0.73x** ($-27) | 1.02x |  | pumpswap | 2026-03-20 18:52 |
-| 🔴 honkermog | $0.000032 | **0.65x** ($-35) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
+| 🔴 honkermog | $0.000032 | **0.66x** ($-34) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
 | 🟡 CHIBI | $0.000014 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 18:08 |
 | 🔴 ARIA | $0.000021 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
 | 🟡 Hamster | $0.000021 | **1.53x** ($+53) | 1.72x |  | pumpswap | 2026-03-20 17:00 |

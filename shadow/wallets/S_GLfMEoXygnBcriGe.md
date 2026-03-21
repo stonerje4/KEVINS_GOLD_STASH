@@ -1,6 +1,6 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [GMGN](https://gmgn.ai/sol/address/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | [Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-21 13:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | [Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-21 13:25 UTC
 
 ## Summary
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NEO | $0.000009 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 15:12 |
-| 🔴 CHIBI | $0.000015 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
+| 🔴 NEO | $0.000009 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 15:12 |
+| 🔴 CHIBI | $0.000015 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 14:39 |
 | 🔴 BIAO | $0.000011 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 early | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:40 |
 | 🔴 Ride | $0.000019 | **0.66x** ($-34) | 1.13x |  | pumpswap | 2026-03-20 07:26 |

@@ -1,6 +1,6 @@
 # Wallet: `3x6beCUhtXGFhfSaDtB7FJmjFuML9SL8HrbYND3SHkMu`
 
-> [GMGN](https://gmgn.ai/sol/address/3x6beCUhtXGFhfSaDtB7FJmjFuML9SL8HrbYND3SHkMu) | [Solscan](https://solscan.io/account/3x6beCUhtXGFhfSaDtB7FJmjFuML9SL8HrbYND3SHkMu) | Updated: 2026-03-21 13:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/3x6beCUhtXGFhfSaDtB7FJmjFuML9SL8HrbYND3SHkMu) | [Solscan](https://solscan.io/account/3x6beCUhtXGFhfSaDtB7FJmjFuML9SL8HrbYND3SHkMu) | Updated: 2026-03-21 13:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-3** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-4** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 OSP | $0.000011 | **0.73x** ($-27) | 1.17x |  | pumpfun | 2026-03-20 15:27 |
-| 🟡 OSP | $0.000027 | **1.25x** ($+25) | 1.29x |  | pumpfun | 2026-03-20 15:00 |
+| 🟡 OSP | $0.000027 | **1.24x** ($+24) | 1.29x |  | pumpfun | 2026-03-20 15:00 |
 | 🟡 $PEPETO | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:06 |
 
 ## Closed Positions
