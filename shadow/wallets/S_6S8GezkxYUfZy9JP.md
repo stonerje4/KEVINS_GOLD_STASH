@@ -1,6 +1,6 @@
 # Wallet: `6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC`
 
-> [GMGN](https://gmgn.ai/sol/address/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | [Solscan](https://solscan.io/account/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | Updated: 2026-03-21 12:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | [Solscan](https://solscan.io/account/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | Updated: 2026-03-21 12:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (4 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-268 |
-| 📦 Unrealized | $+109 |
-| 🏦 Total | **$-159** |
+| 📦 Unrealized | $+89 |
+| 🏦 Total | **$-180** |
 | Best ROI | 1.38x |
 | Avg ROI | 0.55x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 EMY | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 12:34 |
-| 🟢 7xWo7MQ3 | $0.000007 | **2.12x** ($+112) | 2.68x | ✅ | pumpfun | 2026-03-21 12:28 |
+| 🟡 7xWo7MQ3 | $0.000007 | **1.71x** ($+71) | 2.68x | ✅ | pumpfun | 2026-03-21 12:28 |
 | 🟡 TIME | $0.000022 | **1.63x** ($+63) | 1.63x |  | pumpfun | 2026-03-20 23:40 |
 | 🔴 TADC | $0.000026 | **0.90x** ($-10) | 1.62x |  | pumpswap | 2026-03-20 22:50 |
 

@@ -1,25 +1,24 @@
 # Wallet: `HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D`
 
-> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-21 12:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | [Solscan](https://solscan.io/account/HerkeyfRFFi7fWuykrBZpKc733NxHU7DhYrSBKebLX1D) | Updated: 2026-03-21 12:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 16 (8 open, 8 closed) |
-| W/L | 1/7 (12%) |
-| 💵 Realized | $-411 |
-| 📦 Unrealized | $+47 |
-| 🏦 Total | **$-365** |
-| Best ROI | 1.43x |
-| Avg ROI | 0.49x |
+| Positions | 16 (7 open, 9 closed) |
+| W/L | 2/7 (22%) |
+| 💵 Realized | $-364 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-363** |
+| Best ROI | 1.48x |
+| Avg ROI | 0.60x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 emy | $0.000010 | **2.23x** ($+123) | 3.75x | ✅ | pumpswap | 2026-03-21 12:34 |
-| 🔴 Astro | $0.000016 | **0.96x** ($-4) | 1.13x |  | pumpfun | 2026-03-21 12:28 |
+| 🔴 Astro | $0.000016 | **0.99x** ($-1) | 1.13x |  | pumpfun | 2026-03-21 12:28 |
 | 🟡 Simulation | $0.000036 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:38 |
 | 🟡 Jessica | $0.000026 | **1.39x** ($+39) | 1.39x |  | pumpfun | 2026-03-20 21:41 |
 | 🔴 BUFFALO | $0.000009 | **0.69x** ($-31) | 1.03x |  | pumpfun | 2026-03-20 21:36 |
@@ -31,6 +30,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 emy | 1.48x | $+48 | trailing_stop_4x | 3.75x | pumpswap | 2026-03-21 12:34 → 2026-03-21 12:54 |
 | 🔴 Grokputer | 0.39x | $-61 | stop_loss | 1.87x | pumpfun | 2026-03-20 18:41 → 2026-03-20 19:51 |
 | 🔴 HelloWorld! | 0.40x | $-60 | stop_loss | 1.55x | pumpswap | 2026-03-20 16:53 → 2026-03-20 16:58 |
 | 🔴 FROGE | 0.15x | $-85 | stop_loss | 1.72x | pumpfun | 2026-03-20 16:52 → 2026-03-20 16:52 |

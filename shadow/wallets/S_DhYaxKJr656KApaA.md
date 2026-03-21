@@ -1,6 +1,6 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-21 12:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-21 12:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (10 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $+486 |
-| 📦 Unrealized | $+242 |
-| 🏦 Total | **$+728** |
+| 📦 Unrealized | $+227 |
+| 🏦 Total | **$+713** |
 | Best ROI | 8.43x |
 | Avg ROI | 1.81x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 emy | $0.000038 | **0.62x** ($-38) | 1.04x |  | pumpswap | 2026-03-21 12:42 |
+| 🔴 emy | $0.000038 | **0.46x** ($-54) | 1.04x |  | pumpswap | 2026-03-21 12:42 |
 | 🚀 Toly | $0.000007 | **5.27x** ($+427) | 5.27x | ✅ | pumpfun | 2026-03-21 09:51 |
 | 🟡 uAI | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:43 |
 | 🟡 Simulation | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:37 |

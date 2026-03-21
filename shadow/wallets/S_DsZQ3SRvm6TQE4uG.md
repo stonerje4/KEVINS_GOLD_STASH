@@ -1,16 +1,16 @@
 # Wallet: `DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw`
 
-> [GMGN](https://gmgn.ai/sol/address/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | [Solscan](https://solscan.io/account/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | Updated: 2026-03-21 12:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | [Solscan](https://solscan.io/account/DsZQ3SRvm6TQE4uGWtfW3DVFdbctGLWFMEAsUvHA3xKw) | Updated: 2026-03-21 12:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (8 open, 2 closed) |
+| Positions | 11 (9 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$-70** |
+| 📦 Unrealized | $+30 |
+| 🏦 Total | **$-92** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 SLOW | $0.000005 | **0.47x** ($-53) | 1.00x |  | pumpfun | 2026-03-21 12:53 |
 | 🔴 PIP | $0.000016 | **0.44x** ($-56) | 1.21x |  | pumpfun | 2026-03-21 11:10 |
 | 🟢 man | $0.000010 | **3.72x** ($+272) | 3.72x | ✅ | pumpfun | 2026-03-21 10:32 |
-| 🟡 GoutGout | $0.000013 | **1.05x** ($+5) | 1.97x |  | pumpfun | 2026-03-21 10:14 |
+| 🟡 GoutGout | $0.000013 | **1.37x** ($+37) | 1.97x |  | pumpfun | 2026-03-21 10:14 |
 | 🟡 DEATHCORE | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:56 |
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:19 |
 | 🔴 Obsessed | $0.000010 | **0.93x** ($-7) | 1.84x |  | pumpswap | 2026-03-20 10:18 |

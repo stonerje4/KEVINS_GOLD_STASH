@@ -1,6 +1,6 @@
 # Wallet: `7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz`
 
-> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-21 12:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | [Solscan](https://solscan.io/account/7Kwg1fLczGQummK767feiZpaCboarmGLpKxFoeXMAwvz) | Updated: 2026-03-21 12:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-243 |
-| 🏦 Total | **$-243** |
+| 📦 Unrealized | $-239 |
+| 🏦 Total | **$-239** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -25,7 +25,7 @@
 | 🔴 CHIBI | $0.000016 | **0.97x** ($-3) | 1.65x |  | pumpswap | 2026-03-20 02:33 |
 | 🔴 ELEPHANT | $0.000007 | **0.71x** ($-29) | 1.65x |  | pumpswap | 2026-03-19 23:59 |
 | 🔴 TRASHBAG | $0.000008 | **0.46x** ($-54) | 1.09x |  | pumpswap | 2026-03-19 23:40 |
-| 🔴 Lia | $0.000011 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
+| 🔴 Lia | $0.000011 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-19 23:38 |
 | 🔴 IRAN | $0.000007 | **0.45x** ($-55) | 1.12x |  | pumpswap | 2026-03-19 22:48 |
 
 ## Closed Positions
