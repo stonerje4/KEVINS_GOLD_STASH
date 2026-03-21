@@ -1,6 +1,6 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 02:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 02:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (13 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-338 |
-| 📦 Unrealized | $-312 |
-| 🏦 Total | **$-651** |
+| 📦 Unrealized | $-309 |
+| 🏦 Total | **$-648** |
 | Best ROI | 1.45x |
 | Avg ROI | 0.58x |
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ME | $0.000016 | **0.42x** ($-58) | 1.00x |  | pumpswap | 2026-03-20 17:51 |
-| 🟡 Income | $0.000013 | **1.23x** ($+23) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
+| 🔴 ME | $0.000016 | **0.45x** ($-55) | 1.00x |  | pumpswap | 2026-03-20 17:51 |
+| 🟡 Income | $0.000013 | **1.22x** ($+22) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
 | 🔴 PVE | $0.000012 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 15:52 |
 | 🔴 Samba | $0.000013 | **0.62x** ($-38) | 1.59x |  | pumpswap | 2026-03-20 15:27 |
 | 🟡 Feels | $0.000010 | **1.07x** ($+7) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 LVLUP | $0.000007 | **0.96x** ($-4) | 1.32x |  | pumpfun | 2026-03-20 15:00 |
 | 🔴 clod | $0.000020 | **0.68x** ($-32) | 1.99x |  | pumpswap | 2026-03-20 12:04 |
-| 🔴 chud | $0.000022 | **0.69x** ($-31) | 1.53x |  | pumpswap | 2026-03-20 05:50 |
+| 🔴 chud | $0.000022 | **0.70x** ($-30) | 1.53x |  | pumpswap | 2026-03-20 05:50 |
 | 🔴 RETURN | $0.000020 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🟡 Patience | $0.000029 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
 | 🔴 DORO | $0.000005 | **0.73x** ($-27) | 1.19x |  | pumpfun | 2026-03-20 00:46 |

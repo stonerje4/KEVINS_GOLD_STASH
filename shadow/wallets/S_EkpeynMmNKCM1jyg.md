@@ -1,6 +1,6 @@
 # Wallet: `EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo`
 
-> [GMGN](https://gmgn.ai/sol/address/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | [Solscan](https://solscan.io/account/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | Updated: 2026-03-21 02:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | [Solscan](https://solscan.io/account/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | Updated: 2026-03-21 02:25 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-31 |
+| 📦 Unrealized | $-32 |
 | 🏦 Total | **$-92** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BABYCHIBI | $0.000014 | **0.64x** ($-36) | 1.08x |  | pumpfun | 2026-03-20 16:41 |
+| 🔴 BABYCHIBI | $0.000014 | **0.63x** ($-37) | 1.08x |  | pumpfun | 2026-03-20 16:41 |
 | 🟡 NOVAH | $0.000013 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 16:19 |
 
 ## Closed Positions

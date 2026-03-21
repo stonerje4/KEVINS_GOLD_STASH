@@ -1,6 +1,6 @@
 # Wallet: `D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY`
 
-> [GMGN](https://gmgn.ai/sol/address/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | [Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-21 02:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | [Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-21 02:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (11 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-63 |
-| 📦 Unrealized | $-54 |
-| 🏦 Total | **$-117** |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-116** |
 | Best ROI | 0.37x |
 | Avg ROI | 0.37x |
 
@@ -26,7 +26,7 @@
 | 🟡 Meow | $0.000019 | **1.48x** ($+48) | 2.52x | ✅ | pumpswap | 2026-03-20 20:24 |
 | 🔴 PHILXC | $0.000009 | **0.71x** ($-29) | 1.07x |  | pumpfun | 2026-03-20 16:22 |
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.09x |  | pumpswap | 2026-03-20 16:03 |
-| 🔴 OXIDE | $0.000031 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
+| 🔴 OXIDE | $0.000031 | **0.63x** ($-37) | 1.00x |  | pumpswap | 2026-03-20 07:46 |
 | 🟡 電王 | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:31 |
 | 🟡 OSP | $0.000020 | **1.23x** ($+23) | 1.35x |  | pumpfun | 2026-03-20 07:21 |
 

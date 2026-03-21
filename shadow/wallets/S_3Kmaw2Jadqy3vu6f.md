@@ -1,6 +1,6 @@
 # Wallet: `3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx`
 
-> [GMGN](https://gmgn.ai/sol/address/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | [Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-21 02:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | [Solscan](https://solscan.io/account/3Kmaw2Jadqy3vu6fjBTF1xAoEkpdLJG4XzLMSUtXyrGx) | Updated: 2026-03-21 02:25 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WID | $0.000026 | **0.58x** ($-42) | 1.00x |  | pumpswap | 2026-03-20 17:24 |
+| 🔴 WID | $0.000026 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 17:24 |
 | 🟡 Salary | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:20 |
 | 🔴 ROSE | $0.000006 | **0.84x** ($-16) | 1.03x |  | pumpswap | 2026-03-20 09:07 |
 | 🟡 401k | $0.000008 | **1.19x** ($+19) | 1.19x |  | pumpswap | 2026-03-20 08:53 |

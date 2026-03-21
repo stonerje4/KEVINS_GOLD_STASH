@@ -1,6 +1,6 @@
 # Wallet: `6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc`
 
-> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 02:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 02:25 UTC
 
 ## Summary
 
@@ -19,8 +19,8 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 effect | $0.000009 | **0.78x** ($-22) | 1.02x |  | pumpswap | 2026-03-21 01:05 |
-| 🔴 Grokputer | $0.000007 | **0.86x** ($-14) | 1.31x |  | pumpswap | 2026-03-21 00:52 |
-| 🔴 Beecat | $0.000005 | **0.88x** ($-12) | 1.57x |  | pumpswap | 2026-03-21 00:22 |
+| 🔴 Grokputer | $0.000007 | **0.83x** ($-17) | 1.31x |  | pumpswap | 2026-03-21 00:52 |
+| 🔴 Beecat | $0.000005 | **0.92x** ($-8) | 1.57x |  | pumpswap | 2026-03-21 00:22 |
 | 🟡 lmeow | $0.000020 | **1.10x** ($+10) | 1.77x |  | pumpswap | 2026-03-21 00:05 |
 | 🔴 SMCI | $0.000007 | **0.75x** ($-25) | 1.27x |  | pumpswap | 2026-03-20 23:25 |
 | 🔴 TADC | $0.000031 | **0.81x** ($-19) | 1.37x |  | pumpswap | 2026-03-20 23:18 |

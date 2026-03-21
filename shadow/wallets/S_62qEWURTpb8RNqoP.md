@@ -1,6 +1,6 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-21 02:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-21 02:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (7 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $-26 |
-| 📦 Unrealized | $-57 |
-| 🏦 Total | **$-83** |
+| 📦 Unrealized | $-59 |
+| 🏦 Total | **$-86** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.93x |
 
@@ -22,7 +22,7 @@
 | 🔴 Dozer | $0.000011 | **0.69x** ($-31) | 1.27x |  | pumpswap | 2026-03-20 16:34 |
 | 🟡 SCOTT | $0.000006 | **1.20x** ($+20) | 1.26x |  | pumpswap | 2026-03-20 16:20 |
 | 🟡 FEEL | $0.000006 | **1.07x** ($+7) | 1.11x |  | pumpfun | 2026-03-20 13:35 |
-| 🔴 Futa-kun | $0.000006 | **0.75x** ($-25) | 1.03x |  | pumpswap | 2026-03-20 13:02 |
+| 🔴 Futa-kun | $0.000006 | **0.72x** ($-28) | 1.03x |  | pumpswap | 2026-03-20 13:02 |
 | 🔴 SCRIPT | $0.000008 | **0.88x** ($-12) | 1.35x |  | pumpfun | 2026-03-20 07:52 |
 | 🔴 Thinker | $0.000008 | **0.78x** ($-22) | 1.25x |  | pumpswap | 2026-03-20 07:45 |
 

@@ -1,6 +1,6 @@
 # Wallet: `7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t`
 
-> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-21 02:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-21 02:25 UTC
 
 ## Summary
 
@@ -23,7 +23,7 @@
 | 🔴 EPSTEIN | $0.000005 | **0.48x** ($-52) | 1.11x |  | pumpfun | 2026-03-20 19:38 |
 | 🟡 RAGE | $0.000025 | **1.44x** ($+44) | 1.44x |  | pumpfun | 2026-03-20 19:19 |
 | 🟢 Needle | $0.000006 | **2.91x** ($+191) | 4.91x | ✅ | pumpfun | 2026-03-20 19:02 |
-| 🔴 5yAgqEmF | $0.000014 | **0.59x** ($-41) | 1.65x |  | pumpfun | 2026-03-20 18:11 |
+| 🔴 5yAgqEmF | $0.000014 | **0.58x** ($-42) | 1.65x |  | pumpfun | 2026-03-20 18:11 |
 
 ## Closed Positions
 
