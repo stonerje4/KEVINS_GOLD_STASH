@@ -1,6 +1,6 @@
 # PRD Wallet: `5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z`
 
-> [GMGN](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | [Solscan](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | Updated: 2026-03-21 09:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | [Solscan](https://solscan.io/account/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | Updated: 2026-03-21 09:05 UTC
 
 ## Summary
 
@@ -8,16 +8,16 @@
 |--------|-------|
 | Trades | 8 (2 open, 6 closed) |
 | W/L | 1/5 (17%) |
-| 💵 Realized | -0.1971 SOL ($-17.73) |
+| 💵 Realized | -0.1971 SOL ($-17.74) |
 | ⛽ Gas | 0.0288 SOL |
-| 📦 Unrealized | -0.0828 SOL |
-| 🏦 Net | **-0.2798 SOL** ($-25.17) |
+| 📦 Unrealized | -0.0695 SOL |
+| 🏦 Net | **-0.2666 SOL** ($-23.99) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 CHAD | open | 0.11 | 0.90x | 1.22x | -0.0158 | — |
+| 🟢 CHAD | open | 0.11 | 1.02x | 1.22x | -0.0025 | — |
 | 🔴 Cheems | closed | 0.11 | 0.37x | 1.36x | -0.0708 | stop_loss |
 | 🔴 Samba | closed | 0.11 | 0.61x | 1.00x | -0.0517 | stale_position_cleanup |
 | 🔴 DHS | closed | 0.11 | 0.50x | 1.26x | -0.0635 | stale_position_cleanup |
