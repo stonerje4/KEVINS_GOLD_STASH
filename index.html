@@ -45,7 +45,7 @@ a{color:#3b82f6;text-decoration:none}a:hover{text-decoration:underline}
 <body>
 <div class="c">
 <h1>🔥 PUMP ALPHA — Backtest</h1>
-<div class="sub">Updated: 2026-03-21 16:54 UTC · 1m candles · 48h per trade · our exact TP ladder + trailing stops</div>
+<div class="sub">Updated: 2026-03-21 16:59 UTC · 1m candles · 48h per trade · our exact TP ladder + trailing stops</div>
 
 <div class="sg">
   <div class="sc"><div class="sl">Backtested</div><div class="sv b">8</div></div>
@@ -57,7 +57,10 @@ a{color:#3b82f6;text-decoration:none}a:hover{text-decoration:underline}
 
 <div class="st">🧪 Wallet Rankings</div>
 <div class="cs">Alpha = EV(40) + WinRate(25) + Anti-SL(15) + Runner(10) + Confidence(10) · Click wallet to drill into trades</div>
-<div class="fi"><input type="text" id="flt" placeholder="Search wallet..." oninput="fltTbl()"></div>
+<div style="margin-bottom:10px;display:flex;gap:8px;align-items:center">
+<div class="fi" style="margin:0"><input type="text" id="flt" placeholder="Search wallet..." oninput="fltTbl()"></div>
+<button onclick="toggleRecent()" id="recentBtn" style="background:#262626;border:1px solid #404040;color:#e5e5e5;padding:6px 12px;border-radius:6px;cursor:pointer;font-family:inherit;font-size:12px">📅 Last 7 Days</button>
+</div>
 <div class="tc">
 <table id="tbl">
 <thead><tr>
@@ -284,6 +287,47 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
   document.getElementById('mc').innerHTML=h;
   document.getElementById('modal').classList.add('show');
 });
+
+// 7-day filter toggle
+let recentMode=false;
+function toggleRecent(){
+  recentMode=!recentMode;
+  const btn=document.getElementById('recentBtn');
+  btn.style.background=recentMode?'#22c55e20':'#262626';
+  btn.style.borderColor=recentMode?'#22c55e40':'#404040';
+  btn.style.color=recentMode?'#22c55e':'#e5e5e5';
+  btn.textContent=recentMode?'📅 Last 7 Days ✅':'📅 Last 7 Days';
+  
+  const cutoff=Math.floor(Date.now()/1000)-(7*86400);
+  const rows=document.querySelectorAll('#tbl tbody tr[data-w]');
+  
+  rows.forEach(row=>{
+    const w=row.dataset.w;
+    const trades=BT[w];
+    if(!trades)return;
+    
+    const filtered=recentMode?trades.filter(t=>t.buy_timestamp&&t.buy_timestamp>cutoff):trades;
+    const closed=filtered.filter(t=>t.exit!=='still_open');
+    if(closed.length<3){row.style.display=recentMode?'none':'';return;}
+    
+    const wins=closed.filter(t=>t.return>1).length;
+    const avgRet=closed.reduce((s,t)=>s+t.return,0)/closed.length;
+    const pnl=((avgRet-1)*10).toFixed(2);
+    const wr=(wins/closed.length*100).toFixed(0);
+    const slCount=closed.filter(t=>t.exit==='stop_loss').length;
+    const slPct=(slCount/closed.length*100).toFixed(0);
+    
+    // Update visible cells
+    const sign=pnl>=0?'+':'';
+    row.children[3].innerHTML='<strong>$'+sign+pnl+'</strong>';
+    row.children[3].className=pnl>=0?'p':'n';
+    row.children[4].textContent=avgRet.toFixed(2)+'x';
+    row.children[5].innerHTML=`<span class="bd ${wr>=50?'bg':wr<25?'br':'bk'}">${wr}%</span>`;
+    row.children[6].innerHTML=`<span class="bd ${slPct==0?'bg':slPct>=30?'br':'bk'}">${slPct}%</span>`;
+    row.children[9].textContent=closed.length;
+    row.style.display='';
+  });
+}
 
 // Sort
 let sortCol=-1,sortAsc=true;
