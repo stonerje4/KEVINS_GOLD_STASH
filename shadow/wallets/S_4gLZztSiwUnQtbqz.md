@@ -1,16 +1,16 @@
 # Wallet: `4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u`
 
-> [GMGN](https://gmgn.ai/sol/address/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | [Solscan](https://solscan.io/account/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | Updated: 2026-03-21 04:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | [Solscan](https://solscan.io/account/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | Updated: 2026-03-21 04:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (4 open, 4 closed) |
+| Positions | 9 (5 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $-32 |
-| 📦 Unrealized | $+217 |
-| 🏦 Total | **$+185** |
+| 📦 Unrealized | $+168 |
+| 🏦 Total | **$+136** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.92x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GERALD | $0.000009 | **1.13x** ($+13) | 1.25x |  | pumpfun | 2026-03-21 04:38 |
+| 🔴 pingle | $0.000007 | **0.68x** ($-32) | 1.08x |  | pumpfun | 2026-03-21 04:43 |
+| 🔴 GERALD | $0.000009 | **0.96x** ($-4) | 1.25x |  | pumpfun | 2026-03-21 04:38 |
 | 🟢 PISSTINA | $0.000009 | **3.98x** ($+298) | 3.98x | ✅ | pumpfun | 2026-03-21 02:18 |
 | 🟢 PISS | $0.000018 | **2.08x** ($+108) | 2.08x | ✅ | pumpfun | 2026-03-21 01:24 |
 | 🟡 9Yqs3sVA | $0.000014 | **1.62x** ($+62) | 2.62x | ✅ | pumpfun | 2026-03-20 02:07 |
