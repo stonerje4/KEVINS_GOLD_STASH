@@ -1,6 +1,6 @@
 # Wallet: `HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6`
 
-> [GMGN](https://gmgn.ai/sol/address/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | [Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-21 02:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | [Solscan](https://solscan.io/account/HLWmwz5XrXtHaRUrnRVzWuPmsZj3efKDyanExB6eCtH6) | Updated: 2026-03-21 02:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (1 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-31 |
-| 🏦 Total | **$-92** |
+| 📦 Unrealized | $-32 |
+| 🏦 Total | **$-93** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NICK | $0.000036 | **0.69x** ($-31) | 1.01x |  | pumpswap | 2026-03-20 06:03 |
+| 🔴 NICK | $0.000036 | **0.68x** ($-32) | 1.01x |  | pumpswap | 2026-03-20 06:03 |
 
 ## Closed Positions
 

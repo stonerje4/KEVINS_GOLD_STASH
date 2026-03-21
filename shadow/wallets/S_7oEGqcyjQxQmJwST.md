@@ -1,6 +1,6 @@
 # Wallet: `7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr`
 
-> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 02:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 02:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-11 |
-| 🏦 Total | **$-11** |
+| 📦 Unrealized | $+17 |
+| 🏦 Total | **$+17** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NOR | $0.000006 | **0.97x** ($-3) | 1.14x |  | pumpfun | 2026-03-21 02:19 |
+| 🟡 NOR | $0.000006 | **1.24x** ($+24) | 1.24x |  | pumpfun | 2026-03-21 02:19 |
 | 🔴 CHAD | $0.000008 | **0.92x** ($-8) | 1.14x |  | pumpfun | 2026-03-21 01:13 |
 
 ## Closed Positions

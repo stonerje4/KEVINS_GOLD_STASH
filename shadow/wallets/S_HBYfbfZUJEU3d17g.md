@@ -1,6 +1,6 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-21 02:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-21 02:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (3 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-192 |
-| 📦 Unrealized | $-29 |
-| 🏦 Total | **$-221** |
+| 📦 Unrealized | $-30 |
+| 🏦 Total | **$-222** |
 | Best ROI | 0.37x |
 | Avg ROI | 0.36x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Handprint | $0.000011 | **0.73x** ($-27) | 1.17x |  | pumpswap | 2026-03-20 18:25 |
 | 🟡 Pixel | $0.000009 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-20 16:37 |
-| 🔴 Obsessed | $0.000010 | **0.91x** ($-9) | 1.78x |  | pumpswap | 2026-03-20 03:08 |
+| 🔴 Obsessed | $0.000010 | **0.90x** ($-10) | 1.78x |  | pumpswap | 2026-03-20 03:08 |
 
 ## Closed Positions
 

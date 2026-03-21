@@ -1,16 +1,16 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 02:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 02:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 50 (40 open, 10 closed) |
+| Positions | 51 (41 open, 10 closed) |
 | W/L | 3/7 (30%) |
 | 💵 Realized | $-203 |
-| 📦 Unrealized | $-220 |
-| 🏦 Total | **$-423** |
+| 📦 Unrealized | $-212 |
+| 🏦 Total | **$-415** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.80x |
 
@@ -18,15 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 DogeFather | $0.000015 | **1.01x** ($+1) | 1.22x |  | pumpswap | 2026-03-21 02:19 |
-| 🔴 Meow | $0.000031 | **0.92x** ($-8) | 1.15x |  | pumpswap | 2026-03-21 01:30 |
-| 🟢 WRT | $0.000012 | **2.39x** ($+139) | 2.45x | ✅ | pumpswap | 2026-03-20 23:30 |
-| 🔴 IonClaw | $0.000008 | **0.83x** ($-17) | 1.60x |  | pumpswap | 2026-03-20 23:07 |
+| 🔴 POLARA | $0.000005 | **0.84x** ($-16) | 1.07x |  | pumpswap | 2026-03-21 02:46 |
+| 🔴 DogeFather | $0.000015 | **0.99x** ($-1) | 1.22x |  | pumpswap | 2026-03-21 02:19 |
+| 🔴 Meow | $0.000031 | **0.88x** ($-12) | 1.15x |  | pumpswap | 2026-03-21 01:30 |
+| 🟢 WRT | $0.000012 | **2.46x** ($+146) | 2.46x | ✅ | pumpswap | 2026-03-20 23:30 |
+| 🔴 IonClaw | $0.000008 | **0.92x** ($-8) | 1.60x |  | pumpswap | 2026-03-20 23:07 |
 | 🟡 Lana | $0.000038 | **1.25x** ($+25) | 1.35x |  | pumpswap | 2026-03-20 23:06 |
 | 🔴 LIBERTY | $0.000005 | **0.77x** ($-23) | 1.25x |  | pumpswap | 2026-03-20 22:22 |
 | 🔴 Hello World! | $0.000012 | **0.61x** ($-39) | 1.03x |  | pumpswap | 2026-03-20 22:19 |
 | 🔴 METAMEME | $0.000006 | **0.78x** ($-22) | 1.01x |  | pumpswap | 2026-03-20 20:51 |
-| 🔴 SNIFFER | $0.000034 | **0.89x** ($-11) | 1.59x |  | pumpswap | 2026-03-20 18:59 |
+| 🔴 SNIFFER | $0.000034 | **0.85x** ($-15) | 1.59x |  | pumpswap | 2026-03-20 18:59 |
 | 🔴 Octogent | $0.000006 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 18:41 |
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
 | 🔴 clod | $0.000024 | **0.56x** ($-44) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
@@ -39,8 +40,8 @@
 | 🔴 ARIA | $0.000022 | **0.56x** ($-44) | 1.31x |  | pumpswap | 2026-03-20 09:04 |
 | 🔴 Antigravity | $0.000008 | **0.59x** ($-41) | 1.06x |  | pumpswap | 2026-03-20 08:34 |
 | 🟡 IMAGINE | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:41 |
-| 🔴 Futa-kun | $0.000010 | **0.45x** ($-55) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
-| 🟡 OIIA | $0.000019 | **1.47x** ($+47) | 2.00x |  | pumpswap | 2026-03-20 05:53 |
+| 🔴 Futa-kun | $0.000010 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 06:49 |
+| 🟡 OIIA | $0.000019 | **1.45x** ($+45) | 2.00x |  | pumpswap | 2026-03-20 05:53 |
 | 🟢 IShowSpeed | $0.000007 | **2.37x** ($+137) | 2.89x | ✅ | pumpswap | 2026-03-20 04:52 |
 | 🟡 Luxury | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:50 |
 | 🟡 DLORP | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:28 |
@@ -50,14 +51,14 @@
 | 🔴 whiskers | $0.000008 | **0.95x** ($-5) | 1.02x |  | pumpswap | 2026-03-20 02:08 |
 | 🔴 Manosphere | $0.000007 | **0.87x** ($-13) | 1.04x |  | pumpswap | 2026-03-20 01:10 |
 | 🔴 TMRW | $0.000011 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:10 |
-| 🔴 Ham | $0.000035 | **0.95x** ($-5) | 1.97x |  | pumpswap | 2026-03-20 00:58 |
+| 🔴 Ham | $0.000035 | **0.94x** ($-6) | 1.97x |  | pumpswap | 2026-03-20 00:58 |
 | 🔴 ROME | $0.000010 | **0.64x** ($-36) | 1.52x |  | pumpswap | 2026-03-20 00:47 |
 | 🟢 Rocky | $0.000033 | **2.26x** ($+126) | 2.60x | ✅ | pumpswap | 2026-03-20 00:29 |
 | 🟡 Raccoon | $0.000011 | **1.13x** ($+13) | 1.49x |  | pumpswap | 2026-03-20 00:18 |
 | 🟡 CHIBIELON | $0.000005 | **1.42x** ($+42) | 1.68x |  | pumpswap | 2026-03-19 23:29 |
 | 🔴 DIVERGENT | $0.000007 | **0.60x** ($-40) | 1.16x |  | pumpswap | 2026-03-19 23:17 |
 | 🔴 SURPRISE | $0.000007 | **0.75x** ($-25) | 1.13x |  | pumpswap | 2026-03-19 23:10 |
-| 🔴 RETURN | $0.000017 | **0.83x** ($-17) | 1.53x |  | pumpswap | 2026-03-19 22:34 |
+| 🟡 RETURN | $0.000017 | **1.06x** ($+6) | 1.53x |  | pumpswap | 2026-03-19 22:34 |
 
 ## Closed Positions
 

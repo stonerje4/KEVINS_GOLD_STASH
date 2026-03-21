@@ -1,6 +1,6 @@
 # Wallet: `AQUQHWfnEFoSpCvaBMbUVdkbSB3oqgrHXN8QZnj15Na8`
 
-> [GMGN](https://gmgn.ai/sol/address/AQUQHWfnEFoSpCvaBMbUVdkbSB3oqgrHXN8QZnj15Na8) | [Solscan](https://solscan.io/account/AQUQHWfnEFoSpCvaBMbUVdkbSB3oqgrHXN8QZnj15Na8) | Updated: 2026-03-21 02:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/AQUQHWfnEFoSpCvaBMbUVdkbSB3oqgrHXN8QZnj15Na8) | [Solscan](https://solscan.io/account/AQUQHWfnEFoSpCvaBMbUVdkbSB3oqgrHXN8QZnj15Na8) | Updated: 2026-03-21 02:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-36 |
-| 🏦 Total | **$-36** |
+| 📦 Unrealized | $-40 |
+| 🏦 Total | **$-40** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PISSMISSLE | $0.000009 | **0.64x** ($-36) | 1.08x |  | pumpfun | 2026-03-21 02:17 |
+| 🔴 PISSMISSLE | $0.000009 | **0.60x** ($-40) | 1.08x |  | pumpfun | 2026-03-21 02:17 |
 
 ## Closed Positions
 

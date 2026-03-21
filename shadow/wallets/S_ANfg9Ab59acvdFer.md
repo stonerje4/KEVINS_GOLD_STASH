@@ -1,6 +1,6 @@
 # Wallet: `ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz`
 
-> [GMGN](https://gmgn.ai/sol/address/ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz) | [Solscan](https://solscan.io/account/ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz) | Updated: 2026-03-21 02:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz) | [Solscan](https://solscan.io/account/ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz) | Updated: 2026-03-21 02:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (2 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-202 |
-| 📦 Unrealized | $-26 |
-| 🏦 Total | **$-228** |
+| 📦 Unrealized | $+14 |
+| 🏦 Total | **$-188** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.49x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Takaichi | $0.000006 | **1.25x** ($+25) | 1.37x |  | pumpfun | 2026-03-21 02:26 |
+| 🟡 Takaichi | $0.000006 | **1.65x** ($+65) | 1.67x |  | pumpfun | 2026-03-21 02:26 |
 | 🔴 BxhwuiXZ | $0.000005 | **0.49x** ($-51) | 1.03x |  | pumpfun | 2026-03-20 23:13 |
 
 ## Closed Positions

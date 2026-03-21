@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 02:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 02:50 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 27 (16 open, 11 closed) |
 | W/L | 0/11 (0%) |
 | 💵 Realized | $-572 |
-| 📦 Unrealized | $-10 |
+| 📦 Unrealized | $-9 |
 | 🏦 Total | **$-582** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.48x |
@@ -24,7 +24,7 @@
 | 🟡 IShowSpeed | $0.000015 | **1.03x** ($+3) | 1.07x |  | pumpswap | 2026-03-20 20:22 |
 | 🟢 Lana | $0.000021 | **2.33x** ($+133) | 2.51x | ✅ | pumpfun | 2026-03-20 17:04 |
 | 🟡 Lana | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:48 |
-| 🟡 LIBERTY | $0.000027 | **1.79x** ($+79) | 3.63x | ✅ | pumpswap | 2026-03-20 16:18 |
+| 🟡 LIBERTY | $0.000027 | **1.80x** ($+80) | 3.63x | ✅ | pumpswap | 2026-03-20 16:18 |
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.80x |  | pumpswap | 2026-03-20 15:43 |
 | 🔴 LEE | $0.000008 | **0.63x** ($-37) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |

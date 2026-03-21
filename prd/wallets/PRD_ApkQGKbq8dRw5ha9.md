@@ -1,6 +1,6 @@
 # PRD Wallet: `ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3`
 
-> [GMGN](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | [Solscan](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | Updated: 2026-03-21 02:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | [Solscan](https://solscan.io/account/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | Updated: 2026-03-21 02:50 UTC
 
 ## Summary
 
@@ -8,16 +8,16 @@
 |--------|-------|
 | Trades | 8 (2 open, 6 closed) |
 | W/L | 1/5 (17%) |
-| 💵 Realized | -0.3480 SOL ($-31.36) |
+| 💵 Realized | -0.3480 SOL ($-31.39) |
 | ⛽ Gas | 0.0326 SOL |
-| 📦 Unrealized | -0.0549 SOL |
-| 🏦 Net | **-0.4029 SOL** ($-36.31) |
+| 📦 Unrealized | -0.0545 SOL |
+| 🏦 Net | **-0.4025 SOL** ($-36.31) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 Boys | open | 0.11 | 0.83x | 1.00x | -0.0236 | — |
+| 🔴 Boys | open | 0.11 | 0.83x | 1.00x | -0.0232 | — |
 | 🔴 Printer | open | 0.11 | 0.76x | 1.00x | -0.0314 | — |
 | 🟢 OIL | closed | 0.11 | 2.88x | 5.30x | +0.2051 | runner_trailing_stop |
 | 🔴 Oatmeal | closed | 0.11 | 0.82x | 1.03x | -0.1190 | ghost_close_zero_balance |
