@@ -1,25 +1,24 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-21 13:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-21 13:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (12 open, 13 closed) |
-| W/L | 1/12 (8%) |
-| 💵 Realized | $-612 |
-| 📦 Unrealized | $-171 |
-| 🏦 Total | **$-782** |
+| Positions | 25 (11 open, 14 closed) |
+| W/L | 1/13 (7%) |
+| 💵 Realized | $-675 |
+| 📦 Unrealized | $-129 |
+| 🏦 Total | **$-804** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.53x |
+| Avg ROI | 0.52x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Tama | $0.000010 | **0.58x** ($-42) | 1.07x |  | pumpfun | 2026-03-21 13:12 |
-| 🔴 Simulation | $0.000010 | **0.69x** ($-31) | 1.43x |  | pumpswap | 2026-03-21 07:42 |
+| 🔴 Simulation | $0.000010 | **0.68x** ($-32) | 1.43x |  | pumpswap | 2026-03-21 07:42 |
 | 🟡 Autobots | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:20 |
 | 🟡 B6jsFauS | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
@@ -35,6 +34,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Tama | 0.37x | $-63 | stop_loss | 1.07x | pumpfun | 2026-03-21 13:12 → 2026-03-21 13:15 |
 | 🔴 SREF | 0.38x | $-62 | stop_loss | 1.03x | pumpfun | 2026-03-21 08:57 → 2026-03-21 09:22 |
 | 🔴 253FmKbf | 0.40x | $-60 | stop_loss | 1.20x | pumpfun | 2026-03-21 08:52 → 2026-03-21 09:02 |
 | 🔴 pa | 0.79x | $-21 | trailing_stop_2x | 2.14x | pumpfun | 2026-03-20 11:47 → 2026-03-21 07:08 |

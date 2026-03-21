@@ -1,16 +1,16 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 13:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 13:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (19 open, 1 closed) |
+| Positions | 21 (20 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-42 |
-| 📦 Unrealized | $-102 |
-| 🏦 Total | **$-144** |
+| 📦 Unrealized | $-106 |
+| 🏦 Total | **$-149** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.58x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 K2 | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:55 |
+| 🟡 NemoClaw | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:20 |
+| 🔴 K2 | $0.000020 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-21 12:55 |
 | 🔴 Wob | $0.000023 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 Flash | $0.000038 | **1.33x** ($+33) | 1.53x |  | pumpswap | 2026-03-20 10:43 |
 | 🔴 awkward | $0.000013 | **0.48x** ($-52) | 1.34x |  | pumpfun | 2026-03-20 10:09 |
