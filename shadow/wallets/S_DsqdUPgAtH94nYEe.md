@@ -1,16 +1,16 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-21 06:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-21 06:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (10 open, 9 closed) |
+| Positions | 20 (11 open, 9 closed) |
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-442 |
-| 📦 Unrealized | $-196 |
-| 🏦 Total | **$-638** |
+| 📦 Unrealized | $-175 |
+| 🏦 Total | **$-616** |
 | Best ROI | 1.30x |
 | Avg ROI | 0.51x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SHREMP | $0.000010 | **1.21x** ($+21) | 1.51x |  | pumpfun | 2026-03-21 06:11 |
 | 🔴 pa | $0.000013 | **0.74x** ($-26) | 1.30x |  | pumpfun | 2026-03-21 05:50 |
 | 🔴 Handprint | $0.000008 | **0.99x** ($-1) | 1.58x |  | pumpswap | 2026-03-20 13:29 |
 | 🔴 foid | $0.000027 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 13:25 |

@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 06:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 06:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 181 (175 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-1,112 |
-| 🏦 Total | **$-1,065** |
+| 📦 Unrealized | $-1,109 |
+| 🏦 Total | **$-1,062** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.08x |
 
@@ -21,7 +21,7 @@
 | 🟡 Pixels | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 Income | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 SHOEBILL | $0.000039 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-21 05:10 |
-| 🟡 CHIBELON | $0.000024 | **1.54x** ($+54) | 2.04x | ✅ | pumpswap | 2026-03-21 04:39 |
+| 🟡 CHIBELON | $0.000024 | **1.49x** ($+49) | 2.04x | ✅ | pumpswap | 2026-03-21 04:39 |
 | 🔴 Joobi | $0.000009 | **0.98x** ($-2) | 1.25x |  | pumpswap | 2026-03-21 04:32 |
 | 🔴 X COINS | $0.000017 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-21 04:06 |
 | 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
@@ -55,7 +55,7 @@
 | 🔴 Sybil  | $0.000026 | **0.64x** ($-36) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
 | 🔴 repurt | $0.000006 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 16:47 |
 | 🔴 HOLLYANGELS | $0.000005 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 16:17 |
-| 🟢 OCTOPUS | $0.000009 | **2.19x** ($+119) | 2.19x | ✅ | pumpswap | 2026-03-20 16:12 |
+| 🟢 OCTOPUS | $0.000009 | **2.10x** ($+110) | 2.21x | ✅ | pumpswap | 2026-03-20 16:12 |
 | 🔴 Wob | $0.000017 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-20 15:59 |
 | 🔴 SPIRITS | $0.000016 | **0.45x** ($-55) | 1.03x |  | pumpswap | 2026-03-20 15:49 |
 | 🟡 90S | $0.000017 | **1.17x** ($+17) | 1.66x |  | pumpswap | 2026-03-20 15:44 |
@@ -70,11 +70,11 @@
 | 🔴 DATBOI | $0.000037 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 PAD | $0.000015 | **1.29x** ($+29) | 1.38x |  | pumpswap | 2026-03-20 14:38 |
 | 🔴 foid | $0.000020 | **0.74x** ($-26) | 1.09x |  | pumpswap | 2026-03-20 14:29 |
-| 🟡 Socrates | $0.000031 | **1.13x** ($+13) | 1.13x |  | pumpswap | 2026-03-20 14:29 |
+| 🟡 Socrates | $0.000031 | **1.14x** ($+14) | 1.14x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 Pixel | $0.000011 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
-| 🟡 Higuruma | $0.000016 | **1.40x** ($+40) | 2.05x | ✅ | pumpswap | 2026-03-20 14:25 |
+| 🟡 Higuruma | $0.000016 | **1.59x** ($+59) | 2.05x | ✅ | pumpswap | 2026-03-20 14:25 |
 | 🔴 ORAMAMA | $0.000010 | **0.90x** ($-10) | 1.02x |  | pumpswap | 2026-03-20 14:13 |
-| 🟢 DOGEFATHER | $0.000013 | **3.10x** ($+210) | 3.51x | ✅ | pumpswap | 2026-03-20 13:43 |
+| 🟢 DOGEFATHER | $0.000013 | **3.15x** ($+215) | 3.51x | ✅ | pumpswap | 2026-03-20 13:43 |
 | 🔴 X | $0.000014 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 LUNAR | $0.000038 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 Squishy | $0.000016 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
@@ -85,7 +85,7 @@
 | 🔴 imagineslop | $0.000006 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
 | 🔴 PATAPIM | $0.000006 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 12:22 |
 | 🟡 Meningitis | $0.000007 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-20 12:16 |
-| 🟡 AINL | $0.000025 | **1.56x** ($+56) | 1.58x |  | pumpswap | 2026-03-20 12:06 |
+| 🟡 AINL | $0.000025 | **1.55x** ($+55) | 1.58x |  | pumpswap | 2026-03-20 12:06 |
 | 🟡 ORACLE | $0.000029 | **1.22x** ($+22) | 1.23x |  | pumpswap | 2026-03-20 11:29 |
 | 🔴 Matthew | $0.000016 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 11:22 |
 | 🔴 OXIDE | $0.000026 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 11:09 |

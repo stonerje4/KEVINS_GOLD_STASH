@@ -1,6 +1,6 @@
 # 💰 PRD Copy Trader Dashboard
 
-> Updated: 2026-03-21 06:10 UTC | SOL = $90.07 | Buy size: 0.11 SOL (~$10)
+> Updated: 2026-03-21 06:15 UTC | SOL = $90.09 | Buy size: 0.11 SOL (~$10)
 > 
 > **P&L is from on-chain SOL movements (includes gas + slippage)**
 
@@ -10,24 +10,24 @@
 |--------|-------|
 | Positions | **49** (10 open, 39 closed) |
 | Win Rate | **13%** (5W / 34L) |
-| 💵 Realized P&L | **-2.5271 SOL** ($-227.62) |
+| 💵 Realized P&L | **-2.5271 SOL** ($-227.67) |
 | ⛽ Gas (closed) | 0.1700 SOL ($15.31) |
-| 📦 Unrealized P&L | **-0.0858 SOL** ($-7.73) |
-| 🏦 Net P&L | **-2.6129 SOL** ($-235.35) |
+| 📦 Unrealized P&L | **-0.0833 SOL** ($-7.51) |
+| 🏦 Net P&L | **-2.6104 SOL** ($-235.17) |
 
 ## Wallet Performance
 
 | | Wallet | Trades | Open | W/L | WR | Realized | Gas | Unreal | **Net** | GMGN |
 |--|--------|--------|------|-----|-----|----------|-----|--------|---------|------|
 | 🟢 | [`r9pFHjFe2CiovRvr...`](wallets/PRD_r9pFHjFe2CiovRvr.md) | 1 | 1 | 0/0 | 0% | +0.0000 | 0.0000 | +0.0078 | **+0.0078** | [📊](https://gmgn.ai/sol/address/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) |
-| 🔴 | [`DDApL88zun3vGuhk...`](wallets/PRD_DDApL88zun3vGuhk.md) | 4 | 3 | 0/1 | 0% | -0.0753 | 0.0055 | +0.0526 | **-0.0227** | [📊](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
+| 🔴 | [`DDApL88zun3vGuhk...`](wallets/PRD_DDApL88zun3vGuhk.md) | 4 | 3 | 0/1 | 0% | -0.0753 | 0.0055 | +0.0463 | **-0.0290** | [📊](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
 | 🔴 | [`J5jm7BnBiGaB1x72...`](wallets/PRD_J5jm7BnBiGaB1x72.md) | 1 | 1 | 0/0 | 0% | +0.0000 | 0.0000 | -0.0345 | **-0.0345** | [📊](https://gmgn.ai/sol/address/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) |
-| 🔴 | [`E79aNzAkDa92b5bn...`](wallets/PRD_E79aNzAkDa92b5bn.md) | 2 | 1 | 0/1 | 0% | -0.1195 | 0.0055 | +0.0071 | **-0.1124** | [📊](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
+| 🔴 | [`E79aNzAkDa92b5bn...`](wallets/PRD_E79aNzAkDa92b5bn.md) | 2 | 1 | 0/1 | 0% | -0.1195 | 0.0055 | +0.0181 | **-0.1014** | [📊](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
 | 🔴 | [`BbxVa5YF8Kg2FuQF...`](wallets/PRD_BbxVa5YF8Kg2FuQF.md) | 2 | 0 | 0/2 | 0% | -0.1422 | 0.0057 | +0.0000 | **-0.1422** | [📊](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) |
 | 🔴 | [`HMM6RoT2Xo3BNfD5...`](wallets/PRD_HMM6RoT2Xo3BNfD5.md) | 3 | 0 | 1/2 | 33% | -0.1574 | 0.0112 | +0.0000 | **-0.1574** | [📊](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) |
-| 🔴 | [`5n593DWQkpfFgA69...`](wallets/PRD_5n593DWQkpfFgA69.md) | 6 | 1 | 1/4 | 20% | -0.1263 | 0.0286 | -0.0626 | **-0.1888** | [📊](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
+| 🔴 | [`5n593DWQkpfFgA69...`](wallets/PRD_5n593DWQkpfFgA69.md) | 6 | 1 | 1/4 | 20% | -0.1263 | 0.0286 | -0.0616 | **-0.1878** | [📊](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
 | 🔴 | [`7aMgK5L4qEQ8Nyv6...`](wallets/PRD_7aMgK5L4qEQ8Nyv6.md) | 3 | 0 | 0/3 | 0% | -0.3363 | 0.0000 | +0.0000 | **-0.3363** | [📊](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) |
-| 🔴 | [`ApkQGKbq8dRw5ha9...`](wallets/PRD_ApkQGKbq8dRw5ha9.md) | 8 | 2 | 1/5 | 17% | -0.3480 | 0.0326 | -0.0641 | **-0.4121** | [📊](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
+| 🔴 | [`ApkQGKbq8dRw5ha9...`](wallets/PRD_ApkQGKbq8dRw5ha9.md) | 8 | 2 | 1/5 | 17% | -0.3480 | 0.0326 | -0.0673 | **-0.4153** | [📊](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
 | 🔴 | [`HCDsVE5Y22dzxFzi...`](wallets/PRD_HCDsVE5Y22dzxFzi.md) | 6 | 1 | 0/5 | 0% | -0.5950 | 0.0250 | +0.0079 | **-0.5871** | [📊](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
 | 🔴 | [`2w85VLX4W4qm8SPS...`](wallets/PRD_2w85VLX4W4qm8SPS.md) | 13 | 0 | 2/11 | 15% | -0.6272 | 0.0558 | +0.0000 | **-0.6272** | [📊](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 
@@ -36,14 +36,14 @@
 | Token | Entry | Current | Peak | De-risked | Unreal SOL | Wallet | Time |
 |-------|-------|---------|------|-----------|------------|--------|------|
 | 🟡 WAR | 0.11 SOL | **1.12x** | 1.20x |  | +0.0078 | [r9pFHjFe2Cio...](https://gmgn.ai/sol/address/r9pFHjFe2CiovRvrakTCGmW7THY7yzSX147vRnSK9De) | 2026-03-21 04:43 |
-| 🔴 Boys | 0.11 SOL | **0.75x** | 1.00x |  | -0.0328 | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | 2026-03-21 02:00 |
+| 🔴 Boys | 0.11 SOL | **0.72x** | 1.00x |  | -0.0359 | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | 2026-03-21 02:00 |
 | 🔴 Printer | 0.11 SOL | **0.76x** | 1.00x |  | -0.0314 | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) | 2026-03-21 01:59 |
 | 🟡 UBIR | 0.11 SOL | **1.12x** | 1.12x |  | +0.0079 | [HCDsVE5Y22dz...](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | 2026-03-21 01:28 |
-| 🟡 MINMIKO | 0.11 SOL | **1.29x** | 1.62x |  | +0.0269 | [DDApL88zun3v...](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | 2026-03-21 00:51 |
+| 🟡 MINMIKO | 0.11 SOL | **1.23x** | 1.62x |  | +0.0206 | [DDApL88zun3v...](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | 2026-03-21 00:51 |
 | 🟡 AGI | 0.11 SOL | **1.01x** | 1.19x |  | -0.0042 | [DDApL88zun3v...](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | 2026-03-21 00:50 |
 | 🔴 Collin | 0.11 SOL | **0.73x** | 1.03x |  | -0.0345 | [J5jm7BnBiGaB...](https://gmgn.ai/sol/address/J5jm7BnBiGaB1x72FGNHPKuxcm8Rx51wdA24ewETF1yU) | 2026-03-20 23:55 |
-| 🟡 wbs | 0.11 SOL | **1.11x** | 1.73x |  | +0.0071 | [E79aNzAkDa92...](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 2026-03-20 23:07 |
-| 🔴 TOKENMAXXING | 0.11 SOL | **0.48x** | 1.30x |  | -0.0626 | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 2026-03-20 22:25 |
+| 🟡 wbs | 0.11 SOL | **1.21x** | 1.73x |  | +0.0181 | [E79aNzAkDa92...](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | 2026-03-20 23:07 |
+| 🔴 TOKENMAXXING | 0.11 SOL | **0.49x** | 1.30x |  | -0.0616 | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) | 2026-03-20 22:25 |
 | 🟡 STRAWBERRIES | 0.11 SOL | **1.32x** | 2.22x | ✅ | +0.0299 | [DDApL88zun3v...](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | 2026-03-20 21:45 |
 
 ## Closed Positions (on-chain verified)
@@ -59,7 +59,7 @@
 | 🔴 Dreamjob | 0.1190 | 0.0949 | -0.0241 | $-2.17 | 0.0055 | stale_position_cleanup | 1.43x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 TittyKiller | 0.1190 | 0.0536 | -0.0654 | $-5.89 | 0.0055 | stale_position_cleanup | 1.12x | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
 | 🔴 TittyKiller | 0.1192 | 0.0542 | -0.0649 | $-5.85 | 0.0055 | stale_position_cleanup | 1.00x | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
-| 🟢 Jessica | 0.1190 | 0.3010 | +0.1820 | $+16.39 | 0.0062 | runner_trailing_stop | 7.43x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
+| 🟢 Jessica | 0.1190 | 0.3010 | +0.1820 | $+16.40 | 0.0062 | runner_trailing_stop | 7.43x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 LIFE | 0.1190 | 0.0437 | -0.0753 | $-6.78 | 0.0055 | stop_loss | 1.21x | [DDApL88zun3v...](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) |
 | 🔴 BAB | 0.1174 | 0.0495 | -0.0679 | $-6.12 | 0.0055 | stale_position_cleanup | 1.48x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🟢 AI-Sexual | 0.1190 | 0.1284 | +0.0094 | $+0.85 | 0.0060 | runner_trailing_stop | 2.43x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
@@ -70,24 +70,24 @@
 | 🟢 CRACK | 0.1190 | 0.1191 | +0.0001 | $+0.01 | 0.0056 | runner_trailing_stop | 2.10x | [HMM6RoT2Xo3B...](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) |
 | 🟢 CAT | 0.1190 | 0.2384 | +0.1194 | $+10.75 | 0.0065 | runner_trailing_stop | 4.44x | [5n593DWQkpfF...](https://gmgn.ai/sol/address/5n593DWQkpfFgA69mS1MFWJDRZDCLcAuEsQYryqxi22Z) |
 | 🔴 OFP | 0.1190 | 0.0000 | -0.1190 | $-10.72 | 0.0050 | ghost_close_zero_balance | 1.00x | [HCDsVE5Y22dz...](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
-| 🔴 菲比啾比 | 0.1121 | 0.0000 | -0.1121 | $-10.09 | 0.0000 | ghost_close_zero_balance | 1.01x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
+| 🔴 菲比啾比 | 0.1121 | 0.0000 | -0.1121 | $-10.10 | 0.0000 | ghost_close_zero_balance | 1.01x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 OSP | 0.1190 | 0.0000 | -0.1190 | $-10.72 | 0.0050 | ghost_close_zero_balance | 1.34x | [HCDsVE5Y22dz...](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
 | 🔴 OSP | 0.1190 | 0.0000 | -0.1190 | $-10.72 | 0.0050 | ghost_close_zero_balance | 1.13x | [HCDsVE5Y22dz...](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
 | 🔴 CAN | 0.1190 | 0.0000 | -0.1190 | $-10.72 | 0.0050 | ghost_close_zero_balance | 1.00x | [HCDsVE5Y22dz...](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
 | 🔴 Oatmeal | 0.1190 | 0.0000 | -0.1190 | $-10.72 | 0.0050 | ghost_close_zero_balance | 1.03x | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
 | 🔴 OSP | 0.1190 | 0.0000 | -0.1190 | $-10.72 | 0.0050 | ghost_close_zero_balance | 1.15x | [HCDsVE5Y22dz...](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) |
-| 🔴 GENA | 0.1199 | 0.0000 | -0.1199 | $-10.80 | 0.0050 | ghost_close_zero_balance | 1.00x | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
+| 🔴 GENA | 0.1199 | 0.0000 | -0.1199 | $-10.81 | 0.0050 | ghost_close_zero_balance | 1.00x | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
 | 🔴 Kin-Kun | 0.1190 | 0.0000 | -0.1190 | $-10.72 | 0.0050 | ghost_close_zero_balance | 1.00x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 SHEEN | 0.1121 | 0.0000 | -0.1121 | $-10.10 | 0.0000 | ghost_close_zero_balance | 1.07x | [7aMgK5L4qEQ8...](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) |
 | 🔴 Feels | 0.1121 | 0.0000 | -0.1121 | $-10.10 | 0.0000 | ghost_close_zero_balance | 1.87x | [7aMgK5L4qEQ8...](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) |
 | 🔴 WALKER | 0.1190 | 0.0000 | -0.1190 | $-10.72 | 0.0050 | ghost_close_zero_balance | 1.95x | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
 | 🔴 RIPCHUCK | 0.1189 | 0.0428 | -0.0761 | $-6.86 | 0.0055 | stop_loss | 1.01x | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
 | 🔴 Hot | 0.1190 | 0.0000 | -0.1190 | $-10.72 | 0.0050 | ghost_close_zero_balance | 1.64x | [ApkQGKbq8dRw...](https://gmgn.ai/sol/address/ApkQGKbq8dRw5ha9n2bgd6AtHYTB2aCLFpmT7FE1BFD3) |
-| 🔴 PRINCIPLES | 0.1195 | 0.0000 | -0.1195 | $-10.76 | 0.0055 | stop_loss | 1.66x | [E79aNzAkDa92...](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
+| 🔴 PRINCIPLES | 0.1195 | 0.0000 | -0.1195 | $-10.77 | 0.0055 | stop_loss | 1.66x | [E79aNzAkDa92...](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) |
 | 🔴 CHUCK | 0.1195 | 0.0481 | -0.0713 | $-6.43 | 0.0055 | stop_loss | 1.13x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 NOR | 0.1190 | 0.0442 | -0.0748 | $-6.74 | 0.0055 | stop_loss | 1.03x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 CHUCK | 0.1122 | 0.0913 | -0.0209 | $-1.88 | 0.0003 | runner_trailing_stop | 2.82x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
-| 🔴 awkward | 0.1195 | 0.0000 | -0.1195 | $-10.76 | 0.0055 | stop_loss | 1.29x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
+| 🔴 awkward | 0.1195 | 0.0000 | -0.1195 | $-10.77 | 0.0055 | stop_loss | 1.29x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 | 🔴 FOID | 0.1191 | 0.0590 | -0.0601 | $-5.42 | 0.0051 | ghost_close_tp_3x_trim | 3.09x | [2w85VLX4W4qm...](https://gmgn.ai/sol/address/2w85VLX4W4qm8SPS7UJ35XwKZuLiNEeJr9MGzArKXkBF) |
 
 ## Trade Log
