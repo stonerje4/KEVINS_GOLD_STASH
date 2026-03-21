@@ -1,6 +1,6 @@
 # Wallet: `UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5`
 
-> [GMGN](https://gmgn.ai/sol/address/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | [Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-21 13:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | [Solscan](https://solscan.io/account/UbA9t2YMuQFEkZVvx2pxynrZUHCfsPFNGL52U4bQsF5) | Updated: 2026-03-21 13:30 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 WRT | $0.000013 | **0.87x** ($-13) | 1.82x |  | pumpswap | 2026-03-21 11:55 |
+| 🔴 WRT | $0.000013 | **0.86x** ($-14) | 1.82x |  | pumpswap | 2026-03-21 11:55 |
 | 🟡 FUEGO | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-21 08:09 |
 | 🟡 FLAG | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 06:16 |
 | 🟡 USRNR | $0.000005 | **1.27x** ($+27) | 1.27x |  | pumpfun | 2026-03-20 06:15 |

@@ -1,6 +1,6 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-21 13:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-21 13:30 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 18 (15 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-199 |
-| 📦 Unrealized | $+84 |
+| 📦 Unrealized | $+85 |
 | 🏦 Total | **$-115** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.34x |
@@ -30,7 +30,7 @@
 | 🟢 OSP | $0.000014 | **2.39x** ($+139) | 2.48x | ✅ | pumpfun | 2026-03-20 04:20 |
 | 🟡 OIL | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 04:18 |
 | 🟡 UGOR | $0.000018 | **1.04x** ($+4) | 1.73x |  | pumpswap | 2026-03-20 00:31 |
-| 🟡 DRONE | $0.000037 | **1.02x** ($+2) | 2.09x | ✅ | pumpswap | 2026-03-19 23:45 |
+| 🟡 DRONE | $0.000037 | **1.03x** ($+3) | 2.09x | ✅ | pumpswap | 2026-03-19 23:45 |
 | 🔴 BBX | $0.000029 | **0.86x** ($-14) | 1.10x |  | pumpswap | 2026-03-19 23:22 |
 | 🟡 Downald | $0.000006 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:20 |
 

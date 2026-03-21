@@ -1,25 +1,24 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 13:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 13:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 35 (23 open, 12 closed) |
-| W/L | 2/10 (17%) |
-| 💵 Realized | $-369 |
-| 📦 Unrealized | $+70 |
-| 🏦 Total | **$-298** |
+| Positions | 35 (22 open, 13 closed) |
+| W/L | 2/11 (15%) |
+| 💵 Realized | $-429 |
+| 📦 Unrealized | $+117 |
+| 🏦 Total | **$-312** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.69x |
+| Avg ROI | 0.67x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 F3qinGHm | $0.000008 | **0.52x** ($-48) | 1.41x |  | pumpfun | 2026-03-21 13:10 |
-| 🟢 CHIBILON | $0.000007 | **2.41x** ($+141) | 3.96x | ✅ | pumpswap | 2026-03-21 11:29 |
+| 🟢 CHIBILON | $0.000007 | **2.37x** ($+137) | 3.96x | ✅ | pumpswap | 2026-03-21 11:29 |
 | 🟡 YOU | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 08:56 |
 | 🟡 Takaichi | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 08:39 |
 | 🔴 J8piKJCf | $0.000005 | **0.49x** ($-51) | 1.30x |  | pumpfun | 2026-03-20 23:20 |
@@ -46,6 +45,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 F3qinGHm | 0.40x | $-60 | stop_loss | 1.41x | pumpfun | 2026-03-21 13:10 → 2026-03-21 13:27 |
 | 🟡 SIM | 0.83x | $-17 | trailing_stop_2x | 2.13x | pumpfun | 2026-03-21 12:10 → 2026-03-21 12:19 |
 | 🟡 6fMabAcD | 1.49x | $+49 | trailing_stop_4x | 3.90x | pumpfun | 2026-03-21 00:17 → 2026-03-21 01:22 |
 | 🔴 POMNI | 0.38x | $-62 | stop_loss | 1.35x | pumpfun | 2026-03-20 23:16 → 2026-03-20 23:19 |

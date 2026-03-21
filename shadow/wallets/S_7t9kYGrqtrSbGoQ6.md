@@ -1,16 +1,16 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 13:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 13:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 199 (191 open, 8 closed) |
+| Positions | 200 (192 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,559 |
-| 🏦 Total | **$-1,593** |
+| 📦 Unrealized | $-1,563 |
+| 🏦 Total | **$-1,597** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 NAMENEKO | $0.000006 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-21 13:26 |
 | 🟡 house | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:21 |
 | 🟡 NEO | $0.000007 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-21 13:10 |
 | 🟡 Skeleton | $0.000026 | **1.08x** ($+8) | 1.09x |  | pumpswap | 2026-03-21 13:08 |
 | 🟡 DAWAE | $0.000026 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-21 12:44 |
-| 🟡 OPTIMUS | $0.000019 | **1.05x** ($+5) | 1.09x |  | pumpswap | 2026-03-21 12:29 |
-| 🟡 AINL | $0.000032 | **1.01x** ($+1) | 1.10x |  | pumpswap | 2026-03-21 12:10 |
-| 🟡 DOGEFATHER | $0.000021 | **1.07x** ($+7) | 1.22x |  | pumpswap | 2026-03-21 11:57 |
+| 🟡 OPTIMUS | $0.000019 | **1.06x** ($+6) | 1.09x |  | pumpswap | 2026-03-21 12:29 |
+| 🔴 AINL | $0.000032 | **0.99x** ($-1) | 1.10x |  | pumpswap | 2026-03-21 12:10 |
+| 🟡 DOGEFATHER | $0.000021 | **1.05x** ($+5) | 1.22x |  | pumpswap | 2026-03-21 11:57 |
 | 🔴 Lia | $0.000007 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-21 11:43 |
 | 🔴 realizing | $0.000005 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 02:40 |
 | 🔴 90S | $0.000022 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-21 01:50 |
@@ -53,7 +54,7 @@
 | 🔴 IMAGINE | $0.000034 | **0.94x** ($-6) | 1.38x |  | pumpswap | 2026-03-20 19:10 |
 | 🔴 GOYBEAM | $0.000008 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 18:57 |
 | 🔴 Saleh | $0.000020 | **0.68x** ($-32) | 1.09x |  | pumpswap | 2026-03-20 18:52 |
-| 🔴 Cardboard | $0.000012 | **0.99x** ($-1) | 1.23x |  | pumpswap | 2026-03-20 18:15 |
+| 🔴 Cardboard | $0.000012 | **0.98x** ($-2) | 1.23x |  | pumpswap | 2026-03-20 18:15 |
 | 🟡 𝕏 | $0.000022 | **1.11x** ($+11) | 1.41x |  | pumpswap | 2026-03-20 17:40 |
 | 🔴 SNAKE | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 17:30 |
 | 🔴 ZOO | $0.000013 | **0.96x** ($-4) | 1.01x |  | pumpswap | 2026-03-20 17:28 |
@@ -73,7 +74,7 @@
 | 🔴 Pixel | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Newscum | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 GameTheory | $0.000015 | **1.47x** ($+47) | 1.64x |  | pumpswap | 2026-03-20 14:15 |
-| 🟢 Higuruma | $0.000020 | **2.37x** ($+137) | 2.95x | ✅ | pumpswap | 2026-03-20 14:09 |
+| 🟢 Higuruma | $0.000020 | **2.16x** ($+116) | 2.95x | ✅ | pumpswap | 2026-03-20 14:09 |
 | 🔴 chibify | $0.000011 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
 | 🟡 Yahu | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -194,7 +195,7 @@
 | 🔴 Otome | $0.000017 | **0.67x** ($-33) | 1.31x |  | pumpswap | 2026-03-19 23:33 |
 | 🔴 Xingxing | $0.000026 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-19 23:32 |
 | 🔴 AMBER | $0.000013 | **0.88x** ($-12) | 1.17x |  | pumpswap | 2026-03-19 23:29 |
-| 🔴 Hamster | $0.000037 | **0.85x** ($-15) | 1.15x |  | pumpswap | 2026-03-19 23:27 |
+| 🔴 Hamster | $0.000037 | **0.90x** ($-10) | 1.15x |  | pumpswap | 2026-03-19 23:27 |
 | 🟡 Barron | $0.000017 | **1.28x** ($+28) | 1.60x |  | pumpswap | 2026-03-19 23:23 |
 | 🔴 whiskers | $0.000010 | **0.80x** ($-20) | 1.09x |  | pumpswap | 2026-03-19 23:15 |
 | 🔴 FTR | $0.000030 | **0.85x** ($-15) | 1.09x |  | pumpswap | 2026-03-19 23:15 |
