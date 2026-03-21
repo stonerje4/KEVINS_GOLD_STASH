@@ -1,12 +1,12 @@
 # Wallet: `7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4`
 
-> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-21 04:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | [Solscan](https://solscan.io/account/7v24h67inspXXHkwUf96937WK3oJfXAFtDDsk7DEsbK4) | Updated: 2026-03-21 04:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (12 open, 3 closed) |
+| Positions | 16 (13 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-199 |
 | 📦 Unrealized | $+129 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FTR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 04:37 |
 | 🟡 UGOR | $0.000005 | **1.01x** ($+1) | 1.04x |  | pumpfun | 2026-03-21 00:21 |
 | 🟡 FUEGO | $0.000007 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 14:56 |
 | 🟡 FTR | $0.000014 | **1.16x** ($+16) | 1.21x |  | pumpfun | 2026-03-20 14:42 |

@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 04:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 04:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 177 (171 open, 6 closed) |
+| Positions | 178 (172 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-1,330 |
-| 🏦 Total | **$-1,284** |
+| 📦 Unrealized | $-1,320 |
+| 🏦 Total | **$-1,273** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.08x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Joobi | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:32 |
+| 🟡 CHIBELON | $0.000024 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-21 04:39 |
+| 🟡 Joobi | $0.000009 | **1.07x** ($+7) | 1.25x |  | pumpswap | 2026-03-21 04:32 |
 | 🔴 X COINS | $0.000017 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-21 04:06 |
 | 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
 | 🟡 TerpBot | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
@@ -134,7 +135,7 @@
 | 🟡 creature | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
 | 🔴 Gayatollah | $0.000005 | **0.89x** ($-11) | 1.08x |  | pumpswap | 2026-03-20 03:23 |
 | 🟡 CARROT | $0.000007 | **1.21x** ($+21) | 1.51x |  | pumpswap | 2026-03-20 03:15 |
-| 🔴 JOC | $0.000033 | **0.93x** ($-7) | 1.18x |  | pumpswap | 2026-03-20 03:09 |
+| 🔴 JOC | $0.000033 | **0.92x** ($-8) | 1.18x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 hahahaha | $0.000006 | **1.09x** ($+9) | 1.21x |  | pumpswap | 2026-03-20 03:09 |
 | 🔴 SNDK | $0.000007 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🔴 VAFR | $0.000024 | **0.96x** ($-4) | 1.11x |  | pumpswap | 2026-03-20 02:40 |

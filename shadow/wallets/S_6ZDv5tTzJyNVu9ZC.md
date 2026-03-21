@@ -1,16 +1,16 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 04:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 04:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 158 (149 open, 9 closed) |
+| Positions | 160 (151 open, 9 closed) |
 | W/L | 2/7 (22%) |
 | 💵 Realized | $+6 |
-| 📦 Unrealized | $-724 |
-| 🏦 Total | **$-717** |
+| 📦 Unrealized | $-716 |
+| 🏦 Total | **$-709** |
 | Best ROI | 2.96x |
 | Avg ROI | 1.01x |
 
@@ -18,7 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Joobi | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:32 |
+| 🟡 CHIBELON | $0.000024 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-21 04:39 |
+| 🔴 BISON | $0.000024 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-21 04:35 |
+| 🟡 Joobi | $0.000009 | **1.05x** ($+5) | 1.23x |  | pumpswap | 2026-03-21 04:32 |
 | 🔴 X COINS | $0.000016 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-21 04:06 |
 | 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
 | 🟡 TerpBot | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
@@ -129,7 +131,7 @@
 | 🟡 UBT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:05 |
 | 🔴 AFC | $0.000005 | **0.81x** ($-19) | 1.08x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 WhiteBoy  | $0.000014 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 02:50 |
-| 🔴 JOC | $0.000033 | **0.93x** ($-7) | 1.17x |  | pumpswap | 2026-03-20 02:36 |
+| 🔴 JOC | $0.000033 | **0.92x** ($-8) | 1.17x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 BB | $0.000009 | **1.00x** ($-0) | 1.05x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 Skull | $0.000008 | **0.76x** ($-24) | 1.14x |  | pumpswap | 2026-03-20 01:59 |
 | 🔴 DoubleT | $0.000028 | **0.88x** ($-12) | 1.07x |  | pumpswap | 2026-03-20 01:55 |
