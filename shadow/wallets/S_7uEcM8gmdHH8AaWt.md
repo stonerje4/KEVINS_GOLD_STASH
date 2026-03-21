@@ -1,6 +1,6 @@
 # Wallet: `7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t`
 
-> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-21 02:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | [Solscan](https://solscan.io/account/7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t) | Updated: 2026-03-21 02:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (7 open, 10 closed) |
 | W/L | 2/8 (20%) |
 | 💵 Realized | $-271 |
-| 📦 Unrealized | $-106 |
-| 🏦 Total | **$-377** |
+| 📦 Unrealized | $-98 |
+| 🏦 Total | **$-369** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.73x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Jameela | $0.000009 | **0.57x** ($-43) | 1.02x |  | pumpfun | 2026-03-21 02:29 |
+| 🔴 Jameela | $0.000009 | **0.65x** ($-35) | 1.02x |  | pumpfun | 2026-03-21 02:29 |
 | 🔴 piggyvest | $0.000006 | **0.44x** ($-56) | 1.13x |  | pumpfun | 2026-03-20 23:07 |
 | 🔴 Louis | $0.000008 | **0.70x** ($-30) | 1.43x |  | pumpfun | 2026-03-20 20:50 |
 | 🔴 EPSTEIN | $0.000005 | **0.48x** ($-52) | 1.11x |  | pumpfun | 2026-03-20 19:38 |

@@ -1,6 +1,6 @@
 # Wallet: `BQrJEre4PV4f5qJWxi1SNVqtHzjKBRhFmgZPh6FC6uWp`
 
-> [GMGN](https://gmgn.ai/sol/address/BQrJEre4PV4f5qJWxi1SNVqtHzjKBRhFmgZPh6FC6uWp) | [Solscan](https://solscan.io/account/BQrJEre4PV4f5qJWxi1SNVqtHzjKBRhFmgZPh6FC6uWp) | Updated: 2026-03-21 02:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/BQrJEre4PV4f5qJWxi1SNVqtHzjKBRhFmgZPh6FC6uWp) | [Solscan](https://solscan.io/account/BQrJEre4PV4f5qJWxi1SNVqtHzjKBRhFmgZPh6FC6uWp) | Updated: 2026-03-21 02:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+31 |
-| 🏦 Total | **$+31** |
+| 📦 Unrealized | $+40 |
+| 🏦 Total | **$+40** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 NORMIE | $0.000019 | **1.31x** ($+31) | 1.43x |  | pumpswap | 2026-03-20 12:17 |
+| 🟡 NORMIE | $0.000019 | **1.40x** ($+40) | 1.49x |  | pumpswap | 2026-03-20 12:17 |
 | 🟡 Freebuff | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:36 |
 
 ## Closed Positions

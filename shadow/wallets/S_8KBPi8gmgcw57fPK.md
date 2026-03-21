@@ -1,6 +1,6 @@
 # Wallet: `8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ`
 
-> [GMGN](https://gmgn.ai/sol/address/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | [Solscan](https://solscan.io/account/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | Updated: 2026-03-21 02:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | [Solscan](https://solscan.io/account/8KBPi8gmgcw57fPKErRudUgA9YgW1pdgV5wTAzbYFTCZ) | Updated: 2026-03-21 02:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-99 |
-| 📦 Unrealized | $-81 |
-| 🏦 Total | **$-180** |
+| 📦 Unrealized | $-83 |
+| 🏦 Total | **$-181** |
 | Best ROI | 0.61x |
 | Avg ROI | 0.51x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CAINE | $0.000036 | **0.53x** ($-47) | 1.10x |  | pumpswap | 2026-03-20 23:37 |
+| 🔴 CAINE | $0.000036 | **0.52x** ($-48) | 1.10x |  | pumpswap | 2026-03-20 23:37 |
 | 🔴 Income | $0.000020 | **0.78x** ($-22) | 1.39x |  | pumpswap | 2026-03-20 15:07 |
 | 🟡 ElonEffect | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:23 |
 | 🔴 Forget | $0.000010 | **0.88x** ($-12) | 1.39x |  | pumpswap | 2026-03-20 09:52 |
