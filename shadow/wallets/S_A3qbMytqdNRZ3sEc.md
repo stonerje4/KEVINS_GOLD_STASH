@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 13:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 13:55 UTC
 
 ## Summary
 
@@ -18,14 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 DRONE | $0.000022 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-21 13:49 |
-| 🟡 WRT | $0.000011 | **1.02x** ($+2) | 1.10x |  | pumpswap | 2026-03-21 12:42 |
+| 🟡 DRONE | $0.000022 | **1.09x** ($+9) | 1.10x |  | pumpswap | 2026-03-21 13:49 |
+| 🟡 WRT | $0.000011 | **1.03x** ($+3) | 1.10x |  | pumpswap | 2026-03-21 12:42 |
 | 🟡 Grokputer | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:28 |
 | 🟡 Sunshine | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:46 |
 | 🟡 FABIANA | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:16 |
 | 🟡 p-token | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:23 |
 | 🟡 Situation | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:47 |
-| 🔴 honkermog | $0.000023 | **0.90x** ($-10) | 1.02x |  | pumpswap | 2026-03-21 07:44 |
+| 🔴 honkermog | $0.000023 | **0.89x** ($-11) | 1.02x |  | pumpswap | 2026-03-21 07:44 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:44 |
 | 🟡 OSP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:00 |
 | 🟡 Income | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:56 |
@@ -52,7 +52,7 @@
 | 🔴 clod | $0.000024 | **0.55x** ($-45) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
 | 🔴 Simulation | $0.000022 | **0.50x** ($-50) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 AVATAR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
-| 🔴 AIFRUIT | $0.000012 | **0.47x** ($-53) | 1.00x |  | pumpswap | 2026-03-20 12:37 |
+| 🔴 AIFRUIT | $0.000012 | **0.41x** ($-59) | 1.00x |  | pumpswap | 2026-03-20 12:37 |
 | 🔴 Saleh | $0.000017 | **0.78x** ($-22) | 1.27x |  | pumpswap | 2026-03-20 11:57 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 DRIVE | $0.000014 | **1.14x** ($+14) | 1.15x |  | pumpswap | 2026-03-20 10:54 |

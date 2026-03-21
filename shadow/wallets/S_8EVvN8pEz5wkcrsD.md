@@ -1,6 +1,6 @@
 # Wallet: `8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4`
 
-> [GMGN](https://gmgn.ai/sol/address/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | [Solscan](https://solscan.io/account/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | Updated: 2026-03-21 13:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | [Solscan](https://solscan.io/account/8EVvN8pEz5wkcrsDDeVJ7JRQmCYe7G1hbyN1Rh8f7XF4) | Updated: 2026-03-21 13:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-62 |
-| 📦 Unrealized | $-59 |
-| 🏦 Total | **$-121** |
+| 📦 Unrealized | $-57 |
+| 🏦 Total | **$-119** |
 | Best ROI | 0.38x |
 | Avg ROI | 0.38x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 King | $0.000020 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-21 13:47 |
+| 🟡 King | $0.000020 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-21 13:47 |
 | 🔴 Fartless | $0.000013 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-21 12:14 |
 | 🔴 BLON | $0.000015 | **0.72x** ($-28) | 1.25x |  | pumpswap | 2026-03-21 00:55 |
 | 🔴 Naruto | $0.000010 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-21 00:40 |

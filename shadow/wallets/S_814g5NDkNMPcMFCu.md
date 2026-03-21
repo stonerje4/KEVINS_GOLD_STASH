@@ -1,6 +1,6 @@
-# Wallet: `AnSqEDs6Wuq22af2xggAQrKTUW7UYBzQMttzuQB2voZk`
+# Wallet: `814g5NDkNMPcMFCugzG3jtqEn8cKBNc2VQLnavW4RzEL`
 
-> [GMGN](https://gmgn.ai/sol/address/AnSqEDs6Wuq22af2xggAQrKTUW7UYBzQMttzuQB2voZk) | [Solscan](https://solscan.io/account/AnSqEDs6Wuq22af2xggAQrKTUW7UYBzQMttzuQB2voZk) | Updated: 2026-03-21 13:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/814g5NDkNMPcMFCugzG3jtqEn8cKBNc2VQLnavW4RzEL) | [Solscan](https://solscan.io/account/814g5NDkNMPcMFCugzG3jtqEn8cKBNc2VQLnavW4RzEL) | Updated: 2026-03-21 13:55 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Spiderman | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:45 |
+| 🟡 CHIBI | $0.000016 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-21 13:50 |
 
 ## Closed Positions
 

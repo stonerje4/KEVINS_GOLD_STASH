@@ -1,6 +1,6 @@
 # Wallet: `D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq`
 
-> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-21 13:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-21 13:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (9 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-252 |
-| 📦 Unrealized | $+71 |
-| 🏦 Total | **$-180** |
+| 📦 Unrealized | $+43 |
+| 🏦 Total | **$-209** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.37x |
 
@@ -19,12 +19,12 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Kit | $0.000011 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-20 19:30 |
-| 🟡 LNG | $0.000021 | **1.45x** ($+45) | 1.90x |  | pumpfun | 2026-03-20 16:35 |
+| 🟡 LNG | $0.000021 | **1.14x** ($+14) | 1.90x |  | pumpfun | 2026-03-20 16:35 |
 | 🟡 CUJO | $0.000019 | **1.18x** ($+18) | 1.18x |  | pumpfun | 2026-03-20 16:34 |
 | 🟡 Chibijak | $0.000014 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 15:18 |
 | 🟡 CHIBIS | $0.000015 | **1.01x** ($+1) | 1.05x |  | pumpfun | 2026-03-20 15:17 |
 | 🔴 tired | $0.000011 | **0.76x** ($-24) | 1.22x |  | pumpfun | 2026-03-20 14:16 |
-| 🔴 Civil Claude | $0.000021 | **0.79x** ($-21) | 1.44x |  | pumpfun | 2026-03-20 14:14 |
+| 🔴 Civil Claude | $0.000021 | **0.82x** ($-18) | 1.44x |  | pumpfun | 2026-03-20 14:14 |
 | 🟡 OSP | $0.000026 | **1.28x** ($+28) | 1.30x |  | pumpfun | 2026-03-20 14:13 |
 | 🟡 PAD | $0.000018 | **1.09x** ($+9) | 1.17x |  | pumpswap | 2026-03-20 13:38 |
 

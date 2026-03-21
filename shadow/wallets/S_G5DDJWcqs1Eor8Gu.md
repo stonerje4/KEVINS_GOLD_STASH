@@ -1,6 +1,6 @@
 # Wallet: `G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE`
 
-> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-21 13:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | [Solscan](https://solscan.io/account/G5DDJWcqs1Eor8GuwEzw4kB275v4F9AbdJjQ7c1GURiE) | Updated: 2026-03-21 13:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 23 (10 open, 13 closed) |
 | W/L | 0/13 (0%) |
 | 💵 Realized | $-727 |
-| 📦 Unrealized | $+166 |
-| 🏦 Total | **$-561** |
+| 📦 Unrealized | $+144 |
+| 🏦 Total | **$-583** |
 | Best ROI | 0.93x |
 | Avg ROI | 0.44x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 emy | $0.000017 | **1.81x** ($+81) | 2.44x | ✅ | pumpswap | 2026-03-21 13:23 |
+| 🟡 emy | $0.000017 | **1.37x** ($+37) | 2.44x | ✅ | pumpswap | 2026-03-21 13:23 |
 | 🔴 TADC | $0.000032 | **0.74x** ($-26) | 1.34x |  | pumpswap | 2026-03-20 22:52 |
 | 🟡 p-token | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:36 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 16:05 |
