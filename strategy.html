@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Strategy Analysis</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0a0a;color:#e5e5e5;font-family:'SF Mono','Fira Code','Consolas',monospace;font-size:13px}
+.c{max-width:1200px;margin:0 auto;padding:16px}
+h1{color:#22c55e;font-size:22px;margin-bottom:4px}
+h3{color:#e5e5e5;font-size:14px;margin:16px 0 8px}
+.sub{color:#737373;font-size:11px;margin-bottom:20px}
+.p{color:#22c55e}.n{color:#ef4444}.g{color:#22c55e}.y{color:#f59e0b}.r{color:#ef4444}
+.hint{color:#737373;font-size:11px;margin-bottom:8px}
+table{width:100%;border-collapse:collapse;margin-bottom:16px}
+th{background:#111;color:#737373;font-size:10px;text-transform:uppercase;letter-spacing:1px;padding:8px 6px;text-align:left;border-bottom:1px solid #262626}
+td{padding:6px;border-bottom:1px solid #1a1a1a}
+tr:hover{background:#1a1a1a}
+tr.g{background:#14532d20}
+tr.y{background:#f59e0b10}
+a{color:#3b82f6;text-decoration:none}
+.gmgn-link{margin-top:8px}
+.card{background:#171717;border:1px solid #262626;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.card-header{padding:12px 16px;cursor:pointer;display:flex;align-items:center;gap:16px}
+.card-header:hover{background:#1a1a1a}
+.wallet-name{flex:1}
+.trades,.best-strat{color:#737373;font-size:11px}
+.best-strat{color:#22c55e}
+.arrow{color:#737373;transition:transform 0.2s}
+.card.open .arrow{transform:rotate(90deg)}
+.card-body{display:none;padding:16px;border-top:1px solid #262626}
+.card.open .card-body{display:block}
+.summary{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-bottom:20px}
+.summary-card{background:#111;border:1px solid #262626;border-radius:6px;padding:12px}
+.summary-card .label{color:#737373;font-size:10px;text-transform:uppercase}
+.summary-card .value{font-size:18px;font-weight:bold;margin-top:4px}
+</style>
+</head>
+<body>
+<div class="c">
+<h1>🧪 Strategy Analysis</h1>
+<div class="sub">Updated: 2026-03-21 23:52 UTC · 1 wallets analyzed · Click wallet to expand</div>
+
+<div class="summary">
+<div class="summary-card">
+<div class="label">Wallets Analyzed</div>
+<div class="value" style="color:#3b82f6">1</div>
+</div>
+<div class="summary-card">
+<div class="label">Most Common Best Strategy</div>
+<div class="value" style="color:#22c55e">Runner (10% TP, wide trail)</div>
+</div>
+<div class="summary-card">
+<div class="label">Avg Improvement vs Current</div>
+<div class="value p">$+54/wallet</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="wallet-name"><code>9WTdV3HKWiE9hcK4hwZo...</code></span>
+<span class="trades">15 trades</span>
+<span class="best-strat">🏆 Runner (10% TP, wide trail)</span>
+<span class="p">+$54 vs current</span>
+<span class="arrow">▶</span>
+</div>
+<div class="card-body">
+
+<h3>📊 Strategy Comparison</h3>
+<table>
+<thead><tr><th>Strategy</th><th>Avg Ret</th><th>Win Rate</th><th>P&L/$10</th><th>Best</th><th>Worst</th></tr></thead>
+<tbody><tr class="g">
+<td><strong>Runner (10% TP, wide trail)</strong> 🏆</td>
+<td>1.79x</td>
+<td>40%</td>
+<td class="p"><strong>$+118</strong></td>
+<td>9.1x</td>
+<td>0.40x</td>
+</tr><tr class="">
+<td><strong>Minimal TP1 (10%)</strong></td>
+<td>1.61x</td>
+<td>40%</td>
+<td class="p"><strong>$+91</strong></td>
+<td>5.9x</td>
+<td>0.40x</td>
+</tr><tr class="">
+<td><strong>Light TP1 (25%)</strong></td>
+<td>1.54x</td>
+<td>47%</td>
+<td class="p"><strong>$+81</strong></td>
+<td>5.1x</td>
+<td>0.40x</td>
+</tr><tr class="">
+<td><strong>Tight Trails</strong></td>
+<td>1.51x</td>
+<td>47%</td>
+<td class="p"><strong>$+77</strong></td>
+<td>4.3x</td>
+<td>0.40x</td>
+</tr><tr class="">
+<td><strong>Wide Trails</strong></td>
+<td>1.51x</td>
+<td>47%</td>
+<td class="p"><strong>$+77</strong></td>
+<td>5.4x</td>
+<td>0.40x</td>
+</tr><tr class="">
+<td><strong>SL 50%</strong></td>
+<td>1.45x</td>
+<td>47%</td>
+<td class="p"><strong>$+68</strong></td>
+<td>4.0x</td>
+<td>0.50x</td>
+</tr><tr class="y">
+<td><strong>Current</strong> ◄ current</td>
+<td>1.43x</td>
+<td>47%</td>
+<td class="p"><strong>$+64</strong></td>
+<td>4.0x</td>
+<td>0.40x</td>
+</tr><tr class="">
+<td><strong>SL 30%</strong></td>
+<td>1.40x</td>
+<td>47%</td>
+<td class="p"><strong>$+60</strong></td>
+<td>4.0x</td>
+<td>0.30x</td>
+</tr><tr class="">
+<td><strong>Aggressive Exit</strong></td>
+<td>1.38x</td>
+<td>47%</td>
+<td class="p"><strong>$+56</strong></td>
+<td>2.8x</td>
+<td>0.40x</td>
+</tr></tbody>
+</table>
+
+<h3>🌳 Probability Tree</h3>
+<p class="hint">At each price level: what % of trades continue higher? What's the EV of holding?</p>
+<table>
+<thead><tr><th>Level</th><th>Hit</th><th>% of All</th><th>→ Next</th><th>Time</th><th>Retrace</th><th>EV Hold</th><th>Sell %</th></tr></thead>
+<tbody><tr>
+<td><strong>1.2x</strong></td>
+<td>7</td>
+<td>47%</td>
+<td>100%</td>
+<td>0m</td>
+<td>0.31x</td>
+<td class="g">1.20x</td>
+<td class="g"><strong>25%</strong></td>
+</tr><tr>
+<td><strong>1.5x</strong></td>
+<td>7</td>
+<td>47%</td>
+<td>100%</td>
+<td>0m</td>
+<td>0.31x</td>
+<td class="g">1.33x</td>
+<td class="g"><strong>10%</strong></td>
+</tr><tr>
+<td><strong>2.0x</strong></td>
+<td>7</td>
+<td>47%</td>
+<td>100%</td>
+<td>3m</td>
+<td>0.31x</td>
+<td class="g">1.25x</td>
+<td class="g"><strong>25%</strong></td>
+</tr><tr>
+<td><strong>2.5x</strong></td>
+<td>7</td>
+<td>47%</td>
+<td>86%</td>
+<td>3m</td>
+<td>0.31x</td>
+<td class="y">1.08x</td>
+<td class="y"><strong>50%</strong></td>
+</tr><tr>
+<td><strong>3.0x</strong></td>
+<td>6</td>
+<td>40%</td>
+<td>83%</td>
+<td>6m</td>
+<td>0.21x</td>
+<td class="g">1.14x</td>
+<td class="g"><strong>25%</strong></td>
+</tr><tr>
+<td><strong>4.0x</strong></td>
+<td>5</td>
+<td>33%</td>
+<td>80%</td>
+<td>7m</td>
+<td>0.14x</td>
+<td class="y">1.00x</td>
+<td class="y"><strong>50%</strong></td>
+</tr><tr>
+<td><strong>5.0x</strong></td>
+<td>4</td>
+<td>27%</td>
+<td>50%</td>
+<td>0m</td>
+<td>0.16x</td>
+<td class="r">0.81x</td>
+<td class="r"><strong>75%</strong></td>
+</tr><tr>
+<td><strong>8.0x</strong></td>
+<td>2</td>
+<td>13%</td>
+<td>100%</td>
+<td>10m</td>
+<td>0.19x</td>
+<td class="g">1.25x</td>
+<td class="g"><strong>25%</strong></td>
+</tr><tr>
+<td><strong>10.0x</strong></td>
+<td>2</td>
+<td>13%</td>
+<td>100%</td>
+<td>15m</td>
+<td>0.19x</td>
+<td class="g">1.50x</td>
+<td class="g"><strong>10%</strong></td>
+</tr><tr>
+<td><strong>15.0x</strong></td>
+<td>2</td>
+<td>13%</td>
+<td>50%</td>
+<td>52m</td>
+<td>0.19x</td>
+<td class="r">0.84x</td>
+<td class="r"><strong>75%</strong></td>
+</tr><tr>
+<td><strong>25.0x</strong></td>
+<td>1</td>
+<td>7%</td>
+<td>0%</td>
+<td>110m</td>
+<td>0.21x</td>
+<td class="r">0.01x</td>
+<td class="r"><strong>90%</strong></td>
+</tr></tbody>
+</table>
+
+<p class="gmgn-link"><a href="https://gmgn.ai/sol/address/9WTdV3HKWiE9hcK4hwZoyzU9bU2uxF5KyqQPAYtkTpGh" target="_blank">📊 View on GMGN</a></p>
+</div>
+</div>
+</div>
+</body>
+</html>
