@@ -1,24 +1,23 @@
 # Wallet: `36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP`
 
-> [GMGN](https://gmgn.ai/sol/address/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | [Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-21 08:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | [Solscan](https://solscan.io/account/36gyhadZPC4mbxkVpBP9NRQUhRV8BvmtdZcRFZnqfwWP) | Updated: 2026-03-21 08:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (7 open, 7 closed) |
-| W/L | 2/5 (29%) |
-| 💵 Realized | $-168 |
-| 📦 Unrealized | $-122 |
-| 🏦 Total | **$-289** |
+| Positions | 14 (6 open, 8 closed) |
+| W/L | 2/6 (25%) |
+| 💵 Realized | $-229 |
+| 📦 Unrealized | $-89 |
+| 🏦 Total | **$-317** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.76x |
+| Avg ROI | 0.71x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TURD | $0.000007 | **0.67x** ($-33) | 1.29x |  | pumpfun | 2026-03-21 08:15 |
 | 🟢 few | $0.000013 | **2.79x** ($+179) | 2.79x | ✅ | pumpfun | 2026-03-20 23:24 |
 | 🔴 sheep | $0.000012 | **0.66x** ($-34) | 1.93x |  | pumpfun | 2026-03-20 20:30 |
 | 🔴 BiGymNtn | $0.000005 | **0.49x** ($-51) | 1.20x |  | pumpfun | 2026-03-20 19:46 |
@@ -30,6 +29,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 TURD | 0.39x | $-61 | stop_loss | 1.29x | pumpfun | 2026-03-21 08:15 → 2026-03-21 08:27 |
 | 🔴 GoutGout | 0.40x | $-60 | stop_loss | 1.97x | pumpfun | 2026-03-21 00:34 → 2026-03-21 01:01 |
 | 🔴 599MRKGc | 0.39x | $-61 | stop_loss | 1.30x | pumpfun | 2026-03-20 23:30 → 2026-03-20 23:33 |
 | 🟡 MINMIKO | 0.83x | $-17 | trailing_stop_2x | 2.02x | pumpfun | 2026-03-20 21:49 → 2026-03-20 22:24 |
