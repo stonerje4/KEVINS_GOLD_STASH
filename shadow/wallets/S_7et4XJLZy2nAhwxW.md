@@ -1,6 +1,6 @@
 # Wallet: `7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj`
 
-> [GMGN](https://gmgn.ai/sol/address/7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj) | [Solscan](https://solscan.io/account/7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj) | Updated: 2026-03-21 01:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj) | [Solscan](https://solscan.io/account/7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj) | Updated: 2026-03-21 01:10 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 7 (6 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-34 |
+| 📦 Unrealized | $-35 |
 | 🏦 Total | **$-95** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Dreamjob | $0.000006 | **0.41x** ($-59) | 1.24x |  | pumpfun | 2026-03-20 21:11 |
+| 🔴 Dreamjob | $0.000006 | **0.40x** ($-60) | 1.24x |  | pumpfun | 2026-03-20 21:11 |
 | 🟡 CRACK | $0.000024 | **1.53x** ($+53) | 1.53x |  | pumpfun | 2026-03-20 20:17 |
 | 🔴 Forget | $0.000012 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 19:30 |
 | 🟡 SURREAL | $0.000008 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 16:50 |

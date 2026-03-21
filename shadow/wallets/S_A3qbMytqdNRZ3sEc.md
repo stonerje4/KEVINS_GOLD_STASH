@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 01:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 01:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 48 (39 open, 9 closed) |
 | W/L | 3/6 (33%) |
 | 💵 Realized | $-145 |
-| 📦 Unrealized | $-255 |
-| 🏦 Total | **$-399** |
+| 📦 Unrealized | $-247 |
+| 🏦 Total | **$-391** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.84x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WRT | $0.000012 | **1.36x** ($+36) | 1.38x |  | pumpswap | 2026-03-20 23:30 |
+| 🟡 WRT | $0.000012 | **1.40x** ($+40) | 1.40x |  | pumpswap | 2026-03-20 23:30 |
 | 🟡 IonClaw | $0.000008 | **1.35x** ($+35) | 1.60x |  | pumpswap | 2026-03-20 23:07 |
 | 🟡 Lana | $0.000038 | **1.11x** ($+11) | 1.18x |  | pumpswap | 2026-03-20 23:06 |
 | 🔴 LIBERTY | $0.000005 | **0.79x** ($-21) | 1.25x |  | pumpswap | 2026-03-20 22:22 |
@@ -29,10 +29,10 @@
 | 🟡 Taylor | $0.000007 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-20 16:46 |
 | 🔴 Dryer | $0.000016 | **0.87x** ($-13) | 2.43x | ✅ | pumpswap | 2026-03-20 15:49 |
 | 🔴 clod | $0.000024 | **0.62x** ($-38) | 1.62x |  | pumpswap | 2026-03-20 15:02 |
-| 🔴 Simulation | $0.000022 | **0.50x** ($-50) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
+| 🔴 Simulation | $0.000022 | **0.51x** ($-49) | 1.09x |  | pumpswap | 2026-03-20 14:02 |
 | 🟡 AVATAR | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:17 |
 | 🟡 AIFRUIT | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:37 |
-| 🔴 Saleh | $0.000017 | **0.66x** ($-34) | 1.27x |  | pumpswap | 2026-03-20 11:57 |
+| 🔴 Saleh | $0.000017 | **0.69x** ($-31) | 1.27x |  | pumpswap | 2026-03-20 11:57 |
 | 🟡 DICKUS | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 DRIVE | $0.000014 | **1.14x** ($+14) | 1.15x |  | pumpswap | 2026-03-20 10:54 |
 | 🔴 ARIA | $0.000022 | **0.52x** ($-48) | 1.31x |  | pumpswap | 2026-03-20 09:04 |
