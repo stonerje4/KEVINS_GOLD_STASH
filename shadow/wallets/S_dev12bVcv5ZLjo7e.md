@@ -1,6 +1,6 @@
 # Wallet: `dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo`
 
-> [GMGN](https://gmgn.ai/sol/address/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | [Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-21 13:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | [Solscan](https://solscan.io/account/dev12bVcv5ZLjo7eYgZcSmZ7KBjEVfnfvorwqdZ14fo) | Updated: 2026-03-21 13:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (11 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-9 |
-| 🏦 Total | **$-9** |
+| 📦 Unrealized | $-15 |
+| 🏦 Total | **$-15** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PIXEL | $0.000006 | **1.12x** ($+12) | 1.25x |  | pumpfun | 2026-03-21 11:21 |
+| 🟡 PIXEL | $0.000006 | **1.06x** ($+6) | 1.25x |  | pumpfun | 2026-03-21 11:21 |
 | 🟡 PHIBZ | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:08 |
 | 🟡 GAS | $0.000006 | **1.05x** ($+5) | 1.05x |  | pumpfun | 2026-03-20 08:46 |
 | 🔴 UOR | $0.000005 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 08:05 |

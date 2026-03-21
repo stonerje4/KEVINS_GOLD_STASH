@@ -1,16 +1,16 @@
 # Wallet: `2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71`
 
-> [GMGN](https://gmgn.ai/sol/address/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | [Solscan](https://solscan.io/account/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | Updated: 2026-03-21 13:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | [Solscan](https://solscan.io/account/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | Updated: 2026-03-21 13:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (2 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-157 |
-| 📦 Unrealized | $+171 |
-| 🏦 Total | **$+14** |
+| Positions | 7 (1 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-183 |
+| 📦 Unrealized | $+151 |
+| 🏦 Total | **$-32** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.69x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 emy | $0.000016 | **1.41x** ($+41) | 2.49x | ✅ | pumpswap | 2026-03-21 12:37 |
 | 🟢 13B2d6mP | $0.000007 | **4.78x** ($+378) | 4.94x | ✅ | pumpfun | 2026-03-20 21:14 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 emy | 0.74x | $-26 | trailing_stop_2x | 2.49x | pumpswap | 2026-03-21 12:37 → 2026-03-21 13:09 |
 | 🟡 SSP | 0.82x | $-18 | trailing_stop_3x | 2.97x | pumpfun | 2026-03-20 21:32 → 2026-03-20 22:29 |
 | 🔴 LIFE | 0.36x | $-64 | stop_loss | 1.28x | pumpfun | 2026-03-20 21:26 → 2026-03-20 21:33 |
 | 🔴 8FsFJGNm | 0.39x | $-61 | stop_loss | 1.07x | pumpfun | 2026-03-20 21:04 → 2026-03-20 21:26 |

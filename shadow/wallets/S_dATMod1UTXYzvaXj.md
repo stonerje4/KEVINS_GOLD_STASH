@@ -1,26 +1,25 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 13:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 13:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 37 (18 open, 19 closed) |
-| W/L | 1/18 (5%) |
-| 💵 Realized | $-814 |
-| 📦 Unrealized | $+325 |
-| 🏦 Total | **$-490** |
+| Positions | 37 (16 open, 21 closed) |
+| W/L | 2/19 (10%) |
+| 💵 Realized | $-833 |
+| 📦 Unrealized | $+326 |
+| 🏦 Total | **$-508** |
 | Best ROI | 1.47x |
-| Avg ROI | 0.57x |
+| Avg ROI | 0.60x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 emy | $0.000031 | **0.71x** ($-29) | 1.26x |  | pumpswap | 2026-03-21 12:42 |
 | 🟡 CHIBELON | $0.000026 | **1.41x** ($+41) | 1.41x |  | pumpfun | 2026-03-21 11:27 |
-| 🔴 TRUDY | $0.000017 | **0.61x** ($-39) | 1.79x |  | pumpfun | 2026-03-21 11:06 |
+| 🔴 TRUDY | $0.000017 | **0.62x** ($-38) | 1.79x |  | pumpfun | 2026-03-21 11:06 |
 | 🟡 CREB | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:26 |
 | 🟡 Lana | $0.000030 | **1.23x** ($+23) | 1.23x |  | pumpfun | 2026-03-20 16:31 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:53 |
@@ -34,13 +33,13 @@
 | 🟡 Pixels | $0.000024 | **1.40x** ($+40) | 1.88x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 BOAR | $0.000008 | **0.77x** ($-23) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
-| 🟡 9Yqs3sVA | $0.000008 | **1.71x** ($+71) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
 | 🟡 Grokslop | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 01:01 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 emy | 0.38x | $-62 | stop_loss | 1.26x | pumpswap | 2026-03-21 12:42 → 2026-03-21 13:09 |
 | 🔴 GrokIt | 0.37x | $-63 | stop_loss | 1.51x | pumpfun | 2026-03-21 11:52 → 2026-03-21 11:56 |
 | 🟡 Elongate | 0.82x | $-18 | trailing_stop_2x | 2.11x | pumpfun | 2026-03-20 22:21 → 2026-03-20 22:24 |
 | 🔴 TADC | 0.38x | $-62 | stop_loss | 1.60x | pumpfun | 2026-03-20 21:51 → 2026-03-20 22:14 |
@@ -56,6 +55,7 @@
 | 🔴 effect | 0.74x | $-26 | trailing_stop_2x | 2.03x | pumpfun | 2026-03-20 09:35 → 2026-03-20 09:45 |
 | 🔴 5GsJXBfX | 0.37x | $-63 | stop_loss | 1.54x | pumpfun | 2026-03-20 02:59 → 2026-03-20 03:01 |
 | 🟡 NEMO | 0.84x | $-16 | trailing_stop_2x | 2.43x | pumpfun | 2026-03-20 02:23 → 2026-03-20 02:34 |
+| 🟡 9Yqs3sVA | 1.43x | $+43 | trailing_stop_4x | 4.35x | pumpfun | 2026-03-20 02:07 → 2026-03-21 13:06 |
 | 🔴 Gz95UGCX | 0.40x | $-60 | stop_loss | 1.53x | pumpfun | 2026-03-20 01:22 → 2026-03-20 01:27 |
 | 🟡 Massive | 1.47x | $+47 | trailing_stop_3x | 3.03x | pumpswap | 2026-03-19 23:42 → 2026-03-19 23:53 |
 | 🔴 SHOENICE  | 0.38x | $-62 | stop_loss | 1.90x | pumpfun | 2026-03-19 23:31 → 2026-03-19 23:57 |

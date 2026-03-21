@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 13:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 13:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 56 (51 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+136 |
-| 📦 Unrealized | $-533 |
-| 🏦 Total | **$-397** |
+| 📦 Unrealized | $-531 |
+| 🏦 Total | **$-395** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.27x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Strawberita | $0.000039 | **0.99x** ($-1) | 1.02x |  | pumpswap | 2026-03-21 12:06 |
+| 🔴 Strawberita | $0.000039 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-21 12:06 |
 | 🟡 Chibify | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:10 |
 | 🟡 Lana | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:49 |
 | 🟡 EVERYTHING | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:27 |
@@ -41,10 +41,10 @@
 | 🔴 clod | $0.000016 | **0.82x** ($-18) | 1.20x |  | pumpswap | 2026-03-20 19:17 |
 | 🔴 SNIFFER | $0.000031 | **0.92x** ($-8) | 1.77x |  | pumpswap | 2026-03-20 19:00 |
 | 🔴 Chud | $0.000030 | **0.73x** ($-27) | 1.02x |  | pumpswap | 2026-03-20 18:52 |
-| 🔴 honkermog | $0.000032 | **0.65x** ($-35) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
+| 🔴 honkermog | $0.000032 | **0.64x** ($-36) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
 | 🟡 CHIBI | $0.000014 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 18:08 |
 | 🔴 ARIA | $0.000021 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
-| 🟡 Hamster | $0.000021 | **1.49x** ($+49) | 1.72x |  | pumpswap | 2026-03-20 17:00 |
+| 🟡 Hamster | $0.000021 | **1.53x** ($+53) | 1.72x |  | pumpswap | 2026-03-20 17:00 |
 | 🔴 Ouroboros | $0.000023 | **0.52x** ($-48) | 1.05x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 CHIBIELON | $0.000032 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 Saleh | $0.000018 | **0.75x** ($-25) | 1.21x |  | pumpswap | 2026-03-20 08:48 |

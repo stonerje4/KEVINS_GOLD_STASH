@@ -1,6 +1,6 @@
 # Wallet: `DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V`
 
-> [GMGN](https://gmgn.ai/sol/address/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | [Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-21 13:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | [Solscan](https://solscan.io/account/DdJheoS6u66asrLrAYByjz9CwKhacTVDushMYLv7Av8V) | Updated: 2026-03-21 13:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-52 |
-| 🏦 Total | **$-113** |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-114** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TFW | $0.000037 | **0.94x** ($-6) | 1.07x |  | pumpswap | 2026-03-21 09:29 |
+| 🔴 TFW | $0.000037 | **0.93x** ($-7) | 1.07x |  | pumpswap | 2026-03-21 09:29 |
 | 🟡 EVERYTHING | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:43 |
 | 🔴 sheep | $0.000015 | **0.54x** ($-46) | 1.57x |  | pumpfun | 2026-03-20 18:12 |
 

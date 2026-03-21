@@ -1,6 +1,6 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 13:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 13:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (9 open, 7 closed) |
 | W/L | 2/5 (29%) |
 | 💵 Realized | $-217 |
-| 📦 Unrealized | $-75 |
-| 🏦 Total | **$-292** |
+| 📦 Unrealized | $-57 |
+| 🏦 Total | **$-274** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.69x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 アトム | $0.000013 | **1.60x** ($+60) | 2.42x | ✅ | pumpfun | 2026-03-21 12:20 |
+| 🟡 アトム | $0.000013 | **1.95x** ($+95) | 2.42x | ✅ | pumpfun | 2026-03-21 12:20 |
 | 🔴 CAGE | $0.000005 | **0.47x** ($-53) | 1.54x |  | pumpfun | 2026-03-20 20:01 |
 | 🔴 Benicio | $0.000010 | **0.87x** ($-13) | 1.47x |  | pumpfun | 2026-03-20 19:44 |
 | 🟡 CAT | $0.000007 | **1.23x** ($+23) | 1.56x |  | pumpfun | 2026-03-20 19:42 |

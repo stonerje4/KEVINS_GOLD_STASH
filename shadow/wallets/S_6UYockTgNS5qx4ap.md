@@ -1,6 +1,6 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-21 13:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-21 13:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (15 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $-160 |
-| 🏦 Total | **$-343** |
+| 📦 Unrealized | $-168 |
+| 🏦 Total | **$-351** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 ChibiTrump | $0.000032 | **0.73x** ($-27) | 1.06x |  | pumpfun | 2026-03-21 12:31 |
+| 🔴 ChibiTrump | $0.000032 | **0.65x** ($-35) | 1.06x |  | pumpfun | 2026-03-21 12:31 |
 | 🟡 CHIBI | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 06:12 |
 | 🔴 Kin-kun | $0.000009 | **0.86x** ($-14) | 1.41x |  | pumpfun | 2026-03-20 09:11 |
 | 🟡 CHIBIT | $0.000009 | **1.15x** ($+15) | 1.32x |  | pumpfun | 2026-03-20 08:30 |

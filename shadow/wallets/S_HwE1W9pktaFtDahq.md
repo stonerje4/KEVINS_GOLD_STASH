@@ -1,6 +1,6 @@
 # Wallet: `HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q`
 
-> [GMGN](https://gmgn.ai/sol/address/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | [Solscan](https://solscan.io/account/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | Updated: 2026-03-21 13:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | [Solscan](https://solscan.io/account/HwE1W9pktaFtDahqx1i5whPrVsx6MMAy3rMCmtRSC77Q) | Updated: 2026-03-21 13:10 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 9 (7 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
-| 📦 Unrealized | $-36 |
+| 📦 Unrealized | $-35 |
 | 🏦 Total | **$-158** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBIT | $0.000008 | **1.26x** ($+26) | 1.46x |  | pumpfun | 2026-03-21 12:19 |
+| 🟡 CHIBIT | $0.000008 | **1.27x** ($+27) | 1.46x |  | pumpfun | 2026-03-21 12:19 |
 | 🔴 ARENA | $0.000015 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 20:25 |
 | 🟡 Civil Claude | $0.000019 | **1.04x** ($+4) | 1.60x |  | pumpfun | 2026-03-20 12:28 |
 | 🔴 clod | $0.000016 | **0.86x** ($-14) | 2.55x | ✅ | pumpswap | 2026-03-20 11:59 |
