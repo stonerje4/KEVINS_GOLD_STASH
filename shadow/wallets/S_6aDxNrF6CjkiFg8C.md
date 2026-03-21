@@ -1,6 +1,6 @@
 # Wallet: `6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y`
 
-> [GMGN](https://gmgn.ai/sol/address/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | [Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-21 14:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | [Solscan](https://solscan.io/account/6aDxNrF6CjkiFg8C8Xdm4PWwsoEpkF5Z3hdopzuVrq5Y) | Updated: 2026-03-21 14:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (6 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-133 |
-| 📦 Unrealized | $-173 |
-| 🏦 Total | **$-306** |
+| 📦 Unrealized | $-140 |
+| 🏦 Total | **$-273** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.67x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 twttr | $0.000014 | **0.53x** ($-47) | 1.02x |  | pumpfun | 2026-03-21 14:33 |
+| 🔴 twttr | $0.000014 | **0.85x** ($-15) | 1.16x |  | pumpfun | 2026-03-21 14:33 |
 | 🟡 5Tb4cqwc | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 14:02 |
 | 🔴 Grokputer | $0.000007 | **0.76x** ($-24) | 1.30x |  | pumpswap | 2026-03-20 19:51 |
 | 🔴 Happiness | $0.000006 | **0.43x** ($-57) | 1.26x |  | pumpfun | 2026-03-20 13:41 |

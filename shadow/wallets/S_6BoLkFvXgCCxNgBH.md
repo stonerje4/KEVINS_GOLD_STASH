@@ -1,6 +1,6 @@
 # Wallet: `6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE`
 
-> [GMGN](https://gmgn.ai/sol/address/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | [Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-21 14:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | [Solscan](https://solscan.io/account/6BoLkFvXgCCxNgBH1Z5BJrKJFkCYcpe3wpKSANnSTvE) | Updated: 2026-03-21 14:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (8 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-124 |
-| 📦 Unrealized | $-109 |
-| 🏦 Total | **$-234** |
+| 📦 Unrealized | $-100 |
+| 🏦 Total | **$-225** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.38x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 emy | $0.000020 | **0.63x** ($-37) | 1.10x |  | pumpswap | 2026-03-21 14:28 |
+| 🔴 emy | $0.000020 | **0.72x** ($-28) | 1.10x |  | pumpswap | 2026-03-21 14:28 |
 | 🟡 EVERYTHING | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:08 |
 | 🟡 TIME | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 00:52 |
 | 🟡 few | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 00:13 |

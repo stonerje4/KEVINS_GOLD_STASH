@@ -1,6 +1,6 @@
 # Wallet: `HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX`
 
-> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-21 14:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | [Solscan](https://solscan.io/account/HBYfbfZUJEU3d17gmGLVuiJr6hNyDhhkpDeCYKxGVKRX) | Updated: 2026-03-21 14:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (3 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $+259 |
-| 📦 Unrealized | $-36 |
-| 🏦 Total | **$+223** |
+| 📦 Unrealized | $-64 |
+| 🏦 Total | **$+195** |
 | Best ROI | 5.51x |
 | Avg ROI | 1.65x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 JIANG | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:34 |
-| 🔴 Handprint | $0.000011 | **0.73x** ($-27) | 1.17x |  | pumpswap | 2026-03-20 18:25 |
+| 🔴 Handprint | $0.000011 | **0.46x** ($-54) | 1.17x |  | pumpswap | 2026-03-20 18:25 |
 | 🔴 Obsessed | $0.000010 | **0.90x** ($-10) | 1.78x |  | pumpswap | 2026-03-20 03:08 |
 
 ## Closed Positions

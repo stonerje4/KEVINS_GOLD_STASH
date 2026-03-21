@@ -1,6 +1,6 @@
 # Wallet: `2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71`
 
-> [GMGN](https://gmgn.ai/sol/address/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | [Solscan](https://solscan.io/account/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | Updated: 2026-03-21 14:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | [Solscan](https://solscan.io/account/2CHrnc2LyagAbMaMFgthiDWh7ZZ9zT9TF8WEJf7MNE71) | Updated: 2026-03-21 14:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (2 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $+137 |
-| 🏦 Total | **$-46** |
+| 📦 Unrealized | $+143 |
+| 🏦 Total | **$-40** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.69x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PIGCASSO  | $0.000014 | **0.86x** ($-14) | 1.02x |  | pumpfun | 2026-03-21 14:38 |
+| 🔴 PIGCASSO  | $0.000014 | **0.92x** ($-8) | 1.02x |  | pumpfun | 2026-03-21 14:38 |
 | 🟢 13B2d6mP | $0.000007 | **4.78x** ($+378) | 4.94x | ✅ | pumpfun | 2026-03-20 21:14 |
 
 ## Closed Positions

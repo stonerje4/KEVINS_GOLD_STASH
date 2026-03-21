@@ -1,6 +1,6 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-21 14:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-21 14:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (12 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $+153 |
-| 📦 Unrealized | $-15 |
-| 🏦 Total | **$+138** |
+| 📦 Unrealized | $+27 |
+| 🏦 Total | **$+180** |
 | Best ROI | 2.87x |
 | Avg ROI | 1.38x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 PIGCASSO  | $0.000012 | **1.02x** ($+2) | 1.21x |  | pumpfun | 2026-03-21 14:38 |
-| 🔴 twttr | $0.000013 | **0.58x** ($-42) | 1.13x |  | pumpfun | 2026-03-21 14:33 |
+| 🟡 PIGCASSO  | $0.000012 | **1.09x** ($+9) | 1.21x |  | pumpfun | 2026-03-21 14:38 |
+| 🔴 twttr | $0.000013 | **0.93x** ($-7) | 1.27x |  | pumpfun | 2026-03-21 14:33 |
 | 🟢 Cigify | $0.000012 | **3.00x** ($+200) | 3.00x | ✅ | pumpfun | 2026-03-20 21:02 |
 | 🔴 OpenRocket | $0.000005 | **0.52x** ($-48) | 1.44x |  | pumpfun | 2026-03-20 19:39 |
 | 🟢 Immortalism | $0.000006 | **2.78x** ($+178) | 3.89x | ✅ | pumpfun | 2026-03-20 15:24 |

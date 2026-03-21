@@ -1,6 +1,6 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-21 14:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-21 14:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (14 open, 5 closed) |
 | W/L | 3/2 (60%) |
 | 💵 Realized | $+35 |
-| 📦 Unrealized | $+26 |
-| 🏦 Total | **$+61** |
+| 📦 Unrealized | $+28 |
+| 🏦 Total | **$+63** |
 | Best ROI | 1.49x |
 | Avg ROI | 1.07x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 omg | $0.000006 | **0.73x** ($-27) | 1.70x |  | pumpswap | 2026-03-21 05:09 |
-| 🔴 pa | $0.000012 | **0.77x** ($-23) | 1.85x |  | pumpfun | 2026-03-21 04:56 |
+| 🔴 pa | $0.000012 | **0.78x** ($-22) | 1.85x |  | pumpfun | 2026-03-21 04:56 |
 | 🔴 PEDO | $0.000007 | **0.50x** ($-50) | 1.16x |  | pumpfun | 2026-03-21 04:42 |
 | 🔴 MOCHI | $0.000019 | **0.86x** ($-14) | 1.02x |  | pumpswap | 2026-03-21 02:24 |
 | 🟡 TRACEWAY | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:00 |

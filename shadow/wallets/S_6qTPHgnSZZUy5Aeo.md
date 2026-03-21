@@ -1,6 +1,6 @@
 # Wallet: `6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy`
 
-> [GMGN](https://gmgn.ai/sol/address/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy) | [Solscan](https://solscan.io/account/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy) | Updated: 2026-03-21 14:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy) | [Solscan](https://solscan.io/account/6qTPHgnSZZUy5AeoqDBtFXvuPRSMT7i6kjx6JM3Q8nKy) | Updated: 2026-03-21 14:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (3 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-150 |
-| 📦 Unrealized | $-60 |
-| 🏦 Total | **$-209** |
+| 📦 Unrealized | $-67 |
+| 🏦 Total | **$-216** |
 | Best ROI | 1.35x |
 | Avg ROI | 0.63x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 GS | $0.000008 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-21 09:37 |
+| 🔴 GS | $0.000008 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-21 09:37 |
 | 🔴 RATHBUN | $0.000009 | **0.91x** ($-9) | 1.19x |  | pumpswap | 2026-03-20 03:01 |
 | 🔴 ZOO | $0.000015 | **0.81x** ($-19) | 1.11x |  | pumpswap | 2026-03-20 00:39 |
 

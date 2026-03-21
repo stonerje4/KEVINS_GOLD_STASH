@@ -1,6 +1,6 @@
 # Wallet: `HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL`
 
-> [GMGN](https://gmgn.ai/sol/address/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | [Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-21 14:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | [Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-21 14:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (10 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-40 |
-| 🏦 Total | **$-40** |
+| 📦 Unrealized | $-43 |
+| 🏦 Total | **$-43** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 UGCR | $0.000005 | **0.68x** ($-32) | 1.00x |  | pumpfun | 2026-03-21 06:51 |
+| 🔴 UGCR | $0.000005 | **0.66x** ($-34) | 1.00x |  | pumpfun | 2026-03-21 06:51 |
 | 🟡 BUFFALO | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:54 |
 | 🟡 Jiji | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:03 |
 | 🟡 COOK | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:01 |

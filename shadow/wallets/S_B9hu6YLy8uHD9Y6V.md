@@ -1,16 +1,16 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-21 14:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-21 14:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 40 (5 open, 35 closed) |
-| W/L | 0/35 (0%) |
-| 💵 Realized | $-3,497 |
+| Positions | 41 (5 open, 36 closed) |
+| W/L | 0/36 (0%) |
+| 💵 Realized | $-3,596 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-3,497** |
+| 🏦 Total | **$-3,596** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -28,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Grace | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 14:50 → 2026-03-21 14:50 |
 | 🔴 Babyify | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 14:15 → 2026-03-21 14:15 |
 | 🔴 アトム | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 13:20 → 2026-03-21 13:20 |
 | 🔴 Tsuki | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 12:35 → 2026-03-21 12:35 |
