@@ -1,6 +1,6 @@
 # Wallet: `DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8`
 
-> [GMGN](https://gmgn.ai/sol/address/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | [Solscan](https://solscan.io/account/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | Updated: 2026-03-21 12:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | [Solscan](https://solscan.io/account/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | Updated: 2026-03-21 13:00 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Apple | $0.000022 | **0.62x** ($-38) | 1.01x |  | pumpswap | 2026-03-20 18:49 |
-| 🟡 Strawberita | $0.000034 | **1.05x** ($+5) | 2.49x | ✅ | pumpswap | 2026-03-19 22:48 |
+| 🟡 Strawberita | $0.000034 | **1.06x** ($+6) | 2.49x | ✅ | pumpswap | 2026-03-19 22:48 |
 
 ## Closed Positions
 
