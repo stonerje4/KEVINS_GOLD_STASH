@@ -1,12 +1,12 @@
 # Wallet: `5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g`
 
-> [GMGN](https://gmgn.ai/sol/address/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | [Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-21 05:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | [Solscan](https://solscan.io/account/5mw53Ft2jFTJDh1iXzXoSLG83kYH5S1B5uQoq1ygxK5g) | Updated: 2026-03-21 05:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (6 open, 6 closed) |
+| Positions | 13 (7 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-153 |
 | 📦 Unrealized | $+122 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 LIBERTY | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-21 05:00 |
 | 🟢 p-token | $0.000010 | **3.74x** ($+274) | 3.74x | ✅ | pumpfun | 2026-03-20 21:57 |
 | 🟢 TOKENMAXXING | $0.000015 | **2.40x** ($+140) | 2.48x | ✅ | pumpfun | 2026-03-20 21:16 |
 | 🟡 Look | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |
