@@ -1,18 +1,18 @@
 # Wallet: `3aK9HWN81oG56KcsLENEg39E8CoKYBv15vNzXgfiV2Bj`
 
-> [GMGN](https://gmgn.ai/sol/address/3aK9HWN81oG56KcsLENEg39E8CoKYBv15vNzXgfiV2Bj) | [Solscan](https://solscan.io/account/3aK9HWN81oG56KcsLENEg39E8CoKYBv15vNzXgfiV2Bj) | Updated: 2026-03-21 12:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/3aK9HWN81oG56KcsLENEg39E8CoKYBv15vNzXgfiV2Bj) | [Solscan](https://solscan.io/account/3aK9HWN81oG56KcsLENEg39E8CoKYBv15vNzXgfiV2Bj) | Updated: 2026-03-21 12:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (3 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-128 |
+| Positions | 6 (3 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-214 |
 | 📦 Unrealized | $+92 |
-| 🏦 Total | **$-36** |
+| 🏦 Total | **$-122** |
 | Best ROI | 0.38x |
-| Avg ROI | 0.36x |
+| Avg ROI | 0.29x |
 
 ## Open Positions
 
@@ -26,6 +26,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Ap2GvSeT | 0.14x | $-86 | stop_loss | 1.04x | pumpfun | 2026-03-21 12:28 → 2026-03-21 12:29 |
 | 🔴 TCHIBA | 0.34x | $-66 | stop_loss | 1.32x | pumpfun | 2026-03-20 13:59 → 2026-03-20 14:04 |
 | 🔴 CHIPPIN | 0.38x | $-62 | stop_loss | 1.25x | pumpfun | 2026-03-20 13:36 → 2026-03-20 13:45 |
 

@@ -1,6 +1,6 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 12:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 12:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 20 (13 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-289 |
-| 📦 Unrealized | $-195 |
-| 🏦 Total | **$-484** |
+| 📦 Unrealized | $-190 |
+| 🏦 Total | **$-479** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.59x |
 
@@ -20,15 +20,15 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 GIGACHAD | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 12:04 |
 | 🟢 Tsuki | $0.000018 | **2.07x** ($+107) | 2.07x | ✅ | pumpfun | 2026-03-21 11:37 |
-| 🔴 GoutGout | $0.000015 | **0.63x** ($-37) | 1.09x |  | pumpfun | 2026-03-21 11:27 |
-| 🔴 PIP | $0.000014 | **0.68x** ($-32) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
-| 🔴 Optimus+PV | $0.000010 | **0.62x** ($-38) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
+| 🔴 GoutGout | $0.000015 | **0.65x** ($-35) | 1.09x |  | pumpfun | 2026-03-21 11:27 |
+| 🔴 PIP | $0.000014 | **0.66x** ($-34) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
+| 🔴 Optimus+PV | $0.000010 | **0.66x** ($-34) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
 | 🟡 BUFFALO | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 09:08 |
 | 🟡 Babyify | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:21 |
 | 🔴 Elongate | $0.000010 | **0.47x** ($-53) | 1.17x |  | pumpfun | 2026-03-20 23:42 |
 | 🔴 BABYCHIBI | $0.000010 | **0.84x** ($-16) | 1.02x |  | pumpfun | 2026-03-20 23:40 |
 | 🔴 Liqua | $0.000012 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
-| 🟡 Civil Claude | $0.000015 | **1.11x** ($+11) | 2.00x | ✅ | pumpfun | 2026-03-20 12:12 |
+| 🟡 Civil Claude | $0.000015 | **1.13x** ($+13) | 2.00x | ✅ | pumpfun | 2026-03-20 12:12 |
 | 🔴 Imaginify | $0.000010 | **0.85x** ($-15) | 1.56x |  | pumpfun | 2026-03-20 08:19 |
 | 🔴 DD | $0.000006 | **0.91x** ($-9) | 1.01x |  | pumpfun | 2026-03-19 22:39 |
 

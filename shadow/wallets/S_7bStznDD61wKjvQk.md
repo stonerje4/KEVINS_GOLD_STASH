@@ -1,16 +1,16 @@
 # Wallet: `7bStznDD61wKjvQkjQRcwe9T5zgVHTZ8Qq95MexoPKtX`
 
-> [GMGN](https://gmgn.ai/sol/address/7bStznDD61wKjvQkjQRcwe9T5zgVHTZ8Qq95MexoPKtX) | [Solscan](https://solscan.io/account/7bStznDD61wKjvQkjQRcwe9T5zgVHTZ8Qq95MexoPKtX) | Updated: 2026-03-21 12:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/7bStznDD61wKjvQkjQRcwe9T5zgVHTZ8Qq95MexoPKtX) | [Solscan](https://solscan.io/account/7bStznDD61wKjvQkjQRcwe9T5zgVHTZ8Qq95MexoPKtX) | Updated: 2026-03-21 12:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 1 (0 open, 1 closed) |
+| Positions | 2 (1 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+43 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$+43** |
+| 📦 Unrealized | $+12 |
+| 🏦 Total | **$+55** |
 | Best ROI | 1.43x |
 | Avg ROI | 1.43x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 DRONE | $0.000012 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-21 12:27 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM`
 
-> [GMGN](https://gmgn.ai/sol/address/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | [Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-21 12:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | [Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-21 12:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (7 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-176 |
-| 📦 Unrealized | $-60 |
-| 🏦 Total | **$-236** |
+| 📦 Unrealized | $-63 |
+| 🏦 Total | **$-239** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.65x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Miki | $0.000007 | **1.20x** ($+20) | 1.28x |  | pumpfun | 2026-03-21 12:03 |
+| 🟡 Miki | $0.000007 | **1.17x** ($+17) | 1.28x |  | pumpfun | 2026-03-21 12:03 |
 | 🔴 pa | $0.000009 | **0.97x** ($-3) | 1.01x |  | pumpfun | 2026-03-21 11:59 |
 | 🔴 AGS | $0.000012 | **0.99x** ($-1) | 1.07x |  | pumpfun | 2026-03-21 00:00 |
 | 🔴 NATO | $0.000005 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
