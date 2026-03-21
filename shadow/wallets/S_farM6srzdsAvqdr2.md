@@ -1,6 +1,6 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 13:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 13:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (14 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-289 |
-| 📦 Unrealized | $-203 |
-| 🏦 Total | **$-492** |
+| 📦 Unrealized | $-165 |
+| 🏦 Total | **$-454** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.59x |
 
@@ -18,10 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TRUDY | $0.000011 | **1.07x** ($+7) | 1.09x |  | pumpfun | 2026-03-21 13:26 |
+| 🟡 TRUDY | $0.000011 | **1.42x** ($+42) | 1.43x |  | pumpfun | 2026-03-21 13:26 |
 | 🟡 GIGACHAD | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 12:04 |
 | 🟢 Tsuki | $0.000018 | **2.07x** ($+107) | 2.07x | ✅ | pumpfun | 2026-03-21 11:37 |
-| 🔴 GoutGout | $0.000015 | **0.59x** ($-41) | 1.26x |  | pumpfun | 2026-03-21 11:27 |
+| 🔴 GoutGout | $0.000015 | **0.63x** ($-37) | 1.26x |  | pumpfun | 2026-03-21 11:27 |
 | 🔴 PIP | $0.000014 | **0.56x** ($-44) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
 | 🔴 Optimus+PV | $0.000010 | **0.64x** ($-36) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
 | 🟡 BUFFALO | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 09:08 |

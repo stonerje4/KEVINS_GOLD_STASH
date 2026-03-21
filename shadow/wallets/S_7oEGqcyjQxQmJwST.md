@@ -1,6 +1,6 @@
 # Wallet: `7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr`
 
-> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 13:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 13:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (11 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-137 |
-| 📦 Unrealized | $+75 |
-| 🏦 Total | **$-62** |
+| 📦 Unrealized | $+45 |
+| 🏦 Total | **$-92** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.54x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 TAMA | $0.000005 | **0.56x** ($-44) | 1.08x |  | pumpfun | 2026-03-21 12:34 |
-| 🔴 GUI | $0.000009 | **0.81x** ($-19) | 1.10x |  | pumpfun | 2026-03-21 11:29 |
+| 🔴 GUI | $0.000009 | **0.50x** ($-50) | 1.10x |  | pumpfun | 2026-03-21 11:29 |
 | 🟢 Tsuki | $0.000007 | **4.95x** ($+395) | 4.95x | ✅ | pumpfun | 2026-03-21 10:14 |
 | 🔴 OPTITRUMP | $0.000006 | **0.56x** ($-44) | 1.47x |  | pumpfun | 2026-03-21 09:45 |
 | 🔴 BUDDY | $0.000007 | **0.41x** ($-59) | 1.06x |  | pumpfun | 2026-03-21 09:27 |

@@ -1,6 +1,6 @@
 # Wallet: `5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p`
 
-> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-21 13:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | [Solscan](https://solscan.io/account/5hiiMugYNkYGmx8jR7RGLGJtgvTVxLteJtYbg6UbyJ2p) | Updated: 2026-03-21 13:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (9 open, 9 closed) |
 | W/L | 0/9 (0%) |
 | 💵 Realized | $-539 |
-| 📦 Unrealized | $-62 |
-| 🏦 Total | **$-600** |
+| 📦 Unrealized | $-57 |
+| 🏦 Total | **$-596** |
 | Best ROI | 0.79x |
 | Avg ROI | 0.40x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 OPTIMUS | $0.000025 | **0.79x** ($-21) | 1.05x |  | pumpswap | 2026-03-21 08:18 |
-| 🔴 benk | $0.000007 | **0.41x** ($-59) | 1.00x |  | pumpfun | 2026-03-21 06:54 |
+| 🔴 OPTIMUS | $0.000025 | **0.83x** ($-17) | 1.05x |  | pumpswap | 2026-03-21 08:18 |
+| 🔴 benk | $0.000007 | **0.40x** ($-60) | 1.00x |  | pumpfun | 2026-03-21 06:54 |
 | 🔴 Ray | $0.000006 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 23:18 |
 | 🟡 p-token | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:22 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:09 |

@@ -1,6 +1,6 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 13:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 13:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 30 (18 open, 12 closed) |
 | W/L | 0/12 (0%) |
 | 💵 Realized | $-633 |
-| 📦 Unrealized | $-40 |
-| 🏦 Total | **$-673** |
+| 📦 Unrealized | $+10 |
+| 🏦 Total | **$-622** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.47x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SPANBERGER | $0.000018 | **0.66x** ($-34) | 1.29x |  | pumpfun | 2026-03-21 13:13 |
-| 🔴 TRUDY | $0.000014 | **0.81x** ($-19) | 1.93x |  | pumpfun | 2026-03-21 11:17 |
+| 🔴 SPANBERGER | $0.000018 | **0.87x** ($-13) | 1.29x |  | pumpfun | 2026-03-21 13:13 |
+| 🟡 TRUDY | $0.000014 | **1.07x** ($+7) | 1.93x |  | pumpfun | 2026-03-21 11:17 |
 | 🔴 LBARK | $0.000005 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-21 00:28 |
 | 🟡 few | $0.000022 | **1.67x** ($+67) | 1.67x |  | pumpfun | 2026-03-20 23:25 |
 | 🔴 BVG | $0.000007 | **0.40x** ($-60) | 1.00x |  | pumpfun | 2026-03-20 20:47 |
@@ -35,7 +35,7 @@
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🟡 Zhdun | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:33 |
 | 🟢 SIGNAL | $0.000018 | **2.03x** ($+103) | 2.03x | ✅ | pumpfun | 2026-03-20 09:28 |
-| 🟡 EV01 | $0.000017 | **1.42x** ($+42) | 2.31x | ✅ | pumpswap | 2026-03-20 08:19 |
+| 🟡 EV01 | $0.000017 | **1.48x** ($+48) | 2.31x | ✅ | pumpswap | 2026-03-20 08:19 |
 
 ## Closed Positions
 
