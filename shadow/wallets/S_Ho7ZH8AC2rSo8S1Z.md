@@ -1,6 +1,6 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 02:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 02:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 26 (16 open, 10 closed) |
 | W/L | 1/9 (10%) |
 | 💵 Realized | $-23 |
-| 📦 Unrealized | $+38 |
-| 🏦 Total | **$+15** |
+| 📦 Unrealized | $+34 |
+| 🏦 Total | **$+11** |
 | Best ROI | 5.85x |
 | Avg ROI | 0.98x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Beecat | $0.000009 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-21 00:27 |
+| 🔴 Beecat | $0.000009 | **0.49x** ($-51) | 1.00x |  | pumpswap | 2026-03-21 00:27 |
 | 🔴 Income | $0.000020 | **0.77x** ($-23) | 1.36x |  | pumpswap | 2026-03-20 23:51 |
 | 🟡 TOP1 | $0.000023 | **1.59x** ($+59) | 1.59x |  | pumpfun | 2026-03-20 22:35 |
 | 🟡 EVERYTHING | $0.000025 | **1.44x** ($+44) | 1.44x |  | pumpfun | 2026-03-20 22:26 |
@@ -26,7 +26,7 @@
 | 🟡 TOKENMAXXING | $0.000028 | **1.24x** ($+24) | 1.29x |  | pumpfun | 2026-03-20 21:36 |
 | 🔴 Norriscoin | $0.000007 | **0.84x** ($-16) | 1.18x |  | pumpfun | 2026-03-20 16:17 |
 | 🟡 HELLO | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:14 |
-| 🔴 wallahi | $0.000036 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 15:10 |
+| 🔴 wallahi | $0.000036 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 15:10 |
 | 🟡 MOSHI | $0.000022 | **1.65x** ($+65) | 1.65x |  | pumpfun | 2026-03-20 13:12 |
 | 🟡 AIMAXXING | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:19 |
 | 🔴 ChibiTrump | $0.000029 | **0.60x** ($-40) | 1.00x |  | pumpfun | 2026-03-20 11:02 |

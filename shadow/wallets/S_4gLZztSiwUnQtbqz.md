@@ -1,6 +1,6 @@
 # Wallet: `4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u`
 
-> [GMGN](https://gmgn.ai/sol/address/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | [Solscan](https://solscan.io/account/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | Updated: 2026-03-21 02:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | [Solscan](https://solscan.io/account/4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u) | Updated: 2026-03-21 02:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (3 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $-32 |
-| 📦 Unrealized | $+141 |
-| 🏦 Total | **$+109** |
+| 📦 Unrealized | $+204 |
+| 🏦 Total | **$+172** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.92x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 PISSTINA | $0.000009 | **2.11x** ($+111) | 2.88x | ✅ | pumpfun | 2026-03-21 02:18 |
+| 🟢 PISSTINA | $0.000009 | **3.98x** ($+298) | 3.98x | ✅ | pumpfun | 2026-03-21 02:18 |
 | 🟢 PISS | $0.000018 | **2.08x** ($+108) | 2.08x | ✅ | pumpfun | 2026-03-21 01:24 |
 | 🟡 9Yqs3sVA | $0.000014 | **1.62x** ($+62) | 2.62x | ✅ | pumpfun | 2026-03-20 02:07 |
 

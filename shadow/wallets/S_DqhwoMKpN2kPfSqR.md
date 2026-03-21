@@ -1,6 +1,6 @@
 # Wallet: `DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB`
 
-> [GMGN](https://gmgn.ai/sol/address/DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB) | [Solscan](https://solscan.io/account/DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB) | Updated: 2026-03-21 02:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB) | [Solscan](https://solscan.io/account/DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB) | Updated: 2026-03-21 02:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-34 |
-| 🏦 Total | **$-34** |
+| 📦 Unrealized | $-35 |
+| 🏦 Total | **$-35** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Da2pZ2ie | $0.000006 | **0.66x** ($-34) | 1.41x |  | pumpfun | 2026-03-21 02:19 |
+| 🔴 Da2pZ2ie | $0.000006 | **0.65x** ($-35) | 1.41x |  | pumpfun | 2026-03-21 02:19 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g`
 
-> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-21 02:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | [Solscan](https://solscan.io/account/5FnE3q4tcDkEjRGuHgcxoBLXoZjWXDE5xEpJyneHDc9g) | Updated: 2026-03-21 02:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 14 (10 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $+153 |
-| 📦 Unrealized | $+27 |
-| 🏦 Total | **$+180** |
+| 📦 Unrealized | $+26 |
+| 🏦 Total | **$+178** |
 | Best ROI | 2.87x |
 | Avg ROI | 1.38x |
 
@@ -25,7 +25,7 @@
 | 🟡 Effect | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:11 |
 | 🟡 MFT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:31 |
 | 🟡 Cow | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:22 |
-| 🔴 world | $0.000030 | **0.71x** ($-29) | 1.16x |  | pumpswap | 2026-03-20 01:42 |
+| 🔴 world | $0.000030 | **0.70x** ($-30) | 1.16x |  | pumpswap | 2026-03-20 01:42 |
 | 🔴 DRIVE | $0.000026 | **0.62x** ($-38) | 1.40x |  | pumpfun | 2026-03-20 01:03 |
 | 🔴 SPODER | $0.000012 | **0.74x** ($-26) | 1.59x |  | pumpswap | 2026-03-20 00:41 |
 
