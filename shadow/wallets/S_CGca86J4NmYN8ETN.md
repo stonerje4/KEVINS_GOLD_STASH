@@ -1,6 +1,6 @@
 # Wallet: `CGca86J4NmYN8ETNT9sDrsExNLEck9YThLoURKC7YFFN`
 
-> [GMGN](https://gmgn.ai/sol/address/CGca86J4NmYN8ETNT9sDrsExNLEck9YThLoURKC7YFFN) | [Solscan](https://solscan.io/account/CGca86J4NmYN8ETNT9sDrsExNLEck9YThLoURKC7YFFN) | Updated: 2026-03-21 02:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/CGca86J4NmYN8ETNT9sDrsExNLEck9YThLoURKC7YFFN) | [Solscan](https://solscan.io/account/CGca86J4NmYN8ETNT9sDrsExNLEck9YThLoURKC7YFFN) | Updated: 2026-03-21 02:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $+31 |
-| 🏦 Total | **$-45** |
+| 📦 Unrealized | $+32 |
+| 🏦 Total | **$-44** |
 | Best ROI | 0.24x |
 | Avg ROI | 0.24x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WRT | $0.000022 | **1.31x** ($+31) | 1.38x |  | pumpswap | 2026-03-20 12:11 |
+| 🟡 WRT | $0.000022 | **1.32x** ($+32) | 1.38x |  | pumpswap | 2026-03-20 12:11 |
 | 🟡 NBR | $0.000015 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 12:02 |
 
 ## Closed Positions

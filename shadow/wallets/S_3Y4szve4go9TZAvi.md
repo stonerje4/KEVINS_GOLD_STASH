@@ -1,6 +1,6 @@
 # Wallet: `3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf`
 
-> [GMGN](https://gmgn.ai/sol/address/3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf) | [Solscan](https://solscan.io/account/3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf) | Updated: 2026-03-21 02:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf) | [Solscan](https://solscan.io/account/3Y4szve4go9TZAviJjT38teDF3813XG3wHzYFPyMmFVf) | Updated: 2026-03-21 02:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+8 |
-| 🏦 Total | **$+8** |
+| 📦 Unrealized | $+7 |
+| 🏦 Total | **$+7** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Gany | $0.000033 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 08:49 |
+| 🔴 Gany | $0.000033 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 08:49 |
 | 🟡 TRUST | $0.000006 | **1.27x** ($+27) | 1.36x |  | pumpswap | 2026-03-20 08:49 |
 
 ## Closed Positions
