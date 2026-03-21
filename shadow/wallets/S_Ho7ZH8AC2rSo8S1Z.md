@@ -1,26 +1,25 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 00:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 00:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (17 open, 8 closed) |
-| W/L | 1/7 (12%) |
-| 💵 Realized | $+102 |
-| 📦 Unrealized | $+111 |
-| 🏦 Total | **$+213** |
+| Positions | 25 (16 open, 9 closed) |
+| W/L | 1/8 (11%) |
+| 💵 Realized | $+38 |
+| 📦 Unrealized | $+77 |
+| 🏦 Total | **$+114** |
 | Best ROI | 5.85x |
-| Avg ROI | 1.13x |
+| Avg ROI | 1.04x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Froge | $0.000008 | **1.49x** ($+49) | 1.66x |  | pumpfun | 2026-03-21 00:03 |
 | 🟡 Income | $0.000020 | **1.19x** ($+19) | 1.31x |  | pumpswap | 2026-03-20 23:51 |
-| 🟡 TOP1 | $0.000023 | **1.37x** ($+37) | 1.37x |  | pumpfun | 2026-03-20 22:35 |
+| 🟡 TOP1 | $0.000023 | **1.52x** ($+52) | 1.52x |  | pumpfun | 2026-03-20 22:35 |
 | 🟡 EVERYTHING | $0.000025 | **1.44x** ($+44) | 1.44x |  | pumpfun | 2026-03-20 22:26 |
 | 🔴 Elongate | $0.000018 | **0.66x** ($-34) | 1.21x |  | pumpswap | 2026-03-20 22:24 |
 | 🟡 PUNCHDENG | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 22:17 |
@@ -40,6 +39,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Froge | 0.36x | $-64 | stop_loss | 1.69x | pumpfun | 2026-03-21 00:03 → 2026-03-21 00:06 |
 | 🔴 LIBERTY | 0.40x | $-60 | stop_loss | 1.18x | pumpfun | 2026-03-20 22:46 → 2026-03-20 22:46 |
 | 🔴 genocide | 0.37x | $-63 | stop_loss | 1.21x | pumpswap | 2026-03-20 22:06 → 2026-03-20 22:42 |
 | 🔴 Monitoring | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 18:05 → 2026-03-20 18:05 |

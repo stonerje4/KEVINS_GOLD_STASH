@@ -1,16 +1,16 @@
 # Wallet: `6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc`
 
-> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 00:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 00:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 12 (12 open, 0 closed) |
+| Positions | 13 (13 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-91 |
-| 🏦 Total | **$-91** |
+| 📦 Unrealized | $-77 |
+| 🏦 Total | **$-77** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 lmeow | $0.000020 | **1.10x** ($+10) | 1.21x |  | pumpswap | 2026-03-21 00:05 |
 | 🔴 SMCI | $0.000007 | **1.00x** ($-0) | 1.27x |  | pumpswap | 2026-03-20 23:25 |
-| 🔴 TADC | $0.000031 | **0.81x** ($-19) | 1.37x |  | pumpswap | 2026-03-20 23:18 |
+| 🔴 TADC | $0.000031 | **0.85x** ($-15) | 1.37x |  | pumpswap | 2026-03-20 23:18 |
 | 🔴 PunchDeng | $0.000005 | **0.63x** ($-37) | 1.32x |  | pumpswap | 2026-03-20 22:22 |
 | 🟡 Elongate | $0.000006 | **1.18x** ($+18) | 1.32x |  | pumpswap | 2026-03-20 22:21 |
 | 🔴 ACM | $0.000008 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 21:14 |

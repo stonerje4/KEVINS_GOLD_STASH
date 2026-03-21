@@ -1,6 +1,6 @@
 # Wallet: `J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT`
 
-> [GMGN](https://gmgn.ai/sol/address/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | [Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-21 00:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | [Solscan](https://solscan.io/account/J8epX9Ckr1exNn9DAS1x4xXa3DDLWjpTAKyNc9EAMdnT) | Updated: 2026-03-21 00:10 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-244 |
 | 📦 Unrealized | $-75 |
-| 🏦 Total | **$-320** |
+| 🏦 Total | **$-319** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 MOCHI | $0.000022 | **0.66x** ($-34) | 1.66x |  | pumpfun | 2026-03-20 05:35 |
+| 🔴 MOCHI | $0.000022 | **0.67x** ($-33) | 1.66x |  | pumpfun | 2026-03-20 05:35 |
 | 🔴 CHIBIMINAJ | $0.000012 | **0.58x** ($-42) | 1.47x |  | pumpfun | 2026-03-19 23:43 |
 
 ## Closed Positions

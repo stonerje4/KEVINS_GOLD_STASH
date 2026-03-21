@@ -1,6 +1,6 @@
 # Wallet: `DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3`
 
-> [GMGN](https://gmgn.ai/sol/address/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | [Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-21 00:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | [Solscan](https://solscan.io/account/DzNeAPumaqotS4AFdymM5cpsyuAXmK3D9AuHonqz6m3) | Updated: 2026-03-21 00:10 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-186 |
 | 📦 Unrealized | $-71 |
-| 🏦 Total | **$-256** |
+| 🏦 Total | **$-257** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -21,7 +21,7 @@
 | 🟡 Massive | $0.000014 | **1.27x** ($+27) | 1.66x |  | pumpswap | 2026-03-20 21:21 |
 | 🟡 TITUATION | $0.000028 | **1.16x** ($+16) | 1.90x |  | pumpswap | 2026-03-20 18:09 |
 | 🟡 MOSHI | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
-| 🔴 PHM | $0.000007 | **0.84x** ($-16) | 1.33x |  | pumpfun | 2026-03-20 13:21 |
+| 🔴 PHM | $0.000007 | **0.83x** ($-17) | 1.33x |  | pumpfun | 2026-03-20 13:21 |
 | 🟡 Rabbi Nose | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:47 |
 | 🔴 Taylor | $0.000015 | **0.46x** ($-54) | 1.01x |  | pumpswap | 2026-03-20 00:19 |
 | 🔴 TRASHBAG | $0.000007 | **0.57x** ($-43) | 1.34x |  | pumpswap | 2026-03-19 23:39 |

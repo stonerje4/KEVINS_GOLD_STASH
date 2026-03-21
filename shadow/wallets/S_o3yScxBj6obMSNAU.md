@@ -1,6 +1,6 @@
 # Wallet: `o3yScxBj6obMSNAUMwrPB3NcqMuxjL5RzCDZphhMc7D`
 
-> [GMGN](https://gmgn.ai/sol/address/o3yScxBj6obMSNAUMwrPB3NcqMuxjL5RzCDZphhMc7D) | [Solscan](https://solscan.io/account/o3yScxBj6obMSNAUMwrPB3NcqMuxjL5RzCDZphhMc7D) | Updated: 2026-03-21 00:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/o3yScxBj6obMSNAUMwrPB3NcqMuxjL5RzCDZphhMc7D) | [Solscan](https://solscan.io/account/o3yScxBj6obMSNAUMwrPB3NcqMuxjL5RzCDZphhMc7D) | Updated: 2026-03-21 00:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-19 |
-| 📦 Unrealized | $-67 |
-| 🏦 Total | **$-86** |
+| 📦 Unrealized | $-62 |
+| 🏦 Total | **$-81** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.81x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BLON | $0.000028 | **0.51x** ($-49) | 1.27x |  | pumpswap | 2026-03-20 22:20 |
+| 🔴 BLON | $0.000028 | **0.56x** ($-44) | 1.27x |  | pumpswap | 2026-03-20 22:20 |
 | 🔴 𝕏 | $0.000029 | **0.81x** ($-19) | 1.03x |  | pumpswap | 2026-03-20 19:11 |
 
 ## Closed Positions

@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-21 00:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-21 00:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (13 open, 4 closed) |
 | W/L | 1/3 (25%) |
 | 💵 Realized | $-101 |
-| 📦 Unrealized | $+236 |
-| 🏦 Total | **$+135** |
+| 📦 Unrealized | $+238 |
+| 🏦 Total | **$+137** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.75x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 OSP | $0.000008 | **3.79x** ($+279) | 3.79x | ✅ | pumpswap | 2026-03-20 22:56 |
-| 🔴 XCAT | $0.000005 | **0.83x** ($-17) | 1.14x |  | pumpfun | 2026-03-20 22:00 |
+| 🟢 OSP | $0.000008 | **3.67x** ($+267) | 3.86x | ✅ | pumpswap | 2026-03-20 22:56 |
+| 🔴 XCAT | $0.000005 | **0.82x** ($-18) | 1.14x |  | pumpfun | 2026-03-20 22:00 |
 | 🟡 TRACEWAY | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:00 |
 | 🔴 i | $0.000011 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 18:13 |
 | 🟡 IShowSpeed | $0.000008 | **1.90x** ($+90) | 2.31x | ✅ | pumpswap | 2026-03-20 17:26 |
@@ -29,7 +29,7 @@
 | 🟡 OSP | $0.000019 | **1.30x** ($+30) | 1.43x |  | pumpfun | 2026-03-20 05:22 |
 | 🟡 UOR | $0.000035 | **1.08x** ($+8) | 1.12x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 SHOENICE  | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:38 |
-| 🟢 WRT | $0.000007 | **2.09x** ($+109) | 4.62x | ✅ | pumpswap | 2026-03-20 00:59 |
+| 🟢 WRT | $0.000007 | **2.27x** ($+127) | 4.62x | ✅ | pumpswap | 2026-03-20 00:59 |
 | 🟡 NICKELS | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 00:57 |
 
 ## Closed Positions
