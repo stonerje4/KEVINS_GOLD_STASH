@@ -1,6 +1,6 @@
 # Wallet: `5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii`
 
-> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-21 14:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | [Solscan](https://solscan.io/account/5FPytvPnCfQNN454uT342ChLoyb72dpkvZpdGwR2cnii) | Updated: 2026-03-21 14:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (6 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-139 |
-| 📦 Unrealized | $+18 |
-| 🏦 Total | **$-121** |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$-124** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.30x |
 
@@ -23,7 +23,7 @@
 | 🟡 AINL | $0.000032 | **1.10x** ($+10) | 1.43x |  | pumpswap | 2026-03-20 04:55 |
 | 🔴 ARIA | $0.000016 | **0.75x** ($-25) | 1.76x |  | pumpswap | 2026-03-20 02:51 |
 | 🟡 DICKUS | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:49 |
-| 🟡 Strawberita | $0.000035 | **1.25x** ($+25) | 2.39x | ✅ | pumpswap | 2026-03-19 22:57 |
+| 🟡 Strawberita | $0.000035 | **1.19x** ($+19) | 2.39x | ✅ | pumpswap | 2026-03-19 22:57 |
 
 ## Closed Positions
 

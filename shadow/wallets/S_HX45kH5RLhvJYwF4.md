@@ -1,12 +1,12 @@
 # Wallet: `HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5`
 
-> [GMGN](https://gmgn.ai/sol/address/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | [Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-21 14:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | [Solscan](https://solscan.io/account/HX45kH5RLhvJYwF4KDCciuMgLAAnde7dhqtJrMYfz4g5) | Updated: 2026-03-21 14:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 10 (5 open, 5 closed) |
+| Positions | 11 (6 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-312 |
 | 📦 Unrealized | $-5 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Babyify | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 14:07 |
 | 🔴 SHIT | $0.000005 | **0.49x** ($-51) | 1.23x |  | pumpfun | 2026-03-21 00:03 |
 | 🟡 LIFE | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 22:22 |
 | 🟢 Jessica | $0.000016 | **2.27x** ($+127) | 2.27x | ✅ | pumpfun | 2026-03-20 21:39 |

@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 14:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 14:10 UTC
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | 🟡 Higuruma | $0.000034 | **1.16x** ($+16) | 1.52x |  | pumpswap | 2026-03-21 09:21 |
 | 🟡 DogeFather | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:56 |
 | 🔴 IMAGINE | $0.000016 | **0.77x** ($-23) | 1.29x |  | pumpswap | 2026-03-21 06:36 |
-| 🟡 Civil Claude | $0.000017 | **1.02x** ($+2) | 1.22x |  | pumpfun | 2026-03-21 06:11 |
+| 🟡 Civil Claude | $0.000017 | **1.01x** ($+1) | 1.22x |  | pumpfun | 2026-03-21 06:11 |
 | 🟡 MFT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:06 |
 | 🟡 XCAT | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:51 |
 | 🟡 SNIFFER | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:06 |

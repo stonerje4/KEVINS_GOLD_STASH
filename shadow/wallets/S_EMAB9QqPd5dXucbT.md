@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 14:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 14:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 24 (23 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-42 |
-| 📦 Unrealized | $-95 |
-| 🏦 Total | **$-137** |
+| 📦 Unrealized | $-96 |
+| 🏦 Total | **$-139** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.58x |
 
@@ -22,7 +22,7 @@
 | 🟡 Apple | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:37 |
 | 🟡 DoubleT | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:32 |
 | 🟡 NemoClaw | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 13:20 |
-| 🔴 K2 | $0.000020 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-21 12:55 |
+| 🔴 K2 | $0.000020 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-21 12:55 |
 | 🔴 Wob | $0.000023 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🟡 Flash | $0.000038 | **1.33x** ($+33) | 1.53x |  | pumpswap | 2026-03-20 10:43 |
 | 🔴 awkward | $0.000013 | **0.48x** ($-52) | 1.34x |  | pumpfun | 2026-03-20 10:09 |
