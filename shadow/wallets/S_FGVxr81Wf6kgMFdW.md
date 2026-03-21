@@ -1,6 +1,6 @@
 # Wallet: `FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX`
 
-> [GMGN](https://gmgn.ai/sol/address/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | [Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-21 07:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | [Solscan](https://solscan.io/account/FGVxr81Wf6kgMFdWNHTmPm6ckbSsxpCBDiMmieVUf3XX) | Updated: 2026-03-21 07:20 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 VDOR | $0.000006 | **0.98x** ($-2) | 1.10x |  | pumpfun | 2026-03-21 04:48 |
+| 🔴 VDOR | $0.000006 | **0.97x** ($-3) | 1.10x |  | pumpfun | 2026-03-21 04:48 |
 | 🟡 Próspera | $0.000005 | **1.24x** ($+24) | 1.26x |  | pumpfun | 2026-03-21 01:56 |
 | 🔴 Chuck | $0.000006 | **0.76x** ($-24) | 1.04x |  | pumpfun | 2026-03-20 16:30 |
 | 🟡 DRAFT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:18 |
