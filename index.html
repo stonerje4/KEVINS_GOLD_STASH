@@ -45,7 +45,7 @@ a{color:#3b82f6;text-decoration:none}a:hover{text-decoration:underline}
 <body>
 <div class="c">
 <h1>🔥 PUMP ALPHA — Backtest</h1>
-<div class="sub">Updated: 2026-03-21 17:02 UTC · 1m candles · 48h per trade · our exact TP ladder + trailing stops</div>
+<div class="sub">Updated: 2026-03-21 17:03 UTC · 1m candles · 48h per trade · our exact TP ladder + trailing stops</div>
 
 <div class="sg">
   <div class="sc"><div class="sl">Backtested</div><div class="sv b">8</div></div>
@@ -311,20 +311,48 @@ function toggleRecent(){
     if(closed.length<3){row.style.display=recentMode?'none':'';return;}
     
     const wins=closed.filter(t=>t.return>1).length;
-    const avgRet=closed.reduce((s,t)=>s+t.return,0)/closed.length;
+    const n=closed.length;
+    const avgRet=closed.reduce((s,t)=>s+t.return,0)/n;
     const pnl=((avgRet-1)*10).toFixed(2);
-    const wr=(wins/closed.length*100).toFixed(0);
+    const wr=wins/n;
+    const wrPct=(wr*100).toFixed(0);
     const slCount=closed.filter(t=>t.exit==='stop_loss').length;
-    const slPct=(slCount/closed.length*100).toFixed(0);
+    const sl=slCount/n;
+    const slPct=(sl*100).toFixed(0);
+    const avgPeak=closed.reduce((s,t)=>s+(t.peak||1),0)/n;
+    const bestTrade=Math.max(...closed.map(t=>t.return));
     
-    // Update visible cells
+    // Recalculate alpha score
+    const evProfit=(avgRet-1)*10;
+    const evScore=Math.max(0,Math.min(40,(evProfit+5)*4));
+    const wrScore=wr*25;
+    const slScore=Math.max(0,(1-sl*2))*15;
+    const runnerScore=Math.min(10,(avgPeak-1)*2.5);
+    const confScore=Math.min(10,n*0.5);
+    const alpha=Math.round(evScore+wrScore+slScore+runnerScore+confScore);
+    
+    const grade=alpha>=65?'🟢 A':alpha>=55?'🟢 B':alpha>=45?'🟡 C':alpha>=35?'🟠 D':'🔴 F';
+    const ac=alpha>=65?'g':alpha>=45?'y':'r';
+    
+    // Update ALL columns
+    row.children[0].innerHTML='<strong>'+alpha+'</strong>';
+    row.children[0].className=ac;
+    row.children[0].dataset.v=alpha;
+    row.children[1].textContent=grade;
     const sign=pnl>=0?'+':'';
     row.children[3].innerHTML='<strong>$'+sign+pnl+'</strong>';
     row.children[3].className=pnl>=0?'p':'n';
+    row.children[3].dataset.v=pnl;
     row.children[4].textContent=avgRet.toFixed(2)+'x';
-    row.children[5].innerHTML=`<span class="bd ${wr>=50?'bg':wr<25?'br':'bk'}">${wr}%</span>`;
-    row.children[6].innerHTML=`<span class="bd ${slPct==0?'bg':slPct>=30?'br':'bk'}">${slPct}%</span>`;
-    row.children[9].textContent=closed.length;
+    row.children[4].dataset.v=avgRet;
+    row.children[5].innerHTML='<span class="bd '+(wrPct>=50?'bg':wrPct<25?'br':'bk')+'">'+wrPct+'%</span>';
+    row.children[6].innerHTML='<span class="bd '+(slPct==0?'bg':slPct>=30?'br':'bk')+'">'+slPct+'%</span>';
+    const peakDisp=avgPeak<100?avgPeak.toFixed(1)+'x':Math.round(avgPeak)+'x';
+    row.children[7].textContent=peakDisp;
+    row.children[7].dataset.v=avgPeak;
+    row.children[8].textContent=bestTrade.toFixed(1)+'x';
+    row.children[8].dataset.v=bestTrade;
+    row.children[10].textContent=n;
     row.style.display='';
   });
 }
