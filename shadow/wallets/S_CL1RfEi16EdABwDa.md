@@ -1,6 +1,6 @@
 # Wallet: `CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft`
 
-> [GMGN](https://gmgn.ai/sol/address/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | [Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-21 04:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | [Solscan](https://solscan.io/account/CL1RfEi16EdABwDasQyu1inYcmGfgcRTQiJyNCACyCft) | Updated: 2026-03-21 04:30 UTC
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 King | $0.000008 | **0.91x** ($-9) | 1.11x |  | pumpswap | 2026-03-20 00:45 |
-| 🔴 XAI | $0.000014 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
+| 🔴 XAI | $0.000014 | **0.72x** ($-28) | 1.00x |  | pumpswap | 2026-03-20 00:23 |
 
 ## Closed Positions
 
