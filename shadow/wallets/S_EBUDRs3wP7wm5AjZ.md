@@ -1,16 +1,16 @@
 # Wallet: `EBUDRs3wP7wm5AjZ1rwQ7gJ8scrwMmVBZJjn9TSK53qf`
 
-> [GMGN](https://gmgn.ai/sol/address/EBUDRs3wP7wm5AjZ1rwQ7gJ8scrwMmVBZJjn9TSK53qf) | [Solscan](https://solscan.io/account/EBUDRs3wP7wm5AjZ1rwQ7gJ8scrwMmVBZJjn9TSK53qf) | Updated: 2026-03-21 08:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/EBUDRs3wP7wm5AjZ1rwQ7gJ8scrwMmVBZJjn9TSK53qf) | [Solscan](https://solscan.io/account/EBUDRs3wP7wm5AjZ1rwQ7gJ8scrwMmVBZJjn9TSK53qf) | Updated: 2026-03-21 08:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 4 (3 open, 1 closed) |
+| Positions | 5 (4 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-70 |
-| 📦 Unrealized | $+146 |
-| 🏦 Total | **$+76** |
+| 📦 Unrealized | $+119 |
+| 🏦 Total | **$+49** |
 | Best ROI | 0.30x |
 | Avg ROI | 0.30x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 BITOK | $0.000014 | **0.73x** ($-27) | 1.00x |  | pumpfun | 2026-03-21 08:05 |
 | 🟡 陰陽 | $0.000024 | **1.51x** ($+51) | 1.51x |  | pumpfun | 2026-03-21 06:21 |
 | 🟢 TRUMPISS | $0.000012 | **3.05x** ($+205) | 3.05x | ✅ | pumpfun | 2026-03-21 02:54 |
 | 🟡 PISS | $0.000032 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-21 01:26 |
