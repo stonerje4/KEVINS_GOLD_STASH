@@ -1,6 +1,6 @@
 # Wallet: `ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer`
 
-> [GMGN](https://gmgn.ai/sol/address/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | [Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-21 13:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | [Solscan](https://solscan.io/account/ETHhoTiKGRacGPLx5tCA5HsKwn5YppRpoZ7NSg9mCBer) | Updated: 2026-03-21 13:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-86 |
-| 📦 Unrealized | $+64 |
-| 🏦 Total | **$-23** |
+| 📦 Unrealized | $+76 |
+| 🏦 Total | **$-11** |
 | Best ROI | 0.14x |
 | Avg ROI | 0.14x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 OSP | $0.000007 | **1.25x** ($+25) | 1.63x |  | pumpfun | 2026-03-21 13:00 |
 | 🔴 DRONE | $0.000039 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-21 12:51 |
-| 🟡 DRONE | $0.000010 | **1.98x** ($+98) | 2.03x | ✅ | pumpswap | 2026-03-21 12:18 |
+| 🟢 DRONE | $0.000010 | **2.22x** ($+122) | 2.22x | ✅ | pumpswap | 2026-03-21 12:18 |
 | 🔴 TGR | $0.000005 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-21 08:08 |
 | 🟡 DDP | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 01:23 |
 | 🟡 DRONE | $0.000008 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-21 01:15 |

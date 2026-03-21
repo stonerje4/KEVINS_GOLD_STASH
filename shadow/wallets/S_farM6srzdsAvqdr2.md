@@ -1,6 +1,6 @@
 # Wallet: `farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ`
 
-> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 13:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | [Solscan](https://solscan.io/account/farM6srzdsAvqdr242eatuZSaAyE3uvi92gd9HcWHnQ) | Updated: 2026-03-21 13:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 21 (14 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-289 |
-| 📦 Unrealized | $-142 |
-| 🏦 Total | **$-431** |
+| 📦 Unrealized | $-126 |
+| 🏦 Total | **$-415** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.59x |
 
@@ -18,18 +18,18 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TRUDY | $0.000011 | **1.58x** ($+58) | 1.64x |  | pumpfun | 2026-03-21 13:26 |
+| 🟡 TRUDY | $0.000011 | **1.66x** ($+66) | 1.67x |  | pumpfun | 2026-03-21 13:26 |
 | 🟡 GIGACHAD | $0.000021 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 12:04 |
 | 🟢 Tsuki | $0.000018 | **2.07x** ($+107) | 2.07x | ✅ | pumpfun | 2026-03-21 11:37 |
-| 🔴 GoutGout | $0.000015 | **0.70x** ($-30) | 1.26x |  | pumpfun | 2026-03-21 11:27 |
-| 🔴 PIP | $0.000014 | **0.56x** ($-44) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
-| 🔴 Optimus+PV | $0.000010 | **0.64x** ($-36) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
+| 🔴 GoutGout | $0.000015 | **0.72x** ($-28) | 1.26x |  | pumpfun | 2026-03-21 11:27 |
+| 🔴 PIP | $0.000014 | **0.62x** ($-38) | 1.41x |  | pumpfun | 2026-03-21 11:00 |
+| 🔴 Optimus+PV | $0.000010 | **0.63x** ($-37) | 1.00x |  | pumpfun | 2026-03-21 10:24 |
 | 🟡 BUFFALO | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 09:08 |
 | 🟡 Babyify | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:21 |
 | 🔴 Elongate | $0.000010 | **0.47x** ($-53) | 1.17x |  | pumpfun | 2026-03-20 23:42 |
 | 🔴 BABYCHIBI | $0.000010 | **0.84x** ($-16) | 1.02x |  | pumpfun | 2026-03-20 23:40 |
 | 🔴 Liqua | $0.000012 | **0.46x** ($-54) | 1.00x |  | pumpfun | 2026-03-20 14:13 |
-| 🟡 Civil Claude | $0.000015 | **1.09x** ($+9) | 2.00x | ✅ | pumpfun | 2026-03-20 12:12 |
+| 🟡 Civil Claude | $0.000015 | **1.10x** ($+10) | 2.00x | ✅ | pumpfun | 2026-03-20 12:12 |
 | 🔴 Imaginify | $0.000010 | **0.85x** ($-15) | 1.56x |  | pumpfun | 2026-03-20 08:19 |
 | 🔴 DD | $0.000006 | **0.91x** ($-9) | 1.01x |  | pumpfun | 2026-03-19 22:39 |
 
