@@ -1,24 +1,23 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [GMGN](https://gmgn.ai/sol/address/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | [Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-21 09:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | [Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-21 09:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (10 open, 17 closed) |
-| W/L | 2/15 (12%) |
-| 💵 Realized | $-662 |
-| 📦 Unrealized | $+129 |
-| 🏦 Total | **$-533** |
+| Positions | 27 (9 open, 18 closed) |
+| W/L | 2/16 (11%) |
+| 💵 Realized | $-724 |
+| 📦 Unrealized | $+169 |
+| 🏦 Total | **$-555** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.61x |
+| Avg ROI | 0.60x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Optimus+PV | $0.000017 | **0.61x** ($-39) | 1.44x |  | pumpfun | 2026-03-21 08:06 |
 | 🟢 Spudnik | $0.000014 | **2.62x** ($+162) | 2.62x | ✅ | pumpfun | 2026-03-21 06:17 |
 | 🔴 F6BcmSTX | $0.000006 | **0.40x** ($-60) | 1.53x |  | pumpfun | 2026-03-21 05:17 |
 | 🟡 PUNCHDENG | $0.000032 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-20 22:17 |
@@ -33,6 +32,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Optimus+PV | 0.38x | $-62 | stop_loss | 1.44x | pumpfun | 2026-03-21 08:06 → 2026-03-21 09:39 |
 | 🔴 F9jJssZt | 0.40x | $-60 | stop_loss | 1.78x | pumpfun | 2026-03-20 22:19 → 2026-03-20 22:26 |
 | 🟡 EVERYTHING | 0.84x | $-16 | trailing_stop_3x | 2.97x | pumpfun | 2026-03-20 20:46 → 2026-03-20 21:39 |
 | 🔴 AShEeQQB | 0.39x | $-61 | stop_loss | 1.74x | pumpfun | 2026-03-20 09:01 → 2026-03-20 09:05 |

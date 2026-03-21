@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-21 09:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-21 09:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (14 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $-84 |
-| 📦 Unrealized | $+213 |
-| 🏦 Total | **$+129** |
+| 📦 Unrealized | $+205 |
+| 🏦 Total | **$+122** |
 | Best ROI | 1.46x |
 | Avg ROI | 0.83x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 omg | $0.000006 | **0.73x** ($-27) | 1.64x |  | pumpswap | 2026-03-21 05:10 |
+| 🔴 omg | $0.000006 | **0.66x** ($-34) | 1.64x |  | pumpswap | 2026-03-21 05:10 |
 | 🔴 PEDO | $0.000007 | **0.52x** ($-48) | 1.19x |  | pumpfun | 2026-03-21 04:42 |
 | 🔴 XCAT | $0.000005 | **0.79x** ($-21) | 1.14x |  | pumpfun | 2026-03-20 22:00 |
 | 🟡 TRACEWAY | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:00 |

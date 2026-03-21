@@ -1,16 +1,16 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 09:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 09:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 101 (99 open, 2 closed) |
+| Positions | 102 (100 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+137 |
-| 📦 Unrealized | $+43 |
-| 🏦 Total | **$+179** |
+| 📦 Unrealized | $+68 |
+| 🏦 Total | **$+204** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.68x |
 
@@ -18,11 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Hermes | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:38 |
 | 🟡 Obsessed | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:55 |
-| 🟡 Cardboard | $0.000010 | **1.12x** ($+12) | 1.16x |  | pumpswap | 2026-03-21 08:53 |
+| 🟡 Cardboard | $0.000010 | **1.29x** ($+29) | 1.29x |  | pumpswap | 2026-03-21 08:53 |
 | 🟡 TUNE | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:43 |
 | 🔴 BCKR | $0.000015 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 08:42 |
-| 🟡 AAI | $0.000014 | **1.47x** ($+47) | 1.47x |  | pumpswap | 2026-03-21 07:26 |
+| 🟡 AAI | $0.000014 | **1.58x** ($+58) | 1.58x |  | pumpswap | 2026-03-21 07:26 |
 | 🔴 Joobi | $0.000009 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-21 05:25 |
 | 🟡 GAS | $0.000009 | **1.03x** ($+3) | 1.12x |  | pumpswap | 2026-03-21 04:49 |
 | 🟡 EV01 | $0.000012 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-21 04:48 |
@@ -62,14 +63,14 @@
 | 🟡 $GROWN  | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:42 |
 | 🔴 DATBOI | $0.000039 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 Newscum | $0.000020 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 14:28 |
-| 🟡 Higuruma | $0.000018 | **1.86x** ($+86) | 3.34x | ✅ | pumpswap | 2026-03-20 14:25 |
+| 🟡 Higuruma | $0.000018 | **1.82x** ($+82) | 3.34x | ✅ | pumpswap | 2026-03-20 14:25 |
 | 🔴 INCOG | $0.000015 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🔴 FSC | $0.000029 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🔴 ORAMAMA | $0.000010 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
 | 🔴 LUNAR | $0.000035 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🟡 house | $0.000007 | **1.46x** ($+46) | 1.46x |  | pumpswap | 2026-03-20 13:38 |
 | 🟡 Squishy | $0.000016 | **1.19x** ($+19) | 1.20x |  | pumpswap | 2026-03-20 13:37 |
-| 🟡 TFW | $0.000022 | **1.68x** ($+68) | 3.29x | ✅ | pumpswap | 2026-03-20 13:35 |
+| 🟡 TFW | $0.000022 | **1.67x** ($+67) | 3.29x | ✅ | pumpswap | 2026-03-20 13:35 |
 | 🔴 Helios | $0.000029 | **0.99x** ($-1) | 1.08x |  | pumpswap | 2026-03-20 13:30 |
 | 🔴 Ava | $0.000013 | **0.54x** ($-46) | 1.02x |  | pumpswap | 2026-03-20 13:30 |
 | 🟡 NMF | $0.000019 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 13:04 |

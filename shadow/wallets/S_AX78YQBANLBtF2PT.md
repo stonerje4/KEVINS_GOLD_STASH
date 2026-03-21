@@ -1,24 +1,23 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-21 09:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-21 09:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 28 (11 open, 17 closed) |
-| W/L | 2/15 (12%) |
-| 💵 Realized | $-684 |
-| 📦 Unrealized | $+109 |
-| 🏦 Total | **$-575** |
+| Positions | 28 (10 open, 18 closed) |
+| W/L | 2/16 (11%) |
+| 💵 Realized | $-745 |
+| 📦 Unrealized | $+145 |
+| 🏦 Total | **$-600** |
 | Best ROI | 1.48x |
-| Avg ROI | 0.60x |
+| Avg ROI | 0.59x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Optimus+PV | $0.000016 | **0.65x** ($-35) | 1.54x |  | pumpfun | 2026-03-21 08:06 |
 | 🟢 Spudnik | $0.000013 | **2.81x** ($+181) | 2.81x | ✅ | pumpfun | 2026-03-21 06:17 |
 | 🟡 PUNCHDENG | $0.000034 | **1.08x** ($+8) | 1.08x |  | pumpfun | 2026-03-20 22:17 |
 | 🟢 Jessica | $0.000012 | **3.13x** ($+213) | 3.13x | ✅ | pumpfun | 2026-03-20 21:32 |
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Optimus+PV | 0.39x | $-61 | stop_loss | 1.54x | pumpfun | 2026-03-21 08:06 → 2026-03-21 09:39 |
 | 🔴 F6BcmSTX | 0.40x | $-60 | stop_loss | 1.43x | pumpfun | 2026-03-21 05:17 → 2026-03-21 05:23 |
 | 🔴 F9jJssZt | 0.40x | $-60 | stop_loss | 1.62x | pumpfun | 2026-03-20 22:19 → 2026-03-20 22:26 |
 | 🟡 EVERYTHING | 1.41x | $+41 | trailing_stop_3x | 3.25x | pumpfun | 2026-03-20 20:46 → 2026-03-20 21:07 |
