@@ -1,6 +1,6 @@
 # Wallet: `FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x`
 
-> [GMGN](https://gmgn.ai/sol/address/FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x) | [Solscan](https://solscan.io/account/FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x) | Updated: 2026-03-21 05:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x) | [Solscan](https://solscan.io/account/FFMXJJUE4VuYNBZapRNB2uWJG3X3xDmJR5HEmQ9La98x) | Updated: 2026-03-21 05:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-25 |
-| 🏦 Total | **$-25** |
+| 📦 Unrealized | $-39 |
+| 🏦 Total | **$-39** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 benk | $0.000016 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-21 05:08 |
+| 🔴 benk | $0.000016 | **0.61x** ($-39) | 1.00x |  | pumpfun | 2026-03-21 05:08 |
 
 ## Closed Positions
 

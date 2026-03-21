@@ -1,6 +1,6 @@
 # Wallet: `3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3`
 
-> [GMGN](https://gmgn.ai/sol/address/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | [Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-21 05:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | [Solscan](https://solscan.io/account/3uD6P4FG92ovz8q3SQMufHK3gVM2zkQtJx6UbHhdj3a3) | Updated: 2026-03-21 05:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (8 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+49 |
-| 📦 Unrealized | $+98 |
-| 🏦 Total | **$+148** |
+| 📦 Unrealized | $+87 |
+| 🏦 Total | **$+136** |
 | Best ROI | 1.49x |
 | Avg ROI | 1.49x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 WRT | $0.000022 | **1.34x** ($+34) | 1.38x |  | pumpswap | 2026-03-20 12:54 |
-| 🟢 TGR | $0.000005 | **2.91x** ($+191) | 2.91x | ✅ | pumpfun | 2026-03-20 12:46 |
+| 🟢 TGR | $0.000005 | **2.68x** ($+168) | 2.91x | ✅ | pumpfun | 2026-03-20 12:46 |
 | 🔴 UOR | $0.000005 | **0.95x** ($-5) | 1.02x |  | pumpfun | 2026-03-20 08:05 |
 | 🟡 SaudiAramc | $0.000031 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:42 |
 | 🔴 UGOR | $0.000019 | **0.96x** ($-4) | 1.59x |  | pumpswap | 2026-03-20 00:58 |

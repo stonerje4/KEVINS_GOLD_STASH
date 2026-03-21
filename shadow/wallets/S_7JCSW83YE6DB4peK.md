@@ -1,16 +1,16 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 05:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 05:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 98 (95 open, 3 closed) |
+| Positions | 99 (96 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+71 |
-| 📦 Unrealized | $+274 |
-| 🏦 Total | **$+346** |
+| 📦 Unrealized | $+349 |
+| 🏦 Total | **$+420** |
 | Best ROI | 2.92x |
 | Avg ROI | 1.24x |
 
@@ -18,13 +18,14 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SHOEBILL | $0.000039 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-21 05:10 |
 | 🟡 Fartless | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:59 |
 | 🔴 Socrates | $0.000033 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 04:59 |
-| 🟡 GAS | $0.000010 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-21 04:43 |
+| 🟡 GAS | $0.000010 | **1.03x** ($+3) | 1.06x |  | pumpswap | 2026-03-21 04:43 |
 | 🔴 401k | $0.000008 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 04:14 |
 | 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:11 |
 | 🟡 TerpBot | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
-| 🟡 DISLIKE | $0.000033 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-21 03:17 |
+| 🟡 DISLIKE | $0.000033 | **1.05x** ($+5) | 1.06x |  | pumpswap | 2026-03-21 03:17 |
 | 🟡 Out | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:00 |
 | 🔴 Lana | $0.000019 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 02:32 |
 | 🔴 chud | $0.000017 | **0.91x** ($-9) | 1.05x |  | pumpswap | 2026-03-21 02:12 |
@@ -65,7 +66,7 @@
 | 🔴 Xingxing | $0.000024 | **0.90x** ($-10) | 1.08x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 GameTheory | $0.000014 | **1.53x** ($+53) | 1.72x |  | pumpswap | 2026-03-20 14:15 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
-| 🔴 Higuruma | $0.000020 | **0.67x** ($-33) | 1.08x |  | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000020 | **1.47x** ($+47) | 1.68x |  | pumpswap | 2026-03-20 14:09 |
 | 🔴 Saxophones | $0.000034 | **0.81x** ($-19) | 1.15x |  | pumpswap | 2026-03-20 13:40 |
 | 🟡 house | $0.000006 | **1.60x** ($+60) | 1.61x |  | pumpswap | 2026-03-20 13:38 |
 | 🔴 Squishy | $0.000016 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
@@ -94,7 +95,7 @@
 | 🟡 AIKO | $0.000008 | **1.07x** ($+7) | 1.31x |  | pumpswap | 2026-03-20 05:28 |
 | 🟡 TSUZUMI | $0.000025 | **1.06x** ($+6) | 1.38x |  | pumpswap | 2026-03-20 05:25 |
 | 🟡 咕咕嘎嘎 | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
-| 🔴 JOC | $0.000034 | **0.85x** ($-15) | 1.17x |  | pumpswap | 2026-03-20 03:09 |
+| 🔴 JOC | $0.000034 | **0.83x** ($-17) | 1.17x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 FTR | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:32 |
 | 🔴 Skull | $0.000008 | **0.77x** ($-23) | 1.15x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 $GROWN  | $0.000039 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 01:42 |
