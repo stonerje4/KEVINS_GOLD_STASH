@@ -1,6 +1,6 @@
 # Wallet: `6AmDuBQq6hBjPgi2vWKE26nmunwBsd9UdTVNtgU5F3Kr`
 
-> [GMGN](https://gmgn.ai/sol/address/6AmDuBQq6hBjPgi2vWKE26nmunwBsd9UdTVNtgU5F3Kr) | [Solscan](https://solscan.io/account/6AmDuBQq6hBjPgi2vWKE26nmunwBsd9UdTVNtgU5F3Kr) | Updated: 2026-03-21 09:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/6AmDuBQq6hBjPgi2vWKE26nmunwBsd9UdTVNtgU5F3Kr) | [Solscan](https://solscan.io/account/6AmDuBQq6hBjPgi2vWKE26nmunwBsd9UdTVNtgU5F3Kr) | Updated: 2026-03-21 09:45 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 WILLIAMR56748 | $0.000010 | **1.02x** ($+2) | 1.28x |  | pumpfun | 2026-03-20 12:58 |
 | 🟢 Nonchalant | $0.000006 | **2.73x** ($+173) | 4.59x | ✅ | pumpfun | 2026-03-20 03:45 |
-| 🟡 WhiteBoy  | $0.000010 | **1.22x** ($+22) | 2.38x | ✅ | pumpswap | 2026-03-19 22:52 |
+| 🟡 WhiteBoy  | $0.000010 | **1.23x** ($+23) | 2.38x | ✅ | pumpswap | 2026-03-19 22:52 |
 
 ## Closed Positions
 

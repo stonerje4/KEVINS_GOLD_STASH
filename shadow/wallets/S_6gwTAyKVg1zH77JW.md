@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 09:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 09:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (91 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+92 |
-| 📦 Unrealized | $-521 |
-| 🏦 Total | **$-429** |
+| 📦 Unrealized | $-524 |
+| 🏦 Total | **$-432** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.11x |
 
@@ -34,17 +34,17 @@
 | 🔴 clod | $0.000030 | **0.45x** ($-55) | 1.32x |  | pumpswap | 2026-03-20 15:00 |
 | 🟡 GameTheory | $0.000014 | **1.59x** ($+59) | 1.78x |  | pumpswap | 2026-03-20 14:55 |
 | 🔴 DATBOI | $0.000038 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
-| 🟡 Higuruma | $0.000017 | **1.95x** ($+95) | 3.57x | ✅ | pumpswap | 2026-03-20 14:33 |
+| 🟡 Higuruma | $0.000017 | **1.94x** ($+94) | 3.57x | ✅ | pumpswap | 2026-03-20 14:33 |
 | 🔴 Xingxing | $0.000025 | **0.89x** ($-11) | 1.06x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
 | 🟡 Squishy | $0.000017 | **1.12x** ($+12) | 1.13x |  | pumpswap | 2026-03-20 13:37 |
 | 🔴 CLAIR | $0.000014 | **0.81x** ($-19) | 1.04x |  | pumpswap | 2026-03-20 13:28 |
 | 🔴 NICK | $0.000026 | **0.93x** ($-7) | 1.16x |  | pumpswap | 2026-03-20 13:22 |
-| 🟡 TFW | $0.000022 | **1.64x** ($+64) | 3.23x | ✅ | pumpswap | 2026-03-20 12:38 |
+| 🟡 TFW | $0.000022 | **1.63x** ($+63) | 3.23x | ✅ | pumpswap | 2026-03-20 12:38 |
 | 🔴 Speak | $0.000022 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
 | 🔴 honkermog | $0.000039 | **0.57x** ($-43) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
-| 🔴 Joobi | $0.000010 | **0.89x** ($-11) | 1.20x |  | pumpswap | 2026-03-20 11:49 |
+| 🔴 Joobi | $0.000010 | **0.87x** ($-13) | 1.20x |  | pumpswap | 2026-03-20 11:49 |
 | 🟡 MiniBob | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:35 |
 | 🔴 Matthew | $0.000020 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
 | 🟡 hyrax  | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:55 |
