@@ -1,6 +1,6 @@
 # Wallet: `6sktBBsEBAndTScFBnqW2JFbNb7iu9Q7PFwVLhdCtU6s`
 
-> [GMGN](https://gmgn.ai/sol/address/6sktBBsEBAndTScFBnqW2JFbNb7iu9Q7PFwVLhdCtU6s) | [Solscan](https://solscan.io/account/6sktBBsEBAndTScFBnqW2JFbNb7iu9Q7PFwVLhdCtU6s) | Updated: 2026-03-21 12:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/6sktBBsEBAndTScFBnqW2JFbNb7iu9Q7PFwVLhdCtU6s) | [Solscan](https://solscan.io/account/6sktBBsEBAndTScFBnqW2JFbNb7iu9Q7PFwVLhdCtU6s) | Updated: 2026-03-21 12:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (16 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-63 |
-| 📦 Unrealized | $+2 |
-| 🏦 Total | **$-61** |
+| 📦 Unrealized | $+7 |
+| 🏦 Total | **$-55** |
 | Best ROI | 0.37x |
 | Avg ROI | 0.37x |
 
@@ -22,7 +22,7 @@
 | 🟡 Toly | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:39 |
 | 🟡 FRIEND | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:05 |
 | 🟡 AGS | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:02 |
-| 🟡 Dewy | $0.000012 | **1.13x** ($+13) | 1.29x |  | pumpfun | 2026-03-21 05:00 |
+| 🟡 Dewy | $0.000012 | **1.18x** ($+18) | 1.29x |  | pumpfun | 2026-03-21 05:00 |
 | 🟡 GAY | $0.000009 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 21:07 |
 | 🔴 SCC | $0.000013 | **0.94x** ($-6) | 1.00x |  | pumpfun | 2026-03-20 20:57 |
 | 🟡 Homies  | $0.000006 | **1.04x** ($+4) | 1.10x |  | pumpfun | 2026-03-20 20:55 |
