@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 09:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 10:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 38 (29 open, 9 closed) |
 | W/L | 0/9 (0%) |
 | 💵 Realized | $-578 |
-| 📦 Unrealized | $+768 |
-| 🏦 Total | **$+190** |
+| 📦 Unrealized | $+747 |
+| 🏦 Total | **$+169** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.36x |
 
@@ -20,14 +20,14 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:45 |
 | 🟡 IMAGINE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:59 |
-| 🟡 Optimus | $0.000012 | **1.52x** ($+52) | 2.13x | ✅ | pumpfun | 2026-03-21 08:57 |
+| 🟡 Optimus | $0.000012 | **1.07x** ($+7) | 2.13x | ✅ | pumpfun | 2026-03-21 08:57 |
 | 🟢 grokputer | $0.000014 | **2.54x** ($+154) | 2.54x | ✅ | pumpfun | 2026-03-21 06:07 |
 | 🟡 cabbage | $0.000021 | **1.71x** ($+71) | 1.71x |  | pumpfun | 2026-03-21 06:01 |
 | 🟡 Babyify | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:32 |
 | 🔴 FAKER | $0.000035 | **0.96x** ($-4) | 1.01x |  | pumpswap | 2026-03-21 05:18 |
 | 🟢 EVERYTHING | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-20 22:09 |
 | 🔴 Ignotus  | $0.000034 | **0.63x** ($-37) | 1.08x |  | pumpfun | 2026-03-20 21:33 |
-| 🟡 XAI | $0.000009 | **1.21x** ($+21) | 1.21x |  | pumpswap | 2026-03-20 17:33 |
+| 🟡 XAI | $0.000009 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 17:33 |
 | 🟡 LNG | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 17:21 |
 | 🟡 Anime | $0.000009 | **1.49x** ($+49) | 1.78x |  | pumpfun | 2026-03-20 16:19 |
 | 🟡 spec | $0.000024 | **1.55x** ($+55) | 1.55x |  | pumpfun | 2026-03-20 15:59 |
