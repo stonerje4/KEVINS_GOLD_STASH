@@ -1,6 +1,6 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 08:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 08:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 31 (14 open, 17 closed) |
 | W/L | 3/14 (18%) |
 | 💵 Realized | $-505 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$-502** |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$-499** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.70x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TERMINATOR | $0.000009 | **1.01x** ($+1) | 1.62x |  | pumpfun | 2026-03-21 08:26 |
+| 🟡 TERMINATOR | $0.000009 | **1.03x** ($+3) | 1.62x |  | pumpfun | 2026-03-21 08:26 |
 | 🟡  Apollo | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |
 | 🔴 omg | $0.000006 | **0.72x** ($-28) | 1.51x |  | pumpswap | 2026-03-21 05:12 |
 | 🔴 job | $0.000006 | **0.45x** ($-55) | 1.08x |  | pumpfun | 2026-03-20 05:59 |

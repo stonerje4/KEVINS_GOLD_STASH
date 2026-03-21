@@ -1,24 +1,23 @@
 # Wallet: `ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS`
 
-> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-21 08:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | [Solscan](https://solscan.io/account/ERoP3GMTJwpdCz8nSNf5ATiPMFZt2xVLMkFqkUXfkkyS) | Updated: 2026-03-21 08:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 14 (7 open, 7 closed) |
-| W/L | 2/5 (29%) |
-| 💵 Realized | $-168 |
-| 📦 Unrealized | $-133 |
-| 🏦 Total | **$-301** |
+| Positions | 14 (6 open, 8 closed) |
+| W/L | 2/6 (25%) |
+| 💵 Realized | $-228 |
+| 📦 Unrealized | $-78 |
+| 🏦 Total | **$-306** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.76x |
+| Avg ROI | 0.71x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TURD | $0.000007 | **0.45x** ($-55) | 1.37x |  | pumpfun | 2026-03-21 08:15 |
 | 🟢 few | $0.000013 | **2.74x** ($+174) | 2.74x | ✅ | pumpfun | 2026-03-20 23:24 |
 | 🔴 sheep | $0.000012 | **0.68x** ($-32) | 1.99x |  | pumpfun | 2026-03-20 20:30 |
 | 🔴 BiGymNtn | $0.000005 | **0.49x** ($-51) | 1.19x |  | pumpfun | 2026-03-20 19:46 |
@@ -30,6 +29,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 TURD | 0.40x | $-60 | stop_loss | 1.37x | pumpfun | 2026-03-21 08:15 → 2026-03-21 08:35 |
 | 🔴 GoutGout | 0.38x | $-62 | stop_loss | 1.85x | pumpfun | 2026-03-21 00:34 → 2026-03-21 01:00 |
 | 🔴 599MRKGc | 0.40x | $-60 | stop_loss | 1.23x | pumpfun | 2026-03-20 23:30 → 2026-03-20 23:33 |
 | 🟡 MINMIKO | 0.81x | $-19 | trailing_stop_2x | 2.11x | pumpfun | 2026-03-20 21:49 → 2026-03-20 22:24 |

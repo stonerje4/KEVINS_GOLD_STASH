@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 08:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 08:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (91 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+92 |
-| 📦 Unrealized | $-437 |
-| 🏦 Total | **$-345** |
+| 📦 Unrealized | $-445 |
+| 🏦 Total | **$-353** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.11x |
 
@@ -34,7 +34,7 @@
 | 🔴 clod | $0.000030 | **0.45x** ($-55) | 1.32x |  | pumpswap | 2026-03-20 15:00 |
 | 🟡 GameTheory | $0.000014 | **1.59x** ($+59) | 1.78x |  | pumpswap | 2026-03-20 14:55 |
 | 🔴 DATBOI | $0.000038 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
-| 🟢 Higuruma | $0.000017 | **2.95x** ($+195) | 3.57x | ✅ | pumpswap | 2026-03-20 14:33 |
+| 🟢 Higuruma | $0.000017 | **2.78x** ($+178) | 3.57x | ✅ | pumpswap | 2026-03-20 14:33 |
 | 🔴 Xingxing | $0.000025 | **0.89x** ($-11) | 1.06x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
