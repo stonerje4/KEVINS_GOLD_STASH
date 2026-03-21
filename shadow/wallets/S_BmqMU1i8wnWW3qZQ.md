@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 09:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 09:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,512 |
-| 🏦 Total | **$-2,635** |
+| 📦 Unrealized | $-2,501 |
+| 🏦 Total | **$-2,624** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -33,7 +33,7 @@
 | 🔴 Pixel | $0.000011 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 ORAMAMA | $0.000011 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 Sonny | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
-| 🟡 Higuruma | $0.000022 | **1.59x** ($+59) | 2.73x | ✅ | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000022 | **1.53x** ($+53) | 2.73x | ✅ | pumpswap | 2026-03-20 14:09 |
 | 🔴 Yahu | $0.000028 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000040 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
@@ -70,7 +70,7 @@
 | 🔴 Billy | $0.000007 | **0.49x** ($-51) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
 | 🔴 HOWL | $0.000011 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 07:03 |
 | 🔴 Otome | $0.000018 | **0.71x** ($-29) | 1.24x |  | pumpswap | 2026-03-20 07:01 |
-| 🔴 XAI | $0.000010 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 06:58 |
+| 🟡 XAI | $0.000010 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 06:58 |
 | 🔴 PARK | $0.000022 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 06:51 |
 | 🔴 PATRIOT | $0.000012 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 06:47 |
 | 🔴 TORTA | $0.000019 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 06:41 |
@@ -137,7 +137,7 @@
 | 🔴 WhiteBoy  | $0.000015 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🔴 SNDK | $0.000008 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🔴 JOC | $0.000039 | **0.71x** ($-29) | 1.01x |  | pumpswap | 2026-03-20 02:36 |
-| 🟡 AINL | $0.000029 | **1.19x** ($+19) | 1.39x |  | pumpswap | 2026-03-20 02:35 |
+| 🟡 AINL | $0.000029 | **1.15x** ($+15) | 1.39x |  | pumpswap | 2026-03-20 02:35 |
 | 🟢 PIKE | $0.000033 | **2.12x** ($+112) | 2.72x | ✅ | pumpswap | 2026-03-20 02:22 |
 | 🔴 BB | $0.000010 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 fire | $0.000006 | **1.06x** ($+6) | 1.11x |  | pumpswap | 2026-03-20 02:18 |
@@ -151,7 +151,7 @@
 | 🔴 OIL | $0.000006 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 02:00 |
 | 🔴 foid | $0.000017 | **0.85x** ($-15) | 1.25x |  | pumpswap | 2026-03-20 02:00 |
 | 🔴 DoubleT | $0.000030 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 01:55 |
-| 🟢 DAWAE | $0.000012 | **2.31x** ($+131) | 2.72x | ✅ | pumpswap | 2026-03-20 01:54 |
+| 🟢 DAWAE | $0.000012 | **2.34x** ($+134) | 2.72x | ✅ | pumpswap | 2026-03-20 01:54 |
 | 🔴 MINT | $0.000022 | **0.79x** ($-21) | 1.08x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Hamster | $0.000035 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Garbonzo | $0.000006 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
@@ -231,7 +231,7 @@
 | 🔴 BLUECOLLAR | $0.000011 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-19 22:52 |
 | 🔴 NemoClaw | $0.000034 | **0.98x** ($-2) | 1.08x |  | pumpswap | 2026-03-19 22:50 |
 | 🟡 Socrates | $0.000035 | **1.08x** ($+8) | 1.24x |  | pumpswap | 2026-03-19 22:46 |
-| 🔴 Genesis-2 | $0.000006 | **0.78x** ($-22) | 1.03x |  | pumpswap | 2026-03-19 22:45 |
+| 🔴 Genesis-2 | $0.000006 | **0.79x** ($-21) | 1.03x |  | pumpswap | 2026-03-19 22:45 |
 | 🔴 SCOTT | $0.000016 | **0.43x** ($-57) | 1.00x |  | pumpswap | 2026-03-19 22:43 |
 | 🔴 CaliFraud | $0.000007 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-19 22:42 |
 | 🔴 SHELLY | $0.000009 | **0.90x** ($-10) | 1.04x |  | pumpswap | 2026-03-19 22:41 |

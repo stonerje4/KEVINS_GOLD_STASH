@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 09:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 09:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,414 |
-| 🏦 Total | **$-1,448** |
+| 📦 Unrealized | $-1,417 |
+| 🏦 Total | **$-1,451** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -65,7 +65,7 @@
 | 🔴 Pixel | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Newscum | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 GameTheory | $0.000015 | **1.47x** ($+47) | 1.64x |  | pumpswap | 2026-03-20 14:15 |
-| 🟡 Higuruma | $0.000020 | **1.72x** ($+72) | 2.95x | ✅ | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000020 | **1.65x** ($+65) | 2.95x | ✅ | pumpswap | 2026-03-20 14:09 |
 | 🔴 chibify | $0.000011 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
 | 🟡 Yahu | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -148,7 +148,7 @@
 | 🟡 MULERUN | $0.000025 | **1.06x** ($+6) | 1.11x |  | pumpswap | 2026-03-20 02:22 |
 | 🔴 LULU | $0.000034 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 BB | $0.000009 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
-| 🟡 fire | $0.000006 | **1.16x** ($+16) | 1.21x |  | pumpswap | 2026-03-20 02:18 |
+| 🟡 fire | $0.000006 | **1.15x** ($+15) | 1.21x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 GROKBUILD | $0.000021 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-20 02:09 |
 | 🟡 KENNY | $0.000013 | **1.10x** ($+10) | 1.12x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 foid | $0.000016 | **0.93x** ($-7) | 1.36x |  | pumpswap | 2026-03-20 02:00 |

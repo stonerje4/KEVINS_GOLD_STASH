@@ -1,6 +1,6 @@
 # Wallet: `6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332`
 
-> [GMGN](https://gmgn.ai/sol/address/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | [Solscan](https://solscan.io/account/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | Updated: 2026-03-21 09:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | [Solscan](https://solscan.io/account/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | Updated: 2026-03-21 09:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (1 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $-55 |
-| 🏦 Total | **$-131** |
+| 📦 Unrealized | $-59 |
+| 🏦 Total | **$-136** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.62x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 SREF | $0.000006 | **0.45x** ($-55) | 1.10x |  | pumpfun | 2026-03-21 09:00 |
+| 🔴 SREF | $0.000006 | **0.41x** ($-59) | 1.10x |  | pumpfun | 2026-03-21 09:00 |
 
 ## Closed Positions
 

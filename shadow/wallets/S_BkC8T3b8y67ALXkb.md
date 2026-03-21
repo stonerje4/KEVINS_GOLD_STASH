@@ -1,16 +1,16 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 09:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 09:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 41 (37 open, 4 closed) |
+| Positions | 42 (38 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-166 |
-| 📦 Unrealized | $-227 |
-| 🏦 Total | **$-392** |
+| 📦 Unrealized | $-229 |
+| 🏦 Total | **$-395** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.59x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Higuruma | $0.000034 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-21 09:21 |
 | 🟡 DogeFather | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:56 |
 | 🔴 IMAGINE | $0.000016 | **0.96x** ($-4) | 1.29x |  | pumpswap | 2026-03-21 06:36 |
 | 🟡 Civil Claude | $0.000017 | **1.01x** ($+1) | 1.22x |  | pumpfun | 2026-03-21 06:11 |
@@ -26,7 +27,7 @@
 | 🟡 SNIFFER | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:06 |
 | 🟡 Pixels | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:02 |
 | 🟡 Income | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:56 |
-| 🟡 CHIBELON | $0.000027 | **1.04x** ($+4) | 1.78x |  | pumpswap | 2026-03-21 04:48 |
+| 🟡 CHIBELON | $0.000027 | **1.05x** ($+5) | 1.78x |  | pumpswap | 2026-03-21 04:48 |
 | 🔴 OIIA | $0.000028 | **0.94x** ($-6) | 1.22x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 ZeroG | $0.000010 | **0.91x** ($-9) | 1.13x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 Dryer | $0.000007 | **0.85x** ($-15) | 1.04x |  | pumpswap | 2026-03-21 01:18 |
