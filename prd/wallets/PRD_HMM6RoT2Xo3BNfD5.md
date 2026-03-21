@@ -1,6 +1,6 @@
 # PRD Wallet: `HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j`
 
-> [GMGN](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | [Solscan](https://solscan.io/account/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | Updated: 2026-03-21 06:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | [Solscan](https://solscan.io/account/HMM6RoT2Xo3BNfD5FTNsgFfQZExNDy14PPWMP11ZzT3j) | Updated: 2026-03-21 06:05 UTC
 
 ## Summary
 
@@ -10,14 +10,14 @@
 | W/L | 1/1 (50%) |
 | 💵 Realized | -0.0708 SOL ($-6.38) |
 | ⛽ Gas | 0.0057 SOL |
-| 📦 Unrealized | -0.0432 SOL |
-| 🏦 Net | **-0.1140 SOL** ($-10.26) |
+| 📦 Unrealized | -0.0454 SOL |
+| 🏦 Net | **-0.1162 SOL** ($-10.46) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 SHOOTER | open | 0.11 | 0.65x | 1.98x | -0.0432 | — |
+| 🔴 SHOOTER | open | 0.11 | 0.63x | 1.98x | -0.0454 | — |
 | 🔴 F3 | closed | 0.11 | 0.38x | 1.47x | -0.0709 | stop_loss |
 | 🟢 CRACK | closed | 0.11 | 0.78x | 2.10x | +0.0001 | runner_trailing_stop |
 
