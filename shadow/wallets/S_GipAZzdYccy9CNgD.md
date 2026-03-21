@@ -1,6 +1,6 @@
 # Wallet: `GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8`
 
-> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-21 00:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | [Solscan](https://solscan.io/account/GipAZzdYccy9CNgDA8HjSFfGQtURc2b93QeRj4Y2Xpp8) | Updated: 2026-03-21 00:20 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 OSP | $0.000008 | **3.66x** ($+266) | 3.86x | ✅ | pumpswap | 2026-03-20 22:56 |
+| 🟢 OSP | $0.000008 | **3.67x** ($+267) | 3.86x | ✅ | pumpswap | 2026-03-20 22:56 |
 | 🔴 XCAT | $0.000005 | **0.80x** ($-20) | 1.14x |  | pumpfun | 2026-03-20 22:00 |
 | 🟡 TRACEWAY | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:00 |
 | 🔴 i | $0.000011 | **0.98x** ($-2) | 1.00x |  | pumpfun | 2026-03-20 18:13 |

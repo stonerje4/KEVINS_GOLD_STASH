@@ -1,26 +1,25 @@
 # Wallet: `PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8`
 
-> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 00:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | [Solscan](https://solscan.io/account/PNbMdYRM9osrNMp4ygejP5N6ShPDcAyp1gKPePnGcj8) | Updated: 2026-03-21 00:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 21 (14 open, 7 closed) |
-| W/L | 1/6 (14%) |
-| 💵 Realized | $-314 |
-| 📦 Unrealized | $-189 |
-| 🏦 Total | **$-503** |
+| Positions | 21 (13 open, 8 closed) |
+| W/L | 1/7 (12%) |
+| 💵 Realized | $-338 |
+| 📦 Unrealized | $-196 |
+| 🏦 Total | **$-535** |
 | Best ROI | 1.45x |
-| Avg ROI | 0.55x |
+| Avg ROI | 0.58x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Beecat | $0.000005 | **1.08x** ($+8) | 2.57x | ✅ | pumpswap | 2026-03-20 23:41 |
 | 🟡 ME | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:51 |
-| 🟡 Income | $0.000013 | **1.86x** ($+86) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
+| 🟡 Income | $0.000013 | **1.78x** ($+78) | 2.16x | ✅ | pumpswap | 2026-03-20 15:56 |
 | 🔴 PVE | $0.000012 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 15:52 |
 | 🔴 Samba | $0.000013 | **0.65x** ($-35) | 1.59x |  | pumpswap | 2026-03-20 15:27 |
 | 🟡 Feels | $0.000010 | **1.07x** ($+7) | 1.77x |  | pumpswap | 2026-03-20 15:02 |
@@ -37,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Beecat | 0.76x | $-24 | trailing_stop_3x | 2.57x | pumpswap | 2026-03-20 23:41 → 2026-03-21 00:19 |
 | 🔴 SMCI | 0.40x | $-60 | stop_loss | 1.60x | pumpfun | 2026-03-20 04:22 → 2026-03-20 04:25 |
 | 🟡 SMCI | 0.83x | $-17 | trailing_stop_3x | 3.24x | pumpfun | 2026-03-20 04:14 → 2026-03-20 22:21 |
 | 🔴 Alien | 0.38x | $-62 | stop_loss | 1.78x | pumpswap | 2026-03-20 02:51 → 2026-03-20 23:37 |

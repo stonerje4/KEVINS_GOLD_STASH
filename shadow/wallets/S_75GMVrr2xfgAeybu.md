@@ -1,6 +1,6 @@
 # Wallet: `75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF`
 
-> [GMGN](https://gmgn.ai/sol/address/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | [Solscan](https://solscan.io/account/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | Updated: 2026-03-21 00:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | [Solscan](https://solscan.io/account/75GMVrr2xfgAeybuNg1VMHqFE3GTFJLzEHo6xC4MwUzF) | Updated: 2026-03-21 00:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-121 |
-| 📦 Unrealized | $-64 |
-| 🏦 Total | **$-185** |
+| 📦 Unrealized | $-65 |
+| 🏦 Total | **$-187** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 EVERYTHING | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:54 |
 | 🔴 RETURN | $0.000019 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 04:57 |
-| 🔴 CHANNELS | $0.000016 | **0.71x** ($-29) | 1.63x |  | pumpfun | 2026-03-20 02:18 |
+| 🔴 CHANNELS | $0.000016 | **0.70x** ($-30) | 1.63x |  | pumpfun | 2026-03-20 02:18 |
 
 ## Closed Positions
 
