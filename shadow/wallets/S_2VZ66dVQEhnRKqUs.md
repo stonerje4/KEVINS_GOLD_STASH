@@ -1,6 +1,6 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-21 10:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-21 10:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (12 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-175 |
-| 📦 Unrealized | $-116 |
-| 🏦 Total | **$-291** |
+| 📦 Unrealized | $-121 |
+| 🏦 Total | **$-296** |
 | Best ROI | 1.83x |
 | Avg ROI | 0.75x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Optimus | $0.000013 | **1.31x** ($+31) | 2.08x | ✅ | pumpfun | 2026-03-21 09:01 |
+| 🟡 Optimus | $0.000013 | **1.21x** ($+21) | 2.08x | ✅ | pumpfun | 2026-03-21 09:01 |
 | 🔴 Forget | $0.000012 | **0.69x** ($-31) | 1.09x |  | pumpswap | 2026-03-20 19:28 |
 | 🟡 OIIA | $0.000021 | **1.25x** ($+25) | 1.84x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |

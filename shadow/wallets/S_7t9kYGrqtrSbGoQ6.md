@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 10:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 10:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,445 |
-| 🏦 Total | **$-1,479** |
+| 📦 Unrealized | $-1,442 |
+| 🏦 Total | **$-1,476** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -57,7 +57,7 @@
 | 🟡 Method | $0.000013 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-20 16:31 |
 | 🟡 Optimus | $0.000034 | **1.50x** ($+50) | 1.51x |  | pumpswap | 2026-03-20 15:20 |
 | 🟡 NORMIE | $0.000021 | **1.22x** ($+22) | 1.37x |  | pumpswap | 2026-03-20 15:19 |
-| 🟡 OCTOPUS | $0.000009 | **1.59x** ($+59) | 2.17x | ✅ | pumpswap | 2026-03-20 15:15 |
+| 🟡 OCTOPUS | $0.000009 | **1.69x** ($+69) | 2.17x | ✅ | pumpswap | 2026-03-20 15:15 |
 | 🔴 Hermes | $0.000028 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 15:07 |
 | 🟡 LNG | $0.000006 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 15:01 |
 | 🔴 clod | $0.000032 | **0.42x** ($-58) | 1.23x |  | pumpswap | 2026-03-20 14:55 |
@@ -175,7 +175,7 @@
 | 🟡 KING | $0.000028 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 00:23 |
 | 🔴 Lana | $0.000025 | **0.79x** ($-21) | 1.65x |  | pumpswap | 2026-03-20 00:16 |
 | 🟡 wallahi | $0.000033 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-20 00:15 |
-| 🔴 FAKER | $0.000037 | **0.90x** ($-10) | 1.33x |  | pumpswap | 2026-03-20 00:07 |
+| 🔴 FAKER | $0.000037 | **0.88x** ($-12) | 1.33x |  | pumpswap | 2026-03-20 00:07 |
 | 🔴 PERP | $0.000030 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-19 23:57 |
 | 🔴 Feels | $0.000012 | **0.89x** ($-11) | 1.48x |  | pumpswap | 2026-03-19 23:53 |
 | 🔴 Moe-chan | $0.000014 | **0.70x** ($-30) | 1.23x |  | pumpswap | 2026-03-19 23:52 |
