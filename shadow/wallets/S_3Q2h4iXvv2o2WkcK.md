@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 01:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 01:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 28 (22 open, 6 closed) |
 | W/L | 1/5 (17%) |
 | 💵 Realized | $-232 |
-| 📦 Unrealized | $-396 |
-| 🏦 Total | **$-628** |
+| 📦 Unrealized | $-368 |
+| 🏦 Total | **$-600** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.61x |
 
@@ -19,14 +19,14 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 EVERYTHING | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:09 |
-| 🟡 CAINE | $0.000022 | **1.05x** ($+5) | 1.11x |  | pumpswap | 2026-03-21 01:02 |
+| 🟡 CAINE | $0.000022 | **1.08x** ($+8) | 1.11x |  | pumpswap | 2026-03-21 01:02 |
 | 🟡 F3 | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:02 |
-| 🟡 SKI | $0.000040 | **1.39x** ($+39) | 1.77x |  | pumpswap | 2026-03-20 22:50 |
-| 🔴 FOID | $0.000009 | **0.71x** ($-29) | 1.12x |  | pumpswap | 2026-03-20 21:06 |
+| 🟡 SKI | $0.000040 | **1.41x** ($+41) | 1.77x |  | pumpswap | 2026-03-20 22:50 |
+| 🔴 FOID | $0.000009 | **0.98x** ($-2) | 1.12x |  | pumpswap | 2026-03-20 21:06 |
 | 🔴 ROUNDHOUSE | $0.000006 | **0.55x** ($-45) | 1.01x |  | pumpswap | 2026-03-20 20:35 |
 | 🔴 Saleh | $0.000015 | **0.80x** ($-20) | 1.15x |  | pumpswap | 2026-03-20 20:28 |
 | 🔴 Judy | $0.000010 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 18:34 |
-| 🔴 ARIA | $0.000012 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 17:49 |
+| 🔴 ARIA | $0.000012 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 17:49 |
 | 🔴 ME | $0.000016 | **0.42x** ($-58) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
 | 🟡 PACO | $0.000009 | **1.39x** ($+39) | 1.40x |  | pumpswap | 2026-03-20 15:45 |
 | 🔴 clod | $0.000031 | **0.48x** ($-52) | 1.26x |  | pumpswap | 2026-03-20 14:55 |

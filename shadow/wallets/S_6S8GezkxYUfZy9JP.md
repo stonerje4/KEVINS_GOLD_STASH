@@ -1,6 +1,6 @@
 # Wallet: `6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC`
 
-> [GMGN](https://gmgn.ai/sol/address/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | [Solscan](https://solscan.io/account/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | Updated: 2026-03-21 01:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | [Solscan](https://solscan.io/account/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | Updated: 2026-03-21 01:15 UTC
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Positions | 7 (2 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-208 |
-| 📦 Unrealized | $+53 |
+| 📦 Unrealized | $+52 |
 | 🏦 Total | **$-155** |
 | Best ROI | 1.38x |
 | Avg ROI | 0.58x |
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 TIME | $0.000022 | **1.63x** ($+63) | 1.63x |  | pumpfun | 2026-03-20 23:40 |
-| 🔴 TADC | $0.000026 | **0.90x** ($-10) | 1.62x |  | pumpswap | 2026-03-20 22:50 |
+| 🔴 TADC | $0.000026 | **0.89x** ($-11) | 1.62x |  | pumpswap | 2026-03-20 22:50 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G`
 
-> [GMGN](https://gmgn.ai/sol/address/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) | [Solscan](https://solscan.io/account/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) | Updated: 2026-03-21 01:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) | [Solscan](https://solscan.io/account/4Dpu2UjkFmnwmjSM5z2hMwAxynmg3qE1mZ9Awq5pJq1G) | Updated: 2026-03-21 01:15 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-208 |
 | 📦 Unrealized | $-58 |
-| 🏦 Total | **$-267** |
+| 🏦 Total | **$-266** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.31x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 corporate | $0.000012 | **0.67x** ($-33) | 1.00x |  | pumpfun | 2026-03-20 18:12 |
+| 🔴 corporate | $0.000012 | **0.68x** ($-32) | 1.00x |  | pumpfun | 2026-03-20 18:12 |
 | 🔴 OM | $0.000012 | **0.75x** ($-25) | 1.24x |  | pumpfun | 2026-03-20 08:52 |
 
 ## Closed Positions

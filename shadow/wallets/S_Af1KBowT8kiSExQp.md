@@ -1,6 +1,6 @@
 # Wallet: `Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9`
 
-> [GMGN](https://gmgn.ai/sol/address/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | [Solscan](https://solscan.io/account/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | Updated: 2026-03-21 01:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | [Solscan](https://solscan.io/account/Af1KBowT8kiSExQpGJPd93brafL6epgritferfzys6B9) | Updated: 2026-03-21 01:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-7 |
-| 🏦 Total | **$-7** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$-4** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 pedgy | $0.000025 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 07:00 |
 | 🟡 Barron | $0.000019 | **1.23x** ($+23) | 1.40x |  | pumpswap | 2026-03-19 23:18 |
-| 🔴 Xingxing | $0.000032 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-19 22:55 |
+| 🔴 Xingxing | $0.000032 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-19 22:55 |
 
 ## Closed Positions
 

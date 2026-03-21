@@ -1,6 +1,6 @@
 # Wallet: `ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz`
 
-> [GMGN](https://gmgn.ai/sol/address/ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz) | [Solscan](https://solscan.io/account/ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz) | Updated: 2026-03-21 01:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz) | [Solscan](https://solscan.io/account/ANfg9Ab59acvdFer1UNPf4yNuVnRo8RriG62K6Um3ohz) | Updated: 2026-03-21 01:15 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-140 |
 | 📦 Unrealized | $-82 |
-| 🏦 Total | **$-221** |
+| 🏦 Total | **$-222** |
 | Best ROI | 0.81x |
 | Avg ROI | 0.53x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Babyify | $0.000025 | **0.69x** ($-31) | 1.14x |  | pumpfun | 2026-03-21 00:26 |
+| 🔴 Babyify | $0.000025 | **0.68x** ($-32) | 1.14x |  | pumpfun | 2026-03-21 00:26 |
 | 🔴 BxhwuiXZ | $0.000005 | **0.49x** ($-51) | 1.03x |  | pumpfun | 2026-03-20 23:13 |
 
 ## Closed Positions
