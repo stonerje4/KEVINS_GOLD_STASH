@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 03:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 03:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 93 (90 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+71 |
-| 📦 Unrealized | $+285 |
-| 🏦 Total | **$+357** |
+| 📦 Unrealized | $+288 |
+| 🏦 Total | **$+359** |
 | Best ROI | 2.92x |
 | Avg ROI | 1.24x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 TerpBot | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
-| 🟡 DISLIKE | $0.000033 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-21 03:17 |
+| 🟡 DISLIKE | $0.000033 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-21 03:17 |
 | 🟡 Out | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:00 |
 | 🔴 Lana | $0.000019 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 02:32 |
 | 🔴 chud | $0.000017 | **0.91x** ($-9) | 1.05x |  | pumpswap | 2026-03-21 02:12 |
@@ -89,7 +89,7 @@
 | 🟡 AIKO | $0.000008 | **1.07x** ($+7) | 1.31x |  | pumpswap | 2026-03-20 05:28 |
 | 🟡 TSUZUMI | $0.000025 | **1.06x** ($+6) | 1.38x |  | pumpswap | 2026-03-20 05:25 |
 | 🟡 咕咕嘎嘎 | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:31 |
-| 🔴 JOC | $0.000034 | **0.87x** ($-13) | 1.17x |  | pumpswap | 2026-03-20 03:09 |
+| 🔴 JOC | $0.000034 | **0.89x** ($-11) | 1.17x |  | pumpswap | 2026-03-20 03:09 |
 | 🟡 FTR | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:32 |
 | 🔴 Skull | $0.000008 | **0.77x** ($-23) | 1.15x |  | pumpswap | 2026-03-20 01:59 |
 | 🟡 $GROWN  | $0.000039 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 01:42 |

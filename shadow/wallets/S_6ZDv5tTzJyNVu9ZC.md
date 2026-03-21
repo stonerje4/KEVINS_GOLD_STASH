@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 03:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 03:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 155 (146 open, 9 closed) |
 | W/L | 2/7 (22%) |
 | 💵 Realized | $+6 |
-| 📦 Unrealized | $-722 |
-| 🏦 Total | **$-715** |
+| 📦 Unrealized | $-720 |
+| 🏦 Total | **$-713** |
 | Best ROI | 2.96x |
 | Avg ROI | 1.01x |
 
@@ -126,7 +126,7 @@
 | 🟡 UBT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:05 |
 | 🔴 AFC | $0.000005 | **0.81x** ($-19) | 1.08x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 WhiteBoy  | $0.000014 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 02:50 |
-| 🔴 JOC | $0.000033 | **0.87x** ($-13) | 1.17x |  | pumpswap | 2026-03-20 02:36 |
+| 🔴 JOC | $0.000033 | **0.90x** ($-10) | 1.17x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 BB | $0.000009 | **1.00x** ($-0) | 1.05x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 Skull | $0.000008 | **0.76x** ($-24) | 1.14x |  | pumpswap | 2026-03-20 01:59 |
 | 🔴 DoubleT | $0.000028 | **0.88x** ($-12) | 1.07x |  | pumpswap | 2026-03-20 01:55 |

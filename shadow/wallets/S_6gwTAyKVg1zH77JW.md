@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 03:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 03:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (91 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+92 |
-| 📦 Unrealized | $-509 |
-| 🏦 Total | **$-417** |
+| 📦 Unrealized | $-507 |
+| 🏦 Total | **$-415** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.11x |
 
@@ -77,7 +77,7 @@
 | 🟡 Hamster | $0.000032 | **1.08x** ($+8) | 1.09x |  | pumpswap | 2026-03-20 02:54 |
 | 🔴 SNDK | $0.000007 | **0.81x** ($-19) | 1.01x |  | pumpswap | 2026-03-20 02:47 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
-| 🔴 JOC | $0.000034 | **0.85x** ($-15) | 1.14x |  | pumpswap | 2026-03-20 02:36 |
+| 🔴 JOC | $0.000034 | **0.87x** ($-13) | 1.14x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 Gany | $0.000031 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
 | 🔴 LULU | $0.000035 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 5 | $0.000009 | **0.81x** ($-19) | 1.08x |  | pumpswap | 2026-03-20 02:06 |
