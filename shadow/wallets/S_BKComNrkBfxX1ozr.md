@@ -1,6 +1,6 @@
 # Wallet: `BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ`
 
-> [GMGN](https://gmgn.ai/sol/address/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | [Solscan](https://solscan.io/account/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | Updated: 2026-03-21 02:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | [Solscan](https://solscan.io/account/BKComNrkBfxX1ozrxzNmceH3j2AGgUVTcN9w2Ev9DCUQ) | Updated: 2026-03-21 02:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-75 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$-45** |
+| 📦 Unrealized | $+26 |
+| 🏦 Total | **$-49** |
 | Best ROI | 0.25x |
 | Avg ROI | 0.25x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 WRT | $0.000023 | **1.29x** ($+29) | 1.34x |  | pumpswap | 2026-03-20 12:11 |
+| 🟡 WRT | $0.000023 | **1.26x** ($+26) | 1.34x |  | pumpswap | 2026-03-20 12:11 |
 | 🟡 NBR | $0.000016 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 12:02 |
 
 ## Closed Positions

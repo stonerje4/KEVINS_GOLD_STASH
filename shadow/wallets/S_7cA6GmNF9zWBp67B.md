@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 02:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 02:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (22 open, 7 closed) |
 | W/L | 0/7 (0%) |
 | 💵 Realized | $-456 |
-| 📦 Unrealized | $+576 |
-| 🏦 Total | **$+121** |
+| 📦 Unrealized | $+577 |
+| 🏦 Total | **$+122** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.35x |
 
@@ -28,7 +28,7 @@
 | 🔴 Astro | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
 | 🟡 Anime | $0.000013 | **1.21x** ($+21) | 1.21x |  | pumpfun | 2026-03-20 14:39 |
 | 🟡 imagine | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
-| 🟡 BIBI | $0.000010 | **1.39x** ($+39) | 1.40x |  | pumpfun | 2026-03-20 14:11 |
+| 🟡 BIBI | $0.000010 | **1.41x** ($+41) | 1.41x |  | pumpfun | 2026-03-20 14:11 |
 | 🟡 Chuck | $0.000014 | **1.21x** ($+21) | 2.02x | ✅ | pumpswap | 2026-03-20 13:59 |
 | 🟡 OM | $0.000008 | **1.07x** ($+7) | 1.53x |  | pumpfun | 2026-03-20 10:31 |
 | 🟡 omochi | $0.000023 | **1.59x** ($+59) | 1.59x |  | pumpfun | 2026-03-20 10:29 |

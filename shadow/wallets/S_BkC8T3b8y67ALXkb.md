@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 02:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 02:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 32 (29 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-105 |
-| 📦 Unrealized | $-211 |
-| 🏦 Total | **$-316** |
+| 📦 Unrealized | $-217 |
+| 🏦 Total | **$-322** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.65x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 OIIA | $0.000028 | **1.21x** ($+21) | 1.21x |  | pumpswap | 2026-03-21 01:32 |
+| 🟡 OIIA | $0.000028 | **1.12x** ($+12) | 1.22x |  | pumpswap | 2026-03-21 01:32 |
 | 🟡 ZeroG | $0.000010 | **1.12x** ($+12) | 1.13x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 Dryer | $0.000007 | **0.90x** ($-10) | 1.04x |  | pumpswap | 2026-03-21 01:18 |
 | 🟡 OPAY | $0.000028 | **1.42x** ($+42) | 2.14x | ✅ | pumpswap | 2026-03-20 22:52 |
@@ -33,11 +33,11 @@
 | 🔴 PATRIOT | $0.000009 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 08:04 |
 | 🔴 Massive | $0.000020 | **0.82x** ($-18) | 1.58x |  | pumpswap | 2026-03-20 07:28 |
 | 🔴 George | $0.000019 | **0.47x** ($-53) | 1.17x |  | pumpswap | 2026-03-20 06:41 |
-| 🔴 LUMO | $0.000035 | **0.54x** ($-46) | 1.74x |  | pumpswap | 2026-03-20 04:31 |
-| 🟡 LIFE | $0.000039 | **1.66x** ($+66) | 1.79x |  | pumpswap | 2026-03-20 02:56 |
+| 🔴 LUMO | $0.000035 | **0.56x** ($-44) | 1.74x |  | pumpswap | 2026-03-20 04:31 |
+| 🟡 LIFE | $0.000039 | **1.69x** ($+69) | 1.79x |  | pumpswap | 2026-03-20 02:56 |
 | 🟡 FTR | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 Hamster | $0.000035 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
-| 🔴 OXIDE | $0.000029 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
+| 🔴 OXIDE | $0.000029 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🟡 FKH | $0.000018 | **1.04x** ($+4) | 1.07x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 Monke | $0.000009 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 Rosei | $0.000014 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 02:12 |

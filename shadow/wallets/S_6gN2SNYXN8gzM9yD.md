@@ -1,6 +1,6 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-21 02:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-21 02:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 10 (7 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $-40 |
-| 🏦 Total | **$-223** |
+| 📦 Unrealized | $-31 |
+| 🏦 Total | **$-214** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -18,9 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Luke | $0.000005 | **0.89x** ($-11) | 1.49x |  | pumpfun | 2026-03-21 01:55 |
-| 🔴 FRIEND | $0.000011 | **0.68x** ($-32) | 1.19x |  | pumpfun | 2026-03-21 01:06 |
-| 🟡 wbs | $0.000018 | **1.03x** ($+3) | 1.59x |  | pumpfun | 2026-03-20 20:26 |
+| 🔴 Luke | $0.000005 | **0.99x** ($-1) | 1.49x |  | pumpfun | 2026-03-21 01:55 |
+| 🔴 FRIEND | $0.000011 | **0.65x** ($-35) | 1.19x |  | pumpfun | 2026-03-21 01:06 |
+| 🟡 wbs | $0.000018 | **1.04x** ($+4) | 1.59x |  | pumpfun | 2026-03-20 20:26 |
 | 🔴 Jiji | $0.000005 | **0.49x** ($-51) | 1.08x |  | pumpfun | 2026-03-20 15:52 |
 | 🟡 DLORP | $0.000007 | **1.55x** ($+55) | 1.96x |  | pumpswap | 2026-03-20 00:15 |
 | 🔴 world | $0.000022 | **0.98x** ($-2) | 1.67x |  | pumpfun | 2026-03-20 00:12 |

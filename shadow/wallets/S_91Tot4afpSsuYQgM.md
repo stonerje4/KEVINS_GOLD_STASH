@@ -1,16 +1,16 @@
 # Wallet: `91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso`
 
-> [GMGN](https://gmgn.ai/sol/address/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | [Solscan](https://solscan.io/account/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | Updated: 2026-03-21 02:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | [Solscan](https://solscan.io/account/91Tot4afpSsuYQgMRsTms32REKCVZ4GPD35SKoK36Aso) | Updated: 2026-03-21 02:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (8 open, 0 closed) |
+| Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+91 |
-| 🏦 Total | **$+91** |
+| 📦 Unrealized | $+90 |
+| 🏦 Total | **$+90** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 EVERYTHING | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 02:25 |
 | 🔴 PATAPIM | $0.000005 | **0.99x** ($-1) | 1.14x |  | pumpswap | 2026-03-20 22:41 |
 | 🔴 CHIBI | $0.000011 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 19:47 |
 | 🟡 Chibis | $0.000011 | **1.32x** ($+32) | 1.32x |  | pumpswap | 2026-03-20 19:34 |
