@@ -1,12 +1,12 @@
 # Wallet: `HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL`
 
-> [GMGN](https://gmgn.ai/sol/address/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | [Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-21 03:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | [Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-21 03:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 8 (8 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-9 |
@@ -18,6 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Jiji | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:03 |
+| 🟡 COOK | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:01 |
 | 🟡 almost | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 02:59 |
 | 🟡 Homies  | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 02:57 |
 | 🟡 GAY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 02:56 |
