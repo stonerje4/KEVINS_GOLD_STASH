@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 11:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 11:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 40 (29 open, 11 closed) |
 | W/L | 1/10 (9%) |
 | 💵 Realized | $-555 |
-| 📦 Unrealized | $+717 |
-| 🏦 Total | **$+162** |
+| 📦 Unrealized | $+729 |
+| 🏦 Total | **$+174** |
 | Best ROI | 1.43x |
 | Avg ROI | 0.50x |
 
@@ -18,20 +18,20 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 GoutGout | $0.000014 | **0.78x** ($-22) | 1.03x |  | pumpfun | 2026-03-21 11:17 |
+| 🔴 GoutGout | $0.000014 | **0.88x** ($-12) | 1.03x |  | pumpfun | 2026-03-21 11:17 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:45 |
 | 🟡 IMAGINE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:59 |
 | 🟢 grokputer | $0.000014 | **2.54x** ($+154) | 2.54x | ✅ | pumpfun | 2026-03-21 06:07 |
 | 🟡 cabbage | $0.000021 | **1.71x** ($+71) | 1.71x |  | pumpfun | 2026-03-21 06:01 |
 | 🟡 Babyify | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:32 |
-| 🟡 FAKER | $0.000035 | **1.01x** ($+1) | 1.06x |  | pumpswap | 2026-03-21 05:18 |
+| 🔴 FAKER | $0.000035 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-21 05:18 |
 | 🟢 EVERYTHING | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-20 22:09 |
 | 🔴 Ignotus  | $0.000034 | **0.63x** ($-37) | 1.08x |  | pumpfun | 2026-03-20 21:33 |
 | 🟡 XAI | $0.000009 | **1.12x** ($+12) | 1.22x |  | pumpswap | 2026-03-20 17:33 |
 | 🟡 LNG | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 17:21 |
 | 🟡 Anime | $0.000009 | **1.49x** ($+49) | 1.78x |  | pumpfun | 2026-03-20 16:19 |
 | 🟡 spec | $0.000024 | **1.55x** ($+55) | 1.55x |  | pumpfun | 2026-03-20 15:59 |
-| 🔴 xAI | $0.000019 | **0.82x** ($-18) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
+| 🔴 xAI | $0.000019 | **0.86x** ($-14) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
 | 🔴 Astro | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 14:41 |
 | 🟡 Anime | $0.000013 | **1.21x** ($+21) | 1.21x |  | pumpfun | 2026-03-20 14:39 |
 | 🟡 imagine | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:16 |
