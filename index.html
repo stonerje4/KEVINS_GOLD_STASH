@@ -45,7 +45,7 @@ a{color:#3b82f6;text-decoration:none}a:hover{text-decoration:underline}
 <body>
 <div class="c">
 <h1>🔥 PUMP ALPHA — Backtest</h1>
-<div class="sub">Updated: 2026-03-21 17:29 UTC · 1m candles · 48h per trade · our exact TP ladder + trailing stops</div>
+<div class="sub">Updated: 2026-03-21 17:30 UTC · 1m candles · 48h per trade · our exact TP ladder + trailing stops</div>
 
 <div class="sg">
   <div class="sc"><div class="sl">Backtested</div><div class="sv b">14</div></div>
@@ -317,7 +317,7 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
 
   h+=`<div class="st">Simulated Trades</div>`;
   h+=`<table style="width:100%;border-collapse:collapse"><thead><tr>`;
-  h+=`<th></th><th>Token</th><th>Entry MC</th><th>Bought</th><th>Hold Time</th><th>Return</th><th>P&L/$10</th><th>Peak MC</th><th>Exit</th><th>Sells</th>`;
+  h+=`<th></th><th>Token</th><th>Entry MC</th><th>Bought</th><th>Hold Time</th><th>Return</th><th>P&L/$10</th><th>Peak MC</th><th>Vol (SOL)</th><th>Exit</th><th>Sells</th>`;
   h+=`</tr></thead><tbody>`;
 
   function fmtMC(price){if(!price||price<=0)return'?';const mc=price*1e9;if(mc>=1e6)return'$'+(mc/1e6).toFixed(1)+'M';if(mc>=1e3)return'$'+(mc/1e3).toFixed(1)+'K';return'$'+mc.toFixed(0);}
@@ -350,12 +350,15 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
     h+=`<td><strong>${t.return?.toFixed(2)}x</strong></td>`;
     h+=`<td class="${pc}"><strong>$${tpnl}</strong></td>`;
     h+=`<td>${peakMC}</td>`;
+    const vol=t.volume||0;
+    const volStr=vol>=1000?(vol/1000).toFixed(1)+'K':vol>=1?vol.toFixed(0):vol>0?vol.toFixed(1):'—';
+    h+=`<td>${volStr}</td>`;
     h+=`<td>${(t.exit||'?').replace(/_/g,' ')}${isOpen?' ⏳':''}</td>`;
     h+=`<td>${sellCount?'▶ '+sellCount+' sells':'—'}</td>`;
     h+=`</tr>`;
 
     if(sellCount){
-      h+=`<tr id="${rid}" class="expand-row" style="display:none"><td colspan="10">`;
+      h+=`<tr id="${rid}" class="expand-row" style="display:none"><td colspan="11">`;
       h+=`<table style="width:100%"><thead><tr><th>#</th><th>Trigger</th><th>Time to Trigger</th><th>Sell %</th><th>At Mult</th><th>Sell MC</th><th>$/trade</th></tr></thead><tbody>`;
       for(let s=0;s<t.sells.length;s++){
         const sell=t.sells[s];
@@ -438,6 +441,11 @@ function toggleRecent(){
     row.children[7].dataset.v=avgPeak;
     row.children[8].textContent=bestTrade.toFixed(1)+'x';
     row.children[8].dataset.v=bestTrade;
+    // Avg hold time from closed trades
+    const holdCandles=closed.filter(t=>t.candles>0).map(t=>t.candles);
+    const avgHoldMins=holdCandles.length?(holdCandles.reduce((s,c)=>s+c,0)/holdCandles.length*5):0;
+    row.children[9].textContent=avgHoldMins<120?Math.round(avgHoldMins)+'m':(avgHoldMins/60).toFixed(1)+'h';
+    row.children[9].dataset.v=avgHoldMins;
     row.children[10].textContent=n;
     row.style.display='';
   });
