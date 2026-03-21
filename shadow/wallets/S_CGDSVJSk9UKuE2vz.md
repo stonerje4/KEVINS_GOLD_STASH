@@ -1,12 +1,12 @@
 # Wallet: `CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-21 10:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | [Solscan](https://solscan.io/account/CGDSVJSk9UKuE2vzkrXUjmJLXz11qLkYb2yyqyawmQZJ) | Updated: 2026-03-21 10:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (8 open, 1 closed) |
+| Positions | 10 (9 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-60 |
 | 📦 Unrealized | $+7 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 BARK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:04 |
 | 🟡 pepeto | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 04:43 |
 | 🟡 Grokipedia | $0.000016 | **1.03x** ($+3) | 1.09x |  | pumpswap | 2026-03-20 04:09 |
 | 🔴 FIREBALL | $0.000018 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 04:01 |

@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 10:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 10:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 33 (15 open, 18 closed) |
 | W/L | 1/17 (6%) |
 | 💵 Realized | $-752 |
-| 📦 Unrealized | $+365 |
-| 🏦 Total | **$-387** |
+| 📦 Unrealized | $+360 |
+| 🏦 Total | **$-392** |
 | Best ROI | 1.47x |
 | Avg ROI | 0.58x |
 
@@ -31,7 +31,7 @@
 | 🟡 Pixels | $0.000024 | **1.40x** ($+40) | 1.88x |  | pumpfun | 2026-03-20 06:53 |
 | 🔴 BOAR | $0.000008 | **0.77x** ($-23) | 1.69x |  | pumpswap | 2026-03-20 06:37 |
 | 🟡 IMAGINE | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:13 |
-| 🟢 9Yqs3sVA | $0.000008 | **2.04x** ($+104) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
+| 🟡 9Yqs3sVA | $0.000008 | **1.93x** ($+93) | 4.35x | ✅ | pumpfun | 2026-03-20 02:07 |
 | 🟡 Grokslop | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-20 01:01 |
 
 ## Closed Positions
