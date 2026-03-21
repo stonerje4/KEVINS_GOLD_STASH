@@ -1,6 +1,6 @@
 # Wallet: `87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw`
 
-> [GMGN](https://gmgn.ai/sol/address/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | [Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-21 07:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | [Solscan](https://solscan.io/account/87nWQxQvYvnijGKAD5yt8QafCr1sCsbRs8KroufmVogw) | Updated: 2026-03-21 07:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (13 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-201 |
-| 📦 Unrealized | $+72 |
-| 🏦 Total | **$-129** |
+| 📦 Unrealized | $+70 |
+| 🏦 Total | **$-131** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.33x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 DRONE | $0.000006 | **1.25x** ($+25) | 1.31x |  | pumpswap | 2026-03-21 06:48 |
 | 🟡 WRT | $0.000007 | **1.02x** ($+2) | 1.02x |  | pumpfun | 2026-03-21 06:34 |
-| 🟡 WRT | $0.000005 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-21 06:05 |
+| 🟡 WRT | $0.000005 | **1.01x** ($+1) | 1.08x |  | pumpswap | 2026-03-21 06:05 |
 | 🟡 USRNR | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:48 |
 | 🟡 WAR | $0.000008 | **1.31x** ($+31) | 1.42x |  | pumpfun | 2026-03-20 19:39 |
 | 🔴 OSP | $0.000005 | **0.92x** ($-8) | 1.01x |  | pumpfun | 2026-03-20 17:10 |
