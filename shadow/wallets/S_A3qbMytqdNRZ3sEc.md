@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 11:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 11:05 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 4/7 (36%) |
 | 💵 Realized | $-7 |
 | 📦 Unrealized | $-301 |
-| 🏦 Total | **$-307** |
+| 🏦 Total | **$-308** |
 | Best ROI | 2.97x |
 | Avg ROI | 0.99x |
 
@@ -22,7 +22,7 @@
 | 🟡 FABIANA | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:16 |
 | 🟡 p-token | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:23 |
 | 🟡 Situation | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:47 |
-| 🔴 honkermog | $0.000023 | **0.90x** ($-10) | 1.01x |  | pumpswap | 2026-03-21 07:44 |
+| 🔴 honkermog | $0.000023 | **0.89x** ($-11) | 1.01x |  | pumpswap | 2026-03-21 07:44 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:44 |
 | 🟡 OSP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:00 |
 | 🟡 Income | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:56 |

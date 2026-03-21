@@ -1,6 +1,6 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 11:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 11:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 42 (38 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-166 |
-| 📦 Unrealized | $-225 |
-| 🏦 Total | **$-391** |
+| 📦 Unrealized | $-184 |
+| 🏦 Total | **$-350** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.59x |
 
@@ -27,7 +27,7 @@
 | 🟡 SNIFFER | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:06 |
 | 🟡 Pixels | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:02 |
 | 🟡 Income | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:56 |
-| 🟡 CHIBELON | $0.000027 | **1.26x** ($+26) | 1.78x |  | pumpswap | 2026-03-21 04:48 |
+| 🟡 CHIBELON | $0.000027 | **1.68x** ($+68) | 1.92x |  | pumpswap | 2026-03-21 04:48 |
 | 🔴 OIIA | $0.000028 | **0.94x** ($-6) | 1.22x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 ZeroG | $0.000010 | **0.91x** ($-9) | 1.13x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 Dryer | $0.000007 | **0.85x** ($-15) | 1.04x |  | pumpswap | 2026-03-21 01:18 |

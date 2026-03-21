@@ -1,24 +1,23 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 11:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 11:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 39 (29 open, 10 closed) |
-| W/L | 0/10 (0%) |
-| 💵 Realized | $-598 |
-| 📦 Unrealized | $+771 |
-| 🏦 Total | **$+174** |
-| Best ROI | 0.80x |
-| Avg ROI | 0.40x |
+| Positions | 39 (28 open, 11 closed) |
+| W/L | 1/10 (9%) |
+| 💵 Realized | $-555 |
+| 📦 Unrealized | $+740 |
+| 🏦 Total | **$+185** |
+| Best ROI | 1.43x |
+| Avg ROI | 0.50x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Grokputer | $0.000007 | **1.79x** ($+79) | 4.09x | ✅ | pumpfun | 2026-03-21 10:43 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:45 |
 | 🟡 IMAGINE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:59 |
 | 🟢 grokputer | $0.000014 | **2.54x** ($+154) | 2.54x | ✅ | pumpfun | 2026-03-21 06:07 |
@@ -52,6 +51,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Grokputer | 1.43x | $+43 | trailing_stop_4x | 4.09x | pumpfun | 2026-03-21 10:43 → 2026-03-21 11:01 |
 | 🟡 Optimus | 0.80x | $-20 | trailing_stop_2x | 2.13x | pumpfun | 2026-03-21 08:57 → 2026-03-21 10:20 |
 | 🔴 HvA | 0.38x | $-62 | stop_loss | 1.09x | pumpfun | 2026-03-21 08:13 → 2026-03-21 08:22 |
 | 🔴 PIP | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-21 05:40 → 2026-03-21 06:18 |

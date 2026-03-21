@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 11:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 11:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,561 |
-| 🏦 Total | **$-2,684** |
+| 📦 Unrealized | $-2,548 |
+| 🏦 Total | **$-2,671** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -44,7 +44,7 @@
 | 🔴 CHIBITRUMP | $0.000017 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 FSC | $0.000034 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 11:56 |
 | 🔴 CRANK | $0.000020 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 11:53 |
-| 🔴 ORACLE | $0.000034 | **0.71x** ($-29) | 1.03x |  | pumpswap | 2026-03-20 11:51 |
+| 🔴 ORACLE | $0.000034 | **0.76x** ($-24) | 1.03x |  | pumpswap | 2026-03-20 11:51 |
 | 🔴 Matthew | $0.000018 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 11:22 |
 | 🔴 MIROFISH | $0.000026 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 10:42 |
 | 🔴 Apple | $0.000018 | **0.74x** ($-26) | 1.20x |  | pumpswap | 2026-03-20 10:40 |
@@ -137,10 +137,10 @@
 | 🔴 WhiteBoy  | $0.000015 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🔴 SNDK | $0.000008 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🔴 JOC | $0.000039 | **0.81x** ($-19) | 1.01x |  | pumpswap | 2026-03-20 02:36 |
-| 🟡 AINL | $0.000029 | **1.50x** ($+50) | 1.50x |  | pumpswap | 2026-03-20 02:35 |
+| 🟡 AINL | $0.000029 | **1.59x** ($+59) | 1.59x |  | pumpswap | 2026-03-20 02:35 |
 | 🟢 PIKE | $0.000033 | **2.12x** ($+112) | 2.72x | ✅ | pumpswap | 2026-03-20 02:22 |
 | 🔴 BB | $0.000010 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
-| 🔴 fire | $0.000006 | **0.94x** ($-6) | 1.11x |  | pumpswap | 2026-03-20 02:18 |
+| 🔴 fire | $0.000006 | **0.93x** ($-7) | 1.11x |  | pumpswap | 2026-03-20 02:18 |
 | 🔴 Dozer | $0.000015 | **0.50x** ($-50) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 Jorge | $0.000007 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 GROKBUILD | $0.000023 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 02:09 |
