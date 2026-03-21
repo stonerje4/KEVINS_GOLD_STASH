@@ -1,6 +1,6 @@
 # Wallet: `77RYvZP9oKRdPySXmiAagoJvAD61Qw1Hdr1vNjnC9SL3`
 
-> [GMGN](https://gmgn.ai/sol/address/77RYvZP9oKRdPySXmiAagoJvAD61Qw1Hdr1vNjnC9SL3) | [Solscan](https://solscan.io/account/77RYvZP9oKRdPySXmiAagoJvAD61Qw1Hdr1vNjnC9SL3) | Updated: 2026-03-21 00:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/77RYvZP9oKRdPySXmiAagoJvAD61Qw1Hdr1vNjnC9SL3) | [Solscan](https://solscan.io/account/77RYvZP9oKRdPySXmiAagoJvAD61Qw1Hdr1vNjnC9SL3) | Updated: 2026-03-21 00:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-65 |
-| 📦 Unrealized | $+207 |
-| 🏦 Total | **$+141** |
+| 📦 Unrealized | $+257 |
+| 🏦 Total | **$+191** |
 | Best ROI | 0.35x |
 | Avg ROI | 0.35x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 uAI | $0.000021 | **1.26x** ($+26) | 1.26x |  | pumpfun | 2026-03-21 00:08 |
+| 🟡 uAI | $0.000021 | **1.76x** ($+76) | 1.76x |  | pumpfun | 2026-03-21 00:08 |
 | 🚀 PIXELS | $0.000039 | **6.31x** ($+531) | 6.65x | ✅ | pumpfun | 2026-03-20 00:07 |
 
 ## Closed Positions

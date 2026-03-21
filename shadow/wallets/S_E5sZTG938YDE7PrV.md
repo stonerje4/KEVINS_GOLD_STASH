@@ -1,6 +1,6 @@
 # Wallet: `E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3`
 
-> [GMGN](https://gmgn.ai/sol/address/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | [Solscan](https://solscan.io/account/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | Updated: 2026-03-21 00:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | [Solscan](https://solscan.io/account/E5sZTG938YDE7PrVpjHT9idtuwQLxusWdPHgEPtu3ky3) | Updated: 2026-03-21 00:15 UTC
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | 🟡 LIBERTY | $0.000039 | **1.30x** ($+30) | 2.45x | ✅ | pumpswap | 2026-03-20 21:34 |
 | 🔴 Jessica | $0.000007 | **0.45x** ($-55) | 1.66x |  | pumpswap | 2026-03-20 21:32 |
 | 🟢 Jessica | $0.000008 | **4.54x** ($+354) | 4.54x | ✅ | pumpfun | 2026-03-20 21:31 |
-| 🔴 wbs | $0.000022 | **0.73x** ($-27) | 1.29x |  | pumpfun | 2026-03-20 21:12 |
+| 🔴 wbs | $0.000022 | **0.72x** ($-28) | 1.29x |  | pumpfun | 2026-03-20 21:12 |
 | 🔴 Gizmo | $0.000007 | **0.45x** ($-55) | 1.11x |  | pumpswap | 2026-03-20 06:52 |
 | 🔴 Gizmo | $0.000009 | **0.54x** ($-46) | 1.25x |  | pumpfun | 2026-03-20 05:59 |
 

@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 00:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 00:15 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (20 open, 9 closed) |
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-339 |
-| 📦 Unrealized | $+43 |
-| 🏦 Total | **$-296** |
+| 📦 Unrealized | $+30 |
+| 🏦 Total | **$-309** |
 | Best ROI | 1.32x |
 | Avg ROI | 0.62x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 J8piKJCf | $0.000005 | **0.49x** ($-51) | 1.30x |  | pumpfun | 2026-03-20 23:20 |
 | 🔴 ✨ | $0.000006 | **0.40x** ($-60) | 1.10x |  | pumpfun | 2026-03-20 22:29 |
-| 🟡 SNIFFER | $0.000026 | **1.22x** ($+22) | 1.49x |  | pumpswap | 2026-03-20 22:13 |
+| 🟡 SNIFFER | $0.000026 | **1.03x** ($+3) | 1.49x |  | pumpswap | 2026-03-20 22:13 |
 | 🚀 LIFE | $0.000005 | **6.68x** ($+568) | 6.68x | ✅ | pumpfun | 2026-03-20 21:52 |
 | 🔴 JEREMY | $0.000016 | **0.59x** ($-41) | 1.05x |  | pumpswap | 2026-03-20 20:56 |
 | 🟢 Cigify | $0.000010 | **3.68x** ($+268) | 3.68x | ✅ | pumpfun | 2026-03-20 20:55 |
@@ -33,7 +33,7 @@
 | 🟡 SBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:34 |
 | 🟡 cigarette | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 PHIBZ | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:28 |
-| 🔴 chibify | $0.000011 | **0.46x** ($-54) | 1.00x |  | pumpswap | 2026-03-20 10:59 |
+| 🔴 chibify | $0.000011 | **0.52x** ($-48) | 1.00x |  | pumpswap | 2026-03-20 10:59 |
 | 🟡 EmH4y6zA | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 PVC | $0.000008 | **1.55x** ($+55) | 1.69x |  | pumpfun | 2026-03-20 03:18 |
 | 🔴 imagineslop | $0.000009 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 02:11 |

@@ -1,24 +1,23 @@
 # Wallet: `BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y`
 
-> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-21 00:10 UTC
+> [GMGN](https://gmgn.ai/sol/address/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | [Solscan](https://solscan.io/account/BvwVZpUeYDMnH463KB2ZYXwEdBtsTwmhU2utccqJSL2y) | Updated: 2026-03-21 00:15 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (6 open, 2 closed) |
-| W/L | 0/2 (0%) |
-| 💵 Realized | $-78 |
-| 📦 Unrealized | $-63 |
-| 🏦 Total | **$-142** |
+| Positions | 8 (5 open, 3 closed) |
+| W/L | 0/3 (0%) |
+| 💵 Realized | $-139 |
+| 📦 Unrealized | $-23 |
+| 🏦 Total | **$-162** |
 | Best ROI | 0.83x |
-| Avg ROI | 0.61x |
+| Avg ROI | 0.54x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Maxilla | $0.000009 | **0.60x** ($-40) | 1.02x |  | pumpfun | 2026-03-20 23:53 |
 | 🟡 LIFE | $0.000033 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:23 |
 | 🟡 CRACK | $0.000021 | **1.78x** ($+78) | 1.78x |  | pumpfun | 2026-03-20 19:41 |
 | 🔴 xcat | $0.000006 | **0.60x** ($-40) | 1.12x |  | pumpfun | 2026-03-20 18:06 |
@@ -29,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Maxilla | 0.39x | $-61 | stop_loss | 1.02x | pumpfun | 2026-03-20 23:53 → 2026-03-21 00:13 |
 | 🟡 STICKERS | 0.83x | $-17 | trailing_stop_2x | 2.06x | pumpfun | 2026-03-20 22:36 → 2026-03-20 23:20 |
 | 🔴 2ozhSu4G | 0.39x | $-61 | stop_loss | 1.05x | pumpfun | 2026-03-20 00:14 → 2026-03-20 00:15 |
 
