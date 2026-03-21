@@ -1,18 +1,18 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 10:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 10:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 38 (29 open, 9 closed) |
-| W/L | 0/9 (0%) |
-| 💵 Realized | $-578 |
-| 📦 Unrealized | $+745 |
-| 🏦 Total | **$+167** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.36x |
+| Positions | 38 (28 open, 10 closed) |
+| W/L | 0/10 (0%) |
+| 💵 Realized | $-598 |
+| 📦 Unrealized | $+743 |
+| 🏦 Total | **$+145** |
+| Best ROI | 0.80x |
+| Avg ROI | 0.40x |
 
 ## Open Positions
 
@@ -20,11 +20,10 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:45 |
 | 🟡 IMAGINE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:59 |
-| 🟡 Optimus | $0.000012 | **1.09x** ($+9) | 2.13x | ✅ | pumpfun | 2026-03-21 08:57 |
 | 🟢 grokputer | $0.000014 | **2.54x** ($+154) | 2.54x | ✅ | pumpfun | 2026-03-21 06:07 |
 | 🟡 cabbage | $0.000021 | **1.71x** ($+71) | 1.71x |  | pumpfun | 2026-03-21 06:01 |
 | 🟡 Babyify | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:32 |
-| 🔴 FAKER | $0.000035 | **0.93x** ($-7) | 1.01x |  | pumpswap | 2026-03-21 05:18 |
+| 🔴 FAKER | $0.000035 | **0.95x** ($-5) | 1.01x |  | pumpswap | 2026-03-21 05:18 |
 | 🟢 EVERYTHING | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-20 22:09 |
 | 🔴 Ignotus  | $0.000034 | **0.63x** ($-37) | 1.08x |  | pumpfun | 2026-03-20 21:33 |
 | 🟡 XAI | $0.000009 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 17:33 |
@@ -52,6 +51,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Optimus | 0.80x | $-20 | trailing_stop_2x | 2.13x | pumpfun | 2026-03-21 08:57 → 2026-03-21 10:20 |
 | 🔴 HvA | 0.38x | $-62 | stop_loss | 1.09x | pumpfun | 2026-03-21 08:13 → 2026-03-21 08:22 |
 | 🔴 PIP | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-21 05:40 → 2026-03-21 06:18 |
 | 🔴 DogeFather | 0.40x | $-60 | stop_loss | 1.28x | pumpswap | 2026-03-20 20:58 → 2026-03-20 22:18 |

@@ -1,24 +1,23 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-21 10:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-21 10:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (12 open, 7 closed) |
-| W/L | 1/6 (14%) |
-| 💵 Realized | $-175 |
-| 📦 Unrealized | $-128 |
-| 🏦 Total | **$-303** |
+| Positions | 19 (11 open, 8 closed) |
+| W/L | 1/7 (12%) |
+| 💵 Realized | $-190 |
+| 📦 Unrealized | $-131 |
+| 🏦 Total | **$-321** |
 | Best ROI | 1.83x |
-| Avg ROI | 0.75x |
+| Avg ROI | 0.76x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Optimus | $0.000013 | **1.07x** ($+7) | 2.08x | ✅ | pumpfun | 2026-03-21 09:01 |
 | 🔴 Forget | $0.000012 | **0.69x** ($-31) | 1.09x |  | pumpswap | 2026-03-20 19:28 |
 | 🟡 OIIA | $0.000021 | **1.25x** ($+25) | 1.84x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |
@@ -35,6 +34,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Optimus | 0.85x | $-15 | trailing_stop_2x | 2.08x | pumpfun | 2026-03-21 09:01 → 2026-03-21 10:19 |
 | 🟡 DogeFather | 0.85x | $-15 | trailing_stop_2x | 2.47x | pumpfun | 2026-03-20 19:50 → 2026-03-20 21:32 |
 | 🔴 MFT | 0.38x | $-62 | stop_loss | 1.00x | pumpswap | 2026-03-20 16:50 → 2026-03-20 22:24 |
 | 🔴 FOID | 0.58x | $-42 | trailing_stop_2x | 2.10x | pumpfun | 2026-03-20 14:58 → 2026-03-20 21:01 |
