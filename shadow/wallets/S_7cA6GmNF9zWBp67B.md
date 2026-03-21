@@ -1,16 +1,16 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 11:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 11:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 41 (30 open, 11 closed) |
+| Positions | 43 (32 open, 11 closed) |
 | W/L | 1/10 (9%) |
 | 💵 Realized | $-555 |
-| 📦 Unrealized | $+667 |
-| 🏦 Total | **$+112** |
+| 📦 Unrealized | $+671 |
+| 🏦 Total | **$+116** |
 | Best ROI | 1.43x |
 | Avg ROI | 0.50x |
 
@@ -18,14 +18,16 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TRUDY | $0.000026 | **0.57x** ($-43) | 1.04x |  | pumpfun | 2026-03-21 11:27 |
-| 🔴 GoutGout | $0.000014 | **0.63x** ($-37) | 1.12x |  | pumpfun | 2026-03-21 11:17 |
+| 🟡 Mirai | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 11:46 |
+| 🟡 CHIBITRUMP | $0.000016 | **1.04x** ($+4) | 1.12x |  | pumpswap | 2026-03-21 11:45 |
+| 🔴 TRUDY | $0.000026 | **0.54x** ($-46) | 1.04x |  | pumpfun | 2026-03-21 11:27 |
+| 🔴 GoutGout | $0.000014 | **0.68x** ($-32) | 1.12x |  | pumpfun | 2026-03-21 11:17 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:45 |
 | 🟡 IMAGINE | $0.000037 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:59 |
 | 🟢 grokputer | $0.000014 | **2.54x** ($+154) | 2.54x | ✅ | pumpfun | 2026-03-21 06:07 |
 | 🟡 cabbage | $0.000021 | **1.71x** ($+71) | 1.71x |  | pumpfun | 2026-03-21 06:01 |
 | 🟡 Babyify | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:32 |
-| 🔴 FAKER | $0.000035 | **0.99x** ($-1) | 1.06x |  | pumpswap | 2026-03-21 05:18 |
+| 🔴 FAKER | $0.000035 | **0.97x** ($-3) | 1.06x |  | pumpswap | 2026-03-21 05:18 |
 | 🟢 EVERYTHING | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-20 22:09 |
 | 🔴 Ignotus  | $0.000034 | **0.63x** ($-37) | 1.08x |  | pumpfun | 2026-03-20 21:33 |
 | 🟡 XAI | $0.000009 | **1.12x** ($+12) | 1.22x |  | pumpswap | 2026-03-20 17:33 |

@@ -1,16 +1,16 @@
 # Wallet: `6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332`
 
-> [GMGN](https://gmgn.ai/sol/address/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | [Solscan](https://solscan.io/account/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | Updated: 2026-03-21 11:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | [Solscan](https://solscan.io/account/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | Updated: 2026-03-21 11:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (4 open, 4 closed) |
+| Positions | 9 (5 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-197 |
-| 📦 Unrealized | $+61 |
-| 🏦 Total | **$-136** |
+| 📦 Unrealized | $+49 |
+| 🏦 Total | **$-148** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.51x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 BioReason | $0.000007 | **0.88x** ($-12) | 1.12x |  | pumpfun | 2026-03-21 11:45 |
 | 🔴 SHRAMP | $0.000006 | **0.41x** ($-59) | 1.80x |  | pumpfun | 2026-03-21 11:04 |
 | 🔴 0xSero | $0.000008 | **0.97x** ($-3) | 1.00x |  | pumpfun | 2026-03-21 10:01 |
 | 🚀 Toly | $0.000006 | **6.10x** ($+510) | 6.10x | ✅ | pumpfun | 2026-03-21 09:51 |

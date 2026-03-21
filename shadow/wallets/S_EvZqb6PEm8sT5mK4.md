@@ -1,6 +1,6 @@
 # Wallet: `EvZqb6PEm8sT5mK4v2TTsRr9LpWrwAdkoSGC9UhmX29C`
 
-> [GMGN](https://gmgn.ai/sol/address/EvZqb6PEm8sT5mK4v2TTsRr9LpWrwAdkoSGC9UhmX29C) | [Solscan](https://solscan.io/account/EvZqb6PEm8sT5mK4v2TTsRr9LpWrwAdkoSGC9UhmX29C) | Updated: 2026-03-21 11:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/EvZqb6PEm8sT5mK4v2TTsRr9LpWrwAdkoSGC9UhmX29C) | [Solscan](https://solscan.io/account/EvZqb6PEm8sT5mK4v2TTsRr9LpWrwAdkoSGC9UhmX29C) | Updated: 2026-03-21 11:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+86 |
-| 🏦 Total | **$+86** |
+| 📦 Unrealized | $+61 |
+| 🏦 Total | **$+61** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 OIIA | $0.000038 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:40 |
 | 🟡 Wolverine | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 08:10 |
-| 🟢 wolverine | $0.000007 | **2.72x** ($+172) | 3.00x | ✅ | pumpfun | 2026-03-20 07:43 |
+| 🟢 wolverine | $0.000007 | **2.21x** ($+121) | 3.00x | ✅ | pumpfun | 2026-03-20 07:43 |
 
 ## Closed Positions
 
