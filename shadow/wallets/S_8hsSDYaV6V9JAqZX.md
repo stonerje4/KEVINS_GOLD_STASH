@@ -1,6 +1,6 @@
-# Wallet: `2uH8mAevchv8ZNMX9oaeWdxT8H4G52cxZDaJqg6pkLa7`
+# Wallet: `8hsSDYaV6V9JAqZXbzPojZoebJBMt1bs3rss9mdakjV8`
 
-> [GMGN](https://gmgn.ai/sol/address/2uH8mAevchv8ZNMX9oaeWdxT8H4G52cxZDaJqg6pkLa7) | [Solscan](https://solscan.io/account/2uH8mAevchv8ZNMX9oaeWdxT8H4G52cxZDaJqg6pkLa7) | Updated: 2026-03-21 08:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/8hsSDYaV6V9JAqZXbzPojZoebJBMt1bs3rss9mdakjV8) | [Solscan](https://solscan.io/account/8hsSDYaV6V9JAqZXbzPojZoebJBMt1bs3rss9mdakjV8) | Updated: 2026-03-21 08:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$+3** |
+| 📦 Unrealized | $+6 |
+| 🏦 Total | **$+6** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 NIGGA | $0.000008 | **1.03x** ($+3) | 1.29x |  | pumpswap | 2026-03-20 02:31 |
+| 🟡 Squishy | $0.000017 | **1.06x** ($+6) | 1.07x |  | pumpswap | 2026-03-21 08:20 |
 
 ## Closed Positions
 

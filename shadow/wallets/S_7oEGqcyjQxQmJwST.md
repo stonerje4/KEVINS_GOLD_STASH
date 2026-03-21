@@ -1,6 +1,6 @@
 # Wallet: `7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr`
 
-> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 08:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 08:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 7 (5 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+85 |
-| 🏦 Total | **$+8** |
+| 📦 Unrealized | $+89 |
+| 🏦 Total | **$+12** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.62x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHEEMS | $0.000008 | **0.97x** ($-3) | 1.37x |  | pumpfun | 2026-03-21 07:08 |
+| 🟡 CHEEMS | $0.000008 | **1.01x** ($+1) | 1.37x |  | pumpfun | 2026-03-21 07:08 |
 | 🟢 grokputer | $0.000014 | **2.70x** ($+170) | 2.70x | ✅ | pumpfun | 2026-03-21 04:22 |
 | 🔴 C1ZWqmPS | $0.000005 | **0.52x** ($-48) | 1.99x |  | pumpfun | 2026-03-21 03:53 |
 | 🟡 NOR | $0.000006 | **1.59x** ($+59) | 1.59x |  | pumpfun | 2026-03-21 02:19 |
