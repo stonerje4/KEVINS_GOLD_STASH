@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 12:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 12:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 82 (63 open, 19 closed) |
 | W/L | 2/17 (11%) |
 | 💵 Realized | $-656 |
-| 📦 Unrealized | $-464 |
-| 🏦 Total | **$-1,120** |
+| 📦 Unrealized | $-471 |
+| 🏦 Total | **$-1,127** |
 | Best ROI | 2.97x |
 | Avg ROI | 0.65x |
 
@@ -37,7 +37,7 @@
 | 🔴 clod | $0.000016 | **0.85x** ($-15) | 1.23x |  | pumpswap | 2026-03-20 19:17 |
 | 🟡 PIKE | $0.000038 | **1.88x** ($+88) | 2.42x | ✅ | pumpswap | 2026-03-20 19:11 |
 | 🔴 Chud | $0.000028 | **0.75x** ($-25) | 1.06x |  | pumpswap | 2026-03-20 18:52 |
-| 🔴 FAKER | $0.000034 | **0.98x** ($-2) | 1.42x |  | pumpswap | 2026-03-20 18:10 |
+| 🔴 FAKER | $0.000034 | **0.97x** ($-3) | 1.42x |  | pumpswap | 2026-03-20 18:10 |
 | 🟡 CHIBI | $0.000014 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 18:08 |
 | 🟡 PAD | $0.000015 | **1.30x** ($+30) | 1.39x |  | pumpswap | 2026-03-20 14:38 |
 | 🔴 Rosei | $0.000015 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
@@ -46,7 +46,7 @@
 | 🔴 honkermog | $0.000033 | **0.68x** ($-32) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
 | 🔴 CHIBIELON | $0.000039 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 DISLIKE | $0.000039 | **0.85x** ($-15) | 1.21x |  | pumpswap | 2026-03-20 12:09 |
-| 🟡 CHIBITRUMP | $0.000015 | **1.12x** ($+12) | 1.21x |  | pumpswap | 2026-03-20 12:05 |
+| 🟡 CHIBITRUMP | $0.000015 | **1.10x** ($+10) | 1.21x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 Matthew | $0.000016 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 chud | $0.000014 | **1.07x** ($+7) | 2.42x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🔴 ARIA | $0.000015 | **0.79x** ($-21) | 1.86x |  | pumpswap | 2026-03-20 07:59 |
@@ -73,7 +73,7 @@
 | 🟡 Saleh | $0.000013 | **1.05x** ($+5) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
 | 🔴 TIMELESS | $0.000021 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:57 |
 | 🔴 GOBLIN | $0.000015 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-19 23:47 |
-| 🟡 AINL | $0.000025 | **1.40x** ($+40) | 1.79x |  | pumpswap | 2026-03-19 23:43 |
+| 🟡 AINL | $0.000025 | **1.37x** ($+37) | 1.79x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Patricia | $0.000024 | **0.60x** ($-40) | 1.94x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Monke | $0.000013 | **0.53x** ($-47) | 1.04x |  | pumpswap | 2026-03-19 23:30 |
 | 🔴 HOSPICE | $0.000024 | **0.50x** ($-50) | 1.18x |  | pumpswap | 2026-03-19 23:12 |

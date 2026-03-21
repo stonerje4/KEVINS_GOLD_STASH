@@ -1,28 +1,27 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-21 12:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-21 12:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (15 open, 10 closed) |
-| W/L | 2/8 (20%) |
-| 💵 Realized | $-315 |
-| 📦 Unrealized | $+125 |
-| 🏦 Total | **$-190** |
+| Positions | 25 (14 open, 11 closed) |
+| W/L | 2/9 (18%) |
+| 💵 Realized | $-375 |
+| 📦 Unrealized | $+163 |
+| 🏦 Total | **$-212** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.68x |
+| Avg ROI | 0.66x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Tsuki | $0.000036 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-21 11:51 |
-| 🔴 TRUDY | $0.000017 | **0.99x** ($-1) | 1.77x |  | pumpfun | 2026-03-21 11:12 |
+| 🔴 TRUDY | $0.000017 | **0.78x** ($-22) | 1.77x |  | pumpfun | 2026-03-21 11:12 |
 | 🟡 man | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:55 |
 | 🟡 GoutGout | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 10:33 |
-| 🔴 GoutGout | $0.000020 | **0.41x** ($-59) | 1.25x |  | pumpfun | 2026-03-21 10:18 |
 | 🔴 Realize | $0.000019 | **0.98x** ($-2) | 1.27x |  | pumpswap | 2026-03-20 20:41 |
 | 🔴 NICK | $0.000027 | **0.88x** ($-12) | 1.10x |  | pumpswap | 2026-03-20 19:41 |
 | 🚀 MOSHI | $0.000007 | **5.46x** ($+446) | 5.46x | ✅ | pumpfun | 2026-03-20 13:08 |
@@ -39,6 +38,7 @@
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
 | 🔴 Samba | 0.40x | $-60 | stop_loss | 1.39x | pumpfun | 2026-03-21 10:28 → 2026-03-21 10:55 |
+| 🔴 GoutGout | 0.40x | $-60 | stop_loss | 1.25x | pumpfun | 2026-03-21 10:18 → 2026-03-21 12:01 |
 | 🟡 HelloWorld! | 0.81x | $-19 | trailing_stop_2x | 2.36x | pumpswap | 2026-03-20 16:49 → 2026-03-20 16:58 |
 | 🔴 Alien | 0.40x | $-60 | stop_loss | 1.97x | pumpswap | 2026-03-20 14:20 → 2026-03-21 00:00 |
 | 🔴 LEGO | 0.39x | $-61 | stop_loss | 1.67x | pumpfun | 2026-03-20 13:47 → 2026-03-20 13:55 |

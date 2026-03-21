@@ -1,16 +1,16 @@
 # Wallet: `HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt`
 
-> [GMGN](https://gmgn.ai/sol/address/HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt) | [Solscan](https://solscan.io/account/HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt) | Updated: 2026-03-21 12:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt) | [Solscan](https://solscan.io/account/HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt) | Updated: 2026-03-21 12:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (2 open, 5 closed) |
+| Positions | 8 (3 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+90 |
-| 📦 Unrealized | $+20 |
-| 🏦 Total | **$+109** |
+| 📦 Unrealized | $+50 |
+| 🏦 Total | **$+140** |
 | Best ROI | 3.00x |
 | Avg ROI | 1.18x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 few | $0.000012 | **1.30x** ($+30) | 1.35x |  | pumpfun | 2026-03-21 12:03 |
 | 🔴 STRAIT | $0.000010 | **0.47x** ($-53) | 1.16x |  | pumpfun | 2026-03-20 17:00 |
 | 🟢 7EWBKLiT | $0.000015 | **2.44x** ($+144) | 2.44x | ✅ | pumpfun | 2026-03-20 16:02 |
 

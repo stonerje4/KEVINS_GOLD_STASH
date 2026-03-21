@@ -1,30 +1,30 @@
 # Wallet: `8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU`
 
-> [GMGN](https://gmgn.ai/sol/address/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | [Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-21 12:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | [Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-21 12:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (2 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-222 |
-| 📦 Unrealized | $-116 |
-| 🏦 Total | **$-338** |
+| Positions | 7 (0 open, 7 closed) |
+| W/L | 1/6 (14%) |
+| 💵 Realized | $-351 |
+| 📦 Unrealized | $+0 |
+| 🏦 Total | **$-351** |
 | Best ROI | 1.48x |
-| Avg ROI | 0.56x |
+| Avg ROI | 0.50x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 John | $0.000009 | **0.43x** ($-57) | 1.68x |  | pumpfun | 2026-03-21 11:58 |
-| 🔴 GoutGout | $0.000020 | **0.41x** ($-59) | 1.25x |  | pumpfun | 2026-03-21 10:21 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 John | 0.31x | $-69 | stop_loss | 1.68x | pumpfun | 2026-03-21 11:58 → 2026-03-21 12:00 |
+| 🔴 GoutGout | 0.40x | $-60 | stop_loss | 1.25x | pumpfun | 2026-03-21 10:21 → 2026-03-21 12:01 |
 | 🔴 NIGELINA | 0.36x | $-64 | stop_loss | 1.12x | pumpfun | 2026-03-20 14:16 → 2026-03-20 14:17 |
 | 🔴 Norris | 0.39x | $-61 | stop_loss | 1.29x | pumpfun | 2026-03-20 14:05 → 2026-03-20 14:10 |
 | 🔴 RIPCHUCK | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 13:55 → 2026-03-20 15:48 |

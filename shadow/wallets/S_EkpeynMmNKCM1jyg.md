@@ -1,6 +1,6 @@
 # Wallet: `EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo`
 
-> [GMGN](https://gmgn.ai/sol/address/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | [Solscan](https://solscan.io/account/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | Updated: 2026-03-21 12:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | [Solscan](https://solscan.io/account/EkpeynMmNKCM1jygH5u4PoPuW3naRtP4m3s5xv7fL6Eo) | Updated: 2026-03-21 12:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-39 |
-| 🏦 Total | **$-100** |
+| 📦 Unrealized | $-40 |
+| 🏦 Total | **$-101** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TMRW | $0.000005 | **0.94x** ($-6) | 1.02x |  | pumpswap | 2026-03-21 03:26 |
+| 🔴 TMRW | $0.000005 | **0.93x** ($-7) | 1.02x |  | pumpswap | 2026-03-21 03:26 |
 | 🔴 BABYCHIBI | $0.000014 | **0.62x** ($-38) | 1.08x |  | pumpfun | 2026-03-20 16:41 |
 | 🟡 NOVAH | $0.000013 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 16:19 |
 
