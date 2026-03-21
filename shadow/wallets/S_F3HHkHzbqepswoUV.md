@@ -1,12 +1,12 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-21 03:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-21 03:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 17 (12 open, 5 closed) |
+| Positions | 18 (13 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-263 |
 | 📦 Unrealized | $+49 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 OSP | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:22 |
 | 🟡 GLD | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 02:38 |
 | 🟡 e-CNY | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 14:57 |
 | 🟡 Luxury | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |

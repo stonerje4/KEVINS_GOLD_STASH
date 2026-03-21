@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 03:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 03:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 92 (89 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+71 |
-| 📦 Unrealized | $+256 |
-| 🏦 Total | **$+327** |
+| 📦 Unrealized | $+255 |
+| 🏦 Total | **$+326** |
 | Best ROI | 2.92x |
 | Avg ROI | 1.24x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 DISLIKE | $0.000033 | **1.00x** ($-0) | 1.00x |  | pumpswap | 2026-03-21 03:17 |
+| 🔴 DISLIKE | $0.000033 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 03:17 |
 | 🟡 Out | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:00 |
 | 🔴 Lana | $0.000019 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 02:32 |
 | 🔴 chud | $0.000017 | **0.91x** ($-9) | 1.05x |  | pumpswap | 2026-03-21 02:12 |
