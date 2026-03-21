@@ -1,26 +1,25 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-21 05:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-21 05:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 30 (24 open, 6 closed) |
-| W/L | 3/3 (50%) |
-| 💵 Realized | $+362 |
-| 📦 Unrealized | $-727 |
-| 🏦 Total | **$-365** |
+| Positions | 30 (23 open, 7 closed) |
+| W/L | 4/3 (57%) |
+| 💵 Realized | $+410 |
+| 📦 Unrealized | $-757 |
+| 🏦 Total | **$-347** |
 | Best ROI | 2.93x |
-| Avg ROI | 1.60x |
+| Avg ROI | 1.59x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 58QARd6U | $0.000005 | **1.75x** ($+75) | 3.19x | ✅ | pumpfun | 2026-03-21 05:30 |
 | 🔴 B8feyEAu | $0.000005 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-21 04:08 |
-| 🔴 piss | $0.000005 | **0.72x** ($-28) | 1.09x |  | pumpfun | 2026-03-21 03:35 |
+| 🔴 piss | $0.000005 | **0.71x** ($-29) | 1.09x |  | pumpfun | 2026-03-21 03:35 |
 | 🔴 Endure | $0.000005 | **0.51x** ($-49) | 1.23x |  | pumpfun | 2026-03-21 02:14 |
 | 🔴 CARDIBEE | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 23:46 |
 | 🔴 J8piKJCf | $0.000005 | **0.49x** ($-51) | 1.30x |  | pumpfun | 2026-03-20 23:20 |
@@ -47,6 +46,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 58QARd6U | 1.49x | $+49 | trailing_stop_3x | 3.19x | pumpfun | 2026-03-21 05:30 → 2026-03-21 05:51 |
 | 🟡 GSD | 0.85x | $-15 | trailing_stop_2x | 2.49x | pumpfun | 2026-03-20 22:22 → 2026-03-20 22:46 |
 | 🟡 froge | 0.84x | $-16 | trailing_stop_2x | 2.24x | pumpfun | 2026-03-20 21:33 → 2026-03-20 21:45 |
 | 🟡 nickel | 1.29x | $+29 | trailing_stop_3x | 3.39x | pumpfun | 2026-03-20 05:13 → 2026-03-20 05:42 |

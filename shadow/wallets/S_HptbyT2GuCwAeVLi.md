@@ -1,12 +1,12 @@
 # Wallet: `HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL`
 
-> [GMGN](https://gmgn.ai/sol/address/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | [Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-21 05:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | [Solscan](https://solscan.io/account/HptbyT2GuCwAeVLiagTNHWZoN5PL6RRLV2vX6F8sD5QL) | Updated: 2026-03-21 05:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (8 open, 0 closed) |
+| Positions | 9 (9 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-9 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 BUFFALO | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:54 |
 | 🟡 Jiji | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:03 |
 | 🟡 COOK | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 03:01 |
 | 🟡 almost | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 02:59 |
