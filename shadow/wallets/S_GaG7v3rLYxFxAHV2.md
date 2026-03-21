@@ -1,24 +1,23 @@
 # Wallet: `GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY`
 
-> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 10:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | [Solscan](https://solscan.io/account/GaG7v3rLYxFxAHV2BBt6bequNBirBwL6qKATwJXntisY) | Updated: 2026-03-21 11:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 15 (9 open, 6 closed) |
-| W/L | 2/4 (33%) |
-| 💵 Realized | $-155 |
-| 📦 Unrealized | $-73 |
-| 🏦 Total | **$-228** |
+| Positions | 15 (8 open, 7 closed) |
+| W/L | 2/5 (29%) |
+| 💵 Realized | $-217 |
+| 📦 Unrealized | $-105 |
+| 🏦 Total | **$-322** |
 | Best ROI | 1.49x |
-| Avg ROI | 0.74x |
+| Avg ROI | 0.69x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 likudbot | $0.000010 | **1.32x** ($+32) | 1.32x |  | pumpfun | 2026-03-21 10:49 |
 | 🔴 CAGE | $0.000005 | **0.47x** ($-53) | 1.54x |  | pumpfun | 2026-03-20 20:01 |
 | 🔴 Benicio | $0.000010 | **0.87x** ($-13) | 1.47x |  | pumpfun | 2026-03-20 19:44 |
 | 🟡 CAT | $0.000007 | **1.23x** ($+23) | 1.56x |  | pumpfun | 2026-03-20 19:42 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 likudbot | 0.38x | $-62 | stop_loss | 1.37x | pumpfun | 2026-03-21 10:49 → 2026-03-21 10:58 |
 | 🔴 MOONER | 0.40x | $-60 | stop_loss | 1.27x | pumpfun | 2026-03-20 19:33 → 2026-03-20 19:36 |
 | 🟡 SNIFFER | 0.83x | $-17 | trailing_stop_2x | 2.46x | pumpfun | 2026-03-20 12:59 → 2026-03-20 22:54 |
 | 🔴 Judy | 0.36x | $-64 | stop_loss | 1.45x | pumpfun | 2026-03-20 11:55 → 2026-03-20 18:53 |

@@ -1,18 +1,18 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 10:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 11:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 68 (58 open, 10 closed) |
-| W/L | 3/7 (30%) |
-| 💵 Realized | $-203 |
-| 📦 Unrealized | $-208 |
-| 🏦 Total | **$-412** |
-| Best ROI | 1.50x |
-| Avg ROI | 0.80x |
+| Positions | 68 (57 open, 11 closed) |
+| W/L | 4/7 (36%) |
+| 💵 Realized | $-7 |
+| 📦 Unrealized | $-301 |
+| 🏦 Total | **$-307** |
+| Best ROI | 2.97x |
+| Avg ROI | 0.99x |
 
 ## Open Positions
 
@@ -29,7 +29,6 @@
 | 🟡 DAWAE | $0.000027 | **1.17x** ($+17) | 1.25x |  | pumpswap | 2026-03-21 04:50 |
 | 🟡 LUMO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:48 |
 | 🟡 LIFE | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:39 |
-| 🟢 Grokputer | $0.000027 | **3.72x** ($+272) | 5.60x | ✅ | pumpswap | 2026-03-21 04:34 |
 | 🟡 ZeroG | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:28 |
 | 🟡 EV01 | $0.000013 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-21 04:18 |
 | 🟡 CRACK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:14 |
@@ -81,6 +80,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟢 Grokputer | 2.97x | $+197 | trailing_stop_6x | 5.60x | pumpswap | 2026-03-21 04:34 → 2026-03-21 10:58 |
 | 🟡 CAINE | 1.50x | $+50 | trailing_stop_3x | 3.16x | pumpswap | 2026-03-20 22:09 → 2026-03-20 23:21 |
 | 🔴 Dryer | 0.41x | $-59 | trailing_stop_2x | 2.43x | pumpswap | 2026-03-20 15:49 → 2026-03-21 01:18 |
 | 🔴 CHANNELS | 0.40x | $-60 | stop_loss | 1.07x | pumpswap | 2026-03-20 13:59 → 2026-03-21 00:08 |

@@ -1,24 +1,23 @@
 # Wallet: `F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4`
 
-> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-21 10:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | [Solscan](https://solscan.io/account/F3HHkHzbqepswoUVUELQTsuaVhbD6AP8yzg1ahzEFLe4) | Updated: 2026-03-21 11:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (15 open, 5 closed) |
-| W/L | 0/5 (0%) |
-| 💵 Realized | $-263 |
+| Positions | 20 (14 open, 6 closed) |
+| W/L | 0/6 (0%) |
+| 💵 Realized | $-325 |
 | 📦 Unrealized | $+103 |
-| 🏦 Total | **$-160** |
+| 🏦 Total | **$-222** |
 | Best ROI | 0.84x |
-| Avg ROI | 0.47x |
+| Avg ROI | 0.46x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 likudbot | $0.000010 | **1.31x** ($+31) | 1.31x |  | pumpfun | 2026-03-21 10:51 |
 | 🟡 DRONE | $0.000007 | **1.27x** ($+27) | 1.40x |  | pumpswap | 2026-03-21 06:48 |
 | 🔴 OSP | $0.000007 | **0.96x** ($-4) | 1.00x |  | pumpfun | 2026-03-21 03:22 |
 | 🟡 GLD | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 02:38 |
@@ -26,7 +25,7 @@
 | 🟡 Luxury | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:55 |
 | 🟡 DRONE | $0.000006 | **1.23x** ($+23) | 1.23x |  | pumpfun | 2026-03-20 12:31 |
 | 🟡 $PEPETO | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
-| 🟡 OSP | $0.000021 | **1.18x** ($+18) | 1.29x |  | pumpfun | 2026-03-20 10:51 |
+| 🟡 OSP | $0.000021 | **1.49x** ($+49) | 1.49x |  | pumpfun | 2026-03-20 10:51 |
 | 🔴 BBX | $0.000009 | **0.76x** ($-24) | 1.00x |  | pumpfun | 2026-03-20 10:17 |
 | 🟡 f26 | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:10 |
 | 🟡 FTR | $0.000006 | **1.24x** ($+24) | 1.53x |  | pumpfun | 2026-03-20 10:08 |
@@ -38,6 +37,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 likudbot | 0.38x | $-62 | stop_loss | 1.36x | pumpfun | 2026-03-21 10:51 → 2026-03-21 10:58 |
 | 🔴 DwkexgJK | 0.35x | $-65 | stop_loss | 1.09x | pumpfun | 2026-03-20 14:16 → 2026-03-20 14:17 |
 | 🟡 NBR | 0.84x | $-16 | trailing_stop_2x | 2.15x | pumpswap | 2026-03-20 11:11 → 2026-03-20 22:39 |
 | 🔴 Sunshine | 0.39x | $-61 | stop_loss | 1.49x | pumpfun | 2026-03-20 08:17 → 2026-03-20 09:59 |
