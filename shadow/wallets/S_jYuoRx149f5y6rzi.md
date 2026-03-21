@@ -1,12 +1,12 @@
 # Wallet: `jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw`
 
-> [GMGN](https://gmgn.ai/sol/address/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | [Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-21 03:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | [Solscan](https://solscan.io/account/jYuoRx149f5y6rziWycw3cvccu749ss1NqxfNfU4HTw) | Updated: 2026-03-21 03:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
+| Positions | 4 (3 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $-22 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CREB | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:25 |
 | 🔴 Capybara | $0.000038 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:38 |
 | 🔴 Obsessed | $0.000010 | **0.88x** ($-12) | 1.74x |  | pumpswap | 2026-03-20 00:34 |
 

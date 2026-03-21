@@ -1,12 +1,12 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 03:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 03:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (14 open, 18 closed) |
+| Positions | 33 (15 open, 18 closed) |
 | W/L | 1/17 (6%) |
 | 💵 Realized | $-752 |
 | 📦 Unrealized | $+391 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CREB | $0.000017 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:26 |
 | 🟡 Lana | $0.000030 | **1.23x** ($+23) | 1.23x |  | pumpfun | 2026-03-20 16:31 |
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:53 |
 | 🔴 T.E.A.M. | $0.000007 | **0.42x** ($-58) | 1.45x |  | pumpfun | 2026-03-20 15:01 |

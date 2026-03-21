@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 03:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 03:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,380 |
-| 🏦 Total | **$-1,414** |
+| 📦 Unrealized | $-1,401 |
+| 🏦 Total | **$-1,435** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -104,7 +104,7 @@
 | 🔴 Momiage | $0.000009 | **0.96x** ($-4) | 1.22x |  | pumpswap | 2026-03-20 08:06 |
 | 🟡 TUKI | $0.000017 | **1.30x** ($+30) | 1.33x |  | pumpswap | 2026-03-20 07:56 |
 | 🟡 AIFRUIT | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
-| 🟡 CLAW | $0.000028 | **1.10x** ($+10) | 1.10x |  | pumpswap | 2026-03-20 07:44 |
+| 🔴 CLAW | $0.000028 | **0.99x** ($-1) | 1.10x |  | pumpswap | 2026-03-20 07:44 |
 | 🔴 Browt | $0.000019 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 WID | $0.000019 | **0.81x** ($-19) | 1.38x |  | pumpswap | 2026-03-20 07:27 |
 | 🟡 NOVAH | $0.000011 | **1.29x** ($+29) | 1.29x |  | pumpswap | 2026-03-20 07:27 |
@@ -140,7 +140,7 @@
 | 🔴 WhiteBoy  | $0.000015 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🔴 VAFR | $0.000025 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 02:40 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
-| 🔴 JOC | $0.000035 | **0.93x** ($-7) | 1.11x |  | pumpswap | 2026-03-20 02:36 |
+| 🔴 JOC | $0.000035 | **0.83x** ($-17) | 1.11x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 Gany | $0.000032 | **0.76x** ($-24) | 1.00x |  | pumpswap | 2026-03-20 02:35 |
 | 🟡 CAGE | $0.000037 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-20 02:30 |
 | 🔴 YOU | $0.000013 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 02:28 |

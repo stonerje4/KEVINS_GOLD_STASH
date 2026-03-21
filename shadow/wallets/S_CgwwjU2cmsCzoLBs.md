@@ -1,6 +1,6 @@
 # Wallet: `CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ`
 
-> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-21 03:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | [Solscan](https://solscan.io/account/CgwwjU2cmsCzoLBsk4WkgRStDfM8jRjYTuWe8FExQNzJ) | Updated: 2026-03-21 03:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (7 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-405 |
-| 📦 Unrealized | $-38 |
-| 🏦 Total | **$-443** |
+| 📦 Unrealized | $-103 |
+| 🏦 Total | **$-508** |
 | Best ROI | 0.33x |
 | Avg ROI | 0.32x |
 
@@ -22,7 +22,7 @@
 | 🔴 Garbonzo | $0.000009 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-19 23:33 |
 | 🟡 CHIBIELON | $0.000005 | **1.50x** ($+50) | 1.78x |  | pumpswap | 2026-03-19 23:28 |
 | 🔴 CHOCOTINA | $0.000007 | **0.75x** ($-25) | 1.12x |  | pumpswap | 2026-03-19 23:16 |
-| 🟡 TMRW | $0.000008 | **1.25x** ($+25) | 1.30x |  | pumpswap | 2026-03-19 23:09 |
+| 🔴 TMRW | $0.000008 | **0.60x** ($-40) | 1.30x |  | pumpswap | 2026-03-19 23:09 |
 | 🔴 AIFRUIT | $0.000022 | **0.95x** ($-5) | 1.40x |  | pumpswap | 2026-03-19 23:08 |
 | 🔴 NIGGA | $0.000014 | **0.63x** ($-37) | 1.18x |  | pumpswap | 2026-03-19 22:50 |
 

@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 03:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 03:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 75 (60 open, 15 closed) |
 | W/L | 1/14 (7%) |
 | 💵 Realized | $-660 |
-| 📦 Unrealized | $-434 |
-| 🏦 Total | **$-1,093** |
+| 📦 Unrealized | $-445 |
+| 🏦 Total | **$-1,104** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.56x |
 
@@ -58,7 +58,7 @@
 | 🟡 Freebuff | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:27 |
 | 🟡 WhiteBoy  | $0.000014 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 02:50 |
 | 🔴 VAFR | $0.000023 | **0.98x** ($-2) | 1.14x |  | pumpswap | 2026-03-20 02:40 |
-| 🔴 JOC | $0.000033 | **1.00x** ($-0) | 1.19x |  | pumpswap | 2026-03-20 02:36 |
+| 🔴 JOC | $0.000033 | **0.89x** ($-11) | 1.19x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 YOU | $0.000014 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
 | 🔴 cigarette | $0.000018 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:21 |
 | 🟡 FKH | $0.000017 | **1.09x** ($+9) | 1.12x |  | pumpswap | 2026-03-20 02:01 |

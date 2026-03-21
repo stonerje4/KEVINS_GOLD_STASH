@@ -1,18 +1,18 @@
 # Wallet: `6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC`
 
-> [GMGN](https://gmgn.ai/sol/address/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | [Solscan](https://solscan.io/account/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | Updated: 2026-03-21 03:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | [Solscan](https://solscan.io/account/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC) | Updated: 2026-03-21 03:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (2 open, 5 closed) |
-| W/L | 1/4 (20%) |
-| 💵 Realized | $-208 |
+| Positions | 8 (2 open, 6 closed) |
+| W/L | 1/5 (17%) |
+| 💵 Realized | $-268 |
 | 📦 Unrealized | $+53 |
-| 🏦 Total | **$-155** |
+| 🏦 Total | **$-215** |
 | Best ROI | 1.38x |
-| Avg ROI | 0.58x |
+| Avg ROI | 0.55x |
 
 ## Open Positions
 
@@ -25,6 +25,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 VAMPCOIN | 0.40x | $-60 | stop_loss | 1.08x | pumpfun | 2026-03-21 03:26 → 2026-03-21 03:28 |
 | 🔴 6DxYr8R6 | 0.40x | $-60 | stop_loss | 1.59x | pumpfun | 2026-03-21 00:20 → 2026-03-21 00:21 |
 | 🔴 pjZiYGZw | 0.35x | $-65 | stop_loss | 1.00x | pumpfun | 2026-03-20 23:32 → 2026-03-20 23:32 |
 | 🔴 GOTHAM | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 23:32 → 2026-03-20 23:33 |

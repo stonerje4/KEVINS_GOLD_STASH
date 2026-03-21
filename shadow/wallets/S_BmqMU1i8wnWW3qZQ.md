@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 03:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 03:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,511 |
-| 🏦 Total | **$-2,634** |
+| 📦 Unrealized | $-2,521 |
+| 🏦 Total | **$-2,643** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -136,7 +136,7 @@
 | 🟡 GameTheory | $0.000017 | **1.30x** ($+30) | 1.46x |  | pumpswap | 2026-03-20 02:49 |
 | 🔴 WhiteBoy  | $0.000015 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🔴 SNDK | $0.000008 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
-| 🔴 JOC | $0.000039 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-20 02:36 |
+| 🔴 JOC | $0.000039 | **0.76x** ($-24) | 1.01x |  | pumpswap | 2026-03-20 02:36 |
 | 🟡 AINL | $0.000029 | **1.16x** ($+16) | 1.16x |  | pumpswap | 2026-03-20 02:35 |
 | 🟢 PIKE | $0.000033 | **2.12x** ($+112) | 2.72x | ✅ | pumpswap | 2026-03-20 02:22 |
 | 🔴 BB | $0.000010 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
