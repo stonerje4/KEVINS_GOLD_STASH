@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 06:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 06:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,338 |
-| 🏦 Total | **$-1,373** |
+| 📦 Unrealized | $-1,335 |
+| 🏦 Total | **$-1,369** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -65,7 +65,7 @@
 | 🔴 Pixel | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Newscum | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 GameTheory | $0.000015 | **1.47x** ($+47) | 1.64x |  | pumpswap | 2026-03-20 14:15 |
-| 🟡 Higuruma | $0.000020 | **1.70x** ($+70) | 1.70x |  | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000020 | **1.76x** ($+76) | 1.76x |  | pumpswap | 2026-03-20 14:09 |
 | 🔴 chibify | $0.000011 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
 | 🟡 Yahu | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -119,7 +119,7 @@
 | 🟡 OPAY | $0.000035 | **1.17x** ($+17) | 1.75x |  | pumpswap | 2026-03-20 06:25 |
 | 🟡 UOR | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:15 |
 | 🔴 Messenger | $0.000031 | **0.85x** ($-15) | 1.08x |  | pumpswap | 2026-03-20 06:06 |
-| 🔴 LOBCOIN | $0.000017 | **0.83x** ($-17) | 1.01x |  | pumpswap | 2026-03-20 05:45 |
+| 🔴 LOBCOIN | $0.000017 | **0.82x** ($-18) | 1.01x |  | pumpswap | 2026-03-20 05:45 |
 | 🔴 STAR | $0.000019 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 05:34 |
 | 🔴 GIGACHAD | $0.000006 | **0.98x** ($-2) | 2.29x | ✅ | pumpswap | 2026-03-20 05:19 |
 | 🔴 IMAGINE | $0.000031 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 04:35 |

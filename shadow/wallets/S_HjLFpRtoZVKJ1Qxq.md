@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 06:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 06:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 96 (94 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+137 |
-| 📦 Unrealized | $+7 |
-| 🏦 Total | **$+143** |
+| 📦 Unrealized | $+14 |
+| 🏦 Total | **$+150** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.68x |
 
@@ -57,7 +57,7 @@
 | 🟡 $GROWN  | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:42 |
 | 🔴 DATBOI | $0.000039 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 Newscum | $0.000020 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 14:28 |
-| 🟡 Higuruma | $0.000018 | **1.93x** ($+93) | 1.93x |  | pumpswap | 2026-03-20 14:25 |
+| 🟡 Higuruma | $0.000018 | **1.99x** ($+99) | 1.99x |  | pumpswap | 2026-03-20 14:25 |
 | 🔴 INCOG | $0.000015 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🔴 FSC | $0.000029 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:25 |
 | 🔴 ORAMAMA | $0.000010 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 14:15 |
