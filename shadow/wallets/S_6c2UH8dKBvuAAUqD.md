@@ -1,6 +1,6 @@
 # Wallet: `6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc`
 
-> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 02:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | [Solscan](https://solscan.io/account/6c2UH8dKBvuAAUqDqd62k4rgmde1xB5vGULNBQyGegcc) | Updated: 2026-03-21 02:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (16 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-192 |
-| 🏦 Total | **$-192** |
+| 📦 Unrealized | $-193 |
+| 🏦 Total | **$-193** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 effect | $0.000009 | **0.83x** ($-17) | 1.02x |  | pumpswap | 2026-03-21 01:05 |
 | 🔴 Grokputer | $0.000007 | **0.82x** ($-18) | 1.31x |  | pumpswap | 2026-03-21 00:52 |
-| 🔴 Beecat | $0.000005 | **0.77x** ($-23) | 1.57x |  | pumpswap | 2026-03-21 00:22 |
+| 🔴 Beecat | $0.000005 | **0.76x** ($-24) | 1.57x |  | pumpswap | 2026-03-21 00:22 |
 | 🟡 lmeow | $0.000020 | **1.10x** ($+10) | 1.77x |  | pumpswap | 2026-03-21 00:05 |
 | 🔴 SMCI | $0.000007 | **0.65x** ($-35) | 1.27x |  | pumpswap | 2026-03-20 23:25 |
 | 🔴 TADC | $0.000031 | **0.76x** ($-24) | 1.37x |  | pumpswap | 2026-03-20 23:18 |
