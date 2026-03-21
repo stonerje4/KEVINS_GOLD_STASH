@@ -1,16 +1,16 @@
 # Wallet: `6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9`
 
-> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 00:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | [Solscan](https://solscan.io/account/6hUjfWfJusi9zNWpotfE4B8Cmv9xP3zxeEjxWnpMMVW9) | Updated: 2026-03-21 00:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 26 (16 open, 10 closed) |
+| Positions | 27 (17 open, 10 closed) |
 | W/L | 0/10 (0%) |
 | 💵 Realized | $-512 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-537** |
+| 📦 Unrealized | $-75 |
+| 🏦 Total | **$-587** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.49x |
 
@@ -18,16 +18,17 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 LBARK | $0.000005 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-21 00:28 |
 | 🟡 few | $0.000022 | **1.67x** ($+67) | 1.67x |  | pumpfun | 2026-03-20 23:25 |
 | 🔴 BVG | $0.000007 | **0.40x** ($-60) | 1.00x |  | pumpfun | 2026-03-20 20:47 |
 | 🟡 IShowSpeed | $0.000015 | **1.03x** ($+3) | 1.07x |  | pumpswap | 2026-03-20 20:22 |
-| 🟡 Lana | $0.000021 | **1.84x** ($+84) | 2.14x | ✅ | pumpfun | 2026-03-20 17:04 |
+| 🟡 Lana | $0.000021 | **1.85x** ($+85) | 2.14x | ✅ | pumpfun | 2026-03-20 17:04 |
 | 🟡 Lana | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:48 |
-| 🟡 LIBERTY | $0.000027 | **1.94x** ($+94) | 3.63x | ✅ | pumpswap | 2026-03-20 16:18 |
+| 🟡 LIBERTY | $0.000027 | **1.90x** ($+90) | 3.63x | ✅ | pumpswap | 2026-03-20 16:18 |
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.80x |  | pumpswap | 2026-03-20 15:43 |
 | 🔴 LEE | $0.000008 | **0.63x** ($-37) | 1.15x |  | pumpfun | 2026-03-20 14:54 |
 | 🟡 foid | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
-| 🔴 Hermes | $0.000026 | **0.76x** ($-24) | 1.09x |  | pumpswap | 2026-03-20 11:26 |
+| 🔴 Hermes | $0.000026 | **0.75x** ($-25) | 1.09x |  | pumpswap | 2026-03-20 11:26 |
 | 🟡 ANIME | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:50 |
 | 🟡 omochi | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:56 |
 | 🔴 CHIBI | $0.000031 | **0.46x** ($-54) | 1.00x |  | pumpswap | 2026-03-20 09:50 |

@@ -1,6 +1,6 @@
 # Wallet: `JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd`
 
-> [GMGN](https://gmgn.ai/sol/address/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | [Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-21 00:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | [Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-21 00:30 UTC
 
 ## Summary
 
@@ -22,7 +22,7 @@
 | 🟡 p-token | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:31 |
 | 🟡 Cigify | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 21:48 |
 | 🟡 CLIPHUB | $0.000015 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:32 |
-| 🟡 Pixels | $0.000033 | **1.10x** ($+10) | 1.36x |  | pumpswap | 2026-03-20 08:20 |
+| 🟡 Pixels | $0.000033 | **1.11x** ($+11) | 1.36x |  | pumpswap | 2026-03-20 08:20 |
 | 🔴 Dryer | $0.000032 | **0.45x** ($-55) | 1.27x |  | pumpswap | 2026-03-20 04:25 |
 | 🟡 SHOENICE  | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🟡 PETE | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:28 |

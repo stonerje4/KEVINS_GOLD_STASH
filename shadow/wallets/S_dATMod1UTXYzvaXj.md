@@ -1,6 +1,6 @@
 # Wallet: `dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X`
 
-> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 00:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | [Solscan](https://solscan.io/account/dATMod1UTXYzvaXji4mBsvXTeAUAC73TNJQAejKS54X) | Updated: 2026-03-21 00:30 UTC
 
 ## Summary
 
@@ -23,7 +23,7 @@
 | 🟡 BDGR | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 15:53 |
 | 🔴 T.E.A.M. | $0.000007 | **0.42x** ($-58) | 1.45x |  | pumpfun | 2026-03-20 15:01 |
 | 🟡 NunChucks | $0.000018 | **1.69x** ($+69) | 2.03x | ✅ | pumpfun | 2026-03-20 14:28 |
-| 🔴 clod | $0.000022 | **0.75x** ($-25) | 1.84x |  | pumpswap | 2026-03-20 12:17 |
+| 🔴 clod | $0.000022 | **0.74x** ($-26) | 1.84x |  | pumpswap | 2026-03-20 12:17 |
 | 🟢 Doolysaurus | $0.000038 | **3.78x** ($+278) | 6.40x | ✅ | pumpswap | 2026-03-20 11:34 |
 | 🟡 ONE | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:26 |
 | 🟡 SIGNAL | $0.000019 | **1.93x** ($+93) | 1.93x |  | pumpfun | 2026-03-20 09:23 |

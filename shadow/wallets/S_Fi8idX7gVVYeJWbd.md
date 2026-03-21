@@ -1,6 +1,6 @@
 # Wallet: `Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z`
 
-> [GMGN](https://gmgn.ai/sol/address/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | [Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-21 00:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | [Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-21 00:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (6 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-57 |
-| 🏦 Total | **$-57** |
+| 📦 Unrealized | $-58 |
+| 🏦 Total | **$-58** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 

@@ -1,16 +1,16 @@
 # Wallet: `9NJiiSZfaTz1a2qZfcYmeYrQAFvwFHLf3sM4uZ2wgKLr`
 
-> [GMGN](https://gmgn.ai/sol/address/9NJiiSZfaTz1a2qZfcYmeYrQAFvwFHLf3sM4uZ2wgKLr) | [Solscan](https://solscan.io/account/9NJiiSZfaTz1a2qZfcYmeYrQAFvwFHLf3sM4uZ2wgKLr) | Updated: 2026-03-21 00:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/9NJiiSZfaTz1a2qZfcYmeYrQAFvwFHLf3sM4uZ2wgKLr) | [Solscan](https://solscan.io/account/9NJiiSZfaTz1a2qZfcYmeYrQAFvwFHLf3sM4uZ2wgKLr) | Updated: 2026-03-21 00:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 7 (3 open, 4 closed) |
+| Positions | 8 (4 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $-30 |
-| 📦 Unrealized | $+189 |
-| 🏦 Total | **$+159** |
+| 📦 Unrealized | $+222 |
+| 🏦 Total | **$+192** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.92x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 ANIME | $0.000028 | **1.33x** ($+33) | 1.33x |  | pumpfun | 2026-03-21 00:26 |
 | 🟢 CRACK | $0.000010 | **3.55x** ($+255) | 3.55x | ✅ | pumpfun | 2026-03-20 19:00 |
 | 🔴 9pVz3EK1 | $0.000005 | **0.49x** ($-51) | 1.39x |  | pumpfun | 2026-03-20 00:40 |
 | 🟢 BBdd6gHX | $0.000008 | **4.44x** ($+344) | 4.44x | ✅ | pumpfun | 2026-03-19 23:24 |
