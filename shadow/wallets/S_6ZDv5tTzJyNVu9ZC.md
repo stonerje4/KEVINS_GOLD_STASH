@@ -1,6 +1,6 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 12:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 12:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 177 (165 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $+636 |
-| 📦 Unrealized | $-794 |
-| 🏦 Total | **$-157** |
+| 📦 Unrealized | $-812 |
+| 🏦 Total | **$-175** |
 | Best ROI | 5.98x |
 | Avg ROI | 1.53x |
 
@@ -20,11 +20,11 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 DAWAE | $0.000027 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-21 12:44 |
 | 🔴 Yahu | $0.000006 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-21 12:35 |
-| 🟡 LNG | $0.000039 | **1.00x** ($+0) | 1.03x |  | pumpswap | 2026-03-21 12:17 |
+| 🔴 LNG | $0.000039 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-21 12:17 |
 | 🟡 PAD | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:57 |
 | 🟡 Baldi | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:44 |
-| 🔴 OpenFang | $0.000039 | **0.80x** ($-20) | 1.02x |  | pumpswap | 2026-03-21 11:43 |
-| 🔴 ROSE | $0.000006 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-21 11:30 |
+| 🔴 OpenFang | $0.000039 | **0.81x** ($-19) | 1.02x |  | pumpswap | 2026-03-21 11:43 |
+| 🔴 ROSE | $0.000006 | **0.89x** ($-11) | 1.03x |  | pumpswap | 2026-03-21 11:30 |
 | 🟡 Income | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:26 |
 | 🟡 MOCHI | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:29 |
 | 🔴 OIL | $0.000006 | **0.96x** ($-4) | 1.06x |  | pumpswap | 2026-03-21 09:40 |
@@ -35,7 +35,7 @@
 | 🟡 Pixels | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 SHOEBILL | $0.000038 | **1.05x** ($+5) | 1.11x |  | pumpswap | 2026-03-21 05:10 |
 | 🔴 MILO | $0.000006 | **0.87x** ($-13) | 1.03x |  | pumpswap | 2026-03-21 04:45 |
-| 🟡 BISON | $0.000024 | **1.75x** ($+75) | 2.21x | ✅ | pumpswap | 2026-03-21 04:35 |
+| 🟡 BISON | $0.000024 | **1.64x** ($+64) | 2.21x | ✅ | pumpswap | 2026-03-21 04:35 |
 | 🔴 Joobi | $0.000009 | **0.86x** ($-14) | 1.23x |  | pumpswap | 2026-03-21 04:32 |
 | 🔴 X COINS | $0.000016 | **0.93x** ($-7) | 1.03x |  | pumpswap | 2026-03-21 04:06 |
 | 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
@@ -114,7 +114,7 @@
 | 🔴 Goose | $0.000015 | **0.66x** ($-34) | 1.20x |  | pumpswap | 2026-03-20 10:02 |
 | 🔴 UGOR | $0.000025 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 09:28 |
 | 🔴 DICK | $0.000006 | **0.98x** ($-2) | 1.11x |  | pumpswap | 2026-03-20 09:25 |
-| 🟡 Hamster | $0.000028 | **1.15x** ($+15) | 1.30x |  | pumpswap | 2026-03-20 08:42 |
+| 🟡 Hamster | $0.000028 | **1.14x** ($+14) | 1.30x |  | pumpswap | 2026-03-20 08:42 |
 | 🔴 Achieve | $0.000020 | **0.88x** ($-12) | 1.01x |  | pumpswap | 2026-03-20 08:18 |
 | 🟡 AIKO | $0.000008 | **1.08x** ($+8) | 1.22x |  | pumpswap | 2026-03-20 08:08 |
 | 🟡 chud | $0.000015 | **1.03x** ($+3) | 2.34x | ✅ | pumpswap | 2026-03-20 08:01 |

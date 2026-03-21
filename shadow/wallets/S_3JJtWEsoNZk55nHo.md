@@ -1,6 +1,6 @@
 # Wallet: `3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT`
 
-> [GMGN](https://gmgn.ai/sol/address/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | [Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-21 12:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | [Solscan](https://solscan.io/account/3JJtWEsoNZk55nHowEsWkfftwnS8UZ28eUb68sw2H9hT) | Updated: 2026-03-21 12:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (9 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-135 |
-| 📦 Unrealized | $-49 |
-| 🏦 Total | **$-184** |
+| 📦 Unrealized | $-55 |
+| 🏦 Total | **$-190** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.32x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 DODO | $0.000005 | **0.54x** ($-46) | 1.53x |  | pumpfun | 2026-03-21 10:36 |
-| 🔴 GoutGout | $0.000019 | **0.77x** ($-23) | 1.32x |  | pumpfun | 2026-03-21 10:21 |
+| 🔴 GoutGout | $0.000019 | **0.71x** ($-29) | 1.32x |  | pumpfun | 2026-03-21 10:21 |
 | 🟡 PISSTINA | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:18 |
 | 🟡 SKI | $0.000039 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:50 |
 | 🔴 DECEPTICONS | $0.000005 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:59 |

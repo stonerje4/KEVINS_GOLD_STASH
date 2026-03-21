@@ -1,6 +1,6 @@
 # Wallet: `3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt`
 
-> [GMGN](https://gmgn.ai/sol/address/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | [Solscan](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | Updated: 2026-03-21 12:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | [Solscan](https://solscan.io/account/3XHiDvWCsaFCeQv3qqZL3S9YKiUKt4Ht5GuTHnMMfLVt) | Updated: 2026-03-21 12:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $-11 |
-| 📦 Unrealized | $-66 |
-| 🏦 Total | **$-77** |
+| 📦 Unrealized | $-72 |
+| 🏦 Total | **$-82** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.95x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 LIBERTY | $0.000012 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-21 05:18 |
 | 🔴 CHANNELS | $0.000021 | **0.78x** ($-22) | 1.24x |  | pumpfun | 2026-03-20 02:18 |
-| 🔴 IMAGINE | $0.000030 | **0.56x** ($-44) | 1.24x |  | pumpfun | 2026-03-20 02:07 |
+| 🔴 IMAGINE | $0.000030 | **0.50x** ($-50) | 1.24x |  | pumpfun | 2026-03-20 02:07 |
 
 ## Closed Positions
 
