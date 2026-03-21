@@ -1,12 +1,12 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 03:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 03:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 90 (88 open, 2 closed) |
+| Positions | 91 (89 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+137 |
 | 📦 Unrealized | $-24 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:48 |
 | 🔴 Apple | $0.000013 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-21 01:35 |
 | 🔴 Baldi | $0.000020 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-21 01:11 |
 | 🟡 Dozer | $0.000007 | **1.03x** ($+3) | 1.22x |  | pumpswap | 2026-03-21 00:32 |

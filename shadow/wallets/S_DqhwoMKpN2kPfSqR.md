@@ -1,6 +1,6 @@
 # Wallet: `DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB`
 
-> [GMGN](https://gmgn.ai/sol/address/DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB) | [Solscan](https://solscan.io/account/DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB) | Updated: 2026-03-21 03:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB) | [Solscan](https://solscan.io/account/DqhwoMKpN2kPfSqRpuHovfoqBT8oweYgBdYfMzJ6jMDB) | Updated: 2026-03-21 03:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+3 |
-| 🏦 Total | **$+3** |
+| 📦 Unrealized | $+46 |
+| 🏦 Total | **$+46** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Boss | $0.000008 | **1.42x** ($+42) | 1.50x |  | pumpfun | 2026-03-21 03:41 |
+| 🟢 Boss | $0.000008 | **2.69x** ($+169) | 2.72x | ✅ | pumpfun | 2026-03-21 03:41 |
 | 🔴 Da2pZ2ie | $0.000006 | **0.62x** ($-38) | 1.41x |  | pumpfun | 2026-03-21 02:19 |
 
 ## Closed Positions
