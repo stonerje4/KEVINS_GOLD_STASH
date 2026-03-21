@@ -1,22 +1,23 @@
 # PRD Wallet: `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`
 
-> [GMGN](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | [Solscan](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | Updated: 2026-03-21 01:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | [Solscan](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | Updated: 2026-03-21 01:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Trades | 5 (0 open, 5 closed) |
+| Trades | 6 (1 open, 5 closed) |
 | W/L | 0/5 (0%) |
-| 💵 Realized | -0.5950 SOL ($-53.59) |
+| 💵 Realized | -0.5950 SOL ($-53.57) |
 | ⛽ Gas | 0.0250 SOL |
-| 📦 Unrealized | +0.0000 SOL |
-| 🏦 Net | **-0.5950 SOL** ($-53.59) |
+| 📦 Unrealized | +0.0079 SOL |
+| 🏦 Net | **-0.5871 SOL** ($-52.86) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
+| 🟢 UBIR | open | 0.11 | 1.12x | 1.12x | +0.0079 | — |
 | 🔴 OFP | closed | 0.11 | 0.97x | 1.00x | -0.1190 | ghost_close_zero_balance |
 | 🔴 OSP | closed | 0.11 | 0.98x | 1.34x | -0.1190 | ghost_close_zero_balance |
 | 🔴 OSP | closed | 0.11 | 1.08x | 1.13x | -0.1190 | ghost_close_zero_balance |

@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 01:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 01:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 30 (19 open, 11 closed) |
 | W/L | 2/9 (18%) |
 | 💵 Realized | $-352 |
-| 📦 Unrealized | $+42 |
-| 🏦 Total | **$-309** |
+| 📦 Unrealized | $+44 |
+| 🏦 Total | **$-307** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.68x |
 
@@ -32,7 +32,7 @@
 | 🟡 SBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:34 |
 | 🟡 cigarette | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 12:07 |
 | 🟡 PHIBZ | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:28 |
-| 🔴 chibify | $0.000011 | **0.49x** ($-51) | 1.00x |  | pumpswap | 2026-03-20 10:59 |
+| 🔴 chibify | $0.000011 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 10:59 |
 | 🟡 EmH4y6zA | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:21 |
 | 🟡 PVC | $0.000008 | **1.55x** ($+55) | 1.69x |  | pumpfun | 2026-03-20 03:18 |
 | 🔴 imagineslop | $0.000009 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 02:11 |
