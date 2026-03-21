@@ -1,6 +1,6 @@
 # Wallet: `GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv`
 
-> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-21 04:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | [Solscan](https://solscan.io/account/GgKthpEjGtKLePn7f8mxkmzQNsSn3sYPp5mPHDgkBquv) | Updated: 2026-03-21 04:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (12 open, 5 closed) |
 | W/L | 3/2 (60%) |
 | 💵 Realized | $+35 |
-| 📦 Unrealized | $+1 |
-| 🏦 Total | **$+36** |
+| 📦 Unrealized | $-4 |
+| 🏦 Total | **$+30** |
 | Best ROI | 1.49x |
 | Avg ROI | 1.07x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PEDO | $0.000007 | **0.77x** ($-23) | 1.16x |  | pumpfun | 2026-03-21 04:42 |
+| 🔴 PEDO | $0.000007 | **0.72x** ($-28) | 1.16x |  | pumpfun | 2026-03-21 04:42 |
 | 🔴 MOCHI | $0.000019 | **0.86x** ($-14) | 1.02x |  | pumpswap | 2026-03-21 02:24 |
 | 🟡 TRACEWAY | $0.000024 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:00 |
 | 🔴 NURO | $0.000005 | **0.49x** ($-51) | 1.47x |  | pumpfun | 2026-03-20 20:00 |

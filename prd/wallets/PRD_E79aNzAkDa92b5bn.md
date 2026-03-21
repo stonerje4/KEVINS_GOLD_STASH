@@ -1,6 +1,6 @@
 # PRD Wallet: `E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY`
 
-> [GMGN](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | [Solscan](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | Updated: 2026-03-21 04:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | [Solscan](https://solscan.io/account/E79aNzAkDa92b5bnBHED4HLEdcV9xbVgCxqME3TedorY) | Updated: 2026-03-21 04:50 UTC
 
 ## Summary
 
@@ -10,14 +10,14 @@
 | W/L | 0/1 (0%) |
 | 💵 Realized | -0.1195 SOL ($-10.78) |
 | ⛽ Gas | 0.0055 SOL |
-| 📦 Unrealized | -0.0127 SOL |
-| 🏦 Net | **-0.1322 SOL** ($-11.93) |
+| 📦 Unrealized | -0.0112 SOL |
+| 🏦 Net | **-0.1307 SOL** ($-11.79) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🔴 wbs | open | 0.11 | 0.93x | 1.73x | -0.0127 | — |
+| 🔴 wbs | open | 0.11 | 0.94x | 1.73x | -0.0112 | — |
 | 🔴 PRINCIPLES | closed | 0.11 | 0.40x | 1.66x | -0.1195 | stop_loss |
 
 ---

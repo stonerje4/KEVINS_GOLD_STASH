@@ -1,16 +1,16 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 04:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 04:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 93 (91 open, 2 closed) |
+| Positions | 95 (93 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+137 |
-| 📦 Unrealized | $-62 |
-| 🏦 Total | **$+74** |
+| 📦 Unrealized | $-37 |
+| 🏦 Total | **$+100** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.68x |
 
@@ -18,8 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 GAS | $0.000009 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-21 04:49 |
+| 🔴 EV01 | $0.000012 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-21 04:48 |
 | 🟡 Manchas | $0.000006 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-21 04:16 |
-| 🟡 DISLIKE | $0.000031 | **1.00x** ($+0) | 1.02x |  | pumpswap | 2026-03-21 04:08 |
+| 🟡 DISLIKE | $0.000031 | **1.11x** ($+11) | 1.11x |  | pumpswap | 2026-03-21 04:08 |
 | 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:48 |
 | 🔴 Apple | $0.000013 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-21 01:35 |
 | 🔴 Baldi | $0.000020 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-21 01:11 |
@@ -70,7 +72,7 @@
 | 🟡 Feels | $0.000008 | **1.24x** ($+24) | 2.04x | ✅ | pumpswap | 2026-03-20 11:51 |
 | 🟡 Otome | $0.000016 | **1.03x** ($+3) | 1.11x |  | pumpswap | 2026-03-20 11:14 |
 | 🟡 hyrax  | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:55 |
-| 🟡 FAKER | $0.000033 | **1.02x** ($+2) | 1.48x |  | pumpswap | 2026-03-20 10:35 |
+| 🟡 FAKER | $0.000033 | **1.11x** ($+11) | 1.48x |  | pumpswap | 2026-03-20 10:35 |
 | 🟡 Momiage | $0.000009 | **1.02x** ($+2) | 1.04x |  | pumpswap | 2026-03-20 10:14 |
 | 🟡 Achieve | $0.000017 | **1.04x** ($+4) | 1.20x |  | pumpswap | 2026-03-20 10:08 |
 | 🔴 SNAKE | $0.000009 | **0.74x** ($-26) | 1.07x |  | pumpswap | 2026-03-20 08:44 |

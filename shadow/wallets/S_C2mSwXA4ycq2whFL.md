@@ -1,6 +1,6 @@
 # Wallet: `C2mSwXA4ycq2whFLqnxBP9Ye5cWDhvccJ44EM2HSG5UD`
 
-> [GMGN](https://gmgn.ai/sol/address/C2mSwXA4ycq2whFLqnxBP9Ye5cWDhvccJ44EM2HSG5UD) | [Solscan](https://solscan.io/account/C2mSwXA4ycq2whFLqnxBP9Ye5cWDhvccJ44EM2HSG5UD) | Updated: 2026-03-21 04:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/C2mSwXA4ycq2whFLqnxBP9Ye5cWDhvccJ44EM2HSG5UD) | [Solscan](https://solscan.io/account/C2mSwXA4ycq2whFLqnxBP9Ye5cWDhvccJ44EM2HSG5UD) | Updated: 2026-03-21 04:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-8** |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$+5** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 Jpm9QpPE | $0.000006 | **2.11x** ($+111) | 3.19x | ✅ | pumpfun | 2026-03-21 03:46 |
+| 🟢 Jpm9QpPE | $0.000006 | **2.43x** ($+143) | 3.19x | ✅ | pumpfun | 2026-03-21 03:46 |
 | 🔴 PISSCOIN | $0.000014 | **0.97x** ($-3) | 1.61x |  | pumpfun | 2026-03-21 01:50 |
 | 🔴 B9hvw4Wa | $0.000011 | **0.55x** ($-45) | 1.36x |  | pumpfun | 2026-03-20 20:28 |
 | 🔴 71uFjah7 | $0.000009 | **0.97x** ($-3) | 1.59x |  | pumpfun | 2026-03-20 20:10 |

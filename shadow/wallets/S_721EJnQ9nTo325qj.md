@@ -1,6 +1,6 @@
 # Wallet: `721EJnQ9nTo325qjvYu8hG779ikuWkuwdpk7VZqtzQYm`
 
-> [GMGN](https://gmgn.ai/sol/address/721EJnQ9nTo325qjvYu8hG779ikuWkuwdpk7VZqtzQYm) | [Solscan](https://solscan.io/account/721EJnQ9nTo325qjvYu8hG779ikuWkuwdpk7VZqtzQYm) | Updated: 2026-03-21 04:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/721EJnQ9nTo325qjvYu8hG779ikuWkuwdpk7VZqtzQYm) | [Solscan](https://solscan.io/account/721EJnQ9nTo325qjvYu8hG779ikuWkuwdpk7VZqtzQYm) | Updated: 2026-03-21 04:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-12 |
-| 🏦 Total | **$-12** |
+| 📦 Unrealized | $-16 |
+| 🏦 Total | **$-16** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Pixel | $0.000027 | **0.83x** ($-17) | 1.14x |  | pumpswap | 2026-03-21 04:20 |
+| 🔴 Pixel | $0.000027 | **0.79x** ($-21) | 1.14x |  | pumpswap | 2026-03-21 04:20 |
 | 🟡 SURVIVOR | $0.000011 | **1.05x** ($+5) | 1.21x |  | pumpswap | 2026-03-20 01:24 |
 
 ## Closed Positions

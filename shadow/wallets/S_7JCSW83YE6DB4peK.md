@@ -1,6 +1,6 @@
 # Wallet: `7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7`
 
-> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 04:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | [Solscan](https://solscan.io/account/7JCSW83YE6DB4peKmMx8VLKsVcpQhpG1yV1yoVEp3Wt7) | Updated: 2026-03-21 04:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 96 (93 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+71 |
-| 📦 Unrealized | $+275 |
-| 🏦 Total | **$+346** |
+| 📦 Unrealized | $+289 |
+| 🏦 Total | **$+360** |
 | Best ROI | 2.92x |
 | Avg ROI | 1.24x |
 
@@ -18,11 +18,11 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 GAS | $0.000010 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-21 04:43 |
+| 🟡 GAS | $0.000010 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-21 04:43 |
 | 🔴 401k | $0.000008 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 04:14 |
 | 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:11 |
 | 🟡 TerpBot | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
-| 🔴 DISLIKE | $0.000033 | **0.96x** ($-4) | 1.04x |  | pumpswap | 2026-03-21 03:17 |
+| 🟡 DISLIKE | $0.000033 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-21 03:17 |
 | 🟡 Out | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:00 |
 | 🔴 Lana | $0.000019 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 02:32 |
 | 🔴 chud | $0.000017 | **0.91x** ($-9) | 1.05x |  | pumpswap | 2026-03-21 02:12 |

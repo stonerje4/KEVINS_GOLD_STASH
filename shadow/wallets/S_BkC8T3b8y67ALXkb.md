@@ -1,16 +1,16 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 04:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 04:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (28 open, 4 closed) |
+| Positions | 33 (29 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-166 |
-| 📦 Unrealized | $-225 |
-| 🏦 Total | **$-391** |
+| 📦 Unrealized | $-219 |
+| 🏦 Total | **$-385** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.59x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CHIBELON | $0.000027 | **1.06x** ($+6) | 1.06x |  | pumpswap | 2026-03-21 04:48 |
 | 🔴 OIIA | $0.000028 | **0.94x** ($-6) | 1.22x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 ZeroG | $0.000010 | **0.91x** ($-9) | 1.13x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 Dryer | $0.000007 | **0.85x** ($-15) | 1.04x |  | pumpswap | 2026-03-21 01:18 |
