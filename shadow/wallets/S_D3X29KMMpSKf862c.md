@@ -1,6 +1,6 @@
 # Wallet: `D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq`
 
-> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-21 10:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | [Solscan](https://solscan.io/account/D3X29KMMpSKf862cHLffa48zQSyie6zxptBvwETB8HMq) | Updated: 2026-03-21 10:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (9 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-252 |
-| 📦 Unrealized | $+4 |
-| 🏦 Total | **$-248** |
+| 📦 Unrealized | $+1 |
+| 🏦 Total | **$-251** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.37x |
 
@@ -24,7 +24,7 @@
 | 🟡 Chibijak | $0.000014 | **1.16x** ($+16) | 1.16x |  | pumpfun | 2026-03-20 15:18 |
 | 🟡 CHIBIS | $0.000015 | **1.01x** ($+1) | 1.05x |  | pumpfun | 2026-03-20 15:17 |
 | 🔴 tired | $0.000011 | **0.76x** ($-24) | 1.22x |  | pumpfun | 2026-03-20 14:16 |
-| 🔴 Civil Claude | $0.000021 | **0.77x** ($-23) | 1.44x |  | pumpfun | 2026-03-20 14:14 |
+| 🔴 Civil Claude | $0.000021 | **0.74x** ($-26) | 1.44x |  | pumpfun | 2026-03-20 14:14 |
 | 🔴 OSP | $0.000026 | **0.94x** ($-6) | 1.03x |  | pumpfun | 2026-03-20 14:13 |
 | 🟡 PAD | $0.000018 | **1.09x** ($+9) | 1.17x |  | pumpswap | 2026-03-20 13:38 |
 
