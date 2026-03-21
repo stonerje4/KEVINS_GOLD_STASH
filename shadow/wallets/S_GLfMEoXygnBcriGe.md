@@ -1,6 +1,6 @@
 # Wallet: `GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm`
 
-> [GMGN](https://gmgn.ai/sol/address/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | [Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-21 01:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | [Solscan](https://solscan.io/account/GLfMEoXygnBcriGeQhRzUiVtwa5PeiZxsMUkhgLcqvgm) | Updated: 2026-03-21 02:00 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
 | 📦 Unrealized | $-107 |
-| 🏦 Total | **$-168** |
+| 🏦 Total | **$-167** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -26,7 +26,7 @@
 | 🔴 AIKO | $0.000010 | **0.88x** ($-12) | 1.08x |  | pumpswap | 2026-03-20 03:21 |
 | 🔴 GOBLIN | $0.000016 | **0.86x** ($-14) | 1.00x |  | pumpswap | 2026-03-20 01:11 |
 | 🔴 jeff | $0.000025 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 00:26 |
-| 🟡 Out | $0.000022 | **1.06x** ($+6) | 1.60x |  | pumpswap | 2026-03-19 22:52 |
+| 🟡 Out | $0.000022 | **1.07x** ($+7) | 1.60x |  | pumpswap | 2026-03-19 22:52 |
 
 ## Closed Positions
 
