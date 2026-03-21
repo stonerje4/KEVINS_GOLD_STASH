@@ -1,6 +1,6 @@
 # Wallet: `F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS`
 
-> [GMGN](https://gmgn.ai/sol/address/F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS) | [Solscan](https://solscan.io/account/F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS) | Updated: 2026-03-20 23:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS) | [Solscan](https://solscan.io/account/F1opxAhEgnndRJCKgf6FbGQv1ar2Rh4t197u2rQBWLjS) | Updated: 2026-03-21 00:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+19 |
-| 🏦 Total | **$+19** |
+| 📦 Unrealized | $+12 |
+| 🏦 Total | **$+12** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Elephant | $0.000015 | **0.82x** ($-18) | 1.03x |  | pumpswap | 2026-03-20 14:24 |
-| 🟡 Beecat | $0.000005 | **1.73x** ($+73) | 2.19x | ✅ | pumpswap | 2026-03-20 13:06 |
+| 🟡 Beecat | $0.000005 | **1.59x** ($+59) | 2.19x | ✅ | pumpswap | 2026-03-20 13:06 |
 
 ## Closed Positions
 

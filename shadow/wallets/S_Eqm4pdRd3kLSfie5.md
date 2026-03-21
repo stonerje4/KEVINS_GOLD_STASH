@@ -1,6 +1,6 @@
 # Wallet: `Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB`
 
-> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-20 23:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | [Solscan](https://solscan.io/account/Eqm4pdRd3kLSfie5mNHrVQgdaz3zLGVXmCT1qWsaaaJB) | Updated: 2026-03-21 00:00 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 1/8 (11%) |
 | 💵 Realized | $-339 |
 | 📦 Unrealized | $+54 |
-| 🏦 Total | **$-285** |
+| 🏦 Total | **$-284** |
 | Best ROI | 1.32x |
 | Avg ROI | 0.62x |
 
@@ -20,14 +20,14 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 J8piKJCf | $0.000005 | **0.49x** ($-51) | 1.30x |  | pumpfun | 2026-03-20 23:20 |
 | 🔴 ✨ | $0.000006 | **0.40x** ($-60) | 1.10x |  | pumpfun | 2026-03-20 22:29 |
-| 🟡 SNIFFER | $0.000026 | **1.23x** ($+23) | 1.49x |  | pumpswap | 2026-03-20 22:13 |
+| 🟡 SNIFFER | $0.000026 | **1.28x** ($+28) | 1.49x |  | pumpswap | 2026-03-20 22:13 |
 | 🚀 LIFE | $0.000005 | **6.68x** ($+568) | 6.68x | ✅ | pumpfun | 2026-03-20 21:52 |
 | 🔴 JEREMY | $0.000016 | **0.59x** ($-41) | 1.05x |  | pumpswap | 2026-03-20 20:56 |
 | 🟢 Cigify | $0.000010 | **3.68x** ($+268) | 3.68x | ✅ | pumpfun | 2026-03-20 20:55 |
 | 🔴 Samba | $0.000015 | **0.55x** ($-45) | 1.35x |  | pumpswap | 2026-03-20 20:42 |
 | 🟡 6eZMXJNA | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 20:29 |
 | 🔴 Aura | $0.000006 | **0.71x** ($-29) | 1.31x |  | pumpfun | 2026-03-20 20:22 |
-| 🟡 Forget | $0.000008 | **1.07x** ($+7) | 1.59x |  | pumpswap | 2026-03-20 19:24 |
+| 🟡 Forget | $0.000008 | **1.03x** ($+3) | 1.59x |  | pumpswap | 2026-03-20 19:24 |
 | 🔴 Massive | $0.000029 | **0.61x** ($-39) | 1.10x |  | pumpswap | 2026-03-20 18:52 |
 | 🟡 Sunshine | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:45 |
 | 🟡 SBR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:34 |

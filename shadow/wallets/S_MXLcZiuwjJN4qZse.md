@@ -1,6 +1,6 @@
 # Wallet: `MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM`
 
-> [GMGN](https://gmgn.ai/sol/address/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | [Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-20 23:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | [Solscan](https://solscan.io/account/MXLcZiuwjJN4qZsexUMqP1pUWed1MsQHZGzo7iqy7gM) | Updated: 2026-03-21 00:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 9 (4 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-176 |
-| 📦 Unrealized | $-70 |
-| 🏦 Total | **$-246** |
+| 📦 Unrealized | $-74 |
+| 🏦 Total | **$-250** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.65x |
 
@@ -21,7 +21,7 @@
 | 🔴 NATO | $0.000005 | **0.51x** ($-49) | 1.00x |  | pumpfun | 2026-03-20 14:14 |
 | 🟡 imagine | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:55 |
 | 🟡 Homies  | $0.000005 | **1.23x** ($+23) | 1.31x |  | pumpfun | 2026-03-20 09:30 |
-| 🔴 PHM | $0.000011 | **0.55x** ($-45) | 1.00x |  | pumpfun | 2026-03-20 08:51 |
+| 🔴 PHM | $0.000011 | **0.52x** ($-48) | 1.00x |  | pumpfun | 2026-03-20 08:51 |
 
 ## Closed Positions
 
