@@ -1,6 +1,6 @@
 # Wallet: `Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z`
 
-> [GMGN](https://gmgn.ai/sol/address/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | [Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-21 02:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | [Solscan](https://solscan.io/account/Fi8idX7gVVYeJWbdWjTZD1a4AAopXmixosrFGbSKXB8Z) | Updated: 2026-03-21 02:20 UTC
 
 ## Summary
 
@@ -22,7 +22,7 @@
 | 🟡 Pokopia | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 20:22 |
 | 🔴 CHEMTRAILS | $0.000006 | **0.62x** ($-38) | 1.25x |  | pumpswap | 2026-03-20 13:18 |
 | 🟡 DEFORGE | $0.000006 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 12:03 |
-| 🟡 RETURN | $0.000011 | **1.17x** ($+17) | 1.32x |  | pumpswap | 2026-03-20 09:13 |
+| 🟡 RETURN | $0.000011 | **1.16x** ($+16) | 1.32x |  | pumpswap | 2026-03-20 09:13 |
 | 🔴 PLOTT | $0.000007 | **1.00x** ($-0) | 1.09x |  | pumpfun | 2026-03-20 09:07 |
 
 ## Closed Positions

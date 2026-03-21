@@ -1,6 +1,6 @@
 # Wallet: `H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm`
 
-> [GMGN](https://gmgn.ai/sol/address/H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm) | [Solscan](https://solscan.io/account/H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm) | Updated: 2026-03-21 02:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm) | [Solscan](https://solscan.io/account/H1TLERBQyQzSd5gbvbWwP97GjeL9txzWoN5BK4UG7xYm) | Updated: 2026-03-21 02:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (6 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-76 |
-| 📦 Unrealized | $-229 |
-| 🏦 Total | **$-305** |
+| 📦 Unrealized | $-228 |
+| 🏦 Total | **$-304** |
 | Best ROI | 0.85x |
 | Avg ROI | 0.62x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 GYMSKIN | $0.000035 | **0.87x** ($-13) | 1.16x |  | pumpswap | 2026-03-21 00:38 |
-| 🔴 Elongate | $0.000016 | **0.46x** ($-54) | 1.68x |  | pumpswap | 2026-03-20 22:20 |
+| 🔴 Elongate | $0.000016 | **0.48x** ($-52) | 1.68x |  | pumpswap | 2026-03-20 22:20 |
 | 🔴 vufXxUyV | $0.000006 | **0.41x** ($-59) | 1.30x |  | pumpfun | 2026-03-20 18:41 |
 | 🟡 𝕏CAT | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:20 |
 | 🔴 BARRON | $0.000006 | **0.40x** ($-60) | 1.47x |  | pumpfun | 2026-03-20 17:16 |

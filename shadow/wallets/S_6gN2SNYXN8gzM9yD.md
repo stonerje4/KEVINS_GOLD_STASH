@@ -1,6 +1,6 @@
 # Wallet: `6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq`
 
-> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-21 02:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | [Solscan](https://solscan.io/account/6gN2SNYXN8gzM9yDy9A9mSsGSykLJbvfYWKkpPs3xfBq) | Updated: 2026-03-21 02:20 UTC
 
 ## Summary
 
@@ -18,12 +18,12 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Luke | $0.000005 | **1.06x** ($+6) | 1.49x |  | pumpfun | 2026-03-21 01:55 |
-| 🔴 FRIEND | $0.000011 | **0.67x** ($-33) | 1.19x |  | pumpfun | 2026-03-21 01:06 |
+| 🟡 Luke | $0.000005 | **1.11x** ($+11) | 1.49x |  | pumpfun | 2026-03-21 01:55 |
+| 🔴 FRIEND | $0.000011 | **0.63x** ($-37) | 1.19x |  | pumpfun | 2026-03-21 01:06 |
 | 🟡 wbs | $0.000018 | **1.02x** ($+2) | 1.59x |  | pumpfun | 2026-03-20 20:26 |
 | 🔴 Jiji | $0.000005 | **0.49x** ($-51) | 1.08x |  | pumpfun | 2026-03-20 15:52 |
 | 🟡 DLORP | $0.000007 | **1.55x** ($+55) | 1.96x |  | pumpswap | 2026-03-20 00:15 |
-| 🟡 world | $0.000022 | **1.02x** ($+2) | 1.67x |  | pumpfun | 2026-03-20 00:12 |
+| 🟡 world | $0.000022 | **1.01x** ($+1) | 1.67x |  | pumpfun | 2026-03-20 00:12 |
 | 🟡 TENDIES | $0.000015 | **1.00x** ($+0) | 1.00x | ✅ | dlmm | 2026-03-19 23:42 |
 
 ## Closed Positions
