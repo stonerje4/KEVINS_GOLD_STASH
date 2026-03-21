@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 11:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 11:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 55 (50 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+136 |
-| 📦 Unrealized | $-521 |
-| 🏦 Total | **$-385** |
+| 📦 Unrealized | $-524 |
+| 🏦 Total | **$-388** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.27x |
 
@@ -40,7 +40,7 @@
 | 🔴 clod | $0.000016 | **0.82x** ($-18) | 1.20x |  | pumpswap | 2026-03-20 19:17 |
 | 🔴 SNIFFER | $0.000031 | **0.92x** ($-8) | 1.77x |  | pumpswap | 2026-03-20 19:00 |
 | 🔴 Chud | $0.000030 | **0.73x** ($-27) | 1.02x |  | pumpswap | 2026-03-20 18:52 |
-| 🔴 honkermog | $0.000032 | **0.72x** ($-28) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
+| 🔴 honkermog | $0.000032 | **0.71x** ($-29) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
 | 🟡 CHIBI | $0.000014 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 18:08 |
 | 🔴 ARIA | $0.000021 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
 | 🟡 Hamster | $0.000021 | **1.62x** ($+62) | 1.72x |  | pumpswap | 2026-03-20 17:00 |
@@ -61,7 +61,7 @@
 | 🔴 RI | $0.000035 | **0.61x** ($-39) | 1.00x |  | pumpswap | 2026-03-20 01:19 |
 | 🔴 Speak | $0.000024 | **0.66x** ($-34) | 1.14x |  | pumpswap | 2026-03-20 00:57 |
 | 🟡 OIIA | $0.000013 | **1.96x** ($+96) | 2.87x | ✅ | pumpswap | 2026-03-20 00:22 |
-| 🟡 AINL | $0.000024 | **1.52x** ($+52) | 1.92x |  | pumpswap | 2026-03-19 23:43 |
+| 🟡 AINL | $0.000024 | **1.50x** ($+50) | 1.92x |  | pumpswap | 2026-03-19 23:43 |
 | 🔴 Monke | $0.000013 | **0.52x** ($-48) | 1.02x |  | pumpswap | 2026-03-19 23:30 |
 | 🔴 HOSPICE | $0.000025 | **0.49x** ($-51) | 1.15x |  | pumpswap | 2026-03-19 23:12 |
 | 🔴 Island | $0.000036 | **0.76x** ($-24) | 1.29x |  | pumpswap | 2026-03-19 23:02 |

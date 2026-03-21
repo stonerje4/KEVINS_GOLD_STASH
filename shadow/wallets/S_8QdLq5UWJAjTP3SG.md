@@ -1,6 +1,6 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 11:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 11:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 35 (14 open, 21 closed) |
 | W/L | 3/18 (14%) |
 | 💵 Realized | $-673 |
-| 📦 Unrealized | $-229 |
-| 🏦 Total | **$-902** |
+| 📦 Unrealized | $-230 |
+| 🏦 Total | **$-903** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.68x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 24MKAzKb | $0.000005 | **0.49x** ($-51) | 1.84x |  | pumpfun | 2026-03-21 10:18 |
+| 🔴 24MKAzKb | $0.000005 | **0.48x** ($-52) | 1.84x |  | pumpfun | 2026-03-21 10:18 |
 | 🔴 MOON | $0.000006 | **0.43x** ($-57) | 1.49x |  | pumpfun | 2026-03-21 08:51 |
 | 🟡  Apollo | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |
 | 🔴 omg | $0.000006 | **0.63x** ($-37) | 1.51x |  | pumpswap | 2026-03-21 05:12 |

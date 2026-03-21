@@ -1,16 +1,16 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-21 11:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-21 11:55 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 35 (5 open, 30 closed) |
-| W/L | 0/30 (0%) |
-| 💵 Realized | $-2,997 |
+| Positions | 36 (5 open, 31 closed) |
+| W/L | 0/31 (0%) |
+| 💵 Realized | $-3,097 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-2,997** |
+| 🏦 Total | **$-3,097** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -28,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 OPTIGUY | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 11:50 → 2026-03-21 11:50 |
 | 🔴 Gold Paper | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 11:18 → 2026-03-21 11:18 |
 | 🔴 man | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 10:42 → 2026-03-21 10:42 |
 | 🔴 pa | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 08:30 → 2026-03-21 08:30 |

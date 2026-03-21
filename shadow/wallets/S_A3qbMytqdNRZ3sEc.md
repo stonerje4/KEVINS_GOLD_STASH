@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 11:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 11:55 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 68 (57 open, 11 closed) |
 | W/L | 4/7 (36%) |
 | 💵 Realized | $-7 |
-| 📦 Unrealized | $-266 |
-| 🏦 Total | **$-273** |
+| 📦 Unrealized | $-210 |
+| 🏦 Total | **$-217** |
 | Best ROI | 2.97x |
 | Avg ROI | 0.99x |
 
@@ -22,7 +22,7 @@
 | 🟡 FABIANA | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 09:16 |
 | 🟡 p-token | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:23 |
 | 🟡 Situation | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:47 |
-| 🔴 honkermog | $0.000023 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-21 07:44 |
+| 🔴 honkermog | $0.000023 | **0.97x** ($-3) | 1.02x |  | pumpswap | 2026-03-21 07:44 |
 | 🟡 ANIME | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:44 |
 | 🟡 OSP | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:00 |
 | 🟡 Income | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:56 |
@@ -30,7 +30,7 @@
 | 🟡 LUMO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:48 |
 | 🟡 LIFE | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:39 |
 | 🟡 ZeroG | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:28 |
-| 🟡 EV01 | $0.000013 | **1.34x** ($+34) | 1.34x |  | pumpswap | 2026-03-21 04:18 |
+| 🟡 EV01 | $0.000013 | **1.91x** ($+91) | 1.96x |  | pumpswap | 2026-03-21 04:18 |
 | 🟡 CRACK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:14 |
 | 🟡 MFT | $0.000024 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:02 |
 | 🟡 SMCI | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:51 |

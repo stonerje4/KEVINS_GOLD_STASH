@@ -1,6 +1,6 @@
 # PRD Wallet: `7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D`
 
-> [GMGN](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | [Solscan](https://solscan.io/account/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | Updated: 2026-03-21 11:50 UTC
+> [GMGN](https://gmgn.ai/sol/address/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | [Solscan](https://solscan.io/account/7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D) | Updated: 2026-03-21 11:55 UTC
 
 ## Summary
 
@@ -10,14 +10,14 @@
 | W/L | 0/3 (0%) |
 | 💵 Realized | -0.3363 SOL ($-30.24) |
 | ⛽ Gas | 0.0000 SOL |
-| 📦 Unrealized | +0.0021 SOL |
-| 🏦 Net | **-0.3341 SOL** ($-30.05) |
+| 📦 Unrealized | -0.0097 SOL |
+| 🏦 Net | **-0.3460 SOL** ($-31.11) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🟢 Phibz | open | 0.11 | 1.06x | 1.63x | +0.0021 | — |
+| 🔴 Phibz | open | 0.11 | 0.96x | 1.63x | -0.0097 | — |
 | 🔴 GameTheory | closed | 0.11 | 1.04x | 1.24x | -0.1121 | manual_sell |
 | 🔴 SHEEN | closed | 0.11 | 0.83x | 1.07x | -0.1121 | ghost_close_zero_balance |
 | 🔴 Feels | closed | 0.11 | 1.23x | 1.87x | -0.1121 | ghost_close_zero_balance |
