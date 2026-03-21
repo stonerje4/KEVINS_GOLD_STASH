@@ -1,16 +1,16 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 03:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 03:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 154 (145 open, 9 closed) |
+| Positions | 155 (146 open, 9 closed) |
 | W/L | 2/7 (22%) |
 | 💵 Realized | $+6 |
-| 📦 Unrealized | $-723 |
-| 🏦 Total | **$-717** |
+| 📦 Unrealized | $-722 |
+| 🏦 Total | **$-715** |
 | Best ROI | 2.96x |
 | Avg ROI | 1.01x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 TerpBot | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
 | 🟡 OXIDE | $0.000018 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-21 02:15 |
 | 🔴 realizing | $0.000005 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 02:12 |
 | 🔴 Gany | $0.000025 | **0.95x** ($-5) | 1.07x |  | pumpswap | 2026-03-21 02:00 |
@@ -100,7 +101,7 @@
 | 🟡 chud | $0.000015 | **1.03x** ($+3) | 2.34x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🟡 OPTIMUS | $0.000015 | **1.21x** ($+21) | 1.27x |  | pumpswap | 2026-03-20 07:53 |
 | 🟡 AIFRUIT | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:49 |
-| 🟡 CLAW | $0.000027 | **1.05x** ($+5) | 1.17x |  | pumpswap | 2026-03-20 07:44 |
+| 🟡 CLAW | $0.000027 | **1.06x** ($+6) | 1.17x |  | pumpswap | 2026-03-20 07:44 |
 | 🔴 NICK | $0.000029 | **0.81x** ($-19) | 1.16x |  | pumpswap | 2026-03-20 07:30 |
 | 🔴 WID | $0.000019 | **0.80x** ($-20) | 1.36x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 clawedin | $0.000011 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 07:25 |
@@ -125,7 +126,7 @@
 | 🟡 UBT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:05 |
 | 🔴 AFC | $0.000005 | **0.81x** ($-19) | 1.08x |  | pumpswap | 2026-03-20 03:03 |
 | 🟡 WhiteBoy  | $0.000014 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 02:50 |
-| 🔴 JOC | $0.000033 | **0.88x** ($-12) | 1.17x |  | pumpswap | 2026-03-20 02:36 |
+| 🔴 JOC | $0.000033 | **0.87x** ($-13) | 1.17x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 BB | $0.000009 | **1.00x** ($-0) | 1.05x |  | pumpswap | 2026-03-20 02:20 |
 | 🔴 Skull | $0.000008 | **0.76x** ($-24) | 1.14x |  | pumpswap | 2026-03-20 01:59 |
 | 🔴 DoubleT | $0.000028 | **0.88x** ($-12) | 1.07x |  | pumpswap | 2026-03-20 01:55 |

@@ -1,12 +1,12 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 03:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 03:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 30 (22 open, 8 closed) |
+| Positions | 31 (23 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-372 |
 | 📦 Unrealized | $-287 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 p-token | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:38 |
 | 🔴 Spiderman | $0.000029 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-21 02:40 |
 | 🟡 LIFE | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:29 |
 | 🟡 EVERYTHING | $0.000035 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:09 |

@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 03:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 03:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 51 (41 open, 10 closed) |
 | W/L | 3/7 (30%) |
 | 💵 Realized | $-203 |
-| 📦 Unrealized | $-308 |
-| 🏦 Total | **$-511** |
+| 📦 Unrealized | $-310 |
+| 🏦 Total | **$-513** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.80x |
 
@@ -50,7 +50,7 @@
 | 🟡 ELEPHANT | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 03:07 |
 | 🔴 whiskers | $0.000008 | **0.95x** ($-5) | 1.02x |  | pumpswap | 2026-03-20 02:08 |
 | 🔴 Manosphere | $0.000007 | **0.87x** ($-13) | 1.04x |  | pumpswap | 2026-03-20 01:10 |
-| 🔴 TMRW | $0.000011 | **0.46x** ($-54) | 1.00x |  | pumpswap | 2026-03-20 01:10 |
+| 🔴 TMRW | $0.000011 | **0.43x** ($-57) | 1.00x |  | pumpswap | 2026-03-20 01:10 |
 | 🔴 Ham | $0.000035 | **0.93x** ($-7) | 1.97x |  | pumpswap | 2026-03-20 00:58 |
 | 🔴 ROME | $0.000010 | **0.64x** ($-36) | 1.52x |  | pumpswap | 2026-03-20 00:47 |
 | 🟢 Rocky | $0.000033 | **2.26x** ($+126) | 2.60x | ✅ | pumpswap | 2026-03-20 00:29 |

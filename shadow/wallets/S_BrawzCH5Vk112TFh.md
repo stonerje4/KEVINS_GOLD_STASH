@@ -1,16 +1,16 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 03:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 03:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 173 (167 open, 6 closed) |
+| Positions | 174 (168 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-1,290 |
-| 🏦 Total | **$-1,243** |
+| 📦 Unrealized | $-1,293 |
+| 🏦 Total | **$-1,246** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.08x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 TerpBot | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
 | 🟡 NORMIE | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-21 02:48 |
 | 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.01x |  | pumpswap | 2026-03-21 02:42 |
 | 🔴 Gany | $0.000025 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-21 02:31 |
@@ -95,7 +96,7 @@
 | 🟡 しずく | $0.000015 | **1.04x** ($+4) | 1.26x |  | pumpswap | 2026-03-20 08:09 |
 | 🟡 OPTIMUS | $0.000015 | **1.20x** ($+20) | 1.26x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 chud | $0.000015 | **1.05x** ($+5) | 2.36x | ✅ | pumpswap | 2026-03-20 08:01 |
-| 🟡 CLAW | $0.000027 | **1.05x** ($+5) | 1.16x |  | pumpswap | 2026-03-20 07:44 |
+| 🟡 CLAW | $0.000027 | **1.06x** ($+6) | 1.16x |  | pumpswap | 2026-03-20 07:44 |
 | 🔴 WID | $0.000019 | **0.80x** ($-20) | 1.35x |  | pumpswap | 2026-03-20 07:27 |
 | 🔴 DLSS5 | $0.000021 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 07:16 |
 | 🔴 AMBER | $0.000013 | **0.87x** ($-13) | 1.13x |  | pumpswap | 2026-03-20 07:15 |
@@ -115,7 +116,7 @@
 | 🟡 GIGACHAD | $0.000006 | **1.00x** ($+0) | 2.35x | ✅ | pumpswap | 2026-03-20 05:19 |
 | 🟡 FKH | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🔴 TRASHBAG | $0.000006 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
-| 🔴 TMRW | $0.000007 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 04:41 |
+| 🔴 TMRW | $0.000007 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 04:41 |
 | 🔴 Moe-chan | $0.000015 | **0.66x** ($-34) | 1.17x |  | pumpswap | 2026-03-20 04:36 |
 | 🔴 AGON | $0.000007 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 04:35 |
 | 🔴 Xingxing | $0.000026 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-20 04:25 |
