@@ -1,6 +1,6 @@
 # Wallet: `D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY`
 
-> [GMGN](https://gmgn.ai/sol/address/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | [Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-21 12:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | [Solscan](https://solscan.io/account/D9GVhWTZMf8ebrTZqUNtugMR8wsCXuM6Jwm1B64RHGdY) | Updated: 2026-03-21 12:45 UTC
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | 🟡 $pissin | $0.000022 | **1.08x** ($+8) | 1.08x |  | pumpswap | 2026-03-21 11:56 |
 | 🟡 Toly | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:39 |
 | 🟡 AGS | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:02 |
-| 🟡 Dewy | $0.000013 | **1.16x** ($+16) | 1.27x |  | pumpfun | 2026-03-21 05:00 |
+| 🟡 Dewy | $0.000013 | **1.17x** ($+17) | 1.27x |  | pumpfun | 2026-03-21 05:00 |
 | 🟡 GAY | $0.000009 | **1.14x** ($+14) | 1.14x |  | pumpfun | 2026-03-20 21:07 |
 | 🔴 SCC | $0.000013 | **0.93x** ($-7) | 1.00x |  | pumpfun | 2026-03-20 20:57 |
 | 🟡 Homies  | $0.000006 | **1.02x** ($+2) | 1.07x |  | pumpfun | 2026-03-20 20:55 |

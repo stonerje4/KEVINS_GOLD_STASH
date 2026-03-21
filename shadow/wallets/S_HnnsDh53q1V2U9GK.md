@@ -1,6 +1,6 @@
 # Wallet: `HnnsDh53q1V2U9GKE3AaWY9uQWf47CpFG2reBZovPQze`
 
-> [GMGN](https://gmgn.ai/sol/address/HnnsDh53q1V2U9GKE3AaWY9uQWf47CpFG2reBZovPQze) | [Solscan](https://solscan.io/account/HnnsDh53q1V2U9GKE3AaWY9uQWf47CpFG2reBZovPQze) | Updated: 2026-03-21 12:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/HnnsDh53q1V2U9GKE3AaWY9uQWf47CpFG2reBZovPQze) | [Solscan](https://solscan.io/account/HnnsDh53q1V2U9GKE3AaWY9uQWf47CpFG2reBZovPQze) | Updated: 2026-03-21 12:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-30 |
-| 🏦 Total | **$-30** |
+| 📦 Unrealized | $-32 |
+| 🏦 Total | **$-32** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TFW | $0.000028 | **1.25x** ($+25) | 2.54x | ✅ | pumpswap | 2026-03-19 23:45 |
+| 🟡 TFW | $0.000028 | **1.22x** ($+22) | 2.54x | ✅ | pumpswap | 2026-03-19 23:45 |
 | 🟡 hello | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-19 23:20 |
 | 🔴 APEPE | $0.000011 | **0.57x** ($-43) | 1.11x |  | pumpfun | 2026-03-19 23:15 |
 

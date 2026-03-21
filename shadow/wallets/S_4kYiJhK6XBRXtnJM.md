@@ -1,6 +1,6 @@
 # Wallet: `4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF`
 
-> [GMGN](https://gmgn.ai/sol/address/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | [Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-21 12:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | [Solscan](https://solscan.io/account/4kYiJhK6XBRXtnJMYhNVK6aAKpXpnSgL9M5iduCk3eTF) | Updated: 2026-03-21 12:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (11 open, 6 closed) |
 | W/L | 0/6 (0%) |
 | 💵 Realized | $-323 |
-| 📦 Unrealized | $+28 |
-| 🏦 Total | **$-295** |
+| 📦 Unrealized | $+29 |
+| 🏦 Total | **$-294** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.46x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 TAMA | $0.000006 | **0.86x** ($-14) | 1.08x |  | pumpfun | 2026-03-21 12:25 |
-| 🟢 wolverine | $0.000007 | **3.33x** ($+233) | 4.01x | ✅ | pumpfun | 2026-03-21 09:41 |
+| 🔴 TAMA | $0.000006 | **0.94x** ($-6) | 1.08x |  | pumpfun | 2026-03-21 12:25 |
+| 🟢 wolverine | $0.000007 | **3.14x** ($+214) | 4.01x | ✅ | pumpfun | 2026-03-21 09:41 |
 | 🟡 Jiji | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 07:05 |
 | 🟡 MINMIKO | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:30 |
 | 🟡 CRACK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:13 |
