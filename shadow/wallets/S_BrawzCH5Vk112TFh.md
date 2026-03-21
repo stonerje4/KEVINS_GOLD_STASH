@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 03:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 04:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 174 (168 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-1,287 |
-| 🏦 Total | **$-1,240** |
+| 📦 Unrealized | $-1,307 |
+| 🏦 Total | **$-1,260** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.08x |
 
@@ -83,7 +83,7 @@
 | 🔴 Matthew | $0.000016 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-20 11:22 |
 | 🔴 OXIDE | $0.000026 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 11:09 |
 | 🟡 Wolverine | $0.000023 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:54 |
-| 🟡 FAKER | $0.000033 | **1.39x** ($+39) | 1.49x |  | pumpswap | 2026-03-20 10:34 |
+| 🟡 FAKER | $0.000033 | **1.19x** ($+19) | 1.49x |  | pumpswap | 2026-03-20 10:34 |
 | 🟡 LIPPY | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:20 |
 | 🔴 CHOCOTINA | $0.000006 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-20 10:14 |
 | 🟡 hyrax  | $0.000025 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:09 |
@@ -116,7 +116,7 @@
 | 🟡 GIGACHAD | $0.000006 | **1.00x** ($+0) | 2.35x | ✅ | pumpswap | 2026-03-20 05:19 |
 | 🟡 FKH | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 05:06 |
 | 🔴 TRASHBAG | $0.000006 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 05:04 |
-| 🔴 TMRW | $0.000007 | **0.66x** ($-34) | 1.00x |  | pumpswap | 2026-03-20 04:41 |
+| 🔴 TMRW | $0.000007 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 04:41 |
 | 🔴 Moe-chan | $0.000015 | **0.66x** ($-34) | 1.17x |  | pumpswap | 2026-03-20 04:36 |
 | 🔴 AGON | $0.000007 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 04:35 |
 | 🔴 Xingxing | $0.000026 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-20 04:25 |

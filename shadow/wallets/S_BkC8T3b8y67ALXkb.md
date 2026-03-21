@@ -1,18 +1,18 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 03:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 04:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 32 (29 open, 3 closed) |
-| W/L | 0/3 (0%) |
-| 💵 Realized | $-105 |
-| 📦 Unrealized | $-241 |
-| 🏦 Total | **$-347** |
+| Positions | 32 (28 open, 4 closed) |
+| W/L | 0/4 (0%) |
+| 💵 Realized | $-166 |
+| 📦 Unrealized | $-225 |
+| 🏦 Total | **$-391** |
 | Best ROI | 0.82x |
-| Avg ROI | 0.65x |
+| Avg ROI | 0.59x |
 
 ## Open Positions
 
@@ -42,7 +42,6 @@
 | 🔴 Monke | $0.000009 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 Rosei | $0.000014 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 02:12 |
 | 🔴 LINLIAN | $0.000014 | **0.49x** ($-51) | 1.03x |  | pumpfun | 2026-03-20 00:41 |
-| 🔴 Billy | $0.000011 | **0.84x** ($-16) | 1.22x |  | pumpswap | 2026-03-20 00:26 |
 | 🔴 Octogent | $0.000010 | **0.52x** ($-48) | 1.19x |  | pumpswap | 2026-03-20 00:06 |
 | 🔴 TIMELESS | $0.000021 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 00:02 |
 | 🔴 AMBER | $0.000014 | **0.82x** ($-18) | 1.09x |  | pumpswap | 2026-03-19 23:21 |
@@ -55,6 +54,7 @@
 | 🟡 Alien | 0.82x | $-18 | trailing_stop_3x | 2.88x | pumpswap | 2026-03-20 09:02 → 2026-03-20 21:16 |
 | 🔴 NBR | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 03:51 → 2026-03-20 18:16 |
 | 🔴 Goose | 0.73x | $-27 | trailing_stop_2x | 2.32x | pumpswap | 2026-03-20 00:26 → 2026-03-20 17:34 |
+| 🔴 Billy | 0.40x | $-60 | stop_loss | 1.22x | pumpswap | 2026-03-20 00:26 → 2026-03-21 03:57 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
