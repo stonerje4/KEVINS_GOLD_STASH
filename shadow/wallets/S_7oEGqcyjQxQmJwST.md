@@ -1,27 +1,26 @@
 # Wallet: `7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr`
 
-> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 05:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 05:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $+47 |
-| 🏦 Total | **$+47** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 6 (5 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-17 |
+| 📦 Unrealized | $+37 |
+| 🏦 Total | **$+20** |
+| Best ROI | 0.83x |
+| Avg ROI | 0.83x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 PIP | $0.000013 | **0.91x** ($-9) | 1.05x |  | pumpfun | 2026-03-21 05:13 |
-| 🔴 grokputer | $0.000014 | **0.69x** ($-31) | 1.30x |  | pumpfun | 2026-03-21 04:22 |
-| 🟡 PISSMASTER | $0.000009 | **1.12x** ($+12) | 2.40x | ✅ | pumpfun | 2026-03-21 04:04 |
-| 🟡 C1ZWqmPS | $0.000005 | **1.29x** ($+29) | 1.93x |  | pumpfun | 2026-03-21 03:53 |
+| 🔴 PIP | $0.000013 | **0.93x** ($-7) | 1.05x |  | pumpfun | 2026-03-21 05:13 |
+| 🔴 grokputer | $0.000014 | **0.64x** ($-36) | 1.30x |  | pumpfun | 2026-03-21 04:22 |
+| 🟡 C1ZWqmPS | $0.000005 | **1.28x** ($+28) | 1.93x |  | pumpfun | 2026-03-21 03:53 |
 | 🟡 NOR | $0.000006 | **1.59x** ($+59) | 1.59x |  | pumpfun | 2026-03-21 02:19 |
 | 🔴 CHAD | $0.000008 | **0.92x** ($-8) | 1.14x |  | pumpfun | 2026-03-21 01:13 |
 
@@ -29,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 PISSMASTER | 0.83x | $-17 | trailing_stop_2x | 2.40x | pumpfun | 2026-03-21 04:04 → 2026-03-21 05:19 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

@@ -1,16 +1,16 @@
 # Wallet: `AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn`
 
-> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-21 05:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | [Solscan](https://solscan.io/account/AX78YQBANLBtF2PT5ngHF5oBsH4tiZavCf9QAFaJSdYn) | Updated: 2026-03-21 05:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (9 open, 16 closed) |
+| Positions | 26 (10 open, 16 closed) |
 | W/L | 2/14 (12%) |
 | 💵 Realized | $-624 |
-| 📦 Unrealized | $+54 |
-| 🏦 Total | **$-569** |
+| 📦 Unrealized | $+78 |
+| 🏦 Total | **$-546** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.61x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 F6BcmSTX | $0.000007 | **1.23x** ($+23) | 1.43x |  | pumpfun | 2026-03-21 05:17 |
 | 🟡 PUNCHDENG | $0.000034 | **1.08x** ($+8) | 1.08x |  | pumpfun | 2026-03-20 22:17 |
 | 🟢 Jessica | $0.000012 | **3.13x** ($+213) | 3.13x | ✅ | pumpfun | 2026-03-20 21:32 |
 | 🔴 GAAS | $0.000006 | **0.46x** ($-54) | 1.33x |  | pumpfun | 2026-03-20 08:50 |
