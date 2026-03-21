@@ -1,16 +1,16 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 06:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 06:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 27 (13 open, 14 closed) |
+| Positions | 28 (14 open, 14 closed) |
 | W/L | 1/13 (7%) |
 | 💵 Realized | $-579 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$-582** |
+| 📦 Unrealized | $+32 |
+| 🏦 Total | **$-547** |
 | Best ROI | 1.18x |
 | Avg ROI | 0.59x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 FY6H4PCa | $0.000007 | **1.70x** ($+70) | 2.76x | ✅ | pumpfun | 2026-03-21 06:33 |
 | 🟡  Apollo | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |
 | 🔴 omg | $0.000006 | **0.67x** ($-33) | 1.51x |  | pumpswap | 2026-03-21 05:12 |
 | 🔴 job | $0.000006 | **0.45x** ($-55) | 1.08x |  | pumpfun | 2026-03-20 05:59 |
