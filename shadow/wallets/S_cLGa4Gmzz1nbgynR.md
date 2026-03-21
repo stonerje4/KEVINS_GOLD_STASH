@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 08:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 08:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 78 (62 open, 16 closed) |
 | W/L | 1/15 (6%) |
 | 💵 Realized | $-720 |
-| 📦 Unrealized | $-434 |
-| 🏦 Total | **$-1,154** |
+| 📦 Unrealized | $-432 |
+| 🏦 Total | **$-1,152** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.55x |
 
@@ -40,7 +40,7 @@
 | 🔴 Rosei | $0.000015 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🔴 foid | $0.000020 | **0.75x** ($-25) | 1.11x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 Saxophones | $0.000034 | **0.82x** ($-18) | 1.15x |  | pumpswap | 2026-03-20 13:40 |
-| 🔴 honkermog | $0.000033 | **0.64x** ($-36) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
+| 🔴 honkermog | $0.000033 | **0.62x** ($-38) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
 | 🔴 CHIBIELON | $0.000039 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 DISLIKE | $0.000039 | **0.83x** ($-17) | 1.21x |  | pumpswap | 2026-03-20 12:09 |
 | 🔴 CHIBITRUMP | $0.000015 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
@@ -65,11 +65,11 @@
 | 🔴 YOU | $0.000014 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
 | 🔴 cigarette | $0.000018 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:21 |
 | 🟡 FKH | $0.000017 | **1.09x** ($+9) | 1.12x |  | pumpswap | 2026-03-20 02:01 |
-| 🟡 Hamster | $0.000035 | **1.02x** ($+2) | 1.03x |  | pumpswap | 2026-03-20 01:52 |
+| 🔴 Hamster | $0.000035 | **0.99x** ($-1) | 1.03x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Speak | $0.000023 | **0.69x** ($-31) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
 | 🟢 LIFE | $0.000024 | **2.34x** ($+134) | 2.95x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🟡 Saleh | $0.000013 | **1.05x** ($+5) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
-| 🟢 DOGEFATHER | $0.000013 | **3.32x** ($+232) | 5.11x | ✅ | pumpswap | 2026-03-20 00:01 |
+| 🟢 DOGEFATHER | $0.000013 | **3.52x** ($+252) | 5.11x | ✅ | pumpswap | 2026-03-20 00:01 |
 | 🔴 TIMELESS | $0.000021 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:57 |
 | 🔴 GOBLIN | $0.000015 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000025 | **1.38x** ($+38) | 1.56x |  | pumpswap | 2026-03-19 23:43 |

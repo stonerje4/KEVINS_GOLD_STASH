@@ -1,24 +1,23 @@
 # Wallet: `8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK`
 
-> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 08:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | [Solscan](https://solscan.io/account/8QdLq5UWJAjTP3SGSbUJFcsFUY6xBQU3DwFZ6XwyFPwK) | Updated: 2026-03-21 08:45 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 31 (14 open, 17 closed) |
-| W/L | 3/14 (18%) |
-| 💵 Realized | $-505 |
-| 📦 Unrealized | $+6 |
-| 🏦 Total | **$-499** |
+| Positions | 31 (13 open, 18 closed) |
+| W/L | 3/15 (17%) |
+| 💵 Realized | $-565 |
+| 📦 Unrealized | $+2 |
+| 🏦 Total | **$-563** |
 | Best ROI | 1.48x |
-| Avg ROI | 0.70x |
+| Avg ROI | 0.69x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 TERMINATOR | $0.000009 | **1.03x** ($+3) | 1.62x |  | pumpfun | 2026-03-21 08:26 |
 | 🟡  Apollo | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:55 |
 | 🔴 omg | $0.000006 | **0.72x** ($-28) | 1.51x |  | pumpswap | 2026-03-21 05:12 |
 | 🔴 job | $0.000006 | **0.45x** ($-55) | 1.08x |  | pumpfun | 2026-03-20 05:59 |
@@ -37,6 +36,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 TERMINATOR | 0.40x | $-60 | stop_loss | 1.62x | pumpfun | 2026-03-21 08:26 → 2026-03-21 08:41 |
 | 🟡 Optimus+PV | 1.48x | $+48 | trailing_stop_4x | 4.16x | pumpfun | 2026-03-21 08:00 → 2026-03-21 08:03 |
 | 🔴 Visine | 0.79x | $-21 | trailing_stop_2x | 2.21x | pumpfun | 2026-03-21 07:52 → 2026-03-21 07:59 |
 | 🟡 FY6H4PCa | 1.47x | $+47 | trailing_stop_3x | 3.32x | pumpfun | 2026-03-21 06:33 → 2026-03-21 06:41 |

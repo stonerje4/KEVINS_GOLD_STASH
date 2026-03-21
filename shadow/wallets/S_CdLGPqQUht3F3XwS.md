@@ -1,6 +1,6 @@
 # Wallet: `CdLGPqQUht3F3XwStiWGWNa16foVzYC5u4xy8TLWXJfG`
 
-> [GMGN](https://gmgn.ai/sol/address/CdLGPqQUht3F3XwStiWGWNa16foVzYC5u4xy8TLWXJfG) | [Solscan](https://solscan.io/account/CdLGPqQUht3F3XwStiWGWNa16foVzYC5u4xy8TLWXJfG) | Updated: 2026-03-21 08:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/CdLGPqQUht3F3XwStiWGWNa16foVzYC5u4xy8TLWXJfG) | [Solscan](https://solscan.io/account/CdLGPqQUht3F3XwStiWGWNa16foVzYC5u4xy8TLWXJfG) | Updated: 2026-03-21 08:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+1 |
-| 🏦 Total | **$+1** |
+| 📦 Unrealized | $-2 |
+| 🏦 Total | **$-2** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Hamster | $0.000035 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 19:50 |
+| 🔴 Hamster | $0.000035 | **0.98x** ($-2) | 1.02x |  | pumpswap | 2026-03-20 19:50 |
 
 ## Closed Positions
 

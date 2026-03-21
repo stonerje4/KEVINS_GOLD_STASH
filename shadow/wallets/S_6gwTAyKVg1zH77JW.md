@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 08:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 08:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (91 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+92 |
-| 📦 Unrealized | $-445 |
-| 🏦 Total | **$-353** |
+| 📦 Unrealized | $-444 |
+| 🏦 Total | **$-352** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.11x |
 
@@ -38,12 +38,12 @@
 | 🔴 Xingxing | $0.000025 | **0.89x** ($-11) | 1.06x |  | pumpswap | 2026-03-20 14:24 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🟡 ELEPHANT | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 13:43 |
-| 🟡 Squishy | $0.000017 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-20 13:37 |
+| 🟡 Squishy | $0.000017 | **1.12x** ($+12) | 1.13x |  | pumpswap | 2026-03-20 13:37 |
 | 🔴 CLAIR | $0.000014 | **0.81x** ($-19) | 1.04x |  | pumpswap | 2026-03-20 13:28 |
 | 🔴 NICK | $0.000026 | **0.93x** ($-7) | 1.16x |  | pumpswap | 2026-03-20 13:22 |
 | 🟢 TFW | $0.000022 | **2.10x** ($+110) | 3.23x | ✅ | pumpswap | 2026-03-20 12:38 |
 | 🔴 Speak | $0.000022 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
-| 🔴 honkermog | $0.000039 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
+| 🔴 honkermog | $0.000039 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🔴 Joobi | $0.000010 | **0.88x** ($-12) | 1.20x |  | pumpswap | 2026-03-20 11:49 |
 | 🟡 MiniBob | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 11:35 |
 | 🔴 Matthew | $0.000020 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 11:11 |
@@ -74,7 +74,7 @@
 | 🟡 wallahi | $0.000031 | **1.10x** ($+10) | 1.15x |  | pumpswap | 2026-03-20 03:06 |
 | 🔴 AFC | $0.000005 | **0.82x** ($-18) | 1.10x |  | pumpswap | 2026-03-20 03:03 |
 | 🔴 Wob | $0.000019 | **0.81x** ($-19) | 1.24x |  | pumpswap | 2026-03-20 03:02 |
-| 🟡 Hamster | $0.000032 | **1.12x** ($+12) | 1.14x |  | pumpswap | 2026-03-20 02:54 |
+| 🟡 Hamster | $0.000032 | **1.09x** ($+9) | 1.14x |  | pumpswap | 2026-03-20 02:54 |
 | 🔴 SNDK | $0.000007 | **0.81x** ($-19) | 1.01x |  | pumpswap | 2026-03-20 02:47 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
 | 🔴 JOC | $0.000034 | **0.79x** ($-21) | 1.14x |  | pumpswap | 2026-03-20 02:36 |
@@ -97,10 +97,10 @@
 | 🔴 FAKER | $0.000036 | **0.96x** ($-4) | 1.34x |  | pumpswap | 2026-03-20 00:07 |
 | 🟡 Manosphere | $0.000006 | **1.06x** ($+6) | 1.25x |  | pumpswap | 2026-03-19 23:54 |
 | 🔴 Feels | $0.000011 | **0.92x** ($-8) | 1.52x |  | pumpswap | 2026-03-19 23:53 |
-| 🔴 GAS | $0.000010 | **0.97x** ($-3) | 1.10x |  | pumpswap | 2026-03-19 23:48 |
+| 🟡 GAS | $0.000010 | **1.00x** ($+0) | 1.10x |  | pumpswap | 2026-03-19 23:48 |
 | 🔴 GOBLIN | $0.000015 | **0.92x** ($-8) | 1.12x |  | pumpswap | 2026-03-19 23:47 |
 | 🔴 bio/acc | $0.000018 | **0.91x** ($-9) | 1.02x |  | pumpswap | 2026-03-19 23:41 |
-| 🟡 Socrates | $0.000032 | **1.25x** ($+25) | 1.35x |  | pumpswap | 2026-03-19 23:22 |
+| 🟡 Socrates | $0.000032 | **1.24x** ($+24) | 1.35x |  | pumpswap | 2026-03-19 23:22 |
 | 🔴 whiskers | $0.000011 | **0.74x** ($-26) | 1.01x |  | pumpswap | 2026-03-19 23:15 |
 | 🔴 MIROFISH | $0.000033 | **0.47x** ($-53) | 1.12x |  | pumpswap | 2026-03-19 22:58 |
 | 🔴 Geeked | $0.000022 | **0.97x** ($-3) | 1.29x |  | pumpswap | 2026-03-19 22:57 |
