@@ -1,6 +1,6 @@
 # Wallet: `BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | [Solscan](https://solscan.io/account/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | Updated: 2026-03-21 09:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | [Solscan](https://solscan.io/account/BG4Xjbg9P17e5LwdmNe24syQgNMkw3BnqYMePe7fGUqQ) | Updated: 2026-03-21 09:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (3 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-64 |
-| 🏦 Total | **$-64** |
+| 📦 Unrealized | $-62 |
+| 🏦 Total | **$-62** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 COG | $0.000007 | **0.87x** ($-13) | 1.23x |  | pumpfun | 2026-03-21 04:22 |
+| 🔴 COG | $0.000007 | **0.89x** ($-11) | 1.23x |  | pumpfun | 2026-03-21 04:22 |
 | 🟡 RETURN | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 02:54 |
 | 🔴 Octogent | $0.000011 | **0.49x** ($-51) | 1.10x |  | pumpswap | 2026-03-20 01:25 |
 

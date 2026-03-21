@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 09:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 09:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (91 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+92 |
-| 📦 Unrealized | $-520 |
-| 🏦 Total | **$-429** |
+| 📦 Unrealized | $-519 |
+| 🏦 Total | **$-427** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.11x |
 
@@ -70,11 +70,11 @@
 | 🟡 Gascoin | $0.000031 | **1.41x** ($+41) | 1.41x |  | pumpswap | 2026-03-20 03:48 |
 | 🔴 HOSPICE | $0.000022 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 03:47 |
 | 🟡 PYRO | $0.000036 | **1.08x** ($+8) | 1.21x |  | pumpswap | 2026-03-20 03:41 |
-| 🔴 creature | $0.000018 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
+| 🔴 creature | $0.000018 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 03:24 |
 | 🟡 wallahi | $0.000031 | **1.10x** ($+10) | 1.15x |  | pumpswap | 2026-03-20 03:06 |
 | 🔴 AFC | $0.000005 | **0.82x** ($-18) | 1.10x |  | pumpswap | 2026-03-20 03:03 |
 | 🔴 Wob | $0.000019 | **0.81x** ($-19) | 1.24x |  | pumpswap | 2026-03-20 03:02 |
-| 🟡 Hamster | $0.000032 | **1.05x** ($+5) | 1.14x |  | pumpswap | 2026-03-20 02:54 |
+| 🟡 Hamster | $0.000032 | **1.08x** ($+8) | 1.14x |  | pumpswap | 2026-03-20 02:54 |
 | 🔴 SNDK | $0.000007 | **0.81x** ($-19) | 1.01x |  | pumpswap | 2026-03-20 02:47 |
 | 🟡 SPR | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 02:37 |
 | 🔴 JOC | $0.000034 | **0.79x** ($-21) | 1.14x |  | pumpswap | 2026-03-20 02:36 |

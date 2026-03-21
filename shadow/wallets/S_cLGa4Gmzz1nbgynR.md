@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 09:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 09:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 78 (60 open, 18 closed) |
 | W/L | 2/16 (11%) |
 | 💵 Realized | $-595 |
-| 📦 Unrealized | $-527 |
-| 🏦 Total | **$-1,122** |
+| 📦 Unrealized | $-564 |
+| 🏦 Total | **$-1,159** |
 | Best ROI | 2.97x |
 | Avg ROI | 0.67x |
 
@@ -43,7 +43,7 @@
 | 🔴 honkermog | $0.000033 | **0.67x** ($-33) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
 | 🔴 CHIBIELON | $0.000039 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 DISLIKE | $0.000039 | **0.86x** ($-14) | 1.21x |  | pumpswap | 2026-03-20 12:09 |
-| 🔴 CHIBITRUMP | $0.000015 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
+| 🔴 CHIBITRUMP | $0.000015 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 Matthew | $0.000016 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 chud | $0.000014 | **1.07x** ($+7) | 2.42x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🔴 ARIA | $0.000015 | **0.79x** ($-21) | 1.86x |  | pumpswap | 2026-03-20 07:59 |
@@ -64,7 +64,7 @@
 | 🔴 YOU | $0.000014 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
 | 🔴 cigarette | $0.000018 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:21 |
 | 🟡 FKH | $0.000017 | **1.09x** ($+9) | 1.12x |  | pumpswap | 2026-03-20 02:01 |
-| 🔴 Hamster | $0.000035 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-20 01:52 |
+| 🔴 Hamster | $0.000035 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Speak | $0.000023 | **0.69x** ($-31) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
 | 🟢 LIFE | $0.000024 | **2.34x** ($+134) | 2.95x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🟡 Saleh | $0.000013 | **1.05x** ($+5) | 1.71x |  | pumpswap | 2026-03-20 00:35 |

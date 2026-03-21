@@ -1,6 +1,6 @@
 # Wallet: `GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo`
 
-> [GMGN](https://gmgn.ai/sol/address/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | [Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-21 09:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | [Solscan](https://solscan.io/account/GSeR1tGgmpZcnKETB7gpUJBgoEBE5srr3dfqLWVrjbuo) | Updated: 2026-03-21 09:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (3 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-125 |
-| 📦 Unrealized | $-8 |
-| 🏦 Total | **$-133** |
+| 📦 Unrealized | $-40 |
+| 🏦 Total | **$-164** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.38x |
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 CHIBIELON | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:34 |
 | 🔴 PILOT | $0.000031 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 11:55 |
-| 🟡 CHIBITRUMP | $0.000009 | **1.48x** ($+48) | 2.00x | ✅ | pumpswap | 2026-03-19 22:40 |
+| 🔴 CHIBITRUMP | $0.000009 | **0.86x** ($-14) | 2.00x | ✅ | pumpswap | 2026-03-19 22:40 |
 
 ## Closed Positions
 

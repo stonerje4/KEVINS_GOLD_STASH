@@ -1,6 +1,6 @@
 # Wallet: `45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg`
 
-> [GMGN](https://gmgn.ai/sol/address/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | [Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-21 09:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | [Solscan](https://solscan.io/account/45TDXXw5vtS2npSFhuLKoP3neVGAfrEj2ZkHnF1mUVAg) | Updated: 2026-03-21 09:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (9 open, 10 closed) |
 | W/L | 1/9 (10%) |
 | 💵 Realized | $+1,470 |
-| 📦 Unrealized | $-3 |
-| 🏦 Total | **$+1,467** |
+| 📦 Unrealized | $-6 |
+| 🏦 Total | **$+1,464** |
 | Best ROI | 20.71x |
 | Avg ROI | 2.47x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 creature | $0.000016 | **1.06x** ($+6) | 1.10x |  | pumpswap | 2026-03-21 07:44 |
+| 🟡 creature | $0.000016 | **1.04x** ($+4) | 1.10x |  | pumpswap | 2026-03-21 07:44 |
 | 🟡 few | $0.000025 | **1.45x** ($+45) | 1.45x |  | pumpfun | 2026-03-20 23:25 |
 | 🔴 Pessimist | $0.000006 | **0.46x** ($-54) | 1.58x |  | pumpfun | 2026-03-20 18:44 |
 | 🟡 OFFLINE | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |
