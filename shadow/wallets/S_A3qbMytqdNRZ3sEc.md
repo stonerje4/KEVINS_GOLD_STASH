@@ -1,16 +1,16 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 04:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 04:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 56 (46 open, 10 closed) |
+| Positions | 57 (47 open, 10 closed) |
 | W/L | 3/7 (30%) |
 | 💵 Realized | $-203 |
-| 📦 Unrealized | $-319 |
-| 🏦 Total | **$-522** |
+| 📦 Unrealized | $-316 |
+| 🏦 Total | **$-519** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.80x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Grokputer | $0.000027 | **1.03x** ($+3) | 1.04x |  | pumpswap | 2026-03-21 04:34 |
 | 🟡 ZeroG | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:28 |
 | 🔴 EV01 | $0.000013 | **0.91x** ($-9) | 1.01x |  | pumpswap | 2026-03-21 04:18 |
 | 🟡 CRACK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:14 |

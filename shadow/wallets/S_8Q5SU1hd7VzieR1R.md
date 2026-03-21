@@ -1,6 +1,6 @@
 # Wallet: `8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx`
 
-> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-21 04:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | [Solscan](https://solscan.io/account/8Q5SU1hd7VzieR1RNWGQmp1aX2T1Gr4ED8R2iA46VdTx) | Updated: 2026-03-21 04:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 11 (10 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-68 |
-| 📦 Unrealized | $+170 |
-| 🏦 Total | **$+102** |
+| 📦 Unrealized | $+172 |
+| 🏦 Total | **$+103** |
 | Best ROI | 0.32x |
 | Avg ROI | 0.32x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 JAMEELA | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:24 |
-| 🔴 PissElon | $0.000006 | **0.45x** ($-55) | 1.05x |  | pumpfun | 2026-03-21 03:18 |
+| 🔴 PissElon | $0.000006 | **0.46x** ($-54) | 1.05x |  | pumpfun | 2026-03-21 03:18 |
 | 🔴 90S | $0.000023 | **0.89x** ($-11) | 1.26x |  | pumpswap | 2026-03-20 20:40 |
 | 🚀 Sadly | $0.000010 | **12.53x** ($+1,153) | 13.75x | ✅ | pumpfun | 2026-03-20 18:00 |
 | 🔴 Rosei | $0.000013 | **0.94x** ($-6) | 1.04x |  | pumpswap | 2026-03-20 04:24 |

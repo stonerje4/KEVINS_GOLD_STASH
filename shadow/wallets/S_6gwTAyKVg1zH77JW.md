@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 04:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 04:35 UTC
 
 ## Summary
 
@@ -60,7 +60,7 @@
 | 🟡 AIKO | $0.000009 | **1.02x** ($+2) | 1.15x |  | pumpswap | 2026-03-20 08:08 |
 | 🔴 WID | $0.000019 | **0.82x** ($-18) | 1.38x |  | pumpswap | 2026-03-20 08:04 |
 | 🔴 MINT | $0.000025 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 07:56 |
-| 🔴 CLAW | $0.000028 | **0.98x** ($-2) | 1.12x |  | pumpswap | 2026-03-20 07:44 |
+| 🔴 CLAW | $0.000028 | **0.97x** ($-3) | 1.12x |  | pumpswap | 2026-03-20 07:44 |
 | 🟡 KENNY | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:36 |
 | 🔴 clawedin | $0.000012 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 07:02 |
 | 🟡 90S | $0.000016 | **1.26x** ($+26) | 1.78x |  | pumpswap | 2026-03-20 07:02 |

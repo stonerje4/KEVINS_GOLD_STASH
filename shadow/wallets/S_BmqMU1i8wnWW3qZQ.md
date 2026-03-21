@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 04:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 04:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,556 |
-| 🏦 Total | **$-2,679** |
+| 📦 Unrealized | $-2,559 |
+| 🏦 Total | **$-2,682** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -67,7 +67,7 @@
 | 🔴 Alysa | $0.000006 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 07:18 |
 | 🔴 XMONEY | $0.000029 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
 | 🔴 JJK | $0.000005 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
-| 🔴 Billy | $0.000007 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
+| 🔴 Billy | $0.000007 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
 | 🔴 HOWL | $0.000011 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 07:03 |
 | 🔴 Otome | $0.000018 | **0.93x** ($-7) | 1.24x |  | pumpswap | 2026-03-20 07:01 |
 | 🟡 XAI | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:58 |
