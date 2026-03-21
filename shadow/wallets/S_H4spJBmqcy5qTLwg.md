@@ -1,6 +1,6 @@
 # Wallet: `H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH`
 
-> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-21 00:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | [Solscan](https://solscan.io/account/H4spJBmqcy5qTLwgi3Ym8JXjchzCRS6hRAAva1xx46jH) | Updated: 2026-03-21 00:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (12 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-54 |
-| 🏦 Total | **$-54** |
+| 📦 Unrealized | $-59 |
+| 🏦 Total | **$-59** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 FABIANA | $0.000025 | **0.46x** ($-54) | 1.13x |  | pumpswap | 2026-03-20 21:46 |
+| 🔴 FABIANA | $0.000025 | **0.47x** ($-53) | 1.13x |  | pumpswap | 2026-03-20 21:46 |
 | 🟡 GAY | $0.000010 | **1.07x** ($+7) | 1.07x |  | pumpfun | 2026-03-20 21:07 |
 | 🔴 SCC | $0.000013 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 20:57 |
 | 🔴 Homies  | $0.000006 | **0.99x** ($-1) | 1.03x |  | pumpfun | 2026-03-20 20:55 |
 | 🔴 almost | $0.000007 | **0.97x** ($-3) | 1.04x |  | pumpfun | 2026-03-20 20:53 |
 | 🟡 COOK | $0.000009 | **1.09x** ($+9) | 1.34x |  | pumpfun | 2026-03-20 20:52 |
-| 🟡 Meow | $0.000019 | **1.61x** ($+61) | 2.59x | ✅ | pumpswap | 2026-03-20 20:24 |
+| 🟡 Meow | $0.000019 | **1.47x** ($+47) | 2.59x | ✅ | pumpswap | 2026-03-20 20:24 |
 | 🔴 PHILXC | $0.000009 | **0.94x** ($-6) | 1.10x |  | pumpfun | 2026-03-20 16:22 |
 | 🔴 GBN | $0.000018 | **0.51x** ($-49) | 1.10x |  | pumpswap | 2026-03-20 16:03 |
 | 🟡 OXIDE | $0.000032 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 07:46 |

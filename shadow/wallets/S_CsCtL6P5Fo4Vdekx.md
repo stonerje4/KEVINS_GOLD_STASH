@@ -1,6 +1,6 @@
 # Wallet: `CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ`
 
-> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-21 00:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | [Solscan](https://solscan.io/account/CsCtL6P5Fo4Vdekxv6rk74Ry1cUdyoBnyeFP6agAt6BZ) | Updated: 2026-03-21 00:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 13 (11 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-122 |
-| 📦 Unrealized | $+107 |
-| 🏦 Total | **$-15** |
+| 📦 Unrealized | $+120 |
+| 🏦 Total | **$-2** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -28,7 +28,7 @@
 | 🟡 FLAG | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 02:51 |
 | 🟢 OSP | $0.000008 | **3.31x** ($+231) | 3.63x | ✅ | pumpfun | 2026-03-20 02:34 |
 | 🟡 DOME | $0.000008 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 01:27 |
-| 🔴 WRT | $0.000016 | **0.92x** ($-8) | 1.93x |  | pumpswap | 2026-03-20 01:26 |
+| 🟡 WRT | $0.000016 | **1.04x** ($+4) | 1.93x |  | pumpswap | 2026-03-20 01:26 |
 
 ## Closed Positions
 

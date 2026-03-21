@@ -1,6 +1,6 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 00:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 00:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 29 (24 open, 5 closed) |
 | W/L | 0/5 (0%) |
 | 💵 Realized | $-326 |
-| 📦 Unrealized | $+469 |
-| 🏦 Total | **$+143** |
+| 📦 Unrealized | $+467 |
+| 🏦 Total | **$+141** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.35x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟢 EVERYTHING | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-20 22:09 |
-| 🔴 Ignotus  | $0.000034 | **0.73x** ($-27) | 1.08x |  | pumpfun | 2026-03-20 21:33 |
+| 🔴 Ignotus  | $0.000034 | **0.71x** ($-29) | 1.08x |  | pumpfun | 2026-03-20 21:33 |
 | 🔴 corporate | $0.000014 | **0.58x** ($-42) | 1.00x |  | pumpfun | 2026-03-20 17:48 |
 | 🟡 XAI | $0.000009 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 17:33 |
 | 🟡 LNG | $0.000027 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 17:21 |
