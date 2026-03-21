@@ -1,6 +1,6 @@
 # Wallet: `A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub`
 
-> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 08:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | [Solscan](https://solscan.io/account/A3qbMytqdNRZ3sEckrdyqnngXrVUoyHhKdLL7e4du3Ub) | Updated: 2026-03-21 09:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 66 (56 open, 10 closed) |
 | W/L | 3/7 (30%) |
 | 💵 Realized | $-203 |
-| 📦 Unrealized | $-347 |
-| 🏦 Total | **$-550** |
+| 📦 Unrealized | $-335 |
+| 🏦 Total | **$-539** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.80x |
 
@@ -27,7 +27,7 @@
 | 🟡 DAWAE | $0.000027 | **1.05x** ($+5) | 1.25x |  | pumpswap | 2026-03-21 04:50 |
 | 🟡 LUMO | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:48 |
 | 🟡 LIFE | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:39 |
-| 🔴 Grokputer | $0.000027 | **0.83x** ($-17) | 1.04x |  | pumpswap | 2026-03-21 04:34 |
+| 🔴 Grokputer | $0.000027 | **0.95x** ($-5) | 1.04x |  | pumpswap | 2026-03-21 04:34 |
 | 🟡 ZeroG | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:28 |
 | 🔴 EV01 | $0.000013 | **0.85x** ($-15) | 1.01x |  | pumpswap | 2026-03-21 04:18 |
 | 🟡 CRACK | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:14 |

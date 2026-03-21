@@ -1,31 +1,29 @@
 # Wallet: `4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc`
 
-> [GMGN](https://gmgn.ai/sol/address/4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc) | [Solscan](https://solscan.io/account/4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc) | Updated: 2026-03-20 18:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc) | [Solscan](https://solscan.io/account/4JDsmdpRdGMDU4WZr3C1Th4x8X6m47BqUF9gGthBmubc) | Updated: 2026-03-21 09:00 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (2 open, 1 closed) |
-| W/L | 0/1 (0%) |
-| 💵 Realized | $-60 |
+| Positions | 1 (1 open, 0 closed) |
+| W/L | 0/0 (0%) |
+| 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-60** |
-| Best ROI | 0.40x |
-| Avg ROI | 0.40x |
+| 🏦 Total | **$+0** |
+| Best ROI | 0.00x |
+| Avg ROI | 0.00x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 CHIBELON | $0.000045 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 16:56 |
-| 🟡 CHIBI | $0.000077 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:59 |
+| 🟡 BABYCHIBI | $0.000011 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 08:55 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
-| 🔴 Nigel | 0.40x | $-60 | stop_loss | 1.18x | pumpswap | 2026-03-20 00:53 → 2026-03-20 16:12 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*
