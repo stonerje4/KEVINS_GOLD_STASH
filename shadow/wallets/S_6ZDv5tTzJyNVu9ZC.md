@@ -1,16 +1,16 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 05:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 05:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 162 (153 open, 9 closed) |
+| Positions | 163 (154 open, 9 closed) |
 | W/L | 2/7 (22%) |
 | 💵 Realized | $+6 |
-| 📦 Unrealized | $-520 |
-| 🏦 Total | **$-514** |
+| 📦 Unrealized | $-516 |
+| 🏦 Total | **$-510** |
 | Best ROI | 2.96x |
 | Avg ROI | 1.01x |
 
@@ -18,9 +18,10 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Pixels | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 SHOEBILL | $0.000038 | **1.07x** ($+7) | 1.07x |  | pumpswap | 2026-03-21 05:10 |
 | 🔴 MILO | $0.000006 | **0.95x** ($-5) | 1.03x |  | pumpswap | 2026-03-21 04:45 |
-| 🟡 CHIBELON | $0.000024 | **1.36x** ($+36) | 2.06x | ✅ | pumpswap | 2026-03-21 04:39 |
+| 🟡 CHIBELON | $0.000024 | **1.32x** ($+32) | 2.06x | ✅ | pumpswap | 2026-03-21 04:39 |
 | 🟡 BISON | $0.000024 | **1.24x** ($+24) | 1.24x |  | pumpswap | 2026-03-21 04:35 |
 | 🔴 Joobi | $0.000009 | **0.98x** ($-2) | 1.23x |  | pumpswap | 2026-03-21 04:32 |
 | 🔴 X COINS | $0.000016 | **0.96x** ($-4) | 1.03x |  | pumpswap | 2026-03-21 04:06 |
@@ -73,13 +74,13 @@
 | 🔴 HAMILTON | $0.000012 | **0.77x** ($-23) | 1.06x |  | pumpswap | 2026-03-20 15:05 |
 | 🟡 GameTheory | $0.000013 | **1.71x** ($+71) | 1.92x |  | pumpswap | 2026-03-20 14:55 |
 | 🔴 Sheep | $0.000032 | **0.67x** ($-33) | 1.00x |  | pumpswap | 2026-03-20 14:53 |
-| 🟢 DOGEFATHER | $0.000009 | **4.94x** ($+394) | 5.02x | ✅ | pumpswap | 2026-03-20 14:53 |
+| 🟢 DOGEFATHER | $0.000009 | **4.91x** ($+391) | 5.04x | ✅ | pumpswap | 2026-03-20 14:53 |
 | 🔴 TRENCHERIA | $0.000015 | **0.85x** ($-15) | 1.05x |  | pumpswap | 2026-03-20 14:43 |
 | 🔴 DATBOI | $0.000037 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🔴 foid | $0.000020 | **0.75x** ($-25) | 1.10x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Socrates | $0.000031 | **1.02x** ($+2) | 1.11x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 Pixel | $0.000011 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
-| 🟡 Higuruma | $0.000016 | **1.75x** ($+75) | 2.06x | ✅ | pumpswap | 2026-03-20 14:25 |
+| 🟡 Higuruma | $0.000016 | **1.82x** ($+82) | 2.06x | ✅ | pumpswap | 2026-03-20 14:25 |
 | 🔴 ORAMAMA | $0.000010 | **0.91x** ($-9) | 1.03x |  | pumpswap | 2026-03-20 14:13 |
 | 🟡 ovary  | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 14:10 |
 | 🔴 X | $0.000014 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -102,7 +103,7 @@
 | 🔴 Goose | $0.000015 | **0.66x** ($-34) | 1.20x |  | pumpswap | 2026-03-20 10:02 |
 | 🔴 UGOR | $0.000025 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 09:28 |
 | 🔴 DICK | $0.000006 | **0.98x** ($-2) | 1.11x |  | pumpswap | 2026-03-20 09:25 |
-| 🟡 Hamster | $0.000028 | **1.18x** ($+18) | 1.24x |  | pumpswap | 2026-03-20 08:42 |
+| 🟡 Hamster | $0.000028 | **1.21x** ($+21) | 1.24x |  | pumpswap | 2026-03-20 08:42 |
 | 🔴 Achieve | $0.000020 | **0.88x** ($-12) | 1.01x |  | pumpswap | 2026-03-20 08:18 |
 | 🟡 AIKO | $0.000008 | **1.08x** ($+8) | 1.22x |  | pumpswap | 2026-03-20 08:08 |
 | 🟡 chud | $0.000015 | **1.03x** ($+3) | 2.34x | ✅ | pumpswap | 2026-03-20 08:01 |

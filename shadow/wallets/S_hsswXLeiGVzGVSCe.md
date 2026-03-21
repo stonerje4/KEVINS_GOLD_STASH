@@ -1,16 +1,16 @@
 # Wallet: `hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg`
 
-> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-21 05:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | [Solscan](https://solscan.io/account/hsswXLeiGVzGVSCeUYh6FpzsPkXyGezpVn92M8CRcFg) | Updated: 2026-03-21 05:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (23 open, 6 closed) |
+| Positions | 30 (24 open, 6 closed) |
 | W/L | 3/3 (50%) |
 | 💵 Realized | $+362 |
-| 📦 Unrealized | $-755 |
-| 🏦 Total | **$-393** |
+| 📦 Unrealized | $-721 |
+| 🏦 Total | **$-359** |
 | Best ROI | 2.93x |
 | Avg ROI | 1.60x |
 
@@ -18,8 +18,9 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 58QARd6U | $0.000005 | **1.34x** ($+34) | 1.51x |  | pumpfun | 2026-03-21 05:30 |
 | 🔴 B8feyEAu | $0.000005 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-21 04:08 |
-| 🔴 piss | $0.000005 | **0.74x** ($-26) | 1.09x |  | pumpfun | 2026-03-21 03:35 |
+| 🔴 piss | $0.000005 | **0.73x** ($-27) | 1.09x |  | pumpfun | 2026-03-21 03:35 |
 | 🔴 Endure | $0.000005 | **0.51x** ($-49) | 1.23x |  | pumpfun | 2026-03-21 02:14 |
 | 🔴 CARDIBEE | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 23:46 |
 | 🔴 J8piKJCf | $0.000005 | **0.49x** ($-51) | 1.30x |  | pumpfun | 2026-03-20 23:20 |
