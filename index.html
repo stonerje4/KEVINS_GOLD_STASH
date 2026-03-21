@@ -45,7 +45,7 @@ a{color:#3b82f6;text-decoration:none}a:hover{text-decoration:underline}
 <body>
 <div class="c">
 <h1>🔥 PUMP ALPHA — Backtest</h1>
-<div class="sub">Updated: 2026-03-21 17:12 UTC · 1m candles · 48h per trade · our exact TP ladder + trailing stops</div>
+<div class="sub">Updated: 2026-03-21 17:13 UTC · 1m candles · 48h per trade · our exact TP ladder + trailing stops</div>
 
 <div class="sg">
   <div class="sc"><div class="sl">Backtested</div><div class="sv b">8</div></div>
@@ -254,7 +254,7 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
 
     const buyTs=t.buy_timestamp||0;
     const buyDate=buyTs?new Date(buyTs*1000).toLocaleDateString('en-US',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}):'?';
-    const holdMins=t.candles||0;
+    const holdMins=(t.candles||0)*5;
     const holdStr=holdMins<120?holdMins+'m':((holdMins/60).toFixed(1)+'h');
 
     h+=`<tr style="cursor:${sellCount?'pointer':'default'};${opacity}" onclick="${sellCount?`document.getElementById('${rid}').style.display=document.getElementById('${rid}').style.display==='none'?'table-row':'none'`:'void(0)'}">`;
