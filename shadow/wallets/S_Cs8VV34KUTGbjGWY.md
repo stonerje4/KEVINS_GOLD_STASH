@@ -1,6 +1,6 @@
 # Wallet: `Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro`
 
-> [GMGN](https://gmgn.ai/sol/address/Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro) | [Solscan](https://solscan.io/account/Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro) | Updated: 2026-03-21 06:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro) | [Solscan](https://solscan.io/account/Cs8VV34KUTGbjGWYBzUHhqYyxdzjq6TmZNpvoJ98bvro) | Updated: 2026-03-21 06:30 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 MOCHI | $0.000017 | **0.96x** ($-4) | 1.27x |  | pumpswap | 2026-03-20 22:12 |
 | 🟡 Attention | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:36 |
-| 🟡 Hamster | $0.000028 | **1.16x** ($+16) | 1.23x |  | pumpswap | 2026-03-20 08:12 |
+| 🟡 Hamster | $0.000028 | **1.17x** ($+17) | 1.23x |  | pumpswap | 2026-03-20 08:12 |
 
 ## Closed Positions
 

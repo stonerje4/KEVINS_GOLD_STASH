@@ -1,16 +1,16 @@
 # Wallet: `B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh`
 
-> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-21 06:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | [Solscan](https://solscan.io/account/B9hu6YLy8uHD9Y6Vv4rXhUmZuCUkqg7CUBxXq2npZaLh) | Updated: 2026-03-21 06:30 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 30 (5 open, 25 closed) |
-| W/L | 0/25 (0%) |
-| 💵 Realized | $-2,498 |
+| Positions | 31 (5 open, 26 closed) |
+| W/L | 0/26 (0%) |
+| 💵 Realized | $-2,597 |
 | 📦 Unrealized | $+0 |
-| 🏦 Total | **$-2,498** |
+| 🏦 Total | **$-2,597** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -28,6 +28,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 OIL | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 06:27 → 2026-03-21 06:27 |
 | 🔴 drog | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 06:14 → 2026-03-21 06:14 |
 | 🔴 OIL | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 01:07 → 2026-03-21 01:07 |
 | 🔴 Babyify | 0.00x | $-100 | stop_loss | 1.00x | pumpswap | 2026-03-21 00:38 → 2026-03-21 00:38 |

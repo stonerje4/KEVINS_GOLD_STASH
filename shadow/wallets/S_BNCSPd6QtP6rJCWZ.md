@@ -1,6 +1,6 @@
 # Wallet: `BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4`
 
-> [GMGN](https://gmgn.ai/sol/address/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | [Solscan](https://solscan.io/account/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | Updated: 2026-03-21 06:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | [Solscan](https://solscan.io/account/BNCSPd6QtP6rJCWZvaYnF5tjxy84H2BLDihEMYxwsjJ4) | Updated: 2026-03-21 06:30 UTC
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | 🟡 STRAWBERRIES | $0.000010 | **1.05x** ($+5) | 1.17x |  | pumpfun | 2026-03-21 00:37 |
 | 🟡 Goose | $0.000009 | **1.07x** ($+7) | 1.31x |  | pumpswap | 2026-03-21 00:10 |
 | 🔴 Bananito | $0.000007 | **1.00x** ($-0) | 1.33x |  | pumpfun | 2026-03-20 17:57 |
-| 🔴 JOC | $0.000039 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 15:08 |
+| 🔴 JOC | $0.000039 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 15:08 |
 
 ## Closed Positions
 
