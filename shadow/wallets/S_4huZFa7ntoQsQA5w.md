@@ -1,6 +1,6 @@
 # Wallet: `4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq`
 
-> [GMGN](https://gmgn.ai/sol/address/4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq) | [Solscan](https://solscan.io/account/4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq) | Updated: 2026-03-21 09:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq) | [Solscan](https://solscan.io/account/4huZFa7ntoQsQA5wwgL8KQHUf15EgUptMGxqryGpmVqq) | Updated: 2026-03-21 09:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (5 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+51 |
-| 🏦 Total | **$+51** |
+| 📦 Unrealized | $+50 |
+| 🏦 Total | **$+50** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -22,7 +22,7 @@
 | 🟡 HELLO | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 17:29 |
 | 🟡 Attention | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 09:35 |
 | 🟡 Patricia | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:26 |
-| 🟢 DOGEFATHER | $0.000015 | **2.28x** ($+128) | 4.21x | ✅ | pumpswap | 2026-03-20 00:04 |
+| 🟢 DOGEFATHER | $0.000015 | **2.25x** ($+125) | 4.21x | ✅ | pumpswap | 2026-03-20 00:04 |
 
 ## Closed Positions
 

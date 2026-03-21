@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 09:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 09:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,501 |
-| 🏦 Total | **$-2,624** |
+| 📦 Unrealized | $-2,512 |
+| 🏦 Total | **$-2,635** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -33,7 +33,7 @@
 | 🔴 Pixel | $0.000011 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 ORAMAMA | $0.000011 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 Sonny | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
-| 🟡 Higuruma | $0.000022 | **1.80x** ($+80) | 2.73x | ✅ | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000022 | **1.59x** ($+59) | 2.73x | ✅ | pumpswap | 2026-03-20 14:09 |
 | 🔴 Yahu | $0.000028 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000040 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
@@ -50,7 +50,7 @@
 | 🔴 Apple | $0.000018 | **0.74x** ($-26) | 1.20x |  | pumpswap | 2026-03-20 10:40 |
 | 🟡 LIPPY | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:20 |
 | 🟡 LIBERTY | $0.000038 | **1.27x** ($+27) | 2.56x | ✅ | pumpswap | 2026-03-20 09:55 |
-| 🔴 Universe | $0.000015 | **0.93x** ($-7) | 1.08x |  | pumpswap | 2026-03-20 09:20 |
+| 🔴 Universe | $0.000015 | **0.95x** ($-5) | 1.08x |  | pumpswap | 2026-03-20 09:20 |
 | 🔴 Orangutan | $0.000016 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 09:08 |
 | 🔴 chud | $0.000016 | **0.92x** ($-8) | 2.08x | ✅ | pumpswap | 2026-03-20 09:05 |
 | 🔴 CTKO | $0.000014 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 08:12 |
@@ -69,7 +69,7 @@
 | 🔴 JJK | $0.000005 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
 | 🔴 Billy | $0.000007 | **0.49x** ($-51) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
 | 🔴 HOWL | $0.000011 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 07:03 |
-| 🔴 Otome | $0.000018 | **0.74x** ($-26) | 1.24x |  | pumpswap | 2026-03-20 07:01 |
+| 🔴 Otome | $0.000018 | **0.71x** ($-29) | 1.24x |  | pumpswap | 2026-03-20 07:01 |
 | 🔴 XAI | $0.000010 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 06:58 |
 | 🔴 PARK | $0.000022 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 06:51 |
 | 🔴 PATRIOT | $0.000012 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 06:47 |
