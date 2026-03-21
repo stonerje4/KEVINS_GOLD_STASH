@@ -1,18 +1,18 @@
 # Wallet: `JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd`
 
-> [GMGN](https://gmgn.ai/sol/address/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | [Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-21 01:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | [Solscan](https://solscan.io/account/JApDpF8fFWJzyprbP6LMZx39PejZ87BezjJYuZ4cMKtd) | Updated: 2026-03-21 01:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 9 (9 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-81 |
-| 🏦 Total | **$-81** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 9 (8 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-78 |
+| 📦 Unrealized | $-32 |
+| 🏦 Total | **$-110** |
+| Best ROI | 0.22x |
+| Avg ROI | 0.22x |
 
 ## Open Positions
 
@@ -22,8 +22,7 @@
 | 🟡 p-token | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 22:31 |
 | 🟡 Cigify | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 21:48 |
 | 🟡 CLIPHUB | $0.000015 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 21:32 |
-| 🟡 Pixels | $0.000033 | **1.11x** ($+11) | 1.36x |  | pumpswap | 2026-03-20 08:20 |
-| 🔴 Dryer | $0.000032 | **0.45x** ($-55) | 1.27x |  | pumpswap | 2026-03-20 04:25 |
+| 🟡 Pixels | $0.000033 | **1.05x** ($+5) | 1.36x |  | pumpswap | 2026-03-20 08:20 |
 | 🟡 SHOENICE  | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 01:17 |
 | 🟡 PETE | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 00:28 |
 | 🔴 Pete | $0.000008 | **0.63x** ($-37) | 1.00x |  | pumpfun | 2026-03-19 23:44 |
@@ -32,6 +31,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Dryer | 0.22x | $-78 | stop_loss | 1.27x | pumpswap | 2026-03-20 04:25 → 2026-03-21 01:18 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

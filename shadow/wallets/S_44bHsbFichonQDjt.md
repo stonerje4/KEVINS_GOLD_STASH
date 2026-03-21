@@ -1,6 +1,6 @@
 # Wallet: `44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8`
 
-> [GMGN](https://gmgn.ai/sol/address/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | [Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-21 01:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | [Solscan](https://solscan.io/account/44bHsbFichonQDjtPvLKTTDDJYYQeeZSMoqxQfGEUmo8) | Updated: 2026-03-21 01:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 2 (2 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-20 |
-| 🏦 Total | **$-20** |
+| 📦 Unrealized | $-27 |
+| 🏦 Total | **$-27** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 CHIBIFY | $0.000006 | **0.80x** ($-20) | 1.05x |  | pumpfun | 2026-03-20 21:22 |
+| 🔴 CHIBIFY | $0.000006 | **0.73x** ($-27) | 1.05x |  | pumpfun | 2026-03-20 21:22 |
 | 🟡 Look | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:03 |
 
 ## Closed Positions

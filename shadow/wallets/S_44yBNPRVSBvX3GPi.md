@@ -1,6 +1,6 @@
 # Wallet: `44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz`
 
-> [GMGN](https://gmgn.ai/sol/address/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | [Solscan](https://solscan.io/account/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | Updated: 2026-03-21 01:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | [Solscan](https://solscan.io/account/44yBNPRVSBvX3GPizy1Ve5YGVSuKNPfvAZNe3Cuu2LPz) | Updated: 2026-03-21 01:20 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 world | $0.000017 | **1.60x** ($+60) | 2.16x | ✅ | pumpfun | 2026-03-20 00:05 |
+| 🟡 world | $0.000017 | **1.61x** ($+61) | 2.16x | ✅ | pumpfun | 2026-03-20 00:05 |
 | 🔴 APEPE | $0.000012 | **0.54x** ($-46) | 1.51x |  | pumpfun | 2026-03-19 22:42 |
 
 ## Closed Positions

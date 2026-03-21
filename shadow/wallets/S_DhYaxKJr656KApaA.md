@@ -1,6 +1,6 @@
 # Wallet: `DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5`
 
-> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-21 01:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | [Solscan](https://solscan.io/account/DhYaxKJr656KApaAAuGscPTPjZZojEfAqufhTSCNvHF5) | Updated: 2026-03-21 01:20 UTC
 
 ## Summary
 
@@ -21,9 +21,9 @@
 | 🟡 Bread | $0.000017 | **1.09x** ($+9) | 1.16x |  | pumpfun | 2026-03-20 20:17 |
 | 🟢 CRACK | $0.000018 | **2.07x** ($+107) | 2.07x | ✅ | pumpfun | 2026-03-20 20:00 |
 | 🔴 Needle | $0.000023 | **0.73x** ($-27) | 1.22x |  | pumpfun | 2026-03-20 19:56 |
-| 🟢 Pixels | $0.000015 | **2.49x** ($+149) | 3.05x | ✅ | pumpswap | 2026-03-20 17:15 |
+| 🟢 Pixels | $0.000015 | **2.37x** ($+137) | 3.05x | ✅ | pumpswap | 2026-03-20 17:15 |
 | 🟡 SCRIPT | $0.000006 | **1.15x** ($+15) | 1.20x |  | pumpfun | 2026-03-20 16:30 |
-| 🟡 GameTheory | $0.000016 | **1.39x** ($+39) | 1.51x |  | pumpswap | 2026-03-20 16:04 |
+| 🟡 GameTheory | $0.000016 | **1.44x** ($+44) | 1.51x |  | pumpswap | 2026-03-20 16:04 |
 
 ## Closed Positions
 
