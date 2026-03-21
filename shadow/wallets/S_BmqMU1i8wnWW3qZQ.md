@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 09:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 09:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,501 |
-| 🏦 Total | **$-2,624** |
+| 📦 Unrealized | $-2,520 |
+| 🏦 Total | **$-2,643** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -33,7 +33,7 @@
 | 🔴 Pixel | $0.000011 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 ORAMAMA | $0.000011 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 Sonny | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
-| 🟡 Higuruma | $0.000022 | **1.53x** ($+53) | 2.73x | ✅ | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000022 | **1.52x** ($+52) | 2.73x | ✅ | pumpswap | 2026-03-20 14:09 |
 | 🔴 Yahu | $0.000028 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000040 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
@@ -137,7 +137,7 @@
 | 🔴 WhiteBoy  | $0.000015 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 02:48 |
 | 🔴 SNDK | $0.000008 | **0.71x** ($-29) | 1.00x |  | pumpswap | 2026-03-20 02:47 |
 | 🔴 JOC | $0.000039 | **0.71x** ($-29) | 1.01x |  | pumpswap | 2026-03-20 02:36 |
-| 🟡 AINL | $0.000029 | **1.15x** ($+15) | 1.39x |  | pumpswap | 2026-03-20 02:35 |
+| 🟡 AINL | $0.000029 | **1.14x** ($+14) | 1.39x |  | pumpswap | 2026-03-20 02:35 |
 | 🟢 PIKE | $0.000033 | **2.12x** ($+112) | 2.72x | ✅ | pumpswap | 2026-03-20 02:22 |
 | 🔴 BB | $0.000010 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 02:20 |
 | 🟡 fire | $0.000006 | **1.06x** ($+6) | 1.11x |  | pumpswap | 2026-03-20 02:18 |
@@ -210,7 +210,7 @@
 | 🟡 TheSpot | $0.000018 | **1.09x** ($+9) | 1.09x |  | pumpswap | 2026-03-19 23:40 |
 | 🔴 FAFO | $0.000022 | **0.85x** ($-15) | 1.06x |  | pumpswap | 2026-03-19 23:39 |
 | 🟡 Barron | $0.000019 | **1.14x** ($+14) | 1.43x |  | pumpswap | 2026-03-19 23:39 |
-| 🟡 TFW | $0.000030 | **1.55x** ($+55) | 2.37x | ✅ | pumpswap | 2026-03-19 23:35 |
+| 🟡 TFW | $0.000030 | **1.21x** ($+21) | 2.37x | ✅ | pumpswap | 2026-03-19 23:35 |
 | 🔴 AFC | $0.000006 | **0.70x** ($-30) | 1.05x |  | pumpswap | 2026-03-19 23:34 |
 | 🔴 Xingxing | $0.000029 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-19 23:32 |
 | 🔴 cyb3rwr3n | $0.000009 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-19 23:29 |

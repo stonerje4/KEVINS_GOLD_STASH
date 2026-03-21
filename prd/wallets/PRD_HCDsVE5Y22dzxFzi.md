@@ -1,6 +1,6 @@
 # PRD Wallet: `HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ`
 
-> [GMGN](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | [Solscan](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | Updated: 2026-03-21 09:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | [Solscan](https://solscan.io/account/HCDsVE5Y22dzxFzibEFSq4UD4RdHAvQKUHPuTcRJUGmQ) | Updated: 2026-03-21 09:30 UTC
 
 ## Summary
 
@@ -10,14 +10,14 @@
 | W/L | 0/5 (0%) |
 | 💵 Realized | -0.5950 SOL ($-53.60) |
 | ⛽ Gas | 0.0250 SOL |
-| 📦 Unrealized | -0.0287 SOL |
-| 🏦 Net | **-0.6237 SOL** ($-56.19) |
+| 📦 Unrealized | -0.0334 SOL |
+| 🏦 Net | **-0.6284 SOL** ($-56.62) |
 
 ## Positions
 
 | Token | Status | Entry SOL | Current | Peak | Net SOL | Reason |
 |-------|--------|-----------|---------|------|---------|--------|
-| 🟢 BBX | open | 0.11 | 1.05x | 1.05x | +0.0005 | — |
+| 🟢 BBX | open | 0.11 | 1.01x | 1.05x | -0.0043 | — |
 | 🔴 ? | open | 0.11 | 0.93x | 1.03x | -0.0131 | — |
 | 🔴 BBX | open | 0.11 | 0.94x | 1.00x | -0.0115 | — |
 | 🟢 UBIR | open | 0.11 | 1.00x | 1.12x | -0.0045 | — |

@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 09:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 09:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,417 |
-| 🏦 Total | **$-1,451** |
+| 📦 Unrealized | $-1,437 |
+| 🏦 Total | **$-1,471** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -65,7 +65,7 @@
 | 🔴 Pixel | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Newscum | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 GameTheory | $0.000015 | **1.47x** ($+47) | 1.64x |  | pumpswap | 2026-03-20 14:15 |
-| 🟡 Higuruma | $0.000020 | **1.65x** ($+65) | 2.95x | ✅ | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000020 | **1.64x** ($+64) | 2.95x | ✅ | pumpswap | 2026-03-20 14:09 |
 | 🔴 chibify | $0.000011 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
 | 🟡 Yahu | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -153,7 +153,7 @@
 | 🟡 KENNY | $0.000013 | **1.10x** ($+10) | 1.12x |  | pumpswap | 2026-03-20 02:01 |
 | 🔴 foid | $0.000016 | **0.93x** ($-7) | 1.36x |  | pumpswap | 2026-03-20 02:00 |
 | 🔴 MINT | $0.000023 | **0.76x** ($-24) | 1.04x |  | pumpswap | 2026-03-20 01:56 |
-| 🟡 TFW | $0.000026 | **1.79x** ($+79) | 2.74x | ✅ | pumpswap | 2026-03-20 01:56 |
+| 🟡 TFW | $0.000026 | **1.39x** ($+39) | 2.74x | ✅ | pumpswap | 2026-03-20 01:56 |
 | 🔴 DoubleT | $0.000028 | **0.86x** ($-14) | 1.05x |  | pumpswap | 2026-03-20 01:54 |
 | 🔴 GPD | $0.000014 | **0.61x** ($-39) | 1.10x |  | pumpswap | 2026-03-20 01:46 |
 | 🔴 MEMETIC | $0.000019 | **1.00x** ($-0) | 1.02x |  | pumpswap | 2026-03-20 01:40 |
