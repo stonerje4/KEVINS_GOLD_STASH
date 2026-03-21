@@ -1,16 +1,16 @@
 # Wallet: `8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM`
 
-> [GMGN](https://gmgn.ai/sol/address/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | [Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-21 08:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | [Solscan](https://solscan.io/account/8HRGZE96te3PsoPYzJnk5md3w3hz8gsG7YpjEh4P2WaM) | Updated: 2026-03-21 08:05 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (9 open, 10 closed) |
+| Positions | 20 (10 open, 10 closed) |
 | W/L | 2/8 (20%) |
 | 💵 Realized | $-375 |
-| 📦 Unrealized | $-313 |
-| 🏦 Total | **$-688** |
+| 📦 Unrealized | $-335 |
+| 🏦 Total | **$-711** |
 | Best ROI | 1.44x |
 | Avg ROI | 0.62x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 Optimus+PV | $0.000010 | **0.77x** ($-23) | 1.54x |  | pumpfun | 2026-03-21 08:03 |
 | 🟡 omochi | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 09:43 |
 | 🔴 4a4ziM4d | $0.000006 | **0.45x** ($-55) | 1.47x |  | pumpfun | 2026-03-20 08:49 |
 | 🔴 genocide | $0.000005 | **0.48x** ($-52) | 1.14x |  | pumpfun | 2026-03-20 07:51 |

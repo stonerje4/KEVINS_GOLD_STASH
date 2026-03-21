@@ -1,6 +1,6 @@
 # Wallet: `7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj`
 
-> [GMGN](https://gmgn.ai/sol/address/7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj) | [Solscan](https://solscan.io/account/7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj) | Updated: 2026-03-21 08:00 UTC
+> [GMGN](https://gmgn.ai/sol/address/7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj) | [Solscan](https://solscan.io/account/7et4XJLZy2nAhwxWosBv4eiDY2cRCxJAjZkeytpakKtj) | Updated: 2026-03-21 08:05 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-61 |
-| 📦 Unrealized | $-24 |
-| 🏦 Total | **$-85** |
+| 📦 Unrealized | $-25 |
+| 🏦 Total | **$-86** |
 | Best ROI | 0.39x |
 | Avg ROI | 0.39x |
 
@@ -23,7 +23,7 @@
 | 🟡 CRACK | $0.000024 | **1.53x** ($+53) | 1.53x |  | pumpfun | 2026-03-20 20:17 |
 | 🔴 Forget | $0.000012 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 19:30 |
 | 🟡 SURREAL | $0.000008 | **1.04x** ($+4) | 1.04x |  | pumpswap | 2026-03-20 16:50 |
-| 🔴 honkermog | $0.000032 | **0.72x** ($-28) | 1.18x |  | pumpswap | 2026-03-20 14:26 |
+| 🔴 honkermog | $0.000032 | **0.71x** ($-29) | 1.18x |  | pumpswap | 2026-03-20 14:26 |
 | 🔴 $SNIBBU | $0.000026 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-19 23:20 |
 
 ## Closed Positions
