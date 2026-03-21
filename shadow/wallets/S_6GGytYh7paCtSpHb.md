@@ -1,30 +1,30 @@
 # Wallet: `6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332`
 
-> [GMGN](https://gmgn.ai/sol/address/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | [Solscan](https://solscan.io/account/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | Updated: 2026-03-21 07:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | [Solscan](https://solscan.io/account/6GGytYh7paCtSpHbNQEhEsLxydpzam7SjPJHwxFvU332) | Updated: 2026-03-21 07:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 2 (2 open, 0 closed) |
-| W/L | 0/0 (0%) |
-| 💵 Realized | $+0 |
-| 📦 Unrealized | $-15 |
-| 🏦 Total | **$-15** |
-| Best ROI | 0.00x |
-| Avg ROI | 0.00x |
+| Positions | 2 (1 open, 1 closed) |
+| W/L | 0/1 (0%) |
+| 💵 Realized | $-16 |
+| 📦 Unrealized | $-42 |
+| 🏦 Total | **$-58** |
+| Best ROI | 0.84x |
+| Avg ROI | 0.84x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Nuggets | $0.000007 | **1.02x** ($+2) | 2.20x | ✅ | pumpfun | 2026-03-21 07:13 |
-| 🔴 john | $0.000010 | **0.83x** ($-17) | 1.10x |  | pumpfun | 2026-03-21 07:11 |
+| 🔴 john | $0.000010 | **0.58x** ($-42) | 1.10x |  | pumpfun | 2026-03-21 07:11 |
 
 ## Closed Positions
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟡 Nuggets | 0.84x | $-16 | trailing_stop_2x | 2.20x | pumpfun | 2026-03-21 07:13 → 2026-03-21 07:20 |
 
 ---
 *[← Back to Dashboard](../../DASHBOARD.md)*

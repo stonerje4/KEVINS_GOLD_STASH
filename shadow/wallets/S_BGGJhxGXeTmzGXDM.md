@@ -1,6 +1,6 @@
 # Wallet: `BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs`
 
-> [GMGN](https://gmgn.ai/sol/address/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | [Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-21 07:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | [Solscan](https://solscan.io/account/BGGJhxGXeTmzGXDMuF5ivwjXdEGY471r5pTHmkWJyBGs) | Updated: 2026-03-21 07:25 UTC
 
 ## Summary
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 DRONE | $0.000006 | **1.13x** ($+13) | 1.18x |  | pumpswap | 2026-03-21 06:48 |
+| 🟡 DRONE | $0.000006 | **1.12x** ($+12) | 1.18x |  | pumpswap | 2026-03-21 06:48 |
 | 🟡 OIL#000 | $0.000006 | **1.01x** ($+1) | 1.02x |  | pumpfun | 2026-03-21 06:38 |
 | 🟡 WRT | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:03 |
 | 🟡 DRONE | $0.000008 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 04:45 |
