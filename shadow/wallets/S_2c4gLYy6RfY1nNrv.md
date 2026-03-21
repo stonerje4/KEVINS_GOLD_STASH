@@ -1,16 +1,16 @@
 # Wallet: `2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo`
 
-> [GMGN](https://gmgn.ai/sol/address/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | [Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-21 06:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | [Solscan](https://solscan.io/account/2c4gLYy6RfY1nNrv1vH7Cnn5AAWVhTezSWTktZbJmtQo) | Updated: 2026-03-21 06:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 25 (8 open, 17 closed) |
+| Positions | 26 (9 open, 17 closed) |
 | W/L | 2/15 (12%) |
 | 💵 Realized | $-662 |
-| 📦 Unrealized | $+88 |
-| 🏦 Total | **$-574** |
+| 📦 Unrealized | $+100 |
+| 🏦 Total | **$-563** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.61x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Spudnik | $0.000014 | **1.12x** ($+12) | 1.12x |  | pumpfun | 2026-03-21 06:17 |
 | 🔴 F6BcmSTX | $0.000006 | **0.40x** ($-60) | 1.53x |  | pumpfun | 2026-03-21 05:17 |
 | 🟡 PUNCHDENG | $0.000032 | **1.13x** ($+13) | 1.13x |  | pumpfun | 2026-03-20 22:17 |
 | 🟢 Jessica | $0.000011 | **3.38x** ($+238) | 3.38x | ✅ | pumpfun | 2026-03-20 21:32 |

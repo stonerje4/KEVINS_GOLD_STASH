@@ -1,6 +1,6 @@
 # Wallet: `GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye`
 
-> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-21 06:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | [Solscan](https://solscan.io/account/GmmVt4Xac82u2hbhFacQpZEG2prjiVbgLSshdKS9p5Ye) | Updated: 2026-03-21 06:20 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 1/9 (10%) |
 | 💵 Realized | $-468 |
 | 📦 Unrealized | $-99 |
-| 🏦 Total | **$-566** |
+| 🏦 Total | **$-567** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.53x |
 
@@ -22,7 +22,7 @@
 | 🟡 B6jsFauS | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:17 |
 | 🟡 Coglet | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:04 |
 | 🟡 2krmh9hC | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:02 |
-| 🔴 pa | $0.000010 | **0.97x** ($-3) | 2.14x | ✅ | pumpfun | 2026-03-20 11:47 |
+| 🔴 pa | $0.000010 | **0.96x** ($-4) | 2.14x | ✅ | pumpfun | 2026-03-20 11:47 |
 | 🟡 LIBERTY | $0.000040 | **1.20x** ($+20) | 2.43x | ✅ | pumpswap | 2026-03-20 10:42 |
 | 🟡 Nostalgia | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:25 |
 | 🟡 Garbonzo | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 10:17 |

@@ -1,24 +1,23 @@
 # Wallet: `DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk`
 
-> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-21 06:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | [Solscan](https://solscan.io/account/DsqdUPgAtH94nYEeqmCd6DKCUEAZAc5tCtjEQQEoc8Gk) | Updated: 2026-03-21 06:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 20 (11 open, 9 closed) |
-| W/L | 1/8 (11%) |
-| 💵 Realized | $-442 |
-| 📦 Unrealized | $-175 |
-| 🏦 Total | **$-616** |
+| Positions | 20 (10 open, 10 closed) |
+| W/L | 1/9 (10%) |
+| 💵 Realized | $-505 |
+| 📦 Unrealized | $-196 |
+| 🏦 Total | **$-701** |
 | Best ROI | 1.30x |
-| Avg ROI | 0.51x |
+| Avg ROI | 0.50x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 SHREMP | $0.000010 | **1.21x** ($+21) | 1.51x |  | pumpfun | 2026-03-21 06:11 |
 | 🔴 pa | $0.000013 | **0.74x** ($-26) | 1.30x |  | pumpfun | 2026-03-21 05:50 |
 | 🔴 Handprint | $0.000008 | **0.99x** ($-1) | 1.58x |  | pumpswap | 2026-03-20 13:29 |
 | 🔴 foid | $0.000027 | **0.54x** ($-46) | 1.00x |  | pumpswap | 2026-03-20 13:25 |
@@ -34,6 +33,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 SHREMP | 0.37x | $-63 | stop_loss | 1.51x | pumpfun | 2026-03-21 06:11 → 2026-03-21 06:17 |
 | 🔴 3984 | 0.36x | $-64 | stop_loss | 1.01x | pumpfun | 2026-03-20 19:51 → 2026-03-20 19:51 |
 | 🔴 8WRgb2Lq | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-20 11:45 → 2026-03-20 18:12 |
 | 🔴 DECEPTICONS | 0.28x | $-72 | stop_loss | 1.00x | pumpfun | 2026-03-20 11:41 → 2026-03-20 15:13 |

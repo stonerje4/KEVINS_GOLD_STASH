@@ -1,16 +1,16 @@
 # Wallet: `7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg`
 
-> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 06:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | [Solscan](https://solscan.io/account/7cA6GmNF9zWBp67B7i9hpeV2WaVGCrEhM4R2awAgtWNg) | Updated: 2026-03-21 06:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 34 (27 open, 7 closed) |
-| W/L | 0/7 (0%) |
-| 💵 Realized | $-456 |
-| 📦 Unrealized | $+599 |
-| 🏦 Total | **$+144** |
+| Positions | 34 (26 open, 8 closed) |
+| W/L | 0/8 (0%) |
+| 💵 Realized | $-516 |
+| 📦 Unrealized | $+665 |
+| 🏦 Total | **$+149** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.35x |
 
@@ -18,9 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 grokputer | $0.000014 | **1.19x** ($+19) | 1.19x |  | pumpfun | 2026-03-21 06:07 |
-| 🟡 cabbage | $0.000021 | **1.55x** ($+55) | 1.66x |  | pumpfun | 2026-03-21 06:01 |
-| 🔴 PIP | $0.000012 | **0.44x** ($-56) | 1.00x |  | pumpfun | 2026-03-21 05:40 |
+| 🟡 grokputer | $0.000014 | **1.12x** ($+12) | 1.19x |  | pumpfun | 2026-03-21 06:07 |
+| 🟡 cabbage | $0.000021 | **1.71x** ($+71) | 1.71x |  | pumpfun | 2026-03-21 06:01 |
 | 🟡 Babyify | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:32 |
 | 🟡 FAKER | $0.000035 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-21 05:18 |
 | 🟢 EVERYTHING | $0.000011 | **3.47x** ($+247) | 3.47x | ✅ | pumpfun | 2026-03-20 22:09 |
@@ -50,6 +49,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 PIP | 0.39x | $-61 | stop_loss | 1.00x | pumpfun | 2026-03-21 05:40 → 2026-03-21 06:18 |
 | 🔴 DogeFather | 0.40x | $-60 | stop_loss | 1.28x | pumpswap | 2026-03-20 20:58 → 2026-03-20 22:18 |
 | 🔴 corporate | 0.40x | $-60 | stop_loss | 1.00x | pumpfun | 2026-03-20 17:48 → 2026-03-21 02:00 |
 | 🔴 CATS | 0.32x | $-68 | stop_loss | 1.35x | pumpfun | 2026-03-20 06:06 → 2026-03-20 07:14 |
