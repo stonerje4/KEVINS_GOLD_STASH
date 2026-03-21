@@ -1,6 +1,6 @@
 # Wallet: `56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg`
 
-> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-21 00:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | [Solscan](https://solscan.io/account/56JzAf7QGttcFCuwbgnawbiHEzUmU6aUSDT1gWFhbfsg) | Updated: 2026-03-21 00:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 18 (7 open, 11 closed) |
 | W/L | 1/10 (9%) |
 | 💵 Realized | $-365 |
-| 📦 Unrealized | $-170 |
-| 🏦 Total | **$-534** |
+| 📦 Unrealized | $-180 |
+| 🏦 Total | **$-545** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.67x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 pa | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 11:43 |
-| 🟡 Chibify | $0.000028 | **1.23x** ($+23) | 1.43x |  | pumpswap | 2026-03-20 10:35 |
+| 🟡 Chibify | $0.000028 | **1.13x** ($+13) | 1.43x |  | pumpswap | 2026-03-20 10:35 |
 | 🔴 Kit | $0.000006 | **0.62x** ($-38) | 1.34x |  | pumpfun | 2026-03-20 07:40 |
 | 🔴 大郎 | $0.000005 | **0.50x** ($-50) | 1.20x |  | pumpfun | 2026-03-20 06:44 |
 | 🔴 HAIL | $0.000015 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 06:21 |

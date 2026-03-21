@@ -1,6 +1,6 @@
 # Wallet: `Dw3npcfcks5hYoeViCKGFEctykaReBGKJnLrmoxtggRA`
 
-> [GMGN](https://gmgn.ai/sol/address/Dw3npcfcks5hYoeViCKGFEctykaReBGKJnLrmoxtggRA) | [Solscan](https://solscan.io/account/Dw3npcfcks5hYoeViCKGFEctykaReBGKJnLrmoxtggRA) | Updated: 2026-03-21 00:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Dw3npcfcks5hYoeViCKGFEctykaReBGKJnLrmoxtggRA) | [Solscan](https://solscan.io/account/Dw3npcfcks5hYoeViCKGFEctykaReBGKJnLrmoxtggRA) | Updated: 2026-03-21 00:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-84 |
-| 📦 Unrealized | $+25 |
-| 🏦 Total | **$-59** |
+| 📦 Unrealized | $+15 |
+| 🏦 Total | **$-69** |
 | Best ROI | 0.16x |
 | Avg ROI | 0.16x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 XMONEY | $0.000026 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 07:14 |
-| 🟡 Chibify | $0.000028 | **1.23x** ($+23) | 1.42x |  | pumpswap | 2026-03-20 07:10 |
+| 🟡 Chibify | $0.000028 | **1.12x** ($+12) | 1.42x |  | pumpswap | 2026-03-20 07:10 |
 
 ## Closed Positions
 

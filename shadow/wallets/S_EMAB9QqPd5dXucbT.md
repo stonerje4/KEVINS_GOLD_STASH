@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 00:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 00:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 19 (18 open, 1 closed) |
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-42 |
-| 📦 Unrealized | $-96 |
-| 🏦 Total | **$-138** |
+| 📦 Unrealized | $-100 |
+| 🏦 Total | **$-142** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.58x |
 
@@ -21,8 +21,8 @@
 | 🔴 Wob | $0.000023 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 10:57 |
 | 🔴 Flash | $0.000038 | **0.71x** ($-29) | 1.09x |  | pumpswap | 2026-03-20 10:43 |
 | 🔴 awkward | $0.000013 | **0.48x** ($-52) | 1.34x |  | pumpfun | 2026-03-20 10:09 |
-| 🔴 Massive | $0.000021 | **0.86x** ($-14) | 1.56x |  | pumpswap | 2026-03-20 05:22 |
-| 🟢 PIKE | $0.000034 | **2.51x** ($+151) | 2.64x | ✅ | pumpswap | 2026-03-20 05:16 |
+| 🟡 Massive | $0.000021 | **1.00x** ($+0) | 1.56x |  | pumpswap | 2026-03-20 05:22 |
+| 🟢 PIKE | $0.000034 | **2.16x** ($+116) | 2.64x | ✅ | pumpswap | 2026-03-20 05:16 |
 | 🔴 しずく | $0.000022 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
 | 🔴 MILO | $0.000006 | **0.90x** ($-10) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
 | 🟡 Hamster | $0.000034 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 03:07 |

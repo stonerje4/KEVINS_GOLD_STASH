@@ -1,6 +1,6 @@
 # Wallet: `Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ`
 
-> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-21 00:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | [Solscan](https://solscan.io/account/Y1ibdmEHKu1TUS2SnLVLhYX775G5yYUkgf3mhYCNCQJ) | Updated: 2026-03-21 00:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 15 (11 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-245 |
-| 📦 Unrealized | $-43 |
-| 🏦 Total | **$-288** |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$-291** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Shake | $0.000013 | **1.26x** ($+26) | 1.32x |  | pumpfun | 2026-03-20 18:42 |
-| 🔴 corporate | $0.000011 | **0.78x** ($-22) | 1.00x |  | pumpfun | 2026-03-20 17:29 |
+| 🔴 corporate | $0.000011 | **0.75x** ($-25) | 1.00x |  | pumpfun | 2026-03-20 17:29 |
 | 🔴 SHELLY | $0.000009 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 16:42 |
 | 🟡 Imaginify | $0.000006 | **1.38x** ($+38) | 1.38x |  | pumpfun | 2026-03-20 16:41 |
 | 🔴 ME | $0.000023 | **0.92x** ($-8) | 1.00x |  | pumpfun | 2026-03-20 16:40 |

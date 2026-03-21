@@ -1,6 +1,6 @@
 # Wallet: `Y6rZHutXJcHFF15Dn83HXrU45eaGp3LMinDVyr5BXzD`
 
-> [GMGN](https://gmgn.ai/sol/address/Y6rZHutXJcHFF15Dn83HXrU45eaGp3LMinDVyr5BXzD) | [Solscan](https://solscan.io/account/Y6rZHutXJcHFF15Dn83HXrU45eaGp3LMinDVyr5BXzD) | Updated: 2026-03-21 00:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/Y6rZHutXJcHFF15Dn83HXrU45eaGp3LMinDVyr5BXzD) | [Solscan](https://solscan.io/account/Y6rZHutXJcHFF15Dn83HXrU45eaGp3LMinDVyr5BXzD) | Updated: 2026-03-21 00:25 UTC
 
 ## Summary
 
@@ -20,7 +20,7 @@
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 PC | $0.000005 | **0.46x** ($-54) | 1.36x |  | pumpfun | 2026-03-20 22:40 |
 | 🔴 9U7bX25V | $0.000005 | **0.50x** ($-50) | 1.00x |  | pumpfun | 2026-03-20 22:38 |
-| 🔴 Elongate | $0.000014 | **0.89x** ($-11) | 1.93x |  | pumpswap | 2026-03-20 22:20 |
+| 🔴 Elongate | $0.000014 | **0.90x** ($-10) | 1.93x |  | pumpswap | 2026-03-20 22:20 |
 | 🟡 𝕏CAT | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 18:21 |
 
 ## Closed Positions
