@@ -1,6 +1,6 @@
 # Wallet: `6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr`
 
-> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-21 11:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | [Solscan](https://solscan.io/account/6UYockTgNS5qx4apiGJTuzby9h2CpFtEhUYQsdUAfXQr) | Updated: 2026-03-21 11:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 17 (14 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-183 |
-| 📦 Unrealized | $-157 |
-| 🏦 Total | **$-339** |
+| 📦 Unrealized | $-142 |
+| 🏦 Total | **$-325** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.39x |
 
@@ -27,7 +27,7 @@
 | 🔴 Saleh | $0.000019 | **0.70x** ($-30) | 1.13x |  | pumpswap | 2026-03-20 01:53 |
 | 🟡 SHELBY | $0.000009 | **1.10x** ($+10) | 1.21x |  | pumpfun | 2026-03-20 01:27 |
 | 🔴 creature | $0.000019 | **0.83x** ($-17) | 1.13x |  | pumpswap | 2026-03-20 01:23 |
-| 🔴 CHIBITRUMP | $0.000019 | **0.64x** ($-36) | 1.01x |  | pumpswap | 2026-03-20 00:52 |
+| 🔴 CHIBITRUMP | $0.000019 | **0.79x** ($-21) | 1.01x |  | pumpswap | 2026-03-20 00:52 |
 | 🔴 CHIBIELON | $0.000008 | **0.97x** ($-3) | 1.10x |  | pumpswap | 2026-03-20 00:49 |
 | 🔴 電王 | $0.000029 | **0.88x** ($-12) | 1.07x |  | pumpfun | 2026-03-20 00:44 |
 | 🟡 world | $0.000019 | **1.07x** ($+7) | 1.79x |  | pumpswap | 2026-03-20 00:36 |

@@ -1,6 +1,6 @@
 # Wallet: `8hsSDYaV6V9JAqZXbzPojZoebJBMt1bs3rss9mdakjV8`
 
-> [GMGN](https://gmgn.ai/sol/address/8hsSDYaV6V9JAqZXbzPojZoebJBMt1bs3rss9mdakjV8) | [Solscan](https://solscan.io/account/8hsSDYaV6V9JAqZXbzPojZoebJBMt1bs3rss9mdakjV8) | Updated: 2026-03-21 11:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/8hsSDYaV6V9JAqZXbzPojZoebJBMt1bs3rss9mdakjV8) | [Solscan](https://solscan.io/account/8hsSDYaV6V9JAqZXbzPojZoebJBMt1bs3rss9mdakjV8) | Updated: 2026-03-21 11:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $+11 |
-| 🏦 Total | **$+11** |
+| 📦 Unrealized | $+5 |
+| 🏦 Total | **$+5** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Squishy | $0.000017 | **1.11x** ($+11) | 1.19x |  | pumpswap | 2026-03-21 08:20 |
+| 🟡 Squishy | $0.000017 | **1.05x** ($+5) | 1.19x |  | pumpswap | 2026-03-21 08:20 |
 
 ## Closed Positions
 

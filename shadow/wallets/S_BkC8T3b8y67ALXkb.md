@@ -1,24 +1,24 @@
 # Wallet: `BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY`
 
-> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 11:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | [Solscan](https://solscan.io/account/BkC8T3b8y67ALXkbjK9sqwzyWaqa8b3nWkfhkiKsLoaY) | Updated: 2026-03-21 11:35 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 42 (38 open, 4 closed) |
-| W/L | 0/4 (0%) |
-| 💵 Realized | $-166 |
-| 📦 Unrealized | $-45 |
-| 🏦 Total | **$-211** |
-| Best ROI | 0.82x |
-| Avg ROI | 0.59x |
+| Positions | 42 (37 open, 5 closed) |
+| W/L | 1/4 (20%) |
+| 💵 Realized | $+315 |
+| 📦 Unrealized | $-232 |
+| 🏦 Total | **$+83** |
+| Best ROI | 5.81x |
+| Avg ROI | 1.63x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Higuruma | $0.000034 | **1.06x** ($+6) | 1.16x |  | pumpswap | 2026-03-21 09:21 |
+| 🟡 Higuruma | $0.000034 | **1.05x** ($+5) | 1.16x |  | pumpswap | 2026-03-21 09:21 |
 | 🟡 DogeFather | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:56 |
 | 🔴 IMAGINE | $0.000016 | **0.94x** ($-6) | 1.29x |  | pumpswap | 2026-03-21 06:36 |
 | 🔴 Civil Claude | $0.000017 | **0.94x** ($-6) | 1.22x |  | pumpfun | 2026-03-21 06:11 |
@@ -27,7 +27,6 @@
 | 🟡 SNIFFER | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:06 |
 | 🟡 Pixels | $0.000026 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:02 |
 | 🟡 Income | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:56 |
-| 🚀 CHIBELON | $0.000027 | **7.80x** ($+680) | 12.96x | ✅ | pumpswap | 2026-03-21 04:48 |
 | 🔴 OIIA | $0.000028 | **0.94x** ($-6) | 1.22x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 ZeroG | $0.000010 | **0.91x** ($-9) | 1.13x |  | pumpswap | 2026-03-21 01:32 |
 | 🔴 Dryer | $0.000007 | **0.85x** ($-15) | 1.04x |  | pumpswap | 2026-03-21 01:18 |
@@ -61,6 +60,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟢 CHIBELON | 5.81x | $+481 | trailing_stop_13x | 12.96x | pumpswap | 2026-03-21 04:48 → 2026-03-21 11:30 |
 | 🟡 Alien | 0.82x | $-18 | trailing_stop_3x | 2.88x | pumpswap | 2026-03-20 09:02 → 2026-03-20 21:16 |
 | 🔴 NBR | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 03:51 → 2026-03-20 18:16 |
 | 🔴 Goose | 0.73x | $-27 | trailing_stop_2x | 2.32x | pumpswap | 2026-03-20 00:26 → 2026-03-20 17:34 |
