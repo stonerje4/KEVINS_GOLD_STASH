@@ -1,6 +1,6 @@
 # Wallet: `54R5wnehXtEq7zoNDyRnjgvzVwANLrdovsxBfKRSp9SY`
 
-> [GMGN](https://gmgn.ai/sol/address/54R5wnehXtEq7zoNDyRnjgvzVwANLrdovsxBfKRSp9SY) | [Solscan](https://solscan.io/account/54R5wnehXtEq7zoNDyRnjgvzVwANLrdovsxBfKRSp9SY) | Updated: 2026-03-21 08:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/54R5wnehXtEq7zoNDyRnjgvzVwANLrdovsxBfKRSp9SY) | [Solscan](https://solscan.io/account/54R5wnehXtEq7zoNDyRnjgvzVwANLrdovsxBfKRSp9SY) | Updated: 2026-03-21 08:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-55 |
-| 🏦 Total | **$-55** |
+| 📦 Unrealized | $-53 |
+| 🏦 Total | **$-53** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Zero | $0.000006 | **0.45x** ($-55) | 1.01x |  | pumpswap | 2026-03-21 05:21 |
+| 🔴 Zero | $0.000006 | **0.47x** ($-53) | 1.01x |  | pumpswap | 2026-03-21 05:21 |
 
 ## Closed Positions
 

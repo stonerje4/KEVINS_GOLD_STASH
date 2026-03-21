@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 08:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 08:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 184 (178 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-1,104 |
-| 🏦 Total | **$-1,057** |
+| 📦 Unrealized | $-1,053 |
+| 🏦 Total | **$-1,006** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.08x |
 
@@ -18,13 +18,13 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 BCKR | $0.000015 | **0.99x** ($-1) | 1.00x |  | pumpswap | 2026-03-21 08:07 |
+| 🔴 BCKR | $0.000015 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 08:07 |
 | 🟡 Obsessed | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:03 |
 | 🟡 Saleh | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:51 |
 | 🟡 Pixels | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 Income | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 SHOEBILL | $0.000039 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-21 05:10 |
-| 🟡 CHIBELON | $0.000024 | **1.43x** ($+43) | 2.04x | ✅ | pumpswap | 2026-03-21 04:39 |
+| 🟡 CHIBELON | $0.000024 | **1.38x** ($+38) | 2.04x | ✅ | pumpswap | 2026-03-21 04:39 |
 | 🔴 Joobi | $0.000009 | **0.92x** ($-8) | 1.25x |  | pumpswap | 2026-03-21 04:32 |
 | 🔴 X COINS | $0.000017 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-21 04:06 |
 | 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
@@ -73,11 +73,11 @@
 | 🔴 DATBOI | $0.000037 | **0.89x** ($-11) | 1.00x |  | pumpswap | 2026-03-20 14:38 |
 | 🟡 PAD | $0.000015 | **1.29x** ($+29) | 1.38x |  | pumpswap | 2026-03-20 14:38 |
 | 🔴 foid | $0.000020 | **0.74x** ($-26) | 1.09x |  | pumpswap | 2026-03-20 14:29 |
-| 🟡 Socrates | $0.000031 | **1.25x** ($+25) | 1.32x |  | pumpswap | 2026-03-20 14:29 |
+| 🟡 Socrates | $0.000031 | **1.28x** ($+28) | 1.32x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 Pixel | $0.000011 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
-| 🟢 Higuruma | $0.000016 | **2.55x** ($+155) | 2.98x | ✅ | pumpswap | 2026-03-20 14:25 |
+| 🟢 Higuruma | $0.000016 | **3.27x** ($+227) | 3.58x | ✅ | pumpswap | 2026-03-20 14:25 |
 | 🔴 ORAMAMA | $0.000010 | **0.90x** ($-10) | 1.02x |  | pumpswap | 2026-03-20 14:13 |
-| 🟢 DOGEFATHER | $0.000013 | **3.50x** ($+250) | 5.03x | ✅ | pumpswap | 2026-03-20 13:43 |
+| 🟢 DOGEFATHER | $0.000013 | **3.65x** ($+265) | 5.03x | ✅ | pumpswap | 2026-03-20 13:43 |
 | 🔴 X | $0.000014 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 LUNAR | $0.000038 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 Squishy | $0.000016 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:37 |
@@ -104,7 +104,7 @@
 | 🔴 LUMO | $0.000037 | **0.54x** ($-46) | 1.64x |  | pumpswap | 2026-03-20 08:32 |
 | 🔴 Achieve | $0.000020 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 08:18 |
 | 🟡 しずく | $0.000015 | **1.04x** ($+4) | 1.26x |  | pumpswap | 2026-03-20 08:09 |
-| 🟡 OPTIMUS | $0.000015 | **1.20x** ($+20) | 1.26x |  | pumpswap | 2026-03-20 08:05 |
+| 🟡 OPTIMUS | $0.000015 | **1.54x** ($+54) | 1.54x |  | pumpswap | 2026-03-20 08:05 |
 | 🟡 chud | $0.000015 | **1.05x** ($+5) | 2.36x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🟡 CLAW | $0.000027 | **1.01x** ($+1) | 1.16x |  | pumpswap | 2026-03-20 07:44 |
 | 🔴 WID | $0.000019 | **0.80x** ($-20) | 1.35x |  | pumpswap | 2026-03-20 07:27 |

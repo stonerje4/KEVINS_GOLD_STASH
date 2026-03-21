@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 08:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 08:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 78 (62 open, 16 closed) |
 | W/L | 1/15 (6%) |
 | 💵 Realized | $-720 |
-| 📦 Unrealized | $-419 |
-| 🏦 Total | **$-1,139** |
+| 📦 Unrealized | $-418 |
+| 🏦 Total | **$-1,138** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.55x |
 
@@ -33,14 +33,14 @@
 | 🔴 clod | $0.000016 | **0.85x** ($-15) | 1.23x |  | pumpswap | 2026-03-20 19:17 |
 | 🟡 PIKE | $0.000038 | **1.88x** ($+88) | 2.42x | ✅ | pumpswap | 2026-03-20 19:11 |
 | 🔴 Chud | $0.000028 | **0.75x** ($-25) | 1.06x |  | pumpswap | 2026-03-20 18:52 |
-| 🟡 FAKER | $0.000034 | **1.01x** ($+1) | 1.42x |  | pumpswap | 2026-03-20 18:10 |
+| 🟡 FAKER | $0.000034 | **1.00x** ($+0) | 1.42x |  | pumpswap | 2026-03-20 18:10 |
 | 🟡 CHIBI | $0.000014 | **1.07x** ($+7) | 1.08x |  | pumpswap | 2026-03-20 18:08 |
 | 🔴 Sybil  | $0.000025 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 16:57 |
 | 🟡 PAD | $0.000015 | **1.30x** ($+30) | 1.39x |  | pumpswap | 2026-03-20 14:38 |
 | 🔴 Rosei | $0.000015 | **0.77x** ($-23) | 1.00x |  | pumpswap | 2026-03-20 14:34 |
 | 🔴 foid | $0.000020 | **0.75x** ($-25) | 1.11x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 Saxophones | $0.000034 | **0.82x** ($-18) | 1.15x |  | pumpswap | 2026-03-20 13:40 |
-| 🔴 honkermog | $0.000033 | **0.68x** ($-32) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
+| 🔴 honkermog | $0.000033 | **0.64x** ($-36) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
 | 🔴 CHIBIELON | $0.000039 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 DISLIKE | $0.000039 | **0.84x** ($-16) | 1.21x |  | pumpswap | 2026-03-20 12:09 |
 | 🔴 CHIBITRUMP | $0.000015 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 12:05 |
@@ -69,7 +69,7 @@
 | 🔴 Speak | $0.000023 | **0.69x** ($-31) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
 | 🟢 LIFE | $0.000024 | **2.34x** ($+134) | 2.95x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🟡 Saleh | $0.000013 | **1.05x** ($+5) | 1.71x |  | pumpswap | 2026-03-20 00:35 |
-| 🟢 DOGEFATHER | $0.000013 | **3.55x** ($+255) | 5.11x | ✅ | pumpswap | 2026-03-20 00:01 |
+| 🟢 DOGEFATHER | $0.000013 | **3.71x** ($+271) | 5.11x | ✅ | pumpswap | 2026-03-20 00:01 |
 | 🔴 TIMELESS | $0.000021 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:57 |
 | 🔴 GOBLIN | $0.000015 | **0.91x** ($-9) | 1.10x |  | pumpswap | 2026-03-19 23:47 |
 | 🟡 AINL | $0.000025 | **1.39x** ($+39) | 1.56x |  | pumpswap | 2026-03-19 23:43 |
