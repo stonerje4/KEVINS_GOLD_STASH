@@ -1,12 +1,12 @@
 # Wallet: `5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC`
 
-> [GMGN](https://gmgn.ai/sol/address/5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC) | [Solscan](https://solscan.io/account/5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC) | Updated: 2026-03-21 01:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC) | [Solscan](https://solscan.io/account/5G5KPscCV8eBQ7XTCi15a2YhQCdMBWRSePaMjr3LA7DC) | Updated: 2026-03-21 01:50 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 6 (6 open, 0 closed) |
+| Positions | 7 (7 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $+0 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 SOS | $0.000034 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-21 01:47 |
 | 🟡 WRT | $0.000036 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-21 00:17 |
 | 🟡 WRT | $0.000034 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 20:30 |
 | 🟡 WRT | $0.000034 | **1.00x** ($+0) | 1.00x |  | clmm | 2026-03-20 19:35 |

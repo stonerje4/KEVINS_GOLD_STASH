@@ -1,6 +1,6 @@
 # Wallet: `BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM`
 
-> [GMGN](https://gmgn.ai/sol/address/BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM) | [Solscan](https://solscan.io/account/BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM) | Updated: 2026-03-21 01:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM) | [Solscan](https://solscan.io/account/BpxZNCi8hgEaj8Q1zUS12KXwgkXRiXLSMdxL11CqHSJM) | Updated: 2026-03-21 01:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (1 open, 3 closed) |
 | W/L | 0/3 (0%) |
 | 💵 Realized | $-210 |
-| 📦 Unrealized | $-17 |
-| 🏦 Total | **$-227** |
+| 📦 Unrealized | $-18 |
+| 🏦 Total | **$-228** |
 | Best ROI | 0.40x |
 | Avg ROI | 0.30x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 NBR | $0.000021 | **0.83x** ($-17) | 1.12x |  | pumpswap | 2026-03-20 23:00 |
+| 🔴 NBR | $0.000021 | **0.82x** ($-18) | 1.12x |  | pumpswap | 2026-03-20 23:00 |
 
 ## Closed Positions
 

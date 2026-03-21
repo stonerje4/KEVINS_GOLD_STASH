@@ -1,6 +1,6 @@
 # Wallet: `FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr`
 
-> [GMGN](https://gmgn.ai/sol/address/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | [Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-21 01:45 UTC
+> [GMGN](https://gmgn.ai/sol/address/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | [Solscan](https://solscan.io/account/FAHjRPyh2nLkSMDVHpXYe5gHUcv5LTRDbPei8goCqDZr) | Updated: 2026-03-21 01:50 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 3 (2 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+495 |
-| 📦 Unrealized | $-41 |
-| 🏦 Total | **$+453** |
+| 📦 Unrealized | $-27 |
+| 🏦 Total | **$+468** |
 | Best ROI | 5.95x |
 | Avg ROI | 5.95x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 IMAGINE | $0.000032 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 04:04 |
+| 🟡 IMAGINE | $0.000032 | **1.04x** ($+4) | 1.05x |  | pumpswap | 2026-03-20 04:04 |
 | 🔴 GPD | $0.000012 | **0.69x** ($-31) | 1.00x |  | pumpswap | 2026-03-20 01:47 |
 
 ## Closed Positions
