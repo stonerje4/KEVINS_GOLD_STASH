@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 05:25 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 05:30 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,440 |
-| 🏦 Total | **$-2,563** |
+| 📦 Unrealized | $-2,441 |
+| 🏦 Total | **$-2,564** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -33,7 +33,7 @@
 | 🔴 Pixel | $0.000011 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 ORAMAMA | $0.000011 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 Sonny | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
-| 🟡 Higuruma | $0.000022 | **1.29x** ($+29) | 1.56x |  | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000022 | **1.33x** ($+33) | 1.56x |  | pumpswap | 2026-03-20 14:09 |
 | 🔴 Yahu | $0.000028 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000040 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
@@ -153,7 +153,7 @@
 | 🔴 DoubleT | $0.000030 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 01:55 |
 | 🟢 DAWAE | $0.000012 | **2.46x** ($+146) | 2.59x | ✅ | pumpswap | 2026-03-20 01:54 |
 | 🔴 MINT | $0.000022 | **0.79x** ($-21) | 1.08x |  | pumpswap | 2026-03-20 01:52 |
-| 🔴 Hamster | $0.000035 | **0.98x** ($-2) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
+| 🔴 Hamster | $0.000035 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Garbonzo | $0.000006 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 pepeto | $0.000006 | **0.95x** ($-5) | 1.00x |  | pumpswap | 2026-03-20 01:46 |
 | 🔴 Qi | $0.000010 | **0.96x** ($-4) | 1.00x |  | pumpswap | 2026-03-20 01:42 |
@@ -190,7 +190,7 @@
 | 🟡 wallahi | $0.000033 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 00:15 |
 | 🔴 Microwaved | $0.000029 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 00:14 |
 | 🔴 DAU | $0.000008 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:12 |
-| 🔴 FAKER | $0.000035 | **0.98x** ($-2) | 1.40x |  | pumpswap | 2026-03-20 00:07 |
+| 🔴 FAKER | $0.000035 | **0.97x** ($-3) | 1.40x |  | pumpswap | 2026-03-20 00:07 |
 | 🟡 WORLD | $0.000005 | **1.28x** ($+28) | 1.28x |  | pumpswap | 2026-03-20 00:04 |
 | 🔴 GOBLIN | $0.000016 | **0.86x** ($-14) | 1.04x |  | pumpswap | 2026-03-20 00:01 |
 | 🔴 oilcoin | $0.000009 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-19 23:59 |
