@@ -1,6 +1,6 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 13:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 13:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 86 (67 open, 19 closed) |
 | W/L | 2/17 (11%) |
 | 💵 Realized | $-656 |
-| 📦 Unrealized | $-509 |
-| 🏦 Total | **$-1,166** |
+| 📦 Unrealized | $-490 |
+| 🏦 Total | **$-1,146** |
 | Best ROI | 2.97x |
 | Avg ROI | 0.65x |
 
@@ -50,7 +50,7 @@
 | 🔴 honkermog | $0.000033 | **0.63x** ($-37) | 1.16x |  | pumpswap | 2026-03-20 12:32 |
 | 🔴 CHIBIELON | $0.000039 | **0.60x** ($-40) | 1.00x |  | pumpswap | 2026-03-20 12:10 |
 | 🔴 DISLIKE | $0.000039 | **0.80x** ($-20) | 1.21x |  | pumpswap | 2026-03-20 12:09 |
-| 🔴 CHIBITRUMP | $0.000015 | **0.88x** ($-12) | 1.32x |  | pumpswap | 2026-03-20 12:05 |
+| 🔴 CHIBITRUMP | $0.000015 | **0.94x** ($-6) | 1.32x |  | pumpswap | 2026-03-20 12:05 |
 | 🔴 Matthew | $0.000016 | **0.98x** ($-2) | 1.09x |  | pumpswap | 2026-03-20 12:05 |
 | 🟡 chud | $0.000014 | **1.07x** ($+7) | 2.42x | ✅ | pumpswap | 2026-03-20 08:01 |
 | 🔴 ARIA | $0.000015 | **0.79x** ($-21) | 1.86x |  | pumpswap | 2026-03-20 07:59 |
@@ -65,13 +65,13 @@
 | 🟡 CHOPPER | $0.000025 | **1.31x** ($+31) | 1.32x |  | pumpswap | 2026-03-20 04:44 |
 | 🟡 OIIA | $0.000015 | **1.70x** ($+70) | 2.50x | ✅ | pumpswap | 2026-03-20 03:53 |
 | 🟡 COLLECTIBLE | $0.000040 | **1.40x** ($+40) | 1.50x |  | pumpswap | 2026-03-20 03:48 |
-| 🔴 WhiteBoy  | $0.000014 | **0.74x** ($-26) | 1.01x |  | pumpswap | 2026-03-20 02:50 |
+| 🔴 WhiteBoy  | $0.000014 | **0.75x** ($-25) | 1.01x |  | pumpswap | 2026-03-20 02:50 |
 | 🔴 VAFR | $0.000023 | **0.98x** ($-2) | 1.14x |  | pumpswap | 2026-03-20 02:40 |
 | 🔴 JOC | $0.000033 | **0.86x** ($-14) | 1.19x |  | pumpswap | 2026-03-20 02:36 |
 | 🔴 YOU | $0.000014 | **0.65x** ($-35) | 1.00x |  | pumpswap | 2026-03-20 02:28 |
 | 🔴 cigarette | $0.000018 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 02:21 |
 | 🟡 FKH | $0.000017 | **1.09x** ($+9) | 1.12x |  | pumpswap | 2026-03-20 02:01 |
-| 🔴 Hamster | $0.000035 | **0.97x** ($-3) | 1.03x |  | pumpswap | 2026-03-20 01:52 |
+| 🟡 Hamster | $0.000035 | **1.09x** ($+9) | 1.10x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Speak | $0.000023 | **0.69x** ($-31) | 1.19x |  | pumpswap | 2026-03-20 00:57 |
 | 🟢 LIFE | $0.000024 | **2.34x** ($+134) | 2.95x | ✅ | pumpswap | 2026-03-20 00:52 |
 | 🟡 Saleh | $0.000013 | **1.05x** ($+5) | 1.71x |  | pumpswap | 2026-03-20 00:35 |

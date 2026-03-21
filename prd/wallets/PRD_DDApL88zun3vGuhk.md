@@ -1,6 +1,6 @@
 # PRD Wallet: `DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ`
 
-> [GMGN](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | [Solscan](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | Updated: 2026-03-21 13:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | [Solscan](https://solscan.io/account/DDApL88zun3vGuhkxkUx6HmoXUyj37xs2NiwW5SMknHZ) | Updated: 2026-03-21 13:35 UTC
 
 ## Summary
 
@@ -10,8 +10,8 @@
 | W/L | 0/2 (0%) |
 | 💵 Realized | -0.0865 SOL ($-7.80) |
 | ⛽ Gas | 0.0110 SOL |
-| 📦 Unrealized | +0.0386 SOL |
-| 🏦 Net | **-0.0478 SOL** ($-4.31) |
+| 📦 Unrealized | +0.0086 SOL |
+| 🏦 Net | **-0.0779 SOL** ($-7.02) |
 
 ## Positions
 
@@ -19,7 +19,7 @@
 |-------|--------|-----------|---------|------|---------|--------|
 | 🔴 MINMIKO | open | 0.11 | 0.96x | 1.62x | -0.0090 | — |
 | 🔴 AGI | closed | 0.11 | 0.99x | 1.19x | -0.0112 | stale_position_cleanup |
-| 🟢 STRAWBERRIES | open | 0.11 | 1.48x | 2.22x | +0.0477 | — |
+| 🟢 STRAWBERRIES | open | 0.11 | 1.21x | 2.22x | +0.0176 | — |
 | 🔴 LIFE | closed | 0.11 | 0.39x | 1.21x | -0.0753 | stop_loss |
 
 ---

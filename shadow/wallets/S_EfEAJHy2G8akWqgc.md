@@ -1,6 +1,6 @@
 # Wallet: `EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ`
 
-> [GMGN](https://gmgn.ai/sol/address/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | [Solscan](https://solscan.io/account/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | Updated: 2026-03-21 13:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | [Solscan](https://solscan.io/account/EfEAJHy2G8akWqgc8Cn6bYQAA49S71mW1T8TgoKSSFUQ) | Updated: 2026-03-21 13:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (6 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-33 |
-| 📦 Unrealized | $+77 |
-| 🏦 Total | **$+44** |
+| 📦 Unrealized | $+20 |
+| 🏦 Total | **$-12** |
 | Best ROI | 0.84x |
 | Avg ROI | 0.84x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 SPANBERGER | $0.000007 | **3.05x** ($+205) | 3.53x | ✅ | pumpfun | 2026-03-21 13:03 |
+| 🟡 SPANBERGER | $0.000007 | **1.64x** ($+64) | 3.53x | ✅ | pumpfun | 2026-03-21 13:03 |
 | 🔴 BUSUfo5Y | $0.000006 | **0.45x** ($-55) | 1.36x |  | pumpfun | 2026-03-21 11:55 |
 | 🟢 Tsuki | $0.000017 | **2.19x** ($+119) | 2.19x | ✅ | pumpfun | 2026-03-21 11:33 |
 | 🔴 IShowSpeed | $0.000020 | **0.79x** ($-21) | 1.00x |  | pumpswap | 2026-03-20 19:33 |

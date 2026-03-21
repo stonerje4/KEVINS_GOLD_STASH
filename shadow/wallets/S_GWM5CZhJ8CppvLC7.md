@@ -1,6 +1,6 @@
 # Wallet: `GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc`
 
-> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 13:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | [Solscan](https://solscan.io/account/GWM5CZhJ8CppvLC7JGMhcK4DHbK2x6jJp9i34puczZDc) | Updated: 2026-03-21 13:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 57 (52 open, 5 closed) |
 | W/L | 2/3 (40%) |
 | 💵 Realized | $+136 |
-| 📦 Unrealized | $-510 |
-| 🏦 Total | **$-374** |
+| 📦 Unrealized | $-489 |
+| 🏦 Total | **$-353** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.27x |
 
@@ -25,7 +25,7 @@
 | 🟡 EVERYTHING | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:27 |
 | 🟡 CAINE | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:23 |
 | 🟡 DogeFather | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:17 |
-| 🟡 Pixel | $0.000015 | **1.14x** ($+14) | 1.42x |  | pumpswap | 2026-03-21 07:34 |
+| 🟡 Pixel | $0.000015 | **1.15x** ($+15) | 1.42x |  | pumpswap | 2026-03-21 07:34 |
 | 🟡 Pixels | $0.000020 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:48 |
 | 🟡 uAI | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:23 |
 | 🟡 LIFE | $0.000013 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:05 |
@@ -45,7 +45,7 @@
 | 🔴 honkermog | $0.000032 | **0.65x** ($-35) | 1.03x |  | pumpswap | 2026-03-20 18:16 |
 | 🟡 CHIBI | $0.000014 | **1.12x** ($+12) | 1.12x |  | pumpswap | 2026-03-20 18:08 |
 | 🔴 ARIA | $0.000021 | **0.59x** ($-41) | 1.00x |  | pumpswap | 2026-03-20 17:12 |
-| 🟡 Hamster | $0.000021 | **1.62x** ($+62) | 1.72x |  | pumpswap | 2026-03-20 17:00 |
+| 🟡 Hamster | $0.000021 | **1.82x** ($+82) | 1.83x |  | pumpswap | 2026-03-20 17:00 |
 | 🔴 Ouroboros | $0.000023 | **0.52x** ($-48) | 1.05x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 CHIBIELON | $0.000032 | **0.75x** ($-25) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 Saleh | $0.000018 | **0.75x** ($-25) | 1.21x |  | pumpswap | 2026-03-20 08:48 |
