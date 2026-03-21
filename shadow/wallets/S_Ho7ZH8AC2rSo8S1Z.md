@@ -1,25 +1,24 @@
 # Wallet: `Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb`
 
-> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 12:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | [Solscan](https://solscan.io/account/Ho7ZH8AC2rSo8S1ZVVmqAiRfwGNZpJZXLNxpY6FVWzrb) | Updated: 2026-03-21 12:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 29 (18 open, 11 closed) |
-| W/L | 1/10 (9%) |
-| 💵 Realized | $-92 |
+| Positions | 29 (17 open, 12 closed) |
+| W/L | 1/11 (8%) |
+| 💵 Realized | $-154 |
 | 📦 Unrealized | $+95 |
-| 🏦 Total | **$+3** |
+| 🏦 Total | **$-59** |
 | Best ROI | 5.85x |
-| Avg ROI | 0.92x |
+| Avg ROI | 0.87x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 Toly | $0.000015 | **0.92x** ($-8) | 1.13x |  | pumpfun | 2026-03-21 12:06 |
-| 🟡 wolverine | $0.000018 | **1.42x** ($+42) | 1.61x |  | pumpfun | 2026-03-21 11:44 |
+| 🟡 wolverine | $0.000018 | **1.34x** ($+34) | 1.61x |  | pumpfun | 2026-03-21 11:44 |
 | 🟡 Toly | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:24 |
 | 🔴 Beecat | $0.000009 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-21 00:27 |
 | 🔴 Income | $0.000020 | **0.65x** ($-35) | 1.36x |  | pumpswap | 2026-03-20 23:51 |
@@ -41,6 +40,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 Toly | 0.37x | $-63 | stop_loss | 1.13x | pumpfun | 2026-03-21 12:06 → 2026-03-21 12:39 |
 | 🔴 Froge | 0.36x | $-64 | stop_loss | 1.69x | pumpfun | 2026-03-21 00:03 → 2026-03-21 00:06 |
 | 🔴 LIBERTY | 0.40x | $-60 | stop_loss | 1.18x | pumpfun | 2026-03-20 22:46 → 2026-03-20 22:46 |
 | 🔴 Elongate | 0.40x | $-60 | stop_loss | 1.21x | pumpswap | 2026-03-20 22:24 → 2026-03-21 01:04 |

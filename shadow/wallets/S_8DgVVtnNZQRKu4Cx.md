@@ -1,16 +1,16 @@
 # Wallet: `8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU`
 
-> [GMGN](https://gmgn.ai/sol/address/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | [Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-21 12:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | [Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-21 12:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 8 (1 open, 7 closed) |
+| Positions | 9 (2 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-351 |
-| 📦 Unrealized | $-49 |
-| 🏦 Total | **$-400** |
+| 📦 Unrealized | $-15 |
+| 🏦 Total | **$-366** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.50x |
 
@@ -18,7 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 MOONER | $0.000007 | **0.51x** ($-49) | 1.67x |  | pumpfun | 2026-03-21 12:28 |
+| 🟡 EMY | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:35 |
+| 🔴 MOONER | $0.000007 | **0.85x** ($-15) | 1.67x |  | pumpfun | 2026-03-21 12:28 |
 
 ## Closed Positions
 

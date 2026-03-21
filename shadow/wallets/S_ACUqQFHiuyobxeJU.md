@@ -1,24 +1,23 @@
 # Wallet: `ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E`
 
-> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-21 12:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | [Solscan](https://solscan.io/account/ACUqQFHiuyobxeJUW6dvppZyfqkce2EJLhVu9Zf2iL1E) | Updated: 2026-03-21 12:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 37 (17 open, 20 closed) |
-| W/L | 2/18 (10%) |
-| 💵 Realized | $-914 |
-| 📦 Unrealized | $+29 |
-| 🏦 Total | **$-885** |
+| Positions | 37 (16 open, 21 closed) |
+| W/L | 2/19 (10%) |
+| 💵 Realized | $-978 |
+| 📦 Unrealized | $-13 |
+| 🏦 Total | **$-991** |
 | Best ROI | 1.44x |
-| Avg ROI | 0.54x |
+| Avg ROI | 0.53x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 BUST | $0.000008 | **1.42x** ($+42) | 1.77x |  | pumpfun | 2026-03-21 12:31 |
 | 🚀 9erfJEY2 | $0.000007 | **5.19x** ($+419) | 5.19x | ✅ | pumpfun | 2026-03-20 20:55 |
 | 🔴 6dHNBjcn | $0.000006 | **0.41x** ($-59) | 1.63x |  | pumpfun | 2026-03-20 19:52 |
 | 🟢 VITALY | $0.000010 | **3.77x** ($+277) | 3.77x | ✅ | pumpfun | 2026-03-20 18:23 |
@@ -40,6 +39,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🔴 BUST | 0.36x | $-64 | stop_loss | 1.77x | pumpfun | 2026-03-21 12:31 → 2026-03-21 12:38 |
 | 🟡 HQxktqB9 | 1.44x | $+44 | trailing_stop_3x | 3.47x | pumpfun | 2026-03-21 11:02 → 2026-03-21 11:17 |
 | 🔴 genocide | 0.30x | $-70 | stop_loss | 1.02x | pumpfun | 2026-03-20 21:27 → 2026-03-20 21:28 |
 | 🔴 XGohBVD3 | 0.40x | $-60 | stop_loss | 1.30x | pumpfun | 2026-03-20 21:22 → 2026-03-20 21:23 |

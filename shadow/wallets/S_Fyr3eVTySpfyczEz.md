@@ -1,6 +1,6 @@
 # Wallet: `Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL`
 
-> [GMGN](https://gmgn.ai/sol/address/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | [Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-21 12:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | [Solscan](https://solscan.io/account/Fyr3eVTySpfyczEzUFcJ3SPtEKRwWKhxsmAWLghwP3FL) | Updated: 2026-03-21 12:40 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 12 (8 open, 4 closed) |
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-213 |
-| 📦 Unrealized | $-37 |
-| 🏦 Total | **$-250** |
+| 📦 Unrealized | $+13 |
+| 🏦 Total | **$-200** |
 | Best ROI | 0.69x |
 | Avg ROI | 0.47x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 emy | $0.000008 | **1.10x** ($+10) | 1.36x |  | pumpswap | 2026-03-21 12:34 |
+| 🟢 emy | $0.000008 | **2.21x** ($+121) | 2.92x | ✅ | pumpswap | 2026-03-21 12:34 |
 | 🟡 菲比啾比 | $0.000007 | **1.02x** ($+2) | 1.20x |  | pumpfun | 2026-03-21 11:32 |
 | 🔴 imagineslop | $0.000009 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 10:44 |
 | 🟡 OFFLINE | $0.000009 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 10:43 |

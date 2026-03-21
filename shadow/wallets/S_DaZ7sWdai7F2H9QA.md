@@ -1,12 +1,12 @@
 # Wallet: `DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9`
 
-> [GMGN](https://gmgn.ai/sol/address/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | [Solscan](https://solscan.io/account/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | Updated: 2026-03-21 12:35 UTC
+> [GMGN](https://gmgn.ai/sol/address/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | [Solscan](https://solscan.io/account/DaZ7sWdai7F2H9QA61W73arrTnRtFRDNCJJtPtFWXUR9) | Updated: 2026-03-21 12:40 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 3 (3 open, 0 closed) |
+| Positions | 4 (4 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
 | 📦 Unrealized | $-9 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 WRT | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 12:37 |
 | 🟡 XPXGOLD | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-20 12:36 |
 | 🟡 DOME | $0.000009 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 08:44 |
 | 🔴 USAOIL | $0.000005 | **0.91x** ($-9) | 1.00x |  | pumpfun | 2026-03-20 02:37 |
