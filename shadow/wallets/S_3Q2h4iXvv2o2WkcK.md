@@ -1,26 +1,26 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 11:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 11:20 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 34 (26 open, 8 closed) |
-| W/L | 1/7 (12%) |
-| 💵 Realized | $-372 |
-| 📦 Unrealized | $-250 |
-| 🏦 Total | **$-622** |
-| Best ROI | 1.50x |
-| Avg ROI | 0.53x |
+| Positions | 35 (26 open, 9 closed) |
+| W/L | 2/7 (22%) |
+| 💵 Realized | $-178 |
+| 📦 Unrealized | $-325 |
+| 🏦 Total | **$-503** |
+| Best ROI | 2.95x |
+| Avg ROI | 0.80x |
 
 ## Open Positions
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 Dogue | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 11:17 |
 | 🟡 Sunshine | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 08:48 |
 | 🟡 JAMEELA | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 07:05 |
-| 🟢 Grokputer | $0.000018 | **3.46x** ($+246) | 8.08x | ✅ | pumpswap | 2026-03-21 05:15 |
 | 🟡 p-token | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:38 |
 | 🔴 Spiderman | $0.000029 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-21 02:40 |
 | 🟡 LIFE | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:29 |
@@ -49,6 +49,7 @@
 
 | Token | Result | P&L | Reason | Peak | Pool | Entry → Exit |
 |-------|--------|-----|--------|------|------|-------------|
+| 🟢 Grokputer | 2.95x | $+195 | trailing_stop_8x | 8.08x | pumpswap | 2026-03-21 05:15 → 2026-03-21 11:18 |
 | 🔴 genocide | 0.39x | $-61 | stop_loss | 1.36x | pumpswap | 2026-03-20 22:05 → 2026-03-20 23:14 |
 | 🔴 SNIFFER | 0.39x | $-61 | stop_loss | 1.49x | pumpswap | 2026-03-20 18:46 → 2026-03-20 22:57 |
 | 🔴 ME | 0.39x | $-61 | stop_loss | 1.00x | pumpswap | 2026-03-20 17:12 → 2026-03-21 02:40 |
