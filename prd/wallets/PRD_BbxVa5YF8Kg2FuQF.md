@@ -1,6 +1,6 @@
 # PRD Wallet: `BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW`
 
-> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-21 06:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | [Solscan](https://solscan.io/account/BbxVa5YF8Kg2FuQFhDKCBRRYyZk4ZcG36Tbd4p5CijLW) | Updated: 2026-03-21 06:45 UTC
 
 ## Summary
 

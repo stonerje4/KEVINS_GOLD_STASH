@@ -1,6 +1,6 @@
 # Wallet: `BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5`
 
-> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 06:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | [Solscan](https://solscan.io/account/BrawzCH5Vk112TFhX2D1PRhTvpF5wieoCR7bhC3WdKE5) | Updated: 2026-03-21 06:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 181 (175 open, 6 closed) |
 | W/L | 2/4 (33%) |
 | 💵 Realized | $+47 |
-| 📦 Unrealized | $-1,141 |
-| 🏦 Total | **$-1,094** |
+| 📦 Unrealized | $-1,137 |
+| 🏦 Total | **$-1,090** |
 | Best ROI | 2.99x |
 | Avg ROI | 1.08x |
 
@@ -21,7 +21,7 @@
 | 🟡 Pixels | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 Income | $0.000012 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:33 |
 | 🟡 SHOEBILL | $0.000039 | **1.03x** ($+3) | 1.05x |  | pumpswap | 2026-03-21 05:10 |
-| 🟡 CHIBELON | $0.000024 | **1.40x** ($+40) | 2.04x | ✅ | pumpswap | 2026-03-21 04:39 |
+| 🟡 CHIBELON | $0.000024 | **1.44x** ($+44) | 2.04x | ✅ | pumpswap | 2026-03-21 04:39 |
 | 🔴 Joobi | $0.000009 | **0.95x** ($-5) | 1.25x |  | pumpswap | 2026-03-21 04:32 |
 | 🔴 X COINS | $0.000017 | **0.92x** ($-8) | 1.00x |  | pumpswap | 2026-03-21 04:06 |
 | 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
@@ -72,9 +72,9 @@
 | 🔴 foid | $0.000020 | **0.74x** ($-26) | 1.09x |  | pumpswap | 2026-03-20 14:29 |
 | 🟡 Socrates | $0.000031 | **1.11x** ($+11) | 1.14x |  | pumpswap | 2026-03-20 14:29 |
 | 🔴 Pixel | $0.000011 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
-| 🟡 Higuruma | $0.000016 | **1.96x** ($+96) | 2.05x | ✅ | pumpswap | 2026-03-20 14:25 |
+| 🟢 Higuruma | $0.000016 | **2.07x** ($+107) | 2.07x | ✅ | pumpswap | 2026-03-20 14:25 |
 | 🔴 ORAMAMA | $0.000010 | **0.90x** ($-10) | 1.02x |  | pumpswap | 2026-03-20 14:13 |
-| 🟢 DOGEFATHER | $0.000013 | **3.12x** ($+212) | 3.51x | ✅ | pumpswap | 2026-03-20 13:43 |
+| 🟢 DOGEFATHER | $0.000013 | **3.03x** ($+203) | 3.51x | ✅ | pumpswap | 2026-03-20 13:43 |
 | 🔴 X | $0.000014 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 LUNAR | $0.000038 | **0.81x** ($-19) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 Squishy | $0.000016 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:37 |

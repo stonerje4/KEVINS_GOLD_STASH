@@ -1,6 +1,6 @@
 # Wallet: `7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p`
 
-> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 06:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | [Solscan](https://solscan.io/account/7t9kYGrqtrSbGoQ6sfhfUS2UX4wYgekKek1AKPmEnS4p) | Updated: 2026-03-21 06:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 191 (183 open, 8 closed) |
 | W/L | 2/6 (25%) |
 | 💵 Realized | $-34 |
-| 📦 Unrealized | $-1,349 |
-| 🏦 Total | **$-1,383** |
+| 📦 Unrealized | $-1,338 |
+| 🏦 Total | **$-1,373** |
 | Best ROI | 3.00x |
 | Avg ROI | 0.96x |
 
@@ -65,7 +65,7 @@
 | 🔴 Pixel | $0.000011 | **0.87x** ($-13) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 Newscum | $0.000024 | **0.85x** ($-15) | 1.00x |  | pumpswap | 2026-03-20 14:20 |
 | 🟡 GameTheory | $0.000015 | **1.47x** ($+47) | 1.64x |  | pumpswap | 2026-03-20 14:15 |
-| 🟡 Higuruma | $0.000020 | **1.61x** ($+61) | 1.69x |  | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000020 | **1.70x** ($+70) | 1.70x |  | pumpswap | 2026-03-20 14:09 |
 | 🔴 chibify | $0.000011 | **0.56x** ($-44) | 1.00x |  | pumpswap | 2026-03-20 13:49 |
 | 🟡 Yahu | $0.000025 | **1.02x** ($+2) | 1.02x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000037 | **0.84x** ($-16) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
@@ -183,7 +183,7 @@
 | 🔴 来根华子 | $0.000010 | **0.98x** ($-2) | 1.03x |  | pumpswap | 2026-03-19 23:44 |
 | 🔴 bio/acc | $0.000017 | **0.95x** ($-5) | 1.06x |  | pumpswap | 2026-03-19 23:41 |
 | 🟡 TheSpot | $0.000016 | **1.18x** ($+18) | 1.18x |  | pumpswap | 2026-03-19 23:40 |
-| 🔴 Otome | $0.000017 | **0.77x** ($-23) | 1.31x |  | pumpswap | 2026-03-19 23:33 |
+| 🔴 Otome | $0.000017 | **0.79x** ($-21) | 1.31x |  | pumpswap | 2026-03-19 23:33 |
 | 🔴 Xingxing | $0.000026 | **0.82x** ($-18) | 1.04x |  | pumpswap | 2026-03-19 23:32 |
 | 🔴 AMBER | $0.000013 | **0.88x** ($-12) | 1.17x |  | pumpswap | 2026-03-19 23:29 |
 | 🔴 Hamster | $0.000037 | **0.87x** ($-13) | 1.15x |  | pumpswap | 2026-03-19 23:27 |

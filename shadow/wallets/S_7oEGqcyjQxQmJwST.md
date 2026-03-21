@@ -1,6 +1,6 @@
 # Wallet: `7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr`
 
-> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 06:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | [Solscan](https://solscan.io/account/7oEGqcyjQxQmJwST191xvEqhmEt8nhMM8QvUmmciuokr) | Updated: 2026-03-21 06:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 6 (4 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-77 |
-| 📦 Unrealized | $+75 |
-| 🏦 Total | **$-2** |
+| 📦 Unrealized | $+74 |
+| 🏦 Total | **$-3** |
 | Best ROI | 0.83x |
 | Avg ROI | 0.62x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 grokputer | $0.000014 | **1.68x** ($+68) | 1.68x |  | pumpfun | 2026-03-21 04:22 |
-| 🔴 C1ZWqmPS | $0.000005 | **0.55x** ($-45) | 1.99x |  | pumpfun | 2026-03-21 03:53 |
+| 🟡 grokputer | $0.000014 | **1.71x** ($+71) | 1.74x |  | pumpfun | 2026-03-21 04:22 |
+| 🔴 C1ZWqmPS | $0.000005 | **0.52x** ($-48) | 1.99x |  | pumpfun | 2026-03-21 03:53 |
 | 🟡 NOR | $0.000006 | **1.59x** ($+59) | 1.59x |  | pumpfun | 2026-03-21 02:19 |
 | 🔴 CHAD | $0.000008 | **0.92x** ($-8) | 1.14x |  | pumpfun | 2026-03-21 01:13 |
 

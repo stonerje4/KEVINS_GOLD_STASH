@@ -1,6 +1,6 @@
 # Wallet: `3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7`
 
-> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 06:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | [Solscan](https://solscan.io/account/3Q2h4iXvv2o2WkcKg3ZzqNSHaxnCYRbMNSMPDbpRe8E7) | Updated: 2026-03-21 06:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 32 (24 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-372 |
-| 📦 Unrealized | $-276 |
-| 🏦 Total | **$-649** |
+| 📦 Unrealized | $-278 |
+| 🏦 Total | **$-651** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.53x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Grokputer | $0.000018 | **1.10x** ($+10) | 1.13x |  | pumpswap | 2026-03-21 05:15 |
+| 🟡 Grokputer | $0.000018 | **1.08x** ($+8) | 1.13x |  | pumpswap | 2026-03-21 05:15 |
 | 🟡 p-token | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:38 |
 | 🔴 Spiderman | $0.000029 | **0.97x** ($-3) | 1.08x |  | pumpswap | 2026-03-21 02:40 |
 | 🟡 LIFE | $0.000018 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 01:29 |

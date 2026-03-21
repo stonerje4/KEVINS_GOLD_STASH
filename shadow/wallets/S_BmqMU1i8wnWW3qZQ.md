@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 06:40 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 06:45 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,415 |
-| 🏦 Total | **$-2,537** |
+| 📦 Unrealized | $-2,406 |
+| 🏦 Total | **$-2,528** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -33,7 +33,7 @@
 | 🔴 Pixel | $0.000011 | **0.83x** ($-17) | 1.00x |  | pumpswap | 2026-03-20 14:28 |
 | 🔴 ORAMAMA | $0.000011 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 14:13 |
 | 🔴 Sonny | $0.000005 | **0.55x** ($-45) | 1.00x |  | pumpswap | 2026-03-20 14:11 |
-| 🟡 Higuruma | $0.000022 | **1.49x** ($+49) | 1.56x |  | pumpswap | 2026-03-20 14:09 |
+| 🟡 Higuruma | $0.000022 | **1.58x** ($+58) | 1.58x |  | pumpswap | 2026-03-20 14:09 |
 | 🔴 Yahu | $0.000028 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 13:44 |
 | 🔴 LUNAR | $0.000040 | **0.78x** ($-22) | 1.00x |  | pumpswap | 2026-03-20 13:41 |
 | 🔴 NMF | $0.000021 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 13:04 |
@@ -69,7 +69,7 @@
 | 🔴 JJK | $0.000005 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
 | 🔴 Billy | $0.000007 | **0.51x** ($-49) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
 | 🔴 HOWL | $0.000011 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 07:03 |
-| 🔴 Otome | $0.000018 | **0.73x** ($-27) | 1.24x |  | pumpswap | 2026-03-20 07:01 |
+| 🔴 Otome | $0.000018 | **0.74x** ($-26) | 1.24x |  | pumpswap | 2026-03-20 07:01 |
 | 🟡 XAI | $0.000010 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-20 06:58 |
 | 🔴 PARK | $0.000022 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 06:51 |
 | 🔴 PATRIOT | $0.000012 | **0.68x** ($-32) | 1.00x |  | pumpswap | 2026-03-20 06:47 |
@@ -151,7 +151,7 @@
 | 🔴 OIL | $0.000006 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 02:00 |
 | 🔴 foid | $0.000017 | **0.85x** ($-15) | 1.25x |  | pumpswap | 2026-03-20 02:00 |
 | 🔴 DoubleT | $0.000030 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 01:55 |
-| 🟢 DAWAE | $0.000012 | **2.59x** ($+159) | 2.72x | ✅ | pumpswap | 2026-03-20 01:54 |
+| 🟢 DAWAE | $0.000012 | **2.58x** ($+158) | 2.72x | ✅ | pumpswap | 2026-03-20 01:54 |
 | 🔴 MINT | $0.000022 | **0.79x** ($-21) | 1.08x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Hamster | $0.000035 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
 | 🔴 Garbonzo | $0.000006 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-20 01:52 |
