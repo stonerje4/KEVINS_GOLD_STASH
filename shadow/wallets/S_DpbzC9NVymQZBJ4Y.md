@@ -1,6 +1,6 @@
 # Wallet: `DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8`
 
-> [GMGN](https://gmgn.ai/sol/address/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | [Solscan](https://solscan.io/account/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | Updated: 2026-03-21 13:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | [Solscan](https://solscan.io/account/DpbzC9NVymQZBJ4Y3pei5mBorh3kDeTWEEHjBqxHkAM8) | Updated: 2026-03-21 14:00 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/4 (0%) |
 | 💵 Realized | $-201 |
 | 📦 Unrealized | $-24 |
-| 🏦 Total | **$-225** |
+| 🏦 Total | **$-224** |
 | Best ROI | 0.82x |
 | Avg ROI | 0.50x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🔴 Apple | $0.000022 | **0.62x** ($-38) | 1.01x |  | pumpswap | 2026-03-20 18:49 |
-| 🟡 Strawberita | $0.000034 | **1.27x** ($+27) | 2.49x | ✅ | pumpswap | 2026-03-19 22:48 |
+| 🟡 Strawberita | $0.000034 | **1.29x** ($+29) | 2.49x | ✅ | pumpswap | 2026-03-19 22:48 |
 
 ## Closed Positions
 

@@ -1,6 +1,6 @@
 # Wallet: `CozxEzBdDiGKxREAidMWVPbE2Me9sCqaU4PSUuGWgxCw`
 
-> [GMGN](https://gmgn.ai/sol/address/CozxEzBdDiGKxREAidMWVPbE2Me9sCqaU4PSUuGWgxCw) | [Solscan](https://solscan.io/account/CozxEzBdDiGKxREAidMWVPbE2Me9sCqaU4PSUuGWgxCw) | Updated: 2026-03-21 13:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/CozxEzBdDiGKxREAidMWVPbE2Me9sCqaU4PSUuGWgxCw) | [Solscan](https://solscan.io/account/CozxEzBdDiGKxREAidMWVPbE2Me9sCqaU4PSUuGWgxCw) | Updated: 2026-03-21 14:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 1 (1 open, 0 closed) |
 | W/L | 0/0 (0%) |
 | 💵 Realized | $+0 |
-| 📦 Unrealized | $-26 |
-| 🏦 Total | **$-26** |
+| 📦 Unrealized | $-33 |
+| 🏦 Total | **$-33** |
 | Best ROI | 0.00x |
 | Avg ROI | 0.00x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🔴 emy | $0.000032 | **0.74x** ($-26) | 1.31x |  | pumpswap | 2026-03-21 13:31 |
+| 🔴 emy | $0.000032 | **0.67x** ($-33) | 1.31x |  | pumpswap | 2026-03-21 13:31 |
 
 ## Closed Positions
 

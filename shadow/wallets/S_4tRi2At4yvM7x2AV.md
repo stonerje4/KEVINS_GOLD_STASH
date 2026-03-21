@@ -1,6 +1,6 @@
 # Wallet: `4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA`
 
-> [GMGN](https://gmgn.ai/sol/address/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA) | [Solscan](https://solscan.io/account/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA) | Updated: 2026-03-21 13:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA) | [Solscan](https://solscan.io/account/4tRi2At4yvM7x2AVeu8bkyEiHJiRaShpmSrXzQVt5KpA) | Updated: 2026-03-21 14:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 8 (7 open, 1 closed) |
 | W/L | 1/0 (100%) |
 | 💵 Realized | $+38 |
-| 📦 Unrealized | $-95 |
-| 🏦 Total | **$-57** |
+| 📦 Unrealized | $-92 |
+| 🏦 Total | **$-54** |
 | Best ROI | 1.38x |
 | Avg ROI | 1.38x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Fk9r5Tr2 | $0.000011 | **1.59x** ($+59) | 1.72x |  | pumpfun | 2026-03-21 12:59 |
-| 🟡 Astro | $0.000007 | **1.12x** ($+12) | 2.43x | ✅ | pumpfun | 2026-03-21 12:18 |
+| 🟡 Fk9r5Tr2 | $0.000011 | **1.60x** ($+60) | 1.72x |  | pumpfun | 2026-03-21 12:59 |
+| 🟡 Astro | $0.000007 | **1.16x** ($+16) | 2.43x | ✅ | pumpfun | 2026-03-21 12:18 |
 | 🟡 CHIBI | $0.000006 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 23:51 |
 | 🟡 CHIBI | $0.000010 | **1.00x** ($+0) | 1.00x |  | dlmm | 2026-03-20 11:02 |
 | 🔴 agentevent | $0.000007 | **0.47x** ($-53) | 1.75x |  | pumpfun | 2026-03-20 08:14 |

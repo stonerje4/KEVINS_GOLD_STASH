@@ -1,6 +1,6 @@
 # Wallet: `NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv`
 
-> [GMGN](https://gmgn.ai/sol/address/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | [Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-21 13:55 UTC
+> [GMGN](https://gmgn.ai/sol/address/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | [Solscan](https://solscan.io/account/NuKeRR3Pcc44Kn2J4pVbPuM7B31ejZkwZXmyE2KxGgv) | Updated: 2026-03-21 14:00 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 5 (2 open, 3 closed) |
 | W/L | 1/2 (33%) |
 | 💵 Realized | $+45 |
-| 📦 Unrealized | $-10 |
-| 🏦 Total | **$+34** |
+| 📦 Unrealized | $-19 |
+| 🏦 Total | **$+26** |
 | Best ROI | 2.67x |
 | Avg ROI | 1.15x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 wolverine | $0.000009 | **2.03x** ($+103) | 3.41x | ✅ | pumpfun | 2026-03-20 08:05 |
+| 🟡 wolverine | $0.000009 | **1.82x** ($+82) | 3.41x | ✅ | pumpfun | 2026-03-20 08:05 |
 | 🔴 DRIVE | $0.000034 | **0.48x** ($-52) | 1.00x |  | pumpswap | 2026-03-20 01:22 |
 
 ## Closed Positions
