@@ -1,16 +1,16 @@
 # Wallet: `5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV`
 
-> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-21 05:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | [Solscan](https://solscan.io/account/5iZvwfoMdnxXpPGw9hBKEz3tHv2jYG3TgExHDsWrpTyV) | Updated: 2026-03-21 05:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 22 (15 open, 7 closed) |
+| Positions | 23 (16 open, 7 closed) |
 | W/L | 1/6 (14%) |
 | 💵 Realized | $-242 |
-| 📦 Unrealized | $+73 |
-| 🏦 Total | **$-168** |
+| 📦 Unrealized | $+19 |
+| 🏦 Total | **$-223** |
 | Best ROI | 1.02x |
 | Avg ROI | 0.65x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🔴 됴지님 | $0.000006 | **0.45x** ($-55) | 1.08x |  | pumpfun | 2026-03-21 05:06 |
 | 🔴 Billy | $0.000006 | **0.61x** ($-39) | 1.07x |  | pumpswap | 2026-03-21 03:55 |
 | 🔴 BABIFY | $0.000009 | **0.72x** ($-28) | 1.26x |  | pumpswap | 2026-03-21 00:22 |
 | 🔴 Babyify | $0.000015 | **0.64x** ($-36) | 1.89x |  | pumpfun | 2026-03-21 00:22 |

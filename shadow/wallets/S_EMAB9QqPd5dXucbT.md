@@ -1,6 +1,6 @@
 # Wallet: `EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv`
 
-> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 05:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | [Solscan](https://solscan.io/account/EMAB9QqPd5dXucbTyhmCUYgV7CLTGZDdZ325tZcj45iv) | Updated: 2026-03-21 05:10 UTC
 
 ## Summary
 
@@ -10,7 +10,7 @@
 | W/L | 0/1 (0%) |
 | 💵 Realized | $-42 |
 | 📦 Unrealized | $-77 |
-| 🏦 Total | **$-119** |
+| 🏦 Total | **$-120** |
 | Best ROI | 0.58x |
 | Avg ROI | 0.58x |
 
@@ -24,7 +24,7 @@
 | 🔴 Massive | $0.000021 | **0.71x** ($-29) | 1.56x |  | pumpswap | 2026-03-20 05:22 |
 | 🟢 PIKE | $0.000034 | **2.05x** ($+105) | 2.64x | ✅ | pumpswap | 2026-03-20 05:16 |
 | 🔴 しずく | $0.000022 | **0.70x** ($-30) | 1.00x |  | pumpswap | 2026-03-20 04:02 |
-| 🔴 MILO | $0.000006 | **0.86x** ($-14) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
+| 🔴 MILO | $0.000006 | **0.85x** ($-15) | 1.06x |  | pumpswap | 2026-03-20 03:31 |
 | 🟡 Hamster | $0.000034 | **1.01x** ($+1) | 1.02x |  | pumpswap | 2026-03-20 03:07 |
 | 🟡 Forget | $0.000007 | **1.16x** ($+16) | 1.84x |  | pumpswap | 2026-03-20 01:56 |
 | 🟡 tetanus | $0.000012 | **1.05x** ($+5) | 1.05x |  | pumpswap | 2026-03-20 01:51 |
