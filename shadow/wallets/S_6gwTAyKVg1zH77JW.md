@@ -1,6 +1,6 @@
 # Wallet: `6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz`
 
-> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 10:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | [Solscan](https://solscan.io/account/6gwTAyKVg1zH77JWhZceuHFXH3bJz8jaRyrYrHYaXuqz) | Updated: 2026-03-21 10:25 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 99 (91 open, 8 closed) |
 | W/L | 4/4 (50%) |
 | 💵 Realized | $+92 |
-| 📦 Unrealized | $-500 |
-| 🏦 Total | **$-408** |
+| 📦 Unrealized | $-503 |
+| 🏦 Total | **$-412** |
 | Best ROI | 2.91x |
 | Avg ROI | 1.11x |
 
@@ -28,7 +28,7 @@
 | 🔴 SPIRITS | $0.000011 | **0.68x** ($-32) | 1.04x |  | pumpswap | 2026-03-20 16:20 |
 | 🔴 ANIME | $0.000005 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-20 16:09 |
 | 🟡 Optimus | $0.000034 | **1.48x** ($+48) | 1.49x |  | pumpswap | 2026-03-20 15:20 |
-| 🟡 OCTOPUS | $0.000009 | **1.74x** ($+74) | 2.22x | ✅ | pumpswap | 2026-03-20 15:15 |
+| 🟡 OCTOPUS | $0.000009 | **1.70x** ($+70) | 2.22x | ✅ | pumpswap | 2026-03-20 15:15 |
 | 🔴 HAMILTON | $0.000012 | **0.74x** ($-26) | 1.02x |  | pumpswap | 2026-03-20 15:05 |
 | 🟡 CaliFraud | $0.000005 | **1.01x** ($+1) | 1.01x |  | pumpswap | 2026-03-20 15:03 |
 | 🔴 clod | $0.000030 | **0.45x** ($-55) | 1.32x |  | pumpswap | 2026-03-20 15:00 |
@@ -41,7 +41,7 @@
 | 🟡 Squishy | $0.000017 | **1.12x** ($+12) | 1.13x |  | pumpswap | 2026-03-20 13:37 |
 | 🔴 CLAIR | $0.000014 | **0.81x** ($-19) | 1.04x |  | pumpswap | 2026-03-20 13:28 |
 | 🔴 NICK | $0.000026 | **0.93x** ($-7) | 1.16x |  | pumpswap | 2026-03-20 13:22 |
-| 🟡 TFW | $0.000022 | **1.59x** ($+59) | 3.23x | ✅ | pumpswap | 2026-03-20 12:38 |
+| 🟡 TFW | $0.000022 | **1.60x** ($+60) | 3.23x | ✅ | pumpswap | 2026-03-20 12:38 |
 | 🔴 Speak | $0.000022 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 12:31 |
 | 🔴 honkermog | $0.000039 | **0.53x** ($-47) | 1.00x |  | pumpswap | 2026-03-20 12:23 |
 | 🔴 Joobi | $0.000010 | **0.87x** ($-13) | 1.20x |  | pumpswap | 2026-03-20 11:49 |

@@ -1,12 +1,12 @@
 # Wallet: `2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx`
 
-> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-21 10:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | [Solscan](https://solscan.io/account/2VZ66dVQEhnRKqUsiMMukMAnvcMp5RGisVvXwWJRFVTx) | Updated: 2026-03-21 10:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 19 (11 open, 8 closed) |
+| Positions | 20 (12 open, 8 closed) |
 | W/L | 1/7 (12%) |
 | 💵 Realized | $-190 |
 | 📦 Unrealized | $-131 |
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 F3 | $0.000015 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:22 |
 | 🔴 Forget | $0.000012 | **0.69x** ($-31) | 1.09x |  | pumpswap | 2026-03-20 19:28 |
 | 🟡 OIIA | $0.000021 | **1.25x** ($+25) | 1.84x |  | pumpswap | 2026-03-20 14:12 |
 | 🟡 Miki | $0.000012 | **1.17x** ($+17) | 1.37x |  | pumpfun | 2026-03-20 13:46 |

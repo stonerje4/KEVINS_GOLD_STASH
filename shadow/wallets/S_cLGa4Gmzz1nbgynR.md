@@ -1,16 +1,16 @@
 # Wallet: `cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD`
 
-> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 10:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | [Solscan](https://solscan.io/account/cLGa4Gmzz1nbgynRuKmTvvb1bacygMjtffX5DKDZGmD) | Updated: 2026-03-21 10:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 78 (59 open, 19 closed) |
+| Positions | 79 (60 open, 19 closed) |
 | W/L | 2/17 (11%) |
 | 💵 Realized | $-656 |
-| 📦 Unrealized | $-479 |
-| 🏦 Total | **$-1,136** |
+| 📦 Unrealized | $-480 |
+| 🏦 Total | **$-1,137** |
 | Best ROI | 2.97x |
 | Avg ROI | 0.65x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 CAINE | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:23 |
 | 🟡 DogeFather | $0.000016 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:54 |
 | 🟡 SNIFFER | $0.000022 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 06:13 |
 | 🟡 uAI | $0.000019 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 05:23 |

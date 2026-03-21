@@ -1,16 +1,16 @@
 # Wallet: `8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU`
 
-> [GMGN](https://gmgn.ai/sol/address/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | [Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-21 10:20 UTC
+> [GMGN](https://gmgn.ai/sol/address/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | [Solscan](https://solscan.io/account/8DgVVtnNZQRKu4Cx6xeAMTukUHMTE3f2Cqb1wMzJ9beU) | Updated: 2026-03-21 10:25 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 5 (0 open, 5 closed) |
+| Positions | 6 (1 open, 5 closed) |
 | W/L | 1/4 (20%) |
 | 💵 Realized | $-222 |
-| 📦 Unrealized | $+0 |
-| 🏦 Total | **$-222** |
+| 📦 Unrealized | $+11 |
+| 🏦 Total | **$-211** |
 | Best ROI | 1.48x |
 | Avg ROI | 0.56x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 GoutGout | $0.000020 | **1.11x** ($+11) | 1.25x |  | pumpfun | 2026-03-21 10:21 |
 
 ## Closed Positions
 
