@@ -1,6 +1,6 @@
 # Wallet: `HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK`
 
-> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 03:30 UTC
+> [GMGN](https://gmgn.ai/sol/address/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | [Solscan](https://solscan.io/account/HjLFpRtoZVKJ1QxqBYXgCtZbGbDmPrqEHbqYTpehnDgK) | Updated: 2026-03-21 03:35 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 90 (88 open, 2 closed) |
 | W/L | 1/1 (50%) |
 | 💵 Realized | $+137 |
-| 📦 Unrealized | $-60 |
-| 🏦 Total | **$+77** |
+| 📦 Unrealized | $-26 |
+| 🏦 Total | **$+110** |
 | Best ROI | 2.97x |
 | Avg ROI | 1.68x |
 
@@ -99,7 +99,7 @@
 | 🟡 italianrot | $0.000006 | **1.04x** ($+4) | 1.13x |  | pumpswap | 2026-03-20 01:05 |
 | 🟡 KENJI | $0.000029 | **1.04x** ($+4) | 1.08x |  | pumpswap | 2026-03-20 00:50 |
 | 🔴 CRINE | $0.000011 | **0.93x** ($-7) | 1.07x |  | pumpswap | 2026-03-20 00:46 |
-| 🔴 FAFO | $0.000019 | **0.88x** ($-12) | 1.00x |  | pumpswap | 2026-03-20 00:16 |
+| 🟡 FAFO | $0.000019 | **1.22x** ($+22) | 1.22x |  | pumpswap | 2026-03-20 00:16 |
 | 🟡 wallahi | $0.000034 | **1.02x** ($+2) | 1.07x |  | pumpswap | 2026-03-20 00:15 |
 | 🔴 bio/acc | $0.000017 | **0.93x** ($-7) | 1.04x |  | pumpswap | 2026-03-20 00:09 |
 | 🔴 5 | $0.000011 | **0.65x** ($-35) | 1.06x |  | pumpswap | 2026-03-19 23:36 |
