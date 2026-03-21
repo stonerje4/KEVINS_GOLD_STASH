@@ -1,6 +1,6 @@
 # Wallet: `FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa`
 
-> [GMGN](https://gmgn.ai/sol/address/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa) | [Solscan](https://solscan.io/account/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa) | Updated: 2026-03-21 04:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa) | [Solscan](https://solscan.io/account/FY5sWMqL2AQrsS2F4FAQMqHs6BUYyFXsS68FKzRVVKYa) | Updated: 2026-03-21 04:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 4 (2 open, 2 closed) |
 | W/L | 0/2 (0%) |
 | 💵 Realized | $-128 |
-| 📦 Unrealized | $-7 |
-| 🏦 Total | **$-135** |
+| 📦 Unrealized | $-46 |
+| 🏦 Total | **$-174** |
 | Best ROI | 0.36x |
 | Avg ROI | 0.36x |
 
@@ -18,7 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟡 Pixel | $0.000029 | **1.44x** ($+44) | 1.44x |  | pumpswap | 2026-03-21 04:04 |
+| 🟡 Pixel | $0.000029 | **1.11x** ($+11) | 3.00x | ✅ | pumpswap | 2026-03-21 04:04 |
 | 🔴 9dixUJjM | $0.000005 | **0.49x** ($-51) | 1.00x |  | pumpfun | 2026-03-20 02:11 |
 
 ## Closed Positions

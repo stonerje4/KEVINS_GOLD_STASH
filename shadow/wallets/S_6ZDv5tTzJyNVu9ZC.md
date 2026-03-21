@@ -1,16 +1,16 @@
 # Wallet: `6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe`
 
-> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 04:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | [Solscan](https://solscan.io/account/6ZDv5tTzJyNVu9ZCJQH9taaoptZnHhjsG9JekXfnnqqe) | Updated: 2026-03-21 04:10 UTC
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Positions | 156 (147 open, 9 closed) |
+| Positions | 157 (148 open, 9 closed) |
 | W/L | 2/7 (22%) |
 | 💵 Realized | $+6 |
-| 📦 Unrealized | $-716 |
-| 🏦 Total | **$-710** |
+| 📦 Unrealized | $-714 |
+| 🏦 Total | **$-707** |
 | Best ROI | 2.96x |
 | Avg ROI | 1.01x |
 
@@ -18,6 +18,7 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
+| 🟡 X COINS | $0.000016 | **1.03x** ($+3) | 1.03x |  | pumpswap | 2026-03-21 04:06 |
 | 🟡 Sperm | $0.000028 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 04:03 |
 | 🟡 TerpBot | $0.000014 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 03:35 |
 | 🟡 OXIDE | $0.000018 | **1.11x** ($+11) | 1.13x |  | pumpswap | 2026-03-21 02:15 |

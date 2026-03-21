@@ -1,6 +1,6 @@
 # Wallet: `BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W`
 
-> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 04:05 UTC
+> [GMGN](https://gmgn.ai/sol/address/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | [Solscan](https://solscan.io/account/BmqMU1i8wnWW3qZQybYiGjWHzHoJWYVnULX8xGkvR19W) | Updated: 2026-03-21 04:10 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 233 (221 open, 12 closed) |
 | W/L | 4/8 (33%) |
 | 💵 Realized | $-123 |
-| 📦 Unrealized | $-2,532 |
-| 🏦 Total | **$-2,655** |
+| 📦 Unrealized | $-2,554 |
+| 🏦 Total | **$-2,677** |
 | Best ROI | 2.75x |
 | Avg ROI | 0.90x |
 
@@ -67,7 +67,7 @@
 | 🔴 Alysa | $0.000006 | **0.91x** ($-9) | 1.00x |  | pumpswap | 2026-03-20 07:18 |
 | 🔴 XMONEY | $0.000029 | **0.93x** ($-7) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
 | 🔴 JJK | $0.000005 | **0.80x** ($-20) | 1.00x |  | pumpswap | 2026-03-20 07:12 |
-| 🔴 Billy | $0.000007 | **0.82x** ($-18) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
+| 🔴 Billy | $0.000007 | **0.62x** ($-38) | 1.00x |  | pumpswap | 2026-03-20 07:10 |
 | 🔴 HOWL | $0.000011 | **0.74x** ($-26) | 1.00x |  | pumpswap | 2026-03-20 07:03 |
 | 🔴 Otome | $0.000018 | **0.93x** ($-7) | 1.24x |  | pumpswap | 2026-03-20 07:01 |
 | 🔴 XAI | $0.000010 | **0.97x** ($-3) | 1.00x |  | pumpswap | 2026-03-20 06:58 |
@@ -190,7 +190,7 @@
 | 🟡 wallahi | $0.000033 | **1.03x** ($+3) | 1.08x |  | pumpswap | 2026-03-20 00:15 |
 | 🔴 Microwaved | $0.000029 | **0.73x** ($-27) | 1.00x |  | pumpswap | 2026-03-20 00:14 |
 | 🔴 DAU | $0.000008 | **0.90x** ($-10) | 1.00x |  | pumpswap | 2026-03-20 00:12 |
-| 🟡 FAKER | $0.000035 | **1.02x** ($+2) | 1.40x |  | pumpswap | 2026-03-20 00:07 |
+| 🔴 FAKER | $0.000035 | **0.99x** ($-1) | 1.40x |  | pumpswap | 2026-03-20 00:07 |
 | 🟡 WORLD | $0.000005 | **1.28x** ($+28) | 1.28x |  | pumpswap | 2026-03-20 00:04 |
 | 🔴 GOBLIN | $0.000016 | **0.86x** ($-14) | 1.04x |  | pumpswap | 2026-03-20 00:01 |
 | 🔴 oilcoin | $0.000009 | **0.94x** ($-6) | 1.00x |  | pumpswap | 2026-03-19 23:59 |
