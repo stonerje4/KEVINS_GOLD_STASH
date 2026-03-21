@@ -1,6 +1,6 @@
 # Wallet: `CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ`
 
-> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-21 12:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | [Solscan](https://solscan.io/account/CeZbzsqje88U7GCCrAiGUr5BrZrBJ3AkQMyG9aggDiqQ) | Updated: 2026-03-21 12:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 25 (14 open, 11 closed) |
 | W/L | 2/9 (18%) |
 | 💵 Realized | $-375 |
-| 📦 Unrealized | $+216 |
-| 🏦 Total | **$-159** |
+| 📦 Unrealized | $+207 |
+| 🏦 Total | **$-169** |
 | Best ROI | 1.49x |
 | Avg ROI | 0.66x |
 
@@ -19,7 +19,7 @@
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
 | 🟡 Tsuki | $0.000036 | **1.01x** ($+1) | 1.01x |  | pumpfun | 2026-03-21 11:51 |
-| 🟡 TRUDY | $0.000017 | **1.31x** ($+31) | 1.77x |  | pumpfun | 2026-03-21 11:12 |
+| 🟡 TRUDY | $0.000017 | **1.22x** ($+22) | 1.77x |  | pumpfun | 2026-03-21 11:12 |
 | 🟡 man | $0.000034 | **1.00x** ($+0) | 1.00x |  | pumpswap | 2026-03-21 10:55 |
 | 🟡 GoutGout | $0.000006 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 10:33 |
 | 🔴 Realize | $0.000019 | **0.98x** ($-2) | 1.27x |  | pumpswap | 2026-03-20 20:41 |

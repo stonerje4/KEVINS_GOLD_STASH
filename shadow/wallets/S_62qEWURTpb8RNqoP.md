@@ -1,6 +1,6 @@
 # Wallet: `62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4`
 
-> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-21 12:15 UTC
+> [GMGN](https://gmgn.ai/sol/address/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | [Solscan](https://solscan.io/account/62qEWURTpb8RNqoPCrjaoRcfU4PneigVKbiuGtin2Wb4) | Updated: 2026-03-21 12:20 UTC
 
 ## Summary
 
@@ -9,8 +9,8 @@
 | Positions | 16 (12 open, 4 closed) |
 | W/L | 2/2 (50%) |
 | 💵 Realized | $-26 |
-| 📦 Unrealized | $-14 |
-| 🏦 Total | **$-41** |
+| 📦 Unrealized | $-81 |
+| 🏦 Total | **$-107** |
 | Best ROI | 1.50x |
 | Avg ROI | 0.93x |
 
@@ -18,8 +18,8 @@
 
 | Token | Entry $ | Current | Peak | De-risked | Pool | Entry Time |
 |-------|---------|---------|------|-----------|------|------------|
-| 🟢 SIM | $0.000005 | **2.13x** ($+113) | 2.85x | ✅ | pumpfun | 2026-03-21 12:10 |
-| 🟡 PIP | $0.000006 | **1.94x** ($+94) | 3.34x | ✅ | pumpfun | 2026-03-21 10:48 |
+| 🔴 SIM | $0.000005 | **0.93x** ($-7) | 2.85x | ✅ | pumpfun | 2026-03-21 12:10 |
+| 🟡 PIP | $0.000006 | **1.76x** ($+76) | 3.34x | ✅ | pumpfun | 2026-03-21 10:48 |
 | 🔴 PIP | $0.000005 | **0.46x** ($-54) | 1.50x |  | pumpfun | 2026-03-21 10:38 |
 | 🟡 YOU | $0.000005 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 08:55 |
 | 🟡 Takaichi | $0.000007 | **1.00x** ($+0) | 1.00x |  | pumpfun | 2026-03-21 05:07 |
