@@ -10,7 +10,7 @@ body{background:#0a0a0a;color:#e5e5e5;font-family:'SF Mono','Fira Code','Consola
 .c{max-width:1400px;margin:0 auto;padding:16px}
 h1{color:#22c55e;font-size:22px;display:inline}
 .sub{color:#737373;font-size:11px;margin:4px 0 16px}
-.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:20px}
+.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:20px}
 .sc{background:#171717;border:1px solid #262626;border-radius:8px;padding:12px}
 .sl{color:#737373;font-size:10px;text-transform:uppercase;letter-spacing:1px}
 .sv{font-size:20px;font-weight:bold;margin-top:2px}
@@ -18,167 +18,260 @@ h1{color:#22c55e;font-size:22px;display:inline}
 .p{color:#22c55e}.n{color:#ef4444}
 .tc{background:#171717;border:1px solid #262626;border-radius:8px;overflow-x:auto}
 table{width:100%;border-collapse:collapse}
-th{background:#111;color:#737373;font-size:10px;text-transform:uppercase;letter-spacing:1px;padding:8px 6px;text-align:left;position:sticky;top:0;border-bottom:1px solid #262626;cursor:pointer;white-space:nowrap}
+th{background:#111;color:#737373;font-size:10px;text-transform:uppercase;letter-spacing:1px;padding:8px 6px;text-align:left;position:sticky;top:0;border-bottom:1px solid #262626;cursor:pointer;user-select:none;white-space:nowrap}
+th:hover{color:#e5e5e5}
 td{padding:6px;border-bottom:1px solid #1a1a1a;white-space:nowrap}
 tr:hover{background:#1a1a1a}
 .bd{display:inline-block;padding:1px 5px;border-radius:3px;font-size:10px}
 .bg{background:#14532d;color:#22c55e}.br{background:#450a0a;color:#ef4444}.bk{background:#262626;color:#737373}.by{background:#422006;color:#f59e0b}
-a{color:#3b82f6;text-decoration:none}
+a{color:#3b82f6;text-decoration:none}a:hover{text-decoration:underline}
+.st{font-size:14px;font-weight:bold;margin:16px 0 8px}
+.cs{color:#737373;font-size:10px;margin-bottom:8px}
 .tabs{margin-bottom:16px;display:flex;gap:4px}
 .tab{background:#171717;border:1px solid #262626;color:#737373;padding:8px 20px;border-radius:6px;cursor:pointer;font-family:inherit;font-size:13px;text-decoration:none}
 .tab:hover{color:#e5e5e5}.tab.active{background:#22c55e20;color:#22c55e;border-color:#22c55e40}
 #modal{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.85);z-index:9999;justify-content:center;align-items:flex-start;padding:40px 20px;overflow-y:auto}
 #modal.show{display:flex}
 .mpanel{background:#171717;border:1px solid #333;border-radius:10px;max-width:1000px;width:100%;padding:24px;max-height:90vh;overflow-y:auto}
-.mclose{float:right;font-size:20px;cursor:pointer;color:#737373}.mclose:hover{color:#e5e5e5}
-.mstats{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px;margin:16px 0}
+.mclose{float:right;font-size:20px;cursor:pointer;color:#737373;padding:4px 8px}.mclose:hover{color:#e5e5e5}
+.mh{font-size:16px;font-weight:bold;margin-bottom:4px}
+.mlinks{margin-bottom:16px;font-size:11px}.mlinks a{margin-right:12px}
+.mstats{display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:8px;margin-bottom:16px}
 .ms{background:#222;border-radius:6px;padding:8px}.ms .sl{font-size:9px}.ms .sv{font-size:16px}
+.expand-row td{padding:4px 20px;background:#111}
+.expand-row table{font-size:11px}.expand-row th{font-size:9px;padding:4px}.expand-row td{font-size:11px;padding:3px 4px}
 .progress{color:#737373;font-size:11px;margin-bottom:12px}
 </style>
 </head>
 <body>
 <div class="c">
 <h1>🧪 PUMP ALPHA — Backtest V2</h1>
-<div class="sub">Standard TP Ladder · 5-min candles · Updated: 2026-03-22 18:47 UTC</div>
+<div class="sub">Updated: 2026-03-22 18:53 UTC · 5m candles · Standard TP Ladder · Fast/Slow Rug Tracking</div>
 
 <div class="tabs">
 <a class="tab" href="index.html">💰 PRD Live</a>
-<a class="tab" href="backtest.html">🧪 Backtest</a>
+<a class="tab" href="backtest.html">🧪 Backtest V1</a>
 <a class="tab active" href="backtest2.html">🧪 Backtest V2</a>
 <a class="tab" href="strategy.html">📊 Strategy</a>
 </div>
 
-<div class="progress">⏳ 1 / 510 wallets backtested (0.2%)</div>
+<div class="progress">⏳ 1 / 510 wallets backtested</div>
+
 <div class="sg">
-<div class="sc"><div class="sl">Wallets</div><div class="sv b">1</div></div>
-<div class="sc"><div class="sl">Trades</div><div class="sv">16</div></div>
-<div class="sc"><div class="sl">Avg Return</div><div class="sv r">0.90x</div></div>
-<div class="sc"><div class="sl">Win Rate</div><div class="sv r">38%</div></div>
-<div class="sc"><div class="sl">💀 Rugs</div><div class="sv r">7</div></div>
+<div class="sc"><div class="sl">Backtested</div><div class="sv b">1</div></div>
+<div class="sc"><div class="sl">Profitable</div><div class="sv g">0</div></div>
+<div class="sc"><div class="sl">Losing</div><div class="sv r">1</div></div>
+<div class="sc"><div class="sl">Avg Alpha</div><div class="sv y">36</div></div>
+<div class="sc"><div class="sl">💀 Total Rugs</div><div class="sv r">7</div></div>
 <div class="sc"><div class="sl">⚡ Fast Rugs</div><div class="sv r">4</div></div>
 <div class="sc"><div class="sl">🐌 Slow Rugs</div><div class="sv y">3</div></div>
 </div>
+
+<div class="st" id="rankTitle">🧪 Wallet Rankings (1 wallets, All)</div>
+<div class="cs">Alpha = (EV(40) + WinRate(25) + Anti-SL(20) + Runner(15) + Confidence(15)) × (1-Stale%) − FastRugs×3 − SlowRugs×1 · Click wallet → trades → click trade → sell breakdown</div>
+<div style="margin-bottom:10px;display:flex;gap:8px;align-items:center">
+<div style="margin:0"><input type="text" id="flt" placeholder="🔍 Search wallet..." oninput="fltTbl()" style="background:#262626;border:1px solid #404040;color:#e5e5e5;padding:6px 10px;border-radius:6px;font-family:inherit;width:280px;font-size:12px"></div>
+<button onclick="setTimeFilter(7)" id="btn7d" class="tbtn" style="background:#262626;border:1px solid #404040;color:#e5e5e5;padding:6px 12px;border-radius:6px;cursor:pointer;font-family:inherit;font-size:12px">7d</button>
+<button onclick="setTimeFilter(14)" id="btn14d" class="tbtn" style="background:#262626;border:1px solid #404040;color:#e5e5e5;padding:6px 12px;border-radius:6px;cursor:pointer;font-family:inherit;font-size:12px">14d</button>
+<button onclick="setTimeFilter(30)" id="btn30d" class="tbtn" style="background:#262626;border:1px solid #404040;color:#e5e5e5;padding:6px 12px;border-radius:6px;cursor:pointer;font-family:inherit;font-size:12px">30d</button>
+<button onclick="setTimeFilter(0)" id="btnAll" class="tbtn" style="background:#22c55e20;border:1px solid #22c55e40;color:#22c55e;padding:6px 12px;border-radius:6px;cursor:pointer;font-family:inherit;font-size:12px">All</button>
+</div>
+
 <div class="tc">
 <table id="tbl">
 <thead><tr>
-<th onclick="sortTable(0)">Score</th>
-<th>Wallet</th>
-<th onclick="sortTable(2)">Trades</th>
-<th onclick="sortTable(3)">W/L</th>
-<th onclick="sortTable(4)">WR</th>
-<th onclick="sortTable(5)">Avg Ret</th>
-<th onclick="sortTable(6)">Best</th>
-<th onclick="sortTable(7)">💀 Rugs</th>
-<th onclick="sortTable(8)">⚡ Fast</th>
-<th onclick="sortTable(9)">🐌 Slow</th>
-<th onclick="sortTable(10)">Rug%</th>
-<th onclick="sortTable(11)">Net P&L</th>
-<th>GMGN</th>
+<th>Alpha</th><th>Wallet</th><th>P&L/$10</th><th>Avg Ret</th><th>WR</th><th>SL%</th><th>💀Rugs</th><th>⚡Fast</th><th>🐌Slow</th><th>Rug%</th><th>Sniper%</th><th>Avg Peak</th><th>Best</th><th>Avg Hold</th><th>Trades</th><th>GMGN</th>
 </tr></thead>
-<tbody>
-<tr data-w="5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd" style="cursor:pointer" onclick="showModal('5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd')">
-<td data-v="50.5" class="r">51</td>
+<tbody><tr data-w="5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd" style="cursor:pointer">
+<td data-v="36.0" class="r"><strong>36</strong></td>
 <td><code>5ATd36Tdq6zrtHBo...</code></td>
-<td>16</td>
-<td>6/10</td>
+<td class="n" data-v="-1.02"><strong>$-1.02</strong></td>
+<td data-v="0.8982">0.90x</td>
 <td><span class="bd bk">38%</span></td>
-<td class="r" data-v="0.8982">0.90x</td>
-<td class="g" data-v="2.5463">2.55x</td>
+<td><span class="bd bk">25%</span></td>
 <td class="r">7</td>
 <td class="r">4</td>
 <td class="y">3</td>
 <td class="r">44%</td>
-<td class="n" data-v="-1.6287">-1.63x</td>
+<td data-v="0.8333333333333334"><span class="bd br">83%</span></td>
+<td data-v="3.986844037821836">4.0x</td>
+<td data-v="2.5463125">2.5x</td>
+<td data-v="46.875">47m</td>
+<td>16</td>
 <td><a href="https://gmgn.ai/sol/address/5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd" target="_blank" onclick="event.stopPropagation()">📊</a></td>
-</tr>
-</tbody></table></div>
+</tr></tbody>
+</table>
+</div>
+</div>
 
 <div id="modal" onclick="if(event.target===this)closeModal()">
 <div class="mpanel">
 <span class="mclose" onclick="closeModal()">✕</span>
-<div id="modal-content"></div>
+<div id="mc"></div>
 </div>
 </div>
+
 <script>
-const walletData = {"5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd": [{"symbol": "PUNCHIBI", "return": 1.0, "peak": 2.3176827249925105, "exit": "rug", "rug": true, "rug_type": "slow", "candles_held": 17}, {"symbol": "CHWIBI", "return": 2.5463125, "peak": 19.04069582546777, "exit": "rug", "rug": true, "rug_type": "slow", "candles_held": 29}, {"symbol": "OPTIGUY", "return": 2.2375, "peak": 7.924797550759074, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 14}, {"symbol": "Optimusk", "return": 1.25, "peak": 2.945128588445328, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 13}, {"symbol": "CHWIBI", "return": 0.0, "peak": 2.973158544193223, "exit": "rug", "rug": true, "rug_type": "fast", "candles_held": 1}, {"symbol": "CHIBIHAT", "return": 0.4, "peak": 1.8690157605434752, "exit": "stop_loss", "rug": false, "rug_type": null, "candles_held": 2}, {"symbol": "CHIPEPE", "return": 0.4, "peak": 1.7292441563804102, "exit": "stop_loss", "rug": false, "rug_type": null, "candles_held": 1}, {"symbol": "minichibi", "return": 0.0, "peak": 1.8005589268238802, "exit": "rug", "rug": true, "rug_type": "fast", "candles_held": 1}, {"symbol": "CHIGEN", "return": 0.0, "peak": 1.3333741095714122, "exit": "rug", "rug": true, "rug_type": "fast", "candles_held": 1}, {"symbol": "CHIGMA", "return": 0.0, "peak": 1.3062278984939317, "exit": "rug", "rug": true, "rug_type": "fast", "candles_held": 1}, {"symbol": "67CHIBI", "return": 0.4, "peak": 1.0, "exit": "stop_loss", "rug": false, "rug_type": null, "candles_held": 1}, {"symbol": "PsyopChibi", "return": 0.4, "peak": 1.6747414886604546, "exit": "stop_loss", "rug": false, "rug_type": null, "candles_held": 13}, {"symbol": "TROLLIEN", "return": 0.0, "peak": 1.9494272569770763, "exit": "rug", "rug": true, "rug_type": "slow", "candles_held": 18}, {"symbol": "IndianaWEB", "return": 1.75, "peak": 4.289462414253176, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 36}, {"symbol": "PEPEPUNCH", "return": 2.2375, "peak": 6.961024153000178, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 1}, {"symbol": "PKEY", "return": 1.75, "peak": 4.6749652065874745, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 1}]};
+const BT={"5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd": [{"mint": "6XqkZdMLNsh8ZSftVGPXfBVNmyZPVbdXqjBRgMpqpump", "symbol": "PUNCHIBI", "entry_price": 8.7176319614952e-05, "buy_timestamp": 1774189822, "return": 1.0, "peak": 2.3176827249925105, "exit": "rug", "candles": 17, "volume": 1444236.5626640131, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 7}, {"mult": 0, "pct": 0.5, "reason": "rug", "candle_idx": 16}], "rug": true, "rug_type": "slow"}, {"mint": "BALKcn5xLxLGV18wVv6H2bq87sYZjPJzhPEWQCyNpump", "symbol": "CHWIBI", "entry_price": 1.318731218132e-05, "buy_timestamp": 1774172722, "return": 2.5463125, "peak": 19.04069582546777, "exit": "rug", "candles": 29, "volume": 2577955.661238903, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 0}, {"mult": 5.0, "pct": 0.0375, "reason": "tp_5.0x", "candle_idx": 0}, {"mult": 8.0, "pct": 0.0338, "reason": "tp_8.0x", "candle_idx": 4}, {"mult": 10.0, "pct": 0.0304, "reason": "tp_10.0x", "candle_idx": 6}, {"mult": 15.0, "pct": 0.0273, "reason": "tp_15.0x", "candle_idx": 8}, {"mult": 0, "pct": 0.24603750000000002, "reason": "rug", "candle_idx": 28}], "rug": true, "rug_type": "slow"}, {"mint": "5ffayJAivStJTEu1i1ERMqb75c3EBmw4myopqorGpump", "symbol": "OPTIGUY", "entry_price": 0.000104616329274, "buy_timestamp": 1774088739, "return": 2.2375, "peak": 7.924797550759074, "exit": "trailing_stop", "candles": 14, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 1}, {"mult": 5.0, "pct": 0.0375, "reason": "tp_5.0x", "candle_idx": 4}, {"mult": 2.0, "pct": 0.3375, "reason": "trailing_stop", "candle_idx": 13}], "rug": false, "rug_type": null}, {"mint": "GyqMY9k1tSmTpWGtMfw6Qf3StkukD73P1GiwvgL8pump", "symbol": "Optimusk", "entry_price": 0.00017338134300939, "buy_timestamp": 1774078401, "return": 1.25, "peak": 2.945128588445328, "exit": "trailing_stop", "candles": 13, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 0.5, "pct": 0.5, "reason": "trailing_stop", "candle_idx": 12}], "rug": false, "rug_type": null}, {"mint": "FVQmNJd9jHtHmAaB58DQWBH187JHk9uCkpo9Mm1tpump", "symbol": "CHWIBI", "entry_price": 5.403092623962e-06, "buy_timestamp": 1774015116, "return": 0.0, "peak": 2.973158544193223, "exit": "rug", "candles": 1, "volume": 9612.62345833, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "Eg9BpCJ7KPN8dnHiaNyX2Lr4kZvSatLWxnNnhtkopump", "symbol": "CHIBIHAT", "entry_price": 8.027714541924e-06, "buy_timestamp": 1774013606, "return": 0.4, "peak": 1.8690157605434752, "exit": "stop_loss", "candles": 2, "volume": 23508.326295389998, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 1}], "rug": false, "rug_type": null}, {"mint": "5R9y6KDZJNp2VzJnVHLgq7xCWuVjvejLaHsPhAFJpump", "symbol": "CHIPEPE", "entry_price": 8.071940534538e-06, "buy_timestamp": 1774012961, "return": 0.4, "peak": 1.7292441563804102, "exit": "stop_loss", "candles": 1, "volume": 5814.1718589, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 0}], "rug": false, "rug_type": null}, {"mint": "Cy2o2dweX5woHKckLSC96Jy6eJ43GwFJmvZrDHbspump", "symbol": "minichibi", "entry_price": 8.010321564672e-06, "buy_timestamp": 1774012472, "return": 0.0, "peak": 1.8005589268238802, "exit": "rug", "candles": 1, "volume": 17279.49673368, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "6Mn5XTd45BAEy4geosbmtH5AVZoFSLNBkDDDJySRpump", "symbol": "CHIGEN", "entry_price": 1.120283564288e-05, "buy_timestamp": 1774011727, "return": 0.0, "peak": 1.3333741095714122, "exit": "rug", "candles": 1, "volume": 7799.58560747, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "4AhdqGKg48wJHdqP9vkyJP17aiZ8UnCanmUEzAgnpump", "symbol": "CHIGMA", "entry_price": 1.1143148922774e-05, "buy_timestamp": 1774010982, "return": 0.0, "peak": 1.3062278984939317, "exit": "rug", "candles": 1, "volume": 29666.54562701, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "HoJKG37txZ3ujjMQeJmFT6vEdkzZxRDiZSa3hGVqpump", "symbol": "67CHIBI", "entry_price": 1.1158476903792e-05, "buy_timestamp": 1774010134, "return": 0.4, "peak": 1.0, "exit": "stop_loss", "candles": 1, "volume": 0.0, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 0}], "rug": false, "rug_type": null}, {"mint": "becsHPBa2f9rm7qhevDogxgnpBZnWHdh3eEa779pump", "symbol": "PsyopChibi", "entry_price": 0.00026035025880248, "buy_timestamp": 1774004267, "return": 0.4, "peak": 1.6747414886604546, "exit": "stop_loss", "candles": 13, "volume": 1367579.099595144, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 12}], "rug": false, "rug_type": null}, {"mint": "Gj8dp7GBf5LCDt8cEv2M7DFCRaGZ3Dx5QD3LieV6pump", "symbol": "TROLLIEN", "entry_price": 8.0826586083716e-05, "buy_timestamp": 1773936981, "return": 0.0, "peak": 1.9494272569770763, "exit": "rug", "candles": 18, "volume": 1277865.857428782, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 17}], "rug": true, "rug_type": "slow"}, {"mint": "GBXBHNEXRnZbsmPLhKkDccggTGTPiQhtvguG9hWZpump", "symbol": "IndianaWEB", "entry_price": 0.000120030020146392, "buy_timestamp": 1773913274, "return": 1.75, "peak": 4.289462414253176, "exit": "trailing_stop", "candles": 36, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 14}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 21}, {"mult": 1.0, "pct": 0.375, "reason": "trailing_stop", "candle_idx": 35}], "rug": false, "rug_type": null}, {"mint": "Fa2fpVUgcwSh5HAPrYYjVkoA7MrwhyDZ5FaTTruNpump", "symbol": "PEPEPUNCH", "entry_price": 7.372971688064e-06, "buy_timestamp": 1773899274, "return": 2.2375, "peak": 6.961024153000178, "exit": "trailing_stop", "candles": 1, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 0}, {"mult": 5.0, "pct": 0.0375, "reason": "tp_5.0x", "candle_idx": 0}, {"mult": 2.0, "pct": 0.3375, "reason": "trailing_stop", "candle_idx": 0}], "rug": false, "rug_type": null}, {"mint": "HHUYe9ABk1gGM5UTsTNsFhfBj7LUyWh2czgoJCEfpump", "symbol": "PKEY", "entry_price": 3.071898798255e-06, "buy_timestamp": 1773850584, "return": 1.75, "peak": 4.6749652065874745, "exit": "trailing_stop", "candles": 1, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 0}, {"mult": 1.0, "pct": 0.375, "reason": "trailing_stop", "candle_idx": 0}], "rug": false, "rug_type": null}]};
 
-function showModal(wallet) {
-    const trades = walletData[wallet];
-    if (!trades) return;
-    
-    const tested = trades.length;
-    const wins = trades.filter(t => t.return > 1.0).length;
-    const avg = trades.reduce((s,t) => s + t.return, 0) / tested;
-    const rugs = trades.filter(t => t.rug).length;
-    const fast = trades.filter(t => t.rug_type === 'fast').length;
-    const slow = trades.filter(t => t.rug_type === 'slow').length;
-    const best = Math.max(...trades.map(t => t.return));
-    const worst = Math.min(...trades.map(t => t.return));
-    
-    let h = `<h2 style="color:#22c55e;font-size:16px;margin-bottom:4px">📋 ${wallet.slice(0,16)}...</h2>`;
-    h += `<div style="margin-bottom:8px"><a href="https://gmgn.ai/sol/address/${wallet}" target="_blank" style="font-size:11px">View on GMGN →</a></div>`;
-    
-    h += `<div class="mstats">`;
-    h += `<div class="ms"><div class="sl">Trades</div><div class="sv">${tested}</div></div>`;
-    h += `<div class="ms"><div class="sl">W/L</div><div class="sv">${wins}/${tested-wins}</div></div>`;
-    h += `<div class="ms"><div class="sl">Avg Ret</div><div class="sv ${avg>1?'g':'r'}">${avg.toFixed(2)}x</div></div>`;
-    h += `<div class="ms"><div class="sl">Best</div><div class="sv g">${best.toFixed(2)}x</div></div>`;
-    h += `<div class="ms"><div class="sl">Worst</div><div class="sv r">${worst.toFixed(2)}x</div></div>`;
-    h += `<div class="ms"><div class="sl">💀 Rugs</div><div class="sv r">${rugs}</div></div>`;
-    h += `<div class="ms"><div class="sl">⚡ Fast</div><div class="sv r">${fast}</div></div>`;
-    h += `<div class="ms"><div class="sl">🐌 Slow</div><div class="sv" style="color:#f59e0b">${slow}</div></div>`;
-    h += `</div>`;
-    
-    h += `<table style="margin-top:12px"><thead><tr>`;
-    h += `<th>#</th><th>Token</th><th>Return</th><th>Peak</th><th>Exit</th><th>Held</th><th>Rug</th>`;
-    h += `</tr></thead><tbody>`;
-    
-    trades.forEach((t, i) => {
-        const retClass = t.return > 1.0 ? 'g' : 'r';
-        let rugHtml = '';
-        if (t.rug) {
-            const mins = (t.candles_held) * 5;
-            if (t.rug_type === 'fast') {
-                rugHtml = `<span class="bd br">⚡ ${mins}m</span>`;
-            } else {
-                rugHtml = `<span class="bd by">🐌 ${mins}m</span>`;
-            }
-        }
-        const held = t.candles_held * 5;
-        h += `<tr>`;
-        h += `<td>${i+1}</td>`;
-        h += `<td>${t.symbol}</td>`;
-        h += `<td class="${retClass}">${t.return.toFixed(3)}x</td>`;
-        h += `<td>${t.peak.toFixed(2)}x</td>`;
-        h += `<td>${t.exit}</td>`;
-        h += `<td>${held}m</td>`;
-        h += `<td>${rugHtml}</td>`;
-        h += `</tr>`;
+function fltTbl(){const v=document.getElementById('flt').value.toLowerCase();document.querySelectorAll('#tbl tbody tr').forEach(r=>{r.style.display=r.dataset.w&&r.dataset.w.toLowerCase().includes(v)?'':'none';});}
+function closeModal(){document.getElementById('modal').classList.remove('show')}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
+
+document.querySelector('#tbl tbody').addEventListener('click',function(e){
+  const row=e.target.closest('tr[data-w]');
+  if(!row||e.target.closest('a'))return;
+  const w=row.dataset.w;
+  const trades=BT[w];
+  if(!trades||!trades.length)return;
+
+  const nn=trades.length;
+  const wins=trades.filter(t=>t['return']>1).length;
+  const avgRet=trades.reduce((s,t)=>s+t['return'],0)/nn;
+  const best=Math.max(...trades.map(t=>t['return']));
+  const worst=Math.min(...trades.map(t=>t['return']));
+  const rugs=trades.filter(t=>t.rug).length;
+  const fast=trades.filter(t=>t.rug_type==='fast').length;
+  const slow=trades.filter(t=>t.rug_type==='slow').length;
+  const pnlPer=((avgRet-1)*10).toFixed(2);
+  const totalPnl=((avgRet-1)*10*nn).toFixed(2);
+  const alpha=row.children[0].textContent;
+
+  let h=`<div class="mh">🧪 <code>${w}</code> <span class="${parseInt(alpha)>=65?'g':parseInt(alpha)>=45?'y':'r'}" style="font-size:18px;margin-left:8px">Alpha: ${alpha}</span></div>`;
+  h+=`<div class="mlinks"><a href="https://gmgn.ai/sol/address/${w}" target="_blank">📊 GMGN</a> <a href="https://solscan.io/account/${w}" target="_blank">🔗 Solscan</a></div>`;
+  h+=`<div class="mstats">`;
+  h+=`<div class="ms"><div class="sl">Trades</div><div class="sv">${nn}</div></div>`;
+  h+=`<div class="ms"><div class="sl">W / L</div><div class="sv">${wins} / ${nn-wins}</div></div>`;
+  h+=`<div class="ms"><div class="sl">Avg Ret</div><div class="sv ${avgRet>=1?'g':'r'}">${avgRet.toFixed(2)}x</div></div>`;
+  h+=`<div class="ms"><div class="sl">P&L/$10</div><div class="sv ${avgRet>=1?'g':'r'}">$${pnlPer}</div></div>`;
+  h+=`<div class="ms"><div class="sl">Total P&L</div><div class="sv ${parseFloat(totalPnl)>=0?'g':'r'}">$${totalPnl}</div></div>`;
+  h+=`<div class="ms"><div class="sl">Best</div><div class="sv g">${best.toFixed(2)}x</div></div>`;
+  h+=`<div class="ms"><div class="sl">💀 Rugs</div><div class="sv r">${rugs}</div></div>`;
+  h+=`<div class="ms"><div class="sl">⚡ Fast</div><div class="sv r">${fast}</div></div>`;
+  h+=`<div class="ms"><div class="sl">🐌 Slow</div><div class="sv" style="color:#f59e0b">${slow}</div></div>`;
+  h+=`</div>`;
+
+  h+=`<div class="st">Simulated Trades</div>`;
+  h+=`<table id="modalTbl"><thead><tr>`;
+  h+=`<th data-mc="0"></th><th data-mc="1">Token</th><th data-mc="2">Entry MC</th><th data-mc="3">Bought</th><th data-mc="4">Hold</th><th data-mc="5">Return</th><th data-mc="6">P&L/$10</th><th data-mc="7">Peak MC</th><th data-mc="8">Exit</th><th data-mc="9">Rug</th><th data-mc="10">Sells</th>`;
+  h+=`</tr></thead><tbody>`;
+
+  function fmtMC(p){if(!p||p<=0)return'?';const mc=p*1e9;if(mc>=1e6)return'$'+(mc/1e6).toFixed(1)+'M';if(mc>=1e3)return'$'+(mc/1e3).toFixed(1)+'K';return'$'+mc.toFixed(0);}
+
+  const sorted=[...trades].sort((a,b)=>b['return']-a['return']);
+  for(let i=0;i<sorted.length;i++){
+    const t=sorted[i];
+    const tpnl=((t['return']-1)*10).toFixed(2);
+    const emoji=t['return']>=2?'🚀':t['return']>=1?'🟢':'🔴';
+    const pc=t['return']>=1?'p':'n';
+    const sym=t.symbol||'?';
+    const entryMC=fmtMC(t.entry_price);
+    const peakMC=fmtMC(t.entry_price*(t.peak||1));
+    const sellCount=(t.sells&&t.sells.length)||0;
+    const rid='s'+i;
+    const buyTs=t.buy_timestamp||0;
+    const buyDate=buyTs?new Date(buyTs*1000).toLocaleDateString('en-US',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}):'?';
+    const holdMins=(t.candles||0)*5;
+    const holdStr=holdMins<120?holdMins+'m':((holdMins/60).toFixed(1)+'h');
+
+    let rugHtml='';
+    if(t.rug){
+      const rugMins=(t.candles||0)*5;
+      if(t.rug_type==='fast')rugHtml='<span class="bd br">⚡'+rugMins+'m</span>';
+      else rugHtml='<span class="bd by">🐌'+rugMins+'m</span>';
+    }
+
+    h+=`<tr style="cursor:${sellCount?'pointer':'default'}" onclick="${sellCount?`document.getElementById('${rid}').style.display=document.getElementById('${rid}').style.display==='none'?'table-row':'none'`:'void(0)'}">`;
+    h+=`<td data-v="${t['return']||0}">${emoji}</td>`;
+    h+=`<td><a href="https://gmgn.ai/sol/token/${t.mint}" target="_blank" onclick="event.stopPropagation()">${sym}</a></td>`;
+    h+=`<td>${entryMC}</td>`;
+    h+=`<td style="font-size:10px">${buyDate}</td>`;
+    h+=`<td>${holdStr}</td>`;
+    h+=`<td class="${pc}"><strong>${t['return']?.toFixed(2)}x</strong></td>`;
+    h+=`<td class="${pc}"><strong>$${tpnl}</strong></td>`;
+    h+=`<td>${peakMC}</td>`;
+    h+=`<td>${(t.exit||'?').replace(/_/g,' ')}</td>`;
+    h+=`<td>${rugHtml}</td>`;
+    h+=`<td>${sellCount?'▶ '+sellCount+' sells':'—'}</td>`;
+    h+=`</tr>`;
+
+    if(sellCount){
+      h+=`<tr id="${rid}" class="expand-row" style="display:none"><td colspan="11">`;
+      h+=`<table style="width:100%"><thead><tr><th>#</th><th>Trigger</th><th>Time</th><th>Sell %</th><th>At Mult</th><th>Sell MC</th><th>$/trade</th></tr></thead><tbody>`;
+      for(let s=0;s<t.sells.length;s++){
+        const sell=t.sells[s];
+        const amt=(sell.pct*sell.mult*10).toFixed(2);
+        const sellMC=fmtMC(t.entry_price*sell.mult);
+        const trigMins=(sell.candle_idx||0)*5;
+        const trigStr=trigMins<120?trigMins+'m':((trigMins/60).toFixed(1)+'h');
+        h+=`<tr><td>${s+1}</td><td>${(sell.reason||'?').replace(/_/g,' ')}</td><td>${trigStr}</td><td>${(sell.pct*100).toFixed(0)}%</td><td>${sell.mult?.toFixed(2)}x</td><td>${sellMC}</td><td>$${amt}</td></tr>`;
+      }
+      h+=`</tbody></table></td></tr>`;
+    }
+  }
+  h+=`</tbody></table>`;
+
+  // Sort modal headers
+  h+=`<script>
+  document.querySelectorAll('#modalTbl thead th[data-mc]').forEach(th=>{
+    th.style.cursor='pointer';
+    let asc=false;
+    th.addEventListener('click',()=>{
+      asc=!asc;
+      const col=parseInt(th.dataset.mc);
+      const tbody=document.querySelector('#modalTbl tbody');
+      const dataRows=[...tbody.querySelectorAll('tr:not(.expand-row)')];
+      dataRows.sort((a,b)=>{
+        const av=parseFloat(a.children[col]?.dataset?.v||a.children[col]?.textContent?.replace(/[^0-9.\-]/g,'')||'0');
+        const bv=parseFloat(b.children[col]?.dataset?.v||b.children[col]?.textContent?.replace(/[^0-9.\-]/g,'')||'0');
+        return asc?av-bv:bv-av;
+      });
+      dataRows.forEach(r=>{
+        tbody.appendChild(r);
+        const rid=r.getAttribute('onclick')?.match(/s\d+/)?.[0];
+        if(rid){const er=document.getElementById(rid);if(er)tbody.appendChild(er);}
+      });
     });
-    
-    h += `</tbody></table>`;
-    
-    document.getElementById('modal-content').innerHTML = h;
-    document.getElementById('modal').classList.add('show');
+  });
+  </script>`;
+
+  document.getElementById('mc').innerHTML=h;
+  document.getElementById('modal').classList.add('show');
+});
+
+// Time filter
+let filterDays=0;
+function setTimeFilter(days){
+  filterDays=days;
+  document.querySelectorAll('.tbtn').forEach(b=>{b.style.background='#262626';b.style.borderColor='#404040';b.style.color='#e5e5e5';});
+  const ab=days===0?document.getElementById('btnAll'):document.getElementById('btn'+days+'d');
+  if(ab){ab.style.background='#22c55e20';ab.style.borderColor='#22c55e40';ab.style.color='#22c55e';}
+  const cutoff=days>0?Math.floor(Date.now()/1000)-(days*86400):0;
+  document.querySelectorAll('#tbl tbody tr[data-w]').forEach(row=>{
+    const w=row.dataset.w;
+    const trades=BT[w];
+    if(!trades)return;
+    const filtered=days>0?trades.filter(t=>t.buy_timestamp&&t.buy_timestamp>cutoff):trades;
+    if(filtered.length<1){row.style.display='none';return;}
+    row.style.display='';
+  });
+  const vis=document.querySelectorAll('#tbl tbody tr[data-w]:not([style*="display: none"])').length;
+  document.getElementById('rankTitle').textContent='🧪 Wallet Rankings ('+vis+' wallets, '+(days===0?'All':days+'d')+')';
 }
 
-function closeModal() {
-    document.getElementById('modal').classList.remove('show');
-}
-
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
-
-let sortDir = {};
-function sortTable(col) {
-    const tbody = document.querySelector('#tbl tbody');
-    const rows = Array.from(tbody.querySelectorAll('tr'));
-    const dir = sortDir[col] = !sortDir[col];
-    rows.sort((a, b) => {
-        let av = a.children[col]?.dataset?.v || a.children[col]?.textContent?.replace(/[^0-9.\-+]/g,'') || '0';
-        let bv = b.children[col]?.dataset?.v || b.children[col]?.textContent?.replace(/[^0-9.\-+]/g,'') || '0';
-        return dir ? parseFloat(bv) - parseFloat(av) : parseFloat(av) - parseFloat(bv);
+// Column sort
+let sortCol=-1,sortAsc=true;
+document.querySelectorAll('#tbl thead th').forEach((th,i)=>{
+  th.addEventListener('click',()=>{
+    if(sortCol===i)sortAsc=!sortAsc;else{sortCol=i;sortAsc=false;}
+    const rows=[...document.querySelectorAll('#tbl tbody tr[data-w]')];
+    rows.sort((a,b)=>{
+      let av=a.children[i]?.dataset?.v||a.children[i]?.textContent?.replace(/[^0-9.\-+]/g,'')||'0';
+      let bv=b.children[i]?.dataset?.v||b.children[i]?.textContent?.replace(/[^0-9.\-+]/g,'')||'0';
+      return sortAsc?parseFloat(av)-parseFloat(bv):parseFloat(bv)-parseFloat(av);
     });
-    rows.forEach(r => tbody.appendChild(r));
-}
+    document.querySelector('#tbl tbody').append(...rows);
+  });
+});
 </script>
-</div></body></html>
+</body></html>
