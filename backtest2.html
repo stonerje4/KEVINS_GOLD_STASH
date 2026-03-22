@@ -4,7 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PUMP ALPHA — Backtest V2</title>
-<style>*{margin:0;padding:0;box-sizing:border-box}
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
 body{background:#0a0a0a;color:#e5e5e5;font-family:'SF Mono','Fira Code','Consolas',monospace;font-size:13px}
 .c{max-width:1400px;margin:0 auto;padding:16px}
 h1{color:#22c55e;font-size:22px;display:inline}
@@ -40,34 +41,31 @@ a{color:#3b82f6;text-decoration:none}a:hover{text-decoration:underline}
 .expand-row td{padding:4px 20px;background:#111}
 .expand-row table{font-size:11px}.expand-row th{font-size:9px;padding:4px}.expand-row td{font-size:11px;padding:3px 4px}
 .progress{color:#737373;font-size:11px;margin-bottom:12px}
-.tbtn{background:#262626;border:1px solid #404040;color:#e5e5e5;padding:6px 12px;border-radius:6px;cursor:pointer;font-family:inherit;font-size:12px}</style>
+.tbtn{background:#262626;border:1px solid #404040;color:#e5e5e5;padding:6px 12px;border-radius:6px;cursor:pointer;font-family:inherit;font-size:12px}
+</style>
 </head>
 <body>
 <div class="c">
 <h1>🧪 PUMP ALPHA — Backtest V2</h1>
-<div class="sub">Updated: 2026-03-22 18:57 UTC · 5m candles · Standard TP Ladder · Fast/Slow Rug Tracking</div>
-
+<div class="sub">Updated: 2026-03-22 19:05 UTC · 5m candles · Standard TP Ladder (25%@2x, 25%@3x, 10%@5x+) · 45K MC filter</div>
 <div class="tabs">
 <a class="tab" href="index.html">💰 PRD Live</a>
 <a class="tab" href="backtest.html">🧪 Backtest V1</a>
 <a class="tab active" href="backtest2.html">🧪 Backtest V2</a>
 <a class="tab" href="strategy.html">📊 Strategy</a>
 </div>
-
 <div class="progress">⏳ 1 / 510 wallets backtested</div>
-
 <div class="sg">
 <div class="sc"><div class="sl">Backtested</div><div class="sv b">1</div></div>
 <div class="sc"><div class="sl">Profitable</div><div class="sv g">0</div></div>
 <div class="sc"><div class="sl">Losing</div><div class="sv r">1</div></div>
-<div class="sc"><div class="sl">Avg Alpha</div><div class="sv y">36</div></div>
-<div class="sc"><div class="sl">💀 Total Rugs</div><div class="sv r">7</div></div>
-<div class="sc"><div class="sl">⚡ Fast Rugs</div><div class="sv r">4</div></div>
-<div class="sc"><div class="sl">🐌 Slow Rugs</div><div class="sv y">3</div></div>
+<div class="sc"><div class="sl">Avg Alpha</div><div class="sv y">22</div></div>
+<div class="sc"><div class="sl">💀 Rugs</div><div class="sv r">6</div></div>
+<div class="sc"><div class="sl">⚡ Fast</div><div class="sv r">4</div></div>
+<div class="sc"><div class="sl">🐌 Slow</div><div class="sv y">2</div></div>
 </div>
-
 <div class="st" id="rankTitle">🧪 Wallet Rankings (1 wallets, All)</div>
-<div class="cs">Alpha = (EV + WinRate + Anti-SL + Runner + Confidence) − FastRugs×3 − SlowRugs×1 · Click wallet → trades → click trade → sell breakdown</div>
+<div class="cs">Alpha = (EV + WR + Anti-SL + Runner + Confidence) − FastRugs×3 − SlowRugs×1 · Click wallet → trades → click trade → sell breakdown</div>
 <div style="margin-bottom:10px;display:flex;gap:8px;align-items:center">
 <div><input type="text" id="flt" placeholder="🔍 Search wallet..." oninput="fltTbl()" style="background:#262626;border:1px solid #404040;color:#e5e5e5;padding:6px 10px;border-radius:6px;font-family:inherit;width:280px;font-size:12px"></div>
 <button onclick="setTimeFilter(7)" id="btn7d" class="tbtn">7d</button>
@@ -75,46 +73,32 @@ a{color:#3b82f6;text-decoration:none}a:hover{text-decoration:underline}
 <button onclick="setTimeFilter(30)" id="btn30d" class="tbtn">30d</button>
 <button onclick="setTimeFilter(0)" id="btnAll" class="tbtn" style="background:#22c55e20;border-color:#22c55e40;color:#22c55e">All</button>
 </div>
-
-<div class="tc">
-<table id="tbl">
-<thead><tr>
+<div class="tc"><table id="tbl"><thead><tr>
 <th>Alpha</th><th>Wallet</th><th>P&L/$10</th><th>Avg Ret</th><th>WR</th><th>SL%</th><th>💀Rugs</th><th>⚡Fast</th><th>🐌Slow</th><th>Rug%</th><th>Sniper%</th><th>Avg Peak</th><th>Best</th><th>Avg Hold</th><th>Trades</th><th>GMGN</th>
-</tr></thead>
-<tbody>
+</tr></thead><tbody>
 <tr data-w="5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd" style="cursor:pointer">
-<td data-v="36.0" class="r"><strong>36</strong></td>
+<td data-v="21.9" class="r"><strong>22</strong></td>
 <td><code>5ATd36Tdq6zrtHBo...</code></td>
-<td class="n" data-v="-1.02"><strong>$-1.02</strong></td>
-<td data-v="0.8982">0.90x</td>
-<td><span class="bd bk">38%</span></td>
-<td><span class="bd bk">25%</span></td>
-<td class="r">7</td>
+<td class="n" data-v="-2.57"><strong>$-2.57</strong></td>
+<td data-v="0.7429">0.74x</td>
+<td><span class="bd bk">29%</span></td>
+<td><span class="bd bk">29%</span></td>
+<td class="r">6</td>
 <td class="r">4</td>
-<td class="y">3</td>
-<td class="r">44%</td>
-<td><span class="bd br">83%</span></td>
-<td data-v="3.986844037821836">4.0x</td>
-<td data-v="2.5463125">2.5x</td>
-<td data-v="46.875">47m</td>
-<td>16</td>
+<td class="y">2</td>
+<td class="r">43%</td>
+<td><span class="bd br">75%</span></td>
+<td data-v="2.985977156516877">3.0x</td>
+<td data-v="2.4">2.4x</td>
+<td data-v="38.57142857142857">39m</td>
+<td>14</td>
 <td><a href="https://gmgn.ai/sol/address/5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd" target="_blank" onclick="event.stopPropagation()">📊</a></td>
 </tr>
-</tbody>
-</table>
-</div>
-</div>
-
+</tbody></table></div></div>
 <div id="modal" onclick="if(event.target===this)closeModal()">
-<div class="mpanel">
-<span class="mclose" onclick="closeModal()">✕</span>
-<div id="mc"></div>
-</div>
-</div>
-
+<div class="mpanel"><span class="mclose" onclick="closeModal()">✕</span><div id="mc"></div></div></div>
 <script>
-
-const BT = {"5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd": [{"mint": "6XqkZdMLNsh8ZSftVGPXfBVNmyZPVbdXqjBRgMpqpump", "symbol": "PUNCHIBI", "entry_price": 8.7176319614952e-05, "buy_timestamp": 1774189822, "return": 1.0, "peak": 2.3176827249925105, "exit": "rug", "candles": 17, "volume": 1444236.5626640131, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 7}, {"mult": 0, "pct": 0.5, "reason": "rug", "candle_idx": 16}], "rug": true, "rug_type": "slow"}, {"mint": "BALKcn5xLxLGV18wVv6H2bq87sYZjPJzhPEWQCyNpump", "symbol": "CHWIBI", "entry_price": 1.318731218132e-05, "buy_timestamp": 1774172722, "return": 2.5463125, "peak": 19.04069582546777, "exit": "rug", "candles": 29, "volume": 2577955.661238903, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 0}, {"mult": 5.0, "pct": 0.0375, "reason": "tp_5.0x", "candle_idx": 0}, {"mult": 8.0, "pct": 0.0338, "reason": "tp_8.0x", "candle_idx": 4}, {"mult": 10.0, "pct": 0.0304, "reason": "tp_10.0x", "candle_idx": 6}, {"mult": 15.0, "pct": 0.0273, "reason": "tp_15.0x", "candle_idx": 8}, {"mult": 0, "pct": 0.24603750000000002, "reason": "rug", "candle_idx": 28}], "rug": true, "rug_type": "slow"}, {"mint": "5ffayJAivStJTEu1i1ERMqb75c3EBmw4myopqorGpump", "symbol": "OPTIGUY", "entry_price": 0.000104616329274, "buy_timestamp": 1774088739, "return": 2.2375, "peak": 7.924797550759074, "exit": "trailing_stop", "candles": 14, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 1}, {"mult": 5.0, "pct": 0.0375, "reason": "tp_5.0x", "candle_idx": 4}, {"mult": 2.0, "pct": 0.3375, "reason": "trailing_stop", "candle_idx": 13}], "rug": false, "rug_type": null}, {"mint": "GyqMY9k1tSmTpWGtMfw6Qf3StkukD73P1GiwvgL8pump", "symbol": "Optimusk", "entry_price": 0.00017338134300939, "buy_timestamp": 1774078401, "return": 1.25, "peak": 2.945128588445328, "exit": "trailing_stop", "candles": 13, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 0.5, "pct": 0.5, "reason": "trailing_stop", "candle_idx": 12}], "rug": false, "rug_type": null}, {"mint": "FVQmNJd9jHtHmAaB58DQWBH187JHk9uCkpo9Mm1tpump", "symbol": "CHWIBI", "entry_price": 5.403092623962e-06, "buy_timestamp": 1774015116, "return": 0.0, "peak": 2.973158544193223, "exit": "rug", "candles": 1, "volume": 9612.62345833, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "Eg9BpCJ7KPN8dnHiaNyX2Lr4kZvSatLWxnNnhtkopump", "symbol": "CHIBIHAT", "entry_price": 8.027714541924e-06, "buy_timestamp": 1774013606, "return": 0.4, "peak": 1.8690157605434752, "exit": "stop_loss", "candles": 2, "volume": 23508.326295389998, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 1}], "rug": false, "rug_type": null}, {"mint": "5R9y6KDZJNp2VzJnVHLgq7xCWuVjvejLaHsPhAFJpump", "symbol": "CHIPEPE", "entry_price": 8.071940534538e-06, "buy_timestamp": 1774012961, "return": 0.4, "peak": 1.7292441563804102, "exit": "stop_loss", "candles": 1, "volume": 5814.1718589, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 0}], "rug": false, "rug_type": null}, {"mint": "Cy2o2dweX5woHKckLSC96Jy6eJ43GwFJmvZrDHbspump", "symbol": "minichibi", "entry_price": 8.010321564672e-06, "buy_timestamp": 1774012472, "return": 0.0, "peak": 1.8005589268238802, "exit": "rug", "candles": 1, "volume": 17279.49673368, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "6Mn5XTd45BAEy4geosbmtH5AVZoFSLNBkDDDJySRpump", "symbol": "CHIGEN", "entry_price": 1.120283564288e-05, "buy_timestamp": 1774011727, "return": 0.0, "peak": 1.3333741095714122, "exit": "rug", "candles": 1, "volume": 7799.58560747, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "4AhdqGKg48wJHdqP9vkyJP17aiZ8UnCanmUEzAgnpump", "symbol": "CHIGMA", "entry_price": 1.1143148922774e-05, "buy_timestamp": 1774010982, "return": 0.0, "peak": 1.3062278984939317, "exit": "rug", "candles": 1, "volume": 29666.54562701, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "HoJKG37txZ3ujjMQeJmFT6vEdkzZxRDiZSa3hGVqpump", "symbol": "67CHIBI", "entry_price": 1.1158476903792e-05, "buy_timestamp": 1774010134, "return": 0.4, "peak": 1.0, "exit": "stop_loss", "candles": 1, "volume": 0.0, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 0}], "rug": false, "rug_type": null}, {"mint": "becsHPBa2f9rm7qhevDogxgnpBZnWHdh3eEa779pump", "symbol": "PsyopChibi", "entry_price": 0.00026035025880248, "buy_timestamp": 1774004267, "return": 0.4, "peak": 1.6747414886604546, "exit": "stop_loss", "candles": 13, "volume": 1367579.099595144, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 12}], "rug": false, "rug_type": null}, {"mint": "Gj8dp7GBf5LCDt8cEv2M7DFCRaGZ3Dx5QD3LieV6pump", "symbol": "TROLLIEN", "entry_price": 8.0826586083716e-05, "buy_timestamp": 1773936981, "return": 0.0, "peak": 1.9494272569770763, "exit": "rug", "candles": 18, "volume": 1277865.857428782, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 17}], "rug": true, "rug_type": "slow"}, {"mint": "GBXBHNEXRnZbsmPLhKkDccggTGTPiQhtvguG9hWZpump", "symbol": "IndianaWEB", "entry_price": 0.000120030020146392, "buy_timestamp": 1773913274, "return": 1.75, "peak": 4.289462414253176, "exit": "trailing_stop", "candles": 36, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 14}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 21}, {"mult": 1.0, "pct": 0.375, "reason": "trailing_stop", "candle_idx": 35}], "rug": false, "rug_type": null}, {"mint": "Fa2fpVUgcwSh5HAPrYYjVkoA7MrwhyDZ5FaTTruNpump", "symbol": "PEPEPUNCH", "entry_price": 7.372971688064e-06, "buy_timestamp": 1773899274, "return": 2.2375, "peak": 6.961024153000178, "exit": "trailing_stop", "candles": 1, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 0}, {"mult": 5.0, "pct": 0.0375, "reason": "tp_5.0x", "candle_idx": 0}, {"mult": 2.0, "pct": 0.3375, "reason": "trailing_stop", "candle_idx": 0}], "rug": false, "rug_type": null}, {"mint": "HHUYe9ABk1gGM5UTsTNsFhfBj7LUyWh2czgoJCEfpump", "symbol": "PKEY", "entry_price": 3.071898798255e-06, "buy_timestamp": 1773850584, "return": 1.75, "peak": 4.6749652065874745, "exit": "trailing_stop", "candles": 1, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.5, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.125, "reason": "tp_3.0x", "candle_idx": 0}, {"mult": 1.0, "pct": 0.375, "reason": "trailing_stop", "candle_idx": 0}], "rug": false, "rug_type": null}]};
+var BT = {"5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd": [{"mint": "6XqkZdMLNsh8ZSftVGPXfBVNmyZPVbdXqjBRgMpqpump", "symbol": "PUNCHIBI", "entry_price": 8.7176319614952e-05, "buy_timestamp": 1774189822, "return": 0.5, "peak": 2.3176827249925105, "exit": "rug", "candles": 17, "volume": 1444236.5626640131, "sells": [{"mult": 2.0, "pct": 0.25, "reason": "tp_2.0x", "candle_idx": 7}, {"mult": 0, "pct": 0.75, "reason": "rug", "candle_idx": 16}], "rug": true, "rug_type": "slow"}, {"mint": "5ffayJAivStJTEu1i1ERMqb75c3EBmw4myopqorGpump", "symbol": "OPTIGUY", "entry_price": 0.000104616329274, "buy_timestamp": 1774088739, "return": 2.4, "peak": 7.924797550759074, "exit": "trailing_stop", "candles": 14, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.25, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.25, "reason": "tp_3.0x", "candle_idx": 1}, {"mult": 5.0, "pct": 0.05, "reason": "tp_5.0x", "candle_idx": 4}, {"mult": 2.0, "pct": 0.45, "reason": "trailing_stop", "candle_idx": 13}], "rug": false, "rug_type": null}, {"mint": "FVQmNJd9jHtHmAaB58DQWBH187JHk9uCkpo9Mm1tpump", "symbol": "CHWIBI", "entry_price": 5.403092623962e-06, "buy_timestamp": 1774015116, "return": 0.0, "peak": 2.973158544193223, "exit": "rug", "candles": 1, "volume": 9612.62345833, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "Eg9BpCJ7KPN8dnHiaNyX2Lr4kZvSatLWxnNnhtkopump", "symbol": "CHIBIHAT", "entry_price": 8.027714541924e-06, "buy_timestamp": 1774013606, "return": 0.4, "peak": 1.8690157605434752, "exit": "stop_loss", "candles": 2, "volume": 23508.326295389998, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 1}], "rug": false, "rug_type": null}, {"mint": "5R9y6KDZJNp2VzJnVHLgq7xCWuVjvejLaHsPhAFJpump", "symbol": "CHIPEPE", "entry_price": 8.071940534538e-06, "buy_timestamp": 1774012961, "return": 0.4, "peak": 1.7292441563804102, "exit": "stop_loss", "candles": 1, "volume": 5814.1718589, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 0}], "rug": false, "rug_type": null}, {"mint": "Cy2o2dweX5woHKckLSC96Jy6eJ43GwFJmvZrDHbspump", "symbol": "minichibi", "entry_price": 8.010321564672e-06, "buy_timestamp": 1774012472, "return": 0.0, "peak": 1.8005589268238802, "exit": "rug", "candles": 1, "volume": 17279.49673368, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "6Mn5XTd45BAEy4geosbmtH5AVZoFSLNBkDDDJySRpump", "symbol": "CHIGEN", "entry_price": 1.120283564288e-05, "buy_timestamp": 1774011727, "return": 0.0, "peak": 1.3333741095714122, "exit": "rug", "candles": 1, "volume": 7799.58560747, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "4AhdqGKg48wJHdqP9vkyJP17aiZ8UnCanmUEzAgnpump", "symbol": "CHIGMA", "entry_price": 1.1143148922774e-05, "buy_timestamp": 1774010982, "return": 0.0, "peak": 1.3062278984939317, "exit": "rug", "candles": 1, "volume": 29666.54562701, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 0}], "rug": true, "rug_type": "fast"}, {"mint": "HoJKG37txZ3ujjMQeJmFT6vEdkzZxRDiZSa3hGVqpump", "symbol": "67CHIBI", "entry_price": 1.1158476903792e-05, "buy_timestamp": 1774010134, "return": 0.4, "peak": 1.0, "exit": "stop_loss", "candles": 1, "volume": 0.0, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 0}], "rug": false, "rug_type": null}, {"mint": "becsHPBa2f9rm7qhevDogxgnpBZnWHdh3eEa779pump", "symbol": "PsyopChibi", "entry_price": 0.00026035025880248, "buy_timestamp": 1774004267, "return": 0.4, "peak": 1.6747414886604546, "exit": "stop_loss", "candles": 13, "volume": 1367579.099595144, "sells": [{"mult": 0.4, "pct": 1.0, "reason": "stop_loss", "candle_idx": 12}], "rug": false, "rug_type": null}, {"mint": "Gj8dp7GBf5LCDt8cEv2M7DFCRaGZ3Dx5QD3LieV6pump", "symbol": "TROLLIEN", "entry_price": 8.0826586083716e-05, "buy_timestamp": 1773936981, "return": 0.0, "peak": 1.9494272569770763, "exit": "rug", "candles": 18, "volume": 1277865.857428782, "sells": [{"mult": 0, "pct": 1.0, "reason": "rug", "candle_idx": 17}], "rug": true, "rug_type": "slow"}, {"mint": "GBXBHNEXRnZbsmPLhKkDccggTGTPiQhtvguG9hWZpump", "symbol": "IndianaWEB", "entry_price": 0.000120030020146392, "buy_timestamp": 1773913274, "return": 1.75, "peak": 4.289462414253176, "exit": "trailing_stop", "candles": 36, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.25, "reason": "tp_2.0x", "candle_idx": 14}, {"mult": 3.0, "pct": 0.25, "reason": "tp_3.0x", "candle_idx": 21}, {"mult": 1.0, "pct": 0.5, "reason": "trailing_stop", "candle_idx": 35}], "rug": false, "rug_type": null}, {"mint": "Fa2fpVUgcwSh5HAPrYYjVkoA7MrwhyDZ5FaTTruNpump", "symbol": "PEPEPUNCH", "entry_price": 7.372971688064e-06, "buy_timestamp": 1773899274, "return": 2.4, "peak": 6.961024153000178, "exit": "trailing_stop", "candles": 1, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.25, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.25, "reason": "tp_3.0x", "candle_idx": 0}, {"mult": 5.0, "pct": 0.05, "reason": "tp_5.0x", "candle_idx": 0}, {"mult": 2.0, "pct": 0.45, "reason": "trailing_stop", "candle_idx": 0}], "rug": false, "rug_type": null}, {"mint": "HHUYe9ABk1gGM5UTsTNsFhfBj7LUyWh2czgoJCEfpump", "symbol": "PKEY", "entry_price": 3.071898798255e-06, "buy_timestamp": 1773850584, "return": 1.75, "peak": 4.6749652065874745, "exit": "trailing_stop", "candles": 1, "volume": 0, "sells": [{"mult": 2.0, "pct": 0.25, "reason": "tp_2.0x", "candle_idx": 0}, {"mult": 3.0, "pct": 0.25, "reason": "tp_3.0x", "candle_idx": 0}, {"mult": 1.0, "pct": 0.5, "reason": "trailing_stop", "candle_idx": 0}], "rug": false, "rug_type": null}]};
 
 function fltTbl(){var v=document.getElementById('flt').value.toLowerCase();document.querySelectorAll('#tbl tbody tr').forEach(function(r){r.style.display=r.dataset.w&&r.dataset.w.toLowerCase().includes(v)?'':'none';});}
 function closeModal(){document.getElementById('modal').classList.remove('show');}
@@ -133,7 +117,6 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
   var wins=trades.filter(function(t){return t['return']>1;}).length;
   var avgRet=trades.reduce(function(s,t){return s+t['return'];},0)/nn;
   var best=Math.max.apply(null,trades.map(function(t){return t['return'];}));
-  var worst=Math.min.apply(null,trades.map(function(t){return t['return'];}));
   var rugs=trades.filter(function(t){return t.rug;}).length;
   var fast=trades.filter(function(t){return t.rug_type==='fast';}).length;
   var slow=trades.filter(function(t){return t.rug_type==='slow';}).length;
@@ -141,8 +124,8 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
   var totalPnl=((avgRet-1)*10*nn).toFixed(2);
   var alpha=row.children[0].textContent;
 
-  var h='<div class="mh">🧪 <code>'+w+'</code> <span class="'+(parseInt(alpha)>=65?'g':parseInt(alpha)>=45?'y':'r')+'" style="font-size:18px;margin-left:8px">Alpha: '+alpha+'</span></div>';
-  h+='<div class="mlinks"><a href="https://gmgn.ai/sol/address/'+w+'" target="_blank">📊 GMGN</a> <a href="https://solscan.io/account/'+w+'" target="_blank">🔗 Solscan</a></div>';
+  var h='<div class="mh">\u{1f9ea} <code>'+w+'</code> <span class="'+(parseInt(alpha)>=65?'g':parseInt(alpha)>=45?'y':'r')+'" style="font-size:18px;margin-left:8px">Alpha: '+alpha+'</span></div>';
+  h+='<div class="mlinks"><a href="https://gmgn.ai/sol/address/'+w+'" target="_blank">\u{1f4ca} GMGN</a> <a href="https://solscan.io/account/'+w+'" target="_blank">\u{1f517} Solscan</a></div>';
   h+='<div class="mstats">';
   h+='<div class="ms"><div class="sl">Trades</div><div class="sv">'+nn+'</div></div>';
   h+='<div class="ms"><div class="sl">W / L</div><div class="sv">'+wins+' / '+(nn-wins)+'</div></div>';
@@ -150,9 +133,9 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
   h+='<div class="ms"><div class="sl">P&L/$10</div><div class="sv '+(avgRet>=1?'g':'r')+'">$'+pnlPer+'</div></div>';
   h+='<div class="ms"><div class="sl">Total P&L</div><div class="sv '+(parseFloat(totalPnl)>=0?'g':'r')+'">$'+totalPnl+'</div></div>';
   h+='<div class="ms"><div class="sl">Best</div><div class="sv g">'+best.toFixed(2)+'x</div></div>';
-  h+='<div class="ms"><div class="sl">💀 Rugs</div><div class="sv r">'+rugs+'</div></div>';
-  h+='<div class="ms"><div class="sl">⚡ Fast</div><div class="sv r">'+fast+'</div></div>';
-  h+='<div class="ms"><div class="sl">🐌 Slow</div><div class="sv" style="color:#f59e0b">'+slow+'</div></div>';
+  h+='<div class="ms"><div class="sl">\u{1f480} Rugs</div><div class="sv r">'+rugs+'</div></div>';
+  h+='<div class="ms"><div class="sl">\u26a1 Fast</div><div class="sv r">'+fast+'</div></div>';
+  h+='<div class="ms"><div class="sl">\u{1f40c} Slow</div><div class="sv" style="color:#f59e0b">'+slow+'</div></div>';
   h+='</div>';
 
   h+='<div class="st">Simulated Trades</div>';
@@ -164,7 +147,7 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
   for(var i=0;i<sorted.length;i++){
     var t=sorted[i];
     var tpnl=((t['return']-1)*10).toFixed(2);
-    var emoji=t['return']>=2?'🚀':t['return']>=1?'🟢':'🔴';
+    var emoji=t['return']>=2?'\u{1f680}':t['return']>=1?'\u{1f7e2}':'\u{1f534}';
     var pc=t['return']>=1?'p':'n';
     var sym=t.symbol||'?';
     var entryMC=fmtMC(t.entry_price);
@@ -175,16 +158,14 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
     var buyDate=buyTs?new Date(buyTs*1000).toLocaleDateString('en-US',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}):'?';
     var holdMins=(t.candles||0)*5;
     var holdStr=holdMins<120?holdMins+'m':((holdMins/60).toFixed(1)+'h');
-
     var rugHtml='';
     if(t.rug){
       var rugMins=(t.candles||0)*5;
-      if(t.rug_type==='fast')rugHtml='<span class="bd br">⚡'+rugMins+'m</span>';
-      else rugHtml='<span class="bd by">🐌'+rugMins+'m</span>';
+      if(t.rug_type==='fast')rugHtml='<span class="bd br">\u26a1'+rugMins+'m</span>';
+      else rugHtml='<span class="bd by">\u{1f40c}'+rugMins+'m</span>';
     }
-
-    var clickHandler=sellCount?'document.getElementById(\''+rid+'\').style.display=document.getElementById(\''+rid+'\').style.display===\'none\'?\'table-row\':\'none\'':'void(0)';
-    h+='<tr style="cursor:'+(sellCount?'pointer':'default')+'" onclick="'+clickHandler+'">';
+    var clk=sellCount?"document.getElementById('"+rid+"').style.display=document.getElementById('"+rid+"').style.display==='none'?'table-row':'none'":"void(0)";
+    h+='<tr style="cursor:'+(sellCount?'pointer':'default')+'" onclick="'+clk+'">';
     h+='<td>'+emoji+'</td>';
     h+='<td><a href="https://gmgn.ai/sol/token/'+t.mint+'" target="_blank" onclick="event.stopPropagation()">'+sym+'</a></td>';
     h+='<td>'+entryMC+'</td>';
@@ -195,9 +176,8 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
     h+='<td>'+peakMC+'</td>';
     h+='<td>'+(t.exit||'?').replace(/_/g,' ')+'</td>';
     h+='<td>'+rugHtml+'</td>';
-    h+='<td>'+(sellCount?'▶ '+sellCount+' sells':'—')+'</td>';
+    h+='<td>'+(sellCount?'\u25b6 '+sellCount+' sells':'\u2014')+'</td>';
     h+='</tr>';
-
     if(sellCount){
       h+='<tr id="'+rid+'" class="expand-row" style="display:none"><td colspan="11">';
       h+='<table style="width:100%"><thead><tr><th>#</th><th>Trigger</th><th>Time</th><th>Sell %</th><th>At Mult</th><th>Sell MC</th><th>$/trade</th></tr></thead><tbody>';
@@ -213,12 +193,10 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
     }
   }
   h+='</tbody></table>';
-
   document.getElementById('mc').innerHTML=h;
   document.getElementById('modal').classList.add('show');
 });
 
-// Time filter
 var filterDays=0;
 function setTimeFilter(days){
   filterDays=days;
@@ -227,18 +205,15 @@ function setTimeFilter(days){
   if(ab){ab.style.background='#22c55e20';ab.style.borderColor='#22c55e40';ab.style.color='#22c55e';}
   var cutoff=days>0?Math.floor(Date.now()/1000)-(days*86400):0;
   document.querySelectorAll('#tbl tbody tr[data-w]').forEach(function(row){
-    var w=row.dataset.w;
-    var trades=BT[w];
-    if(!trades)return;
+    var w=row.dataset.w;var trades=BT[w];if(!trades)return;
     var filtered=days>0?trades.filter(function(t){return t.buy_timestamp&&t.buy_timestamp>cutoff;}):trades;
     if(filtered.length<1){row.style.display='none';return;}
     row.style.display='';
   });
   var vis=document.querySelectorAll('#tbl tbody tr[data-w]:not([style*="display: none"])').length;
-  document.getElementById('rankTitle').textContent='🧪 Wallet Rankings ('+vis+' wallets, '+(days===0?'All':days+'d')+')';
+  document.getElementById('rankTitle').textContent='\u{1f9ea} Wallet Rankings ('+vis+' wallets, '+(days===0?'All':days+'d')+')';
 }
 
-// Column sort
 var sortCol=-1,sortAsc=true;
 document.querySelectorAll('#tbl thead th').forEach(function(th,i){
   th.addEventListener('click',function(){
