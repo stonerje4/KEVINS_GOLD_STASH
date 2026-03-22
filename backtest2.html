@@ -30,7 +30,7 @@ a{color:#3b82f6;text-decoration:none}
 .mclose{float:right;font-size:20px;cursor:pointer;color:#737373}.mclose:hover{color:#e5e5e5}
 </style></head><body><div class="c">
 <h1>🧪 PUMP ALPHA — Backtest V2</h1>
-<div class="sub">Updated: 2026-03-22 15:57 UTC · 3 strategies · rug detection · 2 wallets</div>
+<div class="sub">Updated: 2026-03-22 16:01 UTC · 3 strategies · rug detection · 2 wallets</div>
 
 <div class="tabs">
 <a class="tab" href="index.html">💰 PRD Live</a>
@@ -94,21 +94,27 @@ document.querySelector('#tbl tbody').addEventListener('click',function(e){
   
   if(!trades.length){h+='<div style="color:#737373">No trade data</div>';}
   else{
-    h+='<table><thead><tr><th>Token</th><th>📊 Std</th><th>⚡ Quick</th><th>🪞 Mirror</th><th>Peak</th><th>Exit (Std)</th></tr></thead><tbody>';
-    trades.forEach(function(t){
+    h+='<table><thead><tr><th>Token</th><th>Entry MC</th><th>📊 Std</th><th>⚡ Quick</th><th>🪞 Mirror</th><th>Peak</th><th>Exit (Std)</th><th>Sells</th></tr></thead><tbody>';
+    trades.forEach(function(t,idx){
       var std=t.standard||{};var qw=t.quick_winner||{};var mir=t.mirror||{};
       var sr=std['return']||0;var qr=qw['return']||0;var mr=mir['return']||0;
       var pk=(std.peak||1).toFixed(1);
       var ex=(std.exit||'?').replace(/_/g,' ');
       var sc=sr>=1?'g':'r';var qc=qr>=1?'g':'r';var mc=mr>=1?'g':'r';
       var isRug=ex==='rug'?' 💀':'';
+      var ep=t.entry_price||0;var mc_val=ep*1e9;
+      var mcStr=mc_val>=1e6?'$'+(mc_val/1e6).toFixed(1)+'M':mc_val>=1000?'$'+(mc_val/1000).toFixed(1)+'K':'$'+Math.round(mc_val);
+      var sells=std.sells||[];
+      var sellStr=sells.map(function(s){return (s.reason||'').replace(/_/g,' ').replace('tp ','TP')+' '+(s.mult||0).toFixed(1)+'x ('+Math.round((s.pct||0)*100)+'%)'}).join(' → ');
       h+='<tr>';
       h+='<td><a href="https://gmgn.ai/sol/token/'+(t.mint||'')+'" target="_blank">'+(t.symbol||'?')+'</a>'+isRug+'</td>';
+      h+='<td>'+mcStr+'</td>';
       h+='<td class="'+sc+'">'+sr.toFixed(2)+'x</td>';
       h+='<td class="'+qc+'">'+qr.toFixed(2)+'x</td>';
       h+='<td class="'+mc+'">'+mr.toFixed(2)+'x</td>';
       h+='<td>'+pk+'x</td>';
       h+='<td>'+ex+'</td>';
+      h+='<td style="font-size:10px;color:#737373;max-width:300px;white-space:normal">'+sellStr+'</td>';
       h+='</tr>';
     });
     h+='</tbody></table>';
