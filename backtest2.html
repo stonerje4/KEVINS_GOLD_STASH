@@ -1,116 +1,184 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PUMP ALPHA — Backtest V2</title>
 <style>
-  * { margin:0; padding:0; box-sizing:border-box; }
-  body { background:#0a0a0a; color:#e0e0e0; font-family:'Courier New',monospace; padding:20px; }
-  h1 { color:#00ff88; font-size:24px; margin-bottom:5px; }
-  .subtitle { color:#666; font-size:12px; margin-bottom:20px; }
-  .stats { display:flex; gap:20px; margin-bottom:20px; flex-wrap:wrap; }
-  .stat-box { background:#111; border:1px solid #333; border-radius:8px; padding:12px 18px; min-width:120px; }
-  .stat-label { color:#888; font-size:11px; text-transform:uppercase; }
-  .stat-value { font-size:20px; font-weight:bold; margin-top:4px; }
-  .green { color:#00ff88; } .red { color:#ff4444; } .yellow { color:#ffaa00; } .white { color:#fff; }
-  table { width:100%; border-collapse:collapse; margin-top:10px; font-size:13px; }
-  th { background:#1a1a1a; color:#888; padding:8px 12px; text-align:left; border-bottom:2px solid #333; cursor:pointer; }
-  th:hover { color:#00ff88; }
-  td { padding:8px 12px; border-bottom:1px solid #1a1a1a; }
-  tr:hover { background:#111; }
-  .rug-tag { color:#ff4444; font-weight:bold; font-size:11px; background:#2a0000; padding:2px 6px; border-radius:3px; }
-  .win-tag { color:#00ff88; font-size:11px; }
-  .loss-tag { color:#ff4444; font-size:11px; }
-  .wallet-link { color:#4488ff; text-decoration:none; }
-  .wallet-link:hover { text-decoration:underline; }
-  .progress { color:#666; font-size:12px; margin-bottom:15px; }
-  .badge { display:inline-block; padding:2px 8px; border-radius:4px; font-size:11px; font-weight:bold; }
-  .badge-prd { background:#1a3a1a; color:#00ff88; border:1px solid #00ff88; }
-  .badge-disc { background:#1a1a3a; color:#4488ff; border:1px solid #4488ff; }
-  .trade-list { font-size:11px; color:#666; max-height:60px; overflow-y:auto; }
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0a0a;color:#e5e5e5;font-family:'SF Mono','Fira Code','Consolas',monospace;font-size:13px}
+.c{max-width:1400px;margin:0 auto;padding:16px}
+h1{color:#22c55e;font-size:22px;display:inline}
+.sub{color:#737373;font-size:11px;margin:4px 0 16px}
+.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:20px}
+.sc{background:#171717;border:1px solid #262626;border-radius:8px;padding:12px}
+.sl{color:#737373;font-size:10px;text-transform:uppercase;letter-spacing:1px}
+.sv{font-size:20px;font-weight:bold;margin-top:2px}
+.g{color:#22c55e}.r{color:#ef4444}.b{color:#3b82f6}.y{color:#f59e0b}
+.p{color:#22c55e}.n{color:#ef4444}
+.tc{background:#171717;border:1px solid #262626;border-radius:8px;overflow-x:auto}
+table{width:100%;border-collapse:collapse}
+th{background:#111;color:#737373;font-size:10px;text-transform:uppercase;letter-spacing:1px;padding:8px 6px;text-align:left;position:sticky;top:0;border-bottom:1px solid #262626;cursor:pointer;white-space:nowrap}
+td{padding:6px;border-bottom:1px solid #1a1a1a;white-space:nowrap}
+tr:hover{background:#1a1a1a}
+.bd{display:inline-block;padding:1px 5px;border-radius:3px;font-size:10px}
+.bg{background:#14532d;color:#22c55e}.br{background:#450a0a;color:#ef4444}.bk{background:#262626;color:#737373}.by{background:#422006;color:#f59e0b}
+a{color:#3b82f6;text-decoration:none}
+.tabs{margin-bottom:16px;display:flex;gap:4px}
+.tab{background:#171717;border:1px solid #262626;color:#737373;padding:8px 20px;border-radius:6px;cursor:pointer;font-family:inherit;font-size:13px;text-decoration:none}
+.tab:hover{color:#e5e5e5}.tab.active{background:#22c55e20;color:#22c55e;border-color:#22c55e40}
+#modal{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.85);z-index:9999;justify-content:center;align-items:flex-start;padding:40px 20px;overflow-y:auto}
+#modal.show{display:flex}
+.mpanel{background:#171717;border:1px solid #333;border-radius:10px;max-width:1000px;width:100%;padding:24px;max-height:90vh;overflow-y:auto}
+.mclose{float:right;font-size:20px;cursor:pointer;color:#737373}.mclose:hover{color:#e5e5e5}
+.mstats{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px;margin:16px 0}
+.ms{background:#222;border-radius:6px;padding:8px}.ms .sl{font-size:9px}.ms .sv{font-size:16px}
+.progress{color:#737373;font-size:11px;margin-bottom:12px}
 </style>
-</head><body>
+</head>
+<body>
+<div class="c">
 <h1>🧪 PUMP ALPHA — Backtest V2</h1>
-<div class="subtitle">Standard TP Ladder | 5-min candles | Updated: 2026-03-22 18:15 UTC</div>
-<div class="progress">✅ 1 / 70 wallets backtested (1.4%) — running...</div>
+<div class="sub">Standard TP Ladder · 5-min candles · Updated: 2026-03-22 18:47 UTC</div>
 
-<div class="stats">
-  <div class="stat-box"><div class="stat-label">Wallets Tested</div><div class="stat-value white">1</div></div>
-  <div class="stat-box"><div class="stat-label">Total Trades</div><div class="stat-value white">14</div></div>
-  <div class="stat-box"><div class="stat-label">Avg Return</div><div class="stat-value red">0.998x</div></div>
-  <div class="stat-box"><div class="stat-label">Win Rate</div><div class="stat-value green">43%</div></div>
-  <div class="stat-box"><div class="stat-label">Total Rugs</div><div class="stat-value red">6</div></div>
+<div class="tabs">
+<a class="tab" href="index.html">💰 PRD Live</a>
+<a class="tab" href="backtest.html">🧪 Backtest</a>
+<a class="tab active" href="backtest2.html">🧪 Backtest V2</a>
+<a class="tab" href="strategy.html">📊 Strategy</a>
 </div>
 
-<table id="results">
-<thead>
-<tr>
-  <th>#</th>
-  <th>Wallet</th>
-  <th>Source</th>
-  <th>Trades</th>
-  <th>Avg Return</th>
-  <th>Win Rate</th>
-  <th>Best</th>
-  <th>Worst</th>
-  <th>Rugs 💀</th>
-  <th>Rug Rate</th>
-  <th>Net P&L</th>
-  <th>Score</th>
-</tr>
-</thead>
+<div class="progress">⏳ 1 / 510 wallets backtested (0.2%)</div>
+<div class="sg">
+<div class="sc"><div class="sl">Wallets</div><div class="sv b">1</div></div>
+<div class="sc"><div class="sl">Trades</div><div class="sv">16</div></div>
+<div class="sc"><div class="sl">Avg Return</div><div class="sv r">0.90x</div></div>
+<div class="sc"><div class="sl">Win Rate</div><div class="sv r">38%</div></div>
+<div class="sc"><div class="sl">💀 Rugs</div><div class="sv r">7</div></div>
+<div class="sc"><div class="sl">⚡ Fast Rugs</div><div class="sv r">4</div></div>
+<div class="sc"><div class="sl">🐌 Slow Rugs</div><div class="sv y">3</div></div>
+</div>
+<div class="tc">
+<table id="tbl">
+<thead><tr>
+<th onclick="sortTable(0)">Score</th>
+<th>Wallet</th>
+<th onclick="sortTable(2)">Trades</th>
+<th onclick="sortTable(3)">W/L</th>
+<th onclick="sortTable(4)">WR</th>
+<th onclick="sortTable(5)">Avg Ret</th>
+<th onclick="sortTable(6)">Best</th>
+<th onclick="sortTable(7)">💀 Rugs</th>
+<th onclick="sortTable(8)">⚡ Fast</th>
+<th onclick="sortTable(9)">🐌 Slow</th>
+<th onclick="sortTable(10)">Rug%</th>
+<th onclick="sortTable(11)">Net P&L</th>
+<th>GMGN</th>
+</tr></thead>
 <tbody>
-<tr>
-  <td>1</td>
-  <td><a class="wallet-link" href="https://gmgn.ai/sol/address/5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd" target="_blank">5ATd36Td...eNWd</a></td>
-  <td><span class="badge badge-prd">PRD</span></td>
-  <td>14</td>
-  <td class="red">0.998x</td>
-  <td>43%</td>
-  <td class="green">2.55x</td>
-  <td class="red">0.00x</td>
-  <td><span class="rug-tag">6</span></td>
-  <td class="red">43%</td>
-  <td class="red">-0.03x</td>
-  <td class="yellow">57</td>
+<tr data-w="5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd" style="cursor:pointer" onclick="showModal('5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd')">
+<td data-v="50.5" class="r">51</td>
+<td><code>5ATd36Tdq6zrtHBo...</code></td>
+<td>16</td>
+<td>6/10</td>
+<td><span class="bd bk">38%</span></td>
+<td class="r" data-v="0.8982">0.90x</td>
+<td class="g" data-v="2.5463">2.55x</td>
+<td class="r">7</td>
+<td class="r">4</td>
+<td class="y">3</td>
+<td class="r">44%</td>
+<td class="n" data-v="-1.6287">-1.63x</td>
+<td><a href="https://gmgn.ai/sol/address/5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd" target="_blank" onclick="event.stopPropagation()">📊</a></td>
 </tr>
-</tbody>
-</table>
+</tbody></table></div>
 
-<h3 style="margin-top:30px; color:#888;">📋 Trade Details — 5ATd36Td...</h3>
-<table>
-<thead><tr><th>#</th><th>Token</th><th>Return</th><th>Peak</th><th>Exit</th><th>Rug</th></tr></thead>
-<tbody>
-<tr><td>1</td><td>PUNCHIBI</td><td class="red">1.000x</td><td>2.32x</td><td>rug</td><td><span class="rug-tag">💀 RUG</span></td></tr>
-<tr><td>2</td><td>CHWIBI</td><td class="green">2.546x</td><td>19.04x</td><td>rug</td><td><span class="rug-tag">💀 RUG</span></td></tr>
-<tr><td>3</td><td>OPTIGUY</td><td class="green">2.237x</td><td>7.92x</td><td>trailing_stop</td><td></td></tr>
-<tr><td>4</td><td>Optimusk</td><td class="green">1.250x</td><td>2.95x</td><td>trailing_stop</td><td></td></tr>
-<tr><td>5</td><td>CHWIBI</td><td class="red">0.000x</td><td>2.97x</td><td>rug</td><td><span class="rug-tag">💀 RUG</span></td></tr>
-<tr><td>6</td><td>CHIBIHAT</td><td class="red">0.400x</td><td>1.87x</td><td>stop_loss</td><td></td></tr>
-<tr><td>7</td><td>CHIGEN</td><td class="red">0.000x</td><td>1.33x</td><td>rug</td><td><span class="rug-tag">💀 RUG</span></td></tr>
-<tr><td>8</td><td>CHIGMA</td><td class="red">0.000x</td><td>1.31x</td><td>rug</td><td><span class="rug-tag">💀 RUG</span></td></tr>
-<tr><td>9</td><td>67CHIBI</td><td class="red">0.400x</td><td>1.00x</td><td>stop_loss</td><td></td></tr>
-<tr><td>10</td><td>PsyopChibi</td><td class="red">0.400x</td><td>1.67x</td><td>stop_loss</td><td></td></tr>
-<tr><td>11</td><td>TROLLIEN</td><td class="red">0.000x</td><td>1.95x</td><td>rug</td><td><span class="rug-tag">💀 RUG</span></td></tr>
-<tr><td>12</td><td>IndianaWEB</td><td class="green">1.750x</td><td>4.29x</td><td>trailing_stop</td><td></td></tr>
-<tr><td>13</td><td>PEPEPUNCH</td><td class="green">2.237x</td><td>6.96x</td><td>trailing_stop</td><td></td></tr>
-<tr><td>14</td><td>PKEY</td><td class="green">1.750x</td><td>4.67x</td><td>trailing_stop</td><td></td></tr>
-</tbody></table>
+<div id="modal" onclick="if(event.target===this)closeModal()">
+<div class="mpanel">
+<span class="mclose" onclick="closeModal()">✕</span>
+<div id="modal-content"></div>
+</div>
+</div>
 <script>
-document.querySelectorAll('th').forEach(th => {
-  th.addEventListener('click', () => {
-    const table = th.closest('table');
-    const tbody = table.querySelector('tbody');
+const walletData = {"5ATd36Tdq6zrtHBokC5moRs9Y5EFSNaZQ12fzRmTeNWd": [{"symbol": "PUNCHIBI", "return": 1.0, "peak": 2.3176827249925105, "exit": "rug", "rug": true, "rug_type": "slow", "candles_held": 17}, {"symbol": "CHWIBI", "return": 2.5463125, "peak": 19.04069582546777, "exit": "rug", "rug": true, "rug_type": "slow", "candles_held": 29}, {"symbol": "OPTIGUY", "return": 2.2375, "peak": 7.924797550759074, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 14}, {"symbol": "Optimusk", "return": 1.25, "peak": 2.945128588445328, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 13}, {"symbol": "CHWIBI", "return": 0.0, "peak": 2.973158544193223, "exit": "rug", "rug": true, "rug_type": "fast", "candles_held": 1}, {"symbol": "CHIBIHAT", "return": 0.4, "peak": 1.8690157605434752, "exit": "stop_loss", "rug": false, "rug_type": null, "candles_held": 2}, {"symbol": "CHIPEPE", "return": 0.4, "peak": 1.7292441563804102, "exit": "stop_loss", "rug": false, "rug_type": null, "candles_held": 1}, {"symbol": "minichibi", "return": 0.0, "peak": 1.8005589268238802, "exit": "rug", "rug": true, "rug_type": "fast", "candles_held": 1}, {"symbol": "CHIGEN", "return": 0.0, "peak": 1.3333741095714122, "exit": "rug", "rug": true, "rug_type": "fast", "candles_held": 1}, {"symbol": "CHIGMA", "return": 0.0, "peak": 1.3062278984939317, "exit": "rug", "rug": true, "rug_type": "fast", "candles_held": 1}, {"symbol": "67CHIBI", "return": 0.4, "peak": 1.0, "exit": "stop_loss", "rug": false, "rug_type": null, "candles_held": 1}, {"symbol": "PsyopChibi", "return": 0.4, "peak": 1.6747414886604546, "exit": "stop_loss", "rug": false, "rug_type": null, "candles_held": 13}, {"symbol": "TROLLIEN", "return": 0.0, "peak": 1.9494272569770763, "exit": "rug", "rug": true, "rug_type": "slow", "candles_held": 18}, {"symbol": "IndianaWEB", "return": 1.75, "peak": 4.289462414253176, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 36}, {"symbol": "PEPEPUNCH", "return": 2.2375, "peak": 6.961024153000178, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 1}, {"symbol": "PKEY", "return": 1.75, "peak": 4.6749652065874745, "exit": "trailing_stop", "rug": false, "rug_type": null, "candles_held": 1}]};
+
+function showModal(wallet) {
+    const trades = walletData[wallet];
+    if (!trades) return;
+    
+    const tested = trades.length;
+    const wins = trades.filter(t => t.return > 1.0).length;
+    const avg = trades.reduce((s,t) => s + t.return, 0) / tested;
+    const rugs = trades.filter(t => t.rug).length;
+    const fast = trades.filter(t => t.rug_type === 'fast').length;
+    const slow = trades.filter(t => t.rug_type === 'slow').length;
+    const best = Math.max(...trades.map(t => t.return));
+    const worst = Math.min(...trades.map(t => t.return));
+    
+    let h = `<h2 style="color:#22c55e;font-size:16px;margin-bottom:4px">📋 ${wallet.slice(0,16)}...</h2>`;
+    h += `<div style="margin-bottom:8px"><a href="https://gmgn.ai/sol/address/${wallet}" target="_blank" style="font-size:11px">View on GMGN →</a></div>`;
+    
+    h += `<div class="mstats">`;
+    h += `<div class="ms"><div class="sl">Trades</div><div class="sv">${tested}</div></div>`;
+    h += `<div class="ms"><div class="sl">W/L</div><div class="sv">${wins}/${tested-wins}</div></div>`;
+    h += `<div class="ms"><div class="sl">Avg Ret</div><div class="sv ${avg>1?'g':'r'}">${avg.toFixed(2)}x</div></div>`;
+    h += `<div class="ms"><div class="sl">Best</div><div class="sv g">${best.toFixed(2)}x</div></div>`;
+    h += `<div class="ms"><div class="sl">Worst</div><div class="sv r">${worst.toFixed(2)}x</div></div>`;
+    h += `<div class="ms"><div class="sl">💀 Rugs</div><div class="sv r">${rugs}</div></div>`;
+    h += `<div class="ms"><div class="sl">⚡ Fast</div><div class="sv r">${fast}</div></div>`;
+    h += `<div class="ms"><div class="sl">🐌 Slow</div><div class="sv" style="color:#f59e0b">${slow}</div></div>`;
+    h += `</div>`;
+    
+    h += `<table style="margin-top:12px"><thead><tr>`;
+    h += `<th>#</th><th>Token</th><th>Return</th><th>Peak</th><th>Exit</th><th>Held</th><th>Rug</th>`;
+    h += `</tr></thead><tbody>`;
+    
+    trades.forEach((t, i) => {
+        const retClass = t.return > 1.0 ? 'g' : 'r';
+        let rugHtml = '';
+        if (t.rug) {
+            const mins = (t.candles_held) * 5;
+            if (t.rug_type === 'fast') {
+                rugHtml = `<span class="bd br">⚡ ${mins}m</span>`;
+            } else {
+                rugHtml = `<span class="bd by">🐌 ${mins}m</span>`;
+            }
+        }
+        const held = t.candles_held * 5;
+        h += `<tr>`;
+        h += `<td>${i+1}</td>`;
+        h += `<td>${t.symbol}</td>`;
+        h += `<td class="${retClass}">${t.return.toFixed(3)}x</td>`;
+        h += `<td>${t.peak.toFixed(2)}x</td>`;
+        h += `<td>${t.exit}</td>`;
+        h += `<td>${held}m</td>`;
+        h += `<td>${rugHtml}</td>`;
+        h += `</tr>`;
+    });
+    
+    h += `</tbody></table>`;
+    
+    document.getElementById('modal-content').innerHTML = h;
+    document.getElementById('modal').classList.add('show');
+}
+
+function closeModal() {
+    document.getElementById('modal').classList.remove('show');
+}
+
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+let sortDir = {};
+function sortTable(col) {
+    const tbody = document.querySelector('#tbl tbody');
     const rows = Array.from(tbody.querySelectorAll('tr'));
-    const idx = Array.from(th.parentNode.children).indexOf(th);
-    const asc = th.dataset.sort !== 'asc';
-    th.dataset.sort = asc ? 'asc' : 'desc';
+    const dir = sortDir[col] = !sortDir[col];
     rows.sort((a, b) => {
-      let av = a.children[idx]?.textContent?.replace(/[^0-9.\-+]/g,'') || '';
-      let bv = b.children[idx]?.textContent?.replace(/[^0-9.\-+]/g,'') || '';
-      return asc ? (parseFloat(av)||0) - (parseFloat(bv)||0) : (parseFloat(bv)||0) - (parseFloat(av)||0);
+        let av = a.children[col]?.dataset?.v || a.children[col]?.textContent?.replace(/[^0-9.\-+]/g,'') || '0';
+        let bv = b.children[col]?.dataset?.v || b.children[col]?.textContent?.replace(/[^0-9.\-+]/g,'') || '0';
+        return dir ? parseFloat(bv) - parseFloat(av) : parseFloat(av) - parseFloat(bv);
     });
     rows.forEach(r => tbody.appendChild(r));
-  });
-});
+}
 </script>
-</body></html>
+</div></body></html>
